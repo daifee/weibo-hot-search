@@ -1,0 +1,410 @@
+{
+  "runTime": 1713335836493,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2556911,
+        "num": 2556911,
+        "word": "酱园弄 谢娜",
+        "onboard_time": 1713332720,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1646456,
+        "num": 1646456,
+        "word": "氯雷他定",
+        "onboard_time": 1713327258,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51962,
+        "num": 1570220,
+        "word": "3个维度读懂中国经济首季报",
+        "onboard_time": 1713327200,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1507598,
+        "num": 1507598,
+        "word": "排卵期储水",
+        "onboard_time": 1713331039,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1011447,
+        "num": 1011447,
+        "word": "王楚钦出线",
+        "onboard_time": 1713334159,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1007194,
+        "num": 1007194,
+        "word": "酱园弄全阵容官宣",
+        "onboard_time": 1713331398,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 808291,
+        "num": 808291,
+        "word": "佛祖显0",
+        "onboard_time": 1713332537,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 691935,
+        "num": 691935,
+        "word": "抱娃开车1岁娃成了妈妈的气囊",
+        "onboard_time": 1713330020,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524883,
+        "num": 524883,
+        "word": "酱园弄阵容 半个娱乐圈",
+        "onboard_time": 1713333859,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112446,
+        "num": 486349,
+        "word": "骑手筹款救母绝望时获爱心接力",
+        "onboard_time": 1713328880,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858284,
+        "num": 486165,
+        "word": "肖战一怒之下怒了一下",
+        "onboard_time": 1713328581,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485114,
+        "num": 485114,
+        "word": "辛辛苦苦从100斤减到110斤",
+        "onboard_time": 1713325878,
+        "rank": 11,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 477813,
+        "num": 477813,
+        "word": "12306 票呢",
+        "onboard_time": 1713335358,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435067,
+        "num": 435067,
+        "word": "刘宇宁被吓哭了",
+        "onboard_time": 1713334459,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414315,
+        "num": 414315,
+        "word": "郑恺三岁去全托幼儿园",
+        "onboard_time": 1713324800,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357498,
+        "num": 357498,
+        "word": "我国不包括调休的公共假期是11天",
+        "onboard_time": 1713314719,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343148,
+        "num": 343148,
+        "word": "女孩退伍224天后收到部队转账",
+        "onboard_time": 1713316399,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325010,
+        "num": 325010,
+        "word": "王楚钦4比0格拉斯门科",
+        "onboard_time": 1713334758,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37006,
+        "num": 317170,
+        "word": "仆人动画打戏",
+        "onboard_time": 1713333917,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 312135,
+        "num": 312135,
+        "word": "孟子义赶不上跑男录制",
+        "onboard_time": 1713322458,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481265,
+        "num": 308874,
+        "word": "月薪5万夫妻裸辞义乌创业日入200",
+        "onboard_time": 1713323177,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296815,
+        "num": 296815,
+        "word": "酱园弄好多人啊",
+        "onboard_time": 1713332598,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 289198,
+        "num": 289198,
+        "word": "12306回应五一抢票难度堪比春运",
+        "onboard_time": 1713324137,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279230,
+        "num": 279230,
+        "word": "每天4杯咖啡癌症复发和死亡风险降低32%",
+        "onboard_time": 1713319458,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 273509,
+        "num": 273509,
+        "word": "奈何BOSS要娶我",
+        "onboard_time": 1713323598,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245149,
+        "num": 245149,
+        "word": "张艺兴新歌MV里有吻戏",
+        "onboard_time": 1713334938,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231764,
+        "num": 231764,
+        "word": "妈妈做的糖被室友一晚上造没了一半",
+        "onboard_time": 1713329000,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230417,
+        "num": 230417,
+        "word": "1399元演唱会门票退票只剩280元",
+        "onboard_time": 1713325159,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229369,
+        "num": 229369,
+        "word": "孟子义工作室道歉",
+        "onboard_time": 1713329239,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227473,
+        "num": 227473,
+        "word": "Jennie登VOGUE封面",
+        "onboard_time": 1713330321,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 237352,
+        "num": 223930,
+        "word": "怀孕三个月发现男友隐瞒婚史",
+        "onboard_time": 1713335119,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219795,
+        "num": 219795,
+        "word": "庞博一走微信群就安静了",
+        "onboard_time": 1713333798,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214908,
+        "num": 214908,
+        "word": "云秀行",
+        "onboard_time": 1713334459,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210296,
+        "num": 210296,
+        "word": "真的建议脾胃不好早餐要好好吃",
+        "onboard_time": 1713333978,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197007,
+        "num": 197007,
+        "word": "澳门男子及女子世界杯2024",
+        "onboard_time": 1713335418,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180088,
+        "num": 180088,
+        "word": "陶昕然发千字长文",
+        "onboard_time": 1713326718,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179020,
+        "num": 179020,
+        "word": "按角色出场顺序排列",
+        "onboard_time": 1713334638,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178239,
+        "num": 178239,
+        "word": "于正曾给许凯说跟杨紫合作不用演",
+        "onboard_time": 1713329419,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172655,
+        "num": 172655,
+        "word": "张天爱好薄一片",
+        "onboard_time": 1713332118,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169804,
+        "num": 169804,
+        "word": "韩国小学生写的传奇诗",
+        "onboard_time": 1713333499,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158761,
+        "num": 158761,
+        "word": "金赛纶将复出",
+        "onboard_time": 1713331517,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155268,
+        "num": 155268,
+        "word": "射手座最讨厌自己的一个缺点",
+        "onboard_time": 1713335298,
+        "rank": 41,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 163433,
+        "num": 155039,
+        "word": "李沐宸说杨紫人美心善",
+        "onboard_time": 1713333258,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154736,
+        "num": 154736,
+        "word": "勇士王朝落幕",
+        "onboard_time": 1713330876,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145726,
+        "num": 145726,
+        "word": "王楚钦vs格拉斯门科",
+        "onboard_time": 1713334578,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141065,
+        "num": 141065,
+        "word": "你谈不上恋爱的原因",
+        "onboard_time": 1713334699,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131387,
+        "num": 131387,
+        "word": "赵奕欢周扬青同框身材",
+        "onboard_time": 1713335717,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151668,
+        "num": 128787,
+        "word": "执笔女主李沐宸回应资源降级",
+        "onboard_time": 1713334039,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125066,
+        "num": 125066,
+        "word": "接G2 TheShy",
+        "onboard_time": 1713318737,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121821,
+        "num": 121821,
+        "word": "LWX疑似谈恋爱",
+        "onboard_time": 1713328760,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#和平解决乌克兰危机要把握四要四不要#"
+    }
+  }
+}
