@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713359979254,
+  "endTime": 1713360864980,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -641,6 +641,14 @@
       "onboard_time": 1713277220,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1021365,
+      "num": 465910,
+      "word": "黑龙江大学",
+      "onboard_time": 1713359420,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 1011447,
@@ -1323,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 724557,
+      "num": 724557,
+      "word": "警方通报知名茶企老板一家三口遇害",
+      "onboard_time": 1713358399,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 719583,
       "num": 719583,
       "word": "38块钱居然能吃20个菜",
@@ -1409,6 +1425,14 @@
       "onboard_time": 1713226519,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 688389,
+      "num": 688389,
+      "word": "百田",
+      "onboard_time": 1713360259,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 684515,
@@ -2235,14 +2259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 496291,
-      "num": 496291,
-      "word": "警方通报知名茶企老板一家三口遇害",
-      "onboard_time": 1713358399,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 496176,
       "num": 496176,
       "word": "厦门大学食堂建议本",
@@ -2361,6 +2377,14 @@
       "onboard_time": 1713166757,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 477757,
+      "num": 249441,
+      "word": "建议胃不好的人常吃这4种水果",
+      "onboard_time": 1713359659,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 476216,
@@ -2689,6 +2713,14 @@
       "onboard_time": 1713186859,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 439261,
+      "num": 439261,
+      "word": "杨紫高定黑礼裙",
+      "onboard_time": 1713359958,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 438857,
@@ -3251,6 +3283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381271,
+      "num": 381271,
+      "word": "歌手 营销",
+      "onboard_time": 1713355459,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381201,
       "num": 254913,
       "word": "咖啡为什么越卖越便宜",
@@ -3329,14 +3369,6 @@
       "onboard_time": 1713155480,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 376747,
-      "num": 376747,
-      "word": "歌手 营销",
-      "onboard_time": 1713355459,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 376696,
@@ -3601,6 +3633,14 @@
       "onboard_time": 1713081678,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 355990,
+      "num": 355990,
+      "word": "十个勤天卖大米",
+      "onboard_time": 1713358699,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 355500,
@@ -4355,14 +4395,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 288201,
-      "num": 288201,
-      "word": "十个勤天卖大米",
-      "onboard_time": 1713358699,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 288181,
       "num": 221907,
       "word": "原来大学老师才是真正的顶流",
@@ -4409,14 +4441,6 @@
       "onboard_time": 1713054797,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 286082,
-      "num": 286082,
-      "word": "黑龙江大学",
-      "onboard_time": 1713359420,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 285564,
@@ -5043,6 +5067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245503,
+      "num": 469969,
+      "word": "樊振东晋级世界杯16强",
+      "onboard_time": 1713359479,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245306,
       "num": 245306,
       "word": "庞博一走微信群就安静了",
@@ -5097,6 +5129,14 @@
       "onboard_time": 1713065897,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242752,
+      "num": 232048,
+      "word": "杨紫工作室出图",
+      "onboard_time": 1713360139,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 242629,
@@ -5323,14 +5363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 233670,
-      "num": 161942,
-      "word": "建议胃不好的人常吃这4种水果",
-      "onboard_time": 1713359659,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 233520,
       "num": 227050,
       "word": "华为Pura怎么读",
@@ -5393,6 +5425,14 @@
       "onboard_time": 1713280939,
       "rank": 33,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 232606,
+      "num": 232606,
+      "word": "惜花芷站内热度破万",
+      "onboard_time": 1713360679,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 232393,
@@ -6067,14 +6107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209963,
-      "num": 209963,
-      "word": "杨紫高定黑礼裙",
-      "onboard_time": 1713359958,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 209854,
       "num": 209854,
       "word": "周也梦中情猫变装",
@@ -6435,14 +6467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 200448,
-      "num": 442189,
-      "word": "樊振东晋级世界杯16强",
-      "onboard_time": 1713359479,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200161,
       "num": 200161,
       "word": "毛不易的每一句歌词都是文案",
@@ -6675,6 +6699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195069,
+      "num": 195069,
+      "word": "台剧 40岁女性",
+      "onboard_time": 1713356298,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195066,
       "num": 195066,
       "word": "白鹿出发重庆",
@@ -6841,14 +6873,6 @@
       "onboard_time": 1713334638,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 191298,
-      "num": 191298,
-      "word": "台剧 40岁女性",
-      "onboard_time": 1713356298,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 190874,
@@ -7067,6 +7091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 186221,
+      "num": 211722,
+      "word": "睡前喝牛奶真能助眠吗",
+      "onboard_time": 1713357921,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 185930,
       "num": 185930,
       "word": "存的钱被告知过期了",
@@ -7129,6 +7161,14 @@
       "onboard_time": 1713329840,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183936,
+      "num": 183936,
+      "word": "只有师范生知道他讲的有多好",
+      "onboard_time": 1713360259,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 183911,
@@ -7739,14 +7779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168353,
-      "num": 168353,
-      "word": "睡前喝牛奶真能助眠吗",
-      "onboard_time": 1713357921,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 168160,
       "num": 168160,
       "word": "定风波 张楠",
@@ -8057,6 +8089,14 @@
       "onboard_time": 1713080237,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 161616,
+      "num": 161616,
+      "word": "WBG疑似参加沙特电竞杯",
+      "onboard_time": 1713359599,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 161126,
@@ -8379,6 +8419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154104,
+      "num": 154104,
+      "word": "福宝回国开启躺吃模式",
+      "onboard_time": 1713360318,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154093,
       "num": 154093,
       "word": "傅娟回忆抗癌过程",
@@ -8569,14 +8617,6 @@
       "onboard_time": 1713164658,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150552,
-      "num": 150552,
-      "word": "WBG疑似参加沙特电竞杯",
-      "onboard_time": 1713359599,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 150134,
@@ -9011,6 +9051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143027,
+      "num": 143027,
+      "word": "华为官宣P系列品牌升级为Pura",
+      "onboard_time": 1713360378,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 143003,
       "num": 143003,
       "word": "于正官宣五福临门全剧杀青",
@@ -9273,6 +9321,14 @@
       "onboard_time": 1713179358,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136935,
+      "num": 136935,
+      "word": "妻子遭家暴后用开水浇丈夫",
+      "onboard_time": 1713360498,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136817,
@@ -11418,6 +11474,9 @@
     },
     {
       "word": "#中德两国应相向而行互利共赢#"
+    },
+    {
+      "word": "#中德领导人漫步钓鱼台#"
     }
   ]
 }
