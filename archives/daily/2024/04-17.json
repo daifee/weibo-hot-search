@@ -1,6 +1,6 @@
 {
   "startTime": 1713284571046,
-  "endTime": 1713345512235,
+  "endTime": 1713346465125,
   "band_list": [
     {
       "raw_hot": 3167017,
@@ -25,6 +25,14 @@
       "onboard_time": 1713314719,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2223333,
+      "num": 2223333,
+      "word": "蔡徐坤 发福",
+      "onboard_time": 1713345258,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1943927,
@@ -499,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469887,
+      "num": 469887,
+      "word": "林彦俊 哑巴前夫有话说",
+      "onboard_time": 1713345438,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 468719,
       "num": 241976,
       "word": "中医说早上不要破气",
@@ -547,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 446976,
+      "num": 270916,
+      "word": "30岁了还在应聘基础岗位",
+      "onboard_time": 1713342738,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 435067,
       "num": 435067,
       "word": "刘宇宁被吓哭了",
@@ -569,6 +593,14 @@
       "onboard_time": 1713338178,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 433092,
+      "num": 433092,
+      "word": "阚清子新中式",
+      "onboard_time": 1713345016,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 425692,
@@ -619,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 399564,
-      "num": 270916,
-      "word": "30岁了还在应聘基础岗位",
-      "onboard_time": 1713342738,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 396634,
       "num": 396634,
       "word": "勇士无缘季后赛",
@@ -649,14 +673,6 @@
       "onboard_time": 1713327921,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 391563,
-      "num": 391563,
-      "word": "蔡徐坤 发福",
-      "onboard_time": 1713345258,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 391008,
@@ -737,14 +753,6 @@
       "onboard_time": 1713337519,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 360584,
-      "num": 360584,
-      "word": "阚清子新中式",
-      "onboard_time": 1713345016,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 358567,
@@ -1019,6 +1027,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 242436,
+      "num": 242436,
+      "word": "万妮达 浪姐",
+      "onboard_time": 1713345138,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240582,
       "num": 240582,
       "word": "哈尔滨震感",
@@ -1073,6 +1089,14 @@
       "onboard_time": 1713323778,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234840,
+      "num": 234840,
+      "word": "惜花芷口碑逆跌",
+      "onboard_time": 1713344838,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 234760,
@@ -1531,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180842,
+      "num": 180842,
+      "word": "教育局回应河北一小学生身亡",
+      "onboard_time": 1713345799,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177587,
       "num": 166644,
       "word": "李沐宸说杨紫人美心善",
@@ -1611,14 +1643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165665,
-      "num": 165665,
-      "word": "惜花芷口碑逆跌",
-      "onboard_time": 1713344838,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165525,
       "num": 165525,
       "word": "为什么穷人家庭不和睦",
@@ -1651,14 +1675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159891,
-      "num": 159891,
-      "word": "万妮达 浪姐",
-      "onboard_time": 1713345138,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159286,
       "num": 159286,
       "word": "给意大利带来一点国风震撼",
@@ -1683,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157223,
+      "num": 157223,
+      "word": "果然学习可以使人快乐",
+      "onboard_time": 1713345799,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155608,
       "num": 140802,
       "word": "执笔女主李沐宸回应资源降级",
@@ -1705,14 +1729,6 @@
       "onboard_time": 1713279439,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 153751,
-      "num": 153751,
-      "word": "林彦俊 哑巴前夫有话说",
-      "onboard_time": 1713345438,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 153193,
@@ -1753,6 +1769,14 @@
       "onboard_time": 1713331758,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149792,
+      "num": 149792,
+      "word": "原来躺着就能改善驼背",
+      "onboard_time": 1713343457,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 149294,
@@ -1891,12 +1915,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135447,
-      "num": 135447,
-      "word": "原来躺着就能改善驼背",
-      "onboard_time": 1713343457,
-      "rank": 40,
-      "category": "运动健身"
+      "raw_hot": 136021,
+      "num": 136021,
+      "word": "边佑锡身材",
+      "onboard_time": 1713345438,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 134274,
@@ -1915,6 +1939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132434,
+      "num": 132434,
+      "word": "这是快三十岁的人该干的事吗",
+      "onboard_time": 1713345859,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131364,
       "num": 131364,
       "word": "500万粉主播澄清撞脸命案逃犯",
@@ -1929,6 +1961,14 @@
       "onboard_time": 1713343039,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130448,
+      "num": 130448,
+      "word": "很羡慕能用姓氏做英文名的人",
+      "onboard_time": 1713344538,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 128258,
@@ -1953,14 +1993,6 @@
       "onboard_time": 1713312077,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121662,
-      "num": 121662,
-      "word": "很羡慕能用姓氏做英文名的人",
-      "onboard_time": 1713344538,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 121396,
@@ -2091,6 +2123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 104618,
+      "num": 104618,
+      "word": "全红婵赛前练习时教练的情绪管理",
+      "onboard_time": 1713343637,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104498,
       "num": 104498,
       "word": "白猫因过于淡定被质疑耳聋",
@@ -2209,6 +2249,14 @@
       "onboard_time": 1713277700,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81955,
+      "num": 1039114,
+      "word": "消博会上掀起了一股国潮风",
+      "onboard_time": 1713345198,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81082,
@@ -2377,14 +2425,6 @@
       "onboard_time": 1713291312,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31015,
-      "num": 851471,
-      "word": "消博会上掀起了一股国潮风",
-      "onboard_time": 1713345198,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30976,

@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713345512235,
+  "endTime": 1713346465125,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -105,6 +105,14 @@
       "onboard_time": 1713314719,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2223333,
+      "num": 2223333,
+      "word": "蔡徐坤 发福",
+      "onboard_time": 1713345258,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2163286,
@@ -2283,6 +2291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 469887,
+      "num": 469887,
+      "word": "林彦俊 哑巴前夫有话说",
+      "onboard_time": 1713345438,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 469638,
       "num": 279190,
       "word": "睡前1分钟躺着就能瘦肚子",
@@ -2475,6 +2491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 446976,
+      "num": 270916,
+      "word": "30岁了还在应聘基础岗位",
+      "onboard_time": 1713342738,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 444205,
       "num": 444205,
       "word": "老人敞开自家古宅供免费参观被爹味说教",
@@ -2585,6 +2609,14 @@
       "onboard_time": 1713338178,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 433092,
+      "num": 433092,
+      "word": "阚清子新中式",
+      "onboard_time": 1713345016,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 432840,
@@ -2843,14 +2875,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 399564,
-      "num": 270916,
-      "word": "30岁了还在应聘基础岗位",
-      "onboard_time": 1713342738,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 399421,
       "num": 393962,
       "word": "张艺兴抵达韩国",
@@ -2953,14 +2977,6 @@
       "onboard_time": 1713266478,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 391563,
-      "num": 391563,
-      "word": "蔡徐坤 发福",
-      "onboard_time": 1713345258,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 391238,
@@ -3352,14 +3368,6 @@
       "word": "李泰容光头",
       "onboard_time": 1713060559,
       "rank": 14,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 360584,
-      "num": 360584,
-      "word": "阚清子新中式",
-      "onboard_time": 1713345016,
-      "rank": 11,
       "category": "作品衍生"
     },
     {
@@ -4843,6 +4851,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 242436,
+      "num": 242436,
+      "word": "万妮达 浪姐",
+      "onboard_time": 1713345138,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242007,
       "num": 242007,
       "word": "王嘉尔刘雨昕88rising同台",
@@ -5009,6 +5025,14 @@
       "onboard_time": 1713323778,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234840,
+      "num": 234840,
+      "word": "惜花芷口碑逆跌",
+      "onboard_time": 1713344838,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 234760,
@@ -6899,6 +6923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180842,
+      "num": 180842,
+      "word": "教育局回应河北一小学生身亡",
+      "onboard_time": 1713345799,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180828,
       "num": 180828,
       "word": "周一周一我要迪士尼",
@@ -7451,14 +7483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165665,
-      "num": 165665,
-      "word": "惜花芷口碑逆跌",
-      "onboard_time": 1713344838,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165605,
       "num": 165605,
       "word": "湖人战胜鹈鹕",
@@ -7683,14 +7707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159891,
-      "num": 159891,
-      "word": "万妮达 浪姐",
-      "onboard_time": 1713345138,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159831,
       "num": 159831,
       "word": "王曼昱4比0迪亚科努",
@@ -7817,6 +7833,14 @@
       "onboard_time": 1713163818,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157223,
+      "num": 157223,
+      "word": "果然学习可以使人快乐",
+      "onboard_time": 1713345799,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 157219,
@@ -8019,14 +8043,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 153751,
-      "num": 153751,
-      "word": "林彦俊 哑巴前夫有话说",
-      "onboard_time": 1713345438,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153542,
       "num": 153542,
       "word": "停止内耗的核心",
@@ -8169,6 +8185,14 @@
       "onboard_time": 1713019099,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149792,
+      "num": 149792,
+      "word": "原来躺着就能改善驼背",
+      "onboard_time": 1713343457,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 149570,
@@ -8803,6 +8827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136021,
+      "num": 136021,
+      "word": "边佑锡身材",
+      "onboard_time": 1713345438,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 135658,
       "num": 135658,
       "word": "CBA",
@@ -8817,14 +8849,6 @@
       "onboard_time": 1713236417,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 135447,
-      "num": 135447,
-      "word": "原来躺着就能改善驼背",
-      "onboard_time": 1713343457,
-      "rank": 40,
-      "category": "运动健身"
     },
     {
       "raw_hot": 135334,
@@ -8913,6 +8937,14 @@
       "onboard_time": 1713082577,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132434,
+      "num": 132434,
+      "word": "这是快三十岁的人该干的事吗",
+      "onboard_time": 1713345859,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 132279,
@@ -9025,6 +9057,14 @@
       "onboard_time": 1713165858,
       "rank": 37,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 130448,
+      "num": 130448,
+      "word": "很羡慕能用姓氏做英文名的人",
+      "onboard_time": 1713344538,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 129757,
@@ -9305,14 +9345,6 @@
       "onboard_time": 1713269537,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 121662,
-      "num": 121662,
-      "word": "很羡慕能用姓氏做英文名的人",
-      "onboard_time": 1713344538,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 121396,
@@ -9739,6 +9771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104618,
+      "num": 104618,
+      "word": "全红婵赛前练习时教练的情绪管理",
+      "onboard_time": 1713343637,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104512,
       "num": 104512,
       "word": "诺米谢帝同一场音乐节",
@@ -9969,6 +10009,14 @@
       "onboard_time": 1713306071,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81955,
+      "num": 1039114,
+      "word": "消博会上掀起了一股国潮风",
+      "onboard_time": 1713345198,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77410,
@@ -10457,14 +10505,6 @@
       "onboard_time": 1713202273,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 31015,
-      "num": 851471,
-      "word": "消博会上掀起了一股国潮风",
-      "onboard_time": 1713345198,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30976,

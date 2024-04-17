@@ -1,0 +1,410 @@
+{
+  "runTime": 1713346465125,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2223333,
+        "num": 2223333,
+        "word": "蔡徐坤 发福",
+        "onboard_time": 1713345258,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1050292,
+        "num": 1050292,
+        "word": "如懿传 李纯",
+        "onboard_time": 1713340158,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81955,
+        "num": 1039114,
+        "word": "消博会上掀起了一股国潮风",
+        "onboard_time": 1713345198,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1038996,
+        "num": 1038996,
+        "word": "12306积分首次使用必须满1万",
+        "onboard_time": 1713341838,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674418,
+        "num": 674418,
+        "word": "氯雷他定",
+        "onboard_time": 1713327258,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 550796,
+        "num": 550796,
+        "word": "当地警方回应高校女生带病出操死亡",
+        "onboard_time": 1713341897,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482266,
+        "num": 482266,
+        "word": "排卵期储水",
+        "onboard_time": 1713331039,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 469887,
+        "num": 469887,
+        "word": "林彦俊 哑巴前夫有话说",
+        "onboard_time": 1713345438,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433092,
+        "num": 433092,
+        "word": "阚清子新中式",
+        "onboard_time": 1713345016,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293145,
+        "num": 427492,
+        "word": "全红婵陈芋汐十米台再现神同步",
+        "onboard_time": 1713340039,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422819,
+        "num": 422819,
+        "word": "多名网红上薛之谦演唱会互动露脸",
+        "onboard_time": 1713338299,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 388346,
+        "num": 388346,
+        "word": "抱娃开车1岁娃成了妈妈的气囊",
+        "onboard_time": 1713330020,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312579,
+        "num": 312579,
+        "word": "买小米SU7被极越辞退员工发声",
+        "onboard_time": 1713337038,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 299504,
+        "num": 299504,
+        "word": "佛祖显0",
+        "onboard_time": 1713332537,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296579,
+        "num": 296579,
+        "word": "12306 票呢",
+        "onboard_time": 1713335358,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270063,
+        "num": 270063,
+        "word": "以军称将回击伊朗",
+        "onboard_time": 1713342258,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 262504,
+        "num": 262504,
+        "word": "酱园弄全阵容官宣",
+        "onboard_time": 1713331398,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258273,
+        "num": 258273,
+        "word": "谢娜赵丽颖首次合作",
+        "onboard_time": 1713338178,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242436,
+        "num": 242436,
+        "word": "万妮达 浪姐",
+        "onboard_time": 1713345138,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234840,
+        "num": 234840,
+        "word": "惜花芷口碑逆跌",
+        "onboard_time": 1713344838,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 903069,
+        "num": 234830,
+        "word": "酱园弄 谢娜",
+        "onboard_time": 1713332720,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 498718,
+        "num": 234784,
+        "word": "36岁女子存300万后提前退休",
+        "onboard_time": 1713340459,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446976,
+        "num": 234762,
+        "word": "30岁了还在应聘基础岗位",
+        "onboard_time": 1713342738,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 435049,
+        "num": 234718,
+        "word": "怀孕三个月发现男友隐瞒婚史",
+        "onboard_time": 1713335119,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245178,
+        "num": 234666,
+        "word": "月薪5万夫妻裸辞义乌创业日入200",
+        "onboard_time": 1713323177,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234658,
+        "num": 234658,
+        "word": "谢娜你闷声干大事",
+        "onboard_time": 1713336557,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228067,
+        "num": 228067,
+        "word": "肖战一怒之下怒了一下",
+        "onboard_time": 1713328581,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222377,
+        "num": 222377,
+        "word": "如懿传",
+        "onboard_time": 1713344057,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190328,
+        "num": 190328,
+        "word": "杨幂李现合作了",
+        "onboard_time": 1713336379,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180842,
+        "num": 180842,
+        "word": "教育局回应河北一小学生身亡",
+        "onboard_time": 1713345799,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1200080,
+        "num": 175082,
+        "word": "周迅 B站",
+        "onboard_time": 1713337157,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186891,
+        "num": 174524,
+        "word": "TFBOYS宣传酱园弄",
+        "onboard_time": 1713337519,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165834,
+        "num": 165834,
+        "word": "魔卡少女樱 小樱知世",
+        "onboard_time": 1713342318,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 165004,
+        "num": 165004,
+        "word": "打疫苗主动撅起屁股的狗狗",
+        "onboard_time": 1713344119,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157223,
+        "num": 157223,
+        "word": "果然学习可以使人快乐",
+        "onboard_time": 1713345799,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150345,
+        "num": 150345,
+        "word": "东部战区回应美军机过航台湾海峡",
+        "onboard_time": 1713338539,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149792,
+        "num": 149792,
+        "word": "原来躺着就能改善驼背",
+        "onboard_time": 1713343457,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 145177,
+        "num": 145177,
+        "word": "辛辛苦苦从100斤减到110斤",
+        "onboard_time": 1713325878,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 136021,
+        "num": 136021,
+        "word": "边佑锡身材",
+        "onboard_time": 1713345438,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134248,
+        "num": 134248,
+        "word": "中国港珠澳大桥总工程师苏权科",
+        "onboard_time": 1713343097,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 132434,
+        "num": 132434,
+        "word": "这是快三十岁的人该干的事吗",
+        "onboard_time": 1713345859,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130448,
+        "num": 130448,
+        "word": "很羡慕能用姓氏做英文名的人",
+        "onboard_time": 1713344538,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130352,
+        "num": 130352,
+        "word": "张艺兴新歌空降成绩",
+        "onboard_time": 1713341599,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120265,
+        "num": 120265,
+        "word": "赵奕欢周扬青同框身材",
+        "onboard_time": 1713335717,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114319,
+        "num": 114319,
+        "word": "周杰伦长沙演唱会4月18日开票",
+        "onboard_time": 1713343039,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112335,
+        "num": 112335,
+        "word": "王楚钦说庆幸自己活过来了",
+        "onboard_time": 1713337757,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111708,
+        "num": 111708,
+        "word": "周淑怡 说唱圈",
+        "onboard_time": 1713337398,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 110511,
+        "num": 110511,
+        "word": "生孩子太晚会遗憾吗",
+        "onboard_time": 1713338119,
+        "rank": 47,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 104618,
+        "num": 104618,
+        "word": "全红婵赛前练习时教练的情绪管理",
+        "onboard_time": 1713343637,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104254,
+        "num": 104254,
+        "word": "麦承欢治了8个癫公癫婆",
+        "onboard_time": 1713338600,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#要为局势降温不要拱火浇油#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713345512235,
+  "endTime": 1713346465125,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -425,6 +425,14 @@
       "onboard_time": 1713314719,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2223333,
+      "num": 2223333,
+      "word": "蔡徐坤 发福",
+      "onboard_time": 1713345258,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2221885,
@@ -11499,6 +11507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 469887,
+      "num": 469887,
+      "word": "林彦俊 哑巴前夫有话说",
+      "onboard_time": 1713345438,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 469638,
       "num": 283182,
       "word": "睡前1分钟躺着就能瘦肚子",
@@ -12291,6 +12307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446976,
+      "num": 270916,
+      "word": "30岁了还在应聘基础岗位",
+      "onboard_time": 1713342738,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 446290,
       "num": 446290,
       "word": "网红杨立新及母亲遭男友杀害",
@@ -12777,6 +12801,14 @@
       "onboard_time": 1712324179,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433092,
+      "num": 433092,
+      "word": "阚清子新中式",
+      "onboard_time": 1713345016,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 432840,
@@ -13875,14 +13907,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 399564,
-      "num": 270916,
-      "word": "30岁了还在应聘基础岗位",
-      "onboard_time": 1713342738,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 399421,
       "num": 393962,
       "word": "张艺兴抵达韩国",
@@ -14185,14 +14209,6 @@
       "onboard_time": 1712492899,
       "rank": 26,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 391563,
-      "num": 391563,
-      "word": "蔡徐坤 发福",
-      "onboard_time": 1713345258,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 391238,
@@ -15456,14 +15472,6 @@
       "word": "李泰容光头",
       "onboard_time": 1713060559,
       "rank": 14,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 360584,
-      "num": 360584,
-      "word": "阚清子新中式",
-      "onboard_time": 1713345016,
-      "rank": 11,
       "category": "作品衍生"
     },
     {
@@ -22611,6 +22619,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 242436,
+      "num": 242436,
+      "word": "万妮达 浪姐",
+      "onboard_time": 1713345138,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242348,
       "num": 242348,
       "word": "京城大师赛",
@@ -23296,6 +23312,14 @@
       "word": "王一博今晚两场直播",
       "onboard_time": 1712312838,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234840,
+      "num": 234840,
+      "word": "惜花芷口碑逆跌",
+      "onboard_time": 1713344838,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -31907,6 +31931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 180842,
+      "num": 180842,
+      "word": "教育局回应河北一小学生身亡",
+      "onboard_time": 1713345799,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180828,
       "num": 180828,
       "word": "周一周一我要迪士尼",
@@ -34291,14 +34323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165665,
-      "num": 165665,
-      "word": "惜花芷口碑逆跌",
-      "onboard_time": 1713344838,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165661,
       "num": 165661,
       "word": "剑网3发布赛事异常详情说明",
@@ -35283,14 +35307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159891,
-      "num": 159891,
-      "word": "万妮达 浪姐",
-      "onboard_time": 1713345138,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159831,
       "num": 159831,
       "word": "王曼昱4比0迪亚科努",
@@ -35841,6 +35857,14 @@
       "onboard_time": 1713163818,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157223,
+      "num": 157223,
+      "word": "果然学习可以使人快乐",
+      "onboard_time": 1713345799,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 157219,
@@ -36481,14 +36505,6 @@
       "onboard_time": 1712315659,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153751,
-      "num": 153751,
-      "word": "林彦俊 哑巴前夫有话说",
-      "onboard_time": 1713345438,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 153720,
@@ -37313,6 +37329,14 @@
       "onboard_time": 1712033300,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149792,
+      "num": 149792,
+      "word": "原来躺着就能改善驼背",
+      "onboard_time": 1713343457,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 149684,
@@ -39867,6 +39891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136021,
+      "num": 136021,
+      "word": "边佑锡身材",
+      "onboard_time": 1713345438,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 135954,
       "num": 135954,
       "word": "刘诗诗清水淡妆",
@@ -39977,14 +40009,6 @@
       "onboard_time": 1713236417,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 135447,
-      "num": 135447,
-      "word": "原来躺着就能改善驼背",
-      "onboard_time": 1713343457,
-      "rank": 40,
-      "category": "运动健身"
     },
     {
       "raw_hot": 135366,
@@ -40475,6 +40499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132434,
+      "num": 132434,
+      "word": "这是快三十岁的人该干的事吗",
+      "onboard_time": 1713345859,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132306,
       "num": 132306,
       "word": "追风者男团跳舞",
@@ -40801,6 +40833,14 @@
       "onboard_time": 1712055198,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130448,
+      "num": 130448,
+      "word": "很羡慕能用姓氏做英文名的人",
+      "onboard_time": 1713344538,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 130430,
@@ -41977,14 +42017,6 @@
       "onboard_time": 1713269537,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 121662,
-      "num": 121662,
-      "word": "很羡慕能用姓氏做英文名的人",
-      "onboard_time": 1713344538,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 121618,
@@ -43643,6 +43675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104618,
+      "num": 104618,
+      "word": "全红婵赛前练习时教练的情绪管理",
+      "onboard_time": 1713343637,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104610,
       "num": 104610,
       "word": "原来林更新粉丝吃这么好",
@@ -44769,6 +44809,14 @@
       "onboard_time": 1712854334,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81955,
+      "num": 1039114,
+      "word": "消博会上掀起了一股国潮风",
+      "onboard_time": 1713345198,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81866,
@@ -46729,14 +46777,6 @@
       "onboard_time": 1712686153,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 31015,
-      "num": 851471,
-      "word": "消博会上掀起了一股国潮风",
-      "onboard_time": 1713345198,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30976,
