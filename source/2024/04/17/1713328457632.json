@@ -1,0 +1,410 @@
+{
+  "runTime": 1713328457632,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1796141,
+        "num": 1796141,
+        "word": "月薪5万夫妻裸辞义乌创业日入200",
+        "onboard_time": 1713323177,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1469160,
+        "num": 1469160,
+        "word": "氯雷他定",
+        "onboard_time": 1713327258,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 44358,
+        "num": 1317195,
+        "word": "3个维度读懂中国经济首季报",
+        "onboard_time": 1713327200,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1204782,
+        "num": 1204782,
+        "word": "奈何BOSS要娶我",
+        "onboard_time": 1713323598,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1071166,
+        "num": 1071166,
+        "word": "我的离职申请只有一句话",
+        "onboard_time": 1713325039,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 966041,
+        "num": 966041,
+        "word": "每天4杯咖啡癌症复发和死亡风险降低32%",
+        "onboard_time": 1713319458,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 783109,
+        "num": 783109,
+        "word": "郑恺三岁去全托幼儿园",
+        "onboard_time": 1713324800,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 700864,
+        "num": 700864,
+        "word": "孟子义赶不上跑男录制",
+        "onboard_time": 1713322458,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 566233,
+        "num": 678723,
+        "word": "女孩退伍224天后收到部队转账",
+        "onboard_time": 1713316399,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678089,
+        "num": 678089,
+        "word": "辛辛苦苦从100斤减到110斤",
+        "onboard_time": 1713325878,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 946141,
+        "num": 660341,
+        "word": "我国不包括调休的公共假期是11天",
+        "onboard_time": 1713314719,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602274,
+        "num": 602274,
+        "word": "1399元演唱会门票退票只剩280元",
+        "onboard_time": 1713325159,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 570247,
+        "num": 570247,
+        "word": "陶昕然发千字长文",
+        "onboard_time": 1713326718,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472381,
+        "num": 472381,
+        "word": "肖战羽绒服",
+        "onboard_time": 1713325578,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460097,
+        "num": 460097,
+        "word": "迪卡侬开始抛弃穷鬼了吗",
+        "onboard_time": 1713318257,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 387211,
+        "num": 387211,
+        "word": "勇士vs国王",
+        "onboard_time": 1713323419,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360432,
+        "num": 360432,
+        "word": "12306回应五一抢票难度堪比春运",
+        "onboard_time": 1713324137,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350446,
+        "num": 350446,
+        "word": "本科生县城工作平均月收入5377元",
+        "onboard_time": 1713312979,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38915,
+        "num": 312491,
+        "word": "全国球迷为中国女篮加油",
+        "onboard_time": 1713326599,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311862,
+        "num": 311862,
+        "word": "接G2 TheShy",
+        "onboard_time": 1713318737,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 395084,
+        "num": 311843,
+        "word": "任敏体态",
+        "onboard_time": 1713310096,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337622,
+        "num": 311781,
+        "word": "同事房租2800还找我借钱",
+        "onboard_time": 1713324919,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311478,
+        "num": 311478,
+        "word": "偶像张艺兴回归",
+        "onboard_time": 1713327921,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 285503,
+        "num": 285503,
+        "word": "中医建议我把水果戒了",
+        "onboard_time": 1713314058,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244968,
+        "num": 244968,
+        "word": "马龙4比0李元璋",
+        "onboard_time": 1713327740,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236314,
+        "num": 236314,
+        "word": "苏打绿全员cos徐冬冬",
+        "onboard_time": 1713322937,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230701,
+        "num": 230701,
+        "word": "电影三叉戟定档",
+        "onboard_time": 1713322698,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228297,
+        "num": 228297,
+        "word": "00后大学生买劣质防晒服",
+        "onboard_time": 1713322278,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 221868,
+        "num": 221868,
+        "word": "什么是上班20分钟定律",
+        "onboard_time": 1713324258,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211927,
+        "num": 211927,
+        "word": "沈星回温软怦然",
+        "onboard_time": 1713327740,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209271,
+        "num": 209271,
+        "word": "肖战代言安吉尔",
+        "onboard_time": 1713320358,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204302,
+        "num": 204302,
+        "word": "突然就不想严格防晒了",
+        "onboard_time": 1713327921,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 201012,
+        "num": 201012,
+        "word": "朝雪录阵容官宣",
+        "onboard_time": 1713326179,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197878,
+        "num": 197878,
+        "word": "西安交大一附院多名医生涉学术不端被通报",
+        "onboard_time": 1713320119,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187700,
+        "num": 187700,
+        "word": "张颂文我故意这样的",
+        "onboard_time": 1713322399,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183068,
+        "num": 183068,
+        "word": "小姑子要把我女儿头发剃光",
+        "onboard_time": 1713317598,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177241,
+        "num": 177241,
+        "word": "候补也是秒灰",
+        "onboard_time": 1713326419,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173492,
+        "num": 173492,
+        "word": "五月天深圳",
+        "onboard_time": 1713324558,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172271,
+        "num": 172271,
+        "word": "美方将对伊朗实施新制裁",
+        "onboard_time": 1713321318,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 165508,
+        "num": 165508,
+        "word": "霍建华张雪迎新剧什么关系",
+        "onboard_time": 1713327680,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164631,
+        "num": 164631,
+        "word": "薛之谦曾称演唱会互动观众由摄影师选",
+        "onboard_time": 1713317598,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160225,
+        "num": 164351,
+        "word": "肖战水蓝科技感大片",
+        "onboard_time": 1713325159,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164075,
+        "num": 164075,
+        "word": "林彦俊见面会取消",
+        "onboard_time": 1713323778,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160431,
+        "num": 160431,
+        "word": "六公主认证惜花芷反套路不矫情",
+        "onboard_time": 1713325098,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155187,
+        "num": 155187,
+        "word": "猫咪撑到主人回家咬着衣角离世",
+        "onboard_time": 1713310696,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152812,
+        "num": 152812,
+        "word": "徐明浩终于出现了",
+        "onboard_time": 1713328400,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138507,
+        "num": 138507,
+        "word": "财神爷 钱会流向不缺钱的人",
+        "onboard_time": 1713328160,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134535,
+        "num": 134535,
+        "word": "腾讯2024两部剧破30000",
+        "onboard_time": 1713314300,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131118,
+        "num": 131118,
+        "word": "墨子圣斗士皮肤",
+        "onboard_time": 1713321737,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129084,
+        "num": 129084,
+        "word": "五一购票难度堪比春运",
+        "onboard_time": 1713320119,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#和平解决乌克兰危机要把握四要四不要#"
+    }
+  }
+}

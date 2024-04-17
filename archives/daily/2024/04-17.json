@@ -1,6 +1,6 @@
 {
   "startTime": 1713284571046,
-  "endTime": 1713327715325,
+  "endTime": 1713328457632,
   "band_list": [
     {
       "raw_hot": 2226470,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1469160,
+      "num": 1469160,
+      "word": "氯雷他定",
+      "onboard_time": 1713327258,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1360247,
       "num": 1360247,
       "word": "女孩退伍224天后收到部队转账",
@@ -57,6 +65,14 @@
       "onboard_time": 1713323598,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1071166,
+      "num": 1071166,
+      "word": "我的离职申请只有一句话",
+      "onboard_time": 1713325039,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 1011433,
@@ -83,8 +99,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 933244,
-      "num": 933244,
+      "raw_hot": 966041,
+      "num": 966041,
       "word": "每天4杯咖啡癌症复发和死亡风险降低32%",
       "onboard_time": 1713319458,
       "rank": 20,
@@ -97,14 +113,6 @@
       "onboard_time": 1713276800,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 837052,
-      "num": 837052,
-      "word": "我的离职申请只有一句话",
-      "onboard_time": 1713325039,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 836053,
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 783109,
+      "num": 783109,
+      "word": "郑恺三岁去全托幼儿园",
+      "onboard_time": 1713324800,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 747094,
       "num": 452002,
       "word": "任敏体态",
@@ -139,16 +155,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 713553,
-      "num": 713553,
-      "word": "郑恺三岁去全托幼儿园",
-      "onboard_time": 1713324800,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 678089,
+      "num": 678089,
+      "word": "辛辛苦苦从100斤减到110斤",
+      "onboard_time": 1713325878,
+      "rank": 7,
+      "category": "运动健身"
     },
     {
       "raw_hot": 646621,
-      "num": 276876,
+      "num": 285503,
       "word": "中医建议我把水果戒了",
       "onboard_time": 1713314058,
       "rank": 20,
@@ -163,16 +179,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 639964,
-      "num": 639964,
-      "word": "辛辛苦苦从100斤减到110斤",
-      "onboard_time": 1713325878,
-      "rank": 7,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 579942,
-      "num": 579942,
+      "raw_hot": 602274,
+      "num": 602274,
       "word": "1399元演唱会门票退票只剩280元",
       "onboard_time": 1713325159,
       "rank": 11,
@@ -184,6 +192,14 @@
       "word": "我娱乐圈唯一的人脉要失联了",
       "onboard_time": 1713277458,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 570247,
+      "num": 570247,
+      "word": "陶昕然发千字长文",
+      "onboard_time": 1713326718,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -291,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 472381,
+      "num": 472381,
+      "word": "肖战羽绒服",
+      "onboard_time": 1713325578,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 468719,
       "num": 241976,
       "word": "中医说早上不要破气",
@@ -347,14 +371,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 405134,
-      "num": 405134,
-      "word": "肖战羽绒服",
-      "onboard_time": 1713325578,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 404996,
       "num": 404996,
       "word": "复旦研究生珠峰地区登山死亡",
@@ -369,14 +385,6 @@
       "onboard_time": 1713324137,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 399105,
-      "num": 399105,
-      "word": "陶昕然发千字长文",
-      "onboard_time": 1713326718,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 391008,
@@ -401,6 +409,14 @@
       "onboard_time": 1713317598,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 387211,
+      "num": 387211,
+      "word": "勇士vs国王",
+      "onboard_time": 1713323419,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 376872,
@@ -435,6 +451,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 337622,
+      "num": 311781,
+      "word": "同事房租2800还找我借钱",
+      "onboard_time": 1713324919,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 332546,
       "num": 332546,
       "word": "轻断食减肥真的塌房了吗",
@@ -459,12 +483,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 327730,
-      "num": 280579,
-      "word": "同事房租2800还找我借钱",
-      "onboard_time": 1713324919,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 311478,
+      "num": 311478,
+      "word": "偶像张艺兴回归",
+      "onboard_time": 1713327921,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 291601,
@@ -475,28 +499,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 286927,
-      "num": 286927,
-      "word": "氯雷他定",
-      "onboard_time": 1713327258,
-      "rank": 18,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 280751,
       "num": 240651,
       "word": "给朋友随礼1万结果后悔了",
       "onboard_time": 1713313819,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 280476,
-      "num": 280476,
-      "word": "勇士vs国王",
-      "onboard_time": 1713323419,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 275404,
@@ -552,6 +560,14 @@
       "word": "格里芬退役",
       "onboard_time": 1713310997,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 244968,
+      "num": 244968,
+      "word": "马龙4比0李元璋",
+      "onboard_time": 1713327740,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -699,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211927,
+      "num": 211927,
+      "word": "沈星回温软怦然",
+      "onboard_time": 1713327740,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211287,
       "num": 211287,
       "word": "上班少看容易离职",
@@ -745,6 +769,14 @@
       "onboard_time": 1713318918,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204302,
+      "num": 204302,
+      "word": "突然就不想严格防晒了",
+      "onboard_time": 1713327921,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 201042,
@@ -915,12 +947,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165508,
+      "num": 165508,
+      "word": "霍建华张雪迎新剧什么关系",
+      "onboard_time": 1713327680,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154199,
       "num": 154199,
       "word": "26岁换工作了不敢跟爸妈说",
       "onboard_time": 1713279439,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152812,
+      "num": 152812,
+      "word": "徐明浩终于出现了",
+      "onboard_time": 1713328400,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 151207,
@@ -1019,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138507,
+      "num": 138507,
+      "word": "财神爷 钱会流向不缺钱的人",
+      "onboard_time": 1713328160,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134274,
       "num": 134274,
       "word": "歌手阵容",
@@ -1080,14 +1136,6 @@
       "word": "姚志明坠入爱河了",
       "onboard_time": 1713321258,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 114963,
-      "num": 114963,
-      "word": "霍建华张雪迎新剧什么关系",
-      "onboard_time": 1713327680,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -1403,8 +1451,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44358,
+      "num": 1317195,
+      "word": "3个维度读懂中国经济首季报",
+      "onboard_time": 1713327200,
+      "rank": 2,
+      "category": "财经"
+    },
+    {
       "raw_hot": 41753,
-      "num": 290143,
+      "num": 312491,
       "word": "全国球迷为中国女篮加油",
       "onboard_time": 1713326599,
       "rank": 17,
@@ -1459,14 +1515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26557,
-      "num": 1022447,
-      "word": "3个维度读懂中国经济首季报",
-      "onboard_time": 1713327200,
-      "rank": 2,
-      "category": "财经"
-    },
-    {
       "raw_hot": 19247,
       "num": 19247,
       "word": "林依晨演技",
@@ -1492,6 +1540,9 @@
     },
     {
       "word": "#中德关系始终稳健发展#"
+    },
+    {
+      "word": "#和平解决乌克兰危机要把握四要四不要#"
     }
   ]
 }
