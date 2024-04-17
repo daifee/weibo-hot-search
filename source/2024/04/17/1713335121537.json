@@ -1,0 +1,410 @@
+{
+  "runTime": 1713335121537,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2767194,
+        "num": 2767194,
+        "word": "酱园弄 谢娜",
+        "onboard_time": 1713332720,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1813920,
+        "num": 1813920,
+        "word": "氯雷他定",
+        "onboard_time": 1713327258,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50305,
+        "num": 1651919,
+        "word": "3个维度读懂中国经济首季报",
+        "onboard_time": 1713327200,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1536061,
+        "num": 1536061,
+        "word": "排卵期储水",
+        "onboard_time": 1713331039,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1282628,
+        "num": 1282628,
+        "word": "酱园弄全阵容官宣",
+        "onboard_time": 1713331398,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 835721,
+        "num": 835721,
+        "word": "王楚钦出线",
+        "onboard_time": 1713334159,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 709186,
+        "num": 709186,
+        "word": "佛祖显0",
+        "onboard_time": 1713332537,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 689218,
+        "num": 689218,
+        "word": "抱娃开车1岁娃成了妈妈的气囊",
+        "onboard_time": 1713330020,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513590,
+        "num": 513590,
+        "word": "辛辛苦苦从100斤减到110斤",
+        "onboard_time": 1713325878,
+        "rank": 8,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 121085,
+        "num": 443387,
+        "word": "骑手筹款救母绝望时获爱心接力",
+        "onboard_time": 1713328880,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924416,
+        "num": 426224,
+        "word": "肖战一怒之下怒了一下",
+        "onboard_time": 1713328581,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381915,
+        "num": 381915,
+        "word": "孟子义赶不上跑男录制",
+        "onboard_time": 1713322458,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379645,
+        "num": 379645,
+        "word": "酱园弄阵容 半个娱乐圈",
+        "onboard_time": 1713333859,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 376394,
+        "num": 376394,
+        "word": "女孩退伍224天后收到部队转账",
+        "onboard_time": 1713316399,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354753,
+        "num": 354753,
+        "word": "酱园弄好多人啊",
+        "onboard_time": 1713332598,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 350133,
+        "num": 350133,
+        "word": "我国不包括调休的公共假期是11天",
+        "onboard_time": 1713314719,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314485,
+        "num": 314485,
+        "word": "刘宇宁被吓哭了",
+        "onboard_time": 1713334459,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311294,
+        "num": 311294,
+        "word": "奈何BOSS要娶我",
+        "onboard_time": 1713323598,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304511,
+        "num": 304511,
+        "word": "12306回应五一抢票难度堪比春运",
+        "onboard_time": 1713324137,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277378,
+        "num": 277378,
+        "word": "孟子义工作室道歉",
+        "onboard_time": 1713329239,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509955,
+        "num": 274364,
+        "word": "月薪5万夫妻裸辞义乌创业日入200",
+        "onboard_time": 1713323177,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293004,
+        "num": 273425,
+        "word": "每天4杯咖啡癌症复发和死亡风险降低32%",
+        "onboard_time": 1713319458,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24005,
+        "num": 271282,
+        "word": "仆人动画打戏",
+        "onboard_time": 1713333917,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270218,
+        "num": 270218,
+        "word": "郑恺三岁去全托幼儿园",
+        "onboard_time": 1713324800,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269302,
+        "num": 269302,
+        "word": "Jennie登VOGUE封面",
+        "onboard_time": 1713330321,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 252810,
+        "num": 252810,
+        "word": "王楚钦4比0格拉斯门科",
+        "onboard_time": 1713334758,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245306,
+        "num": 245306,
+        "word": "庞博一走微信群就安静了",
+        "onboard_time": 1713333798,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244035,
+        "num": 244035,
+        "word": "1399元演唱会门票退票只剩280元",
+        "onboard_time": 1713325159,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238740,
+        "num": 238740,
+        "word": "妈妈做的糖被室友一晚上造没了一半",
+        "onboard_time": 1713329000,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220211,
+        "num": 220211,
+        "word": "陶昕然发千字长文",
+        "onboard_time": 1713326718,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203237,
+        "num": 203237,
+        "word": "张艺兴新歌MV里有吻戏",
+        "onboard_time": 1713334938,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199293,
+        "num": 199293,
+        "word": "韩国小学生写的传奇诗",
+        "onboard_time": 1713333499,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198279,
+        "num": 198279,
+        "word": "云秀行",
+        "onboard_time": 1713334459,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196252,
+        "num": 196252,
+        "word": "于正曾给许凯说跟杨紫合作不用演",
+        "onboard_time": 1713329419,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191508,
+        "num": 191508,
+        "word": "按角色出场顺序排列",
+        "onboard_time": 1713334638,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186731,
+        "num": 186731,
+        "word": "王楚钦vs格拉斯门科",
+        "onboard_time": 1713334578,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183010,
+        "num": 183010,
+        "word": "真的建议脾胃不好早餐要好好吃",
+        "onboard_time": 1713333978,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173400,
+        "num": 173400,
+        "word": "张天爱好薄一片",
+        "onboard_time": 1713332118,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177587,
+        "num": 166644,
+        "word": "李沐宸说杨紫人美心善",
+        "onboard_time": 1713333258,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159090,
+        "num": 159090,
+        "word": "勇士王朝落幕",
+        "onboard_time": 1713330876,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167663,
+        "num": 158775,
+        "word": "金赛纶将复出",
+        "onboard_time": 1713331517,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150336,
+        "num": 150336,
+        "word": "偶像张艺兴回归",
+        "onboard_time": 1713327921,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140985,
+        "num": 140985,
+        "word": "奶牛猫帮怀孕的玳瑁猫求助人类",
+        "onboard_time": 1713328459,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155608,
+        "num": 140802,
+        "word": "执笔女主李沐宸回应资源降级",
+        "onboard_time": 1713334039,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140535,
+        "num": 140535,
+        "word": "你谈不上恋爱的原因",
+        "onboard_time": 1713334699,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140015,
+        "num": 140015,
+        "word": "过敏",
+        "onboard_time": 1713332838,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138612,
+        "num": 138612,
+        "word": "LWX疑似谈恋爱",
+        "onboard_time": 1713328760,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122737,
+        "num": 122737,
+        "word": "接G2 TheShy",
+        "onboard_time": 1713318737,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119815,
+        "num": 119815,
+        "word": "白鹿奔跑吧重庆录制",
+        "onboard_time": 1713330919,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118721,
+        "num": 118721,
+        "word": "勇士无缘季后赛",
+        "onboard_time": 1713330321,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中德建立全方位战略伙伴关系10周年#"
+    }
+  }
+}
