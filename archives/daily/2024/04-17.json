@@ -1,7 +1,15 @@
 {
   "startTime": 1713284571046,
-  "endTime": 1713328457632,
+  "endTime": 1713331044707,
   "band_list": [
+    {
+      "raw_hot": 3167017,
+      "num": 3167017,
+      "word": "氯雷他定",
+      "onboard_time": 1713327258,
+      "rank": 18,
+      "category": "健康医疗"
+    },
     {
       "raw_hot": 2226470,
       "num": 2226470,
@@ -35,14 +43,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1469160,
-      "num": 1469160,
-      "word": "氯雷他定",
-      "onboard_time": 1713327258,
-      "rank": 18,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 1360247,
       "num": 1360247,
       "word": "女孩退伍224天后收到部队转账",
@@ -67,12 +67,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1270883,
+      "num": 438214,
+      "word": "肖战一怒之下怒了一下",
+      "onboard_time": 1713328581,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1071166,
       "num": 1071166,
       "word": "我的离职申请只有一句话",
       "onboard_time": 1713325039,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1026669,
+      "num": 1026669,
+      "word": "辛辛苦苦从100斤减到110斤",
+      "onboard_time": 1713325878,
+      "rank": 7,
+      "category": "运动健身"
     },
     {
       "raw_hot": 1011433,
@@ -153,14 +169,6 @@
       "onboard_time": 1713320358,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 678089,
-      "num": 678089,
-      "word": "辛辛苦苦从100斤减到110斤",
-      "onboard_time": 1713325878,
-      "rank": 7,
-      "category": "运动健身"
     },
     {
       "raw_hot": 646621,
@@ -259,6 +267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 516641,
+      "num": 516641,
+      "word": "张本智和无缘世界杯16强",
+      "onboard_time": 1713329959,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 514213,
       "num": 514213,
       "word": "长春震感",
@@ -355,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425692,
+      "num": 425692,
+      "word": "汤普森十投全失",
+      "onboard_time": 1713329059,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 416028,
       "num": 416028,
       "word": "歌手2024 张元英",
@@ -371,6 +395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 410981,
+      "num": 410981,
+      "word": "12306回应五一抢票难度堪比春运",
+      "onboard_time": 1713324137,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404996,
       "num": 404996,
       "word": "复旦研究生珠峰地区登山死亡",
@@ -379,12 +411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 404906,
-      "num": 404906,
-      "word": "12306回应五一抢票难度堪比春运",
-      "onboard_time": 1713324137,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 396634,
+      "num": 396634,
+      "word": "勇士无缘季后赛",
+      "onboard_time": 1713330321,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 394127,
+      "num": 394127,
+      "word": "偶像张艺兴回归",
+      "onboard_time": 1713327921,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 391008,
@@ -435,6 +475,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 366035,
+      "num": 366035,
+      "word": "妈妈做的糖被室友一晚上造没了一半",
+      "onboard_time": 1713329000,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 364975,
+      "num": 364975,
+      "word": "孟子义工作室道歉",
+      "onboard_time": 1713329239,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358567,
       "num": 358567,
       "word": "墨子圣斗士皮肤",
@@ -457,6 +513,14 @@
       "onboard_time": 1713324919,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 334315,
+      "num": 334315,
+      "word": "于正曾给许凯说跟杨紫合作不用演",
+      "onboard_time": 1713329419,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 332546,
@@ -483,12 +547,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 311478,
-      "num": 311478,
-      "word": "偶像张艺兴回归",
-      "onboard_time": 1713327921,
-      "rank": 22,
-      "category": "演出"
+      "raw_hot": 303848,
+      "num": 303848,
+      "word": "抱娃开车1岁娃成了妈妈的气囊",
+      "onboard_time": 1713330020,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291601,
@@ -499,12 +563,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 291545,
+      "num": 291545,
+      "word": "原神",
+      "onboard_time": 1713328880,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280751,
       "num": 240651,
       "word": "给朋友随礼1万结果后悔了",
       "onboard_time": 1713313819,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 276513,
+      "num": 276513,
+      "word": "库里状态",
+      "onboard_time": 1713328581,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 275404,
@@ -547,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259002,
+      "num": 259002,
+      "word": "Jennie登VOGUE封面",
+      "onboard_time": 1713330321,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 256818,
       "num": 454647,
       "word": "五一小长假火车票今起开售",
@@ -561,6 +649,14 @@
       "onboard_time": 1713310997,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247743,
+      "num": 247743,
+      "word": "烽火流金",
+      "onboard_time": 1713330678,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 244968,
@@ -635,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233330,
+      "num": 233330,
+      "word": "陈梦vs阿库拉",
+      "onboard_time": 1713330741,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232997,
       "num": 232997,
       "word": "节目方回应甄嬛传录团综",
@@ -689,6 +793,22 @@
       "onboard_time": 1713280581,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 222375,
+      "num": 222375,
+      "word": "LWX疑似谈恋爱",
+      "onboard_time": 1713328760,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 215255,
+      "num": 444628,
+      "word": "骑手筹款救母绝望时获爱心接力",
+      "onboard_time": 1713328880,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214640,
@@ -753,6 +873,14 @@
       "onboard_time": 1713313751,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210531,
+      "num": 210531,
+      "word": "李现这三部剧的剧本是一起看的",
+      "onboard_time": 1713328641,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 210422,
@@ -859,6 +987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 184190,
+      "num": 184190,
+      "word": "闪千手开票",
+      "onboard_time": 1713329840,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184025,
       "num": 184025,
       "word": "让你一瞬间想分手的小事",
@@ -881,6 +1017,14 @@
       "onboard_time": 1713316637,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181087,
+      "num": 181087,
+      "word": "奶牛猫帮怀孕的玳瑁猫求助人类",
+      "onboard_time": 1713328459,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 180981,
@@ -923,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173961,
+      "num": 173961,
+      "word": "勇士王朝落幕",
+      "onboard_time": 1713330876,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171532,
       "num": 171532,
       "word": "抢票",
@@ -937,6 +1089,14 @@
       "onboard_time": 1713309736,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165676,
+      "num": 165676,
+      "word": "勇士功勋篮球",
+      "onboard_time": 1713330139,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 165525,
@@ -955,20 +1115,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165260,
+      "num": 165260,
+      "word": "白鹿奔跑吧重庆录制",
+      "onboard_time": 1713330919,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164328,
+      "num": 166318,
+      "word": "奔跑吧",
+      "onboard_time": 1713329659,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161050,
+      "num": 161050,
+      "word": "WTT",
+      "onboard_time": 1713330919,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158016,
+      "num": 158016,
+      "word": "徐明浩终于出现了",
+      "onboard_time": 1713328400,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154199,
       "num": 154199,
       "word": "26岁换工作了不敢跟爸妈说",
       "onboard_time": 1713279439,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152812,
-      "num": 152812,
-      "word": "徐明浩终于出现了",
-      "onboard_time": 1713328400,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 151207,
@@ -1355,6 +1539,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 75394,
+      "num": 1317195,
+      "word": "3个维度读懂中国经济首季报",
+      "onboard_time": 1713327200,
+      "rank": 2,
+      "category": "财经"
+    },
+    {
       "raw_hot": 74979,
       "num": 74979,
       "word": "神雕侠侣",
@@ -1451,16 +1643,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44358,
-      "num": 1317195,
-      "word": "3个维度读懂中国经济首季报",
-      "onboard_time": 1713327200,
-      "rank": 2,
-      "category": "财经"
-    },
-    {
       "raw_hot": 41753,
-      "num": 312491,
+      "num": 412644,
       "word": "全国球迷为中国女篮加油",
       "onboard_time": 1713326599,
       "rank": 17,
@@ -1499,6 +1683,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30830,
+      "num": 262131,
+      "word": "轮到P5X来给你洗脑了",
+      "onboard_time": 1713330199,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 30385,
+      "num": 440762,
+      "word": "易烊千玺九号微电影",
+      "onboard_time": 1713329659,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 29755,
       "num": 1192192,
       "word": "聚焦2024年消博会",
@@ -1513,6 +1713,14 @@
       "onboard_time": 1713296051,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26578,
+      "num": 426098,
+      "word": "原神动画短片烬中歌",
+      "onboard_time": 1713330020,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 19247,

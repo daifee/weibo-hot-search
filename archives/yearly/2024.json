@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1713328457632,
+  "endTime": 1713331044707,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1699,6 +1699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 3167017,
+      "num": 3167017,
+      "word": "氯雷他定",
+      "onboard_time": 1713327258,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 3164787,
       "num": 3164787,
       "word": "调休",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1707989973,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2746397,
-      "num": 2746397,
-      "word": "沥心沙大桥事故已致2死3失联",
-      "onboard_time": 1708573837,
-      "rank": 1,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
