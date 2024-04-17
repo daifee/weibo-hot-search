@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713385074931,
+  "endTime": 1713386073123,
   "band_list": [
     {
       "raw_hot": 777044,
@@ -459,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 44511,
+      "num": 44511,
+      "word": "台偶女主现在在拍什么",
+      "onboard_time": 1713385150,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42574,
       "num": 42574,
       "word": "欧冠",
@@ -483,8 +491,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17153,
-      "num": 17153,
+      "raw_hot": 21262,
+      "num": 21262,
       "word": "重庆燃气",
       "onboard_time": 1713383770,
       "rank": 37,
@@ -499,20 +507,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15002,
+      "num": 16457,
+      "word": "肖战蓝白look",
+      "onboard_time": 1713385030,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 13766,
       "num": 17384,
       "word": "你有学习过心肺复苏吗",
       "onboard_time": 1713382390,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 13075,
-      "num": 16457,
-      "word": "肖战蓝白look",
-      "onboard_time": 1713385030,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 3513,
