@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713389670683,
+  "endTime": 1713392191292,
   "band_list": [
     {
       "raw_hot": 777044,
@@ -41,6 +41,14 @@
       "onboard_time": 1713364341,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 430518,
+      "num": 430518,
+      "word": "曼城vs皇马",
+      "onboard_time": 1713363560,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 424277,
@@ -195,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165756,
+      "num": 165756,
+      "word": "警方通报知名茶企老板一家三口遇害",
+      "onboard_time": 1713358399,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147283,
       "num": 147283,
       "word": "小伊伊怀二胎",
@@ -209,14 +225,6 @@
       "onboard_time": 1713377290,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 140904,
-      "num": 140904,
-      "word": "曼城vs皇马",
-      "onboard_time": 1713363560,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 140721,
@@ -275,6 +283,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 125374,
+      "num": 79734,
+      "word": "1岁半男童独自过马路遭校车碾压身亡",
+      "onboard_time": 1713374652,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123862,
+      "num": 123862,
+      "word": "欧冠",
+      "onboard_time": 1713364159,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122194,
       "num": 82482,
       "word": "每天1个西红柿7天能白成一道光吗",
@@ -283,11 +307,19 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 120930,
-      "num": 65871,
-      "word": "1岁半男童独自过马路遭校车碾压身亡",
-      "onboard_time": 1713374652,
-      "rank": 30,
+      "raw_hot": 121674,
+      "num": 121674,
+      "word": "台偶女主现在在拍什么",
+      "onboard_time": 1713385150,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112175,
+      "num": 112175,
+      "word": "情侣相伴4年一同从专科生逆袭研究生",
+      "onboard_time": 1713388271,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -339,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99415,
+      "num": 99415,
+      "word": "重庆燃气",
+      "onboard_time": 1713383770,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97859,
       "num": 97859,
       "word": "张元英歌手 信的人感觉会被骗保",
@@ -387,14 +427,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 88463,
-      "num": 98649,
-      "word": "警方通报知名茶企老板一家三口遇害",
-      "onboard_time": 1713358399,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88322,
       "num": 88322,
       "word": "郑恺38岁生日照",
@@ -419,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70809,
+      "num": 70809,
+      "word": "婴儿独自爬出客厅猫咪警觉守护",
+      "onboard_time": 1713382450,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66497,
       "num": 87360,
       "word": "一动不动老板主动为我降了3块钱",
@@ -427,36 +467,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 65876,
-      "num": 65876,
-      "word": "台偶女主现在在拍什么",
-      "onboard_time": 1713385150,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 65020,
-      "num": 65020,
-      "word": "欧冠",
-      "onboard_time": 1713364159,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 63157,
       "num": 63157,
       "word": "真是眼前一亮又一亮又一亮",
       "onboard_time": 1713364341,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 59284,
-      "num": 59284,
-      "word": "重庆燃气",
-      "onboard_time": 1713383770,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56965,
@@ -483,20 +499,44 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 36055,
-      "num": 48680,
-      "word": "婴儿独自爬出客厅猫咪警觉守护",
-      "onboard_time": 1713382450,
-      "rank": 25,
+      "raw_hot": 50359,
+      "num": 50359,
+      "word": "肖战蓝白look",
+      "onboard_time": 1713385030,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 32645,
+      "num": 32645,
+      "word": "姚志明哭到胡子都长出来了",
+      "onboard_time": 1713387612,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30854,
+      "num": 30854,
+      "word": "欧冠海报",
+      "onboard_time": 1713381012,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 26032,
+      "num": 26032,
+      "word": "江西浮梁知名茶企老板一家三口遇害",
+      "onboard_time": 1713388510,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28065,
-      "num": 28065,
-      "word": "情侣相伴4年一同从专科生逆袭研究生",
-      "onboard_time": 1713388271,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 25218,
+      "num": 25218,
+      "word": "这9件小事正在加速身体衰老",
+      "onboard_time": 1713391031,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 24445,
@@ -507,40 +547,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24009,
-      "num": 24009,
-      "word": "肖战蓝白look",
-      "onboard_time": 1713385030,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 20644,
-      "num": 20644,
-      "word": "江西浮梁知名茶企老板一家三口遇害",
-      "onboard_time": 1713388510,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19977,
-      "num": 19977,
-      "word": "欧冠海报",
-      "onboard_time": 1713381012,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 16836,
-      "num": 17720,
-      "word": "姚志明哭到胡子都长出来了",
-      "onboard_time": 1713387612,
+      "raw_hot": 19891,
+      "num": 24276,
+      "word": "张婧仪用手比10000",
+      "onboard_time": 1713391992,
       "rank": 47,
       "category": "剧集"
     },
     {
-      "raw_hot": 14183,
-      "num": 17651,
+      "raw_hot": 18488,
+      "num": 24276,
       "word": "新脑子就是好用啊",
       "onboard_time": 1713389290,
       "rank": 48,

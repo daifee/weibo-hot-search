@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713389670683,
+  "endTime": 1713392191292,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -13177,6 +13177,14 @@
       "onboard_time": 1712133800,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 430518,
+      "num": 430518,
+      "word": "曼城vs皇马",
+      "onboard_time": 1713363560,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 430391,
@@ -34443,14 +34451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 169175,
-      "num": 169175,
-      "word": "曼城vs皇马",
-      "onboard_time": 1713363560,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169104,
       "num": 665114,
       "word": "这只大熊猫的糖分超标",
@@ -42347,6 +42347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125374,
+      "num": 79734,
+      "word": "1岁半男童独自过马路遭校车碾压身亡",
+      "onboard_time": 1713374652,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125365,
       "num": 125365,
       "word": "云之羽剧组萌探4团建",
@@ -42923,6 +42931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121674,
+      "num": 121674,
+      "word": "台偶女主现在在拍什么",
+      "onboard_time": 1713385150,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121618,
       "num": 119446,
       "word": "久违了LAY",
@@ -43065,14 +43081,6 @@
       "onboard_time": 1712050938,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 120930,
-      "num": 65871,
-      "word": "1岁半男童独自过马路遭校车碾压身亡",
-      "onboard_time": 1713374652,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120923,
@@ -44051,6 +44059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112175,
+      "num": 112175,
+      "word": "情侣相伴4年一同从专科生逆袭研究生",
+      "onboard_time": 1713388271,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112172,
       "num": 112172,
       "word": "WBG剧本",
@@ -44977,6 +44993,14 @@
       "onboard_time": 1712279478,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99415,
+      "num": 99415,
+      "word": "重庆燃气",
+      "onboard_time": 1713383770,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99293,
@@ -46323,6 +46347,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 70809,
+      "num": 70809,
+      "word": "婴儿独自爬出客厅猫咪警觉守护",
+      "onboard_time": 1713382450,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70650,
       "num": 70650,
       "word": "巴萨vs巴黎",
@@ -46521,14 +46553,6 @@
       "onboard_time": 1712788693,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 65876,
-      "num": 65876,
-      "word": "台偶女主现在在拍什么",
-      "onboard_time": 1713385150,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 65786,
@@ -46744,14 +46768,6 @@
       "word": "清澈的爱我们一直记得",
       "onboard_time": 1712278218,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59284,
-      "num": 59284,
-      "word": "重庆燃气",
-      "onboard_time": 1713383770,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -47121,6 +47137,14 @@
       "onboard_time": 1712446276,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50359,
+      "num": 50359,
+      "word": "肖战蓝白look",
+      "onboard_time": 1713385030,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 50331,
@@ -47651,14 +47675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 36055,
-      "num": 48680,
-      "word": "婴儿独自爬出客厅猫咪警觉守护",
-      "onboard_time": 1713382450,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35433,
       "num": 35433,
       "word": "2024国际乒联世界杯",
@@ -47771,6 +47787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32645,
+      "num": 32645,
+      "word": "姚志明哭到胡子都长出来了",
+      "onboard_time": 1713387612,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32432,
       "num": 1181865,
       "word": "汇聚起维护国家安全的强大力量",
@@ -47851,6 +47875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30854,
+      "num": 30854,
+      "word": "欧冠海报",
+      "onboard_time": 1713381012,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30830,
       "num": 262131,
       "word": "轮到P5X来给你洗脑了",
@@ -47928,14 +47960,6 @@
       "word": "老人乘扶梯仰面摔倒民警飞速冲上去救人",
       "onboard_time": 1713296051,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28065,
-      "num": 28065,
-      "word": "情侣相伴4年一同从专科生逆袭研究生",
-      "onboard_time": 1713388271,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -48099,6 +48123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 26032,
+      "num": 26032,
+      "word": "江西浮梁知名茶企老板一家三口遇害",
+      "onboard_time": 1713388510,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26012,
       "num": 30230,
       "word": "缺铁性贫血的症状",
@@ -48153,6 +48185,14 @@
       "onboard_time": 1712084712,
       "rank": 47,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 25218,
+      "num": 25218,
+      "word": "这9件小事正在加速身体衰老",
+      "onboard_time": 1713391031,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 25134,
@@ -48225,14 +48265,6 @@
       "onboard_time": 1712718018,
       "rank": 14,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 24009,
-      "num": 24009,
-      "word": "肖战蓝白look",
-      "onboard_time": 1713385030,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 23884,
@@ -48435,14 +48467,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 20644,
-      "num": 20644,
-      "word": "江西浮梁知名茶企老板一家三口遇害",
-      "onboard_time": 1713388510,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 20632,
       "num": 20632,
       "word": "射手当joker也是三分钟热度",
@@ -48491,14 +48515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 19977,
-      "num": 19977,
-      "word": "欧冠海报",
-      "onboard_time": 1713381012,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 19976,
       "num": 19976,
       "word": "我建议老乡鸡帮我写论文",
@@ -48513,6 +48529,14 @@
       "onboard_time": 1712904017,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 19891,
+      "num": 24276,
+      "word": "张婧仪用手比10000",
+      "onboard_time": 1713391992,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 19427,
@@ -48571,6 +48595,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 18488,
+      "num": 24276,
+      "word": "新脑子就是好用啊",
+      "onboard_time": 1713389290,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 18299,
       "num": 171928,
       "word": "P5X出了客家话配音",
@@ -48625,14 +48657,6 @@
       "onboard_time": 1712990118,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 16836,
-      "num": 17720,
-      "word": "姚志明哭到胡子都长出来了",
-      "onboard_time": 1713387612,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 16742,
@@ -48696,14 +48720,6 @@
       "word": "成都迪士尼周边",
       "onboard_time": 1712696290,
       "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 14183,
-      "num": 17651,
-      "word": "新脑子就是好用啊",
-      "onboard_time": 1713389290,
-      "rank": 48,
       "category": "幽默"
     },
     {
