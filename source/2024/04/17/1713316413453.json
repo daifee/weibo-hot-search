@@ -1,0 +1,410 @@
+{
+  "runTime": 1713316413453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1718111,
+        "num": 1718111,
+        "word": "本科生县城工作平均月收入5377元",
+        "onboard_time": 1713312979,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965731,
+        "num": 965731,
+        "word": "我国不包括调休的公共假期是11天",
+        "onboard_time": 1713314719,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29755,
+        "num": 685130,
+        "word": "聚焦2024年消博会",
+        "onboard_time": 1713275000,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1001767,
+        "num": 643625,
+        "word": "猫咪撑到主人回家咬着衣角离世",
+        "onboard_time": 1713310696,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 566950,
+        "num": 566950,
+        "word": "腾讯2024两部剧破30000",
+        "onboard_time": 1713314300,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 544624,
+        "num": 544624,
+        "word": "12306 开票即候补",
+        "onboard_time": 1713313157,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523027,
+        "num": 523027,
+        "word": "专家谈我国养老金的压力有多大",
+        "onboard_time": 1713314240,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498904,
+        "num": 498904,
+        "word": "12306回应五一车票秒没",
+        "onboard_time": 1713274098,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256818,
+        "num": 454647,
+        "word": "五一小长假火车票今起开售",
+        "onboard_time": 1713311656,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313801,
+        "num": 452229,
+        "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
+        "onboard_time": 1713296471,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747094,
+        "num": 452002,
+        "word": "任敏体态",
+        "onboard_time": 1713310096,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451757,
+        "num": 451757,
+        "word": "黄灿灿 女演员怎么录试戏片段",
+        "onboard_time": 1713282618,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 442902,
+        "num": 442902,
+        "word": "小女孩一脚踩断家里大理石茶几",
+        "onboard_time": 1713301751,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382697,
+        "num": 382697,
+        "word": "海关眼中的oversize穿搭",
+        "onboard_time": 1713313398,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 377188,
+        "num": 377188,
+        "word": "我娱乐圈唯一的人脉要失联了",
+        "onboard_time": 1713277458,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352240,
+        "num": 352240,
+        "word": "特斯拉卖一辆车净赚43300元",
+        "onboard_time": 1713274818,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 335558,
+        "num": 335558,
+        "word": "健身房偶遇王俊凯",
+        "onboard_time": 1713315258,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254333,
+        "num": 254333,
+        "word": "格里芬退役",
+        "onboard_time": 1713310997,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252100,
+        "num": 252100,
+        "word": "荣梓杉方回应中戏北电双第一",
+        "onboard_time": 1713282858,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243250,
+        "num": 243250,
+        "word": "五一假期十大热门目的地",
+        "onboard_time": 1713314839,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 646621,
+        "num": 242634,
+        "word": "中医建议我把水果戒了",
+        "onboard_time": 1713314058,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 468719,
+        "num": 241976,
+        "word": "中医说早上不要破气",
+        "onboard_time": 1713315139,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 332236,
+        "num": 241852,
+        "word": "中医建议不开心时要多唱歌",
+        "onboard_time": 1713314058,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 280751,
+        "num": 240651,
+        "word": "给朋友随礼1万结果后悔了",
+        "onboard_time": 1713313819,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240582,
+        "num": 240582,
+        "word": "哈尔滨震感",
+        "onboard_time": 1713309976,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236673,
+        "num": 236673,
+        "word": "歌手2024 张元英",
+        "onboard_time": 1713268578,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211287,
+        "num": 211287,
+        "word": "上班少看容易离职",
+        "onboard_time": 1713314899,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210908,
+        "num": 210908,
+        "word": "五一出境机票热度大涨56%",
+        "onboard_time": 1713314300,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209413,
+        "num": 209413,
+        "word": "解放军在中缅边境我方一侧举行演习",
+        "onboard_time": 1713315797,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202737,
+        "num": 202737,
+        "word": "体制内的人有朋友圈自由吗",
+        "onboard_time": 1713279979,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201490,
+        "num": 201490,
+        "word": "复旦研究生珠峰地区登山死亡",
+        "onboard_time": 1713275419,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199466,
+        "num": 199466,
+        "word": "有些熊猫泡个澡真是内外都干净了",
+        "onboard_time": 1713313751,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187024,
+        "num": 187024,
+        "word": "折叠屏iPhone新专利获批",
+        "onboard_time": 1713312918,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170998,
+        "num": 170998,
+        "word": "湖人vs鹈鹕",
+        "onboard_time": 1713316098,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169937,
+        "num": 169937,
+        "word": "男主林瀚 女主晚晚",
+        "onboard_time": 1713279499,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166404,
+        "num": 166404,
+        "word": "睡前玩手机会让你慢慢变丑",
+        "onboard_time": 1713308656,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157084,
+        "num": 157084,
+        "word": "吉林宁江区3.9级地震",
+        "onboard_time": 1713309076,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147138,
+        "num": 147138,
+        "word": "王妈",
+        "onboard_time": 1713276800,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134038,
+        "num": 134038,
+        "word": "有种早起可能比熬夜更伤身",
+        "onboard_time": 1713302291,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132916,
+        "num": 132916,
+        "word": "相亲尽量安排在工作日",
+        "onboard_time": 1713299711,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122926,
+        "num": 122926,
+        "word": "边佑锡好帅",
+        "onboard_time": 1713312077,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121396,
+        "num": 121396,
+        "word": "吴磊郑合惠子张予曦早期片场旧照",
+        "onboard_time": 1713291072,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112327,
+        "num": 112327,
+        "word": "专家称增加假期长度提升民众幸福感",
+        "onboard_time": 1713314599,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108641,
+        "num": 108641,
+        "word": "阶级性友谊并不是坏事",
+        "onboard_time": 1713315739,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106920,
+        "num": 106920,
+        "word": "王一博奥运会资格赛系列赛VCR",
+        "onboard_time": 1713298451,
+        "rank": 44,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 105549,
+        "num": 105549,
+        "word": "适合射手座的生活方式",
+        "onboard_time": 1713282139,
+        "rank": 45,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 105088,
+        "num": 105088,
+        "word": "睡觉时不能脚朝西头朝东吗",
+        "onboard_time": 1713297612,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104344,
+        "num": 104344,
+        "word": "女孩退伍224天后收到部队转账",
+        "onboard_time": 1713316399,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103886,
+        "num": 103886,
+        "word": "巴萨1比4巴黎",
+        "onboard_time": 1713308834,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102082,
+        "num": 102082,
+        "word": "歌手阵容",
+        "onboard_time": 1713270379,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中德关系始终稳健发展#"
+    }
+  }
+}
