@@ -1,0 +1,410 @@
+{
+  "runTime": 1713342848158,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1853937,
+        "num": 1853937,
+        "word": "周迅 B站",
+        "onboard_time": 1713337157,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 998789,
+        "num": 998789,
+        "word": "氯雷他定",
+        "onboard_time": 1713327258,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 3756,
+        "num": 930046,
+        "word": "数字丝路发展论坛",
+        "onboard_time": 1713241458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913516,
+        "num": 913516,
+        "word": "如懿传 李纯",
+        "onboard_time": 1713340158,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 673076,
+        "num": 673076,
+        "word": "当地警方回应高校女生带病出操死亡",
+        "onboard_time": 1713341897,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661171,
+        "num": 661171,
+        "word": "多名网红上薛之谦演唱会互动露脸",
+        "onboard_time": 1713338299,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 611510,
+        "num": 611510,
+        "word": "12306 票呢",
+        "onboard_time": 1713335358,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596877,
+        "num": 596877,
+        "word": "排卵期储水",
+        "onboard_time": 1713331039,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 513437,
+        "num": 513437,
+        "word": "买小米SU7被极越辞退员工发声",
+        "onboard_time": 1713337038,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 337499,
+        "num": 471762,
+        "word": "全红婵陈芋汐十米台再现神同步",
+        "onboard_time": 1713340039,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467924,
+        "num": 467924,
+        "word": "Jennie白丝",
+        "onboard_time": 1713339799,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 465940,
+        "num": 465940,
+        "word": "薇诺娜 刘诗诗",
+        "onboard_time": 1713341418,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443057,
+        "num": 443057,
+        "word": "抱娃开车1岁娃成了妈妈的气囊",
+        "onboard_time": 1713330020,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434328,
+        "num": 434328,
+        "word": "东部战区回应美军机过航台湾海峡",
+        "onboard_time": 1713338539,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 363993,
+        "num": 363993,
+        "word": "佛祖显0",
+        "onboard_time": 1713332537,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362569,
+        "num": 362569,
+        "word": "谢娜赵丽颖首次合作",
+        "onboard_time": 1713338178,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85477,
+        "num": 315263,
+        "word": "什么叫citywork",
+        "onboard_time": 1713339678,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1385984,
+        "num": 300830,
+        "word": "酱园弄 谢娜",
+        "onboard_time": 1713332720,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274131,
+        "num": 274131,
+        "word": "唐艺昕和张若昀一起看海贼王",
+        "onboard_time": 1713336439,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322989,
+        "num": 274115,
+        "word": "酱园弄全阵容官宣",
+        "onboard_time": 1713331398,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 631518,
+        "num": 274095,
+        "word": "36岁女子存300万后提前退休",
+        "onboard_time": 1713340459,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551670,
+        "num": 274083,
+        "word": "怀孕三个月发现男友隐瞒婚史",
+        "onboard_time": 1713335119,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343963,
+        "num": 274064,
+        "word": "谢娜你闷声干大事",
+        "onboard_time": 1713336557,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274059,
+        "num": 274059,
+        "word": "月薪5万夫妻裸辞义乌创业日入200",
+        "onboard_time": 1713323177,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284812,
+        "num": 272185,
+        "word": "TFBOYS宣传酱园弄",
+        "onboard_time": 1713337519,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255399,
+        "num": 255399,
+        "word": "肖战一怒之下怒了一下",
+        "onboard_time": 1713328581,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272528,
+        "num": 252923,
+        "word": "杨幂李现合作了",
+        "onboard_time": 1713336379,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241506,
+        "num": 241506,
+        "word": "辛辛苦苦从100斤减到110斤",
+        "onboard_time": 1713325878,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 234640,
+        "num": 234640,
+        "word": "美军机过航台湾海峡并公开炒作",
+        "onboard_time": 1713339678,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 222715,
+        "num": 222715,
+        "word": "周淑怡 说唱圈",
+        "onboard_time": 1713337398,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 217766,
+        "num": 217766,
+        "word": "12306积分首次使用必须满1万",
+        "onboard_time": 1713341838,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211129,
+        "num": 211129,
+        "word": "刘强东数字人首播破纪录",
+        "onboard_time": 1713341838,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 203537,
+        "num": 203537,
+        "word": "生孩子太晚会遗憾吗",
+        "onboard_time": 1713338119,
+        "rank": 32,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 203278,
+        "num": 203278,
+        "word": "以军称将回击伊朗",
+        "onboard_time": 1713342258,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 188742,
+        "num": 188742,
+        "word": "张艺兴新歌空降成绩",
+        "onboard_time": 1713341599,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180841,
+        "num": 180841,
+        "word": "王楚钦说庆幸自己活过来了",
+        "onboard_time": 1713337757,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177327,
+        "num": 177327,
+        "word": "赵奕欢周扬青同框身材",
+        "onboard_time": 1713335717,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166699,
+        "num": 166699,
+        "word": "魔卡少女樱 小樱知世",
+        "onboard_time": 1713342318,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 154371,
+        "num": 154371,
+        "word": "湖南一小学生在校发病送医后身亡",
+        "onboard_time": 1713336797,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153281,
+        "num": 153281,
+        "word": "脱下孔乙己长衫穿上偷感马甲",
+        "onboard_time": 1713338479,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151793,
+        "num": 151793,
+        "word": "麦承欢治了8个癫公癫婆",
+        "onboard_time": 1713338600,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146900,
+        "num": 146900,
+        "word": "当好朋友在朋友圈发我",
+        "onboard_time": 1713339197,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142862,
+        "num": 142862,
+        "word": "我记得你一开始很向往工作的",
+        "onboard_time": 1713337458,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141369,
+        "num": 141369,
+        "word": "王楚钦出线",
+        "onboard_time": 1713334159,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128709,
+        "num": 128709,
+        "word": "刘宇宁被吓哭了",
+        "onboard_time": 1713334459,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119586,
+        "num": 119586,
+        "word": "爆改的风吹向了电光蓝",
+        "onboard_time": 1713340639,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 118663,
+        "num": 118663,
+        "word": "孟子义赶不上跑男录制",
+        "onboard_time": 1713322458,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117404,
+        "num": 117404,
+        "word": "林高远4比0庄智渊",
+        "onboard_time": 1713339318,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114229,
+        "num": 114229,
+        "word": "原来一句话真的能治愈人",
+        "onboard_time": 1713342738,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112962,
+        "num": 112962,
+        "word": "30岁了还在应聘基础岗位",
+        "onboard_time": 1713342738,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中德要坚持互利共赢彼此成就#"
+    }
+  }
+}
