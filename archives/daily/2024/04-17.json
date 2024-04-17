@@ -1,6 +1,6 @@
 {
   "startTime": 1713284571046,
-  "endTime": 1713321538990,
+  "endTime": 1713323937575,
   "band_list": [
     {
       "raw_hot": 2226470,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1089452,
-      "num": 1089452,
+      "raw_hot": 1298846,
+      "num": 1298846,
       "word": "迪卡侬开始抛弃穷鬼了吗",
       "onboard_time": 1713318257,
       "rank": 3,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 899357,
-      "num": 275574,
+      "num": 278505,
       "word": "每天4杯咖啡癌症复发和死亡风险降低32%",
       "onboard_time": 1713319458,
       "rank": 20,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 756672,
+      "num": 756672,
+      "word": "孟子义赶不上跑男录制",
+      "onboard_time": 1713322458,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 747094,
       "num": 452002,
       "word": "任敏体态",
@@ -97,6 +105,14 @@
       "onboard_time": 1713320358,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 691889,
+      "num": 691889,
+      "word": "五一购票难度堪比春运",
+      "onboard_time": 1713320119,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 646621,
@@ -195,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 501749,
+      "num": 501749,
+      "word": "美方将对伊朗实施新制裁",
+      "onboard_time": 1713321318,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 498904,
       "num": 498904,
       "word": "12306回应五一车票秒没",
@@ -251,6 +275,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 434937,
+      "num": 434937,
+      "word": "西安交大一附院多名医生涉学术不端被通报",
+      "onboard_time": 1713320119,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428261,
+      "num": 428261,
+      "word": "月薪5万夫妻裸辞义乌创业日入200",
+      "onboard_time": 1713323177,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416028,
       "num": 416028,
       "word": "歌手2024 张元英",
@@ -299,12 +339,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 354112,
-      "num": 354112,
-      "word": "西安交大一附院多名医生涉学术不端被通报",
-      "onboard_time": 1713320119,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 361320,
+      "num": 275133,
+      "word": "00后大学生买劣质防晒服",
+      "onboard_time": 1713322278,
+      "rank": 21,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 358567,
+      "num": 358567,
+      "word": "墨子圣斗士皮肤",
+      "onboard_time": 1713321737,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 352240,
@@ -331,12 +379,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 329376,
+      "num": 329376,
+      "word": "砂金",
+      "onboard_time": 1713321617,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 291601,
       "num": 291601,
       "word": "星船癫了",
       "onboard_time": 1713279259,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 283314,
+      "num": 283314,
+      "word": "电影三叉戟定档",
+      "onboard_time": 1713322698,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 280751,
@@ -353,6 +417,14 @@
       "onboard_time": 1713279979,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269473,
+      "num": 269473,
+      "word": "张颂文我故意这样的",
+      "onboard_time": 1713322399,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 268280,
@@ -475,20 +547,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214348,
+      "num": 214348,
+      "word": "奈何BOSS要娶我",
+      "onboard_time": 1713323598,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213953,
       "num": 213953,
       "word": "詹姆斯重摔在地",
       "onboard_time": 1713319578,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212227,
-      "num": 212227,
-      "word": "五一购票难度堪比春运",
-      "onboard_time": 1713320119,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211985,
@@ -515,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210784,
+      "num": 210784,
+      "word": "无法骂小公司的理由",
+      "onboard_time": 1713319937,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210727,
       "num": 210727,
       "word": "有些熊猫泡个澡真是内外都干净了",
@@ -539,20 +619,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 206509,
-      "num": 206509,
-      "word": "无法骂小公司的理由",
-      "onboard_time": 1713319937,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 201042,
       "num": 201042,
       "word": "长乐曲全阵容官宣",
       "onboard_time": 1713320719,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198738,
+      "num": 198738,
+      "word": "种地吧直播",
+      "onboard_time": 1713323177,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 197859,
@@ -569,6 +649,22 @@
       "onboard_time": 1713316938,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 189681,
+      "num": 189681,
+      "word": "IVE新专配置公开",
+      "onboard_time": 1713322576,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 188199,
+      "num": 188199,
+      "word": "张艺兴新歌音源上线",
+      "onboard_time": 1713322758,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 187024,
@@ -633,6 +729,22 @@
       "onboard_time": 1713316518,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171532,
+      "num": 171532,
+      "word": "抢票",
+      "onboard_time": 1713322637,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169492,
+      "num": 169492,
+      "word": "苏打绿全员cos徐冬冬",
+      "onboard_time": 1713322937,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 168112,
@@ -715,12 +827,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 136462,
-      "num": 136462,
-      "word": "美方将对伊朗实施新制裁",
-      "onboard_time": 1713321318,
-      "rank": 42,
-      "category": "国外时政"
+      "raw_hot": 144049,
+      "num": 144049,
+      "word": "勇士vs国王",
+      "onboard_time": 1713323419,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 134274,
@@ -737,6 +849,22 @@
       "onboard_time": 1713281478,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130821,
+      "num": 130821,
+      "word": "明明在广州却像出国了",
+      "onboard_time": 1713323719,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 130283,
+      "num": 130283,
+      "word": "林彦俊见面会取消",
+      "onboard_time": 1713323778,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 128258,
@@ -771,6 +899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 120067,
+      "num": 120067,
+      "word": "谷雨",
+      "onboard_time": 1713321617,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118960,
       "num": 118960,
       "word": "姚志明坠入爱河了",
@@ -780,7 +916,7 @@
     },
     {
       "raw_hot": 114927,
-      "num": 329401,
+      "num": 416292,
       "word": "神秘东方力量惊现巴黎夜空",
       "onboard_time": 1713320478,
       "rank": 40,
@@ -801,6 +937,14 @@
       "onboard_time": 1713314599,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111855,
+      "num": 111855,
+      "word": "种地星球",
+      "onboard_time": 1713321797,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 111502,
