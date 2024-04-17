@@ -1,6 +1,6 @@
 {
   "startTime": 1713284571046,
-  "endTime": 1713320823433,
+  "endTime": 1713321538990,
   "band_list": [
     {
       "raw_hot": 2226470,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1089452,
+      "num": 1089452,
+      "word": "迪卡侬开始抛弃穷鬼了吗",
+      "onboard_time": 1713318257,
+      "rank": 3,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1011433,
       "num": 1011433,
       "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
@@ -51,12 +59,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 920635,
-      "num": 920635,
-      "word": "迪卡侬开始抛弃穷鬼了吗",
-      "onboard_time": 1713318257,
-      "rank": 3,
-      "category": "时尚"
+      "raw_hot": 899357,
+      "num": 275574,
+      "word": "每天4杯咖啡癌症复发和死亡风险降低32%",
+      "onboard_time": 1713319458,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 843050,
@@ -83,16 +91,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 741678,
-      "num": 247378,
-      "word": "每天4杯咖啡癌症复发和死亡风险降低32%",
-      "onboard_time": 1713319458,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 733058,
+      "num": 733058,
+      "word": "肖战代言安吉尔",
+      "onboard_time": 1713320358,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 646621,
-      "num": 242715,
+      "num": 271937,
       "word": "中医建议我把水果戒了",
       "onboard_time": 1713314058,
       "rank": 20,
@@ -145,14 +153,6 @@
       "onboard_time": 1713315797,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 550749,
-      "num": 550749,
-      "word": "肖战代言安吉尔",
-      "onboard_time": 1713320358,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 544624,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 473770,
+      "num": 428834,
+      "word": "白鹿看到粉丝凌晨接机的反应",
+      "onboard_time": 1713318318,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 468719,
       "num": 241976,
       "word": "中医说早上不要破气",
@@ -232,14 +240,6 @@
       "word": "健身房偶遇王俊凯",
       "onboard_time": 1713315258,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 455952,
-      "num": 428834,
-      "word": "白鹿看到粉丝凌晨接机的反应",
-      "onboard_time": 1713318318,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -291,12 +291,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 361027,
-      "num": 241345,
+      "raw_hot": 387986,
+      "num": 268222,
       "word": "小姑子要把我女儿头发剃光",
       "onboard_time": 1713317598,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 354112,
+      "num": 354112,
+      "word": "西安交大一附院多名医生涉学术不端被通报",
+      "onboard_time": 1713320119,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352240,
@@ -307,19 +315,19 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 332546,
+      "num": 332546,
+      "word": "轻断食减肥真的塌房了吗",
+      "onboard_time": 1713319518,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 332236,
       "num": 241852,
       "word": "中医建议不开心时要多唱歌",
       "onboard_time": 1713314058,
       "rank": 22,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 297451,
-      "num": 297451,
-      "word": "轻断食减肥真的塌房了吗",
-      "onboard_time": 1713319518,
-      "rank": 17,
       "category": "健康医疗"
     },
     {
@@ -361,6 +369,14 @@
       "onboard_time": 1713279499,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260143,
+      "num": 260143,
+      "word": "锡安受伤",
+      "onboard_time": 1713321019,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 256818,
@@ -451,14 +467,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 220980,
-      "num": 220980,
-      "word": "西安交大一附院多名医生涉学术不端被通报",
-      "onboard_time": 1713320119,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214640,
       "num": 214640,
       "word": "反复爱上金秀贤",
@@ -473,6 +481,14 @@
       "onboard_time": 1713319578,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212227,
+      "num": 212227,
+      "word": "五一购票难度堪比春运",
+      "onboard_time": 1713320119,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211985,
@@ -523,8 +539,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 199718,
-      "num": 199718,
+      "raw_hot": 206509,
+      "num": 206509,
+      "word": "无法骂小公司的理由",
+      "onboard_time": 1713319937,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 201042,
+      "num": 201042,
       "word": "长乐曲全阵容官宣",
       "onboard_time": 1713320719,
       "rank": 33,
@@ -627,22 +651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 162248,
-      "num": 162248,
-      "word": "五一购票难度堪比春运",
-      "onboard_time": 1713320119,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160569,
-      "num": 160569,
-      "word": "无法骂小公司的理由",
-      "onboard_time": 1713319937,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 154199,
       "num": 154199,
       "word": "26岁换工作了不敢跟爸妈说",
@@ -707,6 +715,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 136462,
+      "num": 136462,
+      "word": "美方将对伊朗实施新制裁",
+      "onboard_time": 1713321318,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 134274,
       "num": 134274,
       "word": "歌手阵容",
@@ -755,6 +771,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118960,
+      "num": 118960,
+      "word": "姚志明坠入爱河了",
+      "onboard_time": 1713321258,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114927,
+      "num": 329401,
+      "word": "神秘东方力量惊现巴黎夜空",
+      "onboard_time": 1713320478,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113279,
       "num": 113279,
       "word": "NBA",
@@ -800,14 +832,6 @@
       "word": "美国男篮12人完整名单",
       "onboard_time": 1713317417,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 106614,
-      "num": 153880,
-      "word": "神秘东方力量惊现巴黎夜空",
-      "onboard_time": 1713320478,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -1092,7 +1116,7 @@
     },
     {
       "raw_hot": 29755,
-      "num": 951213,
+      "num": 1192192,
       "word": "聚焦2024年消博会",
       "onboard_time": 1713275000,
       "rank": 2,
