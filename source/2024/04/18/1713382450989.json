@@ -1,0 +1,410 @@
+{
+  "runTime": 1713382450989,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 141200,
+        "num": 141200,
+        "word": "论文查重",
+        "onboard_time": 1713377290,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94387,
+        "num": 94387,
+        "word": "曼城vs皇马",
+        "onboard_time": 1713363560,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1702,
+        "num": 78736,
+        "word": "数字丝路发展论坛",
+        "onboard_time": 1713241458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71916,
+        "num": 71916,
+        "word": "90岁游本昌婚姻幸福的秘诀是不响",
+        "onboard_time": 1713364699,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55346,
+        "num": 55346,
+        "word": "食物语停运",
+        "onboard_time": 1713356420,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55323,
+        "num": 55323,
+        "word": "食物语永不关服",
+        "onboard_time": 1713365180,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 53662,
+        "num": 53662,
+        "word": "日本四国岛附近发生6.5级地震",
+        "onboard_time": 1713363919,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45795,
+        "num": 45795,
+        "word": "小米联合创始人夫妇向中山大学捐赠1亿元",
+        "onboard_time": 1713363440,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25830,
+        "num": 45370,
+        "word": "二本女生跨专业考研上岸双一流",
+        "onboard_time": 1713363560,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 24758,
+        "num": 45091,
+        "word": "蹭空调的正确打开方式",
+        "onboard_time": 1713373754,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59695,
+        "num": 44550,
+        "word": "黑龙江大学",
+        "onboard_time": 1713359420,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 56976,
+        "num": 44050,
+        "word": "1岁半男童独自过马路遭校车碾压身亡",
+        "onboard_time": 1713374652,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43907,
+        "num": 43907,
+        "word": "林彦俊直播",
+        "onboard_time": 1713364341,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39445,
+        "num": 39445,
+        "word": "欧冠",
+        "onboard_time": 1713364159,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38912,
+        "num": 38912,
+        "word": "百田",
+        "onboard_time": 1713360259,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37713,
+        "num": 37713,
+        "word": "食物语停运补偿",
+        "onboard_time": 1713363079,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22722,
+        "num": 32377,
+        "word": "wtt",
+        "onboard_time": 1713368897,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31830,
+        "num": 31830,
+        "word": "西藏发生4.0级地震",
+        "onboard_time": 1713358518,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28971,
+        "num": 28971,
+        "word": "王鹤棣背部身材",
+        "onboard_time": 1713368778,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26633,
+        "num": 26633,
+        "word": "郑恺说苗苗哄睡孩子比他有招",
+        "onboard_time": 1713365599,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71574,
+        "num": 26625,
+        "word": "飞飞一杯酒去世",
+        "onboard_time": 1713352879,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 52737,
+        "num": 26593,
+        "word": "seventeen",
+        "onboard_time": 1713369437,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36124,
+        "num": 26569,
+        "word": "怀孕三个月发现男友隐瞒婚史",
+        "onboard_time": 1713335119,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29141,
+        "num": 26541,
+        "word": "建议胃不好的人常吃这4种水果",
+        "onboard_time": 1713359659,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34466,
+        "num": 26500,
+        "word": "苗苗 救场",
+        "onboard_time": 1713351138,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28226,
+        "num": 26466,
+        "word": "真是眼前一亮又一亮又一亮",
+        "onboard_time": 1713364341,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26958,
+        "num": 26447,
+        "word": "Jennie辛芷蕾撞衫",
+        "onboard_time": 1713354498,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 26424,
+        "num": 26424,
+        "word": "林彦俊 哑巴前夫有话说",
+        "onboard_time": 1713345438,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24445,
+        "num": 24445,
+        "word": "眼镜哥",
+        "onboard_time": 1713379810,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16149,
+        "num": 24283,
+        "word": "山西一名27岁民警牺牲",
+        "onboard_time": 1713363499,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24193,
+        "num": 24193,
+        "word": "每天1个西红柿7天能白成一道光吗",
+        "onboard_time": 1713372016,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 23459,
+        "num": 23459,
+        "word": "十个勤天卖大米",
+        "onboard_time": 1713358699,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23026,
+        "num": 23026,
+        "word": "射手座的精神洁癖",
+        "onboard_time": 1713364581,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22124,
+        "num": 22124,
+        "word": "小伊伊怀二胎",
+        "onboard_time": 1713365780,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 21905,
+        "num": 21905,
+        "word": "体外受精的过程",
+        "onboard_time": 1713354738,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21230,
+        "num": 21230,
+        "word": "周迅 B站",
+        "onboard_time": 1713337157,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20860,
+        "num": 20860,
+        "word": "庆余年第二季 5月播",
+        "onboard_time": 1713352520,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19742,
+        "num": 19742,
+        "word": "杨祐宁每一张实况秦岚都在说话",
+        "onboard_time": 1713361459,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19475,
+        "num": 19475,
+        "word": "十个勤天 禾你见面",
+        "onboard_time": 1713352879,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19436,
+        "num": 19436,
+        "word": "警方通报知名茶企老板一家三口遇害",
+        "onboard_time": 1713358399,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18745,
+        "num": 19417,
+        "word": "朱丹因怀二胎才送女儿去幼儿园",
+        "onboard_time": 1713351918,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18023,
+        "num": 19211,
+        "word": "氯雷他定",
+        "onboard_time": 1713327258,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16974,
+        "num": 18977,
+        "word": "减肥只吃水煮菜会怎样",
+        "onboard_time": 1713362059,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16665,
+        "num": 18782,
+        "word": "台剧 40岁女性",
+        "onboard_time": 1713356298,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16215,
+        "num": 18568,
+        "word": "任敏是李现的胳肢窝",
+        "onboard_time": 1713366920,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16024,
+        "num": 18234,
+        "word": "欧冠海报",
+        "onboard_time": 1713381012,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15600,
+        "num": 17991,
+        "word": "福宝躺着吃笋满身竹笋皮",
+        "onboard_time": 1713354379,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14531,
+        "num": 17762,
+        "word": "刘亦菲LV上海到达",
+        "onboard_time": 1713367879,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 14362,
+        "num": 17537,
+        "word": "张元英歌手 信的人感觉会被骗保",
+        "onboard_time": 1713348918,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13766,
+        "num": 17384,
+        "word": "你有学习过心肺复苏吗",
+        "onboard_time": 1713382390,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#中德两国应相向而行互利共赢#"
+    }
+  }
+}

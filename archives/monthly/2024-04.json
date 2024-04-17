@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713381141183,
+  "endTime": 1713382450989,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -39763,6 +39763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141200,
+      "num": 141200,
+      "word": "论文查重",
+      "onboard_time": 1713377290,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 141189,
       "num": 141189,
       "word": "科切拉 KPOP",
@@ -41385,14 +41393,6 @@
       "onboard_time": 1713255259,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132102,
-      "num": 132102,
-      "word": "论文查重",
-      "onboard_time": 1713377290,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 132092,
@@ -48163,6 +48163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 24445,
+      "num": 24445,
+      "word": "眼镜哥",
+      "onboard_time": 1713379810,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24329,
       "num": 27244,
       "word": "适合初学者的瘦腹缩腰训练",
@@ -48361,14 +48369,6 @@
       "onboard_time": 1712355311,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 21461,
-      "num": 21461,
-      "word": "眼镜哥",
-      "onboard_time": 1713379810,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 21149,
@@ -48665,6 +48665,14 @@
       "onboard_time": 1712778670,
       "rank": 49,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 13766,
+      "num": 17384,
+      "word": "你有学习过心肺复苏吗",
+      "onboard_time": 1713382390,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 13753,
