@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713378226391,
+  "endTime": 1713378856994,
   "band_list": [
     {
       "raw_hot": 777044,
@@ -435,7 +435,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54657,
+      "raw_hot": 56673,
       "num": 70696,
       "word": "西藏发生4.0级地震",
       "onboard_time": 1713358518,
@@ -451,12 +451,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 34040,
-      "num": 34040,
+      "raw_hot": 48027,
+      "num": 48027,
       "word": "论文查重",
       "onboard_time": 1713377290,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 25792,
+      "num": 28550,
+      "word": "欧冠",
+      "onboard_time": 1713364159,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 3513,

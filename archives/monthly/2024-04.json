@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713378226391,
+  "endTime": 1713378856994,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -47163,6 +47163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 48027,
+      "num": 48027,
+      "word": "论文查重",
+      "onboard_time": 1713377290,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 48006,
       "num": 48006,
       "word": "站姐撞图",
@@ -47689,14 +47697,6 @@
       "onboard_time": 1712993177,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 34040,
-      "num": 34040,
-      "word": "论文查重",
-      "onboard_time": 1713377290,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 34024,

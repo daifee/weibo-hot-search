@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713378226391,
+  "endTime": 1713378856994,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -11371,6 +11371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48027,
+      "num": 48027,
+      "word": "论文查重",
+      "onboard_time": 1713377290,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 47340,
       "num": 440762,
       "word": "易烊千玺九号微电影",
@@ -11505,14 +11513,6 @@
       "onboard_time": 1713241458,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34040,
-      "num": 34040,
-      "word": "论文查重",
-      "onboard_time": 1713377290,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 33911,
