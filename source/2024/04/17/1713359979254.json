@@ -1,0 +1,410 @@
+{
+  "runTime": 1713359979254,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1746402,
+        "num": 1746402,
+        "word": "飞飞一杯酒去世",
+        "onboard_time": 1713352879,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1043520,
+        "num": 1043520,
+        "word": "食物语停运",
+        "onboard_time": 1713356420,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2409,
+        "num": 849595,
+        "word": "数字丝路发展论坛",
+        "onboard_time": 1713241458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835688,
+        "num": 835688,
+        "word": "苗苗 救场",
+        "onboard_time": 1713351138,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 713594,
+        "num": 713594,
+        "word": "氯雷他定",
+        "onboard_time": 1713327258,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 603001,
+        "num": 603001,
+        "word": "庆余年第二季 5月播",
+        "onboard_time": 1713352520,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 551851,
+        "num": 551851,
+        "word": "小林制药导致住院增至235人",
+        "onboard_time": 1713355759,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496291,
+        "num": 496291,
+        "word": "警方通报知名茶企老板一家三口遇害",
+        "onboard_time": 1713358399,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466812,
+        "num": 466812,
+        "word": "Jennie辛芷蕾撞衫",
+        "onboard_time": 1713354498,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 200448,
+        "num": 442189,
+        "word": "樊振东晋级世界杯16强",
+        "onboard_time": 1713359479,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495485,
+        "num": 440232,
+        "word": "朱丹因怀二胎才送女儿去幼儿园",
+        "onboard_time": 1713351918,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424953,
+        "num": 424953,
+        "word": "福宝躺着吃笋满身竹笋皮",
+        "onboard_time": 1713354379,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384564,
+        "num": 384564,
+        "word": "接个私活像出轨一样",
+        "onboard_time": 1713351619,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 376747,
+        "num": 376747,
+        "word": "歌手 营销",
+        "onboard_time": 1713355459,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353065,
+        "num": 353065,
+        "word": "杨紫妆造",
+        "onboard_time": 1713352698,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320794,
+        "num": 320794,
+        "word": "燃气公司称换表后费用上涨或许是错觉",
+        "onboard_time": 1713355939,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288201,
+        "num": 288201,
+        "word": "十个勤天卖大米",
+        "onboard_time": 1713358699,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286082,
+        "num": 286082,
+        "word": "黑龙江大学",
+        "onboard_time": 1713359420,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 254322,
+        "num": 254322,
+        "word": "樊振东vs黄镇廷",
+        "onboard_time": 1713357439,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233615,
+        "num": 233615,
+        "word": "十个勤天 禾你见面",
+        "onboard_time": 1713352879,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229033,
+        "num": 229033,
+        "word": "胡锡进今天回血近13000元",
+        "onboard_time": 1713353658,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222508,
+        "num": 222508,
+        "word": "体外受精的过程",
+        "onboard_time": 1713354738,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212404,
+        "num": 212404,
+        "word": "惜花芷看哭了",
+        "onboard_time": 1713357739,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209963,
+        "num": 209963,
+        "word": "杨紫高定黑礼裙",
+        "onboard_time": 1713359958,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208982,
+        "num": 208982,
+        "word": "36岁女子存300万后提前退休",
+        "onboard_time": 1713340459,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183819,
+        "num": 183819,
+        "word": "台剧 40岁女性",
+        "onboard_time": 1713356298,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181254,
+        "num": 181254,
+        "word": "黄子韬把朱梓骁认成金莎男朋友",
+        "onboard_time": 1713351319,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176334,
+        "num": 176334,
+        "word": "如懿传 李纯",
+        "onboard_time": 1713340158,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1487519,
+        "num": 175414,
+        "word": "蔡徐坤 发福",
+        "onboard_time": 1713345258,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168353,
+        "num": 168353,
+        "word": "睡前喝牛奶真能助眠吗",
+        "onboard_time": 1713357921,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 239509,
+        "num": 163324,
+        "word": "周迅 B站",
+        "onboard_time": 1713337157,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233670,
+        "num": 161942,
+        "word": "建议胃不好的人常吃这4种水果",
+        "onboard_time": 1713359659,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155578,
+        "num": 155578,
+        "word": "林彦俊 哑巴前夫有话说",
+        "onboard_time": 1713345438,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150861,
+        "num": 150861,
+        "word": "怀孕三个月发现男友隐瞒婚史",
+        "onboard_time": 1713335119,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150552,
+        "num": 150552,
+        "word": "WBG疑似参加沙特电竞杯",
+        "onboard_time": 1713359599,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145087,
+        "num": 145087,
+        "word": "米卡拿到了中国驾照",
+        "onboard_time": 1713356118,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151779,
+        "num": 143929,
+        "word": "易梦玲鼻子",
+        "onboard_time": 1713349218,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142523,
+        "num": 142523,
+        "word": "第一次见舞台上放生虫子的",
+        "onboard_time": 1713358039,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140336,
+        "num": 140336,
+        "word": "西藏发生4.0级地震",
+        "onboard_time": 1713358518,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131557,
+        "num": 131557,
+        "word": "青春环游记第5季录制嘉宾",
+        "onboard_time": 1713351439,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129479,
+        "num": 129479,
+        "word": "黑神话悟空 海信",
+        "onboard_time": 1713357921,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125904,
+        "num": 125904,
+        "word": "全红婵陈芋汐十米台再现神同步",
+        "onboard_time": 1713340039,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120546,
+        "num": 120546,
+        "word": "轻断食好坏不能轻易定论",
+        "onboard_time": 1713359899,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119827,
+        "num": 119827,
+        "word": "福宝开始探索外场区域",
+        "onboard_time": 1713347598,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114302,
+        "num": 114302,
+        "word": "奔跑吧直播",
+        "onboard_time": 1713352219,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113417,
+        "num": 113417,
+        "word": "你和向佐什么关系",
+        "onboard_time": 1713354857,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113096,
+        "num": 113096,
+        "word": "张元英歌手 信的人感觉会被骗保",
+        "onboard_time": 1713348918,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112773,
+        "num": 112773,
+        "word": "张艺兴无效卡点",
+        "onboard_time": 1713355038,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111798,
+        "num": 111798,
+        "word": "当讨好型人格钓鱼时遇见了猫",
+        "onboard_time": 1713354318,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111272,
+        "num": 111272,
+        "word": "为什么运动届从来不缺显眼包",
+        "onboard_time": 1713359059,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中德两国应相向而行互利共赢#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1713284571046,
-  "endTime": 1713358057777,
+  "endTime": 1713359979254,
   "band_list": [
     {
       "raw_hot": 3167017,
@@ -163,8 +163,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1043352,
-      "num": 1043352,
+      "raw_hot": 1043520,
+      "num": 1043520,
       "word": "食物语停运",
       "onboard_time": 1713356420,
       "rank": 3,
@@ -587,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496291,
+      "num": 496291,
+      "word": "警方通报知名茶企老板一家三口遇害",
+      "onboard_time": 1713358399,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494513,
       "num": 494513,
       "word": "Jennie辛芷蕾撞衫",
@@ -739,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 424953,
+      "num": 424953,
+      "word": "福宝躺着吃笋满身竹笋皮",
+      "onboard_time": 1713354379,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416028,
       "num": 416028,
       "word": "歌手2024 张元英",
@@ -883,8 +899,8 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 372448,
-      "num": 372448,
+      "raw_hot": 376747,
+      "num": 376747,
       "word": "歌手 营销",
       "onboard_time": 1713355459,
       "rank": 16,
@@ -1099,12 +1115,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 288201,
+      "num": 288201,
+      "word": "十个勤天卖大米",
+      "onboard_time": 1713358699,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288181,
       "num": 221907,
       "word": "原来大学老师才是真正的顶流",
       "onboard_time": 1713348798,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 286082,
+      "num": 286082,
+      "word": "黑龙江大学",
+      "onboard_time": 1713359420,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 280751,
@@ -1161,14 +1193,6 @@
       "onboard_time": 1713283338,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 266395,
-      "num": 266395,
-      "word": "福宝躺着吃笋满身竹笋皮",
-      "onboard_time": 1713354379,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 265644,
@@ -1347,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233670,
+      "num": 161942,
+      "word": "建议胃不好的人常吃这4种水果",
+      "onboard_time": 1713359659,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 233330,
       "num": 233330,
       "word": "陈梦vs阿库拉",
@@ -1483,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212404,
+      "num": 212404,
+      "word": "惜花芷看哭了",
+      "onboard_time": 1713357739,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211985,
       "num": 211985,
       "word": "湖人vs鹈鹕",
@@ -1563,6 +1603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 209963,
+      "num": 209963,
+      "word": "杨紫高定黑礼裙",
+      "onboard_time": 1713359958,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207225,
       "num": 207225,
       "word": "婚礼跟拍图还没修新人已经离婚了",
@@ -1625,6 +1673,14 @@
       "onboard_time": 1713337638,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200448,
+      "num": 442189,
+      "word": "樊振东晋级世界杯16强",
+      "onboard_time": 1713359479,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 199293,
@@ -1947,6 +2003,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 168353,
+      "num": 168353,
+      "word": "睡前喝牛奶真能助眠吗",
+      "onboard_time": 1713357921,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 168112,
       "num": 106429,
       "word": "马丽言论",
@@ -2107,12 +2171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150511,
-      "num": 129911,
-      "word": "惜花芷看哭了",
-      "onboard_time": 1713357739,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 150552,
+      "num": 150552,
+      "word": "WBG疑似参加沙特电竞杯",
+      "onboard_time": 1713359599,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 150134,
@@ -2251,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142523,
+      "num": 142523,
+      "word": "第一次见舞台上放生虫子的",
+      "onboard_time": 1713358039,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142421,
       "num": 142421,
       "word": "明明在广州却像出国了",
@@ -2281,6 +2353,14 @@
       "onboard_time": 1713348858,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140336,
+      "num": 140336,
+      "word": "西藏发生4.0级地震",
+      "onboard_time": 1713358518,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140015,
@@ -2395,6 +2475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129479,
+      "num": 129479,
+      "word": "黑神话悟空 海信",
+      "onboard_time": 1713357921,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128258,
       "num": 128258,
       "word": "山西省国道241工程被举报存重大隐患",
@@ -2467,6 +2555,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 120546,
+      "num": 120546,
+      "word": "轻断食好坏不能轻易定论",
+      "onboard_time": 1713359899,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 120067,
       "num": 120067,
       "word": "谷雨",
@@ -2505,14 +2601,6 @@
       "onboard_time": 1713320478,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114756,
-      "num": 114756,
-      "word": "第一次见舞台上放生虫子的",
-      "onboard_time": 1713358039,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 114229,
@@ -2555,6 +2643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111272,
+      "num": 111272,
+      "word": "为什么运动届从来不缺显眼包",
+      "onboard_time": 1713359059,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110078,
       "num": 110078,
       "word": "林更新刚出道就怼吴奇隆",
@@ -2595,14 +2691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105859,
-      "num": 105859,
-      "word": "黑神话悟空 海信",
-      "onboard_time": 1713357921,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 105621,
       "num": 356840,
       "word": "什么叫citywork",
@@ -2617,14 +2705,6 @@
       "onboard_time": 1713317477,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 105035,
-      "num": 105035,
-      "word": "睡前喝牛奶真能助眠吗",
-      "onboard_time": 1713357921,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 104618,

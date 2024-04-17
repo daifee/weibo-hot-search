@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713358057777,
+  "endTime": 1713359979254,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -595,8 +595,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1043352,
-      "num": 1043352,
+      "raw_hot": 1043520,
+      "num": 1043520,
       "word": "食物语停运",
       "onboard_time": 1713356420,
       "rank": 3,
@@ -2235,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496291,
+      "num": 496291,
+      "word": "警方通报知名茶企老板一家三口遇害",
+      "onboard_time": 1713358399,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496176,
       "num": 496176,
       "word": "厦门大学食堂建议本",
@@ -2835,6 +2843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 424953,
+      "num": 424953,
+      "word": "福宝躺着吃笋满身竹笋皮",
+      "onboard_time": 1713354379,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423982,
       "num": 423982,
       "word": "北京像下雪了",
@@ -3315,6 +3331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 376747,
+      "num": 376747,
+      "word": "歌手 营销",
+      "onboard_time": 1713355459,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376696,
       "num": 359336,
       "word": "刘诗诗的男主们参加同一档综艺",
@@ -3361,14 +3385,6 @@
       "onboard_time": 1713169938,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 372448,
-      "num": 372448,
-      "word": "歌手 营销",
-      "onboard_time": 1713355459,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 371844,
@@ -4339,6 +4355,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 288201,
+      "num": 288201,
+      "word": "十个勤天卖大米",
+      "onboard_time": 1713358699,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288181,
       "num": 221907,
       "word": "原来大学老师才是真正的顶流",
@@ -4385,6 +4409,14 @@
       "onboard_time": 1713054797,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 286082,
+      "num": 286082,
+      "word": "黑龙江大学",
+      "onboard_time": 1713359420,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 285564,
@@ -4657,14 +4689,6 @@
       "onboard_time": 1713092237,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 266395,
-      "num": 266395,
-      "word": "福宝躺着吃笋满身竹笋皮",
-      "onboard_time": 1713354379,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 265988,
@@ -5299,6 +5323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 233670,
+      "num": 161942,
+      "word": "建议胃不好的人常吃这4种水果",
+      "onboard_time": 1713359659,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 233520,
       "num": 227050,
       "word": "华为Pura怎么读",
@@ -5899,6 +5931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212404,
+      "num": 212404,
+      "word": "惜花芷看哭了",
+      "onboard_time": 1713357739,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212011,
       "num": 212011,
       "word": "镜子为什么不能正对床",
@@ -6025,6 +6065,14 @@
       "onboard_time": 1713230478,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209963,
+      "num": 209963,
+      "word": "杨紫高定黑礼裙",
+      "onboard_time": 1713359958,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209854,
@@ -6385,6 +6433,14 @@
       "onboard_time": 1713337638,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200448,
+      "num": 442189,
+      "word": "樊振东晋级世界杯16强",
+      "onboard_time": 1713359479,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 200161,
@@ -7683,6 +7739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168353,
+      "num": 168353,
+      "word": "睡前喝牛奶真能助眠吗",
+      "onboard_time": 1713357921,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 168160,
       "num": 168160,
       "word": "定风波 张楠",
@@ -8507,12 +8571,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150511,
-      "num": 129911,
-      "word": "惜花芷看哭了",
-      "onboard_time": 1713357739,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 150552,
+      "num": 150552,
+      "word": "WBG疑似参加沙特电竞杯",
+      "onboard_time": 1713359599,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 150134,
@@ -8979,6 +9043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142523,
+      "num": 142523,
+      "word": "第一次见舞台上放生虫子的",
+      "onboard_time": 1713358039,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142421,
       "num": 142421,
       "word": "明明在广州却像出国了",
@@ -9065,6 +9137,14 @@
       "onboard_time": 1713152658,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140336,
+      "num": 140336,
+      "word": "西藏发生4.0级地震",
+      "onboard_time": 1713358518,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140015,
@@ -9507,6 +9587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129479,
+      "num": 129479,
+      "word": "黑神话悟空 海信",
+      "onboard_time": 1713357921,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128960,
       "num": 128960,
       "word": "成龙为刘浩存提裙摆",
@@ -9851,6 +9939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120546,
+      "num": 120546,
+      "word": "轻断食好坏不能轻易定论",
+      "onboard_time": 1713359899,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 120519,
       "num": 120519,
       "word": "终于看到辛芷蕾的话剧片段了",
@@ -10027,14 +10123,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 114756,
-      "num": 114756,
-      "word": "第一次见舞台上放生虫子的",
-      "onboard_time": 1713358039,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114527,
       "num": 114527,
       "word": "RIIZE预告",
@@ -10105,6 +10193,14 @@
       "onboard_time": 1713321797,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111272,
+      "num": 111272,
+      "word": "为什么运动届从来不缺显眼包",
+      "onboard_time": 1713359059,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 111139,
@@ -10235,14 +10331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105859,
-      "num": 105859,
-      "word": "黑神话悟空 海信",
-      "onboard_time": 1713357921,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 105621,
       "num": 356840,
       "word": "什么叫citywork",
@@ -10265,14 +10353,6 @@
       "onboard_time": 1713170119,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 105035,
-      "num": 105035,
-      "word": "睡前喝牛奶真能助眠吗",
-      "onboard_time": 1713357921,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 104618,

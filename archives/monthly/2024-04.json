@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713358057777,
+  "endTime": 1713359979254,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3267,8 +3267,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 1043352,
-      "num": 1043352,
+      "raw_hot": 1043520,
+      "num": 1043520,
       "word": "食物语停运",
       "onboard_time": 1713356420,
       "rank": 3,
@@ -10843,6 +10843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496291,
+      "num": 496291,
+      "word": "警方通报知名茶企老板一家三口遇害",
+      "onboard_time": 1713358399,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496287,
       "num": 496287,
       "word": "曹格儿子女儿泰国度假",
@@ -13267,6 +13275,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 424953,
+      "num": 424953,
+      "word": "福宝躺着吃笋满身竹笋皮",
+      "onboard_time": 1713354379,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424648,
       "num": 424648,
       "word": "快递公司经理泄露国家秘密被拘3日",
@@ -15003,6 +15019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 376747,
+      "num": 376747,
+      "word": "歌手 营销",
+      "onboard_time": 1713355459,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376696,
       "num": 359336,
       "word": "刘诗诗的男主们参加同一档综艺",
@@ -15145,14 +15169,6 @@
       "onboard_time": 1712056640,
       "rank": 30,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 372448,
-      "num": 372448,
-      "word": "歌手 营销",
-      "onboard_time": 1713355459,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 371844,
@@ -19371,6 +19387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288201,
+      "num": 288201,
+      "word": "十个勤天卖大米",
+      "onboard_time": 1713358699,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288181,
       "num": 221907,
       "word": "原来大学老师才是真正的顶流",
@@ -19513,6 +19537,14 @@
       "onboard_time": 1712116103,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 286082,
+      "num": 286082,
+      "word": "黑龙江大学",
+      "onboard_time": 1713359420,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 285582,
@@ -20737,14 +20769,6 @@
       "onboard_time": 1713092237,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 266395,
-      "num": 266395,
-      "word": "福宝躺着吃笋满身竹笋皮",
-      "onboard_time": 1713354379,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266112,
@@ -23659,6 +23683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233670,
+      "num": 161942,
+      "word": "建议胃不好的人常吃这4种水果",
+      "onboard_time": 1713359659,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 233609,
       "num": 191609,
       "word": "与凤行官微发文告别",
@@ -26011,6 +26043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212404,
+      "num": 212404,
+      "word": "惜花芷看哭了",
+      "onboard_time": 1713357739,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212393,
       "num": 212393,
       "word": "追风者最后两集 爽",
@@ -26393,6 +26433,14 @@
       "onboard_time": 1712942653,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 209963,
+      "num": 209963,
+      "word": "杨紫高定黑礼裙",
+      "onboard_time": 1713359958,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209886,
@@ -28201,6 +28249,14 @@
       "onboard_time": 1712274255,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 200448,
+      "num": 442189,
+      "word": "樊振东晋级世界杯16强",
+      "onboard_time": 1713359479,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 200431,
@@ -34211,6 +34267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168353,
+      "num": 168353,
+      "word": "睡前喝牛奶真能助眠吗",
+      "onboard_time": 1713357921,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 168350,
       "num": 168350,
       "word": "JackeyLoves手指队徽",
@@ -37547,20 +37611,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150552,
+      "num": 150552,
+      "word": "WBG疑似参加沙特电竞杯",
+      "onboard_time": 1713359599,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150532,
       "num": 150532,
       "word": "父母的爱是一场得体的退出",
       "onboard_time": 1712311698,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150511,
-      "num": 129911,
-      "word": "惜花芷看哭了",
-      "onboard_time": 1713357739,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 150461,
@@ -39187,6 +39251,14 @@
       "category": "财经,国内时政"
     },
     {
+      "raw_hot": 142523,
+      "num": 142523,
+      "word": "第一次见舞台上放生虫子的",
+      "onboard_time": 1713358039,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142497,
       "num": 142497,
       "word": "涵艺爆料WBG签约韩援打野",
@@ -39513,6 +39585,14 @@
       "onboard_time": 1713152658,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140336,
+      "num": 140336,
+      "word": "西藏发生4.0级地震",
+      "onboard_time": 1713358518,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140304,
@@ -41363,6 +41443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129479,
+      "num": 129479,
+      "word": "黑神话悟空 海信",
+      "onboard_time": 1713357921,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129212,
       "num": 129212,
       "word": "应采儿说Jasper是脏儿子",
@@ -42651,6 +42739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120546,
+      "num": 120546,
+      "word": "轻断食好坏不能轻易定论",
+      "onboard_time": 1713359899,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 120544,
       "num": 120544,
       "word": "王者荣耀同人大片",
@@ -43363,14 +43459,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 114756,
-      "num": 114756,
-      "word": "第一次见舞台上放生虫子的",
-      "onboard_time": 1713358039,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114739,
       "num": 114739,
       "word": "赵丽颖南京工作室注销",
@@ -43689,6 +43777,14 @@
       "onboard_time": 1712286077,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111272,
+      "num": 111272,
+      "word": "为什么运动届从来不缺显眼包",
+      "onboard_time": 1713359059,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 111139,
@@ -44067,14 +44163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105859,
-      "num": 105859,
-      "word": "黑神话悟空 海信",
-      "onboard_time": 1713357921,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 105795,
       "num": 105795,
       "word": "伊朗高官称以色列大使馆将不再安全",
@@ -44145,14 +44233,6 @@
       "onboard_time": 1713170119,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 105035,
-      "num": 105035,
-      "word": "睡前喝牛奶真能助眠吗",
-      "onboard_time": 1713357921,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 104976,
