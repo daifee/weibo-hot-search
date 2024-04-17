@@ -1,0 +1,410 @@
+{
+  "runTime": 1713349156608,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3147213,
+        "num": 3147213,
+        "word": "蔡徐坤 发福",
+        "onboard_time": 1713345258,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 887089,
+        "num": 887089,
+        "word": "福宝开始探索外场区域",
+        "onboard_time": 1713347598,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89728,
+        "num": 737206,
+        "word": "消博会上掀起了一股国潮风",
+        "onboard_time": 1713345198,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667587,
+        "num": 667587,
+        "word": "如懿传 李纯",
+        "onboard_time": 1713340158,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 639961,
+        "num": 639961,
+        "word": "12306积分首次使用必须满1万",
+        "onboard_time": 1713341838,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591762,
+        "num": 591762,
+        "word": "林彦俊 哑巴前夫有话说",
+        "onboard_time": 1713345438,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583751,
+        "num": 583751,
+        "word": "氯雷他定",
+        "onboard_time": 1713327258,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 462247,
+        "num": 462247,
+        "word": "排卵期储水",
+        "onboard_time": 1713331039,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189075,
+        "num": 440274,
+        "word": "中国港珠澳大桥总工程师苏权科",
+        "onboard_time": 1713343097,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 233080,
+        "num": 429049,
+        "word": "全红婵陈芋汐十米台再现神同步",
+        "onboard_time": 1713340039,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514030,
+        "num": 428822,
+        "word": "3岁男童因发育迟缓被生父杀害",
+        "onboard_time": 1713348258,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428371,
+        "num": 428371,
+        "word": "教育局回应河北一小学生身亡",
+        "onboard_time": 1713345799,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400366,
+        "num": 400366,
+        "word": "臣妾百口莫辩",
+        "onboard_time": 1713346638,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392870,
+        "num": 392870,
+        "word": "惜花芷口碑逆跌",
+        "onboard_time": 1713344838,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350094,
+        "num": 350094,
+        "word": "阚清子新中式",
+        "onboard_time": 1713345016,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348352,
+        "num": 348352,
+        "word": "金智媛金秀贤能不能结婚",
+        "onboard_time": 1713347659,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268280,
+        "num": 268280,
+        "word": "佛祖显0",
+        "onboard_time": 1713332537,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261971,
+        "num": 261971,
+        "word": "12306 票呢",
+        "onboard_time": 1713335358,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93440,
+        "num": 255163,
+        "word": "米兰最红打卡地来自中国",
+        "onboard_time": 1713347478,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 248444,
+        "num": 248444,
+        "word": "当地警方回应高校女生带病出操死亡",
+        "onboard_time": 1713341897,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608231,
+        "num": 247611,
+        "word": "酱园弄 谢娜",
+        "onboard_time": 1713332720,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 451467,
+        "num": 246605,
+        "word": "怀孕三个月发现男友隐瞒婚史",
+        "onboard_time": 1713335119,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355602,
+        "num": 245230,
+        "word": "36岁女子存300万后提前退休",
+        "onboard_time": 1713340459,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318506,
+        "num": 243904,
+        "word": "30岁了还在应聘基础岗位",
+        "onboard_time": 1713342738,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243142,
+        "num": 243142,
+        "word": "抱娃开车1岁娃成了妈妈的气囊",
+        "onboard_time": 1713330020,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239734,
+        "num": 239734,
+        "word": "月薪5万夫妻裸辞义乌创业日入200",
+        "onboard_time": 1713323177,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221417,
+        "num": 221417,
+        "word": "薛之谦巡演官宣大连西宁站",
+        "onboard_time": 1713348258,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 221289,
+        "num": 221289,
+        "word": "万妮达 浪姐",
+        "onboard_time": 1713345138,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219016,
+        "num": 219016,
+        "word": "迪拜天空一秒变绿",
+        "onboard_time": 1713346938,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 195830,
+        "num": 214029,
+        "word": "酱园弄全阵容官宣",
+        "onboard_time": 1713331398,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 809372,
+        "num": 213665,
+        "word": "周迅 B站",
+        "onboard_time": 1713337157,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211167,
+        "num": 211167,
+        "word": "多名网红上薛之谦演唱会互动露脸",
+        "onboard_time": 1713338299,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196525,
+        "num": 196525,
+        "word": "原来大学老师才是真正的顶流",
+        "onboard_time": 1713348798,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194894,
+        "num": 194894,
+        "word": "谢娜赵丽颖首次合作",
+        "onboard_time": 1713338178,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191621,
+        "num": 191621,
+        "word": "燃气公司回应换表后新增1.7万欠费",
+        "onboard_time": 1713347839,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189740,
+        "num": 189740,
+        "word": "如懿传剧情",
+        "onboard_time": 1713348020,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188561,
+        "num": 188561,
+        "word": "买小米SU7被极越辞退员工发声",
+        "onboard_time": 1713337038,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 193671,
+        "num": 187932,
+        "word": "谢娜你闷声干大事",
+        "onboard_time": 1713336557,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186710,
+        "num": 186710,
+        "word": "于和伟大大方方媚粉",
+        "onboard_time": 1713347719,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171133,
+        "num": 171133,
+        "word": "原来躺着就能改善驼背",
+        "onboard_time": 1713343457,
+        "rank": 39,
+        "category": "运动健身,科学科普"
+      },
+      {
+        "raw_hot": 169682,
+        "num": 169682,
+        "word": "TFBOYS宣传酱园弄",
+        "onboard_time": 1713337519,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161403,
+        "num": 161403,
+        "word": "肖战一怒之下怒了一下",
+        "onboard_time": 1713328581,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160694,
+        "num": 160694,
+        "word": "张元英歌手 信的人感觉会被骗保",
+        "onboard_time": 1713348918,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152725,
+        "num": 152725,
+        "word": "台湾花莲海域4.6级地震",
+        "onboard_time": 1713347298,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148595,
+        "num": 148595,
+        "word": "王曼昱晋级世界杯16强",
+        "onboard_time": 1713348440,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140440,
+        "num": 140440,
+        "word": "和平精英上赛新地图",
+        "onboard_time": 1713348858,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139564,
+        "num": 139564,
+        "word": "什么时候可以禁止微信办公",
+        "onboard_time": 1713348618,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130962,
+        "num": 130962,
+        "word": "王曼昱vs巴特拉",
+        "onboard_time": 1713346879,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124472,
+        "num": 124472,
+        "word": "杨幂李现合作了",
+        "onboard_time": 1713336379,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121180,
+        "num": 121180,
+        "word": "明明不饿却总想吃怎么办",
+        "onboard_time": 1713346458,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#和平解决乌克兰危机要把握四要四不要#"
+    }
+  }
+}

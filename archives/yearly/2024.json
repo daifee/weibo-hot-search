@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1713346465125,
+  "endTime": 1713349156608,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1731,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3147213,
+      "num": 3147213,
+      "word": "蔡徐坤 发福",
+      "onboard_time": 1713345258,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3144358,
       "num": 3144358,
       "word": "12306 秒没",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1706190273,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2750419,
-      "num": 2750419,
-      "word": "考虫倒闭",
-      "onboard_time": 1708566813,
-      "rank": 11,
-      "category": "教育"
     }
   ],
   "hotgov_list": [

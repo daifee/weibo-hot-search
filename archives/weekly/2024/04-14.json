@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713346465125,
+  "endTime": 1713349156608,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -17,6 +17,14 @@
       "onboard_time": 1713327258,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 3147213,
+      "num": 3147213,
+      "word": "蔡徐坤 发福",
+      "onboard_time": 1713345258,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3144358,
@@ -105,14 +113,6 @@
       "onboard_time": 1713314719,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2223333,
-      "num": 2223333,
-      "word": "蔡徐坤 发福",
-      "onboard_time": 1713345258,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2163286,
@@ -840,6 +840,14 @@
       "word": "专家建议增加下半年法定节假日",
       "onboard_time": 1713229399,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 887089,
+      "num": 887089,
+      "word": "福宝开始探索外场区域",
+      "onboard_time": 1713347598,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1603,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591762,
+      "num": 591762,
+      "word": "林彦俊 哑巴前夫有话说",
+      "onboard_time": 1713345438,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591690,
       "num": 591690,
       "word": "伊朗已发射150枚导弹",
@@ -2003,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514030,
+      "num": 428822,
+      "word": "3岁男童因发育迟缓被生父杀害",
+      "onboard_time": 1713348258,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513543,
       "num": 513543,
       "word": "体检查出甲状腺结节切勿盲目手术",
@@ -2289,14 +2313,6 @@
       "onboard_time": 1713053415,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 469887,
-      "num": 469887,
-      "word": "林彦俊 哑巴前夫有话说",
-      "onboard_time": 1713345438,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 469638,
@@ -2675,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428371,
+      "num": 428371,
+      "word": "教育局回应河北一小学生身亡",
+      "onboard_time": 1713345799,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427633,
       "num": 377151,
       "word": "IVE预告照",
@@ -2875,6 +2899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 400366,
+      "num": 400366,
+      "word": "臣妾百口莫辩",
+      "onboard_time": 1713346638,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 399421,
       "num": 393962,
       "word": "张艺兴抵达韩国",
@@ -2969,6 +3001,14 @@
       "onboard_time": 1713178520,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 392870,
+      "num": 392870,
+      "word": "惜花芷口碑逆跌",
+      "onboard_time": 1713344838,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 392568,
@@ -3457,6 +3497,14 @@
       "onboard_time": 1713058697,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 348352,
+      "num": 348352,
+      "word": "金智媛金秀贤能不能结婚",
+      "onboard_time": 1713347659,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 348080,
@@ -5027,14 +5075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234840,
-      "num": 234840,
-      "word": "惜花芷口碑逆跌",
-      "onboard_time": 1713344838,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 234760,
       "num": 234760,
       "word": "脱下孔乙己长衫穿上偷感马甲",
@@ -5387,6 +5427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 221417,
+      "num": 221417,
+      "word": "薛之谦巡演官宣大连西宁站",
+      "onboard_time": 1713348258,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 220727,
       "num": 199591,
       "word": "理想汽车回应车内摄像头拍不雅照",
@@ -5417,6 +5465,14 @@
       "onboard_time": 1713158298,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219016,
+      "num": 219016,
+      "word": "迪拜天空一秒变绿",
+      "onboard_time": 1713346938,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 218836,
@@ -6283,6 +6339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196525,
+      "num": 196525,
+      "word": "原来大学老师才是真正的顶流",
+      "onboard_time": 1713348798,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196477,
       "num": 196477,
       "word": "李现任敏电梯图",
@@ -6483,6 +6547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191621,
+      "num": 191621,
+      "word": "燃气公司回应换表后新增1.7万欠费",
+      "onboard_time": 1713347839,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191508,
       "num": 191508,
       "word": "按角色出场顺序排列",
@@ -6531,6 +6603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 189740,
+      "num": 189740,
+      "word": "如懿传剧情",
+      "onboard_time": 1713348020,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189681,
       "num": 189681,
       "word": "IVE新专配置公开",
@@ -6553,6 +6633,14 @@
       "onboard_time": 1713250458,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189075,
+      "num": 440274,
+      "word": "中国港珠澳大桥总工程师苏权科",
+      "onboard_time": 1713343097,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 188934,
@@ -6681,6 +6769,14 @@
       "onboard_time": 1713334578,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186710,
+      "num": 186710,
+      "word": "于和伟大大方方媚粉",
+      "onboard_time": 1713347719,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 186501,
@@ -6921,14 +7017,6 @@
       "onboard_time": 1713308834,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180842,
-      "num": 180842,
-      "word": "教育局回应河北一小学生身亡",
-      "onboard_time": 1713345799,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180828,
@@ -7275,6 +7363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171133,
+      "num": 171133,
+      "word": "原来躺着就能改善驼背",
+      "onboard_time": 1713343457,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 170962,
       "num": 170962,
       "word": "为什么年轻人都想逃离银行柜员",
@@ -7547,14 +7643,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 164569,
-      "num": 164569,
-      "word": "中国港珠澳大桥总工程师苏权科",
-      "onboard_time": 1713343097,
-      "rank": 34,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 164528,
       "num": 164528,
       "word": "张婧仪真给胡一天买芋泥啵啵了",
@@ -7697,6 +7785,14 @@
       "onboard_time": 1713104060,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160694,
+      "num": 160694,
+      "word": "张元英歌手 信的人感觉会被骗保",
+      "onboard_time": 1713348918,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 160050,
@@ -8083,6 +8179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152725,
+      "num": 152725,
+      "word": "台湾花莲海域4.6级地震",
+      "onboard_time": 1713347298,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152371,
       "num": 152371,
       "word": "TES挺进春决",
@@ -8187,14 +8291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149792,
-      "num": 149792,
-      "word": "原来躺着就能改善驼背",
-      "onboard_time": 1713343457,
-      "rank": 40,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 149570,
       "num": 149570,
       "word": "Knight 十张身份证的决赛这次我会赢",
@@ -8257,6 +8353,14 @@
       "onboard_time": 1713165618,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148595,
+      "num": 148595,
+      "word": "王曼昱晋级世界杯16强",
+      "onboard_time": 1713348440,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 148501,
@@ -8675,6 +8779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 140440,
+      "num": 140440,
+      "word": "和平精英上赛新地图",
+      "onboard_time": 1713348858,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140337,
       "num": 140337,
       "word": "萌探2024宣传片全员表情失控",
@@ -8697,6 +8809,14 @@
       "onboard_time": 1713077598,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139564,
+      "num": 139564,
+      "word": "什么时候可以禁止微信办公",
+      "onboard_time": 1713348618,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 139302,
@@ -9025,6 +9145,14 @@
       "onboard_time": 1713263538,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130962,
+      "num": 130962,
+      "word": "王曼昱vs巴特拉",
+      "onboard_time": 1713346879,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 130947,
@@ -9361,6 +9489,14 @@
       "onboard_time": 1713136516,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121180,
+      "num": 121180,
+      "word": "明明不饿却总想吃怎么办",
+      "onboard_time": 1713346458,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 121144,
@@ -9915,6 +10051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93440,
+      "num": 255163,
+      "word": "米兰最红打卡地来自中国",
+      "onboard_time": 1713347478,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 92674,
       "num": 92674,
       "word": "红色痘痘千万别用针扎",
@@ -9953,6 +10097,14 @@
       "onboard_time": 1713286214,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89728,
+      "num": 1039114,
+      "word": "消博会上掀起了一股国潮风",
+      "onboard_time": 1713345198,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89339,
@@ -10009,14 +10161,6 @@
       "onboard_time": 1713306071,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 81955,
-      "num": 1039114,
-      "word": "消博会上掀起了一股国潮风",
-      "onboard_time": 1713345198,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77410,
