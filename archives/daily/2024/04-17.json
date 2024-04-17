@@ -1,6 +1,6 @@
 {
   "startTime": 1713284571046,
-  "endTime": 1713364446994,
+  "endTime": 1713367262309,
   "band_list": [
     {
       "raw_hot": 3167017,
@@ -113,6 +113,14 @@
       "onboard_time": 1713316399,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1336940,
+      "num": 338356,
+      "word": "欧弟打算卖跑车养女儿",
+      "onboard_time": 1713364399,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 1298846,
@@ -235,6 +243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 927879,
+      "num": 657073,
+      "word": "林彦俊直播",
+      "onboard_time": 1713364341,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 913406,
       "num": 913406,
       "word": "福宝开始探索外场区域",
@@ -273,6 +289,14 @@
       "onboard_time": 1713352520,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 808996,
+      "num": 808996,
+      "word": "日本四国岛附近发生6.5级地震",
+      "onboard_time": 1713363919,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 808291,
@@ -443,6 +467,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 594976,
+      "num": 594976,
+      "word": "90岁游本昌婚姻幸福的秘诀是不响",
+      "onboard_time": 1713364699,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 594303,
       "num": 594303,
       "word": "食物语停运补偿",
@@ -465,6 +497,22 @@
       "onboard_time": 1713345438,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 589079,
+      "num": 589079,
+      "word": "张真源不敢搭苗苗肩膀",
+      "onboard_time": 1713364460,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 586428,
+      "num": 586428,
+      "word": "食物语永不关服",
+      "onboard_time": 1713365180,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 578733,
@@ -537,6 +585,14 @@
       "onboard_time": 1713315797,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 553147,
+      "num": 553147,
+      "word": "小米联合创始人夫妇向中山大学捐赠1亿元",
+      "onboard_time": 1713363440,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 544624,
@@ -657,14 +713,6 @@
       "onboard_time": 1713354498,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 493032,
-      "num": 493032,
-      "word": "日本四国岛附近发生6.5级地震",
-      "onboard_time": 1713363919,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 491579,
@@ -819,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417684,
+      "num": 417684,
+      "word": "二本女生跨专业考研上岸双一流",
+      "onboard_time": 1713363560,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 416028,
       "num": 416028,
       "word": "歌手2024 张元英",
@@ -955,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 386956,
+      "num": 386956,
+      "word": "郑恺说苗苗哄睡孩子比他有招",
+      "onboard_time": 1713365599,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386392,
       "num": 386392,
       "word": "十个勤天卖大米",
@@ -1025,14 +1089,6 @@
       "onboard_time": 1713337519,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 360137,
-      "num": 360137,
-      "word": "小米联合创始人夫妇向中山大学捐赠1亿元",
-      "onboard_time": 1713363440,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 358567,
@@ -1355,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248069,
+      "num": 248069,
+      "word": "山西一名27岁民警牺牲",
+      "onboard_time": 1713363499,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245503,
       "num": 469969,
       "word": "樊振东晋级世界杯16强",
@@ -1491,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234410,
+      "num": 234410,
+      "word": "小伊伊怀二胎",
+      "onboard_time": 1713365780,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 233330,
       "num": 233330,
       "word": "陈梦vs阿库拉",
@@ -1521,14 +1593,6 @@
       "onboard_time": 1713360679,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 232000,
-      "num": 232000,
-      "word": "林彦俊直播",
-      "onboard_time": 1713364341,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 229973,
@@ -1611,6 +1675,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 217289,
+      "num": 217289,
+      "word": "射手座的精神洁癖",
+      "onboard_time": 1713364581,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 215255,
       "num": 540422,
       "word": "骑手筹款救母绝望时获爱心接力",
@@ -1649,6 +1721,14 @@
       "onboard_time": 1713319578,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212740,
+      "num": 212740,
+      "word": "任敏是李现的胳肢窝",
+      "onboard_time": 1713366920,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 212404,
@@ -1836,7 +1916,7 @@
     },
     {
       "raw_hot": 197810,
-      "num": 491486,
+      "num": 494628,
       "word": "孙颖莎4比0陈思羽",
       "onboard_time": 1713361579,
       "rank": 9,
@@ -1993,14 +2073,6 @@
       "onboard_time": 1713334578,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186567,
-      "num": 186567,
-      "word": "山西一名27岁民警牺牲",
-      "onboard_time": 1713363499,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186484,
@@ -2219,14 +2291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163824,
-      "num": 163824,
-      "word": "二本女生跨专业考研上岸双一流",
-      "onboard_time": 1713363560,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 161616,
       "num": 161616,
       "word": "WBG疑似参加沙特电竞杯",
@@ -2369,6 +2433,14 @@
       "onboard_time": 1713326599,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150973,
+      "num": 150973,
+      "word": "承欢记收视率",
+      "onboard_time": 1713364699,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 150134,
@@ -2523,6 +2595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143103,
+      "num": 151606,
+      "word": "商务部回应美国对华发起新的301调查",
+      "onboard_time": 1713366499,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 143027,
       "num": 143027,
       "word": "华为官宣P系列品牌升级为Pura",
@@ -2545,14 +2625,6 @@
       "onboard_time": 1713323719,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142315,
-      "num": 142315,
-      "word": "欧弟打算卖跑车养女儿",
-      "onboard_time": 1713364399,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 141277,
@@ -2659,6 +2731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131934,
+      "num": 131934,
+      "word": "陈泽KnowKnow合作",
+      "onboard_time": 1713366140,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 131364,
       "num": 131364,
       "word": "500万粉主播澄清撞脸命案逃犯",
@@ -2683,6 +2763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130555,
+      "num": 130555,
+      "word": "狗瘾犯了",
+      "onboard_time": 1713364939,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130448,
       "num": 130448,
       "word": "很羡慕能用姓氏做英文名的人",
@@ -2705,6 +2793,14 @@
       "onboard_time": 1713317238,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127223,
+      "num": 127223,
+      "word": "梁靖崑4比0卡尔森",
+      "onboard_time": 1713367220,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 124341,
