@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713371909054,
+  "endTime": 1713374132124,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -1435,6 +1435,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 707049,
+      "num": 661469,
+      "word": "seventeen",
+      "onboard_time": 1713369437,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 706983,
       "num": 706983,
       "word": "眼泪女王收视率",
@@ -1513,14 +1521,6 @@
       "onboard_time": 1713086598,
       "rank": 11,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 661469,
-      "num": 661469,
-      "word": "seventeen",
-      "onboard_time": 1713369437,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 661171,
@@ -10203,6 +10203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122194,
+      "num": 82482,
+      "word": "每天1个西红柿7天能白成一道光吗",
+      "onboard_time": 1713372016,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 122104,
       "num": 122104,
       "word": "切尔西6比0埃弗顿",
@@ -11489,6 +11497,14 @@
       "onboard_time": 1713167176,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32496,
+      "num": 150359,
+      "word": "蹭空调的正确打开方式",
+      "onboard_time": 1713373754,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 32432,

@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713371909054,
+  "endTime": 1713374132124,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -6595,6 +6595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 707049,
+      "num": 661469,
+      "word": "seventeen",
+      "onboard_time": 1713369437,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 706983,
       "num": 706983,
       "word": "眼泪女王收视率",
@@ -7265,14 +7273,6 @@
       "onboard_time": 1712494819,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 661469,
-      "num": 661469,
-      "word": "seventeen",
-      "onboard_time": 1713369437,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 661171,
@@ -42827,6 +42827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122194,
+      "num": 82482,
+      "word": "每天1个西红柿7天能白成一道光吗",
+      "onboard_time": 1713372016,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 122142,
       "num": 122142,
       "word": "学校就喜欢把钱花在刀把上",
@@ -47713,6 +47721,14 @@
       "onboard_time": 1712272575,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32496,
+      "num": 150359,
+      "word": "蹭空调的正确打开方式",
+      "onboard_time": 1713373754,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 32432,
