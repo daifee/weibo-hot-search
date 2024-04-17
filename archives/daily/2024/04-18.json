@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713393256559,
+  "endTime": 1713395967491,
   "band_list": [
     {
       "raw_hot": 777044,
@@ -35,6 +35,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 441739,
+      "num": 441739,
+      "word": "警方通报知名茶企老板一家三口遇害",
+      "onboard_time": 1713358399,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436587,
       "num": 436587,
       "word": "林彦俊直播",
@@ -65,6 +73,14 @@
       "onboard_time": 1713363560,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 383172,
+      "num": 383172,
+      "word": "情侣相伴4年一同从专科生逆袭研究生",
+      "onboard_time": 1713388271,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354125,
@@ -115,12 +131,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 314591,
+      "num": 314591,
+      "word": "台偶女主现在在拍什么",
+      "onboard_time": 1713385150,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308436,
       "num": 308436,
       "word": "日本四国岛附近发生6.5级地震",
       "onboard_time": 1713363919,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307377,
+      "num": 307377,
+      "word": "杨紫财阀千金妆",
+      "onboard_time": 1713392772,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 304482,
@@ -131,12 +163,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 283781,
+      "num": 283781,
+      "word": "婴儿独自爬出客厅猫咪警觉守护",
+      "onboard_time": 1713382450,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261214,
       "num": 261214,
       "word": "小米联合创始人夫妇向中山大学捐赠1亿元",
       "onboard_time": 1713363440,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 259166,
+      "num": 229027,
+      "word": "1岁半男童独自过马路遭校车碾压身亡",
+      "onboard_time": 1713374652,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236865,
@@ -147,20 +195,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 229132,
-      "num": 229132,
+      "raw_hot": 234176,
+      "num": 234176,
       "word": "郑恺说苗苗哄睡孩子比他有招",
       "onboard_time": 1713365599,
       "rank": 15,
       "category": "综艺"
     },
     {
-      "raw_hot": 221030,
-      "num": 221030,
-      "word": "警方通报知名茶企老板一家三口遇害",
-      "onboard_time": 1713358399,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 227766,
+      "num": 227766,
+      "word": "皇马晋级欧冠四强",
+      "onboard_time": 1713395295,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 217570,
@@ -179,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203372,
+      "num": 203372,
+      "word": "拜仁1比0阿森纳",
+      "onboard_time": 1713395654,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198137,
       "num": 198137,
       "word": "食物语停运补偿",
@@ -187,12 +243,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196484,
+      "num": 196484,
+      "word": "光刻机巨头阿斯麦业绩爆雷",
+      "onboard_time": 1713394874,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 195433,
       "num": 195433,
       "word": "百田",
       "onboard_time": 1713360259,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188575,
+      "num": 188575,
+      "word": "重庆燃气",
+      "onboard_time": 1713383770,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183904,
+      "num": 183904,
+      "word": "曼城4比5皇马",
+      "onboard_time": 1713395835,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 182760,
@@ -211,28 +291,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164239,
-      "num": 107804,
-      "word": "1岁半男童独自过马路遭校车碾压身亡",
-      "onboard_time": 1713374652,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 166845,
+      "num": 159244,
+      "word": "每天1个西红柿7天能白成一道光吗",
+      "onboard_time": 1713372016,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
-      "raw_hot": 155932,
-      "num": 155932,
-      "word": "台偶女主现在在拍什么",
-      "onboard_time": 1713385150,
-      "rank": 5,
-      "category": "剧集"
+      "raw_hot": 159953,
+      "num": 159953,
+      "word": "杨祐宁每一张实况秦岚都在说话",
+      "onboard_time": 1713361459,
+      "rank": 35,
+      "category": "综艺"
     },
     {
-      "raw_hot": 147671,
-      "num": 147671,
-      "word": "情侣相伴4年一同从专科生逆袭研究生",
-      "onboard_time": 1713388271,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 149732,
+      "num": 149732,
+      "word": "拜仁晋级欧冠4强",
+      "onboard_time": 1713395654,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 147283,
@@ -299,14 +379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 127700,
-      "num": 127700,
-      "word": "重庆燃气",
-      "onboard_time": 1713383770,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125678,
       "num": 125678,
       "word": "体外受精的过程",
@@ -323,28 +395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122194,
-      "num": 82482,
-      "word": "每天1个西红柿7天能白成一道光吗",
-      "onboard_time": 1713372016,
-      "rank": 24,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 110880,
-      "num": 110880,
-      "word": "婴儿独自爬出客厅猫咪警觉守护",
-      "onboard_time": 1713382450,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107594,
-      "num": 107594,
-      "word": "杨祐宁每一张实况秦岚都在说话",
-      "onboard_time": 1713361459,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 117598,
+      "num": 117598,
+      "word": "肖战蓝白look",
+      "onboard_time": 1713385030,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 105326,
@@ -452,27 +508,19 @@
     },
     {
       "raw_hot": 75250,
-      "num": 87401,
+      "num": 95635,
       "word": "福宝躺着吃笋满身竹笋皮",
       "onboard_time": 1713354379,
       "rank": 48,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71979,
-      "num": 71979,
-      "word": "肖战蓝白look",
-      "onboard_time": 1713385030,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 67547,
-      "num": 67547,
-      "word": "杨紫财阀千金妆",
-      "onboard_time": 1713392772,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 73244,
+      "num": 73244,
+      "word": "这9件小事正在加速身体衰老",
+      "onboard_time": 1713391031,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 66497,
@@ -481,6 +529,14 @@
       "onboard_time": 1713368298,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 64537,
+      "num": 64537,
+      "word": "姚志明哭到胡子都长出来了",
+      "onboard_time": 1713387612,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 63157,
@@ -507,36 +563,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53674,
+      "num": 55599,
+      "word": "张婧仪用手比10000",
+      "onboard_time": 1713391992,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50591,
       "num": 150359,
       "word": "蹭空调的正确打开方式",
       "onboard_time": 1713373754,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 43515,
-      "num": 43515,
-      "word": "姚志明哭到胡子都长出来了",
-      "onboard_time": 1713387612,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 40108,
-      "num": 40108,
-      "word": "这9件小事正在加速身体衰老",
-      "onboard_time": 1713391031,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 38663,
-      "num": 38663,
-      "word": "张婧仪用手比10000",
-      "onboard_time": 1713391992,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 30854,

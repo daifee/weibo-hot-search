@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/18 00:23:46 ~ 2024/04/18 06:34:16
+本榜单时间：2024/04/18 00:23:46 ~ 2024/04/18 07:19:27
 </p>
 </blockquote>
 <p>
@@ -39,6 +39,12 @@ seventeen（热度：707049）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%9F%A5%E5%90%8D%E8%8C%B6%E4%BC%81%E8%80%81%E6%9D%BF%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E9%81%87%E5%AE%B3%23" target="weibo">
+警方通报知名茶企老板一家三口遇害（热度：441739）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BD%A6%E4%BF%8A%E7%9B%B4%E6%92%AD%23" target="weibo">
 林彦俊直播（热度：436587）
 </a>
@@ -59,6 +65,12 @@ seventeen（热度：707049）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%9C%AC%E5%A5%B3%E7%94%9F%E8%B7%A8%E4%B8%93%E4%B8%9A%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E5%8F%8C%E4%B8%80%E6%B5%81%23" target="weibo">
 二本女生跨专业考研上岸双一流（热度：407107）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E7%9B%B8%E4%BC%B44%E5%B9%B4%E4%B8%80%E5%90%8C%E4%BB%8E%E4%B8%93%E7%A7%91%E7%94%9F%E9%80%86%E8%A2%AD%E7%A0%94%E7%A9%B6%E7%94%9F%23" target="weibo">
+情侣相伴4年一同从专科生逆袭研究生（热度：383172）
 </a>
 </li>
 
@@ -99,8 +111,20 @@ wtt（热度：327516）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%81%B6%E5%A5%B3%E4%B8%BB%E7%8E%B0%E5%9C%A8%E5%9C%A8%E6%8B%8D%E4%BB%80%E4%B9%88%23" target="weibo">
+台偶女主现在在拍什么（热度：314591）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9B%9B%E5%9B%BD%E5%B2%9B%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F6.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 日本四国岛附近发生6.5级地震（热度：308436）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B4%A2%E9%98%80%E5%8D%83%E9%87%91%E5%A6%86%23" target="weibo">
+杨紫财阀千金妆（热度：307377）
 </a>
 </li>
 
@@ -111,8 +135,20 @@ wtt（热度：327516）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E7%8B%AC%E8%87%AA%E7%88%AC%E5%87%BA%E5%AE%A2%E5%8E%85%E7%8C%AB%E5%92%AA%E8%AD%A6%E8%A7%89%E5%AE%88%E6%8A%A4%23" target="weibo">
+婴儿独自爬出客厅猫咪警觉守护（热度：283781）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%A4%AB%E5%A6%87%E5%90%91%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E6%8D%90%E8%B5%A01%E4%BA%BF%E5%85%83%23" target="weibo">
 小米联合创始人夫妇向中山大学捐赠1亿元（热度：261214）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%8D%8A%E7%94%B7%E7%AB%A5%E7%8B%AC%E8%87%AA%E8%BF%87%E9%A9%AC%E8%B7%AF%E9%81%AD%E6%A0%A1%E8%BD%A6%E7%A2%BE%E5%8E%8B%E8%BA%AB%E4%BA%A1%23" target="weibo">
+1岁半男童独自过马路遭校车碾压身亡（热度：259166）
 </a>
 </li>
 
@@ -124,13 +160,13 @@ wtt（热度：327516）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E8%AF%B4%E8%8B%97%E8%8B%97%E5%93%84%E7%9D%A1%E5%AD%A9%E5%AD%90%E6%AF%94%E4%BB%96%E6%9C%89%E6%8B%9B%23" target="weibo">
-郑恺说苗苗哄睡孩子比他有招（热度：229132）
+郑恺说苗苗哄睡孩子比他有招（热度：234176）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%9F%A5%E5%90%8D%E8%8C%B6%E4%BC%81%E8%80%81%E6%9D%BF%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E9%81%87%E5%AE%B3%23" target="weibo">
-警方通报知名茶企老板一家三口遇害（热度：221030）
+<a href="https://s.weibo.com/weibo?q=%23%E7%9A%87%E9%A9%AC%E6%99%8B%E7%BA%A7%E6%AC%A7%E5%86%A0%E5%9B%9B%E5%BC%BA%23" target="weibo">
+皇马晋级欧冠四强（热度：227766）
 </a>
 </li>
 
@@ -147,14 +183,38 @@ wtt（热度：327516）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E4%BB%811%E6%AF%940%E9%98%BF%E6%A3%AE%E7%BA%B3%23" target="weibo">
+拜仁1比0阿森纳（热度：203372）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A3%9F%E7%89%A9%E8%AF%AD%E5%81%9C%E8%BF%90%E8%A1%A5%E5%81%BF%23" target="weibo">
 食物语停运补偿（热度：198137）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E5%88%BB%E6%9C%BA%E5%B7%A8%E5%A4%B4%E9%98%BF%E6%96%AF%E9%BA%A6%E4%B8%9A%E7%BB%A9%E7%88%86%E9%9B%B7%23" target="weibo">
+光刻机巨头阿斯麦业绩爆雷（热度：196484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E7%94%B0%23" target="weibo">
 百田（热度：195433）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E7%87%83%E6%B0%94%23" target="weibo">
+重庆燃气（热度：188575）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BC%E5%9F%8E4%E6%AF%945%E7%9A%87%E9%A9%AC%23" target="weibo">
+曼城4比5皇马（热度：183904）
 </a>
 </li>
 
@@ -171,20 +231,20 @@ wtt（热度：327516）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%8D%8A%E7%94%B7%E7%AB%A5%E7%8B%AC%E8%87%AA%E8%BF%87%E9%A9%AC%E8%B7%AF%E9%81%AD%E6%A0%A1%E8%BD%A6%E7%A2%BE%E5%8E%8B%E8%BA%AB%E4%BA%A1%23" target="weibo">
-1岁半男童独自过马路遭校车碾压身亡（热度：164239）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A91%E4%B8%AA%E8%A5%BF%E7%BA%A2%E6%9F%BF7%E5%A4%A9%E8%83%BD%E7%99%BD%E6%88%90%E4%B8%80%E9%81%93%E5%85%89%E5%90%97%23" target="weibo">
+每天1个西红柿7天能白成一道光吗（热度：166845）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%81%B6%E5%A5%B3%E4%B8%BB%E7%8E%B0%E5%9C%A8%E5%9C%A8%E6%8B%8D%E4%BB%80%E4%B9%88%23" target="weibo">
-台偶女主现在在拍什么（热度：155932）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%A5%90%E5%AE%81%E6%AF%8F%E4%B8%80%E5%BC%A0%E5%AE%9E%E5%86%B5%E7%A7%A6%E5%B2%9A%E9%83%BD%E5%9C%A8%E8%AF%B4%E8%AF%9D%23" target="weibo">
+杨祐宁每一张实况秦岚都在说话（热度：159953）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E7%9B%B8%E4%BC%B44%E5%B9%B4%E4%B8%80%E5%90%8C%E4%BB%8E%E4%B8%93%E7%A7%91%E7%94%9F%E9%80%86%E8%A2%AD%E7%A0%94%E7%A9%B6%E7%94%9F%23" target="weibo">
-情侣相伴4年一同从专科生逆袭研究生（热度：147671）
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E4%BB%81%E6%99%8B%E7%BA%A7%E6%AC%A7%E5%86%A04%E5%BC%BA%23" target="weibo">
+拜仁晋级欧冠4强（热度：149732）
 </a>
 </li>
 
@@ -237,12 +297,6 @@ wtt（热度：327516）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E7%87%83%E6%B0%94%23" target="weibo">
-重庆燃气（热度：127700）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E5%A4%96%E5%8F%97%E7%B2%BE%E7%9A%84%E8%BF%87%E7%A8%8B%23" target="weibo">
 体外受精的过程（热度：125678）
 </a>
@@ -255,20 +309,8 @@ wtt（热度：327516）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A91%E4%B8%AA%E8%A5%BF%E7%BA%A2%E6%9F%BF7%E5%A4%A9%E8%83%BD%E7%99%BD%E6%88%90%E4%B8%80%E9%81%93%E5%85%89%E5%90%97%23" target="weibo">
-每天1个西红柿7天能白成一道光吗（热度：122194）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E7%8B%AC%E8%87%AA%E7%88%AC%E5%87%BA%E5%AE%A2%E5%8E%85%E7%8C%AB%E5%92%AA%E8%AD%A6%E8%A7%89%E5%AE%88%E6%8A%A4%23" target="weibo">
-婴儿独自爬出客厅猫咪警觉守护（热度：110880）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%A5%90%E5%AE%81%E6%AF%8F%E4%B8%80%E5%BC%A0%E5%AE%9E%E5%86%B5%E7%A7%A6%E5%B2%9A%E9%83%BD%E5%9C%A8%E8%AF%B4%E8%AF%9D%23" target="weibo">
-杨祐宁每一张实况秦岚都在说话（热度：107594）
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%93%9D%E7%99%BDlook%23" target="weibo">
+肖战蓝白look（热度：117598）
 </a>
 </li>
 
@@ -357,20 +399,20 @@ Jennie辛芷蕾撞衫（热度：96096）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%93%9D%E7%99%BDlook%23" target="weibo">
-肖战蓝白look（热度：71979）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B4%A2%E9%98%80%E5%8D%83%E9%87%91%E5%A6%86%23" target="weibo">
-杨紫财阀千金妆（热度：67547）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%999%E4%BB%B6%E5%B0%8F%E4%BA%8B%E6%AD%A3%E5%9C%A8%E5%8A%A0%E9%80%9F%E8%BA%AB%E4%BD%93%E8%A1%B0%E8%80%81%23" target="weibo">
+这9件小事正在加速身体衰老（热度：73244）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8A%A8%E4%B8%8D%E5%8A%A8%E8%80%81%E6%9D%BF%E4%B8%BB%E5%8A%A8%E4%B8%BA%E6%88%91%E9%99%8D%E4%BA%863%E5%9D%97%E9%92%B1%23" target="weibo">
 一动不动老板主动为我降了3块钱（热度：66497）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E5%BF%97%E6%98%8E%E5%93%AD%E5%88%B0%E8%83%A1%E5%AD%90%E9%83%BD%E9%95%BF%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
+姚志明哭到胡子都长出来了（热度：64537）
 </a>
 </li>
 
@@ -393,26 +435,14 @@ Jennie辛芷蕾撞衫（热度：96096）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E7%94%A8%E6%89%8B%E6%AF%9410000%23" target="weibo">
+张婧仪用手比10000（热度：53674）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B9%AD%E7%A9%BA%E8%B0%83%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%23" target="weibo">
 蹭空调的正确打开方式（热度：50591）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E5%BF%97%E6%98%8E%E5%93%AD%E5%88%B0%E8%83%A1%E5%AD%90%E9%83%BD%E9%95%BF%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
-姚志明哭到胡子都长出来了（热度：43515）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%999%E4%BB%B6%E5%B0%8F%E4%BA%8B%E6%AD%A3%E5%9C%A8%E5%8A%A0%E9%80%9F%E8%BA%AB%E4%BD%93%E8%A1%B0%E8%80%81%23" target="weibo">
-这9件小事正在加速身体衰老（热度：40108）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E7%94%A8%E6%89%8B%E6%AF%9410000%23" target="weibo">
-张婧仪用手比10000（热度：38663）
 </a>
 </li>
 
