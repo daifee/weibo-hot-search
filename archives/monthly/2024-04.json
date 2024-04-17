@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713342848158,
+  "endTime": 1713345512235,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2787,6 +2787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1120476,
+      "num": 1120476,
+      "word": "如懿传 李纯",
+      "onboard_time": 1713340158,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1119515,
       "num": 1119515,
       "word": "热辣滚烫最终票房34.6亿",
@@ -3032,6 +3040,14 @@
       "word": "台湾花莲县海域再发生6.0级地震",
       "onboard_time": 1712106388,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1070072,
+      "num": 1070072,
+      "word": "12306积分首次使用必须满1万",
+      "onboard_time": 1713341838,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -4145,14 +4161,6 @@
       "onboard_time": 1712138059,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 913516,
-      "num": 913516,
-      "word": "如懿传 李纯",
-      "onboard_time": 1713340158,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 912435,
@@ -9955,6 +9963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522281,
+      "num": 522281,
+      "word": "Jennie白丝",
+      "onboard_time": 1713339799,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 522183,
       "num": 461648,
       "word": "追风者2",
@@ -11545,14 +11561,6 @@
       "onboard_time": 1712632278,
       "rank": 23,
       "category": "游戏,互联网"
-    },
-    {
-      "raw_hot": 467924,
-      "num": 467924,
-      "word": "Jennie白丝",
-      "onboard_time": 1713339799,
-      "rank": 14,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 467551,
@@ -13867,6 +13875,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 399564,
+      "num": 270916,
+      "word": "30岁了还在应聘基础岗位",
+      "onboard_time": 1713342738,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 399421,
       "num": 393962,
       "word": "张艺兴抵达韩国",
@@ -14169,6 +14185,14 @@
       "onboard_time": 1712492899,
       "rank": 26,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 391563,
+      "num": 391563,
+      "word": "蔡徐坤 发福",
+      "onboard_time": 1713345258,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 391238,
@@ -15435,6 +15459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 360584,
+      "num": 360584,
+      "word": "阚清子新中式",
+      "onboard_time": 1713345016,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 360421,
       "num": 360421,
       "word": "babymonster直播",
@@ -16449,6 +16481,14 @@
       "onboard_time": 1712382018,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336060,
+      "num": 336060,
+      "word": "如懿传",
+      "onboard_time": 1713344057,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 335902,
@@ -19897,6 +19937,14 @@
       "onboard_time": 1713082157,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275774,
+      "num": 275774,
+      "word": "以军称将回击伊朗",
+      "onboard_time": 1713342258,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 275439,
@@ -25043,14 +25091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217766,
-      "num": 217766,
-      "word": "12306积分首次使用必须满1万",
-      "onboard_time": 1713341838,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217460,
       "num": 217460,
       "word": "花芷比明兰幸福吧",
@@ -27273,14 +27313,6 @@
       "onboard_time": 1712466560,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 203278,
-      "num": 203278,
-      "word": "以军称将回击伊朗",
-      "onboard_time": 1713342258,
-      "rank": 33,
-      "category": "国外时政"
     },
     {
       "raw_hot": 203246,
@@ -30563,6 +30595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187530,
+      "num": 187530,
+      "word": "魔卡少女樱 小樱知世",
+      "onboard_time": 1713342318,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 187509,
       "num": 187509,
       "word": "不背单词崩了",
@@ -32403,6 +32443,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 176915,
+      "num": 176915,
+      "word": "打疫苗主动撅起屁股的狗狗",
+      "onboard_time": 1713344119,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176836,
       "num": 176836,
       "word": "周淑怡cos女高中生",
@@ -34067,14 +34115,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 166699,
-      "num": 166699,
-      "word": "魔卡少女樱 小樱知世",
-      "onboard_time": 1713342318,
-      "rank": 37,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 166681,
       "num": 166681,
       "word": "向佐撩裙子差点呼宁静脸上",
@@ -34249,6 +34289,14 @@
       "onboard_time": 1713330139,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165665,
+      "num": 165665,
+      "word": "惜花芷口碑逆跌",
+      "onboard_time": 1713344838,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 165661,
@@ -34433,6 +34481,14 @@
       "onboard_time": 1713049694,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 164569,
+      "num": 164569,
+      "word": "中国港珠澳大桥总工程师苏权科",
+      "onboard_time": 1713343097,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 164528,
@@ -35224,6 +35280,14 @@
       "word": "刘忻大佬坐姿",
       "onboard_time": 1712918418,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159891,
+      "num": 159891,
+      "word": "万妮达 浪姐",
+      "onboard_time": 1713345138,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -36417,6 +36481,14 @@
       "onboard_time": 1712315659,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153751,
+      "num": 153751,
+      "word": "林彦俊 哑巴前夫有话说",
+      "onboard_time": 1713345438,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 153720,
@@ -39907,6 +39979,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 135447,
+      "num": 135447,
+      "word": "原来躺着就能改善驼背",
+      "onboard_time": 1713343457,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 135366,
       "num": 135366,
       "word": "外出后身上出现小黑点一定要警惕",
@@ -40153,6 +40233,14 @@
       "onboard_time": 1712921298,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133861,
+      "num": 133861,
+      "word": "徐明浩灯罩look",
+      "onboard_time": 1713344359,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133860,
@@ -40625,6 +40713,14 @@
       "onboard_time": 1713014179,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130947,
+      "num": 130947,
+      "word": "周杰伦长沙演唱会4月18日开票",
+      "onboard_time": 1713343039,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 130874,
@@ -41883,6 +41979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121662,
+      "num": 121662,
+      "word": "很羡慕能用姓氏做英文名的人",
+      "onboard_time": 1713344538,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121618,
       "num": 119446,
       "word": "久违了LAY",
@@ -42891,14 +42995,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 112962,
-      "num": 112962,
-      "word": "30岁了还在应聘基础岗位",
-      "onboard_time": 1713342738,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112957,
       "num": 112957,
       "word": "侵权商家向杨幂道歉",
@@ -43465,6 +43561,14 @@
       "onboard_time": 1712917937,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105621,
+      "num": 356840,
+      "word": "什么叫citywork",
+      "onboard_time": 1713339678,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 105616,
@@ -44537,14 +44641,6 @@
       "onboard_time": 1712495958,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85477,
-      "num": 356840,
-      "word": "什么叫citywork",
-      "onboard_time": 1713339678,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 85366,
@@ -46635,6 +46731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 31015,
+      "num": 851471,
+      "word": "消博会上掀起了一股国潮风",
+      "onboard_time": 1713345198,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30976,
       "num": 38018,
       "word": "琉球群岛东南5.8级地震",
@@ -47754,6 +47858,9 @@
     },
     {
       "word": "#和平解决乌克兰危机要把握四要四不要#"
+    },
+    {
+      "word": "#要为局势降温不要拱火浇油#"
     }
   ]
 }
