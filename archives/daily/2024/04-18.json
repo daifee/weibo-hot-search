@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713374132124,
+  "endTime": 1713375258174,
   "band_list": [
     {
       "raw_hot": 777044,
@@ -411,20 +411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63157,
+      "num": 63157,
+      "word": "真是眼前一亮又一亮又一亮",
+      "onboard_time": 1713364341,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 57926,
+      "num": 57926,
+      "word": "1岁半男童独自过马路遭校车碾压身亡",
+      "onboard_time": 1713374652,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56965,
       "num": 309161,
       "word": "孙颖莎4比0陈思羽",
       "onboard_time": 1713361579,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54668,
-      "num": 54668,
-      "word": "真是眼前一亮又一亮又一亮",
-      "onboard_time": 1713364341,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 54657,
@@ -435,7 +443,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32496,
+      "raw_hot": 40028,
       "num": 150359,
       "word": "蹭空调的正确打开方式",
       "onboard_time": 1713373754,
