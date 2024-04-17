@@ -1,0 +1,410 @@
+{
+  "runTime": 1713396928969,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 715582,
+        "num": 715582,
+        "word": "90岁游本昌婚姻幸福的秘诀是不响",
+        "onboard_time": 1713364699,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507348,
+        "num": 507348,
+        "word": "警方通报知名茶企老板一家三口遇害",
+        "onboard_time": 1713358399,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3157,
+        "num": 489198,
+        "word": "数字丝路发展论坛",
+        "onboard_time": 1713241458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484564,
+        "num": 484564,
+        "word": "情侣相伴4年一同从专科生逆袭研究生",
+        "onboard_time": 1713388271,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391248,
+        "num": 391248,
+        "word": "婴儿独自爬出客厅猫咪警觉守护",
+        "onboard_time": 1713382450,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381808,
+        "num": 381808,
+        "word": "中国在纽约接收美国返还38件文物",
+        "onboard_time": 1713396136,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 374012,
+        "num": 374012,
+        "word": "台偶女主现在在拍什么",
+        "onboard_time": 1713385150,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296932,
+        "num": 296932,
+        "word": "杨紫财阀千金妆",
+        "onboard_time": 1713392772,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274844,
+        "num": 274844,
+        "word": "小米联合创始人夫妇向中山大学捐赠1亿元",
+        "onboard_time": 1713363440,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 245755,
+        "num": 245755,
+        "word": "郑恺说苗苗哄睡孩子比他有招",
+        "onboard_time": 1713365599,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367071,
+        "num": 244950,
+        "word": "光刻机巨头阿斯麦业绩爆雷",
+        "onboard_time": 1713394874,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 261028,
+        "num": 239504,
+        "word": "1岁半男童独自过马路遭校车碾压身亡",
+        "onboard_time": 1713374652,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229342,
+        "num": 229342,
+        "word": "曼城4比5皇马",
+        "onboard_time": 1713395835,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210204,
+        "num": 210204,
+        "word": "曼城vs皇马",
+        "onboard_time": 1713363560,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203393,
+        "num": 203393,
+        "word": "杨祐宁每一张实况秦岚都在说话",
+        "onboard_time": 1713361459,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121051,
+        "num": 203046,
+        "word": "二本女生跨专业考研上岸双一流",
+        "onboard_time": 1713363560,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 373592,
+        "num": 202980,
+        "word": "黑龙江大学",
+        "onboard_time": 1713359420,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202837,
+        "num": 202837,
+        "word": "哈兰德",
+        "onboard_time": 1713396136,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192816,
+        "num": 192816,
+        "word": "卢宁封神",
+        "onboard_time": 1713396196,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177238,
+        "num": 177238,
+        "word": "皇马晋级欧冠四强",
+        "onboard_time": 1713395295,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239646,
+        "num": 175353,
+        "word": "飞飞一杯酒去世",
+        "onboard_time": 1713352879,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 229135,
+        "num": 175171,
+        "word": "建议胃不好的人常吃这4种水果",
+        "onboard_time": 1713359659,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192902,
+        "num": 173096,
+        "word": "苗苗 救场",
+        "onboard_time": 1713351138,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185486,
+        "num": 170480,
+        "word": "每天1个西红柿7天能白成一道光吗",
+        "onboard_time": 1713372016,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 169524,
+        "num": 169524,
+        "word": "怀孕三个月发现男友隐瞒婚史",
+        "onboard_time": 1713335119,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160433,
+        "num": 160433,
+        "word": "拜仁1比0阿森纳",
+        "onboard_time": 1713395654,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148300,
+        "num": 148300,
+        "word": "重庆燃气",
+        "onboard_time": 1713383770,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143545,
+        "num": 143545,
+        "word": "食物语永不关服",
+        "onboard_time": 1713365180,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136354,
+        "num": 136354,
+        "word": "日本四国岛附近发生6.5级地震",
+        "onboard_time": 1713363919,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128472,
+        "num": 128472,
+        "word": "拜仁晋级欧冠4强",
+        "onboard_time": 1713395654,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158072,
+        "num": 127620,
+        "word": "朱婷表现出色单场16分",
+        "onboard_time": 1713396136,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125917,
+        "num": 125917,
+        "word": "欧冠4强出炉",
+        "onboard_time": 1713396796,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116882,
+        "num": 116882,
+        "word": "肖战蓝白look",
+        "onboard_time": 1713385030,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113344,
+        "num": 113344,
+        "word": "苏有朋吴奇隆合体录综艺",
+        "onboard_time": 1713396016,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105524,
+        "num": 105524,
+        "word": "林彦俊直播",
+        "onboard_time": 1713364341,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97049,
+        "num": 97049,
+        "word": "食物语停运",
+        "onboard_time": 1713356420,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93549,
+        "num": 93549,
+        "word": "任敏是李现的胳肢窝",
+        "onboard_time": 1713366920,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91372,
+        "num": 91372,
+        "word": "食物语停运补偿",
+        "onboard_time": 1713363079,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89769,
+        "num": 89769,
+        "word": "欧冠",
+        "onboard_time": 1713364159,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86020,
+        "num": 86020,
+        "word": "这9件小事正在加速身体衰老",
+        "onboard_time": 1713391031,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84596,
+        "num": 84596,
+        "word": "减肥只吃水煮菜会怎样",
+        "onboard_time": 1713362059,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83185,
+        "num": 83185,
+        "word": "王鹤棣背部身材",
+        "onboard_time": 1713368778,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81554,
+        "num": 81554,
+        "word": "欧冠联赛",
+        "onboard_time": 1713396796,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80533,
+        "num": 80533,
+        "word": "小伊伊怀二胎",
+        "onboard_time": 1713365780,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 80082,
+        "num": 80082,
+        "word": "庆余年第二季 5月播",
+        "onboard_time": 1713352520,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73863,
+        "num": 73863,
+        "word": "十个勤天卖大米",
+        "onboard_time": 1713358699,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73093,
+        "num": 73093,
+        "word": "百田",
+        "onboard_time": 1713360259,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72192,
+        "num": 72192,
+        "word": "姚志明哭到胡子都长出来了",
+        "onboard_time": 1713387612,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68501,
+        "num": 68501,
+        "word": "斯坎迪奇3比2科内利亚诺",
+        "onboard_time": 1713396737,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68311,
+        "num": 68311,
+        "word": "体外受精的过程",
+        "onboard_time": 1713354738,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#中德领导人漫步钓鱼台#"
+    }
+  }
+}
