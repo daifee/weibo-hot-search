@@ -1,0 +1,410 @@
+{
+  "runTime": 1713332096921,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2894463,
+        "num": 2894463,
+        "word": "氯雷他定",
+        "onboard_time": 1713327258,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1274319,
+        "num": 1274319,
+        "word": "酱园弄全阵容官宣",
+        "onboard_time": 1713331398,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71584,
+        "num": 1097470,
+        "word": "3个维度读懂中国经济首季报",
+        "onboard_time": 1713327200,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 998269,
+        "num": 998269,
+        "word": "排卵期储水",
+        "onboard_time": 1713331039,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 971403,
+        "num": 971403,
+        "word": "辛辛苦苦从100斤减到110斤",
+        "onboard_time": 1713325878,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 785409,
+        "num": 785409,
+        "word": "张本智和无缘世界杯16强",
+        "onboard_time": 1713329959,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 634282,
+        "num": 634282,
+        "word": "郑恺三岁去全托幼儿园",
+        "onboard_time": 1713324800,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565294,
+        "num": 565294,
+        "word": "奈何BOSS要娶我",
+        "onboard_time": 1713323598,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 542468,
+        "num": 542468,
+        "word": "烽火流金",
+        "onboard_time": 1713330678,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203820,
+        "num": 540422,
+        "word": "骑手筹款救母绝望时获爱心接力",
+        "onboard_time": 1713328880,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1227819,
+        "num": 539975,
+        "word": "肖战一怒之下怒了一下",
+        "onboard_time": 1713328581,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 727722,
+        "num": 539685,
+        "word": "女孩退伍224天后收到部队转账",
+        "onboard_time": 1713316399,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539089,
+        "num": 539089,
+        "word": "我国不包括调休的公共假期是11天",
+        "onboard_time": 1713314719,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493720,
+        "num": 493720,
+        "word": "孟子义赶不上跑男录制",
+        "onboard_time": 1713322458,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27643,
+        "num": 488937,
+        "word": "原神动画短片烬中歌",
+        "onboard_time": 1713330020,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 488809,
+        "num": 488809,
+        "word": "抱娃开车1岁娃成了妈妈的气囊",
+        "onboard_time": 1713330020,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438035,
+        "num": 438035,
+        "word": "陶昕然发千字长文",
+        "onboard_time": 1713326718,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394794,
+        "num": 394794,
+        "word": "Jennie登VOGUE封面",
+        "onboard_time": 1713330321,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 356329,
+        "num": 356329,
+        "word": "孟子义工作室道歉",
+        "onboard_time": 1713329239,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298138,
+        "num": 346704,
+        "word": "12306回应五一抢票难度堪比春运",
+        "onboard_time": 1713324137,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1126301,
+        "num": 346573,
+        "word": "月薪5万夫妻裸辞义乌创业日入200",
+        "onboard_time": 1713323177,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512071,
+        "num": 346563,
+        "word": "每天4杯咖啡癌症复发和死亡风险降低32%",
+        "onboard_time": 1713319458,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 346316,
+        "num": 346316,
+        "word": "1399元演唱会门票退票只剩280元",
+        "onboard_time": 1713325159,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 338437,
+        "num": 338437,
+        "word": "偶像张艺兴回归",
+        "onboard_time": 1713327921,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 306855,
+        "num": 306855,
+        "word": "妈妈做的糖被室友一晚上造没了一半",
+        "onboard_time": 1713329000,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293901,
+        "num": 293901,
+        "word": "于正曾给许凯说跟杨紫合作不用演",
+        "onboard_time": 1713329419,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286216,
+        "num": 286216,
+        "word": "汤普森十投全失",
+        "onboard_time": 1713329059,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282740,
+        "num": 282740,
+        "word": "勇士无缘季后赛",
+        "onboard_time": 1713330321,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264892,
+        "num": 264892,
+        "word": "金赛纶将复出",
+        "onboard_time": 1713331517,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24703,
+        "num": 225914,
+        "word": "轮到P5X来给你洗脑了",
+        "onboard_time": 1713330199,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218257,
+        "num": 218257,
+        "word": "陈梦vs阿库拉",
+        "onboard_time": 1713330741,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201981,
+        "num": 201981,
+        "word": "LWX疑似谈恋爱",
+        "onboard_time": 1713328760,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201887,
+        "num": 201887,
+        "word": "白鹿奔跑吧重庆录制",
+        "onboard_time": 1713330919,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196505,
+        "num": 196505,
+        "word": "中医建议我把水果戒了",
+        "onboard_time": 1713314058,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194842,
+        "num": 194842,
+        "word": "勇士王朝落幕",
+        "onboard_time": 1713330876,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47340,
+        "num": 194113,
+        "word": "易烊千玺九号微电影",
+        "onboard_time": 1713329659,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192090,
+        "num": 193704,
+        "word": "候补也是秒灰",
+        "onboard_time": 1713326419,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193511,
+        "num": 193511,
+        "word": "WTT",
+        "onboard_time": 1713330919,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186997,
+        "num": 186997,
+        "word": "金州勇士",
+        "onboard_time": 1713331338,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186474,
+        "num": 186474,
+        "word": "李现这三部剧的剧本是一起看的",
+        "onboard_time": 1713328641,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168668,
+        "num": 168668,
+        "word": "奶牛猫帮怀孕的玳瑁猫求助人类",
+        "onboard_time": 1713328459,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153193,
+        "num": 153193,
+        "word": "有哪些适合反向旅游的小众城市",
+        "onboard_time": 1713331578,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 152126,
+        "num": 152126,
+        "word": "库里状态",
+        "onboard_time": 1713328581,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152019,
+        "num": 152019,
+        "word": "接G2 TheShy",
+        "onboard_time": 1713318737,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151393,
+        "num": 151393,
+        "word": "本科生县城工作平均月收入5377元",
+        "onboard_time": 1713312979,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150134,
+        "num": 150134,
+        "word": "黎深绝美日卡",
+        "onboard_time": 1713331758,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149533,
+        "num": 149533,
+        "word": "肖战羽绒服",
+        "onboard_time": 1713325578,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148330,
+        "num": 148330,
+        "word": "勇士vs国王",
+        "onboard_time": 1713323419,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148157,
+        "num": 148157,
+        "word": "新疆阿克苏拜城4.7级地震",
+        "onboard_time": 1713331758,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21476,
+        "num": 143291,
+        "word": "全国球迷为中国女篮加油",
+        "onboard_time": 1713326599,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中德建立全方位战略伙伴关系10周年#"
+    }
+  }
+}

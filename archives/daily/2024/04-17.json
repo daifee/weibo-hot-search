@@ -1,6 +1,6 @@
 {
   "startTime": 1713284571046,
-  "endTime": 1713331044707,
+  "endTime": 1713332096921,
   "band_list": [
     {
       "raw_hot": 3167017,
@@ -67,8 +67,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1274319,
+      "num": 1274319,
+      "word": "酱园弄全阵容官宣",
+      "onboard_time": 1713331398,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1270883,
-      "num": 438214,
+      "num": 539975,
       "word": "肖战一怒之下怒了一下",
       "onboard_time": 1713328581,
       "rank": 11,
@@ -105,6 +113,14 @@
       "onboard_time": 1713310696,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 998269,
+      "num": 998269,
+      "word": "排卵期储水",
+      "onboard_time": 1713331039,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 982301,
@@ -145,6 +161,14 @@
       "onboard_time": 1713320119,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785409,
+      "num": 785409,
+      "word": "张本智和无缘世界杯16强",
+      "onboard_time": 1713329959,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 783109,
@@ -251,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542468,
+      "num": 542468,
+      "word": "烽火流金",
+      "onboard_time": 1713330678,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 523027,
       "num": 523027,
       "word": "专家谈我国养老金的压力有多大",
@@ -265,14 +297,6 @@
       "onboard_time": 1713317598,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 516641,
-      "num": 516641,
-      "word": "张本智和无缘世界杯16强",
-      "onboard_time": 1713329959,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 514213,
@@ -313,6 +337,14 @@
       "onboard_time": 1713320057,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 488809,
+      "num": 488809,
+      "word": "抱娃开车1岁娃成了妈妈的气囊",
+      "onboard_time": 1713330020,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473770,
@@ -417,6 +449,14 @@
       "onboard_time": 1713330321,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 394794,
+      "num": 394794,
+      "word": "Jennie登VOGUE封面",
+      "onboard_time": 1713330321,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 394127,
@@ -547,14 +587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 303848,
-      "num": 303848,
-      "word": "抱娃开车1岁娃成了妈妈的气囊",
-      "onboard_time": 1713330020,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291601,
       "num": 291601,
       "word": "星船癫了",
@@ -619,20 +651,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264892,
+      "num": 264892,
+      "word": "金赛纶将复出",
+      "onboard_time": 1713331517,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260143,
       "num": 260143,
       "word": "锡安受伤",
       "onboard_time": 1713321019,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 259002,
-      "num": 259002,
-      "word": "Jennie登VOGUE封面",
-      "onboard_time": 1713330321,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 256818,
@@ -649,14 +681,6 @@
       "onboard_time": 1713310997,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 247743,
-      "num": 247743,
-      "word": "烽火流金",
-      "onboard_time": 1713330678,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 244968,
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 215255,
-      "num": 444628,
+      "num": 540422,
       "word": "骑手筹款救母绝望时获爱心接力",
       "onboard_time": 1713328880,
       "rank": 9,
@@ -907,6 +931,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 201887,
+      "num": 201887,
+      "word": "白鹿奔跑吧重庆录制",
+      "onboard_time": 1713330919,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201042,
       "num": 201042,
       "word": "长乐曲全阵容官宣",
@@ -931,12 +963,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 194842,
+      "num": 194842,
+      "word": "勇士王朝落幕",
+      "onboard_time": 1713330876,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194551,
       "num": 186522,
       "word": "冻卵到底给女性带来了什么",
       "onboard_time": 1713316938,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 193511,
+      "num": 193511,
+      "word": "WTT",
+      "onboard_time": 1713330919,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192090,
+      "num": 193704,
+      "word": "候补也是秒灰",
+      "onboard_time": 1713326419,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189681,
@@ -963,20 +1019,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 187552,
-      "num": 187552,
-      "word": "候补也是秒灰",
-      "onboard_time": 1713326419,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187024,
       "num": 187024,
       "word": "折叠屏iPhone新专利获批",
       "onboard_time": 1713312918,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 186997,
+      "num": 186997,
+      "word": "金州勇士",
+      "onboard_time": 1713331338,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 186484,
@@ -1067,14 +1123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173961,
-      "num": 173961,
-      "word": "勇士王朝落幕",
-      "onboard_time": 1713330876,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 171532,
       "num": 171532,
       "word": "抢票",
@@ -1115,28 +1163,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165260,
-      "num": 165260,
-      "word": "白鹿奔跑吧重庆录制",
-      "onboard_time": 1713330919,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164328,
       "num": 166318,
       "word": "奔跑吧",
       "onboard_time": 1713329659,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161050,
-      "num": 161050,
-      "word": "WTT",
-      "onboard_time": 1713330919,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 158016,
@@ -1155,6 +1187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153193,
+      "num": 153193,
+      "word": "有哪些适合反向旅游的小众城市",
+      "onboard_time": 1713331578,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 151207,
       "num": 151207,
       "word": "巴黎奥运倒计时100天",
@@ -1169,6 +1209,14 @@
       "onboard_time": 1713326599,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150134,
+      "num": 150134,
+      "word": "黎深绝美日卡",
+      "onboard_time": 1713331758,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 149294,
@@ -1193,6 +1241,14 @@
       "onboard_time": 1713265278,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 148157,
+      "num": 148157,
+      "word": "新疆阿克苏拜城4.7级地震",
+      "onboard_time": 1713331758,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147158,
@@ -1619,6 +1675,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 47340,
+      "num": 440762,
+      "word": "易烊千玺九号微电影",
+      "onboard_time": 1713329659,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 46064,
       "num": 145312,
       "word": "国字号重器再添新成员",
@@ -1691,14 +1755,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 30385,
-      "num": 440762,
-      "word": "易烊千玺九号微电影",
-      "onboard_time": 1713329659,
-      "rank": 10,
-      "category": "电影"
-    },
-    {
       "raw_hot": 29755,
       "num": 1192192,
       "word": "聚焦2024年消博会",
@@ -1715,8 +1771,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26578,
-      "num": 426098,
+      "raw_hot": 27643,
+      "num": 488937,
       "word": "原神动画短片烬中歌",
       "onboard_time": 1713330020,
       "rank": 14,

@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713331044707,
+  "endTime": 1713332096921,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2115,6 +2115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1274319,
+      "num": 1274319,
+      "word": "酱园弄全阵容官宣",
+      "onboard_time": 1713331398,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1272250,
       "num": 1272250,
       "word": "怪不得小时候发现不了唐僧换人",
@@ -2124,7 +2132,7 @@
     },
     {
       "raw_hot": 1270883,
-      "num": 438214,
+      "num": 539975,
       "word": "肖战一怒之下怒了一下",
       "onboard_time": 1713328581,
       "rank": 11,
@@ -3513,6 +3521,14 @@
       "onboard_time": 1712930899,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 998269,
+      "num": 998269,
+      "word": "排卵期储水",
+      "onboard_time": 1713331039,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 996257,
@@ -5345,6 +5361,14 @@
       "onboard_time": 1712536879,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 785409,
+      "num": 785409,
+      "word": "张本智和无缘世界杯16强",
+      "onboard_time": 1713329959,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 783649,
@@ -9299,6 +9323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 542468,
+      "num": 542468,
+      "word": "烽火流金",
+      "onboard_time": 1713330678,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 542415,
       "num": 542415,
       "word": "陈楚生儿子巡演返场嘉宾",
@@ -9953,14 +9985,6 @@
       "onboard_time": 1712282896,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 516641,
-      "num": 516641,
-      "word": "张本智和无缘世界杯16强",
-      "onboard_time": 1713329959,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 516400,
@@ -10720,6 +10744,14 @@
       "word": "婆婆请吊车将生产完的儿媳送上楼",
       "onboard_time": 1711944744,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488809,
+      "num": 488809,
+      "word": "抱娃开车1岁娃成了妈妈的气囊",
+      "onboard_time": 1713330020,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -13889,6 +13921,14 @@
       "onboard_time": 1711979241,
       "rank": 7,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 394794,
+      "num": 394794,
+      "word": "Jennie登VOGUE封面",
+      "onboard_time": 1713330321,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 394655,
@@ -17899,14 +17939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 303848,
-      "num": 303848,
-      "word": "抱娃开车1岁娃成了妈妈的气囊",
-      "onboard_time": 1713330020,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303525,
       "num": 303525,
       "word": "NIP和JDG决胜局",
@@ -20243,6 +20275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264892,
+      "num": 264892,
+      "word": "金赛纶将复出",
+      "onboard_time": 1713331517,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264587,
       "num": 264587,
       "word": "因为和父母关系不好直接改姓了",
@@ -20689,14 +20729,6 @@
       "onboard_time": 1712552722,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 259002,
-      "num": 259002,
-      "word": "Jennie登VOGUE封面",
-      "onboard_time": 1713330321,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 258950,
@@ -21768,14 +21800,6 @@
       "word": "花间令女二悲惨的一生",
       "onboard_time": 1712034380,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 247743,
-      "num": 247743,
-      "word": "烽火流金",
-      "onboard_time": 1713330678,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -24988,7 +25012,7 @@
     },
     {
       "raw_hot": 215255,
-      "num": 444628,
+      "num": 540422,
       "word": "骑手筹款救母绝望时获爱心接力",
       "onboard_time": 1713328880,
       "rank": 9,
@@ -27259,6 +27283,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 201887,
+      "num": 201887,
+      "word": "白鹿奔跑吧重庆录制",
+      "onboard_time": 1713330919,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201876,
       "num": 201876,
       "word": "小米汽车锁单量",
@@ -28587,6 +28619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194842,
+      "num": 194842,
+      "word": "勇士王朝落幕",
+      "onboard_time": 1713330876,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194835,
       "num": 194835,
       "word": "耶伦",
@@ -28800,6 +28840,14 @@
       "word": "山东泰山2比2河南队",
       "onboard_time": 1712671701,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193511,
+      "num": 193511,
+      "word": "WTT",
+      "onboard_time": 1713074779,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -29113,6 +29161,14 @@
       "onboard_time": 1713248298,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192090,
+      "num": 193704,
+      "word": "候补也是秒灰",
+      "onboard_time": 1713326419,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192055,
@@ -30107,14 +30163,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 187552,
-      "num": 187552,
-      "word": "候补也是秒灰",
-      "onboard_time": 1713326419,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187542,
       "num": 187542,
       "word": "咸蛋家",
@@ -30241,6 +30289,14 @@
       "onboard_time": 1713312918,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 186997,
+      "num": 186997,
+      "word": "金州勇士",
+      "onboard_time": 1713331338,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 186975,
@@ -32507,14 +32563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173961,
-      "num": 173961,
-      "word": "勇士王朝落幕",
-      "onboard_time": 1713330876,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173960,
       "num": 173960,
       "word": "原来这就是菠萝跟凤梨的区别",
@@ -33843,14 +33891,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 165260,
-      "num": 165260,
-      "word": "白鹿奔跑吧重庆录制",
-      "onboard_time": 1713330919,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165192,
       "num": 165192,
       "word": "做CT原来是把小猫做成罐头",
@@ -34569,14 +34609,6 @@
       "onboard_time": 1712026758,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161050,
-      "num": 161050,
-      "word": "WTT",
-      "onboard_time": 1713074779,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 161040,
@@ -36083,6 +36115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153193,
+      "num": 153193,
+      "word": "有哪些适合反向旅游的小众城市",
+      "onboard_time": 1713331578,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 153181,
       "num": 153181,
       "word": "刘忻站姐发了洪辰",
@@ -36707,6 +36747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150134,
+      "num": 150134,
+      "word": "黎深绝美日卡",
+      "onboard_time": 1713331758,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150021,
       "num": 150021,
       "word": "林高远说自己发挥偏保守",
@@ -37073,6 +37121,14 @@
       "onboard_time": 1713005117,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148157,
+      "num": 148157,
+      "word": "新疆阿克苏拜城4.7级地震",
+      "onboard_time": 1713331758,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148108,
@@ -45427,6 +45483,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 47340,
+      "num": 440762,
+      "word": "易烊千玺九号微电影",
+      "onboard_time": 1713329659,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 47175,
       "num": 172223,
       "word": "中端手机性能有多卷",
@@ -46059,14 +46123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 30385,
-      "num": 440762,
-      "word": "易烊千玺九号微电影",
-      "onboard_time": 1713329659,
-      "rank": 10,
-      "category": "电影"
-    },
-    {
       "raw_hot": 30044,
       "num": 30044,
       "word": "与凤行中式恐怖密室团综",
@@ -46171,6 +46227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 27643,
+      "num": 488937,
+      "word": "原神动画短片烬中歌",
+      "onboard_time": 1713330020,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 27541,
       "num": 311826,
       "word": "钟表与奇迹制表工艺",
@@ -46249,14 +46313,6 @@
       "onboard_time": 1713045130,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26578,
-      "num": 426098,
-      "word": "原神动画短片烬中歌",
-      "onboard_time": 1713330020,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 26575,
