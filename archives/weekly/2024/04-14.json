@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713367262309,
+  "endTime": 1713368063830,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -844,7 +844,7 @@
     },
     {
       "raw_hot": 927879,
-      "num": 657073,
+      "num": 768349,
       "word": "林彦俊直播",
       "onboard_time": 1713364341,
       "rank": 27,
@@ -1209,6 +1209,14 @@
       "onboard_time": 1713358399,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 773303,
+      "num": 773303,
+      "word": "90岁游本昌婚姻幸福的秘诀是不响",
+      "onboard_time": 1713364699,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 768368,
@@ -1721,14 +1729,6 @@
       "onboard_time": 1713337038,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 594976,
-      "num": 594976,
-      "word": "90岁游本昌婚姻幸福的秘诀是不响",
-      "onboard_time": 1713364699,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 594303,
@@ -2579,6 +2579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465289,
+      "num": 465289,
+      "word": "二本女生跨专业考研上岸双一流",
+      "onboard_time": 1713363560,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 464875,
       "num": 464875,
       "word": "花少去老挝了",
@@ -3001,14 +3009,6 @@
       "onboard_time": 1713247398,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 417684,
-      "num": 417684,
-      "word": "二本女生跨专业考研上岸双一流",
-      "onboard_time": 1713363560,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 416047,
@@ -4275,6 +4275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 305555,
+      "num": 305555,
+      "word": "山西一名27岁民警牺牲",
+      "onboard_time": 1713363499,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304763,
       "num": 608811,
       "word": "美军机过航台湾海峡并公开炒作",
@@ -5163,14 +5171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248069,
-      "num": 248069,
-      "word": "山西一名27岁民警牺牲",
-      "onboard_time": 1713363499,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247522,
       "num": 247522,
       "word": "薛之谦演唱会 一个人来的",
@@ -5683,6 +5683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228257,
+      "num": 228257,
+      "word": "任敏是李现的胳肢窝",
+      "onboard_time": 1713366920,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227834,
       "num": 227834,
       "word": "应采儿给Jasper当恋爱导师",
@@ -6120,14 +6128,6 @@
       "word": "麦承欢碎了",
       "onboard_time": 1713235158,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 212740,
-      "num": 212740,
-      "word": "任敏是李现的胳肢窝",
-      "onboard_time": 1713366920,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -7435,6 +7435,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 182388,
+      "num": 182388,
+      "word": "商务部回应美国对华发起新的301调查",
+      "onboard_time": 1713366499,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 182369,
       "num": 182369,
       "word": "梁朝伟金像奖影帝",
@@ -7833,6 +7841,14 @@
       "onboard_time": 1713171017,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172459,
+      "num": 172459,
+      "word": "梁靖崑4比0卡尔森",
+      "onboard_time": 1713367220,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 172451,
@@ -9275,14 +9291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143103,
-      "num": 151606,
-      "word": "商务部回应美国对华发起新的301调查",
-      "onboard_time": 1713366499,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 143046,
       "num": 143046,
       "word": "KPL注册草台班子商标",
@@ -9497,6 +9505,14 @@
       "onboard_time": 1713328160,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138507,
+      "num": 138507,
+      "word": "超好喝苹果汁配方",
+      "onboard_time": 1713367519,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 138051,
@@ -9971,14 +9987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 127223,
-      "num": 127223,
-      "word": "梁靖崑4比0卡尔森",
-      "onboard_time": 1713367220,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126831,
       "num": 126831,
       "word": "无限暖暖",
@@ -10401,6 +10409,14 @@
       "onboard_time": 1713160518,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115281,
+      "num": 115281,
+      "word": "刘亦菲LV上海到达",
+      "onboard_time": 1713367879,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 114927,
