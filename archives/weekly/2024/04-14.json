@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713323937575,
+  "endTime": 1713324967224,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -225,6 +225,14 @@
       "onboard_time": 1713252079,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1426273,
+      "num": 1426273,
+      "word": "月薪5万夫妻裸辞义乌创业日入200",
+      "onboard_time": 1713323177,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1412251,
@@ -555,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 982301,
+      "num": 982301,
+      "word": "孟子义赶不上跑男录制",
+      "onboard_time": 1713322458,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 978450,
       "num": 978450,
       "word": "吴磊半裸骑行",
@@ -700,7 +716,7 @@
     },
     {
       "raw_hot": 899357,
-      "num": 278505,
+      "num": 284792,
       "word": "每天4杯咖啡癌症复发和死亡风险降低32%",
       "onboard_time": 1713319458,
       "rank": 20,
@@ -867,6 +883,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 805286,
+      "num": 805286,
+      "word": "奈何BOSS要娶我",
+      "onboard_time": 1713323598,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 801326,
+      "num": 801326,
+      "word": "五一购票难度堪比春运",
+      "onboard_time": 1713320119,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801284,
       "num": 378309,
       "word": "幼态审美入侵纸片人",
@@ -993,14 +1025,6 @@
       "onboard_time": 1713223577,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 756672,
-      "num": 756672,
-      "word": "孟子义赶不上跑男录制",
-      "onboard_time": 1713322458,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 754715,
@@ -1161,14 +1185,6 @@
       "onboard_time": 1713102978,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 691889,
-      "num": 691889,
-      "word": "五一购票难度堪比春运",
-      "onboard_time": 1713320119,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 690992,
@@ -2355,14 +2371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 428261,
-      "num": 428261,
-      "word": "月薪5万夫妻裸辞义乌创业日入200",
-      "onboard_time": 1713323177,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 427633,
       "num": 377151,
       "word": "IVE预告照",
@@ -2521,6 +2529,14 @@
       "onboard_time": 1713050474,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 404541,
+      "num": 404541,
+      "word": "12306回应五一抢票难度堪比春运",
+      "onboard_time": 1713324137,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403172,
@@ -2763,6 +2779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376872,
+      "num": 284729,
+      "word": "00后大学生买劣质防晒服",
+      "onboard_time": 1713322278,
+      "rank": 21,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 376753,
       "num": 285694,
       "word": "教你在微信上凭空消失",
@@ -2875,6 +2899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 367182,
+      "num": 367182,
+      "word": "电影三叉戟定档",
+      "onboard_time": 1713322698,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 366843,
       "num": 366843,
       "word": "光遇复刻",
@@ -2945,14 +2977,6 @@
       "onboard_time": 1713078499,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 361320,
-      "num": 275133,
-      "word": "00后大学生买劣质防晒服",
-      "onboard_time": 1713322278,
-      "rank": 21,
-      "category": "时尚"
     },
     {
       "raw_hot": 361000,
@@ -3707,14 +3731,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 283314,
-      "num": 283314,
-      "word": "电影三叉戟定档",
-      "onboard_time": 1713322698,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 283282,
       "num": 283282,
       "word": "猫一杯事件后有MCN加强内容安全培训",
@@ -3835,6 +3851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 273132,
+      "num": 273132,
+      "word": "张颂文我故意这样的",
+      "onboard_time": 1713322399,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272824,
       "num": 246653,
       "word": "刘亦菲 LV大秀",
@@ -3865,14 +3889,6 @@
       "onboard_time": 1713076337,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 269473,
-      "num": 269473,
-      "word": "张颂文我故意这样的",
-      "onboard_time": 1713322399,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 268844,
@@ -4443,6 +4459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235050,
+      "num": 235050,
+      "word": "林彦俊见面会取消",
+      "onboard_time": 1713323778,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234655,
       "num": 234655,
       "word": "暴雪前总裁希望玩家给小费",
@@ -4561,6 +4585,14 @@
       "onboard_time": 1713144137,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229973,
+      "num": 229973,
+      "word": "五月天深圳",
+      "onboard_time": 1713324558,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 229715,
@@ -4888,14 +4920,6 @@
       "word": "反复爱上金秀贤",
       "onboard_time": 1713319037,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 214348,
-      "num": 214348,
-      "word": "奈何BOSS要娶我",
-      "onboard_time": 1713323598,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -5835,6 +5859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187742,
+      "num": 187742,
+      "word": "G2 我上网就是为了等你",
+      "onboard_time": 1713324438,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187608,
       "num": 187608,
       "word": "让你一瞬间想分手的小事",
@@ -5929,6 +5961,14 @@
       "onboard_time": 1713062298,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183911,
+      "num": 183911,
+      "word": "王艺迪2比2单晓娜",
+      "onboard_time": 1713324558,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 183893,
@@ -6089,6 +6129,22 @@
       "onboard_time": 1713253699,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 180164,
+      "num": 180164,
+      "word": "什么是上班20分钟定律",
+      "onboard_time": 1713324258,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 179728,
+      "num": 179728,
+      "word": "苏打绿全员cos徐冬冬",
+      "onboard_time": 1713322937,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 178933,
@@ -6459,14 +6515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169492,
-      "num": 169492,
-      "word": "苏打绿全员cos徐冬冬",
-      "onboard_time": 1713322937,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 169270,
       "num": 169270,
       "word": "阿森纳0比2阿斯顿维拉",
@@ -6793,6 +6841,14 @@
       "onboard_time": 1713104060,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160378,
+      "num": 160378,
+      "word": "郑恺三岁去全托幼儿园",
+      "onboard_time": 1713324800,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 160050,
@@ -7491,6 +7547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144153,
+      "num": 144153,
+      "word": "眼泪女王台词",
+      "onboard_time": 1713324498,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144049,
       "num": 144049,
       "word": "勇士vs国王",
@@ -7579,6 +7643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142421,
+      "num": 142421,
+      "word": "明明在广州却像出国了",
+      "onboard_time": 1713323719,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142278,
       "num": 142278,
       "word": "麦承欢终于哭出声了",
@@ -7601,6 +7673,14 @@
       "onboard_time": 1713009318,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141277,
+      "num": 141277,
+      "word": "代旭哭戏",
+      "onboard_time": 1713324737,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 141189,
@@ -7947,14 +8027,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130821,
-      "num": 130821,
-      "word": "明明在广州却像出国了",
-      "onboard_time": 1713323719,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 130714,
       "num": 130714,
       "word": "NCT127送李泰容入伍",
@@ -7969,14 +8041,6 @@
       "onboard_time": 1713165858,
       "rank": 37,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 130283,
-      "num": 130283,
-      "word": "林彦俊见面会取消",
-      "onboard_time": 1713323778,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 129757,
@@ -8329,6 +8393,14 @@
       "onboard_time": 1713321617,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119639,
+      "num": 119639,
+      "word": "同事房租2800还找我借钱",
+      "onboard_time": 1713324919,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 119607,
