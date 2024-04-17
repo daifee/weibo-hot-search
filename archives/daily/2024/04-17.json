@@ -1,6 +1,6 @@
 {
   "startTime": 1713284571046,
-  "endTime": 1713363439049,
+  "endTime": 1713364446994,
   "band_list": [
     {
       "raw_hot": 3167017,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1558143,
-      "num": 465910,
+      "num": 488621,
       "word": "黑龙江大学",
       "onboard_time": 1713359420,
       "rank": 17,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 723864,
+      "num": 344086,
+      "word": "建议胃不好的人常吃这4种水果",
+      "onboard_time": 1713359659,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 691935,
       "num": 691935,
       "word": "抱娃开车1岁娃成了妈妈的气囊",
@@ -395,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 647922,
-      "num": 266624,
-      "word": "建议胃不好的人常吃这4种水果",
-      "onboard_time": 1713359659,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 646621,
       "num": 285503,
       "word": "中医建议我把水果戒了",
@@ -443,6 +443,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 594303,
+      "num": 594303,
+      "word": "食物语停运补偿",
+      "onboard_time": 1713363079,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 593730,
       "num": 471487,
       "word": "女生带病出操去世的三大争议",
@@ -459,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 578865,
-      "num": 360434,
-      "word": "食物语停运补偿",
-      "onboard_time": 1713363079,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 578733,
       "num": 578733,
       "word": "我娱乐圈唯一的人脉要失联了",
@@ -480,6 +480,14 @@
       "word": "杨紫高定黑礼裙",
       "onboard_time": 1713359958,
       "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 572639,
+      "num": 572639,
+      "word": "徐志胜的眼睛没有孟子义的卧蚕大",
+      "onboard_time": 1713362298,
+      "rank": 15,
       "category": "作品衍生"
     },
     {
@@ -649,6 +657,14 @@
       "onboard_time": 1713354498,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 493032,
+      "num": 493032,
+      "word": "日本四国岛附近发生6.5级地震",
+      "onboard_time": 1713363919,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491579,
@@ -835,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409663,
+      "num": 341800,
+      "word": "两个人住800平的家是什么体验",
+      "onboard_time": 1713363919,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 404996,
       "num": 404996,
       "word": "复旦研究生珠峰地区登山死亡",
@@ -1003,12 +1027,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 360137,
+      "num": 360137,
+      "word": "小米联合创始人夫妇向中山大学捐赠1亿元",
+      "onboard_time": 1713363440,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 358567,
       "num": 358567,
       "word": "墨子圣斗士皮肤",
       "onboard_time": 1713321737,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 356960,
+      "num": 356960,
+      "word": "减肥只吃水煮菜会怎样",
+      "onboard_time": 1713362059,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 355500,
@@ -1035,12 +1075,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 351287,
-      "num": 351287,
-      "word": "徐志胜的眼睛没有孟子义的卧蚕大",
-      "onboard_time": 1713362298,
-      "rank": 15,
-      "category": "作品衍生"
+      "raw_hot": 344835,
+      "num": 344835,
+      "word": "杨祐宁每一张实况秦岚都在说话",
+      "onboard_time": 1713361459,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 337622,
@@ -1121,14 +1161,6 @@
       "onboard_time": 1713334758,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 321779,
-      "num": 321779,
-      "word": "减肥只吃水煮菜会怎样",
-      "onboard_time": 1713362059,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 321671,
@@ -1307,14 +1339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 253533,
-      "num": 253533,
-      "word": "杨祐宁每一张实况秦岚都在说话",
-      "onboard_time": 1713361459,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 249572,
       "num": 249572,
       "word": "只有师范生知道他讲的有多好",
@@ -1435,6 +1459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 238210,
+      "num": 238210,
+      "word": "一个家庭的上等风水",
+      "onboard_time": 1713363140,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237036,
       "num": 237036,
       "word": "苏打绿全员cos徐冬冬",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1713360679,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232000,
+      "num": 232000,
+      "word": "林彦俊直播",
+      "onboard_time": 1713364341,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 229973,
@@ -1555,20 +1595,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 220666,
-      "num": 193767,
-      "word": "一个家庭的上等风水",
-      "onboard_time": 1713363140,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 219016,
       "num": 219016,
       "word": "迪拜天空一秒变绿",
       "onboard_time": 1713346938,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 218203,
+      "num": 218203,
+      "word": "早晚餐吃得晚疾病风险大增",
+      "onboard_time": 1713363440,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 215255,
@@ -1796,7 +1836,7 @@
     },
     {
       "raw_hot": 197810,
-      "num": 384951,
+      "num": 491486,
       "word": "孙颖莎4比0陈思羽",
       "onboard_time": 1713361579,
       "rank": 9,
@@ -1931,6 +1971,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 187022,
+      "num": 224366,
+      "word": "拜仁vs阿森纳",
+      "onboard_time": 1713363919,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186997,
       "num": 186997,
       "word": "金州勇士",
@@ -1945,6 +1993,14 @@
       "onboard_time": 1713334578,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186567,
+      "num": 186567,
+      "word": "山西一名27岁民警牺牲",
+      "onboard_time": 1713363499,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186484,
@@ -2027,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179036,
+      "num": 179036,
+      "word": "真是眼前一亮又一亮又一亮",
+      "onboard_time": 1713364341,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177587,
       "num": 166644,
       "word": "李沐宸说杨紫人美心善",
@@ -2083,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173341,
+      "num": 173341,
+      "word": "杨幂关雪妆造",
+      "onboard_time": 1713363379,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171532,
       "num": 171532,
       "word": "抢票",
@@ -2097,6 +2169,14 @@
       "onboard_time": 1713343457,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 169175,
+      "num": 169175,
+      "word": "曼城vs皇马",
+      "onboard_time": 1713363560,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 168112,
@@ -2137,6 +2217,14 @@
       "onboard_time": 1713329659,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163824,
+      "num": 163824,
+      "word": "二本女生跨专业考研上岸双一流",
+      "onboard_time": 1713363560,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 161616,
@@ -2259,6 +2347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151878,
+      "num": 151878,
+      "word": "西藏发生4.0级地震",
+      "onboard_time": 1713358518,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151207,
       "num": 151207,
       "word": "巴黎奥运倒计时100天",
@@ -2281,6 +2377,14 @@
       "onboard_time": 1713331758,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149336,
+      "num": 149336,
+      "word": "麦承欢眼里没有光了",
+      "onboard_time": 1713362839,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 149294,
@@ -2443,6 +2547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142315,
+      "num": 142315,
+      "word": "欧弟打算卖跑车养女儿",
+      "onboard_time": 1713364399,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141277,
       "num": 141277,
       "word": "代旭哭戏",
@@ -2465,14 +2577,6 @@
       "onboard_time": 1713348858,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 140336,
-      "num": 140336,
-      "word": "西藏发生4.0级地震",
-      "onboard_time": 1713358518,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140015,
@@ -2603,14 +2707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124850,
-      "num": 124850,
-      "word": "麦承欢眼里没有光了",
-      "onboard_time": 1713362839,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124341,
       "num": 124341,
       "word": "魈 美梦",
@@ -2713,14 +2809,6 @@
       "onboard_time": 1713321258,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117992,
-      "num": 117992,
-      "word": "杨幂关雪妆造",
-      "onboard_time": 1713363379,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 114927,

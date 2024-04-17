@@ -1,0 +1,410 @@
+{
+  "runTime": 1713364446994,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1198399,
+        "num": 1198399,
+        "word": "食物语停运",
+        "onboard_time": 1713356420,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 902947,
+        "num": 902947,
+        "word": "氯雷他定",
+        "onboard_time": 1713327258,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 5341,
+        "num": 758711,
+        "word": "数字丝路发展论坛",
+        "onboard_time": 1713241458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651915,
+        "num": 651915,
+        "word": "警方通报知名茶企老板一家三口遇害",
+        "onboard_time": 1713358399,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594303,
+        "num": 594303,
+        "word": "食物语停运补偿",
+        "onboard_time": 1713363079,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 587453,
+        "num": 587453,
+        "word": "百田",
+        "onboard_time": 1713360259,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 572639,
+        "num": 572639,
+        "word": "徐志胜的眼睛没有孟子义的卧蚕大",
+        "onboard_time": 1713362298,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 519720,
+        "num": 519720,
+        "word": "杨紫高定黑礼裙",
+        "onboard_time": 1713359958,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 493032,
+        "num": 493032,
+        "word": "日本四国岛附近发生6.5级地震",
+        "onboard_time": 1713363919,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160986,
+        "num": 491486,
+        "word": "孙颖莎4比0陈思羽",
+        "onboard_time": 1713361579,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1363816,
+        "num": 488621,
+        "word": "黑龙江大学",
+        "onboard_time": 1713359420,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1546899,
+        "num": 485426,
+        "word": "飞飞一杯酒去世",
+        "onboard_time": 1713352879,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 741755,
+        "num": 481643,
+        "word": "苗苗 救场",
+        "onboard_time": 1713351138,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481422,
+        "num": 481422,
+        "word": "庆余年第二季 5月播",
+        "onboard_time": 1713352520,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379596,
+        "num": 379596,
+        "word": "朱丹因怀二胎才送女儿去幼儿园",
+        "onboard_time": 1713351918,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360624,
+        "num": 360624,
+        "word": "十个勤天卖大米",
+        "onboard_time": 1713358699,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360137,
+        "num": 360137,
+        "word": "小米联合创始人夫妇向中山大学捐赠1亿元",
+        "onboard_time": 1713363440,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 356960,
+        "num": 356960,
+        "word": "减肥只吃水煮菜会怎样",
+        "onboard_time": 1713362059,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 351614,
+        "num": 351614,
+        "word": "福宝躺着吃笋满身竹笋皮",
+        "onboard_time": 1713354379,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344835,
+        "num": 344835,
+        "word": "杨祐宁每一张实况秦岚都在说话",
+        "onboard_time": 1713361459,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 723864,
+        "num": 344086,
+        "word": "建议胃不好的人常吃这4种水果",
+        "onboard_time": 1713359659,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 409663,
+        "num": 341800,
+        "word": "两个人住800平的家是什么体验",
+        "onboard_time": 1713363919,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334852,
+        "num": 334852,
+        "word": "林彦俊 哑巴前夫有话说",
+        "onboard_time": 1713345438,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253201,
+        "num": 253201,
+        "word": "杨紫工作室出图",
+        "onboard_time": 1713360139,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246912,
+        "num": 246912,
+        "word": "怀孕三个月发现男友隐瞒婚史",
+        "onboard_time": 1713335119,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242770,
+        "num": 242770,
+        "word": "只有师范生知道他讲的有多好",
+        "onboard_time": 1713360259,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238210,
+        "num": 238210,
+        "word": "一个家庭的上等风水",
+        "onboard_time": 1713363140,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232000,
+        "num": 232000,
+        "word": "林彦俊直播",
+        "onboard_time": 1713364341,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204477,
+        "num": 226211,
+        "word": "小林制药导致住院增至235人",
+        "onboard_time": 1713355759,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187022,
+        "num": 224366,
+        "word": "拜仁vs阿森纳",
+        "onboard_time": 1713363919,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223374,
+        "num": 223374,
+        "word": "Jennie辛芷蕾撞衫",
+        "onboard_time": 1713354498,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 218203,
+        "num": 218203,
+        "word": "早晚餐吃得晚疾病风险大增",
+        "onboard_time": 1713363440,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206904,
+        "num": 206904,
+        "word": "周迅 B站",
+        "onboard_time": 1713337157,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194821,
+        "num": 194821,
+        "word": "台剧 40岁女性",
+        "onboard_time": 1713356298,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186567,
+        "num": 186567,
+        "word": "山西一名27岁民警牺牲",
+        "onboard_time": 1713363499,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183773,
+        "num": 183773,
+        "word": "接个私活像出轨一样",
+        "onboard_time": 1713351619,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 179036,
+        "num": 179036,
+        "word": "真是眼前一亮又一亮又一亮",
+        "onboard_time": 1713364341,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174393,
+        "num": 174393,
+        "word": "歌手 营销",
+        "onboard_time": 1713355459,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173341,
+        "num": 173341,
+        "word": "杨幂关雪妆造",
+        "onboard_time": 1713363379,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170593,
+        "num": 170593,
+        "word": "体外受精的过程",
+        "onboard_time": 1713354738,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169175,
+        "num": 169175,
+        "word": "曼城vs皇马",
+        "onboard_time": 1713363560,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163824,
+        "num": 163824,
+        "word": "二本女生跨专业考研上岸双一流",
+        "onboard_time": 1713363560,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161857,
+        "num": 161857,
+        "word": "十个勤天 禾你见面",
+        "onboard_time": 1713352879,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159262,
+        "num": 159262,
+        "word": "惜花芷站内热度破万",
+        "onboard_time": 1713360679,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154041,
+        "num": 154041,
+        "word": "36岁女子存300万后提前退休",
+        "onboard_time": 1713340459,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151878,
+        "num": 151878,
+        "word": "西藏发生4.0级地震",
+        "onboard_time": 1713358518,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149336,
+        "num": 149336,
+        "word": "麦承欢眼里没有光了",
+        "onboard_time": 1713362839,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146131,
+        "num": 146131,
+        "word": "欧冠",
+        "onboard_time": 1713364159,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142315,
+        "num": 142315,
+        "word": "欧弟打算卖跑车养女儿",
+        "onboard_time": 1713364399,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136081,
+        "num": 136081,
+        "word": "睡前喝牛奶真能助眠吗",
+        "onboard_time": 1713357921,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#中德两国应相向而行互利共赢#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713363439049,
+  "endTime": 1713364446994,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1558143,
-      "num": 465910,
+      "num": 488621,
       "word": "黑龙江大学",
       "onboard_time": 1713359420,
       "rank": 17,
@@ -1347,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 723864,
+      "num": 344086,
+      "word": "建议胃不好的人常吃这4种水果",
+      "onboard_time": 1713359659,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 719583,
       "num": 719583,
       "word": "38块钱居然能吃20个菜",
@@ -1513,14 +1521,6 @@
       "onboard_time": 1713164117,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 647922,
-      "num": 266624,
-      "word": "建议胃不好的人常吃这4种水果",
-      "onboard_time": 1713359659,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 646621,
@@ -1699,6 +1699,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 594303,
+      "num": 594303,
+      "word": "食物语停运补偿",
+      "onboard_time": 1713363079,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 593730,
       "num": 471487,
       "word": "女生带病出操去世的三大争议",
@@ -1771,14 +1779,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 578865,
-      "num": 360434,
-      "word": "食物语停运补偿",
-      "onboard_time": 1713363079,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 576424,
       "num": 275388,
       "word": "长期喝咖啡身体会变成什么样",
@@ -1801,6 +1801,14 @@
       "onboard_time": 1713056478,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 572639,
+      "num": 572639,
+      "word": "徐志胜的眼睛没有孟子义的卧蚕大",
+      "onboard_time": 1713362298,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 570247,
@@ -2329,6 +2337,14 @@
       "onboard_time": 1713080237,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 493032,
+      "num": 493032,
+      "word": "日本四国岛附近发生6.5级地震",
+      "onboard_time": 1713363919,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491579,
@@ -3003,6 +3019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409663,
+      "num": 341800,
+      "word": "两个人住800平的家是什么体验",
+      "onboard_time": 1713363919,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 407491,
       "num": 273869,
       "word": "牛骏峰回应陪杨紫演",
@@ -3627,6 +3651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360137,
+      "num": 360137,
+      "word": "小米联合创始人夫妇向中山大学捐赠1亿元",
+      "onboard_time": 1713363440,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 358567,
       "num": 358567,
       "word": "墨子圣斗士皮肤",
@@ -3659,6 +3691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 356960,
+      "num": 356960,
+      "word": "减肥只吃水煮菜会怎样",
+      "onboard_time": 1713362059,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 355500,
       "num": 260794,
       "word": "体外受精的过程",
@@ -3689,14 +3729,6 @@
       "onboard_time": 1713169878,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 351287,
-      "num": 351287,
-      "word": "徐志胜的眼睛没有孟子义的卧蚕大",
-      "onboard_time": 1713362298,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 351160,
@@ -3745,6 +3777,14 @@
       "onboard_time": 1713260420,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 344835,
+      "num": 344835,
+      "word": "杨祐宁每一张实况秦岚都在说话",
+      "onboard_time": 1713361459,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 344419,
@@ -3961,14 +4001,6 @@
       "onboard_time": 1713102919,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 321779,
-      "num": 321779,
-      "word": "减肥只吃水煮菜会怎样",
-      "onboard_time": 1713362059,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 321671,
@@ -4947,14 +4979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 253533,
-      "num": 253533,
-      "word": "杨祐宁每一张实况秦岚都在说话",
-      "onboard_time": 1713361459,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 252982,
       "num": 252982,
       "word": "热辣滚烫纪录片全集免费",
@@ -5323,6 +5347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 238210,
+      "num": 238210,
+      "word": "一个家庭的上等风水",
+      "onboard_time": 1713363140,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238186,
       "num": 238186,
       "word": "大学生为境外拍军事设施获刑5年",
@@ -5505,6 +5537,14 @@
       "onboard_time": 1713080359,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 232000,
+      "num": 232000,
+      "word": "林彦俊直播",
+      "onboard_time": 1713364341,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 231800,
@@ -5771,14 +5811,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 220666,
-      "num": 193767,
-      "word": "一个家庭的上等风水",
-      "onboard_time": 1713363140,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 220410,
       "num": 220410,
       "word": "同仁堂仁丹汞含量超标5万倍",
@@ -5833,6 +5865,14 @@
       "onboard_time": 1713238159,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218203,
+      "num": 218203,
+      "word": "早晚餐吃得晚疾病风险大增",
+      "onboard_time": 1713363440,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 217928,
@@ -6668,7 +6708,7 @@
     },
     {
       "raw_hot": 197810,
-      "num": 384951,
+      "num": 491486,
       "word": "孙颖莎4比0陈思羽",
       "onboard_time": 1713361579,
       "rank": 9,
@@ -7123,6 +7163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 187022,
+      "num": 224366,
+      "word": "拜仁vs阿森纳",
+      "onboard_time": 1713363919,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186997,
       "num": 186997,
       "word": "金州勇士",
@@ -7137,6 +7185,14 @@
       "onboard_time": 1713334578,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186567,
+      "num": 186567,
+      "word": "山西一名27岁民警牺牲",
+      "onboard_time": 1713363499,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186501,
@@ -7411,6 +7467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179036,
+      "num": 179036,
+      "word": "真是眼前一亮又一亮又一亮",
+      "onboard_time": 1713364341,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178933,
       "num": 178933,
       "word": "林更新真不把观众当外人",
@@ -7683,6 +7747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173341,
+      "num": 173341,
+      "word": "杨幂关雪妆造",
+      "onboard_time": 1713363379,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172945,
       "num": 172945,
       "word": "贺军翔 无代餐",
@@ -7824,6 +7896,14 @@
       "word": "阿森纳0比2阿斯顿维拉",
       "onboard_time": 1713137476,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 169175,
+      "num": 169175,
+      "word": "曼城vs皇马",
+      "onboard_time": 1713363560,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -8057,6 +8137,14 @@
       "onboard_time": 1713059239,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 163824,
+      "num": 163824,
+      "word": "二本女生跨专业考研上岸双一流",
+      "onboard_time": 1713363560,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 163706,
@@ -8603,6 +8691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151878,
+      "num": 151878,
+      "word": "西藏发生4.0级地震",
+      "onboard_time": 1713358518,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151656,
       "num": 151656,
       "word": "Mai住院",
@@ -8729,6 +8825,14 @@
       "onboard_time": 1713194420,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 149336,
+      "num": 149336,
+      "word": "麦承欢眼里没有光了",
+      "onboard_time": 1713362839,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 149294,
@@ -9171,6 +9275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142315,
+      "num": 142315,
+      "word": "欧弟打算卖跑车养女儿",
+      "onboard_time": 1713364399,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142278,
       "num": 142278,
       "word": "麦承欢终于哭出声了",
@@ -9249,14 +9361,6 @@
       "onboard_time": 1713152658,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140336,
-      "num": 140336,
-      "word": "西藏发生4.0级地震",
-      "onboard_time": 1713358518,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140015,
@@ -9859,14 +9963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124850,
-      "num": 124850,
-      "word": "麦承欢眼里没有光了",
-      "onboard_time": 1713362839,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124800,
       "num": 124800,
       "word": "李现笑哭了三次",
@@ -10169,14 +10265,6 @@
       "onboard_time": 1713021499,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117992,
-      "num": 117992,
-      "word": "杨幂关雪妆造",
-      "onboard_time": 1713363379,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 117945,
