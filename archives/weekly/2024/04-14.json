@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713360864980,
+  "endTime": 1713363439049,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -275,12 +275,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1558143,
+      "num": 465910,
+      "word": "黑龙江大学",
+      "onboard_time": 1713359420,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1536061,
       "num": 1536061,
       "word": "排卵期储水",
       "onboard_time": 1713331039,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1458352,
+      "num": 808069,
+      "word": "妻子遭家暴后用开水浇丈夫",
+      "onboard_time": 1713360498,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1427507,
@@ -385,6 +401,14 @@
       "onboard_time": 1713331398,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1272081,
+      "num": 1272081,
+      "word": "食物语停运",
+      "onboard_time": 1713356420,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 1270883,
@@ -595,14 +619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1043520,
-      "num": 1043520,
-      "word": "食物语停运",
-      "onboard_time": 1713356420,
-      "rank": 3,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1042909,
       "num": 412871,
       "word": "第一批丁克夫妻现状曝光",
@@ -641,14 +657,6 @@
       "onboard_time": 1713277220,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1021365,
-      "num": 465910,
-      "word": "黑龙江大学",
-      "onboard_time": 1713359420,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 1011447,
@@ -1171,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 773482,
+      "num": 773482,
+      "word": "警方通报知名茶企老板一家三口遇害",
+      "onboard_time": 1713358399,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 768368,
       "num": 768368,
       "word": "伊朗对美国发出警告",
@@ -1328,14 +1344,6 @@
       "word": "小林制药导致住院增至235人",
       "onboard_time": 1713355759,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 724557,
-      "num": 724557,
-      "word": "警方通报知名茶企老板一家三口遇害",
-      "onboard_time": 1713358399,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1505,6 +1513,14 @@
       "onboard_time": 1713164117,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 647922,
+      "num": 266624,
+      "word": "建议胃不好的人常吃这4种水果",
+      "onboard_time": 1713359659,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 646621,
@@ -1755,12 +1771,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 578865,
+      "num": 360434,
+      "word": "食物语停运补偿",
+      "onboard_time": 1713363079,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 576424,
       "num": 275388,
       "word": "长期喝咖啡身体会变成什么样",
       "onboard_time": 1713250758,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 575003,
+      "num": 575003,
+      "word": "杨紫高定黑礼裙",
+      "onboard_time": 1713359958,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 574076,
@@ -2379,14 +2411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 477757,
-      "num": 249441,
-      "word": "建议胃不好的人常吃这4种水果",
-      "onboard_time": 1713359659,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 476216,
       "num": 476216,
       "word": "刚出道了15天的爱豆",
@@ -2713,14 +2737,6 @@
       "onboard_time": 1713186859,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 439261,
-      "num": 439261,
-      "word": "杨紫高定黑礼裙",
-      "onboard_time": 1713359958,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 438857,
@@ -3235,6 +3251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386392,
+      "num": 386392,
+      "word": "十个勤天卖大米",
+      "onboard_time": 1713358699,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386134,
       "num": 386134,
       "word": "林更新吴奇隆刘诗诗合影旧照",
@@ -3635,14 +3659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 355990,
-      "num": 355990,
-      "word": "十个勤天卖大米",
-      "onboard_time": 1713358699,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 355500,
       "num": 260794,
       "word": "体外受精的过程",
@@ -3673,6 +3689,14 @@
       "onboard_time": 1713169878,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 351287,
+      "num": 351287,
+      "word": "徐志胜的眼睛没有孟子义的卧蚕大",
+      "onboard_time": 1713362298,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 351160,
@@ -3937,6 +3961,14 @@
       "onboard_time": 1713102919,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321779,
+      "num": 321779,
+      "word": "减肥只吃水煮菜会怎样",
+      "onboard_time": 1713362059,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 321671,
@@ -4217,6 +4249,14 @@
       "onboard_time": 1713138377,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 300254,
+      "num": 300254,
+      "word": "杨紫工作室出图",
+      "onboard_time": 1713360139,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 300146,
@@ -4907,6 +4947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 253533,
+      "num": 253533,
+      "word": "杨祐宁每一张实况秦岚都在说话",
+      "onboard_time": 1713361459,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252982,
       "num": 252982,
       "word": "热辣滚烫纪录片全集免费",
@@ -4969,6 +5017,14 @@
       "onboard_time": 1713252978,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249572,
+      "num": 249572,
+      "word": "只有师范生知道他讲的有多好",
+      "onboard_time": 1713360259,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 249458,
@@ -5129,14 +5185,6 @@
       "onboard_time": 1713065897,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 242752,
-      "num": 232048,
-      "word": "杨紫工作室出图",
-      "onboard_time": 1713360139,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 242629,
@@ -5721,6 +5769,14 @@
       "onboard_time": 1713155780,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 220666,
+      "num": 193767,
+      "word": "一个家庭的上等风水",
+      "onboard_time": 1713363140,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 220410,
@@ -6611,6 +6667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 197810,
+      "num": 384951,
+      "word": "孙颖莎4比0陈思羽",
+      "onboard_time": 1713361579,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197357,
       "num": 197357,
       "word": "纪凌尘看宁静的眼神",
@@ -7161,14 +7225,6 @@
       "onboard_time": 1713329840,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 183936,
-      "num": 183936,
-      "word": "只有师范生知道他讲的有多好",
-      "onboard_time": 1713360259,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 183911,
@@ -9019,6 +9075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143766,
+      "num": 143766,
+      "word": "男女老少一起来羞辱我",
+      "onboard_time": 1713363140,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143351,
       "num": 143351,
       "word": "骑警掏枪出来时震惊到我了",
@@ -9321,14 +9385,6 @@
       "onboard_time": 1713179358,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 136935,
-      "num": 136935,
-      "word": "妻子遭家暴后用开水浇丈夫",
-      "onboard_time": 1713360498,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136817,
@@ -9803,6 +9859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124850,
+      "num": 124850,
+      "word": "麦承欢眼里没有光了",
+      "onboard_time": 1713362839,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124800,
       "num": 124800,
       "word": "李现笑哭了三次",
@@ -10105,6 +10169,14 @@
       "onboard_time": 1713021499,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117992,
+      "num": 117992,
+      "word": "杨幂关雪妆造",
+      "onboard_time": 1713363379,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 117945,
