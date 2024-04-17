@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713338309085,
+  "endTime": 1713339271499,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1481,6 +1481,14 @@
       "onboard_time": 1712292377,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1500175,
+      "num": 1500175,
+      "word": "周迅 B站",
+      "onboard_time": 1713337157,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1499003,
@@ -4267,14 +4275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 898693,
-      "num": 898693,
-      "word": "周迅 B站",
-      "onboard_time": 1713337157,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 897265,
       "num": 897265,
       "word": "终于在高铁上发疯了",
@@ -5851,6 +5851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 751185,
+      "num": 341173,
+      "word": "怀孕三个月发现男友隐瞒婚史",
+      "onboard_time": 1713335119,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 750205,
       "num": 750205,
       "word": "男生工作2年考上211研究生后退学进山",
@@ -5905,14 +5913,6 @@
       "onboard_time": 1712749999,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 745831,
-      "num": 310848,
-      "word": "怀孕三个月发现男友隐瞒婚史",
-      "onboard_time": 1713335119,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 745823,
@@ -10411,6 +10411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 504509,
+      "num": 504509,
+      "word": "买小米SU7被极越辞退员工发声",
+      "onboard_time": 1713337038,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 504305,
       "num": 322806,
       "word": "医生建议不要饿着肚子睡觉",
@@ -12627,6 +12635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 435031,
+      "num": 435031,
+      "word": "东部战区回应美军机过航台湾海峡",
+      "onboard_time": 1713338539,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 434937,
       "num": 434937,
       "word": "西安交大一附院多名医生涉学术不端被通报",
@@ -13203,6 +13219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 420238,
+      "num": 420238,
+      "word": "谢娜赵丽颖首次合作",
+      "onboard_time": 1713338178,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 420204,
       "num": 1140581,
       "word": "小学生走失被带去派出所后搞起吃播",
@@ -13505,6 +13529,14 @@
       "onboard_time": 1712323099,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 410054,
+      "num": 410054,
+      "word": "唐艺昕和张若昀一起看海贼王",
+      "onboard_time": 1713336439,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 409159,
@@ -15251,6 +15283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362889,
+      "num": 340737,
+      "word": "TFBOYS宣传酱园弄",
+      "onboard_time": 1713337519,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 362884,
       "num": 255761,
       "word": "同事去韩国出差第一天的伙食",
@@ -16003,14 +16043,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 345188,
-      "num": 345188,
-      "word": "买小米SU7被极越辞退员工发声",
-      "onboard_time": 1713337038,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 345140,
       "num": 345140,
       "word": "许嵩唱了断桥残雪",
@@ -16465,6 +16497,14 @@
       "onboard_time": 1712283498,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333592,
+      "num": 333592,
+      "word": "周淑怡 说唱圈",
+      "onboard_time": 1713337398,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 333571,
@@ -17081,14 +17121,6 @@
       "onboard_time": 1712969898,
       "rank": 31,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 320864,
-      "num": 320864,
-      "word": "唐艺昕和张若昀一起看海贼王",
-      "onboard_time": 1713336439,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 320846,
@@ -18251,6 +18283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 300146,
+      "num": 300146,
+      "word": "王楚钦说庆幸自己活过来了",
+      "onboard_time": 1713337757,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300055,
       "num": 300055,
       "word": "癌症来临时身体3个部位会喊痛",
@@ -18577,14 +18617,6 @@
       "onboard_time": 1712302398,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294788,
-      "num": 200388,
-      "word": "TFBOYS宣传酱园弄",
-      "onboard_time": 1713337519,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 294164,
@@ -20755,6 +20787,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 260208,
+      "num": 260208,
+      "word": "湖南一小学生在校发病送医后身亡",
+      "onboard_time": 1713336797,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260199,
       "num": 1291217,
       "word": "最美人间四月天",
@@ -21939,14 +21979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247821,
-      "num": 247821,
-      "word": "湖南一小学生在校发病送医后身亡",
-      "onboard_time": 1713336797,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247649,
       "num": 247649,
       "word": "金秀贤金智媛CP感",
@@ -22241,14 +22273,6 @@
       "onboard_time": 1713244339,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 244109,
-      "num": 244109,
-      "word": "周淑怡 说唱圈",
-      "onboard_time": 1713337398,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 244080,
@@ -22739,6 +22763,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 239553,
+      "num": 239553,
+      "word": "多名网红上薛之谦演唱会互动露脸",
+      "onboard_time": 1713338299,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 239498,
       "num": 413974,
       "word": "炸串奶奶摊前排起长队",
@@ -22841,6 +22873,14 @@
       "onboard_time": 1711949002,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 238631,
+      "num": 238631,
+      "word": "我记得你一开始很向往工作的",
+      "onboard_time": 1713337458,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 238564,
@@ -23169,6 +23209,14 @@
       "onboard_time": 1712918358,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 234760,
+      "num": 234760,
+      "word": "脱下孔乙己长衫穿上偷感马甲",
+      "onboard_time": 1713338479,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 234655,
@@ -25011,14 +25059,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 217018,
-      "num": 217018,
-      "word": "我记得你一开始很向往工作的",
-      "onboard_time": 1713337458,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 216889,
       "num": 216889,
       "word": "网飞三体 豆瓣",
@@ -25105,14 +25145,6 @@
       "onboard_time": 1713020540,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215965,
-      "num": 215965,
-      "word": "王楚钦说庆幸自己活过来了",
-      "onboard_time": 1713337757,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 215804,
@@ -27049,6 +27081,14 @@
       "onboard_time": 1712643920,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203825,
+      "num": 203825,
+      "word": "麦承欢治了8个癫公癫婆",
+      "onboard_time": 1713338600,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 203773,
@@ -34899,6 +34939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160829,
+      "num": 160829,
+      "word": "生孩子太晚会遗憾吗",
+      "onboard_time": 1713338119,
+      "rank": 47,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 160820,
       "num": 160820,
       "word": "赵丽颖水中捞林更新花絮",
@@ -35217,6 +35265,14 @@
       "onboard_time": 1712664138,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159286,
+      "num": 159286,
+      "word": "给意大利带来一点国风震撼",
+      "onboard_time": 1713338959,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 159218,
@@ -36443,14 +36499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152991,
-      "num": 152991,
-      "word": "谢娜赵丽颖首次合作",
-      "onboard_time": 1713338178,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 152986,
       "num": 152986,
       "word": "Viper无缘MSI",
@@ -36489,6 +36537,14 @@
       "onboard_time": 1712420236,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152831,
+      "num": 152831,
+      "word": "逆水寒肯德基联动",
+      "onboard_time": 1713339137,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 152766,
@@ -39731,14 +39787,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 135303,
-      "num": 135303,
-      "word": "生孩子太晚会遗憾吗",
-      "onboard_time": 1713338119,
-      "rank": 47,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 135288,
       "num": 135288,
       "word": "2024中国电影大数据荣誉之夜",
@@ -40289,6 +40337,14 @@
       "onboard_time": 1712542279,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 131924,
+      "num": 131924,
+      "word": "当好朋友在朋友圈发我",
+      "onboard_time": 1713339197,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 131853,
