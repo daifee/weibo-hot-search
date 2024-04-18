@@ -1,0 +1,410 @@
+{
+  "runTime": 1713425656902,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 991203,
+        "num": 991203,
+        "word": "于正想跟庆余年2撞档期",
+        "onboard_time": 1713422658,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 852135,
+        "num": 852135,
+        "word": "32岁交了个11岁的朋友",
+        "onboard_time": 1713415879,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 4416,
+        "num": 672137,
+        "word": "数字丝路发展论坛",
+        "onboard_time": 1713241458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1120316,
+        "num": 664941,
+        "word": "81岁大爷花25元嫖娼被抓",
+        "onboard_time": 1713420978,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630625,
+        "num": 630625,
+        "word": "参观周杰伦演唱会场馆后花近两万买邀请函",
+        "onboard_time": 1713418039,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 606279,
+        "num": 606279,
+        "word": "小警犬考试没及格委屈到不行",
+        "onboard_time": 1713420679,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 603811,
+        "num": 603811,
+        "word": "林彦俊 卖书",
+        "onboard_time": 1713424158,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590749,
+        "num": 590749,
+        "word": "王一博汤唯 许我向你看",
+        "onboard_time": 1713422479,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 578403,
+        "num": 578403,
+        "word": "女子因带娃问题跟公公口角被扇9巴掌",
+        "onboard_time": 1713417678,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211547,
+        "num": 531099,
+        "word": "男子捐赠3份清朝科举试卷",
+        "onboard_time": 1713402198,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664619,
+        "num": 524204,
+        "word": "反对调休的声音不能装作听不到",
+        "onboard_time": 1713405739,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505255,
+        "num": 505255,
+        "word": "舒畅怎么又瘦了",
+        "onboard_time": 1713420797,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444534,
+        "num": 444534,
+        "word": "林俊杰唱了为蔡依林写的歌",
+        "onboard_time": 1713424218,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 497252,
+        "num": 421320,
+        "word": "迪丽热巴特意退回来和粉丝打招呼",
+        "onboard_time": 1713418218,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376276,
+        "num": 376276,
+        "word": "李耕耘健身成果",
+        "onboard_time": 1713424158,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323646,
+        "num": 323646,
+        "word": "哈尔滨一九四四定档",
+        "onboard_time": 1713422779,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255971,
+        "num": 255971,
+        "word": "郑燕姿删除官宣视频",
+        "onboard_time": 1713418039,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 250980,
+        "num": 250980,
+        "word": "华为Pura70系列开售",
+        "onboard_time": 1713406579,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 228018,
+        "num": 228018,
+        "word": "咒术回战 虎杖宿傩双胞胎",
+        "onboard_time": 1713413719,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 191931,
+        "num": 227582,
+        "word": "成都暴雨",
+        "onboard_time": 1713418759,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663410,
+        "num": 226358,
+        "word": "韩亿 出轨",
+        "onboard_time": 1713404777,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 450369,
+        "num": 223731,
+        "word": "芒果TV称众多用户不在意5秒开屏广告",
+        "onboard_time": 1713421899,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 415557,
+        "num": 223637,
+        "word": "三年没聊过天的大学同学突然表白",
+        "onboard_time": 1713423799,
+        "rank": 22,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 246251,
+        "num": 221471,
+        "word": "厉旭发言",
+        "onboard_time": 1713425180,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233918,
+        "num": 220379,
+        "word": "补水第一名的水果",
+        "onboard_time": 1713407417,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 239357,
+        "num": 219029,
+        "word": "周也油画里的少女",
+        "onboard_time": 1713424278,
+        "rank": 25,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 233830,
+        "num": 216687,
+        "word": "心情不好建议多去户外",
+        "onboard_time": 1713422718,
+        "rank": 26,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 216344,
+        "num": 216344,
+        "word": "拜登称其舅舅在二战中被食人族吃掉",
+        "onboard_time": 1713414138,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 142749,
+        "num": 211662,
+        "word": "为啥现在叫谁都叫老师",
+        "onboard_time": 1713403338,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137555,
+        "num": 210080,
+        "word": "澳门世界杯",
+        "onboard_time": 1713423439,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209748,
+        "num": 209748,
+        "word": "种地吧 抢大米",
+        "onboard_time": 1713413299,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187264,
+        "num": 187264,
+        "word": "居然有人兴趣和挣钱刚好是同一件事",
+        "onboard_time": 1713420379,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180962,
+        "num": 180962,
+        "word": "华为门店销售称被临时叫来同样很懵",
+        "onboard_time": 1713423198,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 174270,
+        "num": 174270,
+        "word": "张凌赫担心被拉去种田",
+        "onboard_time": 1713421398,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167289,
+        "num": 167289,
+        "word": "哈尔滨一九四四",
+        "onboard_time": 1713424338,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161745,
+        "num": 161745,
+        "word": "宋雨琦跑男路透",
+        "onboard_time": 1713423259,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157870,
+        "num": 157870,
+        "word": "周杰伦长沙",
+        "onboard_time": 1713410897,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147410,
+        "num": 147410,
+        "word": "大侦探每个人心中都有一个江湖",
+        "onboard_time": 1713425238,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135358,
+        "num": 147306,
+        "word": "王婆谈江西高彩礼",
+        "onboard_time": 1713420619,
+        "rank": 38,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 122285,
+        "num": 147286,
+        "word": "北大遥不可及的高度具象化",
+        "onboard_time": 1713425357,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147283,
+        "num": 147283,
+        "word": "迪丽热巴15岁新疆歌舞团合影",
+        "onboard_time": 1713422418,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143599,
+        "num": 143599,
+        "word": "下周要上六天班",
+        "onboard_time": 1713422897,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139331,
+        "num": 139331,
+        "word": "神仙水为何卖不动了",
+        "onboard_time": 1713416059,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 138777,
+        "num": 138777,
+        "word": "郑燕姿 韩亿",
+        "onboard_time": 1713404056,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 121858,
+        "num": 136459,
+        "word": "梁靖崑世界杯出局",
+        "onboard_time": 1713421998,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134646,
+        "num": 134646,
+        "word": "卿卿日常范帅琦昌隆二搭",
+        "onboard_time": 1713421818,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130782,
+        "num": 130782,
+        "word": "回流票",
+        "onboard_time": 1713423618,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127807,
+        "num": 127807,
+        "word": "低配版三国",
+        "onboard_time": 1713425357,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126057,
+        "num": 126057,
+        "word": "韩国为福宝拍摄电影",
+        "onboard_time": 1713415641,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112567,
+        "num": 120536,
+        "word": "陈梦vs素塔西尼",
+        "onboard_time": 1713423077,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国交通发展日新月异#"
+    }
+  }
+}

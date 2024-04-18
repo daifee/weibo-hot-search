@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713424643479,
+  "endTime": 1713425656902,
   "band_list": [
     {
       "raw_hot": 3132046,
@@ -139,6 +139,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 991203,
+      "num": 991203,
+      "word": "于正想跟庆余年2撞档期",
+      "onboard_time": 1713422658,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 968253,
       "num": 968253,
       "word": "拜登称其舅舅在二战中被食人族吃掉",
@@ -161,14 +169,6 @@
       "onboard_time": 1713404056,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 860327,
-      "num": 860327,
-      "word": "于正想跟庆余年2撞档期",
-      "onboard_time": 1713422658,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 840418,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 774448,
-      "num": 424127,
+      "num": 505255,
       "word": "舒畅怎么又瘦了",
       "onboard_time": 1713420797,
       "rank": 18,
@@ -337,6 +337,22 @@
       "onboard_time": 1713422479,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 606279,
+      "num": 606279,
+      "word": "小警犬考试没及格委屈到不行",
+      "onboard_time": 1713420679,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 603811,
+      "num": 603811,
+      "word": "林彦俊 卖书",
+      "onboard_time": 1713424158,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 574342,
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 476902,
-      "num": 220315,
+      "num": 223731,
       "word": "芒果TV称众多用户不在意5秒开屏广告",
       "onboard_time": 1713421899,
       "rank": 35,
@@ -489,6 +505,14 @@
       "onboard_time": 1713356420,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 444534,
+      "num": 444534,
+      "word": "林俊杰唱了为蔡依林写的歌",
+      "onboard_time": 1713424218,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 436587,
@@ -521,6 +545,14 @@
       "onboard_time": 1713359420,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 415557,
+      "num": 223637,
+      "word": "三年没聊过天的大学同学突然表白",
+      "onboard_time": 1713423799,
+      "rank": 22,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 410990,
@@ -595,20 +627,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376276,
+      "num": 376276,
+      "word": "李耕耘健身成果",
+      "onboard_time": 1713424158,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374012,
       "num": 374012,
       "word": "台偶女主现在在拍什么",
       "onboard_time": 1713385150,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 369280,
-      "num": 369280,
-      "word": "林俊杰唱了为蔡依林写的歌",
-      "onboard_time": 1713424218,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 367071,
@@ -731,14 +763,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 312476,
-      "num": 216795,
-      "word": "三年没聊过天的大学同学突然表白",
-      "onboard_time": 1713423799,
-      "rank": 22,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 308436,
       "num": 308436,
       "word": "日本四国岛附近发生6.5级地震",
@@ -761,14 +785,6 @@
       "onboard_time": 1713411678,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 296377,
-      "num": 296377,
-      "word": "小警犬考试没及格委屈到不行",
-      "onboard_time": 1713420679,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 294880,
@@ -800,14 +816,6 @@
       "word": "迪丽热巴学姐妆",
       "onboard_time": 1713416839,
       "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 278195,
-      "num": 278195,
-      "word": "李耕耘健身成果",
-      "onboard_time": 1713424158,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -867,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256398,
-      "num": 256398,
-      "word": "林彦俊 卖书",
-      "onboard_time": 1713424158,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 255148,
       "num": 255148,
       "word": "食物语",
@@ -899,8 +899,16 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 246251,
+      "num": 221471,
+      "word": "厉旭发言",
+      "onboard_time": 1713425180,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245668,
-      "num": 205349,
+      "num": 216687,
       "word": "心情不好建议多去户外",
       "onboard_time": 1713422718,
       "rank": 26,
@@ -913,6 +921,14 @@
       "onboard_time": 1713410000,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239357,
+      "num": 219029,
+      "word": "周也油画里的少女",
+      "onboard_time": 1713424278,
+      "rank": 32,
+      "category": "电影,时尚"
     },
     {
       "raw_hot": 239147,
@@ -1076,7 +1092,7 @@
     },
     {
       "raw_hot": 202582,
-      "num": 202582,
+      "num": 210080,
       "word": "澳门世界杯",
       "onboard_time": 1713423439,
       "rank": 27,
@@ -1169,14 +1185,6 @@
       "onboard_time": 1713414620,
       "rank": 38,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 194593,
-      "num": 194593,
-      "word": "周也油画里的少女",
-      "onboard_time": 1713424278,
-      "rank": 32,
-      "category": "电影,时尚"
     },
     {
       "raw_hot": 194406,
@@ -1475,12 +1483,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 147410,
+      "num": 147410,
+      "word": "大侦探每个人心中都有一个江湖",
+      "onboard_time": 1713425238,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147283,
       "num": 147283,
       "word": "小伊伊怀二胎",
       "onboard_time": 1713365780,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 147283,
+      "num": 147283,
+      "word": "迪丽热巴15岁新疆歌舞团合影",
+      "onboard_time": 1713422418,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 146144,
@@ -1611,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127807,
+      "num": 127807,
+      "word": "低配版三国",
+      "onboard_time": 1713425357,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125917,
       "num": 125917,
       "word": "欧冠4强出炉",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1713364159,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122285,
+      "num": 147286,
+      "word": "北大遥不可及的高度具象化",
+      "onboard_time": 1713425357,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 121687,
