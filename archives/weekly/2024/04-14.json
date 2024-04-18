@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713449830697,
+  "endTime": 1713450853178,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -329,6 +329,14 @@
       "onboard_time": 1713359420,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1550310,
+      "num": 1550310,
+      "word": "小龙虾身价暴跌",
+      "onboard_time": 1713445217,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 1536061,
@@ -1171,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 897609,
+      "num": 897609,
+      "word": "张颖颖将起诉张兰",
+      "onboard_time": 1713447137,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 891059,
       "num": 891059,
       "word": "专家建议增加下半年法定节假日",
@@ -1209,14 +1225,6 @@
       "onboard_time": 1713277458,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 880426,
-      "num": 880426,
-      "word": "小龙虾身价暴跌",
-      "onboard_time": 1713445217,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 865071,
@@ -1297,14 +1305,6 @@
       "onboard_time": 1713097577,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 832842,
-      "num": 832842,
-      "word": "张颖颖将起诉张兰",
-      "onboard_time": 1713447137,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 831661,
@@ -1715,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 746981,
+      "num": 746981,
+      "word": "王楚钦vs雨果",
+      "onboard_time": 1713446899,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 744914,
       "num": 744914,
       "word": "年轻真好14秒睡了5觉",
@@ -1817,14 +1825,6 @@
       "onboard_time": 1713235637,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 718691,
-      "num": 718691,
-      "word": "王楚钦vs雨果",
-      "onboard_time": 1713446899,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 716636,
@@ -2275,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 600801,
+      "num": 600801,
+      "word": "林志玲 内娱美届纯元皇后",
+      "onboard_time": 1713448038,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 600514,
       "num": 600514,
       "word": "科切拉",
@@ -2515,6 +2523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 563438,
+      "num": 563438,
+      "word": "晨起3个表现是肝在求救",
+      "onboard_time": 1713437719,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 562938,
       "num": 562938,
       "word": "王亚飞给迪丽热巴化的原生妆",
@@ -2537,14 +2553,6 @@
       "onboard_time": 1713192979,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 558934,
-      "num": 558934,
-      "word": "晨起3个表现是肝在求救",
-      "onboard_time": 1713437719,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 558849,
@@ -2889,14 +2897,6 @@
       "onboard_time": 1713110117,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 516459,
-      "num": 516459,
-      "word": "林志玲 内娱美届纯元皇后",
-      "onboard_time": 1713448038,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 516140,
@@ -4307,6 +4307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385756,
+      "num": 385756,
+      "word": "龙年纪念币",
+      "onboard_time": 1713449958,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 385323,
       "num": 385323,
       "word": "开票即候补别太离谱",
@@ -5051,6 +5059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 329350,
+      "num": 329350,
+      "word": "朱一龙 最年轻评委",
+      "onboard_time": 1713448879,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 327516,
       "num": 363251,
       "word": "wtt",
@@ -5403,6 +5419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304914,
+      "num": 229331,
+      "word": "你接受周末夫妻吗",
+      "onboard_time": 1713447799,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304763,
       "num": 608811,
       "word": "美军机过航台湾海峡并公开炒作",
@@ -5665,14 +5689,6 @@
       "onboard_time": 1713193099,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 288953,
-      "num": 229331,
-      "word": "你接受周末夫妻吗",
-      "onboard_time": 1713447799,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 288919,
@@ -7155,14 +7171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 226780,
-      "num": 226780,
-      "word": "朱一龙 最年轻评委",
-      "onboard_time": 1713448879,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 226519,
       "num": 187404,
       "word": "哥伦比亚首都限淋浴时间不得超5分钟",
@@ -7979,6 +7987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 205520,
+      "num": 199923,
+      "word": "茶颜悦色 长沙有自己的大冰",
+      "onboard_time": 1713450319,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 205251,
       "num": 205251,
       "word": "鹿晗新专辑相框定价",
@@ -8185,6 +8201,14 @@
       "onboard_time": 1713159018,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 201737,
+      "num": 201737,
+      "word": "雷军称坦克700气势不输百万级SUV",
+      "onboard_time": 1713449359,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 201661,
@@ -8601,6 +8625,14 @@
       "onboard_time": 1713414620,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 194608,
+      "num": 194608,
+      "word": "辽宁男篮1比0深圳男篮",
+      "onboard_time": 1713450079,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 194570,
@@ -9259,6 +9291,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 183317,
+      "num": 183317,
+      "word": "周鸿祎早上卖车何小鹏晚上送车",
+      "onboard_time": 1713449537,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 182951,
       "num": 182951,
       "word": "当韩国人第一次看中医时",
@@ -9379,6 +9419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181081,
+      "num": 322204,
+      "word": "理想L6售价24.98万起",
+      "onboard_time": 1713448939,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 181074,
       "num": 181074,
       "word": "刘雨昕把苗音带到科切拉",
@@ -9467,6 +9515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178584,
+      "num": 178584,
+      "word": "早田希娜世界杯晋级8强",
+      "onboard_time": 1713449720,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178247,
       "num": 178247,
       "word": "夏之光美高制服",
@@ -9497,14 +9553,6 @@
       "onboard_time": 1713184038,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177594,
-      "num": 297824,
-      "word": "理想L6售价24.98万起",
-      "onboard_time": 1713448939,
-      "rank": 15,
-      "category": "汽车"
     },
     {
       "raw_hot": 177587,
@@ -10283,14 +10331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 162347,
-      "num": 162347,
-      "word": "雷军称坦克700气势不输百万级SUV",
-      "onboard_time": 1713449359,
-      "rank": 37,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 162206,
       "num": 162206,
       "word": "皮肤科医生教你正确防春敏",
@@ -10409,14 +10449,6 @@
       "onboard_time": 1713173597,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 159936,
-      "num": 159936,
-      "word": "周鸿祎早上卖车何小鹏晚上送车",
-      "onboard_time": 1713449537,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 159831,
@@ -12001,14 +12033,6 @@
       "onboard_time": 1713236417,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 135382,
-      "num": 135382,
-      "word": "早田希娜世界杯晋级8强",
-      "onboard_time": 1713449720,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 135334,
@@ -14139,6 +14163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42265,
+      "num": 222854,
+      "word": "今天明星是来上海团建了么",
+      "onboard_time": 1713446598,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 41753,
       "num": 412644,
       "word": "全国球迷为中国女篮加油",
@@ -14164,7 +14196,7 @@
     },
     {
       "raw_hot": 40302,
-      "num": 776751,
+      "num": 808859,
       "word": "全力巩固和增强经济回升向好态势",
       "onboard_time": 1713446237,
       "rank": 2,
@@ -14177,14 +14209,6 @@
       "onboard_time": 1713032712,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 38071,
-      "num": 222854,
-      "word": "今天明星是来上海团建了么",
-      "onboard_time": 1713446598,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 37512,

@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713449830697,
+  "endTime": 1713450853178,
   "band_list": [
     {
       "raw_hot": 3132046,
@@ -49,6 +49,14 @@
       "onboard_time": 1713434719,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1550310,
+      "num": 1550310,
+      "word": "小龙虾身价暴跌",
+      "onboard_time": 1713445217,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 1482791,
@@ -267,20 +275,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 897609,
+      "num": 897609,
+      "word": "张颖颖将起诉张兰",
+      "onboard_time": 1713447137,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 890409,
       "num": 890409,
       "word": "樊振东vs林诗栋",
       "onboard_time": 1713439638,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 880426,
-      "num": 880426,
-      "word": "小龙虾身价暴跌",
-      "onboard_time": 1713445217,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 841934,
@@ -297,14 +305,6 @@
       "onboard_time": 1713400098,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 832842,
-      "num": 832842,
-      "word": "张颖颖将起诉张兰",
-      "onboard_time": 1713447137,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 821030,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 746981,
+      "num": 746981,
+      "word": "王楚钦vs雨果",
+      "onboard_time": 1713446899,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 732908,
       "num": 732908,
       "word": "雷军宣布直播送SU7车模",
@@ -425,14 +433,6 @@
       "onboard_time": 1713408077,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 718691,
-      "num": 718691,
-      "word": "王楚钦vs雨果",
-      "onboard_time": 1713446899,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 716636,
@@ -571,6 +571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 600801,
+      "num": 600801,
+      "word": "林志玲 内娱美届纯元皇后",
+      "onboard_time": 1713448038,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 595359,
       "num": 595359,
       "word": "Amber断眉",
@@ -635,20 +643,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 563438,
+      "num": 563438,
+      "word": "晨起3个表现是肝在求救",
+      "onboard_time": 1713437719,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 560596,
       "num": 560596,
       "word": "广州长隆回应暴雨前园内动物狂奔",
       "onboard_time": 1713438379,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 558934,
-      "num": 558934,
-      "word": "晨起3个表现是肝在求救",
-      "onboard_time": 1713437719,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 555558,
@@ -697,14 +705,6 @@
       "onboard_time": 1713426617,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 516459,
-      "num": 516459,
-      "word": "林志玲 内娱美届纯元皇后",
-      "onboard_time": 1713448038,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 516117,
@@ -1027,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385756,
+      "num": 385756,
+      "word": "龙年纪念币",
+      "onboard_time": 1713449958,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 379001,
       "num": 379001,
       "word": "梁靖崑vs安东",
@@ -1179,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 329350,
+      "num": 329350,
+      "word": "朱一龙 最年轻评委",
+      "onboard_time": 1713448879,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 327770,
       "num": 327770,
       "word": "食物语永不关服",
@@ -1243,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304914,
+      "num": 229331,
+      "word": "你接受周末夫妻吗",
+      "onboard_time": 1713447799,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304482,
       "num": 304482,
       "word": "氯雷他定",
@@ -1281,14 +1305,6 @@
       "onboard_time": 1713430459,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 288953,
-      "num": 229331,
-      "word": "你接受周末夫妻吗",
-      "onboard_time": 1713447799,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 285743,
@@ -1595,14 +1611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226780,
-      "num": 226780,
-      "word": "朱一龙 最年轻评委",
-      "onboard_time": 1713448879,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 226519,
       "num": 187404,
       "word": "哥伦比亚首都限淋浴时间不得超5分钟",
@@ -1707,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205520,
+      "num": 199923,
+      "word": "茶颜悦色 长沙有自己的大冰",
+      "onboard_time": 1713450319,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 203896,
       "num": 203896,
       "word": "Pura70开卖华为门店大排长龙",
@@ -1777,6 +1793,14 @@
       "onboard_time": 1713409518,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201737,
+      "num": 201737,
+      "word": "雷军称坦克700气势不输百万级SUV",
+      "onboard_time": 1713449359,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 201660,
@@ -1889,6 +1913,14 @@
       "onboard_time": 1713414620,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 194608,
+      "num": 194608,
+      "word": "辽宁男篮1比0深圳男篮",
+      "onboard_time": 1713450079,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 194406,
@@ -2067,12 +2099,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183317,
+      "num": 183317,
+      "word": "周鸿祎早上卖车何小鹏晚上送车",
+      "onboard_time": 1713449537,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 181710,
       "num": 181710,
       "word": "Zdz回应离开WBG",
       "onboard_time": 1713429019,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181081,
+      "num": 322204,
+      "word": "理想L6售价24.98万起",
+      "onboard_time": 1713448939,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 179917,
@@ -2091,12 +2139,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 177594,
-      "num": 297824,
-      "word": "理想L6售价24.98万起",
-      "onboard_time": 1713448939,
-      "rank": 15,
-      "category": "汽车"
+      "raw_hot": 178584,
+      "num": 178584,
+      "word": "早田希娜世界杯晋级8强",
+      "onboard_time": 1713449720,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 176554,
@@ -2259,14 +2307,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 162347,
-      "num": 162347,
-      "word": "雷军称坦克700气势不输百万级SUV",
-      "onboard_time": 1713449359,
-      "rank": 37,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 162151,
       "num": 162151,
       "word": "雷军回应何时做十万元平民车型",
@@ -2289,14 +2329,6 @@
       "onboard_time": 1713423618,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 159936,
-      "num": 159936,
-      "word": "周鸿祎早上卖车何小鹏晚上送车",
-      "onboard_time": 1713449537,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 158241,
@@ -2649,14 +2681,6 @@
       "onboard_time": 1713362059,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 135382,
-      "num": 135382,
-      "word": "早田希娜世界杯晋级8强",
-      "onboard_time": 1713449720,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 135125,
@@ -3211,6 +3235,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 42265,
+      "num": 222854,
+      "word": "今天明星是来上海团建了么",
+      "onboard_time": 1713446598,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 40575,
       "num": 1001460,
       "word": "春好正是耕种时",
@@ -3220,19 +3252,11 @@
     },
     {
       "raw_hot": 40302,
-      "num": 776751,
+      "num": 808859,
       "word": "全力巩固和增强经济回升向好态势",
       "onboard_time": 1713446237,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38071,
-      "num": 222854,
-      "word": "今天明星是来上海团建了么",
-      "onboard_time": 1713446598,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 35049,
