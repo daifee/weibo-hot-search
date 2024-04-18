@@ -1,0 +1,410 @@
+{
+  "runTime": 1713403946717,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1136011,
+        "num": 1136011,
+        "word": "卫健委介入调查女子在医院输错药身亡",
+        "onboard_time": 1713398237,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1082509,
+        "num": 1082509,
+        "word": "下铺乘客购买的就是下铺的使用权",
+        "onboard_time": 1713401358,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5886,
+        "num": 924939,
+        "word": "数字丝路发展论坛",
+        "onboard_time": 1713241458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814161,
+        "num": 814161,
+        "word": "杨威神吐槽生了仨体弱多病的娃",
+        "onboard_time": 1713400098,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 732908,
+        "num": 732908,
+        "word": "雷军宣布直播送SU7车模",
+        "onboard_time": 1713399137,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 573373,
+        "num": 573373,
+        "word": "90岁游本昌婚姻幸福的秘诀是不响",
+        "onboard_time": 1713364699,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570502,
+        "num": 570502,
+        "word": "男子最多囤14斤黄金如今欠债300万",
+        "onboard_time": 1713400939,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496666,
+        "num": 496666,
+        "word": "中式汉堡还能卖得动吗",
+        "onboard_time": 1713400278,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 477586,
+        "num": 477586,
+        "word": "眼泪女王 白洪夫妇",
+        "onboard_time": 1713400159,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442250,
+        "num": 442250,
+        "word": "周海媚墓地选定",
+        "onboard_time": 1713399918,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 785498,
+        "num": 441395,
+        "word": "欧弟近况",
+        "onboard_time": 1713401178,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383652,
+        "num": 383652,
+        "word": "中国在纽约接收美国返还38件文物",
+        "onboard_time": 1713396136,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 365207,
+        "num": 365207,
+        "word": "美众议院多给字节180天出售TikTok",
+        "onboard_time": 1713401658,
+        "rank": 12,
+        "category": "国外时政,互联网"
+      },
+      {
+        "raw_hot": 360886,
+        "num": 360886,
+        "word": "男子捐赠3份清朝科举试卷",
+        "onboard_time": 1713402198,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358990,
+        "num": 358990,
+        "word": "周大福被指褪色足金戒指已退货",
+        "onboard_time": 1713397817,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 328807,
+        "num": 328807,
+        "word": "距离2024年高考还剩50天",
+        "onboard_time": 1713400457,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 285743,
+        "num": 285743,
+        "word": "成都重庆燃气集团股东涉同家公司",
+        "onboard_time": 1713401658,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277473,
+        "num": 277473,
+        "word": "婴儿独自爬出客厅猫咪警觉守护",
+        "onboard_time": 1713382450,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264752,
+        "num": 264752,
+        "word": "情侣相伴4年一同从专科生逆袭研究生",
+        "onboard_time": 1713388271,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254336,
+        "num": 254336,
+        "word": "郑恺说苗苗哄睡孩子比他有招",
+        "onboard_time": 1713365599,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398977,
+        "num": 249522,
+        "word": "杨紫财阀千金妆",
+        "onboard_time": 1713392772,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345068,
+        "num": 244650,
+        "word": "睡觉中途醒来千万不要发消息",
+        "onboard_time": 1713397998,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237875,
+        "num": 237875,
+        "word": "为啥现在叫谁都叫老师",
+        "onboard_time": 1713403338,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219088,
+        "num": 219088,
+        "word": "建议胃不好的人常吃这4种水果",
+        "onboard_time": 1713359659,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216830,
+        "num": 216830,
+        "word": "蒋敦豪 蜂蜜送检",
+        "onboard_time": 1713402918,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211475,
+        "num": 211475,
+        "word": "1岁半男童独自过马路遭校车碾压身亡",
+        "onboard_time": 1713374652,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182604,
+        "num": 182604,
+        "word": "十个勤天小店",
+        "onboard_time": 1713403338,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178590,
+        "num": 178590,
+        "word": "每天1个西红柿7天能白成一道光吗",
+        "onboard_time": 1713372016,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 177783,
+        "num": 177783,
+        "word": "林更新工作室发了粉丝P的图",
+        "onboard_time": 1713400759,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176692,
+        "num": 176692,
+        "word": "哥伦比亚首都限淋浴时间不得超5分钟",
+        "onboard_time": 1713401539,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 174507,
+        "num": 174507,
+        "word": "光刻机巨头阿斯麦业绩爆雷",
+        "onboard_time": 1713394874,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168446,
+        "num": 168446,
+        "word": "承欢记人哭麻了心哭碎了",
+        "onboard_time": 1713403338,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158123,
+        "num": 158123,
+        "word": "用短剧的方式打开李现新剧",
+        "onboard_time": 1713401957,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154187,
+        "num": 154187,
+        "word": "十个勤天卖大米",
+        "onboard_time": 1713358699,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152523,
+        "num": 152523,
+        "word": "男子当25年导游后专设计穷游路线",
+        "onboard_time": 1713402918,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145549,
+        "num": 145549,
+        "word": "哈兰德",
+        "onboard_time": 1713396136,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143101,
+        "num": 143101,
+        "word": "林彦俊直播",
+        "onboard_time": 1713364341,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134455,
+        "num": 134455,
+        "word": "苗苗 救场",
+        "onboard_time": 1713351138,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134341,
+        "num": 134341,
+        "word": "食物语永不关服",
+        "onboard_time": 1713365180,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133674,
+        "num": 133674,
+        "word": "开封王婆全国巡演首站江西",
+        "onboard_time": 1713402797,
+        "rank": 39,
+        "category": "旅游,网红"
+      },
+      {
+        "raw_hot": 128879,
+        "num": 128879,
+        "word": "因为谐音卖不出去水果",
+        "onboard_time": 1713403458,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128580,
+        "num": 128580,
+        "word": "今天是黄文秀生日",
+        "onboard_time": 1713403398,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121687,
+        "num": 121687,
+        "word": "无锡跑腿小哥飞奔跳水救人",
+        "onboard_time": 1713403757,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114802,
+        "num": 114802,
+        "word": "这个手势把AI的CPU干烧了",
+        "onboard_time": 1713403099,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112334,
+        "num": 112334,
+        "word": "曼城4比5皇马",
+        "onboard_time": 1713395835,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111536,
+        "num": 111536,
+        "word": "曼城vs皇马",
+        "onboard_time": 1713363560,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109671,
+        "num": 109671,
+        "word": "澳门世界杯抽签",
+        "onboard_time": 1713403037,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107023,
+        "num": 107023,
+        "word": "怀孕三个月发现男友隐瞒婚史",
+        "onboard_time": 1713335119,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108821,
+        "num": 106929,
+        "word": "杨祐宁每一张实况秦岚都在说话",
+        "onboard_time": 1713361459,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104312,
+        "num": 104312,
+        "word": "飞飞一杯酒去世",
+        "onboard_time": 1713352879,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#中德两国应相向而行互利共赢#"
+    }
+  }
+}

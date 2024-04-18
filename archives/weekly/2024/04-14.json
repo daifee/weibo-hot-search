@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713402793927,
+  "endTime": 1713403946717,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -579,6 +579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1082509,
+      "num": 1082509,
+      "word": "下铺乘客购买的就是下铺的使用权",
+      "onboard_time": 1713401358,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1080550,
       "num": 1080550,
       "word": "吴尊自曝晨起心率只有38",
@@ -859,14 +867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 929870,
-      "num": 929870,
-      "word": "下铺乘客购买的就是下铺的使用权",
-      "onboard_time": 1713401358,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 927879,
       "num": 768349,
       "word": "林彦俊直播",
@@ -1067,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 814161,
+      "num": 814161,
+      "word": "杨威神吐槽生了仨体弱多病的娃",
+      "onboard_time": 1713400098,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 812072,
       "num": 296191,
       "word": "中医劝患者想怀孕不要穿裙子",
@@ -1177,6 +1185,14 @@
       "onboard_time": 1713152958,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785498,
+      "num": 479977,
+      "word": "欧弟近况",
+      "onboard_time": 1713401178,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 785409,
@@ -1385,6 +1401,14 @@
       "onboard_time": 1713320358,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 732908,
+      "num": 732908,
+      "word": "雷军宣布直播送SU7车模",
+      "onboard_time": 1713399137,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 726021,
@@ -1763,14 +1787,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 599515,
-      "num": 599515,
-      "word": "杨威神吐槽生了仨体弱多病的娃",
-      "onboard_time": 1713400098,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 595161,
       "num": 595161,
       "word": "买小米SU7被极越辞退员工发声",
@@ -1905,6 +1921,14 @@
       "onboard_time": 1713362298,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 570502,
+      "num": 570502,
+      "word": "男子最多囤14斤黄金如今欠债300万",
+      "onboard_time": 1713400939,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 570247,
@@ -2427,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496666,
+      "num": 496666,
+      "word": "中式汉堡还能卖得动吗",
+      "onboard_time": 1713400278,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 496176,
       "num": 496176,
       "word": "厦门大学食堂建议本",
@@ -2465,14 +2497,6 @@
       "onboard_time": 1713080237,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 493074,
-      "num": 479977,
-      "word": "欧弟近况",
-      "onboard_time": 1713401178,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 491579,
@@ -2772,7 +2796,7 @@
     },
     {
       "raw_hot": 452801,
-      "num": 238627,
+      "num": 244650,
       "word": "睡觉中途醒来千万不要发消息",
       "onboard_time": 1713397998,
       "rank": 21,
@@ -2817,14 +2841,6 @@
       "onboard_time": 1713263779,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 448631,
-      "num": 448631,
-      "word": "中式汉堡还能卖得动吗",
-      "onboard_time": 1713400278,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 448463,
@@ -3771,6 +3787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 365207,
+      "num": 365207,
+      "word": "美众议院多给字节180天出售TikTok",
+      "onboard_time": 1713401658,
+      "rank": 18,
+      "category": "国外时政,互联网"
+    },
+    {
       "raw_hot": 365133,
       "num": 365133,
       "word": "电竞男主爆改种田男主",
@@ -3849,6 +3873,14 @@
       "onboard_time": 1713060559,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 360886,
+      "num": 360886,
+      "word": "男子捐赠3份清朝科举试卷",
+      "onboard_time": 1713402198,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360504,
@@ -4363,14 +4395,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 313659,
-      "num": 313659,
-      "word": "男子最多囤14斤黄金如今欠债300万",
-      "onboard_time": 1713400939,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 313224,
       "num": 297074,
       "word": "天水麻辣烫让杨国福张亮慌了吗",
@@ -4755,6 +4779,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 285743,
+      "num": 285743,
+      "word": "成都重庆燃气集团股东涉同家公司",
+      "onboard_time": 1713401658,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285564,
       "num": 285564,
       "word": "Doinb看Tian哭了",
@@ -5113,14 +5145,6 @@
       "onboard_time": 1713052876,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 261212,
-      "num": 261212,
-      "word": "美众议院多给字节180天出售TikTok",
-      "onboard_time": 1713401658,
-      "rank": 18,
-      "category": "国外时政,互联网"
     },
     {
       "raw_hot": 261028,
@@ -5619,6 +5643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237875,
+      "num": 237875,
+      "word": "为啥现在叫谁都叫老师",
+      "onboard_time": 1713403338,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237367,
       "num": 237367,
       "word": "陈丽君回应戏曲演员去跳女团舞质疑",
@@ -5833,14 +5865,6 @@
       "onboard_time": 1713324558,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 229808,
-      "num": 229808,
-      "word": "成都重庆燃气集团股东涉同家公司",
-      "onboard_time": 1713401658,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229715,
@@ -6211,6 +6235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216830,
+      "num": 216830,
+      "word": "蒋敦豪 蜂蜜送检",
+      "onboard_time": 1713402918,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216219,
       "num": 216219,
       "word": "外交部回应伊朗发动军事打击",
@@ -6545,14 +6577,6 @@
       "onboard_time": 1713157339,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 209179,
-      "num": 209179,
-      "word": "男子捐赠3份清朝科举试卷",
-      "onboard_time": 1713402198,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209098,
@@ -7707,6 +7731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182604,
+      "num": 182604,
+      "word": "十个勤天小店",
+      "onboard_time": 1713403338,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182573,
       "num": 182573,
       "word": "纸片人也逃脱不了中年发福",
@@ -8281,6 +8313,14 @@
       "onboard_time": 1713091818,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168446,
+      "num": 168446,
+      "word": "承欢记人哭麻了心哭碎了",
+      "onboard_time": 1713403338,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 168160,
@@ -9040,6 +9080,14 @@
       "word": "台湾花莲海域4.6级地震",
       "onboard_time": 1713347298,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152523,
+      "num": 152523,
+      "word": "男子当25年导游后专设计穷游路线",
+      "onboard_time": 1713402918,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -9987,6 +10035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133674,
+      "num": 133674,
+      "word": "开封王婆全国巡演首站江西",
+      "onboard_time": 1713402797,
+      "rank": 39,
+      "category": "旅游,网红"
+    },
+    {
       "raw_hot": 133647,
       "num": 133647,
       "word": "原来外国人看英语卷子是这样",
@@ -10227,12 +10283,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128879,
+      "num": 128879,
+      "word": "因为谐音卖不出去水果",
+      "onboard_time": 1713403458,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 128850,
       "num": 128850,
       "word": "电影维和防暴队开启预售",
       "onboard_time": 1713158119,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128580,
+      "num": 128580,
+      "word": "今天是黄文秀生日",
+      "onboard_time": 1713403398,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128551,
@@ -10531,6 +10603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121687,
+      "num": 121687,
+      "word": "无锡跑腿小哥飞奔跳水救人",
+      "onboard_time": 1713403757,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121396,
       "num": 121396,
       "word": "吴磊郑合惠子张予曦早期片场旧照",
@@ -10779,6 +10859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114802,
+      "num": 114802,
+      "word": "这个手势把AI的CPU干烧了",
+      "onboard_time": 1713403099,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114527,
       "num": 114527,
       "word": "RIIZE预告",
@@ -10897,6 +10985,14 @@
       "onboard_time": 1713169338,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 109671,
+      "num": 109671,
+      "word": "澳门世界杯抽签",
+      "onboard_time": 1713403037,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 109605,
