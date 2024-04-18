@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713407193606,
+  "endTime": 1713407941671,
   "band_list": [
     {
       "raw_hot": 3132046,
@@ -11,7 +11,15 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1869347,
+      "raw_hot": 1924987,
+      "num": 1924987,
+      "word": "反对调休的声音不能装作听不到",
+      "onboard_time": 1713405739,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1882836,
       "num": 279464,
       "word": "韩亿 出轨",
       "onboard_time": 1713404777,
@@ -27,20 +35,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1158025,
-      "num": 1158025,
+      "raw_hot": 1305449,
+      "num": 1305449,
       "word": "华为Pura70系列开售",
       "onboard_time": 1713406579,
       "rank": 1,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1103367,
-      "num": 1103367,
-      "word": "反对调休的声音不能装作听不到",
-      "onboard_time": 1713405739,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1082509,
@@ -59,8 +59,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 949689,
-      "num": 276974,
+      "raw_hot": 959105,
+      "num": 283057,
       "word": "郑燕姿 韩亿",
       "onboard_time": 1713404056,
       "rank": 11,
@@ -107,12 +107,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 654553,
+      "num": 654553,
+      "word": "为啥现在叫谁都叫老师",
+      "onboard_time": 1713403338,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 646735,
       "num": 646735,
       "word": "中国在纽约接收美国返还38件文物",
       "onboard_time": 1713396136,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 613942,
+      "num": 613942,
+      "word": "中国抛售227亿美元美债",
+      "onboard_time": 1713405557,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 570502,
@@ -123,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 563994,
-      "num": 563994,
-      "word": "为啥现在叫谁都叫老师",
-      "onboard_time": 1713403338,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 550689,
       "num": 550689,
       "word": "周大福被指褪色足金戒指已退货",
@@ -139,12 +147,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 522765,
-      "num": 522765,
-      "word": "中国抛售227亿美元美债",
-      "onboard_time": 1713405557,
-      "rank": 6,
-      "category": "财经"
+      "raw_hot": 517569,
+      "num": 280363,
+      "word": "吉隆坡网红泳池现蠕动长虫",
+      "onboard_time": 1713405198,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 516117,
@@ -168,14 +176,6 @@
       "word": "警方通报知名茶企老板一家三口遇害",
       "onboard_time": 1713358399,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503363,
-      "num": 267875,
-      "word": "吉隆坡网红泳池现蠕动长虫",
-      "onboard_time": 1713405198,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -299,6 +299,14 @@
       "category": "国外时政,互联网"
     },
     {
+      "raw_hot": 358482,
+      "num": 195021,
+      "word": "补水第一名的水果",
+      "onboard_time": 1713407417,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 354125,
       "num": 203438,
       "word": "苗苗 救场",
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274954,
+      "num": 274954,
+      "word": "成毅代言李子园",
+      "onboard_time": 1713407537,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274844,
       "num": 274844,
       "word": "小米联合创始人夫妇向中山大学捐赠1亿元",
@@ -459,8 +475,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213715,
-      "num": 213715,
+      "raw_hot": 215013,
+      "num": 215013,
       "word": "十个勤天小店",
       "onboard_time": 1713403338,
       "rank": 26,
@@ -523,12 +539,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195218,
+      "num": 195218,
+      "word": "老人在成都居家四个月燃气费1.5万",
+      "onboard_time": 1713406579,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192816,
       "num": 192816,
       "word": "卢宁封神",
       "onboard_time": 1713396196,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191946,
+      "num": 191946,
+      "word": "网飞剧版百年孤独预告",
+      "onboard_time": 1713407358,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 188575,
@@ -555,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185088,
+      "num": 185088,
+      "word": "因为谐音卖不出去水果",
+      "onboard_time": 1713403458,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 181776,
       "num": 181776,
       "word": "十个勤天卖大米",
@@ -569,14 +609,6 @@
       "onboard_time": 1713401957,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170517,
-      "num": 170517,
-      "word": "因为谐音卖不出去水果",
-      "onboard_time": 1713403458,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 169405,
@@ -641,6 +673,14 @@
       "onboard_time": 1713365780,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 146144,
+      "num": 146144,
+      "word": "C罗讨薪胜诉",
+      "onboard_time": 1713406999,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 141200,
@@ -712,14 +752,6 @@
       "word": "今天是黄文秀生日",
       "onboard_time": 1713403398,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128503,
-      "num": 128503,
-      "word": "老人在成都居家四个月燃气费1.5万",
-      "onboard_time": 1713406579,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -827,14 +859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106479,
-      "num": 106479,
-      "word": "C罗讨薪胜诉",
-      "onboard_time": 1713406999,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105326,
       "num": 105326,
       "word": "十个勤天 禾你见面",
@@ -859,8 +883,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103042,
-      "num": 103042,
+      "raw_hot": 104148,
+      "num": 104148,
       "word": "爱豆第N次跳自己的大热曲",
       "onboard_time": 1713406757,
       "rank": 42,
@@ -931,12 +955,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91576,
+      "num": 91576,
+      "word": "种地吧每日直播",
+      "onboard_time": 1713407837,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89823,
       "num": 89823,
       "word": "汉江小猫cha",
       "onboard_time": 1713370816,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 88391,
+      "num": 88391,
+      "word": "巴图姆奇兵",
+      "onboard_time": 1713407477,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 88322,
@@ -1084,7 +1124,7 @@
     },
     {
       "raw_hot": 5886,
-      "num": 1113817,
+      "num": 1451891,
       "word": "数字丝路发展论坛",
       "onboard_time": 1713241458,
       "rank": 2,

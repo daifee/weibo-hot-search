@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713407193606,
+  "endTime": 1713407941671,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1924987,
+      "num": 1924987,
+      "word": "反对调休的声音不能装作听不到",
+      "onboard_time": 1713405739,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1917645,
       "num": 1917645,
       "word": "周迅 B站",
@@ -187,7 +195,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1869347,
+      "raw_hot": 1882836,
       "num": 279464,
       "word": "韩亿 出轨",
       "onboard_time": 1713404777,
@@ -411,6 +419,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1305449,
+      "num": 1305449,
+      "word": "华为Pura70系列开售",
+      "onboard_time": 1713406579,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1298846,
       "num": 1298846,
       "word": "迪卡侬开始抛弃穷鬼了吗",
@@ -547,14 +563,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 1158025,
-      "num": 1158025,
-      "word": "华为Pura70系列开售",
-      "onboard_time": 1713406579,
-      "rank": 1,
-      "category": "数码"
-    },
-    {
       "raw_hot": 1120476,
       "num": 1120476,
       "word": "如懿传 李纯",
@@ -576,14 +584,6 @@
       "word": "央广网评阿姨吐槽年轻人卧铺挂帘",
       "onboard_time": 1713254419,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1103367,
-      "num": 1103367,
-      "word": "反对调休的声音不能装作听不到",
-      "onboard_time": 1713405739,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -843,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 959105,
+      "num": 283057,
+      "word": "郑燕姿 韩亿",
+      "onboard_time": 1713404056,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 958428,
       "num": 958428,
       "word": "以色列",
@@ -881,14 +889,6 @@
       "onboard_time": 1713270379,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 949689,
-      "num": 276974,
-      "word": "郑燕姿 韩亿",
-      "onboard_time": 1713404056,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 948682,
@@ -1643,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 654553,
+      "num": 654553,
+      "word": "为啥现在叫谁都叫老师",
+      "onboard_time": 1713403338,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 649401,
       "num": 510507,
       "word": "莎头 可口可乐",
@@ -1777,6 +1785,14 @@
       "onboard_time": 1713053177,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 613942,
+      "num": 613942,
+      "word": "中国抛售227亿美元美债",
+      "onboard_time": 1713405557,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 612786,
@@ -2001,14 +2017,6 @@
       "onboard_time": 1713168078,
       "rank": 15,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 563994,
-      "num": 563994,
-      "word": "为啥现在叫谁都叫老师",
-      "onboard_time": 1713403338,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 562938,
@@ -2275,14 +2283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 522765,
-      "num": 522765,
-      "word": "中国抛售227亿美元美债",
-      "onboard_time": 1713405557,
-      "rank": 6,
-      "category": "财经"
-    },
-    {
       "raw_hot": 522281,
       "num": 522281,
       "word": "Jennie白丝",
@@ -2329,6 +2329,14 @@
       "onboard_time": 1713317598,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 517569,
+      "num": 280363,
+      "word": "吉隆坡网红泳池现蠕动长虫",
+      "onboard_time": 1713405198,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 517398,
@@ -2457,14 +2465,6 @@
       "onboard_time": 1713193281,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 503363,
-      "num": 267875,
-      "word": "吉隆坡网红泳池现蠕动长虫",
-      "onboard_time": 1713405198,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 501983,
@@ -3955,6 +3955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 358482,
+      "num": 195021,
+      "word": "补水第一名的水果",
+      "onboard_time": 1713407417,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 357993,
       "num": 357993,
       "word": "外资涌入抄底A股",
@@ -5001,6 +5009,14 @@
       "onboard_time": 1713194420,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 274954,
+      "num": 274954,
+      "word": "成毅代言李子园",
+      "onboard_time": 1713407537,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 273331,
@@ -6347,6 +6363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215013,
+      "num": 215013,
+      "word": "十个勤天小店",
+      "onboard_time": 1713403338,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214908,
       "num": 214908,
       "word": "云秀行",
@@ -6401,14 +6425,6 @@
       "onboard_time": 1713187938,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 213715,
-      "num": 213715,
-      "word": "十个勤天小店",
-      "onboard_time": 1713403338,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 213509,
@@ -7219,6 +7235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195218,
+      "num": 195218,
+      "word": "老人在成都居家四个月燃气费1.5万",
+      "onboard_time": 1713406579,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195171,
       "num": 195171,
       "word": "燃气公司回应换表后新增1.7万欠费",
@@ -7369,6 +7393,14 @@
       "onboard_time": 1713326419,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191946,
+      "num": 191946,
+      "word": "网飞剧版百年孤独预告",
+      "onboard_time": 1713407358,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 191932,
@@ -7681,6 +7713,14 @@
       "onboard_time": 1713405077,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185088,
+      "num": 185088,
+      "word": "因为谐音卖不出去水果",
+      "onboard_time": 1713403458,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 185080,
@@ -8321,14 +8361,6 @@
       "onboard_time": 1713263657,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 170517,
-      "num": 170517,
-      "word": "因为谐音卖不出去水果",
-      "onboard_time": 1713403458,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 170515,
@@ -9515,6 +9547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146144,
+      "num": 146144,
+      "word": "C罗讨薪胜诉",
+      "onboard_time": 1713406999,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146027,
       "num": 142772,
       "word": "张艺兴无效卡点",
@@ -10395,14 +10435,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 128503,
-      "num": 128503,
-      "word": "老人在成都居家四个月燃气费1.5万",
-      "onboard_time": 1713406579,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128258,
       "num": 128258,
       "word": "山西省国道241工程被举报存重大隐患",
@@ -11187,14 +11219,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 106479,
-      "num": 106479,
-      "word": "C罗讨薪胜诉",
-      "onboard_time": 1713406999,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106416,
       "num": 106416,
       "word": "姆巴佩梅开二度",
@@ -11251,6 +11275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 104148,
+      "num": 104148,
+      "word": "爱豆第N次跳自己的大热曲",
+      "onboard_time": 1713406757,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103745,
       "num": 103745,
       "word": "我的孩子 皇上",
@@ -11265,14 +11297,6 @@
       "onboard_time": 1713050054,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 103042,
-      "num": 103042,
-      "word": "爱豆第N次跳自己的大热曲",
-      "onboard_time": 1713406757,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 102809,
@@ -11503,6 +11527,14 @@
       "num": 89192,
       "word": "英超",
       "onboard_time": 1713139338,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88391,
+      "num": 88391,
+      "word": "巴图姆奇兵",
+      "onboard_time": 1713407477,
       "rank": 48,
       "category": "体育"
     },
@@ -12068,7 +12100,7 @@
     },
     {
       "raw_hot": 34390,
-      "num": 1113817,
+      "num": 1451891,
       "word": "数字丝路发展论坛",
       "onboard_time": 1713241458,
       "rank": 2,
