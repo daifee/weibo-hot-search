@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713417516194,
+  "endTime": 1713418452416,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1446416,
+      "num": 1446416,
+      "word": "周杰伦长沙",
+      "onboard_time": 1713410897,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1444183,
       "num": 1444183,
       "word": "十个勤天卖大米",
@@ -369,14 +377,6 @@
       "onboard_time": 1713077417,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1375777,
-      "num": 1375777,
-      "word": "周杰伦长沙",
-      "onboard_time": 1713410897,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 1360247,
@@ -931,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 957498,
+      "num": 538440,
+      "word": "32岁交了个11岁的朋友",
+      "onboard_time": 1713415879,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 956919,
       "num": 956919,
       "word": "张若昀半夜三点给郭麒麟打电话",
@@ -1339,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 780131,
+      "num": 780131,
+      "word": "35岁失业找工作有多难",
+      "onboard_time": 1713415401,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 779242,
       "num": 779242,
       "word": "科研人员出卖核心机密被执行死刑",
@@ -1523,14 +1539,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 727189,
-      "num": 727189,
-      "word": "35岁失业找工作有多难",
-      "onboard_time": 1713415401,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 726021,
       "num": 292008,
       "word": "工资4千和6千真的能存到钱吗",
@@ -1673,6 +1681,14 @@
       "onboard_time": 1713052756,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 682708,
+      "num": 682708,
+      "word": "迪丽热巴说实话我挺害怕的",
+      "onboard_time": 1713415641,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 681321,
@@ -1915,12 +1931,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 613720,
-      "num": 613720,
-      "word": "迪丽热巴说实话我挺害怕的",
-      "onboard_time": 1713415641,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 613320,
+      "num": 613320,
+      "word": "穿着羞耻症",
+      "onboard_time": 1713416540,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 612786,
@@ -2329,14 +2345,6 @@
       "onboard_time": 1713080418,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 538440,
-      "num": 538440,
-      "word": "32岁交了个11岁的朋友",
-      "onboard_time": 1713415879,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 536636,
@@ -3715,6 +3723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 387472,
+      "num": 387472,
+      "word": "奔跑吧发布会",
+      "onboard_time": 1713417858,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387211,
       "num": 387211,
       "word": "勇士vs国王",
@@ -4427,14 +4443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 329783,
-      "num": 329783,
-      "word": "穿着羞耻症",
-      "onboard_time": 1713416540,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 329376,
       "num": 329376,
       "word": "砂金",
@@ -4556,7 +4564,7 @@
     },
     {
       "raw_hot": 321001,
-      "num": 239657,
+      "num": 244110,
       "word": "神仙水为何卖不动了",
       "onboard_time": 1713416059,
       "rank": 30,
@@ -4625,6 +4633,14 @@
       "onboard_time": 1713022039,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 317157,
+      "num": 317157,
+      "word": "郑燕姿删除官宣视频",
+      "onboard_time": 1713418039,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 317063,
@@ -5075,6 +5091,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 286725,
+      "num": 286725,
+      "word": "迪丽热巴特意退回来和粉丝打招呼",
+      "onboard_time": 1713418218,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285743,
       "num": 285743,
       "word": "成都重庆燃气集团股东涉同家公司",
@@ -5307,6 +5331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 272219,
+      "num": 240641,
+      "word": "参观周杰伦演唱会场馆后花近两万买邀请函",
+      "onboard_time": 1713418039,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 271646,
       "num": 271646,
       "word": "王心凌回应隔壁林俊杰送歌",
@@ -5449,6 +5481,14 @@
       "onboard_time": 1713240259,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 262992,
+      "num": 262992,
+      "word": "实习生diss一梦江湖策划",
+      "onboard_time": 1713417139,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 262676,
@@ -5979,20 +6019,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 239147,
+      "num": 239147,
+      "word": "十个勤天大米秒售罄",
+      "onboard_time": 1713416720,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238631,
       "num": 238631,
       "word": "我记得你一开始很向往工作的",
       "onboard_time": 1713337458,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 238285,
-      "num": 238285,
-      "word": "实习生diss一梦江湖策划",
-      "onboard_time": 1713417139,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 238210,
@@ -6299,6 +6339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227742,
+      "num": 227742,
+      "word": "范丞丞和素人合照",
+      "onboard_time": 1713417618,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227166,
       "num": 227166,
       "word": "一夜承明",
@@ -6577,14 +6625,6 @@
       "onboard_time": 1713154101,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 217417,
-      "num": 217417,
-      "word": "十个勤天大米秒售罄",
-      "onboard_time": 1713416720,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 217289,
@@ -7611,6 +7651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195312,
+      "num": 195312,
+      "word": "时代少年团 特权码",
+      "onboard_time": 1713418218,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195171,
       "num": 195171,
       "word": "燃气公司回应换表后新增1.7万欠费",
@@ -8321,6 +8369,14 @@
       "onboard_time": 1713152721,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 181053,
+      "num": 181053,
+      "word": "女子因带娃问题跟公公口角被扇9巴掌",
+      "onboard_time": 1713417678,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180981,
@@ -12363,6 +12419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54226,
+      "num": 385641,
+      "word": "联想发布AI元启系列人工智能电脑",
+      "onboard_time": 1713417020,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 53718,
       "num": 443511,
       "word": "新款蔚来ET7北京车展上市",
@@ -12401,14 +12465,6 @@
       "onboard_time": 1713184938,
       "rank": 45,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 52359,
-      "num": 238896,
-      "word": "联想发布AI元启系列人工智能电脑",
-      "onboard_time": 1713417020,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 52244,

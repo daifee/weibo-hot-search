@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713417516194,
+  "endTime": 1713418452416,
   "band_list": [
     {
       "raw_hot": 3132046,
@@ -43,20 +43,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1446416,
+      "num": 1446416,
+      "word": "周杰伦长沙",
+      "onboard_time": 1713410897,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1444183,
       "num": 1444183,
       "word": "十个勤天卖大米",
       "onboard_time": 1713358699,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1375777,
-      "num": 1375777,
-      "word": "周杰伦长沙",
-      "onboard_time": 1713410897,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 1338063,
@@ -131,6 +131,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 957498,
+      "num": 538440,
+      "word": "32岁交了个11岁的朋友",
+      "onboard_time": 1713415879,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 840418,
       "num": 814161,
       "word": "杨威神吐槽生了仨体弱多病的娃",
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 780131,
+      "num": 780131,
+      "word": "35岁失业找工作有多难",
+      "onboard_time": 1713415401,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 777044,
       "num": 777044,
       "word": "90岁游本昌婚姻幸福的秘诀是不响",
@@ -171,14 +187,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 727189,
-      "num": 727189,
-      "word": "35岁失业找工作有多难",
-      "onboard_time": 1713415401,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 725506,
       "num": 725506,
       "word": "赵丽颖工作室公布告黑进展",
@@ -193,6 +201,14 @@
       "onboard_time": 1713369437,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 682708,
+      "num": 682708,
+      "word": "迪丽热巴说实话我挺害怕的",
+      "onboard_time": 1713415641,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 681321,
@@ -251,12 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 613720,
-      "num": 613720,
-      "word": "迪丽热巴说实话我挺害怕的",
-      "onboard_time": 1713415641,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 613320,
+      "num": 613320,
+      "word": "穿着羞耻症",
+      "onboard_time": 1713416540,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 574342,
@@ -305,14 +321,6 @@
       "onboard_time": 1713397817,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 538440,
-      "num": 538440,
-      "word": "32岁交了个11岁的朋友",
-      "onboard_time": 1713415879,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 516117,
@@ -475,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 387472,
+      "num": 387472,
+      "word": "奔跑吧发布会",
+      "onboard_time": 1713417858,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374012,
       "num": 374012,
       "word": "台偶女主现在在拍什么",
@@ -563,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 329783,
-      "num": 329783,
-      "word": "穿着羞耻症",
-      "onboard_time": 1713416540,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 327770,
       "num": 327770,
       "word": "食物语永不关服",
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 321001,
-      "num": 239657,
+      "num": 244110,
       "word": "神仙水为何卖不动了",
       "onboard_time": 1713416059,
       "rank": 30,
@@ -601,6 +609,14 @@
       "onboard_time": 1713408557,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 317157,
+      "num": 317157,
+      "word": "郑燕姿删除官宣视频",
+      "onboard_time": 1713418039,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 308436,
@@ -632,6 +648,14 @@
       "word": "郑恺说苗苗哄睡孩子比他有招",
       "onboard_time": 1713365599,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 286725,
+      "num": 286725,
+      "word": "迪丽热巴特意退回来和粉丝打招呼",
+      "onboard_time": 1713418218,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -683,6 +707,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 272219,
+      "num": 240641,
+      "word": "参观周杰伦演唱会场馆后花近两万买邀请函",
+      "onboard_time": 1713418039,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 262992,
+      "num": 262992,
+      "word": "实习生diss一梦江湖策划",
+      "onboard_time": 1713417139,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 262676,
       "num": 262676,
       "word": "食物语将删除所有玩家数据",
@@ -723,12 +763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238285,
-      "num": 238285,
-      "word": "实习生diss一梦江湖策划",
-      "onboard_time": 1713417139,
-      "rank": 33,
-      "category": "游戏"
+      "raw_hot": 239147,
+      "num": 239147,
+      "word": "十个勤天大米秒售罄",
+      "onboard_time": 1713416720,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 236865,
@@ -753,6 +793,14 @@
       "onboard_time": 1713395295,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227742,
+      "num": 227742,
+      "word": "范丞丞和素人合照",
+      "onboard_time": 1713417618,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 226519,
@@ -785,14 +833,6 @@
       "onboard_time": 1713363499,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217417,
-      "num": 217417,
-      "word": "十个勤天大米秒售罄",
-      "onboard_time": 1713416720,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 213679,
@@ -931,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195312,
+      "num": 195312,
+      "word": "时代少年团 特权码",
+      "onboard_time": 1713418218,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194788,
       "num": 194788,
       "word": "SKII在日本排海影响中再涨价",
@@ -1001,6 +1049,14 @@
       "onboard_time": 1713403458,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 181053,
+      "num": 181053,
+      "word": "女子因带娃问题跟公公口角被扇9巴掌",
+      "onboard_time": 1713417678,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178620,
@@ -1571,20 +1627,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54226,
+      "num": 385641,
+      "word": "联想发布AI元启系列人工智能电脑",
+      "onboard_time": 1713417020,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 53674,
       "num": 55599,
       "word": "张婧仪用手比10000",
       "onboard_time": 1713391992,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52359,
-      "num": 238896,
-      "word": "联想发布AI元启系列人工智能电脑",
-      "onboard_time": 1713417020,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 50591,

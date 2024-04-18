@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713417516194,
+  "endTime": 1713418452416,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1683,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1446416,
+      "num": 1446416,
+      "word": "周杰伦长沙",
+      "onboard_time": 1713410897,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1444183,
       "num": 1444183,
       "word": "十个勤天卖大米",
@@ -1841,14 +1849,6 @@
       "onboard_time": 1712119822,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1375777,
-      "num": 1375777,
-      "word": "周杰伦长沙",
-      "onboard_time": 1713410897,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 1374447,
@@ -4059,6 +4059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 957498,
+      "num": 538440,
+      "word": "32岁交了个11岁的朋友",
+      "onboard_time": 1713415879,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 956919,
       "num": 956919,
       "word": "张若昀半夜三点给郭麒麟打电话",
@@ -5755,6 +5763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 780131,
+      "num": 780131,
+      "word": "35岁失业找工作有多难",
+      "onboard_time": 1713415401,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 779242,
       "num": 779242,
       "word": "科研人员出卖核心机密被执行死刑",
@@ -6459,14 +6475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 727189,
-      "num": 727189,
-      "word": "35岁失业找工作有多难",
-      "onboard_time": 1713415401,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 726960,
       "num": 726960,
       "word": "服用紧急避孕药会影响生育吗",
@@ -7129,6 +7137,14 @@
       "onboard_time": 1712378658,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 682708,
+      "num": 682708,
+      "word": "迪丽热巴说实话我挺害怕的",
+      "onboard_time": 1713415641,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 681606,
@@ -8371,20 +8387,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 613720,
-      "num": 613720,
-      "word": "迪丽热巴说实话我挺害怕的",
-      "onboard_time": 1713415641,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 613683,
       "num": 613683,
       "word": "卖房让娃退学环游世界的家庭怎么样了",
       "onboard_time": 1712832977,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 613320,
+      "num": 613320,
+      "word": "穿着羞耻症",
+      "onboard_time": 1713416540,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 613254,
@@ -10025,14 +10041,6 @@
       "onboard_time": 1712793017,
       "rank": 13,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 538440,
-      "num": 538440,
-      "word": "32岁交了个11岁的朋友",
-      "onboard_time": 1713415879,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 537619,
@@ -15043,6 +15051,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 387472,
+      "num": 387472,
+      "word": "奔跑吧发布会",
+      "onboard_time": 1713417858,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387211,
       "num": 387211,
       "word": "勇士vs国王",
@@ -17563,14 +17579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 329783,
-      "num": 329783,
-      "word": "穿着羞耻症",
-      "onboard_time": 1713416540,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 329703,
       "num": 329703,
       "word": "与凤行热度",
@@ -18068,7 +18076,7 @@
     },
     {
       "raw_hot": 321001,
-      "num": 239657,
+      "num": 244110,
       "word": "神仙水为何卖不动了",
       "onboard_time": 1713416059,
       "rank": 30,
@@ -18289,6 +18297,14 @@
       "onboard_time": 1712311519,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 317157,
+      "num": 317157,
+      "word": "郑燕姿删除官宣视频",
+      "onboard_time": 1713418039,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 317063,
@@ -20155,6 +20171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 286725,
+      "num": 286725,
+      "word": "迪丽热巴特意退回来和粉丝打招呼",
+      "onboard_time": 1713418218,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286323,
       "num": 286323,
       "word": "赵晴李菲儿扇巴掌戏",
@@ -21075,6 +21099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 272219,
+      "num": 240641,
+      "word": "参观周杰伦演唱会场馆后花近两万买邀请函",
+      "onboard_time": 1713418039,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 271912,
       "num": 271912,
       "word": "王珞丹给陶昕然送麝香",
@@ -21625,6 +21657,14 @@
       "onboard_time": 1712951471,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262992,
+      "num": 262992,
+      "word": "实习生diss一梦江湖策划",
+      "onboard_time": 1713417139,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 262825,
@@ -23947,6 +23987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 239147,
+      "num": 239147,
+      "word": "十个勤天大米秒售罄",
+      "onboard_time": 1713416720,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239046,
       "num": 203157,
       "word": "阴阳师维权信息",
@@ -24009,14 +24057,6 @@
       "onboard_time": 1712628678,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 238285,
-      "num": 238285,
-      "word": "实习生diss一梦江湖策划",
-      "onboard_time": 1713417139,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 238210,
@@ -25089,6 +25129,14 @@
       "onboard_time": 1711981161,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 227742,
+      "num": 227742,
+      "word": "范丞丞和素人合照",
+      "onboard_time": 1713417618,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 227719,
@@ -26217,14 +26265,6 @@
       "onboard_time": 1712149400,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217417,
-      "num": 217417,
-      "word": "十个勤天大米秒售罄",
-      "onboard_time": 1713416720,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 217413,
@@ -30181,6 +30221,14 @@
     {
       "raw_hot": 195312,
       "num": 195312,
+      "word": "时代少年团 特权码",
+      "onboard_time": 1712655199,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195312,
+      "num": 195312,
       "word": "林高远vs达科",
       "onboard_time": 1713411977,
       "rank": 37,
@@ -33273,6 +33321,14 @@
       "onboard_time": 1713152721,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 181053,
+      "num": 181053,
+      "word": "女子因带娃问题跟公公口角被扇9巴掌",
+      "onboard_time": 1713417678,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180981,
@@ -40297,14 +40353,6 @@
       "onboard_time": 1712228058,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143242,
-      "num": 143242,
-      "word": "时代少年团 特权码",
-      "onboard_time": 1712655199,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 143239,
@@ -47979,6 +48027,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 54226,
+      "num": 385641,
+      "word": "联想发布AI元启系列人工智能电脑",
+      "onboard_time": 1713417020,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 54194,
       "num": 790222,
       "word": "志愿军烈士和家人跨时空重逢",
@@ -48089,14 +48145,6 @@
       "onboard_time": 1712353812,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 52359,
-      "num": 238896,
-      "word": "联想发布AI元启系列人工智能电脑",
-      "onboard_time": 1713417020,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 52244,
