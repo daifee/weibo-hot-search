@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713482343993,
+  "endTime": 1713483266901,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2859,6 +2859,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1159646,
+      "num": 1159646,
+      "word": "晨起3个表现是肝在求救",
+      "onboard_time": 1713437719,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1159425,
       "num": 1159425,
       "word": "暧昧过后没在一起才是绝杀",
@@ -3275,20 +3283,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1072163,
+      "num": 1072163,
+      "word": "巴勒斯坦入联申请遭美一票否决",
+      "onboard_time": 1713481815,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1071166,
       "num": 1071166,
       "word": "我的离职申请只有一句话",
       "onboard_time": 1713325039,
       "rank": 4,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1070506,
-      "num": 1070506,
-      "word": "晨起3个表现是肝在求救",
-      "onboard_time": 1713437719,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1070106,
@@ -5435,6 +5443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 814931,
+      "num": 814931,
+      "word": "男子买4600台手机刷好评4个月赚300万",
+      "onboard_time": 1713456615,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 814364,
       "num": 263747,
       "word": "甜馨送给贾乃亮的生日礼物",
@@ -6529,14 +6545,6 @@
       "onboard_time": 1713172757,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 740837,
-      "num": 740837,
-      "word": "男子买4600台手机刷好评4个月赚300万",
-      "onboard_time": 1713456615,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 738897,
@@ -9809,6 +9817,14 @@
       "onboard_time": 1713168078,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 564268,
+      "num": 564268,
+      "word": "氯雷他定可能是疗效最差的药物",
+      "onboard_time": 1713464051,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 563682,
@@ -14059,14 +14075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 429485,
-      "num": 429485,
-      "word": "巴勒斯坦入联申请遭美一票否决",
-      "onboard_time": 1713481815,
-      "rank": 3,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 429458,
       "num": 283486,
       "word": "原来皮肤是最大的情绪器官",
@@ -14145,14 +14153,6 @@
       "onboard_time": 1712137820,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 428097,
-      "num": 428097,
-      "word": "氯雷他定可能是疗效最差的药物",
-      "onboard_time": 1713464051,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 427856,
@@ -18891,6 +18891,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 319292,
+      "num": 319292,
+      "word": "谷雨",
+      "onboard_time": 1713321617,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319210,
       "num": 319210,
       "word": "iPhoneSE4规格曝光",
@@ -22411,6 +22419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 263785,
+      "num": 263785,
+      "word": "白鹿恭喜自己走进观众视野",
+      "onboard_time": 1713481213,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263747,
       "num": 263747,
       "word": "刘学义参加综艺少的原因",
@@ -24905,6 +24921,14 @@
       "onboard_time": 1712742558,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 239038,
+      "num": 164335,
+      "word": "柯佳嬿让许光汉不要把话说死",
+      "onboard_time": 1713480553,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 238984,
@@ -36451,14 +36475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169756,
-      "num": 169756,
-      "word": "谷雨",
-      "onboard_time": 1713321617,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169689,
       "num": 169689,
       "word": "庄达菲发文谈首张EP",
@@ -37377,14 +37393,6 @@
       "onboard_time": 1712997137,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164335,
-      "num": 164335,
-      "word": "柯佳嬿让许光汉不要把话说死",
-      "onboard_time": 1713480553,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 164308,
@@ -40987,14 +40995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147542,
-      "num": 147542,
-      "word": "白鹿恭喜自己走进观众视野",
-      "onboard_time": 1713481213,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147506,
       "num": 147506,
       "word": "没人能拒绝中式美学的魅力",
@@ -41585,6 +41585,14 @@
       "onboard_time": 1713223937,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 145140,
+      "num": 120748,
+      "word": "每天坚持踮脚身体会发生什么变化",
+      "onboard_time": 1713457455,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 145130,
@@ -42955,14 +42963,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 137600,
-      "num": 120748,
-      "word": "每天坚持踮脚身体会发生什么变化",
-      "onboard_time": 1713457455,
-      "rank": 34,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 137587,
       "num": 137587,
       "word": "沪指翻绿跌破3000点",
@@ -43433,6 +43433,14 @@
       "onboard_time": 1713418698,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135117,
+      "num": 135117,
+      "word": "周杰伦晒与大莲花合照",
+      "onboard_time": 1713464771,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 135035,
@@ -45185,14 +45193,6 @@
       "onboard_time": 1713410058,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124237,
-      "num": 124237,
-      "word": "周杰伦晒与大莲花合照",
-      "onboard_time": 1713464771,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 124228,
@@ -48227,6 +48227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93077,
+      "num": 267572,
+      "word": "雨生百谷且惜春光",
+      "onboard_time": 1713481874,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92868,
       "num": 92868,
       "word": "文韬新歌",
@@ -48241,6 +48249,14 @@
       "onboard_time": 1713139399,
       "rank": 45,
       "category": "健康医疗,美妆"
+    },
+    {
+      "raw_hot": 92498,
+      "num": 92498,
+      "word": "越来越多人只舍得在吃上花钱",
+      "onboard_time": 1713482536,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 92448,
@@ -48339,6 +48355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90899,
+      "num": 90899,
+      "word": "亚特兰大0比1利物浦",
+      "onboard_time": 1713482235,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90771,
       "num": 90771,
       "word": "黄磊黄渤张艺兴面馆一起吃面",
@@ -48353,14 +48377,6 @@
       "onboard_time": 1712774292,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90600,
-      "num": 90600,
-      "word": "雨生百谷且惜春光",
-      "onboard_time": 1713481874,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 90553,
@@ -48667,6 +48683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 83083,
+      "num": 83083,
+      "word": "4个习惯容易导致骨盆前倾",
+      "onboard_time": 1713475391,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 83039,
       "num": 93259,
       "word": "infp网络活蝶",
@@ -48819,20 +48843,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77943,
-      "num": 77943,
-      "word": "4个习惯容易导致骨盆前倾",
-      "onboard_time": 1713475391,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 77927,
       "num": 60180,
       "word": "锦超演的傅卫军",
       "onboard_time": 1712421556,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77723,
+      "num": 77723,
+      "word": "约一半的肺癌患者确诊时有慢性咳嗽",
+      "onboard_time": 1713466871,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 77410,
@@ -48995,6 +49019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74218,
+      "num": 74218,
+      "word": "张天爱去了灵隐寺",
+      "onboard_time": 1713460153,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74157,
       "num": 74157,
       "word": "乘坐扶手电梯不要踩2号板",
@@ -49027,11 +49059,27 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 73752,
+      "num": 73752,
+      "word": "林志玲北影节热聊到哽咽",
+      "onboard_time": 1713483196,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 73737,
       "num": 73737,
       "word": "别借极端个案贩卖家庭矛盾焦虑",
       "onboard_time": 1711986916,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73707,
+      "num": 92923,
+      "word": "云南巍山县4.2级地震",
+      "onboard_time": 1713481755,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -49041,6 +49089,14 @@
       "onboard_time": 1712938518,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73639,
+      "num": 73639,
+      "word": "唐嫣新高定首穿",
+      "onboard_time": 1713472691,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 73461,
@@ -49219,14 +49275,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 71032,
-      "num": 71032,
-      "word": "约一半的肺癌患者确诊时有慢性咳嗽",
-      "onboard_time": 1713466871,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 70650,
       "num": 70650,
       "word": "巴萨vs巴黎",
@@ -49315,14 +49363,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 68414,
-      "num": 67613,
-      "word": "唐嫣新高定首穿",
-      "onboard_time": 1713472691,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 68082,
       "num": 86985,
       "word": "过完谷雨夏天就近了",
@@ -49395,14 +49435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66923,
-      "num": 66923,
-      "word": "云南巍山县4.2级地震",
-      "onboard_time": 1713481755,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66771,
       "num": 1435354,
       "word": "中国新兴文旅迎春勃发",
@@ -49425,14 +49457,6 @@
       "onboard_time": 1712147179,
       "rank": 42,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 66613,
-      "num": 66613,
-      "word": "张天爱去了灵隐寺",
-      "onboard_time": 1713460153,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 66570,
@@ -49473,6 +49497,14 @@
       "onboard_time": 1712788693,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 65916,
+      "num": 65916,
+      "word": "警方通报广西一家4口被杀害",
+      "onboard_time": 1713483255,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65786,
@@ -49537,6 +49569,14 @@
       "onboard_time": 1712619196,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 64412,
+      "num": 64412,
+      "word": "下一个节气就到夏天了",
+      "onboard_time": 1713483196,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64015,
@@ -49891,6 +49931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54701,
+      "num": 54701,
+      "word": "女孩轻松拿捏男朋友和弟弟",
+      "onboard_time": 1713483015,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 54446,
       "num": 54446,
       "word": "一90后被证监会罚没2.7亿元",
@@ -50081,14 +50129,6 @@
       "onboard_time": 1711888759,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 50732,
-      "num": 50732,
-      "word": "亚特兰大0比1利物浦",
-      "onboard_time": 1713482235,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 50723,
@@ -50748,7 +50788,7 @@
     },
     {
       "raw_hot": 34968,
-      "num": 524311,
+      "num": 890758,
       "word": "景海鹏朱杨柱桂海潮获航天功勋奖章",
       "onboard_time": 1713446058,
       "rank": 2,

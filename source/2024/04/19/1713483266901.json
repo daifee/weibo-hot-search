@@ -1,0 +1,410 @@
+{
+  "runTime": 1713483266901,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1159646,
+        "num": 1159646,
+        "word": "晨起3个表现是肝在求救",
+        "onboard_time": 1713437719,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1072163,
+        "num": 1072163,
+        "word": "巴勒斯坦入联申请遭美一票否决",
+        "onboard_time": 1713481815,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 33219,
+        "num": 890758,
+        "word": "景海鹏朱杨柱桂海潮获航天功勋奖章",
+        "onboard_time": 1713446058,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814931,
+        "num": 814931,
+        "word": "男子买4600台手机刷好评4个月赚300万",
+        "onboard_time": 1713456615,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564268,
+        "num": 564268,
+        "word": "氯雷他定可能是疗效最差的药物",
+        "onboard_time": 1713464051,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 370488,
+        "num": 370488,
+        "word": "鹿晗泰国",
+        "onboard_time": 1713452359,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351219,
+        "num": 351219,
+        "word": "蒋勤勤摔了",
+        "onboard_time": 1713451279,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 319292,
+        "num": 319292,
+        "word": "谷雨",
+        "onboard_time": 1713482056,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276133,
+        "num": 276133,
+        "word": "林志玲 内娱美届纯元皇后",
+        "onboard_time": 1713448038,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93077,
+        "num": 267572,
+        "word": "雨生百谷且惜春光",
+        "onboard_time": 1713481874,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263785,
+        "num": 263785,
+        "word": "白鹿恭喜自己走进观众视野",
+        "onboard_time": 1713481213,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257744,
+        "num": 257744,
+        "word": "台娱捧红许光汉 港娱能捧谁",
+        "onboard_time": 1713451159,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227274,
+        "num": 227274,
+        "word": "庆余年 短剧",
+        "onboard_time": 1713452480,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199284,
+        "num": 199284,
+        "word": "专家鼓励买到下铺的年轻人跟老人换位",
+        "onboard_time": 1713426258,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150797,
+        "num": 150797,
+        "word": "小龙虾身价暴跌",
+        "onboard_time": 1713445217,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145538,
+        "num": 145538,
+        "word": "雷军说小米不会造相机",
+        "onboard_time": 1713456858,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 239038,
+        "num": 144290,
+        "word": "柯佳嬿让许光汉不要把话说死",
+        "onboard_time": 1713480553,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141708,
+        "num": 141708,
+        "word": "男子酒后骚扰女孩还打家长",
+        "onboard_time": 1713453080,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135117,
+        "num": 135117,
+        "word": "周杰伦晒与大莲花合照",
+        "onboard_time": 1713464771,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123993,
+        "num": 123993,
+        "word": "雷军不知道张颂文提车了没",
+        "onboard_time": 1713436277,
+        "rank": 19,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 250404,
+        "num": 123319,
+        "word": "刘亦菲裙子好像钢丝球",
+        "onboard_time": 1713442638,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196846,
+        "num": 122231,
+        "word": "张颖颖将起诉张兰",
+        "onboard_time": 1713447137,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175862,
+        "num": 121831,
+        "word": "养了九年的二哈突然攻击孩子",
+        "onboard_time": 1713442519,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145140,
+        "num": 120207,
+        "word": "每天坚持踮脚身体会发生什么变化",
+        "onboard_time": 1713457455,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 142335,
+        "num": 119412,
+        "word": "姑父强奸猥亵侄女7年被判13年",
+        "onboard_time": 1713430459,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129624,
+        "num": 118661,
+        "word": "你接受周末夫妻吗",
+        "onboard_time": 1713447799,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117596,
+        "num": 117596,
+        "word": "刘昊然帅回来了",
+        "onboard_time": 1713441137,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95467,
+        "num": 95467,
+        "word": "宋茜G社生图",
+        "onboard_time": 1713451820,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84599,
+        "num": 93508,
+        "word": "中国城市高铁第一隧道开始盾构掘进",
+        "onboard_time": 1713469511,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73707,
+        "num": 92923,
+        "word": "云南巍山县4.2级地震",
+        "onboard_time": 1713481755,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92498,
+        "num": 92498,
+        "word": "越来越多人只舍得在吃上花钱",
+        "onboard_time": 1713482536,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 91398,
+        "num": 91398,
+        "word": "删公婆好友后发超长文怼了公公",
+        "onboard_time": 1713436218,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90899,
+        "num": 90899,
+        "word": "亚特兰大0比1利物浦",
+        "onboard_time": 1713482235,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83083,
+        "num": 83083,
+        "word": "4个习惯容易导致骨盆前倾",
+        "onboard_time": 1713475391,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77723,
+        "num": 77723,
+        "word": "约一半的肺癌患者确诊时有慢性咳嗽",
+        "onboard_time": 1713466871,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74218,
+        "num": 74218,
+        "word": "张天爱去了灵隐寺",
+        "onboard_time": 1713460153,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73752,
+        "num": 73752,
+        "word": "林志玲北影节热聊到哽咽",
+        "onboard_time": 1713483196,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73639,
+        "num": 73639,
+        "word": "唐嫣新高定首穿",
+        "onboard_time": 1713472691,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 70341,
+        "num": 70341,
+        "word": "周深受邀参加联合国第十五届中文日",
+        "onboard_time": 1713457217,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70121,
+        "num": 70121,
+        "word": "确认被爱后面相都变了",
+        "onboard_time": 1713451039,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65916,
+        "num": 65916,
+        "word": "警方通报广西一家4口被杀害",
+        "onboard_time": 1713483255,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65533,
+        "num": 65533,
+        "word": "于正说祝绪丹事件是联手炒作",
+        "onboard_time": 1713440417,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65110,
+        "num": 65110,
+        "word": "王楚钦vs雨果",
+        "onboard_time": 1713446899,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64467,
+        "num": 64467,
+        "word": "戚薇把泡泡袖拆了穿胳膊上",
+        "onboard_time": 1713446899,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64412,
+        "num": 64412,
+        "word": "下一个节气就到夏天了",
+        "onboard_time": 1713483196,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57161,
+        "num": 57161,
+        "word": "过完谷雨夏天就近了",
+        "onboard_time": 1713481815,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56152,
+        "num": 56152,
+        "word": "朱一龙 最年轻评委",
+        "onboard_time": 1713448879,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55283,
+        "num": 55283,
+        "word": "蔡依林说贵州没有不好吃的",
+        "onboard_time": 1713454159,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54701,
+        "num": 54701,
+        "word": "女孩轻松拿捏男朋友和弟弟",
+        "onboard_time": 1713483015,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54328,
+        "num": 54328,
+        "word": "周杰伦是会选日子的",
+        "onboard_time": 1713457635,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动党组织向最基层延伸#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/19 00:22:53 ~ 2024/04/19 07:19:03
+本榜单时间：2024/04/19 00:22:53 ~ 2024/04/19 07:34:26
 </p>
 </blockquote>
 <p>
@@ -16,13 +16,19 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%A8%E8%B5%B73%E4%B8%AA%E8%A1%A8%E7%8E%B0%E6%98%AF%E8%82%9D%E5%9C%A8%E6%B1%82%E6%95%91%23" target="weibo">
-晨起3个表现是肝在求救（热度：1070506）
+晨起3个表现是肝在求救（热度：1159646）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%85%A5%E8%81%94%E7%94%B3%E8%AF%B7%E9%81%AD%E7%BE%8E%E4%B8%80%E7%A5%A8%E5%90%A6%E5%86%B3%23" target="weibo">
+巴勒斯坦入联申请遭美一票否决（热度：1072163）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B04600%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%88%B7%E5%A5%BD%E8%AF%844%E4%B8%AA%E6%9C%88%E8%B5%9A300%E4%B8%87%23" target="weibo">
-男子买4600台手机刷好评4个月赚300万（热度：740837）
+男子买4600台手机刷好评4个月赚300万（热度：814931）
 </a>
 </li>
 
@@ -51,6 +57,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%AF%E9%9B%B7%E4%BB%96%E5%AE%9A%E5%8F%AF%E8%83%BD%E6%98%AF%E7%96%97%E6%95%88%E6%9C%80%E5%B7%AE%E7%9A%84%E8%8D%AF%E7%89%A9%23" target="weibo">
+氯雷他定可能是疗效最差的药物（热度：564268）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E8%AF%B4%E8%B4%B5%E5%B7%9E%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%A5%BD%E5%90%83%E7%9A%84%23" target="weibo">
 蔡依林说贵州没有不好吃的（热度：542230）
 </a>
@@ -69,18 +81,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%85%A5%E8%81%94%E7%94%B3%E8%AF%B7%E9%81%AD%E7%BE%8E%E4%B8%80%E7%A5%A8%E5%90%A6%E5%86%B3%23" target="weibo">
-巴勒斯坦入联申请遭美一票否决（热度：429485）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%AF%E9%9B%B7%E4%BB%96%E5%AE%9A%E5%8F%AF%E8%83%BD%E6%98%AF%E7%96%97%E6%95%88%E6%9C%80%E5%B7%AE%E7%9A%84%E8%8D%AF%E7%89%A9%23" target="weibo">
-氯雷他定可能是疗效最差的药物（热度：428097）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B4%20%E7%9F%AD%E5%89%A7%23" target="weibo">
 庆余年 短剧（热度：378404）
 </a>
@@ -95,6 +95,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9CG%E7%A4%BE%E7%94%9F%E5%9B%BE%23" target="weibo">
 宋茜G社生图（热度：349818）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E9%9B%A8%23" target="weibo">
+谷雨（热度：319292）
 </a>
 </li>
 
@@ -135,6 +141,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%81%AD%E5%96%9C%E8%87%AA%E5%B7%B1%E8%B5%B0%E8%BF%9B%E8%A7%82%E4%BC%97%E8%A7%86%E9%87%8E%23" target="weibo">
+白鹿恭喜自己走进观众视野（热度：263785）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%8D%97%E5%B0%8F%E5%85%B0%E5%A9%9A%E7%BA%B1%E5%9B%BE%23" target="weibo">
 柯南小兰婚纱图（热度：257178）
 </a>
@@ -143,6 +155,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A1%AE%E8%AE%A4%E8%A2%AB%E7%88%B1%E5%90%8E%E9%9D%A2%E7%9B%B8%E9%83%BD%E5%8F%98%E4%BA%86%23" target="weibo">
 确认被爱后面相都变了（热度：239382）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E4%BD%B3%E5%AC%BF%E8%AE%A9%E8%AE%B8%E5%85%89%E6%B1%89%E4%B8%8D%E8%A6%81%E6%8A%8A%E8%AF%9D%E8%AF%B4%E6%AD%BB%23" target="weibo">
+柯佳嬿让许光汉不要把话说死（热度：239038）
 </a>
 </li>
 
@@ -171,26 +189,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E9%9B%A8%23" target="weibo">
-谷雨（热度：169756）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E4%BD%B3%E5%AC%BF%E8%AE%A9%E8%AE%B8%E5%85%89%E6%B1%89%E4%B8%8D%E8%A6%81%E6%8A%8A%E8%AF%9D%E8%AF%B4%E6%AD%BB%23" target="weibo">
-柯佳嬿让许光汉不要把话说死（热度：164335）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%BB%E4%BA%86%E4%B9%9D%E5%B9%B4%E7%9A%84%E4%BA%8C%E5%93%88%E7%AA%81%E7%84%B6%E6%94%BB%E5%87%BB%E5%AD%A9%E5%AD%90%23" target="weibo">
+养了九年的二哈突然攻击孩子（热度：175862）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E6%8A%8A%E6%B3%A1%E6%B3%A1%E8%A2%96%E6%8B%86%E4%BA%86%E7%A9%BF%E8%83%B3%E8%86%8A%E4%B8%8A%23" target="weibo">
 戚薇把泡泡袖拆了穿胳膊上（热度：163806）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%BB%E4%BA%86%E4%B9%9D%E5%B9%B4%E7%9A%84%E4%BA%8C%E5%93%88%E7%AA%81%E7%84%B6%E6%94%BB%E5%87%BB%E5%AD%A9%E5%AD%90%23" target="weibo">
-养了九年的二哈突然攻击孩子（热度：163250）
 </a>
 </li>
 
@@ -207,14 +213,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%81%AD%E5%96%9C%E8%87%AA%E5%B7%B1%E8%B5%B0%E8%BF%9B%E8%A7%82%E4%BC%97%E8%A7%86%E9%87%8E%23" target="weibo">
-白鹿恭喜自己走进观众视野（热度：147542）
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%85%B3%E6%99%93%E5%BD%A4%E5%90%8C%E6%A1%86%23" target="weibo">
+吴磊关晓彤同框（热度：145206）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%85%B3%E6%99%93%E5%BD%A4%E5%90%8C%E6%A1%86%23" target="weibo">
-吴磊关晓彤同框（热度：145206）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%9D%9A%E6%8C%81%E8%B8%AE%E8%84%9A%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96%23" target="weibo">
+每天坚持踮脚身体会发生什么变化（热度：145140）
 </a>
 </li>
 
@@ -225,20 +231,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%9D%9A%E6%8C%81%E8%B8%AE%E8%84%9A%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96%23" target="weibo">
-每天坚持踮脚身体会发生什么变化（热度：137600）
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%99%92%E4%B8%8E%E5%A4%A7%E8%8E%B2%E8%8A%B1%E5%90%88%E7%85%A7%23" target="weibo">
+周杰伦晒与大莲花合照（热度：135117）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%8E%A5%E5%8F%97%E5%91%A8%E6%9C%AB%E5%A4%AB%E5%A6%BB%E5%90%97%23" target="weibo">
+你接受周末夫妻吗（热度：129624）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 周杰伦演唱会（热度：125387）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%99%92%E4%B8%8E%E5%A4%A7%E8%8E%B2%E8%8A%B1%E5%90%88%E7%85%A7%23" target="weibo">
-周杰伦晒与大莲花合照（热度：124237）
 </a>
 </li>
 
@@ -257,12 +263,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%80%A7%E7%94%9F%E6%B4%BB%E6%8E%A5%E7%A7%8DHPV%E7%96%AB%E8%8B%97%E4%BB%8D%E6%97%A7%E6%9C%89%E6%95%88%23" target="weibo">
 有性生活接种HPV疫苗仍旧有效（热度：122211）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%8E%A5%E5%8F%97%E5%91%A8%E6%9C%AB%E5%A4%AB%E5%A6%BB%E5%90%97%23" target="weibo">
-你接受周末夫妻吗（热度：121303）
 </a>
 </li>
 
@@ -316,7 +316,19 @@ ttpd（热度：119831）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%A8%E7%94%9F%E7%99%BE%E8%B0%B7%E4%B8%94%E6%83%9C%E6%98%A5%E5%85%89%23" target="weibo">
-雨生百谷且惜春光（热度：90600）
+雨生百谷且惜春光（热度：93077）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%BA%E5%8F%AA%E8%88%8D%E5%BE%97%E5%9C%A8%E5%90%83%E4%B8%8A%E8%8A%B1%E9%92%B1%23" target="weibo">
+越来越多人只舍得在吃上花钱（热度：92498）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A70%E6%AF%941%E5%88%A9%E7%89%A9%E6%B5%A6%23" target="weibo">
+亚特兰大0比1利物浦（热度：90899）
 </a>
 </li>
 
@@ -345,32 +357,50 @@ ttpd（热度：119831）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%234%E4%B8%AA%E4%B9%A0%E6%83%AF%E5%AE%B9%E6%98%93%E5%AF%BC%E8%87%B4%E9%AA%A8%E7%9B%86%E5%89%8D%E5%80%BE%23" target="weibo">
+4个习惯容易导致骨盆前倾（热度：83083）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%B8%81%23" target="weibo">
 龙年纪念币（热度：78072）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%234%E4%B8%AA%E4%B9%A0%E6%83%AF%E5%AE%B9%E6%98%93%E5%AF%BC%E8%87%B4%E9%AA%A8%E7%9B%86%E5%89%8D%E5%80%BE%23" target="weibo">
-4个习惯容易导致骨盆前倾（热度：77943）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A6%E4%B8%80%E5%8D%8A%E7%9A%84%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E7%A1%AE%E8%AF%8A%E6%97%B6%E6%9C%89%E6%85%A2%E6%80%A7%E5%92%B3%E5%97%BD%23" target="weibo">
+约一半的肺癌患者确诊时有慢性咳嗽（热度：77723）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A9%E7%88%B1%E5%8E%BB%E4%BA%86%E7%81%B5%E9%9A%90%E5%AF%BA%23" target="weibo">
+张天爱去了灵隐寺（热度：74218）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E5%8C%97%E5%BD%B1%E8%8A%82%E7%83%AD%E8%81%8A%E5%88%B0%E5%93%BD%E5%92%BD%23" target="weibo">
+林志玲北影节热聊到哽咽（热度：73752）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%B7%8D%E5%B1%B1%E5%8E%BF4.2%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+云南巍山县4.2级地震（热度：73707）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%96%B0%E9%AB%98%E5%AE%9A%E9%A6%96%E7%A9%BF%23" target="weibo">
+唐嫣新高定首穿（热度：73639）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%82%A3%E7%99%8C%E4%B8%88%E5%A4%AB%E4%B8%BA%E9%98%BF%E5%B0%94%E5%85%B9%E6%B5%B7%E9%BB%98%E7%97%87%E5%A6%BB%E5%AD%90%E5%86%99%E4%B8%8B%E9%81%93%E5%88%AB%E4%BF%A1%23" target="weibo">
 患癌丈夫为阿尔兹海默症妻子写下道别信（热度：71624）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A6%E4%B8%80%E5%8D%8A%E7%9A%84%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E7%A1%AE%E8%AF%8A%E6%97%B6%E6%9C%89%E6%85%A2%E6%80%A7%E5%92%B3%E5%97%BD%23" target="weibo">
-约一半的肺癌患者确诊时有慢性咳嗽（热度：71032）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%96%B0%E9%AB%98%E5%AE%9A%E9%A6%96%E7%A9%BF%23" target="weibo">
-唐嫣新高定首穿（热度：68414）
 </a>
 </li>
 
@@ -387,14 +417,14 @@ ttpd（热度：119831）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%B7%8D%E5%B1%B1%E5%8E%BF4.2%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
-云南巍山县4.2级地震（热度：66923）
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%AE%B64%E5%8F%A3%E8%A2%AB%E6%9D%80%E5%AE%B3%23" target="weibo">
+警方通报广西一家4口被杀害（热度：65916）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A9%E7%88%B1%E5%8E%BB%E4%BA%86%E7%81%B5%E9%9A%90%E5%AF%BA%23" target="weibo">
-张天爱去了灵隐寺（热度：66613）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E4%B8%80%E4%B8%AA%E8%8A%82%E6%B0%94%E5%B0%B1%E5%88%B0%E5%A4%8F%E5%A4%A9%E4%BA%86%23" target="weibo">
+下一个节气就到夏天了（热度：64412）
 </a>
 </li>
 
@@ -423,14 +453,14 @@ ttpd（热度：119831）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%A0%E7%94%A8%E7%89%99%E7%BA%BF%E5%88%B6%E4%BD%9C%E7%88%B1%E7%A5%9E%E4%B9%8B%E7%AE%AD%23" target="weibo">
-教你用牙线制作爱神之箭（热度：53034）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%BD%BB%E6%9D%BE%E6%8B%BF%E6%8D%8F%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%92%8C%E5%BC%9F%E5%BC%9F%23" target="weibo">
+女孩轻松拿捏男朋友和弟弟（热度：54701）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A70%E6%AF%941%E5%88%A9%E7%89%A9%E6%B5%A6%23" target="weibo">
-亚特兰大0比1利物浦（热度：50732）
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%A0%E7%94%A8%E7%89%99%E7%BA%BF%E5%88%B6%E4%BD%9C%E7%88%B1%E7%A5%9E%E4%B9%8B%E7%AE%AD%23" target="weibo">
+教你用牙线制作爱神之箭（热度：53034）
 </a>
 </li>
 
