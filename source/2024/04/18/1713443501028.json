@@ -1,0 +1,410 @@
+{
+  "runTime": 1713443501028,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 890409,
+        "num": 890409,
+        "word": "樊振东vs林诗栋",
+        "onboard_time": 1713439638,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 817345,
+        "num": 817345,
+        "word": "学生出操死亡事件撤销涉事教师资格",
+        "onboard_time": 1713434719,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46236,
+        "num": 790280,
+        "word": "相约北影节",
+        "onboard_time": 1713429558,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 956159,
+        "num": 788438,
+        "word": "于正说祝绪丹事件是联手炒作",
+        "onboard_time": 1713440417,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 783466,
+        "num": 783466,
+        "word": "雷军不知道张颂文提车了没",
+        "onboard_time": 1713436277,
+        "rank": 4,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 700675,
+        "num": 700675,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1713442519,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 576863,
+        "num": 576863,
+        "word": "专家鼓励买到下铺的年轻人跟老人换位",
+        "onboard_time": 1713426258,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567669,
+        "num": 567669,
+        "word": "刘亦菲出图",
+        "onboard_time": 1713436938,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 563825,
+        "num": 563825,
+        "word": "刘昊然帅回来了",
+        "onboard_time": 1713441137,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240852,
+        "num": 560042,
+        "word": "患癌丈夫为阿尔兹海默症妻子写下道别信",
+        "onboard_time": 1713435077,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558326,
+        "num": 558326,
+        "word": "广州长隆回应暴雨前园内动物狂奔",
+        "onboard_time": 1713438379,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406921,
+        "num": 406921,
+        "word": "有性生活接种HPV疫苗仍旧有效",
+        "onboard_time": 1713441198,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 429299,
+        "num": 386498,
+        "word": "刘亦菲裙子好像钢丝球",
+        "onboard_time": 1713442638,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 350001,
+        "num": 350001,
+        "word": "LV大秀",
+        "onboard_time": 1713436458,
+        "rank": 13,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 346924,
+        "num": 346924,
+        "word": "周冬雨 人生眼妆",
+        "onboard_time": 1713439576,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 614883,
+        "num": 346099,
+        "word": "沙溢瘦了20斤",
+        "onboard_time": 1713430578,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343438,
+        "num": 343438,
+        "word": "芒果TV称众多用户不在意5秒开屏广告",
+        "onboard_time": 1713421899,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 321434,
+        "num": 321434,
+        "word": "LV手套",
+        "onboard_time": 1713441976,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 315151,
+        "num": 315151,
+        "word": "庆余年2",
+        "onboard_time": 1713426738,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307258,
+        "num": 307258,
+        "word": "关晓彤白纱高定",
+        "onboard_time": 1713436277,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 535700,
+        "num": 307202,
+        "word": "黄子韬比心 徐艺洋比耶",
+        "onboard_time": 1713435978,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517233,
+        "num": 306386,
+        "word": "姑父强奸猥亵侄女7年被判13年",
+        "onboard_time": 1713430459,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507627,
+        "num": 305523,
+        "word": "范丞丞 刚满18岁",
+        "onboard_time": 1713432677,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272448,
+        "num": 305071,
+        "word": "胡锡进建议恢复五一黄金周",
+        "onboard_time": 1713434660,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264121,
+        "num": 303855,
+        "word": "养了九年的二哈突然攻击孩子",
+        "onboard_time": 1713442519,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303814,
+        "num": 303814,
+        "word": "胡歌帮高圆圆整理裙摆",
+        "onboard_time": 1713433699,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 302939,
+        "num": 302939,
+        "word": "Amber断眉",
+        "onboard_time": 1713442577,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 273017,
+        "num": 273017,
+        "word": "酱园弄红毯只来了一个人",
+        "onboard_time": 1713433157,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134787,
+        "num": 255752,
+        "word": "班主任把家长合影设为壁纸",
+        "onboard_time": 1713426617,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122143,
+        "num": 254470,
+        "word": "81岁大爷花25元嫖娼被抓",
+        "onboard_time": 1713420978,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254359,
+        "num": 254359,
+        "word": "无限暖暖",
+        "onboard_time": 1713439638,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252931,
+        "num": 252931,
+        "word": "北影节开幕式内场",
+        "onboard_time": 1713443025,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243559,
+        "num": 243559,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1713442038,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239759,
+        "num": 239759,
+        "word": "吴磊好像穿礼服的汤姆猫",
+        "onboard_time": 1713442698,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93291,
+        "num": 239338,
+        "word": "年轻家庭购车什么是刚需",
+        "onboard_time": 1713439277,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239011,
+        "num": 239011,
+        "word": "删公婆好友后发超长文怼了公公",
+        "onboard_time": 1713436218,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61428,
+        "num": 225698,
+        "word": "LV大秀直击",
+        "onboard_time": 1713442638,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 223769,
+        "num": 223769,
+        "word": "理想发布会",
+        "onboard_time": 1713442818,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 205282,
+        "num": 205282,
+        "word": "晨起3个表现是肝在求救",
+        "onboard_time": 1713437719,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201008,
+        "num": 201008,
+        "word": "刘亦菲 马甲线",
+        "onboard_time": 1713427758,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189185,
+        "num": 189185,
+        "word": "王嘉尔小橘猫",
+        "onboard_time": 1713440477,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186187,
+        "num": 186187,
+        "word": "迪丽热巴漫画腿",
+        "onboard_time": 1713425658,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162614,
+        "num": 162614,
+        "word": "娄艺潇马面裙",
+        "onboard_time": 1713440116,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162151,
+        "num": 162151,
+        "word": "雷军回应何时做十万元平民车型",
+        "onboard_time": 1713442338,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 140036,
+        "num": 140036,
+        "word": "infj有成为大女主的潜质",
+        "onboard_time": 1713437599,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125710,
+        "num": 125710,
+        "word": "好久不见林志玲",
+        "onboard_time": 1713435918,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127888,
+        "num": 125610,
+        "word": "迪丽热巴说1米8以上很有安全感",
+        "onboard_time": 1713429798,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125205,
+        "num": 125205,
+        "word": "以闪亮之名宠物",
+        "onboard_time": 1713443299,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124771,
+        "num": 124771,
+        "word": "张艺兴MCD",
+        "onboard_time": 1713433457,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107519,
+        "num": 117072,
+        "word": "全红婵向跳水小队员传授水花消失术",
+        "onboard_time": 1713439218,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国交通发展日新月异#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713440060900,
+  "endTime": 1713443501028,
   "band_list": [
     {
       "raw_hot": 3132046,
@@ -227,6 +227,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 956159,
+      "num": 788438,
+      "word": "于正说祝绪丹事件是联手炒作",
+      "onboard_time": 1713440417,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 927525,
       "num": 927525,
       "word": "酱园弄红毯只来了一个人",
@@ -241,6 +249,14 @@
       "onboard_time": 1713426738,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 890409,
+      "num": 890409,
+      "word": "樊振东vs林诗栋",
+      "onboard_time": 1713439638,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 841934,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 786899,
-      "num": 283708,
+      "num": 306386,
       "word": "姑父强奸猥亵侄女7年被判13年",
       "onboard_time": 1713430459,
       "rank": 20,
@@ -297,6 +313,14 @@
       "onboard_time": 1713401178,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 783466,
+      "num": 783466,
+      "word": "雷军不知道张颂文提车了没",
+      "onboard_time": 1713436277,
+      "rank": 32,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 780131,
@@ -377,6 +401,14 @@
       "onboard_time": 1713369437,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 700675,
+      "num": 700675,
+      "word": "孙颖莎vs陈幸同",
+      "onboard_time": 1713442519,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 682708,
@@ -547,12 +579,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 563825,
+      "num": 563825,
+      "word": "刘昊然帅回来了",
+      "onboard_time": 1713441137,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 563682,
       "num": 394612,
       "word": "补水第一名的水果",
       "onboard_time": 1713407417,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 558326,
+      "num": 558326,
+      "word": "广州长隆回应暴雨前园内动物狂奔",
+      "onboard_time": 1713438379,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 555558,
@@ -585,14 +633,6 @@
       "onboard_time": 1713418218,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 544603,
-      "num": 544603,
-      "word": "雷军不知道张颂文提车了没",
-      "onboard_time": 1713436277,
-      "rank": 32,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 532441,
@@ -771,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 429299,
+      "num": 386498,
+      "word": "刘亦菲裙子好像钢丝球",
+      "onboard_time": 1713442638,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 424277,
       "num": 308818,
       "word": "黑龙江大学",
@@ -827,20 +875,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 406921,
+      "num": 406921,
+      "word": "有性生活接种HPV疫苗仍旧有效",
+      "onboard_time": 1713441198,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 402572,
       "num": 267509,
       "word": "删公婆好友后发超长文怼了公公",
       "onboard_time": 1713436218,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 402429,
-      "num": 402429,
-      "word": "樊振东vs林诗栋",
-      "onboard_time": 1713439638,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 402322,
@@ -963,6 +1011,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 346924,
+      "num": 346924,
+      "word": "周冬雨 人生眼妆",
+      "onboard_time": 1713439576,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 343848,
       "num": 343848,
       "word": "ZICO和Jennie合作曲试听",
@@ -1028,11 +1084,19 @@
     },
     {
       "raw_hot": 327150,
-      "num": 548740,
+      "num": 560042,
       "word": "患癌丈夫为阿尔兹海默症妻子写下道别信",
       "onboard_time": 1713435077,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321434,
+      "num": 321434,
+      "word": "LV手套",
+      "onboard_time": 1713441976,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 321120,
@@ -1073,6 +1137,14 @@
       "onboard_time": 1713327258,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 302939,
+      "num": 302939,
+      "word": "Amber断眉",
+      "onboard_time": 1713442577,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 300666,
@@ -1187,6 +1259,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 264121,
+      "num": 303855,
+      "word": "养了九年的二哈突然攻击孩子",
+      "onboard_time": 1713442519,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 262992,
       "num": 262992,
       "word": "实习生diss一梦江湖策划",
@@ -1251,6 +1331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 252931,
+      "num": 252931,
+      "word": "北影节开幕式内场",
+      "onboard_time": 1713443025,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 252718,
       "num": 252718,
       "word": "卿卿日常范帅琦昌隆二搭",
@@ -1299,6 +1387,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243559,
+      "num": 243559,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1713442038,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 239759,
+      "num": 239759,
+      "word": "吴磊好像穿礼服的汤姆猫",
+      "onboard_time": 1713442698,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239357,
       "num": 219029,
       "word": "周也油画里的少女",
@@ -1337,14 +1441,6 @@
       "onboard_time": 1713395835,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 229083,
-      "num": 236414,
-      "word": "广州长隆回应暴雨前园内动物狂奔",
-      "onboard_time": 1713438379,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228357,
@@ -1387,20 +1483,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 223769,
+      "num": 223769,
+      "word": "理想发布会",
+      "onboard_time": 1713442818,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 223253,
       "num": 223253,
       "word": "晨起3个表现是肝在求救",
       "onboard_time": 1713437719,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 221108,
-      "num": 205847,
-      "word": "周冬雨 人生眼妆",
-      "onboard_time": 1713439576,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 218771,
@@ -1731,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189185,
+      "num": 189185,
+      "word": "王嘉尔小橘猫",
+      "onboard_time": 1713440477,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188755,
       "num": 155537,
       "word": "费翔朱一龙同框",
@@ -1977,6 +2081,22 @@
       "onboard_time": 1713409759,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 162614,
+      "num": 162614,
+      "word": "娄艺潇马面裙",
+      "onboard_time": 1713440116,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 162151,
+      "num": 162151,
+      "word": "雷军回应何时做十万元平民车型",
+      "onboard_time": 1713442338,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 161769,
@@ -2388,7 +2508,7 @@
     },
     {
       "raw_hot": 125580,
-      "num": 171889,
+      "num": 239338,
       "word": "年轻家庭购车什么是刚需",
       "onboard_time": 1713439277,
       "rank": 35,
@@ -2401,6 +2521,14 @@
       "onboard_time": 1713397216,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 125205,
+      "num": 125205,
+      "word": "以闪亮之名宠物",
+      "onboard_time": 1713443299,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 124244,
@@ -2531,6 +2659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107519,
+      "num": 527659,
+      "word": "全红婵向跳水小队员传授水花消失术",
+      "onboard_time": 1713439218,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106072,
       "num": 113565,
       "word": "为什么会有人觉得不应该要彩礼",
@@ -2651,14 +2787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91100,
-      "num": 527659,
-      "word": "全红婵向跳水小队员传授水花消失术",
-      "onboard_time": 1713439218,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89823,
       "num": 89823,
       "word": "汉江小猫cha",
@@ -2761,6 +2889,14 @@
       "onboard_time": 1713364341,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 61428,
+      "num": 225698,
+      "word": "LV大秀直击",
+      "onboard_time": 1713442638,
+      "rank": 36,
+      "category": "时尚"
     },
     {
       "raw_hot": 56965,
