@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713429312091,
+  "endTime": 1713431904549,
   "band_list": [
     {
       "raw_hot": 3132046,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2102264,
-      "num": 2102264,
+      "raw_hot": 2595439,
+      "num": 2595439,
       "word": "专家鼓励买到下铺的年轻人跟老人换位",
       "onboard_time": 1713426258,
       "rank": 0,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 979406,
+      "num": 979406,
+      "word": "沙溢瘦了20斤",
+      "onboard_time": 1713430578,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 968253,
       "num": 968253,
       "word": "拜登称其舅舅在二战中被食人族吃掉",
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 781940,
+      "num": 283708,
+      "word": "姑父强奸猥亵侄女7年被判13年",
+      "onboard_time": 1713430459,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 780131,
       "num": 780131,
       "word": "35岁失业找工作有多难",
@@ -289,6 +305,14 @@
       "onboard_time": 1713408077,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 716636,
+      "num": 716636,
+      "word": "卧铺挂床帘当事年轻人发声",
+      "onboard_time": 1713427877,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 707049,
@@ -355,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 639829,
+      "num": 639829,
+      "word": "雷军 卡里没有冰冷的40亿",
+      "onboard_time": 1713430997,
+      "rank": 5,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 633885,
       "num": 633885,
       "word": "麒麟9010",
@@ -385,6 +417,22 @@
       "onboard_time": 1713422479,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 616685,
+      "num": 616685,
+      "word": "马龙说身体老有疼的地方",
+      "onboard_time": 1713426677,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 602969,
+      "num": 602969,
+      "word": "向佐向纪凌尘道歉",
+      "onboard_time": 1713429257,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 574342,
@@ -443,20 +491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 539677,
-      "num": 539677,
-      "word": "马龙说身体老有疼的地方",
-      "onboard_time": 1713426677,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 532441,
       "num": 532441,
       "word": "迪丽热巴 我的漂亮学姐",
       "onboard_time": 1713427037,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 524423,
+      "num": 559116,
+      "word": "班主任把家长合影设为壁纸",
+      "onboard_time": 1713426617,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 516117,
@@ -523,12 +571,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 493079,
-      "num": 493079,
-      "word": "卧铺挂床帘当事年轻人发声",
-      "onboard_time": 1713427877,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 495234,
+      "num": 495234,
+      "word": "刘亦菲 马甲线",
+      "onboard_time": 1713427758,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 485312,
@@ -667,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400070,
-      "num": 400070,
-      "word": "刘亦菲 马甲线",
-      "onboard_time": 1713427758,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 399626,
       "num": 399626,
       "word": "李耕耘健身成果",
@@ -689,14 +729,6 @@
       "onboard_time": 1713414500,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 394313,
-      "num": 559116,
-      "word": "班主任把家长合影设为壁纸",
-      "onboard_time": 1713426617,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 394094,
@@ -827,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 329989,
+      "num": 286640,
+      "word": "迪丽热巴说1米8以上很有安全感",
+      "onboard_time": 1713429798,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327770,
       "num": 327770,
       "word": "食物语永不关服",
@@ -841,6 +881,14 @@
       "onboard_time": 1713368897,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 321120,
+      "num": 279839,
+      "word": "丁真走红毯",
+      "onboard_time": 1713429437,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 321001,
@@ -891,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291118,
+      "num": 261608,
+      "word": "周也美得很安心",
+      "onboard_time": 1713430459,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 285743,
       "num": 285743,
       "word": "成都重庆燃气集团股东涉同家公司",
@@ -937,6 +993,30 @@
       "onboard_time": 1713408138,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 273064,
+      "num": 260694,
+      "word": "易烊千玺说小小的我今年上",
+      "onboard_time": 1713429618,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 270613,
+      "num": 270613,
+      "word": "雷军 顶流",
+      "onboard_time": 1713430878,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 264223,
+      "num": 264223,
+      "word": "雷军抽奖",
+      "onboard_time": 1713430698,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 262992,
@@ -1019,6 +1099,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 244852,
+      "num": 244852,
+      "word": "这是一个爸爸最接受不了的画面",
+      "onboard_time": 1713431180,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 244774,
       "num": 244774,
       "word": "开始推理吧发布会",
@@ -1067,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228357,
+      "num": 228357,
+      "word": "丁真合照让C位",
+      "onboard_time": 1713430518,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 227766,
       "num": 227766,
       "word": "皇马晋级欧冠四强",
@@ -1097,6 +1193,14 @@
       "onboard_time": 1713372016,
       "rank": 24,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 218771,
+      "num": 239979,
+      "word": "逃离大厂后我考公上岸",
+      "onboard_time": 1713429558,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218107,
@@ -1227,6 +1331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201660,
+      "num": 167371,
+      "word": "黄俊捷北影节红毯生图",
+      "onboard_time": 1713430758,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200212,
       "num": 200212,
       "word": "哈兰德 隐身",
@@ -1313,6 +1425,14 @@
       "onboard_time": 1713396196,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192036,
+      "num": 165991,
+      "word": "胡先煦拿玫瑰花走红毯",
+      "onboard_time": 1713429077,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 191946,
@@ -1507,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165925,
+      "num": 165925,
+      "word": "RIIZE回归先行曲",
+      "onboard_time": 1713431840,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165710,
       "num": 165710,
       "word": "76人险胜热火",
@@ -1561,6 +1689,14 @@
       "onboard_time": 1713423618,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158241,
+      "num": 158241,
+      "word": "米哈游带火砂金石销量",
+      "onboard_time": 1713430038,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 158072,
@@ -1627,12 +1763,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152326,
+      "num": 152326,
+      "word": "faye开通微博",
+      "onboard_time": 1713431417,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151573,
       "num": 151573,
       "word": "P70能拍清时速300公里",
       "onboard_time": 1713421278,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 150506,
+      "num": 150506,
+      "word": "WTT太原赛国乒名单",
+      "onboard_time": 1713430098,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 149732,
@@ -1715,14 +1867,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 142190,
-      "num": 132692,
-      "word": "胡先煦拿玫瑰花走红毯",
-      "onboard_time": 1713429077,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 141200,
       "num": 141200,
       "word": "论文查重",
@@ -1763,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137149,
+      "num": 137149,
+      "word": "外交部回应美方返还38件中国流失文物",
+      "onboard_time": 1713431479,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 137103,
       "num": 137103,
       "word": "射手座的精神洁癖",
@@ -1793,6 +1945,14 @@
       "onboard_time": 1713402797,
       "rank": 39,
       "category": "旅游,网红"
+    },
+    {
+      "raw_hot": 131504,
+      "num": 131504,
+      "word": "母亲在游戏里怀念去世儿子",
+      "onboard_time": 1713429319,
+      "rank": 49,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 130341,
@@ -1883,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120301,
+      "num": 166883,
+      "word": "今天发条微博接文物回家",
+      "onboard_time": 1713430220,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117718,
       "num": 117718,
       "word": "拜仁vs阿森纳",
@@ -1896,14 +2064,6 @@
       "word": "肖战蓝白look",
       "onboard_time": 1713385030,
       "rank": 49,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 114998,
-      "num": 114998,
-      "word": "向佐向纪凌尘道歉",
-      "onboard_time": 1713429257,
-      "rank": 48,
       "category": "作品衍生"
     },
     {
@@ -2211,12 +2371,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 46751,
+      "num": 767473,
+      "word": "相约北影节",
+      "onboard_time": 1713429558,
+      "rank": 2,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40575,
       "num": 1001460,
       "word": "春好正是耕种时",
       "onboard_time": 1713411918,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38801,
+      "num": 228666,
+      "word": "18万为家人买最好的车",
+      "onboard_time": 1713431059,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 35049,

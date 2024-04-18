@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713429312091,
+  "endTime": 1713431904549,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -73,6 +73,14 @@
       "onboard_time": 1713172338,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2595439,
+      "num": 2595439,
+      "word": "专家鼓励买到下铺的年轻人跟老人换位",
+      "onboard_time": 1713426258,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2528771,
@@ -151,14 +159,6 @@
       "num": 2147550,
       "word": "重庆地铁站被砸孕妇心跳已停2次",
       "onboard_time": 1713226218,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2102264,
-      "num": 2102264,
-      "word": "专家鼓励买到下铺的年轻人跟老人换位",
-      "onboard_time": 1713426258,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -891,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 979406,
+      "num": 979406,
+      "word": "沙溢瘦了20斤",
+      "onboard_time": 1713430578,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 978450,
       "num": 978450,
       "word": "吴磊半裸骑行",
@@ -1403,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 781940,
+      "num": 283708,
+      "word": "姑父强奸猥亵侄女7年被判13年",
+      "onboard_time": 1713430459,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 781839,
       "num": 781839,
       "word": "济南公安",
@@ -1683,6 +1699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 716636,
+      "num": 716636,
+      "word": "卧铺挂床帘当事年轻人发声",
+      "onboard_time": 1713427877,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 715759,
       "num": 715759,
       "word": "iPhone16Pro起步存储或为256GB",
@@ -1923,6 +1947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 639829,
+      "num": 639829,
+      "word": "雷军 卡里没有冰冷的40亿",
+      "onboard_time": 1713430997,
+      "rank": 5,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 638695,
       "num": 638695,
       "word": "薛之谦演唱会眼镜哥回应",
@@ -2051,6 +2083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 616685,
+      "num": 616685,
+      "word": "马龙说身体老有疼的地方",
+      "onboard_time": 1713426677,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 612786,
       "num": 612786,
       "word": "美军帮以击落几乎所有无人机导弹",
@@ -2073,6 +2113,14 @@
       "onboard_time": 1713094159,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 602969,
+      "num": 602969,
+      "word": "向佐向纪凌尘道歉",
+      "onboard_time": 1713429257,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 602274,
@@ -2467,14 +2515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 539677,
-      "num": 539677,
-      "word": "马龙说身体老有疼的地方",
-      "onboard_time": 1713426677,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 536636,
       "num": 536636,
       "word": "AJ被强制下播",
@@ -2561,6 +2601,14 @@
       "onboard_time": 1713192979,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 524423,
+      "num": 559116,
+      "word": "班主任把家长合影设为壁纸",
+      "onboard_time": 1713426617,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 523695,
@@ -2859,6 +2907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 495234,
+      "num": 495234,
+      "word": "刘亦菲 马甲线",
+      "onboard_time": 1713427758,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 494513,
       "num": 494513,
       "word": "Jennie辛芷蕾撞衫",
@@ -2881,14 +2937,6 @@
       "onboard_time": 1713080237,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 493079,
-      "num": 493079,
-      "word": "卧铺挂床帘当事年轻人发声",
-      "onboard_time": 1713427877,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 491579,
@@ -3763,14 +3811,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 400070,
-      "num": 400070,
-      "word": "刘亦菲 马甲线",
-      "onboard_time": 1713427758,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 399626,
       "num": 399626,
       "word": "李耕耘健身成果",
@@ -3865,14 +3905,6 @@
       "onboard_time": 1713330321,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 394313,
-      "num": 559116,
-      "word": "班主任把家长合影设为壁纸",
-      "onboard_time": 1713426617,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 394127,
@@ -4691,6 +4723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329989,
+      "num": 286640,
+      "word": "迪丽热巴说1米8以上很有安全感",
+      "onboard_time": 1713429798,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329376,
       "num": 329376,
       "word": "砂金",
@@ -4809,6 +4849,14 @@
       "onboard_time": 1713020720,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321120,
+      "num": 279839,
+      "word": "丁真走红毯",
+      "onboard_time": 1713429437,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 321001,
@@ -5235,6 +5283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 291118,
+      "num": 261608,
+      "word": "周也美得很安心",
+      "onboard_time": 1713430459,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 290768,
       "num": 290768,
       "word": "伊朗空袭以色列当地华人发声",
@@ -5547,6 +5603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273064,
+      "num": 260694,
+      "word": "易烊千玺说小小的我今年上",
+      "onboard_time": 1713429618,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 272824,
       "num": 246653,
       "word": "刘亦菲 LV大秀",
@@ -5577,6 +5641,14 @@
       "onboard_time": 1713180977,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 270613,
+      "num": 270613,
+      "word": "雷军 顶流",
+      "onboard_time": 1713430878,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 270331,
@@ -5681,6 +5753,14 @@
       "onboard_time": 1713049994,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 264223,
+      "num": 264223,
+      "word": "雷军抽奖",
+      "onboard_time": 1713430698,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 264161,
@@ -6113,6 +6193,14 @@
       "onboard_time": 1713327740,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244852,
+      "num": 244852,
+      "word": "这是一个爸爸最接受不了的画面",
+      "onboard_time": 1713431180,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 244774,
@@ -6595,6 +6683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228357,
+      "num": 228357,
+      "word": "丁真合照让C位",
+      "onboard_time": 1713430518,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 228257,
       "num": 228257,
       "word": "任敏是李现的胳肢窝",
@@ -6865,6 +6961,14 @@
       "onboard_time": 1713105559,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218771,
+      "num": 239979,
+      "word": "逃离大厂后我考公上岸",
+      "onboard_time": 1713429558,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218718,
@@ -7643,6 +7747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201660,
+      "num": 167371,
+      "word": "黄俊捷北影节红毯生图",
+      "onboard_time": 1713430758,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201387,
       "num": 201387,
       "word": "奔跑吧",
@@ -8129,6 +8241,14 @@
       "onboard_time": 1713326419,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192036,
+      "num": 165991,
+      "word": "胡先煦拿玫瑰花走红毯",
+      "onboard_time": 1713429077,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 191946,
@@ -9395,6 +9515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165925,
+      "num": 165925,
+      "word": "RIIZE回归先行曲",
+      "onboard_time": 1713431840,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165710,
       "num": 165710,
       "word": "76人险胜热火",
@@ -9737,6 +9865,14 @@
       "onboard_time": 1713089777,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158241,
+      "num": 158241,
+      "word": "米哈游带火砂金石销量",
+      "onboard_time": 1713430038,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 158234,
@@ -10163,6 +10299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152326,
+      "num": 152326,
+      "word": "faye开通微博",
+      "onboard_time": 1713431417,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152157,
       "num": 133195,
       "word": "张颂文进组",
@@ -10257,6 +10401,14 @@
       "onboard_time": 1713164658,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150506,
+      "num": 150506,
+      "word": "WTT太原赛国乒名单",
+      "onboard_time": 1713430098,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 150134,
@@ -10843,14 +10995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142190,
-      "num": 132692,
-      "word": "胡先煦拿玫瑰花走红毯",
-      "onboard_time": 1713429077,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 141726,
       "num": 141726,
       "word": "高海宁一句话让纪凌尘红了眼眶",
@@ -11091,6 +11235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137149,
+      "num": 137149,
+      "word": "外交部回应美方返还38件中国流失文物",
+      "onboard_time": 1713431479,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 136817,
       "num": 136817,
       "word": "重庆一地铁站石砖脱落砸中孕妇",
@@ -11313,6 +11465,14 @@
       "onboard_time": 1713192920,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131504,
+      "num": 131504,
+      "word": "母亲在游戏里怀念去世儿子",
+      "onboard_time": 1713429319,
+      "rank": 49,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 131425,
@@ -11883,6 +12043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120301,
+      "num": 166883,
+      "word": "今天发条微博接文物回家",
+      "onboard_time": 1713430220,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120067,
       "num": 120067,
       "word": "谷雨",
@@ -12017,14 +12185,6 @@
       "onboard_time": 1713160518,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114998,
-      "num": 114998,
-      "word": "向佐向纪凌尘道歉",
-      "onboard_time": 1713429257,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 114927,
@@ -13091,6 +13251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 46751,
+      "num": 767473,
+      "word": "相约北影节",
+      "onboard_time": 1713429558,
+      "rank": 2,
+      "category": "电影"
+    },
+    {
       "raw_hot": 45804,
       "num": 926155,
       "word": "总体国家安全观主题宣传片护你安澜",
@@ -13177,6 +13345,14 @@
       "onboard_time": 1713032712,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 38801,
+      "num": 228666,
+      "word": "18万为家人买最好的车",
+      "onboard_time": 1713431059,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 37512,

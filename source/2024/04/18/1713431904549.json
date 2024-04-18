@@ -1,0 +1,410 @@
+{
+  "runTime": 1713431904549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2595439,
+        "num": 2595439,
+        "word": "专家鼓励买到下铺的年轻人跟老人换位",
+        "onboard_time": 1713426258,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979406,
+        "num": 979406,
+        "word": "沙溢瘦了20斤",
+        "onboard_time": 1713430578,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46751,
+        "num": 767473,
+        "word": "相约北影节",
+        "onboard_time": 1713429558,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 716636,
+        "num": 716636,
+        "word": "卧铺挂床帘当事年轻人发声",
+        "onboard_time": 1713427877,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682455,
+        "num": 682455,
+        "word": "迪丽热巴漫画腿",
+        "onboard_time": 1713425658,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 639829,
+        "num": 639829,
+        "word": "雷军 卡里没有冰冷的40亿",
+        "onboard_time": 1713430997,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 616685,
+        "num": 616685,
+        "word": "马龙说身体老有疼的地方",
+        "onboard_time": 1713426677,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 610969,
+        "num": 610969,
+        "word": "庆余年2",
+        "onboard_time": 1713426738,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 602969,
+        "num": 602969,
+        "word": "向佐向纪凌尘道歉",
+        "onboard_time": 1713429257,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 524423,
+        "num": 524423,
+        "word": "班主任把家长合影设为壁纸",
+        "onboard_time": 1713426617,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 549882,
+        "num": 515654,
+        "word": "81岁大爷花25元嫖娼被抓",
+        "onboard_time": 1713420978,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495234,
+        "num": 495234,
+        "word": "刘亦菲 马甲线",
+        "onboard_time": 1713427758,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 443555,
+        "num": 443555,
+        "word": "小警犬考试没及格委屈到不行",
+        "onboard_time": 1713420679,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 416238,
+        "num": 416238,
+        "word": "于正想跟庆余年2撞档期",
+        "onboard_time": 1713422658,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398133,
+        "num": 398133,
+        "word": "迪丽热巴 我的漂亮学姐",
+        "onboard_time": 1713427037,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395870,
+        "num": 395870,
+        "word": "调休",
+        "onboard_time": 1713426438,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392317,
+        "num": 392317,
+        "word": "雷军直播",
+        "onboard_time": 1713427278,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 351367,
+        "num": 351367,
+        "word": "林彦俊 卖书",
+        "onboard_time": 1713424158,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290351,
+        "num": 290351,
+        "word": "32岁交了个11岁的朋友",
+        "onboard_time": 1713415879,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329989,
+        "num": 286640,
+        "word": "迪丽热巴说1米8以上很有安全感",
+        "onboard_time": 1713429798,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 781940,
+        "num": 283708,
+        "word": "姑父强奸猥亵侄女7年被判13年",
+        "onboard_time": 1713430459,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321120,
+        "num": 279839,
+        "word": "丁真走红毯",
+        "onboard_time": 1713429437,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 315149,
+        "num": 272520,
+        "word": "韩亿 出轨",
+        "onboard_time": 1713404777,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 270613,
+        "num": 270613,
+        "word": "雷军 顶流",
+        "onboard_time": 1713430878,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 264223,
+        "num": 264223,
+        "word": "雷军抽奖",
+        "onboard_time": 1713430698,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 291118,
+        "num": 261608,
+        "word": "周也美得很安心",
+        "onboard_time": 1713430459,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273064,
+        "num": 260694,
+        "word": "易烊千玺说小小的我今年上",
+        "onboard_time": 1713429618,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244852,
+        "num": 244852,
+        "word": "这是一个爸爸最接受不了的画面",
+        "onboard_time": 1713431180,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218771,
+        "num": 239979,
+        "word": "逃离大厂后我考公上岸",
+        "onboard_time": 1713429558,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196949,
+        "num": 236310,
+        "word": "人民网评卧铺挂帘子",
+        "onboard_time": 1713427938,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236113,
+        "num": 236113,
+        "word": "王栎鑫抢票",
+        "onboard_time": 1713425898,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229837,
+        "num": 229837,
+        "word": "林俊杰唱了为蔡依林写的歌",
+        "onboard_time": 1713424218,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38801,
+        "num": 228666,
+        "word": "18万为家人买最好的车",
+        "onboard_time": 1713431059,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 228357,
+        "num": 228357,
+        "word": "丁真合照让C位",
+        "onboard_time": 1713430518,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176772,
+        "num": 222375,
+        "word": "反对调休的声音不能装作听不到",
+        "onboard_time": 1713405739,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217200,
+        "num": 217200,
+        "word": "李耕耘健身成果",
+        "onboard_time": 1713424158,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206458,
+        "num": 206458,
+        "word": "王一博汤唯 许我向你看",
+        "onboard_time": 1713422479,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175296,
+        "num": 175296,
+        "word": "三年没聊过天的大学同学突然表白",
+        "onboard_time": 1713423799,
+        "rank": 37,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 168052,
+        "num": 168052,
+        "word": "芒果TV称众多用户不在意5秒开屏广告",
+        "onboard_time": 1713421899,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157334,
+        "num": 167804,
+        "word": "女子因带娃问题跟公公口角被扇9巴掌",
+        "onboard_time": 1713417678,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201660,
+        "num": 167371,
+        "word": "黄俊捷北影节红毯生图",
+        "onboard_time": 1713430758,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120301,
+        "num": 166883,
+        "word": "今天发条微博接文物回家",
+        "onboard_time": 1713430220,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192036,
+        "num": 165991,
+        "word": "胡先煦拿玫瑰花走红毯",
+        "onboard_time": 1713429077,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165925,
+        "num": 165925,
+        "word": "RIIZE回归先行曲",
+        "onboard_time": 1713431840,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159000,
+        "num": 159000,
+        "word": "舒畅怎么又瘦了",
+        "onboard_time": 1713420797,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158241,
+        "num": 158241,
+        "word": "米哈游带火砂金石销量",
+        "onboard_time": 1713430038,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152326,
+        "num": 152326,
+        "word": "faye开通微博",
+        "onboard_time": 1713431417,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150506,
+        "num": 150506,
+        "word": "WTT太原赛国乒名单",
+        "onboard_time": 1713430098,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137149,
+        "num": 137149,
+        "word": "外交部回应美方返还38件中国流失文物",
+        "onboard_time": 1713431479,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131504,
+        "num": 131504,
+        "word": "母亲在游戏里怀念去世儿子",
+        "onboard_time": 1713429319,
+        "rank": 49,
+        "category": "游戏,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国交通发展日新月异#"
+    }
+  }
+}
