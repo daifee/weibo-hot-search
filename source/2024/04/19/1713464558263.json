@@ -1,0 +1,410 @@
+{
+  "runTime": 1713464558263,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 243805,
+        "num": 243805,
+        "word": "男子买4600台手机刷好评4个月赚300万",
+        "onboard_time": 1713456615,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166851,
+        "num": 166851,
+        "word": "雷军说小米不会造相机",
+        "onboard_time": 1713456858,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 11503,
+        "num": 155106,
+        "word": "景海鹏朱杨柱桂海潮获航天功勋奖章",
+        "onboard_time": 1713446058,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152502,
+        "num": 152502,
+        "word": "鹿晗泰国",
+        "onboard_time": 1713452359,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146153,
+        "num": 146153,
+        "word": "晨起3个表现是肝在求救",
+        "onboard_time": 1713437719,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105786,
+        "num": 105786,
+        "word": "电子宠物",
+        "onboard_time": 1713459134,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98141,
+        "num": 98141,
+        "word": "专家鼓励买到下铺的年轻人跟老人换位",
+        "onboard_time": 1713426258,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92607,
+        "num": 92607,
+        "word": "小龙虾身价暴跌",
+        "onboard_time": 1713445217,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 90463,
+        "num": 90463,
+        "word": "蔡依林说贵州没有不好吃的",
+        "onboard_time": 1713454159,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20712,
+        "num": 88876,
+        "word": "患癌丈夫为阿尔兹海默症妻子写下道别信",
+        "onboard_time": 1713435077,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88178,
+        "num": 88178,
+        "word": "林志玲 内娱美届纯元皇后",
+        "onboard_time": 1713448038,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72017,
+        "num": 72017,
+        "word": "柯南小兰婚纱图",
+        "onboard_time": 1713454937,
+        "rank": 11,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 71733,
+        "num": 71733,
+        "word": "雷军不知道张颂文提车了没",
+        "onboard_time": 1713436277,
+        "rank": 12,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 71194,
+        "num": 71194,
+        "word": "蒋勤勤摔了",
+        "onboard_time": 1713451279,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68315,
+        "num": 68315,
+        "word": "庆余年 短剧",
+        "onboard_time": 1713452480,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66000,
+        "num": 66000,
+        "word": "黄牛卖十个勤天大米",
+        "onboard_time": 1713458595,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64806,
+        "num": 64806,
+        "word": "台娱捧红许光汉 港娱能捧谁",
+        "onboard_time": 1713451159,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62132,
+        "num": 62132,
+        "word": "周深受邀参加联合国第十五届中文日",
+        "onboard_time": 1713457217,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51448,
+        "num": 51448,
+        "word": "宋茜G社生图",
+        "onboard_time": 1713451820,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32896,
+        "num": 51442,
+        "word": "雨果淘汰",
+        "onboard_time": 1713451639,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114445,
+        "num": 51442,
+        "word": "刘亦菲裙子好像钢丝球",
+        "onboard_time": 1713442638,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 86562,
+        "num": 51442,
+        "word": "刘昊然帅回来了",
+        "onboard_time": 1713441137,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51442,
+        "num": 51441,
+        "word": "青环5是Kpop团建吧",
+        "onboard_time": 1713455478,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63433,
+        "num": 51280,
+        "word": "姑父强奸猥亵侄女7年被判13年",
+        "onboard_time": 1713430459,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52185,
+        "num": 50757,
+        "word": "删公婆好友后发超长文怼了公公",
+        "onboard_time": 1713436218,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69189,
+        "num": 50607,
+        "word": "张颖颖将起诉张兰",
+        "onboard_time": 1713447137,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49393,
+        "num": 49393,
+        "word": "养了九年的二哈突然攻击孩子",
+        "onboard_time": 1713442519,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45640,
+        "num": 45640,
+        "word": "金牛座生日快乐",
+        "onboard_time": 1713453918,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35880,
+        "num": 42128,
+        "word": "每天坚持踮脚身体会发生什么变化",
+        "onboard_time": 1713457455,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 26467,
+        "num": 41560,
+        "word": "王楚钦vs雨果",
+        "onboard_time": 1713446899,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41246,
+        "num": 41246,
+        "word": "人生 易如反掌",
+        "onboard_time": 1713459794,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36816,
+        "num": 36816,
+        "word": "周杰伦是会选日子的",
+        "onboard_time": 1713457635,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36429,
+        "num": 36429,
+        "word": "沙溢瘦了20斤",
+        "onboard_time": 1713430578,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36171,
+        "num": 36171,
+        "word": "戚薇把泡泡袖拆了穿胳膊上",
+        "onboard_time": 1713446899,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35118,
+        "num": 35118,
+        "word": "确认被爱后面相都变了",
+        "onboard_time": 1713451039,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32956,
+        "num": 32956,
+        "word": "ttpd",
+        "onboard_time": 1713456677,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32814,
+        "num": 32814,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1713442038,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32036,
+        "num": 32036,
+        "word": "有性生活接种HPV疫苗仍旧有效",
+        "onboard_time": 1713441198,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31402,
+        "num": 31402,
+        "word": "朱一龙 最年轻评委",
+        "onboard_time": 1713448879,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20362,
+        "num": 30450,
+        "word": "樊振东让人看到了那颗最想赢的心",
+        "onboard_time": 1713446479,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30083,
+        "num": 30083,
+        "word": "张天爱去了灵隐寺",
+        "onboard_time": 1713460153,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30015,
+        "num": 30015,
+        "word": "燥候TTPD",
+        "onboard_time": 1713464111,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 29288,
+        "num": 29288,
+        "word": "男子酒后骚扰女孩还打家长",
+        "onboard_time": 1713453080,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28439,
+        "num": 29283,
+        "word": "你接受周末夫妻吗",
+        "onboard_time": 1713447799,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27571,
+        "num": 29281,
+        "word": "于正说祝绪丹事件是联手炒作",
+        "onboard_time": 1713440417,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27281,
+        "num": 29274,
+        "word": "张远也要失联了",
+        "onboard_time": 1713451220,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25870,
+        "num": 29270,
+        "word": "张艺兴开始打歌了",
+        "onboard_time": 1713455058,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25698,
+        "num": 29264,
+        "word": "氯雷他定可能是疗效最差的药物",
+        "onboard_time": 1713464051,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21417,
+        "num": 29260,
+        "word": "雷军称坦克700气势不输百万级SUV",
+        "onboard_time": 1713449359,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 20159,
+        "num": 29254,
+        "word": "樊振东4比3林诗栋",
+        "onboard_time": 1713444257,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#发挥超大市场优势和内需潜力为各国合作提供更多机遇#"
+    }
+  }
+}

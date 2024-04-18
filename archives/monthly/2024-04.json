@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713461645419,
+  "endTime": 1713464558263,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -47275,6 +47275,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 105786,
+      "num": 105786,
+      "word": "电子宠物",
+      "onboard_time": 1713459134,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105699,
       "num": 105699,
       "word": "RNG战队CEO说绝不出卖战队荣誉",
@@ -49363,14 +49371,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 66049,
-      "num": 66049,
-      "word": "电子宠物",
-      "onboard_time": 1713459134,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 65786,
       "num": 1051475,
       "word": "海南首个卫星超级工厂项目加快推动",
@@ -50827,6 +50827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30015,
+      "num": 30015,
+      "word": "燥候TTPD",
+      "onboard_time": 1713464111,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 29757,
       "num": 29757,
       "word": "英雄联盟维护",
@@ -51065,6 +51073,14 @@
       "onboard_time": 1713204551,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25698,
+      "num": 29264,
+      "word": "氯雷他定可能是疗效最差的药物",
+      "onboard_time": 1713464051,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 25511,
@@ -51763,6 +51779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11503,
+      "num": 269122,
+      "word": "景海鹏朱杨柱桂海潮获航天功勋奖章",
+      "onboard_time": 1713446058,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11416,
       "num": 139055,
       "word": "P5X漫展试玩",
@@ -51777,14 +51801,6 @@
       "onboard_time": 1713070518,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 10685,
-      "num": 269122,
-      "word": "景海鹏朱杨柱桂海潮获航天功勋奖章",
-      "onboard_time": 1713446058,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8134,

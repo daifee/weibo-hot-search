@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713461645419,
+  "endTime": 1713464558263,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -13507,6 +13507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105786,
+      "num": 105786,
+      "word": "电子宠物",
+      "onboard_time": 1713459134,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105621,
       "num": 356840,
       "word": "什么叫citywork",
@@ -14115,14 +14123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 66049,
-      "num": 66049,
-      "word": "电子宠物",
-      "onboard_time": 1713459134,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 65173,
       "num": 65173,
       "word": "周杰伦和伍佰之间只缺一个站姐",
@@ -14611,6 +14611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 30015,
+      "num": 30015,
+      "word": "燥候TTPD",
+      "onboard_time": 1713464111,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 29755,
       "num": 1192192,
       "word": "聚焦2024年消博会",
@@ -14713,6 +14721,14 @@
       "onboard_time": 1713204551,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25698,
+      "num": 29264,
+      "word": "氯雷他定可能是疗效最差的药物",
+      "onboard_time": 1713464051,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 24445,
@@ -14859,20 +14875,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11503,
+      "num": 269122,
+      "word": "景海鹏朱杨柱桂海潮获航天功勋奖章",
+      "onboard_time": 1713446058,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11175,
       "num": 172678,
       "word": "P5X又又出了湖南话配音",
       "onboard_time": 1713070518,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 10685,
-      "num": 269122,
-      "word": "景海鹏朱杨柱桂海潮获航天功勋奖章",
-      "onboard_time": 1713446058,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
