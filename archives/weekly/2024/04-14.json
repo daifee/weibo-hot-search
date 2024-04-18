@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713443501028,
+  "endTime": 1713444381158,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -1611,6 +1611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 755833,
+      "num": 755833,
+      "word": "孙颖莎vs陈幸同",
+      "onboard_time": 1713442519,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 754715,
       "num": 754715,
       "word": "小新被WE开除",
@@ -1689,6 +1697,14 @@
       "onboard_time": 1713172757,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 738598,
+      "num": 738598,
+      "word": "刘昊然帅回来了",
+      "onboard_time": 1713441137,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 738179,
@@ -1833,14 +1849,6 @@
       "onboard_time": 1713102978,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 700675,
-      "num": 700675,
-      "word": "孙颖莎vs陈幸同",
-      "onboard_time": 1713442519,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 691935,
@@ -1993,6 +2001,14 @@
       "onboard_time": 1713418039,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 647462,
+      "num": 647462,
+      "word": "刘亦菲裙子好像钢丝球",
+      "onboard_time": 1713442638,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 646735,
@@ -2459,14 +2475,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 563825,
-      "num": 563825,
-      "word": "刘昊然帅回来了",
-      "onboard_time": 1713441137,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 563682,
       "num": 394612,
       "word": "补水第一名的水果",
@@ -2483,6 +2491,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 560596,
+      "num": 560596,
+      "word": "广州长隆回应暴雨前园内动物狂奔",
+      "onboard_time": 1713438379,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559106,
       "num": 559106,
       "word": "李耕耘的李白",
@@ -2497,14 +2513,6 @@
       "onboard_time": 1713282618,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 558326,
-      "num": 558326,
-      "word": "广州长隆回应暴雨前园内动物狂奔",
-      "onboard_time": 1713438379,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 556839,
@@ -3675,14 +3683,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 429299,
-      "num": 386498,
-      "word": "刘亦菲裙子好像钢丝球",
-      "onboard_time": 1713442638,
-      "rank": 12,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 428936,
       "num": 379546,
       "word": "金采源发竖中指视频秒删",
@@ -3697,6 +3697,14 @@
       "onboard_time": 1713345799,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427730,
+      "num": 427730,
+      "word": "有性生活接种HPV疫苗仍旧有效",
+      "onboard_time": 1713441198,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 427633,
@@ -3769,6 +3777,14 @@
       "onboard_time": 1713270439,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 419876,
+      "num": 419876,
+      "word": "Amber断眉",
+      "onboard_time": 1713442577,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 419789,
@@ -3905,14 +3921,6 @@
       "onboard_time": 1713228620,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 406921,
-      "num": 406921,
-      "word": "有性生活接种HPV疫苗仍旧有效",
-      "onboard_time": 1713441198,
-      "rank": 11,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 406870,
@@ -4507,6 +4515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 366415,
+      "num": 366415,
+      "word": "LV手套",
+      "onboard_time": 1713441976,
+      "rank": 17,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 366035,
       "num": 366035,
       "word": "妈妈做的糖被室友一晚上造没了一半",
@@ -4697,6 +4713,14 @@
       "onboard_time": 1713169878,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 351690,
+      "num": 303855,
+      "word": "养了九年的二哈突然攻击孩子",
+      "onboard_time": 1713442519,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 351160,
@@ -4939,6 +4963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 329073,
+      "num": 329073,
+      "word": "北影节开幕式内场",
+      "onboard_time": 1713443025,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 327516,
       "num": 363251,
       "word": "wtt",
@@ -5051,14 +5083,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 321434,
-      "num": 321434,
-      "word": "LV手套",
-      "onboard_time": 1713441976,
-      "rank": 17,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 321328,
       "num": 321328,
       "word": "四川彭州一养猪场发生中毒事故致7死",
@@ -5097,6 +5121,14 @@
       "onboard_time": 1713091939,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319720,
+      "num": 319720,
+      "word": "李沁学姐妆",
+      "onboard_time": 1713443718,
+      "rank": 16,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 319441,
@@ -5305,14 +5337,6 @@
       "onboard_time": 1713277700,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 302939,
-      "num": 302939,
-      "word": "Amber断眉",
-      "onboard_time": 1713442577,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 302853,
@@ -5609,6 +5633,14 @@
       "onboard_time": 1713054797,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 286262,
+      "num": 243559,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1713442038,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 285743,
@@ -6011,14 +6043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 264121,
-      "num": 303855,
-      "word": "养了九年的二哈突然攻击孩子",
-      "onboard_time": 1713442519,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 264117,
       "num": 251803,
       "word": "李兰迪张元英撞衫",
@@ -6219,6 +6243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253698,
+      "num": 239759,
+      "word": "吴磊好像穿礼服的汤姆猫",
+      "onboard_time": 1713442698,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 253622,
       "num": 253622,
       "word": "真心建议大家冲一冲AI领域",
@@ -6232,14 +6264,6 @@
       "word": "热辣滚烫纪录片全集免费",
       "onboard_time": 1713239058,
       "rank": 45,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 252931,
-      "num": 252931,
-      "word": "北影节开幕式内场",
-      "onboard_time": 1713443025,
-      "rank": 31,
       "category": "电影"
     },
     {
@@ -6499,14 +6523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243559,
-      "num": 243559,
-      "word": "周杰伦演唱会",
-      "onboard_time": 1713442038,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 243250,
       "num": 243250,
       "word": "五一假期十大热门目的地",
@@ -6609,14 +6625,6 @@
       "onboard_time": 1713248598,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239759,
-      "num": 239759,
-      "word": "吴磊好像穿礼服的汤姆猫",
-      "onboard_time": 1713442698,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 239559,
@@ -7011,6 +7019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227242,
+      "num": 227242,
+      "word": "理想发布会",
+      "onboard_time": 1713442818,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 227166,
       "num": 227166,
       "word": "一夜承明",
@@ -7153,14 +7169,6 @@
       "onboard_time": 1713325159,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 223769,
-      "num": 223769,
-      "word": "理想发布会",
-      "onboard_time": 1713442818,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 223502,
@@ -8739,6 +8747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189593,
+      "num": 189593,
+      "word": "王嘉尔小橘猫",
+      "onboard_time": 1713440477,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189499,
       "num": 189499,
       "word": "阚清子海边生日照",
@@ -8753,14 +8769,6 @@
       "onboard_time": 1713250458,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 189185,
-      "num": 189185,
-      "word": "王嘉尔小橘猫",
-      "onboard_time": 1713440477,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 188934,
@@ -9649,6 +9657,14 @@
       "onboard_time": 1713267018,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 171172,
+      "num": 171172,
+      "word": "樊振东4比3林诗栋",
+      "onboard_time": 1713444257,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 171133,
@@ -11065,6 +11081,14 @@
       "onboard_time": 1713163338,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147845,
+      "num": 147845,
+      "word": "宋茜亚白披挂裙",
+      "onboard_time": 1713443899,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 147410,
@@ -13619,6 +13643,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 63672,
+      "num": 314549,
+      "word": "LV大秀直击",
+      "onboard_time": 1713442638,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 62368,
       "num": 62368,
       "word": "罗伯特是AI林萧吧",
@@ -13633,14 +13665,6 @@
       "onboard_time": 1713045310,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 61428,
-      "num": 225698,
-      "word": "LV大秀直击",
-      "onboard_time": 1713442638,
-      "rank": 36,
-      "category": "时尚"
     },
     {
       "raw_hot": 59935,
