@@ -1,0 +1,410 @@
+{
+  "runTime": 1713447254637,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1122457,
+        "num": 1122457,
+        "word": "刘昊然帅回来了",
+        "onboard_time": 1713441137,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 671067,
+        "num": 671067,
+        "word": "雷军不知道张颂文提车了没",
+        "onboard_time": 1713436277,
+        "rank": 1,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 38056,
+        "num": 606905,
+        "word": "全力巩固和增强经济回升向好态势",
+        "onboard_time": 1713446237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875345,
+        "num": 593314,
+        "word": "刘亦菲裙子好像钢丝球",
+        "onboard_time": 1713442638,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 576214,
+        "num": 576214,
+        "word": "专家鼓励买到下铺的年轻人跟老人换位",
+        "onboard_time": 1713426258,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557879,
+        "num": 557879,
+        "word": "Amber断眉",
+        "onboard_time": 1713442577,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 554910,
+        "num": 554910,
+        "word": "学生出操死亡事件撤销涉事教师资格",
+        "onboard_time": 1713434719,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456487,
+        "num": 456487,
+        "word": "孙颖莎 将近40板的超强相持",
+        "onboard_time": 1713445878,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397943,
+        "num": 397943,
+        "word": "北影节开幕式内场",
+        "onboard_time": 1713443025,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224095,
+        "num": 369112,
+        "word": "患癌丈夫为阿尔兹海默症妻子写下道别信",
+        "onboard_time": 1713435077,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751973,
+        "num": 367911,
+        "word": "于正说祝绪丹事件是联手炒作",
+        "onboard_time": 1713440417,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108429,
+        "num": 359951,
+        "word": "LV大秀直击",
+        "onboard_time": 1713442638,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 359344,
+        "num": 359344,
+        "word": "有性生活接种HPV疫苗仍旧有效",
+        "onboard_time": 1713441198,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 347237,
+        "num": 347237,
+        "word": "王楚钦vs雨果",
+        "onboard_time": 1713446899,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347016,
+        "num": 347016,
+        "word": "广州长隆回应暴雨前园内动物狂奔",
+        "onboard_time": 1713438379,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342098,
+        "num": 342098,
+        "word": "LV手套",
+        "onboard_time": 1713441976,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 332688,
+        "num": 332688,
+        "word": "樊振东让人看到了那颗最想赢的心",
+        "onboard_time": 1713446479,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329795,
+        "num": 329795,
+        "word": "李沁学姐妆",
+        "onboard_time": 1713443718,
+        "rank": 17,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 326910,
+        "num": 326910,
+        "word": "晨起3个表现是肝在求救",
+        "onboard_time": 1713437719,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 324865,
+        "num": 324865,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1713442038,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 698786,
+        "num": 317485,
+        "word": "沙溢瘦了20斤",
+        "onboard_time": 1713430578,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408634,
+        "num": 314435,
+        "word": "姑父强奸猥亵侄女7年被判13年",
+        "onboard_time": 1713430459,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364403,
+        "num": 305405,
+        "word": "范丞丞 刚满18岁",
+        "onboard_time": 1713432677,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334565,
+        "num": 297736,
+        "word": "养了九年的二哈突然攻击孩子",
+        "onboard_time": 1713442519,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293804,
+        "num": 293804,
+        "word": "酱园弄红毯只来了一个人",
+        "onboard_time": 1713433157,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51950,
+        "num": 277919,
+        "word": "LV拿下沪签",
+        "onboard_time": 1713444378,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 270835,
+        "num": 270835,
+        "word": "理想L6",
+        "onboard_time": 1713446598,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 233968,
+        "num": 233968,
+        "word": "孙颖莎说一关一关过",
+        "onboard_time": 1713446479,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228666,
+        "num": 228666,
+        "word": "林依晨郑元畅活动合体",
+        "onboard_time": 1713445939,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221846,
+        "num": 221846,
+        "word": "樊振东4比3林诗栋",
+        "onboard_time": 1713444257,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30354,
+        "num": 221203,
+        "word": "今天明星是来上海团建了么",
+        "onboard_time": 1713446598,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 220812,
+        "num": 220812,
+        "word": "庆余年2",
+        "onboard_time": 1713426738,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217152,
+        "num": 217152,
+        "word": "周冬雨 人生眼妆",
+        "onboard_time": 1713439576,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 208009,
+        "num": 208009,
+        "word": "刘亦菲出图",
+        "onboard_time": 1713436938,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206541,
+        "num": 206541,
+        "word": "理想L6价格",
+        "onboard_time": 1713446899,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 201215,
+        "num": 201215,
+        "word": "刘天池回应被怼没作品",
+        "onboard_time": 1713446118,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198696,
+        "num": 198696,
+        "word": "戚薇把泡泡袖拆了穿胳膊上",
+        "onboard_time": 1713446899,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195213,
+        "num": 195213,
+        "word": "关晓彤白纱高定",
+        "onboard_time": 1713436277,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194622,
+        "num": 194622,
+        "word": "删公婆好友后发超长文怼了公公",
+        "onboard_time": 1713436218,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185295,
+        "num": 185295,
+        "word": "杨幂关雪穿婚纱路透",
+        "onboard_time": 1713445639,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181867,
+        "num": 181867,
+        "word": "张颖颖将起诉张兰",
+        "onboard_time": 1713447137,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181614,
+        "num": 181614,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1713442519,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178718,
+        "num": 178718,
+        "word": "理想发布会",
+        "onboard_time": 1713442818,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 165747,
+        "num": 165747,
+        "word": "于适奢牌三件套",
+        "onboard_time": 1713447079,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164810,
+        "num": 164810,
+        "word": "胡歌帮高圆圆整理裙摆",
+        "onboard_time": 1713433699,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162179,
+        "num": 162179,
+        "word": "芒果TV称众多用户不在意5秒开屏广告",
+        "onboard_time": 1713421899,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 161174,
+        "num": 161174,
+        "word": "黄子韬比心 徐艺洋比耶",
+        "onboard_time": 1713435978,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159879,
+        "num": 159879,
+        "word": "迪丽热巴漫画腿",
+        "onboard_time": 1713425658,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147502,
+        "num": 158080,
+        "word": "考研失败后我妈的态度",
+        "onboard_time": 1713445338,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141855,
+        "num": 157819,
+        "word": "小龙虾身价暴跌",
+        "onboard_time": 1713445217,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国交通发展日新月异#"
+    }
+  }
+}

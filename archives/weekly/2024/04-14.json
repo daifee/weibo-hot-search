@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713446360035,
+  "endTime": 1713447254637,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -683,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1122457,
+      "num": 1122457,
+      "word": "刘昊然帅回来了",
+      "onboard_time": 1713441137,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1120476,
       "num": 1120476,
       "word": "如懿传 李纯",
@@ -793,14 +801,6 @@
       "onboard_time": 1713088638,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1054316,
-      "num": 1054316,
-      "word": "刘昊然帅回来了",
-      "onboard_time": 1713441137,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 1046703,
@@ -1460,7 +1460,7 @@
     },
     {
       "raw_hot": 786899,
-      "num": 306386,
+      "num": 314435,
       "word": "姑父强奸猥亵侄女7年被判13年",
       "onboard_time": 1713430459,
       "rank": 20,
@@ -3403,6 +3403,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 456487,
+      "num": 456487,
+      "word": "孙颖莎 将近40板的超强相持",
+      "onboard_time": 1713445878,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 456190,
       "num": 456190,
       "word": "Ruler哭了",
@@ -4049,6 +4057,14 @@
       "onboard_time": 1713099619,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397943,
+      "num": 397943,
+      "word": "北影节开幕式内场",
+      "onboard_time": 1713443025,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 396854,
@@ -4771,6 +4787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 347237,
+      "num": 347237,
+      "word": "王楚钦vs雨果",
+      "onboard_time": 1713446899,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 346924,
       "num": 346924,
       "word": "周冬雨 人生眼妆",
@@ -4931,6 +4955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 332688,
+      "num": 332688,
+      "word": "樊振东让人看到了那颗最想赢的心",
+      "onboard_time": 1713446479,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332639,
       "num": 332639,
       "word": "开始推理吧",
@@ -4979,14 +5011,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 329073,
-      "num": 329073,
-      "word": "北影节开幕式内场",
-      "onboard_time": 1713443025,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 327516,
       "num": 363251,
       "word": "wtt",
@@ -5009,6 +5033,14 @@
       "onboard_time": 1713435077,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326910,
+      "num": 326910,
+      "word": "晨起3个表现是肝在求救",
+      "onboard_time": 1713437719,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 326168,
@@ -5265,14 +5297,6 @@
       "onboard_time": 1713069018,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 310276,
-      "num": 310276,
-      "word": "孙颖莎 将近40板的超强相持",
-      "onboard_time": 1713445878,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 309627,
@@ -5923,6 +5947,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 270835,
+      "num": 270835,
+      "word": "理想L6",
+      "onboard_time": 1713446598,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 270331,
       "num": 270331,
       "word": "澳门世界杯",
@@ -6257,14 +6289,6 @@
       "onboard_time": 1713310997,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254209,
-      "num": 254209,
-      "word": "晨起3个表现是肝在求救",
-      "onboard_time": 1713437719,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 253698,
@@ -6827,6 +6851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 233968,
+      "num": 233968,
+      "word": "孙颖莎说一关一关过",
+      "onboard_time": 1713446479,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233520,
       "num": 227050,
       "word": "华为Pura怎么读",
@@ -7009,6 +7041,14 @@
       "onboard_time": 1713279439,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 228666,
+      "num": 228666,
+      "word": "林依晨郑元畅活动合体",
+      "onboard_time": 1713445939,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 228357,
@@ -7859,6 +7899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206541,
+      "num": 206541,
+      "word": "理想L6价格",
+      "onboard_time": 1713446899,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 206188,
       "num": 204770,
       "word": "生孩子太晚会遗憾吗",
@@ -8123,6 +8171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201215,
+      "num": 201215,
+      "word": "刘天池回应被怼没作品",
+      "onboard_time": 1713446118,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201066,
       "num": 201066,
       "word": "小米回应汽车没有高级空调功能",
@@ -8153,14 +8209,6 @@
       "onboard_time": 1713337638,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 200768,
-      "num": 200768,
-      "word": "林依晨郑元畅活动合体",
-      "onboard_time": 1713445939,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 200212,
@@ -8273,6 +8321,14 @@
       "onboard_time": 1713145697,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198696,
+      "num": 198696,
+      "word": "戚薇把泡泡袖拆了穿胳膊上",
+      "onboard_time": 1713446899,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 198613,
@@ -9035,6 +9091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185295,
+      "num": 185295,
+      "word": "杨幂关雪穿婚纱路透",
+      "onboard_time": 1713445639,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185088,
       "num": 185088,
       "word": "因为谐音卖不出去水果",
@@ -9193,6 +9257,14 @@
       "onboard_time": 1713106218,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181867,
+      "num": 181867,
+      "word": "张颖颖将起诉张兰",
+      "onboard_time": 1713447137,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 181856,
@@ -9387,14 +9459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177656,
-      "num": 177656,
-      "word": "杨幂关雪穿婚纱路透",
-      "onboard_time": 1713445639,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177587,
       "num": 166644,
       "word": "李沐宸说杨紫人美心善",
@@ -9585,14 +9649,6 @@
       "onboard_time": 1713138737,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173904,
-      "num": 173904,
-      "word": "刘天池回应被怼没作品",
-      "onboard_time": 1713446118,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 173828,
@@ -9977,6 +10033,14 @@
       "onboard_time": 1713243380,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165747,
+      "num": 165747,
+      "word": "于适奢牌三件套",
+      "onboard_time": 1713447079,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 165726,
@@ -10860,7 +10924,7 @@
     },
     {
       "raw_hot": 151215,
-      "num": 151215,
+      "num": 158080,
       "word": "考研失败后我妈的态度",
       "onboard_time": 1713445338,
       "rank": 45,
@@ -11553,6 +11617,14 @@
       "onboard_time": 1713433817,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141855,
+      "num": 157819,
+      "word": "小龙虾身价暴跌",
+      "onboard_time": 1713445217,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 141726,
@@ -13019,6 +13091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108429,
+      "num": 411727,
+      "word": "LV大秀直击",
+      "onboard_time": 1713442638,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 108109,
       "num": 108109,
       "word": "美国男篮12人完整名单",
@@ -13233,14 +13313,6 @@
       "onboard_time": 1713179537,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 98775,
-      "num": 411727,
-      "word": "LV大秀直击",
-      "onboard_time": 1713442638,
-      "rank": 36,
-      "category": "时尚"
     },
     {
       "raw_hot": 98172,
@@ -13843,6 +13915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 51950,
+      "num": 277919,
+      "word": "LV拿下沪签",
+      "onboard_time": 1713444378,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 51456,
       "num": 51456,
       "word": "雷军称SU7零百加速实测2.95秒",
@@ -13963,14 +14043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44180,
-      "num": 248960,
-      "word": "LV拿下沪签",
-      "onboard_time": 1713444378,
-      "rank": 26,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 43738,
       "num": 886476,
       "word": "国家安全是头等大事不能袖手旁观",
@@ -14017,6 +14089,14 @@
       "onboard_time": 1713032712,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 38056,
+      "num": 640891,
+      "word": "全力巩固和增强经济回升向好态势",
+      "onboard_time": 1713446237,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37512,
@@ -14137,6 +14217,14 @@
       "onboard_time": 1713330199,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30354,
+      "num": 221203,
+      "word": "今天明星是来上海团建了么",
+      "onboard_time": 1713446598,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 29755,
@@ -14393,14 +14481,6 @@
       "onboard_time": 1713070518,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 7252,
-      "num": 640891,
-      "word": "全力巩固和增强经济回升向好态势",
-      "onboard_time": 1713446237,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
