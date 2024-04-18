@@ -1,0 +1,410 @@
+{
+  "runTime": 1713438886334,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1772822,
+        "num": 1772822,
+        "word": "学生出操死亡事件撤销涉事教师资格",
+        "onboard_time": 1713434719,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1247571,
+        "num": 1247571,
+        "word": "LV大秀",
+        "onboard_time": 1713436458,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 47474,
+        "num": 884963,
+        "word": "相约北影节",
+        "onboard_time": 1713429558,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 795437,
+        "num": 795437,
+        "word": "专家鼓励买到下铺的年轻人跟老人换位",
+        "onboard_time": 1713426258,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581518,
+        "num": 581518,
+        "word": "刘亦菲出图",
+        "onboard_time": 1713436938,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 570230,
+        "num": 570230,
+        "word": "好久不见林志玲",
+        "onboard_time": 1713435918,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 562765,
+        "num": 562765,
+        "word": "酱园弄红毯只来了一个人",
+        "onboard_time": 1713433157,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 497305,
+        "num": 497305,
+        "word": "胡锡进建议恢复五一黄金周",
+        "onboard_time": 1713434660,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290035,
+        "num": 483646,
+        "word": "患癌丈夫为阿尔兹海默症妻子写下道别信",
+        "onboard_time": 1713435077,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362914,
+        "num": 482306,
+        "word": "班主任把家长合影设为壁纸",
+        "onboard_time": 1713426617,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 957516,
+        "num": 482204,
+        "word": "沙溢瘦了20斤",
+        "onboard_time": 1713430578,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481817,
+        "num": 481817,
+        "word": "范丞丞 刚满18岁",
+        "onboard_time": 1713432677,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459797,
+        "num": 459797,
+        "word": "黄子韬比心 徐艺洋比耶",
+        "onboard_time": 1713435978,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423992,
+        "num": 423992,
+        "word": "关晓彤白纱高定",
+        "onboard_time": 1713436277,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 339375,
+        "num": 339375,
+        "word": "吉林通报白城一学生死亡调查情况",
+        "onboard_time": 1713433878,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398450,
+        "num": 335185,
+        "word": "胡歌帮高圆圆整理裙摆",
+        "onboard_time": 1713433699,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 364308,
+        "num": 323429,
+        "word": "迪丽热巴说1米8以上很有安全感",
+        "onboard_time": 1713429798,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309499,
+        "num": 309499,
+        "word": "芒果TV称众多用户不在意5秒开屏广告",
+        "onboard_time": 1713421899,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 304685,
+        "num": 304685,
+        "word": "雷军回应着装模仿马斯克",
+        "onboard_time": 1713431958,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 267690,
+        "num": 267690,
+        "word": "王曼昱 斯佐科斯",
+        "onboard_time": 1713436099,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 621263,
+        "num": 267683,
+        "word": "姑父强奸猥亵侄女7年被判13年",
+        "onboard_time": 1713430459,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356710,
+        "num": 267509,
+        "word": "删公婆好友后发超长文怼了公公",
+        "onboard_time": 1713436218,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347683,
+        "num": 267370,
+        "word": "雷军不知道张颂文提车了没",
+        "onboard_time": 1713436277,
+        "rank": 22,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 300287,
+        "num": 267215,
+        "word": "庆余年2",
+        "onboard_time": 1713426738,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213661,
+        "num": 267087,
+        "word": "81岁大爷花25元嫖娼被抓",
+        "onboard_time": 1713420978,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295453,
+        "num": 266927,
+        "word": "刘亦菲 马甲线",
+        "onboard_time": 1713427758,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 266916,
+        "num": 266916,
+        "word": "十个勤天否认草莓蔬菜有线下代售",
+        "onboard_time": 1713438257,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245372,
+        "num": 245372,
+        "word": "这是一个爸爸最接受不了的画面",
+        "onboard_time": 1713431180,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50723,
+        "num": 235860,
+        "word": "全球首个防晒衣大秀",
+        "onboard_time": 1713437538,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234363,
+        "num": 234363,
+        "word": "迪丽热巴漫画腿",
+        "onboard_time": 1713425658,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207265,
+        "num": 207265,
+        "word": "张艺兴MCD",
+        "onboard_time": 1713433457,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169437,
+        "num": 169437,
+        "word": "晨起3个表现是肝在求救",
+        "onboard_time": 1713437719,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152689,
+        "num": 152689,
+        "word": "Tian疑似找Tarzan请教",
+        "onboard_time": 1713436159,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152367,
+        "num": 152367,
+        "word": "余承东首晒Pura70样张",
+        "onboard_time": 1713436398,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 144286,
+        "num": 144286,
+        "word": "领结猫 就这个画画爽",
+        "onboard_time": 1713437898,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 197187,
+        "num": 143466,
+        "word": "李耕耘健身成果",
+        "onboard_time": 1713424158,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183930,
+        "num": 143029,
+        "word": "北影节评委",
+        "onboard_time": 1713437657,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142488,
+        "num": 142488,
+        "word": "infj有成为大女主的潜质",
+        "onboard_time": 1713437599,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141225,
+        "num": 141225,
+        "word": "王曼昱4比1斯佐科斯",
+        "onboard_time": 1713438618,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124286,
+        "num": 124286,
+        "word": "卧铺挂床帘当事年轻人发声",
+        "onboard_time": 1713427877,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182837,
+        "num": 122620,
+        "word": "42岁Selina想要二胎或三胎",
+        "onboard_time": 1713435798,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178910,
+        "num": 122061,
+        "word": "胡歌为游本昌推轮椅",
+        "onboard_time": 1713435617,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155792,
+        "num": 118763,
+        "word": "刘耀文红毯生图",
+        "onboard_time": 1713437418,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155543,
+        "num": 116052,
+        "word": "向佐向纪凌尘道歉",
+        "onboard_time": 1713429257,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115645,
+        "num": 115645,
+        "word": "广州长隆回应暴雨前园内动物狂奔",
+        "onboard_time": 1713438379,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111049,
+        "num": 111049,
+        "word": "三年没聊过天的大学同学突然表白",
+        "onboard_time": 1713423799,
+        "rank": 45,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 100843,
+        "num": 100843,
+        "word": "买车前一定要知道的事",
+        "onboard_time": 1713437477,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 97029,
+        "num": 97029,
+        "word": "雷军抽奖",
+        "onboard_time": 1713430698,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 94163,
+        "num": 94163,
+        "word": "马龙说身体老有疼的地方",
+        "onboard_time": 1713426677,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86916,
+        "num": 86916,
+        "word": "Uzi到大姿庄园解说",
+        "onboard_time": 1713432677,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国交通发展日新月异#"
+    }
+  }
+}

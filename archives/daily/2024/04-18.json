@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713436646719,
+  "endTime": 1713438886334,
   "band_list": [
     {
       "raw_hot": 3132046,
@@ -41,6 +41,14 @@
       "onboard_time": 1713413299,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1772822,
+      "num": 1772822,
+      "word": "学生出操死亡事件撤销涉事教师资格",
+      "onboard_time": 1713434719,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1482791,
@@ -115,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1247571,
+      "num": 1247571,
+      "word": "LV大秀",
+      "onboard_time": 1713436458,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1214238,
       "num": 1214238,
       "word": "沙溢瘦了20斤",
@@ -169,14 +185,6 @@
       "onboard_time": 1713413299,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1041188,
-      "num": 1041188,
-      "word": "学生出操死亡事件撤销涉事教师资格",
-      "onboard_time": 1713434719,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1021817,
@@ -483,6 +491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 581518,
+      "num": 581518,
+      "word": "刘亦菲出图",
+      "onboard_time": 1713436938,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 574342,
       "num": 574342,
       "word": "王珞丹妈妈向王珞丹道歉",
@@ -505,6 +521,14 @@
       "onboard_time": 1713400939,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570230,
+      "num": 570230,
+      "word": "好久不见林志玲",
+      "onboard_time": 1713435918,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 563682,
@@ -619,6 +643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 497305,
+      "num": 497305,
+      "word": "胡锡进建议恢复五一黄金周",
+      "onboard_time": 1713434660,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496666,
       "num": 496666,
       "word": "中式汉堡还能卖得动吗",
@@ -652,7 +684,7 @@
     },
     {
       "raw_hot": 476902,
-      "num": 259132,
+      "num": 309499,
       "word": "芒果TV称众多用户不在意5秒开屏广告",
       "onboard_time": 1713421899,
       "rank": 35,
@@ -673,6 +705,14 @@
       "onboard_time": 1713427278,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 459797,
+      "num": 459797,
+      "word": "黄子韬比心 徐艺洋比耶",
+      "onboard_time": 1713435978,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 452801,
@@ -731,11 +771,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 423420,
-      "num": 423420,
-      "word": "好久不见林志玲",
-      "onboard_time": 1713435918,
-      "rank": 12,
+      "raw_hot": 423992,
+      "num": 423992,
+      "word": "关晓彤白纱高定",
+      "onboard_time": 1713436277,
+      "rank": 33,
       "category": "电影"
     },
     {
@@ -867,6 +907,14 @@
       "category": "国外时政,互联网"
     },
     {
+      "raw_hot": 356710,
+      "num": 267509,
+      "word": "删公婆好友后发超长文怼了公公",
+      "onboard_time": 1713436218,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 355112,
       "num": 355112,
       "word": "34岁南京女生因脂肪肝15天减重10斤",
@@ -897,6 +945,14 @@
       "onboard_time": 1713359659,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 347683,
+      "num": 267370,
+      "word": "雷军不知道张颂文提车了没",
+      "onboard_time": 1713436277,
+      "rank": 32,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 343848,
@@ -979,14 +1035,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 320265,
-      "num": 320265,
-      "word": "胡锡进建议恢复五一黄金周",
-      "onboard_time": 1713434660,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318998,
       "num": 318998,
       "word": "想让龚俊替我去考公",
@@ -1035,12 +1083,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 287278,
-      "num": 214543,
-      "word": "黄子韬比心 徐艺洋比耶",
-      "onboard_time": 1713435978,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 290035,
+      "num": 548740,
+      "word": "患癌丈夫为阿尔兹海默症妻子写下道别信",
+      "onboard_time": 1713435077,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285743,
@@ -1107,12 +1155,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 272246,
-      "num": 548740,
-      "word": "患癌丈夫为阿尔兹海默症妻子写下道别信",
-      "onboard_time": 1713435077,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 267690,
+      "num": 267690,
+      "word": "王曼昱 斯佐科斯",
+      "onboard_time": 1713436099,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 266916,
+      "num": 266916,
+      "word": "十个勤天否认草莓蔬菜有线下代售",
+      "onboard_time": 1713438257,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 264223,
@@ -1307,14 +1363,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 225747,
-      "num": 225747,
-      "word": "王曼昱 斯佐科斯",
-      "onboard_time": 1713436099,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 218771,
       "num": 239979,
       "word": "逃离大厂后我考公上岸",
@@ -1347,14 +1395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214952,
-      "num": 138819,
-      "word": "雷军不知道张颂文提车了没",
-      "onboard_time": 1713436277,
-      "rank": 32,
-      "category": "艺人,汽车"
-    },
-    {
       "raw_hot": 213679,
       "num": 213679,
       "word": "这不是放假而是假放",
@@ -1369,14 +1409,6 @@
       "onboard_time": 1713400759,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210403,
-      "num": 137866,
-      "word": "关晓彤白纱高定",
-      "onboard_time": 1713436277,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 210204,
@@ -1723,6 +1755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183930,
+      "num": 143029,
+      "word": "北影节评委",
+      "onboard_time": 1713437657,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181710,
       "num": 181710,
       "word": "Zdz回应离开WBG",
@@ -1755,14 +1795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174361,
-      "num": 135796,
-      "word": "删公婆好友后发超长文怼了公公",
-      "onboard_time": 1713436218,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 171836,
       "num": 171836,
       "word": "用短剧的方式打开李现新剧",
@@ -1777,6 +1809,14 @@
       "onboard_time": 1713420557,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 169437,
+      "num": 169437,
+      "word": "晨起3个表现是肝在求救",
+      "onboard_time": 1713437719,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 169405,
@@ -1907,14 +1947,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 160513,
-      "num": 160513,
-      "word": "LV大秀",
-      "onboard_time": 1713436458,
-      "rank": 27,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 158241,
       "num": 158241,
       "word": "米哈游带火砂金石销量",
@@ -1955,6 +1987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155792,
+      "num": 118763,
+      "word": "刘耀文红毯生图",
+      "onboard_time": 1713437418,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153695,
       "num": 153695,
       "word": "能说到做到的人真的很酷",
@@ -1987,12 +2027,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 152689,
+      "num": 152689,
+      "word": "Tian疑似找Tarzan请教",
+      "onboard_time": 1713436159,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152523,
       "num": 152523,
       "word": "男子当25年导游后专设计穷游路线",
       "onboard_time": 1713402918,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152367,
+      "num": 152367,
+      "word": "余承东首晒Pura70样张",
+      "onboard_time": 1713436398,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 151573,
@@ -2091,6 +2147,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144286,
+      "num": 144286,
+      "word": "领结猫 就这个画画爽",
+      "onboard_time": 1713437898,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 142488,
+      "num": 142488,
+      "word": "infj有成为大女主的潜质",
+      "onboard_time": 1713437599,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141926,
       "num": 123678,
       "word": "黄明昊寸头",
@@ -2099,12 +2171,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 141502,
-      "num": 141502,
-      "word": "Tian疑似找Tarzan请教",
-      "onboard_time": 1713436159,
-      "rank": 29,
-      "category": "电竞"
+      "raw_hot": 141225,
+      "num": 141225,
+      "word": "王曼昱4比1斯佐科斯",
+      "onboard_time": 1713438618,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 141200,
@@ -2323,6 +2395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 115645,
+      "num": 115645,
+      "word": "广州长隆回应暴雨前园内动物狂奔",
+      "onboard_time": 1713438379,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114815,
       "num": 114815,
       "word": "卫健委回应女子感冒输液后身亡",
@@ -2337,14 +2417,6 @@
       "onboard_time": 1713403099,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 114090,
-      "num": 129710,
-      "word": "余承东首晒Pura70样张",
-      "onboard_time": 1713436398,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 113937,
@@ -2425,6 +2497,14 @@
       "onboard_time": 1713406757,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100843,
+      "num": 100843,
+      "word": "买车前一定要知道的事",
+      "onboard_time": 1713437477,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 100096,
@@ -2641,6 +2721,14 @@
       "onboard_time": 1713391992,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50723,
+      "num": 235860,
+      "word": "全球首个防晒衣大秀",
+      "onboard_time": 1713437538,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 50591,
