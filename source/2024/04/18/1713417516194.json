@@ -1,0 +1,410 @@
+{
+  "runTime": 1713417516194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1375777,
+        "num": 1375777,
+        "word": "周杰伦长沙",
+        "onboard_time": 1713410897,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1148601,
+        "num": 1148601,
+        "word": "爱马仕配货有钱人也不干了",
+        "onboard_time": 1713410000,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 5165,
+        "num": 1082369,
+        "word": "数字丝路发展论坛",
+        "onboard_time": 1713241458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1072783,
+        "num": 1072783,
+        "word": "种地吧 抢大米",
+        "onboard_time": 1713413299,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 968253,
+        "num": 968253,
+        "word": "拜登称其舅舅在二战中被食人族吃掉",
+        "onboard_time": 1713414138,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 727189,
+        "num": 727189,
+        "word": "35岁失业找工作有多难",
+        "onboard_time": 1713415401,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 613720,
+        "num": 613720,
+        "word": "迪丽热巴说实话我挺害怕的",
+        "onboard_time": 1713415641,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565945,
+        "num": 565945,
+        "word": "为啥现在叫谁都叫老师",
+        "onboard_time": 1713403338,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 555558,
+        "num": 555558,
+        "word": "芥见下下 青山刚昌",
+        "onboard_time": 1713415279,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 350685,
+        "num": 550606,
+        "word": "男子捐赠3份清朝科举试卷",
+        "onboard_time": 1713402198,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1878085,
+        "num": 550453,
+        "word": "反对调休的声音不能装作听不到",
+        "onboard_time": 1713405739,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550026,
+        "num": 550026,
+        "word": "软脚虾",
+        "onboard_time": 1713412519,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 538440,
+        "num": 538440,
+        "word": "32岁交了个11岁的朋友",
+        "onboard_time": 1713415879,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 519439,
+        "num": 519439,
+        "word": "王艺迪1比4张本美和",
+        "onboard_time": 1713413299,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 512901,
+        "num": 512901,
+        "word": "咒术回战 虎杖宿傩双胞胎",
+        "onboard_time": 1713413719,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 499589,
+        "num": 499589,
+        "word": "金赛纶复出失败",
+        "onboard_time": 1713415040,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413320,
+        "num": 413320,
+        "word": "华为P70",
+        "onboard_time": 1713405797,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 412924,
+        "num": 412924,
+        "word": "郑燕姿 韩亿",
+        "onboard_time": 1713404056,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 410990,
+        "num": 410990,
+        "word": "韩国为福宝拍摄电影",
+        "onboard_time": 1713415641,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 329783,
+        "num": 329783,
+        "word": "穿着羞耻症",
+        "onboard_time": 1713416540,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1253889,
+        "num": 328485,
+        "word": "韩亿 出轨",
+        "onboard_time": 1713404777,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 379100,
+        "num": 328193,
+        "word": "补水第一名的水果",
+        "onboard_time": 1713407417,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 316647,
+        "num": 316647,
+        "word": "张杰杭州抢票",
+        "onboard_time": 1713414500,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48137,
+        "num": 307065,
+        "word": "豪华SUV为啥都标配四驱",
+        "onboard_time": 1713413960,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 304409,
+        "num": 304409,
+        "word": "ZICO和Jennie合作曲试听",
+        "onboard_time": 1713413719,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 301272,
+        "num": 301272,
+        "word": "广州暴雨",
+        "onboard_time": 1713408918,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287696,
+        "num": 287696,
+        "word": "十个勤天小店",
+        "onboard_time": 1713403338,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280587,
+        "num": 280587,
+        "word": "原神阿蕾奇诺",
+        "onboard_time": 1713416179,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278724,
+        "num": 278724,
+        "word": "迪丽热巴学姐妆",
+        "onboard_time": 1713416839,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240292,
+        "num": 240292,
+        "word": "中方支持巴勒斯坦成为联合国正式成员国",
+        "onboard_time": 1713410000,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 321001,
+        "num": 239657,
+        "word": "神仙水为何卖不动了",
+        "onboard_time": 1713416059,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 52359,
+        "num": 238896,
+        "word": "联想发布AI元启系列人工智能电脑",
+        "onboard_time": 1713417020,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 274843,
+        "num": 238602,
+        "word": "凤凰传奇二开",
+        "onboard_time": 1713414740,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238285,
+        "num": 238285,
+        "word": "实习生diss一梦江湖策划",
+        "onboard_time": 1713417139,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234477,
+        "num": 234477,
+        "word": "华为Pura70系列开售",
+        "onboard_time": 1713406579,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 233211,
+        "num": 233211,
+        "word": "王珞丹妈妈向王珞丹道歉",
+        "onboard_time": 1713408617,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221783,
+        "num": 221783,
+        "word": "34岁南京女生因脂肪肝15天减重10斤",
+        "onboard_time": 1713411196,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217417,
+        "num": 217417,
+        "word": "十个勤天大米秒售罄",
+        "onboard_time": 1713416720,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212722,
+        "num": 212722,
+        "word": "吉隆坡网红泳池现蠕动长虫",
+        "onboard_time": 1713405198,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210204,
+        "num": 210204,
+        "word": "太会了姐 把我也迷住了",
+        "onboard_time": 1713416351,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203343,
+        "num": 203343,
+        "word": "赵丽颖工作室公布告黑进展",
+        "onboard_time": 1713408077,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193700,
+        "num": 193700,
+        "word": "杨幂低头捂嘴笑",
+        "onboard_time": 1713411678,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192682,
+        "num": 192682,
+        "word": "下铺乘客购买的就是下铺的使用权",
+        "onboard_time": 1713401358,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183285,
+        "num": 183285,
+        "word": "SKII在日本排海影响中再涨价",
+        "onboard_time": 1713414620,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 178620,
+        "num": 178620,
+        "word": "关于调休的小调查",
+        "onboard_time": 1713416782,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168478,
+        "num": 168478,
+        "word": "成毅代言李子园",
+        "onboard_time": 1713407537,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153695,
+        "num": 153695,
+        "word": "能说到做到的人真的很酷",
+        "onboard_time": 1713417498,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173689,
+        "num": 153504,
+        "word": "中国抛售227亿美元美债",
+        "onboard_time": 1713405557,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152084,
+        "num": 152084,
+        "word": "食物语将删除所有玩家数据",
+        "onboard_time": 1713411437,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151705,
+        "num": 151705,
+        "word": "广州仿佛一秒入夜",
+        "onboard_time": 1713414500,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#中德领导人漫步钓鱼台#"
+    }
+  }
+}

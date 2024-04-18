@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713414841707,
+  "endTime": 1713417516194,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1841,6 +1841,14 @@
       "onboard_time": 1712119822,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1375777,
+      "num": 1375777,
+      "word": "周杰伦长沙",
+      "onboard_time": 1713410897,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 1374447,
@@ -3929,6 +3937,14 @@
       "onboard_time": 1711937000,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 968253,
+      "num": 968253,
+      "word": "拜登称其舅舅在二战中被食人族吃掉",
+      "onboard_time": 1713414138,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 967666,
@@ -6443,6 +6459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 727189,
+      "num": 727189,
+      "word": "35岁失业找工作有多难",
+      "onboard_time": 1713415401,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 726960,
       "num": 726960,
       "word": "服用紧急避孕药会影响生育吗",
@@ -8347,6 +8371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613720,
+      "num": 613720,
+      "word": "迪丽热巴说实话我挺害怕的",
+      "onboard_time": 1713415641,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 613683,
       "num": 613683,
       "word": "卖房让娃退学环游世界的家庭怎么样了",
@@ -9563,6 +9595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 555558,
+      "num": 555558,
+      "word": "芥见下下 青山刚昌",
+      "onboard_time": 1713415279,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 555126,
       "num": 555126,
       "word": "调休多上一天班为什么这么累",
@@ -9985,6 +10025,14 @@
       "onboard_time": 1712793017,
       "rank": 13,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 538440,
+      "num": 538440,
+      "word": "32岁交了个11岁的朋友",
+      "onboard_time": 1713415879,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 537619,
@@ -11179,6 +11227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 499589,
+      "num": 499589,
+      "word": "金赛纶复出失败",
+      "onboard_time": 1713415040,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498917,
       "num": 498917,
       "word": "赵丽颖降林嫂",
@@ -11281,14 +11337,6 @@
       "onboard_time": 1712585182,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 493607,
-      "num": 493607,
-      "word": "拜登称其舅舅在二战中被食人族吃掉",
-      "onboard_time": 1713414138,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 493447,
@@ -14147,6 +14195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410990,
+      "num": 410990,
+      "word": "韩国为福宝拍摄电影",
+      "onboard_time": 1713415641,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 410981,
       "num": 410981,
       "word": "12306回应五一抢票难度堪比春运",
@@ -14809,14 +14865,6 @@
       "onboard_time": 1712375478,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 392713,
-      "num": 392713,
-      "word": "周杰伦长沙",
-      "onboard_time": 1713410897,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 392568,
@@ -17515,6 +17563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329783,
+      "num": 329783,
+      "word": "穿着羞耻症",
+      "onboard_time": 1713416540,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 329703,
       "num": 329703,
       "word": "与凤行热度",
@@ -18009,6 +18065,14 @@
       "onboard_time": 1712969898,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 321001,
+      "num": 239657,
+      "word": "神仙水为何卖不动了",
+      "onboard_time": 1713416059,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 320846,
@@ -20603,6 +20667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278724,
+      "num": 278724,
+      "word": "迪丽热巴学姐妆",
+      "onboard_time": 1713416839,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278026,
       "num": 278026,
       "word": "原神烬中歌",
@@ -20833,6 +20905,14 @@
       "onboard_time": 1712397378,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274843,
+      "num": 238602,
+      "word": "凤凰传奇二开",
+      "onboard_time": 1713414740,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 274808,
@@ -23931,6 +24011,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 238285,
+      "num": 238285,
+      "word": "实习生diss一梦江湖策划",
+      "onboard_time": 1713417139,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238210,
       "num": 238210,
       "word": "一个家庭的上等风水",
@@ -26131,6 +26219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217417,
+      "num": 217417,
+      "word": "十个勤天大米秒售罄",
+      "onboard_time": 1713416720,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217413,
       "num": 260623,
       "word": "贵州长顺发生山火致3人死亡",
@@ -27129,6 +27225,14 @@
       "onboard_time": 1713230478,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210204,
+      "num": 210204,
+      "word": "太会了姐 把我也迷住了",
+      "onboard_time": 1713416351,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 210158,
@@ -33515,6 +33619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178620,
+      "num": 178620,
+      "word": "关于调休的小调查",
+      "onboard_time": 1713416782,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178527,
       "num": 178527,
       "word": "以前的大学生吃的到底有多好",
@@ -34545,14 +34657,6 @@
       "onboard_time": 1712882179,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 172715,
-      "num": 172715,
-      "word": "凤凰传奇二开",
-      "onboard_time": 1713414740,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 172588,
@@ -37921,6 +38025,14 @@
       "onboard_time": 1712050460,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 153695,
+      "num": 153695,
+      "word": "能说到做到的人真的很酷",
+      "onboard_time": 1713417498,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 153691,
@@ -47979,6 +48091,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 52359,
+      "num": 238896,
+      "word": "联想发布AI元启系列人工智能电脑",
+      "onboard_time": 1713417020,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 52244,
       "num": 345353,
       "word": "星纪元ET重新定义全能SUV",
@@ -48113,6 +48233,14 @@
       "onboard_time": 1712359634,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 48137,
+      "num": 340124,
+      "word": "豪华SUV为啥都标配四驱",
+      "onboard_time": 1713413960,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 48006,
@@ -48417,14 +48545,6 @@
       "onboard_time": 1712437450,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 39856,
-      "num": 340124,
-      "word": "豪华SUV为啥都标配四驱",
-      "onboard_time": 1713413960,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 39850,
