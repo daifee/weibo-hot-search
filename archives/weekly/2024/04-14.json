@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713432945219,
+  "endTime": 1713435647520,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -683,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1114459,
+      "num": 1114459,
+      "word": "吉林通报白城一学生死亡调查情况",
+      "onboard_time": 1713433878,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1112152,
       "num": 1112152,
       "word": "央广网评阿姨吐槽年轻人卧铺挂帘",
@@ -1049,6 +1057,14 @@
       "onboard_time": 1713364341,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 927525,
+      "num": 927525,
+      "word": "酱园弄红毯只来了一个人",
+      "onboard_time": 1713433157,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 919961,
@@ -1427,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 782230,
+      "num": 782230,
+      "word": "迪丽热巴说1米8以上很有安全感",
+      "onboard_time": 1713429798,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 781839,
       "num": 781839,
       "word": "济南公安",
@@ -1691,6 +1715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 723127,
+      "num": 723127,
+      "word": "范丞丞 刚满18岁",
+      "onboard_time": 1713432677,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 719583,
       "num": 719583,
       "word": "38块钱居然能吃20个菜",
@@ -1945,6 +1977,14 @@
       "onboard_time": 1713019940,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642459,
+      "num": 458027,
+      "word": "胡歌帮高圆圆整理裙摆",
+      "onboard_time": 1713433699,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 640160,
@@ -2241,6 +2281,14 @@
       "onboard_time": 1713234257,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 578548,
+      "num": 578548,
+      "word": "学生出操死亡事件撤销涉事教师资格",
+      "onboard_time": 1713434719,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 576424,
@@ -3043,6 +3091,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 476450,
+      "num": 476450,
+      "word": "雷军回应着装模仿马斯克",
+      "onboard_time": 1713431958,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 476216,
       "num": 476216,
       "word": "刚出道了15天的爱豆",
@@ -3697,6 +3753,14 @@
       "onboard_time": 1713261019,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410146,
+      "num": 410146,
+      "word": "张艺兴MCD",
+      "onboard_time": 1713433457,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 410054,
@@ -4451,14 +4515,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 357821,
-      "num": 357821,
-      "word": "迪丽热巴说1米8以上很有安全感",
-      "onboard_time": 1713429798,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 357261,
       "num": 357261,
       "word": "戳爷晒老干妈",
@@ -4539,6 +4595,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 349930,
+      "num": 349930,
+      "word": "雷军 顶流",
+      "onboard_time": 1713430878,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 349912,
       "num": 349912,
       "word": "德国总理朔尔茨抵达重庆",
@@ -4553,14 +4617,6 @@
       "onboard_time": 1713052756,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 346324,
-      "num": 346324,
-      "word": "雷军 顶流",
-      "onboard_time": 1713430878,
-      "rank": 23,
-      "category": "汽车"
     },
     {
       "raw_hot": 345970,
@@ -5256,14 +5312,6 @@
       "word": "金莎想带男友报名郝蕾演技课",
       "onboard_time": 1713067998,
       "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 295780,
-      "num": 295780,
-      "word": "范丞丞 刚满18岁",
-      "onboard_time": 1713432677,
-      "rank": 17,
       "category": "综艺"
     },
     {
@@ -6891,14 +6939,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 222690,
-      "num": 222690,
-      "word": "雷军回应着装模仿马斯克",
-      "onboard_time": 1713431958,
-      "rank": 32,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 222448,
       "num": 222448,
       "word": "王一博首次尝试自己做摄影师",
@@ -7001,6 +7041,14 @@
       "onboard_time": 1713098899,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218301,
+      "num": 171321,
+      "word": "想给于适拉裤脚",
+      "onboard_time": 1713434358,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 218289,
@@ -7441,6 +7489,14 @@
       "onboard_time": 1713272600,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208625,
+      "num": 188013,
+      "word": "周杰伦抢票",
+      "onboard_time": 1713432798,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 208354,
@@ -8147,14 +8203,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 194624,
-      "num": 188013,
-      "word": "周杰伦抢票",
-      "onboard_time": 1713432798,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 194570,
       "num": 194570,
       "word": "电视剧大生意人官宣",
@@ -8435,12 +8483,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188972,
+      "num": 188972,
+      "word": "胡锡进建议恢复五一黄金周",
+      "onboard_time": 1713434660,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188934,
       "num": 188934,
       "word": "黑神话PS5版炒至500元",
       "onboard_time": 1713238458,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188755,
+      "num": 155537,
+      "word": "费翔朱一龙同框",
+      "onboard_time": 1713435138,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 188627,
@@ -10019,6 +10083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156988,
+      "num": 156988,
+      "word": "Uzi到大姿庄园解说",
+      "onboard_time": 1713432677,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156882,
       "num": 1072633,
       "word": "国字号重器再添新成员",
@@ -10416,6 +10488,14 @@
       "word": "神十八载人飞船4月发射",
       "onboard_time": 1713326599,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150898,
+      "num": 416786,
+      "word": "患癌丈夫为阿尔兹海默症妻子写下道别信",
+      "onboard_time": 1713435077,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -11035,6 +11115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141926,
+      "num": 123678,
+      "word": "黄明昊寸头",
+      "onboard_time": 1713433817,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141726,
       "num": 141726,
       "word": "高海宁一句话让纪凌尘红了眼眶",
@@ -11099,6 +11187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 140933,
+      "num": 120579,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1713433817,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140440,
       "num": 140440,
       "word": "和平精英上赛新地图",
@@ -11113,14 +11209,6 @@
       "onboard_time": 1713152658,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140325,
-      "num": 140325,
-      "word": "Uzi到大姿庄园解说",
-      "onboard_time": 1713432677,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 140015,
@@ -11145,6 +11233,14 @@
       "onboard_time": 1713405317,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139333,
+      "num": 113311,
+      "word": "胡歌为游本昌推轮椅",
+      "onboard_time": 1713435617,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 139302,
@@ -12411,6 +12507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109962,
+      "num": 109962,
+      "word": "央行原副行长范一飞案一审开庭",
+      "onboard_time": 1713433699,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109671,
       "num": 109671,
       "word": "澳门世界杯抽签",
@@ -12827,6 +12931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88495,
+      "num": 101229,
+      "word": "雷军承认社恐",
+      "onboard_time": 1713435557,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 88391,
       "num": 88391,
       "word": "巴图姆奇兵",
@@ -12897,6 +13009,14 @@
       "onboard_time": 1713396796,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80978,
+      "num": 137770,
+      "word": "校园中花梨木背后的故事",
+      "onboard_time": 1713433817,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77410,
@@ -13163,6 +13283,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 55394,
+      "num": 1218701,
+      "word": "相约北影节",
+      "onboard_time": 1713429558,
+      "rank": 2,
+      "category": "电影"
+    },
+    {
       "raw_hot": 54715,
       "num": 1201731,
       "word": "快来查收这组春日健康提示",
@@ -13209,14 +13337,6 @@
       "onboard_time": 1713288433,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53445,
-      "num": 1218701,
-      "word": "相约北影节",
-      "onboard_time": 1713429558,
-      "rank": 2,
-      "category": "电影"
     },
     {
       "raw_hot": 53122,
