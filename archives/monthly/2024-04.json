@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713460565761,
+  "endTime": 1713461645419,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -19859,6 +19859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302656,
+      "num": 302656,
+      "word": "雷军说小米不会造相机",
+      "onboard_time": 1713456858,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 302655,
       "num": 302655,
       "word": "辛家亮爸爸婚外情暴露",
@@ -25225,14 +25233,6 @@
       "onboard_time": 1713323778,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 234992,
-      "num": 234992,
-      "word": "雷军说小米不会造相机",
-      "onboard_time": 1713456858,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 234957,
@@ -48395,6 +48395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88737,
+      "num": 88737,
+      "word": "黄牛卖十个勤天大米",
+      "onboard_time": 1713458595,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 88391,
       "num": 88391,
       "word": "巴图姆奇兵",
@@ -48713,14 +48721,6 @@
       "onboard_time": 1712723539,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 80169,
-      "num": 80169,
-      "word": "黄牛卖十个勤天大米",
-      "onboard_time": 1713458595,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 79830,
@@ -51777,6 +51777,14 @@
       "onboard_time": 1713070518,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 10685,
+      "num": 269122,
+      "word": "景海鹏朱杨柱桂海潮获航天功勋奖章",
+      "onboard_time": 1713446058,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8134,
