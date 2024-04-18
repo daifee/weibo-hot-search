@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713428568768,
+  "endTime": 1713429312091,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -151,6 +151,14 @@
       "num": 2147550,
       "word": "重庆地铁站被砸孕妇心跳已停2次",
       "onboard_time": 1713226218,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2102264,
+      "num": 2102264,
+      "word": "专家鼓励买到下铺的年轻人跟老人换位",
+      "onboard_time": 1713426258,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -376,14 +384,6 @@
       "word": "81岁大爷花25元嫖娼被抓",
       "onboard_time": 1713420978,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1394417,
-      "num": 1394417,
-      "word": "专家鼓励买到下铺的年轻人跟老人换位",
-      "onboard_time": 1713426258,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1179,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 841934,
+      "num": 841934,
+      "word": "迪丽热巴漫画腿",
+      "onboard_time": 1713425658,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 840418,
       "num": 814161,
       "word": "杨威神吐槽生了仨体弱多病的娃",
@@ -1320,14 +1328,6 @@
       "word": "黄子韬求导演管管徐艺洋",
       "onboard_time": 1713167118,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 797795,
-      "num": 797795,
-      "word": "迪丽热巴漫画腿",
-      "onboard_time": 1713425658,
-      "rank": 4,
       "category": "综艺"
     },
     {
@@ -2467,6 +2467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 539677,
+      "num": 539677,
+      "word": "马龙说身体老有疼的地方",
+      "onboard_time": 1713426677,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 536636,
       "num": 536636,
       "word": "AJ被强制下播",
@@ -2489,6 +2497,14 @@
       "onboard_time": 1713242001,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 532441,
+      "num": 532441,
+      "word": "迪丽热巴 我的漂亮学姐",
+      "onboard_time": 1713427037,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 530269,
@@ -2521,14 +2537,6 @@
       "onboard_time": 1713238278,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 526156,
-      "num": 526156,
-      "word": "迪丽热巴 我的漂亮学姐",
-      "onboard_time": 1713427037,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 525972,
@@ -2875,6 +2883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 493079,
+      "num": 493079,
+      "word": "卧铺挂床帘当事年轻人发声",
+      "onboard_time": 1713427877,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491579,
       "num": 491579,
       "word": "锡安",
@@ -3147,6 +3163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 460796,
+      "num": 460796,
+      "word": "雷军直播",
+      "onboard_time": 1713427278,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 460549,
       "num": 460549,
       "word": "贾玲杀青影像给我看哭了",
@@ -3345,14 +3369,6 @@
       "onboard_time": 1713097577,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 438147,
-      "num": 438147,
-      "word": "马龙说身体老有疼的地方",
-      "onboard_time": 1713426677,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 437776,
@@ -3747,6 +3763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 400070,
+      "num": 400070,
+      "word": "刘亦菲 马甲线",
+      "onboard_time": 1713427758,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 399626,
       "num": 399626,
       "word": "李耕耘健身成果",
@@ -3835,20 +3859,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 395542,
-      "num": 395542,
-      "word": "雷军直播",
-      "onboard_time": 1713427278,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 394794,
       "num": 394794,
       "word": "Jennie登VOGUE封面",
       "onboard_time": 1713330321,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 394313,
+      "num": 559116,
+      "word": "班主任把家长合影设为壁纸",
+      "onboard_time": 1713426617,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 394127,
@@ -5171,22 +5195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293613,
-      "num": 546648,
-      "word": "班主任把家长合影设为壁纸",
-      "onboard_time": 1713426617,
-      "rank": 9,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 293383,
-      "num": 293383,
-      "word": "卧铺挂床帘当事年轻人发声",
-      "onboard_time": 1713427877,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292435,
       "num": 127977,
       "word": "上公厕马桶不垫纸会被传染疾病吗",
@@ -5515,14 +5523,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 274455,
-      "num": 274455,
-      "word": "刘亦菲 马甲线",
-      "onboard_time": 1713427758,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 274401,
       "num": 274401,
       "word": "脂肪不断消耗的8大征兆",
@@ -5713,6 +5713,14 @@
       "onboard_time": 1713417139,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 262990,
+      "num": 262990,
+      "word": "人民网评卧铺挂帘子",
+      "onboard_time": 1713427938,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262676,
@@ -6473,14 +6481,6 @@
       "onboard_time": 1713360679,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 232403,
-      "num": 232403,
-      "word": "人民网评卧铺挂帘子",
-      "onboard_time": 1713427938,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232393,
@@ -7715,6 +7715,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 199397,
+      "num": 199397,
+      "word": "五一新加坡热度飙升酒店秒空",
+      "onboard_time": 1713428958,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 199293,
       "num": 199293,
       "word": "韩国小学生写的传奇诗",
@@ -8539,6 +8547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184143,
+      "num": 184143,
+      "word": "范丞丞 我的新郎",
+      "onboard_time": 1713428658,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183911,
       "num": 183911,
       "word": "王艺迪2比2单晓娜",
@@ -8643,6 +8659,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 181710,
+      "num": 181710,
+      "word": "Zdz回应离开WBG",
+      "onboard_time": 1713429019,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 181674,
       "num": 181674,
       "word": "为什么现在酒店退房都不查房了",
@@ -8729,6 +8753,14 @@
       "onboard_time": 1713253699,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 179917,
+      "num": 179917,
+      "word": "买到下铺你会同意换吗",
+      "onboard_time": 1713429019,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 179036,
@@ -10811,6 +10843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142190,
+      "num": 132692,
+      "word": "胡先煦拿玫瑰花走红毯",
+      "onboard_time": 1713429077,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141726,
       "num": 141726,
       "word": "高海宁一句话让纪凌尘红了眼眶",
@@ -11979,6 +12019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114998,
+      "num": 114998,
+      "word": "向佐向纪凌尘道歉",
+      "onboard_time": 1713429257,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 114927,
       "num": 416292,
       "word": "神秘东方力量惊现巴黎夜空",
@@ -13115,20 +13163,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 40575,
+      "num": 1001460,
+      "word": "春好正是耕种时",
+      "onboard_time": 1713411918,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39910,
       "num": 41564,
       "word": "诺米 全开麦",
       "onboard_time": 1713032712,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 39853,
-      "num": 1001460,
-      "word": "春好正是耕种时",
-      "onboard_time": 1713411918,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37512,

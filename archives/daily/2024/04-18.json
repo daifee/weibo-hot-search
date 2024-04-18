@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713428568768,
+  "endTime": 1713429312091,
   "band_list": [
     {
       "raw_hot": 3132046,
@@ -16,6 +16,14 @@
       "word": "反对调休的声音不能装作听不到",
       "onboard_time": 1713405739,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2102264,
+      "num": 2102264,
+      "word": "专家鼓励买到下铺的年轻人跟老人换位",
+      "onboard_time": 1713426258,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -64,14 +72,6 @@
       "word": "81岁大爷花25元嫖娼被抓",
       "onboard_time": 1713420978,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1394417,
-      "num": 1394417,
-      "word": "专家鼓励买到下铺的年轻人跟老人换位",
-      "onboard_time": 1713426258,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -195,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 841934,
+      "num": 841934,
+      "word": "迪丽热巴漫画腿",
+      "onboard_time": 1713425658,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 840418,
       "num": 814161,
       "word": "杨威神吐槽生了仨体弱多病的娃",
@@ -209,14 +217,6 @@
       "onboard_time": 1713420437,
       "rank": 5,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 797795,
-      "num": 797795,
-      "word": "迪丽热巴漫画腿",
-      "onboard_time": 1713425658,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 797744,
@@ -443,8 +443,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 526156,
-      "num": 526156,
+      "raw_hot": 539677,
+      "num": 539677,
+      "word": "马龙说身体老有疼的地方",
+      "onboard_time": 1713426677,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 532441,
+      "num": 532441,
       "word": "迪丽热巴 我的漂亮学姐",
       "onboard_time": 1713427037,
       "rank": 10,
@@ -515,6 +523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 493079,
+      "num": 493079,
+      "word": "卧铺挂床帘当事年轻人发声",
+      "onboard_time": 1713427877,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485312,
       "num": 485312,
       "word": "眼泪女王 白洪夫妇",
@@ -547,6 +563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 460796,
+      "num": 460796,
+      "word": "雷军直播",
+      "onboard_time": 1713427278,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 452801,
       "num": 244650,
       "word": "睡觉中途醒来千万不要发消息",
@@ -569,14 +593,6 @@
       "onboard_time": 1713424218,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 438147,
-      "num": 438147,
-      "word": "马龙说身体老有疼的地方",
-      "onboard_time": 1713426677,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 436587,
@@ -651,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400070,
+      "num": 400070,
+      "word": "刘亦菲 马甲线",
+      "onboard_time": 1713427758,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 399626,
       "num": 399626,
       "word": "李耕耘健身成果",
@@ -667,12 +691,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 395542,
-      "num": 395542,
-      "word": "雷军直播",
-      "onboard_time": 1713427278,
-      "rank": 17,
-      "category": "数码"
+      "raw_hot": 394313,
+      "num": 559116,
+      "word": "班主任把家长合影设为壁纸",
+      "onboard_time": 1713426617,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 394094,
@@ -867,22 +891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293613,
-      "num": 546648,
-      "word": "班主任把家长合影设为壁纸",
-      "onboard_time": 1713426617,
-      "rank": 9,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 293383,
-      "num": 293383,
-      "word": "卧铺挂床帘当事年轻人发声",
-      "onboard_time": 1713427877,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285743,
       "num": 285743,
       "word": "成都重庆燃气集团股东涉同家公司",
@@ -923,14 +931,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 274455,
-      "num": 274455,
-      "word": "刘亦菲 马甲线",
-      "onboard_time": 1713427758,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 274401,
       "num": 274401,
       "word": "脂肪不断消耗的8大征兆",
@@ -945,6 +945,14 @@
       "onboard_time": 1713417139,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 262990,
+      "num": 262990,
+      "word": "人民网评卧铺挂帘子",
+      "onboard_time": 1713427938,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262676,
@@ -1041,14 +1049,6 @@
       "onboard_time": 1713362298,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 232403,
-      "num": 232403,
-      "word": "人民网评卧铺挂帘子",
-      "onboard_time": 1713427938,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231260,
@@ -1235,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199397,
+      "num": 199397,
+      "word": "五一新加坡热度飙升酒店秒空",
+      "onboard_time": 1713428958,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 198439,
       "num": 198439,
       "word": "广东要下开水了",
@@ -1393,6 +1401,30 @@
       "onboard_time": 1713403458,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 184143,
+      "num": 184143,
+      "word": "范丞丞 我的新郎",
+      "onboard_time": 1713428658,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181710,
+      "num": 181710,
+      "word": "Zdz回应离开WBG",
+      "onboard_time": 1713429019,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 179917,
+      "num": 179917,
+      "word": "买到下铺你会同意换吗",
+      "onboard_time": 1713429019,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 178620,
@@ -1683,6 +1715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142190,
+      "num": 132692,
+      "word": "胡先煦拿玫瑰花走红毯",
+      "onboard_time": 1713429077,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141200,
       "num": 141200,
       "word": "论文查重",
@@ -1856,6 +1896,14 @@
       "word": "肖战蓝白look",
       "onboard_time": 1713385030,
       "rank": 49,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 114998,
+      "num": 114998,
+      "word": "向佐向纪凌尘道歉",
+      "onboard_time": 1713429257,
+      "rank": 48,
       "category": "作品衍生"
     },
     {
@@ -2163,7 +2211,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 39853,
+      "raw_hot": 40575,
       "num": 1001460,
       "word": "春好正是耕种时",
       "onboard_time": 1713411918,
