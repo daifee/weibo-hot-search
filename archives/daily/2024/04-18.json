@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713444381158,
+  "endTime": 1713446360035,
   "band_list": [
     {
       "raw_hot": 3132046,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1054316,
+      "num": 1054316,
+      "word": "刘昊然帅回来了",
+      "onboard_time": 1713441137,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1043280,
       "num": 1043280,
       "word": "王艺迪1比4张本美和",
@@ -241,6 +249,14 @@
       "onboard_time": 1713433157,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 912193,
+      "num": 647462,
+      "word": "刘亦菲裙子好像钢丝球",
+      "onboard_time": 1713442638,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 902275,
@@ -379,14 +395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 738598,
-      "num": 738598,
-      "word": "刘昊然帅回来了",
-      "onboard_time": 1713441137,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 732908,
       "num": 732908,
       "word": "雷军宣布直播送SU7车模",
@@ -457,14 +465,6 @@
       "onboard_time": 1713418039,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 647462,
-      "num": 647462,
-      "word": "刘亦菲裙子好像钢丝球",
-      "onboard_time": 1713442638,
-      "rank": 12,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 646735,
@@ -545,6 +545,14 @@
       "onboard_time": 1713429257,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 595359,
+      "num": 595359,
+      "word": "Amber断眉",
+      "onboard_time": 1713442577,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 593832,
@@ -787,6 +795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 445275,
+      "num": 427730,
+      "word": "有性生活接种HPV疫苗仍旧有效",
+      "onboard_time": 1713441198,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 444534,
       "num": 444534,
       "word": "林俊杰唱了为蔡依林写的歌",
@@ -819,14 +835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 427730,
-      "num": 427730,
-      "word": "有性生活接种HPV疫苗仍旧有效",
-      "onboard_time": 1713441198,
-      "rank": 11,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 424277,
       "num": 308818,
       "word": "黑龙江大学",
@@ -843,20 +851,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 419876,
-      "num": 419876,
-      "word": "Amber断眉",
-      "onboard_time": 1713442577,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 415557,
       "num": 319460,
       "word": "三年没聊过天的大学同学突然表白",
       "onboard_time": 1713423799,
       "rank": 22,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 411727,
+      "num": 411726,
+      "word": "李沁学姐妆",
+      "onboard_time": 1713443718,
+      "rank": 16,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 410990,
@@ -939,6 +947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 389180,
+      "num": 389180,
+      "word": "LV手套",
+      "onboard_time": 1713441976,
+      "rank": 17,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 387472,
       "num": 387472,
       "word": "奔跑吧发布会",
@@ -977,14 +993,6 @@
       "onboard_time": 1713394874,
       "rank": 15,
       "category": "财经"
-    },
-    {
-      "raw_hot": 366415,
-      "num": 366415,
-      "word": "LV手套",
-      "onboard_time": 1713441976,
-      "rank": 17,
-      "category": "时尚"
     },
     {
       "raw_hot": 365207,
@@ -1083,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332741,
+      "num": 332741,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1713442038,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 332639,
       "num": 332639,
       "word": "开始推理吧",
@@ -1139,20 +1155,28 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 319720,
-      "num": 319720,
-      "word": "李沁学姐妆",
-      "onboard_time": 1713443718,
-      "rank": 16,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 318998,
       "num": 318998,
       "word": "想让龚俊替我去考公",
       "onboard_time": 1713408557,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 313243,
+      "num": 313243,
+      "word": "樊振东4比3林诗栋",
+      "onboard_time": 1713444257,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 310276,
+      "num": 310276,
+      "word": "孙颖莎 将近40板的超强相持",
+      "onboard_time": 1713445878,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 308436,
@@ -1193,14 +1217,6 @@
       "onboard_time": 1713430459,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 286262,
-      "num": 243559,
-      "word": "周杰伦演唱会",
-      "onboard_time": 1713442038,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 285743,
@@ -1355,6 +1371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 254209,
+      "num": 254209,
+      "word": "晨起3个表现是肝在求救",
+      "onboard_time": 1713437719,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 253698,
       "num": 239759,
       "word": "吴磊好像穿礼服的汤姆猫",
@@ -1393,6 +1417,14 @@
       "onboard_time": 1713425180,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245846,
+      "num": 245846,
+      "word": "理想发布会",
+      "onboard_time": 1713442818,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 245668,
@@ -1475,14 +1507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227242,
-      "num": 227242,
-      "word": "理想发布会",
-      "onboard_time": 1713442818,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 226519,
       "num": 187404,
       "word": "哥伦比亚首都限淋浴时间不得超5分钟",
@@ -1497,14 +1521,6 @@
       "onboard_time": 1713372016,
       "rank": 24,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 223253,
-      "num": 223253,
-      "word": "晨起3个表现是肝在求救",
-      "onboard_time": 1713437719,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 218771,
@@ -1683,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200768,
+      "num": 200768,
+      "word": "林依晨郑元畅活动合体",
+      "onboard_time": 1713445939,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200212,
       "num": 200212,
       "word": "哈兰德 隐身",
@@ -1713,6 +1737,14 @@
       "onboard_time": 1713423198,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 198214,
+      "num": 198214,
+      "word": "欧阳娜娜贴头皮马尾",
+      "onboard_time": 1713444798,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 198137,
@@ -1947,12 +1979,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177656,
+      "num": 177656,
+      "word": "杨幂关雪穿婚纱路透",
+      "onboard_time": 1713445639,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176554,
       "num": 176554,
       "word": "宋雨琦跑男路透",
       "onboard_time": 1713423259,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173904,
+      "num": 173904,
+      "word": "刘天池回应被怼没作品",
+      "onboard_time": 1713446118,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 171836,
@@ -1969,14 +2017,6 @@
       "onboard_time": 1713420557,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 171172,
-      "num": 171172,
-      "word": "樊振东4比3林诗栋",
-      "onboard_time": 1713444257,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 169405,
@@ -2249,6 +2289,22 @@
       "onboard_time": 1713421278,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 151215,
+      "num": 151215,
+      "word": "考研失败后我妈的态度",
+      "onboard_time": 1713445338,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 150733,
+      "num": 150733,
+      "word": "LGD对战eStar",
+      "onboard_time": 1713445878,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 150506,
@@ -2763,6 +2819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98775,
+      "num": 411727,
+      "word": "LV大秀直击",
+      "onboard_time": 1713442638,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 97859,
       "num": 97859,
       "word": "张元英歌手 信的人感觉会被骗保",
@@ -2907,14 +2971,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 63672,
-      "num": 314549,
-      "word": "LV大秀直击",
-      "onboard_time": 1713442638,
-      "rank": 36,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 63157,
       "num": 63157,
       "word": "真是眼前一亮又一亮又一亮",
@@ -2995,6 +3051,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 44180,
+      "num": 248960,
+      "word": "LV拿下沪签",
+      "onboard_time": 1713444378,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 40575,
       "num": 1001460,
       "word": "春好正是耕种时",
@@ -3059,6 +3123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 7252,
+      "num": 640891,
+      "word": "全力巩固和增强经济回升向好态势",
+      "onboard_time": 1713446237,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 5886,
       "num": 1451891,
       "word": "数字丝路发展论坛",
@@ -3079,6 +3151,9 @@
     },
     {
       "word": "#推动党组织向最基层延伸#"
+    },
+    {
+      "word": "#发挥超大市场优势和内需潜力为各国合作提供更多机遇#"
     }
   ]
 }

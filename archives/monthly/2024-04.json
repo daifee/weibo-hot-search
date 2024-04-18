@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713444381158,
+  "endTime": 1713446360035,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3403,6 +3403,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1054316,
+      "num": 1054316,
+      "word": "刘昊然帅回来了",
+      "onboard_time": 1713441137,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1052749,
       "num": 999112,
       "word": "林更新片场把赵丽颖亲腿麻了",
@@ -4481,6 +4489,14 @@
       "onboard_time": 1713072197,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 912193,
+      "num": 647462,
+      "word": "刘亦菲裙子好像钢丝球",
+      "onboard_time": 1713442638,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 911613,
@@ -6475,14 +6491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 738598,
-      "num": 738598,
-      "word": "刘昊然帅回来了",
-      "onboard_time": 1713441137,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 738179,
       "num": 720517,
       "word": "韩裔名厨承认借鉴老干妈辣酱",
@@ -7963,14 +7971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 647462,
-      "num": 647462,
-      "word": "刘亦菲裙子好像钢丝球",
-      "onboard_time": 1713442638,
-      "rank": 12,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 647413,
       "num": 379526,
       "word": "弟弟考研上岸了我却一点不开心",
@@ -9001,6 +9001,14 @@
       "onboard_time": 1712383817,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 595359,
+      "num": 595359,
+      "word": "Amber断眉",
+      "onboard_time": 1713442577,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 595161,
@@ -13315,6 +13323,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 445275,
+      "num": 427730,
+      "word": "有性生活接种HPV疫苗仍旧有效",
+      "onboard_time": 1713441198,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 445171,
       "num": 445171,
       "word": "赵灵儿蛇身特效",
@@ -14019,14 +14035,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 427730,
-      "num": 427730,
-      "word": "有性生活接种HPV疫苗仍旧有效",
-      "onboard_time": 1713441198,
-      "rank": 11,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 427633,
       "num": 377151,
       "word": "IVE预告照",
@@ -14339,14 +14347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419876,
-      "num": 419876,
-      "word": "Amber断眉",
-      "onboard_time": 1713442577,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 419859,
       "num": 419859,
       "word": "CPI",
@@ -14593,6 +14593,14 @@
       "onboard_time": 1712013736,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411727,
+      "num": 411726,
+      "word": "李沁学姐妆",
+      "onboard_time": 1713443718,
+      "rank": 16,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 411677,
@@ -15425,6 +15433,14 @@
       "onboard_time": 1711986079,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 389180,
+      "num": 389180,
+      "word": "LV手套",
+      "onboard_time": 1713441976,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 388907,
@@ -16433,14 +16449,6 @@
       "onboard_time": 1713148396,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 366415,
-      "num": 366415,
-      "word": "LV手套",
-      "onboard_time": 1713441976,
-      "rank": 17,
-      "category": "时尚"
     },
     {
       "raw_hot": 366404,
@@ -17963,6 +17971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332741,
+      "num": 332741,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1713442038,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 332617,
       "num": 332617,
       "word": "王一博维和警察穿搭",
@@ -18659,14 +18675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 319720,
-      "num": 319720,
-      "word": "李沁学姐妆",
-      "onboard_time": 1713443718,
-      "rank": 16,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 319713,
       "num": 251966,
       "word": "花花被和叶推下水",
@@ -19067,6 +19075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 313243,
+      "num": 313243,
+      "word": "樊振东4比3林诗栋",
+      "onboard_time": 1713444257,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313224,
       "num": 297074,
       "word": "天水麻辣烫让杨国福张亮慌了吗",
@@ -19233,6 +19249,14 @@
       "onboard_time": 1712901439,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310276,
+      "num": 310276,
+      "word": "孙颖莎 将近40板的超强相持",
+      "onboard_time": 1713445878,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 310250,
@@ -20713,14 +20737,6 @@
       "onboard_time": 1712967136,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 286262,
-      "num": 243559,
-      "word": "周杰伦演唱会",
-      "onboard_time": 1713442038,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 286261,
@@ -23019,6 +23035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254209,
+      "num": 254209,
+      "word": "晨起3个表现是肝在求救",
+      "onboard_time": 1713437719,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 254104,
       "num": 254104,
       "word": "清明节",
@@ -23881,6 +23905,14 @@
       "onboard_time": 1712187015,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245846,
+      "num": 245846,
+      "word": "理想发布会",
+      "onboard_time": 1713442818,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 245831,
@@ -25827,14 +25859,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 227242,
-      "num": 227242,
-      "word": "理想发布会",
-      "onboard_time": 1713442818,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 227166,
       "num": 227166,
       "word": "一夜承明",
@@ -26289,14 +26313,6 @@
       "onboard_time": 1712896520,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223253,
-      "num": 223253,
-      "word": "晨起3个表现是肝在求救",
-      "onboard_time": 1713437719,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 223230,
@@ -29891,6 +29907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200768,
+      "num": 200768,
+      "word": "林依晨郑元畅活动合体",
+      "onboard_time": 1713445939,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200630,
       "num": 200630,
       "word": "最好的感情是相互成就",
@@ -30417,6 +30441,14 @@
       "onboard_time": 1713252379,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198214,
+      "num": 198214,
+      "word": "欧阳娜娜贴头皮马尾",
+      "onboard_time": 1713444798,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 198158,
@@ -34683,6 +34715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177656,
+      "num": 177656,
+      "word": "杨幂关雪穿婚纱路透",
+      "onboard_time": 1713445639,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177600,
       "num": 177600,
       "word": "惜花芷cp线",
@@ -35379,6 +35419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173904,
+      "num": 173904,
+      "word": "刘天池回应被怼没作品",
+      "onboard_time": 1713446118,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173876,
       "num": 173876,
       "word": "华为官宣春季沟通会时间",
@@ -35849,14 +35897,6 @@
       "onboard_time": 1713007037,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 171172,
-      "num": 171172,
-      "word": "樊振东4比3林诗栋",
-      "onboard_time": 1713444257,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 171133,
@@ -39731,6 +39771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151215,
+      "num": 151215,
+      "word": "考研失败后我妈的态度",
+      "onboard_time": 1713445338,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 151207,
       "num": 151207,
       "word": "巴黎奥运倒计时100天",
@@ -39817,6 +39865,14 @@
       "onboard_time": 1713259699,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 150733,
+      "num": 150733,
+      "word": "LGD对战eStar",
+      "onboard_time": 1713445878,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 150712,
@@ -47339,6 +47395,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 98775,
+      "num": 411727,
+      "word": "LV大秀直击",
+      "onboard_time": 1713442638,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 98767,
       "num": 98767,
       "word": "5个延缓衰老技巧",
@@ -48963,14 +49027,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 63672,
-      "num": 314549,
-      "word": "LV大秀直击",
-      "onboard_time": 1713442638,
-      "rank": 36,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 63636,
       "num": 63636,
       "word": "田柾国评论李龙馥视频",
@@ -49753,6 +49809,14 @@
       "onboard_time": 1712994737,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 44180,
+      "num": 248960,
+      "word": "LV拿下沪签",
+      "onboard_time": 1713444378,
+      "rank": 26,
+      "category": "时尚"
     },
     {
       "raw_hot": 44166,
@@ -51257,6 +51321,14 @@
       "onboard_time": 1712900057,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 7252,
+      "num": 640891,
+      "word": "全力巩固和增强经济回升向好态势",
+      "onboard_time": 1713446237,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -51433,6 +51505,9 @@
     },
     {
       "word": "#推动党组织向最基层延伸#"
+    },
+    {
+      "word": "#发挥超大市场优势和内需潜力为各国合作提供更多机遇#"
     }
   ]
 }
