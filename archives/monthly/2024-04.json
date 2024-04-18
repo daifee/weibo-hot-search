@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713414043937,
+  "endTime": 1713414841707,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -780,7 +780,7 @@
     },
     {
       "raw_hot": 1882836,
-      "num": 356014,
+      "num": 395169,
       "word": "韩亿 出轨",
       "onboard_time": 1713404777,
       "rank": 10,
@@ -817,6 +817,14 @@
       "onboard_time": 1711945344,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1847423,
+      "num": 1847423,
+      "word": "种地吧 抢大米",
+      "onboard_time": 1713413299,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1830152,
@@ -1576,14 +1584,6 @@
       "word": "向佐一提郭碧婷就哭",
       "onboard_time": 1712980457,
       "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1491904,
-      "num": 1491904,
-      "word": "种地吧 抢大米",
-      "onboard_time": 1713413299,
-      "rank": 0,
       "category": "综艺"
     },
     {
@@ -3379,6 +3379,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1043280,
+      "num": 1043280,
+      "word": "王艺迪1比4张本美和",
+      "onboard_time": 1713413299,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1042909,
       "num": 412871,
       "word": "第一批丁克夫妻现状曝光",
@@ -4609,14 +4617,6 @@
       "onboard_time": 1711899020,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 875995,
-      "num": 875995,
-      "word": "王艺迪1比4张本美和",
-      "onboard_time": 1713413299,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 875862,
@@ -7339,6 +7339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 668458,
+      "num": 668458,
+      "word": "软脚虾",
+      "onboard_time": 1713412519,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 668127,
       "num": 668127,
       "word": "孙怡站姐呢",
@@ -7945,6 +7953,14 @@
       "onboard_time": 1712550141,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 633046,
+      "num": 633046,
+      "word": "咒术回战 虎杖宿傩双胞胎",
+      "onboard_time": 1713413719,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 632558,
@@ -9371,6 +9387,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 563682,
+      "num": 394612,
+      "word": "补水第一名的水果",
+      "onboard_time": 1713407417,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 563299,
       "num": 563299,
       "word": "张亮 给孩子试错和承担的权利",
@@ -9561,14 +9585,6 @@
       "onboard_time": 1713315797,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 554573,
-      "num": 355650,
-      "word": "补水第一名的水果",
-      "onboard_time": 1713407417,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 554159,
@@ -10939,6 +10955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 504614,
+      "num": 646543,
+      "word": "男子捐赠3份清朝科举试卷",
+      "onboard_time": 1713402198,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504543,
       "num": 375324,
       "word": "邓科谈与赵丽颖合作的感受",
@@ -11179,14 +11203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 498657,
-      "num": 646543,
-      "word": "男子捐赠3份清朝科举试卷",
-      "onboard_time": 1713402198,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 497765,
       "num": 497765,
       "word": "去世的妻生病的娃破碎的他",
@@ -11265,6 +11281,14 @@
       "onboard_time": 1712585182,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 493607,
+      "num": 493607,
+      "word": "拜登称其舅舅在二战中被食人族吃掉",
+      "onboard_time": 1713414138,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 493447,
@@ -11857,14 +11881,6 @@
       "onboard_time": 1713242299,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 475119,
-      "num": 475119,
-      "word": "软脚虾",
-      "onboard_time": 1713412519,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 474600,
@@ -14683,6 +14699,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 395657,
+      "num": 395657,
+      "word": "张杰杭州抢票",
+      "onboard_time": 1713414500,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 395656,
       "num": 395656,
       "word": "Joy站姐发了内娱的Joy",
@@ -14785,6 +14809,14 @@
       "onboard_time": 1712375478,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 392713,
+      "num": 392713,
+      "word": "周杰伦长沙",
+      "onboard_time": 1713410897,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 392568,
@@ -16867,14 +16899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 344789,
-      "num": 344789,
-      "word": "周杰伦长沙",
-      "onboard_time": 1713410897,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 344419,
       "num": 457097,
       "word": "克拉岛",
@@ -16905,6 +16929,14 @@
       "onboard_time": 1713012258,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343848,
+      "num": 343848,
+      "word": "ZICO和Jennie合作曲试听",
+      "onboard_time": 1713413719,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 343844,
@@ -20729,14 +20761,6 @@
       "onboard_time": 1712895259,
       "rank": 35,
       "category": "电竞,艺人"
-    },
-    {
-      "raw_hot": 276001,
-      "num": 276001,
-      "word": "咒术回战 虎杖宿傩双胞胎",
-      "onboard_time": 1713413719,
-      "rank": 27,
-      "category": "动漫"
     },
     {
       "raw_hot": 275954,
@@ -26571,6 +26595,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 213679,
+      "num": 213679,
+      "word": "这不是放假而是假放",
+      "onboard_time": 1713412638,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213609,
       "num": 213609,
       "word": "百想提名",
@@ -30179,6 +30211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 194788,
+      "num": 194788,
+      "word": "SKII在日本排海影响中再涨价",
+      "onboard_time": 1713414620,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 194728,
       "num": 194728,
       "word": "西藏阿里地区发生5.2级地震",
@@ -30273,14 +30313,6 @@
       "onboard_time": 1712495599,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 194351,
-      "num": 195313,
-      "word": "ZICO和Jennie合作曲试听",
-      "onboard_time": 1713413719,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 194337,
@@ -32787,14 +32819,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 182830,
-      "num": 182830,
-      "word": "这不是放假而是假放",
-      "onboard_time": 1713412638,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 182760,
       "num": 245738,
       "word": "不想运动可能不是因为懒",
@@ -34523,6 +34547,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 172715,
+      "num": 172715,
+      "word": "凤凰传奇二开",
+      "onboard_time": 1713414740,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172588,
       "num": 172588,
       "word": "相逢的人总能再相逢",
@@ -35211,6 +35243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168153,
+      "num": 168153,
+      "word": "广州仿佛一秒入夜",
+      "onboard_time": 1713414500,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 168112,
       "num": 106429,
       "word": "马丽言论",
@@ -35769,6 +35809,14 @@
       "onboard_time": 1713168680,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164780,
+      "num": 164780,
+      "word": "华为Pura70摄像头像北极熊",
+      "onboard_time": 1713414799,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 164764,
@@ -39817,6 +39865,14 @@
       "onboard_time": 1713223937,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 145130,
+      "num": 635378,
+      "word": "鹿晗高级感大片",
+      "onboard_time": 1713413719,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 145121,
@@ -47443,14 +47499,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 64895,
-      "num": 190257,
-      "word": "鹿晗高级感大片",
-      "onboard_time": 1713413719,
-      "rank": 38,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 64859,
       "num": 686034,
       "word": "把感动中国的故事写成一首歌",
@@ -48372,7 +48420,7 @@
     },
     {
       "raw_hot": 39856,
-      "num": 169006,
+      "num": 340124,
       "word": "豪华SUV为啥都标配四驱",
       "onboard_time": 1713413960,
       "rank": 46,
