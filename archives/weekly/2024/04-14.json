@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713467636796,
+  "endTime": 1713468846771,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -13307,6 +13307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 112385,
+      "num": 112385,
+      "word": "氯雷他定可能是疗效最差的药物",
+      "onboard_time": 1713464051,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 112327,
       "num": 112327,
       "word": "专家称增加假期长度提升民众幸福感",
@@ -13873,14 +13881,6 @@
       "onboard_time": 1713050833,
       "rank": 40,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 86231,
-      "num": 86231,
-      "word": "氯雷他定可能是疗效最差的药物",
-      "onboard_time": 1713464051,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 86020,
@@ -14795,6 +14795,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 20580,
+      "num": 20580,
+      "word": "约一半的肺癌患者确诊时有慢性咳嗽",
+      "onboard_time": 1713466871,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 20143,
       "num": 20143,
       "word": "JackeyLove时隔1820天再次确定进入MSI",
@@ -14835,12 +14843,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 17930,
-      "num": 17930,
-      "word": "约一半的肺癌患者确诊时有慢性咳嗽",
-      "onboard_time": 1713466871,
-      "rank": 47,
-      "category": "健康医疗"
+      "raw_hot": 17410,
+      "num": 18094,
+      "word": "变形金刚起源首支预告",
+      "onboard_time": 1713462311,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 17256,
@@ -14865,6 +14873,14 @@
       "onboard_time": 1713382390,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 13278,
+      "num": 18042,
+      "word": "小狗忘了要对齐颗粒度",
+      "onboard_time": 1713468791,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 13118,

@@ -1,6 +1,6 @@
 {
   "startTime": 1713457373132,
-  "endTime": 1713467636796,
+  "endTime": 1713468846771,
   "band_list": [
     {
       "raw_hot": 697273,
@@ -291,6 +291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 112385,
+      "num": 112385,
+      "word": "氯雷他定可能是疗效最差的药物",
+      "onboard_time": 1713464051,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 105786,
       "num": 105786,
       "word": "电子宠物",
@@ -369,14 +377,6 @@
       "onboard_time": 1713449359,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 86231,
-      "num": 86231,
-      "word": "氯雷他定可能是疗效最差的药物",
-      "onboard_time": 1713464051,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 83257,
@@ -475,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 20580,
+      "num": 20580,
+      "word": "约一半的肺癌患者确诊时有慢性咳嗽",
+      "onboard_time": 1713466871,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 18064,
       "num": 563751,
       "word": "全力巩固和增强经济回升向好态势",
@@ -483,12 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17930,
-      "num": 17930,
-      "word": "约一半的肺癌患者确诊时有慢性咳嗽",
-      "onboard_time": 1713466871,
-      "rank": 47,
-      "category": "健康医疗"
+      "raw_hot": 17410,
+      "num": 18094,
+      "word": "变形金刚起源首支预告",
+      "onboard_time": 1713462311,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 13278,
+      "num": 18042,
+      "word": "小狗忘了要对齐颗粒度",
+      "onboard_time": 1713468791,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 12193,
