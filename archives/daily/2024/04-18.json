@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713422201089,
+  "endTime": 1713424643479,
   "band_list": [
     {
       "raw_hot": 3132046,
@@ -57,6 +57,14 @@
       "onboard_time": 1713358699,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1401368,
+      "num": 770128,
+      "word": "81岁大爷花25元嫖娼被抓",
+      "onboard_time": 1713420978,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1338063,
@@ -155,6 +163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 860327,
+      "num": 860327,
+      "word": "于正想跟庆余年2撞档期",
+      "onboard_time": 1713422658,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 840418,
       "num": 814161,
       "word": "杨威神吐槽生了仨体弱多病的娃",
@@ -203,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 774448,
+      "num": 424127,
+      "word": "舒畅怎么又瘦了",
+      "onboard_time": 1713420797,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 767067,
       "num": 767067,
       "word": "女子因带娃问题跟公公口角被扇9巴掌",
@@ -225,14 +249,6 @@
       "onboard_time": 1713408077,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 709319,
-      "num": 424127,
-      "word": "舒畅怎么又瘦了",
-      "onboard_time": 1713420797,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 707049,
@@ -315,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 605884,
-      "num": 605884,
-      "word": "81岁大爷花25元嫖娼被抓",
-      "onboard_time": 1713420978,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 618071,
+      "num": 618071,
+      "word": "王一博汤唯 许我向你看",
+      "onboard_time": 1713422479,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 574342,
@@ -451,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476902,
+      "num": 220315,
+      "word": "芒果TV称众多用户不在意5秒开屏广告",
+      "onboard_time": 1713421899,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 452801,
       "num": 244650,
       "word": "睡觉中途醒来千万不要发消息",
@@ -539,6 +563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 394094,
+      "num": 394094,
+      "word": "哈尔滨一九四四定档",
+      "onboard_time": 1713422779,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387472,
       "num": 387472,
       "word": "奔跑吧发布会",
@@ -569,6 +601,14 @@
       "onboard_time": 1713385150,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 369280,
+      "num": 369280,
+      "word": "林俊杰唱了为蔡依林写的歌",
+      "onboard_time": 1713424218,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 367071,
@@ -691,6 +731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 312476,
+      "num": 216795,
+      "word": "三年没聊过天的大学同学突然表白",
+      "onboard_time": 1713423799,
+      "rank": 22,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 308436,
       "num": 308436,
       "word": "日本四国岛附近发生6.5级地震",
@@ -713,6 +761,14 @@
       "onboard_time": 1713411678,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 296377,
+      "num": 296377,
+      "word": "小警犬考试没及格委屈到不行",
+      "onboard_time": 1713420679,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 294880,
@@ -744,6 +800,14 @@
       "word": "迪丽热巴学姐妆",
       "onboard_time": 1713416839,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 278195,
+      "num": 278195,
+      "word": "李耕耘健身成果",
+      "onboard_time": 1713424158,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -803,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256398,
+      "num": 256398,
+      "word": "林彦俊 卖书",
+      "onboard_time": 1713424158,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255148,
       "num": 255148,
       "word": "食物语",
@@ -827,6 +899,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 245668,
+      "num": 205349,
+      "word": "心情不好建议多去户外",
+      "onboard_time": 1713422718,
+      "rank": 26,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 244774,
       "num": 244774,
       "word": "开始推理吧发布会",
@@ -849,6 +929,14 @@
       "onboard_time": 1713362298,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231260,
+      "num": 198547,
+      "word": "张凌赫担心被拉去种田",
+      "onboard_time": 1713421398,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 229342,
@@ -905,14 +993,6 @@
       "onboard_time": 1713363499,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216797,
-      "num": 216797,
-      "word": "小警犬考试没及格委屈到不行",
-      "onboard_time": 1713420679,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 213679,
@@ -995,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202582,
+      "num": 202582,
+      "word": "澳门世界杯",
+      "onboard_time": 1713423439,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202527,
       "num": 202527,
       "word": "华为Pura70Ultra镜头可伸缩",
@@ -1035,20 +1123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198372,
+      "num": 198372,
+      "word": "华为门店销售称被临时叫来同样很懵",
+      "onboard_time": 1713423198,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 198137,
       "num": 198137,
       "word": "食物语停运补偿",
       "onboard_time": 1713363079,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 196455,
-      "num": 196455,
-      "word": "芒果TV称众多用户不在意5秒开屏广告",
-      "onboard_time": 1713421899,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 195433,
@@ -1083,19 +1171,19 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 194593,
+      "num": 194593,
+      "word": "周也油画里的少女",
+      "onboard_time": 1713424278,
+      "rank": 32,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 194406,
       "num": 194406,
       "word": "迪丽热巴导游后遗症",
       "onboard_time": 1713421338,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 194345,
-      "num": 194345,
-      "word": "张凌赫担心被拉去种田",
-      "onboard_time": 1713421398,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1163,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185653,
+      "num": 185653,
+      "word": "哈尔滨一九四四",
+      "onboard_time": 1713424338,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185088,
       "num": 185088,
       "word": "因为谐音卖不出去水果",
@@ -1177,6 +1273,14 @@
       "onboard_time": 1713416782,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176554,
+      "num": 176554,
+      "word": "宋雨琦跑男路透",
+      "onboard_time": 1713423259,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 171836,
@@ -1267,6 +1371,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 161769,
+      "num": 199113,
+      "word": "梁靖崑世界杯出局",
+      "onboard_time": 1713421998,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161605,
+      "num": 161605,
+      "word": "回流票",
+      "onboard_time": 1713423618,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158072,
       "num": 127620,
       "word": "朱婷表现出色单场16分",
@@ -1297,6 +1417,14 @@
       "onboard_time": 1713417498,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153605,
+      "num": 153605,
+      "word": "下周要上六天班",
+      "onboard_time": 1713422897,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 153004,
@@ -1347,14 +1475,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 147510,
-      "num": 147510,
-      "word": "梁靖崑世界杯出局",
-      "onboard_time": 1713421998,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 147283,
       "num": 147283,
       "word": "小伊伊怀二胎",
@@ -1371,12 +1491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146023,
+      "num": 146023,
+      "word": "陈梦vs素塔西尼",
+      "onboard_time": 1713423077,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145130,
       "num": 635378,
       "word": "鹿晗高级感大片",
       "onboard_time": 1713413719,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 144357,
+      "num": 144357,
+      "word": "华晨宇香港预售时间",
+      "onboard_time": 1713423139,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 141200,

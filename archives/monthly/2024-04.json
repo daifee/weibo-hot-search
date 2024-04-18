@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713422201089,
+  "endTime": 1713424643479,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1793,6 +1793,14 @@
       "onboard_time": 1712073259,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1401368,
+      "num": 770128,
+      "word": "81岁大爷花25元嫖娼被抓",
+      "onboard_time": 1713420978,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1399438,
@@ -4795,6 +4803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 860327,
+      "num": 860327,
+      "word": "于正想跟庆余年2撞档期",
+      "onboard_time": 1713422658,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 859326,
       "num": 859326,
       "word": "政审结束后被告知有五年服务期",
@@ -5883,6 +5899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 774448,
+      "num": 424127,
+      "word": "舒畅怎么又瘦了",
+      "onboard_time": 1713420797,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 773482,
       "num": 773482,
       "word": "警方通报知名茶企老板一家三口遇害",
@@ -6769,14 +6793,6 @@
       "onboard_time": 1712533939,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 709319,
-      "num": 424127,
-      "word": "舒畅怎么又瘦了",
-      "onboard_time": 1713420797,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 709250,
@@ -8363,6 +8379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 618071,
+      "num": 618071,
+      "word": "王一博汤唯 许我向你看",
+      "onboard_time": 1713422479,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 617535,
       "num": 617535,
       "word": "减肥关键点是饿",
@@ -8609,14 +8633,6 @@
       "onboard_time": 1713094159,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 605884,
-      "num": 605884,
-      "word": "81岁大爷花25元嫖娼被抓",
-      "onboard_time": 1713420978,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 605850,
@@ -11947,6 +11963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476902,
+      "num": 220315,
+      "word": "芒果TV称众多用户不在意5秒开屏广告",
+      "onboard_time": 1713421899,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 476769,
       "num": 476769,
       "word": "上戏偶遇林更新",
@@ -14907,6 +14931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 394094,
+      "num": 394094,
+      "word": "哈尔滨一九四四定档",
+      "onboard_time": 1713422779,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 393891,
       "num": 453513,
       "word": "赵丽颖三不限艺人",
@@ -15921,6 +15953,14 @@
       "onboard_time": 1712792837,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 369280,
+      "num": 369280,
+      "word": "林俊杰唱了为蔡依林写的歌",
+      "onboard_time": 1713424218,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 368929,
@@ -18667,6 +18707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312476,
+      "num": 216795,
+      "word": "三年没聊过天的大学同学突然表白",
+      "onboard_time": 1713423799,
+      "rank": 22,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 312313,
       "num": 312313,
       "word": "王一博硬控直播三分钟",
@@ -19625,6 +19673,14 @@
       "onboard_time": 1712726058,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296377,
+      "num": 296377,
+      "word": "小警犬考试没及格委屈到不行",
+      "onboard_time": 1713420679,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 296307,
@@ -20760,6 +20816,14 @@
       "word": "迪丽热巴学姐妆",
       "onboard_time": 1713416839,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 278195,
+      "num": 278195,
+      "word": "李耕耘健身成果",
+      "onboard_time": 1713424158,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -22347,6 +22411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 256398,
+      "num": 256398,
+      "word": "林彦俊 卖书",
+      "onboard_time": 1713424158,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256303,
       "num": 238115,
       "word": "刚工作三个月父母就向我要钱",
@@ -23337,6 +23409,14 @@
       "onboard_time": 1711964840,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 245668,
+      "num": 205349,
+      "word": "心情不好建议多去户外",
+      "onboard_time": 1713422718,
+      "rank": 26,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 245512,
@@ -24849,6 +24929,14 @@
       "onboard_time": 1711944682,
       "rank": 34,
       "category": "科学科普,互联网"
+    },
+    {
+      "raw_hot": 231260,
+      "num": 198547,
+      "word": "张凌赫担心被拉去种田",
+      "onboard_time": 1713421398,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 231244,
@@ -26425,14 +26513,6 @@
       "onboard_time": 1712977216,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216797,
-      "num": 216797,
-      "word": "小警犬考试没及格委屈到不行",
-      "onboard_time": 1713420679,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 216769,
@@ -29747,6 +29827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198372,
+      "num": 198372,
+      "word": "华为门店销售称被临时叫来同样很懵",
+      "onboard_time": 1713423198,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 198363,
       "num": 198363,
       "word": "巴黎奥运会乒乓球项目球台揭晓",
@@ -30065,14 +30153,6 @@
       "onboard_time": 1713088037,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 196455,
-      "num": 196455,
-      "word": "芒果TV称众多用户不在意5秒开屏广告",
-      "onboard_time": 1713421899,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 196400,
@@ -30483,6 +30563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194593,
+      "num": 194593,
+      "word": "周也油画里的少女",
+      "onboard_time": 1713424278,
+      "rank": 32,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 194570,
       "num": 194570,
       "word": "电视剧大生意人官宣",
@@ -30569,14 +30657,6 @@
       "onboard_time": 1712495599,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 194345,
-      "num": 194345,
-      "word": "张凌赫担心被拉去种田",
-      "onboard_time": 1713421398,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 194337,
@@ -32603,6 +32683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185653,
+      "num": 185653,
+      "word": "哈尔滨一九四四",
+      "onboard_time": 1713424338,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185583,
       "num": 185583,
       "word": "秦始皇帝陵何时能发掘",
@@ -34057,6 +34145,14 @@
       "onboard_time": 1712669538,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176554,
+      "num": 176554,
+      "word": "宋雨琦跑男路透",
+      "onboard_time": 1713423259,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 176540,
@@ -36675,6 +36771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161769,
+      "num": 199113,
+      "word": "梁靖崑世界杯出局",
+      "onboard_time": 1713421998,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161695,
       "num": 161695,
       "word": "这些高碳蔬菜或会越吃越胖",
@@ -36697,6 +36801,14 @@
       "onboard_time": 1713359599,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161605,
+      "num": 161605,
+      "word": "回流票",
+      "onboard_time": 1713423618,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 161533,
@@ -38243,6 +38355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153605,
+      "num": 153605,
+      "word": "下周要上六天班",
+      "onboard_time": 1713422897,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153593,
       "num": 153593,
       "word": "又见逍遥",
@@ -39611,14 +39731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147510,
-      "num": 147510,
-      "word": "梁靖崑世界杯出局",
-      "onboard_time": 1713421998,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 147506,
       "num": 147506,
       "word": "没人能拒绝中式美学的魅力",
@@ -39947,6 +40059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146023,
+      "num": 146023,
+      "word": "陈梦vs素塔西尼",
+      "onboard_time": 1713423077,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146012,
       "num": 146012,
       "word": "演唱会的主角其实是你自己",
@@ -40273,6 +40393,14 @@
       "onboard_time": 1712819119,
       "rank": 32,
       "category": "军事"
+    },
+    {
+      "raw_hot": 144357,
+      "num": 144357,
+      "word": "华晨宇香港预售时间",
+      "onboard_time": 1713423139,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 144293,
