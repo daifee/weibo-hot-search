@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713425656902,
+  "endTime": 1713428568768,
   "band_list": [
     {
       "raw_hot": 3132046,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1394417,
+      "num": 1394417,
+      "word": "专家鼓励买到下铺的年轻人跟老人换位",
+      "onboard_time": 1713426258,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1338063,
       "num": 1338063,
       "word": "卫健委介入调查女子在医院输错药身亡",
@@ -97,6 +105,14 @@
       "onboard_time": 1713415879,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1158977,
+      "num": 1158977,
+      "word": "小警犬考试没及格委屈到不行",
+      "onboard_time": 1713420679,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 1156566,
@@ -171,6 +187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 902275,
+      "num": 902275,
+      "word": "庆余年2",
+      "onboard_time": 1713426738,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 840418,
       "num": 814161,
       "word": "杨威神吐槽生了仨体弱多病的娃",
@@ -185,6 +209,14 @@
       "onboard_time": 1713420437,
       "rank": 5,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 797795,
+      "num": 797795,
+      "word": "迪丽热巴漫画腿",
+      "onboard_time": 1713425658,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 797744,
@@ -232,6 +264,14 @@
       "word": "女子因带娃问题跟公公口角被扇9巴掌",
       "onboard_time": 1713417678,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 760057,
+      "num": 760057,
+      "word": "调休",
+      "onboard_time": 1713426438,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -307,6 +347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 644720,
+      "num": 644720,
+      "word": "林彦俊 卖书",
+      "onboard_time": 1713424158,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 633885,
       "num": 633885,
       "word": "麒麟9010",
@@ -337,22 +385,6 @@
       "onboard_time": 1713422479,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 606279,
-      "num": 606279,
-      "word": "小警犬考试没及格委屈到不行",
-      "onboard_time": 1713420679,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 603811,
-      "num": 603811,
-      "word": "林彦俊 卖书",
-      "onboard_time": 1713424158,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 574342,
@@ -411,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 526156,
+      "num": 526156,
+      "word": "迪丽热巴 我的漂亮学姐",
+      "onboard_time": 1713427037,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 516117,
       "num": 193118,
       "word": "飞飞一杯酒去世",
@@ -459,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498209,
+      "num": 498209,
+      "word": "北影节开幕红毯",
+      "onboard_time": 1713426317,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 496666,
       "num": 496666,
       "word": "中式汉堡还能卖得动吗",
@@ -484,11 +532,19 @@
     },
     {
       "raw_hot": 476902,
-      "num": 223731,
+      "num": 259132,
       "word": "芒果TV称众多用户不在意5秒开屏广告",
       "onboard_time": 1713421899,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 462040,
+      "num": 462040,
+      "word": "王栎鑫抢票",
+      "onboard_time": 1713425898,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 452801,
@@ -513,6 +569,14 @@
       "onboard_time": 1713424218,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 438147,
+      "num": 438147,
+      "word": "马龙说身体老有疼的地方",
+      "onboard_time": 1713426677,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 436587,
@@ -548,7 +612,7 @@
     },
     {
       "raw_hot": 415557,
-      "num": 223637,
+      "num": 319460,
       "word": "三年没聊过天的大学同学突然表白",
       "onboard_time": 1713423799,
       "rank": 22,
@@ -587,12 +651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399626,
+      "num": 399626,
+      "word": "李耕耘健身成果",
+      "onboard_time": 1713424158,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395657,
       "num": 395657,
       "word": "张杰杭州抢票",
       "onboard_time": 1713414500,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 395542,
+      "num": 395542,
+      "word": "雷军直播",
+      "onboard_time": 1713427278,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 394094,
@@ -625,14 +705,6 @@
       "onboard_time": 1713418759,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376276,
-      "num": 376276,
-      "word": "李耕耘健身成果",
-      "onboard_time": 1713424158,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 374012,
@@ -795,6 +867,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293613,
+      "num": 546648,
+      "word": "班主任把家长合影设为壁纸",
+      "onboard_time": 1713426617,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 293383,
+      "num": 293383,
+      "word": "卧铺挂床帘当事年轻人发声",
+      "onboard_time": 1713427877,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285743,
       "num": 285743,
       "word": "成都重庆燃气集团股东涉同家公司",
@@ -833,6 +921,14 @@
       "onboard_time": 1713414740,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 274455,
+      "num": 274455,
+      "word": "刘亦菲 马甲线",
+      "onboard_time": 1713427758,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 274401,
@@ -900,7 +996,7 @@
     },
     {
       "raw_hot": 246251,
-      "num": 221471,
+      "num": 237507,
       "word": "厉旭发言",
       "onboard_time": 1713425180,
       "rank": 23,
@@ -945,6 +1041,14 @@
       "onboard_time": 1713362298,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232403,
+      "num": 232403,
+      "word": "人民网评卧铺挂帘子",
+      "onboard_time": 1713427938,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231260,
@@ -1227,6 +1331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189952,
+      "num": 189952,
+      "word": "承欢记有自己的公主小妹",
+      "onboard_time": 1713427578,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188575,
       "num": 188575,
       "word": "重庆燃气",
@@ -1249,6 +1361,14 @@
       "onboard_time": 1713420198,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186941,
+      "num": 186941,
+      "word": "林昀儒淘汰",
+      "onboard_time": 1713425778,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 185653,
@@ -1363,12 +1483,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165580,
+      "num": 165580,
+      "word": "奔跑吧12龙重登场发布会",
+      "onboard_time": 1713427217,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164780,
       "num": 164780,
       "word": "华为Pura70摄像头像北极熊",
       "onboard_time": 1713414799,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 163920,
+      "num": 163920,
+      "word": "胡先煦拍的张子枫",
+      "onboard_time": 1713427458,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 163398,
@@ -1425,6 +1561,14 @@
       "onboard_time": 1713417498,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153670,
+      "num": 153670,
+      "word": "王艺迪输张本美和被扣3000分",
+      "onboard_time": 1713426677,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 153605,
@@ -1739,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113730,
+      "num": 113730,
+      "word": "杨紫许凯谈合作前后印象反差",
+      "onboard_time": 1713426197,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113344,
       "num": 113344,
       "word": "苏有朋吴奇隆合体录综艺",
@@ -2011,12 +2163,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 39853,
+      "num": 1001460,
+      "word": "春好正是耕种时",
+      "onboard_time": 1713411918,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35049,
       "num": 168999,
       "word": "直板机用户羡慕的折叠屏功能",
       "onboard_time": 1713408378,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 32284,
+      "num": 248671,
+      "word": "丰田首款国产四驱MPV格瑞维亚",
+      "onboard_time": 1713426438,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 30854,

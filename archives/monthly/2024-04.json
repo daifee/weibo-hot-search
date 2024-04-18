@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713425656902,
+  "endTime": 1713428568768,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1819,6 +1819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1394417,
+      "num": 1394417,
+      "word": "专家鼓励买到下铺的年轻人跟老人换位",
+      "onboard_time": 1713426258,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1390826,
       "num": 1390826,
       "word": "韩国国务总理辞职",
@@ -2809,6 +2817,14 @@
       "onboard_time": 1712310077,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1158977,
+      "num": 1158977,
+      "word": "小警犬考试没及格委屈到不行",
+      "onboard_time": 1713420679,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 1158036,
@@ -4507,6 +4523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 902275,
+      "num": 902275,
+      "word": "庆余年2",
+      "onboard_time": 1712588479,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 902109,
       "num": 902109,
       "word": "李栋旭在工作人员头上读剧本",
@@ -5561,6 +5585,14 @@
       "onboard_time": 1711980981,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 797795,
+      "num": 797795,
+      "word": "迪丽热巴漫画腿",
+      "onboard_time": 1713425658,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 797744,
@@ -7859,6 +7891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 644720,
+      "num": 644720,
+      "word": "林彦俊 卖书",
+      "onboard_time": 1713424158,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 644629,
       "num": 644629,
       "word": "审判承欢记",
@@ -8009,14 +8049,6 @@
       "onboard_time": 1712932998,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 635976,
-      "num": 635976,
-      "word": "庆余年2",
-      "onboard_time": 1712588479,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 635493,
@@ -8635,14 +8667,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 606279,
-      "num": 606279,
-      "word": "小警犬考试没及格委屈到不行",
-      "onboard_time": 1713420679,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 605850,
       "num": 605850,
       "word": "尚雯婕复旦毕业20年经历",
@@ -8673,14 +8697,6 @@
       "onboard_time": 1712720058,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 603811,
-      "num": 603811,
-      "word": "林彦俊 卖书",
-      "onboard_time": 1713424158,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 603461,
@@ -10475,6 +10491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 526156,
+      "num": 526156,
+      "word": "迪丽热巴 我的漂亮学姐",
+      "onboard_time": 1713427037,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 525972,
       "num": 525972,
       "word": "吉林省教育厅回应女生带病出操死亡",
@@ -11355,6 +11379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 498209,
+      "num": 498209,
+      "word": "北影节开幕红毯",
+      "onboard_time": 1713426317,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 497765,
       "num": 497765,
       "word": "去世的妻生病的娃破碎的他",
@@ -11980,7 +12012,7 @@
     },
     {
       "raw_hot": 476902,
-      "num": 223731,
+      "num": 259132,
       "word": "芒果TV称众多用户不在意5秒开屏广告",
       "onboard_time": 1713421899,
       "rank": 35,
@@ -12465,6 +12497,14 @@
       "onboard_time": 1712796319,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462040,
+      "num": 462040,
+      "word": "王栎鑫抢票",
+      "onboard_time": 1713425898,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 462015,
@@ -13313,6 +13353,14 @@
       "onboard_time": 1712109861,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 438147,
+      "num": 438147,
+      "word": "马龙说身体老有疼的地方",
+      "onboard_time": 1713426677,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 438014,
@@ -14196,7 +14244,7 @@
     },
     {
       "raw_hot": 415557,
-      "num": 223637,
+      "num": 319460,
       "word": "三年没聊过天的大学同学突然表白",
       "onboard_time": 1713423799,
       "rank": 22,
@@ -14699,6 +14747,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 399626,
+      "num": 399626,
+      "word": "李耕耘健身成果",
+      "onboard_time": 1713424158,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399421,
       "num": 393962,
       "word": "张艺兴抵达韩国",
@@ -14905,6 +14961,14 @@
       "onboard_time": 1712649798,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395542,
+      "num": 395542,
+      "word": "雷军直播",
+      "onboard_time": 1713427278,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 395215,
@@ -15729,14 +15793,6 @@
       "onboard_time": 1713166218,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 376276,
-      "num": 376276,
-      "word": "李耕耘健身成果",
-      "onboard_time": 1713424158,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 376103,
@@ -19811,6 +19867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293613,
+      "num": 546648,
+      "word": "班主任把家长合影设为壁纸",
+      "onboard_time": 1713426617,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 293573,
       "num": 293573,
       "word": "BLG辅助On被喷",
@@ -19824,6 +19888,14 @@
       "word": "警方回应保时捷女司机撞车恐吓被撞车主",
       "onboard_time": 1713009919,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293383,
+      "num": 293383,
+      "word": "卧铺挂床帘当事年轻人发声",
+      "onboard_time": 1713427877,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -21097,6 +21169,14 @@
       "onboard_time": 1712746759,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 274455,
+      "num": 274455,
+      "word": "刘亦菲 马甲线",
+      "onboard_time": 1713427758,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 274401,
@@ -23356,7 +23436,7 @@
     },
     {
       "raw_hot": 246251,
-      "num": 221471,
+      "num": 237507,
       "word": "厉旭发言",
       "onboard_time": 1713425180,
       "rank": 23,
@@ -24817,6 +24897,14 @@
       "onboard_time": 1713360679,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232403,
+      "num": 232403,
+      "word": "人民网评卧铺挂帘子",
+      "onboard_time": 1713427938,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232393,
@@ -31699,6 +31787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189952,
+      "num": 189952,
+      "word": "承欢记有自己的公主小妹",
+      "onboard_time": 1713427578,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189943,
       "num": 189943,
       "word": "林更新终于会侧位吻了",
@@ -32345,6 +32441,14 @@
       "onboard_time": 1712571559,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186941,
+      "num": 186941,
+      "word": "林昀儒淘汰",
+      "onboard_time": 1713425778,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 186840,
@@ -36083,6 +36187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165580,
+      "num": 165580,
+      "word": "奔跑吧12龙重登场发布会",
+      "onboard_time": 1713427217,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165510,
       "num": 165510,
       "word": "我唯一担心的事情 她没有笑",
@@ -36401,6 +36513,14 @@
       "onboard_time": 1711929739,
       "rank": 38,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 163920,
+      "num": 163920,
+      "word": "胡先煦拍的张子枫",
+      "onboard_time": 1713427458,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 163866,
@@ -38352,6 +38472,14 @@
       "word": "工体将永远为杨雪保留座位",
       "onboard_time": 1712135841,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153670,
+      "num": 153670,
+      "word": "王艺迪输张本美和被扣3000分",
+      "onboard_time": 1713426677,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -45267,6 +45395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113730,
+      "num": 113730,
+      "word": "杨紫许凯谈合作前后印象反差",
+      "onboard_time": 1713426197,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113552,
       "num": 113552,
       "word": "诺米的故事",
@@ -48939,6 +49075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 39853,
+      "num": 1001460,
+      "word": "春好正是耕种时",
+      "onboard_time": 1713411918,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39850,
       "num": 249571,
       "word": "同道大叔抽到了Joker",
@@ -49225,6 +49369,14 @@
       "onboard_time": 1713187099,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32284,
+      "num": 248671,
+      "word": "丰田首款国产四驱MPV格瑞维亚",
+      "onboard_time": 1713426438,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 32137,

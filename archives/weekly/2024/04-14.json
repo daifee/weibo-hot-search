@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713425656902,
+  "endTime": 1713428568768,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1394417,
+      "num": 1394417,
+      "word": "专家鼓励买到下铺的年轻人跟老人换位",
+      "onboard_time": 1713426258,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1384101,
       "num": 1384101,
       "word": "你们有5根手指 我只有4根诶",
@@ -617,6 +625,14 @@
       "onboard_time": 1713349758,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 1158977,
+      "num": 1158977,
+      "word": "小警犬考试没及格委屈到不行",
+      "onboard_time": 1713420679,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 1156566,
@@ -1067,6 +1083,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 902275,
+      "num": 902275,
+      "word": "庆余年2",
+      "onboard_time": 1713426738,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 899267,
       "num": 899267,
       "word": "赵薇名下所持股权再遭冻结",
@@ -1299,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 797795,
+      "num": 797795,
+      "word": "迪丽热巴漫画腿",
+      "onboard_time": 1713425658,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 797744,
       "num": 797744,
       "word": "为啥现在叫谁都叫老师",
@@ -1473,6 +1505,14 @@
       "onboard_time": 1713269478,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 760057,
+      "num": 760057,
+      "word": "调休",
+      "onboard_time": 1713426438,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 758090,
@@ -1859,6 +1899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 644720,
+      "num": 644720,
+      "word": "林彦俊 卖书",
+      "onboard_time": 1713424158,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 644092,
       "num": 644092,
       "word": "秦皇岛一船只侧翻已致12死6失联",
@@ -2025,22 +2073,6 @@
       "onboard_time": 1713094159,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 606279,
-      "num": 606279,
-      "word": "小警犬考试没及格委屈到不行",
-      "onboard_time": 1713420679,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 603811,
-      "num": 603811,
-      "word": "林彦俊 卖书",
-      "onboard_time": 1713424158,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 602274,
@@ -2491,6 +2523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 526156,
+      "num": 526156,
+      "word": "迪丽热巴 我的漂亮学姐",
+      "onboard_time": 1713427037,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 525972,
       "num": 525972,
       "word": "吉林省教育厅回应女生带病出操死亡",
@@ -2779,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498209,
+      "num": 498209,
+      "word": "北影节开幕红毯",
+      "onboard_time": 1713426317,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 496666,
       "num": 496666,
       "word": "中式汉堡还能卖得动吗",
@@ -2924,7 +2972,7 @@
     },
     {
       "raw_hot": 476902,
-      "num": 223731,
+      "num": 259132,
       "word": "芒果TV称众多用户不在意5秒开屏广告",
       "onboard_time": 1713421899,
       "rank": 35,
@@ -3073,6 +3121,14 @@
       "onboard_time": 1713066076,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 462040,
+      "num": 462040,
+      "word": "王栎鑫抢票",
+      "onboard_time": 1713425898,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 460901,
@@ -3289,6 +3345,14 @@
       "onboard_time": 1713097577,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 438147,
+      "num": 438147,
+      "word": "马龙说身体老有疼的地方",
+      "onboard_time": 1713426677,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 437776,
@@ -3516,7 +3580,7 @@
     },
     {
       "raw_hot": 415557,
-      "num": 223637,
+      "num": 319460,
       "word": "三年没聊过天的大学同学突然表白",
       "onboard_time": 1713423799,
       "rank": 22,
@@ -3683,6 +3747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 399626,
+      "num": 399626,
+      "word": "李耕耘健身成果",
+      "onboard_time": 1713424158,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399421,
       "num": 393962,
       "word": "张艺兴抵达韩国",
@@ -3761,6 +3833,14 @@
       "onboard_time": 1713414500,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 395542,
+      "num": 395542,
+      "word": "雷军直播",
+      "onboard_time": 1713427278,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 394794,
@@ -4049,14 +4129,6 @@
       "onboard_time": 1713166218,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 376276,
-      "num": 376276,
-      "word": "李耕耘健身成果",
-      "onboard_time": 1713424158,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 374268,
@@ -5099,6 +5171,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293613,
+      "num": 546648,
+      "word": "班主任把家长合影设为壁纸",
+      "onboard_time": 1713426617,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 293383,
+      "num": 293383,
+      "word": "卧铺挂床帘当事年轻人发声",
+      "onboard_time": 1713427877,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292435,
       "num": 127977,
       "word": "上公厕马桶不垫纸会被传染疾病吗",
@@ -5425,6 +5513,14 @@
       "onboard_time": 1713414740,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 274455,
+      "num": 274455,
+      "word": "刘亦菲 马甲线",
+      "onboard_time": 1713427758,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 274401,
@@ -5940,7 +6036,7 @@
     },
     {
       "raw_hot": 246251,
-      "num": 221471,
+      "num": 237507,
       "word": "厉旭发言",
       "onboard_time": 1713425180,
       "rank": 23,
@@ -6377,6 +6473,14 @@
       "onboard_time": 1713360679,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232403,
+      "num": 232403,
+      "word": "人民网评卧铺挂帘子",
+      "onboard_time": 1713427938,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232393,
@@ -8123,6 +8227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189952,
+      "num": 189952,
+      "word": "承欢记有自己的公主小妹",
+      "onboard_time": 1713427578,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189740,
       "num": 189740,
       "word": "如懿传剧情",
@@ -8296,6 +8408,14 @@
       "word": "金州勇士",
       "onboard_time": 1713331338,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186941,
+      "num": 186941,
+      "word": "林昀儒淘汰",
+      "onboard_time": 1713425778,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -9267,6 +9387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165580,
+      "num": 165580,
+      "word": "奔跑吧12龙重登场发布会",
+      "onboard_time": 1713427217,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165508,
       "num": 165508,
       "word": "霍建华张雪迎新剧什么关系",
@@ -9369,6 +9497,14 @@
       "onboard_time": 1713059239,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 163920,
+      "num": 163920,
+      "word": "胡先煦拍的张子枫",
+      "onboard_time": 1713427458,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 163706,
@@ -9905,6 +10041,14 @@
       "onboard_time": 1713417498,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153670,
+      "num": 153670,
+      "word": "王艺迪输张本美和被扣3000分",
+      "onboard_time": 1713426677,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 153605,
@@ -11907,6 +12051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113730,
+      "num": 113730,
+      "word": "杨紫许凯谈合作前后印象反差",
+      "onboard_time": 1713426197,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113507,
       "num": 113507,
       "word": "LESSERAFIM科切拉舞台消音版",
@@ -12971,6 +13123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 39853,
+      "num": 1001460,
+      "word": "春好正是耕种时",
+      "onboard_time": 1713411918,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37512,
       "num": 37126,
       "word": "眼泪女王 甄嬛传",
@@ -13041,6 +13201,14 @@
       "onboard_time": 1713187099,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32284,
+      "num": 248671,
+      "word": "丰田首款国产四驱MPV格瑞维亚",
+      "onboard_time": 1713426438,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 32034,
