@@ -1,0 +1,410 @@
+{
+  "runTime": 1713440060900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1740129,
+        "num": 1740129,
+        "word": "学生出操死亡事件撤销涉事教师资格",
+        "onboard_time": 1713434719,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1118219,
+        "num": 1118219,
+        "word": "LV大秀",
+        "onboard_time": 1713436458,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 49261,
+        "num": 844033,
+        "word": "相约北影节",
+        "onboard_time": 1713429558,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 643764,
+        "num": 643764,
+        "word": "专家鼓励买到下铺的年轻人跟老人换位",
+        "onboard_time": 1713426258,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622992,
+        "num": 622992,
+        "word": "黄子韬比心 徐艺洋比耶",
+        "onboard_time": 1713435978,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593832,
+        "num": 593832,
+        "word": "胡锡进建议恢复五一黄金周",
+        "onboard_time": 1713434660,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544603,
+        "num": 544603,
+        "word": "雷军不知道张颂文提车了没",
+        "onboard_time": 1713436277,
+        "rank": 6,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 541529,
+        "num": 541529,
+        "word": "刘亦菲出图",
+        "onboard_time": 1713436938,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91100,
+        "num": 527659,
+        "word": "全红婵向跳水小队员传授水花消失术",
+        "onboard_time": 1713439218,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327150,
+        "num": 515820,
+        "word": "患癌丈夫为阿尔兹海默症妻子写下道别信",
+        "onboard_time": 1713435077,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 916052,
+        "num": 515807,
+        "word": "沙溢瘦了20斤",
+        "onboard_time": 1713430578,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515306,
+        "num": 515306,
+        "word": "酱园弄红毯只来了一个人",
+        "onboard_time": 1713433157,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 428843,
+        "num": 428843,
+        "word": "好久不见林志玲",
+        "onboard_time": 1713435918,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 413869,
+        "num": 413869,
+        "word": "关晓彤白纱高定",
+        "onboard_time": 1713436277,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 402664,
+        "num": 402664,
+        "word": "芒果TV称众多用户不在意5秒开屏广告",
+        "onboard_time": 1713421899,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 402429,
+        "num": 402429,
+        "word": "樊振东vs林诗栋",
+        "onboard_time": 1713439638,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385644,
+        "num": 385644,
+        "word": "范丞丞 刚满18岁",
+        "onboard_time": 1713432677,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352019,
+        "num": 352019,
+        "word": "胡歌帮高圆圆整理裙摆",
+        "onboard_time": 1713433699,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 314031,
+        "num": 314031,
+        "word": "班主任把家长合影设为壁纸",
+        "onboard_time": 1713426617,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259210,
+        "num": 259210,
+        "word": "无限暖暖",
+        "onboard_time": 1713439638,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 625181,
+        "num": 257101,
+        "word": "姑父强奸猥亵侄女7年被判13年",
+        "onboard_time": 1713430459,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402572,
+        "num": 251983,
+        "word": "删公婆好友后发超长文怼了公公",
+        "onboard_time": 1713436218,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306700,
+        "num": 248431,
+        "word": "庆余年2",
+        "onboard_time": 1713426738,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269406,
+        "num": 244138,
+        "word": "刘亦菲 马甲线",
+        "onboard_time": 1713427758,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 229083,
+        "num": 236414,
+        "word": "广州长隆回应暴雨前园内动物狂奔",
+        "onboard_time": 1713438379,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236360,
+        "num": 236360,
+        "word": "迪丽热巴说1米8以上很有安全感",
+        "onboard_time": 1713429798,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230037,
+        "num": 230037,
+        "word": "十个勤天否认草莓蔬菜有线下代售",
+        "onboard_time": 1713438257,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223253,
+        "num": 223253,
+        "word": "晨起3个表现是肝在求救",
+        "onboard_time": 1713437719,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37348,
+        "num": 221564,
+        "word": "全球首个防晒衣大秀",
+        "onboard_time": 1713437538,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220373,
+        "num": 220373,
+        "word": "81岁大爷花25元嫖娼被抓",
+        "onboard_time": 1713420978,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232534,
+        "num": 211198,
+        "word": "迪丽热巴漫画腿",
+        "onboard_time": 1713425658,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221108,
+        "num": 205847,
+        "word": "周冬雨 人生眼妆",
+        "onboard_time": 1713439576,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198714,
+        "num": 198714,
+        "word": "雷军回应着装模仿马斯克",
+        "onboard_time": 1713431958,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 191839,
+        "num": 191839,
+        "word": "ILLIT获MCD一位",
+        "onboard_time": 1713439519,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173857,
+        "num": 173857,
+        "word": "李耕耘健身成果",
+        "onboard_time": 1713424158,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125580,
+        "num": 171889,
+        "word": "年轻家庭购车什么是刚需",
+        "onboard_time": 1713439277,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170997,
+        "num": 170997,
+        "word": "张艺兴MCD",
+        "onboard_time": 1713433457,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170326,
+        "num": 170326,
+        "word": "吉林通报白城一学生死亡调查情况",
+        "onboard_time": 1713433878,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169870,
+        "num": 169870,
+        "word": "王曼昱 斯佐科斯",
+        "onboard_time": 1713436099,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169346,
+        "num": 169346,
+        "word": "infj有成为大女主的潜质",
+        "onboard_time": 1713437599,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165851,
+        "num": 165851,
+        "word": "胡歌为游本昌推轮椅",
+        "onboard_time": 1713435617,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156720,
+        "num": 156720,
+        "word": "42岁Selina想要二胎或三胎",
+        "onboard_time": 1713435798,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154233,
+        "num": 154233,
+        "word": "雷军下次直播将带货",
+        "onboard_time": 1713439457,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149723,
+        "num": 149723,
+        "word": "姚志明喜欢你不管你理不理",
+        "onboard_time": 1713439937,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149561,
+        "num": 149561,
+        "word": "刘耀文红毯生图",
+        "onboard_time": 1713437418,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144686,
+        "num": 144686,
+        "word": "Tian疑似找Tarzan请教",
+        "onboard_time": 1713436159,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127121,
+        "num": 127121,
+        "word": "余承东首晒Pura70样张",
+        "onboard_time": 1713436398,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118618,
+        "num": 118618,
+        "word": "王曼昱4比1斯佐科斯",
+        "onboard_time": 1713438618,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113890,
+        "num": 113890,
+        "word": "半夜吃蛋糕被女大围着唱生日歌",
+        "onboard_time": 1713439398,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106072,
+        "num": 113565,
+        "word": "为什么会有人觉得不应该要彩礼",
+        "onboard_time": 1713439937,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国交通发展日新月异#"
+    }
+  }
+}

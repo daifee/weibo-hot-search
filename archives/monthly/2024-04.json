@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713438886334,
+  "endTime": 1713440060900,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -8347,6 +8347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 622992,
+      "num": 622992,
+      "word": "黄子韬比心 徐艺洋比耶",
+      "onboard_time": 1713435978,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 622729,
       "num": 622729,
       "word": "朱梓骁 脖巴",
@@ -8993,6 +9001,14 @@
       "onboard_time": 1712463080,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 593832,
+      "num": 593832,
+      "word": "胡锡进建议恢复五一黄金周",
+      "onboard_time": 1713434660,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 593730,
@@ -10113,6 +10129,14 @@
       "onboard_time": 1713313157,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544603,
+      "num": 544603,
+      "word": "雷军不知道张颂文提车了没",
+      "onboard_time": 1713436277,
+      "rank": 32,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 544226,
@@ -11531,14 +11555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 497305,
-      "num": 497305,
-      "word": "胡锡进建议恢复五一黄金周",
-      "onboard_time": 1713434660,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 497099,
       "num": 497099,
       "word": "申有娜吃着火锅听中国人讲八卦",
@@ -12164,7 +12180,7 @@
     },
     {
       "raw_hot": 476902,
-      "num": 309499,
+      "num": 402664,
       "word": "芒果TV称众多用户不在意5秒开屏广告",
       "onboard_time": 1713421899,
       "rank": 35,
@@ -12737,14 +12753,6 @@
       "onboard_time": 1712065822,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 459797,
-      "num": 459797,
-      "word": "黄子韬比心 徐艺洋比耶",
-      "onboard_time": 1713435978,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 458842,
@@ -14851,12 +14859,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 402572,
+      "num": 267509,
+      "word": "删公婆好友后发超长文怼了公公",
+      "onboard_time": 1713436218,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 402438,
       "num": 402438,
       "word": "西安打雷",
       "onboard_time": 1712987418,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402429,
+      "num": 402429,
+      "word": "樊振东vs林诗栋",
+      "onboard_time": 1713439638,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 402322,
@@ -16731,14 +16755,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 356710,
-      "num": 267509,
-      "word": "删公婆好友后发超长文怼了公公",
-      "onboard_time": 1713436218,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 356707,
       "num": 356707,
       "word": "实力派女演员",
@@ -17193,14 +17209,6 @@
       "onboard_time": 1712959932,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 347683,
-      "num": 267370,
-      "word": "雷军不知道张颂文提车了没",
-      "onboard_time": 1713436277,
-      "rank": 32,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 347604,
@@ -18145,6 +18153,14 @@
       "onboard_time": 1712222719,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327150,
+      "num": 548740,
+      "word": "患癌丈夫为阿尔兹海默症妻子写下道别信",
+      "onboard_time": 1713435077,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327009,
@@ -20395,14 +20411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 290035,
-      "num": 548740,
-      "word": "患癌丈夫为阿尔兹海默症妻子写下道别信",
-      "onboard_time": 1713435077,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289338,
       "num": 289338,
       "word": "王鹤棣的世界是个巨大的哈圈",
@@ -22244,7 +22252,7 @@
     },
     {
       "raw_hot": 261732,
-      "num": 140732,
+      "num": 156720,
       "word": "42岁Selina想要二胎或三胎",
       "onboard_time": 1713435798,
       "rank": 30,
@@ -22473,6 +22481,14 @@
       "onboard_time": 1712899337,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259210,
+      "num": 259210,
+      "word": "无限暖暖",
+      "onboard_time": 1713267258,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 259187,
@@ -25491,6 +25507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229083,
+      "num": 236414,
+      "word": "广州长隆回应暴雨前园内动物狂奔",
+      "onboard_time": 1713438379,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228964,
       "num": 228964,
       "word": "原来换个灯都是成年人不允许的",
@@ -26155,6 +26179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223253,
+      "num": 223253,
+      "word": "晨起3个表现是肝在求救",
+      "onboard_time": 1713437719,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 223230,
       "num": 223230,
       "word": "WBG发布道歉公告",
@@ -26321,6 +26353,14 @@
       "onboard_time": 1712066781,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 221108,
+      "num": 205847,
+      "word": "周冬雨 人生眼妆",
+      "onboard_time": 1713439576,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 221065,
@@ -31643,6 +31683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191839,
+      "num": 191839,
+      "word": "ILLIT获MCD一位",
+      "onboard_time": 1713439519,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191820,
       "num": 191820,
       "word": "薛之谦杭州站",
@@ -35931,20 +35979,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169437,
-      "num": 169437,
-      "word": "晨起3个表现是肝在求救",
-      "onboard_time": 1713437719,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 169412,
       "num": 169412,
       "word": "眼泪女王爆改在俊他妈",
       "onboard_time": 1711956860,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169346,
+      "num": 169346,
+      "word": "infj有成为大女主的潜质",
+      "onboard_time": 1713437599,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 169286,
@@ -38484,7 +38532,7 @@
     },
     {
       "raw_hot": 155792,
-      "num": 118763,
+      "num": 149561,
       "word": "刘耀文红毯生图",
       "onboard_time": 1713437418,
       "rank": 42,
@@ -38745,6 +38793,14 @@
       "onboard_time": 1712982317,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154233,
+      "num": 154233,
+      "word": "雷军下次直播将带货",
+      "onboard_time": 1713439457,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 154180,
@@ -39817,6 +39873,14 @@
       "onboard_time": 1713395654,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149723,
+      "num": 149723,
+      "word": "姚志明喜欢你不管你理不理",
+      "onboard_time": 1713439937,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 149684,
@@ -41425,14 +41489,6 @@
       "onboard_time": 1712977937,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 142488,
-      "num": 142488,
-      "word": "infj有成为大女主的潜质",
-      "onboard_time": 1713437599,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 142421,
@@ -44059,14 +44115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126831,
-      "num": 126831,
-      "word": "无限暖暖",
-      "onboard_time": 1713267258,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 126719,
       "num": 126719,
       "word": "什么是躁狂发作",
@@ -44273,6 +44321,14 @@
       "onboard_time": 1712424013,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125580,
+      "num": 171889,
+      "word": "年轻家庭购车什么是刚需",
+      "onboard_time": 1713439277,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125565,
@@ -45755,14 +45811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115645,
-      "num": 115645,
-      "word": "广州长隆回应暴雨前园内动物狂奔",
-      "onboard_time": 1713438379,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115462,
       "num": 115462,
       "word": "蒋依依说今年不扯裙子了",
@@ -45929,6 +45977,14 @@
       "onboard_time": 1713406818,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113890,
+      "num": 113890,
+      "word": "半夜吃蛋糕被女大围着唱生日歌",
+      "onboard_time": 1713439398,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 113730,
@@ -46577,6 +46633,14 @@
       "onboard_time": 1713001698,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106072,
+      "num": 113565,
+      "word": "为什么会有人觉得不应该要彩礼",
+      "onboard_time": 1713439937,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 105999,
@@ -47577,6 +47641,14 @@
       "onboard_time": 1712858172,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91100,
+      "num": 527659,
+      "word": "全红婵向跳水小队员传授水花消失术",
+      "onboard_time": 1713439218,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 91015,

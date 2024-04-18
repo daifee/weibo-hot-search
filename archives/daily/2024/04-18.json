@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713438886334,
+  "endTime": 1713440060900,
   "band_list": [
     {
       "raw_hot": 3132046,
@@ -459,6 +459,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 622992,
+      "num": 622992,
+      "word": "黄子韬比心 徐艺洋比耶",
+      "onboard_time": 1713435978,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 622698,
       "num": 622698,
       "word": "吉隆坡网红泳池现蠕动长虫",
@@ -489,6 +497,14 @@
       "onboard_time": 1713429257,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 593832,
+      "num": 593832,
+      "word": "胡锡进建议恢复五一黄金周",
+      "onboard_time": 1713434660,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 581518,
@@ -571,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 544603,
+      "num": 544603,
+      "word": "雷军不知道张颂文提车了没",
+      "onboard_time": 1713436277,
+      "rank": 32,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 532441,
       "num": 532441,
       "word": "迪丽热巴 我的漂亮学姐",
@@ -643,14 +667,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 497305,
-      "num": 497305,
-      "word": "胡锡进建议恢复五一黄金周",
-      "onboard_time": 1713434660,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 496666,
       "num": 496666,
       "word": "中式汉堡还能卖得动吗",
@@ -684,7 +700,7 @@
     },
     {
       "raw_hot": 476902,
-      "num": 309499,
+      "num": 402664,
       "word": "芒果TV称众多用户不在意5秒开屏广告",
       "onboard_time": 1713421899,
       "rank": 35,
@@ -705,14 +721,6 @@
       "onboard_time": 1713427278,
       "rank": 17,
       "category": "数码"
-    },
-    {
-      "raw_hot": 459797,
-      "num": 459797,
-      "word": "黄子韬比心 徐艺洋比耶",
-      "onboard_time": 1713435978,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 452801,
@@ -819,6 +827,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 402572,
+      "num": 267509,
+      "word": "删公婆好友后发超长文怼了公公",
+      "onboard_time": 1713436218,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 402429,
+      "num": 402429,
+      "word": "樊振东vs林诗栋",
+      "onboard_time": 1713439638,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 402322,
       "num": 402322,
       "word": "婴儿独自爬出客厅猫咪警觉守护",
@@ -907,14 +931,6 @@
       "category": "国外时政,互联网"
     },
     {
-      "raw_hot": 356710,
-      "num": 267509,
-      "word": "删公婆好友后发超长文怼了公公",
-      "onboard_time": 1713436218,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 355112,
       "num": 355112,
       "word": "34岁南京女生因脂肪肝15天减重10斤",
@@ -945,14 +961,6 @@
       "onboard_time": 1713359659,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 347683,
-      "num": 267370,
-      "word": "雷军不知道张颂文提车了没",
-      "onboard_time": 1713436277,
-      "rank": 32,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 343848,
@@ -1019,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 327150,
+      "num": 548740,
+      "word": "患癌丈夫为阿尔兹海默症妻子写下道别信",
+      "onboard_time": 1713435077,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321120,
       "num": 279839,
       "word": "丁真走红毯",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1713430459,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 290035,
-      "num": 548740,
-      "word": "患癌丈夫为阿尔兹海默症妻子写下道别信",
-      "onboard_time": 1713435077,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285743,
@@ -1212,7 +1220,7 @@
     },
     {
       "raw_hot": 261732,
-      "num": 140732,
+      "num": 156720,
       "word": "42岁Selina想要二胎或三胎",
       "onboard_time": 1713435798,
       "rank": 30,
@@ -1225,6 +1233,14 @@
       "onboard_time": 1713374652,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259210,
+      "num": 259210,
+      "word": "无限暖暖",
+      "onboard_time": 1713439638,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 255148,
@@ -1323,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229083,
+      "num": 236414,
+      "word": "广州长隆回应暴雨前园内动物狂奔",
+      "onboard_time": 1713438379,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228357,
       "num": 228357,
       "word": "丁真合照让C位",
@@ -1361,6 +1385,22 @@
       "onboard_time": 1713372016,
       "rank": 24,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 223253,
+      "num": 223253,
+      "word": "晨起3个表现是肝在求救",
+      "onboard_time": 1713437719,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 221108,
+      "num": 205847,
+      "word": "周冬雨 人生眼妆",
+      "onboard_time": 1713439576,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 218771,
@@ -1643,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191839,
+      "num": 191839,
+      "word": "ILLIT获MCD一位",
+      "onboard_time": 1713439519,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191118,
       "num": 195345,
       "word": "林高远晋级世界杯8强",
@@ -1811,20 +1859,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 169437,
-      "num": 169437,
-      "word": "晨起3个表现是肝在求救",
-      "onboard_time": 1713437719,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 169405,
       "num": 169405,
       "word": "任敏是李现的胳肢窝",
       "onboard_time": 1713366920,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169346,
+      "num": 169346,
+      "word": "infj有成为大女主的潜质",
+      "onboard_time": 1713437599,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 168940,
@@ -1988,11 +2036,19 @@
     },
     {
       "raw_hot": 155792,
-      "num": 118763,
+      "num": 149561,
       "word": "刘耀文红毯生图",
       "onboard_time": 1713437418,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154233,
+      "num": 154233,
+      "word": "雷军下次直播将带货",
+      "onboard_time": 1713439457,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 153695,
@@ -2075,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149723,
+      "num": 149723,
+      "word": "姚志明喜欢你不管你理不理",
+      "onboard_time": 1713439937,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149197,
       "num": 149197,
       "word": "黄奕李英爱在首尔相遇",
@@ -2153,14 +2217,6 @@
       "onboard_time": 1713437898,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 142488,
-      "num": 142488,
-      "word": "infj有成为大女主的潜质",
-      "onboard_time": 1713437599,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 141926,
@@ -2331,6 +2387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 125580,
+      "num": 171889,
+      "word": "年轻家庭购车什么是刚需",
+      "onboard_time": 1713439277,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125472,
       "num": 125472,
       "word": "苹果iOS18或将改进备忘录应用",
@@ -2395,14 +2459,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 115645,
-      "num": 115645,
-      "word": "广州长隆回应暴雨前园内动物狂奔",
-      "onboard_time": 1713438379,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114815,
       "num": 114815,
       "word": "卫健委回应女子感冒输液后身亡",
@@ -2425,6 +2481,14 @@
       "onboard_time": 1713406818,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113890,
+      "num": 113890,
+      "word": "半夜吃蛋糕被女大围着唱生日歌",
+      "onboard_time": 1713439398,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 113730,
@@ -2465,6 +2529,14 @@
       "onboard_time": 1713403037,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106072,
+      "num": 113565,
+      "word": "为什么会有人觉得不应该要彩礼",
+      "onboard_time": 1713439937,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 105326,
@@ -2577,6 +2649,14 @@
       "onboard_time": 1713407837,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91100,
+      "num": 527659,
+      "word": "全红婵向跳水小队员传授水花消失术",
+      "onboard_time": 1713439218,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 89823,
