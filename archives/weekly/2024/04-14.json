@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713418452416,
+  "endTime": 1713421418812,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -587,6 +587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1177627,
+      "num": 1177627,
+      "word": "32岁交了个11岁的朋友",
+      "onboard_time": 1713415879,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1167062,
       "num": 1167062,
       "word": "王楚钦vs安宰贤",
@@ -601,6 +609,14 @@
       "onboard_time": 1713349758,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 1144755,
+      "num": 1144755,
+      "word": "穿着羞耻症",
+      "onboard_time": 1713416540,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 1120476,
@@ -931,14 +947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 957498,
-      "num": 538440,
-      "word": "32岁交了个11岁的朋友",
-      "onboard_time": 1713415879,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 956919,
       "num": 956919,
       "word": "张若昀半夜三点给郭麒麟打电话",
@@ -993,6 +1001,14 @@
       "onboard_time": 1713070939,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 916227,
+      "num": 376580,
+      "word": "参观周杰伦演唱会场馆后花近两万买邀请函",
+      "onboard_time": 1713418039,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 915372,
@@ -1395,6 +1411,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 767067,
+      "num": 767067,
+      "word": "女子因带娃问题跟公公口角被扇9巴掌",
+      "onboard_time": 1713417678,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 765928,
       "num": 765928,
       "word": "韩国化妆师给曾黎化的妆",
@@ -1771,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 653215,
+      "num": 653215,
+      "word": "易烊千玺 阿玛尼",
+      "onboard_time": 1713420437,
+      "rank": 5,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 649401,
       "num": 510507,
       "word": "莎头 可口可乐",
@@ -1929,14 +1961,6 @@
       "onboard_time": 1713053177,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 613320,
-      "num": 613320,
-      "word": "穿着羞耻症",
-      "onboard_time": 1713416540,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 612786,
@@ -2379,6 +2403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529528,
+      "num": 372302,
+      "word": "郑燕姿删除官宣视频",
+      "onboard_time": 1713418039,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 529325,
       "num": 529325,
       "word": "东部战区回应美军机过航台湾海峡",
@@ -2601,6 +2633,14 @@
       "onboard_time": 1713049813,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 509608,
+      "num": 509608,
+      "word": "迪丽热巴特意退回来和粉丝打招呼",
+      "onboard_time": 1713418218,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 507819,
@@ -3843,6 +3883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 379001,
+      "num": 379001,
+      "word": "梁靖崑vs安东",
+      "onboard_time": 1713419958,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 378468,
       "num": 378468,
       "word": "鹿晗这奖婉拒了哈",
@@ -4299,6 +4347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344209,
+      "num": 344209,
+      "word": "成都暴雨",
+      "onboard_time": 1713418759,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343913,
       "num": 343913,
       "word": "贾玲 是演员是编剧更是导演",
@@ -4361,6 +4417,14 @@
       "onboard_time": 1713324919,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 336951,
+      "num": 259593,
+      "word": "居然有人兴趣和挣钱刚好是同一件事",
+      "onboard_time": 1713420379,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 336060,
@@ -4633,14 +4697,6 @@
       "onboard_time": 1713022039,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 317157,
-      "num": 317157,
-      "word": "郑燕姿删除官宣视频",
-      "onboard_time": 1713418039,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 317063,
@@ -5091,14 +5147,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 286725,
-      "num": 286725,
-      "word": "迪丽热巴特意退回来和粉丝打招呼",
-      "onboard_time": 1713418218,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 285743,
       "num": 285743,
       "word": "成都重庆燃气集团股东涉同家公司",
@@ -5145,6 +5193,14 @@
       "onboard_time": 1713189079,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282979,
+      "num": 282979,
+      "word": "舒畅怎么又瘦了",
+      "onboard_time": 1713420797,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 282173,
@@ -5329,14 +5385,6 @@
       "onboard_time": 1713336737,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 272219,
-      "num": 240641,
-      "word": "参观周杰伦演唱会场馆后花近两万买邀请函",
-      "onboard_time": 1713418039,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 271646,
@@ -5625,6 +5673,14 @@
       "onboard_time": 1713311656,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255148,
+      "num": 255148,
+      "word": "食物语",
+      "onboard_time": 1713419478,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 254333,
@@ -6105,6 +6161,14 @@
       "onboard_time": 1713323778,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234783,
+      "num": 234783,
+      "word": "81岁大爷花25元嫖娼被抓",
+      "onboard_time": 1713420978,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234760,
@@ -7723,6 +7787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 194406,
+      "num": 194406,
+      "word": "迪丽热巴导游后遗症",
+      "onboard_time": 1713421338,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194058,
       "num": 194058,
       "word": "甄嬛去哪了",
@@ -8000,6 +8072,14 @@
       "word": "张艺兴新歌音源上线",
       "onboard_time": 1713322758,
       "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 188069,
+      "num": 188069,
+      "word": "aespa新歌歌名疑似曝光",
+      "onboard_time": 1713420198,
+      "rank": 36,
       "category": "音乐"
     },
     {
@@ -8371,14 +8451,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 181053,
-      "num": 181053,
-      "word": "女子因带娃问题跟公公口角被扇9巴掌",
-      "onboard_time": 1713417678,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180981,
       "num": 180981,
       "word": "巴萨1比4巴黎",
@@ -8723,6 +8795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172390,
+      "num": 172390,
+      "word": "小警犬考试没及格委屈到不行",
+      "onboard_time": 1713420679,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171836,
       "num": 171836,
       "word": "用短剧的方式打开李现新剧",
@@ -8761,6 +8841,14 @@
       "onboard_time": 1713235458,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171367,
+      "num": 165836,
+      "word": "阿里版GPTStore上线",
+      "onboard_time": 1713420557,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 171325,
@@ -8859,6 +8947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169251,
+      "num": 169251,
+      "word": "孟子义回应徐志胜眼睛没有卧蚕大",
+      "onboard_time": 1713421398,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169104,
       "num": 665114,
       "word": "这只大熊猫的糖分超标",
@@ -8905,6 +9001,14 @@
       "onboard_time": 1713309736,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167790,
+      "num": 231750,
+      "word": "王婆谈江西高彩礼",
+      "onboard_time": 1713420619,
+      "rank": 29,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 167760,
@@ -10459,6 +10563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139910,
+      "num": 139910,
+      "word": "张凌赫担心被拉去种田",
+      "onboard_time": 1713421398,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139457,
       "num": 139457,
       "word": "郎平拥抱朱婷",
@@ -10595,6 +10707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 137197,
+      "num": 137197,
+      "word": "开推2团名赫丽摸宇",
+      "onboard_time": 1713420917,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136817,
       "num": 136817,
       "word": "重庆一地铁站石砖脱落砸中孕妇",
@@ -10657,6 +10777,14 @@
       "onboard_time": 1713164957,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135125,
+      "num": 135125,
+      "word": "承欢记央一开播",
+      "onboard_time": 1713418698,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 134613,
@@ -12531,6 +12659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48713,
+      "num": 255578,
+      "word": "全新理想L6上市发布会",
+      "onboard_time": 1713418518,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 48137,
       "num": 340124,
       "word": "豪华SUV为啥都标配四驱",
@@ -13037,6 +13173,9 @@
     },
     {
       "word": "#中德领导人漫步钓鱼台#"
+    },
+    {
+      "word": "#流动的中国交通发展日新月异#"
     }
   ]
 }
