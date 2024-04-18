@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713411264146,
+  "endTime": 1713414043937,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1882836,
-      "num": 309201,
+      "num": 356014,
       "word": "韩亿 出轨",
       "onboard_time": 1713404777,
       "rank": 10,
@@ -315,12 +315,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1491904,
+      "num": 1491904,
+      "word": "种地吧 抢大米",
+      "onboard_time": 1713413299,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1482791,
+      "num": 1482791,
+      "word": "爱马仕配货有钱人也不干了",
+      "onboard_time": 1713410000,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1458352,
       "num": 808069,
       "word": "妻子遭家暴后用开水浇丈夫",
       "onboard_time": 1713360498,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1444183,
+      "num": 1444183,
+      "word": "十个勤天卖大米",
+      "onboard_time": 1713358699,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1427507,
@@ -584,6 +608,14 @@
       "word": "纪凌尘祝阚清子幸福",
       "onboard_time": 1713016579,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1114730,
+      "num": 1114730,
+      "word": "十个勤天小店",
+      "onboard_time": 1713403338,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -1009,6 +1041,14 @@
       "onboard_time": 1713277458,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 875995,
+      "num": 875995,
+      "word": "王艺迪1比4张本美和",
+      "onboard_time": 1713413299,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 865071,
@@ -1611,6 +1651,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 681321,
+      "num": 681321,
+      "word": "中方支持巴勒斯坦成为联合国正式成员国",
+      "onboard_time": 1713410000,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 675340,
       "num": 675340,
       "word": "中国抛售227亿美元美债",
@@ -1739,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 633885,
+      "num": 633885,
+      "word": "麒麟9010",
+      "onboard_time": 1713410058,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 632558,
       "num": 632558,
       "word": "极限挑战第十季X官宣",
@@ -1825,14 +1881,6 @@
       "onboard_time": 1713069318,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 609887,
-      "num": 609887,
-      "word": "麒麟9010",
-      "onboard_time": 1713410058,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 609025,
@@ -1987,6 +2035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 574342,
+      "num": 574342,
+      "word": "王珞丹妈妈向王珞丹道歉",
+      "onboard_time": 1713408617,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 574076,
       "num": 574076,
       "word": "联合国秘书长谴责伊朗",
@@ -2123,6 +2179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 554573,
+      "num": 355650,
+      "word": "补水第一名的水果",
+      "onboard_time": 1713407417,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 553230,
       "num": 553230,
       "word": "许嵩演唱会 没有嘉宾",
@@ -2235,14 +2299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 533392,
-      "num": 533392,
-      "word": "王珞丹妈妈向王珞丹道歉",
-      "onboard_time": 1713408617,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 530269,
       "num": 530269,
       "word": "王祖蓝在香港被放假的广西人包围了",
@@ -2265,14 +2321,6 @@
       "onboard_time": 1713190160,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 527678,
-      "num": 305144,
-      "word": "补水第一名的水果",
-      "onboard_time": 1713407417,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 526295,
@@ -2555,6 +2603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498657,
+      "num": 646543,
+      "word": "男子捐赠3份清朝科举试卷",
+      "onboard_time": 1713402198,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496666,
       "num": 496666,
       "word": "中式汉堡还能卖得动吗",
@@ -2707,6 +2763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 475119,
+      "num": 475119,
+      "word": "软脚虾",
+      "onboard_time": 1713412519,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 473770,
       "num": 428834,
       "word": "白鹿看到粉丝凌晨接机的反应",
@@ -2777,14 +2841,6 @@
       "onboard_time": 1713217810,
       "rank": 11,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 468801,
-      "num": 540019,
-      "word": "男子捐赠3份清朝科举试卷",
-      "onboard_time": 1713402198,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 468719,
@@ -3073,14 +3129,6 @@
       "onboard_time": 1713181218,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 435200,
-      "num": 435200,
-      "word": "中方支持巴勒斯坦成为联合国正式成员国",
-      "onboard_time": 1713410000,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 435067,
@@ -3619,14 +3667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 386392,
-      "num": 386392,
-      "word": "十个勤天卖大米",
-      "onboard_time": 1713358699,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 386134,
       "num": 386134,
       "word": "林更新吴奇隆刘诗诗合影旧照",
@@ -4075,6 +4115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 355112,
+      "num": 355112,
+      "word": "34岁南京女生因脂肪肝15天减重10斤",
+      "onboard_time": 1713411196,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354753,
       "num": 354753,
       "word": "酱园弄好多人啊",
@@ -4145,6 +4193,14 @@
       "onboard_time": 1713361459,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344789,
+      "num": 344789,
+      "word": "周杰伦长沙",
+      "onboard_time": 1713410897,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 344419,
@@ -4659,6 +4715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300666,
+      "num": 300666,
+      "word": "杨幂低头捂嘴笑",
+      "onboard_time": 1713411678,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 300649,
       "num": 300649,
       "word": "眼泪女王 不会要be吧",
@@ -4777,14 +4841,6 @@
       "onboard_time": 1713067998,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 295297,
-      "num": 295297,
-      "word": "爱马仕配货有钱人也不干了",
-      "onboard_time": 1713410000,
-      "rank": 33,
-      "category": "时尚"
     },
     {
       "raw_hot": 292435,
@@ -5059,6 +5115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 276001,
+      "num": 276001,
+      "word": "咒术回战 虎杖宿傩双胞胎",
+      "onboard_time": 1713413719,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 275941,
       "num": 275941,
       "word": "宋亚轩刘耀文一起逛超市",
@@ -5273,6 +5337,14 @@
       "onboard_time": 1713240259,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 262676,
+      "num": 262676,
+      "word": "食物语将删除所有玩家数据",
+      "onboard_time": 1713411437,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 262657,
@@ -6059,14 +6131,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 229435,
-      "num": 229435,
-      "word": "周杰伦长沙",
-      "onboard_time": 1713410897,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 229383,
       "num": 229383,
       "word": "姜大卫金像奖最佳男配角",
@@ -6475,14 +6539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215013,
-      "num": 215013,
-      "word": "十个勤天小店",
-      "onboard_time": 1713403338,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214908,
       "num": 214908,
       "word": "云秀行",
@@ -6875,6 +6931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 206776,
+      "num": 206776,
+      "word": "林高远4比2达科",
+      "onboard_time": 1713413779,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206554,
       "num": 206554,
       "word": "宫崎骏 那你呢孩子",
@@ -7027,6 +7091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202527,
+      "num": 202527,
+      "word": "华为Pura70Ultra镜头可伸缩",
+      "onboard_time": 1713411377,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 202431,
       "num": 202431,
       "word": "背着善宰跑 身高差",
@@ -7057,6 +7129,14 @@
       "onboard_time": 1713341599,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202161,
+      "num": 202161,
+      "word": "女生千万不能带着情绪过夜",
+      "onboard_time": 1713409518,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 202068,
@@ -7129,6 +7209,14 @@
       "onboard_time": 1713337638,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200212,
+      "num": 200212,
+      "word": "哈兰德 隐身",
+      "onboard_time": 1713412759,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 200161,
@@ -7371,6 +7459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195312,
+      "num": 195312,
+      "word": "林高远vs达科",
+      "onboard_time": 1713411977,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195171,
       "num": 195171,
       "word": "燃气公司回应换表后新增1.7万欠费",
@@ -7425,6 +7521,14 @@
       "onboard_time": 1713316938,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 194351,
+      "num": 195313,
+      "word": "ZICO和Jennie合作曲试听",
+      "onboard_time": 1713413719,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 194058,
@@ -7571,12 +7675,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 191057,
-      "num": 191057,
-      "word": "女生千万不能带着情绪过夜",
-      "onboard_time": 1713409518,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 191118,
+      "num": 195345,
+      "word": "林高远晋级世界杯8强",
+      "onboard_time": 1713413538,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 190874,
@@ -7617,6 +7721,14 @@
       "onboard_time": 1713234558,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 190017,
+      "num": 190017,
+      "word": "绝区零开测",
+      "onboard_time": 1713413538,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 189740,
@@ -7961,6 +8073,14 @@
       "onboard_time": 1713348618,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 182830,
+      "num": 182830,
+      "word": "这不是放假而是假放",
+      "onboard_time": 1713412638,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 182731,
@@ -8545,6 +8665,14 @@
       "onboard_time": 1713091818,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168940,
+      "num": 168940,
+      "word": "十天之后回到现实",
+      "onboard_time": 1713411077,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 168446,
@@ -9329,6 +9457,14 @@
       "onboard_time": 1713331578,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 153004,
+      "num": 153004,
+      "word": "怪盗基德 哥帅的很轻松",
+      "onboard_time": 1713409038,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 152831,
@@ -10227,14 +10363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 137384,
-      "num": 137384,
-      "word": "怪盗基德 哥帅的很轻松",
-      "onboard_time": 1713409038,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 136817,
       "num": 136817,
       "word": "重庆一地铁站石砖脱落砸中孕妇",
@@ -10265,14 +10393,6 @@
       "onboard_time": 1713191000,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135482,
-      "num": 135482,
-      "word": "十天之后回到现实",
-      "onboard_time": 1713411077,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 135474,
@@ -10593,14 +10713,6 @@
       "onboard_time": 1713357921,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 129255,
-      "num": 129255,
-      "word": "34岁南京女生因脂肪肝15天减重10斤",
-      "onboard_time": 1713411196,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128960,
@@ -12011,6 +12123,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 64895,
+      "num": 190257,
+      "word": "鹿晗高级感大片",
+      "onboard_time": 1713413719,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 62368,
       "num": 62368,
       "word": "罗伯特是AI林萧吧",
@@ -12265,6 +12385,14 @@
       "onboard_time": 1713032712,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 39856,
+      "num": 169006,
+      "word": "豪华SUV为啥都标配四驱",
+      "onboard_time": 1713413960,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 37512,

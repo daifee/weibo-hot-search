@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713411264146,
+  "endTime": 1713414043937,
   "band_list": [
     {
       "raw_hot": 3132046,
@@ -20,11 +20,35 @@
     },
     {
       "raw_hot": 1882836,
-      "num": 309201,
+      "num": 356014,
       "word": "韩亿 出轨",
       "onboard_time": 1713404777,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1491904,
+      "num": 1491904,
+      "word": "种地吧 抢大米",
+      "onboard_time": 1713413299,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1482791,
+      "num": 1482791,
+      "word": "爱马仕配货有钱人也不干了",
+      "onboard_time": 1713410000,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 1444183,
+      "num": 1444183,
+      "word": "十个勤天卖大米",
+      "onboard_time": 1713358699,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1338063,
@@ -51,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1114730,
+      "num": 1114730,
+      "word": "十个勤天小店",
+      "onboard_time": 1713403338,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1082509,
       "num": 1082509,
       "word": "下铺乘客购买的就是下铺的使用权",
@@ -73,6 +105,14 @@
       "onboard_time": 1713404056,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 875995,
+      "num": 875995,
+      "word": "王艺迪1比4张本美和",
+      "onboard_time": 1713413299,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 840418,
@@ -131,6 +171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 681321,
+      "num": 681321,
+      "word": "中方支持巴勒斯坦成为联合国正式成员国",
+      "onboard_time": 1713410000,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 675340,
       "num": 675340,
       "word": "中国抛售227亿美元美债",
@@ -147,6 +195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 633885,
+      "num": 633885,
+      "word": "麒麟9010",
+      "onboard_time": 1713410058,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 622698,
       "num": 622698,
       "word": "吉隆坡网红泳池现蠕动长虫",
@@ -155,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 609887,
-      "num": 609887,
-      "word": "麒麟9010",
-      "onboard_time": 1713410058,
-      "rank": 24,
-      "category": "数码"
+      "raw_hot": 574342,
+      "num": 574342,
+      "word": "王珞丹妈妈向王珞丹道歉",
+      "onboard_time": 1713408617,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 570670,
@@ -179,28 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554573,
+      "num": 355650,
+      "word": "补水第一名的水果",
+      "onboard_time": 1713407417,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 550689,
       "num": 550689,
       "word": "周大福被指褪色足金戒指已退货",
       "onboard_time": 1713397817,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 533392,
-      "num": 533392,
-      "word": "王珞丹妈妈向王珞丹道歉",
-      "onboard_time": 1713408617,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 527678,
-      "num": 305144,
-      "word": "补水第一名的水果",
-      "onboard_time": 1713407417,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 516117,
@@ -235,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 498657,
+      "num": 646543,
+      "word": "男子捐赠3份清朝科举试卷",
+      "onboard_time": 1713402198,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496666,
       "num": 496666,
       "word": "中式汉堡还能卖得动吗",
@@ -259,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 468801,
-      "num": 540019,
-      "word": "男子捐赠3份清朝科举试卷",
-      "onboard_time": 1713402198,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 475119,
+      "num": 475119,
+      "word": "软脚虾",
+      "onboard_time": 1713412519,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 452801,
@@ -289,14 +345,6 @@
       "onboard_time": 1713364341,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 435200,
-      "num": 435200,
-      "word": "中方支持巴勒斯坦成为联合国正式成员国",
-      "onboard_time": 1713410000,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 434655,
@@ -371,6 +419,14 @@
       "category": "国外时政,互联网"
     },
     {
+      "raw_hot": 355112,
+      "num": 355112,
+      "word": "34岁南京女生因脂肪肝15天减重10斤",
+      "onboard_time": 1713411196,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354125,
       "num": 203438,
       "word": "苗苗 救场",
@@ -385,6 +441,14 @@
       "onboard_time": 1713359659,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 344789,
+      "num": 344789,
+      "word": "周杰伦长沙",
+      "onboard_time": 1713410897,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 343409,
@@ -459,12 +523,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 295297,
-      "num": 295297,
-      "word": "爱马仕配货有钱人也不干了",
-      "onboard_time": 1713410000,
-      "rank": 33,
-      "category": "时尚"
+      "raw_hot": 300666,
+      "num": 300666,
+      "word": "杨幂低头捂嘴笑",
+      "onboard_time": 1713411678,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 294880,
@@ -483,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276001,
+      "num": 276001,
+      "word": "咒术回战 虎杖宿傩双胞胎",
+      "onboard_time": 1713413719,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 274844,
       "num": 274844,
       "word": "小米联合创始人夫妇向中山大学捐赠1亿元",
@@ -497,6 +569,14 @@
       "onboard_time": 1713408138,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 262676,
+      "num": 262676,
+      "word": "食物语将删除所有玩家数据",
+      "onboard_time": 1713411437,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 262516,
@@ -537,14 +617,6 @@
       "onboard_time": 1713362298,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 229435,
-      "num": 229435,
-      "word": "周杰伦长沙",
-      "onboard_time": 1713410897,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 229342,
@@ -595,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215013,
-      "num": 215013,
-      "word": "十个勤天小店",
-      "onboard_time": 1713403338,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211835,
       "num": 211835,
       "word": "林更新工作室发了粉丝P的图",
@@ -624,6 +688,14 @@
       "word": "哈兰德",
       "onboard_time": 1713396136,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206776,
+      "num": 206776,
+      "word": "林高远4比2达科",
+      "onboard_time": 1713413779,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -659,6 +731,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202527,
+      "num": 202527,
+      "word": "华为Pura70Ultra镜头可伸缩",
+      "onboard_time": 1713411377,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 202161,
+      "num": 202161,
+      "word": "女生千万不能带着情绪过夜",
+      "onboard_time": 1713409518,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 200212,
+      "num": 200212,
+      "word": "哈兰德 隐身",
+      "onboard_time": 1713412759,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198439,
       "num": 198439,
       "word": "广东要下开水了",
@@ -683,6 +779,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195312,
+      "num": 195312,
+      "word": "林高远vs达科",
+      "onboard_time": 1713411977,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194351,
+      "num": 195313,
+      "word": "ZICO和Jennie合作曲试听",
+      "onboard_time": 1713413719,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 192816,
       "num": 192816,
       "word": "卢宁封神",
@@ -699,12 +811,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191057,
-      "num": 191057,
-      "word": "女生千万不能带着情绪过夜",
-      "onboard_time": 1713409518,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 191118,
+      "num": 195345,
+      "word": "林高远晋级世界杯8强",
+      "onboard_time": 1713413538,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190017,
+      "num": 190017,
+      "word": "绝区零开测",
+      "onboard_time": 1713413538,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 188575,
@@ -723,14 +843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 187370,
-      "num": 187370,
-      "word": "十个勤天卖大米",
-      "onboard_time": 1713358699,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185653,
       "num": 185653,
       "word": "国乒重申坚决抵制饭圈文化",
@@ -747,6 +859,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 182830,
+      "num": 182830,
+      "word": "这不是放假而是假放",
+      "onboard_time": 1713412638,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171836,
       "num": 171836,
       "word": "用短剧的方式打开李现新剧",
@@ -761,6 +881,14 @@
       "onboard_time": 1713366920,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168940,
+      "num": 168940,
+      "word": "十天之后回到现实",
+      "onboard_time": 1713411077,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 168446,
@@ -809,6 +937,14 @@
       "onboard_time": 1713403997,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153004,
+      "num": 153004,
+      "word": "怪盗基德 哥帅的很轻松",
+      "onboard_time": 1713409038,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 152523,
@@ -891,14 +1027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137384,
-      "num": 137384,
-      "word": "怪盗基德 哥帅的很轻松",
-      "onboard_time": 1713409038,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 137103,
       "num": 137103,
       "word": "射手座的精神洁癖",
@@ -915,14 +1043,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 135482,
-      "num": 135482,
-      "word": "十天之后回到现实",
-      "onboard_time": 1713411077,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133674,
       "num": 133674,
       "word": "开封王婆全国巡演首站江西",
@@ -937,14 +1057,6 @@
       "onboard_time": 1713409157,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 129255,
-      "num": 129255,
-      "word": "34岁南京女生因脂肪肝15天减重10斤",
-      "onboard_time": 1713411196,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128764,
@@ -1259,6 +1371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64895,
+      "num": 190257,
+      "word": "鹿晗高级感大片",
+      "onboard_time": 1713413719,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 63157,
       "num": 63157,
       "word": "真是眼前一亮又一亮又一亮",
@@ -1297,6 +1417,14 @@
       "onboard_time": 1713373754,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 39856,
+      "num": 169006,
+      "word": "豪华SUV为啥都标配四驱",
+      "onboard_time": 1713413960,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 35049,
