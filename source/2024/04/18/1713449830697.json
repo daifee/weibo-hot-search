@@ -1,0 +1,410 @@
+{
+  "runTime": 1713449830697,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 880426,
+        "num": 880426,
+        "word": "小龙虾身价暴跌",
+        "onboard_time": 1713445217,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 832842,
+        "num": 832842,
+        "word": "张颖颖将起诉张兰",
+        "onboard_time": 1713447137,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40302,
+        "num": 776751,
+        "word": "全力巩固和增强经济回升向好态势",
+        "onboard_time": 1713446237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721541,
+        "num": 721541,
+        "word": "专家鼓励买到下铺的年轻人跟老人换位",
+        "onboard_time": 1713426258,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718691,
+        "num": 718691,
+        "word": "王楚钦vs雨果",
+        "onboard_time": 1713446899,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 558934,
+        "num": 558934,
+        "word": "晨起3个表现是肝在求救",
+        "onboard_time": 1713437719,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 516459,
+        "num": 516459,
+        "word": "林志玲 内娱美届纯元皇后",
+        "onboard_time": 1713448038,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 506116,
+        "num": 506116,
+        "word": "学生出操死亡事件撤销涉事教师资格",
+        "onboard_time": 1713434719,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431955,
+        "num": 431955,
+        "word": "雷军不知道张颂文提车了没",
+        "onboard_time": 1713436277,
+        "rank": 8,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 173057,
+        "num": 430299,
+        "word": "患癌丈夫为阿尔兹海默症妻子写下道别信",
+        "onboard_time": 1713435077,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430094,
+        "num": 430094,
+        "word": "戚薇把泡泡袖拆了穿胳膊上",
+        "onboard_time": 1713446899,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362554,
+        "num": 362554,
+        "word": "孙颖莎 将近40板的超强相持",
+        "onboard_time": 1713445878,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355802,
+        "num": 355802,
+        "word": "北影节开幕式内场",
+        "onboard_time": 1713443025,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 351798,
+        "num": 351798,
+        "word": "樊振东让人看到了那颗最想赢的心",
+        "onboard_time": 1713446479,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300074,
+        "num": 300074,
+        "word": "Amber断眉",
+        "onboard_time": 1713442577,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177594,
+        "num": 297824,
+        "word": "理想L6售价24.98万起",
+        "onboard_time": 1713448939,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 297391,
+        "num": 297391,
+        "word": "理想L6价格",
+        "onboard_time": 1713446899,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 291627,
+        "num": 291627,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1713442038,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237944,
+        "num": 237944,
+        "word": "广州长隆回应暴雨前园内动物狂奔",
+        "onboard_time": 1713438379,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233016,
+        "num": 233016,
+        "word": "李沁学姐妆",
+        "onboard_time": 1713443718,
+        "rank": 19,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 947102,
+        "num": 232860,
+        "word": "刘昊然帅回来了",
+        "onboard_time": 1713441137,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 810330,
+        "num": 231483,
+        "word": "刘亦菲裙子好像钢丝球",
+        "onboard_time": 1713442638,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 686910,
+        "num": 231104,
+        "word": "于正说祝绪丹事件是联手炒作",
+        "onboard_time": 1713440417,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456818,
+        "num": 230668,
+        "word": "姑父强奸猥亵侄女7年被判13年",
+        "onboard_time": 1713430459,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288953,
+        "num": 229331,
+        "word": "你接受周末夫妻吗",
+        "onboard_time": 1713447799,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 434772,
+        "num": 228461,
+        "word": "沙溢瘦了20斤",
+        "onboard_time": 1713430578,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293450,
+        "num": 227565,
+        "word": "酱园弄红毯只来了一个人",
+        "onboard_time": 1713433157,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259290,
+        "num": 227289,
+        "word": "养了九年的二哈突然攻击孩子",
+        "onboard_time": 1713442519,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226780,
+        "num": 226780,
+        "word": "朱一龙 最年轻评委",
+        "onboard_time": 1713448879,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141475,
+        "num": 224282,
+        "word": "樊振东4比3林诗栋",
+        "onboard_time": 1713444257,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38071,
+        "num": 222854,
+        "word": "今天明星是来上海团建了么",
+        "onboard_time": 1713446598,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 222600,
+        "num": 222600,
+        "word": "范丞丞 刚满18岁",
+        "onboard_time": 1713432677,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202705,
+        "num": 202705,
+        "word": "关晓彤白纱高定",
+        "onboard_time": 1713436277,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202570,
+        "num": 202570,
+        "word": "有性生活接种HPV疫苗仍旧有效",
+        "onboard_time": 1713441198,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202209,
+        "num": 202209,
+        "word": "董宇辉 北影节",
+        "onboard_time": 1713449180,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192296,
+        "num": 192296,
+        "word": "删公婆好友后发超长文怼了公公",
+        "onboard_time": 1713436218,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170648,
+        "num": 170648,
+        "word": "胡歌帮高圆圆整理裙摆",
+        "onboard_time": 1713433699,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162347,
+        "num": 162347,
+        "word": "雷军称坦克700气势不输百万级SUV",
+        "onboard_time": 1713449359,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 160371,
+        "num": 160371,
+        "word": "迪丽热巴漫画腿",
+        "onboard_time": 1713425658,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159936,
+        "num": 159936,
+        "word": "周鸿祎早上卖车何小鹏晚上送车",
+        "onboard_time": 1713449537,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 159482,
+        "num": 159482,
+        "word": "刘亦菲出图",
+        "onboard_time": 1713436938,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 156056,
+        "num": 156056,
+        "word": "第五人格",
+        "onboard_time": 1713447858,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155649,
+        "num": 155649,
+        "word": "庆余年2",
+        "onboard_time": 1713426738,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155127,
+        "num": 155127,
+        "word": "刘天池回应被怼没作品",
+        "onboard_time": 1713446118,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150421,
+        "num": 150421,
+        "word": "考研失败后我妈的态度",
+        "onboard_time": 1713445338,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142975,
+        "num": 142975,
+        "word": "杨幂关雪穿婚纱路透",
+        "onboard_time": 1713445639,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142883,
+        "num": 142883,
+        "word": "华为Pura70现货溢价千元左右",
+        "onboard_time": 1713448038,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135382,
+        "num": 135382,
+        "word": "早田希娜世界杯晋级8强",
+        "onboard_time": 1713449720,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130134,
+        "num": 130134,
+        "word": "林依晨郑元畅活动合体",
+        "onboard_time": 1713445939,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129473,
+        "num": 129473,
+        "word": "LV手套",
+        "onboard_time": 1713441976,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#发挥超大市场优势和内需潜力为各国合作提供更多机遇#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713447254637,
+  "endTime": 1713449830697,
   "band_list": [
     {
       "raw_hot": 3132046,
@@ -275,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 880426,
+      "num": 880426,
+      "word": "小龙虾身价暴跌",
+      "onboard_time": 1713445217,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 841934,
       "num": 841934,
       "word": "迪丽热巴漫画腿",
@@ -289,6 +297,14 @@
       "onboard_time": 1713400098,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 832842,
+      "num": 832842,
+      "word": "张颖颖将起诉张兰",
+      "onboard_time": 1713447137,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 821030,
@@ -409,6 +425,14 @@
       "onboard_time": 1713408077,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 718691,
+      "num": 718691,
+      "word": "王楚钦vs雨果",
+      "onboard_time": 1713446899,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 716636,
@@ -619,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 558934,
+      "num": 558934,
+      "word": "晨起3个表现是肝在求救",
+      "onboard_time": 1713437719,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 555558,
       "num": 555558,
       "word": "芥见下下 青山刚昌",
@@ -665,6 +697,14 @@
       "onboard_time": 1713426617,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 516459,
+      "num": 516459,
+      "word": "林志玲 内娱美届纯元皇后",
+      "onboard_time": 1713448038,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 516117,
@@ -841,6 +881,14 @@
       "onboard_time": 1713363560,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 430094,
+      "num": 430094,
+      "word": "戚薇把泡泡袖拆了穿胳膊上",
+      "onboard_time": 1713446899,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 424277,
@@ -1035,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351798,
+      "num": 351798,
+      "word": "樊振东让人看到了那颗最想赢的心",
+      "onboard_time": 1713446479,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351690,
       "num": 303855,
       "word": "养了九年的二哈突然攻击孩子",
@@ -1057,14 +1113,6 @@
       "onboard_time": 1713359659,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 347237,
-      "num": 347237,
-      "word": "王楚钦vs雨果",
-      "onboard_time": 1713446899,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 346924,
@@ -1123,14 +1171,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 332688,
-      "num": 332688,
-      "word": "樊振东让人看到了那颗最想赢的心",
-      "onboard_time": 1713446479,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 332639,
       "num": 332639,
       "word": "开始推理吧",
@@ -1161,14 +1201,6 @@
       "onboard_time": 1713435077,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326910,
-      "num": 326910,
-      "word": "晨起3个表现是肝在求救",
-      "onboard_time": 1713437719,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 321120,
@@ -1227,6 +1259,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 297391,
+      "num": 297391,
+      "word": "理想L6价格",
+      "onboard_time": 1713446899,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 294880,
       "num": 294880,
       "word": "郑恺说苗苗哄睡孩子比他有招",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1713430459,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 288953,
+      "num": 229331,
+      "word": "你接受周末夫妻吗",
+      "onboard_time": 1713447799,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 285743,
@@ -1547,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226780,
+      "num": 226780,
+      "word": "朱一龙 最年轻评委",
+      "onboard_time": 1713448879,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 226519,
       "num": 187404,
       "word": "哥伦比亚首都限淋浴时间不得超5分钟",
@@ -1651,14 +1707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206541,
-      "num": 206541,
-      "word": "理想L6价格",
-      "onboard_time": 1713446899,
-      "rank": 34,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 203896,
       "num": 203896,
       "word": "Pura70开卖华为门店大排长龙",
@@ -1715,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202209,
+      "num": 202209,
+      "word": "董宇辉 北影节",
+      "onboard_time": 1713449180,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202161,
       "num": 202161,
       "word": "女生千万不能带着情绪过夜",
@@ -1769,14 +1825,6 @@
       "onboard_time": 1713428958,
       "rank": 30,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 198696,
-      "num": 198696,
-      "word": "戚薇把泡泡袖拆了穿胳膊上",
-      "onboard_time": 1713446899,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 198439,
@@ -2019,14 +2067,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 181867,
-      "num": 181867,
-      "word": "张颖颖将起诉张兰",
-      "onboard_time": 1713447137,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181710,
       "num": 181710,
       "word": "Zdz回应离开WBG",
@@ -2049,6 +2089,14 @@
       "onboard_time": 1713416782,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177594,
+      "num": 297824,
+      "word": "理想L6售价24.98万起",
+      "onboard_time": 1713448939,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 176554,
@@ -2211,6 +2259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162347,
+      "num": 162347,
+      "word": "雷军称坦克700气势不输百万级SUV",
+      "onboard_time": 1713449359,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 162151,
       "num": 162151,
       "word": "雷军回应何时做十万元平民车型",
@@ -2233,6 +2289,14 @@
       "onboard_time": 1713423618,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159936,
+      "num": 159936,
+      "word": "周鸿祎早上卖车何小鹏晚上送车",
+      "onboard_time": 1713449537,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 158241,
@@ -2273,6 +2337,14 @@
       "onboard_time": 1713403997,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156056,
+      "num": 156056,
+      "word": "第五人格",
+      "onboard_time": 1713447858,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 155792,
@@ -2483,20 +2555,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 142883,
+      "num": 142883,
+      "word": "华为Pura70现货溢价千元左右",
+      "onboard_time": 1713448038,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 141926,
       "num": 123678,
       "word": "黄明昊寸头",
       "onboard_time": 1713433817,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 141855,
-      "num": 157819,
-      "word": "小龙虾身价暴跌",
-      "onboard_time": 1713445217,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 141225,
@@ -2577,6 +2649,14 @@
       "onboard_time": 1713362059,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135382,
+      "num": 135382,
+      "word": "早田希娜世界杯晋级8强",
+      "onboard_time": 1713449720,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 135125,
@@ -3139,12 +3219,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38056,
-      "num": 640891,
+      "raw_hot": 40302,
+      "num": 776751,
       "word": "全力巩固和增强经济回升向好态势",
       "onboard_time": 1713446237,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38071,
+      "num": 222854,
+      "word": "今天明星是来上海团建了么",
+      "onboard_time": 1713446598,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 35049,
@@ -3169,14 +3257,6 @@
       "onboard_time": 1713381012,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30354,
-      "num": 221203,
-      "word": "今天明星是来上海团建了么",
-      "onboard_time": 1713446598,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 28599,
