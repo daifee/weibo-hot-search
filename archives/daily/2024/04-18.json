@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713453525427,
+  "endTime": 1713454462094,
   "band_list": [
     {
       "raw_hot": 3132046,
@@ -323,6 +323,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 810745,
+      "num": 810745,
+      "word": "鹿晗泰国",
+      "onboard_time": 1713452359,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 797744,
       "num": 797744,
       "word": "为啥现在叫谁都叫老师",
@@ -499,14 +507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 666035,
-      "num": 666035,
-      "word": "鹿晗泰国",
-      "onboard_time": 1713452359,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 648544,
       "num": 391605,
       "word": "郑燕姿删除官宣视频",
@@ -537,6 +537,14 @@
       "onboard_time": 1713433699,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 638356,
+      "num": 638356,
+      "word": "台娱捧红许光汉 港娱能捧谁",
+      "onboard_time": 1713451159,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 633885,
@@ -595,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 616373,
+      "num": 616373,
+      "word": "庆余年 短剧",
+      "onboard_time": 1713452480,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 613670,
       "num": 613670,
       "word": "向佐向纪凌尘道歉",
@@ -617,14 +633,6 @@
       "onboard_time": 1713434660,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 584532,
-      "num": 584532,
-      "word": "台娱捧红许光汉 港娱能捧谁",
-      "onboard_time": 1713451159,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 581518,
@@ -705,14 +713,6 @@
       "onboard_time": 1713431958,
       "rank": 32,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 554064,
-      "num": 554064,
-      "word": "庆余年 短剧",
-      "onboard_time": 1713452480,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 550689,
@@ -1123,6 +1123,14 @@
       "category": "国外时政,互联网"
     },
     {
+      "raw_hot": 357892,
+      "num": 357892,
+      "word": "关晓彤露腿好美",
+      "onboard_time": 1713452299,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 355112,
       "num": 355112,
       "word": "34岁南京女生因脂肪肝15天减重10斤",
@@ -1227,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333244,
+      "num": 242672,
+      "word": "确认被爱后面相都变了",
+      "onboard_time": 1713451039,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 332741,
       "num": 332741,
       "word": "周杰伦演唱会",
@@ -1273,14 +1289,6 @@
       "onboard_time": 1713435077,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 323594,
-      "num": 242672,
-      "word": "确认被爱后面相都变了",
-      "onboard_time": 1713451039,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 321120,
@@ -1523,14 +1531,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 259576,
-      "num": 214139,
-      "word": "关晓彤露腿好美",
-      "onboard_time": 1713452299,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 259210,
       "num": 259210,
       "word": "无限暖暖",
@@ -1712,6 +1712,14 @@
       "word": "逃离大厂后我考公上岸",
       "onboard_time": 1713429558,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218707,
+      "num": 218707,
+      "word": "男子酒后骚扰女孩还打家长",
+      "onboard_time": 1713453080,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1939,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198568,
+      "num": 198568,
+      "word": "蔡依林说贵州没有不好吃的",
+      "onboard_time": 1713454159,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198439,
       "num": 198439,
       "word": "广东要下开水了",
@@ -2145,6 +2161,14 @@
       "onboard_time": 1713425778,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185708,
+      "num": 185708,
+      "word": "吴磊关晓彤同框",
+      "onboard_time": 1713453978,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 185653,
@@ -2435,14 +2459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 159671,
-      "num": 159671,
-      "word": "男子酒后骚扰女孩还打家长",
-      "onboard_time": 1713453080,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158241,
       "num": 158241,
       "word": "米哈游带火砂金石销量",
@@ -2627,12 +2643,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149536,
+      "num": 149536,
+      "word": "百分百出片妆容",
+      "onboard_time": 1713453678,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 149197,
       "num": 149197,
       "word": "黄奕李英爱在首尔相遇",
       "onboard_time": 1713409278,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148661,
+      "num": 148661,
+      "word": "金牛座生日快乐",
+      "onboard_time": 1713453918,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 148290,
@@ -2857,6 +2889,14 @@
       "onboard_time": 1713409157,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 129723,
+      "num": 129723,
+      "word": "承欢记",
+      "onboard_time": 1713454338,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 128764,
