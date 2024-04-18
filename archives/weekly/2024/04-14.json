@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713450853178,
+  "endTime": 1713453525427,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -921,6 +921,14 @@
       "onboard_time": 1713160638,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 994124,
+      "num": 994124,
+      "word": "蒋勤勤摔了",
+      "onboard_time": 1713451279,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 991203,
@@ -1963,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 673040,
+      "num": 673040,
+      "word": "宋茜G社生图",
+      "onboard_time": 1713451820,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 671796,
       "num": 671796,
       "word": "杨幂 CL",
@@ -1977,6 +1993,14 @@
       "onboard_time": 1713412519,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 666035,
+      "num": 666035,
+      "word": "鹿晗泰国",
+      "onboard_time": 1713452359,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 664907,
@@ -2211,6 +2235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 619699,
+      "num": 619699,
+      "word": "林志玲 内娱美届纯元皇后",
+      "onboard_time": 1713448038,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 618071,
       "num": 618071,
       "word": "王一博汤唯 许我向你看",
@@ -2273,14 +2305,6 @@
       "onboard_time": 1713229581,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 600801,
-      "num": 600801,
-      "word": "林志玲 内娱美届纯元皇后",
-      "onboard_time": 1713448038,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 600514,
@@ -2385,6 +2409,14 @@
       "onboard_time": 1713228920,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 584532,
+      "num": 584532,
+      "word": "台娱捧红许光汉 港娱能捧谁",
+      "onboard_time": 1713451159,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 581518,
@@ -2617,6 +2649,14 @@
       "onboard_time": 1713431958,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 554064,
+      "num": 554064,
+      "word": "庆余年 短剧",
+      "onboard_time": 1713452480,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 553230,
@@ -3899,6 +3939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 413006,
+      "num": 413006,
+      "word": "张远也要失联了",
+      "onboard_time": 1713451220,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412868,
       "num": 370622,
       "word": "国九条",
@@ -4915,6 +4963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 342823,
+      "num": 342823,
+      "word": "雨果淘汰",
+      "onboard_time": 1713451639,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 341516,
       "num": 341516,
       "word": "李亚鹏妻子称与李嫣是好姐妹",
@@ -5145,6 +5201,14 @@
       "onboard_time": 1713240978,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323594,
+      "num": 242672,
+      "word": "确认被爱后面相都变了",
+      "onboard_time": 1713451039,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 323175,
@@ -5420,7 +5484,7 @@
     },
     {
       "raw_hot": 304914,
-      "num": 229331,
+      "num": 233827,
       "word": "你接受周末夫妻吗",
       "onboard_time": 1713447799,
       "rank": 24,
@@ -6243,6 +6307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260480,
+      "num": 234798,
+      "word": "昊磊",
+      "onboard_time": 1713451039,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 260387,
       "num": 260387,
       "word": "伊朗再次警告美国勿插手伊以冲突",
@@ -6273,6 +6345,14 @@
       "onboard_time": 1713238398,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 259576,
+      "num": 214139,
+      "word": "关晓彤露腿好美",
+      "onboard_time": 1713452299,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 259210,
@@ -8395,6 +8475,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 198781,
+      "num": 198781,
+      "word": "樊振东说美凌格永不言弃",
+      "onboard_time": 1713451460,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198738,
       "num": 198738,
       "word": "种地吧直播",
@@ -8601,6 +8689,14 @@
       "onboard_time": 1713281420,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194972,
+      "num": 214227,
+      "word": "王楚钦4比2雨果",
+      "onboard_time": 1713452420,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 194938,
@@ -9420,7 +9516,7 @@
     },
     {
       "raw_hot": 181081,
-      "num": 322204,
+      "num": 464178,
       "word": "理想L6售价24.98万起",
       "onboard_time": 1713448939,
       "rank": 15,
@@ -9465,6 +9561,14 @@
       "onboard_time": 1713429019,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179196,
+      "num": 179196,
+      "word": "时代少年团演唱会座位图",
+      "onboard_time": 1713452240,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 179036,
@@ -10459,6 +10563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159671,
+      "num": 159671,
+      "word": "男子酒后骚扰女孩还打家长",
+      "onboard_time": 1713453080,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159286,
       "num": 159286,
       "word": "给意大利带来一点国风震撼",
@@ -10537,6 +10649,14 @@
       "onboard_time": 1713339318,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158143,
+      "num": 158143,
+      "word": "林志玲主持",
+      "onboard_time": 1713451099,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 158072,
@@ -10913,6 +11033,14 @@
       "onboard_time": 1713188719,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153281,
+      "num": 153281,
+      "word": "龙钞",
+      "onboard_time": 1713451279,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 153208,
@@ -11617,6 +11745,14 @@
       "onboard_time": 1713363140,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143627,
+      "num": 143627,
+      "word": "王楚钦晋级八强",
+      "onboard_time": 1713452660,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 143351,
@@ -14196,7 +14332,7 @@
     },
     {
       "raw_hot": 40302,
-      "num": 808859,
+      "num": 898920,
       "word": "全力巩固和增强经济回升向好态势",
       "onboard_time": 1713446237,
       "rank": 2,

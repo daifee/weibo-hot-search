@@ -1,0 +1,410 @@
+{
+  "runTime": 1713453525427,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1397263,
+        "num": 1397263,
+        "word": "小龙虾身价暴跌",
+        "onboard_time": 1713445217,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 994124,
+        "num": 994124,
+        "word": "蒋勤勤摔了",
+        "onboard_time": 1713451279,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31698,
+        "num": 898920,
+        "word": "全力巩固和增强经济回升向好态势",
+        "onboard_time": 1713446237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816328,
+        "num": 816328,
+        "word": "专家鼓励买到下铺的年轻人跟老人换位",
+        "onboard_time": 1713426258,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673040,
+        "num": 673040,
+        "word": "宋茜G社生图",
+        "onboard_time": 1713451820,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 666035,
+        "num": 666035,
+        "word": "鹿晗泰国",
+        "onboard_time": 1713452359,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619699,
+        "num": 619699,
+        "word": "林志玲 内娱美届纯元皇后",
+        "onboard_time": 1713448038,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 584532,
+        "num": 584532,
+        "word": "台娱捧红许光汉 港娱能捧谁",
+        "onboard_time": 1713451159,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554079,
+        "num": 554079,
+        "word": "晨起3个表现是肝在求救",
+        "onboard_time": 1713437719,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152674,
+        "num": 554065,
+        "word": "患癌丈夫为阿尔兹海默症妻子写下道别信",
+        "onboard_time": 1713435077,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554064,
+        "num": 554064,
+        "word": "庆余年 短剧",
+        "onboard_time": 1713452480,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142524,
+        "num": 464178,
+        "word": "理想L6售价24.98万起",
+        "onboard_time": 1713448939,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 458718,
+        "num": 458718,
+        "word": "学生出操死亡事件撤销涉事教师资格",
+        "onboard_time": 1713434719,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413006,
+        "num": 413006,
+        "word": "张远也要失联了",
+        "onboard_time": 1713451220,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361876,
+        "num": 361876,
+        "word": "王楚钦vs雨果",
+        "onboard_time": 1713446899,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342823,
+        "num": 342823,
+        "word": "雨果淘汰",
+        "onboard_time": 1713451639,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313563,
+        "num": 313563,
+        "word": "雷军不知道张颂文提车了没",
+        "onboard_time": 1713436277,
+        "rank": 16,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 303317,
+        "num": 303317,
+        "word": "朱一龙 最年轻评委",
+        "onboard_time": 1713448879,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 302236,
+        "num": 302236,
+        "word": "戚薇把泡泡袖拆了穿胳膊上",
+        "onboard_time": 1713446899,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270438,
+        "num": 270438,
+        "word": "龙年纪念币",
+        "onboard_time": 1713449958,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 833957,
+        "num": 268566,
+        "word": "刘亦菲裙子好像钢丝球",
+        "onboard_time": 1713442638,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 729389,
+        "num": 256543,
+        "word": "张颖颖将起诉张兰",
+        "onboard_time": 1713447137,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342941,
+        "num": 253430,
+        "word": "姑父强奸猥亵侄女7年被判13年",
+        "onboard_time": 1713430459,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323594,
+        "num": 242672,
+        "word": "确认被爱后面相都变了",
+        "onboard_time": 1713451039,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238299,
+        "num": 238299,
+        "word": "孙颖莎 将近40板的超强相持",
+        "onboard_time": 1713445878,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506340,
+        "num": 236160,
+        "word": "刘昊然帅回来了",
+        "onboard_time": 1713441137,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330949,
+        "num": 235016,
+        "word": "于正说祝绪丹事件是联手炒作",
+        "onboard_time": 1713440417,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260480,
+        "num": 234798,
+        "word": "昊磊",
+        "onboard_time": 1713451039,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233827,
+        "num": 233827,
+        "word": "你接受周末夫妻吗",
+        "onboard_time": 1713447799,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194972,
+        "num": 214227,
+        "word": "王楚钦4比2雨果",
+        "onboard_time": 1713452420,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259576,
+        "num": 214139,
+        "word": "关晓彤露腿好美",
+        "onboard_time": 1713452299,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 257407,
+        "num": 213690,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1713442038,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212685,
+        "num": 212685,
+        "word": "养了九年的二哈突然攻击孩子",
+        "onboard_time": 1713442519,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198781,
+        "num": 198781,
+        "word": "樊振东说美凌格永不言弃",
+        "onboard_time": 1713451460,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190977,
+        "num": 190977,
+        "word": "有性生活接种HPV疫苗仍旧有效",
+        "onboard_time": 1713441198,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 236272,
+        "num": 187820,
+        "word": "关晓彤白纱高定",
+        "onboard_time": 1713436277,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220592,
+        "num": 187344,
+        "word": "沙溢瘦了20斤",
+        "onboard_time": 1713430578,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184124,
+        "num": 184124,
+        "word": "樊振东让人看到了那颗最想赢的心",
+        "onboard_time": 1713446479,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179196,
+        "num": 179196,
+        "word": "时代少年团演唱会座位图",
+        "onboard_time": 1713452240,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170169,
+        "num": 170169,
+        "word": "雷军称坦克700气势不输百万级SUV",
+        "onboard_time": 1713449359,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164882,
+        "num": 164882,
+        "word": "范丞丞 刚满18岁",
+        "onboard_time": 1713432677,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162625,
+        "num": 162625,
+        "word": "酱园弄红毯只来了一个人",
+        "onboard_time": 1713433157,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159671,
+        "num": 159671,
+        "word": "男子酒后骚扰女孩还打家长",
+        "onboard_time": 1713453080,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158143,
+        "num": 158143,
+        "word": "林志玲主持",
+        "onboard_time": 1713451099,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153281,
+        "num": 153281,
+        "word": "龙钞",
+        "onboard_time": 1713451279,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152703,
+        "num": 152703,
+        "word": "胡歌帮高圆圆整理裙摆",
+        "onboard_time": 1713433699,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151473,
+        "num": 151473,
+        "word": "删公婆好友后发超长文怼了公公",
+        "onboard_time": 1713436218,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143627,
+        "num": 143627,
+        "word": "王楚钦晋级八强",
+        "onboard_time": 1713452660,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140453,
+        "num": 140453,
+        "word": "Amber断眉",
+        "onboard_time": 1713442577,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 134647,
+        "num": 134647,
+        "word": "早田希娜世界杯晋级8强",
+        "onboard_time": 1713449720,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动党组织向最基层延伸#"
+    }
+  }
+}
