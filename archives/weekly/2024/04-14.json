@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713407941671,
+  "endTime": 1713410309639,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -48,6 +48,14 @@
       "word": "间谍窃取我国杂交水稻亲本种子",
       "onboard_time": 1713071059,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3052429,
+      "num": 1924987,
+      "word": "反对调休的声音不能装作听不到",
+      "onboard_time": 1713405739,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -168,14 +176,6 @@
       "word": "71岁保洁被开除后在物业办公室自杀",
       "onboard_time": 1713174918,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1924987,
-      "num": 1924987,
-      "word": "反对调休的声音不能装作听不到",
-      "onboard_time": 1713405739,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -844,7 +844,7 @@
     },
     {
       "raw_hot": 959105,
-      "num": 283057,
+      "num": 538531,
       "word": "郑燕姿 韩亿",
       "onboard_time": 1713404056,
       "rank": 11,
@@ -1001,6 +1001,14 @@
       "onboard_time": 1713277458,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 872445,
+      "num": 872445,
+      "word": "广州暴雨",
+      "onboard_time": 1713408918,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 865071,
@@ -1185,6 +1193,14 @@
       "onboard_time": 1713167118,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 797744,
+      "num": 797744,
+      "word": "为啥现在叫谁都叫老师",
+      "onboard_time": 1713403338,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 797694,
@@ -1467,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 725506,
+      "num": 725506,
+      "word": "赵丽颖工作室公布告黑进展",
+      "onboard_time": 1713408077,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 723864,
       "num": 344086,
       "word": "建议胃不好的人常吃这4种水果",
@@ -1587,6 +1611,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 675340,
+      "num": 675340,
+      "word": "中国抛售227亿美元美债",
+      "onboard_time": 1713405557,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 673076,
       "num": 673076,
       "word": "当地警方回应高校女生带病出操死亡",
@@ -1641,14 +1673,6 @@
       "onboard_time": 1713147917,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 654553,
-      "num": 654553,
-      "word": "为啥现在叫谁都叫老师",
-      "onboard_time": 1713403338,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 649401,
@@ -1755,6 +1779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 622698,
+      "num": 622698,
+      "word": "吉隆坡网红泳池现蠕动长虫",
+      "onboard_time": 1713405198,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 621493,
       "num": 621493,
       "word": "旭旭宝宝 三年了终于圆梦了",
@@ -1785,14 +1817,6 @@
       "onboard_time": 1713053177,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 613942,
-      "num": 613942,
-      "word": "中国抛售227亿美元美债",
-      "onboard_time": 1713405557,
-      "rank": 6,
-      "category": "财经"
     },
     {
       "raw_hot": 612786,
@@ -2011,6 +2035,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 565899,
+      "num": 565899,
+      "word": "老人在成都居家四个月燃气费1.5万",
+      "onboard_time": 1713406579,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564637,
       "num": 564637,
       "word": "特斯拉全球裁员10%",
@@ -2195,6 +2227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 533392,
+      "num": 533392,
+      "word": "王珞丹妈妈向王珞丹道歉",
+      "onboard_time": 1713408617,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 530269,
       "num": 530269,
       "word": "王祖蓝在香港被放假的广西人包围了",
@@ -2217,6 +2257,14 @@
       "onboard_time": 1713190160,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 527678,
+      "num": 222968,
+      "word": "补水第一名的水果",
+      "onboard_time": 1713407417,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 526295,
@@ -2329,14 +2377,6 @@
       "onboard_time": 1713317598,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 517569,
-      "num": 280363,
-      "word": "吉隆坡网红泳池现蠕动长虫",
-      "onboard_time": 1713405198,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 517398,
@@ -3035,6 +3075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434655,
+      "num": 434655,
+      "word": "成毅代言李子园",
+      "onboard_time": 1713407537,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433824,
       "num": 433824,
       "word": "谢娜赵丽颖首次合作",
@@ -3089,6 +3137,14 @@
       "onboard_time": 1713076038,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 431165,
+      "num": 540019,
+      "word": "男子捐赠3份清朝科举试卷",
+      "onboard_time": 1713402198,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 430518,
@@ -3243,14 +3299,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 411746,
-      "num": 411746,
-      "word": "男子捐赠3份清朝科举试卷",
-      "onboard_time": 1713402198,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 410981,
       "num": 410981,
       "word": "12306回应五一抢票难度堪比春运",
@@ -3273,6 +3321,14 @@
       "onboard_time": 1713336439,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 410031,
+      "num": 410031,
+      "word": "华为Pura70起售价5499元",
+      "onboard_time": 1713408017,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 409663,
@@ -3953,14 +4009,6 @@
       "onboard_time": 1713321737,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 358482,
-      "num": 195021,
-      "word": "补水第一名的水果",
-      "onboard_time": 1713407417,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 357993,
@@ -4707,6 +4755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295686,
+      "num": 295686,
+      "word": "想让龚俊替我去考公",
+      "onboard_time": 1713408557,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 292435,
       "num": 127977,
       "word": "上公厕马桶不垫纸会被传染疾病吗",
@@ -5009,14 +5065,6 @@
       "onboard_time": 1713194420,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 274954,
-      "num": 274954,
-      "word": "成毅代言李子园",
-      "onboard_time": 1713407537,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 273331,
@@ -5337,6 +5385,14 @@
       "onboard_time": 1713183017,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 253169,
+      "num": 221411,
+      "word": "脂肪不断消耗的8大征兆",
+      "onboard_time": 1713408138,
+      "rank": 23,
+      "category": "运动健身"
     },
     {
       "raw_hot": 252982,
@@ -6203,6 +6259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220961,
+      "num": 220961,
+      "word": "麒麟9010",
+      "onboard_time": 1713410058,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 220727,
       "num": 199591,
       "word": "理想汽车回应车内摄像头拍不雅照",
@@ -6273,6 +6337,14 @@
       "onboard_time": 1713363440,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 218107,
+      "num": 218107,
+      "word": "原来情绪真的会影响颜值",
+      "onboard_time": 1713408438,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 217928,
@@ -6651,6 +6723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209179,
+      "num": 209179,
+      "word": "权志龙将8月回归",
+      "onboard_time": 1713408677,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 209098,
       "num": 209098,
       "word": "王嘉尔空降科切拉",
@@ -6833,6 +6913,14 @@
       "onboard_time": 1713241039,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203408,
+      "num": 203408,
+      "word": "刘诗诗新代言",
+      "onboard_time": 1713410118,
+      "rank": 28,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 203396,
@@ -7027,6 +7115,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 199458,
+      "num": 199458,
+      "word": "开始推理吧发布会",
+      "onboard_time": 1713410000,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199293,
       "num": 199293,
       "word": "韩国小学生写的传奇诗",
@@ -7121,6 +7217,14 @@
       "onboard_time": 1713099557,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198439,
+      "num": 198439,
+      "word": "广东要下开水了",
+      "onboard_time": 1713409397,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198393,
@@ -7233,14 +7337,6 @@
       "onboard_time": 1713271940,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 195218,
-      "num": 195218,
-      "word": "老人在成都居家四个月燃气费1.5万",
-      "onboard_time": 1713406579,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195171,
@@ -7425,6 +7521,14 @@
       "onboard_time": 1713168318,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191746,
+      "num": 191746,
+      "word": "爱马仕配货有钱人也不干了",
+      "onboard_time": 1713410000,
+      "rank": 33,
+      "category": "时尚"
     },
     {
       "raw_hot": 191634,
@@ -7971,6 +8075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178760,
+      "num": 178760,
+      "word": "中方支持巴勒斯坦成为联合国正式成员国",
+      "onboard_time": 1713410000,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 178753,
       "num": 178753,
       "word": "男子冒充骑手摆拍假工资条被刑拘",
@@ -8459,6 +8571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167297,
+      "num": 167297,
+      "word": "姚志明又跟麦承欢表白了",
+      "onboard_time": 1713409217,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167114,
       "num": 162922,
       "word": "时代少年团花絮",
@@ -8801,6 +8921,14 @@
       "onboard_time": 1713234618,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 158893,
+      "num": 158893,
+      "word": "华为P70配置",
+      "onboard_time": 1713409759,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 158719,
@@ -9683,6 +9811,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 144555,
+      "num": 144555,
+      "word": "黄奕李英爱在首尔相遇",
+      "onboard_time": 1713409278,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144293,
       "num": 144293,
       "word": "方硕不满",
@@ -10059,6 +10195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 137171,
+      "num": 137171,
+      "word": "女生千万不能带着情绪过夜",
+      "onboard_time": 1713409518,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136817,
       "num": 136817,
       "word": "重庆一地铁站石砖脱落砸中孕妇",
@@ -10121,6 +10265,14 @@
       "onboard_time": 1713164957,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134736,
+      "num": 134736,
+      "word": "Pura70开卖华为门店大排长龙",
+      "onboard_time": 1713410238,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 134613,
@@ -10377,6 +10529,14 @@
       "onboard_time": 1713344538,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130341,
+      "num": 218935,
+      "word": "极氪三周年将发布百万旗舰",
+      "onboard_time": 1713409157,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 129757,
@@ -10691,6 +10851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122262,
+      "num": 122262,
+      "word": "怪盗基德 哥帅的很轻松",
+      "onboard_time": 1713409038,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 122104,
       "num": 122104,
       "word": "切尔西6比0埃弗顿",
@@ -10769,6 +10937,14 @@
       "onboard_time": 1713136336,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121053,
+      "num": 121053,
+      "word": "广州多区暴雨黄色预警",
+      "onboard_time": 1713410058,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120721,
@@ -12257,6 +12433,14 @@
       "onboard_time": 1713129910,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 26096,
+      "num": 155062,
+      "word": "直板机用户羡慕的折叠屏功能",
+      "onboard_time": 1713408378,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 25932,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1713407941671,
+  "endTime": 1713410309639,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1875,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3052429,
+      "num": 1924987,
+      "word": "反对调休的声音不能装作听不到",
+      "onboard_time": 1713405739,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3049414,
       "num": 724349,
       "word": "校长称邯郸男孩的死亡是个意外",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704939148,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2755846,
-      "num": 2755846,
-      "word": "韩庚韩国 抑郁",
-      "onboard_time": 1706498488,
-      "rank": 1,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
