@@ -1,6 +1,6 @@
 {
   "startTime": 1713457373132,
-  "endTime": 1713465288129,
+  "endTime": 1713467636796,
   "band_list": [
     {
       "raw_hot": 697273,
@@ -371,6 +371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 86231,
+      "num": 86231,
+      "word": "氯雷他定可能是疗效最差的药物",
+      "onboard_time": 1713464051,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 83257,
       "num": 110928,
       "word": "每天坚持踮脚身体会发生什么变化",
@@ -459,14 +467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 35187,
-      "num": 35187,
-      "word": "氯雷他定可能是疗效最差的药物",
-      "onboard_time": 1713464051,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 32754,
       "num": 32754,
       "word": "燥候TTPD",
@@ -481,6 +481,14 @@
       "onboard_time": 1713446237,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17930,
+      "num": 17930,
+      "word": "约一半的肺癌患者确诊时有慢性咳嗽",
+      "onboard_time": 1713466871,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 12193,

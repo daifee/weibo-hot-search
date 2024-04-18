@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/19 00:22:53 ~ 2024/04/19 02:34:48
+本榜单时间：2024/04/19 00:22:53 ~ 2024/04/19 03:13:56
 </p>
 </blockquote>
 <p>
@@ -291,6 +291,12 @@ ttpd（热度：119831）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%AF%E9%9B%B7%E4%BB%96%E5%AE%9A%E5%8F%AF%E8%83%BD%E6%98%AF%E7%96%97%E6%95%88%E6%9C%80%E5%B7%AE%E7%9A%84%E8%8D%AF%E7%89%A9%23" target="weibo">
+氯雷他定可能是疗效最差的药物（热度：86231）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%9D%9A%E6%8C%81%E8%B8%AE%E8%84%9A%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96%23" target="weibo">
 每天坚持踮脚身体会发生什么变化（热度：83257）
 </a>
@@ -357,12 +363,6 @@ ttpd（热度：119831）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%AF%E9%9B%B7%E4%BB%96%E5%AE%9A%E5%8F%AF%E8%83%BD%E6%98%AF%E7%96%97%E6%95%88%E6%9C%80%E5%B7%AE%E7%9A%84%E8%8D%AF%E7%89%A9%23" target="weibo">
-氯雷他定可能是疗效最差的药物（热度：35187）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%87%A5%E5%80%99TTPD%23" target="weibo">
 燥候TTPD（热度：32754）
 </a>
@@ -371,6 +371,12 @@ ttpd（热度：119831）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%8A%9B%E5%B7%A9%E5%9B%BA%E5%92%8C%E5%A2%9E%E5%BC%BA%E7%BB%8F%E6%B5%8E%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD%E6%80%81%E5%8A%BF%23" target="weibo">
 全力巩固和增强经济回升向好态势（热度：18064）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A6%E4%B8%80%E5%8D%8A%E7%9A%84%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E7%A1%AE%E8%AF%8A%E6%97%B6%E6%9C%89%E6%85%A2%E6%80%A7%E5%92%B3%E5%97%BD%23" target="weibo">
+约一半的肺癌患者确诊时有慢性咳嗽（热度：17930）
 </a>
 </li>
 
