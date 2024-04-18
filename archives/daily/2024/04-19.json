@@ -1,6 +1,6 @@
 {
   "startTime": 1713457373132,
-  "endTime": 1713474961555,
+  "endTime": 1713476053115,
   "band_list": [
     {
       "raw_hot": 697273,
@@ -491,12 +491,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 18450,
+      "raw_hot": 20218,
       "num": 36806,
       "word": "中国城市高铁第一隧道开始盾构掘进",
       "onboard_time": 1713469511,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20089,
+      "num": 20089,
+      "word": "唐嫣新高定首穿",
+      "onboard_time": 1713472691,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 18064,
@@ -505,14 +513,6 @@
       "onboard_time": 1713446237,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18041,
-      "num": 18041,
-      "word": "唐嫣新高定首穿",
-      "onboard_time": 1713472691,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 17940,
@@ -531,36 +531,52 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15387,
-      "num": 15387,
-      "word": "李宇春台风好飒",
-      "onboard_time": 1713463152,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 15135,
-      "num": 15135,
+      "raw_hot": 16340,
+      "num": 16340,
       "word": "春夏美甲",
       "onboard_time": 1713473891,
       "rank": 37,
       "category": "美妆"
     },
     {
+      "raw_hot": 15591,
+      "num": 15591,
+      "word": "李宇春台风好飒",
+      "onboard_time": 1713463152,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 14006,
+      "num": 15243,
+      "word": "4个习惯容易导致骨盆前倾",
+      "onboard_time": 1713475391,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 13818,
+      "num": 15238,
+      "word": "成都的烧烤连卖相都在卷",
+      "onboard_time": 1713474551,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 13097,
-      "num": 14753,
+      "num": 15223,
       "word": "火车下铺应该共享吗",
       "onboard_time": 1713472211,
       "rank": 39,
       "category": "社会议题"
     },
     {
-      "raw_hot": 12477,
-      "num": 14320,
-      "word": "成都的烧烤连卖相都在卷",
-      "onboard_time": 1713474551,
+      "raw_hot": 12862,
+      "num": 15231,
+      "word": "如何早期发现隐匿性乳腺癌",
+      "onboard_time": 1713475871,
       "rank": 47,
-      "category": "美食"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 12193,
