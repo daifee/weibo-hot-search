@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713476053115,
+  "endTime": 1713478575083,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -10803,6 +10803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 156749,
+      "num": 156749,
+      "word": "氯雷他定可能是疗效最差的药物",
+      "onboard_time": 1713464051,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156723,
       "num": 156723,
       "word": "谁教杨紫许凯这么玩的",
@@ -13307,14 +13315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 112385,
-      "num": 112385,
-      "word": "氯雷他定可能是疗效最差的药物",
-      "onboard_time": 1713464051,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 112327,
       "num": 112327,
       "word": "专家称增加假期长度提升民众幸福感",
@@ -14315,6 +14315,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 51568,
+      "num": 51568,
+      "word": "周杰伦晒与大莲花合照",
+      "onboard_time": 1713464771,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 51456,
       "num": 51456,
       "word": "雷军称SU7零百加速实测2.95秒",
@@ -14475,6 +14483,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 40714,
+      "num": 40714,
+      "word": "唐嫣新高定首穿",
+      "onboard_time": 1713472691,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 40575,
       "num": 1001460,
       "word": "春好正是耕种时",
@@ -14531,14 +14547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36609,
-      "num": 36609,
-      "word": "周杰伦晒与大莲花合照",
-      "onboard_time": 1713464771,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 35433,
       "num": 35433,
       "word": "2024国际乒联世界杯",
@@ -14577,6 +14585,14 @@
       "onboard_time": 1713167176,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32842,
+      "num": 32842,
+      "word": "约一半的肺癌患者确诊时有慢性咳嗽",
+      "onboard_time": 1713466871,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 32754,
@@ -14651,6 +14667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29713,
+      "num": 62426,
+      "word": "中国城市高铁第一隧道开始盾构掘进",
+      "onboard_time": 1713469511,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29647,
       "num": 34292,
       "word": "张云雷酷狗唱玩会",
@@ -14681,6 +14705,14 @@
       "onboard_time": 1713296051,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27712,
+      "num": 27712,
+      "word": "于适评委身份亮相北影节红毯",
+      "onboard_time": 1713476051,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 27698,
@@ -14747,6 +14779,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25902,
+      "num": 25902,
+      "word": "如何早期发现隐匿性乳腺癌",
+      "onboard_time": 1713475871,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 25196,
+      "num": 25196,
+      "word": "4个习惯容易导致骨盆前倾",
+      "onboard_time": 1713475391,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 24693,
+      "num": 24693,
+      "word": "小狗忘了要对齐颗粒度",
+      "onboard_time": 1713468791,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 24445,
       "num": 24445,
       "word": "眼镜哥",
@@ -14795,14 +14851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 21088,
-      "num": 21088,
-      "word": "约一半的肺癌患者确诊时有慢性咳嗽",
-      "onboard_time": 1713466871,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 20632,
       "num": 20632,
       "word": "射手当joker也是三分钟热度",
@@ -14811,28 +14859,12 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 20218,
-      "num": 36806,
-      "word": "中国城市高铁第一隧道开始盾构掘进",
-      "onboard_time": 1713469511,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 20143,
       "num": 20143,
       "word": "JackeyLove时隔1820天再次确定进入MSI",
       "onboard_time": 1713106881,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 20089,
-      "num": 20089,
-      "word": "唐嫣新高定首穿",
-      "onboard_time": 1713472691,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 20055,
@@ -14865,14 +14897,6 @@
       "onboard_time": 1713065837,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 17940,
-      "num": 18042,
-      "word": "小狗忘了要对齐颗粒度",
-      "onboard_time": 1713468791,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 17410,
@@ -14915,12 +14939,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 14006,
-      "num": 15243,
-      "word": "4个习惯容易导致骨盆前倾",
-      "onboard_time": 1713475391,
-      "rank": 44,
-      "category": "健康医疗"
+      "raw_hot": 14497,
+      "num": 269122,
+      "word": "景海鹏朱杨柱桂海潮获航天功勋奖章",
+      "onboard_time": 1713446058,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13818,
@@ -14948,19 +14972,11 @@
     },
     {
       "raw_hot": 13097,
-      "num": 15223,
+      "num": 18679,
       "word": "火车下铺应该共享吗",
       "onboard_time": 1713472211,
       "rank": 39,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 12862,
-      "num": 15231,
-      "word": "如何早期发现隐匿性乳腺癌",
-      "onboard_time": 1713475871,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 12835,
@@ -14969,14 +14985,6 @@
       "onboard_time": 1713206053,
       "rank": 39,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 12193,
-      "num": 269122,
-      "word": "景海鹏朱杨柱桂海潮获航天功勋奖章",
-      "onboard_time": 1713446058,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11663,
