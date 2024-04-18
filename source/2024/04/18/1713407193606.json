@@ -1,0 +1,410 @@
+{
+  "runTime": 1713407193606,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3132046,
+        "num": 3132046,
+        "word": "华为P70",
+        "onboard_time": 1713405797,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1158025,
+        "num": 1158025,
+        "word": "华为Pura70系列开售",
+        "onboard_time": 1713406579,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 4572,
+        "num": 1113817,
+        "word": "数字丝路发展论坛",
+        "onboard_time": 1713241458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1103367,
+        "num": 1103367,
+        "word": "反对调休的声音不能装作听不到",
+        "onboard_time": 1713405739,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868427,
+        "num": 868427,
+        "word": "下铺乘客购买的就是下铺的使用权",
+        "onboard_time": 1713401358,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563994,
+        "num": 563994,
+        "word": "为啥现在叫谁都叫老师",
+        "onboard_time": 1713403338,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 522765,
+        "num": 522765,
+        "word": "中国抛售227亿美元美债",
+        "onboard_time": 1713405557,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 411746,
+        "num": 411746,
+        "word": "男子捐赠3份清朝科举试卷",
+        "onboard_time": 1713402198,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323667,
+        "num": 323667,
+        "word": "中式汉堡还能卖得动吗",
+        "onboard_time": 1713400278,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 280977,
+        "num": 280977,
+        "word": "眼泪女王 白洪夫妇",
+        "onboard_time": 1713400159,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1869347,
+        "num": 279464,
+        "word": "韩亿 出轨",
+        "onboard_time": 1713404777,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 949689,
+        "num": 276974,
+        "word": "郑燕姿 韩亿",
+        "onboard_time": 1713404056,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 567826,
+        "num": 273309,
+        "word": "卫健委介入调查女子在医院输错药身亡",
+        "onboard_time": 1713398237,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503363,
+        "num": 267875,
+        "word": "吉隆坡网红泳池现蠕动长虫",
+        "onboard_time": 1713405198,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445079,
+        "num": 263523,
+        "word": "欧弟近况",
+        "onboard_time": 1713401178,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262516,
+        "num": 262516,
+        "word": "蒋敦豪 蜂蜜送检",
+        "onboard_time": 1713402918,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253487,
+        "num": 253487,
+        "word": "90岁游本昌婚姻幸福的秘诀是不响",
+        "onboard_time": 1713364699,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235151,
+        "num": 235151,
+        "word": "成都重庆燃气集团股东涉同家公司",
+        "onboard_time": 1713401658,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227885,
+        "num": 227885,
+        "word": "雷军宣布直播送SU7车模",
+        "onboard_time": 1713399137,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 213715,
+        "num": 213715,
+        "word": "十个勤天小店",
+        "onboard_time": 1713403338,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 840418,
+        "num": 213314,
+        "word": "杨威神吐槽生了仨体弱多病的娃",
+        "onboard_time": 1713400098,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209391,
+        "num": 209391,
+        "word": "周海媚墓地选定",
+        "onboard_time": 1713399918,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206139,
+        "num": 206139,
+        "word": "睡觉中途醒来千万不要发消息",
+        "onboard_time": 1713397998,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185653,
+        "num": 185653,
+        "word": "国乒重申坚决抵制饭圈文化",
+        "onboard_time": 1713405077,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170517,
+        "num": 170517,
+        "word": "因为谐音卖不出去水果",
+        "onboard_time": 1713403458,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165710,
+        "num": 165710,
+        "word": "76人险胜热火",
+        "onboard_time": 1713406937,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156113,
+        "num": 156113,
+        "word": "读研读通透了",
+        "onboard_time": 1713403997,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155146,
+        "num": 155146,
+        "word": "距离2024年高考还剩50天",
+        "onboard_time": 1713400457,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153398,
+        "num": 153398,
+        "word": "杨紫财阀千金妆",
+        "onboard_time": 1713392772,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152999,
+        "num": 152999,
+        "word": "情侣相伴4年一同从专科生逆袭研究生",
+        "onboard_time": 1713388271,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150896,
+        "num": 150896,
+        "word": "1岁半男童独自过马路遭校车碾压身亡",
+        "onboard_time": 1713374652,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145711,
+        "num": 145711,
+        "word": "十个勤天卖大米",
+        "onboard_time": 1713358699,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145640,
+        "num": 145640,
+        "word": "建议胃不好的人常吃这4种水果",
+        "onboard_time": 1713359659,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139457,
+        "num": 139457,
+        "word": "郎平拥抱朱婷",
+        "onboard_time": 1713405317,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128503,
+        "num": 128503,
+        "word": "老人在成都居家四个月燃气费1.5万",
+        "onboard_time": 1713406579,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125002,
+        "num": 125002,
+        "word": "承欢记人哭麻了心哭碎了",
+        "onboard_time": 1713403338,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123859,
+        "num": 123859,
+        "word": "每天1个西红柿7天能白成一道光吗",
+        "onboard_time": 1713372016,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 123123,
+        "num": 123123,
+        "word": "中国在纽约接收美国返还38件文物",
+        "onboard_time": 1713396136,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113937,
+        "num": 113937,
+        "word": "林更新走哪都不忘做饭",
+        "onboard_time": 1713406818,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106479,
+        "num": 106479,
+        "word": "C罗讨薪胜诉",
+        "onboard_time": 1713406999,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106137,
+        "num": 106137,
+        "word": "婴儿独自爬出客厅猫咪警觉守护",
+        "onboard_time": 1713382450,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105263,
+        "num": 105263,
+        "word": "食物语永不关服",
+        "onboard_time": 1713365180,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103042,
+        "num": 103042,
+        "word": "爱豆第N次跳自己的大热曲",
+        "onboard_time": 1713406757,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100078,
+        "num": 100078,
+        "word": "被保姆呵斥应该忍受吗",
+        "onboard_time": 1713404417,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95958,
+        "num": 95958,
+        "word": "男子当25年导游后专设计穷游路线",
+        "onboard_time": 1713402918,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90663,
+        "num": 90663,
+        "word": "林彦俊直播",
+        "onboard_time": 1713364341,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89279,
+        "num": 89279,
+        "word": "郑恺说苗苗哄睡孩子比他有招",
+        "onboard_time": 1713365599,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87604,
+        "num": 89273,
+        "word": "哈兰德",
+        "onboard_time": 1713396136,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85999,
+        "num": 89268,
+        "word": "周大福被指褪色足金戒指已退货",
+        "onboard_time": 1713397817,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84155,
+        "num": 89261,
+        "word": "食物语停运补偿",
+        "onboard_time": 1713363079,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中德领导人漫步钓鱼台#"
+    }
+  }
+}

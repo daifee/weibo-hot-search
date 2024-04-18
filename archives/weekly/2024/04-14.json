@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713403946717,
+  "endTime": 1713407193606,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -33,6 +33,14 @@
       "onboard_time": 1713251296,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3132046,
+      "num": 3132046,
+      "word": "华为P70",
+      "onboard_time": 1713188778,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 3131894,
@@ -177,6 +185,14 @@
       "onboard_time": 1713323177,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1869347,
+      "num": 279464,
+      "word": "韩亿 出轨",
+      "onboard_time": 1713404777,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1850544,
@@ -531,6 +547,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1158025,
+      "num": 1158025,
+      "word": "华为Pura70系列开售",
+      "onboard_time": 1713406579,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1120476,
       "num": 1120476,
       "word": "如懿传 李纯",
@@ -552,6 +576,14 @@
       "word": "央广网评阿姨吐槽年轻人卧铺挂帘",
       "onboard_time": 1713254419,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1103367,
+      "num": 1103367,
+      "word": "反对调休的声音不能装作听不到",
+      "onboard_time": 1713405739,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -851,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 949689,
+      "num": 276974,
+      "word": "郑燕姿 韩亿",
+      "onboard_time": 1713404056,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 948682,
       "num": 948682,
       "word": "王晶称梁朝伟应宣布不再领奖",
@@ -1011,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 840418,
+      "num": 814161,
+      "word": "杨威神吐槽生了仨体弱多病的娃",
+      "onboard_time": 1713400098,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 839980,
       "num": 839980,
       "word": "店员下错单被逼下跪向顾客道歉",
@@ -1065,14 +1113,6 @@
       "onboard_time": 1713250340,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 814161,
-      "num": 814161,
-      "word": "杨威神吐槽生了仨体弱多病的娃",
-      "onboard_time": 1713400098,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 812072,
@@ -1867,14 +1907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 585075,
-      "num": 585075,
-      "word": "华为P70",
-      "onboard_time": 1713188778,
-      "rank": 4,
-      "category": "数码"
-    },
-    {
       "raw_hot": 580944,
       "num": 580944,
       "word": "歌手2024",
@@ -1969,6 +2001,14 @@
       "onboard_time": 1713168078,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 563994,
+      "num": 563994,
+      "word": "为啥现在叫谁都叫老师",
+      "onboard_time": 1713403338,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 562938,
@@ -2235,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522765,
+      "num": 522765,
+      "word": "中国抛售227亿美元美债",
+      "onboard_time": 1713405557,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 522281,
       "num": 522281,
       "word": "Jennie白丝",
@@ -2409,6 +2457,14 @@
       "onboard_time": 1713193281,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 503363,
+      "num": 267875,
+      "word": "吉隆坡网红泳池现蠕动长虫",
+      "onboard_time": 1713405198,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 501983,
@@ -3187,6 +3243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 411746,
+      "num": 411746,
+      "word": "男子捐赠3份清朝科举试卷",
+      "onboard_time": 1713402198,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410981,
       "num": 410981,
       "word": "12306回应五一抢票难度堪比春运",
@@ -3873,14 +3937,6 @@
       "onboard_time": 1713060559,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 360886,
-      "num": 360886,
-      "word": "男子捐赠3份清朝科举试卷",
-      "onboard_time": 1713402198,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 360504,
@@ -5139,6 +5195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 262516,
+      "num": 262516,
+      "word": "蒋敦豪 蜂蜜送检",
+      "onboard_time": 1713402918,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261414,
       "num": 261414,
       "word": "伊朗向以色列发导弹红色光点布满夜空",
@@ -5641,14 +5705,6 @@
       "onboard_time": 1713233118,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237875,
-      "num": 237875,
-      "word": "为啥现在叫谁都叫老师",
-      "onboard_time": 1713403338,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 237367,
@@ -6235,14 +6291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216830,
-      "num": 216830,
-      "word": "蒋敦豪 蜂蜜送检",
-      "onboard_time": 1713402918,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216219,
       "num": 216219,
       "word": "外交部回应伊朗发动军事打击",
@@ -6353,6 +6401,14 @@
       "onboard_time": 1713187938,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213715,
+      "num": 213715,
+      "word": "十个勤天小店",
+      "onboard_time": 1713403338,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 213509,
@@ -7619,6 +7675,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 185653,
+      "num": 185653,
+      "word": "国乒重申坚决抵制饭圈文化",
+      "onboard_time": 1713405077,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185080,
       "num": 185080,
       "word": "多方回应重庆地铁站石砖脱落砸中孕妇",
@@ -7729,14 +7793,6 @@
       "onboard_time": 1713073877,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182604,
-      "num": 182604,
-      "word": "十个勤天小店",
-      "onboard_time": 1713403338,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 182573,
@@ -8267,6 +8323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170517,
+      "num": 170517,
+      "word": "因为谐音卖不出去水果",
+      "onboard_time": 1713403458,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 170515,
       "num": 159563,
       "word": "彻底打消了去韩国旅游的念头",
@@ -8433,6 +8497,14 @@
       "onboard_time": 1713243380,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165710,
+      "num": 165710,
+      "word": "76人险胜热火",
+      "onboard_time": 1713406937,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 165676,
@@ -8873,6 +8945,14 @@
       "onboard_time": 1713159198,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156113,
+      "num": 156113,
+      "word": "读研读通透了",
+      "onboard_time": 1713403997,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 156017,
@@ -9803,6 +9883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139457,
+      "num": 139457,
+      "word": "郎平拥抱朱婷",
+      "onboard_time": 1713405317,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139302,
       "num": 139302,
       "word": "我妈让我今年别工作陪她去旅游",
@@ -10283,14 +10371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 128879,
-      "num": 128879,
-      "word": "因为谐音卖不出去水果",
-      "onboard_time": 1713403458,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 128850,
       "num": 128850,
       "word": "电影维和防暴队开启预售",
@@ -10313,6 +10393,14 @@
       "onboard_time": 1713251958,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 128503,
+      "num": 128503,
+      "word": "老人在成都居家四个月燃气费1.5万",
+      "onboard_time": 1713406579,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128258,
@@ -10891,6 +10979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113937,
+      "num": 113937,
+      "word": "林更新走哪都不忘做饭",
+      "onboard_time": 1713406818,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113507,
       "num": 113507,
       "word": "LESSERAFIM科切拉舞台消音版",
@@ -11091,6 +11187,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 106479,
+      "num": 106479,
+      "word": "C罗讨薪胜诉",
+      "onboard_time": 1713406999,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106416,
       "num": 106416,
       "word": "姆巴佩梅开二度",
@@ -11163,6 +11267,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 103042,
+      "num": 103042,
+      "word": "爱豆第N次跳自己的大热曲",
+      "onboard_time": 1713406757,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 102809,
       "num": 205899,
       "word": "魏建军带头卷智驾直播",
@@ -11193,6 +11305,14 @@
       "onboard_time": 1713011957,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 100078,
+      "num": 100078,
+      "word": "被保姆呵斥应该忍受吗",
+      "onboard_time": 1713404417,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 99651,
@@ -11948,7 +12068,7 @@
     },
     {
       "raw_hot": 34390,
-      "num": 1089896,
+      "num": 1113817,
       "word": "数字丝路发展论坛",
       "onboard_time": 1713241458,
       "rank": 2,

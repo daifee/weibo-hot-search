@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1713403946717,
+  "endTime": 1713407193606,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1755,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3132046,
+      "num": 3132046,
+      "word": "华为P70",
+      "onboard_time": 1711594338,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 3131894,
       "num": 3131894,
       "word": "间谍窃取我国杂交水稻亲本种子",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1706498488,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2755236,
-      "num": 1653638,
-      "word": "于正 谢谢妹妹给热度",
-      "onboard_time": 1706190273,
-      "rank": 5,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
