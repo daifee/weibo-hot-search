@@ -1,0 +1,410 @@
+{
+  "runTime": 1713402793927,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1338063,
+        "num": 1338063,
+        "word": "卫健委介入调查女子在医院输错药身亡",
+        "onboard_time": 1713398237,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021817,
+        "num": 1021817,
+        "word": "雷军宣布明天直播送SU7车模",
+        "onboard_time": 1713399137,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 5391,
+        "num": 964902,
+        "word": "数字丝路发展论坛",
+        "onboard_time": 1713241458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929870,
+        "num": 929870,
+        "word": "下铺乘客购买的就是下铺的使用权",
+        "onboard_time": 1713401358,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685387,
+        "num": 685387,
+        "word": "90岁游本昌婚姻幸福的秘诀是不响",
+        "onboard_time": 1713364699,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646735,
+        "num": 646735,
+        "word": "中国在纽约接收美国返还38件文物",
+        "onboard_time": 1713396136,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 599515,
+        "num": 599515,
+        "word": "杨威神吐槽生了仨体弱多病的娃",
+        "onboard_time": 1713400098,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 550689,
+        "num": 550689,
+        "word": "周大福被指褪色足金戒指已退货",
+        "onboard_time": 1713397817,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 511193,
+        "num": 511193,
+        "word": "周海媚墓地选定",
+        "onboard_time": 1713399918,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485312,
+        "num": 485312,
+        "word": "眼泪女王 白洪夫妇",
+        "onboard_time": 1713400159,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 493074,
+        "num": 479977,
+        "word": "欧弟近况",
+        "onboard_time": 1713401178,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448631,
+        "num": 448631,
+        "word": "中式汉堡还能卖得动吗",
+        "onboard_time": 1713400278,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 402322,
+        "num": 402322,
+        "word": "婴儿独自爬出客厅猫咪警觉守护",
+        "onboard_time": 1713382450,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343409,
+        "num": 343409,
+        "word": "距离2024年高考还剩50天",
+        "onboard_time": 1713400457,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 313659,
+        "num": 313659,
+        "word": "男子最多囤14斤黄金如今欠债300万",
+        "onboard_time": 1713400939,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294880,
+        "num": 294880,
+        "word": "郑恺说苗苗哄睡孩子比他有招",
+        "onboard_time": 1713365599,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287337,
+        "num": 287337,
+        "word": "情侣相伴4年一同从专科生逆袭研究生",
+        "onboard_time": 1713388271,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271033,
+        "num": 271033,
+        "word": "光刻机巨头阿斯麦业绩爆雷",
+        "onboard_time": 1713394874,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 261212,
+        "num": 261212,
+        "word": "美众议院多给字节180天出售TikTok",
+        "onboard_time": 1713401658,
+        "rank": 18,
+        "category": "国外时政,互联网"
+      },
+      {
+        "raw_hot": 240906,
+        "num": 240906,
+        "word": "1岁半男童独自过马路遭校车碾压身亡",
+        "onboard_time": 1713374652,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499811,
+        "num": 239994,
+        "word": "杨紫财阀千金妆",
+        "onboard_time": 1713392772,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 452801,
+        "num": 238627,
+        "word": "睡觉中途醒来千万不要发消息",
+        "onboard_time": 1713397998,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232505,
+        "num": 232505,
+        "word": "建议胃不好的人常吃这4种水果",
+        "onboard_time": 1713359659,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 229808,
+        "num": 229808,
+        "word": "成都重庆燃气集团股东涉同家公司",
+        "onboard_time": 1713401658,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225861,
+        "num": 225861,
+        "word": "每天1个西红柿7天能白成一道光吗",
+        "onboard_time": 1713372016,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 211835,
+        "num": 211835,
+        "word": "林更新工作室发了粉丝P的图",
+        "onboard_time": 1713400759,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209179,
+        "num": 209179,
+        "word": "男子捐赠3份清朝科举试卷",
+        "onboard_time": 1713402198,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208987,
+        "num": 208987,
+        "word": "哈兰德",
+        "onboard_time": 1713396136,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203438,
+        "num": 203438,
+        "word": "苗苗 救场",
+        "onboard_time": 1713351138,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188441,
+        "num": 188441,
+        "word": "怀孕三个月发现男友隐瞒婚史",
+        "onboard_time": 1713335119,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226519,
+        "num": 187404,
+        "word": "哥伦比亚首都限淋浴时间不得超5分钟",
+        "onboard_time": 1713401539,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 181776,
+        "num": 181776,
+        "word": "十个勤天卖大米",
+        "onboard_time": 1713358699,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173574,
+        "num": 173574,
+        "word": "林彦俊直播",
+        "onboard_time": 1713364341,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171836,
+        "num": 171836,
+        "word": "用短剧的方式打开李现新剧",
+        "onboard_time": 1713401957,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159571,
+        "num": 159571,
+        "word": "飞飞一杯酒去世",
+        "onboard_time": 1713352879,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146808,
+        "num": 146808,
+        "word": "食物语永不关服",
+        "onboard_time": 1713365180,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144688,
+        "num": 144688,
+        "word": "杨祐宁每一张实况秦岚都在说话",
+        "onboard_time": 1713361459,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308619,
+        "num": 143053,
+        "word": "台偶女主现在在拍什么",
+        "onboard_time": 1713385150,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133078,
+        "num": 133078,
+        "word": "曼城4比5皇马",
+        "onboard_time": 1713395835,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125472,
+        "num": 125472,
+        "word": "苹果iOS18或将改进备忘录应用",
+        "onboard_time": 1713397216,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121567,
+        "num": 121567,
+        "word": "警方通报知名茶企老板一家三口遇害",
+        "onboard_time": 1713358399,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121072,
+        "num": 121072,
+        "word": "小米联合创始人夫妇向中山大学捐赠1亿元",
+        "onboard_time": 1713363440,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119454,
+        "num": 119454,
+        "word": "欧冠4强出炉",
+        "onboard_time": 1713396796,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117980,
+        "num": 117980,
+        "word": "朱婷表现出色单场16分",
+        "onboard_time": 1713396136,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117718,
+        "num": 117718,
+        "word": "拜仁vs阿森纳",
+        "onboard_time": 1713363919,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117000,
+        "num": 117000,
+        "word": "曼城vs皇马",
+        "onboard_time": 1713363560,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114815,
+        "num": 114815,
+        "word": "卫健委回应女子感冒输液后身亡",
+        "onboard_time": 1713398357,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114049,
+        "num": 114049,
+        "word": "肖战蓝白look",
+        "onboard_time": 1713385030,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113126,
+        "num": 113126,
+        "word": "皇马晋级欧冠四强",
+        "onboard_time": 1713395295,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111341,
+        "num": 111341,
+        "word": "美国男篮队员选号",
+        "onboard_time": 1713400998,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中德领导人漫步钓鱼台#"
+    }
+  }
+}
