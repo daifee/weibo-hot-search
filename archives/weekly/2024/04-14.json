@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713435647520,
+  "endTime": 1713436646719,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -619,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1203795,
+      "num": 1203795,
+      "word": "吉林通报白城一学生死亡调查情况",
+      "onboard_time": 1713433878,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1193271,
       "num": 1193271,
       "word": "水果为什么变得越来越甜了",
@@ -681,14 +689,6 @@
       "onboard_time": 1713403338,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1114459,
-      "num": 1114459,
-      "word": "吉林通报白城一学生死亡调查情况",
-      "onboard_time": 1713433878,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1112152,
@@ -800,6 +800,14 @@
       "word": "第一批丁克夫妻现状曝光",
       "onboard_time": 1713138557,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1041188,
+      "num": 1041188,
+      "word": "学生出操死亡事件撤销涉事教师资格",
+      "onboard_time": 1713434719,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1387,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 789416,
+      "num": 789416,
+      "word": "迪丽热巴说1米8以上很有安全感",
+      "onboard_time": 1713429798,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 788975,
       "num": 500244,
       "word": "这两种方式属于无效避孕",
@@ -1441,14 +1457,6 @@
       "onboard_time": 1713324800,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 782230,
-      "num": 782230,
-      "word": "迪丽热巴说1米8以上很有安全感",
-      "onboard_time": 1713429798,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 781839,
@@ -1595,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 751903,
+      "num": 751903,
+      "word": "范丞丞 刚满18岁",
+      "onboard_time": 1713432677,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 751185,
       "num": 341173,
       "word": "怀孕三个月发现男友隐瞒婚史",
@@ -1713,14 +1729,6 @@
       "onboard_time": 1713359659,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 723127,
-      "num": 723127,
-      "word": "范丞丞 刚满18岁",
-      "onboard_time": 1713432677,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 719583,
@@ -1980,7 +1988,7 @@
     },
     {
       "raw_hot": 642459,
-      "num": 458027,
+      "num": 546041,
       "word": "胡歌帮高圆圆整理裙摆",
       "onboard_time": 1713433699,
       "rank": 10,
@@ -2283,14 +2291,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 578548,
-      "num": 578548,
-      "word": "学生出操死亡事件撤销涉事教师资格",
-      "onboard_time": 1713434719,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 576424,
       "num": 275388,
       "word": "长期喝咖啡身体会变成什么样",
@@ -2465,6 +2465,14 @@
       "onboard_time": 1713315797,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 554223,
+      "num": 554223,
+      "word": "雷军回应着装模仿马斯克",
+      "onboard_time": 1713431958,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 553230,
@@ -3091,14 +3099,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 476450,
-      "num": 476450,
-      "word": "雷军回应着装模仿马斯克",
-      "onboard_time": 1713431958,
-      "rank": 32,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 476216,
       "num": 476216,
       "word": "刚出道了15天的爱豆",
@@ -3649,6 +3649,14 @@
       "onboard_time": 1713159858,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 423420,
+      "num": 423420,
+      "word": "好久不见林志玲",
+      "onboard_time": 1713435918,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 422811,
@@ -4939,6 +4947,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 320265,
+      "num": 320265,
+      "word": "胡锡进建议恢复五一黄金周",
+      "onboard_time": 1713434660,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319953,
       "num": 319953,
       "word": "仝卓工作室皮下称帮仝卓还款14万元",
@@ -5459,6 +5475,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 287278,
+      "num": 214543,
+      "word": "黄子韬比心 徐艺洋比耶",
+      "onboard_time": 1713435978,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285743,
       "num": 285743,
       "word": "成都重庆燃气集团股东涉同家公司",
@@ -5659,6 +5683,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 274202,
+      "num": 187943,
+      "word": "胡歌为游本昌推轮椅",
+      "onboard_time": 1713435617,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 273331,
       "num": 273331,
       "word": "旭旭宝宝 19耳环",
@@ -5697,6 +5729,14 @@
       "onboard_time": 1713336737,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 272246,
+      "num": 548740,
+      "word": "患癌丈夫为阿尔兹海默症妻子写下道别信",
+      "onboard_time": 1713435077,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271646,
@@ -5897,6 +5937,14 @@
       "onboard_time": 1713402918,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261732,
+      "num": 140732,
+      "word": "42岁Selina想要二胎或三胎",
+      "onboard_time": 1713435798,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 261414,
@@ -6851,6 +6899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225747,
+      "num": 225747,
+      "word": "王曼昱 斯佐科斯",
+      "onboard_time": 1713436099,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225719,
       "num": 225719,
       "word": "考公考编和考研怎么选",
@@ -7163,6 +7219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214952,
+      "num": 138819,
+      "word": "雷军不知道张颂文提车了没",
+      "onboard_time": 1713436277,
+      "rank": 32,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 214908,
       "num": 214908,
       "word": "云秀行",
@@ -7401,6 +7465,14 @@
       "onboard_time": 1713310036,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210403,
+      "num": 137866,
+      "word": "关晓彤白纱高定",
+      "onboard_time": 1713436277,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 210383,
@@ -7851,6 +7923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201220,
+      "num": 136919,
+      "word": "周深十周年巡演预告海报公开",
+      "onboard_time": 1713436339,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201066,
       "num": 201066,
       "word": "小米回应汽车没有高级空调功能",
@@ -7865,6 +7945,14 @@
       "onboard_time": 1713320719,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200924,
+      "num": 136265,
+      "word": "乐华顶流签名照",
+      "onboard_time": 1713435798,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 200805,
@@ -8443,6 +8531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189976,
+      "num": 133479,
+      "word": "徐明浩看秀造型",
+      "onboard_time": 1713436218,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 189952,
       "num": 189952,
       "word": "承欢记有自己的公主小妹",
@@ -8481,14 +8577,6 @@
       "onboard_time": 1713250458,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 188972,
-      "num": 188972,
-      "word": "胡锡进建议恢复五一黄金周",
-      "onboard_time": 1713434660,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188934,
@@ -9235,6 +9323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174361,
+      "num": 135796,
+      "word": "删公婆好友后发超长文怼了公公",
+      "onboard_time": 1713436218,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174308,
       "num": 174308,
       "word": "李承协 南韩王妈",
@@ -9512,6 +9608,14 @@
       "word": "马丽言论",
       "onboard_time": 1713309736,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168108,
+      "num": 132586,
+      "word": "冯德伦用纸戒指向舒淇求婚",
+      "onboard_time": 1713435678,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -9913,6 +10017,14 @@
       "onboard_time": 1713104060,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160513,
+      "num": 160513,
+      "word": "LV大秀",
+      "onboard_time": 1713436458,
+      "rank": 27,
+      "category": "时尚"
     },
     {
       "raw_hot": 160050,
@@ -10488,14 +10600,6 @@
       "word": "神十八载人飞船4月发射",
       "onboard_time": 1713326599,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150898,
-      "num": 416786,
-      "word": "患癌丈夫为阿尔兹海默症妻子写下道别信",
-      "onboard_time": 1713435077,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -11131,6 +11235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141502,
+      "num": 141502,
+      "word": "Tian疑似找Tarzan请教",
+      "onboard_time": 1713436159,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141435,
       "num": 141435,
       "word": "保时捷撞车后女子砸门被行政拘留",
@@ -11233,14 +11345,6 @@
       "onboard_time": 1713405317,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139333,
-      "num": 113311,
-      "word": "胡歌为游本昌推轮椅",
-      "onboard_time": 1713435617,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 139302,
@@ -11465,6 +11569,14 @@
       "onboard_time": 1713350598,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134334,
+      "num": 134334,
+      "word": "雷军承认社恐",
+      "onboard_time": 1713435557,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 134256,
@@ -12395,6 +12507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114090,
+      "num": 129710,
+      "word": "余承东首晒Pura70样张",
+      "onboard_time": 1713436398,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 113937,
       "num": 113937,
       "word": "林更新走哪都不忘做饭",
@@ -12929,14 +13049,6 @@
       "onboard_time": 1713139338,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88495,
-      "num": 101229,
-      "word": "雷军承认社恐",
-      "onboard_time": 1713435557,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 88391,
