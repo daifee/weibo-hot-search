@@ -1,6 +1,6 @@
 {
   "startTime": 1713457373132,
-  "endTime": 1713478575083,
+  "endTime": 1713479650520,
   "band_list": [
     {
       "raw_hot": 697273,
@@ -163,6 +163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229315,
+      "num": 229315,
+      "word": "氯雷他定可能是疗效最差的药物",
+      "onboard_time": 1713464051,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 227592,
       "num": 154524,
       "word": "刘昊然帅回来了",
@@ -201,14 +209,6 @@
       "onboard_time": 1713446899,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156749,
-      "num": 156749,
-      "word": "氯雷他定可能是疗效最差的药物",
-      "onboard_time": 1713464051,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 155136,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63494,
+      "num": 63494,
+      "word": "周杰伦晒与大莲花合照",
+      "onboard_time": 1713464771,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 63032,
       "num": 98843,
       "word": "孙颖莎 将近40板的超强相持",
@@ -459,36 +467,52 @@
       "category": "情感"
     },
     {
-      "raw_hot": 51568,
-      "num": 51568,
-      "word": "周杰伦晒与大莲花合照",
-      "onboard_time": 1713464771,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 40714,
-      "num": 40714,
+      "raw_hot": 46983,
+      "num": 46983,
       "word": "唐嫣新高定首穿",
       "onboard_time": 1713472691,
       "rank": 31,
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 34472,
-      "num": 34472,
-      "word": "英超团灭",
-      "onboard_time": 1713469450,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 32842,
-      "num": 32842,
+      "raw_hot": 42046,
+      "num": 42046,
       "word": "约一半的肺癌患者确诊时有慢性咳嗽",
       "onboard_time": 1713466871,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 39090,
+      "num": 39090,
+      "word": "4个习惯容易导致骨盆前倾",
+      "onboard_time": 1713475391,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 36761,
+      "num": 81661,
+      "word": "中国城市高铁第一隧道开始盾构掘进",
+      "onboard_time": 1713469511,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35230,
+      "num": 35230,
+      "word": "小狗忘了要对齐颗粒度",
+      "onboard_time": 1713468791,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 34472,
+      "num": 43326,
+      "word": "英超团灭",
+      "onboard_time": 1713469450,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 32754,
@@ -499,50 +523,34 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 29713,
-      "num": 62426,
-      "word": "中国城市高铁第一隧道开始盾构掘进",
-      "onboard_time": 1713469511,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27712,
-      "num": 27712,
-      "word": "于适评委身份亮相北影节红毯",
-      "onboard_time": 1713476051,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 25902,
-      "num": 25902,
+      "raw_hot": 31560,
+      "num": 31560,
       "word": "如何早期发现隐匿性乳腺癌",
       "onboard_time": 1713475871,
       "rank": 47,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 25196,
-      "num": 25196,
-      "word": "4个习惯容易导致骨盆前倾",
-      "onboard_time": 1713475391,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 24693,
-      "num": 24693,
-      "word": "小狗忘了要对齐颗粒度",
-      "onboard_time": 1713468791,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 30719,
+      "num": 30719,
+      "word": "于适评委身份亮相北影节红毯",
+      "onboard_time": 1713476051,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 18064,
       "num": 563751,
       "word": "全力巩固和增强经济回升向好态势",
       "onboard_time": 1713446237,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17496,
+      "num": 269122,
+      "word": "景海鹏朱杨柱桂海潮获航天功勋奖章",
+      "onboard_time": 1713446058,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -571,14 +579,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 14497,
-      "num": 269122,
-      "word": "景海鹏朱杨柱桂海潮获航天功勋奖章",
-      "onboard_time": 1713446058,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 13818,
       "num": 15238,
       "word": "成都的烧烤连卖相都在卷",
@@ -587,8 +587,16 @@
       "category": "美食"
     },
     {
+      "raw_hot": 13703,
+      "num": 24679,
+      "word": "郭艾伦为兄弟们加油",
+      "onboard_time": 1713479473,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 13097,
-      "num": 18679,
+      "num": 24679,
       "word": "火车下铺应该共享吗",
       "onboard_time": 1713472211,
       "rank": 39,
