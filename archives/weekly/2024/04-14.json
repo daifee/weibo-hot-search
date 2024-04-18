@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713421418812,
+  "endTime": 1713422201089,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1251651,
+      "num": 1251651,
+      "word": "32岁交了个11岁的朋友",
+      "onboard_time": 1713415879,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1247161,
       "num": 1247161,
       "word": "王妈",
@@ -587,14 +595,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1177627,
-      "num": 1177627,
-      "word": "32岁交了个11岁的朋友",
-      "onboard_time": 1713415879,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1167062,
       "num": 1167062,
       "word": "王楚钦vs安宰贤",
@@ -611,7 +611,7 @@
       "category": "军事"
     },
     {
-      "raw_hot": 1144755,
+      "raw_hot": 1156566,
       "num": 1144755,
       "word": "穿着羞耻症",
       "onboard_time": 1713416540,
@@ -915,6 +915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 962586,
+      "num": 962586,
+      "word": "参观周杰伦演唱会场馆后花近两万买邀请函",
+      "onboard_time": 1713418039,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 962163,
       "num": 321059,
       "word": "被妈妈看到避孕套了怎么办",
@@ -1001,14 +1009,6 @@
       "onboard_time": 1713070939,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 916227,
-      "num": 376580,
-      "word": "参观周杰伦演唱会场馆后花近两万买邀请函",
-      "onboard_time": 1713418039,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 915372,
@@ -1185,6 +1185,14 @@
       "onboard_time": 1713269358,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 821030,
+      "num": 821030,
+      "word": "易烊千玺 阿玛尼",
+      "onboard_time": 1713420437,
+      "rank": 5,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 820884,
@@ -1635,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 709319,
+      "num": 424127,
+      "word": "舒畅怎么又瘦了",
+      "onboard_time": 1713420797,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 709104,
       "num": 709104,
       "word": "拼多多上爱花钱的女人",
@@ -1795,20 +1811,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 653215,
-      "num": 653215,
-      "word": "易烊千玺 阿玛尼",
-      "onboard_time": 1713420437,
-      "rank": 5,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 649401,
       "num": 510507,
       "word": "莎头 可口可乐",
       "onboard_time": 1713164117,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 648544,
+      "num": 391605,
+      "word": "郑燕姿删除官宣视频",
+      "onboard_time": 1713418039,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 646735,
@@ -1985,6 +2001,14 @@
       "onboard_time": 1713094159,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 605884,
+      "num": 605884,
+      "word": "81岁大爷花25元嫖娼被抓",
+      "onboard_time": 1713420978,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 602274,
@@ -2331,6 +2355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 547098,
+      "num": 547098,
+      "word": "迪丽热巴特意退回来和粉丝打招呼",
+      "onboard_time": 1713418218,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 546097,
       "num": 546097,
       "word": "苏打绿新歌曾是TFBOYS弃曲",
@@ -2401,14 +2433,6 @@
       "onboard_time": 1713036671,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 529528,
-      "num": 372302,
-      "word": "郑燕姿删除官宣视频",
-      "onboard_time": 1713418039,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 529325,
@@ -2633,14 +2657,6 @@
       "onboard_time": 1713049813,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 509608,
-      "num": 509608,
-      "word": "迪丽热巴特意退回来和粉丝打招呼",
-      "onboard_time": 1713418218,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 507819,
@@ -3899,6 +3915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 378036,
+      "num": 378036,
+      "word": "成都暴雨",
+      "onboard_time": 1713418759,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377266,
       "num": 377266,
       "word": "以色列防御伊朗袭击一夜至少花掉78亿",
@@ -4345,14 +4369,6 @@
       "onboard_time": 1713178038,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 344209,
-      "num": 344209,
-      "word": "成都暴雨",
-      "onboard_time": 1713418759,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 343913,
@@ -5195,14 +5211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282979,
-      "num": 282979,
-      "word": "舒畅怎么又瘦了",
-      "onboard_time": 1713420797,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 282173,
       "num": 1123465,
       "word": "86名群众被国家安全机关表彰奖励",
@@ -5707,6 +5715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 252718,
+      "num": 252718,
+      "word": "卿卿日常范帅琦昌隆二搭",
+      "onboard_time": 1713421818,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252575,
       "num": 252575,
       "word": "姚志明追妻出手即巅峰",
@@ -6161,14 +6177,6 @@
       "onboard_time": 1713323778,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 234783,
-      "num": 234783,
-      "word": "81岁大爷花25元嫖娼被抓",
-      "onboard_time": 1713420978,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234760,
@@ -6713,6 +6721,14 @@
       "onboard_time": 1713241340,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216797,
+      "num": 216797,
+      "word": "小警犬考试没及格委屈到不行",
+      "onboard_time": 1713420679,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 216219,
@@ -7363,6 +7379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202276,
+      "num": 202276,
+      "word": "孟子义回应徐志胜眼睛没有卧蚕大",
+      "onboard_time": 1713421398,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202271,
       "num": 202271,
       "word": "天赐把吉克隽逸胸前痣P掉了",
@@ -7675,6 +7699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196455,
+      "num": 196455,
+      "word": "芒果TV称众多用户不在意5秒开屏广告",
+      "onboard_time": 1713421899,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 195782,
       "num": 195782,
       "word": "巴黎奥运会火种点燃",
@@ -7792,6 +7824,14 @@
       "word": "迪丽热巴导游后遗症",
       "onboard_time": 1713421338,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194345,
+      "num": 194345,
+      "word": "张凌赫担心被拉去种田",
+      "onboard_time": 1713421398,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -8795,14 +8835,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 172390,
-      "num": 172390,
-      "word": "小警犬考试没及格委屈到不行",
-      "onboard_time": 1713420679,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 171836,
       "num": 171836,
       "word": "用短剧的方式打开李现新剧",
@@ -8945,14 +8977,6 @@
       "onboard_time": 1713137476,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169251,
-      "num": 169251,
-      "word": "孟子义回应徐志胜眼睛没有卧蚕大",
-      "onboard_time": 1713421398,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 169104,
@@ -9579,6 +9603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156316,
+      "num": 186991,
+      "word": "梁靖崑3比4安东",
+      "onboard_time": 1713422118,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156113,
       "num": 156113,
       "word": "读研读通透了",
@@ -9859,6 +9891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151573,
+      "num": 151573,
+      "word": "P70能拍清时速300公里",
+      "onboard_time": 1713421278,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 151207,
       "num": 151207,
       "word": "巴黎奥运倒计时100天",
@@ -10105,6 +10145,14 @@
       "onboard_time": 1713163338,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147510,
+      "num": 147510,
+      "word": "梁靖崑世界杯出局",
+      "onboard_time": 1713421998,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 147267,
@@ -10561,14 +10609,6 @@
       "onboard_time": 1713077598,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139910,
-      "num": 139910,
-      "word": "张凌赫担心被拉去种田",
-      "onboard_time": 1713421398,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 139457,
