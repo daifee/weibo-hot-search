@@ -1,6 +1,6 @@
 {
   "startTime": 1713457373132,
-  "endTime": 1713471520505,
+  "endTime": 1713472562476,
   "band_list": [
     {
       "raw_hot": 697273,
@@ -483,6 +483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 18263,
+      "num": 26220,
+      "word": "英超团灭",
+      "onboard_time": 1713469450,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18064,
       "num": 563751,
       "word": "全力巩固和增强经济回升向好态势",
@@ -499,15 +507,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 17245,
-      "num": 26220,
-      "word": "英超团灭",
-      "onboard_time": 1713469450,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 14400,
+      "raw_hot": 16035,
       "num": 18042,
       "word": "小狗忘了要对齐颗粒度",
       "onboard_time": 1713468791,
@@ -515,20 +515,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 14144,
-      "num": 14144,
+      "raw_hot": 15930,
+      "num": 36806,
+      "word": "中国城市高铁第一隧道开始盾构掘进",
+      "onboard_time": 1713469511,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14489,
+      "num": 14489,
       "word": "李宇春台风好飒",
       "onboard_time": 1713463152,
       "rank": 45,
       "category": "电影"
     },
     {
-      "raw_hot": 12697,
-      "num": 36806,
-      "word": "中国城市高铁第一隧道开始盾构掘进",
-      "onboard_time": 1713469511,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 13097,
+      "num": 14753,
+      "word": "火车下铺应该共享吗",
+      "onboard_time": 1713472211,
+      "rank": 39,
+      "category": "社会议题"
     },
     {
       "raw_hot": 12193,
