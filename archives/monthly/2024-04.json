@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713526456151,
+  "endTime": 1713529919430,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2643,6 +2643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1222088,
+      "num": 1222088,
+      "word": "林高远vs樊振东",
+      "onboard_time": 1713526997,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1219356,
       "num": 1219356,
       "word": "暴雪",
@@ -3171,6 +3179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1111334,
+      "num": 1111334,
+      "word": "中国人民解放军信息支援部队",
+      "onboard_time": 1713527058,
+      "rank": 1,
+      "category": "军事"
+    },
+    {
       "raw_hot": 1111228,
       "num": 1111228,
       "word": "青海地震",
@@ -3241,6 +3257,14 @@
       "onboard_time": 1712628558,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1097232,
+      "num": 694494,
+      "word": "张予曦 可以不喝哑药吗",
+      "onboard_time": 1713524597,
+      "rank": 18,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 1095863,
@@ -4635,6 +4659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 916851,
+      "num": 409638,
+      "word": "肖战是学弟公认的校草",
+      "onboard_time": 1713527298,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 916680,
       "num": 916680,
       "word": "死了三个月的带鱼",
@@ -5801,6 +5833,14 @@
       "onboard_time": 1712363897,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 805205,
+      "num": 805205,
+      "word": "林高远4比2樊振东",
+      "onboard_time": 1713529397,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 804827,
@@ -7539,14 +7579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 694494,
-      "num": 694494,
-      "word": "张予曦 可以不喝哑药吗",
-      "onboard_time": 1713524597,
-      "rank": 18,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 694159,
       "num": 513566,
       "word": "09微博回应小楼",
@@ -8337,6 +8369,14 @@
       "onboard_time": 1712446877,
       "rank": 7,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 650283,
+      "num": 367193,
+      "word": "刘诗诗麻辣女教师",
+      "onboard_time": 1713524778,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 650237,
@@ -9321,6 +9361,14 @@
       "onboard_time": 1711931240,
       "rank": 11,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 603951,
+      "num": 434046,
+      "word": "朱丹 不许聊家庭孩子",
+      "onboard_time": 1713525018,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 603864,
@@ -10387,6 +10435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 557022,
+      "num": 557022,
+      "word": "霉霉一天顶BLACKPINK八年",
+      "onboard_time": 1713529276,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 556839,
       "num": 556839,
       "word": "小米高管否认卖一部SU7亏6800元",
@@ -10441,6 +10497,14 @@
       "onboard_time": 1712898977,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 554850,
+      "num": 554850,
+      "word": "陈昊宇分数",
+      "onboard_time": 1713528857,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 554593,
@@ -11411,14 +11475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 520844,
-      "num": 434046,
-      "word": "朱丹 不许聊家庭孩子",
-      "onboard_time": 1713525018,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 520310,
       "num": 520310,
       "word": "提灯定损涉事违建房屋已确定进行拆除",
@@ -12387,6 +12443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 488770,
+      "num": 406774,
+      "word": "孙颖莎vs郑怡静",
+      "onboard_time": 1713529397,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 488368,
       "num": 488368,
       "word": "蒋勤勤谈易烊千玺",
@@ -12417,6 +12481,14 @@
       "onboard_time": 1712451319,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 486780,
+      "num": 486780,
+      "word": "信息支援部队是全新打造的战略性兵种",
+      "onboard_time": 1713528617,
+      "rank": 8,
+      "category": "军事,国内时政"
     },
     {
       "raw_hot": 486776,
@@ -17131,14 +17203,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 367193,
-      "num": 367193,
-      "word": "刘诗诗麻辣女教师",
-      "onboard_time": 1713524778,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 367182,
       "num": 367182,
       "word": "电影三叉戟定档",
@@ -18297,6 +18361,14 @@
       "onboard_time": 1713178038,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344298,
+      "num": 344298,
+      "word": "虞书欣黑雪公主",
+      "onboard_time": 1713526216,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 344047,
@@ -25707,6 +25779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239865,
+      "num": 239865,
+      "word": "周杰伦杭州演唱会",
+      "onboard_time": 1713527778,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 239802,
       "num": 239802,
       "word": "宫崎骏",
@@ -29267,6 +29347,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 210388,
+      "num": 210388,
+      "word": "陈丽君初舞台第三",
+      "onboard_time": 1713528379,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210383,
       "num": 210383,
       "word": "失业中产卖房自救",
@@ -29881,6 +29969,14 @@
       "onboard_time": 1713251538,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206800,
+      "num": 206800,
+      "word": "国防部谈信息支援部队成立",
+      "onboard_time": 1713528857,
+      "rank": 18,
+      "category": "军事,国内时政"
     },
     {
       "raw_hot": 206781,
@@ -30857,14 +30953,6 @@
       "onboard_time": 1713411377,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 202505,
-      "num": 202505,
-      "word": "虞书欣黑雪公主",
-      "onboard_time": 1713526216,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 202431,
@@ -32305,6 +32393,14 @@
       "onboard_time": 1711906153,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195909,
+      "num": 169536,
+      "word": "范丞丞奔跑吧表情包上新了",
+      "onboard_time": 1713529576,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 195903,
@@ -35091,6 +35187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 184423,
+      "num": 184423,
+      "word": "AG12淘汰吃鸡",
+      "onboard_time": 1713528857,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184394,
       "num": 184394,
       "word": "许嵩演唱会保安比许嵩还嗨",
@@ -36499,6 +36603,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 176739,
+      "num": 176739,
+      "word": "JackeyLove说elk履历太白",
+      "onboard_time": 1713529397,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176652,
       "num": 176652,
       "word": "怦然心动20岁4路透",
@@ -37811,6 +37923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170044,
+      "num": 138321,
+      "word": "向晚毕业",
+      "onboard_time": 1713529338,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169961,
       "num": 169961,
       "word": "潘玮柏 俺是潮霸",
@@ -37945,6 +38065,14 @@
       "onboard_time": 1712623819,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 169109,
+      "num": 137118,
+      "word": "向佐上带娃综艺了",
+      "onboard_time": 1713529697,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 169104,
@@ -39145,6 +39273,14 @@
       "onboard_time": 1712746938,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162488,
+      "num": 162488,
+      "word": "齐达内 拜仁",
+      "onboard_time": 1713527417,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 162413,
@@ -41491,6 +41627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151898,
+      "num": 151898,
+      "word": "女生骑行前后体重有什么变化",
+      "onboard_time": 1713528317,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 151878,
       "num": 151878,
       "word": "西藏发生4.0级地震",
@@ -41737,6 +41881,14 @@
       "onboard_time": 1713457217,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150994,
+      "num": 150994,
+      "word": "哪吒",
+      "onboard_time": 1713528797,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 150923,
@@ -43627,6 +43779,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 142782,
+      "num": 131288,
+      "word": "艺声 我的单身八周年",
+      "onboard_time": 1713527298,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142669,
       "num": 142669,
       "word": "不要以为会永远存在的东西",
@@ -45329,6 +45489,14 @@
       "onboard_time": 1712539938,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 133796,
+      "num": 133796,
+      "word": "外卖小哥制服伤人歹徒被奖5万元",
+      "onboard_time": 1713528737,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133724,
@@ -48523,6 +48691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 112607,
+      "num": 112607,
+      "word": "极氪发布会",
+      "onboard_time": 1713528317,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 112588,
       "num": 112588,
       "word": "男人老了的标准是是什么",
@@ -49435,12 +49611,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102058,
+      "num": 102058,
+      "word": "婆媳关系差一点就和谐了",
+      "onboard_time": 1713527537,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102049,
       "num": 102049,
       "word": "海岛奇兵",
       "onboard_time": 1713259039,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101739,
+      "num": 101739,
+      "word": "谷雨也是联合国中文日",
+      "onboard_time": 1713526517,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101570,
@@ -49977,6 +50169,14 @@
       "onboard_time": 1712635220,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 94934,
+      "num": 101710,
+      "word": "王曼昱晋级四强",
+      "onboard_time": 1713527658,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 94855,
