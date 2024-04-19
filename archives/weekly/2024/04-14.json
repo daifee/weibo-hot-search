@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713489253227,
+  "endTime": 1713490422425,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -283,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1693310,
+      "num": 1693310,
+      "word": "其实你已经过度疲劳了",
+      "onboard_time": 1713485239,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1649233,
       "num": 1649233,
       "word": "12306抢票",
@@ -323,14 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1566314,
-      "num": 1566314,
-      "word": "其实你已经过度疲劳了",
-      "onboard_time": 1713485239,
-      "rank": 0,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1558143,
       "num": 488621,
       "word": "黑龙江大学",
@@ -353,6 +353,14 @@
       "onboard_time": 1713331039,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1503735,
+      "num": 1503735,
+      "word": "五一不调休行不行",
+      "onboard_time": 1713484457,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1482791,
@@ -673,14 +681,6 @@
       "onboard_time": 1713190281,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1165585,
-      "num": 1165585,
-      "word": "五一不调休行不行",
-      "onboard_time": 1713484457,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1163276,
@@ -1771,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 748796,
+      "num": 748796,
+      "word": "儿子讲述父亲疑被当猎物枪杀",
+      "onboard_time": 1713488300,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 747923,
       "num": 747923,
       "word": "为什么医院禁止你送花给病人",
@@ -1995,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 688418,
+      "num": 366078,
+      "word": "1680的看台",
+      "onboard_time": 1713486260,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 688389,
       "num": 688389,
       "word": "百田",
@@ -2089,14 +2105,6 @@
       "onboard_time": 1713170418,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 658099,
-      "num": 364548,
-      "word": "1680的看台",
-      "onboard_time": 1713486260,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 656872,
@@ -2483,6 +2491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 588895,
+      "num": 588895,
+      "word": "中方回应美一票否决巴勒斯坦入联申请",
+      "onboard_time": 1713486800,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 586428,
       "num": 586428,
       "word": "食物语永不关服",
@@ -2617,6 +2633,14 @@
       "onboard_time": 1713184518,
       "rank": 17,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 565779,
+      "num": 358746,
+      "word": "姑父强奸猥亵侄女从小学三年级至高二",
+      "onboard_time": 1713484036,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 564637,
@@ -2843,14 +2867,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 536147,
-      "num": 358746,
-      "word": "姑父强奸猥亵侄女从小学三年级至高二",
-      "onboard_time": 1713484036,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 535666,
       "num": 535666,
       "word": "接个私活像出轨一样",
@@ -2873,14 +2889,6 @@
       "onboard_time": 1713427037,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 531443,
-      "num": 531443,
-      "word": "中方回应美一票否决巴勒斯坦入联申请",
-      "onboard_time": 1713486800,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 530269,
@@ -3907,6 +3915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427790,
+      "num": 427790,
+      "word": "武艺喊老师喊成老婆",
+      "onboard_time": 1713487100,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 427633,
       "num": 377151,
       "word": "IVE预告照",
@@ -3937,6 +3953,14 @@
       "onboard_time": 1713329059,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 425281,
+      "num": 345188,
+      "word": "伊朗等地传出爆炸声",
+      "onboard_time": 1713489919,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 424953,
@@ -4755,6 +4779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 366765,
+      "num": 366765,
+      "word": "港娱不是有顶流姜涛吗",
+      "onboard_time": 1713487699,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366655,
       "num": 366655,
       "word": "薛之谦把重庆洪崖洞说成了成都洪崖洞",
@@ -5035,14 +5067,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 346577,
-      "num": 346577,
-      "word": "武艺喊老师喊成老婆",
-      "onboard_time": 1713487100,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 345970,
       "num": 345970,
       "word": "Meiko时隔3276天再次确定进入MSI",
@@ -5057,6 +5081,14 @@
       "onboard_time": 1713260420,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 344841,
+      "num": 344841,
+      "word": "易烊千玺代言九号",
+      "onboard_time": 1713489500,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 344835,
@@ -5116,7 +5148,7 @@
     },
     {
       "raw_hot": 341298,
-      "num": 267822,
+      "num": 269404,
       "word": "95后宝妈一觉睡醒右眼失明了",
       "onboard_time": 1713485478,
       "rank": 23,
@@ -5161,14 +5193,6 @@
       "onboard_time": 1713420379,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 336690,
-      "num": 336690,
-      "word": "儿子讲述父亲疑被当猎物枪杀",
-      "onboard_time": 1713488300,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336060,
@@ -5297,6 +5321,14 @@
       "onboard_time": 1713351439,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327170,
+      "num": 327170,
+      "word": "晚上睡觉要盖好耳朵",
+      "onboard_time": 1713487878,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 327150,
@@ -5987,6 +6019,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 287533,
+      "num": 287533,
+      "word": "4月19日21时59分迎来谷雨",
+      "onboard_time": 1713488900,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285743,
       "num": 285743,
       "word": "成都重庆燃气集团股东涉同家公司",
@@ -6177,14 +6217,6 @@
       "onboard_time": 1713342258,
       "rank": 33,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 275163,
-      "num": 275163,
-      "word": "港娱不是有顶流姜涛吗",
-      "onboard_time": 1713487699,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 275043,
@@ -6507,6 +6539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261699,
+      "num": 261699,
+      "word": "45岁绝经和54岁绝经哪个衰老更快",
+      "onboard_time": 1713487037,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 261414,
       "num": 261414,
       "word": "伊朗向以色列发导弹红色光点布满夜空",
@@ -6795,14 +6835,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 248300,
-      "num": 248300,
-      "word": "4月19日21时59分迎来谷雨",
-      "onboard_time": 1713488900,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248290,
       "num": 248290,
       "word": "小米汽车将开启限时改配",
@@ -7019,6 +7051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240946,
+      "num": 240946,
+      "word": "YG新女团vsHybe新女团",
+      "onboard_time": 1713488718,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240582,
       "num": 240582,
       "word": "哈尔滨震感",
@@ -7177,14 +7217,6 @@
       "onboard_time": 1713278421,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235894,
-      "num": 235894,
-      "word": "45岁绝经和54岁绝经哪个衰老更快",
-      "onboard_time": 1713487037,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 235357,
@@ -7497,14 +7529,6 @@
       "onboard_time": 1713316637,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226680,
-      "num": 226680,
-      "word": "晚上睡觉要盖好耳朵",
-      "onboard_time": 1713487878,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 226519,
@@ -7833,6 +7857,14 @@
       "onboard_time": 1713241340,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216869,
+      "num": 216869,
+      "word": "都美竹晒详细说明回应",
+      "onboard_time": 1713489797,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 216219,
@@ -9363,6 +9395,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 188341,
+      "num": 188341,
+      "word": "原来iPhone还可以这样查岗",
+      "onboard_time": 1713486558,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 188199,
       "num": 188199,
       "word": "张艺兴新歌音源上线",
@@ -9643,14 +9683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183798,
-      "num": 183798,
-      "word": "原来iPhone还可以这样查岗",
-      "onboard_time": 1713486558,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 183729,
       "num": 183729,
       "word": "韦世豪绝杀",
@@ -9883,14 +9915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178776,
-      "num": 178776,
-      "word": "YG新女团vsHybe新女团",
-      "onboard_time": 1713488718,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178753,
       "num": 178753,
       "word": "男子冒充骑手摆拍假工资条被刑拘",
@@ -9969,6 +9993,14 @@
       "onboard_time": 1713333258,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177209,
+      "num": 177209,
+      "word": "吴奇隆把鱼塞进裤子里",
+      "onboard_time": 1713489500,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 177136,
@@ -10635,6 +10667,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 164678,
+      "num": 164678,
+      "word": "原来没富过写的小说是这样的",
+      "onboard_time": 1713488359,
+      "rank": 36,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 164673,
       "num": 164673,
       "word": "内向的人适合生活在哪个国家",
@@ -10729,14 +10769,6 @@
       "onboard_time": 1713192620,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 162743,
-      "num": 162743,
-      "word": "原来没富过写的小说是这样的",
-      "onboard_time": 1713488359,
-      "rank": 36,
-      "category": "读书作家"
     },
     {
       "raw_hot": 162614,
@@ -11481,6 +11513,14 @@
       "onboard_time": 1713421278,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 151426,
+      "num": 151426,
+      "word": "气血不足的人要先学会忌口",
+      "onboard_time": 1713489977,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 151215,
@@ -12473,6 +12513,14 @@
       "onboard_time": 1713487518,
       "rank": 42,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 137405,
+      "num": 137405,
+      "word": "不经意却很伤头发的几个行为",
+      "onboard_time": 1713488539,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 137394,
@@ -13531,6 +13579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114738,
+      "num": 114738,
+      "word": "奶牛猫 特别有正义感的神经病",
+      "onboard_time": 1713490338,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114527,
       "num": 114527,
       "word": "RIIZE预告",
@@ -13699,6 +13755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109370,
+      "num": 109370,
+      "word": "张馨予谈减肥焦虑",
+      "onboard_time": 1713489378,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109301,
       "num": 666338,
       "word": "谢谢为我们负重前行的人",
@@ -13777,14 +13841,6 @@
       "onboard_time": 1713158599,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 106765,
-      "num": 106765,
-      "word": "不经意却很伤头发的几个行为",
-      "onboard_time": 1713488539,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 106696,

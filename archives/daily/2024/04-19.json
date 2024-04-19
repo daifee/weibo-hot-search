@@ -1,18 +1,18 @@
 {
   "startTime": 1713457373132,
-  "endTime": 1713489253227,
+  "endTime": 1713490422425,
   "band_list": [
     {
-      "raw_hot": 1566314,
-      "num": 1566314,
+      "raw_hot": 1693310,
+      "num": 1693310,
       "word": "其实你已经过度疲劳了",
       "onboard_time": 1713485239,
       "rank": 0,
       "category": "情感"
     },
     {
-      "raw_hot": 1165585,
-      "num": 1165585,
+      "raw_hot": 1503735,
+      "num": 1503735,
       "word": "五一不调休行不行",
       "onboard_time": 1713484457,
       "rank": 1,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 748796,
+      "num": 748796,
+      "word": "儿子讲述父亲疑被当猎物枪杀",
+      "onboard_time": 1713488300,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746314,
       "num": 369281,
       "word": "舒淇晒与冯德伦结婚纪念日合照",
@@ -83,8 +91,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 658099,
-      "num": 364548,
+      "raw_hot": 688418,
+      "num": 366078,
       "word": "1680的看台",
       "onboard_time": 1713486260,
       "rank": 11,
@@ -99,12 +107,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 588895,
+      "num": 588895,
+      "word": "中方回应美一票否决巴勒斯坦入联申请",
+      "onboard_time": 1713486800,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 581665,
       "num": 234834,
       "word": "刘亦菲裙子好像钢丝球",
       "onboard_time": 1713442638,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 565779,
+      "num": 358746,
+      "word": "姑父强奸猥亵侄女从小学三年级至高二",
+      "onboard_time": 1713484036,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 564268,
@@ -123,22 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 536147,
-      "num": 358746,
-      "word": "姑父强奸猥亵侄女从小学三年级至高二",
-      "onboard_time": 1713484036,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 531443,
-      "num": 531443,
-      "word": "中方回应美一票否决巴勒斯坦入联申请",
-      "onboard_time": 1713486800,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 507354,
       "num": 507354,
       "word": "蒋勤勤摔了",
@@ -153,6 +161,22 @@
       "onboard_time": 1713451159,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427790,
+      "num": 427790,
+      "word": "武艺喊老师喊成老婆",
+      "onboard_time": 1713487100,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 425281,
+      "num": 345188,
+      "word": "伊朗等地传出爆炸声",
+      "onboard_time": 1713489919,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 393456,
@@ -179,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366765,
+      "num": 366765,
+      "word": "港娱不是有顶流姜涛吗",
+      "onboard_time": 1713487699,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354628,
       "num": 354628,
       "word": "男子酒后骚扰女孩还打家长",
@@ -195,28 +227,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 346577,
-      "num": 346577,
-      "word": "武艺喊老师喊成老婆",
-      "onboard_time": 1713487100,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 344841,
+      "num": 344841,
+      "word": "易烊千玺代言九号",
+      "onboard_time": 1713489500,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 341298,
-      "num": 267822,
+      "num": 269404,
       "word": "95后宝妈一觉睡醒右眼失明了",
       "onboard_time": 1713485478,
       "rank": 23,
       "category": "母婴育儿,社会新闻"
     },
     {
-      "raw_hot": 336690,
-      "num": 336690,
-      "word": "儿子讲述父亲疑被当猎物枪杀",
-      "onboard_time": 1713488300,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 327170,
+      "num": 327170,
+      "word": "晚上睡觉要盖好耳朵",
+      "onboard_time": 1713487878,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 319292,
@@ -259,6 +291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 287533,
+      "num": 287533,
+      "word": "4月19日21时59分迎来谷雨",
+      "onboard_time": 1713488900,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282603,
       "num": 282603,
       "word": "雷军不知道张颂文提车了没",
@@ -281,14 +321,6 @@
       "onboard_time": 1713464051,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 275163,
-      "num": 275163,
-      "word": "港娱不是有顶流姜涛吗",
-      "onboard_time": 1713487699,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 270528,
@@ -315,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261699,
+      "num": 261699,
+      "word": "45岁绝经和54岁绝经哪个衰老更快",
+      "onboard_time": 1713487037,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 257178,
       "num": 257178,
       "word": "柯南小兰婚纱图",
@@ -323,12 +363,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 248300,
-      "num": 248300,
-      "word": "4月19日21时59分迎来谷雨",
-      "onboard_time": 1713488900,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 240946,
+      "num": 240946,
+      "word": "YG新女团vsHybe新女团",
+      "onboard_time": 1713488718,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 239382,
@@ -347,14 +387,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 235894,
-      "num": 235894,
-      "word": "45岁绝经和54岁绝经哪个衰老更快",
-      "onboard_time": 1713487037,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 231533,
       "num": 231533,
       "word": "张艺兴韩国打歌Ending",
@@ -369,14 +401,6 @@
       "onboard_time": 1713441137,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 226680,
-      "num": 226680,
-      "word": "晚上睡觉要盖好耳朵",
-      "onboard_time": 1713487878,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 224636,
@@ -411,20 +435,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 183798,
-      "num": 183798,
+      "raw_hot": 216869,
+      "num": 216869,
+      "word": "都美竹晒详细说明回应",
+      "onboard_time": 1713489797,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188341,
+      "num": 188341,
       "word": "原来iPhone还可以这样查岗",
       "onboard_time": 1713486558,
       "rank": 34,
       "category": "数码"
     },
     {
-      "raw_hot": 178776,
-      "num": 178776,
-      "word": "YG新女团vsHybe新女团",
-      "onboard_time": 1713488718,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 177209,
+      "num": 177209,
+      "word": "吴奇隆把鱼塞进裤子里",
+      "onboard_time": 1713489500,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 177203,
@@ -443,20 +475,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164678,
+      "num": 164678,
+      "word": "原来没富过写的小说是这样的",
+      "onboard_time": 1713488359,
+      "rank": 36,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 163806,
       "num": 154148,
       "word": "戚薇把泡泡袖拆了穿胳膊上",
       "onboard_time": 1713446899,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162743,
-      "num": 162743,
-      "word": "原来没富过写的小说是这样的",
-      "onboard_time": 1713488359,
-      "rank": 36,
-      "category": "读书作家"
     },
     {
       "raw_hot": 157100,
@@ -489,6 +521,14 @@
       "onboard_time": 1713452299,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151426,
+      "num": 151426,
+      "word": "气血不足的人要先学会忌口",
+      "onboard_time": 1713489977,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 150995,
@@ -537,6 +577,14 @@
       "onboard_time": 1713487518,
       "rank": 42,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 137405,
+      "num": 137405,
+      "word": "不经意却很伤头发的几个行为",
+      "onboard_time": 1713488539,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 135117,
@@ -611,12 +659,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 106765,
-      "num": 106765,
-      "word": "不经意却很伤头发的几个行为",
-      "onboard_time": 1713488539,
-      "rank": 46,
-      "category": "健康医疗"
+      "raw_hot": 114738,
+      "num": 114738,
+      "word": "奶牛猫 特别有正义感的神经病",
+      "onboard_time": 1713490338,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 109370,
+      "num": 109370,
+      "word": "张馨予谈减肥焦虑",
+      "onboard_time": 1713489378,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 105933,
