@@ -1,6 +1,6 @@
 {
   "startTime": 1713457373132,
-  "endTime": 1713511079180,
+  "endTime": 1713512066837,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -51,12 +51,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1262831,
-      "num": 1262831,
+      "raw_hot": 1387971,
+      "num": 1387971,
       "word": "向太怎么也来参加浪姐了",
       "onboard_time": 1713507319,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1285544,
+      "num": 1285544,
+      "word": "周扬青rap 罗志祥",
+      "onboard_time": 1713510978,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1267774,
+      "num": 1267774,
+      "word": "湘潭大学",
+      "onboard_time": 1713505878,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 1172117,
@@ -73,14 +89,6 @@
       "onboard_time": 1713437719,
       "rank": 7,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1086263,
-      "num": 1086263,
-      "word": "湘潭大学",
-      "onboard_time": 1713505878,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 1072163,
@@ -643,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321309,
+      "num": 314457,
+      "word": "我妈问我为什么1500不够花",
+      "onboard_time": 1713506238,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 319292,
       "num": 319292,
       "word": "谷雨",
@@ -665,14 +681,6 @@
       "onboard_time": 1713448038,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 314457,
-      "num": 314457,
-      "word": "我妈问我为什么1500不够花",
-      "onboard_time": 1713506238,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 312053,
@@ -763,6 +771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 272759,
+      "num": 272759,
+      "word": "没退休金的妈妈62岁去做保洁",
+      "onboard_time": 1713510498,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270528,
       "num": 270528,
       "word": "优质精子是如何养成的",
@@ -801,6 +817,14 @@
       "onboard_time": 1713487037,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 261194,
+      "num": 261194,
+      "word": "周杰伦演唱会一女子迟到后崩溃大哭",
+      "onboard_time": 1713511697,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 257178,
@@ -939,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220620,
+      "num": 220620,
+      "word": "NCT新应援棒",
+      "onboard_time": 1713511697,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218450,
       "num": 218450,
       "word": "蒋勤勤报平安",
@@ -977,14 +1009,6 @@
       "onboard_time": 1713503479,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 210322,
-      "num": 210322,
-      "word": "没退休金的妈妈62岁去做保洁",
-      "onboard_time": 1713510498,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205357,
@@ -1115,6 +1139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185836,
+      "num": 220699,
+      "word": "面包车自燃幼儿园老师徒手拖走旁边车",
+      "onboard_time": 1713510318,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185285,
       "num": 247076,
       "word": "伊媒称伊朗核设施未受损",
@@ -1195,12 +1227,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173484,
+      "num": 173484,
+      "word": "蔡文静 你是多少人的妹妹",
+      "onboard_time": 1713510438,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172645,
       "num": 172645,
       "word": "刘忻还是那么帅",
       "onboard_time": 1713501198,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172641,
+      "num": 172641,
+      "word": "张靓颖宣传霉霉新专",
+      "onboard_time": 1713511818,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 170887,
@@ -1211,20 +1259,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169947,
-      "num": 166051,
-      "word": "周扬青rap 罗志祥",
-      "onboard_time": 1713510978,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169426,
       "num": 169426,
       "word": "教资面试平等逼疯每个i人",
       "onboard_time": 1713505456,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169413,
+      "num": 169413,
+      "word": "Pura70或助华为重夺中国市场榜首",
+      "onboard_time": 1713510438,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 165785,
@@ -1249,14 +1297,6 @@
       "onboard_time": 1713446899,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157426,
-      "num": 157426,
-      "word": "Pura70或助华为重夺中国市场榜首",
-      "onboard_time": 1713510438,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 157100,
@@ -1300,7 +1340,7 @@
     },
     {
       "raw_hot": 151689,
-      "num": 187567,
+      "num": 530958,
       "word": "每位女性都值得拥有",
       "onboard_time": 1713510678,
       "rank": 34,
@@ -1321,14 +1361,6 @@
       "onboard_time": 1713503958,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 151116,
-      "num": 151116,
-      "word": "蔡文静 你是多少人的妹妹",
-      "onboard_time": 1713510438,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 150995,
@@ -1579,14 +1611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117955,
-      "num": 196880,
-      "word": "面包车自燃幼儿园老师徒手拖走旁边车",
-      "onboard_time": 1713510318,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114738,
       "num": 114738,
       "word": "奶牛猫 特别有正义感的神经病",
@@ -1601,6 +1625,14 @@
       "onboard_time": 1713503780,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113419,
+      "num": 113419,
+      "word": "口红试色的新方法找到了",
+      "onboard_time": 1713511997,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 110294,
@@ -1924,11 +1956,19 @@
     },
     {
       "raw_hot": 47110,
-      "num": 1165152,
+      "num": 1286286,
       "word": "潮起互联网奔涌三十年",
       "onboard_time": 1713498738,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40004,
+      "num": 221187,
+      "word": "10万级车配不配上2C快充",
+      "onboard_time": 1713509837,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 39551,
@@ -1955,14 +1995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33719,
-      "num": 196694,
-      "word": "10万级车配不配上2C快充",
-      "onboard_time": 1713509837,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 32754,
       "num": 32754,
       "word": "燥候TTPD",
@@ -1979,7 +2011,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 24581,
+      "raw_hot": 26452,
       "num": 185648,
       "word": "没十年功力玩不好LV大秀",
       "onboard_time": 1713510438,

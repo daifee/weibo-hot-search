@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713511079180,
+  "endTime": 1713512066837,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1899,6 +1899,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1387971,
+      "num": 1387971,
+      "word": "向太怎么也来参加浪姐了",
+      "onboard_time": 1713507319,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1386016,
       "num": 1386016,
       "word": "朴彩英双眼皮",
@@ -2315,6 +2323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1285544,
+      "num": 1285544,
+      "word": "周扬青rap 罗志祥",
+      "onboard_time": 1713510978,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1283537,
       "num": 1283537,
       "word": "放假三天躺了三天",
@@ -2387,6 +2403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1267774,
+      "num": 1267774,
+      "word": "湘潭大学",
+      "onboard_time": 1713505878,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1266004,
       "num": 1266004,
       "word": "福宝小屋布满竹子笋笋苹果胡萝卜",
@@ -2417,14 +2441,6 @@
       "onboard_time": 1713060799,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1262831,
-      "num": 1262831,
-      "word": "向太怎么也来参加浪姐了",
-      "onboard_time": 1713507319,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 1262092,
@@ -3273,14 +3289,6 @@
       "onboard_time": 1712480719,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1086263,
-      "num": 1086263,
-      "word": "湘潭大学",
-      "onboard_time": 1713505878,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 1085314,
@@ -19283,6 +19291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321309,
+      "num": 314457,
+      "word": "我妈问我为什么1500不够花",
+      "onboard_time": 1713506238,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 321283,
       "num": 321283,
       "word": "被窝好舒服",
@@ -19689,14 +19705,6 @@
       "onboard_time": 1713140839,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 314457,
-      "num": 314457,
-      "word": "我妈问我为什么1500不够花",
-      "onboard_time": 1713506238,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 314433,
@@ -22435,6 +22443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 272759,
+      "num": 272759,
+      "word": "没退休金的妈妈62岁去做保洁",
+      "onboard_time": 1713510498,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272683,
       "num": 272683,
       "word": "加沙地带超过1万名妇女被杀害",
@@ -23257,6 +23273,14 @@
       "onboard_time": 1712909298,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261194,
+      "num": 261194,
+      "word": "周杰伦演唱会一女子迟到后崩溃大哭",
+      "onboard_time": 1713511697,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 261129,
@@ -27515,6 +27539,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 220620,
+      "num": 220620,
+      "word": "NCT新应援棒",
+      "onboard_time": 1713511697,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220610,
       "num": 220610,
       "word": "工藤新一和怪盗基德是堂兄弟",
@@ -28953,14 +28985,6 @@
       "onboard_time": 1712235858,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210322,
-      "num": 210322,
-      "word": "没退休金的妈妈62岁去做保洁",
-      "onboard_time": 1713510498,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210296,
@@ -34459,6 +34483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185836,
+      "num": 220699,
+      "word": "面包车自燃幼儿园老师徒手拖走旁边车",
+      "onboard_time": 1713510318,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185781,
       "num": 185781,
       "word": "张婧仪明媚",
@@ -36747,6 +36779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173484,
+      "num": 173484,
+      "word": "蔡文静 你是多少人的妹妹",
+      "onboard_time": 1713510438,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173468,
       "num": 173468,
       "word": "配得感",
@@ -36889,6 +36929,14 @@
       "onboard_time": 1713501198,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172641,
+      "num": 172641,
+      "word": "张靓颖宣传霉霉新专",
+      "onboard_time": 1713511818,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 172588,
@@ -37363,14 +37411,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 169947,
-      "num": 166051,
-      "word": "周扬青rap 罗志祥",
-      "onboard_time": 1713510978,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169920,
       "num": 169920,
       "word": "上海年轻人街头抱树吸春",
@@ -37425,6 +37465,14 @@
       "onboard_time": 1713505456,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169413,
+      "num": 169413,
+      "word": "Pura70或助华为重夺中国市场榜首",
+      "onboard_time": 1713510438,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 169412,
@@ -39699,14 +39747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157426,
-      "num": 157426,
-      "word": "Pura70或助华为重夺中国市场榜首",
-      "onboard_time": 1713510438,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 157293,
       "num": 157293,
       "word": "RNG早已没钱",
@@ -41028,7 +41068,7 @@
     },
     {
       "raw_hot": 151689,
-      "num": 187567,
+      "num": 530958,
       "word": "每位女性都值得拥有",
       "onboard_time": 1713510678,
       "rank": 34,
@@ -41185,14 +41225,6 @@
       "onboard_time": 1712027000,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151116,
-      "num": 151116,
-      "word": "蔡文静 你是多少人的妹妹",
-      "onboard_time": 1713510438,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 151106,
@@ -47323,14 +47355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117955,
-      "num": 196880,
-      "word": "面包车自燃幼儿园老师徒手拖走旁边车",
-      "onboard_time": 1713510318,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117945,
       "num": 117945,
       "word": "姚志明的身世",
@@ -47865,6 +47889,14 @@
       "onboard_time": 1711888637,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113419,
+      "num": 113419,
+      "word": "口红试色的新方法找到了",
+      "onboard_time": 1713511997,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 113344,
@@ -51540,7 +51572,7 @@
     },
     {
       "raw_hot": 47110,
-      "num": 1165152,
+      "num": 1286286,
       "word": "潮起互联网奔涌三十年",
       "onboard_time": 1713498738,
       "rank": 2,
@@ -51817,6 +51849,14 @@
       "onboard_time": 1712769673,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40004,
+      "num": 221187,
+      "word": "10万级车配不配上2C快充",
+      "onboard_time": 1713509837,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 39910,
@@ -52121,14 +52161,6 @@
       "onboard_time": 1713167176,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33719,
-      "num": 196694,
-      "word": "10万级车配不配上2C快充",
-      "onboard_time": 1713509837,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 33415,
@@ -52483,6 +52515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26452,
+      "num": 185648,
+      "word": "没十年功力玩不好LV大秀",
+      "onboard_time": 1713510438,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 26437,
       "num": 277473,
       "word": "被春日下互相敬礼这一幕暖到了",
@@ -52601,14 +52641,6 @@
       "onboard_time": 1712350630,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 24581,
-      "num": 185648,
-      "word": "没十年功力玩不好LV大秀",
-      "onboard_time": 1713510438,
-      "rank": 35,
-      "category": "时尚"
     },
     {
       "raw_hot": 24445,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1713512066837,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1651354,
+        "num": 1651354,
+        "word": "五一调休考虑过单休的人吗",
+        "onboard_time": 1713505099,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1387971,
+        "num": 1387971,
+        "word": "向太怎么也来参加浪姐了",
+        "onboard_time": 1713507319,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30558,
+        "num": 1286286,
+        "word": "潮起互联网奔涌三十年",
+        "onboard_time": 1713498738,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1285544,
+        "num": 1285544,
+        "word": "周扬青rap 罗志祥",
+        "onboard_time": 1713510978,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1267774,
+        "num": 1267774,
+        "word": "湘潭大学",
+        "onboard_time": 1713505878,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 714812,
+        "num": 714812,
+        "word": "我弟弟暗恋了我闺蜜10年",
+        "onboard_time": 1713505817,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 691665,
+        "num": 691665,
+        "word": "戚薇唱了如果爱忘了",
+        "onboard_time": 1713507258,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638468,
+        "num": 638468,
+        "word": "湘潭大学回应网传学生偷外卖被毒死",
+        "onboard_time": 1713503538,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271921,
+        "num": 598022,
+        "word": "伊朗宣布所有基地处于最高级别战备状态",
+        "onboard_time": 1713499759,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 277442,
+        "num": 574762,
+        "word": "16岁女孩1万块穷游9国3大洲",
+        "onboard_time": 1713492137,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 561647,
+        "num": 561647,
+        "word": "苗苗浪姐初舞台站反了",
+        "onboard_time": 1713505817,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111772,
+        "num": 530958,
+        "word": "每位女性都值得拥有",
+        "onboard_time": 1713510678,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 524586,
+        "num": 524586,
+        "word": "南湘回来了",
+        "onboard_time": 1713502578,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515044,
+        "num": 515044,
+        "word": "12306 存钱",
+        "onboard_time": 1713500959,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512565,
+        "num": 512565,
+        "word": "女子支付宝蒙口令领走1万元红包",
+        "onboard_time": 1713503899,
+        "rank": 14,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 481287,
+        "num": 481287,
+        "word": "上海家暴杀妻案凶手说自己不是故意的",
+        "onboard_time": 1713504919,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451254,
+        "num": 451254,
+        "word": "郑妮可初舞台第一",
+        "onboard_time": 1713506299,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420094,
+        "num": 420094,
+        "word": "以色列导弹袭击了伊朗目标",
+        "onboard_time": 1713493159,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 373329,
+        "num": 373329,
+        "word": "张予曦人长得美 唱歌就算了",
+        "onboard_time": 1713503060,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290047,
+        "num": 290047,
+        "word": "陈梦vs平野美宇",
+        "onboard_time": 1713508098,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321309,
+        "num": 289912,
+        "word": "我妈问我为什么1500不够花",
+        "onboard_time": 1713506238,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281567,
+        "num": 281567,
+        "word": "尚雯婕切何洁",
+        "onboard_time": 1713502278,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272759,
+        "num": 272759,
+        "word": "没退休金的妈妈62岁去做保洁",
+        "onboard_time": 1713510498,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261194,
+        "num": 261194,
+        "word": "周杰伦演唱会一女子迟到后崩溃大哭",
+        "onboard_time": 1713511697,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 259942,
+        "num": 259942,
+        "word": "吴亦凡两关联公司欠税400余万",
+        "onboard_time": 1713496518,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251115,
+        "num": 251115,
+        "word": "陈丽君 花木兰孙悟空无缝衔接",
+        "onboard_time": 1713505398,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240496,
+        "num": 240496,
+        "word": "戚薇浪姐最快乐的人",
+        "onboard_time": 1713504558,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225879,
+        "num": 225879,
+        "word": "换乘恋爱",
+        "onboard_time": 1713504919,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40004,
+        "num": 221187,
+        "word": "10万级车配不配上2C快充",
+        "onboard_time": 1713509837,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185836,
+        "num": 220699,
+        "word": "面包车自燃幼儿园老师徒手拖走旁边车",
+        "onboard_time": 1713510318,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220620,
+        "num": 220620,
+        "word": "NCT新应援棒",
+        "onboard_time": 1713511697,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214186,
+        "num": 214186,
+        "word": "伊以冲突",
+        "onboard_time": 1713501320,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 190284,
+        "num": 190284,
+        "word": "庆余年 对打",
+        "onboard_time": 1713498438,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184278,
+        "num": 184278,
+        "word": "苗苗跳舞在发光",
+        "onboard_time": 1713506538,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26452,
+        "num": 180687,
+        "word": "没十年功力玩不好LV大秀",
+        "onboard_time": 1713510438,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 179294,
+        "num": 179294,
+        "word": "乘风2024开播",
+        "onboard_time": 1713495797,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173484,
+        "num": 173484,
+        "word": "蔡文静 你是多少人的妹妹",
+        "onboard_time": 1713510438,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172641,
+        "num": 172641,
+        "word": "张靓颖宣传霉霉新专",
+        "onboard_time": 1713511818,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169413,
+        "num": 169413,
+        "word": "Pura70或助华为重夺中国市场榜首",
+        "onboard_time": 1713510438,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151175,
+        "num": 151175,
+        "word": "马龙太帅了",
+        "onboard_time": 1713507798,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169629,
+        "num": 149926,
+        "word": "乘风2024",
+        "onboard_time": 1713499398,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167551,
+        "num": 148628,
+        "word": "孙艺洲版吕布造型",
+        "onboard_time": 1713507919,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154373,
+        "num": 144962,
+        "word": "杨幂 美甲",
+        "onboard_time": 1713491418,
+        "rank": 42,
+        "category": "电影,美妆"
+      },
+      {
+        "raw_hot": 153572,
+        "num": 144283,
+        "word": "浪姐初舞台",
+        "onboard_time": 1713501979,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142780,
+        "num": 142780,
+        "word": "邓超要给鹿晗准备生日礼物了",
+        "onboard_time": 1713505577,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138611,
+        "num": 138611,
+        "word": "宁波偶遇杜海涛沈梦辰排队买P70",
+        "onboard_time": 1713507019,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130006,
+        "num": 130006,
+        "word": "河南专升本查分",
+        "onboard_time": 1713510798,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125546,
+        "num": 125546,
+        "word": "其实你已经过度疲劳了",
+        "onboard_time": 1713485239,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123894,
+        "num": 123894,
+        "word": "教资面试平等逼疯每个i人",
+        "onboard_time": 1713505456,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113419,
+        "num": 113419,
+        "word": "口红试色的新方法找到了",
+        "onboard_time": 1713511997,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动党组织向最基层延伸#"
+    }
+  }
+}

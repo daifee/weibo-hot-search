@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713511079180,
+  "endTime": 1713512066837,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1387971,
+      "num": 1387971,
+      "word": "向太怎么也来参加浪姐了",
+      "onboard_time": 1713507319,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1384101,
       "num": 1384101,
       "word": "你们有5根手指 我只有4根诶",
@@ -563,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1285544,
+      "num": 1285544,
+      "word": "周扬青rap 罗志祥",
+      "onboard_time": 1713510978,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1282628,
       "num": 1282628,
       "word": "酱园弄全阵容官宣",
@@ -595,20 +611,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1267774,
+      "num": 1267774,
+      "word": "湘潭大学",
+      "onboard_time": 1713505878,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1263301,
       "num": 1263301,
       "word": "清华作业你胆敢用北大的纸交",
       "onboard_time": 1713060799,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1262831,
-      "num": 1262831,
-      "word": "向太怎么也来参加浪姐了",
-      "onboard_time": 1713507319,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 1253747,
@@ -817,14 +833,6 @@
       "onboard_time": 1713087617,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1086263,
-      "num": 1086263,
-      "word": "湘潭大学",
-      "onboard_time": 1713505878,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 1085314,
@@ -5811,6 +5819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321309,
+      "num": 314457,
+      "word": "我妈问我为什么1500不够花",
+      "onboard_time": 1713506238,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 321120,
       "num": 279839,
       "word": "丁真走红毯",
@@ -5961,14 +5977,6 @@
       "onboard_time": 1713140839,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 314457,
-      "num": 314457,
-      "word": "我妈问我为什么1500不够花",
-      "onboard_time": 1713506238,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 313243,
@@ -6699,6 +6707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 272759,
+      "num": 272759,
+      "word": "没退休金的妈妈62岁去做保洁",
+      "onboard_time": 1713510498,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272683,
       "num": 272683,
       "word": "加沙地带超过1万名妇女被杀害",
@@ -6977,6 +6993,14 @@
       "onboard_time": 1713052876,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 261194,
+      "num": 261194,
+      "word": "周杰伦演唱会一女子迟到后崩溃大哭",
+      "onboard_time": 1713511697,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 261028,
@@ -8211,6 +8235,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 220620,
+      "num": 220620,
+      "word": "NCT新应援棒",
+      "onboard_time": 1713511697,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220410,
       "num": 220410,
       "word": "同仁堂仁丹汞含量超标5万倍",
@@ -8672,14 +8704,6 @@
       "word": "失业中产卖房自救",
       "onboard_time": 1713157221,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210322,
-      "num": 210322,
-      "word": "没退休金的妈妈62岁去做保洁",
-      "onboard_time": 1713510498,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -10179,6 +10203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185836,
+      "num": 220699,
+      "word": "面包车自燃幼儿园老师徒手拖走旁边车",
+      "onboard_time": 1713510318,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185771,
       "num": 185771,
       "word": "北京半程马拉松何杰夺冠",
@@ -10875,6 +10907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173484,
+      "num": 173484,
+      "word": "蔡文静 你是多少人的妹妹",
+      "onboard_time": 1713510438,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173400,
       "num": 173400,
       "word": "张天爱好薄一片",
@@ -10905,6 +10945,14 @@
       "onboard_time": 1713501198,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172641,
+      "num": 172641,
+      "word": "张靓颖宣传霉霉新专",
+      "onboard_time": 1713511818,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 172459,
@@ -11051,14 +11099,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 169947,
-      "num": 166051,
-      "word": "周扬青rap 罗志祥",
-      "onboard_time": 1713510978,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169689,
       "num": 169689,
       "word": "庄达菲发文谈首张EP",
@@ -11081,6 +11121,14 @@
       "onboard_time": 1713505456,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169413,
+      "num": 169413,
+      "word": "Pura70或助华为重夺中国市场榜首",
+      "onboard_time": 1713510438,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 169346,
@@ -11747,14 +11795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157426,
-      "num": 157426,
-      "word": "Pura70或助华为重夺中国市场榜首",
-      "onboard_time": 1713510438,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 157266,
       "num": 157266,
       "word": "赵丽颖沙滩照",
@@ -12228,7 +12268,7 @@
     },
     {
       "raw_hot": 151689,
-      "num": 187567,
+      "num": 530958,
       "word": "每位女性都值得拥有",
       "onboard_time": 1713510678,
       "rank": 34,
@@ -12281,14 +12321,6 @@
       "onboard_time": 1713309076,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151116,
-      "num": 151116,
-      "word": "蔡文静 你是多少人的妹妹",
-      "onboard_time": 1713510438,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 151098,
@@ -14347,14 +14379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117955,
-      "num": 196880,
-      "word": "面包车自燃幼儿园老师徒手拖走旁边车",
-      "onboard_time": 1713510318,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117945,
       "num": 117945,
       "word": "姚志明的身世",
@@ -14521,6 +14545,14 @@
       "onboard_time": 1713162977,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113419,
+      "num": 113419,
+      "word": "口红试色的新方法找到了",
+      "onboard_time": 1713511997,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 113344,
@@ -15796,7 +15828,7 @@
     },
     {
       "raw_hot": 47110,
-      "num": 1165152,
+      "num": 1286286,
       "word": "潮起互联网奔涌三十年",
       "onboard_time": 1713498738,
       "rank": 2,
@@ -15899,6 +15931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40004,
+      "num": 221187,
+      "word": "10万级车配不配上2C快充",
+      "onboard_time": 1713509837,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 39910,
       "num": 41564,
       "word": "诺米 全开麦",
@@ -15993,14 +16033,6 @@
       "onboard_time": 1713167176,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33719,
-      "num": 196694,
-      "word": "10万级车配不配上2C快充",
-      "onboard_time": 1713509837,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 32754,
@@ -16163,6 +16195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26452,
+      "num": 185648,
+      "word": "没十年功力玩不好LV大秀",
+      "onboard_time": 1713510438,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 26316,
       "num": 26316,
       "word": "心理医生应对内耗的5个建议",
@@ -16177,14 +16217,6 @@
       "onboard_time": 1713204551,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24581,
-      "num": 185648,
-      "word": "没十年功力玩不好LV大秀",
-      "onboard_time": 1713510438,
-      "rank": 35,
-      "category": "时尚"
     },
     {
       "raw_hot": 24445,
