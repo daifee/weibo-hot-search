@@ -1,0 +1,410 @@
+{
+  "runTime": 1713537368628,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1381148,
+        "num": 1381148,
+        "word": "丁克现状",
+        "onboard_time": 1713530597,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1070835,
+        "num": 1070835,
+        "word": "田曦薇 看得出她是公主",
+        "onboard_time": 1713531497,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34407,
+        "num": 985862,
+        "word": "第14届北京国际电影节",
+        "onboard_time": 1713516377,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 976295,
+        "num": 976295,
+        "word": "王琳 公派留学",
+        "onboard_time": 1713535640,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 902703,
+        "num": 902703,
+        "word": "特斯拉被裁中国员工发声",
+        "onboard_time": 1713533478,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 783921,
+        "num": 783921,
+        "word": "霉霉一天顶BLACKPINK八年",
+        "onboard_time": 1713529276,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 537553,
+        "num": 565315,
+        "word": "五一调休考虑过单休的人吗",
+        "onboard_time": 1713505099,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471428,
+        "num": 552540,
+        "word": "王楚钦vs张禹珍",
+        "onboard_time": 1713532038,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 551893,
+        "num": 551893,
+        "word": "范丞丞为了讨好宋雨琦跳fate",
+        "onboard_time": 1713535698,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94913,
+        "num": 495325,
+        "word": "面包车自燃幼儿园老师徒手拖走旁边车",
+        "onboard_time": 1713510318,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472636,
+        "num": 472636,
+        "word": "肖战是学弟公认的校草",
+        "onboard_time": 1713527298,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456189,
+        "num": 456189,
+        "word": "茶百道联名",
+        "onboard_time": 1713536299,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 420920,
+        "num": 420920,
+        "word": "向太怎么也来参加浪姐了",
+        "onboard_time": 1713507319,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88672,
+        "num": 411936,
+        "word": "极氪以奢侈品标准打造光辉",
+        "onboard_time": 1713534318,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 40019,
+        "num": 408686,
+        "word": "谭秦东病痛缠身拒收红包",
+        "onboard_time": 1713535278,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408334,
+        "num": 408334,
+        "word": "河北发生多车相撞事故",
+        "onboard_time": 1713531737,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400976,
+        "num": 400976,
+        "word": "陈昊宇分数",
+        "onboard_time": 1713528857,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376012,
+        "num": 376012,
+        "word": "伊朗驻法使馆领事处遭强行闯入",
+        "onboard_time": 1713536299,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 374105,
+        "num": 374105,
+        "word": "向佐上带娃综艺了",
+        "onboard_time": 1713529697,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370109,
+        "num": 370109,
+        "word": "出道4个月的Jennie",
+        "onboard_time": 1713535219,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514704,
+        "num": 357904,
+        "word": "张予曦 可以不喝哑药吗",
+        "onboard_time": 1713524597,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426599,
+        "num": 355738,
+        "word": "周扬青rap 罗志祥",
+        "onboard_time": 1713510978,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336752,
+        "num": 336752,
+        "word": "王楚钦晋级四强",
+        "onboard_time": 1713536899,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311933,
+        "num": 311933,
+        "word": "中国人民解放军信息支援部队",
+        "onboard_time": 1713527058,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 262938,
+        "num": 262938,
+        "word": "孙颖莎说困难时就拼呗顶呗",
+        "onboard_time": 1713536658,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346992,
+        "num": 262823,
+        "word": "孙怡玫瑰裙",
+        "onboard_time": 1713535998,
+        "rank": 25,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 341568,
+        "num": 262667,
+        "word": "肖战还给了两年的售后时间",
+        "onboard_time": 1713530958,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301122,
+        "num": 262602,
+        "word": "延禧攻略",
+        "onboard_time": 1713519077,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261928,
+        "num": 261928,
+        "word": "身上长了这4种小红点要抓紧看医生",
+        "onboard_time": 1713531917,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218094,
+        "num": 218094,
+        "word": "林高远4比2樊振东",
+        "onboard_time": 1713529397,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261575,
+        "num": 215098,
+        "word": "张小斐表情 真的心疼",
+        "onboard_time": 1713521237,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234463,
+        "num": 211996,
+        "word": "眼泪女王",
+        "onboard_time": 1713535158,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232390,
+        "num": 209306,
+        "word": "白鹿绑耳朵消肿",
+        "onboard_time": 1713532398,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203832,
+        "num": 203832,
+        "word": "WTT",
+        "onboard_time": 1713536718,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182892,
+        "num": 182892,
+        "word": "射手座最大的执念",
+        "onboard_time": 1713530898,
+        "rank": 34,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 208593,
+        "num": 182879,
+        "word": "陈丽君初舞台第三",
+        "onboard_time": 1713528379,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207146,
+        "num": 182851,
+        "word": "浪姐初舞台排名",
+        "onboard_time": 1713512658,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182771,
+        "num": 182771,
+        "word": "男子酒后打死10余只火烈鸟获刑5年",
+        "onboard_time": 1713536539,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177020,
+        "num": 177020,
+        "word": "一诺司空震发育路",
+        "onboard_time": 1713537020,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166076,
+        "num": 166076,
+        "word": "以为是肠胃小毛病没想到是癌症",
+        "onboard_time": 1713536959,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190970,
+        "num": 166000,
+        "word": "刘亦菲保镖震惊脸",
+        "onboard_time": 1713532638,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167072,
+        "num": 165660,
+        "word": "万妮达说要回不去黑怕圈了",
+        "onboard_time": 1713536539,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165220,
+        "num": 165220,
+        "word": "郭碧婷i的好明显",
+        "onboard_time": 1713536899,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160111,
+        "num": 160111,
+        "word": "侃爷殴打涉嫌性侵妻子的男子",
+        "onboard_time": 1713512898,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148310,
+        "num": 148310,
+        "word": "文咏珊好薄一片",
+        "onboard_time": 1713528677,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140122,
+        "num": 140122,
+        "word": "王楚钦4比1张禹珍",
+        "onboard_time": 1713537258,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136162,
+        "num": 136162,
+        "word": "孙颖莎晋级四强",
+        "onboard_time": 1713536299,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133941,
+        "num": 133941,
+        "word": "WBG沙漠开门红",
+        "onboard_time": 1713534198,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132114,
+        "num": 132114,
+        "word": "张真源痛苦三连击",
+        "onboard_time": 1713537199,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124982,
+        "num": 130647,
+        "word": "蓝莓表面的白霜需要洗掉吗",
+        "onboard_time": 1713537258,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向信息支援部队授予军旗并致训词#"
+    }
+  }
+}
