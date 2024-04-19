@@ -1,6 +1,6 @@
 {
   "startTime": 1713457373132,
-  "endTime": 1713518355647,
+  "endTime": 1713519328528,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1333507,
+      "num": 1333507,
+      "word": "湘潭大学身亡学生死因在调查",
+      "onboard_time": 1713515178,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1296408,
       "num": 926509,
       "word": "侃爷殴打涉嫌性侵妻子的男子",
@@ -81,14 +89,6 @@
       "onboard_time": 1713505878,
       "rank": 12,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1187792,
-      "num": 1187792,
-      "word": "湘潭大学身亡学生死因在调查",
-      "onboard_time": 1713515178,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1172117,
@@ -283,6 +283,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 719952,
+      "num": 719952,
+      "word": "张元英再现神级转圈",
+      "onboard_time": 1713514398,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 715692,
       "num": 715692,
       "word": "霉霉新专苦难诗社",
@@ -305,14 +313,6 @@
       "onboard_time": 1713496518,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 697944,
-      "num": 697944,
-      "word": "张元英再现神级转圈",
-      "onboard_time": 1713514398,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 697273,
@@ -531,6 +531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 478997,
+      "num": 257073,
+      "word": "女生结婚收到一车辣条随礼",
+      "onboard_time": 1713517579,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471753,
       "num": 471753,
       "word": "全球资本市场巨震",
@@ -651,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355916,
+      "num": 310869,
+      "word": "徐明浩回应eight在seventeen",
+      "onboard_time": 1713514877,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354628,
       "num": 354628,
       "word": "男子酒后骚扰女孩还打家长",
@@ -697,14 +713,6 @@
       "onboard_time": 1713485478,
       "rank": 23,
       "category": "母婴育儿,社会新闻"
-    },
-    {
-      "raw_hot": 338721,
-      "num": 310869,
-      "word": "徐明浩回应eight在seventeen",
-      "onboard_time": 1713514877,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 334447,
@@ -787,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307040,
+      "num": 307040,
+      "word": "她可是万妮达",
+      "onboard_time": 1713515416,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304634,
       "num": 304634,
       "word": "世界杯总决赛全红婵陈芋汐夺金",
@@ -809,14 +825,6 @@
       "onboard_time": 1713456858,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 301222,
-      "num": 260709,
-      "word": "她可是万妮达",
-      "onboard_time": 1713515416,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 300484,
@@ -857,14 +865,6 @@
       "onboard_time": 1713483916,
       "rank": 15,
       "category": "教育"
-    },
-    {
-      "raw_hot": 280119,
-      "num": 257073,
-      "word": "女生结婚收到一车辣条随礼",
-      "onboard_time": 1713517579,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279293,
@@ -1060,7 +1060,7 @@
     },
     {
       "raw_hot": 223534,
-      "num": 213034,
+      "num": 218976,
       "word": "小伞树奈奈领证",
       "onboard_time": 1713518118,
       "rank": 27,
@@ -1089,6 +1089,14 @@
       "onboard_time": 1713511697,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219069,
+      "num": 219069,
+      "word": "湘潭大学否认丢失秋水仙碱致学生身亡",
+      "onboard_time": 1713518239,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218450,
@@ -1147,12 +1155,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210532,
+      "num": 191760,
+      "word": "延禧攻略",
+      "onboard_time": 1713519077,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210469,
       "num": 210469,
       "word": "周冠宇中国站冲刺排位赛第10",
       "onboard_time": 1713517097,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207230,
+      "num": 207230,
+      "word": "4月唯一正常的一周",
+      "onboard_time": 1713514577,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 205357,
@@ -1219,6 +1243,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 199350,
+      "num": 191055,
+      "word": "李雨桐说日久见人心",
+      "onboard_time": 1713518177,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199092,
       "num": 199092,
       "word": "星穹铁道",
@@ -1275,20 +1307,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190917,
-      "num": 190917,
-      "word": "4月唯一正常的一周",
-      "onboard_time": 1713514577,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 190385,
       "num": 190385,
       "word": "1680元看台票引发质疑",
       "onboard_time": 1713511278,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190023,
+      "num": 190023,
+      "word": "冰姐回应都美竹详细说明",
+      "onboard_time": 1713518838,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 188341,
@@ -1355,11 +1387,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179870,
+      "num": 164619,
+      "word": "白鹿cos朱迪兔警官",
+      "onboard_time": 1713518358,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179413,
       "num": 173955,
       "word": "黄雅莉劝戚薇少把妹",
       "onboard_time": 1713507378,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 178402,
+      "num": 164437,
+      "word": "恋爱兄妹",
+      "onboard_time": 1713518539,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1441,14 +1489,6 @@
       "onboard_time": 1713502159,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173060,
-      "num": 173060,
-      "word": "李雨桐说日久见人心",
-      "onboard_time": 1713518177,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 172645,
@@ -1827,14 +1867,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 124690,
-      "num": 124690,
-      "word": "湘潭大学否认丢失秋水仙碱致学生身亡",
-      "onboard_time": 1713518239,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123253,
       "num": 120593,
       "word": "沙溢瘦了20斤",
@@ -1881,6 +1913,14 @@
       "onboard_time": 1713456677,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 118280,
+      "num": 130548,
+      "word": "经常读书和不读书有什么区别",
+      "onboard_time": 1713519136,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 118042,
@@ -1995,6 +2035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98447,
+      "num": 311697,
+      "word": "你家的扫地机器人足够智能吗",
+      "onboard_time": 1713516138,
+      "rank": 15,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 97663,
       "num": 97663,
       "word": "张艺兴开始打歌了",
@@ -2089,14 +2137,6 @@
       "onboard_time": 1713466871,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 74488,
-      "num": 311388,
-      "word": "你家的扫地机器人足够智能吗",
-      "onboard_time": 1713516138,
-      "rank": 15,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 74218,
@@ -2243,20 +2283,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 50023,
+      "num": 971856,
+      "word": "第14届北京国际电影节",
+      "onboard_time": 1713516377,
+      "rank": 2,
+      "category": "电影"
+    },
+    {
       "raw_hot": 47771,
       "num": 185648,
       "word": "没十年功力玩不好LV大秀",
       "onboard_time": 1713510438,
       "rank": 35,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 47238,
-      "num": 971856,
-      "word": "第14届北京国际电影节",
-      "onboard_time": 1713516377,
-      "rank": 2,
-      "category": "电影"
     },
     {
       "raw_hot": 47110,
