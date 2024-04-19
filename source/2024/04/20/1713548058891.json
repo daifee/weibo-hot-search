@@ -1,0 +1,410 @@
+{
+  "runTime": 1713548058891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 380047,
+        "num": 380047,
+        "word": "弟弟都亲了一夜承明你们呢",
+        "onboard_time": 1713541699,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221978,
+        "num": 221978,
+        "word": "男子酒后打死10余只火烈鸟获刑5年",
+        "onboard_time": 1713536539,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2168,
+        "num": 205966,
+        "word": "数字丝路发展论坛",
+        "onboard_time": 1713241458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195057,
+        "num": 195057,
+        "word": "特斯拉被裁中国员工发声",
+        "onboard_time": 1713533478,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 182037,
+        "num": 182037,
+        "word": "王琳 公派留学",
+        "onboard_time": 1713535640,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171215,
+        "num": 171215,
+        "word": "陈昊宇分数",
+        "onboard_time": 1713528857,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163958,
+        "num": 163958,
+        "word": "向太怎么也来参加浪姐了",
+        "onboard_time": 1713507319,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77871,
+        "num": 112565,
+        "word": "中国人民解放军信息支援部队",
+        "onboard_time": 1713527058,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 108787,
+        "num": 108787,
+        "word": "黄牛克星林俊杰",
+        "onboard_time": 1713538999,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18321,
+        "num": 108718,
+        "word": "00后老师为每位同学送专属信",
+        "onboard_time": 1713547395,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 498625,
+        "num": 107509,
+        "word": "李溪芮发缝",
+        "onboard_time": 1713539539,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303287,
+        "num": 106600,
+        "word": "徐志胜看透了女性婚恋市场",
+        "onboard_time": 1713544995,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226114,
+        "num": 105970,
+        "word": "柳岩浪姐cos不知火舞",
+        "onboard_time": 1713542538,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126226,
+        "num": 104823,
+        "word": "孙怡玫瑰裙",
+        "onboard_time": 1713535998,
+        "rank": 13,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 104717,
+        "num": 104717,
+        "word": "杀妻谷歌工程师或被关押监狱精神病房",
+        "onboard_time": 1713540197,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108217,
+        "num": 104271,
+        "word": "陈丽君初舞台第三",
+        "onboard_time": 1713528379,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100919,
+        "num": 100919,
+        "word": "重庆严肃处理错收多收燃气费问题",
+        "onboard_time": 1713538999,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98594,
+        "num": 98594,
+        "word": "张婧仪去看了周杰伦演唱会",
+        "onboard_time": 1713540197,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90685,
+        "num": 90685,
+        "word": "丁克现状",
+        "onboard_time": 1713530597,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76466,
+        "num": 88917,
+        "word": "五一调休考虑过单休的人吗",
+        "onboard_time": 1713505099,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247533,
+        "num": 87952,
+        "word": "霉霉一天顶BLACKPINK八年",
+        "onboard_time": 1713529276,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 243793,
+        "num": 85518,
+        "word": "田曦薇 看得出她是公主",
+        "onboard_time": 1713531497,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131888,
+        "num": 83898,
+        "word": "这些信号提示你有血栓了",
+        "onboard_time": 1713542056,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81766,
+        "num": 81766,
+        "word": "长大后才知道原来阳光不是免费的",
+        "onboard_time": 1713538999,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76698,
+        "num": 76698,
+        "word": "原来你的蝴蝶结束发带一直戴反了",
+        "onboard_time": 1713545236,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96439,
+        "num": 76419,
+        "word": "范丞丞为了讨好宋雨琦跳fate",
+        "onboard_time": 1713535698,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149587,
+        "num": 75048,
+        "word": "周扬青rap 罗志祥",
+        "onboard_time": 1713510978,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142055,
+        "num": 73330,
+        "word": "张予曦 可以不喝哑药吗",
+        "onboard_time": 1713524597,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119420,
+        "num": 72841,
+        "word": "李溪芮漫画腿",
+        "onboard_time": 1713522677,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54065,
+        "num": 71735,
+        "word": "大熊猫吃笋整出了扛炮筒的架势",
+        "onboard_time": 1713543977,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103934,
+        "num": 70625,
+        "word": "张小斐表情 真的心疼",
+        "onboard_time": 1713521237,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96030,
+        "num": 69303,
+        "word": "蔡文静cos可云",
+        "onboard_time": 1713545177,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68811,
+        "num": 68811,
+        "word": "射手座最大的执念",
+        "onboard_time": 1713530898,
+        "rank": 32,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 66983,
+        "num": 66983,
+        "word": "建议面试要看公司的厕所环境",
+        "onboard_time": 1713541817,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63619,
+        "num": 63619,
+        "word": "以为是肠胃小毛病没想到是癌症",
+        "onboard_time": 1713536959,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86155,
+        "num": 63074,
+        "word": "赵丽颖与凤行战绩",
+        "onboard_time": 1713541638,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73631,
+        "num": 62631,
+        "word": "杨紫方回应粉丝造型意见",
+        "onboard_time": 1713544157,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72972,
+        "num": 62522,
+        "word": "苗苗回应浪姐初舞台站反了",
+        "onboard_time": 1713541218,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61760,
+        "num": 61760,
+        "word": "林高远4比2樊振东",
+        "onboard_time": 1713529397,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58777,
+        "num": 58777,
+        "word": "身上长了这4种小红点要抓紧看医生",
+        "onboard_time": 1713531917,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71081,
+        "num": 58488,
+        "word": "肖战还给了两年的售后时间",
+        "onboard_time": 1713530958,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64884,
+        "num": 58334,
+        "word": "乘风2024",
+        "onboard_time": 1713538038,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58148,
+        "num": 58148,
+        "word": "出道4个月的Jennie",
+        "onboard_time": 1713535219,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54294,
+        "num": 54294,
+        "word": "买燃油车的人正式成了少数派",
+        "onboard_time": 1713537978,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 52781,
+        "num": 52781,
+        "word": "林高远vs樊振东",
+        "onboard_time": 1713526997,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67326,
+        "num": 52641,
+        "word": "肖战是学弟公认的校草",
+        "onboard_time": 1713527298,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38720,
+        "num": 52357,
+        "word": "王楚钦展现出相声天赋了",
+        "onboard_time": 1713538758,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37766,
+        "num": 52235,
+        "word": "伊朗驻法使馆领事处遭强行闯入",
+        "onboard_time": 1713536299,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 37022,
+        "num": 51950,
+        "word": "伊朗高官称暂无立即报复以色列计划",
+        "onboard_time": 1713530118,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 35159,
+        "num": 51678,
+        "word": "1米7学妹体测完变1米6",
+        "onboard_time": 1713547993,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向信息支援部队授予军旗并致训词#"
+    }
+  }
+}

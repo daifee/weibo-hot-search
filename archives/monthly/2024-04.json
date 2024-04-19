@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713546989463,
+  "endTime": 1713548058891,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -20867,6 +20867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303287,
+      "num": 132182,
+      "word": "徐志胜看透了女性婚恋市场",
+      "onboard_time": 1713544995,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302879,
       "num": 302879,
       "word": "狭管效应",
@@ -27929,14 +27937,6 @@
       "onboard_time": 1712324599,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 222764,
-      "num": 132182,
-      "word": "徐志胜看透了女性婚恋市场",
-      "onboard_time": 1713544995,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 222601,
@@ -53515,6 +53515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 35159,
+      "num": 51678,
+      "word": "1米7学妹体测完变1米6",
+      "onboard_time": 1713547993,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35087,
       "num": 47903,
       "word": "大牌包包分享",
@@ -54449,6 +54457,14 @@
       "onboard_time": 1713389290,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 18321,
+      "num": 108718,
+      "word": "00后老师为每位同学送专属信",
+      "onboard_time": 1713547395,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 18299,
