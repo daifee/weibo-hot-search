@@ -1,0 +1,410 @@
+{
+  "runTime": 1713504871724,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2184357,
+        "num": 2184357,
+        "word": "12306 存钱",
+        "onboard_time": 1713500959,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1093242,
+        "num": 1093242,
+        "word": "以色列导弹袭击了伊朗目标",
+        "onboard_time": 1713493159,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 40127,
+        "num": 1071486,
+        "word": "潮起互联网奔涌三十年",
+        "onboard_time": 1713498738,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1065703,
+        "num": 1065703,
+        "word": "尚雯婕切何洁",
+        "onboard_time": 1713502278,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 800222,
+        "num": 800222,
+        "word": "其实你已经过度疲劳了",
+        "onboard_time": 1713485239,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 939934,
+        "num": 795130,
+        "word": "张予曦人长得美 唱歌就算了",
+        "onboard_time": 1713503060,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 740596,
+        "num": 740596,
+        "word": "湘潭大学回应网传学生偷外卖被毒死",
+        "onboard_time": 1713503538,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 896387,
+        "num": 697332,
+        "word": "南湘回来了",
+        "onboard_time": 1713502578,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 608292,
+        "num": 608292,
+        "word": "伊朗宣布所有基地处于最高级别战备状态",
+        "onboard_time": 1713499759,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 421218,
+        "num": 594343,
+        "word": "16岁女孩1万块穷游9国3大洲",
+        "onboard_time": 1713492137,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 588951,
+        "num": 588951,
+        "word": "浪姐初舞台",
+        "onboard_time": 1713501979,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548084,
+        "num": 548084,
+        "word": "伊以冲突",
+        "onboard_time": 1713501320,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 480464,
+        "num": 480464,
+        "word": "吴亦凡两关联公司欠税400余万",
+        "onboard_time": 1713496518,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479712,
+        "num": 479712,
+        "word": "朱亚文演王一博的爸爸",
+        "onboard_time": 1713502340,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 463667,
+        "num": 463667,
+        "word": "庆余年 对打",
+        "onboard_time": 1713498438,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419924,
+        "num": 419924,
+        "word": "乘风2024开播",
+        "onboard_time": 1713495797,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398879,
+        "num": 398879,
+        "word": "女子支付宝蒙口令领走1万元红包",
+        "onboard_time": 1713503899,
+        "rank": 16,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 106940,
+        "num": 360962,
+        "word": "AI音乐概念股",
+        "onboard_time": 1713503118,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 353560,
+        "num": 353560,
+        "word": "霉霉新专苦难诗社",
+        "onboard_time": 1713499218,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 344221,
+        "num": 344221,
+        "word": "薛之谦诉李雨桐案已撤诉",
+        "onboard_time": 1713497239,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657008,
+        "num": 343572,
+        "word": "杨幂 美甲",
+        "onboard_time": 1713491418,
+        "rank": 20,
+        "category": "电影,美妆"
+      },
+      {
+        "raw_hot": 656244,
+        "num": 337738,
+        "word": "当县城体制内女孩不想结婚",
+        "onboard_time": 1713500238,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320368,
+        "num": 320368,
+        "word": "儿媳肺癌晚期婆婆拿做保姆的钱给她治病",
+        "onboard_time": 1713484998,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294696,
+        "num": 294696,
+        "word": "马龙vs户上隼辅",
+        "onboard_time": 1713504079,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269224,
+        "num": 269224,
+        "word": "广州天河宝马撞人案罪犯被执行死刑",
+        "onboard_time": 1713494117,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266654,
+        "num": 266654,
+        "word": "黄金原油急涨",
+        "onboard_time": 1713498319,
+        "rank": 25,
+        "category": "财经,军事"
+      },
+      {
+        "raw_hot": 240414,
+        "num": 240414,
+        "word": "刘忻绝了",
+        "onboard_time": 1713504377,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229707,
+        "num": 229707,
+        "word": "姑父强奸猥亵侄女从小学三年级至高二",
+        "onboard_time": 1713484036,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210968,
+        "num": 210968,
+        "word": "芒果 转场",
+        "onboard_time": 1713504258,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208282,
+        "num": 208282,
+        "word": "网传重庆一老太被挖掘机当街碾压身亡",
+        "onboard_time": 1713492378,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205357,
+        "num": 205357,
+        "word": "张本美和4比1迪亚兹",
+        "onboard_time": 1713504438,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204412,
+        "num": 204412,
+        "word": "狗窝尺码买错了",
+        "onboard_time": 1713502278,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203361,
+        "num": 203361,
+        "word": "去世两年的狗狗突然在朋友圈刷到",
+        "onboard_time": 1713496038,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203162,
+        "num": 203162,
+        "word": "华为Pura70首批用户已收到新机",
+        "onboard_time": 1713504499,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 195742,
+        "num": 195742,
+        "word": "文旅委称未掌握薛之谦演唱会互动造假证据",
+        "onboard_time": 1713501621,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195235,
+        "num": 195235,
+        "word": "戚薇浪姐最快乐的人",
+        "onboard_time": 1713504558,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182861,
+        "num": 182861,
+        "word": "fortnight",
+        "onboard_time": 1713503479,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181875,
+        "num": 181875,
+        "word": "刘亦菲微醺",
+        "onboard_time": 1713495737,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 176916,
+        "num": 176916,
+        "word": "英美宣布对伊朗实施制裁",
+        "onboard_time": 1713494357,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 173866,
+        "num": 173866,
+        "word": "五一不调休行不行",
+        "onboard_time": 1713484457,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166693,
+        "num": 166693,
+        "word": "伊朗发射防空导弹",
+        "onboard_time": 1713496998,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 161652,
+        "num": 161652,
+        "word": "周深把大鱼带到联合国",
+        "onboard_time": 1713499280,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151313,
+        "num": 151313,
+        "word": "星穹铁道一周年",
+        "onboard_time": 1713503958,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148690,
+        "num": 148690,
+        "word": "老外狂赞中国支付",
+        "onboard_time": 1713503719,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147545,
+        "num": 147545,
+        "word": "孙子被爷爷教训后举报爷爷有枪",
+        "onboard_time": 1713493338,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145395,
+        "num": 145395,
+        "word": "你们怎么说服的梁龙",
+        "onboard_time": 1713500238,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132468,
+        "num": 132468,
+        "word": "复旦研究生珠峰地区登山死亡",
+        "onboard_time": 1713502159,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131436,
+        "num": 131436,
+        "word": "萨顶顶刘忻 梦回快女",
+        "onboard_time": 1713504799,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127910,
+        "num": 127910,
+        "word": "伊朗",
+        "onboard_time": 1713491179,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 127238,
+        "num": 127238,
+        "word": "米游社崩了",
+        "onboard_time": 1713501738,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#发挥超大市场优势和内需潜力为各国合作提供更多机遇#"
+    }
+  }
+}

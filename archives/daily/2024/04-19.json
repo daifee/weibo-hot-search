@@ -1,6 +1,6 @@
 {
   "startTime": 1713457373132,
-  "endTime": 1713503848036,
+  "endTime": 1713504871724,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -11,8 +11,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1985219,
-      "num": 1985219,
+      "raw_hot": 2184357,
+      "num": 2184357,
       "word": "12306 存钱",
       "onboard_time": 1713500959,
       "rank": 34,
@@ -67,19 +67,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1065703,
+      "num": 1065703,
+      "word": "尚雯婕切何洁",
+      "onboard_time": 1713502278,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1054022,
       "num": 1054022,
       "word": "乘风2024开播",
       "onboard_time": 1713495797,
       "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1000308,
-      "num": 1000308,
-      "word": "尚雯婕切何洁",
-      "onboard_time": 1713502278,
-      "rank": 3,
       "category": "综艺"
     },
     {
@@ -97,6 +97,22 @@
       "onboard_time": 1713491179,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 939934,
+      "num": 795130,
+      "word": "张予曦人长得美 唱歌就算了",
+      "onboard_time": 1713503060,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 896387,
+      "num": 697332,
+      "word": "南湘回来了",
+      "onboard_time": 1713502578,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 858854,
@@ -153,6 +169,14 @@
       "onboard_time": 1713483437,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 740596,
+      "num": 740596,
+      "word": "湘潭大学回应网传学生偷外卖被毒死",
+      "onboard_time": 1713503538,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 733388,
@@ -323,14 +347,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 516472,
-      "num": 516472,
-      "word": "南湘回来了",
-      "onboard_time": 1713502578,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 507354,
       "num": 507354,
       "word": "蒋勤勤摔了",
@@ -363,12 +379,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 470797,
-      "num": 465028,
-      "word": "张予曦人长得美 唱歌就算了",
-      "onboard_time": 1713503060,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 479712,
+      "num": 479712,
+      "word": "朱亚文演王一博的爸爸",
+      "onboard_time": 1713502340,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 430495,
@@ -403,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398879,
+      "num": 398879,
+      "word": "女子支付宝蒙口令领走1万元红包",
+      "onboard_time": 1713503899,
+      "rank": 16,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 394384,
       "num": 394384,
       "word": "去世两年的狗狗突然在朋友圈刷到",
@@ -433,14 +457,6 @@
       "onboard_time": 1713485839,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 379978,
-      "num": 379978,
-      "word": "朱亚文演王一博的爸爸",
-      "onboard_time": 1713502340,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 378404,
@@ -587,6 +603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294696,
+      "num": 294696,
+      "word": "马龙vs户上隼辅",
+      "onboard_time": 1713504079,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285312,
       "num": 285312,
       "word": "贵价面包县城人不买单",
@@ -691,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240414,
+      "num": 240414,
+      "word": "刘忻绝了",
+      "onboard_time": 1713504377,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239382,
       "num": 175818,
       "word": "确认被爱后面相都变了",
@@ -787,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218757,
-      "num": 218757,
-      "word": "湘潭大学回应网传学生偷外卖被毒死",
-      "onboard_time": 1713503538,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218450,
       "num": 218450,
       "word": "蒋勤勤报平安",
@@ -811,12 +835,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210968,
+      "num": 210968,
+      "word": "芒果 转场",
+      "onboard_time": 1713504258,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210571,
       "num": 210571,
       "word": "fortnight",
       "onboard_time": 1713503479,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205357,
+      "num": 205357,
+      "word": "张本美和4比1迪亚兹",
+      "onboard_time": 1713504438,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 204412,
+      "num": 204412,
+      "word": "狗窝尺码买错了",
+      "onboard_time": 1713502278,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 203162,
+      "num": 203162,
+      "word": "华为Pura70首批用户已收到新机",
+      "onboard_time": 1713504499,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 201436,
@@ -849,6 +905,14 @@
       "onboard_time": 1713501078,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195235,
+      "num": 195235,
+      "word": "戚薇浪姐最快乐的人",
+      "onboard_time": 1713504558,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 191873,
@@ -921,14 +985,6 @@
       "onboard_time": 1713451639,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176904,
-      "num": 176904,
-      "word": "狗窝尺码买错了",
-      "onboard_time": 1713502278,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 175862,
@@ -1025,6 +1081,14 @@
       "onboard_time": 1713452299,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151313,
+      "num": 151313,
+      "word": "星穹铁道一周年",
+      "onboard_time": 1713503958,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 150995,
@@ -1155,6 +1219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131436,
+      "num": 131436,
+      "word": "萨顶顶刘忻 梦回快女",
+      "onboard_time": 1713504799,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130125,
       "num": 130125,
       "word": "陈丽君抹眉心一秒变妆",
@@ -1283,6 +1355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 106940,
+      "num": 360962,
+      "word": "AI音乐概念股",
+      "onboard_time": 1713503118,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 105933,
       "num": 105933,
       "word": "小猫 我的第一个人类",
@@ -1361,14 +1441,6 @@
       "onboard_time": 1713481874,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 91521,
-      "num": 204020,
-      "word": "AI音乐概念股",
-      "onboard_time": 1713503118,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 90899,

@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713503848036,
+  "endTime": 1713504871724,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -475,6 +475,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2184357,
+      "num": 2184357,
+      "word": "12306 存钱",
+      "onboard_time": 1713500959,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2184126,
       "num": 626249,
       "word": "虐猫考生说不是很懂网络舆论暂不回应",
@@ -633,14 +641,6 @@
       "onboard_time": 1712589379,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1985219,
-      "num": 1985219,
-      "word": "12306 存钱",
-      "onboard_time": 1713500959,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1983650,
@@ -3387,6 +3387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1065703,
+      "num": 1065703,
+      "word": "尚雯婕切何洁",
+      "onboard_time": 1713502278,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1065099,
       "num": 1065099,
       "word": "SM本月已有70名员工辞职",
@@ -3891,14 +3899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1000308,
-      "num": 1000308,
-      "word": "尚雯婕切何洁",
-      "onboard_time": 1713502278,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 999550,
       "num": 999550,
       "word": "老师用P过的照片吸引同学来上课",
@@ -4363,6 +4363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 939934,
+      "num": 795130,
+      "word": "张予曦人长得美 唱歌就算了",
+      "onboard_time": 1713503060,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 939826,
       "num": 939826,
       "word": "刘昊然 回春",
@@ -4745,6 +4753,14 @@
       "onboard_time": 1712225959,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 896387,
+      "num": 697332,
+      "word": "南湘回来了",
+      "onboard_time": 1713502578,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 893199,
@@ -6665,6 +6681,14 @@
       "onboard_time": 1713172757,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 740596,
+      "num": 740596,
+      "word": "湘潭大学回应网传学生偷外卖被毒死",
+      "onboard_time": 1713503538,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 738897,
@@ -11315,14 +11339,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 516472,
-      "num": 516472,
-      "word": "南湘回来了",
-      "onboard_time": 1713502578,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 516400,
       "num": 516400,
       "word": "唐鹤德希望今天是复活节",
@@ -12499,6 +12515,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 479712,
+      "num": 479712,
+      "word": "朱亚文演王一博的爸爸",
+      "onboard_time": 1713502340,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 479585,
       "num": 479585,
       "word": "夏之光 答应我不拍给的签名",
@@ -12777,14 +12801,6 @@
       "onboard_time": 1713164177,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 470797,
-      "num": 465028,
-      "word": "张予曦人长得美 唱歌就算了",
-      "onboard_time": 1713503060,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 470760,
@@ -15467,6 +15483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 398879,
+      "num": 398879,
+      "word": "女子支付宝蒙口令领走1万元红包",
+      "onboard_time": 1713503899,
+      "rank": 16,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 398843,
       "num": 398843,
       "word": "张艺兴工作室发文向张艺兴道歉",
@@ -16345,14 +16369,6 @@
       "onboard_time": 1711941380,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 379978,
-      "num": 379978,
-      "word": "朱亚文演王一博的爸爸",
-      "onboard_time": 1713502340,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 379783,
@@ -20819,6 +20835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294696,
+      "num": 294696,
+      "word": "马龙vs户上隼辅",
+      "onboard_time": 1713504079,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294164,
       "num": 294164,
       "word": "追风者林樵松 民国癫公",
@@ -25227,6 +25251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 240414,
+      "num": 240414,
+      "word": "刘忻绝了",
+      "onboard_time": 1713504377,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240289,
       "num": 240289,
       "word": "C罗被罚下向裁判鼓掌",
@@ -27587,14 +27619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218757,
-      "num": 218757,
-      "word": "湘潭大学回应网传学生偷外卖被毒死",
-      "onboard_time": 1713503538,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218750,
       "num": 218750,
       "word": "于正说赵晴替他一雪前耻",
@@ -28617,6 +28641,14 @@
       "onboard_time": 1713076099,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 210968,
+      "num": 210968,
+      "word": "芒果 转场",
+      "onboard_time": 1713504258,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 210935,
@@ -29723,6 +29755,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 205357,
+      "num": 205357,
+      "word": "张本美和4比1迪亚兹",
+      "onboard_time": 1713504438,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205287,
       "num": 205287,
       "word": "世界之外",
@@ -29889,6 +29929,14 @@
       "onboard_time": 1711988896,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 204412,
+      "num": 204412,
+      "word": "狗窝尺码买错了",
+      "onboard_time": 1713502278,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 204302,
@@ -30145,6 +30193,14 @@
       "onboard_time": 1712329340,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203162,
+      "num": 203162,
+      "word": "华为Pura70首批用户已收到新机",
+      "onboard_time": 1713504499,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 203002,
@@ -31921,6 +31977,14 @@
       "onboard_time": 1712929578,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 195235,
+      "num": 195235,
+      "word": "戚薇浪姐最快乐的人",
+      "onboard_time": 1713504558,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 195182,
@@ -35824,14 +35888,6 @@
       "word": "打疫苗主动撅起屁股的狗狗",
       "onboard_time": 1713344119,
       "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 176904,
-      "num": 176904,
-      "word": "狗窝尺码买错了",
-      "onboard_time": 1713502278,
-      "rank": 37,
       "category": "幽默"
     },
     {
@@ -40851,6 +40907,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 151313,
+      "num": 151313,
+      "word": "星穹铁道一周年",
+      "onboard_time": 1713503958,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151243,
       "num": 151243,
       "word": "雀魂联动蔚蓝档案",
@@ -44883,6 +44947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131436,
+      "num": 131436,
+      "word": "萨顶顶刘忻 梦回快女",
+      "onboard_time": 1713504799,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131425,
       "num": 131425,
       "word": "最好的死亡教育",
@@ -48131,6 +48203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106940,
+      "num": 360962,
+      "word": "AI音乐概念股",
+      "onboard_time": 1713503118,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 106916,
       "num": 106916,
       "word": "高考考700分是种什么概念",
@@ -49209,14 +49289,6 @@
       "onboard_time": 1712704516,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91521,
-      "num": 204020,
-      "word": "AI音乐概念股",
-      "onboard_time": 1713503118,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 91293,
