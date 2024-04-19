@@ -1,6 +1,6 @@
 {
   "startTime": 1713543834648,
-  "endTime": 1713554164512,
+  "endTime": 1713555259772,
   "band_list": [
     {
       "raw_hot": 1194561,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61184,
+      "num": 61184,
+      "word": "鹿晗泰国爆炸头",
+      "onboard_time": 1713553631,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 60014,
       "num": 96266,
       "word": "u23国足vs韩国u23",
@@ -483,20 +491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34506,
-      "num": 26727,
+      "raw_hot": 39581,
+      "num": 39581,
+      "word": "女子熬夜双眼皮熬成悲伤蛙",
+      "onboard_time": 1713553811,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37521,
+      "num": 37521,
       "word": "韩雪乘风初舞台再唱飘雪",
       "onboard_time": 1713554110,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 32962,
-      "num": 25983,
-      "word": "鹿晗泰国爆炸头",
-      "onboard_time": 1713553631,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 31784,
@@ -539,12 +547,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 18939,
-      "num": 25226,
-      "word": "女子熬夜双眼皮熬成悲伤蛙",
-      "onboard_time": 1713553811,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 23797,
+      "num": 23797,
+      "word": "陈昊宇的耳环是杨丞琳掉的那个吧",
+      "onboard_time": 1713554232,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 3530,

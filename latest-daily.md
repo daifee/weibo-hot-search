@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/20 00:23:54 ~ 2024/04/20 03:16:04
+本榜单时间：2024/04/20 00:23:54 ~ 2024/04/20 03:34:19
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@ IVE新预告（热度：119210）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%B3%B0%E5%9B%BD%E7%88%86%E7%82%B8%E5%A4%B4%23" target="weibo">
+鹿晗泰国爆炸头（热度：61184）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23u23%E5%9B%BD%E8%B6%B3vs%E9%9F%A9%E5%9B%BDu23%23" target="weibo">
 u23国足vs韩国u23（热度：60014）
 </a>
@@ -375,14 +381,14 @@ u23国足vs韩国u23（热度：60014）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E9%9B%AA%E4%B9%98%E9%A3%8E%E5%88%9D%E8%88%9E%E5%8F%B0%E5%86%8D%E5%94%B1%E9%A3%98%E9%9B%AA%23" target="weibo">
-韩雪乘风初舞台再唱飘雪（热度：34506）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%86%AC%E5%A4%9C%E5%8F%8C%E7%9C%BC%E7%9A%AE%E7%86%AC%E6%88%90%E6%82%B2%E4%BC%A4%E8%9B%99%23" target="weibo">
+女子熬夜双眼皮熬成悲伤蛙（热度：39581）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%B3%B0%E5%9B%BD%E7%88%86%E7%82%B8%E5%A4%B4%23" target="weibo">
-鹿晗泰国爆炸头（热度：32962）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E9%9B%AA%E4%B9%98%E9%A3%8E%E5%88%9D%E8%88%9E%E5%8F%B0%E5%86%8D%E5%94%B1%E9%A3%98%E9%9B%AA%23" target="weibo">
+韩雪乘风初舞台再唱飘雪（热度：37521）
 </a>
 </li>
 
@@ -417,8 +423,8 @@ JackeyLove说elk履历太白（热度：24243）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%86%AC%E5%A4%9C%E5%8F%8C%E7%9C%BC%E7%9A%AE%E7%86%AC%E6%88%90%E6%82%B2%E4%BC%A4%E8%9B%99%23" target="weibo">
-女子熬夜双眼皮熬成悲伤蛙（热度：18939）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%8A%E5%AE%87%E7%9A%84%E8%80%B3%E7%8E%AF%E6%98%AF%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%8E%89%E7%9A%84%E9%82%A3%E4%B8%AA%E5%90%A7%23" target="weibo">
+陈昊宇的耳环是杨丞琳掉的那个吧（热度：23797）
 </a>
 </li>
 

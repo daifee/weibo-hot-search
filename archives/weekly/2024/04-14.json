@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713554164512,
+  "endTime": 1713555259772,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -17019,6 +17019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 61184,
+      "num": 61184,
+      "word": "鹿晗泰国爆炸头",
+      "onboard_time": 1713553631,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 59935,
       "num": 59935,
       "word": "王一博追风者饭拍",
@@ -17443,6 +17451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 39581,
+      "num": 39581,
+      "word": "女子熬夜双眼皮熬成悲伤蛙",
+      "onboard_time": 1713553811,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39551,
       "num": 1114123,
       "word": "景海鹏朱杨柱桂海潮获航天功勋奖章",
@@ -17457,6 +17473,14 @@
       "onboard_time": 1713523878,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37521,
+      "num": 37521,
+      "word": "韩雪乘风初舞台再唱飘雪",
+      "onboard_time": 1713554110,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 37512,
@@ -17515,14 +17539,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 34506,
-      "num": 26727,
-      "word": "韩雪乘风初舞台再唱飘雪",
-      "onboard_time": 1713554110,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 34472,
       "num": 43326,
       "word": "英超团灭",
@@ -17545,14 +17561,6 @@
       "onboard_time": 1713167176,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32962,
-      "num": 25983,
-      "word": "鹿晗泰国爆炸头",
-      "onboard_time": 1713553631,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 32754,
@@ -17755,6 +17763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23797,
+      "num": 23797,
+      "word": "陈昊宇的耳环是杨丞琳掉的那个吧",
+      "onboard_time": 1713554232,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 23592,
       "num": 230259,
       "word": "P5X又出了河南话配音",
@@ -17825,14 +17841,6 @@
       "onboard_time": 1713294132,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18939,
-      "num": 25226,
-      "word": "女子熬夜双眼皮熬成悲伤蛙",
-      "onboard_time": 1713553811,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18488,
