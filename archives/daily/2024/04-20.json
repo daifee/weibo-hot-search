@@ -1,6 +1,6 @@
 {
   "startTime": 1713543834648,
-  "endTime": 1713548058891,
+  "endTime": 1713550893200,
   "band_list": [
     {
       "raw_hot": 1194561,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 303287,
-      "num": 132182,
+      "num": 258313,
       "word": "徐志胜看透了女性婚恋市场",
       "onboard_time": 1713544995,
       "rank": 12,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146466,
+      "num": 98542,
+      "word": "歌手韩雪回归",
+      "onboard_time": 1713548592,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142451,
       "num": 142451,
       "word": "以为是肠胃小毛病没想到是癌症",
@@ -355,6 +363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 97932,
+      "num": 97932,
+      "word": "1米7学妹体测完变1米6",
+      "onboard_time": 1713547993,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92374,
       "num": 104930,
       "word": "重生之我在霸总短剧里当保姆",
@@ -443,12 +459,28 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 35159,
-      "num": 51678,
-      "word": "1米7学妹体测完变1米6",
-      "onboard_time": 1713547993,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 44983,
+      "num": 38837,
+      "word": "周扬青亚裔混血感",
+      "onboard_time": 1713550452,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 42255,
+      "num": 37186,
+      "word": "原来陈昊宇是华人星光大道冠军",
+      "onboard_time": 1713549252,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 42239,
+      "num": 37103,
+      "word": "王鹤棣 all black",
+      "onboard_time": 1713548173,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 31784,
@@ -459,7 +491,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18321,
+      "raw_hot": 31377,
       "num": 108718,
       "word": "00后老师为每位同学送专属信",
       "onboard_time": 1713547395,
