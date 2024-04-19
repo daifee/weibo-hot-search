@@ -1,6 +1,6 @@
 {
   "startTime": 1713543834648,
-  "endTime": 1713565024574,
+  "endTime": 1713566122884,
   "band_list": [
     {
       "raw_hot": 1194561,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172089,
+      "num": 172089,
+      "word": "买燃油车的人正式成了少数派",
+      "onboard_time": 1713537978,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 170383,
       "num": 170383,
       "word": "中国人民解放军信息支援部队",
@@ -323,14 +331,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 115784,
-      "num": 115784,
-      "word": "买燃油车的人正式成了少数派",
-      "onboard_time": 1713537978,
-      "rank": 36,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 114995,
       "num": 99384,
       "word": "出道4个月的Jennie",
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81093,
+      "num": 81093,
+      "word": "周扬青亚裔混血感",
+      "onboard_time": 1713550452,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80540,
       "num": 99359,
       "word": "林高远vs樊振东",
@@ -433,14 +441,6 @@
       "onboard_time": 1713553631,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 75213,
-      "num": 57357,
-      "word": "周扬青亚裔混血感",
-      "onboard_time": 1713550452,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 70336,
@@ -523,6 +523,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 28916,
+      "num": 28916,
+      "word": "戚薇梦回沐之晴",
+      "onboard_time": 1713555250,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26463,
       "num": 25479,
       "word": "IVE预告照",
@@ -555,16 +563,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22471,
-      "num": 22471,
-      "word": "戚薇梦回沐之晴",
-      "onboard_time": 1713555250,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 20127,
-      "num": 20431,
+      "num": 24639,
       "word": "氯雷他定",
       "onboard_time": 1713555791,
       "rank": 33,

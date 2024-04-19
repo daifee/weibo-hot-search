@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713565024574,
+  "endTime": 1713566122884,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -37987,6 +37987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172089,
+      "num": 172089,
+      "word": "买燃油车的人正式成了少数派",
+      "onboard_time": 1713537978,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 172010,
       "num": 172010,
       "word": "为什么大家越来越喜欢日落",
@@ -48931,14 +48939,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 115784,
-      "num": 115784,
-      "word": "买燃油车的人正式成了少数派",
-      "onboard_time": 1713537978,
-      "rank": 36,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 115737,
       "num": 115736,
       "word": "黄旭熙solo",
@@ -51443,6 +51443,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 81093,
+      "num": 81093,
+      "word": "周扬青亚裔混血感",
+      "onboard_time": 1713550452,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81007,
       "num": 81007,
       "word": "别因为误解让星星的孩子痛上加痛",
@@ -51657,14 +51665,6 @@
       "onboard_time": 1712666778,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75213,
-      "num": 57357,
-      "word": "周扬青亚裔混血感",
-      "onboard_time": 1713550452,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 75102,
@@ -53867,6 +53867,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 28916,
+      "num": 28916,
+      "word": "戚薇梦回沐之晴",
+      "onboard_time": 1713555250,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28707,
       "num": 28707,
       "word": "台北捷运高铁全线暂停营运",
@@ -54289,14 +54297,6 @@
       "onboard_time": 1712023219,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22471,
-      "num": 22471,
-      "word": "戚薇梦回沐之晴",
-      "onboard_time": 1713555250,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 22469,
