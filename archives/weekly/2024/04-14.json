@@ -1,7 +1,15 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713493659804,
+  "endTime": 1713494300182,
   "band_list": [
+    {
+      "raw_hot": 3521535,
+      "num": 3521535,
+      "word": "以色列导弹袭击了伊朗目标",
+      "onboard_time": 1713493159,
+      "rank": 0,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 3410457,
       "num": 3410457,
@@ -393,14 +401,6 @@
       "onboard_time": 1713358699,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1431673,
-      "num": 1431673,
-      "word": "以色列导弹袭击了伊朗目标",
-      "onboard_time": 1713493159,
-      "rank": 0,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1427507,
@@ -5107,6 +5107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 348797,
+      "num": 348797,
+      "word": "网传重庆一老太被挖掘机当街碾压身亡",
+      "onboard_time": 1713492378,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348080,
       "num": 348080,
       "word": "眼泪女王中出现的中文",
@@ -5273,6 +5281,14 @@
       "onboard_time": 1713329419,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334071,
+      "num": 334071,
+      "word": "山东专升本成绩",
+      "onboard_time": 1713493397,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 333592,
@@ -5915,14 +5931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294110,
-      "num": 294110,
-      "word": "山东专升本成绩",
-      "onboard_time": 1713493397,
-      "rank": 20,
-      "category": "教育"
-    },
-    {
       "raw_hot": 292435,
       "num": 127977,
       "word": "上公厕马桶不垫纸会被传染疾病吗",
@@ -6329,14 +6337,6 @@
       "onboard_time": 1713336737,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 272528,
-      "num": 272528,
-      "word": "网传重庆一老太被挖掘机当街碾压身亡",
-      "onboard_time": 1713492378,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271646,
@@ -8035,6 +8035,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 213496,
+      "num": 213496,
+      "word": "16岁女孩1万块穷游9国3大洲",
+      "onboard_time": 1713492137,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 213481,
       "num": 203440,
       "word": "王嘉尔刘雨昕合照",
@@ -8433,14 +8441,6 @@
       "onboard_time": 1713238278,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 205024,
-      "num": 205024,
-      "word": "16岁女孩1万块穷游9国3大洲",
-      "onboard_time": 1713492137,
-      "rank": 27,
-      "category": "旅游"
     },
     {
       "raw_hot": 204903,
@@ -8961,6 +8961,14 @@
       "onboard_time": 1713150257,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196830,
+      "num": 196830,
+      "word": "贵价面包县城人不买单",
+      "onboard_time": 1713492078,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 196477,
@@ -9787,14 +9795,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 183165,
-      "num": 183165,
-      "word": "贵价面包县城人不买单",
-      "onboard_time": 1713492078,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 182951,
       "num": 182951,
       "word": "当韩国人第一次看中医时",
@@ -10137,6 +10137,14 @@
       "onboard_time": 1713268097,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175904,
+      "num": 175904,
+      "word": "广州天河宝马撞人案罪犯被执行死刑",
+      "onboard_time": 1713494117,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175732,
@@ -10825,6 +10833,14 @@
       "onboard_time": 1713409759,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 163075,
+      "num": 163075,
+      "word": "孙子被爷爷教训后举报爷爷有枪",
+      "onboard_time": 1713493338,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162902,
@@ -12603,6 +12619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 137318,
+      "num": 137318,
+      "word": "Keria感谢中国粉丝",
+      "onboard_time": 1713491057,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137197,
       "num": 137197,
       "word": "开推2团名赫丽摸宇",
@@ -12705,14 +12729,6 @@
       "onboard_time": 1713350598,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134501,
-      "num": 134501,
-      "word": "Keria感谢中国粉丝",
-      "onboard_time": 1713491057,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 134334,
@@ -12873,6 +12889,14 @@
       "onboard_time": 1713192920,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131517,
+      "num": 179876,
+      "word": "易烊千玺微电影开头已剧透",
+      "onboard_time": 1713493579,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 131504,
@@ -13619,14 +13643,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 116428,
-      "num": 116428,
-      "word": "孙子被爷爷教训后举报爷爷有枪",
-      "onboard_time": 1713493338,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115819,
       "num": 115819,
       "word": "想看刘宇宁被吓哭",
@@ -13915,6 +13931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107671,
+      "num": 107671,
+      "word": "刘亦菲凯特布兰切特同框",
+      "onboard_time": 1713494237,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 107560,
       "num": 107560,
       "word": "左溢删博",
@@ -14187,14 +14211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97075,
-      "num": 113847,
-      "word": "易烊千玺微电影开头已剧透",
-      "onboard_time": 1713493579,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 96444,
       "num": 96444,
       "word": "杨幂冷艳玫瑰",
@@ -14443,20 +14459,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81300,
+      "num": 366066,
+      "word": "华为Pura70红圈小金标",
+      "onboard_time": 1713492798,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 80978,
       "num": 137770,
       "word": "校园中花梨木背后的故事",
       "onboard_time": 1713433817,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80693,
-      "num": 184798,
-      "word": "华为Pura70红圈小金标",
-      "onboard_time": 1713492798,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 77723,

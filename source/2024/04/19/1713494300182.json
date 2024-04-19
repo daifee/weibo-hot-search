@@ -1,0 +1,410 @@
+{
+  "runTime": 1713494300182,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3521535,
+        "num": 3521535,
+        "word": "以色列导弹袭击了伊朗目标",
+        "onboard_time": 1713493159,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1047861,
+        "num": 1047861,
+        "word": "其实你已经过度疲劳了",
+        "onboard_time": 1713485239,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21191,
+        "num": 918617,
+        "word": "景海鹏朱杨柱桂海潮获航天功勋奖章",
+        "onboard_time": 1713446058,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874633,
+        "num": 874633,
+        "word": "杨幂 美甲",
+        "onboard_time": 1713491418,
+        "rank": 3,
+        "category": "电影,美妆"
+      },
+      {
+        "raw_hot": 628741,
+        "num": 628741,
+        "word": "儿子讲述父亲疑被当猎物枪杀",
+        "onboard_time": 1713488300,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1232770,
+        "num": 621575,
+        "word": "五一不调休行不行",
+        "onboard_time": 1713484457,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605868,
+        "num": 605868,
+        "word": "儿媳肺癌晚期婆婆拿做保姆的钱给她治病",
+        "onboard_time": 1713484998,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529138,
+        "num": 529138,
+        "word": "伊朗等地传出爆炸声",
+        "onboard_time": 1713489919,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 524124,
+        "num": 524124,
+        "word": "4月19日21时59分迎来谷雨",
+        "onboard_time": 1713488900,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386335,
+        "num": 386335,
+        "word": "男子买4600台手机刷好评4个月赚300万",
+        "onboard_time": 1713456615,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 898559,
+        "num": 385257,
+        "word": "伊朗",
+        "onboard_time": 1713491179,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 486305,
+        "num": 384159,
+        "word": "姑父强奸猥亵侄女从小学三年级至高二",
+        "onboard_time": 1713484036,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439484,
+        "num": 383755,
+        "word": "1680的看台",
+        "onboard_time": 1713486260,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 396508,
+        "num": 381557,
+        "word": "以色列",
+        "onboard_time": 1713491358,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 381266,
+        "num": 381266,
+        "word": "晚上睡觉要盖好耳朵",
+        "onboard_time": 1713487878,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81300,
+        "num": 366066,
+        "word": "华为Pura70红圈小金标",
+        "onboard_time": 1713492798,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 365591,
+        "num": 365591,
+        "word": "都美竹晒详细说明回应",
+        "onboard_time": 1713489797,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348797,
+        "num": 348797,
+        "word": "网传重庆一老太被挖掘机当街碾压身亡",
+        "onboard_time": 1713492378,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334071,
+        "num": 334071,
+        "word": "山东专升本成绩",
+        "onboard_time": 1713493397,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 326206,
+        "num": 326206,
+        "word": "舒淇晒与冯德伦结婚纪念日合照",
+        "onboard_time": 1713483437,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314465,
+        "num": 314465,
+        "word": "YG新女团vsHybe新女团",
+        "onboard_time": 1713488718,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271777,
+        "num": 271777,
+        "word": "晨起3个表现是肝在求救",
+        "onboard_time": 1713437719,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 268966,
+        "num": 268966,
+        "word": "中方回应美一票否决巴勒斯坦入联申请",
+        "onboard_time": 1713486800,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228260,
+        "num": 228260,
+        "word": "气血不足的人要先学会忌口",
+        "onboard_time": 1713489977,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227676,
+        "num": 227676,
+        "word": "武艺喊老师喊成老婆",
+        "onboard_time": 1713487100,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220513,
+        "num": 220513,
+        "word": "易烊千玺代言九号",
+        "onboard_time": 1713489500,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213496,
+        "num": 213496,
+        "word": "16岁女孩1万块穷游9国3大洲",
+        "onboard_time": 1713492137,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 201062,
+        "num": 201062,
+        "word": "鹿晗泰国",
+        "onboard_time": 1713452359,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196830,
+        "num": 196830,
+        "word": "贵价面包县城人不买单",
+        "onboard_time": 1713492078,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182766,
+        "num": 182766,
+        "word": "丫丫谷雨当然要吃竹子呀",
+        "onboard_time": 1713491117,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131517,
+        "num": 179876,
+        "word": "易烊千玺微电影开头已剧透",
+        "onboard_time": 1713493579,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178251,
+        "num": 178251,
+        "word": "唐嫣走路仪态",
+        "onboard_time": 1713490519,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176972,
+        "num": 176972,
+        "word": "45岁绝经和54岁绝经哪个衰老更快",
+        "onboard_time": 1713487037,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175904,
+        "num": 175904,
+        "word": "广州天河宝马撞人案罪犯被执行死刑",
+        "onboard_time": 1713494117,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163075,
+        "num": 163075,
+        "word": "孙子被爷爷教训后举报爷爷有枪",
+        "onboard_time": 1713493338,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160873,
+        "num": 160873,
+        "word": "港娱不是有顶流姜涛吗",
+        "onboard_time": 1713487699,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156757,
+        "num": 156757,
+        "word": "张艺兴韩国打歌Ending",
+        "onboard_time": 1713484336,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140257,
+        "num": 140257,
+        "word": "95后宝妈一觉睡醒右眼失明了",
+        "onboard_time": 1713485478,
+        "rank": 37,
+        "category": "母婴育儿,社会新闻"
+      },
+      {
+        "raw_hot": 137906,
+        "num": 137906,
+        "word": "刘亦菲裙子好像钢丝球",
+        "onboard_time": 1713442638,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137318,
+        "num": 137318,
+        "word": "Keria感谢中国粉丝",
+        "onboard_time": 1713491057,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135887,
+        "num": 135887,
+        "word": "优质精子是如何养成的",
+        "onboard_time": 1713487219,
+        "rank": 40,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 130727,
+        "num": 130727,
+        "word": "庆余年 短剧",
+        "onboard_time": 1713452480,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129332,
+        "num": 129332,
+        "word": "原来没富过写的小说是这样的",
+        "onboard_time": 1713488359,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 125757,
+        "num": 125757,
+        "word": "为什么不拍叶轻眉",
+        "onboard_time": 1713485839,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124717,
+        "num": 124717,
+        "word": "张真源严浩翔以为帐篷塌了是节目效果",
+        "onboard_time": 1713490456,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122006,
+        "num": 122006,
+        "word": "周深在联合国献唱和平颂",
+        "onboard_time": 1713490939,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120076,
+        "num": 120076,
+        "word": "谷雨",
+        "onboard_time": 1713482056,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119176,
+        "num": 119176,
+        "word": "蒋勤勤摔了",
+        "onboard_time": 1713451279,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107671,
+        "num": 107671,
+        "word": "刘亦菲凯特布兰切特同框",
+        "onboard_time": 1713494237,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 104224,
+        "num": 104224,
+        "word": "吴奇隆把鱼塞进裤子里",
+        "onboard_time": 1713489500,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动党组织向最基层延伸#"
+    }
+  }
+}
