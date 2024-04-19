@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713539921235,
+  "endTime": 1713540878223,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -755,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1204745,
+      "num": 1204745,
+      "word": "重庆严肃处理错收多收燃气费问题",
+      "onboard_time": 1713538999,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1203795,
       "num": 1203795,
       "word": "吉林通报白城一学生死亡调查情况",
@@ -825,6 +833,14 @@
       "onboard_time": 1713416540,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1151482,
+      "num": 434862,
+      "word": "李溪芮发缝",
+      "onboard_time": 1713539539,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1122457,
@@ -1497,14 +1513,6 @@
       "onboard_time": 1713277458,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 874444,
-      "num": 874444,
-      "word": "重庆严肃处理错收多收燃气费问题",
-      "onboard_time": 1713538999,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 865071,
@@ -4355,6 +4363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440070,
+      "num": 440070,
+      "word": "黄牛克星林俊杰",
+      "onboard_time": 1713538999,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 439861,
       "num": 439861,
       "word": "权恩妃购买24亿韩元住宅",
@@ -5491,14 +5507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 365785,
-      "num": 365785,
-      "word": "黄牛克星林俊杰",
-      "onboard_time": 1713538999,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 365555,
       "num": 365555,
       "word": "IU香港",
@@ -6321,14 +6329,6 @@
       "onboard_time": 1713022039,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 317297,
-      "num": 317297,
-      "word": "李溪芮发缝",
-      "onboard_time": 1713539539,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 317063,
@@ -7875,6 +7875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247026,
+      "num": 195794,
+      "word": "长大后才知道原来阳光不是免费的",
+      "onboard_time": 1713538999,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246251,
       "num": 237507,
       "word": "厉旭发言",
@@ -8297,6 +8305,14 @@
       "onboard_time": 1713151578,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 233405,
+      "num": 163610,
+      "word": "张婧仪去看了周杰伦演唱会",
+      "onboard_time": 1713540197,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 233393,
@@ -10203,6 +10219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197137,
+      "num": 181879,
+      "word": "IVE新预告",
+      "onboard_time": 1713539359,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 197007,
       "num": 197007,
       "word": "澳门男子及女子世界杯2024",
@@ -10377,14 +10401,6 @@
       "onboard_time": 1713414620,
       "rank": 38,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 194777,
-      "num": 181879,
-      "word": "IVE新预告",
-      "onboard_time": 1713539359,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 194755,
@@ -12083,6 +12099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168855,
+      "num": 168855,
+      "word": "重庆通报燃气费多计多收问题",
+      "onboard_time": 1713539838,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168446,
       "num": 168446,
       "word": "承欢记人哭麻了心哭碎了",
@@ -12217,14 +12241,6 @@
       "onboard_time": 1713151217,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 166519,
-      "num": 166519,
-      "word": "长大后才知道原来阳光不是免费的",
-      "onboard_time": 1713538999,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 166424,
@@ -13771,6 +13787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146520,
+      "num": 132866,
+      "word": "麦承欢为姚志明留了一盏灯",
+      "onboard_time": 1713539899,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146282,
       "num": 146282,
       "word": "刘诗诗新剧路透",
@@ -14497,14 +14521,6 @@
       "onboard_time": 1713167359,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136349,
-      "num": 132866,
-      "word": "麦承欢为姚志明留了一盏灯",
-      "onboard_time": 1713539899,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 136162,
@@ -15643,6 +15659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114983,
+      "num": 114983,
+      "word": "杀妻谷歌工程师或被关押监狱精神病房",
+      "onboard_time": 1713540197,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114927,
       "num": 416292,
       "word": "神秘东方力量惊现巴黎夜空",
@@ -16161,6 +16185,14 @@
       "onboard_time": 1713150619,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 102601,
+      "num": 102601,
+      "word": "AG再次零封WB",
+      "onboard_time": 1713538397,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 102493,
