@@ -1,0 +1,410 @@
+{
+  "runTime": 1713515658082,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1787341,
+        "num": 1787341,
+        "word": "周扬青rap 罗志祥",
+        "onboard_time": 1713510978,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1115608,
+        "num": 1115608,
+        "word": "五一调休考虑过单休的人吗",
+        "onboard_time": 1713505099,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21461,
+        "num": 896977,
+        "word": "潮起互联网奔涌三十年",
+        "onboard_time": 1713498738,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1280213,
+        "num": 855166,
+        "word": "侃爷殴打涉嫌性侵妻子的男子",
+        "onboard_time": 1713512898,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 775964,
+        "num": 775964,
+        "word": "向太怎么也来参加浪姐了",
+        "onboard_time": 1713507319,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 740175,
+        "num": 740175,
+        "word": "火箭少女101为Yamy打call",
+        "onboard_time": 1713512118,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 689948,
+        "num": 689948,
+        "word": "浪姐初舞台排名",
+        "onboard_time": 1713512658,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605240,
+        "num": 605240,
+        "word": "湘潭大学",
+        "onboard_time": 1713505878,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 446697,
+        "num": 446697,
+        "word": "12306 存钱",
+        "onboard_time": 1713500959,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225088,
+        "num": 445390,
+        "word": "面包车自燃幼儿园老师徒手拖走旁边车",
+        "onboard_time": 1713510318,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74201,
+        "num": 443009,
+        "word": "每位女性都值得拥有",
+        "onboard_time": 1713510678,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 514175,
+        "num": 442700,
+        "word": "男生被同学反锁宿舍群殴",
+        "onboard_time": 1713512598,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487367,
+        "num": 439371,
+        "word": "张元英再现神级转圈",
+        "onboard_time": 1713514398,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 479201,
+        "num": 438204,
+        "word": "我弟弟暗恋了我闺蜜10年",
+        "onboard_time": 1713505817,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437072,
+        "num": 437072,
+        "word": "戚薇唱了如果爱忘了",
+        "onboard_time": 1713507258,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410089,
+        "num": 410089,
+        "word": "湘潭大学回应网传学生偷外卖被毒死",
+        "onboard_time": 1713503538,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392058,
+        "num": 392058,
+        "word": "女子支付宝蒙口令领走1万元红包",
+        "onboard_time": 1713503899,
+        "rank": 16,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 373287,
+        "num": 373287,
+        "word": "周杰伦演唱会一女子迟到后崩溃大哭",
+        "onboard_time": 1713511697,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 315692,
+        "num": 315692,
+        "word": "苗苗浪姐初舞台站反了",
+        "onboard_time": 1713505817,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307820,
+        "num": 307820,
+        "word": "全球资本市场巨震",
+        "onboard_time": 1713512417,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 308470,
+        "num": 307070,
+        "word": "张予曦人长得美 唱歌就算了",
+        "onboard_time": 1713503060,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296824,
+        "num": 296824,
+        "word": "徐明浩回应eight在seventeen",
+        "onboard_time": 1713514877,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293456,
+        "num": 293456,
+        "word": "以色列导弹袭击了伊朗目标",
+        "onboard_time": 1713493159,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 246410,
+        "num": 246410,
+        "word": "生完小孩后走路再也不像之前那样了",
+        "onboard_time": 1713512837,
+        "rank": 23,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 236284,
+        "num": 236284,
+        "word": "上海家暴杀妻案被害者父母发声",
+        "onboard_time": 1713513739,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239842,
+        "num": 235768,
+        "word": "她可是万妮达",
+        "onboard_time": 1713515416,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235126,
+        "num": 235126,
+        "word": "郑妮可初舞台第一",
+        "onboard_time": 1713506299,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231712,
+        "num": 231712,
+        "word": "周冠宇F1主场登场",
+        "onboard_time": 1713499339,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226131,
+        "num": 226131,
+        "word": "尚雯婕切何洁",
+        "onboard_time": 1713502278,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199440,
+        "num": 199440,
+        "word": "伊朗宣布所有基地处于最高级别战备状态",
+        "onboard_time": 1713499759,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 213523,
+        "num": 198511,
+        "word": "华晨宇演唱会舞美渲染图",
+        "onboard_time": 1713515178,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195829,
+        "num": 195829,
+        "word": "才发现按部就班根本赚不到钱",
+        "onboard_time": 1713513319,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190385,
+        "num": 190385,
+        "word": "1680元看台票引发质疑",
+        "onboard_time": 1713511278,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189077,
+        "num": 189077,
+        "word": "南湘回来了",
+        "onboard_time": 1713502578,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180624,
+        "num": 180624,
+        "word": "湘潭大学身亡学生死因在调查",
+        "onboard_time": 1713515178,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175363,
+        "num": 175363,
+        "word": "今天星期五",
+        "onboard_time": 1713513197,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174650,
+        "num": 174650,
+        "word": "我妈问我为什么1500不够花",
+        "onboard_time": 1713506238,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172239,
+        "num": 172239,
+        "word": "16岁女孩1万块穷游9国3大洲",
+        "onboard_time": 1713492137,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 169763,
+        "num": 169763,
+        "word": "蔡文静 你是多少人的妹妹",
+        "onboard_time": 1713510438,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167566,
+        "num": 167566,
+        "word": "以色列袭击叙利亚防空设施",
+        "onboard_time": 1713512238,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 161131,
+        "num": 161131,
+        "word": "陈丽君 花木兰孙悟空无缝衔接",
+        "onboard_time": 1713505398,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160026,
+        "num": 160026,
+        "word": "上海家暴杀妻案凶手说自己不是故意的",
+        "onboard_time": 1713504919,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159288,
+        "num": 159288,
+        "word": "伊以冲突",
+        "onboard_time": 1713501320,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 157316,
+        "num": 157316,
+        "word": "庆余年 对打",
+        "onboard_time": 1713498438,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150180,
+        "num": 150180,
+        "word": "霉霉加曲",
+        "onboard_time": 1713512298,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149988,
+        "num": 149988,
+        "word": "被北大学生的执行力震惊",
+        "onboard_time": 1713514637,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149877,
+        "num": 149877,
+        "word": "周冠宇晋级SQ3",
+        "onboard_time": 1713515480,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148699,
+        "num": 148699,
+        "word": "感受到了自律的杀伤力",
+        "onboard_time": 1713515599,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147796,
+        "num": 147796,
+        "word": "4月唯一正常的一周",
+        "onboard_time": 1713514577,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140383,
+        "num": 140383,
+        "word": "浪姐初舞台",
+        "onboard_time": 1713501979,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#发挥超大市场优势和内需潜力为各国合作提供更多机遇#"
+    }
+  }
+}

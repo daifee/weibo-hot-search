@@ -1,6 +1,6 @@
 {
   "startTime": 1713457373132,
-  "endTime": 1713514923693,
+  "endTime": 1713515658082,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -467,6 +467,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 514175,
+      "num": 442700,
+      "word": "男生被同学反锁宿舍群殴",
+      "onboard_time": 1713512598,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507354,
       "num": 507354,
       "word": "蒋勤勤摔了",
@@ -491,6 +499,14 @@
       "category": "财经,军事"
     },
     {
+      "raw_hot": 487367,
+      "num": 439371,
+      "word": "张元英再现神级转圈",
+      "onboard_time": 1713514398,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 485953,
       "num": 485953,
       "word": "刘亦菲微醺",
@@ -505,14 +521,6 @@
       "onboard_time": 1713502340,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 459646,
-      "num": 406728,
-      "word": "男生被同学反锁宿舍群殴",
-      "onboard_time": 1713512598,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 430495,
@@ -707,14 +715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 319676,
-      "num": 319676,
-      "word": "张元英再现神级转圈",
-      "onboard_time": 1713514398,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 319292,
       "num": 319292,
       "word": "谷雨",
@@ -755,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307820,
+      "num": 307820,
+      "word": "全球资本市场巨震",
+      "onboard_time": 1713512417,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 304634,
       "num": 304634,
       "word": "世界杯总决赛全红婵陈芋汐夺金",
@@ -785,6 +793,14 @@
       "onboard_time": 1713500299,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 296824,
+      "num": 296824,
+      "word": "徐明浩回应eight在seventeen",
+      "onboard_time": 1713514877,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 294044,
@@ -915,19 +931,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243705,
-      "num": 243705,
-      "word": "全球资本市场巨震",
-      "onboard_time": 1713512417,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 240414,
       "num": 240414,
       "word": "刘忻绝了",
       "onboard_time": 1713504377,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239842,
+      "num": 235768,
+      "word": "她可是万妮达",
+      "onboard_time": 1713515416,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -953,6 +969,14 @@
       "onboard_time": 1713499158,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231712,
+      "num": 231712,
+      "word": "周冠宇F1主场登场",
+      "onboard_time": 1713499339,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 231533,
@@ -987,20 +1011,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 226699,
-      "num": 226699,
-      "word": "周冠宇F1主场登场",
-      "onboard_time": 1713499339,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 225514,
       "num": 227903,
       "word": "伊朗暂时停飞多个城市的航班",
       "onboard_time": 1713495678,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 225088,
+      "num": 445390,
+      "word": "面包车自燃幼儿园老师徒手拖走旁边车",
+      "onboard_time": 1713510318,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224636,
@@ -1057,6 +1081,14 @@
       "onboard_time": 1713505577,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213523,
+      "num": 198511,
+      "word": "华晨宇演唱会舞美渲染图",
+      "onboard_time": 1713515178,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 210968,
@@ -1155,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195829,
+      "num": 195829,
+      "word": "才发现按部就班根本赚不到钱",
+      "onboard_time": 1713513319,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194347,
       "num": 194347,
       "word": "孙艺洲版吕布造型",
@@ -1177,6 +1217,14 @@
       "onboard_time": 1713507438,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190385,
+      "num": 190385,
+      "word": "1680元看台票引发质疑",
+      "onboard_time": 1713511278,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 188341,
@@ -1203,14 +1251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185836,
-      "num": 357071,
-      "word": "面包车自燃幼儿园老师徒手拖走旁边车",
-      "onboard_time": 1713510318,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185285,
       "num": 247076,
       "word": "伊媒称伊朗核设施未受损",
@@ -1235,20 +1275,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 182188,
-      "num": 182188,
-      "word": "1680元看台票引发质疑",
-      "onboard_time": 1713511278,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 181031,
       "num": 181031,
       "word": "马龙太帅了",
       "onboard_time": 1713507798,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180624,
+      "num": 180624,
+      "word": "湘潭大学身亡学生死因在调查",
+      "onboard_time": 1713515178,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179413,
@@ -1305,6 +1345,14 @@
       "onboard_time": 1713497239,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 175363,
+      "num": 175363,
+      "word": "今天星期五",
+      "onboard_time": 1713513197,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 174493,
@@ -1385,22 +1433,6 @@
       "onboard_time": 1713446899,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162469,
-      "num": 162469,
-      "word": "今天星期五",
-      "onboard_time": 1713513197,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 157570,
-      "num": 157570,
-      "word": "才发现按部就班根本赚不到钱",
-      "onboard_time": 1713513319,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 157100,
@@ -1491,6 +1523,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 149988,
+      "num": 149988,
+      "word": "被北大学生的执行力震惊",
+      "onboard_time": 1713514637,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 149877,
+      "num": 149877,
+      "word": "周冠宇晋级SQ3",
+      "onboard_time": 1713515480,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149253,
       "num": 149253,
       "word": "米游社崩了",
@@ -1505,6 +1553,22 @@
       "onboard_time": 1713497838,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148699,
+      "num": 148699,
+      "word": "感受到了自律的杀伤力",
+      "onboard_time": 1713515599,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 147796,
+      "num": 147796,
+      "word": "4月唯一正常的一周",
+      "onboard_time": 1713514577,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 145206,
@@ -1539,28 +1603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141234,
-      "num": 141234,
-      "word": "被北大学生的执行力震惊",
-      "onboard_time": 1713514637,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 140492,
       "num": 139192,
       "word": "张真源严浩翔以为帐篷塌了是节目效果",
       "onboard_time": 1713490456,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140376,
-      "num": 140376,
-      "word": "4月唯一正常的一周",
-      "onboard_time": 1713514577,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 138385,
@@ -1593,14 +1641,6 @@
       "onboard_time": 1713491057,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 136955,
-      "num": 136955,
-      "word": "徐明浩回应eight在seventeen",
-      "onboard_time": 1713514877,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 136891,

@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713514923693,
+  "endTime": 1713515658082,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -3363,6 +3363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514175,
+      "num": 442700,
+      "word": "男生被同学反锁宿舍群殴",
+      "onboard_time": 1713512598,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514030,
       "num": 428822,
       "word": "3岁男童因发育迟缓被生父杀害",
@@ -3617,6 +3625,14 @@
       "onboard_time": 1713269120,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 487367,
+      "num": 439371,
+      "word": "张元英再现神级转圈",
+      "onboard_time": 1713514398,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 487022,
@@ -3897,14 +3913,6 @@
       "onboard_time": 1713240379,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 459646,
-      "num": 406728,
-      "word": "男生被同学反锁宿舍群殴",
-      "onboard_time": 1713512598,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 458106,
@@ -5907,14 +5915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 319676,
-      "num": 319676,
-      "word": "张元英再现神级转圈",
-      "onboard_time": 1713514398,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 319441,
       "num": 319441,
       "word": "肖战或将出席白玉兰",
@@ -6097,6 +6097,14 @@
       "onboard_time": 1713059538,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 307820,
+      "num": 307820,
+      "word": "全球资本市场巨震",
+      "onboard_time": 1713512417,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 307059,
@@ -6329,6 +6337,14 @@
       "onboard_time": 1713104420,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296824,
+      "num": 296824,
+      "word": "徐明浩回应eight在seventeen",
+      "onboard_time": 1713514877,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 296530,
@@ -7507,14 +7523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243705,
-      "num": 243705,
-      "word": "全球资本市场巨震",
-      "onboard_time": 1713512417,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 243250,
       "num": 243250,
       "word": "五一假期十大热门目的地",
@@ -7624,6 +7632,14 @@
       "word": "欧阳娜娜回应加油鹿小葵",
       "onboard_time": 1713248598,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239842,
+      "num": 235768,
+      "word": "她可是万妮达",
+      "onboard_time": 1713515416,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -7923,6 +7939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231712,
+      "num": 231712,
+      "word": "周冠宇F1主场登场",
+      "onboard_time": 1713499339,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231533,
       "num": 231533,
       "word": "张艺兴韩国打歌Ending",
@@ -8083,14 +8107,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 226699,
-      "num": 226699,
-      "word": "周冠宇F1主场登场",
-      "onboard_time": 1713499339,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 226519,
       "num": 187404,
       "word": "哥伦比亚首都限淋浴时间不得超5分钟",
@@ -8177,6 +8193,14 @@
       "onboard_time": 1713100819,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225088,
+      "num": 445390,
+      "word": "面包车自燃幼儿园老师徒手拖走旁边车",
+      "onboard_time": 1713510318,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224852,
@@ -8569,6 +8593,14 @@
       "onboard_time": 1713412638,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213523,
+      "num": 198511,
+      "word": "华晨宇演唱会舞美渲染图",
+      "onboard_time": 1713515178,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 213509,
@@ -9603,6 +9635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195829,
+      "num": 195829,
+      "word": "才发现按部就班根本赚不到钱",
+      "onboard_time": 1713513319,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195782,
       "num": 195782,
       "word": "巴黎奥运会火种点燃",
@@ -9955,6 +9995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190385,
+      "num": 190385,
+      "word": "1680元看台票引发质疑",
+      "onboard_time": 1713511278,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190345,
       "num": 190345,
       "word": "曾经很讨厌现在却喜欢的东西",
@@ -10267,14 +10315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 185836,
-      "num": 357071,
-      "word": "面包车自燃幼儿园老师徒手拖走旁边车",
-      "onboard_time": 1713510318,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185771,
       "num": 185771,
       "word": "北京半程马拉松何杰夺冠",
@@ -10515,14 +10555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 182188,
-      "num": 182188,
-      "word": "1680元看台票引发质疑",
-      "onboard_time": 1713511278,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 181856,
       "num": 181856,
       "word": "以色列要求召开安理会特别会议",
@@ -10641,6 +10673,14 @@
       "onboard_time": 1713253699,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 180624,
+      "num": 180624,
+      "word": "湘潭大学身亡学生死因在调查",
+      "onboard_time": 1713515178,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179917,
@@ -10872,6 +10912,14 @@
       "word": "和前任分手的原因是什么",
       "onboard_time": 1713263779,
       "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 175363,
+      "num": 175363,
+      "word": "今天星期五",
+      "onboard_time": 1713513197,
+      "rank": 39,
       "category": "情感"
     },
     {
@@ -11627,14 +11675,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 162469,
-      "num": 162469,
-      "word": "今天星期五",
-      "onboard_time": 1713513197,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 162206,
       "num": 162206,
       "word": "皮肤科医生教你正确防春敏",
@@ -11881,14 +11921,6 @@
       "onboard_time": 1713065419,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 157570,
-      "num": 157570,
-      "word": "才发现按部就班根本赚不到钱",
-      "onboard_time": 1713513319,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 157510,
@@ -12531,6 +12563,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149988,
+      "num": 149988,
+      "word": "被北大学生的执行力震惊",
+      "onboard_time": 1713514637,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 149877,
+      "num": 149877,
+      "word": "周冠宇晋级SQ3",
+      "onboard_time": 1713515480,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149843,
       "num": 149843,
       "word": "郑恺苗苗跳主题曲",
@@ -12667,6 +12715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148699,
+      "num": 148699,
+      "word": "感受到了自律的杀伤力",
+      "onboard_time": 1713515599,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148595,
       "num": 148595,
       "word": "王曼昱晋级世界杯16强",
@@ -12745,6 +12801,14 @@
       "onboard_time": 1713443899,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 147796,
+      "num": 147796,
+      "word": "4月唯一正常的一周",
+      "onboard_time": 1713514577,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 147410,
@@ -13219,14 +13283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141234,
-      "num": 141234,
-      "word": "被北大学生的执行力震惊",
-      "onboard_time": 1713514637,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 141225,
       "num": 141225,
       "word": "王曼昱4比1斯佐科斯",
@@ -13297,14 +13353,6 @@
       "onboard_time": 1713348858,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 140376,
-      "num": 140376,
-      "word": "4月唯一正常的一周",
-      "onboard_time": 1713514577,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 140337,
@@ -13505,14 +13553,6 @@
       "onboard_time": 1713431479,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 136955,
-      "num": 136955,
-      "word": "徐明浩回应eight在seventeen",
-      "onboard_time": 1713514877,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 136817,
