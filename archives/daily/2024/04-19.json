@@ -1,6 +1,6 @@
 {
   "startTime": 1713457373132,
-  "endTime": 1713490422425,
+  "endTime": 1713493659804,
   "band_list": [
     {
       "raw_hot": 1693310,
@@ -17,6 +17,14 @@
       "onboard_time": 1713484457,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1431673,
+      "num": 1431673,
+      "word": "以色列导弹袭击了伊朗目标",
+      "onboard_time": 1713493159,
+      "rank": 0,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1159646,
@@ -41,6 +49,22 @@
       "onboard_time": 1713484998,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 990457,
+      "num": 990457,
+      "word": "杨幂 美甲",
+      "onboard_time": 1713491418,
+      "rank": 3,
+      "category": "电影,美妆"
+    },
+    {
+      "raw_hot": 940302,
+      "num": 439871,
+      "word": "伊朗",
+      "onboard_time": 1713491179,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 858854,
@@ -68,7 +92,7 @@
     },
     {
       "raw_hot": 746314,
-      "num": 369281,
+      "num": 377955,
       "word": "舒淇晒与冯德伦结婚纪念日合照",
       "onboard_time": 1713483437,
       "rank": 10,
@@ -92,11 +116,19 @@
     },
     {
       "raw_hot": 688418,
-      "num": 366078,
+      "num": 437670,
       "word": "1680的看台",
       "onboard_time": 1713486260,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 630854,
+      "num": 630854,
+      "word": "伊朗等地传出爆炸声",
+      "onboard_time": 1713489919,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 610705,
@@ -124,10 +156,18 @@
     },
     {
       "raw_hot": 565779,
-      "num": 358746,
+      "num": 434435,
       "word": "姑父强奸猥亵侄女从小学三年级至高二",
       "onboard_time": 1713484036,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565385,
+      "num": 565385,
+      "word": "4月19日21时59分迎来谷雨",
+      "onboard_time": 1713488900,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -147,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 524377,
+      "num": 430508,
+      "word": "以色列",
+      "onboard_time": 1713491358,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 507354,
       "num": 507354,
       "word": "蒋勤勤摔了",
@@ -163,20 +211,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430495,
+      "num": 430495,
+      "word": "晚上睡觉要盖好耳朵",
+      "onboard_time": 1713487878,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 427790,
       "num": 427790,
       "word": "武艺喊老师喊成老婆",
       "onboard_time": 1713487100,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 425281,
-      "num": 345188,
-      "word": "伊朗等地传出爆炸声",
-      "onboard_time": 1713489919,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 393456,
@@ -203,11 +251,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370410,
+      "num": 370410,
+      "word": "都美竹晒详细说明回应",
+      "onboard_time": 1713489797,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366765,
       "num": 366765,
       "word": "港娱不是有顶流姜涛吗",
       "onboard_time": 1713487699,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 360797,
+      "num": 360797,
+      "word": "YG新女团vsHybe新女团",
+      "onboard_time": 1713488718,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -241,14 +305,6 @@
       "onboard_time": 1713485478,
       "rank": 23,
       "category": "母婴育儿,社会新闻"
-    },
-    {
-      "raw_hot": 327170,
-      "num": 327170,
-      "word": "晚上睡觉要盖好耳朵",
-      "onboard_time": 1713487878,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 319292,
@@ -291,12 +347,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 287533,
-      "num": 287533,
-      "word": "4月19日21时59分迎来谷雨",
-      "onboard_time": 1713488900,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 294110,
+      "num": 294110,
+      "word": "山东专升本成绩",
+      "onboard_time": 1713493397,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 282603,
@@ -321,6 +377,14 @@
       "onboard_time": 1713464051,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 272528,
+      "num": 272528,
+      "word": "网传重庆一老太被挖掘机当街碾压身亡",
+      "onboard_time": 1713492378,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270528,
@@ -363,12 +427,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 240946,
-      "num": 240946,
-      "word": "YG新女团vsHybe新女团",
-      "onboard_time": 1713488718,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 253093,
+      "num": 253093,
+      "word": "气血不足的人要先学会忌口",
+      "onboard_time": 1713489977,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 239382,
@@ -435,12 +499,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 216869,
-      "num": 216869,
-      "word": "都美竹晒详细说明回应",
-      "onboard_time": 1713489797,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 205024,
+      "num": 205024,
+      "word": "16岁女孩1万块穷游9国3大洲",
+      "onboard_time": 1713492137,
+      "rank": 27,
+      "category": "旅游"
     },
     {
       "raw_hot": 188341,
@@ -449,6 +513,30 @@
       "onboard_time": 1713486558,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 184228,
+      "num": 184228,
+      "word": "丫丫谷雨当然要吃竹子呀",
+      "onboard_time": 1713491117,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183801,
+      "num": 183801,
+      "word": "唐嫣走路仪态",
+      "onboard_time": 1713490519,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183165,
+      "num": 183165,
+      "word": "贵价面包县城人不买单",
+      "onboard_time": 1713492078,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 177209,
@@ -523,14 +611,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 151426,
-      "num": 151426,
-      "word": "气血不足的人要先学会忌口",
-      "onboard_time": 1713489977,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 150995,
       "num": 150995,
       "word": "周深受邀参加联合国第十五届中文日",
@@ -563,6 +643,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 140492,
+      "num": 139192,
+      "word": "张真源严浩翔以为帐篷塌了是节目效果",
+      "onboard_time": 1713490456,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138385,
       "num": 138385,
       "word": "于正说祝绪丹事件是联手炒作",
@@ -593,6 +681,22 @@
       "onboard_time": 1713464771,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134501,
+      "num": 134501,
+      "word": "Keria感谢中国粉丝",
+      "onboard_time": 1713491057,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 132485,
+      "num": 132485,
+      "word": "周深在联合国献唱和平颂",
+      "onboard_time": 1713490939,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 129624,
@@ -657,6 +761,14 @@
       "onboard_time": 1713456677,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 116428,
+      "num": 116428,
+      "word": "孙子被爷爷教训后举报爷爷有枪",
+      "onboard_time": 1713493338,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114738,
@@ -731,6 +843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 97075,
+      "num": 113847,
+      "word": "易烊千玺微电影开头已剧透",
+      "onboard_time": 1713493579,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95357,
       "num": 153225,
       "word": "樊振东说美凌格永不言弃",
@@ -801,6 +921,14 @@
       "onboard_time": 1713475391,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 80693,
+      "num": 184798,
+      "word": "华为Pura70红圈小金标",
+      "onboard_time": 1713492798,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 78072,
