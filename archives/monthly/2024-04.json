@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713522915381,
+  "endTime": 1713525315925,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -7731,6 +7731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 684318,
+      "num": 638485,
+      "word": "霉霉也玩第五人格",
+      "onboard_time": 1713522257,
+      "rank": 11,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 684316,
       "num": 684316,
       "word": "李菲想和刘亦菲演年下",
@@ -8081,6 +8089,14 @@
       "onboard_time": 1712650220,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 664511,
+      "num": 664511,
+      "word": "华为呼吁全国应用尽快加入鸿蒙",
+      "onboard_time": 1713522498,
+      "rank": 37,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 662583,
@@ -9755,6 +9771,14 @@
       "category": "剧集,社会新闻"
     },
     {
+      "raw_hot": 583685,
+      "num": 583685,
+      "word": "王曼昱vs早田希娜",
+      "onboard_time": 1713523939,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 583636,
       "num": 566174,
       "word": "当一个白富美经历家庭破产",
@@ -10857,6 +10881,14 @@
       "onboard_time": 1712332519,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 536991,
+      "num": 536991,
+      "word": "张小斐表情 真的心疼",
+      "onboard_time": 1713521237,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 536916,
@@ -15211,14 +15243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 411949,
-      "num": 411949,
-      "word": "张小斐表情 真的心疼",
-      "onboard_time": 1713521237,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 411727,
       "num": 411726,
       "word": "李沁学姐妆",
@@ -15321,6 +15345,14 @@
       "onboard_time": 1713363919,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 409560,
+      "num": 409560,
+      "word": "一顿小龙虾跌至一杯奶茶钱",
+      "onboard_time": 1713522257,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 409159,
@@ -16761,6 +16793,14 @@
       "onboard_time": 1712043739,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 375552,
+      "num": 375552,
+      "word": "沈梦辰杜海涛又发糖了",
+      "onboard_time": 1713521598,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 375262,
@@ -18971,14 +19011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 328809,
-      "num": 328809,
-      "word": "霉霉也玩第五人格",
-      "onboard_time": 1713522257,
-      "rank": 11,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 328630,
       "num": 328630,
       "word": "于正说新剧比鬼怪黑暗荣耀好看",
@@ -19468,7 +19500,7 @@
     },
     {
       "raw_hot": 320224,
-      "num": 445390,
+      "num": 539885,
       "word": "面包车自燃幼儿园老师徒手拖走旁边车",
       "onboard_time": 1713510318,
       "rank": 28,
@@ -19737,6 +19769,14 @@
       "onboard_time": 1712285658,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 315770,
+      "num": 315770,
+      "word": "刚刷到下铺拉帘子的大学生自己就遇到了",
+      "onboard_time": 1713520519,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 315717,
@@ -20148,7 +20188,7 @@
     },
     {
       "raw_hot": 309267,
-      "num": 186499,
+      "num": 205967,
       "word": "经常读书和不读书有什么区别",
       "onboard_time": 1713519136,
       "rank": 49,
@@ -20841,6 +20881,14 @@
       "onboard_time": 1712810180,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299196,
+      "num": 299196,
+      "word": "张予曦 可以不喝哑药吗",
+      "onboard_time": 1713524597,
+      "rank": 18,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 299076,
@@ -22441,6 +22489,14 @@
       "onboard_time": 1712241078,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274535,
+      "num": 274535,
+      "word": "美臀羊羊",
+      "onboard_time": 1713523576,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 274518,
@@ -25595,6 +25651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 240075,
+      "num": 212097,
+      "word": "李溪芮漫画腿",
+      "onboard_time": 1713522677,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240050,
       "num": 240050,
       "word": "陈雨菲女单亚军",
@@ -27787,14 +27851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220113,
-      "num": 182407,
-      "word": "沈梦辰杜海涛又发糖了",
-      "onboard_time": 1713521598,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220095,
       "num": 220095,
       "word": "肖战肖春生 我在什刹海当大哥",
@@ -28721,6 +28777,14 @@
       "onboard_time": 1712717959,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213313,
+      "num": 213313,
+      "word": "当你下午请假调休",
+      "onboard_time": 1713523816,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 213306,
@@ -30595,14 +30659,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 203090,
-      "num": 203090,
-      "word": "刚刷到下铺拉帘子的大学生自己就遇到了",
-      "onboard_time": 1713520519,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 203002,
       "num": 203002,
       "word": "天水官方回应开店卖麻辣烫",
@@ -31049,6 +31105,14 @@
       "onboard_time": 1712915178,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201540,
+      "num": 201540,
+      "word": "食物语数据",
+      "onboard_time": 1713524357,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 201500,
@@ -31761,6 +31825,14 @@
       "onboard_time": 1713409397,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198426,
+      "num": 198426,
+      "word": "刘诗诗麻辣女教师",
+      "onboard_time": 1713524778,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198406,
@@ -35203,6 +35275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183650,
+      "num": 183650,
+      "word": "朱丹 不许聊家庭孩子",
+      "onboard_time": 1713525018,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183644,
       "num": 183644,
       "word": "强迫症的衣柜是什么样的",
@@ -36145,14 +36225,6 @@
       "onboard_time": 1712220558,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 178402,
-      "num": 178402,
-      "word": "一顿小龙虾跌至一杯奶茶钱",
-      "onboard_time": 1713522257,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 178302,
@@ -37793,6 +37865,14 @@
       "onboard_time": 1711956860,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169353,
+      "num": 169353,
+      "word": "玉藻前典藏皮肤",
+      "onboard_time": 1713523518,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 169346,
@@ -40387,14 +40467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 155865,
-      "num": 155865,
-      "word": "李溪芮漫画腿",
-      "onboard_time": 1713522677,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155850,
       "num": 155850,
       "word": "EXO12周年留言",
@@ -40433,6 +40505,14 @@
       "onboard_time": 1712797100,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155693,
+      "num": 155693,
+      "word": "原来这就是媒人眼里的合适",
+      "onboard_time": 1713524657,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 155689,
@@ -40649,6 +40729,14 @@
       "onboard_time": 1713510798,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 154433,
+      "num": 154433,
+      "word": "冰上的尤里 声优发文",
+      "onboard_time": 1713524237,
+      "rank": 37,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 154402,
@@ -41827,14 +41915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149994,
-      "num": 149994,
-      "word": "华为呼吁全国应用尽快加入鸿蒙",
-      "onboard_time": 1713522498,
-      "rank": 37,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 149988,
       "num": 149988,
       "word": "被北大学生的执行力震惊",
@@ -42193,6 +42273,14 @@
       "onboard_time": 1712061679,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148616,
+      "num": 545345,
+      "word": "这么好玩的幼儿园建议全国推广",
+      "onboard_time": 1713520218,
+      "rank": 8,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 148595,
@@ -43921,14 +44009,6 @@
       "onboard_time": 1712819597,
       "rank": 42,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 140370,
-      "num": 359907,
-      "word": "这么好玩的幼儿园建议全国推广",
-      "onboard_time": 1713520218,
-      "rank": 8,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 140337,
@@ -48267,6 +48347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113599,
+      "num": 113599,
+      "word": "麦承欢蹦床",
+      "onboard_time": 1713525137,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113552,
       "num": 113552,
       "word": "诺米的故事",
@@ -48795,6 +48883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108128,
+      "num": 108128,
+      "word": "怪不得晚自习这么安静",
+      "onboard_time": 1713523637,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108109,
       "num": 108109,
       "word": "美国男篮12人完整名单",
@@ -48913,6 +49009,14 @@
       "onboard_time": 1712291779,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 107029,
+      "num": 107029,
+      "word": "李沁女团妆",
+      "onboard_time": 1713525197,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 106916,
@@ -49073,6 +49177,14 @@
       "onboard_time": 1713170119,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 104990,
+      "num": 104990,
+      "word": "刘诗诗费加罗四月刊封面",
+      "onboard_time": 1713525258,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 104976,
@@ -52411,6 +52523,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 37540,
+      "num": 209650,
+      "word": "宇宙的尽头是勇气",
+      "onboard_time": 1713523878,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37512,
       "num": 37126,
       "word": "眼泪女王 甄嬛传",
@@ -52913,6 +53033,14 @@
       "onboard_time": 1713129370,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 26726,
+      "num": 310177,
+      "word": "优衣库T恤破吉尼斯纪录",
+      "onboard_time": 1713522858,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 26721,
@@ -53761,14 +53889,6 @@
       "onboard_time": 1712900057,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 7114,
-      "num": 110116,
-      "word": "优衣库T恤破吉尼斯纪录",
-      "onboard_time": 1713522858,
-      "rank": 49,
-      "category": "时尚"
     }
   ],
   "hotgov_list": [
