@@ -1,10 +1,10 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713494300182,
+  "endTime": 1713496760907,
   "band_list": [
     {
-      "raw_hot": 3521535,
-      "num": 3521535,
+      "raw_hot": 3897392,
+      "num": 3897392,
       "word": "以色列导弹袭击了伊朗目标",
       "onboard_time": 1713493159,
       "rank": 0,
@@ -297,6 +297,14 @@
       "onboard_time": 1713485239,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1682321,
+      "num": 1682321,
+      "word": "广州天河宝马撞人案罪犯被执行死刑",
+      "onboard_time": 1713494117,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1649233,
@@ -2147,6 +2155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 650608,
+      "num": 650608,
+      "word": "英美宣布对伊朗实施制裁",
+      "onboard_time": 1713494357,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 649401,
       "num": 510507,
       "word": "莎头 可口可乐",
@@ -3169,6 +3185,14 @@
       "onboard_time": 1713049813,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 509061,
+      "num": 509061,
+      "word": "网传重庆一老太被挖掘机当街碾压身亡",
+      "onboard_time": 1713492378,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507819,
@@ -5107,14 +5131,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 348797,
-      "num": 348797,
-      "word": "网传重庆一老太被挖掘机当街碾压身亡",
-      "onboard_time": 1713492378,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 348080,
       "num": 348080,
       "word": "眼泪女王中出现的中文",
@@ -5203,6 +5219,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342804,
+      "num": 342804,
+      "word": "16岁女孩1万块穷游9国3大洲",
+      "onboard_time": 1713492137,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 341671,
+      "num": 341671,
+      "word": "奔跑吧先导片直接上干货",
+      "onboard_time": 1713494897,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341516,
       "num": 341516,
       "word": "李亚鹏妻子称与李嫣是好姐妹",
@@ -5225,6 +5257,14 @@
       "onboard_time": 1713368778,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340131,
+      "num": 340131,
+      "word": "刘耀文爆料宋亚轩想养蛇",
+      "onboard_time": 1713495198,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 338332,
@@ -5563,6 +5603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 318408,
+      "num": 318408,
+      "word": "刘亦菲微醺",
+      "onboard_time": 1713495737,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 318307,
       "num": 332881,
       "word": "哈马斯领导人多个家人被炸死",
@@ -5771,6 +5819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303906,
+      "num": 303906,
+      "word": "乘风2024开播",
+      "onboard_time": 1713495797,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302853,
       "num": 302853,
       "word": "98年小伙因精神状态太美丽走红",
@@ -5793,6 +5849,14 @@
       "onboard_time": 1713231558,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 301734,
+      "num": 301734,
+      "word": "去世两年的狗狗突然在朋友圈刷到",
+      "onboard_time": 1713496038,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 301246,
@@ -6089,6 +6153,14 @@
       "onboard_time": 1713163997,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 285312,
+      "num": 285312,
+      "word": "贵价面包县城人不买单",
+      "onboard_time": 1713492078,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 285133,
@@ -6689,6 +6761,14 @@
       "onboard_time": 1713209291,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 257725,
+      "num": 257725,
+      "word": "孙子被爷爷教训后举报爷爷有枪",
+      "onboard_time": 1713493338,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257489,
@@ -7643,6 +7723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225514,
+      "num": 200053,
+      "word": "伊朗暂时停飞多个城市的航班",
+      "onboard_time": 1713495678,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 225457,
       "num": 201427,
       "word": "不够善良的我们 双缝干涉实验",
@@ -7665,6 +7753,14 @@
       "onboard_time": 1713273258,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224609,
+      "num": 224609,
+      "word": "世界杯总决赛全红婵陈芋汐夺金",
+      "onboard_time": 1713496097,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 224544,
@@ -8033,14 +8129,6 @@
       "onboard_time": 1713243739,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 213496,
-      "num": 213496,
-      "word": "16岁女孩1万块穷游9国3大洲",
-      "onboard_time": 1713492137,
-      "rank": 27,
-      "category": "旅游"
     },
     {
       "raw_hot": 213481,
@@ -8667,6 +8755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201436,
+      "num": 201436,
+      "word": "数码宝贝 小时候vs长大后",
+      "onboard_time": 1713496216,
+      "rank": 29,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 201387,
       "num": 201387,
       "word": "奔跑吧",
@@ -8961,14 +9057,6 @@
       "onboard_time": 1713150257,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 196830,
-      "num": 196830,
-      "word": "贵价面包县城人不买单",
-      "onboard_time": 1713492078,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 196477,
@@ -9579,6 +9667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186632,
+      "num": 186632,
+      "word": "吴亦凡两关联公司欠税400余万",
+      "onboard_time": 1713496518,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186501,
       "num": 186501,
       "word": "张真源吃播",
@@ -10137,14 +10233,6 @@
       "onboard_time": 1713268097,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 175904,
-      "num": 175904,
-      "word": "广州天河宝马撞人案罪犯被执行死刑",
-      "onboard_time": 1713494117,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175732,
@@ -10833,14 +10921,6 @@
       "onboard_time": 1713409759,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 163075,
-      "num": 163075,
-      "word": "孙子被爷爷教训后举报爷爷有枪",
-      "onboard_time": 1713493338,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162902,
@@ -12355,6 +12435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141457,
+      "num": 141457,
+      "word": "宋亚轩回忆和杨迪第一次见面",
+      "onboard_time": 1713495918,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141435,
       "num": 141435,
       "word": "保时捷撞车后女子砸门被行政拘留",
@@ -13083,6 +13171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128237,
+      "num": 341864,
+      "word": "五菱星光充电15分钟续航200公里",
+      "onboard_time": 1713494957,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 128178,
       "num": 128178,
       "word": "纪凌尘自曝瘦16斤",
@@ -13137,6 +13233,14 @@
       "onboard_time": 1713270680,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127366,
+      "num": 127366,
+      "word": "跳水世界杯总决赛",
+      "onboard_time": 1713496700,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 126312,
@@ -13377,6 +13481,14 @@
       "onboard_time": 1713425357,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 122146,
+      "num": 366066,
+      "word": "华为Pura70红圈小金标",
+      "onboard_time": 1713492798,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 122104,
@@ -14459,14 +14571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81300,
-      "num": 366066,
-      "word": "华为Pura70红圈小金标",
-      "onboard_time": 1713492798,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 80978,
       "num": 137770,
       "word": "校园中花梨木背后的故事",
@@ -15035,6 +15139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44217,
+      "num": 172834,
+      "word": "救命神器AED关键时刻能救命",
+      "onboard_time": 1713496097,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 43738,
       "num": 886476,
       "word": "国家安全是头等大事不能袖手旁观",
@@ -15065,6 +15177,14 @@
       "onboard_time": 1713326599,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40791,
+      "num": 156497,
+      "word": "问界新M5配色有多时尚",
+      "onboard_time": 1713496458,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 40765,

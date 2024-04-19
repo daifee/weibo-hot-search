@@ -1,10 +1,10 @@
 {
   "startTime": 1713457373132,
-  "endTime": 1713494300182,
+  "endTime": 1713496760907,
   "band_list": [
     {
-      "raw_hot": 3521535,
-      "num": 3521535,
+      "raw_hot": 3897392,
+      "num": 3897392,
       "word": "以色列导弹袭击了伊朗目标",
       "onboard_time": 1713493159,
       "rank": 0,
@@ -17,6 +17,14 @@
       "onboard_time": 1713485239,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1682321,
+      "num": 1682321,
+      "word": "广州天河宝马撞人案罪犯被执行死刑",
+      "onboard_time": 1713494117,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1503735,
@@ -123,6 +131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 650608,
+      "num": 650608,
+      "word": "英美宣布对伊朗实施制裁",
+      "onboard_time": 1713494357,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 630854,
       "num": 630854,
       "word": "伊朗等地传出爆炸声",
@@ -193,6 +209,14 @@
       "onboard_time": 1713491358,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 509061,
+      "num": 509061,
+      "word": "网传重庆一老太被挖掘机当街碾压身亡",
+      "onboard_time": 1713492378,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507354,
@@ -291,14 +315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 348797,
-      "num": 348797,
-      "word": "网传重庆一老太被挖掘机当街碾压身亡",
-      "onboard_time": 1713492378,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 344841,
       "num": 344841,
       "word": "易烊千玺代言九号",
@@ -307,12 +323,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342804,
+      "num": 342804,
+      "word": "16岁女孩1万块穷游9国3大洲",
+      "onboard_time": 1713492137,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 341671,
+      "num": 341671,
+      "word": "奔跑吧先导片直接上干货",
+      "onboard_time": 1713494897,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341298,
       "num": 269404,
       "word": "95后宝妈一觉睡醒右眼失明了",
       "onboard_time": 1713485478,
       "rank": 23,
       "category": "母婴育儿,社会新闻"
+    },
+    {
+      "raw_hot": 340131,
+      "num": 340131,
+      "word": "刘耀文爆料宋亚轩想养蛇",
+      "onboard_time": 1713495198,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 334071,
@@ -329,6 +369,14 @@
       "onboard_time": 1713482056,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318408,
+      "num": 318408,
+      "word": "刘亦菲微醺",
+      "onboard_time": 1713495737,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 317233,
@@ -355,12 +403,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303906,
+      "num": 303906,
+      "word": "乘风2024开播",
+      "onboard_time": 1713495797,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302656,
       "num": 302656,
       "word": "雷军说小米不会造相机",
       "onboard_time": 1713456858,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 301734,
+      "num": 301734,
+      "word": "去世两年的狗狗突然在朋友圈刷到",
+      "onboard_time": 1713496038,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 285312,
+      "num": 285312,
+      "word": "贵价面包县城人不买单",
+      "onboard_time": 1713492078,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 282603,
@@ -419,6 +491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 257725,
+      "num": 257725,
+      "word": "孙子被爷爷教训后举报爷爷有枪",
+      "onboard_time": 1713493338,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257178,
       "num": 257178,
       "word": "柯南小兰婚纱图",
@@ -467,12 +547,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 225514,
+      "num": 200053,
+      "word": "伊朗暂时停飞多个城市的航班",
+      "onboard_time": 1713495678,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 224636,
       "num": 175690,
       "word": "姑父强奸猥亵侄女7年被判13年",
       "onboard_time": 1713430459,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224609,
+      "num": 224609,
+      "word": "世界杯总决赛全红婵陈芋汐夺金",
+      "onboard_time": 1713496097,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 223177,
@@ -499,20 +595,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 213496,
-      "num": 213496,
-      "word": "16岁女孩1万块穷游9国3大洲",
-      "onboard_time": 1713492137,
-      "rank": 27,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 196830,
-      "num": 196830,
-      "word": "贵价面包县城人不买单",
-      "onboard_time": 1713492078,
-      "rank": 32,
-      "category": "美食"
+      "raw_hot": 201436,
+      "num": 201436,
+      "word": "数码宝贝 小时候vs长大后",
+      "onboard_time": 1713496216,
+      "rank": 29,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 188341,
@@ -521,6 +609,14 @@
       "onboard_time": 1713486558,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 186632,
+      "num": 186632,
+      "word": "吴亦凡两关联公司欠税400余万",
+      "onboard_time": 1713496518,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 184228,
@@ -555,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175904,
-      "num": 175904,
-      "word": "广州天河宝马撞人案罪犯被执行死刑",
-      "onboard_time": 1713494117,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175862,
       "num": 155136,
       "word": "养了九年的二哈突然攻击孩子",
@@ -585,14 +673,6 @@
       "onboard_time": 1713446899,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163075,
-      "num": 163075,
-      "word": "孙子被爷爷教训后举报爷爷有枪",
-      "onboard_time": 1713493338,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157100,
@@ -657,6 +737,14 @@
       "onboard_time": 1713482536,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 141457,
+      "num": 141457,
+      "word": "宋亚轩回忆和杨迪第一次见面",
+      "onboard_time": 1713495918,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 140492,
@@ -731,6 +819,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128237,
+      "num": 341864,
+      "word": "五菱星光充电15分钟续航200公里",
+      "onboard_time": 1713494957,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 127366,
+      "num": 127366,
+      "word": "跳水世界杯总决赛",
+      "onboard_time": 1713496700,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125709,
       "num": 125709,
       "word": "宋雨琦金发红裙",
@@ -769,6 +873,14 @@
       "onboard_time": 1713441198,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122146,
+      "num": 366066,
+      "word": "华为Pura70红圈小金标",
+      "onboard_time": 1713492798,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 120836,
@@ -939,14 +1051,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 81300,
-      "num": 366066,
-      "word": "华为Pura70红圈小金标",
-      "onboard_time": 1713492798,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 78072,
       "num": 152457,
       "word": "龙年纪念币",
@@ -1081,6 +1185,22 @@
       "onboard_time": 1713475871,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 44217,
+      "num": 172834,
+      "word": "救命神器AED关键时刻能救命",
+      "onboard_time": 1713496097,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 40791,
+      "num": 156497,
+      "word": "问界新M5配色有多时尚",
+      "onboard_time": 1713496458,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 39551,
