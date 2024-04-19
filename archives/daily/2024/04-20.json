@@ -1,6 +1,6 @@
 {
   "startTime": 1713543834648,
-  "endTime": 1713543834648,
+  "endTime": 1713544676061,
   "band_list": [
     {
       "raw_hot": 1194561,
@@ -19,20 +19,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 680600,
+      "num": 680600,
+      "word": "弟弟都亲了一夜承明你们呢",
+      "onboard_time": 1713541699,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 616044,
       "num": 616044,
       "word": "重庆严肃处理错收多收燃气费问题",
       "onboard_time": 1713538999,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503099,
-      "num": 503099,
-      "word": "弟弟都亲了一夜承明你们呢",
-      "onboard_time": 1713541699,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 486196,
@@ -73,6 +73,14 @@
       "onboard_time": 1713533478,
       "rank": 6,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 357577,
+      "num": 253083,
+      "word": "柳岩浪姐cos不知火舞",
+      "onboard_time": 1713542538,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 329505,
@@ -147,14 +155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237066,
-      "num": 237066,
-      "word": "柳岩浪姐cos不知火舞",
-      "onboard_time": 1713542538,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219870,
       "num": 140181,
       "word": "张予曦 可以不喝哑药吗",
@@ -171,6 +171,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199627,
+      "num": 199627,
+      "word": "赵丽颖与凤行战绩",
+      "onboard_time": 1713541638,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198214,
+      "num": 144333,
+      "word": "这些信号提示你有血栓了",
+      "onboard_time": 1713542056,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 196426,
       "num": 196426,
       "word": "陈丽君初舞台第三",
@@ -185,22 +201,6 @@
       "onboard_time": 1713521237,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 190967,
-      "num": 144333,
-      "word": "这些信号提示你有血栓了",
-      "onboard_time": 1713542056,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 189650,
-      "num": 124216,
-      "word": "赵丽颖与凤行战绩",
-      "onboard_time": 1713541638,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 188018,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 156994,
-      "num": 102119,
+      "num": 103946,
       "word": "肖战是学弟公认的校草",
       "onboard_time": 1713527298,
       "rank": 40,
@@ -315,6 +315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113714,
+      "num": 99362,
+      "word": "杨紫方回应粉丝造型意见",
+      "onboard_time": 1713544157,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105237,
       "num": 97775,
       "word": "林允的刷酸和修护心得",
@@ -347,6 +355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 87605,
+      "num": 99360,
+      "word": "郭碧婷i的好明显",
+      "onboard_time": 1713536899,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85540,
       "num": 102872,
       "word": "伊朗驻法使馆领事处遭强行闯入",
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 84761,
-      "num": 98378,
+      "num": 99358,
       "word": "孙颖莎说困难时就拼呗顶呗",
       "onboard_time": 1713536658,
       "rank": 45,
@@ -364,11 +380,19 @@
     },
     {
       "raw_hot": 80540,
-      "num": 97111,
+      "num": 99359,
       "word": "林高远vs樊振东",
       "onboard_time": 1713526997,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60334,
+      "num": 99358,
+      "word": "大熊猫吃笋整出了扛炮筒的架势",
+      "onboard_time": 1713543977,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60014,
