@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713496760907,
+  "endTime": 1713497744395,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -6987,6 +6987,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 715425,
+      "num": 715425,
+      "word": "英美宣布对伊朗实施制裁",
+      "onboard_time": 1713494357,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 715086,
       "num": 715086,
       "word": "美国军舰为防备伊朗已部署到位",
@@ -7025,6 +7033,14 @@
       "onboard_time": 1712023459,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 713380,
+      "num": 713380,
+      "word": "网传重庆一老太被挖掘机当街碾压身亡",
+      "onboard_time": 1713492378,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 712923,
@@ -7915,6 +7931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 659513,
+      "num": 659513,
+      "word": "伊朗发射防空导弹",
+      "onboard_time": 1713496998,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 659312,
       "num": 659312,
       "word": "马英九率台湾青年公祭轩辕黄帝",
@@ -8049,14 +8073,6 @@
       "onboard_time": 1712144298,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 650608,
-      "num": 650608,
-      "word": "英美宣布对伊朗实施制裁",
-      "onboard_time": 1713494357,
-      "rank": 6,
-      "category": "国外时政"
     },
     {
       "raw_hot": 650599,
@@ -11459,14 +11475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 509061,
-      "num": 509061,
-      "word": "网传重庆一老太被挖掘机当街碾压身亡",
-      "onboard_time": 1713492378,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 509012,
       "num": 455242,
       "word": "郭文韬跳昆卡",
@@ -11883,6 +11891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 496214,
+      "num": 496214,
+      "word": "16岁女孩1万块穷游9国3大洲",
+      "onboard_time": 1713492137,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 496176,
       "num": 496176,
       "word": "厦门大学食堂建议本",
@@ -12121,6 +12137,14 @@
       "onboard_time": 1712412259,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 485953,
+      "num": 485953,
+      "word": "刘亦菲微醺",
+      "onboard_time": 1713495737,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 485935,
@@ -13121,6 +13145,14 @@
       "onboard_time": 1712541198,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 457173,
+      "num": 457173,
+      "word": "乘风2024开播",
+      "onboard_time": 1713495797,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 456612,
@@ -14259,6 +14291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 428654,
+      "num": 428654,
+      "word": "奔跑吧先导片直接上干货",
+      "onboard_time": 1713494897,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 428602,
       "num": 428602,
       "word": "早期宫颈癌可能没有症状",
@@ -14865,6 +14905,14 @@
       "onboard_time": 1713252619,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 412804,
+      "num": 412804,
+      "word": "刘耀文爆料宋亚轩想养蛇",
+      "onboard_time": 1713495198,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 412441,
@@ -15553,6 +15601,14 @@
       "onboard_time": 1712397017,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394414,
+      "num": 394414,
+      "word": "吴亦凡两关联公司欠税400余万",
+      "onboard_time": 1713496518,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 394352,
@@ -16681,6 +16737,14 @@
       "onboard_time": 1712865069,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367783,
+      "num": 329719,
+      "word": "去世两年的狗狗突然在朋友圈刷到",
+      "onboard_time": 1713496038,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 367618,
@@ -17923,14 +17987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 342804,
-      "num": 342804,
-      "word": "16岁女孩1万块穷游9国3大洲",
-      "onboard_time": 1713492137,
-      "rank": 27,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 342589,
       "num": 267915,
       "word": "体制内入职早年龄小比我的同事",
@@ -17993,14 +18049,6 @@
       "onboard_time": 1712604070,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 341671,
-      "num": 341671,
-      "word": "奔跑吧先导片直接上干货",
-      "onboard_time": 1713494897,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 341521,
@@ -18089,14 +18137,6 @@
       "onboard_time": 1712835976,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 340131,
-      "num": 340131,
-      "word": "刘耀文爆料宋亚轩想养蛇",
-      "onboard_time": 1713495198,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 339975,
@@ -18617,6 +18657,14 @@
       "onboard_time": 1712304858,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 328202,
+      "num": 328202,
+      "word": "孙子被爷爷教训后举报爷爷有枪",
+      "onboard_time": 1713493338,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327945,
@@ -19185,14 +19233,6 @@
       "onboard_time": 1712036719,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 318408,
-      "num": 318408,
-      "word": "刘亦菲微醺",
-      "onboard_time": 1713495737,
-      "rank": 18,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 318307,
@@ -20035,6 +20075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 304634,
+      "num": 304634,
+      "word": "世界杯总决赛全红婵陈芋汐夺金",
+      "onboard_time": 1713496097,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304552,
       "num": 304552,
       "word": "承欢记热度",
@@ -20081,14 +20129,6 @@
       "onboard_time": 1712978536,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 303906,
-      "num": 303906,
-      "word": "乘风2024开播",
-      "onboard_time": 1713495797,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 303525,
@@ -20177,14 +20217,6 @@
       "onboard_time": 1712557638,
       "rank": 21,
       "category": "教育"
-    },
-    {
-      "raw_hot": 301734,
-      "num": 301734,
-      "word": "去世两年的狗狗突然在朋友圈刷到",
-      "onboard_time": 1713496038,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 301695,
@@ -22619,6 +22651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265137,
+      "num": 265137,
+      "word": "薛之谦诉李雨桐案已撤诉",
+      "onboard_time": 1713497239,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264892,
       "num": 264892,
       "word": "金赛纶将复出",
@@ -23361,14 +23401,6 @@
       "onboard_time": 1712724920,
       "rank": 25,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 257725,
-      "num": 257725,
-      "word": "孙子被爷爷教训后举报爷爷有枪",
-      "onboard_time": 1713493338,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257668,
@@ -26684,7 +26716,7 @@
     },
     {
       "raw_hot": 225514,
-      "num": 200053,
+      "num": 227903,
       "word": "伊朗暂时停飞多个城市的航班",
       "onboard_time": 1713495678,
       "rank": 30,
@@ -26753,14 +26785,6 @@
       "onboard_time": 1711945704,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 224609,
-      "num": 224609,
-      "word": "世界杯总决赛全红婵陈芋汐夺金",
-      "onboard_time": 1713496097,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 224604,
@@ -30177,6 +30201,14 @@
       "onboard_time": 1712544260,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202280,
+      "num": 202280,
+      "word": "周峻纬第一部古装男主剧",
+      "onboard_time": 1713497058,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 202276,
@@ -33771,14 +33803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186632,
-      "num": 186632,
-      "word": "吴亦凡两关联公司欠税400余万",
-      "onboard_time": 1713496518,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186596,
       "num": 186596,
       "word": "养大一个孩子有多不容易",
@@ -34105,6 +34129,14 @@
       "onboard_time": 1713445639,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185285,
+      "num": 185285,
+      "word": "伊媒称伊朗核设施未受损",
+      "onboard_time": 1713497299,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 185128,
@@ -35827,6 +35859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 175562,
+      "num": 175562,
+      "word": "周雨彤 保镖",
+      "onboard_time": 1713497239,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175548,
       "num": 175548,
       "word": "Doinb说Tian是背锅位",
@@ -37520,6 +37560,14 @@
       "word": "勇不出界",
       "onboard_time": 1712375057,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165785,
+      "num": 165785,
+      "word": "跳水世界杯总决赛",
+      "onboard_time": 1713496700,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -39704,6 +39752,14 @@
       "word": "勒克莱尔抵达上海",
       "onboard_time": 1713266178,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154551,
+      "num": 154551,
+      "word": "西安跳水总决赛今日开赛",
+      "onboard_time": 1713496878,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -45084,7 +45140,7 @@
     },
     {
       "raw_hot": 128237,
-      "num": 341864,
+      "num": 430698,
       "word": "五菱星光充电15分钟续航200公里",
       "onboard_time": 1713494957,
       "rank": 15,
@@ -45217,14 +45273,6 @@
       "onboard_time": 1713270680,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 127366,
-      "num": 127366,
-      "word": "跳水世界杯总决赛",
-      "onboard_time": 1713496700,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 127103,
@@ -50163,6 +50211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63153,
+      "num": 396268,
+      "word": "问界新M5配色有多时尚",
+      "onboard_time": 1713496458,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 62840,
       "num": 62840,
       "word": "清明档首日票房破3亿",
@@ -50521,6 +50577,14 @@
       "onboard_time": 1712374877,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53864,
+      "num": 179204,
+      "word": "我最爱的秀场LOOK",
+      "onboard_time": 1713497418,
+      "rank": 37,
+      "category": "时尚"
     },
     {
       "raw_hot": 53718,
@@ -50907,6 +50971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 45868,
+      "num": 330520,
+      "word": "救命神器AED关键时刻能救命",
+      "onboard_time": 1713496097,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 45804,
       "num": 926155,
       "word": "总体国家安全观主题宣传片护你安澜",
@@ -50977,14 +51049,6 @@
       "onboard_time": 1712994737,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 44217,
-      "num": 172834,
-      "word": "救命神器AED关键时刻能救命",
-      "onboard_time": 1713496097,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 44166,
@@ -51089,14 +51153,6 @@
       "onboard_time": 1712430970,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 40791,
-      "num": 156497,
-      "word": "问界新M5配色有多时尚",
-      "onboard_time": 1713496458,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 40765,

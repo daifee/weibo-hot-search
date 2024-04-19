@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713496760907,
+  "endTime": 1713497744395,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -1963,6 +1963,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 715425,
+      "num": 715425,
+      "word": "英美宣布对伊朗实施制裁",
+      "onboard_time": 1713494357,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 713380,
+      "num": 713380,
+      "word": "网传重庆一老太被挖掘机当街碾压身亡",
+      "onboard_time": 1713492378,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713250,
       "num": 713250,
       "word": "Thurman猫一杯视频号被封",
@@ -2139,6 +2155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 659513,
+      "num": 659513,
+      "word": "伊朗发射防空导弹",
+      "onboard_time": 1713496998,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 656872,
       "num": 656872,
       "word": "易梦玲鼻子",
@@ -2153,14 +2177,6 @@
       "onboard_time": 1713147917,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 650608,
-      "num": 650608,
-      "word": "英美宣布对伊朗实施制裁",
-      "onboard_time": 1713494357,
-      "rank": 6,
-      "category": "国外时政"
     },
     {
       "raw_hot": 649401,
@@ -3187,14 +3203,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 509061,
-      "num": 509061,
-      "word": "网传重庆一老太被挖掘机当街碾压身亡",
-      "onboard_time": 1713492378,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 507819,
       "num": 507819,
       "word": "荣梓杉方回应中戏北电双第一",
@@ -3299,6 +3307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 496214,
+      "num": 496214,
+      "word": "16岁女孩1万块穷游9国3大洲",
+      "onboard_time": 1713492137,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 496176,
       "num": 496176,
       "word": "厦门大学食堂建议本",
@@ -3385,6 +3401,14 @@
       "onboard_time": 1713056298,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485953,
+      "num": 485953,
+      "word": "刘亦菲微醺",
+      "onboard_time": 1713495737,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 485674,
@@ -3649,6 +3673,14 @@
       "onboard_time": 1713178639,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 457173,
+      "num": 457173,
+      "word": "乘风2024开播",
+      "onboard_time": 1713495797,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 456487,
@@ -3979,6 +4011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428654,
+      "num": 428654,
+      "word": "奔跑吧先导片直接上干货",
+      "onboard_time": 1713494897,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 428371,
       "num": 428371,
       "word": "教育局回应河北一小学生身亡",
@@ -4137,6 +4177,14 @@
       "onboard_time": 1713252619,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 412804,
+      "num": 412804,
+      "word": "刘耀文爆料宋亚轩想养蛇",
+      "onboard_time": 1713495198,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 411727,
@@ -4401,6 +4449,14 @@
       "onboard_time": 1713330321,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 394414,
+      "num": 394414,
+      "word": "吴亦凡两关联公司欠税400余万",
+      "onboard_time": 1713496518,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 394127,
@@ -4819,6 +4875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367783,
+      "num": 329719,
+      "word": "去世两年的狗狗突然在朋友圈刷到",
+      "onboard_time": 1713496038,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 367523,
       "num": 367523,
       "word": "李现任敏跳了fate",
@@ -5219,22 +5283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 342804,
-      "num": 342804,
-      "word": "16岁女孩1万块穷游9国3大洲",
-      "onboard_time": 1713492137,
-      "rank": 27,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 341671,
-      "num": 341671,
-      "word": "奔跑吧先导片直接上干货",
-      "onboard_time": 1713494897,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 341516,
       "num": 341516,
       "word": "李亚鹏妻子称与李嫣是好姐妹",
@@ -5257,14 +5305,6 @@
       "onboard_time": 1713368778,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 340131,
-      "num": 340131,
-      "word": "刘耀文爆料宋亚轩想养蛇",
-      "onboard_time": 1713495198,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 338332,
@@ -5417,6 +5457,14 @@
       "onboard_time": 1713448879,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 328202,
+      "num": 328202,
+      "word": "孙子被爷爷教训后举报爷爷有枪",
+      "onboard_time": 1713493338,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327516,
@@ -5601,14 +5649,6 @@
       "onboard_time": 1713408557,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 318408,
-      "num": 318408,
-      "word": "刘亦菲微醺",
-      "onboard_time": 1713495737,
-      "rank": 18,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 318307,
@@ -5803,6 +5843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 304634,
+      "num": 304634,
+      "word": "世界杯总决赛全红婵陈芋汐夺金",
+      "onboard_time": 1713496097,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304552,
       "num": 304552,
       "word": "承欢记热度",
@@ -5816,14 +5864,6 @@
       "word": "青环5是Kpop团建吧",
       "onboard_time": 1713455478,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 303906,
-      "num": 303906,
-      "word": "乘风2024开播",
-      "onboard_time": 1713495797,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -5849,14 +5889,6 @@
       "onboard_time": 1713231558,
       "rank": 20,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 301734,
-      "num": 301734,
-      "word": "去世两年的狗狗突然在朋友圈刷到",
-      "onboard_time": 1713496038,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 301246,
@@ -6547,6 +6579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 265137,
+      "num": 265137,
+      "word": "薛之谦诉李雨桐案已撤诉",
+      "onboard_time": 1713497239,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264892,
       "num": 264892,
       "word": "金赛纶将复出",
@@ -6761,14 +6801,6 @@
       "onboard_time": 1713209291,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 257725,
-      "num": 257725,
-      "word": "孙子被爷爷教训后举报爷爷有枪",
-      "onboard_time": 1713493338,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257489,
@@ -7724,7 +7756,7 @@
     },
     {
       "raw_hot": 225514,
-      "num": 200053,
+      "num": 227903,
       "word": "伊朗暂时停飞多个城市的航班",
       "onboard_time": 1713495678,
       "rank": 30,
@@ -7753,14 +7785,6 @@
       "onboard_time": 1713273258,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 224609,
-      "num": 224609,
-      "word": "世界杯总决赛全红婵陈芋汐夺金",
-      "onboard_time": 1713496097,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 224544,
@@ -8665,6 +8689,14 @@
       "onboard_time": 1713056658,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202280,
+      "num": 202280,
+      "word": "周峻纬第一部古装男主剧",
+      "onboard_time": 1713497058,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 202276,
@@ -9667,14 +9699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186632,
-      "num": 186632,
-      "word": "吴亦凡两关联公司欠税400余万",
-      "onboard_time": 1713496518,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186501,
       "num": 186501,
       "word": "张真源吃播",
@@ -9753,6 +9777,14 @@
       "onboard_time": 1713445639,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185285,
+      "num": 185285,
+      "word": "伊媒称伊朗核设施未受损",
+      "onboard_time": 1713497299,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 185088,
@@ -10241,6 +10273,14 @@
       "onboard_time": 1713062479,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175562,
+      "num": 175562,
+      "word": "周雨彤 保镖",
+      "onboard_time": 1713497239,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175497,
@@ -10737,6 +10777,14 @@
       "onboard_time": 1713243380,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165785,
+      "num": 165785,
+      "word": "跳水世界杯总决赛",
+      "onboard_time": 1713496700,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 165747,
@@ -11424,6 +11472,14 @@
       "word": "勒克莱尔抵达上海",
       "onboard_time": 1713266178,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154551,
+      "num": 154551,
+      "word": "西安跳水总决赛今日开赛",
+      "onboard_time": 1713496878,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -13172,7 +13228,7 @@
     },
     {
       "raw_hot": 128237,
-      "num": 341864,
+      "num": 430698,
       "word": "五菱星光充电15分钟续航200公里",
       "onboard_time": 1713494957,
       "rank": 15,
@@ -13233,14 +13289,6 @@
       "onboard_time": 1713270680,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 127366,
-      "num": 127366,
-      "word": "跳水世界杯总决赛",
-      "onboard_time": 1713496700,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 126312,
@@ -14843,6 +14891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63153,
+      "num": 396268,
+      "word": "问界新M5配色有多时尚",
+      "onboard_time": 1713496458,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 62368,
       "num": 62368,
       "word": "罗伯特是AI林萧吧",
@@ -14937,6 +14993,14 @@
       "onboard_time": 1713417020,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 53864,
+      "num": 179204,
+      "word": "我最爱的秀场LOOK",
+      "onboard_time": 1713497418,
+      "rank": 37,
+      "category": "时尚"
     },
     {
       "raw_hot": 53718,
@@ -15099,6 +15163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 45868,
+      "num": 330520,
+      "word": "救命神器AED关键时刻能救命",
+      "onboard_time": 1713496097,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 45804,
       "num": 926155,
       "word": "总体国家安全观主题宣传片护你安澜",
@@ -15139,14 +15211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44217,
-      "num": 172834,
-      "word": "救命神器AED关键时刻能救命",
-      "onboard_time": 1713496097,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 43738,
       "num": 886476,
       "word": "国家安全是头等大事不能袖手旁观",
@@ -15177,14 +15241,6 @@
       "onboard_time": 1713326599,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40791,
-      "num": 156497,
-      "word": "问界新M5配色有多时尚",
-      "onboard_time": 1713496458,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 40765,

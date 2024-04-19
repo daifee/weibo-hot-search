@@ -1,0 +1,410 @@
+{
+  "runTime": 1713497744395,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3231627,
+        "num": 3231627,
+        "word": "以色列导弹袭击了伊朗目标",
+        "onboard_time": 1713493159,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1345372,
+        "num": 1345372,
+        "word": "广州天河宝马撞人案罪犯被执行死刑",
+        "onboard_time": 1713494117,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2240,
+        "num": 975879,
+        "word": "数字丝路发展论坛",
+        "onboard_time": 1713241458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780723,
+        "num": 780723,
+        "word": "杨幂 美甲",
+        "onboard_time": 1713491418,
+        "rank": 3,
+        "category": "电影,美妆"
+      },
+      {
+        "raw_hot": 715425,
+        "num": 715425,
+        "word": "英美宣布对伊朗实施制裁",
+        "onboard_time": 1713494357,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 713380,
+        "num": 713380,
+        "word": "网传重庆一老太被挖掘机当街碾压身亡",
+        "onboard_time": 1713492378,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659513,
+        "num": 659513,
+        "word": "伊朗发射防空导弹",
+        "onboard_time": 1713496998,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 652502,
+        "num": 652502,
+        "word": "其实你已经过度疲劳了",
+        "onboard_time": 1713485239,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 610989,
+        "num": 610989,
+        "word": "五一不调休行不行",
+        "onboard_time": 1713484457,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499109,
+        "num": 499109,
+        "word": "儿媳肺癌晚期婆婆拿做保姆的钱给她治病",
+        "onboard_time": 1713484998,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496214,
+        "num": 496214,
+        "word": "16岁女孩1万块穷游9国3大洲",
+        "onboard_time": 1713492137,
+        "rank": 10,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 485953,
+        "num": 485953,
+        "word": "刘亦菲微醺",
+        "onboard_time": 1713495737,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 457173,
+        "num": 457173,
+        "word": "乘风2024开播",
+        "onboard_time": 1713495797,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119884,
+        "num": 430698,
+        "word": "五菱星光充电15分钟续航200公里",
+        "onboard_time": 1713494957,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 428654,
+        "num": 428654,
+        "word": "奔跑吧先导片直接上干货",
+        "onboard_time": 1713494897,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412804,
+        "num": 412804,
+        "word": "刘耀文爆料宋亚轩想养蛇",
+        "onboard_time": 1713495198,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409411,
+        "num": 409411,
+        "word": "伊朗",
+        "onboard_time": 1713491179,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 63153,
+        "num": 396268,
+        "word": "问界新M5配色有多时尚",
+        "onboard_time": 1713496458,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 394414,
+        "num": 394414,
+        "word": "吴亦凡两关联公司欠税400余万",
+        "onboard_time": 1713496518,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356159,
+        "num": 356159,
+        "word": "姑父强奸猥亵侄女从小学三年级至高二",
+        "onboard_time": 1713484036,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45868,
+        "num": 330520,
+        "word": "救命神器AED关键时刻能救命",
+        "onboard_time": 1713496097,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 367783,
+        "num": 329719,
+        "word": "去世两年的狗狗突然在朋友圈刷到",
+        "onboard_time": 1713496038,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328202,
+        "num": 328202,
+        "word": "孙子被爷爷教训后举报爷爷有枪",
+        "onboard_time": 1713493338,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304634,
+        "num": 304634,
+        "word": "世界杯总决赛全红婵陈芋汐夺金",
+        "onboard_time": 1713496097,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303626,
+        "num": 303626,
+        "word": "1680的看台",
+        "onboard_time": 1713486260,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 277685,
+        "num": 277685,
+        "word": "男子买4600台手机刷好评4个月赚300万",
+        "onboard_time": 1713456615,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266914,
+        "num": 266914,
+        "word": "贵价面包县城人不买单",
+        "onboard_time": 1713492078,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 265137,
+        "num": 265137,
+        "word": "薛之谦诉李雨桐案已撤诉",
+        "onboard_time": 1713497239,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241727,
+        "num": 241727,
+        "word": "舒淇晒与冯德伦结婚纪念日合照",
+        "onboard_time": 1713483437,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195799,
+        "num": 227903,
+        "word": "伊朗暂时停飞多个城市的航班",
+        "onboard_time": 1713495678,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 12323,
+        "num": 222749,
+        "word": "景海鹏朱杨柱桂海潮获航天功勋奖章",
+        "onboard_time": 1713446058,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220438,
+        "num": 220438,
+        "word": "武艺喊老师喊成老婆",
+        "onboard_time": 1713487100,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209180,
+        "num": 209180,
+        "word": "都美竹晒详细说明回应",
+        "onboard_time": 1713489797,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202280,
+        "num": 202280,
+        "word": "周峻纬第一部古装男主剧",
+        "onboard_time": 1713497058,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197022,
+        "num": 197022,
+        "word": "数码宝贝 小时候vs长大后",
+        "onboard_time": 1713496216,
+        "rank": 34,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 196668,
+        "num": 196668,
+        "word": "儿子讲述父亲疑被当猎物枪杀",
+        "onboard_time": 1713488300,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185285,
+        "num": 185285,
+        "word": "伊媒称伊朗核设施未受损",
+        "onboard_time": 1713497299,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 53864,
+        "num": 179204,
+        "word": "我最爱的秀场LOOK",
+        "onboard_time": 1713497418,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 175562,
+        "num": 175562,
+        "word": "周雨彤 保镖",
+        "onboard_time": 1713497239,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184668,
+        "num": 175230,
+        "word": "伊朗等地传出爆炸声",
+        "onboard_time": 1713489919,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 171154,
+        "num": 171154,
+        "word": "YG新女团vsHybe新女团",
+        "onboard_time": 1713488718,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165785,
+        "num": 165785,
+        "word": "跳水世界杯总决赛",
+        "onboard_time": 1713496700,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174877,
+        "num": 165636,
+        "word": "以色列",
+        "onboard_time": 1713491358,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 159563,
+        "num": 159563,
+        "word": "易烊千玺代言九号",
+        "onboard_time": 1713489500,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154551,
+        "num": 154551,
+        "word": "西安跳水总决赛今日开赛",
+        "onboard_time": 1713496878,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149074,
+        "num": 149074,
+        "word": "45岁绝经和54岁绝经哪个衰老更快",
+        "onboard_time": 1713487037,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146110,
+        "num": 146110,
+        "word": "晨起3个表现是肝在求救",
+        "onboard_time": 1713437719,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95776,
+        "num": 141588,
+        "word": "华为Pura70红圈小金标",
+        "onboard_time": 1713492798,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138028,
+        "num": 138028,
+        "word": "晚上睡觉要盖好耳朵",
+        "onboard_time": 1713487878,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135494,
+        "num": 135494,
+        "word": "气血不足的人要先学会忌口",
+        "onboard_time": 1713489977,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动党组织向最基层延伸#"
+    }
+  }
+}
