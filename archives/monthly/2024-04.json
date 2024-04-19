@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713562439601,
+  "endTime": 1713565024574,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -48931,6 +48931,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 115784,
+      "num": 115784,
+      "word": "买燃油车的人正式成了少数派",
+      "onboard_time": 1713537978,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 115737,
       "num": 115736,
       "word": "黄旭熙solo",
@@ -50001,14 +50009,6 @@
       "onboard_time": 1711987937,
       "rank": 37,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 104973,
-      "num": 104973,
-      "word": "买燃油车的人正式成了少数派",
-      "onboard_time": 1713537978,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 104891,
@@ -51660,7 +51660,7 @@
     },
     {
       "raw_hot": 75213,
-      "num": 52844,
+      "num": 57357,
       "word": "周扬青亚裔混血感",
       "onboard_time": 1713550452,
       "rank": 36,
@@ -54291,6 +54291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22471,
+      "num": 22471,
+      "word": "戚薇梦回沐之晴",
+      "onboard_time": 1713555250,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22469,
       "num": 22469,
       "word": "金像奖 黄子华",
@@ -54433,14 +54441,6 @@
       "onboard_time": 1711999571,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 20217,
-      "num": 20217,
-      "word": "戚薇梦回沐之晴",
-      "onboard_time": 1713555250,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 20143,

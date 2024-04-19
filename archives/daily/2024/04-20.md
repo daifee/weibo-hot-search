@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/20 00:23:54 ~ 2024/04/20 05:33:59
+本榜单时间：2024/04/20 00:23:54 ~ 2024/04/20 06:17:04
 </p>
 </blockquote>
 <p>
@@ -255,6 +255,12 @@ IVE新预告（热度：119210）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E7%87%83%E6%B2%B9%E8%BD%A6%E7%9A%84%E4%BA%BA%E6%AD%A3%E5%BC%8F%E6%88%90%E4%BA%86%E5%B0%91%E6%95%B0%E6%B4%BE%23" target="weibo">
+买燃油车的人正式成了少数派（热度：115784）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E9%81%934%E4%B8%AA%E6%9C%88%E7%9A%84Jennie%23" target="weibo">
 出道4个月的Jennie（热度：114995）
 </a>
@@ -275,12 +281,6 @@ IVE新预告（热度：119210）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E7%9A%84%E5%88%B7%E9%85%B8%E5%92%8C%E4%BF%AE%E6%8A%A4%E5%BF%83%E5%BE%97%23" target="weibo">
 林允的刷酸和修护心得（热度：105237）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E7%87%83%E6%B2%B9%E8%BD%A6%E7%9A%84%E4%BA%BA%E6%AD%A3%E5%BC%8F%E6%88%90%E4%BA%86%E5%B0%91%E6%95%B0%E6%B4%BE%23" target="weibo">
-买燃油车的人正式成了少数派（热度：104973）
 </a>
 </li>
 
@@ -430,7 +430,7 @@ JackeyLove说elk履历太白（热度：24243）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E6%A2%A6%E5%9B%9E%E6%B2%90%E4%B9%8B%E6%99%B4%23" target="weibo">
-戚薇梦回沐之晴（热度：20217）
+戚薇梦回沐之晴（热度：22471）
 </a>
 </li>
 

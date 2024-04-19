@@ -1,6 +1,6 @@
 {
   "startTime": 1713543834648,
-  "endTime": 1713562439601,
+  "endTime": 1713565024574,
   "band_list": [
     {
       "raw_hot": 1194561,
@@ -323,6 +323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115784,
+      "num": 115784,
+      "word": "买燃油车的人正式成了少数派",
+      "onboard_time": 1713537978,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 114995,
       "num": 99384,
       "word": "出道4个月的Jennie",
@@ -353,14 +361,6 @@
       "onboard_time": 1713538879,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104973,
-      "num": 104973,
-      "word": "买燃油车的人正式成了少数派",
-      "onboard_time": 1713537978,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 97932,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 75213,
-      "num": 52844,
+      "num": 57357,
       "word": "周扬青亚裔混血感",
       "onboard_time": 1713550452,
       "rank": 36,
@@ -555,8 +555,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20217,
-      "num": 20217,
+      "raw_hot": 22471,
+      "num": 22471,
       "word": "戚薇梦回沐之晴",
       "onboard_time": 1713555250,
       "rank": 40,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 20127,
-      "num": 20127,
+      "num": 20431,
       "word": "氯雷他定",
       "onboard_time": 1713555791,
       "rank": 33,
