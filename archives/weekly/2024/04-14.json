@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713529919430,
+  "endTime": 1713530784349,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -755,6 +755,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1187050,
+      "num": 1187050,
+      "word": "霉霉一天顶BLACKPINK八年",
+      "onboard_time": 1713529276,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1186318,
+      "num": 1186318,
+      "word": "中国人民解放军信息支援部队",
+      "onboard_time": 1713527058,
+      "rank": 1,
+      "category": "军事"
+    },
+    {
       "raw_hot": 1172117,
       "num": 1172117,
       "word": "陈丽君 花木兰孙悟空无缝衔接",
@@ -841,14 +857,6 @@
       "onboard_time": 1713254419,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1111334,
-      "num": 1111334,
-      "word": "中国人民解放军信息支援部队",
-      "onboard_time": 1713527058,
-      "rank": 1,
-      "category": "军事"
     },
     {
       "raw_hot": 1102555,
@@ -1332,7 +1340,7 @@
     },
     {
       "raw_hot": 916851,
-      "num": 409638,
+      "num": 440479,
       "word": "肖战是学弟公认的校草",
       "onboard_time": 1713527298,
       "rank": 10,
@@ -2403,6 +2411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 671212,
+      "num": 671212,
+      "word": "陈昊宇分数",
+      "onboard_time": 1713528857,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 668458,
       "num": 668458,
       "word": "软脚虾",
@@ -3107,14 +3123,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 557022,
-      "num": 557022,
-      "word": "霉霉一天顶BLACKPINK八年",
-      "onboard_time": 1713529276,
-      "rank": 4,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 556839,
       "num": 556839,
       "word": "小米高管否认卖一部SU7亏6800元",
@@ -3145,14 +3153,6 @@
       "onboard_time": 1713415279,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 554850,
-      "num": 554850,
-      "word": "陈昊宇分数",
-      "onboard_time": 1713528857,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 554587,
@@ -3571,6 +3571,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 509205,
+      "num": 509205,
+      "word": "信息支援部队是全新打造的战略性兵种",
+      "onboard_time": 1713528617,
+      "rank": 8,
+      "category": "军事,国内时政"
+    },
+    {
       "raw_hot": 507819,
       "num": 507819,
       "word": "荣梓杉方回应中戏北电双第一",
@@ -3764,7 +3772,7 @@
     },
     {
       "raw_hot": 488770,
-      "num": 406774,
+      "num": 431251,
       "word": "孙颖莎vs郑怡静",
       "onboard_time": 1713529397,
       "rank": 11,
@@ -3777,14 +3785,6 @@
       "onboard_time": 1713352698,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 486780,
-      "num": 486780,
-      "word": "信息支援部队是全新打造的战略性兵种",
-      "onboard_time": 1713528617,
-      "rank": 8,
-      "category": "军事,国内时政"
     },
     {
       "raw_hot": 486007,
@@ -6507,6 +6507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 299394,
+      "num": 299394,
+      "word": "陈丽君初舞台第三",
+      "onboard_time": 1713528379,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298875,
       "num": 298875,
       "word": "猫一杯",
@@ -6537,6 +6545,14 @@
       "onboard_time": 1713175998,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297879,
+      "num": 297879,
+      "word": "向佐上带娃综艺了",
+      "onboard_time": 1713529697,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 297391,
@@ -6929,6 +6945,14 @@
       "onboard_time": 1713342258,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 275071,
+      "num": 193826,
+      "word": "李书福谈未来汽车创新",
+      "onboard_time": 1713529938,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 275043,
@@ -7385,6 +7409,14 @@
       "onboard_time": 1713209291,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 257665,
+      "num": 257665,
+      "word": "JackeyLove说elk履历太白",
+      "onboard_time": 1713529397,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 257489,
@@ -9075,14 +9107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210388,
-      "num": 210388,
-      "word": "陈丽君初舞台第三",
-      "onboard_time": 1713528379,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 210383,
       "num": 210383,
       "word": "失业中产卖房自救",
@@ -9963,6 +9987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196174,
+      "num": 196174,
+      "word": "成都AG二连鸡",
+      "onboard_time": 1713530178,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195909,
       "num": 169536,
       "word": "范丞丞奔跑吧表情包上新了",
@@ -10361,6 +10393,14 @@
       "onboard_time": 1713234558,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 190172,
+      "num": 190172,
+      "word": "狼队第五人格",
+      "onboard_time": 1713261197,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 190053,
@@ -11235,14 +11275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 176739,
-      "num": 176739,
-      "word": "JackeyLove说elk履历太白",
-      "onboard_time": 1713529397,
-      "rank": 23,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 176554,
       "num": 176554,
       "word": "宋雨琦跑男路透",
@@ -11289,6 +11321,14 @@
       "onboard_time": 1713268097,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175820,
+      "num": 159267,
+      "word": "林高远晋级四强",
+      "onboard_time": 1713530417,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 175732,
@@ -11699,12 +11739,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169109,
-      "num": 137118,
-      "word": "向佐上带娃综艺了",
-      "onboard_time": 1713529697,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 169241,
+      "num": 169241,
+      "word": "AG对战WB",
+      "onboard_time": 1713530417,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 169104,
@@ -12033,6 +12073,14 @@
       "onboard_time": 1713093678,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164471,
+      "num": 128331,
+      "word": "贺峻霖回中传了",
+      "onboard_time": 1713530178,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 164287,
@@ -12523,12 +12571,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155787,
+      "num": 155577,
+      "word": "伊朗高官称暂无立即报复以色列计划",
+      "onboard_time": 1713530118,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 155783,
       "num": 155783,
       "word": "国铁集团回应五一有车次开售即秒光",
       "onboard_time": 1713349520,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155701,
+      "num": 155701,
+      "word": "哪吒",
+      "onboard_time": 1713528797,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 155608,
@@ -12979,12 +13043,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150994,
-      "num": 150994,
-      "word": "哪吒",
-      "onboard_time": 1713528797,
-      "rank": 33,
-      "category": "汽车"
+      "raw_hot": 150945,
+      "num": 128311,
+      "word": "文咏珊好薄一片",
+      "onboard_time": 1713528677,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 150757,
@@ -14523,6 +14587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 128338,
+      "num": 128338,
+      "word": "中国人民解放军形成新型军兵种结构布局",
+      "onboard_time": 1713530538,
+      "rank": 39,
+      "category": "军事,国内时政"
+    },
+    {
       "raw_hot": 128258,
       "num": 128258,
       "word": "山西省国道241工程被举报存重大隐患",
@@ -14537,6 +14609,14 @@
       "onboard_time": 1713494957,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 128208,
+      "num": 128208,
+      "word": "丁克现状",
+      "onboard_time": 1713530597,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 128178,
@@ -14747,14 +14827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124028,
-      "num": 124028,
-      "word": "狼队第五人格",
-      "onboard_time": 1713261197,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 123761,
       "num": 123761,
       "word": "中毒都不知道是哪个人下的",
@@ -14793,6 +14865,14 @@
       "onboard_time": 1713165557,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122994,
+      "num": 128258,
+      "word": "KPL",
+      "onboard_time": 1713529157,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 122984,
@@ -15041,14 +15121,6 @@
       "onboard_time": 1713321258,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118959,
-      "num": 112513,
-      "word": "KPL",
-      "onboard_time": 1713529157,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 118812,
@@ -15699,20 +15771,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101768,
+      "num": 101768,
+      "word": "谷雨也是联合国中文日",
+      "onboard_time": 1713526517,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101742,
       "num": 90797,
       "word": "苏打绿演唱会 盗摄",
       "onboard_time": 1713011957,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 101739,
-      "num": 101739,
-      "word": "谷雨也是联合国中文日",
-      "onboard_time": 1713526517,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100843,

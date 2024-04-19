@@ -1,0 +1,410 @@
+{
+  "runTime": 1713530784349,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1187050,
+        "num": 1187050,
+        "word": "霉霉一天顶BLACKPINK八年",
+        "onboard_time": 1713529276,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1186318,
+        "num": 1186318,
+        "word": "中国人民解放军信息支援部队",
+        "onboard_time": 1713527058,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 40196,
+        "num": 873787,
+        "word": "第14届北京国际电影节",
+        "onboard_time": 1713516377,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 855117,
+        "num": 855117,
+        "word": "林高远vs樊振东",
+        "onboard_time": 1713526997,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 763110,
+        "num": 763110,
+        "word": "林高远4比2樊振东",
+        "onboard_time": 1713529397,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 671212,
+        "num": 671212,
+        "word": "陈昊宇分数",
+        "onboard_time": 1713528857,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541263,
+        "num": 541263,
+        "word": "延禧攻略",
+        "onboard_time": 1713519077,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509205,
+        "num": 509205,
+        "word": "信息支援部队是全新打造的战略性兵种",
+        "onboard_time": 1713528617,
+        "rank": 7,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 508725,
+        "num": 508725,
+        "word": "五一调休考虑过单休的人吗",
+        "onboard_time": 1713505099,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162549,
+        "num": 440942,
+        "word": "面包车自燃幼儿园老师徒手拖走旁边车",
+        "onboard_time": 1713510318,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854007,
+        "num": 440479,
+        "word": "肖战是学弟公认的校草",
+        "onboard_time": 1713527298,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431251,
+        "num": 431251,
+        "word": "孙颖莎vs郑怡静",
+        "onboard_time": 1713529397,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379760,
+        "num": 379760,
+        "word": "向太怎么也来参加浪姐了",
+        "onboard_time": 1713507319,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300306,
+        "num": 300306,
+        "word": "虞书欣黑雪公主",
+        "onboard_time": 1713526216,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299394,
+        "num": 299394,
+        "word": "陈丽君初舞台第三",
+        "onboard_time": 1713528379,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297879,
+        "num": 297879,
+        "word": "向佐上带娃综艺了",
+        "onboard_time": 1713529697,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266007,
+        "num": 266007,
+        "word": "美臀羊羊",
+        "onboard_time": 1713523576,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 262132,
+        "num": 262132,
+        "word": "浪姐初舞台排名",
+        "onboard_time": 1713512658,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257665,
+        "num": 257665,
+        "word": "JackeyLove说elk履历太白",
+        "onboard_time": 1713529397,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196174,
+        "num": 196174,
+        "word": "成都AG二连鸡",
+        "onboard_time": 1713530178,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 275071,
+        "num": 193826,
+        "word": "李书福谈未来汽车创新",
+        "onboard_time": 1713529938,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1042089,
+        "num": 192893,
+        "word": "张予曦 可以不喝哑药吗",
+        "onboard_time": 1713524597,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579103,
+        "num": 192351,
+        "word": "朱丹 不许聊家庭孩子",
+        "onboard_time": 1713525018,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190172,
+        "num": 190172,
+        "word": "狼队第五人格",
+        "onboard_time": 1713530237,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186882,
+        "num": 186882,
+        "word": "国防部谈信息支援部队成立",
+        "onboard_time": 1713528857,
+        "rank": 24,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 572273,
+        "num": 186695,
+        "word": "刘诗诗麻辣女教师",
+        "onboard_time": 1713524778,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 478986,
+        "num": 180317,
+        "word": "周扬青rap 罗志祥",
+        "onboard_time": 1713510978,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379109,
+        "num": 174802,
+        "word": "张小斐表情 真的心疼",
+        "onboard_time": 1713521237,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243957,
+        "num": 172279,
+        "word": "霉霉也玩第五人格",
+        "onboard_time": 1713522257,
+        "rank": 28,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 169241,
+        "num": 169241,
+        "word": "AG对战WB",
+        "onboard_time": 1713530417,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188109,
+        "num": 166940,
+        "word": "范丞丞奔跑吧表情包上新了",
+        "onboard_time": 1713529576,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183000,
+        "num": 161577,
+        "word": "周杰伦杭州演唱会",
+        "onboard_time": 1713527778,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175820,
+        "num": 159267,
+        "word": "林高远晋级四强",
+        "onboard_time": 1713530417,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155701,
+        "num": 155701,
+        "word": "哪吒",
+        "onboard_time": 1713528797,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155787,
+        "num": 155577,
+        "word": "伊朗高官称暂无立即报复以色列计划",
+        "onboard_time": 1713530118,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 182311,
+        "num": 155241,
+        "word": "奔跑吧",
+        "onboard_time": 1713530417,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176434,
+        "num": 154823,
+        "word": "侃爷殴打涉嫌性侵妻子的男子",
+        "onboard_time": 1713512898,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153310,
+        "num": 153310,
+        "word": "一顿小龙虾跌至一杯奶茶钱",
+        "onboard_time": 1713522257,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134250,
+        "num": 134250,
+        "word": "王曼昱vs早田希娜",
+        "onboard_time": 1713523939,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128338,
+        "num": 128338,
+        "word": "中国人民解放军形成新型军兵种结构布局",
+        "onboard_time": 1713530538,
+        "rank": 39,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 164471,
+        "num": 128331,
+        "word": "贺峻霖回中传了",
+        "onboard_time": 1713530178,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150945,
+        "num": 128311,
+        "word": "文咏珊好薄一片",
+        "onboard_time": 1713528677,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144493,
+        "num": 128284,
+        "word": "李沁女团妆",
+        "onboard_time": 1713525197,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122994,
+        "num": 128258,
+        "word": "KPL",
+        "onboard_time": 1713529157,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144365,
+        "num": 128241,
+        "word": "戚薇唱了如果爱忘了",
+        "onboard_time": 1713507258,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133558,
+        "num": 128216,
+        "word": "向晚毕业",
+        "onboard_time": 1713529338,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128208,
+        "num": 128208,
+        "word": "丁克现状",
+        "onboard_time": 1713530597,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127426,
+        "num": 127426,
+        "word": "齐达内 拜仁",
+        "onboard_time": 1713527417,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107061,
+        "num": 107061,
+        "word": "女生骑行前后体重有什么变化",
+        "onboard_time": 1713528317,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 101768,
+        "num": 101768,
+        "word": "谷雨也是联合国中文日",
+        "onboard_time": 1713526517,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记要求时刻绷紧这根弦#"
+    }
+  }
+}
