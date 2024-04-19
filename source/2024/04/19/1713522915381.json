@@ -1,0 +1,410 @@
+{
+  "runTime": 1713522915381,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1076522,
+        "num": 1076522,
+        "word": "延禧攻略",
+        "onboard_time": 1713519077,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 996999,
+        "num": 996999,
+        "word": "湘潭大学身亡学生死因在调查",
+        "onboard_time": 1713515178,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52428,
+        "num": 584807,
+        "word": "第14届北京国际电影节",
+        "onboard_time": 1713516377,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 495589,
+        "num": 495589,
+        "word": "湘潭大学否认丢失秋水仙碱致学生身亡",
+        "onboard_time": 1713518239,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411949,
+        "num": 411949,
+        "word": "张小斐表情 真的心疼",
+        "onboard_time": 1713521237,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 933452,
+        "num": 396287,
+        "word": "周扬青rap 罗志祥",
+        "onboard_time": 1713510978,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 876032,
+        "num": 393940,
+        "word": "五一调休考虑过单休的人吗",
+        "onboard_time": 1713505099,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371262,
+        "num": 371262,
+        "word": "浪姐初舞台排名",
+        "onboard_time": 1713512658,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140370,
+        "num": 344617,
+        "word": "这么好玩的幼儿园建议全国推广",
+        "onboard_time": 1713520218,
+        "rank": 8,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 185190,
+        "num": 343961,
+        "word": "面包车自燃幼儿园老师徒手拖走旁边车",
+        "onboard_time": 1713510318,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343667,
+        "num": 343667,
+        "word": "向太怎么也来参加浪姐了",
+        "onboard_time": 1713507319,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328809,
+        "num": 328809,
+        "word": "霉霉也玩第五人格",
+        "onboard_time": 1713522257,
+        "rank": 11,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 313124,
+        "num": 313124,
+        "word": "戚薇唱了如果爱忘了",
+        "onboard_time": 1713507258,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303880,
+        "num": 303880,
+        "word": "火箭少女101为Yamy打call",
+        "onboard_time": 1713512118,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252110,
+        "num": 252110,
+        "word": "女子支付宝蒙口令领走1万元红包",
+        "onboard_time": 1713503899,
+        "rank": 14,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 269775,
+        "num": 243030,
+        "word": "白鹿cos朱迪兔警官",
+        "onboard_time": 1713518358,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225963,
+        "num": 225963,
+        "word": "全球资本市场巨震",
+        "onboard_time": 1713512417,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 221820,
+        "num": 221820,
+        "word": "LPL春决媒体发布会",
+        "onboard_time": 1713520938,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203090,
+        "num": 203090,
+        "word": "刚刷到下铺拉帘子的大学生自己就遇到了",
+        "onboard_time": 1713520519,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184530,
+        "num": 184530,
+        "word": "以色列导弹袭击了伊朗目标",
+        "onboard_time": 1713493159,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 663101,
+        "num": 184426,
+        "word": "侃爷殴打涉嫌性侵妻子的男子",
+        "onboard_time": 1713512898,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268219,
+        "num": 183370,
+        "word": "我弟弟暗恋了我闺蜜10年",
+        "onboard_time": 1713505817,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455974,
+        "num": 182872,
+        "word": "张元英再现神级转圈",
+        "onboard_time": 1713514398,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310358,
+        "num": 182364,
+        "word": "女生结婚收到一车辣条随礼",
+        "onboard_time": 1713517579,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277895,
+        "num": 181509,
+        "word": "经常读书和不读书有什么区别",
+        "onboard_time": 1713519136,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250789,
+        "num": 181022,
+        "word": "中国养生在好莱坞有多火",
+        "onboard_time": 1713522377,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 220113,
+        "num": 180188,
+        "word": "沈梦辰杜海涛又发糖了",
+        "onboard_time": 1713521598,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186208,
+        "num": 179645,
+        "word": "她可是万妮达",
+        "onboard_time": 1713515416,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179506,
+        "num": 179506,
+        "word": "12306 存钱",
+        "onboard_time": 1713500959,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178402,
+        "num": 178402,
+        "word": "一顿小龙虾跌至一杯奶茶钱",
+        "onboard_time": 1713522257,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 170316,
+        "num": 170316,
+        "word": "湘潭大学回应网传学生偷外卖被毒死",
+        "onboard_time": 1713503538,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163341,
+        "num": 163341,
+        "word": "4月唯一正常的一周",
+        "onboard_time": 1713514577,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155865,
+        "num": 155865,
+        "word": "李溪芮漫画腿",
+        "onboard_time": 1713522677,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154944,
+        "num": 154944,
+        "word": "赵昭仪在一声声叫好中迷失自我",
+        "onboard_time": 1713519557,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154503,
+        "num": 154503,
+        "word": "周杰伦演唱会一女子迟到后崩溃大哭",
+        "onboard_time": 1713511697,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153251,
+        "num": 153251,
+        "word": "伊以冲突",
+        "onboard_time": 1713501320,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 152847,
+        "num": 152847,
+        "word": "张予曦人长得美 唱歌就算了",
+        "onboard_time": 1713503060,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149994,
+        "num": 149994,
+        "word": "华为呼吁全国应用尽快加入鸿蒙",
+        "onboard_time": 1713522498,
+        "rank": 37,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 137801,
+        "num": 137801,
+        "word": "我妈问我为什么1500不够花",
+        "onboard_time": 1713506238,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132783,
+        "num": 132783,
+        "word": "尚雯婕切何洁",
+        "onboard_time": 1713502278,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130934,
+        "num": 130934,
+        "word": "Gr对战ZETA",
+        "onboard_time": 1713522077,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127935,
+        "num": 127935,
+        "word": "小伞树奈奈领证",
+        "onboard_time": 1713518118,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121000,
+        "num": 121000,
+        "word": "男生被同学反锁宿舍群殴",
+        "onboard_time": 1713512598,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119275,
+        "num": 119275,
+        "word": "哪吒CEO疑回应直播被和雷军对比",
+        "onboard_time": 1713520938,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119169,
+        "num": 119169,
+        "word": "生完小孩后走路再也不像之前那样了",
+        "onboard_time": 1713512837,
+        "rank": 44,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 118929,
+        "num": 118929,
+        "word": "乘风2024",
+        "onboard_time": 1713499398,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118672,
+        "num": 118672,
+        "word": "苗苗浪姐初舞台站反了",
+        "onboard_time": 1713505817,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118261,
+        "num": 118261,
+        "word": "浪姐初舞台",
+        "onboard_time": 1713501979,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117458,
+        "num": 117458,
+        "word": "李雨桐说日久见人心",
+        "onboard_time": 1713518177,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7114,
+        "num": 110116,
+        "word": "优衣库T恤破吉尼斯纪录",
+        "onboard_time": 1713522858,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#发挥超大市场优势和内需潜力为各国合作提供更多机遇#"
+    }
+  }
+}

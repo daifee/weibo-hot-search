@@ -1,6 +1,6 @@
 {
   "startTime": 1713457373132,
-  "endTime": 1713521975607,
+  "endTime": 1713522915381,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -107,6 +107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1076522,
+      "num": 1076522,
+      "word": "延禧攻略",
+      "onboard_time": 1713519077,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1072163,
       "num": 1072163,
       "word": "巴勒斯坦入联申请遭美一票否决",
@@ -161,14 +169,6 @@
       "onboard_time": 1713491418,
       "rank": 3,
       "category": "电影,美妆"
-    },
-    {
-      "raw_hot": 973584,
-      "num": 973584,
-      "word": "延禧攻略",
-      "onboard_time": 1713519077,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 940302,
@@ -523,6 +523,14 @@
       "category": "财经,军事"
     },
     {
+      "raw_hot": 495589,
+      "num": 495589,
+      "word": "湘潭大学否认丢失秋水仙碱致学生身亡",
+      "onboard_time": 1713518239,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485953,
       "num": 485953,
       "word": "刘亦菲微醺",
@@ -555,14 +563,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 447763,
-      "num": 447763,
-      "word": "湘潭大学否认丢失秋水仙碱致学生身亡",
-      "onboard_time": 1713518239,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 430495,
       "num": 430495,
       "word": "晚上睡觉要盖好耳朵",
@@ -593,6 +593,14 @@
       "onboard_time": 1713495198,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411949,
+      "num": 411949,
+      "word": "张小斐表情 真的心疼",
+      "onboard_time": 1713521237,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 394384,
@@ -745,6 +753,14 @@
       "onboard_time": 1713493397,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 328809,
+      "num": 328809,
+      "word": "霉霉也玩第五人格",
+      "onboard_time": 1713522257,
+      "rank": 11,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 328202,
@@ -915,6 +931,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 269775,
+      "num": 243030,
+      "word": "白鹿cos朱迪兔警官",
+      "onboard_time": 1713518358,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264059,
       "num": 217733,
       "word": "张远也要失联了",
@@ -987,12 +1011,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 248542,
-      "num": 248542,
-      "word": "张小斐表情 真的心疼",
-      "onboard_time": 1713521237,
-      "rank": 16,
-      "category": "电影"
+      "raw_hot": 250789,
+      "num": 181022,
+      "word": "中国养生在好莱坞有多火",
+      "onboard_time": 1713522377,
+      "rank": 25,
+      "category": "美妆"
     },
     {
       "raw_hot": 248416,
@@ -1025,14 +1049,6 @@
       "onboard_time": 1713480553,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 235851,
-      "num": 192118,
-      "word": "白鹿cos朱迪兔警官",
-      "onboard_time": 1713518358,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 231918,
@@ -1115,6 +1131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 221820,
+      "num": 221820,
+      "word": "LPL春决媒体发布会",
+      "onboard_time": 1713520938,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 221709,
       "num": 221709,
       "word": "文彬",
@@ -1128,6 +1152,14 @@
       "word": "NCT新应援棒",
       "onboard_time": 1713511697,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220113,
+      "num": 182407,
+      "word": "沈梦辰杜海涛又发糖了",
+      "onboard_time": 1713521598,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -1243,6 +1275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 203090,
+      "num": 203090,
+      "word": "刚刷到下铺拉帘子的大学生自己就遇到了",
+      "onboard_time": 1713520519,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201436,
       "num": 201436,
       "word": "数码宝贝 小时候vs长大后",
@@ -1305,14 +1345,6 @@
       "onboard_time": 1713513319,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 195447,
-      "num": 195447,
-      "word": "LPL春决媒体发布会",
-      "onboard_time": 1713520938,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 194347,
@@ -1403,14 +1435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 182407,
-      "num": 182407,
-      "word": "沈梦辰杜海涛又发糖了",
-      "onboard_time": 1713521598,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181362,
       "num": 181362,
       "word": "F1中国大奖赛",
@@ -1441,6 +1465,14 @@
       "onboard_time": 1713518539,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178402,
+      "num": 178402,
+      "word": "一顿小龙虾跌至一杯奶茶钱",
+      "onboard_time": 1713522257,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 177209,
@@ -1611,12 +1643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156132,
-      "num": 156132,
-      "word": "刚刷到下铺拉帘子的大学生自己就遇到了",
-      "onboard_time": 1713520519,
+      "raw_hot": 155865,
+      "num": 155865,
+      "word": "李溪芮漫画腿",
+      "onboard_time": 1713522677,
       "rank": 32,
-      "category": "幽默"
+      "category": "综艺"
     },
     {
       "raw_hot": 154551,
@@ -1707,6 +1739,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 149994,
+      "num": 149994,
+      "word": "华为呼吁全国应用尽快加入鸿蒙",
+      "onboard_time": 1713522498,
+      "rank": 37,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 149988,
       "num": 149988,
       "word": "被北大学生的执行力震惊",
@@ -1785,6 +1825,14 @@
       "onboard_time": 1713490456,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140370,
+      "num": 359907,
+      "word": "这么好玩的幼儿园建议全国推广",
+      "onboard_time": 1713520218,
+      "rank": 8,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 140016,
@@ -1867,6 +1915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130934,
+      "num": 130934,
+      "word": "Gr对战ZETA",
+      "onboard_time": 1713522077,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130125,
       "num": 130125,
       "word": "陈丽君抹眉心一秒变妆",
@@ -1913,14 +1969,6 @@
       "onboard_time": 1713442038,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 125088,
-      "num": 359907,
-      "word": "这么好玩的幼儿园建议全国推广",
-      "onboard_time": 1713520218,
-      "rank": 8,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 123253,
@@ -2473,6 +2521,14 @@
       "onboard_time": 1713472211,
       "rank": 39,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 7114,
+      "num": 110116,
+      "word": "优衣库T恤破吉尼斯纪录",
+      "onboard_time": 1713522858,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 2240,

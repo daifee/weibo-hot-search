@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713521975607,
+  "endTime": 1713522915381,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -875,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1076522,
+      "num": 1076522,
+      "word": "延禧攻略",
+      "onboard_time": 1713519077,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1072163,
       "num": 1072163,
       "word": "巴勒斯坦入联申请遭美一票否决",
@@ -1137,14 +1145,6 @@
       "onboard_time": 1713159497,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 973584,
-      "num": 973584,
-      "word": "延禧攻略",
-      "onboard_time": 1713519077,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 971424,
@@ -3587,6 +3587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 495589,
+      "num": 495589,
+      "word": "湘潭大学否认丢失秋水仙碱致学生身亡",
+      "onboard_time": 1713518239,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495374,
       "num": 495374,
       "word": "金秀贤金智媛不再合体",
@@ -4059,14 +4067,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 447763,
-      "num": 447763,
-      "word": "湘潭大学否认丢失秋水仙碱致学生身亡",
-      "onboard_time": 1713518239,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 446976,
       "num": 270916,
       "word": "30岁了还在应聘基础岗位",
@@ -4473,6 +4473,14 @@
       "onboard_time": 1713495198,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411949,
+      "num": 411949,
+      "word": "张小斐表情 真的心疼",
+      "onboard_time": 1713521237,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 411727,
@@ -5795,6 +5803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 328809,
+      "num": 328809,
+      "word": "霉霉也玩第五人格",
+      "onboard_time": 1713522257,
+      "rank": 11,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 328202,
       "num": 328202,
       "word": "孙子被爷爷教训后举报爷爷有枪",
@@ -6891,6 +6907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269775,
+      "num": 243030,
+      "word": "白鹿cos朱迪兔警官",
+      "onboard_time": 1713518358,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268844,
       "num": 268844,
       "word": "门科",
@@ -7363,6 +7387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250789,
+      "num": 181022,
+      "word": "中国养生在好莱坞有多火",
+      "onboard_time": 1713522377,
+      "rank": 25,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 250522,
       "num": 250522,
       "word": "朱一龙36岁状态",
@@ -7425,14 +7457,6 @@
       "onboard_time": 1713171198,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 248542,
-      "num": 248542,
-      "word": "张小斐表情 真的心疼",
-      "onboard_time": 1713521237,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 248511,
@@ -7833,14 +7857,6 @@
       "onboard_time": 1713278421,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235851,
-      "num": 192118,
-      "word": "白鹿cos朱迪兔警官",
-      "onboard_time": 1713518358,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 235357,
@@ -8355,6 +8371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 221820,
+      "num": 221820,
+      "word": "LPL春决媒体发布会",
+      "onboard_time": 1713520938,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 221709,
       "num": 221709,
       "word": "文彬",
@@ -8417,6 +8441,14 @@
       "onboard_time": 1713257479,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220113,
+      "num": 182407,
+      "word": "沈梦辰杜海涛又发糖了",
+      "onboard_time": 1713521598,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 220095,
@@ -9219,6 +9251,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 203090,
+      "num": 203090,
+      "word": "刚刷到下铺拉帘子的大学生自己就遇到了",
+      "onboard_time": 1713520519,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202923,
       "num": 202923,
       "word": "三丽鸥明星人气评选",
@@ -9769,14 +9809,6 @@
       "onboard_time": 1713228380,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195447,
-      "num": 195447,
-      "word": "LPL春决媒体发布会",
-      "onboard_time": 1713520938,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 195415,
@@ -10659,14 +10691,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 182407,
-      "num": 182407,
-      "word": "沈梦辰杜海涛又发糖了",
-      "onboard_time": 1713521598,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182388,
       "num": 182388,
       "word": "商务部回应美国对华发起新的301调查",
@@ -10897,6 +10921,14 @@
       "onboard_time": 1713518539,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178402,
+      "num": 178402,
+      "word": "一顿小龙虾跌至一杯奶茶钱",
+      "onboard_time": 1713522257,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 178247,
@@ -12203,14 +12235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156132,
-      "num": 156132,
-      "word": "刚刷到下铺拉帘子的大学生自己就遇到了",
-      "onboard_time": 1713520519,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156113,
       "num": 156113,
       "word": "读研读通透了",
@@ -12233,6 +12257,14 @@
       "onboard_time": 1713068238,
       "rank": 47,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 155865,
+      "num": 155865,
+      "word": "李溪芮漫画腿",
+      "onboard_time": 1713522677,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 155792,
@@ -12737,6 +12769,14 @@
       "onboard_time": 1713181697,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149994,
+      "num": 149994,
+      "word": "华为呼吁全国应用尽快加入鸿蒙",
+      "onboard_time": 1713522498,
+      "rank": 37,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 149988,
@@ -13523,6 +13563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140370,
+      "num": 359907,
+      "word": "这么好玩的幼儿园建议全国推广",
+      "onboard_time": 1713520218,
+      "rank": 8,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 140337,
       "num": 140337,
       "word": "萌探2024宣传片全员表情失控",
@@ -14067,6 +14115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130934,
+      "num": 130934,
+      "word": "Gr对战ZETA",
+      "onboard_time": 1713522077,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130834,
       "num": 130834,
       "word": "调休把生活节奏调的稀巴烂",
@@ -14337,14 +14393,6 @@
       "onboard_time": 1713092538,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125088,
-      "num": 359907,
-      "word": "这么好玩的幼儿园建议全国推广",
-      "onboard_time": 1713520218,
-      "rank": 8,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 125072,
@@ -16809,6 +16857,14 @@
       "onboard_time": 1713070518,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 7114,
+      "num": 110116,
+      "word": "优衣库T恤破吉尼斯纪录",
+      "onboard_time": 1713522858,
+      "rank": 49,
+      "category": "时尚"
     }
   ],
   "hotgov_list": [
