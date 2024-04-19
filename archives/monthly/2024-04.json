@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713501269535,
+  "endTime": 1713503848036,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -633,6 +633,14 @@
       "onboard_time": 1712589379,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1985219,
+      "num": 1985219,
+      "word": "12306 存钱",
+      "onboard_time": 1713500959,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1983650,
@@ -3881,6 +3889,14 @@
       "onboard_time": 1712726898,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1000308,
+      "num": 1000308,
+      "word": "尚雯婕切何洁",
+      "onboard_time": 1713502278,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 999550,
@@ -7515,6 +7531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 688351,
+      "num": 650588,
+      "word": "浪姐初舞台",
+      "onboard_time": 1713501979,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 688097,
       "num": 688097,
       "word": "原来散步才是真纯爱",
@@ -7827,6 +7851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 667975,
+      "num": 352838,
+      "word": "当县城体制内女孩不想结婚",
+      "onboard_time": 1713500238,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 667654,
       "num": 667654,
       "word": "戚薇说夹夹更健康",
@@ -8041,6 +8073,14 @@
       "onboard_time": 1711970002,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 655099,
+      "num": 655099,
+      "word": "伊朗宣布所有基地处于最高级别战备状态",
+      "onboard_time": 1713499759,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 654885,
@@ -11275,6 +11315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 516472,
+      "num": 516472,
+      "word": "南湘回来了",
+      "onboard_time": 1713502578,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 516400,
       "num": 516400,
       "word": "唐鹤德希望今天是复活节",
@@ -12731,6 +12779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 470797,
+      "num": 465028,
+      "word": "张予曦人长得美 唱歌就算了",
+      "onboard_time": 1713503060,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 470760,
       "num": 470760,
       "word": "沈图南 孤雁",
@@ -13009,14 +13065,6 @@
       "onboard_time": 1712988136,
       "rank": 14,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 463368,
-      "num": 463368,
-      "word": "伊朗宣布所有基地处于最高级别战备状态",
-      "onboard_time": 1713499759,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 463365,
@@ -16299,6 +16347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379978,
+      "num": 379978,
+      "word": "朱亚文演王一博的爸爸",
+      "onboard_time": 1713502340,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 379783,
       "num": 379783,
       "word": "黄梦莹一开口素锦就回来了",
@@ -18225,14 +18281,6 @@
       "onboard_time": 1713081678,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337973,
-      "num": 337973,
-      "word": "当县城体制内女孩不想结婚",
-      "onboard_time": 1713500238,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 337831,
@@ -26643,6 +26691,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 226709,
+      "num": 226709,
+      "word": "文旅委称未掌握薛之谦演唱会互动造假证据",
+      "onboard_time": 1713501621,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 226699,
       "num": 226699,
       "word": "周冠宇F1主场登场",
@@ -26993,14 +27049,6 @@
       "onboard_time": 1712223079,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 223912,
-      "num": 223912,
-      "word": "12306 存钱",
-      "onboard_time": 1713500959,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223863,
@@ -27536,6 +27584,14 @@
       "word": "逃离大厂后我考公上岸",
       "onboard_time": 1713429558,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218757,
+      "num": 218757,
+      "word": "湘潭大学回应网传学生偷外卖被毒死",
+      "onboard_time": 1713503538,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -28625,6 +28681,14 @@
       "onboard_time": 1712056819,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210571,
+      "num": 210571,
+      "word": "fortnight",
+      "onboard_time": 1713503479,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 210534,
@@ -34011,6 +34075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 186443,
+      "num": 186443,
+      "word": "TTPD",
+      "onboard_time": 1713502639,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186400,
       "num": 186400,
       "word": "卢洋洋穿搭",
@@ -35752,6 +35824,14 @@
       "word": "打疫苗主动撅起屁股的狗狗",
       "onboard_time": 1713344119,
       "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 176904,
+      "num": 176904,
+      "word": "狗窝尺码买错了",
+      "onboard_time": 1713502278,
+      "rank": 37,
       "category": "幽默"
     },
     {
@@ -41051,6 +41131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150022,
+      "num": 150022,
+      "word": "老外狂赞中国支付",
+      "onboard_time": 1713503719,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 150021,
       "num": 150021,
       "word": "林高远说自己发挥偏保守",
@@ -41201,6 +41289,14 @@
       "onboard_time": 1712844379,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149253,
+      "num": 149253,
+      "word": "米游社崩了",
+      "onboard_time": 1713501738,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 149221,
@@ -45051,6 +45147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130125,
+      "num": 130125,
+      "word": "陈丽君抹眉心一秒变妆",
+      "onboard_time": 1713503780,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130092,
       "num": 130092,
       "word": "幽兰救沈璃上大分",
@@ -47387,6 +47491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113692,
+      "num": 113692,
+      "word": "承欢记欢乐买麦",
+      "onboard_time": 1713503780,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113552,
       "num": 113552,
       "word": "诺米的故事",
@@ -49097,6 +49209,14 @@
       "onboard_time": 1712704516,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91521,
+      "num": 204020,
+      "word": "AI音乐概念股",
+      "onboard_time": 1713503118,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 91293,
@@ -51083,6 +51203,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 47110,
+      "num": 1150692,
+      "word": "潮起互联网奔涌三十年",
+      "onboard_time": 1713498738,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46944,
       "num": 46944,
       "word": "XG掉入败者组",
@@ -51137,14 +51265,6 @@
       "onboard_time": 1712092751,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 45917,
-      "num": 885355,
-      "word": "潮起互联网奔涌三十年",
-      "onboard_time": 1713498738,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45804,

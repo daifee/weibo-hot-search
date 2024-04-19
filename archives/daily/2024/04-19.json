@@ -1,6 +1,6 @@
 {
   "startTime": 1713457373132,
-  "endTime": 1713501269535,
+  "endTime": 1713503848036,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -9,6 +9,14 @@
       "onboard_time": 1713493159,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1985219,
+      "num": 1985219,
+      "word": "12306 存钱",
+      "onboard_time": 1713500959,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1693310,
@@ -64,6 +72,14 @@
       "word": "乘风2024开播",
       "onboard_time": 1713495797,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1000308,
+      "num": 1000308,
+      "word": "尚雯婕切何洁",
+      "onboard_time": 1713502278,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -195,11 +211,43 @@
       "category": "演出"
     },
     {
+      "raw_hot": 688351,
+      "num": 650588,
+      "word": "浪姐初舞台",
+      "onboard_time": 1713501979,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 667975,
+      "num": 352838,
+      "word": "当县城体制内女孩不想结婚",
+      "onboard_time": 1713500238,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 655099,
+      "num": 655099,
+      "word": "伊朗宣布所有基地处于最高级别战备状态",
+      "onboard_time": 1713499759,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 630854,
       "num": 630854,
       "word": "伊朗等地传出爆炸声",
       "onboard_time": 1713489919,
       "rank": 13,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 619907,
+      "num": 619907,
+      "word": "伊以冲突",
+      "onboard_time": 1713501320,
+      "rank": 10,
       "category": "国外时政"
     },
     {
@@ -275,6 +323,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 516472,
+      "num": 516472,
+      "word": "南湘回来了",
+      "onboard_time": 1713502578,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 507354,
       "num": 507354,
       "word": "蒋勤勤摔了",
@@ -307,12 +363,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 463368,
-      "num": 463368,
-      "word": "伊朗宣布所有基地处于最高级别战备状态",
-      "onboard_time": 1713499759,
-      "rank": 30,
-      "category": "国外时政"
+      "raw_hot": 470797,
+      "num": 465028,
+      "word": "张予曦人长得美 唱歌就算了",
+      "onboard_time": 1713503060,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 430495,
@@ -379,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 379978,
+      "num": 379978,
+      "word": "朱亚文演王一博的爸爸",
+      "onboard_time": 1713502340,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 378404,
       "num": 378404,
       "word": "庆余年 短剧",
@@ -441,14 +505,6 @@
       "onboard_time": 1713485478,
       "rank": 23,
       "category": "母婴育儿,社会新闻"
-    },
-    {
-      "raw_hot": 337973,
-      "num": 337973,
-      "word": "当县城体制内女孩不想结婚",
-      "onboard_time": 1713500238,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 334447,
@@ -683,6 +739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 226709,
+      "num": 226709,
+      "word": "文旅委称未掌握薛之谦演唱会互动造假证据",
+      "onboard_time": 1713501621,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 226699,
       "num": 226699,
       "word": "周冠宇F1主场登场",
@@ -707,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223912,
-      "num": 223912,
-      "word": "12306 存钱",
-      "onboard_time": 1713500959,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223177,
       "num": 223177,
       "word": "金牛座生日快乐",
@@ -731,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218757,
+      "num": 218757,
+      "word": "湘潭大学回应网传学生偷外卖被毒死",
+      "onboard_time": 1713503538,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218450,
       "num": 218450,
       "word": "蒋勤勤报平安",
@@ -745,6 +809,14 @@
       "onboard_time": 1713500238,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 210571,
+      "num": 210571,
+      "word": "fortnight",
+      "onboard_time": 1713503479,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 201436,
@@ -803,6 +875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186443,
+      "num": 186443,
+      "word": "TTPD",
+      "onboard_time": 1713502639,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 185285,
       "num": 247076,
       "word": "伊媒称伊朗核设施未受损",
@@ -843,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176904,
+      "num": 176904,
+      "word": "狗窝尺码买错了",
+      "onboard_time": 1713502278,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175862,
       "num": 155136,
       "word": "养了九年的二哈突然攻击孩子",
@@ -857,6 +945,14 @@
       "onboard_time": 1713497239,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174493,
+      "num": 174493,
+      "word": "复旦研究生珠峰地区登山死亡",
+      "onboard_time": 1713502159,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172645,
@@ -937,6 +1033,22 @@
       "onboard_time": 1713457217,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150022,
+      "num": 150022,
+      "word": "老外狂赞中国支付",
+      "onboard_time": 1713503719,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 149253,
+      "num": 149253,
+      "word": "米游社崩了",
+      "onboard_time": 1713501738,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 148989,
@@ -1043,6 +1155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130125,
+      "num": 130125,
+      "word": "陈丽君抹眉心一秒变妆",
+      "onboard_time": 1713503780,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129624,
       "num": 121303,
       "word": "你接受周末夫妻吗",
@@ -1129,6 +1249,14 @@
       "onboard_time": 1713490338,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113692,
+      "num": 113692,
+      "word": "承欢记欢乐买麦",
+      "onboard_time": 1713503780,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 109370,
@@ -1233,6 +1361,14 @@
       "onboard_time": 1713481874,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91521,
+      "num": 204020,
+      "word": "AI音乐概念股",
+      "onboard_time": 1713503118,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 90899,
@@ -1443,8 +1579,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 45917,
-      "num": 885355,
+      "raw_hot": 47110,
+      "num": 1150692,
       "word": "潮起互联网奔涌三十年",
       "onboard_time": 1713498738,
       "rank": 2,
