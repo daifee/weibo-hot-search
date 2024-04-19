@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713533649780,
+  "endTime": 1713536188787,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1137,6 +1137,14 @@
       "onboard_time": 1712216898,
       "rank": 11,
       "category": "社会新闻,社会议题"
+    },
+    {
+      "raw_hot": 1697572,
+      "num": 1697572,
+      "word": "丁克现状",
+      "onboard_time": 1713530597,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 1693310,
@@ -3275,14 +3283,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 1097151,
-      "num": 1097151,
-      "word": "丁克现状",
-      "onboard_time": 1713530597,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1095863,
       "num": 1095863,
       "word": "韩国爱豆整容堪比大变活人",
@@ -3369,6 +3369,14 @@
       "onboard_time": 1713401358,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1081925,
+      "num": 1081925,
+      "word": "田曦薇 看得出她是公主",
+      "onboard_time": 1713531497,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 1081187,
@@ -4129,14 +4137,6 @@
       "onboard_time": 1713491418,
       "rank": 3,
       "category": "电影,美妆"
-    },
-    {
-      "raw_hot": 990193,
-      "num": 990193,
-      "word": "田曦薇 看得出她是公主",
-      "onboard_time": 1713531497,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 989160,
@@ -5273,6 +5273,14 @@
       "onboard_time": 1712132720,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 854198,
+      "num": 412726,
+      "word": "特斯拉被裁中国员工发声",
+      "onboard_time": 1713533478,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 854196,
@@ -11884,7 +11892,7 @@
     },
     {
       "raw_hot": 508893,
-      "num": 253229,
+      "num": 271133,
       "word": "肖战还给了两年的售后时间",
       "onboard_time": 1713530958,
       "rank": 22,
@@ -12387,6 +12395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492559,
+      "num": 492559,
+      "word": "王楚钦vs张禹珍",
+      "onboard_time": 1713532038,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 491803,
       "num": 386995,
       "word": "这是我没结婚前最无聊的一天",
@@ -12857,6 +12873,14 @@
       "onboard_time": 1711960521,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 479160,
+      "num": 479160,
+      "word": "河北发生多车相撞事故",
+      "onboard_time": 1713531737,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 479081,
@@ -13385,14 +13409,6 @@
       "onboard_time": 1713244339,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 463583,
-      "num": 463583,
-      "word": "王楚钦vs张禹珍",
-      "onboard_time": 1713532038,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 463504,
@@ -17659,6 +17675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 357682,
+      "num": 357682,
+      "word": "王琳 公派留学",
+      "onboard_time": 1713535640,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357481,
       "num": 357481,
       "word": "上海家暴杀妻案被害者父母发声",
@@ -19363,6 +19387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 325130,
+      "num": 325130,
+      "word": "白鹿绑耳朵消肿",
+      "onboard_time": 1713532398,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325025,
       "num": 325025,
       "word": "十个勤天 禾你见面",
@@ -19603,6 +19635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 321122,
+      "num": 321122,
+      "word": "出道4个月的Jennie",
+      "onboard_time": 1713535219,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321120,
       "num": 279839,
       "word": "丁真走红毯",
@@ -19833,14 +19873,6 @@
       "onboard_time": 1712819478,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 317420,
-      "num": 317420,
-      "word": "河北发生多车相撞事故",
-      "onboard_time": 1713531737,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317307,
@@ -22011,14 +22043,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 284224,
-      "num": 284224,
-      "word": "白鹿绑耳朵消肿",
-      "onboard_time": 1713532398,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 284117,
       "num": 284117,
       "word": "帮赵丽颖老师试过景了",
@@ -22449,6 +22473,14 @@
       "onboard_time": 1711950142,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277611,
+      "num": 277611,
+      "word": "身上长了这4种小红点要抓紧看医生",
+      "onboard_time": 1713531917,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 277511,
@@ -22921,6 +22953,14 @@
       "onboard_time": 1712892316,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 270969,
+      "num": 184320,
+      "word": "范丞丞为了讨好宋雨琦跳fate",
+      "onboard_time": 1713535698,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 270951,
@@ -26731,14 +26771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 231844,
-      "num": 231844,
-      "word": "身上长了这4种小红点要抓紧看医生",
-      "onboard_time": 1713531917,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 231800,
       "num": 231800,
       "word": "辛芷蕾管不了秦岚一点",
@@ -27667,6 +27699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 223658,
+      "num": 186900,
+      "word": "刘亦菲保镖震惊脸",
+      "onboard_time": 1713532638,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223652,
       "num": 223652,
       "word": "清华教学楼里到底发生过什么",
@@ -27849,14 +27889,6 @@
       "onboard_time": 1712737578,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 222019,
-      "num": 186900,
-      "word": "刘亦菲保镖震惊脸",
-      "onboard_time": 1713532638,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 221820,
@@ -29321,6 +29353,14 @@
       "onboard_time": 1712786892,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 210812,
+      "num": 210812,
+      "word": "WBG沙漠开门红",
+      "onboard_time": 1713534198,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 210784,
@@ -34339,6 +34379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188919,
+      "num": 138586,
+      "word": "走走停停",
+      "onboard_time": 1713535398,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188813,
       "num": 188813,
       "word": "伊朗高官称暂无立即报复以色列计划",
@@ -34465,6 +34513,14 @@
       "onboard_time": 1713486558,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 188341,
+      "num": 188341,
+      "word": "射手座最大的执念",
+      "onboard_time": 1713530898,
+      "rank": 43,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 188203,
@@ -36395,6 +36451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179010,
+      "num": 179010,
+      "word": "孙颖莎4比2郑怡静",
+      "onboard_time": 1713534198,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178990,
       "num": 178990,
       "word": "魔兽账号没丢",
@@ -36593,6 +36657,14 @@
       "onboard_time": 1711927036,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 177973,
+      "num": 130455,
+      "word": "孙怡玫瑰裙",
+      "onboard_time": 1713535998,
+      "rank": 41,
+      "category": "作品衍生,综艺"
     },
     {
       "raw_hot": 177948,
@@ -38611,14 +38683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166929,
-      "num": 166929,
-      "word": "射手座最大的执念",
-      "onboard_time": 1713530898,
-      "rank": 43,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 166890,
       "num": 166890,
       "word": "全新始祖鸟内置鞋垫是阿迪达斯",
@@ -39561,6 +39625,14 @@
       "onboard_time": 1712546599,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161978,
+      "num": 365224,
+      "word": "淘宝将支持无限次退货包运费",
+      "onboard_time": 1713531618,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 161966,
@@ -42435,14 +42507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149258,
-      "num": 365224,
-      "word": "淘宝将支持无限次退货包运费",
-      "onboard_time": 1713531618,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 149253,
       "num": 149253,
       "word": "米游社崩了",
@@ -44907,14 +44971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137710,
-      "num": 137710,
-      "word": "特斯拉被裁中国员工发声",
-      "onboard_time": 1713533478,
-      "rank": 48,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 137704,
       "num": 137704,
       "word": "34家公司游戏收入超3000亿元",
@@ -46211,6 +46267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131066,
+      "num": 127099,
+      "word": "樊振东林高远这球直接全体起立",
+      "onboard_time": 1713535099,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130973,
       "num": 130973,
       "word": "宋仲基与素人合影",
@@ -46553,6 +46617,14 @@
       "onboard_time": 1712737398,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 128701,
+      "num": 128701,
+      "word": "周鸿祎被车企大佬宠到眼花缭乱",
+      "onboard_time": 1713534258,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 128647,
@@ -49715,6 +49787,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 103912,
+      "num": 119130,
+      "word": "网络空间部队担负什么任务",
+      "onboard_time": 1713536119,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 103745,
       "num": 103745,
       "word": "我的孩子 皇上",
@@ -50945,6 +51025,14 @@
       "onboard_time": 1712854094,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 82825,
+      "num": 380596,
+      "word": "极氪以奢侈品标准打造光辉",
+      "onboard_time": 1713534318,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 82606,
@@ -53801,6 +53889,14 @@
       "onboard_time": 1712514911,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 22156,
+      "num": 364382,
+      "word": "谭秦东病痛缠身拒收红包",
+      "onboard_time": 1713535278,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21886,

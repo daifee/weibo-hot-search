@@ -1,6 +1,6 @@
 {
   "startTime": 1713457373132,
-  "endTime": 1713533649780,
+  "endTime": 1713536188787,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -33,6 +33,14 @@
       "onboard_time": 1713510978,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1697572,
+      "num": 1697572,
+      "word": "丁克现状",
+      "onboard_time": 1713530597,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 1693310,
@@ -139,12 +147,12 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 1097151,
-      "num": 1097151,
-      "word": "丁克现状",
-      "onboard_time": 1713530597,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 1081925,
+      "num": 1081925,
+      "word": "田曦薇 看得出她是公主",
+      "onboard_time": 1713531497,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 1076522,
@@ -211,14 +219,6 @@
       "category": "电影,美妆"
     },
     {
-      "raw_hot": 990193,
-      "num": 990193,
-      "word": "田曦薇 看得出她是公主",
-      "onboard_time": 1713531497,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 940302,
       "num": 439871,
       "word": "伊朗",
@@ -265,6 +265,14 @@
       "onboard_time": 1713498438,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 854198,
+      "num": 412726,
+      "word": "特斯拉被裁中国员工发声",
+      "onboard_time": 1713533478,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 847345,
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 508893,
-      "num": 253229,
+      "num": 271133,
       "word": "肖战还给了两年的售后时间",
       "onboard_time": 1713530958,
       "rank": 22,
@@ -675,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492559,
+      "num": 492559,
+      "word": "王楚钦vs张禹珍",
+      "onboard_time": 1713532038,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 488770,
       "num": 477299,
       "word": "孙颖莎vs郑怡静",
@@ -699,6 +715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 479160,
+      "num": 479160,
+      "word": "河北发生多车相撞事故",
+      "onboard_time": 1713531737,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478997,
       "num": 257073,
       "word": "女生结婚收到一车辣条随礼",
@@ -713,14 +737,6 @@
       "onboard_time": 1713512417,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 463583,
-      "num": 463583,
-      "word": "王楚钦vs张禹珍",
-      "onboard_time": 1713532038,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 433888,
@@ -843,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357682,
+      "num": 357682,
+      "word": "王琳 公派留学",
+      "onboard_time": 1713535640,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357481,
       "num": 357481,
       "word": "上海家暴杀妻案被害者父母发声",
@@ -947,12 +971,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325130,
+      "num": 325130,
+      "word": "白鹿绑耳朵消肿",
+      "onboard_time": 1713532398,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321309,
       "num": 314457,
       "word": "我妈问我为什么1500不够花",
       "onboard_time": 1713506238,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 321122,
+      "num": 321122,
+      "word": "出道4个月的Jennie",
+      "onboard_time": 1713535219,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 320224,
@@ -968,14 +1008,6 @@
       "word": "谷雨",
       "onboard_time": 1713482056,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317420,
-      "num": 317420,
-      "word": "河北发生多车相撞事故",
-      "onboard_time": 1713531737,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1099,14 +1131,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 284224,
-      "num": 284224,
-      "word": "白鹿绑耳朵消肿",
-      "onboard_time": 1713532398,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 282603,
       "num": 282603,
       "word": "雷军不知道张颂文提车了没",
@@ -1131,6 +1155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 277611,
+      "num": 277611,
+      "word": "身上长了这4种小红点要抓紧看医生",
+      "onboard_time": 1713531917,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 275071,
       "num": 255648,
       "word": "李书福谈未来汽车创新",
@@ -1145,6 +1177,14 @@
       "onboard_time": 1713510498,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270969,
+      "num": 184320,
+      "word": "范丞丞为了讨好宋雨琦跳fate",
+      "onboard_time": 1713535698,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 270528,
@@ -1299,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231844,
-      "num": 231844,
-      "word": "身上长了这4种小红点要抓紧看医生",
-      "onboard_time": 1713531917,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 231712,
       "num": 231712,
       "word": "周冠宇F1主场登场",
@@ -1371,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223658,
+      "num": 186900,
+      "word": "刘亦菲保镖震惊脸",
+      "onboard_time": 1713532638,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223534,
       "num": 218976,
       "word": "小伞树奈奈领证",
@@ -1385,14 +1425,6 @@
       "onboard_time": 1713453918,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 222019,
-      "num": 186900,
-      "word": "刘亦菲保镖震惊脸",
-      "onboard_time": 1713532638,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 221820,
@@ -1481,6 +1513,14 @@
       "onboard_time": 1713504258,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210812,
+      "num": 210812,
+      "word": "WBG沙漠开门红",
+      "onboard_time": 1713534198,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 210571,
@@ -1739,6 +1779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 188919,
+      "num": 138586,
+      "word": "走走停停",
+      "onboard_time": 1713535398,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188813,
       "num": 188813,
       "word": "伊朗高官称暂无立即报复以色列计划",
@@ -1753,6 +1801,14 @@
       "onboard_time": 1713486558,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 188341,
+      "num": 188341,
+      "word": "射手座最大的执念",
+      "onboard_time": 1713530898,
+      "rank": 43,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 188187,
@@ -1777,6 +1833,14 @@
       "onboard_time": 1713497299,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 184532,
+      "num": 138583,
+      "word": "眼泪女王",
+      "onboard_time": 1713535158,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 184423,
@@ -1835,6 +1899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179010,
+      "num": 179010,
+      "word": "孙颖莎4比2郑怡静",
+      "onboard_time": 1713534198,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178533,
       "num": 178533,
       "word": "黄晓明累坏了",
@@ -1849,6 +1921,14 @@
       "onboard_time": 1713518539,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177973,
+      "num": 130455,
+      "word": "孙怡玫瑰裙",
+      "onboard_time": 1713535998,
+      "rank": 41,
+      "category": "作品衍生,综艺"
     },
     {
       "raw_hot": 177209,
@@ -2011,14 +2091,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 166929,
-      "num": 166929,
-      "word": "射手座最大的执念",
-      "onboard_time": 1713530898,
-      "rank": 43,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 166137,
       "num": 166137,
       "word": "霉霉加曲",
@@ -2065,6 +2137,14 @@
       "onboard_time": 1713527417,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161978,
+      "num": 365224,
+      "word": "淘宝将支持无限次退货包运费",
+      "onboard_time": 1713531618,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 157743,
@@ -2211,14 +2291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149258,
-      "num": 365224,
-      "word": "淘宝将支持无限次退货包运费",
-      "onboard_time": 1713531618,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 149253,
       "num": 149253,
       "word": "米游社崩了",
@@ -2339,14 +2411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137710,
-      "num": 137710,
-      "word": "特斯拉被裁中国员工发声",
-      "onboard_time": 1713533478,
-      "rank": 48,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 137411,
       "num": 137411,
       "word": "空腹快走真的好减肥",
@@ -2419,6 +2483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131066,
+      "num": 127099,
+      "word": "樊振东林高远这球直接全体起立",
+      "onboard_time": 1713535099,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130934,
       "num": 130934,
       "word": "Gr对战ZETA",
@@ -2441,6 +2513,14 @@
       "onboard_time": 1713447799,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128701,
+      "num": 128701,
+      "word": "周鸿祎被车企大佬宠到眼花缭乱",
+      "onboard_time": 1713534258,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 128237,
@@ -2683,6 +2763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103912,
+      "num": 119130,
+      "word": "网络空间部队担负什么任务",
+      "onboard_time": 1713536119,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 103781,
       "num": 103781,
       "word": "删公婆好友后发超长文怼了公公",
@@ -2817,6 +2905,14 @@
       "onboard_time": 1713475391,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 82825,
+      "num": 380596,
+      "word": "极氪以奢侈品标准打造光辉",
+      "onboard_time": 1713534318,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 78072,
@@ -3065,6 +3161,14 @@
       "onboard_time": 1713522858,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 22156,
+      "num": 364382,
+      "word": "谭秦东病痛缠身拒收红包",
+      "onboard_time": 1713535278,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18064,
