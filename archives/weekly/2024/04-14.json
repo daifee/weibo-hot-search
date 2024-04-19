@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713512066837,
+  "endTime": 1713514923693,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -264,6 +264,14 @@
       "word": "歌手2024 张元英",
       "onboard_time": 1713268578,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1791805,
+      "num": 1791805,
+      "word": "周扬青rap 罗志祥",
+      "onboard_time": 1713510978,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -563,20 +571,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1296408,
+      "num": 926509,
+      "word": "侃爷殴打涉嫌性侵妻子的男子",
+      "onboard_time": 1713512898,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1288022,
       "num": 1288022,
       "word": "奈何BOSS要娶我",
       "onboard_time": 1713323598,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1285544,
-      "num": 1285544,
-      "word": "周扬青rap 罗志祥",
-      "onboard_time": 1713510978,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 1282628,
@@ -1803,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 775255,
+      "num": 775255,
+      "word": "火箭少女101为Yamy打call",
+      "onboard_time": 1713512118,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 774448,
       "num": 505255,
       "word": "舒畅怎么又瘦了",
@@ -2193,6 +2209,14 @@
       "onboard_time": 1713177019,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690131,
+      "num": 690131,
+      "word": "浪姐初舞台排名",
+      "onboard_time": 1713512658,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 689363,
@@ -3875,6 +3899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 459646,
+      "num": 406728,
+      "word": "男生被同学反锁宿舍群殴",
+      "onboard_time": 1713512598,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458106,
       "num": 427158,
       "word": "健身房偶遇王俊凯",
@@ -4723,6 +4755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 392073,
+      "num": 392073,
+      "word": "周杰伦演唱会一女子迟到后崩溃大哭",
+      "onboard_time": 1713511697,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 391238,
       "num": 391238,
       "word": "任敏演技",
@@ -5281,6 +5321,14 @@
       "onboard_time": 1713452299,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 357481,
+      "num": 357481,
+      "word": "上海家暴杀妻案被害者父母发声",
+      "onboard_time": 1713513739,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357261,
@@ -5857,6 +5905,14 @@
       "onboard_time": 1713091939,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319676,
+      "num": 319676,
+      "word": "张元英再现神级转圈",
+      "onboard_time": 1713514398,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 319441,
@@ -6899,6 +6955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 263913,
+      "num": 263913,
+      "word": "生完小孩后走路再也不像之前那样了",
+      "onboard_time": 1713512837,
+      "rank": 23,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 263785,
       "num": 263785,
       "word": "白鹿恭喜自己走进观众视野",
@@ -6993,14 +7057,6 @@
       "onboard_time": 1713052876,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 261194,
-      "num": 261194,
-      "word": "周杰伦演唱会一女子迟到后崩溃大哭",
-      "onboard_time": 1713511697,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 261028,
@@ -7449,6 +7505,14 @@
       "onboard_time": 1713194899,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243705,
+      "num": 243705,
+      "word": "全球资本市场巨震",
+      "onboard_time": 1713512417,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 243250,
@@ -10204,7 +10268,7 @@
     },
     {
       "raw_hot": 185836,
-      "num": 220699,
+      "num": 357071,
       "word": "面包车自燃幼儿园老师徒手拖走旁边车",
       "onboard_time": 1713510318,
       "rank": 28,
@@ -10449,6 +10513,14 @@
       "onboard_time": 1713106218,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182188,
+      "num": 182188,
+      "word": "1680元看台票引发质疑",
+      "onboard_time": 1713511278,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 181856,
@@ -10731,6 +10803,14 @@
       "category": "情感,作品衍生"
     },
     {
+      "raw_hot": 176970,
+      "num": 176970,
+      "word": "以色列袭击叙利亚防空设施",
+      "onboard_time": 1713512238,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 176915,
       "num": 176915,
       "word": "打疫苗主动撅起屁股的狗狗",
@@ -10753,6 +10833,14 @@
       "onboard_time": 1713239118,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176255,
+      "num": 176255,
+      "word": "蔡文静 你是多少人的妹妹",
+      "onboard_time": 1713510438,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 175927,
@@ -10905,14 +10993,6 @@
       "onboard_time": 1713173057,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173484,
-      "num": 173484,
-      "word": "蔡文静 你是多少人的妹妹",
-      "onboard_time": 1713510438,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 173400,
@@ -11315,6 +11395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166137,
+      "num": 166137,
+      "word": "霉霉加曲",
+      "onboard_time": 1713512298,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165964,
       "num": 165964,
       "word": "第九周最佳选手归期",
@@ -11537,6 +11625,14 @@
       "onboard_time": 1713440116,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162469,
+      "num": 162469,
+      "word": "今天星期五",
+      "onboard_time": 1713513197,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 162206,
@@ -11785,6 +11881,14 @@
       "onboard_time": 1713065419,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157570,
+      "num": 157570,
+      "word": "才发现按部就班根本赚不到钱",
+      "onboard_time": 1713513319,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 157510,
@@ -12257,6 +12361,14 @@
       "onboard_time": 1713357199,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152075,
+      "num": 152075,
+      "word": "向佐说永远力挺郭碧婷",
+      "onboard_time": 1713513258,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 151878,
@@ -13107,6 +13219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141234,
+      "num": 141234,
+      "word": "被北大学生的执行力震惊",
+      "onboard_time": 1713514637,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141225,
       "num": 141225,
       "word": "王曼昱4比1斯佐科斯",
@@ -13177,6 +13297,14 @@
       "onboard_time": 1713348858,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140376,
+      "num": 140376,
+      "word": "4月唯一正常的一周",
+      "onboard_time": 1713514577,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 140337,
@@ -13377,6 +13505,14 @@
       "onboard_time": 1713431479,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 136955,
+      "num": 136955,
+      "word": "徐明浩回应eight在seventeen",
+      "onboard_time": 1713514877,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 136817,
@@ -15819,6 +15955,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 47771,
+      "num": 185648,
+      "word": "没十年功力玩不好LV大秀",
+      "onboard_time": 1713510438,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 47340,
       "num": 440762,
       "word": "易烊千玺九号微电影",
@@ -16193,14 +16337,6 @@
       "onboard_time": 1713111318,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26452,
-      "num": 185648,
-      "word": "没十年功力玩不好LV大秀",
-      "onboard_time": 1713510438,
-      "rank": 35,
-      "category": "时尚"
     },
     {
       "raw_hot": 26316,
