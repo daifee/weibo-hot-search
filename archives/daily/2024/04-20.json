@@ -1,6 +1,6 @@
 {
   "startTime": 1713543834648,
-  "endTime": 1713555259772,
+  "endTime": 1713557889401,
   "band_list": [
     {
       "raw_hot": 1194561,
@@ -427,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75809,
+      "num": 75809,
+      "word": "鹿晗泰国爆炸头",
+      "onboard_time": 1713553631,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 75213,
       "num": 52844,
       "word": "周扬青亚裔混血感",
@@ -443,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61184,
-      "num": 61184,
-      "word": "鹿晗泰国爆炸头",
-      "onboard_time": 1713553631,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 60014,
       "num": 96266,
       "word": "u23国足vs韩国u23",
@@ -464,6 +464,14 @@
       "word": "宿迁光明村老人错认刘强东",
       "onboard_time": 1713545835,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58165,
+      "num": 42128,
+      "word": "女子熬夜双眼皮熬成悲伤蛙",
+      "onboard_time": 1713553811,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -489,14 +497,6 @@
       "onboard_time": 1713548173,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39581,
-      "num": 39581,
-      "word": "女子熬夜双眼皮熬成悲伤蛙",
-      "onboard_time": 1713553811,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37521,
@@ -552,6 +552,30 @@
       "word": "陈昊宇的耳环是杨丞琳掉的那个吧",
       "onboard_time": 1713554232,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 19884,
+      "num": 19884,
+      "word": "氯雷他定",
+      "onboard_time": 1713555791,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 19561,
+      "num": 19561,
+      "word": "北影节轮到宝总当爷叔后盾了",
+      "onboard_time": 1713556151,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 18826,
+      "num": 19552,
+      "word": "戚薇梦回沐之晴",
+      "onboard_time": 1713555250,
+      "rank": 40,
       "category": "综艺"
     },
     {

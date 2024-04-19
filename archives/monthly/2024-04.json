@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713555259772,
+  "endTime": 1713557889401,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -51611,6 +51611,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 75809,
+      "num": 75809,
+      "word": "鹿晗泰国爆炸头",
+      "onboard_time": 1713553631,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 75674,
       "num": 1084456,
       "word": "先辈炽热滚烫的信仰我们永远记得",
@@ -52355,14 +52363,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 61184,
-      "num": 61184,
-      "word": "鹿晗泰国爆炸头",
-      "onboard_time": 1713553631,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 60653,
       "num": 60653,
       "word": "声音玩具演唱会",
@@ -52480,6 +52480,14 @@
       "word": "宿迁光明村老人错认刘强东",
       "onboard_time": 1713545835,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58165,
+      "num": 42128,
+      "word": "女子熬夜双眼皮熬成悲伤蛙",
+      "onboard_time": 1713553811,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -53385,14 +53393,6 @@
       "onboard_time": 1712525351,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 39581,
-      "num": 39581,
-      "word": "女子熬夜双眼皮熬成悲伤蛙",
-      "onboard_time": 1713553811,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39551,
@@ -54467,6 +54467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 19561,
+      "num": 19561,
+      "word": "北影节轮到宝总当爷叔后盾了",
+      "onboard_time": 1713556151,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19427,
       "num": 140017,
       "word": "CPSP出现怪盗团",
@@ -54489,6 +54497,14 @@
       "onboard_time": 1713294132,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18826,
+      "num": 19552,
+      "word": "戚薇梦回沐之晴",
+      "onboard_time": 1713555250,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 18809,
