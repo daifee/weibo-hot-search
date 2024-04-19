@@ -1,6 +1,6 @@
 {
   "startTime": 1713457373132,
-  "endTime": 1713508543900,
+  "endTime": 1713511079180,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -16,6 +16,14 @@
       "word": "12306 存钱",
       "onboard_time": 1713500959,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1810300,
+      "num": 1810300,
+      "word": "五一调休考虑过单休的人吗",
+      "onboard_time": 1713505099,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -35,20 +43,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1528320,
-      "num": 1528320,
-      "word": "五一调休考虑过单休的人吗",
-      "onboard_time": 1713505099,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1503735,
       "num": 1503735,
       "word": "五一不调休行不行",
       "onboard_time": 1713484457,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1262831,
+      "num": 1262831,
+      "word": "向太怎么也来参加浪姐了",
+      "onboard_time": 1713507319,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1172117,
@@ -65,6 +73,14 @@
       "onboard_time": 1713437719,
       "rank": 7,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1086263,
+      "num": 1086263,
+      "word": "湘潭大学",
+      "onboard_time": 1713505878,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 1072163,
@@ -203,12 +219,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 759779,
-      "num": 759779,
-      "word": "湘潭大学",
-      "onboard_time": 1713505878,
-      "rank": 12,
-      "category": "教育"
+      "raw_hot": 757514,
+      "num": 757514,
+      "word": "戚薇唱了如果爱忘了",
+      "onboard_time": 1713507258,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 748796,
@@ -347,11 +363,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 592746,
-      "num": 592746,
-      "word": "向太怎么也来参加浪姐了",
-      "onboard_time": 1713507319,
-      "rank": 22,
+      "raw_hot": 599420,
+      "num": 599420,
+      "word": "苗苗浪姐初舞台站反了",
+      "onboard_time": 1713505817,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -403,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 530137,
+      "num": 530137,
+      "word": "郑妮可初舞台第一",
+      "onboard_time": 1713506299,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 524377,
       "num": 430508,
       "word": "以色列",
@@ -449,30 +473,6 @@
       "onboard_time": 1713502340,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 457718,
-      "num": 457718,
-      "word": "苗苗浪姐初舞台站反了",
-      "onboard_time": 1713505817,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 457048,
-      "num": 457048,
-      "word": "郑妮可初舞台第一",
-      "onboard_time": 1713506299,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 456446,
-      "num": 456446,
-      "word": "戚薇唱了如果爱忘了",
-      "onboard_time": 1713507258,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 430495,
@@ -603,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343884,
+      "num": 343884,
+      "word": "陈梦vs平野美宇",
+      "onboard_time": 1713508098,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 341298,
       "num": 269404,
       "word": "95后宝妈一觉睡醒右眼失明了",
@@ -657,6 +665,14 @@
       "onboard_time": 1713448038,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 314457,
+      "num": 314457,
+      "word": "我妈问我为什么1500不够花",
+      "onboard_time": 1713506238,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 312053,
@@ -843,14 +859,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 233399,
-      "num": 233399,
-      "word": "陈梦vs平野美宇",
-      "onboard_time": 1713508098,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231918,
       "num": 231918,
       "word": "李耕耘身材",
@@ -897,14 +905,6 @@
       "onboard_time": 1713499339,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226587,
-      "num": 226587,
-      "word": "我妈问我为什么1500不够花",
-      "onboard_time": 1713506238,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 225514,
@@ -977,6 +977,14 @@
       "onboard_time": 1713503479,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210322,
+      "num": 210322,
+      "word": "没退休金的妈妈62岁去做保洁",
+      "onboard_time": 1713510498,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205357,
@@ -1057,6 +1065,14 @@
       "onboard_time": 1713507737,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194347,
+      "num": 194347,
+      "word": "孙艺洲版吕布造型",
+      "onboard_time": 1713507919,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191873,
@@ -1195,6 +1211,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169947,
+      "num": 166051,
+      "word": "周扬青rap 罗志祥",
+      "onboard_time": 1713510978,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 169426,
+      "num": 169426,
+      "word": "教资面试平等逼疯每个i人",
+      "onboard_time": 1713505456,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165785,
       "num": 165785,
       "word": "跳水世界杯总决赛",
@@ -1219,12 +1251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159627,
-      "num": 159627,
-      "word": "孙艺洲版吕布造型",
-      "onboard_time": 1713507919,
-      "rank": 46,
-      "category": "作品衍生"
+      "raw_hot": 157426,
+      "num": 157426,
+      "word": "Pura70或助华为重夺中国市场榜首",
+      "onboard_time": 1713510438,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 157100,
@@ -1243,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154466,
+      "num": 154466,
+      "word": "河南专升本查分",
+      "onboard_time": 1713510798,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 154024,
       "num": 154024,
       "word": "狗 这是我亲大哥",
@@ -1257,6 +1297,14 @@
       "onboard_time": 1713485358,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 151689,
+      "num": 187567,
+      "word": "每位女性都值得拥有",
+      "onboard_time": 1713510678,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 151545,
@@ -1275,20 +1323,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151116,
+      "num": 151116,
+      "word": "蔡文静 你是多少人的妹妹",
+      "onboard_time": 1713510438,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150995,
       "num": 150995,
       "word": "周深受邀参加联合国第十五届中文日",
       "onboard_time": 1713457217,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150393,
-      "num": 150393,
-      "word": "教资面试平等逼疯每个i人",
-      "onboard_time": 1713505456,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 150022,
@@ -1385,6 +1433,14 @@
       "onboard_time": 1713491057,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136891,
+      "num": 136891,
+      "word": "12306 秒没",
+      "onboard_time": 1713509657,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135117,
@@ -1520,6 +1576,14 @@
       "word": "男子割喉杀妻案一审被判死缓",
       "onboard_time": 1713505639,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117955,
+      "num": 196880,
+      "word": "面包车自燃幼儿园老师徒手拖走旁边车",
+      "onboard_time": 1713510318,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1860,7 +1924,7 @@
     },
     {
       "raw_hot": 47110,
-      "num": 1150692,
+      "num": 1165152,
       "word": "潮起互联网奔涌三十年",
       "onboard_time": 1713498738,
       "rank": 2,
@@ -1891,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33719,
+      "num": 196694,
+      "word": "10万级车配不配上2C快充",
+      "onboard_time": 1713509837,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 32754,
       "num": 32754,
       "word": "燥候TTPD",
@@ -1905,6 +1977,14 @@
       "onboard_time": 1713476051,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24581,
+      "num": 185648,
+      "word": "没十年功力玩不好LV大秀",
+      "onboard_time": 1713510438,
+      "rank": 35,
+      "category": "时尚"
     },
     {
       "raw_hot": 18064,

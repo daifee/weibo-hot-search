@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713508543900,
+  "endTime": 1713511079180,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -875,6 +875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1810300,
+      "num": 1810300,
+      "word": "五一调休考虑过单休的人吗",
+      "onboard_time": 1713505099,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1802059,
       "num": 425809,
       "word": "北邮决定取消郑某研究生导师资格",
@@ -1545,14 +1553,6 @@
       "onboard_time": 1712282418,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1528320,
-      "num": 1528320,
-      "word": "五一调休考虑过单休的人吗",
-      "onboard_time": 1713505099,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1526113,
@@ -2419,6 +2419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1262831,
+      "num": 1262831,
+      "word": "向太怎么也来参加浪姐了",
+      "onboard_time": 1713507319,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1262092,
       "num": 1262092,
       "word": "韩国溺水幼童遭11家医院拒收后死亡",
@@ -3265,6 +3273,14 @@
       "onboard_time": 1712480719,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1086263,
+      "num": 1086263,
+      "word": "湘潭大学",
+      "onboard_time": 1713505878,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 1085314,
@@ -6427,14 +6443,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 759779,
-      "num": 759779,
-      "word": "湘潭大学",
-      "onboard_time": 1713505878,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 758090,
       "num": 758090,
       "word": "胃癌的发生是一个长期的过程",
@@ -6449,6 +6457,14 @@
       "onboard_time": 1712799438,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757514,
+      "num": 757514,
+      "word": "戚薇唱了如果爱忘了",
+      "onboard_time": 1713507258,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 757344,
@@ -9299,6 +9315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 599420,
+      "num": 599420,
+      "word": "苗苗浪姐初舞台站反了",
+      "onboard_time": 1713505817,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 599385,
       "num": 599385,
       "word": "安宰贤离婚梗",
@@ -9449,14 +9473,6 @@
       "onboard_time": 1713351738,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 592746,
-      "num": 592746,
-      "word": "向太怎么也来参加浪姐了",
-      "onboard_time": 1713507319,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 592622,
@@ -10977,6 +10993,14 @@
       "onboard_time": 1713036671,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 530137,
+      "num": 530137,
+      "word": "郑妮可初舞台第一",
+      "onboard_time": 1713506299,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 529852,
@@ -13283,14 +13307,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 457718,
-      "num": 457718,
-      "word": "苗苗浪姐初舞台站反了",
-      "onboard_time": 1713505817,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 457704,
       "num": 457704,
       "word": "中式母爱做到了全国统一",
@@ -13339,14 +13355,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 457048,
-      "num": 457048,
-      "word": "郑妮可初舞台第一",
-      "onboard_time": 1713506299,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 456612,
       "num": 456612,
       "word": "王一博你终于不戴帽子了",
@@ -13361,14 +13369,6 @@
       "onboard_time": 1713445878,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 456446,
-      "num": 456446,
-      "word": "戚薇唱了如果爱忘了",
-      "onboard_time": 1713507258,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 456332,
@@ -18131,6 +18131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343884,
+      "num": 343884,
+      "word": "陈梦vs平野美宇",
+      "onboard_time": 1713508098,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 343848,
       "num": 343848,
       "word": "ZICO和Jennie合作曲试听",
@@ -19681,6 +19689,14 @@
       "onboard_time": 1713140839,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 314457,
+      "num": 314457,
+      "word": "我妈问我为什么1500不够花",
+      "onboard_time": 1713506238,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 314433,
@@ -26051,14 +26067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233399,
-      "num": 233399,
-      "word": "陈梦vs平野美宇",
-      "onboard_time": 1713508098,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 233393,
       "num": 224459,
       "word": "卫健委调查男子献血13次妻子用血却被拒",
@@ -26865,14 +26873,6 @@
       "onboard_time": 1712630118,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 226587,
-      "num": 226587,
-      "word": "我妈问我为什么1500不够花",
-      "onboard_time": 1713506238,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 226519,
@@ -28953,6 +28953,14 @@
       "onboard_time": 1712235858,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210322,
+      "num": 210322,
+      "word": "没退休金的妈妈62岁去做保洁",
+      "onboard_time": 1713510498,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210296,
@@ -32361,6 +32369,14 @@
       "onboard_time": 1712495599,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 194347,
+      "num": 194347,
+      "word": "孙艺洲版吕布造型",
+      "onboard_time": 1713507919,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194337,
@@ -37347,6 +37363,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 169947,
+      "num": 166051,
+      "word": "周扬青rap 罗志祥",
+      "onboard_time": 1713510978,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169920,
       "num": 169920,
       "word": "上海年轻人街头抱树吸春",
@@ -37393,6 +37417,14 @@
       "onboard_time": 1713155780,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169426,
+      "num": 169426,
+      "word": "教资面试平等逼疯每个i人",
+      "onboard_time": 1713505456,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 169412,
@@ -39211,14 +39243,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 159627,
-      "num": 159627,
-      "word": "孙艺洲版吕布造型",
-      "onboard_time": 1713507919,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 159626,
       "num": 159626,
       "word": "行止 老肩巨滑",
@@ -39673,6 +39697,14 @@
       "onboard_time": 1712378957,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157426,
+      "num": 157426,
+      "word": "Pura70或助华为重夺中国市场榜首",
+      "onboard_time": 1713510438,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 157293,
@@ -40241,6 +40273,14 @@
       "onboard_time": 1712885898,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 154466,
+      "num": 154466,
+      "word": "河南专升本查分",
+      "onboard_time": 1713510798,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 154402,
@@ -40987,6 +41027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151689,
+      "num": 187567,
+      "word": "每位女性都值得拥有",
+      "onboard_time": 1713510678,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151656,
       "num": 151656,
       "word": "Mai住院",
@@ -41137,6 +41185,14 @@
       "onboard_time": 1712027000,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151116,
+      "num": 151116,
+      "word": "蔡文静 你是多少人的妹妹",
+      "onboard_time": 1713510438,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 151106,
@@ -41297,14 +41353,6 @@
       "onboard_time": 1712196739,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150393,
-      "num": 150393,
-      "word": "教资面试平等逼疯每个i人",
-      "onboard_time": 1713505456,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 150385,
@@ -47275,6 +47323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117955,
+      "num": 196880,
+      "word": "面包车自燃幼儿园老师徒手拖走旁边车",
+      "onboard_time": 1713510318,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117945,
       "num": 117945,
       "word": "姚志明的身世",
@@ -51484,7 +51540,7 @@
     },
     {
       "raw_hot": 47110,
-      "num": 1150692,
+      "num": 1165152,
       "word": "潮起互联网奔涌三十年",
       "onboard_time": 1713498738,
       "rank": 2,
@@ -52067,6 +52123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33719,
+      "num": 196694,
+      "word": "10万级车配不配上2C快充",
+      "onboard_time": 1713509837,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 33415,
       "num": 167876,
       "word": "Joker回来了",
@@ -52537,6 +52601,14 @@
       "onboard_time": 1712350630,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 24581,
+      "num": 185648,
+      "word": "没十年功力玩不好LV大秀",
+      "onboard_time": 1713510438,
+      "rank": 35,
+      "category": "时尚"
     },
     {
       "raw_hot": 24445,
