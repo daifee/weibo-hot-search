@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713558867416,
+  "endTime": 1713561369193,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -17819,6 +17819,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 20217,
+      "num": 20217,
+      "word": "戚薇梦回沐之晴",
+      "onboard_time": 1713555250,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20143,
       "num": 20143,
       "word": "JackeyLove时隔1820天再次确定进入MSI",
@@ -17849,14 +17857,6 @@
       "onboard_time": 1713294132,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18826,
-      "num": 19552,
-      "word": "戚薇梦回沐之晴",
-      "onboard_time": 1713555250,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 18488,
