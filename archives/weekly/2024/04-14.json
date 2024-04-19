@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713500427611,
+  "endTime": 1713501269535,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -867,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1054022,
+      "num": 1054022,
+      "word": "乘风2024开播",
+      "onboard_time": 1713495797,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1046703,
       "num": 1046703,
       "word": "义乌人已经开始赚巴黎奥运会的钱了",
@@ -1323,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 858390,
+      "num": 858390,
+      "word": "庆余年 对打",
+      "onboard_time": 1713498438,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 855448,
       "num": 855448,
       "word": "后陡门少年vs康平路少年",
@@ -1395,14 +1411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 832525,
-      "num": 832525,
-      "word": "庆余年 对打",
-      "onboard_time": 1713498438,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 831661,
       "num": 831661,
       "word": "单依纯",
@@ -1441,14 +1449,6 @@
       "onboard_time": 1713335358,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 817065,
-      "num": 817065,
-      "word": "乘风2024开播",
-      "onboard_time": 1713495797,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 816660,
@@ -1915,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 733388,
+      "num": 733388,
+      "word": "16岁女孩1万块穷游9国3大洲",
+      "onboard_time": 1713492137,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 733058,
       "num": 733058,
       "word": "肖战代言安吉尔",
@@ -1995,6 +2003,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 715692,
+      "num": 715692,
+      "word": "霉霉新专苦难诗社",
+      "onboard_time": 1713499218,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 715425,
       "num": 715425,
       "word": "英美宣布对伊朗实施制裁",
@@ -2027,14 +2043,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 707325,
-      "num": 707325,
-      "word": "16岁女孩1万块穷游9国3大洲",
-      "onboard_time": 1713492137,
-      "rank": 27,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 707049,
       "num": 661469,
       "word": "seventeen",
@@ -2049,6 +2057,14 @@
       "onboard_time": 1713102978,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 700742,
+      "num": 700742,
+      "word": "吴亦凡两关联公司欠税400余万",
+      "onboard_time": 1713496518,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 691935,
@@ -2192,14 +2208,6 @@
       "word": "易梦玲鼻子",
       "onboard_time": 1713349218,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 655564,
-      "num": 655564,
-      "word": "吴亦凡两关联公司欠税400余万",
-      "onboard_time": 1713496518,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -2459,6 +2467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 613018,
+      "num": 613018,
+      "word": "薛之谦诉李雨桐案已撤诉",
+      "onboard_time": 1713497239,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 612786,
       "num": 612786,
       "word": "美军帮以击落几乎所有无人机导弹",
@@ -2641,14 +2657,6 @@
       "onboard_time": 1713250758,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 575367,
-      "num": 575367,
-      "word": "薛之谦诉李雨桐案已撤诉",
-      "onboard_time": 1713497239,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 575003,
@@ -3331,6 +3339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498350,
+      "num": 498350,
+      "word": "黄金原油急涨",
+      "onboard_time": 1713498319,
+      "rank": 26,
+      "category": "财经,军事"
+    },
+    {
       "raw_hot": 498209,
       "num": 498209,
       "word": "北影节开幕红毯",
@@ -3393,14 +3409,6 @@
       "onboard_time": 1713080237,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 492788,
-      "num": 492788,
-      "word": "霉霉新专苦难诗社",
-      "onboard_time": 1713499218,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 491579,
@@ -3649,6 +3657,14 @@
       "onboard_time": 1713244339,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 463368,
+      "num": 463368,
+      "word": "伊朗宣布所有基地处于最高级别战备状态",
+      "onboard_time": 1713499759,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 463365,
@@ -5347,6 +5363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337973,
+      "num": 337973,
+      "word": "当县城体制内女孩不想结婚",
+      "onboard_time": 1713500238,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 337831,
       "num": 235163,
       "word": "女子入住81层酒店吓到趴地",
@@ -5385,6 +5409,14 @@
       "onboard_time": 1713189018,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 334447,
+      "num": 334447,
+      "word": "贾玲吞了一颗糖就像错过整个世界",
+      "onboard_time": 1713499458,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 334315,
@@ -5947,6 +5979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300484,
+      "num": 300484,
+      "word": "逆水寒代吃",
+      "onboard_time": 1713500299,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 300266,
       "num": 300266,
       "word": "胡一天演过夏至未至",
@@ -6089,14 +6129,6 @@
       "onboard_time": 1713241099,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 291423,
-      "num": 291423,
-      "word": "黄金原油急涨",
-      "onboard_time": 1713498319,
-      "rank": 26,
-      "category": "财经,军事"
     },
     {
       "raw_hot": 291354,
@@ -6483,14 +6515,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 272096,
-      "num": 246452,
-      "word": "伊朗宣布所有基地处于最高级别战备状态",
-      "onboard_time": 1713499759,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 271646,
       "num": 271646,
       "word": "王心凌回应隔壁林俊杰送歌",
@@ -6683,6 +6707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 263409,
+      "num": 246121,
+      "word": "张本智和晋级",
+      "onboard_time": 1713500598,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262992,
       "num": 262992,
       "word": "实习生diss一梦江湖策划",
@@ -6873,6 +6905,14 @@
       "onboard_time": 1713311656,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255916,
+      "num": 255916,
+      "word": "周深把大鱼带到联合国",
+      "onboard_time": 1713499280,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 255148,
@@ -7177,14 +7217,6 @@
       "onboard_time": 1713410000,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 244565,
-      "num": 244565,
-      "word": "周深把大鱼带到联合国",
-      "onboard_time": 1713499280,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 244175,
@@ -7755,6 +7787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226699,
+      "num": 226699,
+      "word": "周冠宇F1主场登场",
+      "onboard_time": 1713499339,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226519,
       "num": 187404,
       "word": "哥伦比亚首都限淋浴时间不得超5分钟",
@@ -7889,6 +7929,14 @@
       "onboard_time": 1713325159,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 223912,
+      "num": 223912,
+      "word": "12306 存钱",
+      "onboard_time": 1713500959,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223502,
@@ -8065,6 +8113,14 @@
       "onboard_time": 1713154101,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 217907,
+      "num": 217907,
+      "word": "你们怎么说服的梁龙",
+      "onboard_time": 1713500238,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 217289,
@@ -9115,14 +9171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197905,
-      "num": 197905,
-      "word": "周冠宇F1主场登场",
-      "onboard_time": 1713499339,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197859,
       "num": 176574,
       "word": "睡前玩手机会让你慢慢变丑",
@@ -9459,6 +9507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191873,
+      "num": 191873,
+      "word": "黄晓明古希腊掌管端水的神",
+      "onboard_time": 1713500479,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191839,
       "num": 191839,
       "word": "ILLIT获MCD一位",
@@ -9665,6 +9721,14 @@
       "onboard_time": 1713322758,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188187,
+      "num": 188187,
+      "word": "王一博钟楚曦对手戏",
+      "onboard_time": 1713498138,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 188069,
@@ -9931,14 +9995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 184103,
-      "num": 184103,
-      "word": "王一博钟楚曦对手戏",
-      "onboard_time": 1713498138,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 183930,
       "num": 143029,
       "word": "北影节评委",
@@ -10009,14 +10065,6 @@
       "onboard_time": 1713449537,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 183181,
-      "num": 183181,
-      "word": "当县城体制内女孩不想结婚",
-      "onboard_time": 1713500238,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 182951,
@@ -10531,6 +10579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172645,
+      "num": 172645,
+      "word": "刘忻还是那么帅",
+      "onboard_time": 1713501198,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172459,
       "num": 172459,
       "word": "梁靖崑4比0卡尔森",
@@ -10673,14 +10729,6 @@
       "onboard_time": 1713244100,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 169532,
-      "num": 169532,
-      "word": "贾玲吞了一颗糖就像错过整个世界",
-      "onboard_time": 1713499458,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 169509,
@@ -11217,14 +11265,6 @@
       "onboard_time": 1713173597,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 160039,
-      "num": 160039,
-      "word": "你们怎么说服的梁龙",
-      "onboard_time": 1713500238,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 159831,
@@ -15019,6 +15059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64298,
+      "num": 397209,
+      "word": "被关晓彤春日Vlog治愈了",
+      "onboard_time": 1713498438,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62368,
       "num": 62368,
       "word": "罗伯特是AI林萧吧",
@@ -15116,7 +15164,7 @@
     },
     {
       "raw_hot": 53864,
-      "num": 200210,
+      "num": 206629,
       "word": "我最爱的秀场LOOK",
       "onboard_time": 1713497418,
       "rank": 37,
@@ -15211,14 +15259,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 51187,
-      "num": 397209,
-      "word": "被关晓彤春日Vlog治愈了",
-      "onboard_time": 1713498438,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 50723,
       "num": 235860,
       "word": "全球首个防晒衣大秀",
@@ -15299,6 +15339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 45917,
+      "num": 885355,
+      "word": "潮起互联网奔涌三十年",
+      "onboard_time": 1713498738,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45804,
       "num": 926155,
       "word": "总体国家安全观主题宣传片护你安澜",
@@ -15353,14 +15401,6 @@
       "onboard_time": 1713035831,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42805,
-      "num": 838470,
-      "word": "潮起互联网奔涌三十年",
-      "onboard_time": 1713498738,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42265,

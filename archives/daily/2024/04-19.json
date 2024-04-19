@@ -1,6 +1,6 @@
 {
   "startTime": 1713457373132,
-  "endTime": 1713500427611,
+  "endTime": 1713501269535,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1054022,
+      "num": 1054022,
+      "word": "乘风2024开播",
+      "onboard_time": 1713495797,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 990457,
       "num": 990457,
       "word": "杨幂 美甲",
@@ -83,20 +91,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 832525,
-      "num": 832525,
+      "raw_hot": 858390,
+      "num": 858390,
       "word": "庆余年 对打",
       "onboard_time": 1713498438,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 817065,
-      "num": 817065,
-      "word": "乘风2024开播",
-      "onboard_time": 1713495797,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 814931,
@@ -139,6 +139,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 733388,
+      "num": 733388,
+      "word": "16岁女孩1万块穷游9国3大洲",
+      "onboard_time": 1713492137,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 715692,
+      "num": 715692,
+      "word": "霉霉新专苦难诗社",
+      "onboard_time": 1713499218,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 715425,
       "num": 715425,
       "word": "英美宣布对伊朗实施制裁",
@@ -147,12 +163,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 707325,
-      "num": 707325,
-      "word": "16岁女孩1万块穷游9国3大洲",
-      "onboard_time": 1713492137,
-      "rank": 27,
-      "category": "旅游"
+      "raw_hot": 700742,
+      "num": 700742,
+      "word": "吴亦凡两关联公司欠税400余万",
+      "onboard_time": 1713496518,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 697273,
@@ -179,20 +195,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 655564,
-      "num": 655564,
-      "word": "吴亦凡两关联公司欠税400余万",
-      "onboard_time": 1713496518,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 630854,
       "num": 630854,
       "word": "伊朗等地传出爆炸声",
       "onboard_time": 1713489919,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 613018,
+      "num": 613018,
+      "word": "薛之谦诉李雨桐案已撤诉",
+      "onboard_time": 1713497239,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 610705,
@@ -217,14 +233,6 @@
       "onboard_time": 1713442638,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 575367,
-      "num": 575367,
-      "word": "薛之谦诉李雨桐案已撤诉",
-      "onboard_time": 1713497239,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 565779,
@@ -283,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 492788,
-      "num": 492788,
-      "word": "霉霉新专苦难诗社",
-      "onboard_time": 1713499218,
-      "rank": 13,
-      "category": "音乐"
+      "raw_hot": 498350,
+      "num": 498350,
+      "word": "黄金原油急涨",
+      "onboard_time": 1713498319,
+      "rank": 26,
+      "category": "财经,军事"
     },
     {
       "raw_hot": 485953,
@@ -297,6 +305,14 @@
       "onboard_time": 1713495737,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 463368,
+      "num": 463368,
+      "word": "伊朗宣布所有基地处于最高级别战备状态",
+      "onboard_time": 1713499759,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 430495,
@@ -427,6 +443,22 @@
       "category": "母婴育儿,社会新闻"
     },
     {
+      "raw_hot": 337973,
+      "num": 337973,
+      "word": "当县城体制内女孩不想结婚",
+      "onboard_time": 1713500238,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 334447,
+      "num": 334447,
+      "word": "贾玲吞了一颗糖就像错过整个世界",
+      "onboard_time": 1713499458,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 334071,
       "num": 334071,
       "word": "山东专升本成绩",
@@ -491,12 +523,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 291423,
-      "num": 291423,
-      "word": "黄金原油急涨",
-      "onboard_time": 1713498319,
-      "rank": 26,
-      "category": "财经,军事"
+      "raw_hot": 300484,
+      "num": 300484,
+      "word": "逆水寒代吃",
+      "onboard_time": 1713500299,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 285312,
@@ -531,14 +563,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 272096,
-      "num": 246452,
-      "word": "伊朗宣布所有基地处于最高级别战备状态",
-      "onboard_time": 1713499759,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 270528,
       "num": 270528,
       "word": "优质精子是如何养成的",
@@ -563,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263409,
+      "num": 246121,
+      "word": "张本智和晋级",
+      "onboard_time": 1713500598,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261699,
       "num": 261699,
       "word": "45岁绝经和54岁绝经哪个衰老更快",
@@ -579,6 +611,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 255916,
+      "num": 255916,
+      "word": "周深把大鱼带到联合国",
+      "onboard_time": 1713499280,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 253093,
       "num": 253093,
       "word": "气血不足的人要先学会忌口",
@@ -593,14 +633,6 @@
       "onboard_time": 1713497058,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244565,
-      "num": 244565,
-      "word": "周深把大鱼带到联合国",
-      "onboard_time": 1713499280,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 239382,
@@ -635,12 +667,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 230817,
+      "num": 230817,
+      "word": "A股",
+      "onboard_time": 1713500358,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 227592,
       "num": 154524,
       "word": "刘昊然帅回来了",
       "onboard_time": 1713441137,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 226699,
+      "num": 226699,
+      "word": "周冠宇F1主场登场",
+      "onboard_time": 1713499339,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 225514,
@@ -656,6 +704,14 @@
       "word": "姑父强奸猥亵侄女7年被判13年",
       "onboard_time": 1713430459,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223912,
+      "num": 223912,
+      "word": "12306 存钱",
+      "onboard_time": 1713500959,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -683,6 +739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217907,
+      "num": 217907,
+      "word": "你们怎么说服的梁龙",
+      "onboard_time": 1713500238,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201436,
       "num": 201436,
       "word": "数码宝贝 小时候vs长大后",
@@ -707,12 +771,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 197905,
-      "num": 197905,
-      "word": "周冠宇F1主场登场",
-      "onboard_time": 1713499339,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 199092,
+      "num": 199092,
+      "word": "星穹铁道",
+      "onboard_time": 1713501078,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 191873,
+      "num": 191873,
+      "word": "黄晓明古希腊掌管端水的神",
+      "onboard_time": 1713500479,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 188341,
@@ -721,6 +793,14 @@
       "onboard_time": 1713486558,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 188187,
+      "num": 188187,
+      "word": "王一博钟楚曦对手戏",
+      "onboard_time": 1713498138,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 185285,
@@ -739,28 +819,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184103,
-      "num": 184103,
-      "word": "王一博钟楚曦对手戏",
-      "onboard_time": 1713498138,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 183801,
       "num": 183801,
       "word": "唐嫣走路仪态",
       "onboard_time": 1713490519,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 183181,
-      "num": 183181,
-      "word": "当县城体制内女孩不想结婚",
-      "onboard_time": 1713500238,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 177209,
@@ -795,12 +859,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 169532,
-      "num": 169532,
-      "word": "贾玲吞了一颗糖就像错过整个世界",
-      "onboard_time": 1713499458,
-      "rank": 43,
-      "category": "电影"
+      "raw_hot": 172645,
+      "num": 172645,
+      "word": "刘忻还是那么帅",
+      "onboard_time": 1713501198,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 165785,
@@ -825,14 +889,6 @@
       "onboard_time": 1713446899,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160039,
-      "num": 160039,
-      "word": "你们怎么说服的梁龙",
-      "onboard_time": 1713500238,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 157100,
@@ -873,14 +929,6 @@
       "onboard_time": 1713452299,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 151113,
-      "num": 151113,
-      "word": "A股",
-      "onboard_time": 1713500358,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 150995,
@@ -1315,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64298,
+      "num": 397209,
+      "word": "被关晓彤春日Vlog治愈了",
+      "onboard_time": 1713498438,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63032,
       "num": 98843,
       "word": "孙颖莎 将近40板的超强相持",
@@ -1356,7 +1412,7 @@
     },
     {
       "raw_hot": 53864,
-      "num": 200210,
+      "num": 206629,
       "word": "我最爱的秀场LOOK",
       "onboard_time": 1713497418,
       "rank": 37,
@@ -1379,14 +1435,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 51187,
-      "num": 397209,
-      "word": "被关晓彤春日Vlog治愈了",
-      "onboard_time": 1713498438,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 50418,
       "num": 50418,
       "word": "如何早期发现隐匿性乳腺癌",
@@ -1395,8 +1443,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 42805,
-      "num": 838470,
+      "raw_hot": 45917,
+      "num": 885355,
       "word": "潮起互联网奔涌三十年",
       "onboard_time": 1713498738,
       "rank": 2,
