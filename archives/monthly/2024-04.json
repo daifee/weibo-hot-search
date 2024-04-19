@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713507817033,
+  "endTime": 1713508543900,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1545,6 +1545,14 @@
       "onboard_time": 1712282418,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1528320,
+      "num": 1528320,
+      "word": "五一调休考虑过单休的人吗",
+      "onboard_time": 1713505099,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1526113,
@@ -3096,14 +3104,6 @@
       "word": "宋爷爷头抵车门与福宝告别哭成泪人",
       "onboard_time": 1712119162,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1117249,
-      "num": 1117249,
-      "word": "五一调休考虑过单休的人吗",
-      "onboard_time": 1713505099,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -5211,6 +5211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 847345,
+      "num": 847345,
+      "word": "我弟弟暗恋了我闺蜜10年",
+      "onboard_time": 1713505817,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 846531,
       "num": 836137,
       "word": "吴镇宇回应后费曼删博",
@@ -5257,6 +5265,14 @@
       "onboard_time": 1712150062,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 844009,
+      "num": 844009,
+      "word": "上海家暴杀妻案凶手说自己不是故意的",
+      "onboard_time": 1713504919,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 842542,
@@ -5723,14 +5739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 805861,
-      "num": 805861,
-      "word": "上海家暴杀妻案凶手说自己不是故意的",
-      "onboard_time": 1713504919,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 805711,
       "num": 348235,
       "word": "杨立新遇害21天前刚收嫌疑人为徒",
@@ -6187,14 +6195,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 778143,
-      "num": 778143,
-      "word": "我弟弟暗恋了我闺蜜10年",
-      "onboard_time": 1713505817,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 777044,
       "num": 777044,
       "word": "90岁游本昌婚姻幸福的秘诀是不响",
@@ -6425,6 +6425,14 @@
       "onboard_time": 1713496998,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 759779,
+      "num": 759779,
+      "word": "湘潭大学",
+      "onboard_time": 1713505878,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 758090,
@@ -7041,14 +7049,6 @@
       "onboard_time": 1712667919,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 719709,
-      "num": 719709,
-      "word": "湘潭大学",
-      "onboard_time": 1713505878,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 719337,
@@ -9449,6 +9449,14 @@
       "onboard_time": 1713351738,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592746,
+      "num": 592746,
+      "word": "向太怎么也来参加浪姐了",
+      "onboard_time": 1713507319,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 592622,
@@ -13275,6 +13283,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 457718,
+      "num": 457718,
+      "word": "苗苗浪姐初舞台站反了",
+      "onboard_time": 1713505817,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 457704,
       "num": 457704,
       "word": "中式母爱做到了全国统一",
@@ -13323,6 +13339,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 457048,
+      "num": 457048,
+      "word": "郑妮可初舞台第一",
+      "onboard_time": 1713506299,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 456612,
       "num": 456612,
       "word": "王一博你终于不戴帽子了",
@@ -13337,6 +13361,14 @@
       "onboard_time": 1713445878,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 456446,
+      "num": 456446,
+      "word": "戚薇唱了如果爱忘了",
+      "onboard_time": 1713507258,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 456332,
@@ -19803,14 +19835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 312284,
-      "num": 312284,
-      "word": "向太怎么也来参加浪姐了",
-      "onboard_time": 1713507319,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 312276,
       "num": 312276,
       "word": "鹿晗黄子韬新歌上线",
@@ -19825,6 +19849,14 @@
       "onboard_time": 1712545040,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 312053,
+      "num": 286643,
+      "word": "换乘恋爱",
+      "onboard_time": 1713504919,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 311877,
@@ -20923,6 +20955,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 294044,
+      "num": 279435,
+      "word": "苗苗跳舞在发光",
+      "onboard_time": 1713506538,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293690,
       "num": 293690,
       "word": "李现任敏新剧联手拯救小孩姐",
@@ -21443,14 +21483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 286643,
-      "num": 286643,
-      "word": "换乘恋爱",
-      "onboard_time": 1713504919,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 286323,
       "num": 286323,
       "word": "赵晴李菲儿扇巴掌戏",
@@ -21952,14 +21984,6 @@
       "word": "容祖儿的失望显而易见了",
       "onboard_time": 1713174319,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 279435,
-      "num": 279435,
-      "word": "苗苗跳舞在发光",
-      "onboard_time": 1713506538,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -24683,14 +24707,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 246438,
-      "num": 246438,
-      "word": "戚薇唱了如果爱忘了",
-      "onboard_time": 1713507258,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 246251,
       "num": 237507,
       "word": "厉旭发言",
@@ -26035,6 +26051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233399,
+      "num": 233399,
+      "word": "陈梦vs平野美宇",
+      "onboard_time": 1713508098,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233393,
       "num": 224459,
       "word": "卫健委调查男子献血13次妻子用血却被拒",
@@ -26843,6 +26867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 226587,
+      "num": 226587,
+      "word": "我妈问我为什么1500不够花",
+      "onboard_time": 1713506238,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226519,
       "num": 187404,
       "word": "哥伦比亚首都限淋浴时间不得超5分钟",
@@ -27617,14 +27649,6 @@
       "onboard_time": 1712816539,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219295,
-      "num": 219295,
-      "word": "我妈问我为什么1500不够花",
-      "onboard_time": 1713506238,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 219233,
@@ -30195,6 +30219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203576,
+      "num": 203576,
+      "word": "张元英夏日画报",
+      "onboard_time": 1713507858,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203558,
       "num": 203558,
       "word": "赵露思告黑二审胜诉",
@@ -31465,6 +31497,14 @@
       "onboard_time": 1713409397,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198406,
+      "num": 198406,
+      "word": "澳门世界杯马龙进四强",
+      "onboard_time": 1713507737,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 198393,
@@ -33048,6 +33088,14 @@
       "word": "全员加速中",
       "onboard_time": 1712320878,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191238,
+      "num": 191238,
+      "word": "乘风 修音",
+      "onboard_time": 1713507438,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -35371,6 +35419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 181031,
+      "num": 181031,
+      "word": "马龙太帅了",
+      "onboard_time": 1713507798,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180981,
       "num": 180981,
       "word": "巴萨1比4巴黎",
@@ -35585,6 +35641,14 @@
       "onboard_time": 1712125761,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179413,
+      "num": 173955,
+      "word": "黄雅莉劝戚薇少把妹",
+      "onboard_time": 1713507378,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 179373,
@@ -35880,14 +35944,6 @@
       "word": "无骨鸭脖",
       "onboard_time": 1712473219,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 177675,
-      "num": 177675,
-      "word": "乘风 修音",
-      "onboard_time": 1713507438,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -37755,14 +37811,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 166976,
-      "num": 166525,
-      "word": "黄雅莉劝戚薇少把妹",
-      "onboard_time": 1713507378,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166954,
       "num": 166954,
       "word": "白城",
@@ -39161,6 +39209,14 @@
       "onboard_time": 1712524330,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 159627,
+      "num": 159627,
+      "word": "孙艺洲版吕布造型",
+      "onboard_time": 1713507919,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 159626,
@@ -44107,14 +44163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136861,
-      "num": 136861,
-      "word": "澳门世界杯马龙进四强",
-      "onboard_time": 1713507737,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136817,
       "num": 136817,
       "word": "重庆一地铁站石砖脱落砸中孕妇",
@@ -47393,14 +47441,6 @@
       "onboard_time": 1712556378,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 116888,
-      "num": 116888,
-      "word": "马龙太帅了",
-      "onboard_time": 1713507798,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 116717,

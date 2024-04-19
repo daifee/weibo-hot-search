@@ -1,0 +1,410 @@
+{
+  "runTime": 1713508543900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1528320,
+        "num": 1528320,
+        "word": "五一调休考虑过单休的人吗",
+        "onboard_time": 1713505099,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1072830,
+        "num": 1072830,
+        "word": "12306 存钱",
+        "onboard_time": 1713500959,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33321,
+        "num": 1054642,
+        "word": "潮起互联网奔涌三十年",
+        "onboard_time": 1713498738,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1044474,
+        "num": 1044474,
+        "word": "陈丽君 花木兰孙悟空无缝衔接",
+        "onboard_time": 1713505398,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1018346,
+        "num": 1018346,
+        "word": "湘潭大学回应网传学生偷外卖被毒死",
+        "onboard_time": 1713503538,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847345,
+        "num": 847345,
+        "word": "我弟弟暗恋了我闺蜜10年",
+        "onboard_time": 1713505817,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 844009,
+        "num": 844009,
+        "word": "上海家暴杀妻案凶手说自己不是故意的",
+        "onboard_time": 1713504919,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789953,
+        "num": 789953,
+        "word": "南湘回来了",
+        "onboard_time": 1713502578,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283894,
+        "num": 762791,
+        "word": "伊朗宣布所有基地处于最高级别战备状态",
+        "onboard_time": 1713499759,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 238405,
+        "num": 761153,
+        "word": "16岁女孩1万块穷游9国3大洲",
+        "onboard_time": 1713492137,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 899939,
+        "num": 760651,
+        "word": "女子支付宝蒙口令领走1万元红包",
+        "onboard_time": 1713503899,
+        "rank": 10,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 759779,
+        "num": 759779,
+        "word": "湘潭大学",
+        "onboard_time": 1713505878,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 758327,
+        "num": 758327,
+        "word": "尚雯婕切何洁",
+        "onboard_time": 1713502278,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 607956,
+        "num": 607956,
+        "word": "戚薇浪姐最快乐的人",
+        "onboard_time": 1713504558,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599859,
+        "num": 599859,
+        "word": "张予曦人长得美 唱歌就算了",
+        "onboard_time": 1713503060,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598715,
+        "num": 598715,
+        "word": "以色列导弹袭击了伊朗目标",
+        "onboard_time": 1713493159,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 592746,
+        "num": 592746,
+        "word": "向太怎么也来参加浪姐了",
+        "onboard_time": 1713507319,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457718,
+        "num": 457718,
+        "word": "苗苗浪姐初舞台站反了",
+        "onboard_time": 1713505817,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457048,
+        "num": 457048,
+        "word": "郑妮可初舞台第一",
+        "onboard_time": 1713506299,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456446,
+        "num": 456446,
+        "word": "戚薇唱了如果爱忘了",
+        "onboard_time": 1713507258,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349416,
+        "num": 349416,
+        "word": "吴亦凡两关联公司欠税400余万",
+        "onboard_time": 1713496518,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325072,
+        "num": 325072,
+        "word": "当县城体制内女孩不想结婚",
+        "onboard_time": 1713500238,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323394,
+        "num": 323394,
+        "word": "宁波偶遇杜海涛沈梦辰排队买P70",
+        "onboard_time": 1713507019,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315578,
+        "num": 315578,
+        "word": "伊以冲突",
+        "onboard_time": 1713501320,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 282427,
+        "num": 282427,
+        "word": "其实你已经过度疲劳了",
+        "onboard_time": 1713485239,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312053,
+        "num": 280222,
+        "word": "换乘恋爱",
+        "onboard_time": 1713504919,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294044,
+        "num": 275309,
+        "word": "苗苗跳舞在发光",
+        "onboard_time": 1713506538,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256347,
+        "num": 256347,
+        "word": "杨幂 美甲",
+        "onboard_time": 1713491418,
+        "rank": 27,
+        "category": "电影,美妆"
+      },
+      {
+        "raw_hot": 243410,
+        "num": 243410,
+        "word": "马龙vs户上隼辅",
+        "onboard_time": 1713504079,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114046,
+        "num": 234455,
+        "word": "男子割喉杀妻案一审被判死缓",
+        "onboard_time": 1713505639,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233399,
+        "num": 233399,
+        "word": "陈梦vs平野美宇",
+        "onboard_time": 1713508098,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226587,
+        "num": 226587,
+        "word": "我妈问我为什么1500不够花",
+        "onboard_time": 1713506238,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221003,
+        "num": 221003,
+        "word": "朱亚文演王一博的爸爸",
+        "onboard_time": 1713502340,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208565,
+        "num": 208565,
+        "word": "浪姐初舞台",
+        "onboard_time": 1713501979,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207943,
+        "num": 207943,
+        "word": "乘风2024开播",
+        "onboard_time": 1713495797,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203576,
+        "num": 203576,
+        "word": "张元英夏日画报",
+        "onboard_time": 1713507858,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200526,
+        "num": 200526,
+        "word": "庆余年 对打",
+        "onboard_time": 1713498438,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198406,
+        "num": 198406,
+        "word": "澳门世界杯马龙进四强",
+        "onboard_time": 1713507737,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96979,
+        "num": 197454,
+        "word": "AI音乐概念股",
+        "onboard_time": 1713503118,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197366,
+        "num": 197366,
+        "word": "霉霉新专苦难诗社",
+        "onboard_time": 1713499218,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191238,
+        "num": 191238,
+        "word": "乘风 修音",
+        "onboard_time": 1713507438,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193271,
+        "num": 188962,
+        "word": "邓超要给鹿晗准备生日礼物了",
+        "onboard_time": 1713505577,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181031,
+        "num": 181031,
+        "word": "马龙太帅了",
+        "onboard_time": 1713507798,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174606,
+        "num": 174606,
+        "word": "冰上的尤里官宣制作中止",
+        "onboard_time": 1713507199,
+        "rank": 43,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 179413,
+        "num": 173955,
+        "word": "黄雅莉劝戚薇少把妹",
+        "onboard_time": 1713507378,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172654,
+        "num": 172654,
+        "word": "乘风2024",
+        "onboard_time": 1713499398,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159627,
+        "num": 159627,
+        "word": "孙艺洲版吕布造型",
+        "onboard_time": 1713507919,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145075,
+        "num": 145075,
+        "word": "华为Pura70首批用户已收到新机",
+        "onboard_time": 1713504499,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 141933,
+        "num": 141933,
+        "word": "去世两年的狗狗突然在朋友圈刷到",
+        "onboard_time": 1713496038,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140983,
+        "num": 140983,
+        "word": "教资面试平等逼疯每个i人",
+        "onboard_time": 1713505456,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#发挥超大市场优势和内需潜力为各国合作提供更多机遇#"
+    }
+  }
+}
