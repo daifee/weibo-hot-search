@@ -1,0 +1,410 @@
+{
+  "runTime": 1713526456151,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 944879,
+        "num": 944879,
+        "word": "延禧攻略",
+        "onboard_time": 1713519077,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 790027,
+        "num": 790027,
+        "word": "华为呼吁全国应用尽快加入鸿蒙",
+        "onboard_time": 1713522498,
+        "rank": 1,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 40137,
+        "num": 719187,
+        "word": "第14届北京国际电影节",
+        "onboard_time": 1713516377,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 694494,
+        "num": 694494,
+        "word": "张予曦 可以不喝哑药吗",
+        "onboard_time": 1713524597,
+        "rank": 3,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 545600,
+        "num": 545600,
+        "word": "张小斐表情 真的心疼",
+        "onboard_time": 1713521237,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 796057,
+        "num": 493179,
+        "word": "湘潭大学身亡学生死因在调查",
+        "onboard_time": 1713515178,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582908,
+        "num": 488786,
+        "word": "五一调休考虑过单休的人吗",
+        "onboard_time": 1713505099,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435712,
+        "num": 435712,
+        "word": "王曼昱vs早田希娜",
+        "onboard_time": 1713523939,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148145,
+        "num": 434692,
+        "word": "这么好玩的幼儿园建议全国推广",
+        "onboard_time": 1713520218,
+        "rank": 8,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 148510,
+        "num": 434140,
+        "word": "面包车自燃幼儿园老师徒手拖走旁边车",
+        "onboard_time": 1713510318,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520844,
+        "num": 434046,
+        "word": "朱丹 不许聊家庭孩子",
+        "onboard_time": 1713525018,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433888,
+        "num": 433888,
+        "word": "一顿小龙虾跌至一杯奶茶钱",
+        "onboard_time": 1713522257,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 399305,
+        "num": 399305,
+        "word": "沈梦辰杜海涛又发糖了",
+        "onboard_time": 1713521598,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367193,
+        "num": 367193,
+        "word": "刘诗诗麻辣女教师",
+        "onboard_time": 1713524778,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 352220,
+        "num": 352220,
+        "word": "美臀羊羊",
+        "onboard_time": 1713523576,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 18836,
+        "num": 325637,
+        "word": "优衣库T恤破吉尼斯纪录",
+        "onboard_time": 1713522858,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 316232,
+        "num": 316232,
+        "word": "向太怎么也来参加浪姐了",
+        "onboard_time": 1713507319,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287330,
+        "num": 287330,
+        "word": "浪姐初舞台排名",
+        "onboard_time": 1713512658,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266697,
+        "num": 266697,
+        "word": "湘潭大学否认丢失秋水仙碱致学生身亡",
+        "onboard_time": 1713518239,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222551,
+        "num": 222551,
+        "word": "刚刷到下铺拉帘子的大学生自己就遇到了",
+        "onboard_time": 1713520519,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 772783,
+        "num": 217378,
+        "word": "周扬青rap 罗志祥",
+        "onboard_time": 1713510978,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564331,
+        "num": 213174,
+        "word": "霉霉也玩第五人格",
+        "onboard_time": 1713522257,
+        "rank": 21,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 229775,
+        "num": 212120,
+        "word": "原来这就是媒人眼里的合适",
+        "onboard_time": 1713524657,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202505,
+        "num": 202505,
+        "word": "虞书欣黑雪公主",
+        "onboard_time": 1713526216,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195915,
+        "num": 195915,
+        "word": "食物语数据",
+        "onboard_time": 1713524357,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 341230,
+        "num": 195773,
+        "word": "侃爷殴打涉嫌性侵妻子的男子",
+        "onboard_time": 1713512898,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23149,
+        "num": 195471,
+        "word": "宇宙的尽头是勇气",
+        "onboard_time": 1713523878,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179379,
+        "num": 195447,
+        "word": "女生结婚收到一车辣条随礼",
+        "onboard_time": 1713517579,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135639,
+        "num": 195120,
+        "word": "女子支付宝蒙口令领走1万元红包",
+        "onboard_time": 1713503899,
+        "rank": 28,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 196191,
+        "num": 194819,
+        "word": "白鹿cos朱迪兔警官",
+        "onboard_time": 1713518358,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194755,
+        "num": 194755,
+        "word": "李沁女团妆",
+        "onboard_time": 1713525197,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182841,
+        "num": 182841,
+        "word": "当你下午请假调休",
+        "onboard_time": 1713523816,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182525,
+        "num": 182525,
+        "word": "张元英再现神级转圈",
+        "onboard_time": 1713514398,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181712,
+        "num": 181712,
+        "word": "李溪芮漫画腿",
+        "onboard_time": 1713522677,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178533,
+        "num": 178533,
+        "word": "黄晓明累坏了",
+        "onboard_time": 1713525917,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177812,
+        "num": 177812,
+        "word": "我弟弟暗恋了我闺蜜10年",
+        "onboard_time": 1713505817,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175040,
+        "num": 175040,
+        "word": "火箭少女101为Yamy打call",
+        "onboard_time": 1713512118,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171923,
+        "num": 171923,
+        "word": "戚薇唱了如果爱忘了",
+        "onboard_time": 1713507258,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163884,
+        "num": 163884,
+        "word": "玉藻前典藏皮肤",
+        "onboard_time": 1713523518,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112587,
+        "num": 158985,
+        "word": "以色列导弹袭击了伊朗目标",
+        "onboard_time": 1713493159,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 157743,
+        "num": 157743,
+        "word": "冰上的尤里 声优发文",
+        "onboard_time": 1713524237,
+        "rank": 40,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 157742,
+        "num": 157742,
+        "word": "经常读书和不读书有什么区别",
+        "onboard_time": 1713519136,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155366,
+        "num": 155366,
+        "word": "刘诗诗费加罗四月刊封面",
+        "onboard_time": 1713525258,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152749,
+        "num": 152749,
+        "word": "哈尔滨一九四四班底",
+        "onboard_time": 1713525437,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126249,
+        "num": 126249,
+        "word": "Bin和369互放狠话",
+        "onboard_time": 1713525496,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116210,
+        "num": 116210,
+        "word": "一葱一锤原则",
+        "onboard_time": 1713526278,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114893,
+        "num": 114893,
+        "word": "尚雯婕切何洁",
+        "onboard_time": 1713502278,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109956,
+        "num": 109956,
+        "word": "中国养生在好莱坞有多火",
+        "onboard_time": 1713522377,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 103704,
+        "num": 103704,
+        "word": "伊以冲突",
+        "onboard_time": 1713501320,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 100741,
+        "num": 100741,
+        "word": "怪不得晚自习这么安静",
+        "onboard_time": 1713523637,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#发挥超大市场优势和内需潜力为各国合作提供更多机遇#"
+    }
+  }
+}

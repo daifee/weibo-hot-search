@@ -1,6 +1,6 @@
 {
   "startTime": 1713457373132,
-  "endTime": 1713525315925,
+  "endTime": 1713526456151,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790027,
+      "num": 790027,
+      "word": "华为呼吁全国应用尽快加入鸿蒙",
+      "onboard_time": 1713522498,
+      "rank": 37,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 775255,
       "num": 775255,
       "word": "火箭少女101为Yamy打call",
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 694494,
+      "num": 694494,
+      "word": "张予曦 可以不喝哑药吗",
+      "onboard_time": 1713524597,
+      "rank": 18,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 693456,
       "num": 559702,
       "word": "鹿晗泰国",
@@ -385,14 +401,6 @@
       "onboard_time": 1713500238,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 664511,
-      "num": 664511,
-      "word": "华为呼吁全国应用尽快加入鸿蒙",
-      "onboard_time": 1713522498,
-      "rank": 37,
-      "category": "互联网,数码"
     },
     {
       "raw_hot": 655099,
@@ -491,20 +499,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 545600,
+      "num": 545600,
+      "word": "张小斐表情 真的心疼",
+      "onboard_time": 1713521237,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 542230,
       "num": 542230,
       "word": "蔡依林说贵州没有不好吃的",
       "onboard_time": 1713454159,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 536991,
-      "num": 536991,
-      "word": "张小斐表情 真的心疼",
-      "onboard_time": 1713521237,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 530137,
@@ -521,6 +529,14 @@
       "onboard_time": 1713491358,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 520844,
+      "num": 434046,
+      "word": "朱丹 不许聊家庭孩子",
+      "onboard_time": 1713525018,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 514175,
@@ -595,6 +611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 433888,
+      "num": 433888,
+      "word": "一顿小龙虾跌至一杯奶茶钱",
+      "onboard_time": 1713522257,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 430495,
       "num": 430495,
       "word": "晚上睡觉要盖好耳朵",
@@ -627,12 +651,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 409560,
-      "num": 409560,
-      "word": "一顿小龙虾跌至一杯奶茶钱",
-      "onboard_time": 1713522257,
-      "rank": 29,
-      "category": "美食"
+      "raw_hot": 399305,
+      "num": 399305,
+      "word": "沈梦辰杜海涛又发糖了",
+      "onboard_time": 1713521598,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 394384,
@@ -683,20 +707,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 375552,
-      "num": 375552,
-      "word": "沈梦辰杜海涛又发糖了",
-      "onboard_time": 1713521598,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 370410,
       "num": 370410,
       "word": "都美竹晒详细说明回应",
       "onboard_time": 1713489797,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367193,
+      "num": 367193,
+      "word": "刘诗诗麻辣女教师",
+      "onboard_time": 1713524778,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 366765,
@@ -745,6 +769,14 @@
       "onboard_time": 1713507019,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352220,
+      "num": 352220,
+      "word": "美臀羊羊",
+      "onboard_time": 1713523576,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 349818,
@@ -915,14 +947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 299196,
-      "num": 299196,
-      "word": "张予曦 可以不喝哑药吗",
-      "onboard_time": 1713524597,
-      "rank": 18,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 294044,
       "num": 279435,
       "word": "苗苗跳舞在发光",
@@ -961,14 +985,6 @@
       "onboard_time": 1713464051,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 274535,
-      "num": 274535,
-      "word": "美臀羊羊",
-      "onboard_time": 1713523576,
-      "rank": 19,
-      "category": "科学科普"
     },
     {
       "raw_hot": 272759,
@@ -1145,6 +1161,14 @@
       "onboard_time": 1713500358,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 229775,
+      "num": 212120,
+      "word": "原来这就是媒人眼里的合适",
+      "onboard_time": 1713524657,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 227592,
@@ -1339,6 +1363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 202505,
+      "num": 202505,
+      "word": "虞书欣黑雪公主",
+      "onboard_time": 1713526216,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201540,
       "num": 201540,
       "word": "食物语数据",
@@ -1387,14 +1419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 198426,
-      "num": 198426,
-      "word": "刘诗诗麻辣女教师",
-      "onboard_time": 1713524778,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 198406,
       "num": 198406,
       "word": "澳门世界杯马龙进四强",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1713513319,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194755,
+      "num": 194755,
+      "word": "李沁女团妆",
+      "onboard_time": 1713525197,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 194347,
@@ -1507,14 +1539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 183650,
-      "num": 183650,
-      "word": "朱丹 不许聊家庭孩子",
-      "onboard_time": 1713525018,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 181362,
       "num": 181362,
       "word": "F1中国大奖赛",
@@ -1536,6 +1560,14 @@
       "word": "黄雅莉劝戚薇少把妹",
       "onboard_time": 1713507378,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 178533,
+      "num": 178533,
+      "word": "黄晓明累坏了",
+      "onboard_time": 1713525917,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1715,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157743,
+      "num": 157743,
+      "word": "冰上的尤里 声优发文",
+      "onboard_time": 1713524237,
+      "rank": 37,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 157100,
       "num": 157100,
       "word": "张颜齐升级奶爸",
@@ -1723,12 +1763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155693,
-      "num": 155693,
-      "word": "原来这就是媒人眼里的合适",
-      "onboard_time": 1713524657,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 155366,
+      "num": 155366,
+      "word": "刘诗诗费加罗四月刊封面",
+      "onboard_time": 1713525258,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 154551,
@@ -1747,20 +1787,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 154433,
-      "num": 154433,
-      "word": "冰上的尤里 声优发文",
-      "onboard_time": 1713524237,
-      "rank": 37,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 154024,
       "num": 154024,
       "word": "狗 这是我亲大哥",
       "onboard_time": 1713483858,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152749,
+      "num": 152749,
+      "word": "哈尔滨一九四四班底",
+      "onboard_time": 1713525437,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 152525,
@@ -2035,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126249,
+      "num": 126249,
+      "word": "Bin和369互放狠话",
+      "onboard_time": 1713525496,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125709,
       "num": 125709,
       "word": "宋雨琦金发红裙",
@@ -2115,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116210,
+      "num": 116210,
+      "word": "一葱一锤原则",
+      "onboard_time": 1713526278,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114738,
       "num": 114738,
       "word": "奶牛猫 特别有正义感的神经病",
@@ -2187,14 +2243,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 107029,
-      "num": 107029,
-      "word": "李沁女团妆",
-      "onboard_time": 1713525197,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105933,
       "num": 105933,
       "word": "小猫 我的第一个人类",
@@ -2225,14 +2273,6 @@
       "onboard_time": 1713452240,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 104990,
-      "num": 104990,
-      "word": "刘诗诗费加罗四月刊封面",
-      "onboard_time": 1713525258,
-      "rank": 49,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 103781,
@@ -2588,7 +2628,7 @@
     },
     {
       "raw_hot": 26726,
-      "num": 310177,
+      "num": 325637,
       "word": "优衣库T恤破吉尼斯纪录",
       "onboard_time": 1713522858,
       "rank": 49,
