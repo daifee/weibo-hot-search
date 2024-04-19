@@ -1,6 +1,6 @@
 {
   "startTime": 1713457373132,
-  "endTime": 1713532832921,
+  "endTime": 1713533649780,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -139,6 +139,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 1097151,
+      "num": 1097151,
+      "word": "丁克现状",
+      "onboard_time": 1713530597,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1076522,
       "num": 1076522,
       "word": "延禧攻略",
@@ -201,6 +209,14 @@
       "onboard_time": 1713491418,
       "rank": 3,
       "category": "电影,美妆"
+    },
+    {
+      "raw_hot": 990193,
+      "num": 990193,
+      "word": "田曦薇 看得出她是公主",
+      "onboard_time": 1713531497,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 940302,
@@ -355,14 +371,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 733367,
-      "num": 733367,
-      "word": "丁克现状",
-      "onboard_time": 1713530597,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 719952,
       "num": 719952,
       "word": "张元英再现神级转圈",
@@ -457,14 +465,6 @@
       "onboard_time": 1713500238,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 666137,
-      "num": 666137,
-      "word": "田曦薇 看得出她是公主",
-      "onboard_time": 1713531497,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 655099,
@@ -715,6 +715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 463583,
+      "num": 463583,
+      "word": "王楚钦vs张禹珍",
+      "onboard_time": 1713532038,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 433888,
       "num": 433888,
       "word": "一顿小龙虾跌至一杯奶茶钱",
@@ -963,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317420,
+      "num": 317420,
+      "word": "河北发生多车相撞事故",
+      "onboard_time": 1713531737,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317233,
       "num": 178099,
       "word": "张颖颖将起诉张兰",
@@ -1083,6 +1099,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 284224,
+      "num": 284224,
+      "word": "白鹿绑耳朵消肿",
+      "onboard_time": 1713532398,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282603,
       "num": 282603,
       "word": "雷军不知道张颂文提车了没",
@@ -1121,14 +1145,6 @@
       "onboard_time": 1713510498,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272751,
-      "num": 272751,
-      "word": "王楚钦vs张禹珍",
-      "onboard_time": 1713532038,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 270528,
@@ -1235,14 +1251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246853,
-      "num": 246853,
-      "word": "河北发生多车相撞事故",
-      "onboard_time": 1713531737,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240414,
       "num": 240414,
       "word": "刘忻绝了",
@@ -1289,6 +1297,14 @@
       "onboard_time": 1713499158,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231844,
+      "num": 231844,
+      "word": "身上长了这4种小红点要抓紧看医生",
+      "onboard_time": 1713531917,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 231712,
@@ -1371,6 +1387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 222019,
+      "num": 186900,
+      "word": "刘亦菲保镖震惊脸",
+      "onboard_time": 1713532638,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221820,
       "num": 221820,
       "word": "LPL春决媒体发布会",
@@ -1393,6 +1417,14 @@
       "onboard_time": 1713511697,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219846,
+      "num": 184262,
+      "word": "张艺兴爱豆妆造",
+      "onboard_time": 1713531198,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 218450,
@@ -1465,6 +1497,14 @@
       "onboard_time": 1713517097,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208930,
+      "num": 188741,
+      "word": "文咏珊好薄一片",
+      "onboard_time": 1713528677,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 207230,
@@ -1635,14 +1675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195331,
-      "num": 188763,
-      "word": "白鹿绑耳朵消肿",
-      "onboard_time": 1713532398,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194755,
       "num": 194755,
       "word": "李沁女团妆",
@@ -1699,8 +1731,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189681,
-      "num": 189681,
+      "raw_hot": 189896,
+      "num": 189896,
       "word": "哪吒",
       "onboard_time": 1713528797,
       "rank": 33,
@@ -1713,14 +1745,6 @@
       "onboard_time": 1713530118,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 188741,
-      "num": 188741,
-      "word": "文咏珊好薄一片",
-      "onboard_time": 1713528677,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 188341,
@@ -1825,22 +1849,6 @@
       "onboard_time": 1713518539,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178285,
-      "num": 178285,
-      "word": "张艺兴爱豆妆造",
-      "onboard_time": 1713531198,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 177416,
-      "num": 188773,
-      "word": "身上长了这4种小红点要抓紧看医生",
-      "onboard_time": 1713531917,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 177209,
@@ -2003,6 +2011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166929,
+      "num": 166929,
+      "word": "射手座最大的执念",
+      "onboard_time": 1713530898,
+      "rank": 43,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 166137,
       "num": 166137,
       "word": "霉霉加曲",
@@ -2025,14 +2041,6 @@
       "onboard_time": 1713488359,
       "rank": 36,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 164560,
-      "num": 164560,
-      "word": "刘亦菲保镖震惊脸",
-      "onboard_time": 1713532638,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 164471,
@@ -2105,14 +2113,6 @@
       "onboard_time": 1713483858,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 153142,
-      "num": 153142,
-      "word": "射手座最大的执念",
-      "onboard_time": 1713530898,
-      "rank": 43,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 152749,
@@ -2211,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149258,
+      "num": 365224,
+      "word": "淘宝将支持无限次退货包运费",
+      "onboard_time": 1713531618,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 149253,
       "num": 149253,
       "word": "米游社崩了",
@@ -2241,6 +2249,14 @@
       "onboard_time": 1713520218,
       "rank": 8,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 147366,
+      "num": 147366,
+      "word": "不要过度美化那条没走完的路",
+      "onboard_time": 1713532998,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 145206,
@@ -2307,12 +2323,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138909,
+      "num": 138909,
+      "word": "调降基金股票交易佣金费率",
+      "onboard_time": 1713532458,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 138385,
       "num": 138385,
       "word": "于正说祝绪丹事件是联手炒作",
       "onboard_time": 1713440417,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137710,
+      "num": 137710,
+      "word": "特斯拉被裁中国员工发声",
+      "onboard_time": 1713533478,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 137411,
@@ -2393,14 +2425,6 @@
       "onboard_time": 1713522077,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 130911,
-      "num": 130911,
-      "word": "调降基金股票交易佣金费率",
-      "onboard_time": 1713532458,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 130125,
@@ -2723,14 +2747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95279,
-      "num": 324982,
-      "word": "淘宝将支持无限次退货包运费",
-      "onboard_time": 1713531618,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 94934,
       "num": 101710,
       "word": "王曼昱晋级四强",
@@ -2900,7 +2916,7 @@
     },
     {
       "raw_hot": 59767,
-      "num": 971856,
+      "num": 1039856,
       "word": "第14届北京国际电影节",
       "onboard_time": 1713516377,
       "rank": 2,

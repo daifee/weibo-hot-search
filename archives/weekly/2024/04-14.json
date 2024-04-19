@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713532832921,
+  "endTime": 1713533649780,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -875,6 +875,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 1097151,
+      "num": 1097151,
+      "word": "丁克现状",
+      "onboard_time": 1713530597,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1095863,
       "num": 1095863,
       "word": "韩国爱豆整容堪比大变活人",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1713491418,
       "rank": 3,
       "category": "电影,美妆"
+    },
+    {
+      "raw_hot": 990193,
+      "num": 990193,
+      "word": "田曦薇 看得出她是公主",
+      "onboard_time": 1713531497,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 983788,
@@ -2131,14 +2147,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 733367,
-      "num": 733367,
-      "word": "丁克现状",
-      "onboard_time": 1713530597,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 733058,
       "num": 733058,
       "word": "肖战代言安吉尔",
@@ -2441,14 +2449,6 @@
       "onboard_time": 1713500238,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 666137,
-      "num": 666137,
-      "word": "田曦薇 看得出她是公主",
-      "onboard_time": 1713531497,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 664907,
@@ -4057,6 +4057,14 @@
       "onboard_time": 1713244339,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 463583,
+      "num": 463583,
+      "word": "王楚钦vs张禹珍",
+      "onboard_time": 1713532038,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 463365,
@@ -6211,6 +6219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 317420,
+      "num": 317420,
+      "word": "河北发生多车相撞事故",
+      "onboard_time": 1713531737,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317063,
       "num": 317063,
       "word": "眼泪女王 爷爷死了",
@@ -6819,6 +6835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 284224,
+      "num": 284224,
+      "word": "白鹿绑耳朵消肿",
+      "onboard_time": 1713532398,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283733,
       "num": 283733,
       "word": "金像奖红毯",
@@ -7057,14 +7081,6 @@
       "onboard_time": 1713510498,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272751,
-      "num": 272751,
-      "word": "王楚钦vs张禹珍",
-      "onboard_time": 1713532038,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 272683,
@@ -7723,14 +7739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 246853,
-      "num": 246853,
-      "word": "河北发生多车相撞事故",
-      "onboard_time": 1713531737,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246251,
       "num": 237507,
       "word": "厉旭发言",
@@ -8251,6 +8259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231844,
+      "num": 231844,
+      "word": "身上长了这4种小红点要抓紧看医生",
+      "onboard_time": 1713531917,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 231800,
       "num": 231800,
       "word": "辛芷蕾管不了秦岚一点",
@@ -8611,6 +8627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222019,
+      "num": 186900,
+      "word": "刘亦菲保镖震惊脸",
+      "onboard_time": 1713532638,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221820,
       "num": 221820,
       "word": "LPL春决媒体发布会",
@@ -8689,6 +8713,14 @@
       "onboard_time": 1713158298,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219846,
+      "num": 184262,
+      "word": "张艺兴爱豆妆造",
+      "onboard_time": 1713531198,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 219016,
@@ -9225,6 +9257,14 @@
       "onboard_time": 1713396136,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208930,
+      "num": 188741,
+      "word": "文咏珊好薄一片",
+      "onboard_time": 1713528677,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208786,
@@ -10107,14 +10147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195331,
-      "num": 188763,
-      "word": "白鹿绑耳朵消肿",
-      "onboard_time": 1713532398,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195312,
       "num": 195312,
       "word": "林高远vs达科",
@@ -10515,6 +10547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189896,
+      "num": 189896,
+      "word": "哪吒",
+      "onboard_time": 1713528797,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 189740,
       "num": 189740,
       "word": "如懿传剧情",
@@ -10529,14 +10569,6 @@
       "onboard_time": 1713322576,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 189681,
-      "num": 189681,
-      "word": "哪吒",
-      "onboard_time": 1713528797,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 189593,
@@ -10585,14 +10617,6 @@
       "onboard_time": 1713435138,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 188741,
-      "num": 188741,
-      "word": "文咏珊好薄一片",
-      "onboard_time": 1713528677,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 188627,
@@ -11275,14 +11299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178285,
-      "num": 178285,
-      "word": "张艺兴爱豆妆造",
-      "onboard_time": 1713531198,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 178247,
       "num": 178247,
       "word": "夏之光美高制服",
@@ -11321,14 +11337,6 @@
       "onboard_time": 1713333258,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177416,
-      "num": 188773,
-      "word": "身上长了这4种小红点要抓紧看医生",
-      "onboard_time": 1713531917,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 177209,
@@ -11987,6 +11995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166929,
+      "num": 166929,
+      "word": "射手座最大的执念",
+      "onboard_time": 1713530898,
+      "rank": 43,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 166890,
       "num": 166890,
       "word": "全新始祖鸟内置鞋垫是阿迪达斯",
@@ -12169,14 +12185,6 @@
       "onboard_time": 1713049694,
       "rank": 32,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 164560,
-      "num": 164560,
-      "word": "刘亦菲保镖震惊脸",
-      "onboard_time": 1713532638,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 164528,
@@ -12947,14 +12955,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 153142,
-      "num": 153142,
-      "word": "射手座最大的执念",
-      "onboard_time": 1713530898,
-      "rank": 43,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 153004,
       "num": 153004,
       "word": "怪盗基德 哥帅的很轻松",
@@ -13315,6 +13315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149258,
+      "num": 365224,
+      "word": "淘宝将支持无限次退货包运费",
+      "onboard_time": 1713531618,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 149253,
       "num": 149253,
       "word": "米游社崩了",
@@ -13473,6 +13481,14 @@
       "onboard_time": 1713425238,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147366,
+      "num": 147366,
+      "word": "不要过度美化那条没走完的路",
+      "onboard_time": 1713532998,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 147283,
@@ -14099,6 +14115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138909,
+      "num": 138909,
+      "word": "调降基金股票交易佣金费率",
+      "onboard_time": 1713532458,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 138825,
       "num": 138825,
       "word": "刘亦菲LV上海到达",
@@ -14169,6 +14193,14 @@
       "onboard_time": 1713266539,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137710,
+      "num": 137710,
+      "word": "特斯拉被裁中国员工发声",
+      "onboard_time": 1713533478,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 137587,
@@ -14585,14 +14617,6 @@
       "onboard_time": 1713522077,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 130911,
-      "num": 130911,
-      "word": "调降基金股票交易佣金费率",
-      "onboard_time": 1713532458,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 130834,
@@ -16035,14 +16059,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95279,
-      "num": 324982,
-      "word": "淘宝将支持无限次退货包运费",
-      "onboard_time": 1713531618,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 95222,
       "num": 95222,
       "word": "沙特电竞世界杯奖金公布",
@@ -16564,7 +16580,7 @@
     },
     {
       "raw_hot": 59767,
-      "num": 971856,
+      "num": 1039856,
       "word": "第14届北京国际电影节",
       "onboard_time": 1713516377,
       "rank": 2,
