@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713550893200,
+  "endTime": 1713551647277,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -13844,7 +13844,7 @@
     },
     {
       "raw_hot": 146466,
-      "num": 98542,
+      "num": 142443,
       "word": "歌手韩雪回归",
       "onboard_time": 1713548592,
       "rank": 11,
@@ -17163,6 +17163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 52844,
+      "num": 52844,
+      "word": "周扬青亚裔混血感",
+      "onboard_time": 1713550452,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 52307,
       "num": 402464,
       "word": "救命神器AED关键时刻能救命",
@@ -17313,14 +17321,6 @@
       "onboard_time": 1713012798,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44983,
-      "num": 38837,
-      "word": "周扬青亚裔混血感",
-      "onboard_time": 1713550452,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 44932,
