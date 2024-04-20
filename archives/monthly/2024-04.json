@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713623643315,
+  "endTime": 1713626234717,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2881,6 +2881,14 @@
       "onboard_time": 1712324058,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1208862,
+      "num": 1208862,
+      "word": "林高远11比1张本智和",
+      "onboard_time": 1713623300,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 1207845,
@@ -8171,6 +8179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 683078,
+      "num": 683078,
+      "word": "郑恺和苗苗实打实过日子型",
+      "onboard_time": 1713625098,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 682708,
       "num": 682708,
       "word": "迪丽热巴说实话我挺害怕的",
@@ -8745,6 +8761,14 @@
       "onboard_time": 1712669059,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 652407,
+      "num": 241445,
+      "word": "王俊凯知道健身房的梗",
+      "onboard_time": 1713624500,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 652236,
@@ -10419,14 +10443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 580326,
-      "num": 580326,
-      "word": "林高远11比1张本智和",
-      "onboard_time": 1713623300,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 580157,
       "num": 580157,
       "word": "赵奕欢36岁身材管理",
@@ -11161,6 +11177,14 @@
       "onboard_time": 1712044279,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 550209,
+      "num": 550209,
+      "word": "原来麻辣烫夹子是这样用的",
+      "onboard_time": 1713618018,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 550147,
@@ -13755,6 +13779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 472479,
+      "num": 472479,
+      "word": "垫底辣孩模仿魏若来",
+      "onboard_time": 1713620779,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 472381,
       "num": 472381,
       "word": "肖战羽绒服",
@@ -13825,14 +13857,6 @@
       "onboard_time": 1712672239,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 470219,
-      "num": 470219,
-      "word": "原来麻辣烫夹子是这样用的",
-      "onboard_time": 1713618018,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 470038,
@@ -14177,6 +14201,14 @@
       "onboard_time": 1712158340,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 460804,
+      "num": 460804,
+      "word": "孙颖莎歇会儿走不下去了",
+      "onboard_time": 1713622939,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 460799,
@@ -16859,6 +16891,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 394833,
+      "num": 394833,
+      "word": "许凯吻戏",
+      "onboard_time": 1713624619,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394794,
       "num": 394794,
       "word": "Jennie登VOGUE封面",
@@ -18209,14 +18249,6 @@
       "onboard_time": 1712018959,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 366107,
-      "num": 366107,
-      "word": "孙颖莎歇会儿走不下去了",
-      "onboard_time": 1713622939,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 366035,
@@ -21523,14 +21555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 306629,
-      "num": 306629,
-      "word": "垫底辣孩模仿魏若来",
-      "onboard_time": 1713620779,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 306500,
       "num": 306500,
       "word": "以官员称将对伊朗做出前所未有的反应",
@@ -23905,6 +23929,14 @@
       "onboard_time": 1713014418,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273740,
+      "num": 203256,
+      "word": "杨千嬅哭了",
+      "onboard_time": 1713625520,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 273728,
@@ -29131,6 +29163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 222817,
+      "num": 190141,
+      "word": "刘忻出走十年归来仍是老公",
+      "onboard_time": 1713623840,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222601,
       "num": 222601,
       "word": "虞书欣雪山写真",
@@ -31123,6 +31163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209093,
+      "num": 184418,
+      "word": "严浩翔的新发型",
+      "onboard_time": 1713626000,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209079,
       "num": 209079,
       "word": "中医建议胃强脾弱的人少吃这些",
@@ -32243,6 +32291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203881,
+      "num": 184371,
+      "word": "张艺兴算是回到自己舒适区了",
+      "onboard_time": 1713626178,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203873,
       "num": 203873,
       "word": "王源演唱会获批",
@@ -32793,6 +32849,14 @@
       "onboard_time": 1712730678,
       "rank": 31,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 201965,
+      "num": 201965,
+      "word": "十个洗头的坏习惯",
+      "onboard_time": 1713625459,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 201887,
@@ -34649,6 +34713,14 @@
       "onboard_time": 1713008718,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194133,
+      "num": 174678,
+      "word": "眼泪女王13",
+      "onboard_time": 1713623718,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 194058,
@@ -37139,6 +37211,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 184604,
+      "num": 184604,
+      "word": "马龙林高远会师决赛",
+      "onboard_time": 1713625038,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184491,
       "num": 184491,
       "word": "努比亚发布会",
@@ -37297,6 +37377,14 @@
       "onboard_time": 1712973557,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184038,
+      "num": 184038,
+      "word": "Bin我们一起加油",
+      "onboard_time": 1713626000,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 183930,
@@ -39203,6 +39291,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 174724,
+      "num": 174724,
+      "word": "林高远做到了",
+      "onboard_time": 1713624858,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174709,
       "num": 174709,
       "word": "林俊杰感谢粉丝21年的陪伴",
@@ -39217,6 +39313,14 @@
       "onboard_time": 1712034561,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174653,
+      "num": 174653,
+      "word": "汪苏泷闪现毛不易音乐节舞台",
+      "onboard_time": 1713626119,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 174530,
@@ -40291,6 +40395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168925,
+      "num": 168925,
+      "word": "刘宇宁赢了又好像输了",
+      "onboard_time": 1713624560,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168903,
       "num": 168903,
       "word": "井胧兄弟姐妹四个亲属关系不够用",
@@ -41211,6 +41323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164444,
+      "num": 164444,
+      "word": "杨千嬅成都",
+      "onboard_time": 1713626178,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164397,
       "num": 164397,
       "word": "迪丽热巴室内戏路透",
@@ -42025,6 +42145,14 @@
       "onboard_time": 1711888218,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160060,
+      "num": 160060,
+      "word": "2024LPL群访",
+      "onboard_time": 1713625219,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 160050,
@@ -42905,6 +43033,14 @@
       "onboard_time": 1712826857,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156307,
+      "num": 156307,
+      "word": "合租室友不爱搞卫生怎么办",
+      "onboard_time": 1713625400,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 156185,
@@ -46475,6 +46611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141861,
+      "num": 141861,
+      "word": "雷军向周鸿祎推荐小米SUV",
+      "onboard_time": 1713623840,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 141838,
       "num": 141838,
       "word": "在骑行的路上捡到了一只猫",
@@ -47785,6 +47929,14 @@
       "onboard_time": 1712739619,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135778,
+      "num": 135778,
+      "word": "把骂领导的话发大群里了",
+      "onboard_time": 1713626119,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 135695,

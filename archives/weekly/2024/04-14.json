@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713623643315,
+  "endTime": 1713626234717,
   "band_list": [
     {
       "raw_hot": 5314332,
@@ -849,6 +849,14 @@
       "onboard_time": 1713430578,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1208862,
+      "num": 1208862,
+      "word": "林高远11比1张本智和",
+      "onboard_time": 1713623300,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 1207479,
@@ -2731,6 +2739,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 683078,
+      "num": 683078,
+      "word": "郑恺和苗苗实打实过日子型",
+      "onboard_time": 1713625098,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 682708,
       "num": 682708,
       "word": "迪丽热巴说实话我挺害怕的",
@@ -2873,6 +2889,14 @@
       "onboard_time": 1713147917,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 652407,
+      "num": 241445,
+      "word": "王俊凯知道健身房的梗",
+      "onboard_time": 1713624500,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 650283,
@@ -3427,14 +3451,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 580326,
-      "num": 580326,
-      "word": "林高远11比1张本智和",
-      "onboard_time": 1713623300,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 579645,
       "num": 579645,
       "word": "国奥无缘奥运",
@@ -3753,6 +3769,14 @@
       "onboard_time": 1713397817,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 550209,
+      "num": 550209,
+      "word": "原来麻辣烫夹子是这样用的",
+      "onboard_time": 1713618018,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 549614,
@@ -4627,6 +4651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 472479,
+      "num": 472479,
+      "word": "垫底辣孩模仿魏若来",
+      "onboard_time": 1713620779,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 472381,
       "num": 472381,
       "word": "肖战羽绒服",
@@ -4657,14 +4689,6 @@
       "onboard_time": 1713164177,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 470219,
-      "num": 470219,
-      "word": "原来麻辣烫夹子是这样用的",
-      "onboard_time": 1713618018,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 470038,
@@ -4793,6 +4817,14 @@
       "onboard_time": 1713019820,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 460804,
+      "num": 460804,
+      "word": "孙颖莎歇会儿走不下去了",
+      "onboard_time": 1713622939,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 460799,
@@ -5723,6 +5755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 394833,
+      "num": 394833,
+      "word": "许凯吻戏",
+      "onboard_time": 1713624619,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394794,
       "num": 394794,
       "word": "Jennie登VOGUE封面",
@@ -6288,14 +6328,6 @@
       "word": "樊振东说自己并未懈怠",
       "onboard_time": 1713573376,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 366107,
-      "num": 366107,
-      "word": "孙颖莎歇会儿走不下去了",
-      "onboard_time": 1713622939,
-      "rank": 22,
       "category": "体育"
     },
     {
@@ -7419,14 +7451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 306629,
-      "num": 306629,
-      "word": "垫底辣孩模仿魏若来",
-      "onboard_time": 1713620779,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 306500,
       "num": 306500,
       "word": "以官员称将对伊朗做出前所未有的反应",
@@ -8241,6 +8265,14 @@
       "onboard_time": 1713435617,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 273740,
+      "num": 203256,
+      "word": "杨千嬅哭了",
+      "onboard_time": 1713625520,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 273331,
@@ -10011,6 +10043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 222817,
+      "num": 190141,
+      "word": "刘忻出走十年归来仍是老公",
+      "onboard_time": 1713623840,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222448,
       "num": 222448,
       "word": "王一博首次尝试自己做摄影师",
@@ -10747,6 +10787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209093,
+      "num": 184418,
+      "word": "严浩翔的新发型",
+      "onboard_time": 1713626000,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208987,
       "num": 208987,
       "word": "哈兰德",
@@ -11051,6 +11099,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 203881,
+      "num": 184371,
+      "word": "张艺兴算是回到自己舒适区了",
+      "onboard_time": 1713626178,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203832,
       "num": 203832,
       "word": "WTT",
@@ -11249,6 +11305,14 @@
       "onboard_time": 1713162317,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201965,
+      "num": 201965,
+      "word": "十个洗头的坏习惯",
+      "onboard_time": 1713625459,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 201887,
@@ -11937,6 +12001,14 @@
       "onboard_time": 1713507919,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194133,
+      "num": 174678,
+      "word": "眼泪女王13",
+      "onboard_time": 1713623718,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 194058,
@@ -12763,6 +12835,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 184604,
+      "num": 184604,
+      "word": "马龙林高远会师决赛",
+      "onboard_time": 1713625038,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184423,
       "num": 184423,
       "word": "AG12淘汰吃鸡",
@@ -12817,6 +12897,14 @@
       "onboard_time": 1713428658,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184038,
+      "num": 184038,
+      "word": "Bin我们一起加油",
+      "onboard_time": 1713626000,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 183930,
@@ -13547,6 +13635,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174724,
+      "num": 174724,
+      "word": "林高远做到了",
+      "onboard_time": 1713624858,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 174653,
+      "num": 174653,
+      "word": "汪苏泷闪现毛不易音乐节舞台",
+      "onboard_time": 1713626119,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174530,
       "num": 174530,
       "word": "相亲尽量安排在工作日",
@@ -13936,6 +14040,14 @@
       "word": "十天之后回到现实",
       "onboard_time": 1713411077,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168925,
+      "num": 168925,
+      "word": "刘宇宁赢了又好像输了",
+      "onboard_time": 1713624560,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -14363,6 +14475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164444,
+      "num": 164444,
+      "word": "杨千嬅成都",
+      "onboard_time": 1713626178,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164287,
       "num": 164287,
       "word": "群星闪耀时收视率",
@@ -14577,6 +14697,14 @@
       "onboard_time": 1713104060,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160060,
+      "num": 160060,
+      "word": "2024LPL群访",
+      "onboard_time": 1713625219,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 160050,
@@ -14889,6 +15017,14 @@
       "onboard_time": 1713422118,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156307,
+      "num": 156307,
+      "word": "合租室友不爱搞卫生怎么办",
+      "onboard_time": 1713625400,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 156113,
@@ -16355,6 +16491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141861,
+      "num": 141861,
+      "word": "雷军向周鸿祎推荐小米SUV",
+      "onboard_time": 1713623840,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 141804,
       "num": 141804,
       "word": "你介意和对象时间观念差异大吗",
@@ -16817,6 +16961,14 @@
       "onboard_time": 1713575837,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 135778,
+      "num": 135778,
+      "word": "把骂领导的话发大群里了",
+      "onboard_time": 1713626119,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 135626,
