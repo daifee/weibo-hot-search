@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/21 00:21:44 ~ 2024/04/21 07:16:33
+本榜单时间：2024/04/21 00:21:44 ~ 2024/04/21 07:34:08
 </p>
 </blockquote>
 <p>
@@ -17,6 +17,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%20B%E7%AB%99%23" target="weibo">
 白敬亭 B站（热度：1218760）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%B0%B1%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E9%81%93%E6%AD%89%23" target="weibo">
+黄子韬就不当言论道歉（热度：1116116）
 </a>
 </li>
 
@@ -75,12 +81,6 @@ yaoyao发文（热度：624598）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%B0%B1%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E9%81%93%E6%AD%89%23" target="weibo">
-黄子韬就不当言论道歉（热度：420469）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%8D%B0%E5%B0%BC%E7%81%AB%E5%B1%B1%E6%99%AF%E7%82%B9%E9%81%87%E9%9A%BE%23" target="weibo">
 网传中国女游客在印尼火山景点遇难（热度：417104）
 </a>
@@ -99,8 +99,14 @@ yaoyao发文（热度：624598）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%96%9D%E6%B0%B4%E5%90%8E%E4%B8%80%E7%9B%B4%E5%B0%8F%E4%BE%BF%E5%92%8C%E5%8D%8A%E5%A4%A9%E4%B8%8D%E5%8E%BB%E5%8E%95%E6%89%80%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%81%A5%E5%BA%B7%23" target="weibo">
+喝水后一直小便和半天不去厕所哪个更健康（热度：398419）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%8690%E5%B2%81%E8%80%81%E4%BA%BA%E5%AF%BF%E5%AE%B4%E4%B8%8A%E5%A5%B3%E6%AD%8C%E6%89%8B%E6%91%94%E5%80%92%E5%8E%BB%E4%B8%96%23" target="weibo">
-重庆90岁老人寿宴上女歌手摔倒去世（热度：360933）
+重庆90岁老人寿宴上女歌手摔倒去世（热度：381023）
 </a>
 </li>
 
@@ -129,8 +135,8 @@ yaoyao发文（热度：624598）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%96%9D%E6%B0%B4%E5%90%8E%E4%B8%80%E7%9B%B4%E5%B0%8F%E4%BE%BF%E5%92%8C%E5%8D%8A%E5%A4%A9%E4%B8%8D%E5%8E%BB%E5%8E%95%E6%89%80%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%81%A5%E5%BA%B7%23" target="weibo">
-喝水后一直小便和半天不去厕所哪个更健康（热度：300172）
+<a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E7%A7%B0%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BF%9F%E5%88%B0%E5%B4%A9%E6%BA%83%E5%BD%93%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%23" target="weibo">
+自称周杰伦演唱会迟到崩溃当事女子回应（热度：311747）
 </a>
 </li>
 
@@ -147,8 +153,8 @@ yaoyao发文（热度：624598）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E7%A7%B0%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BF%9F%E5%88%B0%E5%B4%A9%E6%BA%83%E5%BD%93%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%23" target="weibo">
-自称周杰伦演唱会迟到崩溃当事女子回应（热度：280368）
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE13%E7%A7%9204%E5%88%B7%E6%96%B0SB%23" target="weibo">
+吴艳妮13秒04刷新SB（热度：265830）
 </a>
 </li>
 
@@ -167,12 +173,6 @@ yaoyao发文（热度：624598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%AE%97%E6%98%AF%E5%9B%9E%E5%88%B0%E8%87%AA%E5%B7%B1%E8%88%92%E9%80%82%E5%8C%BA%E4%BA%86%23" target="weibo">
 张艺兴算是回到自己舒适区了（热度：238325）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE13%E7%A7%9204%E5%88%B7%E6%96%B0SB%23" target="weibo">
-吴艳妮13秒04刷新SB（热度：234730）
 </a>
 </li>
 
@@ -297,6 +297,12 @@ rapper洒水 余景天滋水（热度：115743）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%231%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E8%9B%87%E5%92%AC%E4%BC%A4%E7%88%B6%E6%AF%8D%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E6%95%91%E6%8F%B4%23" target="weibo">
+1岁男童被蛇咬伤父母教科书式救援（热度：115646）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%A4%B1%E8%B8%AA15%E5%B2%81%E7%94%B7%E5%AD%A9%E9%81%97%E4%BD%93%E5%B7%B2%E6%89%BE%E5%88%B0%23" target="weibo">
 湖南失踪15岁男孩遗体已找到（热度：115265）
 </a>
@@ -327,14 +333,44 @@ BLG战胜TES（热度：99490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E7%94%A8%E7%94%B5%E8%84%91%E7%9A%84%E4%BA%BA%E6%89%8B%E9%83%A8%E5%8A%9F%E8%83%BD%E9%80%80%E5%8C%96%E4%B8%A5%E9%87%8D%23" target="weibo">
+常用电脑的人手部功能退化严重（热度：88535）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone16%E5%92%8CPlus%E6%88%96%E6%9C%8915%E9%A1%B9%E6%94%B9%E8%BF%9B%23" target="weibo">
+iPhone16和Plus或有15项改进（热度：87539）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%90%A8%E9%A1%B6%E9%A1%B6%E7%9C%9F%E7%A5%9E%E5%A9%86%23" target="weibo">
+萨顶顶真神婆（热度：85992）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%903%E6%AC%A1%E8%A6%81%E5%9B%9E%E5%AE%B6%E6%8B%BF%E6%9D%90%E6%96%99%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%AF%B4%E5%95%A5%E4%B9%9F%E4%B8%8D%E8%AE%A9%23" target="weibo">
+女子3次要回家拿材料工作人员说啥也不让（热度：82837）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TES%20%E4%BA%BA%E6%9C%BA%23" target="weibo">
 TES 人机（热度：81674）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone16%E5%92%8CPlus%E6%88%96%E6%9C%8915%E9%A1%B9%E6%94%B9%E8%BF%9B%23" target="weibo">
-iPhone16和Plus或有15项改进（热度：78037）
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E5%A6%82%E4%BD%A0%E4%BB%8E4%E6%9C%8820%E6%97%A5%E5%BC%80%E5%A7%8B%E5%87%8F%E8%82%A5%23" target="weibo">
+假如你从4月20日开始减肥（热度：81399）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%BB%99%E6%9C%8B%E5%8F%8B%E7%82%AB%E8%80%80%E5%AE%88%E5%AE%AB%E8%9B%8B%E7%AA%81%E7%84%B6%E7%A0%B4%E5%A3%B3%23" target="weibo">
+男生给朋友炫耀守宫蛋突然破壳（热度：75111）
 </a>
 </li>
 
@@ -351,6 +387,12 @@ iPhone16和Plus或有15项改进（热度：78037）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D%E4%B8%8D%E5%88%B7%E7%89%99%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
+睡前不刷牙的危害有多大（热度：73108）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%942%E9%99%88%E6%A2%A6%23" target="weibo">
 孙颖莎4比2陈梦（热度：72861）
 </a>
@@ -363,14 +405,14 @@ iPhone16和Plus或有15项改进（热度：78037）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E7%94%A8%E7%94%B5%E8%84%91%E7%9A%84%E4%BA%BA%E6%89%8B%E9%83%A8%E5%8A%9F%E8%83%BD%E9%80%80%E5%8C%96%E4%B8%A5%E9%87%8D%23" target="weibo">
-常用电脑的人手部功能退化严重（热度：72550）
+<a href="https://s.weibo.com/weibo?q=%23%E6%94%BE%E4%B8%AA%E9%A3%8E%E7%AD%9D%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%88%90%E4%B8%BA%E4%BA%86play%E7%9A%84%E4%B8%80%E7%8E%AF%23" target="weibo">
+放个风筝不小心成为了play的一环（热度：71215）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%94%BE%E4%B8%AA%E9%A3%8E%E7%AD%9D%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%88%90%E4%B8%BA%E4%BA%86play%E7%9A%84%E4%B8%80%E7%8E%AF%23" target="weibo">
-放个风筝不小心成为了play的一环（热度：71215）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%AF%E8%BE%9E%E8%81%8C%23" target="weibo">
+张凯辞职（热度：68363）
 </a>
 </li>
 
@@ -387,8 +429,8 @@ CFPLS23总决赛（热度：67576）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E5%A6%82%E4%BD%A0%E4%BB%8E4%E6%9C%8820%E6%97%A5%E5%BC%80%E5%A7%8B%E5%87%8F%E8%82%A5%23" target="weibo">
-假如你从4月20日开始减肥（热度：62032）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E5%9B%A0%E4%B8%BA%E8%AE%BA%E6%96%87%E5%86%99%E4%B8%8D%E5%87%BA%E6%9D%A5%E8%A6%81%E9%80%80%E5%AD%A6%E4%BA%86%23" target="weibo">
+弟弟因为论文写不出来要退学了（热度：62889）
 </a>
 </li>
 
@@ -399,26 +441,8 @@ CFPLS23总决赛（热度：67576）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%90%A8%E9%A1%B6%E9%A1%B6%E7%9C%9F%E7%A5%9E%E5%A9%86%23" target="weibo">
-萨顶顶真神婆（热度：58727）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%BD%E6%98%9F%E7%9A%84%E6%84%8F%E4%B9%89%E6%98%AF%E6%95%91%E8%B5%8E%E8%87%AA%E5%B7%B1%23" target="weibo">
 追星的意义是救赎自己（热度：55402）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%231%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E8%9B%87%E5%92%AC%E4%BC%A4%E7%88%B6%E6%AF%8D%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E6%95%91%E6%8F%B4%23" target="weibo">
-1岁男童被蛇咬伤父母教科书式救援（热度：53851）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%BB%99%E6%9C%8B%E5%8F%8B%E7%82%AB%E8%80%80%E5%AE%88%E5%AE%AB%E8%9B%8B%E7%AA%81%E7%84%B6%E7%A0%B4%E5%A3%B3%23" target="weibo">
-男生给朋友炫耀守宫蛋突然破壳（热度：53616）
 </a>
 </li>
 
@@ -429,20 +453,38 @@ CFPLS23总决赛（热度：67576）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23680%E4%BD%99%E5%90%8D%E6%B6%89%E8%B5%8C%E8%AF%88%E5%AB%8C%E7%8A%AF%E4%BB%8E%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%8A%BC%E8%A7%A3%E5%9B%9E%E5%9B%BD%23" target="weibo">
+680余名涉赌诈嫌犯从柬埔寨押解回国（热度：52459）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%A9%B7%E6%9A%B4%E6%89%A3%23" target="weibo">
+朱婷暴扣（热度：52200）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3vs%E6%A3%AE%E6%9E%97%E7%8B%BC%23" target="weibo">
 太阳vs森林狼（热度：51848）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%AF%E8%BE%9E%E8%81%8C%23" target="weibo">
-张凯辞职（热度：51617）
+<a href="https://s.weibo.com/weibo?q=%23%E6%A3%AE%E6%9E%97%E7%8B%BC1%E6%AF%940%E5%A4%AA%E9%98%B3%23" target="weibo">
+森林狼1比0太阳（热度：50040）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4Psychic%E5%9B%BD%E5%86%85%E8%88%9E%E5%8F%B0%E9%A6%96%E7%A7%80%23" target="weibo">
 张艺兴Psychic国内舞台首秀（热度：49209）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BC%E5%9F%8E1%E6%AF%940%E5%88%87%E5%B0%94%E8%A5%BF%23" target="weibo">
+曼城1比0切尔西（热度：48426）
 </a>
 </li>
 
@@ -455,12 +497,6 @@ CFPLS23总决赛（热度：67576）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23" target="weibo">
 林高远张本智和（热度：45948）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A3%AE%E6%9E%97%E7%8B%BC1%E6%AF%940%E5%A4%AA%E9%98%B3%23" target="weibo">
-森林狼1比0太阳（热度：45419）
 </a>
 </li>
 

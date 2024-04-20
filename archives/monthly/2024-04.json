@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713654993566,
+  "endTime": 1713656048634,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3321,6 +3321,14 @@
       "onboard_time": 1712119162,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1116116,
+      "num": 1116116,
+      "word": "黄子韬就不当言论道歉",
+      "onboard_time": 1713654433,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1114730,
@@ -15955,14 +15963,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 420469,
-      "num": 420469,
-      "word": "黄子韬就不当言论道歉",
-      "onboard_time": 1713654433,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 420420,
       "num": 420420,
       "word": "武艺的洁癖被公开处刑了",
@@ -16753,6 +16753,14 @@
       "onboard_time": 1711972640,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398419,
+      "num": 200241,
+      "word": "喝水后一直小便和半天不去厕所哪个更健康",
+      "onboard_time": 1713654493,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 398168,
@@ -17601,6 +17609,14 @@
       "onboard_time": 1713102379,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 381023,
+      "num": 381023,
+      "word": "重庆90岁老人寿宴上女歌手摔倒去世",
+      "onboard_time": 1713629239,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380804,
@@ -18569,14 +18585,6 @@
       "onboard_time": 1713060559,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 360933,
-      "num": 360933,
-      "word": "重庆90岁老人寿宴上女歌手摔倒去世",
-      "onboard_time": 1713629239,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 360797,
@@ -21339,6 +21347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311747,
+      "num": 311747,
+      "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
+      "onboard_time": 1713641412,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 311576,
       "num": 311576,
       "word": "辛云来给林更新整笑场了",
@@ -22121,14 +22137,6 @@
       "onboard_time": 1712890397,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 300172,
-      "num": 200241,
-      "word": "喝水后一直小便和半天不去厕所哪个更健康",
-      "onboard_time": 1713654493,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 300146,
@@ -23555,14 +23563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 280368,
-      "num": 280368,
-      "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
-      "onboard_time": 1713641412,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 280201,
       "num": 280201,
       "word": "郭艾伦秀张元英转圈过人",
@@ -24633,6 +24633,14 @@
       "onboard_time": 1713618137,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 265830,
+      "num": 265830,
+      "word": "吴艳妮13秒04刷新SB",
+      "onboard_time": 1713651371,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 265820,
@@ -27825,14 +27833,6 @@
       "onboard_time": 1713338479,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234730,
-      "num": 234730,
-      "word": "吴艳妮13秒04刷新SB",
-      "onboard_time": 1713651371,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 234655,
@@ -51627,6 +51627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115646,
+      "num": 115646,
+      "word": "1岁男童被蛇咬伤父母教科书式救援",
+      "onboard_time": 1713654493,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115462,
       "num": 115462,
       "word": "蒋依依说今年不扯裙子了",
@@ -54035,6 +54043,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 88535,
+      "num": 86001,
+      "word": "常用电脑的人手部功能退化严重",
+      "onboard_time": 1713650471,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 88520,
       "num": 88520,
       "word": "心理学看多了没法吵架",
@@ -54072,6 +54088,14 @@
       "word": "小米MiniLED电视价格",
       "onboard_time": 1712756480,
       "rank": 16,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 87539,
+      "num": 87539,
+      "word": "iPhone16和Plus或有15项改进",
+      "onboard_time": 1713646090,
+      "rank": 26,
       "category": "数码"
     },
     {
@@ -54145,6 +54169,14 @@
       "onboard_time": 1713391031,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 85992,
+      "num": 85992,
+      "word": "萨顶顶真神婆",
+      "onboard_time": 1713653773,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 85651,
@@ -54267,6 +54299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82837,
+      "num": 238928,
+      "word": "女子3次要回家拿材料工作人员说啥也不让",
+      "onboard_time": 1713655394,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82606,
       "num": 82606,
       "word": "四月文案",
@@ -54329,6 +54369,14 @@
       "onboard_time": 1711941500,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 81399,
+      "num": 81399,
+      "word": "假如你从4月20日开始减肥",
+      "onboard_time": 1713654854,
+      "rank": 27,
+      "category": "运动健身"
     },
     {
       "raw_hot": 81334,
@@ -54459,14 +54507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78037,
-      "num": 78037,
-      "word": "iPhone16和Plus或有15项改进",
-      "onboard_time": 1713646090,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 77927,
       "num": 60180,
       "word": "锦超演的傅卫军",
@@ -54593,6 +54633,14 @@
       "onboard_time": 1712666778,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75111,
+      "num": 75111,
+      "word": "男生给朋友炫耀守宫蛋突然破壳",
+      "onboard_time": 1713652815,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 75102,
@@ -54763,6 +54811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 73108,
+      "num": 73108,
+      "word": "睡前不刷牙的危害有多大",
+      "onboard_time": 1713655454,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 73076,
       "num": 270242,
       "word": "Pura70镜头下的赛车速度",
@@ -54801,14 +54857,6 @@
       "onboard_time": 1713633137,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 72550,
-      "num": 72550,
-      "word": "常用电脑的人手部功能退化严重",
-      "onboard_time": 1713650471,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 72375,
@@ -55025,6 +55073,14 @@
       "onboard_time": 1712688371,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 68363,
+      "num": 68363,
+      "word": "张凯辞职",
+      "onboard_time": 1713654735,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 68082,
@@ -55291,6 +55347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62889,
+      "num": 62889,
+      "word": "弟弟因为论文写不出来要退学了",
+      "onboard_time": 1713655394,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 62840,
       "num": 62840,
       "word": "清明档首日票房破3亿",
@@ -55321,14 +55385,6 @@
       "onboard_time": 1713202693,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 62032,
-      "num": 62032,
-      "word": "假如你从4月20日开始减肥",
-      "onboard_time": 1713654854,
-      "rank": 27,
-      "category": "运动健身"
     },
     {
       "raw_hot": 61754,
@@ -55473,14 +55529,6 @@
       "onboard_time": 1712509393,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 58727,
-      "num": 58727,
-      "word": "萨顶顶真神婆",
-      "onboard_time": 1713653773,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 58418,
@@ -55723,14 +55771,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 53851,
-      "num": 59962,
-      "word": "1岁男童被蛇咬伤父母教科书式救援",
-      "onboard_time": 1713654493,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53718,
       "num": 443511,
       "word": "新款蔚来ET7北京车展上市",
@@ -55753,14 +55793,6 @@
       "onboard_time": 1713391992,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 53616,
-      "num": 53616,
-      "word": "男生给朋友炫耀守宫蛋突然破壳",
-      "onboard_time": 1713652815,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 53540,
@@ -55859,6 +55891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52459,
+      "num": 52459,
+      "word": "680余名涉赌诈嫌犯从柬埔寨押解回国",
+      "onboard_time": 1713655994,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52450,
       "num": 52450,
       "word": "林更新用油烟机灯给自己打光",
@@ -55891,6 +55931,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 52200,
+      "num": 52200,
+      "word": "朱婷暴扣",
+      "onboard_time": 1713655634,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52195,
       "num": 348450,
       "word": "仆人动画打戏",
@@ -55921,14 +55969,6 @@
       "onboard_time": 1713654854,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51617,
-      "num": 51617,
-      "word": "张凯辞职",
-      "onboard_time": 1713654735,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 51456,
@@ -56035,6 +56075,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 50040,
+      "num": 50040,
+      "word": "森林狼1比0太阳",
+      "onboard_time": 1713654854,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49657,
       "num": 49657,
       "word": "于和伟有这么破碎的哭戏进入内娱",
@@ -56089,6 +56137,14 @@
       "onboard_time": 1712359634,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 48426,
+      "num": 48426,
+      "word": "曼城1比0切尔西",
+      "onboard_time": 1713655994,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 48137,
@@ -56233,14 +56289,6 @@
       "onboard_time": 1712599932,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45419,
-      "num": 45419,
-      "word": "森林狼1比0太阳",
-      "onboard_time": 1713654854,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 44932,

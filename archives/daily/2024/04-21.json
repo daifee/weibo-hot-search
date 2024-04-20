@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713654993566,
+  "endTime": 1713656048634,
   "band_list": [
     {
       "raw_hot": 1218760,
@@ -8,6 +8,14 @@
       "word": "白敬亭 B站",
       "onboard_time": 1713619639,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1116116,
+      "num": 1116116,
+      "word": "黄子韬就不当言论道歉",
+      "onboard_time": 1713654433,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -83,14 +91,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 420469,
-      "num": 420469,
-      "word": "黄子韬就不当言论道歉",
-      "onboard_time": 1713654433,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 417104,
       "num": 417104,
       "word": "网传中国女游客在印尼火山景点遇难",
@@ -115,8 +115,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 360933,
-      "num": 360933,
+      "raw_hot": 398419,
+      "num": 200241,
+      "word": "喝水后一直小便和半天不去厕所哪个更健康",
+      "onboard_time": 1713654493,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 381023,
+      "num": 381023,
       "word": "重庆90岁老人寿宴上女歌手摔倒去世",
       "onboard_time": 1713629239,
       "rank": 18,
@@ -155,12 +163,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 300172,
-      "num": 200241,
-      "word": "喝水后一直小便和半天不去厕所哪个更健康",
-      "onboard_time": 1713654493,
-      "rank": 10,
-      "category": "健康医疗"
+      "raw_hot": 311747,
+      "num": 311747,
+      "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
+      "onboard_time": 1713641412,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 298792,
@@ -179,12 +187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280368,
-      "num": 280368,
-      "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
-      "onboard_time": 1713641412,
-      "rank": 30,
-      "category": "演出"
+      "raw_hot": 265830,
+      "num": 265830,
+      "word": "吴艳妮13秒04刷新SB",
+      "onboard_time": 1713651371,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 262825,
@@ -209,14 +217,6 @@
       "onboard_time": 1713626178,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234730,
-      "num": 234730,
-      "word": "吴艳妮13秒04刷新SB",
-      "onboard_time": 1713651371,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 225637,
@@ -379,6 +379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115646,
+      "num": 115646,
+      "word": "1岁男童被蛇咬伤父母教科书式救援",
+      "onboard_time": 1713654493,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115265,
       "num": 115265,
       "word": "湖南失踪15岁男孩遗体已找到",
@@ -419,6 +427,38 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 88535,
+      "num": 86001,
+      "word": "常用电脑的人手部功能退化严重",
+      "onboard_time": 1713650471,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 87539,
+      "num": 87539,
+      "word": "iPhone16和Plus或有15项改进",
+      "onboard_time": 1713646090,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 85992,
+      "num": 85992,
+      "word": "萨顶顶真神婆",
+      "onboard_time": 1713653773,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 82837,
+      "num": 238928,
+      "word": "女子3次要回家拿材料工作人员说啥也不让",
+      "onboard_time": 1713655394,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81674,
       "num": 107517,
       "word": "TES 人机",
@@ -427,12 +467,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 78037,
-      "num": 78037,
-      "word": "iPhone16和Plus或有15项改进",
-      "onboard_time": 1713646090,
-      "rank": 26,
-      "category": "数码"
+      "raw_hot": 81399,
+      "num": 81399,
+      "word": "假如你从4月20日开始减肥",
+      "onboard_time": 1713654854,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 75111,
+      "num": 75111,
+      "word": "男生给朋友炫耀守宫蛋突然破壳",
+      "onboard_time": 1713652815,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 74083,
@@ -451,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73108,
+      "num": 73108,
+      "word": "睡前不刷牙的危害有多大",
+      "onboard_time": 1713655454,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 72861,
       "num": 107515,
       "word": "孙颖莎4比2陈梦",
@@ -467,20 +523,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 72550,
-      "num": 72550,
-      "word": "常用电脑的人手部功能退化严重",
-      "onboard_time": 1713650471,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 71215,
       "num": 98999,
       "word": "放个风筝不小心成为了play的一环",
       "onboard_time": 1713630078,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 68363,
+      "num": 68363,
+      "word": "张凯辞职",
+      "onboard_time": 1713654735,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 67576,
@@ -499,12 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62032,
-      "num": 62032,
-      "word": "假如你从4月20日开始减肥",
-      "onboard_time": 1713654854,
-      "rank": 27,
-      "category": "运动健身"
+      "raw_hot": 62889,
+      "num": 62889,
+      "word": "弟弟因为论文写不出来要退学了",
+      "onboard_time": 1713655394,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 60265,
@@ -512,14 +568,6 @@
       "word": "戚薇怎么不笑了",
       "onboard_time": 1713638053,
       "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 58727,
-      "num": 58727,
-      "word": "萨顶顶真神婆",
-      "onboard_time": 1713653773,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -531,28 +579,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 53851,
-      "num": 59962,
-      "word": "1岁男童被蛇咬伤父母教科书式救援",
-      "onboard_time": 1713654493,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53616,
-      "num": 53616,
-      "word": "男生给朋友炫耀守宫蛋突然破壳",
-      "onboard_time": 1713652815,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 52756,
       "num": 203847,
       "word": "独臂独腿小伙成功登顶泰山",
       "onboard_time": 1713642071,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52459,
+      "num": 52459,
+      "word": "680余名涉赌诈嫌犯从柬埔寨押解回国",
+      "onboard_time": 1713655994,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52200,
+      "num": 52200,
+      "word": "朱婷暴扣",
+      "onboard_time": 1713655634,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 51848,
@@ -563,12 +611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51617,
-      "num": 51617,
-      "word": "张凯辞职",
-      "onboard_time": 1713654735,
-      "rank": 36,
-      "category": "电竞"
+      "raw_hot": 50040,
+      "num": 50040,
+      "word": "森林狼1比0太阳",
+      "onboard_time": 1713654854,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 49209,
@@ -577,6 +625,14 @@
       "onboard_time": 1713634634,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48426,
+      "num": 48426,
+      "word": "曼城1比0切尔西",
+      "onboard_time": 1713655994,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 47188,
@@ -592,14 +648,6 @@
       "word": "林高远张本智和",
       "onboard_time": 1713616037,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 45419,
-      "num": 45419,
-      "word": "森林狼1比0太阳",
-      "onboard_time": 1713654854,
-      "rank": 39,
       "category": "体育"
     },
     {
