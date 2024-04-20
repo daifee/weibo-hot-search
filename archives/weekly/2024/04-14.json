@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713587663314,
+  "endTime": 1713590230696,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -427,6 +427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1505659,
+      "num": 1505659,
+      "word": "韦神复出",
+      "onboard_time": 1713585738,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1503735,
       "num": 1503735,
       "word": "五一不调休行不行",
@@ -761,6 +769,14 @@
       "onboard_time": 1713265278,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1214674,
+      "num": 1214674,
+      "word": "10个韩国人去吃饭点了两个菜",
+      "onboard_time": 1713586158,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 1214238,
@@ -1179,6 +1195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 999068,
+      "num": 999068,
+      "word": "花27万彩礼订婚准新娘十余天后自杀身亡",
+      "onboard_time": 1713587477,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 995049,
       "num": 654073,
       "word": "3年前掉河里的20g金戒指捞上来了",
@@ -1497,14 +1521,6 @@
       "onboard_time": 1713426738,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 901064,
-      "num": 901064,
-      "word": "韦神复出",
-      "onboard_time": 1713585738,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 899267,
@@ -2163,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 747924,
+      "num": 747924,
+      "word": "台湾一对情侣吵架女子跳车身亡",
+      "onboard_time": 1713588438,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 747923,
       "num": 747923,
       "word": "为什么医院禁止你送花给病人",
@@ -2553,14 +2577,6 @@
       "onboard_time": 1713089059,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 668768,
-      "num": 431682,
-      "word": "10个韩国人去吃饭点了两个菜",
-      "onboard_time": 1713586158,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 668458,
@@ -3547,6 +3563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 530428,
+      "num": 530428,
+      "word": "青春环游记",
+      "onboard_time": 1713588857,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 530269,
       "num": 530269,
       "word": "王祖蓝在香港被放假的广西人包围了",
@@ -3593,6 +3617,14 @@
       "onboard_time": 1713256278,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525181,
+      "num": 525181,
+      "word": "魏嬿婉 进忠",
+      "onboard_time": 1713584298,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 524883,
@@ -4329,14 +4361,6 @@
       "onboard_time": 1713066076,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 462338,
-      "num": 462338,
-      "word": "魏嬿婉 进忠",
-      "onboard_time": 1713584298,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 462040,
@@ -6123,6 +6147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 344885,
+      "num": 277987,
+      "word": "被小猫冷暴力了三年",
+      "onboard_time": 1713586217,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 344841,
       "num": 344841,
       "word": "易烊千玺代言九号",
@@ -6729,14 +6761,6 @@
       "onboard_time": 1713504919,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 311946,
-      "num": 277987,
-      "word": "被小猫冷暴力了三年",
-      "onboard_time": 1713586217,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 311361,
@@ -8723,6 +8747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233387,
+      "num": 233387,
+      "word": "小林制药问题原料检出两种意想不到的物质",
+      "onboard_time": 1713588677,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233330,
       "num": 233330,
       "word": "陈梦vs阿库拉",
@@ -9691,6 +9723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210925,
+      "num": 210925,
+      "word": "李现和新剧奶奶合照",
+      "onboard_time": 1713589097,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210908,
       "num": 210908,
       "word": "五一出境机票热度大涨56%",
@@ -10065,6 +10105,14 @@
       "onboard_time": 1713583697,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204008,
+      "num": 204008,
+      "word": "时代少年团演唱会 抢票",
+      "onboard_time": 1713588976,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 203896,
@@ -11795,6 +11843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 182170,
+      "num": 182170,
+      "word": "鹈鹕季后赛对阵雷霆",
+      "onboard_time": 1713589097,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181856,
       "num": 181856,
       "word": "以色列要求召开安理会特别会议",
@@ -12363,14 +12419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173746,
-      "num": 173746,
-      "word": "花27万彩礼订婚准新娘十余天后自杀身亡",
-      "onboard_time": 1713587477,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173684,
       "num": 173684,
       "word": "中国女排2024世联赛大名单",
@@ -12425,6 +12473,14 @@
       "onboard_time": 1713511818,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 172461,
+      "num": 172461,
+      "word": "无期迷途",
+      "onboard_time": 1713588318,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 172459,
@@ -13459,6 +13515,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 156594,
+      "num": 156594,
+      "word": "郭碧婷心态",
+      "onboard_time": 1713589937,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156540,
       "num": 156540,
       "word": "群星闪耀时 黑猫警长",
@@ -14329,6 +14393,14 @@
       "onboard_time": 1713443899,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 147521,
+      "num": 147521,
+      "word": "张艺兴刘宇宁丁程鑫斗舞",
+      "onboard_time": 1713588138,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 147410,
@@ -15291,6 +15363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134612,
+      "num": 133449,
+      "word": "李溪芮自嘲秃头姐",
+      "onboard_time": 1713585377,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134347,
       "num": 134347,
       "word": "眼泪女王room tour",
@@ -15843,6 +15923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126255,
+      "num": 126255,
+      "word": "王琳 中年顾里",
+      "onboard_time": 1713590118,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126249,
       "num": 126249,
       "word": "Bin和369互放狠话",
@@ -15905,6 +15993,14 @@
       "onboard_time": 1713397216,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 125364,
+      "num": 125364,
+      "word": "城市寻美记",
+      "onboard_time": 1713589577,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 125205,
@@ -17867,6 +17963,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 56703,
+      "num": 262717,
+      "word": "Pura70镜头下的赛车速度",
+      "onboard_time": 1713588198,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 56003,
       "num": 56003,
       "word": "浙江人爱吃的地衣大量出现价格还不低",
@@ -18116,7 +18220,7 @@
     },
     {
       "raw_hot": 47299,
-      "num": 669564,
+      "num": 1045996,
       "word": "耕韵有时岁岁新",
       "onboard_time": 1713582016,
       "rank": 2,
@@ -18513,6 +18617,14 @@
       "onboard_time": 1713522858,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 26675,
+      "num": 171195,
+      "word": "玩P5X后的后遗症",
+      "onboard_time": 1713589337,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 26628,

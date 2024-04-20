@@ -1,0 +1,410 @@
+{
+  "runTime": 1713590230696,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1505659,
+        "num": 1505659,
+        "word": "韦神复出",
+        "onboard_time": 1713585738,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1214674,
+        "num": 1214674,
+        "word": "10个韩国人去吃饭点了两个菜",
+        "onboard_time": 1713586158,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 36006,
+        "num": 1045996,
+        "word": "耕韵有时岁岁新",
+        "onboard_time": 1713582016,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999068,
+        "num": 999068,
+        "word": "花27万彩礼订婚准新娘十余天后自杀身亡",
+        "onboard_time": 1713587477,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787254,
+        "num": 787254,
+        "word": "女性排卵时身体会有5种改变",
+        "onboard_time": 1713578237,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 747924,
+        "num": 747924,
+        "word": "台湾一对情侣吵架女子跳车身亡",
+        "onboard_time": 1713588438,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530428,
+        "num": 530428,
+        "word": "青春环游记",
+        "onboard_time": 1713588857,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525181,
+        "num": 525181,
+        "word": "魏嬿婉 进忠",
+        "onboard_time": 1713584298,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489396,
+        "num": 489396,
+        "word": "TFBOYS为王俊凯宣传新综艺",
+        "onboard_time": 1713586697,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163441,
+        "num": 376632,
+        "word": "福宝有多爱吃家乡饭",
+        "onboard_time": 1713573917,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1207918,
+        "num": 376543,
+        "word": "鹿晗回复关晓彤好宠",
+        "onboard_time": 1713574397,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376397,
+        "num": 376397,
+        "word": "真情侣",
+        "onboard_time": 1713580335,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331568,
+        "num": 331568,
+        "word": "花儿与少年好友记定档",
+        "onboard_time": 1713582977,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313425,
+        "num": 313425,
+        "word": "调休原则是最小干预",
+        "onboard_time": 1713579196,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298782,
+        "num": 298782,
+        "word": "贝克街的亡灵 22年前的动画",
+        "onboard_time": 1713578538,
+        "rank": 14,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 330863,
+        "num": 294360,
+        "word": "鹿晗关晓彤好好嗑",
+        "onboard_time": 1713571637,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282031,
+        "num": 282031,
+        "word": "恶犬疑似狂犬病发作咬伤路人后倒地",
+        "onboard_time": 1713579736,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271983,
+        "num": 271983,
+        "word": "周扬青回应rap疑似内涵罗志祥",
+        "onboard_time": 1713578538,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264232,
+        "num": 264232,
+        "word": "美国再次发生自焚事件",
+        "onboard_time": 1713584177,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 56703,
+        "num": 262717,
+        "word": "Pura70镜头下的赛车速度",
+        "onboard_time": 1713588198,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 572276,
+        "num": 256724,
+        "word": "我要求我女儿休学了一年",
+        "onboard_time": 1713571757,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344885,
+        "num": 255737,
+        "word": "被小猫冷暴力了三年",
+        "onboard_time": 1713586217,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292205,
+        "num": 249351,
+        "word": "关晓彤连续七年为鹿晗庆生",
+        "onboard_time": 1713568213,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248815,
+        "num": 248815,
+        "word": "徐志胜投资一次丢脸一辈子",
+        "onboard_time": 1713581056,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233387,
+        "num": 233387,
+        "word": "小林制药问题原料检出两种意想不到的物质",
+        "onboard_time": 1713588677,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219980,
+        "num": 219980,
+        "word": "赵奕欢非过没丑过",
+        "onboard_time": 1713584058,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210925,
+        "num": 210925,
+        "word": "李现和新剧奶奶合照",
+        "onboard_time": 1713589097,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204008,
+        "num": 204008,
+        "word": "时代少年团演唱会 抢票",
+        "onboard_time": 1713588976,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193952,
+        "num": 193952,
+        "word": "国奥无缘奥运",
+        "onboard_time": 1713581359,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182170,
+        "num": 182170,
+        "word": "鹈鹕季后赛对阵雷霆",
+        "onboard_time": 1713589097,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179040,
+        "num": 179040,
+        "word": "陈丽君偏偏你最争气",
+        "onboard_time": 1713583697,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172683,
+        "num": 172683,
+        "word": "何洁不是第一",
+        "onboard_time": 1713570316,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172461,
+        "num": 172461,
+        "word": "无期迷途",
+        "onboard_time": 1713588318,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26675,
+        "num": 171195,
+        "word": "玩P5X后的后遗症",
+        "onboard_time": 1713589337,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170757,
+        "num": 170757,
+        "word": "花6万多考公上岸值吗",
+        "onboard_time": 1713576798,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156594,
+        "num": 156594,
+        "word": "郭碧婷心态",
+        "onboard_time": 1713589937,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151663,
+        "num": 151663,
+        "word": "宋雨琦Minnie隔空联动",
+        "onboard_time": 1713586697,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149471,
+        "num": 149471,
+        "word": "李溪芮发缝",
+        "onboard_time": 1713539539,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147521,
+        "num": 147521,
+        "word": "张艺兴刘宇宁丁程鑫斗舞",
+        "onboard_time": 1713588138,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141677,
+        "num": 141677,
+        "word": "中医建议让五官好看的六个动作",
+        "onboard_time": 1713578237,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140119,
+        "num": 140119,
+        "word": "林俊杰F1颁奖嘉宾",
+        "onboard_time": 1713586458,
+        "rank": 40,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 134088,
+        "num": 134088,
+        "word": "第五人格抢票",
+        "onboard_time": 1713587178,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134612,
+        "num": 133449,
+        "word": "李溪芮自嘲秃头姐",
+        "onboard_time": 1713585377,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128451,
+        "num": 128451,
+        "word": "建议张予曦不要看自己的弹幕",
+        "onboard_time": 1713583759,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127774,
+        "num": 127774,
+        "word": "渡边雄太告别NBA",
+        "onboard_time": 1713586516,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126255,
+        "num": 126255,
+        "word": "王琳 中年顾里",
+        "onboard_time": 1713590118,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125725,
+        "num": 125725,
+        "word": "马斯克发文反对美国禁止TikTok",
+        "onboard_time": 1713579138,
+        "rank": 46,
+        "category": "互联网,国外时政"
+      },
+      {
+        "raw_hot": 125364,
+        "num": 125364,
+        "word": "城市寻美记",
+        "onboard_time": 1713589577,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 124544,
+        "num": 124544,
+        "word": "长期读书的人身上有什么特征",
+        "onboard_time": 1713579017,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 123722,
+        "num": 123722,
+        "word": "iPhone15用户有必要换iPhone16吗",
+        "onboard_time": 1713576917,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人民解放军信息支援部队成立#"
+    }
+  }
+}
