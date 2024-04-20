@@ -1,6 +1,6 @@
 {
   "startTime": 1713543834648,
-  "endTime": 1713584055453,
+  "endTime": 1713586927146,
   "band_list": [
     {
       "raw_hot": 2200058,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2036011,
-      "num": 353399,
+      "num": 375897,
       "word": "鹿晗回复关晓彤好宠",
       "onboard_time": 1713574397,
       "rank": 15,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1855664,
-      "num": 275080,
+      "num": 286241,
       "word": "关晓彤连续七年为鹿晗庆生",
       "onboard_time": 1713568213,
       "rank": 15,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 864784,
-      "num": 303263,
+      "num": 373963,
       "word": "真情侣",
       "onboard_time": 1713580335,
       "rank": 31,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604548,
+      "num": 604548,
+      "word": "调休原则是最小干预",
+      "onboard_time": 1713579196,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 582560,
       "num": 582560,
       "word": "母亲去世父亲天天去安葬地陪伴",
@@ -123,8 +131,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579645,
+      "num": 579645,
+      "word": "国奥无缘奥运",
+      "onboard_time": 1713581359,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 577384,
+      "num": 577384,
+      "word": "徐志胜投资一次丢脸一辈子",
+      "onboard_time": 1713581056,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567744,
-      "num": 288550,
+      "num": 362854,
       "word": "邓超陈赫给鹿晗庆生",
       "onboard_time": 1713569714,
       "rank": 15,
@@ -145,6 +169,14 @@
       "onboard_time": 1713578538,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 503981,
+      "num": 503981,
+      "word": "花儿与少年好友记定档",
+      "onboard_time": 1713582977,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 486196,
@@ -171,20 +203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463811,
-      "num": 463811,
-      "word": "花儿与少年好友记定档",
-      "onboard_time": 1713582977,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 456727,
       "num": 456727,
       "word": "乘风2024排名",
       "onboard_time": 1713571337,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 451530,
+      "num": 451530,
+      "word": "韦神复出",
+      "onboard_time": 1713585738,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 450735,
@@ -195,8 +227,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 443722,
+      "num": 443722,
+      "word": "魏嬿婉 进忠",
+      "onboard_time": 1713584298,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 443146,
-      "num": 287019,
+      "num": 366161,
       "word": "马斯克发文反对美国禁止TikTok",
       "onboard_time": 1713579138,
       "rank": 25,
@@ -211,28 +251,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 429805,
-      "num": 429805,
-      "word": "调休原则是最小干预",
-      "onboard_time": 1713579196,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 424318,
       "num": 424318,
       "word": "男子酒后打死10余只火烈鸟获刑5年",
       "onboard_time": 1713536539,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424142,
-      "num": 262329,
-      "word": "徐志胜投资一次丢脸一辈子",
-      "onboard_time": 1713581056,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 399348,
@@ -291,6 +315,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 362644,
+      "num": 362644,
+      "word": "TFBOYS为王俊凯宣传新综艺",
+      "onboard_time": 1713586697,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361085,
       "num": 361085,
       "word": "河北承德围场发生交通事故致8死",
@@ -315,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335094,
+      "num": 363012,
+      "word": "美国再次发生自焚事件",
+      "onboard_time": 1713584177,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 329505,
       "num": 329505,
       "word": "范丞丞为了讨好宋雨琦跳fate",
@@ -331,20 +371,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318450,
-      "num": 318450,
-      "word": "国奥无缘奥运",
-      "onboard_time": 1713581359,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 307946,
       "num": 307946,
       "word": "黄牛克星林俊杰",
       "onboard_time": 1713538999,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 306095,
+      "num": 283062,
+      "word": "成毅说青春是甜的",
+      "onboard_time": 1713582317,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 304873,
@@ -379,6 +419,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 292974,
+      "num": 292974,
+      "word": "10个韩国人去吃饭点了两个菜",
+      "onboard_time": 1713586158,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 284656,
       "num": 284656,
       "word": "陈昊宇分数",
@@ -388,7 +436,7 @@
     },
     {
       "raw_hot": 282645,
-      "num": 353761,
+      "num": 379356,
       "word": "福宝有多爱吃家乡饭",
       "onboard_time": 1713573917,
       "rank": 9,
@@ -401,6 +449,14 @@
       "onboard_time": 1713573797,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273283,
+      "num": 273283,
+      "word": "赵奕欢非过没丑过",
+      "onboard_time": 1713584058,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 269027,
@@ -467,6 +523,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227721,
+      "num": 199536,
+      "word": "被小猫冷暴力了三年",
+      "onboard_time": 1713586217,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 224392,
+      "num": 224392,
+      "word": "周冠宇冲刺赛第9",
+      "onboard_time": 1713585557,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219870,
       "num": 140181,
       "word": "张予曦 可以不喝哑药吗",
@@ -480,6 +552,30 @@
       "word": "李溪芮漫画腿",
       "onboard_time": 1713522677,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 214390,
+      "num": 214390,
+      "word": "浙江专升本",
+      "onboard_time": 1713586037,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 206321,
+      "num": 206321,
+      "word": "林俊杰F1颁奖嘉宾",
+      "onboard_time": 1713586458,
+      "rank": 28,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 202604,
+      "num": 202604,
+      "word": "陈丽君偏偏你最争气",
+      "onboard_time": 1713583697,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -555,14 +651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187618,
-      "num": 210711,
-      "word": "成毅说青春是甜的",
-      "onboard_time": 1713582317,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187423,
       "num": 182167,
       "word": "周扬青亚裔混血感",
@@ -627,6 +715,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 169509,
+      "num": 169509,
+      "word": "华晨宇香港演唱会官宣",
+      "onboard_time": 1713586578,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168838,
       "num": 168838,
       "word": "朝雪录开机",
@@ -675,6 +771,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148279,
+      "num": 148279,
+      "word": "F1",
+      "onboard_time": 1713585438,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148003,
+      "num": 148003,
+      "word": "霉霉新歌FortnightMV",
+      "onboard_time": 1713585978,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147393,
       "num": 147393,
       "word": "当你吃完很辣的东西后喝热水",
@@ -697,6 +809,14 @@
       "onboard_time": 1713536959,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140616,
+      "num": 140616,
+      "word": "渡边雄太告别NBA",
+      "onboard_time": 1713586516,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 140227,
@@ -803,12 +923,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130027,
-      "num": 130027,
-      "word": "陈丽君偏偏你最争气",
-      "onboard_time": 1713583697,
+      "raw_hot": 129417,
+      "num": 129417,
+      "word": "特斯拉ModelY美国全系降价",
+      "onboard_time": 1713584598,
       "rank": 42,
-      "category": "综艺"
+      "category": "汽车"
     },
     {
       "raw_hot": 126813,
@@ -825,6 +945,14 @@
       "onboard_time": 1713529397,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125415,
+      "num": 125415,
+      "word": "宋雨琦Minnie隔空联动",
+      "onboard_time": 1713586697,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 124640,
@@ -1147,7 +1275,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43660,
+      "raw_hot": 46368,
       "num": 597439,
       "word": "耕韵有时岁岁新",
       "onboard_time": 1713582016,
