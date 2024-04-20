@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/21 00:21:44 ~ 2024/04/21 02:22:09
+本榜单时间：2024/04/21 00:21:44 ~ 2024/04/21 02:33:54
 </p>
 </blockquote>
 <p>
@@ -359,6 +359,12 @@ CFPLS23总决赛（热度：67576）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23" target="weibo">
 林高远张本智和（热度：45948）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E8%B0%88%E5%A4%A9%E5%9D%9B%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E8%AF%84%E5%88%A4%E6%A0%87%E5%87%86%23" target="weibo">
+朱一龙谈天坛奖最佳男主角评判标准（热度：36903）
 </a>
 </li>
 
