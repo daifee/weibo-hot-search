@@ -1,6 +1,6 @@
 {
   "startTime": 1713543834648,
-  "endTime": 1713583180338,
+  "endTime": 1713584055453,
   "band_list": [
     {
       "raw_hot": 2200058,
@@ -35,8 +35,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1131225,
-      "num": 1131225,
+      "raw_hot": 1184043,
+      "num": 1184043,
       "word": "女性排卵时身体会有5种改变",
       "onboard_time": 1713578237,
       "rank": 20,
@@ -59,8 +59,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 839676,
-      "num": 285982,
+      "raw_hot": 864784,
+      "num": 303263,
       "word": "真情侣",
       "onboard_time": 1713580335,
       "rank": 31,
@@ -131,20 +131,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510432,
+      "num": 510432,
+      "word": "贝克街的亡灵 22年前的动画",
+      "onboard_time": 1713578538,
+      "rank": 14,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 504178,
       "num": 352739,
       "word": "周扬青回应rap疑似内涵罗志祥",
       "onboard_time": 1713578538,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 500913,
-      "num": 500913,
-      "word": "贝克街的亡灵 22年前的动画",
-      "onboard_time": 1713578538,
-      "rank": 14,
-      "category": "动漫"
     },
     {
       "raw_hot": 486196,
@@ -163,6 +163,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 474687,
+      "num": 474687,
+      "word": "恶犬疑似狂犬病发作咬伤路人后倒地",
+      "onboard_time": 1713579736,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463811,
+      "num": 463811,
+      "word": "花儿与少年好友记定档",
+      "onboard_time": 1713582977,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 456727,
       "num": 456727,
       "word": "乘风2024排名",
@@ -179,12 +195,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 449199,
-      "num": 449199,
-      "word": "恶犬疑似狂犬病发作咬伤路人后倒地",
-      "onboard_time": 1713579736,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 443146,
+      "num": 287019,
+      "word": "马斯克发文反对美国禁止TikTok",
+      "onboard_time": 1713579138,
+      "rank": 25,
+      "category": "互联网,国外时政"
     },
     {
       "raw_hot": 442584,
@@ -195,12 +211,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 440703,
-      "num": 281208,
-      "word": "马斯克发文反对美国禁止TikTok",
-      "onboard_time": 1713579138,
-      "rank": 25,
-      "category": "互联网,国外时政"
+      "raw_hot": 429805,
+      "num": 429805,
+      "word": "调休原则是最小干预",
+      "onboard_time": 1713579196,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 424318,
@@ -209,6 +225,14 @@
       "onboard_time": 1713536539,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424142,
+      "num": 262329,
+      "word": "徐志胜投资一次丢脸一辈子",
+      "onboard_time": 1713581056,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 399348,
@@ -249,14 +273,6 @@
       "onboard_time": 1713570316,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 384750,
-      "num": 384750,
-      "word": "调休原则是最小干预",
-      "onboard_time": 1713579196,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 366489,
@@ -315,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318450,
+      "num": 318450,
+      "word": "国奥无缘奥运",
+      "onboard_time": 1713581359,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307946,
       "num": 307946,
       "word": "黄牛克星林俊杰",
@@ -353,14 +377,6 @@
       "onboard_time": 1713577518,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 297628,
-      "num": 244078,
-      "word": "徐志胜投资一次丢脸一辈子",
-      "onboard_time": 1713581056,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 284656,
@@ -467,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212565,
-      "num": 212565,
-      "word": "国奥无缘奥运",
-      "onboard_time": 1713581359,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199627,
       "num": 199627,
       "word": "赵丽颖与凤行战绩",
@@ -547,11 +555,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187618,
+      "num": 210711,
+      "word": "成毅说青春是甜的",
+      "onboard_time": 1713582317,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187423,
       "num": 182167,
       "word": "周扬青亚裔混血感",
       "onboard_time": 1713550452,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185014,
+      "num": 185014,
+      "word": "建议张予曦不要看自己的弹幕",
+      "onboard_time": 1713583759,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -619,14 +643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 161823,
-      "num": 161823,
-      "word": "花儿与少年好友记定档",
-      "onboard_time": 1713582977,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156994,
       "num": 103946,
       "word": "肖战是学弟公认的校草",
@@ -659,20 +675,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146422,
-      "num": 210711,
-      "word": "成毅说青春是甜的",
-      "onboard_time": 1713582317,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 143231,
-      "num": 143231,
+      "raw_hot": 147393,
+      "num": 147393,
       "word": "当你吃完很辣的东西后喝热水",
       "onboard_time": 1713579258,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 145142,
+      "num": 145142,
+      "word": "Meiko说赛前不装难道赛后装",
+      "onboard_time": 1713583576,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 142451,
@@ -739,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134347,
+      "num": 134347,
+      "word": "眼泪女王room tour",
+      "onboard_time": 1713582136,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132889,
       "num": 132889,
       "word": "长期出差的工作是什么样子的",
@@ -763,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130935,
+      "num": 130935,
+      "word": "金智媛杂志采访",
+      "onboard_time": 1713583398,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 130855,
       "num": 130855,
       "word": "杀妻谷歌工程师或被关押监狱精神病房",
@@ -771,12 +803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130369,
-      "num": 130369,
-      "word": "眼泪女王room tour",
-      "onboard_time": 1713582136,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 130027,
+      "num": 130027,
+      "word": "陈丽君偏偏你最争气",
+      "onboard_time": 1713583697,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 126813,
@@ -1011,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82204,
+      "num": 103076,
+      "word": "外婆的顶级偏爱跨越一千年",
+      "onboard_time": 1713583576,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 80540,
       "num": 99359,
       "word": "林高远vs樊振东",
@@ -1092,7 +1132,7 @@
     },
     {
       "raw_hot": 50949,
-      "num": 211244,
+      "num": 226940,
       "word": "上海临时工爆改异人店长",
       "onboard_time": 1713581117,
       "rank": 19,
@@ -1105,6 +1145,14 @@
       "onboard_time": 1713555250,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43660,
+      "num": 597439,
+      "word": "耕韵有时岁岁新",
+      "onboard_time": 1713582016,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42255,
@@ -1121,14 +1169,6 @@
       "onboard_time": 1713548173,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 38173,
-      "num": 597439,
-      "word": "耕韵有时岁岁新",
-      "onboard_time": 1713582016,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37521,

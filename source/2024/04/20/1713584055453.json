@@ -1,0 +1,410 @@
+{
+  "runTime": 1713584055453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1184043,
+        "num": 1184043,
+        "word": "女性排卵时身体会有5种改变",
+        "onboard_time": 1713578237,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 557004,
+        "num": 557004,
+        "word": "我要求我女儿休学了一年",
+        "onboard_time": 1713571757,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43660,
+        "num": 533399,
+        "word": "耕韵有时岁岁新",
+        "onboard_time": 1713582016,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510432,
+        "num": 510432,
+        "word": "贝克街的亡灵 22年前的动画",
+        "onboard_time": 1713578538,
+        "rank": 3,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 474687,
+        "num": 474687,
+        "word": "恶犬疑似狂犬病发作咬伤路人后倒地",
+        "onboard_time": 1713579736,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463811,
+        "num": 463811,
+        "word": "花儿与少年好友记定档",
+        "onboard_time": 1713582977,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463514,
+        "num": 463514,
+        "word": "侯雯元曝刘耀文睡觉踢人",
+        "onboard_time": 1713574578,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429805,
+        "num": 429805,
+        "word": "调休原则是最小干预",
+        "onboard_time": 1713579196,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318450,
+        "num": 318450,
+        "word": "国奥无缘奥运",
+        "onboard_time": 1713581359,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201156,
+        "num": 315690,
+        "word": "福宝有多爱吃家乡饭",
+        "onboard_time": 1713573917,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1612749,
+        "num": 306639,
+        "word": "鹿晗回复关晓彤好宠",
+        "onboard_time": 1713574397,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 864784,
+        "num": 303263,
+        "word": "真情侣",
+        "onboard_time": 1713580335,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476812,
+        "num": 291740,
+        "word": "周扬青回应rap疑似内涵罗志祥",
+        "onboard_time": 1713578538,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443146,
+        "num": 287019,
+        "word": "马斯克发文反对美国禁止TikTok",
+        "onboard_time": 1713579138,
+        "rank": 13,
+        "category": "互联网,国外时政"
+      },
+      {
+        "raw_hot": 281191,
+        "num": 281191,
+        "word": "加沙妇女抱5岁侄女尸体照片获摄影大奖",
+        "onboard_time": 1713568034,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484574,
+        "num": 271593,
+        "word": "关晓彤连续七年为鹿晗庆生",
+        "onboard_time": 1713568213,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424142,
+        "num": 262329,
+        "word": "徐志胜投资一次丢脸一辈子",
+        "onboard_time": 1713581056,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284940,
+        "num": 247481,
+        "word": "李溪芮发缝",
+        "onboard_time": 1713539539,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49694,
+        "num": 226940,
+        "word": "上海临时工爆改异人店长",
+        "onboard_time": 1713581117,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 214961,
+        "num": 214961,
+        "word": "上海的群租房能离谱到什么程度",
+        "onboard_time": 1713573137,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187618,
+        "num": 187618,
+        "word": "成毅说青春是甜的",
+        "onboard_time": 1713582317,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459518,
+        "num": 187519,
+        "word": "鹿晗关晓彤好好嗑",
+        "onboard_time": 1713571637,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287951,
+        "num": 186826,
+        "word": "花6万多考公上岸值吗",
+        "onboard_time": 1713576798,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 263528,
+        "num": 186114,
+        "word": "一鹿彤行",
+        "onboard_time": 1713580638,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251544,
+        "num": 185904,
+        "word": "胡歌回应自己微博放飞",
+        "onboard_time": 1713578057,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189534,
+        "num": 185315,
+        "word": "iPhone15用户有必要换iPhone16吗",
+        "onboard_time": 1713576917,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185014,
+        "num": 185014,
+        "word": "建议张予曦不要看自己的弹幕",
+        "onboard_time": 1713583759,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178636,
+        "num": 178636,
+        "word": "长期读书的人身上有什么特征",
+        "onboard_time": 1713579017,
+        "rank": 27,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 172145,
+        "num": 172145,
+        "word": "比利时王妃李然辟谣",
+        "onboard_time": 1713577518,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 171749,
+        "num": 171749,
+        "word": "河北承德围场发生交通事故致8死",
+        "onboard_time": 1713576198,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164208,
+        "num": 164208,
+        "word": "中医建议让五官好看的六个动作",
+        "onboard_time": 1713578237,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160251,
+        "num": 160251,
+        "word": "朝雪录开机",
+        "onboard_time": 1713581237,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155667,
+        "num": 155667,
+        "word": "周深十周年巡演官宣四城",
+        "onboard_time": 1713578718,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153055,
+        "num": 153055,
+        "word": "黄仁俊身体不适暂停活动",
+        "onboard_time": 1713576857,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147393,
+        "num": 147393,
+        "word": "当你吃完很辣的东西后喝热水",
+        "onboard_time": 1713579258,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145142,
+        "num": 145142,
+        "word": "Meiko说赛前不装难道赛后装",
+        "onboard_time": 1713583576,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144547,
+        "num": 144547,
+        "word": "何洁不是第一",
+        "onboard_time": 1713570316,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143166,
+        "num": 143166,
+        "word": "陶昕然 市场都没超越甄嬛传",
+        "onboard_time": 1713581597,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138892,
+        "num": 138892,
+        "word": "乘风2024排名",
+        "onboard_time": 1713571337,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128627,
+        "num": 136267,
+        "word": "1米7学妹体测完变1米6",
+        "onboard_time": 1713547993,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134347,
+        "num": 134347,
+        "word": "眼泪女王room tour",
+        "onboard_time": 1713582136,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130935,
+        "num": 130935,
+        "word": "金智媛杂志采访",
+        "onboard_time": 1713583398,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130027,
+        "num": 130027,
+        "word": "陈丽君偏偏你最争气",
+        "onboard_time": 1713583697,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122414,
+        "num": 122414,
+        "word": "怎么跟领导反映工作量太大了",
+        "onboard_time": 1713582497,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111157,
+        "num": 111157,
+        "word": "容祖儿 甄嬛传是我的戏路",
+        "onboard_time": 1713580518,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108031,
+        "num": 108031,
+        "word": "一诺说戚薇浪姐新皮肤好酷",
+        "onboard_time": 1713582077,
+        "rank": 45,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 103949,
+        "num": 103949,
+        "word": "樊振东说自己并未懈怠",
+        "onboard_time": 1713573376,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88440,
+        "num": 103723,
+        "word": "重庆燃气集团党委书记车德臣被免",
+        "onboard_time": 1713573797,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82204,
+        "num": 103076,
+        "word": "外婆的顶级偏爱跨越一千年",
+        "onboard_time": 1713583576,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79476,
+        "num": 101834,
+        "word": "家里蹲三年以上的感受",
+        "onboard_time": 1713576077,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人民解放军信息支援部队成立#"
+    }
+  }
+}

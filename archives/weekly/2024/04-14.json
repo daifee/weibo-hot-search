@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713583180338,
+  "endTime": 1713584055453,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -819,6 +819,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1184043,
+      "num": 1184043,
+      "word": "女性排卵时身体会有5种改变",
+      "onboard_time": 1713578237,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1172117,
       "num": 1172117,
       "word": "陈丽君 花木兰孙悟空无缝衔接",
@@ -865,14 +873,6 @@
       "onboard_time": 1713416540,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1131225,
-      "num": 1131225,
-      "word": "女性排卵时身体会有5种改变",
-      "onboard_time": 1713578237,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1122457,
@@ -1571,6 +1571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 864784,
+      "num": 303263,
+      "word": "真情侣",
+      "onboard_time": 1713580335,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 858854,
       "num": 271530,
       "word": "北京地铁5号线一列车故障",
@@ -1665,14 +1673,6 @@
       "onboard_time": 1713190881,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 839676,
-      "num": 285982,
-      "word": "真情侣",
-      "onboard_time": 1713580335,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 832979,
@@ -3747,6 +3747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510432,
+      "num": 510432,
+      "word": "贝克街的亡灵 22年前的动画",
+      "onboard_time": 1713578538,
+      "rank": 14,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 509924,
       "num": 341222,
       "word": "伊朗向以色列发射数十架无人机",
@@ -3841,14 +3849,6 @@
       "onboard_time": 1713159618,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 500913,
-      "num": 500913,
-      "word": "贝克街的亡灵 22年前的动画",
-      "onboard_time": 1713578538,
-      "rank": 14,
-      "category": "动漫"
     },
     {
       "raw_hot": 499811,
@@ -4123,6 +4123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 474687,
+      "num": 474687,
+      "word": "恶犬疑似狂犬病发作咬伤路人后倒地",
+      "onboard_time": 1713579736,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473770,
       "num": 428834,
       "word": "白鹿看到粉丝凌晨接机的反应",
@@ -4249,6 +4257,14 @@
       "onboard_time": 1713279680,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 463811,
+      "num": 463811,
+      "word": "花儿与少年好友记定档",
+      "onboard_time": 1713582977,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 463670,
@@ -4411,14 +4427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 449199,
-      "num": 449199,
-      "word": "恶犬疑似狂犬病发作咬伤路人后倒地",
-      "onboard_time": 1713579736,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 448725,
       "num": 448725,
       "word": "第一次见用转场替男女主圆房的",
@@ -4483,6 +4491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443146,
+      "num": 287019,
+      "word": "马斯克发文反对美国禁止TikTok",
+      "onboard_time": 1713579138,
+      "rank": 25,
+      "category": "互联网,国外时政"
+    },
+    {
       "raw_hot": 442584,
       "num": 442584,
       "word": "买燃油车的人正式成了少数派",
@@ -4521,14 +4537,6 @@
       "onboard_time": 1713050232,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440703,
-      "num": 281208,
-      "word": "马斯克发文反对美国禁止TikTok",
-      "onboard_time": 1713579138,
-      "rank": 25,
-      "category": "互联网,国外时政"
     },
     {
       "raw_hot": 440070,
@@ -4699,6 +4707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 429805,
+      "num": 429805,
+      "word": "调休原则是最小干预",
+      "onboard_time": 1713579196,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 429458,
       "num": 283486,
       "word": "原来皮肤是最大的情绪器官",
@@ -4777,6 +4793,14 @@
       "onboard_time": 1713354379,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424142,
+      "num": 262329,
+      "word": "徐志胜投资一次丢脸一辈子",
+      "onboard_time": 1713581056,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 423992,
@@ -5377,14 +5401,6 @@
       "onboard_time": 1713179839,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 384750,
-      "num": 384750,
-      "word": "调休原则是最小干预",
-      "onboard_time": 1713579196,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 383622,
@@ -6547,6 +6563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 318450,
+      "num": 318450,
+      "word": "国奥无缘奥运",
+      "onboard_time": 1713581359,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 318307,
       "num": 332881,
       "word": "哈马斯领导人多个家人被炸死",
@@ -6985,14 +7009,6 @@
       "onboard_time": 1713536658,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 297628,
-      "num": 244078,
-      "word": "徐志胜投资一次丢脸一辈子",
-      "onboard_time": 1713581056,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 297391,
@@ -9499,14 +9515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212565,
-      "num": 212565,
-      "word": "国奥无缘奥运",
-      "onboard_time": 1713581359,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 212465,
       "num": 212465,
       "word": "为了不给弟弟买车我自己买了辆车",
@@ -11275,6 +11283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187618,
+      "num": 210711,
+      "word": "成毅说青春是甜的",
+      "onboard_time": 1713582317,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187608,
       "num": 187608,
       "word": "让你一瞬间想分手的小事",
@@ -11481,6 +11497,14 @@
       "onboard_time": 1713230300,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185014,
+      "num": 185014,
+      "word": "建议张予曦不要看自己的弹幕",
+      "onboard_time": 1713583759,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 184995,
@@ -13011,14 +13035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161823,
-      "num": 161823,
-      "word": "花儿与少年好友记定档",
-      "onboard_time": 1713582977,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161810,
       "num": 161810,
       "word": "胡锡进称今天大涨得益于国九条",
@@ -14179,6 +14195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147393,
+      "num": 147393,
+      "word": "当你吃完很辣的东西后喝热水",
+      "onboard_time": 1713579258,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 147366,
       "num": 147366,
       "word": "不要过度美化那条没走完的路",
@@ -14257,14 +14281,6 @@
       "onboard_time": 1713539899,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146422,
-      "num": 210711,
-      "word": "成毅说青春是甜的",
-      "onboard_time": 1713582317,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 146282,
@@ -14385,6 +14401,14 @@
       "onboard_time": 1713223937,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 145142,
+      "num": 145142,
+      "word": "Meiko说赛前不装难道赛后装",
+      "onboard_time": 1713583576,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 145140,
@@ -14529,14 +14553,6 @@
       "onboard_time": 1713249739,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 143231,
-      "num": 143231,
-      "word": "当你吃完很辣的东西后喝热水",
-      "onboard_time": 1713579258,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 143149,
@@ -15131,6 +15147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134347,
+      "num": 134347,
+      "word": "眼泪女王room tour",
+      "onboard_time": 1713582136,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134334,
       "num": 134334,
       "word": "雷军承认社恐",
@@ -15419,6 +15443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130935,
+      "num": 130935,
+      "word": "金智媛杂志采访",
+      "onboard_time": 1713583398,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 130934,
       "num": 130934,
       "word": "Gr对战ZETA",
@@ -15475,14 +15507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130369,
-      "num": 130369,
-      "word": "眼泪女王room tour",
-      "onboard_time": 1713582136,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130341,
       "num": 284158,
       "word": "极氪三周年将发布百万旗舰",
@@ -15496,6 +15520,14 @@
       "word": "陈丽君抹眉心一秒变妆",
       "onboard_time": 1713503780,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130027,
+      "num": 130027,
+      "word": "陈丽君偏偏你最争气",
+      "onboard_time": 1713583697,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -17283,6 +17315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 82204,
+      "num": 103076,
+      "word": "外婆的顶级偏爱跨越一千年",
+      "onboard_time": 1713583576,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 81554,
       "num": 81554,
       "word": "欧冠联赛",
@@ -17828,7 +17868,7 @@
     },
     {
       "raw_hot": 50949,
-      "num": 211244,
+      "num": 226940,
       "word": "上海临时工爆改异人店长",
       "onboard_time": 1713581117,
       "rank": 19,
@@ -17987,6 +18027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43660,
+      "num": 597439,
+      "word": "耕韵有时岁岁新",
+      "onboard_time": 1713582016,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43333,
       "num": 33495,
       "word": "金秀贤金智媛更新ins",
@@ -18079,14 +18127,6 @@
       "num": 1114123,
       "word": "景海鹏朱杨柱桂海潮获航天功勋奖章",
       "onboard_time": 1713446058,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38173,
-      "num": 597439,
-      "word": "耕韵有时岁岁新",
-      "onboard_time": 1713582016,
       "rank": 2,
       "category": "社会新闻"
     },
