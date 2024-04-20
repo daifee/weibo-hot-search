@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713647736463,
+  "endTime": 1713648859379,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -56883,6 +56883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29091,
+      "num": 29091,
+      "word": "确定被爱后小狗连面相都变了",
+      "onboard_time": 1713643991,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 28931,
       "num": 301497,
       "word": "尹同跃要给智驾部门加鸡腿",
@@ -57041,6 +57049,14 @@
       "onboard_time": 1712929458,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 26708,
+      "num": 26708,
+      "word": "iPhone16和Plus或有15项改进",
+      "onboard_time": 1713646090,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 26675,
@@ -57219,14 +57235,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 24276,
-      "num": 24276,
-      "word": "确定被爱后小狗连面相都变了",
-      "onboard_time": 1713643991,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 24247,
       "num": 281725,
       "word": "淘宝举办家乡时装周",
@@ -57329,14 +57337,6 @@
       "onboard_time": 1711918030,
       "rank": 40,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 22868,
-      "num": 22868,
-      "word": "iPhone16和Plus或有15项改进",
-      "onboard_time": 1713646090,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 22807,
@@ -57643,6 +57643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17163,
+      "num": 49688,
+      "word": "独臂独腿小伙成功登顶泰山",
+      "onboard_time": 1713642071,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17010,
       "num": 17815,
       "word": "张艺兴新歌psychic",
@@ -57689,14 +57697,6 @@
       "onboard_time": 1712429891,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16083,
-      "num": 49688,
-      "word": "独臂独腿小伙成功登顶泰山",
-      "onboard_time": 1713642071,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15726,
