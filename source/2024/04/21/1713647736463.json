@@ -1,0 +1,410 @@
+{
+  "runTime": 1713647736463,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 108676,
+        "num": 108676,
+        "word": "黄子韬回应被拒绝同台",
+        "onboard_time": 1713621259,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71789,
+        "num": 71789,
+        "word": "白敬亭 B站",
+        "onboard_time": 1713619639,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10567,
+        "num": 70875,
+        "word": "良田良种良机良法绘就当代春耕图",
+        "onboard_time": 1713618858,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70097,
+        "num": 70097,
+        "word": "重庆90岁老人寿宴上女歌手摔倒去世",
+        "onboard_time": 1713629239,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62592,
+        "num": 62592,
+        "word": "周海媚墓碑上刻着周芷若画像",
+        "onboard_time": 1713626419,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46100,
+        "num": 46100,
+        "word": "网传中国女游客在印尼火山景点遇难",
+        "onboard_time": 1713629359,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45087,
+        "num": 45087,
+        "word": "郑恺和苗苗实打实过日子型",
+        "onboard_time": 1713625098,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44802,
+        "num": 44802,
+        "word": "罗正徐艺洋吻戏",
+        "onboard_time": 1713627860,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41255,
+        "num": 41255,
+        "word": "裙子的尺码从xxs做到5xl",
+        "onboard_time": 1713631157,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 14787,
+        "num": 38761,
+        "word": "独臂独腿小伙成功登顶泰山",
+        "onboard_time": 1713642071,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92164,
+        "num": 38574,
+        "word": "陈冠希发了Jennie",
+        "onboard_time": 1713629118,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80505,
+        "num": 38150,
+        "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
+        "onboard_time": 1713641412,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37626,
+        "num": 37626,
+        "word": "原来麻辣烫夹子是这样用的",
+        "onboard_time": 1713618018,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 35586,
+        "num": 35586,
+        "word": "马龙4比0王楚钦",
+        "onboard_time": 1713615258,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34189,
+        "num": 34189,
+        "word": "追星的意义是救赎自己",
+        "onboard_time": 1713639670,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34060,
+        "num": 34060,
+        "word": "贾玲好迷人",
+        "onboard_time": 1713618498,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30344,
+        "num": 30344,
+        "word": "贤佑海仁睡了我出生了",
+        "onboard_time": 1713629060,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30001,
+        "num": 30001,
+        "word": "yaoyao发文",
+        "onboard_time": 1713626358,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24992,
+        "num": 24992,
+        "word": "许凯吻戏",
+        "onboard_time": 1713624619,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24276,
+        "num": 24276,
+        "word": "确定被爱后小狗连面相都变了",
+        "onboard_time": 1713643991,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76078,
+        "num": 24189,
+        "word": "黄子韬 小马丁",
+        "onboard_time": 1713613997,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42432,
+        "num": 24115,
+        "word": "我删掉了高中大学的所有同学",
+        "onboard_time": 1713619820,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34192,
+        "num": 24011,
+        "word": "张栋梁拥抱拒绝金莎",
+        "onboard_time": 1713628339,
+        "rank": 22,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 28518,
+        "num": 23841,
+        "word": "胃癌在早期没有症状",
+        "onboard_time": 1713642851,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23747,
+        "num": 23747,
+        "word": "王楚钦vs马龙",
+        "onboard_time": 1713613457,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22935,
+        "num": 22935,
+        "word": "曼城vs切尔西",
+        "onboard_time": 1713628939,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22868,
+        "num": 22868,
+        "word": "iPhone16和Plus或有15项改进",
+        "onboard_time": 1713646090,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 22703,
+        "num": 22703,
+        "word": "一起入职的44岁姐妹被辞退了",
+        "onboard_time": 1713627559,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21935,
+        "num": 21935,
+        "word": "已经开始替赵晴尴尬了",
+        "onboard_time": 1713627860,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21636,
+        "num": 21636,
+        "word": "周杰伦听见下雨的声音",
+        "onboard_time": 1713613638,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20772,
+        "num": 20772,
+        "word": "湖南失踪15岁男孩遗体已找到",
+        "onboard_time": 1713610878,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20562,
+        "num": 20562,
+        "word": "不够善良的我们",
+        "onboard_time": 1713622159,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20018,
+        "num": 20018,
+        "word": "郭碧婷曾被导演要求打瘦脸针",
+        "onboard_time": 1713613818,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19044,
+        "num": 19044,
+        "word": "陈昊宇发如雪",
+        "onboard_time": 1713617778,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18645,
+        "num": 18645,
+        "word": "TES 人机",
+        "onboard_time": 1713611598,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18000,
+        "num": 18000,
+        "word": "垫底辣孩模仿魏若来",
+        "onboard_time": 1713620779,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17936,
+        "num": 17936,
+        "word": "戚薇怎么不笑了",
+        "onboard_time": 1713638053,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17165,
+        "num": 17165,
+        "word": "杨千嬅哭了",
+        "onboard_time": 1713625520,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16832,
+        "num": 16832,
+        "word": "喝酒脸红的人别再喝了",
+        "onboard_time": 1713645491,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14577,
+        "num": 16697,
+        "word": "林高远11比1张本智和",
+        "onboard_time": 1713623300,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16684,
+        "num": 16684,
+        "word": "JackeyLove心态",
+        "onboard_time": 1713621319,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16001,
+        "num": 16001,
+        "word": "十个洗头的坏习惯",
+        "onboard_time": 1713625459,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15148,
+        "num": 15148,
+        "word": "戚薇 蔡文静",
+        "onboard_time": 1713621019,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15114,
+        "num": 15114,
+        "word": "眼泪女王",
+        "onboard_time": 1713617897,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14940,
+        "num": 14940,
+        "word": "陈丽君好帅",
+        "onboard_time": 1713620119,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14917,
+        "num": 14917,
+        "word": "张艺兴算是回到自己舒适区了",
+        "onboard_time": 1713626178,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14876,
+        "num": 14876,
+        "word": "工作简庆芬 生活Rebecca",
+        "onboard_time": 1713639913,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14780,
+        "num": 14780,
+        "word": "TTG 双边",
+        "onboard_time": 1713620779,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14352,
+        "num": 14780,
+        "word": "JKL 菜",
+        "onboard_time": 1713622701,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13805,
+        "num": 14770,
+        "word": "林高远张本智和",
+        "onboard_time": 1713616037,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人民解放军信息支援部队成立#"
+    }
+  }
+}
