@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713579854355,
+  "endTime": 1713580496606,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 2036011,
-      "num": 300490,
+      "num": 353399,
       "word": "鹿晗回复关晓彤好宠",
       "onboard_time": 1713574397,
       "rank": 15,
@@ -1228,7 +1228,7 @@
     },
     {
       "raw_hot": 981938,
-      "num": 190921,
+      "num": 205827,
       "word": "鹿晗关晓彤好好嗑",
       "onboard_time": 1713571637,
       "rank": 20,
@@ -3131,6 +3131,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 572895,
+      "num": 230146,
+      "word": "女性排卵时身体会有5种改变",
+      "onboard_time": 1713578237,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 572639,
       "num": 572639,
       "word": "徐志胜的眼睛没有孟子义的卧蚕大",
@@ -3177,6 +3185,14 @@
       "onboard_time": 1713435918,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 567744,
+      "num": 288550,
+      "word": "邓超陈赫给鹿晗庆生",
+      "onboard_time": 1713569714,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 567133,
@@ -3369,14 +3385,6 @@
       "onboard_time": 1713062718,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 548248,
-      "num": 256593,
-      "word": "邓超陈赫给鹿晗庆生",
-      "onboard_time": 1713569714,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 547098,
@@ -3611,14 +3619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 520282,
-      "num": 230146,
-      "word": "女性排卵时身体会有5种改变",
-      "onboard_time": 1713578237,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 519397,
       "num": 519397,
       "word": "黄岛地震",
@@ -3793,6 +3793,14 @@
       "onboard_time": 1713402198,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 504178,
+      "num": 352739,
+      "word": "周扬青回应rap疑似内涵罗志祥",
+      "onboard_time": 1713578538,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 503703,
@@ -4297,14 +4305,6 @@
       "onboard_time": 1713178639,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 456732,
-      "num": 276723,
-      "word": "周扬青回应rap疑似内涵罗志祥",
-      "onboard_time": 1713578538,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 456727,
@@ -5035,6 +5035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 399348,
+      "num": 399348,
+      "word": "胡歌回应自己微博放飞",
+      "onboard_time": 1713578057,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 399305,
       "num": 399305,
       "word": "沈梦辰杜海涛又发糖了",
@@ -5073,6 +5081,14 @@
       "onboard_time": 1713443025,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 396863,
+      "num": 396863,
+      "word": "警方通报男生被同学锁宿舍群殴",
+      "onboard_time": 1713579138,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396854,
@@ -5219,14 +5235,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 391109,
-      "num": 391109,
-      "word": "胡歌回应自己微博放飞",
-      "onboard_time": 1713578057,
-      "rank": 5,
-      "category": "电影"
-    },
-    {
       "raw_hot": 390658,
       "num": 390658,
       "word": "海关眼中的oversize穿搭",
@@ -5313,6 +5321,14 @@
       "onboard_time": 1713271458,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 385961,
+      "num": 385961,
+      "word": "贝克街的亡灵 22年前的动画",
+      "onboard_time": 1713578538,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 385756,
@@ -5755,6 +5771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 361085,
+      "num": 361085,
+      "word": "河北承德围场发生交通事故致8死",
+      "onboard_time": 1713576198,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361000,
       "num": 361000,
       "word": "李泰容光头",
@@ -5785,14 +5809,6 @@
       "onboard_time": 1713321737,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 358123,
-      "num": 358123,
-      "word": "河北承德围场发生交通事故致8死",
-      "onboard_time": 1713576198,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357993,
@@ -6908,7 +6924,7 @@
     },
     {
       "raw_hot": 298336,
-      "num": 174306,
+      "num": 183162,
       "word": "比利时王妃李然辟谣",
       "onboard_time": 1713577518,
       "rank": 30,
@@ -7195,6 +7211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282645,
+      "num": 353761,
+      "word": "福宝有多爱吃家乡饭",
+      "onboard_time": 1713573917,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282173,
       "num": 1123465,
       "word": "86名群众被国家安全机关表彰奖励",
@@ -7281,14 +7305,6 @@
       "onboard_time": 1713531917,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 277532,
-      "num": 315357,
-      "word": "福宝有多爱吃家乡饭",
-      "onboard_time": 1713573917,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277511,
@@ -7499,6 +7515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269027,
+      "num": 269027,
+      "word": "周深十周年巡演官宣四城",
+      "onboard_time": 1713578718,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 268844,
       "num": 268844,
       "word": "门科",
@@ -7601,14 +7625,6 @@
       "onboard_time": 1713538999,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 265184,
-      "num": 265184,
-      "word": "贝克街的亡灵 22年前的动画",
-      "onboard_time": 1713578538,
-      "rank": 14,
-      "category": "动漫"
     },
     {
       "raw_hot": 265156,
@@ -8091,6 +8107,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 248278,
+      "num": 227614,
+      "word": "iPhone15用户有必要换iPhone16吗",
+      "onboard_time": 1713576917,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 248244,
       "num": 248244,
       "word": "花少好友季第二站阵容",
@@ -8387,6 +8411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239471,
+      "num": 239471,
+      "word": "马斯克发文反对美国禁止TikTok",
+      "onboard_time": 1713579138,
+      "rank": 25,
+      "category": "互联网,国外时政"
+    },
+    {
       "raw_hot": 239357,
       "num": 219029,
       "word": "周也油画里的少女",
@@ -8488,22 +8520,6 @@
       "word": "26岁研究生珠峰地区登山死亡父亲发声",
       "onboard_time": 1713278421,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235858,
-      "num": 227614,
-      "word": "iPhone15用户有必要换iPhone16吗",
-      "onboard_time": 1713576917,
-      "rank": 22,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 235546,
-      "num": 235546,
-      "word": "警方通报男生被同学锁宿舍群殴",
-      "onboard_time": 1713579138,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -8889,14 +8905,6 @@
       "onboard_time": 1713372016,
       "rank": 24,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 225858,
-      "num": 225858,
-      "word": "周深十周年巡演官宣四城",
-      "onboard_time": 1713578718,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 225840,
@@ -9337,14 +9345,6 @@
       "onboard_time": 1713319037,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214503,
-      "num": 214503,
-      "word": "马斯克发文反对美国禁止TikTok",
-      "onboard_time": 1713579138,
-      "rank": 25,
-      "category": "互联网,国外时政"
     },
     {
       "raw_hot": 214250,
@@ -10507,6 +10507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197210,
+      "num": 197210,
+      "word": "中医建议让五官好看的六个动作",
+      "onboard_time": 1713578237,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 197137,
       "num": 181879,
       "word": "IVE新预告",
@@ -10785,14 +10793,6 @@
       "onboard_time": 1713276981,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192990,
-      "num": 192990,
-      "word": "中医建议让五官好看的六个动作",
-      "onboard_time": 1713578237,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 192816,
@@ -11435,6 +11435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184457,
+      "num": 184457,
+      "word": "长期读书的人身上有什么特征",
+      "onboard_time": 1713579017,
+      "rank": 31,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 184423,
       "num": 184423,
       "word": "AG12淘汰吃鸡",
@@ -11547,6 +11555,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 183352,
+      "num": 183352,
+      "word": "调休原则是最小干预",
+      "onboard_time": 1713579196,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183317,
       "num": 183317,
       "word": "周鸿祎早上卖车何小鹏晚上送车",
@@ -11561,14 +11577,6 @@
       "onboard_time": 1713070459,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 182930,
-      "num": 168912,
-      "word": "长期读书的人身上有什么特征",
-      "onboard_time": 1713579017,
-      "rank": 31,
-      "category": "读书作家"
     },
     {
       "raw_hot": 182833,
@@ -11953,6 +11961,14 @@
       "onboard_time": 1713512238,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 176959,
+      "num": 176959,
+      "word": "真情侣",
+      "onboard_time": 1713580335,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 176915,
@@ -12865,6 +12881,14 @@
       "onboard_time": 1713192620,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162689,
+      "num": 162689,
+      "word": "恶犬疑似狂犬病发作咬伤路人后倒地",
+      "onboard_time": 1713579736,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162614,
@@ -14547,14 +14571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142368,
-      "num": 142368,
-      "word": "调休原则是最小干预",
-      "onboard_time": 1713579196,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 142278,
       "num": 142278,
       "word": "麦承欢终于哭出声了",
@@ -15291,6 +15307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131037,
+      "num": 131037,
+      "word": "杨迪录综艺哭了",
+      "onboard_time": 1713579976,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130962,
       "num": 130962,
       "word": "王曼昱vs巴特拉",
@@ -15835,6 +15859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 121794,
+      "num": 121794,
+      "word": "当你吃完很辣的东西后喝热水",
+      "onboard_time": 1713579258,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 121750,
       "num": 121750,
       "word": "练车是考验父女关系的一道坎",
@@ -16019,14 +16051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118763,
-      "num": 118763,
-      "word": "当你吃完很辣的东西后喝热水",
-      "onboard_time": 1713579258,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 118570,
       "num": 118570,
       "word": "明日方舟嘉年华",
@@ -16073,6 +16097,14 @@
       "onboard_time": 1713113715,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117787,
+      "num": 117787,
+      "word": "鸟苏不服侵权乌苏判决被驳回",
+      "onboard_time": 1713579918,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117707,
@@ -16753,6 +16785,14 @@
       "onboard_time": 1713011957,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101388,
+      "num": 101388,
+      "word": "重庆通报燃气调查相关情况",
+      "onboard_time": 1713580218,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100866,
