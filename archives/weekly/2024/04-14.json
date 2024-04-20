@@ -1,10 +1,10 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713616202064,
+  "endTime": 1713617081016,
   "band_list": [
     {
-      "raw_hot": 4181914,
-      "num": 4181914,
+      "raw_hot": 5314332,
+      "num": 5314332,
       "word": "马龙4比0王楚钦",
       "onboard_time": 1713615258,
       "rank": 0,
@@ -937,6 +937,14 @@
       "onboard_time": 1713416540,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1142667,
+      "num": 336250,
+      "word": "假赛",
+      "onboard_time": 1713615378,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 1122457,
@@ -1980,7 +1988,7 @@
     },
     {
       "raw_hot": 793377,
-      "num": 375492,
+      "num": 509232,
       "word": "湖南失踪15岁男孩遗体已找到",
       "onboard_time": 1713610878,
       "rank": 14,
@@ -2755,6 +2763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 659627,
+      "num": 659627,
+      "word": "TES 人机",
+      "onboard_time": 1713611598,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 656872,
       "num": 656872,
       "word": "易梦玲鼻子",
@@ -3089,6 +3105,14 @@
       "onboard_time": 1713165258,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 606756,
+      "num": 606756,
+      "word": "周杰伦听见下雨的声音",
+      "onboard_time": 1713613638,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 606528,
@@ -3499,14 +3523,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 564262,
-      "num": 564262,
-      "word": "周杰伦听见下雨的声音",
-      "onboard_time": 1713613638,
-      "rank": 6,
-      "category": "演出"
-    },
-    {
       "raw_hot": 563682,
       "num": 394612,
       "word": "补水第一名的水果",
@@ -3561,6 +3577,14 @@
       "onboard_time": 1713157880,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 556701,
+      "num": 556701,
+      "word": "孙颖莎陈梦",
+      "onboard_time": 1713616577,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 556541,
@@ -4211,6 +4235,14 @@
       "category": "财经,军事"
     },
     {
+      "raw_hot": 498233,
+      "num": 498233,
+      "word": "BLG对战TES",
+      "onboard_time": 1713606499,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 498209,
       "num": 498209,
       "word": "北影节开幕红毯",
@@ -4305,14 +4337,6 @@
       "onboard_time": 1713050054,
       "rank": 31,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 491213,
-      "num": 491213,
-      "word": "TES 人机",
-      "onboard_time": 1713611598,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 491024,
@@ -4628,7 +4652,7 @@
     },
     {
       "raw_hot": 463168,
-      "num": 470734,
+      "num": 515976,
       "word": "小奶狗被打碎下巴女子坚持送医救治",
       "onboard_time": 1713599717,
       "rank": 9,
@@ -5419,6 +5443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402168,
+      "num": 402168,
+      "word": "林高远张本智和",
+      "onboard_time": 1713616037,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 401684,
       "num": 401684,
       "word": "TFBOYS纪念十周年",
@@ -5833,6 +5865,14 @@
       "onboard_time": 1713238037,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 380093,
+      "num": 380093,
+      "word": "郭碧婷曾被导演要求打瘦脸针",
+      "onboard_time": 1713613818,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 379001,
@@ -6595,6 +6635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340270,
+      "num": 340270,
+      "word": "中餐厅8 法国",
+      "onboard_time": 1713615198,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338763,
       "num": 338763,
       "word": "小米汽车",
@@ -6649,14 +6697,6 @@
       "onboard_time": 1713598698,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 336250,
-      "num": 336250,
-      "word": "假赛",
-      "onboard_time": 1713615378,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 336060,
@@ -7387,6 +7427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 300281,
+      "num": 300281,
+      "word": "偷偷删除领导被发现了",
+      "onboard_time": 1713615918,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 300266,
       "num": 300266,
       "word": "胡一天演过夏至未至",
@@ -7675,6 +7723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287799,
+      "num": 287799,
+      "word": "张靓颖 音响",
+      "onboard_time": 1713615677,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 287795,
       "num": 287795,
       "word": "hybe kpop毁灭者",
@@ -7779,14 +7835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282594,
-      "num": 282594,
-      "word": "郭碧婷曾被导演要求打瘦脸针",
-      "onboard_time": 1713613818,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 282173,
       "num": 1123465,
       "word": "86名群众被国家安全机关表彰奖励",
@@ -7849,14 +7897,6 @@
       "onboard_time": 1713464051,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 279028,
-      "num": 279028,
-      "word": "中餐厅8 法国",
-      "onboard_time": 1713615198,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 278724,
@@ -7945,6 +7985,14 @@
       "onboard_time": 1713226098,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275914,
+      "num": 275914,
+      "word": "李菲儿首次回应和锦超争执",
+      "onboard_time": 1713616337,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 275826,
@@ -8065,14 +8113,6 @@
       "onboard_time": 1713021679,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 271581,
-      "num": 271581,
-      "word": "BLG对战TES",
-      "onboard_time": 1713606499,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 271327,
@@ -8241,6 +8281,14 @@
       "onboard_time": 1713538999,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 265318,
+      "num": 265318,
+      "word": "你好星期六",
+      "onboard_time": 1713615797,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 265156,
@@ -8529,14 +8577,6 @@
       "onboard_time": 1713499280,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 255422,
-      "num": 255422,
-      "word": "你好星期六",
-      "onboard_time": 1713615797,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 255148,
@@ -10299,14 +10339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 210750,
-      "num": 226264,
-      "word": "偷偷删除领导被发现了",
-      "onboard_time": 1713615918,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 210727,
       "num": 210727,
       "word": "有些熊猫泡个澡真是内外都干净了",
@@ -10393,14 +10425,6 @@
       "onboard_time": 1713074297,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 209654,
-      "num": 209654,
-      "word": "张靓颖 音响",
-      "onboard_time": 1713615677,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 209628,
@@ -10683,6 +10707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204707,
+      "num": 204707,
+      "word": "龙队不愧是龙队",
+      "onboard_time": 1713616457,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204693,
       "num": 204693,
       "word": "承欢记巴士吻",
@@ -10841,6 +10873,14 @@
       "onboard_time": 1713411377,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 202505,
+      "num": 202505,
+      "word": "白鹿漂亮学姐",
+      "onboard_time": 1713616155,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 202431,
@@ -11979,6 +12019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189114,
+      "num": 189114,
+      "word": "马龙晋级世界杯决赛",
+      "onboard_time": 1713616337,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188934,
       "num": 188934,
       "word": "黑神话PS5版炒至500元",
@@ -12249,6 +12297,14 @@
       "onboard_time": 1713357921,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 186118,
+      "num": 186118,
+      "word": "infp普遍恋痛",
+      "onboard_time": 1713615918,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 185930,
@@ -12731,14 +12787,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 179752,
-      "num": 179752,
-      "word": "白鹿漂亮学姐",
-      "onboard_time": 1713616155,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179413,
       "num": 173955,
       "word": "黄雅莉劝戚薇少把妹",
@@ -12985,6 +13033,14 @@
       "onboard_time": 1713515958,
       "rank": 35,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 176377,
+      "num": 176377,
+      "word": "TES春决扳回一城",
+      "onboard_time": 1713615320,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 176255,
@@ -13297,6 +13353,14 @@
       "onboard_time": 1713596118,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 171590,
+      "num": 171590,
+      "word": "谁在说热辣滚烫是减肥片",
+      "onboard_time": 1713615739,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 171587,
@@ -13729,14 +13793,6 @@
       "onboard_time": 1713243380,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 165847,
-      "num": 165847,
-      "word": "林高远张本智和",
-      "onboard_time": 1713616037,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 165785,
@@ -14497,6 +14553,14 @@
       "onboard_time": 1713334039,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155605,
+      "num": 155605,
+      "word": "朱一龙两部电影入选大学生电影节",
+      "onboard_time": 1713616699,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 155599,
@@ -15867,14 +15931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142314,
-      "num": 142314,
-      "word": "谁在说热辣滚烫是减肥片",
-      "onboard_time": 1713615739,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 142278,
       "num": 142278,
       "word": "麦承欢终于哭出声了",
@@ -15896,6 +15952,14 @@
       "word": "你介意和对象时间观念差异大吗",
       "onboard_time": 1713602597,
       "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 141802,
+      "num": 141802,
+      "word": "感觉现在大家更愿意生女儿",
+      "onboard_time": 1713615978,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -16227,14 +16291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137671,
-      "num": 137671,
-      "word": "infp普遍恋痛",
-      "onboard_time": 1713615918,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 137587,
       "num": 137587,
       "word": "沪指翻绿跌破3000点",
@@ -16368,6 +16424,14 @@
       "word": "晚安大小姐cha",
       "onboard_time": 1713574397,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 135478,
+      "num": 135478,
+      "word": "蒲熠星生日会",
+      "onboard_time": 1713617058,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -17481,14 +17545,6 @@
       "onboard_time": 1713430220,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120272,
-      "num": 120272,
-      "word": "感觉现在大家更愿意生女儿",
-      "onboard_time": 1713615978,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 120059,
