@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713569652931,
+  "endTime": 1713575606239,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2200058,
+      "num": 312461,
+      "word": "关晓彤连续八年为鹿晗庆生",
+      "onboard_time": 1713568213,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2184357,
       "num": 2184357,
       "word": "12306 存钱",
@@ -177,14 +185,6 @@
       "onboard_time": 1713226218,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2125598,
-      "num": 176238,
-      "word": "关晓彤连续八年为鹿晗庆生",
-      "onboard_time": 1713568213,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1943927,
@@ -297,6 +297,14 @@
       "onboard_time": 1713434719,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1739428,
+      "num": 300490,
+      "word": "鹿晗回复关晓彤好宠",
+      "onboard_time": 1713574397,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1718111,
@@ -1403,6 +1411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 914037,
+      "num": 914037,
+      "word": "我要求我女儿休学了一年",
+      "onboard_time": 1713571757,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 913406,
       "num": 913406,
       "word": "福宝开始探索外场区域",
@@ -2419,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 684732,
+      "num": 190921,
+      "word": "鹿晗关晓彤好好嗑",
+      "onboard_time": 1713571637,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 684515,
       "num": 684515,
       "word": "伊以冲突时间线",
@@ -2697,6 +2721,14 @@
       "onboard_time": 1713489919,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 626588,
+      "num": 626588,
+      "word": "加沙妇女抱5岁侄女尸体照片获摄影大奖",
+      "onboard_time": 1713568034,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 626517,
@@ -3009,6 +3041,14 @@
       "onboard_time": 1713535998,
       "rank": 41,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 582560,
+      "num": 582560,
+      "word": "母亲去世父亲天天去安葬地陪伴",
+      "onboard_time": 1713569956,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 581518,
@@ -4211,6 +4251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 456727,
+      "num": 456727,
+      "word": "乘风2024排名",
+      "onboard_time": 1713571337,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 456487,
       "num": 456487,
       "word": "孙颖莎 将近40板的超强相持",
@@ -4249,6 +4297,14 @@
       "onboard_time": 1713397998,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 451275,
+      "num": 451275,
+      "word": "多家航司取消往返以色列航班",
+      "onboard_time": 1713573137,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 450547,
@@ -5139,6 +5195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 387923,
+      "num": 387923,
+      "word": "何洁不是第一",
+      "onboard_time": 1713570316,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387472,
       "num": 387472,
       "word": "奔跑吧发布会",
@@ -5763,6 +5827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354368,
+      "num": 354368,
+      "word": "樊振东说自己并未懈怠",
+      "onboard_time": 1713573376,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352396,
       "num": 352396,
       "word": "宁波偶遇杜海涛沈梦辰排队买P70",
@@ -6227,14 +6299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 323059,
-      "num": 168543,
-      "word": "加沙妇女抱5岁侄女尸体照片获摄影大奖",
-      "onboard_time": 1713568034,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322590,
       "num": 322590,
       "word": "吉林高速大赚5亿不分红",
@@ -6283,6 +6347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 321019,
+      "num": 305810,
+      "word": "上海的群租房能离谱到什么程度",
+      "onboard_time": 1713573137,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 321001,
       "num": 244110,
       "word": "神仙水为何卖不动了",
@@ -6313,6 +6385,14 @@
       "onboard_time": 1713091939,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319782,
+      "num": 302979,
+      "word": "侯雯元曝刘耀文睡觉踢人",
+      "onboard_time": 1713574578,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 319441,
@@ -6633,6 +6713,14 @@
       "onboard_time": 1713142759,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302822,
+      "num": 302822,
+      "word": "英伟达",
+      "onboard_time": 1713570316,
+      "rank": 14,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 302656,
@@ -8139,6 +8227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240160,
+      "num": 240160,
+      "word": "重庆燃气集团党委书记车德臣被免",
+      "onboard_time": 1713573797,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240075,
       "num": 212097,
       "word": "李溪芮漫画腿",
@@ -9073,6 +9169,14 @@
       "onboard_time": 1713248237,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 215457,
+      "num": 315357,
+      "word": "福宝有多爱吃家乡饭",
+      "onboard_time": 1713573917,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215255,
@@ -10691,6 +10795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190921,
+      "num": 190921,
+      "word": "重庆已立案调查14件燃气费问题",
+      "onboard_time": 1713574875,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190874,
       "num": 190874,
       "word": "群星闪耀时",
@@ -11004,7 +11116,7 @@
     },
     {
       "raw_hot": 187423,
-      "num": 166686,
+      "num": 182167,
       "word": "周扬青亚裔混血感",
       "onboard_time": 1713550452,
       "rank": 36,
@@ -11633,6 +11745,14 @@
       "onboard_time": 1713333258,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177266,
+      "num": 177266,
+      "word": "奶奶去修28岁的洗衣机厂家直接送新的",
+      "onboard_time": 1713567974,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177209,
@@ -12571,6 +12691,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 163300,
+      "num": 163300,
+      "word": "小狗会在主人摸它时提前把耳朵放下",
+      "onboard_time": 1713573197,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162902,
       "num": 162902,
       "word": "切尔西抢点球内讧",
@@ -13081,6 +13209,14 @@
       "onboard_time": 1713050955,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155126,
+      "num": 155126,
+      "word": "为什么建议你常喝煮苹果水",
+      "onboard_time": 1713567374,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 154966,
@@ -13691,6 +13827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 148737,
+      "num": 148737,
+      "word": "Miss身材",
+      "onboard_time": 1713572777,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148714,
       "num": 340508,
       "word": "泼水节禁止泼冷水",
@@ -13768,6 +13912,14 @@
       "word": "新疆阿克苏拜城4.7级地震",
       "onboard_time": 1713331758,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147980,
+      "num": 147980,
+      "word": "1米7学妹体测完变1米6",
+      "onboard_time": 1713547993,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -14603,14 +14755,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 137106,
-      "num": 137106,
-      "word": "1米7学妹体测完变1米6",
-      "onboard_time": 1713547993,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136817,
       "num": 136817,
       "word": "重庆一地铁站石砖脱落砸中孕妇",
@@ -14649,6 +14793,14 @@
       "onboard_time": 1713191000,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135626,
+      "num": 135626,
+      "word": "晚安大小姐cha",
+      "onboard_time": 1713574397,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 135474,
@@ -14801,6 +14953,14 @@
       "onboard_time": 1713349938,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133288,
+      "num": 133288,
+      "word": "女子熬夜双眼皮熬成悲伤蛙",
+      "onboard_time": 1713553811,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133077,
@@ -15337,14 +15497,6 @@
       "onboard_time": 1713187038,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124672,
-      "num": 95426,
-      "word": "为什么建议你常喝煮苹果水",
-      "onboard_time": 1713567374,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 124477,
@@ -16043,12 +16195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109913,
-      "num": 109913,
-      "word": "奶奶去修28岁的洗衣机厂家直接送新的",
-      "onboard_time": 1713567974,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 109861,
+      "num": 109861,
+      "word": "英伟达市值跌超2000亿美元",
+      "onboard_time": 1713573976,
+      "rank": 38,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 109810,
@@ -16331,6 +16483,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 102975,
+      "num": 102975,
+      "word": "时团演唱会1680元看台票降价",
+      "onboard_time": 1713573438,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 102809,
       "num": 205899,
       "word": "魏建军带头卷智驾直播",
@@ -16385,6 +16545,14 @@
       "onboard_time": 1713011957,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 100866,
+      "num": 100866,
+      "word": "发箍正确的戴法",
+      "onboard_time": 1713573797,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 100843,
@@ -16667,6 +16835,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 88520,
+      "num": 88520,
+      "word": "心理学看多了没法吵架",
+      "onboard_time": 1713572716,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88391,
       "num": 88391,
       "word": "巴图姆奇兵",
@@ -16681,6 +16857,14 @@
       "onboard_time": 1713369317,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87944,
+      "num": 87944,
+      "word": "林俊杰回复蔡依林",
+      "onboard_time": 1713575478,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 87490,
@@ -16705,14 +16889,6 @@
       "onboard_time": 1713391031,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 85651,
-      "num": 85651,
-      "word": "女子熬夜双眼皮熬成悲伤蛙",
-      "onboard_time": 1713553811,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85364,
@@ -16776,6 +16952,22 @@
       "word": "原来你的蝴蝶结束发带一直戴反了",
       "onboard_time": 1713545236,
       "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 78783,
+      "num": 78783,
+      "word": "公牛vs热火",
+      "onboard_time": 1713573376,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78729,
+      "num": 78729,
+      "word": "没有人比我更会辞职",
+      "onboard_time": 1713569835,
+      "rank": 49,
       "category": "情感"
     },
     {
