@@ -1,0 +1,410 @@
+{
+  "runTime": 1713602068927,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 755242,
+        "num": 755242,
+        "word": "只有Miss选了郭碧婷",
+        "onboard_time": 1713594558,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 618570,
+        "num": 618570,
+        "word": "花27万彩礼订婚准新娘十余天后自杀身亡",
+        "onboard_time": 1713587477,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31108,
+        "num": 526766,
+        "word": "中国互联网三十而立再出发",
+        "onboard_time": 1713601640,
+        "rank": 2,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2015535,
+        "num": 524121,
+        "word": "央媒发文放假绝不是假放",
+        "onboard_time": 1713593657,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471670,
+        "num": 471670,
+        "word": "66升油箱加出67升油车主报警",
+        "onboard_time": 1713599058,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 470440,
+        "num": 470440,
+        "word": "花少聚会没有迪丽热巴",
+        "onboard_time": 1713596477,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387094,
+        "num": 387094,
+        "word": "调休",
+        "onboard_time": 1713600079,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164895,
+        "num": 372285,
+        "word": "闲鱼现大量转卖SU7创始车型订单",
+        "onboard_time": 1713590657,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 371707,
+        "num": 371707,
+        "word": "小奶狗被打碎下巴女子坚持送医救治",
+        "onboard_time": 1713599717,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346699,
+        "num": 346699,
+        "word": "张予曦你多高啊我33啊",
+        "onboard_time": 1713591437,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 871799,
+        "num": 344293,
+        "word": "徐志胜女朋友",
+        "onboard_time": 1713597678,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627806,
+        "num": 343745,
+        "word": "鹿晗回复关晓彤好宠",
+        "onboard_time": 1713574397,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108419,
+        "num": 341249,
+        "word": "小时候的甜牛奶你还在喝吗",
+        "onboard_time": 1713600138,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 524601,
+        "num": 338177,
+        "word": "中央财经大学多名学生吐槽800米体测",
+        "onboard_time": 1713599298,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 336317,
+        "num": 336317,
+        "word": "当伴娘的赵奕欢",
+        "onboard_time": 1713598698,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321114,
+        "num": 321114,
+        "word": "哈尔滨通报索菲亚广场火灾事故",
+        "onboard_time": 1713597438,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309409,
+        "num": 309409,
+        "word": "中国游客涌入日本扫货",
+        "onboard_time": 1713593778,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300602,
+        "num": 300602,
+        "word": "陈昊宇 黑马",
+        "onboard_time": 1713593118,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297403,
+        "num": 297403,
+        "word": "女性排卵时身体会有5种改变",
+        "onboard_time": 1713578237,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 295223,
+        "num": 295223,
+        "word": "北大还行撒贝宁 平凡生活郭碧婷",
+        "onboard_time": 1713599959,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271291,
+        "num": 271291,
+        "word": "鹿晗回应大B哥",
+        "onboard_time": 1713601576,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 257645,
+        "num": 257645,
+        "word": "金价暴涨后线上金店拒发货",
+        "onboard_time": 1713593417,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 233288,
+        "num": 233288,
+        "word": "LPL",
+        "onboard_time": 1713601517,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198585,
+        "num": 198585,
+        "word": "白鹿范丞丞一个腰不好一个脖子长",
+        "onboard_time": 1713599177,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77798,
+        "num": 197402,
+        "word": "湖南旅行攻略给你备好了",
+        "onboard_time": 1713598996,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 196868,
+        "num": 196868,
+        "word": "杨紫苗族服饰旧照",
+        "onboard_time": 1713597197,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189192,
+        "num": 189192,
+        "word": "我突然明白了读书的意义",
+        "onboard_time": 1713601396,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183461,
+        "num": 183461,
+        "word": "邓紫棋演唱会",
+        "onboard_time": 1713600797,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165054,
+        "num": 165054,
+        "word": "张艺兴在好六经历了什么",
+        "onboard_time": 1713600678,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160953,
+        "num": 160953,
+        "word": "台湾一对情侣吵架女子跳车身亡",
+        "onboard_time": 1713588438,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152789,
+        "num": 152789,
+        "word": "秦昊被杨幂夸到迷失自我",
+        "onboard_time": 1713599779,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151322,
+        "num": 151322,
+        "word": "田曦薇被说帽子丑的反应",
+        "onboard_time": 1713600498,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145160,
+        "num": 145160,
+        "word": "10个韩国人去吃饭点了两个菜",
+        "onboard_time": 1713586158,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140675,
+        "num": 140675,
+        "word": "女演员涉案被警方逮捕",
+        "onboard_time": 1713594558,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139051,
+        "num": 139051,
+        "word": "刘雨昕洛杉矶生日直播",
+        "onboard_time": 1713601459,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69722,
+        "num": 138740,
+        "word": "时代少年团演唱会 抢票",
+        "onboard_time": 1713588976,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131304,
+        "num": 131304,
+        "word": "张凌赫徐若晗偶像剧吻戏",
+        "onboard_time": 1713594857,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127090,
+        "num": 127090,
+        "word": "胡先煦为什么揍王安宇",
+        "onboard_time": 1713601818,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121274,
+        "num": 121274,
+        "word": "韦神复出",
+        "onboard_time": 1713585738,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117872,
+        "num": 117872,
+        "word": "被小猫冷暴力了三年",
+        "onboard_time": 1713586217,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119344,
+        "num": 117181,
+        "word": "陈哲远吃播太香了",
+        "onboard_time": 1713598877,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54364,
+        "num": 115342,
+        "word": "太空视角下的宇宙级震撼之美",
+        "onboard_time": 1713601037,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114920,
+        "num": 114920,
+        "word": "西安地铁10号线试车时发生事故",
+        "onboard_time": 1713595098,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107083,
+        "num": 107083,
+        "word": "王安宇问秦海璐姐夫在吗",
+        "onboard_time": 1713592096,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101510,
+        "num": 101510,
+        "word": "鹿晗关晓彤好好嗑",
+        "onboard_time": 1713571637,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98289,
+        "num": 98289,
+        "word": "恋与深空黎深",
+        "onboard_time": 1713599118,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97104,
+        "num": 97104,
+        "word": "3万多美金浙产保险柜不惧炸药中东土豪爆买",
+        "onboard_time": 1713600617,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 96938,
+        "num": 96938,
+        "word": "陈丽君陈昊宇双向奔赴",
+        "onboard_time": 1713593357,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96396,
+        "num": 96396,
+        "word": "原来小狗也有自己的社交圈",
+        "onboard_time": 1713597197,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95076,
+        "num": 95076,
+        "word": "周冠宇冲刺赛第9",
+        "onboard_time": 1713585557,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人民解放军信息支援部队成立#"
+    }
+  }
+}

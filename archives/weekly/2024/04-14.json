@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713601190193,
+  "endTime": 1713602068927,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -948,7 +948,7 @@
     },
     {
       "raw_hot": 1106143,
-      "num": 319890,
+      "num": 344293,
       "word": "徐志胜女朋友",
       "onboard_time": 1713597678,
       "rank": 17,
@@ -3148,7 +3148,7 @@
     },
     {
       "raw_hot": 588331,
-      "num": 250249,
+      "num": 372285,
       "word": "闲鱼现大量转卖SU7创始车型订单",
       "onboard_time": 1713590657,
       "rank": 24,
@@ -3713,6 +3713,14 @@
       "onboard_time": 1713333859,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 524601,
+      "num": 338177,
+      "word": "中央财经大学多名学生吐槽800米体测",
+      "onboard_time": 1713599298,
+      "rank": 14,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 524582,
@@ -4347,6 +4355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 471670,
+      "num": 471670,
+      "word": "66升油箱加出67升油车主报警",
+      "onboard_time": 1713599058,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 471635,
       "num": 375024,
       "word": "广东一大桥发生事故致2人遇难",
@@ -4873,14 +4889,6 @@
       "onboard_time": 1713446899,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 429951,
-      "num": 318098,
-      "word": "66升油箱加出67升油车主报警",
-      "onboard_time": 1713599058,
-      "rank": 12,
-      "category": "汽车"
     },
     {
       "raw_hot": 429458,
@@ -5779,12 +5787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 371721,
-      "num": 314389,
-      "word": "中央财经大学多名学生吐槽800米体测",
-      "onboard_time": 1713599298,
-      "rank": 14,
-      "category": "教育,社会新闻"
+      "raw_hot": 371707,
+      "num": 371707,
+      "word": "小奶狗被打碎下巴女子坚持送医救治",
+      "onboard_time": 1713599717,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371061,
@@ -6419,6 +6427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 336317,
+      "num": 336317,
+      "word": "当伴娘的赵奕欢",
+      "onboard_time": 1713598698,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336060,
       "num": 336060,
       "word": "如懿传",
@@ -6891,14 +6907,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 312821,
-      "num": 312821,
-      "word": "当伴娘的赵奕欢",
-      "onboard_time": 1713598698,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 312053,
       "num": 286643,
       "word": "换乘恋爱",
@@ -7273,6 +7281,14 @@
       "onboard_time": 1713067998,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295223,
+      "num": 295223,
+      "word": "北大还行撒贝宁 平凡生活郭碧婷",
+      "onboard_time": 1713599959,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 294044,
@@ -7787,6 +7803,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 271291,
+      "num": 271291,
+      "word": "鹿晗回应大B哥",
+      "onboard_time": 1713601576,
+      "rank": 20,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 270835,
       "num": 270835,
       "word": "理想L6",
@@ -8208,14 +8232,6 @@
       "word": "五一小长假火车票今起开售",
       "onboard_time": 1713311656,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255974,
-      "num": 322406,
-      "word": "小奶狗被打碎下巴女子坚持送医救治",
-      "onboard_time": 1713599717,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -8952,6 +8968,14 @@
       "word": "Doinb爆料Tarzan找到队伍",
       "onboard_time": 1713068659,
       "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 233288,
+      "num": 233288,
+      "word": "LPL",
+      "onboard_time": 1713601517,
+      "rank": 22,
       "category": "电竞"
     },
     {
@@ -9945,14 +9969,6 @@
       "onboard_time": 1713314300,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210879,
-      "num": 210879,
-      "word": "北大还行撒贝宁 平凡生活郭碧婷",
-      "onboard_time": 1713599959,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 210812,
@@ -11571,6 +11587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189192,
+      "num": 189192,
+      "word": "我突然明白了读书的意义",
+      "onboard_time": 1713601396,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188934,
       "num": 188934,
       "word": "黑神话PS5版炒至500元",
@@ -12049,6 +12073,14 @@
       "onboard_time": 1713166158,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 183461,
+      "num": 183461,
+      "word": "邓紫棋演唱会",
+      "onboard_time": 1713600797,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 183317,
@@ -13763,14 +13795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157265,
-      "num": 157265,
-      "word": "邓紫棋演唱会",
-      "onboard_time": 1713600797,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 157244,
       "num": 157244,
       "word": "泼水节",
@@ -14329,6 +14353,14 @@
       "onboard_time": 1713516377,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151322,
+      "num": 151322,
+      "word": "田曦薇被说帽子丑的反应",
+      "onboard_time": 1713600498,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 151313,
@@ -15467,6 +15499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139051,
+      "num": 139051,
+      "word": "刘雨昕洛杉矶生日直播",
+      "onboard_time": 1713601459,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138909,
       "num": 138909,
       "word": "调降基金股票交易佣金费率",
@@ -16083,14 +16123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130779,
-      "num": 130779,
-      "word": "田曦薇被说帽子丑的反应",
-      "onboard_time": 1713600498,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130714,
       "num": 130714,
       "word": "NCT127送李泰容入伍",
@@ -16304,6 +16336,14 @@
       "word": "浪姐5好多人哭了",
       "onboard_time": 1713591437,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127090,
+      "num": 127090,
+      "word": "胡先煦为什么揍王安宇",
+      "onboard_time": 1713601818,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -16803,6 +16843,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 119344,
+      "num": 117181,
+      "word": "陈哲远吃播太香了",
+      "onboard_time": 1713598877,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118960,
       "num": 118960,
       "word": "姚志明坠入爱河了",
@@ -17099,14 +17147,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 113369,
-      "num": 113369,
-      "word": "陈哲远吃播太香了",
-      "onboard_time": 1713598877,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113344,
       "num": 113344,
       "word": "苏有朋吴奇隆合体录综艺",
@@ -17337,6 +17377,14 @@
       "onboard_time": 1713442638,
       "rank": 36,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 108419,
+      "num": 341249,
+      "word": "小时候的甜牛奶你还在喝吗",
+      "onboard_time": 1713600138,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 108128,
@@ -17729,14 +17777,6 @@
       "onboard_time": 1713138798,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97784,
-      "num": 316630,
-      "word": "小时候的甜牛奶你还在喝吗",
-      "onboard_time": 1713600138,
-      "rank": 13,
-      "category": "美食"
     },
     {
       "raw_hot": 97663,
@@ -18539,6 +18579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 54364,
+      "num": 603865,
+      "word": "太空视角下的宇宙级震撼之美",
+      "onboard_time": 1713601037,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54226,
       "num": 385641,
       "word": "联想发布AI元启系列人工智能电脑",
@@ -19043,6 +19091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31108,
+      "num": 526766,
+      "word": "中国互联网三十而立再出发",
+      "onboard_time": 1713601640,
+      "rank": 2,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 30976,
       "num": 38018,
       "word": "琉球群岛东南5.8级地震",
@@ -19409,14 +19465,6 @@
       "onboard_time": 1713070518,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 9236,
-      "num": 603865,
-      "word": "太空视角下的宇宙级震撼之美",
-      "onboard_time": 1713601037,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
