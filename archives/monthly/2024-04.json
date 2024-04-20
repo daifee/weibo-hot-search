@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713630924247,
+  "endTime": 1713633278778,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -16059,6 +16059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417104,
+      "num": 417104,
+      "word": "网传中国女游客在印尼火山景点遇难",
+      "onboard_time": 1713629359,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416047,
       "num": 407740,
       "word": "马龙给15岁对手上一课",
@@ -18555,6 +18563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 360933,
+      "num": 360933,
+      "word": "重庆90岁老人寿宴上女歌手摔倒去世",
+      "onboard_time": 1713629239,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360797,
       "num": 360797,
       "word": "YG新女团vsHybe新女团",
@@ -20363,6 +20379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 326492,
+      "num": 277557,
+      "word": "贤佑海仁睡了我出生了",
+      "onboard_time": 1713629060,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326397,
       "num": 326397,
       "word": "金娘子唱年轮",
@@ -20521,14 +20545,6 @@
       "onboard_time": 1712722160,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 324291,
-      "num": 324291,
-      "word": "重庆90岁老人寿宴上女歌手摔倒去世",
-      "onboard_time": 1713629239,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324280,
@@ -23689,14 +23705,6 @@
       "onboard_time": 1713531917,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 277557,
-      "num": 277557,
-      "word": "贤佑海仁睡了我出生了",
-      "onboard_time": 1713629060,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 277511,
@@ -27091,14 +27099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241149,
-      "num": 263297,
-      "word": "网传中国女游客在印尼火山景点遇难",
-      "onboard_time": 1713629359,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241131,
       "num": 241131,
       "word": "迪丽热巴诉医美公司侵权",
@@ -27697,6 +27697,14 @@
       "onboard_time": 1712665400,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235608,
+      "num": 235608,
+      "word": "裙子的尺码从xxs做到5xl",
+      "onboard_time": 1713631157,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 235514,
@@ -54745,6 +54753,14 @@
       "onboard_time": 1712791574,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72359,
+      "num": 75895,
+      "word": "刘宇巡演",
+      "onboard_time": 1713633137,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 72225,
