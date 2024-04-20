@@ -1,6 +1,6 @@
 {
   "startTime": 1713543834648,
-  "endTime": 1713575606239,
+  "endTime": 1713576771723,
   "band_list": [
     {
       "raw_hot": 2200058,
@@ -11,10 +11,18 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1739428,
+      "raw_hot": 1904714,
       "num": 300490,
       "word": "鹿晗回复关晓彤好宠",
       "onboard_time": 1713574397,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1855664,
+      "num": 240771,
+      "word": "关晓彤连续七年为鹿晗庆生",
+      "onboard_time": 1713568213,
       "rank": 15,
       "category": "艺人"
     },
@@ -27,12 +35,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 914037,
-      "num": 914037,
+      "raw_hot": 1023942,
+      "num": 1023942,
       "word": "我要求我女儿休学了一年",
       "onboard_time": 1713571757,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 981938,
+      "num": 190921,
+      "word": "鹿晗关晓彤好好嗑",
+      "onboard_time": 1713571637,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 699786,
@@ -41,14 +57,6 @@
       "onboard_time": 1713531497,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 684732,
-      "num": 190921,
-      "word": "鹿晗关晓彤好好嗑",
-      "onboard_time": 1713571637,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 680600,
@@ -91,20 +99,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 483547,
+      "num": 483547,
+      "word": "多家航司取消往返以色列航班",
+      "onboard_time": 1713573137,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 468915,
+      "num": 468915,
+      "word": "侯雯元曝刘耀文睡觉踢人",
+      "onboard_time": 1713574578,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 456727,
       "num": 456727,
       "word": "乘风2024排名",
       "onboard_time": 1713571337,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 451275,
-      "num": 451275,
-      "word": "多家航司取消往返以色列航班",
-      "onboard_time": 1713573137,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 442584,
@@ -131,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390873,
+      "num": 390873,
+      "word": "上海的群租房能离谱到什么程度",
+      "onboard_time": 1713573137,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 390472,
       "num": 390472,
       "word": "丁克现状",
@@ -145,6 +169,14 @@
       "onboard_time": 1713570316,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 366489,
+      "num": 366489,
+      "word": "樊振东说自己并未懈怠",
+      "onboard_time": 1713573376,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 365735,
@@ -163,35 +195,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 354368,
-      "num": 354368,
-      "word": "樊振东说自己并未懈怠",
-      "onboard_time": 1713573376,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 329505,
       "num": 329505,
       "word": "范丞丞为了讨好宋雨琦跳fate",
       "onboard_time": 1713535698,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 321019,
-      "num": 305810,
-      "word": "上海的群租房能离谱到什么程度",
-      "onboard_time": 1713573137,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 319782,
-      "num": 302979,
-      "word": "侯雯元曝刘耀文睡觉踢人",
-      "onboard_time": 1713574578,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -235,6 +243,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277483,
+      "num": 277483,
+      "word": "重庆燃气集团党委书记车德臣被免",
+      "onboard_time": 1713573797,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269784,
+      "num": 315357,
+      "word": "福宝有多爱吃家乡饭",
+      "onboard_time": 1713573917,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268165,
       "num": 268165,
       "word": "向太怎么也来参加浪姐了",
@@ -275,11 +299,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240160,
-      "num": 240160,
-      "word": "重庆燃气集团党委书记车德臣被免",
-      "onboard_time": 1713573797,
-      "rank": 17,
+      "raw_hot": 222554,
+      "num": 222554,
+      "word": "河北承德围场发生交通事故致8死",
+      "onboard_time": 1713576198,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -297,14 +321,6 @@
       "onboard_time": 1713522677,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215457,
-      "num": 315357,
-      "word": "福宝有多爱吃家乡饭",
-      "onboard_time": 1713573917,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199627,
@@ -363,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184289,
+      "num": 184289,
+      "word": "1米7学妹体测完变1米6",
+      "onboard_time": 1713547993,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180570,
       "num": 180570,
       "word": "歌手韩雪回归",
@@ -385,6 +409,14 @@
       "onboard_time": 1713530958,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173591,
+      "num": 173591,
+      "word": "家里蹲三年以上的感受",
+      "onboard_time": 1713576077,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 170383,
@@ -419,20 +451,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 148737,
-      "num": 148737,
+      "raw_hot": 148915,
+      "num": 148915,
       "word": "Miss身材",
       "onboard_time": 1713572777,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147980,
-      "num": 147980,
-      "word": "1米7学妹体测完变1米6",
-      "onboard_time": 1713547993,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142451,
@@ -443,12 +467,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 140227,
+      "num": 140227,
+      "word": "女子熬夜双眼皮熬成悲伤蛙",
+      "onboard_time": 1713553811,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138869,
       "num": 138869,
       "word": "建议面试要看公司的厕所环境",
       "onboard_time": 1713541817,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136000,
+      "num": 136000,
+      "word": "这个赛季云南的蓝莓赢麻了",
+      "onboard_time": 1713575837,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 135626,
@@ -467,12 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133288,
-      "num": 133288,
-      "word": "女子熬夜双眼皮熬成悲伤蛙",
-      "onboard_time": 1713553811,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 132889,
+      "num": 132889,
+      "word": "长期出差的工作是什么样子的",
+      "onboard_time": 1713576136,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 132888,
@@ -507,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124640,
+      "num": 124640,
+      "word": "4名职校学生群殴同学被刑拘",
+      "onboard_time": 1713576136,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122928,
       "num": 122928,
       "word": "射手座最大的执念",
@@ -521,6 +569,14 @@
       "onboard_time": 1713539359,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 115057,
+      "num": 115057,
+      "word": "yushi签售",
+      "onboard_time": 1713575957,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 114995,
@@ -595,6 +651,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 99324,
+      "num": 99324,
+      "word": "林俊杰回复蔡依林",
+      "onboard_time": 1713575478,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 97255,
+      "num": 97255,
+      "word": "女子被假闺蜜骗去数百万",
+      "onboard_time": 1713575897,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92374,
       "num": 104930,
       "word": "重生之我在霸总短剧里当保姆",
@@ -611,20 +683,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 91297,
+      "num": 91297,
+      "word": "经济学家建议刺激富人消费",
+      "onboard_time": 1713576558,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 88520,
       "num": 88520,
       "word": "心理学看多了没法吵架",
       "onboard_time": 1713572716,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 87944,
-      "num": 87944,
-      "word": "林俊杰回复蔡依林",
-      "onboard_time": 1713575478,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 87605,

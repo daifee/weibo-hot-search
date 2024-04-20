@@ -1,0 +1,410 @@
+{
+  "runTime": 1713576771723,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1023942,
+        "num": 1023942,
+        "word": "我要求我女儿休学了一年",
+        "onboard_time": 1713571757,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 623322,
+        "num": 623322,
+        "word": "加沙妇女抱5岁侄女尸体照片获摄影大奖",
+        "onboard_time": 1713568034,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3812,
+        "num": 550574,
+        "word": "数字丝路发展论坛",
+        "onboard_time": 1713241458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483547,
+        "num": 483547,
+        "word": "多家航司取消往返以色列航班",
+        "onboard_time": 1713573137,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 468915,
+        "num": 468915,
+        "word": "侯雯元曝刘耀文睡觉踢人",
+        "onboard_time": 1713574578,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417499,
+        "num": 417499,
+        "word": "母亲去世父亲天天去安葬地陪伴",
+        "onboard_time": 1713569956,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393104,
+        "num": 393104,
+        "word": "乘风2024排名",
+        "onboard_time": 1713571337,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390873,
+        "num": 390873,
+        "word": "上海的群租房能离谱到什么程度",
+        "onboard_time": 1713573137,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366489,
+        "num": 366489,
+        "word": "樊振东说自己并未懈怠",
+        "onboard_time": 1713573376,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269784,
+        "num": 306274,
+        "word": "福宝有多爱吃家乡饭",
+        "onboard_time": 1713573917,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1904714,
+        "num": 297087,
+        "word": "鹿晗回复关晓彤好宠",
+        "onboard_time": 1713574397,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428089,
+        "num": 293102,
+        "word": "李溪芮发缝",
+        "onboard_time": 1713539539,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281718,
+        "num": 281718,
+        "word": "何洁不是第一",
+        "onboard_time": 1713570316,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277483,
+        "num": 277483,
+        "word": "重庆燃气集团党委书记车德臣被免",
+        "onboard_time": 1713573797,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248926,
+        "num": 248926,
+        "word": "买燃油车的人正式成了少数派",
+        "onboard_time": 1713537978,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1855664,
+        "num": 240771,
+        "word": "关晓彤连续七年为鹿晗庆生",
+        "onboard_time": 1713568213,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227940,
+        "num": 227940,
+        "word": "英伟达",
+        "onboard_time": 1713570316,
+        "rank": 16,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 224896,
+        "num": 224896,
+        "word": "特斯拉被裁中国员工发声",
+        "onboard_time": 1713533478,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 222554,
+        "num": 222554,
+        "word": "河北承德围场发生交通事故致8死",
+        "onboard_time": 1713576198,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188970,
+        "num": 188970,
+        "word": "徐志胜看透了女性婚恋市场",
+        "onboard_time": 1713544995,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 981938,
+        "num": 187008,
+        "word": "鹿晗关晓彤好好嗑",
+        "onboard_time": 1713571637,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204983,
+        "num": 185820,
+        "word": "霉霉一天顶BLACKPINK八年",
+        "onboard_time": 1713529276,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184289,
+        "num": 184289,
+        "word": "1米7学妹体测完变1米6",
+        "onboard_time": 1713547993,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184074,
+        "num": 184074,
+        "word": "重庆已立案调查14件燃气费问题",
+        "onboard_time": 1713574875,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176200,
+        "num": 176200,
+        "word": "田曦薇 看得出她是公主",
+        "onboard_time": 1713531497,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173591,
+        "num": 173591,
+        "word": "家里蹲三年以上的感受",
+        "onboard_time": 1713576077,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169700,
+        "num": 169700,
+        "word": "周扬青亚裔混血感",
+        "onboard_time": 1713550452,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159813,
+        "num": 159813,
+        "word": "王琳 公派留学",
+        "onboard_time": 1713535640,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159483,
+        "num": 159483,
+        "word": "奶奶去修28岁的洗衣机厂家直接送新的",
+        "onboard_time": 1713567974,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153392,
+        "num": 153392,
+        "word": "小狗会在主人摸它时提前把耳朵放下",
+        "onboard_time": 1713573197,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148915,
+        "num": 148915,
+        "word": "Miss身材",
+        "onboard_time": 1713572777,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145431,
+        "num": 145431,
+        "word": "弟弟都亲了一夜承明你们呢",
+        "onboard_time": 1713541699,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140576,
+        "num": 140576,
+        "word": "长大后才知道原来阳光不是免费的",
+        "onboard_time": 1713538999,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140227,
+        "num": 140227,
+        "word": "女子熬夜双眼皮熬成悲伤蛙",
+        "onboard_time": 1713553811,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138995,
+        "num": 138995,
+        "word": "为什么建议你常喝煮苹果水",
+        "onboard_time": 1713567374,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136000,
+        "num": 136000,
+        "word": "这个赛季云南的蓝莓赢麻了",
+        "onboard_time": 1713575837,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135229,
+        "num": 135229,
+        "word": "晚安大小姐cha",
+        "onboard_time": 1713574397,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132889,
+        "num": 132889,
+        "word": "长期出差的工作是什么样子的",
+        "onboard_time": 1713576136,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124640,
+        "num": 124640,
+        "word": "4名职校学生群殴同学被刑拘",
+        "onboard_time": 1713576136,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120393,
+        "num": 120393,
+        "word": "柳岩浪姐cos不知火舞",
+        "onboard_time": 1713542538,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115057,
+        "num": 115057,
+        "word": "yushi签售",
+        "onboard_time": 1713575957,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110354,
+        "num": 110354,
+        "word": "歌手韩雪回归",
+        "onboard_time": 1713548592,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102211,
+        "num": 102211,
+        "word": "英伟达市值跌超2000亿美元",
+        "onboard_time": 1713573976,
+        "rank": 42,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 100666,
+        "num": 100666,
+        "word": "这些信号提示你有血栓了",
+        "onboard_time": 1713542056,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99324,
+        "num": 99324,
+        "word": "林俊杰回复蔡依林",
+        "onboard_time": 1713575478,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97255,
+        "num": 97255,
+        "word": "女子被假闺蜜骗去数百万",
+        "onboard_time": 1713575897,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91297,
+        "num": 91297,
+        "word": "经济学家建议刺激富人消费",
+        "onboard_time": 1713576558,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90104,
+        "num": 90104,
+        "word": "以为是肠胃小毛病没想到是癌症",
+        "onboard_time": 1713536959,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88491,
+        "num": 88491,
+        "word": "时团演唱会1680元看台票降价",
+        "onboard_time": 1713573438,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83571,
+        "num": 83571,
+        "word": "发箍正确的戴法",
+        "onboard_time": 1713573797,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向信息支援部队授予军旗并致训词#"
+    }
+  }
+}

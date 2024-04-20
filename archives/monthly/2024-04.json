@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713575606239,
+  "endTime": 1713576771723,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -779,6 +779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1904714,
+      "num": 300490,
+      "word": "鹿晗回复关晓彤好宠",
+      "onboard_time": 1713574397,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1899421,
       "num": 1899421,
       "word": "cp粉悬着的心终于死了",
@@ -825,6 +833,14 @@
       "onboard_time": 1712755398,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1855664,
+      "num": 240771,
+      "word": "关晓彤连续七年为鹿晗庆生",
+      "onboard_time": 1713568213,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1851247,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1712052680,
       "rank": 1,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 1739428,
-      "num": 300490,
-      "word": "鹿晗回复关晓彤好宠",
-      "onboard_time": 1713574397,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1728235,
@@ -3907,6 +3915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1023942,
+      "num": 1023942,
+      "word": "我要求我女儿休学了一年",
+      "onboard_time": 1713571757,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1023808,
       "num": 1023808,
       "word": "郑合惠子 垃圾堆里扒好东西",
@@ -4201,6 +4217,14 @@
       "onboard_time": 1713322458,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 981938,
+      "num": 190921,
+      "word": "鹿晗关晓彤好好嗑",
+      "onboard_time": 1713571637,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 981512,
@@ -4752,14 +4776,6 @@
       "word": "女性生孩子的理由只有一个",
       "onboard_time": 1713149958,
       "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 914037,
-      "num": 914037,
-      "word": "我要求我女儿休学了一年",
-      "onboard_time": 1713571757,
-      "rank": 0,
       "category": "情感"
     },
     {
@@ -7857,14 +7873,6 @@
       "onboard_time": 1713504558,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 684732,
-      "num": 190921,
-      "word": "鹿晗关晓彤好好嗑",
-      "onboard_time": 1713571637,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 684515,
@@ -12843,6 +12851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 483547,
+      "num": 483547,
+      "word": "多家航司取消往返以色列航班",
+      "onboard_time": 1713573137,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 483476,
       "num": 483476,
       "word": "魏大勋35岁生日海报",
@@ -13329,6 +13345,14 @@
       "onboard_time": 1712641100,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 468915,
+      "num": 468915,
+      "word": "侯雯元曝刘耀文睡觉踢人",
+      "onboard_time": 1713574578,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 468719,
@@ -13913,14 +13937,6 @@
       "onboard_time": 1711939819,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 451275,
-      "num": 451275,
-      "word": "多家航司取消往返以色列航班",
-      "onboard_time": 1713573137,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 451202,
@@ -16371,6 +16387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390873,
+      "num": 390873,
+      "word": "上海的群租房能离谱到什么程度",
+      "onboard_time": 1713573137,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 390697,
       "num": 390697,
       "word": "赵弈钦短剧早已next level",
@@ -17499,6 +17523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 366489,
+      "num": 366489,
+      "word": "樊振东说自己并未懈怠",
+      "onboard_time": 1713573376,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366404,
       "num": 366404,
       "word": "员工晒董宇辉白发越来越多",
@@ -18097,14 +18129,6 @@
       "onboard_time": 1713453080,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354368,
-      "num": 354368,
-      "word": "樊振东说自己并未懈怠",
-      "onboard_time": 1713573376,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 354350,
@@ -19835,14 +19859,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 321019,
-      "num": 305810,
-      "word": "上海的群租房能离谱到什么程度",
-      "onboard_time": 1713573137,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 321001,
       "num": 244110,
       "word": "神仙水为何卖不动了",
@@ -19913,14 +19929,6 @@
       "onboard_time": 1713091939,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 319782,
-      "num": 302979,
-      "word": "侯雯元曝刘耀文睡觉踢人",
-      "onboard_time": 1713574578,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 319713,
@@ -22723,6 +22731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277483,
+      "num": 277483,
+      "word": "重庆燃气集团党委书记车德臣被免",
+      "onboard_time": 1713573797,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277479,
       "num": 277479,
       "word": "白发行止",
@@ -23281,6 +23297,14 @@
       "onboard_time": 1712233339,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 269784,
+      "num": 315357,
+      "word": "福宝有多爱吃家乡饭",
+      "onboard_time": 1713573917,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269775,
@@ -26091,14 +26115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240160,
-      "num": 240160,
-      "word": "重庆燃气集团党委书记车德臣被免",
-      "onboard_time": 1713573797,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240146,
       "num": 240146,
       "word": "你想活出怎样的人生今日上映",
@@ -28083,6 +28099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222554,
+      "num": 222554,
+      "word": "河北承德围场发生交通事故致8死",
+      "onboard_time": 1713576198,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222448,
       "num": 222448,
       "word": "王一博首次尝试自己做摄影师",
@@ -28953,14 +28977,6 @@
       "onboard_time": 1712622198,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 215457,
-      "num": 315357,
-      "word": "福宝有多爱吃家乡饭",
-      "onboard_time": 1713573917,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215377,
@@ -35787,6 +35803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184289,
+      "num": 184289,
+      "word": "1米7学妹体测完变1米6",
+      "onboard_time": 1713547993,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184286,
       "num": 184286,
       "word": "张杰南昌抢票",
@@ -37897,6 +37921,14 @@
       "onboard_time": 1713173057,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173591,
+      "num": 173591,
+      "word": "家里蹲三年以上的感受",
+      "onboard_time": 1713576077,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 173468,
@@ -43003,6 +43035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148915,
+      "num": 148915,
+      "word": "Miss身材",
+      "onboard_time": 1713572777,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148899,
       "num": 148899,
       "word": "王阳王昱珩武大靖同台走秀",
@@ -43041,14 +43081,6 @@
       "onboard_time": 1712124861,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148737,
-      "num": 148737,
-      "word": "Miss身材",
-      "onboard_time": 1713572777,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 148714,
@@ -43265,14 +43297,6 @@
       "onboard_time": 1712064920,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 147980,
-      "num": 147980,
-      "word": "1米7学妹体测完变1米6",
-      "onboard_time": 1713547993,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147965,
@@ -44915,6 +44939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140227,
+      "num": 140227,
+      "word": "女子熬夜双眼皮熬成悲伤蛙",
+      "onboard_time": 1713553811,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140217,
       "num": 140217,
       "word": "EXO出道12周年",
@@ -45763,6 +45795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 136000,
+      "num": 136000,
+      "word": "这个赛季云南的蓝莓赢麻了",
+      "onboard_time": 1713575837,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 135954,
       "num": 135954,
       "word": "刘诗诗清水淡妆",
@@ -46299,14 +46339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133288,
-      "num": 133288,
-      "word": "女子熬夜双眼皮熬成悲伤蛙",
-      "onboard_time": 1713553811,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133261,
       "num": 133261,
       "word": "黄奕在新疆穿马面裙",
@@ -46393,6 +46425,14 @@
       "onboard_time": 1712026700,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132889,
+      "num": 132889,
+      "word": "长期出差的工作是什么样子的",
+      "onboard_time": 1713576136,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 132809,
@@ -47787,6 +47827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124640,
+      "num": 124640,
+      "word": "4名职校学生群殴同学被刑拘",
+      "onboard_time": 1713576136,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124588,
       "num": 124588,
       "word": "最近发了疯想谈恋爱的别急",
@@ -49161,6 +49209,14 @@
       "onboard_time": 1712975357,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 115057,
+      "num": 115057,
+      "word": "yushi签售",
+      "onboard_time": 1713575957,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 115027,
@@ -50659,6 +50715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99324,
+      "num": 99324,
+      "word": "林俊杰回复蔡依林",
+      "onboard_time": 1713575478,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99293,
       "num": 99293,
       "word": "肩膀最爱的锻炼动作",
@@ -50857,6 +50921,14 @@
       "onboard_time": 1713223155,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97255,
+      "num": 97255,
+      "word": "女子被假闺蜜骗去数百万",
+      "onboard_time": 1713575897,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97201,
@@ -51203,6 +51275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91297,
+      "num": 91297,
+      "word": "经济学家建议刺激富人消费",
+      "onboard_time": 1713576558,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 91293,
       "num": 91293,
       "word": "曾志伟办71岁慈善生日宴",
@@ -51417,14 +51497,6 @@
       "onboard_time": 1712756480,
       "rank": 16,
       "category": "数码"
-    },
-    {
-      "raw_hot": 87944,
-      "num": 87944,
-      "word": "林俊杰回复蔡依林",
-      "onboard_time": 1713575478,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 87490,
