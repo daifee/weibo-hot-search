@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713638034090,
+  "endTime": 1713640453291,
   "band_list": [
     {
       "raw_hot": 1218760,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51478,
+      "num": 41948,
+      "word": "戚薇怎么不笑了",
+      "onboard_time": 1713638053,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49209,
       "num": 41388,
       "word": "张艺兴Psychic国内舞台首秀",
@@ -481,6 +489,22 @@
       "onboard_time": 1713618858,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28330,
+      "num": 32323,
+      "word": "工作简庆芬 生活Rebecca",
+      "onboard_time": 1713639913,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23222,
+      "num": 32323,
+      "word": "追星的意义是救赎自己",
+      "onboard_time": 1713639670,
+      "rank": 47,
+      "category": "情感"
     }
   ],
   "hotgov_list": [

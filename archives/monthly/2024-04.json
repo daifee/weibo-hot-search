@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713638034090,
+  "endTime": 1713640453291,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -55803,6 +55803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51478,
+      "num": 41948,
+      "word": "戚薇怎么不笑了",
+      "onboard_time": 1713638053,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51456,
       "num": 51456,
       "word": "雷军称SU7零百加速实测2.95秒",
@@ -56875,6 +56883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28330,
+      "num": 32323,
+      "word": "工作简庆芬 生活Rebecca",
+      "onboard_time": 1713639913,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28195,
       "num": 272651,
       "word": "P5X画风刻进DNA",
@@ -57232,6 +57248,14 @@
       "word": "春日cityhappy计划",
       "onboard_time": 1712686512,
       "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 23222,
+      "num": 32323,
+      "word": "追星的意义是救赎自己",
+      "onboard_time": 1713639670,
+      "rank": 47,
       "category": "情感"
     },
     {
