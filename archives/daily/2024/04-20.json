@@ -1,6 +1,6 @@
 {
   "startTime": 1713543834648,
-  "endTime": 1713617081016,
+  "endTime": 1713619157519,
   "band_list": [
     {
       "raw_hot": 5314332,
@@ -121,6 +121,14 @@
       "onboard_time": 1713597678,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1072382,
+      "num": 1072382,
+      "word": "孙颖莎陈梦",
+      "onboard_time": 1713616577,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 1036329,
@@ -283,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 631601,
+      "num": 631601,
+      "word": "郭碧婷曾被导演要求打瘦脸针",
+      "onboard_time": 1713613818,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 626588,
       "num": 626588,
       "word": "加沙妇女抱5岁侄女尸体照片获摄影大奖",
@@ -321,6 +337,14 @@
       "onboard_time": 1713579196,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 600158,
+      "num": 600158,
+      "word": "BLG夺冠",
+      "onboard_time": 1713617298,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 595223,
@@ -401,14 +425,6 @@
       "onboard_time": 1713603497,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 556701,
-      "num": 556701,
-      "word": "孙颖莎陈梦",
-      "onboard_time": 1713616577,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 553444,
@@ -499,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 499886,
+      "num": 499886,
+      "word": "BLG战胜TES",
+      "onboard_time": 1713618619,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 498233,
       "num": 498233,
       "word": "BLG对战TES",
@@ -587,6 +611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 445017,
+      "num": 445017,
+      "word": "眼泪女王",
+      "onboard_time": 1713617897,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 443146,
       "num": 366161,
       "word": "马斯克发文反对美国禁止TikTok",
@@ -603,12 +635,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 432315,
+      "num": 432315,
+      "word": "陈昊宇发如雪",
+      "onboard_time": 1713617778,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 424318,
       "num": 424318,
       "word": "男子酒后打死10余只火烈鸟获刑5年",
       "onboard_time": 1713536539,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402567,
+      "num": 340546,
+      "word": "偷偷删除领导被发现了",
+      "onboard_time": 1713615918,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 402168,
@@ -683,11 +731,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380093,
-      "num": 380093,
-      "word": "郭碧婷曾被导演要求打瘦脸针",
-      "onboard_time": 1713613818,
-      "rank": 17,
+      "raw_hot": 379091,
+      "num": 379091,
+      "word": "李菲儿首次回应和锦超争执",
+      "onboard_time": 1713616337,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -747,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352782,
+      "num": 352782,
+      "word": "王俊凯暴龙",
+      "onboard_time": 1713617298,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352408,
       "num": 411083,
       "word": "美国再次发生自焚事件",
@@ -769,6 +825,14 @@
       "onboard_time": 1713610637,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347116,
+      "num": 347116,
+      "word": "贾玲好迷人",
+      "onboard_time": 1713618498,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 344885,
@@ -899,14 +963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300281,
-      "num": 300281,
-      "word": "偷偷删除领导被发现了",
-      "onboard_time": 1713615918,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 298336,
       "num": 204696,
       "word": "比利时王妃李然辟谣",
@@ -979,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275914,
-      "num": 275914,
-      "word": "李菲儿首次回应和锦超争执",
-      "onboard_time": 1713616337,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 273283,
       "num": 273283,
       "word": "赵奕欢非过没丑过",
@@ -1027,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265903,
+      "num": 265903,
+      "word": "于适 证婚人",
+      "onboard_time": 1713618137,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 265460,
       "num": 153398,
       "word": "长大后才知道原来阳光不是免费的",
@@ -1057,6 +1113,14 @@
       "onboard_time": 1713610338,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 253448,
+      "num": 253448,
+      "word": "眼泪女王直播",
+      "onboard_time": 1713617897,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 253061,
@@ -1155,12 +1219,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225743,
+      "num": 225743,
+      "word": "infp普遍恋痛",
+      "onboard_time": 1713615918,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221560,
       "num": 221560,
       "word": "巴菲特抄底日本股市已赚700亿",
       "onboard_time": 1713610158,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 220158,
+      "num": 220158,
+      "word": "TTG对战RW",
+      "onboard_time": 1713618619,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 219870,
@@ -1275,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203523,
+      "num": 203523,
+      "word": "一夜承明正经情侣偷着约会",
+      "onboard_time": 1713617778,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202505,
       "num": 202505,
       "word": "白鹿漂亮学姐",
@@ -1371,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192867,
+      "num": 192867,
+      "word": "原来麻辣烫夹子是这样用的",
+      "onboard_time": 1713618018,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 192404,
       "num": 192404,
       "word": "张婧仪花下美人",
@@ -1459,20 +1555,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186829,
+      "num": 186829,
+      "word": "蒲熠星生日会",
+      "onboard_time": 1713617058,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186568,
       "num": 186568,
       "word": "林更新也就唱女孩好听",
       "onboard_time": 1713605118,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186118,
-      "num": 186118,
-      "word": "infp普遍恋痛",
-      "onboard_time": 1713615918,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 185028,
@@ -1593,6 +1689,14 @@
       "onboard_time": 1713615320,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176257,
+      "num": 176257,
+      "word": "张雨霏冠军",
+      "onboard_time": 1713618919,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 175988,
@@ -1851,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151528,
+      "num": 151528,
+      "word": "在驾校真正感受到什么叫萍水相逢",
+      "onboard_time": 1713618798,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151322,
       "num": 151322,
       "word": "田曦薇被说帽子丑的反应",
@@ -1891,12 +2003,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148559,
+      "num": 148559,
+      "word": "张信哲演唱会",
+      "onboard_time": 1713618377,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148279,
       "num": 148279,
       "word": "F1",
       "onboard_time": 1713585438,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148155,
+      "num": 148155,
+      "word": "重庆九公里",
+      "onboard_time": 1713619099,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148003,
@@ -2067,6 +2195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136752,
+      "num": 412750,
+      "word": "专家解读火车下铺该不该共享",
+      "onboard_time": 1713618318,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136389,
       "num": 136389,
       "word": "广西一医院内有男子跳楼",
@@ -2105,14 +2241,6 @@
       "onboard_time": 1713538038,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135478,
-      "num": 135478,
-      "word": "蒲熠星生日会",
-      "onboard_time": 1713617058,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 134612,
@@ -2739,6 +2867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62921,
+      "num": 2004064,
+      "word": "太空视角下的宇宙级震撼之美",
+      "onboard_time": 1713601037,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60455,
       "num": 179688,
       "word": "00后老师为每位同学送专属信",
@@ -2777,14 +2913,6 @@
       "onboard_time": 1713581717,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 54364,
-      "num": 2004064,
-      "word": "太空视角下的宇宙级震撼之美",
-      "onboard_time": 1713601037,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52994,
@@ -2905,6 +3033,14 @@
       "onboard_time": 1713556151,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 12631,
+      "num": 921164,
+      "word": "文化中国行",
+      "onboard_time": 1713618919,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3824,

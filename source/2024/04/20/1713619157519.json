@@ -1,0 +1,410 @@
+{
+  "runTime": 1713619157519,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2676663,
+        "num": 2676663,
+        "word": "马龙4比0王楚钦",
+        "onboard_time": 1713615258,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1072382,
+        "num": 1072382,
+        "word": "孙颖莎陈梦",
+        "onboard_time": 1713616577,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12631,
+        "num": 921164,
+        "word": "文化中国行",
+        "onboard_time": 1713618919,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860054,
+        "num": 860054,
+        "word": "黄子韬 小马丁",
+        "onboard_time": 1713613997,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 631601,
+        "num": 631601,
+        "word": "郭碧婷曾被导演要求打瘦脸针",
+        "onboard_time": 1713613818,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 612971,
+        "num": 612971,
+        "word": "TES 人机",
+        "onboard_time": 1713611598,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 600158,
+        "num": 600158,
+        "word": "BLG夺冠",
+        "onboard_time": 1713617298,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 515332,
+        "num": 515332,
+        "word": "周杰伦听见下雨的声音",
+        "onboard_time": 1713613638,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 499886,
+        "num": 499886,
+        "word": "BLG战胜TES",
+        "onboard_time": 1713618619,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 229566,
+        "num": 468867,
+        "word": "小奶狗被打碎下巴女子坚持送医救治",
+        "onboard_time": 1713599717,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632634,
+        "num": 467790,
+        "word": "央媒发文放假绝不是假放",
+        "onboard_time": 1713593657,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464447,
+        "num": 464447,
+        "word": "BLG对战TES",
+        "onboard_time": 1713606499,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 445017,
+        "num": 445017,
+        "word": "眼泪女王",
+        "onboard_time": 1713617897,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432315,
+        "num": 432315,
+        "word": "陈昊宇发如雪",
+        "onboard_time": 1713617778,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136752,
+        "num": 412750,
+        "word": "专家解读火车下铺该不该共享",
+        "onboard_time": 1713618318,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410957,
+        "num": 410957,
+        "word": "湖南失踪15岁男孩遗体已找到",
+        "onboard_time": 1713610878,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379091,
+        "num": 379091,
+        "word": "李菲儿首次回应和锦超争执",
+        "onboard_time": 1713616337,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352782,
+        "num": 352782,
+        "word": "王俊凯暴龙",
+        "onboard_time": 1713617298,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347116,
+        "num": 347116,
+        "word": "贾玲好迷人",
+        "onboard_time": 1713618498,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340788,
+        "num": 340788,
+        "word": "林高远张本智和",
+        "onboard_time": 1713616037,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402567,
+        "num": 340546,
+        "word": "偷偷删除领导被发现了",
+        "onboard_time": 1713615918,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331281,
+        "num": 331281,
+        "word": "王楚钦马龙 看得心脏疼",
+        "onboard_time": 1713615078,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311823,
+        "num": 311823,
+        "word": "中餐厅8 法国",
+        "onboard_time": 1713615198,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265903,
+        "num": 265903,
+        "word": "于适 证婚人",
+        "onboard_time": 1713618137,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264687,
+        "num": 264687,
+        "word": "王楚钦vs马龙",
+        "onboard_time": 1713613457,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263664,
+        "num": 263664,
+        "word": "徐志胜女朋友",
+        "onboard_time": 1713597678,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253448,
+        "num": 253448,
+        "word": "眼泪女王直播",
+        "onboard_time": 1713617897,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251049,
+        "num": 251049,
+        "word": "孙艺洲吕布众望所归",
+        "onboard_time": 1713609317,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62921,
+        "num": 246958,
+        "word": "太空视角下的宇宙级震撼之美",
+        "onboard_time": 1713601037,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245471,
+        "num": 245471,
+        "word": "张亮华晨宇李晨",
+        "onboard_time": 1713608237,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243973,
+        "num": 243973,
+        "word": "Jennie一口气发了20张图",
+        "onboard_time": 1713603678,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233445,
+        "num": 233445,
+        "word": "张靓颖 音响",
+        "onboard_time": 1713615677,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225743,
+        "num": 225743,
+        "word": "infp普遍恋痛",
+        "onboard_time": 1713615918,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220158,
+        "num": 220158,
+        "word": "TTG对战RW",
+        "onboard_time": 1713618619,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203523,
+        "num": 203523,
+        "word": "一夜承明正经情侣偷着约会",
+        "onboard_time": 1713617778,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197035,
+        "num": 197035,
+        "word": "林高远比赛",
+        "onboard_time": 1713613818,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192867,
+        "num": 192867,
+        "word": "原来麻辣烫夹子是这样用的",
+        "onboard_time": 1713618018,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192357,
+        "num": 192357,
+        "word": "张艺兴说和EXO一直有联系",
+        "onboard_time": 1713608716,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186829,
+        "num": 186829,
+        "word": "蒲熠星生日会",
+        "onboard_time": 1713617058,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181641,
+        "num": 181641,
+        "word": "白鹿漂亮学姐",
+        "onboard_time": 1713616155,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181524,
+        "num": 181524,
+        "word": "马龙你牛",
+        "onboard_time": 1713614117,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179226,
+        "num": 179226,
+        "word": "ELK状态",
+        "onboard_time": 1713607937,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176257,
+        "num": 176257,
+        "word": "张雨霏冠军",
+        "onboard_time": 1713618919,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164948,
+        "num": 164948,
+        "word": "只有Miss选了郭碧婷",
+        "onboard_time": 1713594558,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155443,
+        "num": 155443,
+        "word": "谁在说热辣滚烫是减肥片",
+        "onboard_time": 1713615739,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153535,
+        "num": 153535,
+        "word": "凤凰传奇演唱会",
+        "onboard_time": 1713610338,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151853,
+        "num": 151853,
+        "word": "你好星期六",
+        "onboard_time": 1713615797,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151528,
+        "num": 151528,
+        "word": "在驾校真正感受到什么叫萍水相逢",
+        "onboard_time": 1713618798,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148559,
+        "num": 148559,
+        "word": "张信哲演唱会",
+        "onboard_time": 1713618377,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148155,
+        "num": 148155,
+        "word": "重庆九公里",
+        "onboard_time": 1713619099,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联网日益成为推动发展的新动能#"
+    }
+  }
+}
