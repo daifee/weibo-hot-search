@@ -1,0 +1,410 @@
+{
+  "runTime": 1713622499592,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2010867,
+        "num": 2010867,
+        "word": "白敬亭 B站",
+        "onboard_time": 1713619639,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1235723,
+        "num": 1235723,
+        "word": "贾玲好迷人",
+        "onboard_time": 1713618498,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67553,
+        "num": 1069021,
+        "word": "良田良种良机良法绘就当代春耕图",
+        "onboard_time": 1713618858,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984806,
+        "num": 984806,
+        "word": "马龙4比0王楚钦",
+        "onboard_time": 1713615258,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 847735,
+        "num": 847735,
+        "word": "黄子韬回应被拒绝同台",
+        "onboard_time": 1713621259,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 763456,
+        "num": 763456,
+        "word": "郭碧婷曾被导演要求打瘦脸针",
+        "onboard_time": 1713613818,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 655216,
+        "num": 655216,
+        "word": "孙颖莎陈梦",
+        "onboard_time": 1713616577,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478385,
+        "num": 478385,
+        "word": "重庆一小车失控冲出路沿致1死多伤",
+        "onboard_time": 1713619639,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472160,
+        "num": 472160,
+        "word": "林高远张本智和",
+        "onboard_time": 1713616037,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166285,
+        "num": 466186,
+        "word": "小奶狗被打碎下巴女子坚持送医救治",
+        "onboard_time": 1713599717,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900498,
+        "num": 460895,
+        "word": "央媒发文放假绝不是假放",
+        "onboard_time": 1713593657,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856204,
+        "num": 458083,
+        "word": "黄子韬 小马丁",
+        "onboard_time": 1713613997,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 726748,
+        "num": 452172,
+        "word": "戚薇 蔡文静",
+        "onboard_time": 1713621019,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88334,
+        "num": 442703,
+        "word": "AMG从赛道到街道",
+        "onboard_time": 1713619159,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 441488,
+        "num": 441488,
+        "word": "眼泪女王",
+        "onboard_time": 1713617897,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433773,
+        "num": 433773,
+        "word": "陈昊宇发如雪",
+        "onboard_time": 1713617778,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401120,
+        "num": 401120,
+        "word": "承欢记收视率",
+        "onboard_time": 1713621079,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399711,
+        "num": 399711,
+        "word": "李菲儿首次回应和锦超争执",
+        "onboard_time": 1713616337,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368906,
+        "num": 368906,
+        "word": "湖南失踪15岁男孩遗体已找到",
+        "onboard_time": 1713610878,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353333,
+        "num": 353333,
+        "word": "重庆九公里",
+        "onboard_time": 1713619099,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884561,
+        "num": 350143,
+        "word": "我删掉了高中大学的所有同学",
+        "onboard_time": 1713619820,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 383774,
+        "num": 348518,
+        "word": "周杰伦听见下雨的声音",
+        "onboard_time": 1713613638,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 344831,
+        "num": 344831,
+        "word": "原来麻辣烫夹子是这样用的",
+        "onboard_time": 1713618018,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 299377,
+        "num": 299377,
+        "word": "MSI抽签",
+        "onboard_time": 1713621319,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 299336,
+        "num": 299336,
+        "word": "垫底辣孩模仿魏若来",
+        "onboard_time": 1713620779,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290077,
+        "num": 290077,
+        "word": "林高远比赛",
+        "onboard_time": 1713613818,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280200,
+        "num": 280200,
+        "word": "TES 人机",
+        "onboard_time": 1713611598,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 279644,
+        "num": 279644,
+        "word": "陈丽君好帅",
+        "onboard_time": 1713620119,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39720,
+        "num": 274452,
+        "word": "蛋仔派对西游冒险之旅",
+        "onboard_time": 1713620779,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209771,
+        "num": 274438,
+        "word": "陈梦vs孙颖莎",
+        "onboard_time": 1713621319,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304252,
+        "num": 274437,
+        "word": "JackeyLove心态",
+        "onboard_time": 1713621319,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 274437,
+        "num": 274436,
+        "word": "孙颖莎4比2陈梦",
+        "onboard_time": 1713620840,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219251,
+        "num": 219251,
+        "word": "中餐厅8 法国",
+        "onboard_time": 1713615198,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212295,
+        "num": 212295,
+        "word": "新裤子上海",
+        "onboard_time": 1713621439,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211901,
+        "num": 211901,
+        "word": "眼泪女王直播",
+        "onboard_time": 1713617897,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205366,
+        "num": 205366,
+        "word": "TTG 双边",
+        "onboard_time": 1713620779,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200985,
+        "num": 200985,
+        "word": "Knight我的沙皇也能夺冠了",
+        "onboard_time": 1713622460,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198363,
+        "num": 198363,
+        "word": "时代少年团直播",
+        "onboard_time": 1713619758,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195081,
+        "num": 195081,
+        "word": "Jennie一口气发了20张图",
+        "onboard_time": 1713603678,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194726,
+        "num": 194726,
+        "word": "BLG战胜TES",
+        "onboard_time": 1713618619,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192207,
+        "num": 192207,
+        "word": "胡金秋受伤",
+        "onboard_time": 1713622041,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190016,
+        "num": 190016,
+        "word": "Tian",
+        "onboard_time": 1713620179,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177433,
+        "num": 177433,
+        "word": "孙颖莎王曼昱会师决赛",
+        "onboard_time": 1713622159,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169196,
+        "num": 169196,
+        "word": "BLG对战TES",
+        "onboard_time": 1713606499,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169039,
+        "num": 169039,
+        "word": "王楚钦vs马龙",
+        "onboard_time": 1713613457,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168423,
+        "num": 168423,
+        "word": "CBA",
+        "onboard_time": 1713621559,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167224,
+        "num": 167224,
+        "word": "BLG夺冠",
+        "onboard_time": 1713617298,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168394,
+        "num": 166180,
+        "word": "不够善良的我们",
+        "onboard_time": 1713622159,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163285,
+        "num": 163285,
+        "word": "偷偷删除领导被发现了",
+        "onboard_time": 1713615918,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163276,
+        "num": 163276,
+        "word": "白鲨夺冠",
+        "onboard_time": 1713619519,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人民解放军信息支援部队成立#"
+    }
+  }
+}

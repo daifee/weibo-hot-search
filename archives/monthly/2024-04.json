@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713620062327,
+  "endTime": 1713622499592,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -673,6 +673,14 @@
       "onboard_time": 1711938438,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2010867,
+      "num": 2010867,
+      "word": "白敬亭 B站",
+      "onboard_time": 1713619639,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 2004641,
@@ -2697,6 +2705,14 @@
       "onboard_time": 1712044218,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1235723,
+      "num": 1235723,
+      "word": "贾玲好迷人",
+      "onboard_time": 1713618498,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 1234442,
@@ -5203,6 +5219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 884561,
+      "num": 350143,
+      "word": "我删掉了高中大学的所有同学",
+      "onboard_time": 1713619820,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 883852,
       "num": 883852,
       "word": "朱一龙赵丽颖合影旧照",
@@ -5545,6 +5569,14 @@
       "onboard_time": 1713148458,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 847735,
+      "num": 847735,
+      "word": "黄子韬回应被拒绝同台",
+      "onboard_time": 1713621259,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 847345,
@@ -7363,6 +7395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 726748,
+      "num": 452172,
+      "word": "戚薇 蔡文静",
+      "onboard_time": 1713621019,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 726113,
       "num": 726113,
       "word": "赵奕欢的脖子被李菲儿掐红了",
@@ -7777,14 +7817,6 @@
       "onboard_time": 1712794520,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 702604,
-      "num": 702604,
-      "word": "贾玲好迷人",
-      "onboard_time": 1713618498,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 700742,
@@ -13475,6 +13507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478385,
+      "num": 478385,
+      "word": "重庆一小车失控冲出路沿致1死多伤",
+      "onboard_time": 1713619639,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478146,
       "num": 478146,
       "word": "唐嫣 高定配高珠",
@@ -13689,6 +13729,14 @@
       "onboard_time": 1713325578,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 472160,
+      "num": 472160,
+      "word": "林高远张本智和",
+      "onboard_time": 1713616037,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 472101,
@@ -16451,14 +16499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 402168,
-      "num": 402168,
-      "word": "林高远张本智和",
-      "onboard_time": 1713616037,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 401684,
       "num": 401684,
       "word": "TFBOYS纪念十周年",
@@ -16857,14 +16897,6 @@
       "onboard_time": 1713422779,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 394016,
-      "num": 315205,
-      "word": "我删掉了高中大学的所有同学",
-      "onboard_time": 1713619820,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 393891,
@@ -19259,6 +19291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344831,
+      "num": 344831,
+      "word": "原来麻辣烫夹子是这样用的",
+      "onboard_time": 1713618018,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 344830,
       "num": 278373,
       "word": "进体制内还能追星吗",
@@ -20475,14 +20515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 321875,
-      "num": 321875,
-      "word": "白敬亭 B站",
-      "onboard_time": 1713619639,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 321671,
       "num": 321671,
       "word": "胡锡进今天回血近13000元",
@@ -21171,14 +21203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 310976,
-      "num": 310976,
-      "word": "原来麻辣烫夹子是这样用的",
-      "onboard_time": 1713618018,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 310810,
       "num": 310810,
       "word": "男子囤4600多克金条坚决不卖",
@@ -21675,6 +21699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 304252,
+      "num": 274437,
+      "word": "JackeyLove心态",
+      "onboard_time": 1713621319,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 304220,
       "num": 304220,
       "word": "杜华卸任乐华影业多个职务",
@@ -22009,6 +22041,22 @@
       "onboard_time": 1713528379,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299377,
+      "num": 299377,
+      "word": "MSI抽签",
+      "onboard_time": 1713621319,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 299336,
+      "num": 299336,
+      "word": "垫底辣孩模仿魏若来",
+      "onboard_time": 1713620779,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 299302,
@@ -23411,6 +23459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 279644,
+      "num": 279644,
+      "word": "陈丽君好帅",
+      "onboard_time": 1713620119,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279599,
       "num": 279599,
       "word": "容祖儿的失望显而易见了",
@@ -23753,6 +23809,14 @@
       "onboard_time": 1712746759,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 274437,
+      "num": 274436,
+      "word": "孙颖莎4比2陈梦",
+      "onboard_time": 1713620840,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 274401,
@@ -24737,14 +24801,6 @@
       "onboard_time": 1713435798,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 261729,
-      "num": 261729,
-      "word": "重庆一小车失控冲出路沿致1死多伤",
-      "onboard_time": 1713619639,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261699,
@@ -30411,6 +30467,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 212295,
+      "num": 212295,
+      "word": "新裤子上海",
+      "onboard_time": 1713621439,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 212238,
       "num": 212238,
       "word": "罗伯特叫朱正廷烧麦判官",
@@ -30873,6 +30937,14 @@
       "onboard_time": 1713074297,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209771,
+      "num": 274438,
+      "word": "陈梦vs孙颖莎",
+      "onboard_time": 1713621319,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 209654,
@@ -31761,6 +31833,14 @@
       "onboard_time": 1712926039,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205366,
+      "num": 205366,
+      "word": "TTG 双边",
+      "onboard_time": 1713620779,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 205357,
@@ -32904,6 +32984,14 @@
       "word": "白鲨晋级总决赛",
       "onboard_time": 1712240420,
       "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 200985,
+      "num": 200985,
+      "word": "Knight我的沙皇也能夺冠了",
+      "onboard_time": 1713622460,
+      "rank": 36,
       "category": "电竞"
     },
     {
@@ -34931,6 +35019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192207,
+      "num": 192207,
+      "word": "胡金秋受伤",
+      "onboard_time": 1713622041,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192153,
       "num": 192153,
       "word": "小鬼团队真听劝了",
@@ -35601,6 +35697,14 @@
       "onboard_time": 1713413538,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190016,
+      "num": 190016,
+      "word": "Tian",
+      "onboard_time": 1713620179,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 189976,
@@ -38395,6 +38499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177433,
+      "num": 177433,
+      "word": "孙颖莎王曼昱会师决赛",
+      "onboard_time": 1713622159,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177285,
       "num": 1163178,
       "word": "春天很好只是太想你",
@@ -40209,6 +40321,14 @@
       "onboard_time": 1712238621,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168394,
+      "num": 166180,
+      "word": "不够善良的我们",
+      "onboard_time": 1713010998,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 168350,
@@ -50611,14 +50731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119065,
-      "num": 119065,
-      "word": "不够善良的我们",
-      "onboard_time": 1713010998,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119058,
       "num": 457538,
       "word": "首批车主已经提到小米SU7",
@@ -52900,7 +53012,7 @@
     },
     {
       "raw_hot": 97920,
-      "num": 310217,
+      "num": 442703,
       "word": "AMG从赛道到街道",
       "onboard_time": 1713619159,
       "rank": 23,
@@ -54499,6 +54611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 67553,
+      "num": 1069021,
+      "word": "良田良种良机良法绘就当代春耕图",
+      "onboard_time": 1713618858,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67476,
       "num": 109615,
       "word": "医生建议这些人一定要吃夜宵",
@@ -55835,6 +55955,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 39720,
+      "num": 274452,
+      "word": "蛋仔派对西游冒险之旅",
+      "onboard_time": 1713620779,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 39691,
       "num": 39691,
       "word": "方便面真的没有营养吗",
@@ -56089,14 +56217,6 @@
       "onboard_time": 1712993177,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 34038,
-      "num": 900108,
-      "word": "良田良种良机良法绘就当代春耕图",
-      "onboard_time": 1713618858,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34024,
