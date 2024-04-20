@@ -1,0 +1,410 @@
+{
+  "runTime": 1713605650120,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1016402,
+        "num": 1016402,
+        "word": "中央财经大学多名学生吐槽800米体测",
+        "onboard_time": 1713599298,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 885852,
+        "num": 885852,
+        "word": "男朋友要去按摩准备分手了",
+        "onboard_time": 1713602237,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47997,
+        "num": 682850,
+        "word": "中国互联网三十而立再出发",
+        "onboard_time": 1713601640,
+        "rank": 2,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 521915,
+        "num": 521915,
+        "word": "只有Miss选了郭碧婷",
+        "onboard_time": 1713594558,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505518,
+        "num": 505518,
+        "word": "花27万彩礼订婚准新娘十余天后自杀身亡",
+        "onboard_time": 1713587477,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467583,
+        "num": 467583,
+        "word": "鹿晗回应大B哥",
+        "onboard_time": 1713601576,
+        "rank": 5,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 452365,
+        "num": 452365,
+        "word": "原来聊天搭子也是一种精神寄托",
+        "onboard_time": 1713602237,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 410723,
+        "num": 410723,
+        "word": "徐明浩挑战了张元英转圈",
+        "onboard_time": 1713603497,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 404573,
+        "num": 404573,
+        "word": "小奶狗被打碎下巴女子坚持送医救治",
+        "onboard_time": 1713599717,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346772,
+        "num": 346772,
+        "word": "66升油箱加出67升油车主报警",
+        "onboard_time": 1713599058,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1545426,
+        "num": 346013,
+        "word": "央媒发文放假绝不是假放",
+        "onboard_time": 1713593657,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845664,
+        "num": 343992,
+        "word": "徐志胜女朋友",
+        "onboard_time": 1713597678,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 511244,
+        "num": 343370,
+        "word": "鹿晗回复关晓彤好宠",
+        "onboard_time": 1713574397,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338763,
+        "num": 338763,
+        "word": "小米汽车",
+        "onboard_time": 1713602417,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 326257,
+        "num": 326257,
+        "word": "官方通报西安地铁试车事故",
+        "onboard_time": 1713603858,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323653,
+        "num": 323653,
+        "word": "长生cos王昭君是自愿的",
+        "onboard_time": 1713602237,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 312838,
+        "num": 312838,
+        "word": "赵丽颖 清醒的价值观",
+        "onboard_time": 1713603017,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301063,
+        "num": 301063,
+        "word": "种地吧",
+        "onboard_time": 1713603738,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248372,
+        "num": 248372,
+        "word": "陈昊宇 黑马",
+        "onboard_time": 1713593118,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194037,
+        "num": 233181,
+        "word": "调休",
+        "onboard_time": 1713600079,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423820,
+        "num": 227220,
+        "word": "Jennie一口气发了20张图",
+        "onboard_time": 1713603678,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220994,
+        "num": 220994,
+        "word": "花少聚会没有迪丽热巴",
+        "onboard_time": 1713596477,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219858,
+        "num": 219858,
+        "word": "当伴娘的赵奕欢",
+        "onboard_time": 1713598698,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204693,
+        "num": 204693,
+        "word": "承欢记巴士吻",
+        "onboard_time": 1713604698,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105758,
+        "num": 201594,
+        "word": "小时候的甜牛奶你还在喝吗",
+        "onboard_time": 1713600138,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199237,
+        "num": 199237,
+        "word": "女性排卵时身体会有5种改变",
+        "onboard_time": 1713578237,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192404,
+        "num": 192404,
+        "word": "张婧仪花下美人",
+        "onboard_time": 1713605059,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188003,
+        "num": 188003,
+        "word": "北大还行撒贝宁 平凡生活郭碧婷",
+        "onboard_time": 1713599959,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187003,
+        "num": 187003,
+        "word": "张予曦你多高啊我33啊",
+        "onboard_time": 1713591437,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149334,
+        "num": 186668,
+        "word": "中国游客涌入日本扫货",
+        "onboard_time": 1713593778,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186568,
+        "num": 186568,
+        "word": "林更新也就唱女孩好听",
+        "onboard_time": 1713605118,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168770,
+        "num": 168770,
+        "word": "突然清醒的对钱有了概念",
+        "onboard_time": 1713602477,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165605,
+        "num": 165605,
+        "word": "我突然明白了读书的意义",
+        "onboard_time": 1713601396,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164625,
+        "num": 164625,
+        "word": "陈都灵薄荷色人鱼姬",
+        "onboard_time": 1713604698,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109719,
+        "num": 164459,
+        "word": "金价暴涨后线上金店拒发货",
+        "onboard_time": 1713593417,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123609,
+        "num": 164445,
+        "word": "闲鱼现大量转卖SU7创始车型订单",
+        "onboard_time": 1713590657,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 108688,
+        "num": 164445,
+        "word": "哈尔滨通报索菲亚广场火灾事故",
+        "onboard_time": 1713597438,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164445,
+        "num": 164444,
+        "word": "这和上岸有什么区别",
+        "onboard_time": 1713603138,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156652,
+        "num": 156652,
+        "word": "郭书瑶不夹了",
+        "onboard_time": 1713602657,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156504,
+        "num": 156504,
+        "word": "考上北大妈妈的反应却让我很难受",
+        "onboard_time": 1713605536,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145258,
+        "num": 145258,
+        "word": "胡先煦为什么揍王安宇",
+        "onboard_time": 1713601818,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143139,
+        "num": 143139,
+        "word": "这件蜀锦永久不许出国",
+        "onboard_time": 1713605598,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 122087,
+        "num": 122087,
+        "word": "陈少熙妈妈竟然是龙梅子",
+        "onboard_time": 1713602537,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121934,
+        "num": 121934,
+        "word": "田曦薇被说帽子丑的反应",
+        "onboard_time": 1713600498,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120059,
+        "num": 120059,
+        "word": "花海赛后发博",
+        "onboard_time": 1713605536,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118969,
+        "num": 118969,
+        "word": "港片又行了",
+        "onboard_time": 1713602117,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68265,
+        "num": 118510,
+        "word": "时代少年团演唱会 抢票",
+        "onboard_time": 1713588976,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111970,
+        "num": 111970,
+        "word": "无意识却伤害子宫的6个行为",
+        "onboard_time": 1713605536,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108515,
+        "num": 108515,
+        "word": "台湾一对情侣吵架女子跳车身亡",
+        "onboard_time": 1713588438,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81771,
+        "num": 107311,
+        "word": "西安地铁10号线试车时发生事故",
+        "onboard_time": 1713595098,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人民解放军信息支援部队成立#"
+    }
+  }
+}

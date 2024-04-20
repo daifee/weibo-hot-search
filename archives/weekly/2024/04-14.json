@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713604562344,
+  "endTime": 1713605650120,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -1179,6 +1179,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1016402,
+      "num": 1016402,
+      "word": "中央财经大学多名学生吐槽800米体测",
+      "onboard_time": 1713599298,
+      "rank": 14,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1011447,
       "num": 1011447,
       "word": "王楚钦出线",
@@ -1257,14 +1265,6 @@
       "onboard_time": 1713491418,
       "rank": 3,
       "category": "电影,美妆"
-    },
-    {
-      "raw_hot": 987915,
-      "num": 987915,
-      "word": "中央财经大学多名学生吐槽800米体测",
-      "onboard_time": 1713599298,
-      "rank": 14,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 983788,
@@ -1601,6 +1601,14 @@
       "onboard_time": 1713439638,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 885852,
+      "num": 885852,
+      "word": "男朋友要去按摩准备分手了",
+      "onboard_time": 1713602237,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 885702,
@@ -3139,14 +3147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 589216,
-      "num": 294431,
-      "word": "男朋友要去按摩准备分手了",
-      "onboard_time": 1713602237,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 589079,
       "num": 589079,
       "word": "张真源不敢搭苗苗肩膀",
@@ -4603,6 +4603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 452365,
+      "num": 452365,
+      "word": "原来聊天搭子也是一种精神寄托",
+      "onboard_time": 1713602237,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 450735,
       "num": 228156,
       "word": "花6万多考公上岸值吗",
@@ -5145,6 +5153,14 @@
       "onboard_time": 1713261019,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410723,
+      "num": 410723,
+      "word": "徐明浩挑战了张元英转圈",
+      "onboard_time": 1713603497,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 410146,
@@ -6291,14 +6307,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 346469,
-      "num": 346469,
-      "word": "原来聊天搭子也是一种精神寄托",
-      "onboard_time": 1713602237,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 345970,
       "num": 345970,
       "word": "Meiko时隔3276天再次确定进入MSI",
@@ -6425,6 +6433,14 @@
       "onboard_time": 1713368778,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338763,
+      "num": 338763,
+      "word": "小米汽车",
+      "onboard_time": 1713602417,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 338332,
@@ -6640,6 +6656,14 @@
       "word": "患癌丈夫为阿尔兹海默症妻子写下道别信",
       "onboard_time": 1713435077,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326257,
+      "num": 326257,
+      "word": "官方通报西安地铁试车事故",
+      "onboard_time": 1713603858,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -6945,6 +6969,14 @@
       "onboard_time": 1713069018,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 312838,
+      "num": 312838,
+      "word": "赵丽颖 清醒的价值观",
+      "onboard_time": 1713603017,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 312053,
@@ -7395,14 +7427,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 290888,
-      "num": 290888,
-      "word": "赵丽颖 清醒的价值观",
-      "onboard_time": 1713603017,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 290768,
       "num": 290768,
       "word": "伊朗空袭以色列当地华人发声",
@@ -7529,14 +7553,6 @@
       "onboard_time": 1713150979,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 284937,
-      "num": 284937,
-      "word": "小米汽车",
-      "onboard_time": 1713602417,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 284708,
@@ -8625,14 +8641,6 @@
       "onboard_time": 1713410000,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 244185,
-      "num": 244185,
-      "word": "徐明浩挑战了张元英转圈",
-      "onboard_time": 1713603497,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 244175,
@@ -10395,6 +10403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204693,
+      "num": 204693,
+      "word": "承欢记巴士吻",
+      "onboard_time": 1713604698,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204412,
       "num": 204412,
       "word": "狗窝尺码买错了",
@@ -11355,6 +11371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192404,
+      "num": 192404,
+      "word": "张婧仪花下美人",
+      "onboard_time": 1713605059,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192298,
       "num": 192298,
       "word": "第五人格抢票",
@@ -11739,14 +11763,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 188188,
-      "num": 283527,
-      "word": "官方通报西安地铁试车事故",
-      "onboard_time": 1713603858,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188187,
       "num": 188187,
       "word": "王一博钟楚曦对手戏",
@@ -11889,6 +11905,14 @@
       "onboard_time": 1713538818,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186568,
+      "num": 186568,
+      "word": "林更新也就唱女孩好听",
+      "onboard_time": 1713605118,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 186501,
@@ -13467,6 +13491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164625,
+      "num": 164625,
+      "word": "陈都灵薄荷色人鱼姬",
+      "onboard_time": 1713604698,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164619,
       "num": 92404,
       "word": "白宫证实伊朗对以色列发动空袭",
@@ -13497,6 +13529,14 @@
       "onboard_time": 1713530178,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164445,
+      "num": 164444,
+      "word": "这和上岸有什么区别",
+      "onboard_time": 1713603138,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 164287,
@@ -13963,12 +14003,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 156652,
+      "num": 156652,
+      "word": "郭书瑶不夹了",
+      "onboard_time": 1713602657,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156540,
       "num": 156540,
       "word": "群星闪耀时 黑猫警长",
       "onboard_time": 1713190281,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156504,
+      "num": 156504,
+      "word": "考上北大妈妈的反应却让我很难受",
+      "onboard_time": 1713605536,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 156476,
@@ -14067,28 +14123,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 155378,
-      "num": 155378,
-      "word": "郭书瑶不夹了",
-      "onboard_time": 1713602657,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155366,
       "num": 155366,
       "word": "刘诗诗费加罗四月刊封面",
       "onboard_time": 1713525258,
       "rank": 49,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 155292,
-      "num": 155292,
-      "word": "这和上岸有什么区别",
-      "onboard_time": 1713603138,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 155268,
@@ -15297,6 +15337,14 @@
       "onboard_time": 1713157580,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143139,
+      "num": 143139,
+      "word": "这件蜀锦永久不许出国",
+      "onboard_time": 1713605598,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 143046,
@@ -16923,6 +16971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120059,
+      "num": 120059,
+      "word": "花海赛后发博",
+      "onboard_time": 1713605536,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119831,
       "num": 119831,
       "word": "ttpd",
@@ -16961,6 +17017,14 @@
       "onboard_time": 1713598877,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118969,
+      "num": 118969,
+      "word": "港片又行了",
+      "onboard_time": 1713602117,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 118960,
@@ -17331,6 +17395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111970,
+      "num": 111970,
+      "word": "无意识却伤害子宫的6个行为",
+      "onboard_time": 1713605536,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111855,
       "num": 111855,
       "word": "种地星球",
@@ -17656,14 +17728,6 @@
       "word": "王一博蓝色针织衫",
       "onboard_time": 1713170119,
       "rank": 49,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 104908,
-      "num": 104908,
-      "word": "港片又行了",
-      "onboard_time": 1713602117,
-      "rank": 47,
       "category": "电影"
     },
     {
@@ -18796,7 +18860,7 @@
     },
     {
       "raw_hot": 52994,
-      "num": 577120,
+      "num": 682850,
       "word": "中国互联网三十而立再出发",
       "onboard_time": 1713601640,
       "rank": 2,
