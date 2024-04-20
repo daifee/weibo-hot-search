@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713640453291,
+  "endTime": 1713641648924,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -56443,6 +56443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 38141,
+      "num": 30267,
+      "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
+      "onboard_time": 1713641412,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 38072,
       "num": 43646,
       "word": "薛之谦重庆",
@@ -57155,6 +57163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24902,
+      "num": 32323,
+      "word": "追星的意义是救赎自己",
+      "onboard_time": 1713639670,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 24817,
       "num": 1131105,
       "word": "我国成功发射遥感四十二号01星",
@@ -57248,14 +57264,6 @@
       "word": "春日cityhappy计划",
       "onboard_time": 1712686512,
       "rank": 48,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 23222,
-      "num": 32323,
-      "word": "追星的意义是救赎自己",
-      "onboard_time": 1713639670,
-      "rank": 47,
       "category": "情感"
     },
     {

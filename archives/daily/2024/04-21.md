@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/21 00:21:44 ~ 2024/04/21 03:14:13
+本榜单时间：2024/04/21 00:21:44 ~ 2024/04/21 03:34:08
 </p>
 </blockquote>
 <p>
@@ -369,6 +369,12 @@ CFPLS23总决赛（热度：67576）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E7%A7%B0%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BF%9F%E5%88%B0%E5%B4%A9%E6%BA%83%E5%BD%93%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%23" target="weibo">
+自称周杰伦演唱会迟到崩溃当事女子回应（热度：38141）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E8%B0%88%E5%A4%A9%E5%9D%9B%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E8%AF%84%E5%88%A4%E6%A0%87%E5%87%86%23" target="weibo">
 朱一龙谈天坛奖最佳男主角评判标准（热度：36903）
 </a>
@@ -388,7 +394,7 @@ CFPLS23总决赛（热度：67576）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%BD%E6%98%9F%E7%9A%84%E6%84%8F%E4%B9%89%E6%98%AF%E6%95%91%E8%B5%8E%E8%87%AA%E5%B7%B1%23" target="weibo">
-追星的意义是救赎自己（热度：23222）
+追星的意义是救赎自己（热度：24902）
 </a>
 </li>
 
