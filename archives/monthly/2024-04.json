@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713605650120,
+  "endTime": 1713608294462,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1859,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1439179,
+      "num": 1439179,
+      "word": "男朋友要去按摩准备分手了",
+      "onboard_time": 1713602237,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1438873,
       "num": 1135581,
       "word": "台湾附近7.4级左右地震",
@@ -3324,7 +3332,7 @@
     },
     {
       "raw_hot": 1106143,
-      "num": 344293,
+      "num": 358888,
       "word": "徐志胜女朋友",
       "onboard_time": 1713597678,
       "rank": 17,
@@ -5121,14 +5129,6 @@
       "onboard_time": 1712245398,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 885852,
-      "num": 885852,
-      "word": "男朋友要去按摩准备分手了",
-      "onboard_time": 1713602237,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 885702,
@@ -8115,6 +8115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 676162,
+      "num": 676162,
+      "word": "考上北大妈妈的反应却让我很难受",
+      "onboard_time": 1713605536,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 676112,
       "num": 676112,
       "word": "男性其实也有最佳生育年龄",
@@ -10752,6 +10760,14 @@
       "word": "黄灿灿 女演员怎么录试戏片段",
       "onboard_time": 1713282618,
       "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 558834,
+      "num": 558834,
+      "word": "徐明浩挑战了张元英转圈",
+      "onboard_time": 1713603497,
+      "rank": 24,
       "category": "作品衍生"
     },
     {
@@ -15923,14 +15939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 410723,
-      "num": 410723,
-      "word": "徐明浩挑战了张元英转圈",
-      "onboard_time": 1713603497,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 410397,
       "num": 410397,
       "word": "武磊",
@@ -17235,6 +17243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380272,
+      "num": 380272,
+      "word": "张云龙提醒鹿晗还有裤衩",
+      "onboard_time": 1713606917,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380268,
       "num": 380268,
       "word": "规培医生不该成为廉价劳动力",
@@ -17465,6 +17481,14 @@
       "onboard_time": 1712335755,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 375001,
+      "num": 375001,
+      "word": "官方通报西安地铁试车事故",
+      "onboard_time": 1713603858,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374749,
@@ -19937,14 +19961,6 @@
       "onboard_time": 1712760921,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 326257,
-      "num": 326257,
-      "word": "官方通报西安地铁试车事故",
-      "onboard_time": 1713603858,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326168,
@@ -30035,6 +30051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211979,
+      "num": 211979,
+      "word": "浪姐5搞得王霏霏好忙",
+      "onboard_time": 1713607217,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211927,
       "num": 211927,
       "word": "沈星回温软怦然",
@@ -31249,6 +31273,14 @@
       "onboard_time": 1712578459,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 205762,
+      "num": 205762,
+      "word": "成都通报居民燃气问题",
+      "onboard_time": 1713607277,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205736,
@@ -35699,6 +35731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187676,
+      "num": 187676,
+      "word": "张杰演唱会闪现杭州地铁站",
+      "onboard_time": 1713607758,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187608,
       "num": 187608,
       "word": "让你一瞬间想分手的小事",
@@ -36555,6 +36595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184205,
+      "num": 184205,
+      "word": "ELK状态",
+      "onboard_time": 1713607937,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184198,
       "num": 354742,
       "word": "极氪001实测续航超580公里",
@@ -37089,6 +37137,14 @@
       "onboard_time": 1713429019,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181696,
+      "num": 181696,
+      "word": "张颂文拍的南京中山陵梧桐大道",
+      "onboard_time": 1713606257,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 181674,
@@ -37761,6 +37817,14 @@
       "onboard_time": 1712830579,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178044,
+      "num": 207183,
+      "word": "我们仨旅行舒适度拉满了",
+      "onboard_time": 1713607398,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 178008,
@@ -41427,6 +41491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159342,
+      "num": 182758,
+      "word": "西安地铁",
+      "onboard_time": 1713606317,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159286,
       "num": 159286,
       "word": "给意大利带来一点国风震撼",
@@ -42057,14 +42129,6 @@
       "onboard_time": 1713190281,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156504,
-      "num": 156504,
-      "word": "考上北大妈妈的反应却让我很难受",
-      "onboard_time": 1713605536,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 156493,
@@ -42985,6 +43049,14 @@
       "onboard_time": 1713436159,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152597,
+      "num": 152597,
+      "word": "许凯怕鱼",
+      "onboard_time": 1713606858,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 152581,
@@ -43915,6 +43987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149027,
+      "num": 149027,
+      "word": "无意识却伤害子宫的6个行为",
+      "onboard_time": 1713605536,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 148997,
       "num": 148997,
       "word": "马立奥减肥vlog",
@@ -44729,6 +44809,14 @@
       "onboard_time": 1713001456,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145985,
+      "num": 145985,
+      "word": "ILLIT出道曲获音中一位",
+      "onboard_time": 1713606499,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 145866,
@@ -49123,6 +49211,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 123178,
+      "num": 123178,
+      "word": "林更新婉拒林狗",
+      "onboard_time": 1713605777,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123110,
       "num": 115636,
       "word": "酱园弄",
@@ -50643,6 +50739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113318,
+      "num": 113318,
+      "word": "周冠宇比赛",
+      "onboard_time": 1713608237,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113288,
       "num": 113288,
       "word": "妈妈假装蔡依林回信",
@@ -50803,14 +50907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111970,
-      "num": 111970,
-      "word": "无意识却伤害子宫的6个行为",
-      "onboard_time": 1713605536,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 111964,
       "num": 111964,
       "word": "小林制药保健品已致157人住院",
@@ -50897,6 +50993,14 @@
       "onboard_time": 1713180678,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 111014,
+      "num": 111014,
+      "word": "eStar九连胜",
+      "onboard_time": 1713608058,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 110899,
@@ -51593,6 +51697,14 @@
       "onboard_time": 1712802978,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 103929,
+      "num": 103929,
+      "word": "张亮华晨宇李晨",
+      "onboard_time": 1713608237,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 103912,
@@ -52881,6 +52993,14 @@
       "onboard_time": 1713287353,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85308,
+      "num": 369370,
+      "word": "吴纯圆小朋友被消防叔叔点名表扬",
+      "onboard_time": 1713606617,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84763,
