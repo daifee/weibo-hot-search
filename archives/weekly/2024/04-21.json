@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713633278778,
+  "endTime": 1713634455965,
   "band_list": [
     {
       "raw_hot": 1218760,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337949,
+      "num": 337949,
+      "word": "裙子的尺码从xxs做到5xl",
+      "onboard_time": 1713631157,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 336416,
       "num": 135137,
       "word": "张栋梁拥抱拒绝金莎",
@@ -177,14 +185,6 @@
       "onboard_time": 1713626178,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235608,
-      "num": 235608,
-      "word": "裙子的尺码从xxs做到5xl",
-      "onboard_time": 1713631157,
-      "rank": 14,
-      "category": "时尚"
     },
     {
       "raw_hot": 225637,
@@ -411,7 +411,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72359,
+      "raw_hot": 72604,
       "num": 75895,
       "word": "刘宇巡演",
       "onboard_time": 1713633137,
