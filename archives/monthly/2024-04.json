@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713634455965,
+  "endTime": 1713637329774,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -55921,6 +55921,14 @@
       "onboard_time": 1711940421,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 49209,
+      "num": 41388,
+      "word": "张艺兴Psychic国内舞台首秀",
+      "onboard_time": 1713634634,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 49044,
