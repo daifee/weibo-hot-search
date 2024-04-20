@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713651412482,
+  "endTime": 1713652472156,
   "band_list": [
     {
       "raw_hot": 1218760,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143068,
+      "num": 143068,
+      "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
+      "onboard_time": 1713641412,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142292,
       "num": 107537,
       "word": "Jennie一口气发了20张图",
@@ -355,14 +363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112880,
-      "num": 66739,
-      "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
-      "onboard_time": 1713641412,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 104698,
       "num": 107546,
       "word": "雷军向周鸿祎推荐小米SUV",
@@ -393,6 +393,14 @@
       "onboard_time": 1713611598,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75205,
+      "num": 75205,
+      "word": "iPhone16和Plus或有15项改进",
+      "onboard_time": 1713646090,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 74083,
@@ -435,14 +443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 70964,
-      "num": 70964,
-      "word": "iPhone16和Plus或有15项改进",
-      "onboard_time": 1713646090,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 67576,
       "num": 107513,
       "word": "CFPLS23总决赛",
@@ -465,6 +465,14 @@
       "onboard_time": 1713639670,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 55000,
+      "num": 55000,
+      "word": "59岁张曼玉近照",
+      "onboard_time": 1713651311,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 51478,
@@ -499,12 +507,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43015,
+      "num": 43015,
+      "word": "吴艳妮13秒04刷新SB",
+      "onboard_time": 1713651371,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36903,
       "num": 36903,
       "word": "朱一龙谈天坛奖最佳男主角评判标准",
       "onboard_time": 1713637751,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 36853,
+      "num": 36853,
+      "word": "常用电脑的人手部功能退化严重",
+      "onboard_time": 1713650471,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 35512,
+      "num": 35512,
+      "word": "确定被爱后小狗连面相都变了",
+      "onboard_time": 1713643991,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 34169,
@@ -523,22 +555,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 29091,
-      "num": 29091,
-      "word": "确定被爱后小狗连面相都变了",
-      "onboard_time": 1713643991,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 28626,
-      "num": 26905,
-      "word": "59岁张曼玉近照",
-      "onboard_time": 1713651311,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 28330,
       "num": 32323,
       "word": "工作简庆芬 生活Rebecca",
@@ -547,44 +563,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21870,
-      "num": 67871,
+      "raw_hot": 26339,
+      "num": 97494,
       "word": "独臂独腿小伙成功登顶泰山",
       "onboard_time": 1713642071,
       "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20649,
-      "num": 20649,
-      "word": "常用电脑的人手部功能退化严重",
-      "onboard_time": 1713650471,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 20186,
-      "num": 20186,
-      "word": "喝酒脸红的人别再喝了",
-      "onboard_time": 1713645491,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 18929,
-      "num": 18929,
+      "raw_hot": 24735,
+      "num": 24735,
       "word": "主人好厉害会开这么难的车",
       "onboard_time": 1713650112,
       "rank": 43,
       "category": "幽默"
     },
     {
-      "raw_hot": 16058,
-      "num": 18089,
-      "word": "吴艳妮13秒04刷新SB",
-      "onboard_time": 1713651371,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 23188,
+      "num": 23188,
+      "word": "喝酒脸红的人别再喝了",
+      "onboard_time": 1713645491,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 13727,

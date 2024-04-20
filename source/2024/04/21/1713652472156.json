@@ -1,0 +1,410 @@
+{
+  "runTime": 1713652472156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 233438,
+        "num": 233438,
+        "word": "重庆90岁老人寿宴上女歌手摔倒去世",
+        "onboard_time": 1713629239,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217991,
+        "num": 217991,
+        "word": "周海媚墓碑上刻着周芷若画像",
+        "onboard_time": 1713626419,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15231,
+        "num": 191581,
+        "word": "良田良种良机良法绘就当代春耕图",
+        "onboard_time": 1713618858,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170142,
+        "num": 170142,
+        "word": "郑恺和苗苗实打实过日子型",
+        "onboard_time": 1713625098,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147269,
+        "num": 147269,
+        "word": "黄子韬回应被拒绝同台",
+        "onboard_time": 1713621259,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143068,
+        "num": 143068,
+        "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
+        "onboard_time": 1713641412,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127975,
+        "num": 127975,
+        "word": "白敬亭 B站",
+        "onboard_time": 1713619639,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105297,
+        "num": 105297,
+        "word": "裙子的尺码从xxs做到5xl",
+        "onboard_time": 1713631157,
+        "rank": 7,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 97629,
+        "num": 97629,
+        "word": "原来麻辣烫夹子是这样用的",
+        "onboard_time": 1713618018,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 26339,
+        "num": 97494,
+        "word": "独臂独腿小伙成功登顶泰山",
+        "onboard_time": 1713642071,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158364,
+        "num": 97459,
+        "word": "陈冠希发了Jennie",
+        "onboard_time": 1713629118,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97372,
+        "num": 97372,
+        "word": "网传中国女游客在印尼火山景点遇难",
+        "onboard_time": 1713629359,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91562,
+        "num": 91562,
+        "word": "贾玲好迷人",
+        "onboard_time": 1713618498,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75205,
+        "num": 75205,
+        "word": "iPhone16和Plus或有15项改进",
+        "onboard_time": 1713646090,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 67892,
+        "num": 67892,
+        "word": "罗正徐艺洋吻戏",
+        "onboard_time": 1713627860,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57512,
+        "num": 57512,
+        "word": "马龙4比0王楚钦",
+        "onboard_time": 1713615258,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55000,
+        "num": 55000,
+        "word": "59岁张曼玉近照",
+        "onboard_time": 1713651311,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52473,
+        "num": 52473,
+        "word": "已经开始替赵晴尴尬了",
+        "onboard_time": 1713627860,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49775,
+        "num": 49775,
+        "word": "湖南失踪15岁男孩遗体已找到",
+        "onboard_time": 1713610878,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43015,
+        "num": 43015,
+        "word": "吴艳妮13秒04刷新SB",
+        "onboard_time": 1713651371,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91651,
+        "num": 42332,
+        "word": "我删掉了高中大学的所有同学",
+        "onboard_time": 1713619820,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88327,
+        "num": 41967,
+        "word": "黄子韬 小马丁",
+        "onboard_time": 1713613997,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52476,
+        "num": 41767,
+        "word": "一起入职的44岁姐妹被辞退了",
+        "onboard_time": 1713627559,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41454,
+        "num": 41454,
+        "word": "许凯吻戏",
+        "onboard_time": 1713624619,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36853,
+        "num": 36853,
+        "word": "常用电脑的人手部功能退化严重",
+        "onboard_time": 1713650471,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38735,
+        "num": 36811,
+        "word": "贤佑海仁睡了我出生了",
+        "onboard_time": 1713629060,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36069,
+        "num": 36069,
+        "word": "yaoyao发文",
+        "onboard_time": 1713626358,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36036,
+        "num": 36036,
+        "word": "张栋梁拥抱拒绝金莎",
+        "onboard_time": 1713628339,
+        "rank": 27,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 35512,
+        "num": 35512,
+        "word": "确定被爱后小狗连面相都变了",
+        "onboard_time": 1713643991,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29761,
+        "num": 34162,
+        "word": "曼城vs切尔西",
+        "onboard_time": 1713628939,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34037,
+        "num": 34037,
+        "word": "垫底辣孩模仿魏若来",
+        "onboard_time": 1713620779,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30896,
+        "num": 30896,
+        "word": "戚薇怎么不笑了",
+        "onboard_time": 1713638053,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30801,
+        "num": 30801,
+        "word": "追星的意义是救赎自己",
+        "onboard_time": 1713639670,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29199,
+        "num": 29199,
+        "word": "林高远11比1张本智和",
+        "onboard_time": 1713623300,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28377,
+        "num": 28377,
+        "word": "雷军向周鸿祎推荐小米SUV",
+        "onboard_time": 1713623840,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 28244,
+        "num": 28244,
+        "word": "郭碧婷曾被导演要求打瘦脸针",
+        "onboard_time": 1713613818,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28080,
+        "num": 28080,
+        "word": "周杰伦听见下雨的声音",
+        "onboard_time": 1713613638,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26758,
+        "num": 26758,
+        "word": "十个洗头的坏习惯",
+        "onboard_time": 1713625459,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25884,
+        "num": 25884,
+        "word": "孙颖莎歇会儿走不下去了",
+        "onboard_time": 1713622939,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25526,
+        "num": 25526,
+        "word": "王楚钦vs马龙",
+        "onboard_time": 1713613457,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25425,
+        "num": 25425,
+        "word": "戚薇 蔡文静",
+        "onboard_time": 1713621019,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25225,
+        "num": 25225,
+        "word": "胃癌在早期没有症状",
+        "onboard_time": 1713642851,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24735,
+        "num": 24735,
+        "word": "主人好厉害会开这么难的车",
+        "onboard_time": 1713650112,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24394,
+        "num": 24394,
+        "word": "不够善良的我们",
+        "onboard_time": 1713622159,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23905,
+        "num": 23905,
+        "word": "JackeyLove心态",
+        "onboard_time": 1713621319,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23669,
+        "num": 23669,
+        "word": "林高远张本智和",
+        "onboard_time": 1713616037,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23188,
+        "num": 23188,
+        "word": "喝酒脸红的人别再喝了",
+        "onboard_time": 1713645491,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21006,
+        "num": 23184,
+        "word": "张艺兴算是回到自己舒适区了",
+        "onboard_time": 1713626178,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20022,
+        "num": 23161,
+        "word": "陈丽君好帅",
+        "onboard_time": 1713620119,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19786,
+        "num": 23147,
+        "word": "眼泪女王",
+        "onboard_time": 1713617897,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进互联网大数据人工智能同实体经济深度融合#"
+    }
+  }
+}
