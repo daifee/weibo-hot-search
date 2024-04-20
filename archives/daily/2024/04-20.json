@@ -1,6 +1,6 @@
 {
   "startTime": 1713543834648,
-  "endTime": 1713580496606,
+  "endTime": 1713583180338,
   "band_list": [
     {
       "raw_hot": 2200058,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1855664,
-      "num": 240771,
+      "num": 275080,
       "word": "关晓彤连续七年为鹿晗庆生",
       "onboard_time": 1713568213,
       "rank": 15,
@@ -33,6 +33,14 @@
       "onboard_time": 1713539539,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1131225,
+      "num": 1131225,
+      "word": "女性排卵时身体会有5种改变",
+      "onboard_time": 1713578237,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1023942,
@@ -51,8 +59,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 839676,
+      "num": 285982,
+      "word": "真情侣",
+      "onboard_time": 1713580335,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 717834,
-      "num": 478502,
+      "num": 588534,
       "word": "侯雯元曝刘耀文睡觉踢人",
       "onboard_time": 1713574578,
       "rank": 13,
@@ -107,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 572895,
-      "num": 230146,
-      "word": "女性排卵时身体会有5种改变",
-      "onboard_time": 1713578237,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 567744,
       "num": 288550,
       "word": "邓超陈赫给鹿晗庆生",
@@ -129,6 +137,14 @@
       "onboard_time": 1713578538,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 500913,
+      "num": 500913,
+      "word": "贝克街的亡灵 22年前的动画",
+      "onboard_time": 1713578538,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 486196,
@@ -163,12 +179,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 449199,
+      "num": 449199,
+      "word": "恶犬疑似狂犬病发作咬伤路人后倒地",
+      "onboard_time": 1713579736,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442584,
       "num": 442584,
       "word": "买燃油车的人正式成了少数派",
       "onboard_time": 1713537978,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 440703,
+      "num": 281208,
+      "word": "马斯克发文反对美国禁止TikTok",
+      "onboard_time": 1713579138,
+      "rank": 25,
+      "category": "互联网,国外时政"
     },
     {
       "raw_hot": 424318,
@@ -219,12 +251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 385961,
-      "num": 385961,
-      "word": "贝克街的亡灵 22年前的动画",
-      "onboard_time": 1713578538,
-      "rank": 14,
-      "category": "动漫"
+      "raw_hot": 384750,
+      "num": 384750,
+      "word": "调休原则是最小干预",
+      "onboard_time": 1713579196,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 366489,
@@ -275,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327542,
+      "num": 249223,
+      "word": "一鹿彤行",
+      "onboard_time": 1713580638,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307946,
       "num": 307946,
       "word": "黄牛克星林俊杰",
@@ -308,11 +348,19 @@
     },
     {
       "raw_hot": 298336,
-      "num": 183162,
+      "num": 204696,
       "word": "比利时王妃李然辟谣",
       "onboard_time": 1713577518,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 297628,
+      "num": 244078,
+      "word": "徐志胜投资一次丢脸一辈子",
+      "onboard_time": 1713581056,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 284656,
@@ -403,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239471,
-      "num": 239471,
-      "word": "马斯克发文反对美国禁止TikTok",
-      "onboard_time": 1713579138,
-      "rank": 25,
-      "category": "互联网,国外时政"
-    },
-    {
       "raw_hot": 219870,
       "num": 140181,
       "word": "张予曦 可以不喝哑药吗",
@@ -425,6 +465,14 @@
       "onboard_time": 1713522677,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212565,
+      "num": 212565,
+      "word": "国奥无缘奥运",
+      "onboard_time": 1713581359,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 199627,
@@ -467,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191455,
+      "num": 191455,
+      "word": "长期读书的人身上有什么特征",
+      "onboard_time": 1713579017,
+      "rank": 31,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 191273,
       "num": 124744,
       "word": "张小斐表情 真的心疼",
@@ -499,20 +555,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184457,
-      "num": 184457,
-      "word": "长期读书的人身上有什么特征",
-      "onboard_time": 1713579017,
-      "rank": 31,
-      "category": "读书作家"
-    },
-    {
-      "raw_hot": 183352,
-      "num": 183352,
-      "word": "调休原则是最小干预",
-      "onboard_time": 1713579196,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 181409,
+      "num": 181409,
+      "word": "陶昕然 市场都没超越甄嬛传",
+      "onboard_time": 1713581597,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180570,
@@ -529,14 +577,6 @@
       "onboard_time": 1713567974,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176959,
-      "num": 176959,
-      "word": "真情侣",
-      "onboard_time": 1713580335,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 175988,
@@ -563,6 +603,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 168838,
+      "num": 168838,
+      "word": "朝雪录开机",
+      "onboard_time": 1713581237,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163300,
       "num": 163300,
       "word": "小狗会在主人摸它时提前把耳朵放下",
@@ -571,12 +619,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 162689,
-      "num": 162689,
-      "word": "恶犬疑似狂犬病发作咬伤路人后倒地",
-      "onboard_time": 1713579736,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 161823,
+      "num": 161823,
+      "word": "花儿与少年好友记定档",
+      "onboard_time": 1713582977,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 156994,
@@ -585,6 +633,14 @@
       "onboard_time": 1713527298,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156717,
+      "num": 156717,
+      "word": "怎么跟领导反映工作量太大了",
+      "onboard_time": 1713582497,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 155126,
@@ -603,6 +659,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146422,
+      "num": 210711,
+      "word": "成毅说青春是甜的",
+      "onboard_time": 1713582317,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143231,
+      "num": 143231,
+      "word": "当你吃完很辣的东西后喝热水",
+      "onboard_time": 1713579258,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 142451,
       "num": 142451,
       "word": "以为是肠胃小毛病没想到是癌症",
@@ -619,12 +691,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139520,
+      "num": 139520,
+      "word": "一诺说戚薇浪姐新皮肤好酷",
+      "onboard_time": 1713582077,
+      "rank": 38,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 138869,
       "num": 138869,
       "word": "建议面试要看公司的厕所环境",
       "onboard_time": 1713541817,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138820,
+      "num": 136424,
+      "word": "容祖儿 甄嬛传是我的戏路",
+      "onboard_time": 1713580518,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 136000,
@@ -683,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130369,
+      "num": 130369,
+      "word": "眼泪女王room tour",
+      "onboard_time": 1713582136,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126813,
       "num": 100546,
       "word": "赵露思春日穿搭",
@@ -713,14 +809,6 @@
       "onboard_time": 1713530898,
       "rank": 34,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 121794,
-      "num": 121794,
-      "word": "当你吃完很辣的东西后喝热水",
-      "onboard_time": 1713579258,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 120839,
@@ -899,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87488,
+      "num": 87488,
+      "word": "发簪盘发",
+      "onboard_time": 1713583097,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 85540,
       "num": 102872,
       "word": "伊朗驻法使馆领事处遭强行闯入",
@@ -995,6 +1091,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 50949,
+      "num": 211244,
+      "word": "上海临时工爆改异人店长",
+      "onboard_time": 1713581117,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 50097,
       "num": 50097,
       "word": "戚薇梦回沐之晴",
@@ -1017,6 +1121,14 @@
       "onboard_time": 1713548173,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38173,
+      "num": 597439,
+      "word": "耕韵有时岁岁新",
+      "onboard_time": 1713582016,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37521,
@@ -1094,6 +1206,9 @@
   "hotgov_list": [
     {
       "word": "#习近平向信息支援部队授予军旗并致训词#"
+    },
+    {
+      "word": "#中国人民解放军信息支援部队成立#"
     }
   ]
 }
