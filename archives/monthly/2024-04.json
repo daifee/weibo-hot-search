@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713602068927,
+  "endTime": 1713604562344,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -4249,6 +4249,14 @@
       "onboard_time": 1712151442,
       "rank": 8,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 987915,
+      "num": 987915,
+      "word": "中央财经大学多名学生吐槽800米体测",
+      "onboard_time": 1713599298,
+      "rank": 14,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 983788,
@@ -9987,6 +9995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 589216,
+      "num": 294431,
+      "word": "男朋友要去按摩准备分手了",
+      "onboard_time": 1713602237,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 589079,
       "num": 589079,
       "word": "张真源不敢搭苗苗肩膀",
@@ -11715,14 +11731,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 524601,
-      "num": 338177,
-      "word": "中央财经大学多名学生吐槽800米体测",
-      "onboard_time": 1713599298,
-      "rank": 14,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 524582,
       "num": 421822,
       "word": "张元英向我求婚",
@@ -11737,6 +11745,14 @@
       "onboard_time": 1713426617,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 524195,
+      "num": 524195,
+      "word": "鹿晗回应大B哥",
+      "onboard_time": 1713601576,
+      "rank": 20,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 523695,
@@ -13819,6 +13835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 463168,
+      "num": 463168,
+      "word": "小奶狗被打碎下巴女子坚持送医救治",
+      "onboard_time": 1713599717,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462809,
       "num": 462809,
       "word": "癌症发生前身体的预警信号",
@@ -14113,6 +14137,14 @@
       "onboard_time": 1712151322,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 454593,
+      "num": 283216,
+      "word": "Jennie一口气发了20张图",
+      "onboard_time": 1713603678,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 454592,
@@ -17547,14 +17579,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 371707,
-      "num": 371707,
-      "word": "小奶狗被打碎下巴女子坚持送医救治",
-      "onboard_time": 1713599717,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 371321,
       "num": 315571,
       "word": "原来邋遢只是老师的保护色",
@@ -18073,6 +18097,14 @@
       "onboard_time": 1712404218,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361194,
+      "num": 361194,
+      "word": "长生cos王昭君是自愿的",
+      "onboard_time": 1713602237,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 361085,
@@ -18825,6 +18857,14 @@
       "onboard_time": 1712040319,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 346469,
+      "num": 346469,
+      "word": "原来聊天搭子也是一种精神寄托",
+      "onboard_time": 1713602237,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 346462,
@@ -22227,6 +22267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 290888,
+      "num": 290888,
+      "word": "赵丽颖 清醒的价值观",
+      "onboard_time": 1713603017,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 290865,
       "num": 237666,
       "word": "缺点是瘦的太快了",
@@ -22609,6 +22657,14 @@
       "onboard_time": 1712414420,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284937,
+      "num": 284937,
+      "word": "小米汽车",
+      "onboard_time": 1711945825,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 284708,
@@ -23593,14 +23649,6 @@
       "onboard_time": 1713180977,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 271291,
-      "num": 271291,
-      "word": "鹿晗回应大B哥",
-      "onboard_time": 1713601576,
-      "rank": 20,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 271194,
@@ -26113,6 +26161,14 @@
       "onboard_time": 1712633540,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 244185,
+      "num": 244185,
+      "word": "徐明浩挑战了张元英转圈",
+      "onboard_time": 1713603497,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 244175,
@@ -34115,14 +34171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193373,
-      "num": 193373,
-      "word": "小米汽车",
-      "onboard_time": 1711945825,
-      "rank": 47,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 193363,
       "num": 193363,
       "word": "拂容君结局",
@@ -35505,6 +35553,14 @@
       "onboard_time": 1713322758,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188188,
+      "num": 283527,
+      "word": "官方通报西安地铁试车事故",
+      "onboard_time": 1713603858,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188187,
@@ -37355,6 +37411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179829,
+      "num": 173821,
+      "word": "突然清醒的对钱有了概念",
+      "onboard_time": 1713602477,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179738,
       "num": 179738,
       "word": "6天班今日结束",
@@ -38617,6 +38681,14 @@
       "onboard_time": 1712758880,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173452,
+      "num": 173452,
+      "word": "胡先煦为什么揍王安宇",
+      "onboard_time": 1713601818,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 173400,
@@ -40265,6 +40337,14 @@
       "onboard_time": 1713105440,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164656,
+      "num": 164656,
+      "word": "eStar锁定败者组",
+      "onboard_time": 1713603198,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 164641,
@@ -42171,6 +42251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155378,
+      "num": 155378,
+      "word": "郭书瑶不夹了",
+      "onboard_time": 1713602657,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155366,
       "num": 155366,
       "word": "刘诗诗费加罗四月刊封面",
@@ -42193,6 +42281,14 @@
       "onboard_time": 1711954041,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155292,
+      "num": 155292,
+      "word": "这和上岸有什么区别",
+      "onboard_time": 1713603138,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 155268,
@@ -45483,6 +45579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141804,
+      "num": 141804,
+      "word": "你介意和对象时间观念差异大吗",
+      "onboard_time": 1713602597,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141763,
       "num": 141763,
       "word": "胡歌晒繁花剧组合照",
@@ -45905,6 +46009,14 @@
       "onboard_time": 1712535259,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 139523,
+      "num": 139523,
+      "word": "陈少熙妈妈竟然是龙梅子",
+      "onboard_time": 1713602537,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 139520,
@@ -48299,14 +48411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127090,
-      "num": 127090,
-      "word": "胡先煦为什么揍王安宇",
-      "onboard_time": 1713601818,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 127029,
       "num": 127029,
       "word": "预计SU7最长需27周交付",
@@ -50459,6 +50563,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 113360,
+      "num": 113360,
+      "word": "周鸿祎考虑公司门口办小型车展",
+      "onboard_time": 1713603198,
+      "rank": 43,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 113344,
       "num": 113344,
       "word": "苏有朋吴奇隆合体录综艺",
@@ -51083,6 +51195,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 107632,
+      "num": 107632,
+      "word": "小猫闹钟",
+      "onboard_time": 1713604097,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107579,
       "num": 107579,
       "word": "抽象说唱",
@@ -51305,6 +51425,14 @@
       "onboard_time": 1711987937,
       "rank": 37,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 104908,
+      "num": 104908,
+      "word": "港片又行了",
+      "onboard_time": 1713602117,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 104891,
@@ -51537,6 +51665,14 @@
       "onboard_time": 1712824637,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102125,
+      "num": 102125,
+      "word": "小米食堂",
+      "onboard_time": 1713603017,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 102098,
@@ -54243,6 +54379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 52994,
+      "num": 577120,
+      "word": "中国互联网三十而立再出发",
+      "onboard_time": 1713601640,
+      "rank": 2,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 52450,
       "num": 52450,
       "word": "林更新用油烟机灯给自己打光",
@@ -55241,14 +55385,6 @@
       "onboard_time": 1712858892,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31108,
-      "num": 526766,
-      "word": "中国互联网三十而立再出发",
-      "onboard_time": 1713601640,
-      "rank": 2,
-      "category": "互联网"
     },
     {
       "raw_hot": 31071,
