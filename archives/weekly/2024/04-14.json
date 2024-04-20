@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713576771723,
+  "endTime": 1713579854355,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2036011,
+      "num": 300490,
+      "word": "鹿晗回复关晓彤好宠",
+      "onboard_time": 1713574397,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1943927,
       "num": 1943927,
       "word": "吉林宁江区3.9级地震",
@@ -216,14 +224,6 @@
       "word": "周迅 B站",
       "onboard_time": 1713337157,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1904714,
-      "num": 300490,
-      "word": "鹿晗回复关晓彤好宠",
-      "onboard_time": 1713574397,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -2291,6 +2291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 717834,
+      "num": 478502,
+      "word": "侯雯元曝刘耀文睡觉踢人",
+      "onboard_time": 1713574578,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 716636,
       "num": 716636,
       "word": "卧铺挂床帘当事年轻人发声",
@@ -2569,6 +2577,14 @@
       "onboard_time": 1713349218,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 655424,
+      "num": 655424,
+      "word": "上海的群租房能离谱到什么程度",
+      "onboard_time": 1713573137,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 655099,
@@ -3355,6 +3371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 548248,
+      "num": 256593,
+      "word": "邓超陈赫给鹿晗庆生",
+      "onboard_time": 1713569714,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 547098,
       "num": 547098,
       "word": "迪丽热巴特意退回来和粉丝打招呼",
@@ -3585,6 +3609,14 @@
       "onboard_time": 1713186619,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 520282,
+      "num": 230146,
+      "word": "女性排卵时身体会有5种改变",
+      "onboard_time": 1713578237,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 519397,
@@ -4147,14 +4179,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 468915,
-      "num": 468915,
-      "word": "侯雯元曝刘耀文睡觉踢人",
-      "onboard_time": 1713574578,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 468719,
       "num": 241976,
       "word": "中医说早上不要破气",
@@ -4275,6 +4299,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 456732,
+      "num": 276723,
+      "word": "周扬青回应rap疑似内涵罗志祥",
+      "onboard_time": 1713578538,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456727,
       "num": 456727,
       "word": "乘风2024排名",
@@ -4321,6 +4353,14 @@
       "onboard_time": 1713397998,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 450735,
+      "num": 228156,
+      "word": "花6万多考公上岸值吗",
+      "onboard_time": 1713576798,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 450547,
@@ -5179,12 +5219,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 390873,
-      "num": 390873,
-      "word": "上海的群租房能离谱到什么程度",
-      "onboard_time": 1713573137,
-      "rank": 12,
-      "category": "情感"
+      "raw_hot": 391109,
+      "num": 391109,
+      "word": "胡歌回应自己微博放飞",
+      "onboard_time": 1713578057,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 390658,
@@ -5747,6 +5787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 358123,
+      "num": 358123,
+      "word": "河北承德围场发生交通事故致8死",
+      "onboard_time": 1713576198,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357993,
       "num": 357993,
       "word": "外资涌入抄底A股",
@@ -5857,6 +5905,14 @@
       "onboard_time": 1713453080,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352405,
+      "num": 352405,
+      "word": "黄仁俊身体不适暂停活动",
+      "onboard_time": 1713576857,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 352396,
@@ -6851,6 +6907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298336,
+      "num": 174306,
+      "word": "比利时王妃李然辟谣",
+      "onboard_time": 1713577518,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 298169,
       "num": 298169,
       "word": "朱一龙直播",
@@ -7219,6 +7283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 277532,
+      "num": 315357,
+      "word": "福宝有多爱吃家乡饭",
+      "onboard_time": 1713573917,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277511,
       "num": 269562,
       "word": "决定关掉朋友圈了",
@@ -7419,14 +7491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 269784,
-      "num": 315357,
-      "word": "福宝有多爱吃家乡饭",
-      "onboard_time": 1713573917,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269775,
       "num": 243030,
       "word": "白鹿cos朱迪兔警官",
@@ -7537,6 +7601,14 @@
       "onboard_time": 1713538999,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 265184,
+      "num": 265184,
+      "word": "贝克街的亡灵 22年前的动画",
+      "onboard_time": 1713578538,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 265156,
@@ -8227,6 +8299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240834,
+      "num": 240834,
+      "word": "1米7学妹体测完变1米6",
+      "onboard_time": 1713547993,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240582,
       "num": 240582,
       "word": "哈尔滨震感",
@@ -8408,6 +8488,22 @@
       "word": "26岁研究生珠峰地区登山死亡父亲发声",
       "onboard_time": 1713278421,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235858,
+      "num": 227614,
+      "word": "iPhone15用户有必要换iPhone16吗",
+      "onboard_time": 1713576917,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 235546,
+      "num": 235546,
+      "word": "警方通报男生被同学锁宿舍群殴",
+      "onboard_time": 1713579138,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -8795,6 +8891,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 225858,
+      "num": 225858,
+      "word": "周深十周年巡演官宣四城",
+      "onboard_time": 1713578718,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 225840,
       "num": 225840,
       "word": "供电所领导被举报勾引已婚女士",
@@ -8929,14 +9033,6 @@
       "onboard_time": 1713453918,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 222554,
-      "num": 222554,
-      "word": "河北承德围场发生交通事故致8死",
-      "onboard_time": 1713576198,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222448,
@@ -9241,6 +9337,14 @@
       "onboard_time": 1713319037,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214503,
+      "num": 214503,
+      "word": "马斯克发文反对美国禁止TikTok",
+      "onboard_time": 1713579138,
+      "rank": 25,
+      "category": "互联网,国外时政"
     },
     {
       "raw_hot": 214250,
@@ -10643,6 +10747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193734,
+      "num": 193734,
+      "word": "蒲熠星给自己的生日礼物",
+      "onboard_time": 1713578836,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193611,
       "num": 193611,
       "word": "承欢记",
@@ -10673,6 +10785,14 @@
       "onboard_time": 1713276981,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192990,
+      "num": 192990,
+      "word": "中医建议让五官好看的六个动作",
+      "onboard_time": 1713578237,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 192816,
@@ -11339,14 +11459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184289,
-      "num": 184289,
-      "word": "1米7学妹体测完变1米6",
-      "onboard_time": 1713547993,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184228,
       "num": 184228,
       "word": "丫丫谷雨当然要吃竹子呀",
@@ -11449,6 +11561,14 @@
       "onboard_time": 1713070459,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182930,
+      "num": 168912,
+      "word": "长期读书的人身上有什么特征",
+      "onboard_time": 1713579017,
+      "rank": 31,
+      "category": "读书作家"
     },
     {
       "raw_hot": 182833,
@@ -14427,6 +14547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142368,
+      "num": 142368,
+      "word": "调休原则是最小干预",
+      "onboard_time": 1713579196,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142278,
       "num": 142278,
       "word": "麦承欢终于哭出声了",
@@ -15779,6 +15907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120839,
+      "num": 120839,
+      "word": "女子被假闺蜜骗去数百万",
+      "onboard_time": 1713575897,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120836,
       "num": 120836,
       "word": "张艺兴全开麦",
@@ -15881,6 +16017,14 @@
       "onboard_time": 1713169098,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118763,
+      "num": 118763,
+      "word": "当你吃完很辣的东西后喝热水",
+      "onboard_time": 1713579258,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 118570,
@@ -16257,6 +16401,14 @@
       "onboard_time": 1713573976,
       "rank": 38,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 109814,
+      "num": 109814,
+      "word": "热火晋级季后赛",
+      "onboard_time": 1713578237,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 109810,
@@ -16651,6 +16803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99165,
+      "num": 99165,
+      "word": "热火季后赛对阵凯尔特人",
+      "onboard_time": 1713579795,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98447,
       "num": 311697,
       "word": "你家的扫地机器人足够智能吗",
@@ -16705,14 +16865,6 @@
       "onboard_time": 1713223155,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97255,
-      "num": 97255,
-      "word": "女子被假闺蜜骗去数百万",
-      "onboard_time": 1713575897,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96444,
