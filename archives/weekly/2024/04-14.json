@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713586927146,
+  "endTime": 1713587663314,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 2036011,
-      "num": 375897,
+      "num": 434915,
       "word": "鹿晗回复关晓彤好宠",
       "onboard_time": 1713574397,
       "rank": 15,
@@ -1236,7 +1236,7 @@
     },
     {
       "raw_hot": 981938,
-      "num": 205827,
+      "num": 407042,
       "word": "鹿晗关晓彤好好嗑",
       "onboard_time": 1713571637,
       "rank": 20,
@@ -1499,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 901064,
+      "num": 901064,
+      "word": "韦神复出",
+      "onboard_time": 1713585738,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 899267,
       "num": 899267,
       "word": "赵薇名下所持股权再遭冻结",
@@ -1572,7 +1580,7 @@
     },
     {
       "raw_hot": 864784,
-      "num": 373963,
+      "num": 417168,
       "word": "真情侣",
       "onboard_time": 1713580335,
       "rank": 31,
@@ -2547,6 +2555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 668768,
+      "num": 431682,
+      "word": "10个韩国人去吃饭点了两个菜",
+      "onboard_time": 1713586158,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 668458,
       "num": 668458,
       "word": "软脚虾",
@@ -2881,6 +2897,14 @@
       "onboard_time": 1713452480,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 616259,
+      "num": 616259,
+      "word": "TFBOYS为王俊凯宣传新综艺",
+      "onboard_time": 1713586697,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 613670,
@@ -3483,6 +3507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 541203,
+      "num": 541203,
+      "word": "花儿与少年好友记定档",
+      "onboard_time": 1713582977,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536636,
       "num": 536636,
       "word": "AJ被强制下播",
@@ -3841,14 +3873,6 @@
       "onboard_time": 1713578538,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 503981,
-      "num": 503981,
-      "word": "花儿与少年好友记定档",
-      "onboard_time": 1713582977,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 503703,
@@ -4307,6 +4331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 462338,
+      "num": 462338,
+      "word": "魏嬿婉 进忠",
+      "onboard_time": 1713584298,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 462040,
       "num": 462040,
       "word": "王栎鑫抢票",
@@ -4411,14 +4443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 451530,
-      "num": 451530,
-      "word": "韦神复出",
-      "onboard_time": 1713585738,
-      "rank": 7,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 450735,
       "num": 228156,
       "word": "花6万多考公上岸值吗",
@@ -4521,14 +4545,6 @@
       "onboard_time": 1713226098,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 443722,
-      "num": 443722,
-      "word": "魏嬿婉 进忠",
-      "onboard_time": 1713584298,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 443146,
@@ -5835,14 +5851,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 362644,
-      "num": 362644,
-      "word": "TFBOYS为王俊凯宣传新综艺",
-      "onboard_time": 1713586697,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 362117,
       "num": 362117,
       "word": "GEN对战T1",
@@ -6001,6 +6009,14 @@
       "onboard_time": 1713453080,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352408,
+      "num": 411083,
+      "word": "美国再次发生自焚事件",
+      "onboard_time": 1713584177,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 352405,
@@ -6257,14 +6273,6 @@
       "onboard_time": 1713189018,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 335094,
-      "num": 363012,
-      "word": "美国再次发生自焚事件",
-      "onboard_time": 1713584177,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 334447,
@@ -6723,6 +6731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311946,
+      "num": 277987,
+      "word": "被小猫冷暴力了三年",
+      "onboard_time": 1713586217,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 311361,
       "num": 259119,
       "word": "乘风2024",
@@ -7099,14 +7115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292974,
-      "num": 292974,
-      "word": "10个韩国人去吃饭点了两个菜",
-      "onboard_time": 1713586158,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 292435,
       "num": 127977,
       "word": "上公厕马桶不垫纸会被传染疾病吗",
@@ -7324,7 +7332,7 @@
     },
     {
       "raw_hot": 282645,
-      "num": 379356,
+      "num": 443528,
       "word": "福宝有多爱吃家乡饭",
       "onboard_time": 1713573917,
       "rank": 9,
@@ -7665,6 +7673,14 @@
       "onboard_time": 1713091517,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267760,
+      "num": 267760,
+      "word": "周冠宇冲刺赛第9",
+      "onboard_time": 1713585557,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 267690,
@@ -8963,14 +8979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227721,
-      "num": 199536,
-      "word": "被小猫冷暴力了三年",
-      "onboard_time": 1713586217,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 227166,
       "num": 227166,
       "word": "一夜承明",
@@ -9113,14 +9121,6 @@
       "onboard_time": 1713166338,
       "rank": 49,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 224392,
-      "num": 224392,
-      "word": "周冠宇冲刺赛第9",
-      "onboard_time": 1713585557,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 223976,
@@ -10059,6 +10059,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 204281,
+      "num": 204281,
+      "word": "陈丽君偏偏你最争气",
+      "onboard_time": 1713583697,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203896,
       "num": 203896,
       "word": "Pura70开卖华为门店大排长龙",
@@ -10152,14 +10160,6 @@
       "word": "天赐的声音第五季阵容官宣",
       "onboard_time": 1713240978,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 202604,
-      "num": 202604,
-      "word": "陈丽君偏偏你最争气",
-      "onboard_time": 1713583697,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -10651,6 +10651,14 @@
       "category": "军事,国内时政"
     },
     {
+      "raw_hot": 197269,
+      "num": 197269,
+      "word": "华晨宇香港演唱会官宣",
+      "onboard_time": 1713586578,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197223,
       "num": 197223,
       "word": "第五人格赛事",
@@ -10979,6 +10987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192298,
+      "num": 192298,
+      "word": "第五人格抢票",
+      "onboard_time": 1713587178,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192090,
       "num": 192090,
       "word": "WE小新",
@@ -11241,6 +11257,14 @@
       "onboard_time": 1713250458,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189336,
+      "num": 189336,
+      "word": "渡边雄太告别NBA",
+      "onboard_time": 1713586516,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 188934,
@@ -12339,6 +12363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173746,
+      "num": 173746,
+      "word": "花27万彩礼订婚准新娘十余天后自杀身亡",
+      "onboard_time": 1713587477,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173684,
       "num": 173684,
       "word": "中国女排2024世联赛大名单",
@@ -12539,6 +12571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 170277,
+      "num": 170277,
+      "word": "宋雨琦Minnie隔空联动",
+      "onboard_time": 1713586697,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170044,
       "num": 138321,
       "word": "向晚毕业",
@@ -12561,14 +12601,6 @@
       "onboard_time": 1713155780,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169509,
-      "num": 169509,
-      "word": "华晨宇香港演唱会官宣",
-      "onboard_time": 1713586578,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 169426,
@@ -14516,7 +14548,7 @@
     },
     {
       "raw_hot": 145142,
-      "num": 145142,
+      "num": 145451,
       "word": "Meiko说赛前不装难道赛后装",
       "onboard_time": 1713583576,
       "rank": 35,
@@ -14873,14 +14905,6 @@
       "onboard_time": 1713433817,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 140616,
-      "num": 140616,
-      "word": "渡边雄太告别NBA",
-      "onboard_time": 1713586516,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 140492,
@@ -15668,7 +15692,7 @@
     },
     {
       "raw_hot": 129417,
-      "num": 129417,
+      "num": 145439,
       "word": "特斯拉ModelY美国全系降价",
       "onboard_time": 1713584598,
       "rank": 42,
@@ -15881,14 +15905,6 @@
       "onboard_time": 1713397216,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 125415,
-      "num": 125415,
-      "word": "宋雨琦Minnie隔空联动",
-      "onboard_time": 1713586697,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 125205,
@@ -18099,18 +18115,18 @@
       "category": "电影"
     },
     {
-      "raw_hot": 47110,
-      "num": 1286286,
-      "word": "潮起互联网奔涌三十年",
-      "onboard_time": 1713498738,
+      "raw_hot": 47299,
+      "num": 669564,
+      "word": "耕韵有时岁岁新",
+      "onboard_time": 1713582016,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46368,
-      "num": 597439,
-      "word": "耕韵有时岁岁新",
-      "onboard_time": 1713582016,
+      "raw_hot": 47110,
+      "num": 1286286,
+      "word": "潮起互联网奔涌三十年",
+      "onboard_time": 1713498738,
       "rank": 2,
       "category": "社会新闻"
     },
