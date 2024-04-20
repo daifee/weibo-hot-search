@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713627253974,
+  "endTime": 1713630104116,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -4115,6 +4115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1020943,
+      "num": 1020943,
+      "word": "周海媚墓碑上刻着周芷若画像",
+      "onboard_time": 1713626419,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1020762,
       "num": 445911,
       "word": "哈尔滨22岁男子被多名未成年围殴砍伤",
@@ -7315,6 +7323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 734471,
+      "num": 337186,
+      "word": "陈冠希发了Jennie",
+      "onboard_time": 1713629118,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 734385,
       "num": 734385,
       "word": "肖战作品",
@@ -9283,6 +9299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 624598,
+      "num": 624598,
+      "word": "yaoyao发文",
+      "onboard_time": 1713626358,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 624485,
       "num": 624485,
       "word": "李现换头像",
@@ -10067,14 +10091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 594259,
-      "num": 447054,
-      "word": "周海媚墓碑上刻着周芷若画像",
-      "onboard_time": 1713626419,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 593832,
       "num": 593832,
       "word": "胡锡进建议恢复五一黄金周",
@@ -10512,6 +10528,14 @@
       "word": "东宫绝世甜剧不是说说而已",
       "onboard_time": 1712241439,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 577506,
+      "num": 577506,
+      "word": "罗正徐艺洋吻戏",
+      "onboard_time": 1713627860,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -14825,14 +14849,6 @@
       "onboard_time": 1712312959,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 445528,
-      "num": 445528,
-      "word": "yaoyao发文",
-      "onboard_time": 1713626358,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 445449,
@@ -23819,6 +23835,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 275890,
+      "num": 131484,
+      "word": "张栋梁拥抱拒绝金莎",
+      "onboard_time": 1713628339,
+      "rank": 22,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 275826,
       "num": 275826,
       "word": "网红郑燕姿官宣怀孕",
@@ -28275,6 +28299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230632,
+      "num": 128268,
+      "word": "贤佑海仁睡了我出生了",
+      "onboard_time": 1713629060,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230567,
       "num": 210264,
       "word": "沈璃行止的婚书",
@@ -28873,6 +28905,14 @@
       "onboard_time": 1712069840,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 225637,
+      "num": 130977,
+      "word": "一起入职的44岁姐妹被辞退了",
+      "onboard_time": 1713627559,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 225576,
@@ -39883,6 +39923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171831,
+      "num": 171831,
+      "word": "重庆90岁老人寿宴上女歌手摔倒去世",
+      "onboard_time": 1713629239,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171801,
       "num": 171801,
       "word": "700元的黄金谁拿谁烫手",
@@ -44603,6 +44651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150378,
+      "num": 119878,
+      "word": "陈晓清装白月光",
+      "onboard_time": 1713628518,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150377,
       "num": 150377,
       "word": "宋亚轩带了一盏声控小灯",
@@ -48683,6 +48739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132218,
+      "num": 132218,
+      "word": "曼城vs切尔西",
+      "onboard_time": 1713628939,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132184,
       "num": 132184,
       "word": "万科股价创新低",
@@ -49193,6 +49257,14 @@
       "onboard_time": 1712987597,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129537,
+      "num": 129537,
+      "word": "网传中国女游客在印尼火山景点遇难",
+      "onboard_time": 1713629359,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129517,
@@ -50121,6 +50193,14 @@
       "onboard_time": 1712539579,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 124198,
+      "num": 100011,
+      "word": "已经开始替赵晴尴尬了",
+      "onboard_time": 1713627860,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 124193,
@@ -54753,6 +54833,14 @@
       "onboard_time": 1711972759,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71215,
+      "num": 98999,
+      "word": "放个风筝不小心成为了play的一环",
+      "onboard_time": 1713630078,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 71117,
