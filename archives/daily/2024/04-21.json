@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713652472156,
+  "endTime": 1713654993566,
   "band_list": [
     {
       "raw_hot": 1218760,
@@ -83,6 +83,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 420469,
+      "num": 420469,
+      "word": "黄子韬就不当言论道歉",
+      "onboard_time": 1713654433,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417104,
       "num": 417104,
       "word": "网传中国女游客在印尼火山景点遇难",
@@ -147,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300172,
+      "num": 200241,
+      "word": "喝水后一直小便和半天不去厕所哪个更健康",
+      "onboard_time": 1713654493,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 298792,
       "num": 259440,
       "word": "垫底辣孩模仿魏若来",
@@ -161,6 +177,14 @@
       "onboard_time": 1713621019,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280368,
+      "num": 280368,
+      "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
+      "onboard_time": 1713641412,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 262825,
@@ -185,6 +209,14 @@
       "onboard_time": 1713626178,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234730,
+      "num": 234730,
+      "word": "吴艳妮13秒04刷新SB",
+      "onboard_time": 1713651371,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 225637,
@@ -283,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143068,
-      "num": 143068,
-      "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
-      "onboard_time": 1713641412,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 142292,
       "num": 107537,
       "word": "Jennie一口气发了20张图",
@@ -305,6 +329,14 @@
       "onboard_time": 1713617897,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136983,
+      "num": 136983,
+      "word": "59岁张曼玉近照",
+      "onboard_time": 1713651311,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 132218,
@@ -395,8 +427,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 75205,
-      "num": 75205,
+      "raw_hot": 78037,
+      "num": 78037,
       "word": "iPhone16和Plus或有15项改进",
       "onboard_time": 1713646090,
       "rank": 26,
@@ -435,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72550,
+      "num": 72550,
+      "word": "常用电脑的人手部功能退化严重",
+      "onboard_time": 1713650471,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 71215,
       "num": 98999,
       "word": "放个风筝不小心成为了play的一环",
@@ -459,6 +499,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62032,
+      "num": 62032,
+      "word": "假如你从4月20日开始减肥",
+      "onboard_time": 1713654854,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 60265,
+      "num": 60265,
+      "word": "戚薇怎么不笑了",
+      "onboard_time": 1713638053,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 58727,
+      "num": 58727,
+      "word": "萨顶顶真神婆",
+      "onboard_time": 1713653773,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55402,
       "num": 55402,
       "word": "追星的意义是救赎自己",
@@ -467,20 +531,44 @@
       "category": "情感"
     },
     {
-      "raw_hot": 55000,
-      "num": 55000,
-      "word": "59岁张曼玉近照",
-      "onboard_time": 1713651311,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 53851,
+      "num": 59962,
+      "word": "1岁男童被蛇咬伤父母教科书式救援",
+      "onboard_time": 1713654493,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 51478,
-      "num": 41948,
-      "word": "戚薇怎么不笑了",
-      "onboard_time": 1713638053,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 53616,
+      "num": 53616,
+      "word": "男生给朋友炫耀守宫蛋突然破壳",
+      "onboard_time": 1713652815,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 52756,
+      "num": 203847,
+      "word": "独臂独腿小伙成功登顶泰山",
+      "onboard_time": 1713642071,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51848,
+      "num": 51848,
+      "word": "太阳vs森林狼",
+      "onboard_time": 1713654854,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51617,
+      "num": 51617,
+      "word": "张凯辞职",
+      "onboard_time": 1713654735,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 49209,
@@ -507,12 +595,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43015,
-      "num": 43015,
-      "word": "吴艳妮13秒04刷新SB",
-      "onboard_time": 1713651371,
-      "rank": 49,
+      "raw_hot": 45419,
+      "num": 45419,
+      "word": "森林狼1比0太阳",
+      "onboard_time": 1713654854,
+      "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38615,
+      "num": 38615,
+      "word": "确定被爱后小狗连面相都变了",
+      "onboard_time": 1713643991,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 36903,
@@ -521,22 +617,6 @@
       "onboard_time": 1713637751,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 36853,
-      "num": 36853,
-      "word": "常用电脑的人手部功能退化严重",
-      "onboard_time": 1713650471,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 35512,
-      "num": 35512,
-      "word": "确定被爱后小狗连面相都变了",
-      "onboard_time": 1713643991,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 34169,
@@ -561,14 +641,6 @@
       "onboard_time": 1713639913,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26339,
-      "num": 97494,
-      "word": "独臂独腿小伙成功登顶泰山",
-      "onboard_time": 1713642071,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24735,
