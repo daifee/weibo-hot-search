@@ -1,6 +1,6 @@
 {
   "startTime": 1713543834648,
-  "endTime": 1713591256786,
+  "endTime": 1713594084720,
   "band_list": [
     {
       "raw_hot": 2200058,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2036011,
-      "num": 434915,
+      "num": 513226,
       "word": "鹿晗回复关晓彤好宠",
       "onboard_time": 1713574397,
       "rank": 15,
@@ -83,6 +83,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 946125,
+      "num": 946125,
+      "word": "张予曦你多高啊我33啊",
+      "onboard_time": 1713591437,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 869623,
+      "num": 869623,
+      "word": "韩国人泰国泼水节被抓谎称是中国人",
+      "onboard_time": 1713591497,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 864784,
       "num": 417168,
       "word": "真情侣",
@@ -91,8 +107,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 806375,
-      "num": 806375,
+      "raw_hot": 811432,
+      "num": 811432,
       "word": "台湾一对情侣吵架女子跳车身亡",
       "onboard_time": 1713588438,
       "rank": 5,
@@ -163,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 583122,
+      "num": 245734,
+      "word": "闲鱼现大量转卖SU7创始车型订单",
+      "onboard_time": 1713590657,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 582560,
       "num": 582560,
       "word": "母亲去世父亲天天去安葬地陪伴",
@@ -203,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 532368,
+      "num": 532368,
+      "word": "王安宇问秦海璐姐夫在吗",
+      "onboard_time": 1713592096,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 530428,
       "num": 530428,
       "word": "青春环游记",
@@ -225,6 +257,14 @@
       "onboard_time": 1713578538,
       "rank": 14,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 509873,
+      "num": 509873,
+      "word": "陈昊宇 黑马",
+      "onboard_time": 1713593118,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 504178,
@@ -321,6 +361,14 @@
       "onboard_time": 1713579138,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394276,
+      "num": 487340,
+      "word": "时代少年团演唱会 抢票",
+      "onboard_time": 1713588976,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 390472,
@@ -459,6 +507,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 297616,
+      "num": 297616,
+      "word": "章子怡章泽天活动状态",
+      "onboard_time": 1713592698,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 284656,
       "num": 284656,
       "word": "陈昊宇分数",
@@ -468,7 +524,7 @@
     },
     {
       "raw_hot": 282645,
-      "num": 443528,
+      "num": 515903,
       "word": "福宝有多爱吃家乡饭",
       "onboard_time": 1713573917,
       "rank": 9,
@@ -563,14 +619,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 245734,
-      "num": 245734,
-      "word": "闲鱼现大量转卖SU7创始车型订单",
-      "onboard_time": 1713590657,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 240834,
       "num": 240834,
       "word": "1米7学妹体测完变1米6",
@@ -643,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204008,
-      "num": 204008,
-      "word": "时代少年团演唱会 抢票",
-      "onboard_time": 1713588976,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 199627,
       "num": 199627,
       "word": "赵丽颖与凤行战绩",
@@ -683,6 +723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 196731,
+      "num": 196731,
+      "word": "时团 特权码",
+      "onboard_time": 1713593719,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196426,
       "num": 196426,
       "word": "陈丽君初舞台第三",
@@ -705,6 +753,14 @@
       "onboard_time": 1713587178,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191469,
+      "num": 191469,
+      "word": "蔡文静美声",
+      "onboard_time": 1713593118,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 191455,
@@ -747,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187817,
+      "num": 187817,
+      "word": "陈丽君陈昊宇双向奔赴",
+      "onboard_time": 1713593357,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187423,
       "num": 182167,
       "word": "周扬青亚裔混血感",
@@ -761,6 +825,14 @@
       "onboard_time": 1713583759,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184330,
+      "num": 206489,
+      "word": "金价暴涨后线上金店拒发货",
+      "onboard_time": 1713593417,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 182170,
@@ -801,6 +873,30 @@
       "onboard_time": 1713530958,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175669,
+      "num": 175669,
+      "word": "中国游客涌入日本扫货",
+      "onboard_time": 1713593778,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175344,
+      "num": 175344,
+      "word": "央媒发文放假绝不是假放",
+      "onboard_time": 1713593657,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174443,
+      "num": 174443,
+      "word": "魏嬿婉孩子",
+      "onboard_time": 1713592037,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173591,
@@ -873,6 +969,14 @@
       "onboard_time": 1713567374,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 150640,
+      "num": 150640,
+      "word": "中国政府新援助加沙的两批物资运抵埃及",
+      "onboard_time": 1713593118,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 148915,
@@ -963,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136389,
+      "num": 136389,
+      "word": "广西一医院内有男子跳楼",
+      "onboard_time": 1713592817,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136000,
       "num": 136000,
       "word": "这个赛季云南的蓝莓赢麻了",
@@ -1049,6 +1161,14 @@
       "onboard_time": 1713584598,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 127090,
+      "num": 127090,
+      "word": "浪姐5好多人哭了",
+      "onboard_time": 1713591437,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 126813,
@@ -1139,6 +1259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114029,
+      "num": 114029,
+      "word": "多部门回应西安地铁发生事故",
+      "onboard_time": 1713593719,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113714,
       "num": 99362,
       "word": "杨紫方回应粉丝造型意见",
@@ -1187,6 +1315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 109405,
+      "num": 109405,
+      "word": "增加法定节假日并非没有可能",
+      "onboard_time": 1713593896,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105237,
       "num": 97775,
       "word": "林允的刷酸和修护心得",
@@ -1201,6 +1337,22 @@
       "onboard_time": 1713573438,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 102780,
+      "num": 102780,
+      "word": "测网速",
+      "onboard_time": 1713592218,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101750,
+      "num": 101750,
+      "word": "小猫长这么大第一次被吐口水",
+      "onboard_time": 1713591256,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 101388,
