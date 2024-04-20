@@ -1,6 +1,6 @@
 {
   "startTime": 1713543834648,
-  "endTime": 1713619157519,
+  "endTime": 1713620062327,
   "band_list": [
     {
       "raw_hot": 5314332,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 851194,
+      "num": 851194,
+      "word": "郭碧婷曾被导演要求打瘦脸针",
+      "onboard_time": 1713613818,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 811432,
       "num": 811432,
       "word": "台湾一对情侣吵架女子跳车身亡",
@@ -251,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 702604,
+      "num": 702604,
+      "word": "贾玲好迷人",
+      "onboard_time": 1713618498,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 699786,
       "num": 190919,
       "word": "田曦薇 看得出她是公主",
@@ -289,14 +305,6 @@
       "onboard_time": 1713573137,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 631601,
-      "num": 631601,
-      "word": "郭碧婷曾被导演要求打瘦脸针",
-      "onboard_time": 1713613818,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 626588,
@@ -507,6 +515,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 505065,
+      "num": 505065,
+      "word": "眼泪女王",
+      "onboard_time": 1713617897,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 504178,
       "num": 352739,
       "word": "周扬青回应rap疑似内涵罗志祥",
@@ -611,12 +627,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 445017,
-      "num": 445017,
-      "word": "眼泪女王",
-      "onboard_time": 1713617897,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 445258,
+      "num": 445258,
+      "word": "李菲儿首次回应和锦超争执",
+      "onboard_time": 1713616337,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 443146,
@@ -635,8 +651,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 432315,
-      "num": 432315,
+      "raw_hot": 435367,
+      "num": 435367,
       "word": "陈昊宇发如雪",
       "onboard_time": 1713617778,
       "rank": 13,
@@ -648,6 +664,14 @@
       "word": "男子酒后打死10余只火烈鸟获刑5年",
       "onboard_time": 1713536539,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403345,
+      "num": 403345,
+      "word": "重庆九公里",
+      "onboard_time": 1713619099,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -707,6 +731,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 394016,
+      "num": 315205,
+      "word": "我删掉了高中大学的所有同学",
+      "onboard_time": 1713619820,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 390841,
+      "num": 352782,
+      "word": "王俊凯暴龙",
+      "onboard_time": 1713617298,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390472,
       "num": 390472,
       "word": "丁克现状",
@@ -731,11 +771,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379091,
-      "num": 379091,
-      "word": "李菲儿首次回应和锦超争执",
-      "onboard_time": 1713616337,
-      "rank": 22,
+      "raw_hot": 378853,
+      "num": 378853,
+      "word": "时代少年团直播",
+      "onboard_time": 1713619758,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -795,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 352782,
-      "num": 352782,
-      "word": "王俊凯暴龙",
-      "onboard_time": 1713617298,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 352408,
       "num": 411083,
       "word": "美国再次发生自焚事件",
@@ -825,14 +857,6 @@
       "onboard_time": 1713610637,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347116,
-      "num": 347116,
-      "word": "贾玲好迷人",
-      "onboard_time": 1713618498,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 344885,
@@ -899,12 +923,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321875,
+      "num": 321875,
+      "word": "白敬亭 B站",
+      "onboard_time": 1713619639,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312838,
       "num": 312838,
       "word": "赵丽颖 清醒的价值观",
       "onboard_time": 1713603017,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 310976,
+      "num": 310976,
+      "word": "原来麻辣烫夹子是这样用的",
+      "onboard_time": 1713618018,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 307946,
@@ -1011,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283658,
+      "num": 283658,
+      "word": "眼泪女王直播",
+      "onboard_time": 1713617897,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282645,
       "num": 515903,
       "word": "福宝有多爱吃家乡饭",
@@ -1107,20 +1155,20 @@
       "category": "作品衍生,综艺"
     },
     {
+      "raw_hot": 261729,
+      "num": 261729,
+      "word": "重庆一小车失控冲出路沿致1死多伤",
+      "onboard_time": 1713619639,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261062,
       "num": 261062,
       "word": "凤凰传奇演唱会",
       "onboard_time": 1713610338,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 253448,
-      "num": 253448,
-      "word": "眼泪女王直播",
-      "onboard_time": 1713617897,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 253061,
@@ -1187,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235236,
+      "num": 235236,
+      "word": "张雨霏冠军",
+      "onboard_time": 1713618919,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233387,
       "num": 270157,
       "word": "小林制药问题原料检出两种意想不到的物质",
@@ -1209,6 +1265,14 @@
       "onboard_time": 1713599177,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229625,
+      "num": 229625,
+      "word": "MSI",
+      "onboard_time": 1713619577,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 229345,
@@ -1275,6 +1339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 211717,
+      "num": 211717,
+      "word": "Bin厉害",
+      "onboard_time": 1713619698,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 210925,
       "num": 210925,
       "word": "李现和新剧奶奶合照",
@@ -1289,6 +1361,14 @@
       "onboard_time": 1713594198,
       "rank": 23,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 210129,
+      "num": 210129,
+      "word": "这是我的岛",
+      "onboard_time": 1713619159,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 207258,
@@ -1459,12 +1539,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192867,
-      "num": 192867,
-      "word": "原来麻辣烫夹子是这样用的",
-      "onboard_time": 1713618018,
-      "rank": 36,
-      "category": "美食"
+      "raw_hot": 192940,
+      "num": 192940,
+      "word": "再给王一博一个筐",
+      "onboard_time": 1713619399,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 192789,
+      "num": 192789,
+      "word": "杨和苏专辑呢",
+      "onboard_time": 1713619338,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 192404,
@@ -1513,6 +1601,14 @@
       "onboard_time": 1713574875,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190186,
+      "num": 190186,
+      "word": "白鲨夺冠",
+      "onboard_time": 1713619519,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 189336,
@@ -1691,14 +1787,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 176257,
-      "num": 176257,
-      "word": "张雨霏冠军",
-      "onboard_time": 1713618919,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 175988,
       "num": 122854,
       "word": "肖战还给了两年的售后时间",
@@ -1859,6 +1947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164147,
+      "num": 412750,
+      "word": "专家解读火车下铺该不该共享",
+      "onboard_time": 1713618318,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163300,
       "num": 163300,
       "word": "小狗会在主人摸它时提前把耳朵放下",
@@ -2017,14 +2113,6 @@
       "onboard_time": 1713585438,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148155,
-      "num": 148155,
-      "word": "重庆九公里",
-      "onboard_time": 1713619099,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148003,
@@ -2193,14 +2281,6 @@
       "onboard_time": 1713580518,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136752,
-      "num": 412750,
-      "word": "专家解读火车下铺该不该共享",
-      "onboard_time": 1713618318,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136389,
@@ -2707,6 +2787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97920,
+      "num": 310217,
+      "word": "AMG从赛道到街道",
+      "onboard_time": 1713619159,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 95407,
       "num": 95407,
       "word": "卓沅卖菜笑开花",
@@ -2923,6 +3011,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 52948,
+      "num": 921164,
+      "word": "文化中国行",
+      "onboard_time": 1713618919,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50949,
       "num": 226940,
       "word": "上海临时工爆改异人店长",
@@ -2969,6 +3065,14 @@
       "onboard_time": 1713554110,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34038,
+      "num": 900108,
+      "word": "良田良种良机良法绘就当代春耕图",
+      "onboard_time": 1713618858,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31784,
@@ -3033,14 +3137,6 @@
       "onboard_time": 1713556151,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 12631,
-      "num": 921164,
-      "word": "文化中国行",
-      "onboard_time": 1713618919,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3824,

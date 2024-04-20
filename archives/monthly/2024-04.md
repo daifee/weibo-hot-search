@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/20 21:19:17
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/20 21:34:22
 </p>
 </blockquote>
 <p>
@@ -4161,6 +4161,12 @@ ZARA大量粉丝紧急扫货（热度：865085）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E6%9B%BE%E8%A2%AB%E5%AF%BC%E6%BC%94%E8%A6%81%E6%B1%82%E6%89%93%E7%98%A6%E8%84%B8%E9%92%88%23" target="weibo">
+郭碧婷曾被导演要求打瘦脸针（热度：851194）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%B8%A6%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%8F%8B%E5%9B%9E%E5%AE%B6%23" target="weibo">
 美国女生带韩国男友回家（热度：849737）
 </a>
@@ -5841,6 +5847,12 @@ TES被偷家（热度：704307）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%A5%BD%E8%BF%B7%E4%BA%BA%23" target="weibo">
+贾玲好迷人（热度：702604）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E4%B8%A4%E5%85%B3%E8%81%94%E5%85%AC%E5%8F%B8%E6%AC%A0%E7%A8%8E400%E4%BD%99%E4%B8%87%23" target="weibo">
 吴亦凡两关联公司欠税400余万（热度：700742）
 </a>
@@ -5999,18 +6011,6 @@ TES被偷家（热度：704307）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%97%AD%E7%86%99%E6%80%8E%E4%B9%88%E5%8F%88%E5%87%BA%E9%81%93%E4%BA%86%23" target="weibo">
 黄旭熙怎么又出道了（热度：689687）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%BD%A0%E9%97%B7%E5%A3%B0%E5%B9%B2%E5%A4%A7%E4%BA%8B%23" target="weibo">
-谢娜你闷声干大事（热度：689363）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E8%B1%AA%E8%AF%B4%E4%BE%AF%E9%9B%AF%E5%85%83%E5%AD%A4%E6%9E%95%E9%9A%BE%E7%9C%A0%23" target="weibo">
-欧豪说侯雯元孤枕难眠（热度：688651）
 </a>
 </li>
 
