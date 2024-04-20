@@ -1,0 +1,410 @@
+{
+  "runTime": 1713627253974,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1621724,
+        "num": 1621724,
+        "word": "白敬亭 B站",
+        "onboard_time": 1713619639,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1037712,
+        "num": 1037712,
+        "word": "郑恺和苗苗实打实过日子型",
+        "onboard_time": 1713625098,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34995,
+        "num": 911833,
+        "word": "良田良种良机良法绘就当代春耕图",
+        "onboard_time": 1713618858,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856985,
+        "num": 856985,
+        "word": "林高远11比1张本智和",
+        "onboard_time": 1713623300,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 817066,
+        "num": 817066,
+        "word": "黄子韬回应被拒绝同台",
+        "onboard_time": 1713621259,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 719249,
+        "num": 719249,
+        "word": "贾玲好迷人",
+        "onboard_time": 1713618498,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 582144,
+        "num": 582144,
+        "word": "马龙4比0王楚钦",
+        "onboard_time": 1713615258,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 468132,
+        "num": 468132,
+        "word": "许凯吻戏",
+        "onboard_time": 1713624619,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449622,
+        "num": 449622,
+        "word": "原来麻辣烫夹子是这样用的",
+        "onboard_time": 1713618018,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108910,
+        "num": 447485,
+        "word": "小奶狗被打碎下巴女子坚持送医救治",
+        "onboard_time": 1713599717,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594259,
+        "num": 447054,
+        "word": "周海媚墓碑上刻着周芷若画像",
+        "onboard_time": 1713626419,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461676,
+        "num": 446623,
+        "word": "戚薇 蔡文静",
+        "onboard_time": 1713621019,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445528,
+        "num": 445528,
+        "word": "yaoyao发文",
+        "onboard_time": 1713626358,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 436431,
+        "num": 436431,
+        "word": "杨千嬅哭了",
+        "onboard_time": 1713625520,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 345176,
+        "num": 345176,
+        "word": "林高远vs张本智和",
+        "onboard_time": 1713623240,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431680,
+        "num": 342912,
+        "word": "垫底辣孩模仿魏若来",
+        "onboard_time": 1713620779,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 422327,
+        "num": 339961,
+        "word": "郭碧婷曾被导演要求打瘦脸针",
+        "onboard_time": 1713613818,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336278,
+        "num": 336278,
+        "word": "孙颖莎歇会儿走不下去了",
+        "onboard_time": 1713622939,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262797,
+        "num": 262797,
+        "word": "JackeyLove心态",
+        "onboard_time": 1713621319,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197184,
+        "num": 197184,
+        "word": "孙颖莎面对球迷喝水",
+        "onboard_time": 1713622701,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 997041,
+        "num": 197156,
+        "word": "黄子韬 小马丁",
+        "onboard_time": 1713613997,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 768806,
+        "num": 196815,
+        "word": "我删掉了高中大学的所有同学",
+        "onboard_time": 1713619820,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295932,
+        "num": 196774,
+        "word": "周杰伦听见下雨的声音",
+        "onboard_time": 1713613638,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 289536,
+        "num": 196490,
+        "word": "张艺兴算是回到自己舒适区了",
+        "onboard_time": 1713626178,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210463,
+        "num": 196397,
+        "word": "十个洗头的坏习惯",
+        "onboard_time": 1713625459,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244066,
+        "num": 196143,
+        "word": "承欢记收视率",
+        "onboard_time": 1713621079,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217444,
+        "num": 196028,
+        "word": "陈昊宇发如雪",
+        "onboard_time": 1713617778,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195885,
+        "num": 195885,
+        "word": "JKL 菜",
+        "onboard_time": 1713622701,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160180,
+        "num": 160180,
+        "word": "MSI抽签",
+        "onboard_time": 1713621319,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157961,
+        "num": 157961,
+        "word": "Knight我的沙皇也能夺冠了",
+        "onboard_time": 1713622460,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197160,
+        "num": 157920,
+        "word": "杨千嬅成都",
+        "onboard_time": 1713626178,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194040,
+        "num": 157894,
+        "word": "眼泪女王",
+        "onboard_time": 1713617897,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193593,
+        "num": 157576,
+        "word": "严浩翔的新发型",
+        "onboard_time": 1713626000,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157053,
+        "num": 157053,
+        "word": "王楚钦vs马龙",
+        "onboard_time": 1713613457,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149311,
+        "num": 149311,
+        "word": "Bin我们一起加油",
+        "onboard_time": 1713626000,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189314,
+        "num": 148343,
+        "word": "汪苏泷闪现毛不易音乐节舞台",
+        "onboard_time": 1713626119,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186633,
+        "num": 147948,
+        "word": "薛之谦洛城",
+        "onboard_time": 1713626237,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191471,
+        "num": 145897,
+        "word": "陈丽君好帅",
+        "onboard_time": 1713620119,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177653,
+        "num": 144891,
+        "word": "李荣浩微博直播",
+        "onboard_time": 1713626899,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175476,
+        "num": 143877,
+        "word": "刘忻出走十年归来仍是老公",
+        "onboard_time": 1713623840,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165063,
+        "num": 142749,
+        "word": "张超声音",
+        "onboard_time": 1713623240,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151405,
+        "num": 142290,
+        "word": "浪姐5",
+        "onboard_time": 1713627139,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141224,
+        "num": 141224,
+        "word": "林高远4比0张本智和",
+        "onboard_time": 1713624140,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125435,
+        "num": 133728,
+        "word": "马莱莱进球",
+        "onboard_time": 1713626539,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128142,
+        "num": 128142,
+        "word": "湖南失踪15岁男孩遗体已找到",
+        "onboard_time": 1713610878,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126707,
+        "num": 126707,
+        "word": "BLG战胜TES",
+        "onboard_time": 1713618619,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124689,
+        "num": 124689,
+        "word": "合租室友不爱搞卫生怎么办",
+        "onboard_time": 1713625400,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121501,
+        "num": 121501,
+        "word": "这个世界变成了我看不懂的样子",
+        "onboard_time": 1713626599,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119841,
+        "num": 119841,
+        "word": "把骂领导的话发大群里了",
+        "onboard_time": 1713626119,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116925,
+        "num": 116925,
+        "word": "雷军向周鸿祎推荐小米SUV",
+        "onboard_time": 1713623840,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进互联网大数据人工智能同实体经济深度融合#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713626234717,
+  "endTime": 1713627253974,
   "band_list": [
     {
       "raw_hot": 5314332,
@@ -1217,6 +1217,14 @@
       "onboard_time": 1713158839,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1037712,
+      "num": 1037712,
+      "word": "郑恺和苗苗实打实过日子型",
+      "onboard_time": 1713625098,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1036329,
@@ -2739,14 +2747,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 683078,
-      "num": 683078,
-      "word": "郑恺和苗苗实打实过日子型",
-      "onboard_time": 1713625098,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 682708,
       "num": 682708,
       "word": "迪丽热巴说实话我挺害怕的",
@@ -3305,6 +3305,14 @@
       "onboard_time": 1713363079,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 594259,
+      "num": 447054,
+      "word": "周海媚墓碑上刻着周芷若画像",
+      "onboard_time": 1713626419,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 593832,
@@ -4739,6 +4747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 468132,
+      "num": 468132,
+      "word": "许凯吻戏",
+      "onboard_time": 1713624619,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 467277,
       "num": 239598,
       "word": "才领完结婚证就已经对婚姻失望了",
@@ -5003,6 +5019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 445528,
+      "num": 445528,
+      "word": "yaoyao发文",
+      "onboard_time": 1713626358,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 445275,
       "num": 427730,
       "word": "有性生活接种HPV疫苗仍旧有效",
@@ -5129,6 +5153,14 @@
       "onboard_time": 1713222916,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436431,
+      "num": 436431,
+      "word": "杨千嬅哭了",
+      "onboard_time": 1713625520,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 436131,
@@ -5753,14 +5785,6 @@
       "onboard_time": 1713414500,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 394833,
-      "num": 394833,
-      "word": "许凯吻戏",
-      "onboard_time": 1713624619,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 394794,
@@ -7891,6 +7915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289536,
+      "num": 196490,
+      "word": "张艺兴算是回到自己舒适区了",
+      "onboard_time": 1713626178,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288919,
       "num": 282210,
       "word": "汪苏泷到底是什么意思",
@@ -8265,14 +8297,6 @@
       "onboard_time": 1713435617,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 273740,
-      "num": 203256,
-      "word": "杨千嬅哭了",
-      "onboard_time": 1713625520,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 273331,
@@ -10691,6 +10715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210463,
+      "num": 201965,
+      "word": "十个洗头的坏习惯",
+      "onboard_time": 1713625459,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 210422,
       "num": 210422,
       "word": "欧冠",
@@ -11099,14 +11131,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 203881,
-      "num": 184371,
-      "word": "张艺兴算是回到自己舒适区了",
-      "onboard_time": 1713626178,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203832,
       "num": 203832,
       "word": "WTT",
@@ -11305,14 +11329,6 @@
       "onboard_time": 1713162317,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201965,
-      "num": 201965,
-      "word": "十个洗头的坏习惯",
-      "onboard_time": 1713625459,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 201887,
@@ -11737,6 +11753,14 @@
       "onboard_time": 1713578237,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 197160,
+      "num": 164444,
+      "word": "杨千嬅成都",
+      "onboard_time": 1713626178,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 197137,
@@ -12427,6 +12451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189314,
+      "num": 174653,
+      "word": "汪苏泷闪现毛不易音乐节舞台",
+      "onboard_time": 1713626119,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189192,
       "num": 189192,
       "word": "我突然明白了读书的意义",
@@ -12681,6 +12713,14 @@
       "onboard_time": 1713538818,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186633,
+      "num": 147948,
+      "word": "薛之谦洛城",
+      "onboard_time": 1713626237,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 186568,
@@ -13355,6 +13395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177653,
+      "num": 144891,
+      "word": "李荣浩微博直播",
+      "onboard_time": 1713626899,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177587,
       "num": 166644,
       "word": "李沐宸说杨紫人美心善",
@@ -13641,14 +13689,6 @@
       "onboard_time": 1713624858,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174653,
-      "num": 174653,
-      "word": "汪苏泷闪现毛不易音乐节舞台",
-      "onboard_time": 1713626119,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 174530,
@@ -14473,14 +14513,6 @@
       "onboard_time": 1713603138,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 164444,
-      "num": 164444,
-      "word": "杨千嬅成都",
-      "onboard_time": 1713626178,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 164287,
@@ -15513,6 +15545,14 @@
       "onboard_time": 1713516377,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151405,
+      "num": 142290,
+      "word": "浪姐5",
+      "onboard_time": 1713627139,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 151322,
@@ -16552,6 +16592,14 @@
       "word": "王曼昱4比1斯佐科斯",
       "onboard_time": 1713438618,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 141224,
+      "num": 141224,
+      "word": "林高远4比0张本智和",
+      "onboard_time": 1713624140,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -17699,6 +17747,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 125435,
+      "num": 133728,
+      "word": "马莱莱进球",
+      "onboard_time": 1713626539,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125364,
       "num": 125364,
       "word": "城市寻美记",
@@ -17977,6 +18033,14 @@
       "onboard_time": 1713520938,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 121501,
+      "num": 121501,
+      "word": "这个世界变成了我看不懂的样子",
+      "onboard_time": 1713626599,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 121396,
@@ -20914,6 +20978,9 @@
     },
     {
       "word": "#互联网日益成为推动发展的新动能#"
+    },
+    {
+      "word": "#推进互联网大数据人工智能同实体经济深度融合#"
     }
   ]
 }

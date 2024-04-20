@@ -1,6 +1,6 @@
 {
   "startTime": 1713543834648,
-  "endTime": 1713626234717,
+  "endTime": 1713627253974,
   "band_list": [
     {
       "raw_hot": 5314332,
@@ -161,6 +161,14 @@
       "onboard_time": 1713616577,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1037712,
+      "num": 1037712,
+      "word": "郑恺和苗苗实打实过日子型",
+      "onboard_time": 1713625098,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1036329,
@@ -331,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 683078,
-      "num": 683078,
-      "word": "郑恺和苗苗实打实过日子型",
-      "onboard_time": 1713625098,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 680600,
       "num": 680600,
       "word": "弟弟都亲了一夜承明你们呢",
@@ -433,6 +433,14 @@
       "onboard_time": 1713615078,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 594259,
+      "num": 447054,
+      "word": "周海媚墓碑上刻着周芷若画像",
+      "onboard_time": 1713626419,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 588331,
@@ -691,6 +699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 468132,
+      "num": 468132,
+      "word": "许凯吻戏",
+      "onboard_time": 1713624619,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 463168,
       "num": 586016,
       "word": "小奶狗被打碎下巴女子坚持送医救治",
@@ -739,6 +755,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 445528,
+      "num": 445528,
+      "word": "yaoyao发文",
+      "onboard_time": 1713626358,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 445258,
       "num": 445258,
       "word": "李菲儿首次回应和锦超争执",
@@ -761,6 +785,14 @@
       "onboard_time": 1713537978,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 436431,
+      "num": 436431,
+      "word": "杨千嬅哭了",
+      "onboard_time": 1713625520,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 435367,
@@ -825,14 +857,6 @@
       "onboard_time": 1713579138,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 394833,
-      "num": 394833,
-      "word": "许凯吻戏",
-      "onboard_time": 1713624619,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 394276,
@@ -1147,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289536,
+      "num": 196490,
+      "word": "张艺兴算是回到自己舒适区了",
+      "onboard_time": 1713626178,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287799,
       "num": 287799,
       "word": "张靓颖 音响",
@@ -1217,14 +1249,6 @@
       "onboard_time": 1713620840,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273740,
-      "num": 203256,
-      "word": "杨千嬅哭了",
-      "onboard_time": 1713625520,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 273283,
@@ -1539,6 +1563,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 210463,
+      "num": 201965,
+      "word": "十个洗头的坏习惯",
+      "onboard_time": 1713625459,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 210129,
       "num": 210129,
       "word": "这是我的岛",
@@ -1635,14 +1667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203881,
-      "num": 184371,
-      "word": "张艺兴算是回到自己舒适区了",
-      "onboard_time": 1713626178,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203523,
       "num": 203523,
       "word": "一夜承明正经情侣偷着约会",
@@ -1657,14 +1681,6 @@
       "onboard_time": 1713616155,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201965,
-      "num": 201965,
-      "word": "十个洗头的坏习惯",
-      "onboard_time": 1713625459,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 199627,
@@ -1705,6 +1721,14 @@
       "onboard_time": 1713578237,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 197160,
+      "num": 164444,
+      "word": "杨千嬅成都",
+      "onboard_time": 1713626178,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 196731,
@@ -1859,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189314,
+      "num": 174653,
+      "word": "汪苏泷闪现毛不易音乐节舞台",
+      "onboard_time": 1713626119,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189192,
       "num": 189192,
       "word": "我突然明白了读书的意义",
@@ -1897,6 +1929,14 @@
       "onboard_time": 1713617058,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186633,
+      "num": 147948,
+      "word": "薛之谦洛城",
+      "onboard_time": 1713626237,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 186568,
@@ -2027,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177653,
+      "num": 144891,
+      "word": "李荣浩微博直播",
+      "onboard_time": 1713626899,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177569,
       "num": 177569,
       "word": "被自己的原生家庭气笑了",
@@ -2081,14 +2129,6 @@
       "onboard_time": 1713624858,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174653,
-      "num": 174653,
-      "word": "汪苏泷闪现毛不易音乐节舞台",
-      "onboard_time": 1713626119,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 174443,
@@ -2267,14 +2307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164444,
-      "num": 164444,
-      "word": "杨千嬅成都",
-      "onboard_time": 1713626178,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 164147,
       "num": 412750,
       "word": "专家解读火车下铺该不该共享",
@@ -2409,6 +2441,14 @@
       "onboard_time": 1713618798,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151405,
+      "num": 142290,
+      "word": "浪姐5",
+      "onboard_time": 1713627139,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 151322,
@@ -2577,6 +2617,14 @@
       "onboard_time": 1713615978,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141224,
+      "num": 141224,
+      "word": "林高远4比0张本智和",
+      "onboard_time": 1713624140,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 140906,
@@ -2811,6 +2859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125435,
+      "num": 133728,
+      "word": "马莱莱进球",
+      "onboard_time": 1713626539,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125364,
       "num": 125364,
       "word": "城市寻美记",
@@ -2857,6 +2913,14 @@
       "onboard_time": 1713530898,
       "rank": 34,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 121501,
+      "num": 121501,
+      "word": "这个世界变成了我看不懂的样子",
+      "onboard_time": 1713626599,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 120839,
@@ -3532,6 +3596,9 @@
     },
     {
       "word": "#互联网日益成为推动发展的新动能#"
+    },
+    {
+      "word": "#推进互联网大数据人工智能同实体经济深度融合#"
     }
   ]
 }
