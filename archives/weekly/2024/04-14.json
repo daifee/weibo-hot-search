@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713622499592,
+  "endTime": 1713623643315,
   "band_list": [
     {
       "raw_hot": 5314332,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2163210,
+      "num": 2163210,
+      "word": "白敬亭 B站",
+      "onboard_time": 1713619639,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2147960,
       "num": 2147960,
       "word": "飞飞一杯酒去世",
@@ -216,14 +224,6 @@
       "word": "鹿晗回复关晓彤好宠",
       "onboard_time": 1713574397,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2010867,
-      "num": 2010867,
-      "word": "白敬亭 B站",
-      "onboard_time": 1713619639,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -1019,6 +1019,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1099516,
+      "num": 1099516,
+      "word": "林高远张本智和",
+      "onboard_time": 1713616037,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1097232,
       "num": 694494,
       "word": "张予曦 可以不喝哑药吗",
@@ -1211,6 +1219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1034507,
+      "num": 1034507,
+      "word": "黄子韬回应被拒绝同台",
+      "onboard_time": 1713621259,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1026669,
       "num": 1026669,
       "word": "辛辛苦苦从100斤减到110斤",
@@ -1369,6 +1385,22 @@
       "onboard_time": 1713571637,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 981227,
+      "num": 385187,
+      "word": "我删掉了高中大学的所有同学",
+      "onboard_time": 1713619820,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 978956,
+      "num": 978956,
+      "word": "林高远vs张本智和",
+      "onboard_time": 1713623240,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 978450,
@@ -1699,14 +1731,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 884561,
-      "num": 350143,
-      "word": "我删掉了高中大学的所有同学",
-      "onboard_time": 1713619820,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 883852,
       "num": 883852,
       "word": "朱一龙赵丽颖合影旧照",
@@ -1785,14 +1809,6 @@
       "onboard_time": 1713148458,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 847735,
-      "num": 847735,
-      "word": "黄子韬回应被拒绝同台",
-      "onboard_time": 1713621259,
-      "rank": 4,
-      "category": "演出"
     },
     {
       "raw_hot": 847345,
@@ -1929,6 +1945,14 @@
       "onboard_time": 1713162918,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 811535,
+      "num": 811535,
+      "word": "戚薇 蔡文静",
+      "onboard_time": 1713621019,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 811432,
@@ -2457,14 +2481,6 @@
       "onboard_time": 1713399137,
       "rank": 4,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 726748,
-      "num": 452172,
-      "word": "戚薇 蔡文静",
-      "onboard_time": 1713621019,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 726021,
@@ -3411,6 +3427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 580326,
+      "num": 580326,
+      "word": "林高远11比1张本智和",
+      "onboard_time": 1713623300,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 579645,
       "num": 579645,
       "word": "国奥无缘奥运",
@@ -3737,6 +3761,14 @@
       "onboard_time": 1713062718,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 549296,
+      "num": 549296,
+      "word": "林高远比赛",
+      "onboard_time": 1713613818,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 547098,
@@ -4603,14 +4635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 472160,
-      "num": 472160,
-      "word": "林高远张本智和",
-      "onboard_time": 1713616037,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 471753,
       "num": 471753,
       "word": "全球资本市场巨震",
@@ -4633,6 +4657,14 @@
       "onboard_time": 1713164177,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470219,
+      "num": 470219,
+      "word": "原来麻辣烫夹子是这样用的",
+      "onboard_time": 1713618018,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 470038,
@@ -4740,7 +4772,7 @@
     },
     {
       "raw_hot": 463168,
-      "num": 515976,
+      "num": 586016,
       "word": "小奶狗被打碎下巴女子坚持送医救治",
       "onboard_time": 1713599717,
       "rank": 9,
@@ -5651,14 +5683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 396853,
-      "num": 396853,
-      "word": "林高远比赛",
-      "onboard_time": 1713613818,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 396634,
       "num": 396634,
       "word": "勇士无缘季后赛",
@@ -5881,6 +5905,14 @@
       "onboard_time": 1713365599,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386499,
+      "num": 386499,
+      "word": "孙颖莎面对球迷喝水",
+      "onboard_time": 1713622701,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 386428,
@@ -6256,6 +6288,14 @@
       "word": "樊振东说自己并未懈怠",
       "onboard_time": 1713573376,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 366107,
+      "num": 366107,
+      "word": "孙颖莎歇会儿走不下去了",
+      "onboard_time": 1713622939,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -6665,14 +6705,6 @@
       "onboard_time": 1713361459,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 344831,
-      "num": 344831,
-      "word": "原来麻辣烫夹子是这样用的",
-      "onboard_time": 1713618018,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 344419,
@@ -7387,6 +7419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306629,
+      "num": 306629,
+      "word": "垫底辣孩模仿魏若来",
+      "onboard_time": 1713620779,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 306500,
       "num": 306500,
       "word": "以官员称将对伊朗做出前所未有的反应",
@@ -7476,7 +7516,7 @@
     },
     {
       "raw_hot": 304252,
-      "num": 274437,
+      "num": 298032,
       "word": "JackeyLove心态",
       "onboard_time": 1713621319,
       "rank": 30,
@@ -7609,14 +7649,6 @@
       "onboard_time": 1713621319,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 299336,
-      "num": 299336,
-      "word": "垫底辣孩模仿魏若来",
-      "onboard_time": 1713620779,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 298875,
@@ -7937,6 +7969,14 @@
       "onboard_time": 1713054017,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 284249,
+      "num": 284249,
+      "word": "郑恺说自己还没和苗苗拍婚纱照",
+      "onboard_time": 1713622638,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 283938,
@@ -8867,6 +8907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250478,
+      "num": 250478,
+      "word": "Knight我的沙皇也能夺冠了",
+      "onboard_time": 1713622460,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 250142,
       "num": 240054,
       "word": "上班后才知道读研有多苦",
@@ -9073,6 +9121,14 @@
       "onboard_time": 1713410000,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244471,
+      "num": 244471,
+      "word": "JKL 菜",
+      "onboard_time": 1713622701,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 244175,
@@ -10387,6 +10443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213034,
+      "num": 213034,
+      "word": "张超声音",
+      "onboard_time": 1713623240,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212932,
       "num": 212932,
       "word": "麦承欢碎了",
@@ -10644,7 +10708,7 @@
     },
     {
       "raw_hot": 209771,
-      "num": 274438,
+      "num": 292131,
       "word": "陈梦vs孙颖莎",
       "onboard_time": 1713621319,
       "rank": 29,
@@ -11289,14 +11353,6 @@
       "onboard_time": 1713320719,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200985,
-      "num": 200985,
-      "word": "Knight我的沙皇也能夺冠了",
-      "onboard_time": 1713622460,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 200924,
@@ -14011,6 +14067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167144,
+      "num": 167144,
+      "word": "Bin GENT1等着我们来虐你们",
+      "onboard_time": 1713623480,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167114,
       "num": 162922,
       "word": "时代少年团花絮",
@@ -14665,6 +14729,14 @@
       "onboard_time": 1713227421,
       "rank": 39,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 157803,
+      "num": 157803,
+      "word": "蔡依林温州",
+      "onboard_time": 1713623599,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 157743,
@@ -18900,7 +18972,7 @@
     },
     {
       "raw_hot": 97920,
-      "num": 442703,
+      "num": 582438,
       "word": "AMG从赛道到街道",
       "onboard_time": 1713619159,
       "rank": 23,
@@ -19524,7 +19596,7 @@
     },
     {
       "raw_hot": 67553,
-      "num": 1069021,
+      "num": 1112604,
       "word": "良田良种良机良法绘就当代春耕图",
       "onboard_time": 1713618858,
       "rank": 2,
@@ -20059,6 +20131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40982,
+      "num": 292510,
+      "word": "蛋仔派对西游冒险之旅",
+      "onboard_time": 1713620779,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 40765,
       "num": 181667,
       "word": "罗振宇称星纪元ET智驾很好",
@@ -20105,14 +20185,6 @@
       "onboard_time": 1713032712,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 39720,
-      "num": 274452,
-      "word": "蛋仔派对西游冒险之旅",
-      "onboard_time": 1713620779,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 39551,
