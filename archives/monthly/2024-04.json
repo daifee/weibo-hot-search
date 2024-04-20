@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713644272351,
+  "endTime": 1713645291016,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -54115,6 +54115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85642,
+      "num": 45621,
+      "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
+      "onboard_time": 1713641412,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 85366,
       "num": 85366,
       "word": "小米汽车回应使用特斯拉充电桩问题",
@@ -54465,14 +54473,6 @@
       "onboard_time": 1712658919,
       "rank": 39,
       "category": "军事"
-    },
-    {
-      "raw_hot": 76924,
-      "num": 30267,
-      "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
-      "onboard_time": 1713641412,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 76508,
@@ -56851,6 +56851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29767,
+      "num": 28406,
+      "word": "胃癌在早期没有症状",
+      "onboard_time": 1713642851,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 29757,
       "num": 29757,
       "word": "英雄联盟维护",
@@ -57113,14 +57121,6 @@
       "onboard_time": 1713204551,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25840,
-      "num": 28406,
-      "word": "胃癌在早期没有症状",
-      "onboard_time": 1713642851,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 25511,
@@ -57539,6 +57539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19202,
+      "num": 19202,
+      "word": "确定被爱后小狗连面相都变了",
+      "onboard_time": 1713643991,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 18809,
       "num": 27165,
       "word": "20多岁大学生为21岁烈士画像",
@@ -57667,12 +57675,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 15727,
-      "num": 17499,
-      "word": "确定被爱后小狗连面相都变了",
-      "onboard_time": 1713643991,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 16083,
+      "num": 49688,
+      "word": "独臂独腿小伙成功登顶泰山",
+      "onboard_time": 1713642071,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15726,
@@ -57681,14 +57689,6 @@
       "onboard_time": 1712517131,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 15616,
-      "num": 49688,
-      "word": "独臂独腿小伙成功登顶泰山",
-      "onboard_time": 1713642071,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15591,
@@ -57785,6 +57785,14 @@
       "onboard_time": 1712088130,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13727,
+      "num": 17290,
+      "word": "一群余华托举起了铁生的摇滚梦",
+      "onboard_time": 1713645250,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13703,
