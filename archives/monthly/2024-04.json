@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713648859379,
+  "endTime": 1713651412482,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -51931,6 +51931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112880,
+      "num": 66739,
+      "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
+      "onboard_time": 1713641412,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112757,
       "num": 112757,
       "word": "承欢记吻戏",
@@ -54115,14 +54123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85642,
-      "num": 45621,
-      "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
-      "onboard_time": 1713641412,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 85366,
       "num": 85366,
       "word": "小米汽车回应使用特斯拉充电桩问题",
@@ -54880,6 +54880,14 @@
       "word": "苹果M4芯片有望年底推出",
       "onboard_time": 1712878155,
       "rank": 44,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 70964,
+      "num": 70964,
+      "word": "iPhone16和Plus或有15项改进",
+      "onboard_time": 1713646090,
+      "rank": 26,
       "category": "数码"
     },
     {
@@ -56907,6 +56915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28626,
+      "num": 26905,
+      "word": "59岁张曼玉近照",
+      "onboard_time": 1713651311,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28599,
       "num": 28599,
       "word": "江西浮梁知名茶企老板一家三口遇害",
@@ -57049,14 +57065,6 @@
       "onboard_time": 1712929458,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 26708,
-      "num": 26708,
-      "word": "iPhone16和Plus或有15项改进",
-      "onboard_time": 1713646090,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 26675,
@@ -57387,6 +57395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 21870,
+      "num": 67871,
+      "word": "独臂独腿小伙成功登顶泰山",
+      "onboard_time": 1713642071,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21862,
       "num": 186662,
       "word": "如何在P5X里识别MBTI",
@@ -57459,6 +57475,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 20649,
+      "num": 20649,
+      "word": "常用电脑的人手部功能退化严重",
+      "onboard_time": 1713650471,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 20632,
       "num": 20632,
       "word": "射手当joker也是三分钟热度",
@@ -57488,6 +57512,14 @@
       "word": "奶茶成瘾与抑郁焦虑正相关",
       "onboard_time": 1711999571,
       "rank": 44,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 20186,
+      "num": 20186,
+      "word": "喝酒脸红的人别再喝了",
+      "onboard_time": 1713645491,
+      "rank": 38,
       "category": "健康医疗"
     },
     {
@@ -57553,6 +57585,14 @@
       "onboard_time": 1713294132,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18929,
+      "num": 18929,
+      "word": "主人好厉害会开这么难的车",
+      "onboard_time": 1713650112,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 18809,
@@ -57643,14 +57683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17163,
-      "num": 49688,
-      "word": "独臂独腿小伙成功登顶泰山",
-      "onboard_time": 1713642071,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17010,
       "num": 17815,
       "word": "张艺兴新歌psychic",
@@ -57665,14 +57697,6 @@
       "onboard_time": 1712990118,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 16832,
-      "num": 16832,
-      "word": "喝酒脸红的人别再喝了",
-      "onboard_time": 1713645491,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 16742,
@@ -57697,6 +57721,14 @@
       "onboard_time": 1712429891,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16058,
+      "num": 18089,
+      "word": "吴艳妮13秒04刷新SB",
+      "onboard_time": 1713651371,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 15726,
