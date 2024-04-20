@@ -1,6 +1,6 @@
 {
   "startTime": 1713543834648,
-  "endTime": 1713611691739,
+  "endTime": 1713612837308,
   "band_list": [
     {
       "raw_hot": 2632296,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 919285,
+      "num": 919285,
+      "word": "马琳",
+      "onboard_time": 1713610937,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 864784,
       "num": 417168,
       "word": "真情侣",
@@ -152,6 +160,14 @@
       "word": "台湾一对情侣吵架女子跳车身亡",
       "onboard_time": 1713588438,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 793377,
+      "num": 375492,
+      "word": "湖南失踪15岁男孩遗体已找到",
+      "onboard_time": 1713610878,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -201,6 +217,14 @@
       "onboard_time": 1713541699,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 677810,
+      "num": 677810,
+      "word": "孙艺洲吕布众望所归",
+      "onboard_time": 1713609317,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 655424,
@@ -315,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 553444,
+      "num": 553444,
+      "word": "张亮华晨宇李晨",
+      "onboard_time": 1713608237,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 541203,
       "num": 541203,
       "word": "花儿与少年好友记定档",
@@ -339,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 529798,
+      "num": 357325,
+      "word": "张云龙提醒鹿晗",
+      "onboard_time": 1713606917,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 525181,
       "num": 525181,
       "word": "魏嬿婉 进忠",
@@ -355,20 +395,20 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 523822,
+      "num": 523822,
+      "word": "放学等我",
+      "onboard_time": 1713609679,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 513029,
       "num": 513029,
       "word": "金价暴涨后线上金店拒发货",
       "onboard_time": 1713593417,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 512788,
-      "num": 512788,
-      "word": "张亮华晨宇李晨",
-      "onboard_time": 1713608237,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 510432,
@@ -387,12 +427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 503081,
-      "num": 503081,
-      "word": "孙艺洲吕布众望所归",
-      "onboard_time": 1713609317,
-      "rank": 39,
-      "category": "作品衍生"
+      "raw_hot": 491213,
+      "num": 491213,
+      "word": "TES 人机",
+      "onboard_time": 1713611598,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 486196,
@@ -409,14 +449,6 @@
       "onboard_time": 1713573137,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 482569,
-      "num": 482569,
-      "word": "放学等我",
-      "onboard_time": 1713609679,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 474687,
@@ -505,14 +537,6 @@
       "onboard_time": 1713536539,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 404575,
-      "num": 404575,
-      "word": "马琳",
-      "onboard_time": 1713610937,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 399348,
@@ -627,14 +651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 356296,
-      "num": 356296,
-      "word": "湖南失踪15岁男孩遗体已找到",
-      "onboard_time": 1713610878,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352408,
       "num": 411083,
       "word": "美国再次发生自焚事件",
@@ -649,6 +665,14 @@
       "onboard_time": 1713576857,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351726,
+      "num": 351726,
+      "word": "医院通报门诊大楼男子坠楼事件",
+      "onboard_time": 1713610637,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344885,
@@ -723,6 +747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 307094,
+      "num": 307094,
+      "word": "向佐不信孙丞潇是金莎男朋友",
+      "onboard_time": 1713609497,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306095,
       "num": 283062,
       "word": "成毅说青春是甜的",
@@ -787,12 +819,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292937,
-      "num": 292937,
-      "word": "医院通报门诊大楼男子坠楼事件",
-      "onboard_time": 1713610637,
+      "raw_hot": 291178,
+      "num": 291178,
+      "word": "王曼昱晋级澳门世界杯决赛",
+      "onboard_time": 1713612497,
       "rank": 16,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 284656,
@@ -843,14 +875,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 269785,
-      "num": 269785,
-      "word": "向佐不信孙丞潇是金莎男朋友",
-      "onboard_time": 1713609497,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 269027,
       "num": 269027,
       "word": "周深十周年巡演官宣四城",
@@ -889,6 +913,14 @@
       "onboard_time": 1713535998,
       "rank": 14,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 258537,
+      "num": 168177,
+      "word": "锦瑟 抢不到",
+      "onboard_time": 1713612257,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 253061,
@@ -939,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238534,
+      "num": 238534,
+      "word": "开推2有迪丽热巴",
+      "onboard_time": 1713611837,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238301,
       "num": 238301,
       "word": "郭碧婷心态",
@@ -977,6 +1017,22 @@
       "onboard_time": 1713594558,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229150,
+      "num": 229150,
+      "word": "凤凰传奇演唱会",
+      "onboard_time": 1713610338,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 221560,
+      "num": 221560,
+      "word": "巴菲特抄底日本股市已赚700亿",
+      "onboard_time": 1713610158,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 219870,
@@ -1155,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194814,
+      "num": 167094,
+      "word": "蚂蚁吃空了整个棒棒糖",
+      "onboard_time": 1713612197,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193734,
       "num": 193734,
       "word": "蒲熠星给自己的生日礼物",
@@ -1209,14 +1273,6 @@
       "onboard_time": 1713574875,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190753,
-      "num": 190753,
-      "word": "凤凰传奇演唱会",
-      "onboard_time": 1713610338,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 189336,
@@ -1313,14 +1369,6 @@
       "onboard_time": 1713606257,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181545,
-      "num": 181545,
-      "word": "巴菲特抄底日本股市已赚700亿",
-      "onboard_time": 1713610158,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 181409,
@@ -1443,14 +1491,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 170376,
-      "num": 170376,
-      "word": "TES 人机",
-      "onboard_time": 1713611598,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 170277,
       "num": 170277,
       "word": "宋雨琦Minnie隔空联动",
@@ -1483,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165431,
+      "num": 165431,
+      "word": "阿姨在周杰伦演唱会上睡着",
+      "onboard_time": 1713611478,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164656,
       "num": 164656,
       "word": "eStar锁定败者组",
@@ -1499,6 +1547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 164463,
+      "num": 164463,
+      "word": "蔡文静刘惜君参加过同一届超女",
+      "onboard_time": 1713611177,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164445,
       "num": 164444,
       "word": "这和上岸有什么区别",
@@ -1513,14 +1569,6 @@
       "onboard_time": 1713573197,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 161777,
-      "num": 161777,
-      "word": "蔡文静刘惜君参加过同一届超女",
-      "onboard_time": 1713611177,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 159796,
@@ -1569,6 +1617,14 @@
       "onboard_time": 1713602657,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155961,
+      "num": 155961,
+      "word": "蔡依林演唱会",
+      "onboard_time": 1713612257,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 155126,
@@ -1659,6 +1715,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 146347,
+      "num": 146347,
+      "word": "追星让我整个人变得鲜活了",
+      "onboard_time": 1713612077,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145985,
       "num": 145985,
       "word": "ILLIT出道曲获音中一位",
@@ -1707,14 +1771,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 142655,
-      "num": 142655,
-      "word": "阿姨在周杰伦演唱会上睡着",
-      "onboard_time": 1713611478,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 142451,
       "num": 142451,
       "word": "以为是肠胃小毛病没想到是癌症",
@@ -1729,6 +1785,14 @@
       "onboard_time": 1713602597,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140906,
+      "num": 140906,
+      "word": "中国男子三大球无缘巴黎奥运",
+      "onboard_time": 1713611417,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 140227,
@@ -1777,6 +1841,14 @@
       "onboard_time": 1713580518,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136895,
+      "num": 136895,
+      "word": "为什么现在越来越难谈恋爱了",
+      "onboard_time": 1713612737,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 136389,
@@ -1905,14 +1977,6 @@
       "onboard_time": 1713595878,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127202,
-      "num": 127202,
-      "word": "中国男子三大球无缘巴黎奥运",
-      "onboard_time": 1713611417,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 127090,
@@ -2257,6 +2321,14 @@
       "onboard_time": 1713598217,
       "rank": 46,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 99823,
+      "num": 99823,
+      "word": "乒乓球",
+      "onboard_time": 1713612796,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99324,

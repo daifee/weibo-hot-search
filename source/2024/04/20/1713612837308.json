@@ -1,0 +1,410 @@
+{
+  "runTime": 1713612837308,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 919285,
+        "num": 919285,
+        "word": "马琳",
+        "onboard_time": 1713610937,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 677810,
+        "num": 677810,
+        "word": "孙艺洲吕布众望所归",
+        "onboard_time": 1713609317,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51103,
+        "num": 640335,
+        "word": "中国互联网三十而立再出发",
+        "onboard_time": 1713601640,
+        "rank": 2,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 634098,
+        "num": 634098,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1713609797,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553444,
+        "num": 553444,
+        "word": "张亮华晨宇李晨",
+        "onboard_time": 1713608237,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523822,
+        "num": 523822,
+        "word": "放学等我",
+        "onboard_time": 1713609679,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 491213,
+        "num": 491213,
+        "word": "TES 人机",
+        "onboard_time": 1713611598,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 400085,
+        "num": 400085,
+        "word": "张艺兴说和EXO一直有联系",
+        "onboard_time": 1713608716,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107727,
+        "num": 392099,
+        "word": "吴纯圆小朋友被消防叔叔点名表扬",
+        "onboard_time": 1713606617,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300334,
+        "num": 391455,
+        "word": "小奶狗被打碎下巴女子坚持送医救治",
+        "onboard_time": 1713599717,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874615,
+        "num": 379706,
+        "word": "央媒发文放假绝不是假放",
+        "onboard_time": 1713593657,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793377,
+        "num": 375492,
+        "word": "湖南失踪15岁男孩遗体已找到",
+        "onboard_time": 1713610878,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740797,
+        "num": 362126,
+        "word": "徐志胜女朋友",
+        "onboard_time": 1713597678,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 529798,
+        "num": 357325,
+        "word": "张云龙提醒鹿晗",
+        "onboard_time": 1713606917,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351726,
+        "num": 351726,
+        "word": "医院通报门诊大楼男子坠楼事件",
+        "onboard_time": 1713610637,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307094,
+        "num": 307094,
+        "word": "向佐不信孙丞潇是金莎男朋友",
+        "onboard_time": 1713609497,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291178,
+        "num": 291178,
+        "word": "王曼昱晋级澳门世界杯决赛",
+        "onboard_time": 1713612497,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238534,
+        "num": 238534,
+        "word": "开推2有迪丽热巴",
+        "onboard_time": 1713611837,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321976,
+        "num": 236730,
+        "word": "鹿晗回复关晓彤好宠",
+        "onboard_time": 1713574397,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229150,
+        "num": 229150,
+        "word": "凤凰传奇演唱会",
+        "onboard_time": 1713610338,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 221560,
+        "num": 221560,
+        "word": "巴菲特抄底日本股市已赚700亿",
+        "onboard_time": 1713610158,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215704,
+        "num": 215704,
+        "word": "浪姐5搞得王霏霏好忙",
+        "onboard_time": 1713607217,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143572,
+        "num": 209890,
+        "word": "我们仨旅行舒适度拉满了",
+        "onboard_time": 1713607398,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204937,
+        "num": 204937,
+        "word": "BLG对战TES",
+        "onboard_time": 1713606499,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70723,
+        "num": 203114,
+        "word": "二次元圣地巡礼",
+        "onboard_time": 1713609857,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202866,
+        "num": 202866,
+        "word": "陈昊宇 黑马",
+        "onboard_time": 1713593118,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197162,
+        "num": 197162,
+        "word": "花27万彩礼订婚准新娘十余天后自杀身亡",
+        "onboard_time": 1713587477,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194767,
+        "num": 194767,
+        "word": "Jennie一口气发了20张图",
+        "onboard_time": 1713603678,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190226,
+        "num": 190226,
+        "word": "只有Miss选了郭碧婷",
+        "onboard_time": 1713594558,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170118,
+        "num": 170118,
+        "word": "中央财经大学多名学生吐槽800米体测",
+        "onboard_time": 1713599298,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 258537,
+        "num": 168177,
+        "word": "锦瑟 抢不到",
+        "onboard_time": 1713612257,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194814,
+        "num": 167094,
+        "word": "蚂蚁吃空了整个棒棒糖",
+        "onboard_time": 1713612197,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172000,
+        "num": 166388,
+        "word": "邓超臀部翘到顶起一个鹿晗",
+        "onboard_time": 1713610217,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165431,
+        "num": 165431,
+        "word": "阿姨在周杰伦演唱会上睡着",
+        "onboard_time": 1713611478,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151104,
+        "num": 164664,
+        "word": "无意识却伤害子宫的6个行为",
+        "onboard_time": 1713605536,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164463,
+        "num": 164463,
+        "word": "蔡文静刘惜君参加过同一届超女",
+        "onboard_time": 1713611177,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155961,
+        "num": 155961,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1713612257,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150225,
+        "num": 150225,
+        "word": "原来聊天搭子也是一种精神寄托",
+        "onboard_time": 1713602237,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147151,
+        "num": 147151,
+        "word": "张予曦你多高啊我33啊",
+        "onboard_time": 1713591437,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146347,
+        "num": 146347,
+        "word": "追星让我整个人变得鲜活了",
+        "onboard_time": 1713612077,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140906,
+        "num": 140906,
+        "word": "中国男子三大球无缘巴黎奥运",
+        "onboard_time": 1713611417,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136895,
+        "num": 136895,
+        "word": "为什么现在越来越难谈恋爱了",
+        "onboard_time": 1713612737,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128822,
+        "num": 128822,
+        "word": "张杰演唱会闪现杭州地铁站",
+        "onboard_time": 1713607758,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119133,
+        "num": 119133,
+        "word": "花少聚会没有迪丽热巴",
+        "onboard_time": 1713596477,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117440,
+        "num": 117440,
+        "word": "西安地铁",
+        "onboard_time": 1713606317,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115484,
+        "num": 115484,
+        "word": "官方通报西安地铁试车事故",
+        "onboard_time": 1713603858,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113974,
+        "num": 113974,
+        "word": "徐明浩挑战了张元英转圈",
+        "onboard_time": 1713603497,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113720,
+        "num": 113720,
+        "word": "66升油箱加出67升油车主报警",
+        "onboard_time": 1713599058,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 112215,
+        "num": 112215,
+        "word": "张颂文拍的南京中山陵梧桐大道",
+        "onboard_time": 1713606257,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99823,
+        "num": 99823,
+        "word": "乒乓球",
+        "onboard_time": 1713612796,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联网日益成为推动发展的新动能#"
+    }
+  }
+}

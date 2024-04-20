@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713611691739,
+  "endTime": 1713612837308,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -4811,6 +4811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 919285,
+      "num": 919285,
+      "word": "马琳",
+      "onboard_time": 1713610937,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 919277,
       "num": 896381,
       "word": "赵丽颖王伊瑶友情",
@@ -6233,6 +6241,14 @@
       "onboard_time": 1712582179,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 793377,
+      "num": 375492,
+      "word": "湖南失踪15岁男孩遗体已找到",
+      "onboard_time": 1713610878,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 793108,
@@ -8129,6 +8145,14 @@
       "onboard_time": 1711978280,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 677810,
+      "num": 677810,
+      "word": "孙艺洲吕布众望所归",
+      "onboard_time": 1713609317,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 676112,
@@ -10899,6 +10923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 553444,
+      "num": 553444,
+      "word": "张亮华晨宇李晨",
+      "onboard_time": 1713608237,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553216,
       "num": 531060,
       "word": "警方通报11岁女孩独自外出后未归",
@@ -11555,6 +11587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529798,
+      "num": 357325,
+      "word": "张云龙提醒鹿晗",
+      "onboard_time": 1713606917,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 529325,
       "num": 529325,
       "word": "东部战区回应美军机过航台湾海峡",
@@ -11785,6 +11825,14 @@
       "onboard_time": 1713601576,
       "rank": 20,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 523822,
+      "num": 523822,
+      "word": "放学等我",
+      "onboard_time": 1713609679,
+      "rank": 6,
+      "category": "网红"
     },
     {
       "raw_hot": 523695,
@@ -12147,14 +12195,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 512788,
-      "num": 512788,
-      "word": "张亮华晨宇李晨",
-      "onboard_time": 1713608237,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 512514,
       "num": 512514,
       "word": "豹豹猫猫",
@@ -12473,14 +12513,6 @@
       "onboard_time": 1712469618,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 503081,
-      "num": 503081,
-      "word": "孙艺洲吕布众望所归",
-      "onboard_time": 1713609317,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 503022,
@@ -12883,6 +12915,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 491213,
+      "num": 491213,
+      "word": "TES 人机",
+      "onboard_time": 1713611598,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 491138,
       "num": 345991,
       "word": "胡锡进希望社会给虐猫考生其他通道",
@@ -13185,14 +13225,6 @@
       "onboard_time": 1712454797,
       "rank": 10,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 482569,
-      "num": 482569,
-      "word": "放学等我",
-      "onboard_time": 1713609679,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 482096,
@@ -16211,14 +16243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 404575,
-      "num": 404575,
-      "word": "马琳",
-      "onboard_time": 1713610937,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 404120,
       "num": 404120,
       "word": "李沁西装裙",
@@ -18403,14 +18427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 356296,
-      "num": 356296,
-      "word": "湖南失踪15岁男孩遗体已找到",
-      "onboard_time": 1713610878,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356259,
       "num": 340272,
       "word": "眼泪女王男二",
@@ -18665,6 +18681,14 @@
       "onboard_time": 1713446479,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 351726,
+      "num": 351726,
+      "word": "医院通报门诊大楼男子坠楼事件",
+      "onboard_time": 1713610637,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351690,
@@ -21219,6 +21243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307094,
+      "num": 307094,
+      "word": "向佐不信孙丞潇是金莎男朋友",
+      "onboard_time": 1713609497,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307040,
       "num": 307040,
       "word": "她可是万妮达",
@@ -22187,14 +22219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292937,
-      "num": 292937,
-      "word": "医院通报门诊大楼男子坠楼事件",
-      "onboard_time": 1713610637,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292932,
       "num": 266655,
       "word": "衣服买一件两百的还是五件四十的",
@@ -22361,6 +22385,14 @@
       "onboard_time": 1713081259,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 291178,
+      "num": 291178,
+      "word": "王曼昱晋级澳门世界杯决赛",
+      "onboard_time": 1713612497,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 291118,
@@ -23867,14 +23899,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 269785,
-      "num": 269785,
-      "word": "向佐不信孙丞潇是金莎男朋友",
-      "onboard_time": 1713609497,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 269775,
       "num": 243030,
       "word": "白鹿cos朱迪兔警官",
@@ -24833,6 +24857,14 @@
       "onboard_time": 1712503099,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 258537,
+      "num": 168177,
+      "word": "锦瑟 抢不到",
+      "onboard_time": 1713612257,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 258523,
@@ -26963,6 +26995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238534,
+      "num": 238534,
+      "word": "开推2有迪丽热巴",
+      "onboard_time": 1713611837,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238511,
       "num": 238511,
       "word": "智己错误标注小米SU7参数",
@@ -27971,6 +28011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229150,
+      "num": 229150,
+      "word": "凤凰传奇演唱会",
+      "onboard_time": 1711948105,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 229122,
       "num": 229122,
       "word": "汕头震感",
@@ -28841,6 +28889,14 @@
       "onboard_time": 1713065178,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 221560,
+      "num": 221560,
+      "word": "巴菲特抄底日本股市已赚700亿",
+      "onboard_time": 1713610158,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 221482,
@@ -33499,14 +33555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 196954,
-      "num": 196954,
-      "word": "凤凰传奇演唱会",
-      "onboard_time": 1711948105,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 196851,
       "num": 196851,
       "word": "沈璃看不见vs紫薇看不见",
@@ -34001,6 +34049,14 @@
       "onboard_time": 1712455817,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 194814,
+      "num": 167094,
+      "word": "蚂蚁吃空了整个棒棒糖",
+      "onboard_time": 1713612197,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 194788,
@@ -37291,14 +37347,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 181545,
-      "num": 181545,
-      "word": "巴菲特抄底日本股市已赚700亿",
-      "onboard_time": 1713610158,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 181487,
       "num": 181487,
       "word": "白敬亭难哄校服路透",
@@ -39475,14 +39523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170376,
-      "num": 170376,
-      "word": "TES 人机",
-      "onboard_time": 1713611598,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 170361,
       "num": 170361,
       "word": "王楚钦打篮球",
@@ -40411,6 +40451,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 165431,
+      "num": 165431,
+      "word": "阿姨在周杰伦演唱会上睡着",
+      "onboard_time": 1713611478,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165351,
       "num": 165351,
       "word": "星穹铁道砂金 星旅一瞬",
@@ -40609,6 +40657,14 @@
       "onboard_time": 1713530178,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164463,
+      "num": 164463,
+      "word": "蔡文静刘惜君参加过同一届超女",
+      "onboard_time": 1713611177,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 164445,
@@ -41161,14 +41217,6 @@
       "onboard_time": 1712128762,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161777,
-      "num": 161777,
-      "word": "蔡文静刘惜君参加过同一届超女",
-      "onboard_time": 1713611177,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 161769,
@@ -42361,6 +42409,14 @@
       "onboard_time": 1712728399,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155961,
+      "num": 155961,
+      "word": "蔡依林演唱会",
+      "onboard_time": 1713612257,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 155956,
@@ -44819,6 +44875,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 146347,
+      "num": 146347,
+      "word": "追星让我整个人变得鲜活了",
+      "onboard_time": 1713612077,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146346,
       "num": 155419,
       "word": "有头部券商融券池全部收回",
@@ -45699,14 +45763,6 @@
       "category": "电竞,网红"
     },
     {
-      "raw_hot": 142655,
-      "num": 142655,
-      "word": "阿姨在周杰伦演唱会上睡着",
-      "onboard_time": 1713611478,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 142600,
       "num": 142600,
       "word": "何冰娇锁定国羽女单奥运名额",
@@ -46065,6 +46121,14 @@
       "onboard_time": 1712277617,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140906,
+      "num": 140906,
+      "word": "中国男子三大球无缘巴黎奥运",
+      "onboard_time": 1713611417,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 140656,
@@ -46881,6 +46945,14 @@
       "onboard_time": 1712624720,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136895,
+      "num": 136895,
+      "word": "为什么现在越来越难谈恋爱了",
+      "onboard_time": 1713612737,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 136817,
@@ -48681,14 +48753,6 @@
       "onboard_time": 1713270680,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 127202,
-      "num": 127202,
-      "word": "中国男子三大球无缘巴黎奥运",
-      "onboard_time": 1713611417,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 127103,
@@ -52201,6 +52265,14 @@
       "onboard_time": 1712374277,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 99823,
+      "num": 99823,
+      "word": "乒乓球",
+      "onboard_time": 1713612796,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99819,
