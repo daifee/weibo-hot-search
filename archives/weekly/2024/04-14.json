@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713608294462,
+  "endTime": 1713609348174,
   "band_list": [
     {
       "raw_hot": 3897392,
@@ -1931,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 794714,
+      "num": 794714,
+      "word": "考上北大妈妈的反应却让我很难受",
+      "onboard_time": 1713605536,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 793108,
       "num": 793108,
       "word": "只有Miss选了郭碧婷",
@@ -2608,14 +2616,6 @@
       "word": "弟弟都亲了一夜承明你们呢",
       "onboard_time": 1713541699,
       "rank": 1,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 676162,
-      "num": 676162,
-      "word": "考上北大妈妈的反应却让我很难受",
-      "onboard_time": 1713605536,
-      "rank": 39,
       "category": "情感"
     },
     {
@@ -4081,6 +4081,14 @@
       "onboard_time": 1713415040,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499084,
+      "num": 499084,
+      "word": "张云龙提醒鹿晗还有裤衩",
+      "onboard_time": 1713606917,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 498904,
@@ -5699,14 +5707,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 380272,
-      "num": 380272,
-      "word": "张云龙提醒鹿晗还有裤衩",
-      "onboard_time": 1713606917,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 379001,
       "num": 379001,
       "word": "梁靖崑vs安东",
@@ -6177,6 +6177,14 @@
       "onboard_time": 1713362059,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 356431,
+      "num": 356431,
+      "word": "张艺兴说和EXO一直有联系",
+      "onboard_time": 1713608716,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 355916,
@@ -7323,6 +7331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297866,
+      "num": 297866,
+      "word": "张亮华晨宇李晨",
+      "onboard_time": 1713608237,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297809,
       "num": 297809,
       "word": "孙颖莎说困难时就拼呗顶呗",
@@ -7384,6 +7400,14 @@
       "word": "苗苗跳舞在发光",
       "onboard_time": 1713506538,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 293055,
+      "num": 293055,
+      "word": "浪姐5搞得王霏霏好忙",
+      "onboard_time": 1713607217,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -9979,14 +10003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211979,
-      "num": 211979,
-      "word": "浪姐5搞得王霏霏好忙",
-      "onboard_time": 1713607217,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211927,
       "num": 211927,
       "word": "沈星回温软怦然",
@@ -10939,6 +10955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198702,
+      "num": 193586,
+      "word": "张杰演唱会闪现杭州地铁站",
+      "onboard_time": 1713607758,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198613,
       "num": 198613,
       "word": "萌探2024私自改衣服",
@@ -11121,6 +11145,14 @@
       "onboard_time": 1713593719,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196720,
+      "num": 196720,
+      "word": "周冠宇比赛",
+      "onboard_time": 1713608237,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 196477,
@@ -11851,14 +11883,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 187676,
-      "num": 187676,
-      "word": "张杰演唱会闪现杭州地铁站",
-      "onboard_time": 1713607758,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 187608,
       "num": 187608,
       "word": "让你一瞬间想分手的小事",
@@ -12572,7 +12596,7 @@
     },
     {
       "raw_hot": 178044,
-      "num": 207183,
+      "num": 329145,
       "word": "我们仨旅行舒适度拉满了",
       "onboard_time": 1713607398,
       "rank": 25,
@@ -13811,6 +13835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160947,
+      "num": 160947,
+      "word": "无意识却伤害子宫的6个行为",
+      "onboard_time": 1713605536,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 160848,
       "num": 160848,
       "word": "上海海港4比3山东泰山",
@@ -14857,14 +14889,6 @@
       "onboard_time": 1713409278,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149027,
-      "num": 149027,
-      "word": "无意识却伤害子宫的6个行为",
-      "onboard_time": 1713605536,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 148989,
@@ -15939,6 +15963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136428,
+      "num": 136428,
+      "word": "孙艺洲吕布众望所归",
+      "onboard_time": 1713609317,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136404,
       "num": 789624,
       "word": "今天是第九个全民国家安全教育日",
@@ -15961,6 +15993,14 @@
       "onboard_time": 1713536299,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136159,
+      "num": 127997,
+      "word": "林更新婉拒林狗",
+      "onboard_time": 1713605777,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 136021,
@@ -16337,6 +16377,14 @@
       "onboard_time": 1713579976,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130974,
+      "num": 130974,
+      "word": "毛血旺为啥姓毛",
+      "onboard_time": 1713608417,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 130962,
@@ -16819,14 +16867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123178,
-      "num": 123178,
-      "word": "林更新婉拒林狗",
-      "onboard_time": 1713605777,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 123110,
       "num": 115636,
       "word": "酱园弄",
@@ -17089,6 +17129,14 @@
       "onboard_time": 1713456677,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 119736,
+      "num": 119736,
+      "word": "为什么很多公司要求取花名",
+      "onboard_time": 1713609138,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 119689,
@@ -17443,14 +17491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113318,
-      "num": 113318,
-      "word": "周冠宇比赛",
-      "onboard_time": 1713608237,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113279,
       "num": 113279,
       "word": "NBA",
@@ -17787,6 +17827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106259,
+      "num": 369370,
+      "word": "吴纯圆小朋友被消防叔叔点名表扬",
+      "onboard_time": 1713606617,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106072,
       "num": 113565,
       "word": "为什么会有人觉得不应该要彩礼",
@@ -17873,14 +17921,6 @@
       "onboard_time": 1713406757,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 103929,
-      "num": 103929,
-      "word": "张亮华晨宇李晨",
-      "onboard_time": 1713608237,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 103912,
@@ -18417,14 +18457,6 @@
       "onboard_time": 1713287353,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85308,
-      "num": 369370,
-      "word": "吴纯圆小朋友被消防叔叔点名表扬",
-      "onboard_time": 1713606617,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84794,
