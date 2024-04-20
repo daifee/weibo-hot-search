@@ -1,6 +1,6 @@
 {
   "startTime": 1713543834648,
-  "endTime": 1713594084720,
+  "endTime": 1713594982450,
   "band_list": [
     {
       "raw_hot": 2200058,
@@ -83,20 +83,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 973966,
+      "num": 973966,
+      "word": "韩国人泰国泼水节被抓谎称是中国人",
+      "onboard_time": 1713591497,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 946125,
       "num": 946125,
       "word": "张予曦你多高啊我33啊",
       "onboard_time": 1713591437,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 869623,
-      "num": 869623,
-      "word": "韩国人泰国泼水节被抓谎称是中国人",
-      "onboard_time": 1713591497,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 864784,
@@ -120,6 +120,14 @@
       "word": "侯雯元曝刘耀文睡觉踢人",
       "onboard_time": 1713574578,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 711041,
+      "num": 711041,
+      "word": "陈昊宇 黑马",
+      "onboard_time": 1713593118,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -179,7 +187,15 @@
       "category": "情感"
     },
     {
-      "raw_hot": 583122,
+      "raw_hot": 592783,
+      "num": 592783,
+      "word": "央媒发文放假绝不是假放",
+      "onboard_time": 1713593657,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588331,
       "num": 245734,
       "word": "闲鱼现大量转卖SU7创始车型订单",
       "onboard_time": 1713590657,
@@ -259,14 +275,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 509873,
-      "num": 509873,
-      "word": "陈昊宇 黑马",
-      "onboard_time": 1713593118,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 504178,
       "num": 352739,
       "word": "周扬青回应rap疑似内涵罗志祥",
@@ -329,6 +337,14 @@
       "onboard_time": 1713537978,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 437454,
+      "num": 437454,
+      "word": "金价暴涨后线上金店拒发货",
+      "onboard_time": 1713593417,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 424318,
@@ -443,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 343621,
+      "num": 343621,
+      "word": "章子怡章泽天活动状态",
+      "onboard_time": 1713592698,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 329505,
       "num": 329505,
       "word": "范丞丞为了讨好宋雨琦跳fate",
@@ -465,6 +489,14 @@
       "onboard_time": 1713538999,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 307939,
+      "num": 307939,
+      "word": "中国游客涌入日本扫货",
+      "onboard_time": 1713593778,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306095,
@@ -505,14 +537,6 @@
       "onboard_time": 1713577518,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 297616,
-      "num": 297616,
-      "word": "章子怡章泽天活动状态",
-      "onboard_time": 1713592698,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 284656,
@@ -675,12 +699,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210713,
+      "num": 198955,
+      "word": "易建联发博为鹿晗庆生",
+      "onboard_time": 1713594198,
+      "rank": 23,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 206321,
       "num": 206321,
       "word": "林俊杰F1颁奖嘉宾",
       "onboard_time": 1713586458,
       "rank": 28,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 204688,
+      "num": 204688,
+      "word": "女演员涉案被警方逮捕",
+      "onboard_time": 1713594558,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 204281,
@@ -739,6 +779,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195912,
+      "num": 195912,
+      "word": "陈丽君陈昊宇双向奔赴",
+      "onboard_time": 1713593357,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 195460,
+      "num": 195460,
+      "word": "只有Miss选了郭碧婷",
+      "onboard_time": 1713594558,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193734,
       "num": 193734,
       "word": "蒲熠星给自己的生日礼物",
@@ -753,6 +809,14 @@
       "onboard_time": 1713587178,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191694,
+      "num": 191694,
+      "word": "时团 抢到了",
+      "onboard_time": 1713594558,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 191469,
@@ -803,14 +867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187817,
-      "num": 187817,
-      "word": "陈丽君陈昊宇双向奔赴",
-      "onboard_time": 1713593357,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187423,
       "num": 182167,
       "word": "周扬青亚裔混血感",
@@ -825,14 +881,6 @@
       "onboard_time": 1713583759,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184330,
-      "num": 206489,
-      "word": "金价暴涨后线上金店拒发货",
-      "onboard_time": 1713593417,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 182170,
@@ -873,22 +921,6 @@
       "onboard_time": 1713530958,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175669,
-      "num": 175669,
-      "word": "中国游客涌入日本扫货",
-      "onboard_time": 1713593778,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175344,
-      "num": 175344,
-      "word": "央媒发文放假绝不是假放",
-      "onboard_time": 1713593657,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174443,
@@ -939,12 +971,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166125,
+      "num": 166125,
+      "word": "增加法定节假日并非没有可能",
+      "onboard_time": 1713593896,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163300,
       "num": 163300,
       "word": "小狗会在主人摸它时提前把耳朵放下",
       "onboard_time": 1713573197,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159796,
+      "num": 159796,
+      "word": "多部门回应西安地铁发生事故",
+      "onboard_time": 1713593719,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156994,
@@ -977,6 +1025,14 @@
       "onboard_time": 1713593118,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 149398,
+      "num": 149398,
+      "word": "盯紧带薪休假制度有无真正落实",
+      "onboard_time": 1713594617,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148915,
@@ -1017,6 +1073,14 @@
       "onboard_time": 1713579258,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 145283,
+      "num": 145283,
+      "word": "郭碧婷浪姐一公舞台队长",
+      "onboard_time": 1713594077,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 145142,
@@ -1179,6 +1243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126542,
+      "num": 126542,
+      "word": "张凌赫徐若晗偶像剧吻戏",
+      "onboard_time": 1713594857,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125465,
       "num": 125465,
       "word": "林高远4比2樊振东",
@@ -1193,6 +1265,14 @@
       "onboard_time": 1713589577,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 125118,
+      "num": 125118,
+      "word": "被自己的原生家庭气笑了",
+      "onboard_time": 1713594377,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 124640,
@@ -1259,14 +1339,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 114029,
-      "num": 114029,
-      "word": "多部门回应西安地铁发生事故",
-      "onboard_time": 1713593719,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113714,
       "num": 99362,
       "word": "杨紫方回应粉丝造型意见",
@@ -1313,14 +1385,6 @@
       "onboard_time": 1713553631,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 109405,
-      "num": 109405,
-      "word": "增加法定节假日并非没有可能",
-      "onboard_time": 1713593896,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105237,

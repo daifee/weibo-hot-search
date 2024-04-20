@@ -1,0 +1,410 @@
+{
+  "runTime": 1713594982450,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1323053,
+        "num": 1323053,
+        "word": "花27万彩礼订婚准新娘十余天后自杀身亡",
+        "onboard_time": 1713587477,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 973966,
+        "num": 973966,
+        "word": "韩国人泰国泼水节被抓谎称是中国人",
+        "onboard_time": 1713591497,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33283,
+        "num": 947814,
+        "word": "耕韵有时岁岁新",
+        "onboard_time": 1713582016,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 935919,
+        "num": 935919,
+        "word": "张予曦你多高啊我33啊",
+        "onboard_time": 1713591437,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 711041,
+        "num": 711041,
+        "word": "陈昊宇 黑马",
+        "onboard_time": 1713593118,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 694074,
+        "num": 694074,
+        "word": "台湾一对情侣吵架女子跳车身亡",
+        "onboard_time": 1713588438,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592783,
+        "num": 592783,
+        "word": "央媒发文放假绝不是假放",
+        "onboard_time": 1713593657,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567064,
+        "num": 567064,
+        "word": "韦神复出",
+        "onboard_time": 1713585738,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 538153,
+        "num": 538153,
+        "word": "女性排卵时身体会有5种改变",
+        "onboard_time": 1713578237,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92938,
+        "num": 495969,
+        "word": "福宝有多爱吃家乡饭",
+        "onboard_time": 1713573917,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838637,
+        "num": 492957,
+        "word": "鹿晗回复关晓彤好宠",
+        "onboard_time": 1713574397,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377724,
+        "num": 483872,
+        "word": "时代少年团演唱会 抢票",
+        "onboard_time": 1713588976,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 459329,
+        "num": 459329,
+        "word": "王安宇问秦海璐姐夫在吗",
+        "onboard_time": 1713592096,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437454,
+        "num": 437454,
+        "word": "金价暴涨后线上金店拒发货",
+        "onboard_time": 1713593417,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 397104,
+        "num": 397104,
+        "word": "10个韩国人去吃饭点了两个菜",
+        "onboard_time": 1713586158,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 343621,
+        "num": 343621,
+        "word": "章子怡章泽天活动状态",
+        "onboard_time": 1713592698,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 307939,
+        "num": 307939,
+        "word": "中国游客涌入日本扫货",
+        "onboard_time": 1713593778,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238678,
+        "num": 238678,
+        "word": "魏嬿婉 进忠",
+        "onboard_time": 1713584298,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216046,
+        "num": 216046,
+        "word": "鹿晗关晓彤好好嗑",
+        "onboard_time": 1713571637,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210240,
+        "num": 210240,
+        "word": "青春环游记",
+        "onboard_time": 1713588857,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588331,
+        "num": 207781,
+        "word": "闲鱼现大量转卖SU7创始车型订单",
+        "onboard_time": 1713590657,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204688,
+        "num": 204688,
+        "word": "女演员涉案被警方逮捕",
+        "onboard_time": 1713594558,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200578,
+        "num": 200578,
+        "word": "王琳 中年顾里",
+        "onboard_time": 1713590118,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210713,
+        "num": 198955,
+        "word": "易建联发博为鹿晗庆生",
+        "onboard_time": 1713594198,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 178068,
+        "num": 196111,
+        "word": "被小猫冷暴力了三年",
+        "onboard_time": 1713586217,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195912,
+        "num": 195912,
+        "word": "陈丽君陈昊宇双向奔赴",
+        "onboard_time": 1713593357,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195460,
+        "num": 195460,
+        "word": "只有Miss选了郭碧婷",
+        "onboard_time": 1713594558,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191694,
+        "num": 191694,
+        "word": "时团 抢到了",
+        "onboard_time": 1713594558,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193596,
+        "num": 190784,
+        "word": "时团 特权码",
+        "onboard_time": 1713593719,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166125,
+        "num": 166125,
+        "word": "增加法定节假日并非没有可能",
+        "onboard_time": 1713593896,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211182,
+        "num": 165455,
+        "word": "周扬青回应rap疑似内涵罗志祥",
+        "onboard_time": 1713578538,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163944,
+        "num": 163944,
+        "word": "魏嬿婉孩子",
+        "onboard_time": 1713592037,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159796,
+        "num": 159796,
+        "word": "多部门回应西安地铁发生事故",
+        "onboard_time": 1713593719,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149398,
+        "num": 149398,
+        "word": "盯紧带薪休假制度有无真正落实",
+        "onboard_time": 1713594617,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146494,
+        "num": 146494,
+        "word": "中国政府新援助加沙的两批物资运抵埃及",
+        "onboard_time": 1713593118,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 150825,
+        "num": 146095,
+        "word": "贝克街的亡灵 22年前的动画",
+        "onboard_time": 1713578538,
+        "rank": 35,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 145283,
+        "num": 145283,
+        "word": "郭碧婷浪姐一公舞台队长",
+        "onboard_time": 1713594077,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138338,
+        "num": 138338,
+        "word": "TFBOYS为王俊凯宣传新综艺",
+        "onboard_time": 1713586697,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136164,
+        "num": 136164,
+        "word": "花6万多考公上岸值吗",
+        "onboard_time": 1713576798,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134312,
+        "num": 134312,
+        "word": "我要求我女儿休学了一年",
+        "onboard_time": 1713571757,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130125,
+        "num": 130125,
+        "word": "蔡文静美声",
+        "onboard_time": 1713593118,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129491,
+        "num": 129491,
+        "word": "真情侣",
+        "onboard_time": 1713580335,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126542,
+        "num": 126542,
+        "word": "张凌赫徐若晗偶像剧吻戏",
+        "onboard_time": 1713594857,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125508,
+        "num": 125508,
+        "word": "恶犬疑似狂犬病发作咬伤路人后倒地",
+        "onboard_time": 1713579736,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125118,
+        "num": 125118,
+        "word": "被自己的原生家庭气笑了",
+        "onboard_time": 1713594377,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122608,
+        "num": 122608,
+        "word": "广西一医院内有男子跳楼",
+        "onboard_time": 1713592817,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121874,
+        "num": 121874,
+        "word": "调休原则是最小干预",
+        "onboard_time": 1713579196,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111246,
+        "num": 111246,
+        "word": "中医建议让五官好看的六个动作",
+        "onboard_time": 1713578237,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107597,
+        "num": 107597,
+        "word": "徐志胜投资一次丢脸一辈子",
+        "onboard_time": 1713581056,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95656,
+        "num": 107386,
+        "word": "美国再次发生自焚事件",
+        "onboard_time": 1713584177,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人民解放军信息支援部队成立#"
+    }
+  }
+}
