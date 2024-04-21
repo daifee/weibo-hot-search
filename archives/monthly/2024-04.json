@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713691105296,
+  "endTime": 1713692058719,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -225,6 +225,14 @@
       "onboard_time": 1711944082,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2868617,
+      "num": 2868617,
+      "word": "周冠宇哭了",
+      "onboard_time": 1713690258,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2799841,
@@ -1457,14 +1465,6 @@
       "onboard_time": 1713052756,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1597311,
-      "num": 1597311,
-      "word": "周冠宇哭了",
-      "onboard_time": 1713690258,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1594363,
@@ -9139,6 +9139,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 641389,
+      "num": 392846,
+      "word": "郑恺看苗苗的眼里全是宠溺",
+      "onboard_time": 1713688697,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 640961,
       "num": 687494,
       "word": "福宝大口吃胡萝卜声音嘎嘣脆",
@@ -9369,6 +9377,14 @@
       "onboard_time": 1712461700,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 628494,
+      "num": 628494,
+      "word": "两人维保电梯一人竟是纸片人",
+      "onboard_time": 1713687199,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 628425,
@@ -11603,14 +11619,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 545626,
-      "num": 392846,
-      "word": "郑恺看苗苗的眼里全是宠溺",
-      "onboard_time": 1713688697,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 545600,
       "num": 545600,
       "word": "张小斐表情 真的心疼",
@@ -11696,6 +11704,14 @@
       "word": "魏大勋裴秀智合影旧照",
       "onboard_time": 1712907019,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 542925,
+      "num": 287750,
+      "word": "张艺兴朴灿烈连线",
+      "onboard_time": 1713691339,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -16585,14 +16601,6 @@
       "onboard_time": 1712885540,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 414673,
-      "num": 373908,
-      "word": "两人维保电梯一人竟是纸片人",
-      "onboard_time": 1713687199,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 414453,
@@ -23083,6 +23091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294430,
+      "num": 405495,
+      "word": "周冠宇说国旗一直是我的动力",
+      "onboard_time": 1713684558,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294315,
       "num": 294315,
       "word": "浪姐后期 尚雯婕超女梗",
@@ -24801,6 +24817,14 @@
       "onboard_time": 1712826798,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 271334,
+      "num": 271334,
+      "word": "ILLIT第八个一位",
+      "onboard_time": 1713690378,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 271327,
@@ -27347,6 +27371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244761,
+      "num": 244761,
+      "word": "蔡文静求别扒了",
+      "onboard_time": 1713689178,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244579,
       "num": 244579,
       "word": "中国黄金回应上亿元托管黄金消失",
@@ -27761,14 +27793,6 @@
       "onboard_time": 1712552181,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241153,
-      "num": 241153,
-      "word": "蔡文静求别扒了",
-      "onboard_time": 1713689178,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 241131,
@@ -28361,14 +28385,6 @@
       "onboard_time": 1713016039,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 235916,
-      "num": 405495,
-      "word": "周冠宇说国旗一直是我的动力",
-      "onboard_time": 1713684558,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 235862,
@@ -29553,6 +29569,14 @@
       "onboard_time": 1712816239,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 226245,
+      "num": 226245,
+      "word": "女生把健身当摸鱼一月瘦10斤",
+      "onboard_time": 1713691638,
+      "rank": 26,
+      "category": "运动健身"
     },
     {
       "raw_hot": 226215,
@@ -35835,6 +35859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193567,
+      "num": 193567,
+      "word": "周冠宇第14名",
+      "onboard_time": 1713691339,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193533,
       "num": 193533,
       "word": "山东泰山2比2河南队",
@@ -36585,14 +36617,6 @@
       "onboard_time": 1712125341,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 191068,
-      "num": 244612,
-      "word": "ILLIT第八个一位",
-      "onboard_time": 1713690378,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 191016,
@@ -43323,6 +43347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160597,
+      "num": 286632,
+      "word": "Pura70亮相赛车摄影专用席",
+      "onboard_time": 1713690798,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 160529,
       "num": 163712,
       "word": "重返未来1999",
@@ -44251,6 +44283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 156547,
+      "num": 156547,
+      "word": "徐子未音乐节哭了",
+      "onboard_time": 1713691098,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156540,
       "num": 156540,
       "word": "群星闪耀时 黑猫警长",
@@ -44272,6 +44312,14 @@
       "word": "奔跑吧敖瑞鹏路透",
       "onboard_time": 1713353238,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156444,
+      "num": 155696,
+      "word": "鹿晗张云龙娱乐圈新球搭子",
+      "onboard_time": 1713688697,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -44441,14 +44489,6 @@
       "onboard_time": 1712797100,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155696,
-      "num": 155696,
-      "word": "鹿晗张云龙娱乐圈新球搭子",
-      "onboard_time": 1713688697,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 155689,
@@ -44769,14 +44809,6 @@
       "onboard_time": 1712907199,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 154165,
-      "num": 262455,
-      "word": "Pura70亮相赛车摄影专用席",
-      "onboard_time": 1713690798,
-      "rank": 23,
-      "category": "数码"
     },
     {
       "raw_hot": 154139,
@@ -57067,6 +57099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57012,
+      "num": 165005,
+      "word": "搜狐视频播主大会",
+      "onboard_time": 1713690019,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 56713,
       "num": 76324,
       "word": "CBA季后赛晋级球队确定",
@@ -57585,14 +57625,6 @@
       "onboard_time": 1713033492,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48951,
-      "num": 165005,
-      "word": "搜狐视频播主大会",
-      "onboard_time": 1713690019,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 48713,

@@ -1,7 +1,15 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713691105296,
+  "endTime": 1713692058719,
   "band_list": [
+    {
+      "raw_hot": 2868617,
+      "num": 2868617,
+      "word": "周冠宇哭了",
+      "onboard_time": 1713690258,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 2163133,
       "num": 2163133,
@@ -9,14 +17,6 @@
       "onboard_time": 1713654433,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1597311,
-      "num": 1597311,
-      "word": "周冠宇哭了",
-      "onboard_time": 1713690258,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1526920,
@@ -195,6 +195,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641389,
+      "num": 392846,
+      "word": "郑恺看苗苗的眼里全是宠溺",
+      "onboard_time": 1713688697,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 628494,
+      "num": 628494,
+      "word": "两人维保电梯一人竟是纸片人",
+      "onboard_time": 1713687199,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 624598,
       "num": 624598,
       "word": "yaoyao发文",
@@ -307,11 +323,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 545626,
-      "num": 392846,
-      "word": "郑恺看苗苗的眼里全是宠溺",
-      "onboard_time": 1713688697,
-      "rank": 12,
+      "raw_hot": 542925,
+      "num": 287750,
+      "word": "张艺兴朴灿烈连线",
+      "onboard_time": 1713691339,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -539,14 +555,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 414673,
-      "num": 373908,
-      "word": "两人维保电梯一人竟是纸片人",
-      "onboard_time": 1713687199,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 413899,
       "num": 413899,
       "word": "原来麻辣烫夹子是这样用的",
@@ -755,6 +763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 294430,
+      "num": 405495,
+      "word": "周冠宇说国旗一直是我的动力",
+      "onboard_time": 1713684558,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294315,
       "num": 294315,
       "word": "浪姐后期 尚雯婕超女梗",
@@ -793,6 +809,14 @@
       "onboard_time": 1713680237,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 271334,
+      "num": 271334,
+      "word": "ILLIT第八个一位",
+      "onboard_time": 1713690378,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 267751,
@@ -859,20 +883,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244761,
+      "num": 244761,
+      "word": "蔡文静求别扒了",
+      "onboard_time": 1713689178,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241521,
       "num": 160369,
       "word": "五哈团看到女嘉宾的反应",
       "onboard_time": 1713679338,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241153,
-      "num": 241153,
-      "word": "蔡文静求别扒了",
-      "onboard_time": 1713689178,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 239737,
@@ -897,14 +921,6 @@
       "onboard_time": 1713682218,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 235916,
-      "num": 405495,
-      "word": "周冠宇说国旗一直是我的动力",
-      "onboard_time": 1713684558,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 231764,
@@ -937,6 +953,14 @@
       "onboard_time": 1713687498,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226245,
+      "num": 226245,
+      "word": "女生把健身当摸鱼一月瘦10斤",
+      "onboard_time": 1713691638,
+      "rank": 26,
+      "category": "运动健身"
     },
     {
       "raw_hot": 226103,
@@ -1187,6 +1211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193567,
+      "num": 193567,
+      "word": "周冠宇第14名",
+      "onboard_time": 1713691339,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192571,
       "num": 179140,
       "word": "戚薇 哪有轻而易举都是用尽全力",
@@ -1225,14 +1257,6 @@
       "onboard_time": 1713667457,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191068,
-      "num": 244612,
-      "word": "ILLIT第八个一位",
-      "onboard_time": 1713690378,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 189100,
@@ -1467,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160597,
+      "num": 286632,
+      "word": "Pura70亮相赛车摄影专用席",
+      "onboard_time": 1713690798,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 157768,
       "num": 157768,
       "word": "Rebecca 生病",
@@ -1491,6 +1523,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156547,
+      "num": 156547,
+      "word": "徐子未音乐节哭了",
+      "onboard_time": 1713691098,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 156444,
+      "num": 155696,
+      "word": "鹿晗张云龙娱乐圈新球搭子",
+      "onboard_time": 1713688697,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156002,
       "num": 156002,
       "word": "虾头到底能不能吃",
@@ -1499,28 +1547,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 155696,
-      "num": 155696,
-      "word": "鹿晗张云龙娱乐圈新球搭子",
-      "onboard_time": 1713688697,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154437,
       "num": 154437,
       "word": "用100元在上海流浪了八天",
       "onboard_time": 1713666558,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 154165,
-      "num": 262455,
-      "word": "Pura70亮相赛车摄影专用席",
-      "onboard_time": 1713690798,
-      "rank": 23,
-      "category": "数码"
     },
     {
       "raw_hot": 153775,
@@ -2123,6 +2155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57012,
+      "num": 165005,
+      "word": "搜狐视频播主大会",
+      "onboard_time": 1713690019,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 55402,
       "num": 55402,
       "word": "追星的意义是救赎自己",
@@ -2177,14 +2217,6 @@
       "onboard_time": 1713634634,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 48951,
-      "num": 165005,
-      "word": "搜狐视频播主大会",
-      "onboard_time": 1713690019,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 48426,
