@@ -1,0 +1,410 @@
+{
+  "runTime": 1713680598487,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1095861,
+        "num": 1095861,
+        "word": "中国近一半大城市正在下沉",
+        "onboard_time": 1713673939,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 756770,
+        "num": 756770,
+        "word": "许美静演唱会 划水",
+        "onboard_time": 1713679819,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50506,
+        "num": 693134,
+        "word": "最新中华文化主题宣传片",
+        "onboard_time": 1713670699,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650170,
+        "num": 650170,
+        "word": "王安宇 没有冒犯姐夫想替代姐夫",
+        "onboard_time": 1713678139,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567491,
+        "num": 567491,
+        "word": "赵昭仪 恋爱脑的爸妈破碎的她",
+        "onboard_time": 1713678320,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511331,
+        "num": 511331,
+        "word": "黄子韬小马丁事件",
+        "onboard_time": 1713676940,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 500691,
+        "num": 500691,
+        "word": "姥姥去世一周后妈妈发的信息",
+        "onboard_time": 1713667639,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414243,
+        "num": 468008,
+        "word": "广东居民非必要不外出",
+        "onboard_time": 1713677598,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426029,
+        "num": 465886,
+        "word": "5月份工资可以提前发",
+        "onboard_time": 1713663738,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465648,
+        "num": 465648,
+        "word": "文旅局回应许美静演唱会观众喊退票",
+        "onboard_time": 1713675859,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1018891,
+        "num": 430669,
+        "word": "李晟发和赵丽颖聊天记录",
+        "onboard_time": 1713672138,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378392,
+        "num": 378392,
+        "word": "狮子 请不要把手伸进来",
+        "onboard_time": 1713676519,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 348832,
+        "num": 348832,
+        "word": "吴艳妮说化妆比赛是因为尊重观众",
+        "onboard_time": 1713672018,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337949,
+        "num": 337949,
+        "word": "迪丽热巴问白宇年龄",
+        "onboard_time": 1713678019,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332588,
+        "num": 332588,
+        "word": "许美静演唱会 全场喊退票",
+        "onboard_time": 1713658457,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 266012,
+        "num": 266012,
+        "word": "广州塔1小时内连续6次接闪电",
+        "onboard_time": 1713671956,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264850,
+        "num": 264850,
+        "word": "没有哪个男人能娶到我",
+        "onboard_time": 1713675319,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245744,
+        "num": 245744,
+        "word": "金莎被所有人拒绝",
+        "onboard_time": 1713665658,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225491,
+        "num": 225491,
+        "word": "第一批去新加坡的中产没200万年薪撑不下去",
+        "onboard_time": 1713668057,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221647,
+        "num": 221647,
+        "word": "B太揭秘卫生巾灰色产业链",
+        "onboard_time": 1713679939,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505486,
+        "num": 221427,
+        "word": "黄子韬就不当言论道歉",
+        "onboard_time": 1713654433,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 317778,
+        "num": 216275,
+        "word": "秦岚偷偷量了辛芷蕾手指尺寸",
+        "onboard_time": 1713678499,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194153,
+        "num": 194153,
+        "word": "失足女拒亲嘴被打后刺死男子获刑",
+        "onboard_time": 1713663437,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179120,
+        "num": 179120,
+        "word": "18位慰安妇制度受害者子女在国内起诉日本",
+        "onboard_time": 1713678320,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173392,
+        "num": 173392,
+        "word": "车手巡游",
+        "onboard_time": 1713679638,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233633,
+        "num": 170071,
+        "word": "凤凰传奇质疑伍佰超越伍佰",
+        "onboard_time": 1713672737,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211937,
+        "num": 168775,
+        "word": "向佐被李菲儿拒绝脸色变了",
+        "onboard_time": 1713668238,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165925,
+        "num": 165925,
+        "word": "原来这就是不胖和很瘦的区别",
+        "onboard_time": 1713668117,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163984,
+        "num": 163984,
+        "word": "12306抢票",
+        "onboard_time": 1713664457,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 135997,
+        "num": 135997,
+        "word": "当普通社牛遇到社牛天花板",
+        "onboard_time": 1713679638,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198584,
+        "num": 134621,
+        "word": "姐夫好我是王安宇",
+        "onboard_time": 1713680179,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197103,
+        "num": 133666,
+        "word": "凤凰传奇 我也想去现场",
+        "onboard_time": 1713679460,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197040,
+        "num": 131151,
+        "word": "五哈团看到女嘉宾的反应",
+        "onboard_time": 1713679338,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195427,
+        "num": 130534,
+        "word": "男子举报许美静演唱会涉嫌欺诈观众",
+        "onboard_time": 1713680237,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149251,
+        "num": 128895,
+        "word": "AG写给一诺的六周年祝福",
+        "onboard_time": 1713680479,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191646,
+        "num": 126261,
+        "word": "秦海璐让王安宇跟姐夫视频",
+        "onboard_time": 1713677718,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162210,
+        "num": 124657,
+        "word": "秦昊杨幂新剧首更6集",
+        "onboard_time": 1713679578,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124379,
+        "num": 124379,
+        "word": "以方称将召见6个支持巴勒斯坦入联国家大使",
+        "onboard_time": 1713674657,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 116749,
+        "num": 116749,
+        "word": "广东事业编",
+        "onboard_time": 1713675559,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 69103,
+        "num": 116708,
+        "word": "你永远可以相信大自然的疗愈力",
+        "onboard_time": 1713680298,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 161267,
+        "num": 116667,
+        "word": "余罪重新上线",
+        "onboard_time": 1713671238,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151625,
+        "num": 116549,
+        "word": "杨幂能靠新剧成功转型吗",
+        "onboard_time": 1713676758,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149878,
+        "num": 116474,
+        "word": "花儿与少年",
+        "onboard_time": 1713672619,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116468,
+        "num": 116468,
+        "word": "张桂梅说一生最不能放弃是读书",
+        "onboard_time": 1713678798,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131505,
+        "num": 116284,
+        "word": "郑恺生日party好热闹",
+        "onboard_time": 1713677058,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130115,
+        "num": 116206,
+        "word": "邓超真的把鹿晗当亲儿子宠了",
+        "onboard_time": 1713680539,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115779,
+        "num": 115779,
+        "word": "余华 人生没有轨道是到不了旷野的",
+        "onboard_time": 1713679638,
+        "rank": 46,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 113947,
+        "num": 113947,
+        "word": "长期不吃晚餐身体会发生什么",
+        "onboard_time": 1713665778,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104946,
+        "num": 104946,
+        "word": "台湾地震",
+        "onboard_time": 1713668178,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94799,
+        "num": 104944,
+        "word": "毛毛分娩后不知所措",
+        "onboard_time": 1713670218,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}

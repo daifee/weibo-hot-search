@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713677650584,
+  "endTime": 1713680598487,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -7035,6 +7035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 756770,
+      "num": 756770,
+      "word": "许美静演唱会 划水",
+      "onboard_time": 1713679819,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 756594,
       "num": 625545,
       "word": "雷军 我的SU7",
@@ -8945,6 +8953,14 @@
       "onboard_time": 1712733138,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 650170,
+      "num": 650170,
+      "word": "王安宇 没有冒犯姐夫想替代姐夫",
+      "onboard_time": 1713678139,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 649910,
@@ -10945,6 +10961,14 @@
       "onboard_time": 1712636298,
       "rank": 28,
       "category": "财经,时尚"
+    },
+    {
+      "raw_hot": 567491,
+      "num": 567491,
+      "word": "赵昭仪 恋爱脑的爸妈破碎的她",
+      "onboard_time": 1713678320,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 567133,
@@ -14291,6 +14315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465648,
+      "num": 465648,
+      "word": "文旅局回应许美静演唱会观众喊退票",
+      "onboard_time": 1713675859,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 465637,
       "num": 465637,
       "word": "每天通勤几十公里可能被视为营运车",
@@ -15507,14 +15539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 436062,
-      "num": 394282,
-      "word": "文旅局回应许美静演唱会观众喊退票",
-      "onboard_time": 1713675859,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 436060,
       "num": 436060,
       "word": "赵露思安妮海瑟薇穿同款皮裙",
@@ -16433,6 +16457,14 @@
       "onboard_time": 1712186355,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 414243,
+      "num": 468008,
+      "word": "广东居民非必要不外出",
+      "onboard_time": 1713677598,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413441,
@@ -18017,6 +18049,14 @@
       "onboard_time": 1713255918,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 378392,
+      "num": 378392,
+      "word": "狮子 请不要把手伸进来",
+      "onboard_time": 1713676519,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 378192,
@@ -20059,6 +20099,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 337949,
+      "num": 337949,
+      "word": "迪丽热巴问白宇年龄",
+      "onboard_time": 1713678019,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337831,
       "num": 235163,
       "word": "女子入住81层酒店吓到趴地",
@@ -21249,6 +21297,14 @@
       "onboard_time": 1712228539,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 317778,
+      "num": 216275,
+      "word": "秦岚偷偷量了辛芷蕾手指尺寸",
+      "onboard_time": 1713678499,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 317725,
@@ -29771,6 +29827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221647,
+      "num": 221647,
+      "word": "B太揭秘卫生巾灰色产业链",
+      "onboard_time": 1713679939,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221607,
       "num": 221607,
       "word": "伊朗对以的袭击可被视为已结束",
@@ -34259,6 +34323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198584,
+      "num": 134621,
+      "word": "姐夫好我是王安宇",
+      "onboard_time": 1713680179,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198540,
       "num": 198540,
       "word": "时代少年团这是我的岛开播海报",
@@ -34635,12 +34707,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197103,
+      "num": 133666,
+      "word": "凤凰传奇 我也想去现场",
+      "onboard_time": 1713679460,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197080,
       "num": 197080,
       "word": "VG对战KSG",
       "onboard_time": 1712320520,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 197040,
+      "num": 131151,
+      "word": "五哈团看到女嘉宾的反应",
+      "onboard_time": 1713679338,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 197029,
@@ -35008,6 +35096,14 @@
       "word": "林俊杰贵阳 抢票",
       "onboard_time": 1711966701,
       "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 195427,
+      "num": 130534,
+      "word": "男子举报许美静演唱会涉嫌欺诈观众",
+      "onboard_time": 1713680237,
+      "rank": 33,
       "category": "演出"
     },
     {
@@ -35961,6 +36057,14 @@
       "onboard_time": 1712139560,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 191646,
+      "num": 126261,
+      "word": "秦海璐让王安宇跟姐夫视频",
+      "onboard_time": 1713677718,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 191634,
@@ -39019,6 +39123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179120,
+      "num": 179120,
+      "word": "18位慰安妇制度受害者子女在国内起诉日本",
+      "onboard_time": 1713678320,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179103,
       "num": 179103,
       "word": "夫硕顺舞台",
@@ -40273,6 +40385,14 @@
       "onboard_time": 1713332118,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173392,
+      "num": 173392,
+      "word": "车手巡游",
+      "onboard_time": 1713679638,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 173341,
@@ -42473,6 +42593,14 @@
       "onboard_time": 1712397317,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162210,
+      "num": 124657,
+      "word": "秦昊杨幂新剧首更6集",
+      "onboard_time": 1713679578,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 162206,
@@ -45635,6 +45763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149251,
+      "num": 128895,
+      "word": "AG写给一诺的六周年祝福",
+      "onboard_time": 1713680479,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149221,
       "num": 149221,
       "word": "睡觉时不能脚朝西头朝东吗",
@@ -46857,14 +46993,6 @@
       "onboard_time": 1713599898,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144923,
-      "num": 144923,
-      "word": "狮子 请不要把手伸进来",
-      "onboard_time": 1713676519,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 144820,
@@ -48803,6 +48931,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 135997,
+      "num": 135997,
+      "word": "当普通社牛遇到社牛天花板",
+      "onboard_time": 1713679638,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135954,
       "num": 135954,
       "word": "刘诗诗清水淡妆",
@@ -50088,6 +50224,14 @@
       "word": "陈丽君抹眉心一秒变妆",
       "onboard_time": 1713503780,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130115,
+      "num": 116206,
+      "word": "邓超真的把鹿晗当亲儿子宠了",
+      "onboard_time": 1713680539,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -52331,6 +52475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116468,
+      "num": 116468,
+      "word": "张桂梅说一生最不能放弃是读书",
+      "onboard_time": 1713678798,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116431,
       "num": 84291,
       "word": "熬夜变笨可能是身体在预警",
@@ -52449,6 +52601,14 @@
       "onboard_time": 1712647938,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 115779,
+      "num": 115779,
+      "word": "余华 人生没有轨道是到不了旷野的",
+      "onboard_time": 1713679638,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 115743,
@@ -52681,14 +52841,6 @@
       "onboard_time": 1713611117,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 113761,
-      "num": 113761,
-      "word": "广东居民非必要不外出",
-      "onboard_time": 1713677598,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113730,
@@ -55897,6 +56049,14 @@
       "onboard_time": 1712004850,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69103,
+      "num": 116708,
+      "word": "你永远可以相信大自然的疗愈力",
+      "onboard_time": 1713680298,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 68505,
