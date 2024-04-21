@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713694628223,
+  "endTime": 1713695634853,
   "band_list": [
     {
       "raw_hot": 2868617,
@@ -43,19 +43,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1269136,
+      "num": 1237008,
+      "word": "12306 候补",
+      "onboard_time": 1713685820,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1250450,
       "num": 1250450,
       "word": "台湾地震",
       "onboard_time": 1713668178,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1237008,
-      "num": 1237008,
-      "word": "12306 候补",
-      "onboard_time": 1713685820,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -171,8 +171,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 739446,
+      "num": 465710,
+      "word": "医生辟谣小肚子是为了保护子宫卵巢",
+      "onboard_time": 1713694397,
+      "rank": 41,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 688177,
-      "num": 427182,
+      "num": 458158,
       "word": "张艺兴朴灿烈连线",
       "onboard_time": 1713691339,
       "rank": 15,
@@ -195,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 679038,
+      "num": 679038,
+      "word": "陈芋汐10米台冠军",
+      "onboard_time": 1713694517,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 669398,
       "num": 238598,
       "word": "失足女拒亲嘴被打后刺死男子获刑",
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 641389,
-      "num": 424206,
+      "num": 431856,
       "word": "郑恺看苗苗的眼里全是宠溺",
       "onboard_time": 1713688697,
       "rank": 12,
@@ -273,6 +289,14 @@
       "onboard_time": 1713658457,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 581826,
+      "num": 581826,
+      "word": "石凯销量",
+      "onboard_time": 1713692839,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 577506,
@@ -337,6 +361,14 @@
       "onboard_time": 1713679939,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535506,
+      "num": 535506,
+      "word": "林志颖林俊杰吴彦祖昆凌齐聚上海F1",
+      "onboard_time": 1713693316,
+      "rank": 18,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 535062,
@@ -483,14 +515,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 465552,
-      "num": 465552,
-      "word": "石凯销量",
-      "onboard_time": 1713692839,
-      "rank": 4,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 455209,
       "num": 455209,
       "word": "TF三代出道战即将官宣",
@@ -596,7 +620,7 @@
     },
     {
       "raw_hot": 391133,
-      "num": 282091,
+      "num": 311533,
       "word": "女生把健身当摸鱼一月瘦10斤",
       "onboard_time": 1713691638,
       "rank": 26,
@@ -707,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337960,
+      "num": 471408,
+      "word": "女子高挂10层阳台邻居大哥机智救援",
+      "onboard_time": 1713693020,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 337949,
       "num": 337949,
       "word": "裙子的尺码从xxs做到5xl",
@@ -779,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318684,
+      "num": 318684,
+      "word": "杨幂文替",
+      "onboard_time": 1713695419,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 314450,
       "num": 314450,
       "word": "韩媒报道LESSERAFIM成功雪耻",
@@ -803,14 +843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 301768,
-      "num": 301768,
-      "word": "林志颖林俊杰吴彦祖昆凌齐聚上海F1",
-      "onboard_time": 1713693316,
-      "rank": 18,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 298792,
       "num": 259440,
       "word": "垫底辣孩模仿魏若来",
@@ -820,7 +852,7 @@
     },
     {
       "raw_hot": 294430,
-      "num": 429485,
+      "num": 474783,
       "word": "周冠宇说国旗一直是我的动力",
       "onboard_time": 1713684558,
       "rank": 13,
@@ -841,14 +873,6 @@
       "onboard_time": 1713689178,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 285381,
-      "num": 428055,
-      "word": "女子高挂10层阳台邻居大哥机智救援",
-      "onboard_time": 1713693020,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 283393,
@@ -947,12 +971,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252592,
+      "num": 252592,
+      "word": "跳水梦之队包揽冠亚军",
+      "onboard_time": 1713694877,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251367,
       "num": 251367,
       "word": "以闪亮之名",
       "onboard_time": 1713674179,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 250305,
+      "num": 250305,
+      "word": "丧偶式婚姻真的会让人崩溃",
+      "onboard_time": 1713692477,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 244761,
@@ -971,12 +1011,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239795,
-      "num": 239795,
-      "word": "丧偶式婚姻真的会让人崩溃",
-      "onboard_time": 1713692477,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 241038,
+      "num": 241038,
+      "word": "李现内娱第一个在采访里笑哭的",
+      "onboard_time": 1713693559,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 239737,
@@ -1219,14 +1259,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 200648,
-      "num": 200648,
-      "word": "李现内娱第一个在采访里笑哭的",
-      "onboard_time": 1713693559,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 200304,
       "num": 200304,
       "word": "KSG战胜狼队",
@@ -1249,14 +1281,6 @@
       "onboard_time": 1713673458,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199822,
-      "num": 199822,
-      "word": "陈芋汐10米台冠军",
-      "onboard_time": 1713694517,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 199019,
@@ -1499,14 +1523,6 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 173684,
-      "num": 173684,
-      "word": "医生辟谣小肚子是为了保护子宫卵巢",
-      "onboard_time": 1713694397,
-      "rank": 41,
-      "category": "科学科普,健康医疗"
-    },
-    {
       "raw_hot": 173392,
       "num": 173392,
       "word": "车手巡游",
@@ -1612,7 +1628,7 @@
     },
     {
       "raw_hot": 160597,
-      "num": 423369,
+      "num": 452492,
       "word": "Pura70亮相赛车摄影专用席",
       "onboard_time": 1713690798,
       "rank": 23,
@@ -1689,6 +1705,14 @@
       "onboard_time": 1713620119,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152190,
+      "num": 152190,
+      "word": "男女方父母一眼就能看出来",
+      "onboard_time": 1713694997,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 150378,
@@ -2049,6 +2073,14 @@
       "onboard_time": 1713670877,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121556,
+      "num": 121556,
+      "word": "在上海找不到丢垃圾的地方",
+      "onboard_time": 1713695298,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 120649,
