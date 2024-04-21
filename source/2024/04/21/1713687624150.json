@@ -1,0 +1,410 @@
+{
+  "runTime": 1713687624150,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1237008,
+        "num": 1237008,
+        "word": "12306 候补",
+        "onboard_time": 1713685820,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986936,
+        "num": 986936,
+        "word": "韩国女团MV涉嫌恋童引争议",
+        "onboard_time": 1713685637,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 81479,
+        "num": 549863,
+        "word": "用中国传统色打开春耕画卷",
+        "onboard_time": 1713686178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522060,
+        "num": 522060,
+        "word": "不会扎低丸子头的有福了",
+        "onboard_time": 1713682756,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 437795,
+        "num": 437795,
+        "word": "秦岚偷偷量了辛芷蕾手指尺寸",
+        "onboard_time": 1713678499,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434614,
+        "num": 434614,
+        "word": "日本首相岸田向靖国神社供奉祭品",
+        "onboard_time": 1713682337,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 423610,
+        "num": 423610,
+        "word": "邓超真的把鹿晗当亲儿子宠了",
+        "onboard_time": 1713680539,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379998,
+        "num": 379998,
+        "word": "二开",
+        "onboard_time": 1713684079,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 376011,
+        "num": 376011,
+        "word": "LESSERAFIM科切拉舞台第二场",
+        "onboard_time": 1713686057,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151338,
+        "num": 375459,
+        "word": "周冠宇说国旗一直是我的动力",
+        "onboard_time": 1713684558,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 856851,
+        "num": 373485,
+        "word": "中国近一半大城市正在下沉",
+        "onboard_time": 1713673939,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 787780,
+        "num": 369582,
+        "word": "王安宇 没有冒犯姐夫想替代姐夫",
+        "onboard_time": 1713678139,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 608698,
+        "num": 368361,
+        "word": "李晟发和赵丽颖聊天记录",
+        "onboard_time": 1713672138,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367245,
+        "num": 367245,
+        "word": "刘诗诗下厨",
+        "onboard_time": 1713684558,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348275,
+        "num": 348275,
+        "word": "每天1杯柠檬水身体会有何变化",
+        "onboard_time": 1713685697,
+        "rank": 14,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 290080,
+        "num": 290080,
+        "word": "美媒曝布林肯将宣布制裁以军一支部队",
+        "onboard_time": 1713687199,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 289697,
+        "num": 289697,
+        "word": "许美静演唱会 划水",
+        "onboard_time": 1713679819,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 280329,
+        "num": 280329,
+        "word": "垫音",
+        "onboard_time": 1713682337,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 276795,
+        "num": 276795,
+        "word": "姥姥去世一周后妈妈发的信息",
+        "onboard_time": 1713667639,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256784,
+        "num": 256784,
+        "word": "Doinb为Tian大哭",
+        "onboard_time": 1713684677,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 398924,
+        "num": 254997,
+        "word": "终于有洗澡不那么见外的剧了",
+        "onboard_time": 1713685278,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274841,
+        "num": 252284,
+        "word": "何瑞之 冷暴力",
+        "onboard_time": 1713687199,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248070,
+        "num": 248070,
+        "word": "B太揭秘卫生巾灰色产业链",
+        "onboard_time": 1713679939,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235351,
+        "num": 235351,
+        "word": "广东居民非必要不外出",
+        "onboard_time": 1713677598,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217601,
+        "num": 217601,
+        "word": "吴艳妮说化妆比赛是因为尊重观众",
+        "onboard_time": 1713672018,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252961,
+        "num": 216137,
+        "word": "姐夫好我是王安宇",
+        "onboard_time": 1713680179,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243363,
+        "num": 215072,
+        "word": "黄子韬小马丁事件",
+        "onboard_time": 1713676940,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 226103,
+        "num": 212791,
+        "word": "杨紫把鞋踢到许凯怀里",
+        "onboard_time": 1713685758,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208692,
+        "num": 208692,
+        "word": "F1直播",
+        "onboard_time": 1713687258,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180578,
+        "num": 180578,
+        "word": "5月份工资可以提前发",
+        "onboard_time": 1713663738,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198742,
+        "num": 179865,
+        "word": "王源牛仔短裤",
+        "onboard_time": 1713686538,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219292,
+        "num": 179630,
+        "word": "黄子韬就不当言论道歉",
+        "onboard_time": 1713654433,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196469,
+        "num": 178753,
+        "word": "绘旅人存在之章",
+        "onboard_time": 1713686959,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190600,
+        "num": 177720,
+        "word": "陈昊宇好看",
+        "onboard_time": 1713682218,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151453,
+        "num": 176900,
+        "word": "TheShy直播除三害",
+        "onboard_time": 1713683057,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184888,
+        "num": 176139,
+        "word": "赵昭仪 恋爱脑的爸妈破碎的她",
+        "onboard_time": 1713678320,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175682,
+        "num": 175682,
+        "word": "文旅局回应许美静演唱会观众喊退票",
+        "onboard_time": 1713675859,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168280,
+        "num": 168280,
+        "word": "戚薇 哪有轻而易举都是用尽全力",
+        "onboard_time": 1713686779,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128845,
+        "num": 128845,
+        "word": "这么大个熊了吃饭还要人喂",
+        "onboard_time": 1713687258,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126125,
+        "num": 126125,
+        "word": "香云纱才是中式老钱风天花板",
+        "onboard_time": 1713684917,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 129895,
+        "num": 125652,
+        "word": "男子举报许美静演唱会涉嫌欺诈观众",
+        "onboard_time": 1713680237,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123205,
+        "num": 123205,
+        "word": "F1",
+        "onboard_time": 1713682937,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120423,
+        "num": 120423,
+        "word": "张雨绮粘睫毛粘进眼科",
+        "onboard_time": 1713687138,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120410,
+        "num": 120410,
+        "word": "许美静演唱会 全场喊退票",
+        "onboard_time": 1713658457,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117539,
+        "num": 117539,
+        "word": "凤凰传奇质疑伍佰超越伍佰",
+        "onboard_time": 1713672737,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116243,
+        "num": 116243,
+        "word": "上门取件焦虑症",
+        "onboard_time": 1713687438,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110426,
+        "num": 110426,
+        "word": "博塔斯退赛",
+        "onboard_time": 1713687498,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108139,
+        "num": 108139,
+        "word": "狗好 猫乖",
+        "onboard_time": 1713680719,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104607,
+        "num": 104607,
+        "word": "两人维保电梯一人竟是纸片人",
+        "onboard_time": 1713687199,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103284,
+        "num": 103284,
+        "word": "狮子 请不要把手伸进来",
+        "onboard_time": 1713676519,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}

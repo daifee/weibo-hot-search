@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713684845668,
+  "endTime": 1713687624150,
   "band_list": [
     {
       "raw_hot": 2163133,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1237008,
+      "num": 1237008,
+      "word": "12306 候补",
+      "onboard_time": 1713685820,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1218760,
       "num": 1218760,
       "word": "白敬亭 B站",
@@ -81,6 +89,14 @@
       "onboard_time": 1713626419,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 986936,
+      "num": 986936,
+      "word": "韩国女团MV涉嫌恋童引争议",
+      "onboard_time": 1713685637,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 975435,
@@ -299,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 522060,
+      "num": 522060,
+      "word": "不会扎低丸子头的有福了",
+      "onboard_time": 1713682756,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 518123,
       "num": 231370,
       "word": "我删掉了高中大学的所有同学",
@@ -379,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 437795,
+      "num": 437795,
+      "word": "秦岚偷偷量了辛芷蕾手指尺寸",
+      "onboard_time": 1713678499,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436773,
       "num": 436773,
       "word": "拉塞尔又拉了",
@@ -393,6 +425,14 @@
       "onboard_time": 1713618498,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 434614,
+      "num": 434614,
+      "word": "日本首相岸田向靖国神社供奉祭品",
+      "onboard_time": 1713682337,
+      "rank": 22,
+      "category": "国外时政"
     },
     {
       "raw_hot": 431150,
@@ -443,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 398924,
+      "num": 254997,
+      "word": "终于有洗澡不那么见外的剧了",
+      "onboard_time": 1713685278,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384134,
       "num": 384134,
       "word": "深圳暴雨",
@@ -459,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379998,
+      "num": 379998,
+      "word": "二开",
+      "onboard_time": 1713684079,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 376022,
       "num": 376022,
       "word": "特斯拉与小米SU7价差缩小到1.6万",
@@ -467,12 +523,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 376011,
+      "num": 376011,
+      "word": "LESSERAFIM科切拉舞台第二场",
+      "onboard_time": 1713686057,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 374775,
       "num": 374775,
       "word": "垫音",
       "onboard_time": 1713682337,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 367245,
+      "num": 367245,
+      "word": "刘诗诗下厨",
+      "onboard_time": 1713684558,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 362186,
@@ -491,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348275,
+      "num": 348275,
+      "word": "每天1杯柠檬水身体会有何变化",
+      "onboard_time": 1713685697,
+      "rank": 14,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 347148,
       "num": 347148,
       "word": "不够善良的我们 简庆芬出轨",
@@ -499,28 +579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 346660,
-      "num": 300078,
-      "word": "秦岚偷偷量了辛芷蕾手指尺寸",
-      "onboard_time": 1713678499,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 343347,
       "num": 343347,
       "word": "厦门震感",
       "onboard_time": 1713667938,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339080,
-      "num": 339080,
-      "word": "二开",
-      "onboard_time": 1713684079,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 337949,
@@ -595,22 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 318963,
-      "num": 318963,
-      "word": "日本首相岸田向靖国神社供奉祭品",
-      "onboard_time": 1713682337,
-      "rank": 22,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 313790,
-      "num": 313790,
-      "word": "不会扎低丸子头的有福了",
-      "onboard_time": 1713682756,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 311747,
       "num": 311747,
       "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
@@ -635,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290080,
+      "num": 290080,
+      "word": "美媒曝布林肯将宣布制裁以军一支部队",
+      "onboard_time": 1713687199,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 283393,
       "num": 249270,
       "word": "戚薇 蔡文静",
@@ -657,6 +713,14 @@
       "onboard_time": 1713680237,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 274841,
+      "num": 252284,
+      "word": "何瑞之 冷暴力",
+      "onboard_time": 1713687199,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 267751,
@@ -689,6 +753,14 @@
       "onboard_time": 1713625520,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 256784,
+      "num": 256784,
+      "word": "Doinb为Tian大哭",
+      "onboard_time": 1713684677,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 253580,
@@ -763,6 +835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226103,
+      "num": 212791,
+      "word": "杨紫把鞋踢到许凯怀里",
+      "onboard_time": 1713685758,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225637,
       "num": 151354,
       "word": "一起入职的44岁姐妹被辞退了",
@@ -817,6 +897,14 @@
       "onboard_time": 1713676758,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208692,
+      "num": 208692,
+      "word": "F1直播",
+      "onboard_time": 1713687258,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 208029,
@@ -907,14 +995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201538,
-      "num": 201538,
-      "word": "Doinb为Tian大哭",
-      "onboard_time": 1713684677,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 200685,
       "num": 200685,
       "word": "周鸿祎否认针对李彦宏",
@@ -947,6 +1027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198742,
+      "num": 179865,
+      "word": "王源牛仔短裤",
+      "onboard_time": 1713686538,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197848,
       "num": 197848,
       "word": "大英赛",
@@ -969,6 +1057,14 @@
       "onboard_time": 1713679460,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196469,
+      "num": 178753,
+      "word": "绘旅人存在之章",
+      "onboard_time": 1713686959,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 195882,
@@ -1155,20 +1251,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168280,
+      "num": 168280,
+      "word": "戚薇 哪有轻而易举都是用尽全力",
+      "onboard_time": 1713686779,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167102,
       "num": 167102,
       "word": "王一博无袖练拳",
       "onboard_time": 1713672078,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 165524,
-      "num": 165524,
-      "word": "刘诗诗下厨",
-      "onboard_time": 1713684558,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 163813,
@@ -1265,6 +1361,14 @@
       "onboard_time": 1713620119,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151338,
+      "num": 375459,
+      "word": "周冠宇说国旗一直是我的动力",
+      "onboard_time": 1713684558,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 150404,
@@ -1531,6 +1635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128845,
+      "num": 128845,
+      "word": "这么大个熊了吃饭还要人喂",
+      "onboard_time": 1713687258,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126936,
       "num": 126936,
       "word": "在山东没有放不起来的风筝",
@@ -1545,6 +1657,14 @@
       "onboard_time": 1713622701,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126125,
+      "num": 126125,
+      "word": "香云纱才是中式老钱风天花板",
+      "onboard_time": 1713684917,
+      "rank": 39,
+      "category": "时尚"
     },
     {
       "raw_hot": 126103,
@@ -1587,6 +1707,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 120423,
+      "num": 120423,
+      "word": "张雨绮粘睫毛粘进眼科",
+      "onboard_time": 1713687138,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116468,
       "num": 116468,
       "word": "张桂梅说一生最不能放弃是读书",
@@ -1601,6 +1729,14 @@
       "onboard_time": 1713679638,
       "rank": 46,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 116243,
+      "num": 116243,
+      "word": "上门取件焦虑症",
+      "onboard_time": 1713687438,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 115743,
@@ -1632,6 +1768,14 @@
       "word": "爱德华兹狂喷杜兰特",
       "onboard_time": 1713659598,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110426,
+      "num": 110426,
+      "word": "博塔斯退赛",
+      "onboard_time": 1713687498,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1673,6 +1817,14 @@
       "onboard_time": 1713623840,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 104607,
+      "num": 104607,
+      "word": "两人维保电梯一人竟是纸片人",
+      "onboard_time": 1713687199,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102267,
@@ -1721,6 +1873,14 @@
       "onboard_time": 1713611598,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 81479,
+      "num": 549863,
+      "word": "用中国传统色打开春耕画卷",
+      "onboard_time": 1713686178,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75111,
@@ -1880,14 +2040,6 @@
       "word": "林高远张本智和",
       "onboard_time": 1713616037,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 45602,
-      "num": 352988,
-      "word": "周冠宇说国旗一直是我的动力",
-      "onboard_time": 1713684558,
-      "rank": 13,
       "category": "体育"
     },
     {
