@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713663507280,
+  "endTime": 1713666488850,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1873,6 +1873,14 @@
       "onboard_time": 1713358699,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1441589,
+      "num": 1441589,
+      "word": "5月份工资可以提前发",
+      "onboard_time": 1713663738,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1441570,
@@ -4187,6 +4195,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1011522,
+      "num": 674732,
+      "word": "张予曦越扒越有",
+      "onboard_time": 1713662357,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1011447,
       "num": 1011447,
       "word": "王楚钦出线",
@@ -5548,7 +5564,7 @@
     },
     {
       "raw_hot": 856646,
-      "num": 572314,
+      "num": 594971,
       "word": "小马丁回应拒绝黄子韬同台",
       "onboard_time": 1713658036,
       "rank": 5,
@@ -8235,6 +8251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 682648,
+      "num": 682648,
+      "word": "福州沦陷日",
+      "onboard_time": 1713664096,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 681606,
       "num": 681606,
       "word": "河南原则上不再保留科级事业单位",
@@ -8353,14 +8377,6 @@
       "onboard_time": 1713405557,
       "rank": 6,
       "category": "财经"
-    },
-    {
-      "raw_hot": 674732,
-      "num": 674732,
-      "word": "张予曦越扒越有",
-      "onboard_time": 1713662357,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 674677,
@@ -10251,6 +10267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 590432,
+      "num": 228958,
+      "word": "失足女拒亲嘴被打后刺死男子获刑",
+      "onboard_time": 1713663437,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590075,
       "num": 590075,
       "word": "章昊韩网被审判",
@@ -10617,6 +10641,14 @@
       "onboard_time": 1713250758,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 575860,
+      "num": 575860,
+      "word": "赵奕欢等了一小时没人选她",
+      "onboard_time": 1713663137,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 575532,
@@ -13073,6 +13105,14 @@
       "onboard_time": 1713067337,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 496065,
+      "num": 355896,
+      "word": "金莎被所有人拒绝",
+      "onboard_time": 1713665658,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 495589,
@@ -28339,6 +28379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231621,
+      "num": 231621,
+      "word": "拉塞尔又拉了",
+      "onboard_time": 1713666016,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231611,
       "num": 231611,
       "word": "快船vs太阳",
@@ -29225,6 +29273,14 @@
       "onboard_time": 1712497220,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 224115,
+      "num": 224115,
+      "word": "原来被爱会疯狂长出血肉",
+      "onboard_time": 1713665177,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 224085,
@@ -33155,6 +33211,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 201729,
+      "num": 230128,
+      "word": "詹姆斯超远压哨三分",
+      "onboard_time": 1713665478,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201676,
       "num": 201676,
       "word": "成龙称心里会惊讶已经70岁",
@@ -33393,6 +33457,14 @@
       "onboard_time": 1713337638,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200685,
+      "num": 200685,
+      "word": "周鸿祎否认针对李彦宏",
+      "onboard_time": 1713665419,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 200630,
@@ -34313,6 +34385,14 @@
       "onboard_time": 1712848638,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196834,
+      "num": 196834,
+      "word": "戚薇李承铉没拍过婚纱照",
+      "onboard_time": 1713665778,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 196819,
@@ -36401,6 +36481,14 @@
       "onboard_time": 1713238458,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188920,
+      "num": 188920,
+      "word": "广东70个暴雨预警信号生效中",
+      "onboard_time": 1713665537,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188919,
@@ -40283,6 +40371,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 170982,
+      "num": 170982,
+      "word": "福州防空警报",
+      "onboard_time": 1713665298,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170967,
       "num": 170967,
       "word": "身体在变老的10个迹象",
@@ -40963,6 +41059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167394,
+      "num": 167394,
+      "word": "向佐一套话术忽悠四个女人",
+      "onboard_time": 1713663318,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167370,
       "num": 167370,
       "word": "爱发脾气可能是因为肝不好",
@@ -41507,14 +41611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164700,
-      "num": 164700,
-      "word": "赵奕欢等了一小时没人选她",
-      "onboard_time": 1713663137,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164678,
       "num": 164678,
       "word": "原来没富过写的小说是这样的",
@@ -42051,6 +42147,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 162137,
+      "num": 162137,
+      "word": "辛巴 太原老葛",
+      "onboard_time": 1713662178,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 162099,
       "num": 162099,
       "word": "勒沃库森首夺德甲冠军",
@@ -42369,14 +42473,6 @@
       "onboard_time": 1712632697,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160433,
-      "num": 160433,
-      "word": "辛巴 太原老葛",
-      "onboard_time": 1713662178,
-      "rank": 44,
-      "category": "网红"
     },
     {
       "raw_hot": 160348,
@@ -43009,6 +43105,14 @@
       "onboard_time": 1712971757,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157768,
+      "num": 157768,
+      "word": "Rebecca 生病",
+      "onboard_time": 1713664217,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 157767,
@@ -47243,6 +47347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140611,
+      "num": 140611,
+      "word": "长期不吃晚餐身体会发生什么",
+      "onboard_time": 1713665778,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 140529,
       "num": 140529,
       "word": "为何女生比男生更喜欢用iPhone",
@@ -48001,14 +48113,6 @@
       "onboard_time": 1713491057,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 137222,
-      "num": 137222,
-      "word": "向佐一套话术忽悠四个女人",
-      "onboard_time": 1713663318,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 137203,
@@ -51267,6 +51371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120048,
+      "num": 120048,
+      "word": "五一假期县域旅游火了",
+      "onboard_time": 1713666138,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 120005,
       "num": 120005,
       "word": "和没情商的朋友聊天是什么感觉",
@@ -51745,14 +51857,6 @@
       "onboard_time": 1712556378,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 116768,
-      "num": 116768,
-      "word": "失足女拒亲嘴被打后刺死男子获刑",
-      "onboard_time": 1713663437,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116717,
@@ -52761,6 +52865,14 @@
       "onboard_time": 1711895001,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108269,
+      "num": 108269,
+      "word": "詹姆斯亮剑",
+      "onboard_time": 1713665177,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 108214,

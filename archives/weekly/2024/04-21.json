@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713663507280,
+  "endTime": 1713666488850,
   "band_list": [
     {
       "raw_hot": 2163133,
@@ -9,6 +9,14 @@
       "onboard_time": 1713654433,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1441589,
+      "num": 1441589,
+      "word": "5月份工资可以提前发",
+      "onboard_time": 1713663738,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1218760,
@@ -25,6 +33,14 @@
       "onboard_time": 1713626419,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1011522,
+      "num": 674732,
+      "word": "张予曦越扒越有",
+      "onboard_time": 1713662357,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 975435,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 856646,
-      "num": 572314,
+      "num": 594971,
       "word": "小马丁回应拒绝黄子韬同台",
       "onboard_time": 1713658036,
       "rank": 5,
@@ -67,12 +83,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 674732,
-      "num": 674732,
-      "word": "张予曦越扒越有",
-      "onboard_time": 1713662357,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 682648,
+      "num": 682648,
+      "word": "福州沦陷日",
+      "onboard_time": 1713664096,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 665828,
@@ -99,6 +115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 590432,
+      "num": 228958,
+      "word": "失足女拒亲嘴被打后刺死男子获刑",
+      "onboard_time": 1713663437,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584590,
       "num": 584590,
       "word": "许美静演唱会 全场喊退票",
@@ -113,6 +137,14 @@
       "onboard_time": 1713627860,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 575860,
+      "num": 575860,
+      "word": "赵奕欢等了一小时没人选她",
+      "onboard_time": 1713663137,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 573808,
@@ -145,6 +177,14 @@
       "onboard_time": 1713660676,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496065,
+      "num": 355896,
+      "word": "金莎被所有人拒绝",
+      "onboard_time": 1713665658,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 435237,
@@ -243,6 +283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 319414,
+      "num": 319414,
+      "word": "12306抢票",
+      "onboard_time": 1713664457,
+      "rank": 11,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 311747,
       "num": 311747,
       "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
@@ -323,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231621,
+      "num": 231621,
+      "word": "拉塞尔又拉了",
+      "onboard_time": 1713666016,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231133,
       "num": 231133,
       "word": "睡前不刷牙的危害有多大",
@@ -345,6 +401,14 @@
       "onboard_time": 1713623300,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224115,
+      "num": 224115,
+      "word": "原来被爱会疯狂长出血肉",
+      "onboard_time": 1713665177,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 207381,
@@ -379,12 +443,44 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201729,
+      "num": 230128,
+      "word": "詹姆斯超远压哨三分",
+      "onboard_time": 1713665478,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200685,
+      "num": 200685,
+      "word": "周鸿祎否认针对李彦宏",
+      "onboard_time": 1713665419,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 196834,
+      "num": 196834,
+      "word": "戚薇李承铉没拍过婚纱照",
+      "onboard_time": 1713665778,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191828,
       "num": 127876,
       "word": "周杰伦听见下雨的声音",
       "onboard_time": 1713613638,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188920,
+      "num": 188920,
+      "word": "广东70个暴雨预警信号生效中",
+      "onboard_time": 1713665537,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188003,
@@ -419,12 +515,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 164700,
-      "num": 164700,
-      "word": "赵奕欢等了一小时没人选她",
-      "onboard_time": 1713663137,
-      "rank": 30,
+      "raw_hot": 170982,
+      "num": 170982,
+      "word": "福州防空警报",
+      "onboard_time": 1713665298,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167394,
+      "num": 167394,
+      "word": "向佐一套话术忽悠四个女人",
+      "onboard_time": 1713663318,
+      "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162137,
+      "num": 162137,
+      "word": "辛巴 太原老葛",
+      "onboard_time": 1713662178,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 161497,
@@ -435,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160433,
-      "num": 160433,
-      "word": "辛巴 太原老葛",
-      "onboard_time": 1713662178,
-      "rank": 44,
-      "category": "网红"
+      "raw_hot": 157768,
+      "num": 157768,
+      "word": "Rebecca 生病",
+      "onboard_time": 1713664217,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 156931,
@@ -515,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143739,
+      "num": 143739,
+      "word": "眼泪女王收视率",
+      "onboard_time": 1713666198,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142292,
       "num": 107537,
       "word": "Jennie一口气发了20张图",
@@ -537,6 +657,14 @@
       "onboard_time": 1713617897,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140611,
+      "num": 140611,
+      "word": "长期不吃晚餐身体会发生什么",
+      "onboard_time": 1713665778,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 140281,
@@ -577,14 +705,6 @@
       "onboard_time": 1713662539,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137222,
-      "num": 137222,
-      "word": "向佐一套话术忽悠四个女人",
-      "onboard_time": 1713663318,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 136983,
@@ -651,12 +771,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 116768,
-      "num": 116768,
-      "word": "失足女拒亲嘴被打后刺死男子获刑",
-      "onboard_time": 1713663437,
+      "raw_hot": 120048,
+      "num": 120048,
+      "word": "五一假期县域旅游火了",
+      "onboard_time": 1713666138,
       "rank": 46,
-      "category": "社会新闻"
+      "category": "旅游"
     },
     {
       "raw_hot": 115743,
@@ -687,6 +807,14 @@
       "num": 110540,
       "word": "爱德华兹狂喷杜兰特",
       "onboard_time": 1713659598,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108269,
+      "num": 108269,
+      "word": "詹姆斯亮剑",
+      "onboard_time": 1713665177,
       "rank": 49,
       "category": "体育"
     },

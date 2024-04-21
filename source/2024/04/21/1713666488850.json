@@ -1,0 +1,410 @@
+{
+  "runTime": 1713666488850,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1441589,
+        "num": 1441589,
+        "word": "5月份工资可以提前发",
+        "onboard_time": 1713663738,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682648,
+        "num": 682648,
+        "word": "福州沦陷日",
+        "onboard_time": 1713664096,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21259,
+        "num": 607650,
+        "word": "良田良种良机良法绘就当代春耕图",
+        "onboard_time": 1713618858,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594971,
+        "num": 594971,
+        "word": "小马丁回应拒绝黄子韬同台",
+        "onboard_time": 1713658036,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 575860,
+        "num": 575860,
+        "word": "赵奕欢等了一小时没人选她",
+        "onboard_time": 1713663137,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547162,
+        "num": 547162,
+        "word": "特斯拉降价",
+        "onboard_time": 1713660437,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 463018,
+        "num": 463018,
+        "word": "为什么说我国养老金不可能出现问题",
+        "onboard_time": 1713660978,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 413714,
+        "num": 413714,
+        "word": "德国将实现性别自由",
+        "onboard_time": 1713660676,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1787231,
+        "num": 397846,
+        "word": "黄子韬就不当言论道歉",
+        "onboard_time": 1713654433,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373391,
+        "num": 373391,
+        "word": "许美静演唱会 全场喊退票",
+        "onboard_time": 1713658457,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 496065,
+        "num": 355896,
+        "word": "金莎被所有人拒绝",
+        "onboard_time": 1713665658,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319414,
+        "num": 319414,
+        "word": "12306抢票",
+        "onboard_time": 1713664457,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 275731,
+        "num": 275731,
+        "word": "周杰伦演唱会vip座大妈睡着了",
+        "onboard_time": 1713658216,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1011522,
+        "num": 273420,
+        "word": "张予曦越扒越有",
+        "onboard_time": 1713662357,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267427,
+        "num": 267427,
+        "word": "女子3次要回家拿材料工作人员说啥也不让",
+        "onboard_time": 1713655394,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258061,
+        "num": 258061,
+        "word": "陈冠希发了Jennie",
+        "onboard_time": 1713629118,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358233,
+        "num": 251655,
+        "word": "郑恺和苗苗实打实过日子型",
+        "onboard_time": 1713625098,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239283,
+        "num": 239283,
+        "word": "白敬亭 B站",
+        "onboard_time": 1713619639,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231621,
+        "num": 231621,
+        "word": "拉塞尔又拉了",
+        "onboard_time": 1713666016,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201729,
+        "num": 230128,
+        "word": "詹姆斯超远压哨三分",
+        "onboard_time": 1713665478,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590432,
+        "num": 228958,
+        "word": "失足女拒亲嘴被打后刺死男子获刑",
+        "onboard_time": 1713663437,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288856,
+        "num": 226361,
+        "word": "喝水后一直小便和半天不去厕所哪个更健康",
+        "onboard_time": 1713654493,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 282772,
+        "num": 224247,
+        "word": "周海媚墓碑上刻着周芷若画像",
+        "onboard_time": 1713626419,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224115,
+        "num": 224115,
+        "word": "原来被爱会疯狂长出血肉",
+        "onboard_time": 1713665177,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222208,
+        "num": 222208,
+        "word": "我删掉了高中大学的所有同学",
+        "onboard_time": 1713619820,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212513,
+        "num": 212513,
+        "word": "周杰伦演唱会内场歌迷买最贵的票淋最大的雨",
+        "onboard_time": 1713659537,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204202,
+        "num": 204202,
+        "word": "何洁腰封唱跳",
+        "onboard_time": 1713661939,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200685,
+        "num": 200685,
+        "word": "周鸿祎否认针对李彦宏",
+        "onboard_time": 1713665419,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 196834,
+        "num": 196834,
+        "word": "戚薇李承铉没拍过婚纱照",
+        "onboard_time": 1713665778,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188920,
+        "num": 188920,
+        "word": "广东70个暴雨预警信号生效中",
+        "onboard_time": 1713665537,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188067,
+        "num": 188067,
+        "word": "湖人vs掘金",
+        "onboard_time": 1713660437,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183673,
+        "num": 183673,
+        "word": "网传格力取消全员销售",
+        "onboard_time": 1713658577,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 171297,
+        "num": 171297,
+        "word": "重庆90岁老人寿宴上女歌手摔倒去世",
+        "onboard_time": 1713629239,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170982,
+        "num": 170982,
+        "word": "福州防空警报",
+        "onboard_time": 1713665298,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167394,
+        "num": 167394,
+        "word": "向佐一套话术忽悠四个女人",
+        "onboard_time": 1713663318,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162137,
+        "num": 162137,
+        "word": "辛巴 太原老葛",
+        "onboard_time": 1713662178,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 157768,
+        "num": 157768,
+        "word": "Rebecca 生病",
+        "onboard_time": 1713664217,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153122,
+        "num": 153122,
+        "word": "睡前不刷牙的危害有多大",
+        "onboard_time": 1713655454,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143739,
+        "num": 143739,
+        "word": "眼泪女王收视率",
+        "onboard_time": 1713666198,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140611,
+        "num": 140611,
+        "word": "长期不吃晚餐身体会发生什么",
+        "onboard_time": 1713665778,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133900,
+        "num": 133900,
+        "word": "罗正徐艺洋吻戏",
+        "onboard_time": 1713627860,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131905,
+        "num": 131905,
+        "word": "张凯辞职",
+        "onboard_time": 1713654735,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131741,
+        "num": 131741,
+        "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
+        "onboard_time": 1713641412,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130524,
+        "num": 130524,
+        "word": "男子强迫女儿热水泡脚致重伤被判刑",
+        "onboard_time": 1713657917,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125193,
+        "num": 125193,
+        "word": "美众议院通过260亿美元援以法案",
+        "onboard_time": 1713659176,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 121269,
+        "num": 121269,
+        "word": "广东省内多地发布暴雨红色预警",
+        "onboard_time": 1713662539,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120048,
+        "num": 120048,
+        "word": "五一假期县域旅游火了",
+        "onboard_time": 1713666138,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 110030,
+        "num": 110030,
+        "word": "虾头到底能不能吃",
+        "onboard_time": 1713662718,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109785,
+        "num": 109785,
+        "word": "1岁男童被蛇咬伤父母教科书式救援",
+        "onboard_time": 1713654493,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108269,
+        "num": 108269,
+        "word": "詹姆斯亮剑",
+        "onboard_time": 1713665177,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人民解放军信息支援部队成立#"
+    }
+  }
+}
