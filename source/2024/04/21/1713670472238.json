@@ -1,0 +1,410 @@
+{
+  "runTime": 1713670472238,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1369097,
+        "num": 1369097,
+        "word": "5月份工资可以提前发",
+        "onboard_time": 1713663738,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1193523,
+        "num": 1193523,
+        "word": "台湾地震",
+        "onboard_time": 1713668178,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14892,
+        "num": 1120997,
+        "word": "中国建造上新又上量竞争力越来越强",
+        "onboard_time": 1713670218,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1061461,
+        "num": 1061461,
+        "word": "金莎被所有人拒绝",
+        "onboard_time": 1713665658,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 985225,
+        "num": 985225,
+        "word": "姥姥去世一周后妈妈发的信息",
+        "onboard_time": 1713667639,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 681142,
+        "num": 681142,
+        "word": "向佐被李菲儿拒绝脸色变了",
+        "onboard_time": 1713668238,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 607304,
+        "num": 607304,
+        "word": "徐明浩cha了Jennie呱呱舞",
+        "onboard_time": 1713667997,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535062,
+        "num": 535062,
+        "word": "简庆芬出轨",
+        "onboard_time": 1713669499,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 478629,
+        "num": 478629,
+        "word": "福州沦陷日",
+        "onboard_time": 1713664096,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447820,
+        "num": 447820,
+        "word": "韩雪各跳各的",
+        "onboard_time": 1713667037,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545773,
+        "num": 435509,
+        "word": "第一批去新加坡的中产没200万年薪撑不下去",
+        "onboard_time": 1713668057,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402049,
+        "num": 402049,
+        "word": "小马丁回应拒绝黄子韬同台",
+        "onboard_time": 1713658036,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 376022,
+        "num": 376022,
+        "word": "特斯拉与小米SU7价差缩小到1.6万",
+        "onboard_time": 1713666678,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 335286,
+        "num": 335286,
+        "word": "许美静演唱会 全场喊退票",
+        "onboard_time": 1713658457,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 324667,
+        "num": 324667,
+        "word": "拉塞尔又拉了",
+        "onboard_time": 1713666016,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306100,
+        "num": 306100,
+        "word": "厦门震感",
+        "onboard_time": 1713667938,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294315,
+        "num": 294315,
+        "word": "浪姐后期 尚雯婕超女梗",
+        "onboard_time": 1713669078,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258526,
+        "num": 258526,
+        "word": "12306抢票",
+        "onboard_time": 1713664457,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 252551,
+        "num": 252551,
+        "word": "为什么说我国养老金不可能出现问题",
+        "onboard_time": 1713660978,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 219135,
+        "num": 219135,
+        "word": "深圳暴雨",
+        "onboard_time": 1713670099,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1445119,
+        "num": 214887,
+        "word": "黄子韬就不当言论道歉",
+        "onboard_time": 1713654433,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 726216,
+        "num": 212347,
+        "word": "张予曦越扒越有",
+        "onboard_time": 1713662357,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402562,
+        "num": 211051,
+        "word": "失足女拒亲嘴被打后刺死男子获刑",
+        "onboard_time": 1713663437,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209619,
+        "num": 209619,
+        "word": "德国将实现性别自由",
+        "onboard_time": 1713660676,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337064,
+        "num": 209417,
+        "word": "长期不吃晚餐身体会发生什么",
+        "onboard_time": 1713665778,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 271026,
+        "num": 208277,
+        "word": "原来这就是不胖和很瘦的区别",
+        "onboard_time": 1713668117,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205989,
+        "num": 205989,
+        "word": "哈尔滨一九四四",
+        "onboard_time": 1713669499,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205433,
+        "num": 205433,
+        "word": "赵奕欢等了一小时没人选她",
+        "onboard_time": 1713663137,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205283,
+        "num": 205283,
+        "word": "陈冠希发了Jennie",
+        "onboard_time": 1713629118,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164406,
+        "num": 204847,
+        "word": "广东70个暴雨预警信号生效中",
+        "onboard_time": 1713665537,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211562,
+        "num": 204826,
+        "word": "毛毛分娩后不知所措",
+        "onboard_time": 1713670218,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 8116,
+        "num": 204801,
+        "word": "良田良种良机良法绘就当代春耕图",
+        "onboard_time": 1713618858,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204791,
+        "num": 204791,
+        "word": "还没毕业就拿到百万offer",
+        "onboard_time": 1713669737,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201928,
+        "num": 201928,
+        "word": "掘金战胜湖人",
+        "onboard_time": 1713669858,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193088,
+        "num": 193088,
+        "word": "考研的每天平均睡多长时间",
+        "onboard_time": 1713668297,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188177,
+        "num": 192149,
+        "word": "戚薇李承铉没拍过婚纱照",
+        "onboard_time": 1713665778,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191282,
+        "num": 191282,
+        "word": "专家不认同延迟退休致年轻人难就业",
+        "onboard_time": 1713667457,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189582,
+        "num": 189582,
+        "word": "大英赛",
+        "onboard_time": 1713660798,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 184306,
+        "num": 184306,
+        "word": "林更新体育生误入艺术班",
+        "onboard_time": 1713669619,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166973,
+        "num": 166973,
+        "word": "周杰伦演唱会vip座大妈睡着了",
+        "onboard_time": 1713658216,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166505,
+        "num": 166505,
+        "word": "周海媚墓碑上刻着周芷若画像",
+        "onboard_time": 1713626419,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161127,
+        "num": 161127,
+        "word": "原来被爱会疯狂长出血肉",
+        "onboard_time": 1713665177,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154538,
+        "num": 154538,
+        "word": "郑恺和苗苗实打实过日子型",
+        "onboard_time": 1713625098,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153469,
+        "num": 153469,
+        "word": "喝水后一直小便和半天不去厕所哪个更健康",
+        "onboard_time": 1713654493,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151217,
+        "num": 151217,
+        "word": "白敬亭 B站",
+        "onboard_time": 1713619639,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148799,
+        "num": 148799,
+        "word": "大英赛答案",
+        "onboard_time": 1713670278,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144343,
+        "num": 144343,
+        "word": "特斯拉降价",
+        "onboard_time": 1713660437,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 143831,
+        "num": 143831,
+        "word": "五一假期县域旅游火了",
+        "onboard_time": 1713666138,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 136192,
+        "num": 136192,
+        "word": "眼泪女王收视率",
+        "onboard_time": 1713666198,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135480,
+        "num": 135480,
+        "word": "浓眉32分",
+        "onboard_time": 1713670398,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟随总书记足迹看长三角之变#"
+    }
+  }
+}
