@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713713785129,
+  "endTime": 1713716506059,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -491,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598677,
+      "num": 509030,
+      "word": "ILLIT直播被骂是注水咖",
+      "onboard_time": 1713711622,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 588517,
       "num": 588517,
       "word": "第一批去新加坡的中产没200万年薪撑不下去",
@@ -569,6 +577,14 @@
       "onboard_time": 1713678320,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 565724,
+      "num": 388227,
+      "word": "张拿铁 自己是一个很内耗的人",
+      "onboard_time": 1713709944,
+      "rank": 49,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 561606,
@@ -689,14 +705,6 @@
       "onboard_time": 1713669499,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 509030,
-      "num": 509030,
-      "word": "ILLIT直播被骂是注水咖",
-      "onboard_time": 1713711622,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 508187,
@@ -1099,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 352533,
-      "num": 352533,
-      "word": "张拿铁 自己是一个很内耗的人",
-      "onboard_time": 1713709944,
-      "rank": 49,
-      "category": "幽默,网红"
-    },
-    {
       "raw_hot": 351078,
       "num": 351078,
       "word": "产妇跪求剖腹产多次被拒绝",
@@ -1257,6 +1257,14 @@
       "onboard_time": 1713693378,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304595,
+      "num": 304595,
+      "word": "白桃星座",
+      "onboard_time": 1713714797,
+      "rank": 18,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 298792,
@@ -1659,8 +1667,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 216857,
-      "num": 216857,
+      "raw_hot": 217750,
+      "num": 217750,
       "word": "为什么周日晚上总是睡不着",
       "onboard_time": 1713711500,
       "rank": 40,
@@ -1947,6 +1955,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 195377,
+      "num": 195377,
+      "word": "范丞丞你真的很懂",
+      "onboard_time": 1713713779,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193626,
       "num": 193626,
       "word": "致敬龙队",
@@ -2017,6 +2033,14 @@
       "onboard_time": 1713667457,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189695,
+      "num": 189695,
+      "word": "马龙夺冠",
+      "onboard_time": 1713715278,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 189100,
@@ -2128,6 +2152,14 @@
       "word": "白鹿蓝色新中式",
       "onboard_time": 1713674719,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184389,
+      "num": 184389,
+      "word": "以为是陈丽君仿妆结果是本人",
+      "onboard_time": 1713714321,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -2265,6 +2297,14 @@
       "onboard_time": 1713671718,
       "rank": 33,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 170988,
+      "num": 170988,
+      "word": "朱丹回应小肚子",
+      "onboard_time": 1713714020,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 170982,
@@ -2603,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145144,
+      "num": 145144,
+      "word": "眼泪女王预告",
+      "onboard_time": 1713714020,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144837,
       "num": 144837,
       "word": "香云纱才是中式老钱风天花板",
@@ -2747,6 +2795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137834,
+      "num": 137834,
+      "word": "你俩是在拍半熟恋人吧",
+      "onboard_time": 1713715457,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137746,
       "num": 137746,
       "word": "青岛马拉松",
@@ -2873,6 +2929,14 @@
       "onboard_time": 1713675200,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131080,
+      "num": 131080,
+      "word": "姚志明麦承欢官宣",
+      "onboard_time": 1713715997,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 129485,
@@ -3081,6 +3145,14 @@
       "onboard_time": 1713698119,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107049,
+      "num": 107049,
+      "word": "秦岚辛芷蕾 双向友情具象化",
+      "onboard_time": 1713716357,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 105808,
