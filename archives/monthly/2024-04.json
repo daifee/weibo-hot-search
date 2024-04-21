@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713683803287,
+  "endTime": 1713684845668,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -6011,6 +6011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 822406,
+      "num": 822406,
+      "word": "王安宇 没有冒犯姐夫想替代姐夫",
+      "onboard_time": 1713678139,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 822265,
       "num": 822265,
       "word": "infp 最接近神的人格",
@@ -7041,14 +7049,6 @@
       "onboard_time": 1712575579,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 756822,
-      "num": 756822,
-      "word": "王安宇 没有冒犯姐夫想替代姐夫",
-      "onboard_time": 1713678139,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 756594,
@@ -9475,6 +9475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 623700,
+      "num": 623700,
+      "word": "邓超真的把鹿晗当亲儿子宠了",
+      "onboard_time": 1713680539,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 622992,
       "num": 622992,
       "word": "黄子韬比心 徐艺洋比耶",
@@ -11147,14 +11155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 561675,
-      "num": 561675,
-      "word": "邓超真的把鹿晗当亲儿子宠了",
-      "onboard_time": 1713680539,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 560603,
       "num": 477961,
       "word": "与多名女同事接吻的乌军官自愿上前线",
@@ -11385,6 +11385,14 @@
       "onboard_time": 1712305217,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 551477,
+      "num": 502299,
+      "word": "姐夫好我是王安宇",
+      "onboard_time": 1713680179,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 551408,
@@ -11787,14 +11795,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 536944,
-      "num": 473621,
-      "word": "姐夫好我是王安宇",
-      "onboard_time": 1713680179,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 536916,
       "num": 379396,
       "word": "赵露思王安宇拥抱",
@@ -11817,6 +11817,14 @@
       "onboard_time": 1712310798,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 536310,
+      "num": 536310,
+      "word": "B太揭秘卫生巾灰色产业链",
+      "onboard_time": 1713679939,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 536274,
@@ -11865,14 +11873,6 @@
       "onboard_time": 1713669499,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 534988,
-      "num": 534988,
-      "word": "B太揭秘卫生巾灰色产业链",
-      "onboard_time": 1713679939,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 534298,
@@ -18243,6 +18243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374775,
+      "num": 374775,
+      "word": "垫音",
+      "onboard_time": 1713682337,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 374749,
       "num": 374749,
       "word": "十年后才知道朋友提前杀虫了",
@@ -19451,6 +19459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 351078,
+      "num": 351078,
+      "word": "产妇跪求剖腹产多次被拒绝",
+      "onboard_time": 1713684677,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350960,
       "num": 350960,
       "word": "李沁演技",
@@ -19676,7 +19692,7 @@
     },
     {
       "raw_hot": 346660,
-      "num": 217139,
+      "num": 300078,
       "word": "秦岚偷偷量了辛芷蕾手指尺寸",
       "onboard_time": 1713678499,
       "rank": 21,
@@ -20097,6 +20113,14 @@
       "onboard_time": 1712630897,
       "rank": 7,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 339080,
+      "num": 339080,
+      "word": "二开",
+      "onboard_time": 1713684079,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 339067,
@@ -21267,6 +21291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 318963,
+      "num": 318963,
+      "word": "日本首相岸田向靖国神社供奉祭品",
+      "onboard_time": 1713682337,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 318793,
       "num": 318793,
       "word": "男朋友陪考裸考比我学一个月考的高",
@@ -21577,6 +21609,14 @@
       "onboard_time": 1711903636,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313790,
+      "num": 313790,
+      "word": "不会扎低丸子头的有福了",
+      "onboard_time": 1713682756,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 313749,
@@ -25307,14 +25347,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 262654,
-      "num": 168736,
-      "word": "不会扎低丸子头的有福了",
-      "onboard_time": 1713682756,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 262588,
       "num": 262588,
       "word": "比特币跳水29万人爆仓",
@@ -27179,14 +27211,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 244473,
-      "num": 244473,
-      "word": "垫音",
-      "onboard_time": 1713682337,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 244471,
       "num": 244471,
       "word": "JKL 菜",
@@ -27985,6 +28009,14 @@
       "onboard_time": 1712117602,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238020,
+      "num": 219311,
+      "word": "陈昊宇好看",
+      "onboard_time": 1713682218,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 237962,
@@ -29875,14 +29907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 221809,
-      "num": 179657,
-      "word": "陈昊宇好看",
-      "onboard_time": 1713682218,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 221709,
       "num": 221709,
       "word": "文彬",
@@ -30363,6 +30387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 218207,
+      "num": 218207,
+      "word": "TheShy直播除三害",
+      "onboard_time": 1713683057,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 218203,
       "num": 218203,
       "word": "早晚餐吃得晚疾病风险大增",
@@ -30820,7 +30852,7 @@
     },
     {
       "raw_hot": 214709,
-      "num": 273546,
+      "num": 327860,
       "word": "你永远可以相信大自然的疗愈力",
       "onboard_time": 1713680298,
       "rank": 39,
@@ -32177,6 +32209,14 @@
       "onboard_time": 1712586320,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207132,
+      "num": 207132,
+      "word": "F1",
+      "onboard_time": 1712386817,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 207114,
@@ -33659,6 +33699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201538,
+      "num": 201538,
+      "word": "Doinb为Tian大哭",
+      "onboard_time": 1713684677,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201500,
       "num": 201500,
       "word": "王一博能不能拍一部卧底剧",
@@ -33977,14 +34025,6 @@
       "onboard_time": 1713062898,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200128,
-      "num": 200128,
-      "word": "F1",
-      "onboard_time": 1712386817,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 200068,
@@ -34772,7 +34812,7 @@
     },
     {
       "raw_hot": 197103,
-      "num": 150512,
+      "num": 168236,
       "word": "凤凰传奇 我也想去现场",
       "onboard_time": 1713679460,
       "rank": 31,
@@ -35041,14 +35081,6 @@
       "onboard_time": 1713261558,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195779,
-      "num": 195779,
-      "word": "日本首相岸田向靖国神社供奉祭品",
-      "onboard_time": 1713682337,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 195762,
@@ -35865,14 +35897,6 @@
       "onboard_time": 1711937779,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192442,
-      "num": 168400,
-      "word": "TheShy直播除三害",
-      "onboard_time": 1713683057,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 192404,
@@ -42017,6 +42041,14 @@
       "onboard_time": 1713427217,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165524,
+      "num": 165524,
+      "word": "刘诗诗下厨",
+      "onboard_time": 1713684558,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 165510,
@@ -50443,6 +50475,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 129043,
+      "num": 129043,
+      "word": "疑似张凯回应辞职",
+      "onboard_time": 1713683718,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129022,
       "num": 129022,
       "word": "林允暖阳照",
@@ -50777,6 +50817,14 @@
       "onboard_time": 1712562197,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126936,
+      "num": 126936,
+      "word": "在山东没有放不起来的风筝",
+      "onboard_time": 1713684558,
+      "rank": 47,
+      "category": "情感,旅游"
     },
     {
       "raw_hot": 126926,
@@ -55027,14 +55075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91068,
-      "num": 101168,
-      "word": "疑似张凯回应辞职",
-      "onboard_time": 1713683718,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 91015,
       "num": 968447,
       "word": "看不见的守护正无处不在",
@@ -57409,6 +57449,14 @@
       "onboard_time": 1712599932,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45602,
+      "num": 352988,
+      "word": "周冠宇说国旗一直是我的动力",
+      "onboard_time": 1713684558,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 44932,
