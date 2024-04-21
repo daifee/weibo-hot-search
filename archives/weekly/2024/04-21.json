@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713737812265,
+  "endTime": 1713738837728,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -787,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473223,
+      "num": 473223,
+      "word": "女子称一个月光洗澡燃气费达130多元",
+      "onboard_time": 1713718575,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471420,
       "num": 471420,
       "word": "秦岚偷偷量了辛芷蕾手指尺寸",
@@ -977,14 +985,6 @@
       "onboard_time": 1713615258,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 402907,
-      "num": 402907,
-      "word": "女子称一个月光洗澡燃气费达130多元",
-      "onboard_time": 1713718575,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 396062,
@@ -1513,6 +1513,14 @@
       "onboard_time": 1713679338,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241206,
+      "num": 127686,
+      "word": "为什么闭上眼睛能看到诡异的波纹",
+      "onboard_time": 1713731651,
+      "rank": 11,
+      "category": "科学科普"
     },
     {
       "raw_hot": 241038,
@@ -2265,14 +2273,6 @@
       "onboard_time": 1713689839,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 176869,
-      "num": 91888,
-      "word": "为什么闭上眼睛能看到诡异的波纹",
-      "onboard_time": 1713731651,
-      "rank": 11,
-      "category": "科学科普"
     },
     {
       "raw_hot": 176531,
@@ -3035,6 +3035,14 @@
       "category": "情感,旅游"
     },
     {
+      "raw_hot": 126781,
+      "num": 126781,
+      "word": "中国土味短剧在日本火了",
+      "onboard_time": 1713728050,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126204,
       "num": 126204,
       "word": "JKL 菜",
@@ -3243,14 +3251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91797,
-      "num": 91797,
-      "word": "中国土味短剧在日本火了",
-      "onboard_time": 1713728050,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 90336,
       "num": 90336,
       "word": "韩网评价金秀贤演技",
@@ -3371,6 +3371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68413,
+      "num": 68413,
+      "word": "皇马vs巴萨",
+      "onboard_time": 1713725232,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67576,
       "num": 107513,
       "word": "CFPLS23总决赛",
@@ -3395,12 +3403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67109,
-      "num": 67109,
-      "word": "皇马vs巴萨",
-      "onboard_time": 1713725232,
+      "raw_hot": 60314,
+      "num": 60314,
+      "word": "秦昊严选",
+      "onboard_time": 1713736331,
       "rank": 27,
-      "category": "体育"
+      "category": "剧集"
     },
     {
       "raw_hot": 60265,
@@ -3457,6 +3465,14 @@
       "onboard_time": 1713654854,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50787,
+      "num": 50787,
+      "word": "老了以后才渐渐明白的事",
+      "onboard_time": 1713735130,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 50040,
@@ -3523,12 +3539,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 37557,
-      "num": 37557,
-      "word": "秦昊严选",
-      "onboard_time": 1713736331,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 38175,
+      "num": 38175,
+      "word": "能促进代谢的8种食物",
+      "onboard_time": 1713731770,
+      "rank": 42,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 36903,
@@ -3555,22 +3571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32075,
-      "num": 32075,
-      "word": "能促进代谢的8种食物",
-      "onboard_time": 1713731770,
-      "rank": 42,
-      "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 31903,
-      "num": 31903,
-      "word": "老了以后才渐渐明白的事",
-      "onboard_time": 1713735130,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 29767,
       "num": 28406,
       "word": "胃癌在早期没有症状",
@@ -3585,6 +3585,14 @@
       "onboard_time": 1713639913,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26989,
+      "num": 26989,
+      "word": "柳岩禁欲系全黑造型",
+      "onboard_time": 1713738613,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 24735,
