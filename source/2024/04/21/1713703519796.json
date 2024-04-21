@@ -1,0 +1,410 @@
+{
+  "runTime": 1713703519796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1319396,
+        "num": 1319396,
+        "word": "副市长现身凤凰传奇演唱会",
+        "onboard_time": 1713699619,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1289435,
+        "num": 1289435,
+        "word": "孙颖莎对战王曼昱",
+        "onboard_time": 1713697578,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24375,
+        "num": 1216461,
+        "word": "世界首套高清月球地质写真集",
+        "onboard_time": 1713661519,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1170710,
+        "num": 1170710,
+        "word": "孙颖莎状态",
+        "onboard_time": 1713701958,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1148624,
+        "num": 1148624,
+        "word": "医生辟谣小肚子是为了保护子宫卵巢",
+        "onboard_time": 1713694397,
+        "rank": 4,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 505342,
+        "num": 505342,
+        "word": "女生报警称遭同学脑电波窃取隐私",
+        "onboard_time": 1713696078,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494169,
+        "num": 494169,
+        "word": "王楚钦看台观战决赛",
+        "onboard_time": 1713701718,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 459275,
+        "num": 459275,
+        "word": "哈尔滨一九四四",
+        "onboard_time": 1713702560,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398253,
+        "num": 398253,
+        "word": "周冠宇哭了",
+        "onboard_time": 1713690258,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220941,
+        "num": 397306,
+        "word": "女子高挂10层阳台邻居大哥机智救援",
+        "onboard_time": 1713693020,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 487456,
+        "num": 395342,
+        "word": "赵露思抹胸高定",
+        "onboard_time": 1713698599,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 450062,
+        "num": 393456,
+        "word": "李晟发和赵丽颖聊天记录",
+        "onboard_time": 1713672138,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437824,
+        "num": 392515,
+        "word": "辽宁两老太发生争吵厮打一人身亡",
+        "onboard_time": 1713698119,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391459,
+        "num": 391459,
+        "word": "中国近一半大城市正在下沉",
+        "onboard_time": 1713673939,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 369036,
+        "num": 369036,
+        "word": "每天1杯柠檬水身体会有何变化",
+        "onboard_time": 1713685697,
+        "rank": 14,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 366460,
+        "num": 366460,
+        "word": "GQ派对",
+        "onboard_time": 1713699977,
+        "rank": 15,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 359526,
+        "num": 359526,
+        "word": "林依轮举孙颖莎手幅",
+        "onboard_time": 1713702140,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313925,
+        "num": 313925,
+        "word": "杨幂民国军装",
+        "onboard_time": 1713699619,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246624,
+        "num": 246624,
+        "word": "周杰伦杭州",
+        "onboard_time": 1713703099,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219554,
+        "num": 219554,
+        "word": "何瑞之 冷暴力",
+        "onboard_time": 1713687199,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 502932,
+        "num": 217049,
+        "word": "一小时内被三个人说我占座了",
+        "onboard_time": 1713699858,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245853,
+        "num": 215411,
+        "word": "女生把健身当摸鱼一月瘦10斤",
+        "onboard_time": 1713691638,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637147,
+        "num": 212523,
+        "word": "杨幂文替",
+        "onboard_time": 1713695419,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207947,
+        "num": 207947,
+        "word": "12306 候补",
+        "onboard_time": 1713685820,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196158,
+        "num": 196158,
+        "word": "喝黑咖的韩国人对中式奶茶上头了",
+        "onboard_time": 1713699858,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192966,
+        "num": 192966,
+        "word": "陈楚生唱了离群的鹿",
+        "onboard_time": 1713703159,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185203,
+        "num": 185203,
+        "word": "WB连续三大场被零封",
+        "onboard_time": 1713697336,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179276,
+        "num": 179276,
+        "word": "张艺兴朴灿烈连线",
+        "onboard_time": 1713691339,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176619,
+        "num": 176619,
+        "word": "世界是一个巨大的草台班子",
+        "onboard_time": 1713700459,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174614,
+        "num": 174614,
+        "word": "JYP发言",
+        "onboard_time": 1713696021,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71772,
+        "num": 173798,
+        "word": "蛋仔派对猫和老鼠联动",
+        "onboard_time": 1713703040,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173669,
+        "num": 173669,
+        "word": "三木复出",
+        "onboard_time": 1713699918,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173430,
+        "num": 173430,
+        "word": "陈丽君浪姐鼓王",
+        "onboard_time": 1713701658,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171098,
+        "num": 171098,
+        "word": "海产姐妹",
+        "onboard_time": 1713703339,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164219,
+        "num": 164219,
+        "word": "每天跑步和每天举铁哪个更健康",
+        "onboard_time": 1713700398,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 163439,
+        "num": 163439,
+        "word": "林志颖林俊杰吴彦祖昆凌齐聚上海F1",
+        "onboard_time": 1713693316,
+        "rank": 35,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 162083,
+        "num": 162083,
+        "word": "鹿晗生日派对照",
+        "onboard_time": 1713694218,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161385,
+        "num": 161385,
+        "word": "关雪给自己包扎",
+        "onboard_time": 1713701658,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159545,
+        "num": 159545,
+        "word": "为什么男科医院广告总在公交车上",
+        "onboard_time": 1713701598,
+        "rank": 38,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 152613,
+        "num": 152613,
+        "word": "韩国女团MV涉嫌恋童引争议",
+        "onboard_time": 1713685637,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152151,
+        "num": 152151,
+        "word": "黄子韬小马丁舞台事件主办方道歉",
+        "onboard_time": 1713692958,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148583,
+        "num": 148583,
+        "word": "郑秀妍演唱会",
+        "onboard_time": 1713703279,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145772,
+        "num": 145772,
+        "word": "林允薄荷蛋糕裙",
+        "onboard_time": 1713702978,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141017,
+        "num": 141017,
+        "word": "周冠宇 我爱你们",
+        "onboard_time": 1713700938,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140625,
+        "num": 140625,
+        "word": "陈芋汐10米台冠军",
+        "onboard_time": 1713694517,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140428,
+        "num": 140428,
+        "word": "眼泪女王是懂怎么刀人的",
+        "onboard_time": 1713698838,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135344,
+        "num": 135344,
+        "word": "龚俊嘴是硬的腿是软的人是不信的",
+        "onboard_time": 1713700759,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131730,
+        "num": 131730,
+        "word": "海产姐妹再度强强对决",
+        "onboard_time": 1713702978,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131230,
+        "num": 131230,
+        "word": "EXO团魂",
+        "onboard_time": 1713692839,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130487,
+        "num": 130487,
+        "word": "马龙对战林高远",
+        "onboard_time": 1713703458,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟随总书记足迹看长三角之变#"
+    }
+  }
+}
