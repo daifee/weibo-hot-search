@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713708953058,
+  "endTime": 1713710045562,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2956182,
+      "num": 2956182,
+      "word": "擦边球",
+      "onboard_time": 1713706581,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2947527,
       "num": 2947527,
       "word": "日本海啸",
@@ -233,6 +241,14 @@
       "onboard_time": 1711944082,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2919151,
+      "num": 2919151,
+      "word": "马龙对战林高远",
+      "onboard_time": 1713703458,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 2868617,
@@ -289,14 +305,6 @@
       "onboard_time": 1712549540,
       "rank": 11,
       "category": "财经"
-    },
-    {
-      "raw_hot": 2623349,
-      "num": 2623349,
-      "word": "擦边球",
-      "onboard_time": 1713706581,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 2605339,
@@ -1668,7 +1676,7 @@
     },
     {
       "raw_hot": 1537487,
-      "num": 1392216,
+      "num": 1457585,
       "word": "美国老人感染僵尸鹿病毒死亡",
       "onboard_time": 1713705440,
       "rank": 39,
@@ -2097,14 +2105,6 @@
       "onboard_time": 1712801357,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1390322,
-      "num": 1390322,
-      "word": "马龙对战林高远",
-      "onboard_time": 1713703458,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 1387971,
@@ -2921,6 +2921,14 @@
       "onboard_time": 1711969880,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1217906,
+      "num": 1217906,
+      "word": "钟薛高创始人称卖红薯也要把债还上",
+      "onboard_time": 1713707361,
+      "rank": 9,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1217664,
@@ -6011,6 +6019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 831897,
+      "num": 831897,
+      "word": "全红婵摘银后公主抱英国铜牌得主",
+      "onboard_time": 1713707181,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 831661,
       "num": 831661,
       "word": "单依纯",
@@ -6217,14 +6233,6 @@
       "onboard_time": 1712728339,
       "rank": 10,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 819121,
-      "num": 819121,
-      "word": "全红婵摘银后公主抱英国铜牌得主",
-      "onboard_time": 1713707181,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 816939,
@@ -7435,14 +7443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 745122,
-      "num": 745122,
-      "word": "钟薛高创始人称卖红薯也要把债还上",
-      "onboard_time": 1713707361,
-      "rank": 9,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 744914,
       "num": 744914,
       "word": "年轻真好14秒睡了5觉",
@@ -8297,6 +8297,14 @@
       "onboard_time": 1713330020,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691895,
+      "num": 691895,
+      "word": "孙颖莎大满贯",
+      "onboard_time": 1713708381,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 691194,
@@ -10825,6 +10833,14 @@
       "onboard_time": 1713692839,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 581734,
+      "num": 581734,
+      "word": "罗云熙演唱会票价1680",
+      "onboard_time": 1713708681,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 581518,
@@ -14451,6 +14467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 472221,
+      "num": 472221,
+      "word": "庄达菲妈咪陈昊宇",
+      "onboard_time": 1713707060,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 472101,
       "num": 472101,
       "word": "IU抢票",
@@ -17419,14 +17443,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 399661,
-      "num": 399661,
-      "word": "庄达菲妈咪陈昊宇",
-      "onboard_time": 1713707060,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 399626,
       "num": 399626,
       "word": "李耕耘健身成果",
@@ -17811,6 +17827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392691,
+      "num": 392691,
+      "word": "不想发朋友圈的可以发状态",
+      "onboard_time": 1713708082,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 392568,
       "num": 392568,
       "word": "马克龙说巴黎奥运会开幕式存在B计划",
@@ -18033,6 +18057,14 @@
       "onboard_time": 1711939218,
       "rank": 33,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 387543,
+      "num": 387543,
+      "word": "林高远反手",
+      "onboard_time": 1713709763,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 387472,
@@ -18651,6 +18683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 376444,
+      "num": 376444,
+      "word": "极限挑战开播",
+      "onboard_time": 1713706641,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376281,
       "num": 253267,
       "word": "小县城为什么没有穿衣自由",
@@ -19161,14 +19201,6 @@
       "onboard_time": 1711931059,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 365384,
-      "num": 365384,
-      "word": "孙颖莎大满贯",
-      "onboard_time": 1713708381,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 365207,
@@ -20049,14 +20081,6 @@
       "onboard_time": 1712982618,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 348782,
-      "num": 348782,
-      "word": "不想发朋友圈的可以发状态",
-      "onboard_time": 1713708082,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 348415,
@@ -22433,14 +22457,6 @@
       "onboard_time": 1712215158,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 308657,
-      "num": 308657,
-      "word": "极限挑战开播",
-      "onboard_time": 1713706641,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 308479,
@@ -26699,6 +26715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 254381,
+      "num": 254381,
+      "word": "东北雨姐是东北给全国人打的一针兴奋剂",
+      "onboard_time": 1713708622,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 254333,
       "num": 254333,
       "word": "格里芬退役",
@@ -26713,6 +26737,14 @@
       "onboard_time": 1711950681,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254114,
+      "num": 254114,
+      "word": "莎头 少男的祈祷",
+      "onboard_time": 1713709402,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 254104,
@@ -26945,6 +26977,14 @@
       "onboard_time": 1712548880,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252412,
+      "num": 252412,
+      "word": "眼泪女王第十四集",
+      "onboard_time": 1713709522,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 252270,
@@ -27529,6 +27569,14 @@
       "onboard_time": 1712034380,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247819,
+      "num": 247819,
+      "word": "徐嘉余冠军",
+      "onboard_time": 1713708742,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 247649,
@@ -28121,6 +28169,14 @@
       "onboard_time": 1712711239,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242210,
+      "num": 242210,
+      "word": "周杰伦送外套给粉丝",
+      "onboard_time": 1713709701,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 242007,
@@ -30083,14 +30139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225795,
-      "num": 225795,
-      "word": "罗云熙演唱会票价1680",
-      "onboard_time": 1713708681,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 225775,
       "num": 225775,
       "word": "什么是上班20分钟定律",
@@ -31003,6 +31051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 218601,
+      "num": 218601,
+      "word": "林依轮说太紧张了想要个呼吸机",
+      "onboard_time": 1713709102,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218588,
       "num": 218588,
       "word": "小米SU7命名来由",
@@ -31793,6 +31849,14 @@
       "onboard_time": 1713255498,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213211,
+      "num": 213211,
+      "word": "龚俊又被骗了",
+      "onboard_time": 1713706521,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 213034,
@@ -32953,14 +33017,6 @@
       "onboard_time": 1713017000,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 206978,
-      "num": 206978,
-      "word": "龚俊又被骗了",
-      "onboard_time": 1713706521,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 206972,
@@ -34803,6 +34859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199797,
+      "num": 199797,
+      "word": "四个玩手机的最佳姿势",
+      "onboard_time": 1713708981,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 199754,
       "num": 199754,
       "word": "男子在电梯实施家暴被保安制服",
@@ -36417,6 +36481,14 @@
       "onboard_time": 1712885000,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 193479,
+      "num": 193479,
+      "word": "孙颖莎采访",
+      "onboard_time": 1713709582,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 193454,
@@ -38299,6 +38371,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 186951,
+      "num": 186951,
+      "word": "夏之光挑眉",
+      "onboard_time": 1713709224,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 186944,
       "num": 186944,
       "word": "脆皮大学生和他们的韧骨爷奶们",
@@ -39305,14 +39385,6 @@
       "onboard_time": 1712655919,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 183009,
-      "num": 183009,
-      "word": "东北雨姐是东北给全国人打的一针兴奋剂",
-      "onboard_time": 1713708622,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 183007,
@@ -40739,6 +40811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175992,
+      "num": 175992,
+      "word": "本来以为迪士尼已经够美了",
+      "onboard_time": 1713707181,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 175954,
       "num": 159183,
       "word": "赵昭仪在一声声叫好中迷失自我",
@@ -41827,14 +41907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 171163,
-      "num": 171163,
-      "word": "徐嘉余冠军",
-      "onboard_time": 1713708742,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 171133,
       "num": 171133,
       "word": "原来躺着就能改善驼背",
@@ -42339,14 +42411,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 168567,
-      "num": 168567,
-      "word": "本来以为迪士尼已经够美了",
-      "onboard_time": 1713707181,
-      "rank": 46,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 168446,
       "num": 168446,
       "word": "承欢记人哭麻了心哭碎了",
@@ -42721,6 +42785,14 @@
       "onboard_time": 1712534059,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 166444,
+      "num": 166444,
+      "word": "张拿铁 自己是一个很内耗的人",
+      "onboard_time": 1713709944,
+      "rank": 49,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 166424,
@@ -56859,6 +56931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78004,
+      "num": 540048,
+      "word": "阅读有助于情绪稳定吗",
+      "onboard_time": 1713708022,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77927,
       "num": 60180,
       "word": "锦超演的傅卫军",
@@ -59040,14 +59120,6 @@
       "word": "云逛广交会",
       "onboard_time": 1713258019,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37101,
-      "num": 511117,
-      "word": "阅读有助于情绪稳定吗",
-      "onboard_time": 1713708022,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1713710045562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2956182,
+        "num": 2956182,
+        "word": "擦边球",
+        "onboard_time": 1713706581,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2919151,
+        "num": 2919151,
+        "word": "马龙对战林高远",
+        "onboard_time": 1713703458,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10929,
+        "num": 1528136,
+        "word": "最新中华文化主题宣传片",
+        "onboard_time": 1713670699,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1457585,
+        "num": 1457585,
+        "word": "美国老人感染僵尸鹿病毒死亡",
+        "onboard_time": 1713705440,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1217906,
+        "num": 1217906,
+        "word": "钟薛高创始人称卖红薯也要把债还上",
+        "onboard_time": 1713707361,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 929677,
+        "num": 929677,
+        "word": "北京市副市长高朋被查",
+        "onboard_time": 1713707122,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855286,
+        "num": 855286,
+        "word": "陈丽君断层第一",
+        "onboard_time": 1713704359,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 831897,
+        "num": 831897,
+        "word": "全红婵摘银后公主抱英国铜牌得主",
+        "onboard_time": 1713707181,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 768679,
+        "num": 768679,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1713705020,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 761596,
+        "num": 761596,
+        "word": "皮肤科医生不建议点痣",
+        "onboard_time": 1713704600,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 691895,
+        "num": 691895,
+        "word": "孙颖莎大满贯",
+        "onboard_time": 1713708381,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 661157,
+        "num": 661157,
+        "word": "医生辟谣小肚子是为了保护子宫卵巢",
+        "onboard_time": 1713694397,
+        "rank": 11,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 594890,
+        "num": 594890,
+        "word": "杨幂演技",
+        "onboard_time": 1713705680,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 581734,
+        "num": 581734,
+        "word": "罗云熙演唱会票价1680",
+        "onboard_time": 1713708681,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78004,
+        "num": 540048,
+        "word": "阅读有助于情绪稳定吗",
+        "onboard_time": 1713708022,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525240,
+        "num": 525240,
+        "word": "副市长现身凤凰传奇演唱会",
+        "onboard_time": 1713699619,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 473785,
+        "num": 473785,
+        "word": "胡先煦高烧40度出席首映礼",
+        "onboard_time": 1713705081,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 472221,
+        "num": 472221,
+        "word": "庄达菲妈咪陈昊宇",
+        "onboard_time": 1713707060,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422182,
+        "num": 422182,
+        "word": "眼泪女王",
+        "onboard_time": 1713705260,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413886,
+        "num": 413886,
+        "word": "哈尔滨一九四四收视率",
+        "onboard_time": 1713707300,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392691,
+        "num": 392691,
+        "word": "不想发朋友圈的可以发状态",
+        "onboard_time": 1713708082,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387543,
+        "num": 387543,
+        "word": "林高远反手",
+        "onboard_time": 1713709763,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376444,
+        "num": 376444,
+        "word": "极限挑战开播",
+        "onboard_time": 1713706641,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309749,
+        "num": 309749,
+        "word": "一小时内被三个人说我占座了",
+        "onboard_time": 1713699858,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271827,
+        "num": 271827,
+        "word": "ILLIT粉丝名",
+        "onboard_time": 1713708082,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257118,
+        "num": 257118,
+        "word": "林依轮举孙颖莎手幅",
+        "onboard_time": 1713702140,
+        "rank": 25,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 254381,
+        "num": 254381,
+        "word": "东北雨姐是东北给全国人打的一针兴奋剂",
+        "onboard_time": 1713708622,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 254114,
+        "num": 254114,
+        "word": "莎头 少男的祈祷",
+        "onboard_time": 1713709402,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252412,
+        "num": 252412,
+        "word": "眼泪女王第十四集",
+        "onboard_time": 1713709522,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247819,
+        "num": 247819,
+        "word": "徐嘉余冠军",
+        "onboard_time": 1713708742,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242831,
+        "num": 242831,
+        "word": "赵露思抹胸高定",
+        "onboard_time": 1713698599,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 242210,
+        "num": 242210,
+        "word": "周杰伦送外套给粉丝",
+        "onboard_time": 1713709701,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 233542,
+        "num": 233542,
+        "word": "孙颖莎4比3王曼昱",
+        "onboard_time": 1713705201,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230251,
+        "num": 230251,
+        "word": "王曼昱状态",
+        "onboard_time": 1713705380,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218601,
+        "num": 218601,
+        "word": "林依轮说太紧张了想要个呼吸机",
+        "onboard_time": 1713709102,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213211,
+        "num": 213211,
+        "word": "龚俊又被骗了",
+        "onboard_time": 1713706521,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199797,
+        "num": 199797,
+        "word": "四个玩手机的最佳姿势",
+        "onboard_time": 1713708981,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193479,
+        "num": 193479,
+        "word": "孙颖莎采访",
+        "onboard_time": 1713709582,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190601,
+        "num": 190601,
+        "word": "女生把健身当摸鱼一月瘦10斤",
+        "onboard_time": 1713691638,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186951,
+        "num": 186951,
+        "word": "夏之光挑眉",
+        "onboard_time": 1713709224,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 184055,
+        "num": 184055,
+        "word": "哈尔滨一九四四",
+        "onboard_time": 1713702560,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182480,
+        "num": 182480,
+        "word": "TF三代双C",
+        "onboard_time": 1713704722,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182370,
+        "num": 182370,
+        "word": "每天1杯柠檬水身体会有何变化",
+        "onboard_time": 1713685697,
+        "rank": 42,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 179555,
+        "num": 179555,
+        "word": "周冠宇哭了",
+        "onboard_time": 1713690258,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176187,
+        "num": 176187,
+        "word": "孙颖莎眼里有光",
+        "onboard_time": 1713707779,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175992,
+        "num": 175992,
+        "word": "本来以为迪士尼已经够美了",
+        "onboard_time": 1713707181,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 175589,
+        "num": 175589,
+        "word": "辽宁两老太发生争吵厮打一人身亡",
+        "onboard_time": 1713698119,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174253,
+        "num": 174253,
+        "word": "王楚钦看台观战决赛",
+        "onboard_time": 1713701718,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169479,
+        "num": 169479,
+        "word": "中国近一半大城市正在下沉",
+        "onboard_time": 1713673939,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 166444,
+        "num": 166444,
+        "word": "张拿铁 自己是一个很内耗的人",
+        "onboard_time": 1713709944,
+        "rank": 49,
+        "category": "幽默,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟随总书记足迹看长三角之变#"
+    }
+  }
+}
