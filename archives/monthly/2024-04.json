@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713699246476,
+  "endTime": 1713702684119,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1571,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1556494,
+      "num": 1556494,
+      "word": "孙颖莎对战王曼昱",
+      "onboard_time": 1713697578,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1555493,
       "num": 1555493,
       "word": "江西师大虐猫男生被开除学籍",
@@ -1796,7 +1804,7 @@
     },
     {
       "raw_hot": 1489385,
-      "num": 689852,
+      "num": 1145512,
       "word": "医生辟谣小肚子是为了保护子宫卵巢",
       "onboard_time": 1713694397,
       "rank": 41,
@@ -3171,6 +3179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1166032,
+      "num": 1166032,
+      "word": "副市长现身凤凰传奇演唱会",
+      "onboard_time": 1713699619,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1165534,
       "num": 466421,
       "word": "汪苏泷 澳门酒吧",
@@ -4121,6 +4137,14 @@
       "onboard_time": 1713325878,
       "rank": 7,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 1026277,
+      "num": 1026277,
+      "word": "孙颖莎状态",
+      "onboard_time": 1713701958,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1025348,
@@ -7241,14 +7265,6 @@
       "onboard_time": 1712743999,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 748903,
-      "num": 748903,
-      "word": "孙颖莎对战王曼昱",
-      "onboard_time": 1713697578,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 748796,
@@ -11675,6 +11691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 546724,
+      "num": 396136,
+      "word": "赵露思抹胸高定",
+      "onboard_time": 1713698599,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 546639,
       "num": 546639,
       "word": "铁路杭州站致歉",
@@ -13627,14 +13651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 487962,
-      "num": 396136,
-      "word": "赵露思抹胸高定",
-      "onboard_time": 1713698599,
-      "rank": 12,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 487620,
       "num": 487620,
       "word": "徐海乔演技",
@@ -14771,6 +14787,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 460285,
+      "num": 304292,
+      "word": "王楚钦看台观战决赛",
+      "onboard_time": 1713701718,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 459923,
       "num": 459923,
       "word": "与凤行滤镜改了",
@@ -15097,6 +15121,14 @@
       "onboard_time": 1713576798,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 450680,
+      "num": 346344,
+      "word": "辽宁两老太发生争吵厮打一人身亡",
+      "onboard_time": 1713698119,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450547,
@@ -16411,6 +16443,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 422363,
+      "num": 225058,
+      "word": "一小时内被三个人说我占座了",
+      "onboard_time": 1713699858,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 422137,
       "num": 422137,
       "word": "胡一天张婧仪双人写真",
@@ -16577,6 +16617,14 @@
       "onboard_time": 1713247398,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 418975,
+      "num": 418975,
+      "word": "GQ派对",
+      "onboard_time": 1713699977,
+      "rank": 7,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 418547,
@@ -19923,6 +19971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 347276,
+      "num": 347276,
+      "word": "杨幂民国军装",
+      "onboard_time": 1713699619,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 347148,
       "num": 347148,
       "word": "不够善良的我们 简庆芬出轨",
@@ -19969,14 +20025,6 @@
       "onboard_time": 1712503340,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 346344,
-      "num": 346344,
-      "word": "辽宁两老太发生争吵厮打一人身亡",
-      "onboard_time": 1713698119,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346095,
@@ -25779,6 +25827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261338,
+      "num": 261338,
+      "word": "林依轮举孙颖莎手幅",
+      "onboard_time": 1713702140,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261276,
       "num": 261276,
       "word": "飞天茅台跌破2600元",
@@ -29491,6 +29547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228277,
+      "num": 228277,
+      "word": "JYP发言",
+      "onboard_time": 1713696021,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228257,
       "num": 228257,
       "word": "任敏是李现的胳肢窝",
@@ -30200,14 +30264,6 @@
       "word": "刘忻出走十年归来仍是老公",
       "onboard_time": 1713623840,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 222797,
-      "num": 222797,
-      "word": "JYP发言",
-      "onboard_time": 1713696021,
-      "rank": 29,
       "category": "艺人"
     },
     {
@@ -31121,6 +31177,14 @@
       "onboard_time": 1712365817,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 215562,
+      "num": 215562,
+      "word": "陈丽君浪姐鼓王",
+      "onboard_time": 1713701658,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 215550,
@@ -35131,6 +35195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197412,
+      "num": 197412,
+      "word": "三木复出",
+      "onboard_time": 1713699918,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 197374,
       "num": 197374,
       "word": "babymonster音源",
@@ -38041,6 +38113,14 @@
       "onboard_time": 1712310439,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186681,
+      "num": 186681,
+      "word": "周冠宇 我爱你们",
+      "onboard_time": 1713700938,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 186667,
@@ -41715,6 +41795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169653,
+      "num": 169653,
+      "word": "喝黑咖的韩国人对中式奶茶上头了",
+      "onboard_time": 1713699858,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 169641,
       "num": 169641,
       "word": "辛家亮 有九套房的小呆瓜",
@@ -42451,6 +42539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165979,
+      "num": 165979,
+      "word": "宋亚轩reaction自己综艺",
+      "onboard_time": 1713701359,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165964,
       "num": 165964,
       "word": "第九周最佳选手归期",
@@ -42553,6 +42649,14 @@
       "onboard_time": 1713427217,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165531,
+      "num": 165531,
+      "word": "关雪给自己包扎",
+      "onboard_time": 1713701658,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 165510,
@@ -45339,6 +45443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 153270,
+      "num": 153270,
+      "word": "每天跑步和每天举铁哪个更健康",
+      "onboard_time": 1713700398,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 153240,
       "num": 153240,
       "word": "网友清明拍到小米SU7纸扎版",
@@ -46097,6 +46209,14 @@
       "onboard_time": 1712915838,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150655,
+      "num": 150655,
+      "word": "巨型深红水母",
+      "onboard_time": 1713700879,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 150649,
@@ -47291,6 +47411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146282,
+      "num": 146282,
+      "word": "北京国安vs青岛西海岸",
+      "onboard_time": 1713702258,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146273,
       "num": 146273,
       "word": "是谁周六还在上班",
@@ -48411,6 +48539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141523,
+      "num": 141523,
+      "word": "世界是一个巨大的草台班子",
+      "onboard_time": 1713700459,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141485,
       "num": 141485,
       "word": "43岁的夏达",
@@ -49169,6 +49305,14 @@
       "onboard_time": 1712751977,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138220,
+      "num": 138220,
+      "word": "龚俊嘴是硬的腿是软的人是不信的",
+      "onboard_time": 1713700759,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 138156,
@@ -50033,6 +50177,14 @@
       "onboard_time": 1712236039,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134531,
+      "num": 134531,
+      "word": "为什么男科医院广告总在公交车上",
+      "onboard_time": 1713701598,
+      "rank": 42,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 134441,
@@ -51451,6 +51603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127146,
+      "num": 127146,
+      "word": "麦承欢与其内耗不如出手",
+      "onboard_time": 1713701420,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127103,
       "num": 127103,
       "word": "当毕业答辩遇到神仙导师",
@@ -52676,7 +52836,7 @@
     },
     {
       "raw_hot": 120649,
-      "num": 120649,
+      "num": 1149501,
       "word": "世界首套高清月球地质写真集",
       "onboard_time": 1713661519,
       "rank": 45,
