@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713735254790,
+  "endTime": 1713737812265,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -2267,6 +2267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 176869,
+      "num": 91888,
+      "word": "为什么闭上眼睛能看到诡异的波纹",
+      "onboard_time": 1713731651,
+      "rank": 11,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 176531,
       "num": 121099,
       "word": "永远不低估一颗冠军的心",
@@ -3235,6 +3243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91797,
+      "num": 91797,
+      "word": "中国土味短剧在日本火了",
+      "onboard_time": 1713728050,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90336,
       "num": 90336,
       "word": "韩网评价金秀贤演技",
@@ -3305,14 +3321,6 @@
       "onboard_time": 1713652815,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74816,
-      "num": 44612,
-      "word": "为什么闭上眼睛能看到诡异的波纹",
-      "onboard_time": 1713731651,
-      "rank": 11,
-      "category": "科学科普"
     },
     {
       "raw_hot": 74083,
@@ -3409,14 +3417,6 @@
       "onboard_time": 1713690019,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 56711,
-      "num": 44243,
-      "word": "中国土味短剧在日本火了",
-      "onboard_time": 1713728050,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 55402,
@@ -3523,6 +3523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37557,
+      "num": 37557,
+      "word": "秦昊严选",
+      "onboard_time": 1713736331,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36903,
       "num": 36903,
       "word": "朱一龙谈天坛奖最佳男主角评判标准",
@@ -3545,6 +3553,22 @@
       "onboard_time": 1713721933,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32075,
+      "num": 32075,
+      "word": "能促进代谢的8种食物",
+      "onboard_time": 1713731770,
+      "rank": 42,
+      "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 31903,
+      "num": 31903,
+      "word": "老了以后才渐渐明白的事",
+      "onboard_time": 1713735130,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 29767,
@@ -3579,12 +3603,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 19300,
-      "num": 19300,
-      "word": "能促进代谢的8种食物",
-      "onboard_time": 1713731770,
-      "rank": 42,
-      "category": "健康医疗,科学科普"
+      "raw_hot": 21513,
+      "num": 23910,
+      "word": "西班牙国家德比",
+      "onboard_time": 1713734831,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 18688,
@@ -3592,14 +3616,6 @@
       "word": "勒克莱尔中国站第4",
       "onboard_time": 1713704421,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 16885,
-      "num": 16885,
-      "word": "西班牙国家德比",
-      "onboard_time": 1713734831,
-      "rank": 43,
       "category": "体育"
     },
     {
