@@ -1,0 +1,410 @@
+{
+  "runTime": 1713726920584,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 186899,
+        "num": 186899,
+        "word": "女子称一个月光洗澡燃气费达130多元",
+        "onboard_time": 1713718575,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109814,
+        "num": 109814,
+        "word": "钟薛高创始人称卖红薯也要把债还上",
+        "onboard_time": 1713707361,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 5520,
+        "num": 107829,
+        "word": "用中国传统色打开春耕画卷",
+        "onboard_time": 1713686178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130410,
+        "num": 107812,
+        "word": "美国老人感染僵尸鹿病毒死亡",
+        "onboard_time": 1713705440,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112458,
+        "num": 107797,
+        "word": "擦边球",
+        "onboard_time": 1713706581,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107769,
+        "num": 107769,
+        "word": "马龙男单夺冠",
+        "onboard_time": 1713710062,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87342,
+        "num": 87342,
+        "word": "杨幂演技",
+        "onboard_time": 1713705680,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73231,
+        "num": 73231,
+        "word": "医生辟谣小肚子是为了保护子宫卵巢",
+        "onboard_time": 1713694397,
+        "rank": 7,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 71408,
+        "num": 71408,
+        "word": "韩网评价金秀贤演技",
+        "onboard_time": 1713722652,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44392,
+        "num": 68956,
+        "word": "全红婵摘银后公主抱英国铜牌得主",
+        "onboard_time": 1713707181,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128814,
+        "num": 68213,
+        "word": "永远不低估一颗冠军的心",
+        "onboard_time": 1713719954,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67162,
+        "num": 67162,
+        "word": "曼联",
+        "onboard_time": 1713723733,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65384,
+        "num": 65384,
+        "word": "罗云熙演唱会票价1680",
+        "onboard_time": 1713708681,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63361,
+        "num": 63361,
+        "word": "陈丽君断层第一",
+        "onboard_time": 1713704359,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53200,
+        "num": 53200,
+        "word": "ILLIT直播被骂是注水咖",
+        "onboard_time": 1713711622,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52576,
+        "num": 52576,
+        "word": "庄达菲妈咪陈昊宇",
+        "onboard_time": 1713707060,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52012,
+        "num": 52012,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1713705020,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42979,
+        "num": 42979,
+        "word": "副市长现身凤凰传奇演唱会",
+        "onboard_time": 1713699619,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41743,
+        "num": 41743,
+        "word": "孙颖莎4比3王曼昱",
+        "onboard_time": 1713705201,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41625,
+        "num": 41625,
+        "word": "白桃星座",
+        "onboard_time": 1713714797,
+        "rank": 19,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 41901,
+        "num": 39605,
+        "word": "一小时内被三个人说我占座了",
+        "onboard_time": 1713699858,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37204,
+        "num": 37204,
+        "word": "本周狗屎运最旺的星座TOP4",
+        "onboard_time": 1713711140,
+        "rank": 21,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 36352,
+        "num": 36352,
+        "word": "为什么周日晚上总是睡不着",
+        "onboard_time": 1713711500,
+        "rank": 22,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 35398,
+        "num": 35398,
+        "word": "眼泪女王",
+        "onboard_time": 1713705260,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34230,
+        "num": 34230,
+        "word": "哈尔滨一九四四",
+        "onboard_time": 1713702560,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32975,
+        "num": 32975,
+        "word": "周杰伦送外套给粉丝",
+        "onboard_time": 1713709701,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32661,
+        "num": 32661,
+        "word": "娄艺潇cos武则天",
+        "onboard_time": 1713711801,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32389,
+        "num": 32389,
+        "word": "皇马vs巴萨",
+        "onboard_time": 1713725232,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31658,
+        "num": 31658,
+        "word": "孙颖莎夺得澳门世界杯冠军",
+        "onboard_time": 1713716957,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30634,
+        "num": 30634,
+        "word": "马龙夺冠",
+        "onboard_time": 1713715278,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30261,
+        "num": 30261,
+        "word": "王曼昱状态",
+        "onboard_time": 1713705380,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29877,
+        "num": 29877,
+        "word": "范丞丞你真的很懂",
+        "onboard_time": 1713713779,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29382,
+        "num": 29382,
+        "word": "圆满不圆满",
+        "onboard_time": 1713711260,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28136,
+        "num": 28136,
+        "word": "以为是陈丽君仿妆结果是本人",
+        "onboard_time": 1713714321,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27763,
+        "num": 27763,
+        "word": "不想发朋友圈的可以发状态",
+        "onboard_time": 1713708082,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27269,
+        "num": 27269,
+        "word": "莎头 少男的祈祷",
+        "onboard_time": 1713709402,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27063,
+        "num": 27063,
+        "word": "aespa正规一辑预告",
+        "onboard_time": 1713712941,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26981,
+        "num": 26981,
+        "word": "北京市副市长高朋被查",
+        "onboard_time": 1713707122,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26605,
+        "num": 26605,
+        "word": "张拿铁 自己是一个很内耗的人",
+        "onboard_time": 1713709944,
+        "rank": 38,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 25924,
+        "num": 25924,
+        "word": "朱丹回应小肚子",
+        "onboard_time": 1713714020,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25802,
+        "num": 25802,
+        "word": "马龙对战林高远",
+        "onboard_time": 1713703458,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24004,
+        "num": 25801,
+        "word": "陈楚生独唱将进酒",
+        "onboard_time": 1713718275,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23836,
+        "num": 25799,
+        "word": "皮肤科医生不建议点痣",
+        "onboard_time": 1713704600,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22005,
+        "num": 25798,
+        "word": "马龙第三次夺得世界杯单打冠军",
+        "onboard_time": 1713711023,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21932,
+        "num": 25796,
+        "word": "许昕祝福马龙",
+        "onboard_time": 1713712101,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21334,
+        "num": 25794,
+        "word": "你俩是在拍半熟恋人吧",
+        "onboard_time": 1713715457,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20162,
+        "num": 25792,
+        "word": "姚志明麦承欢官宣",
+        "onboard_time": 1713715997,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19093,
+        "num": 25790,
+        "word": "四个玩手机的最佳姿势",
+        "onboard_time": 1713708981,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18561,
+        "num": 25787,
+        "word": "林依轮举孙颖莎手幅",
+        "onboard_time": 1713702140,
+        "rank": 48,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 18229,
+        "num": 25787,
+        "word": "鹿晗踢球戴曼联手套",
+        "onboard_time": 1713721933,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}
