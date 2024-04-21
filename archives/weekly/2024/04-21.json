@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713674176994,
+  "endTime": 1713676628368,
   "band_list": [
     {
       "raw_hot": 2163133,
@@ -97,6 +97,14 @@
       "onboard_time": 1713658036,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 844536,
+      "num": 844536,
+      "word": "中国近一半大城市正在下沉",
+      "onboard_time": 1713673939,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 828452,
@@ -251,20 +259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495575,
+      "num": 495575,
+      "word": "广州塔1小时内连续6次接闪电",
+      "onboard_time": 1713671956,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491289,
+      "num": 491289,
+      "word": "凤凰传奇质疑伍佰超越伍佰",
+      "onboard_time": 1713672737,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 480927,
       "num": 480927,
       "word": "余罪重新上线",
       "onboard_time": 1713671238,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 478124,
-      "num": 478124,
-      "word": "广州塔1小时内连续6次接闪电",
-      "onboard_time": 1713671956,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 477650,
@@ -275,12 +291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 453829,
-      "num": 453829,
-      "word": "凤凰传奇质疑伍佰超越伍佰",
-      "onboard_time": 1713672737,
-      "rank": 15,
-      "category": "演出"
+      "raw_hot": 476579,
+      "num": 476579,
+      "word": "吴艳妮说化妆比赛是因为尊重观众",
+      "onboard_time": 1713672018,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 448734,
@@ -443,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 319470,
+      "num": 319470,
+      "word": "蔡文静网文",
+      "onboard_time": 1713672918,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311747,
       "num": 311747,
       "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
@@ -483,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272539,
+      "num": 272539,
+      "word": "没有哪个男人能娶到我",
+      "onboard_time": 1713675319,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267751,
       "num": 231255,
       "word": "男子强迫女儿热水泡脚致重伤被判刑",
@@ -515,14 +547,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 256553,
-      "num": 256553,
-      "word": "吴艳妮说化妆比赛是因为尊重观众",
-      "onboard_time": 1713672018,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 253580,
       "num": 253580,
       "word": "戚薇李承铉没拍过婚纱照",
@@ -531,12 +555,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243094,
-      "num": 243094,
-      "word": "蔡文静网文",
-      "onboard_time": 1713672918,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 251367,
+      "num": 251367,
+      "word": "以闪亮之名",
+      "onboard_time": 1713674179,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 239737,
@@ -603,6 +627,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221236,
+      "num": 221236,
+      "word": "周杰伦演唱会抢话筒",
+      "onboard_time": 1713675258,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 218548,
+      "num": 183251,
+      "word": "文旅局回应许美静演唱会观众喊退票",
+      "onboard_time": 1713675859,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 207381,
       "num": 207381,
       "word": "何洁腰封唱跳",
@@ -651,6 +691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203761,
+      "num": 203761,
+      "word": "米卡 你们改变了我的生活",
+      "onboard_time": 1713675438,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203554,
       "num": 203554,
       "word": "詹姆斯腿软了",
@@ -681,6 +729,14 @@
       "onboard_time": 1713665419,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 200068,
+      "num": 200068,
+      "word": "杨幂关雪压迫感",
+      "onboard_time": 1713675438,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 199836,
@@ -755,12 +811,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185691,
+      "num": 185691,
+      "word": "广东事业编",
+      "onboard_time": 1713675559,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 185376,
       "num": 185376,
       "word": "我国成功发射遥感四十二号02星",
       "onboard_time": 1713661098,
       "rank": 29,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 185042,
+      "num": 185042,
+      "word": "白鹿蓝色新中式",
+      "onboard_time": 1713674719,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 184306,
@@ -771,12 +843,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178681,
+      "num": 178681,
+      "word": "荣梓希在朱梓骁直播间下过单",
+      "onboard_time": 1713674179,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178569,
       "num": 178569,
       "word": "孙颖莎歇会儿走不下去了",
       "onboard_time": 1713622939,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177132,
+      "num": 177132,
+      "word": "以方称将召见6个支持巴勒斯坦入联国家大使",
+      "onboard_time": 1713674657,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 177080,
@@ -809,6 +897,14 @@
       "onboard_time": 1713665298,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168913,
+      "num": 168913,
+      "word": "一诺说接下来的路我们一起走",
+      "onboard_time": 1713676459,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 167102,
@@ -921,14 +1017,6 @@
       "onboard_time": 1713658156,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 144904,
-      "num": 144904,
-      "word": "中国近一半大城市正在下沉",
-      "onboard_time": 1713673939,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143956,
@@ -1067,6 +1155,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131158,
+      "num": 131158,
+      "word": "辛芷蕾花少抱花盆出场",
+      "onboard_time": 1713675200,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128829,
+      "num": 128829,
+      "word": "广东暴雨积水没脖行人推车前行",
+      "onboard_time": 1713675981,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126204,
       "num": 126204,
       "word": "JKL 菜",
@@ -1137,6 +1241,14 @@
       "onboard_time": 1713622460,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111174,
+      "num": 111174,
+      "word": "狮子 请不要把手伸进来",
+      "onboard_time": 1713676519,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 110540,
@@ -1284,7 +1396,7 @@
     },
     {
       "raw_hot": 67140,
-      "num": 673999,
+      "num": 703433,
       "word": "最新中华文化主题宣传片",
       "onboard_time": 1713670699,
       "rank": 2,
@@ -1409,6 +1521,14 @@
       "onboard_time": 1713642851,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 29466,
+      "num": 325825,
+      "word": "中学生热血演绎跨越历史的转场",
+      "onboard_time": 1713675739,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28330,

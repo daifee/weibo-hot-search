@@ -1,0 +1,410 @@
+{
+  "runTime": 1713676628368,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 909637,
+        "num": 909637,
+        "word": "姥姥去世一周后妈妈发的信息",
+        "onboard_time": 1713667639,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 844536,
+        "num": 844536,
+        "word": "中国近一半大城市正在下沉",
+        "onboard_time": 1713673939,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 60027,
+        "num": 703433,
+        "word": "最新中华文化主题宣传片",
+        "onboard_time": 1713670699,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595347,
+        "num": 595347,
+        "word": "5月份工资可以提前发",
+        "onboard_time": 1713663738,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565676,
+        "num": 565676,
+        "word": "毛毛分娩后不知所措",
+        "onboard_time": 1713670218,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 495575,
+        "num": 495575,
+        "word": "广州塔1小时内连续6次接闪电",
+        "onboard_time": 1713671956,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491289,
+        "num": 491289,
+        "word": "凤凰传奇质疑伍佰超越伍佰",
+        "onboard_time": 1713672737,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 476579,
+        "num": 476579,
+        "word": "吴艳妮说化妆比赛是因为尊重观众",
+        "onboard_time": 1713672018,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438118,
+        "num": 438118,
+        "word": "花儿与少年",
+        "onboard_time": 1713672619,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399814,
+        "num": 399814,
+        "word": "余罪重新上线",
+        "onboard_time": 1713671238,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1432051,
+        "num": 395364,
+        "word": "李晟发和赵丽颖聊天记录",
+        "onboard_time": 1713672138,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376985,
+        "num": 376985,
+        "word": "金莎被所有人拒绝",
+        "onboard_time": 1713665658,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368919,
+        "num": 368919,
+        "word": "向佐被李菲儿拒绝脸色变了",
+        "onboard_time": 1713668238,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338593,
+        "num": 338593,
+        "word": "许美静演唱会 全场喊退票",
+        "onboard_time": 1713658457,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29466,
+        "num": 325825,
+        "word": "中学生热血演绎跨越历史的转场",
+        "onboard_time": 1713675739,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325590,
+        "num": 325590,
+        "word": "第一批去新加坡的中产没200万年薪撑不下去",
+        "onboard_time": 1713668057,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319470,
+        "num": 319470,
+        "word": "蔡文静网文",
+        "onboard_time": 1713672918,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272539,
+        "num": 272539,
+        "word": "没有哪个男人能娶到我",
+        "onboard_time": 1713675319,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251367,
+        "num": 251367,
+        "word": "以闪亮之名",
+        "onboard_time": 1713674179,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247921,
+        "num": 247921,
+        "word": "特斯拉与小米SU7价差缩小到1.6万",
+        "onboard_time": 1713666678,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 720514,
+        "num": 244249,
+        "word": "黄子韬就不当言论道歉",
+        "onboard_time": 1713654433,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288431,
+        "num": 235063,
+        "word": "失足女拒亲嘴被打后刺死男子获刑",
+        "onboard_time": 1713663437,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222461,
+        "num": 222461,
+        "word": "原来这就是不胖和很瘦的区别",
+        "onboard_time": 1713668117,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221236,
+        "num": 221236,
+        "word": "周杰伦演唱会抢话筒",
+        "onboard_time": 1713675258,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218801,
+        "num": 218801,
+        "word": "张予曦越扒越有",
+        "onboard_time": 1713662357,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203761,
+        "num": 203761,
+        "word": "米卡 你们改变了我的生活",
+        "onboard_time": 1713675438,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200068,
+        "num": 200068,
+        "word": "杨幂关雪压迫感",
+        "onboard_time": 1713675438,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185691,
+        "num": 185691,
+        "word": "广东事业编",
+        "onboard_time": 1713675559,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185042,
+        "num": 185042,
+        "word": "白鹿蓝色新中式",
+        "onboard_time": 1713674719,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184161,
+        "num": 184161,
+        "word": "台湾地震",
+        "onboard_time": 1713668178,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218548,
+        "num": 183251,
+        "word": "文旅局回应许美静演唱会观众喊退票",
+        "onboard_time": 1713675859,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184759,
+        "num": 182225,
+        "word": "徐明浩cha了Jennie呱呱舞",
+        "onboard_time": 1713667997,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178681,
+        "num": 178681,
+        "word": "荣梓希在朱梓骁直播间下过单",
+        "onboard_time": 1713674179,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177132,
+        "num": 177132,
+        "word": "以方称将召见6个支持巴勒斯坦入联国家大使",
+        "onboard_time": 1713674657,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 174883,
+        "num": 174883,
+        "word": "蔡依林淋雨说还好妈妈没看到",
+        "onboard_time": 1713673458,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170959,
+        "num": 170959,
+        "word": "小马丁回应拒绝黄子韬同台",
+        "onboard_time": 1713658036,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168913,
+        "num": 168913,
+        "word": "一诺说接下来的路我们一起走",
+        "onboard_time": 1713676459,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164737,
+        "num": 164737,
+        "word": "长期不吃晚餐身体会发生什么",
+        "onboard_time": 1713665778,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154672,
+        "num": 154672,
+        "word": "深圳暴雨",
+        "onboard_time": 1713670099,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144907,
+        "num": 144907,
+        "word": "詹姆斯腿软了",
+        "onboard_time": 1713671178,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167407,
+        "num": 144332,
+        "word": "韩雪各跳各的",
+        "onboard_time": 1713667037,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148402,
+        "num": 144043,
+        "word": "不够善良的我们 简庆芬出轨",
+        "onboard_time": 1713669499,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142017,
+        "num": 142017,
+        "word": "德国将实现性别自由",
+        "onboard_time": 1713660676,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134957,
+        "num": 134957,
+        "word": "广东人看了都想拿拖鞋的蟑螂风筝",
+        "onboard_time": 1713673097,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131158,
+        "num": 131158,
+        "word": "辛芷蕾花少抱花盆出场",
+        "onboard_time": 1713675200,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129568,
+        "num": 129568,
+        "word": "12306抢票",
+        "onboard_time": 1713664457,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 128829,
+        "num": 128829,
+        "word": "广东暴雨积水没脖行人推车前行",
+        "onboard_time": 1713675981,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125750,
+        "num": 125750,
+        "word": "为什么说我国养老金不可能出现问题",
+        "onboard_time": 1713660978,
+        "rank": 47,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 111947,
+        "num": 111947,
+        "word": "陈冠希发了Jennie",
+        "onboard_time": 1713629118,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111174,
+        "num": 111174,
+        "word": "狮子 请不要把手伸进来",
+        "onboard_time": 1713676519,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}
