@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713666488850,
+  "endTime": 1713667112489,
   "band_list": [
     {
       "raw_hot": 2163133,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1441589,
-      "num": 1441589,
+      "raw_hot": 1526920,
+      "num": 1526920,
       "word": "5月份工资可以提前发",
       "onboard_time": 1713663738,
       "rank": 0,
@@ -27,20 +27,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1030498,
+      "num": 674732,
+      "word": "张予曦越扒越有",
+      "onboard_time": 1713662357,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1020943,
       "num": 1020943,
       "word": "周海媚墓碑上刻着周芷若画像",
       "onboard_time": 1713626419,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1011522,
-      "num": 674732,
-      "word": "张予曦越扒越有",
-      "onboard_time": 1713662357,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 975435,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 856646,
-      "num": 594971,
+      "num": 623398,
       "word": "小马丁回应拒绝黄子韬同台",
       "onboard_time": 1713658036,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 855012,
+      "num": 855012,
+      "word": "金莎被所有人拒绝",
+      "onboard_time": 1713665658,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 828452,
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 669398,
+      "num": 228958,
+      "word": "失足女拒亲嘴被打后刺死男子获刑",
+      "onboard_time": 1713663437,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 665828,
       "num": 665828,
       "word": "女子3次要回家拿材料工作人员说啥也不让",
@@ -113,14 +129,6 @@
       "onboard_time": 1713621259,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 590432,
-      "num": 228958,
-      "word": "失足女拒亲嘴被打后刺死男子获刑",
-      "onboard_time": 1713663437,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 584590,
@@ -179,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 496065,
-      "num": 355896,
-      "word": "金莎被所有人拒绝",
-      "onboard_time": 1713665658,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 435237,
       "num": 376545,
       "word": "贾玲好迷人",
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338979,
+      "num": 338979,
+      "word": "拉塞尔又拉了",
+      "onboard_time": 1713666016,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337949,
       "num": 337949,
       "word": "裙子的尺码从xxs做到5xl",
@@ -283,8 +291,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 319414,
-      "num": 319414,
+      "raw_hot": 322404,
+      "num": 322404,
       "word": "12306抢票",
       "onboard_time": 1713664457,
       "rank": 11,
@@ -347,6 +355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 249538,
+      "num": 249538,
+      "word": "戚薇李承铉没拍过婚纱照",
+      "onboard_time": 1713665778,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239737,
       "num": 239737,
       "word": "美众议院通过260亿美元援以法案",
@@ -371,20 +387,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231621,
-      "num": 231621,
-      "word": "拉塞尔又拉了",
-      "onboard_time": 1713666016,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231133,
       "num": 231133,
       "word": "睡前不刷牙的危害有多大",
       "onboard_time": 1713655454,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 229947,
+      "num": 224115,
+      "word": "原来被爱会疯狂长出血肉",
+      "onboard_time": 1713665177,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 225637,
@@ -403,12 +419,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224115,
-      "num": 224115,
-      "word": "原来被爱会疯狂长出血肉",
-      "onboard_time": 1713665177,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 225185,
+      "num": 225185,
+      "word": "广东70个暴雨预警信号生效中",
+      "onboard_time": 1713665537,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211779,
+      "num": 211779,
+      "word": "韩雪各跳各的",
+      "onboard_time": 1713667037,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 207381,
@@ -443,6 +467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201907,
+      "num": 201907,
+      "word": "长期不吃晚餐身体会发生什么",
+      "onboard_time": 1713665778,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 201729,
       "num": 230128,
       "word": "詹姆斯超远压哨三分",
@@ -459,14 +491,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 196834,
-      "num": 196834,
-      "word": "戚薇李承铉没拍过婚纱照",
-      "onboard_time": 1713665778,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191828,
       "num": 127876,
       "word": "周杰伦听见下雨的声音",
@@ -475,12 +499,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 188920,
-      "num": 188920,
-      "word": "广东70个暴雨预警信号生效中",
-      "onboard_time": 1713665537,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 188309,
+      "num": 188309,
+      "word": "眼泪女王收视率",
+      "onboard_time": 1713666198,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 188003,
@@ -515,6 +539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175075,
+      "num": 175075,
+      "word": "向佐一套话术忽悠四个女人",
+      "onboard_time": 1713663318,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170982,
       "num": 170982,
       "word": "福州防空警报",
@@ -523,12 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167394,
-      "num": 167394,
-      "word": "向佐一套话术忽悠四个女人",
-      "onboard_time": 1713663318,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 165225,
+      "num": 165225,
+      "word": "特斯拉与小米SU7价差缩小到1.6万",
+      "onboard_time": 1713666678,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 162137,
@@ -579,6 +611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 154437,
+      "num": 154437,
+      "word": "用100元在上海流浪了八天",
+      "onboard_time": 1713666558,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153723,
       "num": 123577,
       "word": "陈丽君好帅",
@@ -627,14 +667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143739,
-      "num": 143739,
-      "word": "眼泪女王收视率",
-      "onboard_time": 1713666198,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142292,
       "num": 107537,
       "word": "Jennie一口气发了20张图",
@@ -657,14 +689,6 @@
       "onboard_time": 1713617897,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140611,
-      "num": 140611,
-      "word": "长期不吃晚餐身体会发生什么",
-      "onboard_time": 1713665778,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 140281,
@@ -705,6 +729,14 @@
       "onboard_time": 1713662539,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137251,
+      "num": 137251,
+      "word": "五一假期县域旅游火了",
+      "onboard_time": 1713666138,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 136983,
@@ -763,20 +795,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124851,
+      "num": 124851,
+      "word": "一个步骤没跟上就跟不上了",
+      "onboard_time": 1713666739,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120649,
       "num": 120649,
       "word": "世界首套高清月球地质写真集",
       "onboard_time": 1713661519,
       "rank": 45,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 120048,
-      "num": 120048,
-      "word": "五一假期县域旅游火了",
-      "onboard_time": 1713666138,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 115743,
@@ -809,6 +841,14 @@
       "onboard_time": 1713659598,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109032,
+      "num": 109032,
+      "word": "千名工程师钻研4000天4破世界纪录",
+      "onboard_time": 1713667097,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108269,

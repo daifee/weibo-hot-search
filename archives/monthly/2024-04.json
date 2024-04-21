@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713666488850,
+  "endTime": 1713667112489,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1651,6 +1651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1526920,
+      "num": 1526920,
+      "word": "5月份工资可以提前发",
+      "onboard_time": 1713663738,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1526113,
       "num": 1526113,
       "word": "赵丽颖曾推荐刘宇宁演与凤行",
@@ -1873,14 +1881,6 @@
       "onboard_time": 1713358699,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1441589,
-      "num": 1441589,
-      "word": "5月份工资可以提前发",
-      "onboard_time": 1713663738,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1441570,
@@ -3979,6 +3979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1030498,
+      "num": 674732,
+      "word": "张予曦越扒越有",
+      "onboard_time": 1713662357,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1030378,
       "num": 198666,
       "word": "日本天皇独女被曝遭受过校园霸凌",
@@ -4193,14 +4201,6 @@
       "onboard_time": 1712206338,
       "rank": 11,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 1011522,
-      "num": 674732,
-      "word": "张予曦越扒越有",
-      "onboard_time": 1713662357,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1011447,
@@ -5564,7 +5564,7 @@
     },
     {
       "raw_hot": 856646,
-      "num": 594971,
+      "num": 623398,
       "word": "小马丁回应拒绝黄子韬同台",
       "onboard_time": 1713658036,
       "rank": 5,
@@ -5593,6 +5593,14 @@
       "onboard_time": 1712563161,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 855012,
+      "num": 855012,
+      "word": "金莎被所有人拒绝",
+      "onboard_time": 1713665658,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 854956,
@@ -8507,6 +8515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 669398,
+      "num": 228958,
+      "word": "失足女拒亲嘴被打后刺死男子获刑",
+      "onboard_time": 1713663437,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 669354,
       "num": 669354,
       "word": "黑龙江省考出不出成绩",
@@ -10265,14 +10281,6 @@
       "onboard_time": 1712586681,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 590432,
-      "num": 228958,
-      "word": "失足女拒亲嘴被打后刺死男子获刑",
-      "onboard_time": 1713663437,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 590075,
@@ -13105,14 +13113,6 @@
       "onboard_time": 1713067337,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 496065,
-      "num": 355896,
-      "word": "金莎被所有人拒绝",
-      "onboard_time": 1713665658,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 495589,
@@ -19867,6 +19867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338979,
+      "num": 338979,
+      "word": "拉塞尔又拉了",
+      "onboard_time": 1713666016,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338763,
       "num": 338763,
       "word": "小米汽车",
@@ -26339,6 +26347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 249538,
+      "num": 249538,
+      "word": "戚薇李承铉没拍过婚纱照",
+      "onboard_time": 1713665778,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249536,
       "num": 249536,
       "word": "全球资金正在加速回流中国",
@@ -28379,14 +28395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231621,
-      "num": 231621,
-      "word": "拉塞尔又拉了",
-      "onboard_time": 1713666016,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231611,
       "num": 231611,
       "word": "快船vs太阳",
@@ -28561,6 +28569,14 @@
       "onboard_time": 1713324558,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 229947,
+      "num": 224115,
+      "word": "原来被爱会疯狂长出血肉",
+      "onboard_time": 1713665177,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 229897,
@@ -29179,6 +29195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225185,
+      "num": 225185,
+      "word": "广东70个暴雨预警信号生效中",
+      "onboard_time": 1713665537,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225087,
       "num": 225087,
       "word": "与凤行凤神之路海报",
@@ -29273,14 +29297,6 @@
       "onboard_time": 1712497220,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 224115,
-      "num": 224115,
-      "word": "原来被爱会疯狂长出血肉",
-      "onboard_time": 1713665177,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 224085,
@@ -30921,6 +30937,14 @@
       "onboard_time": 1712375357,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211779,
+      "num": 211779,
+      "word": "韩雪各跳各的",
+      "onboard_time": 1713667037,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 211717,
@@ -33163,6 +33187,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 201907,
+      "num": 201907,
+      "word": "长期不吃晚餐身体会发生什么",
+      "onboard_time": 1713665778,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 201887,
       "num": 201887,
       "word": "白鹿奔跑吧重庆录制",
@@ -34385,14 +34417,6 @@
       "onboard_time": 1712848638,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 196834,
-      "num": 196834,
-      "word": "戚薇李承铉没拍过婚纱照",
-      "onboard_time": 1713665778,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 196819,
@@ -36481,14 +36505,6 @@
       "onboard_time": 1713238458,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 188920,
-      "num": 188920,
-      "word": "广东70个暴雨预警信号生效中",
-      "onboard_time": 1713665537,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188919,
@@ -39555,6 +39571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175075,
+      "num": 175075,
+      "word": "向佐一套话术忽悠四个女人",
+      "onboard_time": 1713663318,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175049,
       "num": 175049,
       "word": "女儿假装丰唇来整蛊老爸",
@@ -41059,14 +41083,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167394,
-      "num": 167394,
-      "word": "向佐一套话术忽悠四个女人",
-      "onboard_time": 1713663318,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167370,
       "num": 167370,
       "word": "爱发脾气可能是因为肝不好",
@@ -41497,6 +41513,14 @@
       "onboard_time": 1712807239,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165225,
+      "num": 165225,
+      "word": "特斯拉与小米SU7价差缩小到1.6万",
+      "onboard_time": 1713666678,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 165192,
@@ -43825,6 +43849,14 @@
       "onboard_time": 1713510798,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 154437,
+      "num": 154437,
+      "word": "用100元在上海流浪了八天",
+      "onboard_time": 1713666558,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 154402,
@@ -47347,14 +47379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140611,
-      "num": 140611,
-      "word": "长期不吃晚餐身体会发生什么",
-      "onboard_time": 1713665778,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 140529,
       "num": 140529,
       "word": "为何女生比男生更喜欢用iPhone",
@@ -48113,6 +48137,14 @@
       "onboard_time": 1713491057,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137251,
+      "num": 137251,
+      "word": "五一假期县域旅游火了",
+      "onboard_time": 1713666138,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 137203,
@@ -50507,6 +50539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124851,
+      "num": 124851,
+      "word": "一个步骤没跟上就跟不上了",
+      "onboard_time": 1713666739,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124834,
       "num": 124834,
       "word": "四川江油市3.2级地震",
@@ -51369,14 +51409,6 @@
       "onboard_time": 1712487559,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120048,
-      "num": 120048,
-      "word": "五一假期县域旅游火了",
-      "onboard_time": 1713666138,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 120005,
@@ -52809,6 +52841,14 @@
       "onboard_time": 1712118803,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 109032,
+      "num": 109032,
+      "word": "千名工程师钻研4000天4破世界纪录",
+      "onboard_time": 1713667097,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109021,
