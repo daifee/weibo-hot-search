@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713673426498,
+  "endTime": 1713674176994,
   "band_list": [
     {
       "raw_hot": 2163133,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1502489,
+      "num": 453385,
+      "word": "李晟发和赵丽颖聊天记录",
+      "onboard_time": 1713672138,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1300921,
       "num": 1300921,
       "word": "姥姥去世一周后妈妈发的信息",
@@ -33,14 +41,6 @@
       "onboard_time": 1713668178,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1237726,
-      "num": 383850,
-      "word": "李晟发和赵丽颖聊天记录",
-      "onboard_time": 1713672138,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1218760,
@@ -155,6 +155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 616363,
+      "num": 616363,
+      "word": "毛毛分娩后不知所措",
+      "onboard_time": 1713670218,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 616285,
       "num": 616285,
       "word": "黄子韬回应被拒绝同台",
@@ -219,14 +227,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 554921,
-      "num": 382278,
-      "word": "毛毛分娩后不知所措",
-      "onboard_time": 1713670218,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 535062,
       "num": 535062,
       "word": "简庆芬出轨",
@@ -257,6 +257,30 @@
       "onboard_time": 1713671238,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 478124,
+      "num": 478124,
+      "word": "广州塔1小时内连续6次接闪电",
+      "onboard_time": 1713671956,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477650,
+      "num": 477650,
+      "word": "花儿与少年",
+      "onboard_time": 1713672619,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 453829,
+      "num": 453829,
+      "word": "凤凰传奇质疑伍佰超越伍佰",
+      "onboard_time": 1713672737,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 448734,
@@ -339,28 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 377702,
-      "num": 377702,
-      "word": "花儿与少年",
-      "onboard_time": 1713672619,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 376022,
       "num": 376022,
       "word": "特斯拉与小米SU7价差缩小到1.6万",
       "onboard_time": 1713666678,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 369667,
-      "num": 369667,
-      "word": "广州塔1小时内连续6次接闪电",
-      "onboard_time": 1713671956,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347148,
@@ -425,14 +433,6 @@
       "onboard_time": 1713629060,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 323720,
-      "num": 323720,
-      "word": "凤凰传奇质疑伍佰超越伍佰",
-      "onboard_time": 1713672737,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 323207,
@@ -515,11 +515,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 256553,
+      "num": 256553,
+      "word": "吴艳妮说化妆比赛是因为尊重观众",
+      "onboard_time": 1713672018,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253580,
       "num": 253580,
       "word": "戚薇李承铉没拍过婚纱照",
       "onboard_time": 1713665778,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 243094,
+      "num": 243094,
+      "word": "蔡文静网文",
+      "onboard_time": 1713672918,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -667,12 +683,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 198690,
-      "num": 198690,
-      "word": "吴艳妮说化妆比赛是因为尊重观众",
-      "onboard_time": 1713672018,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 199836,
+      "num": 196107,
+      "word": "蔡依林淋雨说还好妈妈没看到",
+      "onboard_time": 1713673458,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 197848,
@@ -683,12 +699,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 193088,
-      "num": 193088,
+      "raw_hot": 197508,
+      "num": 197508,
       "word": "考研的每天平均睡多长时间",
       "onboard_time": 1713668297,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 195882,
+      "num": 195882,
+      "word": "广东人看了都想拿拖鞋的蟑螂风筝",
+      "onboard_time": 1713673097,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 191828,
@@ -721,6 +745,14 @@
       "onboard_time": 1713617778,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186038,
+      "num": 186038,
+      "word": "一诺登场KPL六周年",
+      "onboard_time": 1713674116,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 185376,
@@ -760,14 +792,6 @@
       "word": "向佐一套话术忽悠四个女人",
       "onboard_time": 1713663318,
       "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 172749,
-      "num": 172749,
-      "word": "蔡文静网文",
-      "onboard_time": 1713672918,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -899,6 +923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 144904,
+      "num": 144904,
+      "word": "中国近一半大城市正在下沉",
+      "onboard_time": 1713673939,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143956,
       "num": 107551,
       "word": "已经开始替赵晴尴尬了",
@@ -913,14 +945,6 @@
       "onboard_time": 1713666138,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 142822,
-      "num": 142822,
-      "word": "广东人看了都想拿拖鞋的蟑螂风筝",
-      "onboard_time": 1713673097,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 142292,
