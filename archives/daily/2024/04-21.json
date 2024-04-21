@@ -1,10 +1,10 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713705541316,
+  "endTime": 1713706450328,
   "band_list": [
     {
-      "raw_hot": 3330073,
-      "num": 3330073,
+      "raw_hot": 3986774,
+      "num": 3986774,
       "word": "孙颖莎冠军",
       "onboard_time": 1713705020,
       "rank": 0,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1140019,
+      "num": 1140019,
+      "word": "陈丽君断层第一",
+      "onboard_time": 1713704359,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1030498,
       "num": 674732,
       "word": "张予曦越扒越有",
@@ -179,14 +187,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 901669,
-      "num": 901669,
-      "word": "陈丽君断层第一",
-      "onboard_time": 1713704359,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 896580,
       "num": 896580,
       "word": "特斯拉降价",
@@ -217,6 +217,14 @@
       "onboard_time": 1713678139,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 805620,
+      "num": 805620,
+      "word": "马龙对战林高远",
+      "onboard_time": 1713703458,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 803399,
@@ -259,16 +267,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 716762,
-      "num": 716762,
-      "word": "马龙对战林高远",
-      "onboard_time": 1713703458,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 701668,
+      "num": 573981,
+      "word": "美国老人感染僵尸鹿病毒死亡",
+      "onboard_time": 1713705440,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 689606,
-      "num": 397655,
+      "num": 439827,
       "word": "一小时内被三个人说我占座了",
       "onboard_time": 1713699858,
       "rank": 21,
@@ -435,6 +443,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 570886,
+      "num": 570886,
+      "word": "莎头",
+      "onboard_time": 1713703999,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 569841,
       "num": 569841,
       "word": "黄子韬小马丁事件",
@@ -449,6 +465,14 @@
       "onboard_time": 1713678320,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 561606,
+      "num": 561606,
+      "word": "眼泪女王",
+      "onboard_time": 1713617897,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 556260,
@@ -473,14 +497,6 @@
       "onboard_time": 1713698599,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 536669,
-      "num": 536669,
-      "word": "莎头",
-      "onboard_time": 1713703999,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 536310,
@@ -595,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493338,
+      "num": 493338,
+      "word": "胡先煦高烧40度出席首映礼",
+      "onboard_time": 1713705081,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 491470,
       "num": 491470,
       "word": "广东居民非必要不外出",
@@ -683,12 +707,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 439903,
+      "num": 439903,
+      "word": "皮肤科医生不建议点痣",
+      "onboard_time": 1713704600,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 436773,
       "num": 436773,
       "word": "拉塞尔又拉了",
       "onboard_time": 1713666016,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 436495,
+      "num": 436495,
+      "word": "杨幂演技",
+      "onboard_time": 1713705680,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 435237,
@@ -763,20 +803,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 403952,
+      "num": 403952,
+      "word": "TF三代双C",
+      "onboard_time": 1713704722,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403395,
       "num": 429999,
       "word": "马龙4比0王楚钦",
       "onboard_time": 1713615258,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 399109,
-      "num": 399109,
-      "word": "TF三代双C",
-      "onboard_time": 1713704722,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 394138,
@@ -1011,14 +1051,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 308407,
-      "num": 308407,
-      "word": "眼泪女王",
-      "onboard_time": 1713617897,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 306949,
       "num": 306949,
       "word": "跳水世界杯",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1713621019,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 283255,
-      "num": 283255,
-      "word": "皮肤科医生不建议点痣",
-      "onboard_time": 1713704600,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 278877,
@@ -1155,14 +1179,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 259644,
-      "num": 259644,
-      "word": "胡先煦高烧40度出席首映礼",
-      "onboard_time": 1713705081,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 256784,
       "num": 256784,
       "word": "Doinb为Tian大哭",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1713696738,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252129,
+      "num": 252129,
+      "word": "孙颖莎亲吻球台",
+      "onboard_time": 1713706041,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 251367,
@@ -1547,20 +1571,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 199213,
-      "num": 199213,
-      "word": "美国老人感染僵尸鹿病毒死亡",
-      "onboard_time": 1713705440,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199019,
       "num": 199019,
       "word": "一诺说接下来的路我们一起走",
       "onboard_time": 1713676459,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 198992,
+      "num": 198992,
+      "word": "女单 精彩",
+      "onboard_time": 1713705741,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 198742,
@@ -2097,6 +2121,14 @@
       "onboard_time": 1713620119,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153660,
+      "num": 153660,
+      "word": "当的是间谍干的是苦力",
+      "onboard_time": 1713706340,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 152190,
@@ -2780,7 +2812,7 @@
     },
     {
       "raw_hot": 71772,
-      "num": 458906,
+      "num": 501249,
       "word": "蛋仔派对猫和老鼠联动",
       "onboard_time": 1713703040,
       "rank": 30,
@@ -2979,8 +3011,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 15903,
-      "num": 515012,
+      "raw_hot": 18688,
+      "num": 547321,
       "word": "勒克莱尔中国站第4",
       "onboard_time": 1713704421,
       "rank": 14,

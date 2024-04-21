@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713705541316,
+  "endTime": 1713706450328,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3986774,
+      "num": 3986774,
+      "word": "孙颖莎冠军",
+      "onboard_time": 1713705020,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3915819,
       "num": 3915819,
       "word": "王一博托姐公开秀恩爱",
@@ -137,14 +145,6 @@
       "onboard_time": 1712112801,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3330073,
-      "num": 3330073,
-      "word": "孙颖莎冠军",
-      "onboard_time": 1713705020,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 3224657,
@@ -3347,6 +3347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1140019,
+      "num": 1140019,
+      "word": "陈丽君断层第一",
+      "onboard_time": 1713704359,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1139563,
       "num": 1139563,
       "word": "雷军问网友是否支持车上有原装手机支架",
@@ -5315,14 +5323,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 901669,
-      "num": 901669,
-      "word": "陈丽君断层第一",
-      "onboard_time": 1713704359,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 899267,
       "num": 899267,
       "word": "赵薇名下所持股权再遭冻结",
@@ -6361,6 +6361,14 @@
       "onboard_time": 1712940855,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 805620,
+      "num": 805620,
+      "word": "马龙对战林高远",
+      "onboard_time": 1713703458,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 805284,
@@ -7811,14 +7819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 716762,
-      "num": 716762,
-      "word": "马龙对战林高远",
-      "onboard_time": 1713703458,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 716636,
       "num": 716636,
       "word": "卧铺挂床帘当事年轻人发声",
@@ -8091,6 +8091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 701668,
+      "num": 573981,
+      "word": "美国老人感染僵尸鹿病毒死亡",
+      "onboard_time": 1713705440,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700742,
       "num": 700742,
       "word": "吴亦凡两关联公司欠税400余万",
@@ -8308,7 +8316,7 @@
     },
     {
       "raw_hot": 689606,
-      "num": 397655,
+      "num": 439827,
       "word": "一小时内被三个人说我占座了",
       "onboard_time": 1713699858,
       "rank": 21,
@@ -11043,6 +11051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 570886,
+      "num": 570886,
+      "word": "莎头",
+      "onboard_time": 1711929559,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 570670,
       "num": 570670,
       "word": "老人在成都居家四个月燃气费1.5万",
@@ -11993,14 +12009,6 @@
       "onboard_time": 1712920698,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 536669,
-      "num": 565200,
-      "word": "莎头",
-      "onboard_time": 1711929559,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 536636,
@@ -13577,6 +13585,14 @@
       "onboard_time": 1712633298,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 493338,
+      "num": 493338,
+      "word": "胡先煦高烧40度出席首映礼",
+      "onboard_time": 1713705081,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 493181,
@@ -15699,6 +15715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439903,
+      "num": 439903,
+      "word": "皮肤科医生不建议点痣",
+      "onboard_time": 1713704600,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 439861,
       "num": 439861,
       "word": "权恩妃购买24亿韩元住宅",
@@ -15833,6 +15857,14 @@
       "onboard_time": 1712030721,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 436495,
+      "num": 436495,
+      "word": "杨幂演技",
+      "onboard_time": 1713705680,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 436467,
@@ -17203,6 +17235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 403952,
+      "num": 403952,
+      "word": "TF三代双C",
+      "onboard_time": 1713704722,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403742,
       "num": 403742,
       "word": "马斯克称将对X上的成人内容大清洗",
@@ -17385,14 +17425,6 @@
       "onboard_time": 1712476399,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 399109,
-      "num": 399109,
-      "word": "TF三代双C",
-      "onboard_time": 1713704722,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 398843,
@@ -24195,14 +24227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283255,
-      "num": 283255,
-      "word": "皮肤科医生不建议点痣",
-      "onboard_time": 1713704600,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 283154,
       "num": 259157,
       "word": "17级以前的大学生才是最幸福的",
@@ -26083,14 +26107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259644,
-      "num": 259644,
-      "word": "胡先煦高烧40度出席首映礼",
-      "onboard_time": 1713705081,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 259610,
       "num": 259610,
       "word": "王一博工作室端水",
@@ -26865,6 +26881,14 @@
       "onboard_time": 1713696738,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252129,
+      "num": 252129,
+      "word": "孙颖莎亲吻球台",
+      "onboard_time": 1713706041,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 252083,
@@ -34851,14 +34875,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 199213,
-      "num": 199213,
-      "word": "美国老人感染僵尸鹿病毒死亡",
-      "onboard_time": 1713705440,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199165,
       "num": 199165,
       "word": "于和伟大大方方媚粉",
@@ -34889,6 +34905,14 @@
       "onboard_time": 1713676459,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 198992,
+      "num": 198992,
+      "word": "女单 精彩",
+      "onboard_time": 1713705741,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 198974,
@@ -45497,6 +45521,14 @@
       "onboard_time": 1713426677,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153660,
+      "num": 153660,
+      "word": "当的是间谍干的是苦力",
+      "onboard_time": 1713706340,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 153605,
@@ -57076,7 +57108,7 @@
     },
     {
       "raw_hot": 71772,
-      "num": 458906,
+      "num": 501249,
       "word": "蛋仔派对猫和老鼠联动",
       "onboard_time": 1713703040,
       "rank": 30,
@@ -59915,6 +59947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18688,
+      "num": 547321,
+      "word": "勒克莱尔中国站第4",
+      "onboard_time": 1713704421,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18638,
       "num": 18638,
       "word": "宇多田光时隔24年唱First love",
@@ -60033,14 +60073,6 @@
       "onboard_time": 1712429891,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15903,
-      "num": 515012,
-      "word": "勒克莱尔中国站第4",
-      "onboard_time": 1713704421,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 15726,
