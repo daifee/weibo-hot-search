@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713688446461,
+  "endTime": 1713691105296,
   "band_list": [
     {
       "raw_hot": 2163133,
@@ -9,6 +9,14 @@
       "onboard_time": 1713654433,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1597311,
+      "num": 1597311,
+      "word": "周冠宇哭了",
+      "onboard_time": 1713690258,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1526920,
@@ -299,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 545626,
+      "num": 392846,
+      "word": "郑恺看苗苗的眼里全是宠溺",
+      "onboard_time": 1713688697,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 536310,
       "num": 536310,
       "word": "B太揭秘卫生巾灰色产业链",
@@ -313,6 +329,22 @@
       "onboard_time": 1713669499,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 530255,
+      "num": 530255,
+      "word": "何瑞之 冷暴力",
+      "onboard_time": 1713687199,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 522361,
+      "num": 522361,
+      "word": "美媒曝布林肯将宣布制裁以军一支部队",
+      "onboard_time": 1713687199,
+      "rank": 15,
+      "category": "国外时政"
     },
     {
       "raw_hot": 522060,
@@ -339,12 +371,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508187,
+      "num": 508187,
+      "word": "索伯换胎",
+      "onboard_time": 1713688398,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 507425,
-      "num": 254997,
+      "num": 286759,
       "word": "终于有洗澡不那么见外的剧了",
       "onboard_time": 1713685278,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 501456,
+      "num": 501456,
+      "word": "周冠宇完赛",
+      "onboard_time": 1713690378,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 500053,
+      "num": 383782,
+      "word": "每天1杯柠檬水身体会有何变化",
+      "onboard_time": 1713685697,
+      "rank": 14,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 495575,
@@ -401,14 +457,6 @@
       "onboard_time": 1713678499,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 468590,
-      "num": 348275,
-      "word": "每天1杯柠檬水身体会有何变化",
-      "onboard_time": 1713685697,
-      "rank": 14,
-      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 465648,
@@ -483,12 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 416917,
-      "num": 300878,
-      "word": "何瑞之 冷暴力",
+      "raw_hot": 415439,
+      "num": 288062,
+      "word": "上门取件焦虑症",
+      "onboard_time": 1713687438,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 414673,
+      "num": 373908,
+      "word": "两人维保电梯一人竟是纸片人",
       "onboard_time": 1713687199,
-      "rank": 21,
-      "category": "剧集"
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413899,
@@ -497,14 +553,6 @@
       "onboard_time": 1713618018,
       "rank": 8,
       "category": "美食"
-    },
-    {
-      "raw_hot": 412239,
-      "num": 290080,
-      "word": "美媒曝布林肯将宣布制裁以军一支部队",
-      "onboard_time": 1713687199,
-      "rank": 15,
-      "category": "国外时政"
     },
     {
       "raw_hot": 403395,
@@ -569,6 +617,14 @@
       "onboard_time": 1713682337,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 371111,
+      "num": 371111,
+      "word": "迪丽热巴留言花少团",
+      "onboard_time": 1713689357,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 362186,
@@ -675,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314450,
+      "num": 314450,
+      "word": "韩媒报道LESSERAFIM成功雪耻",
+      "onboard_time": 1713688039,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311747,
       "num": 311747,
       "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
@@ -699,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288943,
+      "num": 288943,
+      "word": "华为Pura70",
+      "onboard_time": 1713689178,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 283393,
       "num": 249270,
       "word": "戚薇 蔡文静",
@@ -721,14 +793,6 @@
       "onboard_time": 1713680237,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 276701,
-      "num": 276701,
-      "word": "韩媒报道LESSERAFIM成功雪耻",
-      "onboard_time": 1713688039,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 267751,
@@ -771,20 +835,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 254505,
+      "num": 254505,
+      "word": "全场为周冠宇欢呼",
+      "onboard_time": 1713681019,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253580,
       "num": 253580,
       "word": "戚薇李承铉没拍过婚纱照",
       "onboard_time": 1713665778,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252783,
-      "num": 236111,
-      "word": "上门取件焦虑症",
-      "onboard_time": 1713687438,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 251367,
@@ -801,6 +865,14 @@
       "onboard_time": 1713679338,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241153,
+      "num": 241153,
+      "word": "蔡文静求别扒了",
+      "onboard_time": 1713689178,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 239737,
@@ -825,6 +897,14 @@
       "onboard_time": 1713682218,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235916,
+      "num": 405495,
+      "word": "周冠宇说国旗一直是我的动力",
+      "onboard_time": 1713684558,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 231764,
@@ -1027,6 +1107,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 200304,
+      "num": 200304,
+      "word": "KSG战胜狼队",
+      "onboard_time": 1713689958,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200068,
       "num": 200068,
       "word": "杨幂关雪压迫感",
@@ -1107,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191903,
+      "num": 191903,
+      "word": "雨伞还是没有偏向她",
+      "onboard_time": 1713689537,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191828,
       "num": 127876,
       "word": "周杰伦听见下雨的声音",
@@ -1129,6 +1225,22 @@
       "onboard_time": 1713667457,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191068,
+      "num": 244612,
+      "word": "ILLIT第八个一位",
+      "onboard_time": 1713690378,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 189100,
+      "num": 189100,
+      "word": "蒲熠星trouble maker",
+      "onboard_time": 1713688157,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188309,
@@ -1235,6 +1347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176915,
+      "num": 166190,
+      "word": "蒲熠星妆造",
+      "onboard_time": 1713689839,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175075,
       "num": 175075,
       "word": "向佐一套话术忽悠四个女人",
@@ -1265,14 +1385,6 @@
       "onboard_time": 1713671718,
       "rank": 33,
       "category": "财经,美食"
-    },
-    {
-      "raw_hot": 171164,
-      "num": 171164,
-      "word": "两人维保电梯一人竟是纸片人",
-      "onboard_time": 1713687199,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170982,
@@ -1331,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161915,
+      "num": 161915,
+      "word": "秦昊出走半生仍未走出东北",
+      "onboard_time": 1713690678,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161883,
       "num": 161883,
       "word": "科切拉",
@@ -1379,12 +1499,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 155696,
+      "num": 155696,
+      "word": "鹿晗张云龙娱乐圈新球搭子",
+      "onboard_time": 1713688697,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154437,
       "num": 154437,
       "word": "用100元在上海流浪了八天",
       "onboard_time": 1713666558,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154165,
+      "num": 262455,
+      "word": "Pura70亮相赛车摄影专用席",
+      "onboard_time": 1713690798,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 153775,
@@ -1401,22 +1537,6 @@
       "onboard_time": 1713620119,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151338,
-      "num": 375459,
-      "word": "周冠宇说国旗一直是我的动力",
-      "onboard_time": 1713684558,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 150404,
-      "num": 150404,
-      "word": "全场为周冠宇欢呼",
-      "onboard_time": 1713681019,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 150378,
@@ -1449,6 +1569,14 @@
       "onboard_time": 1713670278,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 147663,
+      "num": 147663,
+      "word": "KPL",
+      "onboard_time": 1713689537,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 147521,
@@ -1505,14 +1633,6 @@
       "onboard_time": 1713666138,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 143052,
-      "num": 143052,
-      "word": "蒲熠星trouble maker",
-      "onboard_time": 1713688157,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 142292,
@@ -1723,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125870,
+      "num": 378565,
+      "word": "天猫本猫在闲鱼上找女朋友",
+      "onboard_time": 1713690019,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 125154,
       "num": 131201,
       "word": "王楚钦vs马龙",
@@ -1867,14 +1995,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 100893,
-      "num": 100893,
-      "word": "索伯换胎",
-      "onboard_time": 1713688398,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99490,
       "num": 107540,
       "word": "BLG战胜TES",
@@ -1884,7 +2004,7 @@
     },
     {
       "raw_hot": 97714,
-      "num": 549863,
+      "num": 903736,
       "word": "用中国传统色打开春耕画卷",
       "onboard_time": 1713686178,
       "rank": 2,
@@ -2057,6 +2177,14 @@
       "onboard_time": 1713634634,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48951,
+      "num": 165005,
+      "word": "搜狐视频播主大会",
+      "onboard_time": 1713690019,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 48426,

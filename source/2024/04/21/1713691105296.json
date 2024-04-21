@@ -1,0 +1,410 @@
+{
+  "runTime": 1713691105296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1597311,
+        "num": 1597311,
+        "word": "周冠宇哭了",
+        "onboard_time": 1713690258,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1040954,
+        "num": 1040954,
+        "word": "12306 候补",
+        "onboard_time": 1713685820,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67657,
+        "num": 903736,
+        "word": "用中国传统色打开春耕画卷",
+        "onboard_time": 1713686178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874590,
+        "num": 874590,
+        "word": "韩国女团MV涉嫌恋童引争议",
+        "onboard_time": 1713685637,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 530255,
+        "num": 530255,
+        "word": "何瑞之 冷暴力",
+        "onboard_time": 1713687199,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 522361,
+        "num": 522361,
+        "word": "美媒曝布林肯将宣布制裁以军一支部队",
+        "onboard_time": 1713687199,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 508187,
+        "num": 508187,
+        "word": "索伯换胎",
+        "onboard_time": 1713688398,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 501456,
+        "num": 501456,
+        "word": "周冠宇完赛",
+        "onboard_time": 1713690378,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410271,
+        "num": 410271,
+        "word": "秦岚偷偷量了辛芷蕾手指尺寸",
+        "onboard_time": 1713678499,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235916,
+        "num": 405495,
+        "word": "周冠宇说国旗一直是我的动力",
+        "onboard_time": 1713684558,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 572994,
+        "num": 401437,
+        "word": "中国近一半大城市正在下沉",
+        "onboard_time": 1713673939,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 564646,
+        "num": 398823,
+        "word": "李晟发和赵丽颖聊天记录",
+        "onboard_time": 1713672138,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545626,
+        "num": 392846,
+        "word": "郑恺看苗苗的眼里全是宠溺",
+        "onboard_time": 1713688697,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500053,
+        "num": 383782,
+        "word": "每天1杯柠檬水身体会有何变化",
+        "onboard_time": 1713685697,
+        "rank": 13,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 125870,
+        "num": 378565,
+        "word": "天猫本猫在闲鱼上找女朋友",
+        "onboard_time": 1713690019,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 414673,
+        "num": 373908,
+        "word": "两人维保电梯一人竟是纸片人",
+        "onboard_time": 1713687199,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371111,
+        "num": 371111,
+        "word": "迪丽热巴留言花少团",
+        "onboard_time": 1713689357,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314450,
+        "num": 314450,
+        "word": "韩媒报道LESSERAFIM成功雪耻",
+        "onboard_time": 1713688039,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 301279,
+        "num": 301279,
+        "word": "姥姥去世一周后妈妈发的信息",
+        "onboard_time": 1713667639,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288943,
+        "num": 288943,
+        "word": "华为Pura70",
+        "onboard_time": 1713689178,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 674329,
+        "num": 288777,
+        "word": "王安宇 没有冒犯姐夫想替代姐夫",
+        "onboard_time": 1713678139,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415439,
+        "num": 288062,
+        "word": "上门取件焦虑症",
+        "onboard_time": 1713687438,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286759,
+        "num": 286759,
+        "word": "终于有洗澡不那么见外的剧了",
+        "onboard_time": 1713685278,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154165,
+        "num": 262455,
+        "word": "Pura70亮相赛车摄影专用席",
+        "onboard_time": 1713690798,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 254505,
+        "num": 254505,
+        "word": "全场为周冠宇欢呼",
+        "onboard_time": 1713681019,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191068,
+        "num": 244612,
+        "word": "ILLIT第八个一位",
+        "onboard_time": 1713690378,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 241153,
+        "num": 241153,
+        "word": "蔡文静求别扒了",
+        "onboard_time": 1713689178,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217409,
+        "num": 217409,
+        "word": "黄子韬小马丁事件",
+        "onboard_time": 1713676940,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208626,
+        "num": 208626,
+        "word": "LESSERAFIM科切拉舞台第二场",
+        "onboard_time": 1713686057,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202049,
+        "num": 202049,
+        "word": "邓超真的把鹿晗当亲儿子宠了",
+        "onboard_time": 1713680539,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200304,
+        "num": 200304,
+        "word": "KSG战胜狼队",
+        "onboard_time": 1713689958,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194877,
+        "num": 194877,
+        "word": "博塔斯退赛",
+        "onboard_time": 1713687498,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191903,
+        "num": 191903,
+        "word": "雨伞还是没有偏向她",
+        "onboard_time": 1713689537,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189100,
+        "num": 189100,
+        "word": "蒲熠星trouble maker",
+        "onboard_time": 1713688157,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184003,
+        "num": 184003,
+        "word": "二开",
+        "onboard_time": 1713684079,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172287,
+        "num": 172287,
+        "word": "许美静演唱会 划水",
+        "onboard_time": 1713679819,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167913,
+        "num": 167913,
+        "word": "F1直播",
+        "onboard_time": 1713687258,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166799,
+        "num": 166799,
+        "word": "黄子韬就不当言论道歉",
+        "onboard_time": 1713654433,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176915,
+        "num": 166190,
+        "word": "蒲熠星妆造",
+        "onboard_time": 1713689839,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48951,
+        "num": 165005,
+        "word": "搜狐视频播主大会",
+        "onboard_time": 1713690019,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164666,
+        "num": 164666,
+        "word": "刘诗诗下厨",
+        "onboard_time": 1713684558,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162179,
+        "num": 162179,
+        "word": "不会扎低丸子头的有福了",
+        "onboard_time": 1713682756,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 161915,
+        "num": 161915,
+        "word": "秦昊出走半生仍未走出东北",
+        "onboard_time": 1713690678,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159052,
+        "num": 159052,
+        "word": "日本首相岸田向靖国神社供奉祭品",
+        "onboard_time": 1713682337,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 156428,
+        "num": 156428,
+        "word": "吴艳妮说化妆比赛是因为尊重观众",
+        "onboard_time": 1713672018,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155696,
+        "num": 155696,
+        "word": "鹿晗张云龙娱乐圈新球搭子",
+        "onboard_time": 1713688697,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150002,
+        "num": 150002,
+        "word": "Doinb为Tian大哭",
+        "onboard_time": 1713684677,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147663,
+        "num": 147663,
+        "word": "KPL",
+        "onboard_time": 1713689537,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138523,
+        "num": 138523,
+        "word": "杨紫把鞋踢到许凯怀里",
+        "onboard_time": 1713685758,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138070,
+        "num": 138070,
+        "word": "F1",
+        "onboard_time": 1713682937,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}
