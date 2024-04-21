@@ -1,0 +1,410 @@
+{
+  "runTime": 1713683803287,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 948034,
+        "num": 948034,
+        "word": "中国近一半大城市正在下沉",
+        "onboard_time": 1713673939,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 785601,
+        "num": 785601,
+        "word": "许美静演唱会 划水",
+        "onboard_time": 1713679819,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47123,
+        "num": 756452,
+        "word": "最新中华文化主题宣传片",
+        "onboard_time": 1713670699,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746765,
+        "num": 746765,
+        "word": "王安宇 没有冒犯姐夫想替代姐夫",
+        "onboard_time": 1713678139,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561675,
+        "num": 561675,
+        "word": "邓超真的把鹿晗当亲儿子宠了",
+        "onboard_time": 1713680539,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534988,
+        "num": 534988,
+        "word": "B太揭秘卫生巾灰色产业链",
+        "onboard_time": 1713679939,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485365,
+        "num": 485365,
+        "word": "赵昭仪 恋爱脑的爸妈破碎的她",
+        "onboard_time": 1713678320,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480183,
+        "num": 480183,
+        "word": "广东居民非必要不外出",
+        "onboard_time": 1713677598,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536944,
+        "num": 473621,
+        "word": "姐夫好我是王安宇",
+        "onboard_time": 1713680179,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430734,
+        "num": 430734,
+        "word": "5月份工资可以提前发",
+        "onboard_time": 1713663738,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900235,
+        "num": 423197,
+        "word": "李晟发和赵丽颖聊天记录",
+        "onboard_time": 1713672138,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409797,
+        "num": 409797,
+        "word": "姥姥去世一周后妈妈发的信息",
+        "onboard_time": 1713667639,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307375,
+        "num": 307375,
+        "word": "狮子 请不要把手伸进来",
+        "onboard_time": 1713676519,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299930,
+        "num": 299930,
+        "word": "文旅局回应许美静演唱会观众喊退票",
+        "onboard_time": 1713675859,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 286358,
+        "num": 286358,
+        "word": "吴艳妮说化妆比赛是因为尊重观众",
+        "onboard_time": 1713672018,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284322,
+        "num": 284322,
+        "word": "黄子韬小马丁事件",
+        "onboard_time": 1713676940,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214709,
+        "num": 273546,
+        "word": "你永远可以相信大自然的疗愈力",
+        "onboard_time": 1713680298,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 270073,
+        "num": 270073,
+        "word": "男子举报许美静演唱会涉嫌欺诈观众",
+        "onboard_time": 1713680237,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 244473,
+        "num": 244473,
+        "word": "垫音",
+        "onboard_time": 1713682337,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200128,
+        "num": 200128,
+        "word": "F1",
+        "onboard_time": 1713682937,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346660,
+        "num": 197960,
+        "word": "秦岚偷偷量了辛芷蕾手指尺寸",
+        "onboard_time": 1713678499,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319010,
+        "num": 197438,
+        "word": "黄子韬就不当言论道歉",
+        "onboard_time": 1713654433,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195779,
+        "num": 195779,
+        "word": "日本首相岸田向靖国神社供奉祭品",
+        "onboard_time": 1713682337,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 183053,
+        "num": 183053,
+        "word": "广州塔1小时内连续6次接闪电",
+        "onboard_time": 1713671956,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181760,
+        "num": 181760,
+        "word": "狗好 猫乖",
+        "onboard_time": 1713680719,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227313,
+        "num": 180522,
+        "word": "许美静演唱会 全场喊退票",
+        "onboard_time": 1713658457,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 221809,
+        "num": 179657,
+        "word": "陈昊宇好看",
+        "onboard_time": 1713682218,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176924,
+        "num": 176924,
+        "word": "12306抢票",
+        "onboard_time": 1713664457,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 172063,
+        "num": 172063,
+        "word": "秦昊杨幂新剧首更6集",
+        "onboard_time": 1713679578,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169164,
+        "num": 169164,
+        "word": "时代少年团抢票",
+        "onboard_time": 1713682999,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262654,
+        "num": 168736,
+        "word": "不会扎低丸子头的有福了",
+        "onboard_time": 1713682756,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 192442,
+        "num": 168400,
+        "word": "TheShy直播除三害",
+        "onboard_time": 1713683057,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167010,
+        "num": 167010,
+        "word": "迪丽热巴问白宇年龄",
+        "onboard_time": 1713678019,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166797,
+        "num": 166797,
+        "word": "失足女拒亲嘴被打后刺死男子获刑",
+        "onboard_time": 1713663437,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163813,
+        "num": 163813,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1713681737,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162157,
+        "num": 162157,
+        "word": "凤凰传奇质疑伍佰超越伍佰",
+        "onboard_time": 1713672737,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161883,
+        "num": 161883,
+        "word": "科切拉",
+        "onboard_time": 1713681258,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160369,
+        "num": 160369,
+        "word": "五哈团看到女嘉宾的反应",
+        "onboard_time": 1713679338,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153775,
+        "num": 153775,
+        "word": "印尼警方通报中国游客坠崖情况",
+        "onboard_time": 1713680597,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140282,
+        "num": 150523,
+        "word": "雷军现身上海F1赛场",
+        "onboard_time": 1713682518,
+        "rank": 39,
+        "category": "汽车,体育"
+      },
+      {
+        "raw_hot": 154724,
+        "num": 150512,
+        "word": "凤凰传奇 我也想去现场",
+        "onboard_time": 1713679460,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150488,
+        "num": 150488,
+        "word": "向佐被李菲儿拒绝脸色变了",
+        "onboard_time": 1713668238,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148884,
+        "num": 148884,
+        "word": "金莎被所有人拒绝",
+        "onboard_time": 1713665658,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128203,
+        "num": 128203,
+        "word": "第一批去新加坡的中产没200万年薪撑不下去",
+        "onboard_time": 1713668057,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125453,
+        "num": 125453,
+        "word": "没有哪个男人能娶到我",
+        "onboard_time": 1713675319,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112442,
+        "num": 112442,
+        "word": "18位慰安妇制度受害者子女在国内起诉日本",
+        "onboard_time": 1713678320,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112044,
+        "num": 112044,
+        "word": "余华 人生没有轨道是到不了旷野的",
+        "onboard_time": 1713679638,
+        "rank": 46,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 106334,
+        "num": 106334,
+        "word": "原来这就是不胖和很瘦的区别",
+        "onboard_time": 1713668117,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101510,
+        "num": 101510,
+        "word": "全场为周冠宇欢呼",
+        "onboard_time": 1713681019,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91068,
+        "num": 101168,
+        "word": "疑似张凯回应辞职",
+        "onboard_time": 1713683718,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}
