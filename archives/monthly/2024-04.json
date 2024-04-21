@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713706450328,
+  "endTime": 1713708953058,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -289,6 +289,14 @@
       "onboard_time": 1712549540,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2623349,
+      "num": 2623349,
+      "word": "擦边球",
+      "onboard_time": 1713706581,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2605339,
@@ -1659,6 +1667,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1537487,
+      "num": 1392216,
+      "word": "美国老人感染僵尸鹿病毒死亡",
+      "onboard_time": 1713705440,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1536061,
       "num": 1536061,
       "word": "排卵期储水",
@@ -2081,6 +2097,14 @@
       "onboard_time": 1712801357,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1390322,
+      "num": 1390322,
+      "word": "马龙对战林高远",
+      "onboard_time": 1713703458,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 1387971,
@@ -4411,6 +4435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 997702,
+      "num": 997702,
+      "word": "北京市副市长高朋被查",
+      "onboard_time": 1713707122,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 996257,
       "num": 996257,
       "word": "38块钱居然能吃20个菜",
@@ -5803,6 +5835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 848514,
+      "num": 848514,
+      "word": "皮肤科医生不建议点痣",
+      "onboard_time": 1713704600,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 847345,
       "num": 847345,
       "word": "我弟弟暗恋了我闺蜜10年",
@@ -6179,6 +6219,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 819121,
+      "num": 819121,
+      "word": "全红婵摘银后公主抱英国铜牌得主",
+      "onboard_time": 1713707181,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 816939,
       "num": 816939,
       "word": "林更新新简介",
@@ -6361,14 +6409,6 @@
       "onboard_time": 1712940855,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 805620,
-      "num": 805620,
-      "word": "马龙对战林高远",
-      "onboard_time": 1713703458,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 805284,
@@ -7395,6 +7435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 745122,
+      "num": 745122,
+      "word": "钟薛高创始人称卖红薯也要把债还上",
+      "onboard_time": 1713707361,
+      "rank": 9,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 744914,
       "num": 744914,
       "word": "年轻真好14秒睡了5觉",
@@ -7696,6 +7744,14 @@
       "word": "赵丽颖林更新吻戏",
       "onboard_time": 1712142738,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 725861,
+      "num": 725861,
+      "word": "杨幂演技",
+      "onboard_time": 1713705680,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -8089,14 +8145,6 @@
       "onboard_time": 1712794520,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 701668,
-      "num": 573981,
-      "word": "美国老人感染僵尸鹿病毒死亡",
-      "onboard_time": 1713705440,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 700742,
@@ -11979,6 +12027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 538986,
+      "num": 538986,
+      "word": "胡先煦高烧40度出席首映礼",
+      "onboard_time": 1713705081,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 538706,
       "num": 538706,
       "word": "腾讯视频24年大剧片单",
@@ -13585,14 +13641,6 @@
       "onboard_time": 1712633298,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 493338,
-      "num": 493338,
-      "word": "胡先煦高烧40度出席首映礼",
-      "onboard_time": 1713705081,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 493181,
@@ -15675,6 +15723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440722,
+      "num": 440722,
+      "word": "哈尔滨一九四四收视率",
+      "onboard_time": 1713707300,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 440542,
       "num": 440542,
       "word": "刚入职发现同事全要离职",
@@ -15713,14 +15769,6 @@
       "onboard_time": 1713012859,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 439903,
-      "num": 439903,
-      "word": "皮肤科医生不建议点痣",
-      "onboard_time": 1713704600,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 439861,
@@ -15857,14 +15905,6 @@
       "onboard_time": 1712030721,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 436495,
-      "num": 436495,
-      "word": "杨幂演技",
-      "onboard_time": 1713705680,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 436467,
@@ -17379,6 +17419,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 399661,
+      "num": 399661,
+      "word": "庄达菲妈咪陈昊宇",
+      "onboard_time": 1713707060,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399626,
       "num": 399626,
       "word": "李耕耘健身成果",
@@ -17569,6 +17617,14 @@
       "onboard_time": 1713205213,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 396062,
+      "num": 396062,
+      "word": "林依轮举孙颖莎手幅",
+      "onboard_time": 1713702140,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 396019,
@@ -19107,6 +19163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365384,
+      "num": 365384,
+      "word": "孙颖莎大满贯",
+      "onboard_time": 1713708381,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 365207,
       "num": 365207,
       "word": "美众议院多给字节180天出售TikTok",
@@ -19377,14 +19441,6 @@
       "onboard_time": 1712736798,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 359526,
-      "num": 359526,
-      "word": "林依轮举孙颖莎手幅",
-      "onboard_time": 1713702140,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 358790,
@@ -19993,6 +20049,14 @@
       "onboard_time": 1712982618,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 348782,
+      "num": 348782,
+      "word": "不想发朋友圈的可以发状态",
+      "onboard_time": 1713708082,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 348415,
@@ -22371,6 +22435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308657,
+      "num": 308657,
+      "word": "极限挑战开播",
+      "onboard_time": 1713706641,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308479,
       "num": 308479,
       "word": "薛之谦抢票",
@@ -23689,6 +23761,14 @@
       "onboard_time": 1712122101,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 290933,
+      "num": 290933,
+      "word": "ILLIT粉丝名",
+      "onboard_time": 1713708082,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 290865,
@@ -26497,6 +26577,14 @@
       "onboard_time": 1712923398,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 255958,
+      "num": 255958,
+      "word": "孙颖莎眼里有光",
+      "onboard_time": 1713707779,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 255916,
@@ -29995,6 +30083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225795,
+      "num": 225795,
+      "word": "罗云熙演唱会票价1680",
+      "onboard_time": 1713708681,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 225775,
       "num": 225775,
       "word": "什么是上班20分钟定律",
@@ -32857,6 +32953,14 @@
       "onboard_time": 1713017000,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206978,
+      "num": 206978,
+      "word": "龚俊又被骗了",
+      "onboard_time": 1713706521,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 206972,
@@ -37875,6 +37979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188164,
+      "num": 188164,
+      "word": "AG战胜TES",
+      "onboard_time": 1713708681,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188153,
       "num": 188153,
       "word": "宋雨琦预售",
@@ -39193,6 +39305,14 @@
       "onboard_time": 1712655919,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183009,
+      "num": 183009,
+      "word": "东北雨姐是东北给全国人打的一针兴奋剂",
+      "onboard_time": 1713708622,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 183007,
@@ -41707,6 +41827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171163,
+      "num": 171163,
+      "word": "徐嘉余冠军",
+      "onboard_time": 1713708742,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171133,
       "num": 171133,
       "word": "原来躺着就能改善驼背",
@@ -42209,6 +42337,14 @@
       "onboard_time": 1711942220,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 168567,
+      "num": 168567,
+      "word": "本来以为迪士尼已经够美了",
+      "onboard_time": 1713707181,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 168446,
@@ -43089,6 +43225,14 @@
       "onboard_time": 1712997137,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164376,
+      "num": 164376,
+      "word": "薛之谦天外来物单轮巡演100场",
+      "onboard_time": 1713706641,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 164308,
@@ -58896,6 +59040,14 @@
       "word": "云逛广交会",
       "onboard_time": 1713258019,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37101,
+      "num": 511117,
+      "word": "阅读有助于情绪稳定吗",
+      "onboard_time": 1713708022,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

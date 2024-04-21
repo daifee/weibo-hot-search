@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713706450328,
+  "endTime": 1713708953058,
   "band_list": [
     {
       "raw_hot": 3986774,
@@ -15,6 +15,14 @@
       "num": 2868617,
       "word": "周冠宇哭了",
       "onboard_time": 1713690258,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2623349,
+      "num": 2623349,
+      "word": "擦边球",
+      "onboard_time": 1713706581,
       "rank": 0,
       "category": "体育"
     },
@@ -41,6 +49,14 @@
       "onboard_time": 1713654433,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1537487,
+      "num": 1392216,
+      "word": "美国老人感染僵尸鹿病毒死亡",
+      "onboard_time": 1713705440,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1526920,
@@ -73,6 +89,14 @@
       "onboard_time": 1713697998,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1390322,
+      "num": 1390322,
+      "word": "马龙对战林高远",
+      "onboard_time": 1713703458,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 1336366,
@@ -163,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 997702,
+      "num": 997702,
+      "word": "北京市副市长高朋被查",
+      "onboard_time": 1713707122,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 986936,
       "num": 986936,
       "word": "韩国女团MV涉嫌恋童引争议",
@@ -203,6 +235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 848514,
+      "num": 848514,
+      "word": "皮肤科医生不建议点痣",
+      "onboard_time": 1713704600,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 828452,
       "num": 163903,
       "word": "黄子韬 小马丁",
@@ -219,11 +259,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 805620,
-      "num": 805620,
-      "word": "马龙对战林高远",
-      "onboard_time": 1713703458,
-      "rank": 49,
+      "raw_hot": 819121,
+      "num": 819121,
+      "word": "全红婵摘银后公主抱英国铜牌得主",
+      "onboard_time": 1713707181,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -259,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 745122,
+      "num": 745122,
+      "word": "钟薛高创始人称卖红薯也要把债还上",
+      "onboard_time": 1713707361,
+      "rank": 9,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 739668,
       "num": 717302,
       "word": "杨幂文替",
@@ -267,12 +315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 701668,
-      "num": 573981,
-      "word": "美国老人感染僵尸鹿病毒死亡",
-      "onboard_time": 1713705440,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 725861,
+      "num": 725861,
+      "word": "杨幂演技",
+      "onboard_time": 1713705680,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 689606,
@@ -499,6 +547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 538986,
+      "num": 538986,
+      "word": "胡先煦高烧40度出席首映礼",
+      "onboard_time": 1713705081,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 536310,
       "num": 536310,
       "word": "B太揭秘卫生巾灰色产业链",
@@ -611,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 493338,
-      "num": 493338,
-      "word": "胡先煦高烧40度出席首映礼",
-      "onboard_time": 1713705081,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 491470,
       "num": 491470,
       "word": "广东居民非必要不外出",
@@ -707,12 +755,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 439903,
-      "num": 439903,
-      "word": "皮肤科医生不建议点痣",
-      "onboard_time": 1713704600,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 440722,
+      "num": 440722,
+      "word": "哈尔滨一九四四收视率",
+      "onboard_time": 1713707300,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 436773,
@@ -721,14 +769,6 @@
       "onboard_time": 1713666016,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 436495,
-      "num": 436495,
-      "word": "杨幂演技",
-      "onboard_time": 1713705680,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 435237,
@@ -819,6 +859,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399661,
+      "num": 399661,
+      "word": "庄达菲妈咪陈昊宇",
+      "onboard_time": 1713707060,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 396062,
+      "num": 396062,
+      "word": "林依轮举孙颖莎手幅",
+      "onboard_time": 1713702140,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 394138,
       "num": 394138,
       "word": "WB连续三大场被零封",
@@ -899,20 +955,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365384,
+      "num": 365384,
+      "word": "孙颖莎大满贯",
+      "onboard_time": 1713708381,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 362186,
       "num": 362186,
       "word": "没有哪个男人能娶到我",
       "onboard_time": 1713675319,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 359526,
-      "num": 359526,
-      "word": "林依轮举孙颖莎手幅",
-      "onboard_time": 1713702140,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 354078,
@@ -929,6 +985,14 @@
       "onboard_time": 1713684677,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348782,
+      "num": 348782,
+      "word": "不想发朋友圈的可以发状态",
+      "onboard_time": 1713708082,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 347276,
@@ -1051,6 +1115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 308657,
+      "num": 308657,
+      "word": "极限挑战开播",
+      "onboard_time": 1713706641,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306949,
       "num": 306949,
       "word": "跳水世界杯",
@@ -1089,6 +1161,14 @@
       "onboard_time": 1713669078,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290933,
+      "num": 290933,
+      "word": "ILLIT粉丝名",
+      "onboard_time": 1713708082,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 288943,
@@ -1185,6 +1265,14 @@
       "onboard_time": 1713684677,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 255958,
+      "num": 255958,
+      "word": "孙颖莎眼里有光",
+      "onboard_time": 1713707779,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 254505,
@@ -1355,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225795,
+      "num": 225795,
+      "word": "罗云熙演唱会票价1680",
+      "onboard_time": 1713708681,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 225637,
       "num": 151354,
       "word": "一起入职的44岁姐妹被辞退了",
@@ -1457,6 +1553,14 @@
       "onboard_time": 1713682937,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206978,
+      "num": 206978,
+      "word": "龚俊又被骗了",
+      "onboard_time": 1713706521,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 206588,
@@ -1731,6 +1835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188164,
+      "num": 188164,
+      "word": "AG战胜TES",
+      "onboard_time": 1713708681,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188003,
       "num": 127500,
       "word": "陈昊宇发如雪",
@@ -1801,6 +1913,14 @@
       "onboard_time": 1713669619,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183009,
+      "num": 183009,
+      "word": "东北雨姐是东北给全国人打的一针兴奋剂",
+      "onboard_time": 1713708622,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 181923,
@@ -1915,6 +2035,14 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 171163,
+      "num": 171163,
+      "word": "徐嘉余冠军",
+      "onboard_time": 1713708742,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170982,
       "num": 170982,
       "word": "福州防空警报",
@@ -1939,6 +2067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168567,
+      "num": 168567,
+      "word": "本来以为迪士尼已经够美了",
+      "onboard_time": 1713707181,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 167102,
       "num": 167102,
       "word": "王一博无袖练拳",
@@ -1961,6 +2097,14 @@
       "onboard_time": 1713701658,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164376,
+      "num": 164376,
+      "word": "薛之谦天外来物单轮巡演100场",
+      "onboard_time": 1713706641,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 164219,
@@ -2089,6 +2233,14 @@
       "onboard_time": 1713662718,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 154540,
+      "num": 154540,
+      "word": "承欢记",
+      "onboard_time": 1713707902,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 154437,
@@ -2961,6 +3113,14 @@
       "onboard_time": 1713643991,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 37101,
+      "num": 511117,
+      "word": "阅读有助于情绪稳定吗",
+      "onboard_time": 1713708022,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36903,
