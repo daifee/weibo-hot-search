@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713723729189,
+  "endTime": 1713724451619,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -40867,6 +40867,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 176531,
+      "num": 121099,
+      "word": "永远不低估一颗冠军的心",
+      "onboard_time": 1713719954,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176496,
       "num": 176496,
       "word": "华为4月11日发布车和PC类产品",
@@ -44555,14 +44563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 159343,
-      "num": 121099,
-      "word": "永远不低估一颗冠军的心",
-      "onboard_time": 1713719954,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 159342,
       "num": 182758,
       "word": "西安地铁",
@@ -47777,6 +47777,14 @@
       "onboard_time": 1713282739,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147146,
+      "num": 147146,
+      "word": "曼联",
+      "onboard_time": 1713723733,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 147139,
@@ -56619,6 +56627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90336,
+      "num": 90336,
+      "word": "韩网评价金秀贤演技",
+      "onboard_time": 1713722652,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90270,
       "num": 1071743,
       "word": "春天的气息藏在花海里",
@@ -56888,14 +56904,6 @@
       "word": "阿母和嫋嫋",
       "onboard_time": 1713287353,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 84884,
-      "num": 84884,
-      "word": "韩网评价金秀贤演技",
-      "onboard_time": 1713722652,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -59587,6 +59595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32810,
+      "num": 36041,
+      "word": "鹿晗踢球戴曼联手套",
+      "onboard_time": 1713721933,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32754,
       "num": 32754,
       "word": "燥候TTPD",
@@ -59601,14 +59617,6 @@
       "onboard_time": 1713187099,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32292,
-      "num": 36041,
-      "word": "鹿晗踢球戴曼联手套",
-      "onboard_time": 1713721933,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 32284,
