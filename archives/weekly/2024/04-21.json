@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713695634853,
+  "endTime": 1713698049756,
   "band_list": [
     {
       "raw_hot": 2868617,
@@ -33,6 +33,14 @@
       "onboard_time": 1713672138,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1489385,
+      "num": 659421,
+      "word": "医生辟谣小肚子是为了保护子宫卵巢",
+      "onboard_time": 1713694397,
+      "rank": 41,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 1300921,
@@ -171,12 +179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 739446,
-      "num": 465710,
-      "word": "医生辟谣小肚子是为了保护子宫卵巢",
-      "onboard_time": 1713694397,
-      "rank": 41,
-      "category": "科学科普,健康医疗"
+      "raw_hot": 717302,
+      "num": 717302,
+      "word": "杨幂文替",
+      "onboard_time": 1713695419,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 688177,
@@ -233,6 +241,14 @@
       "onboard_time": 1713688697,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 627573,
+      "num": 627573,
+      "word": "林志颖林俊杰吴彦祖昆凌齐聚上海F1",
+      "onboard_time": 1713693316,
+      "rank": 18,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 624598,
@@ -361,14 +377,6 @@
       "onboard_time": 1713679939,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 535506,
-      "num": 535506,
-      "word": "林志颖林俊杰吴彦祖昆凌齐聚上海F1",
-      "onboard_time": 1713693316,
-      "rank": 18,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 535062,
@@ -521,6 +529,14 @@
       "onboard_time": 1713692297,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 452868,
+      "num": 452868,
+      "word": "朱丹小肚子流出来了",
+      "onboard_time": 1713697998,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 449787,
@@ -811,14 +827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 318684,
-      "num": 318684,
-      "word": "杨幂文替",
-      "onboard_time": 1713695419,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 314450,
       "num": 314450,
       "word": "韩媒报道LESSERAFIM成功雪耻",
@@ -833,6 +841,14 @@
       "onboard_time": 1713641412,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 309514,
+      "num": 309514,
+      "word": "女生报警称遭同学脑电波窃取隐私",
+      "onboard_time": 1713696078,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306949,
@@ -897,6 +913,14 @@
       "onboard_time": 1713680237,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 274283,
+      "num": 274283,
+      "word": "WB连续三大场被零封",
+      "onboard_time": 1713697336,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 271832,
@@ -977,6 +1001,14 @@
       "onboard_time": 1713694877,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252239,
+      "num": 252239,
+      "word": "赵奕欢居然有育婴师证",
+      "onboard_time": 1713696738,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 251367,
@@ -1067,6 +1099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 230223,
+      "num": 230223,
+      "word": "李溪芮尚雯婕终于坐一起了",
+      "onboard_time": 1713695838,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229947,
       "num": 224115,
       "word": "原来被爱会疯狂长出血肉",
@@ -1115,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222797,
+      "num": 222797,
+      "word": "JYP发言",
+      "onboard_time": 1713696021,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221236,
       "num": 221236,
       "word": "周杰伦演唱会抢话筒",
@@ -1145,6 +1193,14 @@
       "onboard_time": 1713676758,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209849,
+      "num": 209849,
+      "word": "刘宪华黄子弘凡张元英转圈battle",
+      "onboard_time": 1713695658,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 208692,
@@ -1451,6 +1507,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183643,
+      "num": 183643,
+      "word": "孙颖莎对战王曼昱",
+      "onboard_time": 1713697578,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181923,
+      "num": 181923,
+      "word": "雷军 现场看F1换胎好震撼",
+      "onboard_time": 1713696318,
+      "rank": 33,
+      "category": "体育,互联网"
+    },
+    {
       "raw_hot": 181760,
       "num": 181760,
       "word": "狗好 猫乖",
@@ -1627,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160700,
+      "num": 160700,
+      "word": "这就是在家门口圆梦的感觉吧",
+      "onboard_time": 1713697519,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160597,
       "num": 452492,
       "word": "Pura70亮相赛车摄影专用席",
@@ -1715,6 +1795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150796,
+      "num": 150796,
+      "word": "乒乓球世界杯",
+      "onboard_time": 1713697698,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150378,
       "num": 119878,
       "word": "陈晓清装白月光",
@@ -1771,6 +1859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 146350,
+      "num": 146350,
+      "word": "对氯雷他定过敏",
+      "onboard_time": 1713697458,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 145673,
       "num": 122228,
       "word": "郑恺生日party好热闹",
@@ -1800,6 +1896,14 @@
       "word": "已经开始替赵晴尴尬了",
       "onboard_time": 1713627860,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143905,
+      "num": 143905,
+      "word": "GAI好拽",
+      "onboard_time": 1713697220,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1971,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134108,
+      "num": 134108,
+      "word": "周冠宇头盔印着上海地铁线路图",
+      "onboard_time": 1713697458,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133890,
       "num": 378565,
       "word": "天猫本猫在闲鱼上找女朋友",
@@ -2027,6 +2139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128607,
+      "num": 128607,
+      "word": "在上海找不到丢垃圾的地方",
+      "onboard_time": 1713695298,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126936,
       "num": 126936,
       "word": "在山东没有放不起来的风筝",
@@ -2073,14 +2193,6 @@
       "onboard_time": 1713670877,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121556,
-      "num": 121556,
-      "word": "在上海找不到丢垃圾的地方",
-      "onboard_time": 1713695298,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 120649,

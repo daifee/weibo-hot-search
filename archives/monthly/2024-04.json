@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713695634853,
+  "endTime": 1713698049756,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1793,6 +1793,14 @@
       "onboard_time": 1712053877,
       "rank": 31,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 1489385,
+      "num": 659421,
+      "word": "医生辟谣小肚子是为了保护子宫卵巢",
+      "onboard_time": 1713694397,
+      "rank": 41,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 1487327,
@@ -7355,14 +7363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 739446,
-      "num": 465710,
-      "word": "医生辟谣小肚子是为了保护子宫卵巢",
-      "onboard_time": 1713694397,
-      "rank": 41,
-      "category": "科学科普,健康医疗"
-    },
-    {
       "raw_hot": 738897,
       "num": 738897,
       "word": "赵丽颖沙滩照",
@@ -7729,6 +7729,14 @@
       "onboard_time": 1713574578,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 717302,
+      "num": 717302,
+      "word": "杨幂文替",
+      "onboard_time": 1713695419,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 716636,
@@ -9441,6 +9449,14 @@
       "onboard_time": 1712390957,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 627573,
+      "num": 627573,
+      "word": "林志颖林俊杰吴彦祖昆凌齐聚上海F1",
+      "onboard_time": 1713693316,
+      "rank": 18,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 626685,
@@ -11937,14 +11953,6 @@
       "onboard_time": 1713351619,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 535506,
-      "num": 535506,
-      "word": "林志颖林俊杰吴彦祖昆凌齐聚上海F1",
-      "onboard_time": 1713693316,
-      "rank": 18,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 535062,
@@ -14985,6 +14993,14 @@
       "onboard_time": 1712798119,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 452868,
+      "num": 452868,
+      "word": "朱丹小肚子流出来了",
+      "onboard_time": 1713697998,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 452801,
@@ -21531,14 +21547,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 318684,
-      "num": 318684,
-      "word": "杨幂文替",
-      "onboard_time": 1713695419,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 318528,
       "num": 318528,
       "word": "与凤行",
@@ -22121,6 +22129,14 @@
       "onboard_time": 1713061338,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309514,
+      "num": 309514,
+      "word": "女生报警称遭同学脑电波窃取隐私",
+      "onboard_time": 1713696078,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309267,
@@ -24691,6 +24707,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 274283,
+      "num": 274283,
+      "word": "WB连续三大场被零封",
+      "onboard_time": 1713697336,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 274202,
       "num": 187943,
       "word": "胡歌为游本昌推轮椅",
@@ -26657,6 +26681,14 @@
       "onboard_time": 1712669121,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 252239,
+      "num": 252239,
+      "word": "赵奕欢居然有育婴师证",
+      "onboard_time": 1713696738,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 252083,
@@ -29203,6 +29235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230223,
+      "num": 230223,
+      "word": "李溪芮尚雯婕终于坐一起了",
+      "onboard_time": 1713695838,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230166,
       "num": 230166,
       "word": "耙耙柑的耙是四川耙耳朵的耙",
@@ -30136,6 +30176,14 @@
       "word": "刘忻出走十年归来仍是老公",
       "onboard_time": 1713623840,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 222797,
+      "num": 222797,
+      "word": "JYP发言",
+      "onboard_time": 1713696021,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -32049,6 +32097,14 @@
       "onboard_time": 1713074297,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209849,
+      "num": 209849,
+      "word": "刘宪华黄子弘凡张元英转圈battle",
+      "onboard_time": 1713695658,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 209771,
@@ -38763,6 +38819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183643,
+      "num": 183643,
+      "word": "孙颖莎对战王曼昱",
+      "onboard_time": 1713697578,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183606,
       "num": 183606,
       "word": "有个情绪稳定的爸爸太幸福了",
@@ -39105,6 +39169,14 @@
       "onboard_time": 1712659039,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181923,
+      "num": 181923,
+      "word": "雷军 现场看F1换胎好震撼",
+      "onboard_time": 1713696318,
+      "rank": 33,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 181878,
@@ -43451,6 +43523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160700,
+      "num": 160700,
+      "word": "这就是在家门口圆梦的感觉吧",
+      "onboard_time": 1713697519,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160643,
       "num": 160643,
       "word": "真正做到了一碗水端平的妈妈",
@@ -45931,6 +46011,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 150796,
+      "num": 150796,
+      "word": "乒乓球世界杯",
+      "onboard_time": 1713697698,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150785,
       "num": 150785,
       "word": "女子在老公帮助下减重60斤恢复自信",
@@ -47123,6 +47211,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 146350,
+      "num": 146350,
+      "word": "对氯雷他定过敏",
+      "onboard_time": 1713697458,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 146347,
       "num": 146347,
       "word": "追星让我整个人变得鲜活了",
@@ -47745,6 +47841,14 @@
       "onboard_time": 1712042658,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 143905,
+      "num": 143905,
+      "word": "GAI好拽",
+      "onboard_time": 1713697220,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 143846,
@@ -49971,6 +50075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134108,
+      "num": 134108,
+      "word": "周冠宇头盔印着上海地铁线路图",
+      "onboard_time": 1713697458,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133964,
       "num": 133964,
       "word": "00后女生给自己办葬礼",
@@ -51049,6 +51161,14 @@
       "onboard_time": 1711965140,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 128607,
+      "num": 128607,
+      "word": "在上海找不到丢垃圾的地方",
+      "onboard_time": 1713695298,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 128580,
@@ -52305,14 +52425,6 @@
       "onboard_time": 1712294957,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121556,
-      "num": 121556,
-      "word": "在上海找不到丢垃圾的地方",
-      "onboard_time": 1713695298,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 121514,
