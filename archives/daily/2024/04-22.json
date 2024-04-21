@@ -1,6 +1,6 @@
 {
   "startTime": 1713716506059,
-  "endTime": 1713717347944,
+  "endTime": 1713719790651,
   "band_list": [
     {
       "raw_hot": 1378340,
@@ -315,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141584,
+      "num": 141584,
+      "word": "女子称一个月光洗澡燃气费达130多元",
+      "onboard_time": 1713718575,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137834,
       "num": 137834,
       "word": "你俩是在拍半熟恋人吧",
@@ -411,10 +419,34 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 85676,
+      "num": 85676,
+      "word": "青春没有售价 同窗贴脸开大",
+      "onboard_time": 1713717616,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 75941,
+      "num": 75941,
+      "word": "陈楚生独唱将进酒",
+      "onboard_time": 1713718275,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 9443,
       "num": 684764,
       "word": "最新中华文化主题宣传片",
       "onboard_time": 1713670699,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5144,
+      "num": 357049,
+      "word": "用中国传统色打开春耕画卷",
+      "onboard_time": 1713686178,
       "rank": 2,
       "category": "社会新闻"
     }

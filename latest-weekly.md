@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/21 00:21:44 ~ 2024/04/22 00:35:47
+本榜单时间：2024/04/21 00:21:44 ~ 2024/04/22 01:16:30
 </p>
 </blockquote>
 <p>
@@ -2055,6 +2055,12 @@ Jennie一口气发了20张图（热度：142292）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B8%80%E4%B8%AA%E6%9C%88%E5%85%89%E6%B4%97%E6%BE%A1%E7%87%83%E6%B0%94%E8%B4%B9%E8%BE%BE130%E5%A4%9A%E5%85%83%23" target="weibo">
+女子称一个月光洗澡燃气费达130多元（热度：141584）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E5%A5%BD%E7%94%9C%23" target="weibo">
 郑合惠子好甜（热度：141531）
 </a>
@@ -2439,6 +2445,12 @@ iPhone16和Plus或有15项改进（热度：87539）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E6%B2%A1%E6%9C%89%E5%94%AE%E4%BB%B7%20%E5%90%8C%E7%AA%97%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7%23" target="weibo">
+青春没有售价 同窗贴脸开大（热度：85676）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TES%20%E4%BA%BA%E6%9C%BA%23" target="weibo">
 TES 人机（热度：81674）
 </a>
@@ -2447,6 +2459,12 @@ TES 人机（热度：81674）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E8%AF%BB%E6%9C%89%E5%8A%A9%E4%BA%8E%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E5%90%97%23" target="weibo">
 阅读有助于情绪稳定吗（热度：78004）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E7%8B%AC%E5%94%B1%E5%B0%86%E8%BF%9B%E9%85%92%23" target="weibo">
+陈楚生独唱将进酒（热度：75941）
 </a>
 </li>
 
