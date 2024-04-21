@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713726920584,
+  "endTime": 1713728035698,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -59459,6 +59459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 35928,
+      "num": 35928,
+      "word": "皇马vs巴萨",
+      "onboard_time": 1713725232,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35433,
       "num": 35433,
       "word": "2024国际乒联世界杯",
@@ -59617,14 +59625,6 @@
       "onboard_time": 1713187099,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32389,
-      "num": 32389,
-      "word": "皇马vs巴萨",
-      "onboard_time": 1713725232,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 32284,
