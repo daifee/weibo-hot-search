@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713710045562,
+  "endTime": 1713712638671,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -49,6 +49,14 @@
       "onboard_time": 1712103392,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6370206,
+      "num": 6370206,
+      "word": "马龙男单夺冠",
+      "onboard_time": 1713710062,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 5314332,
@@ -5691,6 +5699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 861610,
+      "num": 861610,
+      "word": "罗云熙演唱会票价1680",
+      "onboard_time": 1713708681,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 859326,
       "num": 859326,
       "word": "政审结束后被告知有五年服务期",
@@ -8811,6 +8827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 669107,
+      "num": 669107,
+      "word": "本周狗屎运最旺的星座TOP4",
+      "onboard_time": 1713711140,
+      "rank": 7,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 668458,
       "num": 668458,
       "word": "软脚虾",
@@ -9001,6 +9025,14 @@
       "onboard_time": 1713611598,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 659383,
+      "num": 659383,
+      "word": "马龙第三次夺得世界杯单打冠军",
+      "onboard_time": 1713711023,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 659312,
@@ -10835,14 +10867,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 581734,
-      "num": 581734,
-      "word": "罗云熙演唱会票价1680",
-      "onboard_time": 1713708681,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 581518,
       "num": 581518,
       "word": "刘亦菲出图",
@@ -11097,6 +11121,14 @@
       "onboard_time": 1712630418,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 572038,
+      "num": 572038,
+      "word": "莎头 少男的祈祷",
+      "onboard_time": 1713709402,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 571428,
@@ -12001,6 +12033,14 @@
       "onboard_time": 1712464041,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 541258,
+      "num": 541258,
+      "word": "庄达菲妈咪陈昊宇",
+      "onboard_time": 1713707060,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 541203,
@@ -13420,7 +13460,7 @@
     },
     {
       "raw_hot": 501015,
-      "num": 389041,
+      "num": 417173,
       "word": "极限挑战",
       "onboard_time": 1712904978,
       "rank": 17,
@@ -14467,14 +14507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 472221,
-      "num": 472221,
-      "word": "庄达菲妈咪陈昊宇",
-      "onboard_time": 1713707060,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 472101,
       "num": 472101,
       "word": "IU抢票",
@@ -14521,6 +14553,14 @@
       "onboard_time": 1713164177,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471460,
+      "num": 471460,
+      "word": "ILLIT直播被骂是注水咖",
+      "onboard_time": 1713711622,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 471420,
@@ -14736,6 +14776,14 @@
       "word": "吴磊回北电吃面",
       "onboard_time": 1712753600,
       "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 465331,
+      "num": 465331,
+      "word": "娄艺潇cos武则天",
+      "onboard_time": 1713711801,
+      "rank": 17,
       "category": "电影"
     },
     {
@@ -16715,6 +16763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420062,
+      "num": 420062,
+      "word": "圆满不圆满",
+      "onboard_time": 1713711260,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 419859,
       "num": 419859,
       "word": "CPI",
@@ -16817,6 +16873,14 @@
       "onboard_time": 1713629359,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416678,
+      "num": 314001,
+      "word": "许昕祝福马龙",
+      "onboard_time": 1713712101,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 416047,
@@ -17289,6 +17353,14 @@
       "onboard_time": 1713348918,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404340,
+      "num": 404340,
+      "word": "世界杯颁奖",
+      "onboard_time": 1713711321,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 404120,
@@ -19835,6 +19907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352533,
+      "num": 352533,
+      "word": "张拿铁 自己是一个很内耗的人",
+      "onboard_time": 1713709944,
+      "rank": 49,
+      "category": "幽默,网红"
+    },
+    {
       "raw_hot": 352408,
       "num": 411083,
       "word": "美国再次发生自焚事件",
@@ -19985,6 +20065,14 @@
       "onboard_time": 1712153182,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 350931,
+      "num": 350931,
+      "word": "周杰伦送外套给粉丝",
+      "onboard_time": 1713709701,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 350901,
@@ -21081,6 +21169,14 @@
       "onboard_time": 1712706617,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 330380,
+      "num": 330380,
+      "word": "极限挑战直播",
+      "onboard_time": 1713710303,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 329857,
@@ -26739,14 +26835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254114,
-      "num": 254114,
-      "word": "莎头 少男的祈祷",
-      "onboard_time": 1713709402,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 254104,
       "num": 254104,
       "word": "清明节",
@@ -28169,14 +28257,6 @@
       "onboard_time": 1712711239,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 242210,
-      "num": 242210,
-      "word": "周杰伦送外套给粉丝",
-      "onboard_time": 1713709701,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 242007,
@@ -29667,6 +29747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229532,
+      "num": 229532,
+      "word": "四个玩手机的最佳姿势",
+      "onboard_time": 1713708981,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 229449,
       "num": 229449,
       "word": "原来真有人考研考公两手抓",
@@ -30345,6 +30433,14 @@
       "onboard_time": 1712834359,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 224167,
+      "num": 224167,
+      "word": "尚雯婕 语言可以六国人很难多记一个",
+      "onboard_time": 1713711981,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 224157,
@@ -33947,6 +34043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203285,
+      "num": 203285,
+      "word": "AG33周决MVP",
+      "onboard_time": 1713711801,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203278,
       "num": 203278,
       "word": "为什么明明出去玩了还感觉很空虚",
@@ -34859,14 +34963,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 199797,
-      "num": 199797,
-      "word": "四个玩手机的最佳姿势",
-      "onboard_time": 1713708981,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 199754,
       "num": 199754,
       "word": "男子在电梯实施家暴被保安制服",
@@ -35057,6 +35153,14 @@
       "onboard_time": 1712118683,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199070,
+      "num": 199070,
+      "word": "为什么周日晚上总是睡不着",
+      "onboard_time": 1713711500,
+      "rank": 40,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 199043,
@@ -36456,6 +36560,14 @@
       "word": "隆多退役",
       "onboard_time": 1712064440,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193626,
+      "num": 193626,
+      "word": "致敬龙队",
+      "onboard_time": 1713711981,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -37923,6 +38035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188665,
+      "num": 188665,
+      "word": "关雪 顶级反派女A",
+      "onboard_time": 1713711443,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188634,
       "num": 188634,
       "word": "路人把杨祐宁错认成肖战",
@@ -38817,6 +38937,14 @@
       "onboard_time": 1712991797,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185574,
+      "num": 185574,
+      "word": "被陈楚生谭维维合唱硬控住了",
+      "onboard_time": 1713710363,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 185569,
@@ -42785,14 +42913,6 @@
       "onboard_time": 1712534059,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 166444,
-      "num": 166444,
-      "word": "张拿铁 自己是一个很内耗的人",
-      "onboard_time": 1713709944,
-      "rank": 49,
-      "category": "幽默,网红"
     },
     {
       "raw_hot": 166424,
