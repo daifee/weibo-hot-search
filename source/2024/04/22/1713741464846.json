@@ -1,0 +1,410 @@
+{
+  "runTime": 1713741464846,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 941978,
+        "num": 941978,
+        "word": "女子称一个月光洗澡燃气费达130多元",
+        "onboard_time": 1713718575,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582702,
+        "num": 582702,
+        "word": "钟薛高创始人称卖红薯也要把债还上",
+        "onboard_time": 1713707361,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 10079,
+        "num": 548435,
+        "word": "用中国传统色打开春耕画卷",
+        "onboard_time": 1713686178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528941,
+        "num": 528941,
+        "word": "为什么闭上眼睛能看到诡异的波纹",
+        "onboard_time": 1713731651,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 459405,
+        "num": 459405,
+        "word": "美国老人感染僵尸鹿病毒死亡",
+        "onboard_time": 1713705440,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392372,
+        "num": 392372,
+        "word": "北京市副市长高朋被查",
+        "onboard_time": 1713707122,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325514,
+        "num": 325514,
+        "word": "马龙男单夺冠",
+        "onboard_time": 1713710062,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296779,
+        "num": 296779,
+        "word": "中国土味短剧在日本火了",
+        "onboard_time": 1713728050,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279043,
+        "num": 279043,
+        "word": "杨幂演技",
+        "onboard_time": 1713705680,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231088,
+        "num": 273395,
+        "word": "全红婵摘银后公主抱英国铜牌得主",
+        "onboard_time": 1713707181,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272072,
+        "num": 272072,
+        "word": "罗云熙演唱会票价1680",
+        "onboard_time": 1713708681,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 271885,
+        "num": 271885,
+        "word": "医生辟谣小肚子是为了保护子宫卵巢",
+        "onboard_time": 1713694397,
+        "rank": 11,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 271089,
+        "num": 271089,
+        "word": "擦边球",
+        "onboard_time": 1713706581,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242867,
+        "num": 242867,
+        "word": "陈丽君断层第一",
+        "onboard_time": 1713704359,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178454,
+        "num": 178454,
+        "word": "马龙说感谢自己在0比3时没有放弃",
+        "onboard_time": 1713740954,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164509,
+        "num": 164509,
+        "word": "永远不低估一颗冠军的心",
+        "onboard_time": 1713719954,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145389,
+        "num": 145389,
+        "word": "本周狗屎运最旺的星座TOP4",
+        "onboard_time": 1713711140,
+        "rank": 16,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 134555,
+        "num": 134555,
+        "word": "副市长现身凤凰传奇演唱会",
+        "onboard_time": 1713699619,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122453,
+        "num": 122453,
+        "word": "姚志明麦承欢官宣",
+        "onboard_time": 1713715997,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121662,
+        "num": 121662,
+        "word": "庄达菲妈咪陈昊宇",
+        "onboard_time": 1713707060,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165868,
+        "num": 121556,
+        "word": "一小时内被三个人说我占座了",
+        "onboard_time": 1713699858,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116936,
+        "num": 116936,
+        "word": "韩网评价金秀贤演技",
+        "onboard_time": 1713722652,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107658,
+        "num": 107658,
+        "word": "辛芷蕾炫耀秦岚送的金戒指",
+        "onboard_time": 1713739334,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107261,
+        "num": 107261,
+        "word": "皇马3比2巴萨",
+        "onboard_time": 1713740894,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105002,
+        "num": 105002,
+        "word": "皇马vs巴萨",
+        "onboard_time": 1713725232,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100882,
+        "num": 100882,
+        "word": "快船1比0独行侠",
+        "onboard_time": 1713740954,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99375,
+        "num": 99375,
+        "word": "柳岩禁欲系全黑造型",
+        "onboard_time": 1713738613,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 96813,
+        "num": 96813,
+        "word": "早起有这4个表现说明你很健康",
+        "onboard_time": 1713740115,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96724,
+        "num": 96724,
+        "word": "新疆地震",
+        "onboard_time": 1713740954,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96573,
+        "num": 96573,
+        "word": "张拿铁 自己是一个很内耗的人",
+        "onboard_time": 1713709944,
+        "rank": 29,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 93139,
+        "num": 93139,
+        "word": "白桃星座",
+        "onboard_time": 1713714797,
+        "rank": 30,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 90357,
+        "num": 90357,
+        "word": "不想发朋友圈的可以发状态",
+        "onboard_time": 1713708082,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90219,
+        "num": 90219,
+        "word": "皮肤科医生不建议点痣",
+        "onboard_time": 1713704600,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89364,
+        "num": 89364,
+        "word": "老了以后才渐渐明白的事",
+        "onboard_time": 1713735130,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85610,
+        "num": 85610,
+        "word": "马龙孙颖莎合影",
+        "onboard_time": 1713740954,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80834,
+        "num": 80834,
+        "word": "秦昊严选",
+        "onboard_time": 1713736331,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73861,
+        "num": 73861,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1713705020,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73466,
+        "num": 73466,
+        "word": "哈登梦回火箭登",
+        "onboard_time": 1713741375,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73388,
+        "num": 73388,
+        "word": "孙颖莎4比3王曼昱",
+        "onboard_time": 1713705201,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69909,
+        "num": 69909,
+        "word": "孙颖莎夺得澳门世界杯冠军",
+        "onboard_time": 1713716957,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68897,
+        "num": 68897,
+        "word": "ILLIT直播被骂是注水咖",
+        "onboard_time": 1713711622,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64821,
+        "num": 64821,
+        "word": "朱丹回应小肚子",
+        "onboard_time": 1713714020,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63054,
+        "num": 63054,
+        "word": "许昕祝福马龙",
+        "onboard_time": 1713712101,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61560,
+        "num": 61560,
+        "word": "哈尔滨一九四四收视率",
+        "onboard_time": 1713707300,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60083,
+        "num": 60083,
+        "word": "曼联",
+        "onboard_time": 1713723733,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54712,
+        "num": 54712,
+        "word": "能促进代谢的8种食物",
+        "onboard_time": 1713731770,
+        "rank": 45,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 53807,
+        "num": 53807,
+        "word": "王曼昱状态",
+        "onboard_time": 1713705380,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52001,
+        "num": 52001,
+        "word": "眼泪女王",
+        "onboard_time": 1713705260,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51819,
+        "num": 51819,
+        "word": "考文垂5比7曼联",
+        "onboard_time": 1713740833,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47977,
+        "num": 47977,
+        "word": "aespa正规一辑预告",
+        "onboard_time": 1713712941,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}

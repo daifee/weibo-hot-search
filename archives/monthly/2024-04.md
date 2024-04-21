@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/22 06:33:57
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/22 07:17:44
 </p>
 </blockquote>
 <p>
@@ -3729,6 +3729,12 @@ TFBOYS组合没解散（热度：1029893）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B8%80%E4%B8%AA%E6%9C%88%E5%85%89%E6%B4%97%E6%BE%A1%E7%87%83%E6%B0%94%E8%B4%B9%E8%BE%BE130%E5%A4%9A%E5%85%83%23" target="weibo">
+女子称一个月光洗澡燃气费达130多元（热度：941978）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E6%B5%81%E9%87%8F%E4%B8%8D%E5%A4%A7%E5%B0%B1%E4%B8%A4%E7%99%BE%E5%A4%9A%E5%85%86%23" target="weibo">
 林更新流量不大就两百多兆（热度：941767）
 </a>
@@ -6005,12 +6011,6 @@ iPhone16新一轮爆料来了（热度：713678）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E9%81%BF%E5%85%8D%E8%A2%AB%E5%88%AB%E4%BA%BA%E8%A7%86%E5%A5%B8%23" target="weibo">
 怎么避免被别人视奸（热度：712923）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%98%8A%E6%9D%A8%E5%B9%82%E6%B5%B7%E6%8A%A5%23" target="weibo">
-秦昊杨幂海报（热度：712384）
 </a>
 </li>
 
