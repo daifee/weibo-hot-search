@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713698049756,
+  "endTime": 1713699246476,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1796,7 +1796,7 @@
     },
     {
       "raw_hot": 1489385,
-      "num": 659421,
+      "num": 689852,
       "word": "医生辟谣小肚子是为了保护子宫卵巢",
       "onboard_time": 1713694397,
       "rank": 41,
@@ -1824,6 +1824,14 @@
       "word": "赵小棠抑郁了两年",
       "onboard_time": 1712038998,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1478015,
+      "num": 452868,
+      "word": "朱丹小肚子流出来了",
+      "onboard_time": 1713697998,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -7235,6 +7243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 748903,
+      "num": 748903,
+      "word": "孙颖莎对战王曼昱",
+      "onboard_time": 1713697578,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 748796,
       "num": 748796,
       "word": "儿子讲述父亲疑被当猎物枪杀",
@@ -7361,6 +7377,14 @@
       "onboard_time": 1713172757,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 739668,
+      "num": 717302,
+      "word": "杨幂文替",
+      "onboard_time": 1713695419,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 738897,
@@ -7729,14 +7753,6 @@
       "onboard_time": 1713574578,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 717302,
-      "num": 717302,
-      "word": "杨幂文替",
-      "onboard_time": 1713695419,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 716636,
@@ -8609,6 +8625,14 @@
       "onboard_time": 1712683034,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 670650,
+      "num": 670650,
+      "word": "女生报警称遭同学脑电波窃取隐私",
+      "onboard_time": 1713696078,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 670566,
@@ -13603,6 +13627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 487962,
+      "num": 396136,
+      "word": "赵露思抹胸高定",
+      "onboard_time": 1713698599,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 487620,
       "num": 487620,
       "word": "徐海乔演技",
@@ -14993,14 +15025,6 @@
       "onboard_time": 1712798119,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 452868,
-      "num": 452868,
-      "word": "朱丹小肚子流出来了",
-      "onboard_time": 1713697998,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 452801,
@@ -17523,6 +17547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 394138,
+      "num": 394138,
+      "word": "WB连续三大场被零封",
+      "onboard_time": 1713697336,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 394127,
       "num": 394127,
       "word": "偶像张艺兴回归",
@@ -19939,6 +19971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 346344,
+      "num": 346344,
+      "word": "辽宁两老太发生争吵厮打一人身亡",
+      "onboard_time": 1713698119,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346095,
       "num": 329741,
       "word": "白鹿簪花妆",
@@ -22129,14 +22169,6 @@
       "onboard_time": 1713061338,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 309514,
-      "num": 309514,
-      "word": "女生报警称遭同学脑电波窃取隐私",
-      "onboard_time": 1713696078,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 309267,
@@ -24705,14 +24737,6 @@
       "onboard_time": 1713408138,
       "rank": 23,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 274283,
-      "num": 274283,
-      "word": "WB连续三大场被零封",
-      "onboard_time": 1713697336,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 274202,
@@ -37883,6 +37907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187051,
+      "num": 187051,
+      "word": "魏大勋香芋紫套装",
+      "onboard_time": 1713698358,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 187024,
       "num": 187024,
       "word": "折叠屏iPhone新专利获批",
@@ -38817,14 +38849,6 @@
       "onboard_time": 1712588899,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 183643,
-      "num": 183643,
-      "word": "孙颖莎对战王曼昱",
-      "onboard_time": 1713697578,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 183606,
@@ -48571,6 +48595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140859,
+      "num": 140859,
+      "word": "苏有朋主打一个听劝",
+      "onboard_time": 1713698119,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140656,
       "num": 140656,
       "word": "王子变青蛙 世子变护院",
@@ -49915,6 +49947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 134796,
+      "num": 134796,
+      "word": "眼泪女王是懂怎么刀人的",
+      "onboard_time": 1713698838,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134795,
       "num": 134795,
       "word": "潘玮柏上海抢票",
@@ -51027,6 +51067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129485,
+      "num": 129485,
+      "word": "久酷 希望一路放晴",
+      "onboard_time": 1713698478,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129479,
       "num": 129479,
       "word": "黑神话悟空 海信",
@@ -51041,6 +51089,14 @@
       "onboard_time": 1713584598,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 129228,
+      "num": 129228,
+      "word": "文韬小小少年路透",
+      "onboard_time": 1713698779,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 129212,
@@ -52899,6 +52955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119126,
+      "num": 119126,
+      "word": "总决赛陈芋汐冠军全红婵亚军",
+      "onboard_time": 1713698959,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119122,
       "num": 119122,
       "word": "湖人战胜骑士",
@@ -54425,6 +54489,14 @@
       "onboard_time": 1712291779,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 107156,
+      "num": 107156,
+      "word": "DRG战胜WB",
+      "onboard_time": 1713698119,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 106916,

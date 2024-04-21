@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713698049756,
+  "endTime": 1713699246476,
   "band_list": [
     {
       "raw_hot": 2868617,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 1489385,
-      "num": 659421,
+      "num": 689852,
       "word": "医生辟谣小肚子是为了保护子宫卵巢",
       "onboard_time": 1713694397,
       "rank": 41,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 1478015,
+      "num": 452868,
+      "word": "朱丹小肚子流出来了",
+      "onboard_time": 1713697998,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1300921,
@@ -179,7 +187,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 717302,
+      "raw_hot": 748903,
+      "num": 748903,
+      "word": "孙颖莎对战王曼昱",
+      "onboard_time": 1713697578,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 739668,
       "num": 717302,
       "word": "杨幂文替",
       "onboard_time": 1713695419,
@@ -217,6 +233,14 @@
       "onboard_time": 1713694517,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 670650,
+      "num": 670650,
+      "word": "女生报警称遭同学脑电波窃取隐私",
+      "onboard_time": 1713696078,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 669398,
@@ -483,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 487962,
+      "num": 396136,
+      "word": "赵露思抹胸高定",
+      "onboard_time": 1713698599,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 483137,
       "num": 483137,
       "word": "吴艳妮说化妆比赛是因为尊重观众",
@@ -529,14 +561,6 @@
       "onboard_time": 1713692297,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 452868,
-      "num": 452868,
-      "word": "朱丹小肚子流出来了",
-      "onboard_time": 1713697998,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 449787,
@@ -633,6 +657,14 @@
       "onboard_time": 1713615258,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 394138,
+      "num": 394138,
+      "word": "WB连续三大场被零封",
+      "onboard_time": 1713697336,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 391133,
@@ -739,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 346344,
+      "num": 346344,
+      "word": "辽宁两老太发生争吵厮打一人身亡",
+      "onboard_time": 1713698119,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343347,
       "num": 343347,
       "word": "厦门震感",
@@ -843,14 +883,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 309514,
-      "num": 309514,
-      "word": "女生报警称遭同学脑电波窃取隐私",
-      "onboard_time": 1713696078,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 306949,
       "num": 306949,
       "word": "跳水世界杯",
@@ -913,14 +945,6 @@
       "onboard_time": 1713680237,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 274283,
-      "num": 274283,
-      "word": "WB连续三大场被零封",
-      "onboard_time": 1713697336,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 271832,
@@ -1467,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187051,
+      "num": 187051,
+      "word": "魏大勋香芋紫套装",
+      "onboard_time": 1713698358,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 186038,
       "num": 186038,
       "word": "一诺登场KPL六周年",
@@ -1505,14 +1537,6 @@
       "onboard_time": 1713669619,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183643,
-      "num": 183643,
-      "word": "孙颖莎对战王曼昱",
-      "onboard_time": 1713697578,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 181923,
@@ -1955,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140859,
+      "num": 140859,
+      "word": "苏有朋主打一个听劝",
+      "onboard_time": 1713698119,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140282,
       "num": 150523,
       "word": "雷军现身上海F1赛场",
@@ -2067,6 +2099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134796,
+      "num": 134796,
+      "word": "眼泪女王是懂怎么刀人的",
+      "onboard_time": 1713698838,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134389,
       "num": 134389,
       "word": "黄誉博补妆中",
@@ -2120,6 +2160,22 @@
       "word": "辛芷蕾花少抱花盆出场",
       "onboard_time": 1713675200,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129485,
+      "num": 129485,
+      "word": "久酷 希望一路放晴",
+      "onboard_time": 1713698478,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 129228,
+      "num": 129228,
+      "word": "文韬小小少年路透",
+      "onboard_time": 1713698779,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -2211,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119126,
+      "num": 119126,
+      "word": "总决赛陈芋汐冠军全红婵亚军",
+      "onboard_time": 1713698959,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116468,
       "num": 116468,
       "word": "张桂梅说一生最不能放弃是读书",
@@ -2289,6 +2353,14 @@
       "onboard_time": 1713665177,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107156,
+      "num": 107156,
+      "word": "DRG战胜WB",
+      "onboard_time": 1713698119,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 105808,
