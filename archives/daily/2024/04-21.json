@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713692058719,
+  "endTime": 1713694628223,
   "band_list": [
     {
       "raw_hot": 2868617,
@@ -155,12 +155,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 770818,
+      "num": 770818,
+      "word": "两人维保电梯一人竟是纸片人",
+      "onboard_time": 1713687199,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 764018,
       "num": 764018,
       "word": "郑恺和苗苗实打实过日子型",
       "onboard_time": 1713625098,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 688177,
+      "num": 427182,
+      "word": "张艺兴朴灿烈连线",
+      "onboard_time": 1713691339,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 682648,
@@ -196,19 +212,11 @@
     },
     {
       "raw_hot": 641389,
-      "num": 392846,
+      "num": 424206,
       "word": "郑恺看苗苗的眼里全是宠溺",
       "onboard_time": 1713688697,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 628494,
-      "num": 628494,
-      "word": "两人维保电梯一人竟是纸片人",
-      "onboard_time": 1713687199,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 624598,
@@ -321,14 +329,6 @@
       "onboard_time": 1713680179,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 542925,
-      "num": 287750,
-      "word": "张艺兴朴灿烈连线",
-      "onboard_time": 1713691339,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 536310,
@@ -483,6 +483,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 465552,
+      "num": 465552,
+      "word": "石凯销量",
+      "onboard_time": 1713692839,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 455209,
+      "num": 455209,
+      "word": "TF三代出道战即将官宣",
+      "onboard_time": 1713692297,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 449787,
+      "num": 449787,
+      "word": "黄子韬小马丁舞台事件主办方道歉",
+      "onboard_time": 1713692958,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 448734,
       "num": 448734,
       "word": "韩雪各跳各的",
@@ -571,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 391133,
+      "num": 282091,
+      "word": "女生把健身当摸鱼一月瘦10斤",
+      "onboard_time": 1713691638,
+      "rank": 26,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 384926,
       "num": 384926,
       "word": "LESSERAFIM科切拉舞台第二场",
@@ -641,6 +673,14 @@
       "onboard_time": 1713675319,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354078,
+      "num": 354078,
+      "word": "EXO团魂",
+      "onboard_time": 1713692839,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 351078,
@@ -755,6 +795,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 306949,
+      "num": 306949,
+      "word": "跳水世界杯",
+      "onboard_time": 1713693378,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 301768,
+      "num": 301768,
+      "word": "林志颖林俊杰吴彦祖昆凌齐聚上海F1",
+      "onboard_time": 1713693316,
+      "rank": 18,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 298792,
       "num": 259440,
       "word": "垫底辣孩模仿魏若来",
@@ -764,7 +820,7 @@
     },
     {
       "raw_hot": 294430,
-      "num": 405495,
+      "num": 429485,
       "word": "周冠宇说国旗一直是我的动力",
       "onboard_time": 1713684558,
       "rank": 13,
@@ -785,6 +841,14 @@
       "onboard_time": 1713689178,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 285381,
+      "num": 428055,
+      "word": "女子高挂10层阳台邻居大哥机智救援",
+      "onboard_time": 1713693020,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 283393,
@@ -809,6 +873,14 @@
       "onboard_time": 1713680237,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 271832,
+      "num": 271832,
+      "word": "哪吒张勇致歉",
+      "onboard_time": 1713692239,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 271334,
@@ -899,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239795,
+      "num": 239795,
+      "word": "丧偶式婚姻真的会让人崩溃",
+      "onboard_time": 1713692477,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 239737,
       "num": 239737,
       "word": "美众议院通过260亿美元援以法案",
@@ -921,6 +1001,14 @@
       "onboard_time": 1713682218,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236453,
+      "num": 236453,
+      "word": "鹿晗生日派对照",
+      "onboard_time": 1713694218,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 231764,
@@ -953,14 +1041,6 @@
       "onboard_time": 1713687498,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226245,
-      "num": 226245,
-      "word": "女生把健身当摸鱼一月瘦10斤",
-      "onboard_time": 1713691638,
-      "rank": 26,
-      "category": "运动健身"
     },
     {
       "raw_hot": 226103,
@@ -1083,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205375,
+      "num": 205375,
+      "word": "狼队语音",
+      "onboard_time": 1713693559,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204791,
       "num": 204791,
       "word": "还没毕业就拿到百万offer",
@@ -1131,6 +1219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 200648,
+      "num": 200648,
+      "word": "李现内娱第一个在采访里笑哭的",
+      "onboard_time": 1713693559,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200304,
       "num": 200304,
       "word": "KSG战胜狼队",
@@ -1153,6 +1249,14 @@
       "onboard_time": 1713673458,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199822,
+      "num": 199822,
+      "word": "陈芋汐10米台冠军",
+      "onboard_time": 1713694517,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 199019,
@@ -1387,6 +1491,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174777,
+      "num": 174777,
+      "word": "月经失调会影响怀孕吗",
+      "onboard_time": 1713692596,
+      "rank": 39,
+      "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 173684,
+      "num": 173684,
+      "word": "医生辟谣小肚子是为了保护子宫卵巢",
+      "onboard_time": 1713694397,
+      "rank": 41,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 173392,
       "num": 173392,
       "word": "车手巡游",
@@ -1492,7 +1612,7 @@
     },
     {
       "raw_hot": 160597,
-      "num": 286632,
+      "num": 423369,
       "word": "Pura70亮相赛车摄影专用席",
       "onboard_time": 1713690798,
       "rank": 23,
@@ -1667,6 +1787,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 143506,
+      "num": 143506,
+      "word": "小度姬小满四杀",
+      "onboard_time": 1713694277,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142292,
       "num": 107537,
       "word": "Jennie一口气发了20张图",
@@ -1771,6 +1899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135922,
+      "num": 135922,
+      "word": "胡金秋受伤赛季报销",
+      "onboard_time": 1713693438,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135855,
       "num": 135855,
       "word": "陈丽君长沙",
@@ -1801,6 +1937,22 @@
       "onboard_time": 1713677539,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134389,
+      "num": 134389,
+      "word": "黄誉博补妆中",
+      "onboard_time": 1713693618,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133890,
+      "num": 378565,
+      "word": "天猫本猫在闲鱼上找女朋友",
+      "onboard_time": 1713690019,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 132218,
@@ -1873,14 +2025,6 @@
       "onboard_time": 1713627139,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125870,
-      "num": 378565,
-      "word": "天猫本猫在闲鱼上找女朋友",
-      "onboard_time": 1713690019,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 125154,
