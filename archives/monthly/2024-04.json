@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713687624150,
+  "endTime": 1713688446461,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -12851,6 +12851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 507425,
+      "num": 254997,
+      "word": "终于有洗澡不那么见外的剧了",
+      "onboard_time": 1713685278,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 507188,
       "num": 507188,
       "word": "卡琳娜将出席间谍过家家首映礼",
@@ -14187,6 +14195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471420,
+      "num": 471420,
+      "word": "秦岚偷偷量了辛芷蕾手指尺寸",
+      "onboard_time": 1713678499,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 470760,
       "num": 470760,
       "word": "沈图南 孤雁",
@@ -14289,6 +14305,14 @@
       "onboard_time": 1712655139,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468590,
+      "num": 348275,
+      "word": "每天1杯柠檬水身体会有何变化",
+      "onboard_time": 1713685697,
+      "rank": 14,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 468132,
@@ -15507,14 +15531,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 437795,
-      "num": 437795,
-      "word": "秦岚偷偷量了辛芷蕾手指尺寸",
-      "onboard_time": 1713678499,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 437776,
       "num": 225039,
       "word": "重庆大风暴雨",
@@ -16443,6 +16459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416917,
+      "num": 300878,
+      "word": "何瑞之 冷暴力",
+      "onboard_time": 1713687199,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 416047,
       "num": 407740,
       "word": "马龙给15岁对手上一课",
@@ -16617,6 +16641,14 @@
       "onboard_time": 1712013736,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412239,
+      "num": 290080,
+      "word": "美媒曝布林肯将宣布制裁以军一支部队",
+      "onboard_time": 1713687199,
+      "rank": 15,
+      "category": "国外时政"
     },
     {
       "raw_hot": 411727,
@@ -17097,14 +17129,6 @@
       "onboard_time": 1712476399,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 398924,
-      "num": 254997,
-      "word": "终于有洗澡不那么见外的剧了",
-      "onboard_time": 1713685278,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 398843,
@@ -17787,6 +17811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 384926,
+      "num": 384926,
+      "word": "LESSERAFIM科切拉舞台第二场",
+      "onboard_time": 1713686057,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 384883,
       "num": 384883,
       "word": "28省份公布2023年人口数据",
@@ -18147,6 +18179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 378135,
+      "num": 367245,
+      "word": "刘诗诗下厨",
+      "onboard_time": 1713684558,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378036,
       "num": 378036,
       "word": "成都暴雨",
@@ -18273,14 +18313,6 @@
       "onboard_time": 1713536299,
       "rank": 17,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 376011,
-      "num": 376011,
-      "word": "LESSERAFIM科切拉舞台第二场",
-      "onboard_time": 1713686057,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 375560,
@@ -18625,14 +18657,6 @@
       "onboard_time": 1712828359,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 367245,
-      "num": 367245,
-      "word": "刘诗诗下厨",
-      "onboard_time": 1713684558,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 367182,
@@ -19657,14 +19681,6 @@
       "onboard_time": 1712923579,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 348275,
-      "num": 348275,
-      "word": "每天1杯柠檬水身体会有何变化",
-      "onboard_time": 1713685697,
-      "rank": 14,
-      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 348254,
@@ -23379,14 +23395,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 290080,
-      "num": 290080,
-      "word": "美媒曝布林肯将宣布制裁以军一支部队",
-      "onboard_time": 1713687199,
-      "rank": 15,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 290036,
       "num": 218909,
       "word": "DK被零封",
@@ -24315,6 +24323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276701,
+      "num": 276701,
+      "word": "韩媒报道LESSERAFIM成功雪耻",
+      "onboard_time": 1713688039,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276521,
       "num": 276521,
       "word": "王琳 中年顾里",
@@ -24465,14 +24481,6 @@
       "onboard_time": 1713414740,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 274841,
-      "num": 252284,
-      "word": "何瑞之 冷暴力",
-      "onboard_time": 1713687199,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 274808,
@@ -26353,6 +26361,14 @@
       "onboard_time": 1712373799,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 252783,
+      "num": 236111,
+      "word": "上门取件焦虑症",
+      "onboard_time": 1713687438,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 252751,
@@ -29441,6 +29457,14 @@
       "onboard_time": 1712200878,
       "rank": 38,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 226358,
+      "num": 226358,
+      "word": "博塔斯退赛",
+      "onboard_time": 1713687498,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 226279,
@@ -35979,6 +36003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192571,
+      "num": 179140,
+      "word": "戚薇 哪有轻而易举都是用尽全力",
+      "onboard_time": 1713686779,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192539,
       "num": 192539,
       "word": "成毅狐妖片场侧颜照",
@@ -41043,6 +41075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171164,
+      "num": 171164,
+      "word": "两人维保电梯一人竟是纸片人",
+      "onboard_time": 1713687199,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171133,
       "num": 171133,
       "word": "原来躺着就能改善驼背",
@@ -41523,6 +41563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 168748,
+      "num": 166189,
+      "word": "不够善良的我们 量子力学",
+      "onboard_time": 1713687621,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168691,
       "num": 168691,
       "word": "Meiko看HLE对战T1",
@@ -41577,14 +41625,6 @@
       "onboard_time": 1713431417,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168280,
-      "num": 168280,
-      "word": "戚薇 哪有轻而易举都是用尽全力",
-      "onboard_time": 1713686779,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 168238,
@@ -47227,6 +47267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144837,
+      "num": 144837,
+      "word": "香云纱才是中式老钱风天花板",
+      "onboard_time": 1713684917,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 144820,
       "num": 144820,
       "word": "没有人能干着走出云南",
@@ -47617,6 +47665,14 @@
       "onboard_time": 1712290939,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143052,
+      "num": 143052,
+      "word": "蒲熠星trouble maker",
+      "onboard_time": 1713688157,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 143046,
@@ -51099,14 +51155,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 126125,
-      "num": 126125,
-      "word": "香云纱才是中式老钱风天花板",
-      "onboard_time": 1713684917,
-      "rank": 39,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 126120,
       "num": 126120,
       "word": "当猫咪以为主人给它做的绝育",
@@ -52803,14 +52851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116243,
-      "num": 116243,
-      "word": "上门取件焦虑症",
-      "onboard_time": 1713687438,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 116210,
       "num": 116210,
       "word": "一葱一锤原则",
@@ -53515,14 +53555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110426,
-      "num": 110426,
-      "word": "博塔斯退赛",
-      "onboard_time": 1713687498,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110370,
       "num": 110370,
       "word": "宋雨琦先行曲",
@@ -53737,6 +53769,14 @@
       "onboard_time": 1712184252,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108975,
+      "num": 108975,
+      "word": "F1中国站20周年",
+      "onboard_time": 1713688278,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 108947,
@@ -54163,14 +54203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104607,
-      "num": 104607,
-      "word": "两人维保电梯一人竟是纸片人",
-      "onboard_time": 1713687199,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104562,
       "num": 104562,
       "word": "王艳贵女路透",
@@ -54473,6 +54505,14 @@
       "onboard_time": 1712370077,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100893,
+      "num": 100893,
+      "word": "索伯换胎",
+      "onboard_time": 1713688398,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 100866,
@@ -54793,6 +54833,14 @@
       "onboard_time": 1713619159,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 97714,
+      "num": 549863,
+      "word": "用中国传统色打开春耕画卷",
+      "onboard_time": 1713686178,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97707,
@@ -55697,14 +55745,6 @@
       "onboard_time": 1713396796,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81479,
-      "num": 549863,
-      "word": "用中国传统色打开春耕画卷",
-      "onboard_time": 1713686178,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81435,
