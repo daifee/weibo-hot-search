@@ -1,0 +1,410 @@
+{
+  "runTime": 1713717347944,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 825243,
+        "num": 825243,
+        "word": "马龙男单夺冠",
+        "onboard_time": 1713710062,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 732342,
+        "num": 732342,
+        "word": "钟薛高创始人称卖红薯也要把债还上",
+        "onboard_time": 1713707361,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 8591,
+        "num": 652967,
+        "word": "最新中华文化主题宣传片",
+        "onboard_time": 1713670699,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1050974,
+        "num": 634883,
+        "word": "擦边球",
+        "onboard_time": 1713706581,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 823221,
+        "num": 616524,
+        "word": "美国老人感染僵尸鹿病毒死亡",
+        "onboard_time": 1713705440,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584895,
+        "num": 584895,
+        "word": "罗云熙演唱会票价1680",
+        "onboard_time": 1713708681,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 552200,
+        "num": 552200,
+        "word": "张拿铁 自己是一个很内耗的人",
+        "onboard_time": 1713709944,
+        "rank": 6,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 457750,
+        "num": 457750,
+        "word": "全红婵摘银后公主抱英国铜牌得主",
+        "onboard_time": 1713707181,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430540,
+        "num": 430540,
+        "word": "医生辟谣小肚子是为了保护子宫卵巢",
+        "onboard_time": 1713694397,
+        "rank": 8,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 383055,
+        "num": 383055,
+        "word": "杨幂演技",
+        "onboard_time": 1713705680,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520461,
+        "num": 381708,
+        "word": "ILLIT直播被骂是注水咖",
+        "onboard_time": 1713711622,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360387,
+        "num": 360387,
+        "word": "陈丽君断层第一",
+        "onboard_time": 1713704359,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359485,
+        "num": 359485,
+        "word": "本周狗屎运最旺的星座TOP4",
+        "onboard_time": 1713711140,
+        "rank": 12,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 324178,
+        "num": 324178,
+        "word": "副市长现身凤凰传奇演唱会",
+        "onboard_time": 1713699619,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 311446,
+        "num": 311446,
+        "word": "白桃星座",
+        "onboard_time": 1713714797,
+        "rank": 14,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 296957,
+        "num": 296957,
+        "word": "庄达菲妈咪陈昊宇",
+        "onboard_time": 1713707060,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 296707,
+        "num": 296707,
+        "word": "许昕祝福马龙",
+        "onboard_time": 1713712101,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279522,
+        "num": 279522,
+        "word": "娄艺潇cos武则天",
+        "onboard_time": 1713711801,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263640,
+        "num": 263640,
+        "word": "莎头 少男的祈祷",
+        "onboard_time": 1713709402,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237215,
+        "num": 237215,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1713705020,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250569,
+        "num": 236287,
+        "word": "一小时内被三个人说我占座了",
+        "onboard_time": 1713699858,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234455,
+        "num": 234455,
+        "word": "马龙第三次夺得世界杯单打冠军",
+        "onboard_time": 1713711023,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199698,
+        "num": 199698,
+        "word": "aespa正规一辑预告",
+        "onboard_time": 1713712941,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194026,
+        "num": 194026,
+        "word": "孙颖莎夺得澳门世界杯冠军",
+        "onboard_time": 1713716957,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181857,
+        "num": 181857,
+        "word": "圆满不圆满",
+        "onboard_time": 1713711260,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177894,
+        "num": 177894,
+        "word": "为什么周日晚上总是睡不着",
+        "onboard_time": 1713711500,
+        "rank": 25,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 168513,
+        "num": 168513,
+        "word": "眼泪女王",
+        "onboard_time": 1713705260,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166528,
+        "num": 166528,
+        "word": "以为是陈丽君仿妆结果是本人",
+        "onboard_time": 1713714321,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165099,
+        "num": 165099,
+        "word": "周杰伦送外套给粉丝",
+        "onboard_time": 1713709701,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162410,
+        "num": 162410,
+        "word": "范丞丞你真的很懂",
+        "onboard_time": 1713713779,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158684,
+        "num": 158684,
+        "word": "眼泪女王预告",
+        "onboard_time": 1713714020,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156397,
+        "num": 156397,
+        "word": "不想发朋友圈的可以发状态",
+        "onboard_time": 1713708082,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148604,
+        "num": 148604,
+        "word": "孙颖莎4比3王曼昱",
+        "onboard_time": 1713705201,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146622,
+        "num": 146622,
+        "word": "朱丹回应小肚子",
+        "onboard_time": 1713714020,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140724,
+        "num": 140724,
+        "word": "北京市副市长高朋被查",
+        "onboard_time": 1713707122,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137000,
+        "num": 137000,
+        "word": "你俩是在拍半熟恋人吧",
+        "onboard_time": 1713715457,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126569,
+        "num": 126569,
+        "word": "姚志明麦承欢官宣",
+        "onboard_time": 1713715997,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123567,
+        "num": 123567,
+        "word": "王一栩回应给杨幂包场没给刘诗诗包",
+        "onboard_time": 1713713120,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119807,
+        "num": 119807,
+        "word": "皮肤科医生不建议点痣",
+        "onboard_time": 1713704600,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122637,
+        "num": 118108,
+        "word": "哈尔滨一九四四收视率",
+        "onboard_time": 1713707300,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113246,
+        "num": 113246,
+        "word": "秦岚辛芷蕾 双向友情具象化",
+        "onboard_time": 1713716357,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110513,
+        "num": 110513,
+        "word": "哈尔滨一九四四",
+        "onboard_time": 1713702560,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106858,
+        "num": 106858,
+        "word": "四个玩手机的最佳姿势",
+        "onboard_time": 1713708981,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107588,
+        "num": 103793,
+        "word": "一道手表印引发的血案",
+        "onboard_time": 1713717016,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100375,
+        "num": 100375,
+        "word": "极限挑战直播",
+        "onboard_time": 1713710303,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99224,
+        "num": 99224,
+        "word": "王曼昱状态",
+        "onboard_time": 1713705380,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87557,
+        "num": 87557,
+        "word": "尚雯婕 语言可以六国人很难多记一个",
+        "onboard_time": 1713711981,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83923,
+        "num": 83923,
+        "word": "被陈楚生谭维维合唱硬控住了",
+        "onboard_time": 1713710363,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82899,
+        "num": 82899,
+        "word": "赵露思抹胸高定",
+        "onboard_time": 1713698599,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 81935,
+        "num": 81935,
+        "word": "林依轮举孙颖莎手幅",
+        "onboard_time": 1713702140,
+        "rank": 49,
+        "category": "体育,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}

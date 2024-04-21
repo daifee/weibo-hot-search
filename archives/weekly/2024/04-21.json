@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713716506059,
+  "endTime": 1713717347944,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 565724,
-      "num": 388227,
+      "num": 552200,
       "word": "张拿铁 自己是一个很内耗的人",
       "onboard_time": 1713709944,
       "rank": 49,
@@ -1251,20 +1251,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 311446,
+      "num": 311446,
+      "word": "白桃星座",
+      "onboard_time": 1713714797,
+      "rank": 18,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 306949,
       "num": 306949,
       "word": "跳水世界杯",
       "onboard_time": 1713693378,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 304595,
-      "num": 304595,
-      "word": "白桃星座",
-      "onboard_time": 1713714797,
-      "rank": 18,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 298792,
@@ -1963,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194026,
+      "num": 194026,
+      "word": "孙颖莎夺得澳门世界杯冠军",
+      "onboard_time": 1713716957,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193626,
       "num": 193626,
       "word": "致敬龙队",
@@ -2443,6 +2451,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 158684,
+      "num": 158684,
+      "word": "眼泪女王预告",
+      "onboard_time": 1713714020,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157768,
       "num": 157768,
       "word": "Rebecca 生病",
@@ -2641,14 +2657,6 @@
       "onboard_time": 1713677058,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145144,
-      "num": 145144,
-      "word": "眼泪女王预告",
-      "onboard_time": 1713714020,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 144837,
@@ -3099,6 +3107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113246,
+      "num": 113246,
+      "word": "秦岚辛芷蕾 双向友情具象化",
+      "onboard_time": 1713716357,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110540,
       "num": 110540,
       "word": "爱德华兹狂喷杜兰特",
@@ -3139,20 +3155,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107588,
+      "num": 103793,
+      "word": "一道手表印引发的血案",
+      "onboard_time": 1713717016,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107156,
       "num": 107156,
       "word": "DRG战胜WB",
       "onboard_time": 1713698119,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 107049,
-      "num": 107049,
-      "word": "秦岚辛芷蕾 双向友情具象化",
-      "onboard_time": 1713716357,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 105808,
