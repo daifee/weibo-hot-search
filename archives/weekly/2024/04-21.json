@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713719790651,
+  "endTime": 1713720842506,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -1185,6 +1185,14 @@
       "onboard_time": 1713628339,
       "rank": 22,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 336035,
+      "num": 336035,
+      "word": "女子称一个月光洗澡燃气费达130多元",
+      "onboard_time": 1713718575,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335302,
@@ -2723,14 +2731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141584,
-      "num": 141584,
-      "word": "女子称一个月光洗澡燃气费达130多元",
-      "onboard_time": 1713718575,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141531,
       "num": 141531,
       "word": "郑合惠子好甜",
@@ -3217,6 +3217,14 @@
       "onboard_time": 1713686178,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94898,
+      "num": 94898,
+      "word": "永远不低估一颗冠军的心",
+      "onboard_time": 1713719954,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 88535,
