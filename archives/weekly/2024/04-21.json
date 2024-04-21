@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713670472238,
+  "endTime": 1713673426498,
   "band_list": [
     {
       "raw_hot": 2163133,
@@ -19,12 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1300921,
+      "num": 1300921,
+      "word": "姥姥去世一周后妈妈发的信息",
+      "onboard_time": 1713667639,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1250450,
       "num": 1250450,
       "word": "台湾地震",
       "onboard_time": 1713668178,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1237726,
+      "num": 383850,
+      "word": "李晟发和赵丽颖聊天记录",
+      "onboard_time": 1713672138,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1218760,
@@ -57,14 +73,6 @@
       "onboard_time": 1713626419,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 985225,
-      "num": 985225,
-      "word": "姥姥去世一周后妈妈发的信息",
-      "onboard_time": 1713667639,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 975435,
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 588517,
+      "num": 588517,
+      "word": "第一批去新加坡的中产没200万年薪撑不下去",
+      "onboard_time": 1713668057,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584590,
       "num": 584590,
       "word": "许美静演唱会 全场喊退票",
@@ -203,12 +219,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 545773,
-      "num": 435509,
-      "word": "第一批去新加坡的中产没200万年薪撑不下去",
-      "onboard_time": 1713668057,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 554921,
+      "num": 382278,
+      "word": "毛毛分娩后不知所措",
+      "onboard_time": 1713670218,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 535062,
@@ -233,6 +249,14 @@
       "onboard_time": 1713660676,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 480927,
+      "num": 480927,
+      "word": "余罪重新上线",
+      "onboard_time": 1713671238,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 448734,
@@ -299,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384134,
+      "num": 384134,
+      "word": "深圳暴雨",
+      "onboard_time": 1713670099,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381023,
       "num": 381023,
       "word": "重庆90岁老人寿宴上女歌手摔倒去世",
@@ -307,12 +339,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377702,
+      "num": 377702,
+      "word": "花儿与少年",
+      "onboard_time": 1713672619,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376022,
       "num": 376022,
       "word": "特斯拉与小米SU7价差缩小到1.6万",
       "onboard_time": 1713666678,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 369667,
+      "num": 369667,
+      "word": "广州塔1小时内连续6次接闪电",
+      "onboard_time": 1713671956,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347148,
+      "num": 347148,
+      "word": "不够善良的我们 简庆芬出轨",
+      "onboard_time": 1713669499,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 343347,
@@ -369,6 +425,14 @@
       "onboard_time": 1713629060,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 323720,
+      "num": 323720,
+      "word": "凤凰传奇质疑伍佰超越伍佰",
+      "onboard_time": 1713672737,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 323207,
@@ -523,22 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219135,
-      "num": 219135,
-      "word": "深圳暴雨",
-      "onboard_time": 1713670099,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211562,
-      "num": 204826,
-      "word": "毛毛分娩后不知所措",
-      "onboard_time": 1713670218,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 207381,
       "num": 207381,
       "word": "何洁腰封唱跳",
@@ -587,6 +635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203554,
+      "num": 203554,
+      "word": "詹姆斯腿软了",
+      "onboard_time": 1713671178,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201928,
       "num": 201928,
       "word": "掘金战胜湖人",
@@ -609,6 +665,14 @@
       "onboard_time": 1713665419,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 198690,
+      "num": 198690,
+      "word": "吴艳妮说化妆比赛是因为尊重观众",
+      "onboard_time": 1713672018,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 197848,
@@ -699,12 +763,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172749,
+      "num": 172749,
+      "word": "蔡文静网文",
+      "onboard_time": 1713672918,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171514,
+      "num": 171514,
+      "word": "康师傅统一方便面收入齐降",
+      "onboard_time": 1713671718,
+      "rank": 33,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 170982,
       "num": 170982,
       "word": "福州防空警报",
       "onboard_time": 1713665298,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167102,
+      "num": 167102,
+      "word": "王一博无袖练拳",
+      "onboard_time": 1713672078,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 162137,
@@ -827,6 +915,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 142822,
+      "num": 142822,
+      "word": "广东人看了都想拿拖鞋的蟑螂风筝",
+      "onboard_time": 1713673097,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142292,
       "num": 107537,
       "word": "Jennie一口气发了20张图",
@@ -849,6 +945,14 @@
       "onboard_time": 1713617897,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141300,
+      "num": 141300,
+      "word": "谷爱凌上海看F1",
+      "onboard_time": 1713671297,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 140281,
@@ -915,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135715,
+      "num": 135715,
+      "word": "工作能力强性格又好却很难升职",
+      "onboard_time": 1713672199,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135480,
       "num": 135480,
       "word": "浓眉32分",
@@ -961,6 +1073,14 @@
       "onboard_time": 1713666739,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124144,
+      "num": 124144,
+      "word": "张艺兴玩鳄鱼玩具玩上瘾了",
+      "onboard_time": 1713670877,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 120649,
@@ -1139,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67140,
+      "num": 673999,
+      "word": "最新中华文化主题宣传片",
+      "onboard_time": 1713670699,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60265,
       "num": 60265,
       "word": "戚薇怎么不笑了",
@@ -1311,6 +1439,9 @@
     },
     {
       "word": "#跟随总书记足迹看长三角之变#"
+    },
+    {
+      "word": "#珍爱地球和谐共生#"
     }
   ]
 }
