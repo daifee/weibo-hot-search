@@ -1,0 +1,410 @@
+{
+  "runTime": 1713662332549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2100895,
+        "num": 2100895,
+        "word": "黄子韬就不当言论道歉",
+        "onboard_time": 1713654433,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 805797,
+        "num": 805797,
+        "word": "特斯拉降价",
+        "onboard_time": 1713660437,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 34958,
+        "num": 716806,
+        "word": "良田良种良机良法绘就当代春耕图",
+        "onboard_time": 1713618858,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665828,
+        "num": 665828,
+        "word": "女子3次要回家拿材料工作人员说啥也不让",
+        "onboard_time": 1713655394,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584590,
+        "num": 584590,
+        "word": "许美静演唱会 全场喊退票",
+        "onboard_time": 1713658457,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 856646,
+        "num": 571644,
+        "word": "小马丁回应拒绝黄子韬同台",
+        "onboard_time": 1713658036,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 531459,
+        "num": 531459,
+        "word": "网传格力取消全员销售",
+        "onboard_time": 1713658577,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 521044,
+        "num": 521044,
+        "word": "郑恺和苗苗实打实过日子型",
+        "onboard_time": 1713625098,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444565,
+        "num": 444565,
+        "word": "德国将实现性别自由",
+        "onboard_time": 1713660676,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380268,
+        "num": 380268,
+        "word": "周杰伦演唱会vip座大妈睡着了",
+        "onboard_time": 1713658216,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 378179,
+        "num": 378179,
+        "word": "陈冠希发了Jennie",
+        "onboard_time": 1713629118,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372893,
+        "num": 372893,
+        "word": "重庆90岁老人寿宴上女歌手摔倒去世",
+        "onboard_time": 1713629239,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355355,
+        "num": 355355,
+        "word": "为什么说我国养老金不可能出现问题",
+        "onboard_time": 1713660978,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 312788,
+        "num": 312788,
+        "word": "裙子的尺码从xxs做到5xl",
+        "onboard_time": 1713631157,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 323207,
+        "num": 312613,
+        "word": "周杰伦演唱会内场歌迷买最贵的票淋最大的雨",
+        "onboard_time": 1713659537,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 307393,
+        "num": 307393,
+        "word": "白敬亭 B站",
+        "onboard_time": 1713619639,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239737,
+        "num": 239737,
+        "word": "美众议院通过260亿美元援以法案",
+        "onboard_time": 1713659176,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 235030,
+        "num": 235030,
+        "word": "原来麻辣烫夹子是这样用的",
+        "onboard_time": 1713618018,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 231764,
+        "num": 231764,
+        "word": "韶关洪水",
+        "onboard_time": 1713656235,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261090,
+        "num": 231678,
+        "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
+        "onboard_time": 1713641412,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 603490,
+        "num": 231556,
+        "word": "周海媚墓碑上刻着周芷若画像",
+        "onboard_time": 1713626419,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425352,
+        "num": 231507,
+        "word": "喝水后一直小便和半天不去厕所哪个更健康",
+        "onboard_time": 1713654493,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289282,
+        "num": 231370,
+        "word": "我删掉了高中大学的所有同学",
+        "onboard_time": 1713619820,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267751,
+        "num": 231255,
+        "word": "男子强迫女儿热水泡脚致重伤被判刑",
+        "onboard_time": 1713657917,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231133,
+        "num": 231133,
+        "word": "睡前不刷牙的危害有多大",
+        "onboard_time": 1713655454,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209861,
+        "num": 209861,
+        "word": "贾玲好迷人",
+        "onboard_time": 1713618498,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205766,
+        "num": 205766,
+        "word": "湖人vs掘金",
+        "onboard_time": 1713660437,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204439,
+        "num": 204439,
+        "word": "张凯辞职",
+        "onboard_time": 1713654735,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191429,
+        "num": 191429,
+        "word": "罗正徐艺洋吻戏",
+        "onboard_time": 1713627860,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185376,
+        "num": 185376,
+        "word": "我国成功发射遥感四十二号02星",
+        "onboard_time": 1713661098,
+        "rank": 29,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 161497,
+        "num": 161497,
+        "word": "1岁男童被蛇咬伤父母教科书式救援",
+        "onboard_time": 1713654493,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149656,
+        "num": 149656,
+        "word": "日本2架失联直升机初步判断已坠毁",
+        "onboard_time": 1713657674,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149543,
+        "num": 149543,
+        "word": "何洁腰封唱跳",
+        "onboard_time": 1713661939,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146811,
+        "num": 146811,
+        "word": "33所高校纳入101计划",
+        "onboard_time": 1713658156,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141531,
+        "num": 141531,
+        "word": "郑合惠子好甜",
+        "onboard_time": 1713656775,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140689,
+        "num": 140689,
+        "word": "马龙4比0王楚钦",
+        "onboard_time": 1713615258,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140281,
+        "num": 140281,
+        "word": "王俊凯说你们是一直都在的",
+        "onboard_time": 1713658937,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139928,
+        "num": 139928,
+        "word": "假如你从4月20日开始减肥",
+        "onboard_time": 1713654854,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 139450,
+        "num": 139450,
+        "word": "弟弟因为论文写不出来要退学了",
+        "onboard_time": 1713655394,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138969,
+        "num": 138969,
+        "word": "麦承欢姚志明终于在一起了",
+        "onboard_time": 1713658097,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136856,
+        "num": 136856,
+        "word": "如懿传 如学",
+        "onboard_time": 1713659356,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135855,
+        "num": 135855,
+        "word": "陈丽君长沙",
+        "onboard_time": 1713659418,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135069,
+        "num": 135069,
+        "word": "贤佑海仁睡了我出生了",
+        "onboard_time": 1713629060,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122897,
+        "num": 122897,
+        "word": "黄子韬 小马丁",
+        "onboard_time": 1713613997,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121811,
+        "num": 121811,
+        "word": "辛巴 太原老葛",
+        "onboard_time": 1713662178,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 120649,
+        "num": 120649,
+        "word": "世界首套高清月球地质写真集",
+        "onboard_time": 1713661519,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 116550,
+        "num": 116550,
+        "word": "网传中国女游客在印尼火山景点遇难",
+        "onboard_time": 1713629359,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112968,
+        "num": 112968,
+        "word": "59岁张曼玉近照",
+        "onboard_time": 1713651311,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112255,
+        "num": 112255,
+        "word": "一起入职的44岁姐妹被辞退了",
+        "onboard_time": 1713627559,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110540,
+        "num": 110540,
+        "word": "爱德华兹狂喷杜兰特",
+        "onboard_time": 1713659598,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联网日益成为推动发展的新动能#"
+    }
+  }
+}
