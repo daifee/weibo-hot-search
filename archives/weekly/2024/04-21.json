@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713741464846,
+  "endTime": 1713742487115,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1122846,
+      "num": 1122846,
+      "word": "女子称一个月光洗澡燃气费达130多元",
+      "onboard_time": 1713718575,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1030498,
       "num": 674732,
       "word": "张予曦越扒越有",
@@ -225,14 +233,6 @@
       "onboard_time": 1713629118,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 941978,
-      "num": 941978,
-      "word": "女子称一个月光洗澡燃气费达130多元",
-      "onboard_time": 1713718575,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 911966,
@@ -361,6 +361,14 @@
       "onboard_time": 1713705680,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 700030,
+      "num": 700030,
+      "word": "为什么闭上眼睛能看到诡异的波纹",
+      "onboard_time": 1713731651,
+      "rank": 11,
+      "category": "科学科普"
     },
     {
       "raw_hot": 691895,
@@ -675,14 +683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 528941,
-      "num": 528941,
-      "word": "为什么闭上眼睛能看到诡异的波纹",
-      "onboard_time": 1713731651,
-      "rank": 11,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 522361,
       "num": 522361,
       "word": "美媒曝布林肯将宣布制裁以军一支部队",
@@ -753,6 +753,14 @@
       "onboard_time": 1713685697,
       "rank": 14,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 497757,
+      "num": 497757,
+      "word": "马龙说感谢自己在0比3时没有放弃",
+      "onboard_time": 1713740954,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 495575,
@@ -1083,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 376178,
+      "num": 376178,
+      "word": "中国土味短剧在日本火了",
+      "onboard_time": 1713728050,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376022,
       "num": 376022,
       "word": "特斯拉与小米SU7价差缩小到1.6万",
@@ -1299,14 +1315,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 296779,
-      "num": 296779,
-      "word": "中国土味短剧在日本火了",
-      "onboard_time": 1713728050,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 294430,
       "num": 474783,
       "word": "周冠宇说国旗一直是我的动力",
@@ -1361,6 +1369,14 @@
       "onboard_time": 1713680237,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 274990,
+      "num": 274990,
+      "word": "新疆地震",
+      "onboard_time": 1713740954,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271832,
@@ -2235,6 +2251,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 180442,
+      "num": 148501,
+      "word": "早起有这4个表现说明你很健康",
+      "onboard_time": 1713740115,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 179120,
       "num": 179120,
       "word": "18位慰安妇制度受害者子女在国内起诉日本",
@@ -2255,14 +2279,6 @@
       "num": 178569,
       "word": "孙颖莎歇会儿走不下去了",
       "onboard_time": 1713622939,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 178454,
-      "num": 178454,
-      "word": "马龙说感谢自己在0比3时没有放弃",
-      "onboard_time": 1713740954,
       "rank": 14,
       "category": "体育"
     },
@@ -2603,6 +2619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151579,
+      "num": 151579,
+      "word": "快船1比0独行侠",
+      "onboard_time": 1713740954,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150796,
       "num": 150796,
       "word": "乒乓球世界杯",
@@ -2651,6 +2675,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 148762,
+      "num": 148762,
+      "word": "哈登梦回火箭登",
+      "onboard_time": 1713741375,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147663,
       "num": 147663,
       "word": "KPL",
@@ -2681,6 +2713,14 @@
       "onboard_time": 1713658156,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 146753,
+      "num": 146753,
+      "word": "韩网评价金秀贤演技",
+      "onboard_time": 1713722652,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 146350,
@@ -2955,6 +2995,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133338,
+      "num": 133338,
+      "word": "皇马3比2巴萨",
+      "onboard_time": 1713740894,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132218,
       "num": 132218,
       "word": "曼城vs切尔西",
@@ -3001,6 +3049,14 @@
       "onboard_time": 1713698478,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129440,
+      "num": 129440,
+      "word": "辛芷蕾炫耀秦岚送的金戒指",
+      "onboard_time": 1713739334,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 129228,
@@ -3115,14 +3171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116936,
-      "num": 116936,
-      "word": "韩网评价金秀贤演技",
-      "onboard_time": 1713722652,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 116468,
       "num": 116468,
       "word": "张桂梅说一生最不能放弃是读书",
@@ -3211,14 +3259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107658,
-      "num": 107658,
-      "word": "辛芷蕾炫耀秦岚送的金戒指",
-      "onboard_time": 1713739334,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 107588,
       "num": 103793,
       "word": "一道手表印引发的血案",
@@ -3227,11 +3267,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107261,
-      "num": 107261,
-      "word": "皇马3比2巴萨",
-      "onboard_time": 1713740894,
-      "rank": 23,
+      "raw_hot": 107563,
+      "num": 107563,
+      "word": "马龙孙颖莎合影",
+      "onboard_time": 1713740954,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -3275,14 +3315,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 100882,
-      "num": 100882,
-      "word": "快船1比0独行侠",
-      "onboard_time": 1713740954,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99490,
       "num": 107540,
       "word": "BLG战胜TES",
@@ -3304,22 +3336,6 @@
       "word": "用中国传统色打开春耕画卷",
       "onboard_time": 1713686178,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96813,
-      "num": 96813,
-      "word": "早起有这4个表现说明你很健康",
-      "onboard_time": 1713740115,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 96724,
-      "num": 96724,
-      "word": "新疆地震",
-      "onboard_time": 1713740954,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -3361,14 +3377,6 @@
       "onboard_time": 1713717616,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85610,
-      "num": 85610,
-      "word": "马龙孙颖莎合影",
-      "onboard_time": 1713740954,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 81674,
@@ -3417,14 +3425,6 @@
       "onboard_time": 1713626119,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 73466,
-      "num": 73466,
-      "word": "哈登梦回火箭登",
-      "onboard_time": 1713741375,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 73144,
@@ -3491,12 +3491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61163,
+      "num": 61163,
+      "word": "考文垂5比7曼联",
+      "onboard_time": 1713740833,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60265,
       "num": 60265,
       "word": "戚薇怎么不笑了",
       "onboard_time": 1713638053,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58695,
+      "num": 58695,
+      "word": "能促进代谢的8种食物",
+      "onboard_time": 1713731770,
+      "rank": 42,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 57012,
@@ -3513,14 +3529,6 @@
       "onboard_time": 1713639670,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 54712,
-      "num": 54712,
-      "word": "能促进代谢的8种食物",
-      "onboard_time": 1713731770,
-      "rank": 42,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 52756,
@@ -3552,14 +3560,6 @@
       "word": "太阳vs森林狼",
       "onboard_time": 1713654854,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 51819,
-      "num": 51819,
-      "word": "考文垂5比7曼联",
-      "onboard_time": 1713740833,
-      "rank": 48,
       "category": "体育"
     },
     {

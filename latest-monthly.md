@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/22 07:17:44
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/22 07:34:47
 </p>
 </blockquote>
 <p>
@@ -2607,6 +2607,12 @@ yamy 淘汰（热度：1126395）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B8%80%E4%B8%AA%E6%9C%88%E5%85%89%E6%B4%97%E6%BE%A1%E7%87%83%E6%B0%94%E8%B4%B9%E8%BE%BE130%E5%A4%9A%E5%85%83%23" target="weibo">
+女子称一个月光洗澡燃气费达130多元（热度：1122846）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E9%A5%B0%E9%87%91%E4%BB%B7%E4%B8%80%E5%A4%9C%E5%A4%A7%E9%99%8D10%E5%85%83%E6%AF%8F%E5%85%8B%23" target="weibo">
 首饰金价一夜大降10元每克（热度：1122563）
 </a>
@@ -3725,12 +3731,6 @@ TFBOYS组合没解散（热度：1029893）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E9%9C%87%E6%84%9F%23" target="weibo">
 广东震感（热度：944764）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B8%80%E4%B8%AA%E6%9C%88%E5%85%89%E6%B4%97%E6%BE%A1%E7%87%83%E6%B0%94%E8%B4%B9%E8%BE%BE130%E5%A4%9A%E5%85%83%23" target="weibo">
-女子称一个月光洗澡燃气费达130多元（热度：941978）
 </a>
 </li>
 
