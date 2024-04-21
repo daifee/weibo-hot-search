@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713703519796,
+  "endTime": 1713705541316,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -137,6 +137,14 @@
       "onboard_time": 1712112801,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3330073,
+      "num": 3330073,
+      "word": "孙颖莎冠军",
+      "onboard_time": 1713705020,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 3224657,
@@ -505,6 +513,22 @@
       "onboard_time": 1713568213,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2197428,
+      "num": 2197428,
+      "word": "孙颖莎4比3王曼昱",
+      "onboard_time": 1713705201,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2192060,
+      "num": 2192060,
+      "word": "孙颖莎对战王曼昱",
+      "onboard_time": 1713697578,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 2185432,
@@ -1571,14 +1595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1556494,
-      "num": 1556494,
-      "word": "孙颖莎对战王曼昱",
-      "onboard_time": 1713697578,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1555493,
       "num": 1555493,
       "word": "江西师大虐猫男生被开除学籍",
@@ -2265,6 +2281,14 @@
       "onboard_time": 1713364399,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1336366,
+      "num": 1336366,
+      "word": "孙颖莎状态",
+      "onboard_time": 1713701958,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1335647,
@@ -3153,14 +3177,6 @@
       "onboard_time": 1712569640,
       "rank": 1,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1170710,
-      "num": 1170710,
-      "word": "孙颖莎状态",
-      "onboard_time": 1713701958,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 1170378,
@@ -5299,6 +5315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 901669,
+      "num": 901669,
+      "word": "陈丽君断层第一",
+      "onboard_time": 1713704359,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 899267,
       "num": 899267,
       "word": "赵薇名下所持股权再遭冻结",
@@ -6387,6 +6411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 803399,
+      "num": 738936,
+      "word": "王曼昱状态",
+      "onboard_time": 1713705380,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 803317,
       "num": 660513,
       "word": "黄子韬徐艺洋吃同一块饼",
@@ -6489,6 +6521,14 @@
       "onboard_time": 1711980981,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 798012,
+      "num": 798012,
+      "word": "海产姐妹",
+      "onboard_time": 1713703339,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 797744,
@@ -7771,6 +7811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 716762,
+      "num": 716762,
+      "word": "马龙对战林高远",
+      "onboard_time": 1713703458,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 716636,
       "num": 716636,
       "word": "卧铺挂床帘当事年轻人发声",
@@ -8257,6 +8305,14 @@
       "onboard_time": 1711963760,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 689606,
+      "num": 397655,
+      "word": "一小时内被三个人说我占座了",
+      "onboard_time": 1713699858,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 689363,
@@ -11939,6 +11995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 536669,
+      "num": 565200,
+      "word": "莎头",
+      "onboard_time": 1711929559,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 536636,
       "num": 536636,
       "word": "AJ被强制下播",
@@ -12201,6 +12265,14 @@
       "onboard_time": 1712315538,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 529136,
+      "num": 529136,
+      "word": "王楚钦看台观战决赛",
+      "onboard_time": 1713701718,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 528782,
@@ -12891,6 +12963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509944,
+      "num": 509944,
+      "word": "哈尔滨一九四四",
+      "onboard_time": 1713424338,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 509924,
       "num": 341222,
       "word": "伊朗向以色列发射数十架无人机",
@@ -13161,14 +13241,6 @@
       "onboard_time": 1712536038,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 502932,
-      "num": 225058,
-      "word": "一小时内被三个人说我占座了",
-      "onboard_time": 1713699858,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 502860,
@@ -13489,14 +13561,6 @@
       "onboard_time": 1713279259,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 494169,
-      "num": 494169,
-      "word": "王楚钦看台观战决赛",
-      "onboard_time": 1713701718,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 494139,
@@ -14808,14 +14872,6 @@
       "word": "与凤行滤镜改了",
       "onboard_time": 1712065822,
       "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 459275,
-      "num": 459275,
-      "word": "哈尔滨一九四四",
-      "onboard_time": 1713424338,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -17331,6 +17387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 399109,
+      "num": 399109,
+      "word": "TF三代双C",
+      "onboard_time": 1713704722,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398843,
       "num": 398843,
       "word": "张艺兴工作室发文向张艺兴道歉",
@@ -18673,14 +18737,6 @@
       "onboard_time": 1713258378,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 371777,
-      "num": 565200,
-      "word": "莎头",
-      "onboard_time": 1711929559,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 371750,
@@ -20476,7 +20532,7 @@
     },
     {
       "raw_hot": 337960,
-      "num": 471408,
+      "num": 757196,
       "word": "女子高挂10层阳台邻居大哥机智救援",
       "onboard_time": 1713693020,
       "rank": 9,
@@ -23035,6 +23091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298541,
+      "num": 298541,
+      "word": "郑秀妍演唱会",
+      "onboard_time": 1713703279,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 298393,
       "num": 298393,
       "word": "高合",
@@ -24129,6 +24193,14 @@
       "onboard_time": 1713189079,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283255,
+      "num": 283255,
+      "word": "皮肤科医生不建议点痣",
+      "onboard_time": 1713704600,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 283154,
@@ -25747,6 +25819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262282,
+      "num": 262282,
+      "word": "周杰伦杭州",
+      "onboard_time": 1713703099,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 262271,
       "num": 262271,
       "word": "日本本州东岸发生5.3级地震",
@@ -26001,6 +26081,14 @@
       "onboard_time": 1711975340,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259644,
+      "num": 259644,
+      "word": "胡先煦高烧40度出席首映礼",
+      "onboard_time": 1713705081,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 259610,
@@ -27385,14 +27473,6 @@
       "onboard_time": 1712499681,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 246624,
-      "num": 246624,
-      "word": "周杰伦杭州",
-      "onboard_time": 1713703099,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 246616,
@@ -33787,6 +33867,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 202763,
+      "num": 202763,
+      "word": "喝黑咖的韩国人对中式奶茶上头了",
+      "onboard_time": 1713699858,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 202687,
       "num": 202687,
       "word": "4月进口网络游戏版号公布",
@@ -34523,6 +34611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200098,
+      "num": 200098,
+      "word": "广东韶关山体滑坡致多楼房被埋",
+      "onboard_time": 1713704539,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200068,
       "num": 200068,
       "word": "杨幂关雪压迫感",
@@ -34753,6 +34849,14 @@
       "onboard_time": 1712741718,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 199213,
+      "num": 199213,
+      "word": "美国老人感染僵尸鹿病毒死亡",
+      "onboard_time": 1713705440,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199165,
@@ -35419,6 +35523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196523,
+      "num": 196523,
+      "word": "世界是一个巨大的草台班子",
+      "onboard_time": 1713700459,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196477,
       "num": 196477,
       "word": "李现任敏电梯图",
@@ -35513,14 +35625,6 @@
       "onboard_time": 1713530178,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 196158,
-      "num": 196158,
-      "word": "喝黑咖的韩国人对中式奶茶上头了",
-      "onboard_time": 1713699858,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 196053,
@@ -35649,6 +35753,14 @@
       "onboard_time": 1712230219,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195712,
+      "num": 195712,
+      "word": "为什么男科医院广告总在公交车上",
+      "onboard_time": 1713701598,
+      "rank": 42,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 195695,
@@ -37947,6 +38059,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 187321,
+      "num": 187321,
+      "word": "春色寄情人 倒计时",
+      "onboard_time": 1713704479,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187302,
       "num": 187302,
       "word": "原来新疆以前是海洋",
@@ -39499,6 +39619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181150,
+      "num": 181150,
+      "word": "林允薄荷蛋糕裙",
+      "onboard_time": 1713702978,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 181112,
       "num": 181112,
       "word": "英专生 五世同堂",
@@ -40313,14 +40441,6 @@
       "onboard_time": 1712669538,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 176619,
-      "num": 176619,
-      "word": "世界是一个巨大的草台班子",
-      "onboard_time": 1713700459,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 176554,
@@ -41569,14 +41689,6 @@
       "onboard_time": 1713343457,
       "rank": 40,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 171098,
-      "num": 171098,
-      "word": "海产姐妹",
-      "onboard_time": 1713703339,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 170982,
@@ -43011,6 +43123,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 164187,
+      "num": 164187,
+      "word": "眼泪女王是懂怎么刀人的",
+      "onboard_time": 1713698838,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164181,
       "num": 164181,
       "word": "叶文洁的回旋镖正中眉心",
@@ -43977,14 +44097,6 @@
       "onboard_time": 1712933480,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159545,
-      "num": 159545,
-      "word": "为什么男科医院广告总在公交车上",
-      "onboard_time": 1713701598,
-      "rank": 42,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 159534,
@@ -45185,6 +45297,14 @@
       "onboard_time": 1713439457,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 154195,
+      "num": 154195,
+      "word": "海产姐妹再度强强对决",
+      "onboard_time": 1713702978,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 154180,
@@ -46843,14 +46963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148583,
-      "num": 148583,
-      "word": "郑秀妍演唱会",
-      "onboard_time": 1713703279,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 148559,
       "num": 148559,
       "word": "张信哲演唱会",
@@ -47569,14 +47681,6 @@
       "onboard_time": 1712474899,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 145772,
-      "num": 145772,
-      "word": "林允薄荷蛋糕裙",
-      "onboard_time": 1713702978,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 145734,
@@ -48833,14 +48937,6 @@
       "onboard_time": 1713348858,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 140428,
-      "num": 140428,
-      "word": "眼泪女王是懂怎么刀人的",
-      "onboard_time": 1713698838,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 140370,
@@ -50795,14 +50891,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 131730,
-      "num": 131730,
-      "word": "海产姐妹再度强强对决",
-      "onboard_time": 1713702978,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131701,
       "num": 131701,
       "word": "切尔西4比3曼联",
@@ -51129,14 +51217,6 @@
       "onboard_time": 1712799979,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130487,
-      "num": 130487,
-      "word": "马龙对战林高远",
-      "onboard_time": 1713703458,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 130477,
@@ -56996,7 +57076,7 @@
     },
     {
       "raw_hot": 71772,
-      "num": 173798,
+      "num": 458906,
       "word": "蛋仔派对猫和老鼠联动",
       "onboard_time": 1713703040,
       "rank": 30,
@@ -57252,7 +57332,7 @@
     },
     {
       "raw_hot": 67140,
-      "num": 768948,
+      "num": 2194208,
       "word": "最新中华文化主题宣传片",
       "onboard_time": 1713670699,
       "rank": 2,
@@ -59953,6 +60033,14 @@
       "onboard_time": 1712429891,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15903,
+      "num": 515012,
+      "word": "勒克莱尔中国站第4",
+      "onboard_time": 1713704421,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 15726,

@@ -1,7 +1,15 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713703519796,
+  "endTime": 1713705541316,
   "band_list": [
+    {
+      "raw_hot": 3330073,
+      "num": 3330073,
+      "word": "孙颖莎冠军",
+      "onboard_time": 1713705020,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 2868617,
       "num": 2868617,
@@ -11,20 +19,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2197428,
+      "num": 2197428,
+      "word": "孙颖莎4比3王曼昱",
+      "onboard_time": 1713705201,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2192060,
+      "num": 2192060,
+      "word": "孙颖莎对战王曼昱",
+      "onboard_time": 1713697578,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2163133,
       "num": 2163133,
       "word": "黄子韬就不当言论道歉",
       "onboard_time": 1713654433,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1556494,
-      "num": 1556494,
-      "word": "孙颖莎对战王曼昱",
-      "onboard_time": 1713697578,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 1526920,
@@ -57,6 +73,14 @@
       "onboard_time": 1713697998,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1336366,
+      "num": 1336366,
+      "word": "孙颖莎状态",
+      "onboard_time": 1713701958,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1319396,
@@ -107,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1170710,
-      "num": 1170710,
-      "word": "孙颖莎状态",
-      "onboard_time": 1713701958,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1144662,
       "num": 1144662,
       "word": "金莎被所有人拒绝",
@@ -163,6 +179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 901669,
+      "num": 901669,
+      "word": "陈丽君断层第一",
+      "onboard_time": 1713704359,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 896580,
       "num": 896580,
       "word": "特斯拉降价",
@@ -195,6 +219,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 803399,
+      "num": 738936,
+      "word": "王曼昱状态",
+      "onboard_time": 1713705380,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 798012,
+      "num": 798012,
+      "word": "海产姐妹",
+      "onboard_time": 1713703339,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 770818,
       "num": 770818,
       "word": "两人维保电梯一人竟是纸片人",
@@ -217,6 +257,22 @@
       "onboard_time": 1713695419,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 716762,
+      "num": 716762,
+      "word": "马龙对战林高远",
+      "onboard_time": 1713703458,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 689606,
+      "num": 397655,
+      "word": "一小时内被三个人说我占座了",
+      "onboard_time": 1713699858,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 688177,
@@ -419,6 +475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 536669,
+      "num": 536669,
+      "word": "莎头",
+      "onboard_time": 1713703999,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 536310,
       "num": 536310,
       "word": "B太揭秘卫生巾灰色产业链",
@@ -441,6 +505,14 @@
       "onboard_time": 1713687199,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 529136,
+      "num": 529136,
+      "word": "王楚钦看台观战决赛",
+      "onboard_time": 1713701718,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 522361,
@@ -475,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509944,
+      "num": 509944,
+      "word": "哈尔滨一九四四",
+      "onboard_time": 1713669499,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 508187,
       "num": 508187,
       "word": "索伯换胎",
@@ -489,14 +569,6 @@
       "onboard_time": 1713685278,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 502932,
-      "num": 225058,
-      "word": "一小时内被三个人说我占座了",
-      "onboard_time": 1713699858,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 501456,
@@ -521,14 +593,6 @@
       "onboard_time": 1713671956,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 494169,
-      "num": 494169,
-      "word": "王楚钦看台观战决赛",
-      "onboard_time": 1713701718,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 491470,
@@ -585,14 +649,6 @@
       "onboard_time": 1713675859,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 459275,
-      "num": 459275,
-      "word": "哈尔滨一九四四",
-      "onboard_time": 1713669499,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 455209,
@@ -713,6 +769,14 @@
       "onboard_time": 1713615258,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 399109,
+      "num": 399109,
+      "word": "TF三代双C",
+      "onboard_time": 1713704722,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 394138,
@@ -852,7 +916,7 @@
     },
     {
       "raw_hot": 337960,
-      "num": 471408,
+      "num": 757196,
       "word": "女子高挂10层阳台邻居大哥机智救援",
       "onboard_time": 1713693020,
       "rank": 9,
@@ -947,6 +1011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 308407,
+      "num": 308407,
+      "word": "眼泪女王",
+      "onboard_time": 1713617897,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306949,
       "num": 306949,
       "word": "跳水世界杯",
@@ -961,6 +1033,14 @@
       "onboard_time": 1713620779,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 298541,
+      "num": 298541,
+      "word": "郑秀妍演唱会",
+      "onboard_time": 1713703279,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 294430,
@@ -993,6 +1073,14 @@
       "onboard_time": 1713621019,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283255,
+      "num": 283255,
+      "word": "皮肤科医生不建议点痣",
+      "onboard_time": 1713704600,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 278877,
@@ -1051,12 +1139,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262282,
+      "num": 262282,
+      "word": "周杰伦杭州",
+      "onboard_time": 1713703099,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 260917,
       "num": 130329,
       "word": "杨千嬅哭了",
       "onboard_time": 1713625520,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 259644,
+      "num": 259644,
+      "word": "胡先煦高烧40度出席首映礼",
+      "onboard_time": 1713705081,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 256784,
@@ -1113,14 +1217,6 @@
       "onboard_time": 1713692477,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 246624,
-      "num": 246624,
-      "word": "周杰伦杭州",
-      "onboard_time": 1713703099,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 244761,
@@ -1387,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202763,
+      "num": 202763,
+      "word": "喝黑咖的韩国人对中式奶茶上头了",
+      "onboard_time": 1713699858,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 201928,
       "num": 201928,
       "word": "掘金战胜湖人",
@@ -1419,6 +1523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200098,
+      "num": 200098,
+      "word": "广东韶关山体滑坡致多楼房被埋",
+      "onboard_time": 1713704539,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200068,
       "num": 200068,
       "word": "杨幂关雪压迫感",
@@ -1433,6 +1545,14 @@
       "onboard_time": 1713673458,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199213,
+      "num": 199213,
+      "word": "美国老人感染僵尸鹿病毒死亡",
+      "onboard_time": 1713705440,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199019,
@@ -1483,6 +1603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196523,
+      "num": 196523,
+      "word": "世界是一个巨大的草台班子",
+      "onboard_time": 1713700459,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196469,
       "num": 178753,
       "word": "绘旅人存在之章",
@@ -1491,20 +1619,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 196158,
-      "num": 196158,
-      "word": "喝黑咖的韩国人对中式奶茶上头了",
-      "onboard_time": 1713699858,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 195882,
       "num": 195882,
       "word": "广东人看了都想拿拖鞋的蟑螂风筝",
       "onboard_time": 1713673097,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195712,
+      "num": 195712,
+      "word": "为什么男科医院广告总在公交车上",
+      "onboard_time": 1713701598,
+      "rank": 42,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 193567,
@@ -1587,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187321,
+      "num": 187321,
+      "word": "春色寄情人 倒计时",
+      "onboard_time": 1713704479,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187051,
       "num": 187051,
       "word": "魏大勋香芋紫套装",
@@ -1659,6 +1795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181150,
+      "num": 181150,
+      "word": "林允薄荷蛋糕裙",
+      "onboard_time": 1713702978,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 179120,
       "num": 179120,
       "word": "18位慰安妇制度受害者子女在国内起诉日本",
@@ -1707,14 +1851,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 176619,
-      "num": 176619,
-      "word": "世界是一个巨大的草台班子",
-      "onboard_time": 1713700459,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 175075,
       "num": 175075,
       "word": "向佐一套话术忽悠四个女人",
@@ -1753,14 +1889,6 @@
       "onboard_time": 1713671718,
       "rank": 33,
       "category": "财经,美食"
-    },
-    {
-      "raw_hot": 171098,
-      "num": 171098,
-      "word": "海产姐妹",
-      "onboard_time": 1713703339,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 170982,
@@ -1817,6 +1945,14 @@
       "onboard_time": 1713700398,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 164187,
+      "num": 164187,
+      "word": "眼泪女王是懂怎么刀人的",
+      "onboard_time": 1713698838,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 163813,
@@ -1883,14 +2019,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 159545,
-      "num": 159545,
-      "word": "为什么男科医院广告总在公交车上",
-      "onboard_time": 1713701598,
-      "rank": 42,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 157768,
       "num": 157768,
       "word": "Rebecca 生病",
@@ -1945,6 +2073,14 @@
       "onboard_time": 1713666558,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154195,
+      "num": 154195,
+      "word": "海产姐妹再度强强对决",
+      "onboard_time": 1713702978,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 153775,
@@ -2019,14 +2155,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 148583,
-      "num": 148583,
-      "word": "郑秀妍演唱会",
-      "onboard_time": 1713703279,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 147663,
       "num": 147663,
       "word": "KPL",
@@ -2065,14 +2193,6 @@
       "onboard_time": 1713702258,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145772,
-      "num": 145772,
-      "word": "林允薄荷蛋糕裙",
-      "onboard_time": 1713702978,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 145673,
@@ -2147,14 +2267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141421,
-      "num": 107547,
-      "word": "眼泪女王",
-      "onboard_time": 1713617897,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141300,
       "num": 141300,
       "word": "谷爱凌上海看F1",
@@ -2169,14 +2281,6 @@
       "onboard_time": 1713698119,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 140428,
-      "num": 140428,
-      "word": "眼泪女王是懂怎么刀人的",
-      "onboard_time": 1713698838,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 140282,
@@ -2339,14 +2443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131730,
-      "num": 131730,
-      "word": "海产姐妹再度强强对决",
-      "onboard_time": 1713702978,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131650,
       "num": 131650,
       "word": "广东暴雨积水没脖行人推车前行",
@@ -2361,14 +2457,6 @@
       "onboard_time": 1713675200,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130487,
-      "num": 130487,
-      "word": "马龙对战林高远",
-      "onboard_time": 1713703458,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 129485,
@@ -2692,7 +2780,7 @@
     },
     {
       "raw_hot": 71772,
-      "num": 173798,
+      "num": 458906,
       "word": "蛋仔派对猫和老鼠联动",
       "onboard_time": 1713703040,
       "rank": 30,
@@ -2724,7 +2812,7 @@
     },
     {
       "raw_hot": 67140,
-      "num": 768948,
+      "num": 2194208,
       "word": "最新中华文化主题宣传片",
       "onboard_time": 1713670699,
       "rank": 2,
@@ -2889,6 +2977,14 @@
       "onboard_time": 1713645491,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15903,
+      "num": 515012,
+      "word": "勒克莱尔中国站第4",
+      "onboard_time": 1713704421,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 14892,

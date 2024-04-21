@@ -1,0 +1,410 @@
+{
+  "runTime": 1713705541316,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3330073,
+        "num": 3330073,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1713705020,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2197428,
+        "num": 2197428,
+        "word": "孙颖莎4比3王曼昱",
+        "onboard_time": 1713705201,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3500,
+        "num": 2194208,
+        "word": "最新中华文化主题宣传片",
+        "onboard_time": 1713670699,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2192060,
+        "num": 2192060,
+        "word": "孙颖莎对战王曼昱",
+        "onboard_time": 1713697578,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1336366,
+        "num": 1336366,
+        "word": "孙颖莎状态",
+        "onboard_time": 1713701958,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1095456,
+        "num": 1095456,
+        "word": "医生辟谣小肚子是为了保护子宫卵巢",
+        "onboard_time": 1713694397,
+        "rank": 5,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 1043311,
+        "num": 1043311,
+        "word": "副市长现身凤凰传奇演唱会",
+        "onboard_time": 1713699619,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 901669,
+        "num": 901669,
+        "word": "陈丽君断层第一",
+        "onboard_time": 1713704359,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 798012,
+        "num": 798012,
+        "word": "海产姐妹",
+        "onboard_time": 1713703339,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208953,
+        "num": 757196,
+        "word": "女子高挂10层阳台邻居大哥机智救援",
+        "onboard_time": 1713693020,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 803399,
+        "num": 738936,
+        "word": "王曼昱状态",
+        "onboard_time": 1713705380,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 716762,
+        "num": 716762,
+        "word": "马龙对战林高远",
+        "onboard_time": 1713703458,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 536669,
+        "num": 536669,
+        "word": "莎头",
+        "onboard_time": 1713703999,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529136,
+        "num": 529136,
+        "word": "王楚钦看台观战决赛",
+        "onboard_time": 1713701718,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15903,
+        "num": 515012,
+        "word": "勒克莱尔中国站第4",
+        "onboard_time": 1713704421,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 509944,
+        "num": 509944,
+        "word": "哈尔滨一九四四",
+        "onboard_time": 1713702560,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60774,
+        "num": 458906,
+        "word": "蛋仔派对猫和老鼠联动",
+        "onboard_time": 1713703040,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30723,
+        "num": 425076,
+        "word": "世界首套高清月球地质写真集",
+        "onboard_time": 1713661519,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414799,
+        "num": 414799,
+        "word": "中国近一半大城市正在下沉",
+        "onboard_time": 1713673939,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 399109,
+        "num": 399109,
+        "word": "TF三代双C",
+        "onboard_time": 1713704722,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 689606,
+        "num": 397655,
+        "word": "一小时内被三个人说我占座了",
+        "onboard_time": 1713699858,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 395206,
+        "num": 395206,
+        "word": "杨幂文替",
+        "onboard_time": 1713695419,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370161,
+        "num": 370161,
+        "word": "李晟发和赵丽颖聊天记录",
+        "onboard_time": 1713672138,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368595,
+        "num": 368595,
+        "word": "赵露思抹胸高定",
+        "onboard_time": 1713698599,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 336682,
+        "num": 336682,
+        "word": "辽宁两老太发生争吵厮打一人身亡",
+        "onboard_time": 1713698119,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333359,
+        "num": 333359,
+        "word": "每天1杯柠檬水身体会有何变化",
+        "onboard_time": 1713685697,
+        "rank": 25,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 308407,
+        "num": 308407,
+        "word": "眼泪女王",
+        "onboard_time": 1713705260,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298541,
+        "num": 298541,
+        "word": "郑秀妍演唱会",
+        "onboard_time": 1713703279,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 297525,
+        "num": 297525,
+        "word": "周冠宇哭了",
+        "onboard_time": 1713690258,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286467,
+        "num": 286467,
+        "word": "女生报警称遭同学脑电波窃取隐私",
+        "onboard_time": 1713696078,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283255,
+        "num": 283255,
+        "word": "皮肤科医生不建议点痣",
+        "onboard_time": 1713704600,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 270999,
+        "num": 270999,
+        "word": "林依轮举孙颖莎手幅",
+        "onboard_time": 1713702140,
+        "rank": 31,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 262282,
+        "num": 262282,
+        "word": "周杰伦杭州",
+        "onboard_time": 1713703099,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 259644,
+        "num": 259644,
+        "word": "胡先煦高烧40度出席首映礼",
+        "onboard_time": 1713705081,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212162,
+        "num": 212162,
+        "word": "女生把健身当摸鱼一月瘦10斤",
+        "onboard_time": 1713691638,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210503,
+        "num": 210503,
+        "word": "杨幂民国军装",
+        "onboard_time": 1713699619,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209624,
+        "num": 209624,
+        "word": "GQ派对",
+        "onboard_time": 1713699977,
+        "rank": 36,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 202763,
+        "num": 202763,
+        "word": "喝黑咖的韩国人对中式奶茶上头了",
+        "onboard_time": 1713699858,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200098,
+        "num": 200098,
+        "word": "广东韶关山体滑坡致多楼房被埋",
+        "onboard_time": 1713704539,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199213,
+        "num": 199213,
+        "word": "美国老人感染僵尸鹿病毒死亡",
+        "onboard_time": 1713705440,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196523,
+        "num": 196523,
+        "word": "世界是一个巨大的草台班子",
+        "onboard_time": 1713700459,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195712,
+        "num": 195712,
+        "word": "为什么男科医院广告总在公交车上",
+        "onboard_time": 1713701598,
+        "rank": 41,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 189980,
+        "num": 189980,
+        "word": "何瑞之 冷暴力",
+        "onboard_time": 1713687199,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187321,
+        "num": 187321,
+        "word": "春色寄情人 倒计时",
+        "onboard_time": 1713704479,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183902,
+        "num": 183902,
+        "word": "陈楚生唱了离群的鹿",
+        "onboard_time": 1713703159,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181150,
+        "num": 181150,
+        "word": "林允薄荷蛋糕裙",
+        "onboard_time": 1713702978,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 175081,
+        "num": 175081,
+        "word": "12306 候补",
+        "onboard_time": 1713685820,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164187,
+        "num": 164187,
+        "word": "眼泪女王是懂怎么刀人的",
+        "onboard_time": 1713698838,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154631,
+        "num": 154631,
+        "word": "每天跑步和每天举铁哪个更健康",
+        "onboard_time": 1713700398,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 154195,
+        "num": 154195,
+        "word": "海产姐妹再度强强对决",
+        "onboard_time": 1713702978,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}
