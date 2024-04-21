@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713730704594,
+  "endTime": 1713731657265,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -3499,6 +3499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40792,
+      "num": 40792,
+      "word": "中国土味短剧在日本火了",
+      "onboard_time": 1713728050,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38615,
       "num": 38615,
       "word": "确定被爱后小狗连面相都变了",
@@ -3529,14 +3537,6 @@
       "onboard_time": 1713721933,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31651,
-      "num": 31651,
-      "word": "中国土味短剧在日本火了",
-      "onboard_time": 1713728050,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 29767,
@@ -3585,6 +3585,14 @@
       "onboard_time": 1713670218,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14009,
+      "num": 16716,
+      "word": "周杰伦粉丝互动主打一个已读乱回",
+      "onboard_time": 1713731411,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 13727,

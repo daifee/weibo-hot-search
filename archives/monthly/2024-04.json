@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713730704594,
+  "endTime": 1713731657265,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -59203,6 +59203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 40792,
+      "num": 40792,
+      "word": "中国土味短剧在日本火了",
+      "onboard_time": 1713728050,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40765,
       "num": 181667,
       "word": "罗振宇称星纪元ET智驾很好",
@@ -59681,14 +59689,6 @@
       "onboard_time": 1712075896,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31651,
-      "num": 31651,
-      "word": "中国土味短剧在日本火了",
-      "onboard_time": 1713728050,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 31314,
@@ -60665,6 +60665,14 @@
       "onboard_time": 1712696290,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 14009,
+      "num": 16716,
+      "word": "周杰伦粉丝互动主打一个已读乱回",
+      "onboard_time": 1713731411,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 13982,

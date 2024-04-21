@@ -1,6 +1,6 @@
 {
   "startTime": 1713716506059,
-  "endTime": 1713730704594,
+  "endTime": 1713731657265,
   "band_list": [
     {
       "raw_hot": 1378340,
@@ -475,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40792,
+      "num": 40792,
+      "word": "中国土味短剧在日本火了",
+      "onboard_time": 1713728050,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32810,
       "num": 36041,
       "word": "鹿晗踢球戴曼联手套",
@@ -483,20 +491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 31651,
-      "num": 31651,
-      "word": "中国土味短剧在日本火了",
-      "onboard_time": 1713728050,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 30394,
       "num": 36003,
       "word": "马龙对战林高远",
       "onboard_time": 1713703458,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14009,
+      "num": 16716,
+      "word": "周杰伦粉丝互动主打一个已读乱回",
+      "onboard_time": 1713731411,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 9443,
