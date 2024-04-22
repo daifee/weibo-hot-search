@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713803804417,
+  "endTime": 1713806124610,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -2979,6 +2979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230450,
+      "num": 230450,
+      "word": "春色寄情人收视率",
+      "onboard_time": 1713802278,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230223,
       "num": 230223,
       "word": "李溪芮尚雯婕终于坐一起了",
@@ -4321,14 +4329,6 @@
       "onboard_time": 1713778638,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171318,
-      "num": 171318,
-      "word": "春色寄情人收视率",
-      "onboard_time": 1713802278,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 170988,
@@ -6019,6 +6019,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 104232,
+      "num": 104232,
+      "word": "遗体整容师 残疾少女",
+      "onboard_time": 1713803835,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103403,
       "num": 103403,
       "word": "台湾花莲再发5.7级地震",
@@ -6137,6 +6145,14 @@
       "onboard_time": 1713717616,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83804,
+      "num": 83804,
+      "word": "终于有人把离职补偿讲明白了",
+      "onboard_time": 1713805093,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 81674,
@@ -6273,6 +6289,14 @@
       "onboard_time": 1713670699,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62094,
+      "num": 62094,
+      "word": "闵熙珍要求HYBE和BeliftLab正视错误",
+      "onboard_time": 1713804614,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 61163,
@@ -6441,6 +6465,14 @@
       "onboard_time": 1713637751,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 35568,
+      "num": 46813,
+      "word": "内蒙古开鲁县干部为何下田拦春耕",
+      "onboard_time": 1713805034,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34958,
