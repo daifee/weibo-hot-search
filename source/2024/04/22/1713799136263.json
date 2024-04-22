@@ -1,0 +1,410 @@
+{
+  "runTime": 1713799136263,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1978244,
+        "num": 1978244,
+        "word": "台湾花莲又发5.9级地震",
+        "onboard_time": 1713796821,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1542650,
+        "num": 1542650,
+        "word": "台湾1小时内发生10起地震",
+        "onboard_time": 1713785656,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43906,
+        "num": 970842,
+        "word": "世界读书日开卷有益",
+        "onboard_time": 1713789559,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863472,
+        "num": 863472,
+        "word": "北科大女生 求你别再骗我妈救命钱",
+        "onboard_time": 1713789799,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735764,
+        "num": 735764,
+        "word": "主播卖抗癌化妆品骗老人救命钱被封禁",
+        "onboard_time": 1713794120,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682711,
+        "num": 682711,
+        "word": "爱情公寓秦羽墨开美甲店",
+        "onboard_time": 1713787639,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 522437,
+        "num": 522437,
+        "word": "天津街头两名交警互殴",
+        "onboard_time": 1713796099,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520755,
+        "num": 520755,
+        "word": "赵今麦中戏毕业大戏",
+        "onboard_time": 1713794481,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 479111,
+        "num": 479111,
+        "word": "审判春色寄情人",
+        "onboard_time": 1713794179,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75820,
+        "num": 459826,
+        "word": "老师以考试奖励名义送学生新鞋",
+        "onboard_time": 1713773419,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1484166,
+        "num": 459760,
+        "word": "郑乃馨承认恋情",
+        "onboard_time": 1713786198,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455831,
+        "num": 455831,
+        "word": "iPhone16或取消实体音量键电源键",
+        "onboard_time": 1713785117,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 450593,
+        "num": 450593,
+        "word": "浙江舞蹈老师怀孕39周仍每天跳舞",
+        "onboard_time": 1713794419,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405313,
+        "num": 405313,
+        "word": "媒体呼吁将调休选择权交给劳动者",
+        "onboard_time": 1713793698,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399013,
+        "num": 399013,
+        "word": "难哄 大事很妙",
+        "onboard_time": 1713786138,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353952,
+        "num": 353952,
+        "word": "余罪再次下架",
+        "onboard_time": 1713782478,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322668,
+        "num": 322668,
+        "word": "鱼 愿天堂没有给",
+        "onboard_time": 1713786917,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305110,
+        "num": 305110,
+        "word": "金世佳和王传君打过视频后哭了",
+        "onboard_time": 1713782537,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299909,
+        "num": 299909,
+        "word": "冯椿",
+        "onboard_time": 1713797237,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296025,
+        "num": 296025,
+        "word": "晚宴上的杨幂",
+        "onboard_time": 1713792439,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 797981,
+        "num": 287940,
+        "word": "婚前性行为该拒绝吗",
+        "onboard_time": 1713791180,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 553842,
+        "num": 278678,
+        "word": "为什么点外卖都要送这种饮料",
+        "onboard_time": 1713795980,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 350688,
+        "num": 266423,
+        "word": "女子常熬夜胸痛难忍才就医确诊肺癌晚期",
+        "onboard_time": 1713782898,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243024,
+        "num": 243024,
+        "word": "别再用隔夜米做蛋炒饭了",
+        "onboard_time": 1713792199,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 233701,
+        "num": 233701,
+        "word": "硬糖少女303",
+        "onboard_time": 1713787521,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223349,
+        "num": 223349,
+        "word": "杭州震感",
+        "onboard_time": 1713796639,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207803,
+        "num": 207803,
+        "word": "奶奶问李现周雨彤有没有在一起",
+        "onboard_time": 1713796040,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197439,
+        "num": 197439,
+        "word": "台湾花莲海域5.3级地震",
+        "onboard_time": 1713778457,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195333,
+        "num": 195333,
+        "word": "考研数学被评最佳睡前读物",
+        "onboard_time": 1713798321,
+        "rank": 28,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 190648,
+        "num": 190648,
+        "word": "周杰伦 哈圈伍佰",
+        "onboard_time": 1713796580,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187616,
+        "num": 187616,
+        "word": "短效避孕药和紧急避孕药的区别",
+        "onboard_time": 1713798439,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178203,
+        "num": 178203,
+        "word": "东北雨姐做手术",
+        "onboard_time": 1713786437,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 171751,
+        "num": 171751,
+        "word": "国际乒联主席点赞孙颖莎",
+        "onboard_time": 1713796400,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168598,
+        "num": 168598,
+        "word": "刘芮麟 今晚又看你谈恋爱",
+        "onboard_time": 1713792080,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167905,
+        "num": 167905,
+        "word": "12306回应公众号发疯留言能求到票",
+        "onboard_time": 1713778457,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161121,
+        "num": 161121,
+        "word": "李现台词",
+        "onboard_time": 1713794120,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159069,
+        "num": 159069,
+        "word": "看似羞耻的小习惯其实非常解压",
+        "onboard_time": 1713798919,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155000,
+        "num": 155000,
+        "word": "徐明浩新型citywalk",
+        "onboard_time": 1713798798,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 150326,
+        "num": 150326,
+        "word": "老师在教室装了一台叫号器",
+        "onboard_time": 1713798080,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148117,
+        "num": 148117,
+        "word": "种地吧剪辑",
+        "onboard_time": 1713792140,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147866,
+        "num": 147866,
+        "word": "斗鱼CEO陈少杰已取保候审",
+        "onboard_time": 1713789138,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143768,
+        "num": 147691,
+        "word": "陈麦冬 镇草",
+        "onboard_time": 1713798019,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147636,
+        "num": 147636,
+        "word": "黄金",
+        "onboard_time": 1713794780,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137807,
+        "num": 137807,
+        "word": "Mari 退赛",
+        "onboard_time": 1713781878,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122793,
+        "num": 122793,
+        "word": "春色寄情人",
+        "onboard_time": 1713792979,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121934,
+        "num": 121934,
+        "word": "背着善宰跑第五集",
+        "onboard_time": 1713798619,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121128,
+        "num": 121128,
+        "word": "尔滨三害一个狠一个疯一个癫",
+        "onboard_time": 1713787219,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116814,
+        "num": 116814,
+        "word": "王安宇再唱Are you ok",
+        "onboard_time": 1713792799,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116626,
+        "num": 116626,
+        "word": "79岁爷爷微信打招呼我是你爹",
+        "onboard_time": 1713792979,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105528,
+        "num": 105528,
+        "word": "李梦FMVP",
+        "onboard_time": 1713794720,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}

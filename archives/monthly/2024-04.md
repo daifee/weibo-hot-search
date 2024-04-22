@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/22 22:34:09
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/22 23:18:56
 </p>
 </blockquote>
 <p>
@@ -611,6 +611,12 @@ Thurman猫一杯视频号被封（热度：2380031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E8%A2%AB%E8%B4%A8%E7%96%91%E7%BA%B5%E5%AE%B9%E4%B9%B0%E9%95%BF%E4%B9%98%E7%9F%AD%23" target="weibo">
 12306被质疑纵容买长乘短（热度：1980394）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%8A%B1%E8%8E%B2%E5%8F%88%E5%8F%915.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+台湾花莲又发5.9级地震（热度：1978244）
 </a>
 </li>
 
@@ -5967,6 +5973,12 @@ TFBOYS文案什么意思（热度：811913）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E5%8D%96%E6%8A%97%E7%99%8C%E5%8C%96%E5%A6%86%E5%93%81%E9%AA%97%E8%80%81%E4%BA%BA%E6%95%91%E5%91%BD%E9%92%B1%E8%A2%AB%E5%B0%81%E7%A6%81%23" target="weibo">
+主播卖抗癌化妆品骗老人救命钱被封禁（热度：735764）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E5%B9%B4%E9%BE%84%E6%9C%80%E5%A4%A7%E7%94%B7%E5%AD%90%E5%8E%BB%E4%B8%96%23" target="weibo">
 世界年龄最大男子去世（热度：735526）
 </a>
@@ -5999,18 +6011,6 @@ TFBOYS文案什么意思（热度：811913）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%9C%E7%84%B6%E4%B8%8A%E4%B8%87%E5%B9%B4%E7%9A%84%E7%AB%A5%E5%AD%90%E8%BA%AB%E6%AF%94%E8%BE%83%E8%A1%A5%23" target="weibo">
 果然上万年的童子身比较补（热度：733750）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2316%E5%B2%81%E5%A5%B3%E5%AD%A91%E4%B8%87%E5%9D%97%E7%A9%B7%E6%B8%B89%E5%9B%BD3%E5%A4%A7%E6%B4%B2%23" target="weibo">
-16岁女孩1万块穷游9国3大洲（热度：733388）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BB%A3%E8%A8%80%E5%AE%89%E5%90%89%E5%B0%94%23" target="weibo">
-肖战代言安吉尔（热度：733058）
 </a>
 </li>
 
