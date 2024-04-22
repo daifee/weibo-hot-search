@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713800065417,
+  "endTime": 1713802938860,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -1635,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448454,
+      "num": 448454,
+      "word": "冯椿",
+      "onboard_time": 1713797237,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 442630,
       "num": 442630,
       "word": "Mari 退赛",
@@ -1729,6 +1737,14 @@
       "onboard_time": 1713699977,
       "rank": 7,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 417881,
+      "num": 417881,
+      "word": "赚了一个亏了一个平了一个",
+      "onboard_time": 1713800177,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 417173,
@@ -1873,6 +1889,14 @@
       "onboard_time": 1713709763,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 386045,
+      "num": 386045,
+      "word": "考研数学被评最佳睡前读物",
+      "onboard_time": 1713798321,
+      "rank": 28,
+      "category": "读书作家"
     },
     {
       "raw_hot": 384926,
@@ -2099,6 +2123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346516,
+      "num": 346516,
+      "word": "许美静团队回应演唱会太水争议",
+      "onboard_time": 1713801198,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 343347,
       "num": 343347,
       "word": "厦门震感",
@@ -2251,20 +2283,20 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 310367,
+      "num": 245527,
+      "word": "看似羞耻的小习惯其实非常解压",
+      "onboard_time": 1713798919,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 306949,
       "num": 306949,
       "word": "跳水世界杯",
       "onboard_time": 1713693378,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 299909,
-      "num": 299909,
-      "word": "冯椿",
-      "onboard_time": 1713797237,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 298792,
@@ -2731,14 +2763,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 247326,
-      "num": 247326,
-      "word": "考研数学被评最佳睡前读物",
-      "onboard_time": 1713798321,
-      "rank": 28,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 246499,
       "num": 246499,
       "word": "别再用隔夜米做蛋炒饭了",
@@ -2761,14 +2785,6 @@
       "onboard_time": 1713750737,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245527,
-      "num": 245527,
-      "word": "看似羞耻的小习惯其实非常解压",
-      "onboard_time": 1713798919,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 245375,
@@ -4859,6 +4875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152028,
+      "num": 152028,
+      "word": "春色寄情人 泉州宣传片",
+      "onboard_time": 1713800236,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151579,
       "num": 151579,
       "word": "快船1比0独行侠",
@@ -5523,6 +5547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129210,
+      "num": 129210,
+      "word": "春色寄情人收视率",
+      "onboard_time": 1713802278,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129043,
       "num": 129043,
       "word": "疑似张凯回应辞职",
@@ -5697,6 +5729,14 @@
       "onboard_time": 1713661519,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 120449,
+      "num": 120449,
+      "word": "花少团也看了拯救辛芷蕾",
+      "onboard_time": 1713801738,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 120423,
@@ -5947,6 +5987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105208,
+      "num": 386241,
+      "word": "最美不是下雨天而是有人撑伞的遇见",
+      "onboard_time": 1713799279,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105002,
       "num": 105002,
       "word": "皇马vs巴萨",
@@ -6003,6 +6051,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 97889,
+      "num": 97889,
+      "word": "翟潇闻体态",
+      "onboard_time": 1713800177,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97715,
       "num": 340030,
       "word": "为什么用消毒级卫生巾更安心",
@@ -6017,6 +6073,14 @@
       "onboard_time": 1713686178,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93850,
+      "num": 93850,
+      "word": "刘雯吊带背心",
+      "onboard_time": 1713801138,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 90147,
@@ -6089,6 +6153,14 @@
       "onboard_time": 1713736331,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80026,
+      "num": 80026,
+      "word": "拳手踢举牌女郎臀部遭群殴",
+      "onboard_time": 1713802397,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78004,
@@ -6201,14 +6273,6 @@
       "onboard_time": 1713670699,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65820,
-      "num": 354012,
-      "word": "最美不是下雨天而是有人撑伞的遇见",
-      "onboard_time": 1713799279,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 61163,
