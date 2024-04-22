@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713790090475,
+  "endTime": 1713792015450,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -443,12 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 966124,
+      "num": 966124,
+      "word": "爱情公寓秦羽墨开美甲店",
+      "onboard_time": 1713787639,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 943972,
       "num": 707384,
       "word": "秦海璐在买防窥膜了",
       "onboard_time": 1713766100,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 922405,
+      "num": 922405,
+      "word": "北科大女生 求你别再骗我妈救命钱",
+      "onboard_time": 1713789799,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 911966,
@@ -1115,14 +1131,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 551895,
-      "num": 326907,
-      "word": "爱情公寓秦羽墨开美甲店",
-      "onboard_time": 1713787639,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 551477,
       "num": 502299,
       "word": "姐夫好我是王安宇",
@@ -1499,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452542,
+      "num": 452542,
+      "word": "斗鱼CEO陈少杰已取保候审",
+      "onboard_time": 1713789138,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 450970,
       "num": 371064,
       "word": "马龙孙颖莎冠军合照",
@@ -1611,6 +1627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 420505,
+      "num": 233715,
+      "word": "55岁农妇杀害3岁男孩一审被判死刑",
+      "onboard_time": 1713790518,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418975,
       "num": 418975,
       "word": "GQ派对",
@@ -1657,6 +1681,14 @@
       "onboard_time": 1713759859,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408979,
+      "num": 231732,
+      "word": "婚前性行为该拒绝吗",
+      "onboard_time": 1713791180,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 406380,
@@ -1891,6 +1923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 354208,
+      "num": 354208,
+      "word": "只有大学生才知道这有多爽",
+      "onboard_time": 1713787818,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 354078,
       "num": 354078,
       "word": "EXO团魂",
@@ -2011,14 +2051,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 336684,
-      "num": 336684,
-      "word": "斗鱼CEO陈少杰已取保候审",
-      "onboard_time": 1713789138,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 336416,
       "num": 135137,
       "word": "张栋梁拥抱拒绝金莎",
@@ -2065,6 +2097,14 @@
       "onboard_time": 1713629060,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 323343,
+      "num": 323343,
+      "word": "向佐郭碧婷综艺人缘",
+      "onboard_time": 1713789079,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 323207,
@@ -2121,14 +2161,6 @@
       "onboard_time": 1713714797,
       "rank": 18,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 310358,
-      "num": 310358,
-      "word": "只有大学生才知道这有多爽",
-      "onboard_time": 1713787818,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 306949,
@@ -2219,8 +2251,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 284552,
-      "num": 284552,
+      "raw_hot": 286375,
+      "num": 286375,
       "word": "鹿晗直播王勉钓鱼",
       "onboard_time": 1713788899,
       "rank": 23,
@@ -2603,14 +2635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246161,
-      "num": 246161,
-      "word": "向佐郭碧婷综艺人缘",
-      "onboard_time": 1713789079,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 245536,
       "num": 245536,
       "word": "种地吧",
@@ -2675,6 +2699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241411,
+      "num": 148015,
+      "word": "哪吒发布会",
+      "onboard_time": 1713789618,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 241038,
       "num": 241038,
       "word": "李现内娱第一个在采访里笑哭的",
@@ -2729,6 +2761,14 @@
       "onboard_time": 1713694218,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236300,
+      "num": 236300,
+      "word": "尔滨三害一个狠一个疯一个癫",
+      "onboard_time": 1713787219,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 234324,
@@ -3451,14 +3491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193955,
-      "num": 193955,
-      "word": "尔滨三害一个狠一个疯一个癫",
-      "onboard_time": 1713787219,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193626,
       "num": 193626,
       "word": "致敬龙队",
@@ -3835,6 +3867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179577,
+      "num": 179577,
+      "word": "宋亚轩把丁程鑫认成熊",
+      "onboard_time": 1713789799,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179120,
       "num": 179120,
       "word": "18位慰安妇制度受害者子女在国内起诉日本",
@@ -4067,6 +4107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170344,
+      "num": 170344,
+      "word": "姚明问谷爱凌参不参加夏奥会",
+      "onboard_time": 1713788838,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169889,
       "num": 169889,
       "word": "理想汽车盘初低开5.83%",
@@ -4195,12 +4243,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 163680,
-      "num": 155564,
-      "word": "宋亚轩把丁程鑫认成熊",
-      "onboard_time": 1713789799,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 162412,
+      "num": 162412,
+      "word": "哈尔滨一九四四下集预告",
+      "onboard_time": 1713791180,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 162406,
@@ -4291,14 +4339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 159448,
-      "num": 159448,
-      "word": "北科大女生 求你别再骗我妈救命钱",
-      "onboard_time": 1713789799,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159136,
       "num": 159136,
       "word": "新说唱2024",
@@ -4361,14 +4401,6 @@
       "onboard_time": 1713662539,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156804,
-      "num": 156804,
-      "word": "姚明问谷爱凌参不参加夏奥会",
-      "onboard_time": 1713788838,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 156617,
@@ -4491,6 +4523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154193,
+      "num": 114237,
+      "word": "恋综收官来真的",
+      "onboard_time": 1713790159,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154078,
       "num": 154078,
       "word": "kpop替身",
@@ -4513,6 +4553,14 @@
       "onboard_time": 1713620119,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153690,
+      "num": 162505,
+      "word": "你会把旧手机给父母用吗",
+      "onboard_time": 1713790879,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 153660,
@@ -4609,14 +4657,6 @@
       "onboard_time": 1713747798,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 148015,
-      "num": 148015,
-      "word": "哪吒发布会",
-      "onboard_time": 1713789618,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 147692,
@@ -5899,6 +5939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49361,
+      "num": 912391,
+      "word": "世界读书日开卷有益",
+      "onboard_time": 1713789559,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49209,
       "num": 41388,
       "word": "张艺兴Psychic国内舞台首秀",
@@ -5944,14 +5992,6 @@
       "word": "中学生热血演绎跨越历史的转场",
       "onboard_time": 1713675739,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38780,
-      "num": 884731,
-      "word": "世界读书日开卷有益",
-      "onboard_time": 1713789559,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -6001,6 +6041,14 @@
       "onboard_time": 1713642851,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 29295,
+      "num": 169702,
+      "word": "挑战地心引力",
+      "onboard_time": 1713791059,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 28330,
