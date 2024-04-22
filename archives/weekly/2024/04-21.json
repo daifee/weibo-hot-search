@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713795455408,
+  "endTime": 1713796449713,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 2693897,
-      "num": 498466,
+      "num": 572961,
       "word": "郑乃馨承认恋情",
       "onboard_time": 1713786198,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2517712,
+      "num": 2517712,
+      "word": "台湾1小时内发生10起地震",
+      "onboard_time": 1713785656,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2376669,
@@ -107,8 +115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1659643,
-      "num": 1659643,
+      "raw_hot": 1700774,
+      "num": 1700774,
       "word": "北科大女生 求你别再骗我妈救命钱",
       "onboard_time": 1713789799,
       "rank": 33,
@@ -123,20 +131,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1630106,
+      "num": 1630106,
+      "word": "台湾花莲海域5.3级地震",
+      "onboard_time": 1713778457,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1609109,
       "num": 1609109,
       "word": "金价涨到700后不敢买也不敢卖",
       "onboard_time": 1713743537,
       "rank": 0,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1581374,
-      "num": 1581374,
-      "word": "台湾1小时内发生10起地震",
-      "onboard_time": 1713785656,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1537487,
@@ -251,6 +259,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1209249,
+      "num": 333840,
+      "word": "婚前性行为该拒绝吗",
+      "onboard_time": 1713791180,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1208607,
       "num": 1208607,
       "word": "韩勇被开除党籍",
@@ -281,14 +297,6 @@
       "onboard_time": 1713758659,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1146330,
-      "num": 296413,
-      "word": "婚前性行为该拒绝吗",
-      "onboard_time": 1713791180,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 1144662,
@@ -465,14 +473,6 @@
       "onboard_time": 1713629118,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 968056,
-      "num": 968056,
-      "word": "台湾花莲海域5.3级地震",
-      "onboard_time": 1713778457,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 943972,
@@ -835,12 +835,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 680504,
+      "num": 680504,
+      "word": "赵今麦中戏毕业大戏",
+      "onboard_time": 1713794481,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 679038,
       "num": 679038,
       "word": "陈芋汐10米台冠军",
       "onboard_time": 1713694517,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 675078,
+      "num": 675078,
+      "word": "审判春色寄情人",
+      "onboard_time": 1713794179,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 674464,
@@ -1003,14 +1019,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 595087,
-      "num": 595087,
-      "word": "赵今麦中戏毕业大戏",
-      "onboard_time": 1713794481,
-      "rank": 6,
-      "category": "演出"
-    },
-    {
       "raw_hot": 592697,
       "num": 592697,
       "word": "黄景瑜王一博一个嘴慢一个手快",
@@ -1028,7 +1036,7 @@
     },
     {
       "raw_hot": 584886,
-      "num": 456934,
+      "num": 572565,
       "word": "晚宴上的杨幂",
       "onboard_time": 1713792439,
       "rank": 17,
@@ -1065,6 +1073,14 @@
       "onboard_time": 1713627860,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 576716,
+      "num": 576716,
+      "word": "主播卖抗癌化妆品骗老人救命钱被封禁",
+      "onboard_time": 1713794120,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 575860,
@@ -1116,7 +1132,7 @@
     },
     {
       "raw_hot": 569247,
-      "num": 297342,
+      "num": 332075,
       "word": "女子常熬夜胸痛难忍才就医确诊肺癌晚期",
       "onboard_time": 1713782898,
       "rank": 20,
@@ -1321,6 +1337,14 @@
       "onboard_time": 1713688398,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 508093,
+      "num": 508093,
+      "word": "浙江舞蹈老师怀孕39周仍每天跳舞",
+      "onboard_time": 1713794419,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507425,
@@ -1585,14 +1609,6 @@
       "onboard_time": 1713667037,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 447617,
-      "num": 447617,
-      "word": "审判春色寄情人",
-      "onboard_time": 1713794179,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 442630,
@@ -1875,14 +1891,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 379191,
-      "num": 218185,
-      "word": "浙江舞蹈老师怀孕39周仍每天跳舞",
-      "onboard_time": 1713794419,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 378135,
       "num": 367245,
       "word": "刘诗诗下厨",
@@ -1947,14 +1955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 363431,
-      "num": 363431,
-      "word": "主播卖抗癌化妆品骗老人救命钱被封禁",
-      "onboard_time": 1713794120,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 362459,
       "num": 362459,
       "word": "NewJeans曾说自己是ADOR不是HYBE",
@@ -1977,6 +1977,14 @@
       "onboard_time": 1713759499,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 355168,
+      "num": 355168,
+      "word": "镇政府回应8岁男童被马拖行身亡",
+      "onboard_time": 1713795438,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354606,
@@ -2081,6 +2089,14 @@
       "onboard_time": 1713765138,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339673,
+      "num": 217634,
+      "word": "为什么点外卖都要送这种饮料",
+      "onboard_time": 1713795980,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 337960,
@@ -2691,6 +2707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 246499,
+      "num": 246499,
+      "word": "别再用隔夜米做蛋炒饭了",
+      "onboard_time": 1713792199,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 246302,
       "num": 246302,
       "word": "TF三代出道人数",
@@ -2931,6 +2955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228089,
+      "num": 228089,
+      "word": "黄金",
+      "onboard_time": 1713794780,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 228074,
       "num": 228074,
       "word": "蔚来马麟欢迎雷军来其展台",
@@ -3067,14 +3099,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 217084,
-      "num": 217084,
-      "word": "别再用隔夜米做蛋炒饭了",
-      "onboard_time": 1713792199,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 216020,
       "num": 208433,
       "word": "李梦23分",
@@ -3105,6 +3129,14 @@
       "onboard_time": 1713680298,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 214678,
+      "num": 214678,
+      "word": "李现台词",
+      "onboard_time": 1713794120,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 214424,
@@ -3176,14 +3208,6 @@
       "word": "罗伯特说杨幂一出马就是女王范儿",
       "onboard_time": 1713788838,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 209173,
-      "num": 209173,
-      "word": "李现台词",
-      "onboard_time": 1713794120,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -4315,14 +4339,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 166917,
-      "num": 166917,
-      "word": "黄金",
-      "onboard_time": 1713794780,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
       "raw_hot": 166719,
       "num": 166719,
       "word": "关雪车牌号是杨幂生日",
@@ -4531,6 +4547,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 158398,
+      "num": 158398,
+      "word": "奶奶问李现周雨彤有没有在一起",
+      "onboard_time": 1713796040,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158101,
       "num": 158101,
       "word": "吴磊宋三川返场",
@@ -4737,6 +4761,14 @@
       "onboard_time": 1713694997,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151941,
+      "num": 151941,
+      "word": "天津街头两名交警互殴",
+      "onboard_time": 1713796099,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151579,
@@ -5035,6 +5067,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 140360,
+      "num": 140360,
+      "word": "王安宇再唱Are you ok",
+      "onboard_time": 1713792799,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140282,
       "num": 150523,
       "word": "雷军现身上海F1赛场",
@@ -5195,14 +5235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135741,
-      "num": 129398,
-      "word": "王安宇再唱Are you ok",
-      "onboard_time": 1713792799,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135715,
       "num": 135715,
       "word": "工作能力强性格又好却很难升职",
@@ -5345,6 +5377,14 @@
       "onboard_time": 1713715997,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129568,
+      "num": 129568,
+      "word": "近期韩剧人的精神状态",
+      "onboard_time": 1713795560,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 129485,
@@ -5515,14 +5555,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 122574,
-      "num": 122574,
-      "word": "镇政府回应8岁男童被马拖行身亡",
-      "onboard_time": 1713795438,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122461,
       "num": 122461,
       "word": "夏之光田嘉瑞的i人party",
@@ -5619,6 +5651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115104,
+      "num": 115104,
+      "word": "庄洁社交悍匪",
+      "onboard_time": 1713795560,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114781,
       "num": 114781,
       "word": "五一酒店价格",
@@ -5697,6 +5737,14 @@
       "onboard_time": 1713681199,
       "rank": 47,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 108593,
+      "num": 111191,
+      "word": "国际乒联主席点赞孙颖莎",
+      "onboard_time": 1713796400,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 108338,
@@ -6076,7 +6124,7 @@
     },
     {
       "raw_hot": 53336,
-      "num": 1164686,
+      "num": 1641062,
       "word": "世界读书日开卷有益",
       "onboard_time": 1713789559,
       "rank": 2,
