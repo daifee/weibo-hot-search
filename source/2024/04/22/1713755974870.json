@@ -1,0 +1,410 @@
+{
+  "runTime": 1713755974870,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1950823,
+        "num": 1950823,
+        "word": "我是O",
+        "onboard_time": 1713752838,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 875007,
+        "num": 875007,
+        "word": "97年的人都当综艺总导演了",
+        "onboard_time": 1713750677,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28456,
+        "num": 857315,
+        "word": "潮起互联网奔涌三十年",
+        "onboard_time": 1713755478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852077,
+        "num": 852077,
+        "word": "广西一小区楼上坠落树根致高中生被砸身亡",
+        "onboard_time": 1713751818,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641064,
+        "num": 641064,
+        "word": "朋友圈背景图",
+        "onboard_time": 1713750558,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 588190,
+        "num": 588190,
+        "word": "12306从未授权第三方平台发售火车票",
+        "onboard_time": 1713744919,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550796,
+        "num": 550796,
+        "word": "刘忻是JYP第一位中国女艺人",
+        "onboard_time": 1713749957,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532241,
+        "num": 532241,
+        "word": "女子癌症晚期成了网红",
+        "onboard_time": 1713743537,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458951,
+        "num": 458951,
+        "word": "单休的人连上九天班",
+        "onboard_time": 1713753616,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439836,
+        "num": 439836,
+        "word": "93岁南京大屠杀幸存者刘素珍去世",
+        "onboard_time": 1713750198,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773357,
+        "num": 432559,
+        "word": "金价涨到700后不敢买也不敢卖",
+        "onboard_time": 1713743537,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 452539,
+        "num": 431071,
+        "word": "美国军方代表团抵达青岛",
+        "onboard_time": 1713752598,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 421722,
+        "num": 421722,
+        "word": "周杰伦首次录制说唱节目",
+        "onboard_time": 1713751159,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400584,
+        "num": 400584,
+        "word": "五一调休",
+        "onboard_time": 1713745579,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251702,
+        "num": 384098,
+        "word": "有薄膜的一次性咖啡杯30年才能降解",
+        "onboard_time": 1713755358,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 71647,
+        "num": 383064,
+        "word": "周迅陈坤为极星汽车代言",
+        "onboard_time": 1713754158,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382966,
+        "num": 382966,
+        "word": "白色橄榄树首发预告",
+        "onboard_time": 1713753438,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350345,
+        "num": 350345,
+        "word": "华妃怎么不吃纯元的醋",
+        "onboard_time": 1713749057,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334594,
+        "num": 334594,
+        "word": "金莎已见过男友家长",
+        "onboard_time": 1713754578,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332975,
+        "num": 332975,
+        "word": "理想降价",
+        "onboard_time": 1713748939,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 324856,
+        "num": 324856,
+        "word": "唐嫣时隔15年再演仙侠剧",
+        "onboard_time": 1713755418,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283179,
+        "num": 283179,
+        "word": "薛之谦一巡黄牛票五元",
+        "onboard_time": 1713749119,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 272421,
+        "num": 272421,
+        "word": "华为智界S7截胡小米SU7",
+        "onboard_time": 1713753136,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 261604,
+        "num": 261604,
+        "word": "女律师否认副业做擦边直播",
+        "onboard_time": 1713745337,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255831,
+        "num": 255831,
+        "word": "县城家庭的三个阶层",
+        "onboard_time": 1713753438,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244450,
+        "num": 244450,
+        "word": "小熊花园定档",
+        "onboard_time": 1713752778,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239242,
+        "num": 239242,
+        "word": "仙台有树预约",
+        "onboard_time": 1713754456,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223317,
+        "num": 223317,
+        "word": "今年第二个龙年龙月龙日龙时",
+        "onboard_time": 1713743657,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230843,
+        "num": 222197,
+        "word": "TF三代出道人数",
+        "onboard_time": 1713755059,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214832,
+        "num": 214832,
+        "word": "念无双预告",
+        "onboard_time": 1713752718,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338476,
+        "num": 214179,
+        "word": "大部分情侣其实是酒肉情侣",
+        "onboard_time": 1713755418,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210160,
+        "num": 210160,
+        "word": "马龙说感谢自己在0比3时没有放弃",
+        "onboard_time": 1713740954,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204157,
+        "num": 204157,
+        "word": "电影维和防暴队芭莎大片",
+        "onboard_time": 1713755478,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202368,
+        "num": 202368,
+        "word": "2024爱奇艺世界大会官宣",
+        "onboard_time": 1713755418,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190974,
+        "num": 190974,
+        "word": "DNF手游定档",
+        "onboard_time": 1713753738,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183992,
+        "num": 183992,
+        "word": "哈尔滨一九四四死装哥和试探姐",
+        "onboard_time": 1713752898,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177395,
+        "num": 177395,
+        "word": "这歌坛还是被张予曦误闯进去了",
+        "onboard_time": 1713753978,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177356,
+        "num": 177356,
+        "word": "许嵩合肥抢票",
+        "onboard_time": 1713755719,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170766,
+        "num": 170766,
+        "word": "龚俊骗严浩翔吃青杏子",
+        "onboard_time": 1713754217,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159872,
+        "num": 159872,
+        "word": "大侦探",
+        "onboard_time": 1713755298,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159611,
+        "num": 159611,
+        "word": "马龙男单夺冠",
+        "onboard_time": 1713710062,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159136,
+        "num": 159136,
+        "word": "新说唱2024",
+        "onboard_time": 1713754578,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156441,
+        "num": 156441,
+        "word": "春色寄情人今日开播",
+        "onboard_time": 1713753798,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134551,
+        "num": 134551,
+        "word": "种地吧",
+        "onboard_time": 1713750737,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131972,
+        "num": 131972,
+        "word": "浪姐 循环利用",
+        "onboard_time": 1713746958,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128934,
+        "num": 128934,
+        "word": "剧烈运动后千万不要立刻蹲下",
+        "onboard_time": 1713755897,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127755,
+        "num": 127755,
+        "word": "马龙手好忙",
+        "onboard_time": 1713750077,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122731,
+        "num": 122731,
+        "word": "医学博士学医11年熬成脱口秀冠军",
+        "onboard_time": 1713745158,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121660,
+        "num": 121660,
+        "word": "乐言直播被封",
+        "onboard_time": 1713743356,
+        "rank": 48,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 120105,
+        "num": 120105,
+        "word": "江苏事业单位成绩",
+        "onboard_time": 1713755238,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}

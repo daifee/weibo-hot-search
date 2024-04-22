@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713753524891,
+  "endTime": 1713755974870,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -73,6 +73,14 @@
       "onboard_time": 1713654433,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1950823,
+      "num": 1950823,
+      "word": "我是O",
+      "onboard_time": 1713752838,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 1609109,
@@ -299,6 +307,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 875007,
+      "num": 875007,
+      "word": "97年的人都当综艺总导演了",
+      "onboard_time": 1713750677,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 861610,
       "num": 861610,
       "word": "罗云熙演唱会票价1680",
@@ -315,20 +331,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 852077,
+      "num": 852077,
+      "word": "广西一小区楼上坠落树根致高中生被砸身亡",
+      "onboard_time": 1713751818,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 848514,
       "num": 848514,
       "word": "皮肤科医生不建议点痣",
       "onboard_time": 1713704600,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 844167,
-      "num": 844167,
-      "word": "97年的人都当综艺总导演了",
-      "onboard_time": 1713750677,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 839464,
@@ -499,14 +515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 672466,
-      "num": 672466,
-      "word": "广西一小区楼上坠落树根致高中生被砸身亡",
-      "onboard_time": 1713751818,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 670650,
       "num": 670650,
       "word": "女生报警称遭同学脑电波窃取隐私",
@@ -545,6 +553,14 @@
       "onboard_time": 1713688697,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 641064,
+      "num": 641064,
+      "word": "朋友圈背景图",
+      "onboard_time": 1713750558,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 627573,
@@ -811,14 +827,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 521372,
-      "num": 521372,
-      "word": "我是O",
-      "onboard_time": 1713752838,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 518123,
       "num": 231370,
       "word": "我删掉了高中大学的所有同学",
@@ -939,14 +947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 476033,
-      "num": 476033,
-      "word": "朋友圈背景图",
-      "onboard_time": 1713750558,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 471420,
       "num": 471420,
       "word": "秦岚偷偷量了辛芷蕾手指尺寸",
@@ -979,6 +979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 458951,
+      "num": 458951,
+      "word": "单休的人连上九天班",
+      "onboard_time": 1713753616,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457320,
       "num": 537885,
       "word": "今年第二个龙年龙月龙日龙时",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1713711260,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 452539,
+      "num": 431071,
+      "word": "美国军方代表团抵达青岛",
+      "onboard_time": 1713752598,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 450680,
@@ -1219,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382966,
+      "num": 382966,
+      "word": "白色橄榄树首发预告",
+      "onboard_time": 1713753438,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 381023,
       "num": 381023,
       "word": "重庆90岁老人寿宴上女歌手摔倒去世",
@@ -1339,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338476,
+      "num": 214179,
+      "word": "大部分情侣其实是酒肉情侣",
+      "onboard_time": 1713755418,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 337960,
       "num": 757196,
       "word": "女子高挂10层阳台邻居大哥机智救援",
@@ -1395,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334594,
+      "num": 334594,
+      "word": "金莎已见过男友家长",
+      "onboard_time": 1713754578,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 334543,
       "num": 334543,
       "word": "医学博士学医11年熬成脱口秀冠军",
@@ -1416,6 +1456,14 @@
       "word": "贤佑海仁睡了我出生了",
       "onboard_time": 1713629060,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 324856,
+      "num": 324856,
+      "word": "唐嫣时隔15年再演仙侠剧",
+      "onboard_time": 1713755418,
+      "rank": 20,
       "category": "剧集"
     },
     {
@@ -1555,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272421,
+      "num": 272421,
+      "word": "华为智界S7截胡小米SU7",
+      "onboard_time": 1713753136,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 271832,
       "num": 271832,
       "word": "哪吒张勇致歉",
@@ -1635,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255831,
+      "num": 255831,
+      "word": "县城家庭的三个阶层",
+      "onboard_time": 1713753438,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254505,
       "num": 254505,
       "word": "全场为周冠宇欢呼",
@@ -1699,6 +1763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251702,
+      "num": 384098,
+      "word": "有薄膜的一次性咖啡杯30年才能降解",
+      "onboard_time": 1713755358,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 251367,
       "num": 251367,
       "word": "以闪亮之名",
@@ -1755,14 +1827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241288,
-      "num": 241288,
-      "word": "美国军方代表团抵达青岛",
-      "onboard_time": 1713752598,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 241038,
       "num": 241038,
       "word": "李现内娱第一个在采访里笑哭的",
@@ -1777,6 +1841,14 @@
       "onboard_time": 1713659176,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 239242,
+      "num": 239242,
+      "word": "仙台有树预约",
+      "onboard_time": 1713754456,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 238325,
@@ -1825,6 +1897,14 @@
       "onboard_time": 1713742816,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 230843,
+      "num": 222197,
+      "word": "TF三代出道人数",
+      "onboard_time": 1713755059,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 230223,
@@ -2083,6 +2163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204157,
+      "num": 204157,
+      "word": "电影维和防暴队芭莎大片",
+      "onboard_time": 1713755478,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203554,
       "num": 203554,
       "word": "詹姆斯腿软了",
@@ -2113,6 +2201,14 @@
       "onboard_time": 1713699858,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 202368,
+      "num": 202368,
+      "word": "2024爱奇艺世界大会官宣",
+      "onboard_time": 1713755418,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 201928,
@@ -2363,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190974,
+      "num": 190974,
+      "word": "DNF手游定档",
+      "onboard_time": 1713753738,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190813,
       "num": 190813,
       "word": "哈尔滨一九四四死装哥和试探姐",
@@ -2603,6 +2707,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177395,
+      "num": 177395,
+      "word": "这歌坛还是被张予曦误闯进去了",
+      "onboard_time": 1713753978,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177356,
+      "num": 177356,
+      "word": "许嵩合肥抢票",
+      "onboard_time": 1713755719,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 177132,
       "num": 177132,
       "word": "以方称将召见6个支持巴勒斯坦入联国家大使",
@@ -2707,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170766,
+      "num": 170766,
+      "word": "龚俊骗严浩翔吃青杏子",
+      "onboard_time": 1713754217,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169889,
       "num": 169889,
       "word": "理想汽车盘初低开5.83%",
@@ -2803,14 +2931,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 162195,
-      "num": 162195,
-      "word": "华为智界S7截胡小米SU7",
-      "onboard_time": 1713753136,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 162137,
       "num": 162137,
       "word": "辛巴 太原老葛",
@@ -2875,6 +2995,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 159872,
+      "num": 159872,
+      "word": "大侦探",
+      "onboard_time": 1713755298,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159136,
+      "num": 159136,
+      "word": "新说唱2024",
+      "onboard_time": 1713754578,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158684,
       "num": 158684,
       "word": "眼泪女王预告",
@@ -2929,6 +3065,14 @@
       "onboard_time": 1713688697,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156441,
+      "num": 156441,
+      "word": "春色寄情人今日开播",
+      "onboard_time": 1713753798,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 156002,
@@ -3075,14 +3219,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 148051,
-      "num": 148051,
-      "word": "县城家庭的三个阶层",
-      "onboard_time": 1713753438,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 147663,
       "num": 147663,
       "word": "KPL",
@@ -3153,14 +3289,6 @@
       "onboard_time": 1713677058,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145573,
-      "num": 145573,
-      "word": "白色橄榄树首发预告",
-      "onboard_time": 1713753438,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 144837,
@@ -3499,6 +3627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128934,
+      "num": 128934,
+      "word": "剧烈运动后千万不要立刻蹲下",
+      "onboard_time": 1713755897,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 128845,
       "num": 128845,
       "word": "这么大个熊了吃饭还要人喂",
@@ -3593,6 +3729,14 @@
       "onboard_time": 1713687138,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120105,
+      "num": 120105,
+      "word": "江苏事业单位成绩",
+      "onboard_time": 1713755238,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 119312,
@@ -3907,6 +4051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 71647,
+      "num": 383064,
+      "word": "周迅陈坤为极星汽车代言",
+      "onboard_time": 1713754158,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71215,
       "num": 98999,
       "word": "放个风筝不小心成为了play的一环",
@@ -4105,6 +4257,14 @@
       "onboard_time": 1713642851,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 28456,
+      "num": 857315,
+      "word": "潮起互联网奔涌三十年",
+      "onboard_time": 1713755478,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28330,

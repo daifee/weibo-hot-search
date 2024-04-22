@@ -1,6 +1,6 @@
 {
   "startTime": 1713716506059,
-  "endTime": 1713753524891,
+  "endTime": 1713755974870,
   "band_list": [
     {
       "raw_hot": 2376669,
@@ -9,6 +9,14 @@
       "onboard_time": 1713745579,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1950823,
+      "num": 1950823,
+      "word": "我是O",
+      "onboard_time": 1713752838,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 1609109,
@@ -83,12 +91,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 844167,
-      "num": 844167,
+      "raw_hot": 875007,
+      "num": 875007,
       "word": "97年的人都当综艺总导演了",
       "onboard_time": 1713750677,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 852077,
+      "num": 852077,
+      "word": "广西一小区楼上坠落树根致高中生被砸身亡",
+      "onboard_time": 1713751818,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 732342,
@@ -131,20 +147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 672466,
-      "num": 672466,
-      "word": "广西一小区楼上坠落树根致高中生被砸身亡",
-      "onboard_time": 1713751818,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 670950,
       "num": 670950,
       "word": "罗云熙演唱会票价1680",
       "onboard_time": 1713708681,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 641064,
+      "num": 641064,
+      "word": "朋友圈背景图",
+      "onboard_time": 1713750558,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 598677,
@@ -195,14 +211,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 521372,
-      "num": 521372,
-      "word": "我是O",
-      "onboard_time": 1713752838,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 515351,
       "num": 515351,
       "word": "本周日要调休上班",
@@ -227,14 +235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 476033,
-      "num": 476033,
-      "word": "朋友圈背景图",
-      "onboard_time": 1713750558,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 474311,
       "num": 474311,
       "word": "本周狗屎运最旺的星座TOP4",
@@ -251,6 +251,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 458951,
+      "num": 458951,
+      "word": "单休的人连上九天班",
+      "onboard_time": 1713753616,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457320,
       "num": 537885,
       "word": "今年第二个龙年龙月龙日龙时",
@@ -265,6 +273,14 @@
       "onboard_time": 1713707122,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452539,
+      "num": 431071,
+      "word": "美国军方代表团抵达青岛",
+      "onboard_time": 1713752598,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 422104,
@@ -288,6 +304,14 @@
       "word": "杨幂演技",
       "onboard_time": 1713705680,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 382966,
+      "num": 382966,
+      "word": "白色橄榄树首发预告",
+      "onboard_time": 1713753438,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -315,6 +339,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338476,
+      "num": 214179,
+      "word": "大部分情侣其实是酒肉情侣",
+      "onboard_time": 1713755418,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 334594,
+      "num": 334594,
+      "word": "金莎已见过男友家长",
+      "onboard_time": 1713754578,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 334543,
       "num": 334543,
       "word": "医学博士学医11年熬成脱口秀冠军",
@@ -329,6 +369,14 @@
       "onboard_time": 1713707060,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 324856,
+      "num": 324856,
+      "word": "唐嫣时隔15年再演仙侠剧",
+      "onboard_time": 1713755418,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 311446,
@@ -403,12 +451,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272421,
+      "num": 272421,
+      "word": "华为智界S7截胡小米SU7",
+      "onboard_time": 1713753136,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 261222,
       "num": 261222,
       "word": "念无双预告",
       "onboard_time": 1713752718,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255831,
+      "num": 255831,
+      "word": "县城家庭的三个阶层",
+      "onboard_time": 1713753438,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 253932,
@@ -427,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251702,
+      "num": 384098,
+      "word": "有薄膜的一次性咖啡杯30年才能降解",
+      "onboard_time": 1713755358,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 247728,
       "num": 247728,
       "word": "周杰伦演唱会",
@@ -443,12 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241288,
-      "num": 241288,
-      "word": "美国军方代表团抵达青岛",
-      "onboard_time": 1713752598,
-      "rank": 38,
-      "category": "国内时政"
+      "raw_hot": 239242,
+      "num": 239242,
+      "word": "仙台有树预约",
+      "onboard_time": 1713754456,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 230855,
@@ -457,6 +529,14 @@
       "onboard_time": 1713742816,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 230843,
+      "num": 222197,
+      "word": "TF三代出道人数",
+      "onboard_time": 1713755059,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 217750,
@@ -499,12 +579,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204157,
+      "num": 204157,
+      "word": "电影维和防暴队芭莎大片",
+      "onboard_time": 1713755478,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203335,
       "num": 203335,
       "word": "二三十岁加过的班能伤到50岁的你",
       "onboard_time": 1713745520,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 202368,
+      "num": 202368,
+      "word": "2024爱奇艺世界大会官宣",
+      "onboard_time": 1713755418,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 195377,
@@ -537,6 +633,14 @@
       "onboard_time": 1713716957,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190974,
+      "num": 190974,
+      "word": "DNF手游定档",
+      "onboard_time": 1713753738,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 190813,
@@ -619,6 +723,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 177395,
+      "num": 177395,
+      "word": "这歌坛还是被张予曦误闯进去了",
+      "onboard_time": 1713753978,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177356,
+      "num": 177356,
+      "word": "许嵩合肥抢票",
+      "onboard_time": 1713755719,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 176531,
       "num": 164509,
       "word": "永远不低估一颗冠军的心",
@@ -649,6 +769,14 @@
       "onboard_time": 1713746179,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170766,
+      "num": 170766,
+      "word": "龚俊骗严浩翔吃青杏子",
+      "onboard_time": 1713754217,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 169895,
@@ -683,20 +811,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 162195,
-      "num": 162195,
-      "word": "华为智界S7截胡小米SU7",
-      "onboard_time": 1713753136,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 162009,
       "num": 162009,
       "word": "韩网评价金秀贤演技",
       "onboard_time": 1713722652,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159872,
+      "num": 159872,
+      "word": "大侦探",
+      "onboard_time": 1713755298,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159136,
+      "num": 159136,
+      "word": "新说唱2024",
+      "onboard_time": 1713754578,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 158684,
@@ -713,6 +849,14 @@
       "onboard_time": 1713751578,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 156441,
+      "num": 156441,
+      "word": "春色寄情人今日开播",
+      "onboard_time": 1713753798,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 155525,
@@ -755,14 +899,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 148051,
-      "num": 148051,
-      "word": "县城家庭的三个阶层",
-      "onboard_time": 1713753438,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 147146,
       "num": 147146,
       "word": "曼联",
@@ -792,14 +928,6 @@
       "word": "哈尔滨一九四四收视率",
       "onboard_time": 1713707300,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 145573,
-      "num": 145573,
-      "word": "白色橄榄树首发预告",
-      "onboard_time": 1713753438,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -875,12 +1003,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128934,
+      "num": 128934,
+      "word": "剧烈运动后千万不要立刻蹲下",
+      "onboard_time": 1713755897,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 122461,
       "num": 122461,
       "word": "夏之光田嘉瑞的i人party",
       "onboard_time": 1713749598,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120105,
+      "num": 120105,
+      "word": "江苏事业单位成绩",
+      "onboard_time": 1713755238,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 119312,
@@ -1019,6 +1163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 71647,
+      "num": 383064,
+      "word": "周迅陈坤为极星汽车代言",
+      "onboard_time": 1713754158,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61163,
       "num": 61163,
       "word": "考文垂5比7曼联",
@@ -1057,6 +1209,14 @@
       "onboard_time": 1713703458,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28456,
+      "num": 857315,
+      "word": "潮起互联网奔涌三十年",
+      "onboard_time": 1713755478,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21513,
