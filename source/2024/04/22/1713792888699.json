@@ -1,0 +1,410 @@
+{
+  "runTime": 1713792888699,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1460191,
+        "num": 1460191,
+        "word": "北科大女生 求你别再骗我妈救命钱",
+        "onboard_time": 1713789799,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1118762,
+        "num": 1118762,
+        "word": "爱情公寓秦羽墨开美甲店",
+        "onboard_time": 1713787639,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53336,
+        "num": 1019929,
+        "word": "世界读书日开卷有益",
+        "onboard_time": 1713789559,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 980188,
+        "num": 980188,
+        "word": "鱼 愿天堂没有给",
+        "onboard_time": 1713786917,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 803176,
+        "num": 803176,
+        "word": "iPhone16或取消实体音量键电源键",
+        "onboard_time": 1713785117,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 733383,
+        "num": 733383,
+        "word": "台湾1小时内发生10起地震",
+        "onboard_time": 1713785656,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575247,
+        "num": 575247,
+        "word": "难哄 大事很妙",
+        "onboard_time": 1713786138,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 476513,
+        "num": 476513,
+        "word": "斗鱼CEO陈少杰已取保候审",
+        "onboard_time": 1713789138,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 455638,
+        "num": 455638,
+        "word": "东北雨姐做手术",
+        "onboard_time": 1713786437,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 129103,
+        "num": 448873,
+        "word": "老师以考试奖励名义送学生新鞋",
+        "onboard_time": 1713773419,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2348129,
+        "num": 437053,
+        "word": "郑乃馨承认恋情",
+        "onboard_time": 1713786198,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583979,
+        "num": 408934,
+        "word": "余罪再次下架",
+        "onboard_time": 1713782478,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461759,
+        "num": 397687,
+        "word": "硬糖少女303",
+        "onboard_time": 1713787521,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387976,
+        "num": 387976,
+        "word": "只有大学生才知道这有多爽",
+        "onboard_time": 1713787818,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 360648,
+        "num": 360648,
+        "word": "金世佳和王传君打过视频后哭了",
+        "onboard_time": 1713782537,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353441,
+        "num": 353441,
+        "word": "向佐郭碧婷综艺人缘",
+        "onboard_time": 1713789079,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272507,
+        "num": 272507,
+        "word": "日本年轻人开始流行友情婚",
+        "onboard_time": 1713762620,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256182,
+        "num": 256182,
+        "word": "晚宴上的杨幂",
+        "onboard_time": 1713792439,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230281,
+        "num": 230281,
+        "word": "12306回应公众号发疯留言能求到票",
+        "onboard_time": 1713778457,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229111,
+        "num": 229111,
+        "word": "刘芮麟 今晚又看你谈恋爱",
+        "onboard_time": 1713792080,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 711264,
+        "num": 227363,
+        "word": "婚前性行为该拒绝吗",
+        "onboard_time": 1713791180,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 379788,
+        "num": 226065,
+        "word": "55岁农妇杀害3岁男孩一审被判死刑",
+        "onboard_time": 1713790518,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357831,
+        "num": 225217,
+        "word": "女子常熬夜胸痛难忍才就医确诊肺癌晚期",
+        "onboard_time": 1713782898,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 224261,
+        "num": 224261,
+        "word": "猴子都不吃的轻食我吃了",
+        "onboard_time": 1713783978,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213046,
+        "num": 213046,
+        "word": "鹿晗直播王勉钓鱼",
+        "onboard_time": 1713788899,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208366,
+        "num": 208366,
+        "word": "尔滨三害一个狠一个疯一个癫",
+        "onboard_time": 1713787219,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194899,
+        "num": 194899,
+        "word": "种地吧剪辑",
+        "onboard_time": 1713792140,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167996,
+        "num": 188841,
+        "word": "姚明问谷爱凌参不参加夏奥会",
+        "onboard_time": 1713788838,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24368,
+        "num": 187519,
+        "word": "挑战地心引力",
+        "onboard_time": 1713791059,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138093,
+        "num": 186611,
+        "word": "河北一粮库2年近万吨玉米不翼而飞",
+        "onboard_time": 1713779057,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186308,
+        "num": 186308,
+        "word": "Mari 退赛",
+        "onboard_time": 1713781878,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180451,
+        "num": 180451,
+        "word": "赵丽颖拍猪吃零食",
+        "onboard_time": 1713786679,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170372,
+        "num": 170372,
+        "word": "ADOR立场",
+        "onboard_time": 1713792258,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165081,
+        "num": 165081,
+        "word": "背着善宰跑",
+        "onboard_time": 1713789379,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134666,
+        "num": 151527,
+        "word": "你会把旧手机给父母用吗",
+        "onboard_time": 1713790879,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144079,
+        "num": 144079,
+        "word": "林俊杰苏州 抢票",
+        "onboard_time": 1713788120,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143488,
+        "num": 143488,
+        "word": "闵熙珍称ILLIT抄袭",
+        "onboard_time": 1713782058,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143455,
+        "num": 143455,
+        "word": "宋亚轩把丁程鑫认成熊",
+        "onboard_time": 1713789799,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132683,
+        "num": 132683,
+        "word": "为什么苍蝇一停下来就喜欢搓手",
+        "onboard_time": 1713792199,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 124365,
+        "num": 124365,
+        "word": "失业后才懂得拒绝进厨房是一种权力",
+        "onboard_time": 1713778098,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142199,
+        "num": 124333,
+        "word": "黄晓明发了姚志明",
+        "onboard_time": 1713784758,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139843,
+        "num": 120526,
+        "word": "恋综收官来真的",
+        "onboard_time": 1713790159,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135741,
+        "num": 118274,
+        "word": "王安宇再唱Are you ok",
+        "onboard_time": 1713792799,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134714,
+        "num": 117451,
+        "word": "罗伯特说杨幂一出马就是女王范儿",
+        "onboard_time": 1713788838,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116083,
+        "num": 116083,
+        "word": "广东强降雨已致4死10失联",
+        "onboard_time": 1713781098,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100414,
+        "num": 115708,
+        "word": "樊振东四冠王的松弛感",
+        "onboard_time": 1713786558,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100073,
+        "num": 115544,
+        "word": "别再用隔夜米做蛋炒饭了",
+        "onboard_time": 1713792199,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 93498,
+        "num": 115020,
+        "word": "不孕女子喜获3胞胎同卵异卵同出现",
+        "onboard_time": 1713779418,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87516,
+        "num": 114883,
+        "word": "台湾花莲海域5.3级地震",
+        "onboard_time": 1713778457,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82832,
+        "num": 114579,
+        "word": "孩子是被家长推向网络的",
+        "onboard_time": 1713786437,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}

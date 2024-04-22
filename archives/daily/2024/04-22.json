@@ -1,6 +1,6 @@
 {
   "startTime": 1713716506059,
-  "endTime": 1713792015450,
+  "endTime": 1713792888699,
   "band_list": [
     {
       "raw_hot": 2693897,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1460191,
+      "num": 1460191,
+      "word": "北科大女生 求你别再骗我妈救命钱",
+      "onboard_time": 1713789799,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1378340,
       "num": 678458,
       "word": "擦边球",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1204788,
-      "num": 967595,
+      "num": 980188,
       "word": "鱼 愿天堂没有给",
       "onboard_time": 1713786917,
       "rank": 3,
@@ -145,6 +153,14 @@
       "onboard_time": 1713764778,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1118762,
+      "num": 1118762,
+      "word": "爱情公寓秦羽墨开美甲店",
+      "onboard_time": 1713787639,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1112023,
@@ -235,28 +251,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 966124,
-      "num": 966124,
-      "word": "爱情公寓秦羽墨开美甲店",
-      "onboard_time": 1713787639,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 943972,
       "num": 707384,
       "word": "秦海璐在买防窥膜了",
       "onboard_time": 1713766100,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 922405,
-      "num": 922405,
-      "word": "北科大女生 求你别再骗我妈救命钱",
-      "onboard_time": 1713789799,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 919522,
@@ -393,6 +393,14 @@
       "onboard_time": 1713758598,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 711264,
+      "num": 231732,
+      "word": "婚前性行为该拒绝吗",
+      "onboard_time": 1713791180,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 708753,
@@ -707,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 476513,
+      "num": 476513,
+      "word": "斗鱼CEO陈少杰已取保候审",
+      "onboard_time": 1713789138,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 474311,
       "num": 474311,
       "word": "本周狗屎运最旺的星座TOP4",
@@ -771,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 452542,
-      "num": 452542,
-      "word": "斗鱼CEO陈少杰已取保候审",
-      "onboard_time": 1713789138,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 450970,
       "num": 371064,
       "word": "马龙孙颖莎冠军合照",
@@ -827,14 +835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 408979,
-      "num": 231732,
-      "word": "婚前性行为该拒绝吗",
-      "onboard_time": 1713791180,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 398804,
       "num": 398804,
       "word": "陈丽君断层第一",
@@ -865,6 +865,14 @@
       "onboard_time": 1713760820,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387976,
+      "num": 387976,
+      "word": "只有大学生才知道这有多爽",
+      "onboard_time": 1713787818,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 383055,
@@ -947,20 +955,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 354208,
-      "num": 354208,
-      "word": "只有大学生才知道这有多爽",
-      "onboard_time": 1713787818,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 354034,
       "num": 354034,
       "word": "调休",
       "onboard_time": 1713771258,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353441,
+      "num": 353441,
+      "word": "向佐郭碧婷综艺人缘",
+      "onboard_time": 1713789079,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 353184,
@@ -1009,14 +1017,6 @@
       "onboard_time": 1713707060,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 323343,
-      "num": 323343,
-      "word": "向佐郭碧婷综艺人缘",
-      "onboard_time": 1713789079,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 321724,
@@ -1283,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256182,
+      "num": 256182,
+      "word": "晚宴上的杨幂",
+      "onboard_time": 1713792439,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 254246,
       "num": 254246,
       "word": "24岁我终于决定裸辞了",
@@ -1457,6 +1465,14 @@
       "onboard_time": 1713779057,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229111,
+      "num": 229111,
+      "word": "刘芮麟 今晚又看你谈恋爱",
+      "onboard_time": 1713792080,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 222773,
@@ -1696,6 +1712,14 @@
       "word": "范丞丞你真的很懂",
       "onboard_time": 1713713779,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194899,
+      "num": 194899,
+      "word": "种地吧剪辑",
+      "onboard_time": 1713792140,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -2051,8 +2075,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170372,
+      "num": 170372,
+      "word": "ADOR立场",
+      "onboard_time": 1713792258,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170344,
-      "num": 170344,
+      "num": 188841,
       "word": "姚明问谷爱凌参不参加夏奥会",
       "onboard_time": 1713788838,
       "rank": 46,
@@ -2284,7 +2316,7 @@
     },
     {
       "raw_hot": 154193,
-      "num": 114237,
+      "num": 120526,
       "word": "恋综收官来真的",
       "onboard_time": 1713790159,
       "rank": 41,
@@ -2507,6 +2539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135741,
+      "num": 118274,
+      "word": "王安宇再唱Are you ok",
+      "onboard_time": 1713792799,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133924,
       "num": 133924,
       "word": "金秀贤演技炸裂",
@@ -2521,6 +2561,14 @@
       "onboard_time": 1713740894,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132683,
+      "num": 132683,
+      "word": "为什么苍蝇一停下来就喜欢搓手",
+      "onboard_time": 1713792199,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 132436,
@@ -2819,6 +2867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 100073,
+      "num": 115544,
+      "word": "别再用隔夜米做蛋炒饭了",
+      "onboard_time": 1713792199,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 99375,
       "num": 99375,
       "word": "柳岩禁欲系全黑造型",
@@ -2947,20 +3003,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53336,
+      "num": 1019929,
+      "word": "世界读书日开卷有益",
+      "onboard_time": 1713789559,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50600,
       "num": 503196,
       "word": "极氪玩转猎装派对",
       "onboard_time": 1713785959,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49361,
-      "num": 912391,
-      "word": "世界读书日开卷有益",
-      "onboard_time": 1713789559,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42439,
@@ -2996,7 +3052,7 @@
     },
     {
       "raw_hot": 29295,
-      "num": 169702,
+      "num": 187519,
       "word": "挑战地心引力",
       "onboard_time": 1713791059,
       "rank": 28,
