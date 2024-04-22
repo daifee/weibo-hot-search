@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713748563910,
+  "endTime": 1713749807536,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -4459,6 +4459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1001509,
+      "num": 438852,
+      "word": "女律师否认副业做擦边直播",
+      "onboard_time": 1713745337,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1001086,
       "num": 556736,
       "word": "官方通报昆明多家医院现男性根浴",
@@ -4488,14 +4496,6 @@
       "word": "北京市副市长高朋被查",
       "onboard_time": 1713707122,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 996320,
-      "num": 421248,
-      "word": "女律师否认副业做擦边直播",
-      "onboard_time": 1713745337,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -12843,6 +12843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 519325,
+      "num": 519325,
+      "word": "理想降价",
+      "onboard_time": 1713748939,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 519154,
       "num": 519154,
       "word": "这4种食物是尿毒症的加速器",
@@ -12969,6 +12977,14 @@
       "onboard_time": 1712811258,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 515351,
+      "num": 515351,
+      "word": "本周日要调休上班",
+      "onboard_time": 1713747499,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515208,
@@ -14092,7 +14108,7 @@
     },
     {
       "raw_hot": 484738,
-      "num": 417585,
+      "num": 472039,
       "word": "浪姐 循环利用",
       "onboard_time": 1713746958,
       "rank": 12,
@@ -15161,6 +15177,14 @@
       "onboard_time": 1712791214,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 457320,
+      "num": 457320,
+      "word": "今年第二个龙年龙月龙日龙时",
+      "onboard_time": 1713743657,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457265,
@@ -16667,14 +16691,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 425032,
-      "num": 425032,
-      "word": "今年第二个龙年龙月龙日龙时",
-      "onboard_time": 1713743657,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 424953,
       "num": 424953,
       "word": "福宝躺着吃笋满身竹笋皮",
@@ -17081,14 +17097,6 @@
       "onboard_time": 1712186355,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 414375,
-      "num": 414375,
-      "word": "本周日要调休上班",
-      "onboard_time": 1713747499,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 413441,
@@ -24611,6 +24619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 282112,
+      "num": 260708,
+      "word": "2岁男童疑菜市场接触鱼住进ICU",
+      "onboard_time": 1713744681,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281958,
       "num": 265208,
       "word": "台湾花莲地震现场画面",
@@ -25153,14 +25169,6 @@
       "onboard_time": 1713194420,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 274993,
-      "num": 260708,
-      "word": "2岁男童疑菜市场接触鱼住进ICU",
-      "onboard_time": 1713744681,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274990,
@@ -25971,6 +25979,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 264344,
+      "num": 264344,
+      "word": "华妃怎么不吃纯元的醋",
+      "onboard_time": 1713749057,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264287,
       "num": 264287,
       "word": "明日方舟",
@@ -26761,6 +26777,14 @@
       "onboard_time": 1713245239,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 256885,
+      "num": 256885,
+      "word": "薛之谦一巡黄牛票五元",
+      "onboard_time": 1713749119,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 256823,
@@ -32025,6 +32049,14 @@
       "onboard_time": 1712543059,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213556,
+      "num": 213556,
+      "word": "利拉德杀疯了",
+      "onboard_time": 1713748457,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 213523,
@@ -47171,6 +47203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150151,
+      "num": 150151,
+      "word": "杨幂眼神",
+      "onboard_time": 1713747378,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150134,
       "num": 150134,
       "word": "魔兽世界",
@@ -47905,14 +47945,6 @@
       "onboard_time": 1711957759,
       "rank": 41,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 147451,
-      "num": 147451,
-      "word": "杨幂眼神",
-      "onboard_time": 1713747378,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 147434,
@@ -51603,6 +51635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 131896,
+      "num": 131896,
+      "word": "国乒沙特大满贯见",
+      "onboard_time": 1713749298,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131868,
       "num": 131868,
       "word": "姚明看F1",
@@ -53067,14 +53107,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 124304,
-      "num": 124304,
-      "word": "利拉德杀疯了",
-      "onboard_time": 1713748457,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124244,
       "num": 124244,
       "word": "广州多区暴雨黄色预警",
@@ -53361,6 +53393,14 @@
       "onboard_time": 1712284038,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122461,
+      "num": 122461,
+      "word": "夏之光田嘉瑞的i人party",
+      "onboard_time": 1713749598,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 122455,

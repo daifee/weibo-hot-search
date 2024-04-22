@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713748563910,
+  "endTime": 1713749807536,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2376669,
-      "num": 423850,
+      "num": 439845,
       "word": "五一调休",
       "onboard_time": 1713745579,
       "rank": 10,
@@ -243,19 +243,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1001509,
+      "num": 438852,
+      "word": "女律师否认副业做擦边直播",
+      "onboard_time": 1713745337,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 997702,
       "num": 997702,
       "word": "北京市副市长高朋被查",
       "onboard_time": 1713707122,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 996320,
-      "num": 421248,
-      "word": "女律师否认副业做擦边直播",
-      "onboard_time": 1713745337,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -755,12 +755,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 519325,
+      "num": 519325,
+      "word": "理想降价",
+      "onboard_time": 1713748939,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 518123,
       "num": 231370,
       "word": "我删掉了高中大学的所有同学",
       "onboard_time": 1713619820,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 515351,
+      "num": 515351,
+      "word": "本周日要调休上班",
+      "onboard_time": 1713747499,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 513586,
@@ -836,7 +852,7 @@
     },
     {
       "raw_hot": 484738,
-      "num": 417585,
+      "num": 472039,
       "word": "浪姐 循环利用",
       "onboard_time": 1713746958,
       "rank": 12,
@@ -897,6 +913,14 @@
       "onboard_time": 1713711801,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 457320,
+      "num": 457320,
+      "word": "今年第二个龙年龙月龙日龙时",
+      "onboard_time": 1713743657,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455209,
@@ -987,14 +1011,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 425032,
-      "num": 425032,
-      "word": "今年第二个龙年龙月龙日龙时",
-      "onboard_time": 1713743657,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 421150,
       "num": 421150,
       "word": "周杰伦演唱会vip座大妈睡着了",
@@ -1033,14 +1049,6 @@
       "onboard_time": 1713687438,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 414375,
-      "num": 414375,
-      "word": "本周日要调休上班",
-      "onboard_time": 1713747499,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 413899,
@@ -1443,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282112,
+      "num": 260708,
+      "word": "2岁男童疑菜市场接触鱼住进ICU",
+      "onboard_time": 1713744681,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278877,
       "num": 226241,
       "word": "原来这就是不胖和很瘦的区别",
@@ -1457,14 +1473,6 @@
       "onboard_time": 1713680237,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 274993,
-      "num": 260708,
-      "word": "2岁男童疑菜市场接触鱼住进ICU",
-      "onboard_time": 1713744681,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274990,
@@ -1507,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264344,
+      "num": 264344,
+      "word": "华妃怎么不吃纯元的醋",
+      "onboard_time": 1713749057,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262825,
       "num": 130672,
       "word": "郭碧婷曾被导演要求打瘦脸针",
@@ -1528,6 +1544,14 @@
       "word": "杨千嬅哭了",
       "onboard_time": 1713625520,
       "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 256885,
+      "num": 256885,
+      "word": "薛之谦一巡黄牛票五元",
+      "onboard_time": 1713749119,
+      "rank": 19,
       "category": "演出"
     },
     {
@@ -1625,6 +1649,14 @@
       "onboard_time": 1713708742,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247728,
+      "num": 247728,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1713747978,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 244761,
@@ -1803,14 +1835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218537,
-      "num": 218537,
-      "word": "周杰伦演唱会",
-      "onboard_time": 1713747978,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 218207,
       "num": 218207,
       "word": "TheShy直播除三害",
@@ -1857,6 +1881,14 @@
       "onboard_time": 1713743657,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213556,
+      "num": 213556,
+      "word": "利拉德杀疯了",
+      "onboard_time": 1713748457,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 213211,
@@ -2827,6 +2859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150151,
+      "num": 150151,
+      "word": "杨幂眼神",
+      "onboard_time": 1713747378,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149656,
       "num": 149656,
       "word": "日本2架失联直升机初步判断已坠毁",
@@ -2881,14 +2921,6 @@
       "onboard_time": 1713623840,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147451,
-      "num": 147451,
-      "word": "杨幂眼神",
-      "onboard_time": 1713747378,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 147146,
@@ -3211,6 +3243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131896,
+      "num": 131896,
+      "word": "国乒沙特大满贯见",
+      "onboard_time": 1713749298,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131868,
       "num": 131868,
       "word": "姚明看F1",
@@ -3339,20 +3379,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124304,
-      "num": 124304,
-      "word": "利拉德杀疯了",
-      "onboard_time": 1713748457,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124144,
       "num": 124144,
       "word": "张艺兴玩鳄鱼玩具玩上瘾了",
       "onboard_time": 1713670877,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122461,
+      "num": 122461,
+      "word": "夏之光田嘉瑞的i人party",
+      "onboard_time": 1713749598,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 120649,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1713749807536,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1401275,
+        "num": 1401275,
+        "word": "金价涨到700后不敢买也不敢卖",
+        "onboard_time": 1713743537,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1057865,
+        "num": 1057865,
+        "word": "12306从未授权第三方平台发售火车票",
+        "onboard_time": 1713744919,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10845,
+        "num": 888175,
+        "word": "用中国传统色打开春耕画卷",
+        "onboard_time": 1713686178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868261,
+        "num": 868261,
+        "word": "女子癌症晚期成了网红",
+        "onboard_time": 1713743537,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519325,
+        "num": 519325,
+        "word": "理想降价",
+        "onboard_time": 1713748939,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 515351,
+        "num": 515351,
+        "word": "本周日要调休上班",
+        "onboard_time": 1713747499,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472039,
+        "num": 472039,
+        "word": "浪姐 循环利用",
+        "onboard_time": 1713746958,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457320,
+        "num": 457320,
+        "word": "今年第二个龙年龙月龙日龙时",
+        "onboard_time": 1713743657,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456464,
+        "num": 456464,
+        "word": "马龙说感谢自己在0比3时没有放弃",
+        "onboard_time": 1713740954,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441713,
+        "num": 441713,
+        "word": "女子称一个月光洗澡燃气费达130多元",
+        "onboard_time": 1713718575,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1960136,
+        "num": 439845,
+        "word": "五一调休",
+        "onboard_time": 1713745579,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1001509,
+        "num": 438852,
+        "word": "女律师否认副业做擦边直播",
+        "onboard_time": 1713745337,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437520,
+        "num": 437520,
+        "word": "为何年轻人个人养老金缴存积极性不高",
+        "onboard_time": 1713742997,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393949,
+        "num": 393949,
+        "word": "罗云熙演唱会票价1680",
+        "onboard_time": 1713708681,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 358176,
+        "num": 358176,
+        "word": "乐言直播被封",
+        "onboard_time": 1713743356,
+        "rank": 14,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 327855,
+        "num": 327855,
+        "word": "钟薛高创始人称卖红薯也要把债还上",
+        "onboard_time": 1713707361,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 288056,
+        "num": 288056,
+        "word": "为什么闭上眼睛能看到诡异的波纹",
+        "onboard_time": 1713731651,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 286435,
+        "num": 286435,
+        "word": "医学博士学医11年熬成脱口秀冠军",
+        "onboard_time": 1713745158,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264344,
+        "num": 264344,
+        "word": "华妃怎么不吃纯元的醋",
+        "onboard_time": 1713749057,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256885,
+        "num": 256885,
+        "word": "薛之谦一巡黄牛票五元",
+        "onboard_time": 1713749119,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 282112,
+        "num": 256850,
+        "word": "2岁男童疑菜市场接触鱼住进ICU",
+        "onboard_time": 1713744681,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247728,
+        "num": 247728,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1713747978,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243660,
+        "num": 243660,
+        "word": "中国土味短剧在日本火了",
+        "onboard_time": 1713728050,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234646,
+        "num": 234646,
+        "word": "马龙男单夺冠",
+        "onboard_time": 1713710062,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226896,
+        "num": 226896,
+        "word": "美国老人感染僵尸鹿病毒死亡",
+        "onboard_time": 1713705440,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213556,
+        "num": 213556,
+        "word": "利拉德杀疯了",
+        "onboard_time": 1713748457,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199029,
+        "num": 199029,
+        "word": "二三十岁加过的班能伤到50岁的你",
+        "onboard_time": 1713745520,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196263,
+        "num": 196263,
+        "word": "陈丽君断层第一",
+        "onboard_time": 1713704359,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193474,
+        "num": 193474,
+        "word": "起床后按顺序做好5件事",
+        "onboard_time": 1713745819,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180083,
+        "num": 180083,
+        "word": "杨幂演技",
+        "onboard_time": 1713705680,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176705,
+        "num": 176705,
+        "word": "擦边球",
+        "onboard_time": 1713706581,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168940,
+        "num": 168940,
+        "word": "庄达菲妈咪陈昊宇",
+        "onboard_time": 1713707060,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161444,
+        "num": 161444,
+        "word": "破墓",
+        "onboard_time": 1713743476,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160566,
+        "num": 160566,
+        "word": "雍和宫偶遇董卿",
+        "onboard_time": 1713743657,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156254,
+        "num": 156254,
+        "word": "全红婵摘银后公主抱英国铜牌得主",
+        "onboard_time": 1713707181,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155592,
+        "num": 155592,
+        "word": "林俊杰新歌",
+        "onboard_time": 1713742816,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150151,
+        "num": 150151,
+        "word": "杨幂眼神",
+        "onboard_time": 1713747378,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146987,
+        "num": 146987,
+        "word": "seventeen克拉盘",
+        "onboard_time": 1713744318,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146514,
+        "num": 146514,
+        "word": "李云霄长沙",
+        "onboard_time": 1713746179,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139940,
+        "num": 139940,
+        "word": "韩网评价金秀贤演技",
+        "onboard_time": 1713722652,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132053,
+        "num": 132053,
+        "word": "娄艺潇cos武则天",
+        "onboard_time": 1713711801,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131896,
+        "num": 131896,
+        "word": "国乒沙特大满贯见",
+        "onboard_time": 1713749298,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130104,
+        "num": 130104,
+        "word": "本周狗屎运最旺的星座TOP4",
+        "onboard_time": 1713711140,
+        "rank": 42,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 127345,
+        "num": 127345,
+        "word": "新疆地震",
+        "onboard_time": 1713740954,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122461,
+        "num": 122461,
+        "word": "夏之光田嘉瑞的i人party",
+        "onboard_time": 1713749598,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118228,
+        "num": 118228,
+        "word": "全圆佑单封",
+        "onboard_time": 1713747798,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117615,
+        "num": 117615,
+        "word": "医生辟谣小肚子是为了保护子宫卵巢",
+        "onboard_time": 1713694397,
+        "rank": 46,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 117557,
+        "num": 117557,
+        "word": "沙特电竞世界杯宣传片公布",
+        "onboard_time": 1713745399,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116484,
+        "num": 116484,
+        "word": "广东韶关救灾现场画面",
+        "onboard_time": 1713746179,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113320,
+        "num": 113320,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1713705020,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}
