@@ -1,6 +1,6 @@
 {
   "startTime": 1713716506059,
-  "endTime": 1713789240291,
+  "endTime": 1713790090475,
   "band_list": [
     {
       "raw_hot": 2693897,
@@ -91,6 +91,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1204788,
+      "num": 967595,
+      "word": "鱼 愿天堂没有给",
+      "onboard_time": 1713786917,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1184063,
       "num": 1184063,
       "word": "荷兰男子新冠阳性613天去世",
@@ -147,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1109709,
+      "num": 1109709,
+      "word": "iPhone16或取消实体音量键电源键",
+      "onboard_time": 1713785117,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1095881,
       "num": 1095881,
       "word": "罗森前店长妻子在罗森买到过期食品",
       "onboard_time": 1713775038,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1090108,
-      "num": 1090108,
-      "word": "iPhone16或取消实体音量键电源键",
-      "onboard_time": 1713785117,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 1078548,
@@ -225,14 +233,6 @@
       "onboard_time": 1713782537,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 967595,
-      "num": 967595,
-      "word": "鱼 愿天堂没有给",
-      "onboard_time": 1713786917,
-      "rank": 3,
-      "category": "幽默"
     },
     {
       "raw_hot": 943972,
@@ -315,20 +315,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 828858,
+      "num": 828858,
+      "word": "难哄 大事很妙",
+      "onboard_time": 1713786138,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 826615,
       "num": 826615,
       "word": "广东强降雨已致4死10失联",
       "onboard_time": 1713781098,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 786213,
-      "num": 786213,
-      "word": "难哄 大事很妙",
-      "onboard_time": 1713786138,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 737275,
@@ -353,6 +353,14 @@
       "onboard_time": 1713749957,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 726788,
+      "num": 726788,
+      "word": "东北雨姐做手术",
+      "onboard_time": 1713786437,
+      "rank": 5,
+      "category": "网红"
     },
     {
       "raw_hot": 724564,
@@ -409,14 +417,6 @@
       "onboard_time": 1713757999,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 693851,
-      "num": 693851,
-      "word": "东北雨姐做手术",
-      "onboard_time": 1713786437,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 689191,
@@ -571,6 +571,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551895,
+      "num": 326907,
+      "word": "爱情公寓秦羽墨开美甲店",
+      "onboard_time": 1713787639,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 549027,
+      "num": 519097,
+      "word": "硬糖少女303",
+      "onboard_time": 1713787521,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 539339,
       "num": 676794,
       "word": "马龙说感谢自己在0比3时没有放弃",
@@ -593,14 +609,6 @@
       "onboard_time": 1713749119,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 519097,
-      "num": 519097,
-      "word": "硬糖少女303",
-      "onboard_time": 1713787521,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 515449,
@@ -769,14 +777,6 @@
       "onboard_time": 1713781878,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 442394,
-      "num": 257374,
-      "word": "爱情公寓秦羽墨开美甲店",
-      "onboard_time": 1713787639,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 439341,
@@ -955,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336684,
+      "num": 336684,
+      "word": "斗鱼CEO陈少杰已取保候审",
+      "onboard_time": 1713789138,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 334543,
       "num": 334543,
       "word": "医学博士学医11年熬成脱口秀冠军",
@@ -993,6 +1001,14 @@
       "onboard_time": 1713714797,
       "rank": 18,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 310358,
+      "num": 310358,
+      "word": "只有大学生才知道这有多爽",
+      "onboard_time": 1713787818,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 310168,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1713753136,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 284552,
+      "num": 284552,
+      "word": "鹿晗直播王勉钓鱼",
+      "onboard_time": 1713788899,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 282490,
@@ -1163,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263273,
+      "num": 263273,
+      "word": "林俊杰苏州 抢票",
+      "onboard_time": 1713788120,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 262090,
       "num": 262090,
       "word": "全红婵回应世界杯夺银牌",
@@ -1267,20 +1299,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 246908,
-      "num": 246908,
-      "word": "林俊杰苏州 抢票",
-      "onboard_time": 1713788120,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 246302,
       "num": 246302,
       "word": "TF三代出道人数",
       "onboard_time": 1713755059,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246161,
+      "num": 246161,
+      "word": "向佐郭碧婷综艺人缘",
+      "onboard_time": 1713789079,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 245536,
@@ -1305,14 +1337,6 @@
       "onboard_time": 1713768979,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 244993,
-      "num": 244993,
-      "word": "鹿晗直播王勉钓鱼",
-      "onboard_time": 1713788899,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 244918,
@@ -1361,14 +1385,6 @@
       "onboard_time": 1713777079,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231623,
-      "num": 231623,
-      "word": "只有大学生才知道这有多爽",
-      "onboard_time": 1713787818,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 231352,
@@ -1497,6 +1513,14 @@
       "onboard_time": 1713766639,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209331,
+      "num": 209331,
+      "word": "罗伯特说杨幂一出马就是女王范儿",
+      "onboard_time": 1713788838,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 208244,
@@ -1643,6 +1667,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 194750,
+      "num": 194750,
+      "word": "背着善宰跑",
+      "onboard_time": 1713789379,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194227,
       "num": 194227,
       "word": "唐嫣刘学义吻戏镜头",
@@ -1665,6 +1697,14 @@
       "onboard_time": 1713716957,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193955,
+      "num": 193955,
+      "word": "尔滨三害一个狠一个疯一个癫",
+      "onboard_time": 1713787219,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 191236,
@@ -1787,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183477,
+      "num": 183477,
+      "word": "赵丽颖拍猪吃零食",
+      "onboard_time": 1713786679,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181256,
       "num": 181256,
       "word": "马龙手好忙",
@@ -1883,14 +1931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174963,
-      "num": 174963,
-      "word": "尔滨三害一个狠一个疯一个癫",
-      "onboard_time": 1713787219,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 174701,
       "num": 174701,
       "word": "真正的沙县小吃根本没走出沙县",
@@ -1913,14 +1953,6 @@
       "onboard_time": 1713786558,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171880,
-      "num": 171880,
-      "word": "赵丽颖拍猪吃零食",
-      "onboard_time": 1713786679,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 171781,
@@ -2035,19 +2067,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 166436,
-      "num": 166436,
-      "word": "罗伯特说杨幂一出马就是女王范儿",
-      "onboard_time": 1713788838,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 164959,
       "num": 164959,
       "word": "陈丽君反差感",
       "onboard_time": 1713777619,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163680,
+      "num": 155564,
+      "word": "宋亚轩把丁程鑫认成熊",
+      "onboard_time": 1713789799,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -2081,6 +2113,14 @@
       "onboard_time": 1713774258,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159448,
+      "num": 159448,
+      "word": "北科大女生 求你别再骗我妈救命钱",
+      "onboard_time": 1713789799,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159136,
@@ -2129,6 +2169,14 @@
       "onboard_time": 1713776418,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156804,
+      "num": 156804,
+      "word": "姚明问谷爱凌参不参加夏奥会",
+      "onboard_time": 1713788838,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 156617,
@@ -2243,6 +2291,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148015,
+      "num": 148015,
+      "word": "哪吒发布会",
+      "onboard_time": 1713789618,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 147692,
+      "num": 147692,
+      "word": "丁太升点评浪姐",
+      "onboard_time": 1713788058,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147146,
       "num": 147146,
       "word": "曼联",
@@ -2337,14 +2401,6 @@
       "onboard_time": 1713785419,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140616,
-      "num": 140616,
-      "word": "丁太升点评浪姐",
-      "onboard_time": 1713788058,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 140093,
@@ -2467,14 +2523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131486,
-      "num": 131486,
-      "word": "向佐郭碧婷综艺人缘",
-      "onboard_time": 1713789079,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131084,
       "num": 131084,
       "word": "哈尔滨一九四四",
@@ -2587,14 +2635,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 117842,
-      "num": 117842,
-      "word": "姚明问谷爱凌参不参加夏奥会",
-      "onboard_time": 1713788838,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117169,
       "num": 117169,
       "word": "新一说比任何人都喜欢小兰",
@@ -2681,14 +2721,6 @@
       "onboard_time": 1713740954,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106441,
-      "num": 106441,
-      "word": "斗鱼CEO陈少杰已取保候审",
-      "onboard_time": 1713789138,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 105888,
@@ -2875,7 +2907,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47652,
+      "raw_hot": 50600,
       "num": 503196,
       "word": "极氪玩转猎装派对",
       "onboard_time": 1713785959,
@@ -2889,6 +2921,14 @@
       "onboard_time": 1713728831,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38780,
+      "num": 884731,
+      "word": "世界读书日开卷有益",
+      "onboard_time": 1713789559,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34861,
