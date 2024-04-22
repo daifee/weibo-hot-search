@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/23 00:22:18 ~ 2024/04/23 01:34:13
+本榜单时间：2024/04/23 00:22:18 ~ 2024/04/23 02:21:32
 </p>
 </blockquote>
 <p>
@@ -333,6 +333,18 @@ NewJeans曾说自己是ADOR不是HYBE（热度：80365）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%80%81%E7%A4%BC%E8%A2%AB%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%9B%9E%E8%B5%A0%E8%80%B3%E9%92%89%E5%96%9C%E6%9E%81%E8%80%8C%E6%B3%A3%23" target="weibo">
+女生送礼被薛之谦回赠耳钉喜极而泣（热度：41645）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E8%AF%B4%E5%BC%A0%E6%9D%B0%E9%80%81%E7%9A%84%E9%A4%90%E5%85%B7%E8%BF%98%E6%B2%A1%E7%94%A8%23" target="weibo">
+马嘉祺说张杰送的餐具还没用（热度：41290）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E5%BC%80%E9%B2%81%E5%8E%BF%E5%B9%B2%E9%83%A8%E4%B8%BA%E4%BD%95%E4%B8%8B%E7%94%B0%E6%8B%A6%E6%98%A5%E8%80%95%23" target="weibo">
 内蒙古开鲁县干部为何下田拦春耕（热度：35568）
 </a>
@@ -347,6 +359,12 @@ NewJeans曾说自己是ADOR不是HYBE（热度：80365）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%98%8A%E6%9D%A8%E5%B9%82%E7%9C%BC%E7%A5%9E%E6%88%8F%23" target="weibo">
 秦昊杨幂眼神戏（热度：32585）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E5%8F%B0%E8%AF%8D%23" target="weibo">
+李现台词（热度：23793）
 </a>
 </li>
 

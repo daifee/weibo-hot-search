@@ -1,6 +1,6 @@
 {
   "startTime": 1713802938860,
-  "endTime": 1713807253656,
+  "endTime": 1713810092383,
   "band_list": [
     {
       "raw_hot": 1039581,
@@ -427,6 +427,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41645,
+      "num": 41645,
+      "word": "女生送礼被薛之谦回赠耳钉喜极而泣",
+      "onboard_time": 1713807671,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 41290,
+      "num": 41290,
+      "word": "马嘉祺说张杰送的餐具还没用",
+      "onboard_time": 1713807732,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35568,
       "num": 46813,
       "word": "内蒙古开鲁县干部为何下田拦春耕",
@@ -448,6 +464,14 @@
       "word": "秦昊杨幂眼神戏",
       "onboard_time": 1713806173,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23793,
+      "num": 23793,
+      "word": "李现台词",
+      "onboard_time": 1713794120,
+      "rank": 47,
       "category": "剧集"
     }
   ],
