@@ -1,0 +1,410 @@
+{
+  "runTime": 1713759670073,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1494912,
+        "num": 1494912,
+        "word": "星巴克 免费咖啡",
+        "onboard_time": 1713758058,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1328994,
+        "num": 1328994,
+        "word": "我是O型血",
+        "onboard_time": 1713752838,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43073,
+        "num": 1065342,
+        "word": "潮起互联网奔涌三十年",
+        "onboard_time": 1713755478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 982399,
+        "num": 982399,
+        "word": "王鸥演技",
+        "onboard_time": 1713757278,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 858507,
+        "num": 858507,
+        "word": "唐嫣时隔15年再演仙侠剧",
+        "onboard_time": 1713755418,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 822717,
+        "num": 822717,
+        "word": "广西一小区楼上坠落树根致高中生被砸身亡",
+        "onboard_time": 1713751818,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617247,
+        "num": 617247,
+        "word": "孙颖莎谈擦边球",
+        "onboard_time": 1713758358,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 581352,
+        "num": 581352,
+        "word": "汪曼春",
+        "onboard_time": 1713758598,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185730,
+        "num": 579009,
+        "word": "93岁南京大屠杀幸存者刘素珍去世",
+        "onboard_time": 1713750198,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578107,
+        "num": 578107,
+        "word": "有薄膜的一次性咖啡杯30年才能降解",
+        "onboard_time": 1713755358,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 652102,
+        "num": 571433,
+        "word": "金价涨到700后不敢买也不敢卖",
+        "onboard_time": 1713743537,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 556446,
+        "num": 556446,
+        "word": "单休的人连上九天班",
+        "onboard_time": 1713753616,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528620,
+        "num": 528620,
+        "word": "荷兰男子新冠阳性613天去世",
+        "onboard_time": 1713758659,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481800,
+        "num": 481800,
+        "word": "97年的人都当综艺总导演了",
+        "onboard_time": 1713750677,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473160,
+        "num": 473160,
+        "word": "女子癌症晚期成了网红",
+        "onboard_time": 1713743537,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454730,
+        "num": 454730,
+        "word": "12306从未授权第三方平台发售火车票",
+        "onboard_time": 1713744919,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429636,
+        "num": 429636,
+        "word": "刘忻是JYP第一位中国女艺人",
+        "onboard_time": 1713749957,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409708,
+        "num": 409708,
+        "word": "美国军方代表团抵达青岛",
+        "onboard_time": 1713752598,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 396023,
+        "num": 396023,
+        "word": "孙颖莎三个谢谢",
+        "onboard_time": 1713757818,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376426,
+        "num": 376426,
+        "word": "合着我还过着29年前的单休生活",
+        "onboard_time": 1713758537,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842122,
+        "num": 345115,
+        "word": "大部分情侣其实是酒肉情侣",
+        "onboard_time": 1713755418,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 694088,
+        "num": 341712,
+        "word": "发小三婚该不该随礼了",
+        "onboard_time": 1713757999,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312447,
+        "num": 312447,
+        "word": "华妃怎么不吃纯元的醋",
+        "onboard_time": 1713749057,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270124,
+        "num": 270124,
+        "word": "金莎已见过男友家长",
+        "onboard_time": 1713754578,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125641,
+        "num": 269271,
+        "word": "华为Pura70光织格纹漂亮银",
+        "onboard_time": 1713757938,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 268585,
+        "num": 268585,
+        "word": "朋友圈背景图",
+        "onboard_time": 1713750558,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259858,
+        "num": 259858,
+        "word": "五一调休",
+        "onboard_time": 1713745579,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253855,
+        "num": 253855,
+        "word": "桃花坞上班",
+        "onboard_time": 1713756978,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249805,
+        "num": 249805,
+        "word": "薛之谦一巡黄牛票五元",
+        "onboard_time": 1713749119,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 233639,
+        "num": 233639,
+        "word": "全红婵回应世界杯夺银牌",
+        "onboard_time": 1713756138,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62152,
+        "num": 228549,
+        "word": "周迅陈坤为极星汽车代言",
+        "onboard_time": 1713754158,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227774,
+        "num": 227774,
+        "word": "何浩楠 帅蜂了",
+        "onboard_time": 1713759200,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225348,
+        "num": 225348,
+        "word": "未成年人五一每天仅能玩1小时游戏",
+        "onboard_time": 1713758899,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223985,
+        "num": 223985,
+        "word": "剧烈运动后千万不要立刻蹲下",
+        "onboard_time": 1713755897,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216650,
+        "num": 216650,
+        "word": "TF三代出道人数",
+        "onboard_time": 1713755059,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216457,
+        "num": 216457,
+        "word": "白色橄榄树首发预告",
+        "onboard_time": 1713753438,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215159,
+        "num": 215159,
+        "word": "许嵩合肥抢票",
+        "onboard_time": 1713755719,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209608,
+        "num": 209608,
+        "word": "李现周雨彤新剧亲出声了",
+        "onboard_time": 1713759499,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207694,
+        "num": 207694,
+        "word": "2024年王者五五新皮肤",
+        "onboard_time": 1713757818,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204553,
+        "num": 204553,
+        "word": "秦海璐王安宇光明正大的唱因为爱情",
+        "onboard_time": 1713759499,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201132,
+        "num": 201132,
+        "word": "女律师否认副业做擦边直播",
+        "onboard_time": 1713745337,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256299,
+        "num": 192442,
+        "word": "华为智界S7截胡小米SU7",
+        "onboard_time": 1713753136,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 181317,
+        "num": 181317,
+        "word": "周杰伦首次录制说唱节目",
+        "onboard_time": 1713751159,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175981,
+        "num": 175981,
+        "word": "仙台有树预约",
+        "onboard_time": 1713754456,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174606,
+        "num": 174606,
+        "word": "马龙说感谢自己在0比3时没有放弃",
+        "onboard_time": 1713740954,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169025,
+        "num": 169025,
+        "word": "理想降价",
+        "onboard_time": 1713748939,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 166914,
+        "num": 166914,
+        "word": "真正的沙县小吃根本没走出沙县",
+        "onboard_time": 1713759018,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166094,
+        "num": 166094,
+        "word": "她心疼你 你却觉得她好使唤",
+        "onboard_time": 1713759200,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165606,
+        "num": 165606,
+        "word": "县城家庭的三个阶层",
+        "onboard_time": 1713753438,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162372,
+        "num": 162372,
+        "word": "承欢记28集 母女线",
+        "onboard_time": 1713757698,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}
