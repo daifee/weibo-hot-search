@@ -1,0 +1,410 @@
+{
+  "runTime": 1713774237867,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1052522,
+        "num": 1052522,
+        "word": "12306被质疑纵容买长乘短",
+        "onboard_time": 1713764838,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876362,
+        "num": 876362,
+        "word": "雷军 格局",
+        "onboard_time": 1713771079,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 34861,
+        "num": 786050,
+        "word": "文化中国行",
+        "onboard_time": 1713754998,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768926,
+        "num": 768926,
+        "word": "辛芷蕾妈妈脱粉秦岚转粉迪丽热巴",
+        "onboard_time": 1713768137,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 738696,
+        "num": 738696,
+        "word": "雷军称着急购车可考虑智界S7",
+        "onboard_time": 1713771377,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 647191,
+        "num": 647191,
+        "word": "消失的她原型5年后重返事发地",
+        "onboard_time": 1713764778,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477715,
+        "num": 477715,
+        "word": "李现 现偶纯元",
+        "onboard_time": 1713769578,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467814,
+        "num": 467814,
+        "word": "专家称休假改革难在众口难调",
+        "onboard_time": 1713766999,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420316,
+        "num": 420316,
+        "word": "秦海璐买个防窥膜吧",
+        "onboard_time": 1713762620,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161283,
+        "num": 420135,
+        "word": "老师以考试奖励名义送学生新鞋",
+        "onboard_time": 1713773419,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1143018,
+        "num": 419926,
+        "word": "三天不进餐 大后天吃9顿饭",
+        "onboard_time": 1713765138,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 842674,
+        "num": 419697,
+        "word": "小学生丢课本被老师用戒尺打得头部变形",
+        "onboard_time": 1713770356,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644223,
+        "num": 419599,
+        "word": "newjeans怎么办",
+        "onboard_time": 1713768137,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419447,
+        "num": 419447,
+        "word": "HYBE蒸发了一个YG的市值",
+        "onboard_time": 1713772998,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382009,
+        "num": 382009,
+        "word": "秦海璐在买防窥膜了",
+        "onboard_time": 1713766100,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373322,
+        "num": 373322,
+        "word": "日本年轻人开始流行友情婚",
+        "onboard_time": 1713762620,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354034,
+        "num": 354034,
+        "word": "调休",
+        "onboard_time": 1713771258,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341264,
+        "num": 341264,
+        "word": "薛之谦厦门",
+        "onboard_time": 1713773899,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88222,
+        "num": 320857,
+        "word": "为什么用消毒级卫生巾更安心",
+        "onboard_time": 1713773178,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 318232,
+        "num": 318232,
+        "word": "美国国务卿布林肯将访华",
+        "onboard_time": 1713773478,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 434184,
+        "num": 306163,
+        "word": "她心疼你 你却觉得她好使唤",
+        "onboard_time": 1713759200,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265906,
+        "num": 265906,
+        "word": "12306回应被质疑纵容买长乘短",
+        "onboard_time": 1713771978,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251944,
+        "num": 251944,
+        "word": "骑电动车举黄瓜被风筝线一分为二",
+        "onboard_time": 1713767417,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235689,
+        "num": 235689,
+        "word": "金价涨到700后不敢买也不敢卖",
+        "onboard_time": 1713743537,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 231352,
+        "num": 231352,
+        "word": "杨幂回应关雪好凶",
+        "onboard_time": 1713772337,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228895,
+        "num": 228895,
+        "word": "战王殿下 王妃替您出征了",
+        "onboard_time": 1713763219,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227153,
+        "num": 227153,
+        "word": "何赛飞评价杨紫",
+        "onboard_time": 1713768438,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213678,
+        "num": 213678,
+        "word": "吃辣上瘾是一种良性自虐",
+        "onboard_time": 1713768979,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 207089,
+        "num": 207089,
+        "word": "雷军确认小米SU7交付提前",
+        "onboard_time": 1713773839,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 188130,
+        "num": 188130,
+        "word": "眼泪女王 绝症车祸失忆",
+        "onboard_time": 1713772638,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187223,
+        "num": 187223,
+        "word": "王楚钦奥运积分",
+        "onboard_time": 1713767477,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171444,
+        "num": 171444,
+        "word": "丁克20年我们变成了室友关系",
+        "onboard_time": 1713771618,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168827,
+        "num": 168827,
+        "word": "优酷 杨幂",
+        "onboard_time": 1713773839,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163780,
+        "num": 163780,
+        "word": "智界感谢雷军推荐",
+        "onboard_time": 1713773839,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159644,
+        "num": 159644,
+        "word": "大部分情侣其实是酒肉情侣",
+        "onboard_time": 1713755418,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156794,
+        "num": 156794,
+        "word": "发小三婚该不该随礼了",
+        "onboard_time": 1713757999,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154997,
+        "num": 154997,
+        "word": "汪曼春",
+        "onboard_time": 1713758598,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154325,
+        "num": 154325,
+        "word": "世界读书日",
+        "onboard_time": 1713773239,
+        "rank": 37,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 145880,
+        "num": 145880,
+        "word": "袁娅维是张杰张含韵校友",
+        "onboard_time": 1713767898,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145560,
+        "num": 145560,
+        "word": "秦岚吃蒜原因是花少团没有吻戏",
+        "onboard_time": 1713773358,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144064,
+        "num": 144064,
+        "word": "陈昊宇考古",
+        "onboard_time": 1713773956,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142599,
+        "num": 142599,
+        "word": "原来小狗是这样喝水的",
+        "onboard_time": 1713773956,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138863,
+        "num": 138863,
+        "word": "曾舜晞杀回综艺了",
+        "onboard_time": 1713772879,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138727,
+        "num": 138727,
+        "word": "汪曼春死于劝架",
+        "onboard_time": 1713769578,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201429,
+        "num": 136181,
+        "word": "法国人在中国寻找七年前种的树",
+        "onboard_time": 1713767838,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123570,
+        "num": 123570,
+        "word": "HYBE要求闵熙珍辞职",
+        "onboard_time": 1713764599,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122666,
+        "num": 122666,
+        "word": "张信哲新浪扫楼",
+        "onboard_time": 1713772879,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116030,
+        "num": 116030,
+        "word": "打工为什么存不住钱",
+        "onboard_time": 1713771018,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114722,
+        "num": 114722,
+        "word": "12306回应第三方平台用技术抢票",
+        "onboard_time": 1713770958,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112449,
+        "num": 112449,
+        "word": "马龙孙颖莎冠军合照",
+        "onboard_time": 1713762440,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}

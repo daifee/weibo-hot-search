@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713771252464,
+  "endTime": 1713774237867,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1143018,
+      "num": 735166,
+      "word": "三天不进餐 大后天吃9顿饭",
+      "onboard_time": 1713765138,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1140019,
       "num": 1140019,
       "word": "陈丽君断层第一",
@@ -403,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 876362,
+      "num": 876362,
+      "word": "雷军 格局",
+      "onboard_time": 1713771079,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 875007,
       "num": 875007,
       "word": "97年的人都当综艺总导演了",
@@ -441,6 +457,14 @@
       "onboard_time": 1713704600,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 842674,
+      "num": 419697,
+      "word": "小学生丢课本被老师用戒尺打得头部变形",
+      "onboard_time": 1713770356,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 839464,
@@ -523,20 +547,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 738696,
+      "num": 738696,
+      "word": "雷军称着急购车可考虑智界S7",
+      "onboard_time": 1713771377,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 737275,
       "num": 737275,
       "word": "孙颖莎谈擦边球",
       "onboard_time": 1713758358,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 735166,
-      "num": 735166,
-      "word": "三天不进餐 大后天吃9顿饭",
-      "onboard_time": 1713765138,
-      "rank": 11,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 731434,
@@ -1171,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 477715,
+      "num": 477715,
+      "word": "李现 现偶纯元",
+      "onboard_time": 1713769578,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 477650,
       "num": 477650,
       "word": "花儿与少年",
@@ -1345,6 +1377,14 @@
       "onboard_time": 1713658216,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 419447,
+      "num": 419447,
+      "word": "HYBE蒸发了一个YG的市值",
+      "onboard_time": 1713772998,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 418975,
@@ -1619,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354034,
+      "num": 354034,
+      "word": "调休",
+      "onboard_time": 1713771258,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351078,
       "num": 351078,
       "word": "产妇跪求剖腹产多次被拒绝",
@@ -1633,14 +1681,6 @@
       "onboard_time": 1713709701,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 348459,
-      "num": 348459,
-      "word": "李现 现偶纯元",
-      "onboard_time": 1713769578,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 347276,
@@ -1673,6 +1713,14 @@
       "onboard_time": 1713667938,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341264,
+      "num": 341264,
+      "word": "薛之谦厦门",
+      "onboard_time": 1713773899,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 340180,
@@ -1785,6 +1833,14 @@
       "onboard_time": 1713767838,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318232,
+      "num": 318232,
+      "word": "美国国务卿布林肯将访华",
+      "onboard_time": 1713773478,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 314450,
@@ -1976,6 +2032,14 @@
       "word": "男子强迫女儿热水泡脚致重伤被判刑",
       "onboard_time": 1713657917,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265906,
+      "num": 265906,
+      "word": "12306回应被质疑纵容买长乘短",
+      "onboard_time": 1713771978,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -2291,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231352,
+      "num": 231352,
+      "word": "杨幂回应关雪好凶",
+      "onboard_time": 1713772337,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231133,
       "num": 231133,
       "word": "睡前不刷牙的危害有多大",
@@ -2401,14 +2473,6 @@
       "onboard_time": 1713675258,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 220452,
-      "num": 253525,
-      "word": "小学生丢课本被老师用戒尺打得头部变形",
-      "onboard_time": 1713770356,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218601,
@@ -2577,6 +2641,14 @@
       "onboard_time": 1713682937,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207089,
+      "num": 207089,
+      "word": "雷军确认小米SU7交付提前",
+      "onboard_time": 1713773839,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 206588,
@@ -2931,14 +3003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193455,
-      "num": 193455,
-      "word": "雷军 格局",
-      "onboard_time": 1713771079,
-      "rank": 26,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 192966,
       "num": 192966,
       "word": "陈楚生唱了离群的鹿",
@@ -3041,6 +3105,14 @@
       "onboard_time": 1713708681,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188130,
+      "num": 188130,
+      "word": "眼泪女王 绝症车祸失忆",
+      "onboard_time": 1713772638,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 188003,
@@ -3379,6 +3451,14 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 171444,
+      "num": 171444,
+      "word": "丁克20年我们变成了室友关系",
+      "onboard_time": 1713771618,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171386,
       "num": 171386,
       "word": "辛甘秦愿强吻",
@@ -3433,6 +3513,14 @@
       "onboard_time": 1713682999,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168827,
+      "num": 168827,
+      "word": "优酷 杨幂",
+      "onboard_time": 1713773839,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 168748,
@@ -3531,6 +3619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163780,
+      "num": 163780,
+      "word": "智界感谢雷军推荐",
+      "onboard_time": 1713773839,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 162372,
       "num": 162372,
       "word": "承欢记28集 母女线",
@@ -3584,6 +3680,14 @@
       "word": "1岁男童被蛇咬伤父母教科书式救援",
       "onboard_time": 1713654493,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161283,
+      "num": 420135,
+      "word": "老师以考试奖励名义送学生新鞋",
+      "onboard_time": 1713773419,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3713,6 +3817,14 @@
       "onboard_time": 1713666558,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154325,
+      "num": 154325,
+      "word": "世界读书日",
+      "onboard_time": 1713773239,
+      "rank": 37,
+      "category": "读书作家"
     },
     {
       "raw_hot": 154195,
@@ -3915,6 +4027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145560,
+      "num": 145560,
+      "word": "秦岚吃蒜原因是花少团没有吻戏",
+      "onboard_time": 1713773358,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145039,
       "num": 145039,
       "word": "未定事件簿少年如你",
@@ -3936,6 +4056,14 @@
       "word": "奔跑吧重庆上班路透",
       "onboard_time": 1713676639,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144064,
+      "num": 144064,
+      "word": "陈昊宇考古",
+      "onboard_time": 1713773956,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -3985,6 +4113,14 @@
       "onboard_time": 1713713001,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 142599,
+      "num": 142599,
+      "word": "原来小狗是这样喝水的",
+      "onboard_time": 1713773956,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 142292,
@@ -4073,6 +4209,14 @@
       "onboard_time": 1713658097,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138863,
+      "num": 138863,
+      "word": "曾舜晞杀回综艺了",
+      "onboard_time": 1713772879,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 138220,
@@ -4427,6 +4571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122666,
+      "num": 122666,
+      "word": "张信哲新浪扫楼",
+      "onboard_time": 1713772879,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 122461,
       "num": 122461,
       "word": "夏之光田嘉瑞的i人party",
@@ -4697,6 +4849,14 @@
       "onboard_time": 1713650471,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 88222,
+      "num": 320857,
+      "word": "为什么用消毒级卫生巾更安心",
+      "onboard_time": 1713773178,
+      "rank": 18,
+      "category": "科学科普"
     },
     {
       "raw_hot": 87539,
@@ -4999,6 +5159,14 @@
       "num": 1156901,
       "word": "良田良种良机良法绘就当代春耕图",
       "onboard_time": 1713618858,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34861,
+      "num": 786050,
+      "word": "文化中国行",
+      "onboard_time": 1713754998,
       "rank": 2,
       "category": "社会新闻"
     },

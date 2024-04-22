@@ -1,6 +1,6 @@
 {
   "startTime": 1713716506059,
-  "endTime": 1713771252464,
+  "endTime": 1713774237867,
   "band_list": [
     {
       "raw_hot": 2376669,
@@ -81,6 +81,14 @@
       "onboard_time": 1713758659,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1143018,
+      "num": 735166,
+      "word": "三天不进餐 大后天吃9顿饭",
+      "onboard_time": 1713765138,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1129442,
@@ -187,6 +195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 876362,
+      "num": 876362,
+      "word": "雷军 格局",
+      "onboard_time": 1713771079,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 875007,
       "num": 875007,
       "word": "97年的人都当综艺总导演了",
@@ -203,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 842674,
+      "num": 419697,
+      "word": "小学生丢课本被老师用戒尺打得头部变形",
+      "onboard_time": 1713770356,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 837714,
       "num": 837714,
       "word": "辛芷蕾妈妈脱粉秦岚转粉迪丽热巴",
@@ -211,20 +235,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 738696,
+      "num": 738696,
+      "word": "雷军称着急购车可考虑智界S7",
+      "onboard_time": 1713771377,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 737275,
       "num": 737275,
       "word": "孙颖莎谈擦边球",
       "onboard_time": 1713758358,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 735166,
-      "num": 735166,
-      "word": "三天不进餐 大后天吃9顿饭",
-      "onboard_time": 1713765138,
-      "rank": 11,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 732342,
@@ -467,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477715,
+      "num": 477715,
+      "word": "李现 现偶纯元",
+      "onboard_time": 1713769578,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 474311,
       "num": 474311,
       "word": "本周狗屎运最旺的星座TOP4",
@@ -529,6 +561,14 @@
       "onboard_time": 1713751159,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 419447,
+      "num": 419447,
+      "word": "HYBE蒸发了一个YG的市值",
+      "onboard_time": 1713772998,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 411302,
@@ -635,12 +675,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 348459,
-      "num": 348459,
-      "word": "李现 现偶纯元",
-      "onboard_time": 1713769578,
+      "raw_hot": 354034,
+      "num": 354034,
+      "word": "调休",
+      "onboard_time": 1713771258,
       "rank": 16,
-      "category": "剧集"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346742,
@@ -649,6 +689,14 @@
       "onboard_time": 1713769098,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 341264,
+      "num": 341264,
+      "word": "薛之谦厦门",
+      "onboard_time": 1713773899,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 340180,
@@ -681,6 +729,14 @@
       "onboard_time": 1713767838,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318232,
+      "num": 318232,
+      "word": "美国国务卿布林肯将访华",
+      "onboard_time": 1713773478,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 311446,
@@ -801,6 +857,14 @@
       "onboard_time": 1713760700,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265906,
+      "num": 265906,
+      "word": "12306回应被质疑纵容买长乘短",
+      "onboard_time": 1713771978,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262090,
@@ -931,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231352,
+      "num": 231352,
+      "word": "杨幂回应关雪好凶",
+      "onboard_time": 1713772337,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230855,
       "num": 230855,
       "word": "林俊杰新歌",
@@ -944,14 +1016,6 @@
       "word": "95后小伙每天暴走3万步排查招聘套路",
       "onboard_time": 1713760940,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220452,
-      "num": 253525,
-      "word": "小学生丢课本被老师用戒尺打得头部变形",
-      "onboard_time": 1713770356,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1033,6 +1097,14 @@
       "onboard_time": 1713757818,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207089,
+      "num": 207089,
+      "word": "雷军确认小米SU7交付提前",
+      "onboard_time": 1713773839,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 206546,
@@ -1155,14 +1227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193455,
-      "num": 193455,
-      "word": "雷军 格局",
-      "onboard_time": 1713771079,
-      "rank": 26,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 190813,
       "num": 190813,
       "word": "哈尔滨一九四四死装哥和试探姐",
@@ -1185,6 +1249,14 @@
       "onboard_time": 1713715278,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188130,
+      "num": 188130,
+      "word": "眼泪女王 绝症车祸失忆",
+      "onboard_time": 1713772638,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 187073,
@@ -1331,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171444,
+      "num": 171444,
+      "word": "丁克20年我们变成了室友关系",
+      "onboard_time": 1713771618,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171386,
       "num": 171386,
       "word": "辛甘秦愿强吻",
@@ -1379,6 +1459,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 168827,
+      "num": 168827,
+      "word": "优酷 杨幂",
+      "onboard_time": 1713773839,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168498,
       "num": 168498,
       "word": "50多万买新车开2公里成瑕疵车",
@@ -1411,6 +1499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163780,
+      "num": 163780,
+      "word": "智界感谢雷军推荐",
+      "onboard_time": 1713773839,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 162372,
       "num": 162372,
       "word": "承欢记28集 母女线",
@@ -1425,6 +1521,14 @@
       "onboard_time": 1713722652,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161283,
+      "num": 420135,
+      "word": "老师以考试奖励名义送学生新鞋",
+      "onboard_time": 1713773419,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159136,
@@ -1481,6 +1585,14 @@
       "onboard_time": 1713704600,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 154325,
+      "num": 154325,
+      "word": "世界读书日",
+      "onboard_time": 1713773239,
+      "rank": 37,
+      "category": "读书作家"
     },
     {
       "raw_hot": 154078,
@@ -1555,12 +1667,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145560,
+      "num": 145560,
+      "word": "秦岚吃蒜原因是花少团没有吻戏",
+      "onboard_time": 1713773358,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145039,
       "num": 145039,
       "word": "未定事件簿少年如你",
       "onboard_time": 1713756918,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144064,
+      "num": 144064,
+      "word": "陈昊宇考古",
+      "onboard_time": 1713773956,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 143822,
@@ -1587,12 +1715,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142599,
+      "num": 142599,
+      "word": "原来小狗是这样喝水的",
+      "onboard_time": 1713773956,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140093,
       "num": 140093,
       "word": "SimonD离开AOMG",
       "onboard_time": 1713756678,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138863,
+      "num": 138863,
+      "word": "曾舜晞杀回综艺了",
+      "onboard_time": 1713772879,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 138128,
@@ -1729,6 +1873,14 @@
       "onboard_time": 1713764119,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122666,
+      "num": 122666,
+      "word": "张信哲新浪扫楼",
+      "onboard_time": 1713772879,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 122461,
@@ -1891,6 +2043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88222,
+      "num": 320857,
+      "word": "为什么用消毒级卫生巾更安心",
+      "onboard_time": 1713773178,
+      "rank": 18,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 85676,
       "num": 85676,
       "word": "青春没有售价 同窗贴脸开大",
@@ -1953,6 +2113,14 @@
       "onboard_time": 1713728831,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34861,
+      "num": 786050,
+      "word": "文化中国行",
+      "onboard_time": 1713754998,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32810,
