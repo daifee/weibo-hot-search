@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713784498021,
+  "endTime": 1713785723775,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1072768,
+      "num": 1072768,
+      "word": "余罪再次下架",
+      "onboard_time": 1713782478,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1030498,
       "num": 674732,
       "word": "张予曦越扒越有",
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1000173,
+      "num": 1000173,
+      "word": "金世佳和王传君打过视频后哭了",
+      "onboard_time": 1713782537,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 997702,
       "num": 997702,
       "word": "北京市副市长高朋被查",
@@ -393,14 +409,6 @@
       "onboard_time": 1713629118,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 953803,
-      "num": 953803,
-      "word": "余罪再次下架",
-      "onboard_time": 1713782478,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 943972,
@@ -497,14 +505,6 @@
       "onboard_time": 1713771377,
       "rank": 4,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 849309,
-      "num": 849309,
-      "word": "金世佳和王传君打过视频后哭了",
-      "onboard_time": 1713782537,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 848514,
@@ -1275,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 484882,
+      "num": 297342,
+      "word": "女子常熬夜胸痛难忍才就医确诊肺癌晚期",
+      "onboard_time": 1713782898,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 484738,
       "num": 472039,
       "word": "浪姐 循环利用",
@@ -1451,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 442630,
+      "num": 442630,
+      "word": "Mari 退赛",
+      "onboard_time": 1713781878,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440722,
       "num": 440722,
       "word": "哈尔滨一九四四收视率",
@@ -1475,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 436046,
+      "num": 436046,
+      "word": "猴子都不吃的轻食我吃了",
+      "onboard_time": 1713783978,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 435237,
       "num": 376545,
       "word": "贾玲好迷人",
@@ -1497,14 +1521,6 @@
       "onboard_time": 1713676519,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 429601,
-      "num": 429601,
-      "word": "Mari 退赛",
-      "onboard_time": 1713781878,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 425352,
@@ -1609,14 +1625,6 @@
       "onboard_time": 1713615258,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 397325,
-      "num": 297342,
-      "word": "女子常熬夜胸痛难忍才就医确诊肺癌晚期",
-      "onboard_time": 1713782898,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 396254,
@@ -1859,6 +1867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 350105,
+      "num": 350105,
+      "word": "黄晓明发了姚志明",
+      "onboard_time": 1713784758,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 347276,
       "num": 347276,
       "word": "杨幂民国军装",
@@ -2017,14 +2033,6 @@
       "onboard_time": 1713688039,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313876,
-      "num": 174856,
-      "word": "猴子都不吃的轻食我吃了",
-      "onboard_time": 1713783978,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 311747,
@@ -2187,6 +2195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 275644,
+      "num": 275644,
+      "word": "凤凰传奇 拿起荧光棒就是兵",
+      "onboard_time": 1713783318,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 274990,
       "num": 274990,
       "word": "新疆地震",
@@ -2233,6 +2249,14 @@
       "onboard_time": 1713760700,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268202,
+      "num": 268202,
+      "word": "台湾1小时内发生10起地震",
+      "onboard_time": 1713785656,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267751,
@@ -2321,14 +2345,6 @@
       "onboard_time": 1713778098,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 259168,
-      "num": 259168,
-      "word": "凤凰传奇 拿起荧光棒就是兵",
-      "onboard_time": 1713783318,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 258414,
@@ -2529,6 +2545,14 @@
       "onboard_time": 1713689178,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242924,
+      "num": 242924,
+      "word": "iPhone16或取消实体音量键电源键",
+      "onboard_time": 1713785117,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 242161,
@@ -3403,6 +3427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190807,
+      "num": 626694,
+      "word": "男孩丢失人工耳蜗众人接力69小时寻回",
+      "onboard_time": 1713781278,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189790,
       "num": 189790,
       "word": "陈昊宇考古",
@@ -3457,14 +3489,6 @@
       "onboard_time": 1713708681,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 188143,
-      "num": 626694,
-      "word": "男孩丢失人工耳蜗众人接力69小时寻回",
-      "onboard_time": 1713781278,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188003,
@@ -3753,6 +3777,14 @@
       "onboard_time": 1713621319,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 177022,
+      "num": 177022,
+      "word": "吃面比吃米更容易胖是真的吗",
+      "onboard_time": 1713784277,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 176915,
@@ -4137,6 +4169,14 @@
       "onboard_time": 1713714020,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158469,
+      "num": 158469,
+      "word": "为什么心脏会突感咯噔一下",
+      "onboard_time": 1713784518,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 158400,
@@ -4587,6 +4627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141892,
+      "num": 141892,
+      "word": "闵熙珍说一切都靠自己",
+      "onboard_time": 1713785419,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141531,
       "num": 141531,
       "word": "郑合惠子好甜",
@@ -4753,6 +4801,14 @@
       "onboard_time": 1713679638,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135975,
+      "num": 135975,
+      "word": "星穹铁道前瞻直播定档",
+      "onboard_time": 1713784457,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 135922,
@@ -5059,6 +5115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121251,
+      "num": 121251,
+      "word": "电影破墓",
+      "onboard_time": 1713785298,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120649,
       "num": 1216461,
       "word": "世界首套高清月球地质写真集",
@@ -5243,6 +5307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108003,
+      "num": 108003,
+      "word": "父母当初不同意的人现在赞不绝口",
+      "onboard_time": 1713785478,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107726,
       "num": 101080,
       "word": "金鹤龙发杨幂了",
@@ -5265,14 +5337,6 @@
       "onboard_time": 1713740954,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107282,
-      "num": 107282,
-      "word": "星穹铁道前瞻直播定档",
-      "onboard_time": 1713784457,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 107156,
@@ -5315,12 +5379,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 104106,
-      "num": 104106,
-      "word": "吃面比吃米更容易胖是真的吗",
-      "onboard_time": 1713784277,
-      "rank": 47,
-      "category": "健康医疗"
+      "raw_hot": 103403,
+      "num": 103403,
+      "word": "台湾花莲再发5.7级地震",
+      "onboard_time": 1713785656,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102267,
@@ -5755,6 +5819,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 23072,
+      "num": 142958,
+      "word": "中国汽车品牌打破世界纪录",
+      "onboard_time": 1713783858,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 21821,
       "num": 313829,
       "word": "九号造车与造片都是科技局",
@@ -5785,14 +5857,6 @@
       "onboard_time": 1713670218,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14252,
-      "num": 136034,
-      "word": "中国汽车品牌打破世界纪录",
-      "onboard_time": 1713783858,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 14009,

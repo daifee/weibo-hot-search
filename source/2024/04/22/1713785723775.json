@@ -1,0 +1,410 @@
+{
+  "runTime": 1713785723775,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1072768,
+        "num": 1072768,
+        "word": "余罪再次下架",
+        "onboard_time": 1713782478,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1000173,
+        "num": 1000173,
+        "word": "金世佳和王传君打过视频后哭了",
+        "onboard_time": 1713782537,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8542,
+        "num": 772177,
+        "word": "文化中国行",
+        "onboard_time": 1713754998,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696608,
+        "num": 696608,
+        "word": "不孕女子喜获3胞胎同卵异卵同出现",
+        "onboard_time": 1713779418,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616581,
+        "num": 616581,
+        "word": "韩勇被开除党籍",
+        "onboard_time": 1713778278,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 581932,
+        "num": 581932,
+        "word": "广东强降雨已致4死10失联",
+        "onboard_time": 1713781098,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555807,
+        "num": 555807,
+        "word": "闵熙珍称ILLIT抄袭",
+        "onboard_time": 1713782058,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548320,
+        "num": 548320,
+        "word": "余罪",
+        "onboard_time": 1713781638,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190807,
+        "num": 468290,
+        "word": "男孩丢失人工耳蜗众人接力69小时寻回",
+        "onboard_time": 1713781278,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262754,
+        "num": 456742,
+        "word": "老师以考试奖励名义送学生新鞋",
+        "onboard_time": 1713773419,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455581,
+        "num": 455581,
+        "word": "12306回应公众号发疯留言能求到票",
+        "onboard_time": 1713778457,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442630,
+        "num": 442630,
+        "word": "Mari 退赛",
+        "onboard_time": 1713781878,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436046,
+        "num": 436046,
+        "word": "猴子都不吃的轻食我吃了",
+        "onboard_time": 1713783978,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 409032,
+        "num": 409032,
+        "word": "辛芷蕾妈妈脱粉秦岚转粉迪丽热巴",
+        "onboard_time": 1713768137,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395409,
+        "num": 395409,
+        "word": "日本年轻人开始流行友情婚",
+        "onboard_time": 1713762620,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368910,
+        "num": 368910,
+        "word": "罗森前店长妻子在罗森买到过期食品",
+        "onboard_time": 1713775038,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361782,
+        "num": 361782,
+        "word": "NewJeans曾说自己是ADOR不是HYBE",
+        "onboard_time": 1713783138,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350105,
+        "num": 350105,
+        "word": "黄晓明发了姚志明",
+        "onboard_time": 1713784758,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315236,
+        "num": 315236,
+        "word": "胡先煦 倘若我问心有愧呢",
+        "onboard_time": 1713779780,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292075,
+        "num": 292075,
+        "word": "三天不进餐 大后天吃9顿饭",
+        "onboard_time": 1713765138,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 484882,
+        "num": 284359,
+        "word": "女子常熬夜胸痛难忍才就医确诊肺癌晚期",
+        "onboard_time": 1713782898,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 275644,
+        "num": 275644,
+        "word": "凤凰传奇 拿起荧光棒就是兵",
+        "onboard_time": 1713783318,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 268202,
+        "num": 268202,
+        "word": "台湾1小时内发生10起地震",
+        "onboard_time": 1713785656,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251244,
+        "num": 251244,
+        "word": "台湾花莲海域5.3级地震",
+        "onboard_time": 1713778457,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242924,
+        "num": 242924,
+        "word": "iPhone16或取消实体音量键电源键",
+        "onboard_time": 1713785117,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 241024,
+        "num": 241024,
+        "word": "失业后才懂得拒绝进厨房是一种权力",
+        "onboard_time": 1713778098,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230183,
+        "num": 230183,
+        "word": "消失的她原型5年后重返事发地",
+        "onboard_time": 1713764778,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203163,
+        "num": 203163,
+        "word": "伪装者",
+        "onboard_time": 1713781998,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195620,
+        "num": 195620,
+        "word": "秦海璐买个防窥膜吧",
+        "onboard_time": 1713762620,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177022,
+        "num": 177022,
+        "word": "吃面比吃米更容易胖是真的吗",
+        "onboard_time": 1713784277,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172957,
+        "num": 172957,
+        "word": "田馥甄天津",
+        "onboard_time": 1713774618,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165201,
+        "num": 165201,
+        "word": "雷军称着急购车可考虑智界S7",
+        "onboard_time": 1713771377,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 158469,
+        "num": 158469,
+        "word": "为什么心脏会突感咯噔一下",
+        "onboard_time": 1713784518,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165625,
+        "num": 157813,
+        "word": "秦海璐在买防窥膜了",
+        "onboard_time": 1713766100,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156565,
+        "num": 156565,
+        "word": "aespa预告造型",
+        "onboard_time": 1713783618,
+        "rank": 34,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 154760,
+        "num": 154760,
+        "word": "newjeans怎么办",
+        "onboard_time": 1713768137,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152716,
+        "num": 152716,
+        "word": "河北一粮库2年近万吨玉米不翼而飞",
+        "onboard_time": 1713779057,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147053,
+        "num": 147053,
+        "word": "原神希格雯",
+        "onboard_time": 1713782778,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23072,
+        "num": 142958,
+        "word": "中国汽车品牌打破世界纪录",
+        "onboard_time": 1713783858,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 141892,
+        "num": 141892,
+        "word": "闵熙珍说一切都靠自己",
+        "onboard_time": 1713785419,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137931,
+        "num": 137931,
+        "word": "12306被质疑纵容买长乘短",
+        "onboard_time": 1713764838,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137412,
+        "num": 137412,
+        "word": "优酷 杨幂",
+        "onboard_time": 1713773839,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135975,
+        "num": 135975,
+        "word": "星穹铁道前瞻直播定档",
+        "onboard_time": 1713784457,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124474,
+        "num": 124474,
+        "word": "刘涛叫张翰姐",
+        "onboard_time": 1713776298,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121251,
+        "num": 121251,
+        "word": "电影破墓",
+        "onboard_time": 1713785298,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120284,
+        "num": 120284,
+        "word": "因为要上班凌晨三点舍不得睡觉",
+        "onboard_time": 1713778517,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119787,
+        "num": 119787,
+        "word": "大侦探恐怖本",
+        "onboard_time": 1713779418,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108774,
+        "num": 108774,
+        "word": "金饰买价700卖价仅500",
+        "onboard_time": 1713777079,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108003,
+        "num": 108003,
+        "word": "父母当初不同意的人现在赞不绝口",
+        "onboard_time": 1713785478,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103403,
+        "num": 103403,
+        "word": "台湾花莲再发5.7级地震",
+        "onboard_time": 1713785656,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}

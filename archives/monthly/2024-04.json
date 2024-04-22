@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713784498021,
+  "endTime": 1713785723775,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3899,6 +3899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1072768,
+      "num": 1072768,
+      "word": "余罪再次下架",
+      "onboard_time": 1713782478,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1072382,
       "num": 1072382,
       "word": "孙颖莎陈梦",
@@ -4595,6 +4603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1000173,
+      "num": 1000173,
+      "word": "金世佳和王传君打过视频后哭了",
+      "onboard_time": 1713782537,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 999550,
       "num": 999550,
       "word": "老师用P过的照片吸引同学来上课",
@@ -5049,14 +5065,6 @@
       "onboard_time": 1713019700,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 953803,
-      "num": 953803,
-      "word": "余罪再次下架",
-      "onboard_time": 1713782478,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 953647,
@@ -6089,14 +6097,6 @@
       "onboard_time": 1713148458,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 849309,
-      "num": 849309,
-      "word": "金世佳和王传君打过视频后哭了",
-      "onboard_time": 1713782537,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 848514,
@@ -14531,6 +14531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 484882,
+      "num": 297342,
+      "word": "女子常熬夜胸痛难忍才就医确诊肺癌晚期",
+      "onboard_time": 1713782898,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 484738,
       "num": 472039,
       "word": "浪姐 循环利用",
@@ -16323,6 +16331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 442630,
+      "num": 442630,
+      "word": "Mari 退赛",
+      "onboard_time": 1713781878,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442584,
       "num": 442584,
       "word": "买燃油车的人正式成了少数派",
@@ -16651,6 +16667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 436046,
+      "num": 436046,
+      "word": "猴子都不吃的轻食我吃了",
+      "onboard_time": 1713783978,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 435667,
       "num": 435667,
       "word": "王俊凯当选最心动男嘉宾",
@@ -16953,14 +16977,6 @@
       "onboard_time": 1713446899,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 429601,
-      "num": 429601,
-      "word": "Mari 退赛",
-      "onboard_time": 1713781878,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 429458,
@@ -18289,14 +18305,6 @@
       "onboard_time": 1712020700,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 397325,
-      "num": 297342,
-      "word": "女子常熬夜胸痛难忍才就医确诊肺癌晚期",
-      "onboard_time": 1713782898,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 397212,
@@ -20851,6 +20859,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 350105,
+      "num": 350105,
+      "word": "黄晓明发了姚志明",
+      "onboard_time": 1713784758,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349930,
       "num": 349930,
       "word": "雷军 顶流",
@@ -22985,14 +23001,6 @@
       "onboard_time": 1711903636,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 313876,
-      "num": 174856,
-      "word": "猴子都不吃的轻食我吃了",
-      "onboard_time": 1713783978,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 313749,
@@ -25843,6 +25851,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 275644,
+      "num": 275644,
+      "word": "凤凰传奇 拿起荧光棒就是兵",
+      "onboard_time": 1713783318,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 275439,
       "num": 275439,
       "word": "台湾已发生10次地震",
@@ -26433,6 +26449,14 @@
       "onboard_time": 1713283338,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 268202,
+      "num": 268202,
+      "word": "台湾1小时内发生10起地震",
+      "onboard_time": 1713785656,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268166,
@@ -27281,14 +27305,6 @@
       "onboard_time": 1712109562,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259168,
-      "num": 259168,
-      "word": "凤凰传奇 拿起荧光棒就是兵",
-      "onboard_time": 1713783318,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 259152,
@@ -29161,6 +29177,14 @@
       "onboard_time": 1713021979,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242924,
+      "num": 242924,
+      "word": "iPhone16或取消实体音量键电源键",
+      "onboard_time": 1713785117,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 242860,
@@ -38747,6 +38771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190807,
+      "num": 626694,
+      "word": "男孩丢失人工耳蜗众人接力69小时寻回",
+      "onboard_time": 1713781278,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190799,
       "num": 190799,
       "word": "成毅站姐发的最强绿卡line",
@@ -39545,14 +39577,6 @@
       "onboard_time": 1712039059,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 188143,
-      "num": 626694,
-      "word": "男孩丢失人工耳蜗众人接力69小时寻回",
-      "onboard_time": 1713781278,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188069,
@@ -42185,6 +42209,14 @@
       "onboard_time": 1713006856,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177022,
+      "num": 177022,
+      "word": "吃面比吃米更容易胖是真的吗",
+      "onboard_time": 1713784277,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 177020,
@@ -46329,6 +46361,14 @@
       "onboard_time": 1712025018,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158469,
+      "num": 158469,
+      "word": "为什么心脏会突感咯噔一下",
+      "onboard_time": 1713784518,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 158462,
@@ -50819,6 +50859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141892,
+      "num": 141892,
+      "word": "闵熙珍说一切都靠自己",
+      "onboard_time": 1713785419,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141885,
       "num": 141885,
       "word": "厌倦了什么都要排队的生活",
@@ -52249,6 +52297,14 @@
       "onboard_time": 1713679638,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135975,
+      "num": 135975,
+      "word": "星穹铁道前瞻直播定档",
+      "onboard_time": 1713784457,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 135954,
@@ -55251,6 +55307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121251,
+      "num": 121251,
+      "word": "电影破墓",
+      "onboard_time": 1713785298,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121213,
       "num": 121213,
       "word": "工作上一遇到挫折就想辞职",
@@ -57163,6 +57227,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 108003,
+      "num": 108003,
+      "word": "父母当初不同意的人现在赞不绝口",
+      "onboard_time": 1713785478,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107947,
       "num": 1207409,
       "word": "如何将旧金山愿景转为实景",
@@ -57288,14 +57360,6 @@
       "word": "特蕾西娅",
       "onboard_time": 1712291779,
       "rank": 49,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 107282,
-      "num": 107282,
-      "word": "星穹铁道前瞻直播定档",
-      "onboard_time": 1713784457,
-      "rank": 45,
       "category": "游戏"
     },
     {
@@ -57595,14 +57659,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 104106,
-      "num": 104106,
-      "word": "吃面比吃米更容易胖是真的吗",
-      "onboard_time": 1713784277,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 103912,
       "num": 119130,
       "word": "网络空间部队担负什么任务",
@@ -57633,6 +57689,14 @@
       "onboard_time": 1712395937,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103403,
+      "num": 103403,
+      "word": "台湾花莲再发5.7级地震",
+      "onboard_time": 1713785656,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103151,
@@ -62315,6 +62379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 23072,
+      "num": 142958,
+      "word": "中国汽车品牌打破世界纪录",
+      "onboard_time": 1713783858,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 22978,
       "num": 220965,
       "word": "中二病最喜欢的一集",
@@ -62769,14 +62841,6 @@
       "onboard_time": 1712696290,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 14252,
-      "num": 136034,
-      "word": "中国汽车品牌打破世界纪录",
-      "onboard_time": 1713783858,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 14009,
