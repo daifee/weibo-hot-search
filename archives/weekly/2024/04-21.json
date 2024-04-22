@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713821665775,
+  "endTime": 1713824328345,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -3819,6 +3819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189834,
+      "num": 115030,
+      "word": "拳手踢举牌女郎臀部遭群殴",
+      "onboard_time": 1713802397,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189790,
       "num": 189790,
       "word": "陈昊宇考古",
@@ -5843,14 +5851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115030,
-      "num": 115030,
-      "word": "拳手踢举牌女郎臀部遭群殴",
-      "onboard_time": 1713802397,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114781,
       "num": 114781,
       "word": "五一酒店价格",
@@ -6017,6 +6017,14 @@
       "onboard_time": 1713725232,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104942,
+      "num": 104942,
+      "word": "大熊猫北辰把特供乒乓球给吃了",
+      "onboard_time": 1713813012,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104698,
@@ -6211,6 +6219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73302,
+      "num": 73302,
+      "word": "女生送礼被薛之谦回赠耳钉喜极而泣",
+      "onboard_time": 1713807671,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 73144,
       "num": 99324,
       "word": "林高远vs张本智和",
@@ -6355,6 +6371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 54841,
+      "num": 38462,
+      "word": "为何很多人不敢吃蚝油了",
+      "onboard_time": 1713819310,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 53336,
       "num": 1641062,
       "word": "世界读书日开卷有益",
@@ -6435,28 +6459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45983,
-      "num": 45983,
-      "word": "大熊猫北辰把特供乒乓球给吃了",
-      "onboard_time": 1713813012,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45948,
       "num": 75849,
       "word": "林高远张本智和",
       "onboard_time": 1713616037,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44170,
-      "num": 44170,
-      "word": "女生送礼被薛之谦回赠耳钉喜极而泣",
-      "onboard_time": 1713807671,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 44058,
@@ -6531,6 +6539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34363,
+      "num": 28628,
+      "word": "山东舰航母编队编组首次完整公开",
+      "onboard_time": 1713811691,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 32810,
       "num": 36041,
       "word": "鹿晗踢球戴曼联手套",
@@ -6547,20 +6563,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31272,
-      "num": 25952,
-      "word": "山东舰航母编队编组首次完整公开",
-      "onboard_time": 1713811691,
-      "rank": 31,
-      "category": "军事"
+      "raw_hot": 32482,
+      "num": 32482,
+      "word": "陆虎被猫抓伤了",
+      "onboard_time": 1713822311,
+      "rank": 26,
+      "category": "艺人"
     },
     {
-      "raw_hot": 31257,
-      "num": 25770,
-      "word": "为何很多人不敢吃蚝油了",
-      "onboard_time": 1713819310,
-      "rank": 23,
-      "category": "科学科普"
+      "raw_hot": 31076,
+      "num": 28471,
+      "word": "普拉提是减肥纠错本吧",
+      "onboard_time": 1713819851,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 29767,
@@ -6587,12 +6603,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25428,
+      "num": 25428,
+      "word": "为什么给狗狗买鞋会收到两双",
+      "onboard_time": 1713816012,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 24735,
       "num": 24735,
       "word": "主人好厉害会开这么难的车",
       "onboard_time": 1713650112,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 23389,
+      "num": 23389,
+      "word": "警惕吃出来的脑膜炎",
+      "onboard_time": 1713823211,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 23188,
@@ -6627,12 +6659,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 19948,
-      "num": 18372,
-      "word": "为什么给狗狗买鞋会收到两双",
-      "onboard_time": 1713816012,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 20392,
+      "num": 23384,
+      "word": "得闲谨制",
+      "onboard_time": 1713821231,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 20344,
+      "num": 23383,
+      "word": "北科大女生打假防癌护肤品",
+      "onboard_time": 1713813192,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19295,
+      "num": 23379,
+      "word": "为啥学校食堂番茄炒蛋按荤菜卖",
+      "onboard_time": 1713820150,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 18887,
@@ -6659,36 +6707,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17459,
-      "num": 17459,
-      "word": "普拉提是减肥纠错本吧",
-      "onboard_time": 1713819851,
-      "rank": 44,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 17414,
-      "num": 17414,
-      "word": "为啥学校食堂番茄炒蛋按荤菜卖",
-      "onboard_time": 1713820150,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 16473,
       "num": 16473,
       "word": "印度街头的餐具",
       "onboard_time": 1713818470,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 15632,
-      "num": 21906,
-      "word": "北科大女生打假防癌护肤品",
-      "onboard_time": 1713813192,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14892,
@@ -6713,14 +6737,6 @@
       "onboard_time": 1713645250,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13185,
-      "num": 14882,
-      "word": "得闲谨制",
-      "onboard_time": 1713821231,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 11546,
