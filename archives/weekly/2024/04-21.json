@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713759670073,
+  "endTime": 1713760451713,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2053116,
+      "num": 2053116,
+      "word": "星巴克 免费咖啡",
+      "onboard_time": 1713758058,
+      "rank": 0,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1609109,
       "num": 1609109,
       "word": "金价涨到700后不敢买也不敢卖",
@@ -113,14 +121,6 @@
       "onboard_time": 1713672138,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1494912,
-      "num": 1494912,
-      "word": "星巴克 免费咖啡",
-      "onboard_time": 1713758058,
-      "rank": 0,
-      "category": "美食"
     },
     {
       "raw_hot": 1489385,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1019829,
+      "num": 1019829,
+      "word": "王鸥演技",
+      "onboard_time": 1713757278,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1018879,
       "num": 1018879,
       "word": "广西一小区楼上坠落树根致高中生被砸身亡",
@@ -307,20 +315,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 982399,
-      "num": 982399,
-      "word": "王鸥演技",
-      "onboard_time": 1713757278,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 975435,
       "num": 381554,
       "word": "陈冠希发了Jennie",
       "onboard_time": 1713629118,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 918731,
+      "num": 918731,
+      "word": "荷兰男子新冠阳性613天去世",
+      "onboard_time": 1713758659,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 911966,
@@ -337,6 +345,14 @@
       "onboard_time": 1713660437,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 880662,
+      "num": 345115,
+      "word": "大部分情侣其实是酒肉情侣",
+      "onboard_time": 1713755418,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 875007,
@@ -377,14 +393,6 @@
       "onboard_time": 1713704600,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 842122,
-      "num": 345115,
-      "word": "大部分情侣其实是酒肉情侣",
-      "onboard_time": 1713755418,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 839464,
@@ -459,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 737275,
+      "num": 737275,
+      "word": "孙颖莎谈擦边球",
+      "onboard_time": 1713758358,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 731434,
       "num": 731434,
       "word": "刘忻是JYP第一位中国女艺人",
@@ -480,6 +496,14 @@
       "word": "杨幂演技",
       "onboard_time": 1713705680,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 712900,
+      "num": 712900,
+      "word": "汪曼春",
+      "onboard_time": 1713758598,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -635,14 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 617247,
-      "num": 617247,
-      "word": "孙颖莎谈擦边球",
-      "onboard_time": 1713758358,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 616363,
       "num": 616363,
       "word": "毛毛分娩后不知所措",
@@ -699,16 +715,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 581352,
-      "num": 581352,
-      "word": "汪曼春",
-      "onboard_time": 1713758598,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 578107,
-      "num": 578107,
+      "num": 661150,
       "word": "有薄膜的一次性咖啡杯30年才能降解",
       "onboard_time": 1713755358,
       "rank": 14,
@@ -836,7 +844,7 @@
     },
     {
       "raw_hot": 539339,
-      "num": 539339,
+      "num": 676794,
       "word": "马龙说感谢自己在0比3时没有放弃",
       "onboard_time": 1713740954,
       "rank": 14,
@@ -889,14 +897,6 @@
       "onboard_time": 1713701718,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 528620,
-      "num": 528620,
-      "word": "荷兰男子新冠阳性613天去世",
-      "onboard_time": 1713758659,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 522361,
@@ -1105,6 +1105,14 @@
       "onboard_time": 1713711260,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 452973,
+      "num": 452973,
+      "word": "合着我还过着29年前的单休生活",
+      "onboard_time": 1713758537,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450680,
@@ -1371,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 376426,
-      "num": 376426,
-      "word": "合着我还过着29年前的单休生活",
-      "onboard_time": 1713758537,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376178,
       "num": 376178,
       "word": "中国土味短剧在日本火了",
@@ -1449,6 +1449,14 @@
       "onboard_time": 1713709701,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 348352,
+      "num": 348352,
+      "word": "她心疼你 你却觉得她好使唤",
+      "onboard_time": 1713759200,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 347276,
@@ -1563,6 +1571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 320030,
+      "num": 320030,
+      "word": "秦海璐王安宇光明正大的唱因为爱情",
+      "onboard_time": 1713759499,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319470,
       "num": 319470,
       "word": "蔡文静网文",
@@ -1601,6 +1617,14 @@
       "onboard_time": 1713693378,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 302152,
+      "num": 302152,
+      "word": "赵丽颖重庆逛吃vlog",
+      "onboard_time": 1713759859,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 298792,
@@ -1681,6 +1705,14 @@
       "onboard_time": 1713744681,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281869,
+      "num": 281869,
+      "word": "未成年人五一每天仅能玩1小时游戏",
+      "onboard_time": 1713758899,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 278877,
@@ -1787,6 +1819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 256812,
+      "num": 256812,
+      "word": "桃花坞上班",
+      "onboard_time": 1713756978,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256784,
       "num": 256784,
       "word": "Doinb为Tian大哭",
@@ -1817,14 +1857,6 @@
       "onboard_time": 1713708622,
       "rank": 41,
       "category": "网红"
-    },
-    {
-      "raw_hot": 253855,
-      "num": 253855,
-      "word": "桃花坞上班",
-      "onboard_time": 1713756978,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 253580,
@@ -1923,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245375,
+      "num": 245375,
+      "word": "何浩楠 帅蜂了",
+      "onboard_time": 1713759200,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244918,
       "num": 244918,
       "word": "剧烈运动后千万不要立刻蹲下",
@@ -1968,6 +2008,14 @@
       "word": "仙台有树预约",
       "onboard_time": 1713754456,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 239038,
+      "num": 239038,
+      "word": "李现周雨彤新剧亲出声了",
+      "onboard_time": 1713759499,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -2051,14 +2099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227774,
-      "num": 227774,
-      "word": "何浩楠 帅蜂了",
-      "onboard_time": 1713759200,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 226358,
       "num": 226358,
       "word": "博塔斯退赛",
@@ -2081,14 +2121,6 @@
       "onboard_time": 1713627559,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 225348,
-      "num": 225348,
-      "word": "未成年人五一每天仅能玩1小时游戏",
-      "onboard_time": 1713758899,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 225284,
@@ -2227,20 +2259,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209608,
-      "num": 209608,
-      "word": "李现周雨彤新剧亲出声了",
-      "onboard_time": 1713759499,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208692,
       "num": 208692,
       "word": "F1直播",
       "onboard_time": 1713687258,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208244,
+      "num": 208244,
+      "word": "一诺体验粉丝的一天",
+      "onboard_time": 1713759800,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 208029,
@@ -2299,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205576,
+      "num": 205576,
+      "word": "雷霆1比0鹈鹕",
+      "onboard_time": 1713760099,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205375,
       "num": 205375,
       "word": "狼队语音",
@@ -2313,14 +2353,6 @@
       "onboard_time": 1713669737,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 204553,
-      "num": 204553,
-      "word": "秦海璐王安宇光明正大的唱因为爱情",
-      "onboard_time": 1713759499,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 204439,
@@ -2505,6 +2537,14 @@
       "onboard_time": 1713686959,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196166,
+      "num": 196166,
+      "word": "大学生考研不再非985211不读",
+      "onboard_time": 1713760219,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 195882,
@@ -2939,6 +2979,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 174701,
+      "num": 174701,
+      "word": "真正的沙县小吃根本没走出沙县",
+      "onboard_time": 1713759018,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 173392,
       "num": 173392,
       "word": "车手巡游",
@@ -3011,6 +3059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168859,
+      "num": 168859,
+      "word": "脱口秀回来了",
+      "onboard_time": 1713760400,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168748,
       "num": 166189,
       "word": "不够善良的我们 量子力学",
@@ -3041,22 +3097,6 @@
       "onboard_time": 1713743476,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 166914,
-      "num": 166914,
-      "word": "真正的沙县小吃根本没走出沙县",
-      "onboard_time": 1713759018,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 166094,
-      "num": 166094,
-      "word": "她心疼你 你却觉得她好使唤",
-      "onboard_time": 1713759200,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 165979,
@@ -3627,6 +3667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138128,
+      "num": 306306,
+      "word": "华为Pura70光织格纹漂亮银",
+      "onboard_time": 1713757938,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 137834,
       "num": 137834,
       "word": "你俩是在拍半熟恋人吧",
@@ -3865,14 +3913,6 @@
       "onboard_time": 1713627139,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125641,
-      "num": 269271,
-      "word": "华为Pura70光织格纹漂亮银",
-      "onboard_time": 1713757938,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 125154,
@@ -4315,6 +4355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 55590,
+      "num": 1065342,
+      "word": "潮起互联网奔涌三十年",
+      "onboard_time": 1713755478,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55402,
       "num": 55402,
       "word": "追星的意义是救赎自己",
@@ -4393,14 +4441,6 @@
       "onboard_time": 1713616037,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43073,
-      "num": 1065342,
-      "word": "潮起互联网奔涌三十年",
-      "onboard_time": 1713755478,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42439,
