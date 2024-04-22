@@ -1,0 +1,410 @@
+{
+  "runTime": 1713748563910,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1609109,
+        "num": 1609109,
+        "word": "金价涨到700后不敢买也不敢卖",
+        "onboard_time": 1713743537,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1129442,
+        "num": 1129442,
+        "word": "12306从未授权第三方平台发售火车票",
+        "onboard_time": 1713744919,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14455,
+        "num": 1082932,
+        "word": "用中国传统色打开春耕画卷",
+        "onboard_time": 1713686178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1078548,
+        "num": 1078548,
+        "word": "女子癌症晚期成了网红",
+        "onboard_time": 1713743537,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689191,
+        "num": 689191,
+        "word": "为何年轻人个人养老金缴存积极性不高",
+        "onboard_time": 1713742997,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539339,
+        "num": 539339,
+        "word": "马龙说感谢自己在0比3时没有放弃",
+        "onboard_time": 1713740954,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 501869,
+        "num": 501869,
+        "word": "女子称一个月光洗澡燃气费达130多元",
+        "onboard_time": 1713718575,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467998,
+        "num": 467998,
+        "word": "罗云熙演唱会票价1680",
+        "onboard_time": 1713708681,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 433139,
+        "num": 433139,
+        "word": "钟薛高创始人称卖红薯也要把债还上",
+        "onboard_time": 1713707361,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 425032,
+        "num": 425032,
+        "word": "今年第二个龙年龙月龙日龙时",
+        "onboard_time": 1713743657,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2376669,
+        "num": 423850,
+        "word": "五一调休",
+        "onboard_time": 1713745579,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 996320,
+        "num": 421248,
+        "word": "女律师否认副业做擦边直播",
+        "onboard_time": 1713745337,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484738,
+        "num": 417585,
+        "word": "浪姐 循环利用",
+        "onboard_time": 1713746958,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470391,
+        "num": 416394,
+        "word": "乐言直播被封",
+        "onboard_time": 1713743356,
+        "rank": 13,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 414375,
+        "num": 414375,
+        "word": "本周日要调休上班",
+        "onboard_time": 1713747499,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349685,
+        "num": 349685,
+        "word": "为什么闭上眼睛能看到诡异的波纹",
+        "onboard_time": 1713731651,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 334543,
+        "num": 334543,
+        "word": "医学博士学医11年熬成脱口秀冠军",
+        "onboard_time": 1713745158,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330762,
+        "num": 330762,
+        "word": "美国老人感染僵尸鹿病毒死亡",
+        "onboard_time": 1713705440,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322121,
+        "num": 322121,
+        "word": "中国土味短剧在日本火了",
+        "onboard_time": 1713728050,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263053,
+        "num": 263053,
+        "word": "陈丽君断层第一",
+        "onboard_time": 1713704359,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274993,
+        "num": 260708,
+        "word": "2岁男童疑菜市场接触鱼住进ICU",
+        "onboard_time": 1713744681,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255823,
+        "num": 255823,
+        "word": "马龙男单夺冠",
+        "onboard_time": 1713710062,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247131,
+        "num": 247131,
+        "word": "擦边球",
+        "onboard_time": 1713706581,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230855,
+        "num": 230855,
+        "word": "林俊杰新歌",
+        "onboard_time": 1713742816,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226771,
+        "num": 226771,
+        "word": "杨幂演技",
+        "onboard_time": 1713705680,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218537,
+        "num": 218537,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1713747978,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217331,
+        "num": 217331,
+        "word": "李云霄长沙",
+        "onboard_time": 1713746179,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214424,
+        "num": 214424,
+        "word": "雍和宫偶遇董卿",
+        "onboard_time": 1713743657,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206231,
+        "num": 206231,
+        "word": "全红婵摘银后公主抱英国铜牌得主",
+        "onboard_time": 1713707181,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203335,
+        "num": 203335,
+        "word": "二三十岁加过的班能伤到50岁的你",
+        "onboard_time": 1713745520,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199681,
+        "num": 199681,
+        "word": "庄达菲妈咪陈昊宇",
+        "onboard_time": 1713707060,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194133,
+        "num": 194133,
+        "word": "起床后按顺序做好5件事",
+        "onboard_time": 1713745819,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181398,
+        "num": 181398,
+        "word": "新疆地震",
+        "onboard_time": 1713740954,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174739,
+        "num": 174739,
+        "word": "本周狗屎运最旺的星座TOP4",
+        "onboard_time": 1713711140,
+        "rank": 33,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 170899,
+        "num": 170899,
+        "word": "广东韶关救灾现场画面",
+        "onboard_time": 1713746179,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167301,
+        "num": 167301,
+        "word": "seventeen克拉盘",
+        "onboard_time": 1713744318,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166981,
+        "num": 166981,
+        "word": "破墓",
+        "onboard_time": 1713743476,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162009,
+        "num": 162009,
+        "word": "韩网评价金秀贤演技",
+        "onboard_time": 1713722652,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153909,
+        "num": 153909,
+        "word": "医生辟谣小肚子是为了保护子宫卵巢",
+        "onboard_time": 1713694397,
+        "rank": 38,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 149024,
+        "num": 149024,
+        "word": "娄艺潇cos武则天",
+        "onboard_time": 1713711801,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148479,
+        "num": 148479,
+        "word": "全圆佑单封",
+        "onboard_time": 1713747798,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147451,
+        "num": 147451,
+        "word": "杨幂眼神",
+        "onboard_time": 1713747378,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146961,
+        "num": 146961,
+        "word": "88岁老兵脑海中自带海里公里换算器",
+        "onboard_time": 1713747679,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146377,
+        "num": 146377,
+        "word": "NBA常规赛奖项候选名单公布",
+        "onboard_time": 1713748099,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137903,
+        "num": 137903,
+        "word": "一小时内被三个人说我占座了",
+        "onboard_time": 1713699858,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126481,
+        "num": 126481,
+        "word": "ILLIT直播被骂是注水咖",
+        "onboard_time": 1713711622,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124304,
+        "num": 124304,
+        "word": "利拉德杀疯了",
+        "onboard_time": 1713748457,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122943,
+        "num": 122943,
+        "word": "早起有这4个表现说明你很健康",
+        "onboard_time": 1713740115,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120659,
+        "num": 120659,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1713705020,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119312,
+        "num": 119312,
+        "word": "沙特电竞世界杯宣传片公布",
+        "onboard_time": 1713745399,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}

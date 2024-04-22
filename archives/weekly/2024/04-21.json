@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713742487115,
+  "endTime": 1713748563910,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2376669,
+      "num": 423850,
+      "word": "五一调休",
+      "onboard_time": 1713745579,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2197428,
       "num": 2197428,
       "word": "孙颖莎4比3王曼昱",
@@ -65,6 +73,14 @@
       "onboard_time": 1713654433,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1609109,
+      "num": 1609109,
+      "word": "金价涨到700后不敢买也不敢卖",
+      "onboard_time": 1713743537,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 1537487,
@@ -187,11 +203,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1129442,
+      "num": 1129442,
+      "word": "12306从未授权第三方平台发售火车票",
+      "onboard_time": 1713744919,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1122846,
       "num": 1122846,
       "word": "女子称一个月光洗澡燃气费达130多元",
       "onboard_time": 1713718575,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1078548,
+      "num": 1078548,
+      "word": "女子癌症晚期成了网红",
+      "onboard_time": 1713743537,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -216,6 +248,14 @@
       "word": "北京市副市长高朋被查",
       "onboard_time": 1713707122,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 996320,
+      "num": 421248,
+      "word": "女律师否认副业做擦边直播",
+      "onboard_time": 1713745337,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -385,6 +425,14 @@
       "onboard_time": 1713699858,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 689191,
+      "num": 689191,
+      "word": "为何年轻人个人养老金缴存积极性不高",
+      "onboard_time": 1713742997,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 688177,
@@ -643,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 539339,
+      "num": 539339,
+      "word": "马龙说感谢自己在0比3时没有放弃",
+      "onboard_time": 1713740954,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 538986,
       "num": 538986,
       "word": "胡先煦高烧40度出席首映礼",
@@ -755,14 +811,6 @@
       "category": "健康医疗,美食"
     },
     {
-      "raw_hot": 497757,
-      "num": 497757,
-      "word": "马龙说感谢自己在0比3时没有放弃",
-      "onboard_time": 1713740954,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 495575,
       "num": 495575,
       "word": "广州塔1小时内连续6次接闪电",
@@ -785,6 +833,14 @@
       "onboard_time": 1713672737,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 484738,
+      "num": 417585,
+      "word": "浪姐 循环利用",
+      "onboard_time": 1713746958,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 483137,
@@ -817,6 +873,14 @@
       "onboard_time": 1713678499,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 470391,
+      "num": 416394,
+      "word": "乐言直播被封",
+      "onboard_time": 1713743356,
+      "rank": 13,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 465648,
@@ -923,6 +987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 425032,
+      "num": 425032,
+      "word": "今年第二个龙年龙月龙日龙时",
+      "onboard_time": 1713743657,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421150,
       "num": 421150,
       "word": "周杰伦演唱会vip座大妈睡着了",
@@ -961,6 +1033,14 @@
       "onboard_time": 1713687438,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 414375,
+      "num": 414375,
+      "word": "本周日要调休上班",
+      "onboard_time": 1713747499,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413899,
@@ -1235,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334543,
+      "num": 334543,
+      "word": "医学博士学医11年熬成脱口秀冠军",
+      "onboard_time": 1713745158,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330380,
       "num": 330380,
       "word": "极限挑战直播",
@@ -1369,6 +1457,14 @@
       "onboard_time": 1713680237,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 274993,
+      "num": 260708,
+      "word": "2岁男童疑菜市场接触鱼住进ICU",
+      "onboard_time": 1713744681,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274990,
@@ -1603,6 +1699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 230855,
+      "num": 230855,
+      "word": "林俊杰新歌",
+      "onboard_time": 1713742816,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230223,
       "num": 230223,
       "word": "李溪芮尚雯婕终于坐一起了",
@@ -1699,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218537,
+      "num": 218537,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1713747978,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 218207,
       "num": 218207,
       "word": "TheShy直播除三害",
@@ -1715,6 +1827,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 217331,
+      "num": 217331,
+      "word": "李云霄长沙",
+      "onboard_time": 1713746179,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 215562,
       "num": 215562,
       "word": "陈丽君浪姐鼓王",
@@ -1729,6 +1849,14 @@
       "onboard_time": 1713680298,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 214424,
+      "num": 214424,
+      "word": "雍和宫偶遇董卿",
+      "onboard_time": 1713743657,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 213211,
@@ -1833,6 +1961,14 @@
       "onboard_time": 1713671178,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203335,
+      "num": 203335,
+      "word": "二三十岁加过的班能伤到50岁的你",
+      "onboard_time": 1713745520,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 203285,
@@ -2001,6 +2137,14 @@
       "onboard_time": 1713713779,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194133,
+      "num": 194133,
+      "word": "起床后按顺序做好5件事",
+      "onboard_time": 1713745819,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 194026,
@@ -2379,6 +2523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170899,
+      "num": 170899,
+      "word": "广东韶关救灾现场画面",
+      "onboard_time": 1713746179,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169164,
       "num": 169164,
       "word": "时代少年团抢票",
@@ -2395,11 +2547,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167301,
+      "num": 167301,
+      "word": "seventeen克拉盘",
+      "onboard_time": 1713744318,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 167102,
       "num": 167102,
       "word": "王一博无袖练拳",
       "onboard_time": 1713672078,
       "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 166981,
+      "num": 166981,
+      "word": "破墓",
+      "onboard_time": 1713743476,
+      "rank": 36,
       "category": "电影"
     },
     {
@@ -2457,6 +2625,14 @@
       "onboard_time": 1713662178,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 162009,
+      "num": 162009,
+      "word": "韩网评价金秀贤演技",
+      "onboard_time": 1713722652,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 161951,
@@ -2683,6 +2859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148479,
+      "num": 148479,
+      "word": "全圆佑单封",
+      "onboard_time": 1713747798,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147663,
       "num": 147663,
       "word": "KPL",
@@ -2699,12 +2883,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147451,
+      "num": 147451,
+      "word": "杨幂眼神",
+      "onboard_time": 1713747378,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147146,
       "num": 147146,
       "word": "曼联",
       "onboard_time": 1713723733,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146961,
+      "num": 146961,
+      "word": "88岁老兵脑海中自带海里公里换算器",
+      "onboard_time": 1713747679,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146811,
@@ -2715,12 +2915,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 146753,
-      "num": 146753,
-      "word": "韩网评价金秀贤演技",
-      "onboard_time": 1713722652,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 146377,
+      "num": 146377,
+      "word": "NBA常规赛奖项候选名单公布",
+      "onboard_time": 1713748099,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 146350,
@@ -3139,6 +3339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124304,
+      "num": 124304,
+      "word": "利拉德杀疯了",
+      "onboard_time": 1713748457,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124144,
       "num": 124144,
       "word": "张艺兴玩鳄鱼玩具玩上瘾了",
@@ -3161,6 +3369,14 @@
       "onboard_time": 1713687138,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119312,
+      "num": 119312,
+      "word": "沙特电竞世界杯宣传片公布",
+      "onboard_time": 1713745399,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 119126,
@@ -3332,7 +3548,7 @@
     },
     {
       "raw_hot": 97714,
-      "num": 903736,
+      "num": 1082932,
       "word": "用中国传统色打开春耕画卷",
       "onboard_time": 1713686178,
       "rank": 2,
