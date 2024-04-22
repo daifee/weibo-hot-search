@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/22 15:17:22
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/22 15:34:12
 </p>
 </blockquote>
 <p>
@@ -4629,6 +4629,12 @@ ZARA大量粉丝紧急扫货（热度：865085）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%A6%88%E5%A6%88%E8%84%B1%E7%B2%89%E7%A7%A6%E5%B2%9A%E8%BD%AC%E7%B2%89%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
+辛芷蕾妈妈脱粉秦岚转粉迪丽热巴（热度：837714）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%82%89%E5%B0%BC%E4%B8%80%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E6%8C%81%E5%88%80%E8%A1%8C%E5%87%B6%E4%BA%8B%E4%BB%B6%E5%B7%B2%E8%87%B46%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 悉尼一购物中心持刀行凶事件已致6人死亡（热度：836350）
 </a>
@@ -6005,12 +6011,6 @@ BoA 可以隐退了吧（热度：728684）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%85%AC%E5%B8%83%E5%91%8A%E9%BB%91%E8%BF%9B%E5%B1%95%23" target="weibo">
 赵丽颖工作室公布告黑进展（热度：725506）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%81%AB%E6%98%9F%E5%93%A5%E6%8A%8A%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%88%AA%E6%8E%89%E4%BA%86%23" target="weibo">
-火星哥把林俊杰截掉了（热度：724755）
 </a>
 </li>
 

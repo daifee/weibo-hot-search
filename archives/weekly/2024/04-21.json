@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713770242152,
+  "endTime": 1713771252464,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 837714,
+      "num": 837714,
+      "word": "辛芷蕾妈妈脱粉秦岚转粉迪丽热巴",
+      "onboard_time": 1713768137,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 831897,
       "num": 831897,
       "word": "全红婵摘银后公主抱英国铜牌得主",
@@ -579,8 +587,8 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 694102,
-      "num": 694102,
+      "raw_hot": 697725,
+      "num": 697725,
       "word": "newjeans怎么办",
       "onboard_time": 1713768137,
       "rank": 6,
@@ -635,19 +643,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 684741,
-      "num": 684741,
-      "word": "辛芷蕾妈妈脱粉秦岚转粉迪丽热巴",
-      "onboard_time": 1713768137,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 682648,
       "num": 682648,
       "word": "福州沦陷日",
       "onboard_time": 1713664096,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 682354,
+      "num": 682354,
+      "word": "专家称休假改革难在众口难调",
+      "onboard_time": 1713766999,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1147,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 482445,
+      "num": 482445,
+      "word": "骑电动车举黄瓜被风筝线一分为二",
+      "onboard_time": 1713767417,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480927,
       "num": 480927,
       "word": "余罪重新上线",
@@ -1411,14 +1427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 400705,
-      "num": 400705,
-      "word": "骑电动车举黄瓜被风筝线一分为二",
-      "onboard_time": 1713767417,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 396254,
       "num": 396254,
       "word": "王楚钦奥运积分",
@@ -1627,6 +1635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 348459,
+      "num": 348459,
+      "word": "李现 现偶纯元",
+      "onboard_time": 1713769578,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 347276,
       "num": 347276,
       "word": "杨幂民国军装",
@@ -1641,6 +1657,14 @@
       "onboard_time": 1713669499,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 346742,
+      "num": 256352,
+      "word": "赵昭仪换新房子了",
+      "onboard_time": 1713769098,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 343347,
@@ -1755,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318668,
+      "num": 409926,
+      "word": "法国人在中国寻找七年前种的树",
+      "onboard_time": 1713767838,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314450,
       "num": 314450,
       "word": "韩媒报道LESSERAFIM成功雪耻",
@@ -1827,12 +1859,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 291168,
-      "num": 397515,
-      "word": "法国人在中国寻找七年前种的树",
-      "onboard_time": 1713767838,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 291211,
+      "num": 291211,
+      "word": "何赛飞评价杨紫",
+      "onboard_time": 1713768438,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 290933,
@@ -1955,14 +1987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263638,
-      "num": 263638,
-      "word": "李现 现偶纯元",
-      "onboard_time": 1713769578,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 262825,
       "num": 130672,
       "word": "郭碧婷曾被导演要求打瘦脸针",
@@ -2011,14 +2035,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 257787,
-      "num": 257787,
-      "word": "何赛飞评价杨紫",
-      "onboard_time": 1713768438,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 256812,
       "num": 256812,
       "word": "桃花坞上班",
@@ -2033,14 +2049,6 @@
       "onboard_time": 1713684677,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 256352,
-      "num": 256352,
-      "word": "赵昭仪换新房子了",
-      "onboard_time": 1713769098,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 255958,
@@ -2139,6 +2147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248450,
+      "num": 248450,
+      "word": "HYBE市值蒸发8400亿韩元",
+      "onboard_time": 1713770356,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247819,
       "num": 247819,
       "word": "徐嘉余冠军",
@@ -2177,6 +2193,14 @@
       "onboard_time": 1713759200,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245119,
+      "num": 245119,
+      "word": "吃辣上瘾是一种良性自虐",
+      "onboard_time": 1713768979,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 244918,
@@ -2379,6 +2403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 220452,
+      "num": 253525,
+      "word": "小学生丢课本被老师用戒尺打得头部变形",
+      "onboard_time": 1713770356,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218601,
       "num": 218601,
       "word": "林依轮说太紧张了想要个呼吸机",
@@ -2417,14 +2449,6 @@
       "onboard_time": 1713746179,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 216926,
-      "num": 216926,
-      "word": "吃辣上瘾是一种良性自虐",
-      "onboard_time": 1713768979,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 215562,
@@ -2827,14 +2851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 196215,
-      "num": 196215,
-      "word": "专家称休假改革难在众口难调",
-      "onboard_time": 1713766999,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195882,
       "num": 195882,
       "word": "广东人看了都想拿拖鞋的蟑螂风筝",
@@ -2913,6 +2929,14 @@
       "onboard_time": 1713709582,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193455,
+      "num": 193455,
+      "word": "雷军 格局",
+      "onboard_time": 1713771079,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 192966,
@@ -3073,6 +3097,14 @@
       "onboard_time": 1713674116,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186021,
+      "num": 186021,
+      "word": "汪曼春死于劝架",
+      "onboard_time": 1713769578,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 185691,
@@ -3331,12 +3363,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171781,
+      "num": 171781,
+      "word": "耳帝为何洁感到可惜",
+      "onboard_time": 1713769219,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171514,
       "num": 171514,
       "word": "康师傅统一方便面收入齐降",
       "onboard_time": 1713671718,
       "rank": 33,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 171386,
+      "num": 171386,
+      "word": "辛甘秦愿强吻",
+      "onboard_time": 1713770057,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 170988,
@@ -3419,6 +3467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166997,
+      "num": 166997,
+      "word": "贾冰 如来",
+      "onboard_time": 1713769699,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166981,
       "num": 166981,
       "word": "破墓",
@@ -3439,14 +3495,6 @@
       "num": 165531,
       "word": "关雪给自己包扎",
       "onboard_time": 1713701658,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 165105,
-      "num": 165105,
-      "word": "汪曼春死于劝架",
-      "onboard_time": 1713769578,
       "rank": 33,
       "category": "剧集"
     },
@@ -3723,14 +3771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 151804,
-      "num": 151804,
-      "word": "耳帝为何洁感到可惜",
-      "onboard_time": 1713769219,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151579,
       "num": 151579,
       "word": "快船1比0独行侠",
@@ -3841,14 +3881,6 @@
       "onboard_time": 1713658156,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 146474,
-      "num": 146474,
-      "word": "辛甘秦愿强吻",
-      "onboard_time": 1713770057,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 146377,
@@ -4107,14 +4139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136286,
-      "num": 136286,
-      "word": "贾冰 如来",
-      "onboard_time": 1713769699,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135997,
       "num": 135997,
       "word": "当普通社牛遇到社牛天花板",
@@ -4299,11 +4323,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128501,
+      "num": 128501,
+      "word": "打工为什么存不住钱",
+      "onboard_time": 1713771018,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128376,
       "num": 128376,
       "word": "你买火车票遇到了哪些问题",
       "onboard_time": 1713767658,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127318,
+      "num": 127318,
+      "word": "12306回应第三方平台用技术抢票",
+      "onboard_time": 1713770958,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -4353,6 +4393,14 @@
       "onboard_time": 1713666739,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124377,
+      "num": 124377,
+      "word": "Cat为电竞世界杯宣传片王者代表人物",
+      "onboard_time": 1713770899,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 124144,
@@ -4523,6 +4571,14 @@
       "category": "军事,国内时政"
     },
     {
+      "raw_hot": 108338,
+      "num": 108338,
+      "word": "出门40天猫咪的反应",
+      "onboard_time": 1713770719,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108269,
       "num": 108269,
       "word": "詹姆斯亮剑",
@@ -4560,6 +4616,14 @@
       "word": "墙缝里的猫努力想要跟小猫团聚",
       "onboard_time": 1713681258,
       "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 105661,
+      "num": 105661,
+      "word": "我们生来便是独立的个体",
+      "onboard_time": 1713771018,
+      "rank": 48,
       "category": "情感"
     },
     {
