@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713752889994,
+  "endTime": 1713753524891,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2376669,
-      "num": 459984,
+      "num": 527437,
       "word": "五一调休",
       "onboard_time": 1713745579,
       "rank": 10,
@@ -323,6 +323,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 844167,
+      "num": 844167,
+      "word": "97年的人都当综艺总导演了",
+      "onboard_time": 1713750677,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 839464,
       "num": 536366,
       "word": "许昕祝福马龙",
@@ -395,20 +403,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 731434,
+      "num": 731434,
+      "word": "刘忻是JYP第一位中国女艺人",
+      "onboard_time": 1713749957,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 731259,
       "num": 731259,
       "word": "本周狗屎运最旺的星座TOP4",
       "onboard_time": 1713711140,
       "rank": 7,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 728699,
-      "num": 728699,
-      "word": "刘忻是JYP第一位中国女艺人",
-      "onboard_time": 1713749957,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 725861,
@@ -425,14 +433,6 @@
       "onboard_time": 1713731651,
       "rank": 11,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 698999,
-      "num": 698999,
-      "word": "97年的人都当综艺总导演了",
-      "onboard_time": 1713750677,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 691895,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 685611,
+      "num": 685611,
+      "word": "93岁南京大屠杀幸存者刘素珍去世",
+      "onboard_time": 1713750198,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 682648,
       "num": 682648,
       "word": "福州沦陷日",
@@ -489,6 +497,14 @@
       "onboard_time": 1713694517,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 672466,
+      "num": 672466,
+      "word": "广西一小区楼上坠落树根致高中生被砸身亡",
+      "onboard_time": 1713751818,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 670650,
@@ -521,14 +537,6 @@
       "onboard_time": 1713711023,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 658886,
-      "num": 658886,
-      "word": "93岁南京大屠杀幸存者刘素珍去世",
-      "onboard_time": 1713750198,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 641389,
@@ -803,6 +811,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 521372,
+      "num": 521372,
+      "word": "我是O",
+      "onboard_time": 1713752838,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 518123,
       "num": 231370,
       "word": "我删掉了高中大学的所有同学",
@@ -923,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 476033,
+      "num": 476033,
+      "word": "朋友圈背景图",
+      "onboard_time": 1713750558,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 471420,
       "num": 471420,
       "word": "秦岚偷偷量了辛芷蕾手指尺寸",
@@ -956,7 +980,7 @@
     },
     {
       "raw_hot": 457320,
-      "num": 461855,
+      "num": 537885,
       "word": "今年第二个龙年龙月龙日龙时",
       "onboard_time": 1713743657,
       "rank": 9,
@@ -1001,14 +1025,6 @@
       "onboard_time": 1713667037,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 444811,
-      "num": 444811,
-      "word": "朋友圈背景图",
-      "onboard_time": 1713750558,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 440722,
@@ -1145,14 +1161,6 @@
       "onboard_time": 1713615258,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 402892,
-      "num": 402892,
-      "word": "广西一小区楼上坠落树根致高中生被砸身亡",
-      "onboard_time": 1713751818,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 396062,
@@ -1595,6 +1603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 261222,
+      "num": 261222,
+      "word": "念无双预告",
+      "onboard_time": 1713752718,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260917,
       "num": 130329,
       "word": "杨千嬅哭了",
@@ -1640,6 +1656,14 @@
       "word": "戚薇李承铉没拍过婚纱照",
       "onboard_time": 1713665778,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 252857,
+      "num": 252857,
+      "word": "小熊花园定档",
+      "onboard_time": 1713752778,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1729,6 +1753,14 @@
       "onboard_time": 1713679338,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241288,
+      "num": 241288,
+      "word": "美国军方代表团抵达青岛",
+      "onboard_time": 1713752598,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 241038,
@@ -2331,6 +2363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190813,
+      "num": 190813,
+      "word": "哈尔滨一九四四死装哥和试探姐",
+      "onboard_time": 1713752898,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189695,
       "num": 189695,
       "word": "马龙夺冠",
@@ -2691,14 +2731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168539,
-      "num": 168539,
-      "word": "念无双预告",
-      "onboard_time": 1713752718,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167301,
       "num": 167301,
       "word": "seventeen克拉盘",
@@ -2721,14 +2753,6 @@
       "onboard_time": 1713743476,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 165997,
-      "num": 165997,
-      "word": "小熊花园定档",
-      "onboard_time": 1713752778,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 165979,
@@ -2777,6 +2801,14 @@
       "onboard_time": 1713681737,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 162195,
+      "num": 162195,
+      "word": "华为智界S7截胡小米SU7",
+      "onboard_time": 1713753136,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 162137,
@@ -2857,14 +2889,6 @@
       "onboard_time": 1713751578,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 158303,
-      "num": 158303,
-      "word": "美国军方代表团抵达青岛",
-      "onboard_time": 1713752598,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 157768,
@@ -3051,6 +3075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148051,
+      "num": 148051,
+      "word": "县城家庭的三个阶层",
+      "onboard_time": 1713753438,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147663,
       "num": 147663,
       "word": "KPL",
@@ -3121,6 +3153,14 @@
       "onboard_time": 1713677058,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145573,
+      "num": 145573,
+      "word": "白色橄榄树首发预告",
+      "onboard_time": 1713753438,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 144837,
@@ -3457,14 +3497,6 @@
       "onboard_time": 1713683718,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 128963,
-      "num": 128963,
-      "word": "我是O",
-      "onboard_time": 1713752838,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 128845,
