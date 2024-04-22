@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713774973005,
+  "endTime": 1713777581888,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -459,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 853488,
+      "num": 853488,
+      "word": "雷军称着急购车可考虑智界S7",
+      "onboard_time": 1713771377,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 848514,
       "num": 848514,
       "word": "皮肤科医生不建议点痣",
@@ -505,14 +513,6 @@
       "onboard_time": 1713678139,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 813964,
-      "num": 813964,
-      "word": "雷军称着急购车可考虑智界S7",
-      "onboard_time": 1713771377,
-      "rank": 4,
-      "category": "汽车"
     },
     {
       "raw_hot": 803399,
@@ -747,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 641269,
+      "num": 625987,
+      "word": "田馥甄天津",
+      "onboard_time": 1713774618,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 641064,
       "num": 641064,
       "word": "朋友圈背景图",
@@ -761,6 +769,14 @@
       "onboard_time": 1713693316,
       "rank": 18,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 624784,
+      "num": 624784,
+      "word": "老师以考试奖励名义送学生新鞋",
+      "onboard_time": 1713773419,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 624598,
@@ -840,6 +856,14 @@
       "word": "第一批去新加坡的中产没200万年薪撑不下去",
       "onboard_time": 1713668057,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 587250,
+      "num": 367317,
+      "word": "罗森前店长妻子在罗森买到过期食品",
+      "onboard_time": 1713775038,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1187,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 481763,
+      "num": 481763,
+      "word": "美国国务卿布林肯将访华",
+      "onboard_time": 1713773478,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 480927,
       "num": 480927,
       "word": "余罪重新上线",
@@ -1259,6 +1291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 464404,
+      "num": 464404,
+      "word": "优酷 杨幂",
+      "onboard_time": 1713773839,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 457320,
       "num": 537885,
       "word": "今年第二个龙年龙月龙日龙时",
@@ -1305,14 +1345,6 @@
       "onboard_time": 1713698119,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 450424,
-      "num": 450424,
-      "word": "美国国务卿布林肯将访华",
-      "onboard_time": 1713773478,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 449787,
@@ -1369,6 +1401,14 @@
       "onboard_time": 1713676519,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 430765,
+      "num": 365194,
+      "word": "台湾4.9级左右地震",
+      "onboard_time": 1713777499,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425352,
@@ -1499,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 394216,
+      "num": 354191,
+      "word": "刘涛叫张翰姐",
+      "onboard_time": 1713776298,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394138,
       "num": 394138,
       "word": "WB连续三大场被零封",
@@ -1561,14 +1609,6 @@
       "onboard_time": 1713753438,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 382395,
-      "num": 382395,
-      "word": "田馥甄天津",
-      "onboard_time": 1713774618,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 381023,
@@ -1691,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353184,
+      "num": 353184,
+      "word": "杨幂露背高定裙",
+      "onboard_time": 1713774318,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 351078,
       "num": 351078,
       "word": "产妇跪求剖腹产多次被拒绝",
@@ -1736,14 +1784,6 @@
       "word": "厦门震感",
       "onboard_time": 1713667938,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 341371,
-      "num": 443062,
-      "word": "老师以考试奖励名义送学生新鞋",
-      "onboard_time": 1713773419,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2099,6 +2139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261804,
+      "num": 261804,
+      "word": "外交部回应日本靖国神社所谓春季大祭",
+      "onboard_time": 1713775938,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 261222,
       "num": 261222,
       "word": "念无双预告",
@@ -2171,6 +2219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253456,
+      "num": 253456,
+      "word": "人一旦染上了kpop",
+      "onboard_time": 1713775637,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 252857,
       "num": 252857,
       "word": "小熊花园定档",
@@ -2217,14 +2273,6 @@
       "onboard_time": 1713674179,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 250450,
-      "num": 250450,
-      "word": "优酷 杨幂",
-      "onboard_time": 1713773839,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 250305,
@@ -2387,6 +2435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231215,
+      "num": 231215,
+      "word": "张栋梁郑合惠子 好嗑",
+      "onboard_time": 1713775938,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231133,
       "num": 231133,
       "word": "睡前不刷牙的危害有多大",
@@ -2401,6 +2457,14 @@
       "onboard_time": 1713742816,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 230747,
+      "num": 192477,
+      "word": "领证前一天被跟拍放鸽子",
+      "onboard_time": 1713776358,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 230223,
@@ -2539,12 +2603,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 217205,
-      "num": 196739,
-      "word": "杨幂露背高定裙",
-      "onboard_time": 1713774318,
-      "rank": 27,
-      "category": "作品衍生"
+      "raw_hot": 215858,
+      "num": 215858,
+      "word": "花少1花少5团聚",
+      "onboard_time": 1713777079,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 215562,
@@ -3459,6 +3523,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 175965,
+      "num": 175965,
+      "word": "谁家小猫咪不帮家里挣钱啊",
+      "onboard_time": 1713775217,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175075,
       "num": 175075,
       "word": "向佐一套话术忽悠四个女人",
@@ -3635,6 +3707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165948,
+      "num": 165948,
+      "word": "北京下雨",
+      "onboard_time": 1713777438,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165531,
       "num": 165531,
       "word": "关雪给自己包扎",
@@ -3673,6 +3753,14 @@
       "onboard_time": 1713681737,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 162406,
+      "num": 162406,
+      "word": "6个数码宝贝同时进化",
+      "onboard_time": 1713776298,
+      "rank": 37,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 162372,
@@ -3731,6 +3819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161347,
+      "num": 161347,
+      "word": "金饰买价700卖价仅500",
+      "onboard_time": 1713777079,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 160700,
       "num": 160700,
       "word": "这就是在家门口圆梦的感觉吧",
@@ -3777,6 +3873,14 @@
       "onboard_time": 1713751578,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 158101,
+      "num": 158101,
+      "word": "吴磊宋三川返场",
+      "onboard_time": 1713776418,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 157768,
@@ -3835,6 +3939,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 155962,
+      "num": 155962,
+      "word": "HYBE旗下Label股份占比",
+      "onboard_time": 1713777138,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155542,
       "num": 155542,
       "word": "哈尔滨一九四四有自己的安陵容",
@@ -3849,6 +3961,14 @@
       "onboard_time": 1713747378,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154775,
+      "num": 151325,
+      "word": "ADOR涉嫌秘密拉踩HYBE艺人",
+      "onboard_time": 1713775878,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 154540,
@@ -4411,6 +4531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132436,
+      "num": 132436,
+      "word": "泡泡岛 惊喜嘉宾",
+      "onboard_time": 1713776058,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132218,
       "num": 132218,
       "word": "曼城vs切尔西",
@@ -4521,6 +4649,14 @@
       "onboard_time": 1713767658,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127967,
+      "num": 127967,
+      "word": "半熟恋人",
+      "onboard_time": 1713777438,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 127318,
@@ -5145,6 +5281,14 @@
       "onboard_time": 1713655994,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48224,
+      "num": 362276,
+      "word": "88VIP送归0膏",
+      "onboard_time": 1713776418,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 47188,
