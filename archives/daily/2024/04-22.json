@@ -1,6 +1,6 @@
 {
   "startTime": 1713716506059,
-  "endTime": 1713777581888,
+  "endTime": 1713778469323,
   "band_list": [
     {
       "raw_hot": 2376669,
@@ -235,6 +235,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 842765,
+      "num": 392182,
+      "word": "罗森前店长妻子在罗森买到过期食品",
+      "onboard_time": 1713775038,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 837714,
       "num": 837714,
       "word": "辛芷蕾妈妈脱粉秦岚转粉迪丽热巴",
@@ -403,14 +411,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 587250,
-      "num": 367317,
-      "word": "罗森前店长妻子在罗森买到过期食品",
-      "onboard_time": 1713775038,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 578107,
       "num": 661150,
       "word": "有薄膜的一次性咖啡杯30年才能降解",
@@ -467,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 515449,
+      "num": 515449,
+      "word": "台湾4.9级左右地震",
+      "onboard_time": 1713777499,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515351,
       "num": 515351,
       "word": "本周日要调休上班",
@@ -491,12 +499,28 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 506594,
+      "num": 506594,
+      "word": "北京下雨",
+      "onboard_time": 1713777438,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498028,
       "num": 498028,
       "word": "美国军方代表团抵达青岛",
       "onboard_time": 1713752598,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 486345,
+      "num": 486345,
+      "word": "刘涛叫张翰姐",
+      "onboard_time": 1713776298,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 484738,
@@ -603,14 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 430765,
-      "num": 365194,
-      "word": "台湾4.9级左右地震",
-      "onboard_time": 1713777499,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 422104,
       "num": 422104,
       "word": "周杰伦首次录制说唱节目",
@@ -649,14 +665,6 @@
       "onboard_time": 1713757818,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 394216,
-      "num": 354191,
-      "word": "刘涛叫张翰姐",
-      "onboard_time": 1713776298,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 391106,
@@ -1051,6 +1059,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 242099,
+      "num": 200434,
+      "word": "领证前一天被跟拍放鸽子",
+      "onboard_time": 1713776358,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 240118,
+      "num": 240118,
+      "word": "金饰买价700卖价仅500",
+      "onboard_time": 1713777079,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 239242,
       "num": 239242,
       "word": "仙台有树预约",
@@ -1065,6 +1089,14 @@
       "onboard_time": 1713759499,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234324,
+      "num": 234324,
+      "word": "花少1花少5团聚",
+      "onboard_time": 1713777079,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 231352,
@@ -1089,14 +1121,6 @@
       "onboard_time": 1713742816,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 230747,
-      "num": 192477,
-      "word": "领证前一天被跟拍放鸽子",
-      "onboard_time": 1713776358,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 222773,
@@ -1131,12 +1155,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 215858,
-      "num": 215858,
-      "word": "花少1花少5团聚",
-      "onboard_time": 1713777079,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 215763,
+      "num": 215763,
+      "word": "北京冰雹",
+      "onboard_time": 1713778218,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215269,
+      "num": 191550,
+      "word": "可乐排骨年糕",
+      "onboard_time": 1713777858,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 214424,
@@ -1265,6 +1297,14 @@
       "onboard_time": 1713761360,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201016,
+      "num": 201016,
+      "word": "金道英solo",
+      "onboard_time": 1713777800,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 200422,
@@ -1475,6 +1515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 179591,
+      "num": 179591,
+      "word": "YG没惹任何人",
+      "onboard_time": 1713778397,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178808,
       "num": 178808,
       "word": "上海地铁",
@@ -1627,12 +1675,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 165948,
-      "num": 165948,
-      "word": "北京下雨",
-      "onboard_time": 1713777438,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 164959,
+      "num": 164959,
+      "word": "陈丽君反差感",
+      "onboard_time": 1713777619,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 162406,
@@ -1657,14 +1705,6 @@
       "onboard_time": 1713722652,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161347,
-      "num": 161347,
-      "word": "金饰买价700卖价仅500",
-      "onboard_time": 1713777079,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 160199,
@@ -1755,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154415,
+      "num": 154415,
+      "word": "半熟恋人",
+      "onboard_time": 1713777438,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154325,
       "num": 154325,
       "word": "世界读书日",
@@ -1769,6 +1817,14 @@
       "onboard_time": 1713763878,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153830,
+      "num": 153830,
+      "word": "失业后才懂得拒绝进厨房是一种权力",
+      "onboard_time": 1713778098,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 153542,
@@ -1881,6 +1937,14 @@
       "onboard_time": 1713713120,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140109,
+      "num": 140109,
+      "word": "韩勇被开除党籍",
+      "onboard_time": 1713778278,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 140093,
@@ -2009,14 +2073,6 @@
       "onboard_time": 1713767658,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127967,
-      "num": 127967,
-      "word": "半熟恋人",
-      "onboard_time": 1713777438,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 127318,
@@ -2235,6 +2291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81040,
+      "num": 364733,
+      "word": "88VIP送归0膏",
+      "onboard_time": 1713776418,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 80834,
       "num": 80834,
       "word": "秦昊严选",
@@ -2281,14 +2345,6 @@
       "onboard_time": 1713755478,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48224,
-      "num": 362276,
-      "word": "88VIP送归0膏",
-      "onboard_time": 1713776418,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 42439,

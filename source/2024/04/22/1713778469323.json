@@ -1,0 +1,410 @@
+{
+  "runTime": 1713778469323,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 726405,
+        "num": 726405,
+        "word": "雷军称着急购车可考虑智界S7",
+        "onboard_time": 1713771377,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 642820,
+        "num": 642820,
+        "word": "辛芷蕾妈妈脱粉秦岚转粉迪丽热巴",
+        "onboard_time": 1713768137,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25252,
+        "num": 580377,
+        "word": "文化中国行",
+        "onboard_time": 1713754998,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570898,
+        "num": 570898,
+        "word": "田馥甄天津",
+        "onboard_time": 1713774618,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 550543,
+        "num": 550543,
+        "word": "老师以考试奖励名义送学生新鞋",
+        "onboard_time": 1713773419,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515449,
+        "num": 515449,
+        "word": "台湾4.9级左右地震",
+        "onboard_time": 1713777499,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506594,
+        "num": 506594,
+        "word": "北京下雨",
+        "onboard_time": 1713777438,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486345,
+        "num": 486345,
+        "word": "刘涛叫张翰姐",
+        "onboard_time": 1713776298,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402831,
+        "num": 402831,
+        "word": "HYBE蒸发了一个YG的市值",
+        "onboard_time": 1713772998,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396368,
+        "num": 396368,
+        "word": "优酷 杨幂",
+        "onboard_time": 1713773839,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 842765,
+        "num": 392182,
+        "word": "罗森前店长妻子在罗森买到过期食品",
+        "onboard_time": 1713775038,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753824,
+        "num": 390261,
+        "word": "三天不进餐 大后天吃9顿饭",
+        "onboard_time": 1713765138,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 535379,
+        "num": 389028,
+        "word": "小学生丢课本被老师用戒尺打得头部变形",
+        "onboard_time": 1713770356,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385961,
+        "num": 385961,
+        "word": "美国国务卿布林肯将访华",
+        "onboard_time": 1713773478,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 81040,
+        "num": 364733,
+        "word": "88VIP送归0膏",
+        "onboard_time": 1713776418,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 351772,
+        "num": 351772,
+        "word": "newjeans怎么办",
+        "onboard_time": 1713768137,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340683,
+        "num": 340683,
+        "word": "消失的她原型5年后重返事发地",
+        "onboard_time": 1713764778,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317947,
+        "num": 317947,
+        "word": "秦海璐在买防窥膜了",
+        "onboard_time": 1713766100,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315222,
+        "num": 315222,
+        "word": "日本年轻人开始流行友情婚",
+        "onboard_time": 1713762620,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284990,
+        "num": 284990,
+        "word": "杨幂露背高定裙",
+        "onboard_time": 1713774318,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 872714,
+        "num": 274075,
+        "word": "12306被质疑纵容买长乘短",
+        "onboard_time": 1713764838,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240118,
+        "num": 240118,
+        "word": "金饰买价700卖价仅500",
+        "onboard_time": 1713777079,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 354083,
+        "num": 240087,
+        "word": "秦海璐买个防窥膜吧",
+        "onboard_time": 1713762620,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239926,
+        "num": 239926,
+        "word": "外交部回应日本靖国神社所谓春季大祭",
+        "onboard_time": 1713775938,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 234324,
+        "num": 234324,
+        "word": "花少1花少5团聚",
+        "onboard_time": 1713777079,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227894,
+        "num": 227894,
+        "word": "张栋梁郑合惠子 好嗑",
+        "onboard_time": 1713775938,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215763,
+        "num": 215763,
+        "word": "北京冰雹",
+        "onboard_time": 1713778218,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204893,
+        "num": 204893,
+        "word": "人一旦染上了kpop",
+        "onboard_time": 1713775637,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203334,
+        "num": 203334,
+        "word": "雷军确认小米SU7交付提前",
+        "onboard_time": 1713773839,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 201016,
+        "num": 201016,
+        "word": "金道英solo",
+        "onboard_time": 1713777800,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242099,
+        "num": 200434,
+        "word": "领证前一天被跟拍放鸽子",
+        "onboard_time": 1713776358,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215269,
+        "num": 191550,
+        "word": "可乐排骨年糕",
+        "onboard_time": 1713777858,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 179591,
+        "num": 179591,
+        "word": "YG没惹任何人",
+        "onboard_time": 1713778397,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169106,
+        "num": 169106,
+        "word": "调休",
+        "onboard_time": 1713771258,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167623,
+        "num": 167623,
+        "word": "专家称休假改革难在众口难调",
+        "onboard_time": 1713766999,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164959,
+        "num": 164959,
+        "word": "陈丽君反差感",
+        "onboard_time": 1713777619,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158994,
+        "num": 158994,
+        "word": "谁家小猫咪不帮家里挣钱啊",
+        "onboard_time": 1713775217,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158513,
+        "num": 158513,
+        "word": "高铁被占座我强硬的要回来了",
+        "onboard_time": 1713774258,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154415,
+        "num": 154415,
+        "word": "半熟恋人",
+        "onboard_time": 1713777438,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153830,
+        "num": 153830,
+        "word": "失业后才懂得拒绝进厨房是一种权力",
+        "onboard_time": 1713778098,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149292,
+        "num": 149292,
+        "word": "李现 现偶纯元",
+        "onboard_time": 1713769578,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144191,
+        "num": 144191,
+        "word": "眼泪女王 绝症车祸失忆",
+        "onboard_time": 1713772638,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143883,
+        "num": 143883,
+        "word": "她心疼你 你却觉得她好使唤",
+        "onboard_time": 1713759200,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142148,
+        "num": 142148,
+        "word": "陈昊宇考古",
+        "onboard_time": 1713773956,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140109,
+        "num": 140109,
+        "word": "韩勇被开除党籍",
+        "onboard_time": 1713778278,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139550,
+        "num": 139550,
+        "word": "薛之谦厦门",
+        "onboard_time": 1713773899,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139100,
+        "num": 139100,
+        "word": "雷军 格局",
+        "onboard_time": 1713771079,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138866,
+        "num": 138866,
+        "word": "大部分情侣其实是酒肉情侣",
+        "onboard_time": 1713755418,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134691,
+        "num": 134691,
+        "word": "6个数码宝贝同时进化",
+        "onboard_time": 1713776298,
+        "rank": 48,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 134366,
+        "num": 134366,
+        "word": "HYBE旗下Label股份占比",
+        "onboard_time": 1713777138,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713777581888,
+  "endTime": 1713778469323,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -6131,6 +6131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 842765,
+      "num": 392182,
+      "word": "罗森前店长妻子在罗森买到过期食品",
+      "onboard_time": 1713775038,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 842542,
       "num": 517999,
       "word": "以色列叫停全体作战部队休假",
@@ -11067,14 +11075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 587250,
-      "num": 367317,
-      "word": "罗森前店长妻子在罗森买到过期食品",
-      "onboard_time": 1713775038,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 586428,
       "num": 586428,
       "word": "食物语永不关服",
@@ -13291,6 +13291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515449,
+      "num": 515449,
+      "word": "台湾4.9级左右地震",
+      "onboard_time": 1713777499,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515405,
       "num": 515405,
       "word": "赵小棠和妈妈吵架 家庭现状",
@@ -13657,6 +13665,14 @@
       "onboard_time": 1712219477,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 506594,
+      "num": 506594,
+      "word": "北京下雨",
+      "onboard_time": 1713777438,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 506176,
@@ -14321,6 +14337,14 @@
       "onboard_time": 1712496560,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 486345,
+      "num": 486345,
+      "word": "刘涛叫张翰姐",
+      "onboard_time": 1713776298,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 486328,
@@ -16811,14 +16835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 430765,
-      "num": 365194,
-      "word": "台湾4.9级左右地震",
-      "onboard_time": 1713777499,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 430521,
       "num": 430521,
       "word": "于正说白鹿推荐的曾舜晞",
@@ -18401,14 +18417,6 @@
       "onboard_time": 1713588976,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 394216,
-      "num": 354191,
-      "word": "刘涛叫张翰姐",
-      "onboard_time": 1713776298,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 394138,
@@ -29091,6 +29099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242099,
+      "num": 200434,
+      "word": "领证前一天被跟拍放鸽子",
+      "onboard_time": 1713776358,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242007,
       "num": 242007,
       "word": "王嘉尔刘雨昕88rising同台",
@@ -29313,6 +29329,14 @@
       "onboard_time": 1712112200,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 240118,
+      "num": 240118,
+      "word": "金饰买价700卖价仅500",
+      "onboard_time": 1713777079,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 240075,
@@ -29979,6 +30003,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 234324,
+      "num": 234324,
+      "word": "花少1花少5团聚",
+      "onboard_time": 1713777079,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234253,
       "num": 234253,
       "word": "与凤行 平行时空琉羽",
@@ -30489,14 +30521,6 @@
       "onboard_time": 1712673560,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230747,
-      "num": 192477,
-      "word": "领证前一天被跟拍放鸽子",
-      "onboard_time": 1713776358,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 230716,
@@ -32411,20 +32435,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215858,
-      "num": 215858,
-      "word": "花少1花少5团聚",
-      "onboard_time": 1713777079,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215804,
       "num": 215804,
       "word": "虞书欣 表情七十二变",
       "onboard_time": 1712642180,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215763,
+      "num": 215763,
+      "word": "北京冰雹",
+      "onboard_time": 1713778218,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215757,
@@ -32521,6 +32545,14 @@
       "onboard_time": 1712211079,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215269,
+      "num": 191550,
+      "word": "可乐排骨年糕",
+      "onboard_time": 1713777858,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 215255,
@@ -35769,6 +35801,14 @@
       "onboard_time": 1712240420,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 201016,
+      "num": 201016,
+      "word": "金道英solo",
+      "onboard_time": 1713777800,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 200924,
@@ -41443,6 +41483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179591,
+      "num": 179591,
+      "word": "YG没惹任何人",
+      "onboard_time": 1713778397,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179578,
       "num": 179578,
       "word": "为什么有的人刚毕业就要结婚",
@@ -44395,14 +44443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 165948,
-      "num": 165948,
-      "word": "北京下雨",
-      "onboard_time": 1713777438,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165922,
       "num": 1313728,
       "word": "清明祭英烈家国永念",
@@ -44625,6 +44665,14 @@
       "onboard_time": 1712792837,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164959,
+      "num": 164959,
+      "word": "陈丽君反差感",
+      "onboard_time": 1713777619,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 164889,
@@ -45465,14 +45513,6 @@
       "onboard_time": 1712090171,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161347,
-      "num": 161347,
-      "word": "金饰买价700卖价仅500",
-      "onboard_time": 1713777079,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 161275,
@@ -47281,6 +47321,14 @@
       "onboard_time": 1713076038,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 153830,
+      "num": 153830,
+      "word": "失业后才懂得拒绝进厨房是一种权力",
+      "onboard_time": 1713778098,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 153823,
@@ -50985,6 +51033,14 @@
       "onboard_time": 1713537258,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140109,
+      "num": 140109,
+      "word": "韩勇被开除党籍",
+      "onboard_time": 1713778278,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 140101,
@@ -58795,6 +58851,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 81040,
+      "num": 364733,
+      "word": "88VIP送归0膏",
+      "onboard_time": 1713776418,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 81007,
       "num": 81007,
       "word": "别因为误解让星星的孩子痛上加痛",
@@ -60601,14 +60665,6 @@
       "onboard_time": 1713655994,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 48224,
-      "num": 362276,
-      "word": "88VIP送归0膏",
-      "onboard_time": 1713776418,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 48137,
