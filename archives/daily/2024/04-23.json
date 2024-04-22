@@ -1,6 +1,6 @@
 {
   "startTime": 1713802938860,
-  "endTime": 1713806124610,
+  "endTime": 1713807253656,
   "band_list": [
     {
       "raw_hot": 1039581,
@@ -219,6 +219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 137487,
+      "num": 137487,
+      "word": "遗体整容师 残疾少女",
+      "onboard_time": 1713803835,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126007,
       "num": 126007,
       "word": "周杰伦 哈圈伍佰",
@@ -291,14 +299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 104232,
-      "num": 104232,
-      "word": "遗体整容师 残疾少女",
-      "onboard_time": 1713803835,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 103851,
       "num": 103851,
       "word": "周杰伦团队感谢杭州",
@@ -363,7 +363,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83804,
+      "raw_hot": 85636,
       "num": 83804,
       "word": "终于有人把离职补偿讲明白了",
       "onboard_time": 1713805093,
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67039,
+      "num": 67039,
+      "word": "今天是第55个世界地球日",
+      "onboard_time": 1713806114,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62094,
       "num": 62094,
       "word": "闵熙珍要求HYBE和BeliftLab正视错误",
@@ -433,6 +441,14 @@
       "onboard_time": 1713789559,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32585,
+      "num": 40573,
+      "word": "秦昊杨幂眼神戏",
+      "onboard_time": 1713806173,
+      "rank": 46,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
