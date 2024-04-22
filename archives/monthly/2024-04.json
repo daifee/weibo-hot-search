@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713802938860,
+  "endTime": 1713803804417,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -12235,6 +12235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 553543,
+      "num": 553543,
+      "word": "冯椿",
+      "onboard_time": 1713797237,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 553444,
       "num": 553444,
       "word": "张亮华晨宇李晨",
@@ -13161,6 +13169,14 @@
       "onboard_time": 1713256278,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525227,
+      "num": 525227,
+      "word": "赚了一个亏了一个平了一个",
+      "onboard_time": 1713800177,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 525181,
@@ -16299,14 +16315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 448454,
-      "num": 448454,
-      "word": "冯椿",
-      "onboard_time": 1713797237,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 448150,
       "num": 448150,
       "word": "张杰演唱会地屏",
@@ -17689,14 +17697,6 @@
       "onboard_time": 1712061138,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417881,
-      "num": 417881,
-      "word": "赚了一个亏了一个平了一个",
-      "onboard_time": 1713800177,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 417580,
@@ -19851,6 +19851,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 371534,
+      "num": 371534,
+      "word": "许美静团队回应演唱会太水争议",
+      "onboard_time": 1713801198,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 371321,
       "num": 315571,
       "word": "原来邋遢只是老师的保护色",
@@ -21273,14 +21281,6 @@
       "onboard_time": 1713769098,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346516,
-      "num": 346516,
-      "word": "许美静团队回应演唱会太水争议",
-      "onboard_time": 1713801198,
-      "rank": 12,
-      "category": "演出"
     },
     {
       "raw_hot": 346462,
@@ -43987,6 +43987,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 171318,
+      "num": 171318,
+      "word": "春色寄情人收视率",
+      "onboard_time": 1713802278,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171262,
       "num": 171262,
       "word": "RNG拍卖奖杯或将面临罚款",
@@ -54331,14 +54339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129210,
-      "num": 129210,
-      "word": "春色寄情人收视率",
-      "onboard_time": 1713802278,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129172,
       "num": 129172,
       "word": "LPL加入蓝色行动",
@@ -55603,6 +55603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122580,
+      "num": 122580,
+      "word": "花少团也看了拯救辛芷蕾",
+      "onboard_time": 1713801738,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122526,
       "num": 122526,
       "word": "郝蕾 9个细节体现专业",
@@ -56041,14 +56049,6 @@
       "onboard_time": 1712467879,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 120449,
-      "num": 120449,
-      "word": "花少团也看了拯救辛芷蕾",
-      "onboard_time": 1713801738,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 120423,
@@ -56873,6 +56873,14 @@
       "onboard_time": 1713575957,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115030,
+      "num": 115030,
+      "word": "拳手踢举牌女郎臀部遭群殴",
+      "onboard_time": 1713802397,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115027,
@@ -59897,14 +59905,6 @@
       "onboard_time": 1713567854,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80026,
-      "num": 80026,
-      "word": "拳手踢举牌女郎臀部遭群殴",
-      "onboard_time": 1713802397,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79994,

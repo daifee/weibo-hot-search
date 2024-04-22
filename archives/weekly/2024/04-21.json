@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713802938860,
+  "endTime": 1713803804417,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -1195,6 +1195,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 553543,
+      "num": 553543,
+      "word": "冯椿",
+      "onboard_time": 1713797237,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 551477,
       "num": 502299,
       "word": "姐夫好我是王安宇",
@@ -1281,6 +1289,14 @@
       "onboard_time": 1713701718,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 525227,
+      "num": 525227,
+      "word": "赚了一个亏了一个平了一个",
+      "onboard_time": 1713800177,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 523851,
@@ -1635,14 +1651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 448454,
-      "num": 448454,
-      "word": "冯椿",
-      "onboard_time": 1713797237,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 442630,
       "num": 442630,
       "word": "Mari 退赛",
@@ -1737,14 +1745,6 @@
       "onboard_time": 1713699977,
       "rank": 7,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 417881,
-      "num": 417881,
-      "word": "赚了一个亏了一个平了一个",
-      "onboard_time": 1713800177,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 417173,
@@ -1979,6 +1979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 371534,
+      "num": 371534,
+      "word": "许美静团队回应演唱会太水争议",
+      "onboard_time": 1713801198,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 371111,
       "num": 371111,
       "word": "迪丽热巴留言花少团",
@@ -2121,14 +2129,6 @@
       "onboard_time": 1713769098,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346516,
-      "num": 346516,
-      "word": "许美静团队回应演唱会太水争议",
-      "onboard_time": 1713801198,
-      "rank": 12,
-      "category": "演出"
     },
     {
       "raw_hot": 343347,
@@ -4323,6 +4323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171318,
+      "num": 171318,
+      "word": "春色寄情人收视率",
+      "onboard_time": 1713802278,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170988,
       "num": 170988,
       "word": "朱丹回应小肚子",
@@ -5547,14 +5555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129210,
-      "num": 129210,
-      "word": "春色寄情人收视率",
-      "onboard_time": 1713802278,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129043,
       "num": 129043,
       "word": "疑似张凯回应辞职",
@@ -5707,6 +5707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122580,
+      "num": 122580,
+      "word": "花少团也看了拯救辛芷蕾",
+      "onboard_time": 1713801738,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122461,
       "num": 122461,
       "word": "夏之光田嘉瑞的i人party",
@@ -5729,14 +5737,6 @@
       "onboard_time": 1713661519,
       "rank": 45,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 120449,
-      "num": 120449,
-      "word": "花少团也看了拯救辛芷蕾",
-      "onboard_time": 1713801738,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 120423,
@@ -5833,6 +5833,14 @@
       "onboard_time": 1713795560,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115030,
+      "num": 115030,
+      "word": "拳手踢举牌女郎臀部遭群殴",
+      "onboard_time": 1713802397,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114781,
@@ -6153,14 +6161,6 @@
       "onboard_time": 1713736331,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80026,
-      "num": 80026,
-      "word": "拳手踢举牌女郎臀部遭群殴",
-      "onboard_time": 1713802397,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78004,

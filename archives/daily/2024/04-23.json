@@ -1,6 +1,6 @@
 {
   "startTime": 1713802938860,
-  "endTime": 1713802938860,
+  "endTime": 1713803804417,
   "band_list": [
     {
       "raw_hot": 1039581,
@@ -9,6 +9,22 @@
       "onboard_time": 1713786198,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553543,
+      "num": 553543,
+      "word": "冯椿",
+      "onboard_time": 1713797237,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 525227,
+      "num": 525227,
+      "word": "赚了一个亏了一个平了一个",
+      "onboard_time": 1713800177,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 511426,
@@ -59,24 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448454,
-      "num": 448454,
-      "word": "冯椿",
-      "onboard_time": 1713797237,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 417881,
-      "num": 417881,
-      "word": "赚了一个亏了一个平了一个",
-      "onboard_time": 1713800177,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 386904,
-      "num": 386904,
+      "raw_hot": 421891,
+      "num": 421891,
       "word": "iPhone16或取消实体音量键电源键",
       "onboard_time": 1713785117,
       "rank": 8,
@@ -91,20 +91,20 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 371534,
+      "num": 371534,
+      "word": "许美静团队回应演唱会太水争议",
+      "onboard_time": 1713801198,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 370169,
       "num": 173973,
       "word": "为什么点外卖都要送这种饮料",
       "onboard_time": 1713795980,
       "rank": 21,
       "category": "美食"
-    },
-    {
-      "raw_hot": 346516,
-      "num": 346516,
-      "word": "许美静团队回应演唱会太水争议",
-      "onboard_time": 1713801198,
-      "rank": 12,
-      "category": "演出"
     },
     {
       "raw_hot": 335185,
@@ -179,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171318,
+      "num": 171318,
+      "word": "春色寄情人收视率",
+      "onboard_time": 1713802278,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167175,
       "num": 167175,
       "word": "硬糖少女303",
@@ -211,19 +219,19 @@
       "category": "美食"
     },
     {
-      "raw_hot": 129210,
-      "num": 129210,
-      "word": "春色寄情人收视率",
-      "onboard_time": 1713802278,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126007,
       "num": 126007,
       "word": "周杰伦 哈圈伍佰",
       "onboard_time": 1713796580,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122580,
+      "num": 122580,
+      "word": "花少团也看了拯救辛芷蕾",
+      "onboard_time": 1713801738,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -233,14 +241,6 @@
       "onboard_time": 1713789138,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 120449,
-      "num": 120449,
-      "word": "花少团也看了拯救辛芷蕾",
-      "onboard_time": 1713801738,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 118349,
@@ -256,6 +256,14 @@
       "word": "12306回应公众号发疯留言能求到票",
       "onboard_time": 1713778457,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115030,
+      "num": 115030,
+      "word": "拳手踢举牌女郎臀部遭群殴",
+      "onboard_time": 1713802397,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90961,
+      "num": 94954,
+      "word": "黄金",
+      "onboard_time": 1713794780,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 90793,
       "num": 90793,
       "word": "春色寄情人",
@@ -347,28 +363,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 81819,
-      "num": 94954,
-      "word": "黄金",
-      "onboard_time": 1713794780,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 80365,
       "num": 80365,
       "word": "NewJeans曾说自己是ADOR不是HYBE",
       "onboard_time": 1713783138,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 80026,
-      "num": 80026,
-      "word": "拳手踢举牌女郎臀部遭群殴",
-      "onboard_time": 1713802397,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79354,
@@ -395,7 +395,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34222,
+      "raw_hot": 34266,
       "num": 477595,
       "word": "世界读书日开卷有益",
       "onboard_time": 1713789559,
