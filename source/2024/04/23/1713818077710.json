@@ -1,0 +1,410 @@
+{
+  "runTime": 1713818077710,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 225929,
+        "num": 225929,
+        "word": "台湾1小时内发生10起地震",
+        "onboard_time": 1713785656,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132891,
+        "num": 132891,
+        "word": "台湾花莲又发5.9级地震",
+        "onboard_time": 1713796821,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9881,
+        "num": 62068,
+        "word": "世界读书日开卷有益",
+        "onboard_time": 1713789559,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61477,
+        "num": 61477,
+        "word": "台湾花莲海域5.3级地震",
+        "onboard_time": 1713778457,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53748,
+        "num": 53748,
+        "word": "iPhone16或取消实体音量键电源键",
+        "onboard_time": 1713785117,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 50671,
+        "num": 50671,
+        "word": "许美静团队回应演唱会太水争议",
+        "onboard_time": 1713801198,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48336,
+        "num": 48336,
+        "word": "冯椿",
+        "onboard_time": 1713797237,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40029,
+        "num": 40029,
+        "word": "赚了一个亏了一个平了一个",
+        "onboard_time": 1713800177,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39535,
+        "num": 39535,
+        "word": "斗鱼CEO陈少杰已取保候审",
+        "onboard_time": 1713789138,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36731,
+        "num": 39155,
+        "word": "大熊猫北辰把特供乒乓球给吃了",
+        "onboard_time": 1713813012,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71809,
+        "num": 39102,
+        "word": "郑乃馨承认恋情",
+        "onboard_time": 1713786198,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69767,
+        "num": 38339,
+        "word": "拳手踢举牌女郎臀部遭群殴",
+        "onboard_time": 1713802397,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43044,
+        "num": 38284,
+        "word": "余罪再次下架",
+        "onboard_time": 1713782478,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37937,
+        "num": 37937,
+        "word": "爱情公寓秦羽墨开美甲店",
+        "onboard_time": 1713787639,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31550,
+        "num": 31550,
+        "word": "难哄 大事很妙",
+        "onboard_time": 1713786138,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31177,
+        "num": 31177,
+        "word": "杭州震感",
+        "onboard_time": 1713796639,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28833,
+        "num": 28833,
+        "word": "浙江舞蹈老师怀孕39周仍每天跳舞",
+        "onboard_time": 1713794419,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28338,
+        "num": 28338,
+        "word": "春色寄情人收视率",
+        "onboard_time": 1713802278,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28051,
+        "num": 28051,
+        "word": "金世佳和王传君打过视频后哭了",
+        "onboard_time": 1713782537,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27723,
+        "num": 27723,
+        "word": "女生送礼被薛之谦回赠耳钉喜极而泣",
+        "onboard_time": 1713807671,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38421,
+        "num": 25903,
+        "word": "婚前性行为该拒绝吗",
+        "onboard_time": 1713791180,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34364,
+        "num": 25332,
+        "word": "为什么点外卖都要送这种饮料",
+        "onboard_time": 1713795980,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 23531,
+        "num": 23531,
+        "word": "以色列",
+        "onboard_time": 1713816490,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 23531,
+        "num": 23531,
+        "word": "女子常熬夜胸痛难忍才就医确诊肺癌晚期",
+        "onboard_time": 1713782898,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19846,
+        "num": 19846,
+        "word": "北科大女生 求你别再骗我妈救命钱",
+        "onboard_time": 1713789799,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19155,
+        "num": 19155,
+        "word": "东北雨姐做手术",
+        "onboard_time": 1713786437,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19133,
+        "num": 19133,
+        "word": "别再用隔夜米做蛋炒饭了",
+        "onboard_time": 1713792199,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 18469,
+        "num": 18469,
+        "word": "审判春色寄情人",
+        "onboard_time": 1713794179,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17807,
+        "num": 17807,
+        "word": "主播卖抗癌化妆品骗老人救命钱被封禁",
+        "onboard_time": 1713794120,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17778,
+        "num": 17778,
+        "word": "鱼 愿天堂没有给",
+        "onboard_time": 1713786917,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22011,
+        "num": 17616,
+        "word": "看似羞耻的小习惯其实非常解压",
+        "onboard_time": 1713798919,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20312,
+        "num": 17560,
+        "word": "山东舰航母编队编组首次完整公开",
+        "onboard_time": 1713811691,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 17816,
+        "num": 17496,
+        "word": "为什么给狗狗买鞋会收到两双",
+        "onboard_time": 1713816012,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17333,
+        "num": 17333,
+        "word": "李现台词",
+        "onboard_time": 1713794120,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17012,
+        "num": 17012,
+        "word": "赵今麦中戏毕业大戏",
+        "onboard_time": 1713794481,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16962,
+        "num": 16962,
+        "word": "含糖量很高的暧昧期聊天",
+        "onboard_time": 1713799338,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16338,
+        "num": 16338,
+        "word": "硬糖少女303",
+        "onboard_time": 1713787521,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16205,
+        "num": 16205,
+        "word": "关雪谁啊",
+        "onboard_time": 1713813551,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15229,
+        "num": 16204,
+        "word": "晚宴上的杨幂",
+        "onboard_time": 1713792439,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14950,
+        "num": 16201,
+        "word": "北科大女生打假防癌护肤品",
+        "onboard_time": 1713813192,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14667,
+        "num": 16197,
+        "word": "终于有人把离职补偿讲明白了",
+        "onboard_time": 1713805093,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14084,
+        "num": 16190,
+        "word": "遗体整容师 残疾少女",
+        "onboard_time": 1713803835,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13725,
+        "num": 16185,
+        "word": "春色寄情人",
+        "onboard_time": 1713792979,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13667,
+        "num": 16181,
+        "word": "短效避孕药和紧急避孕药的区别",
+        "onboard_time": 1713798439,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 13331,
+        "num": 16179,
+        "word": "种地吧剪辑",
+        "onboard_time": 1713792140,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12869,
+        "num": 16173,
+        "word": "没想到衣物收纳这么简单",
+        "onboard_time": 1713810912,
+        "rank": 45,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 12725,
+        "num": 16171,
+        "word": "周杰伦 哈圈伍佰",
+        "onboard_time": 1713796580,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12199,
+        "num": 16167,
+        "word": "马嘉祺说张杰送的餐具还没用",
+        "onboard_time": 1713807732,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11981,
+        "num": 16158,
+        "word": "最美不是下雨天而是有人撑伞的遇见",
+        "onboard_time": 1713799279,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11546,
+        "num": 16156,
+        "word": "四川村K现场有多嗨",
+        "onboard_time": 1713818051,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}

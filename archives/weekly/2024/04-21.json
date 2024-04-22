@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713817140110,
+  "endTime": 1713818077710,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -6491,6 +6491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 36731,
+      "num": 41438,
+      "word": "大熊猫北辰把特供乒乓球给吃了",
+      "onboard_time": 1713813012,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35568,
       "num": 46813,
       "word": "内蒙古开鲁县干部为何下田拦春耕",
@@ -6539,14 +6547,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 30551,
-      "num": 41438,
-      "word": "大熊猫北辰把特供乒乓球给吃了",
-      "onboard_time": 1713813012,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29767,
       "num": 28406,
       "word": "胃癌在早期没有症状",
@@ -6577,6 +6577,14 @@
       "onboard_time": 1713650112,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 23531,
+      "num": 23531,
+      "word": "以色列",
+      "onboard_time": 1713816490,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 23188,
@@ -6627,12 +6635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17667,
-      "num": 17667,
-      "word": "以色列",
-      "onboard_time": 1713816490,
-      "rank": 32,
-      "category": "国外时政"
+      "raw_hot": 17816,
+      "num": 17496,
+      "word": "为什么给狗狗买鞋会收到两双",
+      "onboard_time": 1713816012,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 17612,
@@ -6641,14 +6649,6 @@
       "onboard_time": 1713813551,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16145,
-      "num": 16145,
-      "word": "为什么给狗狗买鞋会收到两双",
-      "onboard_time": 1713816012,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 15632,
@@ -6679,6 +6679,14 @@
       "num": 17290,
       "word": "一群余华托举起了铁生的摇滚梦",
       "onboard_time": 1713645250,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11546,
+      "num": 16156,
+      "word": "四川村K现场有多嗨",
+      "onboard_time": 1713818051,
       "rank": 49,
       "category": "社会新闻"
     }
