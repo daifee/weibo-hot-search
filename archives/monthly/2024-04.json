@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713755974870,
+  "endTime": 1713756932155,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2225520,
+      "num": 2225520,
+      "word": "我是O",
+      "onboard_time": 1713752838,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2221885,
       "num": 1307919,
       "word": "百万网红杨立新遇害",
@@ -801,14 +809,6 @@
       "onboard_time": 1712015299,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1950823,
-      "num": 1950823,
-      "word": "我是O",
-      "onboard_time": 1713752838,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 1943927,
@@ -4355,6 +4355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1018879,
+      "num": 1018879,
+      "word": "广西一小区楼上坠落树根致高中生被砸身亡",
+      "onboard_time": 1713751818,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1016402,
       "num": 1016402,
       "word": "中央财经大学多名学生吐槽800米体测",
@@ -5904,14 +5912,6 @@
       "word": "姜爷爷回韩国了",
       "onboard_time": 1712274315,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 852077,
-      "num": 852077,
-      "word": "广西一小区楼上坠落树根致高中生被砸身亡",
-      "onboard_time": 1713751818,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -10531,6 +10531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598067,
+      "num": 598067,
+      "word": "唐嫣时隔15年再演仙侠剧",
+      "onboard_time": 1713755418,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 597605,
       "num": 597605,
       "word": "新疆阿克苏3.8级地震",
@@ -11483,6 +11491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565108,
+      "num": 565108,
+      "word": "单休的人连上九天班",
+      "onboard_time": 1713753616,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565058,
       "num": 565058,
       "word": "首饰金价一夜飙升15元每克",
@@ -11841,6 +11857,14 @@
       "onboard_time": 1713011957,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 551089,
+      "num": 321442,
+      "word": "大部分情侣其实是酒肉情侣",
+      "onboard_time": 1713755418,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 550689,
@@ -13307,6 +13331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509023,
+      "num": 509023,
+      "word": "许嵩合肥抢票",
+      "onboard_time": 1713755719,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 509012,
       "num": 455242,
       "word": "郭文韬跳昆卡",
@@ -13753,6 +13785,14 @@
       "onboard_time": 1713426317,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 498028,
+      "num": 498028,
+      "word": "美国军方代表团抵达青岛",
+      "onboard_time": 1713752598,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 497765,
@@ -15187,14 +15227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 458951,
-      "num": 458951,
-      "word": "单休的人连上九天班",
-      "onboard_time": 1713753616,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 458842,
       "num": 295203,
       "word": "5天年假折现了6千多",
@@ -15241,6 +15273,14 @@
       "onboard_time": 1712407579,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 457472,
+      "num": 527087,
+      "word": "有薄膜的一次性咖啡杯30年才能降解",
+      "onboard_time": 1713755358,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 457329,
@@ -15465,14 +15505,6 @@
       "onboard_time": 1713397998,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 452539,
-      "num": 431071,
-      "word": "美国军方代表团抵达青岛",
-      "onboard_time": 1713752598,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 452365,
@@ -20075,6 +20107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354606,
+      "num": 354606,
+      "word": "金莎已见过男友家长",
+      "onboard_time": 1713754578,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 354350,
       "num": 354350,
       "word": "华晨宇演唱会顺带搞基建",
@@ -20947,14 +20987,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 338476,
-      "num": 214179,
-      "word": "大部分情侣其实是酒肉情侣",
-      "onboard_time": 1713755418,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 338332,
       "num": 338332,
       "word": "蔡依林称折耳根是贵阳一姐",
@@ -21153,14 +21185,6 @@
       "onboard_time": 1712814378,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 334594,
-      "num": 334594,
-      "word": "金莎已见过男友家长",
-      "onboard_time": 1713754578,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 334543,
@@ -21761,14 +21785,6 @@
       "onboard_time": 1712543960,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 324856,
-      "num": 324856,
-      "word": "唐嫣时隔15年再演仙侠剧",
-      "onboard_time": 1713755418,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 324733,
@@ -23931,6 +23947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 292731,
+      "num": 292731,
+      "word": "未定事件簿",
+      "onboard_time": 1713756197,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292688,
       "num": 250232,
       "word": "一块热毛巾差点导致截肢",
@@ -24297,6 +24321,14 @@
       "onboard_time": 1713153560,
       "rank": 22,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 288874,
+      "num": 288874,
+      "word": "华为智界S7截胡小米SU7",
+      "onboard_time": 1713753136,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 288503,
@@ -25515,14 +25547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 272421,
-      "num": 272421,
-      "word": "华为智界S7截胡小米SU7",
-      "onboard_time": 1713753136,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 271912,
       "num": 271912,
       "word": "王珞丹给陶昕然送麝香",
@@ -26355,12 +26379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262090,
+      "num": 262090,
+      "word": "全红婵回应世界杯夺银牌",
+      "onboard_time": 1713756138,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261979,
       "num": 242209,
       "word": "赵丽颖给熊猫玩偶喂水",
       "onboard_time": 1711982600,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 261817,
+      "num": 261817,
+      "word": "县城家庭的三个阶层",
+      "onboard_time": 1713753438,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 261773,
@@ -26995,14 +27035,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 255831,
-      "num": 255831,
-      "word": "县城家庭的三个阶层",
-      "onboard_time": 1713753438,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 255795,
       "num": 255795,
       "word": "研究生招录应增加品德考核比重吗",
@@ -27449,14 +27481,6 @@
       "onboard_time": 1711959500,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 251702,
-      "num": 384098,
-      "word": "有薄膜的一次性咖啡杯30年才能降解",
-      "onboard_time": 1713755358,
-      "rank": 14,
-      "category": "美食"
     },
     {
       "raw_hot": 251646,
@@ -28067,6 +28091,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 246302,
+      "num": 246302,
+      "word": "TF三代出道人数",
+      "onboard_time": 1713755059,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246251,
       "num": 237507,
       "word": "厉旭发言",
@@ -28225,6 +28257,14 @@
       "onboard_time": 1713327740,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244918,
+      "num": 244918,
+      "word": "剧烈运动后千万不要立刻蹲下",
+      "onboard_time": 1713755897,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 244858,
@@ -29931,14 +29971,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 230843,
-      "num": 222197,
-      "word": "TF三代出道人数",
-      "onboard_time": 1713755059,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230810,
       "num": 230810,
       "word": "虐猫事件 反社会行为",
@@ -31585,6 +31617,14 @@
       "onboard_time": 1713408438,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218092,
+      "num": 218092,
+      "word": "DNF手游定档",
+      "onboard_time": 1713753738,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 218016,
@@ -37779,14 +37819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190974,
-      "num": 190974,
-      "word": "DNF手游定档",
-      "onboard_time": 1713753738,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 190921,
       "num": 190921,
       "word": "重庆已立案调查14件燃气费问题",
@@ -41129,14 +41161,6 @@
       "onboard_time": 1713753978,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177356,
-      "num": 177356,
-      "word": "许嵩合肥抢票",
-      "onboard_time": 1713755719,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 177285,
@@ -48971,6 +48995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145039,
+      "num": 145039,
+      "word": "未定事件簿少年如你",
+      "onboard_time": 1713756918,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144996,
       "num": 185286,
       "word": "原神赛诺",
@@ -50081,6 +50113,14 @@
       "onboard_time": 1712476038,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140093,
+      "num": 140093,
+      "word": "SimonD离开AOMG",
+      "onboard_time": 1713756678,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 140063,
@@ -52521,14 +52561,6 @@
       "onboard_time": 1712286736,
       "rank": 31,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 128934,
-      "num": 128934,
-      "word": "剧烈运动后千万不要立刻蹲下",
-      "onboard_time": 1713755897,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 128850,
@@ -58292,7 +58324,7 @@
     },
     {
       "raw_hot": 71647,
-      "num": 383064,
+      "num": 443862,
       "word": "周迅陈坤为极星汽车代言",
       "onboard_time": 1713754158,
       "rank": 15,

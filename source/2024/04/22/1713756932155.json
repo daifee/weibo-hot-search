@@ -1,0 +1,410 @@
+{
+  "runTime": 1713756932155,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2225520,
+        "num": 2225520,
+        "word": "我是O",
+        "onboard_time": 1713752838,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1018879,
+        "num": 1018879,
+        "word": "广西一小区楼上坠落树根致高中生被砸身亡",
+        "onboard_time": 1713751818,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37974,
+        "num": 832033,
+        "word": "潮起互联网奔涌三十年",
+        "onboard_time": 1713755478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717442,
+        "num": 717442,
+        "word": "97年的人都当综艺总导演了",
+        "onboard_time": 1713750677,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598067,
+        "num": 598067,
+        "word": "唐嫣时隔15年再演仙侠剧",
+        "onboard_time": 1713755418,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 569217,
+        "num": 569217,
+        "word": "女子癌症晚期成了网红",
+        "onboard_time": 1713743537,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565108,
+        "num": 565108,
+        "word": "单休的人连上九天班",
+        "onboard_time": 1713753616,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552705,
+        "num": 552705,
+        "word": "12306从未授权第三方平台发售火车票",
+        "onboard_time": 1713744919,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330448,
+        "num": 530399,
+        "word": "93岁南京大屠杀幸存者刘素珍去世",
+        "onboard_time": 1713750198,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457472,
+        "num": 527087,
+        "word": "有薄膜的一次性咖啡杯30年才能降解",
+        "onboard_time": 1713755358,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 699360,
+        "num": 527030,
+        "word": "金价涨到700后不敢买也不敢卖",
+        "onboard_time": 1713743537,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 526679,
+        "num": 526679,
+        "word": "朋友圈背景图",
+        "onboard_time": 1713750558,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 509023,
+        "num": 509023,
+        "word": "许嵩合肥抢票",
+        "onboard_time": 1713755719,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 498028,
+        "num": 498028,
+        "word": "美国军方代表团抵达青岛",
+        "onboard_time": 1713752598,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 498008,
+        "num": 498008,
+        "word": "刘忻是JYP第一位中国女艺人",
+        "onboard_time": 1713749957,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63821,
+        "num": 443862,
+        "word": "周迅陈坤为极星汽车代言",
+        "onboard_time": 1713754158,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412384,
+        "num": 412384,
+        "word": "周杰伦首次录制说唱节目",
+        "onboard_time": 1713751159,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354606,
+        "num": 354606,
+        "word": "金莎已见过男友家长",
+        "onboard_time": 1713754578,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 335554,
+        "num": 335554,
+        "word": "五一调休",
+        "onboard_time": 1713745579,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321452,
+        "num": 321452,
+        "word": "白色橄榄树首发预告",
+        "onboard_time": 1713753438,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 551089,
+        "num": 321442,
+        "word": "大部分情侣其实是酒肉情侣",
+        "onboard_time": 1713755418,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312929,
+        "num": 312929,
+        "word": "华妃怎么不吃纯元的醋",
+        "onboard_time": 1713749057,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292731,
+        "num": 292731,
+        "word": "未定事件簿",
+        "onboard_time": 1713756197,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288874,
+        "num": 288874,
+        "word": "华为智界S7截胡小米SU7",
+        "onboard_time": 1713753136,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 262090,
+        "num": 262090,
+        "word": "全红婵回应世界杯夺银牌",
+        "onboard_time": 1713756138,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261817,
+        "num": 261817,
+        "word": "县城家庭的三个阶层",
+        "onboard_time": 1713753438,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259515,
+        "num": 259515,
+        "word": "薛之谦一巡黄牛票五元",
+        "onboard_time": 1713749119,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 246302,
+        "num": 246302,
+        "word": "TF三代出道人数",
+        "onboard_time": 1713755059,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244918,
+        "num": 244918,
+        "word": "剧烈运动后千万不要立刻蹲下",
+        "onboard_time": 1713755897,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223911,
+        "num": 223911,
+        "word": "马龙说感谢自己在0比3时没有放弃",
+        "onboard_time": 1713740954,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223791,
+        "num": 223791,
+        "word": "理想降价",
+        "onboard_time": 1713748939,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 219931,
+        "num": 219931,
+        "word": "女律师否认副业做擦边直播",
+        "onboard_time": 1713745337,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218092,
+        "num": 218092,
+        "word": "DNF手游定档",
+        "onboard_time": 1713753738,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211861,
+        "num": 211861,
+        "word": "仙台有树预约",
+        "onboard_time": 1713754456,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206546,
+        "num": 206546,
+        "word": "大侦探",
+        "onboard_time": 1713755298,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187952,
+        "num": 187952,
+        "word": "电影维和防暴队芭莎大片",
+        "onboard_time": 1713755478,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185717,
+        "num": 185717,
+        "word": "小熊花园定档",
+        "onboard_time": 1713752778,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185423,
+        "num": 185423,
+        "word": "承欢记热度",
+        "onboard_time": 1713756257,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178624,
+        "num": 178624,
+        "word": "马龙男单夺冠",
+        "onboard_time": 1713710062,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169661,
+        "num": 169661,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1713705020,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165438,
+        "num": 165438,
+        "word": "念无双预告",
+        "onboard_time": 1713752718,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164612,
+        "num": 164612,
+        "word": "这歌坛还是被张予曦误闯进去了",
+        "onboard_time": 1713753978,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153684,
+        "num": 153684,
+        "word": "今年第二个龙年龙月龙日龙时",
+        "onboard_time": 1713743657,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150766,
+        "num": 150766,
+        "word": "龚俊骗严浩翔吃青杏子",
+        "onboard_time": 1713754217,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150240,
+        "num": 150240,
+        "word": "哈尔滨一九四四死装哥和试探姐",
+        "onboard_time": 1713752898,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145039,
+        "num": 145039,
+        "word": "未定事件簿少年如你",
+        "onboard_time": 1713756918,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140280,
+        "num": 140280,
+        "word": "马龙手好忙",
+        "onboard_time": 1713750077,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140093,
+        "num": 140093,
+        "word": "SimonD离开AOMG",
+        "onboard_time": 1713756678,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136479,
+        "num": 136479,
+        "word": "2024爱奇艺世界大会官宣",
+        "onboard_time": 1713755418,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135523,
+        "num": 135523,
+        "word": "春色寄情人今日开播",
+        "onboard_time": 1713753798,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}
