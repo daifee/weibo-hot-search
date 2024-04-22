@@ -1,0 +1,410 @@
+{
+  "runTime": 1713781261349,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1208607,
+        "num": 1208607,
+        "word": "韩勇被开除党籍",
+        "onboard_time": 1713778278,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1095881,
+        "num": 1095881,
+        "word": "罗森前店长妻子在罗森买到过期食品",
+        "onboard_time": 1713775038,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20743,
+        "num": 728029,
+        "word": "文化中国行",
+        "onboard_time": 1713754998,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675732,
+        "num": 675732,
+        "word": "12306回应公众号发疯留言能求到票",
+        "onboard_time": 1713778457,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674464,
+        "num": 674464,
+        "word": "北京下雨",
+        "onboard_time": 1713777438,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596059,
+        "num": 596059,
+        "word": "辛芷蕾妈妈脱粉秦岚转粉迪丽热巴",
+        "onboard_time": 1713768137,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567401,
+        "num": 567401,
+        "word": "消失的她原型5年后重返事发地",
+        "onboard_time": 1713764778,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514509,
+        "num": 514509,
+        "word": "不孕女子喜获3胞胎同卵异卵同出现",
+        "onboard_time": 1713779418,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437598,
+        "num": 492615,
+        "word": "老师以考试奖励名义送学生新鞋",
+        "onboard_time": 1713773419,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483212,
+        "num": 483212,
+        "word": "日本年轻人开始流行友情婚",
+        "onboard_time": 1713762620,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546702,
+        "num": 482519,
+        "word": "三天不进餐 大后天吃9顿饭",
+        "onboard_time": 1713765138,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 477223,
+        "num": 477223,
+        "word": "雷军称着急购车可考虑智界S7",
+        "onboard_time": 1713771377,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 433225,
+        "num": 433225,
+        "word": "刘涛叫张翰姐",
+        "onboard_time": 1713776298,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410153,
+        "num": 410153,
+        "word": "田馥甄天津",
+        "onboard_time": 1713774618,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 394689,
+        "num": 394689,
+        "word": "小学生丢课本被老师用戒尺打得头部变形",
+        "onboard_time": 1713770356,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338170,
+        "num": 338170,
+        "word": "newjeans怎么办",
+        "onboard_time": 1713768137,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321724,
+        "num": 321724,
+        "word": "北京冰雹",
+        "onboard_time": 1713778218,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300278,
+        "num": 300278,
+        "word": "优酷 杨幂",
+        "onboard_time": 1713773839,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 285156,
+        "num": 285156,
+        "word": "秦海璐在买防窥膜了",
+        "onboard_time": 1713766100,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268717,
+        "num": 282682,
+        "word": "胡先煦 倘若我问心有愧呢",
+        "onboard_time": 1713779780,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373981,
+        "num": 282681,
+        "word": "12306被质疑纵容买长乘短",
+        "onboard_time": 1713764838,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282490,
+        "num": 282490,
+        "word": "无限暖暖",
+        "onboard_time": 1713780858,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281327,
+        "num": 281327,
+        "word": "因为要上班凌晨三点舍不得睡觉",
+        "onboard_time": 1713778517,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 424761,
+        "num": 272882,
+        "word": "秦海璐买个防窥膜吧",
+        "onboard_time": 1713762620,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259766,
+        "num": 259766,
+        "word": "HYBE蒸发了一个YG的市值",
+        "onboard_time": 1713772998,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258414,
+        "num": 258414,
+        "word": "可乐排骨年糕",
+        "onboard_time": 1713777858,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 242161,
+        "num": 242161,
+        "word": "金饰买价700卖价仅500",
+        "onboard_time": 1713777079,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 230573,
+        "num": 230573,
+        "word": "河北一粮库2年近万吨玉米不翼而飞",
+        "onboard_time": 1713779057,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229930,
+        "num": 229930,
+        "word": "失业后才懂得拒绝进厨房是一种权力",
+        "onboard_time": 1713778098,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220127,
+        "num": 220127,
+        "word": "大侦探恐怖本",
+        "onboard_time": 1713779418,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214818,
+        "num": 214818,
+        "word": "承欢记豆瓣开分6.4",
+        "onboard_time": 1713780558,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203349,
+        "num": 203349,
+        "word": "汪苏泷新专辑十万伏特",
+        "onboard_time": 1713780797,
+        "rank": 31,
+        "category": "音乐,演出"
+      },
+      {
+        "raw_hot": 173074,
+        "num": 173074,
+        "word": "领证前一天被跟拍放鸽子",
+        "onboard_time": 1713776358,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171325,
+        "num": 171325,
+        "word": "于正回应与杨幂关系不好传闻",
+        "onboard_time": 1713778638,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169577,
+        "num": 169577,
+        "word": "第五人格赛事 选手受伤",
+        "onboard_time": 1713779897,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166914,
+        "num": 166914,
+        "word": "张栋梁郑合惠子 好嗑",
+        "onboard_time": 1713775938,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159349,
+        "num": 159349,
+        "word": "广东强降雨已致4死10失联",
+        "onboard_time": 1713781098,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149020,
+        "num": 149020,
+        "word": "YG没惹任何人",
+        "onboard_time": 1713778397,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163674,
+        "num": 148965,
+        "word": "杨幂露背高定裙",
+        "onboard_time": 1713774318,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148505,
+        "num": 148505,
+        "word": "花少1花少5团聚",
+        "onboard_time": 1713777079,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143638,
+        "num": 143638,
+        "word": "台湾花莲海域5.3级地震",
+        "onboard_time": 1713778457,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142140,
+        "num": 142140,
+        "word": "陈丽君反差感",
+        "onboard_time": 1713777619,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137385,
+        "num": 137385,
+        "word": "王一博 杂志大片中的蜕变",
+        "onboard_time": 1713778817,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 129087,
+        "num": 129087,
+        "word": "美国国务卿布林肯将访华",
+        "onboard_time": 1713773478,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 125742,
+        "num": 125742,
+        "word": "人一旦染上了kpop",
+        "onboard_time": 1713775637,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123849,
+        "num": 123849,
+        "word": "周鸿祎否认为哪吒抬轿子",
+        "onboard_time": 1713781098,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 120453,
+        "num": 120453,
+        "word": "雷军确认小米SU7交付提前",
+        "onboard_time": 1713773839,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114427,
+        "num": 114427,
+        "word": "马龙孙颖莎 命运里冠军台又一次相遇",
+        "onboard_time": 1713779418,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113174,
+        "num": 113174,
+        "word": "台湾花莲县连发2次地震",
+        "onboard_time": 1713780437,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111725,
+        "num": 111725,
+        "word": "爱拍照的人手机相册啥样的",
+        "onboard_time": 1713781038,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}
