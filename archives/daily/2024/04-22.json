@@ -1,6 +1,6 @@
 {
   "startTime": 1713716506059,
-  "endTime": 1713799136263,
+  "endTime": 1713800065417,
   "band_list": [
     {
       "raw_hot": 2693897,
@@ -683,7 +683,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 522437,
+      "raw_hot": 523851,
       "num": 522437,
       "word": "天津街头两名交警互殴",
       "onboard_time": 1713796099,
@@ -1443,6 +1443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 247326,
+      "num": 247326,
+      "word": "考研数学被评最佳睡前读物",
+      "onboard_time": 1713798321,
+      "rank": 28,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 246499,
       "num": 246499,
       "word": "别再用隔夜米做蛋炒饭了",
@@ -1465,6 +1473,14 @@
       "onboard_time": 1713750737,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245527,
+      "num": 245527,
+      "word": "看似羞耻的小习惯其实非常解压",
+      "onboard_time": 1713798919,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 245375,
@@ -1585,6 +1601,14 @@
       "onboard_time": 1713779057,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229355,
+      "num": 229355,
+      "word": "短效避孕药和紧急避孕药的区别",
+      "onboard_time": 1713798439,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 228089,
@@ -1883,14 +1907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195333,
-      "num": 195333,
-      "word": "考研数学被评最佳睡前读物",
-      "onboard_time": 1713798321,
-      "rank": 28,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 194864,
       "num": 194864,
       "word": "理想官方全系降价老车主退现金",
@@ -1985,14 +2001,6 @@
       "onboard_time": 1713715278,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187616,
-      "num": 187616,
-      "word": "短效避孕药和紧急避孕药的区别",
-      "onboard_time": 1713798439,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 187073,
@@ -2203,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172403,
+      "num": 172403,
+      "word": "徐明浩新型citywalk",
+      "onboard_time": 1713798798,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 172275,
       "num": 172275,
       "word": "樊振东四冠王的松弛感",
@@ -2355,12 +2371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165875,
+      "num": 161047,
+      "word": "周杰伦团队感谢杭州",
+      "onboard_time": 1713799218,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164959,
       "num": 164959,
       "word": "陈丽君反差感",
       "onboard_time": 1713777619,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164937,
+      "num": 164937,
+      "word": "陆川 749局彻底杀青",
+      "onboard_time": 1713799638,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 162412,
@@ -2417,14 +2449,6 @@
       "onboard_time": 1713781578,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159069,
-      "num": 159069,
-      "word": "看似羞耻的小习惯其实非常解压",
-      "onboard_time": 1713798919,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 158684,
@@ -2505,14 +2529,6 @@
       "onboard_time": 1713747378,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155000,
-      "num": 155000,
-      "word": "徐明浩新型citywalk",
-      "onboard_time": 1713798798,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 154918,
@@ -2609,6 +2625,14 @@
       "onboard_time": 1713747798,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 148319,
+      "num": 148319,
+      "word": "含糖量很高的暧昧期聊天",
+      "onboard_time": 1713799338,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 147692,
@@ -2915,6 +2939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125280,
+      "num": 125280,
+      "word": "孙夏铃喜欢杨幂演的三生三世十里桃花",
+      "onboard_time": 1713799157,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124730,
       "num": 124730,
       "word": "四川女篮总冠军",
@@ -2969,6 +3001,14 @@
       "onboard_time": 1713798619,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120252,
+      "num": 120252,
+      "word": "U23亚洲杯",
+      "onboard_time": 1713799878,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 120105,
@@ -3249,6 +3289,14 @@
       "onboard_time": 1713754158,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65820,
+      "num": 354012,
+      "word": "最美不是下雨天而是有人撑伞的遇见",
+      "onboard_time": 1713799279,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 61163,
