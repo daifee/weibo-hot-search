@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713825330089,
+  "endTime": 1713827918726,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -595,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 839372,
+      "num": 224307,
+      "word": "越来越多夫妻不过夫妻生活了",
+      "onboard_time": 1713826994,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 837714,
       "num": 837714,
       "word": "辛芷蕾妈妈脱粉秦岚转粉迪丽热巴",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1713658457,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 582029,
+      "num": 582029,
+      "word": "台湾花莲凌晨2次超6级地震",
+      "onboard_time": 1713827354,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 581826,
@@ -1619,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452307,
+      "num": 218797,
+      "word": "拳手踢举牌女郎臀部遭群殴",
+      "onboard_time": 1713802397,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450970,
       "num": 371064,
       "word": "马龙孙颖莎冠军合照",
@@ -1859,6 +1883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 391618,
+      "num": 391618,
+      "word": "许美静团队回应演唱会太水争议",
+      "onboard_time": 1713801198,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 391133,
       "num": 311533,
       "word": "女生把健身当摸鱼一月瘦10斤",
@@ -1977,14 +2009,6 @@
       "onboard_time": 1713682337,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 371534,
-      "num": 371534,
-      "word": "许美静团队回应演唱会太水争议",
-      "onboard_time": 1713801198,
-      "rank": 12,
-      "category": "演出"
     },
     {
       "raw_hot": 371111,
@@ -2283,6 +2307,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 310983,
+      "num": 310983,
+      "word": "春色寄情人收视率",
+      "onboard_time": 1713802278,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 310367,
       "num": 245527,
       "word": "看似羞耻的小习惯其实非常解压",
@@ -2337,6 +2369,14 @@
       "onboard_time": 1713756197,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 291887,
+      "num": 291887,
+      "word": "大熊猫北辰把特供乒乓球给吃了",
+      "onboard_time": 1713813012,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291211,
@@ -2489,14 +2529,6 @@
       "onboard_time": 1713782778,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 270332,
-      "num": 115030,
-      "word": "拳手踢举牌女郎臀部遭群殴",
-      "onboard_time": 1713802397,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269761,
@@ -2985,14 +3017,6 @@
       "onboard_time": 1713779057,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230450,
-      "num": 230450,
-      "word": "春色寄情人收视率",
-      "onboard_time": 1713802278,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 230223,
@@ -4209,6 +4233,14 @@
       "onboard_time": 1713689839,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176804,
+      "num": 176804,
+      "word": "女生送礼被薛之谦回赠耳钉喜极而泣",
+      "onboard_time": 1713807671,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 176531,
@@ -5459,14 +5491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133225,
-      "num": 133225,
-      "word": "大熊猫北辰把特供乒乓球给吃了",
-      "onboard_time": 1713813012,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132683,
       "num": 132683,
       "word": "为什么苍蝇一停下来就喜欢搓手",
@@ -5955,6 +5979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108082,
+      "num": 108082,
+      "word": "为何很多人不敢吃蚝油了",
+      "onboard_time": 1713819310,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 108003,
       "num": 108003,
       "word": "父母当初不同意的人现在赞不绝口",
@@ -6051,12 +6083,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101852,
+      "num": 101852,
+      "word": "国米意甲夺冠",
+      "onboard_time": 1713827595,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101289,
       "num": 101289,
       "word": "金道英出道曲空降",
       "onboard_time": 1713782958,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 99507,
+      "num": 99507,
+      "word": "妇科恶性肿瘤患者有望长期生存",
+      "onboard_time": 1713825192,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 99490,
@@ -6099,14 +6147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94206,
-      "num": 94206,
-      "word": "女生送礼被薛之谦回赠耳钉喜极而泣",
-      "onboard_time": 1713807671,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 93850,
       "num": 93850,
       "word": "刘雯吊带背心",
@@ -6131,6 +6171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89073,
+      "num": 89073,
+      "word": "以色列",
+      "onboard_time": 1713816490,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 88535,
       "num": 86001,
       "word": "常用电脑的人手部功能退化严重",
@@ -6145,6 +6193,14 @@
       "onboard_time": 1713646090,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 86641,
+      "num": 86641,
+      "word": "广州天气",
+      "onboard_time": 1713827535,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85992,
@@ -6195,28 +6251,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80783,
-      "num": 57631,
-      "word": "为何很多人不敢吃蚝油了",
-      "onboard_time": 1713819310,
-      "rank": 23,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 78004,
       "num": 540048,
       "word": "阅读有助于情绪稳定吗",
       "onboard_time": 1713708022,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77828,
-      "num": 77828,
-      "word": "以色列",
-      "onboard_time": 1713816490,
-      "rank": 32,
-      "category": "国外时政"
     },
     {
       "raw_hot": 75941,
@@ -6275,6 +6315,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 72226,
+      "num": 72226,
+      "word": "山东舰航母编队编组首次完整公开",
+      "onboard_time": 1713811691,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 71772,
       "num": 501249,
       "word": "蛋仔派对猫和老鼠联动",
@@ -6297,6 +6345,14 @@
       "onboard_time": 1713630078,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 69259,
+      "num": 69259,
+      "word": "人民海军生日快乐",
+      "onboard_time": 1713827775,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 67576,
@@ -6355,6 +6411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 59513,
+      "num": 59513,
+      "word": "德约科维奇获劳伦斯年度最佳",
+      "onboard_time": 1713827775,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58695,
       "num": 58695,
       "word": "能促进代谢的8种食物",
@@ -6411,6 +6475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52211,
+      "num": 52211,
+      "word": "AC米兰1比2国际米兰",
+      "onboard_time": 1713827655,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52200,
       "num": 52200,
       "word": "朱婷暴扣",
@@ -6425,6 +6497,14 @@
       "onboard_time": 1713654854,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50744,
+      "num": 50744,
+      "word": "陆虎被猫抓伤了",
+      "onboard_time": 1713822311,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 50600,
@@ -6459,6 +6539,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48327,
+      "num": 48327,
+      "word": "为什么给狗狗买鞋会收到两双",
+      "onboard_time": 1713816012,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 47215,
+      "num": 47215,
+      "word": "普拉提是减肥纠错本吧",
+      "onboard_time": 1713819851,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 47188,
       "num": 40524,
       "word": "不够善良的我们",
@@ -6473,22 +6569,6 @@
       "onboard_time": 1713616037,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44293,
-      "num": 37590,
-      "word": "山东舰航母编队编组首次完整公开",
-      "onboard_time": 1713811691,
-      "rank": 31,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 43727,
-      "num": 43727,
-      "word": "陆虎被猫抓伤了",
-      "onboard_time": 1713822311,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 42439,
@@ -6513,14 +6593,6 @@
       "onboard_time": 1713807732,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 38765,
-      "num": 37195,
-      "word": "普拉提是减肥纠错本吧",
-      "onboard_time": 1713819851,
-      "rank": 44,
-      "category": "运动健身"
     },
     {
       "raw_hot": 38615,
@@ -6611,14 +6683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27520,
-      "num": 27520,
-      "word": "为什么给狗狗买鞋会收到两双",
-      "onboard_time": 1713816012,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 25393,
       "num": 25393,
       "word": "得闲谨制",
@@ -6657,14 +6721,6 @@
       "onboard_time": 1713783858,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 22138,
-      "num": 25373,
-      "word": "妇科恶性肿瘤患者有望长期生存",
-      "onboard_time": 1713825192,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 21821,
