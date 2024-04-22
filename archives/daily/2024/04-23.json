@@ -1,6 +1,6 @@
 {
   "startTime": 1713802938860,
-  "endTime": 1713810092383,
+  "endTime": 1713810843450,
   "band_list": [
     {
       "raw_hot": 1039581,
@@ -9,6 +9,14 @@
       "onboard_time": 1713786198,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 691059,
+      "num": 691059,
+      "word": "台湾花莲又发5.9级地震",
+      "onboard_time": 1713796821,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553543,
@@ -41,14 +49,6 @@
       "onboard_time": 1713791180,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 499625,
-      "num": 499625,
-      "word": "台湾花莲又发5.9级地震",
-      "onboard_time": 1713796821,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 460481,
@@ -176,6 +176,14 @@
       "word": "主播卖抗癌化妆品骗老人救命钱被封禁",
       "onboard_time": 1713794120,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190563,
+      "num": 190563,
+      "word": "台湾花莲海域5.3级地震",
+      "onboard_time": 1713778457,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -387,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 79354,
-      "num": 79354,
-      "word": "台湾花莲海域5.3级地震",
-      "onboard_time": 1713778457,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72465,
       "num": 78008,
       "word": "杭州震感",
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 23793,
-      "num": 23793,
+      "num": 27914,
       "word": "李现台词",
       "onboard_time": 1713794120,
       "rank": 47,
