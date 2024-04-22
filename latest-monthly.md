@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/22 16:23:57
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/22 16:36:13
 </p>
 </blockquote>
 <p>
@@ -4287,6 +4287,12 @@ TES零封JDG（热度：901726）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%B8%A2%E8%AF%BE%E6%9C%AC%E8%A2%AB%E8%80%81%E5%B8%88%E7%94%A8%E6%88%92%E5%B0%BA%E6%89%93%E5%BE%97%E5%A4%B4%E9%83%A8%E5%8F%98%E5%BD%A2%23" target="weibo">
+小学生丢课本被老师用戒尺打得头部变形（热度：877345）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%8A%E4%B8%8A%E6%9C%89%E8%9E%A8%E8%99%AB%E7%9A%843%E4%B8%AA%E8%A1%A8%E7%8E%B0%23" target="weibo">
 床上有螨虫的3个表现（热度：876463）
 </a>
@@ -4599,12 +4605,6 @@ ZARA大量粉丝紧急扫货（热度：865085）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%B8%A2%E8%AF%BE%E6%9C%AC%E8%A2%AB%E8%80%81%E5%B8%88%E7%94%A8%E6%88%92%E5%B0%BA%E6%89%93%E5%BE%97%E5%A4%B4%E9%83%A8%E5%8F%98%E5%BD%A2%23" target="weibo">
-小学生丢课本被老师用戒尺打得头部变形（热度：842674）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%AB%E5%81%9C%E5%85%A8%E4%BD%93%E4%BD%9C%E6%88%98%E9%83%A8%E9%98%9F%E4%BC%91%E5%81%87%23" target="weibo">
 以色列叫停全体作战部队休假（热度：842542）
 </a>
@@ -4877,6 +4877,12 @@ infp 最接近神的人格（热度：822265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8%E9%80%81%E7%BB%99%E8%B4%BE%E4%B9%83%E4%BA%AE%E7%9A%84%E7%94%9F%E6%97%A5%E7%A4%BC%E7%89%A9%23" target="weibo">
 甜馨送给贾乃亮的生日礼物（热度：814364）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E7%9D%80%E6%80%A5%E8%B4%AD%E8%BD%A6%E5%8F%AF%E8%80%83%E8%99%91%E6%99%BA%E7%95%8CS7%23" target="weibo">
+雷军称着急购车可考虑智界S7（热度：813964）
 </a>
 </li>
 
@@ -5807,12 +5813,6 @@ TFBOYS文案什么意思（热度：811913）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%B2%99%E6%BB%A9%E7%85%A7%23" target="weibo">
 赵丽颖沙滩照（热度：738897）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E7%9D%80%E6%80%A5%E8%B4%AD%E8%BD%A6%E5%8F%AF%E8%80%83%E8%99%91%E6%99%BA%E7%95%8CS7%23" target="weibo">
-雷军称着急购车可考虑智界S7（热度：738696）
 </a>
 </li>
 

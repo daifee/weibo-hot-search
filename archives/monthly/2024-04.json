@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713774237867,
+  "endTime": 1713774973005,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -5699,6 +5699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 877345,
+      "num": 420198,
+      "word": "小学生丢课本被老师用戒尺打得头部变形",
+      "onboard_time": 1713770356,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 876463,
       "num": 349976,
       "word": "床上有螨虫的3个表现",
@@ -6115,14 +6123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 842674,
-      "num": 419697,
-      "word": "小学生丢课本被老师用戒尺打得头部变形",
-      "onboard_time": 1713770356,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 842542,
       "num": 517999,
       "word": "以色列叫停全体作战部队休假",
@@ -6489,6 +6489,14 @@
       "onboard_time": 1712890215,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 813964,
+      "num": 813964,
+      "word": "雷军称着急购车可考虑智界S7",
+      "onboard_time": 1713771377,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 812938,
@@ -7729,14 +7737,6 @@
       "onboard_time": 1713012738,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 738696,
-      "num": 738696,
-      "word": "雷军称着急购车可考虑智界S7",
-      "onboard_time": 1713771377,
-      "rank": 4,
-      "category": "汽车"
     },
     {
       "raw_hot": 738179,
@@ -14907,6 +14907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 473142,
+      "num": 473142,
+      "word": "HYBE蒸发了一个YG的市值",
+      "onboard_time": 1713772998,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472951,
       "num": 334827,
       "word": "中医建议女生春天多披头散发",
@@ -15825,6 +15833,14 @@
       "onboard_time": 1713265458,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 450424,
+      "num": 450424,
+      "word": "美国国务卿布林肯将访华",
+      "onboard_time": 1713773478,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 450321,
@@ -17288,14 +17304,6 @@
       "word": "孙坚吐槽奢侈品包质量问题",
       "onboard_time": 1712597292,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 419447,
-      "num": 419447,
-      "word": "HYBE蒸发了一个YG的市值",
-      "onboard_time": 1713772998,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -18923,6 +18931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 382395,
+      "num": 382395,
+      "word": "田馥甄天津",
+      "onboard_time": 1713774618,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 382279,
       "num": 382279,
       "word": "田曦薇露腰皮衣",
@@ -19633,6 +19649,14 @@
       "onboard_time": 1712670200,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 368398,
+      "num": 368398,
+      "word": "薛之谦厦门",
+      "onboard_time": 1713773899,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 368055,
@@ -21171,20 +21195,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341371,
+      "num": 443062,
+      "word": "老师以考试奖励名义送学生新鞋",
+      "onboard_time": 1713773419,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341298,
       "num": 269404,
       "word": "95后宝妈一觉睡醒右眼失明了",
       "onboard_time": 1713485478,
       "rank": 23,
       "category": "母婴育儿,社会新闻"
-    },
-    {
-      "raw_hot": 341264,
-      "num": 341264,
-      "word": "薛之谦厦门",
-      "onboard_time": 1713773899,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 341197,
@@ -22527,14 +22551,6 @@
       "num": 332881,
       "word": "哈马斯领导人多个家人被炸死",
       "onboard_time": 1713192260,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 318232,
-      "num": 318232,
-      "word": "美国国务卿布林肯将访华",
-      "onboard_time": 1713773478,
       "rank": 19,
       "category": "国外时政"
     },
@@ -28043,6 +28059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 250450,
+      "num": 250450,
+      "word": "优酷 杨幂",
+      "onboard_time": 1713773839,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250418,
       "num": 250418,
       "word": "七宝街 我哭死",
@@ -32193,6 +32217,14 @@
       "onboard_time": 1713364581,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 217205,
+      "num": 196739,
+      "word": "杨幂露背高定裙",
+      "onboard_time": 1713774318,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 217147,
@@ -36723,6 +36755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196893,
+      "num": 196893,
+      "word": "关雪抽烟",
+      "onboard_time": 1713774499,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196851,
       "num": 196851,
       "word": "沈璃看不见vs紫薇看不见",
@@ -38291,6 +38331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191236,
+      "num": 191236,
+      "word": "眼泪女王 绝症车祸失忆",
+      "onboard_time": 1713772638,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191208,
       "num": 191208,
       "word": "金价飙升有顾客越涨越买",
@@ -38729,6 +38777,14 @@
       "onboard_time": 1712554038,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189790,
+      "num": 189790,
+      "word": "陈昊宇考古",
+      "onboard_time": 1713773956,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 189740,
@@ -39201,14 +39257,6 @@
       "onboard_time": 1712039059,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 188130,
-      "num": 188130,
-      "word": "眼泪女王 绝症车祸失忆",
-      "onboard_time": 1713772638,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 188069,
@@ -40395,6 +40443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183904,
+      "num": 183904,
+      "word": "张真源下班回头和粉丝告别",
+      "onboard_time": 1713774318,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183893,
       "num": 183893,
       "word": "县城消费让一线城市打工人自愧不如",
@@ -40433,6 +40489,14 @@
       "onboard_time": 1711959741,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183777,
+      "num": 183777,
+      "word": "智界感谢雷军推荐",
+      "onboard_time": 1713773839,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 183768,
@@ -43667,14 +43731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168827,
-      "num": 168827,
-      "word": "优酷 杨幂",
-      "onboard_time": 1713773839,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168807,
       "num": 168807,
       "word": "单身生活才是最爽的",
@@ -44795,14 +44851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163780,
-      "num": 163780,
-      "word": "智界感谢雷军推荐",
-      "onboard_time": 1713773839,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 163775,
       "num": 163775,
       "word": "来公司面试的人好像是个工贼",
@@ -45331,14 +45379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161283,
-      "num": 420135,
-      "word": "老师以考试奖励名义送学生新鞋",
-      "onboard_time": 1713773419,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161275,
       "num": 161275,
       "word": "她看起来一点也不开心啊",
@@ -45513,6 +45553,14 @@
       "onboard_time": 1711953741,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 160199,
+      "num": 160199,
+      "word": "高铁被占座我强硬的要回来了",
+      "onboard_time": 1713774258,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 160161,
@@ -49723,6 +49771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144929,
+      "num": 144929,
+      "word": "原来小狗是这样喝水的",
+      "onboard_time": 1713773956,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144837,
       "num": 144837,
       "word": "香云纱才是中式老钱风天花板",
@@ -49857,14 +49913,6 @@
       "onboard_time": 1712745320,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144064,
-      "num": 144064,
-      "word": "陈昊宇考古",
-      "onboard_time": 1713773956,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 143981,
@@ -50257,14 +50305,6 @@
       "onboard_time": 1712985677,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142599,
-      "num": 142599,
-      "word": "原来小狗是这样喝水的",
-      "onboard_time": 1713773956,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 142582,
@@ -57667,6 +57707,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 97715,
+      "num": 340030,
+      "word": "为什么用消毒级卫生巾更安心",
+      "onboard_time": 1713773178,
+      "rank": 18,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 97714,
       "num": 1082932,
       "word": "用中国传统色打开春耕画卷",
@@ -58305,14 +58353,6 @@
       "onboard_time": 1713369317,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88222,
-      "num": 320857,
-      "word": "为什么用消毒级卫生巾更安心",
-      "onboard_time": 1713773178,
-      "rank": 18,
-      "category": "科学科普"
     },
     {
       "raw_hot": 88132,

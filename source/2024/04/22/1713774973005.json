@@ -1,0 +1,410 @@
+{
+  "runTime": 1713774973005,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 905790,
+        "num": 905790,
+        "word": "12306被质疑纵容买长乘短",
+        "onboard_time": 1713764838,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813964,
+        "num": 813964,
+        "word": "雷军称着急购车可考虑智界S7",
+        "onboard_time": 1713771377,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 34784,
+        "num": 749529,
+        "word": "文化中国行",
+        "onboard_time": 1713754998,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734136,
+        "num": 734136,
+        "word": "辛芷蕾妈妈脱粉秦岚转粉迪丽热巴",
+        "onboard_time": 1713768137,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 716543,
+        "num": 716543,
+        "word": "雷军 格局",
+        "onboard_time": 1713771079,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 553777,
+        "num": 553777,
+        "word": "消失的她原型5年后重返事发地",
+        "onboard_time": 1713764778,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473142,
+        "num": 473142,
+        "word": "HYBE蒸发了一个YG的市值",
+        "onboard_time": 1713772998,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456112,
+        "num": 456112,
+        "word": "李现 现偶纯元",
+        "onboard_time": 1713769578,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 450424,
+        "num": 450424,
+        "word": "美国国务卿布林肯将访华",
+        "onboard_time": 1713773478,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 341371,
+        "num": 443062,
+        "word": "老师以考试奖励名义送学生新鞋",
+        "onboard_time": 1713773419,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060944,
+        "num": 434394,
+        "word": "三天不进餐 大后天吃9顿饭",
+        "onboard_time": 1713765138,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 877345,
+        "num": 420198,
+        "word": "小学生丢课本被老师用戒尺打得头部变形",
+        "onboard_time": 1713770356,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638476,
+        "num": 414486,
+        "word": "newjeans怎么办",
+        "onboard_time": 1713768137,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404587,
+        "num": 404587,
+        "word": "专家称休假改革难在众口难调",
+        "onboard_time": 1713766999,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382395,
+        "num": 382395,
+        "word": "田馥甄天津",
+        "onboard_time": 1713774618,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 372795,
+        "num": 372795,
+        "word": "日本年轻人开始流行友情婚",
+        "onboard_time": 1713762620,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372222,
+        "num": 372222,
+        "word": "秦海璐买个防窥膜吧",
+        "onboard_time": 1713762620,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368398,
+        "num": 368398,
+        "word": "薛之谦厦门",
+        "onboard_time": 1713773899,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97715,
+        "num": 340030,
+        "word": "为什么用消毒级卫生巾更安心",
+        "onboard_time": 1713773178,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 326071,
+        "num": 326071,
+        "word": "调休",
+        "onboard_time": 1713771258,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360368,
+        "num": 303176,
+        "word": "她心疼你 你却觉得她好使唤",
+        "onboard_time": 1713759200,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362342,
+        "num": 279700,
+        "word": "秦海璐在买防窥膜了",
+        "onboard_time": 1713766100,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250450,
+        "num": 250450,
+        "word": "优酷 杨幂",
+        "onboard_time": 1713773839,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235589,
+        "num": 235589,
+        "word": "12306回应被质疑纵容买长乘短",
+        "onboard_time": 1713771978,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219849,
+        "num": 219849,
+        "word": "战王殿下 王妃替您出征了",
+        "onboard_time": 1713763219,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208665,
+        "num": 208665,
+        "word": "骑电动车举黄瓜被风筝线一分为二",
+        "onboard_time": 1713767417,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196893,
+        "num": 196893,
+        "word": "关雪抽烟",
+        "onboard_time": 1713774499,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217205,
+        "num": 196739,
+        "word": "杨幂露背高定裙",
+        "onboard_time": 1713774318,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195039,
+        "num": 195039,
+        "word": "金价涨到700后不敢买也不敢卖",
+        "onboard_time": 1713743537,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 194898,
+        "num": 194898,
+        "word": "雷军确认小米SU7交付提前",
+        "onboard_time": 1713773839,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 191236,
+        "num": 191236,
+        "word": "眼泪女王 绝症车祸失忆",
+        "onboard_time": 1713772638,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189790,
+        "num": 189790,
+        "word": "陈昊宇考古",
+        "onboard_time": 1713773956,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188692,
+        "num": 188692,
+        "word": "吃辣上瘾是一种良性自虐",
+        "onboard_time": 1713768979,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 186243,
+        "num": 186243,
+        "word": "杨幂回应关雪好凶",
+        "onboard_time": 1713772337,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183904,
+        "num": 183904,
+        "word": "张真源下班回头和粉丝告别",
+        "onboard_time": 1713774318,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183777,
+        "num": 183777,
+        "word": "智界感谢雷军推荐",
+        "onboard_time": 1713773839,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181311,
+        "num": 181311,
+        "word": "大部分情侣其实是酒肉情侣",
+        "onboard_time": 1713755418,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172125,
+        "num": 172125,
+        "word": "何赛飞评价杨紫",
+        "onboard_time": 1713768438,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161944,
+        "num": 161944,
+        "word": "王楚钦奥运积分",
+        "onboard_time": 1713767477,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160199,
+        "num": 160199,
+        "word": "高铁被占座我强硬的要回来了",
+        "onboard_time": 1713774258,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158244,
+        "num": 158244,
+        "word": "丁克20年我们变成了室友关系",
+        "onboard_time": 1713771618,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149866,
+        "num": 149866,
+        "word": "发小三婚该不该随礼了",
+        "onboard_time": 1713757999,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144929,
+        "num": 144929,
+        "word": "原来小狗是这样喝水的",
+        "onboard_time": 1713773956,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144040,
+        "num": 144040,
+        "word": "汪曼春",
+        "onboard_time": 1713758598,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134342,
+        "num": 134342,
+        "word": "曾舜晞杀回综艺了",
+        "onboard_time": 1713772879,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119413,
+        "num": 119413,
+        "word": "打工为什么存不住钱",
+        "onboard_time": 1713771018,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118978,
+        "num": 118978,
+        "word": "秦岚吃蒜原因是花少团没有吻戏",
+        "onboard_time": 1713773358,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118082,
+        "num": 118082,
+        "word": "马龙孙颖莎冠军合照",
+        "onboard_time": 1713762440,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112293,
+        "num": 112293,
+        "word": "汪曼春死于劝架",
+        "onboard_time": 1713769578,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107946,
+        "num": 107946,
+        "word": "HYBE要求闵熙珍辞职",
+        "onboard_time": 1713764599,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}
