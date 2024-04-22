@@ -1,7 +1,23 @@
 {
   "startTime": 1713802938860,
-  "endTime": 1713810843450,
+  "endTime": 1713813349172,
   "band_list": [
+    {
+      "raw_hot": 1800678,
+      "num": 1800678,
+      "word": "台湾花莲又发5.9级地震",
+      "onboard_time": 1713796821,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1786434,
+      "num": 1786434,
+      "word": "台湾1小时内发生10起地震",
+      "onboard_time": 1713785656,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1039581,
       "num": 386144,
@@ -11,11 +27,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 691059,
-      "num": 691059,
-      "word": "台湾花莲又发5.9级地震",
-      "onboard_time": 1713796821,
-      "rank": 1,
+      "raw_hot": 810885,
+      "num": 810885,
+      "word": "台湾花莲海域5.3级地震",
+      "onboard_time": 1713778457,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -33,14 +49,6 @@
       "onboard_time": 1713800177,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 511426,
-      "num": 511426,
-      "word": "台湾1小时内发生10起地震",
-      "onboard_time": 1713785656,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 507731,
@@ -171,19 +179,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215211,
+      "num": 215211,
+      "word": "杭州震感",
+      "onboard_time": 1713796639,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191186,
       "num": 191186,
       "word": "主播卖抗癌化妆品骗老人救命钱被封禁",
       "onboard_time": 1713794120,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190563,
-      "num": 190563,
-      "word": "台湾花莲海域5.3级地震",
-      "onboard_time": 1713778457,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -395,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72465,
-      "num": 78008,
-      "word": "杭州震感",
-      "onboard_time": 1713796639,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67814,
       "num": 77588,
       "word": "国际乒联主席点赞孙颖莎",
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 34266,
-      "num": 477595,
+      "num": 950457,
       "word": "世界读书日开卷有益",
       "onboard_time": 1713789559,
       "rank": 2,
@@ -467,12 +467,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31272,
+      "num": 25952,
+      "word": "山东舰航母编队编组首次完整公开",
+      "onboard_time": 1713811691,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 23793,
       "num": 27914,
       "word": "李现台词",
       "onboard_time": 1713794120,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18887,
+      "num": 22027,
+      "word": "没想到衣物收纳这么简单",
+      "onboard_time": 1713810912,
+      "rank": 41,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 16000,
+      "num": 21940,
+      "word": "大熊猫北辰把特供乒乓球给吃了",
+      "onboard_time": 1713813012,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15632,
+      "num": 21906,
+      "word": "北科大女生打假防癌护肤品",
+      "onboard_time": 1713813192,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
