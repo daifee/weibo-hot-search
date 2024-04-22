@@ -1,6 +1,6 @@
 {
   "startTime": 1713716506059,
-  "endTime": 1713763075188,
+  "endTime": 1713764061987,
   "band_list": [
     {
       "raw_hot": 2376669,
@@ -27,6 +27,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1658353,
+      "num": 1658353,
+      "word": "她心疼你 你却觉得她好使唤",
+      "onboard_time": 1713759200,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1609109,
       "num": 1609109,
       "word": "金价涨到700后不敢买也不敢卖",
@@ -41,14 +49,6 @@
       "onboard_time": 1713706581,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1356259,
-      "num": 1356259,
-      "word": "她心疼你 你却觉得她好使唤",
-      "onboard_time": 1713759200,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 1328994,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 790535,
+      "num": 790535,
+      "word": "秦海璐买个防窥膜吧",
+      "onboard_time": 1713762620,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 737275,
       "num": 737275,
       "word": "孙颖莎谈擦边球",
@@ -235,6 +243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 648699,
+      "num": 648699,
+      "word": "大学生考研不再非985211不读",
+      "onboard_time": 1713760219,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 641064,
       "num": 641064,
       "word": "朋友圈背景图",
@@ -251,12 +267,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 581683,
-      "num": 581683,
-      "word": "大学生考研不再非985211不读",
-      "onboard_time": 1713760219,
-      "rank": 40,
-      "category": "教育"
+      "raw_hot": 592697,
+      "num": 592697,
+      "word": "黄景瑜王一博一个嘴慢一个手快",
+      "onboard_time": 1713762798,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 578107,
@@ -273,6 +289,14 @@
       "onboard_time": 1713749057,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 572172,
+      "num": 572172,
+      "word": "深圳卫健委 霸总剧里当医生",
+      "onboard_time": 1713761899,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 565724,
@@ -404,7 +428,7 @@
     },
     {
       "raw_hot": 450970,
-      "num": 225291,
+      "num": 371064,
       "word": "马龙孙颖莎冠军合照",
       "onboard_time": 1713762440,
       "rank": 30,
@@ -443,20 +467,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 392540,
+      "num": 392540,
+      "word": "日本年轻人开始流行友情婚",
+      "onboard_time": 1713762620,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391106,
       "num": 391106,
       "word": "五十公里桃花坞",
       "onboard_time": 1713760820,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 389430,
-      "num": 389430,
-      "word": "深圳卫健委 霸总剧里当医生",
-      "onboard_time": 1713761899,
-      "rank": 15,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 383055,
@@ -473,14 +497,6 @@
       "onboard_time": 1713753438,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 382859,
-      "num": 382859,
-      "word": "黄景瑜王一博一个嘴慢一个手快",
-      "onboard_time": 1713762798,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 380300,
@@ -505,6 +521,14 @@
       "onboard_time": 1713728050,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 365093,
+      "num": 297393,
+      "word": "欧豪邀请赵丽颖上岛一起受苦",
+      "onboard_time": 1713763279,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 356168,
@@ -563,14 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 305660,
-      "num": 305660,
-      "word": "秦海璐买个防窥膜吧",
-      "onboard_time": 1713762620,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 304150,
       "num": 304150,
       "word": "马龙第三次夺得世界杯单打冠军",
@@ -593,6 +609,14 @@
       "onboard_time": 1713756197,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 292384,
+      "num": 292384,
+      "word": "战王殿下 王妃替您出征了",
+      "onboard_time": 1713763219,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 288874,
@@ -867,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205330,
+      "num": 205330,
+      "word": "张震舒淇冯德伦港台版燃冬",
+      "onboard_time": 1713763279,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204157,
       "num": 204157,
       "word": "电影维和防暴队芭莎大片",
@@ -904,14 +936,6 @@
       "word": "专家谈休假制度什么时候才能改",
       "onboard_time": 1713757579,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196401,
-      "num": 196401,
-      "word": "日本年轻人开始流行友情婚",
-      "onboard_time": 1713762620,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -961,6 +985,14 @@
       "onboard_time": 1713752898,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189709,
+      "num": 189709,
+      "word": "恋与制作人寻人启事",
+      "onboard_time": 1713763819,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 189695,
@@ -1131,6 +1163,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 168498,
+      "num": 168498,
+      "word": "50多万买新车开2公里成瑕疵车",
+      "onboard_time": 1713762321,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 167301,
       "num": 167301,
       "word": "seventeen克拉盘",
@@ -1195,12 +1235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155675,
-      "num": 155675,
-      "word": "50多万买新车开2公里成瑕疵车",
-      "onboard_time": 1713762321,
-      "rank": 43,
-      "category": "汽车"
+      "raw_hot": 155542,
+      "num": 155542,
+      "word": "哈尔滨一九四四有自己的安陵容",
+      "onboard_time": 1713763638,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 155525,
@@ -1297,6 +1337,14 @@
       "onboard_time": 1713713120,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140862,
+      "num": 140862,
+      "word": "kpop替身",
+      "onboard_time": 1713763878,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 140093,

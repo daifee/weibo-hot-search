@@ -1,0 +1,410 @@
+{
+  "runTime": 1713764061987,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1658353,
+        "num": 1658353,
+        "word": "她心疼你 你却觉得她好使唤",
+        "onboard_time": 1713759200,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1066923,
+        "num": 1066923,
+        "word": "荷兰男子新冠阳性613天去世",
+        "onboard_time": 1713758659,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41373,
+        "num": 825990,
+        "word": "潮起互联网奔涌三十年",
+        "onboard_time": 1713755478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790535,
+        "num": 790535,
+        "word": "秦海璐买个防窥膜吧",
+        "onboard_time": 1713762620,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 754250,
+        "num": 754250,
+        "word": "王鸥演技",
+        "onboard_time": 1713757278,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 648699,
+        "num": 648699,
+        "word": "大学生考研不再非985211不读",
+        "onboard_time": 1713760219,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 592697,
+        "num": 592697,
+        "word": "黄景瑜王一博一个嘴慢一个手快",
+        "onboard_time": 1713762798,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 572172,
+        "num": 572172,
+        "word": "深圳卫健委 霸总剧里当医生",
+        "onboard_time": 1713761899,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157864,
+        "num": 507699,
+        "word": "马龙说感谢自己在0比3时没有放弃",
+        "onboard_time": 1713740954,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278974,
+        "num": 504633,
+        "word": "有薄膜的一次性咖啡杯30年才能降解",
+        "onboard_time": 1713755358,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 504004,
+        "num": 504004,
+        "word": "汪曼春",
+        "onboard_time": 1713758598,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 472998,
+        "num": 472998,
+        "word": "金价涨到700后不敢买也不敢卖",
+        "onboard_time": 1713743537,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 409441,
+        "num": 409441,
+        "word": "脱口秀回来了",
+        "onboard_time": 1713760400,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392540,
+        "num": 392540,
+        "word": "日本年轻人开始流行友情婚",
+        "onboard_time": 1713762620,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389363,
+        "num": 389363,
+        "word": "唐嫣时隔15年再演仙侠剧",
+        "onboard_time": 1713755418,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376533,
+        "num": 376533,
+        "word": "赵丽颖重庆逛吃vlog",
+        "onboard_time": 1713759859,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372693,
+        "num": 372693,
+        "word": "女子癌症晚期成了网红",
+        "onboard_time": 1713743537,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371064,
+        "num": 371064,
+        "word": "马龙孙颖莎冠军合照",
+        "onboard_time": 1713762440,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349963,
+        "num": 349963,
+        "word": "五十公里桃花坞",
+        "onboard_time": 1713760820,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331084,
+        "num": 331084,
+        "word": "秦海璐王安宇光明正大的唱因为爱情",
+        "onboard_time": 1713759499,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622355,
+        "num": 323719,
+        "word": "孙颖莎谈擦边球",
+        "onboard_time": 1713758358,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422789,
+        "num": 318699,
+        "word": "大部分情侣其实是酒肉情侣",
+        "onboard_time": 1713755418,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 395880,
+        "num": 307459,
+        "word": "发小三婚该不该随礼了",
+        "onboard_time": 1713757999,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365093,
+        "num": 297393,
+        "word": "欧豪邀请赵丽颖上岛一起受苦",
+        "onboard_time": 1713763279,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292384,
+        "num": 292384,
+        "word": "战王殿下 王妃替您出征了",
+        "onboard_time": 1713763219,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232790,
+        "num": 232790,
+        "word": "广西一小区楼上坠落树根致高中生被砸身亡",
+        "onboard_time": 1713751818,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232068,
+        "num": 232068,
+        "word": "李现微博头像是两部剧角色",
+        "onboard_time": 1713760700,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231572,
+        "num": 231572,
+        "word": "单休的人连上九天班",
+        "onboard_time": 1713753616,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229674,
+        "num": 229674,
+        "word": "李艾的腿给了我亿点点震撼",
+        "onboard_time": 1713761239,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122696,
+        "num": 227492,
+        "word": "美国军方代表团抵达青岛",
+        "onboard_time": 1713752598,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225883,
+        "num": 225883,
+        "word": "合着我还过着29年前的单休生活",
+        "onboard_time": 1713758537,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222854,
+        "num": 222854,
+        "word": "97年的人都当综艺总导演了",
+        "onboard_time": 1713750677,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222847,
+        "num": 222847,
+        "word": "24岁我终于决定裸辞了",
+        "onboard_time": 1713762020,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216981,
+        "num": 216981,
+        "word": "刘忻是JYP第一位中国女艺人",
+        "onboard_time": 1713749957,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205330,
+        "num": 205330,
+        "word": "张震舒淇冯德伦港台版燃冬",
+        "onboard_time": 1713763279,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196924,
+        "num": 196924,
+        "word": "95后小伙每天暴走3万步排查招聘套路",
+        "onboard_time": 1713760940,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189709,
+        "num": 189709,
+        "word": "恋与制作人寻人启事",
+        "onboard_time": 1713763819,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185421,
+        "num": 185421,
+        "word": "尚雯婕认识前是哑巴认识后是喇叭",
+        "onboard_time": 1713762321,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180118,
+        "num": 180118,
+        "word": "唐嫣刘学义吻戏镜头",
+        "onboard_time": 1713761599,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173456,
+        "num": 173456,
+        "word": "朋友圈背景图",
+        "onboard_time": 1713750558,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169330,
+        "num": 169330,
+        "word": "陈哲远倒三角",
+        "onboard_time": 1713761360,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168498,
+        "num": 168498,
+        "word": "50多万买新车开2公里成瑕疵车",
+        "onboard_time": 1713762321,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155542,
+        "num": 155542,
+        "word": "哈尔滨一九四四有自己的安陵容",
+        "onboard_time": 1713763638,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153999,
+        "num": 153999,
+        "word": "专家谈休假制度什么时候才能改",
+        "onboard_time": 1713757579,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151087,
+        "num": 151087,
+        "word": "12306从未授权第三方平台发售火车票",
+        "onboard_time": 1713744919,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145923,
+        "num": 145923,
+        "word": "未成年人五一每天仅能玩1小时游戏",
+        "onboard_time": 1713758899,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140862,
+        "num": 140862,
+        "word": "kpop替身",
+        "onboard_time": 1713763878,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132291,
+        "num": 132291,
+        "word": "惜花芷",
+        "onboard_time": 1713760760,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130445,
+        "num": 130445,
+        "word": "五一调休",
+        "onboard_time": 1713745579,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125913,
+        "num": 125913,
+        "word": "何浩楠 帅蜂了",
+        "onboard_time": 1713759200,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}
