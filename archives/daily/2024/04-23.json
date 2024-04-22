@@ -1,6 +1,6 @@
 {
   "startTime": 1713802938860,
-  "endTime": 1713813349172,
+  "endTime": 1713814446751,
   "band_list": [
     {
       "raw_hot": 1800678,
@@ -483,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20755,
+      "num": 21940,
+      "word": "大熊猫北辰把特供乒乓球给吃了",
+      "onboard_time": 1713813012,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18887,
       "num": 22027,
       "word": "没想到衣物收纳这么简单",
@@ -491,12 +499,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 16000,
-      "num": 21940,
-      "word": "大熊猫北辰把特供乒乓球给吃了",
-      "onboard_time": 1713813012,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 16950,
+      "num": 18341,
+      "word": "关雪谁啊",
+      "onboard_time": 1713813551,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 15632,

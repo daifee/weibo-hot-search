@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713813349172,
+  "endTime": 1713814446751,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -63267,6 +63267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 20755,
+      "num": 21940,
+      "word": "大熊猫北辰把特供乒乓球给吃了",
+      "onboard_time": 1713813012,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20703,
       "num": 20703,
       "word": "你有收到过陌生人的鼓励吗",
@@ -63483,6 +63491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 16950,
+      "num": 18341,
+      "word": "关雪谁啊",
+      "onboard_time": 1713813551,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16908,
       "num": 182139,
       "word": "P5X肝度适中",
@@ -63513,14 +63529,6 @@
       "onboard_time": 1712429891,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16000,
-      "num": 21940,
-      "word": "大熊猫北辰把特供乒乓球给吃了",
-      "onboard_time": 1713813012,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15726,
