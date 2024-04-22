@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713781261349,
+  "endTime": 1713782196362,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 865681,
+      "num": 865681,
+      "word": "不孕女子喜获3胞胎同卵异卵同出现",
+      "onboard_time": 1713779418,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 861610,
       "num": 861610,
       "word": "罗云熙演唱会票价1680",
@@ -579,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 734854,
+      "num": 734854,
+      "word": "广东强降雨已致4死10失联",
+      "onboard_time": 1713781098,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 731434,
       "num": 731434,
       "word": "刘忻是JYP第一位中国女艺人",
@@ -617,6 +633,14 @@
       "onboard_time": 1713758598,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 708753,
+      "num": 708753,
+      "word": "12306回应公众号发疯留言能求到票",
+      "onboard_time": 1713778457,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 700030,
@@ -713,14 +737,6 @@
       "onboard_time": 1713694517,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 675732,
-      "num": 675732,
-      "word": "12306回应公众号发疯留言能求到票",
-      "onboard_time": 1713778457,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 674464,
@@ -1128,14 +1144,6 @@
       "word": "本周日要调休上班",
       "onboard_time": 1713747499,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 514509,
-      "num": 514509,
-      "word": "不孕女子喜获3胞胎同卵异卵同出现",
-      "onboard_time": 1713779418,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1715,6 +1723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 368048,
+      "num": 368048,
+      "word": "胡先煦 倘若我问心有愧呢",
+      "onboard_time": 1713779780,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365093,
       "num": 297393,
       "word": "欧豪邀请赵丽颖上岛一起受苦",
@@ -2139,14 +2155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 268717,
-      "num": 282682,
-      "word": "胡先煦 倘若我问心有愧呢",
-      "onboard_time": 1713779780,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 267751,
       "num": 231255,
       "word": "男子强迫女儿热水泡脚致重伤被判刑",
@@ -2347,6 +2355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 251163,
+      "num": 251163,
+      "word": "失业后才懂得拒绝进厨房是一种权力",
+      "onboard_time": 1713778098,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 250305,
       "num": 250305,
       "word": "丧偶式婚姻真的会让人崩溃",
@@ -2507,6 +2523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236191,
+      "num": 236191,
+      "word": "余罪",
+      "onboard_time": 1713781638,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234324,
       "num": 234324,
       "word": "花少1花少5团聚",
@@ -2576,14 +2600,6 @@
       "word": "原来被爱会疯狂长出血肉",
       "onboard_time": 1713665177,
       "rank": 23,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 229930,
-      "num": 229930,
-      "word": "失业后才懂得拒绝进厨房是一种权力",
-      "onboard_time": 1713778098,
-      "rank": 39,
       "category": "情感"
     },
     {
@@ -3579,6 +3595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178929,
+      "num": 178929,
+      "word": "周鸿祎否认为哪吒抬轿子",
+      "onboard_time": 1713781098,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 178808,
       "num": 178808,
       "word": "上海地铁",
@@ -3803,6 +3827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169078,
+      "num": 169078,
+      "word": "Mari 退赛",
+      "onboard_time": 1713781878,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168748,
       "num": 166189,
       "word": "不够善良的我们 量子力学",
@@ -3995,19 +4027,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 159349,
-      "num": 159349,
-      "word": "广东强降雨已致4死10失联",
-      "onboard_time": 1713781098,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159136,
       "num": 159136,
       "word": "新说唱2024",
       "onboard_time": 1713754578,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159077,
+      "num": 159077,
+      "word": "浪姐在袁娅维的雷点反复蹦迪",
+      "onboard_time": 1713781578,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -4200,6 +4232,14 @@
       "word": "HYBE全面监察ADOR",
       "onboard_time": 1713764838,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153056,
+      "num": 153056,
+      "word": "闵熙珍称ILLIT抄袭",
+      "onboard_time": 1713782058,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -4449,6 +4489,14 @@
       "onboard_time": 1713713001,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 143069,
+      "num": 143069,
+      "word": "HYBE内斗",
+      "onboard_time": 1713781818,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 142292,
@@ -4747,6 +4795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131219,
+      "num": 131219,
+      "word": "伪装者",
+      "onboard_time": 1713781998,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131158,
       "num": 131158,
       "word": "辛芷蕾花少抱花盆出场",
@@ -4907,14 +4963,6 @@
       "category": "财经,财经"
     },
     {
-      "raw_hot": 123849,
-      "num": 123849,
-      "word": "周鸿祎否认为哪吒抬轿子",
-      "onboard_time": 1713781098,
-      "rank": 45,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 123506,
       "num": 123506,
       "word": "女生进大厂收破烂年收百万台旧家电",
@@ -5025,6 +5073,14 @@
       "onboard_time": 1713610878,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114781,
+      "num": 114781,
+      "word": "五一酒店价格",
+      "onboard_time": 1713781818,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 114441,
@@ -5281,6 +5337,14 @@
       "onboard_time": 1713736331,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78713,
+      "num": 497882,
+      "word": "男孩丢失人工耳蜗众人接力69小时寻回",
+      "onboard_time": 1713781278,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78004,
@@ -5548,7 +5612,7 @@
     },
     {
       "raw_hot": 34861,
-      "num": 786050,
+      "num": 914454,
       "word": "文化中国行",
       "onboard_time": 1713754998,
       "rank": 2,
