@@ -1,0 +1,410 @@
+{
+  "runTime": 1713770242152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1872961,
+        "num": 1872961,
+        "word": "12306被质疑纵容买长乘短",
+        "onboard_time": 1713764838,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1122032,
+        "num": 1122032,
+        "word": "消失的她原型5年后重返事发地",
+        "onboard_time": 1713764778,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29263,
+        "num": 968322,
+        "word": "潮起互联网奔涌三十年",
+        "onboard_time": 1713755478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891244,
+        "num": 891244,
+        "word": "秦海璐买个防窥膜吧",
+        "onboard_time": 1713762620,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 765559,
+        "num": 765559,
+        "word": "日本年轻人开始流行友情婚",
+        "onboard_time": 1713762620,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735166,
+        "num": 735166,
+        "word": "三天不进餐 大后天吃9顿饭",
+        "onboard_time": 1713765138,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 694102,
+        "num": 694102,
+        "word": "newjeans怎么办",
+        "onboard_time": 1713768137,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 684741,
+        "num": 684741,
+        "word": "辛芷蕾妈妈脱粉秦岚转粉迪丽热巴",
+        "onboard_time": 1713768137,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400705,
+        "num": 400705,
+        "word": "骑电动车举黄瓜被风筝线一分为二",
+        "onboard_time": 1713767417,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291168,
+        "num": 397515,
+        "word": "法国人在中国寻找七年前种的树",
+        "onboard_time": 1713767838,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817616,
+        "num": 396887,
+        "word": "秦海璐在买防窥膜了",
+        "onboard_time": 1713766100,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469889,
+        "num": 396592,
+        "word": "她心疼你 你却觉得她好使唤",
+        "onboard_time": 1713759200,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 396254,
+        "num": 396254,
+        "word": "王楚钦奥运积分",
+        "onboard_time": 1713767477,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386282,
+        "num": 386282,
+        "word": "HYBE要求闵熙珍辞职",
+        "onboard_time": 1713764599,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377248,
+        "num": 377248,
+        "word": "战王殿下 王妃替您出征了",
+        "onboard_time": 1713763219,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296358,
+        "num": 296358,
+        "word": "金价涨到700后不敢买也不敢卖",
+        "onboard_time": 1713743537,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 263638,
+        "num": 263638,
+        "word": "李现 现偶纯元",
+        "onboard_time": 1713769578,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257787,
+        "num": 257787,
+        "word": "何赛飞评价杨紫",
+        "onboard_time": 1713768438,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256352,
+        "num": 256352,
+        "word": "赵昭仪换新房子了",
+        "onboard_time": 1713769098,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4732,
+        "num": 249736,
+        "word": "九号造车与造片都是科技局",
+        "onboard_time": 1713765919,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248813,
+        "num": 248813,
+        "word": "汪曼春",
+        "onboard_time": 1713758598,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240368,
+        "num": 240368,
+        "word": "大学生考研不再非985211不读",
+        "onboard_time": 1713760219,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216926,
+        "num": 216926,
+        "word": "吃辣上瘾是一种良性自虐",
+        "onboard_time": 1713768979,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 209764,
+        "num": 209764,
+        "word": "大部分情侣其实是酒肉情侣",
+        "onboard_time": 1713755418,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206822,
+        "num": 206822,
+        "word": "发小三婚该不该随礼了",
+        "onboard_time": 1713757999,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203558,
+        "num": 203558,
+        "word": "罗云熙杀青路透",
+        "onboard_time": 1713769757,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200422,
+        "num": 200422,
+        "word": "袁娅维是张杰张含韵校友",
+        "onboard_time": 1713767898,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199616,
+        "num": 199616,
+        "word": "深圳卫健委 霸总剧里当医生",
+        "onboard_time": 1713761899,
+        "rank": 27,
+        "category": "健康医疗,剧集"
+      },
+      {
+        "raw_hot": 197792,
+        "num": 197792,
+        "word": "黄景瑜王一博一个嘴慢一个手快",
+        "onboard_time": 1713762798,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51632,
+        "num": 189766,
+        "word": "马龙说感谢自己在0比3时没有放弃",
+        "onboard_time": 1713740954,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184198,
+        "num": 184198,
+        "word": "专家称休假改革难在众口难调",
+        "onboard_time": 1713766999,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171828,
+        "num": 171828,
+        "word": "CherryBullet解散",
+        "onboard_time": 1713765138,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171166,
+        "num": 171166,
+        "word": "有薄膜的一次性咖啡杯30年才能降解",
+        "onboard_time": 1713755358,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165105,
+        "num": 165105,
+        "word": "汪曼春死于劝架",
+        "onboard_time": 1713769578,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159938,
+        "num": 159938,
+        "word": "孙颖莎谈擦边球",
+        "onboard_time": 1713758358,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151804,
+        "num": 151804,
+        "word": "耳帝为何洁感到可惜",
+        "onboard_time": 1713769219,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146474,
+        "num": 146474,
+        "word": "辛甘秦愿强吻",
+        "onboard_time": 1713770057,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140705,
+        "num": 140705,
+        "word": "欧豪邀请赵丽颖上岛一起受苦",
+        "onboard_time": 1713763279,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136286,
+        "num": 136286,
+        "word": "贾冰 如来",
+        "onboard_time": 1713769699,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133213,
+        "num": 133213,
+        "word": "王鸥演技",
+        "onboard_time": 1713757278,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133071,
+        "num": 133071,
+        "word": "马龙孙颖莎冠军合照",
+        "onboard_time": 1713762440,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124004,
+        "num": 124004,
+        "word": "啤酒巨头年入1000亿",
+        "onboard_time": 1713768318,
+        "rank": 41,
+        "category": "财经,财经"
+      },
+      {
+        "raw_hot": 123511,
+        "num": 123511,
+        "word": "马嘉祺邀请张杰体验海岛生活",
+        "onboard_time": 1713765019,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119776,
+        "num": 119776,
+        "word": "陈丽君唱流行唱到怀疑自己",
+        "onboard_time": 1713766217,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103273,
+        "num": 103273,
+        "word": "赵丽颖重庆逛吃vlog",
+        "onboard_time": 1713759859,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101995,
+        "num": 101995,
+        "word": "24岁我终于决定裸辞了",
+        "onboard_time": 1713762020,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99057,
+        "num": 99057,
+        "word": "李艾的腿给了我亿点点震撼",
+        "onboard_time": 1713761239,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94766,
+        "num": 94766,
+        "word": "合着我还过着29年前的单休生活",
+        "onboard_time": 1713758537,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94288,
+        "num": 94288,
+        "word": "五十公里桃花坞",
+        "onboard_time": 1713760820,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90147,
+        "num": 94265,
+        "word": "每当有人问我为什么不谈恋爱",
+        "onboard_time": 1713770178,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}

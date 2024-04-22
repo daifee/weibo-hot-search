@@ -1,6 +1,6 @@
 {
   "startTime": 1713716506059,
-  "endTime": 1713767790458,
+  "endTime": 1713770242152,
   "band_list": [
     {
       "raw_hot": 2376669,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1122032,
+      "num": 1122032,
+      "word": "消失的她原型5年后重返事发地",
+      "onboard_time": 1713764778,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1112023,
       "num": 1112023,
       "word": "日本年轻人开始流行友情婚",
@@ -145,14 +153,6 @@
       "onboard_time": 1713748939,
       "rank": 4,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1008490,
-      "num": 1008490,
-      "word": "消失的她原型5年后重返事发地",
-      "onboard_time": 1713764778,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1001509,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 735166,
+      "num": 735166,
+      "word": "三天不进餐 大后天吃9顿饭",
+      "onboard_time": 1713765138,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 732342,
       "num": 732342,
       "word": "钟薛高创始人称卖红薯也要把债还上",
@@ -251,6 +259,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 694102,
+      "num": 694102,
+      "word": "newjeans怎么办",
+      "onboard_time": 1713768137,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 694088,
       "num": 341712,
       "word": "发小三婚该不该随礼了",
@@ -275,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 684741,
+      "num": 684741,
+      "word": "辛芷蕾妈妈脱粉秦岚转粉迪丽热巴",
+      "onboard_time": 1713768137,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 670950,
       "num": 670950,
       "word": "罗云熙演唱会票价1680",
@@ -297,14 +321,6 @@
       "onboard_time": 1713750558,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 640609,
-      "num": 640609,
-      "word": "三天不进餐 大后天吃9顿饭",
-      "onboard_time": 1713765138,
-      "rank": 11,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 618469,
@@ -507,12 +523,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400705,
+      "num": 400705,
+      "word": "骑电动车举黄瓜被风筝线一分为二",
+      "onboard_time": 1713767417,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398804,
       "num": 398804,
       "word": "陈丽君断层第一",
       "onboard_time": 1713704359,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 396254,
+      "num": 396254,
+      "word": "王楚钦奥运积分",
+      "onboard_time": 1713767477,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 396023,
@@ -667,6 +699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 291168,
+      "num": 397515,
+      "word": "法国人在中国寻找七年前种的树",
+      "onboard_time": 1713767838,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288874,
       "num": 288874,
       "word": "华为智界S7截胡小米SU7",
@@ -731,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263638,
+      "num": 263638,
+      "word": "李现 现偶纯元",
+      "onboard_time": 1713769578,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262090,
       "num": 262090,
       "word": "全红婵回应世界杯夺银牌",
@@ -755,11 +803,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257787,
+      "num": 257787,
+      "word": "何赛飞评价杨紫",
+      "onboard_time": 1713768438,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256812,
       "num": 256812,
       "word": "桃花坞上班",
       "onboard_time": 1713756978,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 256352,
+      "num": 256352,
+      "word": "赵昭仪换新房子了",
+      "onboard_time": 1713769098,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -883,6 +947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 216926,
+      "num": 216926,
+      "word": "吃辣上瘾是一种良性自虐",
+      "onboard_time": 1713768979,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 214424,
       "num": 214424,
       "word": "雍和宫偶遇董卿",
@@ -971,6 +1043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203558,
+      "num": 203558,
+      "word": "罗云熙杀青路透",
+      "onboard_time": 1713769757,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203335,
       "num": 203335,
       "word": "二三十岁加过的班能伤到50岁的你",
@@ -995,12 +1075,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201194,
-      "num": 201194,
-      "word": "王楚钦奥运积分",
-      "onboard_time": 1713767477,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 200422,
+      "num": 200422,
+      "word": "袁娅维是张杰张含韵校友",
+      "onboard_time": 1713767898,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 198028,
@@ -1275,6 +1355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165105,
+      "num": 165105,
+      "word": "汪曼春死于劝架",
+      "onboard_time": 1713769578,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162372,
       "num": 162372,
       "word": "承欢记28集 母女线",
@@ -1363,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151804,
+      "num": 151804,
+      "word": "耳帝为何洁感到可惜",
+      "onboard_time": 1713769219,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151579,
       "num": 151579,
       "word": "快船1比0独行侠",
@@ -1401,6 +1497,14 @@
       "onboard_time": 1713747679,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146474,
+      "num": 146474,
+      "word": "辛甘秦愿强吻",
+      "onboard_time": 1713770057,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 146377,
@@ -1491,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136286,
+      "num": 136286,
+      "word": "贾冰 如来",
+      "onboard_time": 1713769699,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133924,
       "num": 133924,
       "word": "金秀贤演技炸裂",
@@ -1553,6 +1665,14 @@
       "onboard_time": 1713767658,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124004,
+      "num": 124004,
+      "word": "啤酒巨头年入1000亿",
+      "onboard_time": 1713768318,
+      "rank": 41,
+      "category": "财经,财经"
     },
     {
       "raw_hot": 123506,
@@ -1627,14 +1747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106468,
-      "num": 181467,
-      "word": "骑电动车举黄瓜被风筝线一分为二",
-      "onboard_time": 1713767417,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105888,
       "num": 105888,
       "word": "被陈楚生谭维维合唱硬控住了",
@@ -1697,6 +1809,14 @@
       "onboard_time": 1713702140,
       "rank": 48,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 90147,
+      "num": 94265,
+      "word": "每当有人问我为什么不谈恋爱",
+      "onboard_time": 1713770178,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 89364,
