@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713818077710,
+  "endTime": 1713820555073,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -6443,6 +6443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44058,
+      "num": 44058,
+      "word": "以色列",
+      "onboard_time": 1713816490,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 42439,
       "num": 42439,
       "word": "哈哈哈哈哈",
@@ -6579,14 +6587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 23531,
-      "num": 23531,
-      "word": "以色列",
-      "onboard_time": 1713816490,
-      "rank": 32,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 23188,
       "num": 23188,
       "word": "喝酒脸红的人别再喝了",
@@ -6611,12 +6611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21659,
+      "num": 21659,
+      "word": "为何很多人不敢吃蚝油了",
+      "onboard_time": 1713819310,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 21513,
       "num": 23910,
       "word": "西班牙国家德比",
       "onboard_time": 1713734831,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18993,
+      "num": 17496,
+      "word": "为什么给狗狗买鞋会收到两双",
+      "onboard_time": 1713816012,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 18887,
@@ -6633,14 +6649,6 @@
       "onboard_time": 1713704421,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17816,
-      "num": 17496,
-      "word": "为什么给狗狗买鞋会收到两双",
-      "onboard_time": 1713816012,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 17612,
@@ -6667,6 +6675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14689,
+      "num": 16315,
+      "word": "印度街头的餐具",
+      "onboard_time": 1713818470,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 14009,
       "num": 16716,
       "word": "周杰伦粉丝互动主打一个已读乱回",
@@ -6681,6 +6697,22 @@
       "onboard_time": 1713645250,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13516,
+      "num": 16289,
+      "word": "普拉提是减肥纠错本吧",
+      "onboard_time": 1713819851,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 12810,
+      "num": 16272,
+      "word": "为啥学校食堂番茄炒蛋按荤菜卖",
+      "onboard_time": 1713820150,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 11546,
