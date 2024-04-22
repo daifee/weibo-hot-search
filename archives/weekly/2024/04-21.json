@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713764061987,
+  "endTime": 1713767027818,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -107,6 +107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1565068,
+      "num": 1565068,
+      "word": "12306被质疑纵容买长乘短",
+      "onboard_time": 1713764838,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1537487,
       "num": 1457585,
       "word": "美国老人感染僵尸鹿病毒死亡",
@@ -137,6 +145,14 @@
       "onboard_time": 1713694397,
       "rank": 41,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 1482237,
+      "num": 1482237,
+      "word": "秦海璐买个防窥膜吧",
+      "onboard_time": 1713762620,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 1478015,
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1112023,
+      "num": 1112023,
+      "word": "日本年轻人开始流行友情婚",
+      "onboard_time": 1713762620,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1078548,
       "num": 1078548,
       "word": "女子癌症晚期成了网红",
@@ -337,6 +361,14 @@
       "onboard_time": 1713629118,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 958848,
+      "num": 958848,
+      "word": "消失的她原型5年后重返事发地",
+      "onboard_time": 1713764778,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 911966,
@@ -451,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 790535,
-      "num": 790535,
-      "word": "秦海璐买个防窥膜吧",
-      "onboard_time": 1713762620,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 770818,
       "num": 770818,
       "word": "两人维保电梯一人竟是纸片人",
@@ -513,6 +537,14 @@
       "onboard_time": 1713705680,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 724564,
+      "num": 587017,
+      "word": "HYBE要求闵熙珍辞职",
+      "onboard_time": 1713764599,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 712900,
@@ -683,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 618469,
+      "num": 618469,
+      "word": "战王殿下 王妃替您出征了",
+      "onboard_time": 1713763219,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 616363,
       "num": 616363,
       "word": "毛毛分娩后不知所措",
@@ -715,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 595801,
+      "num": 595801,
+      "word": "深圳卫健委 霸总剧里当医生",
+      "onboard_time": 1713761899,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 592697,
       "num": 592697,
       "word": "黄景瑜王一博一个嘴慢一个手快",
@@ -729,6 +777,14 @@
       "onboard_time": 1713668057,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 586972,
+      "num": 586972,
+      "word": "三天不进餐 大后天吃9顿饭",
+      "onboard_time": 1713765138,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 584590,
@@ -785,14 +841,6 @@
       "onboard_time": 1713749057,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 572172,
-      "num": 572172,
-      "word": "深圳卫健委 霸总剧里当医生",
-      "onboard_time": 1713761899,
-      "rank": 15,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 572038,
@@ -937,6 +985,14 @@
       "onboard_time": 1713701718,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 524587,
+      "num": 524587,
+      "word": "秦海璐在买防窥膜了",
+      "onboard_time": 1713766100,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 522361,
@@ -1371,14 +1427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 392540,
-      "num": 392540,
-      "word": "日本年轻人开始流行友情婚",
-      "onboard_time": 1713762620,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 391133,
       "num": 311533,
       "word": "女生把健身当摸鱼一月瘦10斤",
@@ -1571,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340180,
+      "num": 340180,
+      "word": "CherryBullet解散",
+      "onboard_time": 1713765138,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337960,
       "num": 757196,
       "word": "女子高挂10层阳台邻居大哥机智救援",
@@ -1737,14 +1793,6 @@
       "onboard_time": 1713756197,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 292384,
-      "num": 292384,
-      "word": "战王殿下 王妃替您出征了",
-      "onboard_time": 1713763219,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 290933,
@@ -2355,6 +2403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210483,
+      "num": 203641,
+      "word": "马嘉祺邀请张杰体验海岛生活",
+      "onboard_time": 1713765019,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210307,
       "num": 210307,
       "word": "洞洞板平替",
@@ -2369,6 +2425,14 @@
       "onboard_time": 1713695658,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209564,
+      "num": 209564,
+      "word": "seventeen特典",
+      "onboard_time": 1713766639,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 208692,
@@ -3019,6 +3083,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 181055,
+      "num": 181055,
+      "word": "陈丽君唱流行唱到怀疑自己",
+      "onboard_time": 1713766217,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180617,
       "num": 180617,
       "word": "惜花芷",
@@ -3523,6 +3595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153542,
+      "num": 153542,
+      "word": "HYBE全面监察ADOR",
+      "onboard_time": 1713764838,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152190,
       "num": 152190,
       "word": "男女方父母一眼就能看出来",
@@ -3651,6 +3731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146377,
+      "num": 146377,
+      "word": "kpop替身",
+      "onboard_time": 1713763878,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146350,
       "num": 146350,
       "word": "对氯雷他定过敏",
@@ -3763,14 +3851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140862,
-      "num": 140862,
-      "word": "kpop替身",
-      "onboard_time": 1713763878,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 140859,
       "num": 140859,
       "word": "苏有朋主打一个听劝",
@@ -3849,6 +3929,22 @@
       "onboard_time": 1713757938,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 138099,
+      "num": 138099,
+      "word": "ILLIT再更换粉丝名",
+      "onboard_time": 1713764178,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137862,
+      "num": 137862,
+      "word": "范丞丞谢帝 携手掘金",
+      "onboard_time": 1713766519,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 137834,
@@ -3945,6 +4041,14 @@
       "onboard_time": 1713697458,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133924,
+      "num": 133924,
+      "word": "金秀贤演技炸裂",
+      "onboard_time": 1713765557,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 133890,
@@ -4059,6 +4163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127357,
+      "num": 127357,
+      "word": "专家称休假改革难在众口难调",
+      "onboard_time": 1713766999,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127146,
       "num": 127146,
       "word": "麦承欢与其内耗不如出手",
@@ -4113,6 +4225,14 @@
       "onboard_time": 1713670877,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123506,
+      "num": 123506,
+      "word": "女生进大厂收破烂年收百万台旧家电",
+      "onboard_time": 1713764119,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122461,
@@ -4532,7 +4652,7 @@
     },
     {
       "raw_hot": 55590,
-      "num": 1065342,
+      "num": 1193331,
       "word": "潮起互联网奔涌三十年",
       "onboard_time": 1713755478,
       "rank": 2,
@@ -4697,6 +4817,14 @@
       "onboard_time": 1713645491,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 21821,
+      "num": 313829,
+      "word": "九号造车与造片都是科技局",
+      "onboard_time": 1713765919,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21513,

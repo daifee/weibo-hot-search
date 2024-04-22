@@ -1,6 +1,6 @@
 {
   "startTime": 1713716506059,
-  "endTime": 1713764061987,
+  "endTime": 1713767027818,
   "band_list": [
     {
       "raw_hot": 2376669,
@@ -43,6 +43,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1565068,
+      "num": 1565068,
+      "word": "12306被质疑纵容买长乘短",
+      "onboard_time": 1713764838,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1482237,
+      "num": 1482237,
+      "word": "秦海璐买个防窥膜吧",
+      "onboard_time": 1713762620,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1378340,
       "num": 678458,
       "word": "擦边球",
@@ -80,6 +96,14 @@
       "word": "女子称一个月光洗澡燃气费达130多元",
       "onboard_time": 1713718575,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1112023,
+      "num": 1112023,
+      "word": "日本年轻人开始流行友情婚",
+      "onboard_time": 1713762620,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -131,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 958848,
+      "num": 958848,
+      "word": "消失的她原型5年后重返事发地",
+      "onboard_time": 1713764778,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 919522,
       "num": 677412,
       "word": "美国老人感染僵尸鹿病毒死亡",
@@ -163,14 +195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 790535,
-      "num": 790535,
-      "word": "秦海璐买个防窥膜吧",
-      "onboard_time": 1713762620,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 737275,
       "num": 737275,
       "word": "孙颖莎谈擦边球",
@@ -192,6 +216,14 @@
       "word": "刘忻是JYP第一位中国女艺人",
       "onboard_time": 1713749957,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 724564,
+      "num": 587017,
+      "word": "HYBE要求闵熙珍辞职",
+      "onboard_time": 1713764599,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -259,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 618469,
+      "num": 618469,
+      "word": "战王殿下 王妃替您出征了",
+      "onboard_time": 1713763219,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 598677,
       "num": 389949,
       "word": "ILLIT直播被骂是注水咖",
@@ -267,12 +307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 595801,
+      "num": 595801,
+      "word": "深圳卫健委 霸总剧里当医生",
+      "onboard_time": 1713761899,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 592697,
       "num": 592697,
       "word": "黄景瑜王一博一个嘴慢一个手快",
       "onboard_time": 1713762798,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 586972,
+      "num": 586972,
+      "word": "三天不进餐 大后天吃9顿饭",
+      "onboard_time": 1713765138,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 578107,
@@ -289,14 +345,6 @@
       "onboard_time": 1713749057,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 572172,
-      "num": 572172,
-      "word": "深圳卫健委 霸总剧里当医生",
-      "onboard_time": 1713761899,
-      "rank": 15,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 565724,
@@ -337,6 +385,14 @@
       "onboard_time": 1713749119,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 524587,
+      "num": 524587,
+      "word": "秦海璐在买防窥膜了",
+      "onboard_time": 1713766100,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 515351,
@@ -467,14 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 392540,
-      "num": 392540,
-      "word": "日本年轻人开始流行友情婚",
-      "onboard_time": 1713762620,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 391106,
       "num": 391106,
       "word": "五十公里桃花坞",
@@ -547,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 340180,
+      "num": 340180,
+      "word": "CherryBullet解散",
+      "onboard_time": 1713765138,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334543,
       "num": 334543,
       "word": "医学博士学医11年熬成脱口秀冠军",
@@ -609,14 +665,6 @@
       "onboard_time": 1713756197,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 292384,
-      "num": 292384,
-      "word": "战王殿下 王妃替您出征了",
-      "onboard_time": 1713763219,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 288874,
@@ -851,12 +899,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210483,
+      "num": 203641,
+      "word": "马嘉祺邀请张杰体验海岛生活",
+      "onboard_time": 1713765019,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210307,
       "num": 210307,
       "word": "洞洞板平替",
       "onboard_time": 1713751037,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209564,
+      "num": 209564,
+      "word": "seventeen特典",
+      "onboard_time": 1713766639,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 208244,
@@ -1059,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181055,
+      "num": 181055,
+      "word": "陈丽君唱流行唱到怀疑自己",
+      "onboard_time": 1713766217,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180617,
       "num": 180617,
       "word": "惜花芷",
@@ -1259,6 +1331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 153542,
+      "num": 153542,
+      "word": "HYBE全面监察ADOR",
+      "onboard_time": 1713764838,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151579,
       "num": 151579,
       "word": "快船1比0独行侠",
@@ -1307,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146377,
+      "num": 146377,
+      "word": "kpop替身",
+      "onboard_time": 1713763878,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146273,
       "num": 146273,
       "word": "哈尔滨一九四四收视率",
@@ -1339,14 +1427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140862,
-      "num": 140862,
-      "word": "kpop替身",
-      "onboard_time": 1713763878,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 140093,
       "num": 140093,
       "word": "SimonD离开AOMG",
@@ -1363,12 +1443,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 138099,
+      "num": 138099,
+      "word": "ILLIT再更换粉丝名",
+      "onboard_time": 1713764178,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137862,
+      "num": 137862,
+      "word": "范丞丞谢帝 携手掘金",
+      "onboard_time": 1713766519,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137834,
       "num": 137834,
       "word": "你俩是在拍半熟恋人吧",
       "onboard_time": 1713715457,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133924,
+      "num": 133924,
+      "word": "金秀贤演技炸裂",
+      "onboard_time": 1713765557,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 133338,
@@ -1417,6 +1521,22 @@
       "onboard_time": 1713739334,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127357,
+      "num": 127357,
+      "word": "专家称休假改革难在众口难调",
+      "onboard_time": 1713766999,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123506,
+      "num": 123506,
+      "word": "女生进大厂收破烂年收百万台旧家电",
+      "onboard_time": 1713764119,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122461,
@@ -1596,7 +1716,7 @@
     },
     {
       "raw_hot": 55590,
-      "num": 1065342,
+      "num": 1193331,
       "word": "潮起互联网奔涌三十年",
       "onboard_time": 1713755478,
       "rank": 2,
@@ -1625,6 +1745,14 @@
       "onboard_time": 1713703458,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21821,
+      "num": 313829,
+      "word": "九号造车与造片都是科技局",
+      "onboard_time": 1713765919,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21513,
