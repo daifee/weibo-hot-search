@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713749807536,
+  "endTime": 1713752889994,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -4411,6 +4411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1008615,
+      "num": 1008615,
+      "word": "理想降价",
+      "onboard_time": 1713748939,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1007204,
       "num": 1007204,
       "word": "突然的恋情可能是间谍的圈套",
@@ -4460,7 +4468,7 @@
     },
     {
       "raw_hot": 1001509,
-      "num": 438852,
+      "num": 458424,
       "word": "女律师否认副业做擦边直播",
       "onboard_time": 1713745337,
       "rank": 11,
@@ -7755,6 +7763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 728699,
+      "num": 728699,
+      "word": "刘忻是JYP第一位中国女艺人",
+      "onboard_time": 1713749957,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 728684,
       "num": 728684,
       "word": "BoA 可以隐退了吧",
@@ -8257,6 +8273,14 @@
       "onboard_time": 1712710099,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 698999,
+      "num": 698999,
+      "word": "97年的人都当综艺总导演了",
+      "onboard_time": 1713750677,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 698483,
@@ -9121,6 +9145,14 @@
       "onboard_time": 1712016680,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 658886,
+      "num": 658886,
+      "word": "93岁南京大屠杀幸存者刘素珍去世",
+      "onboard_time": 1713750198,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 657616,
@@ -11163,6 +11195,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 573768,
+      "num": 573768,
+      "word": "华妃怎么不吃纯元的醋",
+      "onboard_time": 1713749057,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 573316,
       "num": 573316,
       "word": "婚恋网盗用张颂文照片",
@@ -12283,6 +12323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 534433,
+      "num": 534433,
+      "word": "薛之谦一巡黄牛票五元",
+      "onboard_time": 1713749119,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 534298,
       "num": 534298,
       "word": "王俊凯直播",
@@ -12841,14 +12889,6 @@
       "onboard_time": 1713147198,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 519325,
-      "num": 519325,
-      "word": "理想降价",
-      "onboard_time": 1713748939,
-      "rank": 4,
-      "category": "汽车"
     },
     {
       "raw_hot": 519154,
@@ -15180,7 +15220,7 @@
     },
     {
       "raw_hot": 457320,
-      "num": 457320,
+      "num": 461855,
       "word": "今年第二个龙年龙月龙日龙时",
       "onboard_time": 1713743657,
       "rank": 9,
@@ -15769,6 +15809,14 @@
       "onboard_time": 1712144119,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 444811,
+      "num": 444811,
+      "word": "朋友圈背景图",
+      "onboard_time": 1713750558,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 444534,
@@ -16795,6 +16843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 422104,
+      "num": 422104,
+      "word": "周杰伦首次录制说唱节目",
+      "onboard_time": 1713751159,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 421427,
       "num": 421427,
       "word": "张杰发了十年前的自己",
@@ -17545,6 +17601,14 @@
       "onboard_time": 1713100278,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 402892,
+      "num": 402892,
+      "word": "广西一小区楼上坠落树根致高中生被砸身亡",
+      "onboard_time": 1713751818,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 402572,
@@ -25979,14 +26043,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 264344,
-      "num": 264344,
-      "word": "华妃怎么不吃纯元的醋",
-      "onboard_time": 1713749057,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 264287,
       "num": 264287,
       "word": "明日方舟",
@@ -26777,14 +26833,6 @@
       "onboard_time": 1713245239,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 256885,
-      "num": 256885,
-      "word": "薛之谦一巡黄牛票五元",
-      "onboard_time": 1713749119,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 256823,
@@ -32675,6 +32723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210307,
+      "num": 210307,
+      "word": "洞洞板平替",
+      "onboard_time": 1713751037,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210296,
       "num": 210296,
       "word": "真的建议脾胃不好早餐要好好吃",
@@ -36491,6 +36547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194864,
+      "num": 194864,
+      "word": "理想官方全系降价老车主退现金",
+      "onboard_time": 1713751878,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 194842,
       "num": 194842,
       "word": "勇士王朝落幕",
@@ -40187,6 +40251,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 181256,
+      "num": 181256,
+      "word": "马龙手好忙",
+      "onboard_time": 1713750077,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181161,
       "num": 181161,
       "word": "秦皇岛侧翻船只船主被控制",
@@ -40611,6 +40683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178808,
+      "num": 178808,
+      "word": "上海地铁",
+      "onboard_time": 1713750677,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178758,
       "num": 178758,
       "word": "林更新从东北夹到台北",
@@ -40681,6 +40761,14 @@
       "onboard_time": 1713416782,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 178588,
+      "num": 178588,
+      "word": "理想全线产品降价",
+      "onboard_time": 1713750317,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 178584,
@@ -42555,6 +42643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169889,
+      "num": 169889,
+      "word": "理想汽车盘初低开5.83%",
+      "onboard_time": 1713751697,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 169883,
       "num": 169883,
       "word": "秦朗丢寒假作业原视频仍未删除",
@@ -42817,6 +42913,14 @@
       "onboard_time": 1711942220,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 168539,
+      "num": 168539,
+      "word": "念无双预告",
+      "onboard_time": 1713752718,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 168446,
@@ -43329,6 +43433,14 @@
       "onboard_time": 1712057359,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165997,
+      "num": 165997,
+      "word": "小熊花园定档",
+      "onboard_time": 1713752778,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 165979,
@@ -44995,6 +45107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 158400,
+      "num": 158400,
+      "word": "钟薛高创始人林盛回应被限高",
+      "onboard_time": 1713751578,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 158380,
       "num": 158380,
       "word": "95后小伙向养老院捐骨灰盒被轰走",
@@ -45009,6 +45129,14 @@
       "onboard_time": 1712049980,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158303,
+      "num": 158303,
+      "word": "美国军方代表团抵达青岛",
+      "onboard_time": 1713752598,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 158286,
@@ -45729,6 +45857,14 @@
       "onboard_time": 1712187196,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155525,
+      "num": 155525,
+      "word": "杨幂眼神",
+      "onboard_time": 1713747378,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 155511,
@@ -47201,14 +47337,6 @@
       "onboard_time": 1712393898,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150151,
-      "num": 150151,
-      "word": "杨幂眼神",
-      "onboard_time": 1713747378,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 150134,
@@ -52235,6 +52363,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 128963,
+      "num": 128963,
+      "word": "我是O",
+      "onboard_time": 1713752838,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128850,
       "num": 128850,
       "word": "电影维和防暴队开启预售",
@@ -54145,6 +54281,14 @@
       "onboard_time": 1712398638,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118581,
+      "num": 118581,
+      "word": "AI科幻大片珍AI地球",
+      "onboard_time": 1713751457,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 118570,
