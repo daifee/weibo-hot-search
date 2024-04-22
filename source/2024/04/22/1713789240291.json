@@ -1,0 +1,410 @@
+{
+  "runTime": 1713789240291,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1157268,
+        "num": 1157268,
+        "word": "台湾1小时内发生10起地震",
+        "onboard_time": 1713785656,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1090108,
+        "num": 1090108,
+        "word": "iPhone16或取消实体音量键电源键",
+        "onboard_time": 1713785117,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 3439,
+        "num": 983213,
+        "word": "潮起互联网奔涌三十年",
+        "onboard_time": 1713755478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 967595,
+        "num": 967595,
+        "word": "鱼 愿天堂没有给",
+        "onboard_time": 1713786917,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 786213,
+        "num": 786213,
+        "word": "难哄 大事很妙",
+        "onboard_time": 1713786138,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 693851,
+        "num": 693851,
+        "word": "东北雨姐做手术",
+        "onboard_time": 1713786437,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 658398,
+        "num": 658398,
+        "word": "金世佳和王传君打过视频后哭了",
+        "onboard_time": 1713782537,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 519097,
+        "num": 519097,
+        "word": "硬糖少女303",
+        "onboard_time": 1713787521,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303547,
+        "num": 513157,
+        "word": "不孕女子喜获3胞胎同卵异卵同出现",
+        "onboard_time": 1713779418,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169760,
+        "num": 511756,
+        "word": "河北一粮库2年近万吨玉米不翼而飞",
+        "onboard_time": 1713779057,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47652,
+        "num": 503196,
+        "word": "极氪玩转猎装派对",
+        "onboard_time": 1713785959,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2693897,
+        "num": 498466,
+        "word": "郑乃馨承认恋情",
+        "onboard_time": 1713786198,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 788574,
+        "num": 490285,
+        "word": "余罪再次下架",
+        "onboard_time": 1713782478,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486118,
+        "num": 486118,
+        "word": "猴子都不吃的轻食我吃了",
+        "onboard_time": 1713783978,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292088,
+        "num": 292088,
+        "word": "日本年轻人开始流行友情婚",
+        "onboard_time": 1713762620,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278507,
+        "num": 288337,
+        "word": "孩子是被家长推向网络的",
+        "onboard_time": 1713786437,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 287346,
+        "num": 287346,
+        "word": "黄晓明发了姚志明",
+        "onboard_time": 1713784758,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271290,
+        "num": 271290,
+        "word": "12306回应公众号发疯留言能求到票",
+        "onboard_time": 1713778457,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264329,
+        "num": 264329,
+        "word": "Mari 退赛",
+        "onboard_time": 1713781878,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259984,
+        "num": 259984,
+        "word": "闵熙珍称ILLIT抄袭",
+        "onboard_time": 1713782058,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569247,
+        "num": 259143,
+        "word": "女子常熬夜胸痛难忍才就医确诊肺癌晚期",
+        "onboard_time": 1713782898,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 442394,
+        "num": 257374,
+        "word": "爱情公寓秦羽墨开美甲店",
+        "onboard_time": 1713787639,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246908,
+        "num": 246908,
+        "word": "林俊杰苏州 抢票",
+        "onboard_time": 1713788120,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 244993,
+        "num": 244993,
+        "word": "鹿晗直播王勉钓鱼",
+        "onboard_time": 1713788899,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231623,
+        "num": 231623,
+        "word": "只有大学生才知道这有多爽",
+        "onboard_time": 1713787818,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205422,
+        "num": 205422,
+        "word": "NewJeans曾说自己是ADOR不是HYBE",
+        "onboard_time": 1713783138,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202179,
+        "num": 202179,
+        "word": "凤凰传奇 拿起荧光棒就是兵",
+        "onboard_time": 1713783318,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176354,
+        "num": 176354,
+        "word": "广东强降雨已致4死10失联",
+        "onboard_time": 1713781098,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72321,
+        "num": 175273,
+        "word": "篮球赛最后3.5秒男生投3分绝杀",
+        "onboard_time": 1713788719,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 98593,
+        "num": 175105,
+        "word": "老师以考试奖励名义送学生新鞋",
+        "onboard_time": 1713773419,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174963,
+        "num": 174963,
+        "word": "尔滨三害一个狠一个疯一个癫",
+        "onboard_time": 1713787219,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172275,
+        "num": 172275,
+        "word": "樊振东四冠王的松弛感",
+        "onboard_time": 1713786558,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171880,
+        "num": 171880,
+        "word": "赵丽颖拍猪吃零食",
+        "onboard_time": 1713786679,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169173,
+        "num": 169173,
+        "word": "辛芷蕾妈妈脱粉秦岚转粉迪丽热巴",
+        "onboard_time": 1713768137,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166436,
+        "num": 166436,
+        "word": "罗伯特说杨幂一出马就是女王范儿",
+        "onboard_time": 1713788838,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165509,
+        "num": 165509,
+        "word": "失业后才懂得拒绝进厨房是一种权力",
+        "onboard_time": 1713778098,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149001,
+        "num": 149001,
+        "word": "韩勇被开除党籍",
+        "onboard_time": 1713778278,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143756,
+        "num": 143756,
+        "word": "为什么心脏会突感咯噔一下",
+        "onboard_time": 1713784518,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140616,
+        "num": 140616,
+        "word": "丁太升点评浪姐",
+        "onboard_time": 1713788058,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140402,
+        "num": 140402,
+        "word": "伪装者",
+        "onboard_time": 1713781998,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136478,
+        "num": 136478,
+        "word": "胡先煦 倘若我问心有愧呢",
+        "onboard_time": 1713779780,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134154,
+        "num": 134154,
+        "word": "aespa预告造型",
+        "onboard_time": 1713783618,
+        "rank": 41,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 131818,
+        "num": 131818,
+        "word": "电影破墓",
+        "onboard_time": 1713785298,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131547,
+        "num": 131547,
+        "word": "承欢记 麦承欢开除廖刚",
+        "onboard_time": 1713786738,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131486,
+        "num": 131486,
+        "word": "向佐郭碧婷综艺人缘",
+        "onboard_time": 1713789079,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122457,
+        "num": 122457,
+        "word": "吃面比吃米更容易胖是真的吗",
+        "onboard_time": 1713784277,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117842,
+        "num": 117842,
+        "word": "姚明问谷爱凌参不参加夏奥会",
+        "onboard_time": 1713788838,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114487,
+        "num": 114487,
+        "word": "罗森前店长妻子在罗森买到过期食品",
+        "onboard_time": 1713775038,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108590,
+        "num": 108590,
+        "word": "消失的她原型5年后重返事发地",
+        "onboard_time": 1713764778,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106441,
+        "num": 106441,
+        "word": "斗鱼CEO陈少杰已取保候审",
+        "onboard_time": 1713789138,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}

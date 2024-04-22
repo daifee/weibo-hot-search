@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713785723775,
+  "endTime": 1713789240291,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -41,6 +41,14 @@
       "onboard_time": 1713690258,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2693897,
+      "num": 498466,
+      "word": "郑乃馨承认恋情",
+      "onboard_time": 1713786198,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2376669,
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1157268,
+      "num": 1157268,
+      "word": "台湾1小时内发生10起地震",
+      "onboard_time": 1713785656,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1144662,
       "num": 1144662,
       "word": "金莎被所有人拒绝",
@@ -313,6 +329,14 @@
       "onboard_time": 1713775038,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1090108,
+      "num": 1090108,
+      "word": "iPhone16或取消实体音量键电源键",
+      "onboard_time": 1713785117,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 1078548,
@@ -409,6 +433,14 @@
       "onboard_time": 1713629118,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 967595,
+      "num": 967595,
+      "word": "鱼 愿天堂没有给",
+      "onboard_time": 1713786917,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 943972,
@@ -579,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 786213,
+      "num": 786213,
+      "word": "难哄 大事很妙",
+      "onboard_time": 1713786138,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 770818,
       "num": 770818,
       "word": "两人维保电梯一人竟是纸片人",
@@ -689,6 +729,14 @@
       "onboard_time": 1713757999,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 693851,
+      "num": 693851,
+      "word": "东北雨姐做手术",
+      "onboard_time": 1713786437,
+      "rank": 5,
+      "category": "网红"
     },
     {
       "raw_hot": 691895,
@@ -1019,6 +1067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 569247,
+      "num": 297342,
+      "word": "女子常熬夜胸痛难忍才就医确诊肺癌晚期",
+      "onboard_time": 1713782898,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 567491,
       "num": 567491,
       "word": "赵昭仪 恋爱脑的爸妈破碎的她",
@@ -1155,6 +1211,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 519097,
+      "num": 519097,
+      "word": "硬糖少女303",
+      "onboard_time": 1713787521,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 518123,
       "num": 231370,
       "word": "我删掉了高中大学的所有同学",
@@ -1275,12 +1339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 484882,
-      "num": 297342,
-      "word": "女子常熬夜胸痛难忍才就医确诊肺癌晚期",
-      "onboard_time": 1713782898,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 486118,
+      "num": 486118,
+      "word": "猴子都不吃的轻食我吃了",
+      "onboard_time": 1713783978,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 484738,
@@ -1467,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 442394,
+      "num": 257374,
+      "word": "爱情公寓秦羽墨开美甲店",
+      "onboard_time": 1713787639,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 440722,
       "num": 440722,
       "word": "哈尔滨一九四四收视率",
@@ -1489,14 +1561,6 @@
       "onboard_time": 1713666016,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 436046,
-      "num": 436046,
-      "word": "猴子都不吃的轻食我吃了",
-      "onboard_time": 1713783978,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 435237,
@@ -2187,6 +2251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 278507,
+      "num": 288337,
+      "word": "孩子是被家长推向网络的",
+      "onboard_time": 1713786437,
+      "rank": 15,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 277140,
       "num": 277140,
       "word": "男子举报许美静演唱会涉嫌欺诈观众",
@@ -2249,14 +2321,6 @@
       "onboard_time": 1713760700,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 268202,
-      "num": 268202,
-      "word": "台湾1小时内发生10起地震",
-      "onboard_time": 1713785656,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267751,
@@ -2499,6 +2563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 246908,
+      "num": 246908,
+      "word": "林俊杰苏州 抢票",
+      "onboard_time": 1713788120,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 246302,
       "num": 246302,
       "word": "TF三代出道人数",
@@ -2531,6 +2603,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 244993,
+      "num": 244993,
+      "word": "鹿晗直播王勉钓鱼",
+      "onboard_time": 1713788899,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244918,
       "num": 244918,
       "word": "剧烈运动后千万不要立刻蹲下",
@@ -2545,14 +2625,6 @@
       "onboard_time": 1713689178,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 242924,
-      "num": 242924,
-      "word": "iPhone16或取消实体音量键电源键",
-      "onboard_time": 1713785117,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 242161,
@@ -2651,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231623,
+      "num": 231623,
+      "word": "只有大学生才知道这有多爽",
+      "onboard_time": 1713787818,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 231352,
       "num": 231352,
       "word": "杨幂回应关雪好凶",
@@ -2684,7 +2764,7 @@
     },
     {
       "raw_hot": 230573,
-      "num": 230573,
+      "num": 511756,
       "word": "河北一粮库2年近万吨玉米不翼而飞",
       "onboard_time": 1713779057,
       "rank": 27,
@@ -3827,6 +3907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174963,
+      "num": 174963,
+      "word": "尔滨三害一个狠一个疯一个癫",
+      "onboard_time": 1713787219,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174777,
       "num": 174777,
       "word": "月经失调会影响怀孕吗",
@@ -3851,12 +3939,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172275,
+      "num": 172275,
+      "word": "樊振东四冠王的松弛感",
+      "onboard_time": 1713786558,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172063,
       "num": 172063,
       "word": "秦昊杨幂新剧首更6集",
       "onboard_time": 1713679578,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171880,
+      "num": 171880,
+      "word": "赵丽颖拍猪吃零食",
+      "onboard_time": 1713786679,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 171781,
@@ -4001,6 +4105,14 @@
       "onboard_time": 1713743476,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166436,
+      "num": 166436,
+      "word": "罗伯特说杨幂一出马就是女王范儿",
+      "onboard_time": 1713788838,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 165979,
@@ -4659,6 +4771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140616,
+      "num": 140616,
+      "word": "丁太升点评浪姐",
+      "onboard_time": 1713788058,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140420,
       "num": 140420,
       "word": "多吃这类食物真能延缓衰老",
@@ -4923,12 +5043,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131818,
+      "num": 131818,
+      "word": "电影破墓",
+      "onboard_time": 1713785298,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131650,
       "num": 131650,
       "word": "广东暴雨积水没脖行人推车前行",
       "onboard_time": 1713675981,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131547,
+      "num": 131547,
+      "word": "承欢记 麦承欢开除廖刚",
+      "onboard_time": 1713786738,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131486,
+      "num": 131486,
+      "word": "向佐郭碧婷综艺人缘",
+      "onboard_time": 1713789079,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 131158,
@@ -5115,14 +5259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121251,
-      "num": 121251,
-      "word": "电影破墓",
-      "onboard_time": 1713785298,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 120649,
       "num": 1216461,
       "word": "世界首套高清月球地质写真集",
@@ -5169,6 +5305,14 @@
       "onboard_time": 1713751457,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 117842,
+      "num": 117842,
+      "word": "姚明问谷爱凌参不参加夏奥会",
+      "onboard_time": 1713788838,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 117169,
@@ -5345,6 +5489,14 @@
       "onboard_time": 1713698119,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106441,
+      "num": 106441,
+      "word": "斗鱼CEO陈少杰已取保候审",
+      "onboard_time": 1713789138,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 105808,
@@ -5563,6 +5715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72321,
+      "num": 175273,
+      "word": "篮球赛最后3.5秒男生投3分绝杀",
+      "onboard_time": 1713788719,
+      "rank": 28,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 71772,
       "num": 501249,
       "word": "蛋仔派对猫和老鼠联动",
@@ -5712,6 +5872,14 @@
       "word": "曼城1比0切尔西",
       "onboard_time": 1713655994,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47652,
+      "num": 503196,
+      "word": "极氪玩转猎装派对",
+      "onboard_time": 1713785959,
+      "rank": 10,
       "category": "体育"
     },
     {
