@@ -1,6 +1,6 @@
 {
   "startTime": 1713716506059,
-  "endTime": 1713760451713,
+  "endTime": 1713763075188,
   "band_list": [
     {
       "raw_hot": 2376669,
@@ -43,12 +43,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1356259,
+      "num": 1356259,
+      "word": "她心疼你 你却觉得她好使唤",
+      "onboard_time": 1713759200,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1328994,
       "num": 1328994,
       "word": "我是O型血",
       "onboard_time": 1713752838,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1184063,
+      "num": 1184063,
+      "word": "荷兰男子新冠阳性613天去世",
+      "onboard_time": 1713758659,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1129442,
@@ -120,14 +136,6 @@
       "word": "美国老人感染僵尸鹿病毒死亡",
       "onboard_time": 1713705440,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 918731,
-      "num": 918731,
-      "word": "荷兰男子新冠阳性613天去世",
-      "onboard_time": 1713758659,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 581683,
+      "num": 581683,
+      "word": "大学生考研不再非985211不读",
+      "onboard_time": 1713760219,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 578107,
       "num": 661150,
       "word": "有薄膜的一次性咖啡杯30年才能降解",
@@ -355,6 +371,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 468567,
+      "num": 468567,
+      "word": "脱口秀回来了",
+      "onboard_time": 1713760400,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 457320,
       "num": 537885,
       "word": "今年第二个龙年龙月龙日龙时",
@@ -379,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450970,
+      "num": 225291,
+      "word": "马龙孙颖莎冠军合照",
+      "onboard_time": 1713762440,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 422104,
       "num": 422104,
       "word": "周杰伦首次录制说唱节目",
       "onboard_time": 1713751159,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411302,
+      "num": 411302,
+      "word": "赵丽颖重庆逛吃vlog",
+      "onboard_time": 1713759859,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 398804,
@@ -403,6 +443,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 391106,
+      "num": 391106,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1713760820,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 389430,
+      "num": 389430,
+      "word": "深圳卫健委 霸总剧里当医生",
+      "onboard_time": 1713761899,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 383055,
       "num": 383055,
       "word": "杨幂演技",
@@ -417,6 +473,14 @@
       "onboard_time": 1713753438,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382859,
+      "num": 382859,
+      "word": "黄景瑜王一博一个嘴慢一个手快",
+      "onboard_time": 1713762798,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 380300,
@@ -443,20 +507,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 356168,
+      "num": 356168,
+      "word": "秦海璐王安宇光明正大的唱因为爱情",
+      "onboard_time": 1713759499,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354606,
       "num": 354606,
       "word": "金莎已见过男友家长",
       "onboard_time": 1713754578,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 348352,
-      "num": 348352,
-      "word": "她心疼你 你却觉得她好使唤",
-      "onboard_time": 1713759200,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 334543,
@@ -473,14 +537,6 @@
       "onboard_time": 1713707060,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 320030,
-      "num": 320030,
-      "word": "秦海璐王安宇光明正大的唱因为爱情",
-      "onboard_time": 1713759499,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 311446,
@@ -507,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305660,
+      "num": 305660,
+      "word": "秦海璐买个防窥膜吧",
+      "onboard_time": 1713762620,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304150,
       "num": 304150,
       "word": "马龙第三次夺得世界杯单打冠军",
@@ -521,14 +585,6 @@
       "onboard_time": 1713705020,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 302152,
-      "num": 302152,
-      "word": "赵丽颖重庆逛吃vlog",
-      "onboard_time": 1713759859,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 292731,
@@ -579,12 +635,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273953,
+      "num": 273953,
+      "word": "李艾的腿给了我亿点点震撼",
+      "onboard_time": 1713761239,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273494,
       "num": 273494,
       "word": "圆满不圆满",
       "onboard_time": 1713711260,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 269761,
+      "num": 269761,
+      "word": "李现微博头像是两部剧角色",
+      "onboard_time": 1713760700,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 262090,
@@ -617,6 +689,14 @@
       "onboard_time": 1713756978,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254246,
+      "num": 254246,
+      "word": "24岁我终于决定裸辞了",
+      "onboard_time": 1713762020,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 253932,
@@ -697,6 +777,14 @@
       "onboard_time": 1713742816,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 222773,
+      "num": 222773,
+      "word": "95后小伙每天暴走3万步排查招聘套路",
+      "onboard_time": 1713760940,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218092,
@@ -803,12 +891,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196166,
-      "num": 196166,
-      "word": "大学生考研不再非985211不读",
-      "onboard_time": 1713760219,
-      "rank": 40,
-      "category": "教育"
+      "raw_hot": 201446,
+      "num": 201446,
+      "word": "陈哲远倒三角",
+      "onboard_time": 1713761360,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198028,
+      "num": 198028,
+      "word": "专家谈休假制度什么时候才能改",
+      "onboard_time": 1713757579,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196401,
+      "num": 196401,
+      "word": "日本年轻人开始流行友情婚",
+      "onboard_time": 1713762620,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195377,
@@ -825,6 +929,14 @@
       "onboard_time": 1713751878,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 194227,
+      "num": 194227,
+      "word": "唐嫣刘学义吻戏镜头",
+      "onboard_time": 1713761599,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 194133,
@@ -857,6 +969,14 @@
       "onboard_time": 1713715278,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187073,
+      "num": 187073,
+      "word": "尚雯婕认识前是哑巴认识后是喇叭",
+      "onboard_time": 1713762321,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 185732,
@@ -905,6 +1025,14 @@
       "onboard_time": 1713750077,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180617,
+      "num": 180617,
+      "word": "惜花芷",
+      "onboard_time": 1713760760,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 180442,
@@ -1003,14 +1131,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 168859,
-      "num": 168859,
-      "word": "脱口秀回来了",
-      "onboard_time": 1713760400,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167301,
       "num": 167301,
       "word": "seventeen克拉盘",
@@ -1073,6 +1193,14 @@
       "onboard_time": 1713753798,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155675,
+      "num": 155675,
+      "word": "50多万买新车开2公里成瑕疵车",
+      "onboard_time": 1713762321,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 155525,

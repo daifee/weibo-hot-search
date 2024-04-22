@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713760451713,
+  "endTime": 1713763075188,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1356259,
+      "num": 1356259,
+      "word": "她心疼你 你却觉得她好使唤",
+      "onboard_time": 1713759200,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1336366,
       "num": 1336366,
       "word": "孙颖莎状态",
@@ -208,6 +216,14 @@
       "word": "中国近一半大城市正在下沉",
       "onboard_time": 1713673939,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1184063,
+      "num": 1184063,
+      "word": "荷兰男子新冠阳性613天去世",
+      "onboard_time": 1713758659,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -321,14 +337,6 @@
       "onboard_time": 1713629118,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 918731,
-      "num": 918731,
-      "word": "荷兰男子新冠阳性613天去世",
-      "onboard_time": 1713758659,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 911966,
@@ -715,6 +723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 581683,
+      "num": 581683,
+      "word": "大学生考研不再非985211不读",
+      "onboard_time": 1713760219,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 578107,
       "num": 661150,
       "word": "有薄膜的一次性咖啡杯30年才能降解",
@@ -1067,6 +1083,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 468567,
+      "num": 468567,
+      "word": "脱口秀回来了",
+      "onboard_time": 1713760400,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 465648,
       "num": 465648,
       "word": "文旅局回应许美静演唱会观众喊退票",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1713758537,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450970,
+      "num": 225291,
+      "word": "马龙孙颖莎冠军合照",
+      "onboard_time": 1713762440,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 450680,
@@ -1243,6 +1275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 411302,
+      "num": 411302,
+      "word": "赵丽颖重庆逛吃vlog",
+      "onboard_time": 1713759859,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 406380,
       "num": 406380,
       "word": "aespa正规一辑预告",
@@ -1315,6 +1355,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 391106,
+      "num": 391106,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1713760820,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 389430,
+      "num": 389430,
+      "word": "深圳卫健委 霸总剧里当医生",
+      "onboard_time": 1713761899,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 387543,
       "num": 387543,
       "word": "林高远反手",
@@ -1345,6 +1401,14 @@
       "onboard_time": 1713753438,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382859,
+      "num": 382859,
+      "word": "黄景瑜王一博一个嘴慢一个手快",
+      "onboard_time": 1713762798,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 381023,
@@ -1419,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 356168,
+      "num": 356168,
+      "word": "秦海璐王安宇光明正大的唱因为爱情",
+      "onboard_time": 1713759499,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354606,
       "num": 354606,
       "word": "金莎已见过男友家长",
@@ -1449,14 +1521,6 @@
       "onboard_time": 1713709701,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 348352,
-      "num": 348352,
-      "word": "她心疼你 你却觉得她好使唤",
-      "onboard_time": 1713759200,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 347276,
@@ -1571,14 +1635,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 320030,
-      "num": 320030,
-      "word": "秦海璐王安宇光明正大的唱因为爱情",
-      "onboard_time": 1713759499,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 319470,
       "num": 319470,
       "word": "蔡文静网文",
@@ -1619,12 +1675,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 302152,
-      "num": 302152,
-      "word": "赵丽颖重庆逛吃vlog",
-      "onboard_time": 1713759859,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 305660,
+      "num": 305660,
+      "word": "秦海璐买个防窥膜吧",
+      "onboard_time": 1713762620,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 298792,
@@ -1739,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273953,
+      "num": 273953,
+      "word": "李艾的腿给了我亿点点震撼",
+      "onboard_time": 1713761239,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271832,
       "num": 271832,
       "word": "哪吒张勇致歉",
@@ -1753,6 +1817,14 @@
       "onboard_time": 1713690378,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 269761,
+      "num": 269761,
+      "word": "李现微博头像是两部剧角色",
+      "onboard_time": 1713760700,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 267751,
@@ -1857,6 +1929,14 @@
       "onboard_time": 1713708622,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 254246,
+      "num": 254246,
+      "word": "24岁我终于决定裸辞了",
+      "onboard_time": 1713762020,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 253580,
@@ -2147,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222773,
+      "num": 222773,
+      "word": "95后小伙每天暴走3万步排查招聘套路",
+      "onboard_time": 1713760940,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221236,
       "num": 221236,
       "word": "周杰伦演唱会抢话筒",
@@ -2427,6 +2515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201446,
+      "num": 201446,
+      "word": "陈哲远倒三角",
+      "onboard_time": 1713761360,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200685,
       "num": 200685,
       "word": "周鸿祎否认针对李彦宏",
@@ -2491,6 +2587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198028,
+      "num": 198028,
+      "word": "专家谈休假制度什么时候才能改",
+      "onboard_time": 1713757579,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197848,
       "num": 197848,
       "word": "大英赛",
@@ -2539,12 +2643,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 196166,
-      "num": 196166,
-      "word": "大学生考研不再非985211不读",
-      "onboard_time": 1713760219,
-      "rank": 40,
-      "category": "教育"
+      "raw_hot": 196401,
+      "num": 196401,
+      "word": "日本年轻人开始流行友情婚",
+      "onboard_time": 1713762620,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195882,
@@ -2577,6 +2681,14 @@
       "onboard_time": 1713751878,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 194227,
+      "num": 194227,
+      "word": "唐嫣刘学义吻戏镜头",
+      "onboard_time": 1713761599,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 194133,
@@ -2731,6 +2843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187073,
+      "num": 187073,
+      "word": "尚雯婕认识前是哑巴认识后是喇叭",
+      "onboard_time": 1713762321,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187051,
       "num": 187051,
       "word": "魏大勋香芋紫套装",
@@ -2865,6 +2985,14 @@
       "onboard_time": 1713702978,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 180617,
+      "num": 180617,
+      "word": "惜花芷",
+      "onboard_time": 1713760760,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 180442,
@@ -3057,14 +3185,6 @@
       "onboard_time": 1713682999,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 168859,
-      "num": 168859,
-      "word": "脱口秀回来了",
-      "onboard_time": 1713760400,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 168748,
@@ -3297,6 +3417,14 @@
       "onboard_time": 1713662718,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 155675,
+      "num": 155675,
+      "word": "50多万买新车开2公里成瑕疵车",
+      "onboard_time": 1713762321,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 155525,
