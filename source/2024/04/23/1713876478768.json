@@ -1,0 +1,410 @@
+{
+  "runTime": 1713876478768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1160188,
+        "num": 1160188,
+        "word": "周深演唱会抢票",
+        "onboard_time": 1713874278,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1352676,
+        "num": 1128049,
+        "word": "轻断食吃了11根玉米",
+        "onboard_time": 1713867139,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 7186,
+        "num": 1053318,
+        "word": "9图了解无障碍阅读",
+        "onboard_time": 1713876437,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 991508,
+        "num": 991508,
+        "word": "五一不调休就会是这种结果",
+        "onboard_time": 1713875178,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 959081,
+        "num": 959081,
+        "word": "暴雪捐赠三千万蛆虫拯救鸟类",
+        "onboard_time": 1713869539,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 958169,
+        "num": 958169,
+        "word": "别麦了 老铁",
+        "onboard_time": 1713872058,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 765724,
+        "num": 765724,
+        "word": "网红艺考生李闽轩或被取消高考资格",
+        "onboard_time": 1713871997,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 197558,
+        "num": 564881,
+        "word": "镇干部阻挠农民种地让交钱被免职",
+        "onboard_time": 1713869778,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534323,
+        "num": 534323,
+        "word": "陈震直播回应小米SU7争议",
+        "onboard_time": 1713871397,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 85364,
+        "num": 532592,
+        "word": "民警为群众找回两万元钱开怀大笑",
+        "onboard_time": 1713865818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2772,
+        "num": 531284,
+        "word": "V观京津冀新质铸辉煌",
+        "onboard_time": 1713846981,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922729,
+        "num": 526699,
+        "word": "多方回应15岁女生遭校园霸凌被迫割喉求生",
+        "onboard_time": 1713872299,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162221,
+        "num": 524401,
+        "word": "开展整治自媒体无底线博流量行动",
+        "onboard_time": 1713874158,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522752,
+        "num": 522752,
+        "word": "蔡磊病情加重舌头下嘴唇已萎缩",
+        "onboard_time": 1713874158,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94248,
+        "num": 515133,
+        "word": "你永远可以相信读书的力量",
+        "onboard_time": 1713873618,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80330,
+        "num": 510679,
+        "word": "极星加入车手生态圈",
+        "onboard_time": 1713874339,
+        "rank": 15,
+        "category": "数码,汽车"
+      },
+      {
+        "raw_hot": 508737,
+        "num": 508737,
+        "word": "辛芷蕾 抱歉杨洋我听错了",
+        "onboard_time": 1713859459,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 453627,
+        "num": 453627,
+        "word": "林俊杰哈尔滨",
+        "onboard_time": 1713874758,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 386735,
+        "num": 386735,
+        "word": "papi酱 莎士比亚四大喜剧",
+        "onboard_time": 1713873199,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 325101,
+        "num": 325101,
+        "word": "抓大鹅",
+        "onboard_time": 1713874998,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 676724,
+        "num": 322785,
+        "word": "张翰沧桑了",
+        "onboard_time": 1713866059,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 602227,
+        "num": 318696,
+        "word": "恋综史上最激烈的深吻",
+        "onboard_time": 1713864318,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416900,
+        "num": 312879,
+        "word": "青环5总导演欢迎杨洋回家",
+        "onboard_time": 1713872898,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513874,
+        "num": 305886,
+        "word": "刘宇要上恋综了",
+        "onboard_time": 1713868938,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343719,
+        "num": 302764,
+        "word": "考上二本院校是不够努力吗",
+        "onboard_time": 1713863118,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 297773,
+        "num": 297773,
+        "word": "小团团 小囚囚",
+        "onboard_time": 1713866358,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 260679,
+        "num": 260679,
+        "word": "伊能静给秦昊的小作文",
+        "onboard_time": 1713868099,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111913,
+        "num": 259786,
+        "word": "谷爱凌现身保时捷品牌之夜",
+        "onboard_time": 1713874698,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259571,
+        "num": 259571,
+        "word": "小团团",
+        "onboard_time": 1713874638,
+        "rank": 28,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 251210,
+        "num": 251210,
+        "word": "怀孕是一场身体的大考",
+        "onboard_time": 1713869778,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242241,
+        "num": 242241,
+        "word": "乐言被处罚",
+        "onboard_time": 1713875417,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217783,
+        "num": 217783,
+        "word": "金高银太美了",
+        "onboard_time": 1713862159,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 334840,
+        "num": 210776,
+        "word": "教育部门回应网红李某某艺考作弊",
+        "onboard_time": 1713864677,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 191308,
+        "num": 191308,
+        "word": "小团团或将面临3至5年刑期",
+        "onboard_time": 1713852139,
+        "rank": 33,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 190107,
+        "num": 190107,
+        "word": "一条小团团单月礼物收入曾高达500万",
+        "onboard_time": 1713875839,
+        "rank": 34,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 188437,
+        "num": 188437,
+        "word": "今晚月亮好圆",
+        "onboard_time": 1713876079,
+        "rank": 35,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 186641,
+        "num": 186641,
+        "word": "东北雨姐与张雪峰约饭",
+        "onboard_time": 1713872959,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 156565,
+        "num": 156565,
+        "word": "女教师遭网课爆破猝死女儿决心休学",
+        "onboard_time": 1713851958,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154253,
+        "num": 154253,
+        "word": "为什么青春剧不拍研究生",
+        "onboard_time": 1713875596,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203849,
+        "num": 148096,
+        "word": "北电回应艺考生被曝作弊",
+        "onboard_time": 1713856758,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 141682,
+        "num": 141682,
+        "word": "才发现小时候书里的都是细糠",
+        "onboard_time": 1713876379,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141487,
+        "num": 141487,
+        "word": "许凯已关闭保存功能",
+        "onboard_time": 1713870259,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141002,
+        "num": 141002,
+        "word": "八万的吉他让熊孩子灌了四瓶矿泉水",
+        "onboard_time": 1713874578,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139068,
+        "num": 139068,
+        "word": "家庭条件不好男朋友不准我看演唱会",
+        "onboard_time": 1713868159,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138751,
+        "num": 138751,
+        "word": "陈都灵吐妖气镜头",
+        "onboard_time": 1713870617,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137738,
+        "num": 137738,
+        "word": "小米称网传保险杠掉漆SU7Max经改装",
+        "onboard_time": 1713874820,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 137259,
+        "num": 137259,
+        "word": "金剪刀",
+        "onboard_time": 1713874218,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 133447,
+        "num": 133447,
+        "word": "周深新歌奇迹时刻",
+        "onboard_time": 1713874038,
+        "rank": 47,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 134958,
+        "num": 131090,
+        "word": "第一次看到真实的分娩场面",
+        "onboard_time": 1713876257,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128237,
+        "num": 128237,
+        "word": "骑行",
+        "onboard_time": 1713875659,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化民生为大#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713875623879,
+  "endTime": 1713876478768,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1160188,
+      "num": 1160188,
+      "word": "周深演唱会抢票",
+      "onboard_time": 1713874278,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1149563,
       "num": 1149563,
       "word": "穆雷绝杀湖人",
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 991508,
+      "num": 991508,
+      "word": "五一不调休就会是这种结果",
+      "onboard_time": 1713875178,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 986936,
       "num": 986936,
       "word": "韩国女团MV涉嫌恋童引争议",
@@ -739,12 +755,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 934477,
-      "num": 934477,
-      "word": "周深演唱会抢票",
-      "onboard_time": 1713874278,
-      "rank": 4,
-      "category": "演出"
+      "raw_hot": 922729,
+      "num": 526699,
+      "word": "多方回应15岁女生遭校园霸凌被迫割喉求生",
+      "onboard_time": 1713872299,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 915332,
@@ -979,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 765724,
+      "num": 765724,
+      "word": "网红艺考生李闽轩或被取消高考资格",
+      "onboard_time": 1713871997,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 764018,
       "num": 764018,
       "word": "郑恺和苗苗实打实过日子型",
@@ -1089,14 +1113,6 @@
       "onboard_time": 1713781638,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 705557,
-      "num": 484038,
-      "word": "多方回应15岁女生遭校园霸凌被迫割喉求生",
-      "onboard_time": 1713872299,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 704144,
@@ -1273,14 +1289,6 @@
       "onboard_time": 1713655394,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 662955,
-      "num": 662955,
-      "word": "网红艺考生李闽轩或被取消高考资格",
-      "onboard_time": 1713871997,
-      "rank": 44,
-      "category": "网红"
     },
     {
       "raw_hot": 660289,
@@ -1803,6 +1811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522752,
+      "num": 522752,
+      "word": "蔡磊病情加重舌头下嘴唇已萎缩",
+      "onboard_time": 1713874158,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522361,
       "num": 522361,
       "word": "美媒曝布林肯将宣布制裁以军一支部队",
@@ -2219,6 +2235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 453627,
+      "num": 453627,
+      "word": "林俊杰哈尔滨",
+      "onboard_time": 1713874758,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 452973,
       "num": 452973,
       "word": "合着我还过着29年前的单休生活",
@@ -2265,14 +2289,6 @@
       "onboard_time": 1713667037,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 446885,
-      "num": 446885,
-      "word": "林俊杰哈尔滨",
-      "onboard_time": 1713874758,
-      "rank": 12,
-      "category": "演出"
     },
     {
       "raw_hot": 445869,
@@ -2475,14 +2491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 407559,
-      "num": 407559,
-      "word": "五一不调休就会是这种结果",
-      "onboard_time": 1713875178,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 406380,
       "num": 406380,
       "word": "aespa正规一辑预告",
@@ -2635,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 386735,
+      "num": 386735,
+      "word": "papi酱 莎士比亚四大喜剧",
+      "onboard_time": 1713873199,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 386045,
       "num": 386045,
       "word": "考研数学被评最佳睡前读物",
@@ -2761,14 +2777,6 @@
       "onboard_time": 1713783138,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 362227,
-      "num": 362227,
-      "word": "papi酱 莎士比亚四大喜剧",
-      "onboard_time": 1713873199,
-      "rank": 17,
-      "category": "网红"
     },
     {
       "raw_hot": 362186,
@@ -3035,6 +3043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325101,
+      "num": 325101,
+      "word": "抓大鹅",
+      "onboard_time": 1713874998,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 324964,
       "num": 324964,
       "word": "HYBE官方公告",
@@ -3096,14 +3112,6 @@
       "word": "台湾本月初地震已有1000多次余震",
       "onboard_time": 1713834199,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315203,
-      "num": 315203,
-      "word": "蔡磊病情加重舌头下嘴唇已萎缩",
-      "onboard_time": 1713874158,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -3979,6 +3987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242241,
+      "num": 242241,
+      "word": "乐言被处罚",
+      "onboard_time": 1713875417,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 242161,
       "num": 242161,
       "word": "金饰买价700卖价仅500",
@@ -4281,14 +4297,6 @@
       "onboard_time": 1713798439,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 229307,
-      "num": 229307,
-      "word": "抓大鹅",
-      "onboard_time": 1713874998,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 229288,
@@ -5443,6 +5451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190107,
+      "num": 190107,
+      "word": "一条小团团单月礼物收入曾高达500万",
+      "onboard_time": 1713875839,
+      "rank": 34,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 189974,
       "num": 189974,
       "word": "广州天气",
@@ -5521,6 +5537,14 @@
       "onboard_time": 1713861857,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188437,
+      "num": 188437,
+      "word": "今晚月亮好圆",
+      "onboard_time": 1713876079,
+      "rank": 35,
+      "category": "自然"
     },
     {
       "raw_hot": 188309,
@@ -5641,14 +5665,6 @@
       "onboard_time": 1713769578,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185893,
-      "num": 185893,
-      "word": "乐言被处罚",
-      "onboard_time": 1713875417,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 185691,
@@ -6515,6 +6531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162221,
+      "num": 586514,
+      "word": "开展整治自媒体无底线博流量行动",
+      "onboard_time": 1713874158,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162137,
       "num": 162137,
       "word": "辛巴 太原老葛",
@@ -6569,14 +6593,6 @@
       "onboard_time": 1713681258,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 161672,
-      "num": 586514,
-      "word": "开展整治自媒体无底线博流量行动",
-      "onboard_time": 1713874158,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161497,
@@ -7379,6 +7395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141682,
+      "num": 141682,
+      "word": "才发现小时候书里的都是细糠",
+      "onboard_time": 1713876379,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141531,
       "num": 141531,
       "word": "郑合惠子好甜",
@@ -7393,6 +7417,14 @@
       "onboard_time": 1713671297,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141002,
+      "num": 141002,
+      "word": "八万的吉他让熊孩子灌了四瓶矿泉水",
+      "onboard_time": 1713874578,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 140859,
@@ -7539,6 +7571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137738,
+      "num": 137738,
+      "word": "小米称网传保险杠掉漆SU7Max经改装",
+      "onboard_time": 1713874820,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 137487,
       "num": 137487,
       "word": "遗体整容师 残疾少女",
@@ -7627,6 +7667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134958,
+      "num": 131090,
+      "word": "第一次看到真实的分娩场面",
+      "onboard_time": 1713876257,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134935,
       "num": 134935,
       "word": "特斯拉市值7天蒸发7511亿元",
@@ -7673,6 +7721,14 @@
       "onboard_time": 1713690019,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 133447,
+      "num": 133447,
+      "word": "周深新歌奇迹时刻",
+      "onboard_time": 1713874038,
+      "rank": 48,
+      "category": "音乐,游戏"
     },
     {
       "raw_hot": 133338,
@@ -7745,14 +7801,6 @@
       "onboard_time": 1713675981,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131591,
-      "num": 131591,
-      "word": "八万的吉他让熊孩子灌了四瓶矿泉水",
-      "onboard_time": 1713874578,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 131547,
@@ -7851,6 +7899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128237,
+      "num": 128237,
+      "word": "骑行",
+      "onboard_time": 1713875659,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 127666,
       "num": 127666,
       "word": "BOYNEXTDOOR 安可live",
@@ -7900,7 +7956,7 @@
     },
     {
       "raw_hot": 126468,
-      "num": 362952,
+      "num": 510679,
       "word": "极星加入车手生态圈",
       "onboard_time": 1713874339,
       "rank": 15,
@@ -8075,14 +8131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120340,
-      "num": 120340,
-      "word": "周深新歌奇迹时刻",
-      "onboard_time": 1713874038,
-      "rank": 48,
-      "category": "音乐,游戏"
-    },
-    {
       "raw_hot": 120252,
       "num": 120252,
       "word": "U23亚洲杯",
@@ -8225,6 +8273,14 @@
       "onboard_time": 1713780437,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111913,
+      "num": 259786,
+      "word": "谷爱凌现身保时捷品牌之夜",
+      "onboard_time": 1713874698,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 111725,
@@ -8387,14 +8443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103231,
-      "num": 240889,
-      "word": "谷爱凌现身保时捷品牌之夜",
-      "onboard_time": 1713874698,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102267,
       "num": 107537,
       "word": "MSI抽签",
@@ -8456,6 +8504,14 @@
       "word": "用中国传统色打开春耕画卷",
       "onboard_time": 1713686178,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94248,
+      "num": 515133,
+      "word": "你永远可以相信读书的力量",
+      "onboard_time": 1713873618,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -8705,14 +8761,6 @@
       "onboard_time": 1713828737,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 63198,
-      "num": 364792,
-      "word": "你永远可以相信读书的力量",
-      "onboard_time": 1713873618,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62094,
@@ -9203,6 +9251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 7186,
+      "num": 1053318,
+      "word": "9图了解无障碍阅读",
+      "onboard_time": 1713876437,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 6560,
       "num": 1263961,
       "word": "万千气象看山西",
@@ -9243,6 +9299,9 @@
     },
     {
       "word": "#习近平在重庆市考察调研#"
+    },
+    {
+      "word": "#中国式现代化民生为大#"
     }
   ]
 }
