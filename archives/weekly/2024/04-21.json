@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713870947120,
+  "endTime": 1713872107287,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2123213,
+      "num": 2123213,
+      "word": "轻断食吃了11根玉米",
+      "onboard_time": 1713867139,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2053116,
       "num": 2053116,
       "word": "星巴克 免费咖啡",
@@ -185,14 +193,6 @@
       "onboard_time": 1713796821,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1969790,
-      "num": 1969790,
-      "word": "轻断食吃了11根玉米",
-      "onboard_time": 1713867139,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 1888512,
@@ -699,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 944813,
+      "num": 944813,
+      "word": "张翰沧桑了",
+      "onboard_time": 1713866059,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 943972,
       "num": 707384,
       "word": "秦海璐在买防窥膜了",
@@ -777,14 +785,6 @@
       "onboard_time": 1713770356,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 877062,
-      "num": 877062,
-      "word": "张翰沧桑了",
-      "onboard_time": 1713866059,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 876362,
@@ -1179,6 +1179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 679913,
+      "num": 679913,
+      "word": "小团团 小囚囚",
+      "onboard_time": 1713866358,
+      "rank": 24,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 679038,
       "num": 679038,
       "word": "陈芋汐10米台冠军",
@@ -1315,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 635768,
+      "num": 635768,
+      "word": "刘宇要上恋综了",
+      "onboard_time": 1713868938,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 627573,
       "num": 627573,
       "word": "林志颖林俊杰吴彦祖昆凌齐聚上海F1",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1713843919,
       "rank": 13,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 587222,
+      "num": 475911,
+      "word": "怀孕是一场身体的大考",
+      "onboard_time": 1713869778,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 584886,
@@ -1771,14 +1795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 515682,
-      "num": 515682,
-      "word": "刘宇要上恋综了",
-      "onboard_time": 1713868938,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 515449,
       "num": 515449,
       "word": "台湾4.9级左右地震",
@@ -1865,14 +1881,6 @@
       "onboard_time": 1713838518,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 504860,
-      "num": 504860,
-      "word": "小团团 小囚囚",
-      "onboard_time": 1713866358,
-      "rank": 24,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 501456,
@@ -2907,6 +2915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331639,
+      "num": 331639,
+      "word": "伊能静给秦昊的小作文",
+      "onboard_time": 1713868099,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330380,
       "num": 330380,
       "word": "极限挑战直播",
@@ -2993,14 +3009,6 @@
       "onboard_time": 1713844278,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 316059,
-      "num": 316059,
-      "word": "伊能静给秦昊的小作文",
-      "onboard_time": 1713868099,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 315742,
@@ -3235,14 +3243,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 287851,
-      "num": 287851,
-      "word": "怀孕是一场身体的大考",
-      "onboard_time": 1713869778,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 286819,
       "num": 286819,
       "word": "陈少杰被指或获刑5年",
@@ -3273,6 +3273,14 @@
       "onboard_time": 1713621019,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282762,
+      "num": 282762,
+      "word": "暴雪捐赠三千万蛆虫拯救鸟类",
+      "onboard_time": 1713869539,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 282490,
@@ -3308,7 +3316,7 @@
     },
     {
       "raw_hot": 279334,
-      "num": 230882,
+      "num": 255585,
       "word": "小倩 撤档",
       "onboard_time": 1713867799,
       "rank": 26,
@@ -3435,6 +3443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267428,
+      "num": 267428,
+      "word": "蛋仔派对回应限制老年人注册",
+      "onboard_time": 1713871458,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 266714,
       "num": 266714,
       "word": "中医建议一定要保护好眼睛",
@@ -3481,6 +3497,14 @@
       "onboard_time": 1713788120,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 263173,
+      "num": 263173,
+      "word": "陈震直播回应小米SU7争议",
+      "onboard_time": 1713871397,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 262825,
@@ -3777,6 +3801,14 @@
       "onboard_time": 1713747978,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 246571,
+      "num": 246571,
+      "word": "陈都灵吐妖气镜头",
+      "onboard_time": 1713870617,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 246499,
@@ -4227,6 +4259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226018,
+      "num": 226018,
+      "word": "夸克崩了",
+      "onboard_time": 1713869898,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 225637,
       "num": 151354,
       "word": "一起入职的44岁姐妹被辞退了",
@@ -4444,7 +4484,7 @@
     },
     {
       "raw_hot": 213658,
-      "num": 213658,
+      "num": 221091,
       "word": "镇干部阻挠农民种地让交钱被免职",
       "onboard_time": 1713869778,
       "rank": 27,
@@ -4571,14 +4611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208993,
-      "num": 208993,
-      "word": "暴雪捐赠三千万蛆虫拯救鸟类",
-      "onboard_time": 1713869539,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 208856,
       "num": 208856,
       "word": "配音",
@@ -4673,14 +4705,6 @@
       "onboard_time": 1713773839,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 206912,
-      "num": 206912,
-      "word": "夸克崩了",
-      "onboard_time": 1713869898,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 206588,
@@ -5187,6 +5211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193283,
+      "num": 193283,
+      "word": "处女座越敏感越强大",
+      "onboard_time": 1713871639,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193057,
       "num": 193057,
       "word": "九江大桥实施临时交通管制",
@@ -5256,6 +5288,14 @@
       "word": "大梦归离再现云之羽站位",
       "onboard_time": 1713855919,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191044,
+      "num": 191044,
+      "word": "邓为反差感",
+      "onboard_time": 1713871159,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -5345,6 +5385,14 @@
       "onboard_time": 1713831799,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 189197,
+      "num": 189197,
+      "word": "爱奇艺片单你最期待哪部",
+      "onboard_time": 1713871159,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 189100,
@@ -5593,6 +5641,14 @@
       "onboard_time": 1713832399,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183494,
+      "num": 183494,
+      "word": "七旬老人刷脸才能玩游戏",
+      "onboard_time": 1713871877,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 183477,
@@ -6099,6 +6155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168652,
+      "num": 168652,
+      "word": "许凯已关闭保存功能",
+      "onboard_time": 1713870259,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168498,
       "num": 168498,
       "word": "50多万买新车开2公里成瑕疵车",
@@ -6188,7 +6252,7 @@
     },
     {
       "raw_hot": 165587,
-      "num": 165587,
+      "num": 176961,
       "word": "林孝埈领衔出镜世锦赛胜利时刻",
       "onboard_time": 1713868159,
       "rank": 35,
@@ -6200,14 +6264,6 @@
       "word": "临江仙海报",
       "onboard_time": 1713839837,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 165538,
-      "num": 165538,
-      "word": "许凯已关闭保存功能",
-      "onboard_time": 1713870259,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -6425,14 +6481,6 @@
       "onboard_time": 1713829397,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159174,
-      "num": 159174,
-      "word": "陈都灵吐妖气镜头",
-      "onboard_time": 1713870617,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 159136,
@@ -7387,6 +7435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136238,
+      "num": 136238,
+      "word": "网红艺考生李闽轩或被取消高考资格",
+      "onboard_time": 1713871997,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 135997,
       "num": 135997,
       "word": "当普通社牛遇到社牛天花板",
@@ -7659,6 +7715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128119,
+      "num": 128119,
+      "word": "别麦了 老铁",
+      "onboard_time": 1713872058,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127318,
       "num": 127318,
       "word": "12306回应第三方平台用技术抢票",
@@ -7697,6 +7761,14 @@
       "onboard_time": 1713622701,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126153,
+      "num": 126153,
+      "word": "惜花芷 抄家",
+      "onboard_time": 1713871039,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 126103,
@@ -8627,6 +8699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49649,
+      "num": 215415,
+      "word": "为何老年人总缺席全家出行",
+      "onboard_time": 1713868578,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 49209,
       "num": 41388,
       "word": "张艺兴Psychic国内舞台首秀",
@@ -8667,14 +8747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44800,
-      "num": 167430,
-      "word": "为何老年人总缺席全家出行",
-      "onboard_time": 1713868578,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 42439,
       "num": 42439,
       "word": "哈哈哈哈哈",
@@ -8697,6 +8769,14 @@
       "onboard_time": 1713807732,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40735,
+      "num": 175079,
+      "word": "当代人的购物后悔药",
+      "onboard_time": 1713871698,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 38615,
@@ -8752,6 +8832,14 @@
       "word": "文化中国行",
       "onboard_time": 1713754998,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33797,
+      "num": 334156,
+      "word": "75秒看人民海军75年巨变",
+      "onboard_time": 1713870078,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -8867,14 +8955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19813,
-      "num": 334156,
-      "word": "75秒看人民海军75年巨变",
-      "onboard_time": 1713870078,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18887,
       "num": 22027,
       "word": "没想到衣物收纳这么简单",
@@ -8947,7 +9027,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3288,
+      "raw_hot": 3842,
       "num": 1358814,
       "word": "V观京津冀新质铸辉煌",
       "onboard_time": 1713846981,
