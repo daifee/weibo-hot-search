@@ -1,6 +1,6 @@
 {
   "startTime": 1713802938860,
-  "endTime": 1713860530994,
+  "endTime": 1713861291157,
   "band_list": [
     {
       "raw_hot": 4471317,
@@ -43,8 +43,8 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 2067413,
-      "num": 2067413,
+      "raw_hot": 2225398,
+      "num": 2225398,
       "word": "辛芷蕾听过杨洋二十年不参加综艺",
       "onboard_time": 1713856879,
       "rank": 4,
@@ -65,6 +65,14 @@
       "onboard_time": 1713852139,
       "rank": 1,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 1885663,
+      "num": 456957,
+      "word": "辛芷蕾 抱歉杨洋我听错了",
+      "onboard_time": 1713859459,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1820515,
@@ -131,14 +139,6 @@
       "category": "美食,财经"
     },
     {
-      "raw_hot": 1323629,
-      "num": 456957,
-      "word": "辛芷蕾 抱歉杨洋我听错了",
-      "onboard_time": 1713859459,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1149563,
       "num": 1149563,
       "word": "穆雷绝杀湖人",
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 965931,
+      "num": 453032,
+      "word": "女生遭霸凌为逃避殴打捡玻璃片割喉",
+      "onboard_time": 1713856639,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 915332,
       "num": 915332,
       "word": "工作人员输错号让彩民中800多万",
@@ -235,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 819142,
-      "num": 453032,
-      "word": "女生遭霸凌为逃避殴打捡玻璃片割喉",
-      "onboard_time": 1713856639,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 815652,
       "num": 815652,
       "word": "黄金白银集体大跌",
@@ -257,6 +257,14 @@
       "onboard_time": 1713778457,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 804598,
+      "num": 286006,
+      "word": "茶百道上市一小时跌没3年净利润",
+      "onboard_time": 1713857658,
+      "rank": 49,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 771184,
@@ -339,6 +347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 594564,
+      "num": 594564,
+      "word": "杨洋的综艺",
+      "onboard_time": 1713860119,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 587926,
       "num": 562209,
       "word": "斗鱼回应PDD停播161天",
@@ -393,14 +409,6 @@
       "onboard_time": 1713800177,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 524957,
-      "num": 286006,
-      "word": "茶百道上市一小时跌没3年净利润",
-      "onboard_time": 1713857658,
-      "rank": 49,
-      "category": "财经,美食"
     },
     {
       "raw_hot": 520847,
@@ -659,6 +667,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 369144,
+      "num": 369144,
+      "word": "北京市教委回应北电艺考生被曝作弊",
+      "onboard_time": 1713859879,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368249,
       "num": 355067,
       "word": "男子车位被霸停5天一怒焊死",
@@ -835,14 +851,6 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 299700,
-      "num": 299700,
-      "word": "北京市教委回应北电艺考生被曝作弊",
-      "onboard_time": 1713859879,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296189,
       "num": 296189,
       "word": "大梦归离群像海报",
@@ -889,14 +897,6 @@
       "onboard_time": 1713847041,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 289587,
-      "num": 289587,
-      "word": "杨洋的综艺",
-      "onboard_time": 1713860119,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 289202,
@@ -963,6 +963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 261716,
+      "num": 261716,
+      "word": "书卷一梦开机",
+      "onboard_time": 1713859818,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261294,
       "num": 261294,
       "word": "TWS 男版NewJeans",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1713794179,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251672,
+      "num": 251672,
+      "word": "董宇辉称一个公司不能每天疯狂搞内斗",
+      "onboard_time": 1713857599,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 251296,
@@ -1083,14 +1099,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 239467,
-      "num": 239467,
-      "word": "董宇辉称一个公司不能每天疯狂搞内斗",
-      "onboard_time": 1713857599,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 238714,
       "num": 238714,
       "word": "颜心记预告",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1713855798,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237575,
+      "num": 237575,
+      "word": "六味地黄丸补肾还是毁肾",
+      "onboard_time": 1713860477,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 237554,
@@ -1395,14 +1411,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 198692,
-      "num": 198692,
-      "word": "书卷一梦开机",
-      "onboard_time": 1713859818,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196517,
       "num": 196517,
       "word": "狐妖小红娘王权篇山水同看海报",
@@ -1555,6 +1563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 179818,
+      "num": 179818,
+      "word": "青春环游记",
+      "onboard_time": 1713861078,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179599,
       "num": 193574,
       "word": "狐妖时装",
@@ -1603,14 +1619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174110,
-      "num": 174110,
-      "word": "六味地黄丸补肾还是毁肾",
-      "onboard_time": 1713860477,
-      "rank": 36,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 173012,
       "num": 173012,
       "word": "尼克斯逆转76人",
@@ -1625,6 +1633,14 @@
       "onboard_time": 1713845419,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169930,
+      "num": 169930,
+      "word": "胡先煦不认识还是不敢选",
+      "onboard_time": 1713859698,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 168791,
@@ -1737,6 +1753,14 @@
       "onboard_time": 1713846019,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153968,
+      "num": 153968,
+      "word": "杨幂台词",
+      "onboard_time": 1713860359,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 152984,
@@ -1859,20 +1883,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141126,
-      "num": 141126,
-      "word": "胡先煦不认识还是不敢选",
-      "onboard_time": 1713859698,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 140082,
       "num": 140082,
       "word": "刘涛猛夸赵昭仪",
       "onboard_time": 1713854238,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139851,
+      "num": 139346,
+      "word": "赵奕欢再扮程小雨",
+      "onboard_time": 1713860958,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138999,
+      "num": 138999,
+      "word": "小团团直播间打赏能否要回",
+      "onboard_time": 1713860838,
+      "rank": 42,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 137487,
@@ -1955,14 +1987,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 117761,
-      "num": 117761,
-      "word": "杨幂台词",
-      "onboard_time": 1713860359,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117263,
       "num": 122742,
       "word": "12306回应公众号发疯留言能求到票",
@@ -1993,6 +2017,14 @@
       "onboard_time": 1713859339,
       "rank": 29,
       "category": "读书作家,情感"
+    },
+    {
+      "raw_hot": 107182,
+      "num": 107182,
+      "word": "特斯拉Cybertruck儿童车售价11190元",
+      "onboard_time": 1713859758,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 105208,

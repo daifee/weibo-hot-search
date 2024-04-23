@@ -1,0 +1,410 @@
+{
+  "runTime": 1713861291157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2225398,
+        "num": 2225398,
+        "word": "辛芷蕾听过杨洋二十年不参加综艺",
+        "onboard_time": 1713856879,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1275381,
+        "num": 1275381,
+        "word": "艺考 作弊",
+        "onboard_time": 1713848959,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28308,
+        "num": 1074430,
+        "word": "第29个世界读书日",
+        "onboard_time": 1713843138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1979824,
+        "num": 1029639,
+        "word": "王权富贵",
+        "onboard_time": 1713857838,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 974217,
+        "num": 974217,
+        "word": "小团团或将面临3至5年刑期",
+        "onboard_time": 1713852139,
+        "rank": 4,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 610941,
+        "num": 610941,
+        "word": "北电回应艺考生被曝作弊",
+        "onboard_time": 1713856758,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594564,
+        "num": 594564,
+        "word": "杨洋的综艺",
+        "onboard_time": 1713860119,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513735,
+        "num": 513735,
+        "word": "金饰价格一夜跌14元每克",
+        "onboard_time": 1713843018,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 412043,
+        "num": 412043,
+        "word": "华为",
+        "onboard_time": 1713858677,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 202422,
+        "num": 410965,
+        "word": "高中女生帮老奶奶拿废品",
+        "onboard_time": 1713854777,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 965931,
+        "num": 402596,
+        "word": "女生遭霸凌为逃避殴打捡玻璃片割喉",
+        "onboard_time": 1713856639,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1885663,
+        "num": 391024,
+        "word": "辛芷蕾 抱歉杨洋我听错了",
+        "onboard_time": 1713859459,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 585503,
+        "num": 385412,
+        "word": "一条小团团确认被捕",
+        "onboard_time": 1713828375,
+        "rank": 12,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 573632,
+        "num": 376984,
+        "word": "女教师遭网课爆破猝死女儿决心休学",
+        "onboard_time": 1713851958,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459472,
+        "num": 370401,
+        "word": "凤凰传奇 唯粉",
+        "onboard_time": 1713854777,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 369144,
+        "num": 369144,
+        "word": "北京市教委回应北电艺考生被曝作弊",
+        "onboard_time": 1713859879,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368839,
+        "num": 368839,
+        "word": "金秀贤把金智媛搂怀里看剧本",
+        "onboard_time": 1713852979,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363192,
+        "num": 363192,
+        "word": "工作人员输错号让彩民中800多万",
+        "onboard_time": 1713847821,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272856,
+        "num": 272856,
+        "word": "一个父亲没了软肋就不再需要底线",
+        "onboard_time": 1713852560,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267822,
+        "num": 267822,
+        "word": "禁止学生挂床帘理由缺乏说服力",
+        "onboard_time": 1713855139,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804598,
+        "num": 265017,
+        "word": "茶百道上市一小时跌没3年净利润",
+        "onboard_time": 1713857658,
+        "rank": 20,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 261716,
+        "num": 261716,
+        "word": "书卷一梦开机",
+        "onboard_time": 1713859818,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251672,
+        "num": 251672,
+        "word": "董宇辉称一个公司不能每天疯狂搞内斗",
+        "onboard_time": 1713857599,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 246947,
+        "num": 246947,
+        "word": "白鹿上古神女",
+        "onboard_time": 1713856879,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245692,
+        "num": 245692,
+        "word": "中戏表演系帅哥美女",
+        "onboard_time": 1713844158,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240371,
+        "num": 240371,
+        "word": "五月天鸟巢演唱会",
+        "onboard_time": 1713854418,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237575,
+        "num": 237575,
+        "word": "六味地黄丸补肾还是毁肾",
+        "onboard_time": 1713860477,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 227745,
+        "num": 227745,
+        "word": "原来应届毕业生身份这么值",
+        "onboard_time": 1713845180,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196770,
+        "num": 196770,
+        "word": "成毅白发",
+        "onboard_time": 1713855437,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189006,
+        "num": 189006,
+        "word": "问界新M5价格",
+        "onboard_time": 1713858557,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 186615,
+        "num": 186615,
+        "word": "李闽轩 北电艺考",
+        "onboard_time": 1713841578,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186259,
+        "num": 186259,
+        "word": "你好种地少年第二季",
+        "onboard_time": 1713856758,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179818,
+        "num": 179818,
+        "word": "青春环游记",
+        "onboard_time": 1713861078,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174103,
+        "num": 174103,
+        "word": "男子车位被霸停5天一怒焊死",
+        "onboard_time": 1713850758,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170603,
+        "num": 170603,
+        "word": "床帘 遮光",
+        "onboard_time": 1713850518,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169930,
+        "num": 169930,
+        "word": "胡先煦不认识还是不敢选",
+        "onboard_time": 1713859698,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163010,
+        "num": 163010,
+        "word": "不是父母变好了而是你有用了",
+        "onboard_time": 1713856397,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161119,
+        "num": 161119,
+        "word": "臣妾要告发凤凰传奇私自练兵",
+        "onboard_time": 1713858018,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153968,
+        "num": 153968,
+        "word": "杨幂台词",
+        "onboard_time": 1713860359,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139685,
+        "num": 139685,
+        "word": "斗鱼回应PDD停播161天",
+        "onboard_time": 1713843919,
+        "rank": 39,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 144396,
+        "num": 139474,
+        "word": "电视剧遮天阵容官宣",
+        "onboard_time": 1713852678,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139851,
+        "num": 139346,
+        "word": "赵奕欢再扮程小雨",
+        "onboard_time": 1713860958,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138999,
+        "num": 138999,
+        "word": "小团团直播间打赏能否要回",
+        "onboard_time": 1713860838,
+        "rank": 42,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 136339,
+        "num": 136339,
+        "word": "杨幂杀回仙侠剧了",
+        "onboard_time": 1713843018,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120102,
+        "num": 120102,
+        "word": "mlxg谈RNG合同细节",
+        "onboard_time": 1713858197,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109961,
+        "num": 109961,
+        "word": "原来真实的古代地牢是这样的",
+        "onboard_time": 1713858197,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107182,
+        "num": 107182,
+        "word": "特斯拉Cybertruck儿童车售价11190元",
+        "onboard_time": 1713859758,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 106570,
+        "num": 106570,
+        "word": "河北警方调查理想MEGA遭恶意攻击事件",
+        "onboard_time": 1713859219,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99540,
+        "num": 99540,
+        "word": "这间书店大家想看什么书老板去买",
+        "onboard_time": 1713859339,
+        "rank": 48,
+        "category": "读书作家,情感"
+      },
+      {
+        "raw_hot": 97618,
+        "num": 97618,
+        "word": "秦岚选到了谁",
+        "onboard_time": 1713851958,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的读书故事#"
+    }
+  }
+}
