@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713908052399,
+  "endTime": 1713910695742,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -9267,6 +9267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68786,
+      "num": 49147,
+      "word": "张颂文新剧官宣文案没跟上队形",
+      "onboard_time": 1713903431,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67576,
       "num": 107513,
       "word": "CFPLS23总决赛",
@@ -9385,6 +9393,14 @@
       "onboard_time": 1713853399,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 58456,
+      "num": 33039,
+      "word": "孩子刚休学老师就把我微信删了",
+      "onboard_time": 1713907810,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 57012,
@@ -9523,6 +9539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47693,
+      "num": 46434,
+      "word": "当地回应4岁男童被三小孩倒酒精烧死",
+      "onboard_time": 1713892274,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47215,
       "num": 47215,
       "word": "普拉提是减肥纠错本吧",
@@ -9547,28 +9571,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42760,
-      "num": 46434,
-      "word": "当地回应4岁男童被三小孩倒酒精烧死",
-      "onboard_time": 1713892274,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42439,
       "num": 42439,
       "word": "哈哈哈哈哈",
       "onboard_time": 1713728831,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 41583,
-      "num": 41583,
-      "word": "张颂文新剧官宣文案没跟上队形",
-      "onboard_time": 1713903431,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 41476,
@@ -9731,6 +9739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26905,
+      "num": 26905,
+      "word": "开鲁官方通报干部下田拦春耕",
+      "onboard_time": 1713905050,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25393,
       "num": 25393,
       "word": "得闲谨制",
@@ -9753,6 +9769,14 @@
       "onboard_time": 1713892752,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24456,
+      "num": 24456,
+      "word": "拿了驾照却不会开车了",
+      "onboard_time": 1713909310,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 23561,
@@ -9803,20 +9827,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20697,
+      "num": 20697,
+      "word": "双子座的分享欲不是喜欢",
+      "onboard_time": 1713901451,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 20461,
+      "num": 20461,
+      "word": "娜扎粉色短裙",
+      "onboard_time": 1713900671,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20460,
+      "num": 20460,
+      "word": "婚礼上玩这个游戏我饭都不吃了",
+      "onboard_time": 1713907630,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19747,
       "num": 19747,
       "word": "小团团掉粉近50万",
       "onboard_time": 1713897851,
       "rank": 41,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 19116,
-      "num": 19507,
-      "word": "娜扎粉色短裙",
-      "onboard_time": 1713900671,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 18887,
@@ -9849,22 +9889,6 @@
       "onboard_time": 1713899171,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17486,
-      "num": 17486,
-      "word": "开鲁官方通报干部下田拦春耕",
-      "onboard_time": 1713905050,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17435,
-      "num": 17435,
-      "word": "双子座的分享欲不是喜欢",
-      "onboard_time": 1713901451,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 16812,
@@ -9905,22 +9929,6 @@
       "onboard_time": 1713645250,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13724,
-      "num": 13724,
-      "word": "孩子刚休学老师就把我微信删了",
-      "onboard_time": 1713907810,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 12297,
-      "num": 13708,
-      "word": "婚礼上玩这个游戏我饭都不吃了",
-      "onboard_time": 1713907630,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 11546,
