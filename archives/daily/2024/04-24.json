@@ -1,6 +1,6 @@
 {
   "startTime": 1713889329936,
-  "endTime": 1713910695742,
+  "endTime": 1713911644424,
   "band_list": [
     {
       "raw_hot": 1267413,
@@ -147,6 +147,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 247952,
+      "num": 247952,
+      "word": "女子反映天然气费用突增老公被公司约谈",
+      "onboard_time": 1713880218,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247879,
       "num": 247879,
       "word": "轻断食吃了11根玉米",
@@ -187,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199148,
-      "num": 221146,
-      "word": "女子反映天然气费用突增老公被公司约谈",
-      "onboard_time": 1713880218,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187594,
       "num": 158026,
       "word": "周雨彤现偶史上最e女主",
@@ -209,6 +209,14 @@
       "onboard_time": 1713882739,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184571,
+      "num": 184571,
+      "word": "一条小团团单月礼物收入曾高达500万",
+      "onboard_time": 1713875839,
+      "rank": 49,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 173941,
@@ -259,20 +267,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133974,
-      "num": 133974,
-      "word": "一条小团团单月礼物收入曾高达500万",
-      "onboard_time": 1713875839,
-      "rank": 49,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 131029,
       "num": 92481,
       "word": "住酒店睡过头被扣了押金",
       "onboard_time": 1713891254,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127923,
+      "num": 127923,
+      "word": "蔡磊病情加重舌头下嘴唇已萎缩",
+      "onboard_time": 1713874158,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125827,
@@ -323,11 +331,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 100907,
-      "num": 100907,
-      "word": "蔡磊病情加重舌头下嘴唇已萎缩",
-      "onboard_time": 1713874158,
-      "rank": 27,
+      "raw_hot": 101330,
+      "num": 101330,
+      "word": "孙女回家找不到奶奶崩溃大哭",
+      "onboard_time": 1713893232,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -355,14 +363,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 90707,
-      "num": 90707,
-      "word": "孙女回家找不到奶奶崩溃大哭",
-      "onboard_time": 1713893232,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90337,
       "num": 90337,
       "word": "小团团 小囚囚",
@@ -385,6 +385,22 @@
       "onboard_time": 1713884480,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87915,
+      "num": 87915,
+      "word": "张颂文新剧官宣文案没跟上队形",
+      "onboard_time": 1713903431,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84770,
+      "num": 47786,
+      "word": "孩子刚休学老师就把我微信删了",
+      "onboard_time": 1713907810,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 84035,
@@ -419,14 +435,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 68786,
-      "num": 49147,
-      "word": "张颂文新剧官宣文案没跟上队形",
-      "onboard_time": 1713903431,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 67967,
       "num": 89261,
       "word": "一件衣服穿出高尔夫高级感",
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62987,
+      "num": 47509,
+      "word": "当地回应4岁男童被三小孩倒酒精烧死",
+      "onboard_time": 1713892274,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60244,
       "num": 60244,
       "word": "于适说小时候流行的都会",
@@ -451,28 +467,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 58456,
-      "num": 33039,
-      "word": "孩子刚休学老师就把我微信删了",
-      "onboard_time": 1713907810,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 48340,
       "num": 48340,
       "word": "阿森纳vs切尔西",
       "onboard_time": 1713896052,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47693,
-      "num": 46434,
-      "word": "当地回应4岁男童被三小孩倒酒精烧死",
-      "onboard_time": 1713892274,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41089,
@@ -491,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36141,
+      "num": 36141,
+      "word": "拿了驾照却不会开车了",
+      "onboard_time": 1713909310,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 31114,
       "num": 31114,
       "word": "赵今麦首部刑侦悬疑剧女主",
@@ -507,12 +515,52 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26905,
-      "num": 26905,
+      "raw_hot": 30171,
+      "num": 30171,
       "word": "开鲁官方通报干部下田拦春耕",
       "onboard_time": 1713905050,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29172,
+      "num": 29172,
+      "word": "张云龙上午古偶下午悬疑",
+      "onboard_time": 1713910933,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 28662,
+      "num": 28662,
+      "word": "红山动物园推草小猩猩疑似抑郁",
+      "onboard_time": 1713910873,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25461,
+      "num": 25461,
+      "word": "娜扎粉色短裙",
+      "onboard_time": 1713900671,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 25266,
+      "num": 25266,
+      "word": "双子座的分享欲不是喜欢",
+      "onboard_time": 1713901451,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 24935,
+      "num": 24935,
+      "word": "婚礼上玩这个游戏我饭都不吃了",
+      "onboard_time": 1713907630,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 24673,
@@ -523,44 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24456,
-      "num": 24456,
-      "word": "拿了驾照却不会开车了",
-      "onboard_time": 1713909310,
-      "rank": 34,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 24441,
       "num": 27540,
       "word": "春色寄情人",
       "onboard_time": 1713876918,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20697,
-      "num": 20697,
-      "word": "双子座的分享欲不是喜欢",
-      "onboard_time": 1713901451,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 20461,
-      "num": 20461,
-      "word": "娜扎粉色短裙",
-      "onboard_time": 1713900671,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 20460,
-      "num": 20460,
-      "word": "婚礼上玩这个游戏我饭都不吃了",
-      "onboard_time": 1713907630,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 19747,
