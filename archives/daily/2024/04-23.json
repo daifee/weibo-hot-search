@@ -1,6 +1,6 @@
 {
   "startTime": 1713802938860,
-  "endTime": 1713876478768,
+  "endTime": 1713878384453,
   "band_list": [
     {
       "raw_hot": 4471317,
@@ -33,6 +33,14 @@
       "onboard_time": 1713835398,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2504717,
+      "num": 991508,
+      "word": "五一不调休就会是这种结果",
+      "onboard_time": 1713875178,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 2259934,
@@ -259,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 991508,
-      "num": 991508,
-      "word": "五一不调休就会是这种结果",
-      "onboard_time": 1713875178,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 965931,
       "num": 663107,
       "word": "女生遭霸凌为逃避殴打捡玻璃片割喉",
@@ -331,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 872229,
+      "num": 872229,
+      "word": "蔡磊病情加重舌头下嘴唇已萎缩",
+      "onboard_time": 1713874158,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 815652,
       "num": 815652,
       "word": "黄金白银集体大跌",
@@ -376,6 +384,14 @@
       "word": "马来西亚直升机相撞致多人伤亡",
       "onboard_time": 1713845480,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 723936,
+      "num": 437009,
+      "word": "9岁坠楼男孩生前最后5分钟发呆徘徊",
+      "onboard_time": 1713876498,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -467,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 616471,
+      "num": 427044,
+      "word": "抓大鹅",
+      "onboard_time": 1713874998,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 612332,
       "num": 612332,
       "word": "于东来称去年计划挣2000万结果赚了1.4亿",
@@ -553,14 +577,6 @@
       "onboard_time": 1713800177,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 522752,
-      "num": 522752,
-      "word": "蔡磊病情加重舌头下嘴唇已萎缩",
-      "onboard_time": 1713874158,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 520847,
@@ -747,12 +763,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442644,
+      "num": 442644,
+      "word": "乐言被处罚",
+      "onboard_time": 1713875417,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 442060,
       "num": 442060,
       "word": "深圳天气",
       "onboard_time": 1713832340,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437931,
+      "num": 414273,
+      "word": "周琦被驱逐",
+      "onboard_time": 1713877819,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 437867,
@@ -793,6 +825,14 @@
       "onboard_time": 1713852560,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 409561,
+      "num": 409561,
+      "word": "张雪峰称考上二本并不是不够努力",
+      "onboard_time": 1713877397,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 405853,
@@ -937,14 +977,6 @@
       "onboard_time": 1713839478,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 325101,
-      "num": 325101,
-      "word": "抓大鹅",
-      "onboard_time": 1713874998,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 324964,
@@ -1243,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257583,
+      "num": 257583,
+      "word": "莫兰德被驱逐",
+      "onboard_time": 1713877819,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255663,
       "num": 255663,
       "word": "林高远 允许自己不完美",
@@ -1353,14 +1393,6 @@
       "onboard_time": 1713866479,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 242241,
-      "num": 242241,
-      "word": "乐言被处罚",
-      "onboard_time": 1713875417,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 242125,
@@ -1499,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226885,
+      "num": 226885,
+      "word": "一条小团团单月礼物收入曾高达500万",
+      "onboard_time": 1713875839,
+      "rank": 34,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 226018,
       "num": 226018,
       "word": "夸克崩了",
@@ -1521,6 +1561,14 @@
       "onboard_time": 1713834439,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221478,
+      "num": 221478,
+      "word": "第一次看到真实的分娩场面",
+      "onboard_time": 1713876257,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 221343,
@@ -1771,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194682,
+      "num": 194682,
+      "word": "春色寄情人",
+      "onboard_time": 1713792979,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194420,
       "num": 194420,
       "word": "大梦归离首发预告",
@@ -1865,14 +1921,6 @@
       "onboard_time": 1713856397,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 190107,
-      "num": 190107,
-      "word": "一条小团团单月礼物收入曾高达500万",
-      "onboard_time": 1713875839,
-      "rank": 34,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 189974,
@@ -2083,6 +2131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173939,
+      "num": 173939,
+      "word": "于正 紫和凯很般配",
+      "onboard_time": 1713877879,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173012,
       "num": 173012,
       "word": "尼克斯逆转76人",
@@ -2259,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159300,
+      "num": 259786,
+      "word": "谷爱凌现身保时捷品牌之夜",
+      "onboard_time": 1713874698,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158423,
       "num": 158423,
       "word": "华为正式发布问界新M5",
@@ -2427,6 +2491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145158,
+      "num": 145158,
+      "word": "大梦归离什么时候抬上来",
+      "onboard_time": 1713877939,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145154,
       "num": 145154,
       "word": "别再用隔夜米做蛋炒饭了",
@@ -2441,6 +2513,14 @@
       "onboard_time": 1713827595,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143439,
+      "num": 143439,
+      "word": "被指霸凌女生家长称双方系互殴",
+      "onboard_time": 1713877459,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143397,
@@ -2539,20 +2619,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134958,
-      "num": 131090,
-      "word": "第一次看到真实的分娩场面",
-      "onboard_time": 1713876257,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134935,
       "num": 134935,
       "word": "特斯拉市值7天蒸发7511亿元",
       "onboard_time": 1713833839,
       "rank": 48,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 134818,
+      "num": 134818,
+      "word": "杨浚瑄冠军",
+      "onboard_time": 1713878358,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 134727,
@@ -2577,6 +2657,14 @@
       "onboard_time": 1713858197,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129137,
+      "num": 129137,
+      "word": "YG MVP结算画面",
+      "onboard_time": 1713877038,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 128237,
@@ -2715,14 +2803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 111913,
-      "num": 259786,
-      "word": "谷爱凌现身保时捷品牌之夜",
-      "onboard_time": 1713874698,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109996,
       "num": 210442,
       "word": "这间书店大家想看什么书老板去买",
@@ -2801,14 +2881,6 @@
       "onboard_time": 1713794780,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 90793,
-      "num": 90793,
-      "word": "春色寄情人",
-      "onboard_time": 1713792979,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 89073,
@@ -2971,6 +3043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54278,
+      "num": 1053318,
+      "word": "9图了解无障碍阅读",
+      "onboard_time": 1713876437,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54271,
       "num": 581552,
       "word": "茶百道港交所上市",
@@ -3131,14 +3211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7186,
-      "num": 1053318,
-      "word": "9图了解无障碍阅读",
-      "onboard_time": 1713876437,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 6560,
       "num": 1263961,
       "word": "万千气象看山西",
@@ -3170,6 +3242,9 @@
     },
     {
       "word": "#中国式现代化民生为大#"
+    },
+    {
+      "word": "#让老百姓过上更加幸福的生活#"
     }
   ]
 }
