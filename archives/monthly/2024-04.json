@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713836077582,
+  "endTime": 1713839292763,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2630136,
+      "num": 1582219,
+      "word": "PDD",
+      "onboard_time": 1713834858,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 2625452,
       "num": 2625452,
       "word": "金价暴涨房价下跌说明了什么",
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 2259934,
-      "num": 472550,
+      "num": 481797,
       "word": "一条小团团",
       "onboard_time": 1713830117,
       "rank": 10,
@@ -793,6 +801,14 @@
       "onboard_time": 1711938438,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2030345,
+      "num": 2030345,
+      "word": "多地高校禁止学生挂床帘",
+      "onboard_time": 1713835398,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2004641,
@@ -1649,14 +1665,6 @@
       "onboard_time": 1713351138,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1582219,
-      "num": 1582219,
-      "word": "PDD",
-      "onboard_time": 1713834858,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 1566683,
@@ -6659,6 +6667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 816468,
+      "num": 816468,
+      "word": "茶百道上市",
+      "onboard_time": 1713837858,
+      "rank": 5,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 815652,
       "num": 815652,
       "word": "黄金白银集体大跌",
@@ -7608,6 +7624,14 @@
       "word": "63岁阿姨健身8年身材如少女",
       "onboard_time": 1712799438,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757738,
+      "num": 757738,
+      "word": "辅导员回应多地高校禁止学生挂床帘",
+      "onboard_time": 1713834259,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -10937,6 +10961,14 @@
       "onboard_time": 1712317758,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 601384,
+      "num": 601384,
+      "word": "于东来称去年计划挣2000万结果赚了1.4亿",
+      "onboard_time": 1713835641,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 600544,
@@ -14939,14 +14971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 482226,
-      "num": 482226,
-      "word": "辅导员回应多地高校禁止学生挂床帘",
-      "onboard_time": 1713834259,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 482096,
       "num": 482096,
       "word": "大侦探",
@@ -15257,6 +15281,22 @@
       "onboard_time": 1713242299,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 475909,
+      "num": 475909,
+      "word": "2024爱奇艺未来片单",
+      "onboard_time": 1713835759,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 475555,
+      "num": 475555,
+      "word": "孙颖莎世排第一8300分",
+      "onboard_time": 1713835099,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 474687,
@@ -16587,6 +16627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 444456,
+      "num": 444456,
+      "word": "面馆老板1天卖100碗刚够交房租",
+      "onboard_time": 1713835998,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444205,
       "num": 444205,
       "word": "老人敞开自家古宅供免费参观被爹味说教",
@@ -16792,6 +16840,14 @@
       "word": "海仁表白",
       "onboard_time": 1713012859,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 439996,
+      "num": 439996,
+      "word": "狐妖小红娘月红篇涂山万象海报",
+      "onboard_time": 1713838638,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -17955,14 +18011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 413642,
-      "num": 413642,
-      "word": "多地高校禁止学生挂床帘",
-      "onboard_time": 1713835398,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 413441,
       "num": 305622,
       "word": "男朋友加了我妈微信",
@@ -18791,6 +18839,14 @@
       "num": 287172,
       "word": "7天戒掉了熬夜让自己6点起床",
       "onboard_time": 1712746759,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 395176,
+      "num": 304370,
+      "word": "普通女孩三个月的爆改之路",
+      "onboard_time": 1713836838,
       "rank": 20,
       "category": "情感"
     },
@@ -24316,7 +24372,7 @@
     },
     {
       "raw_hot": 300843,
-      "num": 472760,
+      "num": 486633,
       "word": "大熊猫北辰把特供乒乓球给吃了",
       "onboard_time": 1713813012,
       "rank": 47,
@@ -24489,6 +24545,14 @@
       "onboard_time": 1712810180,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299209,
+      "num": 299209,
+      "word": "一条小团团斗鱼直播间还在",
+      "onboard_time": 1713836478,
+      "rank": 21,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 299076,
@@ -25009,14 +25073,6 @@
       "onboard_time": 1712707159,
       "rank": 25,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 291801,
-      "num": 291801,
-      "word": "孙颖莎世排第一8300分",
-      "onboard_time": 1713835099,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 291739,
@@ -26755,6 +26811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270165,
+      "num": 270165,
+      "word": "大梦归离群像海报",
+      "onboard_time": 1713838338,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269965,
       "num": 269965,
       "word": "港媒曝C罗或将赴香港比赛",
@@ -26921,6 +26985,14 @@
       "onboard_time": 1712048300,
       "rank": 25,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 268080,
+      "num": 268080,
+      "word": "大批斗鱼头部主播停播",
+      "onboard_time": 1713838997,
+      "rank": 23,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 267953,
@@ -27393,6 +27465,14 @@
       "onboard_time": 1712712198,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 262352,
+      "num": 262352,
+      "word": "中医建议一定要保护好眼睛",
+      "onboard_time": 1713837559,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 262282,
@@ -28329,6 +28409,14 @@
       "onboard_time": 1713665778,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253515,
+      "num": 253515,
+      "word": "上海惊现阿尼亚cos巨人",
+      "onboard_time": 1713837258,
+      "rank": 26,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 253467,
@@ -31259,6 +31347,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 230267,
+      "num": 230267,
+      "word": "陈少杰被指或获刑5年",
+      "onboard_time": 1713838758,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230246,
       "num": 230246,
       "word": "浪姐二公路透",
@@ -31465,14 +31561,6 @@
       "onboard_time": 1711979602,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228525,
-      "num": 228525,
-      "word": "于东来称去年计划挣2000万结果赚了1.4亿",
-      "onboard_time": 1713835641,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 228486,
@@ -31753,6 +31841,14 @@
       "onboard_time": 1712630118,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 226630,
+      "num": 226630,
+      "word": "肝不好可能有一黄二红三黑",
+      "onboard_time": 1713838518,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 226519,
@@ -34243,14 +34339,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 210225,
-      "num": 210225,
-      "word": "2024爱奇艺未来片单",
-      "onboard_time": 1713835759,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210215,
       "num": 210215,
       "word": "泼水节警察叔叔和他没满月的小水枪",
@@ -35499,6 +35587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204924,
+      "num": 204924,
+      "word": "仙台有树首发特辑",
+      "onboard_time": 1713838278,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204810,
       "num": 204810,
       "word": "汉密尔顿抵达上海",
@@ -36465,6 +36561,14 @@
       "onboard_time": 1713524357,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201504,
+      "num": 201504,
+      "word": "田嘉瑞首部男二剧",
+      "onboard_time": 1713835818,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 201500,
@@ -41419,14 +41523,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 184021,
-      "num": 184021,
-      "word": "田嘉瑞首部男二剧",
-      "onboard_time": 1713835818,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183930,
       "num": 143029,
       "word": "北影节评委",
@@ -42219,14 +42315,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 180682,
-      "num": 180682,
-      "word": "面馆老板1天卖100碗刚够交房租",
-      "onboard_time": 1713835998,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180675,
       "num": 180675,
       "word": "tarzan确定加入wbg",
@@ -43009,6 +43097,14 @@
       "onboard_time": 1712766795,
       "rank": 38,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 176685,
+      "num": 176685,
+      "word": "250名跨境裸聊敲诈电诈嫌犯移交我国",
+      "onboard_time": 1713836959,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176652,
@@ -45083,6 +45179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167688,
+      "num": 167688,
+      "word": "国防教育法拟修订",
+      "onboard_time": 1713839058,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 167604,
       "num": 167604,
       "word": "NBA",
@@ -46425,6 +46529,14 @@
       "onboard_time": 1713681258,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161918,
+      "num": 161918,
+      "word": "什么是讨坏型人格",
+      "onboard_time": 1713836778,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 161915,
@@ -48721,6 +48833,14 @@
       "onboard_time": 1713004757,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152984,
+      "num": 152984,
+      "word": "广州塔是怎么做到又科幻又仙的",
+      "onboard_time": 1713837439,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152960,
@@ -51443,6 +51563,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 143397,
+      "num": 143397,
+      "word": "当别人问你读书有什么用时",
+      "onboard_time": 1713838878,
+      "rank": 48,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 143376,
       "num": 143376,
       "word": "WBG对战iG战歌起",
@@ -51641,6 +51769,14 @@
       "onboard_time": 1712058620,
       "rank": 41,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 142622,
+      "num": 142622,
+      "word": "四方馆剧照",
+      "onboard_time": 1713837077,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 142600,

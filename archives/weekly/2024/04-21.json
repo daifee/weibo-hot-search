@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713836077582,
+  "endTime": 1713839292763,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2630136,
+      "num": 1582219,
+      "word": "PDD",
+      "onboard_time": 1713834858,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 2517712,
       "num": 2517712,
       "word": "台湾1小时内发生10起地震",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 2259934,
-      "num": 472550,
+      "num": 481797,
       "word": "一条小团团",
       "onboard_time": 1713830117,
       "rank": 10,
@@ -121,6 +129,14 @@
       "onboard_time": 1713758058,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2030345,
+      "num": 2030345,
+      "word": "多地高校禁止学生挂床帘",
+      "onboard_time": 1713835398,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1980394,
@@ -169,14 +185,6 @@
       "onboard_time": 1713743537,
       "rank": 0,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1582219,
-      "num": 1582219,
-      "word": "PDD",
-      "onboard_time": 1713834858,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 1537487,
@@ -691,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 816468,
+      "num": 816468,
+      "word": "茶百道上市",
+      "onboard_time": 1713837858,
+      "rank": 5,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 815652,
       "num": 815652,
       "word": "黄金白银集体大跌",
@@ -729,6 +745,14 @@
       "onboard_time": 1713625098,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 757738,
+      "num": 757738,
+      "word": "辅导员回应多地高校禁止学生挂床帘",
+      "onboard_time": 1713834259,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 739668,
@@ -1089,6 +1113,14 @@
       "onboard_time": 1713667997,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 601384,
+      "num": 601384,
+      "word": "于东来称去年计划挣2000万结果赚了1.4亿",
+      "onboard_time": 1713835641,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 598677,
@@ -1579,14 +1611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 482226,
-      "num": 482226,
-      "word": "辅导员回应多地高校禁止学生挂床帘",
-      "onboard_time": 1713834259,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 481763,
       "num": 481763,
       "word": "美国国务卿布林肯将访华",
@@ -1633,6 +1657,22 @@
       "onboard_time": 1713789138,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 475909,
+      "num": 475909,
+      "word": "2024爱奇艺未来片单",
+      "onboard_time": 1713835759,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 475555,
+      "num": 475555,
+      "word": "孙颖莎世排第一8300分",
+      "onboard_time": 1713835099,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 473142,
@@ -1771,6 +1811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444456,
+      "num": 444456,
+      "word": "面馆老板1天卖100碗刚够交房租",
+      "onboard_time": 1713835998,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442630,
       "num": 442630,
       "word": "Mari 退赛",
@@ -1792,6 +1840,14 @@
       "word": "哈尔滨一九四四收视率",
       "onboard_time": 1713707300,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 439996,
+      "num": 439996,
+      "word": "狐妖小红娘月红篇涂山万象海报",
+      "onboard_time": 1713838638,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -1915,14 +1971,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 413642,
-      "num": 413642,
-      "word": "多地高校禁止学生挂床帘",
-      "onboard_time": 1713835398,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 411302,
       "num": 411302,
       "word": "赵丽颖重庆逛吃vlog",
@@ -1993,6 +2041,14 @@
       "onboard_time": 1713757818,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 395176,
+      "num": 304370,
+      "word": "普通女孩三个月的爆改之路",
+      "onboard_time": 1713836838,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 394138,
@@ -2476,7 +2532,7 @@
     },
     {
       "raw_hot": 300843,
-      "num": 472760,
+      "num": 486633,
       "word": "大熊猫北辰把特供乒乓球给吃了",
       "onboard_time": 1713813012,
       "rank": 47,
@@ -2489,6 +2545,14 @@
       "onboard_time": 1713834378,
       "rank": 30,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 299209,
+      "num": 299209,
+      "word": "一条小团团斗鱼直播间还在",
+      "onboard_time": 1713836478,
+      "rank": 21,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 298792,
@@ -2529,14 +2593,6 @@
       "onboard_time": 1713756197,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 291801,
-      "num": 291801,
-      "word": "孙颖莎世排第一8300分",
-      "onboard_time": 1713835099,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 291211,
@@ -2691,12 +2747,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 270165,
+      "num": 270165,
+      "word": "大梦归离群像海报",
+      "onboard_time": 1713838338,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269761,
       "num": 269761,
       "word": "李现微博头像是两部剧角色",
       "onboard_time": 1713760700,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268080,
+      "num": 268080,
+      "word": "大批斗鱼头部主播停播",
+      "onboard_time": 1713838997,
+      "rank": 23,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 267751,
@@ -2745,6 +2817,14 @@
       "onboard_time": 1713613818,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262352,
+      "num": 262352,
+      "word": "中医建议一定要保护好眼睛",
+      "onboard_time": 1713837559,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 262282,
@@ -2865,6 +2945,14 @@
       "onboard_time": 1713665778,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253515,
+      "num": 253515,
+      "word": "上海惊现阿尼亚cos巨人",
+      "onboard_time": 1713837258,
+      "rank": 26,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 253467,
@@ -3203,6 +3291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230267,
+      "num": 230267,
+      "word": "陈少杰被指或获刑5年",
+      "onboard_time": 1713838758,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230223,
       "num": 230223,
       "word": "李溪芮尚雯婕终于坐一起了",
@@ -3235,14 +3331,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 228525,
-      "num": 228525,
-      "word": "于东来称去年计划挣2000万结果赚了1.4亿",
-      "onboard_time": 1713835641,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 228277,
       "num": 228277,
       "word": "JYP发言",
@@ -3265,6 +3353,14 @@
       "onboard_time": 1713794840,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 226630,
+      "num": 226630,
+      "word": "肝不好可能有一黄二红三黑",
+      "onboard_time": 1713838518,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 226358,
@@ -3507,14 +3603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 210225,
-      "num": 210225,
-      "word": "2024爱奇艺未来片单",
-      "onboard_time": 1713835759,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209849,
       "num": 209849,
       "word": "刘宪华黄子弘凡张元英转圈battle",
@@ -3675,6 +3763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204924,
+      "num": 204924,
+      "word": "仙台有树首发特辑",
+      "onboard_time": 1713838278,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204791,
       "num": 204791,
       "word": "还没毕业就拿到百万offer",
@@ -3769,6 +3865,14 @@
       "onboard_time": 1713665478,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201504,
+      "num": 201504,
+      "word": "田嘉瑞首部男二剧",
+      "onboard_time": 1713835818,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 201446,
@@ -4307,14 +4411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184021,
-      "num": 184021,
-      "word": "田嘉瑞首部男二剧",
-      "onboard_time": 1713835818,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183904,
       "num": 183904,
       "word": "张真源下班回头和粉丝告别",
@@ -4401,14 +4497,6 @@
       "onboard_time": 1713766217,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180682,
-      "num": 180682,
-      "word": "面馆老板1天卖100碗刚够交房租",
-      "onboard_time": 1713835998,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180617,
@@ -4545,6 +4633,14 @@
       "onboard_time": 1713689839,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176685,
+      "num": 176685,
+      "word": "250名跨境裸聊敲诈电诈嫌犯移交我国",
+      "onboard_time": 1713836959,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176531,
@@ -4763,6 +4859,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 167688,
+      "num": 167688,
+      "word": "国防教育法拟修订",
+      "onboard_time": 1713839058,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 167301,
       "num": 167301,
       "word": "seventeen克拉盘",
@@ -4937,6 +5041,14 @@
       "onboard_time": 1713681258,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161918,
+      "num": 161918,
+      "word": "什么是讨坏型人格",
+      "onboard_time": 1713836778,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 161915,
@@ -5243,6 +5355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152984,
+      "num": 152984,
+      "word": "广州塔是怎么做到又科幻又仙的",
+      "onboard_time": 1713837439,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152526,
       "num": 152526,
       "word": "自拍和他拍的哪个才是真实的自己",
@@ -5547,12 +5667,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 143397,
+      "num": 143397,
+      "word": "当别人问你读书有什么用时",
+      "onboard_time": 1713838878,
+      "rank": 48,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 143069,
       "num": 143069,
       "word": "HYBE内斗",
       "onboard_time": 1713781818,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142622,
+      "num": 142622,
+      "word": "四方馆剧照",
+      "onboard_time": 1713837077,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 142292,
