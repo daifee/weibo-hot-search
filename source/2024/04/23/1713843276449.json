@@ -1,0 +1,410 @@
+{
+  "runTime": 1713843276449,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2155662,
+        "num": 2155662,
+        "word": "多地高校禁止学生挂床帘",
+        "onboard_time": 1713835398,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947380,
+        "num": 947380,
+        "word": "大批斗鱼头部主播停播",
+        "onboard_time": 1713838997,
+        "rank": 1,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 12240,
+        "num": 899345,
+        "word": "第29个世界读书日",
+        "onboard_time": 1713843138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1094890,
+        "num": 898843,
+        "word": "PDD",
+        "onboard_time": 1713834858,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1147912,
+        "num": 894271,
+        "word": "茶百道上市",
+        "onboard_time": 1713837858,
+        "rank": 4,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 885381,
+        "num": 885381,
+        "word": "李闽轩 北电艺考",
+        "onboard_time": 1713841578,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1041507,
+        "num": 852129,
+        "word": "茶百道上市首日跌超10%",
+        "onboard_time": 1713839960,
+        "rank": 6,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 791628,
+        "num": 791628,
+        "word": "狐妖小红娘月红篇涂山万象海报",
+        "onboard_time": 1713838638,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477296,
+        "num": 477296,
+        "word": "莫言称每次刷完短视频都会批评自己",
+        "onboard_time": 1713831739,
+        "rank": 8,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 173363,
+        "num": 444764,
+        "word": "大熊猫北辰把特供乒乓球给吃了",
+        "onboard_time": 1713813012,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2939363,
+        "num": 444692,
+        "word": "一条小团团确认被捕",
+        "onboard_time": 1713828375,
+        "rank": 10,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 54271,
+        "num": 442208,
+        "word": "茶百道港交所上市",
+        "onboard_time": 1713840257,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 440689,
+        "num": 440689,
+        "word": "NewJeans和父母全力支持闵熙珍",
+        "onboard_time": 1713843197,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483358,
+        "num": 439655,
+        "word": "一条小团团",
+        "onboard_time": 1713830117,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 438501,
+        "num": 438501,
+        "word": "肝不好可能有一黄二红三黑",
+        "onboard_time": 1713838518,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 437867,
+        "num": 437867,
+        "word": "PDD斗鱼已停播超5个月",
+        "onboard_time": 1713842239,
+        "rank": 15,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 115104,
+        "num": 405265,
+        "word": "华为Pura70星芒高定款",
+        "onboard_time": 1713840797,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 403284,
+        "num": 403284,
+        "word": "于东来称去年计划挣2000万结果赚了1.4亿",
+        "onboard_time": 1713835641,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 400789,
+        "num": 400789,
+        "word": "于正海报审美",
+        "onboard_time": 1713842418,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396965,
+        "num": 396965,
+        "word": "生万物阵容官宣",
+        "onboard_time": 1713839657,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 818632,
+        "num": 385648,
+        "word": "薛之谦演唱会一个人来的女主发声",
+        "onboard_time": 1713830478,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 329013,
+        "num": 329013,
+        "word": "杨幂杀回仙侠剧了",
+        "onboard_time": 1713843018,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326010,
+        "num": 326010,
+        "word": "辅导员回应多地高校禁止学生挂床帘",
+        "onboard_time": 1713834259,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303619,
+        "num": 303619,
+        "word": "深圳天气",
+        "onboard_time": 1713832340,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293043,
+        "num": 293043,
+        "word": "小团团公司近期仍发布游戏",
+        "onboard_time": 1713841998,
+        "rank": 24,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 272917,
+        "num": 272917,
+        "word": "许凯身上痒就去洗澡",
+        "onboard_time": 1713827956,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259916,
+        "num": 259916,
+        "word": "一条小团团斗鱼直播间还在",
+        "onboard_time": 1713836478,
+        "rank": 26,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 257475,
+        "num": 257475,
+        "word": "TF三代 门面",
+        "onboard_time": 1713839478,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247238,
+        "num": 247238,
+        "word": "中医建议一定要保护好眼睛",
+        "onboard_time": 1713837559,
+        "rank": 28,
+        "category": "综艺,健康医疗"
+      },
+      {
+        "raw_hot": 182937,
+        "num": 246711,
+        "word": "台湾花莲又发5.9级地震",
+        "onboard_time": 1713796821,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179381,
+        "num": 246516,
+        "word": "国防教育法拟修订",
+        "onboard_time": 1713839058,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 246488,
+        "num": 246488,
+        "word": "牙神经就这么拔出来了",
+        "onboard_time": 1713843138,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242125,
+        "num": 242125,
+        "word": "长期不吃晚餐身体会发生什么",
+        "onboard_time": 1713841757,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 239995,
+        "num": 239995,
+        "word": "补气血是有顺序的",
+        "onboard_time": 1713842118,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 224137,
+        "num": 224137,
+        "word": "孙颖莎世排第一8300分",
+        "onboard_time": 1713835099,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238798,
+        "num": 222699,
+        "word": "2024爱奇艺未来片单",
+        "onboard_time": 1713835759,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213200,
+        "num": 213200,
+        "word": "TWS 男版NewJeans",
+        "onboard_time": 1713839419,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208856,
+        "num": 208856,
+        "word": "配音",
+        "onboard_time": 1713842839,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207744,
+        "num": 207744,
+        "word": "泰勒斯威夫特药房",
+        "onboard_time": 1713842958,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207602,
+        "num": 207602,
+        "word": "赚了一个亏了一个平了一个",
+        "onboard_time": 1713800177,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204040,
+        "num": 204040,
+        "word": "王者荣耀",
+        "onboard_time": 1713842418,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190890,
+        "num": 190890,
+        "word": "一条小团团曾于1月27日宣布停播",
+        "onboard_time": 1713840197,
+        "rank": 41,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 187430,
+        "num": 187430,
+        "word": "交通银行app崩了",
+        "onboard_time": 1713843138,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184527,
+        "num": 184527,
+        "word": "金饰价格一夜跌14元每克",
+        "onboard_time": 1713843018,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177707,
+        "num": 177707,
+        "word": "湖人vs掘金",
+        "onboard_time": 1713841638,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176137,
+        "num": 176137,
+        "word": "詹姆斯长传艺术家",
+        "onboard_time": 1713843138,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173493,
+        "num": 173493,
+        "word": "蒲熠星知道麦家被17次退稿的反应",
+        "onboard_time": 1713843197,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172703,
+        "num": 172703,
+        "word": "郑乃馨承认恋情",
+        "onboard_time": 1713786198,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169970,
+        "num": 169970,
+        "word": "普通女孩三个月的爆改之路",
+        "onboard_time": 1713836838,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168116,
+        "num": 168116,
+        "word": "杨幂龚俊身高差",
+        "onboard_time": 1713843259,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}

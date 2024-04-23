@@ -1,6 +1,6 @@
 {
   "startTime": 1713802938860,
-  "endTime": 1713842344294,
+  "endTime": 1713843276449,
   "band_list": [
     {
       "raw_hot": 4471317,
@@ -83,12 +83,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1041507,
+      "num": 884039,
+      "word": "茶百道上市首日跌超10%",
+      "onboard_time": 1713839960,
+      "rank": 4,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 1039581,
       "num": 447796,
       "word": "郑乃馨承认恋情",
       "onboard_time": 1713786198,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 947380,
+      "num": 947380,
+      "word": "大批斗鱼头部主播停播",
+      "onboard_time": 1713838997,
+      "rank": 23,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 894637,
@@ -99,12 +115,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 884039,
-      "num": 884039,
-      "word": "茶百道上市首日跌超10%",
-      "onboard_time": 1713839960,
-      "rank": 4,
-      "category": "美食,财经"
+      "raw_hot": 885381,
+      "num": 885381,
+      "word": "李闽轩 北电艺考",
+      "onboard_time": 1713841578,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 815652,
@@ -121,14 +137,6 @@
       "onboard_time": 1713778457,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 794362,
-      "num": 794362,
-      "word": "大批斗鱼头部主播停播",
-      "onboard_time": 1713838997,
-      "rank": 23,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 771184,
@@ -299,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440689,
+      "num": 440689,
+      "word": "NewJeans和父母全力支持闵熙珍",
+      "onboard_time": 1713843197,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 437867,
+      "num": 437867,
+      "word": "PDD斗鱼已停播超5个月",
+      "onboard_time": 1713842239,
+      "rank": 27,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 429113,
       "num": 429113,
       "word": "蝴蝶少年",
@@ -315,20 +339,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 408103,
-      "num": 408103,
-      "word": "李闽轩 北电艺考",
-      "onboard_time": 1713841578,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 401447,
       "num": 401447,
       "word": "交警部门回应天津街头两名交警互殴",
       "onboard_time": 1713829518,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400789,
+      "num": 400789,
+      "word": "于正海报审美",
+      "onboard_time": 1713842418,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 395176,
@@ -376,6 +400,14 @@
       "word": "难哄 大事很妙",
       "onboard_time": 1713786138,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 329013,
+      "num": 329013,
+      "word": "杨幂杀回仙侠剧了",
+      "onboard_time": 1713843018,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -467,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293043,
+      "num": 293043,
+      "word": "小团团公司近期仍发布游戏",
+      "onboard_time": 1713841998,
+      "rank": 31,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 286819,
       "num": 286819,
       "word": "陈少杰被指或获刑5年",
@@ -539,20 +579,36 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 245765,
-      "num": 245765,
-      "word": "PDD斗鱼已停播超5个月",
-      "onboard_time": 1713842239,
-      "rank": 27,
-      "category": "游戏,网红"
+      "raw_hot": 246488,
+      "num": 246488,
+      "word": "牙神经就这么拔出来了",
+      "onboard_time": 1713843138,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 245032,
-      "num": 245032,
+      "num": 246516,
       "word": "国防教育法拟修订",
       "onboard_time": 1713839058,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 242125,
+      "num": 242125,
+      "word": "长期不吃晚餐身体会发生什么",
+      "onboard_time": 1713841757,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 239995,
+      "num": 239995,
+      "word": "补气血是有顺序的",
+      "onboard_time": 1713842118,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 237554,
@@ -577,14 +633,6 @@
       "onboard_time": 1713833061,
       "rank": 29,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 224435,
-      "num": 224435,
-      "word": "小团团公司近期仍发布游戏",
-      "onboard_time": 1713841998,
-      "rank": 31,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 221919,
@@ -635,12 +683,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208856,
+      "num": 208856,
+      "word": "配音",
+      "onboard_time": 1713842839,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208736,
       "num": 208736,
       "word": "狐妖小红娘月红篇结缘预告",
       "onboard_time": 1713841518,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207744,
+      "num": 207744,
+      "word": "泰勒斯威夫特药房",
+      "onboard_time": 1713842958,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 207571,
@@ -665,6 +729,14 @@
       "onboard_time": 1713838278,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204040,
+      "num": 204040,
+      "word": "王者荣耀",
+      "onboard_time": 1713842418,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 201504,
@@ -739,6 +811,22 @@
       "category": "读书作家,教育"
     },
     {
+      "raw_hot": 187430,
+      "num": 187430,
+      "word": "交通银行app崩了",
+      "onboard_time": 1713843138,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 184527,
+      "num": 184527,
+      "word": "金饰价格一夜跌14元每克",
+      "onboard_time": 1713843018,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 183510,
       "num": 183510,
       "word": "台湾花莲县发生6.0级地震",
@@ -763,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176137,
+      "num": 176137,
+      "word": "詹姆斯长传艺术家",
+      "onboard_time": 1713843138,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175921,
       "num": 175921,
       "word": "200元一晚的荷兰民宿",
@@ -779,12 +875,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173493,
+      "num": 173493,
+      "word": "蒲熠星知道麦家被17次退稿的反应",
+      "onboard_time": 1713843197,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173012,
       "num": 173012,
       "word": "尼克斯逆转76人",
       "onboard_time": 1713839718,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168116,
+      "num": 168116,
+      "word": "杨幂龚俊身高差",
+      "onboard_time": 1713843259,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 167175,
@@ -825,14 +937,6 @@
       "onboard_time": 1713832699,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162421,
-      "num": 162421,
-      "word": "补气血是有顺序的",
-      "onboard_time": 1713842118,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 161995,
@@ -995,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115104,
+      "num": 405265,
+      "word": "华为Pura70星芒高定款",
+      "onboard_time": 1713840797,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 112541,
       "num": 112541,
       "word": "含糖量很高的暧昧期聊天",
@@ -1041,14 +1153,6 @@
       "onboard_time": 1713800177,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94936,
-      "num": 316529,
-      "word": "华为Pura70星芒高定款",
-      "onboard_time": 1713840797,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 93850,
@@ -1211,20 +1315,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54271,
+      "num": 581552,
+      "word": "茶百道港交所上市",
+      "onboard_time": 1713840257,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 47215,
       "num": 47215,
       "word": "普拉提是减肥纠错本吧",
       "onboard_time": 1713819851,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 46824,
-      "num": 581552,
-      "word": "茶百道港交所上市",
-      "onboard_time": 1713840257,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 41290,
@@ -1313,6 +1417,14 @@
       "onboard_time": 1713818470,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 12240,
+      "num": 899345,
+      "word": "第29个世界读书日",
+      "onboard_time": 1713843138,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11546,

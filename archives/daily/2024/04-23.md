@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/23 00:22:18 ~ 2024/04/23 11:19:04
+本榜单时间：2024/04/23 00:22:18 ~ 2024/04/23 11:34:36
 </p>
 </blockquote>
 <p>
@@ -75,8 +75,20 @@ PDD（热度：2630136）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E7%99%BE%E9%81%93%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E8%B7%8C%E8%B6%8510%25%23" target="weibo">
+茶百道上市首日跌超10%（热度：1041507）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B9%83%E9%A6%A8%E6%89%BF%E8%AE%A4%E6%81%8B%E6%83%85%23" target="weibo">
 郑乃馨承认恋情（热度：1039581）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9%E6%96%97%E9%B1%BC%E5%A4%B4%E9%83%A8%E4%B8%BB%E6%92%AD%E5%81%9C%E6%92%AD%23" target="weibo">
+大批斗鱼头部主播停播（热度：947380）
 </a>
 </li>
 
@@ -87,8 +99,8 @@ PDD（热度：2630136）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E7%99%BE%E9%81%93%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E8%B7%8C%E8%B6%8510%25%23" target="weibo">
-茶百道上市首日跌超10%（热度：884039）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%97%BD%E8%BD%A9%20%E5%8C%97%E7%94%B5%E8%89%BA%E8%80%83%23" target="weibo">
+李闽轩 北电艺考（热度：885381）
 </a>
 </li>
 
@@ -101,12 +113,6 @@ PDD（热度：2630136）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%8A%B1%E8%8E%B2%E6%B5%B7%E5%9F%9F5.3%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 台湾花莲海域5.3级地震（热度：810885）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9%E6%96%97%E9%B1%BC%E5%A4%B4%E9%83%A8%E4%B8%BB%E6%92%AD%E5%81%9C%E6%92%AD%23" target="weibo">
-大批斗鱼头部主播停播（热度：794362）
 </a>
 </li>
 
@@ -237,6 +243,18 @@ PDD（热度：2630136）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23NewJeans%E5%92%8C%E7%88%B6%E6%AF%8D%E5%85%A8%E5%8A%9B%E6%94%AF%E6%8C%81%E9%97%B5%E7%86%99%E7%8F%8D%23" target="weibo">
+NewJeans和父母全力支持闵熙珍（热度：440689）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23PDD%E6%96%97%E9%B1%BC%E5%B7%B2%E5%81%9C%E6%92%AD%E8%B6%855%E4%B8%AA%E6%9C%88%23" target="weibo">
+PDD斗鱼已停播超5个月（热度：437867）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9D%B4%E8%9D%B6%E5%B0%91%E5%B9%B4%23" target="weibo">
 蝴蝶少年（热度：429113）
 </a>
@@ -249,14 +267,14 @@ iPhone16或取消实体音量键电源键（热度：421891）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%97%BD%E8%BD%A9%20%E5%8C%97%E7%94%B5%E8%89%BA%E8%80%83%23" target="weibo">
-李闽轩 北电艺考（热度：408103）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E5%A4%A9%E6%B4%A5%E8%A1%97%E5%A4%B4%E4%B8%A4%E5%90%8D%E4%BA%A4%E8%AD%A6%E4%BA%92%E6%AE%B4%23" target="weibo">
+交警部门回应天津街头两名交警互殴（热度：401447）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E5%A4%A9%E6%B4%A5%E8%A1%97%E5%A4%B4%E4%B8%A4%E5%90%8D%E4%BA%A4%E8%AD%A6%E4%BA%92%E6%AE%B4%23" target="weibo">
-交警部门回应天津街头两名交警互殴（热度：401447）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E6%B5%B7%E6%8A%A5%E5%AE%A1%E7%BE%8E%23" target="weibo">
+于正海报审美（热度：400789）
 </a>
 </li>
 
@@ -293,6 +311,12 @@ iPhone16或取消实体音量键电源键（热度：421891）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%20%E5%A4%A7%E4%BA%8B%E5%BE%88%E5%A6%99%23" target="weibo">
 难哄 大事很妙（热度：335185）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9D%80%E5%9B%9E%E4%BB%99%E4%BE%A0%E5%89%A7%E4%BA%86%23" target="weibo">
+杨幂杀回仙侠剧了（热度：329013）
 </a>
 </li>
 
@@ -363,6 +387,12 @@ TF三代 门面（热度：327409）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9B%A2%E5%9B%A2%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E4%BB%8D%E5%8F%91%E5%B8%83%E6%B8%B8%E6%88%8F%23" target="weibo">
+小团团公司近期仍发布游戏（热度：293043）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%91%E6%9D%B0%E8%A2%AB%E6%8C%87%E6%88%96%E8%8E%B7%E5%88%915%E5%B9%B4%23" target="weibo">
 陈少杰被指或获刑5年（热度：286819）
 </a>
@@ -417,14 +447,26 @@ TWS 男版NewJeans（热度：261294）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23PDD%E6%96%97%E9%B1%BC%E5%B7%B2%E5%81%9C%E6%92%AD%E8%B6%855%E4%B8%AA%E6%9C%88%23" target="weibo">
-PDD斗鱼已停播超5个月（热度：245765）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%99%E7%A5%9E%E7%BB%8F%E5%B0%B1%E8%BF%99%E4%B9%88%E6%8B%94%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
+牙神经就这么拔出来了（热度：246488）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%98%B2%E6%95%99%E8%82%B2%E6%B3%95%E6%8B%9F%E4%BF%AE%E8%AE%A2%23" target="weibo">
 国防教育法拟修订（热度：245032）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E4%B8%8D%E5%90%83%E6%99%9A%E9%A4%90%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%23" target="weibo">
+长期不吃晚餐身体会发生什么（热度：242125）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A1%A5%E6%B0%94%E8%A1%80%E6%98%AF%E6%9C%89%E9%A1%BA%E5%BA%8F%E7%9A%84%23" target="weibo">
+补气血是有顺序的（热度：239995）
 </a>
 </li>
 
@@ -443,12 +485,6 @@ PDD斗鱼已停播超5个月（热度：245765）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E5%A4%A7%E6%B6%A86000%E4%BA%BF%E5%85%83%23" target="weibo">
 英伟达市值一夜大涨6000亿元（热度：235189）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9B%A2%E5%9B%A2%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E4%BB%8D%E5%8F%91%E5%B8%83%E6%B8%B8%E6%88%8F%23" target="weibo">
-小团团公司近期仍发布游戏（热度：224435）
 </a>
 </li>
 
@@ -489,8 +525,20 @@ HYBE获取ADOR内部文件（热度：221919）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%85%8D%E9%9F%B3%23" target="weibo">
+配音（热度：208856）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E6%9C%88%E7%BA%A2%E7%AF%87%E7%BB%93%E7%BC%98%E9%A2%84%E5%91%8A%23" target="weibo">
 狐妖小红娘月红篇结缘预告（热度：208736）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%8B%92%E6%96%AF%E5%A8%81%E5%A4%AB%E7%89%B9%E8%8D%AF%E6%88%BF%23" target="weibo">
+泰勒斯威夫特药房（热度：207744）
 </a>
 </li>
 
@@ -509,6 +557,12 @@ HYBE获取ADOR内部文件（热度：221919）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%8F%B0%E6%9C%89%E6%A0%91%E9%A6%96%E5%8F%91%E7%89%B9%E8%BE%91%23" target="weibo">
 仙台有树首发特辑（热度：204924）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23" target="weibo">
+王者荣耀（热度：204040）
 </a>
 </li>
 
@@ -567,6 +621,18 @@ WVS商店把NewJeans移除推荐位（热度：189852）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E9%80%9A%E9%93%B6%E8%A1%8Capp%E5%B4%A9%E4%BA%86%23" target="weibo">
+交通银行app崩了（热度：187430）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E4%B8%80%E5%A4%9C%E8%B7%8C14%E5%85%83%E6%AF%8F%E5%85%8B%23" target="weibo">
+金饰价格一夜跌14元每克（热度：184527）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%8A%B1%E8%8E%B2%E5%8E%BF%E5%8F%91%E7%94%9F6.0%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 台湾花莲县发生6.0级地震（热度：183510）
 </a>
@@ -585,6 +651,12 @@ WVS商店把NewJeans移除推荐位（热度：189852）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E9%95%BF%E4%BC%A0%E8%89%BA%E6%9C%AF%E5%AE%B6%23" target="weibo">
+詹姆斯长传艺术家（热度：176137）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23200%E5%85%83%E4%B8%80%E6%99%9A%E7%9A%84%E8%8D%B7%E5%85%B0%E6%B0%91%E5%AE%BF%23" target="weibo">
 200元一晚的荷兰民宿（热度：175921）
 </a>
@@ -597,8 +669,20 @@ WVS商店把NewJeans移除推荐位（热度：189852）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%92%B2%E7%86%A0%E6%98%9F%E7%9F%A5%E9%81%93%E9%BA%A6%E5%AE%B6%E8%A2%AB17%E6%AC%A1%E9%80%80%E7%A8%BF%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
+蒲熠星知道麦家被17次退稿的反应（热度：173493）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E5%85%8B%E6%96%AF%E9%80%86%E8%BD%AC76%E4%BA%BA%23" target="weibo">
 尼克斯逆转76人（热度：173012）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E9%BE%9A%E4%BF%8A%E8%BA%AB%E9%AB%98%E5%B7%AE%23" target="weibo">
+杨幂龚俊身高差（热度：168116）
 </a>
 </li>
 
@@ -629,12 +713,6 @@ TF家族三代出道人数（热度：167026）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%B4%81%20%E4%BA%BA%E6%9D%80%E9%9D%92%E6%95%85%E4%BA%8B%E4%B8%8D%E6%9D%80%E9%9D%92%23" target="weibo">
 徐梦洁 人杀青故事不杀青（热度：162872）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A1%A5%E6%B0%94%E8%A1%80%E6%98%AF%E6%9C%89%E9%A1%BA%E5%BA%8F%E7%9A%84%23" target="weibo">
-补气血是有顺序的（热度：162421）
 </a>
 </li>
 
@@ -759,6 +837,12 @@ hybe或将对闵熙珍采取法律措施（热度：152139）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAPura70%E6%98%9F%E8%8A%92%E9%AB%98%E5%AE%9A%E6%AC%BE%23" target="weibo">
+华为Pura70星芒高定款（热度：115104）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%AB%E7%B3%96%E9%87%8F%E5%BE%88%E9%AB%98%E7%9A%84%E6%9A%A7%E6%98%A7%E6%9C%9F%E8%81%8A%E5%A4%A9%23" target="weibo">
 含糖量很高的暧昧期聊天（热度：112541）
 </a>
@@ -791,12 +875,6 @@ hybe或将对闵熙珍采取法律措施（热度：152139）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E4%BD%93%E6%80%81%23" target="weibo">
 翟潇闻体态（热度：97889）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAPura70%E6%98%9F%E8%8A%92%E9%AB%98%E5%AE%9A%E6%AC%BE%23" target="weibo">
-华为Pura70星芒高定款（热度：94936）
 </a>
 </li>
 
@@ -921,14 +999,14 @@ AC米兰1比2国际米兰（热度：60579）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E6%8B%89%E6%8F%90%E6%98%AF%E5%87%8F%E8%82%A5%E7%BA%A0%E9%94%99%E6%9C%AC%E5%90%A7%23" target="weibo">
-普拉提是减肥纠错本吧（热度：47215）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E7%99%BE%E9%81%93%E6%B8%AF%E4%BA%A4%E6%89%80%E4%B8%8A%E5%B8%82%23" target="weibo">
+茶百道港交所上市（热度：54271）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E7%99%BE%E9%81%93%E6%B8%AF%E4%BA%A4%E6%89%80%E4%B8%8A%E5%B8%82%23" target="weibo">
-茶百道港交所上市（热度：46824）
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E6%8B%89%E6%8F%90%E6%98%AF%E5%87%8F%E8%82%A5%E7%BA%A0%E9%94%99%E6%9C%AC%E5%90%A7%23" target="weibo">
+普拉提是减肥纠错本吧（热度：47215）
 </a>
 </li>
 
@@ -995,6 +1073,12 @@ AC米兰1比2国际米兰（热度：60579）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E8%A1%97%E5%A4%B4%E7%9A%84%E9%A4%90%E5%85%B7%23" target="weibo">
 印度街头的餐具（热度：16473）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC29%E4%B8%AA%E4%B8%96%E7%95%8C%E8%AF%BB%E4%B9%A6%E6%97%A5%23" target="weibo">
+第29个世界读书日（热度：12240）
 </a>
 </li>
 

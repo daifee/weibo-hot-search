@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713842344294,
+  "endTime": 1713843276449,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -467,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1041507,
+      "num": 884039,
+      "word": "茶百道上市首日跌超10%",
+      "onboard_time": 1713839960,
+      "rank": 4,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 1030498,
       "num": 674732,
       "word": "张予曦越扒越有",
@@ -547,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 947380,
+      "num": 947380,
+      "word": "大批斗鱼头部主播停播",
+      "onboard_time": 1713838997,
+      "rank": 23,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 943972,
       "num": 707384,
       "word": "秦海璐在买防窥膜了",
@@ -579,12 +595,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 884039,
-      "num": 884039,
-      "word": "茶百道上市首日跌超10%",
-      "onboard_time": 1713839960,
-      "rank": 4,
-      "category": "美食,财经"
+      "raw_hot": 885381,
+      "num": 885381,
+      "word": "李闽轩 北电艺考",
+      "onboard_time": 1713841578,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 880662,
@@ -745,14 +761,6 @@
       "onboard_time": 1713703339,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 794362,
-      "num": 794362,
-      "word": "大批斗鱼头部主播停播",
-      "onboard_time": 1713838997,
-      "rank": 23,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 771184,
@@ -1883,12 +1891,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 440689,
+      "num": 440689,
+      "word": "NewJeans和父母全力支持闵熙珍",
+      "onboard_time": 1713843197,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439341,
       "num": 439341,
       "word": "胡先煦 倘若我问心有愧呢",
       "onboard_time": 1713779780,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 437867,
+      "num": 437867,
+      "word": "PDD斗鱼已停播超5个月",
+      "onboard_time": 1713842239,
+      "rank": 27,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 436773,
@@ -2011,14 +2035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 408103,
-      "num": 408103,
-      "word": "李闽轩 北电艺考",
-      "onboard_time": 1713841578,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 406380,
       "num": 406380,
       "word": "aespa正规一辑预告",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1713829518,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400789,
+      "num": 400789,
+      "word": "于正海报审美",
+      "onboard_time": 1713842418,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 396254,
@@ -2428,7 +2452,7 @@
     },
     {
       "raw_hot": 337064,
-      "num": 232739,
+      "num": 242125,
       "word": "长期不吃晚餐身体会发生什么",
       "onboard_time": 1713665778,
       "rank": 39,
@@ -2473,6 +2497,14 @@
       "onboard_time": 1713710303,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329013,
+      "num": 329013,
+      "word": "杨幂杀回仙侠剧了",
+      "onboard_time": 1713843018,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 327409,
@@ -2641,6 +2673,14 @@
       "onboard_time": 1713669078,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293043,
+      "num": 293043,
+      "word": "小团团公司近期仍发布游戏",
+      "onboard_time": 1713841998,
+      "rank": 31,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 292731,
@@ -3123,20 +3163,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 246488,
+      "num": 246488,
+      "word": "牙神经就这么拔出来了",
+      "onboard_time": 1713843138,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 246302,
       "num": 246302,
       "word": "TF三代出道人数",
       "onboard_time": 1713755059,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245765,
-      "num": 245765,
-      "word": "PDD斗鱼已停播超5个月",
-      "onboard_time": 1713842239,
-      "rank": 27,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 245536,
@@ -3164,7 +3204,7 @@
     },
     {
       "raw_hot": 245032,
-      "num": 245032,
+      "num": 246516,
       "word": "国防教育法拟修订",
       "onboard_time": 1713839058,
       "rank": 43,
@@ -3225,6 +3265,14 @@
       "onboard_time": 1713693559,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 239995,
+      "num": 239995,
+      "word": "补气血是有顺序的",
+      "onboard_time": 1713842118,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 239737,
@@ -3465,14 +3513,6 @@
       "onboard_time": 1713665537,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224435,
-      "num": 224435,
-      "word": "小团团公司近期仍发布游戏",
-      "onboard_time": 1713841998,
-      "rank": 31,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 224167,
@@ -3723,6 +3763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208856,
+      "num": 208856,
+      "word": "配音",
+      "onboard_time": 1713842839,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208736,
       "num": 208736,
       "word": "狐妖小红娘月红篇结缘预告",
@@ -3761,6 +3809,14 @@
       "onboard_time": 1713796040,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207744,
+      "num": 207744,
+      "word": "泰勒斯威夫特药房",
+      "onboard_time": 1713842958,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 207694,
@@ -3889,6 +3945,14 @@
       "onboard_time": 1713755478,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204040,
+      "num": 204040,
+      "word": "王者荣耀",
+      "onboard_time": 1713842418,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 203558,
@@ -4395,6 +4459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187430,
+      "num": 187430,
+      "word": "交通银行app崩了",
+      "onboard_time": 1713843138,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 187321,
       "num": 187321,
       "word": "春色寄情人 倒计时",
@@ -4489,6 +4561,14 @@
       "onboard_time": 1713674719,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184527,
+      "num": 184527,
+      "word": "金饰价格一夜跌14元每克",
+      "onboard_time": 1713843018,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 184389,
@@ -4747,6 +4827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176137,
+      "num": 176137,
+      "word": "詹姆斯长传艺术家",
+      "onboard_time": 1713843138,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175992,
       "num": 175992,
       "word": "本来以为迪士尼已经够美了",
@@ -4793,6 +4881,14 @@
       "onboard_time": 1713759018,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 173493,
+      "num": 173493,
+      "word": "蒲熠星知道麦家被17次退稿的反应",
+      "onboard_time": 1713843197,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 173392,
@@ -4971,6 +5067,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 168116,
+      "num": 168116,
+      "word": "杨幂龚俊身高差",
+      "onboard_time": 1713843259,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167301,
       "num": 167301,
       "word": "seventeen克拉盘",
@@ -5113,14 +5217,6 @@
       "onboard_time": 1713832699,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162421,
-      "num": 162421,
-      "word": "补气血是有顺序的",
-      "onboard_time": 1713842118,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 162412,
@@ -6531,6 +6627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115104,
+      "num": 405265,
+      "word": "华为Pura70星芒高定款",
+      "onboard_time": 1713840797,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 114781,
       "num": 114781,
       "word": "五一酒店价格",
@@ -6777,14 +6881,6 @@
       "onboard_time": 1713686178,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94936,
-      "num": 316529,
-      "word": "华为Pura70星芒高定款",
-      "onboard_time": 1713840797,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 93850,
@@ -7107,6 +7203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 54271,
+      "num": 581552,
+      "word": "茶百道港交所上市",
+      "onboard_time": 1713840257,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 53336,
       "num": 1641062,
       "word": "世界读书日开卷有益",
@@ -7193,14 +7297,6 @@
       "onboard_time": 1713622159,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 46824,
-      "num": 581552,
-      "word": "茶百道港交所上市",
-      "onboard_time": 1713840257,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 45948,
@@ -7440,6 +7536,14 @@
       "word": "一群余华托举起了铁生的摇滚梦",
       "onboard_time": 1713645250,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12240,
+      "num": 899345,
+      "word": "第29个世界读书日",
+      "onboard_time": 1713843138,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
