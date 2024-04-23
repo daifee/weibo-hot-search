@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713853514751,
+  "endTime": 1713854286447,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1868393,
+      "num": 1868393,
+      "word": "小团团或将面临3至5年刑期",
+      "onboard_time": 1713852139,
+      "rank": 1,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1820515,
       "num": 1820515,
       "word": "金饰价格一夜跌14元每克",
@@ -201,14 +209,6 @@
       "onboard_time": 1713743537,
       "rank": 0,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1591263,
-      "num": 1591263,
-      "word": "小团团或将面临3至5年刑期",
-      "onboard_time": 1713852139,
-      "rank": 1,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 1537487,
@@ -651,6 +651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 900430,
+      "num": 900430,
+      "word": "床帘 遮光",
+      "onboard_time": 1713850518,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 896580,
       "num": 896580,
       "word": "特斯拉降价",
@@ -811,14 +819,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 808240,
-      "num": 808240,
-      "word": "床帘 遮光",
-      "onboard_time": 1713850518,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 803399,
       "num": 738936,
       "word": "王曼昱状态",
@@ -833,6 +833,14 @@
       "onboard_time": 1713703339,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 788930,
+      "num": 496605,
+      "word": "女教师遭网课爆破猝死女儿决心休学",
+      "onboard_time": 1713851958,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 771184,
@@ -1257,14 +1265,6 @@
       "onboard_time": 1713667997,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 600758,
-      "num": 488728,
-      "word": "女教师遭网课爆破猝死女儿决心休学",
-      "onboard_time": 1713851958,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 598677,
@@ -1755,6 +1755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 486387,
+      "num": 486387,
+      "word": "杨幂狐妖从原声换成配音了",
+      "onboard_time": 1713850219,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 486345,
       "num": 486345,
       "word": "刘涛叫张翰姐",
@@ -1785,14 +1793,6 @@
       "onboard_time": 1713746958,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 484312,
-      "num": 484312,
-      "word": "杨幂狐妖从原声换成配音了",
-      "onboard_time": 1713850219,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 483137,
@@ -1961,6 +1961,14 @@
       "onboard_time": 1713711260,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 453255,
+      "num": 453255,
+      "word": "电视剧遮天阵容官宣",
+      "onboard_time": 1713852678,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 452973,
@@ -2339,6 +2347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 384808,
+      "num": 384808,
+      "word": "一个父亲没了软肋就不再需要底线",
+      "onboard_time": 1713852560,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 384134,
       "num": 384134,
       "word": "深圳暴雨",
@@ -2425,6 +2441,22 @@
       "onboard_time": 1713773899,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 368249,
+      "num": 299411,
+      "word": "男子车位被霸停5天一怒焊死",
+      "onboard_time": 1713850758,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365525,
+      "num": 365525,
+      "word": "金秀贤把金智媛搂怀里看剧本",
+      "onboard_time": 1713852979,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 365093,
@@ -2547,14 +2579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 348901,
-      "num": 269881,
-      "word": "男子车位被霸停5天一怒焊死",
-      "onboard_time": 1713850758,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347276,
       "num": 347276,
       "word": "杨幂民国军装",
@@ -2667,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333424,
+      "num": 333424,
+      "word": "花少导演组靠秦海璐拉群",
+      "onboard_time": 1713850398,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330380,
       "num": 330380,
       "word": "极限挑战直播",
@@ -2699,14 +2731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 325177,
-      "num": 325177,
-      "word": "花少导演组靠秦海璐拉群",
-      "onboard_time": 1713850398,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 324964,
       "num": 324964,
       "word": "HYBE官方公告",
@@ -2737,14 +2761,6 @@
       "onboard_time": 1713778218,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321391,
-      "num": 321391,
-      "word": "电视剧遮天阵容官宣",
-      "onboard_time": 1713852678,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 319470,
@@ -3107,14 +3123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 272259,
-      "num": 272259,
-      "word": "一个父亲没了软肋就不再需要底线",
-      "onboard_time": 1713852560,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 271832,
       "num": 271832,
       "word": "哪吒张勇致歉",
@@ -3185,14 +3193,6 @@
       "onboard_time": 1713651371,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 265016,
-      "num": 265016,
-      "word": "金秀贤把金智媛搂怀里看剧本",
-      "onboard_time": 1713852979,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 263911,
@@ -3312,6 +3312,14 @@
       "word": "孙颖莎眼里有光",
       "onboard_time": 1713707779,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 255663,
+      "num": 255663,
+      "word": "林高远 允许自己不完美",
+      "onboard_time": 1713852979,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -3923,6 +3931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221882,
+      "num": 532244,
+      "word": "网文作家已成90后的热门兼职",
+      "onboard_time": 1713853758,
+      "rank": 8,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 221790,
       "num": 221790,
       "word": "伪装者",
@@ -4089,6 +4105,14 @@
       "onboard_time": 1713841277,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212013,
+      "num": 212013,
+      "word": "孙子减龄式爆改87岁爷爷",
+      "onboard_time": 1713853279,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211100,
@@ -4361,14 +4385,6 @@
       "onboard_time": 1713842418,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 203663,
-      "num": 203663,
-      "word": "林高远 允许自己不完美",
-      "onboard_time": 1713852979,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 203558,
@@ -4937,6 +4953,14 @@
       "onboard_time": 1713843197,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186358,
+      "num": 186358,
+      "word": "麦家说自己爹味很重",
+      "onboard_time": 1713853639,
+      "rank": 33,
+      "category": "读书作家"
     },
     {
       "raw_hot": 186038,
@@ -5667,6 +5691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162461,
+      "num": 162461,
+      "word": "台气象部门称本轮地震可能持续1年",
+      "onboard_time": 1713850819,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162412,
       "num": 162412,
       "word": "哈尔滨一九四四下集预告",
@@ -5875,14 +5907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 156586,
-      "num": 156586,
-      "word": "台气象部门称本轮地震可能持续1年",
-      "onboard_time": 1713850819,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156547,
       "num": 156547,
       "word": "徐子未音乐节哭了",
@@ -5920,6 +5944,14 @@
       "word": "HYBE旗下Label股份占比",
       "onboard_time": 1713777138,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 155794,
+      "num": 155794,
+      "word": "HYBE闵熙珍争夺NewJeans抚养权",
+      "onboard_time": 1713853998,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -6273,14 +6305,6 @@
       "onboard_time": 1713702258,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145986,
-      "num": 145986,
-      "word": "孙子减龄式爆改87岁爷爷",
-      "onboard_time": 1713853279,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145673,
@@ -6769,6 +6793,14 @@
       "onboard_time": 1713675981,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131560,
+      "num": 131560,
+      "word": "刘涛猛夸赵昭仪",
+      "onboard_time": 1713854238,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 131547,
@@ -7707,6 +7739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 54708,
+      "num": 301399,
+      "word": "时代少年团说贵妃请接荔",
+      "onboard_time": 1713853399,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 54271,
       "num": 581552,
       "word": "茶百道港交所上市",
@@ -7889,14 +7929,6 @@
       "onboard_time": 1713806173,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 32180,
-      "num": 146154,
-      "word": "时代少年团说贵妃请接荔",
-      "onboard_time": 1713853399,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 30488,

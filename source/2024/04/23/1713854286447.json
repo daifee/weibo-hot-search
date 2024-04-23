@@ -1,0 +1,402 @@
+{
+  "runTime": 1713854286447,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2549861,
+        "num": 2549861,
+        "word": "艺考 作弊",
+        "onboard_time": 1713848959,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1868393,
+        "num": 1868393,
+        "word": "小团团或将面临3至5年刑期",
+        "onboard_time": 1713852139,
+        "rank": 1,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 900430,
+        "num": 900430,
+        "word": "床帘 遮光",
+        "onboard_time": 1713850518,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823649,
+        "num": 823649,
+        "word": "金饰价格一夜跌14元每克",
+        "onboard_time": 1713843018,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 776599,
+        "num": 776599,
+        "word": "工作人员输错号让彩民中800多万",
+        "onboard_time": 1713847821,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641958,
+        "num": 641958,
+        "word": "李闽轩 北电艺考",
+        "onboard_time": 1713841578,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542354,
+        "num": 542354,
+        "word": "原来应届毕业生身份这么值",
+        "onboard_time": 1713845180,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 221882,
+        "num": 532244,
+        "word": "网文作家已成90后的热门兼职",
+        "onboard_time": 1713853758,
+        "rank": 8,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 39659,
+        "num": 517038,
+        "word": "大熊猫北辰把特供乒乓球给吃了",
+        "onboard_time": 1713813012,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978339,
+        "num": 506248,
+        "word": "一条小团团确认被捕",
+        "onboard_time": 1713828375,
+        "rank": 10,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 788930,
+        "num": 496605,
+        "word": "女教师遭网课爆破猝死女儿决心休学",
+        "onboard_time": 1713851958,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486387,
+        "num": 486387,
+        "word": "杨幂狐妖从原声换成配音了",
+        "onboard_time": 1713850219,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477193,
+        "num": 477193,
+        "word": "多地高校禁止学生挂床帘",
+        "onboard_time": 1713835398,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453255,
+        "num": 453255,
+        "word": "电视剧遮天阵容官宣",
+        "onboard_time": 1713852678,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384808,
+        "num": 384808,
+        "word": "一个父亲没了软肋就不再需要底线",
+        "onboard_time": 1713852560,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 365525,
+        "num": 365525,
+        "word": "金秀贤把金智媛搂怀里看剧本",
+        "onboard_time": 1713852979,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337823,
+        "num": 337823,
+        "word": "斗鱼回应PDD停播161天",
+        "onboard_time": 1713843919,
+        "rank": 17,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 333424,
+        "num": 333424,
+        "word": "花少导演组靠秦海璐拉群",
+        "onboard_time": 1713850398,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54708,
+        "num": 301399,
+        "word": "时代少年团说贵妃请接荔",
+        "onboard_time": 1713853399,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 550476,
+        "num": 299648,
+        "word": "中戏表演系帅哥美女",
+        "onboard_time": 1713844158,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368249,
+        "num": 299411,
+        "word": "男子车位被霸停5天一怒焊死",
+        "onboard_time": 1713850758,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295640,
+        "num": 295640,
+        "word": "杨幂杀回仙侠剧了",
+        "onboard_time": 1713843018,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255663,
+        "num": 255663,
+        "word": "林高远 允许自己不完美",
+        "onboard_time": 1713852979,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255615,
+        "num": 255615,
+        "word": "金秀贤金智媛再度合体",
+        "onboard_time": 1713849258,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250291,
+        "num": 250291,
+        "word": "于正海报审美",
+        "onboard_time": 1713842418,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239434,
+        "num": 239434,
+        "word": "秦岚选到了谁",
+        "onboard_time": 1713851958,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223540,
+        "num": 223540,
+        "word": "蔚来给下定小米SU7消费者5000元补贴",
+        "onboard_time": 1713848240,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 217618,
+        "num": 217618,
+        "word": "小团团房管让粉丝无视相关消息",
+        "onboard_time": 1713853040,
+        "rank": 28,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 192141,
+        "num": 212441,
+        "word": "深圳已进入暴雨防御状态",
+        "onboard_time": 1713846260,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212013,
+        "num": 212013,
+        "word": "孙子减龄式爆改87岁爷爷",
+        "onboard_time": 1713853279,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205207,
+        "num": 205207,
+        "word": "詹姆斯我真的泪目了",
+        "onboard_time": 1713848659,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193755,
+        "num": 193755,
+        "word": "杨幂又缝裙子了",
+        "onboard_time": 1713849439,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186358,
+        "num": 186358,
+        "word": "麦家说自己爹味很重",
+        "onboard_time": 1713853639,
+        "rank": 33,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 184658,
+        "num": 184658,
+        "word": "唐朝诡事录之西行预告",
+        "onboard_time": 1713847579,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169650,
+        "num": 169650,
+        "word": "狐妖小红娘竹业篇片花",
+        "onboard_time": 1713846561,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166338,
+        "num": 166338,
+        "word": "2024爱奇艺未来片单",
+        "onboard_time": 1713835759,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163099,
+        "num": 163099,
+        "word": "马来西亚直升机相撞致10人死亡",
+        "onboard_time": 1713850158,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162461,
+        "num": 162461,
+        "word": "台气象部门称本轮地震可能持续1年",
+        "onboard_time": 1713850819,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157561,
+        "num": 157561,
+        "word": "穆雷绝杀湖人",
+        "onboard_time": 1713847341,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155794,
+        "num": 155794,
+        "word": "HYBE闵熙珍争夺NewJeans抚养权",
+        "onboard_time": 1713853998,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152658,
+        "num": 152658,
+        "word": "泰勒斯威夫特药房",
+        "onboard_time": 1713842958,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152249,
+        "num": 152249,
+        "word": "大梦归离首发预告",
+        "onboard_time": 1713852378,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151337,
+        "num": 151337,
+        "word": "姚志明被丈母娘吓得上蹿下跳",
+        "onboard_time": 1713849798,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147665,
+        "num": 147665,
+        "word": "周鸿祎称换车只选国产新能源",
+        "onboard_time": 1713853158,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139632,
+        "num": 139632,
+        "word": "深圳降价60%二手房曾遭炒房团围猎",
+        "onboard_time": 1713846260,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136784,
+        "num": 136784,
+        "word": "薛之谦演唱会一个人来的女主发声",
+        "onboard_time": 1713830478,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133509,
+        "num": 133509,
+        "word": "大批斗鱼头部主播停播",
+        "onboard_time": 1713838997,
+        "rank": 47,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 131560,
+        "num": 131560,
+        "word": "刘涛猛夸赵昭仪",
+        "onboard_time": 1713854238,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129756,
+        "num": 129756,
+        "word": "NewJeans和父母全力支持闵熙珍",
+        "onboard_time": 1713843197,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}
