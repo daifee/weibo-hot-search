@@ -1,0 +1,410 @@
+{
+  "runTime": 1713881827328,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3463105,
+        "num": 3463105,
+        "word": "李闽轩回应",
+        "onboard_time": 1713879380,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1283274,
+        "num": 1283274,
+        "word": "张雪峰称考上二本并不是不够努力",
+        "onboard_time": 1713877397,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 62006,
+        "num": 820951,
+        "word": "9图了解无障碍阅读",
+        "onboard_time": 1713876437,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2103783,
+        "num": 807303,
+        "word": "五一不调休就会是这种结果",
+        "onboard_time": 1713875178,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 769510,
+        "num": 769510,
+        "word": "泰版步步惊心",
+        "onboard_time": 1713880218,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 724657,
+        "num": 724657,
+        "word": "英雄联盟服务器",
+        "onboard_time": 1713879380,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 718528,
+        "num": 718528,
+        "word": "网红艺考生李闽轩或被取消高考资格",
+        "onboard_time": 1713871997,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 669147,
+        "num": 669147,
+        "word": "轻断食吃了11根玉米",
+        "onboard_time": 1713867139,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 531306,
+        "num": 531306,
+        "word": "周琦被驱逐",
+        "onboard_time": 1713877819,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146620,
+        "num": 467510,
+        "word": "上海玉佛寺的猫猫都住上别墅了",
+        "onboard_time": 1713880340,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 807611,
+        "num": 465983,
+        "word": "9岁坠楼男孩生前最后5分钟发呆徘徊",
+        "onboard_time": 1713876498,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552835,
+        "num": 453019,
+        "word": "辛芷蕾 抱歉杨洋我听错了",
+        "onboard_time": 1713859459,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 437640,
+        "num": 437640,
+        "word": "蔡磊病情加重舌头下嘴唇已萎缩",
+        "onboard_time": 1713874158,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338712,
+        "num": 338712,
+        "word": "抓大鹅",
+        "onboard_time": 1713874998,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 299733,
+        "num": 299733,
+        "word": "伊能静给秦昊的小作文",
+        "onboard_time": 1713868099,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272034,
+        "num": 272034,
+        "word": "周深演唱会抢票",
+        "onboard_time": 1713874278,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241593,
+        "num": 241593,
+        "word": "女子反映天然气费用突增老公被公司约谈",
+        "onboard_time": 1713880218,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240787,
+        "num": 240787,
+        "word": "乐言被处罚",
+        "onboard_time": 1713875417,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 225494,
+        "num": 225494,
+        "word": "让胡明轩赢",
+        "onboard_time": 1713880638,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223043,
+        "num": 223043,
+        "word": "陈震直播回应小米SU7争议",
+        "onboard_time": 1713871397,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 503291,
+        "num": 221496,
+        "word": "恋综史上最激烈的深吻",
+        "onboard_time": 1713864318,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471252,
+        "num": 216828,
+        "word": "乳腺癌来临的4个预兆",
+        "onboard_time": 1713878540,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 330261,
+        "num": 213841,
+        "word": "张翰沧桑了",
+        "onboard_time": 1713866059,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210803,
+        "num": 210803,
+        "word": "于正 紫和凯很般配",
+        "onboard_time": 1713877879,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214950,
+        "num": 209533,
+        "word": "辛芷蕾 差点打败周杰伦",
+        "onboard_time": 1713879980,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204657,
+        "num": 204657,
+        "word": "小团团 小囚囚",
+        "onboard_time": 1713866358,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 203534,
+        "num": 203534,
+        "word": "一条小团团单月礼物收入曾高达500万",
+        "onboard_time": 1713875839,
+        "rank": 26,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 201851,
+        "num": 201851,
+        "word": "时代少年团好板正",
+        "onboard_time": 1713880700,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164445,
+        "num": 195225,
+        "word": "春色寄情人 不够看",
+        "onboard_time": 1713881120,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155803,
+        "num": 194577,
+        "word": "莫兰德被驱逐",
+        "onboard_time": 1713877819,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194467,
+        "num": 194467,
+        "word": "暴雪捐赠三千万蛆虫拯救鸟类",
+        "onboard_time": 1713869539,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183467,
+        "num": 183467,
+        "word": "李闽轩称从未私下见过考官",
+        "onboard_time": 1713881600,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 182963,
+        "num": 182963,
+        "word": "别麦了 老铁",
+        "onboard_time": 1713872058,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166883,
+        "num": 166883,
+        "word": "凤凰传奇演唱会",
+        "onboard_time": 1713878719,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127522,
+        "num": 166186,
+        "word": "44本2023年度中国好书",
+        "onboard_time": 1713880939,
+        "rank": 34,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 165658,
+        "num": 165658,
+        "word": "周深演唱会 秒没",
+        "onboard_time": 1713878540,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162294,
+        "num": 162294,
+        "word": "找到了做麻辣烫不用洗锅的方法",
+        "onboard_time": 1713880218,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158982,
+        "num": 158982,
+        "word": "怀孕是一场身体的大考",
+        "onboard_time": 1713869778,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152986,
+        "num": 152986,
+        "word": "林俊杰哈尔滨",
+        "onboard_time": 1713874758,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151899,
+        "num": 151899,
+        "word": "上海50元一个月的房子长啥样",
+        "onboard_time": 1713881658,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64160,
+        "num": 149334,
+        "word": "杨浚瑄冠军",
+        "onboard_time": 1713878358,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148363,
+        "num": 148363,
+        "word": "青环5总导演欢迎杨洋回家",
+        "onboard_time": 1713872898,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147898,
+        "num": 147898,
+        "word": "春色寄情人",
+        "onboard_time": 1713876918,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145152,
+        "num": 145152,
+        "word": "papi酱 莎士比亚四大喜剧",
+        "onboard_time": 1713873199,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 143523,
+        "num": 143523,
+        "word": "金高银太美了",
+        "onboard_time": 1713862159,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141500,
+        "num": 141500,
+        "word": "周迅红裙",
+        "onboard_time": 1713881059,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140338,
+        "num": 140338,
+        "word": "为什么青春剧不拍研究生",
+        "onboard_time": 1713875596,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133679,
+        "num": 133679,
+        "word": "赵岩昊请神请到真库里",
+        "onboard_time": 1713881359,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124035,
+        "num": 124035,
+        "word": "黑幕绿幕素材",
+        "onboard_time": 1713881658,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119319,
+        "num": 119319,
+        "word": "广厦男篮逆转广东男篮",
+        "onboard_time": 1713881779,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#让老百姓过上更加幸福的生活#"
+    }
+  }
+}

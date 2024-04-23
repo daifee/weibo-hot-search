@@ -1,6 +1,6 @@
 {
   "startTime": 1713802938860,
-  "endTime": 1713879264507,
+  "endTime": 1713881827328,
   "band_list": [
     {
       "raw_hot": 4471317,
@@ -9,6 +9,14 @@
       "onboard_time": 1713828375,
       "rank": 3,
       "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 3463105,
+      "num": 3463105,
+      "word": "李闽轩回应",
+      "onboard_time": 1713879380,
+      "rank": 0,
+      "category": "网红"
     },
     {
       "raw_hot": 2747935,
@@ -179,6 +187,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 1283274,
+      "num": 1283274,
+      "word": "张雪峰称考上二本并不是不够努力",
+      "onboard_time": 1713877397,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1160188,
       "num": 1160188,
       "word": "周深演唱会抢票",
@@ -225,14 +241,6 @@
       "onboard_time": 1713839960,
       "rank": 4,
       "category": "美食,财经"
-    },
-    {
-      "raw_hot": 1041146,
-      "num": 1041146,
-      "word": "张雪峰称考上二本并不是不够努力",
-      "onboard_time": 1713877397,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 1039581,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 851935,
-      "num": 462480,
+      "num": 465983,
       "word": "9岁坠楼男孩生前最后5分钟发呆徘徊",
       "onboard_time": 1713876498,
       "rank": 10,
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 769510,
+      "num": 769510,
+      "word": "泰版步步惊心",
+      "onboard_time": 1713880218,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 765724,
       "num": 765724,
       "word": "网红艺考生李闽轩或被取消高考资格",
@@ -401,6 +417,14 @@
       "onboard_time": 1713845480,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 724657,
+      "num": 724657,
+      "word": "英雄联盟服务器",
+      "onboard_time": 1713879380,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 722028,
@@ -681,6 +705,14 @@
       "onboard_time": 1713835759,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 471252,
+      "num": 216828,
+      "word": "乳腺癌来临的4个预兆",
+      "onboard_time": 1713878540,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 469186,
@@ -1419,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241593,
+      "num": 241593,
+      "word": "女子反映天然气费用突增老公被公司约谈",
+      "onboard_time": 1713880218,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239995,
       "num": 239995,
       "word": "补气血是有顺序的",
@@ -1555,6 +1595,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 225494,
+      "num": 225494,
+      "word": "让胡明轩赢",
+      "onboard_time": 1713880638,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222234,
       "num": 222234,
       "word": "问界新M5价格",
@@ -1617,6 +1665,14 @@
       "onboard_time": 1713843498,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214950,
+      "num": 209533,
+      "word": "辛芷蕾 差点打败周杰伦",
+      "onboard_time": 1713879980,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 214728,
@@ -1777,6 +1833,14 @@
       "onboard_time": 1713860838,
       "rank": 42,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 201851,
+      "num": 201851,
+      "word": "时代少年团好板正",
+      "onboard_time": 1713880700,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201564,
@@ -2035,14 +2099,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 185326,
-      "num": 185326,
-      "word": "乳腺癌来临的4个预兆",
-      "onboard_time": 1713878540,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 183690,
       "num": 183690,
       "word": "想看孤舟",
@@ -2065,6 +2121,14 @@
       "onboard_time": 1713871877,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 183467,
+      "num": 183467,
+      "word": "李闽轩称从未私下见过考官",
+      "onboard_time": 1713881600,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 181596,
@@ -2291,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164445,
+      "num": 195225,
+      "word": "春色寄情人 不够看",
+      "onboard_time": 1713881120,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163611,
       "num": 163611,
       "word": "浓眉和湖人球迷一样无助",
@@ -2313,6 +2385,14 @@
       "onboard_time": 1713850819,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162294,
+      "num": 162294,
+      "word": "找到了做麻辣烫不用洗锅的方法",
+      "onboard_time": 1713880218,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 162221,
@@ -2451,6 +2531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151899,
+      "num": 151899,
+      "word": "上海50元一个月的房子长啥样",
+      "onboard_time": 1713881658,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151490,
       "num": 151490,
       "word": "周鸿祎称换车只选国产新能源",
@@ -2521,6 +2609,14 @@
       "onboard_time": 1713850219,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146620,
+      "num": 467510,
+      "word": "上海玉佛寺的猫猫都住上别墅了",
+      "onboard_time": 1713880340,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 146268,
@@ -2627,6 +2723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141500,
+      "num": 141500,
+      "word": "周迅红裙",
+      "onboard_time": 1713881059,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141002,
       "num": 141002,
       "word": "八万的吉他让熊孩子灌了四瓶矿泉水",
@@ -2683,6 +2787,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 133679,
+      "num": 133679,
+      "word": "赵岩昊请神请到真库里",
+      "onboard_time": 1713881359,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133447,
       "num": 133447,
       "word": "周深新歌奇迹时刻",
@@ -2721,6 +2833,14 @@
       "onboard_time": 1713874218,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127522,
+      "num": 166186,
+      "word": "44本2023年度中国好书",
+      "onboard_time": 1713880939,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 127267,
@@ -2763,6 +2883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124035,
+      "num": 124035,
+      "word": "黑幕绿幕素材",
+      "onboard_time": 1713881658,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 123059,
       "num": 123059,
       "word": "河北警方调查理想MEGA遭恶意攻击事件",
@@ -2801,6 +2929,14 @@
       "onboard_time": 1713858197,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119319,
+      "num": 119319,
+      "word": "广厦男篮逆转广东男篮",
+      "onboard_time": 1713881779,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 118349,
@@ -3035,6 +3171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62006,
+      "num": 1053318,
+      "word": "9图了解无障碍阅读",
+      "onboard_time": 1713876437,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60579,
       "num": 60579,
       "word": "AC米兰1比2国际米兰",
@@ -3049,14 +3193,6 @@
       "onboard_time": 1713822311,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59478,
-      "num": 1053318,
-      "word": "9图了解无障碍阅读",
-      "onboard_time": 1713876437,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59158,
