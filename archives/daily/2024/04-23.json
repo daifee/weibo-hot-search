@@ -1,6 +1,6 @@
 {
   "startTime": 1713802938860,
-  "endTime": 1713863887999,
+  "endTime": 1713864864197,
   "band_list": [
     {
       "raw_hot": 4471317,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1885663,
-      "num": 521073,
+      "num": 672517,
       "word": "辛芷蕾 抱歉杨洋我听错了",
       "onboard_time": 1713859459,
       "rank": 10,
@@ -139,6 +139,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 1178287,
+      "num": 1178287,
+      "word": "考上二本院校是不够努力吗",
+      "onboard_time": 1713863118,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1149563,
       "num": 1149563,
       "word": "穆雷绝杀湖人",
@@ -204,11 +212,19 @@
     },
     {
       "raw_hot": 965931,
-      "num": 503889,
+      "num": 663107,
       "word": "女生遭霸凌为逃避殴打捡玻璃片割喉",
       "onboard_time": 1713856639,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 938956,
+      "num": 821853,
+      "word": "杨洋约辛芷蕾一起参加综艺",
+      "onboard_time": 1713864077,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 915332,
@@ -289,6 +305,14 @@
       "onboard_time": 1713829337,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 704144,
+      "num": 704144,
+      "word": "金高银太美了",
+      "onboard_time": 1713862159,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 686238,
@@ -401,22 +425,6 @@
       "onboard_time": 1713846561,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 541081,
-      "num": 541081,
-      "word": "考上二本院校是不够努力吗",
-      "onboard_time": 1713863118,
-      "rank": 6,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 532633,
-      "num": 532633,
-      "word": "金高银太美了",
-      "onboard_time": 1713862159,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 530827,
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 459718,
-      "num": 459718,
+      "num": 714320,
       "word": "北京市教委回应北电艺考生被曝作弊",
       "onboard_time": 1713859879,
       "rank": 18,
@@ -609,6 +617,14 @@
       "onboard_time": 1713832340,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439807,
+      "num": 439807,
+      "word": "恋综史上最激烈的深吻",
+      "onboard_time": 1713864318,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 437867,
@@ -939,6 +955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 284140,
+      "num": 284140,
+      "word": "宋雨琦新歌FREAK",
+      "onboard_time": 1713863598,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 277202,
       "num": 277202,
       "word": "深圳降价60%二手房曾遭炒房团围猎",
@@ -961,6 +985,14 @@
       "onboard_time": 1713849798,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273577,
+      "num": 273577,
+      "word": "小团团周边或下架",
+      "onboard_time": 1713863298,
+      "rank": 22,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 266714,
@@ -1100,7 +1132,7 @@
     },
     {
       "raw_hot": 244801,
-      "num": 532618,
+      "num": 673955,
       "word": "高中女生帮老奶奶拿废品",
       "onboard_time": 1713854777,
       "rank": 9,
@@ -1113,6 +1145,14 @@
       "onboard_time": 1713841757,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 241621,
+      "num": 241621,
+      "word": "王鹤棣和妈妈泰国旅行照",
+      "onboard_time": 1713862997,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 239995,
@@ -1219,20 +1259,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 227701,
+      "num": 227701,
+      "word": "教育部门回应网红李某某艺考作弊",
+      "onboard_time": 1713864677,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227115,
       "num": 227115,
       "word": "马来西亚直升机相撞致10人死亡",
       "onboard_time": 1713850158,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224952,
-      "num": 224952,
-      "word": "小团团周边或下架",
-      "onboard_time": 1713863298,
-      "rank": 22,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 222234,
@@ -1249,6 +1289,14 @@
       "onboard_time": 1713834439,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219366,
+      "num": 219366,
+      "word": "嬛嬛美甲",
+      "onboard_time": 1713863537,
+      "rank": 41,
+      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 218654,
@@ -1305,14 +1353,6 @@
       "onboard_time": 1713834139,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 211100,
-      "num": 211100,
-      "word": "王鹤棣和妈妈泰国旅行照",
-      "onboard_time": 1713862997,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 209623,
@@ -1379,6 +1419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205666,
+      "num": 205666,
+      "word": "官方通报湖南平江9岁学生坠亡",
+      "onboard_time": 1713863478,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204924,
       "num": 204924,
       "word": "仙台有树首发特辑",
@@ -1409,6 +1457,14 @@
       "onboard_time": 1713855979,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 201884,
+      "num": 201884,
+      "word": "小团团直播间打赏能否要回",
+      "onboard_time": 1713860838,
+      "rank": 42,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 201564,
@@ -1457,14 +1513,6 @@
       "onboard_time": 1713855499,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195088,
-      "num": 195088,
-      "word": "小团团直播间打赏能否要回",
-      "onboard_time": 1713860838,
-      "rank": 42,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 194420,
@@ -1651,12 +1699,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 179133,
-      "num": 179133,
-      "word": "宋雨琦新歌FREAK",
-      "onboard_time": 1713863598,
-      "rank": 34,
-      "category": "音乐"
+      "raw_hot": 177162,
+      "num": 177162,
+      "word": "孙俪演女刑警",
+      "onboard_time": 1713863779,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 177149,
@@ -1779,6 +1827,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 165455,
+      "num": 165455,
+      "word": "34岁女子辅导孩子作业气到卵巢早衰",
+      "onboard_time": 1713863059,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163993,
+      "num": 163993,
+      "word": "陈晓成毅14年前合作过",
+      "onboard_time": 1713864559,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163611,
       "num": 163611,
       "word": "浓眉和湖人球迷一样无助",
@@ -1793,14 +1857,6 @@
       "onboard_time": 1713832699,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162652,
-      "num": 162652,
-      "word": "官方通报湖南平江9岁学生坠亡",
-      "onboard_time": 1713863478,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162461,
@@ -1825,14 +1881,6 @@
       "onboard_time": 1713836778,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161404,
-      "num": 161404,
-      "word": "嬛嬛美甲",
-      "onboard_time": 1713863537,
-      "rank": 41,
-      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 160196,
@@ -1865,6 +1913,14 @@
       "onboard_time": 1713846019,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154920,
+      "num": 154920,
+      "word": "刘诗诗 真正的i人一言不发",
+      "onboard_time": 1713864559,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 153968,
@@ -1995,28 +2051,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140596,
-      "num": 139262,
-      "word": "孙俪演女刑警",
-      "onboard_time": 1713863779,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 140587,
-      "num": 140587,
-      "word": "34岁女子辅导孩子作业气到卵巢早衰",
-      "onboard_time": 1713863059,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140082,
       "num": 140082,
       "word": "刘涛猛夸赵昭仪",
       "onboard_time": 1713854238,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139065,
+      "num": 139065,
+      "word": "破墓 跳大神",
+      "onboard_time": 1713864438,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 137487,
@@ -2244,7 +2292,7 @@
     },
     {
       "raw_hot": 81321,
-      "num": 161718,
+      "num": 432885,
       "word": "赛那为了中国家庭能有多卷",
       "onboard_time": 1713863178,
       "rank": 39,
@@ -2371,6 +2419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 52833,
+      "num": 227476,
+      "word": "余承东称问界新M5是陆地小坦克",
+      "onboard_time": 1713863537,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 47215,
       "num": 47215,
       "word": "普拉提是减肥纠错本吧",
@@ -2393,14 +2449,6 @@
       "onboard_time": 1713789559,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36319,
-      "num": 161527,
-      "word": "余承东称问界新M5是陆地小坦克",
-      "onboard_time": 1713863537,
-      "rank": 40,
-      "category": "汽车"
     },
     {
       "raw_hot": 35568,
