@@ -1,6 +1,6 @@
 {
   "startTime": 1713802938860,
-  "endTime": 1713856610194,
+  "endTime": 1713857678403,
   "band_list": [
     {
       "raw_hot": 4471317,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 903955,
+      "num": 903955,
+      "word": "北电回应艺考生被曝作弊",
+      "onboard_time": 1713856758,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 900430,
       "num": 900430,
       "word": "床帘 遮光",
@@ -243,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 702963,
+      "num": 702963,
+      "word": "辛芷蕾听过杨洋二十年不参加综艺",
+      "onboard_time": 1713856879,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 686238,
       "num": 686238,
       "word": "莫言称每次刷完短视频都会批评自己",
@@ -257,6 +273,22 @@
       "onboard_time": 1713843197,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 658740,
+      "num": 658740,
+      "word": "凤凰传奇 唯粉",
+      "onboard_time": 1713854777,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 653975,
+      "num": 653975,
+      "word": "金秀贤把金智媛搂怀里看剧本",
+      "onboard_time": 1713852979,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 643776,
@@ -291,14 +323,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 585981,
-      "num": 585981,
-      "word": "金秀贤把金智媛搂怀里看剧本",
-      "onboard_time": 1713852979,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 569477,
       "num": 569477,
       "word": "唐朝诡事录之西行预告",
@@ -329,14 +353,6 @@
       "onboard_time": 1713846561,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 535275,
-      "num": 535275,
-      "word": "凤凰传奇 唯粉",
-      "onboard_time": 1713854777,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 530827,
@@ -377,6 +393,14 @@
       "onboard_time": 1713854418,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 507858,
+      "num": 437395,
+      "word": "成毅白发",
+      "onboard_time": 1713855437,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 507731,
@@ -545,14 +569,6 @@
       "onboard_time": 1713852560,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 414681,
-      "num": 414681,
-      "word": "成毅白发",
-      "onboard_time": 1713855437,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 401447,
@@ -795,6 +811,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 294606,
+      "num": 294606,
+      "word": "白鹿上古神女",
+      "onboard_time": 1713856879,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293043,
       "num": 293043,
       "word": "小团团公司近期仍发布游戏",
@@ -907,11 +931,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255624,
+      "num": 255624,
+      "word": "女生遭霸凌为逃避殴打捡玻璃片割喉",
+      "onboard_time": 1713856639,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254124,
       "num": 254124,
       "word": "王俊凯推荐刘昊然来盒子里的猫",
       "onboard_time": 1713844879,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 253725,
+      "num": 253725,
+      "word": "你好种地少年第二季",
+      "onboard_time": 1713856758,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -969,6 +1009,14 @@
       "onboard_time": 1713839058,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 244801,
+      "num": 508618,
+      "word": "高中女生帮老奶奶拿废品",
+      "onboard_time": 1713854777,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 242125,
@@ -1041,6 +1089,14 @@
       "onboard_time": 1713853040,
       "rank": 28,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 233476,
+      "num": 233476,
+      "word": "正当防卫",
+      "onboard_time": 1713857298,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 232720,
@@ -1235,20 +1291,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203896,
+      "num": 226246,
+      "word": "火锅行业为什么越来越卷",
+      "onboard_time": 1713855979,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 201564,
+      "num": 201564,
+      "word": "贵族猫招亲竞争激烈程度堪比考公",
+      "onboard_time": 1713857120,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201504,
       "num": 201504,
       "word": "田嘉瑞首部男二剧",
       "onboard_time": 1713835818,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201487,
-      "num": 201487,
-      "word": "火锅行业为什么越来越卷",
-      "onboard_time": 1713855979,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 200918,
@@ -1331,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190490,
+      "num": 190490,
+      "word": "不是父母变好了而是你有用了",
+      "onboard_time": 1713856397,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189974,
       "num": 189974,
       "word": "广州天气",
@@ -1393,14 +1465,6 @@
       "onboard_time": 1713832399,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182577,
-      "num": 508618,
-      "word": "高中女生帮老奶奶拿废品",
-      "onboard_time": 1713854777,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 181596,
@@ -1683,6 +1747,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 142993,
+      "num": 142993,
+      "word": "问界发布会",
+      "onboard_time": 1713854478,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 142622,
       "num": 142622,
       "word": "四方馆剧照",
@@ -1697,14 +1769,6 @@
       "onboard_time": 1713854238,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139470,
-      "num": 139470,
-      "word": "不是父母变好了而是你有用了",
-      "onboard_time": 1713856397,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 137487,
@@ -1771,12 +1835,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116712,
+      "num": 116712,
+      "word": "董宇辉称一个公司不能每天疯狂搞内斗",
+      "onboard_time": 1713857599,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 115104,
       "num": 405265,
       "word": "华为Pura70星芒高定款",
       "onboard_time": 1713840797,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 113703,
+      "num": 113703,
+      "word": "茶百道上市一小时跌没3年净利润",
+      "onboard_time": 1713857658,
+      "rank": 49,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 112541,

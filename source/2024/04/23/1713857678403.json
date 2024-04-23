@@ -1,0 +1,402 @@
+{
+  "runTime": 1713857678403,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1831386,
+        "num": 1831386,
+        "word": "艺考 作弊",
+        "onboard_time": 1713848959,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1742834,
+        "num": 1742834,
+        "word": "小团团或将面临3至5年刑期",
+        "onboard_time": 1713852139,
+        "rank": 1,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 903955,
+        "num": 903955,
+        "word": "北电回应艺考生被曝作弊",
+        "onboard_time": 1713856758,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 702963,
+        "num": 702963,
+        "word": "辛芷蕾听过杨洋二十年不参加综艺",
+        "onboard_time": 1713856879,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658740,
+        "num": 658740,
+        "word": "凤凰传奇 唯粉",
+        "onboard_time": 1713854777,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 653975,
+        "num": 653975,
+        "word": "金秀贤把金智媛搂怀里看剧本",
+        "onboard_time": 1713852979,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 614722,
+        "num": 614722,
+        "word": "金饰价格一夜跌14元每克",
+        "onboard_time": 1713843018,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 484912,
+        "num": 484912,
+        "word": "床帘 遮光",
+        "onboard_time": 1713850518,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244801,
+        "num": 483378,
+        "word": "高中女生帮老奶奶拿废品",
+        "onboard_time": 1713854777,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 981596,
+        "num": 470300,
+        "word": "女教师遭网课爆破猝死女儿决心休学",
+        "onboard_time": 1713851958,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665062,
+        "num": 457419,
+        "word": "一条小团团确认被捕",
+        "onboard_time": 1713828375,
+        "rank": 11,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 507858,
+        "num": 437395,
+        "word": "成毅白发",
+        "onboard_time": 1713855437,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436619,
+        "num": 436619,
+        "word": "工作人员输错号让彩民中800多万",
+        "onboard_time": 1713847821,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423754,
+        "num": 423754,
+        "word": "五月天鸟巢演唱会",
+        "onboard_time": 1713854418,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 415900,
+        "num": 415900,
+        "word": "电视剧遮天阵容官宣",
+        "onboard_time": 1713852678,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403480,
+        "num": 403480,
+        "word": "禁止学生挂床帘理由缺乏说服力",
+        "onboard_time": 1713855139,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395095,
+        "num": 395095,
+        "word": "一个父亲没了软肋就不再需要底线",
+        "onboard_time": 1713852560,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 368569,
+        "num": 368569,
+        "word": "原来应届毕业生身份这么值",
+        "onboard_time": 1713845180,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 331263,
+        "num": 331263,
+        "word": "网文作家已成90后的热门兼职",
+        "onboard_time": 1713853758,
+        "rank": 19,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 329268,
+        "num": 329268,
+        "word": "中戏表演系帅哥美女",
+        "onboard_time": 1713844158,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313889,
+        "num": 313889,
+        "word": "李闽轩 北电艺考",
+        "onboard_time": 1713841578,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294606,
+        "num": 294606,
+        "word": "白鹿上古神女",
+        "onboard_time": 1713856879,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287043,
+        "num": 287043,
+        "word": "男子车位被霸停5天一怒焊死",
+        "onboard_time": 1713850758,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255624,
+        "num": 255624,
+        "word": "女生遭霸凌为逃避殴打捡玻璃片割喉",
+        "onboard_time": 1713856639,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253725,
+        "num": 253725,
+        "word": "你好种地少年第二季",
+        "onboard_time": 1713856758,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241321,
+        "num": 241321,
+        "word": "问界M5",
+        "onboard_time": 1713854597,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 239820,
+        "num": 239820,
+        "word": "秦岚选到了谁",
+        "onboard_time": 1713851958,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233476,
+        "num": 233476,
+        "word": "正当防卫",
+        "onboard_time": 1713857298,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203896,
+        "num": 226246,
+        "word": "火锅行业为什么越来越卷",
+        "onboard_time": 1713855979,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 219491,
+        "num": 219491,
+        "word": "杨幂狐妖从原声换成配音了",
+        "onboard_time": 1713850219,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207009,
+        "num": 207009,
+        "word": "姚政抢票",
+        "onboard_time": 1713854838,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209413,
+        "num": 205864,
+        "word": "狐妖关系图",
+        "onboard_time": 1713855798,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201564,
+        "num": 201564,
+        "word": "贵族猫招亲竞争激烈程度堪比考公",
+        "onboard_time": 1713857120,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197109,
+        "num": 197109,
+        "word": "小团团房管让粉丝无视相关消息",
+        "onboard_time": 1713853040,
+        "rank": 34,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 55400,
+        "num": 192213,
+        "word": "时代少年团说贵妃请接荔",
+        "onboard_time": 1713853399,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190490,
+        "num": 190490,
+        "word": "不是父母变好了而是你有用了",
+        "onboard_time": 1713856397,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184207,
+        "num": 184207,
+        "word": "斗鱼回应PDD停播161天",
+        "onboard_time": 1713843919,
+        "rank": 37,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 168557,
+        "num": 168557,
+        "word": "杨幂杀回仙侠剧了",
+        "onboard_time": 1713843018,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167232,
+        "num": 167232,
+        "word": "狐妖时装",
+        "onboard_time": 1713856279,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 159801,
+        "num": 159801,
+        "word": "麦家说自己爹味很重",
+        "onboard_time": 1713853639,
+        "rank": 40,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 150640,
+        "num": 150640,
+        "word": "林高远 允许自己不完美",
+        "onboard_time": 1713852979,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150418,
+        "num": 150418,
+        "word": "狐妖小红娘王权篇山水同看海报",
+        "onboard_time": 1713856038,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142993,
+        "num": 142993,
+        "word": "问界发布会",
+        "onboard_time": 1713854478,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126520,
+        "num": 126520,
+        "word": "黄金热卖8家公司净赚273亿",
+        "onboard_time": 1713855378,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120220,
+        "num": 120220,
+        "word": "狐妖竹业篇MBTI",
+        "onboard_time": 1713855979,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117572,
+        "num": 117572,
+        "word": "花少导演组靠秦海璐拉群",
+        "onboard_time": 1713850398,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116729,
+        "num": 116729,
+        "word": "大梦归离再现云之羽站位",
+        "onboard_time": 1713855919,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116712,
+        "num": 116712,
+        "word": "董宇辉称一个公司不能每天疯狂搞内斗",
+        "onboard_time": 1713857599,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113703,
+        "num": 113703,
+        "word": "茶百道上市一小时跌没3年净利润",
+        "onboard_time": 1713857658,
+        "rank": 49,
+        "category": "财经,美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}
