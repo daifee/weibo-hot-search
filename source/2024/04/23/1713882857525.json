@@ -1,0 +1,410 @@
+{
+  "runTime": 1713882857525,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3562153,
+        "num": 3562153,
+        "word": "李闽轩回应",
+        "onboard_time": 1713879380,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1221976,
+        "num": 1221976,
+        "word": "张雪峰称考上二本并不是不够努力",
+        "onboard_time": 1713877397,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 59159,
+        "num": 946211,
+        "word": "9图了解无障碍阅读",
+        "onboard_time": 1713876437,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1871120,
+        "num": 876849,
+        "word": "五一不调休就会是这种结果",
+        "onboard_time": 1713875178,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 782626,
+        "num": 782626,
+        "word": "泰版步步惊心",
+        "onboard_time": 1713880218,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 725397,
+        "num": 725397,
+        "word": "李闽轩称脱口报姓名是因太紧张",
+        "onboard_time": 1713882199,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 652384,
+        "num": 652384,
+        "word": "轻断食吃了11根玉米",
+        "onboard_time": 1713867139,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 641768,
+        "num": 641768,
+        "word": "网红艺考生李闽轩或被取消高考资格",
+        "onboard_time": 1713871997,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 467634,
+        "num": 640685,
+        "word": "周琦被驱逐",
+        "onboard_time": 1713877819,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153161,
+        "num": 640476,
+        "word": "上海玉佛寺的猫猫都住上别墅了",
+        "onboard_time": 1713880340,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 782751,
+        "num": 640470,
+        "word": "9岁坠楼男孩生前最后5分钟发呆徘徊",
+        "onboard_time": 1713876498,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640462,
+        "num": 640462,
+        "word": "李闽轩称从未私下见过考官",
+        "onboard_time": 1713881600,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 521924,
+        "num": 521924,
+        "word": "辛芷蕾 抱歉杨洋我听错了",
+        "onboard_time": 1713859459,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 432254,
+        "num": 432254,
+        "word": "英雄联盟服务器",
+        "onboard_time": 1713879380,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 410844,
+        "num": 410844,
+        "word": "女子反映天然气费用突增老公被公司约谈",
+        "onboard_time": 1713880218,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320685,
+        "num": 320685,
+        "word": "蔡磊病情加重舌头下嘴唇已萎缩",
+        "onboard_time": 1713874158,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320683,
+        "num": 320683,
+        "word": "林俊杰为了防黄牛好拼",
+        "onboard_time": 1713882020,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 295443,
+        "num": 295443,
+        "word": "辛芷蕾 差点打败周杰伦",
+        "onboard_time": 1713879980,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237472,
+        "num": 288420,
+        "word": "春色寄情人 不够看",
+        "onboard_time": 1713881120,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270679,
+        "num": 270679,
+        "word": "上海50元一个月的房子长啥样",
+        "onboard_time": 1713881658,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483821,
+        "num": 266060,
+        "word": "恋综史上最激烈的深吻",
+        "onboard_time": 1713864318,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456475,
+        "num": 265513,
+        "word": "乳腺癌来临的4个预兆",
+        "onboard_time": 1713878540,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 368384,
+        "num": 260280,
+        "word": "14岁被亲妈带去整容15年砸400万",
+        "onboard_time": 1713882259,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339172,
+        "num": 251564,
+        "word": "张翰沧桑了",
+        "onboard_time": 1713866059,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250826,
+        "num": 250826,
+        "word": "抓大鹅",
+        "onboard_time": 1713874998,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225006,
+        "num": 225006,
+        "word": "伊能静给秦昊的小作文",
+        "onboard_time": 1713868099,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217753,
+        "num": 217753,
+        "word": "昆凌迪士尼走出来的公主",
+        "onboard_time": 1713882140,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210755,
+        "num": 210755,
+        "word": "周深演唱会抢票",
+        "onboard_time": 1713874278,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208781,
+        "num": 208781,
+        "word": "周迅红裙",
+        "onboard_time": 1713881059,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109627,
+        "num": 208071,
+        "word": "在书中邂逅春和景明",
+        "onboard_time": 1713882619,
+        "rank": 29,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 207864,
+        "num": 207864,
+        "word": "陈震直播回应小米SU7争议",
+        "onboard_time": 1713871397,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 206739,
+        "num": 206739,
+        "word": "让胡明轩赢",
+        "onboard_time": 1713880638,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187705,
+        "num": 187705,
+        "word": "小团团 小囚囚",
+        "onboard_time": 1713866358,
+        "rank": 32,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 186703,
+        "num": 186703,
+        "word": "三百多的票价这个转场值三百",
+        "onboard_time": 1713882199,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185244,
+        "num": 185244,
+        "word": "于正 紫和凯很般配",
+        "onboard_time": 1713877879,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179316,
+        "num": 179316,
+        "word": "乐言被处罚",
+        "onboard_time": 1713875417,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178378,
+        "num": 178378,
+        "word": "黄景瑜体格怎么这么大",
+        "onboard_time": 1713882739,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172731,
+        "num": 172731,
+        "word": "一条小团团单月礼物收入曾高达500万",
+        "onboard_time": 1713875839,
+        "rank": 37,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 165589,
+        "num": 165589,
+        "word": "谷爱凌在飞机上赶作业",
+        "onboard_time": 1713882498,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158556,
+        "num": 158556,
+        "word": "暴雪捐赠三千万蛆虫拯救鸟类",
+        "onboard_time": 1713869539,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155504,
+        "num": 155504,
+        "word": "周深演唱会 秒没",
+        "onboard_time": 1713878540,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154657,
+        "num": 154657,
+        "word": "怀孕是一场身体的大考",
+        "onboard_time": 1713869778,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154312,
+        "num": 154312,
+        "word": "艺考规则",
+        "onboard_time": 1713882680,
+        "rank": 42,
+        "category": "教育,网红"
+      },
+      {
+        "raw_hot": 147489,
+        "num": 147489,
+        "word": "别麦了 老铁",
+        "onboard_time": 1713872058,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138059,
+        "num": 138059,
+        "word": "凤凰传奇演唱会",
+        "onboard_time": 1713878719,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136096,
+        "num": 136096,
+        "word": "广厦男篮逆转广东男篮",
+        "onboard_time": 1713881779,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133272,
+        "num": 133272,
+        "word": "杨笠回归脱口秀",
+        "onboard_time": 1713881958,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132335,
+        "num": 132335,
+        "word": "金高银太美了",
+        "onboard_time": 1713862159,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128229,
+        "num": 128229,
+        "word": "春色寄情人 颜狗天堂",
+        "onboard_time": 1713882799,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127416,
+        "num": 127416,
+        "word": "青环5总导演欢迎杨洋回家",
+        "onboard_time": 1713872898,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#让老百姓过上更加幸福的生活#"
+    }
+  }
+}
