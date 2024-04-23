@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/23 10:38:34
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/23 11:19:04
 </p>
 </blockquote>
 <p>
@@ -1839,6 +1839,12 @@ ZARA回应撤出中国传闻（热度：1355755）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E7%99%BE%E9%81%93%E4%B8%8A%E5%B8%82%23" target="weibo">
+茶百道上市（热度：1339704）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%8C%BB%E9%99%A2%E8%BE%93%E9%94%99%E8%8D%AF%E8%BA%AB%E4%BA%A1%23" target="weibo">
 卫健委介入调查女子在医院输错药身亡（热度：1338063）
 </a>
@@ -3459,12 +3465,6 @@ TFBOYS组合没解散（热度：1029893）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E7%99%BE%E9%81%93%E4%B8%8A%E5%B8%82%23" target="weibo">
-茶百道上市（热度：1017435）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E5%90%90%E6%A7%BD800%E7%B1%B3%E4%BD%93%E6%B5%8B%23" target="weibo">
 中央财经大学多名学生吐槽800米体测（热度：1016402）
 </a>
@@ -4379,6 +4379,12 @@ TES零封JDG（热度：901726）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%94%B9%E5%90%8D%23" target="weibo">
 张艺兴工作室改名（热度：885702）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E7%99%BE%E9%81%93%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E8%B7%8C%E8%B6%8510%25%23" target="weibo">
+茶百道上市首日跌超10%（热度：884039）
 </a>
 </li>
 
@@ -5319,6 +5325,12 @@ TFBOYS文案什么意思（热度：811913）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9%E6%96%97%E9%B1%BC%E5%A4%B4%E9%83%A8%E4%B8%BB%E6%92%AD%E5%81%9C%E6%92%AD%23" target="weibo">
+大批斗鱼头部主播停播（热度：794362）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%A820%E5%85%83%E5%81%9A%E4%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E7%9A%84%E9%A5%AD%E8%8F%9C%23" target="weibo">
 用20元做了一家四口的饭菜（热度：794287）
 </a>
@@ -5999,18 +6011,6 @@ TFBOYS文案什么意思（热度：811913）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E8%BD%BF%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E9%A3%9E%E5%A4%9A%E5%90%8D%E8%B7%AF%E4%BA%BA%23" target="weibo">
 上海一轿车失控撞飞多名路人（热度：737572）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E5%85%A5%E4%BA%BA%E5%BF%83%E6%B1%82%E9%87%91%E4%B8%BB%E7%88%B8%E7%88%B8%23" target="weibo">
-声入人心求金主爸爸（热度：737366）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%AE%98%E5%AE%A3%E5%BC%80%E6%8E%A82%23" target="weibo">
-迪丽热巴官宣开推2（热度：737344）
 </a>
 </li>
 

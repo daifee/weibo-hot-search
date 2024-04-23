@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713839914574,
+  "endTime": 1713842344294,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 2259934,
-      "num": 512659,
+      "num": 565799,
       "word": "一条小团团",
       "onboard_time": 1713830117,
       "rank": 10,
@@ -2433,6 +2433,14 @@
       "onboard_time": 1712902878,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1339704,
+      "num": 1339704,
+      "word": "茶百道上市",
+      "onboard_time": 1713837858,
+      "rank": 5,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 1338063,
@@ -4595,14 +4603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1017435,
-      "num": 1017435,
-      "word": "茶百道上市",
-      "onboard_time": 1713837858,
-      "rank": 5,
-      "category": "美食,财经"
-    },
-    {
       "raw_hot": 1016402,
       "num": 1016402,
       "word": "中央财经大学多名学生吐槽800米体测",
@@ -5825,6 +5825,14 @@
       "onboard_time": 1713276619,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 884039,
+      "num": 884039,
+      "word": "茶百道上市首日跌超10%",
+      "onboard_time": 1713839960,
+      "rank": 4,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 883852,
@@ -7073,6 +7081,14 @@
       "onboard_time": 1712567419,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 794362,
+      "num": 794362,
+      "word": "大批斗鱼头部主播停播",
+      "onboard_time": 1713838997,
+      "rank": 23,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 794287,
@@ -14043,6 +14059,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 506673,
+      "num": 506673,
+      "word": "肝不好可能有一黄二红三黑",
+      "onboard_time": 1713838518,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 506176,
       "num": 506176,
       "word": "黄旭熙中文还没郑雅娴说得好",
@@ -16547,20 +16571,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 446292,
-      "num": 446292,
-      "word": "大批斗鱼头部主播停播",
-      "onboard_time": 1713838997,
-      "rank": 23,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 446290,
       "num": 446290,
       "word": "网红杨立新及母亲遭男友杀害",
       "onboard_time": 1712912659,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 445869,
+      "num": 445869,
+      "word": "生万物阵容官宣",
+      "onboard_time": 1713839657,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 445857,
@@ -18217,6 +18241,14 @@
       "onboard_time": 1712377878,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408103,
+      "num": 408103,
+      "word": "李闽轩 北电艺考",
+      "onboard_time": 1713841578,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 407775,
@@ -22579,6 +22611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 327409,
+      "num": 327409,
+      "word": "TF三代 门面",
+      "onboard_time": 1713839478,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327388,
       "num": 327388,
       "word": "青春环游记第5季录制嘉宾",
@@ -23867,20 +23907,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 308027,
-      "num": 308027,
-      "word": "肝不好可能有一黄二红三黑",
-      "onboard_time": 1713838518,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 307831,
       "num": 307831,
       "word": "伊朗称若以色列采取行动将双倍力量回应",
       "onboard_time": 1713059538,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 307772,
+      "num": 307772,
+      "word": "一条小团团斗鱼直播间还在",
+      "onboard_time": 1713836478,
+      "rank": 21,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 307714,
@@ -24388,7 +24428,7 @@
     },
     {
       "raw_hot": 300843,
-      "num": 517983,
+      "num": 600011,
       "word": "大熊猫北辰把特供乒乓球给吃了",
       "onboard_time": 1713813012,
       "rank": 47,
@@ -24561,14 +24601,6 @@
       "onboard_time": 1712810180,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299209,
-      "num": 299209,
-      "word": "一条小团团斗鱼直播间还在",
-      "onboard_time": 1713836478,
-      "rank": 21,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 299076,
@@ -26867,14 +26899,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 269808,
-      "num": 269808,
-      "word": "TF三代 门面",
-      "onboard_time": 1713839478,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 269775,
       "num": 243030,
       "word": "白鹿cos朱迪兔警官",
@@ -27625,6 +27649,14 @@
       "onboard_time": 1712416100,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261294,
+      "num": 261294,
+      "word": "TWS 男版NewJeans",
+      "onboard_time": 1713839419,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 261276,
@@ -29419,6 +29451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 245765,
+      "num": 245765,
+      "word": "PDD斗鱼已停播超5个月",
+      "onboard_time": 1713842239,
+      "rank": 27,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 245668,
       "num": 216687,
       "word": "心情不好建议多去户外",
@@ -29505,6 +29545,14 @@
       "onboard_time": 1713768979,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 245032,
+      "num": 245032,
+      "word": "国防教育法拟修订",
+      "onboard_time": 1713839058,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 245030,
@@ -30467,6 +30515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237554,
+      "num": 237554,
+      "word": "一条小团团曾于1月27日宣布停播",
+      "onboard_time": 1713840197,
+      "rank": 30,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 237520,
       "num": 237520,
       "word": "不防晒为什么容易衰老",
@@ -30505,14 +30561,6 @@
       "onboard_time": 1712329940,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237214,
-      "num": 237214,
-      "word": "国防教育法拟修订",
-      "onboard_time": 1713839058,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 237134,
@@ -32163,6 +32211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224435,
+      "num": 224435,
+      "word": "小团团公司近期仍发布游戏",
+      "onboard_time": 1713841998,
+      "rank": 31,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 224402,
       "num": 224402,
       "word": "昔日明星基金经理蔡嵩松涉受贿",
@@ -33803,6 +33859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213110,
+      "num": 213110,
+      "word": "侯明昊大梦归离妖孽妆造",
+      "onboard_time": 1713841277,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213034,
       "num": 213034,
       "word": "张超声音",
@@ -33953,14 +34017,6 @@
       "onboard_time": 1713316098,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211945,
-      "num": 211945,
-      "word": "TWS 男版NewJeans",
-      "onboard_time": 1713839419,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 211927,
@@ -34707,6 +34763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208736,
+      "num": 208736,
+      "word": "狐妖小红娘月红篇结缘预告",
+      "onboard_time": 1713841518,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208692,
       "num": 208692,
       "word": "F1直播",
@@ -34905,6 +34969,14 @@
       "onboard_time": 1712286077,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207571,
+      "num": 207571,
+      "word": "秦岚拍的火山",
+      "onboard_time": 1713841099,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 207566,
@@ -38689,14 +38761,6 @@
       "onboard_time": 1712671701,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193491,
-      "num": 193491,
-      "word": "生万物阵容官宣",
-      "onboard_time": 1713839657,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 193479,
@@ -43355,6 +43419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175921,
+      "num": 175921,
+      "word": "200元一晚的荷兰民宿",
+      "onboard_time": 1713840438,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175887,
       "num": 175887,
       "word": "高速免收过路费的魅力不小啊",
@@ -45579,6 +45651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166007,
+      "num": 166007,
+      "word": "仙台有树一吻倾心版海报",
+      "onboard_time": 1713840078,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166000,
       "num": 166000,
       "word": "江西南昌暴雨致房屋坍塌11人受伤",
@@ -46387,6 +46467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162421,
+      "num": 162421,
+      "word": "补气血是有顺序的",
+      "onboard_time": 1713842118,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162413,
       "num": 162413,
       "word": "摇太阳片尾曲是张杰唱的",
@@ -46529,6 +46617,14 @@
       "onboard_time": 1713722652,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161995,
+      "num": 161995,
+      "word": "秦岚出发录制花少",
+      "onboard_time": 1713841757,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 161978,
@@ -59683,6 +59779,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 94936,
+      "num": 316529,
+      "word": "华为Pura70星芒高定款",
+      "onboard_time": 1713840797,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 94934,
       "num": 101710,
       "word": "王曼昱晋级四强",
@@ -62435,6 +62539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46824,
+      "num": 581552,
+      "word": "茶百道港交所上市",
+      "onboard_time": 1713840257,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 46594,
       "num": 1335182,
       "word": "轻工业生产回升盈利改善",
@@ -64465,6 +64577,14 @@
       "onboard_time": 1712900057,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 6560,
+      "num": 1263961,
+      "word": "万千气象看山西",
+      "onboard_time": 1713842298,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
