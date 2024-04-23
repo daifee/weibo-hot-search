@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713899713495,
+  "endTime": 1713900987384,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -9795,8 +9795,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19531,
-      "num": 19531,
+      "raw_hot": 19747,
+      "num": 19747,
       "word": "小团团掉粉近50万",
       "onboard_time": 1713897851,
       "rank": 41,
@@ -9828,7 +9828,7 @@
     },
     {
       "raw_hot": 17504,
-      "num": 18870,
+      "num": 19463,
       "word": "喜剧之王单口季",
       "onboard_time": 1713899171,
       "rank": 45,
@@ -9849,6 +9849,14 @@
       "onboard_time": 1713818470,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 15784,
+      "num": 19507,
+      "word": "娜扎粉色短裙",
+      "onboard_time": 1713900671,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 14892,

@@ -1,6 +1,6 @@
 {
   "startTime": 1713889329936,
-  "endTime": 1713899713495,
+  "endTime": 1713900987384,
   "band_list": [
     {
       "raw_hot": 1267413,
@@ -315,6 +315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102774,
+      "num": 102774,
+      "word": "一条小团团单月礼物收入曾高达500万",
+      "onboard_time": 1713875839,
+      "rank": 49,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 100907,
       "num": 100907,
       "word": "蔡磊病情加重舌头下嘴唇已萎缩",
@@ -401,14 +409,6 @@
       "onboard_time": 1713875417,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 80056,
-      "num": 80056,
-      "word": "一条小团团单月礼物收入曾高达500万",
-      "onboard_time": 1713875839,
-      "rank": 49,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 79842,
@@ -507,8 +507,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19531,
-      "num": 19531,
+      "raw_hot": 19747,
+      "num": 19747,
       "word": "小团团掉粉近50万",
       "onboard_time": 1713897851,
       "rank": 41,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 17504,
-      "num": 18870,
+      "num": 19463,
       "word": "喜剧之王单口季",
       "onboard_time": 1713899171,
       "rank": 45,
@@ -529,6 +529,14 @@
       "onboard_time": 1713893473,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15784,
+      "num": 19507,
+      "word": "娜扎粉色短裙",
+      "onboard_time": 1713900671,
+      "rank": 44,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

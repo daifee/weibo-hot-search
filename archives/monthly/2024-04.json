@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713899713495,
+  "endTime": 1713900987384,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -66483,20 +66483,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 19747,
+      "num": 19747,
+      "word": "小团团掉粉近50万",
+      "onboard_time": 1713897851,
+      "rank": 41,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 19561,
       "num": 19561,
       "word": "北影节轮到宝总当爷叔后盾了",
       "onboard_time": 1713556151,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 19531,
-      "num": 19531,
-      "word": "小团团掉粉近50万",
-      "onboard_time": 1713897851,
-      "rank": 41,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 19427,
@@ -66604,7 +66604,7 @@
     },
     {
       "raw_hot": 17504,
-      "num": 18870,
+      "num": 19463,
       "word": "喜剧之王单口季",
       "onboard_time": 1713899171,
       "rank": 45,
@@ -66697,6 +66697,14 @@
       "onboard_time": 1712429891,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15784,
+      "num": 19507,
+      "word": "娜扎粉色短裙",
+      "onboard_time": 1713900671,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 15726,
