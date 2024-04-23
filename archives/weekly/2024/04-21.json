@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713839292763,
+  "endTime": 1713839914574,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2509762,
+      "num": 2509762,
+      "word": "多地高校禁止学生挂床帘",
+      "onboard_time": 1713835398,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2376669,
       "num": 527437,
       "word": "五一调休",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 2259934,
-      "num": 481797,
+      "num": 512659,
       "word": "一条小团团",
       "onboard_time": 1713830117,
       "rank": 10,
@@ -129,14 +137,6 @@
       "onboard_time": 1713758058,
       "rank": 0,
       "category": "美食"
-    },
-    {
-      "raw_hot": 2030345,
-      "num": 2030345,
-      "word": "多地高校禁止学生挂床帘",
-      "onboard_time": 1713835398,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1980394,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1017435,
+      "num": 1017435,
+      "word": "茶百道上市",
+      "onboard_time": 1713837858,
+      "rank": 5,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 1008615,
       "num": 1008615,
       "word": "理想降价",
@@ -561,6 +569,14 @@
       "onboard_time": 1713660437,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 894637,
+      "num": 894637,
+      "word": "狐妖小红娘月红篇涂山万象海报",
+      "onboard_time": 1713838638,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 880662,
@@ -699,14 +715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 816468,
-      "num": 816468,
-      "word": "茶百道上市",
-      "onboard_time": 1713837858,
-      "rank": 5,
-      "category": "美食,财经"
-    },
-    {
       "raw_hot": 815652,
       "num": 815652,
       "word": "黄金白银集体大跌",
@@ -731,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 771184,
+      "num": 771184,
+      "word": "辅导员回应多地高校禁止学生挂床帘",
+      "onboard_time": 1713834259,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 770818,
       "num": 770818,
       "word": "两人维保电梯一人竟是纸片人",
@@ -745,14 +761,6 @@
       "onboard_time": 1713625098,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 757738,
-      "num": 757738,
-      "word": "辅导员回应多地高校禁止学生挂床帘",
-      "onboard_time": 1713834259,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 739668,
@@ -1107,20 +1115,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 612332,
+      "num": 612332,
+      "word": "于东来称去年计划挣2000万结果赚了1.4亿",
+      "onboard_time": 1713835641,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 607304,
       "num": 607304,
       "word": "徐明浩cha了Jennie呱呱舞",
       "onboard_time": 1713667997,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 601384,
-      "num": 601384,
-      "word": "于东来称去年计划挣2000万结果赚了1.4亿",
-      "onboard_time": 1713835641,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 598677,
@@ -1587,6 +1595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 485471,
+      "num": 485471,
+      "word": "孙颖莎世排第一8300分",
+      "onboard_time": 1713835099,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 484738,
       "num": 472039,
       "word": "浪姐 循环利用",
@@ -1665,14 +1681,6 @@
       "onboard_time": 1713835759,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 475555,
-      "num": 475555,
-      "word": "孙颖莎世排第一8300分",
-      "onboard_time": 1713835099,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 473142,
@@ -1803,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446292,
+      "num": 446292,
+      "word": "大批斗鱼头部主播停播",
+      "onboard_time": 1713838997,
+      "rank": 23,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 444976,
       "num": 444976,
       "word": "广东暴雨",
@@ -1840,14 +1856,6 @@
       "word": "哈尔滨一九四四收视率",
       "onboard_time": 1713707300,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 439996,
-      "num": 439996,
-      "word": "狐妖小红娘月红篇涂山万象海报",
-      "onboard_time": 1713838638,
-      "rank": 14,
       "category": "剧集"
     },
     {
@@ -2044,7 +2052,7 @@
     },
     {
       "raw_hot": 395176,
-      "num": 304370,
+      "num": 305937,
       "word": "普通女孩三个月的爆改之路",
       "onboard_time": 1713836838,
       "rank": 20,
@@ -2523,6 +2531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 308027,
+      "num": 308027,
+      "word": "肝不好可能有一黄二红三黑",
+      "onboard_time": 1713838518,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 306949,
       "num": 306949,
       "word": "跳水世界杯",
@@ -2532,7 +2548,7 @@
     },
     {
       "raw_hot": 300843,
-      "num": 486633,
+      "num": 517983,
       "word": "大熊猫北辰把特供乒乓球给吃了",
       "onboard_time": 1713813012,
       "rank": 47,
@@ -2569,6 +2585,14 @@
       "onboard_time": 1713703279,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 296189,
+      "num": 296189,
+      "word": "大梦归离群像海报",
+      "onboard_time": 1713838338,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 294430,
@@ -2625,6 +2649,14 @@
       "onboard_time": 1713753136,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 286819,
+      "num": 286819,
+      "word": "陈少杰被指或获刑5年",
+      "onboard_time": 1713838758,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 286375,
@@ -2747,12 +2779,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 270165,
-      "num": 270165,
-      "word": "大梦归离群像海报",
-      "onboard_time": 1713838338,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 269808,
+      "num": 269808,
+      "word": "TF三代 门面",
+      "onboard_time": 1713839478,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 269761,
@@ -2763,20 +2795,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 268080,
-      "num": 268080,
-      "word": "大批斗鱼头部主播停播",
-      "onboard_time": 1713838997,
-      "rank": 23,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 267751,
       "num": 231255,
       "word": "男子强迫女儿热水泡脚致重伤被判刑",
       "onboard_time": 1713657917,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266714,
+      "num": 266714,
+      "word": "中医建议一定要保护好眼睛",
+      "onboard_time": 1713837559,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 266620,
@@ -2817,14 +2849,6 @@
       "onboard_time": 1713613818,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 262352,
-      "num": 262352,
-      "word": "中医建议一定要保护好眼睛",
-      "onboard_time": 1713837559,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 262282,
@@ -3203,6 +3227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237214,
+      "num": 237214,
+      "word": "国防教育法拟修订",
+      "onboard_time": 1713839058,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 236453,
       "num": 236453,
       "word": "鹿晗生日派对照",
@@ -3291,14 +3323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230267,
-      "num": 230267,
-      "word": "陈少杰被指或获刑5年",
-      "onboard_time": 1713838758,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 230223,
       "num": 230223,
       "word": "李溪芮尚雯婕终于坐一起了",
@@ -3353,14 +3377,6 @@
       "onboard_time": 1713794840,
       "rank": 27,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 226630,
-      "num": 226630,
-      "word": "肝不好可能有一黄二红三黑",
-      "onboard_time": 1713838518,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 226358,
@@ -3569,6 +3585,14 @@
       "onboard_time": 1713706521,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211945,
+      "num": 211945,
+      "word": "TWS 男版NewJeans",
+      "onboard_time": 1713839419,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 211100,
@@ -4105,6 +4129,14 @@
       "onboard_time": 1713691339,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193491,
+      "num": 193491,
+      "word": "生万物阵容官宣",
+      "onboard_time": 1713839657,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 193479,
@@ -4699,6 +4731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173012,
+      "num": 173012,
+      "word": "尼克斯逆转76人",
+      "onboard_time": 1713839718,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172403,
       "num": 172403,
       "word": "徐明浩新型citywalk",
@@ -4859,14 +4899,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 167688,
-      "num": 167688,
-      "word": "国防教育法拟修订",
-      "onboard_time": 1713839058,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 167301,
       "num": 167301,
       "word": "seventeen克拉盘",
@@ -4929,6 +4961,14 @@
       "onboard_time": 1713799218,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165548,
+      "num": 165548,
+      "word": "临江仙海报",
+      "onboard_time": 1713839837,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 165531,

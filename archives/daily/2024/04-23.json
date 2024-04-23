@@ -1,6 +1,6 @@
 {
   "startTime": 1713802938860,
-  "endTime": 1713839292763,
+  "endTime": 1713839914574,
   "band_list": [
     {
       "raw_hot": 4471317,
@@ -19,20 +19,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 2259934,
-      "num": 481797,
-      "word": "一条小团团",
-      "onboard_time": 1713830117,
-      "rank": 10,
-      "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 2030345,
-      "num": 2030345,
+      "raw_hot": 2509762,
+      "num": 2509762,
       "word": "多地高校禁止学生挂床帘",
       "onboard_time": 1713835398,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2259934,
+      "num": 512659,
+      "word": "一条小团团",
+      "onboard_time": 1713830117,
+      "rank": 10,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1800678,
@@ -83,12 +83,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 816468,
-      "num": 816468,
+      "raw_hot": 1017435,
+      "num": 1017435,
       "word": "茶百道上市",
       "onboard_time": 1713837858,
       "rank": 5,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 894637,
+      "num": 894637,
+      "word": "狐妖小红娘月红篇涂山万象海报",
+      "onboard_time": 1713838638,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 815652,
@@ -107,8 +115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 757738,
-      "num": 757738,
+      "raw_hot": 771184,
+      "num": 771184,
       "word": "辅导员回应多地高校禁止学生挂床帘",
       "onboard_time": 1713834259,
       "rank": 26,
@@ -131,8 +139,8 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 601384,
-      "num": 601384,
+      "raw_hot": 612332,
+      "num": 612332,
       "word": "于东来称去年计划挣2000万结果赚了1.4亿",
       "onboard_time": 1713835641,
       "rank": 32,
@@ -179,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 485471,
+      "num": 485471,
+      "word": "孙颖莎世排第一8300分",
+      "onboard_time": 1713835099,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 482459,
       "num": 482459,
       "word": "浙江舞蹈老师怀孕39周仍每天跳舞",
@@ -201,14 +217,6 @@
       "onboard_time": 1713835759,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 475555,
-      "num": 475555,
-      "word": "孙颖莎世排第一8300分",
-      "onboard_time": 1713835099,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 460481,
@@ -235,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 446292,
+      "num": 446292,
+      "word": "大批斗鱼头部主播停播",
+      "onboard_time": 1713838997,
+      "rank": 23,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 444976,
       "num": 444976,
       "word": "广东暴雨",
@@ -257,14 +273,6 @@
       "onboard_time": 1713832340,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439996,
-      "num": 439996,
-      "word": "狐妖小红娘月红篇涂山万象海报",
-      "onboard_time": 1713838638,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 429113,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 395176,
-      "num": 304370,
+      "num": 305937,
       "word": "普通女孩三个月的爆改之路",
       "onboard_time": 1713836838,
       "rank": 20,
@@ -379,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 308027,
+      "num": 308027,
+      "word": "肝不好可能有一黄二红三黑",
+      "onboard_time": 1713838518,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 302829,
       "num": 172993,
       "word": "女子常熬夜胸痛难忍才就医确诊肺癌晚期",
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 300843,
-      "num": 486633,
+      "num": 517983,
       "word": "大熊猫北辰把特供乒乓球给吃了",
       "onboard_time": 1713813012,
       "rank": 47,
@@ -411,20 +427,36 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 270165,
-      "num": 270165,
+      "raw_hot": 296189,
+      "num": 296189,
       "word": "大梦归离群像海报",
       "onboard_time": 1713838338,
       "rank": 22,
       "category": "剧集"
     },
     {
-      "raw_hot": 268080,
-      "num": 268080,
-      "word": "大批斗鱼头部主播停播",
-      "onboard_time": 1713838997,
-      "rank": 23,
-      "category": "游戏,网红"
+      "raw_hot": 286819,
+      "num": 286819,
+      "word": "陈少杰被指或获刑5年",
+      "onboard_time": 1713838758,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 269808,
+      "num": 269808,
+      "word": "TF三代 门面",
+      "onboard_time": 1713839478,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 266714,
+      "num": 266714,
+      "word": "中医建议一定要保护好眼睛",
+      "onboard_time": 1713837559,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 263609,
@@ -433,14 +465,6 @@
       "onboard_time": 1713794481,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 262352,
-      "num": 262352,
-      "word": "中医建议一定要保护好眼睛",
-      "onboard_time": 1713837559,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 253515,
@@ -483,6 +507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 237214,
+      "num": 237214,
+      "word": "国防教育法拟修订",
+      "onboard_time": 1713839058,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 235539,
       "num": 235539,
       "word": "海船擦碰九江大桥防撞墩后沉没4人失联",
@@ -499,22 +531,6 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 230267,
-      "num": 230267,
-      "word": "陈少杰被指或获刑5年",
-      "onboard_time": 1713838758,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 226630,
-      "num": 226630,
-      "word": "肝不好可能有一黄二红三黑",
-      "onboard_time": 1713838518,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 221919,
       "num": 221919,
       "word": "HYBE获取ADOR内部文件",
@@ -529,6 +545,14 @@
       "onboard_time": 1713796639,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211945,
+      "num": 211945,
+      "word": "TWS 男版NewJeans",
+      "onboard_time": 1713839419,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 211100,
@@ -585,6 +609,14 @@
       "onboard_time": 1713786437,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 193491,
+      "num": 193491,
+      "word": "生万物阵容官宣",
+      "onboard_time": 1713839657,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 193057,
@@ -667,12 +699,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 167688,
-      "num": 167688,
-      "word": "国防教育法拟修订",
-      "onboard_time": 1713839058,
-      "rank": 43,
-      "category": "国内时政"
+      "raw_hot": 173012,
+      "num": 173012,
+      "word": "尼克斯逆转76人",
+      "onboard_time": 1713839718,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 167175,
@@ -689,6 +721,14 @@
       "onboard_time": 1713834979,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165548,
+      "num": 165548,
+      "word": "临江仙海报",
+      "onboard_time": 1713839837,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 162872,

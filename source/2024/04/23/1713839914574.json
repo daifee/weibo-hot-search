@@ -1,0 +1,410 @@
+{
+  "runTime": 1713839914574,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2509762,
+        "num": 2509762,
+        "word": "多地高校禁止学生挂床帘",
+        "onboard_time": 1713835398,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1017435,
+        "num": 1017435,
+        "word": "茶百道上市",
+        "onboard_time": 1713837858,
+        "rank": 1,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 25243,
+        "num": 912523,
+        "word": "世界读书日开卷有益",
+        "onboard_time": 1713789559,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3226093,
+        "num": 905168,
+        "word": "一条小团团确认被捕",
+        "onboard_time": 1713828375,
+        "rank": 3,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 2060155,
+        "num": 902463,
+        "word": "PDD",
+        "onboard_time": 1713834858,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 894637,
+        "num": 894637,
+        "word": "狐妖小红娘月红篇涂山万象海报",
+        "onboard_time": 1713838638,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 825254,
+        "num": 825254,
+        "word": "薛之谦演唱会一个人来的女主发声",
+        "onboard_time": 1713830478,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 771184,
+        "num": 771184,
+        "word": "辅导员回应多地高校禁止学生挂床帘",
+        "onboard_time": 1713834259,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612332,
+        "num": 612332,
+        "word": "于东来称去年计划挣2000万结果赚了1.4亿",
+        "onboard_time": 1713835641,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188770,
+        "num": 517983,
+        "word": "大熊猫北辰把特供乒乓球给吃了",
+        "onboard_time": 1713813012,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846896,
+        "num": 512659,
+        "word": "一条小团团",
+        "onboard_time": 1713830117,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 485471,
+        "num": 485471,
+        "word": "孙颖莎世排第一8300分",
+        "onboard_time": 1713835099,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450102,
+        "num": 450102,
+        "word": "莫言称每次刷完短视频都会批评自己",
+        "onboard_time": 1713831739,
+        "rank": 12,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 446292,
+        "num": 446292,
+        "word": "大批斗鱼头部主播停播",
+        "onboard_time": 1713838997,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 413250,
+        "num": 413250,
+        "word": "2024爱奇艺未来片单",
+        "onboard_time": 1713835759,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407126,
+        "num": 407126,
+        "word": "面馆老板1天卖100碗刚够交房租",
+        "onboard_time": 1713835998,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340054,
+        "num": 340054,
+        "word": "许凯身上痒就去洗澡",
+        "onboard_time": 1713827956,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335240,
+        "num": 335240,
+        "word": "台湾花莲又发5.9级地震",
+        "onboard_time": 1713796821,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316124,
+        "num": 316124,
+        "word": "台湾1小时内发生10起地震",
+        "onboard_time": 1713785656,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308027,
+        "num": 308027,
+        "word": "肝不好可能有一黄二红三黑",
+        "onboard_time": 1713838518,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 342754,
+        "num": 305937,
+        "word": "普通女孩三个月的爆改之路",
+        "onboard_time": 1713836838,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297452,
+        "num": 297452,
+        "word": "一条小团团斗鱼直播间还在",
+        "onboard_time": 1713836478,
+        "rank": 21,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 296189,
+        "num": 296189,
+        "word": "大梦归离群像海报",
+        "onboard_time": 1713838338,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286819,
+        "num": 286819,
+        "word": "陈少杰被指或获刑5年",
+        "onboard_time": 1713838758,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 284504,
+        "num": 284504,
+        "word": "黄金白银集体大跌",
+        "onboard_time": 1713831440,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 269808,
+        "num": 269808,
+        "word": "TF三代 门面",
+        "onboard_time": 1713839478,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266714,
+        "num": 266714,
+        "word": "中医建议一定要保护好眼睛",
+        "onboard_time": 1713837559,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258227,
+        "num": 258227,
+        "word": "台湾花莲凌晨2次超6级地震",
+        "onboard_time": 1713827354,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249758,
+        "num": 249758,
+        "word": "上海惊现阿尼亚cos巨人",
+        "onboard_time": 1713837258,
+        "rank": 28,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 237214,
+        "num": 237214,
+        "word": "国防教育法拟修订",
+        "onboard_time": 1713839058,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220631,
+        "num": 220631,
+        "word": "赚了一个亏了一个平了一个",
+        "onboard_time": 1713800177,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215135,
+        "num": 215135,
+        "word": "为什么点外卖都要送这种饮料",
+        "onboard_time": 1713795980,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 214428,
+        "num": 214428,
+        "word": "郑乃馨承认恋情",
+        "onboard_time": 1713786198,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211945,
+        "num": 211945,
+        "word": "TWS 男版NewJeans",
+        "onboard_time": 1713839419,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196232,
+        "num": 196232,
+        "word": "杨幂的破窗之作",
+        "onboard_time": 1713830600,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193491,
+        "num": 193491,
+        "word": "生万物阵容官宣",
+        "onboard_time": 1713839657,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183556,
+        "num": 183556,
+        "word": "东北雨姐回应做手术",
+        "onboard_time": 1713834378,
+        "rank": 36,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 183010,
+        "num": 183010,
+        "word": "乔丹儿子皮蓬前妻开放关系",
+        "onboard_time": 1713829337,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182647,
+        "num": 182647,
+        "word": "WVS商店把NewJeans移除推荐位",
+        "onboard_time": 1713835340,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174993,
+        "num": 174993,
+        "word": "田嘉瑞首部男二剧",
+        "onboard_time": 1713835818,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173012,
+        "num": 173012,
+        "word": "尼克斯逆转76人",
+        "onboard_time": 1713839718,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165548,
+        "num": 165548,
+        "word": "临江仙海报",
+        "onboard_time": 1713839837,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157192,
+        "num": 157192,
+        "word": "凌晨的HYBE",
+        "onboard_time": 1713830238,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148986,
+        "num": 148986,
+        "word": "婚前性行为该拒绝吗",
+        "onboard_time": 1713791180,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144584,
+        "num": 144584,
+        "word": "广州塔是怎么做到又科幻又仙的",
+        "onboard_time": 1713837439,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142942,
+        "num": 142942,
+        "word": "什么是讨坏型人格",
+        "onboard_time": 1713836778,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140675,
+        "num": 140675,
+        "word": "七夜雪预告",
+        "onboard_time": 1713835279,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136229,
+        "num": 136229,
+        "word": "台湾本月初地震已有1000多次余震",
+        "onboard_time": 1713834199,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133797,
+        "num": 133797,
+        "word": "广东暴雨",
+        "onboard_time": 1713833599,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132175,
+        "num": 132175,
+        "word": "250名跨境裸聊敲诈电诈嫌犯移交我国",
+        "onboard_time": 1713836959,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}
