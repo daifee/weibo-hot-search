@@ -1,0 +1,410 @@
+{
+  "runTime": 1713863887999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1703142,
+        "num": 1703142,
+        "word": "辛芷蕾听过杨洋二十年不参加综艺",
+        "onboard_time": 1713856879,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1200055,
+        "num": 1200055,
+        "word": "艺考 作弊",
+        "onboard_time": 1713848959,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38363,
+        "num": 973037,
+        "word": "第29个世界读书日",
+        "onboard_time": 1713843138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1407337,
+        "num": 965079,
+        "word": "王权富贵",
+        "onboard_time": 1713857838,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 924621,
+        "num": 924621,
+        "word": "小团团或将面临3至5年刑期",
+        "onboard_time": 1713852139,
+        "rank": 4,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 594098,
+        "num": 594098,
+        "word": "六味地黄丸补肾还是毁肾",
+        "onboard_time": 1713860477,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 541081,
+        "num": 541081,
+        "word": "考上二本院校是不够努力吗",
+        "onboard_time": 1713863118,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 494948,
+        "num": 535565,
+        "word": "金饰价格一夜跌14元每克",
+        "onboard_time": 1713843018,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 532633,
+        "num": 532633,
+        "word": "金高银太美了",
+        "onboard_time": 1713862159,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217031,
+        "num": 532618,
+        "word": "高中女生帮老奶奶拿废品",
+        "onboard_time": 1713854777,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1465400,
+        "num": 521073,
+        "word": "辛芷蕾 抱歉杨洋我听错了",
+        "onboard_time": 1713859459,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 795017,
+        "num": 503889,
+        "word": "女生遭霸凌为逃避殴打捡玻璃片割喉",
+        "onboard_time": 1713856639,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575161,
+        "num": 495259,
+        "word": "一条小团团确认被捕",
+        "onboard_time": 1713828375,
+        "rank": 12,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 488271,
+        "num": 488271,
+        "word": "北电回应艺考生被曝作弊",
+        "onboard_time": 1713856758,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459718,
+        "num": 459718,
+        "word": "北京市教委回应北电艺考生被曝作弊",
+        "onboard_time": 1713859879,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451417,
+        "num": 451417,
+        "word": "女教师遭网课爆破猝死女儿决心休学",
+        "onboard_time": 1713851958,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350761,
+        "num": 350761,
+        "word": "华为",
+        "onboard_time": 1713858677,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 323534,
+        "num": 323534,
+        "word": "工作人员输错号让彩民中800多万",
+        "onboard_time": 1713847821,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264129,
+        "num": 264129,
+        "word": "凤凰传奇 唯粉",
+        "onboard_time": 1713854777,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235586,
+        "num": 235586,
+        "word": "书卷一梦开机",
+        "onboard_time": 1713859818,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226559,
+        "num": 226559,
+        "word": "一个父亲没了软肋就不再需要底线",
+        "onboard_time": 1713852560,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225585,
+        "num": 225585,
+        "word": "中戏表演系帅哥美女",
+        "onboard_time": 1713844158,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224952,
+        "num": 224952,
+        "word": "小团团周边或下架",
+        "onboard_time": 1713863298,
+        "rank": 22,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 216194,
+        "num": 216194,
+        "word": "金秀贤把金智媛搂怀里看剧本",
+        "onboard_time": 1713852979,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 625389,
+        "num": 214756,
+        "word": "杨洋的综艺",
+        "onboard_time": 1713860119,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211100,
+        "num": 211100,
+        "word": "王鹤棣和妈妈泰国旅行照",
+        "onboard_time": 1713862997,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195088,
+        "num": 195088,
+        "word": "小团团直播间打赏能否要回",
+        "onboard_time": 1713860838,
+        "rank": 26,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 192848,
+        "num": 192848,
+        "word": "李闽轩 北电艺考",
+        "onboard_time": 1713841578,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190439,
+        "num": 190439,
+        "word": "男子车位被霸停5天一怒焊死",
+        "onboard_time": 1713850758,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188018,
+        "num": 188018,
+        "word": "床帘 遮光",
+        "onboard_time": 1713850518,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190700,
+        "num": 187506,
+        "word": "狐妖小红娘",
+        "onboard_time": 1713861318,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186694,
+        "num": 186694,
+        "word": "大梦归离",
+        "onboard_time": 1713862938,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188535,
+        "num": 186534,
+        "word": "友情最可怕的其实不是绝交",
+        "onboard_time": 1713861857,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180548,
+        "num": 180548,
+        "word": "赵奕欢再扮程小雨",
+        "onboard_time": 1713860958,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179133,
+        "num": 179133,
+        "word": "宋雨琦新歌FREAK",
+        "onboard_time": 1713863598,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176501,
+        "num": 176501,
+        "word": "小鹏汽车回应水军事件",
+        "onboard_time": 1713863059,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 172513,
+        "num": 172513,
+        "word": "青春环游记",
+        "onboard_time": 1713861078,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165909,
+        "num": 165909,
+        "word": "白鹿上古神女",
+        "onboard_time": 1713856879,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162652,
+        "num": 162652,
+        "word": "官方通报湖南平江9岁学生坠亡",
+        "onboard_time": 1713863478,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81321,
+        "num": 161718,
+        "word": "赛那为了中国家庭能有多卷",
+        "onboard_time": 1713863178,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 36319,
+        "num": 161527,
+        "word": "余承东称问界新M5是陆地小坦克",
+        "onboard_time": 1713863537,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 161404,
+        "num": 161404,
+        "word": "嬛嬛美甲",
+        "onboard_time": 1713863537,
+        "rank": 41,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 160841,
+        "num": 160841,
+        "word": "董宇辉称一个公司不能每天疯狂搞内斗",
+        "onboard_time": 1713857599,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153877,
+        "num": 158986,
+        "word": "原来应届毕业生身份这么值",
+        "onboard_time": 1713845180,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158423,
+        "num": 158423,
+        "word": "华为正式发布问界新M5",
+        "onboard_time": 1713861678,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150237,
+        "num": 150237,
+        "word": "五月天鸟巢演唱会",
+        "onboard_time": 1713854418,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145577,
+        "num": 145577,
+        "word": "臣妾要告发凤凰传奇私自练兵",
+        "onboard_time": 1713858018,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141544,
+        "num": 141544,
+        "word": "胡先煦不认识还是不敢选",
+        "onboard_time": 1713859698,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140587,
+        "num": 140587,
+        "word": "34岁女子辅导孩子作业气到卵巢早衰",
+        "onboard_time": 1713863059,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140596,
+        "num": 139262,
+        "word": "孙俪演女刑警",
+        "onboard_time": 1713863779,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}

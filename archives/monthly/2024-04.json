@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713861291157,
+  "endTime": 1713863887999,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1020,7 +1020,7 @@
     },
     {
       "raw_hot": 1885663,
-      "num": 456957,
+      "num": 521073,
       "word": "辛芷蕾 抱歉杨洋我听错了",
       "onboard_time": 1713859459,
       "rank": 10,
@@ -5196,7 +5196,7 @@
     },
     {
       "raw_hot": 965931,
-      "num": 453032,
+      "num": 503889,
       "word": "女生遭霸凌为逃避殴打捡玻璃片割喉",
       "onboard_time": 1713856639,
       "rank": 24,
@@ -10515,6 +10515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 625389,
+      "num": 594564,
+      "word": "杨洋的综艺",
+      "onboard_time": 1713860119,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 624784,
       "num": 624784,
       "word": "老师以考试奖励名义送学生新鞋",
@@ -11339,14 +11347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 594564,
-      "num": 594564,
-      "word": "杨洋的综艺",
-      "onboard_time": 1713860119,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 594493,
       "num": 594493,
       "word": "河南省考成绩",
@@ -11377,6 +11377,14 @@
       "onboard_time": 1712463080,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 594098,
+      "num": 594098,
+      "word": "六味地黄丸补肾还是毁肾",
+      "onboard_time": 1713860477,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 593832,
@@ -13027,6 +13035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 541081,
+      "num": 541081,
+      "word": "考上二本院校是不够努力吗",
+      "onboard_time": 1713863118,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 540941,
       "num": 540941,
       "word": "李现镜头畸变下的颜值",
@@ -13257,6 +13273,14 @@
       "onboard_time": 1711991834,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 532633,
+      "num": 532633,
+      "word": "金高银太美了",
+      "onboard_time": 1713862159,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 532441,
@@ -16233,6 +16257,14 @@
       "onboard_time": 1712065822,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 459718,
+      "num": 459718,
+      "word": "北京市教委回应北电艺考生被曝作弊",
+      "onboard_time": 1713859879,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 458842,
@@ -20529,14 +20561,6 @@
       "onboard_time": 1712792837,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 369144,
-      "num": 369144,
-      "word": "北京市教委回应北电艺考生被曝作弊",
-      "onboard_time": 1713859879,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368929,
@@ -30100,7 +30124,7 @@
     },
     {
       "raw_hot": 244801,
-      "num": 508618,
+      "num": 532618,
       "word": "高中女生帮老奶奶拿废品",
       "onboard_time": 1713854777,
       "rank": 9,
@@ -31057,14 +31081,6 @@
       "onboard_time": 1712494999,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237575,
-      "num": 237575,
-      "word": "六味地黄丸补肾还是毁肾",
-      "onboard_time": 1713860477,
-      "rank": 36,
-      "category": "科学科普"
     },
     {
       "raw_hot": 237554,
@@ -32769,6 +32785,14 @@
       "onboard_time": 1712823679,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224952,
+      "num": 224952,
+      "word": "小团团周边或下架",
+      "onboard_time": 1713863298,
+      "rank": 22,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 224881,
@@ -34785,6 +34809,14 @@
       "onboard_time": 1713834139,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 211100,
+      "num": 211100,
+      "word": "王鹤棣和妈妈泰国旅行照",
+      "onboard_time": 1713862997,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 211096,
@@ -39075,6 +39107,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 195088,
+      "num": 195088,
+      "word": "小团团直播间打赏能否要回",
+      "onboard_time": 1713860838,
+      "rank": 42,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 195069,
       "num": 195069,
       "word": "台剧 40岁女性",
@@ -40379,6 +40419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190700,
+      "num": 187506,
+      "word": "狐妖小红娘",
+      "onboard_time": 1713861318,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190648,
       "num": 190648,
       "word": "周杰伦 哈圈伍佰",
@@ -41107,6 +41155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188535,
+      "num": 186534,
+      "word": "友情最可怕的其实不是绝交",
+      "onboard_time": 1713861857,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188512,
       "num": 188512,
       "word": "长沙暴雨天都黑了",
@@ -41625,6 +41681,14 @@
       "onboard_time": 1712737339,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 186694,
+      "num": 186694,
+      "word": "大梦归离",
+      "onboard_time": 1713862938,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 186687,
@@ -43227,6 +43291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180548,
+      "num": 180548,
+      "word": "赵奕欢再扮程小雨",
+      "onboard_time": 1713860958,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180481,
       "num": 176380,
       "word": "张小斐的钻戒好大",
@@ -43457,6 +43529,14 @@
       "onboard_time": 1712206697,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179133,
+      "num": 179133,
+      "word": "宋雨琦新歌FREAK",
+      "onboard_time": 1713863598,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 179120,
@@ -44049,6 +44129,14 @@
       "onboard_time": 1713719954,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176501,
+      "num": 176501,
+      "word": "小鹏汽车回应水军事件",
+      "onboard_time": 1713863059,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 176496,
@@ -47275,6 +47363,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 162652,
+      "num": 162652,
+      "word": "官方通报湖南平江9岁学生坠亡",
+      "onboard_time": 1713863478,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162614,
       "num": 162614,
       "word": "娄艺潇马面裙",
@@ -47665,6 +47761,14 @@
       "onboard_time": 1712090171,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161404,
+      "num": 161404,
+      "word": "嬛嬛美甲",
+      "onboard_time": 1713863537,
+      "rank": 41,
+      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 161275,
@@ -48305,6 +48409,14 @@
       "onboard_time": 1712369598,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 158423,
+      "num": 158423,
+      "word": "华为正式发布问界新M5",
+      "onboard_time": 1713861678,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 158405,
@@ -53267,6 +53379,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140596,
+      "num": 139262,
+      "word": "孙俪演女刑警",
+      "onboard_time": 1713863779,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140587,
+      "num": 140587,
+      "word": "34岁女子辅导孩子作业气到卵巢早衰",
+      "onboard_time": 1713863059,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140529,
       "num": 140529,
       "word": "为何女生比男生更喜欢用iPhone",
@@ -53499,14 +53627,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 139851,
-      "num": 139346,
-      "word": "赵奕欢再扮程小雨",
-      "onboard_time": 1713860958,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139809,
       "num": 139809,
       "word": "散光恢复训练",
@@ -53633,14 +53753,6 @@
       "onboard_time": 1712649020,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 138999,
-      "num": 138999,
-      "word": "小团团直播间打赏能否要回",
-      "onboard_time": 1713860838,
-      "rank": 42,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 138969,
@@ -61523,6 +61635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 81321,
+      "num": 161718,
+      "word": "赛那为了中国家庭能有多卷",
+      "onboard_time": 1713863178,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 81182,
       "num": 314935,
       "word": "你开车导航还用手机支架吗",
@@ -64057,6 +64177,14 @@
       "onboard_time": 1712945353,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 36319,
+      "num": 161527,
+      "word": "余承东称问界新M5是陆地小坦克",
+      "onboard_time": 1713863537,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 36288,
