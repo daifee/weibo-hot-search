@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713850464530,
+  "endTime": 1713853514751,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2747935,
+      "num": 2747935,
+      "word": "艺考 作弊",
+      "onboard_time": 1713848959,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2693897,
       "num": 572961,
       "word": "郑乃馨承认恋情",
@@ -89,14 +97,6 @@
       "onboard_time": 1713745579,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2288672,
-      "num": 2288672,
-      "word": "艺考 作弊",
-      "onboard_time": 1713848959,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 2259934,
@@ -201,6 +201,14 @@
       "onboard_time": 1713743537,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1591263,
+      "num": 1591263,
+      "word": "小团团或将面临3至5年刑期",
+      "onboard_time": 1713852139,
+      "rank": 1,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1537487,
@@ -627,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 915332,
+      "num": 915332,
+      "word": "工作人员输错号让彩民中800多万",
+      "onboard_time": 1713847821,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 911966,
       "num": 911966,
       "word": "许美静演唱会 划水",
@@ -793,6 +809,14 @@
       "onboard_time": 1713831440,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 808240,
+      "num": 808240,
+      "word": "床帘 遮光",
+      "onboard_time": 1713850518,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 803399,
@@ -1115,14 +1139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 656644,
-      "num": 656644,
-      "word": "工作人员输错号让彩民中800多万",
-      "onboard_time": 1713847821,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 648699,
       "num": 648699,
       "word": "大学生考研不再非985211不读",
@@ -1241,6 +1257,14 @@
       "onboard_time": 1713667997,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 600758,
+      "num": 488728,
+      "word": "女教师遭网课爆破猝死女儿决心休学",
+      "onboard_time": 1713851958,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 598677,
@@ -1761,6 +1785,14 @@
       "onboard_time": 1713746958,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 484312,
+      "num": 484312,
+      "word": "杨幂狐妖从原声换成配音了",
+      "onboard_time": 1713850219,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 483137,
@@ -2515,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348901,
+      "num": 269881,
+      "word": "男子车位被霸停5天一怒焊死",
+      "onboard_time": 1713850758,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347276,
       "num": 347276,
       "word": "杨幂民国军装",
@@ -2659,6 +2699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325177,
+      "num": 325177,
+      "word": "花少导演组靠秦海璐拉群",
+      "onboard_time": 1713850398,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324964,
       "num": 324964,
       "word": "HYBE官方公告",
@@ -2689,6 +2737,14 @@
       "onboard_time": 1713778218,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321391,
+      "num": 321391,
+      "word": "电视剧遮天阵容官宣",
+      "onboard_time": 1713852678,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 319470,
@@ -3051,6 +3107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272259,
+      "num": 272259,
+      "word": "一个父亲没了软肋就不再需要底线",
+      "onboard_time": 1713852560,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 271832,
       "num": 271832,
       "word": "哪吒张勇致歉",
@@ -3121,6 +3185,14 @@
       "onboard_time": 1713651371,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265016,
+      "num": 265016,
+      "word": "金秀贤把金智媛搂怀里看剧本",
+      "onboard_time": 1713852979,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 263911,
@@ -3491,6 +3563,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 241248,
+      "num": 241248,
+      "word": "秦岚选到了谁",
+      "onboard_time": 1713851958,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241038,
       "num": 241038,
       "word": "李现内娱第一个在采访里笑哭的",
@@ -3609,6 +3689,14 @@
       "onboard_time": 1713833061,
       "rank": 29,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 234852,
+      "num": 234852,
+      "word": "小团团房管让粉丝无视相关消息",
+      "onboard_time": 1713853040,
+      "rank": 28,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 234324,
@@ -3971,14 +4059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214579,
-      "num": 214579,
-      "word": "杨幂狐妖从原声换成配音了",
-      "onboard_time": 1713850219,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 214424,
       "num": 214424,
       "word": "雍和宫偶遇董卿",
@@ -4283,6 +4363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203663,
+      "num": 203663,
+      "word": "林高远 允许自己不完美",
+      "onboard_time": 1713852979,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203558,
       "num": 203558,
       "word": "罗云熙杀青路透",
@@ -4560,6 +4648,14 @@
       "word": "背着善宰跑",
       "onboard_time": 1713789379,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194420,
+      "num": 194420,
+      "word": "大梦归离首发预告",
+      "onboard_time": 1713852378,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -5395,6 +5491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168791,
+      "num": 168791,
+      "word": "颜心记新预告",
+      "onboard_time": 1713852917,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168748,
       "num": 166189,
       "word": "不够善良的我们 量子力学",
@@ -5771,6 +5875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156586,
+      "num": 156586,
+      "word": "台气象部门称本轮地震可能持续1年",
+      "onboard_time": 1713850819,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156547,
       "num": 156547,
       "word": "徐子未音乐节哭了",
@@ -5833,14 +5945,6 @@
       "onboard_time": 1713846019,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154878,
-      "num": 154878,
-      "word": "花少导演组靠秦海璐拉群",
-      "onboard_time": 1713850398,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 154775,
@@ -5995,6 +6099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151490,
+      "num": 151490,
+      "word": "周鸿祎称换车只选国产新能源",
+      "onboard_time": 1713853158,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 150796,
       "num": 150796,
       "word": "乒乓球世界杯",
@@ -6016,6 +6128,14 @@
       "word": "陈晓清装白月光",
       "onboard_time": 1713628518,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150360,
+      "num": 150360,
+      "word": "李现登世趋",
+      "onboard_time": 1713851418,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -6107,6 +6227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147061,
+      "num": 147061,
+      "word": "刘诗诗琼瑶式落泪",
+      "onboard_time": 1713850219,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146961,
       "num": 146961,
       "word": "88岁老兵脑海中自带海里公里换算器",
@@ -6145,6 +6273,14 @@
       "onboard_time": 1713702258,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145986,
+      "num": 145986,
+      "word": "孙子减龄式爆改87岁爷爷",
+      "onboard_time": 1713853279,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145673,
@@ -7753,6 +7889,14 @@
       "onboard_time": 1713806173,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32180,
+      "num": 146154,
+      "word": "时代少年团说贵妃请接荔",
+      "onboard_time": 1713853399,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 30488,
