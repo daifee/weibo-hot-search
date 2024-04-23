@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713897252173,
+  "endTime": 1713899713495,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -66491,6 +66491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19531,
+      "num": 19531,
+      "word": "小团团掉粉近50万",
+      "onboard_time": 1713897851,
+      "rank": 41,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 19427,
       "num": 140017,
       "word": "CPSP出现怪盗团",
@@ -66593,6 +66601,14 @@
       "onboard_time": 1713813551,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17504,
+      "num": 18870,
+      "word": "喜剧之王单口季",
+      "onboard_time": 1713899171,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 17410,

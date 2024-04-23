@@ -1,6 +1,6 @@
 {
   "startTime": 1713889329936,
-  "endTime": 1713897252173,
+  "endTime": 1713899713495,
   "band_list": [
     {
       "raw_hot": 1267413,
@@ -403,6 +403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80056,
+      "num": 80056,
+      "word": "一条小团团单月礼物收入曾高达500万",
+      "onboard_time": 1713875839,
+      "rank": 49,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 79842,
       "num": 89264,
       "word": "西湖也是要洗湖的",
@@ -417,14 +425,6 @@
       "onboard_time": 1713886338,
       "rank": 48,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 66232,
-      "num": 66232,
-      "word": "一条小团团单月礼物收入曾高达500万",
-      "onboard_time": 1713875839,
-      "rank": 49,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 64001,
@@ -505,6 +505,22 @@
       "onboard_time": 1713876918,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19531,
+      "num": 19531,
+      "word": "小团团掉粉近50万",
+      "onboard_time": 1713897851,
+      "rank": 41,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 17504,
+      "num": 18870,
+      "word": "喜剧之王单口季",
+      "onboard_time": 1713899171,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 16812,
