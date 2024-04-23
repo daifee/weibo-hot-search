@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713857678403,
+  "endTime": 1713860530994,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -139,12 +139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2067413,
+      "num": 2067413,
+      "word": "辛芷蕾听过杨洋二十年不参加综艺",
+      "onboard_time": 1713856879,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2053116,
       "num": 2053116,
       "word": "星巴克 免费咖啡",
       "onboard_time": 1713758058,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2031751,
+      "num": 1103908,
+      "word": "王权富贵",
+      "onboard_time": 1713857838,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 2013948,
@@ -313,6 +329,14 @@
       "onboard_time": 1713752838,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1323629,
+      "num": 456957,
+      "word": "辛芷蕾 抱歉杨洋我听错了",
+      "onboard_time": 1713859459,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1319396,
@@ -827,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 819142,
+      "num": 453032,
+      "word": "女生遭霸凌为逃避殴打捡玻璃片割喉",
+      "onboard_time": 1713856639,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 815652,
       "num": 815652,
       "word": "黄金白银集体大跌",
@@ -977,14 +1009,6 @@
       "onboard_time": 1713781638,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 702963,
-      "num": 702963,
-      "word": "辛芷蕾听过杨洋二十年不参加综艺",
-      "onboard_time": 1713856879,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 700030,
@@ -1619,6 +1643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 524957,
+      "num": 286006,
+      "word": "茶百道上市一小时跌没3年净利润",
+      "onboard_time": 1713857658,
+      "rank": 49,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 523851,
       "num": 522437,
       "word": "天津街头两名交警互殴",
@@ -1985,6 +2017,14 @@
       "onboard_time": 1713773839,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 463589,
+      "num": 463589,
+      "word": "华为",
+      "onboard_time": 1713858677,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 457320,
@@ -2939,6 +2979,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 299700,
+      "num": 299700,
+      "word": "北京市教委回应北电艺考生被曝作弊",
+      "onboard_time": 1713859879,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298792,
       "num": 259440,
       "word": "垫底辣孩模仿魏若来",
@@ -3041,6 +3089,14 @@
       "onboard_time": 1713847041,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 289587,
+      "num": 289587,
+      "word": "杨洋的综艺",
+      "onboard_time": 1713860119,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 289202,
@@ -3403,14 +3459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 255624,
-      "num": 255624,
-      "word": "女生遭霸凌为逃避殴打捡玻璃片割喉",
-      "onboard_time": 1713856639,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254505,
       "num": 254505,
       "word": "全场为周冠宇欢呼",
@@ -3713,6 +3761,14 @@
       "onboard_time": 1713792140,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239467,
+      "num": 239467,
+      "word": "董宇辉称一个公司不能每天疯狂搞内斗",
+      "onboard_time": 1713857599,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 239242,
@@ -4041,6 +4097,14 @@
       "onboard_time": 1713760940,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222234,
+      "num": 222234,
+      "word": "问界新M5价格",
+      "onboard_time": 1713858557,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 221919,
@@ -4699,6 +4763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198692,
+      "num": 198692,
+      "word": "书卷一梦开机",
+      "onboard_time": 1713859818,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198028,
       "num": 198028,
       "word": "专家谈休假制度什么时候才能改",
@@ -5081,6 +5153,14 @@
       "onboard_time": 1713617778,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187395,
+      "num": 187395,
+      "word": "臣妾要告发凤凰传奇私自练兵",
+      "onboard_time": 1713858018,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 187321,
@@ -5529,6 +5609,14 @@
       "onboard_time": 1713759018,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 174110,
+      "num": 174110,
+      "word": "六味地黄丸补肾还是毁肾",
+      "onboard_time": 1713860477,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 173392,
@@ -6387,6 +6475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148971,
+      "num": 148971,
+      "word": "逆水寒",
+      "onboard_time": 1713858258,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148799,
       "num": 148799,
       "word": "大英赛答案",
@@ -6683,6 +6779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141126,
+      "num": 141126,
+      "word": "胡先煦不认识还是不敢选",
+      "onboard_time": 1713859698,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140859,
       "num": 140859,
       "word": "苏有朋主打一个听劝",
@@ -6963,6 +7067,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 132658,
+      "num": 132658,
+      "word": "mlxg谈RNG合同细节",
+      "onboard_time": 1713858197,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132436,
       "num": 132436,
       "word": "泡泡岛 惊喜嘉宾",
@@ -7219,6 +7331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123059,
+      "num": 123059,
+      "word": "河北警方调查理想MEGA遭恶意攻击事件",
+      "onboard_time": 1713859219,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122973,
       "num": 122973,
       "word": "人民海军生日快乐",
@@ -7257,6 +7377,14 @@
       "onboard_time": 1713798619,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121913,
+      "num": 121913,
+      "word": "原来真实的古代地牢是这样的",
+      "onboard_time": 1713858197,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 120649,
@@ -7315,20 +7443,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 117761,
+      "num": 117761,
+      "word": "杨幂台词",
+      "onboard_time": 1713860359,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117169,
       "num": 117169,
       "word": "新一说比任何人都喜欢小兰",
       "onboard_time": 1713767417,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 116712,
-      "num": 116712,
-      "word": "董宇辉称一个公司不能每天疯狂搞内斗",
-      "onboard_time": 1713857599,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 116468,
@@ -7403,14 +7531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113703,
-      "num": 113703,
-      "word": "茶百道上市一小时跌没3年净利润",
-      "onboard_time": 1713857658,
-      "rank": 49,
-      "category": "财经,美食"
-    },
-    {
       "raw_hot": 113246,
       "num": 113246,
       "word": "秦岚辛芷蕾 双向友情具象化",
@@ -7441,6 +7561,14 @@
       "onboard_time": 1713659598,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109996,
+      "num": 210442,
+      "word": "这间书店大家想看什么书老板去买",
+      "onboard_time": 1713859339,
+      "rank": 29,
+      "category": "读书作家,情感"
     },
     {
       "raw_hot": 109032,

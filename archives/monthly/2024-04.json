@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713857678403,
+  "endTime": 1713860530994,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -787,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2067413,
+      "num": 2067413,
+      "word": "辛芷蕾听过杨洋二十年不参加综艺",
+      "onboard_time": 1713856879,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2063526,
       "num": 2063526,
       "word": "朴宝蓝喝酒后死亡",
@@ -809,6 +817,14 @@
       "onboard_time": 1713574397,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2031751,
+      "num": 1103908,
+      "word": "王权富贵",
+      "onboard_time": 1713857838,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 2030988,
@@ -2561,6 +2577,14 @@
       "onboard_time": 1713752838,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1323629,
+      "num": 456957,
+      "word": "辛芷蕾 抱歉杨洋我听错了",
+      "onboard_time": 1713859459,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1323225,
@@ -6779,6 +6803,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 819142,
+      "num": 453032,
+      "word": "女生遭霸凌为逃避殴打捡玻璃片割喉",
+      "onboard_time": 1713856639,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 816939,
       "num": 816939,
       "word": "林更新新简介",
@@ -8785,14 +8817,6 @@
       "onboard_time": 1712695450,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 702963,
-      "num": 702963,
-      "word": "辛芷蕾听过杨洋二十年不参加综艺",
-      "onboard_time": 1713856879,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 702862,
@@ -13529,6 +13553,14 @@
       "onboard_time": 1713015497,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 524957,
+      "num": 286006,
+      "word": "茶百道上市一小时跌没3年净利润",
+      "onboard_time": 1713857658,
+      "rank": 49,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 524949,
@@ -24875,6 +24907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299700,
+      "num": 299700,
+      "word": "北京市教委回应北电艺考生被曝作弊",
+      "onboard_time": 1713859879,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299584,
       "num": 299584,
       "word": "热辣滚烫打假",
@@ -25697,6 +25737,14 @@
       "onboard_time": 1712483838,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 289587,
+      "num": 289587,
+      "word": "杨洋的综艺",
+      "onboard_time": 1713860119,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 289536,
@@ -28715,14 +28763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 255624,
-      "num": 255624,
-      "word": "女生遭霸凌为逃避殴打捡玻璃片割喉",
-      "onboard_time": 1713856639,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255200,
       "num": 255200,
       "word": "无法想象宫崎骏有多自律",
@@ -30745,6 +30785,14 @@
       "onboard_time": 1713087197,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239467,
+      "num": 239467,
+      "word": "董宇辉称一个公司不能每天疯狂搞内斗",
+      "onboard_time": 1713857599,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 239442,
@@ -33033,6 +33081,14 @@
       "onboard_time": 1712240899,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 222234,
+      "num": 222234,
+      "word": "问界新M5价格",
+      "onboard_time": 1713858557,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 222214,
@@ -38043,6 +38099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198692,
+      "num": 198692,
+      "word": "书卷一梦开机",
+      "onboard_time": 1713859818,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198676,
       "num": 198676,
       "word": "武大开设雷军班计划招收30人",
@@ -41339,6 +41403,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 187395,
+      "num": 187395,
+      "word": "臣妾要告发凤凰传奇私自练兵",
+      "onboard_time": 1713858018,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187321,
       "num": 187321,
       "word": "春色寄情人 倒计时",
@@ -44609,6 +44681,14 @@
       "onboard_time": 1712816478,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174110,
+      "num": 174110,
+      "word": "六味地黄丸补肾还是毁肾",
+      "onboard_time": 1713860477,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 174014,
@@ -50915,6 +50995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 148971,
+      "num": 148971,
+      "word": "逆水寒",
+      "onboard_time": 1713858258,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148968,
       "num": 148968,
       "word": "ARASHI合体",
@@ -53075,6 +53163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 141126,
+      "num": 141126,
+      "word": "胡先煦不认识还是不敢选",
+      "onboard_time": 1713859698,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141065,
       "num": 141065,
       "word": "你谈不上恋爱的原因",
@@ -55123,6 +55219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132658,
+      "num": 132658,
+      "word": "mlxg谈RNG合同细节",
+      "onboard_time": 1713858197,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132627,
       "num": 524425,
       "word": "为什么每天刷牙还会蛀牙",
@@ -57011,6 +57115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123059,
+      "num": 123059,
+      "word": "河北警方调查理想MEGA遭恶意攻击事件",
+      "onboard_time": 1713859219,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123042,
       "num": 123042,
       "word": "威姆斯称从未回避药检",
@@ -57273,6 +57385,14 @@
       "onboard_time": 1712161096,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121913,
+      "num": 121913,
+      "word": "原来真实的古代地牢是这样的",
+      "onboard_time": 1713858197,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 121890,
@@ -58035,6 +58155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117761,
+      "num": 117761,
+      "word": "杨幂台词",
+      "onboard_time": 1713860359,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117718,
       "num": 117718,
       "word": "周翊然重庆vlog",
@@ -58193,14 +58321,6 @@
       "onboard_time": 1712291238,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 116712,
-      "num": 116712,
-      "word": "董宇辉称一个公司不能每天疯狂搞内斗",
-      "onboard_time": 1713857599,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 116663,
@@ -58625,14 +58745,6 @@
       "onboard_time": 1713544157,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113703,
-      "num": 113703,
-      "word": "茶百道上市一小时跌没3年净利润",
-      "onboard_time": 1713857658,
-      "rank": 49,
-      "category": "财经,美食"
     },
     {
       "raw_hot": 113692,
@@ -59073,6 +59185,14 @@
       "onboard_time": 1713169338,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 109996,
+      "num": 210442,
+      "word": "这间书店大家想看什么书老板去买",
+      "onboard_time": 1713859339,
+      "rank": 29,
+      "category": "读书作家,情感"
     },
     {
       "raw_hot": 109972,
