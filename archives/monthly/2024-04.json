@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713896515026,
+  "endTime": 1713897252173,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -66075,6 +66075,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 25044,
+      "num": 25745,
+      "word": "阿森纳vs切尔西",
+      "onboard_time": 1713896052,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24922,
       "num": 35268,
       "word": "在俊痛失本名",
@@ -66105,6 +66113,14 @@
       "onboard_time": 1713650112,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 24673,
+      "num": 26183,
+      "word": "HYBE说NewJeans和ILLIT团队不用担心",
+      "onboard_time": 1713892752,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 24591,
@@ -66185,14 +66201,6 @@
       "onboard_time": 1713820150,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 23480,
-      "num": 26183,
-      "word": "HYBE说NewJeans和ILLIT团队不用担心",
-      "onboard_time": 1713892752,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 23427,
@@ -66376,14 +66384,6 @@
       "word": "西班牙国家德比",
       "onboard_time": 1713734831,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 21254,
-      "num": 25745,
-      "word": "阿森纳vs切尔西",
-      "onboard_time": 1713896052,
-      "rank": 48,
       "category": "体育"
     },
     {
