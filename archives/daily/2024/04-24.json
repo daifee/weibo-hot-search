@@ -1,6 +1,6 @@
 {
   "startTime": 1713889329936,
-  "endTime": 1713903501968,
+  "endTime": 1713904486269,
   "band_list": [
     {
       "raw_hot": 1267413,
@@ -459,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 38002,
+      "num": 38002,
+      "word": "阿森纳vs切尔西",
+      "onboard_time": 1713896052,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36790,
       "num": 118979,
       "word": "潘展乐100米自冠军",
@@ -481,14 +489,6 @@
       "onboard_time": 1713876437,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25044,
-      "num": 25745,
-      "word": "阿森纳vs切尔西",
-      "onboard_time": 1713896052,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 24673,
@@ -531,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17435,
+      "num": 17435,
+      "word": "双子座的分享欲不是喜欢",
+      "onboard_time": 1713901451,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 16812,
       "num": 50806,
       "word": "蔡磊说要在倒下之前干掉渐冻症",
@@ -539,16 +547,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16081,
-      "num": 16081,
-      "word": "双子座的分享欲不是喜欢",
-      "onboard_time": 1713901451,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 11801,
-      "num": 14612,
+      "raw_hot": 16314,
+      "num": 16314,
       "word": "张颂文新剧官宣文案没跟上队形",
       "onboard_time": 1713903431,
       "rank": 49,
