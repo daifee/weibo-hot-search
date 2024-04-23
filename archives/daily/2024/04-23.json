@@ -1,6 +1,6 @@
 {
   "startTime": 1713802938860,
-  "endTime": 1713872107287,
+  "endTime": 1713875623879,
   "band_list": [
     {
       "raw_hot": 4471317,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1043051,
+      "num": 1043051,
+      "word": "暴雪捐赠三千万蛆虫拯救鸟类",
+      "onboard_time": 1713869539,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1041507,
       "num": 884039,
       "word": "茶百道上市首日跌超10%",
@@ -217,6 +225,14 @@
       "onboard_time": 1713844158,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 997509,
+      "num": 997509,
+      "word": "别麦了 老铁",
+      "onboard_time": 1713872058,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 995272,
@@ -257,6 +273,14 @@
       "onboard_time": 1713864077,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 934477,
+      "num": 934477,
+      "word": "周深演唱会抢票",
+      "onboard_time": 1713874278,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 915332,
@@ -339,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 705557,
+      "num": 484038,
+      "word": "多方回应15岁女生遭校园霸凌被迫割喉求生",
+      "onboard_time": 1713872299,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 704144,
       "num": 704144,
       "word": "金高银太美了",
@@ -361,6 +393,14 @@
       "onboard_time": 1713866358,
       "rank": 24,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 662955,
+      "num": 662955,
+      "word": "网红艺考生李闽轩或被取消高考资格",
+      "onboard_time": 1713871997,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 660289,
@@ -449,6 +489,14 @@
       "onboard_time": 1713869778,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 574947,
+      "num": 574947,
+      "word": "陈震直播回应小米SU7争议",
+      "onboard_time": 1713871397,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 569477,
@@ -603,6 +651,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 460517,
+      "num": 362923,
+      "word": "青环5总导演欢迎杨洋回家",
+      "onboard_time": 1713872898,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460481,
       "num": 460481,
       "word": "北科大女生 求你别再骗我妈救命钱",
@@ -641,6 +697,14 @@
       "onboard_time": 1713787639,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 446885,
+      "num": 446885,
+      "word": "林俊杰哈尔滨",
+      "onboard_time": 1713874758,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 445869,
@@ -715,6 +779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 407559,
+      "num": 407559,
+      "word": "五一不调休就会是这种结果",
+      "onboard_time": 1713875178,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 405853,
       "num": 405853,
       "word": "山西吕梁重大火灾调查报告公布",
@@ -785,6 +857,14 @@
       "onboard_time": 1713850758,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362227,
+      "num": 362227,
+      "word": "papi酱 莎士比亚四大喜剧",
+      "onboard_time": 1713873199,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 360188,
@@ -891,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315203,
+      "num": 315203,
+      "word": "蔡磊病情加重舌头下嘴唇已萎缩",
+      "onboard_time": 1713874158,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314567,
       "num": 314567,
       "word": "余罪再次下架",
@@ -913,6 +1001,14 @@
       "onboard_time": 1713798919,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 309503,
+      "num": 309503,
+      "word": "小团团",
+      "onboard_time": 1713874638,
+      "rank": 26,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 308593,
@@ -1043,14 +1139,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 282762,
-      "num": 282762,
-      "word": "暴雪捐赠三千万蛆虫拯救鸟类",
-      "onboard_time": 1713869539,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 279334,
       "num": 255585,
       "word": "小倩 撤档",
@@ -1121,14 +1209,6 @@
       "onboard_time": 1713794481,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 263173,
-      "num": 263173,
-      "word": "陈震直播回应小米SU7争议",
-      "onboard_time": 1713871397,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 261716,
@@ -1387,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229307,
+      "num": 229307,
+      "word": "抓大鹅",
+      "onboard_time": 1713874998,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 229288,
       "num": 229288,
       "word": "斗鱼去年扭亏为盈净利润1.54亿",
@@ -1427,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221343,
+      "num": 599069,
+      "word": "镇干部阻挠农民种地让交钱被免职",
+      "onboard_time": 1713869778,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219366,
       "num": 219366,
       "word": "嬛嬛美甲",
@@ -1465,14 +1561,6 @@
       "onboard_time": 1713845480,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213658,
-      "num": 221091,
-      "word": "镇干部阻挠农民种地让交钱被免职",
-      "onboard_time": 1713869778,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213110,
@@ -1715,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191925,
+      "num": 191925,
+      "word": "东北雨姐与张雪峰约饭",
+      "onboard_time": 1713872959,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 191216,
       "num": 191216,
       "word": "大梦归离再现云之羽站位",
@@ -1745,6 +1841,14 @@
       "onboard_time": 1713861318,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190491,
+      "num": 190491,
+      "word": "为什么青春剧不拍研究生",
+      "onboard_time": 1713875596,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 190490,
@@ -1833,6 +1937,14 @@
       "onboard_time": 1713853639,
       "rank": 33,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 185893,
+      "num": 185893,
+      "word": "乐言被处罚",
+      "onboard_time": 1713875417,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 183690,
@@ -1939,6 +2051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175653,
+      "num": 175653,
+      "word": "妇联已介入网传女生遭多人霸凌",
+      "onboard_time": 1713872778,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175415,
       "num": 175415,
       "word": "鱼 愿天堂没有给",
@@ -2001,6 +2121,14 @@
       "onboard_time": 1713787521,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167137,
+      "num": 167137,
+      "word": "金剪刀",
+      "onboard_time": 1713874218,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 167026,
@@ -2097,6 +2225,14 @@
       "onboard_time": 1713836778,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161672,
+      "num": 586514,
+      "word": "开展整治自媒体无底线博流量行动",
+      "onboard_time": 1713874158,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160196,
@@ -2363,14 +2499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136238,
-      "num": 136238,
-      "word": "网红艺考生李闽轩或被取消高考资格",
-      "onboard_time": 1713871997,
-      "rank": 44,
-      "category": "网红"
-    },
-    {
       "raw_hot": 134935,
       "num": 134935,
       "word": "特斯拉市值7天蒸发7511亿元",
@@ -2395,12 +2523,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 128119,
-      "num": 128119,
-      "word": "别麦了 老铁",
-      "onboard_time": 1713872058,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 131591,
+      "num": 131591,
+      "word": "八万的吉他让熊孩子灌了四瓶矿泉水",
+      "onboard_time": 1713874578,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 127666,
+      "num": 127666,
+      "word": "BOYNEXTDOOR 安可live",
+      "onboard_time": 1713874218,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 127267,
@@ -2409,6 +2545,22 @@
       "onboard_time": 1713819310,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 126469,
+      "num": 126469,
+      "word": "书卷一梦女主是谁",
+      "onboard_time": 1713873498,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126468,
+      "num": 362952,
+      "word": "极星加入车手生态圈",
+      "onboard_time": 1713874339,
+      "rank": 15,
+      "category": "数码,汽车"
     },
     {
       "raw_hot": 126153,
@@ -2467,12 +2619,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120340,
+      "num": 120340,
+      "word": "周深新歌奇迹时刻",
+      "onboard_time": 1713874038,
+      "rank": 48,
+      "category": "音乐,游戏"
+    },
+    {
       "raw_hot": 118349,
       "num": 118349,
       "word": "短效避孕药和紧急避孕药的区别",
       "onboard_time": 1713798439,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 118176,
+      "num": 118176,
+      "word": "广厦男篮vs广东男篮",
+      "onboard_time": 1713874218,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 117263,
@@ -2529,6 +2697,14 @@
       "onboard_time": 1713799218,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 103231,
+      "num": 240889,
+      "word": "谷爱凌现身保时捷品牌之夜",
+      "onboard_time": 1713874698,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 101273,
@@ -2681,6 +2857,14 @@
       "onboard_time": 1713828737,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 63198,
+      "num": 364792,
+      "word": "你永远可以相信读书的力量",
+      "onboard_time": 1713873618,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62094,
