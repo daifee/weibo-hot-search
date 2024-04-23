@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713846097550,
+  "endTime": 1713846898108,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1067,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1820515,
+      "num": 1820515,
+      "word": "金饰价格一夜跌14元每克",
+      "onboard_time": 1713843018,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1819817,
       "num": 1819817,
       "word": "吉林一高校女生带病出操后死亡",
@@ -1665,14 +1673,6 @@
       "onboard_time": 1713351138,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1578156,
-      "num": 1578156,
-      "word": "金饰价格一夜跌14元每克",
-      "onboard_time": 1713843018,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 1566683,
@@ -3651,6 +3651,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1127174,
+      "num": 1127174,
+      "word": "原来应届毕业生身份这么值",
+      "onboard_time": 1713845180,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1126395,
       "num": 1126395,
       "word": "yamy 淘汰",
@@ -3833,6 +3841,14 @@
       "onboard_time": 1712135119,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1102801,
+      "num": 1102801,
+      "word": "杨幂杀回仙侠剧了",
+      "onboard_time": 1713843018,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 1102555,
@@ -4803,6 +4819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 995272,
+      "num": 995272,
+      "word": "大批斗鱼头部主播停播",
+      "onboard_time": 1713838997,
+      "rank": 23,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 995049,
       "num": 654073,
       "word": "3年前掉河里的20g金戒指捞上来了",
@@ -4961,14 +4985,6 @@
       "onboard_time": 1712064261,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 979147,
-      "num": 979147,
-      "word": "杨幂杀回仙侠剧了",
-      "onboard_time": 1713843018,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 978956,
@@ -5267,14 +5283,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 947380,
-      "num": 947380,
-      "word": "大批斗鱼头部主播停播",
-      "onboard_time": 1713838997,
-      "rank": 23,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 946125,
       "num": 946125,
       "word": "张予曦你多高啊我33啊",
@@ -5385,6 +5393,14 @@
       "onboard_time": 1712237780,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 936042,
+      "num": 936042,
+      "word": "李闽轩 北电艺考",
+      "onboard_time": 1713841578,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 934805,
@@ -5857,14 +5873,6 @@
       "onboard_time": 1712245398,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 889003,
-      "num": 889003,
-      "word": "李闽轩 北电艺考",
-      "onboard_time": 1713841578,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 885702,
@@ -8192,6 +8200,14 @@
       "word": "男子虐猫后将残肢丢至直播间",
       "onboard_time": 1712194219,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 729425,
+      "num": 729425,
+      "word": "马来西亚直升机相撞致多人伤亡",
+      "onboard_time": 1713845480,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -14771,14 +14787,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 487823,
-      "num": 487823,
-      "word": "原来应届毕业生身份这么值",
-      "onboard_time": 1713845180,
-      "rank": 14,
-      "category": "教育"
-    },
-    {
       "raw_hot": 487620,
       "num": 487620,
       "word": "徐海乔演技",
@@ -15649,6 +15657,14 @@
       "onboard_time": 1713217810,
       "rank": 11,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 469186,
+      "num": 469186,
+      "word": "泰勒斯威夫特药房",
+      "onboard_time": 1713842958,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 468966,
@@ -16731,6 +16747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 444909,
+      "num": 444909,
+      "word": "都怪李秀满",
+      "onboard_time": 1713845060,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 444534,
       "num": 444534,
       "word": "林俊杰唱了为蔡依林写的歌",
@@ -17387,14 +17411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 431459,
-      "num": 431459,
-      "word": "泰勒斯威夫特药房",
-      "onboard_time": 1713842958,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 431379,
       "num": 431379,
       "word": "任敏别气李现了",
@@ -17801,14 +17817,6 @@
       "onboard_time": 1713224477,
       "rank": 15,
       "category": "数码"
-    },
-    {
-      "raw_hot": 422484,
-      "num": 422484,
-      "word": "马来西亚直升机相撞致多人伤亡",
-      "onboard_time": 1713845480,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 422137,
@@ -20867,14 +20875,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 357932,
-      "num": 357932,
-      "word": "都怪李秀满",
-      "onboard_time": 1713845060,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 357892,
       "num": 357892,
       "word": "关晓彤露腿好美",
@@ -23043,6 +23043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 322144,
+      "num": 322144,
+      "word": "牙神经就这么拔出来了",
+      "onboard_time": 1713843138,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 321724,
       "num": 321724,
       "word": "北京冰雹",
@@ -24091,14 +24099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 306900,
-      "num": 306900,
-      "word": "牙神经就这么拔出来了",
-      "onboard_time": 1713843138,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 306895,
       "num": 306895,
       "word": "老公失恋文学",
@@ -24540,7 +24540,7 @@
     },
     {
       "raw_hot": 300843,
-      "num": 640950,
+      "num": 671918,
       "word": "大熊猫北辰把特供乒乓球给吃了",
       "onboard_time": 1713813012,
       "rank": 47,
@@ -25243,6 +25243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291897,
+      "num": 291897,
+      "word": "大梦归离海报番位",
+      "onboard_time": 1713845119,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291808,
       "num": 291808,
       "word": "研究发现每天3个苹果或会帮助体重减轻",
@@ -25721,6 +25729,14 @@
       "onboard_time": 1713401658,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285741,
+      "num": 285741,
+      "word": "仙台有树大婚必有大刀",
+      "onboard_time": 1713845660,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 285582,
@@ -26401,6 +26417,14 @@
       "onboard_time": 1713236297,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 277202,
+      "num": 277202,
+      "word": "深圳降价60%二手房曾遭炒房团围猎",
+      "onboard_time": 1713846260,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 277140,
@@ -27483,6 +27507,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 263911,
+      "num": 263911,
+      "word": "许凯杨紫卧龙凤雏",
+      "onboard_time": 1713844822,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263889,
       "num": 247344,
       "word": "Ricky真的cha了BiteMe",
@@ -27841,14 +27873,6 @@
       "onboard_time": 1713374652,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260907,
-      "num": 260907,
-      "word": "许凯杨紫卧龙凤雏",
-      "onboard_time": 1713844822,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 260902,
@@ -29923,14 +29947,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 243222,
-      "num": 243222,
-      "word": "大梦归离海报番位",
-      "onboard_time": 1713845119,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 242991,
       "num": 242991,
       "word": "王阳25岁至46岁颜值变化",
@@ -31025,6 +31041,14 @@
       "onboard_time": 1713777079,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234274,
+      "num": 234274,
+      "word": "狐妖小红娘竹业篇片花",
+      "onboard_time": 1713846561,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 234253,
@@ -33889,14 +33913,6 @@
       "onboard_time": 1712114842,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 213793,
-      "num": 213793,
-      "word": "仙台有树大婚必有大刀",
-      "onboard_time": 1713845660,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 213759,
@@ -37041,6 +37057,14 @@
       "onboard_time": 1713435798,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200918,
+      "num": 200918,
+      "word": "ILLIT达成pak",
+      "onboard_time": 1713846019,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 200816,
@@ -44371,6 +44395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172744,
+      "num": 172744,
+      "word": "老凤祥中国黄金客服回应被约谈",
+      "onboard_time": 1713846681,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 172718,
       "num": 172718,
       "word": "熊祁",
@@ -46715,14 +46747,6 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 162406,
-      "num": 162406,
-      "word": "ILLIT达成pak",
-      "onboard_time": 1713846019,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 162372,
       "num": 162372,
       "word": "承欢记28集 母女线",
@@ -47641,6 +47665,14 @@
       "onboard_time": 1712025018,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158529,
+      "num": 266769,
+      "word": "深圳已进入暴雨防御状态",
+      "onboard_time": 1713846260,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158505,
@@ -61988,7 +62020,7 @@
     },
     {
       "raw_hot": 59158,
-      "num": 986511,
+      "num": 1245268,
       "word": "第29个世界读书日",
       "onboard_time": 1713843138,
       "rank": 2,

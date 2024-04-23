@@ -1,0 +1,410 @@
+{
+  "runTime": 1713846898108,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1820515,
+        "num": 1820515,
+        "word": "金饰价格一夜跌14元每克",
+        "onboard_time": 1713843018,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1400672,
+        "num": 1400672,
+        "word": "多地高校禁止学生挂床帘",
+        "onboard_time": 1713835398,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55697,
+        "num": 1245268,
+        "word": "第29个世界读书日",
+        "onboard_time": 1713843138,
+        "rank": 2,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 1127174,
+        "num": 1127174,
+        "word": "原来应届毕业生身份这么值",
+        "onboard_time": 1713845180,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1102801,
+        "num": 1102801,
+        "word": "杨幂杀回仙侠剧了",
+        "onboard_time": 1713843018,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 995272,
+        "num": 995272,
+        "word": "大批斗鱼头部主播停播",
+        "onboard_time": 1713838997,
+        "rank": 5,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 936042,
+        "num": 936042,
+        "word": "李闽轩 北电艺考",
+        "onboard_time": 1713841578,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 838483,
+        "num": 838483,
+        "word": "中戏表演系帅哥美女",
+        "onboard_time": 1713844158,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 729425,
+        "num": 729425,
+        "word": "马来西亚直升机相撞致多人伤亡",
+        "onboard_time": 1713845480,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125627,
+        "num": 671918,
+        "word": "大熊猫北辰把特供乒乓球给吃了",
+        "onboard_time": 1713813012,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2245720,
+        "num": 666687,
+        "word": "一条小团团确认被捕",
+        "onboard_time": 1713828375,
+        "rank": 10,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 631579,
+        "num": 631579,
+        "word": "于正海报审美",
+        "onboard_time": 1713842418,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 624041,
+        "num": 624041,
+        "word": "闵熙珍称防弹少年团也是抄袭",
+        "onboard_time": 1713843678,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517570,
+        "num": 517570,
+        "word": "斗鱼回应PDD停播161天",
+        "onboard_time": 1713843919,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 484778,
+        "num": 484778,
+        "word": "PDD",
+        "onboard_time": 1713834858,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 469186,
+        "num": 469186,
+        "word": "泰勒斯威夫特药房",
+        "onboard_time": 1713842958,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 444909,
+        "num": 444909,
+        "word": "都怪李秀满",
+        "onboard_time": 1713845060,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 591915,
+        "num": 419942,
+        "word": "NewJeans和父母全力支持闵熙珍",
+        "onboard_time": 1713843197,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364715,
+        "num": 364715,
+        "word": "PDD斗鱼已停播超5个月",
+        "onboard_time": 1713842239,
+        "rank": 18,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 332903,
+        "num": 332903,
+        "word": "莫言称每次刷完短视频都会批评自己",
+        "onboard_time": 1713831739,
+        "rank": 19,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 513139,
+        "num": 328092,
+        "word": "薛之谦演唱会一个人来的女主发声",
+        "onboard_time": 1713830478,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 322144,
+        "num": 322144,
+        "word": "牙神经就这么拔出来了",
+        "onboard_time": 1713843138,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300559,
+        "num": 300559,
+        "word": "一条小团团",
+        "onboard_time": 1713830117,
+        "rank": 22,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 291897,
+        "num": 291897,
+        "word": "大梦归离海报番位",
+        "onboard_time": 1713845119,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285741,
+        "num": 285741,
+        "word": "仙台有树大婚必有大刀",
+        "onboard_time": 1713845660,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281061,
+        "num": 281061,
+        "word": "狐妖小红娘月红篇涂山万象海报",
+        "onboard_time": 1713838638,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279120,
+        "num": 279120,
+        "word": "于东来称去年计划挣2000万结果赚了1.4亿",
+        "onboard_time": 1713835641,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 279019,
+        "num": 279019,
+        "word": "刘德华演唱会官宣",
+        "onboard_time": 1713844278,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 277202,
+        "num": 277202,
+        "word": "深圳降价60%二手房曾遭炒房团围猎",
+        "onboard_time": 1713846260,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158529,
+        "num": 266769,
+        "word": "深圳已进入暴雨防御状态",
+        "onboard_time": 1713846260,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374147,
+        "num": 266122,
+        "word": "茶百道上市首日跌超10%",
+        "onboard_time": 1713839960,
+        "rank": 30,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 263911,
+        "num": 263911,
+        "word": "许凯杨紫卧龙凤雏",
+        "onboard_time": 1713844822,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241698,
+        "num": 241698,
+        "word": "王俊凯推荐刘昊然来盒子里的猫",
+        "onboard_time": 1713844879,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236388,
+        "num": 236388,
+        "word": "肝不好可能有一黄二红三黑",
+        "onboard_time": 1713838518,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 234274,
+        "num": 234274,
+        "word": "狐妖小红娘竹业篇片花",
+        "onboard_time": 1713846561,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219996,
+        "num": 219996,
+        "word": "长期不吃晚餐身体会发生什么",
+        "onboard_time": 1713841757,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221022,
+        "num": 217464,
+        "word": "许凯身上痒就去洗澡",
+        "onboard_time": 1713827956,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213885,
+        "num": 213885,
+        "word": "颜心记预告",
+        "onboard_time": 1713844459,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209237,
+        "num": 209237,
+        "word": "闵熙珍文件公开",
+        "onboard_time": 1713845480,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205865,
+        "num": 205865,
+        "word": "茶百道上市",
+        "onboard_time": 1713837858,
+        "rank": 39,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 202933,
+        "num": 202933,
+        "word": "2024爱奇艺未来片单",
+        "onboard_time": 1713835759,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200918,
+        "num": 200918,
+        "word": "ILLIT达成pak",
+        "onboard_time": 1713846019,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196199,
+        "num": 196199,
+        "word": "杨幂龚俊身高差",
+        "onboard_time": 1713843259,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185832,
+        "num": 185832,
+        "word": "恋与名侦探",
+        "onboard_time": 1713843498,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180143,
+        "num": 180143,
+        "word": "深圳天气",
+        "onboard_time": 1713832340,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176323,
+        "num": 176323,
+        "word": "蒲熠星知道麦家被17次退稿的反应",
+        "onboard_time": 1713843197,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173794,
+        "num": 173794,
+        "word": "交通银行app崩了",
+        "onboard_time": 1713843138,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172744,
+        "num": 172744,
+        "word": "老凤祥中国黄金客服回应被约谈",
+        "onboard_time": 1713846681,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166335,
+        "num": 166335,
+        "word": "辅导员回应多地高校禁止学生挂床帘",
+        "onboard_time": 1713834259,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162553,
+        "num": 162553,
+        "word": "中医建议一定要保护好眼睛",
+        "onboard_time": 1713837559,
+        "rank": 49,
+        "category": "综艺,健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}
