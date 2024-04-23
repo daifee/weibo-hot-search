@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713893647337,
+  "endTime": 1713896515026,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -62259,6 +62259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90707,
+      "num": 90707,
+      "word": "孙女回家找不到奶奶崩溃大哭",
+      "onboard_time": 1713893232,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90553,
       "num": 100936,
       "word": "海尔直播",
@@ -64995,6 +65003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42760,
+      "num": 46434,
+      "word": "当地回应4岁男童被三小孩倒酒精烧死",
+      "onboard_time": 1713892274,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42439,
       "num": 42439,
       "word": "哈哈哈哈哈",
@@ -65281,14 +65297,6 @@
       "onboard_time": 1712343912,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 37585,
-      "num": 46434,
-      "word": "当地回应4岁男童被三小孩倒酒精烧死",
-      "onboard_time": 1713892274,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37540,
@@ -65657,6 +65665,14 @@
       "onboard_time": 1712858892,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 31114,
+      "num": 31114,
+      "word": "赵今麦首部刑侦悬疑剧女主",
+      "onboard_time": 1713894791,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 31071,
@@ -66171,6 +66187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 23480,
+      "num": 26183,
+      "word": "HYBE说NewJeans和ILLIT团队不用担心",
+      "onboard_time": 1713892752,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23427,
       "num": 28301,
       "word": "春日cityhappy计划",
@@ -66352,6 +66376,14 @@
       "word": "西班牙国家德比",
       "onboard_time": 1713734831,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 21254,
+      "num": 25745,
+      "word": "阿森纳vs切尔西",
+      "onboard_time": 1713896052,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -66569,14 +66601,6 @@
       "onboard_time": 1713462311,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 17351,
-      "num": 55466,
-      "word": "孙女回家找不到奶奶崩溃大哭",
-      "onboard_time": 1713893232,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17289,
