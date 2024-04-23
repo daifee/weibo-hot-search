@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713828946658,
+  "endTime": 1713834902263,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -9,6 +9,14 @@
       "onboard_time": 1713710062,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4471317,
+      "num": 4471317,
+      "word": "一条小团团确认被捕",
+      "onboard_time": 1713828375,
+      "rank": 3,
+      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 3986774,
@@ -65,6 +73,14 @@
       "onboard_time": 1713745579,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2259934,
+      "num": 472550,
+      "word": "一条小团团",
+      "onboard_time": 1713830117,
+      "rank": 10,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 2225520,
@@ -204,11 +220,19 @@
     },
     {
       "raw_hot": 1420882,
-      "num": 281626,
+      "num": 352445,
       "word": "越来越多夫妻不过夫妻生活了",
       "onboard_time": 1713826994,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1356528,
+      "num": 1356528,
+      "word": "薛之谦演唱会一个人来的女主发声",
+      "onboard_time": 1713830478,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 1336366,
@@ -659,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 815652,
+      "num": 815652,
+      "word": "黄金白银集体大跌",
+      "onboard_time": 1713831440,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 803399,
       "num": 738936,
       "word": "王曼昱状态",
@@ -673,14 +705,6 @@
       "onboard_time": 1713703339,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 787566,
-      "num": 787566,
-      "word": "一条小团团确认被捕",
-      "onboard_time": 1713828375,
-      "rank": 3,
-      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 770818,
@@ -761,6 +785,14 @@
       "onboard_time": 1713764599,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 722028,
+      "num": 472485,
+      "word": "乔丹儿子皮蓬前妻开放关系",
+      "onboard_time": 1713829337,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 712900,
@@ -1195,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561714,
+      "num": 561714,
+      "word": "专家称不能对富人有效征税那就刺激他们消费",
+      "onboard_time": 1713828255,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 561606,
       "num": 561606,
       "word": "眼泪女王",
@@ -1212,7 +1252,7 @@
     },
     {
       "raw_hot": 553842,
-      "num": 278678,
+      "num": 344952,
       "word": "为什么点外卖都要送这种饮料",
       "onboard_time": 1713795980,
       "rank": 30,
@@ -1347,6 +1387,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 518621,
+      "num": 462888,
+      "word": "许凯身上痒就去洗澡",
+      "onboard_time": 1713827956,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 518123,
       "num": 231370,
       "word": "我删掉了高中大学的所有同学",
@@ -1443,6 +1491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 496907,
+      "num": 496907,
+      "word": "莫言称每次刷完短视频都会批评自己",
+      "onboard_time": 1713831739,
+      "rank": 7,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 495575,
       "num": 495575,
       "word": "广州塔1小时内连续6次接闪电",
@@ -1529,6 +1585,14 @@
       "onboard_time": 1713671238,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 479007,
+      "num": 479007,
+      "word": "凌晨的HYBE",
+      "onboard_time": 1713830238,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 477715,
@@ -1691,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 442060,
+      "num": 442060,
+      "word": "深圳天气",
+      "onboard_time": 1713832340,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440722,
       "num": 440722,
       "word": "哈尔滨一九四四收视率",
@@ -1737,6 +1809,14 @@
       "onboard_time": 1713676519,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 429113,
+      "num": 429113,
+      "word": "蝴蝶少年",
+      "onboard_time": 1713831799,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 425352,
@@ -1849,6 +1929,14 @@
       "onboard_time": 1713615258,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 401447,
+      "num": 401447,
+      "word": "交警部门回应天津街头两名交警互殴",
+      "onboard_time": 1713829518,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396254,
@@ -1979,14 +2067,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 379974,
-      "num": 262331,
-      "word": "许凯身上痒就去洗澡",
-      "onboard_time": 1713827956,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 378135,
       "num": 367245,
       "word": "刘诗诗下厨",
@@ -2067,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 360188,
+      "num": 360188,
+      "word": "杨幂的破窗之作",
+      "onboard_time": 1713830600,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356168,
       "num": 356168,
       "word": "秦海璐王安宇光明正大的唱因为爱情",
@@ -2121,6 +2209,14 @@
       "onboard_time": 1713774318,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 353044,
+      "num": 353044,
+      "word": "广东暴雨",
+      "onboard_time": 1713833599,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351078,
@@ -2299,6 +2395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315742,
+      "num": 315742,
+      "word": "台湾本月初地震已有1000多次余震",
+      "onboard_time": 1713834199,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314450,
       "num": 314450,
       "word": "韩媒报道LESSERAFIM成功雪耻",
@@ -2348,7 +2452,7 @@
     },
     {
       "raw_hot": 300843,
-      "num": 300843,
+      "num": 472760,
       "word": "大熊猫北辰把特供乒乓球给吃了",
       "onboard_time": 1713813012,
       "rank": 47,
@@ -2787,6 +2891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 251110,
+      "num": 251110,
+      "word": "辅导员回应多地高校禁止学生挂床帘",
+      "onboard_time": 1713834259,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250305,
       "num": 250305,
       "word": "丧偶式婚姻真的会让人崩溃",
@@ -2979,6 +3091,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235539,
+      "num": 235539,
+      "word": "海船擦碰九江大桥防撞墩后沉没4人失联",
+      "onboard_time": 1713833539,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235189,
+      "num": 235189,
+      "word": "英伟达市值一夜大涨6000亿元",
+      "onboard_time": 1713833061,
+      "rank": 29,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 234767,
+      "num": 234767,
+      "word": "东北雨姐回应做手术",
+      "onboard_time": 1713834378,
+      "rank": 30,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 234324,
       "num": 234324,
       "word": "花少1花少5团聚",
@@ -3153,6 +3289,14 @@
       "onboard_time": 1713760940,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221919,
+      "num": 221919,
+      "word": "HYBE获取ADOR内部文件",
+      "onboard_time": 1713834439,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 221790,
@@ -3347,6 +3491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209019,
+      "num": 209019,
+      "word": "杨紫透露下一部戏计划",
+      "onboard_time": 1713829758,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208692,
       "num": 208692,
       "word": "F1直播",
@@ -3393,6 +3545,14 @@
       "onboard_time": 1713661939,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207229,
+      "num": 207229,
+      "word": "控制早晨才能控制人生",
+      "onboard_time": 1713833179,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 207132,
@@ -3619,6 +3779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199524,
+      "num": 199524,
+      "word": "凤凰传奇军训",
+      "onboard_time": 1713834139,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199019,
       "num": 199019,
       "word": "一诺说接下来的路我们一起走",
@@ -3795,6 +3963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193057,
+      "num": 193057,
+      "word": "九江大桥实施临时交通管制",
+      "onboard_time": 1713833179,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192966,
       "num": 192966,
       "word": "陈楚生唱了离群的鹿",
@@ -3873,6 +4049,14 @@
       "onboard_time": 1713796580,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189974,
+      "num": 189974,
+      "word": "广州天气",
+      "onboard_time": 1713827535,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189790,
@@ -4083,12 +4267,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183510,
+      "num": 183510,
+      "word": "台湾花莲县发生6.0级地震",
+      "onboard_time": 1713832399,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183477,
       "num": 183477,
       "word": "赵丽颖拍猪吃零食",
       "onboard_time": 1713786679,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183394,
+      "num": 183394,
+      "word": "海克斯饮料加大儿童性早熟风险",
+      "onboard_time": 1713831799,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 181923,
@@ -4217,6 +4417,14 @@
       "onboard_time": 1713753978,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177149,
+      "num": 177149,
+      "word": "春色寄情人 治愈",
+      "onboard_time": 1713834558,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 177132,
@@ -4587,6 +4795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162872,
+      "num": 162872,
+      "word": "徐梦洁 人杀青故事不杀青",
+      "onboard_time": 1713832699,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162412,
       "num": 162412,
       "word": "哈尔滨一九四四下集预告",
@@ -4681,6 +4897,14 @@
       "onboard_time": 1713774258,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160196,
+      "num": 160196,
+      "word": "郑州下雨",
+      "onboard_time": 1713829397,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159136,
@@ -4835,14 +5059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154768,
-      "num": 154768,
-      "word": "广州天气",
-      "onboard_time": 1713827535,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154540,
       "num": 154540,
       "word": "承欢记",
@@ -4947,6 +5163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152139,
+      "num": 152139,
+      "word": "hybe或将对闵熙珍采取法律措施",
+      "onboard_time": 1713829939,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152028,
       "num": 152028,
       "word": "春色寄情人 泉州宣传片",
@@ -4961,6 +5185,14 @@
       "onboard_time": 1713740954,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151254,
+      "num": 151254,
+      "word": "PDD",
+      "onboard_time": 1713834858,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 150796,
@@ -5483,6 +5715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134935,
+      "num": 134935,
+      "word": "特斯拉市值7天蒸发7511亿元",
+      "onboard_time": 1713833839,
+      "rank": 48,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 134389,
       "num": 134389,
       "word": "黄誉博补妆中",
@@ -5545,6 +5785,14 @@
       "onboard_time": 1713628939,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132125,
+      "num": 132125,
+      "word": "自拍和他拍的哪个才是真实的自己",
+      "onboard_time": 1713834139,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 131896,
@@ -6201,14 +6449,6 @@
       "onboard_time": 1713735130,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 89353,
-      "num": 89353,
-      "word": "专家称不能对富人有效征税那就刺激他们消费",
-      "onboard_time": 1713828255,
-      "rank": 34,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 89073,
