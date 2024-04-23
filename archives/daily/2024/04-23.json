@@ -1,6 +1,6 @@
 {
   "startTime": 1713802938860,
-  "endTime": 1713878384453,
+  "endTime": 1713879264507,
   "band_list": [
     {
       "raw_hot": 4471317,
@@ -27,20 +27,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2596199,
+      "num": 991508,
+      "word": "五一不调休就会是这种结果",
+      "onboard_time": 1713875178,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2509762,
       "num": 2509762,
       "word": "多地高校禁止学生挂床帘",
       "onboard_time": 1713835398,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2504717,
-      "num": 991508,
-      "word": "五一不调休就会是这种结果",
-      "onboard_time": 1713875178,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 2259934,
@@ -227,6 +227,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 1041146,
+      "num": 1041146,
+      "word": "张雪峰称考上二本并不是不够努力",
+      "onboard_time": 1713877397,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1039581,
       "num": 447796,
       "word": "郑乃馨承认恋情",
@@ -272,6 +280,14 @@
       "word": "女生遭霸凌为逃避殴打捡玻璃片割喉",
       "onboard_time": 1713856639,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 946368,
+      "num": 946368,
+      "word": "蔡磊病情加重舌头下嘴唇已萎缩",
+      "onboard_time": 1713874158,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -331,11 +347,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 872229,
-      "num": 872229,
-      "word": "蔡磊病情加重舌头下嘴唇已萎缩",
-      "onboard_time": 1713874158,
-      "rank": 25,
+      "raw_hot": 851935,
+      "num": 462480,
+      "word": "9岁坠楼男孩生前最后5分钟发呆徘徊",
+      "onboard_time": 1713876498,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -387,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 723936,
-      "num": 437009,
-      "word": "9岁坠楼男孩生前最后5分钟发呆徘徊",
-      "onboard_time": 1713876498,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 722028,
       "num": 472485,
       "word": "乔丹儿子皮蓬前妻开放关系",
@@ -409,6 +417,14 @@
       "onboard_time": 1713862159,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 701573,
+      "num": 458283,
+      "word": "抓大鹅",
+      "onboard_time": 1713874998,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 686238,
@@ -483,20 +499,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 616471,
-      "num": 427044,
-      "word": "抓大鹅",
-      "onboard_time": 1713874998,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 612332,
       "num": 612332,
       "word": "于东来称去年计划挣2000万结果赚了1.4亿",
       "onboard_time": 1713835641,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 610125,
+      "num": 610125,
+      "word": "周琦被驱逐",
+      "onboard_time": 1713877819,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 594098,
@@ -763,8 +779,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 442644,
-      "num": 442644,
+      "raw_hot": 444075,
+      "num": 444075,
       "word": "乐言被处罚",
       "onboard_time": 1713875417,
       "rank": 36,
@@ -777,14 +793,6 @@
       "onboard_time": 1713832340,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 437931,
-      "num": 414273,
-      "word": "周琦被驱逐",
-      "onboard_time": 1713877819,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 437867,
@@ -825,14 +833,6 @@
       "onboard_time": 1713852560,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 409561,
-      "num": 409561,
-      "word": "张雪峰称考上二本并不是不够努力",
-      "onboard_time": 1713877397,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 405853,
@@ -931,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339289,
+      "num": 339289,
+      "word": "伊能静给秦昊的小作文",
+      "onboard_time": 1713868099,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335185,
       "num": 335185,
       "word": "难哄 大事很妙",
@@ -952,14 +960,6 @@
       "word": "花少导演组靠秦海璐拉群",
       "onboard_time": 1713850398,
       "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 331639,
-      "num": 331639,
-      "word": "伊能静给秦昊的小作文",
-      "onboard_time": 1713868099,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1187,6 +1187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 277979,
+      "num": 277979,
+      "word": "莫兰德被驱逐",
+      "onboard_time": 1713877819,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277202,
       "num": 277202,
       "word": "深圳降价60%二手房曾遭炒房团围猎",
@@ -1275,14 +1283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257583,
-      "num": 257583,
-      "word": "莫兰德被驱逐",
-      "onboard_time": 1713877819,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 255663,
       "num": 255663,
       "word": "林高远 允许自己不完美",
@@ -1361,6 +1361,14 @@
       "onboard_time": 1713870617,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246240,
+      "num": 246240,
+      "word": "第一次看到真实的分娩场面",
+      "onboard_time": 1713876257,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 245481,
@@ -1507,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231235,
+      "num": 231235,
+      "word": "一条小团团单月礼物收入曾高达500万",
+      "onboard_time": 1713875839,
+      "rank": 34,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 229658,
       "num": 229658,
       "word": "杨幂龚俊身高差",
@@ -1531,14 +1547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226885,
-      "num": 226885,
-      "word": "一条小团团单月礼物收入曾高达500万",
-      "onboard_time": 1713875839,
-      "rank": 34,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 226018,
       "num": 226018,
       "word": "夸克崩了",
@@ -1555,20 +1563,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 222107,
+      "num": 222107,
+      "word": "于正 紫和凯很般配",
+      "onboard_time": 1713877879,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221919,
       "num": 221919,
       "word": "HYBE获取ADOR内部文件",
       "onboard_time": 1713834439,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221478,
-      "num": 221478,
-      "word": "第一次看到真实的分娩场面",
-      "onboard_time": 1713876257,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 221343,
@@ -1947,12 +1955,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 189292,
+      "num": 196987,
+      "word": "CBA",
+      "onboard_time": 1713878838,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189197,
       "num": 189197,
       "word": "爱奇艺片单你最期待哪部",
       "onboard_time": 1713871159,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188650,
+      "num": 188650,
+      "word": "凤凰传奇演唱会",
+      "onboard_time": 1713878719,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 188535,
@@ -2009,6 +2033,14 @@
       "onboard_time": 1713853639,
       "rank": 33,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 185326,
+      "num": 185326,
+      "word": "乳腺癌来临的4个预兆",
+      "onboard_time": 1713878540,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 183690,
@@ -2131,14 +2163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173939,
-      "num": 173939,
-      "word": "于正 紫和凯很般配",
-      "onboard_time": 1713877879,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173012,
       "num": 173012,
       "word": "尼克斯逆转76人",
@@ -2169,6 +2193,14 @@
       "onboard_time": 1713859698,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169760,
+      "num": 169760,
+      "word": "周深演唱会 秒没",
+      "onboard_time": 1713878540,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 168791,
@@ -2443,6 +2475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150161,
+      "num": 150161,
+      "word": "麦承欢和准公公的相处之道",
+      "onboard_time": 1713878838,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149381,
       "num": 149381,
       "word": "世界乒乓球日",
@@ -2457,6 +2497,14 @@
       "onboard_time": 1713858258,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148670,
+      "num": 148670,
+      "word": "大梦归离什么时候抬上来",
+      "onboard_time": 1713877939,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 147385,
@@ -2491,14 +2539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145158,
-      "num": 145158,
-      "word": "大梦归离什么时候抬上来",
-      "onboard_time": 1713877939,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145154,
       "num": 145154,
       "word": "别再用隔夜米做蛋炒饭了",
@@ -2512,6 +2552,14 @@
       "word": "国米意甲夺冠",
       "onboard_time": 1713827595,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144299,
+      "num": 196468,
+      "word": "杨浚瑄冠军",
+      "onboard_time": 1713878358,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -2625,14 +2673,6 @@
       "onboard_time": 1713833839,
       "rank": 48,
       "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 134818,
-      "num": 134818,
-      "word": "杨浚瑄冠军",
-      "onboard_time": 1713878358,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 134727,
@@ -3011,6 +3051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59478,
+      "num": 1053318,
+      "word": "9图了解无障碍阅读",
+      "onboard_time": 1713876437,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59158,
       "num": 1245268,
       "word": "第29个世界读书日",
@@ -3041,14 +3089,6 @@
       "onboard_time": 1713794120,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 54278,
-      "num": 1053318,
-      "word": "9图了解无障碍阅读",
-      "onboard_time": 1713876437,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54271,
