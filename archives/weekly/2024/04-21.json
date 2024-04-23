@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713834902263,
+  "endTime": 1713836077582,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -169,6 +169,14 @@
       "onboard_time": 1713743537,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1582219,
+      "num": 1582219,
+      "word": "PDD",
+      "onboard_time": 1713834858,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 1537487,
@@ -875,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 686238,
+      "num": 686238,
+      "word": "莫言称每次刷完短视频都会批评自己",
+      "onboard_time": 1713831739,
+      "rank": 7,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 685611,
       "num": 685611,
       "word": "93岁南京大屠杀幸存者刘素珍去世",
@@ -1491,14 +1507,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 496907,
-      "num": 496907,
-      "word": "莫言称每次刷完短视频都会批评自己",
-      "onboard_time": 1713831739,
-      "rank": 7,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 495575,
       "num": 495575,
       "word": "广州塔1小时内连续6次接闪电",
@@ -1568,6 +1576,14 @@
       "word": "骑电动车举黄瓜被风筝线一分为二",
       "onboard_time": 1713767417,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482226,
+      "num": 482226,
+      "word": "辅导员回应多地高校禁止学生挂床帘",
+      "onboard_time": 1713834259,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1747,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 444976,
+      "num": 444976,
+      "word": "广东暴雨",
+      "onboard_time": 1713833599,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442630,
       "num": 442630,
       "word": "Mari 退赛",
@@ -1889,6 +1913,14 @@
       "onboard_time": 1713618018,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 413642,
+      "num": 413642,
+      "word": "多地高校禁止学生挂床帘",
+      "onboard_time": 1713835398,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 411302,
@@ -2211,14 +2243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 353044,
-      "num": 353044,
-      "word": "广东暴雨",
-      "onboard_time": 1713833599,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 351078,
       "num": 351078,
       "word": "产妇跪求剖腹产多次被拒绝",
@@ -2459,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300580,
+      "num": 300580,
+      "word": "东北雨姐回应做手术",
+      "onboard_time": 1713834378,
+      "rank": 30,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 298792,
       "num": 259440,
       "word": "垫底辣孩模仿魏若来",
@@ -2497,6 +2529,14 @@
       "onboard_time": 1713756197,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 291801,
+      "num": 291801,
+      "word": "孙颖莎世排第一8300分",
+      "onboard_time": 1713835099,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 291211,
@@ -2891,12 +2931,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 251110,
-      "num": 251110,
-      "word": "辅导员回应多地高校禁止学生挂床帘",
-      "onboard_time": 1713834259,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 251114,
+      "num": 251114,
+      "word": "七夜雪预告",
+      "onboard_time": 1713835279,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 250305,
@@ -3107,14 +3147,6 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 234767,
-      "num": 234767,
-      "word": "东北雨姐回应做手术",
-      "onboard_time": 1713834378,
-      "rank": 30,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 234324,
       "num": 234324,
       "word": "花少1花少5团聚",
@@ -3201,6 +3233,14 @@
       "onboard_time": 1713798439,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 228525,
+      "num": 228525,
+      "word": "于东来称去年计划挣2000万结果赚了1.4亿",
+      "onboard_time": 1713835641,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 228277,
@@ -3435,6 +3475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211100,
+      "num": 211100,
+      "word": "凤凰传奇军训",
+      "onboard_time": 1713834139,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 210826,
       "num": 187096,
       "word": "杨幂能靠新剧成功转型吗",
@@ -3457,6 +3505,14 @@
       "onboard_time": 1713751037,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210225,
+      "num": 210225,
+      "word": "2024爱奇艺未来片单",
+      "onboard_time": 1713835759,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 209849,
@@ -3779,14 +3835,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 199524,
-      "num": 199524,
-      "word": "凤凰传奇军训",
-      "onboard_time": 1713834139,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 199019,
       "num": 199019,
       "word": "一诺说接下来的路我们一起走",
@@ -4059,6 +4107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189852,
+      "num": 189852,
+      "word": "WVS商店把NewJeans移除推荐位",
+      "onboard_time": 1713835340,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189790,
       "num": 189790,
       "word": "陈昊宇考古",
@@ -4083,6 +4139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189396,
+      "num": 189396,
+      "word": "海克斯饮料加大儿童性早熟风险",
+      "onboard_time": 1713831799,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 189100,
       "num": 189100,
       "word": "蒲熠星trouble maker",
@@ -4105,6 +4169,14 @@
       "onboard_time": 1713666198,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188199,
+      "num": 188199,
+      "word": "读书日",
+      "onboard_time": 1713835641,
+      "rank": 40,
+      "category": "读书作家,教育"
     },
     {
       "raw_hot": 188164,
@@ -4235,6 +4307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184021,
+      "num": 184021,
+      "word": "田嘉瑞首部男二剧",
+      "onboard_time": 1713835818,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183904,
       "num": 183904,
       "word": "张真源下班回头和粉丝告别",
@@ -4283,14 +4363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183394,
-      "num": 183394,
-      "word": "海克斯饮料加大儿童性早熟风险",
-      "onboard_time": 1713831799,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 181923,
       "num": 181923,
       "word": "雷军 现场看F1换胎好震撼",
@@ -4329,6 +4401,14 @@
       "onboard_time": 1713766217,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180682,
+      "num": 180682,
+      "word": "面馆老板1天卖100碗刚够交房租",
+      "onboard_time": 1713835998,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180617,
@@ -4697,6 +4777,14 @@
       "onboard_time": 1713672078,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167026,
+      "num": 167026,
+      "word": "TF家族三代出道人数",
+      "onboard_time": 1713834979,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 166997,
@@ -5155,6 +5243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152526,
+      "num": 152526,
+      "word": "自拍和他拍的哪个才是真实的自己",
+      "onboard_time": 1713834139,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152190,
       "num": 152190,
       "word": "男女方父母一眼就能看出来",
@@ -5185,14 +5281,6 @@
       "onboard_time": 1713740954,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151254,
-      "num": 151254,
-      "word": "PDD",
-      "onboard_time": 1713834858,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 150796,
@@ -5785,14 +5873,6 @@
       "onboard_time": 1713628939,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132125,
-      "num": 132125,
-      "word": "自拍和他拍的哪个才是真实的自己",
-      "onboard_time": 1713834139,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 131896,

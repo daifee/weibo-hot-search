@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713834902263,
+  "endTime": 1713836077582,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1649,6 +1649,14 @@
       "onboard_time": 1713351138,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1582219,
+      "num": 1582219,
+      "word": "PDD",
+      "onboard_time": 1713834858,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 1566683,
@@ -8995,6 +9003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 686238,
+      "num": 686238,
+      "word": "莫言称每次刷完短视频都会批评自己",
+      "onboard_time": 1713831739,
+      "rank": 7,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 685611,
       "num": 685611,
       "word": "93岁南京大屠杀幸存者刘素珍去世",
@@ -14371,14 +14387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 496907,
-      "num": 496907,
-      "word": "莫言称每次刷完短视频都会批评自己",
-      "onboard_time": 1713831739,
-      "rank": 7,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 496666,
       "num": 496666,
       "word": "中式汉堡还能卖得动吗",
@@ -14928,6 +14936,14 @@
       "word": "骑电动车举黄瓜被风筝线一分为二",
       "onboard_time": 1713767417,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482226,
+      "num": 482226,
+      "word": "辅导员回应多地高校禁止学生挂床帘",
+      "onboard_time": 1713834259,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -16539,6 +16555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 444976,
+      "num": 444976,
+      "word": "广东暴雨",
+      "onboard_time": 1713833599,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444961,
       "num": 316540,
       "word": "老师去领证打扮精致全班一片沸腾",
@@ -17929,6 +17953,14 @@
       "onboard_time": 1712186355,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 413642,
+      "num": 413642,
+      "word": "多地高校禁止学生挂床帘",
+      "onboard_time": 1713835398,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413441,
@@ -21001,14 +21033,6 @@
       "onboard_time": 1713774318,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 353044,
-      "num": 353044,
-      "word": "广东暴雨",
-      "onboard_time": 1713833599,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352778,
@@ -24307,6 +24331,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 300580,
+      "num": 300580,
+      "word": "东北雨姐回应做手术",
+      "onboard_time": 1713834378,
+      "rank": 30,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 300571,
       "num": 227117,
       "word": "杭州一公司50万年薪招聘代嫁师",
@@ -24977,6 +25009,14 @@
       "onboard_time": 1712707159,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 291801,
+      "num": 291801,
+      "word": "孙颖莎世排第一8300分",
+      "onboard_time": 1713835099,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 291739,
@@ -28619,12 +28659,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 251110,
-      "num": 251110,
-      "word": "辅导员回应多地高校禁止学生挂床帘",
-      "onboard_time": 1713834259,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 251114,
+      "num": 251114,
+      "word": "七夜雪预告",
+      "onboard_time": 1713835279,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 251106,
@@ -30611,14 +30651,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 234767,
-      "num": 234767,
-      "word": "东北雨姐回应做手术",
-      "onboard_time": 1713834378,
-      "rank": 30,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 234760,
       "num": 234760,
       "word": "脱下孔乙己长衫穿上偷感马甲",
@@ -31433,6 +31465,14 @@
       "onboard_time": 1711979602,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228525,
+      "num": 228525,
+      "word": "于东来称去年计划挣2000万结果赚了1.4亿",
+      "onboard_time": 1713835641,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 228486,
@@ -33915,6 +33955,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 211100,
+      "num": 211100,
+      "word": "凤凰传奇军训",
+      "onboard_time": 1713834139,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211096,
       "num": 211096,
       "word": "脸上有疤 心上有他",
@@ -34193,6 +34241,14 @@
       "onboard_time": 1713333978,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 210225,
+      "num": 210225,
+      "word": "2024爱奇艺未来片单",
+      "onboard_time": 1713835759,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 210215,
@@ -36889,14 +36945,6 @@
       "onboard_time": 1712718137,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199524,
-      "num": 199524,
-      "word": "凤凰传奇军训",
-      "onboard_time": 1713834139,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 199506,
@@ -39707,6 +39755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189852,
+      "num": 189852,
+      "word": "WVS商店把NewJeans移除推荐位",
+      "onboard_time": 1713835340,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189790,
       "num": 189790,
       "word": "陈昊宇考古",
@@ -39849,6 +39905,14 @@
       "onboard_time": 1711953440,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189396,
+      "num": 189396,
+      "word": "海克斯饮料加大儿童性早熟风险",
+      "onboard_time": 1713831799,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 189380,
@@ -40153,6 +40217,14 @@
       "onboard_time": 1713322758,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188199,
+      "num": 188199,
+      "word": "读书日",
+      "onboard_time": 1713835641,
+      "rank": 40,
+      "category": "读书作家,教育"
     },
     {
       "raw_hot": 188187,
@@ -41347,6 +41419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184021,
+      "num": 184021,
+      "word": "田嘉瑞首部男二剧",
+      "onboard_time": 1713835818,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183930,
       "num": 143029,
       "word": "北影节评委",
@@ -41537,14 +41617,6 @@
       "onboard_time": 1713600797,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 183394,
-      "num": 183394,
-      "word": "海克斯饮料加大儿童性早熟风险",
-      "onboard_time": 1713831799,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 183377,
@@ -42145,6 +42217,14 @@
       "onboard_time": 1711952421,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180682,
+      "num": 180682,
+      "word": "面馆老板1天卖100碗刚够交房租",
+      "onboard_time": 1713835998,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180675,
@@ -45129,6 +45209,14 @@
       "onboard_time": 1713536539,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167026,
+      "num": 167026,
+      "word": "TF家族三代出道人数",
+      "onboard_time": 1713834979,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 167025,
@@ -48731,6 +48819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152526,
+      "num": 152526,
+      "word": "自拍和他拍的哪个才是真实的自己",
+      "onboard_time": 1713834139,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152525,
       "num": 152525,
       "word": "周杰伦演唱会隔空谢谢西湖大爷唱他的歌",
@@ -49153,14 +49249,6 @@
       "onboard_time": 1713503958,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 151254,
-      "num": 151254,
-      "word": "PDD",
-      "onboard_time": 1713834858,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 151243,
@@ -54041,14 +54129,6 @@
       "onboard_time": 1713255259,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132125,
-      "num": 132125,
-      "word": "自拍和他拍的哪个才是真实的自己",
-      "onboard_time": 1713834139,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 132114,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/23 00:22:18 ~ 2024/04/23 09:15:02
+本榜单时间：2024/04/23 00:22:18 ~ 2024/04/23 09:34:37
 </p>
 </blockquote>
 <p>
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE1%E5%B0%8F%E6%97%B6%E5%86%85%E5%8F%91%E7%94%9F10%E8%B5%B7%E5%9C%B0%E9%9C%87%23" target="weibo">
 台湾1小时内发生10起地震（热度：1786434）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23PDD%23" target="weibo">
+PDD（热度：1582219）
 </a>
 </li>
 
@@ -81,6 +87,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E8%A8%80%E7%A7%B0%E6%AF%8F%E6%AC%A1%E5%88%B7%E5%AE%8C%E7%9F%AD%E8%A7%86%E9%A2%91%E9%83%BD%E4%BC%9A%E6%89%B9%E8%AF%84%E8%87%AA%E5%B7%B1%23" target="weibo">
+莫言称每次刷完短视频都会批评自己（热度：686238）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E8%83%BD%E5%AF%B9%E5%AF%8C%E4%BA%BA%E6%9C%89%E6%95%88%E5%BE%81%E7%A8%8E%E9%82%A3%E5%B0%B1%E5%88%BA%E6%BF%80%E4%BB%96%E4%BB%AC%E6%B6%88%E8%B4%B9%23" target="weibo">
 专家称不能对富人有效征税那就刺激他们消费（热度：561714）
 </a>
@@ -111,14 +123,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E8%A8%80%E7%A7%B0%E6%AF%8F%E6%AC%A1%E5%88%B7%E5%AE%8C%E7%9F%AD%E8%A7%86%E9%A2%91%E9%83%BD%E4%BC%9A%E6%89%B9%E8%AF%84%E8%87%AA%E5%B7%B1%23" target="weibo">
-莫言称每次刷完短视频都会批评自己（热度：496907）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E8%88%9E%E8%B9%88%E8%80%81%E5%B8%88%E6%80%80%E5%AD%9539%E5%91%A8%E4%BB%8D%E6%AF%8F%E5%A4%A9%E8%B7%B3%E8%88%9E%23" target="weibo">
+浙江舞蹈老师怀孕39周仍每天跳舞（热度：482459）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E8%88%9E%E8%B9%88%E8%80%81%E5%B8%88%E6%80%80%E5%AD%9539%E5%91%A8%E4%BB%8D%E6%AF%8F%E5%A4%A9%E8%B7%B3%E8%88%9E%23" target="weibo">
-浙江舞蹈老师怀孕39周仍每天跳舞（热度：482459）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E9%AB%98%E6%A0%A1%E7%A6%81%E6%AD%A2%E5%AD%A6%E7%94%9F%E6%8C%82%E5%BA%8A%E5%B8%98%23" target="weibo">
+辅导员回应多地高校禁止学生挂床帘（热度：482226）
 </a>
 </li>
 
@@ -147,6 +159,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%23" target="weibo">
+广东暴雨（热度：444976）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%A4%A9%E6%B0%94%23" target="weibo">
 深圳天气（热度：442060）
 </a>
@@ -161,6 +179,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone16%E6%88%96%E5%8F%96%E6%B6%88%E5%AE%9E%E4%BD%93%E9%9F%B3%E9%87%8F%E9%94%AE%E7%94%B5%E6%BA%90%E9%94%AE%23" target="weibo">
 iPhone16或取消实体音量键电源键（热度：421891）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E9%AB%98%E6%A0%A1%E7%A6%81%E6%AD%A2%E5%AD%A6%E7%94%9F%E6%8C%82%E5%BA%8A%E5%B8%98%23" target="weibo">
+多地高校禁止学生挂床帘（热度：413642）
 </a>
 </li>
 
@@ -195,14 +219,14 @@ iPhone16或取消实体音量键电源键（热度：421891）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%23" target="weibo">
-广东暴雨（热度：353044）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%20%E5%A4%A7%E4%BA%8B%E5%BE%88%E5%A6%99%23" target="weibo">
+难哄 大事很妙（热度：335185）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%20%E5%A4%A7%E4%BA%8B%E5%BE%88%E5%A6%99%23" target="weibo">
-难哄 大事很妙（热度：335185）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%23" target="weibo">
+深圳暴雨（热度：318589）
 </a>
 </li>
 
@@ -243,6 +267,18 @@ iPhone16或取消实体音量键电源键（热度：421891）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E5%9B%9E%E5%BA%94%E5%81%9A%E6%89%8B%E6%9C%AF%23" target="weibo">
+东北雨姐回应做手术（热度：300580）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%96%E6%8E%92%E7%AC%AC%E4%B8%808300%E5%88%86%23" target="weibo">
+孙颖莎世排第一8300分（热度：291801）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E4%B8%AD%E6%88%8F%E6%AF%95%E4%B8%9A%E5%A4%A7%E6%88%8F%23" target="weibo">
 赵今麦中戏毕业大戏（热度：263609）
 </a>
@@ -261,8 +297,8 @@ iPhone16或取消实体音量键电源键（热度：421891）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E9%AB%98%E6%A0%A1%E7%A6%81%E6%AD%A2%E5%AD%A6%E7%94%9F%E6%8C%82%E5%BA%8A%E5%B8%98%23" target="weibo">
-辅导员回应多地高校禁止学生挂床帘（热度：251110）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%A4%9C%E9%9B%AA%E9%A2%84%E5%91%8A%23" target="weibo">
+七夜雪预告（热度：251114）
 </a>
 </li>
 
@@ -285,8 +321,8 @@ iPhone16或取消实体音量键电源键（热度：421891）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E5%9B%9E%E5%BA%94%E5%81%9A%E6%89%8B%E6%9C%AF%23" target="weibo">
-东北雨姐回应做手术（热度：234767）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E4%B8%9C%E6%9D%A5%E7%A7%B0%E5%8E%BB%E5%B9%B4%E8%AE%A1%E5%88%92%E6%8C%A32000%E4%B8%87%E7%BB%93%E6%9E%9C%E8%B5%9A%E4%BA%861.4%E4%BA%BF%23" target="weibo">
+于东来称去年计划挣2000万结果赚了1.4亿（热度：228525）
 </a>
 </li>
 
@@ -303,8 +339,14 @@ HYBE获取ADOR内部文件（热度：221919）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%23" target="weibo">
-深圳暴雨（热度：214779）
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%86%9B%E8%AE%AD%23" target="weibo">
+凤凰传奇军训（热度：211100）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232024%E7%88%B1%E5%A5%87%E8%89%BA%E6%9C%AA%E6%9D%A5%E7%89%87%E5%8D%95%23" target="weibo">
+2024爱奇艺未来片单（热度：210225）
 </a>
 </li>
 
@@ -333,12 +375,6 @@ HYBE获取ADOR内部文件（热度：221919）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%86%9B%E8%AE%AD%23" target="weibo">
-凤凰传奇军训（热度：199524）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E6%B1%9F%E5%A4%A7%E6%A1%A5%E5%AE%9E%E6%96%BD%E4%B8%B4%E6%97%B6%E4%BA%A4%E9%80%9A%E7%AE%A1%E5%88%B6%23" target="weibo">
 九江大桥实施临时交通管制（热度：193057）
 </a>
@@ -357,14 +393,38 @@ HYBE获取ADOR内部文件（热度：221919）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23WVS%E5%95%86%E5%BA%97%E6%8A%8ANewJeans%E7%A7%BB%E9%99%A4%E6%8E%A8%E8%8D%90%E4%BD%8D%23" target="weibo">
+WVS商店把NewJeans移除推荐位（热度：189852）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%8B%E6%96%AF%E9%A5%AE%E6%96%99%E5%8A%A0%E5%A4%A7%E5%84%BF%E7%AB%A5%E6%80%A7%E6%97%A9%E7%86%9F%E9%A3%8E%E9%99%A9%23" target="weibo">
+海克斯饮料加大儿童性早熟风险（热度：189396）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%BB%E4%B9%A6%E6%97%A5%23" target="weibo">
+读书日（热度：188199）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%98%89%E7%91%9E%E9%A6%96%E9%83%A8%E7%94%B7%E4%BA%8C%E5%89%A7%23" target="weibo">
+田嘉瑞首部男二剧（热度：184021）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%8A%B1%E8%8E%B2%E5%8E%BF%E5%8F%91%E7%94%9F6.0%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 台湾花莲县发生6.0级地震（热度：183510）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%8B%E6%96%AF%E9%A5%AE%E6%96%99%E5%8A%A0%E5%A4%A7%E5%84%BF%E7%AB%A5%E6%80%A7%E6%97%A9%E7%86%9F%E9%A3%8E%E9%99%A9%23" target="weibo">
-海克斯饮料加大儿童性早熟风险（热度：183394）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%A2%E9%A6%86%E8%80%81%E6%9D%BF1%E5%A4%A9%E5%8D%96100%E7%A2%97%E5%88%9A%E5%A4%9F%E4%BA%A4%E6%88%BF%E7%A7%9F%23" target="weibo">
+面馆老板1天卖100碗刚够交房租（热度：180682）
 </a>
 </li>
 
@@ -387,6 +447,12 @@ HYBE获取ADOR内部文件（热度：221919）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E4%B8%89%E4%BB%A3%E5%87%BA%E9%81%93%E4%BA%BA%E6%95%B0%23" target="weibo">
+TF家族三代出道人数（热度：167026）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%B4%81%20%E4%BA%BA%E6%9D%80%E9%9D%92%E6%95%85%E4%BA%8B%E4%B8%8D%E6%9D%80%E9%9D%92%23" target="weibo">
 徐梦洁 人杀青故事不杀青（热度：162872）
 </a>
@@ -399,6 +465,12 @@ HYBE获取ADOR内部文件（热度：221919）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E6%8B%8D%E5%92%8C%E4%BB%96%E6%8B%8D%E7%9A%84%E5%93%AA%E4%B8%AA%E6%89%8D%E6%98%AF%E7%9C%9F%E5%AE%9E%E7%9A%84%E8%87%AA%E5%B7%B1%23" target="weibo">
+自拍和他拍的哪个才是真实的自己（热度：152526）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23hybe%E6%88%96%E5%B0%86%E5%AF%B9%E9%97%B5%E7%86%99%E7%8F%8D%E9%87%87%E5%8F%96%E6%B3%95%E5%BE%8B%E6%8E%AA%E6%96%BD%23" target="weibo">
 hybe或将对闵熙珍采取法律措施（热度：152139）
 </a>
@@ -407,12 +479,6 @@ hybe或将对闵熙珍采取法律措施（热度：152139）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%89%B2%E5%AF%84%E6%83%85%E4%BA%BA%20%E6%B3%89%E5%B7%9E%E5%AE%A3%E4%BC%A0%E7%89%87%23" target="weibo">
 春色寄情人 泉州宣传片（热度：152028）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23PDD%23" target="weibo">
-PDD（热度：151254）
 </a>
 </li>
 
@@ -443,12 +509,6 @@ PDD（热度：151254）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC7%E5%A4%A9%E8%92%B8%E5%8F%917511%E4%BA%BF%E5%85%83%23" target="weibo">
 特斯拉市值7天蒸发7511亿元（热度：134935）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E6%8B%8D%E5%92%8C%E4%BB%96%E6%8B%8D%E7%9A%84%E5%93%AA%E4%B8%AA%E6%89%8D%E6%98%AF%E7%9C%9F%E5%AE%9E%E7%9A%84%E8%87%AA%E5%B7%B1%23" target="weibo">
-自拍和他拍的哪个才是真实的自己（热度：132125）
 </a>
 </li>
 

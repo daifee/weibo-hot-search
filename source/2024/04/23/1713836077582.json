@@ -1,0 +1,410 @@
+{
+  "runTime": 1713836077582,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4112179,
+        "num": 4112179,
+        "word": "一条小团团确认被捕",
+        "onboard_time": 1713828375,
+        "rank": 0,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 1582219,
+        "num": 1582219,
+        "word": "PDD",
+        "onboard_time": 1713834858,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33610,
+        "num": 1259969,
+        "word": "世界读书日开卷有益",
+        "onboard_time": 1713789559,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1198625,
+        "num": 1198625,
+        "word": "薛之谦演唱会一个人来的女主发声",
+        "onboard_time": 1713830478,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 725077,
+        "num": 725077,
+        "word": "黄金白银集体大跌",
+        "onboard_time": 1713831440,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 686238,
+        "num": 686238,
+        "word": "莫言称每次刷完短视频都会批评自己",
+        "onboard_time": 1713831739,
+        "rank": 5,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 482226,
+        "num": 482226,
+        "word": "辅导员回应多地高校禁止学生挂床帘",
+        "onboard_time": 1713834259,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481976,
+        "num": 481976,
+        "word": "台湾1小时内发生10起地震",
+        "onboard_time": 1713785656,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444976,
+        "num": 444976,
+        "word": "广东暴雨",
+        "onboard_time": 1713833599,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279778,
+        "num": 437240,
+        "word": "大熊猫北辰把特供乒乓球给吃了",
+        "onboard_time": 1713813012,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1867944,
+        "num": 434814,
+        "word": "一条小团团",
+        "onboard_time": 1713830117,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 548653,
+        "num": 427509,
+        "word": "乔丹儿子皮蓬前妻开放关系",
+        "onboard_time": 1713829337,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474973,
+        "num": 417184,
+        "word": "许凯身上痒就去洗澡",
+        "onboard_time": 1713827956,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413642,
+        "num": 413642,
+        "word": "多地高校禁止学生挂床帘",
+        "onboard_time": 1713835398,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382704,
+        "num": 382704,
+        "word": "凌晨的HYBE",
+        "onboard_time": 1713830238,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377233,
+        "num": 377233,
+        "word": "郑乃馨承认恋情",
+        "onboard_time": 1713786198,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365927,
+        "num": 365927,
+        "word": "专家称不能对富人有效征税那就刺激他们消费",
+        "onboard_time": 1713828255,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 355545,
+        "num": 355545,
+        "word": "台湾花莲又发5.9级地震",
+        "onboard_time": 1713796821,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330144,
+        "num": 330144,
+        "word": "蝴蝶少年",
+        "onboard_time": 1713831799,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329560,
+        "num": 329560,
+        "word": "杨幂的破窗之作",
+        "onboard_time": 1713830600,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 911661,
+        "num": 328338,
+        "word": "越来越多夫妻不过夫妻生活了",
+        "onboard_time": 1713826994,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342629,
+        "num": 328029,
+        "word": "为什么点外卖都要送这种饮料",
+        "onboard_time": 1713795980,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 318589,
+        "num": 318589,
+        "word": "深圳暴雨",
+        "onboard_time": 1713834619,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307937,
+        "num": 307937,
+        "word": "台湾花莲凌晨2次超6级地震",
+        "onboard_time": 1713827354,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306421,
+        "num": 306421,
+        "word": "赚了一个亏了一个平了一个",
+        "onboard_time": 1713800177,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300580,
+        "num": 300580,
+        "word": "东北雨姐回应做手术",
+        "onboard_time": 1713834378,
+        "rank": 25,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 291801,
+        "num": 291801,
+        "word": "孙颖莎世排第一8300分",
+        "onboard_time": 1713835099,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263290,
+        "num": 263290,
+        "word": "婚前性行为该拒绝吗",
+        "onboard_time": 1713791180,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252368,
+        "num": 252368,
+        "word": "台湾本月初地震已有1000多次余震",
+        "onboard_time": 1713834199,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251114,
+        "num": 251114,
+        "word": "七夜雪预告",
+        "onboard_time": 1713835279,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250497,
+        "num": 250497,
+        "word": "深圳天气",
+        "onboard_time": 1713832340,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239612,
+        "num": 239612,
+        "word": "交警部门回应天津街头两名交警互殴",
+        "onboard_time": 1713829518,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228525,
+        "num": 228525,
+        "word": "于东来称去年计划挣2000万结果赚了1.4亿",
+        "onboard_time": 1713835641,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212996,
+        "num": 212996,
+        "word": "海船擦碰九江大桥防撞墩后沉没4人失联",
+        "onboard_time": 1713833539,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211100,
+        "num": 211100,
+        "word": "凤凰传奇军训",
+        "onboard_time": 1713834139,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210225,
+        "num": 210225,
+        "word": "2024爱奇艺未来片单",
+        "onboard_time": 1713835759,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202480,
+        "num": 202480,
+        "word": "斗鱼CEO陈少杰已取保候审",
+        "onboard_time": 1713789138,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191790,
+        "num": 191790,
+        "word": "浙江舞蹈老师怀孕39周仍每天跳舞",
+        "onboard_time": 1713794419,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189852,
+        "num": 189852,
+        "word": "WVS商店把NewJeans移除推荐位",
+        "onboard_time": 1713835340,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189396,
+        "num": 189396,
+        "word": "海克斯饮料加大儿童性早熟风险",
+        "onboard_time": 1713831799,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188199,
+        "num": 188199,
+        "word": "读书日",
+        "onboard_time": 1713835641,
+        "rank": 40,
+        "category": "读书作家,教育"
+      },
+      {
+        "raw_hot": 184021,
+        "num": 184021,
+        "word": "田嘉瑞首部男二剧",
+        "onboard_time": 1713835818,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180833,
+        "num": 180833,
+        "word": "英伟达市值一夜大涨6000亿元",
+        "onboard_time": 1713833061,
+        "rank": 42,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 180682,
+        "num": 180682,
+        "word": "面馆老板1天卖100碗刚够交房租",
+        "onboard_time": 1713835998,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178651,
+        "num": 178651,
+        "word": "控制早晨才能控制人生",
+        "onboard_time": 1713833179,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169709,
+        "num": 169709,
+        "word": "HYBE获取ADOR内部文件",
+        "onboard_time": 1713834439,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167026,
+        "num": 167026,
+        "word": "TF家族三代出道人数",
+        "onboard_time": 1713834979,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159627,
+        "num": 159627,
+        "word": "杨紫透露下一部戏计划",
+        "onboard_time": 1713829758,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152526,
+        "num": 152526,
+        "word": "自拍和他拍的哪个才是真实的自己",
+        "onboard_time": 1713834139,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147917,
+        "num": 147917,
+        "word": "看似羞耻的小习惯其实非常解压",
+        "onboard_time": 1713798919,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}
