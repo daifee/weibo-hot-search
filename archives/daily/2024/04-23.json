@@ -1,6 +1,6 @@
 {
   "startTime": 1713802938860,
-  "endTime": 1713846898108,
+  "endTime": 1713849404815,
   "band_list": [
     {
       "raw_hot": 4471317,
@@ -75,6 +75,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1341992,
+      "num": 1341992,
+      "word": "原来应届毕业生身份这么值",
+      "onboard_time": 1713845180,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1339704,
       "num": 1339704,
       "word": "茶百道上市",
@@ -83,12 +91,20 @@
       "category": "美食,财经"
     },
     {
-      "raw_hot": 1127174,
-      "num": 1127174,
-      "word": "原来应届毕业生身份这么值",
-      "onboard_time": 1713845180,
-      "rank": 14,
-      "category": "教育"
+      "raw_hot": 1266795,
+      "num": 1266795,
+      "word": "李闽轩 北电艺考",
+      "onboard_time": 1713841578,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1149563,
+      "num": 1149563,
+      "word": "穆雷绝杀湖人",
+      "onboard_time": 1713847341,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1102801,
@@ -131,11 +147,11 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 936042,
-      "num": 936042,
-      "word": "李闽轩 北电艺考",
-      "onboard_time": 1713841578,
-      "rank": 16,
+      "raw_hot": 951783,
+      "num": 893963,
+      "word": "中戏表演系帅哥美女",
+      "onboard_time": 1713844158,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -145,14 +161,6 @@
       "onboard_time": 1713838638,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 893963,
-      "num": 893963,
-      "word": "中戏表演系帅哥美女",
-      "onboard_time": 1713844158,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 815652,
@@ -235,12 +243,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 587926,
+      "num": 562209,
+      "word": "斗鱼回应PDD停播161天",
+      "onboard_time": 1713843919,
+      "rank": 13,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 569477,
+      "num": 569477,
+      "word": "唐朝诡事录之西行预告",
+      "onboard_time": 1713847579,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 561714,
       "num": 561714,
       "word": "专家称不能对富人有效征税那就刺激他们消费",
       "onboard_time": 1713828255,
       "rank": 34,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 557758,
+      "num": 557758,
+      "word": "工作人员输错号让彩民中800多万",
+      "onboard_time": 1713847821,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553543,
@@ -251,20 +283,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 551616,
+      "num": 551616,
+      "word": "狐妖小红娘竹业篇片花",
+      "onboard_time": 1713846561,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 530827,
+      "num": 530827,
+      "word": "都怪李秀满",
+      "onboard_time": 1713845060,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 525227,
       "num": 525227,
       "word": "赚了一个亏了一个平了一个",
       "onboard_time": 1713800177,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 520166,
-      "num": 520166,
-      "word": "斗鱼回应PDD停播161天",
-      "onboard_time": 1713843919,
-      "rank": 13,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 518621,
@@ -339,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 454454,
+      "num": 568190,
+      "word": "深圳已进入暴雨防御状态",
+      "onboard_time": 1713846260,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452307,
       "num": 264029,
       "word": "拳手踢举牌女郎臀部遭群殴",
@@ -369,14 +417,6 @@
       "onboard_time": 1713833599,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444909,
-      "num": 444909,
-      "word": "都怪李秀满",
-      "onboard_time": 1713845060,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 444456,
@@ -459,12 +499,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 360413,
+      "num": 360413,
+      "word": "艺考 作弊",
+      "onboard_time": 1713848959,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 360188,
       "num": 360188,
       "word": "杨幂的破窗之作",
       "onboard_time": 1713830600,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 357331,
+      "num": 357331,
+      "word": "花儿与少年好友记",
+      "onboard_time": 1713848361,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 335185,
@@ -475,11 +531,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329002,
+      "num": 329002,
+      "word": "穆雷世界名画",
+      "onboard_time": 1713848479,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 327409,
       "num": 327409,
       "word": "TF三代 门面",
       "onboard_time": 1713839478,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 324964,
+      "num": 324964,
+      "word": "HYBE官方公告",
+      "onboard_time": 1713847521,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -539,6 +611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 308593,
+      "num": 308593,
+      "word": "仙台有树大婚必有大刀",
+      "onboard_time": 1713845660,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307772,
       "num": 307772,
       "word": "一条小团团斗鱼直播间还在",
@@ -579,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295554,
+      "num": 295554,
+      "word": "蔚来给下定小米SU7消费者5000元补贴",
+      "onboard_time": 1713848240,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 293043,
       "num": 293043,
       "word": "小团团公司近期仍发布游戏",
@@ -595,20 +683,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290763,
+      "num": 290763,
+      "word": "星穹铁道 流萤",
+      "onboard_time": 1713847041,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 287986,
+      "num": 287986,
+      "word": "金秀贤金智媛再度合体",
+      "onboard_time": 1713849258,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286819,
       "num": 286819,
       "word": "陈少杰被指或获刑5年",
       "onboard_time": 1713838758,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 285741,
-      "num": 285741,
-      "word": "仙台有树大婚必有大刀",
-      "onboard_time": 1713845660,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 277202,
@@ -649,6 +745,14 @@
       "onboard_time": 1713839419,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254624,
+      "num": 254624,
+      "word": "詹姆斯我真的泪目了",
+      "onboard_time": 1713848659,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 254124,
@@ -747,20 +851,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235532,
+      "num": 235532,
+      "word": "戚薇回应小考0分不是故意的",
+      "onboard_time": 1713849078,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235189,
       "num": 235189,
       "word": "英伟达市值一夜大涨6000亿元",
       "onboard_time": 1713833061,
       "rank": 29,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 234274,
-      "num": 234274,
-      "word": "狐妖小红娘竹业篇片花",
-      "onboard_time": 1713846561,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 232720,
@@ -784,6 +888,14 @@
       "word": "HYBE获取ADOR内部文件",
       "onboard_time": 1713834439,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218654,
+      "num": 218654,
+      "word": "于正删评拉黑",
+      "onboard_time": 1713848181,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -825,6 +937,14 @@
       "onboard_time": 1713834139,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 209623,
+      "num": 209623,
+      "word": "老凤祥中国黄金客服回应被约谈",
+      "onboard_time": 1713846681,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 209447,
@@ -875,6 +995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206270,
+      "num": 206270,
+      "word": "汪苏泷十万伏特",
+      "onboard_time": 1713848659,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204924,
       "num": 204924,
       "word": "仙台有树首发特辑",
@@ -913,6 +1041,14 @@
       "onboard_time": 1713786437,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 197680,
+      "num": 197680,
+      "word": "掘金20分逆转湖人",
+      "onboard_time": 1713848841,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 193057,
@@ -979,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183690,
+      "num": 183690,
+      "word": "想看孤舟",
+      "onboard_time": 1713848121,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183510,
       "num": 183510,
       "word": "台湾花莲县发生6.0级地震",
@@ -1033,14 +1177,6 @@
       "onboard_time": 1713839718,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172744,
-      "num": 172744,
-      "word": "老凤祥中国黄金客服回应被约谈",
-      "onboard_time": 1713846681,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 171290,
@@ -1112,14 +1248,6 @@
       "word": "郑州下雨",
       "onboard_time": 1713829397,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158529,
-      "num": 266769,
-      "word": "深圳已进入暴雨防御状态",
-      "onboard_time": 1713846260,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1607,6 +1735,14 @@
       "num": 1263961,
       "word": "万千气象看山西",
       "onboard_time": 1713842298,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194,
+      "num": 1283112,
+      "word": "V观京津冀新质铸辉煌",
+      "onboard_time": 1713846981,
       "rank": 2,
       "category": "社会新闻"
     }
