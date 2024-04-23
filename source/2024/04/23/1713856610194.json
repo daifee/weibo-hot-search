@@ -1,0 +1,402 @@
+{
+  "runTime": 1713856610194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2013948,
+        "num": 2013948,
+        "word": "小团团或将面临3至5年刑期",
+        "onboard_time": 1713852139,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1711561,
+        "num": 1711561,
+        "word": "艺考 作弊",
+        "onboard_time": 1713848959,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 722577,
+        "num": 722577,
+        "word": "床帘 遮光",
+        "onboard_time": 1713850518,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647431,
+        "num": 647431,
+        "word": "金饰价格一夜跌14元每克",
+        "onboard_time": 1713843018,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 585981,
+        "num": 585981,
+        "word": "金秀贤把金智媛搂怀里看剧本",
+        "onboard_time": 1713852979,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 535275,
+        "num": 535275,
+        "word": "凤凰传奇 唯粉",
+        "onboard_time": 1713854777,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 520847,
+        "num": 520847,
+        "word": "电视剧遮天阵容官宣",
+        "onboard_time": 1713852678,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 511121,
+        "num": 511121,
+        "word": "五月天鸟巢演唱会",
+        "onboard_time": 1713854418,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182577,
+        "num": 508618,
+        "word": "高中女生帮老奶奶拿废品",
+        "onboard_time": 1713854777,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 992449,
+        "num": 493025,
+        "word": "女教师遭网课爆破猝死女儿决心休学",
+        "onboard_time": 1713851958,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58654,
+        "num": 482812,
+        "word": "时代少年团说贵妃请接荔",
+        "onboard_time": 1713853399,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 679013,
+        "num": 479712,
+        "word": "一条小团团确认被捕",
+        "onboard_time": 1713828375,
+        "rank": 12,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 470118,
+        "num": 470118,
+        "word": "工作人员输错号让彩民中800多万",
+        "onboard_time": 1713847821,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434292,
+        "num": 434292,
+        "word": "原来应届毕业生身份这么值",
+        "onboard_time": 1713845180,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 423362,
+        "num": 423362,
+        "word": "禁止学生挂床帘理由缺乏说服力",
+        "onboard_time": 1713855139,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418697,
+        "num": 418697,
+        "word": "一个父亲没了软肋就不再需要底线",
+        "onboard_time": 1713852560,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 414681,
+        "num": 414681,
+        "word": "成毅白发",
+        "onboard_time": 1713855437,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400051,
+        "num": 400051,
+        "word": "网文作家已成90后的热门兼职",
+        "onboard_time": 1713853758,
+        "rank": 18,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 374945,
+        "num": 374945,
+        "word": "李闽轩 北电艺考",
+        "onboard_time": 1713841578,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368141,
+        "num": 368141,
+        "word": "中戏表演系帅哥美女",
+        "onboard_time": 1713844158,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355067,
+        "num": 355067,
+        "word": "男子车位被霸停5天一怒焊死",
+        "onboard_time": 1713850758,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291522,
+        "num": 291522,
+        "word": "杨幂狐妖从原声换成配音了",
+        "onboard_time": 1713850219,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274905,
+        "num": 274905,
+        "word": "姚政抢票",
+        "onboard_time": 1713854838,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245481,
+        "num": 245481,
+        "word": "问界M5",
+        "onboard_time": 1713854597,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 258128,
+        "num": 243635,
+        "word": "秦岚选到了谁",
+        "onboard_time": 1713851958,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238218,
+        "num": 238218,
+        "word": "狐妖关系图",
+        "onboard_time": 1713855798,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222381,
+        "num": 222381,
+        "word": "花少导演组靠秦海璐拉群",
+        "onboard_time": 1713850398,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218682,
+        "num": 218682,
+        "word": "小团团房管让粉丝无视相关消息",
+        "onboard_time": 1713853040,
+        "rank": 28,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 217033,
+        "num": 217033,
+        "word": "斗鱼回应PDD停播161天",
+        "onboard_time": 1713843919,
+        "rank": 29,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 204504,
+        "num": 204504,
+        "word": "郭敬明观看建议",
+        "onboard_time": 1713855557,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201487,
+        "num": 201487,
+        "word": "火锅行业为什么越来越卷",
+        "onboard_time": 1713855979,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199358,
+        "num": 199358,
+        "word": "杨幂杀回仙侠剧了",
+        "onboard_time": 1713843018,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196517,
+        "num": 196517,
+        "word": "狐妖小红娘王权篇山水同看海报",
+        "onboard_time": 1713856038,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179599,
+        "num": 193574,
+        "word": "狐妖时装",
+        "onboard_time": 1713856279,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 193429,
+        "num": 193429,
+        "word": "狐妖竹业篇MBTI",
+        "onboard_time": 1713855979,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195448,
+        "num": 192903,
+        "word": "狐妖王权篇单人海报",
+        "onboard_time": 1713855499,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191216,
+        "num": 191216,
+        "word": "大梦归离再现云之羽站位",
+        "onboard_time": 1713855919,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177811,
+        "num": 177811,
+        "word": "林高远 允许自己不完美",
+        "onboard_time": 1713852979,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165516,
+        "num": 165516,
+        "word": "黄金热卖8家公司净赚273亿",
+        "onboard_time": 1713855378,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158903,
+        "num": 158903,
+        "word": "多地高校禁止学生挂床帘",
+        "onboard_time": 1713835398,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154153,
+        "num": 154153,
+        "word": "麦家说自己爹味很重",
+        "onboard_time": 1713853639,
+        "rank": 41,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 145226,
+        "num": 145226,
+        "word": "财神爷 生日快乐",
+        "onboard_time": 1713854297,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140082,
+        "num": 140082,
+        "word": "刘涛猛夸赵昭仪",
+        "onboard_time": 1713854238,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139792,
+        "num": 139792,
+        "word": "孙子减龄式爆改87岁爷爷",
+        "onboard_time": 1713853279,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139470,
+        "num": 139470,
+        "word": "不是父母变好了而是你有用了",
+        "onboard_time": 1713856397,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126930,
+        "num": 126930,
+        "word": "蔚来给下定小米SU7消费者5000元补贴",
+        "onboard_time": 1713848240,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122895,
+        "num": 122895,
+        "word": "于正海报审美",
+        "onboard_time": 1713842418,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118595,
+        "num": 118595,
+        "word": "詹姆斯我真的泪目了",
+        "onboard_time": 1713848659,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117434,
+        "num": 117434,
+        "word": "杨幂又缝裙子了",
+        "onboard_time": 1713849439,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍爱地球和谐共生#"
+    }
+  }
+}

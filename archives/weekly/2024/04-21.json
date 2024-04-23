@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713854286447,
+  "endTime": 1713856610194,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -147,6 +147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2013948,
+      "num": 2013948,
+      "word": "小团团或将面临3至5年刑期",
+      "onboard_time": 1713852139,
+      "rank": 1,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1980394,
       "num": 1980394,
       "word": "12306被质疑纵容买长乘短",
@@ -161,14 +169,6 @@
       "onboard_time": 1713796821,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1868393,
-      "num": 1868393,
-      "word": "小团团或将面临3至5年刑期",
-      "onboard_time": 1713852139,
-      "rank": 1,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 1820515,
@@ -611,6 +611,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 992449,
+      "num": 496605,
+      "word": "女教师遭网课爆破猝死女儿决心休学",
+      "onboard_time": 1713851958,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 986936,
       "num": 986936,
       "word": "韩国女团MV涉嫌恋童引争议",
@@ -833,14 +841,6 @@
       "onboard_time": 1713703339,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 788930,
-      "num": 496605,
-      "word": "女教师遭网课爆破猝死女儿决心休学",
-      "onboard_time": 1713851958,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 771184,
@@ -1307,6 +1307,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 585981,
+      "num": 585981,
+      "word": "金秀贤把金智媛搂怀里看剧本",
+      "onboard_time": 1713852979,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 584886,
       "num": 572565,
       "word": "晚宴上的杨幂",
@@ -1539,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 535275,
+      "num": 535275,
+      "word": "凤凰传奇 唯粉",
+      "onboard_time": 1713854777,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 535062,
       "num": 535062,
       "word": "简庆芬出轨",
@@ -1611,6 +1627,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 520847,
+      "num": 520847,
+      "word": "电视剧遮天阵容官宣",
+      "onboard_time": 1713852678,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 518621,
       "num": 462888,
       "word": "许凯身上痒就去洗澡",
@@ -1649,6 +1673,14 @@
       "onboard_time": 1713660676,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511121,
+      "num": 511121,
+      "word": "五月天鸟巢演唱会",
+      "onboard_time": 1713854418,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 509944,
@@ -1963,14 +1995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 453255,
-      "num": 453255,
-      "word": "电视剧遮天阵容官宣",
-      "onboard_time": 1713852678,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 452973,
       "num": 452973,
       "word": "合着我还过着29年前的单休生活",
@@ -2131,6 +2155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 423362,
+      "num": 423362,
+      "word": "禁止学生挂床帘理由缺乏说服力",
+      "onboard_time": 1713855139,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422104,
       "num": 422104,
       "word": "周杰伦首次录制说唱节目",
@@ -2163,6 +2195,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 418697,
+      "num": 418697,
+      "word": "一个父亲没了软肋就不再需要底线",
+      "onboard_time": 1713852560,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 417173,
       "num": 417173,
       "word": "极限挑战",
@@ -2185,6 +2225,14 @@
       "onboard_time": 1713687438,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 414681,
+      "num": 414681,
+      "word": "成毅白发",
+      "onboard_time": 1713855437,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 413899,
@@ -2241,6 +2289,14 @@
       "onboard_time": 1713829518,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400051,
+      "num": 532244,
+      "word": "网文作家已成90后的热门兼职",
+      "onboard_time": 1713853758,
+      "rank": 8,
+      "category": "读书作家"
     },
     {
       "raw_hot": 396254,
@@ -2347,14 +2403,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 384808,
-      "num": 384808,
-      "word": "一个父亲没了软肋就不再需要底线",
-      "onboard_time": 1713852560,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 384134,
       "num": 384134,
       "word": "深圳暴雨",
@@ -2444,19 +2492,11 @@
     },
     {
       "raw_hot": 368249,
-      "num": 299411,
+      "num": 355067,
       "word": "男子车位被霸停5天一怒焊死",
       "onboard_time": 1713850758,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365525,
-      "num": 365525,
-      "word": "金秀贤把金智媛搂怀里看剧本",
-      "onboard_time": 1713852979,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 365093,
@@ -3107,6 +3147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274905,
+      "num": 274905,
+      "word": "姚政抢票",
+      "onboard_time": 1713854838,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 273953,
       "num": 273953,
       "word": "李艾的腿给了我亿点点震撼",
@@ -3289,6 +3337,14 @@
       "onboard_time": 1713777858,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 258128,
+      "num": 243635,
+      "word": "秦岚选到了谁",
+      "onboard_time": 1713851958,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 256812,
@@ -3499,6 +3555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245481,
+      "num": 245481,
+      "word": "问界M5",
+      "onboard_time": 1713854597,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 245375,
       "num": 245375,
       "word": "何浩楠 帅蜂了",
@@ -3571,14 +3635,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 241248,
-      "num": 241248,
-      "word": "秦岚选到了谁",
-      "onboard_time": 1713851958,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 241038,
       "num": 241038,
       "word": "李现内娱第一个在采访里笑哭的",
@@ -3641,6 +3697,14 @@
       "onboard_time": 1713626178,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238218,
+      "num": 238218,
+      "word": "狐妖关系图",
+      "onboard_time": 1713855798,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 238020,
@@ -3929,14 +3993,6 @@
       "onboard_time": 1713834439,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221882,
-      "num": 532244,
-      "word": "网文作家已成90后的热门兼职",
-      "onboard_time": 1713853758,
-      "rank": 8,
-      "category": "读书作家"
     },
     {
       "raw_hot": 221790,
@@ -4363,6 +4419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204504,
+      "num": 204504,
+      "word": "郭敬明观看建议",
+      "onboard_time": 1713855557,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204439,
       "num": 204439,
       "word": "张凯辞职",
@@ -4465,6 +4529,14 @@
       "onboard_time": 1713835818,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201487,
+      "num": 201487,
+      "word": "火锅行业为什么越来越卷",
+      "onboard_time": 1713855979,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 201446,
@@ -4619,6 +4691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196517,
+      "num": 196517,
+      "word": "狐妖小红娘王权篇山水同看海报",
+      "onboard_time": 1713856038,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196469,
       "num": 178753,
       "word": "绘旅人存在之章",
@@ -4641,6 +4721,14 @@
       "onboard_time": 1713701598,
       "rank": 42,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 195448,
+      "num": 192903,
+      "word": "狐妖王权篇单人海报",
+      "onboard_time": 1713855499,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 195377,
@@ -4723,6 +4811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193429,
+      "num": 193429,
+      "word": "狐妖竹业篇MBTI",
+      "onboard_time": 1713855979,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193057,
       "num": 193057,
       "word": "九江大桥实施临时交通管制",
@@ -4784,6 +4880,14 @@
       "word": "眼泪女王 绝症车祸失忆",
       "onboard_time": 1713772638,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191216,
+      "num": 191216,
+      "word": "大梦归离再现云之羽站位",
+      "onboard_time": 1713855919,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -5091,6 +5195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182577,
+      "num": 508618,
+      "word": "高中女生帮老奶奶拿废品",
+      "onboard_time": 1713854777,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 181923,
       "num": 181923,
       "word": "雷军 现场看F1换胎好震撼",
@@ -5153,6 +5265,14 @@
       "onboard_time": 1713740115,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 179599,
+      "num": 193574,
+      "word": "狐妖时装",
+      "onboard_time": 1713856279,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 179591,
@@ -5625,6 +5745,14 @@
       "onboard_time": 1713701658,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165516,
+      "num": 165516,
+      "word": "黄金热卖8家公司净赚273亿",
+      "onboard_time": 1713855378,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 164959,
@@ -6323,6 +6451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145226,
+      "num": 145226,
+      "word": "财神爷 生日快乐",
+      "onboard_time": 1713854297,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145039,
       "num": 145039,
       "word": "未定事件簿少年如你",
@@ -6523,12 +6659,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140082,
+      "num": 140082,
+      "word": "刘涛猛夸赵昭仪",
+      "onboard_time": 1713854238,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139928,
       "num": 139928,
       "word": "假如你从4月20日开始减肥",
       "onboard_time": 1713654854,
       "rank": 27,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 139470,
+      "num": 139470,
+      "word": "不是父母变好了而是你有用了",
+      "onboard_time": 1713856397,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 139450,
@@ -6793,14 +6945,6 @@
       "onboard_time": 1713675981,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131560,
-      "num": 131560,
-      "word": "刘涛猛夸赵昭仪",
-      "onboard_time": 1713854238,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 131547,
@@ -7707,6 +7851,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 58654,
+      "num": 482812,
+      "word": "时代少年团说贵妃请接荔",
+      "onboard_time": 1713853399,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 57012,
       "num": 165005,
       "word": "搜狐视频播主大会",
@@ -7737,14 +7889,6 @@
       "onboard_time": 1713639670,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 54708,
-      "num": 301399,
-      "word": "时代少年团说贵妃请接荔",
-      "onboard_time": 1713853399,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 54271,
