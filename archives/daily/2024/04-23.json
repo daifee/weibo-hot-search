@@ -1,6 +1,6 @@
 {
   "startTime": 1713802938860,
-  "endTime": 1713849404815,
+  "endTime": 1713850464530,
   "band_list": [
     {
       "raw_hot": 4471317,
@@ -25,6 +25,14 @@
       "onboard_time": 1713835398,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2288672,
+      "num": 2288672,
+      "word": "艺考 作弊",
+      "onboard_time": 1713848959,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 2259934,
@@ -59,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1513147,
+      "num": 1513147,
+      "word": "李闽轩 北电艺考",
+      "onboard_time": 1713841578,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1420882,
       "num": 352445,
       "word": "越来越多夫妻不过夫妻生活了",
@@ -89,14 +105,6 @@
       "onboard_time": 1713837858,
       "rank": 5,
       "category": "美食,财经"
-    },
-    {
-      "raw_hot": 1266795,
-      "num": 1266795,
-      "word": "李闽轩 北电艺考",
-      "onboard_time": 1713841578,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1149563,
@@ -139,20 +147,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1014399,
+      "num": 893963,
+      "word": "中戏表演系帅哥美女",
+      "onboard_time": 1713844158,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 995272,
       "num": 995272,
       "word": "大批斗鱼头部主播停播",
       "onboard_time": 1713838997,
       "rank": 23,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 951783,
-      "num": 893963,
-      "word": "中戏表演系帅哥美女",
-      "onboard_time": 1713844158,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 894637,
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 656644,
+      "num": 656644,
+      "word": "工作人员输错号让彩民中800多万",
+      "onboard_time": 1713847821,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643776,
       "num": 643776,
       "word": "于正海报审美",
@@ -265,14 +281,6 @@
       "onboard_time": 1713828255,
       "rank": 34,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 557758,
-      "num": 557758,
-      "word": "工作人员输错号让彩民中800多万",
-      "onboard_time": 1713847821,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 553543,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 454454,
-      "num": 568190,
+      "num": 651560,
       "word": "深圳已进入暴雨防御状态",
       "onboard_time": 1713846260,
       "rank": 29,
@@ -499,14 +507,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 360413,
-      "num": 360413,
-      "word": "艺考 作弊",
-      "onboard_time": 1713848959,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
       "raw_hot": 360188,
       "num": 360188,
       "word": "杨幂的破窗之作",
@@ -528,6 +528,14 @@
       "word": "难哄 大事很妙",
       "onboard_time": 1713786138,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 335057,
+      "num": 335057,
+      "word": "金秀贤金智媛再度合体",
+      "onboard_time": 1713849258,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -627,6 +635,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 305284,
+      "num": 305284,
+      "word": "詹姆斯我真的泪目了",
+      "onboard_time": 1713848659,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302829,
       "num": 172993,
       "word": "女子常熬夜胸痛难忍才就医确诊肺癌晚期",
@@ -691,12 +707,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 287986,
-      "num": 287986,
-      "word": "金秀贤金智媛再度合体",
-      "onboard_time": 1713849258,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 289202,
+      "num": 289202,
+      "word": "杨幂又缝裙子了",
+      "onboard_time": 1713849439,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 286819,
@@ -713,6 +729,14 @@
       "onboard_time": 1713846260,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 273729,
+      "num": 273729,
+      "word": "姚志明被丈母娘吓得上蹿下跳",
+      "onboard_time": 1713849798,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 266714,
@@ -745,14 +769,6 @@
       "onboard_time": 1713839419,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254624,
-      "num": 254624,
-      "word": "詹姆斯我真的泪目了",
-      "onboard_time": 1713848659,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 254124,
@@ -875,12 +891,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 232184,
+      "num": 249192,
+      "word": "掘金20分逆转湖人",
+      "onboard_time": 1713848841,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229658,
       "num": 229658,
       "word": "杨幂龚俊身高差",
       "onboard_time": 1713843259,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229288,
+      "num": 229288,
+      "word": "斗鱼去年扭亏为盈净利润1.54亿",
+      "onboard_time": 1713849918,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 227115,
+      "num": 227115,
+      "word": "马来西亚直升机相撞致10人死亡",
+      "onboard_time": 1713850158,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221919,
@@ -921,6 +961,14 @@
       "onboard_time": 1713845480,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214579,
+      "num": 214579,
+      "word": "杨幂狐妖从原声换成配音了",
+      "onboard_time": 1713850219,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 213110,
@@ -1043,14 +1091,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 197680,
-      "num": 197680,
-      "word": "掘金20分逆转湖人",
-      "onboard_time": 1713848841,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193057,
       "num": 193057,
       "word": "九江大桥实施临时交通管制",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1713832399,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181596,
+      "num": 181596,
+      "word": "高德导航小团团语音包留言刷屏",
+      "onboard_time": 1713849678,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 177149,
@@ -1219,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163611,
+      "num": 163611,
+      "word": "浓眉和湖人球迷一样无助",
+      "onboard_time": 1713850398,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162872,
       "num": 162872,
       "word": "徐梦洁 人杀青故事不杀青",
@@ -1257,6 +1313,14 @@
       "onboard_time": 1713846019,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154878,
+      "num": 154878,
+      "word": "花少导演组靠秦海璐拉群",
+      "onboard_time": 1713850398,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 152984,
@@ -1740,7 +1804,7 @@
     },
     {
       "raw_hot": 194,
-      "num": 1283112,
+      "num": 1358814,
       "word": "V观京津冀新质铸辉煌",
       "onboard_time": 1713846981,
       "rank": 2,
