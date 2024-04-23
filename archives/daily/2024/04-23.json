@@ -1,6 +1,6 @@
 {
   "startTime": 1713802938860,
-  "endTime": 1713885456635,
+  "endTime": 1713886462614,
   "band_list": [
     {
       "raw_hot": 4471317,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 982052,
+      "num": 982052,
+      "word": "上海50元一个月的房子长啥样",
+      "onboard_time": 1713881658,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 965931,
       "num": 663107,
       "word": "女生遭霸凌为逃避殴打捡玻璃片割喉",
@@ -305,6 +313,14 @@
       "onboard_time": 1713882199,
       "rank": 5,
       "category": "网红"
+    },
+    {
+      "raw_hot": 953423,
+      "num": 953423,
+      "word": "苹果发布会",
+      "onboard_time": 1713884959,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 946368,
@@ -336,14 +352,6 @@
       "word": "多方回应15岁女生遭校园霸凌被迫割喉求生",
       "onboard_time": 1713872299,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 915410,
-      "num": 915410,
-      "word": "上海50元一个月的房子长啥样",
-      "onboard_time": 1713881658,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -417,6 +425,14 @@
       "onboard_time": 1713880218,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 774536,
+      "num": 774536,
+      "word": "14岁被亲妈带去整容15年砸400万",
+      "onboard_time": 1713882259,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 771184,
@@ -499,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 659011,
+      "num": 598911,
+      "word": "王瀚哲恋爱",
+      "onboard_time": 1713884298,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 658740,
       "num": 658740,
       "word": "凤凰传奇 唯粉",
@@ -555,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 625006,
-      "num": 625006,
-      "word": "苹果发布会",
-      "onboard_time": 1713884959,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 612332,
       "num": 612332,
       "word": "于东来称去年计划挣2000万结果赚了1.4亿",
@@ -579,20 +595,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 599009,
+      "num": 599009,
+      "word": "林俊杰为了防黄牛好拼",
+      "onboard_time": 1713882020,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 594098,
       "num": 594098,
       "word": "六味地黄丸补肾还是毁肾",
       "onboard_time": 1713860477,
       "rank": 36,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 592349,
-      "num": 592349,
-      "word": "林俊杰为了防黄牛好拼",
-      "onboard_time": 1713882020,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 587926,
@@ -715,14 +731,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 499762,
-      "num": 499762,
-      "word": "14岁被亲妈带去整容15年砸400万",
-      "onboard_time": 1713882259,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 486387,
       "num": 486387,
       "word": "杨幂狐妖从原声换成配音了",
@@ -785,14 +793,6 @@
       "onboard_time": 1713842958,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 467553,
-      "num": 467553,
-      "word": "王瀚哲恋爱",
-      "onboard_time": 1713884298,
-      "rank": 15,
-      "category": "网红"
     },
     {
       "raw_hot": 463589,
@@ -1355,6 +1355,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 268088,
+      "num": 235259,
+      "word": "周星驰要上综艺了",
+      "onboard_time": 1713884419,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267428,
       "num": 267428,
       "word": "蛋仔派对回应限制老年人注册",
@@ -1683,6 +1691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228739,
+      "num": 228739,
+      "word": "刘涛还留着花少1的导游包",
+      "onboard_time": 1713885199,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227115,
       "num": 227115,
       "word": "马来西亚直升机相撞致10人死亡",
@@ -1780,7 +1796,7 @@
     },
     {
       "raw_hot": 213928,
-      "num": 213928,
+      "num": 235345,
       "word": "谷爱凌在飞机上赶作业",
       "onboard_time": 1713882498,
       "rank": 38,
@@ -1793,14 +1809,6 @@
       "onboard_time": 1713841277,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 212649,
-      "num": 212649,
-      "word": "周星驰要上综艺了",
-      "onboard_time": 1713884419,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 212013,
@@ -1841,6 +1849,14 @@
       "onboard_time": 1713807671,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 209288,
+      "num": 209288,
+      "word": "眼泪女王大结局提前播出",
+      "onboard_time": 1713886338,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 209019,
@@ -1897,6 +1913,14 @@
       "onboard_time": 1713866479,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206505,
+      "num": 206505,
+      "word": "赵露思10分半vlog",
+      "onboard_time": 1713885559,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 206270,
@@ -2321,14 +2345,6 @@
       "onboard_time": 1713843138,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176040,
-      "num": 176040,
-      "word": "刘涛还留着花少1的导游包",
-      "onboard_time": 1713885199,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 175921,
@@ -2771,6 +2787,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 144899,
+      "num": 144899,
+      "word": "陈震称小米SU7背离自己预期",
+      "onboard_time": 1713885739,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 144446,
       "num": 144446,
       "word": "国米意甲夺冠",
@@ -2785,6 +2809,14 @@
       "onboard_time": 1713878358,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144211,
+      "num": 144211,
+      "word": "田馥甄 音乐节",
+      "onboard_time": 1713885918,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 143439,
@@ -2921,6 +2953,14 @@
       "onboard_time": 1713868159,
       "rank": 45,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 134349,
+      "num": 134349,
+      "word": "周雨彤现偶史上最e女主",
+      "onboard_time": 1713886278,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 133679,
@@ -3116,7 +3156,7 @@
     },
     {
       "raw_hot": 112800,
-      "num": 212981,
+      "num": 213587,
       "word": "沉浸式感受太极湾梦幻星空有多浪漫",
       "onboard_time": 1713885019,
       "rank": 29,
@@ -3281,6 +3321,14 @@
       "onboard_time": 1713783138,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72668,
+      "num": 487636,
+      "word": "一件衣服穿出高尔夫高级感",
+      "onboard_time": 1713886338,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 72226,
