@@ -1,0 +1,410 @@
+{
+  "runTime": 1713870947120,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1969790,
+        "num": 1969790,
+        "word": "轻断食吃了11根玉米",
+        "onboard_time": 1713867139,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 873461,
+        "num": 873461,
+        "word": "张翰沧桑了",
+        "onboard_time": 1713866059,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3288,
+        "num": 795321,
+        "word": "V观京津冀新质铸辉煌",
+        "onboard_time": 1713846981,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1047474,
+        "num": 774184,
+        "word": "考上二本院校是不够努力吗",
+        "onboard_time": 1713863118,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 750262,
+        "num": 750262,
+        "word": "王权富贵",
+        "onboard_time": 1713857838,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 740342,
+        "num": 740342,
+        "word": "教育部门回应网红李某某艺考作弊",
+        "onboard_time": 1713864677,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 626974,
+        "num": 626974,
+        "word": "小团团或将面临3至5年刑期",
+        "onboard_time": 1713852139,
+        "rank": 6,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 152513,
+        "num": 520438,
+        "word": "民警为群众找回两万元钱开怀大笑",
+        "onboard_time": 1713865818,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122380,
+        "num": 515907,
+        "word": "高中女生帮老奶奶拿废品",
+        "onboard_time": 1713854777,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 515682,
+        "num": 515682,
+        "word": "刘宇要上恋综了",
+        "onboard_time": 1713868938,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 930400,
+        "num": 513122,
+        "word": "恋综史上最激烈的深吻",
+        "onboard_time": 1713864318,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504860,
+        "num": 504860,
+        "word": "小团团 小囚囚",
+        "onboard_time": 1713866358,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 442352,
+        "num": 442352,
+        "word": "辛芷蕾 抱歉杨洋我听错了",
+        "onboard_time": 1713859459,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372910,
+        "num": 372910,
+        "word": "女教师遭网课爆破猝死女儿决心休学",
+        "onboard_time": 1713851958,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19813,
+        "num": 334156,
+        "word": "75秒看人民海军75年巨变",
+        "onboard_time": 1713870078,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37464,
+        "num": 332875,
+        "word": "赛那独宠中国车主官降2.5万",
+        "onboard_time": 1713867438,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 332460,
+        "num": 332460,
+        "word": "金高银太美了",
+        "onboard_time": 1713862159,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 351071,
+        "num": 327688,
+        "word": "辛芷蕾听过杨洋二十年不参加综艺",
+        "onboard_time": 1713856879,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316059,
+        "num": 316059,
+        "word": "伊能静给秦昊的小作文",
+        "onboard_time": 1713868099,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303297,
+        "num": 303297,
+        "word": "宋雨琦空降",
+        "onboard_time": 1713869178,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 405722,
+        "num": 298247,
+        "word": "家庭条件不好男朋友不准我看演唱会",
+        "onboard_time": 1713868159,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292927,
+        "num": 292927,
+        "word": "一条小团团确认被捕",
+        "onboard_time": 1713828375,
+        "rank": 21,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 301683,
+        "num": 290856,
+        "word": "杨洋约辛芷蕾一起参加综艺",
+        "onboard_time": 1713864077,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287851,
+        "num": 287851,
+        "word": "怀孕是一场身体的大考",
+        "onboard_time": 1713869778,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231590,
+        "num": 231590,
+        "word": "山西吕梁重大火灾调查报告公布",
+        "onboard_time": 1713866657,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279334,
+        "num": 230882,
+        "word": "小倩 撤档",
+        "onboard_time": 1713867799,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221022,
+        "num": 221022,
+        "word": "女生遭霸凌为逃避殴打捡玻璃片割喉",
+        "onboard_time": 1713856639,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213658,
+        "num": 213658,
+        "word": "镇干部阻挠农民种地让交钱被免职",
+        "onboard_time": 1713869778,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208993,
+        "num": 208993,
+        "word": "暴雪捐赠三千万蛆虫拯救鸟类",
+        "onboard_time": 1713869539,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206912,
+        "num": 206912,
+        "word": "夸克崩了",
+        "onboard_time": 1713869898,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174203,
+        "num": 174203,
+        "word": "北电回应艺考生被曝作弊",
+        "onboard_time": 1713856758,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 44800,
+        "num": 167430,
+        "word": "为何老年人总缺席全家出行",
+        "onboard_time": 1713868578,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166889,
+        "num": 166889,
+        "word": "喜欢你我也是",
+        "onboard_time": 1713868578,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165538,
+        "num": 165538,
+        "word": "许凯已关闭保存功能",
+        "onboard_time": 1713870259,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162219,
+        "num": 162219,
+        "word": "工作人员输错号让彩民中800多万",
+        "onboard_time": 1713847821,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159174,
+        "num": 159174,
+        "word": "陈都灵吐妖气镜头",
+        "onboard_time": 1713870617,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157661,
+        "num": 157661,
+        "word": "88VIP五一前批发式购物",
+        "onboard_time": 1713866419,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 156278,
+        "num": 156278,
+        "word": "12306 理财",
+        "onboard_time": 1713867919,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152519,
+        "num": 152519,
+        "word": "为什么好多水果店要养猫",
+        "onboard_time": 1713869118,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141842,
+        "num": 150553,
+        "word": "山西吕梁重大火灾42名公职人员被问责",
+        "onboard_time": 1713868517,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150552,
+        "num": 150552,
+        "word": "我的导忘记了是我的导",
+        "onboard_time": 1713869778,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146692,
+        "num": 146692,
+        "word": "刘诗诗 真正的i人一言不发",
+        "onboard_time": 1713864559,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28184,
+        "num": 142305,
+        "word": "问界新M5首发评测出街",
+        "onboard_time": 1713865397,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138880,
+        "num": 138880,
+        "word": "花少2",
+        "onboard_time": 1713865219,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138591,
+        "num": 138591,
+        "word": "林孝埈领衔出镜世锦赛胜利时刻",
+        "onboard_time": 1713868159,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136118,
+        "num": 136118,
+        "word": "爱奇艺综艺",
+        "onboard_time": 1713866479,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135968,
+        "num": 135968,
+        "word": "30岁的第一年偷偷考了个研",
+        "onboard_time": 1713866479,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121220,
+        "num": 121220,
+        "word": "六味地黄丸补肾还是毁肾",
+        "onboard_time": 1713860477,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 116831,
+        "num": 116831,
+        "word": "床帘 遮光",
+        "onboard_time": 1713850518,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115876,
+        "num": 115876,
+        "word": "宋雨琦新歌FREAK",
+        "onboard_time": 1713863598,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在重庆市考察调研#"
+    }
+  }
+}
