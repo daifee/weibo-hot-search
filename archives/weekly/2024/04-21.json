@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713843276449,
+  "endTime": 1713846097550,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -184,6 +184,14 @@
       "word": "金价涨到700后不敢买也不敢卖",
       "onboard_time": 1713743537,
       "rank": 0,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1578156,
+      "num": 1578156,
+      "word": "金饰价格一夜跌14元每克",
+      "onboard_time": 1713843018,
+      "rank": 43,
       "category": "财经"
     },
     {
@@ -547,6 +555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 979147,
+      "num": 979147,
+      "word": "杨幂杀回仙侠剧了",
+      "onboard_time": 1713843018,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 975435,
       "num": 381554,
       "word": "陈冠希发了Jennie",
@@ -595,8 +611,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 885381,
-      "num": 885381,
+      "raw_hot": 893963,
+      "num": 893963,
+      "word": "中戏表演系帅哥美女",
+      "onboard_time": 1713844158,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 889003,
+      "num": 889003,
       "word": "李闽轩 北电艺考",
       "onboard_time": 1713841578,
       "rank": 16,
@@ -1043,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 660289,
+      "num": 660289,
+      "word": "NewJeans和父母全力支持闵熙珍",
+      "onboard_time": 1713843197,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 659383,
       "num": 659383,
       "word": "马龙第三次夺得世界杯单打冠军",
@@ -1057,6 +1089,14 @@
       "onboard_time": 1713760219,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 643776,
+      "num": 643776,
+      "word": "于正海报审美",
+      "onboard_time": 1713842418,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 641389,
@@ -1081,6 +1121,14 @@
       "onboard_time": 1713750558,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 635933,
+      "num": 635933,
+      "word": "闵熙珍称防弹少年团也是抄袭",
+      "onboard_time": 1713843678,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 627573,
@@ -1467,6 +1515,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 520166,
+      "num": 520166,
+      "word": "斗鱼回应PDD停播161天",
+      "onboard_time": 1713843919,
+      "rank": 13,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 518621,
       "num": 462888,
       "word": "许凯身上痒就去洗澡",
@@ -1609,6 +1665,14 @@
       "onboard_time": 1713672737,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 487823,
+      "num": 487823,
+      "word": "原来应届毕业生身份这么值",
+      "onboard_time": 1713845180,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 486345,
@@ -1891,14 +1955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 440689,
-      "num": 440689,
-      "word": "NewJeans和父母全力支持闵熙珍",
-      "onboard_time": 1713843197,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 439341,
       "num": 439341,
       "word": "胡先煦 倘若我问心有愧呢",
@@ -1939,6 +1995,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 431459,
+      "num": 431459,
+      "word": "泰勒斯威夫特药房",
+      "onboard_time": 1713842958,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 431150,
       "num": 431150,
       "word": "狮子 请不要把手伸进来",
@@ -1961,6 +2025,14 @@
       "onboard_time": 1713654493,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 422484,
+      "num": 422484,
+      "word": "马来西亚直升机相撞致多人伤亡",
+      "onboard_time": 1713845480,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422104,
@@ -2073,14 +2145,6 @@
       "onboard_time": 1713829518,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400789,
-      "num": 400789,
-      "word": "于正海报审美",
-      "onboard_time": 1713842418,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 396254,
@@ -2307,6 +2371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357932,
+      "num": 357932,
+      "word": "都怪李秀满",
+      "onboard_time": 1713845060,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 356168,
       "num": 356168,
       "word": "秦海璐王安宇光明正大的唱因为爱情",
@@ -2499,14 +2571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 329013,
-      "num": 329013,
-      "word": "杨幂杀回仙侠剧了",
-      "onboard_time": 1713843018,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 327409,
       "num": 327409,
       "word": "TF三代 门面",
@@ -2553,6 +2617,14 @@
       "onboard_time": 1713767838,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318617,
+      "num": 318617,
+      "word": "刘德华演唱会官宣",
+      "onboard_time": 1713844278,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 315742,
@@ -2619,8 +2691,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306900,
+      "num": 306900,
+      "word": "牙神经就这么拔出来了",
+      "onboard_time": 1713843138,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 300843,
-      "num": 600011,
+      "num": 640950,
       "word": "大熊猫北辰把特供乒乓球给吃了",
       "onboard_time": 1713813012,
       "rank": 47,
@@ -2971,6 +3051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 260907,
+      "num": 260907,
+      "word": "许凯杨紫卧龙凤雏",
+      "onboard_time": 1713844822,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259717,
       "num": 259717,
       "word": "失业后才懂得拒绝进厨房是一种权力",
@@ -3033,6 +3121,14 @@
       "onboard_time": 1713762020,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 254124,
+      "num": 254124,
+      "word": "王俊凯推荐刘昊然来盒子里的猫",
+      "onboard_time": 1713844879,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 253580,
@@ -3163,14 +3259,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 246488,
-      "num": 246488,
-      "word": "牙神经就这么拔出来了",
-      "onboard_time": 1713843138,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 246302,
       "num": 246302,
       "word": "TF三代出道人数",
@@ -3225,6 +3313,14 @@
       "onboard_time": 1713689178,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243222,
+      "num": 243222,
+      "word": "大梦归离海报番位",
+      "onboard_time": 1713845119,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 242161,
@@ -3307,6 +3403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238714,
+      "num": 238714,
+      "word": "颜心记预告",
+      "onboard_time": 1713844459,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238325,
       "num": 130074,
       "word": "张艺兴算是回到自己舒适区了",
@@ -3371,6 +3475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232720,
+      "num": 259464,
+      "word": "交通银行app崩了",
+      "onboard_time": 1713843138,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 231764,
       "num": 231764,
       "word": "韶关洪水",
@@ -3433,6 +3545,14 @@
       "onboard_time": 1713665177,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229658,
+      "num": 229658,
+      "word": "杨幂龚俊身高差",
+      "onboard_time": 1713843259,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 229532,
@@ -3635,12 +3755,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215001,
+      "num": 215001,
+      "word": "恋与名侦探",
+      "onboard_time": 1713843498,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214818,
       "num": 214818,
       "word": "承欢记豆瓣开分6.4",
       "onboard_time": 1713780558,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214728,
+      "num": 214728,
+      "word": "闵熙珍文件公开",
+      "onboard_time": 1713845480,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 214709,
@@ -3665,6 +3801,14 @@
       "onboard_time": 1713743657,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213793,
+      "num": 213793,
+      "word": "仙台有树大婚必有大刀",
+      "onboard_time": 1713845660,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 213556,
@@ -3809,14 +3953,6 @@
       "onboard_time": 1713796040,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207744,
-      "num": 207744,
-      "word": "泰勒斯威夫特药房",
-      "onboard_time": 1713842958,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 207694,
@@ -4459,14 +4595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187430,
-      "num": 187430,
-      "word": "交通银行app崩了",
-      "onboard_time": 1713843138,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 187321,
       "num": 187321,
       "word": "春色寄情人 倒计时",
@@ -4505,6 +4633,14 @@
       "onboard_time": 1713700938,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186471,
+      "num": 186471,
+      "word": "蒲熠星知道麦家被17次退稿的反应",
+      "onboard_time": 1713843197,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 186038,
@@ -4561,14 +4697,6 @@
       "onboard_time": 1713674719,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184527,
-      "num": 184527,
-      "word": "金饰价格一夜跌14元每克",
-      "onboard_time": 1713843018,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 184389,
@@ -4883,14 +5011,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 173493,
-      "num": 173493,
-      "word": "蒲熠星知道麦家被17次退稿的反应",
-      "onboard_time": 1713843197,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173392,
       "num": 173392,
       "word": "车手巡游",
@@ -4976,6 +5096,14 @@
       "word": "于正回应与杨幂关系不好传闻",
       "onboard_time": 1713778638,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171290,
+      "num": 171290,
+      "word": "HYBE商战",
+      "onboard_time": 1713845419,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -5065,14 +5193,6 @@
       "onboard_time": 1713762321,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 168116,
-      "num": 168116,
-      "word": "杨幂龚俊身高差",
-      "onboard_time": 1713843259,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 167301,
@@ -5233,6 +5353,14 @@
       "onboard_time": 1713776298,
       "rank": 37,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 162406,
+      "num": 162406,
+      "word": "ILLIT达成pak",
+      "onboard_time": 1713846019,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 162372,
@@ -5481,6 +5609,14 @@
       "onboard_time": 1713747378,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154950,
+      "num": 154950,
+      "word": "陈少杰个人财富曾达55亿",
+      "onboard_time": 1713846019,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 154775,
@@ -7163,6 +7299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59158,
+      "num": 986511,
+      "word": "第29个世界读书日",
+      "onboard_time": 1713843138,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58695,
       "num": 58695,
       "word": "能促进代谢的8种食物",
@@ -7539,14 +7683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12240,
-      "num": 899345,
-      "word": "第29个世界读书日",
-      "onboard_time": 1713843138,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 11546,
       "num": 16156,
       "word": "四川村K现场有多嗨",
@@ -7578,6 +7714,9 @@
     },
     {
       "word": "#珍爱地球和谐共生#"
+    },
+    {
+      "word": "#习近平的读书故事#"
     }
   ]
 }

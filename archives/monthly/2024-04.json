@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713843276449,
+  "endTime": 1713846097550,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1665,6 +1665,14 @@
       "onboard_time": 1713351138,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1578156,
+      "num": 1578156,
+      "word": "金饰价格一夜跌14元每克",
+      "onboard_time": 1713843018,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 1566683,
@@ -4955,6 +4963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 979147,
+      "num": 979147,
+      "word": "杨幂杀回仙侠剧了",
+      "onboard_time": 1713843018,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 978956,
       "num": 978956,
       "word": "林高远vs张本智和",
@@ -5755,6 +5771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 893963,
+      "num": 893963,
+      "word": "中戏表演系帅哥美女",
+      "onboard_time": 1713844158,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 893199,
       "num": 893199,
       "word": "学会开车后感觉世界观变了",
@@ -5835,20 +5859,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 889003,
+      "num": 889003,
+      "word": "李闽轩 北电艺考",
+      "onboard_time": 1713841578,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 885702,
       "num": 885702,
       "word": "张艺兴工作室改名",
       "onboard_time": 1713276619,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 885381,
-      "num": 885381,
-      "word": "李闽轩 北电艺考",
-      "onboard_time": 1713841578,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 883852,
@@ -9603,6 +9627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 660289,
+      "num": 660289,
+      "word": "NewJeans和父母全力支持闵熙珍",
+      "onboard_time": 1713843197,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 660244,
       "num": 660244,
       "word": "邓为站姐发了EXO",
@@ -9963,6 +9995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 643776,
+      "num": 643776,
+      "word": "于正海报审美",
+      "onboard_time": 1713842418,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 643264,
       "num": 643264,
       "word": "为什么高铁上跳过了E直接是F座",
@@ -10145,6 +10185,14 @@
       "onboard_time": 1712932998,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 635933,
+      "num": 635933,
+      "word": "闵熙珍称防弹少年团也是抄袭",
+      "onboard_time": 1713843678,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 635493,
@@ -13539,6 +13587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 520166,
+      "num": 520166,
+      "word": "斗鱼回应PDD停播161天",
+      "onboard_time": 1713843919,
+      "rank": 13,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 519562,
       "num": 519562,
       "word": "四月桃花运最旺的星座",
@@ -14713,6 +14769,14 @@
       "onboard_time": 1712912478,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 487823,
+      "num": 487823,
+      "word": "原来应届毕业生身份这么值",
+      "onboard_time": 1713845180,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 487620,
@@ -16851,14 +16915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 440689,
-      "num": 440689,
-      "word": "NewJeans和父母全力支持闵熙珍",
-      "onboard_time": 1713843197,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 440542,
       "num": 440542,
       "word": "刚入职发现同事全要离职",
@@ -17331,6 +17387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 431459,
+      "num": 431459,
+      "word": "泰勒斯威夫特药房",
+      "onboard_time": 1713842958,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 431379,
       "num": 431379,
       "word": "任敏别气李现了",
@@ -17737,6 +17801,14 @@
       "onboard_time": 1713224477,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 422484,
+      "num": 422484,
+      "word": "马来西亚直升机相撞致多人伤亡",
+      "onboard_time": 1713845480,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422137,
@@ -18585,14 +18657,6 @@
       "onboard_time": 1712911100,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400789,
-      "num": 400789,
-      "word": "于正海报审美",
-      "onboard_time": 1713842418,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 400344,
@@ -20803,6 +20867,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 357932,
+      "num": 357932,
+      "word": "都怪李秀满",
+      "onboard_time": 1713845060,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 357892,
       "num": 357892,
       "word": "关晓彤露腿好美",
@@ -22523,14 +22595,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 329013,
-      "num": 329013,
-      "word": "杨幂杀回仙侠剧了",
-      "onboard_time": 1713843018,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 328938,
       "num": 279857,
       "word": "当体制内的好友成了领导",
@@ -23233,6 +23297,14 @@
       "onboard_time": 1713767838,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318617,
+      "num": 318617,
+      "word": "刘德华演唱会官宣",
+      "onboard_time": 1713844278,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 318528,
@@ -24019,6 +24091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306900,
+      "num": 306900,
+      "word": "牙神经就这么拔出来了",
+      "onboard_time": 1713843138,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 306895,
       "num": 306895,
       "word": "老公失恋文学",
@@ -24460,7 +24540,7 @@
     },
     {
       "raw_hot": 300843,
-      "num": 600011,
+      "num": 640950,
       "word": "大熊猫北辰把特供乒乓球给吃了",
       "onboard_time": 1713813012,
       "rank": 47,
@@ -27763,6 +27843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260907,
+      "num": 260907,
+      "word": "许凯杨紫卧龙凤雏",
+      "onboard_time": 1713844822,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260902,
       "num": 260902,
       "word": "天津男篮拉拉队公然砸观众",
@@ -28425,6 +28513,14 @@
       "onboard_time": 1713762020,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 254124,
+      "num": 254124,
+      "word": "王俊凯推荐刘昊然来盒子里的猫",
+      "onboard_time": 1713844879,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 254104,
@@ -29395,14 +29491,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 246488,
-      "num": 246488,
-      "word": "牙神经就这么拔出来了",
-      "onboard_time": 1713843138,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 246470,
       "num": 246470,
       "word": "医院回应40余名被辞退护士系劳务派遣",
@@ -29833,6 +29921,14 @@
       "onboard_time": 1713314839,
       "rank": 19,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 243222,
+      "num": 243222,
+      "word": "大梦归离海报番位",
+      "onboard_time": 1713845119,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 242991,
@@ -30433,6 +30529,14 @@
       "onboard_time": 1712533576,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238714,
+      "num": 238714,
+      "word": "颜心记预告",
+      "onboard_time": 1713844459,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 238682,
@@ -31131,6 +31235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 232720,
+      "num": 259464,
+      "word": "交通银行app崩了",
+      "onboard_time": 1713843138,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 232716,
       "num": 218955,
       "word": "朋友圈点赞这个人数正常嘛",
@@ -31553,6 +31665,14 @@
       "onboard_time": 1713247338,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 229658,
+      "num": 229658,
+      "word": "杨幂龚俊身高差",
+      "onboard_time": 1713843259,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 229625,
@@ -33555,6 +33675,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 215001,
+      "num": 215001,
+      "word": "恋与名侦探",
+      "onboard_time": 1713843498,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214908,
       "num": 214908,
       "word": "云秀行",
@@ -33601,6 +33729,14 @@
       "onboard_time": 1712016559,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 214728,
+      "num": 214728,
+      "word": "闵熙珍文件公开",
+      "onboard_time": 1713845480,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 214709,
@@ -33753,6 +33889,14 @@
       "onboard_time": 1712114842,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 213793,
+      "num": 213793,
+      "word": "仙台有树大婚必有大刀",
+      "onboard_time": 1713845660,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 213759,
@@ -34985,14 +35129,6 @@
       "onboard_time": 1712928318,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 207744,
-      "num": 207744,
-      "word": "泰勒斯威夫特药房",
-      "onboard_time": 1713842958,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 207712,
@@ -40699,14 +40835,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 187430,
-      "num": 187430,
-      "word": "交通银行app崩了",
-      "onboard_time": 1713843138,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 187423,
       "num": 182167,
       "word": "周扬青亚裔混血感",
@@ -41049,6 +41177,14 @@
       "onboard_time": 1713302291,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 186471,
+      "num": 186471,
+      "word": "蒲熠星知道麦家被17次退稿的反应",
+      "onboard_time": 1713843197,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 186443,
@@ -41497,14 +41633,6 @@
       "onboard_time": 1713625038,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184527,
-      "num": 184527,
-      "word": "金饰价格一夜跌14元每克",
-      "onboard_time": 1713843018,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 184491,
@@ -44083,14 +44211,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 173493,
-      "num": 173493,
-      "word": "蒲熠星知道麦家被17次退稿的反应",
-      "onboard_time": 1713843197,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173468,
       "num": 173468,
       "word": "配得感",
@@ -44633,6 +44753,14 @@
       "onboard_time": 1711963221,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 171290,
+      "num": 171290,
+      "word": "HYBE商战",
+      "onboard_time": 1713845419,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 171262,
@@ -45281,14 +45409,6 @@
       "onboard_time": 1713597497,
       "rank": 28,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 168116,
-      "num": 168116,
-      "word": "杨幂龚俊身高差",
-      "onboard_time": 1713843259,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 168112,
@@ -46593,6 +46713,14 @@
       "onboard_time": 1713776298,
       "rank": 37,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 162406,
+      "num": 162406,
+      "word": "ILLIT达成pak",
+      "onboard_time": 1713846019,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 162372,
@@ -48449,6 +48577,14 @@
       "onboard_time": 1713276320,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 154950,
+      "num": 154950,
+      "word": "陈少杰个人财富曾达55亿",
+      "onboard_time": 1713846019,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 154937,
@@ -61851,6 +61987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59158,
+      "num": 986511,
+      "word": "第29个世界读书日",
+      "onboard_time": 1713843138,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59121,
       "num": 59121,
       "word": "被地铁口的花海惊艳到了",
@@ -64587,14 +64731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12240,
-      "num": 899345,
-      "word": "第29个世界读书日",
-      "onboard_time": 1713843138,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 11730,
       "num": 17865,
       "word": "80岁外公学会网购后买了1部电梯",
@@ -64881,6 +65017,9 @@
     },
     {
       "word": "#珍爱地球和谐共生#"
+    },
+    {
+      "word": "#习近平的读书故事#"
     }
   ]
 }
