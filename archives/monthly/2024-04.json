@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713867523870,
+  "endTime": 1713868473777,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -6059,6 +6059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 877062,
+      "num": 877062,
+      "word": "张翰沧桑了",
+      "onboard_time": 1713866059,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 876463,
       "num": 349976,
       "word": "床上有螨虫的3个表现",
@@ -9185,6 +9193,14 @@
       "onboard_time": 1713360259,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 688375,
+      "num": 447184,
+      "word": "轻断食吃了11根玉米",
+      "onboard_time": 1713867139,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 688351,
@@ -12465,14 +12481,6 @@
       "onboard_time": 1712206278,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 559404,
-      "num": 559404,
-      "word": "张翰沧桑了",
-      "onboard_time": 1713866059,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 559397,
@@ -18715,6 +18723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 405853,
+      "num": 405853,
+      "word": "山西吕梁重大火灾调查报告公布",
+      "onboard_time": 1713866657,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405758,
       "num": 282847,
       "word": "为什么很多漂亮女生却没人追",
@@ -20513,6 +20529,14 @@
       "onboard_time": 1713081858,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 370632,
+      "num": 370632,
+      "word": "小团团 小囚囚",
+      "onboard_time": 1713866358,
+      "rank": 24,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 370410,
@@ -23025,14 +23049,6 @@
       "onboard_time": 1713351439,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 327313,
-      "num": 327313,
-      "word": "山西吕梁重大火灾调查报告公布",
-      "onboard_time": 1713866657,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 327222,
@@ -29323,6 +29339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 251676,
+      "num": 251676,
+      "word": "家庭条件不好男朋友不准我看演唱会",
+      "onboard_time": 1713868159,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 251672,
       "num": 251672,
       "word": "董宇辉称一个公司不能每天疯狂搞内斗",
@@ -30443,6 +30467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 242658,
+      "num": 242658,
+      "word": "30岁的第一年偷偷考了个研",
+      "onboard_time": 1713866479,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242629,
       "num": 242629,
       "word": "朝雪录阵容官宣",
@@ -31353,14 +31385,6 @@
       "onboard_time": 1712665400,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235583,
-      "num": 235583,
-      "word": "小团团 小囚囚",
-      "onboard_time": 1713866358,
-      "rank": 24,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 235539,
@@ -33225,14 +33249,6 @@
       "onboard_time": 1712320098,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 222121,
-      "num": 222121,
-      "word": "30岁的第一年偷偷考了个研",
-      "onboard_time": 1713866479,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 222071,
@@ -35611,6 +35627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208360,
+      "num": 208360,
+      "word": "小倩 撤档",
+      "onboard_time": 1713867799,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208354,
       "num": 208354,
       "word": "门童in了",
@@ -36041,6 +36065,14 @@
       "onboard_time": 1713085578,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206512,
+      "num": 206512,
+      "word": "爱奇艺综艺",
+      "onboard_time": 1713866479,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 206435,
@@ -37112,14 +37144,6 @@
       "word": "天赐的声音第五季阵容官宣",
       "onboard_time": 1713240978,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 202596,
-      "num": 202596,
-      "word": "爱奇艺综艺",
-      "onboard_time": 1713866479,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -39841,14 +39865,6 @@
       "onboard_time": 1712466560,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192826,
-      "num": 192826,
-      "word": "轻断食吃了11根玉米",
-      "onboard_time": 1713867139,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 192816,
@@ -44187,6 +44203,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 176817,
+      "num": 176817,
+      "word": "伊能静给秦昊的小作文",
+      "onboard_time": 1713868099,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176685,
       "num": 176685,
       "word": "250名跨境裸聊敲诈电诈嫌犯移交我国",
@@ -46816,6 +46840,14 @@
       "word": "湖人战胜鹈鹕",
       "onboard_time": 1713136575,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165587,
+      "num": 165587,
+      "word": "林孝埈领衔出镜世锦赛胜利时刻",
+      "onboard_time": 1713868159,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -51115,6 +51147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149381,
+      "num": 149381,
+      "word": "世界乒乓球日",
+      "onboard_time": 1713867198,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149336,
       "num": 149336,
       "word": "麦承欢眼里没有光了",
@@ -52033,6 +52073,14 @@
       "onboard_time": 1712567119,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146323,
+      "num": 553025,
+      "word": "民警为群众找回两万元钱开怀大笑",
+      "onboard_time": 1713865818,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146301,
@@ -52955,6 +53003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143133,
+      "num": 143133,
+      "word": "狐妖小红娘女娲展厅",
+      "onboard_time": 1713867499,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143069,
       "num": 143069,
       "word": "HYBE内斗",
@@ -53033,6 +53089,14 @@
       "onboard_time": 1713448038,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 142846,
+      "num": 142846,
+      "word": "12306 理财",
+      "onboard_time": 1713867919,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 142782,
@@ -54969,6 +55033,14 @@
       "onboard_time": 1712031502,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134727,
+      "num": 134727,
+      "word": "林少华建议少看日本文学",
+      "onboard_time": 1713868159,
+      "rank": 45,
+      "category": "读书作家"
     },
     {
       "raw_hot": 134725,
@@ -57547,14 +57619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122418,
-      "num": 122418,
-      "word": "世界乒乓球日",
-      "onboard_time": 1713867198,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 122367,
       "num": 122367,
       "word": "邓超是真的饿了",
@@ -59283,14 +59347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111809,
-      "num": 111809,
-      "word": "狐妖小红娘女娲展厅",
-      "onboard_time": 1713867499,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111725,
       "num": 111725,
       "word": "爱拍照的人手机相册啥样的",
@@ -59915,14 +59971,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 106827,
-      "num": 553025,
-      "word": "民警为群众找回两万元钱开怀大笑",
-      "onboard_time": 1713865818,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106696,
       "num": 106696,
       "word": "胡锡进今天重跌近15000元",
@@ -60369,6 +60417,14 @@
       "onboard_time": 1712904917,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102065,
+      "num": 414873,
+      "word": "88VIP五一前批发式购物",
+      "onboard_time": 1713866419,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 102058,
@@ -64107,14 +64163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40626,
-      "num": 405331,
-      "word": "88VIP五一前批发式购物",
-      "onboard_time": 1713866419,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 40575,
       "num": 1001460,
       "word": "春好正是耕种时",
@@ -64308,7 +64356,7 @@
     },
     {
       "raw_hot": 37233,
-      "num": 398321,
+      "num": 410591,
       "word": "问界新M5首发评测出街",
       "onboard_time": 1713865397,
       "rank": 15,
@@ -65363,6 +65411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20488,
+      "num": 253932,
+      "word": "赛那独宠中国车主官降2.5万",
+      "onboard_time": 1713867438,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 20421,
       "num": 26487,
       "word": "黄奕李冰冰新疆滑雪偶遇",
@@ -65875,14 +65931,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 7723,
-      "num": 119467,
-      "word": "赛那独宠中国车主官降2.5万",
-      "onboard_time": 1713867438,
-      "rank": 47,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 6560,
       "num": 1263961,
       "word": "万千气象看山西",
@@ -65891,7 +65939,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2250,
+      "raw_hot": 2437,
       "num": 1358814,
       "word": "V观京津冀新质铸辉煌",
       "onboard_time": 1713846981,
