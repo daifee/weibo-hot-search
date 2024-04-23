@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713911644424,
+  "endTime": 1713914280831,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -2219,6 +2219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 477651,
+      "num": 477651,
+      "word": "女子反映天然气费用突增老公被公司约谈",
+      "onboard_time": 1713880218,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477650,
       "num": 477650,
       "word": "花儿与少年",
@@ -2395,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452200,
+      "num": 452200,
+      "word": "金价",
+      "onboard_time": 1713912133,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 450970,
       "num": 371064,
       "word": "马龙孙颖莎冠军合照",
@@ -2472,14 +2488,6 @@
       "word": "深圳天气",
       "onboard_time": 1713832340,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440765,
-      "num": 440765,
-      "word": "女子反映天然气费用突增老公被公司约谈",
-      "onboard_time": 1713880218,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -2569,6 +2577,14 @@
       "onboard_time": 1713855139,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422243,
+      "num": 422243,
+      "word": "一条小团团单月礼物收入曾高达500万",
+      "onboard_time": 1713875839,
+      "rank": 34,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 422104,
@@ -2897,6 +2913,14 @@
       "onboard_time": 1713666678,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 375796,
+      "num": 375796,
+      "word": "阿沁喊话陈建宁詹雯婷不要吵了",
+      "onboard_time": 1713889696,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 374775,
@@ -4195,14 +4219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243506,
-      "num": 243506,
-      "word": "阿沁喊话陈建宁詹雯婷不要吵了",
-      "onboard_time": 1713889696,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242658,
       "num": 242658,
       "word": "30岁的第一年偷偷考了个研",
@@ -4449,14 +4465,6 @@
       "onboard_time": 1713772337,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231235,
-      "num": 231235,
-      "word": "一条小团团单月礼物收入曾高达500万",
-      "onboard_time": 1713875839,
-      "rank": 34,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 231215,
@@ -5148,7 +5156,7 @@
     },
     {
       "raw_hot": 205409,
-      "num": 119794,
+      "num": 124066,
       "word": "女子孕期突然耳洞疤痕增生",
       "onboard_time": 1713889756,
       "rank": 28,
@@ -5892,7 +5900,7 @@
     },
     {
       "raw_hot": 187594,
-      "num": 158026,
+      "num": 163422,
       "word": "周雨彤现偶史上最e女主",
       "onboard_time": 1713886278,
       "rank": 44,
@@ -6177,6 +6185,14 @@
       "onboard_time": 1713740115,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 180055,
+      "num": 180055,
+      "word": "张颂文新剧官宣文案没跟上队形",
+      "onboard_time": 1713903431,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 179818,
@@ -7155,6 +7171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155716,
+      "num": 155716,
+      "word": "阿森纳5比0切尔西",
+      "onboard_time": 1713913455,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155542,
       "num": 155542,
       "word": "哈尔滨一九四四有自己的安陵容",
@@ -7433,6 +7457,14 @@
       "onboard_time": 1713878838,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150089,
+      "num": 234087,
+      "word": "孙女回家找不到奶奶崩溃大哭",
+      "onboard_time": 1713893232,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149656,
@@ -8123,6 +8155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133997,
+      "num": 133997,
+      "word": "西湖也是要洗湖的",
+      "onboard_time": 1713888197,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 133924,
       "num": 133924,
       "word": "金秀贤演技炸裂",
@@ -8403,6 +8443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127081,
+      "num": 127081,
+      "word": "孩子刚休学老师就把我微信删了",
+      "onboard_time": 1713907810,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126936,
       "num": 126936,
       "word": "在山东没有放不起来的风筝",
@@ -8457,6 +8505,14 @@
       "onboard_time": 1713799157,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125156,
+      "num": 125156,
+      "word": "当地回应4岁男童被三小孩倒酒精烧死",
+      "onboard_time": 1713892274,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125154,
@@ -8963,14 +9019,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 101330,
-      "num": 101330,
-      "word": "孙女回家找不到奶奶崩溃大哭",
-      "onboard_time": 1713893232,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101289,
       "num": 101289,
       "word": "金道英出道曲空降",
@@ -9043,6 +9091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92647,
+      "num": 92647,
+      "word": "东方红一号发射54周年",
+      "onboard_time": 1713913395,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 90147,
       "num": 94265,
       "word": "每当有人问我为什么不谈恋爱",
@@ -9057,6 +9113,14 @@
       "onboard_time": 1713735130,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89350,
+      "num": 89350,
+      "word": "张云龙上午古偶下午悬疑",
+      "onboard_time": 1713910933,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 89073,
@@ -9075,20 +9139,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 87915,
-      "num": 87915,
-      "word": "张颂文新剧官宣文案没跟上队形",
-      "onboard_time": 1713903431,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 87539,
       "num": 87539,
       "word": "iPhone16和Plus或有15项改进",
       "onboard_time": 1713646090,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 86655,
+      "num": 86655,
+      "word": "红山动物园推草小猩猩疑似抑郁",
+      "onboard_time": 1713910873,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85992,
@@ -9115,20 +9179,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 84770,
-      "num": 47786,
-      "word": "孩子刚休学老师就把我微信删了",
-      "onboard_time": 1713907810,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 84035,
       "num": 70255,
       "word": "辛芷蕾工作室审美",
       "onboard_time": 1713890715,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83088,
+      "num": 83088,
+      "word": "拿了驾照却不会开车了",
+      "onboard_time": 1713909310,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 82742,
+      "num": 82742,
+      "word": "承欢记上门女婿",
+      "onboard_time": 1713913333,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 81674,
@@ -9163,14 +9235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79842,
-      "num": 89264,
-      "word": "西湖也是要洗湖的",
-      "onboard_time": 1713888197,
-      "rank": 47,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 78004,
       "num": 540048,
       "word": "阅读有助于情绪稳定吗",
@@ -9193,6 +9257,14 @@
       "onboard_time": 1713652815,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74479,
+      "num": 74479,
+      "word": "北电规定艺考考生不得透露真实姓名",
+      "onboard_time": 1713913274,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 74083,
@@ -9275,6 +9347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71582,
+      "num": 71582,
+      "word": "苹果计划为iPad推出计算器应用",
+      "onboard_time": 1713913815,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 71215,
       "num": 98999,
       "word": "放个风筝不小心成为了play的一环",
@@ -9323,12 +9403,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 62987,
-      "num": 47509,
-      "word": "当地回应4岁男童被三小孩倒酒精烧死",
-      "onboard_time": 1713892274,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 64694,
+      "num": 64694,
+      "word": "李闽轩称不清楚考场规则被质疑",
+      "onboard_time": 1713914174,
+      "rank": 38,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 62094,
@@ -9443,6 +9523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 54693,
+      "num": 54693,
+      "word": "娜扎粉色短裙",
+      "onboard_time": 1713900671,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 54271,
       "num": 581552,
       "word": "茶百道港交所上市",
@@ -9457,6 +9545,14 @@
       "onboard_time": 1713789559,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52982,
+      "num": 52982,
+      "word": "双子座的分享欲不是喜欢",
+      "onboard_time": 1713901451,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 52833,
@@ -9531,19 +9627,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48815,
+      "num": 48815,
+      "word": "阿森纳vs切尔西",
+      "onboard_time": 1713896052,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48426,
       "num": 48426,
       "word": "曼城1比0切尔西",
       "onboard_time": 1713655994,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 48340,
-      "num": 48340,
-      "word": "阿森纳vs切尔西",
-      "onboard_time": 1713896052,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -9611,6 +9707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 38689,
+      "num": 38689,
+      "word": "特斯拉发布2024年第一季度财报",
+      "onboard_time": 1713914235,
+      "rank": 49,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 38615,
       "num": 38615,
       "word": "确定被爱后小狗连面相都变了",
@@ -9649,14 +9753,6 @@
       "onboard_time": 1713887718,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36141,
-      "num": 36141,
-      "word": "拿了驾照却不会开车了",
-      "onboard_time": 1713909310,
-      "rank": 34,
-      "category": "科学科普"
     },
     {
       "raw_hot": 35568,
@@ -9747,22 +9843,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 29172,
-      "num": 29172,
-      "word": "张云龙上午古偶下午悬疑",
-      "onboard_time": 1713910933,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 28662,
-      "num": 28662,
-      "word": "红山动物园推草小猩猩疑似抑郁",
-      "onboard_time": 1713910873,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28330,
       "num": 32323,
       "word": "工作简庆芬 生活Rebecca",
@@ -9771,28 +9851,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25461,
-      "num": 25461,
-      "word": "娜扎粉色短裙",
-      "onboard_time": 1713900671,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 25393,
       "num": 25393,
       "word": "得闲谨制",
       "onboard_time": 1713821231,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 25266,
-      "num": 25266,
-      "word": "双子座的分享欲不是喜欢",
-      "onboard_time": 1713901451,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 24935,

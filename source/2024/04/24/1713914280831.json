@@ -1,0 +1,410 @@
+{
+  "runTime": 1713914280831,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 909306,
+        "num": 909306,
+        "word": "14岁被亲妈带去整容15年砸400万",
+        "onboard_time": 1713882259,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477651,
+        "num": 477651,
+        "word": "女子反映天然气费用突增老公被公司约谈",
+        "onboard_time": 1713880218,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23133,
+        "num": 464109,
+        "word": "9图了解无障碍阅读",
+        "onboard_time": 1713876437,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452200,
+        "num": 452200,
+        "word": "金价",
+        "onboard_time": 1713912133,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 422243,
+        "num": 422243,
+        "word": "一条小团团单月礼物收入曾高达500万",
+        "onboard_time": 1713875839,
+        "rank": 4,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 375796,
+        "num": 375796,
+        "word": "阿沁喊话陈建宁詹雯婷不要吵了",
+        "onboard_time": 1713889696,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269628,
+        "num": 269628,
+        "word": "蔡磊病情加重舌头下嘴唇已萎缩",
+        "onboard_time": 1713874158,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258202,
+        "num": 258202,
+        "word": "重庆动物园就熊猫扑倒保育员报平安",
+        "onboard_time": 1713887658,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234571,
+        "num": 234571,
+        "word": "周星驰要上综艺了",
+        "onboard_time": 1713884419,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150089,
+        "num": 234087,
+        "word": "孙女回家找不到奶奶崩溃大哭",
+        "onboard_time": 1713893232,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802427,
+        "num": 234073,
+        "word": "五一不调休就会是这种结果",
+        "onboard_time": 1713875178,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292166,
+        "num": 234043,
+        "word": "9岁坠楼男孩生前最后5分钟发呆徘徊",
+        "onboard_time": 1713876498,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233997,
+        "num": 233997,
+        "word": "昆凌迪士尼走出来的公主",
+        "onboard_time": 1713882140,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206366,
+        "num": 206366,
+        "word": "苹果发布会",
+        "onboard_time": 1713884959,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180055,
+        "num": 180055,
+        "word": "张颂文新剧官宣文案没跟上队形",
+        "onboard_time": 1713903431,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163422,
+        "num": 163422,
+        "word": "周雨彤现偶史上最e女主",
+        "onboard_time": 1713886278,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155716,
+        "num": 155716,
+        "word": "阿森纳5比0切尔西",
+        "onboard_time": 1713913455,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133997,
+        "num": 133997,
+        "word": "西湖也是要洗湖的",
+        "onboard_time": 1713888197,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 133197,
+        "num": 133197,
+        "word": "眼泪女王大结局提前播出",
+        "onboard_time": 1713886338,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117816,
+        "num": 127303,
+        "word": "辛芷蕾 抱歉杨洋我听错了",
+        "onboard_time": 1713859459,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167062,
+        "num": 127258,
+        "word": "恋综史上最激烈的深吻",
+        "onboard_time": 1713864318,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127081,
+        "num": 127081,
+        "word": "孩子刚休学老师就把我微信删了",
+        "onboard_time": 1713907810,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125156,
+        "num": 125156,
+        "word": "当地回应4岁男童被三小孩倒酒精烧死",
+        "onboard_time": 1713892274,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124066,
+        "num": 124066,
+        "word": "女子孕期突然耳洞疤痕增生",
+        "onboard_time": 1713889756,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116039,
+        "num": 116039,
+        "word": "陈震称小米SU7背离自己预期",
+        "onboard_time": 1713885739,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 94860,
+        "num": 94860,
+        "word": "轻断食吃了11根玉米",
+        "onboard_time": 1713867139,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92647,
+        "num": 92647,
+        "word": "东方红一号发射54周年",
+        "onboard_time": 1713913395,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91571,
+        "num": 91571,
+        "word": "乳腺癌来临的4个预兆",
+        "onboard_time": 1713878540,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89350,
+        "num": 89350,
+        "word": "张云龙上午古偶下午悬疑",
+        "onboard_time": 1713910933,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86655,
+        "num": 86655,
+        "word": "红山动物园推草小猩猩疑似抑郁",
+        "onboard_time": 1713910873,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105839,
+        "num": 85860,
+        "word": "田馥甄 音乐节",
+        "onboard_time": 1713885918,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83088,
+        "num": 83088,
+        "word": "拿了驾照却不会开车了",
+        "onboard_time": 1713909310,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 82742,
+        "num": 82742,
+        "word": "承欢记上门女婿",
+        "onboard_time": 1713913333,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81694,
+        "num": 81694,
+        "word": "黄景瑜体格怎么这么大",
+        "onboard_time": 1713882739,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74479,
+        "num": 74479,
+        "word": "北电规定艺考考生不得透露真实姓名",
+        "onboard_time": 1713913274,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 71582,
+        "num": 71582,
+        "word": "苹果计划为iPad推出计算器应用",
+        "onboard_time": 1713913815,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 71309,
+        "num": 71309,
+        "word": "住酒店睡过头被扣了押金",
+        "onboard_time": 1713891254,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66183,
+        "num": 66183,
+        "word": "林俊杰为了防黄牛好拼",
+        "onboard_time": 1713882020,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64694,
+        "num": 64694,
+        "word": "李闽轩称不清楚考场规则被质疑",
+        "onboard_time": 1713914174,
+        "rank": 38,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 60102,
+        "num": 60102,
+        "word": "泰版步步惊心",
+        "onboard_time": 1713880218,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54693,
+        "num": 54693,
+        "word": "娜扎粉色短裙",
+        "onboard_time": 1713900671,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52982,
+        "num": 52982,
+        "word": "双子座的分享欲不是喜欢",
+        "onboard_time": 1713901451,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51899,
+        "num": 51899,
+        "word": "张翰沧桑了",
+        "onboard_time": 1713866059,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48967,
+        "num": 48967,
+        "word": "王瀚哲恋爱",
+        "onboard_time": 1713884298,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 48815,
+        "num": 48815,
+        "word": "阿森纳vs切尔西",
+        "onboard_time": 1713896052,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43375,
+        "num": 43375,
+        "word": "刘涛还留着花少1的导游包",
+        "onboard_time": 1713885199,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41580,
+        "num": 41580,
+        "word": "周琦被驱逐",
+        "onboard_time": 1713877819,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40961,
+        "num": 40961,
+        "word": "陈震直播回应小米SU7争议",
+        "onboard_time": 1713871397,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 39937,
+        "num": 39937,
+        "word": "周深演唱会抢票",
+        "onboard_time": 1713874278,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38689,
+        "num": 38689,
+        "word": "特斯拉发布2024年第一季度财报",
+        "onboard_time": 1713914235,
+        "rank": 49,
+        "category": "财经,汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在重庆市考察调研#"
+    }
+  }
+}

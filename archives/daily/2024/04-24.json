@@ -1,6 +1,6 @@
 {
   "startTime": 1713889329936,
-  "endTime": 1713911644424,
+  "endTime": 1713914280831,
   "band_list": [
     {
       "raw_hot": 1267413,
@@ -51,12 +51,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 477651,
+      "num": 477651,
+      "word": "女子反映天然气费用突增老公被公司约谈",
+      "onboard_time": 1713880218,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452200,
+      "num": 452200,
+      "word": "金价",
+      "onboard_time": 1713912133,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 429704,
       "num": 429704,
       "word": "眼泪女王大结局提前播出",
       "onboard_time": 1713886338,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 422243,
+      "num": 422243,
+      "word": "一条小团团单月礼物收入曾高达500万",
+      "onboard_time": 1713875839,
+      "rank": 49,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 418397,
@@ -81,6 +105,14 @@
       "onboard_time": 1713885918,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 375796,
+      "num": 375796,
+      "word": "阿沁喊话陈建宁詹雯婷不要吵了",
+      "onboard_time": 1713889696,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 374085,
@@ -139,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269628,
+      "num": 269628,
+      "word": "蔡磊病情加重舌头下嘴唇已萎缩",
+      "onboard_time": 1713874158,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269070,
       "num": 269070,
       "word": "网红艺考生李闽轩或被取消高考资格",
@@ -147,28 +187,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 247952,
-      "num": 247952,
-      "word": "女子反映天然气费用突增老公被公司约谈",
-      "onboard_time": 1713880218,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247879,
       "num": 247879,
       "word": "轻断食吃了11根玉米",
       "onboard_time": 1713867139,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 243506,
-      "num": 243506,
-      "word": "阿沁喊话陈建宁詹雯婷不要吵了",
-      "onboard_time": 1713889696,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 214995,
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 205409,
-      "num": 119794,
+      "num": 124066,
       "word": "女子孕期突然耳洞疤痕增生",
       "onboard_time": 1713889756,
       "rank": 28,
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 187594,
-      "num": 158026,
+      "num": 163422,
       "word": "周雨彤现偶史上最e女主",
       "onboard_time": 1713886278,
       "rank": 25,
@@ -211,12 +235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184571,
-      "num": 184571,
-      "word": "一条小团团单月礼物收入曾高达500万",
-      "onboard_time": 1713875839,
+      "raw_hot": 180055,
+      "num": 180055,
+      "word": "张颂文新剧官宣文案没跟上队形",
+      "onboard_time": 1713903431,
       "rank": 49,
-      "category": "游戏,网红"
+      "category": "剧集"
     },
     {
       "raw_hot": 173941,
@@ -251,6 +275,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155716,
+      "num": 155716,
+      "word": "阿森纳5比0切尔西",
+      "onboard_time": 1713913455,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150089,
+      "num": 234087,
+      "word": "孙女回家找不到奶奶崩溃大哭",
+      "onboard_time": 1713893232,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135895,
       "num": 95525,
       "word": "辛芷蕾 差点打败周杰伦",
@@ -267,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133997,
+      "num": 133997,
+      "word": "西湖也是要洗湖的",
+      "onboard_time": 1713888197,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 131029,
       "num": 92481,
       "word": "住酒店睡过头被扣了押金",
@@ -275,12 +323,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 127923,
-      "num": 127923,
-      "word": "蔡磊病情加重舌头下嘴唇已萎缩",
-      "onboard_time": 1713874158,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 127081,
+      "num": 127081,
+      "word": "孩子刚休学老师就把我微信删了",
+      "onboard_time": 1713907810,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 125827,
@@ -289,6 +337,14 @@
       "onboard_time": 1713866059,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125156,
+      "num": 125156,
+      "word": "当地回应4岁男童被三小孩倒酒精烧死",
+      "onboard_time": 1713892274,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122233,
@@ -331,14 +387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 101330,
-      "num": 101330,
-      "word": "孙女回家找不到奶奶崩溃大哭",
-      "onboard_time": 1713893232,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97549,
       "num": 322816,
       "word": "上海玉佛寺的猫猫都住上别墅了",
@@ -353,6 +401,14 @@
       "onboard_time": 1713871397,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 92647,
+      "num": 92647,
+      "word": "东方红一号发射54周年",
+      "onboard_time": 1713913395,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 91722,
@@ -379,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89350,
+      "num": 89350,
+      "word": "张云龙上午古偶下午悬疑",
+      "onboard_time": 1713910933,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89270,
       "num": 89270,
       "word": "杨幂说秦昊在片场经常提伊能静",
@@ -387,20 +451,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87915,
-      "num": 87915,
-      "word": "张颂文新剧官宣文案没跟上队形",
-      "onboard_time": 1713903431,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 84770,
-      "num": 47786,
-      "word": "孩子刚休学老师就把我微信删了",
-      "onboard_time": 1713907810,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 86655,
+      "num": 86655,
+      "word": "红山动物园推草小猩猩疑似抑郁",
+      "onboard_time": 1713910873,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84035,
@@ -409,6 +465,22 @@
       "onboard_time": 1713890715,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83088,
+      "num": 83088,
+      "word": "拿了驾照却不会开车了",
+      "onboard_time": 1713909310,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 82742,
+      "num": 82742,
+      "word": "承欢记上门女婿",
+      "onboard_time": 1713913333,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 81115,
@@ -427,12 +499,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 79842,
-      "num": 89264,
-      "word": "西湖也是要洗湖的",
-      "onboard_time": 1713888197,
-      "rank": 47,
-      "category": "旅游"
+      "raw_hot": 74479,
+      "num": 74479,
+      "word": "北电规定艺考考生不得透露真实姓名",
+      "onboard_time": 1713913274,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 71582,
+      "num": 71582,
+      "word": "苹果计划为iPad推出计算器应用",
+      "onboard_time": 1713913815,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 67967,
@@ -443,19 +523,19 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 64694,
+      "num": 64694,
+      "word": "李闽轩称不清楚考场规则被质疑",
+      "onboard_time": 1713914174,
+      "rank": 38,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 64001,
       "num": 89257,
       "word": "专家称95后将成购车主力军",
       "onboard_time": 1713883099,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62987,
-      "num": 47509,
-      "word": "当地回应4岁男童被三小孩倒酒精烧死",
-      "onboard_time": 1713892274,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -467,8 +547,24 @@
       "category": "电影"
     },
     {
-      "raw_hot": 48340,
-      "num": 48340,
+      "raw_hot": 54693,
+      "num": 54693,
+      "word": "娜扎粉色短裙",
+      "onboard_time": 1713900671,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 52982,
+      "num": 52982,
+      "word": "双子座的分享欲不是喜欢",
+      "onboard_time": 1713901451,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 48815,
+      "num": 48815,
       "word": "阿森纳vs切尔西",
       "onboard_time": 1713896052,
       "rank": 48,
@@ -483,20 +579,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 38689,
+      "num": 38689,
+      "word": "特斯拉发布2024年第一季度财报",
+      "onboard_time": 1713914235,
+      "rank": 49,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 36790,
       "num": 118979,
       "word": "潘展乐100米自冠军",
       "onboard_time": 1713887718,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36141,
-      "num": 36141,
-      "word": "拿了驾照却不会开车了",
-      "onboard_time": 1713909310,
-      "rank": 34,
-      "category": "科学科普"
     },
     {
       "raw_hot": 31114,
@@ -521,38 +617,6 @@
       "onboard_time": 1713905050,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29172,
-      "num": 29172,
-      "word": "张云龙上午古偶下午悬疑",
-      "onboard_time": 1713910933,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 28662,
-      "num": 28662,
-      "word": "红山动物园推草小猩猩疑似抑郁",
-      "onboard_time": 1713910873,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25461,
-      "num": 25461,
-      "word": "娜扎粉色短裙",
-      "onboard_time": 1713900671,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 25266,
-      "num": 25266,
-      "word": "双子座的分享欲不是喜欢",
-      "onboard_time": 1713901451,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 24935,
