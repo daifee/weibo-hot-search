@@ -1,6 +1,6 @@
 {
   "startTime": 1713889329936,
-  "endTime": 1713890234638,
+  "endTime": 1713892619148,
   "band_list": [
     {
       "raw_hot": 1267413,
@@ -131,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 289086,
+      "num": 158275,
+      "word": "重庆动物园就熊猫扑倒保育员报平安",
+      "onboard_time": 1713887658,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269070,
       "num": 269070,
       "word": "网红艺考生李闽轩或被取消高考资格",
@@ -147,6 +155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243506,
+      "num": 243506,
+      "word": "阿沁喊话陈建宁詹雯婷不要吵了",
+      "onboard_time": 1713889696,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214995,
       "num": 214995,
       "word": "泰版步步惊心",
@@ -161,6 +177,14 @@
       "onboard_time": 1713885739,
       "rank": 22,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 205409,
+      "num": 119794,
+      "word": "女子孕期突然耳洞疤痕增生",
+      "onboard_time": 1713889756,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199148,
@@ -219,14 +243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158275,
-      "num": 158275,
-      "word": "重庆动物园就熊猫扑倒保育员报平安",
-      "onboard_time": 1713887658,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135895,
       "num": 95525,
       "word": "辛芷蕾 差点打败周杰伦",
@@ -241,6 +257,14 @@
       "onboard_time": 1713877819,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131029,
+      "num": 92481,
+      "word": "住酒店睡过头被扣了押金",
+      "onboard_time": 1713891254,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 125827,
@@ -283,28 +307,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 111483,
-      "num": 87523,
-      "word": "阿沁喊话陈建宁詹雯婷不要吵了",
-      "onboard_time": 1713889696,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107722,
       "num": 96273,
       "word": "看看你的月亮",
       "onboard_time": 1713888617,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 104016,
-      "num": 119794,
-      "word": "女子孕期突然耳洞疤痕增生",
-      "onboard_time": 1713889756,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100907,
@@ -363,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84035,
+      "num": 70255,
+      "word": "辛芷蕾工作室审美",
+      "onboard_time": 1713890715,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81115,
       "num": 89516,
       "word": "英雄联盟服务器",
@@ -408,6 +424,30 @@
       "word": "专家称95后将成购车主力军",
       "onboard_time": 1713883099,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60244,
+      "num": 60244,
+      "word": "于适说小时候流行的都会",
+      "onboard_time": 1713891016,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 41089,
+      "num": 46448,
+      "word": "杨幂车内侧颜",
+      "onboard_time": 1713892274,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 37585,
+      "num": 46434,
+      "word": "当地回应4岁男童被三小孩倒酒精烧死",
+      "onboard_time": 1713892274,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
