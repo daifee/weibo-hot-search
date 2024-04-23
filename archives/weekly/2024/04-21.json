@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713864864197,
+  "endTime": 1713867523870,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1888512,
+      "num": 1888512,
+      "word": "考上二本院校是不够努力吗",
+      "onboard_time": 1713863118,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1885663,
       "num": 672517,
       "word": "辛芷蕾 抱歉杨洋我听错了",
@@ -233,6 +241,14 @@
       "onboard_time": 1713743537,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1543044,
+      "num": 1543044,
+      "word": "教育部门回应网红李某某艺考作弊",
+      "onboard_time": 1713864677,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1537487,
@@ -297,6 +313,14 @@
       "onboard_time": 1713826994,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1390778,
+      "num": 466174,
+      "word": "恋综史上最激烈的深吻",
+      "onboard_time": 1713864318,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1356528,
@@ -425,14 +449,6 @@
       "onboard_time": 1713758659,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1178287,
-      "num": 1178287,
-      "word": "考上二本院校是不够努力吗",
-      "onboard_time": 1713863118,
-      "rank": 6,
-      "category": "互联网"
     },
     {
       "raw_hot": 1149563,
@@ -1555,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 559404,
+      "num": 559404,
+      "word": "张翰沧桑了",
+      "onboard_time": 1713866059,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 556260,
       "num": 556260,
       "word": "为什么说我国养老金不可能出现问题",
@@ -2201,14 +2225,6 @@
       "onboard_time": 1713707300,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 439807,
-      "num": 439807,
-      "word": "恋综史上最激烈的深吻",
-      "onboard_time": 1713864318,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 439341,
@@ -2873,6 +2889,14 @@
       "onboard_time": 1713839478,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327313,
+      "num": 327313,
+      "word": "山西吕梁重大火灾调查报告公布",
+      "onboard_time": 1713866657,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326492,
@@ -3843,6 +3867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239632,
+      "num": 239632,
+      "word": "花少2",
+      "onboard_time": 1713865219,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239242,
       "num": 239242,
       "word": "仙台有树预约",
@@ -3913,6 +3945,14 @@
       "onboard_time": 1713787219,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235583,
+      "num": 235583,
+      "word": "小团团 小囚囚",
+      "onboard_time": 1713866358,
+      "rank": 24,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 235539,
@@ -4099,14 +4139,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 227701,
-      "num": 227701,
-      "word": "教育部门回应网红李某某艺考作弊",
-      "onboard_time": 1713864677,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227115,
       "num": 227115,
       "word": "马来西亚直升机相撞致10人死亡",
@@ -4185,6 +4217,14 @@
       "onboard_time": 1713858557,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 222121,
+      "num": 222121,
+      "word": "30岁的第一年偷偷考了个研",
+      "onboard_time": 1713866479,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 221919,
@@ -4409,6 +4449,14 @@
       "onboard_time": 1713751037,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210230,
+      "num": 210230,
+      "word": "刘诗诗 真正的i人一言不发",
+      "onboard_time": 1713864559,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 209849,
@@ -4721,6 +4769,14 @@
       "onboard_time": 1713699858,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 202596,
+      "num": 202596,
+      "word": "爱奇艺综艺",
+      "onboard_time": 1713866479,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 202368,
@@ -5065,6 +5121,14 @@
       "onboard_time": 1713703159,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192826,
+      "num": 192826,
+      "word": "轻断食吃了11根玉米",
+      "onboard_time": 1713867139,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 192571,
@@ -5779,6 +5843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172525,
+      "num": 172525,
+      "word": "陈晓成毅14年前合作过",
+      "onboard_time": 1713864559,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172403,
       "num": 172403,
       "word": "徐明浩新型citywalk",
@@ -6107,14 +6179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163993,
-      "num": 163993,
-      "word": "陈晓成毅14年前合作过",
-      "onboard_time": 1713864559,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163813,
       "num": 163813,
       "word": "时代少年团演唱会",
@@ -6433,14 +6497,6 @@
       "onboard_time": 1713846019,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154920,
-      "num": 154920,
-      "word": "刘诗诗 真正的i人一言不发",
-      "onboard_time": 1713864559,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 154775,
@@ -6787,6 +6843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146268,
+      "num": 146268,
+      "word": "林高远回应决赛被逆转",
+      "onboard_time": 1713866718,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145673,
       "num": 122228,
       "word": "郑恺生日party好热闹",
@@ -6953,6 +7017,14 @@
       "onboard_time": 1713785419,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141778,
+      "num": 141778,
+      "word": "薛之谦太原",
+      "onboard_time": 1713867379,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 141531,
@@ -7563,6 +7635,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122418,
+      "num": 122418,
+      "word": "世界乒乓球日",
+      "onboard_time": 1713867198,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121991,
+      "num": 121991,
+      "word": "张云龙成毅在狐妖宇宙里是父子",
+      "onboard_time": 1713865997,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121934,
       "num": 121934,
       "word": "背着善宰跑第五集",
@@ -7731,6 +7819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111809,
+      "num": 111809,
+      "word": "狐妖小红娘女娲展厅",
+      "onboard_time": 1713867499,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111725,
       "num": 111725,
       "word": "爱拍照的人手机相册啥样的",
@@ -7841,6 +7937,14 @@
       "onboard_time": 1713698119,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106827,
+      "num": 553025,
+      "word": "民警为群众找回两万元钱开怀大笑",
+      "onboard_time": 1713865818,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105808,
@@ -8316,7 +8420,7 @@
     },
     {
       "raw_hot": 52833,
-      "num": 227476,
+      "num": 236495,
       "word": "余承东称问界新M5是陆地小坦克",
       "onboard_time": 1713863537,
       "rank": 40,
@@ -8435,12 +8539,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40626,
+      "num": 405331,
+      "word": "88VIP五一前批发式购物",
+      "onboard_time": 1713866419,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 38615,
       "num": 38615,
       "word": "确定被爱后小狗连面相都变了",
       "onboard_time": 1713643991,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 37233,
+      "num": 398321,
+      "word": "问界新M5首发评测出街",
+      "onboard_time": 1713865397,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 36903,
@@ -8651,6 +8771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 7723,
+      "num": 119467,
+      "word": "赛那独宠中国车主官降2.5万",
+      "onboard_time": 1713867438,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 6560,
       "num": 1263961,
       "word": "万千气象看山西",
@@ -8659,7 +8787,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194,
+      "raw_hot": 2250,
       "num": 1358814,
       "word": "V观京津冀新质铸辉煌",
       "onboard_time": 1713846981,
@@ -8685,6 +8813,9 @@
     },
     {
       "word": "#习近平的读书故事#"
+    },
+    {
+      "word": "#习近平深入社区了解基层减负情况#"
     }
   ]
 }
