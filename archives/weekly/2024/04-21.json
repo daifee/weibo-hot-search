@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713904486269,
+  "endTime": 1713906968790,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -9515,6 +9515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48340,
+      "num": 48340,
+      "word": "阿森纳vs切尔西",
+      "onboard_time": 1713896052,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47215,
       "num": 47215,
       "word": "普拉提是减肥纠错本吧",
@@ -9593,14 +9601,6 @@
       "onboard_time": 1713643991,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 38002,
-      "num": 38002,
-      "word": "阿森纳vs切尔西",
-      "onboard_time": 1713896052,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 37464,
@@ -9688,6 +9688,14 @@
       "word": "赵今麦首部刑侦悬疑剧女主",
       "onboard_time": 1713894791,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30987,
+      "num": 30987,
+      "word": "张颂文新剧官宣文案没跟上队形",
+      "onboard_time": 1713903431,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -9867,12 +9875,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 16314,
-      "num": 16314,
-      "word": "张颂文新剧官宣文案没跟上队形",
-      "onboard_time": 1713903431,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 15864,
+      "num": 15864,
+      "word": "开鲁官方通报干部下田拦春耕",
+      "onboard_time": 1713905050,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14892,

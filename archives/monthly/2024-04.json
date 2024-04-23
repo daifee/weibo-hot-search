@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713904486269,
+  "endTime": 1713906968790,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -64747,6 +64747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48340,
+      "num": 48340,
+      "word": "阿森纳vs切尔西",
+      "onboard_time": 1713896052,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48137,
       "num": 340124,
       "word": "豪华SUV为啥都标配四驱",
@@ -65283,14 +65291,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 38002,
-      "num": 38002,
-      "word": "阿森纳vs切尔西",
-      "onboard_time": 1713896052,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 37860,
       "num": 1088068,
       "word": "在高原感受别样的春日浪漫",
@@ -65689,6 +65689,14 @@
       "onboard_time": 1712686153,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 30987,
+      "num": 30987,
+      "word": "张颂文新剧官宣文案没跟上队形",
+      "onboard_time": 1713903431,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 30976,
@@ -66707,20 +66715,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 16314,
-      "num": 16314,
-      "word": "张颂文新剧官宣文案没跟上队形",
-      "onboard_time": 1713903431,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 16244,
       "num": 23531,
       "word": "好像明白为啥鸟类多是侧面照了",
       "onboard_time": 1712429891,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15864,
+      "num": 15864,
+      "word": "开鲁官方通报干部下田拦春耕",
+      "onboard_time": 1713905050,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15726,
