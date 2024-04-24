@@ -1,10 +1,18 @@
 {
   "startTime": 1713889329936,
-  "endTime": 1713940764627,
+  "endTime": 1713943009613,
   "band_list": [
     {
+      "raw_hot": 1655451,
+      "num": 1655451,
+      "word": "耙耙柑是讨好型水果吧",
+      "onboard_time": 1713938837,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1516812,
-      "num": 431528,
+      "num": 451068,
       "word": "贾斯汀比伯为好友遭遇抢劫中枪身亡发声",
       "onboard_time": 1713937518,
       "rank": 10,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1146776,
-      "num": 427748,
+      "num": 440834,
       "word": "向佐把向太送的包卖了",
       "onboard_time": 1713934280,
       "rank": 10,
@@ -131,14 +139,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 791242,
-      "num": 791242,
-      "word": "耙耙柑是讨好型水果吧",
-      "onboard_time": 1713938837,
-      "rank": 7,
-      "category": "美食"
-    },
-    {
       "raw_hot": 770970,
       "num": 770970,
       "word": "南京一市民称骑自行车上路因无牌被罚50元",
@@ -179,20 +179,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 688636,
+      "num": 433297,
+      "word": "金卡戴珊疑因霉霉新歌掉粉130万",
+      "onboard_time": 1713938597,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 685600,
+      "num": 685600,
+      "word": "LPL赛制改革",
+      "onboard_time": 1713941478,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 671751,
       "num": 671751,
       "word": "三年幼儿园 一生战友情",
       "onboard_time": 1713926958,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 651020,
-      "num": 420344,
-      "word": "金卡戴珊疑因霉霉新歌掉粉130万",
-      "onboard_time": 1713938597,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 646492,
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 590199,
+      "num": 590199,
+      "word": "沈阳铁西",
+      "onboard_time": 1713940696,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 586039,
       "num": 586039,
       "word": "俄国防部副部长伊万诺夫被拘留",
@@ -259,8 +275,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 565445,
-      "num": 565445,
+      "raw_hot": 572711,
+      "num": 572711,
       "word": "一诺登上央视",
       "onboard_time": 1713937578,
       "rank": 5,
@@ -315,6 +331,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 496886,
+      "num": 496886,
+      "word": "沈阳发生持刀伤人嫌犯被抓",
+      "onboard_time": 1713942198,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495169,
       "num": 495169,
       "word": "爱奇艺片单",
@@ -336,6 +360,14 @@
       "word": "长沙警方通报14岁女生被同学殴打",
       "onboard_time": 1713915617,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470324,
+      "num": 470324,
+      "word": "7岁男孩从宠物店偷狗带到17楼扔下",
+      "onboard_time": 1713941298,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -531,6 +563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 349777,
+      "num": 349777,
+      "word": "狗头萝莉公开煎饼摊收支结余",
+      "onboard_time": 1713942077,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 331302,
       "num": 485431,
       "word": "为年轻人开的15元旅店17年没涨价",
@@ -619,6 +659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 303659,
+      "num": 434551,
+      "word": "一个民族总要有一群看天的人",
+      "onboard_time": 1713939617,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302289,
       "num": 302289,
       "word": "神十七乘组4月30日回家",
@@ -672,6 +720,14 @@
       "word": "青春有你国际版",
       "onboard_time": 1713930737,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 293339,
+      "num": 293339,
+      "word": "刘涛想认赵昭仪当闺女",
+      "onboard_time": 1713940818,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -771,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261248,
+      "num": 261248,
+      "word": "宋轶漫画身材",
+      "onboard_time": 1713942558,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 247879,
       "num": 247879,
       "word": "轻断食吃了11根玉米",
@@ -859,14 +923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216780,
-      "num": 434551,
-      "word": "一个民族总要有一群看天的人",
-      "onboard_time": 1713939617,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214995,
       "num": 214995,
       "word": "泰版步步惊心",
@@ -931,12 +987,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204379,
+      "num": 204379,
+      "word": "NASA局长抹黑中国登月惹笑话",
+      "onboard_time": 1713941057,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202440,
       "num": 202440,
       "word": "特斯拉发布2024年第一季度财报",
       "onboard_time": 1713914235,
       "rank": 49,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 201635,
+      "num": 201635,
+      "word": "华晨宇香港演唱会官宣",
+      "onboard_time": 1713942077,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 201203,
@@ -1131,6 +1203,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 182597,
+      "num": 182597,
+      "word": "illit编舞疑似抄袭newjeans",
+      "onboard_time": 1713940758,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182304,
+      "num": 182304,
+      "word": "LPL",
+      "onboard_time": 1713941778,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180055,
       "num": 180055,
       "word": "张颂文新剧官宣文案没跟上队形",
@@ -1283,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155517,
+      "num": 155517,
+      "word": "我的阿勒泰预告片",
+      "onboard_time": 1713942558,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153278,
       "num": 153278,
       "word": "韩国人期待5月的原因",
@@ -1337,6 +1433,14 @@
       "onboard_time": 1713920478,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149880,
+      "num": 149880,
+      "word": "大麦网回应凤凰传奇演唱会买到柱子票",
+      "onboard_time": 1713940637,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 148967,
@@ -1427,6 +1531,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 139467,
+      "num": 139467,
+      "word": "记得你刚上班的时候很漂亮",
+      "onboard_time": 1713941778,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139182,
       "num": 139182,
       "word": "许嵩演唱会",
@@ -1457,14 +1569,6 @@
       "onboard_time": 1713925156,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137643,
-      "num": 137643,
-      "word": "沈阳铁西",
-      "onboard_time": 1713940696,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137058,
@@ -1651,6 +1755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 120395,
+      "num": 120395,
+      "word": "女校长诈骗学生家长5000万后自杀身亡",
+      "onboard_time": 1713942798,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120318,
       "num": 120318,
       "word": "杜兰特18分",
@@ -1723,6 +1835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112375,
+      "num": 112375,
+      "word": "水果吃得太多真会加速衰老吗",
+      "onboard_time": 1713942018,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111006,
       "num": 111006,
       "word": "优酷发布白夜剧场片单",
@@ -1771,6 +1891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107465,
+      "num": 107465,
+      "word": "大侦探一直在用自己的方式发声",
+      "onboard_time": 1713942977,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104611,
       "num": 104611,
       "word": "欧文下半场的神",
@@ -1809,14 +1937,6 @@
       "onboard_time": 1713910873,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98514,
-      "num": 98514,
-      "word": "大麦网回应凤凰传奇演唱会买到柱子票",
-      "onboard_time": 1713940637,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 97549,
@@ -2041,6 +2161,14 @@
       "onboard_time": 1713876918,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21997,
+      "num": 736076,
+      "word": "文化中国行",
+      "onboard_time": 1713927617,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19747,

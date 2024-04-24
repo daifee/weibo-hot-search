@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713940764627,
+  "endTime": 1713943009613,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -251,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1655451,
+      "num": 1655451,
+      "word": "耙耙柑是讨好型水果吧",
+      "onboard_time": 1713938837,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1630106,
       "num": 1630106,
       "word": "台湾花莲海域5.3级地震",
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 1516812,
-      "num": 431528,
+      "num": 451068,
       "word": "贾斯汀比伯为好友遭遇抢劫中枪身亡发声",
       "onboard_time": 1713937518,
       "rank": 10,
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 1146776,
-      "num": 427748,
+      "num": 440834,
       "word": "向佐把向太送的包卖了",
       "onboard_time": 1713934280,
       "rank": 10,
@@ -1155,14 +1163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 791242,
-      "num": 791242,
-      "word": "耙耙柑是讨好型水果吧",
-      "onboard_time": 1713938837,
-      "rank": 7,
-      "category": "美食"
-    },
-    {
       "raw_hot": 782626,
       "num": 782626,
       "word": "泰版步步惊心",
@@ -1419,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 688636,
+      "num": 433297,
+      "word": "金卡戴珊疑因霉霉新歌掉粉130万",
+      "onboard_time": 1713938597,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 688177,
       "num": 458158,
       "word": "张艺兴朴灿烈连线",
@@ -1441,6 +1449,14 @@
       "onboard_time": 1713750198,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 685600,
+      "num": 685600,
+      "word": "LPL赛制改革",
+      "onboard_time": 1713941478,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 682648,
@@ -1585,14 +1601,6 @@
       "onboard_time": 1713852979,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 651020,
-      "num": 420344,
-      "word": "金卡戴珊疑因霉霉新歌掉粉130万",
-      "onboard_time": 1713938597,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 648699,
@@ -1819,6 +1827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 590199,
+      "num": 590199,
+      "word": "沈阳铁西",
+      "onboard_time": 1713940696,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588517,
       "num": 588517,
       "word": "第一批去新加坡的中产没200万年薪撑不下去",
@@ -1923,6 +1939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 572711,
+      "num": 572711,
+      "word": "一诺登上央视",
+      "onboard_time": 1713937578,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 572038,
       "num": 572038,
       "word": "莎头 少男的祈祷",
@@ -1977,14 +2001,6 @@
       "onboard_time": 1713709944,
       "rank": 49,
       "category": "幽默,网红"
-    },
-    {
-      "raw_hot": 565445,
-      "num": 565445,
-      "word": "一诺登上央视",
-      "onboard_time": 1713937578,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 565108,
@@ -2355,6 +2371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 496886,
+      "num": 496886,
+      "word": "沈阳发生持刀伤人嫌犯被抓",
+      "onboard_time": 1713942198,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495575,
       "num": 495575,
       "word": "广州塔1小时内连续6次接闪电",
@@ -2561,6 +2585,14 @@
       "onboard_time": 1713743356,
       "rank": 13,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 470324,
+      "num": 470324,
+      "word": "7岁男孩从宠物店偷狗带到17楼扔下",
+      "onboard_time": 1713941298,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469186,
@@ -3475,6 +3507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 349777,
+      "num": 349777,
+      "word": "狗头萝莉公开煎饼摊收支结余",
+      "onboard_time": 1713942077,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 347276,
       "num": 347276,
       "word": "杨幂民国军装",
@@ -3851,6 +3891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303659,
+      "num": 434551,
+      "word": "一个民族总要有一群看天的人",
+      "onboard_time": 1713939617,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303297,
       "num": 303297,
       "word": "宋雨琦空降",
@@ -3984,6 +4032,14 @@
       "word": "青春有你国际版",
       "onboard_time": 1713930737,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 293339,
+      "num": 293339,
+      "word": "刘涛想认赵昭仪当闺女",
+      "onboard_time": 1713940818,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -4457,6 +4513,14 @@
       "onboard_time": 1713839419,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261248,
+      "num": 261248,
+      "word": "宋轶漫画身材",
+      "onboard_time": 1713942558,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 261222,
@@ -5443,14 +5507,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 216780,
-      "num": 434551,
-      "word": "一个民族总要有一群看天的人",
-      "onboard_time": 1713939617,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216020,
       "num": 208433,
       "word": "李梦23分",
@@ -5915,6 +5971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204379,
+      "num": 204379,
+      "word": "NASA局长抹黑中国登月惹笑话",
+      "onboard_time": 1713941057,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204157,
       "num": 204157,
       "word": "电影维和防暴队芭莎大片",
@@ -6033,6 +6097,14 @@
       "onboard_time": 1713665478,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201635,
+      "num": 201635,
+      "word": "华晨宇香港演唱会官宣",
+      "onboard_time": 1713942077,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 201564,
@@ -7001,6 +7073,22 @@
       "onboard_time": 1713786679,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182597,
+      "num": 182597,
+      "word": "illit编舞疑似抄袭newjeans",
+      "onboard_time": 1713940758,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182304,
+      "num": 182304,
+      "word": "LPL",
+      "onboard_time": 1713941778,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 181923,
@@ -8187,6 +8275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155517,
+      "num": 155517,
+      "word": "我的阿勒泰预告片",
+      "onboard_time": 1713942558,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154950,
       "num": 154950,
       "word": "陈少杰个人财富曾达55亿",
@@ -8497,6 +8593,14 @@
       "onboard_time": 1713920478,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149880,
+      "num": 149880,
+      "word": "大麦网回应凤凰传奇演唱会买到柱子票",
+      "onboard_time": 1713940637,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 149656,
@@ -9051,6 +9155,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 139467,
+      "num": 139467,
+      "word": "记得你刚上班的时候很漂亮",
+      "onboard_time": 1713941778,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139450,
       "num": 139450,
       "word": "弟弟因为论文写不出来要退学了",
@@ -9177,14 +9289,6 @@
       "onboard_time": 1713654854,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137643,
-      "num": 137643,
-      "word": "沈阳铁西",
-      "onboard_time": 1713940696,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137487,
@@ -9939,6 +10043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120395,
+      "num": 120395,
+      "word": "女校长诈骗学生家长5000万后自杀身亡",
+      "onboard_time": 1713942798,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120318,
       "num": 120318,
       "word": "杜兰特18分",
@@ -10163,6 +10275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112375,
+      "num": 112375,
+      "word": "水果吃得太多真会加速衰老吗",
+      "onboard_time": 1713942018,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111725,
       "num": 111725,
       "word": "爱拍照的人手机相册啥样的",
@@ -10315,6 +10435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107465,
+      "num": 107465,
+      "word": "大侦探一直在用自己的方式发声",
+      "onboard_time": 1713942977,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107182,
       "num": 107182,
       "word": "特斯拉Cybertruck儿童车售价11190元",
@@ -10457,14 +10585,6 @@
       "onboard_time": 1713738613,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 98514,
-      "num": 98514,
-      "word": "大麦网回应凤凰传奇演唱会买到柱子票",
-      "onboard_time": 1713940637,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 97889,
