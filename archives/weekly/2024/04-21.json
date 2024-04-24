@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713998087677,
+  "endTime": 1714000846827,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -1587,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 689021,
+      "num": 689021,
+      "word": "男孩骑车失误刹车把手插进大腿里",
+      "onboard_time": 1713974117,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 688636,
       "num": 433297,
       "word": "金卡戴珊疑因霉霉新歌掉粉130万",
@@ -2683,14 +2691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 490659,
-      "num": 490659,
-      "word": "男孩骑车失误刹车把手插进大腿里",
-      "onboard_time": 1713974117,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 487521,
       "num": 313760,
       "word": "长沙警方通报14岁女生被同学殴打",
@@ -3211,6 +3211,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 434371,
+      "num": 434371,
+      "word": "狗头萝莉自曝找到员工了",
+      "onboard_time": 1713981973,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 431150,
       "num": 431150,
       "word": "狮子 请不要把手伸进来",
@@ -3660,7 +3668,7 @@
     },
     {
       "raw_hot": 379228,
-      "num": 314842,
+      "num": 353285,
       "word": "这些人工合成水果又出来骗人了",
       "onboard_time": 1713952998,
       "rank": 41,
@@ -4225,6 +4233,14 @@
       "onboard_time": 1713844278,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 316072,
+      "num": 316072,
+      "word": "2000元人参泡酒15年后发芽了",
+      "onboard_time": 1713978854,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315742,
@@ -4833,6 +4849,14 @@
       "onboard_time": 1713782778,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 270477,
+      "num": 194245,
+      "word": "丁俊晖连续4年世锦赛首轮出局",
+      "onboard_time": 1713985451,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 270450,
@@ -7251,6 +7275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192827,
+      "num": 192827,
+      "word": "深圳现暴雨天给绿植浇水引质疑",
+      "onboard_time": 1713980352,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192738,
       "num": 192738,
       "word": "iQOO Z9",
@@ -9113,14 +9145,6 @@
       "onboard_time": 1713866419,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 157489,
-      "num": 157489,
-      "word": "狗头萝莉自曝找到员工了",
-      "onboard_time": 1713981973,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 157353,
@@ -11011,14 +11035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124964,
-      "num": 96686,
-      "word": "2000元人参泡酒15年后发芽了",
-      "onboard_time": 1713978854,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124936,
       "num": 124936,
       "word": "18个工程师花1年才看懂图纸",
@@ -11121,14 +11137,6 @@
       "onboard_time": 1713969259,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122716,
-      "num": 92537,
-      "word": "丁俊晖连续4年世锦赛首轮出局",
-      "onboard_time": 1713985451,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 122666,
@@ -11875,6 +11883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96877,
+      "num": 96877,
+      "word": "埃弗顿2比0利物浦",
+      "onboard_time": 1714000634,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95709,
       "num": 95709,
       "word": "这个世界需要r人",
@@ -11915,6 +11931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 91224,
+      "num": 91224,
+      "word": "特斯拉市值一夜大涨4028亿",
+      "onboard_time": 1714000575,
+      "rank": 24,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 90147,
       "num": 94265,
       "word": "每当有人问我为什么不谈恋爱",
@@ -11953,14 +11977,6 @@
       "onboard_time": 1713646090,
       "rank": 26,
       "category": "数码"
-    },
-    {
-      "raw_hot": 87523,
-      "num": 87523,
-      "word": "深圳现暴雨天给绿植浇水引质疑",
-      "onboard_time": 1713980352,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85992,
@@ -12017,6 +12033,14 @@
       "onboard_time": 1713909310,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 82521,
+      "num": 82521,
+      "word": "男明星的二手东西到底谁在买",
+      "onboard_time": 1713989170,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 81674,
@@ -12179,6 +12203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69346,
+      "num": 72050,
+      "word": "身体哪个部位最难瘦下来",
+      "onboard_time": 1713989412,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 67576,
       "num": 107513,
       "word": "CFPLS23总决赛",
@@ -12299,12 +12331,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59236,
+      "num": 59236,
+      "word": "剧里把别人整碎 剧外自己快碎了",
+      "onboard_time": 1714000036,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 59158,
       "num": 1245268,
       "word": "第29个世界读书日",
       "onboard_time": 1713843138,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58805,
+      "num": 58805,
+      "word": "金晨口技",
+      "onboard_time": 1713995291,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 58695,
@@ -12329,6 +12377,14 @@
       "onboard_time": 1713690019,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 56851,
+      "num": 56851,
+      "word": "小米回应SU7翼子板脱落原因",
+      "onboard_time": 1713979274,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 56622,
@@ -12491,14 +12547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47735,
-      "num": 47735,
-      "word": "金晨口技",
-      "onboard_time": 1713995291,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 47215,
       "num": 47215,
       "word": "普拉提是减肥纠错本吧",
@@ -12523,12 +12571,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43830,
-      "num": 43830,
-      "word": "男明星的二手东西到底谁在买",
-      "onboard_time": 1713989170,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 45778,
+      "num": 45778,
+      "word": "诛仙陆雪琪鬼厉拔刀相向",
+      "onboard_time": 1713989350,
+      "rank": 43,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 42439,
@@ -12563,14 +12611,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 40898,
-      "num": 40898,
-      "word": "小米回应SU7翼子板脱落原因",
-      "onboard_time": 1713979274,
-      "rank": 40,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 40814,
       "num": 1200003,
       "word": "万千气象看上海",
@@ -12593,6 +12633,14 @@
       "onboard_time": 1713643991,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 38350,
+      "num": 45227,
+      "word": "斯里兰卡卖花男孩穿人字拖奔跑",
+      "onboard_time": 1713992770,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 37464,
@@ -12707,14 +12755,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 31363,
-      "num": 31363,
-      "word": "身体哪个部位最难瘦下来",
-      "onboard_time": 1713989412,
-      "rank": 29,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 31114,
       "num": 31114,
       "word": "赵今麦首部刑侦悬疑剧女主",
@@ -12763,14 +12803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26868,
-      "num": 26868,
-      "word": "斯里兰卡卖花男孩穿人字拖奔跑",
-      "onboard_time": 1713992770,
-      "rank": 45,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 25393,
       "num": 25393,
       "word": "得闲谨制",
@@ -12809,14 +12841,6 @@
       "onboard_time": 1713820150,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 23210,
-      "num": 23727,
-      "word": "诛仙陆雪琪鬼厉拔刀相向",
-      "onboard_time": 1713989350,
-      "rank": 43,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 23188,
