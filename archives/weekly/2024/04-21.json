@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713936836816,
+  "endTime": 1713939962810,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -339,6 +339,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 1433712,
+      "num": 431528,
+      "word": "贾斯汀比伯为好友遭遇抢劫中枪身亡发声",
+      "onboard_time": 1713937518,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1420882,
       "num": 352445,
       "word": "越来越多夫妻不过夫妻生活了",
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 1146776,
-      "num": 398143,
+      "num": 427748,
       "word": "向佐把向太送的包卖了",
       "onboard_time": 1713934280,
       "rank": 10,
@@ -580,7 +588,7 @@
     },
     {
       "raw_hot": 1123671,
-      "num": 369023,
+      "num": 422384,
       "word": "李现又要带火一小镇了",
       "onboard_time": 1713934399,
       "rank": 11,
@@ -1043,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 836372,
+      "num": 836372,
+      "word": "狗头萝莉招人",
+      "onboard_time": 1713933619,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 831897,
       "num": 831897,
       "word": "全红婵摘银后公主抱英国铜牌得主",
@@ -1251,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 724680,
+      "num": 724680,
+      "word": "种地交钱被免干部涉嫌学历造假",
+      "onboard_time": 1713937937,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 724657,
       "num": 724657,
       "word": "英雄联盟服务器",
@@ -1267,14 +1291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 723101,
-      "num": 723101,
-      "word": "狗头萝莉招人",
-      "onboard_time": 1713933619,
-      "rank": 3,
-      "category": "网红"
-    },
-    {
       "raw_hot": 722028,
       "num": 472485,
       "word": "乔丹儿子皮蓬前妻开放关系",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1713922456,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 714998,
+      "num": 714998,
+      "word": "金价又跌了",
+      "onboard_time": 1713934519,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 712900,
@@ -1505,14 +1529,6 @@
       "onboard_time": 1713782058,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 666107,
-      "num": 666107,
-      "word": "金价又跌了",
-      "onboard_time": 1713934519,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 665828,
@@ -1843,6 +1859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 580769,
+      "num": 420344,
+      "word": "金卡戴珊疑因霉霉新歌掉粉130万",
+      "onboard_time": 1713938597,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 578107,
       "num": 661150,
       "word": "有薄膜的一次性咖啡杯30年才能降解",
@@ -2121,6 +2145,14 @@
       "onboard_time": 1713701718,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 527800,
+      "num": 527800,
+      "word": "一诺登上央视",
+      "onboard_time": 1713937578,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 526863,
@@ -2779,6 +2811,14 @@
       "category": "国外时政,互联网"
     },
     {
+      "raw_hot": 438159,
+      "num": 438159,
+      "word": "耙耙柑是讨好型水果吧",
+      "onboard_time": 1713938837,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
       "raw_hot": 437867,
       "num": 437867,
       "word": "PDD斗鱼已停播超5个月",
@@ -2915,6 +2955,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 418946,
+      "num": 418946,
+      "word": "美议员承认TikTok剥离法案就是禁令",
+      "onboard_time": 1713933440,
+      "rank": 22,
+      "category": "国外时政,互联网"
+    },
+    {
       "raw_hot": 418697,
       "num": 418697,
       "word": "一个父亲没了软肋就不再需要底线",
@@ -3001,6 +3049,14 @@
       "onboard_time": 1713711321,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 404306,
+      "num": 261763,
+      "word": "秦岚张翰尬聊",
+      "onboard_time": 1713938779,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 403952,
@@ -3371,6 +3427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 353093,
+      "num": 353093,
+      "word": "TF三代出道战嘉宾或为TFBOYS",
+      "onboard_time": 1713936078,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351289,
       "num": 311600,
       "word": "上海一骑行活动赫本含量严重超标",
@@ -3699,14 +3763,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 311240,
-      "num": 311240,
-      "word": "TF三代出道战嘉宾或为TFBOYS",
-      "onboard_time": 1713936078,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 310983,
       "num": 310983,
       "word": "春色寄情人收视率",
@@ -3963,14 +4019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 291093,
-      "num": 291093,
-      "word": "美议员承认TikTok剥离法案就是禁令",
-      "onboard_time": 1713933440,
-      "rank": 22,
-      "category": "国外时政,互联网"
-    },
-    {
       "raw_hot": 290933,
       "num": 290933,
       "word": "ILLIT粉丝名",
@@ -4049,6 +4097,14 @@
       "onboard_time": 1713930618,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284788,
+      "num": 284788,
+      "word": "白鹿演假小子",
+      "onboard_time": 1713934880,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 284540,
@@ -4161,14 +4217,6 @@
       "onboard_time": 1713680237,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 276930,
-      "num": 276930,
-      "word": "白鹿演假小子",
-      "onboard_time": 1713934880,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 275644,
@@ -5187,6 +5235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225529,
+      "num": 225529,
+      "word": "官方回应开鲁县被免镇干部涉嫌学历造假",
+      "onboard_time": 1713938237,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225494,
       "num": 225494,
       "word": "让胡明轩赢",
@@ -5491,6 +5547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212099,
+      "num": 212099,
+      "word": "罗云熙第一部男频剧",
+      "onboard_time": 1713937219,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212013,
       "num": 212013,
       "word": "孙子减龄式爆改87岁爷爷",
@@ -5769,6 +5833,14 @@
       "onboard_time": 1713660437,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205753,
+      "num": 205753,
+      "word": "秦海璐秦岚住一间房",
+      "onboard_time": 1713937219,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 205666,
@@ -6169,6 +6241,14 @@
       "onboard_time": 1713774499,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196694,
+      "num": 196694,
+      "word": "胃病发展成胃癌的征兆",
+      "onboard_time": 1713936437,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 196523,
@@ -7787,6 +7867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161961,
+      "num": 161961,
+      "word": "张杰官宣太原演唱会",
+      "onboard_time": 1713939497,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161951,
       "num": 131281,
       "word": "杨紫高干文适配度",
@@ -9083,6 +9171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136375,
+      "num": 164537,
+      "word": "一个民族总要有一群看天的人",
+      "onboard_time": 1713939617,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136096,
       "num": 136096,
       "word": "广厦男篮逆转广东男篮",
@@ -9219,6 +9315,14 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 133371,
+      "num": 133371,
+      "word": "孙俪销冠海报",
+      "onboard_time": 1713936737,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133338,
       "num": 133338,
       "word": "皇马3比2巴萨",
@@ -9241,14 +9345,6 @@
       "onboard_time": 1713924676,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132920,
-      "num": 132920,
-      "word": "胃病发展成胃癌的征兆",
-      "onboard_time": 1713936437,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 132683,
@@ -9291,6 +9387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132056,
+      "num": 132056,
+      "word": "迪丽热巴reaction刘宇宁被吓",
+      "onboard_time": 1713938898,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132035,
       "num": 132035,
       "word": "为什么大家都不喜欢付邮费",
@@ -9321,6 +9425,14 @@
       "onboard_time": 1713785298,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131684,
+      "num": 131684,
+      "word": "美梦降霖cp官宣",
+      "onboard_time": 1713938358,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 131650,
@@ -9571,6 +9683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125823,
+      "num": 125823,
+      "word": "陈震谈小米SU7拓展配件是否合规",
+      "onboard_time": 1713937098,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 125280,
       "num": 125280,
       "word": "孙夏铃喜欢杨幂演的三生三世十里桃花",
@@ -9697,6 +9817,14 @@
       "onboard_time": 1713749598,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122406,
+      "num": 122406,
+      "word": "大理发生4.3级地震",
+      "onboard_time": 1713936918,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121991,
@@ -9851,6 +9979,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 117126,
+      "num": 117126,
+      "word": "杨幂一顿火锅首映礼出发",
+      "onboard_time": 1713936918,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 116885,
+      "num": 116885,
+      "word": "香飘飘一年卖出11亿杯",
+      "onboard_time": 1713939676,
+      "rank": 40,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 116468,
       "num": 116468,
       "word": "张桂梅说一生最不能放弃是读书",
@@ -9992,14 +10136,6 @@
       "word": "优酷发布白夜剧场片单",
       "onboard_time": 1713928037,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 110607,
-      "num": 110607,
-      "word": "孙俪销冠海报",
-      "onboard_time": 1713936737,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -10187,12 +10323,36 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 104611,
+      "num": 104611,
+      "word": "欧文下半场的神",
+      "onboard_time": 1713937997,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103597,
+      "num": 103597,
+      "word": "小熊虫 这像画吗",
+      "onboard_time": 1713939798,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 103403,
       "num": 103403,
       "word": "台湾花莲再发5.7级地震",
       "onboard_time": 1713785656,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102802,
+      "num": 102802,
+      "word": "TF家族",
+      "onboard_time": 1713938237,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 102267,
