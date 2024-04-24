@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713947028390,
+  "endTime": 1713947752754,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 1516812,
-      "num": 451068,
+      "num": 473894,
       "word": "贾斯汀比伯为好友遭遇抢劫中枪身亡发声",
       "onboard_time": 1713937518,
       "rank": 10,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 1146776,
-      "num": 440834,
+      "num": 473615,
       "word": "向佐把向太送的包卖了",
       "onboard_time": 1713934280,
       "rank": 10,
@@ -569,6 +569,14 @@
       "onboard_time": 1713765138,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1142413,
+      "num": 473919,
+      "word": "Angelababy狼尾超短发",
+      "onboard_time": 1713944057,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1140019,
@@ -633,14 +641,6 @@
       "onboard_time": 1713762620,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1109931,
-      "num": 338245,
-      "word": "Angelababy狼尾超短发",
-      "onboard_time": 1713944057,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1109709,
@@ -1579,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 666294,
+      "num": 666294,
+      "word": "女校长诈骗学生家长5000万后自杀身亡",
+      "onboard_time": 1713942798,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 665828,
       "num": 665828,
       "word": "女子3次要回家拿材料工作人员说啥也不让",
@@ -1625,14 +1633,6 @@
       "onboard_time": 1713852979,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 649415,
-      "num": 649415,
-      "word": "女校长诈骗学生家长5000万后自杀身亡",
-      "onboard_time": 1713942798,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 648699,
@@ -1771,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 622359,
+      "num": 622359,
+      "word": "花少5花少1像两个团",
+      "onboard_time": 1713945018,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 618469,
       "num": 618469,
       "word": "战王殿下 王妃替您出征了",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1713877819,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 609132,
+      "num": 609132,
+      "word": "高君雨全网账号被禁",
+      "onboard_time": 1713946757,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 607304,
@@ -1865,14 +1881,6 @@
       "onboard_time": 1713762798,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 591486,
-      "num": 591486,
-      "word": "花少5花少1像两个团",
-      "onboard_time": 1713945018,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 590199,
@@ -2081,6 +2089,14 @@
       "onboard_time": 1713617897,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 556958,
+      "num": 556958,
+      "word": "玲花给买到柱子票的粉丝留了鸟巢的票",
+      "onboard_time": 1713946878,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 556260,
@@ -2708,7 +2724,7 @@
     },
     {
       "raw_hot": 459810,
-      "num": 334128,
+      "num": 458443,
       "word": "卢昱晓单肩黑裙",
       "onboard_time": 1713943518,
       "rank": 27,
@@ -2817,6 +2833,14 @@
       "onboard_time": 1713667037,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 446303,
+      "num": 367048,
+      "word": "宋轶漫画身材",
+      "onboard_time": 1713942558,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 445869,
@@ -3089,14 +3113,6 @@
       "onboard_time": 1713759859,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 408755,
-      "num": 367048,
-      "word": "宋轶漫画身材",
-      "onboard_time": 1713942558,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 406380,
@@ -4163,6 +4179,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 288843,
+      "num": 254573,
+      "word": "女子疑租到串串房1月后流鼻血退租被拒",
+      "onboard_time": 1713943938,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287995,
       "num": 474999,
       "word": "切实减轻中小学教师非教育教学负担",
@@ -4489,14 +4513,6 @@
       "onboard_time": 1713651371,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 264772,
-      "num": 237501,
-      "word": "女子疑租到串串房1月后流鼻血退租被拒",
-      "onboard_time": 1713943938,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263911,
@@ -4980,7 +4996,7 @@
     },
     {
       "raw_hot": 239885,
-      "num": 443358,
+      "num": 474146,
       "word": "他赌上3分之1人生建港珠澳大桥",
       "onboard_time": 1713943218,
       "rank": 9,
@@ -6275,14 +6291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199971,
-      "num": 199971,
-      "word": "高君雨全网账号被禁",
-      "onboard_time": 1713946757,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
       "raw_hot": 199836,
       "num": 196107,
       "word": "蔡依林淋雨说还好妈妈没看到",
@@ -7515,6 +7523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 174212,
+      "num": 174212,
+      "word": "跟女朋友吃饭还是要并排坐",
+      "onboard_time": 1713944117,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173924,
       "num": 173924,
       "word": "iPad",
@@ -7811,14 +7827,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 167198,
-      "num": 167198,
-      "word": "玲花给买到柱子票的粉丝留了鸟巢的票",
-      "onboard_time": 1713946878,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 167137,
       "num": 167137,
       "word": "金剪刀",
@@ -7833,14 +7841,6 @@
       "onboard_time": 1713672078,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 167043,
-      "num": 167043,
-      "word": "跟女朋友吃饭还是要并排坐",
-      "onboard_time": 1713944117,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 167026,
@@ -7889,6 +7889,14 @@
       "onboard_time": 1713793519,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166539,
+      "num": 166539,
+      "word": "华为回应P70手机AI修图能消除衣服",
+      "onboard_time": 1713947298,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 166007,
@@ -8553,6 +8561,14 @@
       "onboard_time": 1713837439,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152901,
+      "num": 152901,
+      "word": "SHINee演唱会 standing空位",
+      "onboard_time": 1713946998,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 152708,
@@ -9835,6 +9851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128651,
+      "num": 128651,
+      "word": "特斯拉盘前涨超12%",
+      "onboard_time": 1713947178,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 128607,
       "num": 128607,
       "word": "在上海找不到丢垃圾的地方",
@@ -9881,6 +9905,14 @@
       "onboard_time": 1713874218,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127568,
+      "num": 127568,
+      "word": "赵奕欢谈浪姐私下关系",
+      "onboard_time": 1713947598,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 127522,
@@ -10643,14 +10675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104755,
-      "num": 104755,
-      "word": "SHINee演唱会 standing空位",
-      "onboard_time": 1713946998,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 104698,
       "num": 107546,
       "word": "雷军向周鸿祎推荐小米SUV",
@@ -10665,6 +10689,14 @@
       "onboard_time": 1713937997,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104406,
+      "num": 262685,
+      "word": "88VIP退货包运费",
+      "onboard_time": 1713945497,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 103597,
@@ -10785,14 +10817,6 @@
       "onboard_time": 1713873618,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94162,
-      "num": 237540,
-      "word": "88VIP退货包运费",
-      "onboard_time": 1713945497,
-      "rank": 20,
-      "category": "互联网"
     },
     {
       "raw_hot": 93850,
@@ -10969,6 +10993,14 @@
       "onboard_time": 1713626119,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73929,
+      "num": 168463,
+      "word": "你好中国航天日",
+      "onboard_time": 1713947298,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 73144,
@@ -11459,6 +11491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33286,
+      "num": 167109,
+      "word": "宋妍霏坐副驾上倒车",
+      "onboard_time": 1713946578,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32810,
       "num": 36041,
       "word": "鹿晗踢球戴曼联手套",
@@ -11513,14 +11553,6 @@
       "onboard_time": 1713791059,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 28850,
-      "num": 123085,
-      "word": "宋妍霏坐副驾上倒车",
-      "onboard_time": 1713946578,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 28330,
@@ -11751,6 +11783,9 @@
     },
     {
       "word": "#唱好成渝双城记打开发展新格局#"
+    },
+    {
+      "word": "#奋力谱写西部大开发新篇章#"
     }
   ]
 }
