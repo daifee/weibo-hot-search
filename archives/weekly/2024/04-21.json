@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713922567677,
+  "endTime": 1713925607042,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -1475,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 641589,
+      "num": 641589,
+      "word": "iPhone16国行售价曝光",
+      "onboard_time": 1713923356,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 641389,
       "num": 431856,
       "word": "郑恺看苗苗的眼里全是宠溺",
@@ -1665,6 +1673,14 @@
       "onboard_time": 1713762798,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 592660,
+      "num": 592660,
+      "word": "中国将实施国内首次在轨水生生态研究",
+      "onboard_time": 1713924257,
+      "rank": 4,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 588517,
@@ -1921,6 +1937,14 @@
       "onboard_time": 1713705081,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 537986,
+      "num": 537986,
+      "word": "上野千鹤子谈中国彩礼",
+      "onboard_time": 1713922456,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 536310,
@@ -2403,6 +2427,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 463516,
+      "num": 463516,
+      "word": "爱奇艺片单",
+      "onboard_time": 1713923356,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 460517,
       "num": 362923,
       "word": "青环5总导演欢迎杨洋回家",
@@ -2721,6 +2753,14 @@
       "onboard_time": 1713629359,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415855,
+      "num": 415855,
+      "word": "黄子韬向佐在大理相遇了",
+      "onboard_time": 1713923717,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 415439,
@@ -3163,6 +3203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349909,
+      "num": 259453,
+      "word": "小孩 我一出生就如履薄冰",
+      "onboard_time": 1713920838,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 347276,
       "num": 347276,
       "word": "杨幂民国军装",
@@ -3305,6 +3353,14 @@
       "onboard_time": 1713710303,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329814,
+      "num": 329814,
+      "word": "原神4.6",
+      "onboard_time": 1713924676,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 329002,
@@ -3460,7 +3516,7 @@
     },
     {
       "raw_hot": 307786,
-      "num": 371679,
+      "num": 424211,
       "word": "孙女回家找不到奶奶崩溃大哭",
       "onboard_time": 1713893232,
       "rank": 26,
@@ -3529,6 +3585,14 @@
       "onboard_time": 1713834378,
       "rank": 30,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 299011,
+      "num": 299011,
+      "word": "第4批航天员选拔即将完成",
+      "onboard_time": 1713923477,
+      "rank": 14,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 298868,
@@ -3779,6 +3843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277219,
+      "num": 277219,
+      "word": "阴阳师",
+      "onboard_time": 1713923297,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 277202,
       "num": 277202,
       "word": "深圳降价60%二手房曾遭炒房团围猎",
@@ -3883,8 +3955,16 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 268280,
+      "num": 268280,
+      "word": "TF三代粉丝名",
+      "onboard_time": 1713923477,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268071,
-      "num": 234240,
+      "num": 257904,
       "word": "女子孕期突然耳洞疤痕增生",
       "onboard_time": 1713889756,
       "rank": 28,
@@ -3937,6 +4017,14 @@
       "onboard_time": 1713651371,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265223,
+      "num": 265223,
+      "word": "神十八10月下旬返回东风着陆场",
+      "onboard_time": 1713923717,
+      "rank": 18,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 263911,
@@ -4025,6 +4113,14 @@
       "onboard_time": 1713625520,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 260323,
+      "num": 260323,
+      "word": "伊能静夸杨幂",
+      "onboard_time": 1713924196,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 259717,
@@ -4273,6 +4369,14 @@
       "onboard_time": 1713792199,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 246389,
+      "num": 246389,
+      "word": "南京一市民称骑自行车上路因无牌被罚50元",
+      "onboard_time": 1713923535,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246302,
@@ -4571,14 +4675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233009,
-      "num": 218772,
-      "word": "小孩 我一出生就如履薄冰",
-      "onboard_time": 1713920838,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 232720,
       "num": 259464,
       "word": "交通银行app崩了",
@@ -4625,6 +4721,14 @@
       "onboard_time": 1713655454,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 231099,
+      "num": 231099,
+      "word": "秦昊在家经常夸杨幂",
+      "onboard_time": 1713924138,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 230855,
@@ -5427,6 +5531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 202470,
+      "num": 202470,
+      "word": "美参议院通过超600亿美元援乌法案",
+      "onboard_time": 1713925037,
+      "rank": 26,
+      "category": "国外时政,军事"
+    },
+    {
       "raw_hot": 202440,
       "num": 202440,
       "word": "特斯拉发布2024年第一季度财报",
@@ -5593,6 +5705,14 @@
       "onboard_time": 1713686538,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198553,
+      "num": 198553,
+      "word": "蜜雪斌城cp",
+      "onboard_time": 1713921617,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 198028,
@@ -5819,6 +5939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192088,
+      "num": 192088,
+      "word": "世界之外",
+      "onboard_time": 1713924737,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191925,
       "num": 191925,
       "word": "东北雨姐与张雪峰约饭",
@@ -5969,6 +6097,14 @@
       "onboard_time": 1713715278,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189480,
+      "num": 189480,
+      "word": "孕妇坠崖案当事人5年后再登崖",
+      "onboard_time": 1713922936,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189396,
@@ -6176,14 +6312,6 @@
       "word": "承欢记热度",
       "onboard_time": 1713756257,
       "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 185397,
-      "num": 185397,
-      "word": "蜜雪斌城cp",
-      "onboard_time": 1713921617,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -6603,6 +6731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175193,
+      "num": 175193,
+      "word": "刘维说明星都有美颜",
+      "onboard_time": 1713924557,
+      "rank": 32,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 175075,
       "num": 175075,
       "word": "向佐一套话术忽悠四个女人",
@@ -6987,6 +7123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165422,
+      "num": 165422,
+      "word": "官方通报女生质疑体考被压表",
+      "onboard_time": 1713925216,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 164959,
       "num": 164959,
       "word": "陈丽君反差感",
@@ -7265,6 +7409,14 @@
       "onboard_time": 1713776418,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158043,
+      "num": 158043,
+      "word": "才知道喝柠檬茶有这么多益处",
+      "onboard_time": 1713925095,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 157768,
@@ -8035,6 +8187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142425,
+      "num": 142425,
+      "word": "北京电影学院",
+      "onboard_time": 1713923116,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142292,
       "num": 107537,
       "word": "Jennie一口气发了20张图",
@@ -8275,6 +8435,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 137689,
+      "num": 137689,
+      "word": "太阳vs森林狼",
+      "onboard_time": 1713654854,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137487,
       "num": 137487,
       "word": "遗体整容师 残疾少女",
@@ -8473,6 +8641,14 @@
       "onboard_time": 1713858197,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132471,
+      "num": 132471,
+      "word": "高校床帘是卫生问题还是安全问题",
+      "onboard_time": 1713924676,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132436,
@@ -8705,6 +8881,14 @@
       "onboard_time": 1713684558,
       "rank": 47,
       "category": "情感,旅游"
+    },
+    {
+      "raw_hot": 126664,
+      "num": 126664,
+      "word": "媒体质疑校方拆帘正当性在哪",
+      "onboard_time": 1713923356,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126469,
@@ -9273,14 +9457,6 @@
       "onboard_time": 1713698119,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 106075,
-      "num": 106075,
-      "word": "上野千鹤子谈中国彩礼",
-      "onboard_time": 1713922456,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105808,
@@ -9872,14 +10048,6 @@
       "word": "朱婷暴扣",
       "onboard_time": 1713655634,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 51848,
-      "num": 51848,
-      "word": "太阳vs森林狼",
-      "onboard_time": 1713654854,
-      "rank": 35,
       "category": "体育"
     },
     {

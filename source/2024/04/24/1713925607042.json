@@ -1,0 +1,410 @@
+{
+  "runTime": 1713925607042,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1195402,
+        "num": 1195402,
+        "word": "北电取消网红李某某专业成绩",
+        "onboard_time": 1713918979,
+        "rank": 0,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 641589,
+        "num": 641589,
+        "word": "iPhone16国行售价曝光",
+        "onboard_time": 1713923356,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29332,
+        "num": 637408,
+        "word": "9图了解无障碍阅读",
+        "onboard_time": 1713876437,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636429,
+        "num": 636429,
+        "word": "神十八新闻发布会",
+        "onboard_time": 1713921197,
+        "rank": 3,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 592660,
+        "num": 592660,
+        "word": "中国将实施国内首次在轨水生生态研究",
+        "onboard_time": 1713924257,
+        "rank": 4,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 537986,
+        "num": 537986,
+        "word": "上野千鹤子谈中国彩礼",
+        "onboard_time": 1713922456,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464809,
+        "num": 464809,
+        "word": "多所高校学生因悬挂床帘被实名通报",
+        "onboard_time": 1713917719,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463516,
+        "num": 463516,
+        "word": "爱奇艺片单",
+        "onboard_time": 1713923356,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448188,
+        "num": 448188,
+        "word": "学生挂床帘不过是为隐私二字",
+        "onboard_time": 1713919937,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151358,
+        "num": 424211,
+        "word": "孙女回家找不到奶奶崩溃大哭",
+        "onboard_time": 1713893232,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844218,
+        "num": 423165,
+        "word": "五一不调休就会是这种结果",
+        "onboard_time": 1713875178,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 415855,
+        "num": 415855,
+        "word": "黄子韬向佐在大理相遇了",
+        "onboard_time": 1713923717,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329814,
+        "num": 329814,
+        "word": "原神4.6",
+        "onboard_time": 1713924676,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 308650,
+        "num": 308650,
+        "word": "金价",
+        "onboard_time": 1713912133,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 299011,
+        "num": 299011,
+        "word": "第4批航天员选拔即将完成",
+        "onboard_time": 1713923477,
+        "rank": 14,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 279337,
+        "num": 279337,
+        "word": "李一桐第一部仙侠剧",
+        "onboard_time": 1713914655,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277219,
+        "num": 277219,
+        "word": "阴阳师",
+        "onboard_time": 1713923297,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268280,
+        "num": 268280,
+        "word": "TF三代粉丝名",
+        "onboard_time": 1713923477,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265223,
+        "num": 265223,
+        "word": "神十八10月下旬返回东风着陆场",
+        "onboard_time": 1713923717,
+        "rank": 18,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 260323,
+        "num": 260323,
+        "word": "伊能静夸杨幂",
+        "onboard_time": 1713924196,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349909,
+        "num": 259453,
+        "word": "小孩 我一出生就如履薄冰",
+        "onboard_time": 1713920838,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257904,
+        "num": 257904,
+        "word": "女子孕期突然耳洞疤痕增生",
+        "onboard_time": 1713889756,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246389,
+        "num": 246389,
+        "word": "南京一市民称骑自行车上路因无牌被罚50元",
+        "onboard_time": 1713923535,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240213,
+        "num": 240213,
+        "word": "iPhone16起步存储或为256GB",
+        "onboard_time": 1713919278,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 231099,
+        "num": 231099,
+        "word": "秦昊在家经常夸杨幂",
+        "onboard_time": 1713924138,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223452,
+        "num": 223452,
+        "word": "神十八航天员公布",
+        "onboard_time": 1713921617,
+        "rank": 25,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 202470,
+        "num": 202470,
+        "word": "美参议院通过超600亿美元援乌法案",
+        "onboard_time": 1713925037,
+        "rank": 26,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 198553,
+        "num": 198553,
+        "word": "蜜雪斌城cp",
+        "onboard_time": 1713921617,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197424,
+        "num": 197424,
+        "word": "神十七乘组4月30日回家",
+        "onboard_time": 1713921917,
+        "rank": 28,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 192088,
+        "num": 192088,
+        "word": "世界之外",
+        "onboard_time": 1713924737,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189480,
+        "num": 189480,
+        "word": "孕妇坠崖案当事人5年后再登崖",
+        "onboard_time": 1713922936,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188616,
+        "num": 188616,
+        "word": "林俊杰为了防黄牛好拼",
+        "onboard_time": 1713882020,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175193,
+        "num": 175193,
+        "word": "刘维说明星都有美颜",
+        "onboard_time": 1713924557,
+        "rank": 32,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 165422,
+        "num": 165422,
+        "word": "官方通报女生质疑体考被压表",
+        "onboard_time": 1713925216,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 158043,
+        "num": 158043,
+        "word": "才知道喝柠檬茶有这么多益处",
+        "onboard_time": 1713925095,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 157518,
+        "num": 157518,
+        "word": "住酒店睡过头被扣了押金",
+        "onboard_time": 1713891254,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150604,
+        "num": 150604,
+        "word": "津巴布韦股市暴跌99.95%",
+        "onboard_time": 1713915316,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 142425,
+        "num": 142425,
+        "word": "北京电影学院",
+        "onboard_time": 1713923116,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141051,
+        "num": 141051,
+        "word": "特斯拉",
+        "onboard_time": 1713917177,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138770,
+        "num": 138770,
+        "word": "一条小团团单月礼物收入曾高达500万",
+        "onboard_time": 1713875839,
+        "rank": 39,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 138519,
+        "num": 138519,
+        "word": "田馥甄 音乐节",
+        "onboard_time": 1713885918,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137689,
+        "num": 137689,
+        "word": "太阳vs森林狼",
+        "onboard_time": 1713925156,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135139,
+        "num": 135139,
+        "word": "黄景瑜体格怎么这么大",
+        "onboard_time": 1713882739,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132471,
+        "num": 132471,
+        "word": "高校床帘是卫生问题还是安全问题",
+        "onboard_time": 1713924676,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131159,
+        "num": 131159,
+        "word": "新人结婚后要有小家意识",
+        "onboard_time": 1713915557,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129876,
+        "num": 129876,
+        "word": "让腿越来越瘦的12个习惯",
+        "onboard_time": 1713916756,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 127386,
+        "num": 127386,
+        "word": "陈震称小米SU7背离自己预期",
+        "onboard_time": 1713885739,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126664,
+        "num": 126664,
+        "word": "媒体质疑校方拆帘正当性在哪",
+        "onboard_time": 1713923356,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126630,
+        "num": 126630,
+        "word": "周雨彤现偶史上最e女主",
+        "onboard_time": 1713886278,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126120,
+        "num": 126120,
+        "word": "长沙警方通报14岁女生被同学殴打",
+        "onboard_time": 1713915617,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在重庆市考察调研#"
+    }
+  }
+}
