@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713994477381,
+  "endTime": 1713997161600,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -9964,7 +9964,7 @@
     },
     {
       "raw_hot": 143502,
-      "num": 58392,
+      "num": 61687,
       "word": "狗头萝莉自曝找到员工了",
       "onboard_time": 1713981973,
       "rank": 14,
@@ -11979,6 +11979,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 84438,
+      "num": 58142,
+      "word": "丁俊晖连续4年世锦赛首轮出局",
+      "onboard_time": 1713985451,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84035,
       "num": 70255,
       "word": "辛芷蕾工作室审美",
@@ -12219,6 +12227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63166,
+      "num": 50240,
+      "word": "深圳现暴雨天给绿植浇水引质疑",
+      "onboard_time": 1713980352,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62094,
       "num": 62094,
       "word": "闵熙珍要求HYBE和BeliftLab正视错误",
@@ -12305,14 +12321,6 @@
       "onboard_time": 1713853399,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 57509,
-      "num": 33773,
-      "word": "丁俊晖连续4年世锦赛首轮出局",
-      "onboard_time": 1713985451,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 57012,
@@ -12433,14 +12441,6 @@
       "onboard_time": 1713785959,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50129,
-      "num": 36561,
-      "word": "深圳现暴雨天给绿植浇水引质疑",
-      "onboard_time": 1713980352,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50040,
@@ -12643,6 +12643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34656,
+      "num": 34656,
+      "word": "男明星的二手东西到底谁在买",
+      "onboard_time": 1713989170,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33797,
       "num": 334156,
       "word": "75秒看人民海军75年巨变",
@@ -12656,6 +12664,14 @@
       "word": "宋妍霏坐副驾上倒车",
       "onboard_time": 1713946578,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 33098,
+      "num": 33098,
+      "word": "金晨口技",
+      "onboard_time": 1713995291,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -12681,6 +12697,14 @@
       "onboard_time": 1713956778,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 31378,
+      "num": 31378,
+      "word": "用过才知道国货美妆才是细糠",
+      "onboard_time": 1713990612,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 31114,
@@ -12723,6 +12747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 28535,
+      "num": 28535,
+      "word": "身体哪个部位最难瘦下来",
+      "onboard_time": 1713989412,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 28330,
       "num": 32323,
       "word": "工作简庆芬 生活Rebecca",
@@ -12763,14 +12795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23790,
-      "num": 23790,
-      "word": "男明星的二手东西到底谁在买",
-      "onboard_time": 1713989170,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 23561,
       "num": 25385,
       "word": "为啥学校食堂番茄炒蛋按荤菜卖",
@@ -12795,14 +12819,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 22164,
-      "num": 22164,
-      "word": "身体哪个部位最难瘦下来",
-      "onboard_time": 1713989412,
-      "rank": 29,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 21821,
       "num": 313829,
       "word": "九号造车与造片都是科技局",
@@ -12819,12 +12835,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20963,
+      "num": 20963,
+      "word": "斯里兰卡卖花男孩穿人字拖奔跑",
+      "onboard_time": 1713992770,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 20822,
       "num": 25364,
       "word": "北科大女生打假防癌护肤品",
       "onboard_time": 1713813192,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20168,
+      "num": 20168,
+      "word": "诛仙陆雪琪鬼厉拔刀相向",
+      "onboard_time": 1713989350,
+      "rank": 43,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 19747,
@@ -12851,12 +12883,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18362,
-      "num": 18362,
-      "word": "用过才知道国货美妆才是细糠",
-      "onboard_time": 1713990612,
-      "rank": 48,
-      "category": "美妆"
+      "raw_hot": 18077,
+      "num": 19133,
+      "word": "生气时身体器官变化全过程",
+      "onboard_time": 1713986413,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 17612,
@@ -12899,14 +12931,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 16864,
-      "num": 16864,
-      "word": "诛仙陆雪琪鬼厉拔刀相向",
-      "onboard_time": 1713989350,
-      "rank": 43,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 16812,
       "num": 50806,
       "word": "蔡磊说要在倒下之前干掉渐冻症",
@@ -12921,14 +12945,6 @@
       "onboard_time": 1713818470,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 15762,
-      "num": 18523,
-      "word": "生气时身体器官变化全过程",
-      "onboard_time": 1713986413,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 14892,
@@ -12953,14 +12969,6 @@
       "onboard_time": 1713645250,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13134,
-      "num": 15334,
-      "word": "斯里兰卡卖花男孩穿人字拖奔跑",
-      "onboard_time": 1713992770,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 11546,
