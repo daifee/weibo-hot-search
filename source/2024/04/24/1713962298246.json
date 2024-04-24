@@ -1,0 +1,410 @@
+{
+  "runTime": 1713962298246,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1462130,
+        "num": 1462130,
+        "word": "大麦网已退票退款",
+        "onboard_time": 1713952578,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1137241,
+        "num": 1137241,
+        "word": "玲花 维权是你们的权利",
+        "onboard_time": 1713947778,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 5729,
+        "num": 709389,
+        "word": "万千气象看上海",
+        "onboard_time": 1713928217,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605637,
+        "num": 605637,
+        "word": "日本地震",
+        "onboard_time": 1713959478,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583357,
+        "num": 583357,
+        "word": "金价下跌有人卖了一百多万金条",
+        "onboard_time": 1713950599,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 473520,
+        "num": 473520,
+        "word": "iPhone15频降价引吐槽",
+        "onboard_time": 1713956420,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 470012,
+        "num": 470012,
+        "word": "福宝已开始在外场采食",
+        "onboard_time": 1713961158,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447892,
+        "num": 447892,
+        "word": "长期吃铝包子或引发肝肾损伤",
+        "onboard_time": 1713948199,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 438828,
+        "num": 438828,
+        "word": "五月天官宣鸟巢开十场",
+        "onboard_time": 1713953900,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225688,
+        "num": 430047,
+        "word": "手机里存了3个月的照片终于删了",
+        "onboard_time": 1713952039,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 836603,
+        "num": 427994,
+        "word": "被评最美公务员干部被曝曾殴打残疾人",
+        "onboard_time": 1713956298,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535164,
+        "num": 426281,
+        "word": "秦海璐霸总小说书单",
+        "onboard_time": 1713959958,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423076,
+        "num": 423076,
+        "word": "Angelababy狼尾超短发",
+        "onboard_time": 1713944057,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 393960,
+        "num": 393960,
+        "word": "承欢记大结局",
+        "onboard_time": 1713961398,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352774,
+        "num": 352774,
+        "word": "张予曦三公造型曝光",
+        "onboard_time": 1713958520,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31187,
+        "num": 341030,
+        "word": "普拉多又来整治硬派越野市场了",
+        "onboard_time": 1713958157,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 334856,
+        "num": 334856,
+        "word": "五月天假唱风波调查近5个月没结果",
+        "onboard_time": 1713962057,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 332025,
+        "num": 332025,
+        "word": "陶昕然妈妈每天要吃够25种颜色",
+        "onboard_time": 1713960498,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323446,
+        "num": 323446,
+        "word": "杨幂原声台词有无字幕对比",
+        "onboard_time": 1713957557,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291221,
+        "num": 308054,
+        "word": "福宝",
+        "onboard_time": 1713949759,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306722,
+        "num": 306722,
+        "word": "贾斯汀比伯为好友遭遇抢劫中枪身亡发声",
+        "onboard_time": 1713937518,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295747,
+        "num": 295747,
+        "word": "陶喆青岛",
+        "onboard_time": 1713961037,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 259372,
+        "num": 259372,
+        "word": "22岁的我不舍得吃20块的外卖",
+        "onboard_time": 1713960857,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249237,
+        "num": 249237,
+        "word": "这些人工合成水果又出来骗人了",
+        "onboard_time": 1713952998,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192738,
+        "num": 192738,
+        "word": "iQOO Z9",
+        "onboard_time": 1713961698,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 274418,
+        "num": 191727,
+        "word": "浪3 白月光",
+        "onboard_time": 1713954858,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247239,
+        "num": 190865,
+        "word": "赵丽颖林更新缘分开始的地方",
+        "onboard_time": 1713959958,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241148,
+        "num": 190377,
+        "word": "孔刘宋慧乔或合作新剧",
+        "onboard_time": 1713956958,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183372,
+        "num": 189262,
+        "word": "赵睿复出",
+        "onboard_time": 1713960559,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84989,
+        "num": 187811,
+        "word": "提醒布林肯别想带着筹码来访华",
+        "onboard_time": 1713954738,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 219910,
+        "num": 185969,
+        "word": "田馥甄天津泡泡岛音乐节",
+        "onboard_time": 1713960498,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207540,
+        "num": 185328,
+        "word": "姚志明父亲车祸去世",
+        "onboard_time": 1713952940,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184738,
+        "num": 184738,
+        "word": "这些退货理由是要把人笑死吗",
+        "onboard_time": 1713959297,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184705,
+        "num": 184705,
+        "word": "东亚小孩其实很容易原谅父母",
+        "onboard_time": 1713961578,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184181,
+        "num": 184181,
+        "word": "高君雨全网账号被禁",
+        "onboard_time": 1713946757,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 179426,
+        "num": 179426,
+        "word": "周琦",
+        "onboard_time": 1713961999,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178641,
+        "num": 178641,
+        "word": "布林肯抵达上海",
+        "onboard_time": 1713951377,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 172075,
+        "num": 172075,
+        "word": "买凤凰传奇柱子票获鸟巢票粉丝发声",
+        "onboard_time": 1713957619,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168110,
+        "num": 168110,
+        "word": "乳腺疾病真的是被气出来的吗",
+        "onboard_time": 1713959779,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166475,
+        "num": 166475,
+        "word": "女校长诈骗学生家长5000万后自杀身亡",
+        "onboard_time": 1713942798,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155041,
+        "num": 155041,
+        "word": "花少中热巴的美妆好物",
+        "onboard_time": 1713957019,
+        "rank": 40,
+        "category": "美妆,综艺"
+      },
+      {
+        "raw_hot": 148759,
+        "num": 148759,
+        "word": "狗头萝莉公开煎饼摊收支结余",
+        "onboard_time": 1713942077,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 144892,
+        "num": 144892,
+        "word": "朱梓骁把流星雨的戏服卖了",
+        "onboard_time": 1713949218,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135754,
+        "num": 135754,
+        "word": "承欢记",
+        "onboard_time": 1713960979,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127213,
+        "num": 127213,
+        "word": "丁俊晖 世锦赛",
+        "onboard_time": 1713958999,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122838,
+        "num": 122838,
+        "word": "发现石油",
+        "onboard_time": 1713951738,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122562,
+        "num": 122562,
+        "word": "李现又要带火一小镇了",
+        "onboard_time": 1713934399,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120861,
+        "num": 120861,
+        "word": "耙耙柑是讨好型水果吧",
+        "onboard_time": 1713938837,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120168,
+        "num": 120168,
+        "word": "张颂文捡的流浪狗",
+        "onboard_time": 1713958398,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115164,
+        "num": 115164,
+        "word": "华为Pura70已修复AI消除衣服bug",
+        "onboard_time": 1713961278,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#唱好成渝双城记打开发展新格局#"
+    }
+  }
+}

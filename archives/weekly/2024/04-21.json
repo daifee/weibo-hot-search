@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713958482115,
+  "endTime": 1713962298246,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -1915,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605637,
+      "num": 605637,
+      "word": "日本地震",
+      "onboard_time": 1713959478,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601241,
       "num": 601241,
       "word": "姚志明父亲车祸去世",
@@ -2289,6 +2297,14 @@
       "onboard_time": 1713932899,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 535164,
+      "num": 426281,
+      "word": "秦海璐霸总小说书单",
+      "onboard_time": 1713959958,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 535062,
@@ -2723,6 +2739,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 473520,
+      "num": 473520,
+      "word": "iPhone15频降价引吐槽",
+      "onboard_time": 1713956420,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 473142,
       "num": 473142,
       "word": "HYBE蒸发了一个YG的市值",
@@ -2753,6 +2777,14 @@
       "onboard_time": 1713743356,
       "rank": 13,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 470012,
+      "num": 470012,
+      "word": "福宝已开始在外场采食",
+      "onboard_time": 1713961158,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469186,
@@ -3291,14 +3323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400442,
-      "num": 400442,
-      "word": "iPhone15频降价引吐槽",
-      "onboard_time": 1713956420,
-      "rank": 23,
-      "category": "数码"
-    },
-    {
       "raw_hot": 400051,
       "num": 532244,
       "word": "网文作家已成90后的热门兼职",
@@ -3345,6 +3369,14 @@
       "onboard_time": 1713697336,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 393960,
+      "num": 393960,
+      "word": "承欢记大结局",
+      "onboard_time": 1713961398,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 392691,
@@ -3675,6 +3707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352774,
+      "num": 352774,
+      "word": "张予曦三公造型曝光",
+      "onboard_time": 1713958520,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351289,
       "num": 311600,
       "word": "上海一骑行活动赫本含量严重超标",
@@ -3851,6 +3891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334856,
+      "num": 334856,
+      "word": "五月天假唱风波调查近5个月没结果",
+      "onboard_time": 1713962057,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 334543,
       "num": 334543,
       "word": "医学博士学医11年熬成脱口秀冠军",
@@ -3864,6 +3912,14 @@
       "word": "花少导演组靠秦海璐拉群",
       "onboard_time": 1713850398,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 332025,
+      "num": 332025,
+      "word": "陶昕然妈妈每天要吃够25种颜色",
+      "onboard_time": 1713960498,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -3937,6 +3993,14 @@
       "onboard_time": 1713847521,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323446,
+      "num": 323446,
+      "word": "杨幂原声台词有无字幕对比",
+      "onboard_time": 1713957557,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 323207,
@@ -4209,6 +4273,14 @@
       "onboard_time": 1713838338,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 295747,
+      "num": 295747,
+      "word": "陶喆青岛",
+      "onboard_time": 1713961037,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 295554,
@@ -4779,6 +4851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 259372,
+      "num": 259372,
+      "word": "22岁的我不舍得吃20块的外卖",
+      "onboard_time": 1713960857,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258414,
       "num": 258414,
       "word": "可乐排骨年糕",
@@ -5001,6 +5081,14 @@
       "onboard_time": 1713882739,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247239,
+      "num": 190865,
+      "word": "赵丽颖林更新缘分开始的地方",
+      "onboard_time": 1713959958,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 246571,
@@ -5683,6 +5771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219910,
+      "num": 185969,
+      "word": "田馥甄天津泡泡岛音乐节",
+      "onboard_time": 1713960498,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 219366,
       "num": 219366,
       "word": "嬛嬛美甲",
@@ -5969,14 +6065,6 @@
       "onboard_time": 1713766639,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 209504,
-      "num": 209504,
-      "word": "杨幂原声台词有无字幕对比",
-      "onboard_time": 1713957557,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 209447,
@@ -6867,6 +6955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192738,
+      "num": 192738,
+      "word": "iQOO Z9",
+      "onboard_time": 1713961698,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 192571,
       "num": 179140,
       "word": "戚薇 哪有轻而易举都是用尽全力",
@@ -7339,6 +7435,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184738,
+      "num": 184738,
+      "word": "这些退货理由是要把人笑死吗",
+      "onboard_time": 1713959297,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 184705,
+      "num": 184705,
+      "word": "东亚小孩其实很容易原谅父母",
+      "onboard_time": 1713961578,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184389,
       "num": 184389,
       "word": "以为是陈丽君仿妆结果是本人",
@@ -7433,6 +7545,14 @@
       "onboard_time": 1713786679,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183372,
+      "num": 189262,
+      "word": "赵睿复出",
+      "onboard_time": 1713960559,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 182797,
@@ -7577,6 +7697,14 @@
       "onboard_time": 1713789799,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179426,
+      "num": 179426,
+      "word": "周琦",
+      "onboard_time": 1713961999,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 179120,
@@ -7859,6 +7987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172075,
+      "num": 172075,
+      "word": "买凤凰传奇柱子票获鸟巢票粉丝发声",
+      "onboard_time": 1713957619,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172063,
       "num": 172063,
       "word": "秦昊杨幂新剧首更6集",
@@ -8107,6 +8243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 168110,
+      "num": 168110,
+      "word": "乳腺疾病真的是被气出来的吗",
+      "onboard_time": 1713959779,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 168105,
       "num": 168105,
       "word": "Steam更新退款政策",
@@ -8297,14 +8441,6 @@
       "onboard_time": 1713954620,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164023,
-      "num": 164023,
-      "word": "买凤凰传奇柱子票获鸟巢票粉丝发声",
-      "onboard_time": 1713957619,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 163813,
@@ -10315,6 +10451,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 127213,
+      "num": 127213,
+      "word": "丁俊晖 世锦赛",
+      "onboard_time": 1713958999,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127146,
       "num": 127146,
       "word": "麦承欢与其内耗不如出手",
@@ -10651,6 +10795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120168,
+      "num": 120168,
+      "word": "张颂文捡的流浪狗",
+      "onboard_time": 1713958398,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120105,
       "num": 120105,
       "word": "江苏事业单位成绩",
@@ -10809,6 +10961,14 @@
       "onboard_time": 1713610878,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115164,
+      "num": 115164,
+      "word": "华为Pura70已修复AI消除衣服bug",
+      "onboard_time": 1713961278,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 115104,
@@ -10985,14 +11145,6 @@
       "onboard_time": 1713681199,
       "rank": 47,
       "category": "军事,国内时政"
-    },
-    {
-      "raw_hot": 108809,
-      "num": 108809,
-      "word": "张颂文捡的流浪狗",
-      "onboard_time": 1713958398,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 108743,
@@ -11932,7 +12084,7 @@
     },
     {
       "raw_hot": 34923,
-      "num": 133424,
+      "num": 341030,
       "word": "普拉多又来整治硬派越野市场了",
       "onboard_time": 1713958157,
       "rank": 40,
