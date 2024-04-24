@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1713989924579,
+  "endTime": 1713990946386,
   "band_list": [
     {
       "raw_hot": 814240,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 57509,
-      "num": 25106,
+      "num": 25257,
       "word": "丁俊晖连续4年世锦赛首轮出局",
       "onboard_time": 1713985451,
       "rank": 35,
@@ -483,12 +483,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 18200,
-      "num": 18200,
+      "raw_hot": 22237,
+      "num": 19263,
       "word": "男明星的二手东西到底谁在买",
       "onboard_time": 1713989170,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18203,
+      "num": 18203,
+      "word": "身体哪个部位最难瘦下来",
+      "onboard_time": 1713989412,
+      "rank": 29,
+      "category": "运动健身"
     },
     {
       "raw_hot": 17099,
@@ -515,7 +523,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 12724,
+      "raw_hot": 14719,
       "num": 15328,
       "word": "诛仙陆雪琪鬼厉拔刀相向",
       "onboard_time": 1713989350,
@@ -523,12 +531,12 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 12148,
-      "num": 17356,
-      "word": "身体哪个部位最难瘦下来",
-      "onboard_time": 1713989412,
-      "rank": 29,
-      "category": "运动健身"
+      "raw_hot": 11683,
+      "num": 12723,
+      "word": "用过才知道国货美妆才是细糠",
+      "onboard_time": 1713990612,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 9101,
