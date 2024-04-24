@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1713980070485,
+  "endTime": 1713982901787,
   "band_list": [
     {
       "raw_hot": 814240,
@@ -171,12 +171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188236,
+      "num": 188236,
+      "word": "日本地震",
+      "onboard_time": 1713959478,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180967,
       "num": 154379,
       "word": "读研就是在筛选过于较真的人",
       "onboard_time": 1713970760,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 175516,
+      "num": 175516,
+      "word": "破镜重圆文",
+      "onboard_time": 1713979333,
+      "rank": 19,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 161141,
@@ -209,14 +225,6 @@
       "onboard_time": 1713973878,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143798,
-      "num": 167083,
-      "word": "日本地震",
-      "onboard_time": 1713959478,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139489,
@@ -363,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77759,
+      "num": 59585,
+      "word": "2000元人参泡酒15年后发芽了",
+      "onboard_time": 1713978854,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76816,
       "num": 76816,
       "word": "小米汽车回应玻璃镀银影响信号",
@@ -387,20 +403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60721,
-      "num": 60721,
-      "word": "破镜重圆文",
-      "onboard_time": 1713979333,
-      "rank": 19,
-      "category": "读书作家,作品衍生"
-    },
-    {
       "raw_hot": 60128,
       "num": 60128,
       "word": "破墓海报",
       "onboard_time": 1713975917,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 58392,
+      "num": 58392,
+      "word": "狗头萝莉自曝找到员工了",
+      "onboard_time": 1713981973,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 55356,
@@ -411,11 +427,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51110,
-      "num": 55270,
-      "word": "2000元人参泡酒15年后发芽了",
-      "onboard_time": 1713978854,
-      "rank": 46,
+      "raw_hot": 50129,
+      "num": 36561,
+      "word": "深圳现暴雨天给绿植浇水引质疑",
+      "onboard_time": 1713980352,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -443,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26254,
+      "num": 31847,
+      "word": "杨幂说关雪不是好人",
+      "onboard_time": 1713969259,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 9101,
       "num": 602678,
       "word": "万千气象看山西",
@@ -454,6 +478,9 @@
   "hotgov_list": [
     {
       "word": "#新时代推动西部大开发座谈会#"
+    },
+    {
+      "word": "#奋力谱写西部大开发新篇章#"
     }
   ]
 }
