@@ -1,0 +1,410 @@
+{
+  "runTime": 1713947028390,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 982049,
+        "num": 982049,
+        "word": "耙耙柑是讨好型水果吧",
+        "onboard_time": 1713938837,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 836036,
+        "num": 836036,
+        "word": "狗头萝莉公开煎饼摊收支结余",
+        "onboard_time": 1713942077,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 28468,
+        "num": 734577,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706711,
+        "num": 706711,
+        "word": "沈阳发生持刀伤人嫌犯被抓",
+        "onboard_time": 1713942198,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649415,
+        "num": 649415,
+        "word": "女校长诈骗学生家长5000万后自杀身亡",
+        "onboard_time": 1713942798,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630065,
+        "num": 630065,
+        "word": "官方再通报种地交钱事件",
+        "onboard_time": 1713943338,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591486,
+        "num": 591486,
+        "word": "花少5花少1像两个团",
+        "onboard_time": 1713945018,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458337,
+        "num": 458337,
+        "word": "7岁男孩从宠物店偷狗带到17楼扔下",
+        "onboard_time": 1713941298,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339604,
+        "num": 339604,
+        "word": "LPL赛制改革",
+        "onboard_time": 1713941478,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 239885,
+        "num": 338630,
+        "word": "他赌上3分之1人生建港珠澳大桥",
+        "onboard_time": 1713943218,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1109931,
+        "num": 338245,
+        "word": "Angelababy狼尾超短发",
+        "onboard_time": 1713944057,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 833150,
+        "num": 337218,
+        "word": "贾斯汀比伯为好友遭遇抢劫中枪身亡发声",
+        "onboard_time": 1713937518,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515140,
+        "num": 335118,
+        "word": "向佐把向太送的包卖了",
+        "onboard_time": 1713934280,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459810,
+        "num": 334128,
+        "word": "卢昱晓单肩黑裙",
+        "onboard_time": 1713943518,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 408755,
+        "num": 333436,
+        "word": "宋轶漫画身材",
+        "onboard_time": 1713942558,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365529,
+        "num": 331947,
+        "word": "李现又要带火一小镇了",
+        "onboard_time": 1713934399,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331739,
+        "num": 331739,
+        "word": "iPhone16或将变秃",
+        "onboard_time": 1713929537,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 316693,
+        "num": 316693,
+        "word": "沈阳铁西",
+        "onboard_time": 1713940696,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295490,
+        "num": 295490,
+        "word": "金卡戴珊疑因霉霉新歌掉粉130万",
+        "onboard_time": 1713938597,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252264,
+        "num": 252264,
+        "word": "种地交钱被免干部涉嫌学历造假",
+        "onboard_time": 1713937937,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94162,
+        "num": 237540,
+        "word": "88VIP退货包运费",
+        "onboard_time": 1713945497,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 264772,
+        "num": 237501,
+        "word": "女子疑租到串串房1月后流鼻血退租被拒",
+        "onboard_time": 1713943938,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259772,
+        "num": 237467,
+        "word": "运动瘦了45斤后变化有多大",
+        "onboard_time": 1713933320,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 237425,
+        "num": 237425,
+        "word": "金价又跌了",
+        "onboard_time": 1713934519,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 199971,
+        "num": 199971,
+        "word": "高君雨全网账号被禁",
+        "onboard_time": 1713946757,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 199593,
+        "num": 199593,
+        "word": "赵奕欢为假睫毛和美甲道歉",
+        "onboard_time": 1713945497,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188161,
+        "num": 188161,
+        "word": "SEVENTEEN 孙悟空",
+        "onboard_time": 1713945379,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171057,
+        "num": 171057,
+        "word": "继父对女儿的掏心窝子话",
+        "onboard_time": 1713943218,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170260,
+        "num": 170260,
+        "word": "吃了止痛药以为病好了的小猫",
+        "onboard_time": 1713944478,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170164,
+        "num": 170164,
+        "word": "LPL开启全局BP",
+        "onboard_time": 1713943638,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167198,
+        "num": 167198,
+        "word": "玲花给买到柱子票的粉丝留了鸟巢的票",
+        "onboard_time": 1713946878,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167043,
+        "num": 167043,
+        "word": "跟女朋友吃饭还是要并排坐",
+        "onboard_time": 1713944117,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160197,
+        "num": 160197,
+        "word": "被特斯拉毁约应届生回应",
+        "onboard_time": 1713934519,
+        "rank": 32,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 150879,
+        "num": 150879,
+        "word": "刘涛想认赵昭仪当闺女",
+        "onboard_time": 1713940818,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149448,
+        "num": 149448,
+        "word": "布林肯",
+        "onboard_time": 1713946098,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141821,
+        "num": 141821,
+        "word": "一诺登上央视",
+        "onboard_time": 1713937578,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141202,
+        "num": 141202,
+        "word": "凤凰传奇演唱会柱子票退一赔三被拒",
+        "onboard_time": 1713933619,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140717,
+        "num": 140717,
+        "word": "大侦探一直在用自己的方式发声",
+        "onboard_time": 1713942977,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142483,
+        "num": 139858,
+        "word": "刘涛英文",
+        "onboard_time": 1713943998,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135672,
+        "num": 135672,
+        "word": "第一批推出甘肃麻辣烫的商家赚钱了吗",
+        "onboard_time": 1713944537,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128974,
+        "num": 128974,
+        "word": "被田晓慧分手刀麻了",
+        "onboard_time": 1713932899,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128272,
+        "num": 128272,
+        "word": "秦岚张翰尬聊",
+        "onboard_time": 1713938779,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127767,
+        "num": 127767,
+        "word": "美议员承认TikTok剥离法案就是禁令",
+        "onboard_time": 1713933440,
+        "rank": 42,
+        "category": "国外时政,互联网"
+      },
+      {
+        "raw_hot": 28850,
+        "num": 123085,
+        "word": "宋妍霏坐副驾上倒车",
+        "onboard_time": 1713946578,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85431,
+        "num": 121536,
+        "word": "OPPO K12发布会",
+        "onboard_time": 1713945198,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 120420,
+        "num": 120420,
+        "word": "大麦网回应凤凰传奇演唱会买到柱子票",
+        "onboard_time": 1713940637,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115534,
+        "num": 115534,
+        "word": "大牌化妆品价格向国货看齐",
+        "onboard_time": 1713946339,
+        "rank": 46,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 106187,
+        "num": 106187,
+        "word": "向佐晒出5年前的结婚伴手礼",
+        "onboard_time": 1713940458,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105760,
+        "num": 105760,
+        "word": "TF三代出道战嘉宾或为TFBOYS",
+        "onboard_time": 1713936078,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104755,
+        "num": 104755,
+        "word": "SHINee演唱会 standing空位",
+        "onboard_time": 1713946998,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代推动西部大开发座谈会#"
+    }
+  }
+}

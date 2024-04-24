@@ -1,6 +1,6 @@
 {
   "startTime": 1713889329936,
-  "endTime": 1713944081361,
+  "endTime": 1713947028390,
   "band_list": [
     {
       "raw_hot": 1655451,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1109931,
+      "num": 338245,
+      "word": "Angelababy狼尾超短发",
+      "onboard_time": 1713944057,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1054120,
       "num": 1054120,
       "word": "李闽轩回应",
@@ -128,6 +136,14 @@
       "word": "狗头萝莉招人",
       "onboard_time": 1713933619,
       "rank": 3,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 836036,
+      "num": 836036,
+      "word": "狗头萝莉公开煎饼摊收支结余",
+      "onboard_time": 1713942077,
+      "rank": 16,
       "category": "网红"
     },
     {
@@ -211,6 +227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 649415,
+      "num": 649415,
+      "word": "女校长诈骗学生家长5000万后自杀身亡",
+      "onboard_time": 1713942798,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 646492,
       "num": 646492,
       "word": "李闽轩称早已决定放弃报考北电",
@@ -233,6 +257,14 @@
       "onboard_time": 1713875839,
       "rank": 49,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 630065,
+      "num": 630065,
+      "word": "官方再通报种地交钱事件",
+      "onboard_time": 1713943338,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 623911,
@@ -259,20 +291,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591486,
+      "num": 591486,
+      "word": "花少5花少1像两个团",
+      "onboard_time": 1713945018,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 590199,
       "num": 590199,
       "word": "沈阳铁西",
       "onboard_time": 1713940696,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 586823,
-      "num": 586823,
-      "word": "狗头萝莉公开煎饼摊收支结余",
-      "onboard_time": 1713942077,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 586039,
@@ -395,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 459810,
+      "num": 334128,
+      "word": "卢昱晓单肩黑裙",
+      "onboard_time": 1713943518,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 449296,
       "num": 488307,
       "word": "神十八航天员首次亮相",
@@ -443,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 428630,
-      "num": 428630,
-      "word": "官方再通报种地交钱事件",
-      "onboard_time": 1713943338,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 424581,
       "num": 415855,
       "word": "黄子韬向佐在大理相遇了",
@@ -491,6 +523,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 408755,
+      "num": 367048,
+      "word": "宋轶漫画身材",
+      "onboard_time": 1713942558,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 406287,
       "num": 187293,
       "word": "田馥甄 音乐节",
@@ -529,14 +569,6 @@
       "onboard_time": 1713876498,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 367048,
-      "num": 367048,
-      "word": "宋轶漫画身材",
-      "onboard_time": 1713942558,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 365852,
@@ -843,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264772,
+      "num": 237501,
+      "word": "女子疑租到串串房1月后流鼻血退租被拒",
+      "onboard_time": 1713943938,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247879,
       "num": 247879,
       "word": "轻断食吃了11根玉米",
@@ -851,12 +891,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 247397,
-      "num": 247397,
-      "word": "女校长诈骗学生家长5000万后自杀身亡",
-      "onboard_time": 1713942798,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 239885,
+      "num": 443358,
+      "word": "他赌上3分之1人生建港珠澳大桥",
+      "onboard_time": 1713943218,
+      "rank": 9,
+      "category": "科学科普"
     },
     {
       "raw_hot": 238155,
@@ -1059,12 +1099,20 @@
       "category": "国内时政,科学科普"
     },
     {
-      "raw_hot": 200735,
-      "num": 200735,
-      "word": "卢昱晓单肩黑裙",
-      "onboard_time": 1713943518,
-      "rank": 27,
-      "category": "作品衍生"
+      "raw_hot": 199971,
+      "num": 199971,
+      "word": "高君雨全网账号被禁",
+      "onboard_time": 1713946757,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 199593,
+      "num": 199593,
+      "word": "赵奕欢为假睫毛和美甲道歉",
+      "onboard_time": 1713945497,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 199511,
@@ -1169,6 +1217,14 @@
       "onboard_time": 1713922936,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188161,
+      "num": 188161,
+      "word": "SEVENTEEN 孙悟空",
+      "onboard_time": 1713945379,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 187420,
@@ -1291,11 +1347,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 171057,
+      "num": 171057,
+      "word": "继父对女儿的掏心窝子话",
+      "onboard_time": 1713943218,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170895,
       "num": 170895,
       "word": "原来真的有人靠爱好活着",
       "onboard_time": 1713935480,
       "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 170260,
+      "num": 170260,
+      "word": "吃了止痛药以为病好了的小猫",
+      "onboard_time": 1713944478,
+      "rank": 28,
       "category": "情感"
     },
     {
@@ -1313,6 +1385,14 @@
       "onboard_time": 1713878540,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 170164,
+      "num": 170164,
+      "word": "LPL开启全局BP",
+      "onboard_time": 1713943638,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 169507,
@@ -1347,19 +1427,27 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 167198,
+      "num": 167198,
+      "word": "玲花给买到柱子票的粉丝留了鸟巢的票",
+      "onboard_time": 1713946878,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 167043,
+      "num": 167043,
+      "word": "跟女朋友吃饭还是要并排坐",
+      "onboard_time": 1713944117,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166993,
       "num": 166993,
       "word": "果然好的阿姨在市场是不流通的",
       "onboard_time": 1713935599,
       "rank": 40,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 166582,
-      "num": 166582,
-      "word": "继父对女儿的掏心窝子话",
-      "onboard_time": 1713943218,
-      "rank": 32,
       "category": "情感"
     },
     {
@@ -1385,14 +1473,6 @@
       "onboard_time": 1713939497,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 158197,
-      "num": 443358,
-      "word": "他赌上3分之1人生建港珠澳大桥",
-      "onboard_time": 1713943218,
-      "rank": 9,
-      "category": "科学科普"
     },
     {
       "raw_hot": 158043,
@@ -1491,6 +1571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149448,
+      "num": 149448,
+      "word": "布林肯",
+      "onboard_time": 1713946098,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 148967,
       "num": 148967,
       "word": "oner燃点全国巡演",
@@ -1561,6 +1649,14 @@
       "onboard_time": 1713922157,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142483,
+      "num": 139858,
+      "word": "刘涛英文",
+      "onboard_time": 1713943998,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 142425,
@@ -1641,6 +1737,14 @@
       "onboard_time": 1713879980,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135672,
+      "num": 135672,
+      "word": "第一批推出甘肃麻辣烫的商家赚钱了吗",
+      "onboard_time": 1713944537,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 135396,
@@ -1867,12 +1971,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115436,
-      "num": 115436,
-      "word": "女子疑租到串串房1月后流鼻血退租被拒",
-      "onboard_time": 1713943938,
+      "raw_hot": 115534,
+      "num": 115534,
+      "word": "大牌化妆品价格向国货看齐",
+      "onboard_time": 1713946339,
       "rank": 46,
-      "category": "社会新闻"
+      "category": "美妆,财经"
     },
     {
       "raw_hot": 114574,
@@ -1881,14 +1985,6 @@
       "onboard_time": 1713921557,
       "rank": 46,
       "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 114048,
-      "num": 114048,
-      "word": "Angelababy狼尾超短发",
-      "onboard_time": 1713944057,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 112571,
@@ -1907,28 +2003,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 111352,
-      "num": 111352,
-      "word": "LPL开启全局BP",
-      "onboard_time": 1713943638,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 111006,
       "num": 111006,
       "word": "优酷发布白夜剧场片单",
       "onboard_time": 1713928037,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 110515,
-      "num": 110515,
-      "word": "刘涛英文",
-      "onboard_time": 1713943998,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 109468,
@@ -1969,6 +2049,14 @@
       "onboard_time": 1713888617,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104755,
+      "num": 104755,
+      "word": "SHINee演唱会 standing空位",
+      "onboard_time": 1713946998,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 104611,
@@ -2035,6 +2123,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 94162,
+      "num": 237540,
+      "word": "88VIP退货包运费",
+      "onboard_time": 1713945497,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 92647,
       "num": 100954,
       "word": "东方红一号发射54周年",
@@ -2081,6 +2177,14 @@
       "onboard_time": 1713884480,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85431,
+      "num": 121536,
+      "word": "OPPO K12发布会",
+      "onboard_time": 1713945198,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 84035,
@@ -2217,6 +2321,14 @@
       "onboard_time": 1713927617,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28850,
+      "num": 123085,
+      "word": "宋妍霏坐副驾上倒车",
+      "onboard_time": 1713946578,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 24935,
