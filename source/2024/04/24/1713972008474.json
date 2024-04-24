@@ -1,0 +1,402 @@
+{
+  "runTime": 1713972008474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 982712,
+        "num": 982712,
+        "word": "唐家三少宣布停更",
+        "onboard_time": 1713965540,
+        "rank": 0,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 662898,
+        "num": 662898,
+        "word": "大麦网已退票退款",
+        "onboard_time": 1713952578,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 536069,
+        "num": 536069,
+        "word": "玲花 维权是你们的权利",
+        "onboard_time": 1713947778,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 457630,
+        "num": 457630,
+        "word": "深圳暴雨",
+        "onboard_time": 1713968359,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417429,
+        "num": 417429,
+        "word": "陆虎直播",
+        "onboard_time": 1713971120,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391509,
+        "num": 391509,
+        "word": "金价下跌有人卖了一百多万金条",
+        "onboard_time": 1713950599,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 310400,
+        "num": 310400,
+        "word": "春色寄情人 多机位吻戏",
+        "onboard_time": 1713966799,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295431,
+        "num": 295431,
+        "word": "ive预告",
+        "onboard_time": 1713968359,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142917,
+        "num": 293237,
+        "word": "手机里存了3个月的照片终于删了",
+        "onboard_time": 1713952039,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 934336,
+        "num": 290078,
+        "word": "拼多多涉不正当竞争被判赔500万",
+        "onboard_time": 1713963739,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 344623,
+        "num": 288047,
+        "word": "Angelababy狼尾超短发",
+        "onboard_time": 1713944057,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 329739,
+        "num": 285453,
+        "word": "被评最美公务员干部被曝曾殴打残疾人",
+        "onboard_time": 1713956298,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305537,
+        "num": 282374,
+        "word": "玲花 换位思考",
+        "onboard_time": 1713970519,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 298870,
+        "num": 277061,
+        "word": "秦海璐霸总小说书单",
+        "onboard_time": 1713959958,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276770,
+        "num": 276770,
+        "word": "长期吃铝包子或引发肝肾损伤",
+        "onboard_time": 1713948199,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 260775,
+        "num": 260775,
+        "word": "卢昱晓冷艳千金妆",
+        "onboard_time": 1713965478,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255847,
+        "num": 255847,
+        "word": "花少好友记冷场",
+        "onboard_time": 1713963620,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226546,
+        "num": 226546,
+        "word": "福宝已开始在外场采食",
+        "onboard_time": 1713961158,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215212,
+        "num": 215212,
+        "word": "冠军赛叶诗文200蛙夺冠",
+        "onboard_time": 1713968960,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1483325,
+        "num": 214967,
+        "word": "田馥甄发微博",
+        "onboard_time": 1713964220,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237605,
+        "num": 214066,
+        "word": "88VIP真香",
+        "onboard_time": 1713967221,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1234571,
+        "num": 213252,
+        "word": "男子多次性侵前女友11岁女儿获刑16年",
+        "onboard_time": 1713968059,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849483,
+        "num": 212116,
+        "word": "微信区分单删互删",
+        "onboard_time": 1713968659,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 287934,
+        "num": 211304,
+        "word": "养7年狗被偷找到时只剩20斤残肢",
+        "onboard_time": 1713966019,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264087,
+        "num": 211165,
+        "word": "读研就是在筛选过于较真的人",
+        "onboard_time": 1713970760,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 219192,
+        "num": 210081,
+        "word": "身份证号码中包含X该如何买票",
+        "onboard_time": 1713964878,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 209704,
+        "num": 209704,
+        "word": "承欢记大结局",
+        "onboard_time": 1713961398,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204235,
+        "num": 204235,
+        "word": "春色寄情人",
+        "onboard_time": 1713970160,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58122,
+        "num": 189007,
+        "word": "沈阳发生持刀伤人嫌犯被抓",
+        "onboard_time": 1713942198,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188809,
+        "num": 188809,
+        "word": "这些人工合成水果又出来骗人了",
+        "onboard_time": 1713952998,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155958,
+        "num": 155958,
+        "word": "老师发现自己讲错了",
+        "onboard_time": 1713965059,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153371,
+        "num": 153371,
+        "word": "摩羯座最需要是自我认可",
+        "onboard_time": 1713969380,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151570,
+        "num": 151570,
+        "word": "中传教授说杨幂新片有惊喜",
+        "onboard_time": 1713971538,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151449,
+        "num": 151449,
+        "word": "花少第一站破碎的是张翰",
+        "onboard_time": 1713971719,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149229,
+        "num": 149229,
+        "word": "菠菜一定焯水后吃否则或引发肾损伤",
+        "onboard_time": 1713971060,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139973,
+        "num": 139973,
+        "word": "22岁的我不舍得吃20块的外卖",
+        "onboard_time": 1713960857,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138971,
+        "num": 138971,
+        "word": "可以这样亲我吗李现",
+        "onboard_time": 1713971719,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134199,
+        "num": 134199,
+        "word": "杨幂说自己是海带结",
+        "onboard_time": 1713966019,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130576,
+        "num": 130576,
+        "word": "文俊辉 NPC",
+        "onboard_time": 1713967340,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127660,
+        "num": 127660,
+        "word": "普拉多价格",
+        "onboard_time": 1713967461,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126696,
+        "num": 126696,
+        "word": "刘宇发了INTO1",
+        "onboard_time": 1713966498,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123140,
+        "num": 123140,
+        "word": "郑恺 当跑男都需要干什么",
+        "onboard_time": 1713964279,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123711,
+        "num": 123125,
+        "word": "赵丽颖林更新缘分开始的地方",
+        "onboard_time": 1713959958,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122886,
+        "num": 122886,
+        "word": "杨幂说关雪不是好人",
+        "onboard_time": 1713969259,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121699,
+        "num": 121699,
+        "word": "以色列",
+        "onboard_time": 1713971839,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 119373,
+        "num": 119373,
+        "word": "五一去哪里玩人少省钱又好玩",
+        "onboard_time": 1713968299,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 115867,
+        "num": 115867,
+        "word": "小米汽车回应玻璃镀银影响信号",
+        "onboard_time": 1713971658,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 112849,
+        "num": 112849,
+        "word": "宋亚轩P的宋亚轩",
+        "onboard_time": 1713967880,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105799,
+        "num": 105799,
+        "word": "唐家三少作品累计字数超3467万",
+        "onboard_time": 1713970760,
+        "rank": 49,
+        "category": "读书作家,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步全面深化改革开放#"
+    }
+  }
+}

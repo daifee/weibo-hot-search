@@ -1,6 +1,6 @@
 {
   "startTime": 1713889329936,
-  "endTime": 1713969430545,
+  "endTime": 1713972008474,
   "band_list": [
     {
       "raw_hot": 2626146,
@@ -115,6 +115,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 1234571,
+      "num": 245743,
+      "word": "男子多次性侵前女友11岁女儿获刑16年",
+      "onboard_time": 1713968059,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1146776,
       "num": 473615,
       "word": "向佐把向太送的包卖了",
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 849483,
+      "num": 231589,
+      "word": "微信区分单删互删",
+      "onboard_time": 1713968659,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 845876,
       "num": 845876,
       "word": "五月天官宣鸟巢开十场",
@@ -256,14 +272,6 @@
       "word": "多所高校学生因悬挂床帘被实名通报",
       "onboard_time": 1713917719,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 818379,
-      "num": 245743,
-      "word": "男子多次性侵前女友11岁女儿获刑16年",
-      "onboard_time": 1713968059,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -507,14 +515,6 @@
       "category": "社会新闻,汽车"
     },
     {
-      "raw_hot": 540685,
-      "num": 231589,
-      "word": "微信区分单删互删",
-      "onboard_time": 1713968659,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 539994,
       "num": 250903,
       "word": "身份证号码中包含X该如何买票",
@@ -643,6 +643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 457630,
+      "num": 457630,
+      "word": "深圳暴雨",
+      "onboard_time": 1713968359,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456795,
       "num": 456795,
       "word": "花少好友记冷场",
@@ -769,6 +777,14 @@
       "onboard_time": 1713882020,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 417429,
+      "num": 417429,
+      "word": "陆虎直播",
+      "onboard_time": 1713971120,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 411147,
@@ -1003,14 +1019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 320884,
-      "num": 406142,
-      "word": "深圳暴雨",
-      "onboard_time": 1713968359,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 319823,
       "num": 280754,
       "word": "周琦停赛2场罚款10万",
@@ -1049,6 +1057,14 @@
       "onboard_time": 1713934339,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 305537,
+      "num": 282374,
+      "word": "玲花 换位思考",
+      "onboard_time": 1713970519,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 305391,
@@ -1259,8 +1275,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260250,
-      "num": 260250,
+      "raw_hot": 264087,
+      "num": 211165,
+      "word": "读研就是在筛选过于较真的人",
+      "onboard_time": 1713970760,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 260775,
+      "num": 260775,
       "word": "卢昱晓冷艳千金妆",
       "onboard_time": 1713965478,
       "rank": 36,
@@ -1313,6 +1337,14 @@
       "onboard_time": 1713929656,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 237605,
+      "num": 347778,
+      "word": "88VIP真香",
+      "onboard_time": 1713967221,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 235859,
@@ -1409,6 +1441,14 @@
       "onboard_time": 1713929598,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215212,
+      "num": 215212,
+      "word": "冠军赛叶诗文200蛙夺冠",
+      "onboard_time": 1713968960,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 214995,
@@ -1537,6 +1577,14 @@
       "onboard_time": 1713941057,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204235,
+      "num": 204235,
+      "word": "春色寄情人",
+      "onboard_time": 1713876918,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 204191,
@@ -1697,14 +1745,6 @@
       "onboard_time": 1713891254,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 194663,
-      "num": 347778,
-      "word": "88VIP真香",
-      "onboard_time": 1713967221,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 194087,
@@ -2243,6 +2283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153371,
+      "num": 153371,
+      "word": "摩羯座最需要是自我认可",
+      "onboard_time": 1713969380,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153278,
       "num": 153278,
       "word": "韩国人期待5月的原因",
@@ -2283,6 +2331,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151570,
+      "num": 151570,
+      "word": "中传教授说杨幂新片有惊喜",
+      "onboard_time": 1713971538,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 151449,
+      "num": 151449,
+      "word": "花少第一站破碎的是张翰",
+      "onboard_time": 1713971719,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150669,
       "num": 150669,
       "word": "wvscon阵容",
@@ -2321,6 +2385,14 @@
       "onboard_time": 1713946098,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 149229,
+      "num": 149229,
+      "word": "菠菜一定焯水后吃否则或引发肾损伤",
+      "onboard_time": 1713971060,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 148967,
@@ -2465,6 +2537,14 @@
       "onboard_time": 1713918618,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138971,
+      "num": 138971,
+      "word": "可以这样亲我吗李现",
+      "onboard_time": 1713971719,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 138911,
@@ -2731,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122886,
+      "num": 122886,
+      "word": "杨幂说关雪不是好人",
+      "onboard_time": 1713969259,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122406,
       "num": 122406,
       "word": "大理发生4.3级地震",
@@ -2747,20 +2835,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121699,
+      "num": 121699,
+      "word": "以色列",
+      "onboard_time": 1713971839,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 121413,
       "num": 121413,
       "word": "悬疑剧取景地不用只在东北了",
       "onboard_time": 1713933199,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120973,
-      "num": 120973,
-      "word": "冠军赛叶诗文200蛙夺冠",
-      "onboard_time": 1713968960,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 120873,
@@ -2809,14 +2897,6 @@
       "onboard_time": 1713936318,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 118173,
-      "num": 118173,
-      "word": "摩羯座最需要是自我认可",
-      "onboard_time": 1713969380,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 117663,
@@ -2875,12 +2955,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115724,
-      "num": 115724,
-      "word": "杨幂说关雪不是好人",
-      "onboard_time": 1713969259,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 115867,
+      "num": 115867,
+      "word": "小米汽车回应玻璃镀银影响信号",
+      "onboard_time": 1713971658,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 115534,
@@ -2969,6 +3049,14 @@
       "onboard_time": 1713888617,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105799,
+      "num": 105799,
+      "word": "唐家三少作品累计字数超3467万",
+      "onboard_time": 1713970760,
+      "rank": 49,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 104611,
@@ -3323,14 +3411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24441,
-      "num": 27540,
-      "word": "春色寄情人",
-      "onboard_time": 1713876918,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 19747,
       "num": 19747,
       "word": "小团团掉粉近50万",
@@ -3381,6 +3461,9 @@
     },
     {
       "word": "#奋力谱写西部大开发新篇章#"
+    },
+    {
+      "word": "#进一步全面深化改革开放#"
     }
   ]
 }
