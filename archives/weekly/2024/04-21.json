@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713932450993,
+  "endTime": 1713933258770,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -355,8 +355,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1369896,
-      "num": 1369896,
+      "raw_hot": 1390708,
+      "num": 1390708,
       "word": "特斯拉被曝毁约应届生",
       "onboard_time": 1713930319,
       "rank": 0,
@@ -1259,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 717601,
+      "num": 366073,
+      "word": "iPhone16或将变秃",
+      "onboard_time": 1713929537,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 712900,
       "num": 712900,
       "word": "汪曼春",
@@ -2001,6 +2009,14 @@
       "onboard_time": 1713705081,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 537421,
+      "num": 236518,
+      "word": "林更新认出了张子枫没认出黄磊",
+      "onboard_time": 1713932420,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 536310,
@@ -3027,6 +3043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390761,
+      "num": 385119,
+      "word": "赵露思带爸爸吃烤鸭",
+      "onboard_time": 1713929838,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387976,
       "num": 387976,
       "word": "只有大学生才知道这有多爽",
@@ -3057,14 +3081,6 @@
       "onboard_time": 1713798321,
       "rank": 28,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 385119,
-      "num": 385119,
-      "word": "赵露思带爸爸吃烤鸭",
-      "onboard_time": 1713929838,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 384926,
@@ -3179,14 +3195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 366073,
-      "num": 366073,
-      "word": "iPhone16或将变秃",
-      "onboard_time": 1713929537,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 365093,
       "num": 297393,
       "word": "欧豪邀请赵丽颖上岛一起受苦",
@@ -3297,6 +3305,14 @@
       "onboard_time": 1713774318,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 351289,
+      "num": 311600,
+      "word": "上海一骑行活动赫本含量严重超标",
+      "onboard_time": 1713930858,
+      "rank": 18,
+      "category": "运动健身"
     },
     {
       "raw_hot": 351078,
@@ -3491,6 +3507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 329268,
+      "num": 329268,
+      "word": "南京交管局回应骑没牌照自行车被罚50元",
+      "onboard_time": 1713931338,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329002,
       "num": 329002,
       "word": "穆雷世界名画",
@@ -3601,14 +3625,6 @@
       "onboard_time": 1713641412,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 311600,
-      "num": 311600,
-      "word": "上海一骑行活动赫本含量严重超标",
-      "onboard_time": 1713930858,
-      "rank": 18,
-      "category": "运动健身"
     },
     {
       "raw_hot": 311446,
@@ -3816,6 +3832,14 @@
       "word": "浪姐后期 尚雯婕超女梗",
       "onboard_time": 1713669078,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 293988,
+      "num": 209646,
+      "word": "青春有你国际版",
+      "onboard_time": 1713930737,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -4027,14 +4051,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 276942,
-      "num": 209646,
-      "word": "青春有你国际版",
-      "onboard_time": 1713930737,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 275644,
       "num": 275644,
       "word": "凤凰传奇 拿起荧光棒就是兵",
@@ -4081,14 +4097,6 @@
       "onboard_time": 1713863298,
       "rank": 22,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 273533,
-      "num": 273533,
-      "word": "南京交管局回应骑没牌照自行车被罚50元",
-      "onboard_time": 1713931338,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271832,
@@ -5131,6 +5139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221692,
+      "num": 221692,
+      "word": "无限暖暖首测",
+      "onboard_time": 1713932599,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 221343,
       "num": 599069,
       "word": "镇干部阻挠农民种地让交钱被免职",
@@ -5209,6 +5225,14 @@
       "onboard_time": 1713683057,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 218137,
+      "num": 218137,
+      "word": "TF家族三代出道战官宣",
+      "onboard_time": 1713929598,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 218092,
@@ -5337,14 +5361,6 @@
       "onboard_time": 1713841277,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 212043,
-      "num": 212043,
-      "word": "TF家族三代出道战官宣",
-      "onboard_time": 1713929598,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 212013,
@@ -5691,6 +5707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204375,
+      "num": 204375,
+      "word": "切实减轻中小学教师非教育教学负担",
+      "onboard_time": 1713932478,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 204157,
       "num": 204157,
       "word": "电影维和防暴队芭莎大片",
@@ -5955,6 +5979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197991,
+      "num": 197991,
+      "word": "被田晓慧分手刀麻了",
+      "onboard_time": 1713932899,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197848,
       "num": 197848,
       "word": "大英赛",
@@ -6129,6 +6161,14 @@
       "onboard_time": 1713716957,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193940,
+      "num": 193940,
+      "word": "孙耀威曹颖再穿乌龙闯情关戏服",
+      "onboard_time": 1713930978,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 193905,
@@ -6321,14 +6361,6 @@
       "onboard_time": 1713856397,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 190346,
-      "num": 190346,
-      "word": "林更新认出了张子枫没认出黄磊",
-      "onboard_time": 1713932420,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 189974,
@@ -6723,14 +6755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182815,
-      "num": 182815,
-      "word": "孙耀威曹颖再穿乌龙闯情关戏服",
-      "onboard_time": 1713930978,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 181923,
       "num": 181923,
       "word": "雷军 现场看F1换胎好震撼",
@@ -6995,6 +7019,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 176389,
+      "num": 176389,
+      "word": "小说界的天花板",
+      "onboard_time": 1713930737,
+      "rank": 41,
+      "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 176271,
+      "num": 176271,
+      "word": "中医建议补气血要按顺序",
+      "onboard_time": 1713931159,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 176137,
       "num": 176137,
       "word": "詹姆斯长传艺术家",
@@ -7065,6 +7105,14 @@
       "onboard_time": 1713759018,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 173924,
+      "num": 173924,
+      "word": "iPad",
+      "onboard_time": 1713932299,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 173392,
@@ -7241,14 +7289,6 @@
       "onboard_time": 1713878540,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 169659,
-      "num": 169659,
-      "word": "中医建议补气血要按顺序",
-      "onboard_time": 1713931159,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 169577,
@@ -7505,6 +7545,14 @@
       "onboard_time": 1713850398,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163495,
+      "num": 163495,
+      "word": "刚出生十几天的小金毛",
+      "onboard_time": 1713931520,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 162872,
@@ -7939,14 +7987,6 @@
       "category": "教育,网红"
     },
     {
-      "raw_hot": 154300,
-      "num": 154300,
-      "word": "小说界的天花板",
-      "onboard_time": 1713930737,
-      "rank": 41,
-      "category": "读书作家,作品衍生"
-    },
-    {
       "raw_hot": 154195,
       "num": 154195,
       "word": "海产姐妹再度强强对决",
@@ -8203,14 +8243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149258,
-      "num": 149258,
-      "word": "刚出生十几天的小金毛",
-      "onboard_time": 1713931520,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 149251,
       "num": 130437,
       "word": "AG写给一诺的六周年祝福",
@@ -8417,6 +8449,14 @@
       "onboard_time": 1713854297,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145201,
+      "num": 145201,
+      "word": "RNG大名单移除Breathe",
+      "onboard_time": 1713932959,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 145039,
@@ -8947,14 +8987,6 @@
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 134754,
-      "num": 134754,
-      "word": "iPad",
-      "onboard_time": 1713932299,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 134727,
       "num": 134727,
       "word": "林少华建议少看日本文学",
@@ -9283,6 +9315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127032,
+      "num": 127032,
+      "word": "宋亚轩要联合起来推翻导演",
+      "onboard_time": 1713933140,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126936,
       "num": 126936,
       "word": "在山东没有放不起来的风筝",
@@ -9497,6 +9537,14 @@
       "onboard_time": 1713858197,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121413,
+      "num": 121413,
+      "word": "悬疑剧取景地不用只在东北了",
+      "onboard_time": 1713933199,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 120873,
@@ -10595,6 +10643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 40814,
+      "num": 732190,
+      "word": "万千气象看上海",
+      "onboard_time": 1713928217,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40735,
       "num": 175079,
       "word": "当代人的购物后悔药",
@@ -10617,14 +10673,6 @@
       "onboard_time": 1713867438,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 37254,
-      "num": 732190,
-      "word": "万千气象看上海",
-      "onboard_time": 1713928217,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37233,
