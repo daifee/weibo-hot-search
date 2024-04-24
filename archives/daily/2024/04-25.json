@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1713997161600,
+  "endTime": 1713998087677,
   "band_list": [
     {
       "raw_hot": 814240,
@@ -195,12 +195,28 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 166795,
+      "num": 166795,
+      "word": "这些人工合成水果又出来骗人了",
+      "onboard_time": 1713952998,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161141,
       "num": 161141,
       "word": "深圳暴雨",
       "onboard_time": 1713968359,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157489,
+      "num": 157489,
+      "word": "狗头萝莉自曝找到员工了",
+      "onboard_time": 1713981973,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 154241,
@@ -227,14 +243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143502,
-      "num": 61687,
-      "word": "狗头萝莉自曝找到员工了",
-      "onboard_time": 1713981973,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 139489,
       "num": 139489,
       "word": "卢昱晓冷艳千金妆",
@@ -259,6 +267,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 124964,
+      "num": 96686,
+      "word": "2000元人参泡酒15年后发芽了",
+      "onboard_time": 1713978854,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124484,
       "num": 119423,
       "word": "秦海璐刘涛 我带你梦想成真",
@@ -267,20 +283,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122716,
+      "num": 92537,
+      "word": "丁俊晖连续4年世锦赛首轮出局",
+      "onboard_time": 1713985451,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120065,
       "num": 120065,
       "word": "ive预告",
       "onboard_time": 1713968359,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 116544,
-      "num": 116544,
-      "word": "这些人工合成水果又出来骗人了",
-      "onboard_time": 1713952998,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113104,
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87523,
+      "num": 87523,
+      "word": "深圳现暴雨天给绿植浇水引质疑",
+      "onboard_time": 1713980352,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86867,
       "num": 86867,
       "word": "长期吃铝包子或引发肝肾损伤",
@@ -363,14 +387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 84438,
-      "num": 58142,
-      "word": "丁俊晖连续4年世锦赛首轮出局",
-      "onboard_time": 1713985451,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83137,
       "num": 83137,
       "word": "韩维辰镜头",
@@ -385,14 +401,6 @@
       "onboard_time": 1713963620,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77759,
-      "num": 59585,
-      "word": "2000元人参泡酒15年后发芽了",
-      "onboard_time": 1713978854,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76816,
@@ -419,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 63166,
-      "num": 50240,
-      "word": "深圳现暴雨天给绿植浇水引质疑",
-      "onboard_time": 1713980352,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60128,
       "num": 60128,
       "word": "破墓海报",
@@ -451,28 +451,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40898,
-      "num": 40898,
-      "word": "小米回应SU7翼子板脱落原因",
-      "onboard_time": 1713979274,
-      "rank": 40,
-      "category": "汽车"
+      "raw_hot": 47735,
+      "num": 47735,
+      "word": "金晨口技",
+      "onboard_time": 1713995291,
+      "rank": 25,
+      "category": "艺人"
     },
     {
-      "raw_hot": 34656,
-      "num": 34656,
+      "raw_hot": 43830,
+      "num": 43830,
       "word": "男明星的二手东西到底谁在买",
       "onboard_time": 1713989170,
       "rank": 27,
       "category": "艺人"
     },
     {
-      "raw_hot": 33098,
-      "num": 33098,
-      "word": "金晨口技",
-      "onboard_time": 1713995291,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 40898,
+      "num": 40898,
+      "word": "小米回应SU7翼子板脱落原因",
+      "onboard_time": 1713979274,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 31378,
@@ -483,12 +483,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 28535,
-      "num": 28535,
+      "raw_hot": 31363,
+      "num": 31363,
       "word": "身体哪个部位最难瘦下来",
       "onboard_time": 1713989412,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 30833,
+      "num": 30833,
+      "word": "每天1杯柠檬水身体会有何变化",
+      "onboard_time": 1713987250,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 28315,
@@ -499,12 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26363,
-      "num": 26363,
-      "word": "每天1杯柠檬水身体会有何变化",
-      "onboard_time": 1713987250,
-      "rank": 24,
-      "category": "健康医疗"
+      "raw_hot": 26868,
+      "num": 26868,
+      "word": "斯里兰卡卖花男孩穿人字拖奔跑",
+      "onboard_time": 1713992770,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 26311,
@@ -515,24 +523,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20963,
-      "num": 20963,
-      "word": "斯里兰卡卖花男孩穿人字拖奔跑",
-      "onboard_time": 1713992770,
-      "rank": 45,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 20168,
-      "num": 20168,
+      "raw_hot": 23210,
+      "num": 23727,
       "word": "诛仙陆雪琪鬼厉拔刀相向",
       "onboard_time": 1713989350,
       "rank": 43,
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 18077,
-      "num": 19133,
+      "raw_hot": 19555,
+      "num": 22886,
       "word": "生气时身体器官变化全过程",
       "onboard_time": 1713986413,
       "rank": 40,
