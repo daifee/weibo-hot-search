@@ -1,0 +1,410 @@
+{
+  "runTime": 1714001670612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 780162,
+        "num": 780162,
+        "word": "男孩骑车失误刹车把手插进大腿里",
+        "onboard_time": 1713974117,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539897,
+        "num": 539897,
+        "word": "花少第一站破碎的是张翰",
+        "onboard_time": 1713971719,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6332,
+        "num": 526716,
+        "word": "万千气象看山西",
+        "onboard_time": 1713842298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526036,
+        "num": 526036,
+        "word": "狗头萝莉自曝找到员工了",
+        "onboard_time": 1713981973,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 397583,
+        "num": 397583,
+        "word": "这些人工合成水果又出来骗人了",
+        "onboard_time": 1713952998,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352806,
+        "num": 352806,
+        "word": "2000元人参泡酒15年后发芽了",
+        "onboard_time": 1713978854,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285756,
+        "num": 285756,
+        "word": "唐家三少宣布停更",
+        "onboard_time": 1713965540,
+        "rank": 6,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 274196,
+        "num": 274196,
+        "word": "大麦网已退票退款",
+        "onboard_time": 1713952578,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237946,
+        "num": 237946,
+        "word": "以色列",
+        "onboard_time": 1713971839,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 191463,
+        "num": 236326,
+        "word": "金价下跌有人卖了一百多万金条",
+        "onboard_time": 1713950599,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 321240,
+        "num": 232796,
+        "word": "丁俊晖连续4年世锦赛首轮出局",
+        "onboard_time": 1713985451,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260806,
+        "num": 227061,
+        "word": "特斯拉市值一夜大涨4028亿",
+        "onboard_time": 1714000575,
+        "rank": 11,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 249925,
+        "num": 224227,
+        "word": "深圳现暴雨天给绿植浇水引质疑",
+        "onboard_time": 1713980352,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222397,
+        "num": 222397,
+        "word": "买长乘短是一种不折不扣的双输",
+        "onboard_time": 1713972858,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 203505,
+        "num": 203505,
+        "word": "官方通报海南3个小孩被锁家里",
+        "onboard_time": 1714000936,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197873,
+        "num": 197873,
+        "word": "菠菜一定焯水后吃否则或引发肾损伤",
+        "onboard_time": 1713971060,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169953,
+        "num": 169953,
+        "word": "拼多多涉不正当竞争被判赔500万",
+        "onboard_time": 1713963739,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 167483,
+        "num": 167483,
+        "word": "章子怡 我的职业生涯不必在意",
+        "onboard_time": 1713974778,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152207,
+        "num": 152207,
+        "word": "埃弗顿2比0利物浦",
+        "onboard_time": 1714000634,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130691,
+        "num": 130691,
+        "word": "被评最美公务员干部被曝曾殴打残疾人",
+        "onboard_time": 1713956298,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553852,
+        "num": 130515,
+        "word": "男子多次性侵前女友11岁女儿获刑16年",
+        "onboard_time": 1713968059,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461588,
+        "num": 130120,
+        "word": "田馥甄发微博",
+        "onboard_time": 1713964220,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171568,
+        "num": 129927,
+        "word": "微信区分单删互删",
+        "onboard_time": 1713968659,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127797,
+        "num": 127797,
+        "word": "唐家三少回应停更",
+        "onboard_time": 1714001236,
+        "rank": 23,
+        "category": "读书作家,网红"
+      },
+      {
+        "raw_hot": 124857,
+        "num": 124857,
+        "word": "养7年狗被偷找到时只剩20斤残肢",
+        "onboard_time": 1713966019,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116923,
+        "num": 116923,
+        "word": "Angelababy狼尾超短发",
+        "onboard_time": 1713944057,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105732,
+        "num": 105732,
+        "word": "秦海璐霸总小说书单",
+        "onboard_time": 1713959958,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97327,
+        "num": 97327,
+        "word": "男明星的二手东西到底谁在买",
+        "onboard_time": 1713989170,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92106,
+        "num": 92106,
+        "word": "承欢记大结局",
+        "onboard_time": 1713961398,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74668,
+        "num": 82969,
+        "word": "身体哪个部位最难瘦下来",
+        "onboard_time": 1713989412,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 82871,
+        "num": 82871,
+        "word": "读研就是在筛选过于较真的人",
+        "onboard_time": 1713970760,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 81800,
+        "num": 81800,
+        "word": "剧里把别人整碎 剧外自己快碎了",
+        "onboard_time": 1714000036,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71839,
+        "num": 71839,
+        "word": "每天1杯柠檬水身体会有何变化",
+        "onboard_time": 1713987250,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67165,
+        "num": 67165,
+        "word": "深圳暴雨",
+        "onboard_time": 1713968359,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62145,
+        "num": 62145,
+        "word": "日本地震",
+        "onboard_time": 1713959478,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61031,
+        "num": 61031,
+        "word": "老舅是张若昀的开关",
+        "onboard_time": 1713973878,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59550,
+        "num": 59550,
+        "word": "摩羯座最需要是自我认可",
+        "onboard_time": 1713969380,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58462,
+        "num": 58462,
+        "word": "福宝已开始在外场采食",
+        "onboard_time": 1713961158,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58763,
+        "num": 57397,
+        "word": "小米回应SU7翼子板脱落原因",
+        "onboard_time": 1713979274,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 54367,
+        "num": 54367,
+        "word": "身份证号码中包含X该如何买票",
+        "onboard_time": 1713964878,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 54040,
+        "num": 54040,
+        "word": "金晨口技",
+        "onboard_time": 1713995291,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52508,
+        "num": 52508,
+        "word": "卢昱晓冷艳千金妆",
+        "onboard_time": 1713965478,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52190,
+        "num": 52190,
+        "word": "可以这样亲我吗李现",
+        "onboard_time": 1713971719,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51853,
+        "num": 51853,
+        "word": "22岁的我不舍得吃20块的外卖",
+        "onboard_time": 1713960857,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50369,
+        "num": 50369,
+        "word": "庞博工作室比庞博还好笑",
+        "onboard_time": 1714001596,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49518,
+        "num": 49518,
+        "word": "赵丽颖林更新缘分开始的地方",
+        "onboard_time": 1713959958,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 46694,
+        "num": 46694,
+        "word": "田馥甄天津泡泡岛音乐节",
+        "onboard_time": 1713960498,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45094,
+        "num": 46689,
+        "word": "玲花 维权是你们的权利",
+        "onboard_time": 1713947778,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45027,
+        "num": 46672,
+        "word": "陈泽直播",
+        "onboard_time": 1714001416,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 44243,
+        "num": 46655,
+        "word": "诛仙陆雪琪鬼厉拔刀相向",
+        "onboard_time": 1713989350,
+        "rank": 49,
+        "category": "动漫,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于西部大开发总书记强调6个坚持#"
+    }
+  }
+}
