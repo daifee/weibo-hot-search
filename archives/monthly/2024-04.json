@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713968327351,
+  "endTime": 1713969430545,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3163,6 +3163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1251821,
+      "num": 1251821,
+      "word": "唐家三少宣布停更",
+      "onboard_time": 1713965540,
+      "rank": 38,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 1251651,
       "num": 1251651,
       "word": "32岁交了个11岁的朋友",
@@ -3257,14 +3265,6 @@
       "onboard_time": 1712411299,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1223595,
-      "num": 1223595,
-      "word": "唐家三少宣布停更",
-      "onboard_time": 1713965540,
-      "rank": 38,
-      "category": "读书作家"
     },
     {
       "raw_hot": 1222299,
@@ -7201,6 +7201,14 @@
       "onboard_time": 1712728339,
       "rank": 10,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 818379,
+      "num": 245743,
+      "word": "男子多次性侵前女友11岁女儿获刑16年",
+      "onboard_time": 1713968059,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 816939,
@@ -13731,6 +13739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540685,
+      "num": 231589,
+      "word": "微信区分单删互删",
+      "onboard_time": 1713968659,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 539994,
       "num": 250903,
       "word": "身份证号码中包含X该如何买票",
@@ -18859,6 +18875,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 425126,
+      "num": 425126,
+      "word": "ive预告",
+      "onboard_time": 1713968359,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 424953,
       "num": 424953,
       "word": "福宝躺着吃笋满身竹笋皮",
@@ -19913,6 +19937,14 @@
       "onboard_time": 1712360175,
       "rank": 11,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 399973,
+      "num": 399973,
+      "word": "春色寄情人 多机位吻戏",
+      "onboard_time": 1713966799,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 399626,
@@ -22275,14 +22307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 356508,
-      "num": 356508,
-      "word": "春色寄情人 多机位吻戏",
-      "onboard_time": 1713966799,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 356312,
       "num": 356312,
       "word": "白鹿罗云熙或三搭",
@@ -23089,6 +23113,14 @@
       "onboard_time": 1712999598,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 344721,
+      "num": 248956,
+      "word": "养7年狗被偷找到时只剩20斤残肢",
+      "onboard_time": 1713966019,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344419,
@@ -23921,14 +23953,6 @@
       "onboard_time": 1713710303,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 330090,
-      "num": 248956,
-      "word": "养7年狗被偷找到时只剩20斤残肢",
-      "onboard_time": 1713966019,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 329857,
@@ -28569,14 +28593,6 @@
       "onboard_time": 1713336737,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 272521,
-      "num": 245743,
-      "word": "男子多次性侵前女友11岁女儿获刑16年",
-      "onboard_time": 1713968059,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272463,
@@ -41251,6 +41267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194663,
+      "num": 347778,
+      "word": "88VIP真香",
+      "onboard_time": 1713967221,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 194608,
       "num": 194608,
       "word": "辽宁男篮1比0深圳男篮",
@@ -44331,6 +44355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185289,
+      "num": 185289,
+      "word": "五一去哪里玩人少省钱又好玩",
+      "onboard_time": 1713968299,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 185285,
       "num": 247076,
       "word": "伊媒称伊朗核设施未受损",
@@ -46209,6 +46241,14 @@
       "onboard_time": 1713753978,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177379,
+      "num": 177379,
+      "word": "京东主播发帖称多卖14万单担心被开",
+      "onboard_time": 1713968841,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177285,
@@ -61083,6 +61123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120973,
+      "num": 120973,
+      "word": "冠军赛叶诗文200蛙夺冠",
+      "onboard_time": 1713968960,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120939,
       "num": 120939,
       "word": "u23国足vs韩国u23",
@@ -61651,6 +61699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118173,
+      "num": 118173,
+      "word": "摩羯座最需要是自我认可",
+      "onboard_time": 1713969380,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118110,
       "num": 118110,
       "word": "ILLIT冠军秀",
@@ -62075,6 +62131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115724,
+      "num": 115724,
+      "word": "杨幂说关雪不是好人",
+      "onboard_time": 1713969259,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115534,
       "num": 115534,
       "word": "大牌化妆品价格向国货看齐",
@@ -62289,14 +62353,6 @@
       "onboard_time": 1712037618,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 114346,
-      "num": 114346,
-      "word": "五一去哪里玩人少省钱又好玩",
-      "onboard_time": 1713968299,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 114229,
@@ -64017,14 +64073,6 @@
       "onboard_time": 1713910873,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100003,
-      "num": 337546,
-      "word": "88VIP真香",
-      "onboard_time": 1713967221,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 99868,
@@ -66323,6 +66371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 64973,
+      "num": 189822,
+      "word": "有没有人能管管潍坊的风筝啊",
+      "onboard_time": 1713967159,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 64859,
       "num": 686034,
       "word": "把感动中国的故事写成一首歌",
@@ -67297,14 +67353,6 @@
       "onboard_time": 1711940421,
       "rank": 14,
       "category": "数码"
-    },
-    {
-      "raw_hot": 49423,
-      "num": 189822,
-      "word": "有没有人能管管潍坊的风筝啊",
-      "onboard_time": 1713967159,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 49209,

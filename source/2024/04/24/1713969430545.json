@@ -1,0 +1,402 @@
+{
+  "runTime": 1713969430545,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1847753,
+        "num": 1847753,
+        "word": "田馥甄发微博",
+        "onboard_time": 1713964220,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1251821,
+        "num": 1251821,
+        "word": "唐家三少宣布停更",
+        "onboard_time": 1713965540,
+        "rank": 1,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 703623,
+        "num": 703623,
+        "word": "大麦网已退票退款",
+        "onboard_time": 1713952578,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 536721,
+        "num": 536721,
+        "word": "玲花 维权是你们的权利",
+        "onboard_time": 1713947778,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 425126,
+        "num": 425126,
+        "word": "ive预告",
+        "onboard_time": 1713968359,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 415006,
+        "num": 415006,
+        "word": "花少好友记冷场",
+        "onboard_time": 1713963620,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407431,
+        "num": 407431,
+        "word": "金价下跌有人卖了一百多万金条",
+        "onboard_time": 1713950599,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 320884,
+        "num": 406142,
+        "word": "深圳暴雨",
+        "onboard_time": 1713968359,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165278,
+        "num": 404398,
+        "word": "手机里存了3个月的照片终于删了",
+        "onboard_time": 1713952039,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1349616,
+        "num": 403500,
+        "word": "拼多多涉不正当竞争被判赔500万",
+        "onboard_time": 1713963739,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 461325,
+        "num": 400461,
+        "word": "被评最美公务员干部被曝曾殴打残疾人",
+        "onboard_time": 1713956298,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399973,
+        "num": 399973,
+        "word": "春色寄情人 多机位吻戏",
+        "onboard_time": 1713966799,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314574,
+        "num": 358671,
+        "word": "福宝已开始在外场采食",
+        "onboard_time": 1713961158,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194663,
+        "num": 347778,
+        "word": "88VIP真香",
+        "onboard_time": 1713967221,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 347478,
+        "num": 347478,
+        "word": "Angelababy狼尾超短发",
+        "onboard_time": 1713944057,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 344343,
+        "num": 344343,
+        "word": "秦海璐霸总小说书单",
+        "onboard_time": 1713959958,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266842,
+        "num": 266842,
+        "word": "承欢记大结局",
+        "onboard_time": 1713961398,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239798,
+        "num": 239798,
+        "word": "郑恺 当跑男都需要干什么",
+        "onboard_time": 1713964279,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183344,
+        "num": 239079,
+        "word": "日本地震",
+        "onboard_time": 1713959478,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818379,
+        "num": 234051,
+        "word": "男子多次性侵前女友11岁女儿获刑16年",
+        "onboard_time": 1713968059,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540685,
+        "num": 231589,
+        "word": "微信区分单删互删",
+        "onboard_time": 1713968659,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 493761,
+        "num": 229359,
+        "word": "身份证号码中包含X该如何买票",
+        "onboard_time": 1713964878,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 344721,
+        "num": 224847,
+        "word": "养7年狗被偷找到时只剩20斤残肢",
+        "onboard_time": 1713966019,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224268,
+        "num": 224268,
+        "word": "卢昱晓冷艳千金妆",
+        "onboard_time": 1713965478,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210090,
+        "num": 210090,
+        "word": "长期吃铝包子或引发肝肾损伤",
+        "onboard_time": 1713948199,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208586,
+        "num": 208586,
+        "word": "这些人工合成水果又出来骗人了",
+        "onboard_time": 1713952998,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189715,
+        "num": 189715,
+        "word": "杨幂说自己是海带结",
+        "onboard_time": 1713966019,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188338,
+        "num": 188338,
+        "word": "老师发现自己讲错了",
+        "onboard_time": 1713965059,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 82312,
+        "num": 186372,
+        "word": "沈阳发生持刀伤人嫌犯被抓",
+        "onboard_time": 1713942198,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185289,
+        "num": 185289,
+        "word": "五一去哪里玩人少省钱又好玩",
+        "onboard_time": 1713968299,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 177379,
+        "num": 177379,
+        "word": "京东主播发帖称多卖14万单担心被开",
+        "onboard_time": 1713968841,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173626,
+        "num": 173626,
+        "word": "文俊辉 NPC",
+        "onboard_time": 1713967340,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64973,
+        "num": 169938,
+        "word": "有没有人能管管潍坊的风筝啊",
+        "onboard_time": 1713967159,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 169557,
+        "num": 169557,
+        "word": "宋亚轩P的宋亚轩",
+        "onboard_time": 1713967880,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169216,
+        "num": 169216,
+        "word": "普拉多价格",
+        "onboard_time": 1713967461,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155874,
+        "num": 155874,
+        "word": "宝马发布会",
+        "onboard_time": 1713965658,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 153412,
+        "num": 153412,
+        "word": "刘宇发了INTO1",
+        "onboard_time": 1713966498,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149380,
+        "num": 149380,
+        "word": "赵丽颖林更新缘分开始的地方",
+        "onboard_time": 1713959958,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141530,
+        "num": 141530,
+        "word": "顾家地位排序",
+        "onboard_time": 1713967039,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136577,
+        "num": 136577,
+        "word": "陶昕然妈妈每天要吃够25种颜色",
+        "onboard_time": 1713960498,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127612,
+        "num": 127612,
+        "word": "22岁的我不舍得吃20块的外卖",
+        "onboard_time": 1713960857,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123485,
+        "num": 123485,
+        "word": "姚志明父亲车祸去世",
+        "onboard_time": 1713952940,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121617,
+        "num": 121617,
+        "word": "你阿尼亚来了中国也得上班",
+        "onboard_time": 1713964098,
+        "rank": 43,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 120973,
+        "num": 120973,
+        "word": "冠军赛叶诗文200蛙夺冠",
+        "onboard_time": 1713968960,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120710,
+        "num": 120710,
+        "word": "周雨彤第一次在剧里强吻男主",
+        "onboard_time": 1713967400,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119772,
+        "num": 119772,
+        "word": "高君雨全网账号被禁",
+        "onboard_time": 1713946757,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 118173,
+        "num": 118173,
+        "word": "摩羯座最需要是自我认可",
+        "onboard_time": 1713969380,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116975,
+        "num": 116975,
+        "word": "实习生紧急撤回一个微笑",
+        "onboard_time": 1713962838,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115724,
+        "num": 115724,
+        "word": "杨幂说关雪不是好人",
+        "onboard_time": 1713969259,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写西部大开发新篇章#"
+    }
+  }
+}
