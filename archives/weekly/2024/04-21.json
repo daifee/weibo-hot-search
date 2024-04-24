@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713965729087,
+  "endTime": 1713968327351,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -169,6 +169,14 @@
       "onboard_time": 1713654433,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2143112,
+      "num": 2143112,
+      "word": "田馥甄发微博",
+      "onboard_time": 1713964220,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 2123213,
@@ -387,6 +395,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 1433408,
+      "num": 1433408,
+      "word": "拼多多涉不正当竞争被判赔500万",
+      "onboard_time": 1713963739,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1420882,
       "num": 352445,
       "word": "越来越多夫妻不过夫妻生活了",
@@ -507,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1223595,
+      "num": 1223595,
+      "word": "唐家三少宣布停更",
+      "onboard_time": 1713965540,
+      "rank": 38,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 1218760,
       "num": 1218760,
       "word": "白敬亭 B站",
@@ -553,14 +577,6 @@
       "onboard_time": 1713786917,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1192327,
-      "num": 1192327,
-      "word": "田馥甄发微博",
-      "onboard_time": 1713964220,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 1184063,
@@ -1233,14 +1249,6 @@
       "onboard_time": 1713678139,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 818445,
-      "num": 818445,
-      "word": "拼多多涉不正当竞争被判赔500万",
-      "onboard_time": 1713963739,
-      "rank": 6,
-      "category": "互联网"
     },
     {
       "raw_hot": 815652,
@@ -2299,6 +2307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 539994,
+      "num": 250903,
+      "word": "身份证号码中包含X该如何买票",
+      "onboard_time": 1713964878,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 539339,
       "num": 676794,
       "word": "马龙说感谢自己在0比3时没有放弃",
@@ -2907,6 +2923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456795,
+      "num": 456795,
+      "word": "花少好友记冷场",
+      "onboard_time": 1713963620,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 455209,
       "num": 455209,
       "word": "TF三代出道战即将官宣",
@@ -3460,7 +3484,7 @@
     },
     {
       "raw_hot": 390066,
-      "num": 363492,
+      "num": 378894,
       "word": "郑恺 当跑男都需要干什么",
       "onboard_time": 1713964279,
       "rank": 17,
@@ -3689,6 +3713,14 @@
       "onboard_time": 1713848361,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356508,
+      "num": 356508,
+      "word": "春色寄情人 多机位吻戏",
+      "onboard_time": 1713966799,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 356168,
@@ -3971,6 +4003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330090,
+      "num": 248956,
+      "word": "养7年狗被偷找到时只剩20斤残肢",
+      "onboard_time": 1713966019,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329814,
       "num": 329814,
       "word": "原神4.6",
@@ -4072,14 +4112,6 @@
       "word": "周星驰要上综艺了",
       "onboard_time": 1713884419,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 320868,
-      "num": 320868,
-      "word": "花少好友记冷场",
-      "onboard_time": 1713963620,
-      "rank": 23,
       "category": "综艺"
     },
     {
@@ -4691,6 +4723,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 272521,
+      "num": 245743,
+      "word": "男子多次性侵前女友11岁女儿获刑16年",
+      "onboard_time": 1713968059,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271832,
       "num": 271832,
       "word": "哪吒张勇致歉",
@@ -4897,6 +4937,14 @@
       "onboard_time": 1713625520,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 260250,
+      "num": 260250,
+      "word": "卢昱晓冷艳千金妆",
+      "onboard_time": 1713965478,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 259717,
@@ -6259,6 +6307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207370,
+      "num": 207370,
+      "word": "老师发现自己讲错了",
+      "onboard_time": 1713965059,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 207229,
       "num": 207229,
       "word": "控制早晨才能控制人生",
@@ -6323,6 +6379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206115,
+      "num": 206115,
+      "word": "杨幂说自己是海带结",
+      "onboard_time": 1713966019,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205766,
       "num": 205766,
       "word": "湖人vs掘金",
@@ -6369,6 +6433,14 @@
       "onboard_time": 1713763279,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205039,
+      "num": 205039,
+      "word": "文俊辉 NPC",
+      "onboard_time": 1713967340,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204924,
@@ -6521,6 +6593,14 @@
       "onboard_time": 1713755418,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202230,
+      "num": 202230,
+      "word": "宝马发布会",
+      "onboard_time": 1713965658,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 201928,
@@ -6859,6 +6939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196187,
+      "num": 196187,
+      "word": "宋亚轩P的宋亚轩",
+      "onboard_time": 1713967880,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195882,
       "num": 195882,
       "word": "广东人看了都想拿拖鞋的蟑螂风筝",
@@ -7163,6 +7251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190694,
+      "num": 190694,
+      "word": "普拉多价格",
+      "onboard_time": 1713967461,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 190648,
       "num": 190648,
       "word": "周杰伦 哈圈伍佰",
@@ -7241,6 +7337,14 @@
       "onboard_time": 1713715278,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189626,
+      "num": 189626,
+      "word": "顾家地位排序",
+      "onboard_time": 1713967039,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 189480,
@@ -7449,6 +7553,14 @@
       "onboard_time": 1713853639,
       "rank": 33,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 186268,
+      "num": 186268,
+      "word": "刘宇发了INTO1",
+      "onboard_time": 1713966498,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 186219,
@@ -8515,14 +8627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163817,
-      "num": 163817,
-      "word": "卢昱晓冷艳千金妆",
-      "onboard_time": 1713965478,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 163813,
       "num": 163813,
       "word": "时代少年团演唱会",
@@ -8761,14 +8865,6 @@
       "onboard_time": 1713829397,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159670,
-      "num": 159670,
-      "word": "唐家三少宣布停更",
-      "onboard_time": 1713965540,
-      "rank": 38,
-      "category": "读书作家"
     },
     {
       "raw_hot": 159300,
@@ -9017,14 +9113,6 @@
       "onboard_time": 1713775878,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154582,
-      "num": 154582,
-      "word": "老师发现自己讲错了",
-      "onboard_time": 1713965059,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 154540,
@@ -9475,14 +9563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147504,
-      "num": 147504,
-      "word": "身份证号码中包含X该如何买票",
-      "onboard_time": 1713964878,
-      "rank": 48,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 147198,
       "num": 290192,
       "word": "岚图和华为官宣合作车型",
@@ -9561,14 +9641,6 @@
       "onboard_time": 1713938898,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145994,
-      "num": 145994,
-      "word": "宝马发布会",
-      "onboard_time": 1713965658,
-      "rank": 43,
-      "category": "汽车"
     },
     {
       "raw_hot": 145950,
@@ -10275,6 +10347,14 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 133379,
+      "num": 133379,
+      "word": "周雨彤第一次在剧里强吻男主",
+      "onboard_time": 1713967400,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133371,
       "num": 133371,
       "word": "孙俪销冠海报",
@@ -10449,6 +10529,22 @@
       "onboard_time": 1713939676,
       "rank": 40,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 130219,
+      "num": 130219,
+      "word": "人挤人的旅游有意思吗",
+      "onboard_time": 1713966439,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 130146,
+      "num": 130146,
+      "word": "周琦称确实没有伤害人的本意",
+      "onboard_time": 1713966681,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 129568,
@@ -11139,6 +11235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114346,
+      "num": 114346,
+      "word": "五一去哪里玩人少省钱又好玩",
+      "onboard_time": 1713968299,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 113246,
       "num": 113246,
       "word": "秦岚辛芷蕾 双向友情具象化",
@@ -11465,6 +11569,14 @@
       "onboard_time": 1713910873,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100003,
+      "num": 337546,
+      "word": "88VIP真香",
+      "onboard_time": 1713967221,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 99507,
@@ -12065,6 +12177,14 @@
       "onboard_time": 1713868578,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 49423,
+      "num": 189822,
+      "word": "有没有人能管管潍坊的风筝啊",
+      "onboard_time": 1713967159,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 49209,
