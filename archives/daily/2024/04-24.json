@@ -1,10 +1,10 @@
 {
   "startTime": 1713889329936,
-  "endTime": 1713950313677,
+  "endTime": 1713951272946,
   "band_list": [
     {
-      "raw_hot": 2126677,
-      "num": 2126677,
+      "raw_hot": 2425886,
+      "num": 2425886,
       "word": "玲花 维权是你们的权利",
       "onboard_time": 1713947778,
       "rank": 0,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1516812,
-      "num": 473894,
+      "num": 564005,
       "word": "贾斯汀比伯为好友遭遇抢劫中枪身亡发声",
       "onboard_time": 1713937518,
       "rank": 10,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1142413,
-      "num": 473919,
+      "num": 700232,
       "word": "Angelababy狼尾超短发",
       "onboard_time": 1713944057,
       "rank": 47,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 986692,
-      "num": 556958,
+      "num": 728993,
       "word": "玲花给买到柱子票的粉丝留了鸟巢的票",
       "onboard_time": 1713946878,
       "rank": 30,
@@ -187,6 +187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 791486,
+      "num": 791486,
+      "word": "苹果定位 发现石油",
+      "onboard_time": 1713949458,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 770970,
       "num": 770970,
       "word": "南京一市民称骑自行车上路因无牌被罚50元",
@@ -201,6 +209,14 @@
       "onboard_time": 1713927376,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 732699,
+      "num": 732699,
+      "word": "朱梓骁把流星雨的戏服卖了",
+      "onboard_time": 1713949218,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 721773,
@@ -225,6 +241,14 @@
       "onboard_time": 1713932420,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 696860,
+      "num": 696860,
+      "word": "长期吃铝包子或引发肝肾损伤",
+      "onboard_time": 1713948199,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 688636,
@@ -252,7 +276,7 @@
     },
     {
       "raw_hot": 666294,
-      "num": 666294,
+      "num": 717953,
       "word": "女校长诈骗学生家长5000万后自杀身亡",
       "onboard_time": 1713942798,
       "rank": 41,
@@ -305,6 +329,14 @@
       "onboard_time": 1713945018,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 606879,
+      "num": 723333,
+      "word": "福宝",
+      "onboard_time": 1713949759,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601903,
@@ -523,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 424240,
-      "num": 424240,
-      "word": "朱梓骁把流星雨的戏服卖了",
-      "onboard_time": 1713949218,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 423607,
       "num": 423607,
       "word": "阿沁喊话陈建宁詹雯婷不要吵了",
@@ -603,14 +627,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 376659,
-      "num": 376659,
-      "word": "长期吃铝包子或引发肝肾损伤",
-      "onboard_time": 1713948199,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 374085,
       "num": 319799,
       "word": "9岁坠楼男孩生前最后5分钟发呆徘徊",
@@ -665,14 +681,6 @@
       "onboard_time": 1713920838,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 342804,
-      "num": 342804,
-      "word": "苹果定位 发现石油",
-      "onboard_time": 1713949458,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 331302,
@@ -947,14 +955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257872,
-      "num": 279000,
-      "word": "福宝",
-      "onboard_time": 1713949759,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247879,
       "num": 247879,
       "word": "轻断食吃了11根玉米",
@@ -964,7 +964,7 @@
     },
     {
       "raw_hot": 239885,
-      "num": 474146,
+      "num": 706988,
       "word": "他赌上3分之1人生建港珠澳大桥",
       "onboard_time": 1713943218,
       "rank": 9,
@@ -1123,6 +1123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 204412,
+      "num": 204412,
+      "word": "illit疑似抄袭straykids手势",
+      "onboard_time": 1713950718,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204379,
       "num": 204379,
       "word": "NASA局长抹黑中国登月惹笑话",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1713930557,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199474,
+      "num": 199474,
+      "word": "大麦为凤凰传奇演唱会柱子票用户退款",
+      "onboard_time": 1713950779,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 199185,
@@ -1315,6 +1331,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 186909,
+      "num": 186909,
+      "word": "金价下跌有人卖了一百多万金条",
+      "onboard_time": 1713950599,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 186488,
       "num": 186488,
       "word": "神十八航天员见面会",
@@ -1361,6 +1385,14 @@
       "onboard_time": 1713917177,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 182797,
+      "num": 182797,
+      "word": "ZB1新歌MV",
+      "onboard_time": 1713950959,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 182597,
@@ -1483,12 +1515,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 169738,
+      "num": 169738,
+      "word": "孙杨正式恢复训练",
+      "onboard_time": 1713950959,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169507,
       "num": 169507,
       "word": "苏醒晒照为陆虎庆生",
       "onboard_time": 1713918979,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169184,
+      "num": 169184,
+      "word": "难以想象五一去旅游的人会有多少",
+      "onboard_time": 1713950419,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 168722,
@@ -1715,6 +1763,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 147198,
+      "num": 204414,
+      "word": "岚图和华为官宣合作车型",
+      "onboard_time": 1713950478,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 146237,
       "num": 146237,
       "word": "迪丽热巴reaction刘宇宁被吓",
@@ -1907,6 +1963,14 @@
       "category": "互联网,情感"
     },
     {
+      "raw_hot": 131925,
+      "num": 131925,
+      "word": "下班后工作是对你的服从性测试",
+      "onboard_time": 1713950599,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131684,
       "num": 131684,
       "word": "美梦降霖cp官宣",
@@ -1977,6 +2041,14 @@
       "onboard_time": 1713937098,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 125809,
+      "num": 125809,
+      "word": "猫猫 人没有分寸感",
+      "onboard_time": 1713950478,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 125345,
@@ -2428,7 +2500,7 @@
     },
     {
       "raw_hot": 40814,
-      "num": 790593,
+      "num": 794380,
       "word": "万千气象看上海",
       "onboard_time": 1713928217,
       "rank": 2,
