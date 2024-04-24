@@ -1,0 +1,410 @@
+{
+  "runTime": 1713986069248,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 190664,
+        "num": 190664,
+        "word": "日本地震",
+        "onboard_time": 1713959478,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96696,
+        "num": 96696,
+        "word": "男孩骑车失误刹车把手插进大腿里",
+        "onboard_time": 1713974117,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2249,
+        "num": 69404,
+        "word": "万千气象看山西",
+        "onboard_time": 1713842298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67527,
+        "num": 67527,
+        "word": "花少第一站破碎的是张翰",
+        "onboard_time": 1713971719,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63032,
+        "num": 63032,
+        "word": "大麦网已退票退款",
+        "onboard_time": 1713952578,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 58909,
+        "num": 58909,
+        "word": "破镜重圆文",
+        "onboard_time": 1713979333,
+        "rank": 5,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 52687,
+        "num": 52687,
+        "word": "唐家三少宣布停更",
+        "onboard_time": 1713965540,
+        "rank": 6,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 50020,
+        "num": 50020,
+        "word": "以色列",
+        "onboard_time": 1713971839,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 41210,
+        "num": 41210,
+        "word": "金价下跌有人卖了一百多万金条",
+        "onboard_time": 1713950599,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 37363,
+        "num": 37363,
+        "word": "摩羯座最需要是自我认可",
+        "onboard_time": 1713969380,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143502,
+        "num": 37104,
+        "word": "狗头萝莉自曝找到员工了",
+        "onboard_time": 1713981973,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 66335,
+        "num": 36763,
+        "word": "拼多多涉不正当竞争被判赔500万",
+        "onboard_time": 1713963739,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 55146,
+        "num": 36682,
+        "word": "Angelababy狼尾超短发",
+        "onboard_time": 1713944057,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41836,
+        "num": 36224,
+        "word": "2000元人参泡酒15年后发芽了",
+        "onboard_time": 1713978854,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36139,
+        "num": 36139,
+        "word": "秦海璐霸总小说书单",
+        "onboard_time": 1713959958,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34317,
+        "num": 34317,
+        "word": "买长乘短是一种不折不扣的双输",
+        "onboard_time": 1713972858,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 29900,
+        "num": 29900,
+        "word": "菠菜一定焯水后吃否则或引发肾损伤",
+        "onboard_time": 1713971060,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28680,
+        "num": 28680,
+        "word": "春色寄情人",
+        "onboard_time": 1713970160,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25445,
+        "num": 25445,
+        "word": "章子怡 我的职业生涯不必在意",
+        "onboard_time": 1713974778,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23995,
+        "num": 23995,
+        "word": "ive预告",
+        "onboard_time": 1713968359,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105053,
+        "num": 23994,
+        "word": "田馥甄发微博",
+        "onboard_time": 1713964220,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103560,
+        "num": 23790,
+        "word": "男子多次性侵前女友11岁女儿获刑16年",
+        "onboard_time": 1713968059,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57425,
+        "num": 23700,
+        "word": "微信区分单删互删",
+        "onboard_time": 1713968659,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31633,
+        "num": 23487,
+        "word": "养7年狗被偷找到时只剩20斤残肢",
+        "onboard_time": 1713966019,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29550,
+        "num": 23390,
+        "word": "身份证号码中包含X该如何买票",
+        "onboard_time": 1713964878,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 24494,
+        "num": 23213,
+        "word": "读研就是在筛选过于较真的人",
+        "onboard_time": 1713970760,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 23177,
+        "num": 23177,
+        "word": "被评最美公务员干部被曝曾殴打残疾人",
+        "onboard_time": 1713956298,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21950,
+        "num": 21950,
+        "word": "卢昱晓冷艳千金妆",
+        "onboard_time": 1713965478,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21880,
+        "num": 21880,
+        "word": "玲花 维权是你们的权利",
+        "onboard_time": 1713947778,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13892,
+        "num": 21453,
+        "word": "女公交司机驾车过3个鸡蛋完好无损",
+        "onboard_time": 1713974178,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29830,
+        "num": 21415,
+        "word": "深圳现暴雨天给绿植浇水引质疑",
+        "onboard_time": 1713980352,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21187,
+        "num": 21187,
+        "word": "这些人工合成水果又出来骗人了",
+        "onboard_time": 1713952998,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21002,
+        "num": 21002,
+        "word": "22岁的我不舍得吃20块的外卖",
+        "onboard_time": 1713960857,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20590,
+        "num": 20590,
+        "word": "承欢记大结局",
+        "onboard_time": 1713961398,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19383,
+        "num": 19383,
+        "word": "小米回应SU7翼子板脱落原因",
+        "onboard_time": 1713979274,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 18993,
+        "num": 18993,
+        "word": "丁俊晖连续4年世锦赛首轮出局",
+        "onboard_time": 1713985451,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17567,
+        "num": 17567,
+        "word": "秦海璐刘涛 我带你梦想成真",
+        "onboard_time": 1713975557,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17518,
+        "num": 17518,
+        "word": "老舅是张若昀的开关",
+        "onboard_time": 1713973878,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16832,
+        "num": 16832,
+        "word": "周鸿祎问贾跃亭啥时候回国",
+        "onboard_time": 1713974476,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16709,
+        "num": 16709,
+        "word": "神超直播",
+        "onboard_time": 1713984972,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16502,
+        "num": 16502,
+        "word": "赵丽颖林更新缘分开始的地方",
+        "onboard_time": 1713959958,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16069,
+        "num": 16069,
+        "word": "宋亚轩P的宋亚轩",
+        "onboard_time": 1713967880,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15852,
+        "num": 15852,
+        "word": "手机里存了3个月的照片终于删了",
+        "onboard_time": 1713952039,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15850,
+        "num": 15850,
+        "word": "深圳暴雨",
+        "onboard_time": 1713968359,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15610,
+        "num": 15610,
+        "word": "花少好友记冷场",
+        "onboard_time": 1713963620,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15470,
+        "num": 15470,
+        "word": "玲花 换位思考",
+        "onboard_time": 1713970519,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15457,
+        "num": 15457,
+        "word": "福宝已开始在外场采食",
+        "onboard_time": 1713961158,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15196,
+        "num": 15196,
+        "word": "卢昱晓工作室出图",
+        "onboard_time": 1713983291,
+        "rank": 47,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 14989,
+        "num": 14989,
+        "word": "可以这样亲我吗李现",
+        "onboard_time": 1713971719,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14670,
+        "num": 14989,
+        "word": "花芷分手数钱",
+        "onboard_time": 1713977895,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步全面深化改革开放#"
+    }
+  }
+}
