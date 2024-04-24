@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713972861020,
+  "endTime": 1713975704162,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -1363,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 742860,
+      "num": 742860,
+      "word": "以色列",
+      "onboard_time": 1713816490,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 740875,
       "num": 471251,
       "word": "鹿晗染了金发",
@@ -1985,6 +1993,14 @@
       "onboard_time": 1713952940,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 601098,
+      "num": 601098,
+      "word": "花少第一站破碎的是张翰",
+      "onboard_time": 1713971719,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 599009,
@@ -4027,6 +4043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334428,
+      "num": 334428,
+      "word": "菠菜一定焯水后吃否则或引发肾损伤",
+      "onboard_time": 1713971060,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 333424,
       "num": 333424,
       "word": "花少导演组靠秦海璐拉群",
@@ -4097,6 +4121,14 @@
       "onboard_time": 1713629060,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 325571,
+      "num": 282212,
+      "word": "章子怡 我的职业生涯不必在意",
+      "onboard_time": 1713974778,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 325233,
@@ -4193,6 +4225,14 @@
       "onboard_time": 1713834199,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314762,
+      "num": 314762,
+      "word": "摩羯座最需要是自我认可",
+      "onboard_time": 1713969380,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 314450,
@@ -4795,14 +4835,6 @@
       "category": "国内时政,科学科普"
     },
     {
-      "raw_hot": 269793,
-      "num": 269793,
-      "word": "以色列",
-      "onboard_time": 1713816490,
-      "rank": 32,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 269761,
       "num": 269761,
       "word": "李现微博头像是两部剧角色",
@@ -4857,14 +4889,6 @@
       "onboard_time": 1713871458,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 266966,
-      "num": 266966,
-      "word": "花少第一站破碎的是张翰",
-      "onboard_time": 1713971719,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 266714,
@@ -6731,6 +6755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201533,
+      "num": 201533,
+      "word": "买长乘短是一种不折不扣的双输",
+      "onboard_time": 1713972858,
+      "rank": 17,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 201504,
       "num": 201504,
       "word": "田嘉瑞首部男二剧",
@@ -7531,20 +7563,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 188063,
-      "num": 188063,
-      "word": "摩羯座最需要是自我认可",
-      "onboard_time": 1713969380,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 188003,
       "num": 127500,
       "word": "陈昊宇发如雪",
       "onboard_time": 1713617778,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187676,
+      "num": 285504,
+      "word": "男孩骑车失误刹车把手插进大腿里",
+      "onboard_time": 1713974117,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187395,
@@ -7817,14 +7849,6 @@
       "onboard_time": 1713848121,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183527,
-      "num": 183527,
-      "word": "菠菜一定焯水后吃否则或引发肾损伤",
-      "onboard_time": 1713971060,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 183510,
@@ -9771,6 +9795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146087,
+      "num": 146087,
+      "word": "老舅是张若昀的开关",
+      "onboard_time": 1713973878,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145950,
       "num": 145950,
       "word": "独行侠vs快船",
@@ -10867,6 +10899,14 @@
       "category": "数码,汽车"
     },
     {
+      "raw_hot": 126309,
+      "num": 126309,
+      "word": "让腿丝滑变直的小技巧",
+      "onboard_time": 1713973159,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 126204,
       "num": 126204,
       "word": "JKL 菜",
@@ -11715,6 +11755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101657,
+      "num": 101657,
+      "word": "我们仨",
+      "onboard_time": 1713974719,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101289,
       "num": 101289,
       "word": "金道英出道曲空降",
@@ -11899,6 +11947,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 85197,
+      "num": 85197,
+      "word": "周鸿祎问贾跃亭啥时候回国",
+      "onboard_time": 1713974476,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 84035,
       "num": 70255,
       "word": "辛芷蕾工作室审美",
@@ -12073,6 +12129,14 @@
       "onboard_time": 1713630078,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71045,
+      "num": 71045,
+      "word": "秦海璐刘涛 我带你梦想成真",
+      "onboard_time": 1713975557,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 67576,
@@ -12385,6 +12449,14 @@
       "onboard_time": 1713616037,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42945,
+      "num": 132269,
+      "word": "女公交司机驾车过3个鸡蛋完好无损",
+      "onboard_time": 1713974178,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42439,
@@ -12771,7 +12843,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6560,
+      "raw_hot": 9101,
       "num": 1263961,
       "word": "万千气象看山西",
       "onboard_time": 1713842298,
