@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713933258770,
+  "endTime": 1713935934278,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -627,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1088920,
+      "num": 395373,
+      "word": "向佐把向太送的包卖了",
+      "onboard_time": 1713934280,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1087875,
       "num": 1087875,
       "word": "台湾花莲凌晨2次超6级地震",
@@ -729,6 +737,14 @@
       "onboard_time": 1713745337,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1001458,
+      "num": 1001458,
+      "word": "iPhone16或将变秃",
+      "onboard_time": 1713929537,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 1000173,
@@ -881,6 +897,14 @@
       "onboard_time": 1713679819,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 911870,
+      "num": 368471,
+      "word": "李现又要带火一小镇了",
+      "onboard_time": 1713934399,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 903955,
@@ -1259,14 +1283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 717601,
-      "num": 366073,
-      "word": "iPhone16或将变秃",
-      "onboard_time": 1713929537,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 712900,
       "num": 712900,
       "word": "汪曼春",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1713862159,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 701597,
+      "num": 273705,
+      "word": "林更新认出了张子枫没认出黄磊",
+      "onboard_time": 1713932420,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 701573,
@@ -1337,6 +1361,14 @@
       "onboard_time": 1713708381,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 691238,
+      "num": 691238,
+      "word": "狗头萝莉招人",
+      "onboard_time": 1713933619,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 689606,
@@ -1795,6 +1827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 583365,
+      "num": 583365,
+      "word": "金价又跌了",
+      "onboard_time": 1713934519,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 581826,
       "num": 581826,
       "word": "石凯销量",
@@ -2011,20 +2051,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 537421,
-      "num": 236518,
-      "word": "林更新认出了张子枫没认出黄磊",
-      "onboard_time": 1713932420,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 536310,
       "num": 536310,
       "word": "B太揭秘卫生巾灰色产业链",
       "onboard_time": 1713679939,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535984,
+      "num": 535984,
+      "word": "被田晓慧分手刀麻了",
+      "onboard_time": 1713932899,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 535062,
@@ -2291,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493382,
+      "num": 493382,
+      "word": "凤凰传奇演唱会柱子票退一赔三被拒",
+      "onboard_time": 1713933619,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 491470,
       "num": 491470,
       "word": "广东居民非必要不外出",
@@ -2433,6 +2481,14 @@
       "onboard_time": 1713835759,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 475286,
+      "num": 475286,
+      "word": "被特斯拉毁约应届生回应",
+      "onboard_time": 1713934519,
+      "rank": 7,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 473142,
@@ -2689,6 +2745,14 @@
       "onboard_time": 1713832340,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440819,
+      "num": 264398,
+      "word": "运动瘦了45斤后变化有多大",
+      "onboard_time": 1713933320,
+      "rank": 21,
+      "category": "运动健身"
     },
     {
       "raw_hot": 440722,
@@ -3691,6 +3755,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 307645,
+      "num": 307645,
+      "word": "恋与深空 keep奖牌",
+      "onboard_time": 1713934339,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 306949,
       "num": 306949,
       "word": "跳水世界杯",
@@ -3737,6 +3809,14 @@
       "onboard_time": 1713813012,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300698,
+      "num": 300698,
+      "word": "星穹铁道翡翠",
+      "onboard_time": 1713934040,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 300580,
@@ -3915,6 +3995,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 287995,
+      "num": 474766,
+      "word": "切实减轻中小学教师非教育教学负担",
+      "onboard_time": 1713932478,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 286819,
       "num": 286819,
       "word": "陈少杰被指或获刑5年",
@@ -3944,6 +4032,14 @@
       "word": "原神仆人",
       "onboard_time": 1713930618,
       "rank": 20,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 284540,
+      "num": 284540,
+      "word": "光与夜之恋 复刻",
+      "onboard_time": 1713934160,
+      "rank": 19,
       "category": "游戏"
     },
     {
@@ -4507,6 +4603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248490,
+      "num": 248490,
+      "word": "美议员承认TikTok剥离法案就是禁令",
+      "onboard_time": 1713933440,
+      "rank": 22,
+      "category": "国外时政,互联网"
+    },
+    {
       "raw_hot": 248450,
       "num": 248450,
       "word": "HYBE市值蒸发8400亿韩元",
@@ -4691,6 +4795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 240391,
+      "num": 240391,
+      "word": "白鹿演假小子",
+      "onboard_time": 1713934880,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239995,
       "num": 239995,
       "word": "补气血是有顺序的",
@@ -4841,6 +4953,14 @@
       "onboard_time": 1713853040,
       "rank": 28,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 234436,
+      "num": 234436,
+      "word": "中医建议补气血要按顺序",
+      "onboard_time": 1713931159,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 234324,
@@ -5707,14 +5827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 204375,
-      "num": 204375,
-      "word": "切实减轻中小学教师非教育教学负担",
-      "onboard_time": 1713932478,
-      "rank": 28,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 204157,
       "num": 204157,
       "word": "电影维和防暴队芭莎大片",
@@ -5875,6 +5987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200845,
+      "num": 200845,
+      "word": "李现微博文案是泉州方言",
+      "onboard_time": 1713934579,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200834,
       "num": 200834,
       "word": "神十八3名航天员都是80后",
@@ -5977,14 +6097,6 @@
       "onboard_time": 1713757579,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197991,
-      "num": 197991,
-      "word": "被田晓慧分手刀麻了",
-      "onboard_time": 1713932899,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 197848,
@@ -6369,6 +6481,14 @@
       "onboard_time": 1713827535,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189974,
+      "num": 189974,
+      "word": "小说界的天花板",
+      "onboard_time": 1713930737,
+      "rank": 41,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 189852,
@@ -7019,22 +7139,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 176389,
-      "num": 176389,
-      "word": "小说界的天花板",
-      "onboard_time": 1713930737,
-      "rank": 41,
-      "category": "读书作家,作品衍生"
-    },
-    {
-      "raw_hot": 176271,
-      "num": 176271,
-      "word": "中医建议补气血要按顺序",
-      "onboard_time": 1713931159,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 176137,
       "num": 176137,
       "word": "詹姆斯长传艺术家",
@@ -7243,6 +7347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170895,
+      "num": 170895,
+      "word": "原来真的有人靠爱好活着",
+      "onboard_time": 1713935480,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170766,
       "num": 170766,
       "word": "龚俊骗严浩翔吃青杏子",
@@ -7264,6 +7376,14 @@
       "word": "姚明问谷爱凌参不参加夏奥会",
       "onboard_time": 1713788838,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 169977,
+      "num": 169977,
+      "word": "独行侠1比1快船",
+      "onboard_time": 1713935779,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -8291,6 +8411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148490,
+      "num": 148490,
+      "word": "果然好的阿姨在市场是不流通的",
+      "onboard_time": 1713935599,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148479,
       "num": 148479,
       "word": "全圆佑单封",
@@ -8691,6 +8819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141243,
+      "num": 141243,
+      "word": "丹顶鹤不喜欢被摸头可能是因为头秃",
+      "onboard_time": 1713935480,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 141002,
       "num": 141002,
       "word": "八万的吉他让熊孩子灌了四瓶矿泉水",
@@ -8969,6 +9105,14 @@
       "onboard_time": 1713670398,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135396,
+      "num": 135396,
+      "word": "黄明昊首部电影男主",
+      "onboard_time": 1713935658,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 134963,
@@ -9392,6 +9536,14 @@
       "word": "孙夏铃喜欢杨幂演的三生三世十里桃花",
       "onboard_time": 1713799157,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125247,
+      "num": 130239,
+      "word": "大侦探游乐园惊魂",
+      "onboard_time": 1713935839,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -10644,7 +10796,7 @@
     },
     {
       "raw_hot": 40814,
-      "num": 732190,
+      "num": 757163,
       "word": "万千气象看上海",
       "onboard_time": 1713928217,
       "rank": 2,
