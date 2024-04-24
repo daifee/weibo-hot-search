@@ -1,6 +1,6 @@
 {
   "startTime": 1713889329936,
-  "endTime": 1713972008474,
+  "endTime": 1713972861020,
   "band_list": [
     {
       "raw_hot": 2626146,
@@ -875,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366371,
+      "num": 282374,
+      "word": "玲花 换位思考",
+      "onboard_time": 1713970519,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 365852,
       "num": 216265,
       "word": "恋综史上最激烈的深吻",
@@ -1059,14 +1067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 305537,
-      "num": 282374,
-      "word": "玲花 换位思考",
-      "onboard_time": 1713970519,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 305391,
       "num": 240108,
       "word": "新人结婚后要有小家意识",
@@ -1235,6 +1235,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 269793,
+      "num": 269793,
+      "word": "以色列",
+      "onboard_time": 1713971839,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 269354,
       "num": 237258,
       "word": "让腿越来越瘦的12个习惯",
@@ -1275,8 +1283,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266966,
+      "num": 266966,
+      "word": "花少第一站破碎的是张翰",
+      "onboard_time": 1713971719,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264087,
-      "num": 211165,
+      "num": 222838,
       "word": "读研就是在筛选过于较真的人",
       "onboard_time": 1713970760,
       "rank": 25,
@@ -1329,6 +1345,14 @@
       "onboard_time": 1713943218,
       "rank": 9,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 239466,
+      "num": 239466,
+      "word": "冠军赛叶诗文200蛙夺冠",
+      "onboard_time": 1713968960,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 238155,
@@ -1443,14 +1467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215212,
-      "num": 215212,
-      "word": "冠军赛叶诗文200蛙夺冠",
-      "onboard_time": 1713968960,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 214995,
       "num": 214995,
       "word": "泰版步步惊心",
@@ -1497,6 +1513,14 @@
       "onboard_time": 1713957319,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209613,
+      "num": 209613,
+      "word": "可以这样亲我吗李现",
+      "onboard_time": 1713971719,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 208902,
@@ -1859,6 +1883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188063,
+      "num": 188063,
+      "word": "摩羯座最需要是自我认可",
+      "onboard_time": 1713969380,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187420,
       "num": 162559,
       "word": "黄景瑜体格怎么这么大",
@@ -1953,6 +1985,14 @@
       "onboard_time": 1713917177,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 183527,
+      "num": 183527,
+      "word": "菠菜一定焯水后吃否则或引发肾损伤",
+      "onboard_time": 1713971060,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 183372,
@@ -2251,6 +2291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 157967,
+      "num": 157967,
+      "word": "韩维辰镜头",
+      "onboard_time": 1713972260,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 155716,
       "num": 155716,
       "word": "阿森纳5比0切尔西",
@@ -2281,14 +2329,6 @@
       "onboard_time": 1713942558,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153371,
-      "num": 153371,
-      "word": "摩羯座最需要是自我认可",
-      "onboard_time": 1713969380,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 153278,
@@ -2339,14 +2379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 151449,
-      "num": 151449,
-      "word": "花少第一站破碎的是张翰",
-      "onboard_time": 1713971719,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150669,
       "num": 150669,
       "word": "wvscon阵容",
@@ -2385,14 +2417,6 @@
       "onboard_time": 1713946098,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 149229,
-      "num": 149229,
-      "word": "菠菜一定焯水后吃否则或引发肾损伤",
-      "onboard_time": 1713971060,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 148967,
@@ -2537,14 +2561,6 @@
       "onboard_time": 1713918618,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 138971,
-      "num": 138971,
-      "word": "可以这样亲我吗李现",
-      "onboard_time": 1713971719,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 138911,
@@ -2811,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123474,
+      "num": 123474,
+      "word": "小米汽车回应玻璃镀银影响信号",
+      "onboard_time": 1713971658,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 122886,
       "num": 122886,
       "word": "杨幂说关雪不是好人",
@@ -2833,14 +2857,6 @@
       "onboard_time": 1713881120,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121699,
-      "num": 121699,
-      "word": "以色列",
-      "onboard_time": 1713971839,
-      "rank": 45,
-      "category": "国外时政"
     },
     {
       "raw_hot": 121413,
@@ -2881,6 +2897,14 @@
       "onboard_time": 1713958398,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119783,
+      "num": 119783,
+      "word": "陈麦冬社死",
+      "onboard_time": 1713972378,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 119775,
@@ -2953,14 +2977,6 @@
       "onboard_time": 1713947899,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115867,
-      "num": 115867,
-      "word": "小米汽车回应玻璃镀银影响信号",
-      "onboard_time": 1713971658,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 115534,
@@ -3075,6 +3091,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 103806,
+      "num": 103806,
+      "word": "看过的书记不住阅读还有意义吗",
+      "onboard_time": 1713969859,
+      "rank": 46,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 103597,
       "num": 103597,
       "word": "小熊虫 这像画吗",
@@ -3097,6 +3121,14 @@
       "onboard_time": 1713940099,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101253,
+      "num": 101253,
+      "word": "radwimps广州",
+      "onboard_time": 1713972019,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 100033,
