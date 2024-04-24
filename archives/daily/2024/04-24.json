@@ -1,6 +1,6 @@
 {
   "startTime": 1713889329936,
-  "endTime": 1713943009613,
+  "endTime": 1713944081361,
   "band_list": [
     {
       "raw_hot": 1655451,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1123671,
-      "num": 422384,
+      "num": 432434,
       "word": "李现又要带火一小镇了",
       "onboard_time": 1713934399,
       "rank": 11,
@@ -112,6 +112,14 @@
       "word": "种地交钱被免干部涉嫌学历造假",
       "onboard_time": 1713937937,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 838426,
+      "num": 838426,
+      "word": "沈阳发生持刀伤人嫌犯被抓",
+      "onboard_time": 1713942198,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 586823,
+      "num": 586823,
+      "word": "狗头萝莉公开煎饼摊收支结余",
+      "onboard_time": 1713942077,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 586039,
       "num": 586039,
       "word": "俄国防部副部长伊万诺夫被拘留",
@@ -273,6 +289,14 @@
       "onboard_time": 1713884959,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 575902,
+      "num": 575902,
+      "word": "7岁男孩从宠物店偷狗带到17楼扔下",
+      "onboard_time": 1713941298,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 572711,
@@ -331,14 +355,6 @@
       "category": "国内时政,科学科普"
     },
     {
-      "raw_hot": 496886,
-      "num": 496886,
-      "word": "沈阳发生持刀伤人嫌犯被抓",
-      "onboard_time": 1713942198,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 495169,
       "num": 495169,
       "word": "爱奇艺片单",
@@ -360,14 +376,6 @@
       "word": "长沙警方通报14岁女生被同学殴打",
       "onboard_time": 1713915617,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 470324,
-      "num": 470324,
-      "word": "7岁男孩从宠物店偷狗带到17楼扔下",
-      "onboard_time": 1713941298,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -433,6 +441,14 @@
       "onboard_time": 1713886338,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 428630,
+      "num": 428630,
+      "word": "官方再通报种地交钱事件",
+      "onboard_time": 1713943338,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424581,
@@ -515,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367048,
+      "num": 367048,
+      "word": "宋轶漫画身材",
+      "onboard_time": 1713942558,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 365852,
       "num": 216265,
       "word": "恋综史上最激烈的深吻",
@@ -561,14 +585,6 @@
       "onboard_time": 1713920838,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 349777,
-      "num": 349777,
-      "word": "狗头萝莉公开煎饼摊收支结余",
-      "onboard_time": 1713942077,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 331302,
@@ -827,20 +843,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261248,
-      "num": 261248,
-      "word": "宋轶漫画身材",
-      "onboard_time": 1713942558,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 247879,
       "num": 247879,
       "word": "轻断食吃了11根玉米",
       "onboard_time": 1713867139,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 247397,
+      "num": 247397,
+      "word": "女校长诈骗学生家长5000万后自杀身亡",
+      "onboard_time": 1713942798,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238155,
@@ -987,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204417,
+      "num": 204417,
+      "word": "中老年人患带状疱疹有多痛苦",
+      "onboard_time": 1713943397,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 204379,
       "num": 204379,
       "word": "NASA局长抹黑中国登月惹笑话",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1713921798,
       "rank": 26,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 200735,
+      "num": 200735,
+      "word": "卢昱晓单肩黑裙",
+      "onboard_time": 1713943518,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199511,
@@ -1323,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166582,
+      "num": 166582,
+      "word": "继父对女儿的掏心窝子话",
+      "onboard_time": 1713943218,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163495,
       "num": 163495,
       "word": "刚出生十几天的小金毛",
@@ -1345,6 +1385,14 @@
       "onboard_time": 1713939497,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158197,
+      "num": 443358,
+      "word": "他赌上3分之1人生建港珠澳大桥",
+      "onboard_time": 1713943218,
+      "rank": 9,
+      "category": "科学科普"
     },
     {
       "raw_hot": 158043,
@@ -1497,6 +1545,14 @@
       "onboard_time": 1713932959,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145156,
+      "num": 145156,
+      "word": "大侦探一直在用自己的方式发声",
+      "onboard_time": 1713942977,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 142533,
@@ -1755,14 +1811,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 120395,
-      "num": 120395,
-      "word": "女校长诈骗学生家长5000万后自杀身亡",
-      "onboard_time": 1713942798,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120318,
       "num": 120318,
       "word": "杜兰特18分",
@@ -1819,12 +1867,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115436,
+      "num": 115436,
+      "word": "女子疑租到串串房1月后流鼻血退租被拒",
+      "onboard_time": 1713943938,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114574,
       "num": 114574,
       "word": "特斯拉股价飙涨12%",
       "onboard_time": 1713921557,
       "rank": 46,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 114048,
+      "num": 114048,
+      "word": "Angelababy狼尾超短发",
+      "onboard_time": 1713944057,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 112571,
@@ -1843,12 +1907,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 111352,
+      "num": 111352,
+      "word": "LPL开启全局BP",
+      "onboard_time": 1713943638,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111006,
       "num": 111006,
       "word": "优酷发布白夜剧场片单",
       "onboard_time": 1713928037,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110515,
+      "num": 110515,
+      "word": "刘涛英文",
+      "onboard_time": 1713943998,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 109468,
@@ -1889,14 +1969,6 @@
       "onboard_time": 1713888617,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107465,
-      "num": 107465,
-      "word": "大侦探一直在用自己的方式发声",
-      "onboard_time": 1713942977,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 104611,
@@ -2139,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29421,
+      "num": 736076,
+      "word": "文化中国行",
+      "onboard_time": 1713927617,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24935,
       "num": 24935,
       "word": "婚礼上玩这个游戏我饭都不吃了",
@@ -2161,14 +2241,6 @@
       "onboard_time": 1713876918,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21997,
-      "num": 736076,
-      "word": "文化中国行",
-      "onboard_time": 1713927617,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19747,

@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713943009613,
+  "endTime": 1713944081361,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3852,7 +3852,7 @@
     },
     {
       "raw_hot": 1123671,
-      "num": 422384,
+      "num": 432434,
       "word": "李现又要带火一小镇了",
       "onboard_time": 1713934399,
       "rank": 11,
@@ -6753,6 +6753,14 @@
       "onboard_time": 1712761400,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 838426,
+      "num": 838426,
+      "word": "沈阳发生持刀伤人嫌犯被抓",
+      "onboard_time": 1713942198,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 838219,
@@ -12059,6 +12067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 586823,
+      "num": 586823,
+      "word": "狗头萝莉公开煎饼摊收支结余",
+      "onboard_time": 1713942077,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 586428,
       "num": 586428,
       "word": "食物语永不关服",
@@ -12393,6 +12409,14 @@
       "onboard_time": 1713250758,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 575902,
+      "num": 575902,
+      "word": "7岁男孩从宠物店偷狗带到17楼扔下",
+      "onboard_time": 1713941298,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 575860,
@@ -15243,14 +15267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 496886,
-      "num": 496886,
-      "word": "沈阳发生持刀伤人嫌犯被抓",
-      "onboard_time": 1713942198,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 496666,
       "num": 496666,
       "word": "中式汉堡还能卖得动吗",
@@ -16377,14 +16393,6 @@
       "onboard_time": 1713743356,
       "rank": 13,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 470324,
-      "num": 470324,
-      "word": "7岁男孩从宠物店偷狗带到17楼扔下",
-      "onboard_time": 1713941298,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 470038,
@@ -18417,6 +18425,14 @@
       "onboard_time": 1713494897,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 428630,
+      "num": 428630,
+      "word": "官方再通报种地交钱事件",
+      "onboard_time": 1713943338,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 428602,
@@ -21419,6 +21435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 367048,
+      "num": 367048,
+      "word": "宋轶漫画身材",
+      "onboard_time": 1713942558,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 367013,
       "num": 367013,
       "word": "张丹峰晒与女儿出海度假照",
@@ -22497,14 +22521,6 @@
       "onboard_time": 1713920838,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 349777,
-      "num": 349777,
-      "word": "狗头萝莉公开煎饼摊收支结余",
-      "onboard_time": 1713942077,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 349439,
@@ -29251,14 +29267,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 261248,
-      "num": 261248,
-      "word": "宋轶漫画身材",
-      "onboard_time": 1713942558,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 261222,
       "num": 261222,
       "word": "念无双预告",
@@ -30937,6 +30945,14 @@
       "onboard_time": 1712671099,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247397,
+      "num": 247397,
+      "word": "女校长诈骗学生家长5000万后自杀身亡",
+      "onboard_time": 1713942798,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247333,
@@ -37875,6 +37891,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 204417,
+      "num": 204417,
+      "word": "中老年人患带状疱疹有多痛苦",
+      "onboard_time": 1713943397,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 204412,
       "num": 204412,
       "word": "狗窝尺码买错了",
@@ -39033,6 +39057,14 @@
       "onboard_time": 1713337638,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200735,
+      "num": 200735,
+      "word": "卢昱晓单肩黑裙",
+      "onboard_time": 1713943518,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200685,
@@ -48187,6 +48219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166582,
+      "num": 166582,
+      "word": "继父对女儿的掏心窝子话",
+      "onboard_time": 1713943218,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166489,
       "num": 166489,
       "word": "莫桑比克沉船至少91死",
@@ -50281,6 +50321,14 @@
       "onboard_time": 1713599779,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158197,
+      "num": 443358,
+      "word": "他赌上3分之1人生建港珠澳大桥",
+      "onboard_time": 1713943218,
+      "rank": 9,
+      "category": "科学科普"
     },
     {
       "raw_hot": 158194,
@@ -54329,6 +54377,14 @@
       "onboard_time": 1713223937,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 145156,
+      "num": 145156,
+      "word": "大侦探一直在用自己的方式发声",
+      "onboard_time": 1713942977,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 145142,
@@ -60283,14 +60339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120395,
-      "num": 120395,
-      "word": "女校长诈骗学生家长5000万后自杀身亡",
-      "onboard_time": 1713942798,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120372,
       "num": 120372,
       "word": "悍匪式防晒",
@@ -61131,6 +61179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 115436,
+      "num": 115436,
+      "word": "女子疑租到串串房1月后流鼻血退租被拒",
+      "onboard_time": 1713943938,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115104,
       "num": 115104,
       "word": "庄洁社交悍匪",
@@ -61337,6 +61393,14 @@
       "onboard_time": 1712285837,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114048,
+      "num": 114048,
+      "word": "Angelababy狼尾超短发",
+      "onboard_time": 1713944057,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 113937,
@@ -61723,6 +61787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111352,
+      "num": 111352,
+      "word": "LPL开启全局BP",
+      "onboard_time": 1713943638,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111341,
       "num": 111341,
       "word": "美国男篮队员选号",
@@ -61801,6 +61873,14 @@
       "onboard_time": 1713659598,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110515,
+      "num": 110515,
+      "word": "刘涛英文",
+      "onboard_time": 1713943998,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 110370,
@@ -62313,14 +62393,6 @@
       "onboard_time": 1712741478,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 107465,
-      "num": 107465,
-      "word": "大侦探一直在用自己的方式发声",
-      "onboard_time": 1713942977,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 107460,
