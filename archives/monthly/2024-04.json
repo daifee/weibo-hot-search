@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713963276622,
+  "endTime": 1713965060541,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2473,6 +2473,14 @@
       "onboard_time": 1712199498,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1370766,
+      "num": 1370766,
+      "word": "五月天假唱风波调查近5个月没结果",
+      "onboard_time": 1713962057,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 1369713,
@@ -6049,14 +6057,6 @@
       "onboard_time": 1712897420,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 905562,
-      "num": 905562,
-      "word": "五月天假唱风波调查近5个月没结果",
-      "onboard_time": 1713962057,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 904523,
@@ -10147,6 +10147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665660,
+      "num": 665660,
+      "word": "田馥甄发微博",
+      "onboard_time": 1713964220,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 665651,
       "num": 665651,
       "word": "光遇复刻",
@@ -11849,6 +11857,14 @@
       "onboard_time": 1713711622,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 598042,
+      "num": 598042,
+      "word": "拼多多涉不正当竞争被判赔500万",
+      "onboard_time": 1713963739,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 597605,
@@ -24099,6 +24115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327081,
+      "num": 249928,
+      "word": "实习生紧急撤回一个微笑",
+      "onboard_time": 1713962838,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 327009,
       "num": 294572,
       "word": "张新成 我们还是不要散了",
@@ -24601,6 +24625,14 @@
       "onboard_time": 1713091939,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319823,
+      "num": 280754,
+      "word": "周琦停赛2场罚款10万",
+      "onboard_time": 1713962657,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 319713,
@@ -27779,14 +27811,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 280754,
-      "num": 280754,
-      "word": "周琦停赛2场罚款10万",
-      "onboard_time": 1713962657,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 280751,
       "num": 240651,
       "word": "给朋友随礼1万结果后悔了",
@@ -28777,6 +28801,14 @@
       "onboard_time": 1712619137,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 269375,
+      "num": 269375,
+      "word": "郑恺 当跑男都需要干什么",
+      "onboard_time": 1713964279,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 269354,
@@ -31256,6 +31288,14 @@
       "word": "黄景瑜体格怎么这么大",
       "onboard_time": 1713882739,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 247209,
+      "num": 247209,
+      "word": "花少好友记冷场",
+      "onboard_time": 1713963620,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -34547,14 +34587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 223333,
-      "num": 175752,
-      "word": "实习生紧急撤回一个微笑",
-      "onboard_time": 1713962838,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 223306,
       "num": 223306,
       "word": "郭德纲谈贾乃亮",
@@ -36729,6 +36761,14 @@
       "onboard_time": 1713157221,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210343,
+      "num": 210343,
+      "word": "你阿尼亚来了中国也得上班",
+      "onboard_time": 1713964098,
+      "rank": 31,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 210323,
@@ -42043,6 +42083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191606,
+      "num": 191606,
+      "word": "乳腺疾病真的是被气出来的吗",
+      "onboard_time": 1713959779,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 191555,
       "num": 119508,
       "word": "肥胖是这2个妇科病的元凶",
@@ -42113,14 +42161,6 @@
       "onboard_time": 1713579017,
       "rank": 31,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 191447,
-      "num": 191447,
-      "word": "乳腺疾病真的是被气出来的吗",
-      "onboard_time": 1713959779,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 191431,
@@ -51139,6 +51179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157270,
+      "num": 157270,
+      "word": "华为Pura70已修复AI消除衣服bug",
+      "onboard_time": 1713961278,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 157244,
       "num": 157244,
       "word": "泼水节",
@@ -51337,14 +51385,6 @@
       "onboard_time": 1712559259,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 156556,
-      "num": 156556,
-      "word": "华为Pura70已修复AI消除衣服bug",
-      "onboard_time": 1713961278,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 156547,
@@ -56297,6 +56337,14 @@
       "onboard_time": 1713553811,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140225,
+      "num": 140225,
+      "word": "白鹿宋雨琦范丞丞cha了",
+      "onboard_time": 1713963858,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 140217,
@@ -62123,6 +62171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113935,
+      "num": 113935,
+      "word": "今晚月亮真圆",
+      "onboard_time": 1713964999,
+      "rank": 47,
+      "category": "自然"
+    },
+    {
       "raw_hot": 113890,
       "num": 113890,
       "word": "半夜吃蛋糕被女大围着唱生日歌",
@@ -62273,6 +62329,14 @@
       "onboard_time": 1712381419,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112946,
+      "num": 112946,
+      "word": "身份证号码中包含X该如何买票",
+      "onboard_time": 1713964878,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 112940,
@@ -66651,6 +66715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55211,
+      "num": 253648,
+      "word": "Z9打游戏强得很持久",
+      "onboard_time": 1713963677,
+      "rank": 18,
+      "category": "游戏,数码"
+    },
+    {
       "raw_hot": 55189,
       "num": 296431,
       "word": "华为980克新款旗舰笔记本有多强",
@@ -66969,6 +67041,14 @@
       "onboard_time": 1713437538,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 50649,
+      "num": 236076,
+      "word": "Z9原来是贼久的意思",
+      "onboard_time": 1713963498,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 50600,

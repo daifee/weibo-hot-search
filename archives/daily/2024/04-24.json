@@ -1,6 +1,6 @@
 {
   "startTime": 1713889329936,
-  "endTime": 1713963276622,
+  "endTime": 1713965060541,
   "band_list": [
     {
       "raw_hot": 2626146,
@@ -65,6 +65,14 @@
       "onboard_time": 1713930319,
       "rank": 0,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 1370766,
+      "num": 1370766,
+      "word": "五月天假唱风波调查近5个月没结果",
+      "onboard_time": 1713962057,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 1285126,
@@ -169,14 +177,6 @@
       "onboard_time": 1713928879,
       "rank": 1,
       "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 905562,
-      "num": 905562,
-      "word": "五月天假唱风波调查近5个月没结果",
-      "onboard_time": 1713962057,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 868843,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665660,
+      "num": 665660,
+      "word": "田馥甄发微博",
+      "onboard_time": 1713964220,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 646492,
       "num": 646492,
       "word": "李闽轩称早已决定放弃报考北电",
@@ -409,6 +417,14 @@
       "onboard_time": 1713952940,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 598042,
+      "num": 598042,
+      "word": "拼多多涉不正当竞争被判赔500万",
+      "onboard_time": 1713963739,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 593706,
@@ -875,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327081,
+      "num": 249928,
+      "word": "实习生紧急撤回一个微笑",
+      "onboard_time": 1713962838,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 325451,
       "num": 325451,
       "word": "李闽轩称脱口报姓名是因太紧张",
@@ -905,6 +929,14 @@
       "onboard_time": 1713884419,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319823,
+      "num": 280754,
+      "word": "周琦停赛2场罚款10万",
+      "onboard_time": 1713962657,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 313652,
@@ -1083,14 +1115,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 280754,
-      "num": 280754,
-      "word": "周琦停赛2场罚款10万",
-      "onboard_time": 1713962657,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 277704,
       "num": 277704,
       "word": "林更新想看赵丽颖做单线任务",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1713923717,
       "rank": 18,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 269375,
+      "num": 269375,
+      "word": "郑恺 当跑男都需要干什么",
+      "onboard_time": 1713964279,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 269354,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1713867139,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 247209,
+      "num": 247209,
+      "word": "花少好友记冷场",
+      "onboard_time": 1713963620,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 239885,
@@ -1259,14 +1299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223333,
-      "num": 175752,
-      "word": "实习生紧急撤回一个微笑",
-      "onboard_time": 1713962838,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 221692,
       "num": 221692,
       "word": "无限暖暖首测",
@@ -1345,6 +1377,14 @@
       "onboard_time": 1713957319,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210343,
+      "num": 210343,
+      "word": "你阿尼亚来了中国也得上班",
+      "onboard_time": 1713964098,
+      "rank": 31,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 208902,
@@ -1587,8 +1627,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 191447,
-      "num": 191447,
+      "raw_hot": 191606,
+      "num": 191606,
       "word": "乳腺疾病真的是被气出来的吗",
       "onboard_time": 1713959779,
       "rank": 38,
@@ -1995,8 +2035,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 156556,
-      "num": 156556,
+      "raw_hot": 157270,
+      "num": 157270,
       "word": "华为Pura70已修复AI消除衣服bug",
       "onboard_time": 1713961278,
       "rank": 49,
@@ -2233,6 +2273,14 @@
       "onboard_time": 1713935480,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 140225,
+      "num": 140225,
+      "word": "白鹿宋雨琦范丞丞cha了",
+      "onboard_time": 1713963858,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139467,
@@ -2635,6 +2683,22 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 113935,
+      "num": 113935,
+      "word": "今晚月亮真圆",
+      "onboard_time": 1713964999,
+      "rank": 47,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 112946,
+      "num": 112946,
+      "word": "身份证号码中包含X该如何买票",
+      "onboard_time": 1713964878,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 112571,
       "num": 90274,
       "word": "林俊杰演唱会厦门站报批歌单",
@@ -2929,6 +2993,22 @@
       "onboard_time": 1713900671,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 55211,
+      "num": 253648,
+      "word": "Z9打游戏强得很持久",
+      "onboard_time": 1713963677,
+      "rank": 18,
+      "category": "游戏,数码"
+    },
+    {
+      "raw_hot": 50649,
+      "num": 236076,
+      "word": "Z9原来是贼久的意思",
+      "onboard_time": 1713963498,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 48815,
