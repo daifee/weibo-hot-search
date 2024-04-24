@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713957405744,
+  "endTime": 1713958482115,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -179,8 +179,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 2056494,
-      "num": 2056494,
+      "raw_hot": 2057901,
+      "num": 2057901,
       "word": "大麦网已退票退款",
       "onboard_time": 1713952578,
       "rank": 1,
@@ -897,6 +897,14 @@
       "onboard_time": 1713950599,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 960096,
+      "num": 481085,
+      "word": "被评最美公务员干部被曝曾殴打残疾人",
+      "onboard_time": 1713956298,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 957601,
@@ -2307,14 +2315,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 533437,
-      "num": 481085,
-      "word": "被评最美公务员干部被曝曾殴打残疾人",
-      "onboard_time": 1713956298,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 530827,
       "num": 530827,
       "word": "都怪李秀满",
@@ -2449,6 +2449,14 @@
       "onboard_time": 1713669499,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 509675,
+      "num": 509675,
+      "word": "浪3 白月光",
+      "onboard_time": 1713954858,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 509023,
@@ -2809,14 +2817,6 @@
       "onboard_time": 1713858677,
       "rank": 8,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 461245,
-      "num": 461245,
-      "word": "浪3 白月光",
-      "onboard_time": 1713954858,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 460517,
@@ -3291,6 +3291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400442,
+      "num": 400442,
+      "word": "iPhone15频降价引吐槽",
+      "onboard_time": 1713956420,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 400051,
       "num": 532244,
       "word": "网文作家已成90后的热门兼职",
@@ -3475,6 +3483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379228,
+      "num": 314842,
+      "word": "这些人工合成水果又出来骗人了",
+      "onboard_time": 1713952998,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378135,
       "num": 367245,
       "word": "刘诗诗下厨",
@@ -3521,14 +3537,6 @@
       "onboard_time": 1713689357,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 369762,
-      "num": 314842,
-      "word": "这些人工合成水果又出来骗人了",
-      "onboard_time": 1713952998,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368398,
@@ -3912,6 +3920,14 @@
       "word": "贤佑海仁睡了我出生了",
       "onboard_time": 1713629060,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 325233,
+      "num": 325233,
+      "word": "孔刘宋慧乔或合作新剧",
+      "onboard_time": 1713956958,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -4587,14 +4603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 269439,
-      "num": 269439,
-      "word": "孔刘宋慧乔或合作新剧",
-      "onboard_time": 1713956958,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 269354,
       "num": 237258,
       "word": "让腿越来越瘦的12个习惯",
@@ -4977,14 +4985,6 @@
       "onboard_time": 1713708742,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 247783,
-      "num": 247783,
-      "word": "iPhone15频降价引吐槽",
-      "onboard_time": 1713956420,
-      "rank": 23,
-      "category": "数码"
     },
     {
       "raw_hot": 247728,
@@ -5377,6 +5377,14 @@
       "onboard_time": 1713848841,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232102,
+      "num": 232102,
+      "word": "花少中热巴的美妆好物",
+      "onboard_time": 1713957019,
+      "rank": 32,
+      "category": "美妆,综艺"
     },
     {
       "raw_hot": 231764,
@@ -5891,6 +5899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211798,
+      "num": 211798,
+      "word": "黄子韬孙千互怼能看一百遍",
+      "onboard_time": 1713957319,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211100,
       "num": 211100,
       "word": "凤凰传奇军训",
@@ -5953,6 +5969,14 @@
       "onboard_time": 1713766639,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209504,
+      "num": 209504,
+      "word": "杨幂原声台词有无字幕对比",
+      "onboard_time": 1713957557,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 209447,
@@ -7187,14 +7211,6 @@
       "category": "国内时政,科学科普"
     },
     {
-      "raw_hot": 186876,
-      "num": 186876,
-      "word": "花少中热巴的美妆好物",
-      "onboard_time": 1713957019,
-      "rank": 32,
-      "category": "美妆,综艺"
-    },
-    {
       "raw_hot": 186694,
       "num": 186694,
       "word": "大梦归离",
@@ -7241,6 +7257,14 @@
       "onboard_time": 1713853639,
       "rank": 33,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 186219,
+      "num": 186219,
+      "word": "如何把双休变成三休",
+      "onboard_time": 1713957199,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 186038,
@@ -8275,6 +8299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164023,
+      "num": 164023,
+      "word": "买凤凰传奇柱子票获鸟巢票粉丝发声",
+      "onboard_time": 1713957619,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163813,
       "num": 163813,
       "word": "时代少年团演唱会",
@@ -8665,14 +8697,6 @@
       "onboard_time": 1713867919,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 156175,
-      "num": 156175,
-      "word": "如何把双休变成三休",
-      "onboard_time": 1713957199,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 156002,
@@ -10059,6 +10083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132184,
+      "num": 132184,
+      "word": "海贼王伏笔回收",
+      "onboard_time": 1713954798,
+      "rank": 44,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 132035,
       "num": 132035,
       "word": "为什么大家都不喜欢付邮费",
@@ -10145,14 +10177,6 @@
       "onboard_time": 1713939676,
       "rank": 40,
       "category": "财经,美食"
-    },
-    {
-      "raw_hot": 130193,
-      "num": 130193,
-      "word": "海贼王伏笔回收",
-      "onboard_time": 1713954798,
-      "rank": 44,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 129568,
@@ -10377,14 +10401,6 @@
       "onboard_time": 1713922096,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125881,
-      "num": 125881,
-      "word": "黄子韬孙千互怼能看一百遍",
-      "onboard_time": 1713957319,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 125823,
@@ -10740,7 +10756,7 @@
     },
     {
       "raw_hot": 116350,
-      "num": 116350,
+      "num": 195017,
       "word": "提醒布林肯别想带着筹码来访华",
       "onboard_time": 1713954738,
       "rank": 47,
@@ -10969,6 +10985,14 @@
       "onboard_time": 1713681199,
       "rank": 47,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 108809,
+      "num": 108809,
+      "word": "张颂文捡的流浪狗",
+      "onboard_time": 1713958398,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 108743,
@@ -11907,6 +11931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34923,
+      "num": 133424,
+      "word": "普拉多又来整治硬派越野市场了",
+      "onboard_time": 1713958157,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 34861,
       "num": 914454,
       "word": "文化中国行",
@@ -11945,6 +11977,14 @@
       "onboard_time": 1713806173,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32040,
+      "num": 199037,
+      "word": "岚图携手华为全新纯电SUV剧透",
+      "onboard_time": 1713956778,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 31114,
@@ -11993,14 +12033,6 @@
       "onboard_time": 1713639913,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26721,
-      "num": 199037,
-      "word": "岚图携手华为全新纯电SUV剧透",
-      "onboard_time": 1713956778,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 25393,
@@ -12115,6 +12147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17597,
+      "num": 145640,
+      "word": "梅耶马斯克在用什么底妆",
+      "onboard_time": 1713956898,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 17504,
       "num": 19463,
       "word": "喜剧之王单口季",
@@ -12137,14 +12177,6 @@
       "onboard_time": 1713818470,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 15235,
-      "num": 145640,
-      "word": "梅耶马斯克在用什么底妆",
-      "onboard_time": 1713956898,
-      "rank": 38,
-      "category": "美妆"
     },
     {
       "raw_hot": 14892,

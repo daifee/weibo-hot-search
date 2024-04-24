@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/24 19:16:45
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/24 19:34:42
 </p>
 </blockquote>
 <p>
@@ -640,7 +640,7 @@ Thurman猫一杯视频号被封（热度：2380031）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BA%A6%E7%BD%91%E5%B7%B2%E9%80%80%E7%A5%A8%E9%80%80%E6%AC%BE%23" target="weibo">
-大麦网已退票退款（热度：2056494）
+大麦网已退票退款（热度：2057901）
 </a>
 </li>
 
@@ -4131,6 +4131,12 @@ iPhone16或将变秃（热度：1001458）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%AF%84%E6%9C%80%E7%BE%8E%E5%85%AC%E5%8A%A1%E5%91%98%E5%B9%B2%E9%83%A8%E8%A2%AB%E6%9B%9D%E6%9B%BE%E6%AE%B4%E6%89%93%E6%AE%8B%E7%96%BE%E4%BA%BA%23" target="weibo">
+被评最美公务员干部被曝曾殴打残疾人（热度：960096）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E7%87%95%E5%A7%BF%20%E9%9F%A9%E4%BA%BF%23" target="weibo">
 郑燕姿 韩亿（热度：959105）
 </a>
@@ -6005,12 +6011,6 @@ TFBOYS文案什么意思（热度：811913）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BA%BA%E7%BB%B4%E4%BF%9D%E7%94%B5%E6%A2%AF%E4%B8%80%E4%BA%BA%E7%AB%9F%E6%98%AF%E7%BA%B8%E7%89%87%E4%BA%BA%23" target="weibo">
 两人维保电梯一人竟是纸片人（热度：770818）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%BD%E9%A3%8E%E8%80%85%E9%98%BF%E6%96%87%E8%B7%B3%E6%A5%BC%23" target="weibo">
-追风者阿文跳楼（热度：769672）
 </a>
 </li>
 
