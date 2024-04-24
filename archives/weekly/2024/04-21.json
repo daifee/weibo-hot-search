@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713975704162,
+  "endTime": 1713976620035,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -3595,6 +3595,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 385003,
+      "num": 282212,
+      "word": "章子怡 我的职业生涯不必在意",
+      "onboard_time": 1713974778,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 384926,
       "num": 384926,
       "word": "LESSERAFIM科切拉舞台第二场",
@@ -3699,6 +3707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370649,
+      "num": 370649,
+      "word": "菠菜一定焯水后吃否则或引发肾损伤",
+      "onboard_time": 1713971060,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 368398,
       "num": 368398,
       "word": "薛之谦厦门",
@@ -3753,6 +3769,14 @@
       "onboard_time": 1713675319,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 360636,
+      "num": 360636,
+      "word": "男孩骑车失误刹车把手插进大腿里",
+      "onboard_time": 1713974117,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360188,
@@ -4043,14 +4067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334428,
-      "num": 334428,
-      "word": "菠菜一定焯水后吃否则或引发肾损伤",
-      "onboard_time": 1713971060,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 333424,
       "num": 333424,
       "word": "花少导演组靠秦海璐拉群",
@@ -4121,14 +4137,6 @@
       "onboard_time": 1713629060,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 325571,
-      "num": 282212,
-      "word": "章子怡 我的职业生涯不必在意",
-      "onboard_time": 1713974778,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 325233,
@@ -5249,6 +5257,14 @@
       "onboard_time": 1713770356,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248310,
+      "num": 248310,
+      "word": "买长乘短是一种不折不扣的双输",
+      "onboard_time": 1713972858,
+      "rank": 17,
+      "category": "旅游"
     },
     {
       "raw_hot": 247819,
@@ -6755,14 +6771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201533,
-      "num": 201533,
-      "word": "买长乘短是一种不折不扣的双输",
-      "onboard_time": 1713972858,
-      "rank": 17,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 201504,
       "num": 201504,
       "word": "田嘉瑞首部男二剧",
@@ -7569,14 +7577,6 @@
       "onboard_time": 1713617778,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187676,
-      "num": 285504,
-      "word": "男孩骑车失误刹车把手插进大腿里",
-      "onboard_time": 1713974117,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187395,
@@ -11235,6 +11235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119423,
+      "num": 119423,
+      "word": "秦海璐刘涛 我带你梦想成真",
+      "onboard_time": 1713975557,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119312,
       "num": 119312,
       "word": "沙特电竞世界杯宣传片公布",
@@ -12131,14 +12139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 71045,
-      "num": 71045,
-      "word": "秦海璐刘涛 我带你梦想成真",
-      "onboard_time": 1713975557,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 67576,
       "num": 107513,
       "word": "CFPLS23总决赛",
@@ -12240,6 +12240,14 @@
       "word": "于适说小时候流行的都会",
       "onboard_time": 1713891016,
       "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 60128,
+      "num": 60128,
+      "word": "破墓海报",
+      "onboard_time": 1713975917,
+      "rank": 49,
       "category": "电影"
     },
     {
@@ -12403,6 +12411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 49574,
+      "num": 132269,
+      "word": "女公交司机驾车过3个鸡蛋完好无损",
+      "onboard_time": 1713974178,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49209,
       "num": 41388,
       "word": "张艺兴Psychic国内舞台首秀",
@@ -12449,14 +12465,6 @@
       "onboard_time": 1713616037,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42945,
-      "num": 132269,
-      "word": "女公交司机驾车过3个鸡蛋完好无损",
-      "onboard_time": 1713974178,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42439,
