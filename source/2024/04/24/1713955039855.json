@@ -1,0 +1,410 @@
+{
+  "runTime": 1713955039855,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2295173,
+        "num": 2295173,
+        "word": "玲花 维权是你们的权利",
+        "onboard_time": 1713947778,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1450750,
+        "num": 1450750,
+        "word": "大麦网已退票退款",
+        "onboard_time": 1713952578,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 10735,
+        "num": 1048687,
+        "word": "万千气象看上海",
+        "onboard_time": 1713928217,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 954989,
+        "num": 954989,
+        "word": "金价下跌有人卖了一百多万金条",
+        "onboard_time": 1713950599,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 845876,
+        "num": 845876,
+        "word": "五月天官宣鸟巢开十场",
+        "onboard_time": 1713953900,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 816922,
+        "num": 816922,
+        "word": "长期吃铝包子或引发肝肾损伤",
+        "onboard_time": 1713948199,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 702350,
+        "num": 702350,
+        "word": "苹果定位 发现石油",
+        "onboard_time": 1713949458,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 565242,
+        "num": 629409,
+        "word": "布林肯抵达上海",
+        "onboard_time": 1713951377,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 132897,
+        "num": 629350,
+        "word": "他赌上3分之1人生建港珠澳大桥",
+        "onboard_time": 1713943218,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 343682,
+        "num": 629348,
+        "word": "手机里存了3个月的照片终于删了",
+        "onboard_time": 1713952039,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 629348,
+        "num": 629347,
+        "word": "Angelababy狼尾超短发",
+        "onboard_time": 1713944057,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 601241,
+        "num": 601241,
+        "word": "姚志明父亲车祸去世",
+        "onboard_time": 1713952940,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 573853,
+        "num": 573853,
+        "word": "高君雨全网账号被禁",
+        "onboard_time": 1713946757,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 488536,
+        "num": 488536,
+        "word": "朱梓骁把流星雨的戏服卖了",
+        "onboard_time": 1713949218,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484814,
+        "num": 484814,
+        "word": "贾斯汀比伯为好友遭遇抢劫中枪身亡发声",
+        "onboard_time": 1713937518,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432874,
+        "num": 432874,
+        "word": "福宝",
+        "onboard_time": 1713949759,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379713,
+        "num": 379713,
+        "word": "时代少年团直播",
+        "onboard_time": 1713953959,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335523,
+        "num": 335523,
+        "word": "发现石油",
+        "onboard_time": 1713951738,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 291983,
+        "num": 291983,
+        "word": "女校长诈骗学生家长5000万后自杀身亡",
+        "onboard_time": 1713942798,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288068,
+        "num": 288068,
+        "word": "illit疑似抄袭straykids手势",
+        "onboard_time": 1713950718,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283561,
+        "num": 283561,
+        "word": "李现又要带火一小镇了",
+        "onboard_time": 1713934399,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280879,
+        "num": 280879,
+        "word": "玲花给买到柱子票的粉丝留了鸟巢的票",
+        "onboard_time": 1713946878,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 264846,
+        "num": 264846,
+        "word": "耙耙柑是讨好型水果吧",
+        "onboard_time": 1713938837,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200608,
+        "num": 200608,
+        "word": "四年失业三次",
+        "onboard_time": 1713952578,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198383,
+        "num": 198383,
+        "word": "难以想象五一去旅游的人会有多少",
+        "onboard_time": 1713950419,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 227983,
+        "num": 196618,
+        "word": "狗头萝莉公开煎饼摊收支结余",
+        "onboard_time": 1713942077,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 194109,
+        "num": 194109,
+        "word": "大麦 柱子票",
+        "onboard_time": 1713952039,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192349,
+        "num": 192349,
+        "word": "这些人工合成水果又出来骗人了",
+        "onboard_time": 1713952998,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152408,
+        "num": 172642,
+        "word": "考研是巨大的爆改",
+        "onboard_time": 1713952517,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126638,
+        "num": 170143,
+        "word": "沈阳发生持刀伤人嫌犯被抓",
+        "onboard_time": 1713942198,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168739,
+        "num": 168739,
+        "word": "黄子弘凡你怎么不笑啊",
+        "onboard_time": 1713953179,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168043,
+        "num": 168043,
+        "word": "向佐把向太送的包卖了",
+        "onboard_time": 1713934280,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164747,
+        "num": 164747,
+        "word": "卢昱晓单肩黑裙",
+        "onboard_time": 1713943518,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164076,
+        "num": 164076,
+        "word": "邓为能不能拍部现偶",
+        "onboard_time": 1713954620,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32174,
+        "num": 162021,
+        "word": "被大G电到了",
+        "onboard_time": 1713954319,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 160506,
+        "num": 160506,
+        "word": "粉丝想和杨幂合影气前男友",
+        "onboard_time": 1713951559,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159716,
+        "num": 159716,
+        "word": "华为回应P70手机AI修图能消除衣服",
+        "onboard_time": 1713947298,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138484,
+        "num": 138484,
+        "word": "貂蝉荧星流火新皮肤",
+        "onboard_time": 1713952217,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138479,
+        "num": 138479,
+        "word": "花少5花少1像两个团",
+        "onboard_time": 1713945018,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132864,
+        "num": 132864,
+        "word": "圣枪哥加入JDG后胖了26斤",
+        "onboard_time": 1713953780,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130070,
+        "num": 130070,
+        "word": "孙杨正式恢复训练",
+        "onboard_time": 1713950959,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127555,
+        "num": 127555,
+        "word": "运动瘦了45斤后变化有多大",
+        "onboard_time": 1713933320,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 126493,
+        "num": 126493,
+        "word": "老友记节目组苏醒点你呢",
+        "onboard_time": 1713952159,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120577,
+        "num": 120577,
+        "word": "浪3 白月光",
+        "onboard_time": 1713954858,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119666,
+        "num": 119666,
+        "word": "海贼王伏笔回收",
+        "onboard_time": 1713954798,
+        "rank": 44,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 118717,
+        "num": 118717,
+        "word": "凤凰传奇 真诚",
+        "onboard_time": 1713948139,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118546,
+        "num": 118546,
+        "word": "林更新想看赵丽颖做单线任务",
+        "onboard_time": 1713948319,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116350,
+        "num": 116350,
+        "word": "提醒布林肯别想带着筹码来访华",
+        "onboard_time": 1713954738,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 115074,
+        "num": 115074,
+        "word": "赵奕欢为假睫毛和美甲道歉",
+        "onboard_time": 1713945497,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110367,
+        "num": 110367,
+        "word": "苹果客服回应发现石油触发定位",
+        "onboard_time": 1713951498,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#唱好成渝双城记打开发展新格局#"
+    }
+  }
+}

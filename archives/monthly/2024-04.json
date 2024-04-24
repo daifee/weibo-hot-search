@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713954013488,
+  "endTime": 1713955039855,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2203,6 +2203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1450750,
+      "num": 1450750,
+      "word": "大麦网已退票退款",
+      "onboard_time": 1713952578,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1446416,
       "num": 1446416,
       "word": "周杰伦长沙",
@@ -3521,14 +3529,6 @@
       "onboard_time": 1712570899,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1184106,
-      "num": 1184106,
-      "word": "大麦网已退票退款",
-      "onboard_time": 1713952578,
-      "rank": 1,
-      "category": "演出"
     },
     {
       "raw_hot": 1184063,
@@ -6721,6 +6721,14 @@
       "onboard_time": 1713018259,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 845876,
+      "num": 845876,
+      "word": "五月天官宣鸟巢开十场",
+      "onboard_time": 1713953900,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 845707,
@@ -11731,6 +11739,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 601241,
+      "num": 601241,
+      "word": "姚志明父亲车祸去世",
+      "onboard_time": 1713952940,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 600544,
       "num": 600544,
       "word": "读研后多了很多朴素的愿望",
@@ -15481,14 +15497,6 @@
       "onboard_time": 1712633298,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 493445,
-      "num": 493445,
-      "word": "姚志明父亲车祸去世",
-      "onboard_time": 1713952940,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 493382,
@@ -20931,6 +20939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 379713,
+      "num": 379713,
+      "word": "时代少年团直播",
+      "onboard_time": 1711886358,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379648,
       "num": 379648,
       "word": "郭炜炜 做不好就不要做了",
@@ -20969,14 +20985,6 @@
       "onboard_time": 1713419958,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 378853,
-      "num": 378853,
-      "word": "时代少年团直播",
-      "onboard_time": 1711886358,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 378816,
@@ -23001,6 +23009,14 @@
       "onboard_time": 1712631859,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343682,
+      "num": 667091,
+      "word": "手机里存了3个月的照片终于删了",
+      "onboard_time": 1713952039,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 343621,
@@ -26737,14 +26753,6 @@
       "onboard_time": 1713081259,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 291347,
-      "num": 667091,
-      "word": "手机里存了3个月的照片终于删了",
-      "onboard_time": 1713952039,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 291211,
@@ -39899,6 +39907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198383,
+      "num": 198383,
+      "word": "难以想象五一去旅游的人会有多少",
+      "onboard_time": 1713950419,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 198372,
       "num": 198372,
       "word": "华为门店销售称被临时叫来同样很懵",
@@ -41211,14 +41227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193582,
-      "num": 193582,
-      "word": "难以想象五一去旅游的人会有多少",
-      "onboard_time": 1713950419,
-      "rank": 34,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 193567,
       "num": 193567,
       "word": "周冠宇第14名",
@@ -41577,6 +41585,14 @@
       "onboard_time": 1711946064,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192349,
+      "num": 192349,
+      "word": "这些人工合成水果又出来骗人了",
+      "onboard_time": 1713952998,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192325,
@@ -49187,6 +49203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164076,
+      "num": 164076,
+      "word": "邓为能不能拍部现偶",
+      "onboard_time": 1713954620,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164050,
       "num": 164050,
       "word": "尹净汉Weverse",
@@ -52579,14 +52603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151841,
-      "num": 148676,
-      "word": "五月天官宣鸟巢开十场",
-      "onboard_time": 1713953900,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 151818,
       "num": 151818,
       "word": "蔡依林沈阳 抢票",
@@ -54849,14 +54865,6 @@
       "onboard_time": 1712281217,
       "rank": 40,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 144765,
-      "num": 144765,
-      "word": "这些人工合成水果又出来骗人了",
-      "onboard_time": 1713952998,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144708,
@@ -57971,6 +57979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132864,
+      "num": 132864,
+      "word": "圣枪哥加入JDG后胖了26斤",
+      "onboard_time": 1713953780,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132809,
       "num": 132809,
       "word": "防晒衣紫外线阻隔率可达99%",
@@ -58529,14 +58545,6 @@
       "onboard_time": 1713273018,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 130740,
-      "num": 130740,
-      "word": "圣枪哥加入JDG后胖了26斤",
-      "onboard_time": 1713953780,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 130729,
@@ -60699,6 +60707,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 120577,
+      "num": 120577,
+      "word": "浪3 白月光",
+      "onboard_time": 1713954858,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120546,
       "num": 120546,
       "word": "轻断食好坏不能轻易定论",
@@ -60905,6 +60921,14 @@
       "onboard_time": 1713351619,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119666,
+      "num": 119666,
+      "word": "海贼王伏笔回收",
+      "onboard_time": 1713954798,
+      "rank": 44,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 119614,
@@ -61441,6 +61465,14 @@
       "onboard_time": 1713922396,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116350,
+      "num": 116350,
+      "word": "提醒布林肯别想带着筹码来访华",
+      "onboard_time": 1713954738,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 116342,
@@ -67696,6 +67728,14 @@
       "word": "丰田首款国产四驱MPV格瑞维亚",
       "onboard_time": 1713426438,
       "rank": 27,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 32174,
+      "num": 162021,
+      "word": "被大G电到了",
+      "onboard_time": 1713954319,
+      "rank": 34,
       "category": "汽车"
     },
     {

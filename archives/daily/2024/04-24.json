@@ -1,6 +1,6 @@
 {
   "startTime": 1713889329936,
-  "endTime": 1713954013488,
+  "endTime": 1713955039855,
   "band_list": [
     {
       "raw_hot": 2626146,
@@ -33,6 +33,14 @@
       "onboard_time": 1713937518,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1450750,
+      "num": 1450750,
+      "word": "大麦网已退票退款",
+      "onboard_time": 1713952578,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 1438025,
@@ -73,14 +81,6 @@
       "onboard_time": 1713882259,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1184106,
-      "num": 1184106,
-      "word": "大麦网已退票退款",
-      "onboard_time": 1713952578,
-      "rank": 1,
-      "category": "演出"
     },
     {
       "raw_hot": 1146776,
@@ -169,6 +169,14 @@
       "onboard_time": 1713937937,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 845876,
+      "num": 845876,
+      "word": "五月天官宣鸟巢开十场",
+      "onboard_time": 1713953900,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 838426,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601241,
+      "num": 601241,
+      "word": "姚志明父亲车祸去世",
+      "onboard_time": 1713952940,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 593706,
       "num": 477651,
       "word": "女子反映天然气费用突增老公被公司约谈",
@@ -472,14 +488,6 @@
       "word": "爱奇艺片单",
       "onboard_time": 1713923356,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 493445,
-      "num": 493445,
-      "word": "姚志明父亲车祸去世",
-      "onboard_time": 1713952940,
-      "rank": 13,
       "category": "剧集"
     },
     {
@@ -659,6 +667,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 379713,
+      "num": 379713,
+      "word": "时代少年团直播",
+      "onboard_time": 1713953959,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374085,
       "num": 319799,
       "word": "9岁坠楼男孩生前最后5分钟发呆徘徊",
@@ -729,6 +745,14 @@
       "onboard_time": 1713950718,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343682,
+      "num": 667091,
+      "word": "手机里存了3个月的照片终于删了",
+      "onboard_time": 1713952039,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 331302,
@@ -889,14 +913,6 @@
       "onboard_time": 1713940818,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291347,
-      "num": 667091,
-      "word": "手机里存了3个月的照片终于删了",
-      "onboard_time": 1713952039,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 288843,
@@ -1081,14 +1097,6 @@
       "onboard_time": 1713938237,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224772,
-      "num": 214468,
-      "word": "时代少年团直播",
-      "onboard_time": 1713953959,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 221692,
@@ -1299,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198383,
+      "num": 198383,
+      "word": "难以想象五一去旅游的人会有多少",
+      "onboard_time": 1713950419,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 197005,
       "num": 197005,
       "word": "世界之外",
@@ -1363,12 +1379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193582,
-      "num": 193582,
-      "word": "难以想象五一去旅游的人会有多少",
-      "onboard_time": 1713950419,
-      "rank": 34,
-      "category": "旅游"
+      "raw_hot": 192349,
+      "num": 192349,
+      "word": "这些人工合成水果又出来骗人了",
+      "onboard_time": 1713952998,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191328,
@@ -1659,6 +1675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164076,
+      "num": 164076,
+      "word": "邓为能不能拍部现偶",
+      "onboard_time": 1713954620,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163495,
       "num": 163495,
       "word": "刚出生十几天的小金毛",
@@ -1803,14 +1827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151841,
-      "num": 148676,
-      "word": "五月天官宣鸟巢开十场",
-      "onboard_time": 1713953900,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 150669,
       "num": 150669,
       "word": "wvscon阵容",
@@ -1921,14 +1937,6 @@
       "onboard_time": 1713942977,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144765,
-      "num": 144765,
-      "word": "这些人工合成水果又出来骗人了",
-      "onboard_time": 1713952998,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142533,
@@ -2067,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132864,
+      "num": 132864,
+      "word": "圣枪哥加入JDG后胖了26斤",
+      "onboard_time": 1713953780,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132390,
       "num": 132390,
       "word": "A股",
@@ -2097,14 +2113,6 @@
       "onboard_time": 1713938358,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130740,
-      "num": 130740,
-      "word": "圣枪哥加入JDG后胖了26斤",
-      "onboard_time": 1713953780,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 130729,
@@ -2243,6 +2251,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 120577,
+      "num": 120577,
+      "word": "浪3 白月光",
+      "onboard_time": 1713954858,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120318,
       "num": 120318,
       "word": "杜兰特18分",
@@ -2257,6 +2273,14 @@
       "onboard_time": 1713917118,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119666,
+      "num": 119666,
+      "word": "海贼王伏笔回收",
+      "onboard_time": 1713954798,
+      "rank": 44,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 119206,
@@ -2289,6 +2313,14 @@
       "onboard_time": 1713922396,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116350,
+      "num": 116350,
+      "word": "提醒布林肯别想带着筹码来访华",
+      "onboard_time": 1713954738,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 116246,
@@ -2657,6 +2689,14 @@
       "onboard_time": 1713946578,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32174,
+      "num": 162021,
+      "word": "被大G电到了",
+      "onboard_time": 1713954319,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 31114,
