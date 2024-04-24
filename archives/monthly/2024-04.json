@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713928798660,
+  "endTime": 1713929748028,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -7043,6 +7043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 813895,
+      "num": 813895,
+      "word": "神十八",
+      "onboard_time": 1713928879,
+      "rank": 1,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 812938,
       "num": 812938,
       "word": "秦岚娜扎花少出发",
@@ -8307,6 +8315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 740875,
+      "num": 471251,
+      "word": "鹿晗染了金发",
+      "onboard_time": 1713927376,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 739668,
       "num": 717302,
       "word": "杨幂文替",
@@ -9041,14 +9057,6 @@
       "onboard_time": 1713862159,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 704004,
-      "num": 374463,
-      "word": "鹿晗染了金发",
-      "onboard_time": 1713927376,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 703675,
@@ -10585,6 +10593,14 @@
       "onboard_time": 1711894040,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 636140,
+      "num": 636140,
+      "word": "披荆斩棘的大小姐定档",
+      "onboard_time": 1713928337,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 636049,
@@ -14115,6 +14131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 521282,
+      "num": 521282,
+      "word": "三年幼儿园 一生战友情",
+      "onboard_time": 1713926958,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 520847,
       "num": 520847,
       "word": "电视剧遮天阵容官宣",
@@ -16771,6 +16795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 456663,
+      "num": 456663,
+      "word": "俄国防部副部长伊万诺夫被拘留",
+      "onboard_time": 1713928096,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 456612,
       "num": 456612,
       "word": "王一博你终于不戴帽子了",
@@ -17153,6 +17185,14 @@
       "onboard_time": 1712387718,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 449296,
+      "num": 488307,
+      "word": "神十八航天员首次亮相",
+      "onboard_time": 1713928818,
+      "rank": 8,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 449039,
@@ -20523,14 +20563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 380555,
-      "num": 380555,
-      "word": "披荆斩棘的大小姐定档",
-      "onboard_time": 1713928337,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 380316,
       "num": 295046,
       "word": "女子养的宠物貂被洗衣机洗了15分钟",
@@ -21625,14 +21657,6 @@
       "onboard_time": 1711948222,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 358136,
-      "num": 358136,
-      "word": "俄国防部副部长伊万诺夫被拘留",
-      "onboard_time": 1713928096,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 357993,
@@ -25497,6 +25521,14 @@
       "onboard_time": 1713500299,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300323,
+      "num": 300323,
+      "word": "神十八航天员简历",
+      "onboard_time": 1713928638,
+      "rank": 34,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 300266,
@@ -30179,14 +30211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250493,
-      "num": 250493,
-      "word": "三年幼儿园 一生战友情",
-      "onboard_time": 1713926958,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 250478,
       "num": 250478,
       "word": "Knight我的沙皇也能夺冠了",
@@ -30593,6 +30617,14 @@
       "onboard_time": 1713882739,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247251,
+      "num": 247251,
+      "word": "美国参议院通过涉字节剥离TikTok新法案",
+      "onboard_time": 1713929178,
+      "rank": 20,
+      "category": "国外时政,互联网"
     },
     {
       "raw_hot": 247099,
@@ -31049,6 +31081,14 @@
       "onboard_time": 1712804119,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 243570,
+      "num": 485431,
+      "word": "为年轻人开的15元旅店17年没涨价",
+      "onboard_time": 1713927857,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243564,
@@ -32313,6 +32353,14 @@
       "onboard_time": 1712932638,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233609,
+      "num": 233609,
+      "word": "太空养鱼",
+      "onboard_time": 1713928937,
+      "rank": 21,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 233520,
@@ -35297,6 +35345,14 @@
       "onboard_time": 1713243739,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 213501,
+      "num": 213501,
+      "word": "林孝埈Wonderland首封",
+      "onboard_time": 1713928278,
+      "rank": 21,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 213483,
@@ -39555,6 +39611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196998,
+      "num": 196998,
+      "word": "航天员叶光富李聪李广苏",
+      "onboard_time": 1713929118,
+      "rank": 25,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 196982,
       "num": 196982,
       "word": "田曦薇配音宫崎骏女孩苏菲",
@@ -40099,14 +40163,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 194984,
-      "num": 194984,
-      "word": "林孝埈Wonderland首封",
-      "onboard_time": 1713928278,
-      "rank": 21,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 194972,
       "num": 214227,
       "word": "王楚钦4比2雨果",
@@ -40403,6 +40459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193905,
+      "num": 193905,
+      "word": "TF三代出道战策划",
+      "onboard_time": 1713929058,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193866,
       "num": 193866,
       "word": "追风者网播指数破90",
@@ -40449,6 +40513,14 @@
       "onboard_time": 1713578836,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193724,
+      "num": 193724,
+      "word": "直到登陆那天",
+      "onboard_time": 1713929118,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 193696,
@@ -42819,6 +42891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186488,
+      "num": 186488,
+      "word": "神十八航天员见面会",
+      "onboard_time": 1713928758,
+      "rank": 45,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 186484,
       "num": 175971,
       "word": "有种早起可能比熬夜更伤身",
@@ -42833,6 +42913,14 @@
       "onboard_time": 1713843197,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186468,
+      "num": 186468,
+      "word": "新浪微博要发射火箭了",
+      "onboard_time": 1713925936,
+      "rank": 32,
+      "category": "军事,科学科普"
     },
     {
       "raw_hot": 186443,
@@ -44801,6 +44889,14 @@
       "onboard_time": 1712220558,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178395,
+      "num": 178395,
+      "word": "安宰贤说独居15年了",
+      "onboard_time": 1713929419,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 178302,
@@ -47251,6 +47347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168105,
+      "num": 168105,
+      "word": "Steam更新退款政策",
+      "onboard_time": 1713928818,
+      "rank": 33,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 168057,
       "num": 168057,
       "word": "元气森林音乐节阵容",
@@ -48715,6 +48819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162021,
+      "num": 162021,
+      "word": "神十八乘组国旗前挥手",
+      "onboard_time": 1713929238,
+      "rank": 35,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 162009,
       "num": 162009,
       "word": "韩网评价金秀贤演技",
@@ -49089,6 +49201,14 @@
       "onboard_time": 1712840359,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160260,
+      "num": 160260,
+      "word": "TF家族三代出道战官宣",
+      "onboard_time": 1713929598,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 160247,
@@ -50443,6 +50563,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 155510,
+      "num": 155510,
+      "word": "电视剧水龙吟杀青",
+      "onboard_time": 1713929656,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155507,
       "num": 155507,
       "word": "黑执事 恶魔帅回来了",
@@ -51147,6 +51275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 153099,
+      "num": 153099,
+      "word": "杨紫想尝试导演和制片",
+      "onboard_time": 1713929656,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153089,
       "num": 153089,
       "word": "专八阅读 被狗追",
@@ -51289,6 +51425,14 @@
       "onboard_time": 1712865851,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 152549,
+      "num": 152549,
+      "word": "专家称挂床帘影响同学间交流",
+      "onboard_time": 1713928577,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 152526,
@@ -51475,6 +51619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152058,
+      "num": 152058,
+      "word": "高校学生称挂床帘影响评奖评优",
+      "onboard_time": 1713929298,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152048,
       "num": 152048,
       "word": "张凌赫为母校录制VCR",
@@ -51561,14 +51713,6 @@
       "onboard_time": 1712407158,
       "rank": 34,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 151811,
-      "num": 151811,
-      "word": "新浪微博要发射火箭了",
-      "onboard_time": 1713925936,
-      "rank": 32,
-      "category": "军事,科学科普"
     },
     {
       "raw_hot": 151779,
@@ -52425,6 +52569,14 @@
       "onboard_time": 1712706497,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148967,
+      "num": 148967,
+      "word": "oner燃点全国巡演",
+      "onboard_time": 1713929238,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 148964,
@@ -54667,14 +54819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141211,
-      "num": 141211,
-      "word": "专家称挂床帘影响同学间交流",
-      "onboard_time": 1713928577,
-      "rank": 33,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 141200,
       "num": 141200,
       "word": "论文查重",
@@ -55019,14 +55163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140000,
-      "num": 140000,
-      "word": "神十八航天员简历",
-      "onboard_time": 1713928638,
-      "rank": 34,
-      "category": "国内时政,科学科普"
-    },
-    {
       "raw_hot": 139948,
       "num": 139948,
       "word": "WTT抽签直播",
@@ -55209,6 +55345,14 @@
       "onboard_time": 1712454917,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138942,
+      "num": 138942,
+      "word": "宿舍挂床帘",
+      "onboard_time": 1713929718,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138937,
@@ -56449,6 +56593,14 @@
       "onboard_time": 1712989757,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134300,
+      "num": 134300,
+      "word": "iPhone16或将变秃",
+      "onboard_time": 1713929537,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 134256,
@@ -60275,14 +60427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115863,
-      "num": 374932,
-      "word": "为年轻人开的15元旅店17年没涨价",
-      "onboard_time": 1713927857,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115819,
       "num": 115819,
       "word": "想看刘宇宁被吓哭",
@@ -60825,14 +60969,6 @@
       "onboard_time": 1712160499,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 112164,
-      "num": 112164,
-      "word": "神十八航天员见面会",
-      "onboard_time": 1713928758,
-      "rank": 45,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 112129,
@@ -66131,6 +66267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 36059,
+      "num": 732190,
+      "word": "万千气象看上海",
+      "onboard_time": 1713928217,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35568,
       "num": 46813,
       "word": "内蒙古开鲁县干部为何下田拦春耕",
@@ -67051,14 +67195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 21827,
-      "num": 732190,
-      "word": "万千气象看上海",
-      "onboard_time": 1713928217,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21821,
       "num": 313829,
       "word": "九号造车与造片都是科技局",
@@ -67931,6 +68067,9 @@
     },
     {
       "word": "#新时代推动西部大开发座谈会#"
+    },
+    {
+      "word": "#唱好成渝双城记打开发展新格局#"
     }
   ]
 }

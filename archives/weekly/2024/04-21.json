@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713928798660,
+  "endTime": 1713929748028,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -1059,6 +1059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 813895,
+      "num": 813895,
+      "word": "神十八",
+      "onboard_time": 1713928879,
+      "rank": 1,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 811785,
       "num": 811785,
       "word": "金价",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1713625098,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 740875,
+      "num": 471251,
+      "word": "鹿晗染了金发",
+      "onboard_time": 1713927376,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 739668,
@@ -1265,14 +1281,6 @@
       "onboard_time": 1713862159,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 704004,
-      "num": 374463,
-      "word": "鹿晗染了金发",
-      "onboard_time": 1713927376,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 701573,
@@ -1537,6 +1545,14 @@
       "onboard_time": 1713881600,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 636140,
+      "num": 636140,
+      "word": "披荆斩棘的大小姐定档",
+      "onboard_time": 1713928337,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 635933,
@@ -2067,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521282,
+      "num": 521282,
+      "word": "三年幼儿园 一生战友情",
+      "onboard_time": 1713926958,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 520847,
       "num": 520847,
       "word": "电视剧遮天阵容官宣",
@@ -2499,6 +2523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456663,
+      "num": 456663,
+      "word": "俄国防部副部长伊万诺夫被拘留",
+      "onboard_time": 1713928096,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 455209,
       "num": 455209,
       "word": "TF三代出道战即将官宣",
@@ -2569,6 +2601,14 @@
       "onboard_time": 1713692958,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 449296,
+      "num": 488307,
+      "word": "神十八航天员首次亮相",
+      "onboard_time": 1713928818,
+      "rank": 8,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 448734,
@@ -3043,14 +3083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380555,
-      "num": 380555,
-      "word": "披荆斩棘的大小姐定档",
-      "onboard_time": 1713928337,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 379998,
       "num": 379998,
       "word": "二开",
@@ -3153,14 +3185,6 @@
       "onboard_time": 1713830600,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 358136,
-      "num": 358136,
-      "word": "俄国防部副部长伊万诺夫被拘留",
-      "onboard_time": 1713928096,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 357501,
@@ -3649,6 +3673,14 @@
       "onboard_time": 1713834378,
       "rank": 30,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 300323,
+      "num": 300323,
+      "word": "神十八航天员简历",
+      "onboard_time": 1713928638,
+      "rank": 34,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 299011,
@@ -4371,14 +4403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 250493,
-      "num": 250493,
-      "word": "三年幼儿园 一生战友情",
-      "onboard_time": 1713926958,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 250305,
       "num": 250305,
       "word": "丧偶式婚姻真的会让人崩溃",
@@ -4417,6 +4441,14 @@
       "onboard_time": 1713882739,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247251,
+      "num": 247251,
+      "word": "美国参议院通过涉字节剥离TikTok新法案",
+      "onboard_time": 1713929178,
+      "rank": 20,
+      "category": "国外时政,互联网"
     },
     {
       "raw_hot": 246571,
@@ -4513,6 +4545,14 @@
       "onboard_time": 1713689178,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243570,
+      "num": 485431,
+      "word": "为年轻人开的15元旅店17年没涨价",
+      "onboard_time": 1713927857,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242658,
@@ -4721,6 +4761,14 @@
       "onboard_time": 1713777079,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233609,
+      "num": 233609,
+      "word": "太空养鱼",
+      "onboard_time": 1713928937,
+      "rank": 21,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 233476,
@@ -5169,6 +5217,14 @@
       "onboard_time": 1713748457,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213501,
+      "num": 213501,
+      "word": "林孝埈Wonderland首封",
+      "onboard_time": 1713928278,
+      "rank": 21,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 213211,
@@ -5819,6 +5875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196998,
+      "num": 196998,
+      "word": "航天员叶光富李聪李广苏",
+      "onboard_time": 1713929118,
+      "rank": 25,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 196893,
       "num": 196893,
       "word": "关雪抽烟",
@@ -5891,14 +5955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194984,
-      "num": 194984,
-      "word": "林孝埈Wonderland首封",
-      "onboard_time": 1713928278,
-      "rank": 21,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 194864,
       "num": 194864,
       "word": "理想官方全系降价老车主退现金",
@@ -5945,6 +6001,22 @@
       "onboard_time": 1713716957,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193905,
+      "num": 193905,
+      "word": "TF三代出道战策划",
+      "onboard_time": 1713929058,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193724,
+      "num": 193724,
+      "word": "直到登陆那天",
+      "onboard_time": 1713929118,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 193626,
@@ -6331,12 +6403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186488,
+      "num": 186488,
+      "word": "神十八航天员见面会",
+      "onboard_time": 1713928758,
+      "rank": 45,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 186471,
       "num": 186471,
       "word": "蒲熠星知道麦家被17次退稿的反应",
       "onboard_time": 1713843197,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186468,
+      "num": 186468,
+      "word": "新浪微博要发射火箭了",
+      "onboard_time": 1713925936,
+      "rank": 32,
+      "category": "军事,科学科普"
     },
     {
       "raw_hot": 186358,
@@ -6673,6 +6761,14 @@
       "onboard_time": 1713622939,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178395,
+      "num": 178395,
+      "word": "安宰贤说独居15年了",
+      "onboard_time": 1713929419,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 177395,
@@ -7075,6 +7171,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 168105,
+      "num": 168105,
+      "word": "Steam更新退款政策",
+      "onboard_time": 1713928818,
+      "rank": 33,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 167301,
       "num": 167301,
       "word": "seventeen克拉盘",
@@ -7323,6 +7427,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 162021,
+      "num": 162021,
+      "word": "神十八乘组国旗前挥手",
+      "onboard_time": 1713929238,
+      "rank": 35,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 162009,
       "num": 162009,
       "word": "韩网评价金秀贤演技",
@@ -7393,6 +7505,14 @@
       "onboard_time": 1713690798,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 160260,
+      "num": 160260,
+      "word": "TF家族三代出道战官宣",
+      "onboard_time": 1713929598,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 160199,
@@ -7627,6 +7747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155510,
+      "num": 155510,
+      "word": "电视剧水龙吟杀青",
+      "onboard_time": 1713929656,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154950,
       "num": 154950,
       "word": "陈少杰个人财富曾达55亿",
@@ -7771,12 +7899,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153099,
+      "num": 153099,
+      "word": "杨紫想尝试导演和制片",
+      "onboard_time": 1713929656,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152984,
       "num": 152984,
       "word": "广州塔是怎么做到又科幻又仙的",
       "onboard_time": 1713837439,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152549,
+      "num": 152549,
+      "word": "专家称挂床帘影响同学间交流",
+      "onboard_time": 1713928577,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 152526,
@@ -7819,20 +7963,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152058,
+      "num": 152058,
+      "word": "高校学生称挂床帘影响评奖评优",
+      "onboard_time": 1713929298,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152028,
       "num": 152028,
       "word": "春色寄情人 泉州宣传片",
       "onboard_time": 1713800236,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151811,
-      "num": 151811,
-      "word": "新浪微博要发射火箭了",
-      "onboard_time": 1713925936,
-      "rank": 32,
-      "category": "军事,科学科普"
     },
     {
       "raw_hot": 151579,
@@ -7945,6 +8089,14 @@
       "onboard_time": 1713858258,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148967,
+      "num": 148967,
+      "word": "oner燃点全国巡演",
+      "onboard_time": 1713929238,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 148799,
@@ -8363,14 +8515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141211,
-      "num": 141211,
-      "word": "专家称挂床帘影响同学间交流",
-      "onboard_time": 1713928577,
-      "rank": 33,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 141002,
       "num": 141002,
       "word": "八万的吉他让熊孩子灌了四瓶矿泉水",
@@ -8435,14 +8579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140000,
-      "num": 140000,
-      "word": "神十八航天员简历",
-      "onboard_time": 1713928638,
-      "rank": 34,
-      "category": "国内时政,科学科普"
-    },
-    {
       "raw_hot": 139928,
       "num": 139928,
       "word": "假如你从4月20日开始减肥",
@@ -8489,6 +8625,14 @@
       "onboard_time": 1713658097,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138942,
+      "num": 138942,
+      "word": "宿舍挂床帘",
+      "onboard_time": 1713929718,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138863,
@@ -8689,6 +8833,14 @@
       "onboard_time": 1713693618,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134300,
+      "num": 134300,
+      "word": "iPhone16或将变秃",
+      "onboard_time": 1713929537,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 134108,
@@ -9363,14 +9515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115863,
-      "num": 374932,
-      "word": "为年轻人开的15元旅店17年没涨价",
-      "onboard_time": 1713927857,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115743,
       "num": 107523,
       "word": "rapper洒水 余景天滋水",
@@ -9465,14 +9609,6 @@
       "onboard_time": 1713887957,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 112164,
-      "num": 112164,
-      "word": "神十八航天员见面会",
-      "onboard_time": 1713928758,
-      "rank": 45,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 111725,
@@ -10379,6 +10515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36059,
+      "num": 732190,
+      "word": "万千气象看上海",
+      "onboard_time": 1713928217,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35568,
       "num": 46813,
       "word": "内蒙古开鲁县干部为何下田拦春耕",
@@ -10529,14 +10673,6 @@
       "onboard_time": 1713783858,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 21827,
-      "num": 732190,
-      "word": "万千气象看上海",
-      "onboard_time": 1713928217,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21821,
@@ -10700,6 +10836,9 @@
     },
     {
       "word": "#新时代推动西部大开发座谈会#"
+    },
+    {
+      "word": "#唱好成渝双城记打开发展新格局#"
     }
   ]
 }
