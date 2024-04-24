@@ -1,0 +1,410 @@
+{
+  "runTime": 1713926254189,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1152329,
+        "num": 1152329,
+        "word": "北电取消网红李某某专业成绩",
+        "onboard_time": 1713918979,
+        "rank": 0,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 830239,
+        "num": 830239,
+        "word": "iPhone16国行售价曝光",
+        "onboard_time": 1713923356,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25425,
+        "num": 624268,
+        "word": "9图了解无障碍阅读",
+        "onboard_time": 1713876437,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623911,
+        "num": 623911,
+        "word": "中国将实施国内首次在轨水生生态研究",
+        "onboard_time": 1713924257,
+        "rank": 3,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 591693,
+        "num": 591693,
+        "word": "上野千鹤子谈中国彩礼",
+        "onboard_time": 1713922456,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495169,
+        "num": 495169,
+        "word": "爱奇艺片单",
+        "onboard_time": 1713923356,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 435662,
+        "num": 435662,
+        "word": "学生挂床帘不过是为隐私二字",
+        "onboard_time": 1713919937,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370810,
+        "num": 370810,
+        "word": "多所高校学生因悬挂床帘被实名通报",
+        "onboard_time": 1713917719,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360806,
+        "num": 360806,
+        "word": "神十八新闻发布会",
+        "onboard_time": 1713921197,
+        "rank": 8,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 196129,
+        "num": 338589,
+        "word": "孙女回家找不到奶奶崩溃大哭",
+        "onboard_time": 1713893232,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 871233,
+        "num": 330974,
+        "word": "五一不调休就会是这种结果",
+        "onboard_time": 1713875178,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 424581,
+        "num": 326723,
+        "word": "黄子韬向佐在大理相遇了",
+        "onboard_time": 1713923717,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316766,
+        "num": 316766,
+        "word": "南京一市民称骑自行车上路因无牌被罚50元",
+        "onboard_time": 1713923535,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309257,
+        "num": 309257,
+        "word": "伊能静夸杨幂",
+        "onboard_time": 1713924196,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305899,
+        "num": 305899,
+        "word": "原神4.6",
+        "onboard_time": 1713924676,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270450,
+        "num": 270450,
+        "word": "神十八10月下旬返回东风着陆场",
+        "onboard_time": 1713923717,
+        "rank": 15,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 265110,
+        "num": 265110,
+        "word": "金价",
+        "onboard_time": 1713912133,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 258524,
+        "num": 258524,
+        "word": "李一桐第一部仙侠剧",
+        "onboard_time": 1713914655,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280188,
+        "num": 257748,
+        "word": "秦昊在家经常夸杨幂",
+        "onboard_time": 1713924138,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256614,
+        "num": 256614,
+        "word": "官方通报女生质疑体考被压表",
+        "onboard_time": 1713925216,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 307217,
+        "num": 256154,
+        "word": "小孩 我一出生就如履薄冰",
+        "onboard_time": 1713920838,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226679,
+        "num": 226679,
+        "word": "第4批航天员选拔即将完成",
+        "onboard_time": 1713923477,
+        "rank": 21,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 221964,
+        "num": 221964,
+        "word": "TF三代粉丝名",
+        "onboard_time": 1713923477,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213074,
+        "num": 213074,
+        "word": "女子孕期突然耳洞疤痕增生",
+        "onboard_time": 1713889756,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207898,
+        "num": 207898,
+        "word": "美参议院通过超600亿美元援乌法案",
+        "onboard_time": 1713925037,
+        "rank": 24,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 197005,
+        "num": 197005,
+        "word": "世界之外",
+        "onboard_time": 1713924737,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183014,
+        "num": 183014,
+        "word": "iPhone16起步存储或为256GB",
+        "onboard_time": 1713919278,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 181455,
+        "num": 181455,
+        "word": "林俊杰为了防黄牛好拼",
+        "onboard_time": 1713882020,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174004,
+        "num": 174004,
+        "word": "蜜雪斌城cp",
+        "onboard_time": 1713921617,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173759,
+        "num": 173759,
+        "word": "孕妇坠崖案当事人5年后再登崖",
+        "onboard_time": 1713922936,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163474,
+        "num": 163474,
+        "word": "刘维说明星都有美颜",
+        "onboard_time": 1713924557,
+        "rank": 30,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 157429,
+        "num": 157429,
+        "word": "住酒店睡过头被扣了押金",
+        "onboard_time": 1713891254,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151811,
+        "num": 151811,
+        "word": "新浪微博要发射火箭了",
+        "onboard_time": 1713925936,
+        "rank": 32,
+        "category": "军事,科学科普"
+      },
+      {
+        "raw_hot": 145950,
+        "num": 145950,
+        "word": "独行侠vs快船",
+        "onboard_time": 1713925997,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144264,
+        "num": 144264,
+        "word": "神十八航天员公布",
+        "onboard_time": 1713921617,
+        "rank": 34,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 142155,
+        "num": 142155,
+        "word": "北京电影学院",
+        "onboard_time": 1713923116,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134742,
+        "num": 134742,
+        "word": "才知道喝柠檬茶有这么多益处",
+        "onboard_time": 1713925095,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133037,
+        "num": 133037,
+        "word": "高校床帘是卫生问题还是安全问题",
+        "onboard_time": 1713924676,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131330,
+        "num": 131330,
+        "word": "新人结婚后要有小家意识",
+        "onboard_time": 1713915557,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129430,
+        "num": 129430,
+        "word": "神十七乘组4月30日回家",
+        "onboard_time": 1713921917,
+        "rank": 39,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 128413,
+        "num": 128413,
+        "word": "田馥甄 音乐节",
+        "onboard_time": 1713885918,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127239,
+        "num": 127239,
+        "word": "黄景瑜体格怎么这么大",
+        "onboard_time": 1713882739,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126715,
+        "num": 126715,
+        "word": "特斯拉",
+        "onboard_time": 1713917177,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 125925,
+        "num": 125925,
+        "word": "让腿越来越瘦的12个习惯",
+        "onboard_time": 1713916756,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 125838,
+        "num": 125838,
+        "word": "阴阳师",
+        "onboard_time": 1713923297,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125580,
+        "num": 125580,
+        "word": "津巴布韦股市暴跌99.95%",
+        "onboard_time": 1713915316,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 122329,
+        "num": 122329,
+        "word": "周雨彤现偶史上最e女主",
+        "onboard_time": 1713886278,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116363,
+        "num": 116363,
+        "word": "太阳vs森林狼",
+        "onboard_time": 1713925156,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112196,
+        "num": 112196,
+        "word": "一条小团团单月礼物收入曾高达500万",
+        "onboard_time": 1713875839,
+        "rank": 48,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 106670,
+        "num": 106670,
+        "word": "媒体质疑校方拆帘正当性在哪",
+        "onboard_time": 1713923356,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让老百姓过上更加幸福的生活#"
+    }
+  }
+}
