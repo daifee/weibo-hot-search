@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713921389275,
+  "endTime": 1713922567677,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -409,6 +409,14 @@
       "onboard_time": 1713667639,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1285126,
+      "num": 1285126,
+      "word": "神十八新闻发布会",
+      "onboard_time": 1713921197,
+      "rank": 25,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 1283274,
@@ -1019,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 823813,
+      "num": 823813,
+      "word": "多所高校学生因悬挂床帘被实名通报",
+      "onboard_time": 1713917719,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 822406,
       "num": 822406,
       "word": "王安宇 没有冒犯姐夫想替代姐夫",
@@ -1152,14 +1168,6 @@
       "word": "马来西亚直升机相撞致多人伤亡",
       "onboard_time": 1713845480,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 727112,
-      "num": 727112,
-      "word": "多所高校学生因悬挂床帘被实名通报",
-      "onboard_time": 1713917719,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1995,6 +2003,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 521959,
+      "num": 521959,
+      "word": "学生挂床帘不过是为隐私二字",
+      "onboard_time": 1713919937,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520847,
       "num": 520847,
       "word": "电视剧遮天阵容官宣",
@@ -2107,6 +2123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 503096,
+      "num": 503096,
+      "word": "神十八航天员公布",
+      "onboard_time": 1713921617,
+      "rank": 6,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 501456,
       "num": 501456,
       "word": "周冠宇完赛",
@@ -2164,7 +2188,7 @@
     },
     {
       "raw_hot": 487521,
-      "num": 304900,
+      "num": 313760,
       "word": "长沙警方通报14岁女生被同学殴打",
       "onboard_time": 1713915617,
       "rank": 11,
@@ -2547,14 +2571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 438726,
-      "num": 302208,
-      "word": "学生挂床帘不过是为隐私二字",
-      "onboard_time": 1713919937,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 437867,
       "num": 437867,
       "word": "PDD斗鱼已停播超5个月",
@@ -2740,7 +2756,7 @@
     },
     {
       "raw_hot": 406287,
-      "num": 169472,
+      "num": 187293,
       "word": "田馥甄 音乐节",
       "onboard_time": 1713885918,
       "rank": 40,
@@ -3049,6 +3065,14 @@
       "onboard_time": 1713830600,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 357501,
+      "num": 357501,
+      "word": "iPhone16起步存储或为256GB",
+      "onboard_time": 1713919278,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 357331,
@@ -3436,7 +3460,7 @@
     },
     {
       "raw_hot": 307786,
-      "num": 307786,
+      "num": 371679,
       "word": "孙女回家找不到奶奶崩溃大哭",
       "onboard_time": 1713893232,
       "rank": 26,
@@ -3483,6 +3507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 302289,
+      "num": 302289,
+      "word": "神十七乘组4月30日回家",
+      "onboard_time": 1713921917,
+      "rank": 15,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 300843,
       "num": 671918,
       "word": "大熊猫北辰把特供乒乓球给吃了",
@@ -3497,14 +3529,6 @@
       "onboard_time": 1713834378,
       "rank": 30,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 299627,
-      "num": 299627,
-      "word": "iPhone16起步存储或为256GB",
-      "onboard_time": 1713919278,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 298868,
@@ -4547,6 +4571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233009,
+      "num": 218772,
+      "word": "小孩 我一出生就如履薄冰",
+      "onboard_time": 1713920838,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232720,
       "num": 259464,
       "word": "交通银行app崩了",
@@ -5099,6 +5131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208902,
+      "num": 208902,
+      "word": "神十八瞄准25日20时59分发射",
+      "onboard_time": 1713921975,
+      "rank": 25,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 208856,
       "num": 208856,
       "word": "配音",
@@ -5475,20 +5515,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200834,
+      "num": 200834,
+      "word": "神十八3名航天员都是80后",
+      "onboard_time": 1713921798,
+      "rank": 26,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 200685,
       "num": 200685,
       "word": "周鸿祎否认针对李彦宏",
       "onboard_time": 1713665419,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 200533,
-      "num": 200533,
-      "word": "神十八新闻发布会",
-      "onboard_time": 1713921197,
-      "rank": 25,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 200422,
@@ -6136,6 +6176,14 @@
       "word": "承欢记热度",
       "onboard_time": 1713756257,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185397,
+      "num": 185397,
+      "word": "蜜雪斌城cp",
+      "onboard_time": 1713921617,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -7571,14 +7619,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 150574,
-      "num": 150574,
-      "word": "小孩 我一出生就如履薄冰",
-      "onboard_time": 1713920838,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 150552,
       "num": 150552,
       "word": "我的导忘记了是我的导",
@@ -7987,6 +8027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142533,
+      "num": 142533,
+      "word": "郭书瑶演过狼殿下",
+      "onboard_time": 1713922157,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142292,
       "num": 107537,
       "word": "Jennie一口气发了20张图",
@@ -8033,6 +8081,14 @@
       "onboard_time": 1713656775,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141467,
+      "num": 141467,
+      "word": "湖人掘金G2裁判报告",
+      "onboard_time": 1713921319,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 141300,
@@ -8595,14 +8651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127732,
-      "num": 127732,
-      "word": "湖人掘金G2裁判报告",
-      "onboard_time": 1713921319,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127666,
       "num": 127666,
       "word": "BOYNEXTDOOR 安可live",
@@ -8697,6 +8745,14 @@
       "onboard_time": 1713627139,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126048,
+      "num": 126048,
+      "word": "伦纳德终于回来了",
+      "onboard_time": 1713922096,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 125280,
@@ -8955,6 +9011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116354,
+      "num": 116354,
+      "word": "刘诗诗东方淮竹气质",
+      "onboard_time": 1713922396,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116342,
       "num": 116342,
       "word": "余华 人生没有轨道是到不了旷野的",
@@ -9009,6 +9073,14 @@
       "onboard_time": 1713781818,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 114574,
+      "num": 114574,
+      "word": "特斯拉股价飙涨12%",
+      "onboard_time": 1713921557,
+      "rank": 46,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 114441,
@@ -9201,6 +9273,14 @@
       "onboard_time": 1713698119,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106075,
+      "num": 106075,
+      "word": "上野千鹤子谈中国彩礼",
+      "onboard_time": 1713922456,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105808,

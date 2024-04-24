@@ -1,0 +1,410 @@
+{
+  "runTime": 1713922567677,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1429829,
+        "num": 1429829,
+        "word": "北电取消网红李某某专业成绩",
+        "onboard_time": 1713918979,
+        "rank": 0,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 1285126,
+        "num": 1285126,
+        "word": "神十八新闻发布会",
+        "onboard_time": 1713921197,
+        "rank": 1,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 41782,
+        "num": 919350,
+        "word": "9图了解无障碍阅读",
+        "onboard_time": 1713876437,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823813,
+        "num": 823813,
+        "word": "多所高校学生因悬挂床帘被实名通报",
+        "onboard_time": 1713917719,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540648,
+        "num": 540648,
+        "word": "金价",
+        "onboard_time": 1713912133,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 521959,
+        "num": 521959,
+        "word": "学生挂床帘不过是为隐私二字",
+        "onboard_time": 1713919937,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503096,
+        "num": 503096,
+        "word": "神十八航天员公布",
+        "onboard_time": 1713921617,
+        "rank": 6,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 466746,
+        "num": 466746,
+        "word": "一条小团团单月礼物收入曾高达500万",
+        "onboard_time": 1713875839,
+        "rank": 7,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 388013,
+        "num": 388013,
+        "word": "李一桐第一部仙侠剧",
+        "onboard_time": 1713914655,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240975,
+        "num": 371679,
+        "word": "孙女回家找不到奶奶崩溃大哭",
+        "onboard_time": 1713893232,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1118507,
+        "num": 367844,
+        "word": "五一不调休就会是这种结果",
+        "onboard_time": 1713875178,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 357501,
+        "num": 357501,
+        "word": "iPhone16起步存储或为256GB",
+        "onboard_time": 1713919278,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 322456,
+        "num": 322456,
+        "word": "陈震称小米SU7背离自己预期",
+        "onboard_time": 1713885739,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 313760,
+        "num": 313760,
+        "word": "长沙警方通报14岁女生被同学殴打",
+        "onboard_time": 1713915617,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310240,
+        "num": 310240,
+        "word": "津巴布韦股市暴跌99.95%",
+        "onboard_time": 1713915316,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 302289,
+        "num": 302289,
+        "word": "神十七乘组4月30日回家",
+        "onboard_time": 1713921917,
+        "rank": 15,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 241045,
+        "num": 241045,
+        "word": "周雨彤现偶史上最e女主",
+        "onboard_time": 1713886278,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237365,
+        "num": 237365,
+        "word": "苹果计划为iPad推出计算器应用",
+        "onboard_time": 1713913815,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 222039,
+        "num": 222039,
+        "word": "女子反映天然气费用突增老公被公司约谈",
+        "onboard_time": 1713880218,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220429,
+        "num": 220429,
+        "word": "周星驰要上综艺了",
+        "onboard_time": 1713884419,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282522,
+        "num": 219011,
+        "word": "新人结婚后要有小家意识",
+        "onboard_time": 1713915557,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233009,
+        "num": 218772,
+        "word": "小孩 我一出生就如履薄冰",
+        "onboard_time": 1713920838,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228156,
+        "num": 218171,
+        "word": "女子孕期突然耳洞疤痕增生",
+        "onboard_time": 1713889756,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216474,
+        "num": 216474,
+        "word": "让腿越来越瘦的12个习惯",
+        "onboard_time": 1713916756,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 211217,
+        "num": 211217,
+        "word": "昆凌迪士尼走出来的公主",
+        "onboard_time": 1713882140,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208902,
+        "num": 208902,
+        "word": "神十八瞄准25日20时59分发射",
+        "onboard_time": 1713921975,
+        "rank": 25,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 200834,
+        "num": 200834,
+        "word": "神十八3名航天员都是80后",
+        "onboard_time": 1713921798,
+        "rank": 26,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 195460,
+        "num": 195460,
+        "word": "住酒店睡过头被扣了押金",
+        "onboard_time": 1713891254,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193979,
+        "num": 193979,
+        "word": "林俊杰为了防黄牛好拼",
+        "onboard_time": 1713882020,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188573,
+        "num": 188573,
+        "word": "阿沁喊话陈建宁詹雯婷不要吵了",
+        "onboard_time": 1713889696,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188906,
+        "num": 187293,
+        "word": "田馥甄 音乐节",
+        "onboard_time": 1713885918,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185397,
+        "num": 185397,
+        "word": "蜜雪斌城cp",
+        "onboard_time": 1713921617,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162887,
+        "num": 162887,
+        "word": "重庆动物园就熊猫扑倒保育员报平安",
+        "onboard_time": 1713887658,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160360,
+        "num": 160360,
+        "word": "黄景瑜体格怎么这么大",
+        "onboard_time": 1713882739,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149275,
+        "num": 149275,
+        "word": "特斯拉",
+        "onboard_time": 1713917177,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142533,
+        "num": 142533,
+        "word": "郭书瑶演过狼殿下",
+        "onboard_time": 1713922157,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141594,
+        "num": 141594,
+        "word": "当地回应4岁男童被三小孩倒酒精烧死",
+        "onboard_time": 1713892274,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141467,
+        "num": 141467,
+        "word": "湖人掘金G2裁判报告",
+        "onboard_time": 1713921319,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138700,
+        "num": 138700,
+        "word": "王权篇预告",
+        "onboard_time": 1713920478,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137942,
+        "num": 137942,
+        "word": "苏醒晒照为陆虎庆生",
+        "onboard_time": 1713918979,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137931,
+        "num": 137931,
+        "word": "眼泪女王大结局提前播出",
+        "onboard_time": 1713886338,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137081,
+        "num": 137081,
+        "word": "西湖醋鱼的含金量",
+        "onboard_time": 1713920896,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135784,
+        "num": 135784,
+        "word": "蔡磊病情加重舌头下嘴唇已萎缩",
+        "onboard_time": 1713874158,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126048,
+        "num": 126048,
+        "word": "伦纳德终于回来了",
+        "onboard_time": 1713922096,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124350,
+        "num": 124350,
+        "word": "神舟十八号载人飞行任务",
+        "onboard_time": 1713919039,
+        "rank": 44,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 116354,
+        "num": 116354,
+        "word": "刘诗诗东方淮竹气质",
+        "onboard_time": 1713922396,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114574,
+        "num": 114574,
+        "word": "特斯拉股价飙涨12%",
+        "onboard_time": 1713921557,
+        "rank": 46,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 111155,
+        "num": 111155,
+        "word": "贵州科比酒业注册成功",
+        "onboard_time": 1713917900,
+        "rank": 47,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 107931,
+        "num": 107931,
+        "word": "许嵩演唱会",
+        "onboard_time": 1713918618,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106075,
+        "num": 106075,
+        "word": "上野千鹤子谈中国彩礼",
+        "onboard_time": 1713922456,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让老百姓过上更加幸福的生活#"
+    }
+  }
+}
