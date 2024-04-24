@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713951272946,
+  "endTime": 1713954013488,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -83,6 +83,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2626146,
+      "num": 2626146,
+      "word": "玲花 维权是你们的权利",
+      "onboard_time": 1713947778,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2596199,
       "num": 991508,
       "word": "五一不调休就会是这种结果",
@@ -105,14 +113,6 @@
       "onboard_time": 1713835398,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2425886,
-      "num": 2425886,
-      "word": "玲花 维权是你们的权利",
-      "onboard_time": 1713947778,
-      "rank": 0,
-      "category": "演出"
     },
     {
       "raw_hot": 2376669,
@@ -539,6 +539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1184106,
+      "num": 1184106,
+      "word": "大麦网已退票退款",
+      "onboard_time": 1713952578,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1184063,
       "num": 1184063,
       "word": "荷兰男子新冠阳性613天去世",
@@ -617,6 +625,14 @@
       "onboard_time": 1713744919,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1124147,
+      "num": 1124147,
+      "word": "长期吃铝包子或引发肝肾损伤",
+      "onboard_time": 1713948199,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1123671,
@@ -873,6 +889,14 @@
       "onboard_time": 1713856639,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 960179,
+      "num": 960179,
+      "word": "金价下跌有人卖了一百多万金条",
+      "onboard_time": 1713950599,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 957601,
@@ -1187,6 +1211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 808558,
+      "num": 808558,
+      "word": "苹果定位 发现石油",
+      "onboard_time": 1713949458,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 804598,
       "num": 286006,
       "word": "茶百道上市一小时跌没3年净利润",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1713703339,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 791486,
-      "num": 791486,
-      "word": "苹果定位 发现石油",
-      "onboard_time": 1713949458,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 782626,
@@ -1449,14 +1473,6 @@
       "onboard_time": 1713768137,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 696860,
-      "num": 696860,
-      "word": "长期吃铝包子或引发肝肾损伤",
-      "onboard_time": 1713948199,
-      "rank": 14,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 694088,
@@ -2083,6 +2099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 569591,
+      "num": 692997,
+      "word": "布林肯抵达上海",
+      "onboard_time": 1713951377,
+      "rank": 7,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 569477,
       "num": 569477,
       "word": "唐朝诡事录之西行预告",
@@ -2505,6 +2529,14 @@
       "onboard_time": 1713793698,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 493445,
+      "num": 493445,
+      "word": "姚志明父亲车祸去世",
+      "onboard_time": 1713952940,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 493382,
@@ -3483,6 +3515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363331,
+      "num": 363331,
+      "word": "发现石油",
+      "onboard_time": 1713951738,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 362459,
       "num": 362459,
       "word": "NewJeans曾说自己是ADOR不是HYBE",
@@ -3649,6 +3689,14 @@
       "onboard_time": 1713769098,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344946,
+      "num": 344946,
+      "word": "illit疑似抄袭straykids手势",
+      "onboard_time": 1713950718,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 343347,
@@ -4177,6 +4225,14 @@
       "onboard_time": 1713845119,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291347,
+      "num": 667091,
+      "word": "手机里存了3个月的照片终于删了",
+      "onboard_time": 1713952039,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 291211,
@@ -5171,6 +5227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235810,
+      "num": 235810,
+      "word": "大麦 柱子票",
+      "onboard_time": 1713952039,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 235539,
       "num": 235539,
       "word": "海船擦碰九江大桥防撞墩后沉没4人失联",
@@ -5459,6 +5523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224772,
+      "num": 214468,
+      "word": "时代少年团直播",
+      "onboard_time": 1713953959,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224167,
       "num": 224167,
       "word": "尚雯婕 语言可以六国人很难多记一个",
@@ -5657,6 +5729,14 @@
       "onboard_time": 1713843498,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214888,
+      "num": 214888,
+      "word": "四年失业三次",
+      "onboard_time": 1713952578,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 214818,
@@ -6107,14 +6187,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 204412,
-      "num": 204412,
-      "word": "illit疑似抄袭straykids手势",
-      "onboard_time": 1713950718,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204379,
       "num": 204379,
       "word": "NASA局长抹黑中国登月惹笑话",
@@ -6265,6 +6337,14 @@
       "onboard_time": 1713835818,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201483,
+      "num": 201483,
+      "word": "粉丝想和杨幂合影气前男友",
+      "onboard_time": 1713951559,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 201446,
@@ -6651,6 +6731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193582,
+      "num": 193582,
+      "word": "难以想象五一去旅游的人会有多少",
+      "onboard_time": 1713950419,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 193567,
       "num": 193567,
       "word": "周冠宇第14名",
@@ -6736,6 +6824,14 @@
       "word": "秦海璐让王安宇跟姐夫视频",
       "onboard_time": 1713677718,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191328,
+      "num": 191328,
+      "word": "黄子弘凡你怎么不笑啊",
+      "onboard_time": 1713953179,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -7033,14 +7129,6 @@
       "onboard_time": 1713927857,
       "rank": 22,
       "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 186909,
-      "num": 186909,
-      "word": "金价下跌有人卖了一百多万金条",
-      "onboard_time": 1713950599,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 186694,
@@ -7843,6 +7931,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 169876,
+      "num": 193945,
+      "word": "考研是巨大的爆改",
+      "onboard_time": 1713952517,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 169760,
       "num": 169760,
       "word": "周深演唱会 秒没",
@@ -7873,14 +7969,6 @@
       "onboard_time": 1713918979,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169184,
-      "num": 169184,
-      "word": "难以想象五一去旅游的人会有多少",
-      "onboard_time": 1713950419,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 169164,
@@ -8137,6 +8225,14 @@
       "onboard_time": 1713931520,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163044,
+      "num": 163044,
+      "word": "貂蝉荧星流火新皮肤",
+      "onboard_time": 1713952217,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 162958,
@@ -8539,6 +8635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155587,
+      "num": 155587,
+      "word": "老友记节目组苏醒点你呢",
+      "onboard_time": 1713952159,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 155542,
       "num": 155542,
       "word": "哈尔滨一九四四有自己的安陵容",
@@ -8787,6 +8891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151841,
+      "num": 148676,
+      "word": "五月天官宣鸟巢开十场",
+      "onboard_time": 1713953900,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151579,
       "num": 151579,
       "word": "快船1比0独行侠",
@@ -9020,7 +9132,7 @@
     },
     {
       "raw_hot": 147198,
-      "num": 204414,
+      "num": 290192,
       "word": "岚图和华为官宣合作车型",
       "onboard_time": 1713950478,
       "rank": 24,
@@ -9177,6 +9289,14 @@
       "onboard_time": 1713684917,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 144765,
+      "num": 144765,
+      "word": "这些人工合成水果又出来骗人了",
+      "onboard_time": 1713952998,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144446,
@@ -9947,6 +10067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130740,
+      "num": 130740,
+      "word": "圣枪哥加入JDG后胖了26斤",
+      "onboard_time": 1713953780,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130729,
       "num": 130729,
       "word": "香飘飘一年卖出11亿杯",
@@ -10655,6 +10783,14 @@
       "num": 111725,
       "word": "爱拍照的人手机相册啥样的",
       "onboard_time": 1713781038,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 111319,
+      "num": 111319,
+      "word": "苹果客服回应发现石油触发定位",
+      "onboard_time": 1713951498,
       "rank": 49,
       "category": "数码"
     },
@@ -11588,7 +11724,7 @@
     },
     {
       "raw_hot": 40814,
-      "num": 794380,
+      "num": 1149816,
       "word": "万千气象看上海",
       "onboard_time": 1713928217,
       "rank": 2,
