@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713939962810,
+  "endTime": 1713940764627,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1516812,
+      "num": 431528,
+      "word": "贾斯汀比伯为好友遭遇抢劫中枪身亡发声",
+      "onboard_time": 1713937518,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1513147,
       "num": 1513147,
       "word": "李闽轩 北电艺考",
@@ -337,14 +345,6 @@
       "onboard_time": 1713918979,
       "rank": 0,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 1433712,
-      "num": 431528,
-      "word": "贾斯汀比伯为好友遭遇抢劫中枪身亡发声",
-      "onboard_time": 1713937518,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1420882,
@@ -979,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 867865,
+      "num": 867865,
+      "word": "种地交钱被免干部涉嫌学历造假",
+      "onboard_time": 1713937937,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 865681,
       "num": 865681,
       "word": "不孕女子喜获3胞胎同卵异卵同出现",
@@ -1147,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 791242,
+      "num": 791242,
+      "word": "耙耙柑是讨好型水果吧",
+      "onboard_time": 1713938837,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
       "raw_hot": 782626,
       "num": 782626,
       "word": "泰版步步惊心",
@@ -1265,14 +1281,6 @@
       "onboard_time": 1713705680,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 724680,
-      "num": 724680,
-      "word": "种地交钱被免干部涉嫌学历造假",
-      "onboard_time": 1713937937,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 724657,
@@ -1579,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 651020,
+      "num": 420344,
+      "word": "金卡戴珊疑因霉霉新歌掉粉130万",
+      "onboard_time": 1713938597,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 648699,
       "num": 648699,
       "word": "大学生考研不再非985211不读",
@@ -1859,14 +1875,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 580769,
-      "num": 420344,
-      "word": "金卡戴珊疑因霉霉新歌掉粉130万",
-      "onboard_time": 1713938597,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 578107,
       "num": 661150,
       "word": "有薄膜的一次性咖啡杯30年才能降解",
@@ -1969,6 +1977,14 @@
       "onboard_time": 1713709944,
       "rank": 49,
       "category": "幽默,网红"
+    },
+    {
+      "raw_hot": 565445,
+      "num": 565445,
+      "word": "一诺登上央视",
+      "onboard_time": 1713937578,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 565108,
@@ -2145,14 +2161,6 @@
       "onboard_time": 1713701718,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 527800,
-      "num": 527800,
-      "word": "一诺登上央视",
-      "onboard_time": 1713937578,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 526863,
@@ -2809,14 +2817,6 @@
       "onboard_time": 1713929178,
       "rank": 20,
       "category": "国外时政,互联网"
-    },
-    {
-      "raw_hot": 438159,
-      "num": 438159,
-      "word": "耙耙柑是讨好型水果吧",
-      "onboard_time": 1713938837,
-      "rank": 7,
-      "category": "美食"
     },
     {
       "raw_hot": 437867,
@@ -5443,6 +5443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 216780,
+      "num": 434551,
+      "word": "一个民族总要有一群看天的人",
+      "onboard_time": 1713939617,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216020,
       "num": 208433,
       "word": "李梦23分",
@@ -6571,6 +6579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190423,
+      "num": 190423,
+      "word": "向佐晒出5年前的结婚伴手礼",
+      "onboard_time": 1713940458,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189974,
       "num": 189974,
       "word": "广州天气",
@@ -6833,6 +6849,14 @@
       "onboard_time": 1713769578,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185904,
+      "num": 185904,
+      "word": "王安宇失散多年的弟弟",
+      "onboard_time": 1713940157,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 185691,
@@ -8307,6 +8331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152708,
+      "num": 152708,
+      "word": "被周琦肘击的李金效已住进医院",
+      "onboard_time": 1713940157,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152549,
       "num": 152549,
       "word": "专家称挂床帘影响同学间交流",
@@ -8649,6 +8681,14 @@
       "onboard_time": 1713866718,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146237,
+      "num": 146237,
+      "word": "迪丽热巴reaction刘宇宁被吓",
+      "onboard_time": 1713938898,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 145950,
@@ -9067,6 +9107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138232,
+      "num": 138232,
+      "word": "特斯拉毁约应届生多家企业HR在线抢人",
+      "onboard_time": 1713940517,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 138220,
       "num": 138220,
       "word": "龚俊嘴是硬的腿是软的人是不信的",
@@ -9131,6 +9179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137643,
+      "num": 137643,
+      "word": "沈阳铁西",
+      "onboard_time": 1713940696,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137487,
       "num": 137487,
       "word": "遗体整容师 残疾少女",
@@ -9169,14 +9225,6 @@
       "onboard_time": 1713659356,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136375,
-      "num": 164537,
-      "word": "一个民族总要有一群看天的人",
-      "onboard_time": 1713939617,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136096,
@@ -9387,14 +9435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132056,
-      "num": 132056,
-      "word": "迪丽热巴reaction刘宇宁被吓",
-      "onboard_time": 1713938898,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132035,
       "num": 132035,
       "word": "为什么大家都不喜欢付邮费",
@@ -9465,6 +9505,14 @@
       "onboard_time": 1713715997,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130729,
+      "num": 130729,
+      "word": "香飘飘一年卖出11亿杯",
+      "onboard_time": 1713939676,
+      "rank": 40,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 129568,
@@ -9987,14 +10035,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 116885,
-      "num": 116885,
-      "word": "香飘飘一年卖出11亿杯",
-      "onboard_time": 1713939676,
-      "rank": 40,
-      "category": "财经,美食"
-    },
-    {
       "raw_hot": 116468,
       "num": 116468,
       "word": "张桂梅说一生最不能放弃是读书",
@@ -10161,6 +10201,14 @@
       "onboard_time": 1713882619,
       "rank": 29,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 109468,
+      "num": 109468,
+      "word": "杨洋虎头帽",
+      "onboard_time": 1713940517,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 109032,
@@ -10363,6 +10411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101760,
+      "num": 101760,
+      "word": "近义词cp官宣",
+      "onboard_time": 1713940099,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101289,
       "num": 101289,
       "word": "金道英出道曲空降",
@@ -10403,6 +10459,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 98514,
+      "num": 98514,
+      "word": "大麦网回应凤凰传奇演唱会买到柱子票",
+      "onboard_time": 1713940637,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 97889,
       "num": 97889,
       "word": "翟潇闻体态",
@@ -10425,6 +10489,14 @@
       "onboard_time": 1713686178,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95709,
+      "num": 95709,
+      "word": "这个世界需要r人",
+      "onboard_time": 1713937578,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 94248,

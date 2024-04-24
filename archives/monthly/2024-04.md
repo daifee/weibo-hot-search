@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/24 14:26:02
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/24 14:39:24
 </p>
 </blockquote>
 <p>
@@ -1479,6 +1479,12 @@ zara包（热度：1519616）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E6%96%AF%E6%B1%80%E6%AF%94%E4%BC%AF%E4%B8%BA%E5%A5%BD%E5%8F%8B%E9%81%AD%E9%81%87%E6%8A%A2%E5%8A%AB%E4%B8%AD%E6%9E%AA%E8%BA%AB%E4%BA%A1%E5%8F%91%E5%A3%B0%23" target="weibo">
+贾斯汀比伯为好友遭遇抢劫中枪身亡发声（热度：1516812）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%97%BD%E8%BD%A9%20%E5%8C%97%E7%94%B5%E8%89%BA%E8%80%83%23" target="weibo">
 李闽轩 北电艺考（热度：1513147）
 </a>
@@ -1697,12 +1703,6 @@ zara包（热度：1519616）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%85%8B%E8%8B%8F%E5%9C%B0%E9%9C%87%23" target="weibo">
 阿克苏地震（热度：1435631）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E6%96%AF%E6%B1%80%E6%AF%94%E4%BC%AF%E4%B8%BA%E5%A5%BD%E5%8F%8B%E9%81%AD%E9%81%87%E6%8A%A2%E5%8A%AB%E4%B8%AD%E6%9E%AA%E8%BA%AB%E4%BA%A1%E5%8F%91%E5%A3%B0%23" target="weibo">
-贾斯汀比伯为好友遭遇抢劫中枪身亡发声（热度：1433712）
 </a>
 </li>
 
@@ -4791,6 +4791,12 @@ coser以为对方是cos记者（热度：869834）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E4%BA%A4%E9%92%B1%E8%A2%AB%E5%85%8D%E5%B9%B2%E9%83%A8%E6%B6%89%E5%AB%8C%E5%AD%A6%E5%8E%86%E9%80%A0%E5%81%87%23" target="weibo">
+种地交钱被免干部涉嫌学历造假（热度：867865）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%20%E6%B2%A1%E5%96%9C%E6%AC%A2%E7%9A%84%E5%89%A7%E6%9C%AC%E5%9D%9A%E5%86%B3%E4%B8%8D%E8%BF%9B%E7%BB%84%23" target="weibo">
 林更新 没喜欢的剧本坚决不进组（热度：867163）
 </a>
@@ -5643,6 +5649,12 @@ TFBOYS文案什么意思（热度：811913）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%99%E8%80%99%E6%9F%91%E6%98%AF%E8%AE%A8%E5%A5%BD%E5%9E%8B%E6%B0%B4%E6%9E%9C%E5%90%A7%23" target="weibo">
+耙耙柑是讨好型水果吧（热度：791242）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%91%E7%86%99%E7%81%AB%E4%BA%86%23" target="weibo">
 陈少熙火了（热度：790470）
 </a>
@@ -5999,18 +6011,6 @@ TFBOYS文案什么意思（热度：811913）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8C%96%E5%A6%86%E5%B8%88%E7%BB%99%E6%9B%BE%E9%BB%8E%E5%8C%96%E7%9A%84%E5%A6%86%23" target="weibo">
 韩国化妆师给曾黎化的妆（热度：765928）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%89%BA%E8%80%83%E7%94%9F%E6%9D%8E%E9%97%BD%E8%BD%A9%E6%88%96%E8%A2%AB%E5%8F%96%E6%B6%88%E9%AB%98%E8%80%83%E8%B5%84%E6%A0%BC%23" target="weibo">
-网红艺考生李闽轩或被取消高考资格（热度：765724）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%B7%E7%89%99%E6%9C%80%E8%AF%A5%E5%88%B7%E7%9A%84%E5%85%B6%E5%AE%9E%E4%B8%8D%E6%98%AF%E7%89%99%E9%BD%BF%23" target="weibo">
-刷牙最该刷的其实不是牙齿（热度：763795）
 </a>
 </li>
 
