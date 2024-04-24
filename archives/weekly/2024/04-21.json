@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1713965060541,
+  "endTime": 1713965729087,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1490450,
+      "num": 1490450,
+      "word": "五月天假唱风波调查近5个月没结果",
+      "onboard_time": 1713962057,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1489385,
       "num": 1148624,
       "word": "医生辟谣小肚子是为了保护子宫卵巢",
@@ -401,14 +409,6 @@
       "onboard_time": 1713930319,
       "rank": 0,
       "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 1370766,
-      "num": 1370766,
-      "word": "五月天假唱风波调查近5个月没结果",
-      "onboard_time": 1713962057,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 1356528,
@@ -553,6 +553,14 @@
       "onboard_time": 1713786917,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1192327,
+      "num": 1192327,
+      "word": "田馥甄发微博",
+      "onboard_time": 1713964220,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 1184063,
@@ -1227,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 818445,
+      "num": 818445,
+      "word": "拼多多涉不正当竞争被判赔500万",
+      "onboard_time": 1713963739,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 815652,
       "num": 815652,
       "word": "黄金白银集体大跌",
@@ -1691,14 +1707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 665660,
-      "num": 665660,
-      "word": "田馥甄发微博",
-      "onboard_time": 1713964220,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
       "raw_hot": 660289,
       "num": 660289,
       "word": "NewJeans和父母全力支持闵熙珍",
@@ -1969,14 +1977,6 @@
       "onboard_time": 1713711622,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 598042,
-      "num": 598042,
-      "word": "拼多多涉不正当竞争被判赔500万",
-      "onboard_time": 1713963739,
-      "rank": 6,
-      "category": "互联网"
     },
     {
       "raw_hot": 595801,
@@ -3459,6 +3459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390066,
+      "num": 363492,
+      "word": "郑恺 当跑男都需要干什么",
+      "onboard_time": 1713964279,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387976,
       "num": 387976,
       "word": "只有大学生才知道这有多爽",
@@ -3996,7 +4004,7 @@
     },
     {
       "raw_hot": 327081,
-      "num": 249928,
+      "num": 284657,
       "word": "实习生紧急撤回一个微笑",
       "onboard_time": 1713962838,
       "rank": 30,
@@ -4064,6 +4072,14 @@
       "word": "周星驰要上综艺了",
       "onboard_time": 1713884419,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 320868,
+      "num": 320868,
+      "word": "花少好友记冷场",
+      "onboard_time": 1713963620,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -4715,14 +4731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 269375,
-      "num": 269375,
-      "word": "郑恺 当跑男都需要干什么",
-      "onboard_time": 1713964279,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 269354,
       "num": 237258,
       "word": "让腿越来越瘦的12个习惯",
@@ -5139,14 +5147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247209,
-      "num": 247209,
-      "word": "花少好友记冷场",
-      "onboard_time": 1713963620,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 246571,
       "num": 246571,
       "word": "陈都灵吐妖气镜头",
@@ -5265,6 +5265,14 @@
       "onboard_time": 1713776358,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 241719,
+      "num": 241719,
+      "word": "你阿尼亚来了中国也得上班",
+      "onboard_time": 1713964098,
+      "rank": 31,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 241621,
@@ -6083,14 +6091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210343,
-      "num": 210343,
-      "word": "你阿尼亚来了中国也得上班",
-      "onboard_time": 1713964098,
-      "rank": 31,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 210307,
       "num": 210307,
       "word": "洞洞板平替",
@@ -6385,6 +6385,14 @@
       "onboard_time": 1713669737,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204768,
+      "num": 204768,
+      "word": "今晚月亮真圆",
+      "onboard_time": 1713964999,
+      "rank": 47,
+      "category": "自然"
     },
     {
       "raw_hot": 204504,
@@ -8067,6 +8075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171797,
+      "num": 171797,
+      "word": "华为Pura70已修复AI消除衣服bug",
+      "onboard_time": 1713961278,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 171781,
       "num": 171781,
       "word": "耳帝为何洁感到可惜",
@@ -8499,6 +8515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163817,
+      "num": 163817,
+      "word": "卢昱晓冷艳千金妆",
+      "onboard_time": 1713965478,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 163813,
       "num": 163813,
       "word": "时代少年团演唱会",
@@ -8739,6 +8763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159670,
+      "num": 159670,
+      "word": "唐家三少宣布停更",
+      "onboard_time": 1713965540,
+      "rank": 38,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 159300,
       "num": 259786,
       "word": "谷爱凌现身保时捷品牌之夜",
@@ -8841,14 +8873,6 @@
       "onboard_time": 1713884480,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157270,
-      "num": 157270,
-      "word": "华为Pura70已修复AI消除衣服bug",
-      "onboard_time": 1713961278,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 156931,
@@ -8993,6 +9017,14 @@
       "onboard_time": 1713775878,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154582,
+      "num": 154582,
+      "word": "老师发现自己讲错了",
+      "onboard_time": 1713965059,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 154540,
@@ -9403,6 +9435,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 147972,
+      "num": 147972,
+      "word": "白鹿宋雨琦范丞丞cha了",
+      "onboard_time": 1713963858,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147792,
       "num": 147792,
       "word": "西湖也是要洗湖的",
@@ -9433,6 +9473,14 @@
       "onboard_time": 1713623840,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147504,
+      "num": 147504,
+      "word": "身份证号码中包含X该如何买票",
+      "onboard_time": 1713964878,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 147198,
@@ -9513,6 +9561,14 @@
       "onboard_time": 1713938898,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145994,
+      "num": 145994,
+      "word": "宝马发布会",
+      "onboard_time": 1713965658,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 145950,
@@ -9873,14 +9929,6 @@
       "onboard_time": 1713658937,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140225,
-      "num": 140225,
-      "word": "白鹿宋雨琦范丞丞cha了",
-      "onboard_time": 1713963858,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 140093,
@@ -11091,14 +11139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113935,
-      "num": 113935,
-      "word": "今晚月亮真圆",
-      "onboard_time": 1713964999,
-      "rank": 47,
-      "category": "自然"
-    },
-    {
       "raw_hot": 113246,
       "num": 113246,
       "word": "秦岚辛芷蕾 双向友情具象化",
@@ -11113,14 +11153,6 @@
       "onboard_time": 1713780437,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112946,
-      "num": 112946,
-      "word": "身份证号码中包含X该如何买票",
-      "onboard_time": 1713964878,
-      "rank": 48,
-      "category": "科学科普"
     },
     {
       "raw_hot": 112800,
@@ -11948,7 +11980,7 @@
     },
     {
       "raw_hot": 55211,
-      "num": 253648,
+      "num": 303375,
       "word": "Z9打游戏强得很持久",
       "onboard_time": 1713963677,
       "rank": 18,
@@ -12004,7 +12036,7 @@
     },
     {
       "raw_hot": 50649,
-      "num": 236076,
+      "num": 238557,
       "word": "Z9原来是贼久的意思",
       "onboard_time": 1713963498,
       "rank": 25,
@@ -12116,7 +12148,7 @@
     },
     {
       "raw_hot": 40814,
-      "num": 1149816,
+      "num": 1200003,
       "word": "万千气象看上海",
       "onboard_time": 1713928217,
       "rank": 2,
