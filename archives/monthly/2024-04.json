@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713955039855,
+  "endTime": 1713957405744,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -833,6 +833,14 @@
       "onboard_time": 1712890817,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2056494,
+      "num": 2056494,
+      "word": "大麦网已退票退款",
+      "onboard_time": 1713952578,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 2053116,
@@ -2201,14 +2209,6 @@
       "onboard_time": 1713016519,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1450750,
-      "num": 1450750,
-      "word": "大麦网已退票退款",
-      "onboard_time": 1713952578,
-      "rank": 1,
-      "category": "演出"
     },
     {
       "raw_hot": 1446416,
@@ -13915,6 +13915,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 533437,
+      "num": 481085,
+      "word": "被评最美公务员干部被曝曾殴打残疾人",
+      "onboard_time": 1713956298,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 533215,
       "num": 533215,
       "word": "别再因为害羞放弃肛门指检了",
@@ -16355,6 +16363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 474087,
+      "num": 474087,
+      "word": "发现石油",
+      "onboard_time": 1713951738,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 473770,
       "num": 428834,
       "word": "白鹿看到粉丝凌晨接机的反应",
@@ -16912,6 +16928,14 @@
       "word": "金靖cos西施",
       "onboard_time": 1712232439,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 461245,
+      "num": 461245,
+      "word": "浪3 白月光",
+      "onboard_time": 1713954858,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -21419,6 +21443,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 369762,
+      "num": 314842,
+      "word": "这些人工合成水果又出来骗人了",
+      "onboard_time": 1713952998,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369707,
       "num": 369707,
       "word": "男主林瀚 女主晚晚",
@@ -21785,14 +21817,6 @@
       "onboard_time": 1713597197,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 363331,
-      "num": 363331,
-      "word": "发现石油",
-      "onboard_time": 1713951738,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 363211,
@@ -28651,6 +28675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269439,
+      "num": 269439,
+      "word": "孔刘宋慧乔或合作新剧",
+      "onboard_time": 1713956958,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269400,
       "num": 269400,
       "word": "男人的尿酸是怎么一步一步失控的",
@@ -31073,6 +31105,14 @@
       "onboard_time": 1713708742,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247783,
+      "num": 247783,
+      "word": "iPhone15频降价引吐槽",
+      "onboard_time": 1713956420,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 247649,
@@ -39683,6 +39723,14 @@
       "category": "动漫,音乐"
     },
     {
+      "raw_hot": 199033,
+      "num": 199033,
+      "word": "宋雨琦张真源跳了freak",
+      "onboard_time": 1713956838,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199019,
       "num": 199019,
       "word": "一诺说接下来的路我们一起走",
@@ -41587,14 +41635,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192349,
-      "num": 192349,
-      "word": "这些人工合成水果又出来骗人了",
-      "onboard_time": 1713952998,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192325,
       "num": 192325,
       "word": "时团代言美团",
@@ -43425,6 +43465,14 @@
       "onboard_time": 1713927857,
       "rank": 22,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 186876,
+      "num": 186876,
+      "word": "花少中热巴的美妆好物",
+      "onboard_time": 1713957019,
+      "rank": 32,
+      "category": "美妆,综艺"
     },
     {
       "raw_hot": 186840,
@@ -47756,7 +47804,7 @@
     },
     {
       "raw_hot": 169876,
-      "num": 193945,
+      "num": 199171,
       "word": "考研是巨大的爆改",
       "onboard_time": 1713952517,
       "rank": 28,
@@ -51209,6 +51257,14 @@
       "onboard_time": 1712215218,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156175,
+      "num": 156175,
+      "word": "如何把双休变成三休",
+      "onboard_time": 1713957199,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 156136,
@@ -58667,6 +58723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130193,
+      "num": 130193,
+      "word": "海贼王伏笔回收",
+      "onboard_time": 1713954798,
+      "rank": 44,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 130178,
       "num": 130178,
       "word": "网易蛋仔派对被指诱导未成年人消费",
@@ -59531,6 +59595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125881,
+      "num": 125881,
+      "word": "黄子韬孙千互怼能看一百遍",
+      "onboard_time": 1713957319,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125823,
       "num": 125823,
       "word": "陈震谈小米SU7拓展配件是否合规",
@@ -59609,6 +59681,14 @@
       "onboard_time": 1712337674,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125528,
+      "num": 125528,
+      "word": "aespa正规一辑armageddon",
+      "onboard_time": 1713956599,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 125476,
@@ -60707,14 +60787,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 120577,
-      "num": 120577,
-      "word": "浪3 白月光",
-      "onboard_time": 1713954858,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120546,
       "num": 120546,
       "word": "轻断食好坏不能轻易定论",
@@ -60921,14 +60993,6 @@
       "onboard_time": 1713351619,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119666,
-      "num": 119666,
-      "word": "海贼王伏笔回收",
-      "onboard_time": 1713954798,
-      "rank": 44,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 119614,
@@ -61265,6 +61329,14 @@
       "onboard_time": 1713264138,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 117663,
+      "num": 117663,
+      "word": "许嵩深圳抢票",
+      "onboard_time": 1713955219,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 117598,
@@ -64963,6 +65035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78936,
+      "num": 476564,
+      "word": "被大G电到了",
+      "onboard_time": 1713954319,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 78783,
       "num": 78783,
       "word": "公牛vs热火",
@@ -67731,14 +67811,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 32174,
-      "num": 162021,
-      "word": "被大G电到了",
-      "onboard_time": 1713954319,
-      "rank": 34,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 32137,
       "num": 32137,
       "word": "张小斐年度影响力演员",
@@ -68073,6 +68145,14 @@
       "onboard_time": 1712929458,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 26721,
+      "num": 199037,
+      "word": "岚图携手华为全新纯电SUV剧透",
+      "onboard_time": 1713956778,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 26675,
@@ -68857,6 +68937,14 @@
       "onboard_time": 1712348291,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15235,
+      "num": 145640,
+      "word": "梅耶马斯克在用什么底妆",
+      "onboard_time": 1713956898,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 15059,
