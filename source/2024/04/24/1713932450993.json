@@ -1,0 +1,410 @@
+{
+  "runTime": 1713932450993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1369896,
+        "num": 1369896,
+        "word": "特斯拉被曝毁约应届生",
+        "onboard_time": 1713930319,
+        "rank": 0,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 913838,
+        "num": 913838,
+        "word": "神十八",
+        "onboard_time": 1713928879,
+        "rank": 1,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 37254,
+        "num": 731992,
+        "word": "万千气象看上海",
+        "onboard_time": 1713928217,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671751,
+        "num": 671751,
+        "word": "三年幼儿园 一生战友情",
+        "onboard_time": 1713926958,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 620104,
+        "num": 620104,
+        "word": "披荆斩棘的大小姐定档",
+        "onboard_time": 1713928337,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 586039,
+        "num": 586039,
+        "word": "俄国防部副部长伊万诺夫被拘留",
+        "onboard_time": 1713928096,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 686584,
+        "num": 572248,
+        "word": "iPhone16国行售价曝光",
+        "onboard_time": 1713923356,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 459480,
+        "num": 459480,
+        "word": "爱奇艺国际版",
+        "onboard_time": 1713927197,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397796,
+        "num": 397796,
+        "word": "神十八航天员首次亮相",
+        "onboard_time": 1713928818,
+        "rank": 8,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 331302,
+        "num": 396790,
+        "word": "为年轻人开的15元旅店17年没涨价",
+        "onboard_time": 1713927857,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831148,
+        "num": 394061,
+        "word": "五一不调休就会是这种结果",
+        "onboard_time": 1713875178,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 633067,
+        "num": 392239,
+        "word": "鹿晗染了金发",
+        "onboard_time": 1713927376,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 546671,
+        "num": 388529,
+        "word": "上野千鹤子谈中国彩礼",
+        "onboard_time": 1713922456,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438179,
+        "num": 385992,
+        "word": "美国参议院通过涉字节剥离TikTok新法案",
+        "onboard_time": 1713929178,
+        "rank": 13,
+        "category": "国外时政,互联网"
+      },
+      {
+        "raw_hot": 385119,
+        "num": 385119,
+        "word": "赵露思带爸爸吃烤鸭",
+        "onboard_time": 1713929838,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366073,
+        "num": 366073,
+        "word": "iPhone16或将变秃",
+        "onboard_time": 1713929537,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 363899,
+        "num": 363899,
+        "word": "安宰贤说独居15年了",
+        "onboard_time": 1713929419,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354260,
+        "num": 354260,
+        "word": "秦昊在家经常夸杨幂",
+        "onboard_time": 1713924138,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311600,
+        "num": 311600,
+        "word": "上海一骑行活动赫本含量严重超标",
+        "onboard_time": 1713930858,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 288353,
+        "num": 288353,
+        "word": "南京一市民称骑自行车上路因无牌被罚50元",
+        "onboard_time": 1713923535,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285157,
+        "num": 285157,
+        "word": "原神仆人",
+        "onboard_time": 1713930618,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273533,
+        "num": 273533,
+        "word": "南京交管局回应骑没牌照自行车被罚50元",
+        "onboard_time": 1713931338,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268553,
+        "num": 268553,
+        "word": "宿舍挂床帘",
+        "onboard_time": 1713929718,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238155,
+        "num": 238155,
+        "word": "杨紫想尝试导演和制片",
+        "onboard_time": 1713929656,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237482,
+        "num": 237482,
+        "word": "爱奇艺片单",
+        "onboard_time": 1713923356,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233192,
+        "num": 233192,
+        "word": "Uzi谈TheShy除三害",
+        "onboard_time": 1713930798,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232119,
+        "num": 232119,
+        "word": "种地吧",
+        "onboard_time": 1713931818,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220411,
+        "num": 220411,
+        "word": "惜花芷 皇帝",
+        "onboard_time": 1713930377,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212043,
+        "num": 212043,
+        "word": "TF家族三代出道战官宣",
+        "onboard_time": 1713929598,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189983,
+        "num": 209738,
+        "word": "官方通报女生质疑体考被压表",
+        "onboard_time": 1713925216,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 276942,
+        "num": 209646,
+        "word": "青春有你国际版",
+        "onboard_time": 1713930737,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207746,
+        "num": 207746,
+        "word": "电视剧水龙吟杀青",
+        "onboard_time": 1713929656,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199511,
+        "num": 199511,
+        "word": "半熟恋人",
+        "onboard_time": 1713930557,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194087,
+        "num": 194087,
+        "word": "上官婉儿群星魔术团新皮肤",
+        "onboard_time": 1713930618,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190346,
+        "num": 190346,
+        "word": "林更新认出了张子枫没认出黄磊",
+        "onboard_time": 1713932420,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183218,
+        "num": 183218,
+        "word": "林孝埈Wonderland首封",
+        "onboard_time": 1713928278,
+        "rank": 35,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 182815,
+        "num": 182815,
+        "word": "孙耀威曹颖再穿乌龙闯情关戏服",
+        "onboard_time": 1713930978,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176020,
+        "num": 176020,
+        "word": "多所高校学生因悬挂床帘被实名通报",
+        "onboard_time": 1713917719,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169659,
+        "num": 169659,
+        "word": "中医建议补气血要按顺序",
+        "onboard_time": 1713931159,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155292,
+        "num": 155292,
+        "word": "神十八航天员见面会",
+        "onboard_time": 1713928758,
+        "rank": 39,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 154633,
+        "num": 154633,
+        "word": "神十八航天员简历",
+        "onboard_time": 1713928638,
+        "rank": 40,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 154300,
+        "num": 154300,
+        "word": "小说界的天花板",
+        "onboard_time": 1713930737,
+        "rank": 41,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 150669,
+        "num": 150669,
+        "word": "wvscon阵容",
+        "onboard_time": 1713931578,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149258,
+        "num": 149258,
+        "word": "刚出生十几天的小金毛",
+        "onboard_time": 1713931520,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140088,
+        "num": 140088,
+        "word": "学生挂床帘不过是为隐私二字",
+        "onboard_time": 1713919937,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138778,
+        "num": 138778,
+        "word": "太空养鱼",
+        "onboard_time": 1713928937,
+        "rank": 45,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 134754,
+        "num": 134754,
+        "word": "iPad",
+        "onboard_time": 1713932299,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128919,
+        "num": 128919,
+        "word": "李一桐第一部仙侠剧",
+        "onboard_time": 1713914655,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125252,
+        "num": 125252,
+        "word": "黄子韬向佐在大理相遇了",
+        "onboard_time": 1713923717,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124767,
+        "num": 124767,
+        "word": "中国将实施国内首次在轨水生生态研究",
+        "onboard_time": 1713924257,
+        "rank": 49,
+        "category": "国内时政,科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#唱好成渝双城记打开发展新格局#"
+    }
+  }
+}
