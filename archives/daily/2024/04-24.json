@@ -1,7 +1,15 @@
 {
   "startTime": 1713889329936,
-  "endTime": 1713947752754,
+  "endTime": 1713950313677,
   "band_list": [
+    {
+      "raw_hot": 2126677,
+      "num": 2126677,
+      "word": "玲花 维权是你们的权利",
+      "onboard_time": 1713947778,
+      "rank": 0,
+      "category": "演出"
+    },
     {
       "raw_hot": 1655451,
       "num": 1655451,
@@ -9,6 +17,14 @@
       "onboard_time": 1713938837,
       "rank": 7,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1543089,
+      "num": 1543089,
+      "word": "高君雨全网账号被禁",
+      "onboard_time": 1713946757,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 1516812,
@@ -105,6 +121,14 @@
       "onboard_time": 1713929537,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 986692,
+      "num": 556958,
+      "word": "玲花给买到柱子票的粉丝留了鸟巢的票",
+      "onboard_time": 1713946878,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 913838,
@@ -283,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 609132,
-      "num": 609132,
-      "word": "高君雨全网账号被禁",
-      "onboard_time": 1713946757,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
       "raw_hot": 601903,
       "num": 601903,
       "word": "上海50元一个月的房子长啥样",
@@ -345,14 +361,6 @@
       "onboard_time": 1713937578,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 556958,
-      "num": 556958,
-      "word": "玲花给买到柱子票的粉丝留了鸟巢的票",
-      "onboard_time": 1713946878,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 551660,
@@ -515,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424240,
+      "num": 424240,
+      "word": "朱梓骁把流星雨的戏服卖了",
+      "onboard_time": 1713949218,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 423607,
       "num": 423607,
       "word": "阿沁喊话陈建宁詹雯婷不要吵了",
@@ -571,12 +587,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385350,
+      "num": 385350,
+      "word": "华为回应P70手机AI修图能消除衣服",
+      "onboard_time": 1713947298,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 381234,
       "num": 381234,
       "word": "苹果计划为iPad推出计算器应用",
       "onboard_time": 1713913815,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 376659,
+      "num": 376659,
+      "word": "长期吃铝包子或引发肝肾损伤",
+      "onboard_time": 1713948199,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 374085,
@@ -633,6 +665,14 @@
       "onboard_time": 1713920838,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 342804,
+      "num": 342804,
+      "word": "苹果定位 发现石油",
+      "onboard_time": 1713949458,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 331302,
@@ -843,6 +883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 277704,
+      "num": 277704,
+      "word": "林更新想看赵丽颖做单线任务",
+      "onboard_time": 1713948319,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277219,
       "num": 277219,
       "word": "阴阳师",
@@ -896,6 +944,14 @@
       "word": "女子孕期突然耳洞疤痕增生",
       "onboard_time": 1713889756,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257872,
+      "num": 279000,
+      "word": "福宝",
+      "onboard_time": 1713949759,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1131,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199185,
+      "num": 199185,
+      "word": "赵奕欢谈浪姐私下关系",
+      "onboard_time": 1713947598,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198553,
       "num": 198553,
       "word": "蜜雪斌城cp",
@@ -1315,6 +1379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 181018,
+      "num": 181018,
+      "word": "谁懂摘头套那一瞬的杀伤力呀",
+      "onboard_time": 1713948800,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180055,
       "num": 180055,
       "word": "张颂文新剧官宣文案没跟上队形",
@@ -1451,20 +1523,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 166539,
-      "num": 166539,
-      "word": "华为回应P70手机AI修图能消除衣服",
-      "onboard_time": 1713947298,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 163495,
       "num": 163495,
       "word": "刚出生十几天的小金毛",
       "onboard_time": 1713931520,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162958,
+      "num": 162958,
+      "word": "吃双人餐把不存在的朋友骂了一顿",
+      "onboard_time": 1713948017,
+      "rank": 31,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 162308,
+      "num": 162308,
+      "word": "凤凰传奇 真诚",
+      "onboard_time": 1713948139,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 162021,
@@ -1481,6 +1561,22 @@
       "onboard_time": 1713939497,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161344,
+      "num": 161344,
+      "word": "TheShy抵达上海",
+      "onboard_time": 1713947838,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 161222,
+      "num": 161222,
+      "word": "朱丹说老公不优秀为什么要嫁给他",
+      "onboard_time": 1713949159,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 158043,
@@ -1835,14 +1931,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 127568,
-      "num": 127568,
-      "word": "赵奕欢谈浪姐私下关系",
-      "onboard_time": 1713947598,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 127081,
       "num": 127081,
       "word": "孩子刚休学老师就把我微信删了",
@@ -1889,6 +1977,14 @@
       "onboard_time": 1713937098,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 125345,
+      "num": 125345,
+      "word": "哈尔滨一九四四 节奏",
+      "onboard_time": 1713948678,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 125242,
@@ -2001,6 +2097,14 @@
       "onboard_time": 1713920358,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116185,
+      "num": 116185,
+      "word": "孙颖莎乒乓球世界杯发布会",
+      "onboard_time": 1713947899,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 115534,
@@ -2153,6 +2257,14 @@
       "onboard_time": 1713871397,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 94123,
+      "num": 167304,
+      "word": "被月球蛋壳屋萌到了",
+      "onboard_time": 1713949938,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92647,
@@ -2316,7 +2428,7 @@
     },
     {
       "raw_hot": 40814,
-      "num": 757163,
+      "num": 790593,
       "word": "万千气象看上海",
       "onboard_time": 1713928217,
       "rank": 2,
