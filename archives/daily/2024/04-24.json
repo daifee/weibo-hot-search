@@ -1,7 +1,23 @@
 {
   "startTime": 1713889329936,
-  "endTime": 1713915309424,
+  "endTime": 1713921389275,
   "band_list": [
+    {
+      "raw_hot": 1438025,
+      "num": 1438025,
+      "word": "北电取消网红李某某专业成绩",
+      "onboard_time": 1713918979,
+      "rank": 0,
+      "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 1436319,
+      "num": 322226,
+      "word": "五一不调休就会是这种结果",
+      "onboard_time": 1713875178,
+      "rank": 10,
+      "category": "幽默"
+    },
     {
       "raw_hot": 1267413,
       "num": 1267413,
@@ -19,14 +35,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1037796,
-      "num": 322226,
-      "word": "五一不调休就会是这种结果",
-      "onboard_time": 1713875178,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 811785,
       "num": 811785,
       "word": "金价",
@@ -35,12 +43,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 727112,
+      "num": 727112,
+      "word": "多所高校学生因悬挂床帘被实名通报",
+      "onboard_time": 1713917719,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 646492,
       "num": 646492,
       "word": "李闽轩称早已决定放弃报考北电",
       "onboard_time": 1713883399,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 630324,
+      "num": 630324,
+      "word": "一条小团团单月礼物收入曾高达500万",
+      "onboard_time": 1713875839,
+      "rank": 49,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 601903,
@@ -67,12 +91,44 @@
       "category": "数码"
     },
     {
-      "raw_hot": 575001,
-      "num": 575001,
-      "word": "一条小团团单月礼物收入曾高达500万",
-      "onboard_time": 1713875839,
-      "rank": 49,
-      "category": "游戏,网红"
+      "raw_hot": 487521,
+      "num": 304900,
+      "word": "长沙警方通报14岁女生被同学殴打",
+      "onboard_time": 1713915617,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463869,
+      "num": 463869,
+      "word": "李一桐第一部仙侠剧",
+      "onboard_time": 1713914655,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 438726,
+      "num": 302208,
+      "word": "学生挂床帘不过是为隐私二字",
+      "onboard_time": 1713919937,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436980,
+      "num": 436980,
+      "word": "津巴布韦股市暴跌99.95%",
+      "onboard_time": 1713915316,
+      "rank": 6,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 434711,
+      "num": 434711,
+      "word": "陈震称小米SU7背离自己预期",
+      "onboard_time": 1713885739,
+      "rank": 22,
+      "category": "汽车"
     },
     {
       "raw_hot": 429704,
@@ -108,11 +164,19 @@
     },
     {
       "raw_hot": 406287,
-      "num": 117840,
+      "num": 169472,
       "word": "田馥甄 音乐节",
       "onboard_time": 1713885918,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 381234,
+      "num": 381234,
+      "word": "苹果计划为iPad推出计算器应用",
+      "onboard_time": 1713913815,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 374085,
@@ -155,12 +219,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307786,
+      "num": 307786,
+      "word": "孙女回家找不到奶奶崩溃大哭",
+      "onboard_time": 1713893232,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305391,
+      "num": 240108,
+      "word": "新人结婚后要有小家意识",
+      "onboard_time": 1713915557,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 303939,
       "num": 303939,
       "word": "辛芷蕾 抱歉杨洋我听错了",
       "onboard_time": 1713859459,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 299627,
+      "num": 299627,
+      "word": "iPhone16起步存储或为256GB",
+      "onboard_time": 1713919278,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 299112,
@@ -179,12 +267,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286784,
+      "num": 286784,
+      "word": "周雨彤现偶史上最e女主",
+      "onboard_time": 1713886278,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 269354,
+      "num": 237258,
+      "word": "让腿越来越瘦的12个习惯",
+      "onboard_time": 1713916756,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 269070,
       "num": 269070,
       "word": "网红艺考生李闽轩或被取消高考资格",
       "onboard_time": 1713871997,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 268071,
+      "num": 234240,
+      "word": "女子孕期突然耳洞疤痕增生",
+      "onboard_time": 1713889756,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247879,
@@ -195,35 +307,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218312,
+      "num": 218312,
+      "word": "神舟十八号载人飞行任务",
+      "onboard_time": 1713919039,
+      "rank": 24,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 214995,
       "num": 214995,
       "word": "泰版步步惊心",
       "onboard_time": 1713880218,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 209463,
-      "num": 209463,
-      "word": "陈震称小米SU7背离自己预期",
-      "onboard_time": 1713885739,
-      "rank": 22,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 205409,
-      "num": 147383,
-      "word": "女子孕期突然耳洞疤痕增生",
-      "onboard_time": 1713889756,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203054,
-      "num": 203054,
-      "word": "周雨彤现偶史上最e女主",
-      "onboard_time": 1713886278,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -235,8 +331,24 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 200533,
+      "num": 200533,
+      "word": "神十八新闻发布会",
+      "onboard_time": 1713921197,
+      "rank": 25,
+      "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 195714,
+      "num": 195714,
+      "word": "住酒店睡过头被扣了押金",
+      "onboard_time": 1713891254,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187420,
-      "num": 121188,
+      "num": 162559,
       "word": "黄景瑜体格怎么这么大",
       "onboard_time": 1713882739,
       "rank": 26,
@@ -251,6 +363,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 183869,
+      "num": 183869,
+      "word": "特斯拉",
+      "onboard_time": 1713917177,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 180055,
       "num": 180055,
       "word": "张颂文新剧官宣文案没跟上队形",
@@ -259,20 +379,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179029,
+      "num": 179029,
+      "word": "当地回应4岁男童被三小孩倒酒精烧死",
+      "onboard_time": 1713892274,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173941,
       "num": 117075,
       "word": "刘涛还留着花少1的导游包",
       "onboard_time": 1713885199,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173653,
-      "num": 253250,
-      "word": "孙女回家找不到奶奶崩溃大哭",
-      "onboard_time": 1713893232,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170255,
@@ -291,6 +411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169507,
+      "num": 169507,
+      "word": "苏醒晒照为陆虎庆生",
+      "onboard_time": 1713918979,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168642,
       "num": 116197,
       "word": "赵露思10分半vlog",
@@ -307,12 +435,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150497,
-      "num": 150497,
-      "word": "李一桐第一部仙侠剧",
-      "onboard_time": 1713914655,
-      "rank": 18,
+      "raw_hot": 150574,
+      "num": 150574,
+      "word": "小孩 我一出生就如履薄冰",
+      "onboard_time": 1713920838,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 149908,
+      "num": 149908,
+      "word": "王权篇预告",
+      "onboard_time": 1713920478,
+      "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148112,
+      "num": 148112,
+      "word": "贵州科比酒业注册成功",
+      "onboard_time": 1713917900,
+      "rank": 36,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 147792,
@@ -323,12 +467,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 146926,
-      "num": 146926,
-      "word": "当地回应4岁男童被三小孩倒酒精烧死",
-      "onboard_time": 1713892274,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 145814,
+      "num": 145814,
+      "word": "西湖醋鱼的含金量",
+      "onboard_time": 1713920896,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 139182,
+      "num": 139182,
+      "word": "许嵩演唱会",
+      "onboard_time": 1713918618,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 137058,
@@ -355,20 +507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131029,
-      "num": 94426,
-      "word": "住酒店睡过头被扣了押金",
-      "onboard_time": 1713891254,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 132035,
+      "num": 132035,
+      "word": "为什么大家都不喜欢付邮费",
+      "onboard_time": 1713917358,
+      "rank": 39,
+      "category": "互联网,情感"
     },
     {
-      "raw_hot": 129348,
-      "num": 129348,
-      "word": "苹果计划为iPad推出计算器应用",
-      "onboard_time": 1713913815,
-      "rank": 35,
-      "category": "数码"
+      "raw_hot": 127732,
+      "num": 127732,
+      "word": "湖人掘金G2裁判报告",
+      "onboard_time": 1713921319,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 127081,
@@ -387,12 +539,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124936,
+      "num": 124936,
+      "word": "18个工程师花1年才看懂图纸",
+      "onboard_time": 1713918858,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122233,
       "num": 95668,
       "word": "春色寄情人 不够看",
       "onboard_time": 1713881120,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120873,
+      "num": 120873,
+      "word": "新款11英寸iPadPro上市初期或缺货",
+      "onboard_time": 1713917598,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 120763,
@@ -403,6 +571,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 119775,
+      "num": 119775,
+      "word": "严浩翔后悔在东北只穿三件衣服",
+      "onboard_time": 1713917118,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117557,
       "num": 90296,
       "word": "秦昊杨幂新剧微博开分谍战第一",
@@ -411,12 +587,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116246,
+      "num": 116246,
+      "word": "我的春日狂欢日记",
+      "onboard_time": 1713920358,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112571,
       "num": 90274,
       "word": "林俊杰演唱会厦门站报批歌单",
       "onboard_time": 1713887957,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 108998,
+      "num": 108998,
+      "word": "金价出现回调",
+      "onboard_time": 1713915856,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 108727,
@@ -587,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47760,
+      "num": 842396,
+      "word": "9图了解无障碍阅读",
+      "onboard_time": 1713876437,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41089,
       "num": 46448,
       "word": "杨幂车内侧颜",
@@ -609,14 +809,6 @@
       "onboard_time": 1713894791,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 30929,
-      "num": 842396,
-      "word": "9图了解无障碍阅读",
-      "onboard_time": 1713876437,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30171,

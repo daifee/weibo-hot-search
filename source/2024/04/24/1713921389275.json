@@ -1,0 +1,410 @@
+{
+  "runTime": 1713921389275,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1438025,
+        "num": 1438025,
+        "word": "北电取消网红李某某专业成绩",
+        "onboard_time": 1713918979,
+        "rank": 0,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 771933,
+        "num": 771933,
+        "word": "金价",
+        "onboard_time": 1713912133,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47760,
+        "num": 728690,
+        "word": "9图了解无障碍阅读",
+        "onboard_time": 1713876437,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727112,
+        "num": 727112,
+        "word": "多所高校学生因悬挂床帘被实名通报",
+        "onboard_time": 1713917719,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630324,
+        "num": 630324,
+        "word": "一条小团团单月礼物收入曾高达500万",
+        "onboard_time": 1713875839,
+        "rank": 4,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 463869,
+        "num": 463869,
+        "word": "李一桐第一部仙侠剧",
+        "onboard_time": 1713914655,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436980,
+        "num": 436980,
+        "word": "津巴布韦股市暴跌99.95%",
+        "onboard_time": 1713915316,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 434711,
+        "num": 434711,
+        "word": "陈震称小米SU7背离自己预期",
+        "onboard_time": 1713885739,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 381234,
+        "num": 381234,
+        "word": "苹果计划为iPad推出计算器应用",
+        "onboard_time": 1713913815,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 307786,
+        "num": 307786,
+        "word": "孙女回家找不到奶奶崩溃大哭",
+        "onboard_time": 1713893232,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1436319,
+        "num": 305904,
+        "word": "五一不调休就会是这种结果",
+        "onboard_time": 1713875178,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 487521,
+        "num": 304900,
+        "word": "长沙警方通报14岁女生被同学殴打",
+        "onboard_time": 1713915617,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438726,
+        "num": 302208,
+        "word": "学生挂床帘不过是为隐私二字",
+        "onboard_time": 1713919937,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337249,
+        "num": 301516,
+        "word": "女子反映天然气费用突增老公被公司约谈",
+        "onboard_time": 1713880218,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299627,
+        "num": 299627,
+        "word": "iPhone16起步存储或为256GB",
+        "onboard_time": 1713919278,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 286947,
+        "num": 286947,
+        "word": "周星驰要上综艺了",
+        "onboard_time": 1713884419,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286784,
+        "num": 286784,
+        "word": "周雨彤现偶史上最e女主",
+        "onboard_time": 1713886278,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262558,
+        "num": 262558,
+        "word": "昆凌迪士尼走出来的公主",
+        "onboard_time": 1713882140,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259323,
+        "num": 259323,
+        "word": "阿沁喊话陈建宁詹雯婷不要吵了",
+        "onboard_time": 1713889696,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242408,
+        "num": 242408,
+        "word": "蔡磊病情加重舌头下嘴唇已萎缩",
+        "onboard_time": 1713874158,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305391,
+        "num": 240108,
+        "word": "新人结婚后要有小家意识",
+        "onboard_time": 1713915557,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269354,
+        "num": 237258,
+        "word": "让腿越来越瘦的12个习惯",
+        "onboard_time": 1713916756,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 268071,
+        "num": 234240,
+        "word": "女子孕期突然耳洞疤痕增生",
+        "onboard_time": 1713889756,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221346,
+        "num": 221346,
+        "word": "重庆动物园就熊猫扑倒保育员报平安",
+        "onboard_time": 1713887658,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218312,
+        "num": 218312,
+        "word": "神舟十八号载人飞行任务",
+        "onboard_time": 1713919039,
+        "rank": 24,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 200533,
+        "num": 200533,
+        "word": "神十八新闻发布会",
+        "onboard_time": 1713921197,
+        "rank": 25,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 195714,
+        "num": 195714,
+        "word": "住酒店睡过头被扣了押金",
+        "onboard_time": 1713891254,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183869,
+        "num": 183869,
+        "word": "特斯拉",
+        "onboard_time": 1713917177,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 179029,
+        "num": 179029,
+        "word": "当地回应4岁男童被三小孩倒酒精烧死",
+        "onboard_time": 1713892274,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169507,
+        "num": 169507,
+        "word": "苏醒晒照为陆虎庆生",
+        "onboard_time": 1713918979,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193915,
+        "num": 169472,
+        "word": "田馥甄 音乐节",
+        "onboard_time": 1713885918,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169400,
+        "num": 169400,
+        "word": "林俊杰为了防黄牛好拼",
+        "onboard_time": 1713882020,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162559,
+        "num": 162559,
+        "word": "黄景瑜体格怎么这么大",
+        "onboard_time": 1713882739,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151814,
+        "num": 151814,
+        "word": "眼泪女王大结局提前播出",
+        "onboard_time": 1713886338,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150574,
+        "num": 150574,
+        "word": "小孩 我一出生就如履薄冰",
+        "onboard_time": 1713920838,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149908,
+        "num": 149908,
+        "word": "王权篇预告",
+        "onboard_time": 1713920478,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148112,
+        "num": 148112,
+        "word": "贵州科比酒业注册成功",
+        "onboard_time": 1713917900,
+        "rank": 36,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 145814,
+        "num": 145814,
+        "word": "西湖醋鱼的含金量",
+        "onboard_time": 1713920896,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139182,
+        "num": 139182,
+        "word": "许嵩演唱会",
+        "onboard_time": 1713918618,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132035,
+        "num": 132035,
+        "word": "为什么大家都不喜欢付邮费",
+        "onboard_time": 1713917358,
+        "rank": 39,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 127732,
+        "num": 127732,
+        "word": "湖人掘金G2裁判报告",
+        "onboard_time": 1713921319,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124936,
+        "num": 124936,
+        "word": "18个工程师花1年才看懂图纸",
+        "onboard_time": 1713918858,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122067,
+        "num": 122067,
+        "word": "恋综史上最激烈的深吻",
+        "onboard_time": 1713864318,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121983,
+        "num": 121983,
+        "word": "西湖也是要洗湖的",
+        "onboard_time": 1713888197,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 120873,
+        "num": 120873,
+        "word": "新款11英寸iPadPro上市初期或缺货",
+        "onboard_time": 1713917598,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119775,
+        "num": 119775,
+        "word": "严浩翔后悔在东北只穿三件衣服",
+        "onboard_time": 1713917118,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116246,
+        "num": 116246,
+        "word": "我的春日狂欢日记",
+        "onboard_time": 1713920358,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114868,
+        "num": 114868,
+        "word": "泰版步步惊心",
+        "onboard_time": 1713880218,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108998,
+        "num": 108998,
+        "word": "金价出现回调",
+        "onboard_time": 1713915856,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102047,
+        "num": 102047,
+        "word": "辛芷蕾 抱歉杨洋我听错了",
+        "onboard_time": 1713859459,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化民生为大#"
+    }
+  }
+}
