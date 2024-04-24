@@ -1,6 +1,6 @@
 {
   "startTime": 1713889329936,
-  "endTime": 1713926254189,
+  "endTime": 1713928798660,
   "band_list": [
     {
       "raw_hot": 1438025,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1136448,
+      "num": 1136448,
+      "word": "iPhone16国行售价曝光",
+      "onboard_time": 1713923356,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1054120,
       "num": 1054120,
       "word": "李闽轩回应",
       "onboard_time": 1713879380,
       "rank": 1,
       "category": "网红"
-    },
-    {
-      "raw_hot": 830239,
-      "num": 830239,
-      "word": "iPhone16国行售价曝光",
-      "onboard_time": 1713923356,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 823813,
@@ -65,6 +65,30 @@
       "onboard_time": 1713912133,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 770970,
+      "num": 770970,
+      "word": "南京一市民称骑自行车上路因无牌被罚50元",
+      "onboard_time": 1713923535,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 721773,
+      "num": 721773,
+      "word": "上野千鹤子谈中国彩礼",
+      "onboard_time": 1713922456,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 704004,
+      "num": 374463,
+      "word": "鹿晗染了金发",
+      "onboard_time": 1713927376,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 646492,
@@ -107,20 +131,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 591693,
-      "num": 591693,
-      "word": "上野千鹤子谈中国彩礼",
-      "onboard_time": 1713922456,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 577688,
       "num": 577688,
       "word": "苹果发布会",
       "onboard_time": 1713884959,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 534876,
+      "num": 534876,
+      "word": "秦昊在家经常夸杨幂",
+      "onboard_time": 1713924138,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 526863,
+      "num": 526863,
+      "word": "爱奇艺国际版",
+      "onboard_time": 1713927197,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 521959,
@@ -153,6 +185,14 @@
       "onboard_time": 1713915617,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464604,
+      "num": 464604,
+      "word": "官方通报女生质疑体考被压表",
+      "onboard_time": 1713925216,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 463869,
@@ -235,6 +275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 380555,
+      "num": 380555,
+      "word": "披荆斩棘的大小姐定档",
+      "onboard_time": 1713928337,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374085,
       "num": 319799,
       "word": "9岁坠楼男孩生前最后5分钟发呆徘徊",
@@ -249,6 +297,14 @@
       "onboard_time": 1713864318,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358136,
+      "num": 358136,
+      "word": "俄国防部副部长伊万诺夫被拘留",
+      "onboard_time": 1713928096,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 357501,
@@ -289,14 +345,6 @@
       "onboard_time": 1713884419,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 316766,
-      "num": 316766,
-      "word": "南京一市民称骑自行车上路因无牌被罚50元",
-      "onboard_time": 1713923535,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313652,
@@ -379,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 280188,
-      "num": 257748,
-      "word": "秦昊在家经常夸杨幂",
-      "onboard_time": 1713924138,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 277219,
       "num": 277219,
       "word": "阴阳师",
@@ -435,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256614,
-      "num": 256614,
-      "word": "官方通报女生质疑体考被压表",
-      "onboard_time": 1713925216,
-      "rank": 33,
-      "category": "教育,社会新闻"
+      "raw_hot": 250493,
+      "num": 250493,
+      "word": "三年幼儿园 一生战友情",
+      "onboard_time": 1713926958,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 247879,
@@ -465,6 +505,14 @@
       "onboard_time": 1713880218,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211873,
+      "num": 211873,
+      "word": "电影沙漏定档",
+      "onboard_time": 1713928096,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 208902,
@@ -523,6 +571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194984,
+      "num": 194984,
+      "word": "林孝埈Wonderland首封",
+      "onboard_time": 1713928278,
+      "rank": 21,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 189480,
       "num": 189480,
       "word": "孕妇坠崖案当事人5年后再登崖",
@@ -537,6 +593,14 @@
       "onboard_time": 1713882739,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186929,
+      "num": 186929,
+      "word": "航天员只有满分线没有及格线",
+      "onboard_time": 1713927857,
+      "rank": 22,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 185242,
@@ -611,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168722,
+      "num": 168722,
+      "word": "刘宪华还在用现金",
+      "onboard_time": 1713927017,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168642,
       "num": 116197,
       "word": "赵露思10分半vlog",
@@ -633,6 +705,22 @@
       "onboard_time": 1713913455,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155686,
+      "num": 155686,
+      "word": "辛芷蕾还是那么爱吃秦岚的醋",
+      "onboard_time": 1713927977,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153278,
+      "num": 153278,
+      "word": "韩国人期待5月的原因",
+      "onboard_time": 1713928158,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 151811,
@@ -707,6 +795,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141211,
+      "num": 141211,
+      "word": "专家称挂床帘影响同学间交流",
+      "onboard_time": 1713928577,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 140000,
+      "num": 140000,
+      "word": "神十八航天员简历",
+      "onboard_time": 1713928638,
+      "rank": 34,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 139182,
       "num": 139182,
       "word": "许嵩演唱会",
@@ -755,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132390,
+      "num": 132390,
+      "word": "A股",
+      "onboard_time": 1713928458,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132035,
       "num": 132035,
       "word": "为什么大家都不喜欢付邮费",
@@ -795,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125242,
+      "num": 125242,
+      "word": "宋雨琦新歌FREAK初舞台",
+      "onboard_time": 1713926837,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 124936,
       "num": 124936,
       "word": "18个工程师花1年才看懂图纸",
@@ -825,6 +945,14 @@
       "onboard_time": 1713887118,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 120318,
+      "num": 120318,
+      "word": "杜兰特18分",
+      "onboard_time": 1713927677,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 119775,
@@ -859,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115863,
+      "num": 374932,
+      "word": "为年轻人开的15元旅店17年没涨价",
+      "onboard_time": 1713927857,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114574,
       "num": 114574,
       "word": "特斯拉股价飙涨12%",
@@ -875,12 +1011,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112164,
+      "num": 112164,
+      "word": "神十八航天员见面会",
+      "onboard_time": 1713928758,
+      "rank": 45,
+      "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 111006,
+      "num": 111006,
+      "word": "优酷发布白夜剧场片单",
+      "onboard_time": 1713928037,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108998,
       "num": 108998,
       "word": "金价出现回调",
       "onboard_time": 1713915856,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 108743,
+      "num": 108743,
+      "word": "你平时会佩戴发簪吗",
+      "onboard_time": 1713927617,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 108727,
@@ -1115,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21827,
+      "num": 732190,
+      "word": "万千气象看上海",
+      "onboard_time": 1713928217,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19747,
       "num": 19747,
       "word": "小团团掉粉近50万",
@@ -1148,6 +1316,9 @@
     },
     {
       "word": "#让老百姓过上更加幸福的生活#"
+    },
+    {
+      "word": "#新时代推动西部大开发座谈会#"
     }
   ]
 }
