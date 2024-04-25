@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1714008973634,
+  "endTime": 1714012086542,
   "band_list": [
     {
       "raw_hot": 2184582,
@@ -8,6 +8,14 @@
       "word": "官方回应社保缴满15年就坐等退休",
       "onboard_time": 1714001837,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1076753,
+      "num": 371817,
+      "word": "妈妈将3个孩子反锁家中1天只吃1顿",
+      "onboard_time": 1714007417,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -44,11 +52,19 @@
     },
     {
       "raw_hot": 814240,
-      "num": 259059,
+      "num": 263115,
       "word": "田馥甄发微博",
       "onboard_time": 1713964220,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 781110,
+      "num": 774380,
+      "word": "狗头萝莉自曝找到员工了",
+      "onboard_time": 1713981973,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 780162,
@@ -57,14 +73,6 @@
       "onboard_time": 1713974117,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 774380,
-      "num": 774380,
-      "word": "狗头萝莉自曝找到员工了",
-      "onboard_time": 1713981973,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 742860,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 696637,
-      "num": 258245,
+      "num": 263959,
       "word": "男子多次性侵前女友11岁女儿获刑16年",
       "onboard_time": 1713968059,
       "rank": 21,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 579965,
-      "num": 358737,
+      "num": 371739,
       "word": "叶诗文决定退出200混比赛",
       "onboard_time": 1714006639,
       "rank": 16,
@@ -129,6 +137,14 @@
       "onboard_time": 1713963739,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 540797,
+      "num": 540797,
+      "word": "小米汽车",
+      "onboard_time": 1714010118,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 530694,
@@ -163,6 +179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 434160,
+      "num": 434160,
+      "word": "萌兰的腿怎么突然变1米9了",
+      "onboard_time": 1714005678,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430035,
       "num": 430035,
       "word": "大麦网已退票退款",
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 401467,
-      "num": 350140,
+      "num": 371566,
       "word": "肖战入选世界十大最美面孔",
       "onboard_time": 1714004959,
       "rank": 17,
@@ -211,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 371930,
+      "num": 371930,
+      "word": "HYBE以涉嫌工作渎职等嫌疑告发闵熙珍",
+      "onboard_time": 1714011078,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370649,
       "num": 370649,
       "word": "菠菜一定焯水后吃否则或引发肾损伤",
@@ -224,14 +256,6 @@
       "word": "2000元人参泡酒15年后发芽了",
       "onboard_time": 1713978854,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331480,
-      "num": 331480,
-      "word": "妈妈将3个孩子反锁家中1天只吃1顿",
-      "onboard_time": 1714007417,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -267,6 +291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 282159,
+      "num": 282159,
+      "word": "种地吧直播",
+      "onboard_time": 1714011677,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280917,
       "num": 280917,
       "word": "Angelababy狼尾超短发",
@@ -283,12 +315,20 @@
       "category": "体育,汽车"
     },
     {
-      "raw_hot": 264387,
+      "raw_hot": 269173,
       "num": 481295,
       "word": "老爷爷带写着金婚快乐的玫瑰乘地铁",
       "onboard_time": 1714006878,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262426,
+      "num": 262426,
+      "word": "郑乃馨公开恋情后被音乐节除名",
+      "onboard_time": 1714012036,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 249925,
@@ -315,6 +355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236968,
+      "num": 236968,
+      "word": "未婚未育的90后开始争当月嫂",
+      "onboard_time": 1714008498,
+      "rank": 25,
+      "category": "社会新闻,母婴育儿"
+    },
+    {
       "raw_hot": 233287,
       "num": 233287,
       "word": "日本地震",
@@ -329,6 +377,14 @@
       "onboard_time": 1713956298,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230700,
+      "num": 230700,
+      "word": "爱情公寓秦羽墨美甲店被吐槽",
+      "onboard_time": 1714011797,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 227926,
@@ -379,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206475,
+      "num": 206475,
+      "word": "KEP1ER七月解散",
+      "onboard_time": 1714009998,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203505,
       "num": 203505,
       "word": "官方通报海南3个小孩被锁家里",
@@ -387,19 +451,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202167,
-      "num": 202167,
-      "word": "萌兰的腿怎么突然变1米9了",
-      "onboard_time": 1714005678,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201766,
       "num": 201766,
       "word": "外卖黑勺最脏系谣言",
       "onboard_time": 1714008078,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201027,
+      "num": 201027,
+      "word": "揭露主播卖抗癌化妆品女子发声",
+      "onboard_time": 1714009518,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -435,12 +499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190625,
+      "num": 190625,
+      "word": "雷军 北京车展",
+      "onboard_time": 1714010478,
+      "rank": 32,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 184710,
       "num": 184710,
       "word": "身份证号码中包含X该如何买票",
       "onboard_time": 1713964878,
       "rank": 24,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 184615,
+      "num": 184615,
+      "word": "你认为很贵其实很便宜的东西",
+      "onboard_time": 1714012036,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 182669,
@@ -459,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181514,
+      "num": 262646,
+      "word": "小米SU7锁单75723台",
+      "onboard_time": 1714011137,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 180967,
       "num": 154379,
       "word": "读研就是在筛选过于较真的人",
@@ -467,12 +555,44 @@
       "category": "教育"
     },
     {
+      "raw_hot": 177301,
+      "num": 177301,
+      "word": "热火1比1凯尔特人",
+      "onboard_time": 1714009698,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 175985,
+      "num": 175985,
+      "word": "桃源深处有人家维护",
+      "onboard_time": 1714011738,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175516,
       "num": 175516,
       "word": "破镜重圆文",
       "onboard_time": 1713979333,
       "rank": 19,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 171447,
+      "num": 171447,
+      "word": "一眼就能看出谁是花1谁是花5",
+      "onboard_time": 1714008438,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 169898,
+      "num": 201545,
+      "word": "五一所有人都去哪儿玩",
+      "onboard_time": 1714010776,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163662,
@@ -547,20 +667,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 138932,
-      "num": 138932,
-      "word": "一眼就能看出谁是花1谁是花5",
-      "onboard_time": 1714008438,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138334,
       "num": 138334,
       "word": "承欢记大结局",
       "onboard_time": 1713961398,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137586,
+      "num": 137586,
+      "word": "项羽战令新皮肤",
+      "onboard_time": 1714011198,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 136019,
@@ -593,6 +713,14 @@
       "onboard_time": 1714001236,
       "rank": 23,
       "category": "读书作家,网红"
+    },
+    {
+      "raw_hot": 127188,
+      "num": 127188,
+      "word": "热火三分创队史纪录",
+      "onboard_time": 1714009937,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 126309,
@@ -651,6 +779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110533,
+      "num": 110533,
+      "word": "电量不足病情大赏",
+      "onboard_time": 1714010717,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109976,
       "num": 109976,
       "word": "女孩拍170条宣传片力证江西美景多",
@@ -697,6 +833,14 @@
       "onboard_time": 1713989170,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95352,
+      "num": 348420,
+      "word": "珍爱生命远离邪教",
+      "onboard_time": 1714010416,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94465,
@@ -851,6 +995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38572,
+      "num": 202744,
+      "word": "陈雨菲高燃击球瞬间",
+      "onboard_time": 1714008857,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38350,
       "num": 45227,
       "word": "斯里兰卡卖花男孩穿人字拖奔跑",
@@ -881,14 +1033,6 @@
       "onboard_time": 1713969259,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25782,
-      "num": 98739,
-      "word": "陈雨菲高燃击球瞬间",
-      "onboard_time": 1714008857,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 19555,

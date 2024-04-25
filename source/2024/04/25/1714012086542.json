@@ -1,0 +1,410 @@
+{
+  "runTime": 1714012086542,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1170296,
+        "num": 1170296,
+        "word": "官方回应社保缴满15年就坐等退休",
+        "onboard_time": 1714001837,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540797,
+        "num": 540797,
+        "word": "小米汽车",
+        "onboard_time": 1714010118,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 11998,
+        "num": 497141,
+        "word": "万千气象看山西",
+        "onboard_time": 1713842298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556625,
+        "num": 486195,
+        "word": "彩礼该以女方陪嫁形式返还小家庭吗",
+        "onboard_time": 1714005319,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463630,
+        "num": 463630,
+        "word": "淫秽物品认定标准",
+        "onboard_time": 1714004959,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 434160,
+        "num": 434160,
+        "word": "萌兰的腿怎么突然变1米9了",
+        "onboard_time": 1714005678,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426707,
+        "num": 426707,
+        "word": "眼泪女王洪海仁原定IU出演",
+        "onboard_time": 1714003818,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391237,
+        "num": 391237,
+        "word": "电梯从20楼坠落致物业工作人员死亡",
+        "onboard_time": 1714002317,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324366,
+        "num": 377347,
+        "word": "刚开业价值300万黄金被洗劫一空",
+        "onboard_time": 1714004539,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 371930,
+        "num": 371930,
+        "word": "HYBE以涉嫌工作渎职等嫌疑告发闵熙珍",
+        "onboard_time": 1714011078,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1076753,
+        "num": 371817,
+        "word": "妈妈将3个孩子反锁家中1天只吃1顿",
+        "onboard_time": 1714007417,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605982,
+        "num": 371756,
+        "word": "王一博鲨鱼夹",
+        "onboard_time": 1714002559,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 548260,
+        "num": 371739,
+        "word": "叶诗文决定退出200混比赛",
+        "onboard_time": 1714006639,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371566,
+        "num": 371566,
+        "word": "肖战入选世界十大最美面孔",
+        "onboard_time": 1714004959,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95352,
+        "num": 348420,
+        "word": "珍爱生命远离邪教",
+        "onboard_time": 1714010416,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330626,
+        "num": 330626,
+        "word": "唐家三少说再婚会通知书友",
+        "onboard_time": 1714003878,
+        "rank": 15,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 282159,
+        "num": 282159,
+        "word": "种地吧直播",
+        "onboard_time": 1714011677,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273371,
+        "num": 273371,
+        "word": "东郊到家回应男子被女技师色诱加钟",
+        "onboard_time": 1714004239,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269173,
+        "num": 269173,
+        "word": "老爷爷带写着金婚快乐的玫瑰乘地铁",
+        "onboard_time": 1714006878,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264878,
+        "num": 264878,
+        "word": "花少第一站破碎的是张翰",
+        "onboard_time": 1713971719,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 781110,
+        "num": 264346,
+        "word": "狗头萝莉自曝找到员工了",
+        "onboard_time": 1713981973,
+        "rank": 20,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 436761,
+        "num": 263959,
+        "word": "男子多次性侵前女友11岁女儿获刑16年",
+        "onboard_time": 1713968059,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351405,
+        "num": 263115,
+        "word": "田馥甄发微博",
+        "onboard_time": 1713964220,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181514,
+        "num": 262646,
+        "word": "小米SU7锁单75723台",
+        "onboard_time": 1714011137,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 262426,
+        "num": 262426,
+        "word": "郑乃馨公开恋情后被音乐节除名",
+        "onboard_time": 1714012036,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 236968,
+        "num": 236968,
+        "word": "未婚未育的90后开始争当月嫂",
+        "onboard_time": 1714008498,
+        "rank": 25,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 230700,
+        "num": 230700,
+        "word": "爱情公寓秦羽墨美甲店被吐槽",
+        "onboard_time": 1714011797,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227674,
+        "num": 227674,
+        "word": "特斯拉市值一夜大涨4028亿",
+        "onboard_time": 1714000575,
+        "rank": 27,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 206475,
+        "num": 206475,
+        "word": "KEP1ER七月解散",
+        "onboard_time": 1714009998,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 38572,
+        "num": 202744,
+        "word": "陈雨菲高燃击球瞬间",
+        "onboard_time": 1714008857,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169898,
+        "num": 201545,
+        "word": "五一所有人都去哪儿玩",
+        "onboard_time": 1714010776,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201027,
+        "num": 201027,
+        "word": "揭露主播卖抗癌化妆品女子发声",
+        "onboard_time": 1714009518,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190625,
+        "num": 190625,
+        "word": "雷军 北京车展",
+        "onboard_time": 1714010478,
+        "rank": 32,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 188988,
+        "num": 188988,
+        "word": "微信区分单删互删",
+        "onboard_time": 1713968659,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184615,
+        "num": 184615,
+        "word": "你认为很贵其实很便宜的东西",
+        "onboard_time": 1714012036,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177301,
+        "num": 177301,
+        "word": "热火1比1凯尔特人",
+        "onboard_time": 1714009698,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175985,
+        "num": 175985,
+        "word": "桃源深处有人家维护",
+        "onboard_time": 1714011738,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171447,
+        "num": 171447,
+        "word": "一眼就能看出谁是花1谁是花5",
+        "onboard_time": 1714008438,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168507,
+        "num": 168507,
+        "word": "拜登竞选团队用TikTok拉拢年轻选民",
+        "onboard_time": 1714007718,
+        "rank": 38,
+        "category": "国外时政,互联网"
+      },
+      {
+        "raw_hot": 160859,
+        "num": 160859,
+        "word": "周雨彤我替你演两集吧",
+        "onboard_time": 1714005799,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157178,
+        "num": 157178,
+        "word": "浙江宣传谈调休",
+        "onboard_time": 1714007058,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149323,
+        "num": 149323,
+        "word": "凤凰传奇 上头",
+        "onboard_time": 1714006278,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148304,
+        "num": 148304,
+        "word": "男孩骑车失误刹车把手插进大腿里",
+        "onboard_time": 1713974117,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138985,
+        "num": 138985,
+        "word": "给三任男朋友送了同一款香水",
+        "onboard_time": 1714006399,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137586,
+        "num": 137586,
+        "word": "项羽战令新皮肤",
+        "onboard_time": 1714011198,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127188,
+        "num": 127188,
+        "word": "热火三分创队史纪录",
+        "onboard_time": 1714009937,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125070,
+        "num": 125070,
+        "word": "郭艾伦向贾跃亭讨债",
+        "onboard_time": 1714002016,
+        "rank": 46,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 117592,
+        "num": 117592,
+        "word": "庞博工作室比庞博还好笑",
+        "onboard_time": 1714001596,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110533,
+        "num": 110533,
+        "word": "电量不足病情大赏",
+        "onboard_time": 1714010717,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109410,
+        "num": 109410,
+        "word": "秦海璐是花少好友记第一站导游",
+        "onboard_time": 1714006759,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于西部大开发总书记强调6个坚持#"
+    }
+  }
+}
