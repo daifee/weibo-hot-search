@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1714037675367,
+  "endTime": 1714040337059,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -91,6 +91,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1281443,
+      "num": 507736,
+      "word": "戚薇不建议大家瘦成艺人的样子",
+      "onboard_time": 1714038559,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1274250,
       "num": 1274250,
       "word": "为何越来越多老人染上艾滋病",
@@ -147,6 +155,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 924534,
+      "num": 364622,
+      "word": "hybe员工吃瓜忘发zico物料",
+      "onboard_time": 1714037599,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 921731,
+      "num": 582188,
+      "word": "张碧晨玩机车是因为赵丽颖",
+      "onboard_time": 1714032859,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 906303,
       "num": 444242,
       "word": "NewJeans哭着问闵熙珍要怎么办",
@@ -161,14 +185,6 @@
       "onboard_time": 1714005319,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 845326,
-      "num": 582188,
-      "word": "张碧晨玩机车是因为赵丽颖",
-      "onboard_time": 1714032859,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 818012,
@@ -491,6 +507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 449100,
+      "num": 449100,
+      "word": "高校要求手抄毕业论文引学生不满",
+      "onboard_time": 1714038499,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445022,
       "num": 408194,
       "word": "HYBE用宫脇咲良和金采源对打张元英",
@@ -587,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 393823,
+      "num": 345583,
+      "word": "illit制作人ins竖中指",
+      "onboard_time": 1714038019,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388495,
       "num": 388495,
       "word": "玲花 维权是你们的权利",
@@ -643,12 +675,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 364682,
+      "num": 364682,
+      "word": "丫丫回国一年了",
+      "onboard_time": 1714037299,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352806,
       "num": 352806,
       "word": "2000元人参泡酒15年后发芽了",
       "onboard_time": 1713978854,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350480,
+      "num": 333657,
+      "word": "NewJeans发布公告",
+      "onboard_time": 1714039098,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 346977,
@@ -699,6 +747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 329740,
+      "num": 329740,
+      "word": "煮肘 二妞妈",
+      "onboard_time": 1714029618,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326348,
       "num": 231972,
       "word": "李现周雨彤电梯神图",
@@ -713,14 +769,6 @@
       "onboard_time": 1713985451,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 320317,
-      "num": 320317,
-      "word": "煮肘 二妞妈",
-      "onboard_time": 1714029618,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314762,
@@ -795,6 +843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282934,
+      "num": 254446,
+      "word": "周深 我再也不敢随便幽默了",
+      "onboard_time": 1714038197,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282621,
       "num": 196856,
       "word": "李菲儿直角肩",
@@ -865,6 +921,14 @@
       "onboard_time": 1714018698,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 265567,
+      "num": 265567,
+      "word": "神十八瞄准今天20时59分发射",
+      "onboard_time": 1714039758,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 265357,
@@ -1411,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190646,
+      "num": 190646,
+      "word": "张杰有万人雨刷器",
+      "onboard_time": 1714040300,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190625,
       "num": 190625,
       "word": "雷军 北京车展",
@@ -1475,6 +1547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183667,
+      "num": 180572,
+      "word": "迪丽热巴说话根本听不进去",
+      "onboard_time": 1714037418,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182669,
       "num": 182669,
       "word": "未婚未育的90后开始当争当月嫂",
@@ -1489,6 +1569,14 @@
       "onboard_time": 1714004599,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181735,
+      "num": 181735,
+      "word": "神舟十八号",
+      "onboard_time": 1714040119,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 181514,
@@ -1571,14 +1659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171049,
-      "num": 153112,
-      "word": "hybe员工吃瓜忘发zico物料",
-      "onboard_time": 1714037599,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170822,
       "num": 170822,
       "word": "丞磊素颜状态",
@@ -1627,7 +1707,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 161680,
+      "raw_hot": 162329,
       "num": 161680,
       "word": "网红拍低俗视频博眼球被拘15天",
       "onboard_time": 1714037179,
@@ -1665,6 +1745,14 @@
       "onboard_time": 1714033759,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 154951,
+      "num": 154951,
+      "word": "大学生体质有多虚",
+      "onboard_time": 1714039758,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 152418,
@@ -1707,12 +1795,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149333,
-      "num": 149333,
-      "word": "迪丽热巴说话根本听不进去",
-      "onboard_time": 1714037418,
+      "raw_hot": 150203,
+      "num": 150203,
+      "word": "崔永熙报名NBA选秀",
+      "onboard_time": 1714038077,
       "rank": 39,
-      "category": "综艺"
+      "category": "体育"
     },
     {
       "raw_hot": 149239,
@@ -1923,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131474,
+      "num": 367114,
+      "word": "职高女孩用9年逆袭成为双一流大学研究生",
+      "onboard_time": 1714039758,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 130350,
       "num": 360432,
       "word": "尹同跃头发都白了",
@@ -2001,14 +2097,6 @@
       "onboard_time": 1714035438,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 122610,
-      "num": 122610,
-      "word": "丫丫回国一年了",
-      "onboard_time": 1714037299,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121303,
@@ -2097,6 +2185,14 @@
       "onboard_time": 1714010717,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110403,
+      "num": 110403,
+      "word": "闵熙珍希望kpop不要再搞随机小卡",
+      "onboard_time": 1714037778,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 109976,
