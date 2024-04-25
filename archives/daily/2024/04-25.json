@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1714026988153,
+  "endTime": 1714029474790,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3002248,
-      "num": 407225,
+      "num": 425198,
       "word": "舒奕橙是不良人导演",
       "onboard_time": 1714022123,
       "rank": 12,
@@ -67,8 +67,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1274250,
+      "num": 1274250,
+      "word": "为何越来越多老人染上艾滋病",
+      "onboard_time": 1714023141,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1190232,
-      "num": 270210,
+      "num": 295403,
       "word": "姐帮忙催一下不良人7",
       "onboard_time": 1714024521,
       "rank": 16,
@@ -123,14 +131,6 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 817422,
-      "num": 817422,
-      "word": "为何越来越多老人染上艾滋病",
-      "onboard_time": 1714023141,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 814240,
       "num": 305091,
       "word": "田馥甄发微博",
@@ -160,6 +160,14 @@
       "word": "男孩骑车失误刹车把手插进大腿里",
       "onboard_time": 1713974117,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 766849,
+      "num": 766849,
+      "word": "日本海岸现超10米长鲸鱼尸体",
+      "onboard_time": 1714023861,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -259,8 +267,16 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 553443,
+      "num": 463956,
+      "word": "金靖怀孕录的萌探4",
+      "onboard_time": 1714028900,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 537919,
-      "num": 266918,
+      "num": 466336,
       "word": "97年生交警被86岁奶奶叫叔叔",
       "onboard_time": 1714023322,
       "rank": 20,
@@ -280,14 +296,6 @@
       "word": "东郊到家回应男子被女技师色诱加钟",
       "onboard_time": 1714004239,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 523941,
-      "num": 523941,
-      "word": "日本海岸现超10米长鲸鱼尸体",
-      "onboard_time": 1714023861,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -355,6 +363,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 449932,
+      "num": 449932,
+      "word": "韩军方考虑全面禁止iPhone进入军事建筑",
+      "onboard_time": 1714026800,
+      "rank": 28,
+      "category": "国外时政,数码"
+    },
+    {
+      "raw_hot": 447686,
+      "num": 447686,
+      "word": "武艺双眼皮烧成了单眼皮",
+      "onboard_time": 1714027099,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436370,
       "num": 436370,
       "word": "杨幂爸爸说谢谢你们喜欢我女儿",
@@ -385,6 +409,22 @@
       "onboard_time": 1713952578,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 419032,
+      "num": 419032,
+      "word": "迪丽热巴短裙转圈",
+      "onboard_time": 1714027040,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 416598,
+      "num": 416598,
+      "word": "颜如晶18天减重14斤",
+      "onboard_time": 1714026918,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 406589,
@@ -483,6 +523,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346977,
+      "num": 346977,
+      "word": "徐波",
+      "onboard_time": 1714027639,
+      "rank": 17,
+      "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 344459,
+      "num": 344459,
+      "word": "李嘉格 不否定幸福但请介绍我的名字",
+      "onboard_time": 1714026981,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335314,
       "num": 335314,
       "word": "金靖 怀孕",
@@ -505,6 +561,14 @@
       "onboard_time": 1714024702,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 326348,
+      "num": 200423,
+      "word": "李现周雨彤电梯神图",
+      "onboard_time": 1714027760,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 321240,
@@ -539,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292225,
+      "num": 198488,
+      "word": "白日提灯",
+      "onboard_time": 1714027639,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283921,
       "num": 283921,
       "word": "凤凰传奇 上头",
@@ -553,6 +625,14 @@
       "onboard_time": 1714011738,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 282621,
+      "num": 196856,
+      "word": "李菲儿直角肩",
+      "onboard_time": 1714027340,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 280917,
@@ -595,6 +675,14 @@
       "category": "体育,汽车"
     },
     {
+      "raw_hot": 269262,
+      "num": 190989,
+      "word": "周翊然被饭店老板娘介绍对象",
+      "onboard_time": 1714028239,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269173,
       "num": 481295,
       "word": "老爷爷带写着金婚快乐的玫瑰乘地铁",
@@ -635,12 +723,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263447,
+      "num": 263447,
+      "word": "男子离婚冷静期杀妻被判死刑未当场提上诉",
+      "onboard_time": 1714027280,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262912,
       "num": 262912,
       "word": "李现周雨彤新浪扫楼",
       "onboard_time": 1714026441,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262238,
+      "num": 188558,
+      "word": "店员回应羽墨美甲被顾客吐槽丑",
+      "onboard_time": 1714026918,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 261487,
@@ -713,6 +817,14 @@
       "onboard_time": 1714013416,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235810,
+      "num": 158158,
+      "word": "方时赫说要把aespa踩在脚下",
+      "onboard_time": 1714029320,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 235421,
@@ -915,6 +1027,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 208936,
+      "num": 139438,
+      "word": "HYBE闵熙珍别打了",
+      "onboard_time": 1714029020,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206475,
       "num": 206475,
       "word": "KEP1ER七月解散",
@@ -947,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200812,
-      "num": 200812,
-      "word": "韩军方考虑全面禁止iPhone进入军事建筑",
-      "onboard_time": 1714026800,
-      "rank": 28,
-      "category": "国外时政,数码"
-    },
-    {
       "raw_hot": 198575,
       "num": 198575,
       "word": "陆虎直播",
@@ -977,6 +1089,14 @@
       "onboard_time": 1714004539,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196741,
+      "num": 137697,
+      "word": "北斗七行",
+      "onboard_time": 1714028119,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 196677,
@@ -1073,14 +1193,6 @@
       "onboard_time": 1713964878,
       "rank": 24,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 184337,
-      "num": 184337,
-      "word": "颜如晶18天减重14斤",
-      "onboard_time": 1714026918,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 183995,
@@ -1201,6 +1313,14 @@
       "onboard_time": 1713968359,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159503,
+      "num": 159503,
+      "word": "下班了就不用说收到了",
+      "onboard_time": 1714029198,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 152418,
@@ -1339,12 +1459,28 @@
       "category": "互联网,国外时政"
     },
     {
+      "raw_hot": 141167,
+      "num": 141167,
+      "word": "我是不结婚 不是不交电费",
+      "onboard_time": 1714029079,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140305,
       "num": 359912,
       "word": "原创才是最高级的种草",
       "onboard_time": 1714019601,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 139952,
+      "num": 139952,
+      "word": "TheShy说英雄联盟依然很有趣",
+      "onboard_time": 1714025601,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 139489,
@@ -1361,6 +1497,14 @@
       "onboard_time": 1713961398,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137633,
+      "num": 137633,
+      "word": "短短一行字看的人脆脆的",
+      "onboard_time": 1714029261,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 137586,
@@ -1401,14 +1545,6 @@
       "onboard_time": 1714002198,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 132909,
-      "num": 132909,
-      "word": "店员回应羽墨美甲被顾客吐槽丑",
-      "onboard_time": 1714026918,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 130350,
@@ -1484,7 +1620,7 @@
     },
     {
       "raw_hot": 117683,
-      "num": 223729,
+      "num": 419165,
       "word": "在奔驰中超越奔驰",
       "onboard_time": 1714026021,
       "rank": 47,
@@ -1580,7 +1716,7 @@
     },
     {
       "raw_hot": 101388,
-      "num": 270988,
+      "num": 372457,
       "word": "凯迪拉克V我50",
       "onboard_time": 1714025061,
       "rank": 26,
