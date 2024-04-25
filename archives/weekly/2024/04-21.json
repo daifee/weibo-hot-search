@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714087151248,
+  "endTime": 1714088144416,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -2283,6 +2283,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 626434,
+      "num": 626434,
+      "word": "神十八成功对接空间站",
+      "onboard_time": 1714086615,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 625389,
       "num": 594564,
       "word": "杨洋的综艺",
@@ -2305,6 +2313,14 @@
       "onboard_time": 1713626358,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 624443,
+      "num": 624443,
+      "word": "爬山失联女子丈夫请网友停止恶意揣测",
+      "onboard_time": 1714058299,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 623911,
@@ -2481,6 +2497,14 @@
       "onboard_time": 1713762798,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 592652,
+      "num": 592652,
+      "word": "舒奕橙",
+      "onboard_time": 1714086555,
+      "rank": 5,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 590199,
@@ -2699,14 +2723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 562773,
-      "num": 562773,
-      "word": "爬山失联女子丈夫请网友停止恶意揣测",
-      "onboard_time": 1714058299,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 561714,
       "num": 561714,
       "word": "专家称不能对富人有效征税那就刺激他们消费",
@@ -2897,6 +2913,14 @@
       "onboard_time": 1713749119,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 532633,
+      "num": 532633,
+      "word": "谭爷爷你孙女当花局长了",
+      "onboard_time": 1714072811,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530827,
@@ -3435,6 +3459,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 473858,
+      "num": 146105,
+      "word": "考不上公务员的年轻人挤破头进居委会",
+      "onboard_time": 1714086134,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473520,
       "num": 473520,
       "word": "iPhone15频降价引吐槽",
@@ -3553,6 +3585,14 @@
       "onboard_time": 1713858677,
       "rank": 8,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 461703,
+      "num": 461703,
+      "word": "央媒评网红博流量毫无底线",
+      "onboard_time": 1714067711,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460517,
@@ -4099,14 +4139,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 413055,
-      "num": 413055,
-      "word": "央媒评网红博流量毫无底线",
-      "onboard_time": 1714067711,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 412388,
       "num": 412388,
       "word": "吐槽张黎",
@@ -4385,14 +4417,6 @@
       "onboard_time": 1713787818,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 387945,
-      "num": 387945,
-      "word": "谭爷爷你孙女当花局长了",
-      "onboard_time": 1714072811,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 387543,
@@ -4712,6 +4736,14 @@
       "word": "调休",
       "onboard_time": 1713771258,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353637,
+      "num": 353637,
+      "word": "英国最大监狱被曝多起性丑闻",
+      "onboard_time": 1714075811,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -5923,14 +5955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 273845,
-      "num": 273845,
-      "word": "英国最大监狱被曝多起性丑闻",
-      "onboard_time": 1714075811,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273729,
       "num": 273729,
       "word": "姚志明被丈母娘吓得上蹿下跳",
@@ -6067,14 +6091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267811,
-      "num": 110542,
-      "word": "考不上公务员的年轻人挤破头进居委会",
-      "onboard_time": 1714086134,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267751,
       "num": 231255,
       "word": "男子强迫女儿热水泡脚致重伤被判刑",
@@ -6137,14 +6153,6 @@
       "onboard_time": 1713651371,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 265389,
-      "num": 265389,
-      "word": "舒奕橙",
-      "onboard_time": 1714086555,
-      "rank": 5,
-      "category": "艺人,动漫"
     },
     {
       "raw_hot": 265357,
@@ -6481,6 +6489,14 @@
       "onboard_time": 1713752778,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252646,
+      "num": 252646,
+      "word": "美国校园冲突升级",
+      "onboard_time": 1714064173,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252592,
@@ -7011,14 +7027,6 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 235107,
-      "num": 235107,
-      "word": "神十八成功对接空间站",
-      "onboard_time": 1714086615,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 234852,
       "num": 234852,
       "word": "小团团房管让粉丝无视相关消息",
@@ -7499,6 +7507,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221394,
+      "num": 221394,
+      "word": "中国6名航天员在太空拍合影",
+      "onboard_time": 1714087216,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 221350,
+      "num": 221350,
+      "word": "广州天气",
+      "onboard_time": 1713827535,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221343,
       "num": 599069,
       "word": "镇干部阻挠农民种地让交钱被免职",
@@ -7665,14 +7689,6 @@
       "onboard_time": 1713746179,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 216946,
-      "num": 216946,
-      "word": "美国校园冲突升级",
-      "onboard_time": 1714064173,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216020,
@@ -9393,14 +9409,6 @@
       "onboard_time": 1713940458,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189974,
-      "num": 189974,
-      "word": "广州天气",
-      "onboard_time": 1713827535,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189974,
@@ -11825,6 +11833,14 @@
       "onboard_time": 1713853158,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 151092,
+      "num": 151092,
+      "word": "小叶 小峰",
+      "onboard_time": 1714087216,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 150869,
@@ -14731,6 +14747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96797,
+      "num": 96797,
+      "word": "曼城大胜布莱顿",
+      "onboard_time": 1714087335,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95709,
       "num": 95709,
       "word": "这个世界需要r人",
@@ -14891,6 +14915,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 83319,
+      "num": 83319,
+      "word": "李明德归来看一次哭一次",
+      "onboard_time": 1714076290,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83088,
       "num": 83088,
       "word": "拿了驾照却不会开车了",
@@ -14945,14 +14977,6 @@
       "onboard_time": 1713954319,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 78226,
-      "num": 78226,
-      "word": "李明德归来看一次哭一次",
-      "onboard_time": 1714076290,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 78004,
@@ -15139,6 +15163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65327,
+      "num": 65327,
+      "word": "想睡个好觉真的易如反掌",
+      "onboard_time": 1714076350,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 64973,
       "num": 189822,
       "word": "有没有人能管管潍坊的风筝啊",
@@ -15299,6 +15331,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 56476,
+      "num": 56476,
+      "word": "近期广东人听最多的声音",
+      "onboard_time": 1714081271,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 56050,
       "num": 59192,
       "word": "娜扎粉色短裙",
@@ -15337,14 +15377,6 @@
       "onboard_time": 1713963677,
       "rank": 18,
       "category": "游戏,数码"
-    },
-    {
-      "raw_hot": 54778,
-      "num": 54778,
-      "word": "近期广东人听最多的声音",
-      "onboard_time": 1714081271,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 54271,
@@ -15387,14 +15419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52392,
-      "num": 52392,
-      "word": "想睡个好觉真的易如反掌",
-      "onboard_time": 1714076350,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 52200,
       "num": 52200,
       "word": "朱婷暴扣",
@@ -15428,7 +15452,7 @@
     },
     {
       "raw_hot": 50124,
-      "num": 50124,
+      "num": 53341,
       "word": "贾跃亭回应周鸿祎质疑",
       "onboard_time": 1714082051,
       "rank": 33,

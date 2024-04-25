@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714087151248,
+  "endTime": 1714088144416,
   "band_list": [
     {
       "raw_hot": 869185,
@@ -35,6 +35,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 626434,
+      "num": 626434,
+      "word": "神十八成功对接空间站",
+      "onboard_time": 1714086615,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 624443,
+      "num": 624443,
+      "word": "爬山失联女子丈夫请网友停止恶意揣测",
+      "onboard_time": 1714058299,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592652,
+      "num": 592652,
+      "word": "舒奕橙",
+      "onboard_time": 1714086555,
+      "rank": 5,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 572579,
       "num": 572579,
       "word": "武艺 各位老师对不起",
@@ -43,11 +67,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 562773,
-      "num": 562773,
-      "word": "爬山失联女子丈夫请网友停止恶意揣测",
-      "onboard_time": 1714058299,
-      "rank": 3,
+      "raw_hot": 532633,
+      "num": 532633,
+      "word": "谭爷爷你孙女当花局长了",
+      "onboard_time": 1714072811,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -75,6 +99,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 473858,
+      "num": 146105,
+      "word": "考不上公务员的年轻人挤破头进居委会",
+      "onboard_time": 1714086134,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470795,
       "num": 243007,
       "word": "B太遇到真实的商战了",
@@ -83,19 +115,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 413055,
-      "num": 413055,
+      "raw_hot": 461703,
+      "num": 461703,
       "word": "央媒评网红博流量毫无底线",
       "onboard_time": 1714067711,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387945,
-      "num": 387945,
-      "word": "谭爷爷你孙女当花局长了",
-      "onboard_time": 1714072811,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -105,6 +129,14 @@
       "onboard_time": 1714059439,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 353637,
+      "num": 353637,
+      "word": "英国最大监狱被曝多起性丑闻",
+      "onboard_time": 1714075811,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339639,
@@ -139,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 273845,
-      "num": 273845,
-      "word": "英国最大监狱被曝多起性丑闻",
-      "onboard_time": 1714075811,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270012,
       "num": 236446,
       "word": "吐槽张黎",
@@ -155,28 +179,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 267811,
-      "num": 110542,
-      "word": "考不上公务员的年轻人挤破头进居委会",
-      "onboard_time": 1714086134,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265389,
-      "num": 265389,
-      "word": "舒奕橙",
-      "onboard_time": 1714086555,
-      "rank": 5,
-      "category": "艺人,动漫"
-    },
-    {
       "raw_hot": 253579,
       "num": 272500,
       "word": "黄仁俊 这就是我",
       "onboard_time": 1714056559,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252646,
+      "num": 252646,
+      "word": "美国校园冲突升级",
+      "onboard_time": 1714064173,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249152,
@@ -195,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235107,
-      "num": 235107,
-      "word": "神十八成功对接空间站",
-      "onboard_time": 1714086615,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 235102,
       "num": 235102,
       "word": "王一博去了中国人民警察大学",
@@ -219,11 +227,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216946,
-      "num": 216946,
-      "word": "美国校园冲突升级",
-      "onboard_time": 1714064173,
-      "rank": 24,
+      "raw_hot": 221394,
+      "num": 221394,
+      "word": "中国6名航天员在太空拍合影",
+      "onboard_time": 1714087216,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 221350,
+      "num": 221350,
+      "word": "广州天气",
+      "onboard_time": 1714087516,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -281,6 +297,14 @@
       "onboard_time": 1714059378,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151092,
+      "num": 151092,
+      "word": "小叶 小峰",
+      "onboard_time": 1714087216,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 148364,
@@ -363,6 +387,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 102542,
+      "num": 102542,
+      "word": "承欢记全剧都在告诉我们要珍惜当下",
+      "onboard_time": 1714058778,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100548,
       "num": 195283,
       "word": "孙铭徽 没有遗憾没有保留",
@@ -392,6 +424,22 @@
       "word": "沈阳",
       "onboard_time": 1714074070,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96797,
+      "num": 96797,
+      "word": "曼城大胜布莱顿",
+      "onboard_time": 1714087335,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93718,
+      "num": 93718,
+      "word": "上海月租50元1平米房为摆拍造假",
+      "onboard_time": 1714048577,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -435,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83319,
+      "num": 83319,
+      "word": "李明德归来看一次哭一次",
+      "onboard_time": 1714076290,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81645,
       "num": 194723,
       "word": "运动完脸红和脸白的人谁更健康",
@@ -456,22 +512,6 @@
       "word": "煮肘 二妞妈",
       "onboard_time": 1714029618,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78226,
-      "num": 78226,
-      "word": "李明德归来看一次哭一次",
-      "onboard_time": 1714076290,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 73138,
-      "num": 73138,
-      "word": "上海月租50元1平米房为摆拍造假",
-      "onboard_time": 1714048577,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -507,12 +547,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65327,
+      "num": 65327,
+      "word": "想睡个好觉真的易如反掌",
+      "onboard_time": 1714076350,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 56746,
       "num": 194279,
       "word": "S组大结局",
       "onboard_time": 1714051938,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 56476,
+      "num": 56476,
+      "word": "近期广东人听最多的声音",
+      "onboard_time": 1714081271,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 56004,
@@ -523,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54778,
-      "num": 54778,
-      "word": "近期广东人听最多的声音",
-      "onboard_time": 1714081271,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 54623,
       "num": 54623,
       "word": "惜花芷",
@@ -539,16 +587,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52392,
-      "num": 52392,
-      "word": "想睡个好觉真的易如反掌",
-      "onboard_time": 1714076350,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 50124,
-      "num": 50124,
+      "num": 53341,
       "word": "贾跃亭回应周鸿祎质疑",
       "onboard_time": 1714082051,
       "rank": 33,
@@ -660,7 +700,7 @@
     },
     {
       "raw_hot": 6897,
-      "num": 538513,
+      "num": 607842,
       "word": "全国网络普法行江苏站",
       "onboard_time": 1714032319,
       "rank": 2,
