@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714041296227,
+  "endTime": 1714043734278,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 1387455,
-      "num": 563750,
+      "num": 588651,
       "word": "戚薇不建议大家瘦成艺人的样子",
       "onboard_time": 1714038559,
       "rank": 3,
@@ -1307,6 +1307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 860319,
+      "num": 860319,
+      "word": "高校要求手抄毕业论文引学生不满",
+      "onboard_time": 1714038499,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 858507,
       "num": 858507,
       "word": "唐嫣时隔15年再演仙侠剧",
@@ -2041,14 +2049,6 @@
       "onboard_time": 1713852979,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 652447,
-      "num": 652447,
-      "word": "高校要求手抄毕业论文引学生不满",
-      "onboard_time": 1714038499,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 648699,
@@ -3731,6 +3731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426518,
+      "num": 426518,
+      "word": "职高女孩用9年逆袭成为双一流大学研究生",
+      "onboard_time": 1714039758,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 425734,
       "num": 425734,
       "word": "周琦",
@@ -4129,6 +4137,14 @@
       "onboard_time": 1714029618,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388707,
+      "num": 305417,
+      "word": "尚雯婕李溪芮聊天记录",
+      "onboard_time": 1714042459,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 387976,
@@ -4771,6 +4787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 328665,
+      "num": 328665,
+      "word": "神舟十八号发射直播",
+      "onboard_time": 1714040599,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 327409,
       "num": 327409,
       "word": "TF三代 门面",
@@ -5019,6 +5043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306204,
+      "num": 306204,
+      "word": "与凤行莲花楼报名白玉兰奖",
+      "onboard_time": 1714043179,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305799,
       "num": 305799,
       "word": "种地吧直播",
@@ -5041,6 +5073,14 @@
       "onboard_time": 1713848659,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304027,
+      "num": 304027,
+      "word": "babymonster悄悄惊艳所有人",
+      "onboard_time": 1714043359,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 303675,
@@ -5833,14 +5873,6 @@
       "onboard_time": 1713756138,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 262043,
-      "num": 395350,
-      "word": "职高女孩用9年逆袭成为双一流大学研究生",
-      "onboard_time": 1714039758,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 261817,
@@ -6787,6 +6819,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 229318,
+      "num": 190064,
+      "word": "周雨彤帮姐姐要李现to签",
+      "onboard_time": 1714042157,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229288,
       "num": 229288,
       "word": "斗鱼去年扭亏为盈净利润1.54亿",
@@ -7345,6 +7385,14 @@
       "onboard_time": 1713957319,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211672,
+      "num": 188699,
+      "word": "ILLIT第九个一位",
+      "onboard_time": 1714042877,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 211341,
@@ -8339,6 +8387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195810,
+      "num": 165665,
+      "word": "NewJeans怎么办",
+      "onboard_time": 1714042698,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195714,
       "num": 195714,
       "word": "住酒店睡过头被扣了押金",
@@ -8425,6 +8481,14 @@
       "onboard_time": 1713930618,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194074,
+      "num": 163360,
+      "word": "babymonster 抗洪失败",
+      "onboard_time": 1714043296,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 194026,
@@ -8707,6 +8771,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 190565,
+      "num": 190565,
+      "word": "KPL",
+      "onboard_time": 1713689537,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190549,
       "num": 190549,
       "word": "樱桃用盐水泡会有小虫钻出来",
@@ -8947,14 +9019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187097,
-      "num": 187097,
-      "word": "神舟十八号发射直播",
-      "onboard_time": 1714040599,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 187073,
       "num": 187073,
       "word": "尚雯婕认识前是哑巴认识后是喇叭",
@@ -9097,6 +9161,14 @@
       "onboard_time": 1713710363,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 185545,
+      "num": 185545,
+      "word": "AG时隔1064天重回胜者组",
+      "onboard_time": 1714043359,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 185423,
@@ -10611,6 +10683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 158235,
+      "num": 158235,
+      "word": "狗生 易如反爪",
+      "onboard_time": 1714042698,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158101,
       "num": 158101,
       "word": "吴磊宋三川返场",
@@ -10939,6 +11019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152996,
+      "num": 152996,
+      "word": "女儿被古筝老师劝退了",
+      "onboard_time": 1714042818,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152984,
       "num": 152984,
       "word": "广州塔是怎么做到又科幻又仙的",
@@ -10993,6 +11081,14 @@
       "onboard_time": 1713865818,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152425,
+      "num": 133603,
+      "word": "李现周雨彤互涂唇膏",
+      "onboard_time": 1714043478,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 152418,
@@ -11331,14 +11427,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 147663,
-      "num": 147663,
-      "word": "KPL",
-      "onboard_time": 1713689537,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 147521,
       "num": 107530,
       "word": "刘忻出走十年归来仍是老公",
@@ -11401,6 +11489,14 @@
       "onboard_time": 1713748099,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146351,
+      "num": 130365,
+      "word": "惜花芷超点",
+      "onboard_time": 1714042097,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 146350,
@@ -11691,6 +11787,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 142834,
+      "num": 128852,
+      "word": "李现周雨彤复刻袁湘琴之歌",
+      "onboard_time": 1714043179,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142719,
       "num": 142719,
       "word": "吴谨言李纯是同学",
@@ -11913,6 +12017,14 @@
       "onboard_time": 1713655394,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139426,
+      "num": 139426,
+      "word": "WTT太原名单",
+      "onboard_time": 1714041799,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 139351,
@@ -12225,6 +12337,14 @@
       "onboard_time": 1713693618,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134271,
+      "num": 134271,
+      "word": "全职高手3动画过审",
+      "onboard_time": 1714043058,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 134108,
@@ -12763,6 +12883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125943,
+      "num": 125943,
+      "word": "一人一句祝福神十八航天员",
+      "onboard_time": 1714043359,
+      "rank": 47,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 125823,
       "num": 125823,
       "word": "陈震谈小米SU7拓展配件是否合规",
@@ -12793,6 +12921,14 @@
       "onboard_time": 1713956599,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125522,
+      "num": 125522,
+      "word": "生菜牛肉拌饭",
+      "onboard_time": 1714043598,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 125345,
@@ -13001,6 +13137,14 @@
       "onboard_time": 1713858197,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121764,
+      "num": 121764,
+      "word": "胡锡进称没想到亏得会这么快",
+      "onboard_time": 1714041978,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 121413,
@@ -14001,6 +14145,14 @@
       "onboard_time": 1713954319,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 78398,
+      "num": 153585,
+      "word": "女性月经困扰不只有痛经",
+      "onboard_time": 1714042998,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 78004,

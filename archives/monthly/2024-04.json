@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714041296227,
+  "endTime": 1714043734278,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2516,7 +2516,7 @@
     },
     {
       "raw_hot": 1387455,
-      "num": 563750,
+      "num": 588651,
       "word": "戚薇不建议大家瘦成艺人的样子",
       "onboard_time": 1714038559,
       "rank": 3,
@@ -6755,6 +6755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 860319,
+      "num": 860319,
+      "word": "高校要求手抄毕业论文引学生不满",
+      "onboard_time": 1714038499,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 859326,
       "num": 859326,
       "word": "政审结束后被告知有五年服务期",
@@ -10753,14 +10761,6 @@
       "onboard_time": 1712669059,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 652447,
-      "num": 652447,
-      "word": "高校要求手抄毕业论文引学生不满",
-      "onboard_time": 1714038499,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 652407,
@@ -19291,6 +19291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 426518,
+      "num": 426518,
+      "word": "职高女孩用9年逆袭成为双一流大学研究生",
+      "onboard_time": 1714039758,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 426448,
       "num": 426448,
       "word": "当六岁半的女儿有了微信",
@@ -21145,6 +21153,14 @@
       "onboard_time": 1712733617,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 388707,
+      "num": 305417,
+      "word": "尚雯婕李溪芮聊天记录",
+      "onboard_time": 1714042459,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 388668,
@@ -24755,6 +24771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328665,
+      "num": 328665,
+      "word": "神舟十八号发射直播",
+      "onboard_time": 1714040599,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 328630,
       "num": 328630,
       "word": "于正说新剧比鬼怪黑暗荣耀好看",
@@ -26403,6 +26427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306204,
+      "num": 306204,
+      "word": "与凤行莲花楼报名白玉兰奖",
+      "onboard_time": 1714043179,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306136,
       "num": 221088,
       "word": "领证了家里不让住一起",
@@ -26641,6 +26673,14 @@
       "onboard_time": 1713455478,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304027,
+      "num": 304027,
+      "word": "babymonster悄悄惊艳所有人",
+      "onboard_time": 1714043359,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 303936,
@@ -30457,14 +30497,6 @@
       "onboard_time": 1713756138,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 262043,
-      "num": 395350,
-      "word": "职高女孩用9年逆袭成为双一流大学研究生",
-      "onboard_time": 1714039758,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 261979,
@@ -34907,6 +34939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229318,
+      "num": 190064,
+      "word": "周雨彤帮姐姐要李现to签",
+      "onboard_time": 1714042157,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229288,
       "num": 229288,
       "word": "斗鱼去年扭亏为盈净利润1.54亿",
@@ -37689,6 +37729,14 @@
       "onboard_time": 1713619698,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 211672,
+      "num": 188699,
+      "word": "ILLIT第九个一位",
+      "onboard_time": 1714042877,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 211660,
@@ -42227,6 +42275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195810,
+      "num": 165665,
+      "word": "NewJeans怎么办",
+      "onboard_time": 1714042698,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195803,
       "num": 195803,
       "word": "于适空降超话",
@@ -42793,6 +42849,14 @@
       "onboard_time": 1713930618,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194074,
+      "num": 163360,
+      "word": "babymonster 抗洪失败",
+      "onboard_time": 1714043296,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 194058,
@@ -45131,14 +45195,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 187097,
-      "num": 187097,
-      "word": "神舟十八号发射直播",
-      "onboard_time": 1714040599,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 187095,
       "num": 187095,
       "word": "假如猴崽是我同桌",
@@ -45761,6 +45817,14 @@
       "onboard_time": 1712756300,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185545,
+      "num": 185545,
+      "word": "AG时隔1064天重回胜者组",
+      "onboard_time": 1714043359,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 185430,
@@ -52715,6 +52779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158235,
+      "num": 158235,
+      "word": "狗生 易如反爪",
+      "onboard_time": 1714042698,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158234,
       "num": 158234,
       "word": "詹杜库联手出战巴黎奥运会",
@@ -54291,6 +54363,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 152996,
+      "num": 152996,
+      "word": "女儿被古筝老师劝退了",
+      "onboard_time": 1714042818,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152986,
       "num": 152986,
       "word": "Viper无缘MSI",
@@ -54496,6 +54576,14 @@
       "word": "李沁王阳飙戏",
       "onboard_time": 1711987998,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152425,
+      "num": 133603,
+      "word": "李现周雨彤互涂唇膏",
+      "onboard_time": 1714043478,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -56475,6 +56563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146351,
+      "num": 130365,
+      "word": "惜花芷超点",
+      "onboard_time": 1714042097,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146350,
       "num": 146350,
       "word": "对氯雷他定过敏",
@@ -57627,6 +57723,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 142834,
+      "num": 128852,
+      "word": "李现周雨彤复刻袁湘琴之歌",
+      "onboard_time": 1714043179,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142782,
       "num": 131288,
       "word": "艺声 我的单身八周年",
@@ -58489,6 +58593,14 @@
       "onboard_time": 1713655394,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139426,
+      "num": 139426,
+      "word": "WTT太原名单",
+      "onboard_time": 1714041799,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 139351,
@@ -59913,6 +60025,14 @@
       "onboard_time": 1712989757,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134271,
+      "num": 134271,
+      "word": "全职高手3动画过审",
+      "onboard_time": 1714043058,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 134256,
@@ -61931,6 +62051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125943,
+      "num": 125943,
+      "word": "一人一句祝福神十八航天员",
+      "onboard_time": 1714043359,
+      "rank": 47,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 125917,
       "num": 125917,
       "word": "欧冠4强出炉",
@@ -62033,6 +62161,14 @@
       "onboard_time": 1713956599,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125522,
+      "num": 125522,
+      "word": "生菜牛肉拌饭",
+      "onboard_time": 1714043598,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 125476,
@@ -62905,6 +63041,14 @@
       "onboard_time": 1712804658,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 121764,
+      "num": 121764,
+      "word": "胡锡进称没想到亏得会这么快",
+      "onboard_time": 1714041978,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 121750,
@@ -67641,6 +67785,14 @@
       "onboard_time": 1712705237,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78398,
+      "num": 153585,
+      "word": "女性月经困扰不只有痛经",
+      "onboard_time": 1714042998,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 78210,
