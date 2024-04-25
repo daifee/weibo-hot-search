@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714036735084,
+  "endTime": 1714037675367,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -347,6 +347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1606112,
+      "num": 1606112,
+      "word": "杭州爬山失联女子已找到丈夫发声",
+      "onboard_time": 1714032799,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1543089,
       "num": 1543089,
       "word": "高君雨全网账号被禁",
@@ -459,6 +467,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1429925,
+      "num": 632443,
+      "word": "老年艾滋病患者无法言说的性与痛",
+      "onboard_time": 1714032859,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1421512,
       "num": 1421512,
       "word": "准00后女干部黄左梦琪已任副镇长",
@@ -537,14 +553,6 @@
       "onboard_time": 1713752838,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1319430,
-      "num": 1319430,
-      "word": "杭州爬山失联女子已找到丈夫发声",
-      "onboard_time": 1714032799,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1319396,
@@ -633,14 +641,6 @@
       "onboard_time": 1713968059,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1233852,
-      "num": 586826,
-      "word": "老年艾滋病患者无法言说的性与痛",
-      "onboard_time": 1714032859,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1218760,
@@ -1171,6 +1171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 906303,
+      "num": 444242,
+      "word": "NewJeans哭着问闵熙珍要怎么办",
+      "onboard_time": 1714032199,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 903955,
       "num": 903955,
       "word": "北电回应艺考生被曝作弊",
@@ -1331,20 +1339,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 845326,
+      "num": 582188,
+      "word": "张碧晨玩机车是因为赵丽颖",
+      "onboard_time": 1714032859,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 839464,
       "num": 536366,
       "word": "许昕祝福马龙",
       "onboard_time": 1713712101,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 839392,
-      "num": 444242,
-      "word": "NewJeans哭着问闵熙珍要怎么办",
-      "onboard_time": 1714032199,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 838426,
@@ -2099,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 630860,
+      "num": 630860,
+      "word": "布林肯抵达北京",
+      "onboard_time": 1714036579,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 630324,
       "num": 630324,
       "word": "一条小团团单月礼物收入曾高达500万",
@@ -2361,14 +2377,6 @@
       "onboard_time": 1713658457,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 582188,
-      "num": 582188,
-      "word": "张碧晨玩机车是因为赵丽颖",
-      "onboard_time": 1714032859,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 581826,
@@ -2745,6 +2753,14 @@
       "onboard_time": 1713701718,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 528229,
+      "num": 528229,
+      "word": "老人摆摊日入8元被收10元摊位费",
+      "onboard_time": 1714029380,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 526863,
@@ -3491,6 +3507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 445022,
+      "num": 408194,
+      "word": "HYBE用宫脇咲良和金采源对打张元英",
+      "onboard_time": 1714035919,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444976,
       "num": 444976,
       "word": "广东暴雨",
@@ -3841,14 +3865,6 @@
       "onboard_time": 1714000575,
       "rank": 24,
       "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 406402,
-      "num": 406402,
-      "word": "老人摆摊日入8元被收10元摊位费",
-      "onboard_time": 1714029380,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 406380,
@@ -4403,14 +4419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351623,
-      "num": 351623,
-      "word": "HYBE用宫脇咲良和金采源对打张元英",
-      "onboard_time": 1714035919,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 351289,
       "num": 311600,
       "word": "上海一骑行活动赫本含量严重超标",
@@ -4859,6 +4867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312851,
+      "num": 312851,
+      "word": "睡不着就在床头放个橘子",
+      "onboard_time": 1714033278,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311747,
       "num": 311747,
       "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
@@ -4888,14 +4904,6 @@
       "word": "看似羞耻的小习惯其实非常解压",
       "onboard_time": 1713798919,
       "rank": 36,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 309695,
-      "num": 309695,
-      "word": "睡不着就在床头放个橘子",
-      "onboard_time": 1714033278,
-      "rank": 47,
       "category": "情感"
     },
     {
@@ -5081,14 +5089,6 @@
       "onboard_time": 1713703279,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 297580,
-      "num": 297580,
-      "word": "布林肯抵达北京",
-      "onboard_time": 1714036579,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 296189,
@@ -5667,6 +5667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265357,
+      "num": 265357,
+      "word": "以前谈恋爱是要交换QQ密码的",
+      "onboard_time": 1714034839,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 265080,
       "num": 265080,
       "word": "黎深教学",
@@ -6243,6 +6251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242451,
+      "num": 242451,
+      "word": "闵熙珍律师快碎了",
+      "onboard_time": 1714036939,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242161,
       "num": 242161,
       "word": "金饰买价700卖价仅500",
@@ -6449,14 +6465,6 @@
       "onboard_time": 1713787219,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 236161,
-      "num": 236161,
-      "word": "以前谈恋爱是要交换QQ密码的",
-      "onboard_time": 1714034839,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 235810,
@@ -6819,6 +6827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225608,
+      "num": 218582,
+      "word": "方时赫克星SM",
+      "onboard_time": 1714036820,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225529,
       "num": 225529,
       "word": "官方回应开鲁县被免镇干部涉嫌学历造假",
@@ -6881,6 +6897,14 @@
       "onboard_time": 1714026202,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 223514,
+      "num": 223514,
+      "word": "一场可以载入历史的记者会",
+      "onboard_time": 1714036820,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 223349,
@@ -7265,6 +7289,14 @@
       "onboard_time": 1713834139,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 211095,
+      "num": 211095,
+      "word": "杨幂路演状态",
+      "onboard_time": 1714036160,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 210826,
@@ -8283,14 +8315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194502,
-      "num": 194502,
-      "word": "杨幂路演状态",
-      "onboard_time": 1714036160,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 194420,
       "num": 194420,
       "word": "大梦归离首发预告",
@@ -8809,6 +8833,14 @@
       "onboard_time": 1713617778,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187990,
+      "num": 187990,
+      "word": "谁能像zico爱门童一样爱我",
+      "onboard_time": 1714037059,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 187395,
@@ -9715,6 +9747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171049,
+      "num": 153112,
+      "word": "hybe员工吃瓜忘发zico物料",
+      "onboard_time": 1714037599,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170988,
       "num": 170988,
       "word": "朱丹回应小肚子",
@@ -9849,6 +9889,14 @@
       "onboard_time": 1713918979,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169396,
+      "num": 169396,
+      "word": "奶茶最好2小时内喝完",
+      "onboard_time": 1714035259,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 169164,
@@ -10040,6 +10088,14 @@
       "word": "34岁女子辅导孩子作业气到卵巢早衰",
       "onboard_time": 1713863059,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165273,
+      "num": 211539,
+      "word": "多益网络规定员工娶妻彩礼不超10万",
+      "onboard_time": 1714036459,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -10289,6 +10345,14 @@
       "onboard_time": 1713681258,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161680,
+      "num": 161680,
+      "word": "网红拍低俗视频博眼球被拘15天",
+      "onboard_time": 1714037179,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 161497,
@@ -11011,6 +11075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149333,
+      "num": 149333,
+      "word": "迪丽热巴说话根本听不进去",
+      "onboard_time": 1714037418,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149251,
       "num": 130437,
       "word": "AG写给一诺的六周年祝福",
@@ -11361,14 +11433,6 @@
       "onboard_time": 1713684917,
       "rank": 39,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 144813,
-      "num": 144813,
-      "word": "奶茶最好2小时内喝完",
-      "onboard_time": 1714035259,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 144446,
@@ -12307,14 +12371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130116,
-      "num": 130116,
-      "word": "多益网络规定员工娶妻彩礼不超10万",
-      "onboard_time": 1714036459,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129568,
       "num": 129568,
       "word": "近期韩剧人的精神状态",
@@ -12769,6 +12825,14 @@
       "onboard_time": 1713772879,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 122610,
+      "num": 122610,
+      "word": "丫丫回国一年了",
+      "onboard_time": 1714037299,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122580,

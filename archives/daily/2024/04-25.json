@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1714036735084,
+  "endTime": 1714037675367,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -51,12 +51,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1606112,
+      "num": 1606112,
+      "word": "杭州爬山失联女子已找到丈夫发声",
+      "onboard_time": 1714032799,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1468493,
       "num": 1468493,
       "word": "爱情公寓秦羽墨美甲店被吐槽",
       "onboard_time": 1714011797,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1429925,
+      "num": 632443,
+      "word": "老年艾滋病患者无法言说的性与痛",
+      "onboard_time": 1714032859,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1421512,
@@ -75,14 +91,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1319430,
-      "num": 1319430,
-      "word": "杭州爬山失联女子已找到丈夫发声",
-      "onboard_time": 1714032799,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1274250,
       "num": 1274250,
       "word": "为何越来越多老人染上艾滋病",
@@ -97,14 +105,6 @@
       "onboard_time": 1714028900,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1233852,
-      "num": 586826,
-      "word": "老年艾滋病患者无法言说的性与痛",
-      "onboard_time": 1714032859,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1190232,
@@ -147,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 906303,
+      "num": 444242,
+      "word": "NewJeans哭着问闵熙珍要怎么办",
+      "onboard_time": 1714032199,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 887559,
       "num": 754463,
       "word": "彩礼该以女方陪嫁形式返还小家庭吗",
@@ -155,12 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 839392,
-      "num": 444242,
-      "word": "NewJeans哭着问闵熙珍要怎么办",
-      "onboard_time": 1714032199,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 845326,
+      "num": 582188,
+      "word": "张碧晨玩机车是因为赵丽颖",
+      "onboard_time": 1714032859,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 818012,
@@ -275,6 +283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 630860,
+      "num": 630860,
+      "word": "布林肯抵达北京",
+      "onboard_time": 1714036579,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 617967,
       "num": 617967,
       "word": "刚开业价值300万黄金被洗劫一空",
@@ -297,14 +313,6 @@
       "onboard_time": 1713971719,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 582188,
-      "num": 582188,
-      "word": "张碧晨玩机车是因为赵丽颖",
-      "onboard_time": 1714032859,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 579965,
@@ -360,6 +368,14 @@
       "word": "东郊到家回应男子被女技师色诱加钟",
       "onboard_time": 1714004239,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528229,
+      "num": 528229,
+      "word": "老人摆摊日入8元被收10元摊位费",
+      "onboard_time": 1714029380,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -475,6 +491,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 445022,
+      "num": 408194,
+      "word": "HYBE用宫脇咲良和金采源对打张元英",
+      "onboard_time": 1714035919,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441690,
       "num": 441690,
       "word": "迪丽热巴短裙转圈",
@@ -529,14 +553,6 @@
       "onboard_time": 1714000575,
       "rank": 24,
       "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 406402,
-      "num": 406402,
-      "word": "老人摆摊日入8元被收10元摊位费",
-      "onboard_time": 1714029380,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 401467,
@@ -635,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351623,
-      "num": 351623,
-      "word": "HYBE用宫脇咲良和金采源对打张元英",
-      "onboard_time": 1714035919,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 346977,
       "num": 346977,
       "word": "徐波",
@@ -723,20 +731,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312851,
+      "num": 312851,
+      "word": "睡不着就在床头放个橘子",
+      "onboard_time": 1714033278,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311813,
       "num": 346966,
       "word": "金价下跌有人卖了一百多万金条",
       "onboard_time": 1713950599,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 309695,
-      "num": 309695,
-      "word": "睡不着就在床头放个橘子",
-      "onboard_time": 1714033278,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 305799,
@@ -761,14 +769,6 @@
       "onboard_time": 1714030579,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 297580,
-      "num": 297580,
-      "word": "布林肯抵达北京",
-      "onboard_time": 1714036579,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 292225,
@@ -865,6 +865,14 @@
       "onboard_time": 1714018698,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 265357,
+      "num": 265357,
+      "word": "以前谈恋爱是要交换QQ密码的",
+      "onboard_time": 1714034839,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 265080,
@@ -987,20 +995,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242451,
+      "num": 242451,
+      "word": "闵熙珍律师快碎了",
+      "onboard_time": 1714036939,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237313,
       "num": 237313,
       "word": "我以为就是被偷亲结果他按头了",
       "onboard_time": 1714013416,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 236161,
-      "num": 236161,
-      "word": "以前谈恋爱是要交换QQ密码的",
-      "onboard_time": 1714034839,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 235421,
@@ -1107,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225608,
+      "num": 218582,
+      "word": "方时赫克星SM",
+      "onboard_time": 1714036820,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225233,
       "num": 225233,
       "word": "周雨彤我替你演两集吧",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1714026202,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 223514,
+      "num": 223514,
+      "word": "一场可以载入历史的记者会",
+      "onboard_time": 1714036820,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 221958,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1714022842,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211095,
+      "num": 211095,
+      "word": "杨幂路演状态",
+      "onboard_time": 1714036160,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 210071,
@@ -1347,14 +1379,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 194502,
-      "num": 194502,
-      "word": "杨幂路演状态",
-      "onboard_time": 1714036160,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 192549,
       "num": 186503,
       "word": "秦海璐是花少好友记第一站导游",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1714013176,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 187990,
+      "num": 187990,
+      "word": "谁能像zico爱门童一样爱我",
+      "onboard_time": 1714037059,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 186481,
@@ -1539,12 +1571,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171049,
+      "num": 153112,
+      "word": "hybe员工吃瓜忘发zico物料",
+      "onboard_time": 1714037599,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170822,
       "num": 170822,
       "word": "丞磊素颜状态",
       "onboard_time": 1714023921,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169396,
+      "num": 169396,
+      "word": "奶茶最好2小时内喝完",
+      "onboard_time": 1714035259,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 165273,
+      "num": 211539,
+      "word": "多益网络规定员工娶妻彩礼不超10万",
+      "onboard_time": 1714036459,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163662,
@@ -1569,6 +1625,14 @@
       "onboard_time": 1714025601,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161680,
+      "num": 161680,
+      "word": "网红拍低俗视频博眼球被拘15天",
+      "onboard_time": 1714037179,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 161141,
@@ -1641,6 +1705,14 @@
       "onboard_time": 1714026141,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149333,
+      "num": 149333,
+      "word": "迪丽热巴说话根本听不进去",
+      "onboard_time": 1714037418,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 149239,
@@ -1729,14 +1801,6 @@
       "onboard_time": 1714029559,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 144813,
-      "num": 144813,
-      "word": "奶茶最好2小时内喝完",
-      "onboard_time": 1714035259,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 143864,
@@ -1867,14 +1931,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 130116,
-      "num": 130116,
-      "word": "多益网络规定员工娶妻彩礼不超10万",
-      "onboard_time": 1714036459,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128859,
       "num": 128859,
       "word": "世界防治疟疾日",
@@ -1945,6 +2001,14 @@
       "onboard_time": 1714035438,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122610,
+      "num": 122610,
+      "word": "丫丫回国一年了",
+      "onboard_time": 1714037299,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121303,

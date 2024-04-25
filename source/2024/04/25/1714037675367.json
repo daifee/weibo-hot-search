@@ -1,0 +1,402 @@
+{
+  "runTime": 1714037675367,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1606112,
+        "num": 1606112,
+        "word": "杭州爬山失联女子已找到丈夫发声",
+        "onboard_time": 1714032799,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760408,
+        "num": 760408,
+        "word": "金靖怀孕录的萌探4",
+        "onboard_time": 1714028900,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1429925,
+        "num": 632443,
+        "word": "老年艾滋病患者无法言说的性与痛",
+        "onboard_time": 1714032859,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 630860,
+        "num": 630860,
+        "word": "布林肯抵达北京",
+        "onboard_time": 1714036579,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 528229,
+        "num": 528229,
+        "word": "老人摆摊日入8元被收10元摊位费",
+        "onboard_time": 1714029380,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488084,
+        "num": 488084,
+        "word": "秦岚晒了北斗七行合照",
+        "onboard_time": 1714032618,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444503,
+        "num": 444503,
+        "word": "ive新歌MV全是中国元素",
+        "onboard_time": 1714031840,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 426727,
+        "num": 426727,
+        "word": "狗头萝莉流泪回应",
+        "onboard_time": 1714030398,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115016,
+        "num": 422371,
+        "word": "00后边防新兵巡逻前vs巡逻后",
+        "onboard_time": 1714033339,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2227374,
+        "num": 417979,
+        "word": "金靖 舒奕橙",
+        "onboard_time": 1714021104,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 906303,
+        "num": 410785,
+        "word": "NewJeans哭着问闵熙珍要怎么办",
+        "onboard_time": 1714032199,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445022,
+        "num": 408194,
+        "word": "HYBE用宫脇咲良和金采源对打张元英",
+        "onboard_time": 1714035919,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601983,
+        "num": 398247,
+        "word": "舒奕橙是不良人导演",
+        "onboard_time": 1714022123,
+        "rank": 13,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 397397,
+        "num": 397397,
+        "word": "雷军称直面所有质疑造谣问题",
+        "onboard_time": 1714034299,
+        "rank": 14,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 387803,
+        "num": 387803,
+        "word": "Uzi 剑网三",
+        "onboard_time": 1714032319,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 346719,
+        "num": 346719,
+        "word": "金靖 迎接第五位家庭成员",
+        "onboard_time": 1714019539,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341701,
+        "num": 341701,
+        "word": "为何越来越多老人染上艾滋病",
+        "onboard_time": 1714023141,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 312851,
+        "num": 312851,
+        "word": "睡不着就在床头放个橘子",
+        "onboard_time": 1714033278,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290262,
+        "num": 290262,
+        "word": "煮肘 二妞妈",
+        "onboard_time": 1714029618,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845326,
+        "num": 282769,
+        "word": "张碧晨玩机车是因为赵丽颖",
+        "onboard_time": 1714032859,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356657,
+        "num": 282484,
+        "word": "方时赫说要把aespa踩在脚下",
+        "onboard_time": 1714029320,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265357,
+        "num": 265357,
+        "word": "以前谈恋爱是要交换QQ密码的",
+        "onboard_time": 1714034839,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242451,
+        "num": 242451,
+        "word": "闵熙珍律师快碎了",
+        "onboard_time": 1714036939,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226233,
+        "num": 226233,
+        "word": "我是不结婚 不是不交电费",
+        "onboard_time": 1714029079,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223514,
+        "num": 223514,
+        "word": "一场可以载入历史的记者会",
+        "onboard_time": 1714036820,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225608,
+        "num": 218582,
+        "word": "方时赫克星SM",
+        "onboard_time": 1714036820,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195115,
+        "num": 214789,
+        "word": "多益网络徐波称被前女友卷走3亿",
+        "onboard_time": 1714031658,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 165273,
+        "num": 211539,
+        "word": "多益网络规定员工娶妻彩礼不超10万",
+        "onboard_time": 1714036459,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211095,
+        "num": 211095,
+        "word": "杨幂路演状态",
+        "onboard_time": 1714036160,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201186,
+        "num": 201186,
+        "word": "迪丽热巴短裙转圈",
+        "onboard_time": 1714027040,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187990,
+        "num": 187990,
+        "word": "谁能像zico爱门童一样爱我",
+        "onboard_time": 1714037059,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169396,
+        "num": 169396,
+        "word": "奶茶最好2小时内喝完",
+        "onboard_time": 1714035259,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164729,
+        "num": 164729,
+        "word": "女生因为爱喝鸡汤做100个鸡花瓶",
+        "onboard_time": 1714020142,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161680,
+        "num": 161680,
+        "word": "网红拍低俗视频博眼球被拘15天",
+        "onboard_time": 1714037179,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 153494,
+        "num": 153494,
+        "word": "日本海岸现超10米长鲸鱼尸体",
+        "onboard_time": 1714023861,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171049,
+        "num": 153112,
+        "word": "hybe员工吃瓜忘发zico物料",
+        "onboard_time": 1714037599,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151917,
+        "num": 151917,
+        "word": "晚上睡不着可能是身体发出的信号",
+        "onboard_time": 1714034720,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91800,
+        "num": 150457,
+        "word": "科技让中药传承迎来新机遇",
+        "onboard_time": 1714032379,
+        "rank": 38,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 149333,
+        "num": 149333,
+        "word": "迪丽热巴说话根本听不进去",
+        "onboard_time": 1714037418,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149288,
+        "num": 149288,
+        "word": "王珞丹说聪明的女人不应该把婆婆当妈妈",
+        "onboard_time": 1714031658,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143274,
+        "num": 143274,
+        "word": "爱情公寓秦羽墨美甲店被吐槽",
+        "onboard_time": 1714011797,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134841,
+        "num": 134841,
+        "word": "颜如晶18天减重14斤",
+        "onboard_time": 1714026918,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20773,
+        "num": 131131,
+        "word": "蓝山智驾版3项行业之首有多牛",
+        "onboard_time": 1714034239,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130959,
+        "num": 130959,
+        "word": "97年生交警被86岁奶奶叫叔叔",
+        "onboard_time": 1714023322,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122610,
+        "num": 122610,
+        "word": "丫丫回国一年了",
+        "onboard_time": 1714037299,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119743,
+        "num": 119743,
+        "word": "李现周雨彤大大方方营业",
+        "onboard_time": 1714030579,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118969,
+        "num": 118969,
+        "word": "戚薇浪姐精神状态",
+        "onboard_time": 1714035919,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116079,
+        "num": 116079,
+        "word": "徐波",
+        "onboard_time": 1714027639,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94810,
+        "num": 115593,
+        "word": "上班的目的是偷师",
+        "onboard_time": 1714035438,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于西部大开发总书记强调6个坚持#"
+    }
+  }
+}
