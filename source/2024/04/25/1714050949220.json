@@ -1,0 +1,410 @@
+{
+  "runTime": 1714050949220,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1748002,
+        "num": 1748002,
+        "word": "神十八点火发射升空",
+        "onboard_time": 1714050319,
+        "rank": 0,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 710427,
+        "num": 710427,
+        "word": "神舟十八号发射直播",
+        "onboard_time": 1714040599,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6164,
+        "num": 521745,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1298191,
+        "num": 509850,
+        "word": "金靖舒奕橙在一起四年多了",
+        "onboard_time": 1714047497,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 887191,
+        "num": 506359,
+        "word": "小K有微博了",
+        "onboard_time": 1714047018,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 492014,
+        "num": 492014,
+        "word": "babymonster 抗洪失败",
+        "onboard_time": 1714043296,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 774305,
+        "num": 479076,
+        "word": "王一博 真维斯",
+        "onboard_time": 1714048278,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456924,
+        "num": 456924,
+        "word": "86岁琼瑶宣布淡出社交平台",
+        "onboard_time": 1714044618,
+        "rank": 7,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 427249,
+        "num": 427249,
+        "word": "生菜牛肉拌饭",
+        "onboard_time": 1714043598,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 239887,
+        "num": 396655,
+        "word": "职高女孩用9年逆袭成为双一流大学研究生",
+        "onboard_time": 1714039758,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1105906,
+        "num": 396525,
+        "word": "金靖 舒奕橙",
+        "onboard_time": 1714021104,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535981,
+        "num": 396100,
+        "word": "老年艾滋病患者无法言说的性与痛",
+        "onboard_time": 1714032859,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 395360,
+        "num": 395360,
+        "word": "杨利伟目送神十八乘组出征",
+        "onboard_time": 1714049059,
+        "rank": 12,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 354358,
+        "num": 354358,
+        "word": "杭州爬山失联女子已找到丈夫发声",
+        "onboard_time": 1714032799,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333658,
+        "num": 333658,
+        "word": "王一博谈警二代的传承与担当",
+        "onboard_time": 1714049838,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309333,
+        "num": 309333,
+        "word": "舒奕橙是不良人导演",
+        "onboard_time": 1714022123,
+        "rank": 15,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 278332,
+        "num": 291008,
+        "word": "春色寄情人 何叔去世",
+        "onboard_time": 1714049478,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276800,
+        "num": 276800,
+        "word": "李现 今天雇的人多一点是吧",
+        "onboard_time": 1714047438,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260351,
+        "num": 260351,
+        "word": "花蓉结局",
+        "onboard_time": 1714046958,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259499,
+        "num": 259499,
+        "word": "煮肘 二妞妈",
+        "onboard_time": 1714029618,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687756,
+        "num": 257471,
+        "word": "戚薇不建议大家瘦成艺人的样子",
+        "onboard_time": 1714038559,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372114,
+        "num": 255396,
+        "word": "删了吧我有个朋友不太舒服",
+        "onboard_time": 1714045817,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264297,
+        "num": 253743,
+        "word": "babymonster悄悄惊艳所有人",
+        "onboard_time": 1714043359,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248591,
+        "num": 248591,
+        "word": "上海月租50元1平米房为摆拍造假",
+        "onboard_time": 1714048577,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234703,
+        "num": 234703,
+        "word": "NewJeans哭着问闵熙珍要怎么办",
+        "onboard_time": 1714032199,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222191,
+        "num": 222191,
+        "word": "神十七神十八航天员太空会师",
+        "onboard_time": 1714046478,
+        "rank": 25,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 209729,
+        "num": 209729,
+        "word": "金靖怀孕录的萌探4",
+        "onboard_time": 1714028900,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205928,
+        "num": 205928,
+        "word": "杨幂白色棒球帽",
+        "onboard_time": 1714050259,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195673,
+        "num": 195673,
+        "word": "DRG对战AG",
+        "onboard_time": 1714049838,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191629,
+        "num": 191629,
+        "word": "黄景瑜一出场硬控小学生",
+        "onboard_time": 1714047736,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209065,
+        "num": 191230,
+        "word": "山西地震",
+        "onboard_time": 1714050919,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188564,
+        "num": 188564,
+        "word": "买车后才明白的事",
+        "onboard_time": 1714049417,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 169400,
+        "num": 169400,
+        "word": "与凤行莲花楼报名白玉兰奖",
+        "onboard_time": 1714043179,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164655,
+        "num": 164655,
+        "word": "ILLIT 5000分",
+        "onboard_time": 1714048697,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157592,
+        "num": 157592,
+        "word": "第五人格排位bug",
+        "onboard_time": 1714045278,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149693,
+        "num": 149693,
+        "word": "艾滋病早期症状有哪些",
+        "onboard_time": 1714049298,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148955,
+        "num": 148955,
+        "word": "董思成 晚安大小姐",
+        "onboard_time": 1714046058,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145414,
+        "num": 145414,
+        "word": "高校要求手抄毕业论文引学生不满",
+        "onboard_time": 1714038499,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141529,
+        "num": 141529,
+        "word": "hybe员工吃瓜忘发zico物料",
+        "onboard_time": 1714037599,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134679,
+        "num": 134679,
+        "word": "张碧晨玩机车是因为赵丽颖",
+        "onboard_time": 1714032859,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133868,
+        "num": 133868,
+        "word": "神十八",
+        "onboard_time": 1714047858,
+        "rank": 40,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 131422,
+        "num": 131422,
+        "word": "惜花芷",
+        "onboard_time": 1714045518,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127835,
+        "num": 127835,
+        "word": "布林肯抵达北京",
+        "onboard_time": 1714036579,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123938,
+        "num": 123938,
+        "word": "SM编舞师为闵熙珍应援",
+        "onboard_time": 1714045880,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117123,
+        "num": 117123,
+        "word": "尚雯婕李溪芮聊天记录",
+        "onboard_time": 1714042459,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111815,
+        "num": 111815,
+        "word": "我是不结婚 不是不交电费",
+        "onboard_time": 1714029079,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110223,
+        "num": 110223,
+        "word": "神十八发射现场",
+        "onboard_time": 1714047678,
+        "rank": 46,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 108772,
+        "num": 108772,
+        "word": "陈楚生评价自己的舞蹈功底",
+        "onboard_time": 1714049178,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103452,
+        "num": 103452,
+        "word": "华晨宇排练直播",
+        "onboard_time": 1714047258,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102679,
+        "num": 102679,
+        "word": "广厦男篮vs广东男篮",
+        "onboard_time": 1714048158,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察陆军军医大学#"
+    }
+  }
+}

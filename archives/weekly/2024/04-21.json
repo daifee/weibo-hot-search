@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714048849263,
+  "endTime": 1714050949220,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -297,6 +297,14 @@
       "onboard_time": 1713843018,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1748002,
+      "num": 1748002,
+      "word": "神十八点火发射升空",
+      "onboard_time": 1714050319,
+      "rank": 0,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 1743796,
@@ -1563,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 774305,
+      "num": 479076,
+      "word": "王一博 真维斯",
+      "onboard_time": 1714048278,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 771184,
       "num": 771184,
       "word": "辅导员回应多地高校禁止学生挂床帘",
@@ -1777,6 +1793,14 @@
       "onboard_time": 1713758598,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 710427,
+      "num": 710427,
+      "word": "神舟十八号发射直播",
+      "onboard_time": 1714040599,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 708753,
@@ -3236,7 +3260,7 @@
     },
     {
       "raw_hot": 481419,
-      "num": 224660,
+      "num": 255396,
       "word": "删了吧我有个朋友不太舒服",
       "onboard_time": 1714045817,
       "rank": 23,
@@ -3835,14 +3859,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 424636,
-      "num": 424636,
-      "word": "神舟十八号发射直播",
-      "onboard_time": 1714040599,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 424581,
       "num": 415855,
       "word": "黄子韬向佐在大理相遇了",
@@ -3961,14 +3977,6 @@
       "onboard_time": 1713687438,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 415213,
-      "num": 356559,
-      "word": "王一博 真维斯",
-      "onboard_time": 1714048278,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 413899,
@@ -4121,6 +4129,14 @@
       "onboard_time": 1713757818,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 395360,
+      "num": 395360,
+      "word": "杨利伟目送神十八乘组出征",
+      "onboard_time": 1714049059,
+      "rank": 12,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 395354,
@@ -4817,6 +4833,14 @@
       "onboard_time": 1713745158,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333658,
+      "num": 333658,
+      "word": "王一博谈警二代的传承与担当",
+      "onboard_time": 1714049838,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 333424,
@@ -5595,6 +5619,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 278332,
+      "num": 291008,
+      "word": "春色寄情人 何叔去世",
+      "onboard_time": 1714049478,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277979,
       "num": 277979,
       "word": "莫兰德被驱逐",
@@ -5633,6 +5665,14 @@
       "onboard_time": 1713680237,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 276800,
+      "num": 276800,
+      "word": "李现 今天雇的人多一点是吧",
+      "onboard_time": 1714047438,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 275644,
@@ -6019,6 +6059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260351,
+      "num": 260351,
+      "word": "花蓉结局",
+      "onboard_time": 1714046958,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260179,
       "num": 260179,
       "word": "ive新歌预告疑似抄袭RedVelvet",
@@ -6264,6 +6312,14 @@
       "word": "深圳现暴雨天给绿植浇水引质疑",
       "onboard_time": 1713980352,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248591,
+      "num": 248591,
+      "word": "上海月租50元1平米房为摆拍造假",
+      "onboard_time": 1714048577,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -7323,14 +7379,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 216696,
-      "num": 216696,
-      "word": "花蓉结局",
-      "onboard_time": 1714046958,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 216020,
       "num": 208433,
       "word": "李梦23分",
@@ -7611,6 +7659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209065,
+      "num": 191230,
+      "word": "山西地震",
+      "onboard_time": 1714050919,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209019,
       "num": 209019,
       "word": "杨紫透露下一部戏计划",
@@ -7673,14 +7729,6 @@
       "onboard_time": 1713675438,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207979,
-      "num": 207979,
-      "word": "李现 今天雇的人多一点是吧",
-      "onboard_time": 1714047438,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 207898,
@@ -7817,6 +7865,14 @@
       "onboard_time": 1713966019,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205928,
+      "num": 205928,
+      "word": "杨幂白色棒球帽",
+      "onboard_time": 1714050259,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 205766,
@@ -8539,6 +8595,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 195673,
+      "num": 195673,
+      "word": "DRG对战AG",
+      "onboard_time": 1714049838,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195448,
       "num": 192903,
       "word": "狐妖王权篇单人海报",
@@ -9081,6 +9145,14 @@
       "onboard_time": 1714014199,
       "rank": 36,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 188564,
+      "num": 188564,
+      "word": "买车后才明白的事",
+      "onboard_time": 1714049417,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 188535,
@@ -10459,6 +10531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164655,
+      "num": 164655,
+      "word": "ILLIT 5000分",
+      "onboard_time": 1714048697,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164376,
       "num": 164376,
       "word": "薛之谦天外来物单轮巡演100场",
@@ -11419,6 +11499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149693,
+      "num": 149693,
+      "word": "艾滋病早期症状有哪些",
+      "onboard_time": 1714049298,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 149656,
       "num": 149656,
       "word": "日本2架失联直升机初步判断已坠毁",
@@ -11441,14 +11529,6 @@
       "onboard_time": 1713867198,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149265,
-      "num": 118612,
-      "word": "ILLIT 5000分",
-      "onboard_time": 1714048697,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 149251,
@@ -13451,14 +13531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117191,
-      "num": 117191,
-      "word": "上海月租50元1平米房为摆拍造假",
-      "onboard_time": 1714048577,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117169,
       "num": 117169,
       "word": "新一说比任何人都喜欢小兰",
@@ -13801,6 +13873,14 @@
       "onboard_time": 1713681199,
       "rank": 47,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 108772,
+      "num": 108772,
+      "word": "陈楚生评价自己的舞蹈功底",
+      "onboard_time": 1714049178,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 108743,
@@ -15371,6 +15451,9 @@
     },
     {
       "word": "#从8次座谈会看总书记推动区域发展战略落实#"
+    },
+    {
+      "word": "#习近平视察陆军军医大学#"
     }
   ]
 }
