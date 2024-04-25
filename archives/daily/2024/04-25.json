@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1714007791877,
+  "endTime": 1714008973634,
   "band_list": [
     {
       "raw_hot": 2184582,
@@ -25,6 +25,14 @@
       "onboard_time": 1714002559,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 887559,
+      "num": 754463,
+      "word": "彩礼该以女方陪嫁形式返还小家庭吗",
+      "onboard_time": 1714005319,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 818012,
@@ -59,14 +67,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 754463,
-      "num": 754463,
-      "word": "彩礼该以女方陪嫁形式返还小家庭吗",
-      "onboard_time": 1714005319,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 742860,
       "num": 742860,
       "word": "以色列",
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 696637,
-      "num": 254909,
+      "num": 258245,
       "word": "男子多次性侵前女友11岁女儿获刑16年",
       "onboard_time": 1713968059,
       "rank": 21,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 579965,
+      "num": 358737,
+      "word": "叶诗文决定退出200混比赛",
+      "onboard_time": 1714006639,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 572905,
       "num": 283292,
       "word": "拼多多涉不正当竞争被判赔500万",
@@ -139,8 +147,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485472,
+      "num": 485472,
+      "word": "淫秽物品认定标准",
+      "onboard_time": 1714004959,
+      "rank": 15,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 452745,
-      "num": 252487,
+      "num": 256137,
       "word": "微信区分单删互删",
       "onboard_time": 1713968659,
       "rank": 22,
@@ -163,6 +179,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 401467,
+      "num": 350140,
+      "word": "肖战入选世界十大最美面孔",
+      "onboard_time": 1714004959,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397583,
       "num": 397583,
       "word": "这些人工合成水果又出来骗人了",
@@ -177,14 +201,6 @@
       "onboard_time": 1713947778,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 387949,
-      "num": 387949,
-      "word": "淫秽物品认定标准",
-      "onboard_time": 1714004959,
-      "rank": 15,
-      "category": "科学科普"
     },
     {
       "raw_hot": 385003,
@@ -211,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 341154,
-      "num": 341154,
-      "word": "叶诗文决定退出200混比赛",
-      "onboard_time": 1714006639,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 331480,
+      "num": 331480,
+      "word": "妈妈将3个孩子反锁家中1天只吃1顿",
+      "onboard_time": 1714007417,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321240,
@@ -225,14 +241,6 @@
       "onboard_time": 1713985451,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 317451,
-      "num": 317451,
-      "word": "肖战入选世界十大最美面孔",
-      "onboard_time": 1714004959,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 314762,
@@ -273,6 +281,14 @@
       "onboard_time": 1714002016,
       "rank": 19,
       "category": "体育,汽车"
+    },
+    {
+      "raw_hot": 264387,
+      "num": 481295,
+      "word": "老爷爷带写着金婚快乐的玫瑰乘地铁",
+      "onboard_time": 1714006878,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249925,
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217963,
+      "num": 217963,
+      "word": "拜登竞选团队用TikTok拉拢年轻选民",
+      "onboard_time": 1714007718,
+      "rank": 48,
+      "category": "国外时政,互联网"
+    },
+    {
       "raw_hot": 212014,
       "num": 212014,
       "word": "玲花 换位思考",
@@ -360,6 +384,22 @@
       "word": "官方通报海南3个小孩被锁家里",
       "onboard_time": 1714000936,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202167,
+      "num": 202167,
+      "word": "萌兰的腿怎么突然变1米9了",
+      "onboard_time": 1714005678,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201766,
+      "num": 201766,
+      "word": "外卖黑勺最脏系谣言",
+      "onboard_time": 1714008078,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -395,6 +435,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184710,
+      "num": 184710,
+      "word": "身份证号码中包含X该如何买票",
+      "onboard_time": 1713964878,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 182669,
+      "num": 182669,
+      "word": "未婚未育的90后开始当争当月嫂",
+      "onboard_time": 1714008498,
+      "rank": 32,
+      "category": "社会新闻,母婴育儿"
+    },
+    {
       "raw_hot": 182414,
       "num": 182414,
       "word": "眼泪女王",
@@ -419,22 +475,6 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 174921,
-      "num": 174921,
-      "word": "萌兰的腿怎么突然变1米9了",
-      "onboard_time": 1714005678,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164478,
-      "num": 164478,
-      "word": "身份证号码中包含X该如何买票",
-      "onboard_time": 1713964878,
-      "rank": 24,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 163662,
       "num": 163662,
       "word": "未来的国际月球科研站什么样",
@@ -448,14 +488,6 @@
       "word": "深圳暴雨",
       "onboard_time": 1713968359,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156415,
-      "num": 156415,
-      "word": "妈妈将3个孩子反锁家中1天只吃1顿",
-      "onboard_time": 1714007417,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -515,20 +547,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138932,
+      "num": 138932,
+      "word": "一眼就能看出谁是花1谁是花5",
+      "onboard_time": 1714008438,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138334,
       "num": 138334,
       "word": "承欢记大结局",
       "onboard_time": 1713961398,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137456,
-      "num": 481295,
-      "word": "老爷爷带写着金婚快乐的玫瑰乘地铁",
-      "onboard_time": 1714006878,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136019,
@@ -587,12 +619,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 116230,
-      "num": 116230,
-      "word": "拜登竞选团队用TikTok拉拢年轻选民",
-      "onboard_time": 1714007718,
-      "rank": 48,
-      "category": "国外时政,互联网"
+      "raw_hot": 115179,
+      "num": 115179,
+      "word": "J人和P人旅游经典互相震撼",
+      "onboard_time": 1714008619,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 113104,
@@ -617,6 +649,22 @@
       "onboard_time": 1713952039,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109976,
+      "num": 109976,
+      "word": "女孩拍170条宣传片力证江西美景多",
+      "onboard_time": 1714008676,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104094,
+      "num": 104094,
+      "word": "上海地铁9号线",
+      "onboard_time": 1714008918,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101657,
@@ -833,6 +881,14 @@
       "onboard_time": 1713969259,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25782,
+      "num": 98739,
+      "word": "陈雨菲高燃击球瞬间",
+      "onboard_time": 1714008857,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 19555,
