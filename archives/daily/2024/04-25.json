@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1714044846190,
+  "endTime": 1714048053684,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1060372,
+      "num": 1060372,
+      "word": "小K有微博了",
+      "onboard_time": 1714047018,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1042516,
       "num": 758673,
       "word": "电梯从20楼坠落致物业工作人员死亡",
@@ -153,6 +161,14 @@
       "onboard_time": 1714002559,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 954653,
+      "num": 954653,
+      "word": "金靖舒奕橙在一起四年多了",
+      "onboard_time": 1714047497,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 924534,
@@ -257,6 +273,22 @@
       "onboard_time": 1714012338,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 731236,
+      "num": 731236,
+      "word": "babymonster 抗洪失败",
+      "onboard_time": 1714043296,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 725485,
+      "num": 725485,
+      "word": "生菜牛肉拌饭",
+      "onboard_time": 1714043598,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 721403,
@@ -499,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473740,
+      "num": 473740,
+      "word": "86岁琼瑶宣布淡出社交平台",
+      "onboard_time": 1714044618,
+      "rank": 38,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 471049,
       "num": 471049,
       "word": "雷军称直面所有质疑造谣问题",
@@ -539,20 +579,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443368,
+      "num": 443368,
+      "word": "与凤行莲花楼报名白玉兰奖",
+      "onboard_time": 1714043179,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 441690,
       "num": 441690,
       "word": "迪丽热巴短裙转圈",
       "onboard_time": 1714027040,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 437226,
-      "num": 402131,
-      "word": "babymonster 抗洪失败",
-      "onboard_time": 1714043296,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 436370,
@@ -627,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 398955,
-      "num": 398955,
-      "word": "与凤行莲花楼报名白玉兰奖",
-      "onboard_time": 1714043179,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 397583,
       "num": 397583,
       "word": "这些人工合成水果又出来骗人了",
@@ -665,6 +697,14 @@
       "onboard_time": 1714038019,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393724,
+      "num": 204601,
+      "word": "删了吧我有个朋友不太舒服",
+      "onboard_time": 1714045817,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 393306,
@@ -755,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347660,
+      "num": 347660,
+      "word": "第五人格排位bug",
+      "onboard_time": 1714045278,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 346977,
       "num": 346977,
       "word": "徐波",
@@ -779,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337372,
+      "num": 337372,
+      "word": "神舟十八号发射直播",
+      "onboard_time": 1714040599,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 335314,
       "num": 335314,
       "word": "金靖 怀孕",
@@ -801,14 +857,6 @@
       "onboard_time": 1714024702,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 328665,
-      "num": 328665,
-      "word": "神舟十八号发射直播",
-      "onboard_time": 1714040599,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 326348,
@@ -881,6 +929,22 @@
       "onboard_time": 1714027639,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287793,
+      "num": 287793,
+      "word": "神十七神十八航天员太空会师",
+      "onboard_time": 1714046478,
+      "rank": 16,
+      "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 287380,
+      "num": 287380,
+      "word": "华晨宇排练直播",
+      "onboard_time": 1714047258,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 283921,
@@ -1435,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202208,
+      "num": 202208,
+      "word": "董思成 晚安大小姐",
+      "onboard_time": 1714046058,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201766,
       "num": 201766,
       "word": "外卖黑勺最脏系谣言",
@@ -1523,14 +1595,6 @@
       "category": "游戏,运动健身"
     },
     {
-      "raw_hot": 196100,
-      "num": 226791,
-      "word": "生菜牛肉拌饭",
-      "onboard_time": 1714043598,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 195810,
       "num": 165665,
       "word": "NewJeans怎么办",
@@ -1555,11 +1619,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194091,
+      "num": 194091,
+      "word": "惜花芷",
+      "onboard_time": 1714045518,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193645,
       "num": 184028,
       "word": "李现周雨彤互涂唇膏",
       "onboard_time": 1714043478,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192874,
+      "num": 187655,
+      "word": "花蓉结局",
+      "onboard_time": 1714046958,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1763,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176761,
+      "num": 176761,
+      "word": "SM编舞师为闵熙珍应援",
+      "onboard_time": 1714045880,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176635,
       "num": 176635,
       "word": "男子离婚冷静期杀妻案被害者妹妹发声",
@@ -1859,6 +1947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162449,
+      "num": 162449,
+      "word": "李现 今天雇的人多一点是吧",
+      "onboard_time": 1714047438,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162329,
       "num": 161680,
       "word": "网红拍低俗视频博眼球被拘15天",
@@ -1889,6 +1985,14 @@
       "onboard_time": 1714032559,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158329,
+      "num": 158329,
+      "word": "神十八",
+      "onboard_time": 1714047858,
+      "rank": 35,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 155912,
@@ -2091,14 +2195,6 @@
       "category": "互联网,国外时政"
     },
     {
-      "raw_hot": 140824,
-      "num": 150904,
-      "word": "86岁琼瑶宣布淡出社交平台",
-      "onboard_time": 1714044618,
-      "rank": 38,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 140305,
       "num": 359912,
       "word": "原创才是最高级的种草",
@@ -2177,6 +2273,14 @@
       "onboard_time": 1714005499,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135814,
+      "num": 135814,
+      "word": "黄景瑜一出场硬控小学生",
+      "onboard_time": 1714047736,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 135189,
@@ -2411,6 +2515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110530,
+      "num": 300852,
+      "word": "女性月经困扰不只有痛经",
+      "onboard_time": 1714042998,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 110403,
       "num": 110403,
       "word": "闵熙珍希望kpop不要再搞随机小卡",
@@ -2449,6 +2561,14 @@
       "onboard_time": 1714008918,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101830,
+      "num": 101830,
+      "word": "神十八发射现场",
+      "onboard_time": 1714047678,
+      "rank": 47,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 101657,
@@ -2505,14 +2625,6 @@
       "onboard_time": 1713961158,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89697,
-      "num": 300852,
-      "word": "女性月经困扰不只有痛经",
-      "onboard_time": 1714042998,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 86867,
@@ -2803,8 +2915,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4272,
-      "num": 204738,
+      "raw_hot": 4734,
+      "num": 740374,
       "word": "文化中国行",
       "onboard_time": 1713927617,
       "rank": 34,

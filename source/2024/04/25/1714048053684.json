@@ -1,0 +1,410 @@
+{
+  "runTime": 1714048053684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1060372,
+        "num": 1060372,
+        "word": "小K有微博了",
+        "onboard_time": 1714047018,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 954653,
+        "num": 954653,
+        "word": "金靖舒奕橙在一起四年多了",
+        "onboard_time": 1714047497,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4734,
+        "num": 740374,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731236,
+        "num": 731236,
+        "word": "babymonster 抗洪失败",
+        "onboard_time": 1714043296,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 725485,
+        "num": 725485,
+        "word": "生菜牛肉拌饭",
+        "onboard_time": 1714043598,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 521131,
+        "num": 521131,
+        "word": "杭州爬山失联女子已找到丈夫发声",
+        "onboard_time": 1714032799,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473740,
+        "num": 473740,
+        "word": "86岁琼瑶宣布淡出社交平台",
+        "onboard_time": 1714044618,
+        "rank": 6,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 443368,
+        "num": 443368,
+        "word": "与凤行莲花楼报名白玉兰奖",
+        "onboard_time": 1714043179,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347660,
+        "num": 347660,
+        "word": "第五人格排位bug",
+        "onboard_time": 1714045278,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278997,
+        "num": 340450,
+        "word": "职高女孩用9年逆袭成为双一流大学研究生",
+        "onboard_time": 1714039758,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1174260,
+        "num": 339221,
+        "word": "金靖 舒奕橙",
+        "onboard_time": 1714021104,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 846032,
+        "num": 338345,
+        "word": "老年艾滋病患者无法言说的性与痛",
+        "onboard_time": 1714032859,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 337372,
+        "num": 337372,
+        "word": "神舟十八号发射直播",
+        "onboard_time": 1714040599,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306961,
+        "num": 306961,
+        "word": "高校要求手抄毕业论文引学生不满",
+        "onboard_time": 1714038499,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301711,
+        "num": 301711,
+        "word": "尚雯婕李溪芮聊天记录",
+        "onboard_time": 1714042459,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288592,
+        "num": 288592,
+        "word": "舒奕橙是不良人导演",
+        "onboard_time": 1714022123,
+        "rank": 15,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 287793,
+        "num": 287793,
+        "word": "神十七神十八航天员太空会师",
+        "onboard_time": 1714046478,
+        "rank": 16,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 287380,
+        "num": 287380,
+        "word": "华晨宇排练直播",
+        "onboard_time": 1714047258,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 280402,
+        "num": 280402,
+        "word": "NewJeans哭着问闵熙珍要怎么办",
+        "onboard_time": 1714032199,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276257,
+        "num": 276257,
+        "word": "煮肘 二妞妈",
+        "onboard_time": 1714029618,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 976132,
+        "num": 271458,
+        "word": "戚薇不建议大家瘦成艺人的样子",
+        "onboard_time": 1714038559,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450709,
+        "num": 248531,
+        "word": "金靖怀孕录的萌探4",
+        "onboard_time": 1714028900,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435627,
+        "num": 224854,
+        "word": "babymonster悄悄惊艳所有人",
+        "onboard_time": 1714043359,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 393724,
+        "num": 204601,
+        "word": "删了吧我有个朋友不太舒服",
+        "onboard_time": 1714045817,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202208,
+        "num": 202208,
+        "word": "董思成 晚安大小姐",
+        "onboard_time": 1714046058,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194091,
+        "num": 194091,
+        "word": "惜花芷",
+        "onboard_time": 1714045518,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188178,
+        "num": 188178,
+        "word": "我是不结婚 不是不交电费",
+        "onboard_time": 1714029079,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192874,
+        "num": 187655,
+        "word": "花蓉结局",
+        "onboard_time": 1714046958,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180290,
+        "num": 184889,
+        "word": "老人摆摊日入8元被收10元摊位费",
+        "onboard_time": 1714029380,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110530,
+        "num": 183506,
+        "word": "女性月经困扰不只有痛经",
+        "onboard_time": 1714042998,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183130,
+        "num": 183130,
+        "word": "张碧晨玩机车是因为赵丽颖",
+        "onboard_time": 1714032859,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181476,
+        "num": 181476,
+        "word": "hybe员工吃瓜忘发zico物料",
+        "onboard_time": 1714037599,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176761,
+        "num": 176761,
+        "word": "SM编舞师为闵熙珍应援",
+        "onboard_time": 1714045880,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174690,
+        "num": 174690,
+        "word": "丫丫回国一年了",
+        "onboard_time": 1714037299,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162449,
+        "num": 162449,
+        "word": "李现 今天雇的人多一点是吧",
+        "onboard_time": 1714047438,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158329,
+        "num": 158329,
+        "word": "神十八",
+        "onboard_time": 1714047858,
+        "rank": 35,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 154119,
+        "num": 154119,
+        "word": "女儿被古筝老师劝退了",
+        "onboard_time": 1714042818,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149285,
+        "num": 149285,
+        "word": "布林肯抵达北京",
+        "onboard_time": 1714036579,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137756,
+        "num": 137756,
+        "word": "狗生 易如反爪",
+        "onboard_time": 1714042698,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135814,
+        "num": 135814,
+        "word": "黄景瑜一出场硬控小学生",
+        "onboard_time": 1714047736,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126559,
+        "num": 126559,
+        "word": "ive新歌MV全是中国元素",
+        "onboard_time": 1714031840,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118063,
+        "num": 118063,
+        "word": "胡锡进称没想到亏得会这么快",
+        "onboard_time": 1714041978,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116932,
+        "num": 116932,
+        "word": "狗头萝莉流泪回应",
+        "onboard_time": 1714030398,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 109312,
+        "num": 109312,
+        "word": "鞠婧祎地铁随拍",
+        "onboard_time": 1714044557,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107614,
+        "num": 107614,
+        "word": "illit制作人ins竖中指",
+        "onboard_time": 1714038019,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107505,
+        "num": 107505,
+        "word": "方时赫说要把aespa踩在脚下",
+        "onboard_time": 1714029320,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106966,
+        "num": 106966,
+        "word": "NewJeans发布公告",
+        "onboard_time": 1714039098,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101830,
+        "num": 101830,
+        "word": "神十八发射现场",
+        "onboard_time": 1714047678,
+        "rank": 47,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 97679,
+        "num": 97679,
+        "word": "常吃西兰花可对抗肿瘤和炎症",
+        "onboard_time": 1714044737,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94754,
+        "num": 94754,
+        "word": "AG时隔1064天重回胜者组",
+        "onboard_time": 1714043359,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#从8次座谈会看总书记推动区域发展战略落实#"
+    }
+  }
+}
