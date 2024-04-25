@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1714018879626,
+  "endTime": 1714019655795,
   "band_list": [
     {
       "raw_hot": 2184582,
@@ -27,20 +27,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1421512,
+      "num": 1421512,
+      "word": "准00后女干部黄左梦琪已任副镇长",
+      "onboard_time": 1714013537,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1334360,
-      "num": 473846,
+      "num": 479250,
       "word": "郑乃馨公开恋情后被音乐节除名",
       "onboard_time": 1714012036,
       "rank": 24,
       "category": "演出"
     },
     {
-      "raw_hot": 1265929,
-      "num": 1265929,
-      "word": "准00后女干部黄左梦琪已任副镇长",
-      "onboard_time": 1714013537,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 1109800,
+      "num": 1109800,
+      "word": "郑合惠子 不红你就是没有话语权",
+      "onboard_time": 1714015277,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1076753,
@@ -57,14 +65,6 @@
       "onboard_time": 1714002317,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1031598,
-      "num": 1031598,
-      "word": "郑合惠子 不红你就是没有话语权",
-      "onboard_time": 1714015277,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 967102,
@@ -235,12 +235,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487841,
+      "num": 487841,
+      "word": "赵雅芝工作室辟谣去世传言",
+      "onboard_time": 1714017619,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485472,
       "num": 485472,
       "word": "淫秽物品认定标准",
       "onboard_time": 1714004959,
       "rank": 15,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 484236,
+      "num": 355472,
+      "word": "27岁越来越不敢和我爸说话",
+      "onboard_time": 1714018038,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 475185,
+      "num": 475185,
+      "word": "刘宇宁夸迪丽热巴抗住了死亡角度",
+      "onboard_time": 1714018459,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 458503,
@@ -339,20 +363,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 382741,
-      "num": 382741,
-      "word": "赵雅芝工作室辟谣去世传言",
-      "onboard_time": 1714017619,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 382002,
       "num": 270180,
       "word": "你认为很贵其实很便宜的东西",
       "onboard_time": 1714012036,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 375264,
+      "num": 375264,
+      "word": "官方公布机器人太奶售价80万",
+      "onboard_time": 1714016659,
+      "rank": 17,
+      "category": "科学科普"
     },
     {
       "raw_hot": 370649,
@@ -363,12 +387,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 357660,
-      "num": 357660,
-      "word": "官方公布机器人太奶售价80万",
-      "onboard_time": 1714016659,
-      "rank": 17,
-      "category": "科学科普"
+      "raw_hot": 368565,
+      "num": 368565,
+      "word": "咒术回战 虎杖腿没了",
+      "onboard_time": 1714018520,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 352806,
@@ -379,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 333356,
-      "num": 333356,
-      "word": "27岁越来越不敢和我爸说话",
-      "onboard_time": 1714018038,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 335314,
+      "num": 335314,
+      "word": "金靖 怀孕",
+      "onboard_time": 1714019539,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 321240,
@@ -401,14 +425,6 @@
       "onboard_time": 1713969380,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 314448,
-      "num": 314448,
-      "word": "刘宇宁夸迪丽热巴抗住了死亡角度",
-      "onboard_time": 1714018459,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 311813,
@@ -481,6 +497,14 @@
       "onboard_time": 1714006878,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266823,
+      "num": 266823,
+      "word": "光遇新季节",
+      "onboard_time": 1714018698,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 265080,
@@ -635,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209599,
+      "num": 209599,
+      "word": "林毅夫称中国经济总量2030年超美国",
+      "onboard_time": 1714018997,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209443,
       "num": 209443,
       "word": "可以这样亲我吗李现",
@@ -697,14 +729,6 @@
       "onboard_time": 1714004539,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 197173,
-      "num": 197173,
-      "word": "咒术回战 虎杖腿没了",
-      "onboard_time": 1714018520,
-      "rank": 37,
-      "category": "动漫"
     },
     {
       "raw_hot": 196677,
@@ -859,14 +883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166306,
-      "num": 166306,
-      "word": "光遇新季节",
-      "onboard_time": 1714018698,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 163662,
       "num": 163662,
       "word": "未来的国际月球科研站什么样",
@@ -921,6 +937,14 @@
       "onboard_time": 1714006099,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148016,
+      "num": 148016,
+      "word": "恋与名侦探",
+      "onboard_time": 1714019359,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 146087,
@@ -1009,6 +1033,14 @@
       "onboard_time": 1714002198,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 130350,
+      "num": 360432,
+      "word": "尹同跃头发都白了",
+      "onboard_time": 1714018760,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 128859,
@@ -1211,6 +1243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83373,
+      "num": 296628,
+      "word": "能跑2000km的中国雷神",
+      "onboard_time": 1714017799,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 83137,
       "num": 83137,
       "word": "韩维辰镜头",
@@ -1233,14 +1273,6 @@
       "onboard_time": 1713963620,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78903,
-      "num": 268839,
-      "word": "能跑2000km的中国雷神",
-      "onboard_time": 1714017799,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 76816,
@@ -1283,12 +1315,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60720,
+      "num": 476454,
+      "word": "朱一龙侧脸杀",
+      "onboard_time": 1714016598,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 60128,
       "num": 60128,
       "word": "破墓海报",
       "onboard_time": 1713975917,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 59841,
+      "num": 351261,
+      "word": "魏牌蓝山全场景NOA首发即无图",
+      "onboard_time": 1714018099,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58805,
@@ -1313,22 +1361,6 @@
       "onboard_time": 1713977895,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 54685,
-      "num": 412764,
-      "word": "朱一龙侧脸杀",
-      "onboard_time": 1714016598,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 52334,
-      "num": 317365,
-      "word": "魏牌蓝山全场景NOA首发即无图",
-      "onboard_time": 1714018099,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49574,
@@ -1403,8 +1435,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19731,
-      "num": 144165,
+      "raw_hot": 21603,
+      "num": 199211,
       "word": "埃安再造第三个爆款",
       "onboard_time": 1714018760,
       "rank": 48,
@@ -1443,16 +1475,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7161,
-      "num": 152873,
-      "word": "尹同跃头发都白了",
-      "onboard_time": 1714018760,
-      "rank": 46,
+      "raw_hot": 11844,
+      "num": 146555,
+      "word": "原创才是最高级的种草",
+      "onboard_time": 1714019601,
+      "rank": 49,
       "category": "汽车"
     },
     {
       "raw_hot": 6641,
-      "num": 1078710,
+      "num": 1156662,
       "word": "2024中关村论坛年会",
       "onboard_time": 1714017619,
       "rank": 2,

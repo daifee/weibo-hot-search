@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714018879626,
+  "endTime": 1714019655795,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2363,6 +2363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1421512,
+      "num": 1421512,
+      "word": "准00后女干部黄左梦琪已任副镇长",
+      "onboard_time": 1714013537,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1420882,
       "num": 352445,
       "word": "越来越多夫妻不过夫妻生活了",
@@ -2708,7 +2716,7 @@
     },
     {
       "raw_hot": 1334360,
-      "num": 473846,
+      "num": 479250,
       "word": "郑乃馨公开恋情后被音乐节除名",
       "onboard_time": 1714012036,
       "rank": 24,
@@ -3072,14 +3080,6 @@
       "word": "福宝小屋布满竹子笋笋苹果胡萝卜",
       "onboard_time": 1712200758,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1265929,
-      "num": 1265929,
-      "word": "准00后女干部黄左梦琪已任副镇长",
-      "onboard_time": 1714013537,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -4091,6 +4091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1109800,
+      "num": 1109800,
+      "word": "郑合惠子 不红你就是没有话语权",
+      "onboard_time": 1714015277,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1109709,
       "num": 1109709,
       "word": "iPhone16或取消实体音量键电源键",
@@ -4777,14 +4785,6 @@
       "onboard_time": 1711960762,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1031598,
-      "num": 1031598,
-      "word": "郑合惠子 不红你就是没有话语权",
-      "onboard_time": 1714015277,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1030793,
@@ -15939,6 +15939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 487841,
+      "num": 487841,
+      "word": "赵雅芝工作室辟谣去世传言",
+      "onboard_time": 1714017619,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487620,
       "num": 487620,
       "word": "徐海乔演技",
@@ -16169,6 +16177,14 @@
       "onboard_time": 1712664320,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 484236,
+      "num": 355472,
+      "word": "27岁越来越不敢和我爸说话",
+      "onboard_time": 1714018038,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 484073,
@@ -16593,6 +16609,14 @@
       "onboard_time": 1713835759,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 475185,
+      "num": 475185,
+      "word": "刘宇宁夸迪丽热巴抗住了死亡角度",
+      "onboard_time": 1714018459,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 474687,
@@ -21195,14 +21219,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 382741,
-      "num": 382741,
-      "word": "赵雅芝工作室辟谣去世传言",
-      "onboard_time": 1714017619,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 382720,
       "num": 308768,
       "word": "微信删好友应不应该先打招呼",
@@ -21643,6 +21659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 375264,
+      "num": 375264,
+      "word": "官方公布机器人太奶售价80万",
+      "onboard_time": 1714016659,
+      "rank": 17,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 375262,
       "num": 375262,
       "word": "行止要当爸爸了",
@@ -21937,6 +21961,14 @@
       "onboard_time": 1713053296,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 368565,
+      "num": 368565,
+      "word": "咒术回战 虎杖腿没了",
+      "onboard_time": 1714018520,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 368490,
@@ -22497,14 +22529,6 @@
       "onboard_time": 1713452299,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 357660,
-      "num": 357660,
-      "word": "官方公布机器人太奶售价80万",
-      "onboard_time": 1714016659,
-      "rank": 17,
-      "category": "科学科普"
     },
     {
       "raw_hot": 357577,
@@ -23971,6 +23995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335314,
+      "num": 335314,
+      "word": "金靖 怀孕",
+      "onboard_time": 1714019539,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335266,
       "num": 335266,
       "word": "体检查出幽门螺杆菌怎么办",
@@ -24097,14 +24129,6 @@
       "onboard_time": 1713850398,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 333356,
-      "num": 333356,
-      "word": "27岁越来越不敢和我爸说话",
-      "onboard_time": 1714018038,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 333302,
@@ -25409,14 +25433,6 @@
       "onboard_time": 1713688039,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314448,
-      "num": 314448,
-      "word": "刘宇宁夸迪丽热巴抗住了死亡角度",
-      "onboard_time": 1714018459,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 314433,
@@ -29513,6 +29529,14 @@
       "onboard_time": 1713246497,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 266823,
+      "num": 266823,
+      "word": "光遇新季节",
+      "onboard_time": 1714018698,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 266768,
@@ -37547,6 +37571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209599,
+      "num": 209599,
+      "word": "林毅夫称中国经济总量2030年超美国",
+      "onboard_time": 1714018997,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209564,
       "num": 209564,
       "word": "seventeen特典",
@@ -41129,14 +41161,6 @@
       "onboard_time": 1713578237,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 197173,
-      "num": 197173,
-      "word": "咒术回战 虎杖腿没了",
-      "onboard_time": 1714018520,
-      "rank": 37,
-      "category": "动漫"
     },
     {
       "raw_hot": 197160,
@@ -49713,14 +49737,6 @@
       "onboard_time": 1713267139,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166306,
-      "num": 166306,
-      "word": "光遇新季节",
-      "onboard_time": 1714018698,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 166284,
@@ -59955,6 +59971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130350,
+      "num": 360432,
+      "word": "尹同跃头发都白了",
+      "onboard_time": 1714018760,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 130341,
       "num": 130341,
       "word": "李荣浩新专",
@@ -66259,6 +66283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83373,
+      "num": 296628,
+      "word": "能跑2000km的中国雷神",
+      "onboard_time": 1714017799,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 83254,
       "num": 83254,
       "word": "宫崎骏电影里有好多杨迪",
@@ -66488,14 +66520,6 @@
       "word": "被大G电到了",
       "onboard_time": 1713954319,
       "rank": 34,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 78903,
-      "num": 268839,
-      "word": "能跑2000km的中国雷神",
-      "onboard_time": 1714017799,
-      "rank": 26,
       "category": "汽车"
     },
     {
@@ -67555,6 +67579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60720,
+      "num": 476454,
+      "word": "朱一龙侧脸杀",
+      "onboard_time": 1714016598,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 60653,
       "num": 60653,
       "word": "声音玩具演唱会",
@@ -67625,6 +67657,14 @@
       "onboard_time": 1713218171,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59841,
+      "num": 351261,
+      "word": "魏牌蓝山全场景NOA首发即无图",
+      "onboard_time": 1714018099,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59785,
@@ -68003,14 +68043,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 54685,
-      "num": 412764,
-      "word": "朱一龙侧脸杀",
-      "onboard_time": 1714016598,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 54446,
       "num": 54446,
       "word": "一90后被证监会罚没2.7亿元",
@@ -68209,14 +68241,6 @@
       "onboard_time": 1712353812,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 52334,
-      "num": 317365,
-      "word": "魏牌蓝山全场景NOA首发即无图",
-      "onboard_time": 1714018099,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52307,
@@ -70171,6 +70195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 21603,
+      "num": 199211,
+      "word": "埃安再造第三个爆款",
+      "onboard_time": 1714018760,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 21547,
       "num": 21547,
       "word": "反向画饼领导当真了",
@@ -70289,14 +70321,6 @@
       "onboard_time": 1713897851,
       "rank": 41,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 19731,
-      "num": 144165,
-      "word": "埃安再造第三个爆款",
-      "onboard_time": 1714018760,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 19561,
@@ -70739,6 +70763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11844,
+      "num": 146555,
+      "word": "原创才是最高级的种草",
+      "onboard_time": 1714019601,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 11730,
       "num": 17865,
       "word": "80岁外公学会网购后买了1部电梯",
@@ -70819,16 +70851,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 7161,
-      "num": 152873,
-      "word": "尹同跃头发都白了",
-      "onboard_time": 1714018760,
-      "rank": 46,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 6641,
-      "num": 1078710,
+      "num": 1156662,
       "word": "2024中关村论坛年会",
       "onboard_time": 1714017619,
       "rank": 2,
