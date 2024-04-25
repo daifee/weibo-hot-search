@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1714029474790,
+  "endTime": 1714030449352,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -73,6 +73,14 @@
       "onboard_time": 1714023141,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1247264,
+      "num": 1247264,
+      "word": "金靖怀孕录的萌探4",
+      "onboard_time": 1714028900,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1190232,
@@ -267,11 +275,11 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 553443,
-      "num": 463956,
-      "word": "金靖怀孕录的萌探4",
-      "onboard_time": 1714028900,
-      "rank": 6,
+      "raw_hot": 549328,
+      "num": 549328,
+      "word": "武艺双眼皮烧成了单眼皮",
+      "onboard_time": 1714027099,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489095,
+      "num": 489095,
+      "word": "方时赫说要把aespa踩在脚下",
+      "onboard_time": 1714029320,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487841,
       "num": 487841,
       "word": "赵雅芝工作室辟谣去世传言",
@@ -347,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 459742,
+      "num": 459742,
+      "word": "韩军方考虑全面禁止iPhone进入军事建筑",
+      "onboard_time": 1714026800,
+      "rank": 28,
+      "category": "国外时政,数码"
+    },
+    {
       "raw_hot": 458503,
       "num": 458503,
       "word": "秦海璐想到十年后的北斗七行哭了",
@@ -363,19 +387,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 449932,
-      "num": 449932,
-      "word": "韩军方考虑全面禁止iPhone进入军事建筑",
-      "onboard_time": 1714026800,
-      "rank": 28,
-      "category": "国外时政,数码"
-    },
-    {
-      "raw_hot": 447686,
-      "num": 447686,
-      "word": "武艺双眼皮烧成了单眼皮",
-      "onboard_time": 1714027099,
-      "rank": 8,
+      "raw_hot": 441690,
+      "num": 441690,
+      "word": "迪丽热巴短裙转圈",
+      "onboard_time": 1714027040,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -411,15 +427,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 419032,
-      "num": 419032,
-      "word": "迪丽热巴短裙转圈",
-      "onboard_time": 1714027040,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 416598,
+      "raw_hot": 417638,
       "num": 416598,
       "word": "颜如晶18天减重14斤",
       "onboard_time": 1714026918,
@@ -564,7 +572,7 @@
     },
     {
       "raw_hot": 326348,
-      "num": 200423,
+      "num": 231972,
       "word": "李现周雨彤电梯神图",
       "onboard_time": 1714027760,
       "rank": 25,
@@ -601,6 +609,14 @@
       "onboard_time": 1714011677,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302314,
+      "num": 233832,
+      "word": "我是不结婚 不是不交电费",
+      "onboard_time": 1714029079,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 292225,
@@ -771,6 +787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 250833,
+      "num": 196059,
+      "word": "甄嬛传 太相似的人无法相爱",
+      "onboard_time": 1714029799,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249925,
       "num": 224227,
       "word": "深圳现暴雨天给绿植浇水引质疑",
@@ -819,14 +843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235810,
-      "num": 158158,
-      "word": "方时赫说要把aespa踩在脚下",
-      "onboard_time": 1714029320,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235421,
       "num": 235421,
       "word": "看牙为什么这么贵了",
@@ -835,11 +851,27 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 234546,
+      "num": 163114,
+      "word": "杨幂白衬衫牛仔裤",
+      "onboard_time": 1714029978,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234292,
       "num": 216850,
       "word": "粥饼伦称周杰伦是他的贵人",
       "onboard_time": 1714025961,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 234095,
+      "num": 162979,
+      "word": "HYBE闵熙珍别打了",
+      "onboard_time": 1714029020,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -939,6 +971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 221158,
+      "num": 221158,
+      "word": "老人摆摊日入8元被收10元摊位费",
+      "onboard_time": 1714029380,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219667,
       "num": 219667,
       "word": "浙江宣传谈调休",
@@ -1027,14 +1067,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 208936,
-      "num": 139438,
-      "word": "HYBE闵熙珍别打了",
-      "onboard_time": 1714029020,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206475,
       "num": 206475,
       "word": "KEP1ER七月解散",
@@ -1048,6 +1080,14 @@
       "word": "官方通报海南3个小孩被锁家里",
       "onboard_time": 1714000936,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202797,
+      "num": 202797,
+      "word": "煮肘 二妞妈",
+      "onboard_time": 1714029618,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1275,6 +1315,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 172449,
+      "num": 144424,
+      "word": "狗头萝莉流泪回应",
+      "onboard_time": 1714030398,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 171567,
       "num": 220996,
       "word": "中国版Cybertruck引爆北京车展",
@@ -1305,6 +1353,14 @@
       "onboard_time": 1714006938,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 162621,
+      "num": 162621,
+      "word": "TheShy说英雄联盟依然很有趣",
+      "onboard_time": 1714025601,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 161141,
@@ -1427,6 +1483,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 145409,
+      "num": 145409,
+      "word": "上班后诱惑力最大的是辞职",
+      "onboard_time": 1714029559,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143864,
       "num": 143864,
       "word": "A股长城汽车一字涨停",
@@ -1459,28 +1523,12 @@
       "category": "互联网,国外时政"
     },
     {
-      "raw_hot": 141167,
-      "num": 141167,
-      "word": "我是不结婚 不是不交电费",
-      "onboard_time": 1714029079,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 140305,
       "num": 359912,
       "word": "原创才是最高级的种草",
       "onboard_time": 1714019601,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 139952,
-      "num": 139952,
-      "word": "TheShy说英雄联盟依然很有趣",
-      "onboard_time": 1714025601,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 139489,
@@ -1620,7 +1668,7 @@
     },
     {
       "raw_hot": 117683,
-      "num": 419165,
+      "num": 424141,
       "word": "在奔驰中超越奔驰",
       "onboard_time": 1714026021,
       "rank": 47,
@@ -1729,6 +1777,14 @@
       "onboard_time": 1713971538,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100921,
+      "num": 143511,
+      "word": "迈巴河来了",
+      "onboard_time": 1714030398,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 97442,
@@ -1937,6 +1993,14 @@
       "onboard_time": 1714008857,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39045,
+      "num": 187683,
+      "word": "努力建设世界一流军医大学",
+      "onboard_time": 1714029859,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 38350,
