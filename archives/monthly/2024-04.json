@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714033423006,
+  "endTime": 1714034155869,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -163,20 +163,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 3614744,
+      "num": 312234,
+      "word": "潍坊出轨",
+      "onboard_time": 1714031358,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3562153,
       "num": 3562153,
       "word": "李闽轩回应",
       "onboard_time": 1713879380,
       "rank": 0,
       "category": "网红"
-    },
-    {
-      "raw_hot": 3471242,
-      "num": 296788,
-      "word": "潍坊出轨",
-      "onboard_time": 1714031358,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3410457,
@@ -8499,6 +8499,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 753781,
+      "num": 304861,
+      "word": "NewJeans哭着问闵熙珍要怎么办",
+      "onboard_time": 1714032199,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 753390,
       "num": 753390,
       "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
@@ -8873,14 +8881,6 @@
       "onboard_time": 1712230099,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 733535,
-      "num": 290499,
-      "word": "NewJeans哭着问闵熙珍要怎么办",
-      "onboard_time": 1714032199,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 733388,
@@ -13177,6 +13177,14 @@
       "onboard_time": 1713314300,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 566474,
+      "num": 566474,
+      "word": "杭州爬山失联女子已找到丈夫发声",
+      "onboard_time": 1714032799,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 566126,
@@ -20107,6 +20115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 405869,
+      "num": 405869,
+      "word": "老人摆摊日入8元被收10元摊位费",
+      "onboard_time": 1714029380,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405853,
       "num": 405853,
       "word": "山西吕梁重大火灾调查报告公布",
@@ -20595,14 +20611,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 396265,
-      "num": 396265,
-      "word": "老人摆摊日入8元被收10元摊位费",
-      "onboard_time": 1714029380,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 396254,
       "num": 396254,
       "word": "王楚钦奥运积分",
@@ -20809,6 +20817,14 @@
       "onboard_time": 1713178520,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 393608,
+      "num": 206741,
+      "word": "老年艾滋病患者无法言说的性与痛",
+      "onboard_time": 1714032859,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 393456,
@@ -22033,6 +22049,14 @@
       "onboard_time": 1712401459,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370935,
+      "num": 282374,
+      "word": "闵熙珍 MINJI小时候很漂亮",
+      "onboard_time": 1714033819,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 370678,
@@ -23891,6 +23915,14 @@
       "category": "母婴育儿,社会新闻"
     },
     {
+      "raw_hot": 341272,
+      "num": 270224,
+      "word": "闵熙珍发布会",
+      "onboard_time": 1714033278,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341197,
       "num": 305700,
       "word": "婚后不建议和父母住一起",
@@ -25043,14 +25075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 322910,
-      "num": 289758,
-      "word": "杭州爬山失联女子已找到丈夫发声",
-      "onboard_time": 1714032799,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322862,
       "num": 322862,
       "word": "试用期一天被辞退要工资有错吗",
@@ -25499,6 +25523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316797,
+      "num": 316797,
+      "word": "张碧晨玩机车是因为赵丽颖",
+      "onboard_time": 1714032859,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 316342,
       "num": 316342,
       "word": "Epic愚人节宣布收购Steam",
@@ -25529,14 +25561,6 @@
       "onboard_time": 1713357439,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 315988,
-      "num": 270224,
-      "word": "闵熙珍发布会",
-      "onboard_time": 1714033278,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 315822,
@@ -26524,11 +26548,19 @@
     },
     {
       "raw_hot": 303933,
-      "num": 284384,
+      "num": 292917,
       "word": "煮肘 二妞妈",
       "onboard_time": 1714029618,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303675,
+      "num": 303675,
+      "word": "多益网络徐波称被前女友卷走3亿",
+      "onboard_time": 1714031658,
+      "rank": 8,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 303659,
@@ -26569,14 +26601,6 @@
       "onboard_time": 1712025198,
       "rank": 15,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 302860,
-      "num": 302860,
-      "word": "多益网络徐波称被前女友卷走3亿",
-      "onboard_time": 1714031658,
-      "rank": 8,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 302853,
@@ -26793,6 +26817,14 @@
       "onboard_time": 1713500299,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300375,
+      "num": 266691,
+      "word": "秦岚晒了北斗七行合照",
+      "onboard_time": 1714032618,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 300323,
@@ -29851,14 +29883,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 266691,
-      "num": 266691,
-      "word": "秦岚晒了北斗七行合照",
-      "onboard_time": 1714032618,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266620,
       "num": 266620,
       "word": "春色寄情人",
@@ -31465,14 +31489,6 @@
       "onboard_time": 1713011418,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 252497,
-      "num": 206741,
-      "word": "老年艾滋病患者无法言说的性与痛",
-      "onboard_time": 1714032859,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 252469,
@@ -34643,6 +34659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 229842,
+      "num": 229842,
+      "word": "雷军现身比亚迪展台",
+      "onboard_time": 1714034118,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 229792,
       "num": 229792,
       "word": "美方要求耶伦就餐时大厅打开隔断",
@@ -35673,14 +35697,6 @@
       "onboard_time": 1712036180,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 222964,
-      "num": 222964,
-      "word": "张碧晨玩机车是因为赵丽颖",
-      "onboard_time": 1714032859,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 222913,
@@ -37649,6 +37665,14 @@
       "onboard_time": 1713076099,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 211018,
+      "num": 211018,
+      "word": "睡不着就在床头放个橘子",
+      "onboard_time": 1714033278,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 210968,
@@ -39945,6 +39969,14 @@
       "onboard_time": 1713699858,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 202708,
+      "num": 202708,
+      "word": "Uzi梦幻联动剑网三",
+      "onboard_time": 1714033458,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 202687,
@@ -53115,6 +53147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155912,
+      "num": 155912,
+      "word": "人真的会笑死吗",
+      "onboard_time": 1714033759,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 155850,
       "num": 155850,
       "word": "EXO12周年留言",
@@ -55225,14 +55265,6 @@
       "onboard_time": 1713362839,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149300,
-      "num": 149300,
-      "word": "睡不着就在床头放个橘子",
-      "onboard_time": 1714033278,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 149294,
@@ -60131,6 +60163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132388,
+      "num": 132388,
+      "word": "hybe将对newjeans进行心理疏导",
+      "onboard_time": 1714032140,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132306,
       "num": 132306,
       "word": "追风者男团跳舞",
@@ -64179,6 +64219,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 113037,
+      "num": 315963,
+      "word": "00后边防新兵巡逻前vs巡逻后",
+      "onboard_time": 1714033339,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112957,
       "num": 112957,
       "word": "侵权商家向杨幂道歉",
@@ -65388,7 +65436,7 @@
     },
     {
       "raw_hot": 104281,
-      "num": 282593,
+      "num": 289378,
       "word": "科技让中药传承迎来新机遇",
       "onboard_time": 1714032379,
       "rank": 19,
@@ -68017,14 +68065,6 @@
       "onboard_time": 1712773451,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 67453,
-      "num": 271241,
-      "word": "00后边防新兵巡逻前vs巡逻后",
-      "onboard_time": 1714033339,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67449,

@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1714033423006,
+  "endTime": 1714034155869,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3471242,
-      "num": 296788,
+      "raw_hot": 3614744,
+      "num": 312234,
       "word": "潍坊出轨",
       "onboard_time": 1714031358,
       "rank": 11,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 753781,
+      "num": 304861,
+      "word": "NewJeans哭着问闵熙珍要怎么办",
+      "onboard_time": 1714032199,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 742860,
       "num": 742860,
       "word": "以色列",
@@ -201,14 +209,6 @@
       "onboard_time": 1714012338,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 733535,
-      "num": 290499,
-      "word": "NewJeans哭着问闵熙珍要怎么办",
-      "onboard_time": 1714032199,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 721403,
@@ -305,6 +305,14 @@
       "onboard_time": 1714010118,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 566474,
+      "num": 566474,
+      "word": "杭州爬山失联女子已找到丈夫发声",
+      "onboard_time": 1714032799,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 549328,
@@ -491,6 +499,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 405869,
+      "num": 405869,
+      "word": "老人摆摊日入8元被收10元摊位费",
+      "onboard_time": 1714029380,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401467,
       "num": 371566,
       "word": "肖战入选世界十大最美面孔",
@@ -504,14 +520,6 @@
       "word": "这些人工合成水果又出来骗人了",
       "onboard_time": 1713952998,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396265,
-      "num": 396265,
-      "word": "老人摆摊日入8元被收10元摊位费",
-      "onboard_time": 1714029380,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -529,6 +537,14 @@
       "onboard_time": 1714016659,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 393608,
+      "num": 206741,
+      "word": "老年艾滋病患者无法言说的性与痛",
+      "onboard_time": 1714032859,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 388495,
@@ -561,6 +577,14 @@
       "onboard_time": 1714016659,
       "rank": 17,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 370935,
+      "num": 282374,
+      "word": "闵熙珍 MINJI小时候很漂亮",
+      "onboard_time": 1714033819,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 370649,
@@ -603,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341272,
+      "num": 270224,
+      "word": "闵熙珍发布会",
+      "onboard_time": 1714033278,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335314,
       "num": 335314,
       "word": "金靖 怀孕",
@@ -635,14 +667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 322910,
-      "num": 289758,
-      "word": "杭州爬山失联女子已找到丈夫发声",
-      "onboard_time": 1714032799,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 321240,
       "num": 232796,
       "word": "丁俊晖连续4年世锦赛首轮出局",
@@ -651,12 +675,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 315988,
-      "num": 270224,
-      "word": "闵熙珍发布会",
-      "onboard_time": 1714033278,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 316797,
+      "num": 316797,
+      "word": "张碧晨玩机车是因为赵丽颖",
+      "onboard_time": 1714032859,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 314762,
@@ -684,15 +708,15 @@
     },
     {
       "raw_hot": 303933,
-      "num": 284384,
+      "num": 292917,
       "word": "煮肘 二妞妈",
       "onboard_time": 1714029618,
       "rank": 24,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302860,
-      "num": 302860,
+      "raw_hot": 303675,
+      "num": 303675,
       "word": "多益网络徐波称被前女友卷走3亿",
       "onboard_time": 1714031658,
       "rank": 8,
@@ -705,6 +729,14 @@
       "onboard_time": 1714030579,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300375,
+      "num": 266691,
+      "word": "秦岚晒了北斗七行合照",
+      "onboard_time": 1714032618,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 292225,
@@ -803,14 +835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 266691,
-      "num": 266691,
-      "word": "秦岚晒了北斗七行合照",
-      "onboard_time": 1714032618,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265080,
       "num": 265080,
       "word": "黎深教学",
@@ -873,14 +897,6 @@
       "onboard_time": 1714020201,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 252497,
-      "num": 206741,
-      "word": "老年艾滋病患者无法言说的性与痛",
-      "onboard_time": 1714032859,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 251434,
@@ -1003,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229842,
+      "num": 229842,
+      "word": "雷军现身比亚迪展台",
+      "onboard_time": 1714034118,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 227926,
       "num": 227926,
       "word": "秦海璐霸总小说书单",
@@ -1065,14 +1089,6 @@
       "onboard_time": 1714026202,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 222964,
-      "num": 222964,
-      "word": "张碧晨玩机车是因为赵丽颖",
-      "onboard_time": 1714032859,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 221958,
@@ -1147,6 +1163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211018,
+      "num": 211018,
+      "word": "睡不着就在床头放个橘子",
+      "onboard_time": 1714033278,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210071,
       "num": 221803,
       "word": "五一所有人都去哪儿玩",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1714000936,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202708,
+      "num": 202708,
+      "word": "Uzi梦幻联动剑网三",
+      "onboard_time": 1714033458,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 201766,
@@ -1515,6 +1547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155912,
+      "num": 155912,
+      "word": "人真的会笑死吗",
+      "onboard_time": 1714033759,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 152418,
       "num": 152418,
       "word": "身体哪个部位最难瘦下来",
@@ -1553,14 +1593,6 @@
       "onboard_time": 1714026141,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149300,
-      "num": 149300,
-      "word": "睡不着就在床头放个橘子",
-      "onboard_time": 1714033278,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 149239,
@@ -1755,6 +1787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132388,
+      "num": 132388,
+      "word": "hybe将对newjeans进行心理疏导",
+      "onboard_time": 1714032140,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130350,
       "num": 360432,
       "word": "尹同跃头发都白了",
@@ -1859,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113037,
+      "num": 315963,
+      "word": "00后边防新兵巡逻前vs巡逻后",
+      "onboard_time": 1714033339,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112966,
       "num": 112966,
       "word": "冠军赛叶诗文200蛙夺冠",
@@ -1908,7 +1956,7 @@
     },
     {
       "raw_hot": 104281,
-      "num": 282593,
+      "num": 289378,
       "word": "科技让中药传承迎来新机遇",
       "onboard_time": 1714032379,
       "rank": 19,
@@ -2073,14 +2121,6 @@
       "onboard_time": 1713964279,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 67453,
-      "num": 271241,
-      "word": "00后边防新兵巡逻前vs巡逻后",
-      "onboard_time": 1714033339,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60720,
