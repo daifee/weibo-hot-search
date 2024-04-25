@@ -1,0 +1,410 @@
+{
+  "runTime": 1714007791877,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2184582,
+        "num": 2184582,
+        "word": "官方回应社保缴满15年就坐等退休",
+        "onboard_time": 1714001837,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774380,
+        "num": 774380,
+        "word": "狗头萝莉自曝找到员工了",
+        "onboard_time": 1713981973,
+        "rank": 1,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 12158,
+        "num": 762766,
+        "word": "万千气象看山西",
+        "onboard_time": 1713842298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1042516,
+        "num": 758673,
+        "word": "电梯从20楼坠落致物业工作人员死亡",
+        "onboard_time": 1714002317,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818012,
+        "num": 757624,
+        "word": "唐家三少说再婚会通知书友",
+        "onboard_time": 1714003878,
+        "rank": 4,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 754463,
+        "num": 754463,
+        "word": "彩礼该以女方陪嫁形式返还小家庭吗",
+        "onboard_time": 1714005319,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721403,
+        "num": 721403,
+        "word": "眼泪女王洪海仁原定IU出演",
+        "onboard_time": 1714003818,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 617967,
+        "num": 617967,
+        "word": "刚开业价值300万黄金被洗劫一空",
+        "onboard_time": 1714004539,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 481536,
+        "num": 481536,
+        "word": "花少第一站破碎的是张翰",
+        "onboard_time": 1713971719,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137456,
+        "num": 481295,
+        "word": "老爷爷带写着金婚快乐的玫瑰乘地铁",
+        "onboard_time": 1714006878,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 967102,
+        "num": 455694,
+        "word": "王一博鲨鱼夹",
+        "onboard_time": 1714002559,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 530694,
+        "num": 433963,
+        "word": "TikTok发声明反对剥离法案",
+        "onboard_time": 1714003097,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 529886,
+        "num": 412019,
+        "word": "东郊到家回应男子被女技师色诱加钟",
+        "onboard_time": 1714004239,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406589,
+        "num": 406589,
+        "word": "特斯拉市值一夜大涨4028亿",
+        "onboard_time": 1714000575,
+        "rank": 13,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 392740,
+        "num": 392740,
+        "word": "男孩骑车失误刹车把手插进大腿里",
+        "onboard_time": 1713974117,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387949,
+        "num": 387949,
+        "word": "淫秽物品认定标准",
+        "onboard_time": 1714004959,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 341154,
+        "num": 341154,
+        "word": "叶诗文决定退出200混比赛",
+        "onboard_time": 1714006639,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317451,
+        "num": 317451,
+        "word": "肖战入选世界十大最美面孔",
+        "onboard_time": 1714004959,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283921,
+        "num": 283921,
+        "word": "凤凰传奇 上头",
+        "onboard_time": 1714006278,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270026,
+        "num": 270026,
+        "word": "郭艾伦向贾跃亭讨债",
+        "onboard_time": 1714002016,
+        "rank": 19,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 465351,
+        "num": 259059,
+        "word": "田馥甄发微博",
+        "onboard_time": 1713964220,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 444214,
+        "num": 254909,
+        "word": "男子多次性侵前女友11岁女儿获刑16年",
+        "onboard_time": 1713968059,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280350,
+        "num": 252487,
+        "word": "微信区分单删互删",
+        "onboard_time": 1713968659,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 247850,
+        "num": 247850,
+        "word": "庞博工作室比庞博还好笑",
+        "onboard_time": 1714001596,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225233,
+        "num": 225233,
+        "word": "周雨彤我替你演两集吧",
+        "onboard_time": 1714005799,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219667,
+        "num": 219667,
+        "word": "浙江宣传谈调休",
+        "onboard_time": 1714007058,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216970,
+        "num": 216970,
+        "word": "买长乘短是一种不折不扣的双输",
+        "onboard_time": 1713972858,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 198498,
+        "num": 198498,
+        "word": "给三任男朋友送了同一款香水",
+        "onboard_time": 1714006399,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197613,
+        "num": 197613,
+        "word": "张艺兴提前三个月练习首个话剧舞台",
+        "onboard_time": 1714004539,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187636,
+        "num": 187636,
+        "word": "大麦网已退票退款",
+        "onboard_time": 1713952578,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192549,
+        "num": 186503,
+        "word": "秦海璐是花少好友记第一站导游",
+        "onboard_time": 1714006759,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182414,
+        "num": 182414,
+        "word": "眼泪女王",
+        "onboard_time": 1714004599,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174921,
+        "num": 174921,
+        "word": "萌兰的腿怎么突然变1米9了",
+        "onboard_time": 1714005678,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170570,
+        "num": 170570,
+        "word": "深圳现暴雨天给绿植浇水引质疑",
+        "onboard_time": 1713980352,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166187,
+        "num": 166187,
+        "word": "2000元人参泡酒15年后发芽了",
+        "onboard_time": 1713978854,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164478,
+        "num": 164478,
+        "word": "身份证号码中包含X该如何买票",
+        "onboard_time": 1713964878,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 163662,
+        "num": 163662,
+        "word": "未来的国际月球科研站什么样",
+        "onboard_time": 1714006938,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 156503,
+        "num": 156503,
+        "word": "这些人工合成水果又出来骗人了",
+        "onboard_time": 1713952998,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156415,
+        "num": 156415,
+        "word": "妈妈将3个孩子反锁家中1天只吃1顿",
+        "onboard_time": 1714007417,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152418,
+        "num": 152418,
+        "word": "身体哪个部位最难瘦下来",
+        "onboard_time": 1713989412,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 148180,
+        "num": 148180,
+        "word": "福宝吃播上新胃口好极了",
+        "onboard_time": 1714006099,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143163,
+        "num": 143163,
+        "word": "官方通报海南3个小孩被锁家里",
+        "onboard_time": 1714000936,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142351,
+        "num": 142351,
+        "word": "周受资回应拜登签署TikTok剥离法案",
+        "onboard_time": 1714007538,
+        "rank": 42,
+        "category": "互联网,国外时政"
+      },
+      {
+        "raw_hot": 136019,
+        "num": 136019,
+        "word": "晚安大小姐",
+        "onboard_time": 1714005499,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134065,
+        "num": 134065,
+        "word": "尚雯婕果冻鞋",
+        "onboard_time": 1714002198,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128859,
+        "num": 128859,
+        "word": "世界防治疟疾日",
+        "onboard_time": 1714007117,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120478,
+        "num": 120478,
+        "word": "秦海璐霸总小说书单",
+        "onboard_time": 1713959958,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119453,
+        "num": 119453,
+        "word": "唐家三少宣布停更",
+        "onboard_time": 1713965540,
+        "rank": 47,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 116230,
+        "num": 116230,
+        "word": "拜登竞选团队用TikTok拉拢年轻选民",
+        "onboard_time": 1714007718,
+        "rank": 48,
+        "category": "国外时政,互联网"
+      },
+      {
+        "raw_hot": 113019,
+        "num": 113019,
+        "word": "养7年狗被偷找到时只剩20斤残肢",
+        "onboard_time": 1713966019,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写西部大开发新篇章#"
+    }
+  }
+}

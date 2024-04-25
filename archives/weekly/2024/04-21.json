@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714001670612,
+  "endTime": 1714007791877,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -161,6 +161,14 @@
       "onboard_time": 1713697578,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2184582,
+      "num": 2184582,
+      "word": "官方回应社保缴满15年就坐等退休",
+      "onboard_time": 1714001837,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2163133,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 1234571,
-      "num": 245743,
+      "num": 254909,
       "word": "男子多次性侵前女友11岁女儿获刑16年",
       "onboard_time": 1713968059,
       "rank": 22,
@@ -779,6 +787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1042516,
+      "num": 758673,
+      "word": "电梯从20楼坠落致物业工作人员死亡",
+      "onboard_time": 1714002317,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1041507,
       "num": 884039,
       "word": "茶百道上市首日跌超10%",
@@ -921,6 +937,14 @@
       "onboard_time": 1713629118,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 967102,
+      "num": 455694,
+      "word": "王一博鲨鱼夹",
+      "onboard_time": 1714002559,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 965931,
@@ -1156,7 +1180,7 @@
     },
     {
       "raw_hot": 849483,
-      "num": 231589,
+      "num": 252487,
       "word": "微信区分单删互删",
       "onboard_time": 1713968659,
       "rank": 21,
@@ -1267,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 818012,
+      "num": 757624,
+      "word": "唐家三少说再婚会通知书友",
+      "onboard_time": 1714003878,
+      "rank": 4,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 815652,
       "num": 815652,
       "word": "黄金白银集体大跌",
@@ -1331,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 774380,
+      "num": 774380,
+      "word": "狗头萝莉自曝找到员工了",
+      "onboard_time": 1713981973,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 771184,
       "num": 771184,
       "word": "辅导员回应多地高校禁止学生挂床帘",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1713625098,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 754463,
+      "num": 754463,
+      "word": "彩礼该以女方陪嫁形式返还小家庭吗",
+      "onboard_time": 1714005319,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 742860,
@@ -1489,6 +1537,14 @@
       "onboard_time": 1713922456,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 721403,
+      "num": 721403,
+      "word": "眼泪女王洪海仁原定IU出演",
+      "onboard_time": 1714003818,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 714998,
@@ -1937,6 +1993,14 @@
       "onboard_time": 1713763219,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 617967,
+      "num": 617967,
+      "word": "刚开业价值300万黄金被洗劫一空",
+      "onboard_time": 1714004539,
+      "rank": 7,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 616363,
@@ -2427,12 +2491,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 530694,
+      "num": 433963,
+      "word": "TikTok发声明反对剥离法案",
+      "onboard_time": 1714003097,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 530255,
       "num": 530255,
       "word": "何瑞之 冷暴力",
       "onboard_time": 1713687199,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 529886,
+      "num": 412019,
+      "word": "东郊到家回应男子被女技师色诱加钟",
+      "onboard_time": 1714004239,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 529136,
@@ -2449,14 +2529,6 @@
       "onboard_time": 1713927197,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 526036,
-      "num": 526036,
-      "word": "狗头萝莉自曝找到员工了",
-      "onboard_time": 1713981973,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 525227,
@@ -3395,6 +3467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406589,
+      "num": 406589,
+      "word": "特斯拉市值一夜大涨4028亿",
+      "onboard_time": 1714000575,
+      "rank": 24,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 406380,
       "num": 406380,
       "word": "aespa正规一辑预告",
@@ -3585,6 +3665,14 @@
       "onboard_time": 1713787818,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 387949,
+      "num": 387949,
+      "word": "淫秽物品认定标准",
+      "onboard_time": 1714004959,
+      "rank": 15,
+      "category": "科学科普"
     },
     {
       "raw_hot": 387543,
@@ -3995,6 +4083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341154,
+      "num": 341154,
+      "word": "叶诗文决定退出200混比赛",
+      "onboard_time": 1714006639,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340180,
       "num": 340180,
       "word": "CherryBullet解散",
@@ -4249,6 +4345,14 @@
       "onboard_time": 1713844278,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 317451,
+      "num": 317451,
+      "word": "肖战入选世界十大最美面孔",
+      "onboard_time": 1714004959,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 315742,
@@ -4683,6 +4787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 283921,
+      "num": 283921,
+      "word": "凤凰传奇 上头",
+      "onboard_time": 1714006278,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 283393,
       "num": 249270,
       "word": "戚薇 蔡文静",
@@ -4867,6 +4979,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 270026,
+      "num": 270026,
+      "word": "郭艾伦向贾跃亭讨债",
+      "onboard_time": 1714002016,
+      "rank": 19,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 269761,
       "num": 269761,
       "word": "李现微博头像是两部剧角色",
@@ -5049,14 +5169,6 @@
       "onboard_time": 1713625520,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 260806,
-      "num": 227061,
-      "word": "特斯拉市值一夜大涨4028亿",
-      "onboard_time": 1714000575,
-      "rank": 24,
-      "category": "财经,汽车"
     },
     {
       "raw_hot": 260775,
@@ -5305,6 +5417,14 @@
       "onboard_time": 1713972858,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 247850,
+      "num": 247850,
+      "word": "庞博工作室比庞博还好笑",
+      "onboard_time": 1714001596,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 247819,
@@ -5939,6 +6059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225233,
+      "num": 225233,
+      "word": "周雨彤我替你演两集吧",
+      "onboard_time": 1714005799,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225185,
       "num": 225185,
       "word": "广东70个暴雨预警信号生效中",
@@ -6041,6 +6169,14 @@
       "onboard_time": 1713779418,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219667,
+      "num": 219667,
+      "word": "浙江宣传谈调休",
+      "onboard_time": 1714007058,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219366,
@@ -7003,6 +7139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198498,
+      "num": 198498,
+      "word": "给三任男朋友送了同一款香水",
+      "onboard_time": 1714006399,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198383,
       "num": 198383,
       "word": "难以想象五一去旅游的人会有多少",
@@ -7025,6 +7169,14 @@
       "onboard_time": 1713660798,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 197613,
+      "num": 197613,
+      "word": "张艺兴提前三个月练习首个话剧舞台",
+      "onboard_time": 1714004539,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 197508,
@@ -7312,6 +7464,14 @@
       "word": "戚薇 哪有轻而易举都是用尽全力",
       "onboard_time": 1713686779,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192549,
+      "num": 186503,
+      "word": "秦海璐是花少好友记第一站导游",
+      "onboard_time": 1714006759,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -8299,6 +8459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174921,
+      "num": 174921,
+      "word": "萌兰的腿怎么突然变1米9了",
+      "onboard_time": 1714005678,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174777,
       "num": 174777,
       "word": "月经失调会影响怀孕吗",
@@ -8827,6 +8995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163662,
+      "num": 163662,
+      "word": "未来的国际月球科研站什么样",
+      "onboard_time": 1714006938,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 163611,
       "num": 163611,
       "word": "浓眉和湖人球迷一样无助",
@@ -9219,6 +9395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156415,
+      "num": 156415,
+      "word": "妈妈将3个孩子反锁家中1天只吃1顿",
+      "onboard_time": 1714007417,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156278,
       "num": 156278,
       "word": "12306 理财",
@@ -9491,6 +9675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152418,
+      "num": 152418,
+      "word": "身体哪个部位最难瘦下来",
+      "onboard_time": 1713989412,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 152207,
       "num": 152207,
       "word": "埃弗顿2比0利物浦",
@@ -9729,6 +9921,14 @@
       "onboard_time": 1713799338,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148180,
+      "num": 148180,
+      "word": "福宝吃播上新胃口好极了",
+      "onboard_time": 1714006099,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148112,
@@ -10099,6 +10299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142351,
+      "num": 142351,
+      "word": "周受资回应拜登签署TikTok剥离法案",
+      "onboard_time": 1714007538,
+      "rank": 42,
+      "category": "互联网,国外时政"
+    },
+    {
       "raw_hot": 142292,
       "num": 107537,
       "word": "Jennie一口气发了20张图",
@@ -10395,6 +10603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137456,
+      "num": 481295,
+      "word": "老爷爷带写着金婚快乐的玫瑰乘地铁",
+      "onboard_time": 1714006878,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137385,
       "num": 137385,
       "word": "王一博 杂志大片中的蜕变",
@@ -10433,6 +10649,14 @@
       "onboard_time": 1713881779,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136019,
+      "num": 136019,
+      "word": "晚安大小姐",
+      "onboard_time": 1714005499,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 135997,
@@ -10537,6 +10761,14 @@
       "onboard_time": 1713697458,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134065,
+      "num": 134065,
+      "word": "尚雯婕果冻鞋",
+      "onboard_time": 1714002198,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133924,
@@ -10817,6 +11049,14 @@
       "onboard_time": 1713683718,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128859,
+      "num": 128859,
+      "word": "世界防治疟疾日",
+      "onboard_time": 1714007117,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128845,
@@ -11425,6 +11665,14 @@
       "onboard_time": 1713920358,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116230,
+      "num": 116230,
+      "word": "拜登竞选团队用TikTok拉拢年轻选民",
+      "onboard_time": 1714007718,
+      "rank": 48,
+      "category": "国外时政,互联网"
     },
     {
       "raw_hot": 116185,
@@ -12131,14 +12379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74668,
-      "num": 82969,
-      "word": "身体哪个部位最难瘦下来",
-      "onboard_time": 1713989412,
-      "rank": 29,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 74083,
       "num": 99461,
       "word": "把骂领导的话发大群里了",
@@ -12513,14 +12753,6 @@
       "onboard_time": 1713785959,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50369,
-      "num": 50369,
-      "word": "庞博工作室比庞博还好笑",
-      "onboard_time": 1714001596,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 50040,
@@ -13027,19 +13259,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12158,
+      "num": 1263961,
+      "word": "万千气象看山西",
+      "onboard_time": 1713842298,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11546,
       "num": 16156,
       "word": "四川村K现场有多嗨",
       "onboard_time": 1713818051,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9101,
-      "num": 1263961,
-      "word": "万千气象看山西",
-      "onboard_time": 1713842298,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
