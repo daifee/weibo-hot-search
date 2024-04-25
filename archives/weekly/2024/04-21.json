@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714077339056,
+  "endTime": 1714079952755,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -15435,6 +15435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 44780,
+      "num": 44780,
+      "word": "沈阳",
+      "onboard_time": 1714074070,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43099,
       "num": 43099,
       "word": "宋雨琦晒Gigi",
@@ -15571,6 +15579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34995,
+      "num": 34995,
+      "word": "英国最大监狱被曝多起性丑闻",
+      "onboard_time": 1714075811,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34958,
       "num": 1156901,
       "word": "良田良种良机良法绘就当代春耕图",
@@ -15592,14 +15608,6 @@
       "word": "文化中国行",
       "onboard_time": 1713754998,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34840,
-      "num": 34840,
-      "word": "沈阳",
-      "onboard_time": 1714074070,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -15680,14 +15688,6 @@
       "word": "开鲁官方通报干部下田拦春耕",
       "onboard_time": 1713905050,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29895,
-      "num": 29895,
-      "word": "英国最大监狱被曝多起性丑闻",
-      "onboard_time": 1714075811,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -15819,6 +15819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19771,
+      "num": 19771,
+      "word": "想睡个好觉真的易如反掌",
+      "onboard_time": 1714076350,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19747,
       "num": 19747,
       "word": "小团团掉粉近50万",
@@ -15849,6 +15857,14 @@
       "onboard_time": 1713704421,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18563,
+      "num": 18563,
+      "word": "李明德归来看一次哭一次",
+      "onboard_time": 1714076290,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 18346,
@@ -15931,14 +15947,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14538,
-      "num": 18534,
-      "word": "李明德归来看一次哭一次",
-      "onboard_time": 1714076290,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 14196,
       "num": 1263961,
       "word": "万千气象看山西",
@@ -15961,14 +15969,6 @@
       "onboard_time": 1713645250,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13174,
-      "num": 18504,
-      "word": "想睡个好觉真的易如反掌",
-      "onboard_time": 1714076350,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 13029,
