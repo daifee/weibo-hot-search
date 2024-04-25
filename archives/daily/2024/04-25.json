@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1714052061391,
+  "endTime": 1714054449099,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -64,6 +64,14 @@
       "word": "杭州爬山失联女子已找到丈夫发声",
       "onboard_time": 1714032799,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1469041,
+      "num": 365319,
+      "word": "女生被曝遭造黄谣跳楼身亡",
+      "onboard_time": 1714052358,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -147,6 +155,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 1120854,
+      "num": 1120854,
+      "word": "山西地震",
+      "onboard_time": 1714050919,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1109800,
       "num": 1109800,
       "word": "郑合惠子 不红你就是没有话语权",
@@ -179,14 +195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 956993,
-      "num": 956993,
-      "word": "山西地震",
-      "onboard_time": 1714050919,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 924534,
       "num": 408002,
       "word": "hybe员工吃瓜忘发zico物料",
@@ -217,6 +225,14 @@
       "onboard_time": 1714005319,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 869592,
+      "num": 869592,
+      "word": "王一博去了中国人民警察大学",
+      "onboard_time": 1714051997,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 860319,
@@ -515,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504238,
+      "num": 306941,
+      "word": "金靖官宣怀孕后首受访",
+      "onboard_time": 1714051696,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 501094,
       "num": 501094,
       "word": "狗头萝莉流泪回应",
@@ -609,6 +633,14 @@
       "onboard_time": 1713968659,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 450914,
+      "num": 450914,
+      "word": "许钟豪 犯规",
+      "onboard_time": 1714052478,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 445022,
@@ -843,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350899,
-      "num": 350899,
-      "word": "王一博去了中国人民警察大学",
-      "onboard_time": 1714051997,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 347965,
       "num": 347965,
       "word": "神十七神十八航天员太空会师",
@@ -955,6 +979,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 307069,
+      "num": 307069,
+      "word": "乃万黑色抹胸连体裤",
+      "onboard_time": 1714052778,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 306261,
+      "num": 306261,
+      "word": "许钟豪撞倒任骏飞",
+      "onboard_time": 1714053859,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305799,
       "num": 305799,
       "word": "种地吧直播",
@@ -995,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287736,
+      "num": 287736,
+      "word": "艾滋病早期症状有哪些",
+      "onboard_time": 1714049298,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 287380,
       "num": 287380,
       "word": "华晨宇排练直播",
@@ -1019,6 +1067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283538,
+      "num": 366674,
+      "word": "神十八发射圆满成功",
+      "onboard_time": 1714053859,
+      "rank": 9,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 282934,
       "num": 254446,
       "word": "周深 我再也不敢随便幽默了",
@@ -1036,7 +1092,7 @@
     },
     {
       "raw_hot": 282481,
-      "num": 282481,
+      "num": 303576,
       "word": "杨幂白色棒球帽",
       "onboard_time": 1714050259,
       "rank": 27,
@@ -1219,14 +1275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 250291,
-      "num": 250291,
-      "word": "艾滋病早期症状有哪些",
-      "onboard_time": 1714049298,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 249925,
       "num": 224227,
       "word": "深圳现暴雨天给绿植浇水引质疑",
@@ -1275,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239886,
+      "num": 239886,
+      "word": "闪耀暖暖",
+      "onboard_time": 1714052118,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237313,
       "num": 237313,
       "word": "我以为就是被偷亲结果他按头了",
@@ -1289,6 +1345,14 @@
       "onboard_time": 1714013238,
       "rank": 27,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 235277,
+      "num": 216042,
+      "word": "花琴 人生易如反掌",
+      "onboard_time": 1714053919,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 234546,
@@ -1345,14 +1409,6 @@
       "onboard_time": 1714034118,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 229438,
-      "num": 229438,
-      "word": "金靖官宣怀孕后首受访",
-      "onboard_time": 1714051696,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 229318,
@@ -1571,6 +1627,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 207826,
+      "num": 207826,
+      "word": "CBA",
+      "onboard_time": 1714054039,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206475,
       "num": 206475,
       "word": "KEP1ER七月解散",
@@ -1627,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201068,
+      "num": 201068,
+      "word": "S组大结局",
+      "onboard_time": 1714051938,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201027,
       "num": 201027,
       "word": "揭露主播卖抗癌化妆品女子发声",
@@ -1641,6 +1713,14 @@
       "onboard_time": 1714033278,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 200932,
+      "num": 200932,
+      "word": "大侦探 你以为的恐怖不是真正的恐怖",
+      "onboard_time": 1714052058,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 198842,
@@ -1713,6 +1793,14 @@
       "onboard_time": 1714020201,
       "rank": 36,
       "category": "游戏,运动健身"
+    },
+    {
+      "raw_hot": 196111,
+      "num": 196111,
+      "word": "发条微博祝福神十八",
+      "onboard_time": 1714053980,
+      "rank": 39,
+      "category": "互联网,科学科普"
     },
     {
       "raw_hot": 195810,
@@ -1875,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186212,
+      "num": 186212,
+      "word": "鞠婧祎陈丽君合作过",
+      "onboard_time": 1714053018,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185545,
       "num": 185545,
       "word": "AG时隔1064天重回胜者组",
@@ -1969,6 +2065,14 @@
       "onboard_time": 1714040717,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 180046,
+      "num": 180046,
+      "word": "运动完脸红和脸白的人谁更健康",
+      "onboard_time": 1714052657,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 179379,
@@ -2147,6 +2251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154886,
+      "num": 154886,
+      "word": "麦承欢角色热度破亿",
+      "onboard_time": 1714052228,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153848,
       "num": 153848,
       "word": "李现周雨彤复刻袁湘琴之歌",
@@ -2201,6 +2313,14 @@
       "onboard_time": 1714038077,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149453,
+      "num": 149453,
+      "word": "乘风2024彩蛋bot",
+      "onboard_time": 1714053259,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 149239,
@@ -2329,14 +2449,6 @@
       "onboard_time": 1714007538,
       "rank": 42,
       "category": "互联网,国外时政"
-    },
-    {
-      "raw_hot": 140352,
-      "num": 140352,
-      "word": "S组大结局",
-      "onboard_time": 1714051938,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 140305,
@@ -2505,6 +2617,14 @@
       "onboard_time": 1714051818,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127455,
+      "num": 127455,
+      "word": "城中之城",
+      "onboard_time": 1714054339,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 127188,
@@ -3001,6 +3121,14 @@
       "onboard_time": 1713992770,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 37413,
+      "num": 313901,
+      "word": "北京车展偶遇张若昀",
+      "onboard_time": 1714053619,
+      "rank": 14,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 33917,
