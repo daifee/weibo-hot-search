@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714070172332,
+  "endTime": 1714072519957,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -12211,6 +12211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145336,
+      "num": 59814,
+      "word": "央媒评网红博流量毫无底线",
+      "onboard_time": 1714067711,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145226,
       "num": 145226,
       "word": "财神爷 生日快乐",
@@ -14875,14 +14883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76763,
-      "num": 59814,
-      "word": "央媒评网红博流量毫无底线",
-      "onboard_time": 1714067711,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75941,
       "num": 75941,
       "word": "陈楚生独唱将进酒",
@@ -15827,6 +15827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18346,
+      "num": 19874,
+      "word": "李彩演Smart Challenge",
+      "onboard_time": 1714072331,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 17612,
       "num": 18341,
       "word": "关雪谁啊",
@@ -15857,6 +15865,14 @@
       "onboard_time": 1713984972,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17040,
+      "num": 19858,
+      "word": "清凉峰爬山失联女子已找到",
+      "onboard_time": 1714070711,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16894,

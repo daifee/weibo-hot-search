@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714070172332,
+  "endTime": 1714072519957,
   "band_list": [
     {
       "raw_hot": 869185,
@@ -235,6 +235,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 145336,
+      "num": 59814,
+      "word": "央媒评网红博流量毫无底线",
+      "onboard_time": 1714067711,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139648,
       "num": 195436,
       "word": "阚清子去海边了",
@@ -379,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76763,
-      "num": 59814,
-      "word": "央媒评网红博流量毫无底线",
-      "onboard_time": 1714067711,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71652,
       "num": 194526,
       "word": "seventeen预告",
@@ -513,6 +513,22 @@
       "onboard_time": 1714047858,
       "rank": 49,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 18346,
+      "num": 19874,
+      "word": "李彩演Smart Challenge",
+      "onboard_time": 1714072331,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 17040,
+      "num": 19858,
+      "word": "清凉峰爬山失联女子已找到",
+      "onboard_time": 1714070711,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6897,
