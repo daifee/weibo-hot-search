@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1714022235338,
+  "endTime": 1714023251700,
   "band_list": [
     {
       "raw_hot": 6852513,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5374254,
-      "num": 408392,
+      "raw_hot": 5431376,
+      "num": 474681,
       "word": "金靖 舒奕橙",
       "onboard_time": 1714021104,
       "rank": 10,
@@ -49,6 +49,14 @@
       "onboard_time": 1714013537,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1410546,
+      "num": 407225,
+      "word": "舒奕橙是不良人导演",
+      "onboard_time": 1714022123,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1334360,
@@ -195,14 +203,6 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 608008,
-      "num": 407225,
-      "word": "舒奕橙是不良人导演",
-      "onboard_time": 1714022123,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 601098,
       "num": 601098,
       "word": "花少第一站破碎的是张翰",
@@ -257,6 +257,14 @@
       "onboard_time": 1714012277,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 505948,
+      "num": 505948,
+      "word": "女生因为爱喝鸡汤做100个鸡花瓶",
+      "onboard_time": 1714020142,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 489644,
@@ -355,14 +363,6 @@
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 405370,
-      "num": 405370,
-      "word": "女生因为爱喝鸡汤做100个鸡花瓶",
-      "onboard_time": 1714020142,
-      "rank": 13,
-      "category": "美食"
-    },
-    {
       "raw_hot": 401467,
       "num": 371566,
       "word": "肖战入选世界十大最美面孔",
@@ -377,6 +377,14 @@
       "onboard_time": 1713952998,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395354,
+      "num": 365704,
+      "word": "比亚迪秦L",
+      "onboard_time": 1714022242,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 395000,
@@ -611,6 +619,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 248051,
+      "num": 248051,
+      "word": "金靖闷声干大事",
+      "onboard_time": 1714021705,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247850,
       "num": 247850,
       "word": "庞博工作室比庞博还好笑",
@@ -675,6 +691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 227125,
+      "num": 227125,
+      "word": "迪丽热巴高校制服",
+      "onboard_time": 1714023020,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225233,
       "num": 225233,
       "word": "周雨彤我替你演两集吧",
@@ -707,12 +731,28 @@
       "category": "国外时政,互联网"
     },
     {
+      "raw_hot": 217607,
+      "num": 217607,
+      "word": "芍药预售暴涨3倍或打败顶流玫瑰",
+      "onboard_time": 1714021462,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212014,
       "num": 212014,
       "word": "玲花 换位思考",
       "onboard_time": 1713970519,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 211341,
+      "num": 211341,
+      "word": "虞书欣海岛小白裙",
+      "onboard_time": 1714022842,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210071,
@@ -747,12 +787,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 209301,
-      "num": 209301,
-      "word": "金靖闷声干大事",
-      "onboard_time": 1714021705,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 207780,
+      "num": 207780,
+      "word": "老头杯",
+      "onboard_time": 1714022661,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 206475,
@@ -875,6 +915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 186481,
+      "num": 186481,
+      "word": "花少十周年合照",
+      "onboard_time": 1714022180,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184710,
       "num": 184710,
       "word": "身份证号码中包含X该如何买票",
@@ -939,14 +987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177253,
-      "num": 194649,
-      "word": "芍药预售暴涨3倍或打败顶流玫瑰",
-      "onboard_time": 1714021462,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175516,
       "num": 175516,
       "word": "破镜重圆文",
@@ -993,6 +1033,14 @@
       "onboard_time": 1713968359,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156662,
+      "num": 156662,
+      "word": "为何越来越多老人染上艾滋病",
+      "onboard_time": 1714023141,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 152418,
@@ -1059,19 +1107,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146961,
+      "num": 199215,
+      "word": "比亚迪发布新悬架技术云辇Z",
+      "onboard_time": 1714019842,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 146087,
       "num": 146087,
       "word": "老舅是张若昀的开关",
       "onboard_time": 1713973878,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 145490,
-      "num": 145490,
-      "word": "花少十周年合照",
-      "onboard_time": 1714022180,
-      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1105,6 +1153,22 @@
       "onboard_time": 1714007538,
       "rank": 42,
       "category": "互联网,国外时政"
+    },
+    {
+      "raw_hot": 140305,
+      "num": 359912,
+      "word": "原创才是最高级的种草",
+      "onboard_time": 1714019601,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 140198,
+      "num": 140198,
+      "word": "樱桃用盐水泡会有小虫钻出来",
+      "onboard_time": 1714023141,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 139489,
@@ -1219,14 +1283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124136,
-      "num": 199215,
-      "word": "比亚迪发布新悬架技术云辇Z",
-      "onboard_time": 1714019842,
-      "rank": 35,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 121303,
       "num": 348420,
       "word": "珍爱生命远离邪教",
@@ -1249,14 +1305,6 @@
       "onboard_time": 1714008619,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 114023,
-      "num": 359912,
-      "word": "原创才是最高级的种草",
-      "onboard_time": 1714019601,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 113510,
@@ -1313,6 +1361,14 @@
       "onboard_time": 1714008676,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104624,
+      "num": 132952,
+      "word": "高盛称A股有望超过4200点",
+      "onboard_time": 1714022302,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 104094,
@@ -1647,6 +1703,9 @@
     },
     {
       "word": "#关于西部大开发总书记强调6个坚持#"
+    },
+    {
+      "word": "#从8次座谈会看总书记推动区域发展战略落实#"
     }
   ]
 }
