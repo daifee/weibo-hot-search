@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714079952755,
+  "endTime": 1714080871681,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -15299,6 +15299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52289,
+      "num": 52289,
+      "word": "英国最大监狱被曝多起性丑闻",
+      "onboard_time": 1714075811,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52200,
       "num": 52200,
       "word": "朱婷暴扣",
@@ -15387,6 +15395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47709,
+      "num": 47709,
+      "word": "沈阳",
+      "onboard_time": 1714074070,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47215,
       "num": 47215,
       "word": "普拉提是减肥纠错本吧",
@@ -15433,14 +15449,6 @@
       "onboard_time": 1714001416,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 44780,
-      "num": 44780,
-      "word": "沈阳",
-      "onboard_time": 1714074070,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43099,
@@ -15576,14 +15584,6 @@
       "word": "内蒙古开鲁县干部为何下田拦春耕",
       "onboard_time": 1713805034,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34995,
-      "num": 34995,
-      "word": "英国最大监狱被曝多起性丑闻",
-      "onboard_time": 1714075811,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -15771,6 +15771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24172,
+      "num": 24172,
+      "word": "想睡个好觉真的易如反掌",
+      "onboard_time": 1714076350,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 23561,
       "num": 25385,
       "word": "为啥学校食堂番茄炒蛋按荤菜卖",
@@ -15811,20 +15819,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20968,
+      "num": 20968,
+      "word": "李明德归来看一次哭一次",
+      "onboard_time": 1714076290,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20822,
       "num": 25364,
       "word": "北科大女生打假防癌护肤品",
       "onboard_time": 1713813192,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19771,
-      "num": 19771,
-      "word": "想睡个好觉真的易如反掌",
-      "onboard_time": 1714076350,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 19747,
@@ -15857,14 +15865,6 @@
       "onboard_time": 1713704421,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18563,
-      "num": 18563,
-      "word": "李明德归来看一次哭一次",
-      "onboard_time": 1714076290,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 18346,
@@ -15993,6 +15993,14 @@
       "onboard_time": 1713818051,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11136,
+      "num": 20979,
+      "word": "神十八航天员飞天前敬礼微笑",
+      "onboard_time": 1714076831,
+      "rank": 29,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 6641,

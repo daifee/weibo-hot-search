@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714079952755,
+  "endTime": 1714080871681,
   "band_list": [
     {
       "raw_hot": 869185,
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52289,
+      "num": 52289,
+      "word": "英国最大监狱被曝多起性丑闻",
+      "onboard_time": 1714075811,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49864,
       "num": 43493,
       "word": "迪丽热巴漫画走出的学姐",
@@ -451,19 +459,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47709,
+      "num": 47709,
+      "word": "沈阳",
+      "onboard_time": 1714074070,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46843,
       "num": 46843,
       "word": "谭爷爷你孙女当花局长了",
       "onboard_time": 1714072811,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44780,
-      "num": 44780,
-      "word": "沈阳",
-      "onboard_time": 1714074070,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -499,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34995,
-      "num": 34995,
-      "word": "英国最大监狱被曝多起性丑闻",
-      "onboard_time": 1714075811,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31233,
       "num": 31233,
       "word": "哈尔滨一九四四",
@@ -523,6 +523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26225,
+      "num": 26225,
+      "word": "神十八",
+      "onboard_time": 1714047858,
+      "rank": 49,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 25001,
       "num": 25528,
       "word": "人生易如反掌",
@@ -531,24 +539,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 24203,
-      "num": 25521,
-      "word": "神十八",
-      "onboard_time": 1714047858,
-      "rank": 49,
-      "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 19771,
-      "num": 19771,
+      "raw_hot": 24172,
+      "num": 24172,
       "word": "想睡个好觉真的易如反掌",
       "onboard_time": 1714076350,
       "rank": 47,
       "category": "情感"
     },
     {
-      "raw_hot": 18563,
-      "num": 18563,
+      "raw_hot": 20968,
+      "num": 20968,
       "word": "李明德归来看一次哭一次",
       "onboard_time": 1714076290,
       "rank": 49,
@@ -577,6 +577,14 @@
       "onboard_time": 1714075150,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11136,
+      "num": 20979,
+      "word": "神十八航天员飞天前敬礼微笑",
+      "onboard_time": 1714076831,
+      "rank": 29,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 6897,
