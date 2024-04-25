@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714050949220,
+  "endTime": 1714052061391,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -97,6 +97,14 @@
       "onboard_time": 1713848959,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2744403,
+      "num": 2744403,
+      "word": "神十八点火发射升空",
+      "onboard_time": 1714050319,
+      "rank": 0,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 2693897,
@@ -297,14 +305,6 @@
       "onboard_time": 1713843018,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1748002,
-      "num": 1748002,
-      "word": "神十八点火发射升空",
-      "onboard_time": 1714050319,
-      "rank": 0,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 1743796,
@@ -1129,6 +1129,14 @@
       "onboard_time": 1713882199,
       "rank": 5,
       "category": "网红"
+    },
+    {
+      "raw_hot": 956993,
+      "num": 956993,
+      "word": "山西地震",
+      "onboard_time": 1714050919,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 953423,
@@ -3260,7 +3268,7 @@
     },
     {
       "raw_hot": 481419,
-      "num": 255396,
+      "num": 270509,
       "word": "删了吧我有个朋友不太舒服",
       "onboard_time": 1714045817,
       "rank": 23,
@@ -4627,6 +4635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 350899,
+      "num": 350899,
+      "word": "王一博去了中国人民警察大学",
+      "onboard_time": 1714051997,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 350105,
       "num": 350105,
       "word": "黄晓明发了姚志明",
@@ -5379,6 +5395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291948,
+      "num": 291948,
+      "word": "上海月租50元1平米房为摆拍造假",
+      "onboard_time": 1714048577,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291897,
       "num": 291897,
       "word": "大梦归离海报番位",
@@ -5563,6 +5587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282481,
+      "num": 282481,
+      "word": "杨幂白色棒球帽",
+      "onboard_time": 1714050259,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282112,
       "num": 260708,
       "word": "2岁男童疑菜市场接触鱼住进ICU",
@@ -5620,7 +5652,7 @@
     },
     {
       "raw_hot": 278332,
-      "num": 291008,
+      "num": 294940,
       "word": "春色寄情人 何叔去世",
       "onboard_time": 1714049478,
       "rank": 16,
@@ -6307,19 +6339,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 250291,
+      "num": 250291,
+      "word": "艾滋病早期症状有哪些",
+      "onboard_time": 1714049298,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 249925,
       "num": 224227,
       "word": "深圳现暴雨天给绿植浇水引质疑",
       "onboard_time": 1713980352,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248591,
-      "num": 248591,
-      "word": "上海月租50元1平米房为摆拍造假",
-      "onboard_time": 1714048577,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -6945,6 +6977,14 @@
       "onboard_time": 1713708981,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 229438,
+      "num": 229438,
+      "word": "金靖官宣怀孕后首受访",
+      "onboard_time": 1714051696,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 229355,
@@ -7603,6 +7643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209737,
+      "num": 209737,
+      "word": "买车后才明白的事",
+      "onboard_time": 1714049417,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 209623,
       "num": 209623,
       "word": "老凤祥中国黄金客服回应被约谈",
@@ -7657,14 +7705,6 @@
       "onboard_time": 1713788838,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209065,
-      "num": 191230,
-      "word": "山西地震",
-      "onboard_time": 1714050919,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209019,
@@ -7865,14 +7905,6 @@
       "onboard_time": 1713966019,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 205928,
-      "num": 205928,
-      "word": "杨幂白色棒球帽",
-      "onboard_time": 1714050259,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 205766,
@@ -9147,14 +9179,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 188564,
-      "num": 188564,
-      "word": "买车后才明白的事",
-      "onboard_time": 1714049417,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 188535,
       "num": 186534,
       "word": "友情最可怕的其实不是绝交",
@@ -9569,6 +9593,14 @@
       "onboard_time": 1713960559,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183148,
+      "num": 183148,
+      "word": "今天在队史里留下了久酷的名字",
+      "onboard_time": 1714051578,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 182797,
@@ -11499,14 +11531,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149693,
-      "num": 149693,
-      "word": "艾滋病早期症状有哪些",
-      "onboard_time": 1714049298,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 149656,
       "num": 149656,
       "word": "日本2架失联直升机初步判断已坠毁",
@@ -12177,6 +12201,14 @@
       "onboard_time": 1713792799,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140352,
+      "num": 140352,
+      "word": "S组大结局",
+      "onboard_time": 1714051938,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 140305,
@@ -12987,6 +13019,14 @@
       "category": "读书作家,网红"
     },
     {
+      "raw_hot": 127782,
+      "num": 127782,
+      "word": "最炸裂的查寝方式",
+      "onboard_time": 1714051818,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127666,
       "num": 127666,
       "word": "BOYNEXTDOOR 安可live",
@@ -13779,6 +13819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110973,
+      "num": 110973,
+      "word": "陈楚生评价自己的舞蹈功底",
+      "onboard_time": 1714049178,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110540,
       "num": 110540,
       "word": "爱德华兹狂喷杜兰特",
@@ -13873,14 +13921,6 @@
       "onboard_time": 1713681199,
       "rank": 47,
       "category": "军事,国内时政"
-    },
-    {
-      "raw_hot": 108772,
-      "num": 108772,
-      "word": "陈楚生评价自己的舞蹈功底",
-      "onboard_time": 1714049178,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 108743,
@@ -14081,6 +14121,14 @@
       "onboard_time": 1713785656,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103209,
+      "num": 103209,
+      "word": "林允纯欲千金妆",
+      "onboard_time": 1714051818,
+      "rank": 48,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 102802,

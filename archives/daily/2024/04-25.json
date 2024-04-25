@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1714050949220,
+  "endTime": 1714052061391,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2744403,
+      "num": 2744403,
+      "word": "神十八点火发射升空",
+      "onboard_time": 1714050319,
+      "rank": 0,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 2184582,
       "num": 2184582,
       "word": "官方回应社保缴满15年就坐等退休",
       "onboard_time": 1714001837,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1748002,
-      "num": 1748002,
-      "word": "神十八点火发射升空",
-      "onboard_time": 1714050319,
-      "rank": 0,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 1743796,
@@ -177,6 +177,14 @@
       "onboard_time": 1714002559,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 956993,
+      "num": 956993,
+      "word": "山西地震",
+      "onboard_time": 1714050919,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 924534,
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 481419,
-      "num": 255396,
+      "num": 270509,
       "word": "删了吧我有个朋友不太舒服",
       "onboard_time": 1714045817,
       "rank": 23,
@@ -835,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350899,
+      "num": 350899,
+      "word": "王一博去了中国人民警察大学",
+      "onboard_time": 1714051997,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 347965,
       "num": 347965,
       "word": "神十七神十八航天员太空会师",
@@ -971,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291948,
+      "num": 291948,
+      "word": "上海月租50元1平米房为摆拍造假",
+      "onboard_time": 1714048577,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287380,
       "num": 287380,
       "word": "华晨宇排练直播",
@@ -1011,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282481,
+      "num": 282481,
+      "word": "杨幂白色棒球帽",
+      "onboard_time": 1714050259,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280917,
       "num": 280917,
       "word": "Angelababy狼尾超短发",
@@ -1028,7 +1060,7 @@
     },
     {
       "raw_hot": 278332,
-      "num": 291008,
+      "num": 294940,
       "word": "春色寄情人 何叔去世",
       "onboard_time": 1714049478,
       "rank": 16,
@@ -1187,19 +1219,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250291,
+      "num": 250291,
+      "word": "艾滋病早期症状有哪些",
+      "onboard_time": 1714049298,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 249925,
       "num": 224227,
       "word": "深圳现暴雨天给绿植浇水引质疑",
       "onboard_time": 1713980352,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248591,
-      "num": 248591,
-      "word": "上海月租50元1平米房为摆拍造假",
-      "onboard_time": 1714048577,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1313,6 +1345,14 @@
       "onboard_time": 1714034118,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 229438,
+      "num": 229438,
+      "word": "金靖官宣怀孕后首受访",
+      "onboard_time": 1714051696,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 229318,
@@ -1499,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209737,
+      "num": 209737,
+      "word": "买车后才明白的事",
+      "onboard_time": 1714049417,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 209599,
       "num": 209599,
       "word": "林毅夫称中国经济总量2030年超美国",
@@ -1523,28 +1571,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 209065,
-      "num": 191230,
-      "word": "山西地震",
-      "onboard_time": 1714050919,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206475,
       "num": 206475,
       "word": "KEP1ER七月解散",
       "onboard_time": 1714009998,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 205928,
-      "num": 205928,
-      "word": "杨幂白色棒球帽",
-      "onboard_time": 1714050259,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 204905,
@@ -1819,14 +1851,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 188564,
-      "num": 188564,
-      "word": "买车后才明白的事",
-      "onboard_time": 1714049417,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 188490,
       "num": 188490,
       "word": "这个部位胖点是种健康优势",
@@ -1897,6 +1921,14 @@
       "onboard_time": 1714037418,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183148,
+      "num": 183148,
+      "word": "今天在队史里留下了久酷的名字",
+      "onboard_time": 1714051578,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 182669,
@@ -2171,14 +2203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149693,
-      "num": 149693,
-      "word": "艾滋病早期症状有哪些",
-      "onboard_time": 1714049298,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 149239,
       "num": 149239,
       "word": "爱情公寓秦羽墨美甲店成立仅15天",
@@ -2305,6 +2329,14 @@
       "onboard_time": 1714007538,
       "rank": 42,
       "category": "互联网,国外时政"
+    },
+    {
+      "raw_hot": 140352,
+      "num": 140352,
+      "word": "S组大结局",
+      "onboard_time": 1714051938,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 140305,
@@ -2467,6 +2499,14 @@
       "category": "读书作家,网红"
     },
     {
+      "raw_hot": 127782,
+      "num": 127782,
+      "word": "最炸裂的查寝方式",
+      "onboard_time": 1714051818,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127188,
       "num": 127188,
       "word": "热火三分创队史纪录",
@@ -2627,6 +2667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110973,
+      "num": 110973,
+      "word": "陈楚生评价自己的舞蹈功底",
+      "onboard_time": 1714049178,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110533,
       "num": 110533,
       "word": "电量不足病情大赏",
@@ -2659,14 +2707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108772,
-      "num": 108772,
-      "word": "陈楚生评价自己的舞蹈功底",
-      "onboard_time": 1714049178,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 104624,
       "num": 132952,
       "word": "高盛称A股有望超过4200点",
@@ -2689,6 +2729,14 @@
       "onboard_time": 1714008918,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103209,
+      "num": 103209,
+      "word": "林允纯欲千金妆",
+      "onboard_time": 1714051818,
+      "rank": 48,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 101657,
