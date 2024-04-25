@@ -1,7 +1,15 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714019655795,
+  "endTime": 1714022235338,
   "band_list": [
+    {
+      "raw_hot": 6852513,
+      "num": 6852513,
+      "word": "金靖 迎接第五位家庭成员",
+      "onboard_time": 1714019539,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 6370206,
       "num": 6370206,
@@ -9,6 +17,14 @@
       "onboard_time": 1713710062,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5374254,
+      "num": 408392,
+      "word": "金靖 舒奕橙",
+      "onboard_time": 1714021104,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 4471317,
@@ -1643,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 704757,
+      "num": 704757,
+      "word": "花少 张凯丽",
+      "onboard_time": 1714019842,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 704144,
       "num": 704144,
       "word": "金高银太美了",
@@ -2097,6 +2121,14 @@
       "onboard_time": 1713877819,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 608008,
+      "num": 407225,
+      "word": "舒奕橙是不良人导演",
+      "onboard_time": 1714022123,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 607304,
@@ -3665,6 +3697,14 @@
       "onboard_time": 1713868159,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 405370,
+      "num": 405370,
+      "word": "女生因为爱喝鸡汤做100个鸡花瓶",
+      "onboard_time": 1714020142,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 404340,
@@ -5443,6 +5483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260179,
+      "num": 260179,
+      "word": "ive新歌预告疑似抄袭RedVelvet",
+      "onboard_time": 1714020201,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 259717,
       "num": 259717,
       "word": "失业后才懂得拒绝进厨房是一种权力",
@@ -6291,6 +6339,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 227140,
+      "num": 227140,
+      "word": "怪盗基德 帅得太超过",
+      "onboard_time": 1714021643,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 227115,
       "num": 227115,
       "word": "马来西亚直升机相撞致10人死亡",
@@ -6473,6 +6529,14 @@
       "onboard_time": 1714007058,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219515,
+      "num": 219515,
+      "word": "易烊千玺日内瓦库存",
+      "onboard_time": 1714020804,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 219366,
@@ -6803,12 +6867,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209430,
+      "num": 209430,
+      "word": "给五一出游的人一点旅游震撼",
+      "onboard_time": 1714021284,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 209331,
       "num": 209331,
       "word": "罗伯特说杨幂一出马就是女王范儿",
       "onboard_time": 1713788838,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209301,
+      "num": 209301,
+      "word": "金靖闷声干大事",
+      "onboard_time": 1714021705,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 209019,
@@ -7609,6 +7689,14 @@
       "onboard_time": 1713686959,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196430,
+      "num": 196430,
+      "word": "恋与深空 Keep奖牌",
+      "onboard_time": 1714020201,
+      "rank": 36,
+      "category": "游戏,运动健身"
     },
     {
       "raw_hot": 196187,
@@ -8737,6 +8825,14 @@
       "onboard_time": 1714009698,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177253,
+      "num": 194649,
+      "word": "芍药预售暴涨3倍或打败顶流玫瑰",
+      "onboard_time": 1714021462,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177162,
@@ -10307,6 +10403,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149239,
+      "num": 149239,
+      "word": "爱情公寓秦羽墨美甲店成立仅15天",
+      "onboard_time": 1714019900,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149001,
+      "num": 149001,
+      "word": "工作开心和钱哪个更重要",
+      "onboard_time": 1714020745,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148971,
       "num": 148971,
       "word": "逆水寒",
@@ -10536,6 +10648,14 @@
       "word": "秦岚吃蒜原因是花少团没有吻戏",
       "onboard_time": 1713773358,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145490,
+      "num": 145490,
+      "word": "花少十周年合照",
+      "onboard_time": 1714022180,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -11113,6 +11233,14 @@
       "onboard_time": 1713659356,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136326,
+      "num": 334874,
+      "word": "极氪MIX未来的家",
+      "onboard_time": 1714021344,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 136096,
@@ -11851,6 +11979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124136,
+      "num": 199215,
+      "word": "比亚迪发布新悬架技术云辇Z",
+      "onboard_time": 1714019842,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 124035,
       "num": 124035,
       "word": "黑幕绿幕素材",
@@ -12257,6 +12393,14 @@
       "onboard_time": 1713779418,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114023,
+      "num": 359912,
+      "word": "原创才是最高级的种草",
+      "onboard_time": 1714019601,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 113510,
@@ -13555,6 +13699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33917,
+      "num": 199211,
+      "word": "埃安再造第三个爆款",
+      "onboard_time": 1714018760,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 33797,
       "num": 334156,
       "word": "75秒看人民海军75年巨变",
@@ -13715,14 +13867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21603,
-      "num": 199211,
-      "word": "埃安再造第三个爆款",
-      "onboard_time": 1714018760,
-      "rank": 48,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 21513,
       "num": 23910,
       "word": "西班牙国家德比",
@@ -13857,14 +14001,6 @@
       "onboard_time": 1713645250,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11844,
-      "num": 146555,
-      "word": "原创才是最高级的种草",
-      "onboard_time": 1714019601,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 11546,
