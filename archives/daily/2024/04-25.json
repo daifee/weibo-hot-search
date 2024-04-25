@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1714048053684,
+  "endTime": 1714048849263,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1453946,
+      "num": 1453946,
+      "word": "金靖舒奕橙在一起四年多了",
+      "onboard_time": 1714047497,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1429925,
       "num": 657764,
       "word": "老年艾滋病患者无法言说的性与痛",
@@ -97,6 +105,14 @@
       "onboard_time": 1714012036,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1274806,
+      "num": 1274806,
+      "word": "小K有微博了",
+      "onboard_time": 1714047018,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 1274250,
@@ -139,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1060372,
-      "num": 1060372,
-      "word": "小K有微博了",
-      "onboard_time": 1714047018,
-      "rank": 0,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1042516,
       "num": 758673,
       "word": "电梯从20楼坠落致物业工作人员死亡",
@@ -161,14 +169,6 @@
       "onboard_time": 1714002559,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 954653,
-      "num": 954653,
-      "word": "金靖舒奕橙在一起四年多了",
-      "onboard_time": 1714047497,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 924534,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 539318,
+      "num": 539318,
+      "word": "86岁琼瑶宣布淡出社交平台",
+      "onboard_time": 1714044618,
+      "rank": 38,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 537919,
       "num": 466336,
       "word": "97年生交警被86岁奶奶叫叔叔",
@@ -523,20 +531,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 481419,
+      "num": 224660,
+      "word": "删了吧我有个朋友不太舒服",
+      "onboard_time": 1714045817,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 475185,
       "num": 475185,
       "word": "刘宇宁夸迪丽热巴抗住了死亡角度",
       "onboard_time": 1714018459,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 473740,
-      "num": 473740,
-      "word": "86岁琼瑶宣布淡出社交平台",
-      "onboard_time": 1714044618,
-      "rank": 38,
-      "category": "读书作家"
     },
     {
       "raw_hot": 471049,
@@ -635,6 +643,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 424636,
+      "num": 424636,
+      "word": "神舟十八号发射直播",
+      "onboard_time": 1714040599,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 422197,
       "num": 422197,
       "word": "神十八瞄准今天20时59分发射",
@@ -648,6 +664,14 @@
       "word": "颜如晶18天减重14斤",
       "onboard_time": 1714026918,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 415213,
+      "num": 356559,
+      "word": "王一博 真维斯",
+      "onboard_time": 1714048278,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -697,14 +721,6 @@
       "onboard_time": 1714038019,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 393724,
-      "num": 204601,
-      "word": "删了吧我有个朋友不太舒服",
-      "onboard_time": 1714045817,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 393306,
@@ -787,6 +803,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 356163,
+      "num": 356163,
+      "word": "第五人格排位bug",
+      "onboard_time": 1714045278,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 352806,
       "num": 352806,
       "word": "2000元人参泡酒15年后发芽了",
@@ -795,12 +819,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347660,
-      "num": 347660,
-      "word": "第五人格排位bug",
-      "onboard_time": 1714045278,
-      "rank": 8,
-      "category": "游戏"
+      "raw_hot": 347965,
+      "num": 347965,
+      "word": "神十七神十八航天员太空会师",
+      "onboard_time": 1714046478,
+      "rank": 16,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 346977,
@@ -825,14 +849,6 @@
       "onboard_time": 1714033278,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337372,
-      "num": 337372,
-      "word": "神舟十八号发射直播",
-      "onboard_time": 1714040599,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 335314,
@@ -929,14 +945,6 @@
       "onboard_time": 1714027639,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 287793,
-      "num": 287793,
-      "word": "神十七神十八航天员太空会师",
-      "onboard_time": 1714046478,
-      "rank": 16,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 287380,
@@ -1395,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216696,
+      "num": 216696,
+      "word": "花蓉结局",
+      "onboard_time": 1714046958,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212014,
       "num": 212014,
       "word": "玲花 换位思考",
@@ -1457,6 +1473,14 @@
       "onboard_time": 1714021284,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 207979,
+      "num": 207979,
+      "word": "李现 今天雇的人多一点是吧",
+      "onboard_time": 1714047438,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 206475,
@@ -1529,6 +1553,14 @@
       "onboard_time": 1714033278,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 198842,
+      "num": 198842,
+      "word": "神十八",
+      "onboard_time": 1714047858,
+      "rank": 35,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 198575,
@@ -1635,12 +1667,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192874,
-      "num": 187655,
-      "word": "花蓉结局",
-      "onboard_time": 1714046958,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 192832,
+      "num": 192832,
+      "word": "黄景瑜一出场硬控小学生",
+      "onboard_time": 1714047736,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 192549,
@@ -1705,6 +1737,14 @@
       "onboard_time": 1714023141,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 189764,
+      "num": 189764,
+      "word": "广厦男篮vs广东男篮",
+      "onboard_time": 1714048158,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 188618,
@@ -1947,14 +1987,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 162449,
-      "num": 162449,
-      "word": "李现 今天雇的人多一点是吧",
-      "onboard_time": 1714047438,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162329,
       "num": 161680,
       "word": "网红拍低俗视频博眼球被拘15天",
@@ -1985,14 +2017,6 @@
       "onboard_time": 1714032559,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 158329,
-      "num": 158329,
-      "word": "神十八",
-      "onboard_time": 1714047858,
-      "rank": 35,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 155912,
@@ -2065,6 +2089,14 @@
       "onboard_time": 1714038077,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149265,
+      "num": 118612,
+      "word": "ILLIT 5000分",
+      "onboard_time": 1714048697,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 149239,
@@ -2275,12 +2307,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 135814,
-      "num": 135814,
-      "word": "黄景瑜一出场硬控小学生",
-      "onboard_time": 1714047736,
-      "rank": 39,
-      "category": "电影"
+      "raw_hot": 135677,
+      "num": 135677,
+      "word": "神十八发射现场",
+      "onboard_time": 1714047678,
+      "rank": 47,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 135189,
@@ -2443,12 +2475,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 117191,
+      "num": 117191,
+      "word": "上海月租50元1平米房为摆拍造假",
+      "onboard_time": 1714048577,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115179,
       "num": 115179,
       "word": "J人和P人旅游经典互相震撼",
       "onboard_time": 1714008619,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 114560,
+      "num": 114560,
+      "word": "KSG锁定胜者组",
+      "onboard_time": 1714045518,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 113510,
@@ -2561,14 +2609,6 @@
       "onboard_time": 1714008918,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101830,
-      "num": 101830,
-      "word": "神十八发射现场",
-      "onboard_time": 1714047678,
-      "rank": 47,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 101657,
@@ -2915,8 +2955,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4734,
-      "num": 740374,
+      "raw_hot": 5378,
+      "num": 828726,
       "word": "文化中国行",
       "onboard_time": 1713927617,
       "rank": 34,

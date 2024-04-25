@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714048053684,
+  "endTime": 1714048849263,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2283,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1453946,
+      "num": 1453946,
+      "word": "金靖舒奕橙在一起四年多了",
+      "onboard_time": 1714047497,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1451830,
       "num": 655237,
       "word": "纪凌尘说蹭阚清子热度是事实",
@@ -3065,6 +3073,14 @@
       "onboard_time": 1712150661,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1274806,
+      "num": 1274806,
+      "word": "小K有微博了",
+      "onboard_time": 1714047018,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 1274371,
@@ -4579,14 +4595,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1060372,
-      "num": 1060372,
-      "word": "小K有微博了",
-      "onboard_time": 1714047018,
-      "rank": 0,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1060239,
       "num": 245710,
       "word": "孔雪儿 女二被换",
@@ -5760,14 +5768,6 @@
       "word": "于正说祝绪丹事件是联手炒作",
       "onboard_time": 1713440417,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 954653,
-      "num": 954653,
-      "word": "金靖舒奕橙在一起四年多了",
-      "onboard_time": 1714047497,
-      "rank": 1,
       "category": "艺人"
     },
     {
@@ -14155,6 +14155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 539318,
+      "num": 539318,
+      "word": "86岁琼瑶宣布淡出社交平台",
+      "onboard_time": 1714044618,
+      "rank": 38,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 538986,
       "num": 538986,
       "word": "胡先煦高烧40度出席首映礼",
@@ -16587,6 +16595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 481419,
+      "num": 224660,
+      "word": "删了吧我有个朋友不太舒服",
+      "onboard_time": 1714045817,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 481312,
       "num": 481312,
       "word": "其实圈子里只有我们两个",
@@ -16945,14 +16961,6 @@
       "onboard_time": 1713318318,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 473740,
-      "num": 473740,
-      "word": "86岁琼瑶宣布淡出社交平台",
-      "onboard_time": 1714044618,
-      "rank": 38,
-      "category": "读书作家"
     },
     {
       "raw_hot": 473520,
@@ -19483,6 +19491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424636,
+      "num": 424636,
+      "word": "神舟十八号发射直播",
+      "onboard_time": 1714040599,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 424581,
       "num": 415855,
       "word": "黄子韬向佐在大理相遇了",
@@ -19929,6 +19945,14 @@
       "onboard_time": 1712885540,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 415213,
+      "num": 356559,
+      "word": "王一博 真维斯",
+      "onboard_time": 1714048278,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 414453,
@@ -20977,14 +21001,6 @@
       "onboard_time": 1714038019,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 393724,
-      "num": 204601,
-      "word": "删了吧我有个朋友不太舒服",
-      "onboard_time": 1714045817,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 393456,
@@ -23059,6 +23075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356163,
+      "num": 356163,
+      "word": "第五人格排位bug",
+      "onboard_time": 1714045278,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 356033,
       "num": 356033,
       "word": "林更新下部戏是玫瑰的故事",
@@ -23643,12 +23667,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 347660,
-      "num": 347660,
-      "word": "第五人格排位bug",
-      "onboard_time": 1714045278,
-      "rank": 8,
-      "category": "游戏"
+      "raw_hot": 347965,
+      "num": 347965,
+      "word": "神十七神十八航天员太空会师",
+      "onboard_time": 1714046478,
+      "rank": 16,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 347604,
@@ -24305,14 +24329,6 @@
       "onboard_time": 1712897659,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337372,
-      "num": 337372,
-      "word": "神舟十八号发射直播",
-      "onboard_time": 1714040599,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 337064,
@@ -28137,14 +28153,6 @@
       "onboard_time": 1713157819,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287793,
-      "num": 287793,
-      "word": "神十七神十八航天员太空会师",
-      "onboard_time": 1714046478,
-      "rank": 16,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 287653,
@@ -36963,6 +36971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216696,
+      "num": 216696,
+      "word": "花蓉结局",
+      "onboard_time": 1714046958,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216688,
       "num": 168554,
       "word": "关晓彤暗夜黑纱裙",
@@ -38737,6 +38753,14 @@
       "onboard_time": 1713675438,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207979,
+      "num": 207979,
+      "word": "李现 今天雇的人多一点是吧",
+      "onboard_time": 1714047438,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 207953,
@@ -43315,20 +43339,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192874,
-      "num": 187655,
-      "word": "花蓉结局",
-      "onboard_time": 1714046958,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192838,
       "num": 192838,
       "word": "王一博张天阳追逐戏花絮",
       "onboard_time": 1712466560,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192832,
+      "num": 192832,
+      "word": "黄景瑜一出场硬控小学生",
+      "onboard_time": 1714047736,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 192816,
@@ -44489,6 +44513,14 @@
       "onboard_time": 1713773956,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189764,
+      "num": 189764,
+      "word": "广厦男篮vs广东男篮",
+      "onboard_time": 1713874218,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 189740,
@@ -51755,14 +51787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162449,
-      "num": 162449,
-      "word": "李现 今天雇的人多一点是吧",
-      "onboard_time": 1714047438,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162413,
       "num": 162413,
       "word": "摇太阳片尾曲是张杰唱的",
@@ -55729,6 +55753,14 @@
       "onboard_time": 1712844379,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149265,
+      "num": 118612,
+      "word": "ILLIT 5000分",
+      "onboard_time": 1714048697,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 149253,
@@ -59763,14 +59795,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 135814,
-      "num": 135814,
-      "word": "黄景瑜一出场硬控小学生",
-      "onboard_time": 1714047736,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 135806,
       "num": 135806,
       "word": "张杰杭州演唱会改期",
@@ -59817,6 +59841,14 @@
       "onboard_time": 1712185213,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135677,
+      "num": 135677,
+      "word": "神十八发射现场",
+      "onboard_time": 1714047678,
+      "rank": 47,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 135672,
@@ -63931,14 +63963,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 118176,
-      "num": 118176,
-      "word": "广厦男篮vs广东男篮",
-      "onboard_time": 1713874218,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118110,
       "num": 118110,
       "word": "ILLIT冠军秀",
@@ -64097,6 +64121,14 @@
       "onboard_time": 1712568080,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117191,
+      "num": 117191,
+      "word": "上海月租50元1平米房为摆拍造假",
+      "onboard_time": 1714048577,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117178,
@@ -64553,6 +64585,14 @@
       "onboard_time": 1713597017,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114560,
+      "num": 114560,
+      "word": "KSG锁定胜者组",
+      "onboard_time": 1714045518,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 114527,
@@ -66233,14 +66273,6 @@
       "onboard_time": 1713259039,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 101830,
-      "num": 101830,
-      "word": "神十八发射现场",
-      "onboard_time": 1714047678,
-      "rank": 47,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 101768,
