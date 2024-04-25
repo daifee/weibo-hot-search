@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714034155869,
+  "endTime": 1714036735084,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 3002248,
-      "num": 425198,
+      "num": 429037,
       "word": "舒奕橙是不良人导演",
       "onboard_time": 1714022123,
       "rank": 12,
@@ -539,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1319430,
+      "num": 1319430,
+      "word": "杭州爬山失联女子已找到丈夫发声",
+      "onboard_time": 1714032799,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1319396,
       "num": 1319396,
       "word": "副市长现身凤凰传奇演唱会",
@@ -625,6 +633,14 @@
       "onboard_time": 1713968059,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1233852,
+      "num": 586826,
+      "word": "老年艾滋病患者无法言说的性与痛",
+      "onboard_time": 1714032859,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1218760,
@@ -1323,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 839392,
+      "num": 444242,
+      "word": "NewJeans哭着问闵熙珍要怎么办",
+      "onboard_time": 1714032199,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 838426,
       "num": 838426,
       "word": "沈阳发生持刀伤人嫌犯被抓",
@@ -1537,14 +1561,6 @@
       "onboard_time": 1713625098,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 753781,
-      "num": 304861,
-      "word": "NewJeans哭着问闵熙珍要怎么办",
-      "onboard_time": 1714032199,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 742860,
@@ -2347,6 +2363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 582188,
+      "num": 582188,
+      "word": "张碧晨玩机车是因为赵丽颖",
+      "onboard_time": 1714032859,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 581826,
       "num": 581826,
       "word": "石凯销量",
@@ -2489,14 +2513,6 @@
       "onboard_time": 1713678320,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 566474,
-      "num": 566474,
-      "word": "杭州爬山失联女子已找到丈夫发声",
-      "onboard_time": 1714032799,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 565724,
@@ -2883,6 +2899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 508109,
+      "num": 508109,
+      "word": "秦岚晒了北斗七行合照",
+      "onboard_time": 1714032618,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 508093,
       "num": 508093,
       "word": "浙江舞蹈老师怀孕39周仍每天跳舞",
@@ -2987,6 +3011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 492365,
+      "num": 492365,
+      "word": "ive新歌MV全是中国元素",
+      "onboard_time": 1714031840,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 491470,
       "num": 491470,
       "word": "广东居民非必要不外出",
@@ -3001,14 +3033,6 @@
       "onboard_time": 1713672737,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 491215,
-      "num": 491215,
-      "word": "ive新歌MV全是中国元素",
-      "onboard_time": 1714031840,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 489644,
@@ -3217,6 +3241,14 @@
       "onboard_time": 1713878540,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 471049,
+      "num": 471049,
+      "word": "雷军称直面所有质疑造谣问题",
+      "onboard_time": 1714034299,
+      "rank": 7,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 470391,
@@ -3811,6 +3843,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 406402,
+      "num": 406402,
+      "word": "老人摆摊日入8元被收10元摊位费",
+      "onboard_time": 1714029380,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406380,
       "num": 406380,
       "word": "aespa正规一辑预告",
@@ -3825,14 +3865,6 @@
       "onboard_time": 1713885918,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 405869,
-      "num": 405869,
-      "word": "老人摆摊日入8元被收10元摊位费",
-      "onboard_time": 1714029380,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 405853,
@@ -3977,14 +4009,6 @@
       "onboard_time": 1713697336,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 393608,
-      "num": 206741,
-      "word": "老年艾滋病患者无法言说的性与痛",
-      "onboard_time": 1714032859,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 392691,
@@ -4196,7 +4220,7 @@
     },
     {
       "raw_hot": 370935,
-      "num": 282374,
+      "num": 350485,
       "word": "闵熙珍 MINJI小时候很漂亮",
       "onboard_time": 1714033819,
       "rank": 19,
@@ -4377,6 +4401,14 @@
       "onboard_time": 1713958520,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351623,
+      "num": 351623,
+      "word": "HYBE用宫脇咲良和金采源对打张元英",
+      "onboard_time": 1714035919,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 351289,
@@ -4763,6 +4795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320317,
+      "num": 320317,
+      "word": "煮肘 二妞妈",
+      "onboard_time": 1714029618,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319823,
       "num": 280754,
       "word": "周琦停赛2场罚款10万",
@@ -4793,14 +4833,6 @@
       "onboard_time": 1713844278,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 316797,
-      "num": 316797,
-      "word": "张碧晨玩机车是因为赵丽颖",
-      "onboard_time": 1714032859,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 315742,
@@ -4856,6 +4888,14 @@
       "word": "看似羞耻的小习惯其实非常解压",
       "onboard_time": 1713798919,
       "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 309695,
+      "num": 309695,
+      "word": "睡不着就在床头放个橘子",
+      "onboard_time": 1714033278,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -4939,14 +4979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 303933,
-      "num": 292917,
-      "word": "煮肘 二妞妈",
-      "onboard_time": 1714029618,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303675,
       "num": 303675,
       "word": "多益网络徐波称被前女友卷走3亿",
@@ -5011,14 +5043,6 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 300375,
-      "num": 266691,
-      "word": "秦岚晒了北斗七行合照",
-      "onboard_time": 1714032618,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 300323,
       "num": 300323,
       "word": "神十八航天员简历",
@@ -5057,6 +5081,14 @@
       "onboard_time": 1713703279,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 297580,
+      "num": 297580,
+      "word": "布林肯抵达北京",
+      "onboard_time": 1714036579,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 296189,
@@ -6419,6 +6451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236161,
+      "num": 236161,
+      "word": "以前谈恋爱是要交换QQ密码的",
+      "onboard_time": 1714034839,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235810,
       "num": 235810,
       "word": "大麦 柱子票",
@@ -7225,14 +7265,6 @@
       "onboard_time": 1713834139,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 211018,
-      "num": 211018,
-      "word": "睡不着就在床头放个橘子",
-      "onboard_time": 1714033278,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 210826,
@@ -8251,6 +8283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194502,
+      "num": 194502,
+      "word": "杨幂路演状态",
+      "onboard_time": 1714036160,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194420,
       "num": 194420,
       "word": "大梦归离首发预告",
@@ -8515,6 +8555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190774,
+      "num": 190774,
+      "word": "王珞丹说聪明的女人不应该把婆婆当妈妈",
+      "onboard_time": 1714031658,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190700,
       "num": 187506,
       "word": "狐妖小红娘",
@@ -8721,14 +8769,6 @@
       "onboard_time": 1713876079,
       "rank": 35,
       "category": "自然"
-    },
-    {
-      "raw_hot": 188412,
-      "num": 188412,
-      "word": "王珞丹说聪明的女人不应该把婆婆当妈妈",
-      "onboard_time": 1714031658,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 188309,
@@ -10083,6 +10123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163414,
+      "num": 163414,
+      "word": "晚上睡不着可能是身体发出的信号",
+      "onboard_time": 1714034720,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 163044,
       "num": 163044,
       "word": "貂蝉荧星流火新皮肤",
@@ -11315,6 +11363,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 144813,
+      "num": 144813,
+      "word": "奶茶最好2小时内喝完",
+      "onboard_time": 1714035259,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 144446,
       "num": 144446,
       "word": "国米意甲夺冠",
@@ -11947,6 +12003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135189,
+      "num": 135189,
+      "word": "戚薇浪姐精神状态",
+      "onboard_time": 1714035919,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134963,
       "num": 121176,
       "word": "严浩翔个人EP预告",
@@ -12243,6 +12307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130116,
+      "num": 130116,
+      "word": "多益网络规定员工娶妻彩礼不超10万",
+      "onboard_time": 1714036459,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129568,
       "num": 129568,
       "word": "近期韩剧人的精神状态",
@@ -12305,6 +12377,14 @@
       "onboard_time": 1713687258,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128782,
+      "num": 128782,
+      "word": "张艺兴用音乐做一个地球村",
+      "onboard_time": 1714035020,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 128651,
@@ -12643,12 +12723,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 123222,
+      "num": 462479,
+      "word": "00后边防新兵巡逻前vs巡逻后",
+      "onboard_time": 1714033339,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123059,
       "num": 123059,
       "word": "河北警方调查理想MEGA遭恶意攻击事件",
       "onboard_time": 1713859219,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123030,
+      "num": 123030,
+      "word": "上班的目的是偷师",
+      "onboard_time": 1714035438,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 122973,
@@ -12825,6 +12921,14 @@
       "onboard_time": 1713745399,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119307,
+      "num": 119307,
+      "word": "周鸿祎李斌曾毓群同框直播",
+      "onboard_time": 1714035739,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 119206,
@@ -13048,14 +13152,6 @@
       "word": "台湾花莲县连发2次地震",
       "onboard_time": 1713780437,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113037,
-      "num": 315963,
-      "word": "00后边防新兵巡逻前vs巡逻后",
-      "onboard_time": 1714033339,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -13355,8 +13451,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 104281,
-      "num": 289378,
+      "raw_hot": 104383,
+      "num": 359206,
       "word": "科技让中药传承迎来新机遇",
       "onboard_time": 1714032379,
       "rank": 19,
@@ -14123,6 +14219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51101,
+      "num": 194522,
+      "word": "李现扫楼发型",
+      "onboard_time": 1714035199,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50649,
       "num": 238557,
       "word": "Z9原来是贼久的意思",
@@ -14481,6 +14585,14 @@
       "onboard_time": 1713821231,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 25295,
+      "num": 370905,
+      "word": "蓝山智驾版3项行业之首有多牛",
+      "onboard_time": 1714034239,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 24935,
