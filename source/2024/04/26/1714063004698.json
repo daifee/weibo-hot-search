@@ -1,0 +1,410 @@
+{
+  "runTime": 1714063004698,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 657991,
+        "num": 657991,
+        "word": "杨幂演技",
+        "onboard_time": 1714057039,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 516338,
+        "num": 516338,
+        "word": "爬山失联女子丈夫请网友停止恶意揣测",
+        "onboard_time": 1714058299,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6651,
+        "num": 480240,
+        "word": "全国网络普法行江苏站",
+        "onboard_time": 1714032319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450484,
+        "num": 450484,
+        "word": "武艺 各位老师对不起",
+        "onboard_time": 1714054638,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413350,
+        "num": 413350,
+        "word": "法国总统马克龙警告欧洲可能消亡",
+        "onboard_time": 1714056259,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 402141,
+        "num": 402141,
+        "word": "张元英耳戴红花",
+        "onboard_time": 1714058418,
+        "rank": 5,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 369756,
+        "num": 369756,
+        "word": "黄景瑜和警校学生掰手腕",
+        "onboard_time": 1714059439,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218150,
+        "num": 218150,
+        "word": "山西地震",
+        "onboard_time": 1714050919,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215210,
+        "num": 215210,
+        "word": "吐槽张黎",
+        "onboard_time": 1714056498,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109111,
+        "num": 215208,
+        "word": "职高女孩用9年逆袭成为双一流大学研究生",
+        "onboard_time": 1714039758,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 728713,
+        "num": 215202,
+        "word": "女生被曝遭造黄谣跳楼身亡",
+        "onboard_time": 1714052358,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683758,
+        "num": 215195,
+        "word": "张艺兴开大G",
+        "onboard_time": 1714054998,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470795,
+        "num": 215186,
+        "word": "B太遇到真实的商战了",
+        "onboard_time": 1714059079,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446612,
+        "num": 215180,
+        "word": "金靖 舒奕橙",
+        "onboard_time": 1714021104,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283976,
+        "num": 215167,
+        "word": "老年艾滋病患者无法言说的性与痛",
+        "onboard_time": 1714032859,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215166,
+        "num": 215166,
+        "word": "张若昀说庆余年五月中旬播",
+        "onboard_time": 1714061597,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171056,
+        "num": 191056,
+        "word": "黄仁俊 这就是我",
+        "onboard_time": 1714056559,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178268,
+        "num": 178268,
+        "word": "王一博去了中国人民警察大学",
+        "onboard_time": 1714051997,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139132,
+        "num": 139132,
+        "word": "宅男腐女恋爱真难10周年",
+        "onboard_time": 1714059858,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 115226,
+        "num": 138868,
+        "word": "京城大师赛",
+        "onboard_time": 1714061538,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 711727,
+        "num": 138539,
+        "word": "金靖舒奕橙在一起四年多了",
+        "onboard_time": 1714047497,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290831,
+        "num": 138409,
+        "word": "酒后脸红的人易衰老抑郁",
+        "onboard_time": 1714059497,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 266558,
+        "num": 137933,
+        "word": "戚薇不建议大家瘦成艺人的样子",
+        "onboard_time": 1714038559,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180451,
+        "num": 137526,
+        "word": "第一次真正认识聚酯纤维",
+        "onboard_time": 1714056679,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 140755,
+        "num": 137296,
+        "word": "删了吧我有个朋友不太舒服",
+        "onboard_time": 1714045817,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226417,
+        "num": 136904,
+        "word": "babymonster 抗洪失败",
+        "onboard_time": 1714043296,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152808,
+        "num": 136600,
+        "word": "花琴 人生易如反掌",
+        "onboard_time": 1714053919,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148169,
+        "num": 136349,
+        "word": "ive新歌背景是葫芦娃救爷爷",
+        "onboard_time": 1714058659,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 92295,
+        "num": 136139,
+        "word": "胡明轩 MVP",
+        "onboard_time": 1714055539,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40885,
+        "num": 135884,
+        "word": "神十八发射现场",
+        "onboard_time": 1714047678,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 135560,
+        "num": 135560,
+        "word": "磕了毛不易和内娱女大的友情",
+        "onboard_time": 1714057818,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129067,
+        "num": 129067,
+        "word": "王一博被晒出手表印",
+        "onboard_time": 1714059378,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119567,
+        "num": 119567,
+        "word": "新浪娱乐头像是李现周雨彤",
+        "onboard_time": 1714058718,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113241,
+        "num": 113241,
+        "word": "我是不结婚 不是不交电费",
+        "onboard_time": 1714029079,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95993,
+        "num": 112656,
+        "word": "孙铭徽 没有遗憾没有保留",
+        "onboard_time": 1714057638,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112305,
+        "num": 112305,
+        "word": "阚清子去海边了",
+        "onboard_time": 1714057158,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98719,
+        "num": 98719,
+        "word": "hybe员工吃瓜忘发zico物料",
+        "onboard_time": 1714037599,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76077,
+        "num": 76077,
+        "word": "艾滋病早期症状有哪些",
+        "onboard_time": 1714049298,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75669,
+        "num": 75669,
+        "word": "神十八发射圆满成功",
+        "onboard_time": 1714053859,
+        "rank": 38,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 74357,
+        "num": 74357,
+        "word": "煮肘 二妞妈",
+        "onboard_time": 1714029618,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96296,
+        "num": 73416,
+        "word": "李云霄提名白玉兰戏剧奖新人主角奖",
+        "onboard_time": 1714057759,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78196,
+        "num": 73346,
+        "word": "舒奕橙是不良人导演",
+        "onboard_time": 1714022123,
+        "rank": 41,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 77391,
+        "num": 73229,
+        "word": "小K有微博了",
+        "onboard_time": 1714047018,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71903,
+        "num": 71903,
+        "word": "ISFP其实就是一面镜子",
+        "onboard_time": 1714057099,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67088,
+        "num": 67088,
+        "word": "运动完脸红和脸白的人谁更健康",
+        "onboard_time": 1714052657,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 66005,
+        "num": 66005,
+        "word": "花蓉结局",
+        "onboard_time": 1714046958,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65995,
+        "num": 65995,
+        "word": "白敬亭地垄沟发型",
+        "onboard_time": 1714055119,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61967,
+        "num": 61967,
+        "word": "张予曦的肤色",
+        "onboard_time": 1714062976,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57089,
+        "num": 61880,
+        "word": "许钟豪撞倒任骏飞",
+        "onboard_time": 1714053859,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43232,
+        "num": 61859,
+        "word": "S组大结局",
+        "onboard_time": 1714051938,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察陆军军医大学#"
+    }
+  }
+}
