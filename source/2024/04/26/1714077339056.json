@@ -1,0 +1,410 @@
+{
+  "runTime": 1714077339056,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 83446,
+        "num": 83446,
+        "word": "央媒评网红博流量毫无底线",
+        "onboard_time": 1714067711,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56306,
+        "num": 56306,
+        "word": "爬山失联女子丈夫请网友停止恶意揣测",
+        "onboard_time": 1714058299,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2926,
+        "num": 50692,
+        "word": "全国网络普法行江苏站",
+        "onboard_time": 1714032319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46843,
+        "num": 46843,
+        "word": "谭爷爷你孙女当花局长了",
+        "onboard_time": 1714072811,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40215,
+        "num": 40215,
+        "word": "神十八发射圆满成功",
+        "onboard_time": 1714053859,
+        "rank": 4,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 39502,
+        "num": 39502,
+        "word": "杨幂演技",
+        "onboard_time": 1714057039,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38753,
+        "num": 38753,
+        "word": "美国校园冲突升级",
+        "onboard_time": 1714064173,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38242,
+        "num": 38242,
+        "word": "法国总统马克龙警告欧洲可能消亡",
+        "onboard_time": 1714056259,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 34840,
+        "num": 34840,
+        "word": "沈阳",
+        "onboard_time": 1714074070,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31791,
+        "num": 31791,
+        "word": "武艺 各位老师对不起",
+        "onboard_time": 1714054638,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81380,
+        "num": 31618,
+        "word": "女生被曝遭造黄谣跳楼身亡",
+        "onboard_time": 1714052358,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49072,
+        "num": 31448,
+        "word": "张艺兴开大G",
+        "onboard_time": 1714054998,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43547,
+        "num": 31296,
+        "word": "老年艾滋病患者无法言说的性与痛",
+        "onboard_time": 1714032859,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 35252,
+        "num": 31250,
+        "word": "金靖 舒奕橙",
+        "onboard_time": 1714021104,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31074,
+        "num": 31074,
+        "word": "山西地震",
+        "onboard_time": 1714050919,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29895,
+        "num": 29895,
+        "word": "英国最大监狱被曝多起性丑闻",
+        "onboard_time": 1714075811,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29800,
+        "num": 29800,
+        "word": "B太遇到真实的商战了",
+        "onboard_time": 1714059079,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27660,
+        "num": 27660,
+        "word": "花琴 人生易如反掌",
+        "onboard_time": 1714053919,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22901,
+        "num": 22901,
+        "word": "神十八",
+        "onboard_time": 1714047858,
+        "rank": 18,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 14122,
+        "num": 22519,
+        "word": "黄仁俊 这就是我",
+        "onboard_time": 1714056559,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42329,
+        "num": 22518,
+        "word": "戚薇不建议大家瘦成艺人的样子",
+        "onboard_time": 1714038559,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41290,
+        "num": 22501,
+        "word": "金靖舒奕橙在一起四年多了",
+        "onboard_time": 1714047497,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22408,
+        "num": 22408,
+        "word": "张元英耳戴红花",
+        "onboard_time": 1714058418,
+        "rank": 22,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 22306,
+        "num": 22306,
+        "word": "京城大师赛",
+        "onboard_time": 1714061538,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21552,
+        "num": 21552,
+        "word": "张若昀说庆余年五月中旬播",
+        "onboard_time": 1714061597,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21142,
+        "num": 21142,
+        "word": "惜花芷",
+        "onboard_time": 1714045518,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20504,
+        "num": 20504,
+        "word": "黄景瑜和警校学生掰手腕",
+        "onboard_time": 1714059439,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20202,
+        "num": 20202,
+        "word": "删了吧我有个朋友不太舒服",
+        "onboard_time": 1714045817,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19228,
+        "num": 19228,
+        "word": "hybe员工吃瓜忘发zico物料",
+        "onboard_time": 1714037599,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 10811,
+        "num": 18877,
+        "word": "神十八发射现场",
+        "onboard_time": 1714047678,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 18800,
+        "num": 18800,
+        "word": "艾滋病早期症状有哪些",
+        "onboard_time": 1714049298,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18652,
+        "num": 18652,
+        "word": "王一博去了中国人民警察大学",
+        "onboard_time": 1714051997,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18610,
+        "num": 18610,
+        "word": "酒后脸红的人易衰老抑郁",
+        "onboard_time": 1714059497,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18138,
+        "num": 18605,
+        "word": "新浪娱乐头像是李现周雨彤",
+        "onboard_time": 1714058718,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16888,
+        "num": 18598,
+        "word": "第一次真正认识聚酯纤维",
+        "onboard_time": 1714056679,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 16170,
+        "num": 18591,
+        "word": "上海月租50元1平米房为摆拍造假",
+        "onboard_time": 1714048577,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17712,
+        "num": 18584,
+        "word": "王一博被晒出手表印",
+        "onboard_time": 1714059378,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16075,
+        "num": 18580,
+        "word": "我是不结婚 不是不交电费",
+        "onboard_time": 1714029079,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15862,
+        "num": 18571,
+        "word": "babymonster 抗洪失败",
+        "onboard_time": 1714043296,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15577,
+        "num": 18564,
+        "word": "赵文琪称美甲不满意可退款重做",
+        "onboard_time": 1714063395,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15338,
+        "num": 18555,
+        "word": "宅男腐女恋爱真难10周年",
+        "onboard_time": 1714059858,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 14837,
+        "num": 18549,
+        "word": "煮肘 二妞妈",
+        "onboard_time": 1714029618,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14747,
+        "num": 18540,
+        "word": "迪丽热巴漫画走出的学姐",
+        "onboard_time": 1714066572,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14538,
+        "num": 18534,
+        "word": "李明德归来看一次哭一次",
+        "onboard_time": 1714076290,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13832,
+        "num": 18527,
+        "word": "张予曦的肤色",
+        "onboard_time": 1714062976,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13754,
+        "num": 18515,
+        "word": "ive新歌背景是葫芦娃救爷爷",
+        "onboard_time": 1714058659,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13610,
+        "num": 18512,
+        "word": "人生易如反掌",
+        "onboard_time": 1714067652,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13174,
+        "num": 18504,
+        "word": "想睡个好觉真的易如反掌",
+        "onboard_time": 1714076350,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12591,
+        "num": 18496,
+        "word": "吐槽张黎",
+        "onboard_time": 1714056498,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11799,
+        "num": 18487,
+        "word": "第五人格演绎之星",
+        "onboard_time": 1714065493,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#开创西部大开发新格局#"
+    }
+  }
+}

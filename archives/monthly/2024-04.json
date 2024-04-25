@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714076303796,
+  "endTime": 1714077339056,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -70571,6 +70571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 46843,
+      "num": 46843,
+      "word": "谭爷爷你孙女当花局长了",
+      "onboard_time": 1714072811,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46826,
       "num": 4360432,
       "word": "中非互联网发展与合作论坛",
@@ -70761,14 +70769,6 @@
       "onboard_time": 1711923312,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42806,
-      "num": 42806,
-      "word": "谭爷爷你孙女当花局长了",
-      "onboard_time": 1714072811,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42439,
@@ -71283,6 +71283,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 34840,
+      "num": 34840,
+      "word": "沈阳",
+      "onboard_time": 1714074070,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34601,
       "num": 34601,
       "word": "张婧仪演破产豪门",
@@ -71585,6 +71593,14 @@
       "onboard_time": 1712428451,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29895,
+      "num": 29895,
+      "word": "英国最大监狱被曝多起性丑闻",
+      "onboard_time": 1714075811,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29767,
@@ -71968,14 +71984,6 @@
       "word": "我国成功发射遥感四十二号01星",
       "onboard_time": 1712101878,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24758,
-      "num": 24758,
-      "word": "沈阳",
-      "onboard_time": 1714074070,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -72595,14 +72603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16760,
-      "num": 17851,
-      "word": "英国最大监狱被曝多起性丑闻",
-      "onboard_time": 1714075811,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16742,
       "num": 16742,
       "word": "王鹤棣又颠勺了",
@@ -72689,6 +72689,14 @@
       "onboard_time": 1712429591,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 14538,
+      "num": 18534,
+      "word": "李明德归来看一次哭一次",
+      "onboard_time": 1714076290,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 14336,
@@ -72795,6 +72803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 13174,
+      "num": 18504,
+      "word": "想睡个好觉真的易如反掌",
+      "onboard_time": 1714076350,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 13118,
       "num": 141025,
       "word": "猫头鹰变身小汽车",
@@ -72841,14 +72857,6 @@
       "onboard_time": 1713206053,
       "rank": 39,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 12573,
-      "num": 17777,
-      "word": "李明德归来看一次哭一次",
-      "onboard_time": 1714076290,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 12521,

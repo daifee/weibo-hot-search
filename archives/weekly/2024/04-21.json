@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714076303796,
+  "endTime": 1714077339056,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -15403,6 +15403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46843,
+      "num": 46843,
+      "word": "谭爷爷你孙女当花局长了",
+      "onboard_time": 1714072811,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45948,
       "num": 75849,
       "word": "林高远张本智和",
@@ -15433,14 +15441,6 @@
       "onboard_time": 1714067052,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 42806,
-      "num": 42806,
-      "word": "谭爷爷你孙女当花局长了",
-      "onboard_time": 1714072811,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42439,
@@ -15595,6 +15595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34840,
+      "num": 34840,
+      "word": "沈阳",
+      "onboard_time": 1714074070,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33917,
       "num": 199211,
       "word": "埃安再造第三个爆款",
@@ -15675,6 +15683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29895,
+      "num": 29895,
+      "word": "英国最大监狱被曝多起性丑闻",
+      "onboard_time": 1714075811,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29767,
       "num": 28406,
       "word": "胃癌在早期没有症状",
@@ -15737,14 +15753,6 @@
       "onboard_time": 1713907630,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 24758,
-      "num": 24758,
-      "word": "沈阳",
-      "onboard_time": 1714074070,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24735,
@@ -15907,14 +15915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16760,
-      "num": 17851,
-      "word": "英国最大监狱被曝多起性丑闻",
-      "onboard_time": 1714075811,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16473,
       "num": 16473,
       "word": "印度街头的餐具",
@@ -15929,6 +15929,14 @@
       "onboard_time": 1713670218,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14538,
+      "num": 18534,
+      "word": "李明德归来看一次哭一次",
+      "onboard_time": 1714076290,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 14196,
@@ -15955,6 +15963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13174,
+      "num": 18504,
+      "word": "想睡个好觉真的易如反掌",
+      "onboard_time": 1714076350,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 13029,
       "num": 17780,
       "word": "张雨绮吃蝎子",
@@ -15969,14 +15985,6 @@
       "onboard_time": 1714032319,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12573,
-      "num": 17777,
-      "word": "李明德归来看一次哭一次",
-      "onboard_time": 1714076290,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 11546,
