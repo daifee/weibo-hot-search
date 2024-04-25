@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1714012730892,
+  "endTime": 1714015157406,
   "band_list": [
     {
       "raw_hot": 2184582,
@@ -11,8 +11,32 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1630924,
+      "num": 1630924,
+      "word": "英国首相将中国列为威权主义国家",
+      "onboard_time": 1714012277,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1386905,
+      "num": 1386905,
+      "word": "爱情公寓秦羽墨美甲店被吐槽",
+      "onboard_time": 1714011797,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1334360,
+      "num": 448136,
+      "word": "郑乃馨公开恋情后被音乐节除名",
+      "onboard_time": 1714012036,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1076753,
-      "num": 371817,
+      "num": 443428,
       "word": "妈妈将3个孩子反锁家中1天只吃1顿",
       "onboard_time": 1714007417,
       "rank": 38,
@@ -33,14 +57,6 @@
       "onboard_time": 1714002559,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 891354,
-      "num": 340064,
-      "word": "郑乃馨公开恋情后被音乐节除名",
-      "onboard_time": 1714012036,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 887559,
@@ -99,20 +115,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 719072,
-      "num": 336507,
-      "word": "爱情公寓秦羽墨美甲店被吐槽",
-      "onboard_time": 1714011797,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 696637,
       "num": 305166,
       "word": "男子多次性侵前女友11岁女儿获刑16年",
       "onboard_time": 1713968059,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 696249,
+      "num": 696249,
+      "word": "男子离婚冷静期街头杀妻被判死刑",
+      "onboard_time": 1714013298,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 661570,
+      "num": 661570,
+      "word": "准00后女干部黄左梦琪已任副镇长",
+      "onboard_time": 1714013537,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637032,
+      "num": 637032,
+      "word": "考上研后被裁员是什么体验",
+      "onboard_time": 1714012338,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 617967,
@@ -259,6 +291,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 382002,
+      "num": 270180,
+      "word": "你认为很贵其实很便宜的东西",
+      "onboard_time": 1714012036,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 378055,
+      "num": 378055,
+      "word": "秦海璐想到十年后的北斗七行哭了",
+      "onboard_time": 1714013598,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 373671,
+      "num": 373671,
+      "word": "爱情公寓其实已经大结局了",
+      "onboard_time": 1714014559,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370649,
       "num": 370649,
       "word": "菠菜一定焯水后吃否则或引发肾损伤",
@@ -307,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 304640,
-      "num": 304640,
-      "word": "英国首相将中国列为威权主义国家",
-      "onboard_time": 1714012277,
-      "rank": 23,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 283921,
       "num": 283921,
       "word": "凤凰传奇 上头",
@@ -339,14 +387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 270180,
-      "num": 270180,
-      "word": "你认为很贵其实很便宜的东西",
-      "onboard_time": 1714012036,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 270026,
       "num": 270026,
       "word": "郭艾伦向贾跃亭讨债",
@@ -363,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264896,
+      "num": 264896,
+      "word": "电影有朵云像你定档",
+      "onboard_time": 1714012397,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 261487,
       "num": 261487,
       "word": "未婚未育的90后开始争当月嫂",
       "onboard_time": 1714008498,
       "rank": 25,
       "category": "社会新闻,母婴育儿"
+    },
+    {
+      "raw_hot": 251434,
+      "num": 251434,
+      "word": "杨幂爸爸正义判官",
+      "onboard_time": 1714013657,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 249925,
@@ -393,6 +449,30 @@
       "onboard_time": 1714001596,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 240677,
+      "num": 197890,
+      "word": "杨幂爸爸说谢谢你们喜欢我女儿",
+      "onboard_time": 1714014377,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 237313,
+      "num": 237313,
+      "word": "我以为就是被偷亲结果他按头了",
+      "onboard_time": 1714013416,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 235421,
+      "num": 235421,
+      "word": "看牙为什么这么贵了",
+      "onboard_time": 1714013238,
+      "rank": 27,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 233287,
@@ -425,14 +505,6 @@
       "onboard_time": 1714005799,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224177,
-      "num": 224177,
-      "word": "考上研后被裁员是什么体验",
-      "onboard_time": 1714012338,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 219667,
@@ -473,14 +545,6 @@
       "onboard_time": 1713971719,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207079,
-      "num": 207079,
-      "word": "电影有朵云像你定档",
-      "onboard_time": 1714012397,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 206475,
@@ -539,6 +603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195281,
+      "num": 195281,
+      "word": "和平精英",
+      "onboard_time": 1714014498,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192549,
       "num": 186503,
       "word": "秦海璐是花少好友记第一站导游",
@@ -561,6 +633,22 @@
       "onboard_time": 1713964878,
       "rank": 24,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 183995,
+      "num": 173256,
+      "word": "杨幂看相机wink",
+      "onboard_time": 1714014438,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183986,
+      "num": 183986,
+      "word": "这个部位胖点是种健康优势",
+      "onboard_time": 1714013176,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 182669,
@@ -619,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171245,
+      "num": 171245,
+      "word": "这届年轻人有多懂低成本出游",
+      "onboard_time": 1714014199,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 163662,
       "num": 163662,
       "word": "未来的国际月球科研站什么样",
@@ -633,6 +729,14 @@
       "onboard_time": 1713968359,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159951,
+      "num": 169572,
+      "word": "中国版Cybertruck引爆北京车展",
+      "onboard_time": 1714014918,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 152418,
@@ -675,6 +779,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143864,
+      "num": 143864,
+      "word": "A股长城汽车一字涨停",
+      "onboard_time": 1714014137,
+      "rank": 41,
+      "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 143263,
+      "num": 143263,
+      "word": "海仁被尹殷盛洗脑",
+      "onboard_time": 1714013957,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142719,
       "num": 142719,
       "word": "吴谨言李纯是同学",
@@ -713,6 +833,14 @@
       "onboard_time": 1714011198,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136984,
+      "num": 136984,
+      "word": "NBA",
+      "onboard_time": 1714012998,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 136019,
@@ -825,6 +953,14 @@
       "onboard_time": 1713952039,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112055,
+      "num": 112055,
+      "word": "毛不易曾想过要整容",
+      "onboard_time": 1714013358,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 110533,
@@ -1099,8 +1235,16 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 15297,
+      "num": 109225,
+      "word": "新豪华选阿维塔",
+      "onboard_time": 1714015097,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 12158,
-      "num": 762766,
+      "num": 881797,
       "word": "万千气象看山西",
       "onboard_time": 1713842298,
       "rank": 2,

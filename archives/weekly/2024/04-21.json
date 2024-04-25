@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714012730892,
+  "endTime": 1714015157406,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -291,6 +291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1630924,
+      "num": 1630924,
+      "word": "英国首相将中国列为威权主义国家",
+      "onboard_time": 1714012277,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1630106,
       "num": 1630106,
       "word": "台湾花莲海域5.3级地震",
@@ -435,6 +443,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 1386905,
+      "num": 1386905,
+      "word": "爱情公寓秦羽墨美甲店被吐槽",
+      "onboard_time": 1714011797,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1356528,
       "num": 1356528,
       "word": "薛之谦演唱会一个人来的女主发声",
@@ -465,6 +481,14 @@
       "onboard_time": 1713701958,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1334360,
+      "num": 448136,
+      "word": "郑乃馨公开恋情后被音乐节除名",
+      "onboard_time": 1714012036,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 1328994,
@@ -764,7 +788,7 @@
     },
     {
       "raw_hot": 1076753,
-      "num": 371817,
+      "num": 443428,
       "word": "妈妈将3个孩子反锁家中1天只吃1顿",
       "onboard_time": 1714007417,
       "rank": 38,
@@ -1089,14 +1113,6 @@
       "onboard_time": 1713838638,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 891354,
-      "num": 340064,
-      "word": "郑乃馨公开恋情后被音乐节除名",
-      "onboard_time": 1714012036,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 887559,
@@ -1563,14 +1579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 719072,
-      "num": 336507,
-      "word": "爱情公寓秦羽墨美甲店被吐槽",
-      "onboard_time": 1714011797,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 714998,
       "num": 714998,
       "word": "金价又跌了",
@@ -1641,6 +1649,14 @@
       "onboard_time": 1713768137,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 696249,
+      "num": 696249,
+      "word": "男子离婚冷静期街头杀妻被判死刑",
+      "onboard_time": 1714013298,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 694088,
@@ -1827,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 661570,
+      "num": 661570,
+      "word": "准00后女干部黄左梦琪已任副镇长",
+      "onboard_time": 1714013537,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 660289,
       "num": 660289,
       "word": "NewJeans和父母全力支持闵熙珍",
@@ -1913,6 +1937,14 @@
       "onboard_time": 1713881600,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 637032,
+      "num": 637032,
+      "word": "考上研后被裁员是什么体验",
+      "onboard_time": 1714012338,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 636140,
@@ -3795,6 +3827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382002,
+      "num": 270180,
+      "word": "你认为很贵其实很便宜的东西",
+      "onboard_time": 1714012036,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 381234,
       "num": 381234,
       "word": "苹果计划为iPad推出计算器应用",
@@ -3835,6 +3875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378055,
+      "num": 378055,
+      "word": "秦海璐想到十年后的北斗七行哭了",
+      "onboard_time": 1714013598,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376444,
       "num": 376444,
       "word": "极限挑战开播",
@@ -3865,6 +3913,14 @@
       "onboard_time": 1713682337,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 373671,
+      "num": 373671,
+      "word": "爱情公寓其实已经大结局了",
+      "onboard_time": 1714014559,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 371111,
@@ -4539,14 +4595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 304640,
-      "num": 304640,
-      "word": "英国首相将中国列为威权主义国家",
-      "onboard_time": 1714012277,
-      "rank": 23,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 303659,
       "num": 434551,
       "word": "一个民族总要有一群看天的人",
@@ -5051,14 +5099,6 @@
       "category": "国内时政,科学科普"
     },
     {
-      "raw_hot": 270180,
-      "num": 270180,
-      "word": "你认为很贵其实很便宜的东西",
-      "onboard_time": 1714012036,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 270026,
       "num": 270026,
       "word": "郭艾伦向贾跃亭讨债",
@@ -5161,6 +5201,14 @@
       "onboard_time": 1713651371,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 264896,
+      "num": 264896,
+      "word": "电影有朵云像你定档",
+      "onboard_time": 1714012397,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 264087,
@@ -5459,6 +5507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 251434,
+      "num": 251434,
+      "word": "杨幂爸爸正义判官",
+      "onboard_time": 1714013657,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 251367,
       "num": 251367,
       "word": "以闪亮之名",
@@ -5707,6 +5763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 240677,
+      "num": 197890,
+      "word": "杨幂爸爸说谢谢你们喜欢我女儿",
+      "onboard_time": 1714014377,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239995,
       "num": 239995,
       "word": "补气血是有顺序的",
@@ -5835,6 +5899,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 237313,
+      "num": 237313,
+      "word": "我以为就是被偷亲结果他按头了",
+      "onboard_time": 1714013416,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236453,
       "num": 236453,
       "word": "鹿晗生日派对照",
@@ -5873,6 +5945,14 @@
       "onboard_time": 1713849078,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235421,
+      "num": 235421,
+      "word": "看牙为什么这么贵了",
+      "onboard_time": 1714013238,
+      "rank": 27,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 235189,
@@ -6169,14 +6249,6 @@
       "onboard_time": 1713665537,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224177,
-      "num": 224177,
-      "word": "考上研后被裁员是什么体验",
-      "onboard_time": 1714012338,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 224167,
@@ -6753,14 +6825,6 @@
       "onboard_time": 1713773839,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 207079,
-      "num": 207079,
-      "word": "电影有朵云像你定档",
-      "onboard_time": 1714012397,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 206588,
@@ -7457,6 +7521,14 @@
       "onboard_time": 1713713779,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195281,
+      "num": 195281,
+      "word": "和平精英",
+      "onboard_time": 1714014498,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 194864,
@@ -8171,6 +8243,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183995,
+      "num": 173256,
+      "word": "杨幂看相机wink",
+      "onboard_time": 1714014438,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183986,
+      "num": 183986,
+      "word": "这个部位胖点是种健康优势",
+      "onboard_time": 1714013176,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 183904,
       "num": 183904,
       "word": "张真源下班回头和粉丝告别",
@@ -8785,6 +8873,14 @@
       "onboard_time": 1713845419,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171245,
+      "num": 171245,
+      "word": "这届年轻人有多懂低成本出游",
+      "onboard_time": 1714014199,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 171057,
@@ -9409,6 +9505,14 @@
       "onboard_time": 1713829397,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159951,
+      "num": 169572,
+      "word": "中国版Cybertruck引爆北京车展",
+      "onboard_time": 1714014918,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 159300,
@@ -10355,6 +10459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143864,
+      "num": 143864,
+      "word": "A股长城汽车一字涨停",
+      "onboard_time": 1714014137,
+      "rank": 41,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 143831,
       "num": 143831,
       "word": "五一假期县域旅游火了",
@@ -10409,6 +10521,14 @@
       "onboard_time": 1713838878,
       "rank": 48,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 143263,
+      "num": 143263,
+      "word": "海仁被尹殷盛洗脑",
+      "onboard_time": 1714013957,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 143133,
@@ -10801,6 +10921,14 @@
       "onboard_time": 1713913274,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 136984,
+      "num": 136984,
+      "word": "NBA",
+      "onboard_time": 1714012998,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 136983,
@@ -11993,6 +12121,14 @@
       "onboard_time": 1713942018,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112055,
+      "num": 112055,
+      "word": "毛不易曾想过要整容",
+      "onboard_time": 1714013358,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 111725,
@@ -13465,6 +13601,14 @@
       "onboard_time": 1713818470,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 15297,
+      "num": 109225,
+      "word": "新豪华选阿维塔",
+      "onboard_time": 1714015097,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 14892,
