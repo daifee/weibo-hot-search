@@ -1,7 +1,15 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1714023251700,
+  "endTime": 1714026212776,
   "band_list": [
+    {
+      "raw_hot": 7756641,
+      "num": 474681,
+      "word": "金靖 舒奕橙",
+      "onboard_time": 1714021104,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 6852513,
       "num": 6852513,
@@ -11,11 +19,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5431376,
-      "num": 474681,
-      "word": "金靖 舒奕橙",
-      "onboard_time": 1714021104,
-      "rank": 10,
+      "raw_hot": 2820144,
+      "num": 407225,
+      "word": "舒奕橙是不良人导演",
+      "onboard_time": 1714022123,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -51,20 +59,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1410546,
-      "num": 407225,
-      "word": "舒奕橙是不良人导演",
-      "onboard_time": 1714022123,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1334360,
       "num": 479250,
       "word": "郑乃馨公开恋情后被音乐节除名",
       "onboard_time": 1714012036,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1190232,
+      "num": 252824,
+      "word": "姐帮忙催一下不良人7",
+      "onboard_time": 1714024521,
+      "rank": 16,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 1109800,
@@ -187,6 +195,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 663858,
+      "num": 663858,
+      "word": "女生因为爱喝鸡汤做100个鸡花瓶",
+      "onboard_time": 1714020142,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 619765,
+      "num": 619765,
+      "word": "为何越来越多老人染上艾滋病",
+      "onboard_time": 1714023141,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 617967,
       "num": 617967,
       "word": "刚开业价值300万黄金被洗劫一空",
@@ -259,12 +283,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 505948,
-      "num": 505948,
-      "word": "女生因为爱喝鸡汤做100个鸡花瓶",
-      "onboard_time": 1714020142,
-      "rank": 13,
-      "category": "美食"
+      "raw_hot": 509571,
+      "num": 226832,
+      "word": "97年生交警被86岁奶奶叫叔叔",
+      "onboard_time": 1714023322,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 489644,
@@ -313,6 +337,14 @@
       "onboard_time": 1714013598,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 456450,
+      "num": 456450,
+      "word": "日本海岸现超10米长鲸鱼尸体",
+      "onboard_time": 1714023861,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452745,
@@ -459,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333053,
+      "num": 333053,
+      "word": "TheShy夏季赛继续休息",
+      "onboard_time": 1714024702,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 321240,
       "num": 232796,
       "word": "丁俊晖连续4年世锦赛首轮出局",
@@ -587,6 +627,14 @@
       "category": "社会新闻,母婴育儿"
     },
     {
+      "raw_hot": 261058,
+      "num": 190121,
+      "word": "秦海璐要碎了",
+      "onboard_time": 1714025301,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260179,
       "num": 260179,
       "word": "ive新歌预告疑似抄袭RedVelvet",
@@ -633,6 +681,22 @@
       "onboard_time": 1714001596,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 247496,
+      "num": 247496,
+      "word": "不良人 好看",
+      "onboard_time": 1714024761,
+      "rank": 17,
+      "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 247028,
+      "num": 247028,
+      "word": "丁程鑫晒花少合照",
+      "onboard_time": 1714025182,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 237313,
@@ -683,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227884,
+      "num": 227884,
+      "word": "老头杯",
+      "onboard_time": 1714022661,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 227140,
       "num": 227140,
       "word": "怪盗基德 帅得太超过",
@@ -699,12 +771,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225739,
+      "num": 225739,
+      "word": "阿Sa和张韶涵同框了",
+      "onboard_time": 1714023800,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225233,
       "num": 225233,
       "word": "周雨彤我替你演两集吧",
       "onboard_time": 1714005799,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224609,
+      "num": 224609,
+      "word": "素颜的刘宪华",
+      "onboard_time": 1714024941,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221958,
+      "num": 221958,
+      "word": "德云色爆料TheShy将去NIP",
+      "onboard_time": 1714023742,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 219667,
@@ -787,12 +883,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 207780,
-      "num": 207780,
-      "word": "老头杯",
-      "onboard_time": 1714022661,
-      "rank": 31,
-      "category": "电竞"
+      "raw_hot": 207007,
+      "num": 207007,
+      "word": "粥饼伦称周杰伦是他的贵人",
+      "onboard_time": 1714025961,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 206475,
@@ -859,12 +955,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196572,
+      "num": 196572,
+      "word": "谭飞 杨幂表演技巧上的进步",
+      "onboard_time": 1714025723,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196430,
       "num": 196430,
       "word": "恋与深空 Keep奖牌",
       "onboard_time": 1714020201,
       "rank": 36,
       "category": "游戏,运动健身"
+    },
+    {
+      "raw_hot": 196367,
+      "num": 189971,
+      "word": "没见过偷感这么强的监考老师",
+      "onboard_time": 1714025662,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 195281,
@@ -897,6 +1009,14 @@
       "onboard_time": 1714010478,
       "rank": 32,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 190549,
+      "num": 190549,
+      "word": "樱桃用盐水泡会有小虫钻出来",
+      "onboard_time": 1714023141,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 188618,
@@ -1019,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170822,
+      "num": 170822,
+      "word": "丞磊素颜状态",
+      "onboard_time": 1714023921,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163662,
       "num": 163662,
       "word": "未来的国际月球科研站什么样",
@@ -1033,14 +1161,6 @@
       "onboard_time": 1713968359,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156662,
-      "num": 156662,
-      "word": "为何越来越多老人染上艾滋病",
-      "onboard_time": 1714023141,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 152418,
@@ -1115,12 +1235,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 146259,
+      "num": 146259,
+      "word": "郑合惠子普通女孩勇闯娱乐圈",
+      "onboard_time": 1714024341,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146087,
       "num": 146087,
       "word": "老舅是张若昀的开关",
       "onboard_time": 1713973878,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144937,
+      "num": 144937,
+      "word": "小米展台",
+      "onboard_time": 1714025301,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 143864,
@@ -1161,14 +1297,6 @@
       "onboard_time": 1714019601,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 140198,
-      "num": 140198,
-      "word": "樱桃用盐水泡会有小虫钻出来",
-      "onboard_time": 1714023141,
-      "rank": 47,
-      "category": "科学科普"
     },
     {
       "raw_hot": 139489,
@@ -1257,6 +1385,14 @@
       "onboard_time": 1714009937,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126674,
+      "num": 126674,
+      "word": "姚志明的人生没有一顿团圆饭",
+      "onboard_time": 1714026141,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 126309,
@@ -1385,6 +1521,14 @@
       "onboard_time": 1713974719,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101388,
+      "num": 202945,
+      "word": "凯迪拉克V我50",
+      "onboard_time": 1714025061,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 101313,
@@ -1641,6 +1785,14 @@
       "onboard_time": 1713969259,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20250,
+      "num": 131471,
+      "word": "在奔驰中超越奔驰",
+      "onboard_time": 1714026021,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 19555,

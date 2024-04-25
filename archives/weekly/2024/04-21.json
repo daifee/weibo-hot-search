@@ -1,7 +1,15 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714023251700,
+  "endTime": 1714026212776,
   "band_list": [
+    {
+      "raw_hot": 7756641,
+      "num": 474681,
+      "word": "金靖 舒奕橙",
+      "onboard_time": 1714021104,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 6852513,
       "num": 6852513,
@@ -17,14 +25,6 @@
       "onboard_time": 1713710062,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 5431376,
-      "num": 474681,
-      "word": "金靖 舒奕橙",
-      "onboard_time": 1714021104,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 4471317,
@@ -73,6 +73,14 @@
       "onboard_time": 1713690258,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2820144,
+      "num": 407225,
+      "word": "舒奕橙是不良人导演",
+      "onboard_time": 1714022123,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 2747935,
@@ -459,14 +467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1410546,
-      "num": 407225,
-      "word": "舒奕橙是不良人导演",
-      "onboard_time": 1714022123,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1390778,
       "num": 513122,
       "word": "恋综史上最激烈的深吻",
@@ -649,6 +649,14 @@
       "onboard_time": 1713786917,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1190232,
+      "num": 252824,
+      "word": "姐帮忙催一下不良人7",
+      "onboard_time": 1714024521,
+      "rank": 16,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 1184063,
@@ -1899,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 663858,
+      "num": 663858,
+      "word": "女生因为爱喝鸡汤做100个鸡花瓶",
+      "onboard_time": 1714020142,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 660289,
       "num": 660289,
       "word": "NewJeans和父母全力支持闵熙珍",
@@ -2081,6 +2097,14 @@
       "onboard_time": 1713945018,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 619765,
+      "num": 619765,
+      "word": "为何越来越多老人染上艾滋病",
+      "onboard_time": 1714023141,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 618469,
@@ -2763,6 +2787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 509571,
+      "num": 226832,
+      "word": "97年生交警被86岁奶奶叫叔叔",
+      "onboard_time": 1714023322,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509023,
       "num": 509023,
       "word": "许嵩合肥抢票",
@@ -2809,14 +2841,6 @@
       "onboard_time": 1713838518,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 505948,
-      "num": 505948,
-      "word": "女生因为爱喝鸡汤做100个鸡花瓶",
-      "onboard_time": 1714020142,
-      "rank": 13,
-      "category": "美食"
     },
     {
       "raw_hot": 503096,
@@ -3233,6 +3257,14 @@
       "onboard_time": 1713963620,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 456450,
+      "num": 456450,
+      "word": "日本海岸现超10米长鲸鱼尸体",
+      "onboard_time": 1714023861,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455209,
@@ -4427,6 +4459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333053,
+      "num": 333053,
+      "word": "TheShy夏季赛继续休息",
+      "onboard_time": 1714024702,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 331302,
       "num": 485431,
       "word": "为年轻人开的15元旅店17年没涨价",
@@ -5475,6 +5515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261058,
+      "num": 190121,
+      "word": "秦海璐要碎了",
+      "onboard_time": 1714025301,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260917,
       "num": 130329,
       "word": "杨千嬅哭了",
@@ -5779,11 +5827,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 247496,
+      "num": 247496,
+      "word": "不良人 好看",
+      "onboard_time": 1714024761,
+      "rank": 17,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 247333,
       "num": 241986,
       "word": "黄景瑜体格怎么这么大",
       "onboard_time": 1713882739,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 247028,
+      "num": 247028,
+      "word": "丁程鑫晒花少合照",
+      "onboard_time": 1714025182,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -6355,6 +6419,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 227884,
+      "num": 227884,
+      "word": "老头杯",
+      "onboard_time": 1714022661,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 227140,
       "num": 227140,
       "word": "怪盗基德 帅得太超过",
@@ -6401,6 +6473,14 @@
       "onboard_time": 1713869898,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 225739,
+      "num": 225739,
+      "word": "阿Sa和张韶涵同框了",
+      "onboard_time": 1714023800,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 225637,
@@ -6451,6 +6531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224609,
+      "num": 224609,
+      "word": "素颜的刘宪华",
+      "onboard_time": 1714024941,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224167,
       "num": 224167,
       "word": "尚雯婕 语言可以六国人很难多记一个",
@@ -6489,6 +6577,14 @@
       "onboard_time": 1713877879,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221958,
+      "num": 221958,
+      "word": "德云色爆料TheShy将去NIP",
+      "onboard_time": 1714023742,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 221919,
@@ -7003,14 +7099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207780,
-      "num": 207780,
-      "word": "老头杯",
-      "onboard_time": 1714022661,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 207746,
       "num": 207746,
       "word": "电视剧水龙吟杀青",
@@ -7073,6 +7161,14 @@
       "onboard_time": 1713773839,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 207007,
+      "num": 207007,
+      "word": "粥饼伦称周杰伦是他的贵人",
+      "onboard_time": 1714025961,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 206588,
@@ -7707,6 +7803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196572,
+      "num": 196572,
+      "word": "谭飞 杨幂表演技巧上的进步",
+      "onboard_time": 1714025723,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196523,
       "num": 196523,
       "word": "世界是一个巨大的草台班子",
@@ -7737,6 +7841,14 @@
       "onboard_time": 1714020201,
       "rank": 36,
       "category": "游戏,运动健身"
+    },
+    {
+      "raw_hot": 196367,
+      "num": 189971,
+      "word": "没见过偷感这么强的监考老师",
+      "onboard_time": 1714025662,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 196187,
@@ -8097,6 +8209,14 @@
       "onboard_time": 1714010478,
       "rank": 32,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 190549,
+      "num": 190549,
+      "word": "樱桃用盐水泡会有小虫钻出来",
+      "onboard_time": 1714023141,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 190491,
@@ -9227,6 +9347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170822,
+      "num": 170822,
+      "word": "丞磊素颜状态",
+      "onboard_time": 1714023921,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170766,
       "num": 170766,
       "word": "龚俊骗严浩翔吃青杏子",
@@ -9929,14 +10057,6 @@
       "onboard_time": 1713662539,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156662,
-      "num": 156662,
-      "word": "为何越来越多老人染上艾滋病",
-      "onboard_time": 1714023141,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 156617,
@@ -10659,6 +10779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146259,
+      "num": 146259,
+      "word": "郑合惠子普通女孩勇闯娱乐圈",
+      "onboard_time": 1714024341,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146237,
       "num": 146237,
       "word": "迪丽热巴reaction刘宇宁被吓",
@@ -10737,6 +10865,14 @@
       "onboard_time": 1713756918,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144937,
+      "num": 144937,
+      "word": "小米展台",
+      "onboard_time": 1714025301,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 144929,
@@ -11073,14 +11209,6 @@
       "onboard_time": 1713658937,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140198,
-      "num": 140198,
-      "word": "樱桃用盐水泡会有小虫钻出来",
-      "onboard_time": 1714023141,
-      "rank": 47,
-      "category": "科学科普"
     },
     {
       "raw_hot": 140093,
@@ -11865,6 +11993,14 @@
       "onboard_time": 1713684558,
       "rank": 47,
       "category": "情感,旅游"
+    },
+    {
+      "raw_hot": 126674,
+      "num": 126674,
+      "word": "姚志明的人生没有一顿团圆饭",
+      "onboard_time": 1714026141,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 126664,
@@ -12833,6 +12969,14 @@
       "onboard_time": 1713974719,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101388,
+      "num": 202945,
+      "word": "凯迪拉克V我50",
+      "onboard_time": 1714025061,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 101289,
@@ -13937,6 +14081,14 @@
       "onboard_time": 1713813192,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20250,
+      "num": 131471,
+      "word": "在奔驰中超越奔驰",
+      "onboard_time": 1714026021,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 19747,
