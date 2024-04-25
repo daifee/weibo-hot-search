@@ -1,0 +1,410 @@
+{
+  "runTime": 1714062132529,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 756966,
+        "num": 756966,
+        "word": "杨幂演技",
+        "onboard_time": 1714057039,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 572579,
+        "num": 572579,
+        "word": "武艺 各位老师对不起",
+        "onboard_time": 1714054638,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6897,
+        "num": 538513,
+        "word": "全国网络普法行江苏站",
+        "onboard_time": 1714032319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532723,
+        "num": 532723,
+        "word": "爬山失联女子丈夫请网友停止恶意揣测",
+        "onboard_time": 1714058299,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498204,
+        "num": 498204,
+        "word": "张元英耳戴红花",
+        "onboard_time": 1714058418,
+        "rank": 4,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 481072,
+        "num": 481072,
+        "word": "法国总统马克龙警告欧洲可能消亡",
+        "onboard_time": 1714056259,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 344978,
+        "num": 344978,
+        "word": "黄景瑜和警校学生掰手腕",
+        "onboard_time": 1714059439,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253579,
+        "num": 272500,
+        "word": "黄仁俊 这就是我",
+        "onboard_time": 1714056559,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244781,
+        "num": 244781,
+        "word": "山西地震",
+        "onboard_time": 1714050919,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148364,
+        "num": 243964,
+        "word": "职高女孩用9年逆袭成为双一流大学研究生",
+        "onboard_time": 1714039758,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 869185,
+        "num": 243239,
+        "word": "女生被曝遭造黄谣跳楼身亡",
+        "onboard_time": 1714052358,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809102,
+        "num": 241372,
+        "word": "张艺兴开大G",
+        "onboard_time": 1714054998,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528526,
+        "num": 239561,
+        "word": "金靖 舒奕橙",
+        "onboard_time": 1714021104,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462220,
+        "num": 238858,
+        "word": "B太遇到真实的商战了",
+        "onboard_time": 1714059079,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319808,
+        "num": 237796,
+        "word": "老年艾滋病患者无法言说的性与痛",
+        "onboard_time": 1714032859,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 270012,
+        "num": 236446,
+        "word": "吐槽张黎",
+        "onboard_time": 1714056498,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235102,
+        "num": 235102,
+        "word": "王一博去了中国人民警察大学",
+        "onboard_time": 1714051997,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198312,
+        "num": 198312,
+        "word": "花琴 人生易如反掌",
+        "onboard_time": 1714053919,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117667,
+        "num": 198142,
+        "word": "胡明轩 MVP",
+        "onboard_time": 1714055539,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106070,
+        "num": 197610,
+        "word": "神十八发射圆满成功",
+        "onboard_time": 1714053859,
+        "rank": 19,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 758656,
+        "num": 197217,
+        "word": "金靖舒奕橙在一起四年多了",
+        "onboard_time": 1714047497,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339639,
+        "num": 196968,
+        "word": "戚薇不建议大家瘦成艺人的样子",
+        "onboard_time": 1714038559,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265220,
+        "num": 196523,
+        "word": "酒后脸红的人易衰老抑郁",
+        "onboard_time": 1714059497,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249152,
+        "num": 195957,
+        "word": "第一次真正认识聚酯纤维",
+        "onboard_time": 1714056679,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 195933,
+        "num": 195933,
+        "word": "删了吧我有个朋友不太舒服",
+        "onboard_time": 1714045817,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289997,
+        "num": 195908,
+        "word": "babymonster 抗洪失败",
+        "onboard_time": 1714043296,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170755,
+        "num": 195843,
+        "word": "磕了毛不易和内娱女大的友情",
+        "onboard_time": 1714057818,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158332,
+        "num": 195748,
+        "word": "ive新歌背景是葫芦娃救爷爷",
+        "onboard_time": 1714058659,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124822,
+        "num": 195689,
+        "word": "我是不结婚 不是不交电费",
+        "onboard_time": 1714029079,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44470,
+        "num": 195611,
+        "word": "神十八发射现场",
+        "onboard_time": 1714047678,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 151496,
+        "num": 195514,
+        "word": "王一博被晒出手表印",
+        "onboard_time": 1714059378,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141035,
+        "num": 195456,
+        "word": "张若昀说庆余年五月中旬播",
+        "onboard_time": 1714061597,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139648,
+        "num": 195436,
+        "word": "阚清子去海边了",
+        "onboard_time": 1714057158,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103971,
+        "num": 195337,
+        "word": "宅男腐女恋爱真难10周年",
+        "onboard_time": 1714059858,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 100548,
+        "num": 195283,
+        "word": "孙铭徽 没有遗憾没有保留",
+        "onboard_time": 1714057638,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128957,
+        "num": 195215,
+        "word": "李云霄提名白玉兰戏剧奖新人主角奖",
+        "onboard_time": 1714057759,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123600,
+        "num": 195135,
+        "word": "新浪娱乐头像是李现周雨彤",
+        "onboard_time": 1714058718,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120027,
+        "num": 195058,
+        "word": "hybe员工吃瓜忘发zico物料",
+        "onboard_time": 1714037599,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86765,
+        "num": 194999,
+        "word": "ISFP其实就是一面镜子",
+        "onboard_time": 1714057099,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86082,
+        "num": 194925,
+        "word": "艾滋病早期症状有哪些",
+        "onboard_time": 1714049298,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98652,
+        "num": 194822,
+        "word": "小K有微博了",
+        "onboard_time": 1714047018,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93709,
+        "num": 194759,
+        "word": "舒奕橙是不良人导演",
+        "onboard_time": 1714022123,
+        "rank": 41,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 81645,
+        "num": 194723,
+        "word": "运动完脸红和脸白的人谁更健康",
+        "onboard_time": 1714052657,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 81135,
+        "num": 194614,
+        "word": "白敬亭地垄沟发型",
+        "onboard_time": 1714055119,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80743,
+        "num": 194577,
+        "word": "煮肘 二妞妈",
+        "onboard_time": 1714029618,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71652,
+        "num": 194526,
+        "word": "seventeen预告",
+        "onboard_time": 1714060158,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 68360,
+        "num": 194417,
+        "word": "许钟豪撞倒任骏飞",
+        "onboard_time": 1714053859,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60761,
+        "num": 194367,
+        "word": "京城大师赛",
+        "onboard_time": 1714061538,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 56746,
+        "num": 194279,
+        "word": "S组大结局",
+        "onboard_time": 1714051938,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 56004,
+        "num": 194190,
+        "word": "杭州爬山失联女子已找到丈夫发声",
+        "onboard_time": 1714032799,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从8次座谈会看总书记推动区域发展战略落实#"
+    }
+  }
+}
