@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1714040337059,
+  "endTime": 1714041296227,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -83,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1387455,
+      "num": 563750,
+      "word": "戚薇不建议大家瘦成艺人的样子",
+      "onboard_time": 1714038559,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1334360,
       "num": 479250,
       "word": "郑乃馨公开恋情后被音乐节除名",
       "onboard_time": 1714012036,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1281443,
-      "num": 507736,
-      "word": "戚薇不建议大家瘦成艺人的样子",
-      "onboard_time": 1714038559,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1274250,
@@ -289,6 +289,14 @@
       "onboard_time": 1714020142,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 652447,
+      "num": 652447,
+      "word": "高校要求手抄毕业论文引学生不满",
+      "onboard_time": 1714038499,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637367,
@@ -507,14 +515,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 449100,
-      "num": 449100,
-      "word": "高校要求手抄毕业论文引学生不满",
-      "onboard_time": 1714038499,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 445022,
       "num": 408194,
       "word": "HYBE用宫脇咲良和金采源对打张元英",
@@ -561,6 +561,14 @@
       "onboard_time": 1713952578,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 422197,
+      "num": 422197,
+      "word": "神十八瞄准今天20时59分发射",
+      "onboard_time": 1714039758,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 417638,
@@ -619,6 +627,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393306,
+      "num": 333657,
+      "word": "NewJeans发布公告",
+      "onboard_time": 1714039098,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 389979,
+      "num": 334043,
+      "word": "煮肘 二妞妈",
+      "onboard_time": 1714029618,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388495,
       "num": 388495,
       "word": "玲花 维权是你们的权利",
@@ -667,6 +691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 369780,
+      "num": 369780,
+      "word": "丫丫回国一年了",
+      "onboard_time": 1714037299,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368565,
       "num": 368565,
       "word": "咒术回战 虎杖腿没了",
@@ -675,28 +707,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 364682,
-      "num": 364682,
-      "word": "丫丫回国一年了",
-      "onboard_time": 1714037299,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352806,
       "num": 352806,
       "word": "2000元人参泡酒15年后发芽了",
       "onboard_time": 1713978854,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 350480,
-      "num": 333657,
-      "word": "NewJeans发布公告",
-      "onboard_time": 1714039098,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 346977,
@@ -745,14 +761,6 @@
       "onboard_time": 1714024702,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 329740,
-      "num": 329740,
-      "word": "煮肘 二妞妈",
-      "onboard_time": 1714029618,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326348,
@@ -923,14 +931,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 265567,
-      "num": 265567,
-      "word": "神十八瞄准今天20时59分发射",
-      "onboard_time": 1714039758,
-      "rank": 22,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 265357,
       "num": 265357,
       "word": "以前谈恋爱是要交换QQ密码的",
@@ -985,6 +985,14 @@
       "onboard_time": 1714026918,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262043,
+      "num": 395350,
+      "word": "职高女孩用9年逆袭成为双一流大学研究生",
+      "onboard_time": 1714039758,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 261487,
@@ -1339,6 +1347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204905,
+      "num": 190646,
+      "word": "张杰有万人雨刷器",
+      "onboard_time": 1714040300,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203505,
       "num": 203505,
       "word": "官方通报海南3个小孩被锁家里",
@@ -1475,20 +1491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190646,
-      "num": 190646,
-      "word": "张杰有万人雨刷器",
-      "onboard_time": 1714040300,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 190625,
       "num": 190625,
       "word": "雷军 北京车展",
       "onboard_time": 1714010478,
       "rank": 32,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 190597,
+      "num": 190597,
+      "word": "神十八航天员领命出征",
+      "onboard_time": 1714040838,
+      "rank": 28,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 190549,
@@ -1523,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187097,
+      "num": 187097,
+      "word": "神舟十八号发射直播",
+      "onboard_time": 1714040599,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 186481,
       "num": 186481,
       "word": "花少十周年合照",
@@ -1539,6 +1563,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 184467,
+      "num": 184467,
+      "word": "神舟十八号",
+      "onboard_time": 1714040119,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 183995,
       "num": 173256,
       "word": "杨幂看相机wink",
@@ -1548,7 +1580,7 @@
     },
     {
       "raw_hot": 183667,
-      "num": 180572,
+      "num": 182905,
       "word": "迪丽热巴说话根本听不进去",
       "onboard_time": 1714037418,
       "rank": 39,
@@ -1571,14 +1603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181735,
-      "num": 181735,
-      "word": "神舟十八号",
-      "onboard_time": 1714040119,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 181514,
       "num": 337717,
       "word": "小米SU7锁单75723台",
@@ -1593,6 +1617,14 @@
       "onboard_time": 1713970760,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 180296,
+      "num": 180296,
+      "word": "这烧烤很中国",
+      "onboard_time": 1714040717,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 179379,
@@ -2003,20 +2035,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132429,
+      "num": 132429,
+      "word": "胡锡进称新买的股票不断成为黑天鹅",
+      "onboard_time": 1714041138,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132388,
       "num": 132388,
       "word": "hybe将对newjeans进行心理疏导",
       "onboard_time": 1714032140,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131474,
-      "num": 367114,
-      "word": "职高女孩用9年逆袭成为双一流大学研究生",
-      "onboard_time": 1714039758,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 130350,

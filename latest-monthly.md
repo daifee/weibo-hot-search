@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/25 18:18:57
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/25 18:34:56
 </p>
 </blockquote>
 <p>
@@ -1899,6 +1899,12 @@ zara包（热度：1519616）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E7%98%A6%E6%88%90%E8%89%BA%E4%BA%BA%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
+戚薇不建议大家瘦成艺人的样子（热度：1387455）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%BD%A9%E8%8B%B1%E5%8F%8C%E7%9C%BC%E7%9A%AE%23" target="weibo">
 朴彩英双眼皮（热度：1386016）
 </a>
@@ -2291,12 +2297,6 @@ ZARA回应撤出中国传闻（热度：1355755）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%B1%E5%9B%AD%E5%BC%84%E5%85%A8%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
 酱园弄全阵容官宣（热度：1282628）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E7%98%A6%E6%88%90%E8%89%BA%E4%BA%BA%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
-戚薇不建议大家瘦成艺人的样子（热度：1281443）
 </a>
 </li>
 

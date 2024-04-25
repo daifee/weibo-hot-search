@@ -1,0 +1,402 @@
+{
+  "runTime": 1714041296227,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1017531,
+        "num": 1017531,
+        "word": "杭州爬山失联女子已找到丈夫发声",
+        "onboard_time": 1714032799,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652447,
+        "num": 652447,
+        "word": "高校要求手抄毕业论文引学生不满",
+        "onboard_time": 1714038499,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1387455,
+        "num": 563750,
+        "word": "戚薇不建议大家瘦成艺人的样子",
+        "onboard_time": 1714038559,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1061822,
+        "num": 556978,
+        "word": "老年艾滋病患者无法言说的性与痛",
+        "onboard_time": 1714032859,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 518105,
+        "num": 518105,
+        "word": "老人摆摊日入8元被收10元摊位费",
+        "onboard_time": 1714029380,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423817,
+        "num": 423817,
+        "word": "布林肯抵达北京",
+        "onboard_time": 1714036579,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 422197,
+        "num": 422197,
+        "word": "神十八瞄准今天20时59分发射",
+        "onboard_time": 1714039758,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 262043,
+        "num": 395350,
+        "word": "职高女孩用9年逆袭成为双一流大学研究生",
+        "onboard_time": 1714039758,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 369780,
+        "num": 369780,
+        "word": "丫丫回国一年了",
+        "onboard_time": 1714037299,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1764061,
+        "num": 365442,
+        "word": "金靖 舒奕橙",
+        "onboard_time": 1714021104,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 827948,
+        "num": 354736,
+        "word": "hybe员工吃瓜忘发zico物料",
+        "onboard_time": 1714037599,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567891,
+        "num": 346124,
+        "word": "NewJeans哭着问闵熙珍要怎么办",
+        "onboard_time": 1714032199,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433871,
+        "num": 342680,
+        "word": "舒奕橙是不良人导演",
+        "onboard_time": 1714022123,
+        "rank": 13,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 389979,
+        "num": 334043,
+        "word": "煮肘 二妞妈",
+        "onboard_time": 1714029618,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329121,
+        "num": 329121,
+        "word": "illit制作人ins竖中指",
+        "onboard_time": 1714038019,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411834,
+        "num": 326176,
+        "word": "金靖怀孕录的萌探4",
+        "onboard_time": 1714028900,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393306,
+        "num": 316964,
+        "word": "NewJeans发布公告",
+        "onboard_time": 1714039098,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306498,
+        "num": 306498,
+        "word": "HYBE用宫脇咲良和金采源对打张元英",
+        "onboard_time": 1714035919,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251901,
+        "num": 251901,
+        "word": "ive新歌MV全是中国元素",
+        "onboard_time": 1714031840,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 726696,
+        "num": 249631,
+        "word": "张碧晨玩机车是因为赵丽颖",
+        "onboard_time": 1714032859,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271334,
+        "num": 248825,
+        "word": "金靖 迎接第五位家庭成员",
+        "onboard_time": 1714019539,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241913,
+        "num": 241913,
+        "word": "雷军称直面所有质疑造谣问题",
+        "onboard_time": 1714034299,
+        "rank": 22,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 209210,
+        "num": 209210,
+        "word": "我是不结婚 不是不交电费",
+        "onboard_time": 1714029079,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203001,
+        "num": 203001,
+        "word": "以前谈恋爱是要交换QQ密码的",
+        "onboard_time": 1714034839,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246467,
+        "num": 200308,
+        "word": "周深 我再也不敢随便幽默了",
+        "onboard_time": 1714038197,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225076,
+        "num": 197461,
+        "word": "狗头萝莉流泪回应",
+        "onboard_time": 1714030398,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 221958,
+        "num": 194571,
+        "word": "秦岚晒了北斗七行合照",
+        "onboard_time": 1714032618,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190597,
+        "num": 190597,
+        "word": "神十八航天员领命出征",
+        "onboard_time": 1714040838,
+        "rank": 28,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 187604,
+        "num": 187604,
+        "word": "睡不着就在床头放个橘子",
+        "onboard_time": 1714033278,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204905,
+        "num": 187355,
+        "word": "张杰有万人雨刷器",
+        "onboard_time": 1714040300,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203869,
+        "num": 187285,
+        "word": "方时赫说要把aespa踩在脚下",
+        "onboard_time": 1714029320,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187097,
+        "num": 187097,
+        "word": "神舟十八号发射直播",
+        "onboard_time": 1714040599,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184467,
+        "num": 184467,
+        "word": "神舟十八号",
+        "onboard_time": 1714040119,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 182905,
+        "num": 182905,
+        "word": "迪丽热巴说话根本听不进去",
+        "onboard_time": 1714037418,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180296,
+        "num": 180296,
+        "word": "这烧烤很中国",
+        "onboard_time": 1714040717,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 177261,
+        "num": 177261,
+        "word": "一场可以载入历史的记者会",
+        "onboard_time": 1714036820,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174769,
+        "num": 174769,
+        "word": "杨幂路演状态",
+        "onboard_time": 1714036160,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183845,
+        "num": 170809,
+        "word": "多益网络徐波称被前女友卷走3亿",
+        "onboard_time": 1714031658,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 159057,
+        "num": 159057,
+        "word": "Uzi 剑网三",
+        "onboard_time": 1714032319,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153373,
+        "num": 153373,
+        "word": "迪丽热巴短裙转圈",
+        "onboard_time": 1714027040,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143373,
+        "num": 143373,
+        "word": "闵熙珍律师快碎了",
+        "onboard_time": 1714036939,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139576,
+        "num": 139576,
+        "word": "方时赫克星SM",
+        "onboard_time": 1714036820,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139513,
+        "num": 139513,
+        "word": "网红拍低俗视频博眼球被拘15天",
+        "onboard_time": 1714037179,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134291,
+        "num": 134291,
+        "word": "为何越来越多老人染上艾滋病",
+        "onboard_time": 1714023141,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132429,
+        "num": 132429,
+        "word": "胡锡进称新买的股票不断成为黑天鹅",
+        "onboard_time": 1714041138,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129226,
+        "num": 129226,
+        "word": "奶茶最好2小时内喝完",
+        "onboard_time": 1714035259,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127233,
+        "num": 127233,
+        "word": "大学生体质有多虚",
+        "onboard_time": 1714039758,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127006,
+        "num": 127006,
+        "word": "女生因为爱喝鸡汤做100个鸡花瓶",
+        "onboard_time": 1714020142,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118348,
+        "num": 118348,
+        "word": "崔永熙报名NBA选秀",
+        "onboard_time": 1714038077,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于西部大开发总书记强调6个坚持#"
+    }
+  }
+}

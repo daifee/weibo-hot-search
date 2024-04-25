@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714040337059,
+  "endTime": 1714041296227,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -507,6 +507,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 1387455,
+      "num": 563750,
+      "word": "戚薇不建议大家瘦成艺人的样子",
+      "onboard_time": 1714038559,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1356528,
       "num": 1356528,
       "word": "薛之谦演唱会一个人来的女主发声",
@@ -585,14 +593,6 @@
       "onboard_time": 1713877397,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1281443,
-      "num": 507736,
-      "word": "戚薇不建议大家瘦成艺人的样子",
-      "onboard_time": 1714038559,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1274250,
@@ -2041,6 +2041,14 @@
       "onboard_time": 1713852979,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 652447,
+      "num": 652447,
+      "word": "高校要求手抄毕业论文引学生不满",
+      "onboard_time": 1714038499,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 648699,
@@ -3499,14 +3507,6 @@
       "category": "国内时政,科学科普"
     },
     {
-      "raw_hot": 449100,
-      "num": 449100,
-      "word": "高校要求手抄毕业论文引学生不满",
-      "onboard_time": 1714038499,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 448734,
       "num": 448734,
       "word": "韩雪各跳各的",
@@ -3777,6 +3777,14 @@
       "onboard_time": 1713855139,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422197,
+      "num": 422197,
+      "word": "神十八瞄准今天20时59分发射",
+      "onboard_time": 1714039758,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 422104,
@@ -4059,6 +4067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393306,
+      "num": 333657,
+      "word": "NewJeans发布公告",
+      "onboard_time": 1714039098,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392691,
       "num": 392691,
       "word": "不想发朋友圈的可以发状态",
@@ -4105,6 +4121,14 @@
       "onboard_time": 1713964279,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389979,
+      "num": 334043,
+      "word": "煮肘 二妞妈",
+      "onboard_time": 1714029618,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387976,
@@ -4283,6 +4307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 369780,
+      "num": 369780,
+      "word": "丫丫回国一年了",
+      "onboard_time": 1714037299,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368565,
       "num": 368565,
       "word": "咒术回战 虎杖腿没了",
@@ -4321,14 +4353,6 @@
       "onboard_time": 1713763279,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364682,
-      "num": 364682,
-      "word": "丫丫回国一年了",
-      "onboard_time": 1714037299,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363899,
@@ -4481,14 +4505,6 @@
       "onboard_time": 1713709701,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 350480,
-      "num": 333657,
-      "word": "NewJeans发布公告",
-      "onboard_time": 1714039098,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 350105,
@@ -4737,14 +4753,6 @@
       "onboard_time": 1713924676,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 329740,
-      "num": 329740,
-      "word": "煮肘 二妞妈",
-      "onboard_time": 1714029618,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 329268,
@@ -5723,14 +5731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265567,
-      "num": 265567,
-      "word": "神十八瞄准今天20时59分发射",
-      "onboard_time": 1714039758,
-      "rank": 22,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 265357,
       "num": 265357,
       "word": "以前谈恋爱是要交换QQ密码的",
@@ -5833,6 +5833,14 @@
       "onboard_time": 1713756138,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262043,
+      "num": 395350,
+      "word": "职高女孩用9年逆袭成为双一流大学研究生",
+      "onboard_time": 1714039758,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 261817,
@@ -7731,6 +7739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204905,
+      "num": 190646,
+      "word": "张杰有万人雨刷器",
+      "onboard_time": 1714040300,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204791,
       "num": 204791,
       "word": "还没毕业就拿到百万offer",
@@ -8675,20 +8691,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190646,
-      "num": 190646,
-      "word": "张杰有万人雨刷器",
-      "onboard_time": 1714040300,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 190625,
       "num": 190625,
       "word": "雷军 北京车展",
       "onboard_time": 1714010478,
       "rank": 32,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 190597,
+      "num": 190597,
+      "word": "神十八航天员领命出征",
+      "onboard_time": 1714040838,
+      "rank": 28,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 190549,
@@ -8931,6 +8947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187097,
+      "num": 187097,
+      "word": "神舟十八号发射直播",
+      "onboard_time": 1714040599,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 187073,
       "num": 187073,
       "word": "尚雯婕认识前是哑巴认识后是喇叭",
@@ -9123,6 +9147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184467,
+      "num": 184467,
+      "word": "神舟十八号",
+      "onboard_time": 1714040119,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 184389,
       "num": 184389,
       "word": "以为是陈丽君仿妆结果是本人",
@@ -9196,7 +9228,7 @@
     },
     {
       "raw_hot": 183667,
-      "num": 180572,
+      "num": 182905,
       "word": "迪丽热巴说话根本听不进去",
       "onboard_time": 1714037418,
       "rank": 39,
@@ -9283,14 +9315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 181735,
-      "num": 181735,
-      "word": "神舟十八号",
-      "onboard_time": 1714040119,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 181596,
       "num": 181596,
       "word": "高德导航小团团语音包留言刷屏",
@@ -9361,6 +9385,14 @@
       "onboard_time": 1713740115,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 180296,
+      "num": 180296,
+      "word": "这烧烤很中国",
+      "onboard_time": 1714040717,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 180055,
@@ -12315,6 +12347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 132429,
+      "num": 132429,
+      "word": "胡锡进称新买的股票不断成为黑天鹅",
+      "onboard_time": 1714041138,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132390,
       "num": 132390,
       "word": "A股",
@@ -12409,14 +12449,6 @@
       "onboard_time": 1713786738,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131474,
-      "num": 367114,
-      "word": "职高女孩用9年逆袭成为双一流大学研究生",
-      "onboard_time": 1714039758,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 131158,
