@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1714054449099,
+  "endTime": 1714055658291,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1967609,
+      "num": 1967609,
+      "word": "神十八发射圆满成功",
+      "onboard_time": 1714053859,
+      "rank": 9,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 1743796,
       "num": 1743796,
       "word": "英国首相将中国列为威权主义国家",
@@ -59,19 +67,19 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1621930,
+      "num": 365319,
+      "word": "女生被曝遭造黄谣跳楼身亡",
+      "onboard_time": 1714052358,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1606112,
       "num": 1606112,
       "word": "杭州爬山失联女子已找到丈夫发声",
       "onboard_time": 1714032799,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1469041,
-      "num": 365319,
-      "word": "女生被曝遭造黄谣跳楼身亡",
-      "onboard_time": 1714052358,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -169,6 +177,14 @@
       "onboard_time": 1714015277,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1101290,
+      "num": 273044,
+      "word": "张艺兴开大G",
+      "onboard_time": 1714054998,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1076753,
@@ -523,20 +539,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 512738,
+      "num": 306941,
+      "word": "金靖官宣怀孕后首受访",
+      "onboard_time": 1714051696,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 508109,
       "num": 508109,
       "word": "秦岚晒了北斗七行合照",
       "onboard_time": 1714032618,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 504238,
-      "num": 306941,
-      "word": "金靖官宣怀孕后首受访",
-      "onboard_time": 1714051696,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 501094,
@@ -689,6 +705,14 @@
       "onboard_time": 1714011078,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 430078,
+      "num": 270970,
+      "word": "武艺 各位老师对不起",
+      "onboard_time": 1714054638,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 430035,
@@ -873,6 +897,14 @@
       "onboard_time": 1713978854,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352443,
+      "num": 269334,
+      "word": "花琴 人生易如反掌",
+      "onboard_time": 1714053919,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 347965,
@@ -1067,14 +1099,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 283538,
-      "num": 366674,
-      "word": "神十八发射圆满成功",
-      "onboard_time": 1714053859,
-      "rank": 9,
-      "category": "国内时政,科学科普"
-    },
-    {
       "raw_hot": 282934,
       "num": 254446,
       "word": "周深 我再也不敢随便幽默了",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1714018698,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 266415,
+      "num": 266415,
+      "word": "洪恩採提前知道aespa回归时间",
+      "onboard_time": 1714055358,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 265357,
@@ -1345,14 +1377,6 @@
       "onboard_time": 1714013238,
       "rank": 27,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 235277,
-      "num": 216042,
-      "word": "花琴 人生易如反掌",
-      "onboard_time": 1714053919,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 234546,
@@ -1659,6 +1683,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203268,
+      "num": 203268,
+      "word": "大侦探 你以为的恐怖不是真正的恐怖",
+      "onboard_time": 1714052058,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202974,
+      "num": 202974,
+      "word": "S组大结局",
+      "onboard_time": 1714051938,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202708,
       "num": 202708,
       "word": "Uzi梦幻联动剑网三",
@@ -1691,14 +1731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201068,
-      "num": 201068,
-      "word": "S组大结局",
-      "onboard_time": 1714051938,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 201027,
       "num": 201027,
       "word": "揭露主播卖抗癌化妆品女子发声",
@@ -1713,14 +1745,6 @@
       "onboard_time": 1714033278,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 200932,
-      "num": 200932,
-      "word": "大侦探 你以为的恐怖不是真正的恐怖",
-      "onboard_time": 1714052058,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 198842,
@@ -1801,6 +1825,14 @@
       "onboard_time": 1714053980,
       "rank": 39,
       "category": "互联网,科学科普"
+    },
+    {
+      "raw_hot": 196099,
+      "num": 196099,
+      "word": "鞠婧祎陈丽君合作过",
+      "onboard_time": 1714053018,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 195810,
@@ -1931,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189696,
+      "num": 188227,
+      "word": "白敬亭地垄沟发型",
+      "onboard_time": 1714055119,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188618,
       "num": 188618,
       "word": "这届年轻人有多懂低成本出游",
@@ -1947,6 +1987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 188422,
+      "num": 188422,
+      "word": "怀孕不是女性一个人的事",
+      "onboard_time": 1714054638,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187990,
       "num": 187990,
       "word": "谁能像zico爱门童一样爱我",
@@ -1955,20 +2003,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187683,
+      "num": 187683,
+      "word": "运动完脸红和脸白的人谁更健康",
+      "onboard_time": 1714052657,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 186481,
       "num": 186481,
       "word": "花少十周年合照",
       "onboard_time": 1714022180,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186212,
-      "num": 186212,
-      "word": "鞠婧祎陈丽君合作过",
-      "onboard_time": 1714053018,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 185545,
@@ -2067,14 +2115,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 180046,
-      "num": 180046,
-      "word": "运动完脸红和脸白的人谁更健康",
-      "onboard_time": 1714052657,
-      "rank": 41,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 179379,
       "num": 179379,
       "word": "刘同 大学同学是种奇怪的关系",
@@ -2163,6 +2203,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 168567,
+      "num": 168567,
+      "word": "胡明轩 MVP",
+      "onboard_time": 1714055539,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167059,
+      "num": 167059,
+      "word": "AG闪电战",
+      "onboard_time": 1714055599,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165273,
       "num": 211539,
       "word": "多益网络规定员工娶妻彩礼不超10万",
@@ -2193,6 +2249,14 @@
       "onboard_time": 1714034720,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162784,
+      "num": 162784,
+      "word": "广东男篮晋级半决赛",
+      "onboard_time": 1714055599,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 162621,
@@ -3051,6 +3115,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 56494,
+      "num": 313901,
+      "word": "北京车展偶遇张若昀",
+      "onboard_time": 1714053619,
+      "rank": 14,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 55356,
       "num": 55356,
       "word": "花芷分手数钱",
@@ -3123,14 +3195,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 37413,
-      "num": 313901,
-      "word": "北京车展偶遇张若昀",
-      "onboard_time": 1714053619,
-      "rank": 14,
-      "category": "艺人,汽车"
-    },
-    {
       "raw_hot": 33917,
       "num": 199211,
       "word": "埃安再造第三个爆款",
@@ -3199,6 +3263,14 @@
       "num": 884891,
       "word": "万千气象看山西",
       "onboard_time": 1713842298,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11135,
+      "num": 807029,
+      "word": "全国网络普法行江苏站",
+      "onboard_time": 1714032319,
       "rank": 2,
       "category": "社会新闻"
     },

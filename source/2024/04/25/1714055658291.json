@@ -1,0 +1,410 @@
+{
+  "runTime": 1714055658291,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1967609,
+        "num": 1967609,
+        "word": "神十八发射圆满成功",
+        "onboard_time": 1714053859,
+        "rank": 0,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 852774,
+        "num": 852774,
+        "word": "王一博去了中国人民警察大学",
+        "onboard_time": 1714051997,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11135,
+        "num": 807029,
+        "word": "全国网络普法行江苏站",
+        "onboard_time": 1714032319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 983105,
+        "num": 806011,
+        "word": "金靖舒奕橙在一起四年多了",
+        "onboard_time": 1714047497,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 803540,
+        "num": 803540,
+        "word": "山西地震",
+        "onboard_time": 1714050919,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524601,
+        "num": 524601,
+        "word": "神十八点火发射升空",
+        "onboard_time": 1714050319,
+        "rank": 5,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 324497,
+        "num": 324497,
+        "word": "babymonster 抗洪失败",
+        "onboard_time": 1714043296,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294135,
+        "num": 294135,
+        "word": "小K有微博了",
+        "onboard_time": 1714047018,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 265694,
+        "num": 276204,
+        "word": "职高女孩用9年逆袭成为双一流大学研究生",
+        "onboard_time": 1714039758,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 274572,
+        "num": 274572,
+        "word": "许钟豪 犯规",
+        "onboard_time": 1714052478,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1621930,
+        "num": 273811,
+        "word": "女生被曝遭造黄谣跳楼身亡",
+        "onboard_time": 1714052358,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1101290,
+        "num": 273044,
+        "word": "张艺兴开大G",
+        "onboard_time": 1714054998,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1029008,
+        "num": 271766,
+        "word": "金靖 舒奕橙",
+        "onboard_time": 1714021104,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430078,
+        "num": 270970,
+        "word": "武艺 各位老师对不起",
+        "onboard_time": 1714054638,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56494,
+        "num": 270485,
+        "word": "北京车展偶遇张若昀",
+        "onboard_time": 1714053619,
+        "rank": 14,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 352443,
+        "num": 269334,
+        "word": "花琴 人生易如反掌",
+        "onboard_time": 1714053919,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341952,
+        "num": 267947,
+        "word": "老年艾滋病患者无法言说的性与痛",
+        "onboard_time": 1714032859,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 512738,
+        "num": 266451,
+        "word": "金靖官宣怀孕后首受访",
+        "onboard_time": 1714051696,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266415,
+        "num": 266415,
+        "word": "洪恩採提前知道aespa回归时间",
+        "onboard_time": 1714055358,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251322,
+        "num": 251322,
+        "word": "许钟豪撞倒任骏飞",
+        "onboard_time": 1714053859,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 500335,
+        "num": 245853,
+        "word": "戚薇不建议大家瘦成艺人的样子",
+        "onboard_time": 1714038559,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313802,
+        "num": 241762,
+        "word": "我是不结婚 不是不交电费",
+        "onboard_time": 1714029079,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277133,
+        "num": 239606,
+        "word": "babymonster悄悄惊艳所有人",
+        "onboard_time": 1714043359,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 231327,
+        "num": 231327,
+        "word": "艾滋病早期症状有哪些",
+        "onboard_time": 1714049298,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212948,
+        "num": 226972,
+        "word": "删了吧我有个朋友不太舒服",
+        "onboard_time": 1714045817,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256359,
+        "num": 226169,
+        "word": "乃万黑色抹胸连体裤",
+        "onboard_time": 1714052778,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224638,
+        "num": 224638,
+        "word": "hybe员工吃瓜忘发zico物料",
+        "onboard_time": 1714037599,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220452,
+        "num": 220452,
+        "word": "舒奕橙是不良人导演",
+        "onboard_time": 1714022123,
+        "rank": 27,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 210275,
+        "num": 210275,
+        "word": "杨幂白色棒球帽",
+        "onboard_time": 1714050259,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209215,
+        "num": 209215,
+        "word": "神舟十八号发射直播",
+        "onboard_time": 1714040599,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203268,
+        "num": 203268,
+        "word": "大侦探 你以为的恐怖不是真正的恐怖",
+        "onboard_time": 1714052058,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202974,
+        "num": 202974,
+        "word": "S组大结局",
+        "onboard_time": 1714051938,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197852,
+        "num": 197852,
+        "word": "煮肘 二妞妈",
+        "onboard_time": 1714029618,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196099,
+        "num": 196099,
+        "word": "鞠婧祎陈丽君合作过",
+        "onboard_time": 1714053018,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188422,
+        "num": 188422,
+        "word": "怀孕不是女性一个人的事",
+        "onboard_time": 1714054638,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189696,
+        "num": 188227,
+        "word": "白敬亭地垄沟发型",
+        "onboard_time": 1714055119,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187683,
+        "num": 187683,
+        "word": "运动完脸红和脸白的人谁更健康",
+        "onboard_time": 1714052657,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 186000,
+        "num": 186000,
+        "word": "杭州爬山失联女子已找到丈夫发声",
+        "onboard_time": 1714032799,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180780,
+        "num": 180780,
+        "word": "花蓉结局",
+        "onboard_time": 1714046958,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180648,
+        "num": 180648,
+        "word": "李现 今天雇的人多一点是吧",
+        "onboard_time": 1714047438,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157826,
+        "num": 179550,
+        "word": "春色寄情人 何叔去世",
+        "onboard_time": 1714049478,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177768,
+        "num": 177768,
+        "word": "CBA",
+        "onboard_time": 1714054039,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168567,
+        "num": 168567,
+        "word": "胡明轩 MVP",
+        "onboard_time": 1714055539,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167266,
+        "num": 167266,
+        "word": "买车后才明白的事",
+        "onboard_time": 1714049417,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 167059,
+        "num": 167059,
+        "word": "AG闪电战",
+        "onboard_time": 1714055599,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165266,
+        "num": 165266,
+        "word": "生菜牛肉拌饭",
+        "onboard_time": 1714043598,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162864,
+        "num": 162864,
+        "word": "上海月租50元1平米房为摆拍造假",
+        "onboard_time": 1714048577,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162784,
+        "num": 162784,
+        "word": "广东男篮晋级半决赛",
+        "onboard_time": 1714055599,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154435,
+        "num": 154435,
+        "word": "NewJeans哭着问闵熙珍要怎么办",
+        "onboard_time": 1714032199,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135907,
+        "num": 154399,
+        "word": "麦承欢角色热度破亿",
+        "onboard_time": 1714052228,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察陆军军医大学#"
+    }
+  }
+}
