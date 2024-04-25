@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714026212776,
+  "endTime": 1714026988153,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -51,6 +51,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 3002248,
+      "num": 407225,
+      "word": "舒奕橙是不良人导演",
+      "onboard_time": 1714022123,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2956182,
       "num": 2956182,
       "word": "擦边球",
@@ -73,14 +81,6 @@
       "onboard_time": 1713690258,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2820144,
-      "num": 407225,
-      "word": "舒奕橙是不良人导演",
-      "onboard_time": 1714022123,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 2747935,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 1190232,
-      "num": 252824,
+      "num": 270210,
       "word": "姐帮忙催一下不良人7",
       "onboard_time": 1714024521,
       "rank": 16,
@@ -1387,6 +1387,14 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 817422,
+      "num": 817422,
+      "word": "为何越来越多老人染上艾滋病",
+      "onboard_time": 1714023141,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 815652,
       "num": 815652,
       "word": "黄金白银集体大跌",
@@ -2099,14 +2107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 619765,
-      "num": 619765,
-      "word": "为何越来越多老人染上艾滋病",
-      "onboard_time": 1714023141,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 618469,
       "num": 618469,
       "word": "战王殿下 王妃替您出征了",
@@ -2571,6 +2571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 537919,
+      "num": 266918,
+      "word": "97年生交警被86岁奶奶叫叔叔",
+      "onboard_time": 1714023322,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536310,
       "num": 536310,
       "word": "B太揭秘卫生巾灰色产业链",
@@ -2673,6 +2681,14 @@
       "onboard_time": 1713800177,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 523941,
+      "num": 523941,
+      "word": "日本海岸现超10米长鲸鱼尸体",
+      "onboard_time": 1714023861,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 523851,
@@ -2785,14 +2801,6 @@
       "onboard_time": 1713954858,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 509571,
-      "num": 226832,
-      "word": "97年生交警被86岁奶奶叫叔叔",
-      "onboard_time": 1714023322,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 509023,
@@ -3257,14 +3265,6 @@
       "onboard_time": 1713963620,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 456450,
-      "num": 456450,
-      "word": "日本海岸现超10米长鲸鱼尸体",
-      "onboard_time": 1714023861,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 455209,
@@ -4459,6 +4459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333153,
+      "num": 333153,
+      "word": "秦海璐要碎了",
+      "onboard_time": 1714025301,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333053,
       "num": 333053,
       "word": "TheShy夏季赛继续休息",
@@ -5251,6 +5259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 272825,
+      "num": 272825,
+      "word": "不良人 好看",
+      "onboard_time": 1714024761,
+      "rank": 17,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 271832,
       "num": 271832,
       "word": "哪吒张勇致歉",
@@ -5443,6 +5459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 262912,
+      "num": 262912,
+      "word": "李现周雨彤新浪扫楼",
+      "onboard_time": 1714026441,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262825,
       "num": 130672,
       "word": "郭碧婷曾被导演要求打瘦脸针",
@@ -5513,14 +5537,6 @@
       "onboard_time": 1713752718,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 261058,
-      "num": 190121,
-      "word": "秦海璐要碎了",
-      "onboard_time": 1714025301,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 260917,
@@ -5825,14 +5841,6 @@
       "onboard_time": 1713747978,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 247496,
-      "num": 247496,
-      "word": "不良人 好看",
-      "onboard_time": 1714024761,
-      "rank": 17,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 247333,
@@ -6227,6 +6235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234292,
+      "num": 216850,
+      "word": "粥饼伦称周杰伦是他的贵人",
+      "onboard_time": 1714025961,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233921,
       "num": 233921,
       "word": "田馥甄天津泡泡岛音乐节",
@@ -6547,6 +6563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223755,
+      "num": 198718,
+      "word": "Doinb说老头杯位置被抢了",
+      "onboard_time": 1714026202,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 223349,
       "num": 223349,
       "word": "杭州震感",
@@ -6729,6 +6753,14 @@
       "onboard_time": 1714007718,
       "rank": 48,
       "category": "国外时政,互联网"
+    },
+    {
+      "raw_hot": 217795,
+      "num": 217795,
+      "word": "没见过偷感这么强的监考老师",
+      "onboard_time": 1714025662,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 217750,
@@ -7163,14 +7195,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 207007,
-      "num": 207007,
-      "word": "粥饼伦称周杰伦是他的贵人",
-      "onboard_time": 1714025961,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206588,
       "num": 141256,
       "word": "十个洗头的坏习惯",
@@ -7579,6 +7603,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 200812,
+      "num": 200812,
+      "word": "韩军方考虑全面禁止iPhone进入军事建筑",
+      "onboard_time": 1714026800,
+      "rank": 28,
+      "category": "国外时政,数码"
+    },
+    {
       "raw_hot": 200685,
       "num": 200685,
       "word": "周鸿祎否认针对李彦宏",
@@ -7841,14 +7873,6 @@
       "onboard_time": 1714020201,
       "rank": 36,
       "category": "游戏,运动健身"
-    },
-    {
-      "raw_hot": 196367,
-      "num": 189971,
-      "word": "没见过偷感这么强的监考老师",
-      "onboard_time": 1714025662,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 196187,
@@ -8643,6 +8667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184337,
+      "num": 184337,
+      "word": "颜如晶18天减重14斤",
+      "onboard_time": 1714026918,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184306,
       "num": 184306,
       "word": "林更新体育生误入艺术班",
@@ -9137,6 +9169,14 @@
       "onboard_time": 1713663318,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174980,
+      "num": 174980,
+      "word": "凯迪拉克傲歌上市",
+      "onboard_time": 1714026321,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 174777,
@@ -10451,6 +10491,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 150869,
+      "num": 150869,
+      "word": "姚志明的人生没有一顿团圆饭",
+      "onboard_time": 1714026141,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150796,
       "num": 150796,
       "word": "乒乓球世界杯",
@@ -10803,6 +10851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146053,
+      "num": 146053,
+      "word": "小米展台",
+      "onboard_time": 1714025301,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 145950,
       "num": 145950,
       "word": "独行侠vs快船",
@@ -10865,14 +10921,6 @@
       "onboard_time": 1713756918,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 144937,
-      "num": 144937,
-      "word": "小米展台",
-      "onboard_time": 1714025301,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 144929,
@@ -11635,6 +11683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132909,
+      "num": 132909,
+      "word": "店员回应羽墨美甲被顾客吐槽丑",
+      "onboard_time": 1714026918,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132864,
       "num": 132864,
       "word": "圣枪哥加入JDG后胖了26斤",
@@ -11993,14 +12049,6 @@
       "onboard_time": 1713684558,
       "rank": 47,
       "category": "情感,旅游"
-    },
-    {
-      "raw_hot": 126674,
-      "num": 126674,
-      "word": "姚志明的人生没有一顿团圆饭",
-      "onboard_time": 1714026141,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 126664,
@@ -12425,6 +12473,14 @@
       "onboard_time": 1713874218,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117683,
+      "num": 223729,
+      "word": "在奔驰中超越奔驰",
+      "onboard_time": 1714026021,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 117663,
@@ -12972,7 +13028,7 @@
     },
     {
       "raw_hot": 101388,
-      "num": 202945,
+      "num": 270988,
       "word": "凯迪拉克V我50",
       "onboard_time": 1714025061,
       "rank": 26,
@@ -14081,14 +14137,6 @@
       "onboard_time": 1713813192,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20250,
-      "num": 131471,
-      "word": "在奔驰中超越奔驰",
-      "onboard_time": 1714026021,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 19747,
