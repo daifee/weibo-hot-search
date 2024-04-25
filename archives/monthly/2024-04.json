@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714055658291,
+  "endTime": 1714058380710,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 7756641,
-      "num": 474681,
+      "num": 503068,
       "word": "金靖 舒奕橙",
       "onboard_time": 1714021104,
       "rank": 10,
@@ -1740,7 +1740,7 @@
     },
     {
       "raw_hot": 1621930,
-      "num": 365319,
+      "num": 519012,
       "word": "女生被曝遭造黄谣跳楼身亡",
       "onboard_time": 1714052358,
       "rank": 10,
@@ -2025,6 +2025,14 @@
       "onboard_time": 1712240720,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1532544,
+      "num": 533808,
+      "word": "张艺兴开大G",
+      "onboard_time": 1714054998,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1532017,
@@ -4307,14 +4315,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1101290,
-      "num": 273044,
-      "word": "张艺兴开大G",
-      "onboard_time": 1714054998,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1099991,
       "num": 529491,
       "word": "虐猫考生该懂的不是舆论而是敬畏生命",
@@ -5697,6 +5697,14 @@
       "onboard_time": 1713418039,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 962225,
+      "num": 705692,
+      "word": "怀孕不是女性一个人的事",
+      "onboard_time": 1714054638,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 962163,
@@ -8249,6 +8257,14 @@
       "onboard_time": 1712224218,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 776634,
+      "num": 776634,
+      "word": "武艺 各位老师对不起",
+      "onboard_time": 1714054638,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 776242,
@@ -12243,6 +12259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 600117,
+      "num": 600117,
+      "word": "黄仁俊 这就是我",
+      "onboard_time": 1714056559,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 599420,
       "num": 599420,
       "word": "苗苗浪姐初舞台站反了",
@@ -13465,6 +13489,14 @@
       "onboard_time": 1712582240,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 563020,
+      "num": 563020,
+      "word": "法国总统马克龙警告欧洲可能消亡",
+      "onboard_time": 1714056259,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 562938,
@@ -19275,14 +19307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 430078,
-      "num": 270970,
-      "word": "武艺 各位老师对不起",
-      "onboard_time": 1714054638,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 429754,
       "num": 429754,
       "word": "陶昕然妈妈每天要吃够25种颜色",
@@ -19452,7 +19476,7 @@
     },
     {
       "raw_hot": 426518,
-      "num": 426518,
+      "num": 544322,
       "word": "职高女孩用9年逆袭成为双一流大学研究生",
       "onboard_time": 1714039758,
       "rank": 8,
@@ -20129,6 +20153,14 @@
       "onboard_time": 1712013736,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412388,
+      "num": 412388,
+      "word": "吐槽张黎",
+      "onboard_time": 1714056498,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 411727,
@@ -23420,7 +23452,7 @@
     },
     {
       "raw_hot": 352443,
-      "num": 269334,
+      "num": 348674,
       "word": "花琴 人生易如反掌",
       "onboard_time": 1714053919,
       "rank": 30,
@@ -24809,6 +24841,14 @@
       "onboard_time": 1711981161,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331387,
+      "num": 255289,
+      "word": "第一次真正认识聚酯纤维",
+      "onboard_time": 1714056679,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 331302,
@@ -30019,6 +30059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 268959,
+      "num": 254428,
+      "word": "磕了毛不易和内娱女大的友情",
+      "onboard_time": 1714057818,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268887,
       "num": 263242,
       "word": "小姨让我买房但我不想买",
@@ -31321,6 +31369,14 @@
       "onboard_time": 1712724920,
       "rank": 25,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 257693,
+      "num": 257693,
+      "word": "胡明轩 MVP",
+      "onboard_time": 1714055539,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 257668,
@@ -36787,6 +36843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218636,
+      "num": 218636,
+      "word": "阚清子去海边了",
+      "onboard_time": 1714057158,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218625,
       "num": 218625,
       "word": "我的自卑有一半是妈妈带来的",
@@ -37625,6 +37689,14 @@
       "onboard_time": 1713412638,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213641,
+      "num": 213641,
+      "word": "李云霄提名白玉兰戏剧奖新人主角奖",
+      "onboard_time": 1714057759,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 213609,
@@ -39425,6 +39497,14 @@
       "onboard_time": 1713338119,
       "rank": 47,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 206157,
+      "num": 206157,
+      "word": "张艺兴宽肩",
+      "onboard_time": 1714057339,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206115,
@@ -42499,6 +42579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196136,
+      "num": 196136,
+      "word": "华晨宇直播 i人罚站",
+      "onboard_time": 1714057279,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196111,
       "num": 196111,
       "word": "发条微博祝福神十八",
@@ -43425,6 +43513,14 @@
       "onboard_time": 1712466080,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193297,
+      "num": 193297,
+      "word": "白敬亭地垄沟发型",
+      "onboard_time": 1714055119,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193283,
@@ -44755,14 +44851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 189696,
-      "num": 188227,
-      "word": "白敬亭地垄沟发型",
-      "onboard_time": 1714055119,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 189695,
       "num": 189695,
       "word": "马龙夺冠",
@@ -45187,14 +45275,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 188422,
-      "num": 188422,
-      "word": "怀孕不是女性一个人的事",
-      "onboard_time": 1714054638,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 188418,
       "num": 188418,
       "word": "为什么冲奶粉要用70度以上热水",
@@ -45396,7 +45476,7 @@
     },
     {
       "raw_hot": 187683,
-      "num": 187683,
+      "num": 214589,
       "word": "运动完脸红和脸白的人谁更健康",
       "onboard_time": 1714052657,
       "rank": 41,
@@ -49339,6 +49419,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 173079,
+      "num": 173079,
+      "word": "雷军谈车圈内卷",
+      "onboard_time": 1714057638,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 173046,
       "num": 173046,
       "word": "Cryin哭了",
@@ -50529,14 +50617,6 @@
       "onboard_time": 1711942220,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 168567,
-      "num": 168567,
-      "word": "胡明轩 MVP",
-      "onboard_time": 1714055539,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 168498,
@@ -51889,6 +51969,14 @@
       "onboard_time": 1712291419,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163230,
+      "num": 215775,
+      "word": "ISFP其实就是一面镜子",
+      "onboard_time": 1714057099,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 163207,
@@ -58747,6 +58835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140432,
+      "num": 172323,
+      "word": "孙铭徽 没有遗憾没有保留",
+      "onboard_time": 1714057638,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140420,
       "num": 140420,
       "word": "多吃这类食物真能延缓衰老",
@@ -60116,7 +60212,7 @@
     },
     {
       "raw_hot": 135677,
-      "num": 135677,
+      "num": 686197,
       "word": "神十八发射现场",
       "onboard_time": 1714047678,
       "rank": 47,
@@ -61539,6 +61635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130367,
+      "num": 172168,
+      "word": "闪耀暖暖前瞻直播",
+      "onboard_time": 1714056619,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130350,
       "num": 360432,
       "word": "尹同跃头发都白了",
@@ -61617,6 +61721,14 @@
       "onboard_time": 1712998038,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129934,
+      "num": 172086,
+      "word": "数学就是玄学",
+      "onboard_time": 1714057279,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 129778,
@@ -65369,6 +65481,14 @@
       "onboard_time": 1713180678,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 111025,
+      "num": 147392,
+      "word": "爬山失联女子丈夫请网友停止恶意揣测",
+      "onboard_time": 1714058299,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111014,
@@ -72475,6 +72595,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 13018,
+      "num": 807029,
+      "word": "全国网络普法行江苏站",
+      "onboard_time": 1714032319,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12892,
       "num": 156529,
       "word": "P5X新人指南",
@@ -72569,14 +72697,6 @@
       "onboard_time": 1713070518,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 11135,
-      "num": 807029,
-      "word": "全国网络普法行江苏站",
-      "onboard_time": 1714032319,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8134,

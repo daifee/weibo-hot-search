@@ -1,10 +1,10 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714055658291,
+  "endTime": 1714058380710,
   "band_list": [
     {
       "raw_hot": 7756641,
-      "num": 474681,
+      "num": 503068,
       "word": "金靖 舒奕橙",
       "onboard_time": 1714021104,
       "rank": 10,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 1621930,
-      "num": 365319,
+      "num": 519012,
       "word": "女生被曝遭造黄谣跳楼身亡",
       "onboard_time": 1714052358,
       "rank": 10,
@@ -401,6 +401,14 @@
       "onboard_time": 1713705440,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1532544,
+      "num": 533808,
+      "word": "张艺兴开大G",
+      "onboard_time": 1714054998,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1526920,
@@ -907,14 +915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1101290,
-      "num": 273044,
-      "word": "张艺兴开大G",
-      "onboard_time": 1714054998,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1095881,
       "num": 1095881,
       "word": "罗森前店长妻子在罗森买到过期食品",
@@ -1137,6 +1137,14 @@
       "onboard_time": 1713856639,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 962225,
+      "num": 705692,
+      "word": "怀孕不是女性一个人的事",
+      "onboard_time": 1714054638,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 960179,
@@ -1609,6 +1617,14 @@
       "onboard_time": 1713974117,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 776634,
+      "num": 776634,
+      "word": "武艺 各位老师对不起",
+      "onboard_time": 1714054638,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 774305,
@@ -2403,6 +2419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 600117,
+      "num": 600117,
+      "word": "黄仁俊 这就是我",
+      "onboard_time": 1714056559,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 599009,
       "num": 599009,
       "word": "林俊杰为了防黄牛好拼",
@@ -2665,6 +2689,14 @@
       "onboard_time": 1713753616,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 563020,
+      "num": 563020,
+      "word": "法国总统马克龙警告欧洲可能消亡",
+      "onboard_time": 1714056259,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 561714,
@@ -3859,14 +3891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 430078,
-      "num": 270970,
-      "word": "武艺 各位老师对不起",
-      "onboard_time": 1714054638,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 429754,
       "num": 429754,
       "word": "陶昕然妈妈每天要吃够25种颜色",
@@ -3892,7 +3916,7 @@
     },
     {
       "raw_hot": 426518,
-      "num": 426518,
+      "num": 544322,
       "word": "职高女孩用9年逆袭成为双一流大学研究生",
       "onboard_time": 1714039758,
       "rank": 8,
@@ -4049,6 +4073,14 @@
       "onboard_time": 1713618018,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 412388,
+      "num": 412388,
+      "word": "吐槽张黎",
+      "onboard_time": 1714056498,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 411302,
@@ -4668,7 +4700,7 @@
     },
     {
       "raw_hot": 352443,
-      "num": 269334,
+      "num": 348674,
       "word": "花琴 人生易如反掌",
       "onboard_time": 1714053919,
       "rank": 30,
@@ -4937,6 +4969,14 @@
       "onboard_time": 1714024702,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 331387,
+      "num": 255289,
+      "word": "第一次真正认识聚酯纤维",
+      "onboard_time": 1714056679,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 331302,
@@ -5923,6 +5963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268959,
+      "num": 254428,
+      "word": "磕了毛不易和内娱女大的友情",
+      "onboard_time": 1714057818,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268553,
       "num": 268553,
       "word": "宿舍挂床帘",
@@ -6225,6 +6273,14 @@
       "onboard_time": 1713851958,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257693,
+      "num": 257693,
+      "word": "胡明轩 MVP",
+      "onboard_time": 1714055539,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 256812,
@@ -7419,6 +7475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218636,
+      "num": 218636,
+      "word": "阚清子去海边了",
+      "onboard_time": 1714057158,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218601,
       "num": 218601,
       "word": "林依轮说太紧张了想要个呼吸机",
@@ -7577,6 +7641,14 @@
       "onboard_time": 1713882498,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213641,
+      "num": 213641,
+      "word": "李云霄提名白玉兰戏剧奖新人主角奖",
+      "onboard_time": 1714057759,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 213556,
@@ -7985,6 +8057,14 @@
       "onboard_time": 1713848659,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206157,
+      "num": 206157,
+      "word": "张艺兴宽肩",
+      "onboard_time": 1714057339,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206115,
@@ -8691,6 +8771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196136,
+      "num": 196136,
+      "word": "华晨宇直播 i人罚站",
+      "onboard_time": 1714057279,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196111,
       "num": 196111,
       "word": "发条微博祝福神十八",
@@ -8913,6 +9001,14 @@
       "onboard_time": 1713855979,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193297,
+      "num": 193297,
+      "word": "白敬亭地垄沟发型",
+      "onboard_time": 1714055119,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193283,
@@ -9219,14 +9315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 189696,
-      "num": 188227,
-      "word": "白敬亭地垄沟发型",
-      "onboard_time": 1714055119,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 189695,
       "num": 189695,
       "word": "马龙夺冠",
@@ -9323,14 +9411,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 188422,
-      "num": 188422,
-      "word": "怀孕不是女性一个人的事",
-      "onboard_time": 1714054638,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 188309,
       "num": 188309,
       "word": "眼泪女王收视率",
@@ -9380,7 +9460,7 @@
     },
     {
       "raw_hot": 187683,
-      "num": 187683,
+      "num": 214589,
       "word": "运动完脸红和脸白的人谁更健康",
       "onboard_time": 1714052657,
       "rank": 41,
@@ -10211,6 +10291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173079,
+      "num": 173079,
+      "word": "雷军谈车圈内卷",
+      "onboard_time": 1714057638,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 173012,
       "num": 173012,
       "word": "尼克斯逆转76人",
@@ -10523,14 +10611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168567,
-      "num": 168567,
-      "word": "胡明轩 MVP",
-      "onboard_time": 1714055539,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168498,
       "num": 168498,
       "word": "50多万买新车开2公里成瑕疵车",
@@ -10793,6 +10873,14 @@
       "onboard_time": 1714034720,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 163230,
+      "num": 215775,
+      "word": "ISFP其实就是一面镜子",
+      "onboard_time": 1714057099,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 163044,
@@ -12363,6 +12451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140432,
+      "num": 172323,
+      "word": "孙铭徽 没有遗憾没有保留",
+      "onboard_time": 1714057638,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140420,
       "num": 140420,
       "word": "多吃这类食物真能延缓衰老",
@@ -12708,7 +12804,7 @@
     },
     {
       "raw_hot": 135677,
-      "num": 135677,
+      "num": 686197,
       "word": "神十八发射现场",
       "onboard_time": 1714047678,
       "rank": 47,
@@ -13035,6 +13131,14 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 130367,
+      "num": 172168,
+      "word": "闪耀暖暖前瞻直播",
+      "onboard_time": 1714056619,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130350,
       "num": 360432,
       "word": "尹同跃头发都白了",
@@ -13057,6 +13161,14 @@
       "onboard_time": 1713966681,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129934,
+      "num": 172086,
+      "word": "数学就是玄学",
+      "onboard_time": 1714057279,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 129568,
@@ -13985,6 +14097,14 @@
       "onboard_time": 1713951498,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 111025,
+      "num": 147392,
+      "word": "爬山失联女子丈夫请网友停止恶意揣测",
+      "onboard_time": 1714058299,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111006,
@@ -15611,19 +15731,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13018,
+      "num": 807029,
+      "word": "全国网络普法行江苏站",
+      "onboard_time": 1714032319,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11546,
       "num": 16156,
       "word": "四川村K现场有多嗨",
       "onboard_time": 1713818051,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11135,
-      "num": 807029,
-      "word": "全国网络普法行江苏站",
-      "onboard_time": 1714032319,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
