@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714012086542,
+  "endTime": 1714012730892,
   "band_list": [
     {
       "raw_hot": 6370206,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 1234571,
-      "num": 263959,
+      "num": 305166,
       "word": "男子多次性侵前女友11岁女儿获刑16年",
       "onboard_time": 1713968059,
       "rank": 22,
@@ -1091,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 891354,
+      "num": 340064,
+      "word": "郑乃馨公开恋情后被音乐节除名",
+      "onboard_time": 1714012036,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 887559,
       "num": 754463,
       "word": "彩礼该以女方陪嫁形式返还小家庭吗",
@@ -1552,6 +1560,14 @@
       "word": "眼泪女王洪海仁原定IU出演",
       "onboard_time": 1714003818,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 719072,
+      "num": 336507,
+      "word": "爱情公寓秦羽墨美甲店被吐槽",
+      "onboard_time": 1714011797,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -2315,6 +2331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 568784,
+      "num": 568784,
+      "word": "小米汽车",
+      "onboard_time": 1714010118,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 567491,
       "num": 567491,
       "word": "赵昭仪 恋爱脑的爸妈破碎的她",
@@ -2425,14 +2449,6 @@
       "onboard_time": 1713707060,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 540797,
-      "num": 540797,
-      "word": "小米汽车",
-      "onboard_time": 1714010118,
-      "rank": 1,
-      "category": "汽车"
     },
     {
       "raw_hot": 539994,
@@ -2793,6 +2809,14 @@
       "onboard_time": 1713672737,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 489644,
+      "num": 489644,
+      "word": "萌兰的腿怎么突然变1米9了",
+      "onboard_time": 1714005678,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 487521,
@@ -3323,12 +3347,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 434160,
-      "num": 434160,
-      "word": "萌兰的腿怎么突然变1米9了",
-      "onboard_time": 1714005678,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 431357,
+      "num": 431357,
+      "word": "HYBE以涉嫌工作渎职等嫌疑告发闵熙珍",
+      "onboard_time": 1714011078,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 431150,
@@ -3841,14 +3865,6 @@
       "onboard_time": 1713682337,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 371930,
-      "num": 371930,
-      "word": "HYBE以涉嫌工作渎职等嫌疑告发闵熙珍",
-      "onboard_time": 1714011078,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 371111,
@@ -4499,6 +4515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305799,
+      "num": 305799,
+      "word": "种地吧直播",
+      "onboard_time": 1713751757,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305391,
       "num": 240108,
       "word": "新人结婚后要有小家意识",
@@ -4513,6 +4537,14 @@
       "onboard_time": 1713848659,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304640,
+      "num": 304640,
+      "word": "英国首相将中国列为威权主义国家",
+      "onboard_time": 1714012277,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 303659,
@@ -4827,6 +4859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 283559,
+      "num": 283559,
+      "word": "桃源深处有人家维护",
+      "onboard_time": 1714011738,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283393,
       "num": 249270,
       "word": "戚薇 蔡文静",
@@ -4841,14 +4881,6 @@
       "onboard_time": 1713780858,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 282159,
-      "num": 282159,
-      "word": "种地吧直播",
-      "onboard_time": 1713751757,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 282112,
@@ -5019,6 +5051,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 270180,
+      "num": 270180,
+      "word": "你认为很贵其实很便宜的东西",
+      "onboard_time": 1714012036,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 270026,
       "num": 270026,
       "word": "郭艾伦向贾跃亭讨债",
@@ -5155,14 +5195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 262426,
-      "num": 262426,
-      "word": "郑乃馨公开恋情后被音乐节除名",
-      "onboard_time": 1714012036,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 262282,
       "num": 262282,
       "word": "周杰伦杭州",
@@ -5201,6 +5233,14 @@
       "onboard_time": 1713859818,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261487,
+      "num": 261487,
+      "word": "未婚未育的90后开始争当月嫂",
+      "onboard_time": 1714008498,
+      "rank": 25,
+      "category": "社会新闻,母婴育儿"
     },
     {
       "raw_hot": 261294,
@@ -5795,14 +5835,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 236968,
-      "num": 236968,
-      "word": "未婚未育的90后开始争当月嫂",
-      "onboard_time": 1714008498,
-      "rank": 25,
-      "category": "社会新闻,母婴育儿"
-    },
-    {
       "raw_hot": 236453,
       "num": 236453,
       "word": "鹿晗生日派对照",
@@ -5971,14 +6003,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 230700,
-      "num": 230700,
-      "word": "爱情公寓秦羽墨美甲店被吐槽",
-      "onboard_time": 1714011797,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 230573,
       "num": 511756,
       "word": "河北一粮库2年近万吨玉米不翼而飞",
@@ -6145,6 +6169,14 @@
       "onboard_time": 1713665537,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224177,
+      "num": 224177,
+      "word": "考上研后被裁员是什么体验",
+      "onboard_time": 1714012338,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 224167,
@@ -6523,6 +6555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210071,
+      "num": 221803,
+      "word": "五一所有人都去哪儿玩",
+      "onboard_time": 1714010776,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209849,
       "num": 209849,
       "word": "刘宪华黄子弘凡张元英转圈battle",
@@ -6713,6 +6753,14 @@
       "onboard_time": 1713773839,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 207079,
+      "num": 207079,
+      "word": "电影有朵云像你定档",
+      "onboard_time": 1714012397,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 206588,
@@ -8099,14 +8147,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 184615,
-      "num": 184615,
-      "word": "你认为很贵其实很便宜的东西",
-      "onboard_time": 1714012036,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 184389,
       "num": 184389,
       "word": "以为是陈丽君仿妆结果是本人",
@@ -8260,7 +8300,7 @@
     },
     {
       "raw_hot": 181514,
-      "num": 262646,
+      "num": 337717,
       "word": "小米SU7锁单75723台",
       "onboard_time": 1714011137,
       "rank": 23,
@@ -8545,14 +8585,6 @@
       "onboard_time": 1713707181,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 175985,
-      "num": 175985,
-      "word": "桃源深处有人家维护",
-      "onboard_time": 1714011738,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 175965,
@@ -8841,14 +8873,6 @@
       "onboard_time": 1713859698,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169898,
-      "num": 201545,
-      "word": "五一所有人都去哪儿玩",
-      "onboard_time": 1714010776,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169889,
@@ -10411,6 +10435,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 142719,
+      "num": 142719,
+      "word": "吴谨言李纯是同学",
+      "onboard_time": 1714012156,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142622,
       "num": 142622,
       "word": "四方馆剧照",
@@ -11627,6 +11659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121303,
+      "num": 348420,
+      "word": "珍爱生命远离邪教",
+      "onboard_time": 1714010416,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120873,
       "num": 120873,
       "word": "新款11英寸iPadPro上市初期或缺货",
@@ -11905,6 +11945,14 @@
       "onboard_time": 1713779418,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113510,
+      "num": 113510,
+      "word": "来不及煮鸡蛋于是准备了无菌蛋",
+      "onboard_time": 1714012697,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 113246,
@@ -12353,14 +12401,6 @@
       "onboard_time": 1713937578,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 95352,
-      "num": 348420,
-      "word": "珍爱生命远离邪教",
-      "onboard_time": 1714010416,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94248,
@@ -13075,20 +13115,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 39863,
+      "num": 222175,
+      "word": "陈雨菲高燃击球瞬间",
+      "onboard_time": 1714008857,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38615,
       "num": 38615,
       "word": "确定被爱后小狗连面相都变了",
       "onboard_time": 1713643991,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 38572,
-      "num": 202744,
-      "word": "陈雨菲高燃击球瞬间",
-      "onboard_time": 1714008857,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 38350,
