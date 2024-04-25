@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714066443309,
+  "endTime": 1714069363577,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -10699,6 +10699,14 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 167435,
+      "num": 167435,
+      "word": "美国校园冲突升级",
+      "onboard_time": 1714064173,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167301,
       "num": 167301,
       "word": "seventeen克拉盘",
@@ -14779,14 +14787,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 84115,
-      "num": 84115,
-      "word": "美国校园冲突升级",
-      "onboard_time": 1714064173,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84035,
       "num": 70255,
       "word": "辛芷蕾工作室审美",
@@ -15291,6 +15291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52384,
+      "num": 52384,
+      "word": "央媒评网红博流量毫无底线",
+      "onboard_time": 1714067711,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52200,
       "num": 52200,
       "word": "朱婷暴扣",
@@ -15329,6 +15337,14 @@
       "onboard_time": 1713654854,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49864,
+      "num": 43493,
+      "word": "迪丽热巴漫画走出的学姐",
+      "onboard_time": 1714066572,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 49649,
@@ -15409,6 +15425,14 @@
       "onboard_time": 1714001416,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 43099,
+      "num": 43099,
+      "word": "宋雨琦晒Gigi",
+      "onboard_time": 1714067052,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 42439,

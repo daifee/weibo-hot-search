@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714066443309,
+  "endTime": 1714069363577,
   "band_list": [
     {
       "raw_hot": 869185,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167435,
+      "num": 167435,
+      "word": "美国校园冲突升级",
+      "onboard_time": 1714064173,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158332,
       "num": 195748,
       "word": "ive新歌背景是葫芦娃救爷爷",
@@ -347,14 +355,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 84115,
-      "num": 84115,
-      "word": "美国校园冲突升级",
-      "onboard_time": 1714064173,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81645,
       "num": 194723,
       "word": "运动完脸红和脸白的人谁更健康",
@@ -435,12 +435,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52384,
+      "num": 52384,
+      "word": "央媒评网红博流量毫无底线",
+      "onboard_time": 1714067711,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49864,
+      "num": 43493,
+      "word": "迪丽热巴漫画走出的学姐",
+      "onboard_time": 1714066572,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44470,
       "num": 195611,
       "word": "神十八发射现场",
       "onboard_time": 1714047678,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 43099,
+      "num": 43099,
+      "word": "宋雨琦晒Gigi",
+      "onboard_time": 1714067052,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 42326,
@@ -457,6 +481,14 @@
       "onboard_time": 1714048577,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31233,
+      "num": 31233,
+      "word": "哈尔滨一九四四",
+      "onboard_time": 1714066872,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 6897,
