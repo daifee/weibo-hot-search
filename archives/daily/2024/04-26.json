@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714069363577,
+  "endTime": 1714070172332,
   "band_list": [
     {
       "raw_hot": 869185,
@@ -203,8 +203,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167435,
-      "num": 167435,
+      "raw_hot": 168146,
+      "num": 168146,
       "word": "美国校园冲突升级",
       "onboard_time": 1714064173,
       "rank": 24,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76763,
+      "num": 59814,
+      "word": "央媒评网红博流量毫无底线",
+      "onboard_time": 1714067711,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71652,
       "num": 194526,
       "word": "seventeen预告",
@@ -435,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52384,
-      "num": 52384,
-      "word": "央媒评网红博流量毫无底线",
-      "onboard_time": 1714067711,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49864,
       "num": 43493,
       "word": "迪丽热巴漫画走出的学姐",
@@ -489,6 +489,30 @@
       "onboard_time": 1714066872,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26668,
+      "num": 26668,
+      "word": "电影维和防暴队警大路演精彩回顾",
+      "onboard_time": 1714070111,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 25001,
+      "num": 25528,
+      "word": "人生易如反掌",
+      "onboard_time": 1714067652,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20818,
+      "num": 25521,
+      "word": "神十八",
+      "onboard_time": 1714047858,
+      "rank": 49,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 6897,
