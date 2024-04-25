@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1714043734278,
+  "endTime": 1714044846190,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1429925,
-      "num": 632443,
+      "num": 657764,
       "word": "老年艾滋病患者无法言说的性与痛",
       "onboard_time": 1714032859,
       "rank": 31,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1387455,
-      "num": 588651,
+      "num": 657919,
       "word": "戚薇不建议大家瘦成艺人的样子",
       "onboard_time": 1714038559,
       "rank": 3,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 924534,
-      "num": 364622,
+      "num": 408002,
       "word": "hybe员工吃瓜忘发zico物料",
       "onboard_time": 1714037599,
       "rank": 36,
@@ -299,6 +299,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 657290,
+      "num": 657290,
+      "word": "babymonster悄悄惊艳所有人",
+      "onboard_time": 1714043359,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 637367,
       "num": 637367,
       "word": "Uzi 剑网三",
@@ -377,6 +385,14 @@
       "onboard_time": 1714023322,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536913,
+      "num": 536913,
+      "word": "尚雯婕李溪芮聊天记录",
+      "onboard_time": 1714042459,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 530694,
@@ -531,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 437226,
+      "num": 402131,
+      "word": "babymonster 抗洪失败",
+      "onboard_time": 1714043296,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436370,
       "num": 436370,
       "word": "杨幂爸爸说谢谢你们喜欢我女儿",
@@ -603,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398955,
+      "num": 398955,
+      "word": "与凤行莲花楼报名白玉兰奖",
+      "onboard_time": 1714043179,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 397583,
       "num": 397583,
       "word": "这些人工合成水果又出来骗人了",
@@ -649,14 +681,6 @@
       "onboard_time": 1714029618,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 388707,
-      "num": 305417,
-      "word": "尚雯婕李溪芮聊天记录",
-      "onboard_time": 1714042459,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 388495,
@@ -708,7 +732,7 @@
     },
     {
       "raw_hot": 369780,
-      "num": 369780,
+      "num": 422806,
       "word": "丫丫回国一年了",
       "onboard_time": 1714037299,
       "rank": 45,
@@ -827,28 +851,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 306204,
-      "num": 306204,
-      "word": "与凤行莲花楼报名白玉兰奖",
-      "onboard_time": 1714043179,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 305799,
       "num": 305799,
       "word": "种地吧直播",
       "onboard_time": 1714011677,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 304027,
-      "num": 304027,
-      "word": "babymonster悄悄惊艳所有人",
-      "onboard_time": 1714043359,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 303675,
@@ -1180,7 +1188,7 @@
     },
     {
       "raw_hot": 229318,
-      "num": 190064,
+      "num": 206159,
       "word": "周雨彤帮姐姐要李现to签",
       "onboard_time": 1714042157,
       "rank": 25,
@@ -1419,6 +1427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202441,
+      "num": 202441,
+      "word": "鞠婧祎地铁随拍",
+      "onboard_time": 1714044557,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201766,
       "num": 201766,
       "word": "外卖黑勺最脏系谣言",
@@ -1457,6 +1473,14 @@
       "onboard_time": 1714006399,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 198098,
+      "num": 184081,
+      "word": "金靖拍广告路透",
+      "onboard_time": 1714044138,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 197613,
@@ -1499,12 +1523,28 @@
       "category": "游戏,运动健身"
     },
     {
+      "raw_hot": 196100,
+      "num": 226791,
+      "word": "生菜牛肉拌饭",
+      "onboard_time": 1714043598,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 195810,
       "num": 165665,
       "word": "NewJeans怎么办",
       "onboard_time": 1714042698,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195767,
+      "num": 195767,
+      "word": "狗生 易如反爪",
+      "onboard_time": 1714042698,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 195281,
@@ -1515,12 +1555,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 194074,
-      "num": 163360,
-      "word": "babymonster 抗洪失败",
-      "onboard_time": 1714043296,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 193645,
+      "num": 184028,
+      "word": "李现周雨彤互涂唇膏",
+      "onboard_time": 1714043478,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 192549,
@@ -1625,6 +1665,14 @@
       "onboard_time": 1714043359,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185154,
+      "num": 185154,
+      "word": "女儿被古筝老师劝退了",
+      "onboard_time": 1714042818,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 184710,
@@ -1843,14 +1891,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 158235,
-      "num": 158235,
-      "word": "狗生 易如反爪",
-      "onboard_time": 1714042698,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 155912,
       "num": 155912,
       "word": "人真的会笑死吗",
@@ -1867,19 +1907,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152996,
-      "num": 152996,
-      "word": "女儿被古筝老师劝退了",
-      "onboard_time": 1714042818,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 152425,
-      "num": 133603,
-      "word": "李现周雨彤互涂唇膏",
-      "onboard_time": 1714043478,
-      "rank": 40,
+      "raw_hot": 153848,
+      "num": 153848,
+      "word": "李现周雨彤复刻袁湘琴之歌",
+      "onboard_time": 1714043179,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -2043,14 +2075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142834,
-      "num": 128852,
-      "word": "李现周雨彤复刻袁湘琴之歌",
-      "onboard_time": 1714043179,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142719,
       "num": 142719,
       "word": "吴谨言李纯是同学",
@@ -2065,6 +2089,14 @@
       "onboard_time": 1714007538,
       "rank": 42,
       "category": "互联网,国外时政"
+    },
+    {
+      "raw_hot": 140824,
+      "num": 150904,
+      "word": "86岁琼瑶宣布淡出社交平台",
+      "onboard_time": 1714044618,
+      "rank": 38,
+      "category": "读书作家"
     },
     {
       "raw_hot": 140305,
@@ -2113,6 +2145,14 @@
       "onboard_time": 1714011198,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137423,
+      "num": 149504,
+      "word": "胡锡进称没想到亏得会这么快",
+      "onboard_time": 1714041978,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 136984,
@@ -2243,14 +2283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 125522,
-      "num": 125522,
-      "word": "生菜牛肉拌饭",
-      "onboard_time": 1714043598,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 124484,
       "num": 119423,
       "word": "秦海璐刘涛 我带你梦想成真",
@@ -2273,14 +2305,6 @@
       "onboard_time": 1714035438,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121764,
-      "num": 121764,
-      "word": "胡锡进称没想到亏得会这么快",
-      "onboard_time": 1714041978,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 121303,
@@ -2347,6 +2371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112513,
+      "num": 112513,
+      "word": "常吃西兰花可对抗肿瘤和炎症",
+      "onboard_time": 1714044737,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 112483,
       "num": 112483,
       "word": "手机里存了3个月的照片终于删了",
@@ -2361,6 +2393,14 @@
       "onboard_time": 1714013358,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111464,
+      "num": 111464,
+      "word": "刘宇宁把蛐蛐他的歌唱出来了",
+      "onboard_time": 1714044798,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 110533,
@@ -2467,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89697,
+      "num": 300852,
+      "word": "女性月经困扰不只有痛经",
+      "onboard_time": 1714042998,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 86867,
       "num": 86867,
       "word": "长期吃铝包子或引发肝肾损伤",
@@ -2521,14 +2569,6 @@
       "onboard_time": 1713963620,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78398,
-      "num": 153585,
-      "word": "女性月经困扰不只有痛经",
-      "onboard_time": 1714042998,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 76816,
