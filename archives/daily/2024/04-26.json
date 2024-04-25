@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714080871681,
+  "endTime": 1714083407446,
   "band_list": [
     {
       "raw_hot": 869185,
@@ -195,6 +195,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 176568,
+      "num": 176568,
+      "word": "央媒评网红博流量毫无底线",
+      "onboard_time": 1714067711,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170755,
       "num": 195843,
       "word": "磕了毛不易和内娱女大的友情",
@@ -235,14 +243,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 145336,
-      "num": 129812,
-      "word": "央媒评网红博流量毫无底线",
-      "onboard_time": 1714067711,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139648,
       "num": 195436,
       "word": "阚清子去海边了",
@@ -273,6 +273,14 @@
       "onboard_time": 1714058718,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121956,
+      "num": 121956,
+      "word": "英国最大监狱被曝多起性丑闻",
+      "onboard_time": 1714075811,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120027,
@@ -313,6 +321,14 @@
       "onboard_time": 1714053859,
       "rank": 19,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 101124,
+      "num": 101124,
+      "word": "谭爷爷你孙女当花局长了",
+      "onboard_time": 1714072811,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100548,
@@ -387,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78703,
+      "num": 78703,
+      "word": "沈阳",
+      "onboard_time": 1714074070,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71652,
       "num": 194526,
       "word": "seventeen预告",
@@ -443,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52289,
-      "num": 52289,
-      "word": "英国最大监狱被曝多起性丑闻",
-      "onboard_time": 1714075811,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49864,
       "num": 43493,
       "word": "迪丽热巴漫画走出的学姐",
@@ -459,20 +475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47709,
-      "num": 47709,
-      "word": "沈阳",
-      "onboard_time": 1714074070,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46843,
-      "num": 46843,
-      "word": "谭爷爷你孙女当花局长了",
-      "onboard_time": 1714072811,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 44828,
+      "num": 44828,
+      "word": "李明德归来看一次哭一次",
+      "onboard_time": 1714076290,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 44470,
@@ -507,12 +515,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37256,
+      "num": 37256,
+      "word": "胡冰卿旗袍身材曲线",
+      "onboard_time": 1714081031,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 34589,
+      "num": 34589,
+      "word": "近期广东人听最多的声音",
+      "onboard_time": 1714081271,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 31737,
+      "num": 31737,
+      "word": "神十八",
+      "onboard_time": 1714047858,
+      "rank": 49,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 31233,
       "num": 31233,
       "word": "哈尔滨一九四四",
       "onboard_time": 1714066872,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31217,
+      "num": 31217,
+      "word": "想睡个好觉真的易如反掌",
+      "onboard_time": 1714076350,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 29648,
+      "num": 29648,
+      "word": "贾跃亭回应周鸿祎质疑",
+      "onboard_time": 1714082051,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 26668,
@@ -523,36 +571,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 26225,
-      "num": 26225,
-      "word": "神十八",
-      "onboard_time": 1714047858,
-      "rank": 49,
-      "category": "国内时政,科学科普"
-    },
-    {
       "raw_hot": 25001,
       "num": 25528,
       "word": "人生易如反掌",
       "onboard_time": 1714067652,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 24172,
-      "num": 24172,
-      "word": "想睡个好觉真的易如反掌",
-      "onboard_time": 1714076350,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 20968,
-      "num": 20968,
-      "word": "李明德归来看一次哭一次",
-      "onboard_time": 1714076290,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 18346,
@@ -571,20 +595,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14228,
+      "num": 31792,
+      "word": "神十八航天员飞天前敬礼微笑",
+      "onboard_time": 1714076831,
+      "rank": 29,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 13029,
       "num": 17780,
       "word": "张雨绮吃蝎子",
       "onboard_time": 1714075150,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11136,
-      "num": 20979,
-      "word": "神十八航天员飞天前敬礼微笑",
-      "onboard_time": 1714076831,
-      "rank": 29,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 6897,
