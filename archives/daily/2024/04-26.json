@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714063004698,
+  "endTime": 1714065512268,
   "band_list": [
     {
       "raw_hot": 869185,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 470795,
-      "num": 238858,
+      "num": 243007,
       "word": "B太遇到真实的商战了",
       "onboard_time": 1714059079,
       "rank": 13,
@@ -163,8 +163,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 215166,
-      "num": 215166,
+      "raw_hot": 230311,
+      "num": 230311,
       "word": "张若昀说庆余年五月中旬播",
       "onboard_time": 1714061597,
       "rank": 31,
@@ -185,6 +185,14 @@
       "onboard_time": 1714045817,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182613,
+      "num": 195337,
+      "word": "宅男腐女恋爱真难10周年",
+      "onboard_time": 1714059858,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 170755,
@@ -227,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139132,
-      "num": 195337,
-      "word": "宅男腐女恋爱真难10周年",
-      "onboard_time": 1714059858,
-      "rank": 33,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 128957,
       "num": 195215,
       "word": "李云霄提名白玉兰戏剧奖新人主角奖",
@@ -275,12 +275,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115226,
+      "raw_hot": 116196,
       "num": 194367,
       "word": "京城大师赛",
       "onboard_time": 1714061538,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112060,
+      "num": 112060,
+      "word": "赵文琪称美甲不满意可退款重做",
+      "onboard_time": 1714063395,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 106070,
@@ -313,6 +321,14 @@
       "onboard_time": 1714022123,
       "rank": 41,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 87518,
+      "num": 61967,
+      "word": "张予曦的肤色",
+      "onboard_time": 1714062976,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 86765,
@@ -371,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67354,
+      "num": 67354,
+      "word": "美国校园冲突升级",
+      "onboard_time": 1714064173,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66005,
       "num": 66005,
       "word": "花蓉结局",
@@ -379,12 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 61967,
-      "num": 61967,
-      "word": "张予曦的肤色",
-      "onboard_time": 1714062976,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 65614,
+      "num": 57313,
+      "word": "内娱有多爱玩青春修炼手册的梗",
+      "onboard_time": 1714064834,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 56746,
@@ -403,12 +427,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54623,
+      "num": 54623,
+      "word": "惜花芷",
+      "onboard_time": 1714045518,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44470,
       "num": 195611,
       "word": "神十八发射现场",
       "onboard_time": 1714047678,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 40080,
+      "num": 52372,
+      "word": "上海月租50元1平米房为摆拍造假",
+      "onboard_time": 1714048577,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35172,
+      "num": 50196,
+      "word": "第五人格演绎之星",
+      "onboard_time": 1714065493,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 6897,
@@ -425,6 +473,9 @@
     },
     {
       "word": "#习近平视察陆军军医大学#"
+    },
+    {
+      "word": "#开创西部大开发新格局#"
     }
   ]
 }
