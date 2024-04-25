@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714084448769,
+  "endTime": 1714087151248,
   "band_list": [
     {
       "raw_hot": 869185,
@@ -43,8 +43,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 532723,
-      "num": 532723,
+      "raw_hot": 562773,
+      "num": 562773,
       "word": "爬山失联女子丈夫请网友停止恶意揣测",
       "onboard_time": 1714058299,
       "rank": 3,
@@ -80,6 +80,22 @@
       "word": "B太遇到真实的商战了",
       "onboard_time": 1714059079,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413055,
+      "num": 413055,
+      "word": "央媒评网红博流量毫无底线",
+      "onboard_time": 1714067711,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387945,
+      "num": 387945,
+      "word": "谭爷爷你孙女当花局长了",
+      "onboard_time": 1714072811,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -123,12 +139,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273845,
+      "num": 273845,
+      "word": "英国最大监狱被曝多起性丑闻",
+      "onboard_time": 1714075811,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270012,
       "num": 236446,
       "word": "吐槽张黎",
       "onboard_time": 1714056498,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267811,
+      "num": 110542,
+      "word": "考不上公务员的年轻人挤破头进居委会",
+      "onboard_time": 1714086134,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265389,
+      "num": 265389,
+      "word": "舒奕橙",
+      "onboard_time": 1714086555,
+      "rank": 5,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 253579,
@@ -155,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235107,
+      "num": 235107,
+      "word": "神十八成功对接空间站",
+      "onboard_time": 1714086615,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 235102,
       "num": 235102,
       "word": "王一博去了中国人民警察大学",
@@ -171,12 +219,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211584,
-      "num": 211584,
-      "word": "央媒评网红博流量毫无底线",
-      "onboard_time": 1714067711,
-      "rank": 22,
+      "raw_hot": 216946,
+      "num": 216946,
+      "word": "美国校园冲突升级",
+      "onboard_time": 1714064173,
+      "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209476,
+      "num": 209476,
+      "word": "金靖",
+      "onboard_time": 1714086495,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 198312,
@@ -211,14 +267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168146,
-      "num": 168146,
-      "word": "美国校园冲突升级",
-      "onboard_time": 1714064173,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158332,
       "num": 195748,
       "word": "ive新歌背景是葫芦娃救爷爷",
@@ -243,28 +291,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 147123,
-      "num": 147123,
-      "word": "谭爷爷你孙女当花局长了",
-      "onboard_time": 1714072811,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139648,
       "num": 195436,
       "word": "阚清子去海边了",
       "onboard_time": 1714057158,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135460,
-      "num": 135460,
-      "word": "英国最大监狱被曝多起性丑闻",
-      "onboard_time": 1714075811,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128957,
@@ -339,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98880,
+      "num": 98880,
+      "word": "胡冰卿旗袍身材曲线",
+      "onboard_time": 1714081031,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 98652,
       "num": 194822,
       "word": "小K有微博了",
@@ -387,6 +427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 84922,
+      "num": 84922,
+      "word": "迪丽热巴漫画走出的学姐",
+      "onboard_time": 1714066572,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81645,
       "num": 194723,
       "word": "运动完脸红和脸白的人谁更健康",
@@ -417,6 +465,14 @@
       "onboard_time": 1714076290,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73138,
+      "num": 73138,
+      "word": "上海月租50元1平米房为摆拍造假",
+      "onboard_time": 1714048577,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71652,
@@ -467,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54778,
+      "num": 54778,
+      "word": "近期广东人听最多的声音",
+      "onboard_time": 1714081271,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 54623,
       "num": 54623,
       "word": "惜花芷",
@@ -475,19 +539,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52605,
-      "num": 52605,
-      "word": "胡冰卿旗袍身材曲线",
-      "onboard_time": 1714081031,
-      "rank": 25,
-      "category": "作品衍生"
+      "raw_hot": 52392,
+      "num": 52392,
+      "word": "想睡个好觉真的易如反掌",
+      "onboard_time": 1714076350,
+      "rank": 47,
+      "category": "情感"
     },
     {
-      "raw_hot": 49864,
-      "num": 43493,
-      "word": "迪丽热巴漫画走出的学姐",
-      "onboard_time": 1714066572,
-      "rank": 26,
+      "raw_hot": 50124,
+      "num": 50124,
+      "word": "贾跃亭回应周鸿祎质疑",
+      "onboard_time": 1714082051,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 46012,
+      "num": 46012,
+      "word": "尚雯婕李溪芮聊天记录",
+      "onboard_time": 1714042459,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -515,32 +587,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 40080,
-      "num": 52372,
-      "word": "上海月租50元1平米房为摆拍造假",
-      "onboard_time": 1714048577,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37605,
-      "num": 37605,
-      "word": "贾跃亭回应周鸿祎质疑",
-      "onboard_time": 1714082051,
-      "rank": 33,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 35224,
-      "num": 35224,
-      "word": "近期广东人听最多的声音",
-      "onboard_time": 1714081271,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 34762,
-      "num": 34762,
+      "raw_hot": 41428,
+      "num": 45131,
       "word": "神十八",
       "onboard_time": 1714047858,
       "rank": 49,
@@ -553,14 +601,6 @@
       "onboard_time": 1714066872,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31217,
-      "num": 31217,
-      "word": "想睡个好觉真的易如反掌",
-      "onboard_time": 1714076350,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 26668,
