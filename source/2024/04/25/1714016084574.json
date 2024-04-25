@@ -1,0 +1,410 @@
+{
+  "runTime": 1714016084574,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1743796,
+        "num": 1743796,
+        "word": "英国首相将中国列为威权主义国家",
+        "onboard_time": 1714012277,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1468493,
+        "num": 1468493,
+        "word": "爱情公寓秦羽墨美甲店被吐槽",
+        "onboard_time": 1714011797,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14196,
+        "num": 884891,
+        "word": "万千气象看山西",
+        "onboard_time": 1713842298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860184,
+        "num": 860184,
+        "word": "准00后女干部黄左梦琪已任副镇长",
+        "onboard_time": 1714013537,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799797,
+        "num": 799797,
+        "word": "男子离婚冷静期街头杀妻被判死刑",
+        "onboard_time": 1714013298,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742644,
+        "num": 742644,
+        "word": "考上研后被裁员是什么体验",
+        "onboard_time": 1714012338,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 634997,
+        "num": 634997,
+        "word": "官方回应社保缴满15年就坐等退休",
+        "onboard_time": 1714001837,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501350,
+        "num": 501350,
+        "word": "郑合惠子 不红你就是没有话语权",
+        "onboard_time": 1714015277,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221649,
+        "num": 498849,
+        "word": "刚开业价值300万黄金被洗劫一空",
+        "onboard_time": 1714004539,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 391954,
+        "num": 482981,
+        "word": "萌兰的腿怎么突然变1米9了",
+        "onboard_time": 1714005678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1172891,
+        "num": 473846,
+        "word": "郑乃馨公开恋情后被音乐节除名",
+        "onboard_time": 1714012036,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 509443,
+        "num": 460990,
+        "word": "妈妈将3个孩子反锁家中1天只吃1顿",
+        "onboard_time": 1714007417,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458503,
+        "num": 458503,
+        "word": "秦海璐想到十年后的北斗七行哭了",
+        "onboard_time": 1714013598,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432113,
+        "num": 432113,
+        "word": "爱情公寓其实已经大结局了",
+        "onboard_time": 1714014559,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408372,
+        "num": 408372,
+        "word": "杨幂爸爸说谢谢你们喜欢我女儿",
+        "onboard_time": 1714014377,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 392392,
+        "num": 392392,
+        "word": "王一博鲨鱼夹",
+        "onboard_time": 1714002559,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346662,
+        "num": 346662,
+        "word": "HYBE以涉嫌工作渎职等嫌疑告发闵熙珍",
+        "onboard_time": 1714011078,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311819,
+        "num": 311819,
+        "word": "彩礼该以女方陪嫁形式返还小家庭吗",
+        "onboard_time": 1714005319,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275748,
+        "num": 275748,
+        "word": "叶诗文决定退出200混比赛",
+        "onboard_time": 1714006639,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265996,
+        "num": 265996,
+        "word": "小米汽车",
+        "onboard_time": 1714010118,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 421727,
+        "num": 262301,
+        "word": "男子多次性侵前女友11岁女儿获刑16年",
+        "onboard_time": 1713968059,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338654,
+        "num": 259339,
+        "word": "你认为很贵其实很便宜的东西",
+        "onboard_time": 1714012036,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236910,
+        "num": 236910,
+        "word": "我以为就是被偷亲结果他按头了",
+        "onboard_time": 1714013416,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236690,
+        "num": 236690,
+        "word": "眼泪女王洪海仁原定IU出演",
+        "onboard_time": 1714003818,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233180,
+        "num": 233180,
+        "word": "狗头萝莉自曝找到员工了",
+        "onboard_time": 1713981973,
+        "rank": 24,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 231572,
+        "num": 231572,
+        "word": "电影有朵云像你定档",
+        "onboard_time": 1714012397,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171567,
+        "num": 220996,
+        "word": "中国版Cybertruck引爆北京车展",
+        "onboard_time": 1714014918,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 215945,
+        "num": 215945,
+        "word": "田馥甄发微博",
+        "onboard_time": 1713964220,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190895,
+        "num": 190895,
+        "word": "淫秽物品认定标准",
+        "onboard_time": 1714004959,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 77729,
+        "num": 188845,
+        "word": "老爷爷带写着金婚快乐的玫瑰乘地铁",
+        "onboard_time": 1714006878,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74703,
+        "num": 188678,
+        "word": "新豪华选阿维塔",
+        "onboard_time": 1714015097,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 188618,
+        "num": 188618,
+        "word": "这届年轻人有多懂低成本出游",
+        "onboard_time": 1714014199,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 184063,
+        "num": 184063,
+        "word": "这个部位胖点是种健康优势",
+        "onboard_time": 1714013176,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183485,
+        "num": 183485,
+        "word": "唐家三少说再婚会通知书友",
+        "onboard_time": 1714003878,
+        "rank": 33,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 181856,
+        "num": 181856,
+        "word": "杨幂爸爸正义判官",
+        "onboard_time": 1714013657,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179379,
+        "num": 179379,
+        "word": "刘同 大学同学是种奇怪的关系",
+        "onboard_time": 1714015158,
+        "rank": 35,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 168994,
+        "num": 168994,
+        "word": "看牙为什么这么贵了",
+        "onboard_time": 1714013238,
+        "rank": 36,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 162759,
+        "num": 162759,
+        "word": "肖战入选世界十大最美面孔",
+        "onboard_time": 1714004959,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139673,
+        "num": 139673,
+        "word": "未婚未育的90后开始争当月嫂",
+        "onboard_time": 1714008498,
+        "rank": 38,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 137685,
+        "num": 137685,
+        "word": "种地吧直播",
+        "onboard_time": 1714011677,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128661,
+        "num": 128661,
+        "word": "A股长城汽车一字涨停",
+        "onboard_time": 1714014137,
+        "rank": 40,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 125594,
+        "num": 125594,
+        "word": "一直娱 特典",
+        "onboard_time": 1714015519,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115712,
+        "num": 115712,
+        "word": "微信区分单删互删",
+        "onboard_time": 1713968659,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149985,
+        "num": 115461,
+        "word": "电梯从20楼坠落致物业工作人员死亡",
+        "onboard_time": 1714002317,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114469,
+        "num": 114469,
+        "word": "海仁被尹殷盛洗脑",
+        "onboard_time": 1714013957,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112207,
+        "num": 112207,
+        "word": "新西兰超市偶遇郑乃馨Bright",
+        "onboard_time": 1714016001,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111846,
+        "num": 111846,
+        "word": "杨幂看相机wink",
+        "onboard_time": 1714014438,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110316,
+        "num": 110316,
+        "word": "和平精英",
+        "onboard_time": 1714014498,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109422,
+        "num": 109422,
+        "word": "毛不易曾想过要整容",
+        "onboard_time": 1714013358,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106941,
+        "num": 106941,
+        "word": "吴谨言李纯是同学",
+        "onboard_time": 1714012156,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写西部大开发新篇章#"
+    }
+  }
+}

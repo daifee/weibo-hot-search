@@ -1,6 +1,6 @@
 {
   "startTime": 1713975704162,
-  "endTime": 1714015157406,
+  "endTime": 1714016084574,
   "band_list": [
     {
       "raw_hot": 2184582,
@@ -11,16 +11,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1630924,
-      "num": 1630924,
+      "raw_hot": 1743796,
+      "num": 1743796,
       "word": "英国首相将中国列为威权主义国家",
       "onboard_time": 1714012277,
       "rank": 23,
       "category": "国外时政"
     },
     {
-      "raw_hot": 1386905,
-      "num": 1386905,
+      "raw_hot": 1468493,
+      "num": 1468493,
       "word": "爱情公寓秦羽墨美甲店被吐槽",
       "onboard_time": 1714011797,
       "rank": 26,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1334360,
-      "num": 448136,
+      "num": 473846,
       "word": "郑乃馨公开恋情后被音乐节除名",
       "onboard_time": 1714012036,
       "rank": 24,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1076753,
-      "num": 443428,
+      "num": 460990,
       "word": "妈妈将3个孩子反锁家中1天只吃1顿",
       "onboard_time": 1714007417,
       "rank": 38,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 860184,
+      "num": 860184,
+      "word": "准00后女干部黄左梦琪已任副镇长",
+      "onboard_time": 1714013537,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 818012,
       "num": 757624,
       "word": "唐家三少说再婚会通知书友",
@@ -81,6 +89,14 @@
       "onboard_time": 1713964220,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 799797,
+      "num": 799797,
+      "word": "男子离婚冷静期街头杀妻被判死刑",
+      "onboard_time": 1714013298,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 781110,
@@ -107,6 +123,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 742644,
+      "num": 742644,
+      "word": "考上研后被裁员是什么体验",
+      "onboard_time": 1714012338,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 721403,
       "num": 721403,
       "word": "眼泪女王洪海仁原定IU出演",
@@ -121,30 +145,6 @@
       "onboard_time": 1713968059,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 696249,
-      "num": 696249,
-      "word": "男子离婚冷静期街头杀妻被判死刑",
-      "onboard_time": 1714013298,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 661570,
-      "num": 661570,
-      "word": "准00后女干部黄左梦琪已任副镇长",
-      "onboard_time": 1714013537,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 637032,
-      "num": 637032,
-      "word": "考上研后被裁员是什么体验",
-      "onboard_time": 1714012338,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 617967,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 501350,
+      "num": 501350,
+      "word": "郑合惠子 不红你就是没有话语权",
+      "onboard_time": 1714015277,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 489644,
       "num": 489644,
       "word": "萌兰的腿怎么突然变1米9了",
@@ -227,12 +235,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 458503,
+      "num": 458503,
+      "word": "秦海璐想到十年后的北斗七行哭了",
+      "onboard_time": 1714013598,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 452745,
       "num": 256137,
       "word": "微信区分单删互删",
       "onboard_time": 1713968659,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 432113,
+      "num": 432113,
+      "word": "爱情公寓其实已经大结局了",
+      "onboard_time": 1714014559,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 431357,
@@ -249,6 +273,14 @@
       "onboard_time": 1713952578,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 408372,
+      "num": 408372,
+      "word": "杨幂爸爸说谢谢你们喜欢我女儿",
+      "onboard_time": 1714014377,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 406589,
@@ -297,22 +329,6 @@
       "onboard_time": 1714012036,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 378055,
-      "num": 378055,
-      "word": "秦海璐想到十年后的北斗七行哭了",
-      "onboard_time": 1714013598,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 373671,
-      "num": 373671,
-      "word": "爱情公寓其实已经大结局了",
-      "onboard_time": 1714014559,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 370649,
@@ -449,14 +465,6 @@
       "onboard_time": 1714001596,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 240677,
-      "num": 197890,
-      "word": "杨幂爸爸说谢谢你们喜欢我女儿",
-      "onboard_time": 1714014377,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 237313,
@@ -627,6 +635,14 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 188618,
+      "num": 188618,
+      "word": "这届年轻人有多懂低成本出游",
+      "onboard_time": 1714014199,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 184710,
       "num": 184710,
       "word": "身份证号码中包含X该如何买票",
@@ -635,20 +651,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 184063,
+      "num": 184063,
+      "word": "这个部位胖点是种健康优势",
+      "onboard_time": 1714013176,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 183995,
       "num": 173256,
       "word": "杨幂看相机wink",
       "onboard_time": 1714014438,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 183986,
-      "num": 183986,
-      "word": "这个部位胖点是种健康优势",
-      "onboard_time": 1714013176,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 182669,
@@ -683,6 +699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 179379,
+      "num": 179379,
+      "word": "刘同 大学同学是种奇怪的关系",
+      "onboard_time": 1714015158,
+      "rank": 35,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 177301,
       "num": 177301,
       "word": "热火1比1凯尔特人",
@@ -699,20 +723,20 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 171567,
+      "num": 220996,
+      "word": "中国版Cybertruck引爆北京车展",
+      "onboard_time": 1714014918,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 171447,
       "num": 171447,
       "word": "一眼就能看出谁是花1谁是花5",
       "onboard_time": 1714008438,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171245,
-      "num": 171245,
-      "word": "这届年轻人有多懂低成本出游",
-      "onboard_time": 1714014199,
-      "rank": 36,
-      "category": "旅游"
     },
     {
       "raw_hot": 163662,
@@ -729,14 +753,6 @@
       "onboard_time": 1713968359,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159951,
-      "num": 169572,
-      "word": "中国版Cybertruck引爆北京车展",
-      "onboard_time": 1714014918,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 152418,
@@ -891,6 +907,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 125594,
+      "num": 125594,
+      "word": "一直娱 特典",
+      "onboard_time": 1714015519,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 124484,
       "num": 119423,
       "word": "秦海璐刘涛 我带你梦想成真",
@@ -953,6 +977,14 @@
       "onboard_time": 1713952039,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112207,
+      "num": 112207,
+      "word": "新西兰超市偶遇郑乃馨Bright",
+      "onboard_time": 1714016001,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 112055,
@@ -1080,6 +1112,14 @@
       "word": "小米汽车回应玻璃镀银影响信号",
       "onboard_time": 1713971658,
       "rank": 46,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 74703,
+      "num": 188678,
+      "word": "新豪华选阿维塔",
+      "onboard_time": 1714015097,
+      "rank": 49,
       "category": "汽车"
     },
     {
@@ -1235,16 +1275,8 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 15297,
-      "num": 109225,
-      "word": "新豪华选阿维塔",
-      "onboard_time": 1714015097,
-      "rank": 49,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 12158,
-      "num": 881797,
+      "raw_hot": 14196,
+      "num": 884891,
       "word": "万千气象看山西",
       "onboard_time": 1713842298,
       "rank": 2,
