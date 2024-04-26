@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714163744643,
+  "endTime": 1714166151712,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -72164,7 +72164,7 @@
     },
     {
       "raw_hot": 66439,
-      "num": 43623,
+      "num": 45170,
       "word": "发明邓超的人真是个天才",
       "onboard_time": 1714157532,
       "rank": 25,
@@ -75571,6 +75571,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 16917,
+      "num": 22746,
+      "word": "普京称计划5月访华",
+      "onboard_time": 1714161611,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 16908,
       "num": 182139,
       "word": "P5X肝度适中",
@@ -75611,20 +75619,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 16385,
+      "num": 16385,
+      "word": "美国各高校抗议以色列对加沙的战争",
+      "onboard_time": 1714164550,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 16340,
       "num": 16340,
       "word": "春夏美甲",
       "onboard_time": 1713473891,
       "rank": 37,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 16328,
-      "num": 22746,
-      "word": "普京称计划5月访华",
-      "onboard_time": 1714161611,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 16244,
@@ -75667,6 +75675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15013,
+      "num": 16588,
+      "word": "徐冬冬尹子维影子吻",
+      "onboard_time": 1714162931,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14892,
       "num": 1120997,
       "word": "中国建造上新又上量竞争力越来越强",
@@ -75697,6 +75713,14 @@
       "onboard_time": 1712696290,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 14282,
+      "num": 15498,
+      "word": "南方媳妇到山东吃席400块17个菜",
+      "onboard_time": 1714165871,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 14196,
@@ -75737,14 +75761,6 @@
       "onboard_time": 1713474551,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 13808,
-      "num": 16588,
-      "word": "徐冬冬尹子维影子吻",
-      "onboard_time": 1714162931,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 13804,

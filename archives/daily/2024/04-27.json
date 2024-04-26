@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714163744643,
+  "endTime": 1714166151712,
   "band_list": [
     {
       "raw_hot": 1356945,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 66439,
-      "num": 43623,
+      "num": 45170,
       "word": "发明邓超的人真是个天才",
       "onboard_time": 1714157532,
       "rank": 25,
@@ -531,7 +531,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16328,
+      "raw_hot": 16917,
       "num": 22746,
       "word": "普京称计划5月访华",
       "onboard_time": 1714161611,
@@ -539,12 +539,28 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 13808,
+      "raw_hot": 16385,
+      "num": 16385,
+      "word": "美国各高校抗议以色列对加沙的战争",
+      "onboard_time": 1714164550,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 15013,
       "num": 16588,
       "word": "徐冬冬尹子维影子吻",
       "onboard_time": 1714162931,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14282,
+      "num": 15498,
+      "word": "南方媳妇到山东吃席400块17个菜",
+      "onboard_time": 1714165871,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 3763,
