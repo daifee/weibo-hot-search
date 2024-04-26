@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714134764916,
+  "endTime": 1714135617625,
   "band_list": [
     {
       "raw_hot": 2869467,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1304097,
-      "num": 264505,
+      "num": 279957,
       "word": "京东员工误操作或致损失超百万",
       "onboard_time": 1714130657,
       "rank": 33,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 725262,
+      "num": 725262,
+      "word": "恋综 合约情侣",
+      "onboard_time": 1714129157,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 723401,
       "num": 723401,
       "word": "李彩桦去拍短剧了",
@@ -329,14 +337,6 @@
       "onboard_time": 1714108938,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 687382,
-      "num": 687382,
-      "word": "恋综 合约情侣",
-      "onboard_time": 1714129157,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 681369,
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 594678,
+      "num": 272489,
+      "word": "江西通报小学生在校坠楼身亡",
+      "onboard_time": 1714131977,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 592652,
       "num": 592652,
       "word": "舒奕橙",
@@ -457,14 +465,6 @@
       "onboard_time": 1714090759,
       "rank": 5,
       "category": "数码"
-    },
-    {
-      "raw_hot": 544056,
-      "num": 260126,
-      "word": "江西通报小学生在校坠楼身亡",
-      "onboard_time": 1714131977,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 539388,
@@ -715,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374520,
+      "num": 374520,
+      "word": "张杰演唱会门口被陌生人送票",
+      "onboard_time": 1714134198,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 370358,
       "num": 370358,
       "word": "湖人被横扫",
@@ -803,7 +811,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 336397,
+      "raw_hot": 338361,
       "num": 312683,
       "word": "小婉 真实追星迪丽热巴",
       "onboard_time": 1714128978,
@@ -848,6 +856,14 @@
       "word": "那么大的熊熊那么小的jiojio",
       "onboard_time": 1714088416,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320346,
+      "num": 320346,
+      "word": "韩国教师引诱121名未成年拍不雅视频",
+      "onboard_time": 1714134739,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -913,6 +929,14 @@
       "onboard_time": 1714107500,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297599,
+      "num": 235967,
+      "word": "Jennie第一次cha",
+      "onboard_time": 1714135159,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 293473,
@@ -1059,14 +1083,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 247247,
-      "num": 247247,
-      "word": "张杰演唱会门口被陌生人送票",
-      "onboard_time": 1714134198,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 247174,
       "num": 247174,
       "word": "困在二本线的艺考生",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1714129098,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 245561,
+      "num": 251085,
+      "word": "石家庄冰雹",
+      "onboard_time": 1714133658,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244781,
@@ -1235,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230350,
+      "num": 230350,
+      "word": "赵奕欢 三公淘汰",
+      "onboard_time": 1714134019,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230311,
       "num": 230311,
       "word": "张若昀说庆余年五月中旬播",
@@ -1299,20 +1331,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 220177,
-      "num": 251085,
-      "word": "石家庄冰雹",
-      "onboard_time": 1714133658,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215157,
       "num": 240109,
       "word": "我的星穹铁道一周年",
       "onboard_time": 1714107020,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211521,
+      "num": 211521,
+      "word": "世界杯决胜局争议球全纪录",
+      "onboard_time": 1714133296,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 210274,
@@ -1344,14 +1376,6 @@
       "word": "全员加速中谁是大侦探",
       "onboard_time": 1714105158,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 208071,
-      "num": 208071,
-      "word": "赵奕欢 三公淘汰",
-      "onboard_time": 1714134019,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1411,20 +1435,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201710,
+      "num": 201710,
+      "word": "李宇春宁波",
+      "onboard_time": 1714134918,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200547,
       "num": 200547,
       "word": "胡先煦张子枫红毯上撒玫瑰",
       "onboard_time": 1714128078,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 200319,
-      "num": 200319,
-      "word": "世界杯决胜局争议球全纪录",
-      "onboard_time": 1714133296,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 199409,
@@ -1473,6 +1497,14 @@
       "onboard_time": 1714126758,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196356,
+      "num": 193491,
+      "word": "朱一龙透露未来想尝试的角色",
+      "onboard_time": 1714134498,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 196231,
@@ -1539,12 +1571,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 193491,
-      "num": 193491,
-      "word": "朱一龙透露未来想尝试的角色",
-      "onboard_time": 1714134498,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 194305,
+      "num": 168505,
+      "word": "全员加速中",
+      "onboard_time": 1714135338,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 191624,
@@ -1987,6 +2019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 155249,
+      "num": 155249,
+      "word": "为什么职场人喜欢戴智能手表",
+      "onboard_time": 1714134798,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 154320,
       "num": 154320,
       "word": "我的阿勒泰 草原王子",
@@ -2115,6 +2155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144607,
+      "num": 410545,
+      "word": "云南人专属浪漫油炸玫瑰花",
+      "onboard_time": 1714128378,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 144416,
       "num": 144416,
       "word": "中方回应能否证实哈马斯和法塔赫在北京会面",
@@ -2185,14 +2233,6 @@
       "onboard_time": 1714102459,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 138704,
-      "num": 410545,
-      "word": "云南人专属浪漫油炸玫瑰花",
-      "onboard_time": 1714128378,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 138358,
@@ -2611,14 +2651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102152,
-      "num": 126945,
-      "word": "韩国教师引诱121名未成年拍不雅视频",
-      "onboard_time": 1714134739,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100562,
       "num": 339853,
       "word": "喜茶竟然和飞猪搞起了旅游",
@@ -2884,7 +2916,7 @@
     },
     {
       "raw_hot": 44058,
-      "num": 255835,
+      "num": 261036,
       "word": "蛋仔冠军Dong",
       "onboard_time": 1714132338,
       "rank": 16,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1714135617625,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 725262,
+        "num": 725262,
+        "word": "恋综 合约情侣",
+        "onboard_time": 1714129157,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461046,
+        "num": 461046,
+        "word": "厦门教师招聘疑因取消编制无人报考",
+        "onboard_time": 1714126878,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7407,
+        "num": 384421,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374520,
+        "num": 374520,
+        "word": "张杰演唱会门口被陌生人送票",
+        "onboard_time": 1714134198,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 369010,
+        "num": 369010,
+        "word": "休想换走我的高铁F座",
+        "onboard_time": 1714122617,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 345622,
+        "num": 345622,
+        "word": "Jennie硬控我18秒",
+        "onboard_time": 1714128858,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 320346,
+        "num": 320346,
+        "word": "韩国教师引诱121名未成年拍不雅视频",
+        "onboard_time": 1714134739,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319100,
+        "num": 319100,
+        "word": "白玉兰直播",
+        "onboard_time": 1714129637,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284909,
+        "num": 284909,
+        "word": "李嘉格 淘汰",
+        "onboard_time": 1714123098,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144607,
+        "num": 282903,
+        "word": "云南人专属浪漫油炸玫瑰花",
+        "onboard_time": 1714128378,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1282436,
+        "num": 279957,
+        "word": "京东员工误操作或致损失超百万",
+        "onboard_time": 1714130657,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 889697,
+        "num": 276459,
+        "word": "韩国N号房事件再现",
+        "onboard_time": 1714128618,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594678,
+        "num": 272489,
+        "word": "江西通报小学生在校坠楼身亡",
+        "onboard_time": 1714131977,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513835,
+        "num": 267493,
+        "word": "原来戚薇是方文山徒弟",
+        "onboard_time": 1714124299,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489242,
+        "num": 264555,
+        "word": "向太大腿骨断裂",
+        "onboard_time": 1714127958,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37557,
+        "num": 261036,
+        "word": "蛋仔冠军Dong",
+        "onboard_time": 1714132338,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 440908,
+        "num": 255268,
+        "word": "美国男子强奸14岁少女被判物理阉割",
+        "onboard_time": 1714104378,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382184,
+        "num": 251123,
+        "word": "林更新 把你的恶心收一收",
+        "onboard_time": 1714105760,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 373112,
+        "num": 246240,
+        "word": "肖战全黑穿搭",
+        "onboard_time": 1714132577,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245561,
+        "num": 245561,
+        "word": "石家庄冰雹",
+        "onboard_time": 1714133658,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419650,
+        "num": 244273,
+        "word": "常用乳贴会导致乳房下垂吗",
+        "onboard_time": 1714110678,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 338361,
+        "num": 242129,
+        "word": "小婉 真实追星迪丽热巴",
+        "onboard_time": 1714128978,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297599,
+        "num": 235967,
+        "word": "Jennie第一次cha",
+        "onboard_time": 1714135159,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251868,
+        "num": 235384,
+        "word": "水龙吟预告",
+        "onboard_time": 1714125378,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232645,
+        "num": 232645,
+        "word": "日本或成五一爆款旅游地",
+        "onboard_time": 1714129098,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 230350,
+        "num": 230350,
+        "word": "赵奕欢 三公淘汰",
+        "onboard_time": 1714134019,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211521,
+        "num": 211521,
+        "word": "世界杯决胜局争议球全纪录",
+        "onboard_time": 1714133296,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210996,
+        "num": 210996,
+        "word": "恋爱兄妹",
+        "onboard_time": 1714131558,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204341,
+        "num": 204341,
+        "word": "中美五点共识",
+        "onboard_time": 1714129338,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189088,
+        "num": 201872,
+        "word": "林生斌",
+        "onboard_time": 1714095318,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207166,
+        "num": 201846,
+        "word": "虞书欣林一SPOT舞蹈挑战",
+        "onboard_time": 1714132577,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201710,
+        "num": 201710,
+        "word": "李宇春宁波",
+        "onboard_time": 1714134918,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201601,
+        "num": 201601,
+        "word": "老舅和范志毅是P上去的",
+        "onboard_time": 1714133479,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196619,
+        "num": 196619,
+        "word": "HYBE否认不宣传newjeans",
+        "onboard_time": 1714130119,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174772,
+        "num": 174772,
+        "word": "闪耀暖暖蜘蛛婚纱",
+        "onboard_time": 1714130837,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196356,
+        "num": 168835,
+        "word": "朱一龙透露未来想尝试的角色",
+        "onboard_time": 1714134498,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194305,
+        "num": 168505,
+        "word": "全员加速中",
+        "onboard_time": 1714135338,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160533,
+        "num": 160533,
+        "word": "小姐姐麻醉还没醒过来再次爱上另一半",
+        "onboard_time": 1714131138,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155249,
+        "num": 155249,
+        "word": "为什么职场人喜欢戴智能手表",
+        "onboard_time": 1714134798,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145960,
+        "num": 154100,
+        "word": "中国女留学生澳大利亚失联在泰国被找到",
+        "onboard_time": 1714121959,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183852,
+        "num": 154077,
+        "word": "邓超 亚比囧囧囧",
+        "onboard_time": 1714124119,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172658,
+        "num": 154070,
+        "word": "发如雪",
+        "onboard_time": 1714128559,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154023,
+        "num": 154023,
+        "word": "歌手2024官宣定档",
+        "onboard_time": 1714113438,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147587,
+        "num": 147587,
+        "word": "赵露思凌乱红发",
+        "onboard_time": 1714126998,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147418,
+        "num": 147418,
+        "word": "花少1 真正的穷游",
+        "onboard_time": 1714120757,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139509,
+        "num": 139509,
+        "word": "男友妈妈叫我婚前别买车",
+        "onboard_time": 1714122978,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130148,
+        "num": 130148,
+        "word": "为什么蓝领工作越来越吃香了",
+        "onboard_time": 1714133296,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123400,
+        "num": 123400,
+        "word": "地球容得下中美两国共同发展各自繁荣",
+        "onboard_time": 1714132338,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117455,
+        "num": 117455,
+        "word": "中方回应能否证实哈马斯和法塔赫在北京会面",
+        "onboard_time": 1714129578,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115147,
+        "num": 115147,
+        "word": "腿粗屁股大的人竟然更长寿",
+        "onboard_time": 1714106839,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代推动西部大开发座谈会#"
+    }
+  }
+}
