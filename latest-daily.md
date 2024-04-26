@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/27 00:23:44 ~ 2024/04/27 03:15:33
+本榜单时间：2024/04/27 00:23:44 ~ 2024/04/27 03:34:04
 </p>
 </blockquote>
 <p>
@@ -370,7 +370,7 @@ Mpop（热度：59678）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%98%8E%E9%82%93%E8%B6%85%E7%9A%84%E4%BA%BA%E7%9C%9F%E6%98%AF%E4%B8%AA%E5%A4%A9%E6%89%8D%23" target="weibo">
-发明邓超的人真是个天才（热度：34970）
+发明邓超的人真是个天才（热度：39694）
 </a>
 </li>
 
@@ -387,14 +387,14 @@ Mpop（热度：59678）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%20%E4%BF%AE%E9%9F%B3%23" target="weibo">
-浪姐 修音（热度：26876）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23" target="weibo">
+英雄联盟（热度：30161）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23" target="weibo">
-英雄联盟（热度：26573）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%20%E4%BF%AE%E9%9F%B3%23" target="weibo">
+浪姐 修音（热度：26876）
 </a>
 </li>
 

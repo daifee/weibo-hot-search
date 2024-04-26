@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714158933215,
+  "endTime": 1714160044108,
   "band_list": [
     {
       "raw_hot": 1356945,
@@ -475,8 +475,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 34970,
-      "num": 34970,
+      "raw_hot": 39694,
+      "num": 39694,
       "word": "发明邓超的人真是个天才",
       "onboard_time": 1714157532,
       "rank": 25,
@@ -499,20 +499,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 30161,
+      "num": 30161,
+      "word": "英雄联盟",
+      "onboard_time": 1714157172,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 26876,
       "num": 26876,
       "word": "浪姐 修音",
       "onboard_time": 1714157891,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26573,
-      "num": 26573,
-      "word": "英雄联盟",
-      "onboard_time": 1714157172,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 25176,

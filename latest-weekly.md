@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/21 00:21:44 ~ 2024/04/27 03:15:33
+本榜单时间：2024/04/21 00:21:44 ~ 2024/04/27 03:34:04
 </p>
 </blockquote>
 <p>
@@ -13875,6 +13875,12 @@ Z9原来是贼久的意思（热度：50649）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%98%8E%E9%82%93%E8%B6%85%E7%9A%84%E4%BA%BA%E7%9C%9F%E6%98%AF%E4%B8%AA%E5%A4%A9%E6%89%8D%23" target="weibo">
+发明邓超的人真是个天才（热度：39694）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%AA%E5%8A%9B%E5%BB%BA%E8%AE%BE%E4%B8%96%E7%95%8C%E4%B8%80%E6%B5%81%E5%86%9B%E5%8C%BB%E5%A4%A7%E5%AD%A6%23" target="weibo">
 努力建设世界一流军医大学（热度：39045）
 </a>
@@ -13925,12 +13931,6 @@ Z9原来是贼久的意思（热度：50649）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2360%E7%A7%92%E5%9B%9E%E9%A1%BE%E7%A5%9E%E5%8D%81%E5%85%AB%E5%8F%91%E5%B0%84%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4%23" target="weibo">
 60秒回顾神十八发射精彩瞬间（热度：35142）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%98%8E%E9%82%93%E8%B6%85%E7%9A%84%E4%BA%BA%E7%9C%9F%E6%98%AF%E4%B8%AA%E5%A4%A9%E6%89%8D%23" target="weibo">
-发明邓超的人真是个天才（热度：34970）
 </a>
 </li>
 
@@ -14031,6 +14031,12 @@ Z9原来是贼久的意思（热度：50649）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23" target="weibo">
+英雄联盟（热度：30161）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%83%E7%99%8C%E5%9C%A8%E6%97%A9%E6%9C%9F%E6%B2%A1%E6%9C%89%E7%97%87%E7%8A%B6%23" target="weibo">
 胃癌在早期没有症状（热度：29767）
 </a>
@@ -14057,12 +14063,6 @@ Z9原来是贼久的意思（热度：50649）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E7%BB%B4%E5%92%8C%E9%98%B2%E6%9A%B4%E9%98%9F%E8%AD%A6%E5%A4%A7%E8%B7%AF%E6%BC%94%E7%B2%BE%E5%BD%A9%E5%9B%9E%E9%A1%BE%23" target="weibo">
 电影维和防暴队警大路演精彩回顾（热度：26668）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23" target="weibo">
-英雄联盟（热度：26573）
 </a>
 </li>
 
