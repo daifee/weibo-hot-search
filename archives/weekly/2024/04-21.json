@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714145680213,
+  "endTime": 1714148624368,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -1340,7 +1340,7 @@
     },
     {
       "raw_hot": 948860,
-      "num": 510351,
+      "num": 525116,
       "word": "28岁女子经常饥一顿饱一顿确诊胃癌",
       "onboard_time": 1714137978,
       "rank": 22,
@@ -1412,7 +1412,7 @@
     },
     {
       "raw_hot": 916824,
-      "num": 300492,
+      "num": 536474,
       "word": "辅警杀害新婚妻子被判死缓",
       "onboard_time": 1714141460,
       "rank": 24,
@@ -2089,6 +2089,14 @@
       "onboard_time": 1714043296,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 729645,
+      "num": 544882,
+      "word": "抗癌东东去世",
+      "onboard_time": 1714145358,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 729425,
@@ -3737,6 +3745,14 @@
       "onboard_time": 1713838518,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 503679,
+      "num": 503679,
+      "word": "爱情公寓 同一个人不同的角色",
+      "onboard_time": 1714146018,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 503096,
@@ -5473,6 +5489,14 @@
       "onboard_time": 1714045278,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 355456,
+      "num": 355456,
+      "word": "哈尔滨一九四四 活到年底都算喜丧",
+      "onboard_time": 1714146318,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 355168,
@@ -8675,6 +8699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 223574,
+      "num": 223574,
+      "word": "gidle御用化妆师的上妆手法",
+      "onboard_time": 1714145118,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 223514,
       "num": 223514,
       "word": "一场可以载入历史的记者会",
@@ -9003,6 +9035,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 214683,
+      "num": 214683,
+      "word": "庞博10天瘦了7斤",
+      "onboard_time": 1714145539,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214678,
       "num": 214678,
       "word": "李现台词",
@@ -9048,6 +9088,14 @@
       "word": "龚俊又被骗了",
       "onboard_time": 1713706521,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 213167,
+      "num": 195878,
+      "word": "李庚希录节目进去23出来24",
+      "onboard_time": 1714147519,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -11555,6 +11603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184000,
+      "num": 184000,
+      "word": "走路时膝盖突然软一下咋回事",
+      "onboard_time": 1714143499,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 183995,
       "num": 173256,
       "word": "杨幂看相机wink",
@@ -12771,6 +12827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165954,
+      "num": 165954,
+      "word": "李溪芮女团范儿",
+      "onboard_time": 1714146439,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165875,
       "num": 161047,
       "word": "周杰伦团队感谢杭州",
@@ -13921,14 +13985,6 @@
       "onboard_time": 1714131198,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150984,
-      "num": 151953,
-      "word": "走路时膝盖突然软一下咋回事",
-      "onboard_time": 1714143499,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 150869,
@@ -15305,14 +15361,6 @@
       "onboard_time": 1713935658,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 135379,
-      "num": 149766,
-      "word": "抗癌东东去世",
-      "onboard_time": 1714145358,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135189,
@@ -17275,6 +17323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101505,
+      "num": 96182,
+      "word": "方时赫没和NewJeans合过影",
+      "onboard_time": 1714146439,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101388,
       "num": 372457,
       "word": "凯迪拉克V我50",
@@ -17355,14 +17411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 98749,
-      "num": 126937,
-      "word": "gidle御用化妆师的上妆手法",
-      "onboard_time": 1714145118,
-      "rank": 49,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 98713,
       "num": 133961,
       "word": "北京白领在小轿车里住7个月",
@@ -17417,6 +17465,14 @@
       "onboard_time": 1714087335,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96069,
+      "num": 96069,
+      "word": "泽泽饭饭 断崖式分手",
+      "onboard_time": 1714148418,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 95709,
@@ -17513,6 +17569,14 @@
       "onboard_time": 1714062976,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86209,
+      "num": 86209,
+      "word": "官方通报综合执法队雷某喝酒打人",
+      "onboard_time": 1714146498,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85992,

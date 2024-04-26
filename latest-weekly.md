@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/21 00:21:44 ~ 2024/04/26 23:34:40
+本榜单时间：2024/04/21 00:21:44 ~ 2024/04/27 00:23:44
 </p>
 </blockquote>
 <p>
@@ -1581,6 +1581,12 @@ babymonster 抗洪失败（热度：731236）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E7%99%8C%E4%B8%9C%E4%B8%9C%E5%8E%BB%E4%B8%96%23" target="weibo">
+抗癌东东去世（热度：729645）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%9B%B4%E5%8D%87%E6%9C%BA%E7%9B%B8%E6%92%9E%E8%87%B4%E5%A4%9A%E4%BA%BA%E4%BC%A4%E4%BA%A1%23" target="weibo">
 马来西亚直升机相撞致多人伤亡（热度：729425）
 </a>
@@ -2813,6 +2819,12 @@ ZICO和Jennie合作曲（热度：509492）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%9D%E4%B8%8D%E5%A5%BD%E5%8F%AF%E8%83%BD%E6%9C%89%E4%B8%80%E9%BB%84%E4%BA%8C%E7%BA%A2%E4%B8%89%E9%BB%91%23" target="weibo">
 肝不好可能有一黄二红三黑（热度：506673）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%20%E5%90%8C%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%B8%8D%E5%90%8C%E7%9A%84%E8%A7%92%E8%89%B2%23" target="weibo">
+爱情公寓 同一个人不同的角色（热度：503679）
 </a>
 </li>
 
@@ -4115,6 +4127,12 @@ iPhone16起步存储或为256GB（热度：357501）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E6%8E%92%E4%BD%8Dbug%23" target="weibo">
 第五人格排位bug（热度：356163）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%80%E4%B9%9D%E5%9B%9B%E5%9B%9B%20%E6%B4%BB%E5%88%B0%E5%B9%B4%E5%BA%95%E9%83%BD%E7%AE%97%E5%96%9C%E4%B8%A7%23" target="weibo">
+哈尔滨一九四四 活到年底都算喜丧（热度：355456）
 </a>
 </li>
 
@@ -6519,6 +6537,12 @@ Doinb说老头杯位置被抢了（热度：223755）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23gidle%E5%BE%A1%E7%94%A8%E5%8C%96%E5%A6%86%E5%B8%88%E7%9A%84%E4%B8%8A%E5%A6%86%E6%89%8B%E6%B3%95%23" target="weibo">
+gidle御用化妆师的上妆手法（热度：223574）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9C%BA%E5%8F%AF%E4%BB%A5%E8%BD%BD%E5%85%A5%E5%8E%86%E5%8F%B2%E7%9A%84%E8%AE%B0%E8%80%85%E4%BC%9A%23" target="weibo">
 一场可以载入历史的记者会（热度：223514）
 </a>
@@ -6765,6 +6789,12 @@ DNF手游定档（热度：218092）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%9E%E5%8D%9A10%E5%A4%A9%E7%98%A6%E4%BA%867%E6%96%A4%23" target="weibo">
+庞博10天瘦了7斤（热度：214683）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E5%8F%B0%E8%AF%8D%23" target="weibo">
 李现台词（热度：214678）
 </a>
@@ -6797,6 +6827,12 @@ DNF手游定档（热度：218092）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%8F%88%E8%A2%AB%E9%AA%97%E4%BA%86%23" target="weibo">
 龚俊又被骗了（热度：213211）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%E5%BD%95%E8%8A%82%E7%9B%AE%E8%BF%9B%E5%8E%BB23%E5%87%BA%E6%9D%A524%23" target="weibo">
+李庚希录节目进去23出来24（热度：213167）
 </a>
 </li>
 
@@ -8679,6 +8715,12 @@ AG时隔1064天重回胜者组（热度：185545）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B0%E8%B7%AF%E6%97%B6%E8%86%9D%E7%9B%96%E7%AA%81%E7%84%B6%E8%BD%AF%E4%B8%80%E4%B8%8B%E5%92%8B%E5%9B%9E%E4%BA%8B%23" target="weibo">
+走路时膝盖突然软一下咋回事（热度：184000）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%9C%8B%E7%9B%B8%E6%9C%BAwink%23" target="weibo">
 杨幂看相机wink（热度：183995）
 </a>
@@ -9591,6 +9633,12 @@ TF家族三代出道人数（热度：167026）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%BA%AA%E8%8A%AE%E5%A5%B3%E5%9B%A2%E8%8C%83%E5%84%BF%23" target="weibo">
+李溪芮女团范儿（热度：165954）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%9B%A2%E9%98%9F%E6%84%9F%E8%B0%A2%E6%9D%AD%E5%B7%9E%23" target="weibo">
 周杰伦团队感谢杭州（热度：165875）
 </a>
@@ -10451,12 +10499,6 @@ hybe或将对闵熙珍采取法律措施（热度：152139）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E6%9C%BA%E5%9C%BA%E7%94%9F%E5%9B%BE%23" target="weibo">
 边伯贤机场生图（热度：151351）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B0%E8%B7%AF%E6%97%B6%E8%86%9D%E7%9B%96%E7%AA%81%E7%84%B6%E8%BD%AF%E4%B8%80%E4%B8%8B%E5%92%8B%E5%9B%9E%E4%BA%8B%23" target="weibo">
-走路时膝盖突然软一下咋回事（热度：150984）
 </a>
 </li>
 
@@ -11489,12 +11531,6 @@ NBA（热度：136984）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%E9%A6%96%E9%83%A8%E7%94%B5%E5%BD%B1%E7%94%B7%E4%B8%BB%23" target="weibo">
 黄明昊首部电影男主（热度：135396）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E7%99%8C%E4%B8%9C%E4%B8%9C%E5%8E%BB%E4%B8%96%23" target="weibo">
-抗癌东东去世（热度：135379）
 </a>
 </li>
 
@@ -12969,6 +13005,12 @@ MSI抽签（热度：102267）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B9%E6%97%B6%E8%B5%AB%E6%B2%A1%E5%92%8CNewJeans%E5%90%88%E8%BF%87%E5%BD%B1%23" target="weibo">
+方时赫没和NewJeans合过影（热度：101505）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8BV%E6%88%9150%23" target="weibo">
 凯迪拉克V我50（热度：101388）
 </a>
@@ -13029,12 +13071,6 @@ BLG战胜TES（热度：99490）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23gidle%E5%BE%A1%E7%94%A8%E5%8C%96%E5%A6%86%E5%B8%88%E7%9A%84%E4%B8%8A%E5%A6%86%E6%89%8B%E6%B3%95%23" target="weibo">
-gidle御用化妆师的上妆手法（热度：98749）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%99%BD%E9%A2%86%E5%9C%A8%E5%B0%8F%E8%BD%BF%E8%BD%A6%E9%87%8C%E4%BD%8F7%E4%B8%AA%E6%9C%88%23" target="weibo">
 北京白领在小轿车里住7个月（热度：98713）
 </a>
@@ -13073,6 +13109,12 @@ gidle御用化妆师的上妆手法（热度：98749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BC%E5%9F%8E%E5%A4%A7%E8%83%9C%E5%B8%83%E8%8E%B1%E9%A1%BF%23" target="weibo">
 曼城大胜布莱顿（热度：96797）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%BD%E6%B3%BD%E9%A5%AD%E9%A5%AD%20%E6%96%AD%E5%B4%96%E5%BC%8F%E5%88%86%E6%89%8B%23" target="weibo">
+泽泽饭饭 断崖式分手（热度：96069）
 </a>
 </li>
 
@@ -13145,6 +13187,12 @@ iPhone16和Plus或有15项改进（热度：87539）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E7%9A%84%E8%82%A4%E8%89%B2%23" target="weibo">
 张予曦的肤色（热度：87518）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BB%BC%E5%90%88%E6%89%A7%E6%B3%95%E9%98%9F%E9%9B%B7%E6%9F%90%E5%96%9D%E9%85%92%E6%89%93%E4%BA%BA%23" target="weibo">
+官方通报综合执法队雷某喝酒打人（热度：86209）
 </a>
 </li>
 
