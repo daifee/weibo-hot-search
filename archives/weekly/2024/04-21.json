@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714101615138,
+  "endTime": 1714102459995,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -763,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1190385,
+      "num": 1190385,
+      "word": "欧豪撩赵昭仪",
+      "onboard_time": 1714100658,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1190232,
       "num": 295403,
       "word": "姐帮忙催一下不良人7",
@@ -929,6 +937,14 @@
       "onboard_time": 1713785117,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1106657,
+      "num": 1106657,
+      "word": "张翰 佛山电翰",
+      "onboard_time": 1714099698,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1102801,
@@ -1675,14 +1691,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 784325,
-      "num": 784325,
-      "word": "张翰 佛山电翰",
-      "onboard_time": 1714099698,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 782626,
       "num": 782626,
       "word": "泰版步步惊心",
@@ -1705,14 +1713,6 @@
       "onboard_time": 1713974117,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 776314,
-      "num": 776314,
-      "word": "欧豪撩赵昭仪",
-      "onboard_time": 1714100658,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 774305,
@@ -3179,6 +3179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 517765,
+      "num": 432182,
+      "word": "综艺史上第一次这么多人同睡",
+      "onboard_time": 1714101018,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 515449,
       "num": 515449,
       "word": "台湾4.9级左右地震",
@@ -4283,6 +4291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408558,
+      "num": 408558,
+      "word": "原来调休的反义词是搭桥",
+      "onboard_time": 1714100298,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 406589,
       "num": 406589,
       "word": "特斯拉市值一夜大涨4028亿",
@@ -4401,6 +4417,14 @@
       "onboard_time": 1713952998,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397221,
+      "num": 248360,
+      "word": "林更新让粉丝别管",
+      "onboard_time": 1714101499,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 396254,
@@ -5025,14 +5049,6 @@
       "onboard_time": 1713769098,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 345813,
-      "num": 345813,
-      "word": "原来调休的反义词是搭桥",
-      "onboard_time": 1714100298,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 344946,
@@ -6147,6 +6163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 277004,
+      "num": 277004,
+      "word": "华为高级工程师回应AI消除衣物争议",
+      "onboard_time": 1714099637,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 276800,
       "num": 276800,
       "word": "李现 今天雇的人多一点是吧",
@@ -6587,20 +6611,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 260054,
+      "num": 247608,
+      "word": "水果中的抗炎高手",
+      "onboard_time": 1714100298,
+      "rank": 28,
+      "category": "美食,科学科普"
+    },
+    {
       "raw_hot": 259717,
       "num": 259717,
       "word": "失业后才懂得拒绝进厨房是一种权力",
       "onboard_time": 1713778098,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 259399,
-      "num": 259399,
-      "word": "综艺史上第一次这么多人同睡",
-      "onboard_time": 1714101018,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 259372,
@@ -6851,6 +6875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249229,
+      "num": 249229,
+      "word": "短发hanni",
+      "onboard_time": 1714101738,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248450,
       "num": 248450,
       "word": "HYBE市值蒸发8400亿韩元",
@@ -6905,6 +6937,14 @@
       "onboard_time": 1713882739,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247174,
+      "num": 247174,
+      "word": "困在二本线的艺考生",
+      "onboard_time": 1714101199,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 247028,
@@ -6969,14 +7009,6 @@
       "onboard_time": 1713759200,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245373,
-      "num": 245373,
-      "word": "华为高级工程师回应AI消除衣物争议",
-      "onboard_time": 1714099637,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 245119,
@@ -7371,6 +7403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233418,
+      "num": 233418,
+      "word": "河北一学校被曝学生就读4年无学籍",
+      "onboard_time": 1714101078,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 233381,
       "num": 233381,
       "word": "广东通报少女疑遭性侵怀孕",
@@ -7393,6 +7433,14 @@
       "onboard_time": 1714017558,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 232888,
+      "num": 232888,
+      "word": "NewJeans回归新专配置",
+      "onboard_time": 1714101858,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 232720,
@@ -8443,6 +8491,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 206607,
+      "num": 206607,
+      "word": "minji预告照",
+      "onboard_time": 1714100897,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 206588,
       "num": 141256,
       "word": "十个洗头的坏习惯",
@@ -9483,14 +9539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193358,
-      "num": 193358,
-      "word": "minji预告照",
-      "onboard_time": 1714100897,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 193297,
       "num": 194614,
       "word": "白敬亭地垄沟发型",
@@ -9723,14 +9771,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 190563,
-      "num": 190563,
-      "word": "水果中的抗炎高手",
-      "onboard_time": 1714100298,
-      "rank": 28,
-      "category": "美食,科学科普"
-    },
-    {
       "raw_hot": 190549,
       "num": 190549,
       "word": "樱桃用盐水泡会有小虫钻出来",
@@ -9753,6 +9793,14 @@
       "onboard_time": 1713856397,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190424,
+      "num": 182420,
+      "word": "湖人内部对浓眉言论失望",
+      "onboard_time": 1714100539,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 190423,
@@ -9817,6 +9865,14 @@
       "onboard_time": 1713967039,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189536,
+      "num": 181893,
+      "word": "美团崩了",
+      "onboard_time": 1714101378,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 189480,
@@ -10563,14 +10619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178643,
-      "num": 178643,
-      "word": "林更新让粉丝别管",
-      "onboard_time": 1714101499,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178588,
       "num": 178588,
       "word": "理想全线产品降价",
@@ -11195,14 +11243,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 167120,
-      "num": 167120,
-      "word": "湖人内部对浓眉言论失望",
-      "onboard_time": 1714100539,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 167102,
       "num": 167102,
       "word": "王一博无袖练拳",
@@ -11361,14 +11401,6 @@
       "onboard_time": 1714048697,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164576,
-      "num": 164576,
-      "word": "困在二本线的艺考生",
-      "onboard_time": 1714101199,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 164376,
@@ -11633,14 +11665,6 @@
       "onboard_time": 1713681258,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 161515,
-      "num": 161515,
-      "word": "河北一学校被曝学生就读4年无学籍",
-      "onboard_time": 1714101078,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 161497,
@@ -13651,14 +13675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133213,
-      "num": 133213,
-      "word": "美团崩了",
-      "onboard_time": 1714101378,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 133037,
       "num": 133037,
       "word": "高校床帘是卫生问题还是安全问题",
@@ -14009,6 +14025,14 @@
       "onboard_time": 1713882799,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127827,
+      "num": 127827,
+      "word": "五一机票酒店都在咬牙降价",
+      "onboard_time": 1714102218,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127797,
@@ -15260,7 +15284,7 @@
     },
     {
       "raw_hot": 100562,
-      "num": 329768,
+      "num": 339853,
       "word": "喜茶竟然和飞猪搞起了旅游",
       "onboard_time": 1714100419,
       "rank": 14,
@@ -16545,6 +16569,14 @@
       "onboard_time": 1713813192,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20665,
+      "num": 151849,
+      "word": "为什么明星能扛住高清镜头",
+      "onboard_time": 1714101678,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 19747,
