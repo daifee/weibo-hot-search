@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714169943113,
+  "endTime": 1714170906686,
   "band_list": [
     {
       "raw_hot": 1356945,
@@ -171,6 +171,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 235926,
+      "num": 122799,
+      "word": "女生晒八年级妹妹价值888元点阵笔",
+      "onboard_time": 1714153094,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232237,
       "num": 232237,
       "word": "台湾花莲附近发生4.6级左右地震",
@@ -219,11 +227,11 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 190504,
-      "num": 107246,
-      "word": "女生晒八年级妹妹价值888元点阵笔",
-      "onboard_time": 1714153094,
-      "rank": 15,
+      "raw_hot": 185620,
+      "num": 185620,
+      "word": "没有编制教师岗还有吸引力吗",
+      "onboard_time": 1714168511,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -243,12 +251,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159251,
+      "num": 63432,
+      "word": "为什么睡醒后总是疲惫",
+      "onboard_time": 1714166590,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 157655,
       "num": 157655,
       "word": "癌症晚期倾家荡产吃药延长生命值得吗",
       "onboard_time": 1714138398,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 149214,
+      "num": 149214,
+      "word": "刘琳演技 此处无声却震耳欲聋",
+      "onboard_time": 1714153992,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 148705,
@@ -299,20 +323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118488,
-      "num": 50761,
-      "word": "为什么睡醒后总是疲惫",
-      "onboard_time": 1714166590,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 117828,
-      "num": 117828,
-      "word": "刘琳演技 此处无声却震耳欲聋",
-      "onboard_time": 1714153992,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 111749,
+      "num": 111749,
+      "word": "发明邓超的人真是个天才",
+      "onboard_time": 1714157532,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 111324,
@@ -411,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93639,
-      "num": 93639,
-      "word": "发明邓超的人真是个天才",
-      "onboard_time": 1714157532,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 92833,
       "num": 92833,
       "word": "李嘉格 淘汰",
@@ -475,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66432,
-      "num": 66432,
-      "word": "没有编制教师岗还有吸引力吗",
-      "onboard_time": 1714168511,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59678,
       "num": 59678,
       "word": "Mpop",
@@ -499,12 +499,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 32865,
-      "num": 32865,
+      "raw_hot": 39552,
+      "num": 39552,
       "word": "南方媳妇到山东吃席400块17个菜",
       "onboard_time": 1714165871,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 33947,
+      "num": 33947,
+      "word": "徐冬冬尹子维影子吻",
+      "onboard_time": 1714162931,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 33028,
+      "num": 33028,
+      "word": "向佐回应黄子韬替他退圈",
+      "onboard_time": 1714170012,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 32729,
@@ -531,12 +547,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 28853,
-      "num": 28853,
-      "word": "徐冬冬尹子维影子吻",
-      "onboard_time": 1714162931,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 27412,
+      "num": 27412,
+      "word": "多久不吃才算空腹",
+      "onboard_time": 1714167672,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 26876,
@@ -563,36 +579,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23074,
-      "num": 23074,
-      "word": "多久不吃才算空腹",
-      "onboard_time": 1714167672,
-      "rank": 40,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 21742,
-      "num": 21742,
-      "word": "美国各高校抗议以色列对加沙的战争",
-      "onboard_time": 1714164550,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 21078,
-      "num": 21078,
+      "raw_hot": 24309,
+      "num": 27375,
       "word": "叫人搬家来了个六十多岁的大爷",
       "onboard_time": 1714168812,
       "rank": 45,
       "category": "情感"
     },
     {
-      "raw_hot": 18081,
-      "num": 36201,
+      "raw_hot": 22694,
+      "num": 38924,
       "word": "普京称计划5月访华",
       "onboard_time": 1714161611,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 22120,
+      "num": 27366,
+      "word": "美国各高校抗议以色列对加沙的战争",
+      "onboard_time": 1714164550,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 21956,
+      "num": 27347,
+      "word": "朱一龙担任北影节天坛奖评委",
+      "onboard_time": 1714170613,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 3763,
