@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714142052582,
+  "endTime": 1714144768143,
   "band_list": [
     {
       "raw_hot": 2869467,
@@ -9,6 +9,14 @@
       "onboard_time": 1714095318,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2154391,
+      "num": 2154391,
+      "word": "芒果又押错宝了吗",
+      "onboard_time": 1714140920,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 2125519,
@@ -107,14 +115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1090593,
-      "num": 1090593,
-      "word": "芒果又押错宝了吗",
-      "onboard_time": 1714140920,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1062524,
       "num": 1062524,
       "word": "中国女留学生澳大利亚失联在泰国被找到",
@@ -137,6 +137,14 @@
       "onboard_time": 1714090337,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 971206,
+      "num": 971206,
+      "word": "跑男收视率",
+      "onboard_time": 1714140619,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 959824,
@@ -331,19 +339,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 746709,
+      "num": 300492,
+      "word": "辅警杀害新婚妻子被判死缓",
+      "onboard_time": 1714141460,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 741859,
       "num": 409892,
       "word": "原来戚薇是方文山徒弟",
       "onboard_time": 1714124299,
       "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 733404,
-      "num": 733404,
-      "word": "跑男收视率",
-      "onboard_time": 1714140619,
-      "rank": 23,
       "category": "综艺"
     },
     {
@@ -432,6 +440,14 @@
       "word": "乘风2024首场公演",
       "onboard_time": 1714104138,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 633007,
+      "num": 633007,
+      "word": "奔跑吧P安全带",
+      "onboard_time": 1714142000,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -603,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514660,
+      "num": 514660,
+      "word": "61岁老人接孙女放学掉进下水道被冲走",
+      "onboard_time": 1714141099,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509492,
       "num": 509492,
       "word": "ZICO和Jennie合作曲",
@@ -643,12 +667,28 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 487567,
+      "num": 487567,
+      "word": "杨紫工作室发文告别麦承欢",
+      "onboard_time": 1714140260,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 486416,
       "num": 486416,
       "word": "世界杯决胜局争议球全纪录",
       "onboard_time": 1714133296,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 486089,
+      "num": 362986,
+      "word": "赵小童 三号房爬进一只小龙虾",
+      "onboard_time": 1714143079,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 482111,
@@ -947,14 +987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 335985,
-      "num": 335985,
-      "word": "杨紫工作室发文告别麦承欢",
-      "onboard_time": 1714140260,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 332976,
       "num": 332976,
       "word": "王毅同布林肯举行会谈",
@@ -1051,14 +1083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300492,
-      "num": 300492,
-      "word": "辅警杀害新婚妻子被判死缓",
-      "onboard_time": 1714141460,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293473,
       "num": 293473,
       "word": "金昭喜结婚",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1714059497,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 290373,
+      "num": 290373,
+      "word": "偶像梦幻祭新团",
+      "onboard_time": 1714143200,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 289997,
@@ -1113,6 +1145,14 @@
       "onboard_time": 1714108040,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275727,
+      "num": 275727,
+      "word": "刘敏涛获白玉兰戏剧奖",
+      "onboard_time": 1714141460,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 270973,
@@ -1163,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255485,
+      "num": 255485,
+      "word": "陈昊宇陈丽君长得好像",
+      "onboard_time": 1714142959,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253579,
       "num": 272500,
       "word": "黄仁俊 这就是我",
@@ -1201,6 +1249,14 @@
       "onboard_time": 1714056679,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 247865,
+      "num": 247865,
+      "word": "HYBE否认不宣传newjeans",
+      "onboard_time": 1714130119,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 247174,
@@ -1451,28 +1507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220953,
-      "num": 220953,
-      "word": "HYBE否认不宣传newjeans",
-      "onboard_time": 1714130119,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220797,
       "num": 206729,
       "word": "米饭勺上的小颗粒是干什么用的",
       "onboard_time": 1714089317,
       "rank": 23,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 218175,
-      "num": 218175,
-      "word": "刘敏涛获白玉兰戏剧奖",
-      "onboard_time": 1714141460,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 215157,
@@ -1539,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204749,
+      "num": 204749,
+      "word": "张靓颖一口气唱21首电影金曲",
+      "onboard_time": 1714143620,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204552,
       "num": 204552,
       "word": "面试二十分钟效应",
@@ -1593,6 +1641,14 @@
       "onboard_time": 1714128078,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200483,
+      "num": 200483,
+      "word": "薛之谦镇江",
+      "onboard_time": 1714143680,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 199768,
@@ -1745,14 +1801,6 @@
       "onboard_time": 1714140139,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191912,
-      "num": 191912,
-      "word": "61岁老人接孙女放学掉进下水道被冲走",
-      "onboard_time": 1714141099,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191624,
@@ -2035,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178853,
+      "num": 178853,
+      "word": "胡先煦 姜文站哥",
+      "onboard_time": 1714142480,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178762,
       "num": 178762,
       "word": "黄子弘凡是会分身吗",
@@ -2081,6 +2137,14 @@
       "onboard_time": 1714110619,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174284,
+      "num": 174284,
+      "word": "猫 就宠你这一回吧",
+      "onboard_time": 1714143499,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 173449,
@@ -2137,6 +2201,14 @@
       "onboard_time": 1714138818,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168544,
+      "num": 160216,
+      "word": "李现哭戏",
+      "onboard_time": 1714143499,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 167552,
@@ -2225,6 +2297,14 @@
       "onboard_time": 1714058659,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 157991,
+      "num": 157991,
+      "word": "郑钦文因伤退赛",
+      "onboard_time": 1714143259,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 157827,
@@ -2329,6 +2409,14 @@
       "onboard_time": 1714131198,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150984,
+      "num": 150984,
+      "word": "走路时膝盖突然软一下咋回事",
+      "onboard_time": 1714143499,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 150847,
@@ -2521,14 +2609,6 @@
       "onboard_time": 1714117879,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 138014,
-      "num": 138014,
-      "word": "奔跑吧P安全带",
-      "onboard_time": 1714142000,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 137639,
