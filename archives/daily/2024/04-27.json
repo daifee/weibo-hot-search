@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714155761056,
+  "endTime": 1714156515391,
   "band_list": [
     {
       "raw_hot": 1356945,
@@ -219,6 +219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 171200,
+      "num": 112478,
+      "word": "台湾花莲附近发生4.6级左右地震",
+      "onboard_time": 1714155852,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165954,
       "num": 165954,
       "word": "李溪芮女团范儿",
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118521,
+      "num": 107246,
+      "word": "女生晒八年级妹妹价值888元点阵笔",
+      "onboard_time": 1714153094,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111324,
       "num": 111324,
       "word": "为什么职场人喜欢戴智能手表",
@@ -321,6 +337,14 @@
       "onboard_time": 1714143499,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106791,
+      "num": 106791,
+      "word": "刘琳演技 此处无声却震耳欲聋",
+      "onboard_time": 1714153992,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 103796,
@@ -379,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93430,
-      "num": 93430,
-      "word": "女生晒八年级妹妹价值888元点阵笔",
-      "onboard_time": 1714153094,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92833,
       "num": 92833,
       "word": "李嘉格 淘汰",
@@ -409,14 +425,6 @@
       "onboard_time": 1714146498,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85990,
-      "num": 85990,
-      "word": "刘琳演技 此处无声却震耳欲聋",
-      "onboard_time": 1714153992,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 85894,
@@ -459,12 +467,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 45519,
-      "num": 48251,
+      "raw_hot": 51469,
+      "num": 51469,
       "word": "睡不着就吃天然的褪黑素",
       "onboard_time": 1714154833,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 32729,
+      "num": 32729,
+      "word": "乘风赛点秀",
+      "onboard_time": 1714156153,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 31373,
