@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714119737860,
+  "endTime": 1714120526302,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -740,7 +740,7 @@
     },
     {
       "raw_hot": 1235920,
-      "num": 247710,
+      "num": 250132,
       "word": "常用乳贴会导致乳房下垂吗",
       "onboard_time": 1714110678,
       "rank": 20,
@@ -2020,7 +2020,7 @@
     },
     {
       "raw_hot": 715320,
-      "num": 246441,
+      "num": 248712,
       "word": "女性最佳绝经期",
       "onboard_time": 1714113259,
       "rank": 39,
@@ -2268,7 +2268,7 @@
     },
     {
       "raw_hot": 677379,
-      "num": 245989,
+      "num": 249771,
       "word": "孩子丢出25.7g金手镯男子捡走当玩具",
       "onboard_time": 1714111279,
       "rank": 23,
@@ -2529,6 +2529,14 @@
       "onboard_time": 1713943338,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629171,
+      "num": 629171,
+      "word": "李彩桦去拍短剧了",
+      "onboard_time": 1714118179,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 627573,
@@ -4163,14 +4171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 441628,
-      "num": 320415,
-      "word": "李彩桦去拍短剧了",
-      "onboard_time": 1714118179,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 440819,
       "num": 264398,
       "word": "运动瘦了45斤后变化有多大",
@@ -5267,6 +5267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 347055,
+      "num": 347055,
+      "word": "布林肯",
+      "onboard_time": 1713946098,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 346977,
       "num": 346977,
       "word": "徐波",
@@ -5329,6 +5337,22 @@
       "onboard_time": 1713667938,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343013,
+      "num": 343013,
+      "word": "汪苏泷别再唱如果了",
+      "onboard_time": 1714117157,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 341896,
+      "num": 288402,
+      "word": "林更新鄙人95公斤",
+      "onboard_time": 1714118538,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 341447,
@@ -5929,14 +5953,6 @@
       "onboard_time": 1714030579,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 301143,
-      "num": 301143,
-      "word": "汪苏泷别再唱如果了",
-      "onboard_time": 1714117157,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 300843,
@@ -6659,14 +6675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267711,
-      "num": 251443,
-      "word": "林更新鄙人95公斤",
-      "onboard_time": 1714118538,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 267428,
       "num": 267428,
       "word": "蛋仔派对回应限制老年人注册",
@@ -6996,7 +7004,7 @@
     },
     {
       "raw_hot": 255543,
-      "num": 183758,
+      "num": 205029,
       "word": "奔跑吧提更",
       "onboard_time": 1714116558,
       "rank": 34,
@@ -7179,6 +7187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 250333,
+      "num": 250333,
+      "word": "中国证监会科技监管司司长姚前被查",
+      "onboard_time": 1714118719,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250305,
       "num": 250305,
       "word": "丧偶式婚姻真的会让人崩溃",
@@ -7297,14 +7313,6 @@
       "onboard_time": 1713876257,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245974,
-      "num": 182776,
-      "word": "布林肯",
-      "onboard_time": 1713946098,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 245536,
@@ -7675,6 +7683,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 234577,
+      "num": 234577,
+      "word": "babymonster表情管理",
+      "onboard_time": 1714118358,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 234546,
       "num": 163114,
       "word": "杨幂白衬衫牛仔裤",
@@ -7956,7 +7972,7 @@
     },
     {
       "raw_hot": 228307,
-      "num": 381030,
+      "num": 391985,
       "word": "中职生用10年逆袭研究生",
       "onboard_time": 1714115599,
       "rank": 14,
@@ -8393,14 +8409,6 @@
       "onboard_time": 1713746179,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 217224,
-      "num": 182189,
-      "word": "babymonster表情管理",
-      "onboard_time": 1714118358,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 216020,
@@ -9484,7 +9492,7 @@
     },
     {
       "raw_hot": 199409,
-      "num": 181377,
+      "num": 192095,
       "word": "贺峻霖北影节主持",
       "onboard_time": 1714119319,
       "rank": 28,
@@ -10675,6 +10683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185707,
+      "num": 185707,
+      "word": "北京国际电影节",
+      "onboard_time": 1714119977,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185691,
       "num": 185691,
       "word": "广东事业编",
@@ -10785,14 +10801,6 @@
       "onboard_time": 1713714321,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184363,
-      "num": 184363,
-      "word": "中国证监会科技监管司司长姚前被查",
-      "onboard_time": 1714118719,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184306,
@@ -13259,6 +13267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147398,
+      "num": 134305,
+      "word": "刘琳哭商好高",
+      "onboard_time": 1714120277,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147198,
       "num": 290192,
       "word": "岚图和华为官宣合作车型",
@@ -13947,6 +13963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138358,
+      "num": 138358,
+      "word": "原神 知妙",
+      "onboard_time": 1714117879,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138232,
       "num": 138232,
       "word": "特斯拉毁约应届生多家企业HR在线抢人",
@@ -14089,14 +14113,6 @@
       "onboard_time": 1713651311,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136905,
-      "num": 136905,
-      "word": "原神 知妙",
-      "onboard_time": 1714117879,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 136856,
@@ -15211,6 +15227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121603,
+      "num": 121603,
+      "word": "我的阿勒泰镜头",
+      "onboard_time": 1714120398,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121413,
       "num": 121413,
       "word": "悬疑剧取景地不用只在东北了",
@@ -15355,8 +15379,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118697,
-      "num": 118697,
+      "raw_hot": 118915,
+      "num": 118915,
       "word": "圣斗士星矢cos",
       "onboard_time": 1714119139,
       "rank": 47,
@@ -15369,6 +15393,14 @@
       "onboard_time": 1713751457,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 118465,
+      "num": 118465,
+      "word": "小巷人家首发预告",
+      "onboard_time": 1714120158,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 118320,
@@ -16072,6 +16104,14 @@
       "word": "喜茶竟然和飞猪搞起了旅游",
       "onboard_time": 1714100419,
       "rank": 14,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 100346,
+      "num": 117364,
+      "word": "德克士 深大乒超俱乐部",
+      "onboard_time": 1714120459,
+      "rank": 49,
       "category": "美食"
     },
     {

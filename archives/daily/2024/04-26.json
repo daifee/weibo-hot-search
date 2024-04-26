@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714119737860,
+  "endTime": 1714120526302,
   "band_list": [
     {
       "raw_hot": 2869467,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1235920,
-      "num": 247710,
+      "num": 250132,
       "word": "常用乳贴会导致乳房下垂吗",
       "onboard_time": 1714110678,
       "rank": 20,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 715320,
-      "num": 246441,
+      "num": 248712,
       "word": "女性最佳绝经期",
       "onboard_time": 1714113259,
       "rank": 39,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 677379,
-      "num": 245989,
+      "num": 249771,
       "word": "孩子丢出25.7g金手镯男子捡走当玩具",
       "onboard_time": 1714111279,
       "rank": 23,
@@ -289,6 +289,14 @@
       "onboard_time": 1714104138,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 629171,
+      "num": 629171,
+      "word": "李彩桦去拍短剧了",
+      "onboard_time": 1714118179,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 626434,
@@ -459,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 441628,
-      "num": 320415,
-      "word": "李彩桦去拍短剧了",
-      "onboard_time": 1714118179,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 431385,
       "num": 431385,
       "word": "终于明白旱的旱死涝的涝死",
@@ -555,12 +555,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347055,
+      "num": 347055,
+      "word": "布林肯",
+      "onboard_time": 1714118899,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 344621,
       "num": 289813,
       "word": "水果中的抗炎高手",
       "onboard_time": 1714100298,
       "rank": 28,
       "category": "美食,科学科普"
+    },
+    {
+      "raw_hot": 343013,
+      "num": 343013,
+      "word": "汪苏泷别再唱如果了",
+      "onboard_time": 1714117157,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 341896,
+      "num": 288402,
+      "word": "林更新鄙人95公斤",
+      "onboard_time": 1714118538,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 340525,
@@ -667,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301143,
-      "num": 301143,
-      "word": "汪苏泷别再唱如果了",
-      "onboard_time": 1714117157,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 293473,
       "num": 293473,
       "word": "金昭喜结婚",
@@ -755,14 +771,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 267711,
-      "num": 251443,
-      "word": "林更新鄙人95公斤",
-      "onboard_time": 1714118538,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 262565,
       "num": 262565,
       "word": "顾昀迟",
@@ -780,7 +788,7 @@
     },
     {
       "raw_hot": 255543,
-      "num": 183758,
+      "num": 205029,
       "word": "奔跑吧提更",
       "onboard_time": 1714116558,
       "rank": 34,
@@ -811,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250333,
+      "num": 250333,
+      "word": "中国证监会科技监管司司长姚前被查",
+      "onboard_time": 1714118719,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249152,
       "num": 195957,
       "word": "第一次真正认识聚酯纤维",
@@ -825,14 +841,6 @@
       "onboard_time": 1714101199,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 245974,
-      "num": 182776,
-      "word": "布林肯",
-      "onboard_time": 1714118899,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 244781,
@@ -873,6 +881,14 @@
       "onboard_time": 1714051997,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 234577,
+      "num": 234577,
+      "word": "babymonster表情管理",
+      "onboard_time": 1714118358,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 234439,
@@ -940,7 +956,7 @@
     },
     {
       "raw_hot": 228307,
-      "num": 381030,
+      "num": 391985,
       "word": "中职生用10年逆袭研究生",
       "onboard_time": 1714115599,
       "rank": 14,
@@ -969,14 +985,6 @@
       "onboard_time": 1714089317,
       "rank": 23,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 217224,
-      "num": 182189,
-      "word": "babymonster表情管理",
-      "onboard_time": 1714118358,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 215157,
@@ -1060,7 +1068,7 @@
     },
     {
       "raw_hot": 199409,
-      "num": 181377,
+      "num": 192095,
       "word": "贺峻霖北影节主持",
       "onboard_time": 1714119319,
       "rank": 28,
@@ -1219,6 +1227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185707,
+      "num": 185707,
+      "word": "北京国际电影节",
+      "onboard_time": 1714119977,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185559,
       "num": 295571,
       "word": "被女排130大长腿震惊到",
@@ -1233,14 +1249,6 @@
       "onboard_time": 1714113917,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 184363,
-      "num": 184363,
-      "word": "中国证监会科技监管司司长姚前被查",
-      "onboard_time": 1714118719,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183397,
@@ -1507,6 +1515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 147398,
+      "num": 134305,
+      "word": "刘琳哭商好高",
+      "onboard_time": 1714120277,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146695,
       "num": 133339,
       "word": "张佳宁魏哲鸣吻戏",
@@ -1555,20 +1571,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 138358,
+      "num": 138358,
+      "word": "原神 知妙",
+      "onboard_time": 1714117879,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137639,
       "num": 137639,
       "word": "为什么总想睡个回笼觉",
       "onboard_time": 1714092319,
       "rank": 38,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 136905,
-      "num": 136905,
-      "word": "原神 知妙",
-      "onboard_time": 1714117879,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 136571,
@@ -1747,6 +1763,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 121603,
+      "num": 121603,
+      "word": "我的阿勒泰镜头",
+      "onboard_time": 1714120398,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120551,
       "num": 120551,
       "word": "她花16年造个750亩大花园",
@@ -1771,12 +1795,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118697,
-      "num": 118697,
+      "raw_hot": 118915,
+      "num": 118915,
       "word": "圣斗士星矢cos",
       "onboard_time": 1714119139,
       "rank": 47,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 118465,
+      "num": 118465,
+      "word": "小巷人家首发预告",
+      "onboard_time": 1714120158,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 118320,
@@ -1865,6 +1897,14 @@
       "onboard_time": 1714057638,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100346,
+      "num": 117364,
+      "word": "德克士 深大乒超俱乐部",
+      "onboard_time": 1714120459,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 98880,
