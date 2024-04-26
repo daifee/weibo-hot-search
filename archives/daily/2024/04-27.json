@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714173494979,
+  "endTime": 1714174481407,
   "band_list": [
     {
       "raw_hot": 1356945,
@@ -9,6 +9,14 @@
       "onboard_time": 1714140920,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 760235,
+      "num": 760235,
+      "word": "没有编制教师岗还有吸引力吗",
+      "onboard_time": 1714168511,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 729645,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 664700,
-      "num": 536474,
+      "num": 594237,
       "word": "辅警杀害新婚妻子被判死缓",
       "onboard_time": 1714141460,
       "rank": 4,
@@ -33,14 +41,6 @@
       "onboard_time": 1714140619,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 605647,
-      "num": 605647,
-      "word": "没有编制教师岗还有吸引力吗",
-      "onboard_time": 1714168511,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 566961,
@@ -67,8 +67,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 421534,
-      "num": 421534,
+      "raw_hot": 446982,
+      "num": 446982,
       "word": "女生晒八年级妹妹价值888元点阵笔",
       "onboard_time": 1714153094,
       "rank": 15,
@@ -139,12 +139,36 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 307905,
+      "num": 307905,
+      "word": "刘琳演技 此处无声却震耳欲聋",
+      "onboard_time": 1714153992,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 295521,
+      "num": 295521,
+      "word": "工作三年和读研三年到底哪个更值",
+      "onboard_time": 1714150335,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 292117,
       "num": 292117,
       "word": "辛芷蕾拿了白玉兰戏剧奖",
       "onboard_time": 1714137499,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280798,
+      "num": 280798,
+      "word": "发明邓超的人真是个天才",
+      "onboard_time": 1714157532,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 280018,
@@ -163,28 +187,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 272037,
-      "num": 272037,
-      "word": "刘琳演技 此处无声却震耳欲聋",
-      "onboard_time": 1714153992,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 258778,
-      "num": 258778,
-      "word": "工作三年和读研三年到底哪个更值",
-      "onboard_time": 1714150335,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 255972,
       "num": 255972,
       "word": "HYBE否认不宣传newjeans",
       "onboard_time": 1714130119,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252305,
+      "num": 252305,
+      "word": "台湾花莲海域凌晨再发3次地震",
+      "onboard_time": 1714173315,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248940,
@@ -201,14 +217,6 @@
       "onboard_time": 1714155852,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226156,
-      "num": 226156,
-      "word": "发明邓超的人真是个天才",
-      "onboard_time": 1714157532,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 223574,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 177320,
-      "num": 96280,
+      "num": 125883,
       "word": "为什么睡醒后总是疲惫",
       "onboard_time": 1714166590,
       "rank": 31,
@@ -275,20 +283,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164802,
+      "num": 164802,
+      "word": "泽泽饭饭 断崖式分手",
+      "onboard_time": 1714148418,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 157655,
       "num": 157655,
       "word": "癌症晚期倾家荡产吃药延长生命值得吗",
       "onboard_time": 1714138398,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 148705,
-      "num": 148705,
-      "word": "泽泽饭饭 断崖式分手",
-      "onboard_time": 1714148418,
-      "rank": 43,
-      "category": "网红"
     },
     {
       "raw_hot": 146954,
@@ -323,12 +331,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 127153,
-      "num": 127153,
-      "word": "台湾花莲海域凌晨再发3次地震",
-      "onboard_time": 1714173315,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 128421,
+      "num": 128421,
+      "word": "NewJeans新MV",
+      "onboard_time": 1714173736,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 122941,
@@ -353,6 +361,14 @@
       "onboard_time": 1714124119,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110391,
+      "num": 110391,
+      "word": "618淘宝京东均取消预售机制",
+      "onboard_time": 1714172653,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 109887,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 103442,
-      "num": 94040,
+      "num": 102204,
       "word": "70后女子坚持跑步9年重返20岁",
       "onboard_time": 1714147098,
       "rank": 45,
@@ -408,6 +424,14 @@
       "word": "方时赫没和NewJeans合过影",
       "onboard_time": 1714146439,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100336,
+      "num": 100336,
+      "word": "日常见肖战",
+      "onboard_time": 1714174396,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -443,11 +467,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92895,
+      "num": 84174,
+      "word": "误以为很增肥实际巨减脂的食物",
+      "onboard_time": 1714174336,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 92833,
       "num": 92833,
       "word": "李嘉格 淘汰",
       "onboard_time": 1714123098,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 90121,
+      "num": 90121,
+      "word": "下地干活的头巾突然火成甜妹标配",
+      "onboard_time": 1714171633,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 88984,
+      "num": 88984,
+      "word": "赵奕欢 三公淘汰",
+      "onboard_time": 1714134019,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -475,6 +523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 82263,
+      "num": 82263,
+      "word": "睡不着就吃天然的褪黑素",
+      "onboard_time": 1714154833,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 81158,
       "num": 81158,
       "word": "厦门教师招聘疑因取消编制无人报考",
@@ -499,36 +555,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78563,
-      "num": 78563,
-      "word": "下地干活的头巾突然火成甜妹标配",
-      "onboard_time": 1714171633,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 72501,
-      "num": 72501,
-      "word": "睡不着就吃天然的褪黑素",
-      "onboard_time": 1714154833,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 62076,
-      "num": 62076,
-      "word": "618淘宝京东均取消预售机制",
-      "onboard_time": 1714172653,
-      "rank": 32,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 61807,
-      "num": 61807,
+      "raw_hot": 69581,
+      "num": 69581,
       "word": "徐冬冬尹子维影子吻",
       "onboard_time": 1714162931,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69138,
+      "num": 69138,
+      "word": "苹果加紧与OpenAI谈判",
+      "onboard_time": 1714172954,
+      "rank": 38,
+      "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 62489,
+      "num": 62489,
+      "word": "厦门震感",
+      "onboard_time": 1714173555,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59678,
@@ -539,24 +587,24 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 54671,
-      "num": 54671,
+      "raw_hot": 59614,
+      "num": 59614,
       "word": "南方媳妇到山东吃席400块17个菜",
       "onboard_time": 1714165871,
       "rank": 46,
       "category": "美食"
     },
     {
-      "raw_hot": 51508,
-      "num": 51508,
-      "word": "苹果加紧与OpenAI谈判",
-      "onboard_time": 1714172954,
-      "rank": 38,
-      "category": "数码,互联网"
+      "raw_hot": 56959,
+      "num": 56959,
+      "word": "皇家社会0比1皇马",
+      "onboard_time": 1714173614,
+      "rank": 43,
+      "category": "体育"
     },
     {
-      "raw_hot": 44034,
-      "num": 44034,
+      "raw_hot": 52746,
+      "num": 52746,
       "word": "叫人搬家来了个六十多岁的大爷",
       "onboard_time": 1714168812,
       "rank": 45,
@@ -569,6 +617,14 @@
       "onboard_time": 1714170613,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 37029,
+      "num": 84451,
+      "word": "普京称计划5月访华",
+      "onboard_time": 1714161611,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 32729,
@@ -585,14 +641,6 @@
       "onboard_time": 1714155192,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 30322,
-      "num": 68404,
-      "word": "普京称计划5月访华",
-      "onboard_time": 1714161611,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 30161,
@@ -644,7 +692,7 @@
     },
     {
       "raw_hot": 3763,
-      "num": 548464,
+      "num": 606248,
       "word": "全国网络普法行江苏站",
       "onboard_time": 1714032319,
       "rank": 2,
