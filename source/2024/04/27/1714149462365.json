@@ -1,0 +1,410 @@
+{
+  "runTime": 1714149462365,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1196178,
+        "num": 1196178,
+        "word": "芒果又押错宝了吗",
+        "onboard_time": 1714140920,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 566961,
+        "num": 566961,
+        "word": "爱情公寓 同一个人不同的角色",
+        "onboard_time": 1714146018,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3546,
+        "num": 523990,
+        "word": "全国网络普法行江苏站",
+        "onboard_time": 1714032319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677472,
+        "num": 519864,
+        "word": "抗癌东东去世",
+        "onboard_time": 1714145358,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610019,
+        "num": 516934,
+        "word": "辅警杀害新婚妻子被判死缓",
+        "onboard_time": 1714141460,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510427,
+        "num": 510427,
+        "word": "跑男收视率",
+        "onboard_time": 1714140619,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490817,
+        "num": 490817,
+        "word": "28岁女子经常饥一顿饱一顿确诊胃癌",
+        "onboard_time": 1714137978,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415275,
+        "num": 415275,
+        "word": "奔跑吧P安全带",
+        "onboard_time": 1714142000,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351389,
+        "num": 351389,
+        "word": "61岁老人接孙女放学掉进下水道被冲走",
+        "onboard_time": 1714141099,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88350,
+        "num": 320004,
+        "word": "飞行员训练进化到让我震惊",
+        "onboard_time": 1714137319,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402153,
+        "num": 317787,
+        "word": "韩国N号房事件再现",
+        "onboard_time": 1714128618,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303894,
+        "num": 303894,
+        "word": "哈尔滨一九四四 活到年底都算喜丧",
+        "onboard_time": 1714146318,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303687,
+        "num": 303687,
+        "word": "林更新 把你的恶心收一收",
+        "onboard_time": 1714105760,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294572,
+        "num": 294572,
+        "word": "赵小童 三号房爬进一只小龙虾",
+        "onboard_time": 1714143079,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286174,
+        "num": 286174,
+        "word": "美国去死宣传册疯传美高校",
+        "onboard_time": 1714135938,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 278510,
+        "num": 278510,
+        "word": "韩国教师引诱121名未成年拍不雅视频",
+        "onboard_time": 1714134739,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253199,
+        "num": 253199,
+        "word": "Jennie第一次cha",
+        "onboard_time": 1714135159,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248940,
+        "num": 248940,
+        "word": "为什么超市里的蓝莓多是125克一盒",
+        "onboard_time": 1714136659,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 243539,
+        "num": 243539,
+        "word": "辛芷蕾拿了白玉兰戏剧奖",
+        "onboard_time": 1714137499,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217023,
+        "num": 217023,
+        "word": "HYBE否认不宣传newjeans",
+        "onboard_time": 1714130119,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204352,
+        "num": 204352,
+        "word": "李庚希录节目进去23出来24",
+        "onboard_time": 1714147519,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187256,
+        "num": 187256,
+        "word": "陈昊宇陈丽君长得好像",
+        "onboard_time": 1714142959,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186747,
+        "num": 186747,
+        "word": "gidle御用化妆师的上妆手法",
+        "onboard_time": 1714145118,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 161650,
+        "num": 161650,
+        "word": "常用乳贴会导致乳房下垂吗",
+        "onboard_time": 1714110678,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 157679,
+        "num": 157679,
+        "word": "走路时膝盖突然软一下咋回事",
+        "onboard_time": 1714143499,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165423,
+        "num": 155588,
+        "word": "庞博10天瘦了7斤",
+        "onboard_time": 1714145539,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163431,
+        "num": 152530,
+        "word": "李溪芮女团范儿",
+        "onboard_time": 1714146439,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134105,
+        "num": 134105,
+        "word": "癌症晚期倾家荡产吃药延长生命值得吗",
+        "onboard_time": 1714138398,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129326,
+        "num": 129326,
+        "word": "范伟62岁再夺影帝",
+        "onboard_time": 1714139179,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73857,
+        "num": 124180,
+        "word": "教育部要求实施学生欺凌防治专项行动",
+        "onboard_time": 1714140018,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 124143,
+        "num": 124143,
+        "word": "泽泽饭饭 断崖式分手",
+        "onboard_time": 1714148418,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 113488,
+        "num": 113488,
+        "word": "张杰演唱会门口被陌生人送票",
+        "onboard_time": 1714134198,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113088,
+        "num": 113088,
+        "word": "向太大腿骨断裂",
+        "onboard_time": 1714127958,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111324,
+        "num": 111324,
+        "word": "为什么职场人喜欢戴智能手表",
+        "onboard_time": 1714134798,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92688,
+        "num": 106779,
+        "word": "猫 就宠你这一回吧",
+        "onboard_time": 1714143499,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104839,
+        "num": 104839,
+        "word": "林更新的表盘壁纸",
+        "onboard_time": 1714145358,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99135,
+        "num": 99135,
+        "word": "邓超 亚比囧囧囧",
+        "onboard_time": 1714124119,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91333,
+        "num": 91333,
+        "word": "美国男子强奸14岁少女被判物理阉割",
+        "onboard_time": 1714104378,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86763,
+        "num": 86763,
+        "word": "诛仙2鬼厉陆雪琪月下拉扯",
+        "onboard_time": 1714138818,
+        "rank": 38,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 84571,
+        "num": 84571,
+        "word": "官方通报综合执法队雷某喝酒打人",
+        "onboard_time": 1714146498,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98537,
+        "num": 84503,
+        "word": "杨紫工作室发文告别麦承欢",
+        "onboard_time": 1714140260,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89676,
+        "num": 84491,
+        "word": "张靓颖一口气唱21首电影金曲",
+        "onboard_time": 1714143620,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87947,
+        "num": 84466,
+        "word": "方时赫没和NewJeans合过影",
+        "onboard_time": 1714146439,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84375,
+        "num": 84375,
+        "word": "李嘉格 淘汰",
+        "onboard_time": 1714123098,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81045,
+        "num": 81045,
+        "word": "恋综 合约情侣",
+        "onboard_time": 1714129157,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80288,
+        "num": 80288,
+        "word": "70后女子坚持跑步9年重返20岁",
+        "onboard_time": 1714147098,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78293,
+        "num": 78293,
+        "word": "偶像梦幻祭新团",
+        "onboard_time": 1714143200,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76770,
+        "num": 76770,
+        "word": "休想换走我的高铁F座",
+        "onboard_time": 1714122617,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73324,
+        "num": 73324,
+        "word": "江西通报小学生在校坠楼身亡",
+        "onboard_time": 1714131977,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73322,
+        "num": 73322,
+        "word": "金莎十年前在中传开过歌友会",
+        "onboard_time": 1714149376,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见布林肯#"
+    }
+  }
+}
