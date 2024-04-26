@@ -1,0 +1,410 @@
+{
+  "runTime": 1714137550417,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 964928,
+        "num": 964928,
+        "word": "韩国教师引诱121名未成年拍不雅视频",
+        "onboard_time": 1714134739,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623342,
+        "num": 623342,
+        "word": "恋综 合约情侣",
+        "onboard_time": 1714129157,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2655,
+        "num": 597166,
+        "word": "全国网络普法行江苏站",
+        "onboard_time": 1714032319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590507,
+        "num": 590507,
+        "word": "Jennie第一次cha",
+        "onboard_time": 1714135159,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 547222,
+        "num": 547222,
+        "word": "张杰演唱会门口被陌生人送票",
+        "onboard_time": 1714134198,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 382313,
+        "num": 382313,
+        "word": "世界杯决胜局争议球全纪录",
+        "onboard_time": 1714133296,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349780,
+        "num": 349780,
+        "word": "休想换走我的高铁F座",
+        "onboard_time": 1714122617,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327132,
+        "num": 327132,
+        "word": "厦门教师招聘疑因取消编制无人报考",
+        "onboard_time": 1714126878,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323778,
+        "num": 323778,
+        "word": "戚薇参加浪姐 紧张的是李承铉",
+        "onboard_time": 1714135758,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136256,
+        "num": 320665,
+        "word": "云南人专属浪漫油炸玫瑰花",
+        "onboard_time": 1714128378,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1103661,
+        "num": 317262,
+        "word": "京东员工误操作或致损失超百万",
+        "onboard_time": 1714130657,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 547919,
+        "num": 314004,
+        "word": "美国去死宣传册疯传美高校",
+        "onboard_time": 1714135938,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 535798,
+        "num": 312756,
+        "word": "江西通报小学生在校坠楼身亡",
+        "onboard_time": 1714131977,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563955,
+        "num": 308276,
+        "word": "原来戚薇是方文山徒弟",
+        "onboard_time": 1714124299,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533488,
+        "num": 304784,
+        "word": "韩国N号房事件再现",
+        "onboard_time": 1714128618,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470969,
+        "num": 301473,
+        "word": "向太大腿骨断裂",
+        "onboard_time": 1714127958,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381445,
+        "num": 298877,
+        "word": "美国男子强奸14岁少女被判物理阉割",
+        "onboard_time": 1714104378,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351106,
+        "num": 296433,
+        "word": "林更新 把你的恶心收一收",
+        "onboard_time": 1714105760,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343611,
+        "num": 291307,
+        "word": "肖战全黑穿搭",
+        "onboard_time": 1714132577,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 289654,
+        "num": 289654,
+        "word": "白玉兰直播",
+        "onboard_time": 1714129637,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401095,
+        "num": 280626,
+        "word": "常用乳贴会导致乳房下垂吗",
+        "onboard_time": 1714110678,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 242786,
+        "num": 242786,
+        "word": "李嘉格 淘汰",
+        "onboard_time": 1714123098,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232030,
+        "num": 232030,
+        "word": "全员加速中",
+        "onboard_time": 1714135338,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231390,
+        "num": 231390,
+        "word": "小婉 真实追星迪丽热巴",
+        "onboard_time": 1714128978,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192182,
+        "num": 227153,
+        "word": "林生斌",
+        "onboard_time": 1714095318,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226501,
+        "num": 226501,
+        "word": "Jennie硬控我18秒",
+        "onboard_time": 1714128858,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213016,
+        "num": 213016,
+        "word": "赵奕欢 三公淘汰",
+        "onboard_time": 1714134019,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200861,
+        "num": 200861,
+        "word": "何浩楠 祝大家莓有烦恼",
+        "onboard_time": 1714136538,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172449,
+        "num": 199375,
+        "word": "为什么职场人喜欢戴智能手表",
+        "onboard_time": 1714134798,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 160730,
+        "num": 198612,
+        "word": "石家庄冰雹",
+        "onboard_time": 1714133658,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198186,
+        "num": 198186,
+        "word": "张真源的劣势是体重太轻了",
+        "onboard_time": 1714137439,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185850,
+        "num": 197133,
+        "word": "老舅和范志毅是P上去的",
+        "onboard_time": 1714133479,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185448,
+        "num": 196110,
+        "word": "为什么超市里的蓝莓多是125克一盒",
+        "onboard_time": 1714136659,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176432,
+        "num": 193955,
+        "word": "水龙吟预告",
+        "onboard_time": 1714125378,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157661,
+        "num": 192798,
+        "word": "鸭子上岸拦住遛弯的老人",
+        "onboard_time": 1714137378,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151876,
+        "num": 189815,
+        "word": "恋爱兄妹",
+        "onboard_time": 1714131558,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151312,
+        "num": 188737,
+        "word": "虞书欣林一SPOT舞蹈挑战",
+        "onboard_time": 1714132577,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188086,
+        "num": 188086,
+        "word": "辛芷蕾入围白玉兰戏剧奖主角奖",
+        "onboard_time": 1714136838,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147814,
+        "num": 147814,
+        "word": "崩坏星穹铁道兑换码",
+        "onboard_time": 1714136418,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123309,
+        "num": 146323,
+        "word": "中国女留学生澳大利亚失联在泰国被找到",
+        "onboard_time": 1714121959,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34469,
+        "num": 145582,
+        "word": "蛋仔冠军Dong",
+        "onboard_time": 1714132338,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145006,
+        "num": 145006,
+        "word": "日本或成五一爆款旅游地",
+        "onboard_time": 1714129098,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 141797,
+        "num": 141797,
+        "word": "邓超 亚比囧囧囧",
+        "onboard_time": 1714124119,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141225,
+        "num": 141225,
+        "word": "歌手2024官宣定档",
+        "onboard_time": 1714113438,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138560,
+        "num": 138560,
+        "word": "HYBE否认不宣传newjeans",
+        "onboard_time": 1714130119,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136136,
+        "num": 136136,
+        "word": "辛芷蕾拿了白玉兰戏剧奖",
+        "onboard_time": 1714137499,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131137,
+        "num": 131137,
+        "word": "小姐姐麻醉还没醒过来再次爱上另一半",
+        "onboard_time": 1714131138,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105500,
+        "num": 126829,
+        "word": "飞行员训练进化到让我震惊",
+        "onboard_time": 1714137319,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102197,
+        "num": 126573,
+        "word": "中美五点共识",
+        "onboard_time": 1714129338,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126450,
+        "num": 126450,
+        "word": "eStar对战TTG",
+        "onboard_time": 1714135758,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见布林肯#"
+    }
+  }
+}
