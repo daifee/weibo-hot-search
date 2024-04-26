@@ -1,0 +1,410 @@
+{
+  "runTime": 1714127842057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 907957,
+        "num": 907957,
+        "word": "中国女留学生澳大利亚失联在泰国被找到",
+        "onboard_time": 1714121959,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725942,
+        "num": 725942,
+        "word": "李嘉格 淘汰",
+        "onboard_time": 1714123098,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179947,
+        "num": 588449,
+        "word": "纽约大学120余人声援巴勒斯坦被拘",
+        "onboard_time": 1714125198,
+        "rank": 2,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 507125,
+        "num": 507125,
+        "word": "休想换走我的高铁F座",
+        "onboard_time": 1714122617,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 420744,
+        "num": 420744,
+        "word": "水龙吟预告",
+        "onboard_time": 1714125378,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395124,
+        "num": 395124,
+        "word": "杨紫李现国色芳华片花",
+        "onboard_time": 1714124659,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393296,
+        "num": 393296,
+        "word": "林生斌",
+        "onboard_time": 1714095318,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384953,
+        "num": 384953,
+        "word": "花少1 真正的穷游",
+        "onboard_time": 1714120757,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99727,
+        "num": 384496,
+        "word": "舟山远洋渔船变身菜鸟驿站",
+        "onboard_time": 1714125977,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173097,
+        "num": 382566,
+        "word": "古人看了这场秀不知要作多少诗",
+        "onboard_time": 1714123758,
+        "rank": 9,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 635087,
+        "num": 382150,
+        "word": "原来戚薇是方文山徒弟",
+        "onboard_time": 1714124299,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523148,
+        "num": 379565,
+        "word": "虞书欣晒Jennie联名独角兽",
+        "onboard_time": 1714122559,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517918,
+        "num": 378066,
+        "word": "林更新 把你的恶心收一收",
+        "onboard_time": 1714105760,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2949,
+        "num": 376793,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510963,
+        "num": 375582,
+        "word": "美国男子强奸14岁少女被判物理阉割",
+        "onboard_time": 1714104378,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375243,
+        "num": 375243,
+        "word": "李彩桦去拍短剧了",
+        "onboard_time": 1714118179,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370358,
+        "num": 370358,
+        "word": "湖人被横扫",
+        "onboard_time": 1714125857,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365879,
+        "num": 365879,
+        "word": "Jennie直播",
+        "onboard_time": 1714121836,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303946,
+        "num": 303946,
+        "word": "歌手2024官宣定档",
+        "onboard_time": 1714113438,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301090,
+        "num": 301090,
+        "word": "腿粗屁股大的人竟然更长寿",
+        "onboard_time": 1714106839,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 748254,
+        "num": 296853,
+        "word": "男友妈妈叫我婚前别买车",
+        "onboard_time": 1714122978,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 430111,
+        "num": 288150,
+        "word": "五一后提离职还会算工资吗",
+        "onboard_time": 1714122559,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 429010,
+        "num": 287024,
+        "word": "常用乳贴会导致乳房下垂吗",
+        "onboard_time": 1714110678,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 6712,
+        "num": 280469,
+        "word": "豪华纯电SUV天花板来了",
+        "onboard_time": 1714124178,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 275146,
+        "num": 275146,
+        "word": "邓超 亚比囧囧囧",
+        "onboard_time": 1714124119,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240340,
+        "num": 240340,
+        "word": "金靖 通透",
+        "onboard_time": 1714127178,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234991,
+        "num": 234991,
+        "word": "赵露思凌乱红发",
+        "onboard_time": 1714126998,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230312,
+        "num": 230312,
+        "word": "十个勤天偏偏你们最争气",
+        "onboard_time": 1714126040,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224353,
+        "num": 224353,
+        "word": "ZICO和Jennie合作曲",
+        "onboard_time": 1714123458,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179201,
+        "num": 219933,
+        "word": "韩企开始清退35岁以上员工",
+        "onboard_time": 1714110678,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216697,
+        "num": 216697,
+        "word": "厦门教师招聘疑因取消编制无人报考",
+        "onboard_time": 1714126878,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209997,
+        "num": 209997,
+        "word": "淀粉肠 骨泥",
+        "onboard_time": 1714108699,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 205029,
+        "num": 205029,
+        "word": "花少好友记第三站 阵容",
+        "onboard_time": 1714125018,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105533,
+        "num": 198677,
+        "word": "今年是中美建交45周年",
+        "onboard_time": 1714124418,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95170,
+        "num": 197055,
+        "word": "比亚迪王传福说方程豹让大家更嗨",
+        "onboard_time": 1714124837,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 196637,
+        "num": 196637,
+        "word": "芒果舞美",
+        "onboard_time": 1714126758,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190129,
+        "num": 190129,
+        "word": "肖战 Gucci",
+        "onboard_time": 1714115298,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189302,
+        "num": 189302,
+        "word": "乘风赛制",
+        "onboard_time": 1714126998,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189063,
+        "num": 189063,
+        "word": "时代少年团顺口溜式打call",
+        "onboard_time": 1714127057,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164714,
+        "num": 164714,
+        "word": "事实证明狗果然是听语气的",
+        "onboard_time": 1714127358,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164569,
+        "num": 164569,
+        "word": "林更新鄙人95公斤",
+        "onboard_time": 1714118538,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162805,
+        "num": 162805,
+        "word": "孩子丢出25.7g金手镯男子捡走当玩具",
+        "onboard_time": 1714111279,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158438,
+        "num": 158438,
+        "word": "女性最佳绝经期",
+        "onboard_time": 1714113259,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153458,
+        "num": 153458,
+        "word": "不该 仙品",
+        "onboard_time": 1714108100,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147208,
+        "num": 147208,
+        "word": "何洁一公反败为胜",
+        "onboard_time": 1714126520,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146552,
+        "num": 146552,
+        "word": "谢娜邀请杨迪今天来家里吃长寿面",
+        "onboard_time": 1714121177,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140117,
+        "num": 140117,
+        "word": "A股五大突发利好",
+        "onboard_time": 1714126457,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137542,
+        "num": 137542,
+        "word": "纽约警方荷枪实弹全面封锁哥大",
+        "onboard_time": 1714122437,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132577,
+        "num": 132577,
+        "word": "金善禹受难记",
+        "onboard_time": 1714126699,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119528,
+        "num": 119528,
+        "word": "煮肘孩子 定向捐精协议",
+        "onboard_time": 1714121477,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#开创西部大开发新格局#"
+    }
+  }
+}

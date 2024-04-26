@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714126830900,
+  "endTime": 1714127842057,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -11619,6 +11619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 635087,
+      "num": 382150,
+      "word": "原来戚薇是方文山徒弟",
+      "onboard_time": 1714124299,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 634174,
       "num": 634174,
       "word": "读研会惩罚每一个考上研的混子",
@@ -13521,14 +13529,6 @@
       "onboard_time": 1713362298,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 572275,
-      "num": 375813,
-      "word": "原来戚薇是方文山徒弟",
-      "onboard_time": 1714124299,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 572217,
@@ -16017,6 +16017,14 @@
       "onboard_time": 1713152118,
       "rank": 11,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 507125,
+      "num": 507125,
+      "word": "休想换走我的高铁F座",
+      "onboard_time": 1714122617,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 506894,
@@ -19611,14 +19619,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 433007,
-      "num": 433007,
-      "word": "休想换走我的高铁F座",
-      "onboard_time": 1714122617,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 432840,
       "num": 432840,
       "word": "华为P70三角形相机岛设计实锤",
@@ -19793,6 +19793,14 @@
       "onboard_time": 1712631498,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 430111,
+      "num": 288150,
+      "word": "五一后提离职还会算工资吗",
+      "onboard_time": 1714122559,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 430094,
@@ -20289,6 +20297,14 @@
       "onboard_time": 1711895300,
       "rank": 31,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 420744,
+      "num": 420744,
+      "word": "水龙吟预告",
+      "onboard_time": 1714125378,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 420717,
@@ -22945,6 +22961,14 @@
       "onboard_time": 1713489797,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370358,
+      "num": 370358,
+      "word": "湖人被横扫",
+      "onboard_time": 1714125857,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 370111,
@@ -27427,14 +27451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 305765,
-      "num": 305765,
-      "word": "水龙吟预告",
-      "onboard_time": 1714125378,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 305666,
       "num": 305666,
       "word": "原来电话卡是有寿命的",
@@ -28875,14 +28891,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 289817,
-      "num": 256830,
-      "word": "五一后提离职还会算工资吗",
-      "onboard_time": 1714122559,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 289536,
       "num": 196490,
       "word": "张艺兴算是回到自己舒适区了",
@@ -30227,6 +30235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275146,
+      "num": 275146,
+      "word": "邓超 亚比囧囧囧",
+      "onboard_time": 1714124119,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 275071,
       "num": 255648,
       "word": "李书福谈未来汽车创新",
@@ -30513,14 +30529,6 @@
       "onboard_time": 1712458099,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 272005,
-      "num": 272005,
-      "word": "湖人被横扫",
-      "onboard_time": 1714125857,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 271912,
@@ -30857,14 +30865,6 @@
       "onboard_time": 1714057818,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 268891,
-      "num": 251208,
-      "word": "邓超 亚比囧囧囧",
-      "onboard_time": 1714124119,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 268887,
@@ -34427,6 +34427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240340,
+      "num": 240340,
+      "word": "金靖 通透",
+      "onboard_time": 1714127178,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240289,
       "num": 240289,
       "word": "C罗被罚下向裁判鼓掌",
@@ -35201,6 +35209,14 @@
       "onboard_time": 1713323778,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234991,
+      "num": 234991,
+      "word": "赵露思凌乱红发",
+      "onboard_time": 1714126998,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 234957,
@@ -38177,6 +38193,14 @@
       "onboard_time": 1712994675,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 216697,
+      "num": 216697,
+      "word": "厦门教师招聘疑因取消编制无人报考",
+      "onboard_time": 1714126878,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216688,
@@ -43531,6 +43555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196637,
+      "num": 196637,
+      "word": "芒果舞美",
+      "onboard_time": 1714126758,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196572,
       "num": 196572,
       "word": "谭飞 杨幂表演技巧上的进步",
@@ -46203,6 +46235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189302,
+      "num": 189302,
+      "word": "乘风赛制",
+      "onboard_time": 1714126998,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189197,
       "num": 189197,
       "word": "爱奇艺片单你最期待哪部",
@@ -46265,6 +46305,14 @@
       "onboard_time": 1713014779,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 189063,
+      "num": 189063,
+      "word": "时代少年团顺口溜式打call",
+      "onboard_time": 1714127057,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 188981,
@@ -49009,6 +49057,14 @@
       "onboard_time": 1712909959,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179947,
+      "num": 588449,
+      "word": "纽约大学120余人声援巴勒斯坦被拘",
+      "onboard_time": 1714125198,
+      "rank": 2,
+      "category": "国外时政"
     },
     {
       "raw_hot": 179942,
@@ -52929,6 +52985,14 @@
       "onboard_time": 1712889439,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164714,
+      "num": 164714,
+      "word": "事实证明狗果然是听语气的",
+      "onboard_time": 1714127358,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 164709,
@@ -58955,14 +59019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145560,
-      "num": 467366,
-      "word": "纽约大学120余人声援巴勒斯坦被拘",
-      "onboard_time": 1714125198,
-      "rank": 2,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 145552,
       "num": 145552,
       "word": "姚志明的爱事事有回响",
@@ -60561,6 +60617,14 @@
       "onboard_time": 1713537258,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140117,
+      "num": 140117,
+      "word": "A股五大突发利好",
+      "onboard_time": 1714126457,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 140101,
@@ -62763,6 +62827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132577,
+      "num": 132577,
+      "word": "金善禹受难记",
+      "onboard_time": 1714126699,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132485,
       "num": 132485,
       "word": "周深在联合国献唱和平颂",
@@ -63073,14 +63145,6 @@
       "onboard_time": 1713147498,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131420,
-      "num": 131420,
-      "word": "芒果舞美",
-      "onboard_time": 1714126758,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 131411,
@@ -63833,14 +63897,6 @@
       "onboard_time": 1713767658,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128365,
-      "num": 128365,
-      "word": "A股五大突发利好",
-      "onboard_time": 1714126457,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 128363,
@@ -68092,7 +68148,7 @@
     },
     {
       "raw_hot": 106417,
-      "num": 164203,
+      "num": 197055,
       "word": "比亚迪王传福说方程豹让大家更嗨",
       "onboard_time": 1714124837,
       "rank": 36,
@@ -74780,7 +74836,7 @@
     },
     {
       "raw_hot": 13038,
-      "num": 253982,
+      "num": 280469,
       "word": "豪华纯电SUV天花板来了",
       "onboard_time": 1714124178,
       "rank": 23,

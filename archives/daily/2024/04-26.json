@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714126830900,
+  "endTime": 1714127842057,
   "band_list": [
     {
       "raw_hot": 2869467,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 635087,
+      "num": 382150,
+      "word": "原来戚薇是方文山徒弟",
+      "onboard_time": 1714124299,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 626434,
       "num": 626434,
       "word": "神十八成功对接空间站",
@@ -403,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 572275,
-      "num": 375813,
-      "word": "原来戚薇是方文山徒弟",
-      "onboard_time": 1714124299,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 556328,
       "num": 556328,
       "word": "下一个被淘汰的电子产品是什么",
@@ -465,6 +465,14 @@
       "onboard_time": 1714123458,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 507125,
+      "num": 507125,
+      "word": "休想换走我的高铁F座",
+      "onboard_time": 1714122617,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 498204,
@@ -547,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 433007,
-      "num": 433007,
-      "word": "休想换走我的高铁F座",
-      "onboard_time": 1714122617,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 431385,
       "num": 431385,
       "word": "终于明白旱的旱死涝的涝死",
@@ -563,12 +563,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 430111,
+      "num": 288150,
+      "word": "五一后提离职还会算工资吗",
+      "onboard_time": 1714122559,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 428371,
       "num": 404192,
       "word": "谢娜邀请杨迪今天来家里吃长寿面",
       "onboard_time": 1714121177,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420744,
+      "num": 420744,
+      "word": "水龙吟预告",
+      "onboard_time": 1714125378,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 419755,
@@ -617,6 +633,14 @@
       "onboard_time": 1714093518,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370358,
+      "num": 370358,
+      "word": "湖人被横扫",
+      "onboard_time": 1714125857,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 369756,
@@ -771,14 +795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 305765,
-      "num": 305765,
-      "word": "水龙吟预告",
-      "onboard_time": 1714125378,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 303149,
       "num": 303149,
       "word": "江西于都一矿企发生事故致3死2伤",
@@ -819,14 +835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289817,
-      "num": 256830,
-      "word": "五一后提离职还会算工资吗",
-      "onboard_time": 1714122559,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 287925,
       "num": 287925,
       "word": "关晓彤范丞丞再合作",
@@ -859,12 +867,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272005,
-      "num": 272005,
-      "word": "湖人被横扫",
-      "onboard_time": 1714125857,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 275146,
+      "num": 275146,
+      "word": "邓超 亚比囧囧囧",
+      "onboard_time": 1714124119,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 270973,
@@ -889,14 +897,6 @@
       "onboard_time": 1714087216,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 268891,
-      "num": 251208,
-      "word": "邓超 亚比囧囧囧",
-      "onboard_time": 1714124119,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 262565,
@@ -987,6 +987,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 240340,
+      "num": 240340,
+      "word": "金靖 通透",
+      "onboard_time": 1714127178,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239054,
       "num": 239054,
       "word": "邓超求科普水瓶座",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1714051997,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 234991,
+      "num": 234991,
+      "word": "赵露思凌乱红发",
+      "onboard_time": 1714126998,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 234439,
@@ -1129,6 +1145,14 @@
       "onboard_time": 1714089317,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 216697,
+      "num": 216697,
+      "word": "厦门教师招聘疑因取消编制无人报考",
+      "onboard_time": 1714126878,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215157,
@@ -1251,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196637,
+      "num": 196637,
+      "word": "芒果舞美",
+      "onboard_time": 1714126758,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196231,
       "num": 196231,
       "word": "去HYBE找ZICO拍cha的Jennie",
@@ -1345,6 +1377,22 @@
       "onboard_time": 1714101378,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 189302,
+      "num": 189302,
+      "word": "乘风赛制",
+      "onboard_time": 1714126998,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189063,
+      "num": 189063,
+      "word": "时代少年团顺口溜式打call",
+      "onboard_time": 1714127057,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 188820,
@@ -1475,6 +1523,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 179947,
+      "num": 588449,
+      "word": "纽约大学120余人声援巴勒斯坦被拘",
+      "onboard_time": 1714125198,
+      "rank": 2,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 179918,
       "num": 179918,
       "word": "深圳暴雨",
@@ -1577,6 +1633,14 @@
       "onboard_time": 1714116378,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164714,
+      "num": 164714,
+      "word": "事实证明狗果然是听语气的",
+      "onboard_time": 1714127358,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 163837,
@@ -1779,14 +1843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145560,
-      "num": 467366,
-      "word": "纽约大学120余人声援巴勒斯坦被拘",
-      "onboard_time": 1714125198,
-      "rank": 2,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 145419,
       "num": 147594,
       "word": "其实不是所有人都想放长假",
@@ -1817,6 +1873,14 @@
       "onboard_time": 1714123038,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140117,
+      "num": 140117,
+      "word": "A股五大突发利好",
+      "onboard_time": 1714126457,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 139648,
@@ -1955,11 +2019,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131420,
-      "num": 131420,
-      "word": "芒果舞美",
-      "onboard_time": 1714126758,
-      "rank": 45,
+      "raw_hot": 132577,
+      "num": 132577,
+      "word": "金善禹受难记",
+      "onboard_time": 1714126699,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -2025,14 +2089,6 @@
       "onboard_time": 1714109659,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128365,
-      "num": 128365,
-      "word": "A股五大突发利好",
-      "onboard_time": 1714126457,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 126857,
@@ -2212,7 +2268,7 @@
     },
     {
       "raw_hot": 106417,
-      "num": 164203,
+      "num": 197055,
       "word": "比亚迪王传福说方程豹让大家更嗨",
       "onboard_time": 1714124837,
       "rank": 36,
@@ -2612,7 +2668,7 @@
     },
     {
       "raw_hot": 13038,
-      "num": 253982,
+      "num": 280469,
       "word": "豪华纯电SUV天花板来了",
       "onboard_time": 1714124178,
       "rank": 23,
