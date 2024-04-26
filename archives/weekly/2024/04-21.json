@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714102459995,
+  "endTime": 1714105236421,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1468785,
+      "num": 1468785,
+      "word": "张翰 佛山电翰",
+      "onboard_time": 1714099698,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1468493,
       "num": 1468493,
       "word": "爱情公寓秦羽墨美甲店被吐槽",
@@ -937,14 +945,6 @@
       "onboard_time": 1713785117,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1106657,
-      "num": 1106657,
-      "word": "张翰 佛山电翰",
-      "onboard_time": 1714099698,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1102801,
@@ -1587,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824116,
+      "num": 824116,
+      "word": "美国会准备封禁大疆无人机",
+      "onboard_time": 1714102698,
+      "rank": 4,
+      "category": "国外时政,数码"
+    },
+    {
       "raw_hot": 823813,
       "num": 823813,
       "word": "多所高校学生因悬挂床帘被实名通报",
@@ -1681,6 +1689,14 @@
       "onboard_time": 1713703339,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 796072,
+      "num": 796072,
+      "word": "综艺史上第一次这么多人同睡",
+      "onboard_time": 1714101018,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 794876,
@@ -1963,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 704805,
+      "num": 704805,
+      "word": "原来调休的反义词是搭桥",
+      "onboard_time": 1714100298,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 704757,
       "num": 704757,
       "word": "花少 张凯丽",
@@ -2089,6 +2113,14 @@
       "onboard_time": 1713941478,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 683470,
+      "num": 581176,
+      "word": "美国男子强奸14岁少女被判物理阉割",
+      "onboard_time": 1714104378,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 682648,
@@ -2483,6 +2515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 613093,
+      "num": 613093,
+      "word": "林生斌要求导演刘信达公开道歉",
+      "onboard_time": 1714102638,
+      "rank": 8,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 612332,
       "num": 612332,
       "word": "于东来称去年计划挣2000万结果赚了1.4亿",
@@ -2769,6 +2809,14 @@
       "onboard_time": 1713703999,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 569968,
+      "num": 569968,
+      "word": "我的少年时代定档",
+      "onboard_time": 1714103899,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 569841,
@@ -3179,14 +3227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 517765,
-      "num": 432182,
-      "word": "综艺史上第一次这么多人同睡",
-      "onboard_time": 1714101018,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 515449,
       "num": 515449,
       "word": "台湾4.9级左右地震",
@@ -3500,7 +3540,7 @@
     },
     {
       "raw_hot": 482111,
-      "num": 260813,
+      "num": 265322,
       "word": "得了癌症如果不治疗能活多久",
       "onboard_time": 1714097597,
       "rank": 28,
@@ -4203,6 +4243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419755,
+      "num": 419755,
+      "word": "短发hanni",
+      "onboard_time": 1714101738,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418975,
       "num": 418975,
       "word": "GQ派对",
@@ -4267,6 +4315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 414902,
+      "num": 414902,
+      "word": "乘风2024首场公演",
+      "onboard_time": 1714104138,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413899,
       "num": 413899,
       "word": "原来麻辣烫夹子是这样用的",
@@ -4291,12 +4347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 408558,
-      "num": 408558,
-      "word": "原来调休的反义词是搭桥",
-      "onboard_time": 1714100298,
-      "rank": 12,
-      "category": "情感"
+      "raw_hot": 409511,
+      "num": 409511,
+      "word": "华为高级工程师回应AI消除衣物争议",
+      "onboard_time": 1714099637,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 406589,
@@ -4420,7 +4476,7 @@
     },
     {
       "raw_hot": 397221,
-      "num": 248360,
+      "num": 275775,
       "word": "林更新让粉丝别管",
       "onboard_time": 1714101499,
       "rank": 31,
@@ -4689,6 +4745,14 @@
       "onboard_time": 1713684558,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376948,
+      "num": 376948,
+      "word": "五一机票酒店都在咬牙降价",
+      "onboard_time": 1714102218,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376444,
@@ -5065,6 +5129,14 @@
       "onboard_time": 1713966019,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344621,
+      "num": 275671,
+      "word": "水果中的抗炎高手",
+      "onboard_time": 1714100298,
+      "rank": 28,
+      "category": "美食,科学科普"
     },
     {
       "raw_hot": 344459,
@@ -6163,14 +6235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 277004,
-      "num": 277004,
-      "word": "华为高级工程师回应AI消除衣物争议",
-      "onboard_time": 1714099637,
-      "rank": 22,
-      "category": "数码"
-    },
-    {
       "raw_hot": 276800,
       "num": 276800,
       "word": "李现 今天雇的人多一点是吧",
@@ -6611,14 +6675,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 260054,
-      "num": 247608,
-      "word": "水果中的抗炎高手",
-      "onboard_time": 1714100298,
-      "rank": 28,
-      "category": "美食,科学科普"
-    },
-    {
       "raw_hot": 259717,
       "num": 259717,
       "word": "失业后才懂得拒绝进厨房是一种权力",
@@ -6873,14 +6929,6 @@
       "onboard_time": 1713980352,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249229,
-      "num": 249229,
-      "word": "短发hanni",
-      "onboard_time": 1714101738,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 248450,
@@ -7505,6 +7553,14 @@
       "onboard_time": 1713655454,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 231048,
+      "num": 231048,
+      "word": "公司倒闭老板用电脑抵5000工资",
+      "onboard_time": 1714103417,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 230855,
@@ -9915,6 +9971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188783,
+      "num": 188783,
+      "word": "原神4.6版本",
+      "onboard_time": 1714104260,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188665,
       "num": 188665,
       "word": "关雪 顶级反派女A",
@@ -10539,6 +10603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179622,
+      "num": 179622,
+      "word": "惜花芷大结局全员he",
+      "onboard_time": 1714104620,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179599,
       "num": 193574,
       "word": "狐妖时装",
@@ -10633,6 +10705,14 @@
       "onboard_time": 1713622939,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177824,
+      "num": 177824,
+      "word": "HYBE检举闵熙珍",
+      "onboard_time": 1714104679,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 177395,
@@ -11899,6 +11979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156576,
+      "num": 156576,
+      "word": "好状态随春醒",
+      "onboard_time": 1714104679,
+      "rank": 36,
+      "category": "体育,美食"
+    },
+    {
       "raw_hot": 156547,
       "num": 156547,
       "word": "徐子未音乐节哭了",
@@ -12147,6 +12235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153666,
+      "num": 153666,
+      "word": "男朋友做的五一川西自驾攻略",
+      "onboard_time": 1714104078,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 153660,
       "num": 153660,
       "word": "当的是间谍干的是苦力",
@@ -12193,6 +12289,14 @@
       "onboard_time": 1713940157,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152577,
+      "num": 152577,
+      "word": "十天之后回到现实",
+      "onboard_time": 1714103358,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 152549,
@@ -12667,6 +12771,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 146304,
+      "num": 146304,
+      "word": "全员加速中谁是大侦探",
+      "onboard_time": 1714105158,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146282,
       "num": 146282,
       "word": "北京国安vs青岛西海岸",
@@ -13099,6 +13211,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 141092,
+      "num": 141092,
+      "word": "孝渊尹普美被扣留巴厘岛",
+      "onboard_time": 1714105039,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141002,
       "num": 141002,
       "word": "八万的吉他让熊孩子灌了四瓶矿泉水",
@@ -13225,6 +13345,14 @@
       "onboard_time": 1714101319,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139144,
+      "num": 139144,
+      "word": "haerin好美",
+      "onboard_time": 1714102459,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 139065,
@@ -13947,6 +14075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 129120,
+      "num": 129120,
+      "word": "王一博战损戏",
+      "onboard_time": 1714102939,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129043,
       "num": 129043,
       "word": "疑似张凯回应辞职",
@@ -14025,14 +14161,6 @@
       "onboard_time": 1713882799,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127827,
-      "num": 127827,
-      "word": "五一机票酒店都在咬牙降价",
-      "onboard_time": 1714102218,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127797,
@@ -15739,6 +15867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68123,
+      "num": 275819,
+      "word": "为什么明星能扛住高清镜头",
+      "onboard_time": 1714101678,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 67576,
       "num": 107513,
       "word": "CFPLS23总决赛",
@@ -16569,14 +16705,6 @@
       "onboard_time": 1713813192,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20665,
-      "num": 151849,
-      "word": "为什么明星能扛住高清镜头",
-      "onboard_time": 1714101678,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 19747,

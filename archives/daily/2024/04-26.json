@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714102459995,
+  "endTime": 1714105236421,
   "band_list": [
     {
       "raw_hot": 2869467,
@@ -19,6 +19,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1468785,
+      "num": 1468785,
+      "word": "张翰 佛山电翰",
+      "onboard_time": 1714099698,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1190385,
       "num": 1190385,
       "word": "欧豪撩赵昭仪",
@@ -33,14 +41,6 @@
       "onboard_time": 1714086134,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1106657,
-      "num": 1106657,
-      "word": "张翰 佛山电翰",
-      "onboard_time": 1714099698,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1034217,
@@ -75,6 +75,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 824116,
+      "num": 824116,
+      "word": "美国会准备封禁大疆无人机",
+      "onboard_time": 1714102698,
+      "rank": 4,
+      "category": "国外时政,数码"
+    },
+    {
       "raw_hot": 820141,
       "num": 820141,
       "word": "纽约市长在飞机上被女子怒批",
@@ -99,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 796072,
+      "num": 796072,
+      "word": "综艺史上第一次这么多人同睡",
+      "onboard_time": 1714101018,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 794876,
       "num": 794876,
       "word": "学位法通过",
@@ -121,6 +137,22 @@
       "onboard_time": 1714057039,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 704805,
+      "num": 704805,
+      "word": "原来调休的反义词是搭桥",
+      "onboard_time": 1714100298,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 683470,
+      "num": 581176,
+      "word": "美国男子强奸14岁少女被判物理阉割",
+      "onboard_time": 1714104378,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 669784,
@@ -155,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 613093,
+      "num": 613093,
+      "word": "林生斌要求导演刘信达公开道歉",
+      "onboard_time": 1714102638,
+      "rank": 8,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 605467,
       "num": 320911,
       "word": "Angelababy中性刺猬头",
@@ -177,6 +217,14 @@
       "onboard_time": 1714054638,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 569968,
+      "num": 569968,
+      "word": "我的少年时代定档",
+      "onboard_time": 1714103899,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 556328,
@@ -203,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 517765,
-      "num": 432182,
-      "word": "综艺史上第一次这么多人同睡",
-      "onboard_time": 1714101018,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 498204,
       "num": 498204,
       "word": "张元英耳戴红花",
@@ -220,7 +260,7 @@
     },
     {
       "raw_hot": 482111,
-      "num": 260813,
+      "num": 265322,
       "word": "得了癌症如果不治疗能活多久",
       "onboard_time": 1714097597,
       "rank": 28,
@@ -267,16 +307,32 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 408558,
-      "num": 408558,
-      "word": "原来调休的反义词是搭桥",
-      "onboard_time": 1714100298,
-      "rank": 12,
-      "category": "情感"
+      "raw_hot": 419755,
+      "num": 419755,
+      "word": "短发hanni",
+      "onboard_time": 1714101738,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 414902,
+      "num": 414902,
+      "word": "乘风2024首场公演",
+      "onboard_time": 1714104138,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 409511,
+      "num": 409511,
+      "word": "华为高级工程师回应AI消除衣物争议",
+      "onboard_time": 1714099637,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 397221,
-      "num": 248360,
+      "num": 275775,
       "word": "林更新让粉丝别管",
       "onboard_time": 1714101499,
       "rank": 31,
@@ -297,6 +353,14 @@
       "onboard_time": 1714093518,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376948,
+      "num": 376948,
+      "word": "五一机票酒店都在咬牙降价",
+      "onboard_time": 1714102218,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369756,
@@ -321,6 +385,14 @@
       "onboard_time": 1714075811,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344621,
+      "num": 275671,
+      "word": "水果中的抗炎高手",
+      "onboard_time": 1714100298,
+      "rank": 28,
+      "category": "美食,科学科普"
     },
     {
       "raw_hot": 340525,
@@ -427,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 277004,
-      "num": 277004,
-      "word": "华为高级工程师回应AI消除衣物争议",
-      "onboard_time": 1714099637,
-      "rank": 22,
-      "category": "数码"
-    },
-    {
       "raw_hot": 270973,
       "num": 270973,
       "word": "广东暴雨",
@@ -467,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260054,
-      "num": 247608,
-      "word": "水果中的抗炎高手",
-      "onboard_time": 1714100298,
-      "rank": 28,
-      "category": "美食,科学科普"
-    },
-    {
       "raw_hot": 253579,
       "num": 272500,
       "word": "黄仁俊 这就是我",
@@ -489,14 +545,6 @@
       "onboard_time": 1714064173,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249229,
-      "num": 249229,
-      "word": "短发hanni",
-      "onboard_time": 1714101738,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 249152,
@@ -569,6 +617,14 @@
       "onboard_time": 1714098258,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231048,
+      "num": 231048,
+      "word": "公司倒闭老板用电脑抵5000工资",
+      "onboard_time": 1714103417,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 230997,
@@ -707,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188783,
+      "num": 188783,
+      "word": "原神4.6版本",
+      "onboard_time": 1714104260,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188114,
       "num": 188114,
       "word": "字节跳动辟谣将出售TikTok",
@@ -753,6 +817,22 @@
       "onboard_time": 1714098498,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179622,
+      "num": 179622,
+      "word": "惜花芷大结局全员he",
+      "onboard_time": 1714104620,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177824,
+      "num": 177824,
+      "word": "HYBE检举闵熙珍",
+      "onboard_time": 1714104679,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 175150,
@@ -811,6 +891,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156576,
+      "num": 156576,
+      "word": "好状态随春醒",
+      "onboard_time": 1714104679,
+      "rank": 36,
+      "category": "体育,美食"
+    },
+    {
+      "raw_hot": 153666,
+      "num": 153666,
+      "word": "男朋友做的五一川西自驾攻略",
+      "onboard_time": 1714104078,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 152577,
+      "num": 152577,
+      "word": "十天之后回到现实",
+      "onboard_time": 1714103358,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151496,
       "num": 195514,
       "word": "王一博被晒出手表印",
@@ -835,12 +939,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 146304,
+      "num": 146304,
+      "word": "全员加速中谁是大侦探",
+      "onboard_time": 1714105158,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144364,
       "num": 144364,
       "word": "B太 青岛海鲜商战",
       "onboard_time": 1714095858,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 141092,
+      "num": 141092,
+      "word": "孝渊尹普美被扣留巴厘岛",
+      "onboard_time": 1714105039,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 139648,
@@ -857,6 +977,14 @@
       "onboard_time": 1714101319,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139144,
+      "num": 139144,
+      "word": "haerin好美",
+      "onboard_time": 1714102459,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 137639,
@@ -931,20 +1059,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129120,
+      "num": 129120,
+      "word": "王一博战损戏",
+      "onboard_time": 1714102939,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128957,
       "num": 195215,
       "word": "李云霄提名白玉兰戏剧奖新人主角奖",
       "onboard_time": 1714057759,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127827,
-      "num": 127827,
-      "word": "五一机票酒店都在咬牙降价",
-      "onboard_time": 1714102218,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125931,
@@ -1187,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68123,
+      "num": 275819,
+      "word": "为什么明星能扛住高清镜头",
+      "onboard_time": 1714101678,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 66005,
       "num": 66005,
       "word": "花蓉结局",
@@ -1347,14 +1483,6 @@
       "category": "国内时政,科学科普"
     },
     {
-      "raw_hot": 20665,
-      "num": 151849,
-      "word": "为什么明星能扛住高清镜头",
-      "onboard_time": 1714101678,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 18346,
       "num": 19874,
       "word": "李彩演Smart Challenge",
@@ -1387,18 +1515,18 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 6897,
-      "num": 607842,
-      "word": "全国网络普法行江苏站",
-      "onboard_time": 1714032319,
+      "raw_hot": 7700,
+      "num": 832155,
+      "word": "文化中国行",
+      "onboard_time": 1713927617,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3260,
-      "num": 808535,
-      "word": "文化中国行",
-      "onboard_time": 1713927617,
+      "raw_hot": 6897,
+      "num": 607842,
+      "word": "全国网络普法行江苏站",
+      "onboard_time": 1714032319,
       "rank": 2,
       "category": "社会新闻"
     }
@@ -1412,6 +1540,9 @@
     },
     {
       "word": "#开创西部大开发新格局#"
+    },
+    {
+      "word": "#新时代推动西部大开发座谈会#"
     }
   ]
 }
