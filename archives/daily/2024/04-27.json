@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714149462365,
+  "endTime": 1714151887064,
   "band_list": [
     {
       "raw_hot": 1356945,
@@ -99,6 +99,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 336810,
+      "num": 336810,
+      "word": "田馥甄回应参加天津音乐节",
+      "onboard_time": 1714149675,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 331796,
       "num": 331796,
       "word": "赵小童 三号房爬进一只小龙虾",
@@ -153,6 +161,14 @@
       "onboard_time": 1714145118,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 221413,
+      "num": 148894,
+      "word": "强制自己早睡的方法找到了",
+      "onboard_time": 1714149497,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 214683,
@@ -211,6 +227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 148705,
+      "num": 148705,
+      "word": "泽泽饭饭 断崖式分手",
+      "onboard_time": 1714148418,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 146954,
       "num": 146954,
       "word": "范伟62岁再夺影帝",
@@ -243,14 +267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 124143,
-      "num": 124143,
-      "word": "泽泽饭饭 断崖式分手",
-      "onboard_time": 1714148418,
-      "rank": 43,
-      "category": "网红"
-    },
-    {
       "raw_hot": 122941,
       "num": 122941,
       "word": "林更新的表盘壁纸",
@@ -267,12 +283,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 111151,
+      "num": 111151,
+      "word": "工作三年和读研三年到底哪个更值",
+      "onboard_time": 1714150335,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110525,
       "num": 109498,
       "word": "邓超 亚比囧囧囧",
       "onboard_time": 1714124119,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109887,
+      "num": 109887,
+      "word": "金莎十年前在中传开过歌友会",
+      "onboard_time": 1714149376,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 109500,
@@ -401,14 +433,6 @@
       "onboard_time": 1714131977,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73322,
-      "num": 73322,
-      "word": "金莎十年前在中传开过歌友会",
-      "onboard_time": 1714149376,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 3763,
