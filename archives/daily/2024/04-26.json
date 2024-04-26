@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714106081900,
+  "endTime": 1714108636538,
   "band_list": [
     {
       "raw_hot": 2869467,
@@ -8,6 +8,14 @@
       "word": "林生斌",
       "onboard_time": 1714095318,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2125519,
+      "num": 604445,
+      "word": "美国男子强奸14岁少女被判物理阉割",
+      "onboard_time": 1714104378,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -19,12 +27,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1720546,
-      "num": 604445,
-      "word": "美国男子强奸14岁少女被判物理阉割",
-      "onboard_time": 1714104378,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 1552957,
+      "num": 484330,
+      "word": "林更新 把你的恶心收一收",
+      "onboard_time": 1714105760,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1468785,
@@ -81,6 +89,14 @@
       "onboard_time": 1714052358,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 855648,
+      "num": 855648,
+      "word": "发如雪绝美",
+      "onboard_time": 1714106000,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 852022,
@@ -171,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 643697,
+      "num": 643697,
+      "word": "五一机票酒店都在咬牙降价",
+      "onboard_time": 1714102218,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 637450,
       "num": 637450,
       "word": "乘风2024首场公演",
@@ -219,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 601354,
+      "num": 470050,
+      "word": "腿粗屁股大的人竟然更长寿",
+      "onboard_time": 1714106839,
+      "rank": 13,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 592652,
       "num": 592652,
       "word": "舒奕橙",
@@ -257,14 +289,6 @@
       "onboard_time": 1714021104,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 500861,
-      "num": 500861,
-      "word": "五一机票酒店都在咬牙降价",
-      "onboard_time": 1714102218,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 498204,
@@ -339,6 +363,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 401815,
+      "num": 401815,
+      "word": "拉塞尔 0分",
+      "onboard_time": 1714105701,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 401234,
+      "num": 401234,
+      "word": "陈昊宇 惊艳",
+      "onboard_time": 1714107621,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 397221,
       "num": 287994,
       "word": "林更新让粉丝别管",
@@ -369,14 +409,6 @@
       "onboard_time": 1714059439,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 364459,
-      "num": 364459,
-      "word": "林更新 把你的恶心收一收",
-      "onboard_time": 1714105760,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 358994,
@@ -491,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302348,
+      "num": 302348,
+      "word": "向太问向佐吴镇宇是逼着你拿鼻孔演戏吗",
+      "onboard_time": 1714107500,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290831,
       "num": 196523,
       "word": "酒后脸红的人易衰老抑郁",
@@ -507,11 +547,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287925,
+      "num": 287925,
+      "word": "关晓彤范丞丞再合作",
+      "onboard_time": 1714107080,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 284785,
+      "num": 284785,
+      "word": "aespa对整个kpop的Drama诅咒",
+      "onboard_time": 1714108100,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284713,
       "num": 284713,
       "word": "孝渊尹普美被扣留巴厘岛",
       "onboard_time": 1714105039,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 276154,
+      "num": 276154,
+      "word": "中国日报发了肖战",
+      "onboard_time": 1714108040,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -539,6 +603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 262565,
+      "num": 262565,
+      "word": "顾昀迟",
+      "onboard_time": 1714107860,
+      "rank": 26,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 261439,
       "num": 261439,
       "word": "66岁女保安被队长性侵后遭辞退",
@@ -553,6 +625,14 @@
       "onboard_time": 1714056559,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252988,
+      "num": 252988,
+      "word": "白鹿拍了穿越短剧",
+      "onboard_time": 1714105701,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 252646,
@@ -585,6 +665,14 @@
       "onboard_time": 1714050919,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241018,
+      "num": 241018,
+      "word": "王嘉尔MV真亲了吗",
+      "onboard_time": 1714107981,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 238144,
@@ -635,6 +723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231666,
+      "num": 231666,
+      "word": "金莎看与凤行看到脸浮肿",
+      "onboard_time": 1714108340,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231048,
       "num": 231048,
       "word": "公司倒闭老板用电脑抵5000工资",
@@ -659,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229370,
+      "num": 229370,
+      "word": "不该 仙品",
+      "onboard_time": 1714108100,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221350,
       "num": 221350,
       "word": "广州天气",
@@ -681,14 +785,6 @@
       "onboard_time": 1714089317,
       "rank": 23,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 212197,
-      "num": 212197,
-      "word": "拉塞尔 0分",
-      "onboard_time": 1714105701,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 210274,
@@ -731,12 +827,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198361,
-      "num": 198361,
-      "word": "白鹿拍了穿越短剧",
-      "onboard_time": 1714105701,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 203930,
+      "num": 203930,
+      "word": "掘金3比0湖人",
+      "onboard_time": 1714107740,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 198312,
@@ -753,6 +849,14 @@
       "onboard_time": 1714092979,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197696,
+      "num": 197696,
+      "word": "湖人掘金剧本复制粘贴",
+      "onboard_time": 1714105459,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 197201,
@@ -787,12 +891,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191624,
+      "num": 191624,
+      "word": "詹姆斯走步了吗",
+      "onboard_time": 1714108100,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190424,
       "num": 182420,
       "word": "湖人内部对浓眉言论失望",
       "onboard_time": 1714100539,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189687,
+      "num": 189687,
+      "word": "张子枫胡先煦新浪扫楼",
+      "onboard_time": 1714107860,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 189536,
@@ -883,12 +1003,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179652,
+      "num": 179652,
+      "word": "陈丽君戏腔",
+      "onboard_time": 1714106601,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179622,
       "num": 179622,
       "word": "惜花芷大结局全员he",
       "onboard_time": 1714104620,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179472,
+      "num": 240109,
+      "word": "我的星穹铁道一周年",
+      "onboard_time": 1714107020,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 176764,
@@ -899,28 +1035,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176028,
-      "num": 176028,
-      "word": "发如雪绝美",
-      "onboard_time": 1714106000,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175150,
       "num": 175150,
       "word": "小叶 小峰",
       "onboard_time": 1714087216,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175132,
-      "num": 175132,
-      "word": "湖人掘金剧本复制粘贴",
-      "onboard_time": 1714105459,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 170755,
@@ -972,7 +1092,7 @@
     },
     {
       "raw_hot": 156576,
-      "num": 361000,
+      "num": 463335,
       "word": "好状态随春醒",
       "onboard_time": 1714104679,
       "rank": 36,
@@ -1244,7 +1364,7 @@
     },
     {
       "raw_hot": 102343,
-      "num": 152540,
+      "num": 383673,
       "word": "王濛成过山车表情判官",
       "onboard_time": 1714105760,
       "rank": 46,
