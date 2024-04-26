@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714116859379,
+  "endTime": 1714119737860,
   "band_list": [
     {
       "raw_hot": 2869467,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441628,
+      "num": 320415,
+      "word": "李彩桦去拍短剧了",
+      "onboard_time": 1714118179,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431385,
       "num": 431385,
       "word": "终于明白旱的旱死涝的涝死",
@@ -659,6 +667,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301143,
+      "num": 301143,
+      "word": "汪苏泷别再唱如果了",
+      "onboard_time": 1714117157,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 293473,
+      "num": 293473,
+      "word": "金昭喜结婚",
+      "onboard_time": 1714116558,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290831,
       "num": 196523,
       "word": "酒后脸红的人易衰老抑郁",
@@ -731,6 +755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 267711,
+      "num": 251443,
+      "word": "林更新鄙人95公斤",
+      "onboard_time": 1714118538,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262565,
       "num": 262565,
       "word": "顾昀迟",
@@ -745,6 +777,14 @@
       "onboard_time": 1714089497,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255543,
+      "num": 183758,
+      "word": "奔跑吧提更",
+      "onboard_time": 1714116558,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 253579,
@@ -785,6 +825,14 @@
       "onboard_time": 1714101199,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 245974,
+      "num": 182776,
+      "word": "布林肯",
+      "onboard_time": 1714118899,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 244781,
@@ -891,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228307,
+      "num": 381030,
+      "word": "中职生用10年逆袭研究生",
+      "onboard_time": 1714115599,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 221350,
       "num": 221350,
       "word": "广州天气",
@@ -913,6 +969,14 @@
       "onboard_time": 1714089317,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 217224,
+      "num": 182189,
+      "word": "babymonster表情管理",
+      "onboard_time": 1714118358,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215157,
@@ -993,6 +1057,14 @@
       "onboard_time": 1714111460,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199409,
+      "num": 181377,
+      "word": "贺峻霖北影节主持",
+      "onboard_time": 1714119319,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 198312,
@@ -1163,6 +1235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184363,
+      "num": 184363,
+      "word": "中国证监会科技监管司司长姚前被查",
+      "onboard_time": 1714118719,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183397,
       "num": 183397,
       "word": "声援巴勒斯坦抗议席卷美国高校",
@@ -1192,6 +1272,14 @@
       "word": "种地吧登中国日报",
       "onboard_time": 1714116739,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180822,
+      "num": 180822,
+      "word": "陈丽君一锤400斤",
+      "onboard_time": 1714117998,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1233,14 +1321,6 @@
       "onboard_time": 1714104620,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178302,
-      "num": 178302,
-      "word": "金昭喜结婚",
-      "onboard_time": 1714116558,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 176764,
@@ -1304,14 +1384,6 @@
       "word": "陈昊宇偷拍陈丽君",
       "onboard_time": 1714116378,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 164892,
-      "num": 164892,
-      "word": "奔跑吧提更",
-      "onboard_time": 1714116558,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1379,6 +1451,14 @@
       "category": "体育,美食"
     },
     {
+      "raw_hot": 154320,
+      "num": 154320,
+      "word": "我的阿勒泰 草原王子",
+      "onboard_time": 1714117819,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153666,
       "num": 153666,
       "word": "男朋友做的五一川西自驾攻略",
@@ -1393,14 +1473,6 @@
       "onboard_time": 1714103358,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152195,
-      "num": 381030,
-      "word": "中职生用10年逆袭研究生",
-      "onboard_time": 1714115599,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 151496,
@@ -1443,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145419,
+      "num": 147594,
+      "word": "其实不是所有人都想放长假",
+      "onboard_time": 1714116797,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144364,
       "num": 144364,
       "word": "B太 青岛海鲜商战",
@@ -1481,6 +1561,22 @@
       "onboard_time": 1714092319,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 136905,
+      "num": 136905,
+      "word": "原神 知妙",
+      "onboard_time": 1714117879,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 136571,
+      "num": 136571,
+      "word": "00后的你会选择生孩子吗",
+      "onboard_time": 1714118358,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 135925,
@@ -1529,6 +1625,14 @@
       "onboard_time": 1714096998,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133371,
+      "num": 133371,
+      "word": "2024年4月国产网络游戏版号公布",
+      "onboard_time": 1714119139,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 132824,
@@ -1667,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118697,
+      "num": 118697,
+      "word": "圣斗士星矢cos",
+      "onboard_time": 1714119139,
+      "rank": 47,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 118320,
       "num": 118320,
       "word": "黄金变现火爆",
@@ -1699,6 +1811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115555,
+      "num": 115555,
+      "word": "突发性学者综合征",
+      "onboard_time": 1714119258,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106070,
       "num": 197610,
       "word": "神十八发射圆满成功",
@@ -1712,14 +1832,6 @@
       "word": "原来我拖延的根本原因是畏难",
       "onboard_time": 1714110798,
       "rank": 48,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 104661,
-      "num": 109597,
-      "word": "其实不是所有人都想放长假",
-      "onboard_time": 1714116797,
-      "rank": 49,
       "category": "情感"
     },
     {
@@ -2083,7 +2195,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 8399,
+      "raw_hot": 10703,
       "num": 942503,
       "word": "文化中国行",
       "onboard_time": 1713927617,
