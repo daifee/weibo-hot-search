@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714115877369,
+  "endTime": 1714116859379,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -740,7 +740,7 @@
     },
     {
       "raw_hot": 1235920,
-      "num": 242756,
+      "num": 247710,
       "word": "常用乳贴会导致乳房下垂吗",
       "onboard_time": 1714110678,
       "rank": 20,
@@ -843,8 +843,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1150343,
-      "num": 1150343,
+      "raw_hot": 1156476,
+      "num": 1156476,
       "word": "歌手2024官宣定档",
       "onboard_time": 1714113438,
       "rank": 47,
@@ -1667,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 820814,
+      "num": 820814,
+      "word": "肖战 Gucci",
+      "onboard_time": 1714115298,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 820141,
       "num": 820141,
       "word": "纽约市长在飞机上被女子怒批",
@@ -2011,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 715320,
+      "num": 246441,
+      "word": "女性最佳绝经期",
+      "onboard_time": 1714113259,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 714998,
       "num": 714998,
       "word": "金价又跌了",
@@ -2251,6 +2267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 677379,
+      "num": 245989,
+      "word": "孩子丢出25.7g金手镯男子捡走当玩具",
+      "onboard_time": 1714111279,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 675078,
       "num": 675078,
       "word": "审判春色寄情人",
@@ -2337,14 +2361,6 @@
       "onboard_time": 1714020142,
       "rank": 13,
       "category": "美食"
-    },
-    {
-      "raw_hot": 663395,
-      "num": 237180,
-      "word": "孩子丢出25.7g金手镯男子捡走当玩具",
-      "onboard_time": 1714111279,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 660289,
@@ -2843,14 +2859,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 581623,
-      "num": 235352,
-      "word": "女性最佳绝经期",
-      "onboard_time": 1714113259,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 579965,
       "num": 371739,
       "word": "叶诗文决定退出200混比赛",
@@ -3296,6 +3304,14 @@
       "word": "天津街头两名交警互殴",
       "onboard_time": 1713796099,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522411,
+      "num": 522411,
+      "word": "85岁退休教师半身不遂儿子移民国外",
+      "onboard_time": 1714113078,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -3865,14 +3881,6 @@
       "onboard_time": 1713711801,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 464981,
-      "num": 464981,
-      "word": "85岁退休教师半身不遂儿子移民国外",
-      "onboard_time": 1714113078,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 464604,
@@ -4489,14 +4497,6 @@
       "onboard_time": 1713759859,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 410356,
-      "num": 410356,
-      "word": "肖战 Gucci",
-      "onboard_time": 1714115298,
-      "rank": 8,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 409511,
@@ -5225,6 +5225,14 @@
       "onboard_time": 1713920838,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 348028,
+      "num": 348028,
+      "word": "尚雯婕何洁 超女不养闲人",
+      "onboard_time": 1714115118,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 347965,
@@ -7315,6 +7323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244268,
+      "num": 244268,
+      "word": "A股",
+      "onboard_time": 1713928458,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 242658,
       "num": 242658,
       "word": "30岁的第一年偷偷考了个研",
@@ -7811,14 +7827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230464,
-      "num": 230464,
-      "word": "A股",
-      "onboard_time": 1713928458,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
       "raw_hot": 230311,
       "num": 230311,
       "word": "张若昀说庆余年五月中旬播",
@@ -8217,14 +8225,6 @@
       "onboard_time": 1714020804,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219413,
-      "num": 219413,
-      "word": "尚雯婕何洁 超女不养闲人",
-      "onboard_time": 1714115118,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 219366,
@@ -9763,6 +9763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 195105,
+      "num": 195105,
+      "word": "芒果2024春季招商会大剧片单",
+      "onboard_time": 1714115719,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194864,
       "num": 194864,
       "word": "理想官方全系降价老车主退现金",
@@ -10611,6 +10619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185559,
+      "num": 295571,
+      "word": "被女排130大长腿震惊到",
+      "onboard_time": 1714114879,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185545,
       "num": 185545,
       "word": "AG时隔1064天重回胜者组",
@@ -10875,6 +10891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181741,
+      "num": 181741,
+      "word": "种地吧登中国日报",
+      "onboard_time": 1714116739,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181596,
       "num": 181596,
       "word": "高德导航小团团语音包留言刷屏",
@@ -11089,6 +11113,14 @@
       "onboard_time": 1713622939,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178302,
+      "num": 178302,
+      "word": "金昭喜结婚",
+      "onboard_time": 1714116558,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 177395,
@@ -11715,6 +11747,14 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 167552,
+      "num": 167552,
+      "word": "陈昊宇偷拍陈丽君",
+      "onboard_time": 1714116378,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167301,
       "num": 167301,
       "word": "seventeen克拉盘",
@@ -11883,6 +11923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164892,
+      "num": 164892,
+      "word": "奔跑吧提更",
+      "onboard_time": 1714116558,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164655,
       "num": 164655,
       "word": "ILLIT 5000分",
@@ -11921,6 +11969,14 @@
       "onboard_time": 1713954620,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163837,
+      "num": 163837,
+      "word": "湖南一鞭炮厂爆炸致3死2伤",
+      "onboard_time": 1714114638,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163813,
@@ -12291,14 +12347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158578,
-      "num": 158578,
-      "word": "湖南一鞭炮厂爆炸致3死2伤",
-      "onboard_time": 1714114638,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158505,
       "num": 158505,
       "word": "哪吒L价格",
@@ -12353,6 +12401,14 @@
       "onboard_time": 1713972260,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157827,
+      "num": 157827,
+      "word": "闵熙珍出道曲 MiniJean",
+      "onboard_time": 1714115539,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 157768,
@@ -12771,6 +12827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152195,
+      "num": 381030,
+      "word": "中职生用10年逆袭研究生",
+      "onboard_time": 1714115599,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 152190,
       "num": 152190,
       "word": "男女方父母一眼就能看出来",
@@ -12841,14 +12905,6 @@
       "onboard_time": 1713853158,
       "rank": 40,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 151201,
-      "num": 246376,
-      "word": "被女排130大长腿震惊到",
-      "onboard_time": 1714114879,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 150869,
@@ -13185,6 +13241,14 @@
       "onboard_time": 1713658156,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 146695,
+      "num": 133339,
+      "word": "张佳宁魏哲鸣吻戏",
+      "onboard_time": 1714116317,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 146377,
@@ -13571,14 +13635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142103,
-      "num": 142103,
-      "word": "芒果2024春季招商会大剧片单",
-      "onboard_time": 1714115719,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141892,
       "num": 141892,
       "word": "闵熙珍说一切都靠自己",
@@ -13657,14 +13713,6 @@
       "onboard_time": 1713874578,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 140976,
-      "num": 140976,
-      "word": "闵熙珍出道曲 MiniJean",
-      "onboard_time": 1714115539,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 140859,
@@ -14017,6 +14065,14 @@
       "onboard_time": 1713784457,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135925,
+      "num": 135925,
+      "word": "斗罗大陆2光之女神预告",
+      "onboard_time": 1714115539,
+      "rank": 49,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 135922,
@@ -14819,6 +14875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125743,
+      "num": 125743,
+      "word": "黄金回收商称跌太快已被套好几十万",
+      "onboard_time": 1714113438,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 125594,
       "num": 125594,
       "word": "一直娱 特典",
@@ -15251,14 +15315,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 117113,
-      "num": 117113,
-      "word": "黄金回收商称跌太快已被套好几十万",
-      "onboard_time": 1714113438,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 116596,
       "num": 116596,
       "word": "赵文琪称美甲不满意可退款重做",
@@ -15563,14 +15619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109763,
-      "num": 109763,
-      "word": "斗罗大陆2光之女神预告",
-      "onboard_time": 1714115539,
-      "rank": 49,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 109627,
       "num": 208071,
       "word": "在书中邂逅春和景明",
@@ -15763,6 +15811,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 104661,
+      "num": 109597,
+      "word": "其实不是所有人都想放长假",
+      "onboard_time": 1714116797,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104624,
       "num": 132952,
       "word": "高盛称A股有望超过4200点",
@@ -15953,14 +16009,6 @@
       "onboard_time": 1714081031,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 98064,
-      "num": 317834,
-      "word": "中职生用10年逆袭研究生",
-      "onboard_time": 1714115599,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 97889,

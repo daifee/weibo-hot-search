@@ -1,0 +1,410 @@
+{
+  "runTime": 1714116859379,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1156476,
+        "num": 1156476,
+        "word": "歌手2024官宣定档",
+        "onboard_time": 1714113438,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 908104,
+        "num": 908104,
+        "word": "淀粉肠 骨泥",
+        "onboard_time": 1714108699,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 8399,
+        "num": 830477,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 820814,
+        "num": 820814,
+        "word": "肖战 Gucci",
+        "onboard_time": 1714115298,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 644462,
+        "num": 644462,
+        "word": "韩企开始清退35岁以上员工",
+        "onboard_time": 1714110678,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766209,
+        "num": 632249,
+        "word": "林生斌",
+        "onboard_time": 1714095318,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522411,
+        "num": 522411,
+        "word": "85岁退休教师半身不遂儿子移民国外",
+        "onboard_time": 1714113078,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441926,
+        "num": 441926,
+        "word": "雷军 车展模特",
+        "onboard_time": 1714108938,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 386287,
+        "num": 386287,
+        "word": "戚薇的眼神不像演的",
+        "onboard_time": 1714110138,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152195,
+        "num": 381030,
+        "word": "中职生用10年逆袭研究生",
+        "onboard_time": 1714115599,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1049250,
+        "num": 374066,
+        "word": "美国男子强奸14岁少女被判物理阉割",
+        "onboard_time": 1714104378,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777636,
+        "num": 368689,
+        "word": "林更新 把你的恶心收一收",
+        "onboard_time": 1714105760,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513290,
+        "num": 360846,
+        "word": "腿粗屁股大的人竟然更长寿",
+        "onboard_time": 1714106839,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 422807,
+        "num": 349821,
+        "word": "单亲妈妈称被都美竹诱骗近20万要求还钱",
+        "onboard_time": 1714111339,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348028,
+        "num": 348028,
+        "word": "尚雯婕何洁 超女不养闲人",
+        "onboard_time": 1714115118,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312070,
+        "num": 312070,
+        "word": "不该 仙品",
+        "onboard_time": 1714108100,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305898,
+        "num": 305898,
+        "word": "五一机票酒店都在咬牙降价",
+        "onboard_time": 1714102218,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 185559,
+        "num": 295571,
+        "word": "被女排130大长腿震惊到",
+        "onboard_time": 1714114879,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292402,
+        "num": 292402,
+        "word": "赵昭仪出演辛芷蕾新剧",
+        "onboard_time": 1714113138,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248781,
+        "num": 248781,
+        "word": "张翰 佛山电翰",
+        "onboard_time": 1714099698,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1149186,
+        "num": 247710,
+        "word": "常用乳贴会导致乳房下垂吗",
+        "onboard_time": 1714110678,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 715320,
+        "num": 246441,
+        "word": "女性最佳绝经期",
+        "onboard_time": 1714113259,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 677379,
+        "num": 245989,
+        "word": "孩子丢出25.7g金手镯男子捡走当玩具",
+        "onboard_time": 1714111279,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244268,
+        "num": 244268,
+        "word": "A股",
+        "onboard_time": 1714112359,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 239108,
+        "num": 239108,
+        "word": "周扬青对韩雪说不要倚老卖老",
+        "onboard_time": 1714091538,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213127,
+        "num": 213127,
+        "word": "王嘉尔MV真亲了吗",
+        "onboard_time": 1714107981,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195105,
+        "num": 195105,
+        "word": "芒果2024春季招商会大剧片单",
+        "onboard_time": 1714115719,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181741,
+        "num": 181741,
+        "word": "种地吧登中国日报",
+        "onboard_time": 1714116739,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178302,
+        "num": 178302,
+        "word": "金昭喜结婚",
+        "onboard_time": 1714116558,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142004,
+        "num": 177745,
+        "word": "丫丫回家一年从yy胖成YY",
+        "onboard_time": 1714095559,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177482,
+        "num": 177482,
+        "word": "被爸爸的通讯录笑死了",
+        "onboard_time": 1714113917,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176607,
+        "num": 176607,
+        "word": "赵乾景 配音圈",
+        "onboard_time": 1714112478,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173497,
+        "num": 173497,
+        "word": "邓超求科普水瓶座",
+        "onboard_time": 1714105520,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167552,
+        "num": 167552,
+        "word": "陈昊宇偷拍陈丽君",
+        "onboard_time": 1714116378,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164892,
+        "num": 164892,
+        "word": "奔跑吧提更",
+        "onboard_time": 1714116558,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163837,
+        "num": 163837,
+        "word": "湖南一鞭炮厂爆炸致3死2伤",
+        "onboard_time": 1714114638,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157827,
+        "num": 157827,
+        "word": "闵熙珍出道曲 MiniJean",
+        "onboard_time": 1714115539,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144665,
+        "num": 144665,
+        "word": "2024MSI",
+        "onboard_time": 1714114699,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153226,
+        "num": 141699,
+        "word": "陈昊宇 惊艳",
+        "onboard_time": 1714107621,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135925,
+        "num": 135925,
+        "word": "斗罗大陆2光之女神预告",
+        "onboard_time": 1714115539,
+        "rank": 39,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 148289,
+        "num": 135706,
+        "word": "孟子义说吴镇宇说话有点听不懂",
+        "onboard_time": 1714114038,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146951,
+        "num": 134261,
+        "word": "陈丽君硬控我",
+        "onboard_time": 1714112840,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146695,
+        "num": 133339,
+        "word": "张佳宁魏哲鸣吻戏",
+        "onboard_time": 1714116317,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131517,
+        "num": 131517,
+        "word": "陈妍希十天爆改失败",
+        "onboard_time": 1714109779,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129925,
+        "num": 129925,
+        "word": "中国日报发了肖战",
+        "onboard_time": 1714108040,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127405,
+        "num": 127405,
+        "word": "向太说吴镇宇拿不了影帝的原因",
+        "onboard_time": 1714109239,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125743,
+        "num": 125743,
+        "word": "黄金回收商称跌太快已被套好几十万",
+        "onboard_time": 1714113438,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118249,
+        "num": 118249,
+        "word": "林生斌要求导演刘信达公开道歉",
+        "onboard_time": 1714102638,
+        "rank": 47,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 110188,
+        "num": 110188,
+        "word": "Gumayusi回应Bin说MSI要虐T1GEN",
+        "onboard_time": 1714110978,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104661,
+        "num": 109597,
+        "word": "其实不是所有人都想放长假",
+        "onboard_time": 1714116797,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代推动西部大开发座谈会#"
+    }
+  }
+}

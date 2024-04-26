@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714115877369,
+  "endTime": 1714116859379,
   "band_list": [
     {
       "raw_hot": 2869467,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1235920,
-      "num": 242756,
+      "num": 247710,
       "word": "常用乳贴会导致乳房下垂吗",
       "onboard_time": 1714110678,
       "rank": 20,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1150343,
-      "num": 1150343,
+      "raw_hot": 1156476,
+      "num": 1156476,
       "word": "歌手2024官宣定档",
       "onboard_time": 1714113438,
       "rank": 47,
@@ -137,6 +137,14 @@
       "onboard_time": 1714089077,
       "rank": 20,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 820814,
+      "num": 820814,
+      "word": "肖战 Gucci",
+      "onboard_time": 1714115298,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 820141,
@@ -211,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 715320,
+      "num": 246441,
+      "word": "女性最佳绝经期",
+      "onboard_time": 1714113259,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 704805,
       "num": 704805,
       "word": "原来调休的反义词是搭桥",
@@ -235,6 +251,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 677379,
+      "num": 245989,
+      "word": "孩子丢出25.7g金手镯男子捡走当玩具",
+      "onboard_time": 1714111279,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 669784,
       "num": 669784,
       "word": "向太没认出来向佐",
@@ -249,14 +273,6 @@
       "onboard_time": 1714110138,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 663395,
-      "num": 237180,
-      "word": "孩子丢出25.7g金手镯男子捡走当玩具",
-      "onboard_time": 1714111279,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 643697,
@@ -331,14 +347,6 @@
       "category": "艺人,动漫"
     },
     {
-      "raw_hot": 581623,
-      "num": 235352,
-      "word": "女性最佳绝经期",
-      "onboard_time": 1714113259,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 572579,
       "num": 572579,
       "word": "武艺 各位老师对不起",
@@ -387,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 522411,
+      "num": 522411,
+      "word": "85岁退休教师半身不遂儿子移民国外",
+      "onboard_time": 1714113078,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498204,
       "num": 498204,
       "word": "张元英耳戴红花",
@@ -427,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 464981,
-      "num": 464981,
-      "word": "85岁退休教师半身不遂儿子移民国外",
-      "onboard_time": 1714113078,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 461703,
       "num": 461703,
       "word": "央媒评网红博流量毫无底线",
@@ -465,14 +473,6 @@
       "onboard_time": 1714101738,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 410356,
-      "num": 410356,
-      "word": "肖战 Gucci",
-      "onboard_time": 1714115298,
-      "rank": 8,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 409511,
@@ -537,6 +537,14 @@
       "onboard_time": 1714075811,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348028,
+      "num": 348028,
+      "word": "尚雯婕何洁 超女不养闲人",
+      "onboard_time": 1714115118,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 344621,
@@ -787,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244268,
+      "num": 244268,
+      "word": "A股",
+      "onboard_time": 1714112359,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 239054,
       "num": 239054,
       "word": "邓超求科普水瓶座",
@@ -867,14 +883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230464,
-      "num": 230464,
-      "word": "A股",
-      "onboard_time": 1714112359,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 230311,
       "num": 230311,
       "word": "张若昀说庆余年五月中旬播",
@@ -905,14 +913,6 @@
       "onboard_time": 1714089317,
       "rank": 23,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 219413,
-      "num": 219413,
-      "word": "尚雯婕何洁 超女不养闲人",
-      "onboard_time": 1714115118,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 215157,
@@ -1043,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195105,
+      "num": 195105,
+      "word": "芒果2024春季招商会大剧片单",
+      "onboard_time": 1714115719,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194742,
       "num": 194742,
       "word": "昆山调查市民反映燃气费致老公被约谈",
@@ -1139,6 +1147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185559,
+      "num": 295571,
+      "word": "被女排130大长腿震惊到",
+      "onboard_time": 1714114879,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184687,
       "num": 184687,
       "word": "被爸爸的通讯录笑死了",
@@ -1169,6 +1185,14 @@
       "onboard_time": 1714029618,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181741,
+      "num": 181741,
+      "word": "种地吧登中国日报",
+      "onboard_time": 1714116739,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 180203,
@@ -1209,6 +1233,14 @@
       "onboard_time": 1714104620,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178302,
+      "num": 178302,
+      "word": "金昭喜结婚",
+      "onboard_time": 1714116558,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 176764,
@@ -1267,6 +1299,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167552,
+      "num": 167552,
+      "word": "陈昊宇偷拍陈丽君",
+      "onboard_time": 1714116378,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164892,
+      "num": 164892,
+      "word": "奔跑吧提更",
+      "onboard_time": 1714116558,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163837,
+      "num": 163837,
+      "word": "湖南一鞭炮厂爆炸致3死2伤",
+      "onboard_time": 1714114638,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163580,
       "num": 163580,
       "word": "主人让猫咪凶一个",
@@ -1299,19 +1355,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 158578,
-      "num": 158578,
-      "word": "湖南一鞭炮厂爆炸致3死2伤",
-      "onboard_time": 1714114638,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158332,
       "num": 195748,
       "word": "ive新歌背景是葫芦娃救爷爷",
       "onboard_time": 1714058659,
       "rank": 27,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 157827,
+      "num": 157827,
+      "word": "闵熙珍出道曲 MiniJean",
+      "onboard_time": 1714115539,
+      "rank": 40,
       "category": "音乐"
     },
     {
@@ -1339,20 +1395,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152195,
+      "num": 381030,
+      "word": "中职生用10年逆袭研究生",
+      "onboard_time": 1714115599,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 151496,
       "num": 195514,
       "word": "王一博被晒出手表印",
       "onboard_time": 1714059378,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 151201,
-      "num": 246376,
-      "word": "被女排130大长腿震惊到",
-      "onboard_time": 1714114879,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 150847,
@@ -1379,28 +1435,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 146695,
+      "num": 133339,
+      "word": "张佳宁魏哲鸣吻戏",
+      "onboard_time": 1714116317,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144364,
       "num": 144364,
       "word": "B太 青岛海鲜商战",
       "onboard_time": 1714095858,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 142103,
-      "num": 142103,
-      "word": "芒果2024春季招商会大剧片单",
-      "onboard_time": 1714115719,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 140976,
-      "num": 140976,
-      "word": "闵熙珍出道曲 MiniJean",
-      "onboard_time": 1714115539,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 139648,
@@ -1433,6 +1481,14 @@
       "onboard_time": 1714092319,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 135925,
+      "num": 135925,
+      "word": "斗罗大陆2光之女神预告",
+      "onboard_time": 1714115539,
+      "rank": 49,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 134455,
@@ -1555,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125743,
+      "num": 125743,
+      "word": "黄金回收商称跌太快已被套好几十万",
+      "onboard_time": 1714113438,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 124822,
       "num": 195689,
       "word": "我是不结婚 不是不交电费",
@@ -1619,14 +1683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117113,
-      "num": 117113,
-      "word": "黄金回收商称跌太快已被套好几十万",
-      "onboard_time": 1714113438,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 116596,
       "num": 116596,
       "word": "赵文琪称美甲不满意可退款重做",
@@ -1643,14 +1699,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 109763,
-      "num": 109763,
-      "word": "斗罗大陆2光之女神预告",
-      "onboard_time": 1714115539,
-      "rank": 49,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 106070,
       "num": 197610,
       "word": "神十八发射圆满成功",
@@ -1664,6 +1712,14 @@
       "word": "原来我拖延的根本原因是畏难",
       "onboard_time": 1714110798,
       "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 104661,
+      "num": 109597,
+      "word": "其实不是所有人都想放长假",
+      "onboard_time": 1714116797,
+      "rank": 49,
       "category": "情感"
     },
     {
@@ -1713,14 +1769,6 @@
       "onboard_time": 1714047018,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98064,
-      "num": 317834,
-      "word": "中职生用10年逆袭研究生",
-      "onboard_time": 1714115599,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 97457,
@@ -2035,7 +2083,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 8300,
+      "raw_hot": 8399,
       "num": 942503,
       "word": "文化中国行",
       "onboard_time": 1713927617,
