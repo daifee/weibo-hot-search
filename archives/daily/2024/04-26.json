@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714105236421,
+  "endTime": 1714106081900,
   "band_list": [
     {
       "raw_hot": 2869467,
@@ -17,6 +17,14 @@
       "onboard_time": 1714091538,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1720546,
+      "num": 604445,
+      "word": "美国男子强奸14岁少女被判物理阉割",
+      "onboard_time": 1714104378,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1468785,
@@ -59,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 959026,
+      "num": 959026,
+      "word": "美国会准备封禁大疆无人机",
+      "onboard_time": 1714102698,
+      "rank": 4,
+      "category": "国外时政,数码"
+    },
+    {
       "raw_hot": 869185,
       "num": 317778,
       "word": "女生被曝遭造黄谣跳楼身亡",
@@ -73,14 +89,6 @@
       "onboard_time": 1714089077,
       "rank": 20,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 824116,
-      "num": 824116,
-      "word": "美国会准备封禁大疆无人机",
-      "onboard_time": 1714102698,
-      "rank": 4,
-      "category": "国外时政,数码"
     },
     {
       "raw_hot": 820141,
@@ -147,12 +155,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 683470,
-      "num": 581176,
-      "word": "美国男子强奸14岁少女被判物理阉割",
-      "onboard_time": 1714104378,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 681369,
+      "num": 681369,
+      "word": "林生斌要求导演刘信达公开道歉",
+      "onboard_time": 1714102638,
+      "rank": 8,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 669784,
@@ -160,6 +168,14 @@
       "word": "向太没认出来向佐",
       "onboard_time": 1714097299,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 637450,
+      "num": 637450,
+      "word": "乘风2024首场公演",
+      "onboard_time": 1714104138,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -187,20 +203,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 613093,
-      "num": 613093,
-      "word": "林生斌要求导演刘信达公开道歉",
-      "onboard_time": 1714102638,
-      "rank": 8,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 605467,
       "num": 320911,
       "word": "Angelababy中性刺猬头",
       "onboard_time": 1714090938,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 601929,
+      "num": 601929,
+      "word": "我的少年时代定档",
+      "onboard_time": 1714103899,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 592652,
@@ -219,14 +235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 569968,
-      "num": 569968,
-      "word": "我的少年时代定档",
-      "onboard_time": 1714103899,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 556328,
       "num": 556328,
       "word": "下一个被淘汰的电子产品是什么",
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 532633,
-      "num": 582780,
+      "num": 605342,
       "word": "谭爷爷你孙女当花局长了",
       "onboard_time": 1714072811,
       "rank": 5,
@@ -249,6 +257,14 @@
       "onboard_time": 1714021104,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 500861,
+      "num": 500861,
+      "word": "五一机票酒店都在咬牙降价",
+      "onboard_time": 1714102218,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 498204,
@@ -315,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 414902,
-      "num": 414902,
-      "word": "乘风2024首场公演",
-      "onboard_time": 1714104138,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 409511,
       "num": 409511,
       "word": "华为高级工程师回应AI消除衣物争议",
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 397221,
-      "num": 275775,
+      "num": 287994,
       "word": "林更新让粉丝别管",
       "onboard_time": 1714101499,
       "rank": 31,
@@ -355,20 +363,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376948,
-      "num": 376948,
-      "word": "五一机票酒店都在咬牙降价",
-      "onboard_time": 1714102218,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 369756,
       "num": 369756,
       "word": "黄景瑜和警校学生掰手腕",
       "onboard_time": 1714059439,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 364459,
+      "num": 364459,
+      "word": "林更新 把你的恶心收一收",
+      "onboard_time": 1714105760,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 358994,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 344621,
-      "num": 275671,
+      "num": 289813,
       "word": "水果中的抗炎高手",
       "onboard_time": 1714100298,
       "rank": 28,
@@ -496,6 +504,14 @@
       "word": "babymonster 抗洪失败",
       "onboard_time": 1714043296,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 284713,
+      "num": 284713,
+      "word": "孝渊尹普美被扣留巴厘岛",
+      "onboard_time": 1714105039,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -667,6 +683,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 212197,
+      "num": 212197,
+      "word": "拉塞尔 0分",
+      "onboard_time": 1714105701,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210274,
       "num": 210274,
       "word": "第一次见把干饭说得这么高级的",
@@ -683,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208243,
+      "num": 208243,
+      "word": "全员加速中谁是大侦探",
+      "onboard_time": 1714105158,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206607,
       "num": 206607,
       "word": "minji预告照",
@@ -697,6 +729,14 @@
       "onboard_time": 1714091418,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198361,
+      "num": 198361,
+      "word": "白鹿拍了穿越短剧",
+      "onboard_time": 1714105701,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 198312,
@@ -721,6 +761,14 @@
       "onboard_time": 1714099037,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196946,
+      "num": 196946,
+      "word": "邓超求科普水瓶座",
+      "onboard_time": 1714105520,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 195933,
@@ -779,6 +827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 187007,
+      "num": 187007,
+      "word": "乘风一公造型",
+      "onboard_time": 1714105340,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183397,
       "num": 183397,
       "word": "声援巴勒斯坦抗议席卷美国高校",
@@ -801,6 +857,14 @@
       "onboard_time": 1714029618,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180203,
+      "num": 180203,
+      "word": "HYBE检举闵熙珍",
+      "onboard_time": 1714104679,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 180126,
@@ -827,12 +891,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177824,
-      "num": 177824,
-      "word": "HYBE检举闵熙珍",
-      "onboard_time": 1714104679,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 176764,
+      "num": 176764,
+      "word": "它居然愿意带两个宝贝",
+      "onboard_time": 1714105760,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176028,
+      "num": 176028,
+      "word": "发如雪绝美",
+      "onboard_time": 1714106000,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 175150,
@@ -841,6 +913,14 @@
       "onboard_time": 1714087216,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175132,
+      "num": 175132,
+      "word": "湖人掘金剧本复制粘贴",
+      "onboard_time": 1714105459,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 170755,
@@ -892,7 +972,7 @@
     },
     {
       "raw_hot": 156576,
-      "num": 156576,
+      "num": 361000,
       "word": "好状态随春醒",
       "onboard_time": 1714104679,
       "rank": 36,
@@ -939,28 +1019,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 146304,
-      "num": 146304,
-      "word": "全员加速中谁是大侦探",
-      "onboard_time": 1714105158,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 144364,
       "num": 144364,
       "word": "B太 青岛海鲜商战",
       "onboard_time": 1714095858,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 141092,
-      "num": 141092,
-      "word": "孝渊尹普美被扣留巴厘岛",
-      "onboard_time": 1714105039,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 139648,
@@ -1179,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102343,
+      "num": 152540,
+      "word": "王濛成过山车表情判官",
+      "onboard_time": 1714105760,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100562,
       "num": 339853,
       "word": "喜茶竟然和飞猪搞起了旅游",
@@ -1316,7 +1388,7 @@
     },
     {
       "raw_hot": 68123,
-      "num": 275819,
+      "num": 294836,
       "word": "为什么明星能扛住高清镜头",
       "onboard_time": 1714101678,
       "rank": 39,
@@ -1515,8 +1587,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 7700,
-      "num": 832155,
+      "raw_hot": 8049,
+      "num": 942503,
       "word": "文化中国行",
       "onboard_time": 1713927617,
       "rank": 2,

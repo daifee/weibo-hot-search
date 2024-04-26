@@ -1,0 +1,410 @@
+{
+  "runTime": 1714106081900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1429971,
+        "num": 1429971,
+        "word": "张翰 佛山电翰",
+        "onboard_time": 1714099698,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 959026,
+        "num": 959026,
+        "word": "美国会准备封禁大疆无人机",
+        "onboard_time": 1714102698,
+        "rank": 1,
+        "category": "国外时政,数码"
+      },
+      {
+        "raw_hot": 8049,
+        "num": 942503,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929536,
+        "num": 929536,
+        "word": "周扬青对韩雪说不要倚老卖老",
+        "onboard_time": 1714091538,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 802835,
+        "num": 802835,
+        "word": "欧豪撩赵昭仪",
+        "onboard_time": 1714100658,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1880143,
+        "num": 781923,
+        "word": "林生斌",
+        "onboard_time": 1714095318,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729779,
+        "num": 729779,
+        "word": "综艺史上第一次这么多人同睡",
+        "onboard_time": 1714101018,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 681369,
+        "num": 681369,
+        "word": "林生斌要求导演刘信达公开道歉",
+        "onboard_time": 1714102638,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 637450,
+        "num": 637450,
+        "word": "乘风2024首场公演",
+        "onboard_time": 1714104138,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178578,
+        "num": 605342,
+        "word": "谭爷爷你孙女当花局长了",
+        "onboard_time": 1714072811,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1720546,
+        "num": 604445,
+        "word": "美国男子强奸14岁少女被判物理阉割",
+        "onboard_time": 1714104378,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601929,
+        "num": 601929,
+        "word": "我的少年时代定档",
+        "onboard_time": 1714103899,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 574826,
+        "num": 574826,
+        "word": "原来调休的反义词是搭桥",
+        "onboard_time": 1714100298,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 500861,
+        "num": 500861,
+        "word": "五一机票酒店都在咬牙降价",
+        "onboard_time": 1714102218,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396335,
+        "num": 396335,
+        "word": "丫丫回家一年从yy胖成YY",
+        "onboard_time": 1714095559,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364459,
+        "num": 364459,
+        "word": "林更新 把你的恶心收一收",
+        "onboard_time": 1714105760,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136719,
+        "num": 361000,
+        "word": "好状态随春醒",
+        "onboard_time": 1714104679,
+        "rank": 16,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 359004,
+        "num": 359004,
+        "word": "短发hanni",
+        "onboard_time": 1714101738,
+        "rank": 17,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 310778,
+        "num": 310778,
+        "word": "华为高级工程师回应AI消除衣物争议",
+        "onboard_time": 1714099637,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 306044,
+        "num": 306044,
+        "word": "韩国人的中国出差感受",
+        "onboard_time": 1714093999,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66206,
+        "num": 294836,
+        "word": "为什么明星能扛住高清镜头",
+        "onboard_time": 1714101678,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 335938,
+        "num": 289813,
+        "word": "水果中的抗炎高手",
+        "onboard_time": 1714100298,
+        "rank": 21,
+        "category": "美食,科学科普"
+      },
+      {
+        "raw_hot": 331978,
+        "num": 287994,
+        "word": "林更新让粉丝别管",
+        "onboard_time": 1714101499,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284713,
+        "num": 284713,
+        "word": "孝渊尹普美被扣留巴厘岛",
+        "onboard_time": 1714105039,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281157,
+        "num": 281157,
+        "word": "下一个被淘汰的电子产品是什么",
+        "onboard_time": 1714090759,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 273562,
+        "num": 273562,
+        "word": "种地吧 收草莓",
+        "onboard_time": 1714098018,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247014,
+        "num": 247014,
+        "word": "得了癌症如果不治疗能活多久",
+        "onboard_time": 1714097597,
+        "rank": 26,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 235012,
+        "num": 235012,
+        "word": "金秀贤痛失本名",
+        "onboard_time": 1714097418,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228254,
+        "num": 228254,
+        "word": "向太没认出来向佐",
+        "onboard_time": 1714097299,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217853,
+        "num": 217853,
+        "word": "早上空腹喝水是好还是不好",
+        "onboard_time": 1714089077,
+        "rank": 29,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 214099,
+        "num": 214099,
+        "word": "公司倒闭老板用电脑抵5000工资",
+        "onboard_time": 1714103417,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212197,
+        "num": 212197,
+        "word": "拉塞尔 0分",
+        "onboard_time": 1714105701,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208243,
+        "num": 208243,
+        "word": "全员加速中谁是大侦探",
+        "onboard_time": 1714105158,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202403,
+        "num": 202403,
+        "word": "导演刘信达被判侵犯林生斌隐私权将上诉",
+        "onboard_time": 1714090337,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 198361,
+        "num": 198361,
+        "word": "白鹿拍了穿越短剧",
+        "onboard_time": 1714105701,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196946,
+        "num": 196946,
+        "word": "邓超求科普水瓶座",
+        "onboard_time": 1714105520,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192230,
+        "num": 192230,
+        "word": "学位法通过",
+        "onboard_time": 1714095798,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187007,
+        "num": 187007,
+        "word": "乘风一公造型",
+        "onboard_time": 1714105340,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186449,
+        "num": 186449,
+        "word": "金靖",
+        "onboard_time": 1714086495,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180203,
+        "num": 180203,
+        "word": "HYBE检举闵熙珍",
+        "onboard_time": 1714104679,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179003,
+        "num": 179003,
+        "word": "惜花芷大结局全员he",
+        "onboard_time": 1714104620,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176764,
+        "num": 176764,
+        "word": "它居然愿意带两个宝贝",
+        "onboard_time": 1714105760,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176028,
+        "num": 176028,
+        "word": "发如雪绝美",
+        "onboard_time": 1714106000,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175132,
+        "num": 175132,
+        "word": "湖人掘金剧本复制粘贴",
+        "onboard_time": 1714105459,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160439,
+        "num": 160439,
+        "word": "河北一学校被曝学生就读4年无学籍",
+        "onboard_time": 1714101078,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154223,
+        "num": 154223,
+        "word": "NewJeans回归新专配置",
+        "onboard_time": 1714101858,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102343,
+        "num": 152540,
+        "word": "王濛成过山车表情判官",
+        "onboard_time": 1714105760,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150985,
+        "num": 150985,
+        "word": "十天之后回到现实",
+        "onboard_time": 1714103358,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146203,
+        "num": 146203,
+        "word": "湖人内部对浓眉言论失望",
+        "onboard_time": 1714100539,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144473,
+        "num": 144473,
+        "word": "掘金vs湖人",
+        "onboard_time": 1714098438,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#开创西部大开发新格局#"
+    }
+  }
+}
