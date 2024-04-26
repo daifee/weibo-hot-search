@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714141000964,
+  "endTime": 1714142052582,
   "band_list": [
     {
       "raw_hot": 2869467,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1090593,
+      "num": 1090593,
+      "word": "芒果又押错宝了吗",
+      "onboard_time": 1714140920,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1062524,
       "num": 1062524,
       "word": "中国女留学生澳大利亚失联在泰国被找到",
@@ -147,20 +155,20 @@
       "category": "国外时政,数码"
     },
     {
+      "raw_hot": 948860,
+      "num": 313380,
+      "word": "28岁女子经常饥一顿饱一顿确诊胃癌",
+      "onboard_time": 1714137978,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 938271,
       "num": 413157,
       "word": "Jennie直播",
       "onboard_time": 1714121836,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 892888,
-      "num": 247867,
-      "word": "28岁女子经常饥一顿饱一顿确诊胃癌",
-      "onboard_time": 1714137978,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 876270,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 845759,
-      "num": 632191,
+      "num": 676736,
       "word": "美国去死宣传册疯传美高校",
       "onboard_time": 1714135938,
       "rank": 11,
@@ -328,6 +336,14 @@
       "word": "原来戚薇是方文山徒弟",
       "onboard_time": 1714124299,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 733404,
+      "num": 733404,
+      "word": "跑男收视率",
+      "onboard_time": 1714140619,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -491,6 +507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 586572,
+      "num": 586572,
+      "word": "教育部要求实施学生欺凌防治专项行动",
+      "onboard_time": 1714140018,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 572579,
       "num": 572579,
       "word": "武艺 各位老师对不起",
@@ -555,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528720,
+      "num": 528720,
+      "word": "范伟62岁再夺影帝",
+      "onboard_time": 1714139179,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 528526,
       "num": 239561,
       "word": "金靖 舒奕橙",
@@ -585,6 +617,14 @@
       "onboard_time": 1714122617,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 506851,
+      "num": 312850,
+      "word": "癌症晚期倾家荡产吃药延长生命值得吗",
+      "onboard_time": 1714138398,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 498204,
@@ -651,28 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 461804,
-      "num": 461804,
-      "word": "范伟62岁再夺影帝",
-      "onboard_time": 1714139179,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 461703,
       "num": 461703,
       "word": "央媒评网红博流量毫无底线",
       "onboard_time": 1714067711,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 453469,
-      "num": 453469,
-      "word": "教育部要求实施学生欺凌防治专项行动",
-      "onboard_time": 1714140018,
-      "rank": 11,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 445658,
@@ -697,6 +721,14 @@
       "onboard_time": 1714118538,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 438932,
+      "num": 438932,
+      "word": "为什么超市里的蓝莓多是125克一盒",
+      "onboard_time": 1714136659,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 431775,
@@ -729,14 +761,6 @@
       "onboard_time": 1714121177,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 425265,
-      "num": 425265,
-      "word": "为什么超市里的蓝莓多是125克一盒",
-      "onboard_time": 1714136659,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 422657,
@@ -801,14 +825,6 @@
       "onboard_time": 1714101499,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 395550,
-      "num": 239557,
-      "word": "癌症晚期倾家荡产吃药延长生命值得吗",
-      "onboard_time": 1714138398,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 394151,
@@ -931,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335985,
+      "num": 335985,
+      "word": "杨紫工作室发文告别麦承欢",
+      "onboard_time": 1714140260,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332976,
       "num": 332976,
       "word": "王毅同布林肯举行会谈",
@@ -1027,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300492,
+      "num": 300492,
+      "word": "辅警杀害新婚妻子被判死缓",
+      "onboard_time": 1714141460,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293473,
       "num": 293473,
       "word": "金昭喜结婚",
@@ -1083,14 +1115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271561,
-      "num": 237474,
-      "word": "跑男收视率",
-      "onboard_time": 1714140619,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 270973,
       "num": 270973,
       "word": "广东暴雨",
@@ -1113,14 +1137,6 @@
       "onboard_time": 1714087216,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 264339,
-      "num": 235444,
-      "word": "杨紫工作室发文告别麦承欢",
-      "onboard_time": 1714140260,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 262565,
@@ -1451,6 +1467,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 218175,
+      "num": 218175,
+      "word": "刘敏涛获白玉兰戏剧奖",
+      "onboard_time": 1714141460,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215157,
       "num": 240109,
       "word": "我的星穹铁道一周年",
@@ -1587,6 +1611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199134,
+      "num": 191541,
+      "word": "山东泰山vs成都蓉城",
+      "onboard_time": 1714141039,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198312,
       "num": 198312,
       "word": "花琴 人生易如反掌",
@@ -1713,6 +1745,14 @@
       "onboard_time": 1714140139,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191912,
+      "num": 191912,
+      "word": "61岁老人接孙女放学掉进下水道被冲走",
+      "onboard_time": 1714141099,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191624,
@@ -1971,14 +2011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179709,
-      "num": 179709,
-      "word": "芒果又押错宝了吗",
-      "onboard_time": 1714140920,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179652,
       "num": 179652,
       "word": "陈丽君戏腔",
@@ -2075,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170468,
+      "num": 170468,
+      "word": "眼泪女王",
+      "onboard_time": 1714141460,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169729,
       "num": 169729,
       "word": "第二十条全网上线",
@@ -2089,6 +2129,14 @@
       "onboard_time": 1714093098,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168575,
+      "num": 168575,
+      "word": "您点的外卖正在由小狗配送中",
+      "onboard_time": 1714138818,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 167552,
@@ -2161,14 +2209,6 @@
       "onboard_time": 1714098438,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160960,
-      "num": 160960,
-      "word": "您点的外卖正在由小狗配送中",
-      "onboard_time": 1714138818,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 159769,
@@ -2256,6 +2296,14 @@
       "word": "十天之后回到现实",
       "onboard_time": 1714103358,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 152417,
+      "num": 152417,
+      "word": "白鹿范丞丞cue杜华",
+      "onboard_time": 1714140799,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -2353,14 +2401,6 @@
       "onboard_time": 1714120277,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147260,
-      "num": 147260,
-      "word": "白鹿范丞丞cue杜华",
-      "onboard_time": 1714140799,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 146695,
@@ -2483,12 +2523,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138014,
+      "num": 138014,
+      "word": "奔跑吧P安全带",
+      "onboard_time": 1714142000,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137639,
       "num": 137639,
       "word": "为什么总想睡个回笼觉",
       "onboard_time": 1714092319,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 137017,
+      "num": 137017,
+      "word": "陈奕迅武汉",
+      "onboard_time": 1714141580,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 136571,
@@ -3332,7 +3388,7 @@
     },
     {
       "raw_hot": 6897,
-      "num": 746868,
+      "num": 802918,
       "word": "全国网络普法行江苏站",
       "onboard_time": 1714032319,
       "rank": 2,

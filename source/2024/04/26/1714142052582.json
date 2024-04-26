@@ -1,0 +1,410 @@
+{
+  "runTime": 1714142052582,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1187515,
+        "num": 1187515,
+        "word": "辛芷蕾拿了白玉兰戏剧奖",
+        "onboard_time": 1714137499,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1090593,
+        "num": 1090593,
+        "word": "芒果又押错宝了吗",
+        "onboard_time": 1714140920,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5274,
+        "num": 802918,
+        "word": "全国网络普法行江苏站",
+        "onboard_time": 1714032319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733404,
+        "num": 733404,
+        "word": "跑男收视率",
+        "onboard_time": 1714140619,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 676736,
+        "num": 676736,
+        "word": "美国去死宣传册疯传美高校",
+        "onboard_time": 1714135938,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 586572,
+        "num": 586572,
+        "word": "教育部要求实施学生欺凌防治专项行动",
+        "onboard_time": 1714140018,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 528720,
+        "num": 528720,
+        "word": "范伟62岁再夺影帝",
+        "onboard_time": 1714139179,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 441634,
+        "num": 441634,
+        "word": "沙溢减肥减早了",
+        "onboard_time": 1714138218,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438932,
+        "num": 438932,
+        "word": "为什么超市里的蓝莓多是125克一盒",
+        "onboard_time": 1714136659,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 129570,
+        "num": 433426,
+        "word": "飞行员训练进化到让我震惊",
+        "onboard_time": 1714137319,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717826,
+        "num": 433003,
+        "word": "韩国教师引诱121名未成年拍不雅视频",
+        "onboard_time": 1714134739,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467250,
+        "num": 432436,
+        "word": "韩国N号房事件再现",
+        "onboard_time": 1714128618,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430542,
+        "num": 430542,
+        "word": "张杰演唱会门口被陌生人送票",
+        "onboard_time": 1714134198,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 391382,
+        "num": 391382,
+        "word": "诛仙2鬼厉陆雪琪月下拉扯",
+        "onboard_time": 1714138818,
+        "rank": 13,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 387919,
+        "num": 387919,
+        "word": "Jennie第一次cha",
+        "onboard_time": 1714135159,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 336053,
+        "num": 336053,
+        "word": "原来戚薇是方文山徒弟",
+        "onboard_time": 1714124299,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335985,
+        "num": 335985,
+        "word": "杨紫工作室发文告别麦承欢",
+        "onboard_time": 1714140260,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261229,
+        "num": 330927,
+        "word": "休想换走我的高铁F座",
+        "onboard_time": 1714122617,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208940,
+        "num": 330053,
+        "word": "江西通报小学生在校坠楼身亡",
+        "onboard_time": 1714131977,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207653,
+        "num": 323992,
+        "word": "美国男子强奸14岁少女被判物理阉割",
+        "onboard_time": 1714104378,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948860,
+        "num": 313380,
+        "word": "28岁女子经常饥一顿饱一顿确诊胃癌",
+        "onboard_time": 1714137978,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506851,
+        "num": 312850,
+        "word": "癌症晚期倾家荡产吃药延长生命值得吗",
+        "onboard_time": 1714138398,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 372827,
+        "num": 303867,
+        "word": "常用乳贴会导致乳房下垂吗",
+        "onboard_time": 1714110678,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 301460,
+        "num": 301460,
+        "word": "戚薇参加浪姐 紧张的是李承铉",
+        "onboard_time": 1714135758,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300492,
+        "num": 300492,
+        "word": "辅警杀害新婚妻子被判死缓",
+        "onboard_time": 1714141460,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288357,
+        "num": 288357,
+        "word": "林更新 把你的恶心收一收",
+        "onboard_time": 1714105760,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 285569,
+        "num": 285569,
+        "word": "恋综 合约情侣",
+        "onboard_time": 1714129157,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262171,
+        "num": 262171,
+        "word": "向太大腿骨断裂",
+        "onboard_time": 1714127958,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218175,
+        "num": 218175,
+        "word": "刘敏涛获白玉兰戏剧奖",
+        "onboard_time": 1714141460,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191912,
+        "num": 191912,
+        "word": "61岁老人接孙女放学掉进下水道被冲走",
+        "onboard_time": 1714141099,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199134,
+        "num": 191541,
+        "word": "山东泰山vs成都蓉城",
+        "onboard_time": 1714141039,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183879,
+        "num": 183879,
+        "word": "肖战全黑穿搭",
+        "onboard_time": 1714132577,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178188,
+        "num": 178188,
+        "word": "厦门教师招聘疑因取消编制无人报考",
+        "onboard_time": 1714126878,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176167,
+        "num": 176167,
+        "word": "白玉兰直播",
+        "onboard_time": 1714129637,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175173,
+        "num": 175173,
+        "word": "为什么职场人喜欢戴智能手表",
+        "onboard_time": 1714134798,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170468,
+        "num": 170468,
+        "word": "眼泪女王",
+        "onboard_time": 1714141460,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168575,
+        "num": 168575,
+        "word": "您点的外卖正在由小狗配送中",
+        "onboard_time": 1714138818,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163585,
+        "num": 163585,
+        "word": "李嘉格 淘汰",
+        "onboard_time": 1714123098,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158769,
+        "num": 158769,
+        "word": "蒋敦豪 内供版蜂蜜",
+        "onboard_time": 1714138880,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155875,
+        "num": 155875,
+        "word": "第二十条全网上线",
+        "onboard_time": 1714139058,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152417,
+        "num": 152417,
+        "word": "白鹿范丞丞cue杜华",
+        "onboard_time": 1714140799,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148119,
+        "num": 148119,
+        "word": "小婉 真实追星迪丽热巴",
+        "onboard_time": 1714128978,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140326,
+        "num": 140326,
+        "word": "邓超 亚比囧囧囧",
+        "onboard_time": 1714124119,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140300,
+        "num": 140300,
+        "word": "贺峻霖主持生图",
+        "onboard_time": 1714139720,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138014,
+        "num": 138014,
+        "word": "奔跑吧P安全带",
+        "onboard_time": 1714142000,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137017,
+        "num": 137017,
+        "word": "陈奕迅武汉",
+        "onboard_time": 1714141580,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128070,
+        "num": 128070,
+        "word": "雷军在北京车展走了近5万步",
+        "onboard_time": 1714137797,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 121909,
+        "num": 121909,
+        "word": "侯森扑点",
+        "onboard_time": 1714140920,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100017,
+        "num": 121351,
+        "word": "赵睿王牌归来",
+        "onboard_time": 1714140920,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98374,
+        "num": 120955,
+        "word": "北京白领在小轿车里住7个月",
+        "onboard_time": 1714139600,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代推动西部大开发座谈会#"
+    }
+  }
+}
