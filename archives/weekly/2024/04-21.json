@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714170906686,
+  "endTime": 1714173494979,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -2859,6 +2859,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 605647,
+      "num": 605647,
+      "word": "没有编制教师岗还有吸引力吗",
+      "onboard_time": 1714168511,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 605637,
       "num": 605637,
       "word": "日本地震",
@@ -4753,6 +4761,14 @@
       "onboard_time": 1713751159,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421534,
+      "num": 421534,
+      "word": "女生晒八年级妹妹价值888元点阵笔",
+      "onboard_time": 1714153094,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421150,
@@ -7011,6 +7027,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 272037,
+      "num": 272037,
+      "word": "刘琳演技 此处无声却震耳欲聋",
+      "onboard_time": 1714153992,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271832,
       "num": 271832,
       "word": "哪吒张勇致歉",
@@ -8155,14 +8179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235926,
-      "num": 122799,
-      "word": "女生晒八年级妹妹价值888元点阵笔",
-      "onboard_time": 1714153094,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235810,
       "num": 235810,
       "word": "大麦 柱子票",
@@ -8625,6 +8641,14 @@
       "onboard_time": 1713687498,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226156,
+      "num": 226156,
+      "word": "发明邓超的人真是个天才",
+      "onboard_time": 1714157532,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 226103,
@@ -11523,14 +11547,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 185620,
-      "num": 185620,
-      "word": "没有编制教师岗还有吸引力吗",
-      "onboard_time": 1714168511,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185574,
       "num": 185574,
       "word": "被陈楚生谭维维合唱硬控住了",
@@ -12105,6 +12121,14 @@
       "onboard_time": 1713968841,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177320,
+      "num": 96280,
+      "word": "为什么睡醒后总是疲惫",
+      "onboard_time": 1714166590,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 177301,
@@ -13379,14 +13403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159251,
-      "num": 63432,
-      "word": "为什么睡醒后总是疲惫",
-      "onboard_time": 1714166590,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 159136,
       "num": 159136,
       "word": "新说唱2024",
@@ -14209,14 +14225,6 @@
       "onboard_time": 1714019900,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149214,
-      "num": 149214,
-      "word": "刘琳演技 此处无声却震耳欲聋",
-      "onboard_time": 1714153992,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 149060,
@@ -16091,6 +16099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127153,
+      "num": 127153,
+      "word": "台湾花莲海域凌晨再发3次地震",
+      "onboard_time": 1714173315,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127146,
       "num": 127146,
       "word": "麦承欢与其内耗不如出手",
@@ -16971,14 +16987,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 111749,
-      "num": 111749,
-      "word": "发明邓超的人真是个天才",
-      "onboard_time": 1714157532,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 111725,
       "num": 111725,
       "word": "爱拍照的人手机相册啥样的",
@@ -17353,6 +17361,14 @@
       "onboard_time": 1713939798,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 103442,
+      "num": 94040,
+      "word": "70后女子坚持跑步9年重返20岁",
+      "onboard_time": 1714147098,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103403,
@@ -17787,12 +17803,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80288,
-      "num": 80288,
-      "word": "70后女子坚持跑步9年重返20岁",
-      "onboard_time": 1714147098,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 80064,
+      "num": 80064,
+      "word": "向佐回应黄子韬替他退圈",
+      "onboard_time": 1714170012,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 78936,
@@ -17801,6 +17817,14 @@
       "onboard_time": 1713954319,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 78563,
+      "num": 78563,
+      "word": "下地干活的头巾突然火成甜妹标配",
+      "onboard_time": 1714171633,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 78004,
@@ -17881,6 +17905,14 @@
       "onboard_time": 1713633137,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 72501,
+      "num": 72501,
+      "word": "睡不着就吃天然的褪黑素",
+      "onboard_time": 1714154833,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 72321,
@@ -18027,12 +18059,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62076,
+      "num": 62076,
+      "word": "618淘宝京东均取消预售机制",
+      "onboard_time": 1714172653,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 62006,
       "num": 1078616,
       "word": "9图了解无障碍阅读",
       "onboard_time": 1713876437,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61807,
+      "num": 61807,
+      "word": "徐冬冬尹子维影子吻",
+      "onboard_time": 1714162931,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 61163,
@@ -18243,6 +18291,14 @@
       "category": "游戏,数码"
     },
     {
+      "raw_hot": 54671,
+      "num": 54671,
+      "word": "南方媳妇到山东吃席400块17个菜",
+      "onboard_time": 1714165871,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 54271,
       "num": 581552,
       "word": "茶百道港交所上市",
@@ -18291,12 +18347,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51469,
-      "num": 51469,
-      "word": "睡不着就吃天然的褪黑素",
-      "onboard_time": 1714154833,
-      "rank": 28,
-      "category": "健康医疗"
+      "raw_hot": 51508,
+      "num": 51508,
+      "word": "苹果加紧与OpenAI谈判",
+      "onboard_time": 1714172954,
+      "rank": 38,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 51101,
@@ -18435,6 +18491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 44034,
+      "num": 44034,
+      "word": "叫人搬家来了个六十多岁的大爷",
+      "onboard_time": 1714168812,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 43099,
       "num": 43099,
       "word": "宋雨琦晒Gigi",
@@ -18465,6 +18529,14 @@
       "onboard_time": 1713675739,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41346,
+      "num": 41346,
+      "word": "朱一龙担任北影节天坛奖评委",
+      "onboard_time": 1714170613,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 41290,
@@ -18505,14 +18577,6 @@
       "onboard_time": 1714008857,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39552,
-      "num": 39552,
-      "word": "南方媳妇到山东吃席400块17个菜",
-      "onboard_time": 1714165871,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 39045,
@@ -18611,14 +18675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33947,
-      "num": 33947,
-      "word": "徐冬冬尹子维影子吻",
-      "onboard_time": 1714162931,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 33917,
       "num": 199211,
       "word": "埃安再造第三个爆款",
@@ -18648,14 +18704,6 @@
       "word": "宋妍霏坐副驾上倒车",
       "onboard_time": 1713946578,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 33028,
-      "num": 33028,
-      "word": "向佐回应黄子韬替他退圈",
-      "onboard_time": 1714170012,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -18721,6 +18769,14 @@
       "onboard_time": 1713823211,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 30322,
+      "num": 68404,
+      "word": "普京称计划5月访华",
+      "onboard_time": 1714161611,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 30171,
@@ -18851,14 +18907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24309,
-      "num": 27375,
-      "word": "叫人搬家来了个六十多岁的大爷",
-      "onboard_time": 1714168812,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 23561,
       "num": 25385,
       "word": "为啥学校食堂番茄炒蛋按荤菜卖",
@@ -18891,28 +18939,12 @@
       "category": "国内时政,科学科普"
     },
     {
-      "raw_hot": 22694,
-      "num": 38924,
-      "word": "普京称计划5月访华",
-      "onboard_time": 1714161611,
-      "rank": 29,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 22120,
       "num": 27366,
       "word": "美国各高校抗议以色列对加沙的战争",
       "onboard_time": 1714164550,
       "rank": 38,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 21956,
-      "num": 27347,
-      "word": "朱一龙担任北影节天坛奖评委",
-      "onboard_time": 1714170613,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 21821,

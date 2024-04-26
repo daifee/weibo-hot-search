@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714170906686,
+  "endTime": 1714173494979,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -12595,6 +12595,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 605647,
+      "num": 605647,
+      "word": "没有编制教师岗还有吸引力吗",
+      "onboard_time": 1714168511,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 605467,
       "num": 320911,
       "word": "Angelababy中性刺猬头",
@@ -20497,6 +20505,14 @@
       "onboard_time": 1713751159,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421534,
+      "num": 421534,
+      "word": "女生晒八年级妹妹价值888元点阵笔",
+      "onboard_time": 1714153094,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421427,
@@ -30859,6 +30875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 272037,
+      "num": 272037,
+      "word": "刘琳演技 此处无声却震耳欲聋",
+      "onboard_time": 1714153992,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271912,
       "num": 271912,
       "word": "王珞丹给陶昕然送麝香",
@@ -35459,14 +35483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235926,
-      "num": 122799,
-      "word": "女生晒八年级妹妹价值888元点阵笔",
-      "onboard_time": 1714153094,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235862,
       "num": 212728,
       "word": "承欢记第11集又气又爽",
@@ -37081,6 +37097,14 @@
       "onboard_time": 1712045958,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 226156,
+      "num": 226156,
+      "word": "发明邓超的人真是个天才",
+      "onboard_time": 1714157532,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 226103,
@@ -48091,14 +48115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185620,
-      "num": 185620,
-      "word": "没有编制教师岗还有吸引力吗",
-      "onboard_time": 1714168511,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185583,
       "num": 185583,
       "word": "秦始皇帝陵何时能发掘",
@@ -50265,6 +50281,14 @@
       "onboard_time": 1713968841,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177320,
+      "num": 96280,
+      "word": "为什么睡醒后总是疲惫",
+      "onboard_time": 1714166590,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 177301,
@@ -55187,14 +55211,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 159251,
-      "num": 63432,
-      "word": "为什么睡醒后总是疲惫",
-      "onboard_time": 1714166590,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 159218,
       "num": 159218,
       "word": "河南卫视我的嫡长台",
@@ -58473,14 +58489,6 @@
       "onboard_time": 1713002419,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 149214,
-      "num": 149214,
-      "word": "刘琳演技 此处无声却震耳欲聋",
-      "onboard_time": 1714153992,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 149199,
@@ -64979,6 +64987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127153,
+      "num": 127153,
+      "word": "台湾花莲海域凌晨再发3次地震",
+      "onboard_time": 1714173315,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127146,
       "num": 127146,
       "word": "麦承欢与其内耗不如出手",
@@ -68227,14 +68243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111749,
-      "num": 111749,
-      "word": "发明邓超的人真是个天才",
-      "onboard_time": 1714157532,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 111725,
       "num": 111725,
       "word": "爱拍照的人手机相册啥样的",
@@ -69401,6 +69409,14 @@
       "onboard_time": 1712395937,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103442,
+      "num": 94040,
+      "word": "70后女子坚持跑步9年重返20岁",
+      "onboard_time": 1714147098,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103403,
@@ -71283,14 +71299,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 80288,
-      "num": 80288,
-      "word": "70后女子坚持跑步9年重返20岁",
-      "onboard_time": 1714147098,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80187,
       "num": 243807,
       "word": "P5X预下载",
@@ -71305,6 +71313,14 @@
       "onboard_time": 1713567854,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80064,
+      "num": 80064,
+      "word": "向佐回应黄子韬替他退圈",
+      "onboard_time": 1714170012,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 79994,
@@ -71353,6 +71369,14 @@
       "onboard_time": 1713569835,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 78563,
+      "num": 78563,
+      "word": "下地干活的头巾突然火成甜妹标配",
+      "onboard_time": 1714171633,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 78405,
@@ -71753,6 +71777,14 @@
       "onboard_time": 1713633137,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 72501,
+      "num": 72501,
+      "word": "睡不着就吃天然的褪黑素",
+      "onboard_time": 1714154833,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 72375,
@@ -72387,12 +72419,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62076,
+      "num": 62076,
+      "word": "618淘宝京东均取消预售机制",
+      "onboard_time": 1714172653,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 62006,
       "num": 1078616,
       "word": "9图了解无障碍阅读",
       "onboard_time": 1713876437,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61807,
+      "num": 61807,
+      "word": "徐冬冬尹子维影子吻",
+      "onboard_time": 1714162931,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 61754,
@@ -72939,6 +72987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 54671,
+      "num": 54671,
+      "word": "南方媳妇到山东吃席400块17个菜",
+      "onboard_time": 1714165871,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 54446,
       "num": 54446,
       "word": "一90后被证监会罚没2.7亿元",
@@ -73187,12 +73243,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51469,
-      "num": 51469,
-      "word": "睡不着就吃天然的褪黑素",
-      "onboard_time": 1714154833,
-      "rank": 28,
-      "category": "健康医疗"
+      "raw_hot": 51508,
+      "num": 51508,
+      "word": "苹果加紧与OpenAI谈判",
+      "onboard_time": 1714172954,
+      "rank": 38,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 51456,
@@ -73659,6 +73715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 44034,
+      "num": 44034,
+      "word": "叫人搬家来了个六十多岁的大爷",
+      "onboard_time": 1714168812,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 43738,
       "num": 886476,
       "word": "国家安全是头等大事不能袖手旁观",
@@ -73785,6 +73849,14 @@
       "onboard_time": 1713675739,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41346,
+      "num": 41346,
+      "word": "朱一龙担任北影节天坛奖评委",
+      "onboard_time": 1714170613,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 41290,
@@ -73944,14 +74016,6 @@
       "word": "方便面真的没有营养吗",
       "onboard_time": 1712525351,
       "rank": 49,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 39552,
-      "num": 39552,
-      "word": "南方媳妇到山东吃席400块17个菜",
-      "onboard_time": 1714165871,
-      "rank": 46,
       "category": "美食"
     },
     {
@@ -74307,14 +74371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33947,
-      "num": 33947,
-      "word": "徐冬冬尹子维影子吻",
-      "onboard_time": 1714162931,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 33917,
       "num": 199211,
       "word": "埃安再造第三个爆款",
@@ -74369,14 +74425,6 @@
       "onboard_time": 1712272575,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33028,
-      "num": 33028,
-      "word": "向佐回应黄子韬替他退圈",
-      "onboard_time": 1714170012,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 32810,
@@ -74553,6 +74601,14 @@
       "onboard_time": 1713823211,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 30322,
+      "num": 68404,
+      "word": "普京称计划5月访华",
+      "onboard_time": 1714161611,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 30171,
@@ -75051,14 +75107,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 24309,
-      "num": 27375,
-      "word": "叫人搬家来了个六十多岁的大爷",
-      "onboard_time": 1714168812,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 24247,
       "num": 281725,
       "word": "淘宝举办家乡时装周",
@@ -75203,14 +75251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22694,
-      "num": 38924,
-      "word": "普京称计划5月访华",
-      "onboard_time": 1714161611,
-      "rank": 29,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 22469,
       "num": 22469,
       "word": "金像奖 黄子华",
@@ -75249,14 +75289,6 @@
       "onboard_time": 1714164550,
       "rank": 38,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 21956,
-      "num": 27347,
-      "word": "朱一龙担任北影节天坛奖评委",
-      "onboard_time": 1714170613,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 21886,
