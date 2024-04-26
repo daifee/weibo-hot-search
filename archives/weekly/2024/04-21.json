@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714108636538,
+  "endTime": 1714109735699,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -403,8 +403,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1552957,
-      "num": 484330,
+      "raw_hot": 1595682,
+      "num": 530411,
       "word": "林更新 把你的恶心收一收",
       "onboard_time": 1714105760,
       "rank": 15,
@@ -1731,6 +1731,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 785912,
+      "num": 525541,
+      "word": "腿粗屁股大的人竟然更长寿",
+      "onboard_time": 1714106839,
+      "rank": 13,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 782626,
       "num": 782626,
       "word": "泰版步步惊心",
@@ -2555,6 +2563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 613888,
+      "num": 613888,
+      "word": "陈昊宇 惊艳",
+      "onboard_time": 1714107621,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 612332,
       "num": 612332,
       "word": "于东来称去年计划挣2000万结果赚了1.4亿",
@@ -2617,14 +2633,6 @@
       "onboard_time": 1714103899,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 601354,
-      "num": 470050,
-      "word": "腿粗屁股大的人竟然更长寿",
-      "onboard_time": 1714106839,
-      "rank": 13,
-      "category": "科学科普"
     },
     {
       "raw_hot": 601241,
@@ -2761,6 +2769,14 @@
       "onboard_time": 1713658457,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 582333,
+      "num": 518096,
+      "word": "淀粉肠 骨泥",
+      "onboard_time": 1714108699,
+      "rank": 15,
+      "category": "科学科普"
     },
     {
       "raw_hot": 581826,
@@ -3011,6 +3027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 548972,
+      "num": 548972,
+      "word": "不该 仙品",
+      "onboard_time": 1714108100,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 546724,
       "num": 396136,
       "word": "赵露思抹胸高定",
@@ -3033,6 +3057,14 @@
       "onboard_time": 1713964878,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 539388,
+      "num": 539388,
+      "word": "王嘉尔MV真亲了吗",
+      "onboard_time": 1714107981,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 539339,
@@ -4483,14 +4515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 401234,
-      "num": 401234,
-      "word": "陈昊宇 惊艳",
-      "onboard_time": 1714107621,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 400172,
       "num": 255289,
       "word": "第一次真正认识聚酯纤维",
@@ -4745,6 +4769,14 @@
       "onboard_time": 1713753438,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382888,
+      "num": 238592,
+      "word": "雷军 车展模特",
+      "onboard_time": 1714108938,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 382002,
@@ -7267,14 +7299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 241018,
-      "num": 241018,
-      "word": "王嘉尔MV真亲了吗",
-      "onboard_time": 1714107981,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 239995,
       "num": 239995,
       "word": "补气血是有顺序的",
@@ -7499,6 +7523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234439,
+      "num": 234439,
+      "word": "金莎看与凤行看到脸浮肿",
+      "onboard_time": 1714108340,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234436,
       "num": 234436,
       "word": "中医建议补气血要按顺序",
@@ -7635,14 +7667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231666,
-      "num": 231666,
-      "word": "金莎看与凤行看到脸浮肿",
-      "onboard_time": 1714108340,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 231352,
       "num": 231352,
       "word": "杨幂回应关雪好凶",
@@ -7737,14 +7761,6 @@
       "onboard_time": 1713708981,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 229370,
-      "num": 229370,
-      "word": "不该 仙品",
-      "onboard_time": 1714108100,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 229355,
@@ -8075,6 +8091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220066,
+      "num": 220066,
+      "word": "邓超求科普水瓶座",
+      "onboard_time": 1714105520,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219667,
       "num": 219667,
       "word": "浙江宣传谈调休",
@@ -8225,6 +8249,14 @@
       "onboard_time": 1713701658,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215157,
+      "num": 240109,
+      "word": "我的星穹铁道一周年",
+      "onboard_time": 1714107020,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 215001,
@@ -9419,14 +9451,6 @@
       "category": "国内时政,科学科普"
     },
     {
-      "raw_hot": 196946,
-      "num": 196946,
-      "word": "邓超求科普水瓶座",
-      "onboard_time": 1714105520,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196893,
       "num": 196893,
       "word": "关雪抽烟",
@@ -10033,6 +10057,14 @@
       "onboard_time": 1713930737,
       "rank": 41,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 189957,
+      "num": 189957,
+      "word": "向太说吴镇宇拿不了影帝的原因",
+      "onboard_time": 1714109239,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 189852,
@@ -10825,14 +10857,6 @@
       "onboard_time": 1713789799,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179472,
-      "num": 240109,
-      "word": "我的星穹铁道一周年",
-      "onboard_time": 1714107020,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 179379,
@@ -14299,6 +14323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128731,
+      "num": 128731,
+      "word": "哈尔滨一九四四 小人物群像",
+      "onboard_time": 1714109659,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128651,
       "num": 128651,
       "word": "特斯拉盘前涨超12%",
@@ -15540,7 +15572,7 @@
     },
     {
       "raw_hot": 102343,
-      "num": 383673,
+      "num": 414946,
       "word": "王濛成过山车表情判官",
       "onboard_time": 1714105760,
       "rank": 46,
@@ -16497,6 +16529,14 @@
       "onboard_time": 1713989350,
       "rank": 43,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 45207,
+      "num": 259238,
+      "word": "户外首选墨镜",
+      "onboard_time": 1714108999,
+      "rank": 26,
+      "category": "时尚"
     },
     {
       "raw_hot": 45027,

@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714108636538,
+  "endTime": 1714109735699,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1843,6 +1843,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1595682,
+      "num": 530411,
+      "word": "林更新 把你的恶心收一收",
+      "onboard_time": 1714105760,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1594363,
       "num": 1594363,
       "word": "福宝",
@@ -1961,14 +1969,6 @@
       "onboard_time": 1712461279,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1552957,
-      "num": 484330,
-      "word": "林更新 把你的恶心收一收",
-      "onboard_time": 1714105760,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1551813,
@@ -8187,6 +8187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 785912,
+      "num": 525541,
+      "word": "腿粗屁股大的人竟然更长寿",
+      "onboard_time": 1714106839,
+      "rank": 13,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 785498,
       "num": 479977,
       "word": "欧弟近况",
@@ -12091,6 +12099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613888,
+      "num": 613888,
+      "word": "陈昊宇 惊艳",
+      "onboard_time": 1714107621,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 613683,
       "num": 613683,
       "word": "卖房让娃退学环游世界的家庭怎么样了",
@@ -12433,14 +12449,6 @@
       "onboard_time": 1712317758,
       "rank": 19,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 601354,
-      "num": 470050,
-      "word": "腿粗屁股大的人竟然更长寿",
-      "onboard_time": 1714106839,
-      "rank": 13,
-      "category": "科学科普"
     },
     {
       "raw_hot": 601241,
@@ -13073,6 +13081,14 @@
       "onboard_time": 1713569956,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582333,
+      "num": 518096,
+      "word": "淀粉肠 骨泥",
+      "onboard_time": 1714108699,
+      "rank": 15,
+      "category": "科学科普"
     },
     {
       "raw_hot": 581955,
@@ -14179,6 +14195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 548972,
+      "num": 548972,
+      "word": "不该 仙品",
+      "onboard_time": 1714108100,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 548856,
       "num": 548856,
       "word": "甘肃天水官方开店卖麻辣烫",
@@ -14473,6 +14497,14 @@
       "onboard_time": 1712667560,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 539388,
+      "num": 539388,
+      "word": "王嘉尔MV真亲了吗",
+      "onboard_time": 1714107981,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 539339,
@@ -20939,14 +20971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 401234,
-      "num": 401234,
-      "word": "陈昊宇 惊艳",
-      "onboard_time": 1714107621,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 400990,
       "num": 400990,
       "word": "校方通报大学教授校内遇交通事故离世",
@@ -22065,6 +22089,14 @@
       "onboard_time": 1712363597,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 382888,
+      "num": 238592,
+      "word": "雷军 车展模特",
+      "onboard_time": 1714108938,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 382720,
@@ -34035,14 +34067,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 241018,
-      "num": 241018,
-      "word": "王嘉尔MV真亲了吗",
-      "onboard_time": 1714107981,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 240858,
       "num": 240858,
       "word": "王嘉尔生日长文",
@@ -34971,6 +34995,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 234439,
+      "num": 234439,
+      "word": "金莎看与凤行看到脸浮肿",
+      "onboard_time": 1714108340,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234436,
       "num": 234436,
       "word": "中医建议补气血要按顺序",
@@ -35459,14 +35491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 231666,
-      "num": 231666,
-      "word": "金莎看与凤行看到脸浮肿",
-      "onboard_time": 1714108340,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 231655,
       "num": 231655,
       "word": "白鹿范丞丞一个腰不好一个脖子长",
@@ -35825,14 +35849,6 @@
       "onboard_time": 1713103759,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 229370,
-      "num": 229370,
-      "word": "不该 仙品",
-      "onboard_time": 1714108100,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 229355,
@@ -37235,6 +37251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220066,
+      "num": 220066,
+      "word": "邓超求科普水瓶座",
+      "onboard_time": 1714105520,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219942,
       "num": 219942,
       "word": "再见爱人 换乘恋爱",
@@ -38033,6 +38057,14 @@
       "onboard_time": 1713328880,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215157,
+      "num": 240109,
+      "word": "我的星穹铁道一周年",
+      "onboard_time": 1714107020,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 215133,
@@ -43083,14 +43115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 196946,
-      "num": 196946,
-      "word": "邓超求科普水瓶座",
-      "onboard_time": 1714105520,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196893,
       "num": 196893,
       "word": "关雪抽烟",
@@ -45497,6 +45521,14 @@
       "onboard_time": 1712591119,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189957,
+      "num": 189957,
+      "word": "向太说吴镇宇拿不了影帝的原因",
+      "onboard_time": 1714109239,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 189952,
@@ -48665,14 +48697,6 @@
       "onboard_time": 1713789799,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179472,
-      "num": 240109,
-      "word": "我的星穹铁道一周年",
-      "onboard_time": 1714107020,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 179413,
@@ -62995,6 +63019,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 128731,
+      "num": 128731,
+      "word": "哈尔滨一九四四 小人物群像",
+      "onboard_time": 1714109659,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128701,
       "num": 128701,
       "word": "周鸿祎被车企大佬宠到眼花缭乱",
@@ -67732,7 +67764,7 @@
     },
     {
       "raw_hot": 102343,
-      "num": 383673,
+      "num": 414946,
       "word": "王濛成过山车表情判官",
       "onboard_time": 1714105760,
       "rank": 46,
@@ -71705,6 +71737,14 @@
       "onboard_time": 1713989350,
       "rank": 43,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 45207,
+      "num": 259238,
+      "word": "户外首选墨镜",
+      "onboard_time": 1714108999,
+      "rank": 26,
+      "category": "时尚"
     },
     {
       "raw_hot": 44932,

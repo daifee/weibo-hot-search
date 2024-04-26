@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714108636538,
+  "endTime": 1714109735699,
   "band_list": [
     {
       "raw_hot": 2869467,
@@ -27,8 +27,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1552957,
-      "num": 484330,
+      "raw_hot": 1595682,
+      "num": 530411,
       "word": "林更新 把你的恶心收一收",
       "onboard_time": 1714105760,
       "rank": 15,
@@ -147,6 +147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 785912,
+      "num": 525541,
+      "word": "腿粗屁股大的人竟然更长寿",
+      "onboard_time": 1714106839,
+      "rank": 13,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 758656,
       "num": 197217,
       "word": "金靖舒奕橙在一起四年多了",
@@ -227,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 613888,
+      "num": 613888,
+      "word": "陈昊宇 惊艳",
+      "onboard_time": 1714107621,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 605467,
       "num": 320911,
       "word": "Angelababy中性刺猬头",
@@ -243,20 +259,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 601354,
-      "num": 470050,
-      "word": "腿粗屁股大的人竟然更长寿",
-      "onboard_time": 1714106839,
-      "rank": 13,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 592652,
       "num": 592652,
       "word": "舒奕橙",
       "onboard_time": 1714086555,
       "rank": 5,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 582333,
+      "num": 518096,
+      "word": "淀粉肠 骨泥",
+      "onboard_time": 1714108699,
+      "rank": 15,
+      "category": "科学科普"
     },
     {
       "raw_hot": 572579,
@@ -273,6 +289,22 @@
       "onboard_time": 1714090759,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 548972,
+      "num": 548972,
+      "word": "不该 仙品",
+      "onboard_time": 1714108100,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 539388,
+      "num": 539388,
+      "word": "王嘉尔MV真亲了吗",
+      "onboard_time": 1714107981,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 532633,
@@ -371,14 +403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 401234,
-      "num": 401234,
-      "word": "陈昊宇 惊艳",
-      "onboard_time": 1714107621,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 397221,
       "num": 287994,
       "word": "林更新让粉丝别管",
@@ -401,6 +425,14 @@
       "onboard_time": 1714093518,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 382888,
+      "num": 238592,
+      "word": "雷军 车展模特",
+      "onboard_time": 1714108938,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 369756,
@@ -667,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241018,
-      "num": 241018,
-      "word": "王嘉尔MV真亲了吗",
-      "onboard_time": 1714107981,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 238144,
       "num": 238144,
       "word": "NewJeans该何去何从",
@@ -689,6 +713,14 @@
       "onboard_time": 1714051997,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 234439,
+      "num": 234439,
+      "word": "金莎看与凤行看到脸浮肿",
+      "onboard_time": 1714108340,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 233418,
@@ -723,14 +755,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 231666,
-      "num": 231666,
-      "word": "金莎看与凤行看到脸浮肿",
-      "onboard_time": 1714108340,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 231048,
       "num": 231048,
       "word": "公司倒闭老板用电脑抵5000工资",
@@ -755,14 +779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229370,
-      "num": 229370,
-      "word": "不该 仙品",
-      "onboard_time": 1714108100,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 221350,
       "num": 221350,
       "word": "广州天气",
@@ -785,6 +801,22 @@
       "onboard_time": 1714089317,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 220066,
+      "num": 220066,
+      "word": "邓超求科普水瓶座",
+      "onboard_time": 1714105520,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 215157,
+      "num": 240109,
+      "word": "我的星穹铁道一周年",
+      "onboard_time": 1714107020,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 210274,
@@ -867,14 +899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196946,
-      "num": 196946,
-      "word": "邓超求科普水瓶座",
-      "onboard_time": 1714105520,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195933,
       "num": 195933,
       "word": "删了吧我有个朋友不太舒服",
@@ -905,6 +929,14 @@
       "onboard_time": 1714100539,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189957,
+      "num": 189957,
+      "word": "向太说吴镇宇拿不了影帝的原因",
+      "onboard_time": 1714109239,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 189687,
@@ -1017,14 +1049,6 @@
       "onboard_time": 1714104620,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179472,
-      "num": 240109,
-      "word": "我的星穹铁道一周年",
-      "onboard_time": 1714107020,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 176764,
@@ -1259,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128731,
+      "num": 128731,
+      "word": "哈尔滨一九四四 小人物群像",
+      "onboard_time": 1714109659,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125931,
       "num": 125931,
       "word": "刘耀文说我这嗓子唱歌太难听了",
@@ -1364,7 +1396,7 @@
     },
     {
       "raw_hot": 102343,
-      "num": 383673,
+      "num": 414946,
       "word": "王濛成过山车表情判官",
       "onboard_time": 1714105760,
       "rank": 46,
@@ -1595,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45207,
+      "num": 259238,
+      "word": "户外首选墨镜",
+      "onboard_time": 1714108999,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 44470,
       "num": 195611,
       "word": "神十八发射现场",
@@ -1707,7 +1747,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 8049,
+      "raw_hot": 8067,
       "num": 942503,
       "word": "文化中国行",
       "onboard_time": 1713927617,
