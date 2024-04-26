@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714124073811,
+  "endTime": 1714126830900,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -1035,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1062524,
+      "num": 1062524,
+      "word": "中国女留学生澳大利亚失联在泰国被找到",
+      "onboard_time": 1714121959,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1048920,
       "num": 1048920,
       "word": "李闽轩称早已决定放弃报考北电",
@@ -1627,6 +1635,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 832245,
+      "num": 832245,
+      "word": "李嘉格 淘汰",
+      "onboard_time": 1714123098,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 832009,
       "num": 404624,
       "word": "虞书欣晒Jennie联名独角兽",
@@ -1883,6 +1899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 760197,
+      "num": 330765,
+      "word": "男友妈妈叫我婚前别买车",
+      "onboard_time": 1714122978,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 756966,
       "num": 756966,
       "word": "杨幂演技",
@@ -1936,14 +1960,6 @@
       "word": "主播卖抗癌化妆品骗老人救命钱被封禁",
       "onboard_time": 1713794120,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 734915,
-      "num": 734915,
-      "word": "中国女留学生澳大利亚失联在泰国被找到",
-      "onboard_time": 1714121959,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2963,6 +2979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 572275,
+      "num": 375813,
+      "word": "原来戚薇是方文山徒弟",
+      "onboard_time": 1714124299,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 572038,
       "num": 572038,
       "word": "莎头 少男的祈祷",
@@ -3193,14 +3217,6 @@
       "onboard_time": 1714023322,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 537544,
-      "num": 537544,
-      "word": "李嘉格 淘汰",
-      "onboard_time": 1714123098,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 536913,
@@ -3915,6 +3931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 466314,
+      "num": 466314,
+      "word": "花少1 真正的穷游",
+      "onboard_time": 1714120757,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 465648,
       "num": 465648,
       "word": "文旅局回应许美静演唱会观众喊退票",
@@ -4147,6 +4171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 445658,
+      "num": 445658,
+      "word": "杨紫李现国色芳华片花",
+      "onboard_time": 1714124659,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 445022,
       "num": 408194,
       "word": "HYBE用宫脇咲良和金采源对打张元英",
@@ -4313,6 +4345,14 @@
       "onboard_time": 1713682337,
       "rank": 22,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 433007,
+      "num": 433007,
+      "word": "休想换走我的高铁F座",
+      "onboard_time": 1714122617,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 432113,
@@ -4537,14 +4577,6 @@
       "onboard_time": 1713687438,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 415061,
-      "num": 415061,
-      "word": "花少1 真正的穷游",
-      "onboard_time": 1714120757,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 413899,
@@ -5595,14 +5627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330765,
-      "num": 330765,
-      "word": "男友妈妈叫我婚前别买车",
-      "onboard_time": 1714122978,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 330380,
       "num": 330380,
       "word": "极限挑战直播",
@@ -5955,6 +5979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305765,
+      "num": 305765,
+      "word": "水龙吟预告",
+      "onboard_time": 1714125378,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305391,
       "num": 240108,
       "word": "新人结婚后要有小家意识",
@@ -6243,6 +6275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 289817,
+      "num": 256830,
+      "word": "五一后提离职还会算工资吗",
+      "onboard_time": 1714122559,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 289202,
       "num": 289202,
       "word": "杨幂又缝裙子了",
@@ -6443,14 +6483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 282392,
-      "num": 407239,
-      "word": "休想换走我的高铁F座",
-      "onboard_time": 1714122617,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 282112,
       "num": 260708,
       "word": "2岁男童疑菜市场接触鱼住进ICU",
@@ -6635,6 +6667,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 272005,
+      "num": 272005,
+      "word": "湖人被横扫",
+      "onboard_time": 1714125857,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271832,
       "num": 271832,
       "word": "哪吒张勇致歉",
@@ -6721,6 +6761,14 @@
       "onboard_time": 1714057818,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268891,
+      "num": 251208,
+      "word": "邓超 亚比囧囧囧",
+      "onboard_time": 1714124119,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 268553,
@@ -7715,6 +7763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235959,
+      "num": 235959,
+      "word": "十个勤天偏偏你们最争气",
+      "onboard_time": 1714126040,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235810,
       "num": 235810,
       "word": "大麦 柱子票",
@@ -7883,14 +7939,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 232662,
-      "num": 232662,
-      "word": "五一后提离职还会算工资吗",
-      "onboard_time": 1714122559,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 232184,
       "num": 249192,
       "word": "掘金20分逆转湖人",
@@ -7984,6 +8032,14 @@
       "word": "李溪芮尚雯婕终于坐一起了",
       "onboard_time": 1713695838,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 230069,
+      "num": 230069,
+      "word": "花少好友记第三站 阵容",
+      "onboard_time": 1714125018,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -10508,7 +10564,7 @@
     },
     {
       "raw_hot": 188809,
-      "num": 250869,
+      "num": 406640,
       "word": "古人看了这场秀不知要作多少诗",
       "onboard_time": 1714123758,
       "rank": 26,
@@ -12235,6 +12291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 163319,
+      "num": 163319,
+      "word": "钟辰乐直播",
+      "onboard_time": 1714125438,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163230,
       "num": 215775,
       "word": "ISFP其实就是一面镜子",
@@ -13171,6 +13235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150802,
+      "num": 150802,
+      "word": "何洁一公反败为胜",
+      "onboard_time": 1714126520,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150796,
       "num": 150796,
       "word": "乒乓球世界杯",
@@ -13305,6 +13377,14 @@
       "onboard_time": 1714019900,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149060,
+      "num": 230768,
+      "word": "今年是中美建交45周年",
+      "onboard_time": 1714124418,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149001,
@@ -13611,6 +13691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145560,
+      "num": 467366,
+      "word": "纽约大学120余人声援巴勒斯坦被拘",
+      "onboard_time": 1714125198,
+      "rank": 2,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 145419,
       "num": 147594,
       "word": "其实不是所有人都想放长假",
@@ -13889,6 +13977,14 @@
       "onboard_time": 1713603678,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141991,
+      "num": 423193,
+      "word": "舟山远洋渔船变身菜鸟驿站",
+      "onboard_time": 1714125977,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141892,
@@ -14611,6 +14707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132885,
+      "num": 132885,
+      "word": "闵熙珍年薪全公司第一",
+      "onboard_time": 1714124358,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132864,
       "num": 132864,
       "word": "圣枪哥加入JDG后胖了26斤",
@@ -14745,6 +14849,14 @@
       "onboard_time": 1713786738,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131420,
+      "num": 131420,
+      "word": "芒果舞美",
+      "onboard_time": 1714126758,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 131366,
@@ -14969,6 +15081,14 @@
       "onboard_time": 1713767658,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128365,
+      "num": 128365,
+      "word": "A股五大突发利好",
+      "onboard_time": 1714126457,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 128237,
@@ -15851,6 +15971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113222,
+      "num": 113222,
+      "word": "2024PEL春决落地南京",
+      "onboard_time": 1714126637,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113174,
       "num": 113174,
       "word": "台湾花莲县连发2次地震",
@@ -15961,6 +16089,14 @@
       "onboard_time": 1714042998,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110500,
+      "num": 110500,
+      "word": "BOA对战RW",
+      "onboard_time": 1714125378,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 110403,
@@ -16121,6 +16257,14 @@
       "onboard_time": 1713698119,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106417,
+      "num": 164203,
+      "word": "比亚迪王传福说方程豹让大家更嗨",
+      "onboard_time": 1714124837,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 105808,
@@ -17793,6 +17937,14 @@
       "onboard_time": 1713645250,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13038,
+      "num": 253982,
+      "word": "豪华纯电SUV天花板来了",
+      "onboard_time": 1714124178,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 13029,

@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714124073811,
+  "endTime": 1714126830900,
   "band_list": [
     {
       "raw_hot": 2869467,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1062524,
+      "num": 1062524,
+      "word": "中国女留学生澳大利亚失联在泰国被找到",
+      "onboard_time": 1714121959,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1034217,
       "num": 1034217,
       "word": "导演刘信达被判侵犯林生斌隐私权将上诉",
@@ -145,6 +153,14 @@
       "onboard_time": 1714089077,
       "rank": 20,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 832245,
+      "num": 832245,
+      "word": "李嘉格 淘汰",
+      "onboard_time": 1714123098,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 832009,
@@ -219,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 760197,
+      "num": 330765,
+      "word": "男友妈妈叫我婚前别买车",
+      "onboard_time": 1714122978,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 758656,
       "num": 197217,
       "word": "金靖舒奕橙在一起四年多了",
@@ -233,14 +257,6 @@
       "onboard_time": 1714057039,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 734915,
-      "num": 734915,
-      "word": "中国女留学生澳大利亚失联在泰国被找到",
-      "onboard_time": 1714121959,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 723401,
@@ -387,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 572275,
+      "num": 375813,
+      "word": "原来戚薇是方文山徒弟",
+      "onboard_time": 1714124299,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 556328,
       "num": 556328,
       "word": "下一个被淘汰的电子产品是什么",
@@ -401,14 +425,6 @@
       "onboard_time": 1714107981,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 537544,
-      "num": 537544,
-      "word": "李嘉格 淘汰",
-      "onboard_time": 1714123098,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 532676,
@@ -491,12 +507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466314,
+      "num": 466314,
+      "word": "花少1 真正的穷游",
+      "onboard_time": 1714120757,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 461703,
       "num": 461703,
       "word": "央媒评网红博流量毫无底线",
       "onboard_time": 1714067711,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445658,
+      "num": 445658,
+      "word": "杨紫李现国色芳华片花",
+      "onboard_time": 1714124659,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 444425,
@@ -513,6 +545,14 @@
       "onboard_time": 1714118538,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 433007,
+      "num": 433007,
+      "word": "休想换走我的高铁F座",
+      "onboard_time": 1714122617,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 431385,
@@ -537,14 +577,6 @@
       "onboard_time": 1714101738,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 415061,
-      "num": 415061,
-      "word": "花少1 真正的穷游",
-      "onboard_time": 1714120757,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 409511,
@@ -683,14 +715,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 330765,
-      "num": 330765,
-      "word": "男友妈妈叫我婚前别买车",
-      "onboard_time": 1714122978,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 326974,
       "num": 326974,
       "word": "易烊千玺起诉餐饮公司侵权",
@@ -747,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305765,
+      "num": 305765,
+      "word": "水龙吟预告",
+      "onboard_time": 1714125378,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303149,
       "num": 303149,
       "word": "江西于都一矿企发生事故致3死2伤",
@@ -787,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289817,
+      "num": 256830,
+      "word": "五一后提离职还会算工资吗",
+      "onboard_time": 1714122559,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 287925,
       "num": 287925,
       "word": "关晓彤范丞丞再合作",
@@ -811,20 +851,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 282392,
-      "num": 407239,
-      "word": "休想换走我的高铁F座",
-      "onboard_time": 1714122617,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 276154,
       "num": 276154,
       "word": "中国日报发了肖战",
       "onboard_time": 1714108040,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272005,
+      "num": 272005,
+      "word": "湖人被横扫",
+      "onboard_time": 1714125857,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 270973,
@@ -849,6 +889,14 @@
       "onboard_time": 1714087216,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 268891,
+      "num": 251208,
+      "word": "邓超 亚比囧囧囧",
+      "onboard_time": 1714124119,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 262565,
@@ -955,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235959,
+      "num": 235959,
+      "word": "十个勤天偏偏你们最争气",
+      "onboard_time": 1714126040,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235102,
       "num": 235102,
       "word": "王一博去了中国人民警察大学",
@@ -995,14 +1051,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 232662,
-      "num": 232662,
-      "word": "五一后提离职还会算工资吗",
-      "onboard_time": 1714122559,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 232094,
       "num": 232094,
       "word": "恋与深空",
@@ -1033,6 +1081,14 @@
       "onboard_time": 1714061597,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230069,
+      "num": 230069,
+      "word": "花少好友记第三站 阵容",
+      "onboard_time": 1714125018,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 228307,
@@ -1300,7 +1356,7 @@
     },
     {
       "raw_hot": 188809,
-      "num": 250869,
+      "num": 406640,
       "word": "古人看了这场秀不知要作多少诗",
       "onboard_time": 1714123758,
       "rank": 26,
@@ -1539,6 +1595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163319,
+      "num": 163319,
+      "word": "钟辰乐直播",
+      "onboard_time": 1714125438,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163162,
       "num": 163162,
       "word": "王嘉尔BIBI合作新歌",
@@ -1667,6 +1731,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150802,
+      "num": 150802,
+      "word": "何洁一公反败为胜",
+      "onboard_time": 1714126520,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149060,
+      "num": 230768,
+      "word": "今年是中美建交45周年",
+      "onboard_time": 1714124418,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 148680,
       "num": 137493,
       "word": "草莓主理人卓沅的格局",
@@ -1699,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145560,
+      "num": 467366,
+      "word": "纽约大学120余人声援巴勒斯坦被拘",
+      "onboard_time": 1714125198,
+      "rank": 2,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 145419,
       "num": 147594,
       "word": "其实不是所有人都想放长假",
@@ -1713,6 +1801,14 @@
       "onboard_time": 1714095858,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 141991,
+      "num": 423193,
+      "word": "舟山远洋渔船变身菜鸟驿站",
+      "onboard_time": 1714125977,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141298,
@@ -1843,12 +1939,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132885,
+      "num": 132885,
+      "word": "闵熙珍年薪全公司第一",
+      "onboard_time": 1714124358,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132824,
       "num": 155159,
       "word": "只有强者才是妈妈真正的孩子",
       "onboard_time": 1714112718,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131420,
+      "num": 131420,
+      "word": "芒果舞美",
+      "onboard_time": 1714126758,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 131366,
@@ -1913,6 +2025,14 @@
       "onboard_time": 1714109659,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128365,
+      "num": 128365,
+      "word": "A股五大突发利好",
+      "onboard_time": 1714126457,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 126857,
@@ -2073,6 +2193,30 @@
       "onboard_time": 1714122918,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113222,
+      "num": 113222,
+      "word": "2024PEL春决落地南京",
+      "onboard_time": 1714126637,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 110500,
+      "num": 110500,
+      "word": "BOA对战RW",
+      "onboard_time": 1714125378,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 106417,
+      "num": 164203,
+      "word": "比亚迪王传福说方程豹让大家更嗨",
+      "onboard_time": 1714124837,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 106070,
@@ -2465,6 +2609,14 @@
       "onboard_time": 1714076831,
       "rank": 29,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 13038,
+      "num": 253982,
+      "word": "豪华纯电SUV天花板来了",
+      "onboard_time": 1714124178,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 13029,
