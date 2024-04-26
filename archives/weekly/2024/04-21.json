@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714162770160,
+  "endTime": 1714163744643,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -18979,20 +18979,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 16328,
+      "num": 22746,
+      "word": "普京称计划5月访华",
+      "onboard_time": 1714161611,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 14892,
       "num": 1120997,
       "word": "中国建造上新又上量竞争力越来越强",
       "onboard_time": 1713670218,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14520,
-      "num": 22746,
-      "word": "普京称计划5月访华",
-      "onboard_time": 1714161611,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 14196,
@@ -19009,6 +19009,14 @@
       "onboard_time": 1713731411,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13808,
+      "num": 16588,
+      "word": "徐冬冬尹子维影子吻",
+      "onboard_time": 1714162931,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 13727,

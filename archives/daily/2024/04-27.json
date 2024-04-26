@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714162770160,
+  "endTime": 1714163744643,
   "band_list": [
     {
       "raw_hot": 1356945,
@@ -531,12 +531,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 14520,
+      "raw_hot": 16328,
       "num": 22746,
       "word": "普京称计划5月访华",
       "onboard_time": 1714161611,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 13808,
+      "num": 16588,
+      "word": "徐冬冬尹子维影子吻",
+      "onboard_time": 1714162931,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 3763,
