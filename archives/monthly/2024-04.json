@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714120526302,
+  "endTime": 1714123142719,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3436,7 +3436,7 @@
     },
     {
       "raw_hot": 1235920,
-      "num": 250132,
+      "num": 339017,
       "word": "常用乳贴会导致乳房下垂吗",
       "onboard_time": 1714110678,
       "rank": 20,
@@ -6329,6 +6329,14 @@
       "onboard_time": 1712138059,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 913651,
+      "num": 349938,
+      "word": "Jennie直播",
+      "onboard_time": 1714121836,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 913406,
@@ -9451,6 +9459,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 723401,
+      "num": 723401,
+      "word": "李彩桦去拍短剧了",
+      "onboard_time": 1714118179,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 722028,
       "num": 472485,
       "word": "乔丹儿子皮蓬前妻开放关系",
@@ -9588,7 +9604,7 @@
     },
     {
       "raw_hot": 715320,
-      "num": 248712,
+      "num": 284625,
       "word": "女性最佳绝经期",
       "onboard_time": 1714113259,
       "rank": 39,
@@ -10500,7 +10516,7 @@
     },
     {
       "raw_hot": 677379,
-      "num": 249771,
+      "num": 315081,
       "word": "孩子丢出25.7g金手镯男子捡走当玩具",
       "onboard_time": 1714111279,
       "rank": 23,
@@ -11673,14 +11689,6 @@
       "onboard_time": 1712900000,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 629171,
-      "num": 629171,
-      "word": "李彩桦去拍短剧了",
-      "onboard_time": 1714118179,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 628835,
@@ -13281,6 +13289,14 @@
       "onboard_time": 1712905578,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578838,
+      "num": 349437,
+      "word": "虞书欣晒Jennie联名独角兽",
+      "onboard_time": 1714122559,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 578526,
@@ -19107,6 +19123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 440612,
+      "num": 349328,
+      "word": "林更新鄙人95公斤",
+      "onboard_time": 1714118538,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440542,
       "num": 440542,
       "word": "刚入职发现同事全要离职",
@@ -19809,6 +19833,14 @@
       "onboard_time": 1713345799,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428371,
+      "num": 349385,
+      "word": "谢娜邀请杨迪今天来家里吃长寿面",
+      "onboard_time": 1714121177,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 428196,
@@ -24099,6 +24131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351019,
+      "num": 351019,
+      "word": "中国女留学生澳大利亚失联在泰国被找到",
+      "onboard_time": 1714121959,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350960,
       "num": 350960,
       "word": "李沁演技",
@@ -24195,12 +24235,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 349557,
+      "num": 349557,
+      "word": "babymonster表情管理",
+      "onboard_time": 1714118358,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 349439,
       "num": 349439,
       "word": "仝卓工作室讨债记",
       "onboard_time": 1712752819,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349306,
+      "num": 349306,
+      "word": "花少1 真正的穷游",
+      "onboard_time": 1714120757,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 349232,
@@ -24713,14 +24769,6 @@
       "onboard_time": 1712036180,
       "rank": 21,
       "category": "教育"
-    },
-    {
-      "raw_hot": 341896,
-      "num": 288402,
-      "word": "林更新鄙人95公斤",
-      "onboard_time": 1714118538,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 341890,
@@ -33371,6 +33419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 247485,
+      "num": 247485,
+      "word": "休想换走我的高铁F座",
+      "onboard_time": 1714122617,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 247428,
       "num": 247428,
       "word": "花间令郡主自杀了",
@@ -35123,14 +35179,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 234577,
-      "num": 234577,
-      "word": "babymonster表情管理",
-      "onboard_time": 1714118358,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 234556,
       "num": 234556,
       "word": "田曦薇倪妮撞衫",
@@ -36203,6 +36251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228189,
+      "num": 228189,
+      "word": "男友妈妈叫我婚前别买车",
+      "onboard_time": 1714122978,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228074,
       "num": 228074,
       "word": "蔚来马麟欢迎雷军来其展台",
@@ -36705,6 +36761,14 @@
       "onboard_time": 1713665537,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225149,
+      "num": 225149,
+      "word": "阿如那别道歉了我们不敢",
+      "onboard_time": 1714120878,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 225087,
@@ -42371,6 +42435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200000,
+      "num": 200000,
+      "word": "五一后提离职还会算工资吗",
+      "onboard_time": 1714122559,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199983,
       "num": 230935,
       "word": "詹姆斯三分又爆了",
@@ -43515,6 +43587,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 196231,
+      "num": 196231,
+      "word": "去HYBE找ZICO拍cha的Jennie",
+      "onboard_time": 1714122437,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196187,
       "num": 196187,
       "word": "宋亚轩P的宋亚轩",
@@ -43969,6 +44049,14 @@
       "onboard_time": 1713452420,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194964,
+      "num": 194964,
+      "word": "煮肘孩子 定向捐精协议",
+      "onboard_time": 1714121477,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 194938,
@@ -53659,6 +53747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161822,
+      "num": 161822,
+      "word": "德克士 深大乒超俱乐部",
+      "onboard_time": 1714120459,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161810,
       "num": 161810,
       "word": "胡锡进称今天大涨得益于国九条",
@@ -55257,6 +55353,14 @@
       "onboard_time": 1713913455,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155705,
+      "num": 155705,
+      "word": "薛之谦厦门站加场",
+      "onboard_time": 1714121777,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 155698,
@@ -61339,6 +61443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136453,
+      "num": 136453,
+      "word": "倪妮神女落泪妆",
+      "onboard_time": 1714121657,
+      "rank": 41,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 136404,
       "num": 789624,
       "word": "今天是第九个全民国家安全教育日",
@@ -62115,6 +62227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133690,
+      "num": 133690,
+      "word": "纽约警方荷枪实弹全面封锁哥大",
+      "onboard_time": 1714122437,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133679,
       "num": 133679,
       "word": "赵岩昊请神请到真库里",
@@ -62257,6 +62377,14 @@
       "onboard_time": 1713740894,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133307,
+      "num": 133307,
+      "word": "一身实习味的我怎敢靠近转正的你",
+      "onboard_time": 1714121119,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 133272,
@@ -65459,6 +65587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120358,
+      "num": 120358,
+      "word": "许美静见面音乐会主办方致歉",
+      "onboard_time": 1714121119,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120342,
       "num": 120342,
       "word": "369表现",
@@ -65785,6 +65921,14 @@
       "onboard_time": 1713321258,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118939,
+      "num": 118939,
+      "word": "翻到了自己的第一条QQ空间",
+      "onboard_time": 1714123038,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 118915,
@@ -66611,6 +66755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114207,
+      "num": 114207,
+      "word": "逆水寒云养猫",
+      "onboard_time": 1714122918,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113937,
       "num": 113937,
       "word": "林更新走哪都不忘做饭",
@@ -67113,6 +67265,14 @@
       "onboard_time": 1712744238,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110617,
+      "num": 110617,
+      "word": "李嘉格 淘汰",
+      "onboard_time": 1714123098,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 110540,
@@ -68443,14 +68603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 100346,
-      "num": 117364,
-      "word": "德克士 深大乒超俱乐部",
-      "onboard_time": 1714120459,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 100217,
       "num": 100217,
       "word": "怀孕前后的变化",
@@ -69225,6 +69377,14 @@
       "onboard_time": 1712100256,
       "rank": 34,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 91731,
+      "num": 349419,
+      "word": "宝马亮马",
+      "onboard_time": 1714120819,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 91665,
@@ -71163,6 +71323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 60172,
+      "num": 514501,
+      "word": "多角度回顾神十八发射震撼瞬间",
+      "onboard_time": 1714120998,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60128,
       "num": 60128,
       "word": "破墓海报",
@@ -72169,6 +72337,14 @@
       "onboard_time": 1712351591,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46373,
+      "num": 199375,
+      "word": "王传福现身小米展台",
+      "onboard_time": 1714121899,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 46120,
