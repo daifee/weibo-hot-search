@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/21 00:21:44 ~ 2024/04/27 03:34:04
+本榜单时间：2024/04/21 00:21:44 ~ 2024/04/27 04:19:30
 </p>
 </blockquote>
 <p>
@@ -13485,6 +13485,12 @@ CFPLS23总决赛（热度：67576）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%98%8E%E9%82%93%E8%B6%85%E7%9A%84%E4%BA%BA%E7%9C%9F%E6%98%AF%E4%B8%AA%E5%A4%A9%E6%89%8D%23" target="weibo">
+发明邓超的人真是个天才（热度：66439）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E6%9C%89%E5%A4%9A%E7%88%B1%E7%8E%A9%E9%9D%92%E6%98%A5%E4%BF%AE%E7%82%BC%E6%89%8B%E5%86%8C%E7%9A%84%E6%A2%97%23" target="weibo">
 内娱有多爱玩青春修炼手册的梗（热度：65614）
 </a>
@@ -13875,12 +13881,6 @@ Z9原来是贼久的意思（热度：50649）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%98%8E%E9%82%93%E8%B6%85%E7%9A%84%E4%BA%BA%E7%9C%9F%E6%98%AF%E4%B8%AA%E5%A4%A9%E6%89%8D%23" target="weibo">
-发明邓超的人真是个天才（热度：39694）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%AA%E5%8A%9B%E5%BB%BA%E8%AE%BE%E4%B8%96%E7%95%8C%E4%B8%80%E6%B5%81%E5%86%9B%E5%8C%BB%E5%A4%A7%E5%AD%A6%23" target="weibo">
 努力建设世界一流军医大学（热度：39045）
 </a>
@@ -14073,6 +14073,12 @@ Z9原来是贼久的意思（热度：50649）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FK%E6%98%AF%E8%B0%81%23" target="weibo">
+小K是谁（热度：25352）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E5%B1%B1%E6%99%BA%E9%A9%BE%E7%89%883%E9%A1%B9%E8%A1%8C%E4%B8%9A%E4%B9%8B%E9%A6%96%E6%9C%89%E5%A4%9A%E7%89%9B%23" target="weibo">
 蓝山智驾版3项行业之首有多牛（热度：25295）
 </a>
@@ -14243,6 +14249,12 @@ HYBE说NewJeans和ILLIT团队不用担心（热度：24673）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BB%BA%E9%80%A0%E4%B8%8A%E6%96%B0%E5%8F%88%E4%B8%8A%E9%87%8F%E7%AB%9E%E4%BA%89%E5%8A%9B%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%BC%BA%23" target="weibo">
 中国建造上新又上量竞争力越来越强（热度：14892）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E8%AE%A1%E5%88%925%E6%9C%88%E8%AE%BF%E5%8D%8E%23" target="weibo">
+普京称计划5月访华（热度：14520）
 </a>
 </li>
 

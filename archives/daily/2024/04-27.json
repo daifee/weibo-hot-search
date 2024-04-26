@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714160044108,
+  "endTime": 1714162770160,
   "band_list": [
     {
       "raw_hot": 1356945,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66439,
+      "num": 43623,
+      "word": "发明邓超的人真是个天才",
+      "onboard_time": 1714157532,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59678,
       "num": 59678,
       "word": "Mpop",
@@ -473,14 +481,6 @@
       "onboard_time": 1714154833,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 39694,
-      "num": 39694,
-      "word": "发明邓超的人真是个天才",
-      "onboard_time": 1714157532,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 32729,
@@ -515,12 +515,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25352,
+      "num": 25352,
+      "word": "小K是谁",
+      "onboard_time": 1714160771,
+      "rank": 24,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 25176,
       "num": 25176,
       "word": "薛之谦演唱会上的小朋友",
       "onboard_time": 1714157052,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 14520,
+      "num": 22746,
+      "word": "普京称计划5月访华",
+      "onboard_time": 1714161611,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 3763,

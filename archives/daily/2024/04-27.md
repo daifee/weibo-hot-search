@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/27 00:23:44 ~ 2024/04/27 03:34:04
+本榜单时间：2024/04/27 00:23:44 ~ 2024/04/27 04:19:30
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ gidle御用化妆师的上妆手法（热度：223574）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%98%8E%E9%82%93%E8%B6%85%E7%9A%84%E4%BA%BA%E7%9C%9F%E6%98%AF%E4%B8%AA%E5%A4%A9%E6%89%8D%23" target="weibo">
+发明邓超的人真是个天才（热度：66439）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Mpop%23" target="weibo">
 Mpop（热度：59678）
 </a>
@@ -365,12 +371,6 @@ Mpop（热度：59678）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E4%B8%8D%E7%9D%80%E5%B0%B1%E5%90%83%E5%A4%A9%E7%84%B6%E7%9A%84%E8%A4%AA%E9%BB%91%E7%B4%A0%23" target="weibo">
 睡不着就吃天然的褪黑素（热度：51469）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%98%8E%E9%82%93%E8%B6%85%E7%9A%84%E4%BA%BA%E7%9C%9F%E6%98%AF%E4%B8%AA%E5%A4%A9%E6%89%8D%23" target="weibo">
-发明邓超的人真是个天才（热度：39694）
 </a>
 </li>
 
@@ -399,8 +399,20 @@ Mpop（热度：59678）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FK%E6%98%AF%E8%B0%81%23" target="weibo">
+小K是谁（热度：25352）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B%23" target="weibo">
 薛之谦演唱会上的小朋友（热度：25176）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E8%AE%A1%E5%88%925%E6%9C%88%E8%AE%BF%E5%8D%8E%23" target="weibo">
+普京称计划5月访华（热度：14520）
 </a>
 </li>
 
