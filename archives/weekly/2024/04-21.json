@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714138462361,
+  "endTime": 1714141000964,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -611,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1386239,
+      "num": 1386239,
+      "word": "辛芷蕾拿了白玉兰戏剧奖",
+      "onboard_time": 1714137499,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1356528,
       "num": 1356528,
       "word": "薛之谦演唱会一个人来的女主发声",
@@ -681,14 +689,6 @@
       "onboard_time": 1713667639,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1297682,
-      "num": 1297682,
-      "word": "辛芷蕾拿了白玉兰戏剧奖",
-      "onboard_time": 1714137499,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 1285126,
@@ -1451,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 892888,
+      "num": 247867,
+      "word": "28岁女子经常饥一顿饱一顿确诊胃癌",
+      "onboard_time": 1714137978,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 887559,
       "num": 754463,
       "word": "彩礼该以女方陪嫁形式返还小家庭吗",
@@ -1625,6 +1633,14 @@
       "onboard_time": 1713953900,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 845759,
+      "num": 632191,
+      "word": "美国去死宣传册疯传美高校",
+      "onboard_time": 1714135938,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 844988,
@@ -2017,14 +2033,6 @@
       "onboard_time": 1713794120,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 732729,
-      "num": 341939,
-      "word": "美国去死宣传册疯传美高校",
-      "onboard_time": 1714135938,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 732699,
@@ -3075,6 +3083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 571919,
+      "num": 571919,
+      "word": "沙溢减肥减早了",
+      "onboard_time": 1714138218,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 570886,
       "num": 570886,
       "word": "莎头",
@@ -3763,6 +3779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 490847,
+      "num": 490847,
+      "word": "诛仙2鬼厉陆雪琪月下拉扯",
+      "onboard_time": 1714138818,
+      "rank": 6,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 489644,
       "num": 489644,
       "word": "萌兰的腿怎么突然变1米9了",
@@ -4099,6 +4123,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 461804,
+      "num": 461804,
+      "word": "范伟62岁再夺影帝",
+      "onboard_time": 1714139179,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 461703,
       "num": 461703,
       "word": "央媒评网红博流量毫无底线",
@@ -4201,6 +4233,14 @@
       "onboard_time": 1713874758,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 453469,
+      "num": 453469,
+      "word": "教育部要求实施学生欺凌防治专项行动",
+      "onboard_time": 1714140018,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 452973,
@@ -4563,6 +4603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 425265,
+      "num": 425265,
+      "word": "为什么超市里的蓝莓多是125克一盒",
+      "onboard_time": 1714136659,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 425126,
       "num": 425126,
       "word": "ive预告",
@@ -4593,6 +4641,14 @@
       "onboard_time": 1713855139,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422657,
+      "num": 422657,
+      "word": "戚薇参加浪姐 紧张的是李承铉",
+      "onboard_time": 1714135758,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 422437,
@@ -4915,6 +4971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 395550,
+      "num": 239557,
+      "word": "癌症晚期倾家荡产吃药延长生命值得吗",
+      "onboard_time": 1714138398,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 395360,
       "num": 395360,
       "word": "杨利伟目送神十八乘组出征",
@@ -4945,14 +5009,6 @@
       "onboard_time": 1714016659,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 394244,
-      "num": 394244,
-      "word": "戚薇参加浪姐 紧张的是李承铉",
-      "onboard_time": 1714135758,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 394151,
@@ -6843,6 +6899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 271561,
+      "num": 237474,
+      "word": "跑男收视率",
+      "onboard_time": 1714140619,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271334,
       "num": 271334,
       "word": "ILLIT第八个一位",
@@ -7043,6 +7107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264339,
+      "num": 235444,
+      "word": "杨紫工作室发文告别麦承欢",
+      "onboard_time": 1714140260,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264087,
       "num": 222838,
       "word": "读研就是在筛选过于较真的人",
@@ -7209,14 +7281,6 @@
       "onboard_time": 1714020201,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 260153,
-      "num": 260153,
-      "word": "为什么超市里的蓝莓多是125克一盒",
-      "onboard_time": 1714136659,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 259717,
@@ -8811,14 +8875,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 216571,
-      "num": 216571,
-      "word": "28岁女子经常饥一顿饱一顿确诊胃癌",
-      "onboard_time": 1714137978,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216020,
       "num": 208433,
       "word": "李梦23分",
@@ -9915,6 +9971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199768,
+      "num": 199768,
+      "word": "蒋敦豪 内供版蜂蜜",
+      "onboard_time": 1714138880,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199593,
       "num": 199593,
       "word": "赵奕欢为假睫毛和美甲道歉",
@@ -10563,6 +10627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192333,
+      "num": 192333,
+      "word": "许凯发长文告别姚志明",
+      "onboard_time": 1714140139,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191925,
       "num": 191925,
       "word": "东北雨姐与张雪峰约饭",
@@ -10665,6 +10737,14 @@
       "onboard_time": 1713855919,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191148,
+      "num": 191148,
+      "word": "贺峻霖主持生图",
+      "onboard_time": 1714139720,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 191044,
@@ -11404,7 +11484,7 @@
     },
     {
       "raw_hot": 183857,
-      "num": 342618,
+      "num": 454390,
       "word": "飞行员训练进化到让我震惊",
       "onboard_time": 1714137319,
       "rank": 47,
@@ -11672,6 +11752,14 @@
       "word": "青春环游记",
       "onboard_time": 1713861078,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179709,
+      "num": 179709,
+      "word": "芒果又押错宝了吗",
+      "onboard_time": 1714140920,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -12043,14 +12131,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 174512,
-      "num": 174512,
-      "word": "沙溢减肥减早了",
-      "onboard_time": 1714138218,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 174467,
       "num": 174467,
       "word": "领克07",
@@ -12267,6 +12347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170861,
+      "num": 170861,
+      "word": "侯森扑点",
+      "onboard_time": 1714140920,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170822,
       "num": 170822,
       "word": "丞磊素颜状态",
@@ -12353,6 +12441,14 @@
       "onboard_time": 1713950959,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169729,
+      "num": 169729,
+      "word": "第二十条全网上线",
+      "onboard_time": 1714139058,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 169669,
@@ -12969,6 +13065,14 @@
       "onboard_time": 1714098438,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160960,
+      "num": 160960,
+      "word": "您点的外卖正在由小狗配送中",
+      "onboard_time": 1714138818,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 160834,
@@ -13819,6 +13923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149264,
+      "num": 149264,
+      "word": "杨天真想签跑男团",
+      "onboard_time": 1714139600,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149251,
       "num": 130437,
       "word": "AG写给一诺的六周年祝福",
@@ -13993,6 +14105,14 @@
       "onboard_time": 1714120277,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147260,
+      "num": 147260,
+      "word": "白鹿范丞丞cue杜华",
+      "onboard_time": 1714140799,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 147198,
@@ -15203,6 +15323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133131,
+      "num": 152791,
+      "word": "雷军在北京车展走了近5万步",
+      "onboard_time": 1714137797,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 133037,
       "num": 133037,
       "word": "高校床帘是卫生问题还是安全问题",
@@ -15513,14 +15641,6 @@
       "onboard_time": 1714102939,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 129059,
-      "num": 129059,
-      "word": "雷军在北京车展走了近5万步",
-      "onboard_time": 1714137797,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 129043,
@@ -16787,12 +16907,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 106913,
-      "num": 118360,
-      "word": "癌症晚期倾家荡产吃药延长生命值得吗",
-      "onboard_time": 1714138398,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 106446,
+      "num": 136344,
+      "word": "阿豆一诺合照",
+      "onboard_time": 1714139238,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 106417,
@@ -16825,6 +16945,14 @@
       "onboard_time": 1713771018,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105575,
+      "num": 135998,
+      "word": "赵睿王牌归来",
+      "onboard_time": 1714140920,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 105208,
@@ -17049,6 +17177,14 @@
       "onboard_time": 1714081031,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 98713,
+      "num": 133961,
+      "word": "北京白领在小轿车里住7个月",
+      "onboard_time": 1714139600,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97889,
