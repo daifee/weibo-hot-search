@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714152847854,
+  "endTime": 1714155761056,
   "band_list": [
     {
       "raw_hot": 1356945,
@@ -147,6 +147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 258778,
+      "num": 258778,
+      "word": "工作三年和读研三年到底哪个更值",
+      "onboard_time": 1714150335,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255972,
       "num": 255972,
       "word": "HYBE否认不宣传newjeans",
@@ -209,14 +217,6 @@
       "onboard_time": 1714143499,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 182509,
-      "num": 182509,
-      "word": "工作三年和读研三年到底哪个更值",
-      "onboard_time": 1714150335,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 165954,
@@ -379,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93430,
+      "num": 93430,
+      "word": "女生晒八年级妹妹价值888元点阵笔",
+      "onboard_time": 1714153094,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92833,
       "num": 92833,
       "word": "李嘉格 淘汰",
@@ -401,6 +409,14 @@
       "onboard_time": 1714146498,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85990,
+      "num": 85990,
+      "word": "刘琳演技 此处无声却震耳欲聋",
+      "onboard_time": 1714153992,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 85894,
@@ -441,6 +457,22 @@
       "onboard_time": 1714152314,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 45519,
+      "num": 48251,
+      "word": "睡不着就吃天然的褪黑素",
+      "onboard_time": 1714154833,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 31373,
+      "num": 33480,
+      "word": "星穹铁道一周年",
+      "onboard_time": 1714155192,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 3763,

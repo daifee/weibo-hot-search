@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714152847854,
+  "endTime": 1714155761056,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -7403,6 +7403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258778,
+      "num": 258778,
+      "word": "工作三年和读研三年到底哪个更值",
+      "onboard_time": 1714150335,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258414,
       "num": 258414,
       "word": "可乐排骨年糕",
@@ -11769,14 +11777,6 @@
       "onboard_time": 1713940758,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182509,
-      "num": 182509,
-      "word": "工作三年和读研三年到底哪个更值",
-      "onboard_time": 1714150335,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 182304,
@@ -17547,6 +17547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 93430,
+      "num": 93430,
+      "word": "女生晒八年级妹妹价值888元点阵笔",
+      "onboard_time": 1714153094,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92647,
       "num": 100954,
       "word": "东方红一号发射54周年",
@@ -17617,6 +17625,14 @@
       "onboard_time": 1713653773,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85990,
+      "num": 85990,
+      "word": "刘琳演技 此处无声却震耳欲聋",
+      "onboard_time": 1714153992,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 85873,
@@ -18363,6 +18379,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 45519,
+      "num": 48251,
+      "word": "睡不着就吃天然的褪黑素",
+      "onboard_time": 1714154833,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 45027,
       "num": 46672,
       "word": "陈泽直播",
@@ -18609,6 +18633,14 @@
       "onboard_time": 1713990612,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 31373,
+      "num": 33480,
+      "word": "星穹铁道一周年",
+      "onboard_time": 1714155192,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 31114,

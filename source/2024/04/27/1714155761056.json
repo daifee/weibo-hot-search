@@ -1,0 +1,410 @@
+{
+  "runTime": 1714155761056,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 311046,
+        "num": 311046,
+        "word": "芒果又押错宝了吗",
+        "onboard_time": 1714140920,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258778,
+        "num": 258778,
+        "word": "工作三年和读研三年到底哪个更值",
+        "onboard_time": 1714150335,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1976,
+        "num": 222203,
+        "word": "全国网络普法行江苏站",
+        "onboard_time": 1714032319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217377,
+        "num": 217377,
+        "word": "田馥甄回应参加天津音乐节",
+        "onboard_time": 1714149675,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213622,
+        "num": 213622,
+        "word": "辅警杀害新婚妻子被判死缓",
+        "onboard_time": 1714141460,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135717,
+        "num": 135717,
+        "word": "28岁女子经常饥一顿饱一顿确诊胃癌",
+        "onboard_time": 1714137978,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132523,
+        "num": 132523,
+        "word": "抗癌东东去世",
+        "onboard_time": 1714145358,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130919,
+        "num": 130919,
+        "word": "奔跑吧P安全带",
+        "onboard_time": 1714142000,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128647,
+        "num": 128647,
+        "word": "泽泽饭饭 断崖式分手",
+        "onboard_time": 1714148418,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 20130,
+        "num": 126149,
+        "word": "飞行员训练进化到让我震惊",
+        "onboard_time": 1714137319,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153836,
+        "num": 125852,
+        "word": "韩国N号房事件再现",
+        "onboard_time": 1714128618,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123655,
+        "num": 123655,
+        "word": "爱情公寓 同一个人不同的角色",
+        "onboard_time": 1714146018,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112973,
+        "num": 112973,
+        "word": "美国去死宣传册疯传美高校",
+        "onboard_time": 1714135938,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 109465,
+        "num": 109465,
+        "word": "61岁老人接孙女放学掉进下水道被冲走",
+        "onboard_time": 1714141099,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99724,
+        "num": 99724,
+        "word": "跑男收视率",
+        "onboard_time": 1714140619,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93430,
+        "num": 93430,
+        "word": "女生晒八年级妹妹价值888元点阵笔",
+        "onboard_time": 1714153094,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93364,
+        "num": 93364,
+        "word": "林更新 把你的恶心收一收",
+        "onboard_time": 1714105760,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91565,
+        "num": 91565,
+        "word": "Jennie第一次cha",
+        "onboard_time": 1714135159,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 85990,
+        "num": 85990,
+        "word": "刘琳演技 此处无声却震耳欲聋",
+        "onboard_time": 1714153992,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85914,
+        "num": 85914,
+        "word": "为什么超市里的蓝莓多是125克一盒",
+        "onboard_time": 1714136659,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168790,
+        "num": 84793,
+        "word": "强制自己早睡的方法找到了",
+        "onboard_time": 1714149497,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 73709,
+        "num": 73709,
+        "word": "辛芷蕾拿了白玉兰戏剧奖",
+        "onboard_time": 1714137499,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66645,
+        "num": 66645,
+        "word": "哈尔滨一九四四 活到年底都算喜丧",
+        "onboard_time": 1714146318,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65422,
+        "num": 65422,
+        "word": "陈昊宇陈丽君长得好像",
+        "onboard_time": 1714142959,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49407,
+        "num": 49407,
+        "word": "常用乳贴会导致乳房下垂吗",
+        "onboard_time": 1714110678,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 54353,
+        "num": 49287,
+        "word": "Mpop",
+        "onboard_time": 1714152314,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 49041,
+        "num": 49041,
+        "word": "邓超 亚比囧囧囧",
+        "onboard_time": 1714124119,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48332,
+        "num": 48332,
+        "word": "恋综 合约情侣",
+        "onboard_time": 1714129157,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45519,
+        "num": 48251,
+        "word": "睡不着就吃天然的褪黑素",
+        "onboard_time": 1714154833,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21636,
+        "num": 48188,
+        "word": "教育部要求实施学生欺凌防治专项行动",
+        "onboard_time": 1714140018,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 48175,
+        "num": 48175,
+        "word": "HYBE否认不宣传newjeans",
+        "onboard_time": 1714130119,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46775,
+        "num": 46775,
+        "word": "李庚希录节目进去23出来24",
+        "onboard_time": 1714147519,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39512,
+        "num": 39512,
+        "word": "70后女子坚持跑步9年重返20岁",
+        "onboard_time": 1714147098,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46009,
+        "num": 39029,
+        "word": "庞博10天瘦了7斤",
+        "onboard_time": 1714145539,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38208,
+        "num": 38208,
+        "word": "癌症晚期倾家荡产吃药延长生命值得吗",
+        "onboard_time": 1714138398,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41282,
+        "num": 38179,
+        "word": "赵小童 三号房爬进一只小龙虾",
+        "onboard_time": 1714143079,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38119,
+        "num": 38119,
+        "word": "走路时膝盖突然软一下咋回事",
+        "onboard_time": 1714143499,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37968,
+        "num": 37968,
+        "word": "金莎十年前在中传开过歌友会",
+        "onboard_time": 1714149376,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35192,
+        "num": 35192,
+        "word": "为什么职场人喜欢戴智能手表",
+        "onboard_time": 1714134798,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 34208,
+        "num": 34208,
+        "word": "李嘉格 淘汰",
+        "onboard_time": 1714123098,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33896,
+        "num": 33896,
+        "word": "张杰演唱会门口被陌生人送票",
+        "onboard_time": 1714134198,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33894,
+        "num": 33894,
+        "word": "gidle御用化妆师的上妆手法",
+        "onboard_time": 1714145118,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 33578,
+        "num": 33578,
+        "word": "李溪芮女团范儿",
+        "onboard_time": 1714146439,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31373,
+        "num": 33480,
+        "word": "星穹铁道一周年",
+        "onboard_time": 1714155192,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33457,
+        "num": 33457,
+        "word": "向太大腿骨断裂",
+        "onboard_time": 1714127958,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32688,
+        "num": 33332,
+        "word": "范伟62岁再夺影帝",
+        "onboard_time": 1714139179,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33252,
+        "num": 33252,
+        "word": "美国男子强奸14岁少女被判物理阉割",
+        "onboard_time": 1714104378,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31683,
+        "num": 33250,
+        "word": "韩国教师引诱121名未成年拍不雅视频",
+        "onboard_time": 1714134739,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28712,
+        "num": 33235,
+        "word": "江西通报小学生在校坠楼身亡",
+        "onboard_time": 1714131977,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28298,
+        "num": 33215,
+        "word": "诛仙2鬼厉陆雪琪月下拉扯",
+        "onboard_time": 1714138818,
+        "rank": 49,
+        "category": "动漫,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见布林肯#"
+    }
+  }
+}
