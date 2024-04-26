@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714112687884,
+  "endTime": 1714113480328,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -6715,6 +6715,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 876270,
+      "num": 876270,
+      "word": "韩企开始清退35岁以上员工",
+      "onboard_time": 1714110678,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 876023,
       "num": 566137,
       "word": "蔡徐坤ins",
@@ -8683,6 +8691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 760278,
+      "num": 202756,
+      "word": "常用乳贴会导致乳房下垂吗",
+      "onboard_time": 1714110678,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 760052,
       "num": 760052,
       "word": "伊朗发射防空导弹",
@@ -9803,14 +9819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 704585,
-      "num": 704585,
-      "word": "韩企开始清退35岁以上员工",
-      "onboard_time": 1714110678,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 704307,
       "num": 704307,
       "word": "TES被偷家",
@@ -9969,6 +9977,14 @@
       "onboard_time": 1712500041,
       "rank": 48,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 695696,
+      "num": 695696,
+      "word": "雷军 车展模特",
+      "onboard_time": 1714108938,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 695664,
@@ -10409,14 +10425,6 @@
       "onboard_time": 1713794481,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 680168,
-      "num": 680168,
-      "word": "雷军 车展模特",
-      "onboard_time": 1714108938,
-      "rank": 31,
-      "category": "汽车"
     },
     {
       "raw_hot": 680001,
@@ -12857,14 +12865,6 @@
       "onboard_time": 1712405718,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 590633,
-      "num": 197731,
-      "word": "常用乳贴会导致乳房下垂吗",
-      "onboard_time": 1714110678,
-      "rank": 20,
-      "category": "科学科普"
     },
     {
       "raw_hot": 590514,
@@ -18859,6 +18859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444425,
+      "num": 196830,
+      "word": "陈妍希十天爆改失败",
+      "onboard_time": 1714109779,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 444205,
       "num": 444205,
       "word": "老人敞开自家古宅供免费参观被爹味说教",
@@ -18889,6 +18897,14 @@
       "onboard_time": 1712242400,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 443524,
+      "num": 195780,
+      "word": "孩子丢出25.7g金手镯男子捡走当玩具",
+      "onboard_time": 1714111279,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443368,
@@ -20433,14 +20449,6 @@
       "onboard_time": 1712186355,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 413530,
-      "num": 193722,
-      "word": "陈妍希十天爆改失败",
-      "onboard_time": 1714109779,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 413441,
@@ -23385,14 +23393,6 @@
       "onboard_time": 1713488718,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 360624,
-      "num": 191710,
-      "word": "孩子丢出25.7g金手镯男子捡走当玩具",
-      "onboard_time": 1714111279,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 360421,
@@ -34435,6 +34435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239054,
+      "num": 239054,
+      "word": "邓超求科普水瓶座",
+      "onboard_time": 1714105520,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239046,
       "num": 203157,
       "word": "阴阳师维权信息",
@@ -37299,14 +37307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220066,
-      "num": 220066,
-      "word": "邓超求科普水瓶座",
-      "onboard_time": 1714105520,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219942,
       "num": 219942,
       "word": "再见爱人 换乘恋爱",
@@ -40123,6 +40123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206546,
+      "num": 192880,
+      "word": "赵乾景 配音圈",
+      "onboard_time": 1714112478,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206512,
       "num": 206512,
       "word": "爱奇艺综艺",
@@ -41049,6 +41057,14 @@
       "onboard_time": 1713617778,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203516,
+      "num": 203516,
+      "word": "苹果否认非洲供应链使用血矿",
+      "onboard_time": 1714111698,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 203505,
@@ -45475,14 +45491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 190174,
-      "num": 190174,
-      "word": "苹果否认非洲供应链使用血矿",
-      "onboard_time": 1714111698,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 190172,
       "num": 190172,
       "word": "狼队第五人格",
@@ -49587,6 +49595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176237,
+      "num": 165486,
+      "word": "陈丽君硬控我",
+      "onboard_time": 1714112840,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176176,
       "num": 176176,
       "word": "eight在seventeen",
@@ -52979,6 +52995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163162,
+      "num": 163162,
+      "word": "王嘉尔BIBI合作新歌",
+      "onboard_time": 1714112359,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 163141,
       "num": 163141,
       "word": "陈晓对接回应近期争议",
@@ -53721,6 +53745,14 @@
       "onboard_time": 1712840359,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160262,
+      "num": 160262,
+      "word": "赵昭仪出演辛芷蕾新剧",
+      "onboard_time": 1714113138,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 160247,
@@ -55883,14 +55915,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 153068,
-      "num": 153068,
-      "word": "赵乾景 配音圈",
-      "onboard_time": 1714112478,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 153063,
       "num": 153063,
       "word": "网易或将获得不限于暴雪IP的手游研运机会",
@@ -56177,6 +56201,14 @@
       "onboard_time": 1711970840,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 152279,
+      "num": 164247,
+      "word": "85岁退休教师半身不遂儿子移民国外",
+      "onboard_time": 1714113078,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152207,
@@ -57404,7 +57436,7 @@
     },
     {
       "raw_hot": 148680,
-      "num": 123725,
+      "num": 137493,
       "word": "草莓主理人卓沅的格局",
       "onboard_time": 1714112159,
       "rank": 41,
@@ -57889,14 +57921,6 @@
       "onboard_time": 1713184698,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147242,
-      "num": 123849,
-      "word": "王嘉尔BIBI合作新歌",
-      "onboard_time": 1714112359,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 147198,
@@ -62099,6 +62123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132824,
+      "num": 155159,
+      "word": "只有强者才是妈妈真正的孩子",
+      "onboard_time": 1714112718,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132809,
       "num": 132809,
       "word": "防晒衣紫外线阻隔率可达99%",
@@ -62363,6 +62395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131858,
+      "num": 154939,
+      "word": "女性最佳绝经期",
+      "onboard_time": 1714113259,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 131853,
       "num": 131853,
       "word": "打工人的二八定律",
@@ -62561,6 +62601,14 @@
       "onboard_time": 1713264378,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131221,
+      "num": 131221,
+      "word": "田晓慧她逃他追我嗑",
+      "onboard_time": 1714113259,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 131158,
@@ -65763,6 +65811,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 117154,
+      "num": 117154,
+      "word": "歌手2024官宣定档",
+      "onboard_time": 1714113438,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117126,
       "num": 117126,
       "word": "杨幂一顿火锅首映礼出发",
@@ -68089,6 +68145,14 @@
       "onboard_time": 1714100419,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 100497,
+      "num": 100497,
+      "word": "黄金回收商称跌太快已被套好几十万",
+      "onboard_time": 1714113438,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 100389,

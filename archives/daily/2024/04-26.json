@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714112687884,
+  "endTime": 1714113480328,
   "band_list": [
     {
       "raw_hot": 2869467,
@@ -91,6 +91,14 @@
       "category": "国外时政,数码"
     },
     {
+      "raw_hot": 876270,
+      "num": 876270,
+      "word": "韩企开始清退35岁以上员工",
+      "onboard_time": 1714110678,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 869185,
       "num": 317778,
       "word": "女生被曝遭造黄谣跳楼身亡",
@@ -171,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 760278,
+      "num": 202756,
+      "word": "常用乳贴会导致乳房下垂吗",
+      "onboard_time": 1714110678,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 758656,
       "num": 197217,
       "word": "金靖舒奕橙在一起四年多了",
@@ -195,12 +211,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 704585,
-      "num": 704585,
-      "word": "韩企开始清退35岁以上员工",
-      "onboard_time": 1714110678,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 695696,
+      "num": 695696,
+      "word": "雷军 车展模特",
+      "onboard_time": 1714108938,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 681369,
@@ -209,14 +225,6 @@
       "onboard_time": 1714102638,
       "rank": 8,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 680168,
-      "num": 680168,
-      "word": "雷军 车展模特",
-      "onboard_time": 1714108938,
-      "rank": 31,
-      "category": "汽车"
     },
     {
       "raw_hot": 669784,
@@ -305,14 +313,6 @@
       "onboard_time": 1714086555,
       "rank": 5,
       "category": "艺人,动漫"
-    },
-    {
-      "raw_hot": 590633,
-      "num": 197731,
-      "word": "常用乳贴会导致乳房下垂吗",
-      "onboard_time": 1714110678,
-      "rank": 20,
-      "category": "科学科普"
     },
     {
       "raw_hot": 572579,
@@ -411,6 +411,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444425,
+      "num": 196830,
+      "word": "陈妍希十天爆改失败",
+      "onboard_time": 1714109779,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 443524,
+      "num": 195780,
+      "word": "孩子丢出25.7g金手镯男子捡走当玩具",
+      "onboard_time": 1714111279,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431385,
       "num": 431385,
       "word": "终于明白旱的旱死涝的涝死",
@@ -425,14 +441,6 @@
       "onboard_time": 1714101738,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 413530,
-      "num": 193722,
-      "word": "陈妍希十天爆改失败",
-      "onboard_time": 1714109779,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 409511,
@@ -481,14 +489,6 @@
       "onboard_time": 1714059439,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 360624,
-      "num": 191710,
-      "word": "孩子丢出25.7g金手镯男子捡走当玩具",
-      "onboard_time": 1714111279,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 358994,
@@ -747,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239054,
+      "num": 239054,
+      "word": "邓超求科普水瓶座",
+      "onboard_time": 1714105520,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238144,
       "num": 238144,
       "word": "NewJeans该何去何从",
@@ -851,14 +859,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 220066,
-      "num": 220066,
-      "word": "邓超求科普水瓶座",
-      "onboard_time": 1714105520,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215157,
       "num": 240109,
       "word": "我的星穹铁道一周年",
@@ -899,6 +899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206546,
+      "num": 192880,
+      "word": "赵乾景 配音圈",
+      "onboard_time": 1714112478,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204552,
       "num": 204552,
       "word": "面试二十分钟效应",
@@ -913,6 +921,14 @@
       "onboard_time": 1714107740,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203516,
+      "num": 203516,
+      "word": "苹果否认非洲供应链使用血矿",
+      "onboard_time": 1714111698,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 201795,
@@ -971,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193963,
+      "num": 193963,
+      "word": "A股",
+      "onboard_time": 1714112359,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 191624,
       "num": 191624,
       "word": "詹姆斯走步了吗",
@@ -993,14 +1017,6 @@
       "onboard_time": 1714100539,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190174,
-      "num": 190174,
-      "word": "苹果否认非洲供应链使用血矿",
-      "onboard_time": 1714111698,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 189957,
@@ -1139,6 +1155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176237,
+      "num": 165486,
+      "word": "陈丽君硬控我",
+      "onboard_time": 1714112840,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175150,
       "num": 175150,
       "word": "小叶 小峰",
@@ -1179,12 +1203,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163162,
+      "num": 163162,
+      "word": "王嘉尔BIBI合作新歌",
+      "onboard_time": 1714112359,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160990,
       "num": 160990,
       "word": "掘金vs湖人",
       "onboard_time": 1714098438,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160262,
+      "num": 160262,
+      "word": "赵昭仪出演辛芷蕾新剧",
+      "onboard_time": 1714113138,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 159769,
@@ -1219,20 +1259,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 153068,
-      "num": 153068,
-      "word": "赵乾景 配音圈",
-      "onboard_time": 1714112478,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 152577,
       "num": 152577,
       "word": "十天之后回到现实",
       "onboard_time": 1714103358,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152279,
+      "num": 164247,
+      "word": "85岁退休教师半身不遂儿子移民国外",
+      "onboard_time": 1714113078,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151496,
@@ -1252,7 +1292,7 @@
     },
     {
       "raw_hot": 148680,
-      "num": 123725,
+      "num": 137493,
       "word": "草莓主理人卓沅的格局",
       "onboard_time": 1714112159,
       "rank": 41,
@@ -1265,14 +1305,6 @@
       "onboard_time": 1714039758,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 147242,
-      "num": 123849,
-      "word": "王嘉尔BIBI合作新歌",
-      "onboard_time": 1714112359,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 144364,
@@ -1347,14 +1379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133544,
-      "num": 133544,
-      "word": "A股",
-      "onboard_time": 1714112359,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 133526,
       "num": 133526,
       "word": "严浩翔人生第一次三天不洗澡",
@@ -1363,12 +1387,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132824,
+      "num": 155159,
+      "word": "只有强者才是妈妈真正的孩子",
+      "onboard_time": 1714112718,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 131858,
+      "num": 154939,
+      "word": "女性最佳绝经期",
+      "onboard_time": 1714113259,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 131366,
       "num": 131366,
       "word": "恩比德50分",
       "onboard_time": 1714101259,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131221,
+      "num": 131221,
+      "word": "田晓慧她逃他追我嗑",
+      "onboard_time": 1714113259,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 129528,
@@ -1483,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117154,
+      "num": 117154,
+      "word": "歌手2024官宣定档",
+      "onboard_time": 1714113438,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116596,
       "num": 116596,
       "word": "赵文琪称美甲不满意可退款重做",
@@ -1545,6 +1601,14 @@
       "onboard_time": 1714057638,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100497,
+      "num": 100497,
+      "word": "黄金回收商称跌太快已被套好几十万",
+      "onboard_time": 1714113438,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 98880,
