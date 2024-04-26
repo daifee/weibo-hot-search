@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714088144416,
+  "endTime": 1714094096000,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -953,6 +953,14 @@
       "onboard_time": 1711890498,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1982879,
+      "num": 1982879,
+      "word": "周扬青对韩雪说不要倚老卖老",
+      "onboard_time": 1714091538,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1980394,
@@ -3832,6 +3840,14 @@
       "word": "开钟点房的到底是些什么人",
       "onboard_time": 1712077573,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1165831,
+      "num": 1165831,
+      "word": "考不上公务员的年轻人挤破头进居委会",
+      "onboard_time": 1714086134,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -6995,6 +7011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 852022,
+      "num": 208330,
+      "word": "早上空腹喝水是好还是不好",
+      "onboard_time": 1714089077,
+      "rank": 20,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 851935,
       "num": 640470,
       "word": "9岁坠楼男孩生前最后5分钟发呆徘徊",
@@ -7145,6 +7169,14 @@
       "onboard_time": 1713712101,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 839424,
+      "num": 839424,
+      "word": "导演刘信达被判侵犯林生斌隐私权将上诉",
+      "onboard_time": 1714090337,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 838492,
@@ -8873,6 +8905,14 @@
       "onboard_time": 1713927376,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 739756,
+      "num": 739756,
+      "word": "纽约市长在飞机上被女子怒批",
+      "onboard_time": 1714091778,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 739668,
@@ -12155,6 +12195,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 605467,
+      "num": 320911,
+      "word": "Angelababy中性刺猬头",
+      "onboard_time": 1714090938,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 604966,
       "num": 604966,
       "word": "因为口癖是宝贝社死了",
@@ -13985,6 +14033,14 @@
       "onboard_time": 1712314099,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548527,
+      "num": 548527,
+      "word": "下一个被淘汰的电子产品是什么",
+      "onboard_time": 1714090759,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 547918,
@@ -17099,14 +17155,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 473858,
-      "num": 146105,
-      "word": "考不上公务员的年轻人挤破头进居委会",
-      "onboard_time": 1714086134,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 473770,
       "num": 428834,
       "word": "白鹿看到粉丝凌晨接机的反应",
@@ -17289,6 +17337,14 @@
       "onboard_time": 1713743356,
       "rank": 13,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 470281,
+      "num": 470281,
+      "word": "深圳天气",
+      "onboard_time": 1713832340,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470038,
@@ -18665,14 +18721,6 @@
       "onboard_time": 1712885058,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 442060,
-      "num": 442060,
-      "word": "深圳天气",
-      "onboard_time": 1713832340,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 442057,
@@ -23507,6 +23555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 353111,
+      "num": 315811,
+      "word": "哥斯拉金刚为金靖送祝福",
+      "onboard_time": 1714090879,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353093,
       "num": 353093,
       "word": "TF三代出道战嘉宾或为TFBOYS",
@@ -24393,6 +24449,14 @@
       "onboard_time": 1712121980,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340525,
+      "num": 340525,
+      "word": "韩国男足无缘巴黎奥运会",
+      "onboard_time": 1714092498,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 340511,
@@ -25515,6 +25579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 322725,
+      "num": 322725,
+      "word": "那么大的熊熊那么小的jiojio",
+      "onboard_time": 1714088416,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322614,
       "num": 322614,
       "word": "哈尔滨通报索菲亚广场火灾事故",
@@ -26459,6 +26531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309874,
+      "num": 309874,
+      "word": "闵熙珍 hybe",
+      "onboard_time": 1714090519,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309627,
       "num": 252999,
       "word": "爸爸去世前的搜索记录",
@@ -27033,6 +27113,14 @@
       "onboard_time": 1713869178,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 303149,
+      "num": 303149,
+      "word": "江西于都一矿企发生事故致3死2伤",
+      "onboard_time": 1714092678,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302879,
@@ -30147,6 +30235,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 269117,
+      "num": 269117,
+      "word": "中国6名航天员在太空拍合影",
+      "onboard_time": 1714087216,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 269027,
       "num": 269027,
       "word": "周深十周年巡演官宣四城",
@@ -32553,6 +32649,14 @@
       "onboard_time": 1712200458,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 248670,
+      "num": 207390,
+      "word": "66岁女保安被队长性侵后遭辞退",
+      "onboard_time": 1714089497,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248609,
@@ -36515,14 +36619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 221394,
-      "num": 221394,
-      "word": "中国6名航天员在太空拍合影",
-      "onboard_time": 1714087216,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 221388,
       "num": 221388,
       "word": "音律联觉",
@@ -36617,6 +36713,14 @@
       "onboard_time": 1711932561,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 220797,
+      "num": 206729,
+      "word": "米饭勺上的小颗粒是干什么用的",
+      "onboard_time": 1714089317,
+      "rank": 23,
+      "category": "科学科普"
     },
     {
       "raw_hot": 220727,
@@ -39643,6 +39747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206110,
+      "num": 206110,
+      "word": "全球热",
+      "onboard_time": 1714093518,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206099,
       "num": 196475,
       "word": "陈奕迅南京",
@@ -42163,6 +42275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198128,
+      "num": 198128,
+      "word": "广东暴雨主打一个雨露均沾",
+      "onboard_time": 1714092979,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198124,
       "num": 198124,
       "word": "追风者见面会",
@@ -43219,6 +43339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194742,
+      "num": 194742,
+      "word": "昆山调查市民反映燃气费致老公被约谈",
+      "onboard_time": 1714092918,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194728,
       "num": 194728,
       "word": "西藏阿里地区发生5.2级地震",
@@ -43913,6 +44041,14 @@
       "onboard_time": 1713605059,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192380,
+      "num": 192380,
+      "word": "面试二十分钟效应",
+      "onboard_time": 1714091418,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 192374,
@@ -45257,6 +45393,14 @@
       "onboard_time": 1713535398,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188820,
+      "num": 188820,
+      "word": "说服妈妈不让妹妹参加期中考试",
+      "onboard_time": 1714092018,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 188813,
@@ -49083,6 +49227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175150,
+      "num": 175150,
+      "word": "小叶 小峰",
+      "onboard_time": 1714087216,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175123,
       "num": 175123,
       "word": "建议三搭看看实力",
@@ -50473,6 +50625,14 @@
       "onboard_time": 1713244100,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169669,
+      "num": 169669,
+      "word": "宋亚轩使唤刘耀文",
+      "onboard_time": 1714093098,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 169641,
@@ -53001,6 +53161,14 @@
       "onboard_time": 1712473458,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 159769,
+      "num": 159769,
+      "word": "一定要尽早锻炼与人发生冲突的能力",
+      "onboard_time": 1714089317,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 159745,
@@ -55713,14 +55881,6 @@
       "onboard_time": 1713185898,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151092,
-      "num": 151092,
-      "word": "小叶 小峰",
-      "onboard_time": 1714087216,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 151011,
@@ -58963,6 +59123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140707,
+      "num": 140707,
+      "word": "广东通报少女疑遭性侵怀孕",
+      "onboard_time": 1714093757,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140656,
       "num": 140656,
       "word": "王子变青蛙 世子变护院",
@@ -59809,6 +59977,14 @@
       "onboard_time": 1712068040,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 137639,
+      "num": 137639,
+      "word": "为什么总想睡个回笼觉",
+      "onboard_time": 1714092319,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 137633,
@@ -60675,6 +60851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134455,
+      "num": 134455,
+      "word": "金南俊solo",
+      "onboard_time": 1714091598,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134441,
       "num": 134441,
       "word": "赵丽颖琼瑶式哭戏",
@@ -60875,6 +61059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133762,
+      "num": 133762,
+      "word": "周琦 请在他身上多待几天",
+      "onboard_time": 1714090519,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133724,
       "num": 133724,
       "word": "我被困在春天一年又一年",
@@ -60921,6 +61113,14 @@
       "onboard_time": 1712805258,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133613,
+      "num": 133613,
+      "word": "广东的雨刹不住车",
+      "onboard_time": 1714090638,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133554,
@@ -61987,6 +62187,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 129414,
+      "num": 129414,
+      "word": "刘忻张予曦有点浪漫童话了",
+      "onboard_time": 1714092319,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129228,
       "num": 129228,
       "word": "文韬小小少年路透",
@@ -62843,6 +63051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125642,
+      "num": 125642,
+      "word": "韩国人的中国出差感受",
+      "onboard_time": 1714093999,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125624,
       "num": 125624,
       "word": "周杰伦长沙演唱会将实名入场",
@@ -63441,6 +63657,14 @@
       "onboard_time": 1714035438,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123027,
+      "num": 123027,
+      "word": "周鸿祎今年目标涨粉到一千万",
+      "onboard_time": 1714093159,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 123017,
@@ -64179,6 +64403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120026,
+      "num": 120026,
+      "word": "迪丽热巴漫画走出的学姐",
+      "onboard_time": 1714066572,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120005,
       "num": 120005,
       "word": "和没情商的朋友聊天是什么感觉",
@@ -64505,6 +64737,14 @@
       "onboard_time": 1713266898,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 118320,
+      "num": 118320,
+      "word": "黄金变现火爆",
+      "onboard_time": 1714093338,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 118311,
@@ -68227,14 +68467,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 84922,
-      "num": 84922,
-      "word": "迪丽热巴漫画走出的学姐",
-      "onboard_time": 1714066572,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 84763,
       "num": 242861,
       "word": "想去涩谷当怪盗",
@@ -71480,6 +71712,14 @@
       "word": "75秒看人民海军75年巨变",
       "onboard_time": 1713870078,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33789,
+      "num": 962987,
+      "word": "电视陪你看中国",
+      "onboard_time": 1714051097,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

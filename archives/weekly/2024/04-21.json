@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714088144416,
+  "endTime": 1714094096000,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -265,6 +265,14 @@
       "onboard_time": 1713852139,
       "rank": 1,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 1982879,
+      "num": 1982879,
+      "word": "周扬青对韩雪说不要倚老卖老",
+      "onboard_time": 1714091538,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1980394,
@@ -760,6 +768,14 @@
       "word": "荷兰男子新冠阳性613天去世",
       "onboard_time": 1713758659,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1165831,
+      "num": 1165831,
+      "word": "考不上公务员的年轻人挤破头进居委会",
+      "onboard_time": 1714086134,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1419,6 +1435,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 852022,
+      "num": 208330,
+      "word": "早上空腹喝水是好还是不好",
+      "onboard_time": 1714089077,
+      "rank": 20,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 851935,
       "num": 640470,
       "word": "9岁坠楼男孩生前最后5分钟发呆徘徊",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1713712101,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 839424,
+      "num": 839424,
+      "word": "导演刘信达被判侵犯林生斌隐私权将上诉",
+      "onboard_time": 1714090337,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 838426,
@@ -1713,6 +1745,14 @@
       "onboard_time": 1713927376,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 739756,
+      "num": 739756,
+      "word": "纽约市长在飞机上被女子怒批",
+      "onboard_time": 1714091778,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 739668,
@@ -2427,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605467,
+      "num": 320911,
+      "word": "Angelababy中性刺猬头",
+      "onboard_time": 1714090938,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 601241,
       "num": 601241,
       "word": "姚志明父亲车祸去世",
@@ -2801,6 +2849,14 @@
       "onboard_time": 1713787521,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 548527,
+      "num": 548527,
+      "word": "下一个被淘汰的电子产品是什么",
+      "onboard_time": 1714090759,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 546724,
@@ -3459,14 +3515,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 473858,
-      "num": 146105,
-      "word": "考不上公务员的年轻人挤破头进居委会",
-      "onboard_time": 1714086134,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 473520,
       "num": 473520,
       "word": "iPhone15频降价引吐槽",
@@ -3521,6 +3569,14 @@
       "onboard_time": 1713743356,
       "rank": 13,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 470281,
+      "num": 470281,
+      "word": "深圳天气",
+      "onboard_time": 1713832340,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469186,
@@ -3817,14 +3873,6 @@
       "onboard_time": 1713781878,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 442060,
-      "num": 442060,
-      "word": "深圳天气",
-      "onboard_time": 1713832340,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 441690,
@@ -4763,6 +4811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 353111,
+      "num": 315811,
+      "word": "哥斯拉金刚为金靖送祝福",
+      "onboard_time": 1714090879,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353093,
       "num": 353093,
       "word": "TF三代出道战嘉宾或为TFBOYS",
@@ -4929,6 +4985,14 @@
       "onboard_time": 1714033278,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340525,
+      "num": 340525,
+      "word": "韩国男足无缘巴黎奥运会",
+      "onboard_time": 1714092498,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 340180,
@@ -5163,6 +5227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 322725,
+      "num": 322725,
+      "word": "那么大的熊熊那么小的jiojio",
+      "onboard_time": 1714088416,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322144,
       "num": 322144,
       "word": "牙神经就这么拔出来了",
@@ -5291,6 +5363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 309874,
+      "num": 309874,
+      "word": "闵熙珍 hybe",
+      "onboard_time": 1714090519,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309503,
       "num": 309503,
       "word": "小团团",
@@ -5409,6 +5489,14 @@
       "onboard_time": 1713869178,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 303149,
+      "num": 303149,
+      "word": "江西于都一矿企发生事故致3死2伤",
+      "onboard_time": 1714092678,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302289,
@@ -6059,6 +6147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269117,
+      "num": 269117,
+      "word": "中国6名航天员在太空拍合影",
+      "onboard_time": 1714087216,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 268959,
       "num": 254428,
       "word": "磕了毛不易和内娱女大的友情",
@@ -6592,6 +6688,14 @@
       "word": "深圳现暴雨天给绿植浇水引质疑",
       "onboard_time": 1713980352,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248670,
+      "num": 207390,
+      "word": "66岁女保安被队长性侵后遭辞退",
+      "onboard_time": 1714089497,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -7507,14 +7611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 221394,
-      "num": 221394,
-      "word": "中国6名航天员在太空拍合影",
-      "onboard_time": 1714087216,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 221350,
       "num": 221350,
       "word": "广州天气",
@@ -7537,6 +7633,14 @@
       "onboard_time": 1713675258,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 220797,
+      "num": 206729,
+      "word": "米饭勺上的小颗粒是干什么用的",
+      "onboard_time": 1714089317,
+      "rank": 23,
+      "category": "科学科普"
     },
     {
       "raw_hot": 220411,
@@ -8203,6 +8307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206110,
+      "num": 206110,
+      "word": "全球热",
+      "onboard_time": 1714093518,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205766,
       "num": 205766,
       "word": "湖人vs掘金",
@@ -8763,6 +8875,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 198128,
+      "num": 198128,
+      "word": "广东暴雨主打一个雨露均沾",
+      "onboard_time": 1714092979,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198098,
       "num": 184081,
       "word": "金靖拍广告路透",
@@ -9027,6 +9147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194742,
+      "num": 194742,
+      "word": "昆山调查市民反映燃气费致老公被约谈",
+      "onboard_time": 1714092918,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194420,
       "num": 194420,
       "word": "大梦归离首发预告",
@@ -9209,6 +9337,14 @@
       "onboard_time": 1714006759,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192380,
+      "num": 192380,
+      "word": "面试二十分钟效应",
+      "onboard_time": 1714091418,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 191925,
@@ -9497,6 +9633,14 @@
       "onboard_time": 1713688157,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188820,
+      "num": 188820,
+      "word": "说服妈妈不让妹妹参加期中考试",
+      "onboard_time": 1714092018,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 188665,
@@ -10371,6 +10515,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 175150,
+      "num": 175150,
+      "word": "小叶 小峰",
+      "onboard_time": 1714087216,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175075,
       "num": 175075,
       "word": "向佐一套话术忽悠四个女人",
@@ -10689,6 +10841,14 @@
       "onboard_time": 1713950959,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169669,
+      "num": 169669,
+      "word": "宋亚轩使唤刘耀文",
+      "onboard_time": 1714093098,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 169577,
@@ -11267,6 +11427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159769,
+      "num": 159769,
+      "word": "一定要尽早锻炼与人发生冲突的能力",
+      "onboard_time": 1714089317,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159503,
       "num": 159503,
       "word": "下班了就不用说收到了",
@@ -11833,14 +12001,6 @@
       "onboard_time": 1713853158,
       "rank": 40,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 151092,
-      "num": 151092,
-      "word": "小叶 小峰",
-      "onboard_time": 1714087216,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 150869,
@@ -12627,6 +12787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140707,
+      "num": 140707,
+      "word": "广东通报少女疑遭性侵怀孕",
+      "onboard_time": 1714093757,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140420,
       "num": 140420,
       "word": "多吃这类食物真能延缓衰老",
@@ -12835,6 +13003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137639,
+      "num": 137639,
+      "word": "为什么总想睡个回笼觉",
+      "onboard_time": 1714092319,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 137633,
       "num": 137633,
       "word": "短短一行字看的人脆脆的",
@@ -13035,6 +13211,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 134455,
+      "num": 134455,
+      "word": "金南俊solo",
+      "onboard_time": 1714091598,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134389,
       "num": 134389,
       "word": "黄誉博补妆中",
@@ -13083,12 +13267,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133762,
+      "num": 133762,
+      "word": "周琦 请在他身上多待几天",
+      "onboard_time": 1714090519,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133679,
       "num": 133679,
       "word": "赵岩昊请神请到真库里",
       "onboard_time": 1713881359,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133613,
+      "num": 133613,
+      "word": "广东的雨刹不住车",
+      "onboard_time": 1714090638,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133447,
@@ -13361,6 +13561,14 @@
       "onboard_time": 1713739334,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129414,
+      "num": 129414,
+      "word": "刘忻张予曦有点浪漫童话了",
+      "onboard_time": 1714092319,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 129228,
@@ -13643,6 +13851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125642,
+      "num": 125642,
+      "word": "韩国人的中国出差感受",
+      "onboard_time": 1714093999,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125594,
       "num": 125594,
       "word": "一直娱 特典",
@@ -13793,6 +14009,14 @@
       "onboard_time": 1714035438,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123027,
+      "num": 123027,
+      "word": "周鸿祎今年目标涨粉到一千万",
+      "onboard_time": 1714093159,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 122973,
@@ -13947,6 +14171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 120026,
+      "num": 120026,
+      "word": "迪丽热巴漫画走出的学姐",
+      "onboard_time": 1714066572,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119783,
       "num": 119783,
       "word": "陈麦冬社死",
@@ -14001,6 +14233,14 @@
       "onboard_time": 1713751457,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 118320,
+      "num": 118320,
+      "word": "黄金变现火爆",
+      "onboard_time": 1714093338,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 117683,
@@ -14883,14 +15123,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 84922,
-      "num": 84922,
-      "word": "迪丽热巴漫画走出的学姐",
-      "onboard_time": 1714066572,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 84035,
       "num": 70255,
       "word": "辛芷蕾工作室审美",
@@ -15720,6 +15952,14 @@
       "word": "75秒看人民海军75年巨变",
       "onboard_time": 1713870078,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33789,
+      "num": 962987,
+      "word": "电视陪你看中国",
+      "onboard_time": 1714051097,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
