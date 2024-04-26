@@ -1,10 +1,10 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714094096000,
+  "endTime": 1714095261719,
   "band_list": [
     {
-      "raw_hot": 1982879,
-      "num": 1982879,
+      "raw_hot": 2064208,
+      "num": 2064208,
       "word": "周扬青对韩雪说不要倚老卖老",
       "onboard_time": 1714091538,
       "rank": 0,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1034217,
+      "num": 1034217,
+      "word": "导演刘信达被判侵犯林生斌隐私权将上诉",
+      "onboard_time": 1714090337,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 869185,
       "num": 317778,
       "word": "女生被曝遭造黄谣跳楼身亡",
@@ -28,19 +36,19 @@
     },
     {
       "raw_hot": 852022,
-      "num": 208330,
+      "num": 230289,
       "word": "早上空腹喝水是好还是不好",
       "onboard_time": 1714089077,
       "rank": 20,
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 839424,
-      "num": 839424,
-      "word": "导演刘信达被判侵犯林生斌隐私权将上诉",
-      "onboard_time": 1714090337,
-      "rank": 3,
-      "category": "艺人"
+      "raw_hot": 820141,
+      "num": 820141,
+      "word": "纽约市长在飞机上被女子怒批",
+      "onboard_time": 1714091778,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 809102,
@@ -65,14 +73,6 @@
       "onboard_time": 1714057039,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 739756,
-      "num": 739756,
-      "word": "纽约市长在飞机上被女子怒批",
-      "onboard_time": 1714091778,
-      "rank": 4,
-      "category": "国外时政"
     },
     {
       "raw_hot": 626434,
@@ -115,8 +115,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 548527,
-      "num": 548527,
+      "raw_hot": 556328,
+      "num": 556328,
       "word": "下一个被淘汰的电子产品是什么",
       "onboard_time": 1714090759,
       "rank": 5,
@@ -179,6 +179,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445980,
+      "num": 177647,
+      "word": "韩国人的中国出差感受",
+      "onboard_time": 1714093999,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 391761,
+      "num": 297065,
+      "word": "全球热",
+      "onboard_time": 1714093518,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 369756,
       "num": 369756,
       "word": "黄景瑜和警校学生掰手腕",
@@ -187,20 +203,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 362397,
+      "num": 292594,
+      "word": "53岁吴奇隆跑得比时代少年团还快",
+      "onboard_time": 1714094238,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 358994,
+      "num": 315811,
+      "word": "哥斯拉金刚为金靖送祝福",
+      "onboard_time": 1714090879,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353637,
       "num": 353637,
       "word": "英国最大监狱被曝多起性丑闻",
       "onboard_time": 1714075811,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353111,
-      "num": 315811,
-      "word": "哥斯拉金刚为金靖送祝福",
-      "onboard_time": 1714090879,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 340525,
@@ -267,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270973,
+      "num": 270973,
+      "word": "广东暴雨",
+      "onboard_time": 1714094118,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270012,
       "num": 236446,
       "word": "吐槽张黎",
@@ -281,6 +313,14 @@
       "onboard_time": 1714087216,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 261439,
+      "num": 261439,
+      "word": "66岁女保安被队长性侵后遭辞退",
+      "onboard_time": 1714089497,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253579,
@@ -307,14 +347,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 248670,
-      "num": 207390,
-      "word": "66岁女保安被队长性侵后遭辞退",
-      "onboard_time": 1714089497,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244781,
       "num": 244781,
       "word": "山西地震",
@@ -339,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226831,
+      "num": 226831,
+      "word": "广东通报少女疑遭性侵怀孕",
+      "onboard_time": 1714093757,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221350,
       "num": 221350,
       "word": "广州天气",
@@ -355,6 +395,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 210274,
+      "num": 210274,
+      "word": "第一次见把干饭说得这么高级的",
+      "onboard_time": 1714094598,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209476,
       "num": 209476,
       "word": "金靖",
@@ -363,12 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206110,
-      "num": 206110,
-      "word": "全球热",
-      "onboard_time": 1714093518,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 204552,
+      "num": 204552,
+      "word": "面试二十分钟效应",
+      "onboard_time": 1714091418,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 198312,
@@ -403,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192380,
-      "num": 192380,
-      "word": "面试二十分钟效应",
-      "onboard_time": 1714091418,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 188820,
       "num": 188820,
       "word": "说服妈妈不让妹妹参加期中考试",
@@ -435,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181762,
+      "num": 177617,
+      "word": "NewJeans该何去何从",
+      "onboard_time": 1714095017,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175150,
       "num": 175150,
       "word": "小叶 小峰",
@@ -457,6 +505,14 @@
       "onboard_time": 1714093098,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163580,
+      "num": 163580,
+      "word": "主人让猫咪凶一个",
+      "onboard_time": 1714094418,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 159769,
@@ -489,14 +545,6 @@
       "onboard_time": 1714039758,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 140707,
-      "num": 140707,
-      "word": "广东通报少女疑遭性侵怀孕",
-      "onboard_time": 1714093757,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139648,
@@ -553,14 +601,6 @@
       "onboard_time": 1714057759,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125642,
-      "num": 125642,
-      "word": "韩国人的中国出差感受",
-      "onboard_time": 1714093999,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 124822,
@@ -795,6 +835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60904,
+      "num": 230407,
+      "word": "耳机是现代人的电子buff",
+      "onboard_time": 1714094238,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 56746,
       "num": 194279,
       "word": "S组大结局",
@@ -876,7 +924,7 @@
     },
     {
       "raw_hot": 33789,
-      "num": 962987,
+      "num": 1056185,
       "word": "电视陪你看中国",
       "onboard_time": 1714051097,
       "rank": 2,

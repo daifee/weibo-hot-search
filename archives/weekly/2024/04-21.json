@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714094096000,
+  "endTime": 1714095261719,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -235,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2064208,
+      "num": 2064208,
+      "word": "周扬青对韩雪说不要倚老卖老",
+      "onboard_time": 1714091538,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2057901,
       "num": 2057901,
       "word": "大麦网已退票退款",
@@ -265,14 +273,6 @@
       "onboard_time": 1713852139,
       "rank": 1,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 1982879,
-      "num": 1982879,
-      "word": "周扬青对韩雪说不要倚老卖老",
-      "onboard_time": 1714091538,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1980394,
@@ -1003,6 +1003,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 1034217,
+      "num": 1034217,
+      "word": "导演刘信达被判侵犯林生斌隐私权将上诉",
+      "onboard_time": 1714090337,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1030498,
       "num": 674732,
       "word": "张予曦越扒越有",
@@ -1436,7 +1444,7 @@
     },
     {
       "raw_hot": 852022,
-      "num": 208330,
+      "num": 230289,
       "word": "早上空腹喝水是好还是不好",
       "onboard_time": 1714089077,
       "rank": 20,
@@ -1481,14 +1489,6 @@
       "onboard_time": 1713712101,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 839424,
-      "num": 839424,
-      "word": "导演刘信达被判侵犯林生斌隐私权将上诉",
-      "onboard_time": 1714090337,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 838426,
@@ -1569,6 +1569,14 @@
       "onboard_time": 1713678139,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 820141,
+      "num": 820141,
+      "word": "纽约市长在飞机上被女子怒批",
+      "onboard_time": 1714091778,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 818012,
@@ -1745,14 +1753,6 @@
       "onboard_time": 1713927376,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 739756,
-      "num": 739756,
-      "word": "纽约市长在飞机上被女子怒批",
-      "onboard_time": 1714091778,
-      "rank": 4,
-      "category": "国外时政"
     },
     {
       "raw_hot": 739668,
@@ -2787,6 +2787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 556328,
+      "num": 556328,
+      "word": "下一个被淘汰的电子产品是什么",
+      "onboard_time": 1714090759,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 556260,
       "num": 556260,
       "word": "为什么说我国养老金不可能出现问题",
@@ -2849,14 +2857,6 @@
       "onboard_time": 1713787521,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 548527,
-      "num": 548527,
-      "word": "下一个被淘汰的电子产品是什么",
-      "onboard_time": 1714090759,
-      "rank": 5,
-      "category": "数码"
     },
     {
       "raw_hot": 546724,
@@ -3819,6 +3819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 445980,
+      "num": 177647,
+      "word": "韩国人的中国出差感受",
+      "onboard_time": 1714093999,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 445869,
       "num": 445869,
       "word": "生万物阵容官宣",
@@ -4411,6 +4419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 391761,
+      "num": 297065,
+      "word": "全球热",
+      "onboard_time": 1714093518,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 391618,
       "num": 391618,
       "word": "许美静团队回应演唱会太水争议",
@@ -4707,6 +4723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362397,
+      "num": 292594,
+      "word": "53岁吴奇隆跑得比时代少年团还快",
+      "onboard_time": 1714094238,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362186,
       "num": 362186,
       "word": "没有哪个男人能娶到我",
@@ -4721,6 +4745,14 @@
       "onboard_time": 1713830600,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 358994,
+      "num": 315811,
+      "word": "哥斯拉金刚为金靖送祝福",
+      "onboard_time": 1714090879,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 357501,
@@ -4809,14 +4841,6 @@
       "onboard_time": 1713774318,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 353111,
-      "num": 315811,
-      "word": "哥斯拉金刚为金靖送祝福",
-      "onboard_time": 1714090879,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 353093,
@@ -6387,6 +6411,14 @@
       "category": "社会新闻,母婴育儿"
     },
     {
+      "raw_hot": 261439,
+      "num": 261439,
+      "word": "66岁女保安被队长性侵后遭辞退",
+      "onboard_time": 1714089497,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261294,
       "num": 261294,
       "word": "TWS 男版NewJeans",
@@ -6688,14 +6720,6 @@
       "word": "深圳现暴雨天给绿植浇水引质疑",
       "onboard_time": 1713980352,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248670,
-      "num": 207390,
-      "word": "66岁女保安被队长性侵后遭辞退",
-      "onboard_time": 1714089497,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -7427,6 +7451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226831,
+      "num": 226831,
+      "word": "广东通报少女疑遭性侵怀孕",
+      "onboard_time": 1714093757,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226358,
       "num": 226358,
       "word": "博塔斯退赛",
@@ -7995,6 +8027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210274,
+      "num": 210274,
+      "word": "第一次见把干饭说得这么高级的",
+      "onboard_time": 1714094598,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210230,
       "num": 210230,
       "word": "刘诗诗 真正的i人一言不发",
@@ -8307,14 +8347,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 206110,
-      "num": 206110,
-      "word": "全球热",
-      "onboard_time": 1714093518,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205766,
       "num": 205766,
       "word": "湖人vs掘金",
@@ -8409,6 +8441,14 @@
       "onboard_time": 1713964999,
       "rank": 47,
       "category": "自然"
+    },
+    {
+      "raw_hot": 204552,
+      "num": 204552,
+      "word": "面试二十分钟效应",
+      "onboard_time": 1714091418,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 204504,
@@ -9339,14 +9379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192380,
-      "num": 192380,
-      "word": "面试二十分钟效应",
-      "onboard_time": 1714091418,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 191925,
       "num": 191925,
       "word": "东北雨姐与张雪峰约饭",
@@ -10145,6 +10177,14 @@
       "onboard_time": 1713696318,
       "rank": 33,
       "category": "体育,互联网"
+    },
+    {
+      "raw_hot": 181762,
+      "num": 177617,
+      "word": "NewJeans该何去何从",
+      "onboard_time": 1714095017,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 181760,
@@ -11161,6 +11201,14 @@
       "onboard_time": 1713850398,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163580,
+      "num": 163580,
+      "word": "主人让猫咪凶一个",
+      "onboard_time": 1714094418,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 163495,
@@ -12787,14 +12835,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 140707,
-      "num": 140707,
-      "word": "广东通报少女疑遭性侵怀孕",
-      "onboard_time": 1714093757,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140420,
       "num": 140420,
       "word": "多吃这类食物真能延缓衰老",
@@ -13849,14 +13889,6 @@
       "onboard_time": 1713950478,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125642,
-      "num": 125642,
-      "word": "韩国人的中国出差感受",
-      "onboard_time": 1714093999,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 125594,
@@ -15443,6 +15475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60904,
+      "num": 230407,
+      "word": "耳机是现代人的电子buff",
+      "onboard_time": 1714094238,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 60720,
       "num": 476454,
       "word": "朱一龙侧脸杀",
@@ -15956,7 +15996,7 @@
     },
     {
       "raw_hot": 33789,
-      "num": 962987,
+      "num": 1056185,
       "word": "电视陪你看中国",
       "onboard_time": 1714051097,
       "rank": 2,
