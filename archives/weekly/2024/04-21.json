@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714098420970,
+  "endTime": 1714099068032,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -1195,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 959824,
+      "num": 959824,
+      "word": "韩国人的中国出差感受",
+      "onboard_time": 1714093999,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 957601,
       "num": 957601,
       "word": "李闽轩称脱口报姓名是因太紧张",
@@ -1452,7 +1460,7 @@
     },
     {
       "raw_hot": 852022,
-      "num": 252750,
+      "num": 326902,
       "word": "早上空腹喝水是好还是不好",
       "onboard_time": 1714089077,
       "rank": 20,
@@ -1547,14 +1555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 828844,
-      "num": 828844,
-      "word": "韩国人的中国出差感受",
-      "onboard_time": 1714093999,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 828452,
       "num": 163903,
       "word": "黄子韬 小马丁",
@@ -1603,6 +1603,14 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 816508,
+      "num": 816508,
+      "word": "丫丫回家一年从yy胖成YY",
+      "onboard_time": 1714095559,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 815652,
       "num": 815652,
       "word": "黄金白银集体大跌",
@@ -1641,14 +1649,6 @@
       "onboard_time": 1713705380,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 803346,
-      "num": 803346,
-      "word": "丫丫回家一年从yy胖成YY",
-      "onboard_time": 1714095559,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 799797,
@@ -2155,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 669784,
+      "num": 669784,
+      "word": "向太没认出来向佐",
+      "onboard_time": 1714097299,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 669398,
       "num": 238598,
       "word": "失足女拒亲嘴被打后刺死男子获刑",
@@ -2529,6 +2537,14 @@
       "onboard_time": 1714056559,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 599565,
+      "num": 599565,
+      "word": "种地吧 收草莓",
+      "onboard_time": 1714098018,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 599009,
@@ -3257,14 +3273,6 @@
       "onboard_time": 1713838518,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 505300,
-      "num": 505300,
-      "word": "向太没认出来向佐",
-      "onboard_time": 1714097299,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 503096,
@@ -4027,6 +4035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 431385,
+      "num": 431385,
+      "word": "终于明白旱的旱死涝的涝死",
+      "onboard_time": 1714096277,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 431357,
       "num": 431357,
       "word": "HYBE以涉嫌工作渎职等嫌疑告发闵熙珍",
@@ -4329,14 +4345,6 @@
       "onboard_time": 1713829518,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400632,
-      "num": 400632,
-      "word": "终于明白旱的旱死涝的涝死",
-      "onboard_time": 1714096277,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 400172,
@@ -5115,7 +5123,7 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 335315,
+      "raw_hot": 336090,
       "num": 308085,
       "word": "吴奇隆录综艺崩溃",
       "onboard_time": 1714095497,
@@ -5379,6 +5387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 316121,
+      "num": 316121,
+      "word": "川菜攻陷江浙沪",
+      "onboard_time": 1714097478,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 315742,
       "num": 315742,
       "word": "台湾本月初地震已有1000多次余震",
@@ -5625,14 +5641,6 @@
       "onboard_time": 1713928638,
       "rank": 34,
       "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 299789,
-      "num": 299789,
-      "word": "川菜攻陷江浙沪",
-      "onboard_time": 1714097478,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 299011,
@@ -5985,6 +5993,14 @@
       "onboard_time": 1714050259,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282166,
+      "num": 260813,
+      "word": "得了癌症如果不治疗能活多久",
+      "onboard_time": 1714097597,
+      "rank": 28,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 282112,
@@ -6995,6 +7011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241566,
+      "num": 241566,
+      "word": "金秀贤痛失本名",
+      "onboard_time": 1714097418,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241521,
       "num": 160369,
       "word": "五哈团看到女嘉宾的反应",
@@ -7121,6 +7145,14 @@
       "onboard_time": 1713929656,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 238144,
+      "num": 238144,
+      "word": "NewJeans该何去何从",
+      "onboard_time": 1714095017,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 238020,
@@ -7315,14 +7347,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 232961,
-      "num": 232961,
-      "word": "NewJeans该何去何从",
-      "onboard_time": 1714095017,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 232720,
       "num": 259464,
       "word": "交通银行app崩了",
@@ -7345,6 +7369,14 @@
       "onboard_time": 1713957019,
       "rank": 32,
       "category": "美妆,综艺"
+    },
+    {
+      "raw_hot": 232094,
+      "num": 232094,
+      "word": "恋与深空",
+      "onboard_time": 1714098258,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 231764,
@@ -8129,14 +8161,6 @@
       "onboard_time": 1714010776,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209943,
-      "num": 209943,
-      "word": "种地吧 收草莓",
-      "onboard_time": 1714098018,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 209849,
@@ -8939,14 +8963,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 199457,
-      "num": 199457,
-      "word": "金秀贤痛失本名",
-      "onboard_time": 1714097418,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199185,
       "num": 199185,
       "word": "赵奕欢谈浪姐私下关系",
@@ -9041,14 +9057,6 @@
       "onboard_time": 1713660798,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 197759,
-      "num": 197759,
-      "word": "得了癌症如果不治疗能活多久",
-      "onboard_time": 1714097597,
-      "rank": 28,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 197613,
@@ -9859,6 +9867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188114,
+      "num": 188114,
+      "word": "字节跳动辟谣将出售TikTok",
+      "onboard_time": 1714095497,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 188003,
       "num": 127500,
       "word": "陈昊宇发如雪",
@@ -10217,6 +10233,14 @@
       "onboard_time": 1713786679,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183397,
+      "num": 183397,
+      "word": "声援巴勒斯坦抗议席卷美国高校",
+      "onboard_time": 1714097236,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 183372,
@@ -10673,14 +10697,6 @@
       "onboard_time": 1714026321,
       "rank": 37,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 174798,
-      "num": 174798,
-      "word": "字节跳动辟谣将出售TikTok",
-      "onboard_time": 1714095497,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 174777,
@@ -11187,14 +11203,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 165679,
-      "num": 165679,
-      "word": "声援巴勒斯坦抗议席卷美国高校",
-      "onboard_time": 1714097236,
-      "rank": 33,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 165587,
       "num": 176961,
       "word": "林孝埈领衔出镜世锦赛胜利时刻",
@@ -11553,6 +11561,14 @@
       "onboard_time": 1713949159,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160990,
+      "num": 160990,
+      "word": "掘金vs湖人",
+      "onboard_time": 1714098438,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 160834,
@@ -12497,14 +12513,6 @@
       "onboard_time": 1713658156,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 146414,
-      "num": 146414,
-      "word": "恋与深空",
-      "onboard_time": 1714098258,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 146377,
@@ -14331,6 +14339,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 120551,
+      "num": 120551,
+      "word": "她花16年造个750亩大花园",
+      "onboard_time": 1714098377,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120423,
       "num": 120423,
       "word": "张雨绮粘睫毛粘进眼科",
@@ -14633,6 +14649,14 @@
       "onboard_time": 1713779418,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114073,
+      "num": 114073,
+      "word": "陈丽君的腹肌",
+      "onboard_time": 1714099037,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 113510,
@@ -14945,14 +14969,6 @@
       "onboard_time": 1713771018,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105275,
-      "num": 105275,
-      "word": "她花16年造个750亩大花园",
-      "onboard_time": 1714098377,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105208,

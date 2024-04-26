@@ -1,0 +1,410 @@
+{
+  "runTime": 1714099068032,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1490232,
+        "num": 1490232,
+        "word": "周扬青对韩雪说不要倚老卖老",
+        "onboard_time": 1714091538,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 959824,
+        "num": 959824,
+        "word": "韩国人的中国出差感受",
+        "onboard_time": 1714093999,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22380,
+        "num": 842991,
+        "word": "电视陪你看中国",
+        "onboard_time": 1714051097,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816508,
+        "num": 816508,
+        "word": "丫丫回家一年从yy胖成YY",
+        "onboard_time": 1714095559,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752243,
+        "num": 752243,
+        "word": "学位法通过",
+        "onboard_time": 1714095798,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2793464,
+        "num": 730008,
+        "word": "林生斌",
+        "onboard_time": 1714095318,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669784,
+        "num": 669784,
+        "word": "向太没认出来向佐",
+        "onboard_time": 1714097299,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599565,
+        "num": 599565,
+        "word": "种地吧 收草莓",
+        "onboard_time": 1714098018,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443863,
+        "num": 443863,
+        "word": "下一个被淘汰的电子产品是什么",
+        "onboard_time": 1714090759,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 290214,
+        "num": 435710,
+        "word": "谭爷爷你孙女当花局长了",
+        "onboard_time": 1714072811,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431385,
+        "num": 431385,
+        "word": "终于明白旱的旱死涝的涝死",
+        "onboard_time": 1714096277,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380837,
+        "num": 380837,
+        "word": "纽约市长在飞机上被女子怒批",
+        "onboard_time": 1714091778,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 377391,
+        "num": 377391,
+        "word": "53岁吴奇隆跑得比时代少年团还快",
+        "onboard_time": 1714094238,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327735,
+        "num": 327735,
+        "word": "全球热",
+        "onboard_time": 1714093518,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326902,
+        "num": 326902,
+        "word": "早上空腹喝水是好还是不好",
+        "onboard_time": 1714089077,
+        "rank": 14,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 316121,
+        "num": 316121,
+        "word": "川菜攻陷江浙沪",
+        "onboard_time": 1714097478,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 307901,
+        "num": 307901,
+        "word": "导演刘信达被判侵犯林生斌隐私权将上诉",
+        "onboard_time": 1714090337,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 336090,
+        "num": 288318,
+        "word": "吴奇隆录综艺崩溃",
+        "onboard_time": 1714095497,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64306,
+        "num": 275778,
+        "word": "纯电马自达6开启合资车新篇章",
+        "onboard_time": 1714097117,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 263387,
+        "num": 263387,
+        "word": "Angelababy中性刺猬头",
+        "onboard_time": 1714090938,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 282166,
+        "num": 260813,
+        "word": "得了癌症如果不治疗能活多久",
+        "onboard_time": 1714097597,
+        "rank": 20,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 246893,
+        "num": 246893,
+        "word": "王毅同布林肯举行会谈",
+        "onboard_time": 1714096038,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241566,
+        "num": 241566,
+        "word": "金秀贤痛失本名",
+        "onboard_time": 1714097418,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238144,
+        "num": 238144,
+        "word": "NewJeans该何去何从",
+        "onboard_time": 1714095017,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232094,
+        "num": 232094,
+        "word": "恋与深空",
+        "onboard_time": 1714098258,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224730,
+        "num": 224730,
+        "word": "广东通报少女疑遭性侵怀孕",
+        "onboard_time": 1714093757,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221670,
+        "num": 221670,
+        "word": "女生被曝遭造黄谣跳楼身亡",
+        "onboard_time": 1714052358,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199627,
+        "num": 199627,
+        "word": "官方辟谣女生因被造黄谣跳楼",
+        "onboard_time": 1714096938,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190867,
+        "num": 190867,
+        "word": "哥斯拉金刚为金靖送祝福",
+        "onboard_time": 1714090879,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188114,
+        "num": 188114,
+        "word": "字节跳动辟谣将出售TikTok",
+        "onboard_time": 1714095497,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183397,
+        "num": 183397,
+        "word": "声援巴勒斯坦抗议席卷美国高校",
+        "onboard_time": 1714097236,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 179918,
+        "num": 179918,
+        "word": "深圳暴雨",
+        "onboard_time": 1714098498,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175899,
+        "num": 175899,
+        "word": "66岁女保安被队长性侵后遭辞退",
+        "onboard_time": 1714089497,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171839,
+        "num": 171839,
+        "word": "种地吧",
+        "onboard_time": 1714095738,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160990,
+        "num": 160990,
+        "word": "掘金vs湖人",
+        "onboard_time": 1714098438,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155207,
+        "num": 155207,
+        "word": "金靖",
+        "onboard_time": 1714086495,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149174,
+        "num": 149174,
+        "word": "那么大的熊熊那么小的jiojio",
+        "onboard_time": 1714088416,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146795,
+        "num": 146795,
+        "word": "最不像汉字的汉字",
+        "onboard_time": 1714096818,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 142140,
+        "num": 142140,
+        "word": "B太 青岛海鲜商战",
+        "onboard_time": 1714095858,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138380,
+        "num": 138380,
+        "word": "好羡慕ENHYPEN啊",
+        "onboard_time": 1714096517,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136789,
+        "num": 136789,
+        "word": "张若昀说庆余年五月中旬播",
+        "onboard_time": 1714061597,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126332,
+        "num": 126332,
+        "word": "第一次见把干饭说得这么高级的",
+        "onboard_time": 1714094598,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123111,
+        "num": 123111,
+        "word": "小叶 小峰",
+        "onboard_time": 1714087216,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123075,
+        "num": 123075,
+        "word": "杨幂演技",
+        "onboard_time": 1714057039,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121221,
+        "num": 121221,
+        "word": "深圳市分区暴雨红色预警",
+        "onboard_time": 1714096157,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120551,
+        "num": 120551,
+        "word": "她花16年造个750亩大花园",
+        "onboard_time": 1714098377,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116960,
+        "num": 116960,
+        "word": "广东暴雨",
+        "onboard_time": 1714094118,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115900,
+        "num": 115900,
+        "word": "舒奕橙",
+        "onboard_time": 1714086555,
+        "rank": 47,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 114073,
+        "num": 114073,
+        "word": "陈丽君的腹肌",
+        "onboard_time": 1714099037,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113630,
+        "num": 113630,
+        "word": "严浩翔人生第一次三天不洗澡",
+        "onboard_time": 1714096998,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#开创西部大开发新格局#"
+    }
+  }
+}
