@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714131246358,
+  "endTime": 1714134764916,
   "band_list": [
     {
       "raw_hot": 2869467,
@@ -57,6 +57,14 @@
       "onboard_time": 1714128618,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1304097,
+      "num": 264505,
+      "word": "京东员工误操作或致损失超百万",
+      "onboard_time": 1714130657,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 1235920,
@@ -323,6 +331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 687382,
+      "num": 687382,
+      "word": "恋综 合约情侣",
+      "onboard_time": 1714129157,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 681369,
       "num": 681369,
       "word": "林生斌要求导演刘信达公开道歉",
@@ -427,14 +443,6 @@
       "category": "艺人,动漫"
     },
     {
-      "raw_hot": 578866,
-      "num": 578866,
-      "word": "恋综 合约情侣",
-      "onboard_time": 1714129157,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 572579,
       "num": 572579,
       "word": "武艺 各位老师对不起",
@@ -449,6 +457,14 @@
       "onboard_time": 1714090759,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 544056,
+      "num": 260126,
+      "word": "江西通报小学生在校坠楼身亡",
+      "onboard_time": 1714131977,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 539388,
@@ -627,12 +643,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422437,
+      "num": 422437,
+      "word": "白玉兰直播",
+      "onboard_time": 1714129637,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 419755,
       "num": 419755,
       "word": "短发hanni",
       "onboard_time": 1714101738,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 418827,
+      "num": 253712,
+      "word": "肖战全黑穿搭",
+      "onboard_time": 1714132577,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 414236,
@@ -771,6 +803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 336397,
+      "num": 312683,
+      "word": "小婉 真实追星迪丽热巴",
+      "onboard_time": 1714128978,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336090,
       "num": 308085,
       "word": "吴奇隆录综艺崩溃",
@@ -827,14 +867,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 312683,
-      "num": 312683,
-      "word": "小婉 真实追星迪丽热巴",
-      "onboard_time": 1714128978,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 309874,
       "num": 309874,
       "word": "闵熙珍 hybe",
@@ -881,14 +913,6 @@
       "onboard_time": 1714107500,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 299268,
-      "num": 245636,
-      "word": "白玉兰直播",
-      "onboard_time": 1714129637,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 293473,
@@ -1035,12 +1059,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 247247,
+      "num": 247247,
+      "word": "张杰演唱会门口被陌生人送票",
+      "onboard_time": 1714134198,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 247174,
       "num": 247174,
       "word": "困在二本线的艺考生",
       "onboard_time": 1714101199,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 246967,
+      "num": 246967,
+      "word": "日本或成五一爆款旅游地",
+      "onboard_time": 1714129098,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 244781,
@@ -1091,20 +1131,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 236144,
+      "num": 236144,
+      "word": "恋爱兄妹",
+      "onboard_time": 1714131558,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235959,
       "num": 235959,
       "word": "十个勤天偏偏你们最争气",
       "onboard_time": 1714126040,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235369,
-      "num": 235369,
-      "word": "日本或成五一爆款旅游地",
-      "onboard_time": 1714129098,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 235102,
@@ -1161,6 +1201,14 @@
       "onboard_time": 1714098258,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231184,
+      "num": 231184,
+      "word": "虞书欣林一SPOT舞蹈挑战",
+      "onboard_time": 1714132577,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 231048,
@@ -1251,6 +1299,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 220177,
+      "num": 251085,
+      "word": "石家庄冰雹",
+      "onboard_time": 1714133658,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215157,
       "num": 240109,
       "word": "我的星穹铁道一周年",
@@ -1291,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208071,
+      "num": 208071,
+      "word": "赵奕欢 三公淘汰",
+      "onboard_time": 1714134019,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206607,
       "num": 206607,
       "word": "minji预告照",
@@ -1305,6 +1369,14 @@
       "onboard_time": 1714112478,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205870,
+      "num": 205870,
+      "word": "老舅和范志毅是P上去的",
+      "onboard_time": 1714133479,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 204552,
@@ -1345,6 +1417,14 @@
       "onboard_time": 1714128078,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200319,
+      "num": 200319,
+      "word": "世界杯决胜局争议球全纪录",
+      "onboard_time": 1714133296,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 199409,
@@ -1459,6 +1539,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 193491,
+      "num": 193491,
+      "word": "朱一龙透露未来想尝试的角色",
+      "onboard_time": 1714134498,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191624,
       "num": 191624,
       "word": "詹姆斯走步了吗",
@@ -1473,14 +1561,6 @@
       "onboard_time": 1714112120,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191000,
-      "num": 191000,
-      "word": "京东员工误操作或致损失超百万",
-      "onboard_time": 1714130657,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 190424,
@@ -1755,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173449,
+      "num": 173449,
+      "word": "小姐姐麻醉还没醒过来再次爱上另一半",
+      "onboard_time": 1714131138,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170755,
       "num": 195843,
       "word": "磕了毛不易和内娱女大的友情",
@@ -1907,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154069,
+      "num": 193587,
+      "word": "地球容得下中美两国共同发展各自繁荣",
+      "onboard_time": 1714132338,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153666,
       "num": 153666,
       "word": "男朋友做的五一川西自驾攻略",
@@ -1961,6 +2057,14 @@
       "onboard_time": 1714124418,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 148717,
+      "num": 148717,
+      "word": "为什么蓝领工作越来越吃香了",
+      "onboard_time": 1714133296,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 148680,
@@ -2081,6 +2185,14 @@
       "onboard_time": 1714102459,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 138704,
+      "num": 410545,
+      "word": "云南人专属浪漫油炸玫瑰花",
+      "onboard_time": 1714128378,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 138358,
@@ -2259,14 +2371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128927,
-      "num": 410545,
-      "word": "云南人专属浪漫油炸玫瑰花",
-      "onboard_time": 1714128378,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 128731,
       "num": 128731,
       "word": "哈尔滨一九四四 小人物群像",
@@ -2321,6 +2425,14 @@
       "onboard_time": 1714093159,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 122783,
+      "num": 128256,
+      "word": "国外游怎么比国内游还便宜了",
+      "onboard_time": 1714134378,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 121603,
@@ -2497,6 +2609,14 @@
       "onboard_time": 1714105760,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102152,
+      "num": 126945,
+      "word": "韩国教师引诱121名未成年拍不雅视频",
+      "onboard_time": 1714134739,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100562,
@@ -2763,6 +2883,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 44058,
+      "num": 255835,
+      "word": "蛋仔冠军Dong",
+      "onboard_time": 1714132338,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 43099,
       "num": 43099,
       "word": "宋雨琦晒Gigi",
@@ -2911,6 +3039,9 @@
     },
     {
       "word": "#新时代推动西部大开发座谈会#"
+    },
+    {
+      "word": "#习近平会见布林肯#"
     }
   ]
 }

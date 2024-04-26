@@ -1,0 +1,410 @@
+{
+  "runTime": 1714134764916,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 687382,
+        "num": 687382,
+        "word": "恋综 合约情侣",
+        "onboard_time": 1714129157,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513818,
+        "num": 513818,
+        "word": "厦门教师招聘疑因取消编制无人报考",
+        "onboard_time": 1714126878,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7976,
+        "num": 448164,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422437,
+        "num": 422437,
+        "word": "白玉兰直播",
+        "onboard_time": 1714129637,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390722,
+        "num": 390722,
+        "word": "Jennie硬控我18秒",
+        "onboard_time": 1714128858,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 348639,
+        "num": 348639,
+        "word": "休想换走我的高铁F座",
+        "onboard_time": 1714122617,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300507,
+        "num": 300507,
+        "word": "李嘉格 淘汰",
+        "onboard_time": 1714123098,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300012,
+        "num": 300012,
+        "word": "中美五点共识",
+        "onboard_time": 1714129338,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 267497,
+        "num": 267497,
+        "word": "水龙吟预告",
+        "onboard_time": 1714125378,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138704,
+        "num": 266522,
+        "word": "云南人专属浪漫油炸玫瑰花",
+        "onboard_time": 1714128378,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1304097,
+        "num": 264505,
+        "word": "京东员工误操作或致损失超百万",
+        "onboard_time": 1714130657,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1053954,
+        "num": 263514,
+        "word": "韩国N号房事件再现",
+        "onboard_time": 1714128618,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544989,
+        "num": 262216,
+        "word": "原来戚薇是方文山徒弟",
+        "onboard_time": 1714124299,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544056,
+        "num": 260126,
+        "word": "江西通报小学生在校坠楼身亡",
+        "onboard_time": 1714131977,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536850,
+        "num": 259380,
+        "word": "向太大腿骨断裂",
+        "onboard_time": 1714127958,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438300,
+        "num": 257689,
+        "word": "美国男子强奸14岁少女被判物理阉割",
+        "onboard_time": 1714104378,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44058,
+        "num": 255835,
+        "word": "蛋仔冠军Dong",
+        "onboard_time": 1714132338,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 418827,
+        "num": 253712,
+        "word": "肖战全黑穿搭",
+        "onboard_time": 1714132577,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379659,
+        "num": 253162,
+        "word": "林更新 把你的恶心收一收",
+        "onboard_time": 1714105760,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220177,
+        "num": 251085,
+        "word": "石家庄冰雹",
+        "onboard_time": 1714133658,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409678,
+        "num": 249455,
+        "word": "常用乳贴会导致乳房下垂吗",
+        "onboard_time": 1714110678,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 336397,
+        "num": 248638,
+        "word": "小婉 真实追星迪丽热巴",
+        "onboard_time": 1714128978,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247247,
+        "num": 247247,
+        "word": "张杰演唱会门口被陌生人送票",
+        "onboard_time": 1714134198,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 246967,
+        "num": 246967,
+        "word": "日本或成五一爆款旅游地",
+        "onboard_time": 1714129098,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 236144,
+        "num": 236144,
+        "word": "恋爱兄妹",
+        "onboard_time": 1714131558,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231184,
+        "num": 231184,
+        "word": "虞书欣林一SPOT舞蹈挑战",
+        "onboard_time": 1714132577,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208704,
+        "num": 208704,
+        "word": "HYBE否认不宣传newjeans",
+        "onboard_time": 1714130119,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208071,
+        "num": 208071,
+        "word": "赵奕欢 三公淘汰",
+        "onboard_time": 1714134019,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195509,
+        "num": 206512,
+        "word": "林生斌",
+        "onboard_time": 1714095318,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179105,
+        "num": 205988,
+        "word": "中国女留学生澳大利亚失联在泰国被找到",
+        "onboard_time": 1714121959,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205870,
+        "num": 205870,
+        "word": "老舅和范志毅是P上去的",
+        "onboard_time": 1714133479,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204954,
+        "num": 204954,
+        "word": "发如雪",
+        "onboard_time": 1714128559,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200319,
+        "num": 200319,
+        "word": "世界杯决胜局争议球全纪录",
+        "onboard_time": 1714133296,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198709,
+        "num": 198709,
+        "word": "闪耀暖暖蜘蛛婚纱",
+        "onboard_time": 1714130837,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154069,
+        "num": 193587,
+        "word": "地球容得下中美两国共同发展各自繁荣",
+        "onboard_time": 1714132338,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193491,
+        "num": 193491,
+        "word": "朱一龙透露未来想尝试的角色",
+        "onboard_time": 1714134498,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178486,
+        "num": 178486,
+        "word": "邓超 亚比囧囧囧",
+        "onboard_time": 1714124119,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173449,
+        "num": 173449,
+        "word": "小姐姐麻醉还没醒过来再次爱上另一半",
+        "onboard_time": 1714131138,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166530,
+        "num": 166530,
+        "word": "陈丽君眼睛好亮",
+        "onboard_time": 1714129278,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165612,
+        "num": 165612,
+        "word": "男友妈妈叫我婚前别买车",
+        "onboard_time": 1714122978,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156344,
+        "num": 156344,
+        "word": "歌手2024官宣定档",
+        "onboard_time": 1714113438,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148717,
+        "num": 148717,
+        "word": "为什么蓝领工作越来越吃香了",
+        "onboard_time": 1714133296,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148604,
+        "num": 148604,
+        "word": "赵露思凌乱红发",
+        "onboard_time": 1714126998,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144278,
+        "num": 144278,
+        "word": "花少1 真正的穷游",
+        "onboard_time": 1714120757,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135524,
+        "num": 135524,
+        "word": "胡先煦张子枫红毯上撒玫瑰",
+        "onboard_time": 1714128078,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133323,
+        "num": 133323,
+        "word": "夏之光黄俊捷合照",
+        "onboard_time": 1714129278,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128496,
+        "num": 128496,
+        "word": "腿粗屁股大的人竟然更长寿",
+        "onboard_time": 1714106839,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 122783,
+        "num": 128256,
+        "word": "国外游怎么比国内游还便宜了",
+        "onboard_time": 1714134378,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 115807,
+        "num": 127825,
+        "word": "中方回应能否证实哈马斯和法塔赫在北京会面",
+        "onboard_time": 1714129578,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102152,
+        "num": 126945,
+        "word": "韩国教师引诱121名未成年拍不雅视频",
+        "onboard_time": 1714134739,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见布林肯#"
+    }
+  }
+}
