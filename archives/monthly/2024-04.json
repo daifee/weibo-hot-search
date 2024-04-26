@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714109735699,
+  "endTime": 1714112687884,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1793,6 +1793,14 @@
       "onboard_time": 1712450719,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1616077,
+      "num": 1616077,
+      "word": "淀粉肠 骨泥",
+      "onboard_time": 1714108699,
+      "rank": 15,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1612615,
@@ -8619,6 +8627,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 764706,
+      "num": 764706,
+      "word": "不该 仙品",
+      "onboard_time": 1714108100,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 763795,
       "num": 763795,
       "word": "刷牙最该刷的其实不是牙齿",
@@ -9787,6 +9803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 704585,
+      "num": 704585,
+      "word": "韩企开始清退35岁以上员工",
+      "onboard_time": 1714110678,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 704307,
       "num": 704307,
       "word": "TES被偷家",
@@ -10387,6 +10411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 680168,
+      "num": 680168,
+      "word": "雷军 车展模特",
+      "onboard_time": 1714108938,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 680001,
       "num": 680001,
       "word": "腾讯给与凤行配的标题",
@@ -10729,6 +10761,14 @@
       "onboard_time": 1712030960,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 665586,
+      "num": 665586,
+      "word": "戚薇的眼神不像演的",
+      "onboard_time": 1714110138,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 665213,
@@ -12819,6 +12859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 590633,
+      "num": 197731,
+      "word": "常用乳贴会导致乳房下垂吗",
+      "onboard_time": 1714110678,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 590514,
       "num": 590514,
       "word": "王晰怎么了",
@@ -13081,14 +13129,6 @@
       "onboard_time": 1713569956,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 582333,
-      "num": 518096,
-      "word": "淀粉肠 骨泥",
-      "onboard_time": 1714108699,
-      "rank": 15,
-      "category": "科学科普"
     },
     {
       "raw_hot": 581955,
@@ -14195,14 +14235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 548972,
-      "num": 548972,
-      "word": "不该 仙品",
-      "onboard_time": 1714108100,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 548856,
       "num": 548856,
       "word": "甘肃天水官方开店卖麻辣烫",
@@ -14753,6 +14785,14 @@
       "onboard_time": 1711991834,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 532676,
+      "num": 436936,
+      "word": "单亲妈妈称被都美竹诱骗近20万要求还钱",
+      "onboard_time": 1714111339,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 532633,
@@ -20395,6 +20435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 413530,
+      "num": 193722,
+      "word": "陈妍希十天爆改失败",
+      "onboard_time": 1714109779,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413441,
       "num": 305622,
       "word": "男朋友加了我妈微信",
@@ -22091,14 +22139,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 382888,
-      "num": 238592,
-      "word": "雷军 车展模特",
-      "onboard_time": 1714108938,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 382720,
       "num": 308768,
       "word": "微信删好友应不应该先打招呼",
@@ -23345,6 +23385,14 @@
       "onboard_time": 1713488718,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 360624,
+      "num": 191710,
+      "word": "孩子丢出25.7g金手镯男子捡走当玩具",
+      "onboard_time": 1714111279,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360421,
@@ -41627,6 +41675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201795,
+      "num": 187804,
+      "word": "戚薇一公舞台",
+      "onboard_time": 1714111460,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201788,
       "num": 201788,
       "word": "四月是你的谎言",
@@ -44827,6 +44883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191611,
+      "num": 186262,
+      "word": "尚雯婕大vocal",
+      "onboard_time": 1714112120,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191606,
       "num": 191606,
       "word": "乳腺疾病真的是被气出来的吗",
@@ -45409,6 +45473,14 @@
       "onboard_time": 1713619519,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190174,
+      "num": 190174,
+      "word": "苹果否认非洲供应链使用血矿",
+      "onboard_time": 1714111698,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 190172,
@@ -49483,6 +49555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176297,
+      "num": 176297,
+      "word": "Gumayusi回应Bin说MSI要虐T1GEN",
+      "onboard_time": 1714110978,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176280,
       "num": 176280,
       "word": "ELK被盗号",
@@ -50065,6 +50145,14 @@
       "onboard_time": 1713316518,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174308,
+      "num": 174308,
+      "word": "张予曦 梦中情猫",
+      "onboard_time": 1714110619,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 174301,
@@ -55795,6 +55883,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 153068,
+      "num": 153068,
+      "word": "赵乾景 配音圈",
+      "onboard_time": 1714112478,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153063,
       "num": 153063,
       "word": "网易或将获得不限于暴雪IP的手游研运机会",
@@ -57307,6 +57403,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 148680,
+      "num": 123725,
+      "word": "草莓主理人卓沅的格局",
+      "onboard_time": 1714112159,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148670,
       "num": 148670,
       "word": "智界S7",
@@ -57785,6 +57889,14 @@
       "onboard_time": 1713184698,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147242,
+      "num": 123849,
+      "word": "王嘉尔BIBI合作新歌",
+      "onboard_time": 1714112359,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 147198,
@@ -67435,6 +67547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 105075,
+      "num": 105075,
+      "word": "原来我拖延的根本原因是畏难",
+      "onboard_time": 1714110798,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105002,
       "num": 105002,
       "word": "皇马vs巴萨",
@@ -70859,6 +70979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57790,
+      "num": 259238,
+      "word": "户外首选墨镜",
+      "onboard_time": 1714108999,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 57694,
       "num": 300730,
       "word": "就没有波司登做不了的衣服",
@@ -71737,14 +71865,6 @@
       "onboard_time": 1713989350,
       "rank": 43,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 45207,
-      "num": 259238,
-      "word": "户外首选墨镜",
-      "onboard_time": 1714108999,
-      "rank": 26,
-      "category": "时尚"
     },
     {
       "raw_hot": 44932,

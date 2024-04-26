@@ -1,0 +1,410 @@
+{
+  "runTime": 1714112687884,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1616077,
+        "num": 1616077,
+        "word": "淀粉肠 骨泥",
+        "onboard_time": 1714108699,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 764706,
+        "num": 764706,
+        "word": "不该 仙品",
+        "onboard_time": 1714108100,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7120,
+        "num": 706366,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704585,
+        "num": 704585,
+        "word": "韩企开始清退35岁以上员工",
+        "onboard_time": 1714110678,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680168,
+        "num": 680168,
+        "word": "雷军 车展模特",
+        "onboard_time": 1714108938,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 854449,
+        "num": 674367,
+        "word": "林生斌",
+        "onboard_time": 1714095318,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665586,
+        "num": 665586,
+        "word": "戚薇的眼神不像演的",
+        "onboard_time": 1714110138,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485929,
+        "num": 485929,
+        "word": "张翰 佛山电翰",
+        "onboard_time": 1714099698,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442823,
+        "num": 442823,
+        "word": "陈昊宇 惊艳",
+        "onboard_time": 1714107621,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82918,
+        "num": 442555,
+        "word": "谭爷爷你孙女当花局长了",
+        "onboard_time": 1714072811,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1269514,
+        "num": 441389,
+        "word": "美国男子强奸14岁少女被判物理阉割",
+        "onboard_time": 1714104378,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1025321,
+        "num": 439757,
+        "word": "林更新 把你的恶心收一收",
+        "onboard_time": 1714105760,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572204,
+        "num": 438041,
+        "word": "腿粗屁股大的人竟然更长寿",
+        "onboard_time": 1714106839,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 532676,
+        "num": 436936,
+        "word": "单亲妈妈称被都美竹诱骗近20万要求还钱",
+        "onboard_time": 1714111339,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436788,
+        "num": 436788,
+        "word": "王嘉尔MV真亲了吗",
+        "onboard_time": 1714107981,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 392418,
+        "num": 392418,
+        "word": "五一机票酒店都在咬牙降价",
+        "onboard_time": 1714102218,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245727,
+        "num": 245727,
+        "word": "发如雪绝美",
+        "onboard_time": 1714106000,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241108,
+        "num": 241108,
+        "word": "aespa对整个kpop的Drama诅咒",
+        "onboard_time": 1714108100,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234782,
+        "num": 234782,
+        "word": "欧豪撩赵昭仪",
+        "onboard_time": 1714100658,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198927,
+        "num": 198927,
+        "word": "林生斌要求导演刘信达公开道歉",
+        "onboard_time": 1714102638,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 590633,
+        "num": 197731,
+        "word": "常用乳贴会导致乳房下垂吗",
+        "onboard_time": 1714110678,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 561091,
+        "num": 196082,
+        "word": "周扬青对韩雪说不要倚老卖老",
+        "onboard_time": 1714091538,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413530,
+        "num": 193722,
+        "word": "陈妍希十天爆改失败",
+        "onboard_time": 1714109779,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360624,
+        "num": 191710,
+        "word": "孩子丢出25.7g金手镯男子捡走当玩具",
+        "onboard_time": 1714111279,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190174,
+        "num": 190174,
+        "word": "苹果否认非洲供应链使用血矿",
+        "onboard_time": 1714111698,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 57790,
+        "num": 189951,
+        "word": "户外首选墨镜",
+        "onboard_time": 1714108999,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 217114,
+        "num": 189085,
+        "word": "综艺史上第一次这么多人同睡",
+        "onboard_time": 1714101018,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208572,
+        "num": 188868,
+        "word": "中国日报发了肖战",
+        "onboard_time": 1714108040,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201795,
+        "num": 187804,
+        "word": "戚薇一公舞台",
+        "onboard_time": 1714111460,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169486,
+        "num": 187381,
+        "word": "丫丫回家一年从yy胖成YY",
+        "onboard_time": 1714095559,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194542,
+        "num": 186612,
+        "word": "邓超求科普水瓶座",
+        "onboard_time": 1714105520,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191611,
+        "num": 186262,
+        "word": "尚雯婕大vocal",
+        "onboard_time": 1714112120,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185939,
+        "num": 185939,
+        "word": "向太说吴镇宇拿不了影帝的原因",
+        "onboard_time": 1714109239,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176297,
+        "num": 176297,
+        "word": "Gumayusi回应Bin说MSI要虐T1GEN",
+        "onboard_time": 1714110978,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174308,
+        "num": 174308,
+        "word": "张予曦 梦中情猫",
+        "onboard_time": 1714110619,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153068,
+        "num": 153068,
+        "word": "赵乾景 配音圈",
+        "onboard_time": 1714112478,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152513,
+        "num": 152513,
+        "word": "顾昀迟",
+        "onboard_time": 1714107860,
+        "rank": 36,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 133544,
+        "num": 133544,
+        "word": "A股",
+        "onboard_time": 1714112359,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126410,
+        "num": 126410,
+        "word": "得了癌症如果不治疗能活多久",
+        "onboard_time": 1714097597,
+        "rank": 38,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 123906,
+        "num": 123906,
+        "word": "拉塞尔 0分",
+        "onboard_time": 1714105701,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147242,
+        "num": 123849,
+        "word": "王嘉尔BIBI合作新歌",
+        "onboard_time": 1714112359,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148680,
+        "num": 123725,
+        "word": "草莓主理人卓沅的格局",
+        "onboard_time": 1714112159,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139224,
+        "num": 123430,
+        "word": "白鹿拍了穿越短剧",
+        "onboard_time": 1714105701,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122926,
+        "num": 122926,
+        "word": "原来调休的反义词是搭桥",
+        "onboard_time": 1714100298,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137525,
+        "num": 117739,
+        "word": "金莎看与凤行看到脸浮肿",
+        "onboard_time": 1714108340,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134508,
+        "num": 116298,
+        "word": "向太问向佐吴镇宇是逼着你拿鼻孔演戏吗",
+        "onboard_time": 1714107500,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127701,
+        "num": 113659,
+        "word": "关晓彤范丞丞再合作",
+        "onboard_time": 1714107080,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110689,
+        "num": 110689,
+        "word": "下一个被淘汰的电子产品是什么",
+        "onboard_time": 1714090759,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105075,
+        "num": 105075,
+        "word": "原来我拖延的根本原因是畏难",
+        "onboard_time": 1714110798,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105015,
+        "num": 105015,
+        "word": "导演刘信达被判侵犯林生斌隐私权将上诉",
+        "onboard_time": 1714090337,
+        "rank": 49,
+        "category": "社会新闻,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#开创西部大开发新格局#"
+    }
+  }
+}

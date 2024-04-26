@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714109735699,
+  "endTime": 1714112687884,
   "band_list": [
     {
       "raw_hot": 2869467,
@@ -25,6 +25,14 @@
       "onboard_time": 1714091538,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1616077,
+      "num": 1616077,
+      "word": "淀粉肠 骨泥",
+      "onboard_time": 1714108699,
+      "rank": 15,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1595682,
@@ -155,6 +163,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 764706,
+      "num": 764706,
+      "word": "不该 仙品",
+      "onboard_time": 1714108100,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 758656,
       "num": 197217,
       "word": "金靖舒奕橙在一起四年多了",
@@ -179,6 +195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 704585,
+      "num": 704585,
+      "word": "韩企开始清退35岁以上员工",
+      "onboard_time": 1714110678,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 681369,
       "num": 681369,
       "word": "林生斌要求导演刘信达公开道歉",
@@ -187,10 +211,26 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 680168,
+      "num": 680168,
+      "word": "雷军 车展模特",
+      "onboard_time": 1714108938,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 669784,
       "num": 669784,
       "word": "向太没认出来向佐",
       "onboard_time": 1714097299,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 665586,
+      "num": 665586,
+      "word": "戚薇的眼神不像演的",
+      "onboard_time": 1714110138,
       "rank": 6,
       "category": "综艺"
     },
@@ -267,11 +307,11 @@
       "category": "艺人,动漫"
     },
     {
-      "raw_hot": 582333,
-      "num": 518096,
-      "word": "淀粉肠 骨泥",
-      "onboard_time": 1714108699,
-      "rank": 15,
+      "raw_hot": 590633,
+      "num": 197731,
+      "word": "常用乳贴会导致乳房下垂吗",
+      "onboard_time": 1714110678,
+      "rank": 20,
       "category": "科学科普"
     },
     {
@@ -291,20 +331,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 548972,
-      "num": 548972,
-      "word": "不该 仙品",
-      "onboard_time": 1714108100,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 539388,
       "num": 539388,
       "word": "王嘉尔MV真亲了吗",
       "onboard_time": 1714107981,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 532676,
+      "num": 436936,
+      "word": "单亲妈妈称被都美竹诱骗近20万要求还钱",
+      "onboard_time": 1714111339,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 532633,
@@ -387,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 413530,
+      "num": 193722,
+      "word": "陈妍希十天爆改失败",
+      "onboard_time": 1714109779,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409511,
       "num": 409511,
       "word": "华为高级工程师回应AI消除衣物争议",
@@ -427,20 +475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 382888,
-      "num": 238592,
-      "word": "雷军 车展模特",
-      "onboard_time": 1714108938,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 369756,
       "num": 369756,
       "word": "黄景瑜和警校学生掰手腕",
       "onboard_time": 1714059439,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 360624,
+      "num": 191710,
+      "word": "孩子丢出25.7g金手镯男子捡走当玩具",
+      "onboard_time": 1714111279,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358994,
@@ -867,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201795,
+      "num": 187804,
+      "word": "戚薇一公舞台",
+      "onboard_time": 1714111460,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198312,
       "num": 198312,
       "word": "花琴 人生易如反掌",
@@ -923,12 +979,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191611,
+      "num": 186262,
+      "word": "尚雯婕大vocal",
+      "onboard_time": 1714112120,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190424,
       "num": 182420,
       "word": "湖人内部对浓眉言论失望",
       "onboard_time": 1714100539,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190174,
+      "num": 190174,
+      "word": "苹果否认非洲供应链使用血矿",
+      "onboard_time": 1714111698,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 189957,
@@ -1059,11 +1131,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176297,
+      "num": 176297,
+      "word": "Gumayusi回应Bin说MSI要虐T1GEN",
+      "onboard_time": 1714110978,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 175150,
       "num": 175150,
       "word": "小叶 小峰",
       "onboard_time": 1714087216,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 174308,
+      "num": 174308,
+      "word": "张予曦 梦中情猫",
+      "onboard_time": 1714110619,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1131,6 +1219,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 153068,
+      "num": 153068,
+      "word": "赵乾景 配音圈",
+      "onboard_time": 1714112478,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152577,
       "num": 152577,
       "word": "十天之后回到现实",
@@ -1155,12 +1251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148680,
+      "num": 123725,
+      "word": "草莓主理人卓沅的格局",
+      "onboard_time": 1714112159,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148364,
       "num": 243964,
       "word": "职高女孩用9年逆袭成为双一流大学研究生",
       "onboard_time": 1714039758,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 147242,
+      "num": 123849,
+      "word": "王嘉尔BIBI合作新歌",
+      "onboard_time": 1714112359,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 144364,
@@ -1233,6 +1345,14 @@
       "onboard_time": 1714090638,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133544,
+      "num": 133544,
+      "word": "A股",
+      "onboard_time": 1714112359,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 133526,
@@ -1385,6 +1505,14 @@
       "onboard_time": 1714053859,
       "rank": 19,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 105075,
+      "num": 105075,
+      "word": "原来我拖延的根本原因是畏难",
+      "onboard_time": 1714110798,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 102542,
@@ -1579,6 +1707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 57790,
+      "num": 259238,
+      "word": "户外首选墨镜",
+      "onboard_time": 1714108999,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 56746,
       "num": 194279,
       "word": "S组大结局",
@@ -1625,14 +1761,6 @@
       "onboard_time": 1714042459,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 45207,
-      "num": 259238,
-      "word": "户外首选墨镜",
-      "onboard_time": 1714108999,
-      "rank": 26,
-      "category": "时尚"
     },
     {
       "raw_hot": 44470,
