@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714156515391,
+  "endTime": 1714158933215,
   "band_list": [
     {
       "raw_hot": 1356945,
@@ -171,6 +171,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 232237,
+      "num": 232237,
+      "word": "台湾花莲附近发生4.6级左右地震",
+      "onboard_time": 1714155852,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223574,
       "num": 223574,
       "word": "gidle御用化妆师的上妆手法",
@@ -219,14 +227,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 171200,
-      "num": 112478,
-      "word": "台湾花莲附近发生4.6级左右地震",
-      "onboard_time": 1714155852,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165954,
       "num": 165954,
       "word": "李溪芮女团范儿",
@@ -259,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144968,
+      "num": 107246,
+      "word": "女生晒八年级妹妹价值888元点阵笔",
+      "onboard_time": 1714153094,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142547,
       "num": 142547,
       "word": "杨紫工作室发文告别麦承欢",
@@ -289,14 +297,6 @@
       "onboard_time": 1714145358,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118521,
-      "num": 107246,
-      "word": "女生晒八年级妹妹价值888元点阵笔",
-      "onboard_time": 1714153094,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111324,
@@ -475,6 +475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 34970,
+      "num": 34970,
+      "word": "发明邓超的人真是个天才",
+      "onboard_time": 1714157532,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32729,
       "num": 32729,
       "word": "乘风赛点秀",
@@ -489,6 +497,30 @@
       "onboard_time": 1714155192,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 26876,
+      "num": 26876,
+      "word": "浪姐 修音",
+      "onboard_time": 1714157891,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 26573,
+      "num": 26573,
+      "word": "英雄联盟",
+      "onboard_time": 1714157172,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 25176,
+      "num": 25176,
+      "word": "薛之谦演唱会上的小朋友",
+      "onboard_time": 1714157052,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 3763,
