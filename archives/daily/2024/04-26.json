@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714127842057,
+  "endTime": 1714130123265,
   "band_list": [
     {
       "raw_hot": 2869467,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 918482,
+      "num": 918482,
+      "word": "韩国N号房事件再现",
+      "onboard_time": 1714128618,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 876270,
       "num": 876270,
       "word": "韩企开始清退35岁以上员工",
@@ -153,6 +161,14 @@
       "onboard_time": 1714089077,
       "rank": 20,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 844988,
+      "num": 368095,
+      "word": "向太大腿骨断裂",
+      "onboard_time": 1714127958,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 832245,
@@ -259,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 741859,
+      "num": 382150,
+      "word": "原来戚薇是方文山徒弟",
+      "onboard_time": 1714124299,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 723401,
       "num": 723401,
       "word": "李彩桦去拍短剧了",
@@ -323,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 645298,
+      "num": 645298,
+      "word": "厦门教师招聘疑因取消编制无人报考",
+      "onboard_time": 1714126878,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643697,
       "num": 643697,
       "word": "五一机票酒店都在咬牙降价",
@@ -336,14 +368,6 @@
       "word": "乘风2024首场公演",
       "onboard_time": 1714104138,
       "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 635087,
-      "num": 382150,
-      "word": "原来戚薇是方文山徒弟",
-      "onboard_time": 1714124299,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -555,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 431775,
+      "num": 431775,
+      "word": "水龙吟预告",
+      "onboard_time": 1714125378,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 431385,
       "num": 431385,
       "word": "终于明白旱的旱死涝的涝死",
@@ -577,14 +609,6 @@
       "onboard_time": 1714121177,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 420744,
-      "num": 420744,
-      "word": "水龙吟预告",
-      "onboard_time": 1714125378,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 419755,
@@ -632,6 +656,14 @@
       "word": "全球热",
       "onboard_time": 1714093518,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 385538,
+      "num": 385538,
+      "word": "Jennie硬控我18秒",
+      "onboard_time": 1714128858,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -731,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335710,
+      "num": 335710,
+      "word": "恋综 合约情侣",
+      "onboard_time": 1714129157,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332976,
       "num": 332976,
       "word": "王毅同布林肯举行会谈",
@@ -745,6 +785,14 @@
       "onboard_time": 1714099938,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326482,
+      "num": 326482,
+      "word": "中美五点共识",
+      "onboard_time": 1714129338,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 323911,
@@ -835,12 +883,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289012,
+      "num": 289012,
+      "word": "发如雪",
+      "onboard_time": 1714128559,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287925,
       "num": 287925,
       "word": "关晓彤范丞丞再合作",
       "onboard_time": 1714107080,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285706,
+      "num": 285706,
+      "word": "邓超 亚比囧囧囧",
+      "onboard_time": 1714124119,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 284785,
@@ -865,14 +929,6 @@
       "onboard_time": 1714108040,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 275146,
-      "num": 275146,
-      "word": "邓超 亚比囧囧囧",
-      "onboard_time": 1714124119,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 270973,
@@ -913,6 +969,14 @@
       "onboard_time": 1714089497,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258674,
+      "num": 258674,
+      "word": "小婉 真实追星迪丽热巴",
+      "onboard_time": 1714128978,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 255543,
@@ -1091,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230867,
+      "num": 230867,
+      "word": "夏之光黄俊捷合照",
+      "onboard_time": 1714129278,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230311,
       "num": 230311,
       "word": "张若昀说庆余年五月中旬播",
@@ -1147,14 +1219,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 216697,
-      "num": 216697,
-      "word": "厦门教师招聘疑因取消编制无人报考",
-      "onboard_time": 1714126878,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215157,
       "num": 240109,
       "word": "我的星穹铁道一周年",
@@ -1177,6 +1241,14 @@
       "onboard_time": 1714086495,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208650,
+      "num": 208650,
+      "word": "陈丽君眼睛好亮",
+      "onboard_time": 1714129278,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 208243,
@@ -1233,6 +1305,22 @@
       "onboard_time": 1714111460,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200547,
+      "num": 200547,
+      "word": "胡先煦张子枫红毯上撒玫瑰",
+      "onboard_time": 1714128078,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 199626,
+      "num": 199626,
+      "word": "白玉兰直播",
+      "onboard_time": 1714129637,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 199409,
@@ -1707,6 +1795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159082,
+      "num": 198219,
+      "word": "日本或成五一爆款旅游地",
+      "onboard_time": 1714129098,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 158332,
       "num": 195748,
       "word": "ive新歌背景是葫芦娃救爷爷",
@@ -1851,6 +1947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145177,
+      "num": 145177,
+      "word": "大妈打游戏有一种平静的癫感",
+      "onboard_time": 1714128139,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144364,
       "num": 144364,
       "word": "B太 青岛海鲜商战",
@@ -1865,6 +1969,14 @@
       "onboard_time": 1714125977,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141462,
+      "num": 141462,
+      "word": "美国反对调查加沙乱葬坑",
+      "onboard_time": 1714127897,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 141298,
@@ -2051,6 +2163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129563,
+      "num": 129563,
+      "word": "中方回应能否证实哈马斯和法塔赫在北京会面",
+      "onboard_time": 1714129578,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129528,
       "num": 129528,
       "word": "深圳市分区暴雨红色预警",
@@ -2081,6 +2201,14 @@
       "onboard_time": 1714057759,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128927,
+      "num": 374401,
+      "word": "云南人专属浪漫油炸玫瑰花",
+      "onboard_time": 1714128378,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 128731,
@@ -2257,6 +2385,14 @@
       "onboard_time": 1714126637,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113031,
+      "num": 113031,
+      "word": "对着警犬福仔说仔仔",
+      "onboard_time": 1714130057,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 110500,
@@ -2681,6 +2817,14 @@
       "onboard_time": 1714075150,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11092,
+      "num": 145837,
+      "word": "临沂的夜夜夜太美了",
+      "onboard_time": 1714129219,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10703,

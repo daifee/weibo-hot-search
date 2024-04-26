@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714127842057,
+  "endTime": 1714130123265,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -1355,6 +1355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 918482,
+      "num": 918482,
+      "word": "韩国N号房事件再现",
+      "onboard_time": 1714128618,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 915332,
       "num": 915332,
       "word": "工作人员输错号让彩民中800多万",
@@ -1593,6 +1601,14 @@
       "onboard_time": 1713953900,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 844988,
+      "num": 368095,
+      "word": "向太大腿骨断裂",
+      "onboard_time": 1714127958,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 839464,
@@ -1929,6 +1945,14 @@
       "onboard_time": 1714012338,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 741859,
+      "num": 382150,
+      "word": "原来戚薇是方文山徒弟",
+      "onboard_time": 1714124299,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 740875,
@@ -2467,6 +2491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 645298,
+      "num": 645298,
+      "word": "厦门教师招聘疑因取消编制无人报考",
+      "onboard_time": 1714126878,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643776,
       "num": 643776,
       "word": "于正海报审美",
@@ -2552,14 +2584,6 @@
       "word": "刘宇要上恋综了",
       "onboard_time": 1713868938,
       "rank": 9,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 635087,
-      "num": 382150,
-      "word": "原来戚薇是方文山徒弟",
-      "onboard_time": 1714124299,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -4363,6 +4387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 431775,
+      "num": 431775,
+      "word": "水龙吟预告",
+      "onboard_time": 1714125378,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 431385,
       "num": 431385,
       "word": "终于明白旱的旱死涝的涝死",
@@ -4505,14 +4537,6 @@
       "onboard_time": 1713658216,
       "rank": 9,
       "category": "演出"
-    },
-    {
-      "raw_hot": 420744,
-      "num": 420744,
-      "word": "水龙吟预告",
-      "onboard_time": 1714125378,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 420505,
@@ -4945,6 +4969,14 @@
       "onboard_time": 1713798321,
       "rank": 28,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 385538,
+      "num": 385538,
+      "word": "Jennie硬控我18秒",
+      "onboard_time": 1714128858,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 385350,
@@ -5563,6 +5595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335710,
+      "num": 335710,
+      "word": "恋综 合约情侣",
+      "onboard_time": 1714129157,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335314,
       "num": 335314,
       "word": "金靖 怀孕",
@@ -5713,6 +5753,14 @@
       "onboard_time": 1713629060,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326482,
+      "num": 326482,
+      "word": "中美五点共识",
+      "onboard_time": 1714129338,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 326348,
@@ -6299,6 +6347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 289012,
+      "num": 289012,
+      "word": "发如雪",
+      "onboard_time": 1714128559,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288943,
       "num": 288943,
       "word": "华为Pura70",
@@ -6385,6 +6441,14 @@
       "onboard_time": 1713788899,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285706,
+      "num": 285706,
+      "word": "邓超 亚比囧囧囧",
+      "onboard_time": 1714124119,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 285157,
@@ -6617,14 +6681,6 @@
       "onboard_time": 1713783318,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 275146,
-      "num": 275146,
-      "word": "邓超 亚比囧囧囧",
-      "onboard_time": 1714124119,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 274990,
@@ -7073,6 +7129,14 @@
       "onboard_time": 1713960857,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258674,
+      "num": 258674,
+      "word": "小婉 真实追星迪丽热巴",
+      "onboard_time": 1714128978,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 258414,
@@ -8019,6 +8083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230867,
+      "num": 230867,
+      "word": "夏之光黄俊捷合照",
+      "onboard_time": 1714129278,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230855,
       "num": 230855,
       "word": "林俊杰新歌",
@@ -8571,14 +8643,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 216697,
-      "num": 216697,
-      "word": "厦门教师招聘疑因取消编制无人报考",
-      "onboard_time": 1714126878,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216020,
       "num": 208433,
       "word": "李梦23分",
@@ -8937,6 +9001,14 @@
       "onboard_time": 1713687258,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208650,
+      "num": 208650,
+      "word": "陈丽君眼睛好亮",
+      "onboard_time": 1714129278,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 208244,
@@ -9595,6 +9667,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 200547,
+      "num": 200547,
+      "word": "胡先煦张子枫红毯上撒玫瑰",
+      "onboard_time": 1714128078,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200422,
       "num": 200422,
       "word": "袁娅维是张杰张含韵校友",
@@ -9633,6 +9713,14 @@
       "onboard_time": 1713673458,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199626,
+      "num": 199626,
+      "word": "白玉兰直播",
+      "onboard_time": 1714129637,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 199593,
@@ -12675,6 +12763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159082,
+      "num": 198219,
+      "word": "日本或成五一爆款旅游地",
+      "onboard_time": 1714129098,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 159077,
       "num": 159077,
       "word": "浪姐在袁娅维的雷点反复蹦迪",
@@ -13787,6 +13883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145177,
+      "num": 145177,
+      "word": "大妈打游戏有一种平静的癫感",
+      "onboard_time": 1714128139,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145156,
       "num": 145156,
       "word": "大侦探一直在用自己的方式发声",
@@ -14089,6 +14193,14 @@
       "onboard_time": 1713921319,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141462,
+      "num": 141462,
+      "word": "美国反对调查加沙乱葬坑",
+      "onboard_time": 1714127897,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 141373,
@@ -15019,6 +15131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129563,
+      "num": 129563,
+      "word": "中方回应能否证实哈马斯和法塔赫在北京会面",
+      "onboard_time": 1714129578,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129528,
       "num": 129528,
       "word": "深圳市分区暴雨红色预警",
@@ -15081,6 +15201,14 @@
       "onboard_time": 1713683718,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128927,
+      "num": 374401,
+      "word": "云南人专属浪漫油炸玫瑰花",
+      "onboard_time": 1714128378,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 128859,
@@ -16041,6 +16169,14 @@
       "onboard_time": 1713780437,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113031,
+      "num": 113031,
+      "word": "对着警犬福仔说仔仔",
+      "onboard_time": 1714130057,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 112800,
@@ -18024,6 +18160,14 @@
       "word": "四川村K现场有多嗨",
       "onboard_time": 1713818051,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11092,
+      "num": 145837,
+      "word": "临沂的夜夜夜太美了",
+      "onboard_time": 1714129219,
+      "rank": 39,
       "category": "社会新闻"
     },
     {

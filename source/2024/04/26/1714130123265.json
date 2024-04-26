@@ -1,0 +1,410 @@
+{
+  "runTime": 1714130123265,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 918482,
+        "num": 918482,
+        "word": "韩国N号房事件再现",
+        "onboard_time": 1714128618,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645298,
+        "num": 645298,
+        "word": "厦门教师招聘疑因取消编制无人报考",
+        "onboard_time": 1714126878,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3832,
+        "num": 626993,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609171,
+        "num": 609171,
+        "word": "中国女留学生澳大利亚失联在泰国被找到",
+        "onboard_time": 1714121959,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496852,
+        "num": 496852,
+        "word": "李嘉格 淘汰",
+        "onboard_time": 1714123098,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483372,
+        "num": 483372,
+        "word": "休想换走我的高铁F座",
+        "onboard_time": 1714122617,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 431775,
+        "num": 431775,
+        "word": "水龙吟预告",
+        "onboard_time": 1714125378,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385538,
+        "num": 385538,
+        "word": "Jennie硬控我18秒",
+        "onboard_time": 1714128858,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118152,
+        "num": 378502,
+        "word": "古人看了这场秀不知要作多少诗",
+        "onboard_time": 1714123758,
+        "rank": 8,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 128927,
+        "num": 374401,
+        "word": "云南人专属浪漫油炸玫瑰花",
+        "onboard_time": 1714128378,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 844988,
+        "num": 368095,
+        "word": "向太大腿骨断裂",
+        "onboard_time": 1714127958,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 741859,
+        "num": 356138,
+        "word": "原来戚薇是方文山徒弟",
+        "onboard_time": 1714124299,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447515,
+        "num": 348674,
+        "word": "美国男子强奸14岁少女被判物理阉割",
+        "onboard_time": 1714104378,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396013,
+        "num": 341610,
+        "word": "林更新 把你的恶心收一收",
+        "onboard_time": 1714105760,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335710,
+        "num": 335710,
+        "word": "恋综 合约情侣",
+        "onboard_time": 1714129157,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330886,
+        "num": 330886,
+        "word": "虞书欣晒Jennie联名独角兽",
+        "onboard_time": 1714122559,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328196,
+        "num": 328196,
+        "word": "林生斌",
+        "onboard_time": 1714095318,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326482,
+        "num": 326482,
+        "word": "中美五点共识",
+        "onboard_time": 1714129338,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 289012,
+        "num": 289012,
+        "word": "发如雪",
+        "onboard_time": 1714128559,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285706,
+        "num": 285706,
+        "word": "邓超 亚比囧囧囧",
+        "onboard_time": 1714124119,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 430882,
+        "num": 273240,
+        "word": "男友妈妈叫我婚前别买车",
+        "onboard_time": 1714122978,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354702,
+        "num": 271574,
+        "word": "常用乳贴会导致乳房下垂吗",
+        "onboard_time": 1714110678,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 304692,
+        "num": 270902,
+        "word": "五一后提离职还会算工资吗",
+        "onboard_time": 1714122559,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258674,
+        "num": 258674,
+        "word": "小婉 真实追星迪丽热巴",
+        "onboard_time": 1714128978,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258575,
+        "num": 258575,
+        "word": "杨紫李现国色芳华片花",
+        "onboard_time": 1714124659,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250041,
+        "num": 250041,
+        "word": "花少1 真正的穷游",
+        "onboard_time": 1714120757,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239223,
+        "num": 239223,
+        "word": "湖人被横扫",
+        "onboard_time": 1714125857,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230867,
+        "num": 230867,
+        "word": "夏之光黄俊捷合照",
+        "onboard_time": 1714129278,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219248,
+        "num": 219248,
+        "word": "金靖 通透",
+        "onboard_time": 1714127178,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210955,
+        "num": 210955,
+        "word": "腿粗屁股大的人竟然更长寿",
+        "onboard_time": 1714106839,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 208650,
+        "num": 208650,
+        "word": "陈丽君眼睛好亮",
+        "onboard_time": 1714129278,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202394,
+        "num": 202394,
+        "word": "歌手2024官宣定档",
+        "onboard_time": 1714113438,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200547,
+        "num": 200547,
+        "word": "胡先煦张子枫红毯上撒玫瑰",
+        "onboard_time": 1714128078,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199626,
+        "num": 199626,
+        "word": "白玉兰直播",
+        "onboard_time": 1714129637,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159082,
+        "num": 198219,
+        "word": "日本或成五一爆款旅游地",
+        "onboard_time": 1714129098,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 197727,
+        "num": 197727,
+        "word": "Jennie直播",
+        "onboard_time": 1714121836,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195290,
+        "num": 195290,
+        "word": "李彩桦去拍短剧了",
+        "onboard_time": 1714118179,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186232,
+        "num": 186232,
+        "word": "肖战 Gucci",
+        "onboard_time": 1714115298,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145955,
+        "num": 145955,
+        "word": "纽约大学120余人声援巴勒斯坦被拘",
+        "onboard_time": 1714125198,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 11092,
+        "num": 145837,
+        "word": "临沂的夜夜夜太美了",
+        "onboard_time": 1714129219,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184910,
+        "num": 145716,
+        "word": "赵露思凌乱红发",
+        "onboard_time": 1714126998,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169341,
+        "num": 145450,
+        "word": "花少好友记第三站 阵容",
+        "onboard_time": 1714125018,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167060,
+        "num": 145344,
+        "word": "十个勤天偏偏你们最争气",
+        "onboard_time": 1714126040,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145177,
+        "num": 145177,
+        "word": "大妈打游戏有一种平静的癫感",
+        "onboard_time": 1714128139,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141462,
+        "num": 141462,
+        "word": "美国反对调查加沙乱葬坑",
+        "onboard_time": 1714127897,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 129563,
+        "num": 129563,
+        "word": "中方回应能否证实哈马斯和法塔赫在北京会面",
+        "onboard_time": 1714129578,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117434,
+        "num": 117434,
+        "word": "女性最佳绝经期",
+        "onboard_time": 1714113259,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113031,
+        "num": 113031,
+        "word": "对着警犬福仔说仔仔",
+        "onboard_time": 1714130057,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112355,
+        "num": 112355,
+        "word": "淀粉肠 骨泥",
+        "onboard_time": 1714108699,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 111143,
+        "num": 111143,
+        "word": "A股五大突发利好",
+        "onboard_time": 1714126457,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代推动西部大开发座谈会#"
+    }
+  }
+}
