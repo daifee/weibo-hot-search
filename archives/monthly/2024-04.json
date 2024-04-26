@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714123142719,
+  "endTime": 1714124073811,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3436,7 +3436,7 @@
     },
     {
       "raw_hot": 1235920,
-      "num": 339017,
+      "num": 352237,
       "word": "常用乳贴会导致乳房下垂吗",
       "onboard_time": 1714110678,
       "rank": 20,
@@ -6091,6 +6091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 938271,
+      "num": 413157,
+      "word": "Jennie直播",
+      "onboard_time": 1714121836,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 937892,
       "num": 937892,
       "word": "这居然是谢可寅",
@@ -6329,14 +6337,6 @@
       "onboard_time": 1712138059,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 913651,
-      "num": 349938,
-      "word": "Jennie直播",
-      "onboard_time": 1714121836,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 913406,
@@ -7385,6 +7385,14 @@
       "onboard_time": 1713097577,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 832009,
+      "num": 404624,
+      "word": "虞书欣晒Jennie联名独角兽",
+      "onboard_time": 1714122559,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 831897,
@@ -9187,6 +9195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 734915,
+      "num": 734915,
+      "word": "中国女留学生澳大利亚失联在泰国被找到",
+      "onboard_time": 1714121959,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 734839,
       "num": 734839,
       "word": "肖战小括号",
@@ -10516,7 +10532,7 @@
     },
     {
       "raw_hot": 677379,
-      "num": 315081,
+      "num": 346481,
       "word": "孩子丢出25.7g金手镯男子捡走当玩具",
       "onboard_time": 1714111279,
       "rank": 23,
@@ -13291,14 +13307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 578838,
-      "num": 349437,
-      "word": "虞书欣晒Jennie联名独角兽",
-      "onboard_time": 1714122559,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 578526,
       "num": 578526,
       "word": "耳朵痒却掏不出东西咋回事",
@@ -14651,6 +14659,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 537544,
+      "num": 537544,
+      "word": "李嘉格 淘汰",
+      "onboard_time": 1714123098,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536916,
       "num": 379396,
       "word": "赵露思王安宇拥抱",
@@ -15849,6 +15865,14 @@
       "onboard_time": 1712310679,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 509492,
+      "num": 509492,
+      "word": "ZICO和Jennie合作曲",
+      "onboard_time": 1714123458,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 509240,
@@ -19124,7 +19148,7 @@
     },
     {
       "raw_hot": 440612,
-      "num": 349328,
+      "num": 396185,
       "word": "林更新鄙人95公斤",
       "onboard_time": 1714118538,
       "rank": 18,
@@ -19836,7 +19860,7 @@
     },
     {
       "raw_hot": 428371,
-      "num": 349385,
+      "num": 404192,
       "word": "谢娜邀请杨迪今天来家里吃长寿面",
       "onboard_time": 1714121177,
       "rank": 17,
@@ -20497,6 +20521,14 @@
       "onboard_time": 1712885540,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 415061,
+      "num": 415061,
+      "word": "花少1 真正的穷游",
+      "onboard_time": 1714120757,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 414453,
@@ -24131,14 +24163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351019,
-      "num": 351019,
-      "word": "中国女留学生澳大利亚失联在泰国被找到",
-      "onboard_time": 1714121959,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 350960,
       "num": 350960,
       "word": "李沁演技",
@@ -24249,14 +24273,6 @@
       "onboard_time": 1712752819,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 349306,
-      "num": 349306,
-      "word": "花少1 真正的穷游",
-      "onboard_time": 1714120757,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 349232,
@@ -25465,6 +25481,14 @@
       "onboard_time": 1713232098,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 330765,
+      "num": 330765,
+      "word": "男友妈妈叫我婚前别买车",
+      "onboard_time": 1714122978,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 330615,
@@ -29491,6 +29515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282392,
+      "num": 407239,
+      "word": "休想换走我的高铁F座",
+      "onboard_time": 1714122617,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 282336,
       "num": 247544,
       "word": "BABYMONSTER翻跳2NE1串烧",
@@ -33419,14 +33451,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 247485,
-      "num": 247485,
-      "word": "休想换走我的高铁F座",
-      "onboard_time": 1714122617,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 247428,
       "num": 247428,
       "word": "花间令郡主自杀了",
@@ -35563,6 +35587,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 232662,
+      "num": 232662,
+      "word": "五一后提离职还会算工资吗",
+      "onboard_time": 1714122559,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232638,
       "num": 232638,
       "word": "宁艺卓疑似签售切小屏",
@@ -36249,14 +36281,6 @@
       "onboard_time": 1712217858,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228189,
-      "num": 228189,
-      "word": "男友妈妈叫我婚前别买车",
-      "onboard_time": 1714122978,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 228074,
@@ -42435,14 +42459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 200000,
-      "num": 200000,
-      "word": "五一后提离职还会算工资吗",
-      "onboard_time": 1714122559,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 199983,
       "num": 230935,
       "word": "詹姆斯三分又爆了",
@@ -46243,6 +46259,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 188809,
+      "num": 250869,
+      "word": "古人看了这场秀不知要作多少诗",
+      "onboard_time": 1714123758,
+      "rank": 26,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 188783,
       "num": 188783,
       "word": "原神4.6版本",
@@ -49083,6 +49107,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 179218,
+      "num": 231471,
+      "word": "纽约警方荷枪实弹全面封锁哥大",
+      "onboard_time": 1714122437,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179196,
       "num": 179196,
       "word": "时代少年团演唱会座位图",
@@ -49209,6 +49241,14 @@
       "onboard_time": 1713750677,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178762,
+      "num": 178762,
+      "word": "黄子弘凡是会分身吗",
+      "onboard_time": 1714123938,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 178758,
@@ -53795,6 +53835,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 161631,
+      "num": 161631,
+      "word": "娜扎那英一个敢问一个敢答",
+      "onboard_time": 1714123517,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161616,
       "num": 161616,
       "word": "WBG疑似参加沙特电竞杯",
@@ -54891,6 +54939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157277,
+      "num": 157277,
+      "word": "SPOT",
+      "onboard_time": 1714123758,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 157271,
       "num": 157271,
       "word": "诺米 音乐节",
@@ -55393,6 +55449,14 @@
       "onboard_time": 1713927977,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155655,
+      "num": 155655,
+      "word": "胡锡进今天大涨超15000元",
+      "onboard_time": 1714123278,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 155608,
@@ -60075,6 +60139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141298,
+      "num": 141298,
+      "word": "翻到了自己的第一条QQ空间",
+      "onboard_time": 1714123038,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141277,
       "num": 141277,
       "word": "代旭哭戏",
@@ -62227,14 +62299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133690,
-      "num": 133690,
-      "word": "纽约警方荷枪实弹全面封锁哥大",
-      "onboard_time": 1714122437,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133679,
       "num": 133679,
       "word": "赵岩昊请神请到真库里",
@@ -63304,6 +63368,14 @@
       "word": "数学就是玄学",
       "onboard_time": 1714057279,
       "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 129871,
+      "num": 129871,
+      "word": "我真是上班一套下班一套的",
+      "onboard_time": 1714123517,
+      "rank": 45,
       "category": "幽默"
     },
     {
@@ -65907,6 +65979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118981,
+      "num": 118981,
+      "word": "苏见仁的恋爱脑终于醒了",
+      "onboard_time": 1714124058,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118969,
       "num": 118969,
       "word": "港片又行了",
@@ -65921,14 +66001,6 @@
       "onboard_time": 1713321258,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118939,
-      "num": 118939,
-      "word": "翻到了自己的第一条QQ空间",
-      "onboard_time": 1714123038,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 118915,
@@ -67265,14 +67337,6 @@
       "onboard_time": 1712744238,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110617,
-      "num": 110617,
-      "word": "李嘉格 淘汰",
-      "onboard_time": 1714123098,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 110540,
@@ -69267,6 +69331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93568,
+      "num": 406160,
+      "word": "宝马亮马",
+      "onboard_time": 1714120819,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 93440,
       "num": 255163,
       "word": "米兰最红打卡地来自中国",
@@ -69377,14 +69449,6 @@
       "onboard_time": 1712100256,
       "rank": 34,
       "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 91731,
-      "num": 349419,
-      "word": "宝马亮马",
-      "onboard_time": 1714120819,
-      "rank": 16,
-      "category": "汽车"
     },
     {
       "raw_hot": 91665,
@@ -71324,7 +71388,7 @@
     },
     {
       "raw_hot": 60172,
-      "num": 514501,
+      "num": 570951,
       "word": "多角度回顾神十八发射震撼瞬间",
       "onboard_time": 1714120998,
       "rank": 2,
@@ -72340,7 +72404,7 @@
     },
     {
       "raw_hot": 46373,
-      "num": 199375,
+      "num": 230304,
       "word": "王传福现身小米展台",
       "onboard_time": 1714121899,
       "rank": 30,
