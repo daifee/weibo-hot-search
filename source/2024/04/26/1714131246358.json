@@ -1,0 +1,410 @@
+{
+  "runTime": 1714131246358,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1401738,
+        "num": 1401738,
+        "word": "韩国N号房事件再现",
+        "onboard_time": 1714128618,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784385,
+        "num": 784385,
+        "word": "厦门教师招聘疑因取消编制无人报考",
+        "onboard_time": 1714126878,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5318,
+        "num": 646860,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578866,
+        "num": 578866,
+        "word": "恋综 合约情侣",
+        "onboard_time": 1714129157,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534274,
+        "num": 534274,
+        "word": "中美五点共识",
+        "onboard_time": 1714129338,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 416643,
+        "num": 416643,
+        "word": "休想换走我的高铁F座",
+        "onboard_time": 1714122617,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 414236,
+        "num": 414236,
+        "word": "Jennie硬控我18秒",
+        "onboard_time": 1714128858,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 411520,
+        "num": 411520,
+        "word": "中国女留学生澳大利亚失联在泰国被找到",
+        "onboard_time": 1714121959,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120265,
+        "num": 411312,
+        "word": "古人看了这场秀不知要作多少诗",
+        "onboard_time": 1714123758,
+        "rank": 8,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 121930,
+        "num": 410545,
+        "word": "云南人专属浪漫油炸玫瑰花",
+        "onboard_time": 1714128378,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 732435,
+        "num": 410315,
+        "word": "向太大腿骨断裂",
+        "onboard_time": 1714127958,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688616,
+        "num": 409892,
+        "word": "原来戚薇是方文山徒弟",
+        "onboard_time": 1714124299,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436402,
+        "num": 409343,
+        "word": "美国男子强奸14岁少女被判物理阉割",
+        "onboard_time": 1714104378,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408896,
+        "num": 408896,
+        "word": "水龙吟预告",
+        "onboard_time": 1714125378,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396500,
+        "num": 396500,
+        "word": "李嘉格 淘汰",
+        "onboard_time": 1714123098,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392843,
+        "num": 392843,
+        "word": "林更新 把你的恶心收一收",
+        "onboard_time": 1714105760,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312683,
+        "num": 312683,
+        "word": "小婉 真实追星迪丽热巴",
+        "onboard_time": 1714128978,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305734,
+        "num": 305734,
+        "word": "发如雪",
+        "onboard_time": 1714128559,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304998,
+        "num": 304998,
+        "word": "邓超 亚比囧囧囧",
+        "onboard_time": 1714124119,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265646,
+        "num": 265646,
+        "word": "林生斌",
+        "onboard_time": 1714095318,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333170,
+        "num": 253730,
+        "word": "常用乳贴会导致乳房下垂吗",
+        "onboard_time": 1714110678,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 321716,
+        "num": 248388,
+        "word": "男友妈妈叫我婚前别买车",
+        "onboard_time": 1714122978,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299268,
+        "num": 245636,
+        "word": "白玉兰直播",
+        "onboard_time": 1714129637,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237716,
+        "num": 237716,
+        "word": "闪耀暖暖蜘蛛婚纱",
+        "onboard_time": 1714130837,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236321,
+        "num": 236321,
+        "word": "虞书欣晒Jennie联名独角兽",
+        "onboard_time": 1714122559,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235369,
+        "num": 235369,
+        "word": "日本或成五一爆款旅游地",
+        "onboard_time": 1714129098,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 220953,
+        "num": 220953,
+        "word": "HYBE否认不宣传newjeans",
+        "onboard_time": 1714130119,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210220,
+        "num": 210220,
+        "word": "五一后提离职还会算工资吗",
+        "onboard_time": 1714122559,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202204,
+        "num": 202204,
+        "word": "花少1 真正的穷游",
+        "onboard_time": 1714120757,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169131,
+        "num": 201705,
+        "word": "湖人被横扫",
+        "onboard_time": 1714125857,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201400,
+        "num": 201400,
+        "word": "夏之光黄俊捷合照",
+        "onboard_time": 1714129278,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195020,
+        "num": 195020,
+        "word": "不该",
+        "onboard_time": 1714130657,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194358,
+        "num": 194358,
+        "word": "京东回应大量用户订单被锁",
+        "onboard_time": 1714130597,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 191000,
+        "num": 191000,
+        "word": "京东员工误操作或致损失超百万",
+        "onboard_time": 1714130657,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 188263,
+        "num": 188263,
+        "word": "奔跑吧",
+        "onboard_time": 1714130298,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185754,
+        "num": 185754,
+        "word": "胡先煦张子枫红毯上撒玫瑰",
+        "onboard_time": 1714128078,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185343,
+        "num": 185343,
+        "word": "陈丽君眼睛好亮",
+        "onboard_time": 1714129278,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182198,
+        "num": 182198,
+        "word": "歌手2024官宣定档",
+        "onboard_time": 1714113438,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160786,
+        "num": 182012,
+        "word": "腿粗屁股大的人竟然更长寿",
+        "onboard_time": 1714106839,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 17699,
+        "num": 182001,
+        "word": "临沂的夜夜夜太美了",
+        "onboard_time": 1714129219,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181996,
+        "num": 181996,
+        "word": "杨紫李现国色芳华片花",
+        "onboard_time": 1714124659,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180339,
+        "num": 180339,
+        "word": "金靖 通透",
+        "onboard_time": 1714127178,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166457,
+        "num": 166457,
+        "word": "肖战 Gucci",
+        "onboard_time": 1714115298,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 157503,
+        "num": 157503,
+        "word": "赵露思凌乱红发",
+        "onboard_time": 1714126998,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152568,
+        "num": 152568,
+        "word": "李彩桦去拍短剧了",
+        "onboard_time": 1714118179,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151351,
+        "num": 151351,
+        "word": "边伯贤机场生图",
+        "onboard_time": 1714131198,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144416,
+        "num": 144416,
+        "word": "中方回应能否证实哈马斯和法塔赫在北京会面",
+        "onboard_time": 1714129578,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141312,
+        "num": 141312,
+        "word": "Jennie直播",
+        "onboard_time": 1714121836,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134537,
+        "num": 134537,
+        "word": "美国反对调查加沙乱葬坑",
+        "onboard_time": 1714127897,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 117952,
+        "num": 117952,
+        "word": "纽约大学120余人声援巴勒斯坦被拘",
+        "onboard_time": 1714125198,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#开创西部大开发新格局#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1714062132529,
-  "endTime": 1714130123265,
+  "endTime": 1714131246358,
   "band_list": [
     {
       "raw_hot": 2869467,
@@ -49,6 +49,14 @@
       "onboard_time": 1714099698,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1401738,
+      "num": 1401738,
+      "word": "韩国N号房事件再现",
+      "onboard_time": 1714128618,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1235920,
@@ -123,14 +131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 918482,
-      "num": 918482,
-      "word": "韩国N号房事件再现",
-      "onboard_time": 1714128618,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 876270,
       "num": 876270,
       "word": "韩企开始清退35岁以上员工",
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 844988,
-      "num": 368095,
+      "num": 410315,
       "word": "向太大腿骨断裂",
       "onboard_time": 1714127958,
       "rank": 10,
@@ -243,6 +243,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 784385,
+      "num": 784385,
+      "word": "厦门教师招聘疑因取消编制无人报考",
+      "onboard_time": 1714126878,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 764706,
       "num": 764706,
       "word": "不该 仙品",
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 741859,
-      "num": 382150,
+      "num": 409892,
       "word": "原来戚薇是方文山徒弟",
       "onboard_time": 1714124299,
       "rank": 11,
@@ -345,14 +353,6 @@
       "onboard_time": 1714110138,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 645298,
-      "num": 645298,
-      "word": "厦门教师招聘疑因取消编制无人报考",
-      "onboard_time": 1714126878,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 643697,
@@ -427,6 +427,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 578866,
+      "num": 578866,
+      "word": "恋综 合约情侣",
+      "onboard_time": 1714129157,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 572579,
       "num": 572579,
       "word": "武艺 各位老师对不起",
@@ -449,6 +457,14 @@
       "onboard_time": 1714107981,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 534274,
+      "num": 534274,
+      "word": "中美五点共识",
+      "onboard_time": 1714129338,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 532676,
@@ -619,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414236,
+      "num": 414236,
+      "word": "Jennie硬控我18秒",
+      "onboard_time": 1714128858,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409511,
       "num": 409511,
       "word": "华为高级工程师回应AI消除衣物争议",
@@ -656,14 +680,6 @@
       "word": "全球热",
       "onboard_time": 1714093518,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 385538,
-      "num": 385538,
-      "word": "Jennie硬控我18秒",
-      "onboard_time": 1714128858,
-      "rank": 7,
       "category": "艺人"
     },
     {
@@ -763,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 335710,
-      "num": 335710,
-      "word": "恋综 合约情侣",
-      "onboard_time": 1714129157,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 332976,
       "num": 332976,
       "word": "王毅同布林肯举行会谈",
@@ -785,14 +793,6 @@
       "onboard_time": 1714099938,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 326482,
-      "num": 326482,
-      "word": "中美五点共识",
-      "onboard_time": 1714129338,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 323911,
@@ -827,6 +827,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 312683,
+      "num": 312683,
+      "word": "小婉 真实追星迪丽热巴",
+      "onboard_time": 1714128978,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309874,
       "num": 309874,
       "word": "闵熙珍 hybe",
@@ -843,6 +851,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305734,
+      "num": 305734,
+      "word": "发如雪",
+      "onboard_time": 1714128559,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 304998,
+      "num": 304998,
+      "word": "邓超 亚比囧囧囧",
+      "onboard_time": 1714124119,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 303149,
       "num": 303149,
       "word": "江西于都一矿企发生事故致3死2伤",
@@ -857,6 +881,14 @@
       "onboard_time": 1714107500,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299268,
+      "num": 245636,
+      "word": "白玉兰直播",
+      "onboard_time": 1714129637,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 293473,
@@ -883,28 +915,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289012,
-      "num": 289012,
-      "word": "发如雪",
-      "onboard_time": 1714128559,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 287925,
       "num": 287925,
       "word": "关晓彤范丞丞再合作",
       "onboard_time": 1714107080,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 285706,
-      "num": 285706,
-      "word": "邓超 亚比囧囧囧",
-      "onboard_time": 1714124119,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 284785,
@@ -969,14 +985,6 @@
       "onboard_time": 1714089497,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258674,
-      "num": 258674,
-      "word": "小婉 真实追星迪丽热巴",
-      "onboard_time": 1714128978,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 255543,
@@ -1075,12 +1083,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237716,
+      "num": 237716,
+      "word": "闪耀暖暖蜘蛛婚纱",
+      "onboard_time": 1714130837,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235959,
       "num": 235959,
       "word": "十个勤天偏偏你们最争气",
       "onboard_time": 1714126040,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235369,
+      "num": 235369,
+      "word": "日本或成五一爆款旅游地",
+      "onboard_time": 1714129098,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 235102,
@@ -1211,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220953,
+      "num": 220953,
+      "word": "HYBE否认不宣传newjeans",
+      "onboard_time": 1714130119,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220797,
       "num": 206729,
       "word": "米饭勺上的小颗粒是干什么用的",
@@ -1315,14 +1347,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 199626,
-      "num": 199626,
-      "word": "白玉兰直播",
-      "onboard_time": 1714129637,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199409,
       "num": 192095,
       "word": "贺峻霖北影节主持",
@@ -1403,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195020,
+      "num": 195020,
+      "word": "不该",
+      "onboard_time": 1714130657,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194964,
       "num": 194964,
       "word": "煮肘孩子 定向捐精协议",
@@ -1419,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194358,
+      "num": 194358,
+      "word": "京东回应大量用户订单被锁",
+      "onboard_time": 1714130597,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 191624,
       "num": 191624,
       "word": "詹姆斯走步了吗",
@@ -1433,6 +1473,14 @@
       "onboard_time": 1714112120,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191000,
+      "num": 191000,
+      "word": "京东员工误操作或致损失超百万",
+      "onboard_time": 1714130657,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 190424,
@@ -1492,7 +1540,7 @@
     },
     {
       "raw_hot": 188809,
-      "num": 406640,
+      "num": 411312,
       "word": "古人看了这场秀不知要作多少诗",
       "onboard_time": 1714123758,
       "rank": 26,
@@ -1505,6 +1553,14 @@
       "onboard_time": 1714104260,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188263,
+      "num": 188263,
+      "word": "奔跑吧",
+      "onboard_time": 1714130298,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 188114,
@@ -1795,14 +1851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 159082,
-      "num": 198219,
-      "word": "日本或成五一爆款旅游地",
-      "onboard_time": 1714129098,
-      "rank": 34,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 158332,
       "num": 195748,
       "word": "ive新歌背景是葫芦娃救爷爷",
@@ -1883,6 +1931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151351,
+      "num": 151351,
+      "word": "边伯贤机场生图",
+      "onboard_time": 1714131198,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150847,
       "num": 150847,
       "word": "好羡慕ENHYPEN啊",
@@ -1953,6 +2009,14 @@
       "onboard_time": 1714128139,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144416,
+      "num": 144416,
+      "word": "中方回应能否证实哈马斯和法塔赫在北京会面",
+      "onboard_time": 1714129578,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144364,
@@ -2163,14 +2227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 129563,
-      "num": 129563,
-      "word": "中方回应能否证实哈马斯和法塔赫在北京会面",
-      "onboard_time": 1714129578,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 129528,
       "num": 129528,
       "word": "深圳市分区暴雨红色预警",
@@ -2204,7 +2260,7 @@
     },
     {
       "raw_hot": 128927,
-      "num": 374401,
+      "num": 410545,
       "word": "云南人专属浪漫油炸玫瑰花",
       "onboard_time": 1714128378,
       "rank": 9,
@@ -2787,6 +2843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 17699,
+      "num": 182001,
+      "word": "临沂的夜夜夜太美了",
+      "onboard_time": 1714129219,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17040,
       "num": 19858,
       "word": "清凉峰爬山失联女子已找到",
@@ -2817,14 +2881,6 @@
       "onboard_time": 1714075150,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11092,
-      "num": 145837,
-      "word": "临沂的夜夜夜太美了",
-      "onboard_time": 1714129219,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10703,

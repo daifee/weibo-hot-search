@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714130123265,
+  "endTime": 1714131246358,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -577,6 +577,14 @@
       "onboard_time": 1713826994,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1401738,
+      "num": 1401738,
+      "word": "韩国N号房事件再现",
+      "onboard_time": 1714128618,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1390778,
@@ -1355,14 +1363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 918482,
-      "num": 918482,
-      "word": "韩国N号房事件再现",
-      "onboard_time": 1714128618,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 915332,
       "num": 915332,
       "word": "工作人员输错号让彩民中800多万",
@@ -1604,7 +1604,7 @@
     },
     {
       "raw_hot": 844988,
-      "num": 368095,
+      "num": 410315,
       "word": "向太大腿骨断裂",
       "onboard_time": 1714127958,
       "rank": 10,
@@ -1827,6 +1827,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 784385,
+      "num": 784385,
+      "word": "厦门教师招聘疑因取消编制无人报考",
+      "onboard_time": 1714126878,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 782626,
       "num": 782626,
       "word": "泰版步步惊心",
@@ -1948,7 +1956,7 @@
     },
     {
       "raw_hot": 741859,
-      "num": 382150,
+      "num": 409892,
       "word": "原来戚薇是方文山徒弟",
       "onboard_time": 1714124299,
       "rank": 11,
@@ -2491,14 +2499,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 645298,
-      "num": 645298,
-      "word": "厦门教师招聘疑因取消编制无人报考",
-      "onboard_time": 1714126878,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 643776,
       "num": 643776,
       "word": "于正海报审美",
@@ -2947,6 +2947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 578866,
+      "num": 578866,
+      "word": "恋综 合约情侣",
+      "onboard_time": 1714129157,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 578107,
       "num": 661150,
       "word": "有薄膜的一次性咖啡杯30年才能降解",
@@ -3297,6 +3305,14 @@
       "onboard_time": 1713749119,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 534274,
+      "num": 534274,
+      "word": "中美五点共识",
+      "onboard_time": 1714129338,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 532676,
@@ -4619,6 +4635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 414236,
+      "num": 414236,
+      "word": "Jennie硬控我18秒",
+      "onboard_time": 1714128858,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413899,
       "num": 413899,
       "word": "原来麻辣烫夹子是这样用的",
@@ -4969,14 +4993,6 @@
       "onboard_time": 1713798321,
       "rank": 28,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 385538,
-      "num": 385538,
-      "word": "Jennie硬控我18秒",
-      "onboard_time": 1714128858,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 385350,
@@ -5595,14 +5611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 335710,
-      "num": 335710,
-      "word": "恋综 合约情侣",
-      "onboard_time": 1714129157,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 335314,
       "num": 335314,
       "word": "金靖 怀孕",
@@ -5753,14 +5761,6 @@
       "onboard_time": 1713629060,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 326482,
-      "num": 326482,
-      "word": "中美五点共识",
-      "onboard_time": 1714129338,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 326348,
@@ -5923,6 +5923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312683,
+      "num": 312683,
+      "word": "小婉 真实追星迪丽热巴",
+      "onboard_time": 1714128978,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311747,
       "num": 311747,
       "word": "自称周杰伦演唱会迟到崩溃当事女子回应",
@@ -6051,6 +6059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305734,
+      "num": 305734,
+      "word": "发如雪",
+      "onboard_time": 1714128559,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305391,
       "num": 240108,
       "word": "新人结婚后要有小家意识",
@@ -6065,6 +6081,14 @@
       "onboard_time": 1713848659,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304998,
+      "num": 304998,
+      "word": "邓超 亚比囧囧囧",
+      "onboard_time": 1714124119,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 303675,
@@ -6153,6 +6177,14 @@
       "onboard_time": 1713928638,
       "rank": 34,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 299268,
+      "num": 245636,
+      "word": "白玉兰直播",
+      "onboard_time": 1714129637,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 299011,
@@ -6347,14 +6379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 289012,
-      "num": 289012,
-      "word": "发如雪",
-      "onboard_time": 1714128559,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 288943,
       "num": 288943,
       "word": "华为Pura70",
@@ -6441,14 +6465,6 @@
       "onboard_time": 1713788899,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285706,
-      "num": 285706,
-      "word": "邓超 亚比囧囧囧",
-      "onboard_time": 1714124119,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 285157,
@@ -7131,14 +7147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 258674,
-      "num": 258674,
-      "word": "小婉 真实追星迪丽热巴",
-      "onboard_time": 1714128978,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 258414,
       "num": 258414,
       "word": "可乐排骨年糕",
@@ -7787,6 +7795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237716,
+      "num": 237716,
+      "word": "闪耀暖暖蜘蛛婚纱",
+      "onboard_time": 1714130837,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237605,
       "num": 347778,
       "word": "88VIP真香",
@@ -7873,6 +7889,14 @@
       "onboard_time": 1714013238,
       "rank": 27,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 235369,
+      "num": 235369,
+      "word": "日本或成五一爆款旅游地",
+      "onboard_time": 1714129098,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 235189,
@@ -8481,6 +8505,14 @@
       "onboard_time": 1713675258,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 220953,
+      "num": 220953,
+      "word": "HYBE否认不宣传newjeans",
+      "onboard_time": 1714130119,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 220797,
@@ -9715,14 +9747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 199626,
-      "num": 199626,
-      "word": "白玉兰直播",
-      "onboard_time": 1714129637,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199593,
       "num": 199593,
       "word": "赵奕欢为假睫毛和美甲道歉",
@@ -10123,6 +10147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195020,
+      "num": 195020,
+      "word": "不该",
+      "onboard_time": 1714130657,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194964,
       "num": 194964,
       "word": "煮肘孩子 定向捐精协议",
@@ -10161,6 +10193,14 @@
       "onboard_time": 1713852378,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194358,
+      "num": 194358,
+      "word": "京东回应大量用户订单被锁",
+      "onboard_time": 1714130597,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 194227,
@@ -10451,6 +10491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191000,
+      "num": 191000,
+      "word": "京东员工误操作或致损失超百万",
+      "onboard_time": 1714130657,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 190813,
       "num": 190813,
       "word": "哈尔滨一九四四死装哥和试探姐",
@@ -10700,7 +10748,7 @@
     },
     {
       "raw_hot": 188809,
-      "num": 406640,
+      "num": 411312,
       "word": "古人看了这场秀不知要作多少诗",
       "onboard_time": 1714123758,
       "rank": 26,
@@ -10769,6 +10817,14 @@
       "onboard_time": 1713666198,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188263,
+      "num": 188263,
+      "word": "奔跑吧",
+      "onboard_time": 1714130298,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 188199,
@@ -12763,14 +12819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159082,
-      "num": 198219,
-      "word": "日本或成五一爆款旅游地",
-      "onboard_time": 1714129098,
-      "rank": 34,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 159077,
       "num": 159077,
       "word": "浪姐在袁娅维的雷点反复蹦迪",
@@ -13379,6 +13427,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 151351,
+      "num": 151351,
+      "word": "边伯贤机场生图",
+      "onboard_time": 1714131198,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150869,
       "num": 150869,
       "word": "姚志明的人生没有一顿团圆饭",
@@ -13937,6 +13993,14 @@
       "onboard_time": 1713827595,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144416,
+      "num": 144416,
+      "word": "中方回应能否证实哈马斯和法塔赫在北京会面",
+      "onboard_time": 1714129578,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144364,
@@ -15131,14 +15195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129563,
-      "num": 129563,
-      "word": "中方回应能否证实哈马斯和法塔赫在北京会面",
-      "onboard_time": 1714129578,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 129528,
       "num": 129528,
       "word": "深圳市分区暴雨红色预警",
@@ -15204,7 +15260,7 @@
     },
     {
       "raw_hot": 128927,
-      "num": 374401,
+      "num": 410545,
       "word": "云南人专属浪漫油炸玫瑰花",
       "onboard_time": 1714128378,
       "rank": 9,
@@ -18027,6 +18083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 17699,
+      "num": 182001,
+      "word": "临沂的夜夜夜太美了",
+      "onboard_time": 1714129219,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17612,
       "num": 18341,
       "word": "关雪谁啊",
@@ -18160,14 +18224,6 @@
       "word": "四川村K现场有多嗨",
       "onboard_time": 1713818051,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11092,
-      "num": 145837,
-      "word": "临沂的夜夜夜太美了",
-      "onboard_time": 1714129219,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
