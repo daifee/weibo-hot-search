@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/27 19:36:05
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/27 20:29:49
 </p>
 </blockquote>
 <p>
@@ -5631,6 +5631,12 @@ ZARA大量粉丝紧急扫货（热度：865085）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%A2%AB%E5%85%BB%E4%BA%86%E5%9B%9B%E4%BA%94%E5%B9%B4%E7%9A%84%E7%8B%97%E6%92%95%E5%92%AC%23" target="weibo">
+老人被养了四五年的狗撕咬（热度：840958）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A8%81%E7%A5%9E%E5%90%90%E6%A7%BD%E7%94%9F%E4%BA%86%E4%BB%A8%E4%BD%93%E5%BC%B1%E5%A4%9A%E7%97%85%E7%9A%84%E5%A8%83%23" target="weibo">
 杨威神吐槽生了仨体弱多病的娃（热度：840418）
 </a>
@@ -5915,12 +5921,6 @@ infp 最接近神的人格（热度：822265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E6%9B%BE%E5%8F%91%E6%96%87%E5%AE%A3%E5%B8%83%E5%86%8D%E5%A9%9A%23" target="weibo">
 范曾发文宣布再婚（热度：820497）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%A2%AB%E5%85%BB%E4%BA%86%E5%9B%9B%E4%BA%94%E5%B9%B4%E7%9A%84%E7%8B%97%E6%92%95%E5%92%AC%23" target="weibo">
-老人被养了四五年的狗撕咬（热度：820427）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714217765816,
+  "endTime": 1714220989157,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -7491,6 +7491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 840958,
+      "num": 517524,
+      "word": "老人被养了四五年的狗撕咬",
+      "onboard_time": 1714213338,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 840418,
       "num": 814161,
       "word": "杨威神吐槽生了仨体弱多病的娃",
@@ -7872,14 +7880,6 @@
       "word": "范曾发文宣布再婚",
       "onboard_time": 1712764578,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 820427,
-      "num": 517524,
-      "word": "老人被养了四五年的狗撕咬",
-      "onboard_time": 1714213338,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -10044,7 +10044,7 @@
     },
     {
       "raw_hot": 712513,
-      "num": 302400,
+      "num": 354316,
       "word": "第一次出国发朋友圈被同事警告了",
       "onboard_time": 1714207817,
       "rank": 21,
@@ -10393,6 +10393,14 @@
       "onboard_time": 1712478500,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 696319,
+      "num": 368846,
+      "word": "泽泽 被分手",
+      "onboard_time": 1714215678,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 695967,
@@ -10825,6 +10833,14 @@
       "onboard_time": 1712922497,
       "rank": 7,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 680778,
+      "num": 367044,
+      "word": "女子婚礼后55天遭丈夫49刀杀害",
+      "onboard_time": 1714216038,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 680667,
@@ -11809,6 +11825,14 @@
       "onboard_time": 1712191218,
       "rank": 20,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 642088,
+      "num": 365914,
+      "word": "我只喜欢你的人设",
+      "onboard_time": 1714216937,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 641389,
@@ -18883,14 +18907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 458239,
-      "num": 327445,
-      "word": "泽泽 被分手",
-      "onboard_time": 1714215678,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 458106,
       "num": 427158,
       "word": "健身房偶遇王俊凯",
@@ -21579,6 +21595,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 409366,
+      "num": 409366,
+      "word": "郭碧婷 淡人",
+      "onboard_time": 1714218378,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 408467,
       "num": 408467,
       "word": "邓超谢谢不用了",
@@ -21689,6 +21713,14 @@
       "onboard_time": 1713188599,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 406520,
+      "num": 406520,
+      "word": "苗苗好甜",
+      "onboard_time": 1714218618,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 406380,
@@ -23219,6 +23251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380962,
+      "num": 380962,
+      "word": "胡歌喊话金靖要做孩子舅舅",
+      "onboard_time": 1714220238,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 380804,
       "num": 380804,
       "word": "股市",
@@ -24467,6 +24507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 357939,
+      "num": 357939,
+      "word": "迪丽热巴金色长裙梦回乔晶晶",
+      "onboard_time": 1714216937,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 357892,
       "num": 357892,
       "word": "关晓彤露腿好美",
@@ -25129,14 +25177,6 @@
       "onboard_time": 1712153182,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 350935,
-      "num": 350935,
-      "word": "女子婚礼后55天遭丈夫49刀杀害",
-      "onboard_time": 1714216038,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 350931,
@@ -26403,6 +26443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 332243,
+      "num": 332243,
+      "word": "肖战藏海传白衣路透",
+      "onboard_time": 1714215498,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332236,
       "num": 241852,
       "word": "中医建议不开心时要多唱歌",
@@ -26592,14 +26640,6 @@
       "word": "猎罪图鉴2剧组声明",
       "onboard_time": 1712818457,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 328642,
-      "num": 328642,
-      "word": "肖战藏海传白衣路透",
-      "onboard_time": 1714215498,
-      "rank": 19,
       "category": "剧集"
     },
     {
@@ -26849,6 +26889,14 @@
       "onboard_time": 1712729839,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325439,
+      "num": 360310,
+      "word": "明日方舟五周年直播",
+      "onboard_time": 1714214476,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 325271,
@@ -27803,6 +27851,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312870,
+      "num": 312870,
+      "word": "开心消消乐",
+      "onboard_time": 1714220477,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 312854,
+      "num": 312854,
+      "word": "生理性喜欢和心理喜欢哪个重要",
+      "onboard_time": 1714220118,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 312851,
       "num": 312851,
       "word": "睡不着就在床头放个橘子",
@@ -28155,6 +28219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308148,
+      "num": 308148,
+      "word": "logos上岛",
+      "onboard_time": 1714219639,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 308121,
       "num": 308121,
       "word": "张馨予瘦10斤的拍照教程",
@@ -28249,14 +28321,6 @@
       "onboard_time": 1712464700,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 307252,
-      "num": 307252,
-      "word": "迪丽热巴金色长裙梦回乔晶晶",
-      "onboard_time": 1714216937,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 307236,
@@ -29939,6 +30003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 289759,
+      "num": 289759,
+      "word": "迪丽热巴直播出图",
+      "onboard_time": 1714220839,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289536,
       "num": 196490,
       "word": "张艺兴算是回到自己舒适区了",
@@ -31411,6 +31483,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 274230,
+      "num": 274230,
+      "word": "要怎么和韩国人解释五一调休",
+      "onboard_time": 1714219461,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 274202,
       "num": 187943,
       "word": "胡歌为游本昌推轮椅",
@@ -31905,6 +31985,14 @@
       "onboard_time": 1714028239,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269196,
+      "num": 269196,
+      "word": "张馨予何捷路遇被撞猫咪",
+      "onboard_time": 1714217779,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 269173,
@@ -34043,6 +34131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 251525,
+      "num": 251525,
+      "word": "人皮肤最厚的部位在哪",
+      "onboard_time": 1714215319,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 251435,
       "num": 240115,
       "word": "减肥搭子把我删了",
@@ -35489,6 +35585,14 @@
       "onboard_time": 1713277281,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 241301,
+      "num": 241301,
+      "word": "棘刺新皮",
+      "onboard_time": 1714219818,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 241252,
@@ -37539,6 +37643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 228626,
+      "num": 228626,
+      "word": "何炅也在嗑胡先煦张子枫",
+      "onboard_time": 1714217539,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228605,
       "num": 228605,
       "word": "爸爸用排烟管给女儿做了一条粉色龙",
@@ -37628,7 +37740,7 @@
     },
     {
       "raw_hot": 228208,
-      "num": 228208,
+      "num": 274238,
       "word": "出生就是孤儿的她也离开了人世",
       "onboard_time": 1714213757,
       "rank": 44,
@@ -38153,14 +38265,6 @@
       "onboard_time": 1714197076,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225235,
-      "num": 225235,
-      "word": "我只喜欢你的人设",
-      "onboard_time": 1714216937,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 225233,
@@ -41323,14 +41427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208714,
-      "num": 208714,
-      "word": "人皮肤最厚的部位在哪",
-      "onboard_time": 1714215319,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 208692,
       "num": 208692,
       "word": "F1直播",
@@ -41577,6 +41673,14 @@
       "onboard_time": 1712286077,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207637,
+      "num": 207637,
+      "word": "迪丽热巴缝了裙子",
+      "onboard_time": 1714217838,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 207571,
@@ -45115,6 +45219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196902,
+      "num": 196902,
+      "word": "如何恢复微信过期或已被清理文件",
+      "onboard_time": 1714218079,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 196893,
       "num": 196893,
       "word": "关雪抽烟",
@@ -46929,6 +47041,14 @@
       "onboard_time": 1712139560,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 191709,
+      "num": 191709,
+      "word": "阿尼亚这次真憋不住了",
+      "onboard_time": 1714220597,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 191646,
@@ -50235,6 +50355,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 182615,
+      "num": 182615,
+      "word": "陈昊宇 宝藏",
+      "onboard_time": 1714218378,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182613,
       "num": 195337,
       "word": "宅男腐女恋爱真难10周年",
@@ -50617,6 +50745,14 @@
       "onboard_time": 1714216758,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181164,
+      "num": 181164,
+      "word": "微暗之火开播",
+      "onboard_time": 1714220418,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 181161,
@@ -51891,14 +52027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176301,
-      "num": 176301,
-      "word": "何炅也在嗑胡先煦张子枫",
-      "onboard_time": 1714217539,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176297,
       "num": 176297,
       "word": "Gumayusi回应Bin说MSI要虐T1GEN",
@@ -52257,14 +52385,6 @@
       "onboard_time": 1712245278,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175152,
-      "num": 175152,
-      "word": "明日方舟五周年直播",
-      "onboard_time": 1714214476,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 175150,
@@ -53147,6 +53267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171707,
+      "num": 171707,
+      "word": "朱一龙谈胡歌高圆圆新片",
+      "onboard_time": 1714217419,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171639,
       "num": 171639,
       "word": "今天上午的感觉如下",
@@ -53620,7 +53748,7 @@
     },
     {
       "raw_hot": 170200,
-      "num": 170200,
+      "num": 193485,
       "word": "布林肯在华宣称美高校抗议是民主标志被质疑",
       "onboard_time": 1714213397,
       "rank": 39,
@@ -55401,14 +55529,6 @@
       "onboard_time": 1713189259,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163705,
-      "num": 137524,
-      "word": "朱一龙谈胡歌高圆圆新片",
-      "onboard_time": 1714217419,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 163662,
@@ -68849,6 +68969,14 @@
       "onboard_time": 1714119139,
       "rank": 47,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 118851,
+      "num": 155332,
+      "word": "杨晓明被罢免",
+      "onboard_time": 1714220719,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118818,

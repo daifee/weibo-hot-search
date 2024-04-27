@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714217765816,
+  "endTime": 1714220989157,
   "band_list": [
     {
       "raw_hot": 1807265,
@@ -155,7 +155,7 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 820427,
+      "raw_hot": 840958,
       "num": 517524,
       "word": "老人被养了四五年的狗撕咬",
       "onboard_time": 1714213338,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 712513,
-      "num": 302400,
+      "num": 354316,
       "word": "第一次出国发朋友圈被同事警告了",
       "onboard_time": 1714207817,
       "rank": 21,
@@ -273,6 +273,22 @@
       "onboard_time": 1714182736,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 696319,
+      "num": 368846,
+      "word": "泽泽 被分手",
+      "onboard_time": 1714215678,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 680778,
+      "num": 367044,
+      "word": "女子婚礼后55天遭丈夫49刀杀害",
+      "onboard_time": 1714216038,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 673470,
@@ -321,6 +337,14 @@
       "onboard_time": 1714204458,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642088,
+      "num": 365914,
+      "word": "我只喜欢你的人设",
+      "onboard_time": 1714216937,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 630460,
@@ -499,14 +523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 458239,
-      "num": 327445,
-      "word": "泽泽 被分手",
-      "onboard_time": 1714215678,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 450423,
       "num": 309393,
       "word": "迪丽热巴蝎子辫",
@@ -571,11 +587,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409366,
+      "num": 409366,
+      "word": "郭碧婷 淡人",
+      "onboard_time": 1714218378,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 408467,
       "num": 408467,
       "word": "邓超谢谢不用了",
       "onboard_time": 1714190777,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 406520,
+      "num": 406520,
+      "word": "苗苗好甜",
+      "onboard_time": 1714218618,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -627,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380962,
+      "num": 380962,
+      "word": "胡歌喊话金靖要做孩子舅舅",
+      "onboard_time": 1714220238,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 376153,
       "num": 376153,
       "word": "范丞丞cue苗苗姐",
@@ -657,6 +697,14 @@
       "onboard_time": 1714134739,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357939,
+      "num": 357939,
+      "word": "迪丽热巴金色长裙梦回乔晶晶",
+      "onboard_time": 1714216937,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 355456,
@@ -739,20 +787,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 350935,
-      "num": 350935,
-      "word": "女子婚礼后55天遭丈夫49刀杀害",
-      "onboard_time": 1714216038,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341254,
       "num": 341254,
       "word": "林更新 把你的恶心收一收",
       "onboard_time": 1714105760,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 332243,
+      "num": 332243,
+      "word": "肖战藏海传白衣路透",
+      "onboard_time": 1714215498,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 331796,
@@ -763,20 +811,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 328642,
-      "num": 328642,
-      "word": "肖战藏海传白衣路透",
-      "onboard_time": 1714215498,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 327022,
       "num": 311777,
       "word": "半截身子卷入扶梯女子腿已保住",
       "onboard_time": 1714198577,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325439,
+      "num": 360310,
+      "word": "明日方舟五周年直播",
+      "onboard_time": 1714214476,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 321204,
@@ -787,6 +835,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 312870,
+      "num": 312870,
+      "word": "开心消消乐",
+      "onboard_time": 1714220477,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 312854,
+      "num": 312854,
+      "word": "生理性喜欢和心理喜欢哪个重要",
+      "onboard_time": 1714220118,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 310312,
       "num": 310312,
       "word": "神十七乘组4月30日回地球",
@@ -795,20 +859,20 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 308148,
+      "num": 308148,
+      "word": "logos上岛",
+      "onboard_time": 1714219639,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307905,
       "num": 307905,
       "word": "刘琳演技 此处无声却震耳欲聋",
       "onboard_time": 1714153992,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 307252,
-      "num": 307252,
-      "word": "迪丽热巴金色长裙梦回乔晶晶",
-      "onboard_time": 1714216937,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 305101,
@@ -883,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289759,
+      "num": 289759,
+      "word": "迪丽热巴直播出图",
+      "onboard_time": 1714220839,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287382,
       "num": 287382,
       "word": "林允撑伞回眸",
@@ -915,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274230,
+      "num": 274230,
+      "word": "要怎么和韩国人解释五一调休",
+      "onboard_time": 1714219461,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273079,
       "num": 273079,
       "word": "Jennie第一次cha",
@@ -923,12 +1003,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 269196,
+      "num": 269196,
+      "word": "张馨予何捷路遇被撞猫咪",
+      "onboard_time": 1714217779,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265107,
       "num": 404526,
       "word": "编者按",
       "onboard_time": 1714190657,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 263777,
+      "num": 263777,
+      "word": "眼泪女王",
+      "onboard_time": 1714220898,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 259800,
@@ -979,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251525,
+      "num": 251525,
+      "word": "人皮肤最厚的部位在哪",
+      "onboard_time": 1714215319,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 249066,
       "num": 299731,
       "word": "煮肘新作文",
@@ -1017,6 +1121,14 @@
       "onboard_time": 1714211897,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 241301,
+      "num": 241301,
+      "word": "棘刺新皮",
+      "onboard_time": 1714219818,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 239440,
@@ -1075,8 +1187,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228626,
+      "num": 228626,
+      "word": "何炅也在嗑胡先煦张子枫",
+      "onboard_time": 1714217539,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228208,
-      "num": 228208,
+      "num": 274238,
       "word": "出生就是孤儿的她也离开了人世",
       "onboard_time": 1714213757,
       "rank": 44,
@@ -1097,14 +1217,6 @@
       "onboard_time": 1714197076,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225235,
-      "num": 225235,
-      "word": "我只喜欢你的人设",
-      "onboard_time": 1714216937,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 224736,
@@ -1243,14 +1355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208714,
-      "num": 208714,
-      "word": "人皮肤最厚的部位在哪",
-      "onboard_time": 1714215319,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 208585,
       "num": 208585,
       "word": "鬼怪ost中文版",
@@ -1265,6 +1369,14 @@
       "onboard_time": 1714205298,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 207637,
+      "num": 207637,
+      "word": "迪丽热巴缝了裙子",
+      "onboard_time": 1714217838,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206620,
@@ -1363,6 +1475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196902,
+      "num": 196902,
+      "word": "如何恢复微信过期或已被清理文件",
+      "onboard_time": 1714218079,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 196497,
       "num": 196497,
       "word": "时代少年团四周年周边",
@@ -1403,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192547,
+      "num": 192547,
+      "word": "春色寄情人",
+      "onboard_time": 1714218978,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192531,
       "num": 192531,
       "word": "江苏南通一男子烧烤店门口殴打女子",
@@ -1425,6 +1553,14 @@
       "onboard_time": 1714191017,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191709,
+      "num": 191709,
+      "word": "阿尼亚这次真憋不住了",
+      "onboard_time": 1714220597,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 189655,
@@ -1483,6 +1619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 182615,
+      "num": 182615,
+      "word": "陈昊宇 宝藏",
+      "onboard_time": 1714218378,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182477,
       "num": 182477,
       "word": "张元英最初的梦想",
@@ -1515,12 +1659,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181164,
+      "num": 181164,
+      "word": "微暗之火开播",
+      "onboard_time": 1714220418,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180943,
       "num": 175580,
       "word": "时代少年团 二开吗",
       "onboard_time": 1714197497,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178123,
+      "num": 178123,
+      "word": "歌手2024",
+      "onboard_time": 1714220839,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 177364,
@@ -1555,28 +1715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176301,
-      "num": 176301,
-      "word": "何炅也在嗑胡先煦张子枫",
-      "onboard_time": 1714217539,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175596,
       "num": 175596,
       "word": "三吉差个Rookie",
       "onboard_time": 1714215379,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 175152,
-      "num": 175152,
-      "word": "明日方舟五周年直播",
-      "onboard_time": 1714214476,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 174291,
@@ -1601,6 +1745,14 @@
       "onboard_time": 1714216338,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171707,
+      "num": 171707,
+      "word": "朱一龙谈胡歌高圆圆新片",
+      "onboard_time": 1714217419,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 171535,
@@ -1628,7 +1780,7 @@
     },
     {
       "raw_hot": 170200,
-      "num": 170200,
+      "num": 193485,
       "word": "布林肯在华宣称美高校抗议是民主标志被质疑",
       "onboard_time": 1714213397,
       "rank": 39,
@@ -1697,14 +1849,6 @@
       "onboard_time": 1714208118,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 163705,
-      "num": 137524,
-      "word": "朱一龙谈胡歌高圆圆新片",
-      "onboard_time": 1714217419,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 163047,
@@ -2177,6 +2321,14 @@
       "onboard_time": 1714180578,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 118851,
+      "num": 155332,
+      "word": "杨晓明被罢免",
+      "onboard_time": 1714220719,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118413,
