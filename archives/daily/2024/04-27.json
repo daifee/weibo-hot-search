@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714210456114,
+  "endTime": 1714213162764,
   "band_list": [
     {
       "raw_hot": 1807265,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1524032,
-      "num": 1524032,
+      "raw_hot": 1574633,
+      "num": 1574633,
       "word": "麦当劳就侮辱性文字骂顾客一事致歉",
       "onboard_time": 1714206978,
       "rank": 1,
@@ -155,6 +155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 776132,
+      "num": 776132,
+      "word": "女子吐槽15元买一颗樱桃",
+      "onboard_time": 1714209138,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 760235,
       "num": 760235,
       "word": "没有编制教师岗还有吸引力吗",
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 712513,
+      "num": 252904,
+      "word": "第一次出国发朋友圈被同事警告了",
+      "onboard_time": 1714207817,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 699846,
       "num": 699846,
       "word": "水龙吟阵容官宣",
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633452,
+      "num": 633452,
+      "word": "增城",
+      "onboard_time": 1714209019,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630460,
       "num": 550697,
       "word": "车银优扣子崩开了",
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 628022,
-      "num": 452641,
+      "num": 479805,
       "word": "迪丽热巴活动直播",
       "onboard_time": 1714209138,
       "rank": 15,
@@ -297,14 +321,6 @@
       "onboard_time": 1714197797,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 583883,
-      "num": 239504,
-      "word": "第一次出国发朋友圈被同事警告了",
-      "onboard_time": 1714207817,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 566961,
@@ -353,6 +369,14 @@
       "onboard_time": 1714174635,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496052,
+      "num": 496052,
+      "word": "华晨宇 花傲天",
+      "onboard_time": 1714211657,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 495347,
@@ -539,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 372280,
-      "num": 372280,
-      "word": "女子吐槽15元买一颗樱桃",
-      "onboard_time": 1714209138,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 372063,
       "num": 372063,
       "word": "真维斯 王一博",
@@ -569,6 +585,14 @@
       "onboard_time": 1714134739,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356873,
+      "num": 356873,
+      "word": "张予曦BLACKPINK舞台相似度",
+      "onboard_time": 1714212498,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 355456,
@@ -601,6 +625,14 @@
       "onboard_time": 1714181656,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 353782,
+      "num": 353782,
+      "word": "眼泪女王直播",
+      "onboard_time": 1714210937,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 352478,
@@ -649,6 +681,14 @@
       "onboard_time": 1714105760,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 339603,
+      "num": 339603,
+      "word": "金秀贤金智媛合体",
+      "onboard_time": 1714212558,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 331796,
@@ -867,6 +907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 246015,
+      "num": 246015,
+      "word": "恋与深空官配",
+      "onboard_time": 1714212077,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 244138,
       "num": 244138,
       "word": "罗云熙演唱会抢票",
@@ -875,12 +923,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 240148,
-      "num": 240148,
-      "word": "增城",
-      "onboard_time": 1714209019,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 241789,
+      "num": 241789,
+      "word": "卡琳娜cos哈尔",
+      "onboard_time": 1714211897,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 239440,
@@ -889,6 +937,14 @@
       "onboard_time": 1714208838,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 239221,
+      "num": 239221,
+      "word": "四川文旅回应一个串串8根签",
+      "onboard_time": 1714210818,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233836,
@@ -929,6 +985,14 @@
       "onboard_time": 1714200857,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225579,
+      "num": 521667,
+      "word": "爷爷去世前在监控中喊孙女名字",
+      "onboard_time": 1714211478,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225349,
@@ -1035,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210850,
+      "num": 208508,
+      "word": "王婆回应被江西彩礼震惊",
+      "onboard_time": 1714212199,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210632,
       "num": 210632,
       "word": "广州多区发布龙卷风警报",
@@ -1049,6 +1121,14 @@
       "onboard_time": 1714209738,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209954,
+      "num": 209954,
+      "word": "广州白云龙卷风现场画面",
+      "onboard_time": 1714212919,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209557,
@@ -1195,6 +1275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 194166,
+      "num": 194166,
+      "word": "种地吧生活直播",
+      "onboard_time": 1714212438,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193128,
       "num": 193128,
       "word": "雷军称小米正在申请3万件专利",
@@ -1323,20 +1411,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 176679,
+      "num": 176679,
+      "word": "何洁前几季都报名了浪姐",
+      "onboard_time": 1714209320,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176528,
       "num": 176528,
       "word": "灵活就业人员不强制缴纳社保",
       "onboard_time": 1714196537,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175451,
-      "num": 158456,
-      "word": "何洁前几季都报名了浪姐",
-      "onboard_time": 1714209320,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 174291,
@@ -1377,6 +1465,22 @@
       "onboard_time": 1714205417,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169464,
+      "num": 169464,
+      "word": "陈麦冬 去亲你",
+      "onboard_time": 1714211720,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166393,
+      "num": 166393,
+      "word": "seventeen演唱会",
+      "onboard_time": 1714211536,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 165954,
@@ -1523,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146087,
+      "num": 146087,
+      "word": "后陡门月子中心",
+      "onboard_time": 1714210876,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146044,
       "num": 146044,
       "word": "欢迎汤洪波唐胜杰江新林回家",
@@ -1555,12 +1667,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143490,
+      "num": 164330,
+      "word": "日本为何放任日元狂贬",
+      "onboard_time": 1714212258,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 142547,
       "num": 142547,
       "word": "杨紫工作室发文告别麦承欢",
       "onboard_time": 1714140260,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142208,
+      "num": 163464,
+      "word": "无锡被造谣蛋糕店老板妻子回应判决",
+      "onboard_time": 1714209919,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142115,
@@ -1593,14 +1721,6 @@
       "onboard_time": 1714202718,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139291,
-      "num": 139291,
-      "word": "无锡被造谣蛋糕店老板妻子回应判决",
-      "onboard_time": 1714209919,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137829,
@@ -1867,6 +1987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 113638,
+      "num": 113638,
+      "word": "日本小笠原群岛发生6.9级地震",
+      "onboard_time": 1714210818,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111324,
       "num": 111324,
       "word": "为什么职场人喜欢戴智能手表",
@@ -2025,6 +2153,14 @@
       "onboard_time": 1714129157,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97498,
+      "num": 97498,
+      "word": "看球的不看球的都知道姆巴佩了",
+      "onboard_time": 1714210697,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 97469,
@@ -2345,6 +2481,14 @@
       "onboard_time": 1714164550,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 5989,
+      "num": 110838,
+      "word": "原来追星可以和喝水一样简单",
+      "onboard_time": 1714213038,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 4958,

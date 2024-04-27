@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714210456114,
+  "endTime": 1714213162764,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1574633,
+      "num": 1574633,
+      "word": "麦当劳就侮辱性文字骂顾客一事致歉",
+      "onboard_time": 1714206978,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1543089,
       "num": 1543089,
       "word": "高君雨全网账号被禁",
@@ -472,14 +480,6 @@
       "word": "5月份工资可以提前发",
       "onboard_time": 1713663738,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1524032,
-      "num": 1524032,
-      "word": "麦当劳就侮辱性文字骂顾客一事致歉",
-      "onboard_time": 1714206978,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2067,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 776132,
+      "num": 776132,
+      "word": "女子吐槽15元买一颗樱桃",
+      "onboard_time": 1714209138,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 774305,
       "num": 479076,
       "word": "王一博 真维斯",
@@ -2401,6 +2409,14 @@
       "onboard_time": 1713758598,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 712513,
+      "num": 252904,
+      "word": "第一次出国发朋友圈被同事警告了",
+      "onboard_time": 1714207817,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 710427,
@@ -2899,6 +2915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 633452,
+      "num": 633452,
+      "word": "增城",
+      "onboard_time": 1714209019,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 633007,
       "num": 633007,
       "word": "奔跑吧P安全带",
@@ -2940,7 +2964,7 @@
     },
     {
       "raw_hot": 628022,
-      "num": 452641,
+      "num": 479805,
       "word": "迪丽热巴活动直播",
       "onboard_time": 1714209138,
       "rank": 15,
@@ -3305,14 +3329,6 @@
       "onboard_time": 1713658457,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 583883,
-      "num": 239504,
-      "word": "第一次出国发朋友圈被同事警告了",
-      "onboard_time": 1714207817,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 581826,
@@ -4105,6 +4121,14 @@
       "onboard_time": 1713752598,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 496052,
+      "num": 496052,
+      "word": "华晨宇 花傲天",
+      "onboard_time": 1714211657,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 495575,
@@ -5795,14 +5819,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 372280,
-      "num": 372280,
-      "word": "女子吐槽15元买一颗樱桃",
-      "onboard_time": 1714209138,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 372063,
       "num": 372063,
       "word": "真维斯 王一博",
@@ -5963,6 +5979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356873,
+      "num": 356873,
+      "word": "张予曦BLACKPINK舞台相似度",
+      "onboard_time": 1714212498,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356168,
       "num": 356168,
       "word": "秦海璐王安宇光明正大的唱因为爱情",
@@ -6041,6 +6065,14 @@
       "onboard_time": 1713771258,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353782,
+      "num": 353782,
+      "word": "眼泪女王直播",
+      "onboard_time": 1714210937,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 353637,
@@ -6328,6 +6360,14 @@
       "word": "CherryBullet解散",
       "onboard_time": 1713765138,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 339603,
+      "num": 339603,
+      "word": "金秀贤金智媛合体",
+      "onboard_time": 1714212558,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -8491,6 +8531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246015,
+      "num": 246015,
+      "word": "恋与深空官配",
+      "onboard_time": 1714212077,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 245561,
       "num": 251085,
       "word": "石家庄冰雹",
@@ -8611,6 +8659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241789,
+      "num": 241789,
+      "word": "卡琳娜cos哈尔",
+      "onboard_time": 1714211897,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 241719,
       "num": 241719,
       "word": "你阿尼亚来了中国也得上班",
@@ -8657,14 +8713,6 @@
       "onboard_time": 1714127178,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240148,
-      "num": 240148,
-      "word": "增城",
-      "onboard_time": 1714209019,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239995,
@@ -8737,6 +8785,14 @@
       "onboard_time": 1713754456,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239221,
+      "num": 239221,
+      "word": "四川文旅回应一个串串8根签",
+      "onboard_time": 1714210818,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239054,
@@ -9411,6 +9467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225579,
+      "num": 521667,
+      "word": "爷爷去世前在监控中喊孙女名字",
+      "onboard_time": 1714211478,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225529,
       "num": 225529,
       "word": "官方回应开鲁县被免镇干部涉嫌学历造假",
@@ -10027,6 +10091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210850,
+      "num": 208508,
+      "word": "王婆回应被江西彩礼震惊",
+      "onboard_time": 1714212199,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210826,
       "num": 187096,
       "word": "杨幂能靠新剧成功转型吗",
@@ -10088,6 +10160,14 @@
       "word": "五一所有人都去哪儿玩",
       "onboard_time": 1714010776,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209954,
+      "num": 209954,
+      "word": "广州白云龙卷风现场画面",
+      "onboard_time": 1714212919,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -11609,6 +11689,14 @@
       "onboard_time": 1713761599,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194166,
+      "num": 194166,
+      "word": "种地吧生活直播",
+      "onboard_time": 1714212438,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 194133,
@@ -13275,6 +13363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176679,
+      "num": 176679,
+      "word": "何洁前几季都报名了浪姐",
+      "onboard_time": 1714209320,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176635,
       "num": 176635,
       "word": "男子离婚冷静期杀妻案被害者妹妹发声",
@@ -13369,14 +13465,6 @@
       "onboard_time": 1713979333,
       "rank": 19,
       "category": "读书作家,作品衍生"
-    },
-    {
-      "raw_hot": 175451,
-      "num": 158456,
-      "word": "何洁前几季都报名了浪姐",
-      "onboard_time": 1714209320,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 175193,
@@ -13827,6 +13915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169464,
+      "num": 169464,
+      "word": "陈麦冬 去亲你",
+      "onboard_time": 1714211720,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169396,
       "num": 169396,
       "word": "奶茶最好2小时内喝完",
@@ -13993,6 +14089,14 @@
       "onboard_time": 1713793519,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166393,
+      "num": 166393,
+      "word": "seventeen演唱会",
+      "onboard_time": 1714211536,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 166007,
@@ -15739,6 +15843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146087,
+      "num": 146087,
+      "word": "后陡门月子中心",
+      "onboard_time": 1714210876,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146077,
       "num": 207516,
       "word": "雷军说方程豹绝对是爆款",
@@ -16011,6 +16123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143490,
+      "num": 164330,
+      "word": "日本为何放任日元狂贬",
+      "onboard_time": 1714212258,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 143472,
       "num": 143472,
       "word": "使人加速衰老的6个生活习惯",
@@ -16129,6 +16249,14 @@
       "onboard_time": 1713603678,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142208,
+      "num": 163464,
+      "word": "无锡被造谣蛋糕店老板妻子回应判决",
+      "onboard_time": 1714209919,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142115,
@@ -16376,14 +16504,6 @@
       "word": "专家称95后将成购车主力军",
       "onboard_time": 1713883099,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139291,
-      "num": 139291,
-      "word": "无锡被造谣蛋糕店老板妻子回应判决",
-      "onboard_time": 1714209919,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -18435,6 +18555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 113638,
+      "num": 113638,
+      "word": "日本小笠原群岛发生6.9级地震",
+      "onboard_time": 1714210818,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113510,
       "num": 113510,
       "word": "来不及煮鸡蛋于是准备了无菌蛋",
@@ -19145,6 +19273,14 @@
       "onboard_time": 1713686178,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97498,
+      "num": 97498,
+      "word": "看球的不看球的都知道姆巴佩了",
+      "onboard_time": 1714210697,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 97469,
@@ -20849,6 +20985,14 @@
       "onboard_time": 1714017619,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5989,
+      "num": 110838,
+      "word": "原来追星可以和喝水一样简单",
+      "onboard_time": 1714213038,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 3842,

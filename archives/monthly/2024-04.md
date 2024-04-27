@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/27 17:34:16
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/27 18:19:22
 </p>
 </blockquote>
 <p>
@@ -1449,6 +1449,12 @@ Angelababy金像奖红毯（热度：1709940）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%B0%B1%E4%BE%AE%E8%BE%B1%E6%80%A7%E6%96%87%E5%AD%97%E9%AA%82%E9%A1%BE%E5%AE%A2%E4%B8%80%E4%BA%8B%E8%87%B4%E6%AD%89%23" target="weibo">
+麦当劳就侮辱性文字骂顾客一事致歉（热度：1574633）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%80%85%E5%BA%93%E5%B9%BC%E5%84%BF%E5%9B%AD%23" target="weibo">
 辛者库幼儿园（热度：1566683）
 </a>
@@ -1601,12 +1607,6 @@ Angelababy金像奖红毯（热度：1709940）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E4%B9%B0%E6%A8%B1%E8%8A%B1%E5%91%B3%E9%A3%9F%E7%89%A9%23" target="weibo">
 千万不要买樱花味食物（热度：1525911）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%B0%B1%E4%BE%AE%E8%BE%B1%E6%80%A7%E6%96%87%E5%AD%97%E9%AA%82%E9%A1%BE%E5%AE%A2%E4%B8%80%E4%BA%8B%E8%87%B4%E6%AD%89%23" target="weibo">
-麦当劳就侮辱性文字骂顾客一事致歉（热度：1524032）
 </a>
 </li>
 
