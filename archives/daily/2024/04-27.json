@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714181573884,
+  "endTime": 1714184786287,
   "band_list": [
     {
       "raw_hot": 1356945,
@@ -11,20 +11,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1184332,
+      "num": 1184332,
+      "word": "微信文件3小时内可撤回",
+      "onboard_time": 1714178897,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1139246,
       "num": 659924,
       "word": "人刚死亡时还能听见声音吗",
       "onboard_time": 1714174815,
       "rank": 3,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1127738,
-      "num": 1127738,
-      "word": "微信文件3小时内可撤回",
-      "onboard_time": 1714178897,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 894440,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 599991,
-      "num": 437485,
+      "num": 463802,
       "word": "林更新回复给他和赵丽颖求姻缘的网友",
       "onboard_time": 1714174876,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 569700,
+      "num": 569700,
+      "word": "水龙吟阵容官宣",
+      "onboard_time": 1714182736,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 566961,
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515136,
+      "num": 515136,
+      "word": "车银优扣子崩开了",
+      "onboard_time": 1714181237,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 511343,
       "num": 511343,
       "word": "纪委回应发改委干部被爆出轨女下属",
@@ -115,12 +131,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 456145,
-      "num": 214947,
+      "raw_hot": 484545,
+      "num": 484545,
+      "word": "大熊猫云川和鑫宝将赴美",
+      "onboard_time": 1714181477,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467641,
+      "num": 253083,
       "word": "误以为很增肥实际巨减脂的食物",
       "onboard_time": 1714174336,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 462623,
+      "num": 462623,
+      "word": "桃花坞4全员异地登录",
+      "onboard_time": 1714182497,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 446982,
@@ -129,6 +161,22 @@
       "onboard_time": 1714153094,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446977,
+      "num": 446977,
+      "word": "杨紫下一部剧是长相思第二季",
+      "onboard_time": 1714180937,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 420653,
+      "num": 470789,
+      "word": "佩洛西称美国抗议学生背后是俄罗斯",
+      "onboard_time": 1714178297,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 420435,
@@ -203,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330132,
+      "num": 302495,
+      "word": "刘忻超短裙",
+      "onboard_time": 1714181656,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 321204,
       "num": 321204,
       "word": "美国去死宣传册疯传美高校",
@@ -233,6 +289,14 @@
       "onboard_time": 1714176016,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300876,
+      "num": 300876,
+      "word": "神十七乘组4月30日回地球",
+      "onboard_time": 1714183399,
+      "rank": 17,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 292117,
@@ -267,19 +331,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 256785,
+      "num": 256785,
+      "word": "金玟庭晒Jennie联名独角兽",
+      "onboard_time": 1714177876,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255972,
       "num": 255972,
       "word": "HYBE否认不宣传newjeans",
       "onboard_time": 1714130119,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 255941,
-      "num": 255941,
-      "word": "金玟庭晒Jennie联名独角兽",
-      "onboard_time": 1714177876,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -289,14 +353,6 @@
       "onboard_time": 1714173315,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250948,
-      "num": 250948,
-      "word": "杨紫下一部剧是长相思第二季",
-      "onboard_time": 1714180937,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 248940,
@@ -347,14 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212237,
-      "num": 212237,
-      "word": "佩洛西称美国抗议学生背后是俄罗斯",
-      "onboard_time": 1714178297,
-      "rank": 24,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 211489,
       "num": 187256,
       "word": "陈昊宇陈丽君长得好像",
@@ -369,6 +417,14 @@
       "onboard_time": 1714175415,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200022,
+      "num": 200022,
+      "word": "苹果或已停止升级Mac起步内存",
+      "onboard_time": 1714181777,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 198491,
@@ -387,6 +443,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 189655,
+      "num": 189655,
+      "word": "水龙吟一秒江湖视频",
+      "onboard_time": 1714183517,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189049,
       "num": 189049,
       "word": "华为重夺中国大陆智能手机市场第一",
@@ -403,12 +467,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 180204,
-      "num": 180204,
-      "word": "车银优扣子崩开了",
-      "onboard_time": 1714181237,
-      "rank": 28,
-      "category": "作品衍生"
+      "raw_hot": 178146,
+      "num": 178146,
+      "word": "小猫拿出了它认为最好的东西",
+      "onboard_time": 1714183217,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 177364,
@@ -435,6 +499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171535,
+      "num": 171535,
+      "word": "雷军回应武大设置雷军班",
+      "onboard_time": 1714182617,
+      "rank": 28,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 171359,
       "num": 171359,
       "word": "这六大预兆可提示猝死",
@@ -457,6 +529,14 @@
       "onboard_time": 1714148418,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 164009,
+      "num": 164009,
+      "word": "张超牺牲8周年了",
+      "onboard_time": 1714181477,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163047,
@@ -483,6 +563,14 @@
       "category": "读书作家,社会新闻"
     },
     {
+      "raw_hot": 152297,
+      "num": 152297,
+      "word": "每周最多减重2斤最适宜",
+      "onboard_time": 1714184298,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 146954,
       "num": 146954,
       "word": "范伟62岁再夺影帝",
@@ -505,6 +593,14 @@
       "onboard_time": 1714177156,
       "rank": 31,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 144445,
+      "num": 144445,
+      "word": "香菜酸菜鱼到底是谁在吃",
+      "onboard_time": 1714184657,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 142547,
@@ -555,14 +651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129495,
-      "num": 129495,
-      "word": "大熊猫云川和鑫宝将赴美",
-      "onboard_time": 1714181477,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129376,
       "num": 129376,
       "word": "明天周末上班",
@@ -593,6 +681,14 @@
       "onboard_time": 1714173736,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 128197,
+      "num": 128197,
+      "word": "illit总监ins发了海街日记",
+      "onboard_time": 1714182017,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 125565,
@@ -627,20 +723,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119465,
-      "num": 119465,
-      "word": "张超牺牲8周年了",
-      "onboard_time": 1714181477,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118930,
       "num": 118930,
       "word": "日元汇率一度跌至156日元兑1美元",
       "onboard_time": 1714180578,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 118413,
+      "num": 118413,
+      "word": "我帮你肯定指望你还啊",
+      "onboard_time": 1714183037,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 116996,
@@ -652,7 +748,7 @@
     },
     {
       "raw_hot": 113951,
-      "num": 449032,
+      "num": 464147,
       "word": "接下来浙江人餐桌上的标配",
       "onboard_time": 1714174935,
       "rank": 9,

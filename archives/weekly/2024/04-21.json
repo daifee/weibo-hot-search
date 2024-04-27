@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714181573884,
+  "endTime": 1714184786287,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -851,6 +851,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 1184332,
+      "num": 1184332,
+      "word": "微信文件3小时内可撤回",
+      "onboard_time": 1714178897,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1184063,
       "num": 1184063,
       "word": "荷兰男子新冠阳性613天去世",
@@ -953,14 +961,6 @@
       "onboard_time": 1713744919,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1127738,
-      "num": 1127738,
-      "word": "微信文件3小时内可撤回",
-      "onboard_time": 1714178897,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1124147,
@@ -2948,7 +2948,7 @@
     },
     {
       "raw_hot": 599991,
-      "num": 437485,
+      "num": 463802,
       "word": "林更新回复给他和赵丽颖求姻缘的网友",
       "onboard_time": 1714174876,
       "rank": 10,
@@ -3201,6 +3201,14 @@
       "onboard_time": 1713676940,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 569700,
+      "num": 569700,
+      "word": "水龙吟阵容官宣",
+      "onboard_time": 1714182736,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 569591,
@@ -3683,6 +3691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515136,
+      "num": 515136,
+      "word": "车银优扣子崩开了",
+      "onboard_time": 1714181237,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 513586,
       "num": 513586,
       "word": "德国将实现性别自由",
@@ -4019,6 +4035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 484545,
+      "num": 484545,
+      "word": "大熊猫云川和鑫宝将赴美",
+      "onboard_time": 1714181477,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484236,
       "num": 355472,
       "word": "27岁越来越不敢和我爸说话",
@@ -4219,6 +4243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 467641,
+      "num": 253083,
+      "word": "误以为很增肥实际巨减脂的食物",
+      "onboard_time": 1714174336,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 466314,
       "num": 466314,
       "word": "花少1 真正的穷游",
@@ -4273,6 +4305,14 @@
       "onboard_time": 1713858677,
       "rank": 8,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 462623,
+      "num": 462623,
+      "word": "桃花坞4全员异地登录",
+      "onboard_time": 1714182497,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 461703,
@@ -4345,14 +4385,6 @@
       "onboard_time": 1713963620,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 456145,
-      "num": 214947,
-      "word": "误以为很增肥实际巨减脂的食物",
-      "onboard_time": 1714174336,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 455209,
@@ -4457,6 +4489,14 @@
       "onboard_time": 1714153094,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446977,
+      "num": 446977,
+      "word": "杨紫下一部剧是长相思第二季",
+      "onboard_time": 1714180937,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 446303,
@@ -4833,6 +4873,14 @@
       "onboard_time": 1713658216,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 420653,
+      "num": 470789,
+      "word": "佩洛西称美国抗议学生背后是俄罗斯",
+      "onboard_time": 1714178297,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 420505,
@@ -6043,6 +6091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330132,
+      "num": 302495,
+      "word": "刘忻超短裙",
+      "onboard_time": 1714181656,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 329814,
       "num": 329814,
       "word": "原神4.6",
@@ -6497,6 +6553,14 @@
       "onboard_time": 1714176016,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300876,
+      "num": 300876,
+      "word": "神十七乘组4月30日回地球",
+      "onboard_time": 1714183399,
+      "rank": 17,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 300843,
@@ -7555,6 +7619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256785,
+      "num": 256785,
+      "word": "金玟庭晒Jennie联名独角兽",
+      "onboard_time": 1714177876,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256784,
       "num": 256784,
       "word": "Doinb为Tian大哭",
@@ -7569,14 +7641,6 @@
       "onboard_time": 1713707779,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 255941,
-      "num": 255941,
-      "word": "金玟庭晒Jennie联名独角兽",
-      "onboard_time": 1714177876,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 255663,
@@ -7768,14 +7832,6 @@
       "word": "七夜雪预告",
       "onboard_time": 1713835279,
       "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 250948,
-      "num": 250948,
-      "word": "杨紫下一部剧是长相思第二季",
-      "onboard_time": 1714180937,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -9283,14 +9339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212237,
-      "num": 212237,
-      "word": "佩洛西称美国抗议学生背后是俄罗斯",
-      "onboard_time": 1714178297,
-      "rank": 24,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 212099,
       "num": 212099,
       "word": "罗云熙第一部男频剧",
@@ -10289,6 +10337,14 @@
       "onboard_time": 1713675438,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200022,
+      "num": 200022,
+      "word": "苹果或已停止升级Mac起步内存",
+      "onboard_time": 1714181777,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 199836,
@@ -11291,6 +11347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189655,
+      "num": 189655,
+      "word": "水龙吟一秒江湖视频",
+      "onboard_time": 1714183517,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189626,
       "num": 189626,
       "word": "顾家地位排序",
@@ -12075,14 +12139,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 180204,
-      "num": 180204,
-      "word": "车银优扣子崩开了",
-      "onboard_time": 1714181237,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 180203,
       "num": 180203,
       "word": "HYBE检举闵熙珍",
@@ -12257,6 +12313,14 @@
       "onboard_time": 1713622939,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178146,
+      "num": 178146,
+      "word": "小猫拿出了它认为最好的东西",
+      "onboard_time": 1714183217,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 177395,
@@ -12665,6 +12729,14 @@
       "onboard_time": 1714014918,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 171535,
+      "num": 171535,
+      "word": "雷军回应武大设置雷军班",
+      "onboard_time": 1714182617,
+      "rank": 28,
+      "category": "互联网,教育"
     },
     {
       "raw_hot": 171514,
@@ -13209,6 +13281,14 @@
       "onboard_time": 1713954620,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164009,
+      "num": 164009,
+      "word": "张超牺牲8周年了",
+      "onboard_time": 1714181477,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163837,
@@ -14163,6 +14243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152297,
+      "num": 152297,
+      "word": "每周最多减重2斤最适宜",
+      "onboard_time": 1714184298,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 152207,
       "num": 152207,
       "word": "埃弗顿2比0利物浦",
@@ -14865,6 +14953,14 @@
       "onboard_time": 1713827595,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144445,
+      "num": 144445,
+      "word": "香菜酸菜鱼到底是谁在吃",
+      "onboard_time": 1714184657,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 144416,
@@ -16139,14 +16235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129495,
-      "num": 129495,
-      "word": "大熊猫云川和鑫宝将赴美",
-      "onboard_time": 1714181477,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129485,
       "num": 129485,
       "word": "久酷 希望一路放晴",
@@ -16305,6 +16393,14 @@
       "onboard_time": 1713882799,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128197,
+      "num": 128197,
+      "word": "illit总监ins发了海街日记",
+      "onboard_time": 1714182017,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 127797,
@@ -16915,14 +17011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119465,
-      "num": 119465,
-      "word": "张超牺牲8周年了",
-      "onboard_time": 1714181477,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119312,
       "num": 119312,
       "word": "沙特电竞世界杯宣传片公布",
@@ -16992,6 +17080,14 @@
       "word": "小巷人家首发预告",
       "onboard_time": 1714120158,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118413,
+      "num": 118413,
+      "word": "我帮你肯定指望你还啊",
+      "onboard_time": 1714183037,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -17220,7 +17316,7 @@
     },
     {
       "raw_hot": 113951,
-      "num": 449032,
+      "num": 464147,
       "word": "接下来浙江人餐桌上的标配",
       "onboard_time": 1714174935,
       "rank": 9,
