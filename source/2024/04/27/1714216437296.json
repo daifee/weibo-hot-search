@@ -1,0 +1,410 @@
+{
+  "runTime": 1714216437296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1097565,
+        "num": 1097565,
+        "word": "麦当劳就侮辱性文字骂顾客一事致歉",
+        "onboard_time": 1714206978,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801683,
+        "num": 801683,
+        "word": "休一天",
+        "onboard_time": 1714206016,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87296,
+        "num": 684505,
+        "word": "五一假期全国赏花地图",
+        "onboard_time": 1714205057,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866539,
+        "num": 683790,
+        "word": "王婆回应被江西彩礼震惊",
+        "onboard_time": 1714212199,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673568,
+        "num": 673568,
+        "word": "歌手2024 朴彩英",
+        "onboard_time": 1714207817,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 673470,
+        "num": 673470,
+        "word": "Hybe音源注水被曝光",
+        "onboard_time": 1714214538,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 652570,
+        "num": 652570,
+        "word": "张予曦BLACKPINK舞台相似度",
+        "onboard_time": 1714212498,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 630231,
+        "num": 630231,
+        "word": "金秀贤金智媛合体",
+        "onboard_time": 1714212558,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73499,
+        "num": 597654,
+        "word": "好客山东又摇人儿了",
+        "onboard_time": 1714215678,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242644,
+        "num": 591976,
+        "word": "爷爷去世前在监控中喊孙女名字",
+        "onboard_time": 1714211478,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586866,
+        "num": 586866,
+        "word": "迪丽热巴轻纱拖地裙",
+        "onboard_time": 1714213157,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 521854,
+        "num": 521854,
+        "word": "小叶 泽泽",
+        "onboard_time": 1714214357,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 447414,
+        "num": 447414,
+        "word": "彩票中了一等奖真实的兑奖情况",
+        "onboard_time": 1714206618,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 410931,
+        "num": 410931,
+        "word": "女子吐槽15元买一颗樱桃",
+        "onboard_time": 1714209138,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403861,
+        "num": 403861,
+        "word": "老人被养了四五年的狗撕咬",
+        "onboard_time": 1714213338,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389083,
+        "num": 389083,
+        "word": "广州龙卷风",
+        "onboard_time": 1714207338,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352571,
+        "num": 352571,
+        "word": "广州白云龙卷风现场画面",
+        "onboard_time": 1714212919,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281997,
+        "num": 281997,
+        "word": "眼泪女王直播",
+        "onboard_time": 1714210937,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264671,
+        "num": 264671,
+        "word": "泽泽 被分手",
+        "onboard_time": 1714215678,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 247421,
+        "num": 247421,
+        "word": "肖战藏海传白衣路透",
+        "onboard_time": 1714215498,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56052,
+        "num": 245159,
+        "word": "原来追星可以和喝水一样简单",
+        "onboard_time": 1714213038,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 574275,
+        "num": 241988,
+        "word": "鹿晗关晓彤连口头禅都一样",
+        "onboard_time": 1714203617,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491817,
+        "num": 238633,
+        "word": "第一次出国发朋友圈被同事警告了",
+        "onboard_time": 1714207817,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280200,
+        "num": 236016,
+        "word": "郭碧婷组 三个在冷宫失了智的嫔妃",
+        "onboard_time": 1714198336,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235424,
+        "num": 235424,
+        "word": "增城",
+        "onboard_time": 1714209019,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243806,
+        "num": 233120,
+        "word": "华晨宇 花傲天",
+        "onboard_time": 1714211657,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375489,
+        "num": 232981,
+        "word": "鹿晗戒碳水很久了",
+        "onboard_time": 1714194378,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228208,
+        "num": 228208,
+        "word": "出生就是孤儿的她也离开了人世",
+        "onboard_time": 1714213757,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214721,
+        "num": 214721,
+        "word": "迪丽热巴 迪满楼",
+        "onboard_time": 1714197618,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192647,
+        "num": 192647,
+        "word": "广州白云区发生龙卷风",
+        "onboard_time": 1714215858,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195575,
+        "num": 191925,
+        "word": "女子婚礼后55天遭丈夫49刀杀害",
+        "onboard_time": 1714216038,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190149,
+        "num": 190149,
+        "word": "四川文旅回应一个串串8根签",
+        "onboard_time": 1714210818,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183759,
+        "num": 183759,
+        "word": "歌手2024名单",
+        "onboard_time": 1714203557,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200778,
+        "num": 181894,
+        "word": "迪丽热巴活动直播",
+        "onboard_time": 1714209138,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175596,
+        "num": 175596,
+        "word": "三吉差个Rookie",
+        "onboard_time": 1714215379,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175152,
+        "num": 175152,
+        "word": "明日方舟五周年直播",
+        "onboard_time": 1714214476,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172149,
+        "num": 172149,
+        "word": "恋与深空官配",
+        "onboard_time": 1714212077,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166297,
+        "num": 166297,
+        "word": "李一桐王权篇杀青路透",
+        "onboard_time": 1714215919,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162576,
+        "num": 162576,
+        "word": "高圆圆好薄一片",
+        "onboard_time": 1714201277,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154009,
+        "num": 154009,
+        "word": "布林肯在华宣称美高校抗议是民主标志被质疑",
+        "onboard_time": 1714213397,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 153625,
+        "num": 153625,
+        "word": "广州冰雹",
+        "onboard_time": 1714204458,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144657,
+        "num": 144657,
+        "word": "张元英最初的梦想",
+        "onboard_time": 1714213638,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144453,
+        "num": 144453,
+        "word": "卡琳娜cos哈尔",
+        "onboard_time": 1714211897,
+        "rank": 42,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 138523,
+        "num": 138523,
+        "word": "火星哥 歌手2024",
+        "onboard_time": 1714197317,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137883,
+        "num": 137883,
+        "word": "锦超声明",
+        "onboard_time": 1714216338,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137573,
+        "num": 137573,
+        "word": "眼泪女王终映宴",
+        "onboard_time": 1714213397,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135217,
+        "num": 135217,
+        "word": "金靖又有新综艺了",
+        "onboard_time": 1714214237,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130193,
+        "num": 130193,
+        "word": "日本为何放任日元狂贬",
+        "onboard_time": 1714212258,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117458,
+        "num": 117458,
+        "word": "爸妈好像忘记我已经二十多岁了",
+        "onboard_time": 1714205898,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115442,
+        "num": 115442,
+        "word": "人皮肤最厚的部位在哪",
+        "onboard_time": 1714215319,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国务卿布林肯#"
+    }
+  }
+}
