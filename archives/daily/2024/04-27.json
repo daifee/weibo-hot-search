@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714188846771,
+  "endTime": 1714191620391,
   "band_list": [
     {
       "raw_hot": 1356945,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 997667,
-      "num": 357260,
+      "num": 411527,
       "word": "林依晨 圣母婊由衷喜悦与感激",
       "onboard_time": 1714186036,
       "rank": 10,
@@ -41,6 +41,14 @@
       "onboard_time": 1714175235,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 869492,
+      "num": 493872,
+      "word": "余华回应微信头像",
+      "onboard_time": 1714188556,
+      "rank": 31,
+      "category": "读书作家"
     },
     {
       "raw_hot": 760235,
@@ -83,6 +91,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 633916,
+      "num": 210405,
+      "word": "长期不吃主食的人后来怎样了",
+      "onboard_time": 1714188436,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 630460,
       "num": 550697,
       "word": "车银优扣子崩开了",
@@ -99,12 +115,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 626332,
+      "num": 626332,
+      "word": "童瑶未修原图",
+      "onboard_time": 1714189097,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 599991,
       "num": 463802,
       "word": "林更新回复给他和赵丽颖求姻缘的网友",
       "onboard_time": 1714174876,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 570873,
+      "num": 391120,
+      "word": "舞蹈老师踩断学生腿只愿赔5万",
+      "onboard_time": 1714189336,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 566961,
@@ -161,6 +193,14 @@
       "onboard_time": 1714174336,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 463262,
+      "num": 384364,
+      "word": "迪丽热巴一面镜子七套造型",
+      "onboard_time": 1714188796,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 462623,
@@ -227,6 +267,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380060,
+      "num": 380060,
+      "word": "以为张予曦参加维密了",
+      "onboard_time": 1714189877,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 376153,
+      "num": 376153,
+      "word": "范丞丞cue苗苗姐",
+      "onboard_time": 1714190477,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365490,
       "num": 365490,
       "word": "韩国教师引诱121名未成年拍不雅视频",
@@ -268,11 +324,19 @@
     },
     {
       "raw_hot": 351649,
-      "num": 351649,
+      "num": 425577,
       "word": "英伟达市值一夜大涨9246亿",
       "onboard_time": 1714185198,
       "rank": 42,
       "category": "财经,科学科普"
+    },
+    {
+      "raw_hot": 351034,
+      "num": 436406,
+      "word": "中国资产全面大涨",
+      "onboard_time": 1714186098,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 341254,
@@ -331,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295225,
+      "num": 295225,
+      "word": "迪丽热巴上海活动",
+      "onboard_time": 1714188857,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292117,
       "num": 292117,
       "word": "辛芷蕾拿了白玉兰戏剧奖",
@@ -345,6 +417,14 @@
       "onboard_time": 1714185617,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282708,
+      "num": 209918,
+      "word": "鹿晗被陈卓璇吓到了",
+      "onboard_time": 1714190777,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 280798,
@@ -363,12 +443,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 279236,
+      "num": 205732,
+      "word": "找到朱丹吃张颂文醋的原因了",
+      "onboard_time": 1714191017,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273079,
       "num": 273079,
       "word": "Jennie第一次cha",
       "onboard_time": 1714135159,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 271652,
+      "num": 204161,
+      "word": "真维斯 王一博",
+      "onboard_time": 1714190657,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 259543,
+      "num": 202014,
+      "word": "邓超谢谢不用了",
+      "onboard_time": 1714190777,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 256785,
@@ -403,20 +507,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 248842,
-      "num": 248842,
-      "word": "中国资产全面大涨",
-      "onboard_time": 1714186098,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 244138,
       "num": 244138,
       "word": "罗云熙演唱会抢票",
       "onboard_time": 1714188318,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 240219,
+      "num": 194184,
+      "word": "IVE念经曲",
+      "onboard_time": 1714188137,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 233157,
@@ -499,12 +603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210729,
-      "num": 194579,
-      "word": "迪丽热巴一面镜子七套造型",
-      "onboard_time": 1714188796,
-      "rank": 22,
-      "category": "作品衍生"
+      "raw_hot": 211033,
+      "num": 211033,
+      "word": "编者按",
+      "onboard_time": 1714190657,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 209557,
@@ -587,6 +691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 191919,
+      "num": 191919,
+      "word": "罗云熙成都演唱会门票秒没",
+      "onboard_time": 1714191017,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189655,
       "num": 189655,
       "word": "水龙吟一秒江湖视频",
@@ -601,14 +713,6 @@
       "onboard_time": 1714177337,
       "rank": 26,
       "category": "数码"
-    },
-    {
-      "raw_hot": 186992,
-      "num": 182152,
-      "word": "IVE念经曲",
-      "onboard_time": 1714188137,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 184000,
@@ -633,14 +737,6 @@
       "onboard_time": 1714166590,
       "rank": 31,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 175785,
-      "num": 175785,
-      "word": "余华回应微信头像",
-      "onboard_time": 1714188556,
-      "rank": 31,
-      "category": "读书作家"
     },
     {
       "raw_hot": 174157,
@@ -699,14 +795,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 158372,
-      "num": 158372,
-      "word": "长期不吃主食的人后来怎样了",
-      "onboard_time": 1714188436,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 157655,
       "num": 157655,
       "word": "癌症晚期倾家荡产吃药延长生命值得吗",
@@ -721,6 +809,30 @@
       "onboard_time": 1714180578,
       "rank": 32,
       "category": "读书作家,社会新闻"
+    },
+    {
+      "raw_hot": 152128,
+      "num": 188066,
+      "word": "有一瞬间觉得基因真的很不公平",
+      "onboard_time": 1714190358,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 152034,
+      "num": 152034,
+      "word": "回到那一天演唱会",
+      "onboard_time": 1714191436,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 147696,
+      "num": 147696,
+      "word": "你好星期六全员找旅游搭子",
+      "onboard_time": 1714189158,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 146954,
@@ -771,6 +883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139602,
+      "num": 186441,
+      "word": "为什么外国人很少吃西瓜",
+      "onboard_time": 1714191377,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 137829,
       "num": 137829,
       "word": "护考",
@@ -803,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134260,
+      "num": 178523,
+      "word": "哥大理事会通过决议批评管理层阻止学生抗议",
+      "onboard_time": 1714190899,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 129759,
       "num": 129759,
       "word": "间谍过家家婚后告白",
@@ -825,6 +953,14 @@
       "onboard_time": 1714174635,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129381,
+      "num": 177930,
+      "word": "长春一小区内深夜斗狗猎杀猫咪",
+      "onboard_time": 1714191197,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129376,
@@ -875,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126374,
+      "num": 207033,
+      "word": "马凡舒自称小米SU7颜粉",
+      "onboard_time": 1714190718,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 125565,
       "num": 123678,
       "word": "胡歌辛芷蕾繁花售后",
@@ -905,6 +1049,14 @@
       "onboard_time": 1714186878,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123481,
+      "num": 177718,
+      "word": "哈登发挥",
+      "onboard_time": 1714189457,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 122941,
@@ -1337,6 +1489,9 @@
     },
     {
       "word": "#习近平会见布林肯#"
+    },
+    {
+      "word": "#习近平会见美国务卿布林肯#"
     }
   ]
 }
