@@ -1,0 +1,410 @@
+{
+  "runTime": 1714224853691,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 952718,
+        "num": 952718,
+        "word": "眼泪女王",
+        "onboard_time": 1714220898,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 817783,
+        "num": 817783,
+        "word": "广州龙卷风",
+        "onboard_time": 1714207338,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2291,
+        "num": 804887,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1075793,
+        "num": 803293,
+        "word": "胡歌喊话金靖要做孩子舅舅",
+        "onboard_time": 1714220238,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 800709,
+        "num": 800709,
+        "word": "迪丽热巴未修原图",
+        "onboard_time": 1714222457,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569906,
+        "num": 569906,
+        "word": "彩票中了一等奖真实的兑奖情况",
+        "onboard_time": 1714206618,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 560751,
+        "num": 560751,
+        "word": "麦当劳就侮辱性文字骂顾客一事致歉",
+        "onboard_time": 1714206978,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475433,
+        "num": 475433,
+        "word": "吴艳妮新动作",
+        "onboard_time": 1714223419,
+        "rank": 7,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 467243,
+        "num": 467243,
+        "word": "郭碧婷 淡人",
+        "onboard_time": 1714218378,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95381,
+        "num": 452040,
+        "word": "这届医学生唱跳都这么专业嘛",
+        "onboard_time": 1714222760,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 761729,
+        "num": 448107,
+        "word": "要怎么和韩国人解释五一调休",
+        "onboard_time": 1714219461,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 440600,
+        "num": 440600,
+        "word": "老人被养了四五年的狗撕咬",
+        "onboard_time": 1714213338,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413390,
+        "num": 413390,
+        "word": "泽泽 被分手",
+        "onboard_time": 1714215678,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 408622,
+        "num": 408622,
+        "word": "Jennie去了seventeen演唱会",
+        "onboard_time": 1714222578,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 374782,
+        "num": 374782,
+        "word": "广州龙卷风初判为3级强龙卷",
+        "onboard_time": 1714221738,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368015,
+        "num": 368015,
+        "word": "苗苗好甜",
+        "onboard_time": 1714218618,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339961,
+        "num": 339961,
+        "word": "广州提醒雷击大风致灾风险极高",
+        "onboard_time": 1714223839,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388363,
+        "num": 338715,
+        "word": "休一天",
+        "onboard_time": 1714206016,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322188,
+        "num": 322188,
+        "word": "小叶 泽泽",
+        "onboard_time": 1714214357,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303417,
+        "num": 303417,
+        "word": "我只喜欢你的人设",
+        "onboard_time": 1714216937,
+        "rank": 19,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 793068,
+        "num": 301356,
+        "word": "生理性喜欢和心理喜欢哪个重要",
+        "onboard_time": 1714220118,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 792846,
+        "num": 297816,
+        "word": "南雅婚内被侵犯",
+        "onboard_time": 1714223060,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 528121,
+        "num": 291254,
+        "word": "歌手2024 朴彩英",
+        "onboard_time": 1714207817,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326168,
+        "num": 287169,
+        "word": "郭碧婷组 三个在冷宫失了智的嫔妃",
+        "onboard_time": 1714198336,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285332,
+        "num": 285332,
+        "word": "陈丽君 实至名归",
+        "onboard_time": 1714221920,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283758,
+        "num": 283758,
+        "word": "女子造谣3岁女儿遭猥亵被判赔6万",
+        "onboard_time": 1714223060,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282517,
+        "num": 282517,
+        "word": "第一次出国发朋友圈被同事警告了",
+        "onboard_time": 1714207817,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273747,
+        "num": 273747,
+        "word": "明日方舟五周年直播",
+        "onboard_time": 1714214476,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240569,
+        "num": 240569,
+        "word": "金秀贤金智媛合体",
+        "onboard_time": 1714212558,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234504,
+        "num": 234504,
+        "word": "女子婚礼后55天遭丈夫49刀杀害",
+        "onboard_time": 1714216038,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232928,
+        "num": 232928,
+        "word": "明日方舟联动迷宫饭",
+        "onboard_time": 1714224078,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228909,
+        "num": 228909,
+        "word": "春色寄情人 看得我尖叫",
+        "onboard_time": 1714224318,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203945,
+        "num": 203945,
+        "word": "丁程鑫让hi6嘉宾帮忙宣传演唱会",
+        "onboard_time": 1714224260,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202447,
+        "num": 202447,
+        "word": "李现能不能全国巡亲",
+        "onboard_time": 1714224078,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199695,
+        "num": 199695,
+        "word": "时代少年团 二开",
+        "onboard_time": 1714224439,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41001,
+        "num": 192368,
+        "word": "1088人拟获全国五一劳动奖章",
+        "onboard_time": 1714223659,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186328,
+        "num": 186328,
+        "word": "霸哥让AJ道歉",
+        "onboard_time": 1714224019,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183583,
+        "num": 183583,
+        "word": "Hybe音源注水被曝光",
+        "onboard_time": 1714214538,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180626,
+        "num": 180626,
+        "word": "文俊辉直播",
+        "onboard_time": 1714224679,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171538,
+        "num": 171538,
+        "word": "爷爷去世前在监控中喊孙女名字",
+        "onboard_time": 1714211478,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178541,
+        "num": 170295,
+        "word": "眼泪女王直播",
+        "onboard_time": 1714210937,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168827,
+        "num": 168827,
+        "word": "华晨宇直播",
+        "onboard_time": 1714221259,
+        "rank": 41,
+        "category": "作品衍生,互联网"
+      },
+      {
+        "raw_hot": 162146,
+        "num": 162146,
+        "word": "迪丽热巴金色长裙梦回乔晶晶",
+        "onboard_time": 1714216937,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 160870,
+        "num": 160870,
+        "word": "ILLIT新歌成2024年获一位最多的歌曲",
+        "onboard_time": 1714224142,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160268,
+        "num": 160268,
+        "word": "肖战藏海传白衣路透",
+        "onboard_time": 1714215498,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153203,
+        "num": 153203,
+        "word": "王婆回应被江西彩礼震惊",
+        "onboard_time": 1714212199,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151826,
+        "num": 151826,
+        "word": "利物浦客场落后",
+        "onboard_time": 1714221498,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155996,
+        "num": 151356,
+        "word": "迪丽热巴直播出图",
+        "onboard_time": 1714220839,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150109,
+        "num": 150109,
+        "word": "开心消消乐",
+        "onboard_time": 1714220477,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135525,
+        "num": 135525,
+        "word": "女子吐槽15元买一颗樱桃",
+        "onboard_time": 1714209138,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#途通山海阔开放创未来#"
+    }
+  }
+}

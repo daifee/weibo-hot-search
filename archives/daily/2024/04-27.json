@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714223964642,
+  "endTime": 1714224853691,
   "band_list": [
     {
       "raw_hot": 1807265,
@@ -75,6 +75,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1075793,
+      "num": 803293,
+      "word": "胡歌喊话金靖要做孩子舅舅",
+      "onboard_time": 1714220238,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1062369,
       "num": 1062369,
       "word": "歌手2024 朴彩英",
@@ -105,6 +113,14 @@
       "onboard_time": 1714198336,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 952718,
+      "num": 952718,
+      "word": "眼泪女王",
+      "onboard_time": 1714220898,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 926800,
@@ -139,14 +155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 872669,
-      "num": 619074,
-      "word": "胡歌喊话金靖要做孩子舅舅",
-      "onboard_time": 1714220238,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 866539,
       "num": 683790,
       "word": "王婆回应被江西彩礼震惊",
@@ -171,12 +179,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 817783,
+      "num": 817783,
+      "word": "广州龙卷风",
+      "onboard_time": 1714207338,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 800872,
       "num": 335938,
       "word": "长期不吃主食的人后来怎样了",
       "onboard_time": 1714188436,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 800709,
+      "num": 800709,
+      "word": "迪丽热巴未修原图",
+      "onboard_time": 1714222457,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 793068,
+      "num": 327553,
+      "word": "生理性喜欢和心理喜欢哪个重要",
+      "onboard_time": 1714220118,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 792846,
+      "num": 321500,
+      "word": "南雅婚内被侵犯",
+      "onboard_time": 1714223060,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 776132,
@@ -187,28 +227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 761729,
+      "num": 551530,
+      "word": "要怎么和韩国人解释五一调休",
+      "onboard_time": 1714219461,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 760235,
       "num": 760235,
       "word": "没有编制教师岗还有吸引力吗",
       "onboard_time": 1714168511,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 753878,
-      "num": 753878,
-      "word": "眼泪女王",
-      "onboard_time": 1714220898,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 741412,
-      "num": 327553,
-      "word": "生理性喜欢和心理喜欢哪个重要",
-      "onboard_time": 1714220118,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 734877,
@@ -248,14 +280,6 @@
       "word": "抗癌东东去世",
       "onboard_time": 1714145358,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 725881,
-      "num": 725881,
-      "word": "广州龙卷风",
-      "onboard_time": 1714207338,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -427,22 +451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 584600,
-      "num": 321500,
-      "word": "南雅婚内被侵犯",
-      "onboard_time": 1714223060,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 570817,
-      "num": 570817,
-      "word": "迪丽热巴未修原图",
-      "onboard_time": 1714222457,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 566961,
       "num": 566961,
       "word": "爱情公寓 同一个人不同的角色",
@@ -465,14 +473,6 @@
       "onboard_time": 1714214357,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 551530,
-      "num": 551530,
-      "word": "要怎么和韩国人解释五一调休",
-      "onboard_time": 1714219461,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 531723,
@@ -545,6 +545,14 @@
       "onboard_time": 1714181477,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475433,
+      "num": 475433,
+      "word": "吴艳妮新动作",
+      "onboard_time": 1714223419,
+      "rank": 27,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 467641,
@@ -723,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374782,
+      "num": 374782,
+      "word": "广州龙卷风初判为3级强龙卷",
+      "onboard_time": 1714221738,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372063,
       "num": 372063,
       "word": "真维斯 王一博",
@@ -843,6 +859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 339961,
+      "num": 339961,
+      "word": "广州提醒雷击大风致灾风险极高",
+      "onboard_time": 1714223839,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332243,
       "num": 332243,
       "word": "肖战藏海传白衣路透",
@@ -857,14 +881,6 @@
       "onboard_time": 1714143079,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 328171,
-      "num": 328171,
-      "word": "广州龙卷风初判为3级强龙卷",
-      "onboard_time": 1714221738,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 327022,
@@ -1019,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283758,
+      "num": 283758,
+      "word": "女子造谣3岁女儿遭猥亵被判赔6万",
+      "onboard_time": 1714223060,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280798,
       "num": 280798,
       "word": "发明邓超的人真是个天才",
@@ -1083,14 +1107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256819,
-      "num": 256819,
-      "word": "女子造谣3岁女儿遭猥亵被判赔6万",
-      "onboard_time": 1714223060,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256785,
       "num": 256785,
       "word": "金玟庭晒Jennie联名独角兽",
@@ -1145,14 +1161,6 @@
       "onboard_time": 1714203256,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248973,
-      "num": 248973,
-      "word": "吴艳妮新动作",
-      "onboard_time": 1714223419,
-      "rank": 27,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 248940,
@@ -1227,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232928,
+      "num": 232928,
+      "word": "明日方舟联动迷宫饭",
+      "onboard_time": 1714224078,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 232237,
       "num": 232237,
       "word": "台湾花莲附近发生4.6级左右地震",
@@ -1249,6 +1265,14 @@
       "onboard_time": 1714200857,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228909,
+      "num": 228909,
+      "word": "春色寄情人 看得我尖叫",
+      "onboard_time": 1714224318,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 228626,
@@ -1467,12 +1491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203945,
+      "num": 203945,
+      "word": "丁程鑫让hi6嘉宾帮忙宣传演唱会",
+      "onboard_time": 1714224260,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203796,
       "num": 139739,
       "word": "严浩翔空降时代少年团超话",
       "onboard_time": 1714203078,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202447,
+      "num": 202447,
+      "word": "李现能不能全国巡亲",
+      "onboard_time": 1714224078,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 202279,
@@ -1505,6 +1545,14 @@
       "onboard_time": 1714181777,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 199695,
+      "num": 199695,
+      "word": "时代少年团 二开",
+      "onboard_time": 1714224439,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 199377,
@@ -1683,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186328,
+      "num": 186328,
+      "word": "霸哥让AJ道歉",
+      "onboard_time": 1714224019,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185904,
       "num": 185904,
       "word": "减肥主食有3个黄金等级",
@@ -1761,6 +1817,14 @@
       "onboard_time": 1714197497,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180626,
+      "num": 180626,
+      "word": "文俊辉直播",
+      "onboard_time": 1714224679,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 177364,
@@ -1945,6 +2009,14 @@
       "onboard_time": 1714207158,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160870,
+      "num": 160870,
+      "word": "ILLIT新歌成2024年获一位最多的歌曲",
+      "onboard_time": 1714224142,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 159450,
@@ -2355,14 +2427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126911,
-      "num": 126911,
-      "word": "广州提醒雷击大风致灾风险极高",
-      "onboard_time": 1714223839,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126374,
       "num": 399012,
       "word": "马凡舒自称小米SU7颜粉",
@@ -2715,6 +2779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95381,
+      "num": 489136,
+      "word": "这届医学生唱跳都这么专业嘛",
+      "onboard_time": 1714222760,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93460,
       "num": 113589,
       "word": "森林狼vs太阳",
@@ -2785,14 +2857,6 @@
       "onboard_time": 1714204037,
       "rank": 29,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 87638,
-      "num": 489136,
-      "word": "这届医学生唱跳都这么专业嘛",
-      "onboard_time": 1714222760,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 86209,
@@ -2931,6 +2995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41001,
+      "num": 622988,
+      "word": "1088人拟获全国五一劳动奖章",
+      "onboard_time": 1714223659,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37955,
       "num": 297912,
       "word": "蔚来ET7试驾挤满豪华车主",
@@ -3019,18 +3091,18 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 11521,
-      "num": 622988,
-      "word": "1088人拟获全国五一劳动奖章",
-      "onboard_time": 1714223659,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 4958,
       "num": 667646,
       "word": "全国网络普法行江苏站",
       "onboard_time": 1714032319,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2291,
+      "num": 804887,
+      "word": "文化中国行",
+      "onboard_time": 1713927617,
       "rank": 2,
       "category": "社会新闻"
     }
