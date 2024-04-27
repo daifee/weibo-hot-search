@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714246447841,
+  "endTime": 1714249044613,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -76051,6 +76051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50596,
+      "num": 50596,
+      "word": "方时赫",
+      "onboard_time": 1714245252,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50591,
       "num": 150359,
       "word": "蹭空调的正确打开方式",
@@ -76385,6 +76393,14 @@
       "onboard_time": 1713989350,
       "rank": 43,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 45016,
+      "num": 36110,
+      "word": "广东最大的水库开闸泄洪",
+      "onboard_time": 1714244051,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44932,
@@ -76803,14 +76819,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 38879,
-      "num": 38879,
-      "word": "方时赫",
-      "onboard_time": 1714245252,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 38780,
       "num": 38780,
       "word": "皇上来大明湖也找不到夏雨荷",
@@ -77011,14 +77019,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 36110,
-      "num": 36110,
-      "word": "广东最大的水库开闸泄洪",
-      "onboard_time": 1714244051,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36105,
       "num": 140480,
       "word": "重生之我在东京当富哥",
@@ -77211,6 +77211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33635,
+      "num": 29100,
+      "word": "邓超说蔡文静脑子好厉害",
+      "onboard_time": 1714244771,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33415,
       "num": 167876,
       "word": "Joker回来了",
@@ -77297,14 +77305,6 @@
       "onboard_time": 1712264350,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 32046,
-      "num": 29100,
-      "word": "邓超说蔡文静脑子好厉害",
-      "onboard_time": 1714244771,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 32040,

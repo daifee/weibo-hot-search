@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714246447841,
+  "endTime": 1714249044613,
   "band_list": [
     {
       "raw_hot": 1259200,
@@ -475,12 +475,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50596,
+      "num": 50596,
+      "word": "方时赫",
+      "onboard_time": 1714245252,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45977,
       "num": 70585,
       "word": "幸福四件套",
       "onboard_time": 1714237516,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 45016,
+      "num": 36110,
+      "word": "广东最大的水库开闸泄洪",
+      "onboard_time": 1714244051,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44379,
@@ -499,22 +515,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 38879,
-      "num": 38879,
-      "word": "方时赫",
-      "onboard_time": 1714245252,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 36110,
-      "num": 36110,
-      "word": "广东最大的水库开闸泄洪",
-      "onboard_time": 1714244051,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35335,
       "num": 35335,
       "word": "天津泡泡岛音乐节",
@@ -523,7 +523,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 32046,
+      "raw_hot": 33635,
       "num": 29100,
       "word": "邓超说蔡文静脑子好厉害",
       "onboard_time": 1714244771,

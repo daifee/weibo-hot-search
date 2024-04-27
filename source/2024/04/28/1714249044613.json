@@ -1,0 +1,410 @@
+{
+  "runTime": 1714249044613,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 119024,
+        "num": 119024,
+        "word": "广州龙卷风已致5死33伤",
+        "onboard_time": 1714233619,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99569,
+        "num": 99569,
+        "word": "杨晓明涉嫌严重违纪违法",
+        "onboard_time": 1714229960,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10617,
+        "num": 71446,
+        "word": "1088人拟获全国五一劳动奖章",
+        "onboard_time": 1714223659,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60837,
+        "num": 60837,
+        "word": "4个何炅",
+        "onboard_time": 1714227140,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50596,
+        "num": 50596,
+        "word": "方时赫",
+        "onboard_time": 1714245252,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41103,
+        "num": 41103,
+        "word": "彩票中了一等奖真实的兑奖情况",
+        "onboard_time": 1714206618,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39293,
+        "num": 39293,
+        "word": "郝蕾怒批赵晴",
+        "onboard_time": 1714231341,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38798,
+        "num": 38798,
+        "word": "王者荣耀",
+        "onboard_time": 1714228100,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13904,
+        "num": 34446,
+        "word": "这届医学生唱跳都这么专业嘛",
+        "onboard_time": 1714222760,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 32138,
+        "num": 32138,
+        "word": "不够善良的我们 世另我",
+        "onboard_time": 1714233799,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88711,
+        "num": 31792,
+        "word": "郑恺幸亏我和苗苗结婚了",
+        "onboard_time": 1714228160,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45016,
+        "num": 30924,
+        "word": "广东最大的水库开闸泄洪",
+        "onboard_time": 1714244051,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41776,
+        "num": 29327,
+        "word": "小叶 泽泽",
+        "onboard_time": 1714214357,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33635,
+        "num": 28053,
+        "word": "邓超说蔡文静脑子好厉害",
+        "onboard_time": 1714244771,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27991,
+        "num": 27991,
+        "word": "吴艳妮新动作",
+        "onboard_time": 1714223419,
+        "rank": 14,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 30794,
+        "num": 27979,
+        "word": "胡歌喊话金靖要做孩子舅舅",
+        "onboard_time": 1714220238,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30227,
+        "num": 27585,
+        "word": "不够善良的我们完结",
+        "onboard_time": 1714227559,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35670,
+        "num": 27342,
+        "word": "泽泽 被分手",
+        "onboard_time": 1714215678,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26743,
+        "num": 26743,
+        "word": "广州发布今年首个雷雨大风红色预警",
+        "onboard_time": 1714242013,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24963,
+        "num": 24963,
+        "word": "明日方舟五周年直播",
+        "onboard_time": 1714214476,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81021,
+        "num": 24831,
+        "word": "卖淫女接宾馆老板报信上天台躲避坠亡",
+        "onboard_time": 1714227859,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46817,
+        "num": 24551,
+        "word": "每天多睡1小时能有多大好处",
+        "onboard_time": 1714236316,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33032,
+        "num": 24375,
+        "word": "歌手2024 朴彩英",
+        "onboard_time": 1714207817,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30760,
+        "num": 24240,
+        "word": "广州司机致猫死亡事件疑反转",
+        "onboard_time": 1714240033,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26084,
+        "num": 24123,
+        "word": "眼泪女王",
+        "onboard_time": 1714220898,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23924,
+        "num": 23924,
+        "word": "真正要忌口少吃的蔬菜",
+        "onboard_time": 1714238953,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 23442,
+        "num": 23442,
+        "word": "中岛美嘉 音乐就是救命稻草",
+        "onboard_time": 1714241832,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22936,
+        "num": 22936,
+        "word": "微信撤回能不能别提示",
+        "onboard_time": 1714238894,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22661,
+        "num": 22661,
+        "word": "迪丽热巴未修原图",
+        "onboard_time": 1714222457,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22214,
+        "num": 22214,
+        "word": "原来踩着东西吃饭是气血不足",
+        "onboard_time": 1714225819,
+        "rank": 29,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 21836,
+        "num": 21836,
+        "word": "生理性喜欢和心理喜欢哪个重要",
+        "onboard_time": 1714220118,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21576,
+        "num": 21576,
+        "word": "苗苗一公舞台",
+        "onboard_time": 1714236316,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20659,
+        "num": 20659,
+        "word": "牛仔裤正在被抛弃吗",
+        "onboard_time": 1714226239,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 20431,
+        "num": 20431,
+        "word": "第一次出国发朋友圈被同事警告了",
+        "onboard_time": 1714207817,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20310,
+        "num": 20310,
+        "word": "中医提醒臀部是寒气最重的部位",
+        "onboard_time": 1714230560,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19895,
+        "num": 19895,
+        "word": "女子造谣3岁女儿遭猥亵被判赔6万",
+        "onboard_time": 1714223060,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19646,
+        "num": 19646,
+        "word": "李菲儿抢走了赵奕欢的一个搭档",
+        "onboard_time": 1714226900,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19254,
+        "num": 19254,
+        "word": "苗苗好甜",
+        "onboard_time": 1714218618,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19183,
+        "num": 19183,
+        "word": "陈丽君 实至名归",
+        "onboard_time": 1714221920,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18501,
+        "num": 18501,
+        "word": "春色寄情人 看得我尖叫",
+        "onboard_time": 1714224318,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18263,
+        "num": 18263,
+        "word": "麦当劳就侮辱性文字骂顾客一事致歉",
+        "onboard_time": 1714206978,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16947,
+        "num": 18262,
+        "word": "天津泡泡岛音乐节",
+        "onboard_time": 1714240693,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16678,
+        "num": 18244,
+        "word": "郭碧婷 淡人",
+        "onboard_time": 1714218378,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16391,
+        "num": 18227,
+        "word": "王锵 吻技生疏",
+        "onboard_time": 1714233018,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16250,
+        "num": 18218,
+        "word": "布林肯称限制芯片出口不等于阻碍中国发展",
+        "onboard_time": 1714227859,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 16118,
+        "num": 18204,
+        "word": "赵雷 最后一次巡演",
+        "onboard_time": 1714230440,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15057,
+        "num": 18202,
+        "word": "张栋梁郑合惠子落选",
+        "onboard_time": 1714230922,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14247,
+        "num": 18180,
+        "word": "Jennie去了seventeen演唱会",
+        "onboard_time": 1714222578,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13987,
+        "num": 18175,
+        "word": "广州天气",
+        "onboard_time": 1714230861,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13472,
+        "num": 18164,
+        "word": "明日方舟迷宫饭",
+        "onboard_time": 1714227199,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#途通山海阔开放创未来#"
+    }
+  }
+}
