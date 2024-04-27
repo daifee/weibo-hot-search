@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714245215011,
+  "endTime": 1714246447841,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -76803,6 +76803,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 38879,
+      "num": 38879,
+      "word": "方时赫",
+      "onboard_time": 1714245252,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38780,
       "num": 38780,
       "word": "皇上来大明湖也找不到夏雨荷",
@@ -77001,6 +77009,14 @@
       "onboard_time": 1712948352,
       "rank": 41,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 36110,
+      "num": 36110,
+      "word": "广东最大的水库开闸泄洪",
+      "onboard_time": 1714244051,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36105,
@@ -77283,6 +77299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 32046,
+      "num": 29100,
+      "word": "邓超说蔡文静脑子好厉害",
+      "onboard_time": 1714244771,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32040,
       "num": 199037,
       "word": "岚图携手华为全新纯电SUV剧透",
@@ -77473,14 +77497,6 @@
       "onboard_time": 1713069618,
       "rank": 41,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 28850,
-      "num": 28850,
-      "word": "广东最大的水库开闸泄洪",
-      "onboard_time": 1714244051,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28707,
@@ -77881,14 +77897,6 @@
       "onboard_time": 1713892752,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24659,
-      "num": 24659,
-      "word": "邓超说蔡文静脑子好厉害",
-      "onboard_time": 1714244771,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 24591,
