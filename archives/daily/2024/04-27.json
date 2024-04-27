@@ -1,7 +1,15 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714206858451,
+  "endTime": 1714209400105,
   "band_list": [
+    {
+      "raw_hot": 1567587,
+      "num": 1567587,
+      "word": "休一天",
+      "onboard_time": 1714206016,
+      "rank": 49,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1356945,
       "num": 1356945,
@@ -43,12 +51,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1176950,
+      "num": 1176950,
+      "word": "麦当劳就侮辱性文字骂顾客一事致歉",
+      "onboard_time": 1714206978,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1139246,
       "num": 659924,
       "word": "人刚死亡时还能听见声音吗",
       "onboard_time": 1714174815,
       "rank": 3,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1137963,
+      "num": 1137963,
+      "word": "彩票中了一等奖真实的兑奖情况",
+      "onboard_time": 1714206618,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1046270,
@@ -72,6 +96,14 @@
       "word": "郭碧婷组 三个在冷宫失了智的嫔妃",
       "onboard_time": 1714198336,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 966165,
+      "num": 966165,
+      "word": "歌手2024 朴彩英",
+      "onboard_time": 1714207817,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -171,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 725881,
+      "num": 725881,
+      "word": "广州龙卷风",
+      "onboard_time": 1714207338,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 723242,
       "num": 723242,
       "word": "小米高管否认雷军被李想锁车里",
@@ -257,6 +297,14 @@
       "onboard_time": 1714146018,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 566289,
+      "num": 209055,
+      "word": "第一次出国发朋友圈被同事警告了",
+      "onboard_time": 1714207817,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 559616,
@@ -443,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391628,
+      "num": 391628,
+      "word": "爸妈好像忘记我已经二十多岁了",
+      "onboard_time": 1714205898,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 388063,
       "num": 388063,
       "word": "欧文太强了",
@@ -571,6 +627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 346044,
+      "num": 346044,
+      "word": "迪丽热巴活动直播",
+      "onboard_time": 1714209138,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341254,
       "num": 341254,
       "word": "林更新 把你的恶心收一收",
@@ -665,6 +729,14 @@
       "onboard_time": 1714194498,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293364,
+      "num": 293364,
+      "word": "王一博英文口音",
+      "onboard_time": 1714207636,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 292117,
@@ -923,11 +995,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210549,
-      "num": 210549,
-      "word": "休一天",
-      "onboard_time": 1714206016,
-      "rank": 49,
+      "raw_hot": 210632,
+      "num": 210632,
+      "word": "广州多区发布龙卷风警报",
+      "onboard_time": 1714208359,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1107,14 +1179,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 191655,
-      "num": 180918,
-      "word": "彩票中了一等奖真实的兑奖情况",
-      "onboard_time": 1714206618,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 189655,
       "num": 189655,
       "word": "水龙吟一秒江湖视频",
@@ -1145,6 +1209,22 @@
       "onboard_time": 1714201037,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187693,
+      "num": 187693,
+      "word": "胡歌金靖新片演兄妹",
+      "onboard_time": 1714208838,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 187682,
+      "num": 187682,
+      "word": "增城",
+      "onboard_time": 1714209019,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185904,
@@ -1195,14 +1275,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 179524,
-      "num": 179524,
-      "word": "爸妈好像忘记我已经二十多岁了",
-      "onboard_time": 1714205898,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 177364,
       "num": 177364,
       "word": "2男子因被灯晃到眼殴打司机砍断报警人手筋",
@@ -1223,6 +1295,14 @@
       "num": 176528,
       "word": "灵活就业人员不强制缴纳社保",
       "onboard_time": 1714196537,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174291,
+      "num": 174291,
+      "word": "广州局地龙卷风天空闪过5道白光",
+      "onboard_time": 1714207696,
       "rank": 28,
       "category": "社会新闻"
     },
@@ -1283,6 +1363,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 163798,
+      "num": 173536,
+      "word": "清华大学成立人工智能学院",
+      "onboard_time": 1714208118,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 163047,
       "num": 163047,
       "word": "minji 镜头",
@@ -1331,12 +1419,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151868,
+      "num": 151868,
+      "word": "12306积分可买高铁外卖",
+      "onboard_time": 1714207158,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150308,
+      "num": 150308,
+      "word": "女子吐槽15元买一颗樱桃",
+      "onboard_time": 1714209138,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149602,
       "num": 149602,
       "word": "王者荣耀 开黑节",
       "onboard_time": 1714203137,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148954,
+      "num": 148954,
+      "word": "张子枫背带裙",
+      "onboard_time": 1714207396,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148204,
@@ -1444,7 +1556,7 @@
     },
     {
       "raw_hot": 139539,
-      "num": 131574,
+      "num": 132727,
       "word": "南方人害怕的台词出现了",
       "onboard_time": 1714202718,
       "rank": 44,
@@ -1473,6 +1585,14 @@
       "onboard_time": 1714204279,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137177,
+      "num": 137177,
+      "word": "一家3口共用一个警号",
+      "onboard_time": 1714207519,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137015,
@@ -1569,6 +1689,14 @@
       "onboard_time": 1714180578,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128778,
+      "num": 128778,
+      "word": "抗抑郁食物有哪些",
+      "onboard_time": 1714208657,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128618,
@@ -1673,6 +1801,14 @@
       "onboard_time": 1714177156,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116915,
+      "num": 116915,
+      "word": "何洁前几季都报名了浪姐",
+      "onboard_time": 1714209320,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 114902,
@@ -1915,6 +2051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91772,
+      "num": 1149479,
+      "word": "五一假期全国赏花地图",
+      "onboard_time": 1714205057,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91271,
       "num": 131337,
       "word": "疯狂躲吹风机的狗狗",
@@ -1977,14 +2121,6 @@
       "onboard_time": 1714143200,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 85502,
-      "num": 685537,
-      "word": "五一假期全国赏花地图",
-      "onboard_time": 1714205057,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82263,
@@ -2073,6 +2209,14 @@
       "onboard_time": 1714168812,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 51848,
+      "num": 210523,
+      "word": "和时代少年团的第一张合照",
+      "onboard_time": 1714206858,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 41346,

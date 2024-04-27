@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714206858451,
+  "endTime": 1714209400105,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1905,6 +1905,14 @@
       "onboard_time": 1713351138,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1567587,
+      "num": 1567587,
+      "word": "休一天",
+      "onboard_time": 1714206016,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1566683,
@@ -3907,6 +3915,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1176950,
+      "num": 1176950,
+      "word": "麦当劳就侮辱性文字骂顾客一事致歉",
+      "onboard_time": 1714206978,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1174516,
       "num": 1174516,
       "word": "王晰",
@@ -4184,6 +4200,14 @@
       "word": "字字不提钱句句都是钱",
       "onboard_time": 1712409199,
       "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1137963,
+      "num": 1137963,
+      "word": "彩票中了一等奖真实的兑奖情况",
+      "onboard_time": 1714206618,
+      "rank": 30,
       "category": "情感"
     },
     {
@@ -5865,6 +5889,14 @@
       "onboard_time": 1712151981,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 966165,
+      "num": 966165,
+      "word": "歌手2024 朴彩英",
+      "onboard_time": 1714207817,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 966041,
@@ -9673,6 +9705,14 @@
       "onboard_time": 1712142738,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 725881,
+      "num": 725881,
+      "word": "广州龙卷风",
+      "onboard_time": 1714207338,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 725833,
@@ -14105,6 +14145,14 @@
       "onboard_time": 1713314300,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 566289,
+      "num": 209055,
+      "word": "第一次出国发朋友圈被同事警告了",
+      "onboard_time": 1714207817,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 566126,
@@ -22395,6 +22443,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 391628,
+      "num": 391628,
+      "word": "爸妈好像忘记我已经二十多岁了",
+      "onboard_time": 1714205898,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 391618,
       "num": 391618,
       "word": "许美静团队回应演唱会太水争议",
@@ -25273,6 +25329,14 @@
       "onboard_time": 1711975940,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 346044,
+      "num": 346044,
+      "word": "迪丽热巴活动直播",
+      "onboard_time": 1714209138,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 345970,
@@ -29321,6 +29385,14 @@
       "onboard_time": 1713009919,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293364,
+      "num": 293364,
+      "word": "王一博英文口音",
+      "onboard_time": 1714207636,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 293343,
@@ -40403,6 +40475,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 210632,
+      "num": 210632,
+      "word": "广州多区发布龙卷风警报",
+      "onboard_time": 1714208359,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210585,
       "num": 210585,
       "word": "曾舜晞又去客串了",
@@ -40417,14 +40497,6 @@
       "onboard_time": 1713503479,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 210549,
-      "num": 210549,
-      "word": "休一天",
-      "onboard_time": 1714206016,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210534,
@@ -46619,14 +46691,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 191655,
-      "num": 180918,
-      "word": "彩票中了一等奖真实的兑奖情况",
-      "onboard_time": 1714206618,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 191646,
       "num": 131517,
       "word": "秦海璐让王安宇跟姐夫视频",
@@ -48211,12 +48275,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187693,
+      "num": 187693,
+      "word": "胡歌金靖新片演兄妹",
+      "onboard_time": 1714208838,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187683,
       "num": 214589,
       "word": "运动完脸红和脸白的人谁更健康",
       "onboard_time": 1714052657,
       "rank": 41,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 187682,
+      "num": 187682,
+      "word": "增城",
+      "onboard_time": 1714209019,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187608,
@@ -50731,14 +50811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179524,
-      "num": 179524,
-      "word": "爸妈好像忘记我已经二十多岁了",
-      "onboard_time": 1714205898,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 179413,
       "num": 173955,
       "word": "黄雅莉劝戚薇少把妹",
@@ -52185,6 +52257,14 @@
       "onboard_time": 1712906839,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 174291,
+      "num": 174291,
+      "word": "广州局地龙卷风天空闪过5道白光",
+      "onboard_time": 1714207696,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174284,
@@ -54969,6 +55049,14 @@
       "onboard_time": 1714114638,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163798,
+      "num": 173536,
+      "word": "清华大学成立人工智能学院",
+      "onboard_time": 1714208118,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 163797,
@@ -58611,6 +58699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151868,
+      "num": 151868,
+      "word": "12306积分可买高铁外卖",
+      "onboard_time": 1714207158,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151818,
       "num": 151818,
       "word": "蔡依林沈阳 抢票",
@@ -59179,6 +59275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150308,
+      "num": 150308,
+      "word": "女子吐槽15元买一颗樱桃",
+      "onboard_time": 1714209138,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150203,
       "num": 150203,
       "word": "崔永熙报名NBA选秀",
@@ -59633,6 +59737,14 @@
       "onboard_time": 1712910559,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148954,
+      "num": 148954,
+      "word": "张子枫背带裙",
+      "onboard_time": 1714207396,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148915,
@@ -62652,7 +62764,7 @@
     },
     {
       "raw_hot": 139539,
-      "num": 131574,
+      "num": 132727,
       "word": "南方人害怕的台词出现了",
       "onboard_time": 1714202718,
       "rank": 44,
@@ -63449,6 +63561,14 @@
       "onboard_time": 1712358133,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 137177,
+      "num": 137177,
+      "word": "一家3口共用一个警号",
+      "onboard_time": 1714207519,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137160,
@@ -65857,6 +65977,14 @@
       "onboard_time": 1714035020,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128778,
+      "num": 128778,
+      "word": "抗抑郁食物有哪些",
+      "onboard_time": 1714208657,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128743,
@@ -68689,6 +68817,14 @@
       "onboard_time": 1712062038,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 116915,
+      "num": 116915,
+      "word": "何洁前几季都报名了浪姐",
+      "onboard_time": 1714209320,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 116905,
@@ -72003,6 +72139,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 91772,
+      "num": 1149479,
+      "word": "五一假期全国赏花地图",
+      "onboard_time": 1714205057,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91665,
       "num": 317101,
       "word": "当脆皮年轻人被胃病盯上",
@@ -72449,14 +72593,6 @@
       "onboard_time": 1713805093,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 85502,
-      "num": 685537,
-      "word": "五一假期全国赏花地图",
-      "onboard_time": 1714205057,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85431,
@@ -74729,6 +74865,14 @@
       "onboard_time": 1712180591,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51848,
+      "num": 210523,
+      "word": "和时代少年团的第一张合照",
+      "onboard_time": 1714206858,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 51456,
