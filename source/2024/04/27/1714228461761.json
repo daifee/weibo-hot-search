@@ -1,0 +1,410 @@
+{
+  "runTime": 1714228461761,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1207167,
+        "num": 1207167,
+        "word": "迪丽热巴未修原图",
+        "onboard_time": 1714222457,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 855388,
+        "num": 855388,
+        "word": "吴艳妮新动作",
+        "onboard_time": 1714223419,
+        "rank": 1,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 8650,
+        "num": 785613,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782907,
+        "num": 782907,
+        "word": "眼泪女王",
+        "onboard_time": 1714220898,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 731022,
+        "num": 731022,
+        "word": "4个何炅",
+        "onboard_time": 1714227140,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 635730,
+        "num": 635730,
+        "word": "眼泪女王 秀彬出生了",
+        "onboard_time": 1714226661,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 586749,
+        "num": 586749,
+        "word": "胡歌喊话金靖要做孩子舅舅",
+        "onboard_time": 1714220238,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 579878,
+        "num": 579878,
+        "word": "彩票中了一等奖真实的兑奖情况",
+        "onboard_time": 1714206618,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 407017,
+        "num": 407017,
+        "word": "广州提醒雷击大风致灾风险极高",
+        "onboard_time": 1714223839,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104109,
+        "num": 406834,
+        "word": "这届医学生唱跳都这么专业嘛",
+        "onboard_time": 1714222760,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1279161,
+        "num": 406321,
+        "word": "郑恺幸亏我和苗苗结婚了",
+        "onboard_time": 1714228160,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 640074,
+        "num": 406164,
+        "word": "女子造谣3岁女儿遭猥亵被判赔6万",
+        "onboard_time": 1714223060,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550215,
+        "num": 405454,
+        "word": "春色寄情人 看得我尖叫",
+        "onboard_time": 1714224318,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509654,
+        "num": 405169,
+        "word": "李菲儿抢走了赵奕欢的一个搭档",
+        "onboard_time": 1714226900,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13105,
+        "num": 404738,
+        "word": "北影节舞台追忆已故电影人",
+        "onboard_time": 1714226481,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 421284,
+        "num": 404305,
+        "word": "吴镇宇爱上孙丞潇了",
+        "onboard_time": 1714225159,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404111,
+        "num": 404111,
+        "word": "麦当劳就侮辱性文字骂顾客一事致歉",
+        "onboard_time": 1714206978,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280355,
+        "num": 280355,
+        "word": "明日方舟迷宫饭",
+        "onboard_time": 1714227199,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251830,
+        "num": 251830,
+        "word": "王者荣耀",
+        "onboard_time": 1714228100,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236348,
+        "num": 236348,
+        "word": "樊振东分享霉霉歌曲",
+        "onboard_time": 1714225460,
+        "rank": 19,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 445609,
+        "num": 235993,
+        "word": "生理性喜欢和心理喜欢哪个重要",
+        "onboard_time": 1714220118,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 382507,
+        "num": 233539,
+        "word": "歌手2024 朴彩英",
+        "onboard_time": 1714207817,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374805,
+        "num": 231386,
+        "word": "原来踩着东西吃饭是气血不足",
+        "onboard_time": 1714225819,
+        "rank": 22,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 368996,
+        "num": 230238,
+        "word": "不够善良的我们完结",
+        "onboard_time": 1714227559,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330558,
+        "num": 229296,
+        "word": "休一天",
+        "onboard_time": 1714206016,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345400,
+        "num": 226417,
+        "word": "小叶 泽泽",
+        "onboard_time": 1714214357,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267860,
+        "num": 225372,
+        "word": "Jennie去了seventeen演唱会",
+        "onboard_time": 1714222578,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224456,
+        "num": 224456,
+        "word": "老人被养了四五年的狗撕咬",
+        "onboard_time": 1714213338,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219382,
+        "num": 219382,
+        "word": "男朋友送的22岁生日礼物",
+        "onboard_time": 1714227261,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199085,
+        "num": 219154,
+        "word": "第一次出国发朋友圈被同事警告了",
+        "onboard_time": 1714207817,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 484601,
+        "num": 218940,
+        "word": "卖淫女接宾馆老板报信上天台躲避坠亡",
+        "onboard_time": 1714227859,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251205,
+        "num": 218429,
+        "word": "泽泽 被分手",
+        "onboard_time": 1714215678,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243656,
+        "num": 218324,
+        "word": "苗苗好甜",
+        "onboard_time": 1714218618,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233070,
+        "num": 217809,
+        "word": "闵塔鲨晒迪丽热巴造型",
+        "onboard_time": 1714227981,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222209,
+        "num": 217525,
+        "word": "郭碧婷 淡人",
+        "onboard_time": 1714218378,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217387,
+        "num": 217387,
+        "word": "陈丽君 实至名归",
+        "onboard_time": 1714221920,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206361,
+        "num": 206361,
+        "word": "李秀满被判定追缴200亿税金",
+        "onboard_time": 1714227621,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183349,
+        "num": 183349,
+        "word": "广州龙卷风初判为3级强龙卷",
+        "onboard_time": 1714221738,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165819,
+        "num": 165819,
+        "word": "布林肯称限制芯片出口不等于阻碍中国发展",
+        "onboard_time": 1714227859,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 150401,
+        "num": 150401,
+        "word": "广州龙卷风",
+        "onboard_time": 1714207338,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180503,
+        "num": 150327,
+        "word": "拥抱演唱会泉州",
+        "onboard_time": 1714227199,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180378,
+        "num": 150296,
+        "word": "郭碧婷组 三个在冷宫失了智的嫔妃",
+        "onboard_time": 1714198336,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176041,
+        "num": 150261,
+        "word": "李现能不能全国巡亲",
+        "onboard_time": 1714224078,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150186,
+        "num": 150186,
+        "word": "上海申花绝杀被吹",
+        "onboard_time": 1714226780,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172783,
+        "num": 149939,
+        "word": "无限超越班",
+        "onboard_time": 1714228340,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147701,
+        "num": 147701,
+        "word": "现在年轻人久坐问题有多普遍",
+        "onboard_time": 1714228220,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170917,
+        "num": 147697,
+        "word": "金莎男友以演员身份亮相综艺",
+        "onboard_time": 1714226539,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147690,
+        "num": 147690,
+        "word": "明日方舟五周年直播",
+        "onboard_time": 1714214476,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145404,
+        "num": 145404,
+        "word": "我只喜欢你的人设",
+        "onboard_time": 1714216937,
+        "rank": 48,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 128928,
+        "num": 128928,
+        "word": "萨拉赫克洛普吵起来了",
+        "onboard_time": 1714226119,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国务卿布林肯#"
+    }
+  }
+}
