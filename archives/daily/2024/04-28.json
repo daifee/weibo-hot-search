@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714259876917,
+  "endTime": 1714260866771,
   "band_list": [
     {
       "raw_hot": 1259200,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 820288,
+      "num": 137600,
+      "word": "怀孕九个月去产检被老人要求让座",
+      "onboard_time": 1714259896,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 770544,
       "num": 770544,
       "word": "杨晓明涉嫌严重违纪违法",
@@ -51,12 +59,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 699919,
+      "num": 699919,
+      "word": "五一放假下雨4天是怎样的体验",
+      "onboard_time": 1714260315,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 536566,
       "num": 536566,
       "word": "迪丽热巴未修原图",
       "onboard_time": 1714222457,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497821,
+      "num": 137001,
+      "word": "每天多睡1小时能有多大好处",
+      "onboard_time": 1714236316,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 464998,
@@ -67,16 +91,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 464996,
-      "num": 91889,
-      "word": "每天多睡1小时能有多大好处",
-      "onboard_time": 1714236316,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 431455,
-      "num": 431455,
+      "raw_hot": 457555,
+      "num": 457555,
       "word": "牛仔裤正在被抛弃吗",
       "onboard_time": 1714226239,
       "rank": 49,
@@ -121,6 +137,14 @@
       "onboard_time": 1714207817,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305070,
+      "num": 103537,
+      "word": "台湾一警官长期性侵亲生女儿",
+      "onboard_time": 1714260315,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292690,
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 233067,
-      "num": 86658,
+      "num": 136399,
       "word": "外国游客3个月爆买1.75万亿日元",
       "onboard_time": 1714253951,
       "rank": 23,
@@ -235,6 +259,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187851,
+      "num": 187851,
+      "word": "广州龙卷风",
+      "onboard_time": 1714207338,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182943,
+      "num": 182943,
+      "word": "调休",
+      "onboard_time": 1714260737,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181817,
       "num": 157556,
       "word": "周也嗑到张子枫胡先煦了",
@@ -259,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173844,
+      "num": 173844,
+      "word": "刘嘉玲梁朝伟国外度假",
+      "onboard_time": 1714256532,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170317,
       "num": 170317,
       "word": "麦当劳就侮辱性文字骂顾客一事致歉",
@@ -267,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165817,
-      "num": 129308,
-      "word": "刘嘉玲梁朝伟国外度假",
-      "onboard_time": 1714256532,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 160713,
+      "num": 160713,
+      "word": "孟子义片场睡觉被围观",
+      "onboard_time": 1714260135,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 159717,
@@ -299,6 +347,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150008,
+      "num": 150008,
+      "word": "邓超说蔡文静脑子好厉害",
+      "onboard_time": 1714244771,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148389,
+      "num": 148389,
+      "word": "不够善良的我们",
+      "onboard_time": 1714259715,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148260,
       "num": 148260,
       "word": "Jennie去了seventeen演唱会",
@@ -323,8 +387,32 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139138,
+      "num": 100143,
+      "word": "日本奢侈品白菜价白菜变奢侈品",
+      "onboard_time": 1714260737,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 138128,
+      "num": 138128,
+      "word": "眼泪女王十五集结尾实时反响",
+      "onboard_time": 1714259954,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135550,
+      "num": 135550,
+      "word": "广州司机致猫死亡事件疑反转",
+      "onboard_time": 1714240033,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134744,
-      "num": 73603,
+      "num": 77494,
       "word": "微信撤回能不能别提示",
       "onboard_time": 1714238894,
       "rank": 23,
@@ -355,36 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124578,
-      "num": 124578,
-      "word": "广州龙卷风",
-      "onboard_time": 1714207338,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120043,
-      "num": 120043,
-      "word": "邓超说蔡文静脑子好厉害",
-      "onboard_time": 1714244771,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 119704,
-      "num": 108118,
-      "word": "苗苗一公舞台",
-      "onboard_time": 1714236316,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 119162,
-      "num": 84869,
+      "raw_hot": 121938,
+      "num": 121938,
       "word": "真正要忌口少吃的蔬菜",
       "onboard_time": 1714238953,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 121086,
+      "num": 121086,
+      "word": "苗苗一公舞台",
+      "onboard_time": 1714236316,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 114913,
@@ -417,14 +489,6 @@
       "onboard_time": 1714229060,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 101021,
-      "num": 84255,
-      "word": "广州司机致猫死亡事件疑反转",
-      "onboard_time": 1714240033,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99921,
@@ -483,6 +547,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 86861,
+      "num": 86861,
+      "word": "勒沃库森2比2斯图加特",
+      "onboard_time": 1714260435,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82142,
+      "num": 82142,
+      "word": "李大钊牺牲97年",
+      "onboard_time": 1714260496,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80778,
       "num": 80778,
       "word": "我只喜欢你的人设",
@@ -491,28 +571,20 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 68447,
-      "num": 68447,
-      "word": "不够善良的我们",
-      "onboard_time": 1714259715,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 68291,
-      "num": 68291,
-      "word": "年轻人想赚快钱不用不好意思",
-      "onboard_time": 1714252692,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 64986,
-      "num": 64986,
+      "raw_hot": 80005,
+      "num": 80005,
       "word": "第一次见这么肥美的大熊猫",
       "onboard_time": 1714246692,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73517,
+      "num": 73517,
+      "word": "年轻人想赚快钱不用不好意思",
+      "onboard_time": 1714252692,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 63504,
@@ -587,8 +659,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 30204,
-      "num": 474221,
+      "raw_hot": 37511,
+      "num": 672147,
       "word": "1088人拟获全国五一劳动奖章",
       "onboard_time": 1714223659,
       "rank": 2,
