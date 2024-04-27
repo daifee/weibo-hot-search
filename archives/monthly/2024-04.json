@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714234826477,
+  "endTime": 1714235673569,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3385,6 +3385,14 @@
       "onboard_time": 1712805918,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1259200,
+      "num": 1259200,
+      "word": "广州龙卷风已致5死33伤",
+      "onboard_time": 1714233619,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1256358,
@@ -14473,14 +14481,6 @@
       "onboard_time": 1713464051,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 563829,
-      "num": 563829,
-      "word": "广州龙卷风已致5死33伤",
-      "onboard_time": 1714233619,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 563682,
@@ -53083,6 +53083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174276,
+      "num": 149283,
+      "word": "不够善良的我们 世另我",
+      "onboard_time": 1714233799,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174256,
       "num": 174256,
       "word": "在摩尔庄园看到十五年前的留言",
@@ -60473,14 +60481,6 @@
       "onboard_time": 1713326058,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149283,
-      "num": 149283,
-      "word": "不够善良的我们 世另我",
-      "onboard_time": 1714233799,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 149280,
