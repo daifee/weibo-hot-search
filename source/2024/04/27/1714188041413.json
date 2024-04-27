@@ -1,0 +1,410 @@
+{
+  "runTime": 1714188041413,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 994037,
+        "num": 994037,
+        "word": "微信文件3小时内可撤回",
+        "onboard_time": 1714178897,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 624811,
+        "num": 624811,
+        "word": "水龙吟阵容官宣",
+        "onboard_time": 1714182736,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111031,
+        "num": 554210,
+        "word": "五一出游要密切关注天气情况",
+        "onboard_time": 1714186757,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780877,
+        "num": 553809,
+        "word": "人刚死亡时还能听见声音吗",
+        "onboard_time": 1714174815,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 531723,
+        "num": 531723,
+        "word": "佩洛西称美国抗议学生背后是俄罗斯",
+        "onboard_time": 1714178297,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 630460,
+        "num": 528687,
+        "word": "车银优扣子崩开了",
+        "onboard_time": 1714181237,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 453247,
+        "num": 453247,
+        "word": "韩雪快碎了",
+        "onboard_time": 1714175235,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403541,
+        "num": 403541,
+        "word": "芒果又押错宝了吗",
+        "onboard_time": 1714140920,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355391,
+        "num": 355391,
+        "word": "嫦娥六号5月初择机发射",
+        "onboard_time": 1714186036,
+        "rank": 8,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 100449,
+        "num": 352540,
+        "word": "接下来浙江人餐桌上的标配",
+        "onboard_time": 1714174935,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 931037,
+        "num": 352189,
+        "word": "林依晨 圣母婊由衷喜悦与感激",
+        "onboard_time": 1714186036,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490280,
+        "num": 352161,
+        "word": "林更新回复给他和赵丽颖求姻缘的网友",
+        "onboard_time": 1714174876,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351649,
+        "num": 351649,
+        "word": "英伟达市值一夜大涨9246亿",
+        "onboard_time": 1714185198,
+        "rank": 12,
+        "category": "财经,科学科普"
+      },
+      {
+        "raw_hot": 366776,
+        "num": 342923,
+        "word": "欧文太强了",
+        "onboard_time": 1714186996,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283100,
+        "num": 283100,
+        "word": "桃花坞4全员异地登录",
+        "onboard_time": 1714182497,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278562,
+        "num": 278562,
+        "word": "杨紫下一部剧是长相思第二季",
+        "onboard_time": 1714180937,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272904,
+        "num": 272904,
+        "word": "刘忻超短裙",
+        "onboard_time": 1714181656,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264601,
+        "num": 264601,
+        "word": "林允撑伞回眸",
+        "onboard_time": 1714185617,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246641,
+        "num": 246641,
+        "word": "大熊猫云川和鑫宝将赴美",
+        "onboard_time": 1714181477,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233157,
+        "num": 233157,
+        "word": "独行侠2比1快船",
+        "onboard_time": 1714188017,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321650,
+        "num": 232851,
+        "word": "误以为很增肥实际巨减脂的食物",
+        "onboard_time": 1714174336,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 234236,
+        "num": 231465,
+        "word": "赵丽颖演技",
+        "onboard_time": 1714178537,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229418,
+        "num": 229418,
+        "word": "发明邓超的人真是个天才",
+        "onboard_time": 1714157532,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224736,
+        "num": 224736,
+        "word": "快船心态崩了",
+        "onboard_time": 1714186757,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220181,
+        "num": 220181,
+        "word": "中国资产全面大涨",
+        "onboard_time": 1714186098,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 213489,
+        "num": 213489,
+        "word": "余华给女学生说结婚要找江浙男",
+        "onboard_time": 1714186636,
+        "rank": 25,
+        "category": "读书作家,社会新闻"
+      },
+      {
+        "raw_hot": 211433,
+        "num": 211433,
+        "word": "水龙吟和莲花楼是同一个作者",
+        "onboard_time": 1714187296,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209897,
+        "num": 209897,
+        "word": "饭饭解释与泽泽分手过程",
+        "onboard_time": 1714176016,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202279,
+        "num": 202279,
+        "word": "宝马将增加在华投资200亿",
+        "onboard_time": 1714186757,
+        "rank": 28,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 201885,
+        "num": 201885,
+        "word": "威少对喷球迷",
+        "onboard_time": 1714187118,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196497,
+        "num": 196497,
+        "word": "时代少年团四周年周边",
+        "onboard_time": 1714186996,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190055,
+        "num": 190055,
+        "word": "神十七乘组4月30日回地球",
+        "onboard_time": 1714183399,
+        "rank": 31,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 182501,
+        "num": 182501,
+        "word": "辅警杀害新婚妻子被判死缓",
+        "onboard_time": 1714141460,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177319,
+        "num": 177319,
+        "word": "小猫拿出了它认为最好的东西",
+        "onboard_time": 1714183217,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177146,
+        "num": 177146,
+        "word": "每周最多减重2斤最适宜",
+        "onboard_time": 1714184298,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 168298,
+        "num": 168298,
+        "word": "田馥甄回应参加天津音乐节",
+        "onboard_time": 1714149675,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163651,
+        "num": 163651,
+        "word": "姚晨闫妮困电梯里了",
+        "onboard_time": 1714175476,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148073,
+        "num": 148073,
+        "word": "日元",
+        "onboard_time": 1714175835,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144756,
+        "num": 144756,
+        "word": "金玟庭晒Jennie联名独角兽",
+        "onboard_time": 1714177876,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140808,
+        "num": 140808,
+        "word": "任嘉伦差点把墙拆了",
+        "onboard_time": 1714186996,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139100,
+        "num": 139100,
+        "word": "网友希望王婆把江西高彩礼打下来",
+        "onboard_time": 1714185436,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128260,
+        "num": 128260,
+        "word": "间谍过家家婚后告白",
+        "onboard_time": 1714186517,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126503,
+        "num": 126503,
+        "word": "明朝满分试卷长这样",
+        "onboard_time": 1714185436,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124931,
+        "num": 124931,
+        "word": "NewJeans回归",
+        "onboard_time": 1714175535,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124029,
+        "num": 124029,
+        "word": "为什么总是舍不得扔东西",
+        "onboard_time": 1714186878,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117736,
+        "num": 117736,
+        "word": "minji 镜头",
+        "onboard_time": 1714180157,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115062,
+        "num": 115062,
+        "word": "苹果或已停止升级Mac起步内存",
+        "onboard_time": 1714181777,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 110940,
+        "num": 110940,
+        "word": "雷军回应武大设置雷军班",
+        "onboard_time": 1714182617,
+        "rank": 47,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 104645,
+        "num": 104645,
+        "word": "张超牺牲8周年了",
+        "onboard_time": 1714181477,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98234,
+        "num": 98234,
+        "word": "illit总监ins发了海街日记",
+        "onboard_time": 1714182017,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见布林肯#"
+    }
+  }
+}
