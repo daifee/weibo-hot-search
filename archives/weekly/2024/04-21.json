@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714174481407,
+  "endTime": 1714180427042,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -995,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1112547,
+      "num": 659924,
+      "word": "人刚死亡时还能听见声音吗",
+      "onboard_time": 1714174815,
+      "rank": 3,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 1112023,
       "num": 1112023,
       "word": "日本年轻人开始流行友情婚",
@@ -1412,7 +1420,7 @@
     },
     {
       "raw_hot": 916824,
-      "num": 594237,
+      "num": 655035,
       "word": "辅警杀害新婚妻子被判死缓",
       "onboard_time": 1714141460,
       "rank": 24,
@@ -1481,6 +1489,14 @@
       "onboard_time": 1713838638,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 894440,
+      "num": 656454,
+      "word": "韩雪快碎了",
+      "onboard_time": 1714175235,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 887559,
@@ -2531,6 +2547,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 662607,
+      "num": 662607,
+      "word": "微信文件3小时内可撤回",
+      "onboard_time": 1714178897,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 660289,
       "num": 660289,
       "word": "NewJeans和父母全力支持闵熙珍",
@@ -2577,6 +2601,14 @@
       "onboard_time": 1713852979,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 653167,
+      "num": 653167,
+      "word": "日元",
+      "onboard_time": 1714175835,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 648699,
@@ -2912,6 +2944,14 @@
       "word": "黄仁俊 这就是我",
       "onboard_time": 1714056559,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 599991,
+      "num": 437485,
+      "word": "林更新回复给他和赵丽颖求姻缘的网友",
+      "onboard_time": 1714174876,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -3659,6 +3699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 511343,
+      "num": 511343,
+      "word": "纪委回应发改委干部被爆出轨女下属",
+      "onboard_time": 1714174635,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511121,
       "num": 511121,
       "word": "五月天鸟巢演唱会",
@@ -4299,6 +4347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 456145,
+      "num": 214947,
+      "word": "误以为很增肥实际巨减脂的食物",
+      "onboard_time": 1714174336,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 455209,
       "num": 455209,
       "word": "TF三代出道战即将官宣",
@@ -4785,6 +4841,14 @@
       "onboard_time": 1713790518,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420435,
+      "num": 420435,
+      "word": "工作三年和读研三年到底哪个更值",
+      "onboard_time": 1714150335,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 419755,
@@ -5715,6 +5779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346098,
+      "num": 286406,
+      "word": "赵丽颖演技",
+      "onboard_time": 1714178537,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 344946,
       "num": 344946,
       "word": "illit疑似抄袭straykids手势",
@@ -6347,6 +6419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305101,
+      "num": 305101,
+      "word": "姚晨闫妮困电梯里了",
+      "onboard_time": 1714175476,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 304998,
       "num": 304998,
       "word": "邓超 亚比囧囧囧",
@@ -6499,14 +6579,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 295521,
-      "num": 295521,
-      "word": "工作三年和读研三年到底哪个更值",
-      "onboard_time": 1714150335,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 295443,
       "num": 295443,
       "word": "辛芷蕾 差点打败周杰伦",
@@ -6585,6 +6657,14 @@
       "onboard_time": 1714027639,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292119,
+      "num": 292119,
+      "word": "饭饭解释与泽泽分手过程",
+      "onboard_time": 1714176016,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 291948,
@@ -9339,6 +9419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 209557,
+      "num": 209557,
+      "word": "赵雅芝发微博",
+      "onboard_time": 1714175415,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209476,
       "num": 209476,
       "word": "金靖",
@@ -9659,6 +9747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205486,
+      "num": 205486,
+      "word": "佩洛西称美国抗议学生背后是俄罗斯",
+      "onboard_time": 1714178297,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 205453,
       "num": 195748,
       "word": "ive新歌背景是葫芦娃救爷爷",
@@ -9897,6 +9993,14 @@
       "onboard_time": 1713699858,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 202762,
+      "num": 202762,
+      "word": "金玟庭晒Jennie联名独角兽",
+      "onboard_time": 1714177876,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 202708,
@@ -11227,6 +11331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189049,
+      "num": 189049,
+      "word": "华为重夺中国大陆智能手机市场第一",
+      "onboard_time": 1714177337,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 188820,
       "num": 188820,
       "word": "说服妈妈不让妹妹参加期中考试",
@@ -12131,6 +12243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177364,
+      "num": 177364,
+      "word": "2男子因被灯晃到眼殴打司机砍断报警人手筋",
+      "onboard_time": 1714175596,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177320,
       "num": 125883,
       "word": "为什么睡醒后总是疲惫",
@@ -12393,6 +12513,14 @@
       "onboard_time": 1713944117,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174157,
+      "num": 174157,
+      "word": "NewJeans回归",
+      "onboard_time": 1714175535,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 173924,
@@ -12921,6 +13049,14 @@
       "onboard_time": 1713799218,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165781,
+      "num": 165781,
+      "word": "这六大预兆可提示猝死",
+      "onboard_time": 1714175596,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 165587,
@@ -14539,6 +14675,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 145996,
+      "num": 145996,
+      "word": "唐家三少当选北京作协副主席",
+      "onboard_time": 1714177156,
+      "rank": 31,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 145950,
       "num": 145950,
       "word": "独行侠vs快船",
@@ -15251,6 +15395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137632,
+      "num": 137632,
+      "word": "米德尔顿那个男人回来了",
+      "onboard_time": 1714179857,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137586,
       "num": 137586,
       "word": "项羽战令新皮肤",
@@ -15297,6 +15449,14 @@
       "onboard_time": 1714141580,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137015,
+      "num": 137015,
+      "word": "全美20多所高校爆发反战示威",
+      "onboard_time": 1714177518,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 136984,
@@ -15497,6 +15657,14 @@
       "onboard_time": 1713693618,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134316,
+      "num": 134316,
+      "word": "步行者2比1雄鹿",
+      "onboard_time": 1714179857,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 134271,
@@ -15891,6 +16059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129674,
+      "num": 129674,
+      "word": "20岁和27岁的择偶标准颠倒了",
+      "onboard_time": 1714174635,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129568,
       "num": 129568,
       "word": "近期韩剧人的精神状态",
@@ -16275,6 +16451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125565,
+      "num": 123678,
+      "word": "胡歌辛芷蕾繁花售后",
+      "onboard_time": 1714177997,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125528,
       "num": 125528,
       "word": "aespa正规一辑armageddon",
@@ -16355,6 +16539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124316,
+      "num": 124316,
+      "word": "天蝎座 神秘感",
+      "onboard_time": 1714176375,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124144,
       "num": 124144,
       "word": "张艺兴玩鳄鱼玩具玩上瘾了",
@@ -16433,6 +16625,14 @@
       "onboard_time": 1713827775,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122890,
+      "num": 122890,
+      "word": "minji 镜头",
+      "onboard_time": 1714180157,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 122886,
@@ -16747,6 +16947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116996,
+      "num": 116996,
+      "word": "就这个王者荣耀爽",
+      "onboard_time": 1714177156,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116596,
       "num": 116596,
       "word": "赵文琪称美甲不满意可退款重做",
@@ -16921,6 +17129,14 @@
       "onboard_time": 1714012697,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 113330,
+      "num": 113330,
+      "word": "雷军称小米正在申请3万件专利",
+      "onboard_time": 1714180276,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 113246,
@@ -17195,6 +17411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107886,
+      "num": 107886,
+      "word": "快船vs独行侠",
+      "onboard_time": 1714179137,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107726,
       "num": 101080,
       "word": "金鹤龙发杨幂了",
@@ -17225,6 +17449,14 @@
       "onboard_time": 1713740954,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107215,
+      "num": 449032,
+      "word": "接下来浙江人餐桌上的标配",
+      "onboard_time": 1714174935,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 107182,
@@ -17313,6 +17545,14 @@
       "onboard_time": 1713725232,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104975,
+      "num": 104975,
+      "word": "Bubble Gum",
+      "onboard_time": 1714178957,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 104698,
@@ -17459,6 +17699,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 101325,
+      "num": 101325,
+      "word": "欢迎汤洪波唐胜杰江新林回家",
+      "onboard_time": 1714180337,
+      "rank": 48,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 101289,
       "num": 101289,
       "word": "金道英出道曲空降",
@@ -17497,6 +17745,14 @@
       "onboard_time": 1714174396,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100333,
+      "num": 100333,
+      "word": "环卫工人用电子秤测街边灰尘",
+      "onboard_time": 1714176976,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100033,
@@ -17633,14 +17889,6 @@
       "onboard_time": 1714120819,
       "rank": 16,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 92895,
-      "num": 84174,
-      "word": "误以为很增肥实际巨减脂的食物",
-      "onboard_time": 1714174336,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 92647,

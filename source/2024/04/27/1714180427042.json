@@ -1,0 +1,410 @@
+{
+  "runTime": 1714180427042,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 875356,
+        "num": 875356,
+        "word": "芒果又押错宝了吗",
+        "onboard_time": 1714140920,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 662607,
+        "num": 662607,
+        "word": "微信文件3小时内可撤回",
+        "onboard_time": 1714178897,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 4539,
+        "num": 660910,
+        "word": "全国网络普法行江苏站",
+        "onboard_time": 1714032319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1112547,
+        "num": 659924,
+        "word": "人刚死亡时还能听见声音吗",
+        "onboard_time": 1714174815,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 894440,
+        "num": 656454,
+        "word": "韩雪快碎了",
+        "onboard_time": 1714175235,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 714002,
+        "num": 655035,
+        "word": "辅警杀害新婚妻子被判死缓",
+        "onboard_time": 1714141460,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653167,
+        "num": 653167,
+        "word": "日元",
+        "onboard_time": 1714175835,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 519791,
+        "num": 519791,
+        "word": "没有编制教师岗还有吸引力吗",
+        "onboard_time": 1714168511,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511343,
+        "num": 511343,
+        "word": "纪委回应发改委干部被爆出轨女下属",
+        "onboard_time": 1714174635,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107215,
+        "num": 449032,
+        "word": "接下来浙江人餐桌上的标配",
+        "onboard_time": 1714174935,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 599991,
+        "num": 437485,
+        "word": "林更新回复给他和赵丽颖求姻缘的网友",
+        "onboard_time": 1714174876,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420435,
+        "num": 420435,
+        "word": "工作三年和读研三年到底哪个更值",
+        "onboard_time": 1714150335,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318005,
+        "num": 318005,
+        "word": "奔跑吧P安全带",
+        "onboard_time": 1714142000,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305101,
+        "num": 305101,
+        "word": "姚晨闫妮困电梯里了",
+        "onboard_time": 1714175476,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 292119,
+        "num": 292119,
+        "word": "饭饭解释与泽泽分手过程",
+        "onboard_time": 1714176016,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346098,
+        "num": 286406,
+        "word": "赵丽颖演技",
+        "onboard_time": 1714178537,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244888,
+        "num": 244888,
+        "word": "61岁老人接孙女放学掉进下水道被冲走",
+        "onboard_time": 1714141099,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226069,
+        "num": 226069,
+        "word": "发明邓超的人真是个天才",
+        "onboard_time": 1714157532,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224420,
+        "num": 224420,
+        "word": "28岁女子经常饥一顿饱一顿确诊胃癌",
+        "onboard_time": 1714137978,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216235,
+        "num": 216235,
+        "word": "抗癌东东去世",
+        "onboard_time": 1714145358,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456145,
+        "num": 214947,
+        "word": "误以为很增肥实际巨减脂的食物",
+        "onboard_time": 1714174336,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 291365,
+        "num": 214520,
+        "word": "田馥甄回应参加天津音乐节",
+        "onboard_time": 1714149675,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 281605,
+        "num": 214493,
+        "word": "女生晒八年级妹妹价值888元点阵笔",
+        "onboard_time": 1714153094,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209557,
+        "num": 209557,
+        "word": "赵雅芝发微博",
+        "onboard_time": 1714175415,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205486,
+        "num": 205486,
+        "word": "佩洛西称美国抗议学生背后是俄罗斯",
+        "onboard_time": 1714178297,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 202762,
+        "num": 202762,
+        "word": "金玟庭晒Jennie联名独角兽",
+        "onboard_time": 1714177876,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189049,
+        "num": 189049,
+        "word": "华为重夺中国大陆智能手机市场第一",
+        "onboard_time": 1714177337,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 177364,
+        "num": 177364,
+        "word": "2男子因被灯晃到眼殴打司机砍断报警人手筋",
+        "onboard_time": 1714175596,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174157,
+        "num": 174157,
+        "word": "NewJeans回归",
+        "onboard_time": 1714175535,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165781,
+        "num": 165781,
+        "word": "这六大预兆可提示猝死",
+        "onboard_time": 1714175596,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164836,
+        "num": 164836,
+        "word": "台湾花莲海域凌晨再发3次地震",
+        "onboard_time": 1714173315,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145996,
+        "num": 145996,
+        "word": "唐家三少当选北京作协副主席",
+        "onboard_time": 1714177156,
+        "rank": 31,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 137632,
+        "num": 137632,
+        "word": "米德尔顿那个男人回来了",
+        "onboard_time": 1714179857,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137015,
+        "num": 137015,
+        "word": "全美20多所高校爆发反战示威",
+        "onboard_time": 1714177518,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 135450,
+        "num": 135450,
+        "word": "辛芷蕾拿了白玉兰戏剧奖",
+        "onboard_time": 1714137499,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134316,
+        "num": 134316,
+        "word": "步行者2比1雄鹿",
+        "onboard_time": 1714179857,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129674,
+        "num": 129674,
+        "word": "20岁和27岁的择偶标准颠倒了",
+        "onboard_time": 1714174635,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124316,
+        "num": 124316,
+        "word": "天蝎座 神秘感",
+        "onboard_time": 1714176375,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123773,
+        "num": 123773,
+        "word": "陈昊宇陈丽君长得好像",
+        "onboard_time": 1714142959,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125565,
+        "num": 123678,
+        "word": "胡歌辛芷蕾繁花售后",
+        "onboard_time": 1714177997,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123490,
+        "num": 123490,
+        "word": "为什么睡醒后总是疲惫",
+        "onboard_time": 1714166590,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 122890,
+        "num": 122890,
+        "word": "minji 镜头",
+        "onboard_time": 1714180157,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121240,
+        "num": 121240,
+        "word": "刘琳演技 此处无声却震耳欲聋",
+        "onboard_time": 1714153992,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118986,
+        "num": 118986,
+        "word": "为什么超市里的蓝莓多是125克一盒",
+        "onboard_time": 1714136659,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116996,
+        "num": 116996,
+        "word": "就这个王者荣耀爽",
+        "onboard_time": 1714177156,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113330,
+        "num": 113330,
+        "word": "雷军称小米正在申请3万件专利",
+        "onboard_time": 1714180276,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 107886,
+        "num": 107886,
+        "word": "快船vs独行侠",
+        "onboard_time": 1714179137,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104975,
+        "num": 104975,
+        "word": "Bubble Gum",
+        "onboard_time": 1714178957,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101325,
+        "num": 101325,
+        "word": "欢迎汤洪波唐胜杰江新林回家",
+        "onboard_time": 1714180337,
+        "rank": 48,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 100333,
+        "num": 100333,
+        "word": "环卫工人用电子秤测街边灰尘",
+        "onboard_time": 1714176976,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见布林肯#"
+    }
+  }
+}

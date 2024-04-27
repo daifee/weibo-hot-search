@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/27 07:34:41
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/27 09:13:47
 </p>
 </blockquote>
 <p>
@@ -3249,6 +3249,12 @@ yamy 淘汰（热度：1126395）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%88%9A%E6%AD%BB%E4%BA%A1%E6%97%B6%E8%BF%98%E8%83%BD%E5%90%AC%E8%A7%81%E5%A3%B0%E9%9F%B3%E5%90%97%23" target="weibo">
+人刚死亡时还能听见声音吗（热度：1112547）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E5%B9%BF%E7%BD%91%E8%AF%84%E9%98%BF%E5%A7%A8%E5%90%90%E6%A7%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8D%A7%E9%93%BA%E6%8C%82%E5%B8%98%23" target="weibo">
 央广网评阿姨吐槽年轻人卧铺挂帘（热度：1112152）
 </a>
@@ -4995,6 +5001,12 @@ TES零封JDG（热度：901726）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E9%9B%AA%E5%BF%AB%E7%A2%8E%E4%BA%86%23" target="weibo">
+韩雪快碎了（热度：894440）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E4%BC%9A%E5%BC%80%E8%BD%A6%E5%90%8E%E6%84%9F%E8%A7%89%E4%B8%96%E7%95%8C%E8%A7%82%E5%8F%98%E4%BA%86%23" target="weibo">
 学会开车后感觉世界观变了（热度：893199）
 </a>
@@ -5999,18 +6011,6 @@ TFBOYS文案什么意思（热度：811913）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%A5%BD%E5%8F%AA%E4%B8%8A%E4%B8%89%E5%A4%A9%E5%B0%B1%E6%94%BE%E5%81%87%E4%BA%86%23" target="weibo">
 还好只上三天就放假了（热度：804827）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E9%A2%84%E8%AE%A119%E6%97%B646%E5%88%86%E6%8A%B5%E8%BE%BE%E6%88%90%E9%83%BD%23" target="weibo">
-福宝预计19时46分抵达成都（热度：804698）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E7%99%BE%E9%81%93%E4%B8%8A%E5%B8%82%E4%B8%80%E5%B0%8F%E6%97%B6%E8%B7%8C%E6%B2%A13%E5%B9%B4%E5%87%80%E5%88%A9%E6%B6%A6%23" target="weibo">
-茶百道上市一小时跌没3年净利润（热度：804598）
 </a>
 </li>
 
