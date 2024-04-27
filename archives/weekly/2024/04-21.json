@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714220989157,
+  "endTime": 1714221848999,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -2491,6 +2491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 701949,
+      "num": 368846,
+      "word": "泽泽 被分手",
+      "onboard_time": 1714215678,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 701597,
       "num": 273705,
       "word": "林更新认出了张子枫没认出黄磊",
@@ -2529,14 +2537,6 @@
       "onboard_time": 1713768137,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 696319,
-      "num": 368846,
-      "word": "泽泽 被分手",
-      "onboard_time": 1714215678,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 695696,
@@ -2985,6 +2985,14 @@
       "onboard_time": 1713868938,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 634376,
+      "num": 520132,
+      "word": "胡歌喊话金靖要做孩子舅舅",
+      "onboard_time": 1714220238,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 633007,
@@ -3473,6 +3481,14 @@
       "onboard_time": 1713749057,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 572862,
+      "num": 572862,
+      "word": "郭碧婷 淡人",
+      "onboard_time": 1714218378,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 572711,
@@ -4699,6 +4715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 460433,
+      "num": 324636,
+      "word": "生理性喜欢和心理喜欢哪个重要",
+      "onboard_time": 1714220118,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 459810,
       "num": 458443,
       "word": "卢昱晓单肩黑裙",
@@ -5419,14 +5443,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 409366,
-      "num": 409366,
-      "word": "郭碧婷 淡人",
-      "onboard_time": 1714218378,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 408467,
       "num": 408467,
       "word": "邓超谢谢不用了",
@@ -5851,14 +5867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380962,
-      "num": 380962,
-      "word": "胡歌喊话金靖要做孩子舅舅",
-      "onboard_time": 1714220238,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 379998,
       "num": 379998,
       "word": "二开",
@@ -5937,6 +5945,14 @@
       "onboard_time": 1714190657,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371613,
+      "num": 357939,
+      "word": "迪丽热巴金色长裙梦回乔晶晶",
+      "onboard_time": 1714216937,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 371111,
@@ -6073,14 +6089,6 @@
       "onboard_time": 1714090879,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 357939,
-      "num": 357939,
-      "word": "迪丽热巴金色长裙梦回乔晶晶",
-      "onboard_time": 1714216937,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 357501,
@@ -6883,14 +6891,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 312854,
-      "num": 312854,
-      "word": "生理性喜欢和心理喜欢哪个重要",
-      "onboard_time": 1714220118,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 312851,
       "num": 312851,
       "word": "睡不着就在床头放个橘子",
@@ -7089,6 +7089,14 @@
       "onboard_time": 1714124119,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 303907,
+      "num": 303907,
+      "word": "迪丽热巴直播出图",
+      "onboard_time": 1714220839,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 303675,
@@ -7427,14 +7435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 289759,
-      "num": 289759,
-      "word": "迪丽热巴直播出图",
-      "onboard_time": 1714220839,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 289202,
       "num": 289202,
       "word": "杨幂又缝裙子了",
@@ -7659,6 +7659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 281335,
+      "num": 281335,
+      "word": "要怎么和韩国人解释五一调休",
+      "onboard_time": 1714219461,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 281327,
       "num": 281327,
       "word": "因为要上班凌晨三点舍不得睡觉",
@@ -7817,14 +7825,6 @@
       "onboard_time": 1713854838,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 274230,
-      "num": 274230,
-      "word": "要怎么和韩国人解释五一调休",
-      "onboard_time": 1714219461,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 273953,
@@ -8193,6 +8193,14 @@
       "onboard_time": 1713859818,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261536,
+      "num": 261536,
+      "word": "华晨宇直播",
+      "onboard_time": 1714221259,
+      "rank": 26,
+      "category": "作品衍生,互联网"
     },
     {
       "raw_hot": 261487,
@@ -10163,6 +10171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214379,
+      "num": 214379,
+      "word": "如何恢复微信过期或已被清理文件",
+      "onboard_time": 1714218079,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 213928,
       "num": 235345,
       "word": "谷爱凌在飞机上赶作业",
@@ -10811,6 +10827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205049,
+      "num": 255570,
+      "word": "利物浦客场落后",
+      "onboard_time": 1714221498,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205039,
       "num": 205039,
       "word": "文俊辉 NPC",
@@ -11395,6 +11419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199244,
+      "num": 199244,
+      "word": "歌手2024",
+      "onboard_time": 1714220839,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199185,
       "num": 199185,
       "word": "赵奕欢谈浪姐私下关系",
@@ -11601,14 +11633,6 @@
       "onboard_time": 1713929118,
       "rank": 25,
       "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 196902,
-      "num": 196902,
-      "word": "如何恢复微信过期或已被清理文件",
-      "onboard_time": 1714218079,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 196893,
@@ -11993,6 +12017,14 @@
       "onboard_time": 1713711981,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193570,
+      "num": 193570,
+      "word": "微暗之火",
+      "onboard_time": 1714221559,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 193567,
@@ -13507,14 +13539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178123,
-      "num": 178123,
-      "word": "歌手2024",
-      "onboard_time": 1714220839,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177395,
       "num": 177395,
       "word": "这歌坛还是被张予曦误闯进去了",
@@ -14265,6 +14289,14 @@
       "onboard_time": 1713927017,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168705,
+      "num": 168705,
+      "word": "广州龙卷风初判为3级强龙卷",
+      "onboard_time": 1714221738,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168652,
@@ -16395,6 +16427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144073,
+      "num": 144073,
+      "word": "T1抵达成都",
+      "onboard_time": 1714218437,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143956,
       "num": 107551,
       "word": "已经开始替赵晴尴尬了",
@@ -17113,6 +17153,14 @@
       "onboard_time": 1713659356,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136823,
+      "num": 155332,
+      "word": "杨晓明被罢免",
+      "onboard_time": 1714220719,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136755,
@@ -18641,14 +18689,6 @@
       "onboard_time": 1714119139,
       "rank": 47,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 118851,
-      "num": 155332,
-      "word": "杨晓明被罢免",
-      "onboard_time": 1714220719,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118581,

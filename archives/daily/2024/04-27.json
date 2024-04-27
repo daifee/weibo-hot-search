@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714220989157,
+  "endTime": 1714221848999,
   "band_list": [
     {
       "raw_hot": 1807265,
@@ -267,20 +267,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 701949,
+      "num": 368846,
+      "word": "泽泽 被分手",
+      "onboard_time": 1714215678,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 699846,
       "num": 699846,
       "word": "水龙吟阵容官宣",
       "onboard_time": 1714182736,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 696319,
-      "num": 368846,
-      "word": "泽泽 被分手",
-      "onboard_time": 1714215678,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 680778,
@@ -347,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 634376,
+      "num": 520132,
+      "word": "胡歌喊话金靖要做孩子舅舅",
+      "onboard_time": 1714220238,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 630460,
       "num": 550697,
       "word": "车银优扣子崩开了",
@@ -393,6 +401,14 @@
       "onboard_time": 1714213157,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 572862,
+      "num": 572862,
+      "word": "郭碧婷 淡人",
+      "onboard_time": 1714218378,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 566961,
@@ -449,6 +465,14 @@
       "onboard_time": 1714174635,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502626,
+      "num": 502626,
+      "word": "眼泪女王",
+      "onboard_time": 1714220898,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 496052,
@@ -523,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 460433,
+      "num": 324636,
+      "word": "生理性喜欢和心理喜欢哪个重要",
+      "onboard_time": 1714220118,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 450423,
       "num": 309393,
       "word": "迪丽热巴蝎子辫",
@@ -584,14 +616,6 @@
       "word": "鹿晗被陈卓璇吓到了",
       "onboard_time": 1714190777,
       "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 409366,
-      "num": 409366,
-      "word": "郭碧婷 淡人",
-      "onboard_time": 1714218378,
-      "rank": 4,
       "category": "综艺"
     },
     {
@@ -659,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 380962,
-      "num": 380962,
-      "word": "胡歌喊话金靖要做孩子舅舅",
-      "onboard_time": 1714220238,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 376153,
       "num": 376153,
       "word": "范丞丞cue苗苗姐",
@@ -683,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371613,
+      "num": 357939,
+      "word": "迪丽热巴金色长裙梦回乔晶晶",
+      "onboard_time": 1714216937,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 370133,
       "num": 370133,
       "word": "周扬青随时随地大小练",
@@ -697,14 +721,6 @@
       "onboard_time": 1714134739,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 357939,
-      "num": 357939,
-      "word": "迪丽热巴金色长裙梦回乔晶晶",
-      "onboard_time": 1714216937,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 355456,
@@ -843,14 +859,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 312854,
-      "num": 312854,
-      "word": "生理性喜欢和心理喜欢哪个重要",
-      "onboard_time": 1714220118,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 310312,
       "num": 310312,
       "word": "神十七乘组4月30日回地球",
@@ -881,6 +889,14 @@
       "onboard_time": 1714175476,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 303907,
+      "num": 303907,
+      "word": "迪丽热巴直播出图",
+      "onboard_time": 1714220839,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 302225,
@@ -947,20 +963,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 289759,
-      "num": 289759,
-      "word": "迪丽热巴直播出图",
-      "onboard_time": 1714220839,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 287382,
       "num": 287382,
       "word": "林允撑伞回眸",
       "onboard_time": 1714185617,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281335,
+      "num": 281335,
+      "word": "要怎么和韩国人解释五一调休",
+      "onboard_time": 1714219461,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 280798,
@@ -987,14 +1003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 274230,
-      "num": 274230,
-      "word": "要怎么和韩国人解释五一调休",
-      "onboard_time": 1714219461,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 273079,
       "num": 273079,
       "word": "Jennie第一次cha",
@@ -1019,12 +1027,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 263777,
-      "num": 263777,
-      "word": "眼泪女王",
-      "onboard_time": 1714220898,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 261536,
+      "num": 261536,
+      "word": "华晨宇直播",
+      "onboard_time": 1714221259,
+      "rank": 26,
+      "category": "作品衍生,互联网"
     },
     {
       "raw_hot": 259800,
@@ -1275,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214379,
+      "num": 214379,
+      "word": "如何恢复微信过期或已被清理文件",
+      "onboard_time": 1714218079,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 213798,
       "num": 213798,
       "word": "王鹤棣守护詹姆斯",
@@ -1387,6 +1403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205049,
+      "num": 255570,
+      "word": "利物浦客场落后",
+      "onboard_time": 1714221498,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203796,
       "num": 139739,
       "word": "严浩翔空降时代少年团超话",
@@ -1435,6 +1459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199244,
+      "num": 199244,
+      "word": "歌手2024",
+      "onboard_time": 1714220839,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198776,
       "num": 198776,
       "word": "邓超陈赫鹿晗无惧鲱鱼罐头",
@@ -1475,14 +1507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 196902,
-      "num": 196902,
-      "word": "如何恢复微信过期或已被清理文件",
-      "onboard_time": 1714218079,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 196497,
       "num": 196497,
       "word": "时代少年团四周年周边",
@@ -1505,6 +1529,14 @@
       "onboard_time": 1714212438,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193570,
+      "num": 193570,
+      "word": "微暗之火",
+      "onboard_time": 1714221559,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 193128,
@@ -1675,14 +1707,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 178123,
-      "num": 178123,
-      "word": "歌手2024",
-      "onboard_time": 1714220839,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177364,
       "num": 177364,
       "word": "2男子因被灯晃到眼殴打司机砍断报警人手筋",
@@ -1793,6 +1817,14 @@
       "onboard_time": 1714211720,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168705,
+      "num": 168705,
+      "word": "广州龙卷风初判为3级强龙卷",
+      "onboard_time": 1714221738,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166393,
@@ -2011,6 +2043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144073,
+      "num": 144073,
+      "word": "T1抵达成都",
+      "onboard_time": 1714218437,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142547,
       "num": 142547,
       "word": "杨紫工作室发文告别麦承欢",
@@ -2121,6 +2161,14 @@
       "onboard_time": 1714217119,
       "rank": 8,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 136823,
+      "num": 155332,
+      "word": "杨晓明被罢免",
+      "onboard_time": 1714220719,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136755,
@@ -2321,14 +2369,6 @@
       "onboard_time": 1714180578,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 118851,
-      "num": 155332,
-      "word": "杨晓明被罢免",
-      "onboard_time": 1714220719,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118413,
