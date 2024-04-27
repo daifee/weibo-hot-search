@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714242062116,
+  "endTime": 1714242890519,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -65235,6 +65235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134744,
+      "num": 48313,
+      "word": "微信撤回能不能别提示",
+      "onboard_time": 1714238894,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 134727,
       "num": 134727,
       "word": "林少华建议少看日本文学",
@@ -71891,14 +71899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104167,
-      "num": 46571,
-      "word": "微信撤回能不能别提示",
-      "onboard_time": 1714238894,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 104148,
       "num": 104148,
       "word": "爱豆第N次跳自己的大热曲",
@@ -72473,6 +72473,14 @@
       "onboard_time": 1713825192,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 99438,
+      "num": 48300,
+      "word": "广州司机致猫死亡事件疑反转",
+      "onboard_time": 1714240033,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99430,
@@ -73569,14 +73577,6 @@
       "onboard_time": 1712010734,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86383,
-      "num": 46392,
-      "word": "广州司机致猫死亡事件疑反转",
-      "onboard_time": 1714240033,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86209,
@@ -74820,7 +74820,7 @@
     },
     {
       "raw_hot": 67456,
-      "num": 46724,
+      "num": 48293,
       "word": "真正要忌口少吃的蔬菜",
       "onboard_time": 1714238953,
       "rank": 47,
@@ -76211,6 +76211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48338,
+      "num": 48338,
+      "word": "广州发布今年首个雷雨大风红色预警",
+      "onboard_time": 1714242013,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48137,
       "num": 340124,
       "word": "豪华SUV为啥都标配四驱",
@@ -76571,6 +76579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41879,
+      "num": 41879,
+      "word": "中岛美嘉 音乐就是救命稻草",
+      "onboard_time": 1714241832,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 41753,
       "num": 412644,
       "word": "全国球迷为中国女篮加油",
@@ -76897,14 +76913,6 @@
       "onboard_time": 1713867438,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 37360,
-      "num": 37360,
-      "word": "中岛美嘉 音乐就是救命稻草",
-      "onboard_time": 1714241832,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 37341,
@@ -77483,14 +77491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28545,
-      "num": 34592,
-      "word": "广州发布今年首个雷雨大风红色预警",
-      "onboard_time": 1714242013,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28330,
       "num": 32323,
       "word": "工作简庆芬 生活Rebecca",
@@ -77521,6 +77521,14 @@
       "onboard_time": 1712597713,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27949,
+      "num": 30342,
+      "word": "maestro饭拍视频",
+      "onboard_time": 1714242732,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 27840,
