@@ -1,0 +1,410 @@
+{
+  "runTime": 1714199739576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1225649,
+        "num": 1225649,
+        "word": "火星哥 歌手2024",
+        "onboard_time": 1714197317,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1095696,
+        "num": 1095696,
+        "word": "鹿晗戒碳水很久了",
+        "onboard_time": 1714194378,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86429,
+        "num": 1070545,
+        "word": "五一出游要密切关注天气情况",
+        "onboard_time": 1714186757,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046270,
+        "num": 1046270,
+        "word": "孙俪嫁给了世界上最好笑的邓超",
+        "onboard_time": 1714195997,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 575524,
+        "num": 575524,
+        "word": "为什么外国人很少吃西瓜",
+        "onboard_time": 1714191377,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 489263,
+        "num": 489263,
+        "word": "小米高管否认雷军被李想锁车里",
+        "onboard_time": 1714192638,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 482605,
+        "num": 482605,
+        "word": "彭州地震",
+        "onboard_time": 1714197797,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375968,
+        "num": 375968,
+        "word": "童瑶未修原图",
+        "onboard_time": 1714189097,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315791,
+        "num": 315791,
+        "word": "爱奇艺公开排播",
+        "onboard_time": 1714192458,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168220,
+        "num": 315461,
+        "word": "河南夫妇收养的巴基斯坦孤儿长大了",
+        "onboard_time": 1714194679,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559616,
+        "num": 312836,
+        "word": "回到那一天演唱会",
+        "onboard_time": 1714191436,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 494061,
+        "num": 310459,
+        "word": "迪丽热巴 迪满楼",
+        "onboard_time": 1714197618,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333435,
+        "num": 308399,
+        "word": "舞蹈老师踩断学生腿只愿赔5万",
+        "onboard_time": 1714189336,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307786,
+        "num": 307786,
+        "word": "美国要求禁止日韩荷工程师为中企维修芯片制造设备",
+        "onboard_time": 1714198637,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 302225,
+        "num": 302225,
+        "word": "莎莎玛丽退赛",
+        "onboard_time": 1714197919,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297036,
+        "num": 297036,
+        "word": "哈啰顺风车疑中途换车致用户16只猫死亡",
+        "onboard_time": 1714197257,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294741,
+        "num": 294741,
+        "word": "苗苗猫爪舞慢动作",
+        "onboard_time": 1714194498,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263423,
+        "num": 263423,
+        "word": "林依晨 圣母婊由衷喜悦与感激",
+        "onboard_time": 1714186036,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256120,
+        "num": 256120,
+        "word": "微信文件3小时内可撤回",
+        "onboard_time": 1714178897,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 231057,
+        "num": 231057,
+        "word": "太阳 裁判",
+        "onboard_time": 1714195278,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 596999,
+        "num": 226082,
+        "word": "郭碧婷组 三个在冷宫失了智的嫔妃",
+        "onboard_time": 1714198336,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369045,
+        "num": 225948,
+        "word": "长期不吃主食的人后来怎样了",
+        "onboard_time": 1714188436,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 259189,
+        "num": 223632,
+        "word": "周扬青随时随地大小练",
+        "onboard_time": 1714192697,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214768,
+        "num": 214768,
+        "word": "人刚死亡时还能听见声音吗",
+        "onboard_time": 1714174815,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 194065,
+        "num": 210367,
+        "word": "詹姆斯杜兰特都要回家了",
+        "onboard_time": 1714197076,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254159,
+        "num": 210039,
+        "word": "狐妖月红篇 排播",
+        "onboard_time": 1714198336,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222579,
+        "num": 209853,
+        "word": "陈丽君组一公第一",
+        "onboard_time": 1714199477,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207468,
+        "num": 207468,
+        "word": "邓超谢谢不用了",
+        "onboard_time": 1714190777,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183873,
+        "num": 199636,
+        "word": "南昌一小区发生火灾致3死2伤",
+        "onboard_time": 1714198697,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50765,
+        "num": 199451,
+        "word": "佩洛西称美国抗议学生背后是俄罗斯",
+        "onboard_time": 1714178297,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 199377,
+        "num": 199377,
+        "word": "华晨宇新歌倒计时",
+        "onboard_time": 1714199418,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192157,
+        "num": 192157,
+        "word": "雪落下的声音舞台",
+        "onboard_time": 1714198518,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185813,
+        "num": 185813,
+        "word": "SANA开球",
+        "onboard_time": 1714199477,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182269,
+        "num": 182269,
+        "word": "张予曦 我给大师上了一课吧",
+        "onboard_time": 1714199297,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176528,
+        "num": 176528,
+        "word": "灵活就业人员不强制缴纳社保",
+        "onboard_time": 1714196537,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175580,
+        "num": 175580,
+        "word": "时代少年团 二开吗",
+        "onboard_time": 1714197497,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174547,
+        "num": 174547,
+        "word": "小米汽车48小时收到5000多份简历",
+        "onboard_time": 1714193958,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 146207,
+        "num": 146207,
+        "word": "半截身子卷入扶梯女子腿已保住",
+        "onboard_time": 1714198577,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144286,
+        "num": 144286,
+        "word": "真让她养到黑猫警长了",
+        "onboard_time": 1714199418,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139977,
+        "num": 139977,
+        "word": "长春3人指使烈性犬咬死流浪猫被抓",
+        "onboard_time": 1714192037,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168158,
+        "num": 139309,
+        "word": "以为张予曦参加维密了",
+        "onboard_time": 1714189877,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160179,
+        "num": 138962,
+        "word": "林更新回复给他和赵丽颖求姻缘的网友",
+        "onboard_time": 1714174876,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148826,
+        "num": 137764,
+        "word": "找到朱丹吃张颂文醋的原因了",
+        "onboard_time": 1714191017,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147584,
+        "num": 136605,
+        "word": "jisoo卡地亚活动",
+        "onboard_time": 1714198817,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136109,
+        "num": 136109,
+        "word": "迪丽热巴一面镜子七套造型",
+        "onboard_time": 1714188796,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142480,
+        "num": 135679,
+        "word": "张予曦惊艳",
+        "onboard_time": 1714196297,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130976,
+        "num": 130976,
+        "word": "发现有邻居家的猫来喝水",
+        "onboard_time": 1714199418,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126701,
+        "num": 126701,
+        "word": "车银优扣子崩开了",
+        "onboard_time": 1714181237,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122232,
+        "num": 122232,
+        "word": "余华回应微信头像",
+        "onboard_time": 1714188556,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 122139,
+        "num": 122139,
+        "word": "Ning谈TheShy除三害",
+        "onboard_time": 1714195878,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国务卿布林肯#"
+    }
+  }
+}
