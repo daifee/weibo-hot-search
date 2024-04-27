@@ -1,0 +1,410 @@
+{
+  "runTime": 1714206858451,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1199144,
+        "num": 1199144,
+        "word": "鹿晗关晓彤连口头禅都一样",
+        "onboard_time": 1714203617,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 734877,
+        "num": 734877,
+        "word": "歌手2024名单",
+        "onboard_time": 1714203557,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85502,
+        "num": 685537,
+        "word": "五一假期全国赏花地图",
+        "onboard_time": 1714205057,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665760,
+        "num": 665760,
+        "word": "高圆圆好薄一片",
+        "onboard_time": 1714201277,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 645341,
+        "num": 645341,
+        "word": "广州冰雹",
+        "onboard_time": 1714204458,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617061,
+        "num": 617061,
+        "word": "鹿晗戒碳水很久了",
+        "onboard_time": 1714194378,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322376,
+        "num": 322376,
+        "word": "哈啰顺风车疑中途换车致用户16只猫死亡",
+        "onboard_time": 1714197257,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601324,
+        "num": 271892,
+        "word": "孙俪嫁给了世界上最好笑的邓超",
+        "onboard_time": 1714195997,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210549,
+        "num": 210549,
+        "word": "休一天",
+        "onboard_time": 1714206016,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133869,
+        "num": 210427,
+        "word": "河南夫妇收养的巴基斯坦孤儿长大了",
+        "onboard_time": 1714194679,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530591,
+        "num": 209508,
+        "word": "郭碧婷组 三个在冷宫失了智的嫔妃",
+        "onboard_time": 1714198336,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421572,
+        "num": 208543,
+        "word": "奔跑吧 凯源",
+        "onboard_time": 1714200257,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345842,
+        "num": 207283,
+        "word": "为什么外国人很少吃西瓜",
+        "onboard_time": 1714191377,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 331347,
+        "num": 205997,
+        "word": "造谣赵雅芝去世博主道歉",
+        "onboard_time": 1714199837,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35037,
+        "num": 204818,
+        "word": "淘宝逛逛提醒你猫晚来了",
+        "onboard_time": 1714204817,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 327022,
+        "num": 204080,
+        "word": "半截身子卷入扶梯女子腿已保住",
+        "onboard_time": 1714198577,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317786,
+        "num": 203638,
+        "word": "火星哥 歌手2024",
+        "onboard_time": 1714197317,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297765,
+        "num": 202549,
+        "word": "迪丽热巴蝎子辫",
+        "onboard_time": 1714201217,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249066,
+        "num": 201151,
+        "word": "煮肘新作文",
+        "onboard_time": 1714203256,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200919,
+        "num": 200919,
+        "word": "南昌一小区发生火灾致3死2伤",
+        "onboard_time": 1714198697,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37955,
+        "num": 200814,
+        "word": "蔚来ET7试驾挤满豪华车主",
+        "onboard_time": 1714202538,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 351448,
+        "num": 200721,
+        "word": "经常跑步的人身体会发生什么变化",
+        "onboard_time": 1714199418,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 286123,
+        "num": 200623,
+        "word": "长期不吃主食的人后来怎样了",
+        "onboard_time": 1714188436,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 237567,
+        "num": 200409,
+        "word": "陈丽君组一公第一",
+        "onboard_time": 1714199477,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205746,
+        "num": 200331,
+        "word": "纷玩岛 回流票",
+        "onboard_time": 1714200498,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200235,
+        "num": 200235,
+        "word": "minji 缪斯",
+        "onboard_time": 1714204518,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195520,
+        "num": 195520,
+        "word": "童瑶未修原图",
+        "onboard_time": 1714189097,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187736,
+        "num": 187736,
+        "word": "鬼怪ost中文版",
+        "onboard_time": 1714202958,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183048,
+        "num": 183048,
+        "word": "江苏南通一男子烧烤店门口殴打女子",
+        "onboard_time": 1714202238,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80788,
+        "num": 180920,
+        "word": "古有小儿辩日今有稚子问核",
+        "onboard_time": 1714204037,
+        "rank": 29,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 191655,
+        "num": 180918,
+        "word": "彩票中了一等奖真实的兑奖情况",
+        "onboard_time": 1714206618,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180894,
+        "num": 180894,
+        "word": "迪丽热巴 迪满楼",
+        "onboard_time": 1714197618,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179524,
+        "num": 179524,
+        "word": "爸妈好像忘记我已经二十多岁了",
+        "onboard_time": 1714205898,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178857,
+        "num": 178857,
+        "word": "舞蹈老师踩断学生腿只愿赔5万",
+        "onboard_time": 1714189336,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168939,
+        "num": 168939,
+        "word": "国色芳华播出时间",
+        "onboard_time": 1714205417,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165398,
+        "num": 165398,
+        "word": "戚薇又换了个狗狗包包",
+        "onboard_time": 1714202118,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163407,
+        "num": 163407,
+        "word": "回到那一天 抢票",
+        "onboard_time": 1714203857,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158967,
+        "num": 158967,
+        "word": "减肥主食有3个黄金等级",
+        "onboard_time": 1714201037,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152012,
+        "num": 152012,
+        "word": "靳梦佳给了郭碧婷一道光",
+        "onboard_time": 1714202477,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141552,
+        "num": 141552,
+        "word": "小米高管否认雷军被李想锁车里",
+        "onboard_time": 1714192638,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142997,
+        "num": 139154,
+        "word": "鹿晗说万妮达太真实了",
+        "onboard_time": 1714202597,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136287,
+        "num": 136287,
+        "word": "刘忻2PM合作舞台",
+        "onboard_time": 1714204279,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131173,
+        "num": 131173,
+        "word": "南方人害怕的台词出现了",
+        "onboard_time": 1714202718,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126101,
+        "num": 126101,
+        "word": "KSG零封DRG",
+        "onboard_time": 1714205298,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125535,
+        "num": 125535,
+        "word": "狐妖月红篇 排播",
+        "onboard_time": 1714198336,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117156,
+        "num": 117156,
+        "word": "王者荣耀 开黑节",
+        "onboard_time": 1714203137,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108009,
+        "num": 108009,
+        "word": "回到那一天演唱会",
+        "onboard_time": 1714191436,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105507,
+        "num": 105507,
+        "word": "小米汽车48小时收到5000多份简历",
+        "onboard_time": 1714193958,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 102685,
+        "num": 102685,
+        "word": "彭州地震",
+        "onboard_time": 1714197797,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93942,
+        "num": 93942,
+        "word": "詹姆斯杜兰特都要回家了",
+        "onboard_time": 1714197076,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见布林肯#"
+    }
+  }
+}

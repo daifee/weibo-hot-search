@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714206105997,
+  "endTime": 1714206858451,
   "band_list": [
     {
       "raw_hot": 1356945,
@@ -35,20 +35,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1199144,
+      "num": 1199144,
+      "word": "鹿晗关晓彤连口头禅都一样",
+      "onboard_time": 1714203617,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1139246,
       "num": 659924,
       "word": "人刚死亡时还能听见声音吗",
       "onboard_time": 1714174815,
       "rank": 3,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1113939,
-      "num": 1113939,
-      "word": "鹿晗关晓彤连口头禅都一样",
-      "onboard_time": 1714203617,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1046270,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 734877,
+      "num": 734877,
+      "word": "歌手2024名单",
+      "onboard_time": 1714203557,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 734835,
       "num": 734835,
       "word": "奔跑吧 凯源",
@@ -195,20 +203,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 658487,
-      "num": 658487,
-      "word": "歌手2024名单",
-      "onboard_time": 1714203557,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 653167,
       "num": 653167,
       "word": "日元",
       "onboard_time": 1714175835,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 645341,
+      "num": 645341,
+      "word": "广州冰雹",
+      "onboard_time": 1714204458,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 630460,
@@ -305,14 +313,6 @@
       "onboard_time": 1714197618,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 490464,
-      "num": 612586,
-      "word": "广州冰雹",
-      "onboard_time": 1714204458,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 488876,
@@ -555,6 +555,14 @@
       "category": "财经,科学科普"
     },
     {
+      "raw_hot": 351448,
+      "num": 297898,
+      "word": "经常跑步的人身体会发生什么变化",
+      "onboard_time": 1714199418,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 351034,
       "num": 436406,
       "word": "中国资产全面大涨",
@@ -579,20 +587,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327022,
+      "num": 311777,
+      "word": "半截身子卷入扶梯女子腿已保住",
+      "onboard_time": 1714198577,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321204,
       "num": 321204,
       "word": "美国去死宣传册疯传美高校",
       "onboard_time": 1714135938,
       "rank": 15,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 311777,
-      "num": 311777,
-      "word": "半截身子卷入扶梯女子腿已保住",
-      "onboard_time": 1714198577,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310312,
@@ -641,14 +649,6 @@
       "onboard_time": 1714198336,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 297898,
-      "num": 297898,
-      "word": "经常跑步的人身体会发生什么变化",
-      "onboard_time": 1714199418,
-      "rank": 46,
-      "category": "运动健身"
     },
     {
       "raw_hot": 295225,
@@ -771,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249066,
+      "num": 299731,
+      "word": "煮肘新作文",
+      "onboard_time": 1714203256,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248940,
       "num": 248940,
       "word": "为什么超市里的蓝莓多是125克一盒",
@@ -785,14 +793,6 @@
       "onboard_time": 1714188318,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 238760,
-      "num": 299731,
-      "word": "煮肘新作文",
-      "onboard_time": 1714203256,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233157,
@@ -921,6 +921,14 @@
       "onboard_time": 1714187296,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210549,
+      "num": 210549,
+      "word": "休一天",
+      "onboard_time": 1714206016,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209557,
@@ -1099,6 +1107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191655,
+      "num": 180918,
+      "word": "彩票中了一等奖真实的兑奖情况",
+      "onboard_time": 1714206618,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189655,
       "num": 189655,
       "word": "水龙吟一秒江湖视频",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1714197497,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 179524,
+      "num": 179524,
+      "word": "爸妈好像忘记我已经二十多岁了",
+      "onboard_time": 1714205898,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 177364,
@@ -1337,14 +1361,6 @@
       "onboard_time": 1714196297,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147526,
-      "num": 147526,
-      "word": "爸妈好像忘记我已经二十多岁了",
-      "onboard_time": 1714205898,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 146954,
@@ -1803,14 +1819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101342,
-      "num": 101342,
-      "word": "休一天",
-      "onboard_time": 1714206016,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100336,
       "num": 100336,
       "word": "日常见肖战",
@@ -1971,6 +1979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85502,
+      "num": 685537,
+      "word": "五一假期全国赏花地图",
+      "onboard_time": 1714205057,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82263,
       "num": 82263,
       "word": "睡不着就吃天然的褪黑素",
@@ -2017,14 +2033,6 @@
       "onboard_time": 1714172954,
       "rank": 38,
       "category": "数码,互联网"
-    },
-    {
-      "raw_hot": 62790,
-      "num": 660465,
-      "word": "五一假期全国赏花地图",
-      "onboard_time": 1714205057,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62489,
@@ -2075,6 +2083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 37955,
+      "num": 297912,
+      "word": "蔚来ET7试驾挤满豪华车主",
+      "onboard_time": 1714202538,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 37029,
       "num": 84451,
       "word": "普京称计划5月访华",
@@ -2083,12 +2099,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 36343,
-      "num": 297912,
-      "word": "蔚来ET7试驾挤满豪华车主",
-      "onboard_time": 1714202538,
-      "rank": 28,
-      "category": "汽车"
+      "raw_hot": 35037,
+      "num": 309509,
+      "word": "淘宝逛逛提醒你猫晚来了",
+      "onboard_time": 1714204817,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 32729,
@@ -2113,14 +2129,6 @@
       "onboard_time": 1714157172,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 27579,
-      "num": 309509,
-      "word": "淘宝逛逛提醒你猫晚来了",
-      "onboard_time": 1714204817,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 27412,

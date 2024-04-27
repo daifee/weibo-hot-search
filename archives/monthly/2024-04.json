@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714206105997,
+  "endTime": 1714206858451,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3795,6 +3795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1199144,
+      "num": 1199144,
+      "word": "鹿晗关晓彤连口头禅都一样",
+      "onboard_time": 1714203617,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1196209,
       "num": 1196209,
       "word": "公务员部分岗位年龄调整到40周岁",
@@ -4345,14 +4353,6 @@
       "onboard_time": 1712978416,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1113939,
-      "num": 1113939,
-      "word": "鹿晗关晓彤连口头禅都一样",
-      "onboard_time": 1714203617,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1112152,
@@ -9435,6 +9435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 734877,
+      "num": 734877,
+      "word": "歌手2024名单",
+      "onboard_time": 1714203557,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 734839,
       "num": 734839,
       "word": "肖战小括号",
@@ -11331,14 +11339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 658487,
-      "num": 658487,
-      "word": "歌手2024名单",
-      "onboard_time": 1714203557,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 657616,
       "num": 657616,
       "word": "身体不好别去留学",
@@ -11633,6 +11633,14 @@
       "onboard_time": 1712926637,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 645341,
+      "num": 645341,
+      "word": "广州冰雹",
+      "onboard_time": 1712371397,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 644720,
@@ -17169,14 +17177,6 @@
       "onboard_time": 1714138818,
       "rank": 6,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 490464,
-      "num": 612586,
-      "word": "广州冰雹",
-      "onboard_time": 1712371397,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 489644,
@@ -24875,6 +24875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 351448,
+      "num": 297898,
+      "word": "经常跑步的人身体会发生什么变化",
+      "onboard_time": 1714199418,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 351358,
       "num": 351358,
       "word": "山西省考 出不出",
@@ -26547,6 +26555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 327022,
+      "num": 311777,
+      "word": "半截身子卷入扶梯女子腿已保住",
+      "onboard_time": 1714198577,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327009,
       "num": 294572,
       "word": "张新成 我们还是不要散了",
@@ -27681,14 +27697,6 @@
       "onboard_time": 1712117363,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311777,
-      "num": 311777,
-      "word": "半截身子卷入扶梯女子腿已保住",
-      "onboard_time": 1714198577,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311747,
@@ -28977,14 +28985,6 @@
       "onboard_time": 1712212639,
       "rank": 31,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 297898,
-      "num": 297898,
-      "word": "经常跑步的人身体会发生什么变化",
-      "onboard_time": 1714199418,
-      "rank": 46,
-      "category": "运动健身"
     },
     {
       "raw_hot": 297809,
@@ -34195,6 +34195,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 249066,
+      "num": 299731,
+      "word": "煮肘新作文",
+      "onboard_time": 1714203256,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249047,
       "num": 532692,
       "word": "00后帅哥送锦旗民警看了差点没绷住",
@@ -35681,14 +35689,6 @@
       "onboard_time": 1712533576,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238760,
-      "num": 299731,
-      "word": "煮肘新作文",
-      "onboard_time": 1714203256,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238714,
@@ -40417,6 +40417,14 @@
       "onboard_time": 1713503479,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210549,
+      "num": 210549,
+      "word": "休一天",
+      "onboard_time": 1714206016,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210534,
@@ -46611,6 +46619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 191655,
+      "num": 180918,
+      "word": "彩票中了一等奖真实的兑奖情况",
+      "onboard_time": 1714206618,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191646,
       "num": 131517,
       "word": "秦海璐让王安宇跟姐夫视频",
@@ -50713,6 +50729,14 @@
       "onboard_time": 1713789799,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179524,
+      "num": 179524,
+      "word": "爸妈好像忘记我已经二十多岁了",
+      "onboard_time": 1714205898,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 179413,
@@ -60121,14 +60145,6 @@
       "onboard_time": 1712323999,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147526,
-      "num": 147526,
-      "word": "爸妈好像忘记我已经二十多岁了",
-      "onboard_time": 1714205898,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 147521,
@@ -71035,14 +71051,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 101342,
-      "num": 101342,
-      "word": "休一天",
-      "onboard_time": 1714206016,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101289,
       "num": 101289,
       "word": "金道英出道曲空降",
@@ -72441,6 +72449,14 @@
       "onboard_time": 1713805093,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85502,
+      "num": 685537,
+      "word": "五一假期全国赏花地图",
+      "onboard_time": 1714205057,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85431,
@@ -73857,14 +73873,6 @@
       "onboard_time": 1712267110,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 62790,
-      "num": 660465,
-      "word": "五一假期全国赏花地图",
-      "onboard_time": 1714205057,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62561,
@@ -75563,6 +75571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37955,
+      "num": 297912,
+      "word": "蔚来ET7试驾挤满豪华车主",
+      "onboard_time": 1714202538,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 37860,
       "num": 1088068,
       "word": "在高原感受别样的春日浪漫",
@@ -75683,14 +75699,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 36343,
-      "num": 297912,
-      "word": "蔚来ET7试驾挤满豪华车主",
-      "onboard_time": 1714202538,
-      "rank": 28,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 36288,
       "num": 36288,
       "word": "终于知道杜鹃为啥又叫映山红了",
@@ -75769,6 +75777,14 @@
       "onboard_time": 1713408378,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 35037,
+      "num": 309509,
+      "word": "淘宝逛逛提醒你猫晚来了",
+      "onboard_time": 1714204817,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 34975,
@@ -76241,14 +76257,6 @@
       "onboard_time": 1713330020,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 27579,
-      "num": 309509,
-      "word": "淘宝逛逛提醒你猫晚来了",
-      "onboard_time": 1714204817,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 27541,

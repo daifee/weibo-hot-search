@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714206105997,
+  "endTime": 1714206858451,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -859,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1199144,
+      "num": 1199144,
+      "word": "鹿晗关晓彤连口头禅都一样",
+      "onboard_time": 1714203617,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1190385,
       "num": 1190385,
       "word": "欧豪撩赵昭仪",
@@ -1025,14 +1033,6 @@
       "onboard_time": 1713787639,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1113939,
-      "num": 1113939,
-      "word": "鹿晗关晓彤连口头禅都一样",
-      "onboard_time": 1714203617,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1112023,
@@ -2179,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 734877,
+      "num": 734877,
+      "word": "歌手2024名单",
+      "onboard_time": 1714203557,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 734835,
       "num": 734835,
       "word": "奔跑吧 凯源",
@@ -2723,14 +2731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 658487,
-      "num": 658487,
-      "word": "歌手2024名单",
-      "onboard_time": 1714203557,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 657290,
       "num": 657290,
       "word": "babymonster悄悄惊艳所有人",
@@ -2761,6 +2761,14 @@
       "onboard_time": 1713760219,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 645341,
+      "num": 645341,
+      "word": "广州冰雹",
+      "onboard_time": 1714204458,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 643776,
@@ -4121,14 +4129,6 @@
       "onboard_time": 1714138818,
       "rank": 6,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 490464,
-      "num": 612586,
-      "word": "广州冰雹",
-      "onboard_time": 1714204458,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 489644,
@@ -6051,6 +6051,14 @@
       "category": "财经,科学科普"
     },
     {
+      "raw_hot": 351448,
+      "num": 297898,
+      "word": "经常跑步的人身体会发生什么变化",
+      "onboard_time": 1714199418,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 351289,
       "num": 311600,
       "word": "上海一骑行活动赫本含量严重超标",
@@ -6459,6 +6467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 327022,
+      "num": 311777,
+      "word": "半截身子卷入扶梯女子腿已保住",
+      "onboard_time": 1714198577,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326974,
       "num": 326974,
       "word": "易烊千玺起诉餐饮公司侵权",
@@ -6633,14 +6649,6 @@
       "onboard_time": 1714033278,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 311777,
-      "num": 311777,
-      "word": "半截身子卷入扶梯女子腿已保住",
-      "onboard_time": 1714198577,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311747,
@@ -6969,14 +6977,6 @@
       "onboard_time": 1714198336,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 297898,
-      "num": 297898,
-      "word": "经常跑步的人身体会发生什么变化",
-      "onboard_time": 1714199418,
-      "rank": 46,
-      "category": "运动健身"
     },
     {
       "raw_hot": 296189,
@@ -8291,6 +8291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249066,
+      "num": 299731,
+      "word": "煮肘新作文",
+      "onboard_time": 1714203256,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248450,
       "num": 248450,
       "word": "HYBE市值蒸发8400亿韩元",
@@ -8649,14 +8657,6 @@
       "onboard_time": 1713759499,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 238760,
-      "num": 299731,
-      "word": "煮肘新作文",
-      "onboard_time": 1714203256,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238714,
@@ -9921,6 +9921,14 @@
       "onboard_time": 1713676758,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210549,
+      "num": 210549,
+      "word": "休一天",
+      "onboard_time": 1714206016,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210483,
@@ -11723,6 +11731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191655,
+      "num": 180918,
+      "word": "彩票中了一等奖真实的兑奖情况",
+      "onboard_time": 1714206618,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191646,
       "num": 131517,
       "word": "秦海璐让王安宇跟姐夫视频",
@@ -12929,6 +12945,14 @@
       "onboard_time": 1713789799,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179524,
+      "num": 179524,
+      "word": "爸妈好像忘记我已经二十多岁了",
+      "onboard_time": 1714205898,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 179379,
@@ -15425,14 +15449,6 @@
       "onboard_time": 1714196297,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147526,
-      "num": 147526,
-      "word": "爸妈好像忘记我已经二十多岁了",
-      "onboard_time": 1714205898,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 147521,
@@ -18835,14 +18851,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 101342,
-      "num": 101342,
-      "word": "休一天",
-      "onboard_time": 1714206016,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101289,
       "num": 101289,
       "word": "金道英出道曲空降",
@@ -19195,6 +19203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85502,
+      "num": 685537,
+      "word": "五一假期全国赏花地图",
+      "onboard_time": 1714205057,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85431,
       "num": 121536,
       "word": "OPPO K12发布会",
@@ -19545,14 +19561,6 @@
       "onboard_time": 1713901451,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 62790,
-      "num": 660465,
-      "word": "五一假期全国赏花地图",
-      "onboard_time": 1714205057,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62094,
@@ -20091,6 +20099,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 37955,
+      "num": 297912,
+      "word": "蔚来ET7试驾挤满豪华车主",
+      "onboard_time": 1714202538,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 37464,
       "num": 332875,
       "word": "赛那独宠中国车主官降2.5万",
@@ -20131,14 +20147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36343,
-      "num": 297912,
-      "word": "蔚来ET7试驾挤满豪华车主",
-      "onboard_time": 1714202538,
-      "rank": 28,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 35568,
       "num": 46813,
       "word": "内蒙古开鲁县干部为何下田拦春耕",
@@ -20153,6 +20161,14 @@
       "onboard_time": 1714100777,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35037,
+      "num": 309509,
+      "word": "淘宝逛逛提醒你猫晚来了",
+      "onboard_time": 1714204817,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 34958,
@@ -20313,14 +20329,6 @@
       "onboard_time": 1713639913,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27579,
-      "num": 309509,
-      "word": "淘宝逛逛提醒你猫晚来了",
-      "onboard_time": 1714204817,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 27412,
