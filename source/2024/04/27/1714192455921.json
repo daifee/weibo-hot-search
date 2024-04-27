@@ -1,0 +1,410 @@
+{
+  "runTime": 1714192455921,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 788550,
+        "num": 788550,
+        "word": "微信文件3小时内可撤回",
+        "onboard_time": 1714178897,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 703274,
+        "num": 703274,
+        "word": "童瑶未修原图",
+        "onboard_time": 1714189097,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101790,
+        "num": 485202,
+        "word": "五一出游要密切关注天气情况",
+        "onboard_time": 1714186757,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 897645,
+        "num": 480578,
+        "word": "余华回应微信头像",
+        "onboard_time": 1714188556,
+        "rank": 3,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 465991,
+        "num": 465991,
+        "word": "人刚死亡时还能听见声音吗",
+        "onboard_time": 1714174815,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 460912,
+        "num": 460912,
+        "word": "车银优扣子崩开了",
+        "onboard_time": 1714181237,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 412765,
+        "num": 412765,
+        "word": "找到朱丹吃张颂文醋的原因了",
+        "onboard_time": 1714191017,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298737,
+        "num": 410604,
+        "word": "中国资产全面大涨",
+        "onboard_time": 1714186098,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 265107,
+        "num": 404526,
+        "word": "编者按",
+        "onboard_time": 1714190657,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 74708,
+        "num": 399129,
+        "word": "接下来浙江人餐桌上的标配",
+        "onboard_time": 1714174935,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 848439,
+        "num": 395474,
+        "word": "林依晨 圣母婊由衷喜悦与感激",
+        "onboard_time": 1714186036,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686173,
+        "num": 391771,
+        "word": "舞蹈老师踩断学生腿只愿赔5万",
+        "onboard_time": 1714189336,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453351,
+        "num": 383928,
+        "word": "迪丽热巴一面镜子七套造型",
+        "onboard_time": 1714188796,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 381608,
+        "num": 381608,
+        "word": "以为张予曦参加维密了",
+        "onboard_time": 1714189877,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372469,
+        "num": 372469,
+        "word": "水龙吟阵容官宣",
+        "onboard_time": 1714182736,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99935,
+        "num": 372265,
+        "word": "马凡舒自称小米SU7颜粉",
+        "onboard_time": 1714190718,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 372063,
+        "num": 372063,
+        "word": "真维斯 王一博",
+        "onboard_time": 1714190657,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343706,
+        "num": 343706,
+        "word": "范丞丞cue苗苗姐",
+        "onboard_time": 1714190477,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320012,
+        "num": 320012,
+        "word": "为什么外国人很少吃西瓜",
+        "onboard_time": 1714191377,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 218787,
+        "num": 306160,
+        "word": "英伟达市值一夜大涨9246亿",
+        "onboard_time": 1714185198,
+        "rank": 19,
+        "category": "财经,科学科普"
+      },
+      {
+        "raw_hot": 800872,
+        "num": 305446,
+        "word": "长期不吃主食的人后来怎样了",
+        "onboard_time": 1714188436,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 400288,
+        "num": 305437,
+        "word": "鹿晗被陈卓璇吓到了",
+        "onboard_time": 1714190777,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303591,
+        "num": 303591,
+        "word": "邓超谢谢不用了",
+        "onboard_time": 1714190777,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294626,
+        "num": 294626,
+        "word": "芒果又押错宝了吗",
+        "onboard_time": 1714140920,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194996,
+        "num": 194996,
+        "word": "欧文太强了",
+        "onboard_time": 1714186996,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270403,
+        "num": 181823,
+        "word": "林更新回复给他和赵丽颖求姻缘的网友",
+        "onboard_time": 1714174876,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254696,
+        "num": 178624,
+        "word": "IVE念经曲",
+        "onboard_time": 1714188137,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221763,
+        "num": 172573,
+        "word": "NATURE宣布解散",
+        "onboard_time": 1714192276,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165172,
+        "num": 165172,
+        "word": "佩洛西称美国抗议学生背后是俄罗斯",
+        "onboard_time": 1714178297,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 161432,
+        "num": 161432,
+        "word": "误以为很增肥实际巨减脂的食物",
+        "onboard_time": 1714174336,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 214152,
+        "num": 160437,
+        "word": "韩雪快碎了",
+        "onboard_time": 1714175235,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201736,
+        "num": 157489,
+        "word": "林允撑伞回眸",
+        "onboard_time": 1714185617,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195185,
+        "num": 153785,
+        "word": "回到那一天演唱会",
+        "onboard_time": 1714191436,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176749,
+        "num": 151588,
+        "word": "刘忻超短裙",
+        "onboard_time": 1714181656,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149100,
+        "num": 149100,
+        "word": "有一瞬间觉得基因真的很不公平",
+        "onboard_time": 1714190358,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143297,
+        "num": 148718,
+        "word": "minji 镜头",
+        "onboard_time": 1714180157,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144481,
+        "num": 144481,
+        "word": "长春一小区内深夜斗狗猎杀猫咪",
+        "onboard_time": 1714191197,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139821,
+        "num": 139821,
+        "word": "余华给女学生说结婚要找江浙男",
+        "onboard_time": 1714186636,
+        "rank": 37,
+        "category": "读书作家,社会新闻"
+      },
+      {
+        "raw_hot": 135911,
+        "num": 135911,
+        "word": "长春3人指使烈性犬咬死流浪猫被抓",
+        "onboard_time": 1714192037,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262336,
+        "num": 135047,
+        "word": "迪丽热巴上海活动",
+        "onboard_time": 1714188857,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167395,
+        "num": 133216,
+        "word": "赵丽颖演技",
+        "onboard_time": 1714178537,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157646,
+        "num": 131203,
+        "word": "水龙吟和莲花楼是同一个作者",
+        "onboard_time": 1714187296,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148808,
+        "num": 130335,
+        "word": "罗云熙成都演唱会门票秒没",
+        "onboard_time": 1714191017,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129219,
+        "num": 129219,
+        "word": "你好星期六全员找旅游搭子",
+        "onboard_time": 1714189158,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126474,
+        "num": 126474,
+        "word": "杨紫下一部剧是长相思第二季",
+        "onboard_time": 1714180937,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118848,
+        "num": 118848,
+        "word": "哥大理事会通过决议批评管理层阻止学生抗议",
+        "onboard_time": 1714190899,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 114007,
+        "num": 114007,
+        "word": "快船心态崩了",
+        "onboard_time": 1714186757,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107097,
+        "num": 113915,
+        "word": "小猫拿出了它认为最好的东西",
+        "onboard_time": 1714183217,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94955,
+        "num": 113783,
+        "word": "哈登发挥",
+        "onboard_time": 1714189457,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93460,
+        "num": 113589,
+        "word": "森林狼vs太阳",
+        "onboard_time": 1714191919,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国务卿布林肯#"
+    }
+  }
+}

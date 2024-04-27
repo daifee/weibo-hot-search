@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714191620391,
+  "endTime": 1714192455921,
   "band_list": [
     {
       "raw_hot": 1356945,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 897645,
+      "num": 493872,
+      "word": "余华回应微信头像",
+      "onboard_time": 1714188556,
+      "rank": 31,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 894440,
       "num": 656454,
       "word": "韩雪快碎了",
@@ -43,12 +51,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 869492,
-      "num": 493872,
-      "word": "余华回应微信头像",
-      "onboard_time": 1714188556,
-      "rank": 31,
-      "category": "读书作家"
+      "raw_hot": 800872,
+      "num": 305446,
+      "word": "长期不吃主食的人后来怎样了",
+      "onboard_time": 1714188436,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 760235,
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 703274,
+      "num": 703274,
+      "word": "童瑶未修原图",
+      "onboard_time": 1714189097,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 699846,
       "num": 699846,
       "word": "水龙吟阵容官宣",
@@ -83,20 +99,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 686173,
+      "num": 391771,
+      "word": "舞蹈老师踩断学生腿只愿赔5万",
+      "onboard_time": 1714189336,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653167,
       "num": 653167,
       "word": "日元",
       "onboard_time": 1714175835,
       "rank": 6,
       "category": "财经"
-    },
-    {
-      "raw_hot": 633916,
-      "num": 210405,
-      "word": "长期不吃主食的人后来怎样了",
-      "onboard_time": 1714188436,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 630460,
@@ -115,28 +131,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 626332,
-      "num": 626332,
-      "word": "童瑶未修原图",
-      "onboard_time": 1714189097,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 599991,
       "num": 463802,
       "word": "林更新回复给他和赵丽颖求姻缘的网友",
       "onboard_time": 1714174876,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 570873,
-      "num": 391120,
-      "word": "舞蹈老师踩断学生腿只愿赔5万",
-      "onboard_time": 1714189336,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 566961,
@@ -243,12 +243,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 412765,
+      "num": 412765,
+      "word": "找到朱丹吃张颂文醋的原因了",
+      "onboard_time": 1714191017,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402153,
       "num": 366862,
       "word": "韩国N号房事件再现",
       "onboard_time": 1714128618,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400288,
+      "num": 305437,
+      "word": "鹿晗被陈卓璇吓到了",
+      "onboard_time": 1714190777,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 391993,
@@ -267,8 +283,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 380060,
-      "num": 380060,
+      "raw_hot": 381608,
+      "num": 381608,
       "word": "以为张予曦参加维密了",
       "onboard_time": 1714189877,
       "rank": 13,
@@ -281,6 +297,14 @@
       "onboard_time": 1714190477,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 372063,
+      "num": 372063,
+      "word": "真维斯 王一博",
+      "onboard_time": 1714190657,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 365490,
@@ -363,6 +387,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 320012,
+      "num": 320012,
+      "word": "为什么外国人很少吃西瓜",
+      "onboard_time": 1714191377,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 310312,
       "num": 310312,
       "word": "神十七乘组4月30日回地球",
@@ -385,6 +417,14 @@
       "onboard_time": 1714175476,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 303591,
+      "num": 303591,
+      "word": "邓超谢谢不用了",
+      "onboard_time": 1714190777,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 301746,
@@ -419,14 +459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 282708,
-      "num": 209918,
-      "word": "鹿晗被陈卓璇吓到了",
-      "onboard_time": 1714190777,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 280798,
       "num": 280798,
       "word": "发明邓超的人真是个天才",
@@ -443,14 +475,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 279236,
-      "num": 205732,
-      "word": "找到朱丹吃张颂文醋的原因了",
-      "onboard_time": 1714191017,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 273079,
       "num": 273079,
       "word": "Jennie第一次cha",
@@ -459,20 +483,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 271652,
-      "num": 204161,
-      "word": "真维斯 王一博",
+      "raw_hot": 265107,
+      "num": 404526,
+      "word": "编者按",
       "onboard_time": 1714190657,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 259543,
-      "num": 202014,
-      "word": "邓超谢谢不用了",
-      "onboard_time": 1714190777,
-      "rank": 27,
-      "category": "综艺"
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 256785,
@@ -489,6 +505,14 @@
       "onboard_time": 1714130119,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254696,
+      "num": 194184,
+      "word": "IVE念经曲",
+      "onboard_time": 1714188137,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 252305,
@@ -513,14 +537,6 @@
       "onboard_time": 1714188318,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 240219,
-      "num": 194184,
-      "word": "IVE念经曲",
-      "onboard_time": 1714188137,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 233157,
@@ -553,6 +569,14 @@
       "onboard_time": 1714145118,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 221763,
+      "num": 172573,
+      "word": "NATURE宣布解散",
+      "onboard_time": 1714192276,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 214683,
@@ -601,14 +625,6 @@
       "onboard_time": 1714187296,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211033,
-      "num": 211033,
-      "word": "编者按",
-      "onboard_time": 1714190657,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 209557,
@@ -673,6 +689,14 @@
       "onboard_time": 1714186996,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195185,
+      "num": 153785,
+      "word": "回到那一天演唱会",
+      "onboard_time": 1714191436,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 195161,
@@ -819,14 +843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152034,
-      "num": 152034,
-      "word": "回到那一天演唱会",
-      "onboard_time": 1714191436,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 147696,
       "num": 147696,
       "word": "你好星期六全员找旅游搭子",
@@ -859,6 +875,14 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 144481,
+      "num": 177930,
+      "word": "长春一小区内深夜斗狗猎杀猫咪",
+      "onboard_time": 1714191197,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142547,
       "num": 142547,
       "word": "杨紫工作室发文告别麦承欢",
@@ -883,14 +907,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 139602,
-      "num": 186441,
-      "word": "为什么外国人很少吃西瓜",
-      "onboard_time": 1714191377,
-      "rank": 34,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 137829,
       "num": 137829,
       "word": "护考",
@@ -913,6 +929,14 @@
       "onboard_time": 1714177518,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 135911,
+      "num": 135911,
+      "word": "长春3人指使烈性犬咬死流浪猫被抓",
+      "onboard_time": 1714192037,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134316,
@@ -953,14 +977,6 @@
       "onboard_time": 1714174635,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 129381,
-      "num": 177930,
-      "word": "长春一小区内深夜斗狗猎杀猫咪",
-      "onboard_time": 1714191197,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129376,
@@ -1012,7 +1028,7 @@
     },
     {
       "raw_hot": 126374,
-      "num": 207033,
+      "num": 372265,
       "word": "马凡舒自称小米SU7颜粉",
       "onboard_time": 1714190718,
       "rank": 24,
@@ -1257,6 +1273,14 @@
       "onboard_time": 1714141460,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93460,
+      "num": 113589,
+      "word": "森林狼vs太阳",
+      "onboard_time": 1714191919,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 92833,
