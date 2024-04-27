@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714209400105,
+  "endTime": 1714210456114,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -347,6 +347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1807265,
+      "num": 1807265,
+      "word": "休一天",
+      "onboard_time": 1714206016,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1743796,
       "num": 1743796,
       "word": "英国首相将中国列为威权主义国家",
@@ -427,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1567587,
-      "num": 1567587,
-      "word": "休一天",
-      "onboard_time": 1714206016,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1543089,
       "num": 1543089,
       "word": "高君雨全网账号被禁",
@@ -472,6 +472,14 @@
       "word": "5月份工资可以提前发",
       "onboard_time": 1713663738,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1524032,
+      "num": 1524032,
+      "word": "麦当劳就侮辱性文字骂顾客一事致歉",
+      "onboard_time": 1714206978,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -899,12 +907,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1176950,
-      "num": 1176950,
-      "word": "麦当劳就侮辱性文字骂顾客一事致歉",
-      "onboard_time": 1714206978,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 1178051,
+      "num": 1178051,
+      "word": "彩票中了一等奖真实的兑奖情况",
+      "onboard_time": 1714206618,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1165831,
@@ -985,14 +993,6 @@
       "onboard_time": 1714174815,
       "rank": 3,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1137963,
-      "num": 1137963,
-      "word": "彩票中了一等奖真实的兑奖情况",
-      "onboard_time": 1714206618,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 1136448,
@@ -1137,6 +1137,14 @@
       "onboard_time": 1714121959,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1062369,
+      "num": 1062369,
+      "word": "歌手2024 朴彩英",
+      "onboard_time": 1714207817,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1051177,
@@ -1360,14 +1368,6 @@
       "word": "郭碧婷组 三个在冷宫失了智的嫔妃",
       "onboard_time": 1714198336,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 966165,
-      "num": 966165,
-      "word": "歌手2024 朴彩英",
-      "onboard_time": 1714207817,
-      "rank": 4,
       "category": "综艺"
     },
     {
@@ -2939,6 +2939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628022,
+      "num": 452641,
+      "word": "迪丽热巴活动直播",
+      "onboard_time": 1714209138,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 627573,
       "num": 627573,
       "word": "林志颖林俊杰吴彦祖昆凌齐聚上海F1",
@@ -3299,6 +3307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 583883,
+      "num": 239504,
+      "word": "第一次出国发朋友圈被同事警告了",
+      "onboard_time": 1714207817,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 581826,
       "num": 581826,
       "word": "石凯销量",
@@ -3457,14 +3473,6 @@
       "onboard_time": 1714146018,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 566289,
-      "num": 209055,
-      "word": "第一次出国发朋友圈被同事警告了",
-      "onboard_time": 1714207817,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 565724,
@@ -4555,6 +4563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 463240,
+      "num": 463240,
+      "word": "爸妈好像忘记我已经二十多岁了",
+      "onboard_time": 1714205898,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 462623,
       "num": 462623,
       "word": "桃花坞4全员异地登录",
@@ -5547,14 +5563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 391628,
-      "num": 391628,
-      "word": "爸妈好像忘记我已经二十多岁了",
-      "onboard_time": 1714205898,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 391618,
       "num": 391618,
       "word": "许美静团队回应演唱会太水争议",
@@ -5785,6 +5793,14 @@
       "onboard_time": 1713682337,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 372280,
+      "num": 372280,
+      "word": "女子吐槽15元买一颗樱桃",
+      "onboard_time": 1714209138,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372063,
@@ -6225,14 +6241,6 @@
       "onboard_time": 1713769098,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346044,
-      "num": 346044,
-      "word": "迪丽热巴活动直播",
-      "onboard_time": 1714209138,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 344946,
@@ -8651,6 +8659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240148,
+      "num": 240148,
+      "word": "增城",
+      "onboard_time": 1714209019,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239995,
       "num": 239995,
       "word": "补气血是有顺序的",
@@ -8705,6 +8721,14 @@
       "onboard_time": 1713968960,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239440,
+      "num": 239440,
+      "word": "胡歌金靖新片演兄妹",
+      "onboard_time": 1714208838,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 239242,
@@ -8961,6 +8985,14 @@
       "onboard_time": 1713960498,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 233836,
+      "num": 157766,
+      "word": "沈阳持刀行凶者曾自曝已杀害多人",
+      "onboard_time": 1714209678,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233609,
@@ -9555,6 +9587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221761,
+      "num": 221761,
+      "word": "王一博好像已经睡着了",
+      "onboard_time": 1714209798,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221692,
       "num": 221692,
       "word": "无限暖暖首测",
@@ -10009,6 +10049,14 @@
       "onboard_time": 1713765019,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210453,
+      "num": 210453,
+      "word": "ILLIT再获音中一位",
+      "onboard_time": 1714209738,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 210307,
@@ -12323,28 +12371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187693,
-      "num": 187693,
-      "word": "胡歌金靖新片演兄妹",
-      "onboard_time": 1714208838,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 187683,
       "num": 214589,
       "word": "运动完脸红和脸白的人谁更健康",
       "onboard_time": 1714052657,
       "rank": 41,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 187682,
-      "num": 187682,
-      "word": "增城",
-      "onboard_time": 1714209019,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187395,
@@ -13337,6 +13369,14 @@
       "onboard_time": 1713979333,
       "rank": 19,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 175451,
+      "num": 158456,
+      "word": "何洁前几季都报名了浪姐",
+      "onboard_time": 1714209320,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 175193,
@@ -14427,6 +14467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161338,
+      "num": 161338,
+      "word": "12306积分可买高铁外卖",
+      "onboard_time": 1714207158,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161222,
       "num": 161222,
       "word": "朱丹说老公不优秀为什么要嫁给他",
@@ -15139,14 +15187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151868,
-      "num": 151868,
-      "word": "12306积分可买高铁外卖",
-      "onboard_time": 1714207158,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151808,
       "num": 122255,
       "word": "城中之城 大哥一叫大事不妙",
@@ -15289,14 +15329,6 @@
       "onboard_time": 1713936021,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 150308,
-      "num": 150308,
-      "word": "女子吐槽15元买一颗樱桃",
-      "onboard_time": 1714209138,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150203,
@@ -16344,6 +16376,14 @@
       "word": "专家称95后将成购车主力军",
       "onboard_time": 1713883099,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139291,
+      "num": 139291,
+      "word": "无锡被造谣蛋糕店老板妻子回应判决",
+      "onboard_time": 1714209919,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -18203,14 +18243,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 116915,
-      "num": 116915,
-      "word": "何洁前几季都报名了浪姐",
-      "onboard_time": 1714209320,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116596,
       "num": 116596,
       "word": "赵文琪称美甲不满意可退款重做",
@@ -19131,6 +19163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97341,
+      "num": 1305088,
+      "word": "五一假期全国赏花地图",
+      "onboard_time": 1714205057,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97327,
       "num": 97327,
       "word": "男明星的二手东西到底谁在买",
@@ -19217,14 +19257,6 @@
       "onboard_time": 1714199598,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 91772,
-      "num": 1149479,
-      "word": "五一假期全国赏花地图",
-      "onboard_time": 1714205057,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91271,
@@ -19691,6 +19723,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 64937,
+      "num": 239511,
+      "word": "和时代少年团的第一张合照",
+      "onboard_time": 1714206858,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63764,
       "num": 63764,
       "word": "双子座的分享欲不是喜欢",
@@ -19993,14 +20033,6 @@
       "onboard_time": 1713655634,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51848,
-      "num": 210523,
-      "word": "和时代少年团的第一张合照",
-      "onboard_time": 1714206858,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 51101,

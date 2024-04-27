@@ -1,13 +1,21 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714209400105,
+  "endTime": 1714210456114,
   "band_list": [
     {
-      "raw_hot": 1567587,
-      "num": 1567587,
+      "raw_hot": 1807265,
+      "num": 1807265,
       "word": "休一天",
       "onboard_time": 1714206016,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1524032,
+      "num": 1524032,
+      "word": "麦当劳就侮辱性文字骂顾客一事致歉",
+      "onboard_time": 1714206978,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -51,12 +59,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1176950,
-      "num": 1176950,
-      "word": "麦当劳就侮辱性文字骂顾客一事致歉",
-      "onboard_time": 1714206978,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 1178051,
+      "num": 1178051,
+      "word": "彩票中了一等奖真实的兑奖情况",
+      "onboard_time": 1714206618,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1139246,
@@ -67,12 +75,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 1137963,
-      "num": 1137963,
-      "word": "彩票中了一等奖真实的兑奖情况",
-      "onboard_time": 1714206618,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 1062369,
+      "num": 1062369,
+      "word": "歌手2024 朴彩英",
+      "onboard_time": 1714207817,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1046270,
@@ -96,14 +104,6 @@
       "word": "郭碧婷组 三个在冷宫失了智的嫔妃",
       "onboard_time": 1714198336,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 966165,
-      "num": 966165,
-      "word": "歌手2024 朴彩英",
-      "onboard_time": 1714207817,
-      "rank": 4,
       "category": "综艺"
     },
     {
@@ -267,6 +267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 628022,
+      "num": 452641,
+      "word": "迪丽热巴活动直播",
+      "onboard_time": 1714209138,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 626385,
       "num": 626385,
       "word": "跑男收视率",
@@ -291,20 +299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 583883,
+      "num": 239504,
+      "word": "第一次出国发朋友圈被同事警告了",
+      "onboard_time": 1714207817,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 566961,
       "num": 566961,
       "word": "爱情公寓 同一个人不同的角色",
       "onboard_time": 1714146018,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 566289,
-      "num": 209055,
-      "word": "第一次出国发朋友圈被同事警告了",
-      "onboard_time": 1714207817,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 559616,
@@ -393,6 +401,14 @@
       "onboard_time": 1714188796,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 463240,
+      "num": 463240,
+      "word": "爸妈好像忘记我已经二十多岁了",
+      "onboard_time": 1714205898,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 462623,
@@ -491,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 391628,
-      "num": 391628,
-      "word": "爸妈好像忘记我已经二十多岁了",
-      "onboard_time": 1714205898,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 388063,
       "num": 388063,
       "word": "欧文太强了",
@@ -529,6 +537,14 @@
       "onboard_time": 1714190477,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 372280,
+      "num": 372280,
+      "word": "女子吐槽15元买一颗樱桃",
+      "onboard_time": 1714209138,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372063,
@@ -625,14 +641,6 @@
       "onboard_time": 1714186098,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 346044,
-      "num": 346044,
-      "word": "迪丽热巴活动直播",
-      "onboard_time": 1714209138,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 341254,
@@ -867,6 +875,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 240148,
+      "num": 240148,
+      "word": "增城",
+      "onboard_time": 1714209019,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239440,
+      "num": 239440,
+      "word": "胡歌金靖新片演兄妹",
+      "onboard_time": 1714208838,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 233836,
+      "num": 157766,
+      "word": "沈阳持刀行凶者曾自曝已杀害多人",
+      "onboard_time": 1714209678,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233157,
       "num": 233157,
       "word": "独行侠2比1快船",
@@ -939,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221761,
+      "num": 221761,
+      "word": "王一博好像已经睡着了",
+      "onboard_time": 1714209798,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221066,
       "num": 221066,
       "word": "minji 缪斯",
@@ -1001,6 +1041,14 @@
       "onboard_time": 1714208359,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210453,
+      "num": 210453,
+      "word": "ILLIT再获音中一位",
+      "onboard_time": 1714209738,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 209557,
@@ -1211,22 +1259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187693,
-      "num": 187693,
-      "word": "胡歌金靖新片演兄妹",
-      "onboard_time": 1714208838,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 187682,
-      "num": 187682,
-      "word": "增城",
-      "onboard_time": 1714209019,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185904,
       "num": 185904,
       "word": "减肥主食有3个黄金等级",
@@ -1297,6 +1329,14 @@
       "onboard_time": 1714196537,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175451,
+      "num": 158456,
+      "word": "何洁前几季都报名了浪姐",
+      "onboard_time": 1714209320,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 174291,
@@ -1379,6 +1419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161338,
+      "num": 161338,
+      "word": "12306积分可买高铁外卖",
+      "onboard_time": 1714207158,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157655,
       "num": 157655,
       "word": "癌症晚期倾家荡产吃药延长生命值得吗",
@@ -1417,22 +1465,6 @@
       "onboard_time": 1714190358,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151868,
-      "num": 151868,
-      "word": "12306积分可买高铁外卖",
-      "onboard_time": 1714207158,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150308,
-      "num": 150308,
-      "word": "女子吐槽15元买一颗樱桃",
-      "onboard_time": 1714209138,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149602,
@@ -1561,6 +1593,14 @@
       "onboard_time": 1714202718,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139291,
+      "num": 139291,
+      "word": "无锡被造谣蛋糕店老板妻子回应判决",
+      "onboard_time": 1714209919,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137829,
@@ -1803,14 +1843,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 116915,
-      "num": 116915,
-      "word": "何洁前几季都报名了浪姐",
-      "onboard_time": 1714209320,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114902,
       "num": 1070545,
       "word": "五一出游要密切关注天气情况",
@@ -2003,6 +2035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 97341,
+      "num": 1305088,
+      "word": "五一假期全国赏花地图",
+      "onboard_time": 1714205057,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97128,
       "num": 97128,
       "word": "睡着后总在凌晨醒来或因这5种病",
@@ -2049,14 +2089,6 @@
       "onboard_time": 1714199598,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 91772,
-      "num": 1149479,
-      "word": "五一假期全国赏花地图",
-      "onboard_time": 1714205057,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91271,
@@ -2171,6 +2203,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 64937,
+      "num": 239511,
+      "word": "和时代少年团的第一张合照",
+      "onboard_time": 1714206858,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62489,
       "num": 62489,
       "word": "厦门震感",
@@ -2209,14 +2249,6 @@
       "onboard_time": 1714168812,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 51848,
-      "num": 210523,
-      "word": "和时代少年团的第一张合照",
-      "onboard_time": 1714206858,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 41346,

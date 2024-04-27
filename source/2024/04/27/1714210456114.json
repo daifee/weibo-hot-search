@@ -1,0 +1,410 @@
+{
+  "runTime": 1714210456114,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1807265,
+        "num": 1807265,
+        "word": "休一天",
+        "onboard_time": 1714206016,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1524032,
+        "num": 1524032,
+        "word": "麦当劳就侮辱性文字骂顾客一事致歉",
+        "onboard_time": 1714206978,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97341,
+        "num": 1305088,
+        "word": "五一假期全国赏花地图",
+        "onboard_time": 1714205057,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1178051,
+        "num": 1178051,
+        "word": "彩票中了一等奖真实的兑奖情况",
+        "onboard_time": 1714206618,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1062369,
+        "num": 1062369,
+        "word": "歌手2024 朴彩英",
+        "onboard_time": 1714207817,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 719151,
+        "num": 719151,
+        "word": "鹿晗关晓彤连口头禅都一样",
+        "onboard_time": 1714203617,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 671285,
+        "num": 671285,
+        "word": "广州龙卷风",
+        "onboard_time": 1714207338,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544901,
+        "num": 544901,
+        "word": "歌手2024名单",
+        "onboard_time": 1714203557,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463240,
+        "num": 463240,
+        "word": "爸妈好像忘记我已经二十多岁了",
+        "onboard_time": 1714205898,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116571,
+        "num": 452652,
+        "word": "河南夫妇收养的巴基斯坦孤儿长大了",
+        "onboard_time": 1714194679,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628022,
+        "num": 452641,
+        "word": "迪丽热巴活动直播",
+        "onboard_time": 1714209138,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452618,
+        "num": 452618,
+        "word": "鹿晗戒碳水很久了",
+        "onboard_time": 1714194378,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419177,
+        "num": 419177,
+        "word": "广州冰雹",
+        "onboard_time": 1714204458,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372280,
+        "num": 372280,
+        "word": "女子吐槽15元买一颗樱桃",
+        "onboard_time": 1714209138,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366331,
+        "num": 366331,
+        "word": "高圆圆好薄一片",
+        "onboard_time": 1714201277,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342866,
+        "num": 342866,
+        "word": "郭碧婷组 三个在冷宫失了智的嫔妃",
+        "onboard_time": 1714198336,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314201,
+        "num": 314201,
+        "word": "孙俪嫁给了世界上最好笑的邓超",
+        "onboard_time": 1714195997,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275866,
+        "num": 275866,
+        "word": "王一博英文口音",
+        "onboard_time": 1714207636,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249392,
+        "num": 249392,
+        "word": "奔跑吧 凯源",
+        "onboard_time": 1714200257,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240148,
+        "num": 240148,
+        "word": "增城",
+        "onboard_time": 1714209019,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64937,
+        "num": 239511,
+        "word": "和时代少年团的第一张合照",
+        "onboard_time": 1714206858,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583883,
+        "num": 239504,
+        "word": "第一次出国发朋友圈被同事警告了",
+        "onboard_time": 1714207817,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242693,
+        "num": 239483,
+        "word": "迪丽热巴 迪满楼",
+        "onboard_time": 1714197618,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239440,
+        "num": 239440,
+        "word": "胡歌金靖新片演兄妹",
+        "onboard_time": 1714208838,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174199,
+        "num": 228283,
+        "word": "哈啰顺风车疑中途换车致用户16只猫死亡",
+        "onboard_time": 1714197257,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221761,
+        "num": 221761,
+        "word": "王一博好像已经睡着了",
+        "onboard_time": 1714209798,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210453,
+        "num": 210453,
+        "word": "ILLIT再获音中一位",
+        "onboard_time": 1714209738,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207008,
+        "num": 207008,
+        "word": "火星哥 歌手2024",
+        "onboard_time": 1714197317,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161338,
+        "num": 161338,
+        "word": "12306积分可买高铁外卖",
+        "onboard_time": 1714207158,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158786,
+        "num": 158786,
+        "word": "清华大学成立人工智能学院",
+        "onboard_time": 1714208118,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177091,
+        "num": 158544,
+        "word": "陈丽君组一公第一",
+        "onboard_time": 1714199477,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175451,
+        "num": 158456,
+        "word": "何洁前几季都报名了浪姐",
+        "onboard_time": 1714209320,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158085,
+        "num": 158085,
+        "word": "广州局地龙卷风天空闪过5道白光",
+        "onboard_time": 1714207696,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233836,
+        "num": 157766,
+        "word": "沈阳持刀行凶者曾自曝已杀害多人",
+        "onboard_time": 1714209678,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159282,
+        "num": 157249,
+        "word": "煮肘新作文",
+        "onboard_time": 1714203256,
+        "rank": 34,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 156291,
+        "num": 156291,
+        "word": "经常跑步的人身体会发生什么变化",
+        "onboard_time": 1714199418,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 148604,
+        "num": 148604,
+        "word": "广州多区发布龙卷风警报",
+        "onboard_time": 1714208359,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144830,
+        "num": 144830,
+        "word": "童瑶未修原图",
+        "onboard_time": 1714189097,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144610,
+        "num": 144610,
+        "word": "张子枫背带裙",
+        "onboard_time": 1714207396,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142762,
+        "num": 142762,
+        "word": "为什么外国人很少吃西瓜",
+        "onboard_time": 1714191377,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 139291,
+        "num": 139291,
+        "word": "无锡被造谣蛋糕店老板妻子回应判决",
+        "onboard_time": 1714209919,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139085,
+        "num": 139085,
+        "word": "迪丽热巴蝎子辫",
+        "onboard_time": 1714201217,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124458,
+        "num": 124458,
+        "word": "长期不吃主食的人后来怎样了",
+        "onboard_time": 1714188436,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123389,
+        "num": 123389,
+        "word": "造谣赵雅芝去世博主道歉",
+        "onboard_time": 1714199837,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123171,
+        "num": 123171,
+        "word": "minji 缪斯",
+        "onboard_time": 1714204518,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122208,
+        "num": 122208,
+        "word": "南方人害怕的台词出现了",
+        "onboard_time": 1714202718,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121761,
+        "num": 121761,
+        "word": "抗抑郁食物有哪些",
+        "onboard_time": 1714208657,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114616,
+        "num": 114616,
+        "word": "半截身子卷入扶梯女子腿已保住",
+        "onboard_time": 1714198577,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111614,
+        "num": 111614,
+        "word": "一家3口共用一个警号",
+        "onboard_time": 1714207519,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105908,
+        "num": 105908,
+        "word": "戚薇又换了个狗狗包包",
+        "onboard_time": 1714202118,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#途通山海阔开放创未来#"
+    }
+  }
+}
