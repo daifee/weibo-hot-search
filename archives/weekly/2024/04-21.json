@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714184786287,
+  "endTime": 1714185428786,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -787,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1232594,
+      "num": 1232594,
+      "word": "微信文件3小时内可撤回",
+      "onboard_time": 1714178897,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1218760,
       "num": 1218760,
       "word": "白敬亭 B站",
@@ -849,14 +857,6 @@
       "onboard_time": 1714024521,
       "rank": 16,
       "category": "艺人,动漫"
-    },
-    {
-      "raw_hot": 1184332,
-      "num": 1184332,
-      "word": "微信文件3小时内可撤回",
-      "onboard_time": 1714178897,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1184063,
@@ -2307,6 +2307,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 699846,
+      "num": 699846,
+      "word": "水龙吟阵容官宣",
+      "onboard_time": 1714182736,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 697725,
       "num": 697725,
       "word": "newjeans怎么办",
@@ -3203,14 +3211,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 569700,
-      "num": 569700,
-      "word": "水龙吟阵容官宣",
-      "onboard_time": 1714182736,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 569591,
       "num": 692997,
       "word": "布林肯抵达上海",
@@ -3353,6 +3353,14 @@
       "onboard_time": 1713680179,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 550697,
+      "num": 550697,
+      "word": "车银优扣子崩开了",
+      "onboard_time": 1714181237,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 549328,
@@ -3689,14 +3697,6 @@
       "onboard_time": 1713747499,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 515136,
-      "num": 515136,
-      "word": "车银优扣子崩开了",
-      "onboard_time": 1714181237,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 513586,
@@ -5659,6 +5659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 354382,
+      "num": 354382,
+      "word": "刘忻超短裙",
+      "onboard_time": 1714181656,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 354078,
       "num": 354078,
       "word": "EXO团魂",
@@ -6091,14 +6099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 330132,
-      "num": 302495,
-      "word": "刘忻超短裙",
-      "onboard_time": 1714181656,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 329814,
       "num": 329814,
       "word": "原神4.6",
@@ -6347,6 +6347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 310312,
+      "num": 310312,
+      "word": "神十七乘组4月30日回地球",
+      "onboard_time": 1714183399,
+      "rank": 17,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 309874,
       "num": 309874,
       "word": "闵熙珍 hybe",
@@ -6553,14 +6561,6 @@
       "onboard_time": 1714176016,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 300876,
-      "num": 300876,
-      "word": "神十七乘组4月30日回地球",
-      "onboard_time": 1714183399,
-      "rank": 17,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 300843,
@@ -10323,6 +10323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200267,
+      "num": 200267,
+      "word": "每周最多减重2斤最适宜",
+      "onboard_time": 1714184298,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 200098,
       "num": 200098,
       "word": "广东韶关山体滑坡致多楼房被埋",
@@ -10545,6 +10553,14 @@
       "onboard_time": 1714099037,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197172,
+      "num": 197172,
+      "word": "小猫拿出了它认为最好的东西",
+      "onboard_time": 1714183217,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 197103,
@@ -10777,6 +10793,14 @@
       "onboard_time": 1714014498,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195161,
+      "num": 195161,
+      "word": "香菜酸菜鱼到底是谁在吃",
+      "onboard_time": 1714184657,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 195105,
@@ -12315,14 +12339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178146,
-      "num": 178146,
-      "word": "小猫拿出了它认为最好的东西",
-      "onboard_time": 1714183217,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 177395,
       "num": 177395,
       "word": "这歌坛还是被张予曦误闯进去了",
@@ -13203,6 +13219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165413,
+      "num": 165413,
+      "word": "张超牺牲8周年了",
+      "onboard_time": 1714181477,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165273,
       "num": 211539,
       "word": "多益网络规定员工娶妻彩礼不超10万",
@@ -13281,14 +13305,6 @@
       "onboard_time": 1713954620,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164009,
-      "num": 164009,
-      "word": "张超牺牲8周年了",
-      "onboard_time": 1714181477,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163837,
@@ -14243,14 +14259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152297,
-      "num": 152297,
-      "word": "每周最多减重2斤最适宜",
-      "onboard_time": 1714184298,
-      "rank": 33,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 152207,
       "num": 152207,
       "word": "埃弗顿2比0利物浦",
@@ -14955,14 +14963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144445,
-      "num": 144445,
-      "word": "香菜酸菜鱼到底是谁在吃",
-      "onboard_time": 1714184657,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 144416,
       "num": 144416,
       "word": "中方回应能否证实哈马斯和法塔赫在北京会面",
@@ -15505,6 +15505,14 @@
       "onboard_time": 1713715457,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137829,
+      "num": 137829,
+      "word": "护考",
+      "onboard_time": 1714184958,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 137746,
@@ -17115,6 +17123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117653,
+      "num": 117653,
+      "word": "英伟达市值一夜大涨9246亿",
+      "onboard_time": 1714185198,
+      "rank": 42,
+      "category": "财经,科学科普"
+    },
+    {
       "raw_hot": 117557,
       "num": 90296,
       "word": "秦昊杨幂新剧微博开分谍战第一",
@@ -17769,6 +17785,14 @@
       "onboard_time": 1713945497,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 104403,
+      "num": 104403,
+      "word": "小狗刚睡醒一脸懵懵的",
+      "onboard_time": 1714185255,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 104383,

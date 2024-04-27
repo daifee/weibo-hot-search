@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714184786287,
+  "endTime": 1714185428786,
   "band_list": [
     {
       "raw_hot": 1356945,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1184332,
-      "num": 1184332,
+      "raw_hot": 1232594,
+      "num": 1232594,
       "word": "微信文件3小时内可撤回",
       "onboard_time": 1714178897,
       "rank": 1,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 699846,
+      "num": 699846,
+      "word": "水龙吟阵容官宣",
+      "onboard_time": 1714182736,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 653167,
       "num": 653167,
       "word": "日元",
@@ -83,14 +91,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 569700,
-      "num": 569700,
-      "word": "水龙吟阵容官宣",
-      "onboard_time": 1714182736,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 566961,
       "num": 566961,
       "word": "爱情公寓 同一个人不同的角色",
@@ -99,20 +99,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 550697,
+      "num": 550697,
+      "word": "车银优扣子崩开了",
+      "onboard_time": 1714181237,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 525116,
       "num": 525116,
       "word": "28岁女子经常饥一顿饱一顿确诊胃癌",
       "onboard_time": 1714137978,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 515136,
-      "num": 515136,
-      "word": "车银优扣子崩开了",
-      "onboard_time": 1714181237,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 511343,
@@ -235,6 +235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 354382,
+      "num": 354382,
+      "word": "刘忻超短裙",
+      "onboard_time": 1714181656,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 341254,
       "num": 341254,
       "word": "林更新 把你的恶心收一收",
@@ -251,20 +259,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 330132,
-      "num": 302495,
-      "word": "刘忻超短裙",
-      "onboard_time": 1714181656,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 321204,
       "num": 321204,
       "word": "美国去死宣传册疯传美高校",
       "onboard_time": 1714135938,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 310312,
+      "num": 310312,
+      "word": "神十七乘组4月30日回地球",
+      "onboard_time": 1714183399,
+      "rank": 17,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 307905,
@@ -289,14 +297,6 @@
       "onboard_time": 1714176016,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 300876,
-      "num": 300876,
-      "word": "神十七乘组4月30日回地球",
-      "onboard_time": 1714183399,
-      "rank": 17,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 292117,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200267,
+      "num": 200267,
+      "word": "每周最多减重2斤最适宜",
+      "onboard_time": 1714184298,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 200022,
       "num": 200022,
       "word": "苹果或已停止升级Mac起步内存",
@@ -433,6 +441,22 @@
       "onboard_time": 1714110678,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 197172,
+      "num": 197172,
+      "word": "小猫拿出了它认为最好的东西",
+      "onboard_time": 1714183217,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 195161,
+      "num": 195161,
+      "word": "香菜酸菜鱼到底是谁在吃",
+      "onboard_time": 1714184657,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 193128,
@@ -465,14 +489,6 @@
       "onboard_time": 1714143499,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 178146,
-      "num": 178146,
-      "word": "小猫拿出了它认为最好的东西",
-      "onboard_time": 1714183217,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 177364,
@@ -523,20 +539,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165413,
+      "num": 165413,
+      "word": "张超牺牲8周年了",
+      "onboard_time": 1714181477,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164802,
       "num": 164802,
       "word": "泽泽饭饭 断崖式分手",
       "onboard_time": 1714148418,
       "rank": 43,
       "category": "网红"
-    },
-    {
-      "raw_hot": 164009,
-      "num": 164009,
-      "word": "张超牺牲8周年了",
-      "onboard_time": 1714181477,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163047,
@@ -563,14 +579,6 @@
       "category": "读书作家,社会新闻"
     },
     {
-      "raw_hot": 152297,
-      "num": 152297,
-      "word": "每周最多减重2斤最适宜",
-      "onboard_time": 1714184298,
-      "rank": 33,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 146954,
       "num": 146954,
       "word": "范伟62岁再夺影帝",
@@ -595,20 +603,20 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 144445,
-      "num": 144445,
-      "word": "香菜酸菜鱼到底是谁在吃",
-      "onboard_time": 1714184657,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 142547,
       "num": 142547,
       "word": "杨紫工作室发文告别麦承欢",
       "onboard_time": 1714140260,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137829,
+      "num": 137829,
+      "word": "护考",
+      "onboard_time": 1714184958,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 137632,
@@ -739,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117653,
+      "num": 117653,
+      "word": "英伟达市值一夜大涨9246亿",
+      "onboard_time": 1714185198,
+      "rank": 42,
+      "category": "财经,科学科普"
+    },
+    {
       "raw_hot": 116996,
       "num": 116996,
       "word": "就这个王者荣耀爽",
@@ -817,6 +833,14 @@
       "onboard_time": 1714178957,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 104403,
+      "num": 104403,
+      "word": "小狗刚睡醒一脸懵懵的",
+      "onboard_time": 1714185255,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 103796,
