@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714242890519,
+  "endTime": 1714245215011,
   "band_list": [
     {
       "raw_hot": 1259200,
@@ -371,20 +371,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 101021,
+      "num": 48300,
+      "word": "广州司机致猫死亡事件疑反转",
+      "onboard_time": 1714240033,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99921,
       "num": 99921,
       "word": "室友决议不让我跟对象打电话",
       "onboard_time": 1714228761,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 99438,
-      "num": 48300,
-      "word": "广州司机致猫死亡事件疑反转",
-      "onboard_time": 1714240033,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95545,
@@ -451,6 +451,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 63504,
+      "num": 63504,
+      "word": "广州发布今年首个雷雨大风红色预警",
+      "onboard_time": 1714242013,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62300,
       "num": 70630,
       "word": "林更新回应太瘦了",
@@ -465,14 +473,6 @@
       "onboard_time": 1714240815,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48338,
-      "num": 48338,
-      "word": "广州发布今年首个雷雨大风红色预警",
-      "onboard_time": 1714242013,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45977,
@@ -507,12 +507,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28850,
+      "num": 28850,
+      "word": "广东最大的水库开闸泄洪",
+      "onboard_time": 1714244051,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27949,
       "num": 30342,
       "word": "maestro饭拍视频",
       "onboard_time": 1714242732,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24659,
+      "num": 24659,
+      "word": "邓超说蔡文静脑子好厉害",
+      "onboard_time": 1714244771,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 14183,
