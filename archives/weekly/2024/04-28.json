@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714257263514,
+  "endTime": 1714259876917,
   "band_list": [
     {
       "raw_hot": 1259200,
@@ -67,6 +67,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 464996,
+      "num": 91889,
+      "word": "每天多睡1小时能有多大好处",
+      "onboard_time": 1714236316,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 431455,
+      "num": 431455,
+      "word": "牛仔裤正在被抛弃吗",
+      "onboard_time": 1714226239,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 386288,
       "num": 386288,
       "word": "彩票中了一等奖真实的兑奖情况",
@@ -89,14 +105,6 @@
       "onboard_time": 1714226900,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 324885,
-      "num": 91889,
-      "word": "每天多睡1小时能有多大好处",
-      "onboard_time": 1714236316,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 320228,
@@ -163,6 +171,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 233067,
+      "num": 86658,
+      "word": "外国游客3个月爆买1.75万亿日元",
+      "onboard_time": 1714253951,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 230381,
       "num": 230381,
       "word": "不够善良的我们完结",
@@ -201,14 +217,6 @@
       "onboard_time": 1714220238,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 214090,
-      "num": 214090,
-      "word": "牛仔裤正在被抛弃吗",
-      "onboard_time": 1714226239,
-      "rank": 49,
-      "category": "时尚"
     },
     {
       "raw_hot": 212718,
@@ -257,6 +265,14 @@
       "onboard_time": 1714206978,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165817,
+      "num": 129308,
+      "word": "刘嘉玲梁朝伟国外度假",
+      "onboard_time": 1714256532,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 159717,
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 134744,
-      "num": 48313,
+      "num": 73603,
       "word": "微信撤回能不能别提示",
       "onboard_time": 1714238894,
       "rank": 23,
@@ -347,6 +363,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120043,
+      "num": 120043,
+      "word": "邓超说蔡文静脑子好厉害",
+      "onboard_time": 1714244771,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 119704,
+      "num": 108118,
+      "word": "苗苗一公舞台",
+      "onboard_time": 1714236316,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 119162,
+      "num": 84869,
+      "word": "真正要忌口少吃的蔬菜",
+      "onboard_time": 1714238953,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 114913,
       "num": 114913,
       "word": "苗苗好甜",
@@ -380,7 +420,7 @@
     },
     {
       "raw_hot": 101021,
-      "num": 48300,
+      "num": 84255,
       "word": "广州司机致猫死亡事件疑反转",
       "onboard_time": 1714240033,
       "rank": 24,
@@ -411,6 +451,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 94433,
+      "num": 94433,
+      "word": "广东最大的水库开闸泄洪",
+      "onboard_time": 1714244051,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92793,
+      "num": 92793,
+      "word": "张馨予何捷路遇被撞猫咪",
+      "onboard_time": 1714217779,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91519,
       "num": 91519,
       "word": "明日方舟五周年直播",
@@ -427,22 +483,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 88691,
-      "num": 40557,
-      "word": "外国游客3个月爆买1.75万亿日元",
-      "onboard_time": 1714253951,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 81765,
-      "num": 78032,
-      "word": "苗苗一公舞台",
-      "onboard_time": 1714236316,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 80778,
       "num": 80778,
       "word": "我只喜欢你的人设",
@@ -451,20 +491,28 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 73455,
-      "num": 73455,
-      "word": "邓超说蔡文静脑子好厉害",
-      "onboard_time": 1714244771,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 68447,
+      "num": 68447,
+      "word": "不够善良的我们",
+      "onboard_time": 1714259715,
+      "rank": 31,
+      "category": "剧集"
     },
     {
-      "raw_hot": 67456,
-      "num": 48293,
-      "word": "真正要忌口少吃的蔬菜",
-      "onboard_time": 1714238953,
-      "rank": 47,
-      "category": "科学科普"
+      "raw_hot": 68291,
+      "num": 68291,
+      "word": "年轻人想赚快钱不用不好意思",
+      "onboard_time": 1714252692,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 64986,
+      "num": 64986,
+      "word": "第一次见这么肥美的大熊猫",
+      "onboard_time": 1714246692,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63504,
@@ -499,12 +547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 47119,
-      "num": 47119,
-      "word": "广东最大的水库开闸泄洪",
-      "onboard_time": 1714244051,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 48928,
+      "num": 48928,
+      "word": "小龙虾为什么大降价",
+      "onboard_time": 1714251971,
+      "rank": 48,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 45977,
@@ -531,43 +579,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 38732,
-      "num": 38732,
-      "word": "年轻人想赚快钱不用不好意思",
-      "onboard_time": 1714252692,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 35859,
-      "num": 35859,
-      "word": "刘嘉玲梁朝伟国外度假",
-      "onboard_time": 1714256532,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 35335,
-      "num": 35335,
+      "raw_hot": 38507,
+      "num": 48908,
       "word": "天津泡泡岛音乐节",
       "onboard_time": 1714240693,
       "rank": 44,
       "category": "演出"
     },
     {
-      "raw_hot": 31024,
-      "num": 31024,
-      "word": "小龙虾为什么大降价",
-      "onboard_time": 1714251971,
-      "rank": 48,
-      "category": "美食,财经"
-    },
-    {
-      "raw_hot": 29235,
-      "num": 29235,
-      "word": "第一次见这么肥美的大熊猫",
-      "onboard_time": 1714246692,
-      "rank": 45,
+      "raw_hot": 30204,
+      "num": 474221,
+      "word": "1088人拟获全国五一劳动奖章",
+      "onboard_time": 1714223659,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -585,14 +609,6 @@
       "onboard_time": 1714249212,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 17759,
-      "num": 376884,
-      "word": "1088人拟获全国五一劳动奖章",
-      "onboard_time": 1714223659,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6669,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1714259876917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 731822,
+        "num": 731822,
+        "word": "广州龙卷风已致5死33伤",
+        "onboard_time": 1714233619,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680998,
+        "num": 680998,
+        "word": "杨晓明涉嫌严重违纪违法",
+        "onboard_time": 1714229960,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30204,
+        "num": 474221,
+        "word": "1088人拟获全国五一劳动奖章",
+        "onboard_time": 1714223659,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431455,
+        "num": 431455,
+        "word": "牛仔裤正在被抛弃吗",
+        "onboard_time": 1714226239,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 316213,
+        "num": 316213,
+        "word": "4个何炅",
+        "onboard_time": 1714227140,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216029,
+        "num": 216029,
+        "word": "郝蕾怒批赵晴",
+        "onboard_time": 1714231341,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182354,
+        "num": 182354,
+        "word": "彩票中了一等奖真实的兑奖情况",
+        "onboard_time": 1714206618,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177671,
+        "num": 177671,
+        "word": "吴艳妮新动作",
+        "onboard_time": 1714223419,
+        "rank": 7,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 51844,
+        "num": 140251,
+        "word": "这届医学生唱跳都这么专业嘛",
+        "onboard_time": 1714222760,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131176,
+        "num": 131176,
+        "word": "布林肯称限制芯片出口不等于阻碍中国发展",
+        "onboard_time": 1714227859,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 651473,
+        "num": 129646,
+        "word": "郑恺幸亏我和苗苗结婚了",
+        "onboard_time": 1714228160,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165817,
+        "num": 129308,
+        "word": "刘嘉玲梁朝伟国外度假",
+        "onboard_time": 1714256532,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120043,
+        "num": 120043,
+        "word": "邓超说蔡文静脑子好厉害",
+        "onboard_time": 1714244771,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119964,
+        "num": 119964,
+        "word": "女子造谣3岁女儿遭猥亵被判赔6万",
+        "onboard_time": 1714223060,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108817,
+        "num": 108817,
+        "word": "李菲儿抢走了赵奕欢的一个搭档",
+        "onboard_time": 1714226900,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119704,
+        "num": 108118,
+        "word": "苗苗一公舞台",
+        "onboard_time": 1714236316,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105641,
+        "num": 105641,
+        "word": "春色寄情人 看得我尖叫",
+        "onboard_time": 1714224318,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94433,
+        "num": 94433,
+        "word": "广东最大的水库开闸泄洪",
+        "onboard_time": 1714244051,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92793,
+        "num": 92793,
+        "word": "张馨予何捷路遇被撞猫咪",
+        "onboard_time": 1714217779,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88290,
+        "num": 88290,
+        "word": "胡歌喊话金靖要做孩子舅舅",
+        "onboard_time": 1714220238,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 464996,
+        "num": 88186,
+        "word": "每天多睡1小时能有多大好处",
+        "onboard_time": 1714236316,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 437225,
+        "num": 87240,
+        "word": "卖淫女接宾馆老板报信上天台躲避坠亡",
+        "onboard_time": 1714227859,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233067,
+        "num": 86658,
+        "word": "外国游客3个月爆买1.75万亿日元",
+        "onboard_time": 1714253951,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153938,
+        "num": 85198,
+        "word": "中医提醒臀部是寒气最重的部位",
+        "onboard_time": 1714230560,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119162,
+        "num": 84869,
+        "word": "真正要忌口少吃的蔬菜",
+        "onboard_time": 1714238953,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 94334,
+        "num": 84255,
+        "word": "广州司机致猫死亡事件疑反转",
+        "onboard_time": 1714240033,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83544,
+        "num": 83544,
+        "word": "生理性喜欢和心理喜欢哪个重要",
+        "onboard_time": 1714220118,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83030,
+        "num": 83030,
+        "word": "不够善良的我们完结",
+        "onboard_time": 1714227559,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73603,
+        "num": 73603,
+        "word": "微信撤回能不能别提示",
+        "onboard_time": 1714238894,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 72473,
+        "num": 72473,
+        "word": "第一次出国发朋友圈被同事警告了",
+        "onboard_time": 1714207817,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69415,
+        "num": 69415,
+        "word": "原来踩着东西吃饭是气血不足",
+        "onboard_time": 1714225819,
+        "rank": 30,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 68447,
+        "num": 68447,
+        "word": "不够善良的我们",
+        "onboard_time": 1714259715,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68291,
+        "num": 68291,
+        "word": "年轻人想赚快钱不用不好意思",
+        "onboard_time": 1714252692,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67108,
+        "num": 67108,
+        "word": "眼泪女王",
+        "onboard_time": 1714220898,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64986,
+        "num": 64986,
+        "word": "第一次见这么肥美的大熊猫",
+        "onboard_time": 1714246692,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63982,
+        "num": 63982,
+        "word": "迪丽热巴未修原图",
+        "onboard_time": 1714222457,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63586,
+        "num": 63586,
+        "word": "小叶 泽泽",
+        "onboard_time": 1714214357,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62247,
+        "num": 62247,
+        "word": "陈丽君 实至名归",
+        "onboard_time": 1714221920,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59104,
+        "num": 59104,
+        "word": "王者荣耀",
+        "onboard_time": 1714228100,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 56452,
+        "num": 56452,
+        "word": "张栋梁郑合惠子落选",
+        "onboard_time": 1714230922,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52174,
+        "num": 52174,
+        "word": "麦当劳就侮辱性文字骂顾客一事致歉",
+        "onboard_time": 1714206978,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49668,
+        "num": 49668,
+        "word": "郭碧婷 淡人",
+        "onboard_time": 1714218378,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48928,
+        "num": 48928,
+        "word": "小龙虾为什么大降价",
+        "onboard_time": 1714251971,
+        "rank": 42,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 44866,
+        "num": 48927,
+        "word": "歌手2024 朴彩英",
+        "onboard_time": 1714207817,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42766,
+        "num": 48922,
+        "word": "苗苗好甜",
+        "onboard_time": 1714218618,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40740,
+        "num": 48922,
+        "word": "泽泽 被分手",
+        "onboard_time": 1714215678,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38643,
+        "num": 48918,
+        "word": "赵雷 最后一次巡演",
+        "onboard_time": 1714230440,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38529,
+        "num": 48913,
+        "word": "Jennie去了seventeen演唱会",
+        "onboard_time": 1714222578,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38507,
+        "num": 48908,
+        "word": "天津泡泡岛音乐节",
+        "onboard_time": 1714240693,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34310,
+        "num": 48906,
+        "word": "王锵 吻技生疏",
+        "onboard_time": 1714233018,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#西部描绘繁荣发展新画卷#"
+    }
+  }
+}
