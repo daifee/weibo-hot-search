@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714221848999,
+  "endTime": 1714223964642,
   "band_list": [
     {
       "raw_hot": 1807265,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 872669,
+      "num": 619074,
+      "word": "胡歌喊话金靖要做孩子舅舅",
+      "onboard_time": 1714220238,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 866539,
       "num": 683790,
       "word": "王婆回应被江西彩礼震惊",
@@ -185,6 +193,22 @@
       "onboard_time": 1714168511,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 753878,
+      "num": 753878,
+      "word": "眼泪女王",
+      "onboard_time": 1714220898,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 741412,
+      "num": 327553,
+      "word": "生理性喜欢和心理喜欢哪个重要",
+      "onboard_time": 1714220118,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 734877,
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 701949,
-      "num": 368846,
+      "num": 457843,
       "word": "泽泽 被分手",
       "onboard_time": 1714215678,
       "rank": 18,
@@ -347,14 +371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 634376,
-      "num": 520132,
-      "word": "胡歌喊话金靖要做孩子舅舅",
-      "onboard_time": 1714220238,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 630460,
       "num": 550697,
       "word": "车银优扣子崩开了",
@@ -376,6 +392,14 @@
       "word": "跑男收视率",
       "onboard_time": 1714140619,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 608538,
+      "num": 608538,
+      "word": "郭碧婷 淡人",
+      "onboard_time": 1714218378,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -403,12 +427,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 572862,
-      "num": 572862,
-      "word": "郭碧婷 淡人",
-      "onboard_time": 1714218378,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 584600,
+      "num": 321500,
+      "word": "南雅婚内被侵犯",
+      "onboard_time": 1714223060,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 570817,
+      "num": 570817,
+      "word": "迪丽热巴未修原图",
+      "onboard_time": 1714222457,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 566961,
@@ -433,6 +465,14 @@
       "onboard_time": 1714214357,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 551530,
+      "num": 551530,
+      "word": "要怎么和韩国人解释五一调休",
+      "onboard_time": 1714219461,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 531723,
@@ -465,14 +505,6 @@
       "onboard_time": 1714174635,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 502626,
-      "num": 502626,
-      "word": "眼泪女王",
-      "onboard_time": 1714220898,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 496052,
@@ -547,12 +579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 460433,
-      "num": 324636,
-      "word": "生理性喜欢和心理喜欢哪个重要",
-      "onboard_time": 1714220118,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 454135,
+      "num": 454135,
+      "word": "Jennie去了seventeen演唱会",
+      "onboard_time": 1714222578,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 450423,
@@ -827,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328171,
+      "num": 328171,
+      "word": "广州龙卷风初判为3级强龙卷",
+      "onboard_time": 1714221738,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327022,
       "num": 311777,
       "word": "半截身子卷入扶梯女子腿已保住",
@@ -963,20 +1003,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291696,
+      "num": 291696,
+      "word": "陈丽君 实至名归",
+      "onboard_time": 1714221920,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287382,
       "num": 287382,
       "word": "林允撑伞回眸",
       "onboard_time": 1714185617,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 281335,
-      "num": 281335,
-      "word": "要怎么和韩国人解释五一调休",
-      "onboard_time": 1714219461,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 280798,
@@ -1043,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256819,
+      "num": 256819,
+      "word": "女子造谣3岁女儿遭猥亵被判赔6万",
+      "onboard_time": 1714223060,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256785,
       "num": 256785,
       "word": "金玟庭晒Jennie联名独角兽",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1714203256,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248973,
+      "num": 248973,
+      "word": "吴艳妮新动作",
+      "onboard_time": 1714223419,
+      "rank": 27,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 248940,
@@ -1819,14 +1875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168705,
-      "num": 168705,
-      "word": "广州龙卷风初判为3级强龙卷",
-      "onboard_time": 1714221738,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166393,
       "num": 166393,
       "word": "seventeen演唱会",
@@ -1896,6 +1944,14 @@
       "word": "12306积分可买高铁外卖",
       "onboard_time": 1714207158,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159450,
+      "num": 159450,
+      "word": "杨晓明被罢免",
+      "onboard_time": 1714220719,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2115,6 +2171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138380,
+      "num": 138380,
+      "word": "西汉姆联vs利物浦",
+      "onboard_time": 1714223300,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137829,
       "num": 137829,
       "word": "护考",
@@ -2161,14 +2225,6 @@
       "onboard_time": 1714217119,
       "rank": 8,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 136823,
-      "num": 155332,
-      "word": "杨晓明被罢免",
-      "onboard_time": 1714220719,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136755,
@@ -2299,6 +2355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126911,
+      "num": 126911,
+      "word": "广州提醒雷击大风致灾风险极高",
+      "onboard_time": 1714223839,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126374,
       "num": 399012,
       "word": "马凡舒自称小米SU7颜粉",
@@ -2313,6 +2377,14 @@
       "onboard_time": 1714177997,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124857,
+      "num": 124857,
+      "word": "香港演唱会",
+      "onboard_time": 1714223719,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 124538,
@@ -2715,6 +2787,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 87638,
+      "num": 489136,
+      "word": "这届医学生唱跳都这么专业嘛",
+      "onboard_time": 1714222760,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86209,
       "num": 86209,
       "word": "官方通报综合执法队雷某喝酒打人",
@@ -2937,6 +3017,14 @@
       "onboard_time": 1714164550,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 11521,
+      "num": 622988,
+      "word": "1088人拟获全国五一劳动奖章",
+      "onboard_time": 1714223659,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4958,
