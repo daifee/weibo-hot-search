@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714213162764,
+  "endTime": 1714214124646,
   "band_list": [
     {
       "raw_hot": 1807265,
@@ -236,11 +236,19 @@
     },
     {
       "raw_hot": 712513,
-      "num": 252904,
+      "num": 259993,
       "word": "第一次出国发朋友圈被同事警告了",
       "onboard_time": 1714207817,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 704545,
+      "num": 704545,
+      "word": "金秀贤金智媛合体",
+      "onboard_time": 1714212558,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 699846,
@@ -259,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 668062,
+      "num": 668062,
+      "word": "增城",
+      "onboard_time": 1714209019,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653167,
       "num": 653167,
       "word": "日元",
@@ -272,14 +288,6 @@
       "word": "广州冰雹",
       "onboard_time": 1714204458,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 633452,
-      "num": 633452,
-      "word": "增城",
-      "onboard_time": 1714209019,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -304,6 +312,14 @@
       "word": "跑男收视率",
       "onboard_time": 1714140619,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 609414,
+      "num": 609414,
+      "word": "张予曦BLACKPINK舞台相似度",
+      "onboard_time": 1714212498,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -361,6 +377,14 @@
       "onboard_time": 1714199837,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 515721,
+      "num": 515721,
+      "word": "迪丽热巴轻纱拖地裙",
+      "onboard_time": 1714213157,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 511343,
@@ -464,6 +488,14 @@
       "word": "杨紫下一部剧是长相思第二季",
       "onboard_time": 1714180937,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 429666,
+      "num": 429666,
+      "word": "眼泪女王直播",
+      "onboard_time": 1714210937,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -587,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356873,
-      "num": 356873,
-      "word": "张予曦BLACKPINK舞台相似度",
-      "onboard_time": 1714212498,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 355456,
       "num": 355456,
       "word": "哈尔滨一九四四 活到年底都算喜丧",
@@ -625,14 +649,6 @@
       "onboard_time": 1714181656,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 353782,
-      "num": 353782,
-      "word": "眼泪女王直播",
-      "onboard_time": 1714210937,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 352478,
@@ -683,14 +699,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 339603,
-      "num": 339603,
-      "word": "金秀贤金智媛合体",
-      "onboard_time": 1714212558,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 331796,
       "num": 331796,
       "word": "赵小童 三号房爬进一只小龙虾",
@@ -713,6 +721,14 @@
       "onboard_time": 1714135938,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 312434,
+      "num": 312434,
+      "word": "王婆回应被江西彩礼震惊",
+      "onboard_time": 1714212199,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310312,
@@ -761,6 +777,14 @@
       "onboard_time": 1714198336,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 297902,
+      "num": 297902,
+      "word": "恋与深空官配",
+      "onboard_time": 1714212077,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 295225,
@@ -835,6 +859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 272112,
+      "num": 272112,
+      "word": "广州白云龙卷风现场画面",
+      "onboard_time": 1714212919,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265107,
       "num": 404526,
       "word": "编者按",
@@ -907,14 +939,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 246015,
-      "num": 246015,
-      "word": "恋与深空官配",
-      "onboard_time": 1714212077,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 244138,
       "num": 244138,
       "word": "罗云熙演唱会抢票",
@@ -979,20 +1003,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231722,
+      "num": 614331,
+      "word": "爷爷去世前在监控中喊孙女名字",
+      "onboard_time": 1714211478,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230402,
       "num": 152898,
       "word": "陈嘉桦报平安",
       "onboard_time": 1714200857,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 225579,
-      "num": 521667,
-      "word": "爷爷去世前在监控中喊孙女名字",
-      "onboard_time": 1714211478,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225349,
@@ -1099,14 +1123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210850,
-      "num": 208508,
-      "word": "王婆回应被江西彩礼震惊",
-      "onboard_time": 1714212199,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210632,
       "num": 210632,
       "word": "广州多区发布龙卷风警报",
@@ -1121,14 +1137,6 @@
       "onboard_time": 1714209738,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 209954,
-      "num": 209954,
-      "word": "广州白云龙卷风现场画面",
-      "onboard_time": 1714212919,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209557,
@@ -1148,7 +1156,7 @@
     },
     {
       "raw_hot": 209178,
-      "num": 590432,
+      "num": 626344,
       "word": "河南夫妇收养的巴基斯坦孤儿长大了",
       "onboard_time": 1714194679,
       "rank": 9,
@@ -1241,6 +1249,14 @@
       "onboard_time": 1714110678,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 198333,
+      "num": 198333,
+      "word": "眼泪女王终映宴",
+      "onboard_time": 1714213397,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 197874,
@@ -1371,6 +1387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 182477,
+      "num": 182477,
+      "word": "张元英最初的梦想",
+      "onboard_time": 1714213638,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 182269,
       "num": 182269,
       "word": "张予曦 我给大师上了一课吧",
@@ -1424,6 +1448,14 @@
       "word": "灵活就业人员不强制缴纳社保",
       "onboard_time": 1714196537,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174874,
+      "num": 174874,
+      "word": "老人被养了四五年的狗撕咬",
+      "onboard_time": 1714213338,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1481,6 +1513,14 @@
       "onboard_time": 1714211536,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166271,
+      "num": 166271,
+      "word": "日本为何放任日元狂贬",
+      "onboard_time": 1714212258,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 165954,
@@ -1665,14 +1705,6 @@
       "onboard_time": 1714199418,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 143490,
-      "num": 164330,
-      "word": "日本为何放任日元狂贬",
-      "onboard_time": 1714212258,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 142547,
@@ -1939,6 +1971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122443,
+      "num": 147922,
+      "word": "广州下午3点天黑了",
+      "onboard_time": 1714213698,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118930,
       "num": 118930,
       "word": "日元汇率一度跌至156日元兑1美元",
@@ -2043,6 +2083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109327,
+      "num": 137261,
+      "word": "出生就是孤儿的她也离开了人世",
+      "onboard_time": 1714213757,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109122,
       "num": 109122,
       "word": "猫 就宠你这一回吧",
@@ -2099,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102999,
+      "num": 136038,
+      "word": "看球的不看球的都知道姆巴佩了",
+      "onboard_time": 1714210697,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102230,
       "num": 143732,
       "word": "教育部要求实施学生欺凌防治专项行动",
@@ -2131,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99855,
+      "num": 133061,
+      "word": "张家界为什么挤满了韩国游客",
+      "onboard_time": 1714213698,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 99168,
       "num": 99168,
       "word": "诛仙2鬼厉陆雪琪月下拉扯",
@@ -2153,14 +2217,6 @@
       "onboard_time": 1714129157,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97498,
-      "num": 97498,
-      "word": "看球的不看球的都知道姆巴佩了",
-      "onboard_time": 1714210697,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 97469,
@@ -2379,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55569,
+      "num": 268751,
+      "word": "原来追星可以和喝水一样简单",
+      "onboard_time": 1714213038,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 52746,
       "num": 52746,
       "word": "叫人搬家来了个六十多岁的大爷",
@@ -2481,14 +2545,6 @@
       "onboard_time": 1714164550,
       "rank": 38,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 5989,
-      "num": 110838,
-      "word": "原来追星可以和喝水一样简单",
-      "onboard_time": 1714213038,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 4958,
