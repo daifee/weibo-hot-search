@@ -1,0 +1,410 @@
+{
+  "runTime": 1714203239019,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 865685,
+        "num": 865685,
+        "word": "孙俪嫁给了世界上最好笑的邓超",
+        "onboard_time": 1714195997,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 851628,
+        "num": 851628,
+        "word": "火星哥 歌手2024",
+        "onboard_time": 1714197317,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71630,
+        "num": 738787,
+        "word": "五一出游要密切关注天气情况",
+        "onboard_time": 1714186757,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947579,
+        "num": 738092,
+        "word": "郭碧婷组 三个在冷宫失了智的嫔妃",
+        "onboard_time": 1714198336,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 734835,
+        "num": 734835,
+        "word": "奔跑吧 凯源",
+        "onboard_time": 1714200257,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 631714,
+        "num": 631714,
+        "word": "鹿晗戒碳水很久了",
+        "onboard_time": 1714194378,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378875,
+        "num": 378875,
+        "word": "哈啰顺风车疑中途换车致用户16只猫死亡",
+        "onboard_time": 1714197257,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331356,
+        "num": 331356,
+        "word": "为什么外国人很少吃西瓜",
+        "onboard_time": 1714191377,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 288942,
+        "num": 288942,
+        "word": "小米高管否认雷军被李想锁车里",
+        "onboard_time": 1714192638,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 146218,
+        "num": 286596,
+        "word": "河南夫妇收养的巴基斯坦孤儿长大了",
+        "onboard_time": 1714194679,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730443,
+        "num": 276459,
+        "word": "高圆圆好薄一片",
+        "onboard_time": 1714201277,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516600,
+        "num": 271931,
+        "word": "造谣赵雅芝去世博主道歉",
+        "onboard_time": 1714199837,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450423,
+        "num": 261238,
+        "word": "迪丽热巴蝎子辫",
+        "onboard_time": 1714201217,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259795,
+        "num": 259795,
+        "word": "南昌一小区发生火灾致3死2伤",
+        "onboard_time": 1714198697,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242739,
+        "num": 242739,
+        "word": "彭州地震",
+        "onboard_time": 1714197797,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352478,
+        "num": 242468,
+        "word": "纷玩岛 回流票",
+        "onboard_time": 1714200498,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 311636,
+        "num": 242341,
+        "word": "陈丽君组一公第一",
+        "onboard_time": 1714199477,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241809,
+        "num": 241809,
+        "word": "舞蹈老师踩断学生腿只愿赔5万",
+        "onboard_time": 1714189336,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216236,
+        "num": 216236,
+        "word": "半截身子卷入扶梯女子腿已保住",
+        "onboard_time": 1714198577,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199380,
+        "num": 199380,
+        "word": "微信文件3小时内可撤回",
+        "onboard_time": 1714178897,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 324755,
+        "num": 189846,
+        "word": "长期不吃主食的人后来怎样了",
+        "onboard_time": 1714188436,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300410,
+        "num": 187561,
+        "word": "迪丽热巴 迪满楼",
+        "onboard_time": 1714197618,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261044,
+        "num": 185173,
+        "word": "狐妖月红篇 排播",
+        "onboard_time": 1714198336,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159852,
+        "num": 159852,
+        "word": "经常跑步的人身体会发生什么变化",
+        "onboard_time": 1714199418,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 155030,
+        "num": 155030,
+        "word": "人刚死亡时还能听见声音吗",
+        "onboard_time": 1714174815,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 253524,
+        "num": 154604,
+        "word": "童瑶未修原图",
+        "onboard_time": 1714189097,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231818,
+        "num": 152302,
+        "word": "靳梦佳给了郭碧婷一道光",
+        "onboard_time": 1714202477,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230402,
+        "num": 149721,
+        "word": "陈嘉桦报平安",
+        "onboard_time": 1714200857,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25263,
+        "num": 148956,
+        "word": "蔚来ET7试驾挤满豪华车主",
+        "onboard_time": 1714202538,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 42539,
+        "num": 146772,
+        "word": "佩洛西称美国抗议学生背后是俄罗斯",
+        "onboard_time": 1714178297,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 226513,
+        "num": 144793,
+        "word": "回到那一天演唱会",
+        "onboard_time": 1714191436,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222326,
+        "num": 143308,
+        "word": "戚薇又换了个狗狗包包",
+        "onboard_time": 1714202118,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141551,
+        "num": 141551,
+        "word": "减肥主食有3个黄金等级",
+        "onboard_time": 1714201037,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206620,
+        "num": 140126,
+        "word": "华晨宇问大家都是怎么抢到票的",
+        "onboard_time": 1714202777,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203796,
+        "num": 139739,
+        "word": "严浩翔空降时代少年团超话",
+        "onboard_time": 1714203078,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189181,
+        "num": 137973,
+        "word": "鹿晗说万妮达太真实了",
+        "onboard_time": 1714202597,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135946,
+        "num": 135946,
+        "word": "江苏南通一男子烧烤店门口殴打女子",
+        "onboard_time": 1714202238,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131501,
+        "num": 131501,
+        "word": "詹姆斯杜兰特都要回家了",
+        "onboard_time": 1714197076,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131406,
+        "num": 131406,
+        "word": "灵活就业人员不强制缴纳社保",
+        "onboard_time": 1714196537,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121439,
+        "num": 121439,
+        "word": "王者荣耀 开黑节",
+        "onboard_time": 1714203137,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162426,
+        "num": 121392,
+        "word": "莎莎玛丽退赛",
+        "onboard_time": 1714197919,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159395,
+        "num": 120211,
+        "word": "鬼怪ost中文版",
+        "onboard_time": 1714202958,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152340,
+        "num": 119091,
+        "word": "苗苗猫爪舞慢动作",
+        "onboard_time": 1714194498,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147994,
+        "num": 117688,
+        "word": "张予曦 我给大师上了一课吧",
+        "onboard_time": 1714199297,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139539,
+        "num": 116173,
+        "word": "南方人害怕的台词出现了",
+        "onboard_time": 1714202718,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125003,
+        "num": 115058,
+        "word": "爱奇艺公开排播",
+        "onboard_time": 1714192458,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114537,
+        "num": 114537,
+        "word": "广东人喊人起床李清照附体",
+        "onboard_time": 1714202118,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112418,
+        "num": 112418,
+        "word": "小米汽车48小时收到5000多份简历",
+        "onboard_time": 1714193958,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 103907,
+        "num": 103907,
+        "word": "真让她养到黑猫警长了",
+        "onboard_time": 1714199418,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102177,
+        "num": 102177,
+        "word": "伊犁 像鸟飞往你的旷野",
+        "onboard_time": 1714202897,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国务卿布林肯#"
+    }
+  }
+}

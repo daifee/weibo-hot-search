@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714202108801,
+  "endTime": 1714203239019,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -2171,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 734835,
+      "num": 734835,
+      "word": "奔跑吧 凯源",
+      "onboard_time": 1714200257,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 732699,
       "num": 732699,
       "word": "朱梓骁把流星雨的戏服卖了",
@@ -2209,6 +2217,14 @@
       "onboard_time": 1714189336,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 730443,
+      "num": 276459,
+      "word": "高圆圆好薄一片",
+      "onboard_time": 1714201277,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 729645,
@@ -2441,14 +2457,6 @@
       "onboard_time": 1713708381,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 690582,
-      "num": 690582,
-      "word": "奔跑吧 凯源",
-      "onboard_time": 1714200257,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 689606,
@@ -3819,6 +3827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 516600,
+      "num": 299938,
+      "word": "造谣赵雅芝去世博主道歉",
+      "onboard_time": 1714199837,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515449,
       "num": 515449,
       "word": "台湾4.9级左右地震",
@@ -4020,7 +4036,7 @@
     },
     {
       "raw_hot": 495347,
-      "num": 306609,
+      "num": 378875,
       "word": "哈啰顺风车疑中途换车致用户16只猫死亡",
       "onboard_time": 1714197257,
       "rank": 31,
@@ -4515,14 +4531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 459136,
-      "num": 299938,
-      "word": "造谣赵雅芝去世博主道歉",
-      "onboard_time": 1714199837,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 458503,
       "num": 458503,
       "word": "秦海璐想到十年后的北斗七行哭了",
@@ -4625,6 +4633,14 @@
       "onboard_time": 1713698119,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450423,
+      "num": 261238,
+      "word": "迪丽热巴蝎子辫",
+      "onboard_time": 1714201217,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 449787,
@@ -5979,6 +5995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352478,
+      "num": 242468,
+      "word": "纷玩岛 回流票",
+      "onboard_time": 1714200498,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 352443,
       "num": 350944,
       "word": "花琴 人生易如反掌",
@@ -6401,14 +6425,6 @@
       "onboard_time": 1713839478,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 327357,
-      "num": 262633,
-      "word": "高圆圆好薄一片",
-      "onboard_time": 1714201277,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 327081,
@@ -7275,14 +7291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282980,
-      "num": 161901,
-      "word": "迪丽热巴蝎子辫",
-      "onboard_time": 1714201217,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 282934,
       "num": 254446,
       "word": "周深 我再也不敢随便幽默了",
@@ -7353,14 +7361,6 @@
       "onboard_time": 1714016957,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 280185,
-      "num": 160456,
-      "word": "纷玩岛 回流票",
-      "onboard_time": 1714200498,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 280018,
@@ -8955,6 +8955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231818,
+      "num": 152302,
+      "word": "靳梦佳给了郭碧婷一道光",
+      "onboard_time": 1714202477,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231764,
       "num": 231764,
       "word": "韶关洪水",
@@ -9025,6 +9033,14 @@
       "onboard_time": 1713779057,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230402,
+      "num": 152898,
+      "word": "陈嘉桦报平安",
+      "onboard_time": 1714200857,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 230350,
@@ -9371,6 +9387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222326,
+      "num": 143308,
+      "word": "戚薇又换了个狗狗包包",
+      "onboard_time": 1714202118,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222234,
       "num": 222234,
       "word": "问界新M5价格",
@@ -9609,6 +9633,14 @@
       "onboard_time": 1713746179,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 216236,
+      "num": 216236,
+      "word": "半截身子卷入扶梯女子腿已保住",
+      "onboard_time": 1714198577,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216020,
@@ -10155,6 +10187,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 206620,
+      "num": 140126,
+      "word": "华晨宇问大家都是怎么抢到票的",
+      "onboard_time": 1714202777,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206607,
       "num": 206607,
       "word": "minji预告照",
@@ -10425,6 +10465,14 @@
       "onboard_time": 1713855979,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 203796,
+      "num": 139739,
+      "word": "严浩翔空降时代少年团超话",
+      "onboard_time": 1714203078,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 203558,
@@ -11379,14 +11427,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 194098,
-      "num": 152898,
-      "word": "陈嘉桦报平安",
-      "onboard_time": 1714200857,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194091,
       "num": 194091,
       "word": "惜花芷",
@@ -11945,6 +11985,14 @@
       "onboard_time": 1713871159,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189181,
+      "num": 137973,
+      "word": "鹿晗说万妮达太真实了",
+      "onboard_time": 1714202597,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 189100,
@@ -13619,14 +13667,6 @@
       "category": "游戏,互联网"
     },
     {
-      "raw_hot": 167601,
-      "num": 167601,
-      "word": "半截身子卷入扶梯女子腿已保住",
-      "onboard_time": 1714198577,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167552,
       "num": 167552,
       "word": "陈昊宇偷拍陈丽君",
@@ -14235,6 +14275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159852,
+      "num": 159852,
+      "word": "经常跑步的人身体会发生什么变化",
+      "onboard_time": 1714199418,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 159769,
       "num": 159769,
       "word": "一定要尽早锻炼与人发生冲突的能力",
@@ -14249,6 +14297,14 @@
       "onboard_time": 1714029198,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159395,
+      "num": 120211,
+      "word": "鬼怪ost中文版",
+      "onboard_time": 1714202958,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 159300,
@@ -15867,6 +15923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141551,
+      "num": 141551,
+      "word": "减肥主食有3个黄金等级",
+      "onboard_time": 1714201037,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 141531,
       "num": 141531,
       "word": "郑合惠子好甜",
@@ -16025,6 +16089,14 @@
       "onboard_time": 1713654854,
       "rank": 27,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 139539,
+      "num": 116173,
+      "word": "南方人害怕的台词出现了",
+      "onboard_time": 1714202718,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 139467,
@@ -16369,6 +16441,14 @@
       "onboard_time": 1713784457,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135946,
+      "num": 135946,
+      "word": "江苏南通一男子烧烤店门口殴打女子",
+      "onboard_time": 1714202238,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135925,
@@ -17635,6 +17715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121439,
+      "num": 121439,
+      "word": "王者荣耀 开黑节",
+      "onboard_time": 1714203137,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121413,
       "num": 121413,
       "word": "悬疑剧取景地不用只在东北了",
@@ -18043,6 +18131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114537,
+      "num": 114537,
+      "word": "广东人喊人起床李清照附体",
+      "onboard_time": 1714202118,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114441,
       "num": 114441,
       "word": "Knight我的沙皇也能夺冠了",
@@ -18403,14 +18499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107482,
-      "num": 107482,
-      "word": "减肥主食有3个黄金等级",
-      "onboard_time": 1714201037,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 107182,
       "num": 107182,
       "word": "特斯拉Cybertruck儿童车售价11190元",
@@ -18627,6 +18715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102177,
+      "num": 102177,
+      "word": "伊犁 像鸟飞往你的旷野",
+      "onboard_time": 1714202897,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 101760,
       "num": 101760,
       "word": "近义词cp官宣",
@@ -18833,14 +18929,6 @@
       "onboard_time": 1713937578,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 95554,
-      "num": 95554,
-      "word": "经常跑步的人身体会发生什么变化",
-      "onboard_time": 1714199418,
-      "rank": 46,
-      "category": "运动健身"
     },
     {
       "raw_hot": 94248,
@@ -20160,6 +20248,14 @@
       "word": "蓝山智驾版3项行业之首有多牛",
       "onboard_time": 1714034239,
       "rank": 16,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 25263,
+      "num": 148956,
+      "word": "蔚来ET7试驾挤满豪华车主",
+      "onboard_time": 1714202538,
+      "rank": 28,
       "category": "汽车"
     },
     {
