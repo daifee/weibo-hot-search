@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714252519240,
+  "endTime": 1714253653570,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -77212,7 +77212,7 @@
     },
     {
       "raw_hot": 33635,
-      "num": 29452,
+      "num": 32471,
       "word": "邓超说蔡文静脑子好厉害",
       "onboard_time": 1714244771,
       "rank": 42,
@@ -78403,12 +78403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17723,
+      "num": 17723,
+      "word": "年轻人想赚快钱不用不好意思",
+      "onboard_time": 1714252692,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 17699,
       "num": 182001,
       "word": "临沂的夜夜夜太美了",
       "onboard_time": 1714129219,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17692,
+      "num": 17692,
+      "word": "小龙虾为什么大降价",
+      "onboard_time": 1714251971,
+      "rank": 48,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 17612,
@@ -78579,6 +78595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15486,
+      "num": 17284,
+      "word": "碓冰拓海 一如既往的帅",
+      "onboard_time": 1714249212,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 15059,
       "num": 18240,
       "word": "张雨霏要做世界的蝶后",
@@ -78593,14 +78617,6 @@
       "onboard_time": 1713670218,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14878,
-      "num": 16333,
-      "word": "碓冰拓海 一如既往的帅",
-      "onboard_time": 1714249212,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 14753,
@@ -78713,14 +78729,6 @@
       "onboard_time": 1712087530,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 13246,
-      "num": 15736,
-      "word": "小龙虾为什么大降价",
-      "onboard_time": 1714251971,
-      "rank": 48,
-      "category": "美食,财经"
     },
     {
       "raw_hot": 13202,
