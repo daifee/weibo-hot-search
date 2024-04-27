@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714253653570,
+  "endTime": 1714256208639,
   "band_list": [
     {
       "raw_hot": 1259200,
@@ -307,6 +307,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133513,
+      "num": 133513,
+      "word": "牛仔裤正在被抛弃吗",
+      "onboard_time": 1714226239,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 131368,
       "num": 131368,
       "word": "五一出行三件套",
@@ -419,14 +427,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 82209,
-      "num": 82209,
-      "word": "牛仔裤正在被抛弃吗",
-      "onboard_time": 1714226239,
-      "rank": 49,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 81765,
       "num": 78032,
       "word": "苗苗一公舞台",
@@ -483,6 +483,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48585,
+      "num": 34551,
+      "word": "外国游客3个月爆买1.75万亿日元",
+      "onboard_time": 1714253951,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 47726,
+      "num": 47726,
+      "word": "邓超说蔡文静脑子好厉害",
+      "onboard_time": 1714244771,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 45977,
       "num": 70585,
       "word": "幸福四件套",
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 45867,
-      "num": 36110,
+      "num": 38574,
       "word": "广东最大的水库开闸泄洪",
       "onboard_time": 1714244051,
       "rank": 35,
@@ -523,12 +539,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 33635,
-      "num": 32471,
-      "word": "邓超说蔡文静脑子好厉害",
-      "onboard_time": 1714244771,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 30958,
+      "num": 30958,
+      "word": "年轻人想赚快钱不用不好意思",
+      "onboard_time": 1714252692,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 27949,
@@ -539,24 +555,24 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17723,
-      "num": 17723,
-      "word": "年轻人想赚快钱不用不好意思",
-      "onboard_time": 1714252692,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 17692,
-      "num": 17692,
+      "raw_hot": 25699,
+      "num": 25699,
       "word": "小龙虾为什么大降价",
       "onboard_time": 1714251971,
       "rank": 48,
       "category": "美食,财经"
     },
     {
-      "raw_hot": 15486,
-      "num": 17284,
+      "raw_hot": 18582,
+      "num": 20486,
+      "word": "第一次见这么肥美的大熊猫",
+      "onboard_time": 1714246692,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17468,
+      "num": 20469,
       "word": "碓冰拓海 一如既往的帅",
       "onboard_time": 1714249212,
       "rank": 49,

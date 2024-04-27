@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714253653570,
+  "endTime": 1714256208639,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -76203,6 +76203,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 48585,
+      "num": 34551,
+      "word": "外国游客3个月爆买1.75万亿日元",
+      "onboard_time": 1714253951,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 48474,
       "num": 48474,
       "word": "许凯的罗伯特叫许凯猪包",
@@ -76257,6 +76265,14 @@
       "onboard_time": 1713510438,
       "rank": 35,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 47726,
+      "num": 47726,
+      "word": "邓超说蔡文静脑子好厉害",
+      "onboard_time": 1714244771,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 47548,
@@ -76372,7 +76388,7 @@
     },
     {
       "raw_hot": 45867,
-      "num": 36110,
+      "num": 38574,
       "word": "广东最大的水库开闸泄洪",
       "onboard_time": 1714244051,
       "rank": 35,
@@ -77211,14 +77227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33635,
-      "num": 32471,
-      "word": "邓超说蔡文静脑子好厉害",
-      "onboard_time": 1714244771,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 33415,
       "num": 167876,
       "word": "Joker回来了",
@@ -77385,6 +77393,14 @@
       "onboard_time": 1713288613,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30958,
+      "num": 30958,
+      "word": "年轻人想赚快钱不用不好意思",
+      "onboard_time": 1714252692,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 30854,
@@ -77761,6 +77777,14 @@
       "onboard_time": 1713204551,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25699,
+      "num": 25699,
+      "word": "小龙虾为什么大降价",
+      "onboard_time": 1714251971,
+      "rank": 48,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 25511,
@@ -78355,6 +78379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 18582,
+      "num": 20486,
+      "word": "第一次见这么肥美的大熊猫",
+      "onboard_time": 1714246692,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18570,
       "num": 21927,
       "word": "徐海乔宣璐谈林更新",
@@ -78403,28 +78435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17723,
-      "num": 17723,
-      "word": "年轻人想赚快钱不用不好意思",
-      "onboard_time": 1714252692,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 17699,
       "num": 182001,
       "word": "临沂的夜夜夜太美了",
       "onboard_time": 1714129219,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17692,
-      "num": 17692,
-      "word": "小龙虾为什么大降价",
-      "onboard_time": 1714251971,
-      "rank": 48,
-      "category": "美食,财经"
     },
     {
       "raw_hot": 17612,
@@ -78449,6 +78465,14 @@
       "onboard_time": 1713899171,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17468,
+      "num": 20469,
+      "word": "碓冰拓海 一如既往的帅",
+      "onboard_time": 1714249212,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 17410,
@@ -78593,14 +78617,6 @@
       "onboard_time": 1712348291,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15486,
-      "num": 17284,
-      "word": "碓冰拓海 一如既往的帅",
-      "onboard_time": 1714249212,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 15059,
