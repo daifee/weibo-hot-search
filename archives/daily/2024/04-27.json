@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714195016861,
+  "endTime": 1714196059497,
   "band_list": [
     {
       "raw_hot": 1356945,
@@ -17,6 +17,14 @@
       "onboard_time": 1714178897,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1206080,
+      "num": 1206080,
+      "word": "鹿晗戒碳水很久了",
+      "onboard_time": 1714194378,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 1139246,
@@ -59,8 +67,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 801157,
-      "num": 801157,
+      "raw_hot": 862077,
+      "num": 862077,
       "word": "为什么外国人很少吃西瓜",
       "onboard_time": 1714191377,
       "rank": 34,
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 723242,
+      "num": 723242,
+      "word": "小米高管否认雷军被李想锁车里",
+      "onboard_time": 1714192638,
+      "rank": 3,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 714002,
       "num": 655035,
       "word": "辅警杀害新婚妻子被判死缓",
@@ -115,12 +131,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 666421,
-      "num": 666421,
-      "word": "小米高管否认雷军被李想锁车里",
-      "onboard_time": 1714192638,
-      "rank": 3,
-      "category": "汽车"
+      "raw_hot": 670711,
+      "num": 670711,
+      "word": "爱奇艺公开排播",
+      "onboard_time": 1714192458,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 653167,
@@ -129,14 +145,6 @@
       "onboard_time": 1714175835,
       "rank": 6,
       "category": "财经"
-    },
-    {
-      "raw_hot": 652574,
-      "num": 395035,
-      "word": "鹿晗戒碳水很久了",
-      "onboard_time": 1714194378,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 630460,
@@ -161,14 +169,6 @@
       "onboard_time": 1714174876,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 590417,
-      "num": 590417,
-      "word": "爱奇艺公开排播",
-      "onboard_time": 1714192458,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 566961,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 467641,
-      "num": 253083,
+      "num": 273638,
       "word": "误以为很增肥实际巨减脂的食物",
       "onboard_time": 1714174336,
       "rank": 30,
@@ -323,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 387277,
+      "num": 387277,
+      "word": "乘风2024",
+      "onboard_time": 1714193958,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386655,
       "num": 386655,
       "word": "以为张予曦参加维密了",
@@ -345,6 +353,14 @@
       "onboard_time": 1714190657,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370133,
+      "num": 370133,
+      "word": "周扬青随时随地大小练",
+      "onboard_time": 1714192697,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 365490,
@@ -387,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 352085,
+      "num": 443297,
+      "word": "长春3人指使烈性犬咬死流浪猫被抓",
+      "onboard_time": 1714192037,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351649,
       "num": 425577,
       "word": "英伟达市值一夜大涨9246亿",
@@ -411,14 +435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 335589,
-      "num": 335589,
-      "word": "周扬青随时随地大小练",
-      "onboard_time": 1714192697,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 331796,
       "num": 331796,
       "word": "赵小童 三号房爬进一只小龙虾",
@@ -433,14 +449,6 @@
       "onboard_time": 1714135938,
       "rank": 15,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 313393,
-      "num": 430310,
-      "word": "长春3人指使烈性犬咬死流浪猫被抓",
-      "onboard_time": 1714192037,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310312,
@@ -515,6 +523,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 273302,
+      "num": 273302,
+      "word": "苗苗猫爪舞慢动作",
+      "onboard_time": 1714194498,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273079,
       "num": 273079,
       "word": "Jennie第一次cha",
@@ -547,12 +563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255461,
+      "num": 255461,
+      "word": "太阳 裁判",
+      "onboard_time": 1714195278,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254696,
       "num": 194184,
       "word": "IVE念经曲",
       "onboard_time": 1714188137,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 253892,
+      "num": 293261,
+      "word": "小米汽车48小时收到5000多份简历",
+      "onboard_time": 1714193958,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 252305,
@@ -603,20 +635,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224205,
+      "num": 224205,
+      "word": "NATURE宣布解散",
+      "onboard_time": 1714192276,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223574,
       "num": 223574,
       "word": "gidle御用化妆师的上妆手法",
       "onboard_time": 1714145118,
       "rank": 20,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 221763,
-      "num": 172573,
-      "word": "NATURE宣布解散",
-      "onboard_time": 1714192276,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 214683,
@@ -675,12 +707,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203654,
-      "num": 203654,
-      "word": "苗苗猫爪舞慢动作",
-      "onboard_time": 1714194498,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 209363,
+      "num": 209363,
+      "word": "enhypen表演总监力挺闵熙珍",
+      "onboard_time": 1714194797,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 202279,
@@ -699,22 +731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200711,
-      "num": 293261,
-      "word": "小米汽车48小时收到5000多份简历",
-      "onboard_time": 1714193958,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 200291,
-      "num": 200291,
-      "word": "乘风2024",
-      "onboard_time": 1714193958,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200267,
       "num": 200267,
       "word": "每周最多减重2斤最适宜",
@@ -729,6 +745,14 @@
       "onboard_time": 1714181777,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 198776,
+      "num": 198776,
+      "word": "邓超陈赫鹿晗无惧鲱鱼罐头",
+      "onboard_time": 1714195637,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 198491,
@@ -923,14 +947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 150644,
-      "num": 150644,
-      "word": "enhypen表演总监力挺闵熙珍",
-      "onboard_time": 1714194797,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147696,
       "num": 147696,
       "word": "你好星期六全员找旅游搭子",
@@ -977,6 +993,14 @@
       "onboard_time": 1714140260,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142514,
+      "num": 407640,
+      "word": "河南夫妇收养的巴基斯坦孤儿长大了",
+      "onboard_time": 1714194679,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142115,
@@ -1187,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117792,
+      "num": 117792,
+      "word": "孙俪嫁给了世界上最好笑的邓超",
+      "onboard_time": 1714195997,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116996,
       "num": 116996,
       "word": "就这个王者荣耀爽",
@@ -1195,8 +1227,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115316,
+      "num": 148736,
+      "word": "Ning谈TheShy除三害",
+      "onboard_time": 1714195878,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114902,
-      "num": 709880,
+      "num": 832489,
       "word": "五一出游要密切关注天气情况",
       "onboard_time": 1714186757,
       "rank": 2,
@@ -1339,6 +1379,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 98562,
+      "num": 98562,
+      "word": "浙江事业单位考试",
+      "onboard_time": 1714195459,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 98228,
       "num": 96110,
       "word": "恋综 合约情侣",
@@ -1385,6 +1433,14 @@
       "onboard_time": 1714171633,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89639,
+      "num": 98312,
+      "word": "吴艳妮聊带妆比赛",
+      "onboard_time": 1714195578,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 88984,
@@ -1448,14 +1504,6 @@
       "word": "江西通报小学生在校坠楼身亡",
       "onboard_time": 1714131977,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72689,
-      "num": 407640,
-      "word": "河南夫妇收养的巴基斯坦孤儿长大了",
-      "onboard_time": 1714194679,
-      "rank": 9,
       "category": "社会新闻"
     },
     {

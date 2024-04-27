@@ -1,0 +1,410 @@
+{
+  "runTime": 1714196059497,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1206080,
+        "num": 1206080,
+        "word": "鹿晗戒碳水很久了",
+        "onboard_time": 1714194378,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 862077,
+        "num": 862077,
+        "word": "为什么外国人很少吃西瓜",
+        "onboard_time": 1714191377,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 88281,
+        "num": 832489,
+        "word": "五一出游要密切关注天气情况",
+        "onboard_time": 1714186757,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811192,
+        "num": 811192,
+        "word": "童瑶未修原图",
+        "onboard_time": 1714189097,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 723242,
+        "num": 723242,
+        "word": "小米高管否认雷军被李想锁车里",
+        "onboard_time": 1714192638,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 670711,
+        "num": 670711,
+        "word": "爱奇艺公开排播",
+        "onboard_time": 1714192458,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480976,
+        "num": 480976,
+        "word": "微信文件3小时内可撤回",
+        "onboard_time": 1714178897,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 352085,
+        "num": 443297,
+        "word": "长春3人指使烈性犬咬死流浪猫被抓",
+        "onboard_time": 1714192037,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425485,
+        "num": 425485,
+        "word": "余华回应微信头像",
+        "onboard_time": 1714188556,
+        "rank": 8,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 142514,
+        "num": 388534,
+        "word": "河南夫妇收养的巴基斯坦孤儿长大了",
+        "onboard_time": 1714194679,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609042,
+        "num": 388321,
+        "word": "林依晨 圣母婊由衷喜悦与感激",
+        "onboard_time": 1714186036,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561500,
+        "num": 388204,
+        "word": "舞蹈老师踩断学生腿只愿赔5万",
+        "onboard_time": 1714189336,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387277,
+        "num": 387277,
+        "word": "乘风2024",
+        "onboard_time": 1714193958,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370133,
+        "num": 370133,
+        "word": "周扬青随时随地大小练",
+        "onboard_time": 1714192697,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368967,
+        "num": 368967,
+        "word": "找到朱丹吃张颂文醋的原因了",
+        "onboard_time": 1714191017,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366566,
+        "num": 366566,
+        "word": "邓超谢谢不用了",
+        "onboard_time": 1714190777,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326936,
+        "num": 326936,
+        "word": "以为张予曦参加维密了",
+        "onboard_time": 1714189877,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322533,
+        "num": 322533,
+        "word": "人刚死亡时还能听见声音吗",
+        "onboard_time": 1714174815,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 308850,
+        "num": 308850,
+        "word": "车银优扣子崩开了",
+        "onboard_time": 1714181237,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214056,
+        "num": 286587,
+        "word": "编者按",
+        "onboard_time": 1714190657,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 588969,
+        "num": 285677,
+        "word": "长期不吃主食的人后来怎样了",
+        "onboard_time": 1714188436,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 322887,
+        "num": 285019,
+        "word": "鹿晗被陈卓璇吓到了",
+        "onboard_time": 1714190777,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279613,
+        "num": 279613,
+        "word": "真维斯 王一博",
+        "onboard_time": 1714190657,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253892,
+        "num": 274073,
+        "word": "小米汽车48小时收到5000多份简历",
+        "onboard_time": 1714193958,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 136608,
+        "num": 273638,
+        "word": "误以为很增肥实际巨减脂的食物",
+        "onboard_time": 1714174336,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 273302,
+        "num": 273302,
+        "word": "苗苗猫爪舞慢动作",
+        "onboard_time": 1714194498,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257598,
+        "num": 257598,
+        "word": "迪丽热巴一面镜子七套造型",
+        "onboard_time": 1714188796,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134593,
+        "num": 257088,
+        "word": "中国资产全面大涨",
+        "onboard_time": 1714186098,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110285,
+        "num": 256808,
+        "word": "欧文太强了",
+        "onboard_time": 1714186996,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90775,
+        "num": 256384,
+        "word": "佩洛西称美国抗议学生背后是俄罗斯",
+        "onboard_time": 1714178297,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 92917,
+        "num": 255814,
+        "word": "马凡舒自称小米SU7颜粉",
+        "onboard_time": 1714190718,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 255461,
+        "num": 255461,
+        "word": "太阳 裁判",
+        "onboard_time": 1714195278,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247756,
+        "num": 247756,
+        "word": "林更新回复给他和赵丽颖求姻缘的网友",
+        "onboard_time": 1714174876,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224205,
+        "num": 224205,
+        "word": "NATURE宣布解散",
+        "onboard_time": 1714192276,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217768,
+        "num": 217768,
+        "word": "水龙吟阵容官宣",
+        "onboard_time": 1714182736,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209363,
+        "num": 209363,
+        "word": "enhypen表演总监力挺闵熙珍",
+        "onboard_time": 1714194797,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198776,
+        "num": 198776,
+        "word": "邓超陈赫鹿晗无惧鲱鱼罐头",
+        "onboard_time": 1714195637,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149659,
+        "num": 149659,
+        "word": "芒果又押错宝了吗",
+        "onboard_time": 1714140920,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126716,
+        "num": 149108,
+        "word": "有一瞬间觉得基因真的很不公平",
+        "onboard_time": 1714190358,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115316,
+        "num": 148736,
+        "word": "Ning谈TheShy除三害",
+        "onboard_time": 1714195878,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148717,
+        "num": 148717,
+        "word": "范丞丞cue苗苗姐",
+        "onboard_time": 1714190477,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147714,
+        "num": 147714,
+        "word": "赵丽颖演技",
+        "onboard_time": 1714178537,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144692,
+        "num": 144692,
+        "word": "IVE念经曲",
+        "onboard_time": 1714188137,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111872,
+        "num": 134148,
+        "word": "minji 镜头",
+        "onboard_time": 1714180157,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117792,
+        "num": 117792,
+        "word": "孙俪嫁给了世界上最好笑的邓超",
+        "onboard_time": 1714195997,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100962,
+        "num": 100962,
+        "word": "余华给女学生说结婚要找江浙男",
+        "onboard_time": 1714186636,
+        "rank": 45,
+        "category": "读书作家,社会新闻"
+      },
+      {
+        "raw_hot": 99277,
+        "num": 99277,
+        "word": "第五人格",
+        "onboard_time": 1714194137,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98562,
+        "num": 98562,
+        "word": "浙江事业单位考试",
+        "onboard_time": 1714195459,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89639,
+        "num": 98312,
+        "word": "吴艳妮聊带妆比赛",
+        "onboard_time": 1714195578,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89584,
+        "num": 98077,
+        "word": "长春一小区内深夜斗狗猎杀猫咪",
+        "onboard_time": 1714191197,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国务卿布林肯#"
+    }
+  }
+}

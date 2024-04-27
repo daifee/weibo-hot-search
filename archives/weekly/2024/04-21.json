@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714195016861,
+  "endTime": 1714196059497,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -827,6 +827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1206080,
+      "num": 1206080,
+      "word": "鹿晗戒碳水很久了",
+      "onboard_time": 1714194378,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1205758,
       "num": 1205758,
       "word": "中国近一半大城市正在下沉",
@@ -1619,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 862077,
+      "num": 862077,
+      "word": "为什么外国人很少吃西瓜",
+      "onboard_time": 1714191377,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 861610,
       "num": 861610,
       "word": "罗云熙演唱会票价1680",
@@ -1897,14 +1913,6 @@
       "onboard_time": 1713705380,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 801157,
-      "num": 801157,
-      "word": "为什么外国人很少吃西瓜",
-      "onboard_time": 1714191377,
-      "rank": 34,
-      "category": "科学科普"
     },
     {
       "raw_hot": 800872,
@@ -2235,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 723242,
+      "num": 723242,
+      "word": "小米高管否认雷军被李想锁车里",
+      "onboard_time": 1714192638,
+      "rank": 3,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 722028,
       "num": 472485,
       "word": "乔丹儿子皮蓬前妻开放关系",
@@ -2547,6 +2563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 670711,
+      "num": 670711,
+      "word": "爱奇艺公开排播",
+      "onboard_time": 1714192458,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 670650,
       "num": 670650,
       "word": "女生报警称遭同学脑电波窃取隐私",
@@ -2577,14 +2601,6 @@
       "onboard_time": 1713782058,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 666421,
-      "num": 666421,
-      "word": "小米高管否认雷军被李想锁车里",
-      "onboard_time": 1714192638,
-      "rank": 3,
-      "category": "汽车"
     },
     {
       "raw_hot": 666294,
@@ -2673,14 +2689,6 @@
       "onboard_time": 1714175835,
       "rank": 6,
       "category": "财经"
-    },
-    {
-      "raw_hot": 652574,
-      "num": 395035,
-      "word": "鹿晗戒碳水很久了",
-      "onboard_time": 1714194378,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 648699,
@@ -3105,14 +3113,6 @@
       "onboard_time": 1714135159,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 590417,
-      "num": 590417,
-      "word": "爱奇艺公开排播",
-      "onboard_time": 1714192458,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 590199,
@@ -4324,7 +4324,7 @@
     },
     {
       "raw_hot": 467641,
-      "num": 253083,
+      "num": 273638,
       "word": "误以为很增肥实际巨减脂的食物",
       "onboard_time": 1714174336,
       "rank": 30,
@@ -5443,6 +5443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 387277,
+      "num": 387277,
+      "word": "乘风2024",
+      "onboard_time": 1714193958,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386735,
       "num": 386735,
       "word": "papi酱 莎士比亚四大喜剧",
@@ -5633,6 +5641,14 @@
       "onboard_time": 1714125857,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 370133,
+      "num": 370133,
+      "word": "周扬青随时随地大小练",
+      "onboard_time": 1714192697,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 369780,
@@ -5881,6 +5897,14 @@
       "onboard_time": 1714053919,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 352085,
+      "num": 443297,
+      "word": "长春3人指使烈性犬咬死流浪猫被抓",
+      "onboard_time": 1714192037,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351649,
@@ -6152,14 +6176,6 @@
       "word": "吴奇隆录综艺崩溃",
       "onboard_time": 1714095497,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 335589,
-      "num": 335589,
-      "word": "周扬青随时随地大小练",
-      "onboard_time": 1714192697,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -6473,14 +6489,6 @@
       "onboard_time": 1713688039,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313393,
-      "num": 430310,
-      "word": "长春3人指使烈性犬咬死流浪猫被抓",
-      "onboard_time": 1714192037,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312851,
@@ -7371,6 +7379,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 273302,
+      "num": 273302,
+      "word": "苗苗猫爪舞慢动作",
+      "onboard_time": 1714194498,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273057,
       "num": 273057,
       "word": "黎深月卡",
@@ -7867,6 +7883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255461,
+      "num": 255461,
+      "word": "太阳 裁判",
+      "onboard_time": 1714195278,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254696,
       "num": 194184,
       "word": "IVE念经曲",
@@ -7905,6 +7929,14 @@
       "onboard_time": 1713844879,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253892,
+      "num": 293261,
+      "word": "小米汽车48小时收到5000多份简历",
+      "onboard_time": 1714193958,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 253725,
@@ -9139,6 +9171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224205,
+      "num": 224205,
+      "word": "NATURE宣布解散",
+      "onboard_time": 1714192276,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224167,
       "num": 224167,
       "word": "尚雯婕 语言可以六国人很难多记一个",
@@ -9225,14 +9265,6 @@
       "onboard_time": 1713781998,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221763,
-      "num": 172573,
-      "word": "NATURE宣布解散",
-      "onboard_time": 1714192276,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 221692,
@@ -9787,6 +9819,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 209363,
+      "num": 209363,
+      "word": "enhypen表演总监力挺闵熙珍",
+      "onboard_time": 1714194797,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209331,
       "num": 209331,
       "word": "罗伯特说杨幂一出马就是女王范儿",
@@ -10235,14 +10275,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 203654,
-      "num": 203654,
-      "word": "苗苗猫爪舞慢动作",
-      "onboard_time": 1714194498,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203558,
       "num": 203558,
       "word": "罗云熙杀青路透",
@@ -10563,14 +10595,6 @@
       "category": "国内时政,科学科普"
     },
     {
-      "raw_hot": 200711,
-      "num": 293261,
-      "word": "小米汽车48小时收到5000多份简历",
-      "onboard_time": 1714193958,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 200685,
       "num": 200685,
       "word": "周鸿祎否认针对李彦宏",
@@ -10609,14 +10633,6 @@
       "onboard_time": 1713689958,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 200291,
-      "num": 200291,
-      "word": "乘风2024",
-      "onboard_time": 1714193958,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 200267,
@@ -10737,6 +10753,14 @@
       "onboard_time": 1713705741,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198776,
+      "num": 198776,
+      "word": "邓超陈赫鹿晗无惧鲱鱼罐头",
+      "onboard_time": 1714195637,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 198742,
@@ -14747,14 +14771,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 150644,
-      "num": 150644,
-      "word": "enhypen表演总监力挺闵熙珍",
-      "onboard_time": 1714194797,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150552,
       "num": 150552,
       "word": "我的导忘记了是我的导",
@@ -15513,6 +15529,14 @@
       "onboard_time": 1713922157,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142514,
+      "num": 407640,
+      "word": "河南夫妇收养的巴基斯坦孤儿长大了",
+      "onboard_time": 1714194679,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142483,
@@ -17547,6 +17571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117792,
+      "num": 117792,
+      "word": "孙俪嫁给了世界上最好笑的邓超",
+      "onboard_time": 1714195997,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117683,
       "num": 424141,
       "word": "在奔驰中超越奔驰",
@@ -17683,6 +17715,14 @@
       "category": "美妆,财经"
     },
     {
+      "raw_hot": 115316,
+      "num": 148736,
+      "word": "Ning谈TheShy除三害",
+      "onboard_time": 1714195878,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115265,
       "num": 115265,
       "word": "湖南失踪15岁男孩遗体已找到",
@@ -17716,7 +17756,7 @@
     },
     {
       "raw_hot": 114902,
-      "num": 709880,
+      "num": 832489,
       "word": "五一出游要密切关注天气情况",
       "onboard_time": 1714186757,
       "rank": 2,
@@ -18443,6 +18483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98562,
+      "num": 98562,
+      "word": "浙江事业单位考试",
+      "onboard_time": 1714195459,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 97889,
       "num": 97889,
       "word": "翟潇闻体态",
@@ -18561,6 +18609,14 @@
       "onboard_time": 1714171633,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89639,
+      "num": 98312,
+      "word": "吴艳妮聊带妆比赛",
+      "onboard_time": 1714195578,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 89364,
@@ -18825,14 +18881,6 @@
       "onboard_time": 1713620840,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72689,
-      "num": 407640,
-      "word": "河南夫妇收养的巴基斯坦孤儿长大了",
-      "onboard_time": 1714194679,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72668,

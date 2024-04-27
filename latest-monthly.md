@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/27 13:16:56
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/27 13:34:19
 </p>
 </blockquote>
 <p>
@@ -2805,6 +2805,12 @@ LV大秀（热度：1247571）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%88%92%E7%A2%B3%E6%B0%B4%E5%BE%88%E4%B9%85%E4%BA%86%23" target="weibo">
+鹿晗戒碳水很久了（热度：1206080）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%B8%80%E5%8D%8A%E5%A4%A7%E5%9F%8E%E5%B8%82%E6%AD%A3%E5%9C%A8%E4%B8%8B%E6%B2%89%23" target="weibo">
 中国近一半大城市正在下沉（热度：1205758）
 </a>
@@ -5313,6 +5319,12 @@ ZARA大量粉丝紧急扫货（热度：865085）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%BE%88%E5%B0%91%E5%90%83%E8%A5%BF%E7%93%9C%23" target="weibo">
+为什么外国人很少吃西瓜（热度：862077）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B71680%23" target="weibo">
 罗云熙演唱会票价1680（热度：861610）
 </a>
@@ -5999,18 +6011,6 @@ TFBOYS文案什么意思（热度：811913）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%A3%E5%A8%A3%E7%AC%AC%E5%85%AB%E5%90%8D%E5%87%BA%E9%81%93%23" target="weibo">
 欧阳娣娣第八名出道（热度：807130）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E9%87%8D%E5%BA%86%E4%B8%80%E8%80%81%E5%A4%AA%E8%A2%AB%E6%8C%96%E6%8E%98%E6%9C%BA%E5%BD%93%E8%A1%97%E7%A2%BE%E5%8E%8B%E8%BA%AB%E4%BA%A1%23" target="weibo">
-网传重庆一老太被挖掘机当街碾压身亡（热度：807074）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E8%81%8C%E4%B8%9A%E9%97%AD%E5%BA%97%E4%BA%BA%23" target="weibo">
-央视曝光职业闭店人（热度：806864）
 </a>
 </li>
 
