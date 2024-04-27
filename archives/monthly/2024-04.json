@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714250076052,
+  "endTime": 1714252519240,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -77212,7 +77212,7 @@
     },
     {
       "raw_hot": 33635,
-      "num": 29100,
+      "num": 29452,
       "word": "邓超说蔡文静脑子好厉害",
       "onboard_time": 1714244771,
       "rank": 42,
@@ -78595,6 +78595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14878,
+      "num": 16333,
+      "word": "碓冰拓海 一如既往的帅",
+      "onboard_time": 1714249212,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 14753,
       "num": 15076,
       "word": "深宅进阶录",
@@ -78641,14 +78649,6 @@
       "onboard_time": 1712261771,
       "rank": 49,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 13874,
-      "num": 16333,
-      "word": "碓冰拓海 一如既往的帅",
-      "onboard_time": 1714249212,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 13822,
@@ -78713,6 +78713,14 @@
       "onboard_time": 1712087530,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 13246,
+      "num": 15736,
+      "word": "小龙虾为什么大降价",
+      "onboard_time": 1714251971,
+      "rank": 48,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 13202,
