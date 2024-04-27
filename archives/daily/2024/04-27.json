@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714199739576,
+  "endTime": 1714202108801,
   "band_list": [
     {
       "raw_hot": 1356945,
@@ -59,12 +59,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 966663,
+      "num": 838357,
+      "word": "郭碧婷组 三个在冷宫失了智的嫔妃",
+      "onboard_time": 1714198336,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 926800,
       "num": 926800,
       "word": "童瑶未修原图",
       "onboard_time": 1714189097,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 907916,
+      "num": 307786,
+      "word": "美国要求禁止日韩荷工程师为中企维修芯片制造设备",
+      "onboard_time": 1714198637,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 897645,
@@ -147,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 690582,
+      "num": 690582,
+      "word": "奔跑吧 凯源",
+      "onboard_time": 1714200257,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 670711,
       "num": 670711,
       "word": "爱奇艺公开排播",
@@ -185,14 +209,6 @@
       "onboard_time": 1714174876,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 596999,
-      "num": 226082,
-      "word": "郭碧婷组 三个在冷宫失了智的嫔妃",
-      "onboard_time": 1714198336,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 592147,
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495347,
+      "num": 306609,
+      "word": "哈啰顺风车疑中途换车致用户16只猫死亡",
+      "onboard_time": 1714197257,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494061,
       "num": 367996,
       "word": "迪丽热巴 迪满楼",
@@ -289,6 +313,14 @@
       "onboard_time": 1714182497,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 459136,
+      "num": 299938,
+      "word": "造谣赵雅芝去世博主道歉",
+      "onboard_time": 1714199837,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 446982,
@@ -353,6 +385,14 @@
       "onboard_time": 1714128618,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392201,
+      "num": 282881,
+      "word": "陈丽君组一公第一",
+      "onboard_time": 1714199477,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 391993,
@@ -491,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327357,
+      "num": 262633,
+      "word": "高圆圆好薄一片",
+      "onboard_time": 1714201277,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321204,
       "num": 321204,
       "word": "美国去死宣传册疯传美高校",
@@ -513,14 +561,6 @@
       "onboard_time": 1714153992,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 307786,
-      "num": 307786,
-      "word": "美国要求禁止日韩荷工程师为中企维修芯片制造设备",
-      "onboard_time": 1714198637,
-      "rank": 32,
-      "category": "国外时政"
     },
     {
       "raw_hot": 305101,
@@ -547,12 +587,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297036,
-      "num": 297036,
-      "word": "哈啰顺风车疑中途换车致用户16只猫死亡",
-      "onboard_time": 1714197257,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 298344,
+      "num": 210039,
+      "word": "狐妖月红篇 排播",
+      "onboard_time": 1714198336,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 295225,
@@ -587,12 +627,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282980,
+      "num": 161901,
+      "word": "迪丽热巴蝎子辫",
+      "onboard_time": 1714201217,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 280798,
       "num": 280798,
       "word": "发明邓超的人真是个天才",
       "onboard_time": 1714157532,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280185,
+      "num": 160456,
+      "word": "纷玩岛 回流票",
+      "onboard_time": 1714200498,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 280018,
@@ -627,6 +683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 259800,
+      "num": 259800,
+      "word": "南昌一小区发生火灾致3死2伤",
+      "onboard_time": 1714198697,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256785,
       "num": 256785,
       "word": "金玟庭晒Jennie联名独角兽",
@@ -649,14 +713,6 @@
       "onboard_time": 1714188137,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 254159,
-      "num": 210039,
-      "word": "狐妖月红篇 排播",
-      "onboard_time": 1714198336,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 253892,
@@ -737,14 +793,6 @@
       "onboard_time": 1714145118,
       "rank": 20,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 222579,
-      "num": 209853,
-      "word": "陈丽君组一公第一",
-      "onboard_time": 1714199477,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 214683,
@@ -907,6 +955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 194098,
+      "num": 152898,
+      "word": "陈嘉桦报平安",
+      "onboard_time": 1714200857,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193128,
       "num": 193128,
       "word": "雷军称小米正在申请3万件专利",
@@ -947,6 +1003,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 188607,
+      "num": 152176,
+      "word": "刘忻一公就这么颠覆",
+      "onboard_time": 1714201037,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185813,
       "num": 185813,
       "word": "SANA开球",
@@ -961,14 +1025,6 @@
       "onboard_time": 1714143499,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 183873,
-      "num": 199636,
-      "word": "南昌一小区发生火灾致3死2伤",
-      "onboard_time": 1714198697,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182269,
@@ -1035,6 +1091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 167601,
+      "num": 167601,
+      "word": "半截身子卷入扶梯女子腿已保住",
+      "onboard_time": 1714198577,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165954,
       "num": 165954,
       "word": "李溪芮女团范儿",
@@ -1091,6 +1155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152945,
+      "num": 104330,
+      "word": "郭书瑶rap",
+      "onboard_time": 1714201277,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152128,
       "num": 188066,
       "word": "有一瞬间觉得基因真的很不公平",
@@ -1137,14 +1209,6 @@
       "onboard_time": 1714196776,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146207,
-      "num": 146207,
-      "word": "半截身子卷入扶梯女子腿已保住",
-      "onboard_time": 1714198577,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146044,
@@ -1233,6 +1297,14 @@
       "onboard_time": 1714177518,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 136755,
+      "num": 136755,
+      "word": "北京车展从车模到网红CEO互动",
+      "onboard_time": 1714201157,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 134316,
@@ -1499,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107482,
+      "num": 107482,
+      "word": "减肥主食有3个黄金等级",
+      "onboard_time": 1714201037,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 104975,
       "num": 104975,
       "word": "Bubble Gum",
@@ -1587,6 +1667,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97469,
+      "num": 97469,
+      "word": "KSG对战DRG",
+      "onboard_time": 1714200738,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 97128,
+      "num": 97128,
+      "word": "睡着后总在凌晨醒来或因这5种病",
+      "onboard_time": 1714200857,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 96314,
       "num": 96314,
       "word": "美国男子强奸14岁少女被判物理阉割",
@@ -1603,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95554,
+      "num": 95554,
+      "word": "经常跑步的人身体会发生什么变化",
+      "onboard_time": 1714199418,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 93460,
       "num": 113589,
       "word": "森林狼vs太阳",
@@ -1617,6 +1721,14 @@
       "onboard_time": 1714123098,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92213,
+      "num": 92213,
+      "word": "当流浪狗发现我已经有狗时",
+      "onboard_time": 1714199598,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 91271,
