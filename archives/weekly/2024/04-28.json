@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714239255707,
+  "endTime": 1714242062116,
   "band_list": [
     {
       "raw_hot": 1259200,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324885,
+      "num": 91889,
+      "word": "每天多睡1小时能有多大好处",
+      "onboard_time": 1714236316,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 320228,
       "num": 320228,
       "word": "翟潇闻难哄出妆",
@@ -121,14 +129,6 @@
       "onboard_time": 1714224318,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 266522,
-      "num": 91889,
-      "word": "每天多睡1小时能有多大好处",
-      "onboard_time": 1714236316,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 251712,
@@ -315,19 +315,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125604,
+      "num": 125604,
+      "word": "广州天气",
+      "onboard_time": 1714230861,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124578,
       "num": 124578,
       "word": "广州龙卷风",
       "onboard_time": 1714207338,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116773,
-      "num": 116773,
-      "word": "广州天气",
-      "onboard_time": 1714230861,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -353,6 +353,14 @@
       "onboard_time": 1714228641,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104167,
+      "num": 46571,
+      "word": "微信撤回能不能别提示",
+      "onboard_time": 1714238894,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 101526,
@@ -403,6 +411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 86383,
+      "num": 46392,
+      "word": "广州司机致猫死亡事件疑反转",
+      "onboard_time": 1714240033,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82209,
       "num": 82209,
       "word": "牛仔裤正在被抛弃吗",
@@ -427,6 +443,14 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 67456,
+      "num": 46724,
+      "word": "真正要忌口少吃的蔬菜",
+      "onboard_time": 1714238953,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 62300,
       "num": 70630,
       "word": "林更新回应太瘦了",
@@ -435,12 +459,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 46724,
-      "num": 46724,
-      "word": "真正要忌口少吃的蔬菜",
-      "onboard_time": 1714238953,
-      "rank": 47,
-      "category": "科学科普"
+      "raw_hot": 53750,
+      "num": 44651,
+      "word": "眼泪女王白贤佑出车祸",
+      "onboard_time": 1714240815,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 45977,
@@ -459,7 +483,31 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 10337,
+      "raw_hot": 37360,
+      "num": 37360,
+      "word": "中岛美嘉 音乐就是救命稻草",
+      "onboard_time": 1714241832,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 35335,
+      "num": 35335,
+      "word": "天津泡泡岛音乐节",
+      "onboard_time": 1714240693,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 28545,
+      "num": 34592,
+      "word": "广州发布今年首个雷雨大风红色预警",
+      "onboard_time": 1714242013,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14183,
       "num": 376884,
       "word": "1088人拟获全国五一劳动奖章",
       "onboard_time": 1714223659,
