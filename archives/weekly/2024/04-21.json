@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714192455921,
+  "endTime": 1714195016861,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -1411,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 926800,
+      "num": 926800,
+      "word": "童瑶未修原图",
+      "onboard_time": 1714189097,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 924534,
       "num": 408002,
       "word": "hybe员工吃瓜忘发zico物料",
@@ -1492,7 +1500,7 @@
     },
     {
       "raw_hot": 897645,
-      "num": 493872,
+      "num": 563463,
       "word": "余华回应微信头像",
       "onboard_time": 1714188556,
       "rank": 31,
@@ -1891,8 +1899,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 801157,
+      "num": 801157,
+      "word": "为什么外国人很少吃西瓜",
+      "onboard_time": 1714191377,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 800872,
-      "num": 305446,
+      "num": 335938,
       "word": "长期不吃主食的人后来怎样了",
       "onboard_time": 1714188436,
       "rank": 35,
@@ -2147,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 730626,
+      "num": 405646,
+      "word": "舞蹈老师踩断学生腿只愿赔5万",
+      "onboard_time": 1714189336,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 729645,
       "num": 544882,
       "word": "抗癌东东去世",
@@ -2307,14 +2331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 703274,
-      "num": 703274,
-      "word": "童瑶未修原图",
-      "onboard_time": 1714189097,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 701597,
       "num": 273705,
       "word": "林更新认出了张子枫没认出黄磊",
@@ -2425,14 +2441,6 @@
       "onboard_time": 1713831739,
       "rank": 7,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 686173,
-      "num": 391771,
-      "word": "舞蹈老师踩断学生腿只愿赔5万",
-      "onboard_time": 1714189336,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 685611,
@@ -2571,6 +2579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 666421,
+      "num": 666421,
+      "word": "小米高管否认雷军被李想锁车里",
+      "onboard_time": 1714192638,
+      "rank": 3,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 666294,
       "num": 717953,
       "word": "女校长诈骗学生家长5000万后自杀身亡",
@@ -2657,6 +2673,14 @@
       "onboard_time": 1714175835,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 652574,
+      "num": 395035,
+      "word": "鹿晗戒碳水很久了",
+      "onboard_time": 1714194378,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 648699,
@@ -3081,6 +3105,14 @@
       "onboard_time": 1714135159,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 590417,
+      "num": 590417,
+      "word": "爱奇艺公开排播",
+      "onboard_time": 1714192458,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 590199,
@@ -5059,6 +5091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412699,
+      "num": 335782,
+      "word": "鹿晗被陈卓璇吓到了",
+      "onboard_time": 1714190777,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412388,
       "num": 412388,
       "word": "吐槽张黎",
@@ -5081,6 +5121,14 @@
       "onboard_time": 1714099637,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 408467,
+      "num": 408467,
+      "word": "邓超谢谢不用了",
+      "onboard_time": 1714190777,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 406589,
@@ -5177,14 +5225,6 @@
       "onboard_time": 1713829518,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400288,
-      "num": 305437,
-      "word": "鹿晗被陈卓璇吓到了",
-      "onboard_time": 1714190777,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 400172,
@@ -5411,6 +5451,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 386655,
+      "num": 386655,
+      "word": "以为张予曦参加维密了",
+      "onboard_time": 1714189877,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386045,
       "num": 386045,
       "word": "考研数学被评最佳睡前读物",
@@ -5457,14 +5505,6 @@
       "onboard_time": 1714012036,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 381608,
-      "num": 381608,
-      "word": "以为张予曦参加维密了",
-      "onboard_time": 1714189877,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 381234,
@@ -6115,6 +6155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335589,
+      "num": 335589,
+      "word": "周扬青随时随地大小练",
+      "onboard_time": 1714192697,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335314,
       "num": 335314,
       "word": "金靖 怀孕",
@@ -6363,14 +6411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 320012,
-      "num": 320012,
-      "word": "为什么外国人很少吃西瓜",
-      "onboard_time": 1714191377,
-      "rank": 34,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 319823,
       "num": 280754,
       "word": "周琦停赛2场罚款10万",
@@ -6433,6 +6473,14 @@
       "onboard_time": 1713688039,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313393,
+      "num": 430310,
+      "word": "长春3人指使烈性犬咬死流浪猫被抓",
+      "onboard_time": 1714192037,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312851,
@@ -6641,14 +6689,6 @@
       "onboard_time": 1713939617,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303591,
-      "num": 303591,
-      "word": "邓超谢谢不用了",
-      "onboard_time": 1714190777,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 303297,
@@ -10195,6 +10235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 203654,
+      "num": 203654,
+      "word": "苗苗猫爪舞慢动作",
+      "onboard_time": 1714194498,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203558,
       "num": 203558,
       "word": "罗云熙杀青路透",
@@ -10515,6 +10563,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 200711,
+      "num": 293261,
+      "word": "小米汽车48小时收到5000多份简历",
+      "onboard_time": 1714193958,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 200685,
       "num": 200685,
       "word": "周鸿祎否认针对李彦宏",
@@ -10553,6 +10609,14 @@
       "onboard_time": 1713689958,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200291,
+      "num": 200291,
+      "word": "乘风2024",
+      "onboard_time": 1714193958,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 200267,
@@ -10737,6 +10801,14 @@
       "onboard_time": 1713757579,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197874,
+      "num": 197874,
+      "word": "有你在舞台",
+      "onboard_time": 1714193838,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 197848,
@@ -14435,6 +14507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153006,
+      "num": 153006,
+      "word": "第五人格",
+      "onboard_time": 1714194137,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152984,
       "num": 152984,
       "word": "广州塔是怎么做到又科幻又仙的",
@@ -14665,6 +14745,14 @@
       "onboard_time": 1713700879,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 150644,
+      "num": 150644,
+      "word": "enhypen表演总监力挺闵熙珍",
+      "onboard_time": 1714194797,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 150552,
@@ -15459,6 +15547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142115,
+      "num": 142115,
+      "word": "湖北文旅摇来了无畏",
+      "onboard_time": 1714193657,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 141991,
       "num": 423193,
       "word": "舟山远洋渔船变身菜鸟驿站",
@@ -16009,14 +16105,6 @@
       "onboard_time": 1713693438,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135911,
-      "num": 135911,
-      "word": "长春3人指使烈性犬咬死流浪猫被抓",
-      "onboard_time": 1714192037,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135855,
@@ -16876,7 +16964,7 @@
     },
     {
       "raw_hot": 126374,
-      "num": 372265,
+      "num": 399012,
       "word": "马凡舒自称小米SU7颜粉",
       "onboard_time": 1714190718,
       "rank": 24,
@@ -17628,7 +17716,7 @@
     },
     {
       "raw_hot": 114902,
-      "num": 554210,
+      "num": 709880,
       "word": "五一出游要密切关注天气情况",
       "onboard_time": 1714186757,
       "rank": 2,
@@ -18737,6 +18825,14 @@
       "onboard_time": 1713620840,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72689,
+      "num": 407640,
+      "word": "河南夫妇收养的巴基斯坦孤儿长大了",
+      "onboard_time": 1714194679,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72668,

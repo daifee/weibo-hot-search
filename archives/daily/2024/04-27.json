@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714192455921,
+  "endTime": 1714195016861,
   "band_list": [
     {
       "raw_hot": 1356945,
@@ -35,8 +35,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 926800,
+      "num": 926800,
+      "word": "童瑶未修原图",
+      "onboard_time": 1714189097,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 897645,
-      "num": 493872,
+      "num": 563463,
       "word": "余华回应微信头像",
       "onboard_time": 1714188556,
       "rank": 31,
@@ -51,8 +59,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 801157,
+      "num": 801157,
+      "word": "为什么外国人很少吃西瓜",
+      "onboard_time": 1714191377,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 800872,
-      "num": 305446,
+      "num": 335938,
       "word": "长期不吃主食的人后来怎样了",
       "onboard_time": 1714188436,
       "rank": 35,
@@ -64,6 +80,14 @@
       "word": "没有编制教师岗还有吸引力吗",
       "onboard_time": 1714168511,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 730626,
+      "num": 405646,
+      "word": "舞蹈老师踩断学生腿只愿赔5万",
+      "onboard_time": 1714189336,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -83,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 703274,
-      "num": 703274,
-      "word": "童瑶未修原图",
-      "onboard_time": 1714189097,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 699846,
       "num": 699846,
       "word": "水龙吟阵容官宣",
@@ -99,12 +115,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 686173,
-      "num": 391771,
-      "word": "舞蹈老师踩断学生腿只愿赔5万",
-      "onboard_time": 1714189336,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 666421,
+      "num": 666421,
+      "word": "小米高管否认雷军被李想锁车里",
+      "onboard_time": 1714192638,
+      "rank": 3,
+      "category": "汽车"
     },
     {
       "raw_hot": 653167,
@@ -113,6 +129,14 @@
       "onboard_time": 1714175835,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 652574,
+      "num": 395035,
+      "word": "鹿晗戒碳水很久了",
+      "onboard_time": 1714194378,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 630460,
@@ -137,6 +161,14 @@
       "onboard_time": 1714174876,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 590417,
+      "num": 590417,
+      "word": "爱奇艺公开排播",
+      "onboard_time": 1714192458,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 566961,
@@ -251,20 +283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412699,
+      "num": 335782,
+      "word": "鹿晗被陈卓璇吓到了",
+      "onboard_time": 1714190777,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 408467,
+      "num": 408467,
+      "word": "邓超谢谢不用了",
+      "onboard_time": 1714190777,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402153,
       "num": 366862,
       "word": "韩国N号房事件再现",
       "onboard_time": 1714128618,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400288,
-      "num": 305437,
-      "word": "鹿晗被陈卓璇吓到了",
-      "onboard_time": 1714190777,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 391993,
@@ -283,8 +323,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 381608,
-      "num": 381608,
+      "raw_hot": 386655,
+      "num": 386655,
       "word": "以为张予曦参加维密了",
       "onboard_time": 1714189877,
       "rank": 13,
@@ -371,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 335589,
+      "num": 335589,
+      "word": "周扬青随时随地大小练",
+      "onboard_time": 1714192697,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331796,
       "num": 331796,
       "word": "赵小童 三号房爬进一只小龙虾",
@@ -387,12 +435,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 320012,
-      "num": 320012,
-      "word": "为什么外国人很少吃西瓜",
-      "onboard_time": 1714191377,
-      "rank": 34,
-      "category": "科学科普"
+      "raw_hot": 313393,
+      "num": 430310,
+      "word": "长春3人指使烈性犬咬死流浪猫被抓",
+      "onboard_time": 1714192037,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310312,
@@ -417,14 +465,6 @@
       "onboard_time": 1714175476,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 303591,
-      "num": 303591,
-      "word": "邓超谢谢不用了",
-      "onboard_time": 1714190777,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 301746,
@@ -635,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203654,
+      "num": 203654,
+      "word": "苗苗猫爪舞慢动作",
+      "onboard_time": 1714194498,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202279,
       "num": 202279,
       "word": "宝马将增加在华投资200亿",
@@ -649,6 +697,22 @@
       "onboard_time": 1714187118,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200711,
+      "num": 293261,
+      "word": "小米汽车48小时收到5000多份简历",
+      "onboard_time": 1714193958,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 200291,
+      "num": 200291,
+      "word": "乘风2024",
+      "onboard_time": 1714193958,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 200267,
@@ -673,6 +737,14 @@
       "onboard_time": 1714110678,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 197874,
+      "num": 197874,
+      "word": "有你在舞台",
+      "onboard_time": 1714193838,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 197172,
@@ -835,12 +907,28 @@
       "category": "读书作家,社会新闻"
     },
     {
+      "raw_hot": 153006,
+      "num": 153006,
+      "word": "第五人格",
+      "onboard_time": 1714194137,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152128,
       "num": 188066,
       "word": "有一瞬间觉得基因真的很不公平",
       "onboard_time": 1714190358,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150644,
+      "num": 150644,
+      "word": "enhypen表演总监力挺闵熙珍",
+      "onboard_time": 1714194797,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 147696,
@@ -891,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142115,
+      "num": 142115,
+      "word": "湖北文旅摇来了无畏",
+      "onboard_time": 1714193657,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 140920,
       "num": 140920,
       "word": "网友希望王婆把江西高彩礼打下来",
@@ -929,14 +1025,6 @@
       "onboard_time": 1714177518,
       "rank": 33,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 135911,
-      "num": 135911,
-      "word": "长春3人指使烈性犬咬死流浪猫被抓",
-      "onboard_time": 1714192037,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134316,
@@ -1028,7 +1116,7 @@
     },
     {
       "raw_hot": 126374,
-      "num": 372265,
+      "num": 399012,
       "word": "马凡舒自称小米SU7颜粉",
       "onboard_time": 1714190718,
       "rank": 24,
@@ -1108,7 +1196,7 @@
     },
     {
       "raw_hot": 114902,
-      "num": 554210,
+      "num": 709880,
       "word": "五一出游要密切关注天气情况",
       "onboard_time": 1714186757,
       "rank": 2,
@@ -1360,6 +1448,14 @@
       "word": "江西通报小学生在校坠楼身亡",
       "onboard_time": 1714131977,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72689,
+      "num": 407640,
+      "word": "河南夫妇收养的巴基斯坦孤儿长大了",
+      "onboard_time": 1714194679,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
