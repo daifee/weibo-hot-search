@@ -1,0 +1,410 @@
+{
+  "runTime": 1714181573884,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1127738,
+        "num": 1127738,
+        "word": "微信文件3小时内可撤回",
+        "onboard_time": 1714178897,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 773965,
+        "num": 773965,
+        "word": "芒果又押错宝了吗",
+        "onboard_time": 1714140920,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4958,
+        "num": 667646,
+        "word": "全国网络普法行江苏站",
+        "onboard_time": 1714032319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1139246,
+        "num": 640641,
+        "word": "人刚死亡时还能听见声音吗",
+        "onboard_time": 1714174815,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 830546,
+        "num": 638364,
+        "word": "韩雪快碎了",
+        "onboard_time": 1714175235,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 592127,
+        "num": 592127,
+        "word": "日元",
+        "onboard_time": 1714175835,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 562005,
+        "num": 562005,
+        "word": "辅警杀害新婚妻子被判死缓",
+        "onboard_time": 1714141460,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417162,
+        "num": 417162,
+        "word": "赵丽颖演技",
+        "onboard_time": 1714178537,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 403163,
+        "num": 403163,
+        "word": "没有编制教师岗还有吸引力吗",
+        "onboard_time": 1714168511,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113951,
+        "num": 361537,
+        "word": "接下来浙江人餐桌上的标配",
+        "onboard_time": 1714174935,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 335884,
+        "num": 335884,
+        "word": "纪委回应发改委干部被爆出轨女下属",
+        "onboard_time": 1714174635,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335678,
+        "num": 335678,
+        "word": "工作三年和读研三年到底哪个更值",
+        "onboard_time": 1714150335,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 580210,
+        "num": 328260,
+        "word": "林更新回复给他和赵丽颖求姻缘的网友",
+        "onboard_time": 1714174876,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301746,
+        "num": 301746,
+        "word": "饭饭解释与泽泽分手过程",
+        "onboard_time": 1714176016,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280390,
+        "num": 280390,
+        "word": "奔跑吧P安全带",
+        "onboard_time": 1714142000,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273274,
+        "num": 273274,
+        "word": "姚晨闫妮困电梯里了",
+        "onboard_time": 1714175476,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255941,
+        "num": 255941,
+        "word": "金玟庭晒Jennie联名独角兽",
+        "onboard_time": 1714177876,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250948,
+        "num": 250948,
+        "word": "杨紫下一部剧是长相思第二季",
+        "onboard_time": 1714180937,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214685,
+        "num": 214685,
+        "word": "61岁老人接孙女放学掉进下水道被冲走",
+        "onboard_time": 1714141099,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213798,
+        "num": 213798,
+        "word": "王鹤棣守护詹姆斯",
+        "onboard_time": 1714180817,
+        "rank": 19,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 440610,
+        "num": 213371,
+        "word": "误以为很增肥实际巨减脂的食物",
+        "onboard_time": 1714174336,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 264705,
+        "num": 213260,
+        "word": "田馥甄回应参加天津音乐节",
+        "onboard_time": 1714149675,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224080,
+        "num": 213134,
+        "word": "女生晒八年级妹妹价值888元点阵笔",
+        "onboard_time": 1714153094,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212237,
+        "num": 212237,
+        "word": "佩洛西称美国抗议学生背后是俄罗斯",
+        "onboard_time": 1714178297,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 194744,
+        "num": 194744,
+        "word": "发明邓超的人真是个天才",
+        "onboard_time": 1714157532,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194267,
+        "num": 194267,
+        "word": "28岁女子经常饥一顿饱一顿确诊胃癌",
+        "onboard_time": 1714137978,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193128,
+        "num": 193128,
+        "word": "雷军称小米正在申请3万件专利",
+        "onboard_time": 1714180276,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186611,
+        "num": 186611,
+        "word": "华为重夺中国大陆智能手机市场第一",
+        "onboard_time": 1714177337,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180204,
+        "num": 180204,
+        "word": "车银优扣子崩开了",
+        "onboard_time": 1714181237,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175545,
+        "num": 175545,
+        "word": "抗癌东东去世",
+        "onboard_time": 1714145358,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171359,
+        "num": 171359,
+        "word": "这六大预兆可提示猝死",
+        "onboard_time": 1714175596,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163047,
+        "num": 163047,
+        "word": "minji 镜头",
+        "onboard_time": 1714180157,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153365,
+        "num": 153365,
+        "word": "六旬作家自曝爱追剧和手机看论文",
+        "onboard_time": 1714180578,
+        "rank": 32,
+        "category": "读书作家,社会新闻"
+      },
+      {
+        "raw_hot": 147093,
+        "num": 147093,
+        "word": "2男子因被灯晃到眼殴打司机砍断报警人手筋",
+        "onboard_time": 1714175596,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146044,
+        "num": 146044,
+        "word": "欢迎汤洪波唐胜杰江新林回家",
+        "onboard_time": 1714180337,
+        "rank": 34,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 142740,
+        "num": 142740,
+        "word": "NewJeans回归",
+        "onboard_time": 1714175535,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136209,
+        "num": 136209,
+        "word": "辛芷蕾拿了白玉兰戏剧奖",
+        "onboard_time": 1714137499,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134247,
+        "num": 134247,
+        "word": "陈昊宇陈丽君长得好像",
+        "onboard_time": 1714142959,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132680,
+        "num": 132680,
+        "word": "赵雅芝发微博",
+        "onboard_time": 1714175415,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131182,
+        "num": 131182,
+        "word": "台湾花莲海域凌晨再发3次地震",
+        "onboard_time": 1714173315,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129495,
+        "num": 129495,
+        "word": "大熊猫云川和鑫宝将赴美",
+        "onboard_time": 1714181477,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129376,
+        "num": 129376,
+        "word": "明天周末上班",
+        "onboard_time": 1714181356,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129073,
+        "num": 129073,
+        "word": "哈利伯顿绝杀",
+        "onboard_time": 1714180578,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124538,
+        "num": 124538,
+        "word": "背着宰善跑 中国区ost",
+        "onboard_time": 1714180518,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121987,
+        "num": 121987,
+        "word": "天蝎座 神秘感",
+        "onboard_time": 1714176375,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119766,
+        "num": 119766,
+        "word": "全美20多所高校爆发反战示威",
+        "onboard_time": 1714177518,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 119465,
+        "num": 119465,
+        "word": "张超牺牲8周年了",
+        "onboard_time": 1714181477,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119126,
+        "num": 119126,
+        "word": "唐家三少当选北京作协副主席",
+        "onboard_time": 1714177156,
+        "rank": 47,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 118930,
+        "num": 118930,
+        "word": "日元汇率一度跌至156日元兑1美元",
+        "onboard_time": 1714180578,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115141,
+        "num": 115141,
+        "word": "就这个王者荣耀爽",
+        "onboard_time": 1714177156,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代推动西部大开发座谈会#"
+    }
+  }
+}

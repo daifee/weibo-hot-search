@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/27 09:13:47
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/27 09:32:53
 </p>
 </blockquote>
 <p>
@@ -3117,6 +3117,12 @@ Angelababy狼尾超短发（热度：1142413）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%88%9A%E6%AD%BB%E4%BA%A1%E6%97%B6%E8%BF%98%E8%83%BD%E5%90%AC%E8%A7%81%E5%A3%B0%E9%9F%B3%E5%90%97%23" target="weibo">
+人刚死亡时还能听见声音吗（热度：1139246）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%97%E5%AD%97%E4%B8%8D%E6%8F%90%E9%92%B1%E5%8F%A5%E5%8F%A5%E9%83%BD%E6%98%AF%E9%92%B1%23" target="weibo">
 字字不提钱句句都是钱（热度：1138035）
 </a>
@@ -3155,6 +3161,12 @@ iPhone16国行售价曝光（热度：1136448）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23chiikawa%E4%BD%9C%E8%80%85%23" target="weibo">
 chiikawa作者（热度：1128422）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B63%E5%B0%8F%E6%97%B6%E5%86%85%E5%8F%AF%E6%92%A4%E5%9B%9E%23" target="weibo">
+微信文件3小时内可撤回（热度：1127738）
 </a>
 </li>
 
@@ -3245,12 +3257,6 @@ yamy 淘汰（热度：1126395）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%85%AB%23" target="weibo">
 专八（热度：1113948）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%88%9A%E6%AD%BB%E4%BA%A1%E6%97%B6%E8%BF%98%E8%83%BD%E5%90%AC%E8%A7%81%E5%A3%B0%E9%9F%B3%E5%90%97%23" target="weibo">
-人刚死亡时还能听见声音吗（热度：1112547）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TFBOYS文案什么意思（热度：811913）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C4%E6%AF%942%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
 林高远4比2樊振东（热度：805205）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%A5%BD%E5%8F%AA%E4%B8%8A%E4%B8%89%E5%A4%A9%E5%B0%B1%E6%94%BE%E5%81%87%E4%BA%86%23" target="weibo">
-还好只上三天就放假了（热度：804827）
 </a>
 </li>
 

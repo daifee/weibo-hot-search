@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714180427042,
+  "endTime": 1714181573884,
   "band_list": [
     {
       "raw_hot": 1356945,
@@ -11,12 +11,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1112547,
+      "raw_hot": 1139246,
       "num": 659924,
       "word": "人刚死亡时还能听见声音吗",
       "onboard_time": 1714174815,
       "rank": 3,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1127738,
+      "num": 1127738,
+      "word": "微信文件3小时内可撤回",
+      "onboard_time": 1714178897,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 894440,
@@ -49,14 +57,6 @@
       "onboard_time": 1714141460,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 662607,
-      "num": 662607,
-      "word": "微信文件3小时内可撤回",
-      "onboard_time": 1714178897,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 653167,
@@ -139,6 +139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 417162,
+      "num": 417162,
+      "word": "赵丽颖演技",
+      "onboard_time": 1714178537,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 402153,
       "num": 366862,
       "word": "韩国N号房事件再现",
@@ -177,14 +185,6 @@
       "onboard_time": 1714149675,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 346098,
-      "num": 286406,
-      "word": "赵丽颖演技",
-      "onboard_time": 1714178537,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 341254,
@@ -227,8 +227,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 292119,
-      "num": 292119,
+      "raw_hot": 301746,
+      "num": 301746,
       "word": "饭饭解释与泽泽分手过程",
       "onboard_time": 1714176016,
       "rank": 14,
@@ -275,12 +275,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255941,
+      "num": 255941,
+      "word": "金玟庭晒Jennie联名独角兽",
+      "onboard_time": 1714177876,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252305,
       "num": 252305,
       "word": "台湾花莲海域凌晨再发3次地震",
       "onboard_time": 1714173315,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250948,
+      "num": 250948,
+      "word": "杨紫下一部剧是长相思第二季",
+      "onboard_time": 1714180937,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 248940,
@@ -315,12 +331,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213798,
+      "num": 213798,
+      "word": "王鹤棣守护詹姆斯",
+      "onboard_time": 1714180817,
+      "rank": 19,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 213167,
       "num": 204352,
       "word": "李庚希录节目进去23出来24",
       "onboard_time": 1714147519,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212237,
+      "num": 212237,
+      "word": "佩洛西称美国抗议学生背后是俄罗斯",
+      "onboard_time": 1714178297,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 211489,
@@ -339,28 +371,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205486,
-      "num": 205486,
-      "word": "佩洛西称美国抗议学生背后是俄罗斯",
-      "onboard_time": 1714178297,
-      "rank": 24,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 202762,
-      "num": 202762,
-      "word": "金玟庭晒Jennie联名独角兽",
-      "onboard_time": 1714177876,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198491,
       "num": 198491,
       "word": "常用乳贴会导致乳房下垂吗",
       "onboard_time": 1714110678,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 193128,
+      "num": 193128,
+      "word": "雷军称小米正在申请3万件专利",
+      "onboard_time": 1714180276,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 189049,
@@ -377,6 +401,14 @@
       "onboard_time": 1714143499,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 180204,
+      "num": 180204,
+      "word": "车银优扣子崩开了",
+      "onboard_time": 1714181237,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 177364,
@@ -403,20 +435,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171359,
+      "num": 171359,
+      "word": "这六大预兆可提示猝死",
+      "onboard_time": 1714175596,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 165954,
       "num": 165954,
       "word": "李溪芮女团范儿",
       "onboard_time": 1714146439,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165781,
-      "num": 165781,
-      "word": "这六大预兆可提示猝死",
-      "onboard_time": 1714175596,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 164802,
@@ -427,6 +459,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 163047,
+      "num": 163047,
+      "word": "minji 镜头",
+      "onboard_time": 1714180157,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 157655,
       "num": 157655,
       "word": "癌症晚期倾家荡产吃药延长生命值得吗",
@@ -435,12 +475,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 153365,
+      "num": 153365,
+      "word": "六旬作家自曝爱追剧和手机看论文",
+      "onboard_time": 1714180578,
+      "rank": 32,
+      "category": "读书作家,社会新闻"
+    },
+    {
       "raw_hot": 146954,
       "num": 146954,
       "word": "范伟62岁再夺影帝",
       "onboard_time": 1714139179,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146044,
+      "num": 146044,
+      "word": "欢迎汤洪波唐胜杰江新林回家",
+      "onboard_time": 1714180337,
+      "rank": 48,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 145996,
@@ -499,6 +555,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129495,
+      "num": 129495,
+      "word": "大熊猫云川和鑫宝将赴美",
+      "onboard_time": 1714181477,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129376,
+      "num": 129376,
+      "word": "明天周末上班",
+      "onboard_time": 1714181356,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 129073,
+      "num": 129073,
+      "word": "哈利伯顿绝杀",
+      "onboard_time": 1714180578,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128618,
       "num": 128618,
       "word": "张杰演唱会门口被陌生人送票",
@@ -523,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124538,
+      "num": 124538,
+      "word": "背着宰善跑 中国区ost",
+      "onboard_time": 1714180518,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124316,
       "num": 124316,
       "word": "天蝎座 神秘感",
@@ -539,12 +627,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122890,
-      "num": 122890,
-      "word": "minji 镜头",
-      "onboard_time": 1714180157,
-      "rank": 41,
-      "category": "音乐"
+      "raw_hot": 119465,
+      "num": 119465,
+      "word": "张超牺牲8周年了",
+      "onboard_time": 1714181477,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118930,
+      "num": 118930,
+      "word": "日元汇率一度跌至156日元兑1美元",
+      "onboard_time": 1714180578,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 116996,
@@ -555,12 +651,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 113330,
-      "num": 113330,
-      "word": "雷军称小米正在申请3万件专利",
-      "onboard_time": 1714180276,
-      "rank": 45,
-      "category": "互联网"
+      "raw_hot": 113951,
+      "num": 449032,
+      "word": "接下来浙江人餐桌上的标配",
+      "onboard_time": 1714174935,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 111324,
@@ -619,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107215,
-      "num": 449032,
-      "word": "接下来浙江人餐桌上的标配",
-      "onboard_time": 1714174935,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 104975,
       "num": 104975,
       "word": "Bubble Gum",
@@ -665,14 +753,6 @@
       "onboard_time": 1714146439,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 101325,
-      "num": 101325,
-      "word": "欢迎汤洪波唐胜杰江新林回家",
-      "onboard_time": 1714180337,
-      "rank": 48,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 100336,
@@ -939,8 +1019,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 4539,
-      "num": 660910,
+      "raw_hot": 4958,
+      "num": 667646,
       "word": "全国网络普法行江苏站",
       "onboard_time": 1714032319,
       "rank": 2,
