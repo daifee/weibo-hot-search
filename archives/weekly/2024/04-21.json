@@ -1,6 +1,6 @@
 {
   "startTime": 1713630104116,
-  "endTime": 1714216437296,
+  "endTime": 1714217765816,
   "band_list": [
     {
       "raw_hot": 7756641,
@@ -1931,6 +1931,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 820427,
+      "num": 517524,
+      "word": "老人被养了四五年的狗撕咬",
+      "onboard_time": 1714213338,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 820141,
       "num": 820141,
       "word": "纽约市长在飞机上被女子怒批",
@@ -2420,7 +2428,7 @@
     },
     {
       "raw_hot": 712513,
-      "num": 259993,
+      "num": 302400,
       "word": "第一次出国发朋友圈被同事警告了",
       "onboard_time": 1714207817,
       "rank": 21,
@@ -3611,6 +3619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 552781,
+      "num": 521854,
+      "word": "小叶 泽泽",
+      "onboard_time": 1714214357,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 551660,
       "num": 551660,
       "word": "被特斯拉毁约应届生回应",
@@ -3921,14 +3937,6 @@
       "onboard_time": 1713919937,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 521854,
-      "num": 521854,
-      "word": "小叶 泽泽",
-      "onboard_time": 1714214357,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 521619,
@@ -4699,6 +4707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 458239,
+      "num": 327445,
+      "word": "泽泽 被分手",
+      "onboard_time": 1714215678,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 457630,
       "num": 457630,
       "word": "深圳暴雨",
@@ -5457,14 +5473,6 @@
       "onboard_time": 1713704722,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 403861,
-      "num": 403861,
-      "word": "老人被养了四五年的狗撕咬",
-      "onboard_time": 1714213338,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 403395,
@@ -6243,6 +6251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 350935,
+      "num": 350935,
+      "word": "女子婚礼后55天遭丈夫49刀杀害",
+      "onboard_time": 1714216038,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350931,
       "num": 350931,
       "word": "周杰伦送外套给粉丝",
@@ -6611,6 +6627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 328642,
+      "num": 328642,
+      "word": "肖战藏海传白衣路透",
+      "onboard_time": 1714215498,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327409,
       "num": 327409,
       "word": "TF三代 门面",
@@ -6921,6 +6945,14 @@
       "onboard_time": 1713934339,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 307252,
+      "num": 307252,
+      "word": "迪丽热巴金色长裙梦回乔晶晶",
+      "onboard_time": 1714216937,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 307069,
@@ -7963,14 +7995,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 264671,
-      "num": 264671,
-      "word": "泽泽 被分手",
-      "onboard_time": 1714215678,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 264472,
       "num": 264472,
       "word": "袁娅维在伯克利的身份",
@@ -8529,14 +8553,6 @@
       "onboard_time": 1713747978,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 247421,
-      "num": 247421,
-      "word": "肖战藏海传白衣路透",
-      "onboard_time": 1714215498,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 247333,
@@ -9459,6 +9475,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 228068,
+      "num": 228068,
+      "word": "范湉湉 我是女人就有女人味儿",
+      "onboard_time": 1714216457,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227884,
       "num": 227884,
       "word": "老头杯",
@@ -9577,6 +9601,14 @@
       "onboard_time": 1713623300,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225235,
+      "num": 225235,
+      "word": "我只喜欢你的人设",
+      "onboard_time": 1714216937,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 225233,
@@ -10369,6 +10401,14 @@
       "onboard_time": 1713841518,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208714,
+      "num": 208714,
+      "word": "人皮肤最厚的部位在哪",
+      "onboard_time": 1714215319,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 208692,
@@ -11649,14 +11689,6 @@
       "onboard_time": 1714049838,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 195575,
-      "num": 191925,
-      "word": "女子婚礼后55天遭丈夫49刀杀害",
-      "onboard_time": 1714216038,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195448,
@@ -13091,6 +13123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181200,
+      "num": 181200,
+      "word": "广州冰雹大如拳头砸破房顶",
+      "onboard_time": 1714216758,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181150,
       "num": 181150,
       "word": "林允薄荷蛋糕裙",
@@ -13491,6 +13531,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 176301,
+      "num": 176301,
+      "word": "何炅也在嗑胡先煦张子枫",
+      "onboard_time": 1714217539,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176297,
       "num": 176297,
       "word": "Gumayusi回应Bin说MSI要虐T1GEN",
@@ -13665,6 +13713,14 @@
       "onboard_time": 1714175535,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 173996,
+      "num": 173996,
+      "word": "锦超声明",
+      "onboard_time": 1714216338,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 173924,
@@ -13937,6 +13993,14 @@
       "onboard_time": 1713944478,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170200,
+      "num": 170200,
+      "word": "布林肯在华宣称美高校抗议是民主标志被质疑",
+      "onboard_time": 1714213397,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 170164,
@@ -14409,6 +14473,14 @@
       "onboard_time": 1714144878,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163705,
+      "num": 137524,
+      "word": "朱一龙谈胡歌高圆圆新片",
+      "onboard_time": 1714217419,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 163662,
@@ -14907,6 +14979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157332,
+      "num": 135291,
+      "word": "林更新白背心",
+      "onboard_time": 1714216698,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157277,
       "num": 157277,
       "word": "SPOT",
@@ -15185,14 +15265,6 @@
       "onboard_time": 1714132338,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 154009,
-      "num": 154009,
-      "word": "布林肯在华宣称美高校抗议是民主标志被质疑",
-      "onboard_time": 1714213397,
-      "rank": 39,
-      "category": "国外时政"
     },
     {
       "raw_hot": 153968,
@@ -16395,6 +16467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141983,
+      "num": 135056,
+      "word": "lalali",
+      "onboard_time": 1714217658,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 141892,
       "num": 141892,
       "word": "闵熙珍说一切都靠自己",
@@ -16683,6 +16763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138754,
+      "num": 138754,
+      "word": "WB零封TES",
+      "onboard_time": 1714216999,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138358,
       "num": 138358,
       "word": "原神 知妙",
@@ -16721,14 +16809,6 @@
       "onboard_time": 1713764178,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137883,
-      "num": 137883,
-      "word": "锦超声明",
-      "onboard_time": 1714216338,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 137862,
@@ -16889,6 +16969,14 @@
       "onboard_time": 1713651311,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136877,
+      "num": 526498,
+      "word": "淄博为什么还这么火",
+      "onboard_time": 1714217119,
+      "rank": 8,
+      "category": "旅游"
     },
     {
       "raw_hot": 136856,
@@ -18459,6 +18547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117738,
+      "num": 117738,
+      "word": "广州一地龙卷风多个厂房铁皮被掀",
+      "onboard_time": 1714217178,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117683,
       "num": 424141,
       "word": "在奔驰中超越奔驰",
@@ -18593,14 +18689,6 @@
       "onboard_time": 1713946339,
       "rank": 46,
       "category": "美妆,财经"
-    },
-    {
-      "raw_hot": 115442,
-      "num": 115442,
-      "word": "人皮肤最厚的部位在哪",
-      "onboard_time": 1714215319,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 115265,
@@ -20011,6 +20099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65397,
+      "num": 290189,
+      "word": "原来追星可以和喝水一样简单",
+      "onboard_time": 1714213038,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 65327,
       "num": 65327,
       "word": "想睡个好觉真的易如反掌",
@@ -20241,14 +20337,6 @@
       "onboard_time": 1714081271,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 56052,
-      "num": 268751,
-      "word": "原来追星可以和喝水一样简单",
-      "onboard_time": 1714213038,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 56050,

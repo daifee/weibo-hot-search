@@ -1,6 +1,6 @@
 {
   "startTime": 1714148624368,
-  "endTime": 1714216437296,
+  "endTime": 1714217765816,
   "band_list": [
     {
       "raw_hot": 1807265,
@@ -155,6 +155,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 820427,
+      "num": 517524,
+      "word": "老人被养了四五年的狗撕咬",
+      "onboard_time": 1714213338,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 800872,
       "num": 335938,
       "word": "长期不吃主食的人后来怎样了",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 712513,
-      "num": 259993,
+      "num": 302400,
       "word": "第一次出国发朋友圈被同事警告了",
       "onboard_time": 1714207817,
       "rank": 21,
@@ -379,6 +387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 552781,
+      "num": 521854,
+      "word": "小叶 泽泽",
+      "onboard_time": 1714214357,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 531723,
       "num": 531723,
       "word": "佩洛西称美国抗议学生背后是俄罗斯",
@@ -393,14 +409,6 @@
       "onboard_time": 1714137978,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 521854,
-      "num": 521854,
-      "word": "小叶 泽泽",
-      "onboard_time": 1714214357,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 516600,
@@ -491,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 458239,
+      "num": 327445,
+      "word": "泽泽 被分手",
+      "onboard_time": 1714215678,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 450423,
       "num": 309393,
       "word": "迪丽热巴蝎子辫",
@@ -561,14 +577,6 @@
       "onboard_time": 1714190777,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 403861,
-      "num": 403861,
-      "word": "老人被养了四五年的狗撕咬",
-      "onboard_time": 1714213338,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 402153,
@@ -731,6 +739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 350935,
+      "num": 350935,
+      "word": "女子婚礼后55天遭丈夫49刀杀害",
+      "onboard_time": 1714216038,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341254,
       "num": 341254,
       "word": "林更新 把你的恶心收一收",
@@ -745,6 +761,14 @@
       "onboard_time": 1714143079,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328642,
+      "num": 328642,
+      "word": "肖战藏海传白衣路透",
+      "onboard_time": 1714215498,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 327022,
@@ -777,6 +801,14 @@
       "onboard_time": 1714153992,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 307252,
+      "num": 307252,
+      "word": "迪丽热巴金色长裙梦回乔晶晶",
+      "onboard_time": 1714216937,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 305101,
@@ -899,14 +931,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 264671,
-      "num": 264671,
-      "word": "泽泽 被分手",
-      "onboard_time": 1714215678,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 259800,
       "num": 590613,
       "word": "南昌一小区发生火灾致3死2伤",
@@ -969,14 +993,6 @@
       "onboard_time": 1714136659,
       "rank": 19,
       "category": "美食"
-    },
-    {
-      "raw_hot": 247421,
-      "num": 247421,
-      "word": "肖战藏海传白衣路透",
-      "onboard_time": 1714215498,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 244138,
@@ -1067,12 +1083,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228068,
+      "num": 228068,
+      "word": "范湉湉 我是女人就有女人味儿",
+      "onboard_time": 1714216457,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225349,
       "num": 225349,
       "word": "詹姆斯杜兰特都要回家了",
       "onboard_time": 1714197076,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225235,
+      "num": 225235,
+      "word": "我只喜欢你的人设",
+      "onboard_time": 1714216937,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 224736,
@@ -1211,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208714,
+      "num": 208714,
+      "word": "人皮肤最厚的部位在哪",
+      "onboard_time": 1714215319,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 208585,
       "num": 208585,
       "word": "鬼怪ost中文版",
@@ -1329,14 +1369,6 @@
       "onboard_time": 1714186996,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 195575,
-      "num": 191925,
-      "word": "女子婚礼后55天遭丈夫49刀杀害",
-      "onboard_time": 1714216038,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195161,
@@ -1475,6 +1507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 181200,
+      "num": 181200,
+      "word": "广州冰雹大如拳头砸破房顶",
+      "onboard_time": 1714216758,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180943,
       "num": 175580,
       "word": "时代少年团 二开吗",
@@ -1515,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176301,
+      "num": 176301,
+      "word": "何炅也在嗑胡先煦张子枫",
+      "onboard_time": 1714217539,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175596,
       "num": 175596,
       "word": "三吉差个Rookie",
@@ -1547,6 +1595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 173996,
+      "num": 173996,
+      "word": "锦超声明",
+      "onboard_time": 1714216338,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171535,
       "num": 171535,
       "word": "雷军回应武大设置雷军班",
@@ -1569,6 +1625,14 @@
       "onboard_time": 1714205417,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170200,
+      "num": 170200,
+      "word": "布林肯在华宣称美高校抗议是民主标志被质疑",
+      "onboard_time": 1714213397,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 169464,
@@ -1635,6 +1699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 163705,
+      "num": 137524,
+      "word": "朱一龙谈胡歌高圆圆新片",
+      "onboard_time": 1714217419,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163047,
       "num": 163047,
       "word": "minji 镜头",
@@ -1659,12 +1731,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 154009,
-      "num": 154009,
-      "word": "布林肯在华宣称美高校抗议是民主标志被质疑",
-      "onboard_time": 1714213397,
-      "rank": 39,
-      "category": "国外时政"
+      "raw_hot": 157332,
+      "num": 135291,
+      "word": "林更新白背心",
+      "onboard_time": 1714216698,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 153365,
@@ -1819,6 +1891,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 141983,
+      "num": 135056,
+      "word": "lalali",
+      "onboard_time": 1714217658,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 140920,
       "num": 140920,
       "word": "网友希望王婆把江西高彩礼打下来",
@@ -1843,12 +1923,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137883,
-      "num": 137883,
-      "word": "锦超声明",
-      "onboard_time": 1714216338,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 138754,
+      "num": 138754,
+      "word": "WB零封TES",
+      "onboard_time": 1714216999,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 137829,
@@ -1889,6 +1969,14 @@
       "onboard_time": 1714177518,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 136877,
+      "num": 526498,
+      "word": "淄博为什么还这么火",
+      "onboard_time": 1714217119,
+      "rank": 8,
+      "category": "旅游"
     },
     {
       "raw_hot": 136755,
@@ -2099,20 +2187,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117738,
+      "num": 117738,
+      "word": "广州一地龙卷风多个厂房铁皮被掀",
+      "onboard_time": 1714217178,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116996,
       "num": 116996,
       "word": "就这个王者荣耀爽",
       "onboard_time": 1714177156,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 115442,
-      "num": 115442,
-      "word": "人皮肤最厚的部位在哪",
-      "onboard_time": 1714215319,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 114902,
@@ -2507,6 +2595,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 65397,
+      "num": 290189,
+      "word": "原来追星可以和喝水一样简单",
+      "onboard_time": 1714213038,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 64937,
       "num": 239511,
       "word": "和时代少年团的第一张合照",
@@ -2545,14 +2641,6 @@
       "onboard_time": 1714173614,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56052,
-      "num": 268751,
-      "word": "原来追星可以和喝水一样简单",
-      "onboard_time": 1714213038,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 52746,

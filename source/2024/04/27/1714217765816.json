@@ -1,0 +1,410 @@
+{
+  "runTime": 1714217765816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 941762,
+        "num": 941762,
+        "word": "麦当劳就侮辱性文字骂顾客一事致歉",
+        "onboard_time": 1714206978,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730345,
+        "num": 730345,
+        "word": "休一天",
+        "onboard_time": 1714206016,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89396,
+        "num": 677851,
+        "word": "五一假期全国赏花地图",
+        "onboard_time": 1714205057,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860284,
+        "num": 668654,
+        "word": "王婆回应被江西彩礼震惊",
+        "onboard_time": 1714212199,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659224,
+        "num": 659224,
+        "word": "金秀贤金智媛合体",
+        "onboard_time": 1714212558,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 573863,
+        "num": 573863,
+        "word": "歌手2024 朴彩英",
+        "onboard_time": 1714207817,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 563992,
+        "num": 563992,
+        "word": "Hybe音源注水被曝光",
+        "onboard_time": 1714214538,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 527887,
+        "num": 527887,
+        "word": "张予曦BLACKPINK舞台相似度",
+        "onboard_time": 1714212498,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136877,
+        "num": 526498,
+        "word": "淄博为什么还这么火",
+        "onboard_time": 1714217119,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 235941,
+        "num": 520847,
+        "word": "爷爷去世前在监控中喊孙女名字",
+        "onboard_time": 1714211478,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 820427,
+        "num": 517524,
+        "word": "老人被养了四五年的狗撕咬",
+        "onboard_time": 1714213338,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552781,
+        "num": 514861,
+        "word": "小叶 泽泽",
+        "onboard_time": 1714214357,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 512033,
+        "num": 512033,
+        "word": "迪丽热巴轻纱拖地裙",
+        "onboard_time": 1714213157,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 350935,
+        "num": 350935,
+        "word": "女子婚礼后55天遭丈夫49刀杀害",
+        "onboard_time": 1714216038,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350818,
+        "num": 350818,
+        "word": "彩票中了一等奖真实的兑奖情况",
+        "onboard_time": 1714206618,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328642,
+        "num": 328642,
+        "word": "肖战藏海传白衣路透",
+        "onboard_time": 1714215498,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458239,
+        "num": 327445,
+        "word": "泽泽 被分手",
+        "onboard_time": 1714215678,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324228,
+        "num": 324228,
+        "word": "广州龙卷风",
+        "onboard_time": 1714207338,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307252,
+        "num": 307252,
+        "word": "迪丽热巴金色长裙梦回乔晶晶",
+        "onboard_time": 1714216937,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306605,
+        "num": 306605,
+        "word": "广州白云龙卷风现场画面",
+        "onboard_time": 1714212919,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459981,
+        "num": 304006,
+        "word": "鹿晗关晓彤连口头禅都一样",
+        "onboard_time": 1714203617,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 419923,
+        "num": 302400,
+        "word": "第一次出国发朋友圈被同事警告了",
+        "onboard_time": 1714207817,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65397,
+        "num": 290189,
+        "word": "原来追星可以和喝水一样简单",
+        "onboard_time": 1714213038,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286919,
+        "num": 286919,
+        "word": "郭碧婷组 三个在冷宫失了智的嫔妃",
+        "onboard_time": 1714198336,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264208,
+        "num": 264208,
+        "word": "女子吐槽15元买一颗樱桃",
+        "onboard_time": 1714209138,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271100,
+        "num": 258601,
+        "word": "鹿晗戒碳水很久了",
+        "onboard_time": 1714194378,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228068,
+        "num": 228068,
+        "word": "范湉湉 我是女人就有女人味儿",
+        "onboard_time": 1714216457,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225391,
+        "num": 225391,
+        "word": "出生就是孤儿的她也离开了人世",
+        "onboard_time": 1714213757,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225235,
+        "num": 225235,
+        "word": "我只喜欢你的人设",
+        "onboard_time": 1714216937,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208714,
+        "num": 208714,
+        "word": "人皮肤最厚的部位在哪",
+        "onboard_time": 1714215319,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209601,
+        "num": 200966,
+        "word": "眼泪女王直播",
+        "onboard_time": 1714210937,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181200,
+        "num": 181200,
+        "word": "广州冰雹大如拳头砸破房顶",
+        "onboard_time": 1714216758,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176301,
+        "num": 176301,
+        "word": "何炅也在嗑胡先煦张子枫",
+        "onboard_time": 1714217539,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173996,
+        "num": 173996,
+        "word": "锦超声明",
+        "onboard_time": 1714216338,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170200,
+        "num": 170200,
+        "word": "布林肯在华宣称美高校抗议是民主标志被质疑",
+        "onboard_time": 1714213397,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 169157,
+        "num": 169157,
+        "word": "歌手2024名单",
+        "onboard_time": 1714203557,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164796,
+        "num": 164796,
+        "word": "华晨宇 花傲天",
+        "onboard_time": 1714211657,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157871,
+        "num": 157871,
+        "word": "四川文旅回应一个串串8根签",
+        "onboard_time": 1714210818,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150810,
+        "num": 150810,
+        "word": "广州白云区发生龙卷风",
+        "onboard_time": 1714215858,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138754,
+        "num": 138754,
+        "word": "WB零封TES",
+        "onboard_time": 1714216999,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163705,
+        "num": 137524,
+        "word": "朱一龙谈胡歌高圆圆新片",
+        "onboard_time": 1714217419,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157332,
+        "num": 135291,
+        "word": "林更新白背心",
+        "onboard_time": 1714216698,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141983,
+        "num": 135056,
+        "word": "lalali",
+        "onboard_time": 1714217658,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132695,
+        "num": 132695,
+        "word": "恋与深空官配",
+        "onboard_time": 1714212077,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169021,
+        "num": 132481,
+        "word": "迪丽热巴 迪满楼",
+        "onboard_time": 1714197618,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161786,
+        "num": 131383,
+        "word": "高圆圆好薄一片",
+        "onboard_time": 1714201277,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129500,
+        "num": 129500,
+        "word": "广州冰雹",
+        "onboard_time": 1714204458,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126947,
+        "num": 126947,
+        "word": "日本为何放任日元狂贬",
+        "onboard_time": 1714212258,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117738,
+        "num": 117738,
+        "word": "广州一地龙卷风多个厂房铁皮被掀",
+        "onboard_time": 1714217178,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108304,
+        "num": 108304,
+        "word": "增城",
+        "onboard_time": 1714209019,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#途通山海阔开放创未来#"
+    }
+  }
+}
