@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714256208639,
+  "endTime": 1714257263514,
   "band_list": [
     {
       "raw_hot": 1259200,
@@ -203,6 +203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 214090,
+      "num": 214090,
+      "word": "牛仔裤正在被抛弃吗",
+      "onboard_time": 1714226239,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 212718,
       "num": 173923,
       "word": "王锵 吻技生疏",
@@ -305,14 +313,6 @@
       "onboard_time": 1714238894,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 133513,
-      "num": 133513,
-      "word": "牛仔裤正在被抛弃吗",
-      "onboard_time": 1714226239,
-      "rank": 49,
-      "category": "时尚"
     },
     {
       "raw_hot": 131368,
@@ -427,6 +427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 88691,
+      "num": 40557,
+      "word": "外国游客3个月爆买1.75万亿日元",
+      "onboard_time": 1714253951,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81765,
       "num": 78032,
       "word": "苗苗一公舞台",
@@ -441,6 +449,14 @@
       "onboard_time": 1714216937,
       "rank": 47,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 73455,
+      "num": 73455,
+      "word": "邓超说蔡文静脑子好厉害",
+      "onboard_time": 1714244771,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 67456,
@@ -483,20 +499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 48585,
-      "num": 34551,
-      "word": "外国游客3个月爆买1.75万亿日元",
-      "onboard_time": 1714253951,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 47726,
-      "num": 47726,
-      "word": "邓超说蔡文静脑子好厉害",
-      "onboard_time": 1714244771,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 47119,
+      "num": 47119,
+      "word": "广东最大的水库开闸泄洪",
+      "onboard_time": 1714244051,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45977,
@@ -505,14 +513,6 @@
       "onboard_time": 1714237516,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 45867,
-      "num": 38574,
-      "word": "广东最大的水库开闸泄洪",
-      "onboard_time": 1714244051,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44379,
@@ -531,6 +531,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 38732,
+      "num": 38732,
+      "word": "年轻人想赚快钱不用不好意思",
+      "onboard_time": 1714252692,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 35859,
+      "num": 35859,
+      "word": "刘嘉玲梁朝伟国外度假",
+      "onboard_time": 1714256532,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35335,
       "num": 35335,
       "word": "天津泡泡岛音乐节",
@@ -539,12 +555,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 30958,
-      "num": 30958,
-      "word": "年轻人想赚快钱不用不好意思",
-      "onboard_time": 1714252692,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 31024,
+      "num": 31024,
+      "word": "小龙虾为什么大降价",
+      "onboard_time": 1714251971,
+      "rank": 48,
+      "category": "美食,财经"
+    },
+    {
+      "raw_hot": 29235,
+      "num": 29235,
+      "word": "第一次见这么肥美的大熊猫",
+      "onboard_time": 1714246692,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27949,
@@ -555,31 +579,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25699,
-      "num": 25699,
-      "word": "小龙虾为什么大降价",
-      "onboard_time": 1714251971,
-      "rank": 48,
-      "category": "美食,财经"
-    },
-    {
-      "raw_hot": 18582,
-      "num": 20486,
-      "word": "第一次见这么肥美的大熊猫",
-      "onboard_time": 1714246692,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17468,
-      "num": 20469,
+      "raw_hot": 19357,
+      "num": 26381,
       "word": "碓冰拓海 一如既往的帅",
       "onboard_time": 1714249212,
       "rank": 49,
       "category": "动漫"
     },
     {
-      "raw_hot": 14183,
+      "raw_hot": 17759,
       "num": 376884,
       "word": "1088人拟获全国五一劳动奖章",
       "onboard_time": 1714223659,

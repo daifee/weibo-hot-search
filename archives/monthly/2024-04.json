@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714256208639,
+  "endTime": 1714257263514,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -40411,6 +40411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214090,
+      "num": 214090,
+      "word": "牛仔裤正在被抛弃吗",
+      "onboard_time": 1714226239,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 213953,
       "num": 213953,
       "word": "詹姆斯重摔在地",
@@ -56753,14 +56761,6 @@
       "onboard_time": 1712026758,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161106,
-      "num": 161106,
-      "word": "牛仔裤正在被抛弃吗",
-      "onboard_time": 1714226239,
-      "rank": 47,
-      "category": "时尚"
     },
     {
       "raw_hot": 161040,
@@ -73451,6 +73451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 88691,
+      "num": 40557,
+      "word": "外国游客3个月爆买1.75万亿日元",
+      "onboard_time": 1714253951,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 88672,
       "num": 411936,
       "word": "极氪以奢侈品标准打造光辉",
@@ -74393,6 +74401,14 @@
       "onboard_time": 1712174650,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73455,
+      "num": 73455,
+      "word": "邓超说蔡文静脑子好厉害",
+      "onboard_time": 1714244771,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 73301,
@@ -76203,14 +76219,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 48585,
-      "num": 34551,
-      "word": "外国游客3个月爆买1.75万亿日元",
-      "onboard_time": 1714253951,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 48474,
       "num": 48474,
       "word": "许凯的罗伯特叫许凯猪包",
@@ -76267,14 +76275,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 47726,
-      "num": 47726,
-      "word": "邓超说蔡文静脑子好厉害",
-      "onboard_time": 1714244771,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 47548,
       "num": 55700,
       "word": "网红包MCM过气了吗",
@@ -76313,6 +76313,14 @@
       "onboard_time": 1712459418,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 47119,
+      "num": 47119,
+      "word": "广东最大的水库开闸泄洪",
+      "onboard_time": 1714244051,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46944,
@@ -76385,14 +76393,6 @@
       "onboard_time": 1712092751,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 45867,
-      "num": 38574,
-      "word": "广东最大的水库开闸泄洪",
-      "onboard_time": 1714244051,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45804,
@@ -76851,6 +76851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38732,
+      "num": 38732,
+      "word": "年轻人想赚快钱不用不好意思",
+      "onboard_time": 1714252692,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 38615,
       "num": 38615,
       "word": "确定被爱后小狗连面相都变了",
@@ -77041,6 +77049,14 @@
       "onboard_time": 1712917277,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 35859,
+      "num": 35859,
+      "word": "刘嘉玲梁朝伟国外度假",
+      "onboard_time": 1714256532,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 35568,
@@ -77387,20 +77403,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 31024,
+      "num": 31024,
+      "word": "小龙虾为什么大降价",
+      "onboard_time": 1714251971,
+      "rank": 48,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 30976,
       "num": 38018,
       "word": "琉球群岛东南5.8级地震",
       "onboard_time": 1713288613,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30958,
-      "num": 30958,
-      "word": "年轻人想赚快钱不用不好意思",
-      "onboard_time": 1714252692,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 30854,
@@ -77505,6 +77521,14 @@
       "onboard_time": 1713791059,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 29235,
+      "num": 29235,
+      "word": "第一次见这么肥美的大熊猫",
+      "onboard_time": 1714246692,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28931,
@@ -77777,14 +77801,6 @@
       "onboard_time": 1713204551,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25699,
-      "num": 25699,
-      "word": "小龙虾为什么大降价",
-      "onboard_time": 1714251971,
-      "rank": 48,
-      "category": "美食,财经"
     },
     {
       "raw_hot": 25511,
@@ -78339,6 +78355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 19357,
+      "num": 26381,
+      "word": "碓冰拓海 一如既往的帅",
+      "onboard_time": 1714249212,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 19247,
       "num": 19247,
       "word": "林依晨演技",
@@ -78377,14 +78401,6 @@
       "onboard_time": 1712601612,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 18582,
-      "num": 20486,
-      "word": "第一次见这么肥美的大熊猫",
-      "onboard_time": 1714246692,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18570,
@@ -78465,14 +78481,6 @@
       "onboard_time": 1713899171,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17468,
-      "num": 20469,
-      "word": "碓冰拓海 一如既往的帅",
-      "onboard_time": 1714249212,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 17410,
