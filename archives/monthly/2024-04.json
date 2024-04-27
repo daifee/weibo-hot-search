@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714249044613,
+  "endTime": 1714250076052,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -76371,6 +76371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 45867,
+      "num": 36110,
+      "word": "广东最大的水库开闸泄洪",
+      "onboard_time": 1714244051,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45804,
       "num": 926155,
       "word": "总体国家安全观主题宣传片护你安澜",
@@ -76393,14 +76401,6 @@
       "onboard_time": 1713989350,
       "rank": 43,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 45016,
-      "num": 36110,
-      "word": "广东最大的水库开闸泄洪",
-      "onboard_time": 1714244051,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44932,
@@ -78641,6 +78641,14 @@
       "onboard_time": 1712261771,
       "rank": 49,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 13874,
+      "num": 16333,
+      "word": "碓冰拓海 一如既往的帅",
+      "onboard_time": 1714249212,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 13822,
