@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714332864825,
+  "endTime": 1714335510529,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -79795,6 +79795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 32743,
+      "num": 32743,
+      "word": "TT公布调查结果",
+      "onboard_time": 1714330091,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 32729,
       "num": 32729,
       "word": "乘风赛点秀",
@@ -80275,14 +80283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26375,
-      "num": 26375,
-      "word": "TT公布调查结果",
-      "onboard_time": 1714330091,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 26316,
       "num": 26316,
       "word": "心理医生应对内耗的5个建议",
@@ -80515,6 +80515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23773,
+      "num": 20647,
+      "word": "异地小情侣约好在同一天拔智齿",
+      "onboard_time": 1714332251,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 23611,
       "num": 444330,
       "word": "高段位东京citywalk",
@@ -80545,6 +80553,14 @@
       "onboard_time": 1712686512,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 23281,
+      "num": 23281,
+      "word": "香蕉加一把糯米粉就是一道美食",
+      "onboard_time": 1714331110,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 23213,
@@ -80787,6 +80803,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 20666,
+      "num": 20666,
+      "word": "朴振英中文",
+      "onboard_time": 1714333390,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 20632,
       "num": 20632,
       "word": "射手当joker也是三分钟热度",
@@ -80809,14 +80833,6 @@
       "onboard_time": 1712687651,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20338,
-      "num": 22524,
-      "word": "香蕉加一把糯米粉就是一道美食",
-      "onboard_time": 1714331110,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 20228,
@@ -81003,14 +81019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17726,
-      "num": 19921,
-      "word": "异地小情侣约好在同一天拔智齿",
-      "onboard_time": 1714332251,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 17699,
       "num": 182001,
       "word": "临沂的夜夜夜太美了",
@@ -81147,6 +81155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 16419,
+      "num": 19911,
+      "word": "新郎一家开荒给新娘办向日葵婚礼",
+      "onboard_time": 1714332429,
+      "rank": 49,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 16340,
       "num": 16340,
       "word": "春夏美甲",
@@ -81171,7 +81187,7 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 15743,
+      "raw_hot": 15812,
       "num": 19913,
       "word": "短短三句话却是一辈子的遗憾",
       "onboard_time": 1714330631,
@@ -81265,6 +81281,14 @@
       "onboard_time": 1712261771,
       "rank": 49,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 13911,
+      "num": 18074,
+      "word": "张颂文和小白",
+      "onboard_time": 1714331891,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 13822,
@@ -81409,14 +81433,6 @@
       "onboard_time": 1712952790,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12231,
-      "num": 19911,
-      "word": "新郎一家开荒给新娘办向日葵婚礼",
-      "onboard_time": 1714332429,
-      "rank": 49,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 11730,
