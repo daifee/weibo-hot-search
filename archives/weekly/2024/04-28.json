@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714321243337,
+  "endTime": 1714322101615,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -459,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 704620,
+      "num": 704620,
+      "word": "宋雨琦 反正他们听不懂",
+      "onboard_time": 1714318997,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 699676,
       "num": 217963,
       "word": "从胃病到胃癌的报警症状",
@@ -641,14 +649,6 @@
       "onboard_time": 1714279759,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 562759,
-      "num": 562759,
-      "word": "宋雨琦 反正他们听不懂",
-      "onboard_time": 1714318997,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 536566,
@@ -843,6 +843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 459468,
+      "num": 217155,
+      "word": "五一1500元机票跳水至400",
+      "onboard_time": 1714317978,
+      "rank": 29,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 457938,
       "num": 457938,
       "word": "华为",
@@ -865,14 +873,6 @@
       "onboard_time": 1714295477,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 452797,
-      "num": 217155,
-      "word": "五一1500元机票跳水至400",
-      "onboard_time": 1714317978,
-      "rank": 29,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 449878,
@@ -1409,6 +1409,14 @@
       "onboard_time": 1714291398,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245974,
+      "num": 245974,
+      "word": "民宿涨价1500后被退单平台只赔230",
+      "onboard_time": 1714320018,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244902,
@@ -2651,14 +2659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135890,
-      "num": 218493,
-      "word": "民宿涨价1500后被退单平台只赔230",
-      "onboard_time": 1714320018,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135550,
       "num": 135550,
       "word": "广州司机致猫死亡事件疑反转",
@@ -3035,6 +3035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82254,
+      "num": 82254,
+      "word": "会长是女仆大人 碓冰拓海",
+      "onboard_time": 1714321876,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 82142,
       "num": 82142,
       "word": "李大钊牺牲97年",
@@ -3059,12 +3067,28 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 76612,
+      "num": 76612,
+      "word": "陈少熙是懂M3的",
+      "onboard_time": 1714321636,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75451,
       "num": 219564,
       "word": "你会第一时间给手机系统升级吗",
       "onboard_time": 1714292000,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 74985,
+      "num": 74985,
+      "word": "周雨彤皮衣造型",
+      "onboard_time": 1714322055,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 73517,
