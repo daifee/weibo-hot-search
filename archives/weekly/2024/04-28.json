@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714278923755,
+  "endTime": 1714281460578,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -33,6 +33,14 @@
       "onboard_time": 1714266018,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1484049,
+      "num": 659304,
+      "word": "疫苗",
+      "onboard_time": 1714276819,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1409612,
@@ -131,6 +139,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 844961,
+      "num": 385682,
+      "word": "身上长这种疙瘩是HPV感染",
+      "onboard_time": 1714276038,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 835689,
       "num": 835689,
       "word": "郝蕾怒批赵晴",
@@ -145,6 +161,14 @@
       "onboard_time": 1714275979,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 823689,
+      "num": 502966,
+      "word": "通知书到了读研还是结婚",
+      "onboard_time": 1714278562,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 820288,
@@ -171,6 +195,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 749924,
+      "num": 749924,
+      "word": "美国多人使用吸血鬼面膜感染HIV",
+      "onboard_time": 1714279639,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 745874,
+      "num": 490485,
+      "word": "何炅的伞撑了一个又一个人",
+      "onboard_time": 1714280660,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 731033,
       "num": 731033,
       "word": "布林肯在中国遭BBC女记者连怼",
@@ -187,20 +227,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 697965,
+      "num": 697965,
+      "word": "于正回应郝蕾怒批赵晴",
+      "onboard_time": 1714280180,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 697277,
       "num": 697277,
       "word": "问界回应车辆起火司乘3人遇难",
       "onboard_time": 1714273698,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 659304,
-      "num": 659304,
-      "word": "疫苗",
-      "onboard_time": 1714276819,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 629377,
@@ -267,6 +307,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 520248,
+      "num": 520248,
+      "word": "何瑞之 我很爱我老婆",
+      "onboard_time": 1714277960,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 517253,
       "num": 364264,
       "word": "广州暴雨后天现凤凰",
@@ -315,20 +363,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 462605,
+      "num": 462605,
+      "word": "两女子穿和服跳日本舞惹众怒",
+      "onboard_time": 1714279698,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457555,
       "num": 457555,
       "word": "牛仔裤正在被抛弃吗",
       "onboard_time": 1714226239,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 453297,
-      "num": 385682,
-      "word": "身上长这种疙瘩是HPV感染",
-      "onboard_time": 1714276038,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 438238,
@@ -363,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 384994,
+      "num": 384994,
+      "word": "无限超越班翻拍了肖战的戏",
+      "onboard_time": 1714277599,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368303,
       "num": 368303,
       "word": "眼泪女王是14年前的剧本",
@@ -393,14 +449,6 @@
       "onboard_time": 1714275378,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 358877,
-      "num": 358877,
-      "word": "何瑞之 我很爱我老婆",
-      "onboard_time": 1714277960,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 357523,
@@ -451,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326059,
+      "num": 326059,
+      "word": "性格决定上班劳累程度",
+      "onboard_time": 1714279759,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 320228,
       "num": 320228,
       "word": "翟潇闻难哄出妆",
@@ -499,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298480,
+      "num": 298480,
+      "word": "武汉暴雨",
+      "onboard_time": 1714279038,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293518,
       "num": 293518,
       "word": "久坐1小时肌肉就开始出现结节",
@@ -515,20 +579,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 286638,
+      "num": 286638,
+      "word": "鹿晗邓超陈赫再唱超级英雄",
+      "onboard_time": 1714281199,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280824,
       "num": 280824,
       "word": "掘金vs湖人",
       "onboard_time": 1714265659,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273478,
-      "num": 273478,
-      "word": "通知书到了读研还是结婚",
-      "onboard_time": 1714278562,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 271265,
@@ -545,14 +609,6 @@
       "onboard_time": 1714271058,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 266043,
-      "num": 266043,
-      "word": "无限超越班翻拍了肖战的戏",
-      "onboard_time": 1714277599,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 264020,
@@ -715,6 +771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 224478,
+      "num": 224478,
+      "word": "老头杯",
+      "onboard_time": 1714280719,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 222126,
       "num": 201681,
       "word": "眼泪女王",
@@ -737,6 +801,30 @@
       "onboard_time": 1714220238,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 214150,
+      "num": 214150,
+      "word": "长相思未婚夫跑去做榜上佳婿了",
+      "onboard_time": 1714278320,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 213748,
+      "num": 213748,
+      "word": "HYBE和三大社的根本不同点",
+      "onboard_time": 1714278562,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 213123,
+      "num": 213123,
+      "word": "李想送雷军理想L6",
+      "onboard_time": 1714280599,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 212718,
@@ -763,14 +851,6 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 203054,
-      "num": 203054,
-      "word": "HYBE和三大社的根本不同点",
-      "onboard_time": 1714278562,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202036,
       "num": 202036,
       "word": "李想感谢雷军",
@@ -795,14 +875,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 199480,
-      "num": 199480,
-      "word": "长相思未婚夫跑去做榜上佳婿了",
-      "onboard_time": 1714278320,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197239,
       "num": 197239,
       "word": "为什么李宁越卖越贵",
@@ -817,6 +889,14 @@
       "onboard_time": 1714266980,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196406,
+      "num": 196406,
+      "word": "眼泪女王 最大的反派",
+      "onboard_time": 1714279100,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 196062,
@@ -939,6 +1019,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 175194,
+      "num": 175194,
+      "word": "韩信无双",
+      "onboard_time": 1714279280,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174231,
       "num": 157224,
       "word": "张栋梁郑合惠子落选",
@@ -1017,6 +1105,14 @@
       "onboard_time": 1714207817,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157785,
+      "num": 157785,
+      "word": "Doinb预测Uzi老头杯夺冠",
+      "onboard_time": 1714279519,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 157364,
@@ -1435,6 +1531,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 47435,
+      "num": 1638078,
+      "word": "用明信片方式打开神十七太空之旅",
+      "onboard_time": 1714276819,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45977,
       "num": 70585,
       "word": "幸福四件套",
@@ -1457,14 +1561,6 @@
       "onboard_time": 1714241832,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 41771,
-      "num": 1638078,
-      "word": "用明信片方式打开神十七太空之旅",
-      "onboard_time": 1714276819,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 38507,
@@ -1508,6 +1604,9 @@
     },
     {
       "word": "#习近平会见美国务卿布林肯#"
+    },
+    {
+      "word": "#在中国式现代化建设中奋力谱写西部大开发新篇章#"
     }
   ]
 }
