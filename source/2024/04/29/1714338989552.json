@@ -1,0 +1,410 @@
+{
+  "runTime": 1714338989552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 67466,
+        "num": 67466,
+        "word": "民宿涨价1500后被退单平台只赔230",
+        "onboard_time": 1714320018,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56544,
+        "num": 56544,
+        "word": "宋雨琦 反正他们听不懂",
+        "onboard_time": 1714318997,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 4840,
+        "num": 52896,
+        "word": "中国航天员完成在轨交接",
+        "onboard_time": 1714292178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63747,
+        "num": 52883,
+        "word": "张颂文回应砍价被吐槽穷酸",
+        "onboard_time": 1714315039,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50991,
+        "num": 50991,
+        "word": "官方通报广州一女子商场跳楼砸中人",
+        "onboard_time": 1714314739,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49249,
+        "num": 49249,
+        "word": "会长是女仆大人 碓冰拓海",
+        "onboard_time": 1714321876,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 47882,
+        "num": 47882,
+        "word": "四种素菜小心越吃越胖",
+        "onboard_time": 1714303578,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 45343,
+        "num": 45343,
+        "word": "海仁活到了84岁",
+        "onboard_time": 1714318578,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41149,
+        "num": 41149,
+        "word": "贾乃亮谎报年龄被黄景瑜踹",
+        "onboard_time": 1714306888,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20082,
+        "num": 40829,
+        "word": "男子曾获老师无偿资助回母校捐款50万",
+        "onboard_time": 1714326432,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 77954,
+        "num": 40643,
+        "word": "居然还有女用避孕套",
+        "onboard_time": 1714295658,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54495,
+        "num": 40325,
+        "word": "粉圈乱象影响观剧体验",
+        "onboard_time": 1714318158,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44704,
+        "num": 40128,
+        "word": "TT公布调查结果",
+        "onboard_time": 1714330091,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39822,
+        "num": 39822,
+        "word": "张雨绮是怎么发现这个赛道的",
+        "onboard_time": 1714312218,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35247,
+        "num": 35247,
+        "word": "Yaoyao发文道歉",
+        "onboard_time": 1714309279,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30099,
+        "num": 30099,
+        "word": "眼泪女王大结局",
+        "onboard_time": 1714306765,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24112,
+        "num": 24112,
+        "word": "佩佩姐每条艾特刘涛都回复了",
+        "onboard_time": 1714316118,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22904,
+        "num": 22904,
+        "word": "眼泪女王 太癫了",
+        "onboard_time": 1714310360,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22677,
+        "num": 22677,
+        "word": "雷军回应给武大捐款13亿",
+        "onboard_time": 1714304356,
+        "rank": 18,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 21754,
+        "num": 21754,
+        "word": "国外一位妻子给老公打包午餐",
+        "onboard_time": 1714336750,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46625,
+        "num": 21704,
+        "word": "从胃病到胃癌的报警症状",
+        "onboard_time": 1714317079,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33369,
+        "num": 21599,
+        "word": "郑佩佩 我想她了",
+        "onboard_time": 1714293738,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24126,
+        "num": 21510,
+        "word": "长期吃榴莲身体会发生什么变化",
+        "onboard_time": 1714311439,
+        "rank": 22,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 22766,
+        "num": 21360,
+        "word": "时代少年团女主 贺美琦",
+        "onboard_time": 1714305138,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21325,
+        "num": 21325,
+        "word": "周杰伦二开",
+        "onboard_time": 1714303818,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21173,
+        "num": 21173,
+        "word": "五一1500元机票跳水至400",
+        "onboard_time": 1714317978,
+        "rank": 25,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 20997,
+        "num": 20997,
+        "word": "9.9的风终于还是卷到了星巴克",
+        "onboard_time": 1714308258,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 20471,
+        "num": 20471,
+        "word": "朴振英中文",
+        "onboard_time": 1714333390,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20290,
+        "num": 20290,
+        "word": "邓超 亚比囧囧囧",
+        "onboard_time": 1714300996,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16378,
+        "num": 20234,
+        "word": "新郎一家开荒给新娘办向日葵婚礼",
+        "onboard_time": 1714332429,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 22453,
+        "num": 20228,
+        "word": "问界",
+        "onboard_time": 1714311800,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20206,
+        "num": 20206,
+        "word": "眼泪女王",
+        "onboard_time": 1714307717,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20059,
+        "num": 20059,
+        "word": "雷军拿奖学金时发誓要1万倍奉还",
+        "onboard_time": 1714309038,
+        "rank": 32,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 19507,
+        "num": 19507,
+        "word": "异地小情侣约好在同一天拔智齿",
+        "onboard_time": 1714332251,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18555,
+        "num": 18555,
+        "word": "香蕉加一把糯米粉就是一道美食",
+        "onboard_time": 1714331110,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 18420,
+        "num": 18420,
+        "word": "当洗澡后穿上你给的短裤",
+        "onboard_time": 1714323255,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 16775,
+        "num": 16775,
+        "word": "海仁墓碑",
+        "onboard_time": 1714315880,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16302,
+        "num": 16302,
+        "word": "邓超陈赫能玩到一起的原因",
+        "onboard_time": 1714323673,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16259,
+        "num": 16259,
+        "word": "32岁男子酒后泡澡脑血管破裂进了ICU",
+        "onboard_time": 1714310058,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15867,
+        "num": 15867,
+        "word": "青环5 朴彩英",
+        "onboard_time": 1714302978,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15851,
+        "num": 15851,
+        "word": "专家谈问界M7碰撞后疑车门无法打开",
+        "onboard_time": 1714313540,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15799,
+        "num": 15799,
+        "word": "继续前行吧 不够善良的我们",
+        "onboard_time": 1714323136,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14490,
+        "num": 15790,
+        "word": "雷军称小米造车投入了半个家底",
+        "onboard_time": 1714313780,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 14300,
+        "num": 15783,
+        "word": "短短三句话却是一辈子的遗憾",
+        "onboard_time": 1714330631,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13598,
+        "num": 15779,
+        "word": "吃烤苕皮是一件很私密的事",
+        "onboard_time": 1714301296,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 13531,
+        "num": 15771,
+        "word": "周雨彤皮衣造型",
+        "onboard_time": 1714322055,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13337,
+        "num": 15764,
+        "word": "问界已成立专案小组调查追尾起火事件",
+        "onboard_time": 1714295897,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12878,
+        "num": 15754,
+        "word": "蔡依林重庆",
+        "onboard_time": 1714316180,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12792,
+        "num": 15747,
+        "word": "原来空间站钥匙长这样",
+        "onboard_time": 1714313480,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12700,
+        "num": 15732,
+        "word": "买家称周鸿祎的车不卖",
+        "onboard_time": 1714338851,
+        "rank": 49,
+        "category": "互联网,汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂习近平的大食物观#"
+    }
+  }
+}

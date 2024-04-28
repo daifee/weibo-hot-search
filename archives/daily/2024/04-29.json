@@ -1,6 +1,6 @@
 {
   "startTime": 1714321243337,
-  "endTime": 1714336465046,
+  "endTime": 1714338989552,
   "band_list": [
     {
       "raw_hot": 781382,
@@ -451,7 +451,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 42264,
+      "raw_hot": 44704,
       "num": 42264,
       "word": "TT公布调查结果",
       "onboard_time": 1714330091,
@@ -507,6 +507,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 21754,
+      "num": 21754,
+      "word": "国外一位妻子给老公打包午餐",
+      "onboard_time": 1714336750,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21446,
       "num": 21446,
       "word": "朴振英中文",
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 16419,
-      "num": 19911,
+      "num": 20234,
       "word": "新郎一家开荒给新娘办向日葵婚礼",
       "onboard_time": 1714332429,
       "rank": 49,
@@ -577,6 +585,14 @@
       "onboard_time": 1714331891,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12700,
+      "num": 15732,
+      "word": "买家称周鸿祎的车不卖",
+      "onboard_time": 1714338851,
+      "rank": 49,
+      "category": "互联网,汽车"
     },
     {
       "raw_hot": 12586,

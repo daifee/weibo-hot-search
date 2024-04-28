@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714336465046,
+  "endTime": 1714338989552,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -78971,6 +78971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44704,
+      "num": 42264,
+      "word": "TT公布调查结果",
+      "onboard_time": 1714330091,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 44648,
       "num": 381560,
       "word": "内娱掌管长腿的神",
@@ -79105,14 +79113,6 @@
       "onboard_time": 1713446598,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 42264,
-      "num": 42264,
-      "word": "TT公布调查结果",
-      "onboard_time": 1714330091,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 42255,
@@ -80731,6 +80731,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 21754,
+      "num": 21754,
+      "word": "国外一位妻子给老公打包午餐",
+      "onboard_time": 1714336750,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21744,
       "num": 278715,
       "word": "P5X加入P系列全家桶",
@@ -81156,7 +81164,7 @@
     },
     {
       "raw_hot": 16419,
-      "num": 19911,
+      "num": 20234,
       "word": "新郎一家开荒给新娘办向日葵婚礼",
       "onboard_time": 1714332429,
       "rank": 49,
@@ -81425,6 +81433,14 @@
       "onboard_time": 1713206053,
       "rank": 39,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 12700,
+      "num": 15732,
+      "word": "买家称周鸿祎的车不卖",
+      "onboard_time": 1714338851,
+      "rank": 49,
+      "category": "互联网,汽车"
     },
     {
       "raw_hot": 12586,
