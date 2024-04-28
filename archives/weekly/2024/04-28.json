@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714340048459,
+  "endTime": 1714342598081,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -2907,6 +2907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110154,
+      "num": 55674,
+      "word": "国外一位妻子给老公打包午餐",
+      "onboard_time": 1714336750,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109722,
       "num": 109722,
       "word": "炸树叶好歹毒的吃法",
@@ -3115,6 +3123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71577,
+      "num": 54689,
+      "word": "TT公布调查结果",
+      "onboard_time": 1714330091,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 67598,
       "num": 500025,
       "word": "王一博小轮车适配度",
@@ -3169,6 +3185,14 @@
       "onboard_time": 1714301357,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 54069,
+      "num": 54069,
+      "word": "韩雪练舞前后对比",
+      "onboard_time": 1714341191,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 53750,
@@ -3235,14 +3259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 44704,
-      "num": 42719,
-      "word": "TT公布调查结果",
-      "onboard_time": 1714330091,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 44379,
       "num": 44379,
       "word": "你的名字无人知晓 你的功绩与世长存",
@@ -3267,20 +3283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38795,
+      "num": 86584,
+      "word": "男子曾获老师无偿资助回母校捐款50万",
+      "onboard_time": 1714326432,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 38507,
       "num": 48908,
       "word": "天津泡泡岛音乐节",
       "onboard_time": 1714240693,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 37017,
-      "num": 37017,
-      "word": "国外一位妻子给老公打包午餐",
-      "onboard_time": 1714336750,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 30692,
@@ -3291,12 +3307,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 30445,
+      "num": 28825,
+      "word": "买家称周鸿祎的车不卖",
+      "onboard_time": 1714338851,
+      "rank": 49,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 27949,
       "num": 30342,
       "word": "maestro饭拍视频",
       "onboard_time": 1714242732,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27775,
+      "num": 27775,
+      "word": "新郎一家开荒给新娘办向日葵婚礼",
+      "onboard_time": 1714332429,
+      "rank": 49,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 25093,
@@ -3307,8 +3339,16 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 24143,
+      "num": 24143,
+      "word": "短短三句话却是一辈子的遗憾",
+      "onboard_time": 1714330631,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 23773,
-      "num": 20647,
+      "num": 23254,
       "word": "异地小情侣约好在同一天拔智齿",
       "onboard_time": 1714332251,
       "rank": 40,
@@ -3331,16 +3371,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 22274,
-      "num": 86584,
-      "word": "男子曾获老师无偿资助回母校捐款50万",
-      "onboard_time": 1714326432,
-      "rank": 9,
-      "category": "社会正能量"
+      "raw_hot": 22086,
+      "num": 22086,
+      "word": "蔡磊妻子说天天愁有什么用",
+      "onboard_time": 1714341912,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21446,
-      "num": 21446,
+      "num": 21802,
       "word": "朴振英中文",
       "onboard_time": 1714333390,
       "rank": 29,
@@ -3363,36 +3403,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 16482,
-      "num": 20234,
-      "word": "新郎一家开荒给新娘办向日葵婚礼",
-      "onboard_time": 1714332429,
-      "rank": 49,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 15921,
       "num": 22521,
       "word": "张曼玉林丹组队打混双",
       "onboard_time": 1714330932,
       "rank": 48,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 15812,
-      "num": 19913,
-      "word": "短短三句话却是一辈子的遗憾",
-      "onboard_time": 1714330631,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 15435,
-      "num": 15732,
-      "word": "买家称周鸿祎的车不卖",
-      "onboard_time": 1714338851,
-      "rank": 49,
-      "category": "互联网,汽车"
     },
     {
       "raw_hot": 13911,
