@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714338989552,
+  "endTime": 1714340048459,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -3236,7 +3236,7 @@
     },
     {
       "raw_hot": 44704,
-      "num": 42264,
+      "num": 42719,
       "word": "TT公布调查结果",
       "onboard_time": 1714330091,
       "rank": 34,
@@ -3273,6 +3273,14 @@
       "onboard_time": 1714240693,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 37017,
+      "num": 37017,
+      "word": "国外一位妻子给老公打包午餐",
+      "onboard_time": 1714336750,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 30692,
@@ -3331,14 +3339,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 21754,
-      "num": 21754,
-      "word": "国外一位妻子给老公打包午餐",
-      "onboard_time": 1714336750,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 21446,
       "num": 21446,
       "word": "朴振英中文",
@@ -3363,7 +3363,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 16419,
+      "raw_hot": 16482,
       "num": 20234,
       "word": "新郎一家开荒给新娘办向日葵婚礼",
       "onboard_time": 1714332429,
@@ -3387,20 +3387,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 15435,
+      "num": 15732,
+      "word": "买家称周鸿祎的车不卖",
+      "onboard_time": 1714338851,
+      "rank": 49,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 13911,
       "num": 18074,
       "word": "张颂文和小白",
       "onboard_time": 1714331891,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12700,
-      "num": 15732,
-      "word": "买家称周鸿祎的车不卖",
-      "onboard_time": 1714338851,
-      "rank": 49,
-      "category": "互联网,汽车"
     },
     {
       "raw_hot": 12586,

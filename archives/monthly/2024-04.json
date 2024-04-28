@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714338989552,
+  "endTime": 1714340048459,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -78972,7 +78972,7 @@
     },
     {
       "raw_hot": 44704,
-      "num": 42264,
+      "num": 42719,
       "word": "TT公布调查结果",
       "onboard_time": 1714330091,
       "rank": 34,
@@ -79521,6 +79521,14 @@
       "onboard_time": 1714161611,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 37017,
+      "num": 37017,
+      "word": "国外一位妻子给老公打包午餐",
+      "onboard_time": 1714336750,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 37006,
@@ -80731,14 +80739,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 21754,
-      "num": 21754,
-      "word": "国外一位妻子给老公打包午餐",
-      "onboard_time": 1714336750,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 21744,
       "num": 278715,
       "word": "P5X加入P系列全家桶",
@@ -81155,20 +81155,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16482,
+      "num": 20234,
+      "word": "新郎一家开荒给新娘办向日葵婚礼",
+      "onboard_time": 1714332429,
+      "rank": 49,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 16473,
       "num": 16473,
       "word": "印度街头的餐具",
       "onboard_time": 1713818470,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 16419,
-      "num": 20234,
-      "word": "新郎一家开荒给新娘办向日葵婚礼",
-      "onboard_time": 1714332429,
-      "rank": 49,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 16340,
@@ -81225,6 +81225,14 @@
       "onboard_time": 1712348291,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15435,
+      "num": 15732,
+      "word": "买家称周鸿祎的车不卖",
+      "onboard_time": 1714338851,
+      "rank": 49,
+      "category": "互联网,汽车"
     },
     {
       "raw_hot": 15059,
@@ -81433,14 +81441,6 @@
       "onboard_time": 1713206053,
       "rank": 39,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 12700,
-      "num": 15732,
-      "word": "买家称周鸿祎的车不卖",
-      "onboard_time": 1714338851,
-      "rank": 49,
-      "category": "互联网,汽车"
     },
     {
       "raw_hot": 12586,
