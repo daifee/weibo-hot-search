@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714304052179,
+  "endTime": 1714307565127,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1366594,
+      "num": 723687,
+      "word": "周鸿祎迈巴赫990万拍出",
+      "onboard_time": 1714303279,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1353551,
       "num": 1318516,
       "word": "美国多人使用吸血鬼面膜感染HIV",
@@ -137,6 +145,14 @@
       "onboard_time": 1714287738,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1142691,
+      "num": 346352,
+      "word": "女子餐前打胰岛素被服务员误会吸毒",
+      "onboard_time": 1714304297,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1078160,
@@ -211,6 +227,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 948125,
+      "num": 948125,
+      "word": "青环5 朴彩英",
+      "onboard_time": 1714302978,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 940158,
       "num": 502966,
       "word": "通知书到了读研还是结婚",
@@ -243,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 886512,
+      "num": 886512,
+      "word": "雷军回应给武大捐款13亿",
+      "onboard_time": 1714304356,
+      "rank": 1,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 883197,
       "num": 751034,
       "word": "副校长获奖章而孕妻顾家劳累两度流产",
@@ -267,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 855696,
+      "num": 855696,
+      "word": "时代少年团女主 贺美琦",
+      "onboard_time": 1714305138,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 835689,
       "num": 835689,
       "word": "郝蕾怒批赵晴",
@@ -289,6 +329,14 @@
       "onboard_time": 1714259896,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 799211,
+      "num": 799211,
+      "word": "眼泪女王大结局",
+      "onboard_time": 1714306765,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 782041,
@@ -443,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 580718,
-      "num": 580718,
-      "word": "青环5 朴彩英",
-      "onboard_time": 1714302978,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 579450,
       "num": 470283,
       "word": "王一博英语",
@@ -473,6 +513,14 @@
       "onboard_time": 1714293857,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 574693,
+      "num": 574693,
+      "word": "周杰伦二开",
+      "onboard_time": 1714303818,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 566748,
@@ -683,14 +731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 436082,
-      "num": 436082,
-      "word": "周鸿祎迈巴赫990万拍出",
-      "onboard_time": 1714303279,
-      "rank": 5,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 435498,
       "num": 435498,
       "word": "女子反驳江西高彩礼希望男生睁眼看世界",
@@ -763,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 378977,
+      "num": 378977,
+      "word": "抢到了",
+      "onboard_time": 1714306399,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 377461,
       "num": 377461,
       "word": "无骨的舌头伤人最深",
@@ -809,6 +857,14 @@
       "onboard_time": 1714264339,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 349806,
+      "num": 349806,
+      "word": "原来以前没有调休",
+      "onboard_time": 1714301958,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 343853,
@@ -929,6 +985,14 @@
       "onboard_time": 1714274719,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305677,
+      "num": 305677,
+      "word": "四种素菜小心越吃越胖",
+      "onboard_time": 1714303578,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 299112,
@@ -1067,12 +1131,20 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 249377,
-      "num": 249377,
-      "word": "原来以前没有调休",
-      "onboard_time": 1714301958,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 248904,
+      "num": 248904,
+      "word": "林俊杰官方APP公司被告",
+      "onboard_time": 1714306824,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 248711,
+      "num": 248711,
+      "word": "LGD春季赛淘汰",
+      "onboard_time": 1714306765,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 247811,
@@ -1171,6 +1243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 237684,
+      "num": 201038,
+      "word": "赴山海 成毅",
+      "onboard_time": 1714306699,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234579,
       "num": 165336,
       "word": "原来踩着东西吃饭是气血不足",
@@ -1193,6 +1273,14 @@
       "onboard_time": 1714227559,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230305,
+      "num": 198016,
+      "word": "贾乃亮谎报年龄被黄景瑜踹",
+      "onboard_time": 1714306888,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 228799,
@@ -1339,28 +1427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209318,
-      "num": 209318,
-      "word": "周杰伦二开",
-      "onboard_time": 1714303818,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 208251,
       "num": 208251,
       "word": "韩维辰李瑞 CP感",
       "onboard_time": 1714291398,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207735,
-      "num": 207735,
-      "word": "四种素菜小心越吃越胖",
-      "onboard_time": 1714303578,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 207384,
@@ -1425,6 +1497,14 @@
       "onboard_time": 1714293079,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203417,
+      "num": 203417,
+      "word": "LGD的命运",
+      "onboard_time": 1714297097,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 202036,
@@ -1513,6 +1593,14 @@
       "onboard_time": 1714266980,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196473,
+      "num": 196473,
+      "word": "RW锁定败者组",
+      "onboard_time": 1714306765,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 196406,
@@ -1611,14 +1699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188371,
-      "num": 188371,
-      "word": "LGD的命运",
-      "onboard_time": 1714297097,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 187851,
       "num": 187851,
       "word": "广州龙卷风",
@@ -1673,6 +1753,14 @@
       "onboard_time": 1714259954,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183186,
+      "num": 183186,
+      "word": "防弹少年团官方公告",
+      "onboard_time": 1714307178,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 181889,
@@ -1785,6 +1873,14 @@
       "onboard_time": 1714294518,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171780,
+      "num": 171780,
+      "word": "宋轶甜妹",
+      "onboard_time": 1714305079,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 171690,
@@ -2299,6 +2395,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 115757,
+      "num": 171985,
+      "word": "新疆阿克苏发生4.4级地震",
+      "onboard_time": 1714306699,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115429,
+      "num": 115429,
+      "word": "九尾好C",
+      "onboard_time": 1714307537,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114913,
       "num": 114913,
       "word": "苗苗好甜",
@@ -2337,6 +2449,14 @@
       "onboard_time": 1714265299,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 107293,
+      "num": 107293,
+      "word": "让阅猫无数的我眼前一亮",
+      "onboard_time": 1714305798,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 107204,
@@ -2580,7 +2700,7 @@
     },
     {
       "raw_hot": 39842,
-      "num": 734583,
+      "num": 856427,
       "word": "时间轴回顾中国九天揽月之路",
       "onboard_time": 1714294098,
       "rank": 2,
@@ -2609,6 +2729,14 @@
       "onboard_time": 1714242732,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25093,
+      "num": 264216,
+      "word": "日落了暂停工作十分钟",
+      "onboard_time": 1714304056,
+      "rank": 17,
+      "category": "旅游"
     },
     {
       "raw_hot": 19357,
