@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714285394226,
+  "endTime": 1714286110220,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -35,20 +35,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1500192,
+      "num": 1500192,
+      "word": "两女子穿和服跳日本舞惹众怒",
+      "onboard_time": 1714279698,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1484049,
       "num": 659304,
       "word": "疫苗",
       "onboard_time": 1714276819,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1413613,
-      "num": 1413613,
-      "word": "两女子穿和服跳日本舞惹众怒",
-      "onboard_time": 1714279698,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1409612,
@@ -179,8 +179,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 868484,
+      "num": 868484,
+      "word": "广州一女子商场跳楼砸中路人",
+      "onboard_time": 1714282278,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 844961,
-      "num": 795949,
+      "num": 821851,
       "word": "身上长这种疙瘩是HPV感染",
       "onboard_time": 1714276038,
       "rank": 22,
@@ -200,14 +208,6 @@
       "word": "问界M7起火事故逝者家属发声",
       "onboard_time": 1714275979,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 825346,
-      "num": 825346,
-      "word": "广州一女子商场跳楼砸中路人",
-      "onboard_time": 1714282278,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -403,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 457938,
+      "num": 457938,
+      "word": "华为",
+      "onboard_time": 1714281799,
+      "rank": 28,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 457555,
       "num": 457555,
       "word": "牛仔裤正在被抛弃吗",
@@ -427,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 433477,
-      "num": 433477,
-      "word": "华为",
-      "onboard_time": 1714281799,
-      "rank": 28,
-      "category": "汽车,社会新闻"
-    },
-    {
       "raw_hot": 386346,
       "num": 386346,
       "word": "湖人1比3掘金",
@@ -457,6 +457,14 @@
       "onboard_time": 1714277599,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 376913,
+      "num": 376913,
+      "word": "马斯克 北京",
+      "onboard_time": 1714284918,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 368303,
@@ -587,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303846,
+      "num": 303846,
+      "word": "巴勒斯坦",
+      "onboard_time": 1714284498,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 298480,
       "num": 298480,
       "word": "武汉暴雨",
@@ -616,6 +632,14 @@
       "word": "鹿晗邓超陈赫再唱超级英雄",
       "onboard_time": 1714281199,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 285761,
+      "num": 285761,
+      "word": "戚薇被陈丽君戏妆吓到",
+      "onboard_time": 1714285217,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -835,6 +859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217209,
+      "num": 217209,
+      "word": "关于Hybe最可怕的说法",
+      "onboard_time": 1714285638,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214150,
       "num": 214150,
       "word": "长相思未婚夫跑去做榜上佳婿了",
@@ -867,6 +899,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212613,
+      "num": 212613,
+      "word": "赛力斯回应车辆起火车门无法打开",
+      "onboard_time": 1714285698,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208734,
+      "num": 208734,
+      "word": "女子反驳江西高彩礼希望男生睁眼看世界",
+      "onboard_time": 1714284498,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207384,
+      "num": 207384,
+      "word": "张钧甯好清晰的马甲线",
+      "onboard_time": 1714284978,
+      "rank": 32,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 206981,
       "num": 206981,
       "word": "李现周雨彤cp感",
@@ -875,28 +931,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206812,
-      "num": 206812,
-      "word": "马斯克 北京",
-      "onboard_time": 1714284918,
-      "rank": 28,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 204666,
       "num": 204666,
       "word": "林孝埈Wonderland首封",
       "onboard_time": 1714274598,
       "rank": 32,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 202115,
-      "num": 202115,
-      "word": "巴勒斯坦",
-      "onboard_time": 1714284498,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 202036,
@@ -1019,6 +1059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183383,
+      "num": 183383,
+      "word": "这些蔬菜嘌呤比肉还高",
+      "onboard_time": 1714279580,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 183277,
       "num": 183277,
       "word": "眼泪女王十五集结尾实时反响",
@@ -1043,20 +1091,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180003,
+      "num": 180003,
+      "word": "光与夜之恋",
+      "onboard_time": 1714285879,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178153,
       "num": 178153,
       "word": "女子造谣3岁女儿遭猥亵被判赔6万",
       "onboard_time": 1714223060,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177724,
-      "num": 177724,
-      "word": "张钧甯好清晰的马甲线",
-      "onboard_time": 1714284978,
-      "rank": 32,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 177617,
@@ -1081,14 +1129,6 @@
       "onboard_time": 1714279280,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 174522,
-      "num": 174522,
-      "word": "这些蔬菜嘌呤比肉还高",
-      "onboard_time": 1714279580,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 174231,
@@ -1137,14 +1177,6 @@
       "onboard_time": 1714276638,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166082,
-      "num": 166082,
-      "word": "女子反驳江西高彩礼希望男生睁眼看世界",
-      "onboard_time": 1714284498,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165605,
@@ -1201,14 +1233,6 @@
       "onboard_time": 1714268298,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 156068,
-      "num": 156068,
-      "word": "戚薇被陈丽君戏妆吓到",
-      "onboard_time": 1714285217,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 154602,
@@ -1331,8 +1355,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 135627,
-      "num": 135627,
+      "raw_hot": 136707,
+      "num": 136707,
       "word": "别人拍照和我拍照的区别",
       "onboard_time": 1714284797,
       "rank": 45,
@@ -1449,6 +1473,14 @@
       "onboard_time": 1714236316,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120403,
+      "num": 120403,
+      "word": "小男孩地铁上举了一路荣誉证书",
+      "onboard_time": 1714285517,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119049,
@@ -1612,7 +1644,7 @@
     },
     {
       "raw_hot": 66763,
-      "num": 217848,
+      "num": 233364,
       "word": "超半数小米SU7车主是苹果用户",
       "onboard_time": 1714282518,
       "rank": 26,
