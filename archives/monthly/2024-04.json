@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714288553980,
+  "endTime": 1714289663760,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -4041,6 +4041,14 @@
       "onboard_time": 1712629939,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1178739,
+      "num": 568256,
+      "word": "田馥甄妈妈回应",
+      "onboard_time": 1714287738,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 1178051,
@@ -8667,6 +8675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 791259,
+      "num": 520338,
+      "word": "48元一个的榴莲女子追了一路",
+      "onboard_time": 1714286837,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 790470,
       "num": 790470,
       "word": "陈少熙火了",
@@ -8865,6 +8881,14 @@
       "onboard_time": 1712026519,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 782041,
+      "num": 653912,
+      "word": "关于Hybe最可怕的说法",
+      "onboard_time": 1714285638,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 781839,
@@ -13555,14 +13579,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 595250,
-      "num": 595250,
-      "word": "关于Hybe最可怕的说法",
-      "onboard_time": 1714285638,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 595223,
       "num": 595223,
       "word": "王楚钦马龙 看得心脏疼",
@@ -13849,6 +13865,14 @@
       "onboard_time": 1712674340,
       "rank": 27,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 588558,
+      "num": 509443,
+      "word": "郑佩佩每条微博都艾特刘涛",
+      "onboard_time": 1714288398,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 588517,
@@ -14569,14 +14593,6 @@
       "onboard_time": 1711895720,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 568256,
-      "num": 568256,
-      "word": "田馥甄妈妈回应",
-      "onboard_time": 1714287738,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 567744,
@@ -17011,6 +17027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 507822,
+      "num": 507822,
+      "word": "巴勒斯坦",
+      "onboard_time": 1714284498,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 507819,
       "num": 507819,
       "word": "荣梓杉方回应中戏北电双第一",
@@ -18835,6 +18859,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 470283,
+      "num": 470283,
+      "word": "王一博英语",
+      "onboard_time": 1714288037,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470281,
       "num": 470281,
       "word": "深圳天气",
@@ -19777,14 +19809,6 @@
       "onboard_time": 1711939819,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 451270,
-      "num": 451270,
-      "word": "48元一个的榴莲女子追了一路",
-      "onboard_time": 1714286837,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 451202,
@@ -20753,6 +20777,14 @@
       "onboard_time": 1712806819,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 435498,
+      "num": 435498,
+      "word": "女子反驳江西高彩礼希望男生睁眼看世界",
+      "onboard_time": 1714284498,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435453,
@@ -24411,14 +24443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 370733,
-      "num": 370733,
-      "word": "巴勒斯坦",
-      "onboard_time": 1714284498,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 370678,
       "num": 211435,
       "word": "Faker奶奶",
@@ -27697,14 +27721,6 @@
       "onboard_time": 1713191779,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 324328,
-      "num": 324328,
-      "word": "女子反驳江西高彩礼希望男生睁眼看世界",
-      "onboard_time": 1714284498,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324311,
@@ -35019,6 +35035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251252,
+      "num": 251252,
+      "word": "李承铉被戚薇禁止送礼",
+      "onboard_time": 1714289298,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251185,
       "num": 251185,
       "word": "为什么希望雷军生产卫生巾",
@@ -36937,14 +36961,6 @@
       "onboard_time": 1713337458,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 238629,
-      "num": 238629,
-      "word": "王一博英语",
-      "onboard_time": 1714288037,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 238564,
@@ -41635,6 +41651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211166,
+      "num": 211166,
+      "word": "副校长获奖章而孕妻顾家劳累两度流产",
+      "onboard_time": 1714289358,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211129,
       "num": 211129,
       "word": "刘强东数字人首播破纪录",
@@ -42427,6 +42451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208706,
+      "num": 208706,
+      "word": "郭碧婷 人生不用太累",
+      "onboard_time": 1714289118,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208692,
       "num": 208692,
       "word": "F1直播",
@@ -42945,6 +42977,14 @@
       "onboard_time": 1712547199,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 206750,
+      "num": 206750,
+      "word": "马斯克今天搭乘航班前往北京",
+      "onboard_time": 1714288698,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 206720,
@@ -51003,6 +51043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184247,
+      "num": 184247,
+      "word": "上海地铁限时免收起步费",
+      "onboard_time": 1714287196,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184235,
       "num": 184235,
       "word": "张凌赫萧邦品牌大使",
@@ -53995,14 +54043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174080,
-      "num": 174080,
-      "word": "上海地铁限时免收起步费",
-      "onboard_time": 1714287196,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174014,
       "num": 174014,
       "word": "李汶翰让站姐入职",
@@ -55409,6 +55449,14 @@
       "onboard_time": 1713624560,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168922,
+      "num": 168922,
+      "word": "胡先煦发烧回京去医院",
+      "onboard_time": 1714289419,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 168903,
@@ -59411,6 +59459,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 155022,
+      "num": 155022,
+      "word": "闺蜜的聊天记录是顶级机密",
+      "onboard_time": 1714288638,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154968,
       "num": 154968,
       "word": "芽门永存",
@@ -62169,14 +62225,6 @@
       "onboard_time": 1711957759,
       "rank": 41,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 147482,
-      "num": 147482,
-      "word": "郑佩佩每条微博都艾特刘涛",
-      "onboard_time": 1714288398,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 147434,
@@ -76484,7 +76532,7 @@
     },
     {
       "raw_hot": 59536,
-      "num": 312172,
+      "num": 380269,
       "word": "满级人类如何看待未来汽车",
       "onboard_time": 1714287319,
       "rank": 19,
@@ -78563,6 +78611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 30692,
+      "num": 148069,
+      "word": "河南景区算是把中国文化玩明白了",
+      "onboard_time": 1714287617,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 30488,
       "num": 30488,
       "word": "警惕吃出来的脑膜炎",
@@ -79561,14 +79617,6 @@
       "onboard_time": 1712044819,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17784,
-      "num": 147553,
-      "word": "河南景区算是把中国文化玩明白了",
-      "onboard_time": 1714287617,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 17699,

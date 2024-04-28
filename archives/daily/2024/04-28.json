@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714288553980,
+  "endTime": 1714289663760,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -105,6 +105,14 @@
       "onboard_time": 1714233619,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1178739,
+      "num": 568256,
+      "word": "田馥甄妈妈回应",
+      "onboard_time": 1714287738,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 1078160,
@@ -219,6 +227,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 791259,
+      "num": 520338,
+      "word": "48元一个的榴莲女子追了一路",
+      "onboard_time": 1714286837,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 782041,
+      "num": 653912,
+      "word": "关于Hybe最可怕的说法",
+      "onboard_time": 1714285638,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 770544,
       "num": 770544,
       "word": "杨晓明涉嫌严重违纪违法",
@@ -283,12 +307,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 595250,
-      "num": 595250,
-      "word": "关于Hybe最可怕的说法",
-      "onboard_time": 1714285638,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 588558,
+      "num": 509443,
+      "word": "郑佩佩每条微博都艾特刘涛",
+      "onboard_time": 1714288398,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 588041,
@@ -305,14 +329,6 @@
       "onboard_time": 1714273459,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 568256,
-      "num": 568256,
-      "word": "田馥甄妈妈回应",
-      "onboard_time": 1714287738,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 566748,
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 507822,
+      "num": 507822,
+      "word": "巴勒斯坦",
+      "onboard_time": 1714284498,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 505452,
       "num": 505452,
       "word": "孟子义片场睡觉被围观",
@@ -427,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 470283,
+      "num": 470283,
+      "word": "王一博英语",
+      "onboard_time": 1714288037,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464998,
       "num": 174008,
       "word": "中医提醒臀部是寒气最重的部位",
@@ -459,20 +491,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 451270,
-      "num": 451270,
-      "word": "48元一个的榴莲女子追了一路",
-      "onboard_time": 1714286837,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 438238,
       "num": 438238,
       "word": "彭于晏素颜遛狗被偶遇",
       "onboard_time": 1714272919,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 435498,
+      "num": 435498,
+      "word": "女子反驳江西高彩礼希望男生睁眼看世界",
+      "onboard_time": 1714284498,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435252,
@@ -505,14 +537,6 @@
       "onboard_time": 1714277599,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 370733,
-      "num": 370733,
-      "word": "巴勒斯坦",
-      "onboard_time": 1714284498,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 368303,
@@ -593,14 +617,6 @@
       "onboard_time": 1714226900,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 324328,
-      "num": 324328,
-      "word": "女子反驳江西高彩礼希望男生睁眼看世界",
-      "onboard_time": 1714284498,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320228,
@@ -747,6 +763,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 251252,
+      "num": 251252,
+      "word": "李承铉被戚薇禁止送礼",
+      "onboard_time": 1714289298,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247811,
       "num": 247811,
       "word": "张杰杭州抢票",
@@ -809,14 +833,6 @@
       "onboard_time": 1714269139,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 238629,
-      "num": 238629,
-      "word": "王一博英语",
-      "onboard_time": 1714288037,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 237695,
@@ -947,6 +963,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211166,
+      "num": 211166,
+      "word": "副校长获奖章而孕妻顾家劳累两度流产",
+      "onboard_time": 1714289358,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208706,
+      "num": 208706,
+      "word": "郭碧婷 人生不用太累",
+      "onboard_time": 1714289118,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207384,
       "num": 207384,
       "word": "张钧甯好清晰的马甲线",
@@ -961,6 +993,14 @@
       "onboard_time": 1714266741,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206750,
+      "num": 206750,
+      "word": "马斯克今天搭乘航班前往北京",
+      "onboard_time": 1714288698,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 204666,
@@ -1001,6 +1041,14 @@
       "onboard_time": 1714275678,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 196763,
+      "num": 196763,
+      "word": "时代少年团重庆站",
+      "onboard_time": 1714288578,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 196718,
@@ -1089,6 +1137,14 @@
       "onboard_time": 1714263679,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184247,
+      "num": 184247,
+      "word": "上海地铁限时免收起步费",
+      "onboard_time": 1714287196,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183383,
@@ -1187,14 +1243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174080,
-      "num": 174080,
-      "word": "上海地铁限时免收起步费",
-      "onboard_time": 1714287196,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173844,
       "num": 173844,
       "word": "刘嘉玲梁朝伟国外度假",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1714206978,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168922,
+      "num": 168922,
+      "word": "胡先煦发烧回京去医院",
+      "onboard_time": 1714289419,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 167831,
@@ -1289,6 +1345,14 @@
       "onboard_time": 1714268298,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155022,
+      "num": 155022,
+      "word": "闺蜜的聊天记录是顶级机密",
+      "onboard_time": 1714288638,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 154602,
@@ -1385,14 +1449,6 @@
       "onboard_time": 1714272557,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147482,
-      "num": 147482,
-      "word": "郑佩佩每条微博都艾特刘涛",
-      "onboard_time": 1714288398,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 147154,
@@ -1748,7 +1804,7 @@
     },
     {
       "raw_hot": 59536,
-      "num": 312172,
+      "num": 380269,
       "word": "满级人类如何看待未来汽车",
       "onboard_time": 1714287319,
       "rank": 19,
@@ -1827,6 +1883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30692,
+      "num": 148069,
+      "word": "河南景区算是把中国文化玩明白了",
+      "onboard_time": 1714287617,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 27949,
       "num": 30342,
       "word": "maestro饭拍视频",
@@ -1841,14 +1905,6 @@
       "onboard_time": 1714249212,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 17784,
-      "num": 147553,
-      "word": "河南景区算是把中国文化玩明白了",
-      "onboard_time": 1714287617,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 6669,
