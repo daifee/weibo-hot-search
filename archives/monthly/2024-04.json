@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714310358432,
+  "endTime": 1714311257236,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1851,6 +1851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1616662,
+      "num": 1616662,
+      "word": "眼泪女王大结局",
+      "onboard_time": 1714306765,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1616077,
       "num": 1616077,
       "word": "淀粉肠 骨泥",
@@ -2105,14 +2113,6 @@
       "onboard_time": 1712060360,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1541600,
-      "num": 1541600,
-      "word": "眼泪女王大结局",
-      "onboard_time": 1714306765,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 1540860,
@@ -3404,7 +3404,7 @@
     },
     {
       "raw_hot": 1272062,
-      "num": 528184,
+      "num": 538178,
       "word": "女子餐前打胰岛素被服务员误会吸毒",
       "onboard_time": 1714304297,
       "rank": 10,
@@ -5196,7 +5196,7 @@
     },
     {
       "raw_hot": 1045867,
-      "num": 371555,
+      "num": 386084,
       "word": "吃烤苕皮是一件很私密的事",
       "onboard_time": 1714301296,
       "rank": 20,
@@ -6769,6 +6769,14 @@
       "onboard_time": 1713847821,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 915274,
+      "num": 915274,
+      "word": "Yaoyao发文道歉",
+      "onboard_time": 1714309279,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 913838,
@@ -8987,6 +8995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 782120,
+      "num": 782120,
+      "word": "抢到了",
+      "onboard_time": 1714306399,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 782108,
       "num": 792350,
       "word": "万科",
@@ -9329,14 +9345,6 @@
       "onboard_time": 1712847499,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 766644,
-      "num": 766644,
-      "word": "抢到了",
-      "onboard_time": 1714306399,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 766451,
@@ -10801,6 +10809,14 @@
       "onboard_time": 1712710099,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699171,
+      "num": 699171,
+      "word": "雷军拿奖学金时发誓要1万倍奉还",
+      "onboard_time": 1714309038,
+      "rank": 8,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 698483,
@@ -15507,14 +15523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 547474,
-      "num": 547474,
-      "word": "雷军拿奖学金时发誓要1万倍奉还",
-      "onboard_time": 1714309038,
-      "rank": 8,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 547464,
       "num": 547464,
       "word": "杨紫牛骏峰吻戏被打断",
@@ -16323,14 +16331,6 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 527402,
-      "num": 527402,
-      "word": "Yaoyao发文道歉",
-      "onboard_time": 1714309279,
-      "rank": 12,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 526956,
       "num": 526956,
       "word": "大连震感",
@@ -17113,6 +17113,14 @@
       "onboard_time": 1712714838,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 510121,
+      "num": 387108,
+      "word": "9.9的风终于还是卷到了星巴克",
+      "onboard_time": 1714308258,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 510002,
@@ -21868,7 +21876,7 @@
     },
     {
       "raw_hot": 421503,
-      "num": 421503,
+      "num": 824621,
       "word": "中国航天员完成在轨交接",
       "onboard_time": 1714292178,
       "rank": 31,
@@ -21993,6 +22001,14 @@
       "onboard_time": 1712753657,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 419791,
+      "num": 419791,
+      "word": "眼泪女王杀青宴好像婚闹现场",
+      "onboard_time": 1714292958,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 419789,
@@ -22225,14 +22241,6 @@
       "onboard_time": 1712885540,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 414962,
-      "num": 414962,
-      "word": "眼泪女王杀青宴好像婚闹现场",
-      "onboard_time": 1714292958,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 414453,
@@ -22897,6 +22905,14 @@
       "onboard_time": 1712911100,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400505,
+      "num": 400505,
+      "word": "原来以前没有调休",
+      "onboard_time": 1714301958,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 400344,
@@ -23883,6 +23899,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 385857,
+      "num": 385857,
+      "word": "眼泪女王 太癫了",
+      "onboard_time": 1714310360,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385808,
       "num": 385808,
       "word": "小伞说Doinb能随时开播",
@@ -24281,14 +24305,6 @@
       "onboard_time": 1712733079,
       "rank": 32,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 379343,
-      "num": 379343,
-      "word": "原来以前没有调休",
-      "onboard_time": 1714301958,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 379253,
@@ -27139,14 +27155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 336502,
-      "num": 336502,
-      "word": "9.9的风终于还是卷到了星巴克",
-      "onboard_time": 1714308258,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 336416,
       "num": 135137,
       "word": "张栋梁拥抱拒绝金莎",
@@ -28208,6 +28216,14 @@
       "word": "杨紫休息让我演两集",
       "onboard_time": 1712988557,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 322489,
+      "num": 322489,
+      "word": "张艺凡提前五小时到剧组化妆",
+      "onboard_time": 1714308678,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -31763,6 +31779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 283302,
+      "num": 283302,
+      "word": "我未杀伯仁 伯仁却因我而死",
+      "onboard_time": 1714309998,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283282,
       "num": 283282,
       "word": "猫一杯事件后有MCN加强内容安全培训",
@@ -32555,14 +32579,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 275490,
-      "num": 275490,
-      "word": "张艺凡提前五小时到剧组化妆",
-      "onboard_time": 1714308678,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 275439,
       "num": 275439,
       "word": "台湾已发生10次地震",
@@ -32721,6 +32737,14 @@
       "onboard_time": 1713014418,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273739,
+      "num": 273739,
+      "word": "华为小米手机大部分由比亚迪生产",
+      "onboard_time": 1714309518,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 273729,
@@ -32905,6 +32929,14 @@
       "onboard_time": 1712912419,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271712,
+      "num": 271712,
+      "word": "韩国朋友招待的六菜一汤",
+      "onboard_time": 1714309279,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 271646,
@@ -37433,14 +37465,6 @@
       "onboard_time": 1712628678,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 238463,
-      "num": 238463,
-      "word": "华为小米手机大部分由比亚迪生产",
-      "onboard_time": 1714309518,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 238301,
@@ -44099,14 +44123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205139,
-      "num": 205139,
-      "word": "韩国朋友招待的六菜一汤",
-      "onboard_time": 1714309279,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 205071,
       "num": 201701,
       "word": "承欢记云合",
@@ -47739,6 +47755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194913,
+      "num": 277881,
+      "word": "32岁男子酒后泡澡脑血管破裂进了ICU",
+      "onboard_time": 1714310058,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194883,
       "num": 282195,
       "word": "福宝最新视频炫饭嘎嘎香",
@@ -50147,6 +50171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188760,
+      "num": 188760,
+      "word": "狼队对战AG",
+      "onboard_time": 1714310058,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188758,
       "num": 188758,
       "word": "白宇34岁状态",
@@ -50649,14 +50681,6 @@
       "onboard_time": 1712031321,
       "rank": 42,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 187287,
-      "num": 187287,
-      "word": "狼队对战AG",
-      "onboard_time": 1714310058,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 187227,
@@ -52275,6 +52299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182684,
+      "num": 182684,
+      "word": "时代少年团关于重庆的七份攻略",
+      "onboard_time": 1714310898,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 182669,
       "num": 182669,
       "word": "未婚未育的90后开始当争当月嫂",
@@ -52433,14 +52465,6 @@
       "onboard_time": 1713366499,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 182372,
-      "num": 182372,
-      "word": "我未杀伯仁 伯仁却因我而死",
-      "onboard_time": 1714309998,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 182369,
@@ -52905,6 +52929,14 @@
       "onboard_time": 1714224679,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180620,
+      "num": 389593,
+      "word": "重庆燃气对有问题收费已全面清退",
+      "onboard_time": 1714309819,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180582,
@@ -55553,14 +55585,6 @@
       "onboard_time": 1711963221,
       "rank": 42,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 171299,
-      "num": 213250,
-      "word": "重庆燃气对有问题收费已全面清退",
-      "onboard_time": 1714309819,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171290,
@@ -70419,14 +70443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123050,
-      "num": 132518,
-      "word": "32岁男子酒后泡澡脑血管破裂进了ICU",
-      "onboard_time": 1714310058,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123042,
       "num": 123042,
       "word": "威姆斯称从未回避药检",
@@ -77875,6 +77891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 54334,
+      "num": 388376,
+      "word": "欢迎光临霍格沃茨请随意挑选",
+      "onboard_time": 1714309819,
+      "rank": 38,
+      "category": "时尚,旅游"
+    },
+    {
       "raw_hot": 54271,
       "num": 581552,
       "word": "茶百道港交所上市",
@@ -78641,14 +78665,6 @@
       "onboard_time": 1714132338,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 43769,
-      "num": 190276,
-      "word": "欢迎光临霍格沃茨请随意挑选",
-      "onboard_time": 1714309819,
-      "rank": 38,
-      "category": "时尚,旅游"
     },
     {
       "raw_hot": 43738,
@@ -80227,6 +80243,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 22894,
+      "num": 446954,
+      "word": "蛋仔花式钓鱼",
+      "onboard_time": 1714309218,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 22881,
       "num": 25202,
       "word": "为中国航天加油",
@@ -80625,14 +80649,6 @@
       "onboard_time": 1713462311,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 17331,
-      "num": 446954,
-      "word": "蛋仔花式钓鱼",
-      "onboard_time": 1714309218,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 17289,
