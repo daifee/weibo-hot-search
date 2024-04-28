@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714282446739,
+  "endTime": 1714285394226,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -43,6 +43,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1413613,
+      "num": 1413613,
+      "word": "两女子穿和服跳日本舞惹众怒",
+      "onboard_time": 1714279698,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1409612,
       "num": 1395268,
       "word": "调休",
@@ -59,7 +67,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1318516,
+      "raw_hot": 1353551,
       "num": 1318516,
       "word": "美国多人使用吸血鬼面膜感染HIV",
       "onboard_time": 1714279639,
@@ -115,12 +123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1060663,
+      "num": 1060663,
+      "word": "于正回应郝蕾怒批赵晴",
+      "onboard_time": 1714280180,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1047982,
       "num": 1047982,
       "word": "4个何炅",
       "onboard_time": 1714227140,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1033458,
+      "num": 490485,
+      "word": "何炅的伞撑了一个又一个人",
+      "onboard_time": 1714280660,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 983077,
@@ -147,14 +171,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 956636,
-      "num": 490485,
-      "word": "何炅的伞撑了一个又一个人",
-      "onboard_time": 1714280660,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 940158,
       "num": 502966,
       "word": "通知书到了读研还是结婚",
@@ -163,16 +179,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 938894,
-      "num": 938894,
-      "word": "于正回应郝蕾怒批赵晴",
-      "onboard_time": 1714280180,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 844961,
-      "num": 385682,
+      "num": 795949,
       "word": "身上长这种疙瘩是HPV感染",
       "onboard_time": 1714276038,
       "rank": 22,
@@ -192,6 +200,14 @@
       "word": "问界M7起火事故逝者家属发声",
       "onboard_time": 1714275979,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 825346,
+      "num": 825346,
+      "word": "广州一女子商场跳楼砸中路人",
+      "onboard_time": 1714282278,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -243,14 +259,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 686771,
-      "num": 686771,
-      "word": "两女子穿和服跳日本舞惹众怒",
-      "onboard_time": 1714279698,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 629377,
       "num": 303523,
       "word": "台湾一警官长期性侵亲生女儿",
@@ -273,6 +281,14 @@
       "onboard_time": 1714273459,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548861,
+      "num": 336284,
+      "word": "性格决定上班劳累程度",
+      "onboard_time": 1714279759,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 536566,
@@ -355,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 493897,
+      "num": 493897,
+      "word": "宋雨琦参加杭州草莓音乐节",
+      "onboard_time": 1714282998,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 489377,
       "num": 489377,
       "word": "巴以冲突",
@@ -369,6 +393,14 @@
       "onboard_time": 1714230560,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 461616,
+      "num": 461616,
+      "word": "林峯舌头可以舔到下巴",
+      "onboard_time": 1714281738,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 457555,
@@ -393,6 +425,14 @@
       "onboard_time": 1714261517,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433477,
+      "num": 433477,
+      "word": "华为",
+      "onboard_time": 1714281799,
+      "rank": 28,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 386346,
@@ -459,14 +499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 357305,
-      "num": 357305,
-      "word": "林峯舌头可以舔到下巴",
-      "onboard_time": 1714281738,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 343853,
       "num": 310376,
       "word": "何炅赵丽颖合影旧照",
@@ -481,14 +513,6 @@
       "onboard_time": 1714264039,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 336284,
-      "num": 336284,
-      "word": "性格决定上班劳累程度",
-      "onboard_time": 1714279759,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 336015,
@@ -675,14 +699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245174,
-      "num": 245174,
-      "word": "华为",
-      "onboard_time": 1714281799,
-      "rank": 28,
-      "category": "汽车,社会新闻"
-    },
-    {
       "raw_hot": 244902,
       "num": 244902,
       "word": "王者荣耀",
@@ -859,12 +875,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206812,
+      "num": 206812,
+      "word": "马斯克 北京",
+      "onboard_time": 1714284918,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 204666,
       "num": 204666,
       "word": "林孝埈Wonderland首封",
       "onboard_time": 1714274598,
       "rank": 32,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 202115,
+      "num": 202115,
+      "word": "巴勒斯坦",
+      "onboard_time": 1714284498,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 202036,
@@ -1019,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177724,
+      "num": 177724,
+      "word": "张钧甯好清晰的马甲线",
+      "onboard_time": 1714284978,
+      "rank": 32,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 177617,
       "num": 177617,
       "word": "真正要忌口少吃的蔬菜",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1714279280,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174522,
+      "num": 174522,
+      "word": "这些蔬菜嘌呤比肉还高",
+      "onboard_time": 1714279580,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 174231,
@@ -1091,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166082,
+      "num": 166082,
+      "word": "女子反驳江西高彩礼希望男生睁眼看世界",
+      "onboard_time": 1714284498,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165605,
       "num": 165605,
       "word": "抹茶灌蛋",
@@ -1115,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159987,
+      "num": 159987,
+      "word": "朱一龙最难熬的一分钟",
+      "onboard_time": 1714284079,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159717,
       "num": 159717,
       "word": "第一次出国发朋友圈被同事警告了",
@@ -1131,20 +1195,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 157641,
-      "num": 157641,
-      "word": "广州一女子商场跳楼砸中路人",
-      "onboard_time": 1714282278,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157364,
       "num": 157364,
       "word": "迪丽热巴影子变成小蝴蝶",
       "onboard_time": 1714268298,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156068,
+      "num": 156068,
+      "word": "戚薇被陈丽君戏妆吓到",
+      "onboard_time": 1714285217,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 154602,
@@ -1168,6 +1232,14 @@
       "word": "邓超说蔡文静脑子好厉害",
       "onboard_time": 1714244771,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149667,
+      "num": 149667,
+      "word": "锦超演的余淮",
+      "onboard_time": 1714284739,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1227,6 +1299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147154,
+      "num": 147154,
+      "word": "蔡磊说全力推进的渐冻症药物救不了自己",
+      "onboard_time": 1714283417,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141200,
       "num": 141200,
       "word": "眼泪女王编剧好癫",
@@ -1249,6 +1329,14 @@
       "onboard_time": 1714227261,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135627,
+      "num": 135627,
+      "word": "别人拍照和我拍照的区别",
+      "onboard_time": 1714284797,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 135550,
@@ -1331,14 +1419,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 125436,
-      "num": 125436,
-      "word": "这些蔬菜嘌呤比肉还高",
-      "onboard_time": 1714279580,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 124186,
       "num": 124186,
       "word": "NBA",
@@ -1352,6 +1432,14 @@
       "word": "第一次见这么肥美的大熊猫",
       "onboard_time": 1714246692,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122992,
+      "num": 122992,
+      "word": "龙卷风",
+      "onboard_time": 1714283779,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1521,6 +1609,14 @@
       "onboard_time": 1714276939,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 66763,
+      "num": 217848,
+      "word": "超半数小米SU7车主是苹果用户",
+      "onboard_time": 1714282518,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 63504,
