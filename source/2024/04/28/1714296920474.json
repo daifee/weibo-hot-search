@@ -1,0 +1,410 @@
+{
+  "runTime": 1714296920474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1561241,
+        "num": 1561241,
+        "word": "郑佩佩 我想她了",
+        "onboard_time": 1714293738,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 888054,
+        "num": 888054,
+        "word": "李承铉被戚薇禁止送礼",
+        "onboard_time": 1714289298,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37142,
+        "num": 733670,
+        "word": "时间轴回顾中国九天揽月之路",
+        "onboard_time": 1714294098,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1096853,
+        "num": 731731,
+        "word": "郑佩佩每条微博都艾特刘涛",
+        "onboard_time": 1714288398,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 723054,
+        "num": 723054,
+        "word": "5000块钱的工资46个工作群",
+        "onboard_time": 1714266018,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 665567,
+        "num": 665567,
+        "word": "问界M7起火事故隐藏式门把手疑似未弹出",
+        "onboard_time": 1714295477,
+        "rank": 5,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 456103,
+        "num": 456103,
+        "word": "5架直升机演练迎接神十七回家",
+        "onboard_time": 1714293857,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 410528,
+        "num": 410528,
+        "word": "春色寄情人 死亡教育",
+        "onboard_time": 1714294578,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404615,
+        "num": 404615,
+        "word": "银行盯上县城贵妇",
+        "onboard_time": 1714290437,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108225,
+        "num": 403516,
+        "word": "原来真的有人一辈子活在爱好里",
+        "onboard_time": 1714270998,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2083137,
+        "num": 402916,
+        "word": "居然还有女用避孕套",
+        "onboard_time": 1714295658,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 554592,
+        "num": 400088,
+        "word": "孙俪爆料邓超的坏习惯",
+        "onboard_time": 1714294458,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519049,
+        "num": 399344,
+        "word": "田馥甄妈妈回应",
+        "onboard_time": 1714287738,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 473048,
+        "num": 397067,
+        "word": "副校长获奖章而孕妻顾家劳累两度流产",
+        "onboard_time": 1714289358,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396403,
+        "num": 396403,
+        "word": "眼泪女王杀青宴好像婚闹现场",
+        "onboard_time": 1714292958,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 469368,
+        "num": 393093,
+        "word": "问界将为家属提供一切可能的支持",
+        "onboard_time": 1714289718,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364975,
+        "num": 364975,
+        "word": "王鹤棣素颜健身",
+        "onboard_time": 1714291699,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353055,
+        "num": 353055,
+        "word": "两女子穿和服跳日本舞惹众怒",
+        "onboard_time": 1714279698,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339894,
+        "num": 339894,
+        "word": "48元一个的榴莲女子追了一路",
+        "onboard_time": 1714286837,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316234,
+        "num": 316234,
+        "word": "雷军短袖",
+        "onboard_time": 1714296439,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 311837,
+        "num": 311837,
+        "word": "何炅的伞撑了一个又一个人",
+        "onboard_time": 1714280660,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287805,
+        "num": 287805,
+        "word": "马斯克称乐见中国电车取得进展",
+        "onboard_time": 1714295477,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 268973,
+        "num": 268973,
+        "word": "被林更新开除粉籍了",
+        "onboard_time": 1714295539,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264917,
+        "num": 264917,
+        "word": "猫咪称自己一生从未进食只喝水",
+        "onboard_time": 1714294038,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258060,
+        "num": 258060,
+        "word": "突然发现情绪稳定的伴侣具象化了",
+        "onboard_time": 1714295180,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250712,
+        "num": 250712,
+        "word": "中国航天员完成在轨交接",
+        "onboard_time": 1714292178,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250475,
+        "num": 250475,
+        "word": "王一博英语",
+        "onboard_time": 1714288037,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249022,
+        "num": 249022,
+        "word": "徐冬冬官宣婚礼计划",
+        "onboard_time": 1714291818,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236470,
+        "num": 236470,
+        "word": "关于Hybe最可怕的说法",
+        "onboard_time": 1714285638,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224032,
+        "num": 224032,
+        "word": "周深认识宋雨琦后才开始听Kpop",
+        "onboard_time": 1714295599,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208190,
+        "num": 208190,
+        "word": "身上长这种疙瘩是HPV感染",
+        "onboard_time": 1714276038,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201552,
+        "num": 201552,
+        "word": "HYBE回应防弹少年团注水",
+        "onboard_time": 1714296738,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201390,
+        "num": 201390,
+        "word": "问界已成立专案小组调查追尾起火事件",
+        "onboard_time": 1714295897,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196314,
+        "num": 196314,
+        "word": "广州一女子商场跳楼砸中路人",
+        "onboard_time": 1714282278,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195153,
+        "num": 195153,
+        "word": "胡先煦发烧回京去医院",
+        "onboard_time": 1714289419,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190286,
+        "num": 190286,
+        "word": "ILLIT再获人歌一位",
+        "onboard_time": 1714296798,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190138,
+        "num": 190138,
+        "word": "隆里电丝",
+        "onboard_time": 1714294937,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189306,
+        "num": 189306,
+        "word": "赛力斯回应车辆起火车门无法打开",
+        "onboard_time": 1714285698,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173719,
+        "num": 173719,
+        "word": "出品方回应甄嬛传被钮祜禄氏后人举报",
+        "onboard_time": 1714291398,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167661,
+        "num": 167661,
+        "word": "雷军直播聊最后一次创业",
+        "onboard_time": 1714289718,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162895,
+        "num": 162895,
+        "word": "何浩楠 下了一场玫瑰花雨",
+        "onboard_time": 1714296617,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157824,
+        "num": 157824,
+        "word": "恋与制作人 白起画风",
+        "onboard_time": 1714296379,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16363,
+        "num": 155111,
+        "word": "不要怀疑戚薇浪姐眼光",
+        "onboard_time": 1714296497,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152821,
+        "num": 152821,
+        "word": "阿信泉州演唱会去话筒证实真唱",
+        "onboard_time": 1714296258,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150488,
+        "num": 150488,
+        "word": "警方回应两女子穿和服跳日本舞惹众怒",
+        "onboard_time": 1714293079,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144115,
+        "num": 144115,
+        "word": "为什么不建议睡前刷牙",
+        "onboard_time": 1714269617,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 138919,
+        "num": 138919,
+        "word": "雷军的MBTI",
+        "onboard_time": 1714296738,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138519,
+        "num": 138519,
+        "word": "又嫉妒了黄秘书",
+        "onboard_time": 1714296857,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137698,
+        "num": 137698,
+        "word": "问界M7起火事故逝者家属发声",
+        "onboard_time": 1714275979,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134090,
+        "num": 134090,
+        "word": "KPL",
+        "onboard_time": 1714294637,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#在中国式现代化建设中奋力谱写西部大开发新篇章#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714295830162,
+  "endTime": 1714296920474,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1993,6 +1993,14 @@
       "onboard_time": 1712307258,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1561241,
+      "num": 1561241,
+      "word": "郑佩佩 我想她了",
+      "onboard_time": 1714293738,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1560792,
@@ -4715,14 +4723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1089009,
-      "num": 730742,
-      "word": "郑佩佩 我想她了",
-      "onboard_time": 1714293738,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1087875,
       "num": 1087875,
       "word": "台湾花莲凌晨2次超6级地震",
@@ -7081,6 +7081,14 @@
       "onboard_time": 1712245398,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 888054,
+      "num": 888054,
+      "word": "李承铉被戚薇禁止送礼",
+      "onboard_time": 1714289298,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 887559,
@@ -9507,14 +9515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 752856,
-      "num": 752856,
-      "word": "李承铉被戚薇禁止送礼",
-      "onboard_time": 1714289298,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 752678,
       "num": 752678,
       "word": "妈妈陪读十年将自闭症儿子培养成调律师",
@@ -11617,6 +11617,14 @@
       "onboard_time": 1714110138,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 665567,
+      "num": 665567,
+      "word": "问界M7起火事故隐藏式门把手疑似未弹出",
+      "onboard_time": 1714295477,
+      "rank": 28,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 665213,
@@ -15073,6 +15081,14 @@
       "onboard_time": 1712379019,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 554592,
+      "num": 400088,
+      "word": "孙俪爆料邓超的坏习惯",
+      "onboard_time": 1714294458,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 554587,
@@ -22235,6 +22251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410528,
+      "num": 410528,
+      "word": "春色寄情人 死亡教育",
+      "onboard_time": 1714294578,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 410397,
       "num": 410397,
       "word": "武磊",
@@ -25225,14 +25249,6 @@
       "onboard_time": 1712736798,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 359127,
-      "num": 359127,
-      "word": "孙俪爆料邓超的坏习惯",
-      "onboard_time": 1714294458,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 358994,
@@ -28403,6 +28419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 316234,
+      "num": 316234,
+      "word": "雷军短袖",
+      "onboard_time": 1714296439,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 316196,
       "num": 316196,
       "word": "金星秀国际版要来了",
@@ -30899,14 +30923,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 289966,
-      "num": 289966,
-      "word": "春色寄情人 死亡教育",
-      "onboard_time": 1714294578,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 289536,
       "num": 196490,
       "word": "张艺兴算是回到自己舒适区了",
@@ -31073,6 +31089,14 @@
       "onboard_time": 1714107080,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287805,
+      "num": 287805,
+      "word": "马斯克称乐见中国电车取得进展",
+      "onboard_time": 1714295477,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 287799,
@@ -32971,6 +32995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 268973,
+      "num": 268973,
+      "word": "被林更新开除粉籍了",
+      "onboard_time": 1714295539,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268959,
       "num": 254428,
       "word": "磕了毛不易和内娱女大的友情",
@@ -34273,6 +34305,14 @@
       "onboard_time": 1713851958,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258060,
+      "num": 258060,
+      "word": "突然发现情绪稳定的伴侣具象化了",
+      "onboard_time": 1714295180,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 258040,
@@ -38467,14 +38507,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 230536,
-      "num": 230536,
-      "word": "问界M7起火事故隐藏式门把手疑似未弹出",
-      "onboard_time": 1714295477,
-      "rank": 28,
-      "category": "社会新闻,汽车"
-    },
-    {
       "raw_hot": 230402,
       "num": 152898,
       "word": "陈嘉桦报平安",
@@ -39561,6 +39593,14 @@
       "onboard_time": 1712115081,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224032,
+      "num": 224032,
+      "word": "周深认识宋雨琦后才开始听Kpop",
+      "onboard_time": 1714295599,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 224008,
@@ -42155,14 +42195,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 210160,
-      "num": 210160,
-      "word": "马斯克称乐见中国电车取得进展",
-      "onboard_time": 1714295477,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 210158,
       "num": 210158,
       "word": "赵露思猫眼妆",
@@ -43257,14 +43289,6 @@
       "onboard_time": 1712486599,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 206409,
-      "num": 206409,
-      "word": "突然发现情绪稳定的伴侣具象化了",
-      "onboard_time": 1714295180,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 206388,
@@ -45003,6 +45027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201552,
+      "num": 201552,
+      "word": "HYBE回应防弹少年团注水",
+      "onboard_time": 1714296738,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201540,
       "num": 201540,
       "word": "食物语数据",
@@ -45073,6 +45105,14 @@
       "onboard_time": 1714294937,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201390,
+      "num": 201390,
+      "word": "问界已成立专案小组调查追尾起火事件",
+      "onboard_time": 1714295897,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201387,
@@ -49059,6 +49099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 190286,
+      "num": 190286,
+      "word": "ILLIT再获人歌一位",
+      "onboard_time": 1714296798,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190277,
       "num": 190277,
       "word": "心星相印的Matrix",
@@ -52193,14 +52241,6 @@
       "onboard_time": 1713517937,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181357,
-      "num": 181357,
-      "word": "周深认识宋雨琦后才开始听Kpop",
-      "onboard_time": 1714295599,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 181301,
@@ -56947,14 +56987,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 164325,
-      "num": 164325,
-      "word": "被林更新开除粉籍了",
-      "onboard_time": 1714295539,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164308,
       "num": 164308,
       "word": "当猫咪第一次见到泡泡时",
@@ -57377,6 +57409,14 @@
       "onboard_time": 1713229220,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162895,
+      "num": 162895,
+      "word": "何浩楠 下了一场玫瑰花雨",
+      "onboard_time": 1714296617,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 162872,
@@ -58857,6 +58897,14 @@
       "onboard_time": 1714115539,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 157824,
+      "num": 157824,
+      "word": "恋与制作人 白起画风",
+      "onboard_time": 1714296379,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 157803,
@@ -60505,6 +60553,14 @@
       "onboard_time": 1713339137,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152821,
+      "num": 152821,
+      "word": "阿信泉州演唱会去话筒证实真唱",
+      "onboard_time": 1714296258,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 152766,
@@ -65251,6 +65307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138919,
+      "num": 138919,
+      "word": "雷军的MBTI",
+      "onboard_time": 1714296738,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 138911,
       "num": 138911,
       "word": "刚摘的樱桃不建议直接塞嘴里吃",
@@ -65369,6 +65433,14 @@
       "onboard_time": 1712485998,
       "rank": 46,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 138519,
+      "num": 138519,
+      "word": "又嫉妒了黄秘书",
+      "onboard_time": 1714296857,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 138507,
@@ -80065,6 +80137,14 @@
       "onboard_time": 1713818470,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 16363,
+      "num": 155111,
+      "word": "不要怀疑戚薇浪姐眼光",
+      "onboard_time": 1714296497,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 16340,
