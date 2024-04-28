@@ -1,6 +1,6 @@
 {
   "startTime": 1714321243337,
-  "endTime": 1714343661630,
+  "endTime": 1714346219215,
   "band_list": [
     {
       "raw_hot": 781382,
@@ -41,6 +41,14 @@
       "onboard_time": 1714315039,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 642040,
+      "num": 642040,
+      "word": "民宿涨价1500后被退单平台只赔230",
+      "onboard_time": 1714320018,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 581799,
@@ -91,16 +99,8 @@
       "category": "健康医疗,美食"
     },
     {
-      "raw_hot": 343332,
-      "num": 343332,
-      "word": "民宿涨价1500后被退单平台只赔230",
-      "onboard_time": 1714320018,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329435,
-      "num": 329435,
+      "raw_hot": 343090,
+      "num": 343090,
       "word": "张雨绮是怎么发现这个赛道的",
       "onboard_time": 1714312218,
       "rank": 5,
@@ -121,6 +121,14 @@
       "onboard_time": 1714293738,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 300294,
+      "num": 300294,
+      "word": "快船2比2独行侠",
+      "onboard_time": 1714345754,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 298075,
@@ -147,12 +155,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281982,
+      "num": 105806,
+      "word": "史上最忙五一为何机票价格跳水",
+      "onboard_time": 1714343773,
+      "rank": 20,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 279520,
-      "num": 189066,
+      "num": 204955,
       "word": "粉圈乱象影响观剧体验",
       "onboard_time": 1714318158,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274714,
+      "num": 274714,
+      "word": "四种素菜小心越吃越胖",
+      "onboard_time": 1714303578,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 258609,
@@ -161,6 +185,14 @@
       "onboard_time": 1714314499,
       "rank": 14,
       "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 255787,
+      "num": 255787,
+      "word": "韩雪练舞前后对比",
+      "onboard_time": 1714341191,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 255738,
@@ -187,6 +219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 233111,
+      "num": 233111,
+      "word": "蔡磊妻子说天天愁有什么用",
+      "onboard_time": 1714341912,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230449,
       "num": 230449,
       "word": "眼泪女王 太癫了",
@@ -211,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211847,
+      "num": 211847,
+      "word": "哈登33分",
+      "onboard_time": 1714345754,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209863,
       "num": 209863,
       "word": "邓超 亚比囧囧囧",
@@ -225,6 +273,14 @@
       "onboard_time": 1714316118,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185914,
+      "num": 185914,
+      "word": "国外一位妻子给老公打包午餐",
+      "onboard_time": 1714336750,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 182917,
@@ -251,28 +307,12 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 139826,
-      "num": 94275,
-      "word": "国外一位妻子给老公打包午餐",
-      "onboard_time": 1714336750,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136267,
       "num": 136267,
       "word": "周杰伦二开",
       "onboard_time": 1714303818,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 133855,
-      "num": 133855,
-      "word": "四种素菜小心越吃越胖",
-      "onboard_time": 1714303578,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 129402,
@@ -307,12 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111685,
-      "num": 111685,
-      "word": "韩雪练舞前后对比",
-      "onboard_time": 1714341191,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 108811,
+      "num": 108811,
+      "word": "TT公布调查结果",
+      "onboard_time": 1714330091,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 101904,
@@ -347,12 +387,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95428,
+      "num": 241368,
+      "word": "男子曾获老师无偿资助回母校捐款50万",
+      "onboard_time": 1714326432,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 94354,
       "num": 94354,
       "word": "春色寄情人里的人生态度",
       "onboard_time": 1714318098,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91323,
+      "num": 82367,
+      "word": "当洗澡后穿上你给的短裤",
+      "onboard_time": 1714323255,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 88797,
@@ -379,28 +435,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 85979,
-      "num": 85979,
-      "word": "TT公布调查结果",
-      "onboard_time": 1714330091,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 82883,
       "num": 82883,
       "word": "原来以前没有调休",
       "onboard_time": 1714301958,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 82367,
-      "num": 82367,
-      "word": "当洗澡后穿上你给的短裤",
-      "onboard_time": 1714323255,
-      "rank": 30,
-      "category": "动漫"
     },
     {
       "raw_hot": 78802,
@@ -435,19 +475,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60335,
+      "num": 60335,
+      "word": "雷军称小米造车投入了半个家底",
+      "onboard_time": 1714313780,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 58219,
       "num": 101716,
       "word": "32岁男子酒后泡澡脑血管破裂进了ICU",
       "onboard_time": 1714310058,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55336,
-      "num": 55336,
-      "word": "蔡磊妻子说天天愁有什么用",
-      "onboard_time": 1714341912,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -483,28 +523,52 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 48044,
-      "num": 109188,
-      "word": "男子曾获老师无偿资助回母校捐款50万",
-      "onboard_time": 1714326432,
-      "rank": 9,
-      "category": "社会正能量"
+      "raw_hot": 47627,
+      "num": 47627,
+      "word": "异地小情侣约好在同一天拔智齿",
+      "onboard_time": 1714332251,
+      "rank": 40,
+      "category": "情感"
     },
     {
-      "raw_hot": 39671,
-      "num": 52289,
-      "word": "雷军称小米造车投入了半个家底",
-      "onboard_time": 1714313780,
-      "rank": 48,
-      "category": "汽车"
+      "raw_hot": 46534,
+      "num": 46534,
+      "word": "香蕉加一把糯米粉就是一道美食",
+      "onboard_time": 1714331110,
+      "rank": 45,
+      "category": "美食"
     },
     {
-      "raw_hot": 38764,
-      "num": 38764,
+      "raw_hot": 46502,
+      "num": 46502,
+      "word": "新郎一家开荒给新娘办向日葵婚礼",
+      "onboard_time": 1714332429,
+      "rank": 49,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 45561,
+      "num": 45561,
+      "word": "原来空间站钥匙长这样",
+      "onboard_time": 1714313480,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 44153,
+      "num": 44153,
       "word": "买家称周鸿祎的车不卖",
       "onboard_time": 1714338851,
       "rank": 49,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 40900,
+      "num": 44149,
+      "word": "眼泪女王杀青宴好像婚闹现场",
+      "onboard_time": 1714292958,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 36971,
@@ -515,60 +579,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30339,
-      "num": 30339,
-      "word": "短短三句话却是一辈子的遗憾",
-      "onboard_time": 1714330631,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 28923,
-      "num": 28923,
-      "word": "异地小情侣约好在同一天拔智齿",
-      "onboard_time": 1714332251,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 28057,
-      "num": 28057,
+      "raw_hot": 36386,
+      "num": 44145,
       "word": "眼泪女王",
       "onboard_time": 1714307717,
       "rank": 32,
       "category": "剧集"
     },
     {
-      "raw_hot": 27881,
-      "num": 27989,
-      "word": "香蕉加一把糯米粉就是一道美食",
-      "onboard_time": 1714331110,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 27775,
-      "num": 27970,
-      "word": "新郎一家开荒给新娘办向日葵婚礼",
-      "onboard_time": 1714332429,
-      "rank": 49,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 26660,
-      "num": 27967,
-      "word": "眼泪女王杀青宴好像婚闹现场",
-      "onboard_time": 1714292958,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 23654,
-      "num": 41993,
-      "word": "原来空间站钥匙长这样",
-      "onboard_time": 1714313480,
-      "rank": 49,
-      "category": "国内时政"
+      "raw_hot": 30339,
+      "num": 30339,
+      "word": "短短三句话却是一辈子的遗憾",
+      "onboard_time": 1714330631,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 21446,
