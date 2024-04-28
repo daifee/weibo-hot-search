@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714267185160,
+  "endTime": 1714268353711,
   "band_list": [
     {
       "raw_hot": 2327325,
@@ -11,8 +11,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1921766,
+      "num": 1921766,
+      "word": "5000块钱的工资46个工作群",
+      "onboard_time": 1714266018,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1409612,
-      "num": 571902,
+      "num": 1395268,
       "word": "调休",
       "onboard_time": 1714260737,
       "rank": 11,
@@ -51,20 +59,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 983077,
+      "num": 983077,
+      "word": "iPhone充电切勿放枕头下",
+      "onboard_time": 1714264219,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 957620,
       "num": 403803,
       "word": "问界M7起火",
       "onboard_time": 1714263679,
       "rank": 11,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 860804,
-      "num": 860804,
-      "word": "iPhone充电切勿放枕头下",
-      "onboard_time": 1714264219,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 835689,
@@ -97,14 +105,6 @@
       "onboard_time": 1714227859,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 734389,
-      "num": 370328,
-      "word": "5000块钱的工资46个工作群",
-      "onboard_time": 1714266018,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 629377,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 464998,
-      "num": 168903,
+      "num": 174008,
       "word": "中医提醒臀部是寒气最重的部位",
       "onboard_time": 1714230560,
       "rank": 21,
@@ -195,8 +195,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 358728,
-      "num": 358728,
+      "raw_hot": 368303,
+      "num": 368303,
       "word": "眼泪女王是14年前的剧本",
       "onboard_time": 1714261936,
       "rank": 14,
@@ -379,12 +379,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209036,
+      "num": 209036,
+      "word": "官方通报哈尔滨一小区楼体倾斜",
+      "onboard_time": 1714267221,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207103,
       "num": 207103,
       "word": "掘金vs湖人",
       "onboard_time": 1714265659,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206981,
+      "num": 206981,
+      "word": "李现周雨彤cp感",
+      "onboard_time": 1714266741,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196718,
+      "num": 196718,
+      "word": "男子把修电路拍成800集悬疑剧",
+      "onboard_time": 1714266980,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196062,
@@ -435,20 +459,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177617,
+      "num": 177617,
+      "word": "真正要忌口少吃的蔬菜",
+      "onboard_time": 1714238953,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 176427,
       "num": 176427,
       "word": "林奕含逝世七周年",
       "onboard_time": 1714265839,
       "rank": 30,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 175171,
-      "num": 175171,
-      "word": "男子把修电路拍成800集悬疑剧",
-      "onboard_time": 1714266980,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174231,
@@ -459,20 +483,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173884,
-      "num": 173884,
-      "word": "真正要忌口少吃的蔬菜",
-      "onboard_time": 1714238953,
-      "rank": 47,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 173844,
       "num": 173844,
       "word": "刘嘉玲梁朝伟国外度假",
       "onboard_time": 1714256532,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172799,
+      "num": 172799,
+      "word": "五一假期多个旅游热门城市下雨",
+      "onboard_time": 1714267638,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 171945,
+      "num": 171945,
+      "word": "同龄人中为什么有人显老",
+      "onboard_time": 1714266678,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 171690,
+      "num": 171690,
+      "word": "陈昊宇要碎了",
+      "onboard_time": 1714265779,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 170317,
@@ -483,28 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169742,
-      "num": 169742,
-      "word": "李现周雨彤cp感",
-      "onboard_time": 1714266741,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 169440,
-      "num": 169440,
-      "word": "陈昊宇要碎了",
-      "onboard_time": 1714265779,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165605,
       "num": 165605,
       "word": "抹茶灌蛋",
       "onboard_time": 1714263319,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 163235,
+      "num": 434844,
+      "word": "阿姨寄珍藏停产玩偶满足陌生男孩愿望",
+      "onboard_time": 1714266377,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162494,
@@ -579,12 +611,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140896,
+      "num": 140896,
+      "word": "青岛通报水产品市场被曝使用鬼秤",
+      "onboard_time": 1714268119,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140760,
       "num": 140760,
       "word": "男朋友送的22岁生日礼物",
       "onboard_time": 1714227261,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137715,
+      "num": 137715,
+      "word": "偷感很重是什么梗",
+      "onboard_time": 1714267938,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 135550,
@@ -603,6 +651,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133989,
+      "num": 133989,
+      "word": "为什么西安餐桌上没有餐巾纸",
+      "onboard_time": 1714267579,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131368,
       "num": 131368,
       "word": "五一出行三件套",
@@ -617,14 +673,6 @@
       "onboard_time": 1714262418,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 130957,
-      "num": 130957,
-      "word": "同龄人中为什么有人显老",
-      "onboard_time": 1714266678,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 129550,
@@ -683,20 +731,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118429,
+      "num": 118429,
+      "word": "胃肠药正露丸数据造假30年",
+      "onboard_time": 1714268057,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 114913,
       "num": 114913,
       "word": "苗苗好甜",
       "onboard_time": 1714218618,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113476,
-      "num": 434844,
-      "word": "阿姨寄珍藏停产玩偶满足陌生男孩愿望",
-      "onboard_time": 1714266377,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111022,
@@ -713,6 +761,14 @@
       "onboard_time": 1714265299,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 107396,
+      "num": 107396,
+      "word": "迪丽热巴影子变成小蝴蝶",
+      "onboard_time": 1714268298,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 105215,
@@ -844,7 +900,7 @@
     },
     {
       "raw_hot": 50424,
-      "num": 672147,
+      "num": 1469347,
       "word": "1088人拟获全国五一劳动奖章",
       "onboard_time": 1714223659,
       "rank": 2,

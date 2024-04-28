@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/28 09:19:45
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/28 09:39:13
 </p>
 </blockquote>
 <p>
@@ -845,6 +845,12 @@ Thurman猫一杯视频号被封（热度：2380031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2371%E5%B2%81%E4%BF%9D%E6%B4%81%E8%A2%AB%E5%BC%80%E9%99%A4%E5%90%8E%E5%9C%A8%E7%89%A9%E4%B8%9A%E5%8A%9E%E5%85%AC%E5%AE%A4%E8%87%AA%E6%9D%80%23" target="weibo">
 71岁保洁被开除后在物业办公室自杀（热度：1925463）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%235000%E5%9D%97%E9%92%B1%E7%9A%84%E5%B7%A5%E8%B5%8446%E4%B8%AA%E5%B7%A5%E4%BD%9C%E7%BE%A4%23" target="weibo">
+5000块钱的工资46个工作群（热度：1921766）
 </a>
 </li>
 
@@ -4329,6 +4335,12 @@ iPhone16或将变秃（热度：1001458）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone%E5%85%85%E7%94%B5%E5%88%87%E5%8B%BF%E6%94%BE%E6%9E%95%E5%A4%B4%E4%B8%8B%23" target="weibo">
+iPhone充电切勿放枕头下（热度：983077）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E8%B5%B6%E4%B8%8D%E4%B8%8A%E8%B7%91%E7%94%B7%E5%BD%95%E5%88%B6%23" target="weibo">
 孟子义赶不上跑男录制（热度：982301）
 </a>
@@ -5457,12 +5469,6 @@ ZARA大量粉丝紧急扫货（热度：865085）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone%E5%85%85%E7%94%B5%E5%88%87%E5%8B%BF%E6%94%BE%E6%9E%95%E5%A4%B4%E4%B8%8B%23" target="weibo">
-iPhone充电切勿放枕头下（热度：860804）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E8%A6%81%E6%B1%82%E6%89%8B%E6%8A%84%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E5%BC%95%E5%AD%A6%E7%94%9F%E4%B8%8D%E6%BB%A1%23" target="weibo">
 高校要求手抄毕业论文引学生不满（热度：860319）
 </a>
@@ -6005,12 +6011,6 @@ infp 最接近神的人格（热度：822265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%95%E4%B9%9D%E4%B8%AA%E6%9C%88%E5%8E%BB%E4%BA%A7%E6%A3%80%E8%A2%AB%E8%80%81%E4%BA%BA%E8%A6%81%E6%B1%82%E8%AE%A9%E5%BA%A7%23" target="weibo">
 怀孕九个月去产检被老人要求让座（热度：820288）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%BD%E7%BA%A6%E5%B8%82%E9%95%BF%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E8%A2%AB%E5%A5%B3%E5%AD%90%E6%80%92%E6%89%B9%23" target="weibo">
-纽约市长在飞机上被女子怒批（热度：820141）
 </a>
 </li>
 
