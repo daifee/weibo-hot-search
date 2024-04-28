@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/28 11:19:33
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/28 11:34:13
 </p>
 </blockquote>
 <p>
@@ -5061,6 +5061,12 @@ hybe员工吃瓜忘发zico物料（热度：924534）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%BB%E5%A4%B1%E5%BF%86%20%E7%94%B7%E4%B8%BB%E8%BD%A6%E7%A5%B8%23" target="weibo">
+女主失忆 男主车祸（热度：908127）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A6%81%E6%B1%82%E7%A6%81%E6%AD%A2%E6%97%A5%E9%9F%A9%E8%8D%B7%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%BA%E4%B8%AD%E4%BC%81%E7%BB%B4%E4%BF%AE%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E8%AE%BE%E5%A4%87%23" target="weibo">
 美国要求禁止日韩荷工程师为中企维修芯片制造设备（热度：907916）
 </a>
@@ -6005,12 +6011,6 @@ infp 最接近神的人格（热度：822265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%20%E7%A5%A8%E5%91%A2%23" target="weibo">
 12306 票呢（热度：820884）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20Gucci%23" target="weibo">
-肖战 Gucci（热度：820814）
 </a>
 </li>
 
