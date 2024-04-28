@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714299518025,
+  "endTime": 1714300469323,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -6987,6 +6987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 894933,
+      "num": 665567,
+      "word": "问界M7起火事故隐藏式门把手疑似未弹出",
+      "onboard_time": 1714295477,
+      "rank": 28,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 894637,
       "num": 894637,
       "word": "狐妖小红娘月红篇涂山万象海报",
@@ -7169,14 +7177,6 @@
       "onboard_time": 1713755418,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 879240,
-      "num": 665567,
-      "word": "问界M7起火事故隐藏式门把手疑似未弹出",
-      "onboard_time": 1714295477,
-      "rank": 28,
-      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 877345,
@@ -10203,6 +10203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 721781,
+      "num": 510933,
+      "word": "孙俪爆料邓超的坏习惯",
+      "onboard_time": 1714294458,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 721773,
       "num": 721773,
       "word": "上野千鹤子谈中国彩礼",
@@ -10489,14 +10497,6 @@
       "onboard_time": 1714040599,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 710294,
-      "num": 510933,
-      "word": "孙俪爆料邓超的坏习惯",
-      "onboard_time": 1714294458,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 709250,
@@ -11113,6 +11113,14 @@
       "onboard_time": 1713052756,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 684504,
+      "num": 684504,
+      "word": "博世否认问界M7事故中使用其AEB",
+      "onboard_time": 1714298537,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 684366,
@@ -13689,14 +13697,6 @@
       "onboard_time": 1712091911,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 594906,
-      "num": 594906,
-      "word": "博世否认问界M7事故中使用其AEB",
-      "onboard_time": 1714298537,
-      "rank": 8,
-      "category": "汽车"
     },
     {
       "raw_hot": 594678,
@@ -19683,6 +19683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456537,
+      "num": 456537,
+      "word": "马斯克称乐见中国电车取得进展",
+      "onboard_time": 1714295477,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 456487,
       "num": 456487,
       "word": "孙颖莎 将近40板的超强相持",
@@ -21643,14 +21651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 423386,
-      "num": 423386,
-      "word": "马斯克称乐见中国电车取得进展",
-      "onboard_time": 1714295477,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 423362,
       "num": 423362,
       "word": "禁止学生挂床帘理由缺乏说服力",
@@ -23483,6 +23483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389570,
+      "num": 389570,
+      "word": "HYBE回应防弹少年团注水",
+      "onboard_time": 1714296738,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389429,
       "num": 389429,
       "word": "杨紫请国色芳华全组吃汉堡",
@@ -23921,6 +23929,14 @@
       "onboard_time": 1712194219,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 382655,
+      "num": 382655,
+      "word": "Gucci再次为肖战制作手绘墙",
+      "onboard_time": 1714299437,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 382279,
@@ -25089,14 +25105,6 @@
       "onboard_time": 1713597197,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 363212,
-      "num": 363212,
-      "word": "HYBE回应防弹少年团注水",
-      "onboard_time": 1714296738,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 363211,
@@ -31547,6 +31555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 283732,
+      "num": 283732,
+      "word": "朴彩英收到霉霉新专礼盒",
+      "onboard_time": 1714299497,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 283671,
       "num": 283671,
       "word": "田曦薇一年没走出横店了",
@@ -34523,6 +34539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 256643,
+      "num": 256643,
+      "word": "雷军希望车企私下别搞小动作",
+      "onboard_time": 1714298118,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 256513,
       "num": 231994,
       "word": "Faker名人堂皮肤",
@@ -36619,6 +36643,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 241788,
+      "num": 241788,
+      "word": "00后没抢到票打车3000多公里回家",
+      "onboard_time": 1714297758,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241739,
       "num": 241739,
       "word": "年轻人为什么热衷追逐奶茶联名",
@@ -36945,14 +36977,6 @@
       "onboard_time": 1712144000,
       "rank": 44,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 239782,
-      "num": 239782,
-      "word": "00后没抢到票打车3000多公里回家",
-      "onboard_time": 1714297758,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239778,
@@ -37529,14 +37553,6 @@
       "onboard_time": 1712635639,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 236049,
-      "num": 236049,
-      "word": "雷军希望车企私下别搞小动作",
-      "onboard_time": 1714298118,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 236046,
@@ -40491,6 +40507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 218793,
+      "num": 218793,
+      "word": "BABYMONSTER末放",
+      "onboard_time": 1714299798,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218771,
       "num": 239979,
       "word": "逃离大厂后我考公上岸",
@@ -41553,14 +41577,6 @@
       "onboard_time": 1713255498,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213260,
-      "num": 213260,
-      "word": "Gucci再次为肖战制作手绘墙",
-      "onboard_time": 1714299437,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 213211,
@@ -46675,6 +46691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196833,
+      "num": 529113,
+      "word": "天水表情包大叔靠麻辣烫追星成功",
+      "onboard_time": 1714299258,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196819,
       "num": 196819,
       "word": "程潇千禧辣妹妆",
@@ -47201,6 +47225,14 @@
       "onboard_time": 1713271940,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195378,
+      "num": 195378,
+      "word": "现男友",
+      "onboard_time": 1714298597,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195377,
@@ -52641,14 +52673,6 @@
       "onboard_time": 1713903431,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179984,
-      "num": 179984,
-      "word": "现男友",
-      "onboard_time": 1714298597,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 179965,
@@ -62595,6 +62619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147656,
+      "num": 141739,
+      "word": "张凌赫的天菜拖鞋",
+      "onboard_time": 1714299197,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147551,
       "num": 147551,
       "word": "李逍遥 一次主动换来终生内向",
@@ -65219,6 +65251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139455,
+      "num": 139455,
+      "word": "五一出行劝大家真的要冷静",
+      "onboard_time": 1714296139,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 139450,
       "num": 139450,
       "word": "弟弟因为论文写不出来要退学了",
@@ -65651,14 +65691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138194,
-      "num": 138194,
-      "word": "张凌赫的天菜拖鞋",
-      "onboard_time": 1714299197,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 138156,
       "num": 138156,
       "word": "终于等到Cat的庄周cos",
@@ -65785,14 +65817,6 @@
       "onboard_time": 1712297537,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 137770,
-      "num": 137770,
-      "word": "朴彩英收到霉霉新专礼盒",
-      "onboard_time": 1714299497,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 137746,
@@ -66139,14 +66163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136822,
-      "num": 136822,
-      "word": "五一出行劝大家真的要冷静",
-      "onboard_time": 1714296139,
-      "rank": 47,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 136817,
       "num": 136817,
       "word": "重庆一地铁站石砖脱落砸中孕妇",
@@ -66289,6 +66305,14 @@
       "onboard_time": 1714021344,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 136318,
+      "num": 136318,
+      "word": "周鸿祎拍卖迈巴赫",
+      "onboard_time": 1714300037,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 136284,
@@ -69227,6 +69251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 126139,
+      "num": 594716,
+      "word": "大熊猫挂在树上悠闲晃jiojio",
+      "onboard_time": 1714297817,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126120,
       "num": 126120,
       "word": "当猫咪以为主人给它做的绝育",
@@ -69705,14 +69737,6 @@
       "onboard_time": 1712969417,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 124492,
-      "num": 529113,
-      "word": "天水表情包大叔靠麻辣烫追星成功",
-      "onboard_time": 1714299258,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124484,
@@ -72459,6 +72483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 111106,
+      "num": 111106,
+      "word": "AllKpop爆料hybe",
+      "onboard_time": 1714300338,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111014,
       "num": 111014,
       "word": "eStar九连胜",
@@ -73385,14 +73417,6 @@
       "onboard_time": 1713799279,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105128,
-      "num": 594716,
-      "word": "大熊猫挂在树上悠闲晃jiojio",
-      "onboard_time": 1714297817,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105104,
