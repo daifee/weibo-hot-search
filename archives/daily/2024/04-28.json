@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714302850427,
+  "endTime": 1714304052179,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -395,6 +395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 629623,
+      "num": 629623,
+      "word": "周鸿祎拍卖迈巴赫",
+      "onboard_time": 1714300037,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 629377,
       "num": 303523,
       "word": "台湾一警官长期性侵亲生女儿",
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 613824,
-      "num": 458362,
+      "num": 595493,
       "word": "Gucci再次为肖战制作手绘墙",
       "onboard_time": 1714299437,
       "rank": 29,
@@ -432,6 +440,14 @@
       "word": "戚薇被陈丽君戏妆吓到",
       "onboard_time": 1714285217,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 580718,
+      "num": 580718,
+      "word": "青环5 朴彩英",
+      "onboard_time": 1714302978,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -643,6 +659,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 449878,
+      "num": 358571,
+      "word": "邓超 亚比囧囧囧",
+      "onboard_time": 1714300996,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 448238,
       "num": 448238,
       "word": "银行盯上县城贵妇",
@@ -657,6 +681,14 @@
       "onboard_time": 1714272919,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 436082,
+      "num": 436082,
+      "word": "周鸿祎迈巴赫990万拍出",
+      "onboard_time": 1714303279,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 435498,
@@ -691,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411560,
+      "num": 411560,
+      "word": "雷军希望车企私下别搞小动作",
+      "onboard_time": 1714298118,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 389570,
       "num": 389570,
       "word": "HYBE回应防弹少年团注水",
@@ -721,6 +761,14 @@
       "onboard_time": 1714277599,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377461,
+      "num": 377461,
+      "word": "无骨的舌头伤人最深",
+      "onboard_time": 1714302318,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 368303,
@@ -795,14 +843,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 333566,
-      "num": 333566,
-      "word": "雷军希望车企私下别搞小动作",
-      "onboard_time": 1714298118,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 331209,
       "num": 298751,
       "word": "小叶 泽泽",
@@ -833,6 +873,14 @@
       "onboard_time": 1714229781,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319368,
+      "num": 319368,
+      "word": "博世声明",
+      "onboard_time": 1714301237,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319104,
@@ -883,14 +931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 303456,
-      "num": 303456,
-      "word": "邓超 亚比囧囧囧",
-      "onboard_time": 1714300996,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 299112,
       "num": 299112,
       "word": "恋与制作人百雀羚联名",
@@ -937,22 +977,6 @@
       "onboard_time": 1714281199,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286230,
-      "num": 286230,
-      "word": "博世声明",
-      "onboard_time": 1714301237,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283933,
-      "num": 283933,
-      "word": "周鸿祎拍卖迈巴赫",
-      "onboard_time": 1714300037,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 280824,
@@ -1041,6 +1065,14 @@
       "onboard_time": 1714223419,
       "rank": 13,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 249377,
+      "num": 249377,
+      "word": "原来以前没有调休",
+      "onboard_time": 1714301958,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 247811,
@@ -1219,14 +1251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221532,
-      "num": 221532,
-      "word": "无骨的舌头伤人最深",
-      "onboard_time": 1714302318,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 219889,
       "num": 219889,
       "word": "去见时代少年团的路",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1714220238,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 216837,
+      "num": 216837,
+      "word": "汪峰下一期要看SEVENTEEN新歌",
+      "onboard_time": 1714303638,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 214150,
@@ -1307,12 +1339,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209318,
+      "num": 209318,
+      "word": "周杰伦二开",
+      "onboard_time": 1714303818,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208251,
       "num": 208251,
       "word": "韩维辰李瑞 CP感",
       "onboard_time": 1714291398,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207735,
+      "num": 207735,
+      "word": "四种素菜小心越吃越胖",
+      "onboard_time": 1714303578,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 207384,
@@ -1417,6 +1465,14 @@
       "onboard_time": 1714295897,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201301,
+      "num": 201301,
+      "word": "叶祖新留胡子",
+      "onboard_time": 1714303338,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 199739,
@@ -1617,14 +1673,6 @@
       "onboard_time": 1714259954,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183165,
-      "num": 183165,
-      "word": "原来以前没有调休",
-      "onboard_time": 1714301958,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 181889,

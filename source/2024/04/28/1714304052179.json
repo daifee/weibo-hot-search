@@ -1,0 +1,410 @@
+{
+  "runTime": 1714304052179,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 629623,
+        "num": 629623,
+        "word": "周鸿祎拍卖迈巴赫",
+        "onboard_time": 1714300037,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 598072,
+        "num": 598072,
+        "word": "时代少年团MV有女主",
+        "onboard_time": 1714301357,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31595,
+        "num": 595662,
+        "word": "时间轴回顾中国九天揽月之路",
+        "onboard_time": 1714294098,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595493,
+        "num": 595493,
+        "word": "Gucci再次为肖战制作手绘墙",
+        "onboard_time": 1714299437,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 580718,
+        "num": 580718,
+        "word": "青环5 朴彩英",
+        "onboard_time": 1714302978,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436082,
+        "num": 436082,
+        "word": "周鸿祎迈巴赫990万拍出",
+        "onboard_time": 1714303279,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 411560,
+        "num": 411560,
+        "word": "雷军希望车企私下别搞小动作",
+        "onboard_time": 1714298118,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 183524,
+        "num": 386063,
+        "word": "天水表情包大叔靠麻辣烫追星成功",
+        "onboard_time": 1714299258,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114753,
+        "num": 380893,
+        "word": "大熊猫挂在树上悠闲晃jiojio",
+        "onboard_time": 1714297817,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377461,
+        "num": 377461,
+        "word": "无骨的舌头伤人最深",
+        "onboard_time": 1714302318,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1277996,
+        "num": 374747,
+        "word": "居然还有女用避孕套",
+        "onboard_time": 1714295658,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 570627,
+        "num": 371579,
+        "word": "问界M7起火事故隐藏式门把手疑似未弹出",
+        "onboard_time": 1714295477,
+        "rank": 11,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 456894,
+        "num": 363176,
+        "word": "孙俪爆料邓超的坏习惯",
+        "onboard_time": 1714294458,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449878,
+        "num": 358571,
+        "word": "邓超 亚比囧囧囧",
+        "onboard_time": 1714300996,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356915,
+        "num": 356915,
+        "word": "博世否认问界M7事故中使用其AEB",
+        "onboard_time": 1714298537,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356833,
+        "num": 356833,
+        "word": "副校长获奖章而孕妻顾家劳累两度流产",
+        "onboard_time": 1714289358,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354924,
+        "num": 354924,
+        "word": "郑佩佩好像我奶奶",
+        "onboard_time": 1714298779,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319368,
+        "num": 319368,
+        "word": "博世声明",
+        "onboard_time": 1714301237,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297332,
+        "num": 297332,
+        "word": "48元一个的榴莲女子追了一路",
+        "onboard_time": 1714286837,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296571,
+        "num": 296571,
+        "word": "朴彩英收到霉霉新专礼盒",
+        "onboard_time": 1714299497,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1007977,
+        "num": 284704,
+        "word": "吃烤苕皮是一件很私密的事",
+        "onboard_time": 1714301296,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 894220,
+        "num": 273761,
+        "word": "郑佩佩 我想她了",
+        "onboard_time": 1714293738,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 599875,
+        "num": 271797,
+        "word": "李承铉被戚薇禁止送礼",
+        "onboard_time": 1714289298,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261614,
+        "num": 261614,
+        "word": "岂能尽如人意 但求不愧我心",
+        "onboard_time": 1714298057,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438111,
+        "num": 260963,
+        "word": "郑佩佩每条微博都艾特刘涛",
+        "onboard_time": 1714288398,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252760,
+        "num": 252760,
+        "word": "雷军短袖",
+        "onboard_time": 1714296439,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 249377,
+        "num": 249377,
+        "word": "原来以前没有调休",
+        "onboard_time": 1714301958,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228247,
+        "num": 228247,
+        "word": "春色寄情人 死亡教育",
+        "onboard_time": 1714294578,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193269,
+        "num": 217164,
+        "word": "00后没抢到票打车3000多公里回家",
+        "onboard_time": 1714297758,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44687,
+        "num": 216922,
+        "word": "蛋仔五一福利",
+        "onboard_time": 1714301357,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216837,
+        "num": 216837,
+        "word": "汪峰下一期要看SEVENTEEN新歌",
+        "onboard_time": 1714303638,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209318,
+        "num": 209318,
+        "word": "周杰伦二开",
+        "onboard_time": 1714303818,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207735,
+        "num": 207735,
+        "word": "四种素菜小心越吃越胖",
+        "onboard_time": 1714303578,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206528,
+        "num": 206528,
+        "word": "眼泪女王杀青宴好像婚闹现场",
+        "onboard_time": 1714292958,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201301,
+        "num": 201301,
+        "word": "叶祖新留胡子",
+        "onboard_time": 1714303338,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193632,
+        "num": 193632,
+        "word": "马斯克称乐见中国电车取得进展",
+        "onboard_time": 1714295477,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 172764,
+        "num": 172764,
+        "word": "5000块钱的工资46个工作群",
+        "onboard_time": 1714266018,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170932,
+        "num": 170932,
+        "word": "何炅的伞撑了一个又一个人",
+        "onboard_time": 1714280660,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169306,
+        "num": 169306,
+        "word": "王一博英语",
+        "onboard_time": 1714288037,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147408,
+        "num": 166939,
+        "word": "两女子穿和服跳日本舞惹众怒",
+        "onboard_time": 1714279698,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166212,
+        "num": 166212,
+        "word": "看似很爽其实伤身体的行为",
+        "onboard_time": 1714300517,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 163551,
+        "num": 163551,
+        "word": "汪峰进军Kpop了",
+        "onboard_time": 1714302018,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163030,
+        "num": 163030,
+        "word": "何炅李维嘉30年的友谊",
+        "onboard_time": 1714297758,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162639,
+        "num": 162639,
+        "word": "去见时代少年团的路",
+        "onboard_time": 1714301296,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142403,
+        "num": 142403,
+        "word": "现男友",
+        "onboard_time": 1714298597,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137993,
+        "num": 137993,
+        "word": "巨蟹座的高冷是为了保护自己",
+        "onboard_time": 1714302497,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137455,
+        "num": 137455,
+        "word": "BABYMONSTER末放",
+        "onboard_time": 1714299798,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134076,
+        "num": 134076,
+        "word": "LGD的命运",
+        "onboard_time": 1714297097,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158235,
+        "num": 133178,
+        "word": "时代少年团直播 三天观看",
+        "onboard_time": 1714300638,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125258,
+        "num": 125258,
+        "word": "问界M7",
+        "onboard_time": 1714302138,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#西部描绘繁荣发展新画卷#"
+    }
+  }
+}

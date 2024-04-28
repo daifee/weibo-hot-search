@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714302850427,
+  "endTime": 1714304052179,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -12603,6 +12603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629623,
+      "num": 629623,
+      "word": "周鸿祎拍卖迈巴赫",
+      "onboard_time": 1714300037,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 629537,
       "num": 629537,
       "word": "侯雯元枕上了钟楚曦送的枕头",
@@ -13156,7 +13164,7 @@
     },
     {
       "raw_hot": 613824,
-      "num": 458362,
+      "num": 595493,
       "word": "Gucci再次为肖战制作手绘墙",
       "onboard_time": 1714299437,
       "rank": 29,
@@ -14248,6 +14256,14 @@
       "word": "歌手2024",
       "onboard_time": 1713227058,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 580718,
+      "num": 580718,
+      "word": "青环5 朴彩英",
+      "onboard_time": 1714302978,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -20059,6 +20075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449878,
+      "num": 358571,
+      "word": "邓超 亚比囧囧囧",
+      "onboard_time": 1714124119,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 449837,
       "num": 429381,
       "word": "IVE 巴啦啦小魔仙",
@@ -20921,6 +20945,14 @@
       "onboard_time": 1712415200,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 436082,
+      "num": 436082,
+      "word": "周鸿祎迈巴赫990万拍出",
+      "onboard_time": 1714303279,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 436060,
@@ -22265,6 +22297,14 @@
       "onboard_time": 1712842219,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 411560,
+      "num": 411560,
+      "word": "雷军希望车企私下别搞小动作",
+      "onboard_time": 1714298118,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 411302,
@@ -24257,6 +24297,14 @@
       "onboard_time": 1712820438,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 377461,
+      "num": 377461,
+      "word": "无骨的舌头伤人最深",
+      "onboard_time": 1714302318,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 377416,
@@ -27227,14 +27275,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 333566,
-      "num": 333566,
-      "word": "雷军希望车企私下别搞小动作",
-      "onboard_time": 1714298118,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 333424,
       "num": 333424,
       "word": "花少导演组靠秦海璐拉群",
@@ -28305,6 +28345,14 @@
       "onboard_time": 1713054197,
       "rank": 21,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 319368,
+      "num": 319368,
+      "word": "博世声明",
+      "onboard_time": 1714301237,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319292,
@@ -29521,14 +29569,6 @@
       "onboard_time": 1714175476,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 304998,
-      "num": 304998,
-      "word": "邓超 亚比囧囧囧",
-      "onboard_time": 1714124119,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 304936,
@@ -31355,14 +31395,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 286230,
-      "num": 286230,
-      "word": "博世声明",
-      "onboard_time": 1714301237,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286156,
       "num": 286156,
       "word": "00后上班是为了下班",
@@ -31561,14 +31593,6 @@
       "onboard_time": 1713538758,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 283933,
-      "num": 283933,
-      "word": "周鸿祎拍卖迈巴赫",
-      "onboard_time": 1714300037,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 283921,
@@ -35577,6 +35601,14 @@
       "onboard_time": 1712629877,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 249377,
+      "num": 249377,
+      "word": "原来以前没有调休",
+      "onboard_time": 1714301958,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 249346,
@@ -40091,14 +40123,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 221532,
-      "num": 221532,
-      "word": "无骨的舌头伤人最深",
-      "onboard_time": 1714302318,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 221482,
       "num": 347993,
       "word": "CBA",
@@ -40969,6 +40993,14 @@
       "onboard_time": 1712977216,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216837,
+      "num": 216837,
+      "word": "汪峰下一期要看SEVENTEEN新歌",
+      "onboard_time": 1714303638,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 216769,
@@ -42579,6 +42611,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 209318,
+      "num": 209318,
+      "word": "周杰伦二开",
+      "onboard_time": 1714303818,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 209287,
       "num": 209287,
       "word": "范志毅回应执教辽宁铁人",
@@ -43001,6 +43041,14 @@
       "onboard_time": 1713929656,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207735,
+      "num": 207735,
+      "word": "四种素菜小心越吃越胖",
+      "onboard_time": 1714303578,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 207712,
@@ -45296,6 +45344,14 @@
       "word": "惜花芷今日开播",
       "onboard_time": 1712027058,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 201301,
+      "num": 201301,
+      "word": "叶祖新留胡子",
+      "onboard_time": 1714303338,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -51905,14 +51961,6 @@
       "onboard_time": 1712805197,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183165,
-      "num": 183165,
-      "word": "原来以前没有调休",
-      "onboard_time": 1714301958,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 183148,
