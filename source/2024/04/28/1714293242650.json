@@ -1,0 +1,410 @@
+{
+  "runTime": 1714293242650,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1459578,
+        "num": 1459578,
+        "word": "郑佩佩每条微博都艾特刘涛",
+        "onboard_time": 1714288398,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601335,
+        "num": 601335,
+        "word": "两女子穿和服跳日本舞惹众怒",
+        "onboard_time": 1714279698,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32396,
+        "num": 574907,
+        "word": "用明信片方式打开神十七太空之旅",
+        "onboard_time": 1714276819,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 704179,
+        "num": 572461,
+        "word": "5000块钱的工资46个工作群",
+        "onboard_time": 1714266018,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 569727,
+        "num": 569727,
+        "word": "问界将为家属提供一切可能的支持",
+        "onboard_time": 1714289718,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458300,
+        "num": 458300,
+        "word": "关于Hybe最可怕的说法",
+        "onboard_time": 1714285638,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425469,
+        "num": 425469,
+        "word": "身上长这种疙瘩是HPV感染",
+        "onboard_time": 1714276038,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 424414,
+        "num": 424414,
+        "word": "广州一女子商场跳楼砸中路人",
+        "onboard_time": 1714282278,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421503,
+        "num": 421503,
+        "word": "中国航天员完成在轨交接",
+        "onboard_time": 1714292178,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144322,
+        "num": 417317,
+        "word": "原来真的有人一辈子活在爱好里",
+        "onboard_time": 1714270998,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 883197,
+        "num": 413350,
+        "word": "副校长获奖章而孕妻顾家劳累两度流产",
+        "onboard_time": 1714289358,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834269,
+        "num": 403999,
+        "word": "田馥甄妈妈回应",
+        "onboard_time": 1714287738,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 775253,
+        "num": 399378,
+        "word": "48元一个的榴莲女子追了一路",
+        "onboard_time": 1714286837,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561734,
+        "num": 391768,
+        "word": "王一博英语",
+        "onboard_time": 1714288037,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91353,
+        "num": 381880,
+        "word": "近半数过敏性鼻炎患者会发展为哮喘",
+        "onboard_time": 1714291219,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 524100,
+        "num": 378728,
+        "word": "胡先煦发烧回京去医院",
+        "onboard_time": 1714289419,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470013,
+        "num": 367234,
+        "word": "何炅的伞撑了一个又一个人",
+        "onboard_time": 1714280660,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365864,
+        "num": 365864,
+        "word": "赛力斯回应车辆起火车门无法打开",
+        "onboard_time": 1714285698,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339805,
+        "num": 339805,
+        "word": "银行盯上县城贵妇",
+        "onboard_time": 1714290437,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325286,
+        "num": 325286,
+        "word": "郭碧婷 人生不用太累",
+        "onboard_time": 1714289118,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537519,
+        "num": 317671,
+        "word": "李承铉被戚薇禁止送礼",
+        "onboard_time": 1714289298,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302031,
+        "num": 302031,
+        "word": "王鹤棣素颜健身",
+        "onboard_time": 1714291699,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277755,
+        "num": 277755,
+        "word": "于正回应郝蕾怒批赵晴",
+        "onboard_time": 1714280180,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275927,
+        "num": 275927,
+        "word": "为什么不建议睡前刷牙",
+        "onboard_time": 1714269617,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 271167,
+        "num": 271167,
+        "word": "纪凌尘随地乱丢烟头",
+        "onboard_time": 1714290139,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264700,
+        "num": 264700,
+        "word": "徐冬冬官宣婚礼计划",
+        "onboard_time": 1714291818,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251088,
+        "num": 251088,
+        "word": "这下谁还敢恋爱脑啊",
+        "onboard_time": 1714291699,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246333,
+        "num": 246333,
+        "word": "出品方回应甄嬛传被钮祜禄氏后人举报",
+        "onboard_time": 1714291398,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244874,
+        "num": 244874,
+        "word": "性格决定上班劳累程度",
+        "onboard_time": 1714279759,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225746,
+        "num": 225746,
+        "word": "问界M7起火事故逝者家属发声",
+        "onboard_time": 1714275979,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75451,
+        "num": 219564,
+        "word": "你会第一时间给手机系统升级吗",
+        "onboard_time": 1714292000,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217706,
+        "num": 217706,
+        "word": "马斯克 北京",
+        "onboard_time": 1714284918,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 197902,
+        "num": 197902,
+        "word": "不够善良的我们 单身女性",
+        "onboard_time": 1714292720,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190923,
+        "num": 190923,
+        "word": "大明湖畔的杨紫",
+        "onboard_time": 1714290559,
+        "rank": 33,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 190278,
+        "num": 190278,
+        "word": "眼泪女王杀青宴好像婚闹现场",
+        "onboard_time": 1714292958,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170102,
+        "num": 170102,
+        "word": "道枝骏佑妈生初恋脸",
+        "onboard_time": 1714292537,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169240,
+        "num": 169240,
+        "word": "不喜欢工作但喜欢找工作",
+        "onboard_time": 1714290318,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166754,
+        "num": 166754,
+        "word": "女子反驳江西高彩礼希望男生睁眼看世界",
+        "onboard_time": 1714284498,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157075,
+        "num": 157075,
+        "word": "林峯舌头可以舔到下巴",
+        "onboard_time": 1714281738,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156834,
+        "num": 156834,
+        "word": "袁娅维吐槽浪姐字幕",
+        "onboard_time": 1714292358,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153367,
+        "num": 153367,
+        "word": "戚薇被陈丽君戏妆吓到",
+        "onboard_time": 1714285217,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145463,
+        "num": 145463,
+        "word": "怀孕九个月去产检被老人要求让座",
+        "onboard_time": 1714259896,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144517,
+        "num": 144517,
+        "word": "雷军直播聊最后一次创业",
+        "onboard_time": 1714289718,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135570,
+        "num": 135570,
+        "word": "警方回应两女子穿和服跳日本舞惹众怒",
+        "onboard_time": 1714293079,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134928,
+        "num": 134928,
+        "word": "女主失忆 男主车祸",
+        "onboard_time": 1714272499,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130838,
+        "num": 130838,
+        "word": "朋友说虞书欣风是我的统治区",
+        "onboard_time": 1714291219,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129847,
+        "num": 129847,
+        "word": "杨紫专访",
+        "onboard_time": 1714290379,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129723,
+        "num": 129723,
+        "word": "一些舒服的吃饭姿势",
+        "onboard_time": 1714292899,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122792,
+        "num": 122792,
+        "word": "问界回应车辆起火司乘3人遇难",
+        "onboard_time": 1714273698,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113319,
+        "num": 113319,
+        "word": "韩维辰李瑞 CP感",
+        "onboard_time": 1714291398,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#在中国式现代化建设中奋力谱写西部大开发新篇章#"
+    }
+  }
+}
