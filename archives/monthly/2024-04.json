@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714311257236,
+  "endTime": 1714313716685,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1587,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1701049,
+      "num": 1701049,
+      "word": "眼泪女王大结局",
+      "onboard_time": 1714306765,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1700774,
       "num": 1700774,
       "word": "北科大女生 求你别再骗我妈救命钱",
@@ -1849,14 +1857,6 @@
       "onboard_time": 1712450719,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1616662,
-      "num": 1616662,
-      "word": "眼泪女王大结局",
-      "onboard_time": 1714306765,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 1616077,
@@ -5507,6 +5507,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1022945,
+      "num": 1022945,
+      "word": "Yaoyao发文道歉",
+      "onboard_time": 1714309279,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1022624,
       "num": 1022624,
       "word": "林更新与凤行杀青哭成狗",
@@ -6769,14 +6777,6 @@
       "onboard_time": 1713847821,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 915274,
-      "num": 915274,
-      "word": "Yaoyao发文道歉",
-      "onboard_time": 1714309279,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 913838,
@@ -8049,6 +8049,14 @@
       "onboard_time": 1712915958,
       "rank": 11,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 829560,
+      "num": 387108,
+      "word": "9.9的风终于还是卷到了星巴克",
+      "onboard_time": 1714308258,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 829326,
@@ -9369,6 +9377,14 @@
       "onboard_time": 1713871997,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 765526,
+      "num": 765526,
+      "word": "眼泪女王 太癫了",
+      "onboard_time": 1714310360,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 764706,
@@ -10977,6 +10993,14 @@
       "onboard_time": 1713708381,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 691777,
+      "num": 323647,
+      "word": "长期吃榴莲身体会发生什么变化",
+      "onboard_time": 1714311439,
+      "rank": 21,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 691194,
@@ -15819,6 +15843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 538747,
+      "num": 251000,
+      "word": "问界",
+      "onboard_time": 1711940541,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 538706,
       "num": 538706,
       "word": "腾讯视频24年大剧片单",
@@ -17115,14 +17147,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 510121,
-      "num": 387108,
-      "word": "9.9的风终于还是卷到了星巴克",
-      "onboard_time": 1714308258,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 510002,
       "num": 510002,
       "word": "福宝户口",
@@ -17320,6 +17344,14 @@
       "word": "休想换走我的高铁F座",
       "onboard_time": 1714122617,
       "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 506978,
+      "num": 478905,
+      "word": "原来以前没有调休",
+      "onboard_time": 1714301958,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -18713,6 +18745,14 @@
       "onboard_time": 1712836097,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 478092,
+      "num": 478092,
+      "word": "眼泪女王杀青宴好像婚闹现场",
+      "onboard_time": 1714292958,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 477998,
@@ -21876,7 +21916,7 @@
     },
     {
       "raw_hot": 421503,
-      "num": 824621,
+      "num": 825545,
       "word": "中国航天员完成在轨交接",
       "onboard_time": 1714292178,
       "rank": 31,
@@ -22001,14 +22041,6 @@
       "onboard_time": 1712753657,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 419791,
-      "num": 419791,
-      "word": "眼泪女王杀青宴好像婚闹现场",
-      "onboard_time": 1714292958,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 419789,
@@ -22905,14 +22937,6 @@
       "onboard_time": 1712911100,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400505,
-      "num": 400505,
-      "word": "原来以前没有调休",
-      "onboard_time": 1714301958,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 400344,
@@ -23897,14 +23921,6 @@
       "onboard_time": 1713798321,
       "rank": 28,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 385857,
-      "num": 385857,
-      "word": "眼泪女王 太癫了",
-      "onboard_time": 1714310360,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 385808,
@@ -27001,6 +27017,14 @@
       "onboard_time": 1712920218,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339545,
+      "num": 339545,
+      "word": "张雨绮是怎么发现这个赛道的",
+      "onboard_time": 1714312218,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 339461,
@@ -37323,6 +37347,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 239352,
+      "num": 239352,
+      "word": "黄晓明默默撤回了一口饭",
+      "onboard_time": 1714312639,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239349,
       "num": 239349,
       "word": "李泰容ins",
@@ -38353,14 +38385,6 @@
       "onboard_time": 1714224078,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 232920,
-      "num": 232920,
-      "word": "问界",
-      "onboard_time": 1711940541,
-      "rank": 32,
-      "category": "汽车"
     },
     {
       "raw_hot": 232888,
@@ -40179,6 +40203,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 222194,
+      "num": 222194,
+      "word": "RIIZE疑似剧透洪承汉复出",
+      "onboard_time": 1714313601,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222185,
       "num": 222185,
       "word": "法国张震",
@@ -41201,6 +41233,14 @@
       "onboard_time": 1712819838,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 216379,
+      "num": 277881,
+      "word": "32岁男子酒后泡澡脑血管破裂进了ICU",
+      "onboard_time": 1714310058,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216244,
@@ -47755,14 +47795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194913,
-      "num": 277881,
-      "word": "32岁男子酒后泡澡脑血管破裂进了ICU",
-      "onboard_time": 1714310058,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194883,
       "num": 282195,
       "word": "福宝最新视频炫饭嘎嘎香",
@@ -48913,6 +48945,14 @@
       "onboard_time": 1712397856,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191767,
+      "num": 191767,
+      "word": "蒋敦豪 装蜂蜜直拍",
+      "onboard_time": 1714313601,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 191739,
@@ -56075,6 +56115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169430,
+      "num": 169430,
+      "word": "朱洁静抢票失败",
+      "onboard_time": 1714311380,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169426,
       "num": 169426,
       "word": "教资面试平等逼疯每个i人",
@@ -62297,6 +62345,14 @@
       "onboard_time": 1713867198,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149342,
+      "num": 149342,
+      "word": "卡琳娜的营业态度",
+      "onboard_time": 1714313418,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 149336,
@@ -69195,6 +69251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128012,
+      "num": 128012,
+      "word": "常吃这3类鸡蛋才真正有害",
+      "onboard_time": 1714313418,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 127953,
       "num": 127953,
       "word": "刷我医保卡救活沈近真",
@@ -71947,6 +72011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116608,
+      "num": 227750,
+      "word": "专家谈问界M7碰撞后疑车门无法打开",
+      "onboard_time": 1714313540,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116596,
       "num": 116596,
       "word": "赵文琪称美甲不满意可退款重做",
@@ -74147,6 +74219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102918,
+      "num": 182031,
+      "word": "原来空间站钥匙长这样",
+      "onboard_time": 1714313480,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 102902,
       "num": 102902,
       "word": "黄冠亨 掌管水壶的神",
@@ -74224,6 +74304,14 @@
       "word": "王濛成过山车表情判官",
       "onboard_time": 1714105760,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102336,
+      "num": 117993,
+      "word": "北伦敦德比",
+      "onboard_time": 1714312880,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -76001,6 +76089,14 @@
       "onboard_time": 1714000036,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 81634,
+      "num": 388376,
+      "word": "欢迎光临霍格沃茨请随意挑选",
+      "onboard_time": 1714309819,
+      "rank": 38,
+      "category": "时尚,旅游"
     },
     {
       "raw_hot": 81573,
@@ -77889,14 +77985,6 @@
       "onboard_time": 1714301357,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 54334,
-      "num": 388376,
-      "word": "欢迎光临霍格沃茨请随意挑选",
-      "onboard_time": 1714309819,
-      "rank": 38,
-      "category": "时尚,旅游"
     },
     {
       "raw_hot": 54271,
@@ -80035,6 +80123,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 25059,
+      "num": 401791,
+      "word": "不要怀疑戚薇浪姐眼光",
+      "onboard_time": 1714296497,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25001,
       "num": 25528,
       "word": "人生易如反掌",
@@ -80745,14 +80841,6 @@
       "onboard_time": 1713818470,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 16363,
-      "num": 155111,
-      "word": "不要怀疑戚薇浪姐眼光",
-      "onboard_time": 1714296497,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 16340,
