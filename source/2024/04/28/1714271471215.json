@@ -1,0 +1,410 @@
+{
+  "runTime": 1714271471215,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2050489,
+        "num": 2050489,
+        "word": "5000块钱的工资46个工作群",
+        "onboard_time": 1714266018,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1071233,
+        "num": 1071233,
+        "word": "朴彩英 歌手2024",
+        "onboard_time": 1714269498,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36293,
+        "num": 965439,
+        "word": "1088人拟获全国五一劳动奖章",
+        "onboard_time": 1714223659,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960594,
+        "num": 960594,
+        "word": "歌手阵容",
+        "onboard_time": 1714269319,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 762340,
+        "num": 762340,
+        "word": "五一放假下雨4天是怎样的体验",
+        "onboard_time": 1714260315,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 702087,
+        "num": 702087,
+        "word": "布林肯在中国遭BBC女记者连怼",
+        "onboard_time": 1714269378,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 678266,
+        "num": 678266,
+        "word": "偷感很重是什么梗",
+        "onboard_time": 1714267938,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 637816,
+        "num": 637816,
+        "word": "iPhone充电切勿放枕头下",
+        "onboard_time": 1714264219,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 529059,
+        "num": 529059,
+        "word": "薛之谦打嗝全场喊退票",
+        "onboard_time": 1714269139,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145637,
+        "num": 526212,
+        "word": "阿姨寄珍藏停产玩偶满足陌生男孩愿望",
+        "onboard_time": 1714266377,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1260115,
+        "num": 515338,
+        "word": "为什么不建议睡前刷牙",
+        "onboard_time": 1714269617,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1017325,
+        "num": 512118,
+        "word": "何炅50岁了",
+        "onboard_time": 1714262177,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 770620,
+        "num": 506281,
+        "word": "调休",
+        "onboard_time": 1714260737,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587565,
+        "num": 496438,
+        "word": "郑恺幸亏我和苗苗结婚了",
+        "onboard_time": 1714228160,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491172,
+        "num": 491172,
+        "word": "钢珠求救鸭去世了",
+        "onboard_time": 1714270338,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365828,
+        "num": 365828,
+        "word": "官方通报哈尔滨一小区楼体倾斜",
+        "onboard_time": 1714267221,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336015,
+        "num": 336015,
+        "word": "泽泽饭饭分手原因",
+        "onboard_time": 1714270338,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275797,
+        "num": 275797,
+        "word": "眼泪女王是14年前的剧本",
+        "onboard_time": 1714261936,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317595,
+        "num": 274533,
+        "word": "饭饭发文",
+        "onboard_time": 1714270338,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228799,
+        "num": 228799,
+        "word": "五一假期多个旅游热门城市下雨",
+        "onboard_time": 1714267638,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 572398,
+        "num": 227562,
+        "word": "怀孕九个月去产检被老人要求让座",
+        "onboard_time": 1714259896,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426838,
+        "num": 227358,
+        "word": "台湾一警官长期性侵亲生女儿",
+        "onboard_time": 1714260315,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240183,
+        "num": 227052,
+        "word": "只休一天真的好累啊",
+        "onboard_time": 1714269139,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225836,
+        "num": 225836,
+        "word": "人生容错率比你想象的更大",
+        "onboard_time": 1714268659,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221697,
+        "num": 221697,
+        "word": "双休政策制定参与者谈调休矛盾",
+        "onboard_time": 1714269019,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220932,
+        "num": 220932,
+        "word": "久坐1小时肌肉就开始出现结节",
+        "onboard_time": 1714270038,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205401,
+        "num": 205401,
+        "word": "卖淫女接宾馆老板报信上天台躲避坠亡",
+        "onboard_time": 1714227859,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193438,
+        "num": 193438,
+        "word": "闹钟没响",
+        "onboard_time": 1714264339,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193090,
+        "num": 193090,
+        "word": "将率先恢复福建居民到马祖旅游",
+        "onboard_time": 1714270278,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 189273,
+        "num": 189273,
+        "word": "榜上佳婿开机",
+        "onboard_time": 1714269859,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185506,
+        "num": 185506,
+        "word": "巴以冲突",
+        "onboard_time": 1714263739,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184227,
+        "num": 184227,
+        "word": "眼泪女王 狗血",
+        "onboard_time": 1714271058,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176547,
+        "num": 176547,
+        "word": "同龄人中为什么有人显老",
+        "onboard_time": 1714266678,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165591,
+        "num": 165591,
+        "word": "许嵩演唱会嘉宾是丁世光",
+        "onboard_time": 1714269498,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164384,
+        "num": 164384,
+        "word": "孟子义片场睡觉被围观",
+        "onboard_time": 1714260135,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159621,
+        "num": 159621,
+        "word": "日本奢侈品白菜价白菜变奢侈品",
+        "onboard_time": 1714260737,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 157364,
+        "num": 157364,
+        "word": "迪丽热巴影子变成小蝴蝶",
+        "onboard_time": 1714268298,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151210,
+        "num": 151210,
+        "word": "何炅张杰看烟花",
+        "onboard_time": 1714264039,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146224,
+        "num": 146224,
+        "word": "中医提醒臀部是寒气最重的部位",
+        "onboard_time": 1714230560,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143397,
+        "num": 143397,
+        "word": "每天多睡1小时能有多大好处",
+        "onboard_time": 1714236316,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143114,
+        "num": 143114,
+        "word": "广州接连发生龙卷风大冰雹原因",
+        "onboard_time": 1714261517,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141567,
+        "num": 141567,
+        "word": "掘金vs湖人",
+        "onboard_time": 1714265659,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138676,
+        "num": 138676,
+        "word": "哈尔滨一住宅楼楼体突然裂开逐渐倾斜",
+        "onboard_time": 1714262238,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133748,
+        "num": 133748,
+        "word": "谢娜卡点为何炅庆生",
+        "onboard_time": 1714262658,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132292,
+        "num": 132292,
+        "word": "湖人上半场的神",
+        "onboard_time": 1714270099,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128639,
+        "num": 128639,
+        "word": "李现周雨彤cp感",
+        "onboard_time": 1714266741,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126581,
+        "num": 126581,
+        "word": "原来真的有人一辈子活在爱好里",
+        "onboard_time": 1714270998,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120081,
+        "num": 120081,
+        "word": "真正要忌口少吃的蔬菜",
+        "onboard_time": 1714238953,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 115696,
+        "num": 115696,
+        "word": "牛仔裤正在被抛弃吗",
+        "onboard_time": 1714226239,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 105018,
+        "num": 105018,
+        "word": "男子把修电路拍成800集悬疑剧",
+        "onboard_time": 1714266980,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#途通山海阔开放创未来#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714268353711,
+  "endTime": 1714271471215,
   "band_list": [
     {
       "raw_hot": 2327325,
@@ -11,8 +11,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1921766,
-      "num": 1921766,
+      "raw_hot": 2050489,
+      "num": 2050489,
       "word": "5000块钱的工资46个工作群",
       "onboard_time": 1714266018,
       "rank": 13,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1380116,
-      "num": 411655,
+      "num": 512118,
       "word": "何炅50岁了",
       "onboard_time": 1714262177,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1260115,
+      "num": 515338,
+      "word": "为什么不建议睡前刷牙",
+      "onboard_time": 1714269617,
+      "rank": 10,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1259200,
@@ -44,10 +52,18 @@
     },
     {
       "raw_hot": 1078160,
-      "num": 384263,
+      "num": 496438,
       "word": "郑恺幸亏我和苗苗结婚了",
       "onboard_time": 1714228160,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1071233,
+      "num": 1071233,
+      "word": "朴彩英 歌手2024",
+      "onboard_time": 1714269498,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -65,6 +81,14 @@
       "onboard_time": 1714264219,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 960594,
+      "num": 960594,
+      "word": "歌手阵容",
+      "onboard_time": 1714269319,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 957620,
@@ -107,6 +131,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 702087,
+      "num": 702087,
+      "word": "布林肯在中国遭BBC女记者连怼",
+      "onboard_time": 1714269378,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 678266,
+      "num": 678266,
+      "word": "偷感很重是什么梗",
+      "onboard_time": 1714267938,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 629377,
       "num": 236936,
       "word": "台湾一警官长期性侵亲生女儿",
@@ -121,6 +161,14 @@
       "onboard_time": 1714222457,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 529059,
+      "num": 529059,
+      "word": "薛之谦打嗝全场喊退票",
+      "onboard_time": 1714269139,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 528367,
@@ -153,6 +201,14 @@
       "onboard_time": 1714236316,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 491172,
+      "num": 491172,
+      "word": "钢珠求救鸭去世了",
+      "onboard_time": 1714270338,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 489377,
@@ -203,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365828,
+      "num": 365828,
+      "word": "官方通报哈尔滨一小区楼体倾斜",
+      "onboard_time": 1714267221,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357523,
       "num": 357523,
       "word": "闹钟没响",
@@ -217,6 +281,14 @@
       "onboard_time": 1714264039,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 336015,
+      "num": 336015,
+      "word": "泽泽饭饭分手原因",
+      "onboard_time": 1714270338,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 331209,
@@ -241,6 +313,14 @@
       "onboard_time": 1714229781,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 317595,
+      "num": 274533,
+      "word": "饭饭发文",
+      "onboard_time": 1714270338,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 315839,
@@ -291,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240183,
+      "num": 227052,
+      "word": "只休一天真的好累啊",
+      "onboard_time": 1714269139,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237695,
       "num": 237695,
       "word": "赵雷 最后一次巡演",
@@ -323,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228799,
+      "num": 228799,
+      "word": "五一假期多个旅游热门城市下雨",
+      "onboard_time": 1714267638,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 228736,
       "num": 228736,
       "word": "不够善良的我们 世另我",
@@ -347,12 +443,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 225836,
+      "num": 225836,
+      "word": "人生容错率比你想象的更大",
+      "onboard_time": 1714268659,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 222126,
       "num": 201681,
       "word": "眼泪女王",
       "onboard_time": 1714220898,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221697,
+      "num": 221697,
+      "word": "双休政策制定参与者谈调休矛盾",
+      "onboard_time": 1714269019,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220932,
+      "num": 220932,
+      "word": "久坐1小时肌肉就开始出现结节",
+      "onboard_time": 1714270038,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 217660,
@@ -377,14 +497,6 @@
       "onboard_time": 1714233018,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209036,
-      "num": 209036,
-      "word": "官方通报哈尔滨一小区楼体倾斜",
-      "onboard_time": 1714267221,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207103,
@@ -419,6 +531,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193090,
+      "num": 193090,
+      "word": "将率先恢复福建居民到马祖旅游",
+      "onboard_time": 1714270278,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 189273,
+      "num": 189273,
+      "word": "榜上佳婿开机",
+      "onboard_time": 1714269859,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187851,
       "num": 187851,
       "word": "广州龙卷风",
@@ -433,6 +561,14 @@
       "onboard_time": 1714263679,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184227,
+      "num": 184227,
+      "word": "眼泪女王 狗血",
+      "onboard_time": 1714271058,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 183277,
@@ -467,6 +603,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 176547,
+      "num": 176547,
+      "word": "同龄人中为什么有人显老",
+      "onboard_time": 1714266678,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 176427,
       "num": 176427,
       "word": "林奕含逝世七周年",
@@ -489,22 +633,6 @@
       "onboard_time": 1714256532,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172799,
-      "num": 172799,
-      "word": "五一假期多个旅游热门城市下雨",
-      "onboard_time": 1714267638,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 171945,
-      "num": 171945,
-      "word": "同龄人中为什么有人显老",
-      "onboard_time": 1714266678,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 171690,
@@ -531,8 +659,16 @@
       "category": "美食"
     },
     {
+      "raw_hot": 165591,
+      "num": 165591,
+      "word": "许嵩演唱会嘉宾是丁世光",
+      "onboard_time": 1714269498,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163235,
-      "num": 434844,
+      "num": 526212,
       "word": "阿姨寄珍藏停产玩偶满足陌生男孩愿望",
       "onboard_time": 1714266377,
       "rank": 9,
@@ -553,6 +689,14 @@
       "onboard_time": 1714207817,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157364,
+      "num": 157364,
+      "word": "迪丽热巴影子变成小蝴蝶",
+      "onboard_time": 1714268298,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154602,
@@ -627,14 +771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 137715,
-      "num": 137715,
-      "word": "偷感很重是什么梗",
-      "onboard_time": 1714267938,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 135550,
       "num": 135550,
       "word": "广州司机致猫死亡事件疑反转",
@@ -657,6 +793,14 @@
       "onboard_time": 1714267579,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132292,
+      "num": 132292,
+      "word": "湖人上半场的神",
+      "onboard_time": 1714270099,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 131368,
@@ -689,6 +833,14 @@
       "onboard_time": 1714233740,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126581,
+      "num": 126581,
+      "word": "原来真的有人一辈子活在爱好里",
+      "onboard_time": 1714270998,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 125604,
@@ -761,14 +913,6 @@
       "onboard_time": 1714265299,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 107396,
-      "num": 107396,
-      "word": "迪丽热巴影子变成小蝴蝶",
-      "onboard_time": 1714268298,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 105215,
