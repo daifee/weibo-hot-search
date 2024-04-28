@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714293242650,
+  "endTime": 1714295830162,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -25,6 +25,14 @@
       "onboard_time": 1714260315,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2181236,
+      "num": 440964,
+      "word": "居然还有女用避孕套",
+      "onboard_time": 1714295658,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2050489,
@@ -121,6 +129,14 @@
       "onboard_time": 1714287738,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1089009,
+      "num": 730742,
+      "word": "郑佩佩 我想她了",
+      "onboard_time": 1714293738,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1078160,
@@ -275,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752856,
+      "num": 752856,
+      "word": "李承铉被戚薇禁止送礼",
+      "onboard_time": 1714289298,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 738983,
       "num": 738983,
       "word": "马斯克 北京",
@@ -323,6 +347,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 603585,
+      "num": 603585,
+      "word": "问界将为家属提供一切可能的支持",
+      "onboard_time": 1714289718,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588041,
       "num": 588041,
       "word": "戚薇被陈丽君戏妆吓到",
@@ -347,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 569727,
-      "num": 569727,
-      "word": "问界将为家属提供一切可能的支持",
-      "onboard_time": 1714289718,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 577182,
+      "num": 577182,
+      "word": "5架直升机演练迎接神十七回家",
+      "onboard_time": 1714293857,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 566748,
@@ -361,14 +393,6 @@
       "onboard_time": 1714279759,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 537519,
-      "num": 317671,
-      "word": "李承铉被戚薇禁止送礼",
-      "onboard_time": 1714289298,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 536566,
@@ -499,6 +523,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 462503,
+      "num": 417553,
+      "word": "王鹤棣素颜健身",
+      "onboard_time": 1714291699,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 461616,
       "num": 461616,
       "word": "林峯舌头可以舔到下巴",
@@ -521,6 +553,14 @@
       "onboard_time": 1714226239,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 448238,
+      "num": 448238,
+      "word": "银行盯上县城贵妇",
+      "onboard_time": 1714290437,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438238,
@@ -555,12 +595,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 393086,
-      "num": 393086,
-      "word": "银行盯上县城贵妇",
-      "onboard_time": 1714290437,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 414118,
+      "num": 414118,
+      "word": "眼泪女王杀青宴好像婚闹现场",
+      "onboard_time": 1714292958,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 386346,
@@ -617,6 +657,14 @@
       "onboard_time": 1714275378,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 359127,
+      "num": 359127,
+      "word": "孙俪爆料邓超的坏习惯",
+      "onboard_time": 1714294458,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 357523,
@@ -731,14 +779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 302031,
-      "num": 302031,
-      "word": "王鹤棣素颜健身",
-      "onboard_time": 1714291699,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 299112,
       "num": 299112,
       "word": "恋与制作人百雀羚联名",
@@ -769,6 +809,22 @@
       "onboard_time": 1714220118,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 289966,
+      "num": 289966,
+      "word": "春色寄情人 死亡教育",
+      "onboard_time": 1714294578,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 289395,
+      "num": 289395,
+      "word": "猫咪称自己一生从未进食只喝水",
+      "onboard_time": 1714294038,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 286638,
@@ -803,20 +859,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270529,
+      "num": 264700,
+      "word": "徐冬冬官宣婚礼计划",
+      "onboard_time": 1714291818,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268989,
       "num": 268989,
       "word": "眼泪女王 狗血",
       "onboard_time": 1714271058,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 264700,
-      "num": 264700,
-      "word": "徐冬冬官宣婚礼计划",
-      "onboard_time": 1714291818,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 264020,
@@ -947,6 +1003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 230536,
+      "num": 230536,
+      "word": "问界M7起火事故隐藏式门把手疑似未弹出",
+      "onboard_time": 1714295477,
+      "rank": 28,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 230381,
       "num": 230381,
       "word": "不够善良的我们完结",
@@ -1051,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210160,
+      "num": 210160,
+      "word": "马斯克称乐见中国电车取得进展",
+      "onboard_time": 1714295477,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 208251,
       "num": 208251,
       "word": "韩维辰李瑞 CP感",
@@ -1083,6 +1155,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 206409,
+      "num": 206409,
+      "word": "突然发现情绪稳定的伴侣具象化了",
+      "onboard_time": 1714295180,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206361,
       "num": 206361,
       "word": "大明湖畔的杨紫",
@@ -1099,6 +1179,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 203453,
+      "num": 203453,
+      "word": "警方回应两女子穿和服跳日本舞惹众怒",
+      "onboard_time": 1714293079,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202036,
       "num": 202036,
       "word": "李想感谢雷军",
@@ -1113,6 +1201,14 @@
       "onboard_time": 1714272077,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201408,
+      "num": 201408,
+      "word": "隆里电丝",
+      "onboard_time": 1714294937,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 199739,
@@ -1211,14 +1307,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 190278,
-      "num": 190278,
-      "word": "眼泪女王杀青宴好像婚闹现场",
-      "onboard_time": 1714292958,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189273,
       "num": 189273,
       "word": "榜上佳婿开机",
@@ -1299,12 +1387,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181357,
+      "num": 181357,
+      "word": "周深认识宋雨琦后才开始听Kpop",
+      "onboard_time": 1714295599,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180003,
       "num": 180003,
       "word": "光与夜之恋",
       "onboard_time": 1714285879,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 179145,
+      "num": 179145,
+      "word": "KPL",
+      "onboard_time": 1714294637,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 178153,
@@ -1371,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172807,
+      "num": 172807,
+      "word": "湖人终于赢了",
+      "onboard_time": 1714294518,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171690,
       "num": 171690,
       "word": "陈昊宇要碎了",
@@ -1419,6 +1531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 164325,
+      "num": 164325,
+      "word": "被林更新开除粉籍了",
+      "onboard_time": 1714295539,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163235,
       "num": 526212,
       "word": "阿姨寄珍藏停产玩偶满足陌生男孩愿望",
@@ -1433,6 +1553,14 @@
       "onboard_time": 1714265839,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160334,
+      "num": 160334,
+      "word": "花少1的友情",
+      "onboard_time": 1714295358,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 159987,
@@ -1603,6 +1731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 143406,
+      "num": 143406,
+      "word": "周杰伦兰亭序的杀伤力",
+      "onboard_time": 1714295599,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141200,
       "num": 141200,
       "word": "眼泪女王编剧好癫",
@@ -1633,14 +1769,6 @@
       "onboard_time": 1714284797,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135570,
-      "num": 135570,
-      "word": "警方回应两女子穿和服跳日本舞惹众怒",
-      "onboard_time": 1714293079,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135550,
@@ -2057,6 +2185,14 @@
       "onboard_time": 1714241832,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 39842,
+      "num": 734583,
+      "word": "时间轴回顾中国九天揽月之路",
+      "onboard_time": 1714294098,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38507,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1714295830162,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1302246,
+        "num": 1302246,
+        "word": "郑佩佩每条微博都艾特刘涛",
+        "onboard_time": 1714288398,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 752856,
+        "num": 752856,
+        "word": "李承铉被戚薇禁止送礼",
+        "onboard_time": 1714289298,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39842,
+        "num": 734583,
+        "word": "时间轴回顾中国九天揽月之路",
+        "onboard_time": 1714294098,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1089009,
+        "num": 730742,
+        "word": "郑佩佩 我想她了",
+        "onboard_time": 1714293738,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 724814,
+        "num": 724814,
+        "word": "5000块钱的工资46个工作群",
+        "onboard_time": 1714266018,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 603585,
+        "num": 603585,
+        "word": "问界将为家属提供一切可能的支持",
+        "onboard_time": 1714289718,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577182,
+        "num": 577182,
+        "word": "5架直升机演练迎接神十七回家",
+        "onboard_time": 1714293857,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 470602,
+        "num": 470602,
+        "word": "两女子穿和服跳日本舞惹众怒",
+        "onboard_time": 1714279698,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448238,
+        "num": 448238,
+        "word": "银行盯上县城贵妇",
+        "onboard_time": 1714290437,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122837,
+        "num": 447231,
+        "word": "原来真的有人一辈子活在爱好里",
+        "onboard_time": 1714270998,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2181236,
+        "num": 440964,
+        "word": "居然还有女用避孕套",
+        "onboard_time": 1714295658,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 653404,
+        "num": 436714,
+        "word": "副校长获奖章而孕妻顾家劳累两度流产",
+        "onboard_time": 1714289358,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592334,
+        "num": 428895,
+        "word": "田馥甄妈妈回应",
+        "onboard_time": 1714287738,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 466914,
+        "num": 420877,
+        "word": "48元一个的榴莲女子追了一路",
+        "onboard_time": 1714286837,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462503,
+        "num": 417553,
+        "word": "王鹤棣素颜健身",
+        "onboard_time": 1714291699,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 414118,
+        "num": 414118,
+        "word": "眼泪女王杀青宴好像婚闹现场",
+        "onboard_time": 1714292958,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397107,
+        "num": 397107,
+        "word": "中国航天员完成在轨交接",
+        "onboard_time": 1714292178,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 359127,
+        "num": 359127,
+        "word": "孙俪爆料邓超的坏习惯",
+        "onboard_time": 1714294458,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337706,
+        "num": 337706,
+        "word": "何炅的伞撑了一个又一个人",
+        "onboard_time": 1714280660,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320831,
+        "num": 320831,
+        "word": "王一博英语",
+        "onboard_time": 1714288037,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299418,
+        "num": 299418,
+        "word": "关于Hybe最可怕的说法",
+        "onboard_time": 1714285638,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297539,
+        "num": 297539,
+        "word": "胡先煦发烧回京去医院",
+        "onboard_time": 1714289419,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289966,
+        "num": 289966,
+        "word": "春色寄情人 死亡教育",
+        "onboard_time": 1714294578,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289395,
+        "num": 289395,
+        "word": "猫咪称自己一生从未进食只喝水",
+        "onboard_time": 1714294038,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255740,
+        "num": 255740,
+        "word": "身上长这种疙瘩是HPV感染",
+        "onboard_time": 1714276038,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 270529,
+        "num": 247696,
+        "word": "徐冬冬官宣婚礼计划",
+        "onboard_time": 1714291818,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238934,
+        "num": 238934,
+        "word": "广州一女子商场跳楼砸中路人",
+        "onboard_time": 1714282278,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237801,
+        "num": 237801,
+        "word": "赛力斯回应车辆起火车门无法打开",
+        "onboard_time": 1714285698,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230536,
+        "num": 230536,
+        "word": "问界M7起火事故隐藏式门把手疑似未弹出",
+        "onboard_time": 1714295477,
+        "rank": 28,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 214942,
+        "num": 214942,
+        "word": "出品方回应甄嬛传被钮祜禄氏后人举报",
+        "onboard_time": 1714291398,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63909,
+        "num": 211349,
+        "word": "你会第一时间给手机系统升级吗",
+        "onboard_time": 1714292000,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 210160,
+        "num": 210160,
+        "word": "马斯克称乐见中国电车取得进展",
+        "onboard_time": 1714295477,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 206409,
+        "num": 206409,
+        "word": "突然发现情绪稳定的伴侣具象化了",
+        "onboard_time": 1714295180,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203453,
+        "num": 203453,
+        "word": "警方回应两女子穿和服跳日本舞惹众怒",
+        "onboard_time": 1714293079,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201408,
+        "num": 201408,
+        "word": "隆里电丝",
+        "onboard_time": 1714294937,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190059,
+        "num": 190059,
+        "word": "性格决定上班劳累程度",
+        "onboard_time": 1714279759,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181357,
+        "num": 181357,
+        "word": "周深认识宋雨琦后才开始听Kpop",
+        "onboard_time": 1714295599,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179761,
+        "num": 179761,
+        "word": "为什么不建议睡前刷牙",
+        "onboard_time": 1714269617,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 179145,
+        "num": 179145,
+        "word": "KPL",
+        "onboard_time": 1714294637,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177184,
+        "num": 177184,
+        "word": "郭碧婷 人生不用太累",
+        "onboard_time": 1714289118,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172807,
+        "num": 172807,
+        "word": "湖人终于赢了",
+        "onboard_time": 1714294518,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164769,
+        "num": 164769,
+        "word": "问界M7起火事故逝者家属发声",
+        "onboard_time": 1714275979,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164325,
+        "num": 164325,
+        "word": "被林更新开除粉籍了",
+        "onboard_time": 1714295539,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161378,
+        "num": 161378,
+        "word": "马斯克 北京",
+        "onboard_time": 1714284918,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 160334,
+        "num": 160334,
+        "word": "花少1的友情",
+        "onboard_time": 1714295358,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153422,
+        "num": 153422,
+        "word": "于正回应郝蕾怒批赵晴",
+        "onboard_time": 1714280180,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146352,
+        "num": 146352,
+        "word": "林峯舌头可以舔到下巴",
+        "onboard_time": 1714281738,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144916,
+        "num": 144916,
+        "word": "不够善良的我们 单身女性",
+        "onboard_time": 1714292720,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144134,
+        "num": 144134,
+        "word": "纪凌尘随地乱丢烟头",
+        "onboard_time": 1714290139,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143406,
+        "num": 143406,
+        "word": "周杰伦兰亭序的杀伤力",
+        "onboard_time": 1714295599,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#西部描绘繁荣发展新画卷#"
+    }
+  }
+}
