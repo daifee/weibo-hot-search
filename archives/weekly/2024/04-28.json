@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714325668768,
+  "endTime": 1714328481145,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -3297,6 +3297,14 @@
       "onboard_time": 1714309218,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 22003,
+      "num": 86584,
+      "word": "男子曾获老师无偿资助回母校捐款50万",
+      "onboard_time": 1714326432,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 19357,
