@@ -1,6 +1,6 @@
 {
   "startTime": 1714321243337,
-  "endTime": 1714342598081,
+  "endTime": 1714343661630,
   "band_list": [
     {
       "raw_hot": 781382,
@@ -251,6 +251,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 139826,
+      "num": 94275,
+      "word": "国外一位妻子给老公打包午餐",
+      "onboard_time": 1714336750,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136267,
       "num": 136267,
       "word": "周杰伦二开",
@@ -259,20 +267,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133855,
+      "num": 133855,
+      "word": "四种素菜小心越吃越胖",
+      "onboard_time": 1714303578,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 129402,
       "num": 129402,
       "word": "吃烤苕皮是一件很私密的事",
       "onboard_time": 1714301296,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 122606,
-      "num": 122606,
-      "word": "四种素菜小心越吃越胖",
-      "onboard_time": 1714303578,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 119615,
@@ -299,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110154,
-      "num": 55674,
-      "word": "国外一位妻子给老公打包午餐",
-      "onboard_time": 1714336750,
-      "rank": 19,
-      "category": "幽默"
+      "raw_hot": 111685,
+      "num": 111685,
+      "word": "韩雪练舞前后对比",
+      "onboard_time": 1714341191,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 101904,
@@ -371,6 +379,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 85979,
+      "num": 85979,
+      "word": "TT公布调查结果",
+      "onboard_time": 1714330091,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82883,
       "num": 82883,
       "word": "原来以前没有调休",
@@ -411,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 71577,
-      "num": 54689,
-      "word": "TT公布调查结果",
-      "onboard_time": 1714330091,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 61438,
       "num": 59471,
       "word": "继续前行吧 不够善良的我们",
@@ -435,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54069,
-      "num": 54069,
-      "word": "韩雪练舞前后对比",
-      "onboard_time": 1714341191,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 55336,
+      "num": 55336,
+      "word": "蔡磊妻子说天天愁有什么用",
+      "onboard_time": 1714341912,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53556,
@@ -475,6 +483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 48044,
+      "num": 109188,
+      "word": "男子曾获老师无偿资助回母校捐款50万",
+      "onboard_time": 1714326432,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 39671,
       "num": 52289,
       "word": "雷军称小米造车投入了半个家底",
@@ -483,12 +499,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 38795,
-      "num": 86584,
-      "word": "男子曾获老师无偿资助回母校捐款50万",
-      "onboard_time": 1714326432,
-      "rank": 9,
-      "category": "社会正能量"
+      "raw_hot": 38764,
+      "num": 38764,
+      "word": "买家称周鸿祎的车不卖",
+      "onboard_time": 1714338851,
+      "rank": 49,
+      "category": "互联网,汽车"
     },
     {
       "raw_hot": 36971,
@@ -499,60 +515,60 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30445,
-      "num": 28825,
-      "word": "买家称周鸿祎的车不卖",
-      "onboard_time": 1714338851,
-      "rank": 49,
-      "category": "互联网,汽车"
-    },
-    {
-      "raw_hot": 27781,
-      "num": 27781,
-      "word": "眼泪女王",
-      "onboard_time": 1714307717,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 27775,
-      "num": 27775,
-      "word": "新郎一家开荒给新娘办向日葵婚礼",
-      "onboard_time": 1714332429,
-      "rank": 49,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 24143,
-      "num": 24143,
+      "raw_hot": 30339,
+      "num": 30339,
       "word": "短短三句话却是一辈子的遗憾",
       "onboard_time": 1714330631,
       "rank": 47,
       "category": "情感"
     },
     {
-      "raw_hot": 23773,
-      "num": 23254,
+      "raw_hot": 28923,
+      "num": 28923,
       "word": "异地小情侣约好在同一天拔智齿",
       "onboard_time": 1714332251,
       "rank": 40,
       "category": "情感"
     },
     {
-      "raw_hot": 23506,
-      "num": 23506,
+      "raw_hot": 28057,
+      "num": 28057,
+      "word": "眼泪女王",
+      "onboard_time": 1714307717,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 27881,
+      "num": 27989,
       "word": "香蕉加一把糯米粉就是一道美食",
       "onboard_time": 1714331110,
       "rank": 45,
       "category": "美食"
     },
     {
-      "raw_hot": 22086,
-      "num": 22086,
-      "word": "蔡磊妻子说天天愁有什么用",
-      "onboard_time": 1714341912,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 27775,
+      "num": 27970,
+      "word": "新郎一家开荒给新娘办向日葵婚礼",
+      "onboard_time": 1714332429,
+      "rank": 49,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 26660,
+      "num": 27967,
+      "word": "眼泪女王杀青宴好像婚闹现场",
+      "onboard_time": 1714292958,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23654,
+      "num": 41993,
+      "word": "原来空间站钥匙长这样",
+      "onboard_time": 1714313480,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21446,
@@ -561,14 +577,6 @@
       "onboard_time": 1714333390,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 20783,
-      "num": 21855,
-      "word": "眼泪女王杀青宴好像婚闹现场",
-      "onboard_time": 1714292958,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 19732,
@@ -585,14 +593,6 @@
       "onboard_time": 1714327153,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19022,
-      "num": 41993,
-      "word": "原来空间站钥匙长这样",
-      "onboard_time": 1714313480,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 15921,
