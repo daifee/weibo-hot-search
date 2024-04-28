@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714272081285,
+  "endTime": 1714274373421,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2260,7 +2260,7 @@
     },
     {
       "raw_hot": 1495852,
-      "num": 496438,
+      "num": 512487,
       "word": "郑恺幸亏我和苗苗结婚了",
       "onboard_time": 1714228160,
       "rank": 10,
@@ -2692,7 +2692,7 @@
     },
     {
       "raw_hot": 1380116,
-      "num": 512118,
+      "num": 513307,
       "word": "何炅50岁了",
       "onboard_time": 1714262177,
       "rank": 10,
@@ -3049,6 +3049,14 @@
       "onboard_time": 1713055518,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1313043,
+      "num": 1313043,
+      "word": "钢珠求救鸭去世了",
+      "onboard_time": 1714270338,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1312834,
@@ -8012,7 +8020,7 @@
     },
     {
       "raw_hot": 820288,
-      "num": 254171,
+      "num": 305937,
       "word": "怀孕九个月去产检被老人要求让座",
       "onboard_time": 1714259896,
       "rank": 20,
@@ -8984,14 +8992,6 @@
       "word": "南京一市民称骑自行车上路因无牌被罚50元",
       "onboard_time": 1713923535,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 770969,
-      "num": 770969,
-      "word": "钢珠求救鸭去世了",
-      "onboard_time": 1714270338,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -10433,6 +10433,14 @@
       "onboard_time": 1712848519,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 704170,
+      "num": 704170,
+      "word": "女主失忆 男主车祸",
+      "onboard_time": 1714272499,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 704144,
@@ -12372,7 +12380,7 @@
     },
     {
       "raw_hot": 629377,
-      "num": 251233,
+      "num": 303523,
       "word": "台湾一警官长期性侵亲生女儿",
       "onboard_time": 1714260315,
       "rank": 30,
@@ -17617,6 +17625,14 @@
       "onboard_time": 1714138818,
       "rank": 6,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 490677,
+      "num": 305775,
+      "word": "广州暴雨后天现凤凰",
+      "onboard_time": 1714271657,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 489644,
@@ -23195,6 +23211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387456,
+      "num": 387456,
+      "word": "彭于晏素颜遛狗被偶遇",
+      "onboard_time": 1714272919,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387211,
       "num": 387211,
       "word": "勇士vs国王",
@@ -23641,6 +23665,14 @@
       "onboard_time": 1712132421,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 380460,
+      "num": 380460,
+      "word": "成都不再审核购房资格",
+      "onboard_time": 1714273459,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380316,
@@ -24491,6 +24523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 366224,
+      "num": 366224,
+      "word": "问界回应车辆起火司乘3人遇难",
+      "onboard_time": 1714273698,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 366035,
       "num": 366035,
       "word": "妈妈做的糖被室友一晚上造没了一半",
@@ -24961,6 +25001,14 @@
       "onboard_time": 1712544320,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 357061,
+      "num": 357061,
+      "word": "湖人1比3掘金",
+      "onboard_time": 1714273997,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 357007,
@@ -28563,6 +28611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309155,
+      "num": 309155,
+      "word": "BTS注水原文裁决书",
+      "onboard_time": 1714271597,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308971,
       "num": 308971,
       "word": "雷军",
@@ -28785,14 +28841,6 @@
       "onboard_time": 1712631077,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 306847,
-      "num": 306847,
-      "word": "BTS注水原文裁决书",
-      "onboard_time": 1714271597,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 306643,
@@ -29995,6 +30043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 293518,
+      "num": 293518,
+      "word": "久坐1小时肌肉就开始出现结节",
+      "onboard_time": 1714270038,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 293473,
       "num": 293473,
       "word": "金昭喜结婚",
@@ -30545,6 +30601,14 @@
       "onboard_time": 1713943938,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288576,
+      "num": 514112,
+      "word": "原来真的有人一辈子活在爱好里",
+      "onboard_time": 1714270998,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 288503,
@@ -31283,6 +31347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280824,
+      "num": 280824,
+      "word": "掘金vs湖人",
+      "onboard_time": 1714098438,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280812,
       "num": 280812,
       "word": "琉羽喜欢这个孩子吗",
@@ -31361,6 +31433,14 @@
       "onboard_time": 1713177258,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 280105,
+      "num": 280105,
+      "word": "问界M7追尾大货车起火",
+      "onboard_time": 1714273698,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 280064,
@@ -35275,6 +35355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 246736,
+      "num": 246736,
+      "word": "种地吧 没直播",
+      "onboard_time": 1714271657,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246616,
       "num": 246616,
       "word": "大侦探就这样拍到一百季吧",
@@ -35337,14 +35425,6 @@
       "onboard_time": 1713755059,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246262,
-      "num": 246262,
-      "word": "久坐1小时肌肉就开始出现结节",
-      "onboard_time": 1714270038,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 246251,
@@ -35825,6 +35905,14 @@
       "onboard_time": 1713021979,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242891,
+      "num": 242891,
+      "word": "双休政策制定参与者谈调休矛盾",
+      "onboard_time": 1714269019,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242860,
@@ -39113,14 +39201,6 @@
       "onboard_time": 1714145118,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 223542,
-      "num": 223542,
-      "word": "双休政策制定参与者谈调休矛盾",
-      "onboard_time": 1714269019,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223534,
@@ -42419,14 +42499,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 207103,
-      "num": 207103,
-      "word": "掘金vs湖人",
-      "onboard_time": 1714098438,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207089,
       "num": 207089,
       "word": "雷军确认小米SU7交付提前",
@@ -44275,6 +44347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201788,
+      "num": 201788,
+      "word": "Rebecca结局",
+      "onboard_time": 1714272077,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201767,
       "num": 201767,
       "word": "北京三年级小学生的真实周末",
@@ -45447,14 +45527,6 @@
       "num": 198302,
       "word": "奔跑吧全员对12的解读",
       "onboard_time": 1713252379,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 198283,
-      "num": 198283,
-      "word": "种地吧 没直播",
-      "onboard_time": 1714271657,
       "rank": 28,
       "category": "综艺"
     },
@@ -47217,6 +47289,14 @@
       "onboard_time": 1712740278,
       "rank": 37,
       "category": "母婴育儿,健康医疗"
+    },
+    {
+      "raw_hot": 193095,
+      "num": 193095,
+      "word": "重庆燃气表只有极个别表失准",
+      "onboard_time": 1714272858,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193090,
@@ -58851,14 +58931,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 155193,
-      "num": 259605,
-      "word": "原来真的有人一辈子活在爱好里",
-      "onboard_time": 1714270998,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 155159,
       "num": 599335,
       "word": "落坡岭女书记入选感动中国",
@@ -59489,14 +59561,6 @@
       "onboard_time": 1712998818,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 153319,
-      "num": 153319,
-      "word": "广州暴雨后天现凤凰",
-      "onboard_time": 1714271657,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153281,
@@ -60923,6 +60987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149265,
+      "num": 149265,
+      "word": "罗云熙水龙吟白发造型",
+      "onboard_time": 1714273639,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149264,
       "num": 149264,
       "word": "杨天真想签跑男团",
@@ -62297,6 +62369,14 @@
       "onboard_time": 1712385437,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 145639,
+      "num": 145639,
+      "word": "詹姆斯被哈姆气到跳脚",
+      "onboard_time": 1714274117,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 145608,
@@ -66827,6 +66907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131179,
+      "num": 131179,
+      "word": "腾讯张军回应微信撤回有提示",
+      "onboard_time": 1714274238,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 131158,
       "num": 131158,
       "word": "辛芷蕾花少抱花盆出场",
@@ -70457,6 +70545,14 @@
       "onboard_time": 1712616493,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116279,
+      "num": 116279,
+      "word": "张雨绮穿礼服踩缝纫机",
+      "onboard_time": 1714274299,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 116210,

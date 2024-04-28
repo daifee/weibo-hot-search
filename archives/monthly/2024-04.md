@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/28 10:41:21
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/28 11:19:33
 </p>
 </blockquote>
 <p>
@@ -2297,6 +2297,12 @@ ZARA回应撤出中国传闻（热度：1355755）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%89%E5%8F%B2%E4%BB%A5%E6%9D%A5%E9%A6%96%E6%AC%A1%E7%9B%B4%E6%8E%A5%E8%A2%AD%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%23" target="weibo">
 伊朗有史以来首次直接袭击以色列（热度：1313756）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%A2%E7%8F%A0%E6%B1%82%E6%95%91%E9%B8%AD%E5%8E%BB%E4%B8%96%E4%BA%86%23" target="weibo">
+钢珠求救鸭去世了（热度：1313043）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ infp 最接近神的人格（热度：822265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20Gucci%23" target="weibo">
 肖战 Gucci（热度：820814）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E6%9C%80%E5%A4%A7%E5%8C%BB%E9%99%A2%E5%B7%B2%E6%B0%B8%E4%B9%85%E5%81%9C%E6%AD%A2%E6%9C%8D%E5%8A%A1%23" target="weibo">
-加沙最大医院已永久停止服务（热度：820802）
 </a>
 </li>
 
