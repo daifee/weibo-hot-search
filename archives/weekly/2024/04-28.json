@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714307565127,
+  "endTime": 1714308386678,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1324998,
+      "num": 1324998,
+      "word": "眼泪女王大结局",
+      "onboard_time": 1714306765,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1313043,
       "num": 1313043,
       "word": "钢珠求救鸭去世了",
@@ -131,6 +139,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1272062,
+      "num": 487089,
+      "word": "女子餐前打胰岛素被服务员误会吸毒",
+      "onboard_time": 1714304297,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1259200,
       "num": 1259200,
       "word": "广州龙卷风已致5死33伤",
@@ -145,14 +161,6 @@
       "onboard_time": 1714287738,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1142691,
-      "num": 346352,
-      "word": "女子餐前打胰岛素被服务员误会吸毒",
-      "onboard_time": 1714304297,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1078160,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 1045867,
-      "num": 294987,
+      "num": 303217,
       "word": "吃烤苕皮是一件很私密的事",
       "onboard_time": 1714301296,
       "rank": 20,
@@ -329,14 +337,6 @@
       "onboard_time": 1714259896,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 799211,
-      "num": 799211,
-      "word": "眼泪女王大结局",
-      "onboard_time": 1714306765,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 782041,
@@ -529,6 +529,14 @@
       "onboard_time": 1714279759,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 539803,
+      "num": 539803,
+      "word": "抢到了",
+      "onboard_time": 1714306399,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 536566,
@@ -747,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434746,
+      "num": 434746,
+      "word": "贾乃亮谎报年龄被黄景瑜踹",
+      "onboard_time": 1714306888,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 421503,
       "num": 421503,
       "word": "中国航天员完成在轨交接",
@@ -763,12 +779,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 414080,
+      "num": 414080,
+      "word": "眼泪女王",
+      "onboard_time": 1714220898,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411560,
       "num": 411560,
       "word": "雷军希望车企私下别搞小动作",
       "onboard_time": 1714298118,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 396072,
+      "num": 396072,
+      "word": "四种素菜小心越吃越胖",
+      "onboard_time": 1714303578,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 389570,
@@ -803,12 +835,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 378977,
-      "num": 378977,
-      "word": "抢到了",
-      "onboard_time": 1714306399,
-      "rank": 7,
-      "category": "演出"
+      "raw_hot": 379343,
+      "num": 379343,
+      "word": "原来以前没有调休",
+      "onboard_time": 1714301958,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 377461,
@@ -857,14 +889,6 @@
       "onboard_time": 1714264339,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 349806,
-      "num": 349806,
-      "word": "原来以前没有调休",
-      "onboard_time": 1714301958,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 343853,
@@ -987,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 305677,
-      "num": 305677,
-      "word": "四种素菜小心越吃越胖",
-      "onboard_time": 1714303578,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 299112,
       "num": 299112,
       "word": "恋与制作人百雀羚联名",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1714220118,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 291821,
+      "num": 291821,
+      "word": "赴山海 成毅",
+      "onboard_time": 1714306699,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 289395,
@@ -1091,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267973,
+      "num": 267973,
+      "word": "林俊杰官方APP公司被告",
+      "onboard_time": 1714306824,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264020,
       "num": 264020,
       "word": "张新成新剧尺度",
@@ -1129,14 +1161,6 @@
       "onboard_time": 1714223419,
       "rank": 13,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 248904,
-      "num": 248904,
-      "word": "林俊杰官方APP公司被告",
-      "onboard_time": 1714306824,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 248711,
@@ -1243,14 +1267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 237684,
-      "num": 201038,
-      "word": "赴山海 成毅",
-      "onboard_time": 1714306699,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 234579,
       "num": 165336,
       "word": "原来踩着东西吃饭是气血不足",
@@ -1273,14 +1289,6 @@
       "onboard_time": 1714227559,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230305,
-      "num": 198016,
-      "word": "贾乃亮谎报年龄被黄景瑜踹",
-      "onboard_time": 1714306888,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 228799,
@@ -1331,11 +1339,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222126,
-      "num": 201681,
-      "word": "眼泪女王",
-      "onboard_time": 1714220898,
-      "rank": 25,
+      "raw_hot": 221142,
+      "num": 221142,
+      "word": "眼泪女王收视率",
+      "onboard_time": 1714228641,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -1419,6 +1427,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 212995,
+      "num": 287520,
+      "word": "eStar 我要迪士尼",
+      "onboard_time": 1714307960,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 212718,
       "num": 173923,
       "word": "王锵 吻技生疏",
@@ -1481,6 +1497,14 @@
       "onboard_time": 1714297038,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205206,
+      "num": 237411,
+      "word": "九尾好C",
+      "onboard_time": 1714307537,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 204666,
@@ -1787,6 +1811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180634,
+      "num": 180634,
+      "word": "BOA锁定败者组",
+      "onboard_time": 1714307896,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180003,
       "num": 180003,
       "word": "光与夜之恋",
@@ -1875,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172182,
+      "num": 172182,
+      "word": "9.9的风终于还是卷到了星巴克",
+      "onboard_time": 1714308258,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 171780,
       "num": 171780,
       "word": "宋轶甜妹",
@@ -1921,6 +1961,14 @@
       "onboard_time": 1714276638,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166617,
+      "num": 166617,
+      "word": "叶祖新晒步步惊心十阿哥旧照",
+      "onboard_time": 1714308138,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 165605,
@@ -2395,20 +2443,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 115757,
+      "raw_hot": 117152,
       "num": 171985,
       "word": "新疆阿克苏发生4.4级地震",
       "onboard_time": 1714306699,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115429,
-      "num": 115429,
-      "word": "九尾好C",
-      "onboard_time": 1714307537,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 114913,
@@ -2473,14 +2513,6 @@
       "onboard_time": 1714268837,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105215,
-      "num": 105215,
-      "word": "眼泪女王收视率",
-      "onboard_time": 1714228641,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 101526,
@@ -2732,7 +2764,7 @@
     },
     {
       "raw_hot": 25093,
-      "num": 264216,
+      "num": 326287,
       "word": "日落了暂停工作十分钟",
       "onboard_time": 1714304056,
       "rank": 17,
@@ -2756,7 +2788,7 @@
     },
     {
       "raw_hot": 6669,
-      "num": 792736,
+      "num": 792807,
       "word": "文化中国行",
       "onboard_time": 1713927617,
       "rank": 2,

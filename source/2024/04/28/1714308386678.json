@@ -1,0 +1,410 @@
+{
+  "runTime": 1714308386678,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1324998,
+        "num": 1324998,
+        "word": "眼泪女王大结局",
+        "onboard_time": 1714306765,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 802997,
+        "num": 802997,
+        "word": "青环5 朴彩英",
+        "onboard_time": 1714302978,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2154,
+        "num": 792807,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785047,
+        "num": 785047,
+        "word": "时代少年团女主 贺美琦",
+        "onboard_time": 1714305138,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 708632,
+        "num": 708632,
+        "word": "雷军回应给武大捐款13亿",
+        "onboard_time": 1714304356,
+        "rank": 4,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 1206986,
+        "num": 659141,
+        "word": "周鸿祎迈巴赫990万拍出",
+        "onboard_time": 1714303279,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 562378,
+        "num": 562378,
+        "word": "周杰伦二开",
+        "onboard_time": 1714303818,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 539803,
+        "num": 539803,
+        "word": "抢到了",
+        "onboard_time": 1714306399,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23496,
+        "num": 524656,
+        "word": "时间轴回顾中国九天揽月之路",
+        "onboard_time": 1714294098,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114062,
+        "num": 508362,
+        "word": "大熊猫挂在树上悠闲晃jiojio",
+        "onboard_time": 1714297817,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1272062,
+        "num": 487089,
+        "word": "女子餐前打胰岛素被服务员误会吸毒",
+        "onboard_time": 1714304297,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965707,
+        "num": 442620,
+        "word": "居然还有女用避孕套",
+        "onboard_time": 1714295658,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 434746,
+        "num": 434746,
+        "word": "贾乃亮谎报年龄被黄景瑜踹",
+        "onboard_time": 1714306888,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414080,
+        "num": 414080,
+        "word": "眼泪女王",
+        "onboard_time": 1714307717,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396072,
+        "num": 396072,
+        "word": "四种素菜小心越吃越胖",
+        "onboard_time": 1714303578,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 379343,
+        "num": 379343,
+        "word": "原来以前没有调休",
+        "onboard_time": 1714301958,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19265,
+        "num": 326287,
+        "word": "日落了暂停工作十分钟",
+        "onboard_time": 1714304056,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 323939,
+        "num": 323939,
+        "word": "眼泪女王杀青宴好像婚闹现场",
+        "onboard_time": 1714292958,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305863,
+        "num": 305863,
+        "word": "邓超 亚比囧囧囧",
+        "onboard_time": 1714300996,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175597,
+        "num": 303250,
+        "word": "副校长获奖章而孕妻顾家劳累两度流产",
+        "onboard_time": 1714289358,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619553,
+        "num": 303225,
+        "word": "郑佩佩 我想她了",
+        "onboard_time": 1714293738,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 552456,
+        "num": 303217,
+        "word": "吃烤苕皮是一件很私密的事",
+        "onboard_time": 1714301296,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 300881,
+        "num": 300881,
+        "word": "李承铉被戚薇禁止送礼",
+        "onboard_time": 1714289298,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291821,
+        "num": 291821,
+        "word": "赴山海 成毅",
+        "onboard_time": 1714306699,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212995,
+        "num": 287520,
+        "word": "eStar 我要迪士尼",
+        "onboard_time": 1714307960,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 284994,
+        "num": 284994,
+        "word": "Gucci再次为肖战制作手绘墙",
+        "onboard_time": 1714299437,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267973,
+        "num": 267973,
+        "word": "林俊杰官方APP公司被告",
+        "onboard_time": 1714306824,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259629,
+        "num": 259629,
+        "word": "无骨的舌头伤人最深",
+        "onboard_time": 1714302318,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160462,
+        "num": 252510,
+        "word": "博世声明",
+        "onboard_time": 1714301237,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138424,
+        "num": 249841,
+        "word": "48元一个的榴莲女子追了一路",
+        "onboard_time": 1714286837,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205206,
+        "num": 237411,
+        "word": "九尾好C",
+        "onboard_time": 1714307537,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 299483,
+        "num": 234006,
+        "word": "问界M7起火事故隐藏式门把手疑似未弹出",
+        "onboard_time": 1714295477,
+        "rank": 31,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 227203,
+        "num": 227203,
+        "word": "郑佩佩每条微博都艾特刘涛",
+        "onboard_time": 1714288398,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221142,
+        "num": 221142,
+        "word": "眼泪女王收视率",
+        "onboard_time": 1714307838,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190399,
+        "num": 190399,
+        "word": "时代少年团MV有女主",
+        "onboard_time": 1714301357,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180634,
+        "num": 180634,
+        "word": "BOA锁定败者组",
+        "onboard_time": 1714307896,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174201,
+        "num": 174201,
+        "word": "春色寄情人 死亡教育",
+        "onboard_time": 1714294578,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172182,
+        "num": 172182,
+        "word": "9.9的风终于还是卷到了星巴克",
+        "onboard_time": 1714308258,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 171712,
+        "num": 171712,
+        "word": "郑佩佩好像我奶奶",
+        "onboard_time": 1714298779,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117152,
+        "num": 168375,
+        "word": "新疆阿克苏发生4.4级地震",
+        "onboard_time": 1714306699,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166617,
+        "num": 166617,
+        "word": "叶祖新晒步步惊心十阿哥旧照",
+        "onboard_time": 1714308138,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162186,
+        "num": 162186,
+        "word": "LGD春季赛淘汰",
+        "onboard_time": 1714306765,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161325,
+        "num": 161325,
+        "word": "宋轶甜妹",
+        "onboard_time": 1714305079,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159296,
+        "num": 159296,
+        "word": "汪峰下一期要看SEVENTEEN新歌",
+        "onboard_time": 1714303638,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157505,
+        "num": 157505,
+        "word": "防弹少年团官方公告",
+        "onboard_time": 1714307178,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116486,
+        "num": 156420,
+        "word": "问界已成立专案小组调查追尾起火事件",
+        "onboard_time": 1714295897,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156219,
+        "num": 156219,
+        "word": "岂能尽如人意 但求不愧我心",
+        "onboard_time": 1714298057,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153078,
+        "num": 153078,
+        "word": "雷军希望车企私下别搞小动作",
+        "onboard_time": 1714298118,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149241,
+        "num": 149241,
+        "word": "马斯克称乐见中国电车取得进展",
+        "onboard_time": 1714295477,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139381,
+        "num": 139381,
+        "word": "巨蟹座的高冷是为了保护自己",
+        "onboard_time": 1714302497,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#西部描绘繁荣发展新画卷#"
+    }
+  }
+}
