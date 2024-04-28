@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714329307539,
+  "endTime": 1714331643296,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -80307,6 +80307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25927,
+      "num": 25927,
+      "word": "TT公布调查结果",
+      "onboard_time": 1714330091,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 25511,
       "num": 24201,
       "word": "手术直播间",
@@ -80883,6 +80891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 19389,
+      "num": 22527,
+      "word": "白贤佑韩剧史上第一情圣",
+      "onboard_time": 1714327153,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19357,
       "num": 26381,
       "word": "碓冰拓海 一如既往的帅",
@@ -81011,6 +81027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17459,
+      "num": 22524,
+      "word": "香蕉加一把糯米粉就是一道美食",
+      "onboard_time": 1714331110,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 17410,
       "num": 18094,
       "word": "变形金刚起源首支预告",
@@ -81129,6 +81153,14 @@
       "onboard_time": 1712429891,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15921,
+      "num": 22521,
+      "word": "张曼玉林丹组队打混双",
+      "onboard_time": 1714330932,
+      "rank": 48,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 15726,
