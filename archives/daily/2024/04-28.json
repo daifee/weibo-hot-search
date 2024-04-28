@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714317469373,
+  "endTime": 1714318454912,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 948088,
+      "num": 948088,
+      "word": "官方通报广州一女子商场跳楼砸中人",
+      "onboard_time": 1714314739,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 941489,
       "num": 941489,
       "word": "贾乃亮谎报年龄被黄景瑜踹",
@@ -273,6 +281,14 @@
       "onboard_time": 1714278562,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 937842,
+      "num": 709959,
+      "word": "海仁墓碑",
+      "onboard_time": 1714315880,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 921904,
@@ -315,27 +331,11 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 884681,
-      "num": 688110,
-      "word": "海仁墓碑",
-      "onboard_time": 1714315880,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 883197,
       "num": 751034,
       "word": "副校长获奖章而孕妻顾家劳累两度流产",
       "onboard_time": 1714289358,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 877054,
-      "num": 877054,
-      "word": "官方通报广州一女子商场跳楼砸中人",
-      "onboard_time": 1714314739,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -475,6 +475,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 696888,
+      "num": 696888,
+      "word": "张颂文回应砍价被吐槽穷酸",
+      "onboard_time": 1714315039,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 684504,
       "num": 684504,
       "word": "博世否认问界M7事故中使用其AEB",
@@ -563,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595570,
+      "num": 595570,
+      "word": "男子相亲支付20万即可领证",
+      "onboard_time": 1714316060,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588041,
       "num": 588041,
       "word": "戚薇被陈丽君戏妆吓到",
@@ -577,14 +593,6 @@
       "onboard_time": 1714312218,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 582871,
-      "num": 582871,
-      "word": "张颂文回应砍价被吐槽穷酸",
-      "onboard_time": 1714315039,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 579450,
@@ -779,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 475488,
+      "num": 217536,
+      "word": "从胃病到胃癌的报警症状",
+      "onboard_time": 1714317079,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 472407,
       "num": 472407,
       "word": "赛力斯回应车辆起火车门无法打开",
@@ -891,12 +907,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 415371,
-      "num": 415371,
-      "word": "男子相亲支付20万即可领证",
-      "onboard_time": 1714316060,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 418317,
+      "num": 418317,
+      "word": "马嘉祺 慢冷",
+      "onboard_time": 1714316840,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 414080,
@@ -1137,14 +1153,6 @@
       "onboard_time": 1714274719,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 301861,
-      "num": 301861,
-      "word": "马嘉祺 慢冷",
-      "onboard_time": 1714316840,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 299112,
@@ -1451,6 +1459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 237611,
+      "num": 202710,
+      "word": "粉圈乱象影响观剧体验",
+      "onboard_time": 1714318158,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234579,
       "num": 165336,
       "word": "原来踩着东西吃饭是气血不足",
@@ -1531,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222461,
+      "num": 222461,
+      "word": "白桃星座",
+      "onboard_time": 1714317439,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219889,
       "num": 219889,
       "word": "去见时代少年团的路",
@@ -1561,14 +1585,6 @@
       "onboard_time": 1714227859,
       "rank": 17,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 217536,
-      "num": 217536,
-      "word": "从胃病到胃癌的报警症状",
-      "onboard_time": 1714317079,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 217293,
@@ -2699,6 +2715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127633,
+      "num": 127633,
+      "word": "我想这就是教育的意义吧",
+      "onboard_time": 1714317919,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127028,
       "num": 127028,
       "word": "朴志晟黑框眼镜",
@@ -2747,14 +2771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123768,
-      "num": 123768,
-      "word": "白桃星座",
-      "onboard_time": 1714317439,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 123058,
       "num": 123058,
       "word": "第一次见这么肥美的大熊猫",
@@ -2777,6 +2793,14 @@
       "onboard_time": 1714236316,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120444,
+      "num": 120444,
+      "word": "春色寄情人里的人生态度",
+      "onboard_time": 1714318098,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 120403,
@@ -2819,6 +2843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111280,
+      "num": 199257,
+      "word": "五一1500元机票跳水至400",
+      "onboard_time": 1714317978,
+      "rank": 29,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 111106,
       "num": 111106,
       "word": "AllKpop爆料hybe",
@@ -2841,6 +2873,14 @@
       "onboard_time": 1714292479,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 107909,
+      "num": 107909,
+      "word": "柯南剧场版主题曲排名",
+      "onboard_time": 1714318399,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 107428,
@@ -3202,6 +3242,9 @@
     },
     {
       "word": "#习近平谈中美#"
+    },
+    {
+      "word": "#读懂习近平的大食物观#"
     }
   ]
 }
