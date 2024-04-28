@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714286110220,
+  "endTime": 1714288553980,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -5268,7 +5268,7 @@
     },
     {
       "raw_hot": 1033458,
-      "num": 490485,
+      "num": 569017,
       "word": "何炅的伞撑了一个又一个人",
       "onboard_time": 1714280660,
       "rank": 11,
@@ -6779,6 +6779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 908895,
+      "num": 821851,
+      "word": "身上长这种疙瘩是HPV感染",
+      "onboard_time": 1714276038,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 908877,
       "num": 908877,
       "word": "手机号不用了记得解绑这些账号",
@@ -7665,14 +7673,6 @@
       "onboard_time": 1714127958,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 844961,
-      "num": 821851,
-      "word": "身上长这种疙瘩是HPV感染",
-      "onboard_time": 1714276038,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 844234,
@@ -9657,6 +9657,14 @@
       "onboard_time": 1713695419,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 738983,
+      "num": 738983,
+      "word": "马斯克 北京",
+      "onboard_time": 1714284918,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 738897,
@@ -13547,6 +13555,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 595250,
+      "num": 595250,
+      "word": "关于Hybe最可怕的说法",
+      "onboard_time": 1714285638,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 595223,
       "num": 595223,
       "word": "王楚钦马龙 看得心脏疼",
@@ -13849,6 +13865,14 @@
       "onboard_time": 1713590657,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 588041,
+      "num": 588041,
+      "word": "戚薇被陈丽君戏妆吓到",
+      "onboard_time": 1714285217,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 587926,
@@ -14547,6 +14571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 568256,
+      "num": 568256,
+      "word": "田馥甄妈妈回应",
+      "onboard_time": 1714287738,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 567744,
       "num": 362854,
       "word": "邓超陈赫给鹿晗庆生",
@@ -14593,6 +14625,14 @@
       "onboard_time": 1713314300,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 566748,
+      "num": 566748,
+      "word": "性格决定上班劳累程度",
+      "onboard_time": 1714279759,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 566126,
@@ -15209,14 +15249,6 @@
       "onboard_time": 1713787521,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 548861,
-      "num": 336284,
-      "word": "性格决定上班劳累程度",
-      "onboard_time": 1714279759,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 548856,
@@ -18683,6 +18715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 472407,
+      "num": 472407,
+      "word": "赛力斯回应车辆起火车门无法打开",
+      "onboard_time": 1714285698,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472381,
       "num": 472381,
       "word": "肖战羽绒服",
@@ -19737,6 +19777,14 @@
       "onboard_time": 1711939819,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 451270,
+      "num": 451270,
+      "word": "48元一个的榴莲女子追了一路",
+      "onboard_time": 1714286837,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 451202,
@@ -24043,14 +24091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376913,
-      "num": 376913,
-      "word": "马斯克 北京",
-      "onboard_time": 1714284918,
-      "rank": 28,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 376872,
       "num": 284729,
       "word": "00后大学生买劣质防晒服",
@@ -24369,6 +24409,14 @@
       "onboard_time": 1714033819,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370733,
+      "num": 370733,
+      "word": "巴勒斯坦",
+      "onboard_time": 1714284498,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 370678,
@@ -27651,6 +27699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324328,
+      "num": 324328,
+      "word": "女子反驳江西高彩礼希望男生睁眼看世界",
+      "onboard_time": 1714284498,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324311,
       "num": 324311,
       "word": "福建震感",
@@ -29355,14 +29411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303846,
-      "num": 303846,
-      "word": "巴勒斯坦",
-      "onboard_time": 1714284498,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 303675,
       "num": 303675,
       "word": "多益网络徐波称被前女友卷走3亿",
@@ -29801,6 +29849,14 @@
       "onboard_time": 1712810180,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299112,
+      "num": 299112,
+      "word": "恋与制作人百雀羚联名",
+      "onboard_time": 1714287079,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 299076,
@@ -31065,14 +31121,6 @@
       "onboard_time": 1712116103,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 285761,
-      "num": 285761,
-      "word": "戚薇被陈丽君戏妆吓到",
-      "onboard_time": 1714285217,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 285743,
@@ -36891,6 +36939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 238629,
+      "num": 238629,
+      "word": "王一博英语",
+      "onboard_time": 1714288037,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238564,
       "num": 238564,
       "word": "杨紫披发黑裙",
@@ -40523,14 +40579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 217209,
-      "num": 217209,
-      "word": "关于Hybe最可怕的说法",
-      "onboard_time": 1714285638,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 217147,
       "num": 217147,
       "word": "与凤行预告",
@@ -41345,14 +41393,6 @@
       "onboard_time": 1712636360,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 212613,
-      "num": 212613,
-      "word": "赛力斯回应车辆起火车门无法打开",
-      "onboard_time": 1714285698,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212524,
@@ -42385,14 +42425,6 @@
       "onboard_time": 1713841518,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208734,
-      "num": 208734,
-      "word": "女子反驳江西高彩礼希望男生睁眼看世界",
-      "onboard_time": 1714284498,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208692,
@@ -51715,6 +51747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 181889,
+      "num": 181889,
+      "word": "周鸿祎回应拍卖迈巴赫600",
+      "onboard_time": 1714286957,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 181878,
       "num": 181878,
       "word": "杨紫麦承欢定妆",
@@ -52753,6 +52793,14 @@
       "onboard_time": 1712830579,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178063,
+      "num": 178063,
+      "word": "TTG对战BOA",
+      "onboard_time": 1714287257,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 178044,
@@ -53945,6 +53993,14 @@
       "onboard_time": 1712816478,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174080,
+      "num": 174080,
+      "word": "上海地铁限时免收起步费",
+      "onboard_time": 1714287196,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174014,
@@ -62027,6 +62083,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 147763,
+      "num": 147763,
+      "word": "AITO汽车",
+      "onboard_time": 1714286657,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 147731,
       "num": 147731,
       "word": "infp丢掉手机一天会干嘛",
@@ -62105,6 +62169,14 @@
       "onboard_time": 1711957759,
       "rank": 41,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 147482,
+      "num": 147482,
+      "word": "郑佩佩每条微博都艾特刘涛",
+      "onboard_time": 1714288398,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 147434,
@@ -67785,6 +67857,14 @@
       "onboard_time": 1713739334,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129440,
+      "num": 129440,
+      "word": "宁静说李菲儿一出现就会记得她",
+      "onboard_time": 1714286899,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 129417,
@@ -76403,6 +76483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 59536,
+      "num": 312172,
+      "word": "满级人类如何看待未来汽车",
+      "onboard_time": 1714287319,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 59476,
       "num": 59476,
       "word": "小米SU7锁单前退定金即时到账",
@@ -79473,6 +79561,14 @@
       "onboard_time": 1712044819,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17784,
+      "num": 147553,
+      "word": "河南景区算是把中国文化玩明白了",
+      "onboard_time": 1714287617,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 17699,

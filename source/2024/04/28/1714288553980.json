@@ -1,0 +1,410 @@
+{
+  "runTime": 1714288553980,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1277881,
+        "num": 1277881,
+        "word": "两女子穿和服跳日本舞惹众怒",
+        "onboard_time": 1714279698,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776767,
+        "num": 776767,
+        "word": "广州一女子商场跳楼砸中路人",
+        "onboard_time": 1714282278,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36542,
+        "num": 752016,
+        "word": "用明信片方式打开神十七太空之旅",
+        "onboard_time": 1714276819,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 908895,
+        "num": 747458,
+        "word": "身上长这种疙瘩是HPV感染",
+        "onboard_time": 1714276038,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 738983,
+        "num": 738983,
+        "word": "马斯克 北京",
+        "onboard_time": 1714284918,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 718616,
+        "num": 718616,
+        "word": "5000块钱的工资46个工作群",
+        "onboard_time": 1714266018,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 680417,
+        "num": 680417,
+        "word": "于正回应郝蕾怒批赵晴",
+        "onboard_time": 1714280180,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595250,
+        "num": 595250,
+        "word": "关于Hybe最可怕的说法",
+        "onboard_time": 1714285638,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588041,
+        "num": 588041,
+        "word": "戚薇被陈丽君戏妆吓到",
+        "onboard_time": 1714285217,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165161,
+        "num": 569364,
+        "word": "原来真的有人一辈子活在爱好里",
+        "onboard_time": 1714270998,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 788459,
+        "num": 569017,
+        "word": "何炅的伞撑了一个又一个人",
+        "onboard_time": 1714280660,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568256,
+        "num": 568256,
+        "word": "田馥甄妈妈回应",
+        "onboard_time": 1714287738,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 566748,
+        "num": 566748,
+        "word": "性格决定上班劳累程度",
+        "onboard_time": 1714279759,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 472407,
+        "num": 472407,
+        "word": "赛力斯回应车辆起火车门无法打开",
+        "onboard_time": 1714285698,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472348,
+        "num": 472348,
+        "word": "为什么不建议睡前刷牙",
+        "onboard_time": 1714269617,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 451270,
+        "num": 451270,
+        "word": "48元一个的榴莲女子追了一路",
+        "onboard_time": 1714286837,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370733,
+        "num": 370733,
+        "word": "巴勒斯坦",
+        "onboard_time": 1714284498,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 324328,
+        "num": 324328,
+        "word": "女子反驳江西高彩礼希望男生睁眼看世界",
+        "onboard_time": 1714284498,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319482,
+        "num": 319482,
+        "word": "通知书到了读研还是结婚",
+        "onboard_time": 1714278562,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59536,
+        "num": 312172,
+        "word": "满级人类如何看待未来汽车",
+        "onboard_time": 1714287319,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 372959,
+        "num": 310907,
+        "word": "问界M7起火事故逝者家属发声",
+        "onboard_time": 1714275979,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309544,
+        "num": 309544,
+        "word": "林峯舌头可以舔到下巴",
+        "onboard_time": 1714281738,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299112,
+        "num": 299112,
+        "word": "恋与制作人百雀羚联名",
+        "onboard_time": 1714287079,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270288,
+        "num": 270288,
+        "word": "宋雨琦参加杭州草莓音乐节",
+        "onboard_time": 1714282998,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256788,
+        "num": 256788,
+        "word": "iPhone充电切勿放枕头下",
+        "onboard_time": 1714264219,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 256181,
+        "num": 256181,
+        "word": "华为",
+        "onboard_time": 1714281799,
+        "rank": 25,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 253194,
+        "num": 253194,
+        "word": "女主失忆 男主车祸",
+        "onboard_time": 1714272499,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238629,
+        "num": 238629,
+        "word": "王一博英语",
+        "onboard_time": 1714288037,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235553,
+        "num": 235553,
+        "word": "怀孕九个月去产检被老人要求让座",
+        "onboard_time": 1714259896,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217439,
+        "num": 217439,
+        "word": "美国多人使用吸血鬼面膜感染HIV",
+        "onboard_time": 1714279639,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197270,
+        "num": 197270,
+        "word": "无限超越班翻拍了肖战的戏",
+        "onboard_time": 1714277599,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181889,
+        "num": 181889,
+        "word": "周鸿祎回应拍卖迈巴赫600",
+        "onboard_time": 1714286957,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 178063,
+        "num": 178063,
+        "word": "TTG对战BOA",
+        "onboard_time": 1714287257,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174080,
+        "num": 174080,
+        "word": "上海地铁限时免收起步费",
+        "onboard_time": 1714287196,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173975,
+        "num": 173975,
+        "word": "何炅50岁了",
+        "onboard_time": 1714262177,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165814,
+        "num": 165814,
+        "word": "钢珠求救鸭去世了",
+        "onboard_time": 1714270338,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158783,
+        "num": 158783,
+        "word": "山东震感",
+        "onboard_time": 1714276999,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149038,
+        "num": 149038,
+        "word": "黄海海域4.4级地震",
+        "onboard_time": 1714276759,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147763,
+        "num": 147763,
+        "word": "AITO汽车",
+        "onboard_time": 1714286657,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 17784,
+        "num": 147553,
+        "word": "河南景区算是把中国文化玩明白了",
+        "onboard_time": 1714287617,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 147482,
+        "num": 147482,
+        "word": "郑佩佩每条微博都艾特刘涛",
+        "onboard_time": 1714288398,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145340,
+        "num": 145340,
+        "word": "张钧甯好清晰的马甲线",
+        "onboard_time": 1714284978,
+        "rank": 41,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 144477,
+        "num": 144477,
+        "word": "这些蔬菜嘌呤比肉还高",
+        "onboard_time": 1714279580,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144081,
+        "num": 144081,
+        "word": "歌手阵容",
+        "onboard_time": 1714269319,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143644,
+        "num": 143644,
+        "word": "何瑞之 我很爱我老婆",
+        "onboard_time": 1714277960,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143033,
+        "num": 143033,
+        "word": "问界回应车辆起火司乘3人遇难",
+        "onboard_time": 1714273698,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129440,
+        "num": 129440,
+        "word": "宁静说李菲儿一出现就会记得她",
+        "onboard_time": 1714286899,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117296,
+        "num": 117296,
+        "word": "鹿晗邓超陈赫再唱超级英雄",
+        "onboard_time": 1714281199,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111878,
+        "num": 111878,
+        "word": "光与夜之恋",
+        "onboard_time": 1714285879,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102143,
+        "num": 102143,
+        "word": "朱一龙最难熬的一分钟",
+        "onboard_time": 1714284079,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#途通山海阔开放创未来#"
+    }
+  }
+}
