@@ -1,0 +1,410 @@
+{
+  "runTime": 1714278015370,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7624726,
+        "num": 7624726,
+        "word": "黄海海域4.4级地震",
+        "onboard_time": 1714276759,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2607465,
+        "num": 2607465,
+        "word": "山东震感",
+        "onboard_time": 1714276999,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36123,
+        "num": 1638078,
+        "word": "用明信片方式打开神十七太空之旅",
+        "onboard_time": 1714276819,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1414555,
+        "num": 1414555,
+        "word": "5000块钱的工资46个工作群",
+        "onboard_time": 1714266018,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1304934,
+        "num": 1304934,
+        "word": "女主失忆 男主车祸",
+        "onboard_time": 1714272499,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 826953,
+        "num": 826953,
+        "word": "问界M7起火事故逝者家属发声",
+        "onboard_time": 1714275979,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741955,
+        "num": 741955,
+        "word": "钢珠求救鸭去世了",
+        "onboard_time": 1714270338,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705872,
+        "num": 705872,
+        "word": "歌手阵容",
+        "onboard_time": 1714269319,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 681583,
+        "num": 681583,
+        "word": "问界回应车辆起火司乘3人遇难",
+        "onboard_time": 1714273698,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368233,
+        "num": 561144,
+        "word": "原来真的有人一辈子活在爱好里",
+        "onboard_time": 1714270998,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 788319,
+        "num": 558957,
+        "word": "为什么不建议睡前刷牙",
+        "onboard_time": 1714269617,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 724248,
+        "num": 551266,
+        "word": "何炅50岁了",
+        "onboard_time": 1714262177,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526956,
+        "num": 526956,
+        "word": "大连震感",
+        "onboard_time": 1714277659,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495405,
+        "num": 495405,
+        "word": "陶昕然演甄嬛传最遗憾的一场戏",
+        "onboard_time": 1714275258,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486548,
+        "num": 486548,
+        "word": "iPhone充电切勿放枕头下",
+        "onboard_time": 1714264219,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 464617,
+        "num": 464617,
+        "word": "薛之谦打嗝全场喊退票",
+        "onboard_time": 1714269139,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 442991,
+        "num": 442991,
+        "word": "成都不再审核购房资格",
+        "onboard_time": 1714273459,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438238,
+        "num": 438238,
+        "word": "彭于晏素颜遛狗被偶遇",
+        "onboard_time": 1714272919,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424712,
+        "num": 424712,
+        "word": "郑恺幸亏我和苗苗结婚了",
+        "onboard_time": 1714228160,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403854,
+        "num": 403854,
+        "word": "疫苗",
+        "onboard_time": 1714276819,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 614834,
+        "num": 403361,
+        "word": "问界M7追尾大货车起火",
+        "onboard_time": 1714273698,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536467,
+        "num": 397470,
+        "word": "怀孕九个月去产检被老人要求让座",
+        "onboard_time": 1714259896,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385682,
+        "num": 385682,
+        "word": "身上长这种疙瘩是HPV感染",
+        "onboard_time": 1714276038,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 361578,
+        "num": 361578,
+        "word": "明侦宇宙50个角色祝何炅生日快乐",
+        "onboard_time": 1714275378,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358609,
+        "num": 358609,
+        "word": "广州暴雨后天现凤凰",
+        "onboard_time": 1714271657,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339800,
+        "num": 339800,
+        "word": "五一放假下雨4天是怎样的体验",
+        "onboard_time": 1714260315,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312122,
+        "num": 312122,
+        "word": "偷感很重是什么梗",
+        "onboard_time": 1714267938,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311109,
+        "num": 311109,
+        "word": "布林肯在中国遭BBC女记者连怼",
+        "onboard_time": 1714269378,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 343853,
+        "num": 310376,
+        "word": "何炅赵丽颖合影旧照",
+        "onboard_time": 1714276338,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308537,
+        "num": 308537,
+        "word": "朴彩英 歌手2024",
+        "onboard_time": 1714269498,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302723,
+        "num": 302723,
+        "word": "詹姆斯被哈姆气到跳脚",
+        "onboard_time": 1714274117,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253653,
+        "num": 253653,
+        "word": "腾讯张军回应微信撤回有提示",
+        "onboard_time": 1714274238,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 253432,
+        "num": 253432,
+        "word": "大连某舞厅发生放火案致1死3伤",
+        "onboard_time": 1714276158,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246749,
+        "num": 246749,
+        "word": "王一博 真维斯",
+        "onboard_time": 1714276878,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245139,
+        "num": 245139,
+        "word": "张新成新剧尺度",
+        "onboard_time": 1714276459,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67598,
+        "num": 234676,
+        "word": "王一博小轮车适配度",
+        "onboard_time": 1714276939,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226911,
+        "num": 226911,
+        "word": "泽泽饭饭分手原因",
+        "onboard_time": 1714270338,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207917,
+        "num": 207917,
+        "word": "无限超越班翻拍了肖战的戏",
+        "onboard_time": 1714277599,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202036,
+        "num": 202036,
+        "word": "李想感谢雷军",
+        "onboard_time": 1714274899,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 197086,
+        "num": 197086,
+        "word": "BTS注水原文裁决书",
+        "onboard_time": 1714271597,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181587,
+        "num": 181587,
+        "word": "研究发现老鼠有战略性思维",
+        "onboard_time": 1714274839,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176079,
+        "num": 176079,
+        "word": "久坐1小时肌肉就开始出现结节",
+        "onboard_time": 1714270038,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170265,
+        "num": 170265,
+        "word": "林孝埈Wonderland首封",
+        "onboard_time": 1714274598,
+        "rank": 42,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 167831,
+        "num": 167831,
+        "word": "还是得靠詹姆斯",
+        "onboard_time": 1714276638,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167018,
+        "num": 167018,
+        "word": "为什么李宁越卖越贵",
+        "onboard_time": 1714275678,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 162084,
+        "num": 162084,
+        "word": "张杰杭州抢票",
+        "onboard_time": 1714277899,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159478,
+        "num": 159478,
+        "word": "种地吧 没直播",
+        "onboard_time": 1714271657,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159458,
+        "num": 159458,
+        "word": "何瑞之 我很爱我老婆",
+        "onboard_time": 1714277960,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157246,
+        "num": 157246,
+        "word": "湖人1比3掘金",
+        "onboard_time": 1714273997,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149964,
+        "num": 149964,
+        "word": "Rebecca结局",
+        "onboard_time": 1714272077,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#西部描绘繁荣发展新画卷#"
+    }
+  }
+}
