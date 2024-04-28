@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714322101615,
+  "endTime": 1714324546594,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -788,7 +788,7 @@
     },
     {
       "raw_hot": 492985,
-      "num": 316963,
+      "num": 378566,
       "word": "海仁活到了84岁",
       "onboard_time": 1714318578,
       "rank": 6,
@@ -1051,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343332,
+      "num": 343332,
+      "word": "民宿涨价1500后被退单平台只赔230",
+      "onboard_time": 1714320018,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339870,
       "num": 339870,
       "word": "何炅张杰看烟花",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1714229781,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 320003,
+      "num": 320003,
+      "word": "会长是女仆大人 碓冰拓海",
+      "onboard_time": 1714321876,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 319368,
@@ -1249,6 +1265,14 @@
       "onboard_time": 1714265659,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279520,
+      "num": 202710,
+      "word": "粉圈乱象影响观剧体验",
+      "onboard_time": 1714318158,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 275163,
@@ -1411,14 +1435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 245974,
-      "num": 245974,
-      "word": "民宿涨价1500后被退单平台只赔230",
-      "onboard_time": 1714320018,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244902,
       "num": 244902,
       "word": "王者荣耀",
@@ -1497,14 +1513,6 @@
       "onboard_time": 1714230440,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 237611,
-      "num": 202710,
-      "word": "粉圈乱象影响观剧体验",
-      "onboard_time": 1714318158,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 234579,
@@ -3035,11 +3043,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82254,
-      "num": 82254,
-      "word": "会长是女仆大人 碓冰拓海",
-      "onboard_time": 1714321876,
-      "rank": 38,
+      "raw_hot": 82367,
+      "num": 82367,
+      "word": "当洗澡后穿上你给的短裤",
+      "onboard_time": 1714323255,
+      "rank": 30,
       "category": "动漫"
     },
     {
@@ -3067,6 +3075,14 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 78802,
+      "num": 78802,
+      "word": "周雨彤皮衣造型",
+      "onboard_time": 1714322055,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 76612,
       "num": 76612,
       "word": "陈少熙是懂M3的",
@@ -3083,12 +3099,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 74985,
-      "num": 74985,
-      "word": "周雨彤皮衣造型",
-      "onboard_time": 1714322055,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 74358,
+      "num": 74358,
+      "word": "邓超陈赫能玩到一起的原因",
+      "onboard_time": 1714323673,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 73517,
@@ -3129,6 +3145,14 @@
       "onboard_time": 1714236855,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61438,
+      "num": 59471,
+      "word": "继续前行吧 不够善良的我们",
+      "onboard_time": 1714323136,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 59536,
