@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714300469323,
+  "endTime": 1714302850427,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -169,6 +169,14 @@
       "onboard_time": 1714227140,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1045867,
+      "num": 294987,
+      "word": "吃烤苕皮是一件很私密的事",
+      "onboard_time": 1714301296,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 1033458,
@@ -379,6 +387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 645805,
+      "num": 645805,
+      "word": "时代少年团MV有女主",
+      "onboard_time": 1714301357,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 629377,
       "num": 303523,
       "word": "台湾一警官长期性侵亲生女儿",
@@ -393,6 +409,14 @@
       "onboard_time": 1714273698,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 613824,
+      "num": 458362,
+      "word": "Gucci再次为肖战制作手绘墙",
+      "onboard_time": 1714299437,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 603585,
@@ -699,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 382655,
-      "num": 382655,
-      "word": "Gucci再次为肖战制作手绘墙",
-      "onboard_time": 1714299437,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 368303,
       "num": 368303,
       "word": "眼泪女王是14年前的剧本",
@@ -769,6 +785,22 @@
       "onboard_time": 1714270338,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334072,
+      "num": 333189,
+      "word": "朴彩英收到霉霉新专礼盒",
+      "onboard_time": 1714299497,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 333566,
+      "num": 333566,
+      "word": "雷军希望车企私下别搞小动作",
+      "onboard_time": 1714298118,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 331209,
@@ -851,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303456,
+      "num": 303456,
+      "word": "邓超 亚比囧囧囧",
+      "onboard_time": 1714300996,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299112,
       "num": 299112,
       "word": "恋与制作人百雀羚联名",
@@ -899,12 +939,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283732,
-      "num": 283732,
-      "word": "朴彩英收到霉霉新专礼盒",
-      "onboard_time": 1714299497,
-      "rank": 45,
-      "category": "音乐"
+      "raw_hot": 286230,
+      "num": 286230,
+      "word": "博世声明",
+      "onboard_time": 1714301237,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283933,
+      "num": 283933,
+      "word": "周鸿祎拍卖迈巴赫",
+      "onboard_time": 1714300037,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 280824,
@@ -971,14 +1019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 256643,
-      "num": 256643,
-      "word": "雷军希望车企私下别搞小动作",
-      "onboard_time": 1714298118,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 253653,
       "num": 253653,
       "word": "腾讯张军回应微信撤回有提示",
@@ -1043,6 +1083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243708,
+      "num": 243708,
+      "word": "00后没抢到票打车3000多公里回家",
+      "onboard_time": 1714297758,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243151,
       "num": 243151,
       "word": "刘亦菲也会内耗吗",
@@ -1073,14 +1121,6 @@
       "onboard_time": 1714280719,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 241788,
-      "num": 241788,
-      "word": "00后没抢到票打车3000多公里回家",
-      "onboard_time": 1714297758,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240183,
@@ -1179,6 +1219,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221532,
+      "num": 221532,
+      "word": "无骨的舌头伤人最深",
+      "onboard_time": 1714302318,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 219889,
+      "num": 219889,
+      "word": "去见时代少年团的路",
+      "onboard_time": 1714301296,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 219493,
+      "num": 201325,
+      "word": "时代少年团直播 三天观看",
+      "onboard_time": 1714300638,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 218793,
       "num": 218793,
       "word": "BABYMONSTER末放",
@@ -1217,6 +1281,14 @@
       "onboard_time": 1714278562,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213559,
+      "num": 529113,
+      "word": "天水表情包大叔靠麻辣烫追星成功",
+      "onboard_time": 1714299258,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213123,
@@ -1275,6 +1347,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 206167,
+      "num": 206167,
+      "word": "看似很爽其实伤身体的行为",
+      "onboard_time": 1714300517,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 206063,
       "num": 206063,
       "word": "张杰二开",
@@ -1313,6 +1393,14 @@
       "onboard_time": 1714272077,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201756,
+      "num": 201756,
+      "word": "巨蟹座的高冷是为了保护自己",
+      "onboard_time": 1714302497,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 201408,
@@ -1355,14 +1443,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 196833,
-      "num": 529113,
-      "word": "天水表情包大叔靠麻辣烫追星成功",
-      "onboard_time": 1714299258,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196763,
       "num": 196763,
       "word": "时代少年团重庆站",
@@ -1403,6 +1483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195144,
+      "num": 195144,
+      "word": "汪峰进军Kpop了",
+      "onboard_time": 1714302018,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194835,
       "num": 194835,
       "word": "湖人避免被横扫",
@@ -1435,6 +1523,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 192057,
+      "num": 192057,
+      "word": "林孝埈谈四登长城",
+      "onboard_time": 1714302077,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191128,
       "num": 191128,
       "word": "同龄人中为什么有人显老",
@@ -1457,6 +1553,14 @@
       "onboard_time": 1714269859,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188371,
+      "num": 188371,
+      "word": "LGD的命运",
+      "onboard_time": 1714297097,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 187851,
@@ -1491,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184227,
+      "num": 184227,
+      "word": "问界M7",
+      "onboard_time": 1714302138,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183383,
       "num": 183383,
       "word": "这些蔬菜嘌呤比肉还高",
@@ -1505,6 +1617,14 @@
       "onboard_time": 1714259954,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183165,
+      "num": 183165,
+      "word": "原来以前没有调休",
+      "onboard_time": 1714301958,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 181889,
@@ -1699,14 +1819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160257,
-      "num": 160257,
-      "word": "LGD的命运",
-      "onboard_time": 1714297097,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 159987,
       "num": 159987,
       "word": "朱一龙最难熬的一分钟",
@@ -1801,6 +1913,14 @@
       "onboard_time": 1714244771,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149965,
+      "num": 149965,
+      "word": "博世",
+      "onboard_time": 1714301237,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149667,
@@ -1961,14 +2081,6 @@
       "onboard_time": 1714284797,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136318,
-      "num": 136318,
-      "word": "周鸿祎拍卖迈巴赫",
-      "onboard_time": 1714300037,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 135550,
@@ -2345,6 +2457,14 @@
       "onboard_time": 1714287319,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 54376,
+      "num": 221659,
+      "word": "蛋仔五一福利",
+      "onboard_time": 1714301357,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 53750,

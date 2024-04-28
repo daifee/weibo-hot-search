@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714300469323,
+  "endTime": 1714302850427,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -5169,6 +5169,14 @@
       "onboard_time": 1714195997,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1045867,
+      "num": 294987,
+      "word": "吃烤苕皮是一件很私密的事",
+      "onboard_time": 1714301296,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 1045491,
@@ -12147,6 +12155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 645805,
+      "num": 645805,
+      "word": "时代少年团MV有女主",
+      "onboard_time": 1714301357,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 645697,
       "num": 645697,
       "word": "机智的医生生活第三季",
@@ -13137,6 +13153,14 @@
       "onboard_time": 1714107621,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 613824,
+      "num": 458362,
+      "word": "Gucci再次为肖战制作手绘墙",
+      "onboard_time": 1714299437,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 613683,
@@ -23931,14 +23955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 382655,
-      "num": 382655,
-      "word": "Gucci再次为肖战制作手绘墙",
-      "onboard_time": 1714299437,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 382279,
       "num": 382279,
       "word": "田曦薇露腰皮衣",
@@ -27147,6 +27163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 334072,
+      "num": 333189,
+      "word": "朴彩英收到霉霉新专礼盒",
+      "onboard_time": 1714299497,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 334071,
       "num": 334071,
       "word": "山东专升本成绩",
@@ -27201,6 +27225,14 @@
       "onboard_time": 1712932698,
       "rank": 34,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 333566,
+      "num": 333566,
+      "word": "雷军希望车企私下别搞小动作",
+      "onboard_time": 1714298118,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 333424,
@@ -31323,6 +31355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 286230,
+      "num": 286230,
+      "word": "博世声明",
+      "onboard_time": 1714301237,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286156,
       "num": 286156,
       "word": "00后上班是为了下班",
@@ -31523,6 +31563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283933,
+      "num": 283933,
+      "word": "周鸿祎拍卖迈巴赫",
+      "onboard_time": 1714300037,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 283921,
       "num": 283921,
       "word": "凤凰传奇 上头",
@@ -31553,14 +31601,6 @@
       "onboard_time": 1713093500,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 283732,
-      "num": 283732,
-      "word": "朴彩英收到霉霉新专礼盒",
-      "onboard_time": 1714299497,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 283671,
@@ -34539,14 +34579,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 256643,
-      "num": 256643,
-      "word": "雷军希望车企私下别搞小动作",
-      "onboard_time": 1714298118,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 256513,
       "num": 231994,
       "word": "Faker名人堂皮肤",
@@ -36355,6 +36387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243708,
+      "num": 243708,
+      "word": "00后没抢到票打车3000多公里回家",
+      "onboard_time": 1714297758,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243676,
       "num": 243676,
       "word": "华为盘古大模型首次应用于笔记本",
@@ -36641,14 +36681,6 @@
       "onboard_time": 1714211897,
       "rank": 24,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 241788,
-      "num": 241788,
-      "word": "00后没抢到票打车3000多公里回家",
-      "onboard_time": 1714297758,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241739,
@@ -40059,6 +40091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 221532,
+      "num": 221532,
+      "word": "无骨的舌头伤人最深",
+      "onboard_time": 1714302318,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221482,
       "num": 347993,
       "word": "CBA",
@@ -40323,6 +40363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219889,
+      "num": 219889,
+      "word": "去见时代少年团的路",
+      "onboard_time": 1714301296,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 219846,
       "num": 184262,
       "word": "张艺兴爱豆妆造",
@@ -40401,6 +40449,14 @@
       "onboard_time": 1714020804,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219493,
+      "num": 201325,
+      "word": "时代少年团直播 三天观看",
+      "onboard_time": 1714300638,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 219366,
@@ -41465,6 +41521,14 @@
       "onboard_time": 1712543059,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213559,
+      "num": 529113,
+      "word": "天水表情包大叔靠麻辣烫追星成功",
+      "onboard_time": 1714299258,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213556,
@@ -43459,6 +43523,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 206167,
+      "num": 206167,
+      "word": "看似很爽其实伤身体的行为",
+      "onboard_time": 1714300517,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 206157,
       "num": 206157,
       "word": "张艺兴宽肩",
@@ -45033,6 +45105,14 @@
       "onboard_time": 1714008078,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201756,
+      "num": 201756,
+      "word": "巨蟹座的高冷是为了保护自己",
+      "onboard_time": 1714302497,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 201737,
@@ -46691,14 +46771,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 196833,
-      "num": 529113,
-      "word": "天水表情包大叔靠麻辣烫追星成功",
-      "onboard_time": 1714299258,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196819,
       "num": 196819,
       "word": "程潇千禧辣妹妆",
@@ -47321,6 +47393,14 @@
       "onboard_time": 1714184657,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 195144,
+      "num": 195144,
+      "word": "汪峰进军Kpop了",
+      "onboard_time": 1714302018,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 195136,
@@ -48385,6 +48465,14 @@
       "onboard_time": 1713326419,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192057,
+      "num": 192057,
+      "word": "林孝埈谈四登长城",
+      "onboard_time": 1714302077,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 192055,
@@ -49979,6 +50067,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 188371,
+      "num": 188371,
+      "word": "LGD的命运",
+      "onboard_time": 1714297097,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188341,
       "num": 188341,
       "word": "原来iPhone还可以这样查岗",
@@ -51411,6 +51507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184227,
+      "num": 184227,
+      "word": "问界M7",
+      "onboard_time": 1714302138,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184205,
       "num": 184205,
       "word": "ELK状态",
@@ -51801,6 +51905,14 @@
       "onboard_time": 1712805197,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183165,
+      "num": 183165,
+      "word": "原来以前没有调休",
+      "onboard_time": 1714301958,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 183148,
@@ -58251,14 +58363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 160257,
-      "num": 160257,
-      "word": "LGD的命运",
-      "onboard_time": 1714297097,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 160247,
       "num": 160247,
       "word": "小米汽车引发同行快速反应",
@@ -61705,6 +61809,14 @@
       "onboard_time": 1712243540,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149965,
+      "num": 149965,
+      "word": "博世",
+      "onboard_time": 1714301237,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149953,
@@ -66305,14 +66417,6 @@
       "onboard_time": 1714021344,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 136318,
-      "num": 136318,
-      "word": "周鸿祎拍卖迈巴赫",
-      "onboard_time": 1714300037,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 136284,
@@ -77457,6 +77561,14 @@
       "onboard_time": 1712186053,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 54376,
+      "num": 221659,
+      "word": "蛋仔五一福利",
+      "onboard_time": 1714301357,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 54271,
