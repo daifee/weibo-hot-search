@@ -1,0 +1,410 @@
+{
+  "runTime": 1714292539998,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1310227,
+        "num": 1310227,
+        "word": "郑佩佩每条微博都艾特刘涛",
+        "onboard_time": 1714288398,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 804070,
+        "num": 804070,
+        "word": "两女子穿和服跳日本舞惹众怒",
+        "onboard_time": 1714279698,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33909,
+        "num": 752472,
+        "word": "用明信片方式打开神十七太空之旅",
+        "onboard_time": 1714276819,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 832242,
+        "num": 751034,
+        "word": "副校长获奖章而孕妻顾家劳累两度流产",
+        "onboard_time": 1714289358,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729904,
+        "num": 729904,
+        "word": "5000块钱的工资46个工作群",
+        "onboard_time": 1714266018,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 524590,
+        "num": 524590,
+        "word": "问界将为家属提供一切可能的支持",
+        "onboard_time": 1714289718,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508067,
+        "num": 508067,
+        "word": "关于Hybe最可怕的说法",
+        "onboard_time": 1714285638,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452465,
+        "num": 452465,
+        "word": "广州一女子商场跳楼砸中路人",
+        "onboard_time": 1714282278,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426497,
+        "num": 426497,
+        "word": "身上长这种疙瘩是HPV感染",
+        "onboard_time": 1714276038,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161244,
+        "num": 424298,
+        "word": "原来真的有人一辈子活在爱好里",
+        "onboard_time": 1714270998,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 907746,
+        "num": 423059,
+        "word": "田馥甄妈妈回应",
+        "onboard_time": 1714287738,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 876820,
+        "num": 419368,
+        "word": "48元一个的榴莲女子追了一路",
+        "onboard_time": 1714286837,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579450,
+        "num": 418473,
+        "word": "王一博英语",
+        "onboard_time": 1714288037,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416127,
+        "num": 416127,
+        "word": "赛力斯回应车辆起火车门无法打开",
+        "onboard_time": 1714285698,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78922,
+        "num": 400148,
+        "word": "近半数过敏性鼻炎患者会发展为哮喘",
+        "onboard_time": 1714291219,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 525646,
+        "num": 398851,
+        "word": "胡先煦发烧回京去医院",
+        "onboard_time": 1714289419,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524494,
+        "num": 397073,
+        "word": "何炅的伞撑了一个又一个人",
+        "onboard_time": 1714280660,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393086,
+        "num": 393086,
+        "word": "银行盯上县城贵妇",
+        "onboard_time": 1714290437,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329856,
+        "num": 329856,
+        "word": "郭碧婷 人生不用太累",
+        "onboard_time": 1714289118,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316141,
+        "num": 316141,
+        "word": "纪凌尘随地乱丢烟头",
+        "onboard_time": 1714290139,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529752,
+        "num": 315727,
+        "word": "李承铉被戚薇禁止送礼",
+        "onboard_time": 1714289298,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313041,
+        "num": 313041,
+        "word": "于正回应郝蕾怒批赵晴",
+        "onboard_time": 1714280180,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287439,
+        "num": 287439,
+        "word": "为什么不建议睡前刷牙",
+        "onboard_time": 1714269617,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 281581,
+        "num": 281581,
+        "word": "性格决定上班劳累程度",
+        "onboard_time": 1714279759,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275163,
+        "num": 275163,
+        "word": "这下谁还敢恋爱脑啊",
+        "onboard_time": 1714291699,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261290,
+        "num": 261290,
+        "word": "问界M7起火事故逝者家属发声",
+        "onboard_time": 1714275979,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253017,
+        "num": 253017,
+        "word": "马斯克 北京",
+        "onboard_time": 1714284918,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 242974,
+        "num": 242974,
+        "word": "王鹤棣素颜健身",
+        "onboard_time": 1714291699,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229166,
+        "num": 229166,
+        "word": "出品方回应甄嬛传被钮祜禄氏后人举报",
+        "onboard_time": 1714291398,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217872,
+        "num": 217872,
+        "word": "徐冬冬官宣婚礼计划",
+        "onboard_time": 1714291818,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215857,
+        "num": 215857,
+        "word": "女子反驳江西高彩礼希望男生睁眼看世界",
+        "onboard_time": 1714284498,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210530,
+        "num": 210530,
+        "word": "中国航天员完成在轨交接",
+        "onboard_time": 1714292178,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208251,
+        "num": 208251,
+        "word": "韩维辰李瑞 CP感",
+        "onboard_time": 1714291398,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206361,
+        "num": 206361,
+        "word": "大明湖畔的杨紫",
+        "onboard_time": 1714290559,
+        "rank": 33,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 185820,
+        "num": 185820,
+        "word": "不喜欢工作但喜欢找工作",
+        "onboard_time": 1714290318,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183093,
+        "num": 183093,
+        "word": "戚薇被陈丽君戏妆吓到",
+        "onboard_time": 1714285217,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176476,
+        "num": 176476,
+        "word": "雷军直播聊最后一次创业",
+        "onboard_time": 1714289718,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171101,
+        "num": 171101,
+        "word": "怀孕九个月去产检被老人要求让座",
+        "onboard_time": 1714259896,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163874,
+        "num": 163874,
+        "word": "巴勒斯坦",
+        "onboard_time": 1714284498,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 154101,
+        "num": 154101,
+        "word": "林峯舌头可以舔到下巴",
+        "onboard_time": 1714281738,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71524,
+        "num": 153803,
+        "word": "你会第一时间给手机系统升级吗",
+        "onboard_time": 1714292000,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153611,
+        "num": 153611,
+        "word": "女主失忆 男主车祸",
+        "onboard_time": 1714272499,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152868,
+        "num": 152868,
+        "word": "杨紫专访",
+        "onboard_time": 1714290379,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145075,
+        "num": 145075,
+        "word": "朋友说虞书欣风是我的统治区",
+        "onboard_time": 1714291219,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139814,
+        "num": 139814,
+        "word": "宋雨琦参加杭州草莓音乐节",
+        "onboard_time": 1714282998,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133989,
+        "num": 133989,
+        "word": "上海地铁限时免收起步费",
+        "onboard_time": 1714287196,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125639,
+        "num": 125639,
+        "word": "问界回应车辆起火司乘3人遇难",
+        "onboard_time": 1714273698,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122407,
+        "num": 122407,
+        "word": "闺蜜的聊天记录是顶级机密",
+        "onboard_time": 1714288638,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122380,
+        "num": 122380,
+        "word": "袁娅维吐槽浪姐字幕",
+        "onboard_time": 1714292358,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109722,
+        "num": 109722,
+        "word": "炸树叶好歹毒的吃法",
+        "onboard_time": 1714292479,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#在中国式现代化建设中奋力谱写西部大开发新篇章#"
+    }
+  }
+}

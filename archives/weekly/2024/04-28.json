@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714289663760,
+  "endTime": 1714292539998,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -81,6 +81,14 @@
       "onboard_time": 1714270338,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1310227,
+      "num": 1310227,
+      "word": "郑佩佩每条微博都艾特刘涛",
+      "onboard_time": 1714288398,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 1304934,
@@ -195,6 +203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 876820,
+      "num": 520338,
+      "word": "48元一个的榴莲女子追了一路",
+      "onboard_time": 1714286837,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 868484,
       "num": 868484,
       "word": "广州一女子商场跳楼砸中路人",
@@ -211,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 832242,
+      "num": 751034,
+      "word": "副校长获奖章而孕妻顾家劳累两度流产",
+      "onboard_time": 1714289358,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 826953,
       "num": 826953,
       "word": "问界M7起火事故逝者家属发声",
@@ -224,14 +248,6 @@
       "word": "怀孕九个月去产检被老人要求让座",
       "onboard_time": 1714259896,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 791259,
-      "num": 520338,
-      "word": "48元一个的榴莲女子追了一路",
-      "onboard_time": 1714286837,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -307,20 +323,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 588558,
-      "num": 509443,
-      "word": "郑佩佩每条微博都艾特刘涛",
-      "onboard_time": 1714288398,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 588041,
       "num": 588041,
       "word": "戚薇被陈丽君戏妆吓到",
       "onboard_time": 1714285217,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 579450,
+      "num": 470283,
+      "word": "王一博英语",
+      "onboard_time": 1714288037,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 577358,
@@ -347,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529752,
+      "num": 315727,
+      "word": "李承铉被戚薇禁止送礼",
+      "onboard_time": 1714289298,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 529059,
       "num": 529059,
       "word": "薛之谦打嗝全场喊退票",
@@ -368,6 +392,22 @@
       "word": "大连震感",
       "onboard_time": 1714277659,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525646,
+      "num": 398851,
+      "word": "胡先煦发烧回京去医院",
+      "onboard_time": 1714289419,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 524590,
+      "num": 524590,
+      "word": "问界将为家属提供一切可能的支持",
+      "onboard_time": 1714289718,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -451,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 470283,
-      "num": 470283,
-      "word": "王一博英语",
-      "onboard_time": 1714288037,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 464998,
       "num": 174008,
       "word": "中医提醒臀部是寒气最重的部位",
@@ -512,6 +544,14 @@
       "word": "广州接连发生龙卷风大冰雹原因",
       "onboard_time": 1714261517,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393086,
+      "num": 393086,
+      "word": "银行盯上县城贵妇",
+      "onboard_time": 1714290437,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -619,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 329856,
+      "num": 329856,
+      "word": "郭碧婷 人生不用太累",
+      "onboard_time": 1714289118,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320228,
       "num": 320228,
       "word": "翟潇闻难哄出妆",
@@ -641,6 +689,14 @@
       "onboard_time": 1714270338,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 316141,
+      "num": 316141,
+      "word": "纪凌尘随地乱丢烟头",
+      "onboard_time": 1714290139,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 315839,
@@ -715,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275163,
+      "num": 275163,
+      "word": "这下谁还敢恋爱脑啊",
+      "onboard_time": 1714291699,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271265,
       "num": 271265,
       "word": "春色寄情人 看得我尖叫",
@@ -763,14 +827,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 251252,
-      "num": 251252,
-      "word": "李承铉被戚薇禁止送礼",
-      "onboard_time": 1714289298,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 247811,
       "num": 247811,
       "word": "张杰杭州抢票",
@@ -809,6 +865,14 @@
       "onboard_time": 1714261037,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242974,
+      "num": 242974,
+      "word": "王鹤棣素颜健身",
+      "onboard_time": 1714291699,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 242891,
@@ -867,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229166,
+      "num": 229166,
+      "word": "出品方回应甄嬛传被钮祜禄氏后人举报",
+      "onboard_time": 1714291398,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228799,
       "num": 228799,
       "word": "五一假期多个旅游热门城市下雨",
@@ -913,6 +985,14 @@
       "onboard_time": 1714220898,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217872,
+      "num": 217872,
+      "word": "徐冬冬官宣婚礼计划",
+      "onboard_time": 1714291818,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 217660,
@@ -963,19 +1043,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211166,
-      "num": 211166,
-      "word": "副校长获奖章而孕妻顾家劳累两度流产",
-      "onboard_time": 1714289358,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 210530,
+      "num": 210530,
+      "word": "中国航天员完成在轨交接",
+      "onboard_time": 1714292178,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
-      "raw_hot": 208706,
-      "num": 208706,
-      "word": "郭碧婷 人生不用太累",
-      "onboard_time": 1714289118,
-      "rank": 28,
+      "raw_hot": 208251,
+      "num": 208251,
+      "word": "韩维辰李瑞 CP感",
+      "onboard_time": 1714291398,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1001,6 +1081,14 @@
       "onboard_time": 1714288698,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 206361,
+      "num": 206361,
+      "word": "大明湖畔的杨紫",
+      "onboard_time": 1714290559,
+      "rank": 33,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 204666,
@@ -1131,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185820,
+      "num": 185820,
+      "word": "不喜欢工作但喜欢找工作",
+      "onboard_time": 1714290318,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184943,
       "num": 184943,
       "word": "杨九郎演张子枫的同事没见过张子枫",
@@ -1219,6 +1315,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 176476,
+      "num": 176476,
+      "word": "雷军直播聊最后一次创业",
+      "onboard_time": 1714289718,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 176427,
       "num": 176427,
       "word": "林奕含逝世七周年",
@@ -1265,14 +1369,6 @@
       "onboard_time": 1714206978,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168922,
-      "num": 168922,
-      "word": "胡先煦发烧回京去医院",
-      "onboard_time": 1714289419,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 167831,
@@ -1361,6 +1457,14 @@
       "onboard_time": 1714229721,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152868,
+      "num": 152868,
+      "word": "杨紫专访",
+      "onboard_time": 1714290379,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 150080,
@@ -1457,6 +1561,14 @@
       "onboard_time": 1714283417,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145075,
+      "num": 145075,
+      "word": "朋友说虞书欣风是我的统治区",
+      "onboard_time": 1714291219,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 141200,
@@ -1603,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122380,
+      "num": 122380,
+      "word": "袁娅维吐槽浪姐字幕",
+      "onboard_time": 1714292358,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121086,
       "num": 121086,
       "word": "苗苗一公舞台",
@@ -1649,6 +1769,14 @@
       "onboard_time": 1714225159,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109722,
+      "num": 109722,
+      "word": "炸树叶好歹毒的吃法",
+      "onboard_time": 1714292479,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 107428,
@@ -1763,12 +1891,28 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 78922,
+      "num": 400148,
+      "word": "近半数过敏性鼻炎患者会发展为哮喘",
+      "onboard_time": 1714291219,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 73517,
       "num": 73517,
       "word": "年轻人想赚快钱不用不好意思",
       "onboard_time": 1714252692,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 71524,
+      "num": 153803,
+      "word": "你会第一时间给手机系统升级吗",
+      "onboard_time": 1714292000,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 67598,
