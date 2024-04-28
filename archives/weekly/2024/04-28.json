@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714281460578,
+  "endTime": 1714282446739,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -57,6 +57,14 @@
       "onboard_time": 1714262177,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1318516,
+      "num": 1318516,
+      "word": "美国多人使用吸血鬼面膜感染HIV",
+      "onboard_time": 1714279639,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1313043,
@@ -139,6 +147,30 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 956636,
+      "num": 490485,
+      "word": "何炅的伞撑了一个又一个人",
+      "onboard_time": 1714280660,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 940158,
+      "num": 502966,
+      "word": "通知书到了读研还是结婚",
+      "onboard_time": 1714278562,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 938894,
+      "num": 938894,
+      "word": "于正回应郝蕾怒批赵晴",
+      "onboard_time": 1714280180,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 844961,
       "num": 385682,
       "word": "身上长这种疙瘩是HPV感染",
@@ -161,14 +193,6 @@
       "onboard_time": 1714275979,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 823689,
-      "num": 502966,
-      "word": "通知书到了读研还是结婚",
-      "onboard_time": 1714278562,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 820288,
@@ -195,22 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 749924,
-      "num": 749924,
-      "word": "美国多人使用吸血鬼面膜感染HIV",
-      "onboard_time": 1714279639,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 745874,
-      "num": 490485,
-      "word": "何炅的伞撑了一个又一个人",
-      "onboard_time": 1714280660,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 731033,
       "num": 731033,
       "word": "布林肯在中国遭BBC女记者连怼",
@@ -227,20 +235,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 697965,
-      "num": 697965,
-      "word": "于正回应郝蕾怒批赵晴",
-      "onboard_time": 1714280180,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 697277,
       "num": 697277,
       "word": "问界回应车辆起火司乘3人遇难",
       "onboard_time": 1714273698,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 686771,
+      "num": 686771,
+      "word": "两女子穿和服跳日本舞惹众怒",
+      "onboard_time": 1714279698,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 629377,
@@ -363,14 +371,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 462605,
-      "num": 462605,
-      "word": "两女子穿和服跳日本舞惹众怒",
-      "onboard_time": 1714279698,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 457555,
       "num": 457555,
       "word": "牛仔裤正在被抛弃吗",
@@ -459,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 357305,
+      "num": 357305,
+      "word": "林峯舌头可以舔到下巴",
+      "onboard_time": 1714281738,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 343853,
       "num": 310376,
       "word": "何炅赵丽颖合影旧照",
@@ -473,6 +481,14 @@
       "onboard_time": 1714264039,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 336284,
+      "num": 336284,
+      "word": "性格决定上班劳累程度",
+      "onboard_time": 1714279759,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 336015,
@@ -497,14 +513,6 @@
       "onboard_time": 1714226900,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 326059,
-      "num": 326059,
-      "word": "性格决定上班劳累程度",
-      "onboard_time": 1714279759,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 320228,
@@ -667,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245174,
+      "num": 245174,
+      "word": "华为",
+      "onboard_time": 1714281799,
+      "rank": 28,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 244902,
       "num": 244902,
       "word": "王者荣耀",
@@ -689,6 +705,14 @@
       "onboard_time": 1714269019,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242004,
+      "num": 242004,
+      "word": "老头杯",
+      "onboard_time": 1714280719,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 240183,
@@ -769,14 +793,6 @@
       "onboard_time": 1714268659,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 224478,
-      "num": 224478,
-      "word": "老头杯",
-      "onboard_time": 1714280719,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 222126,
@@ -1115,6 +1131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157641,
+      "num": 157641,
+      "word": "广州一女子商场跳楼砸中路人",
+      "onboard_time": 1714282278,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157364,
       "num": 157364,
       "word": "迪丽热巴影子变成小蝴蝶",
@@ -1185,6 +1209,14 @@
       "onboard_time": 1714215678,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147917,
+      "num": 147917,
+      "word": "传奇杯",
+      "onboard_time": 1714281917,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 147738,
@@ -1297,6 +1329,14 @@
       "onboard_time": 1714265958,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125436,
+      "num": 125436,
+      "word": "这些蔬菜嘌呤比肉还高",
+      "onboard_time": 1714279580,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 124186,
