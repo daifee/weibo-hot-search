@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714313716685,
+  "endTime": 1714314859458,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -4187,6 +4187,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1162512,
+      "num": 323647,
+      "word": "长期吃榴莲身体会发生什么变化",
+      "onboard_time": 1714311439,
+      "rank": 21,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 1161761,
       "num": 506405,
       "word": "全嘻嘻 北大毕业15年的两种结局",
@@ -6665,6 +6673,14 @@
       "onboard_time": 1712112200,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 921904,
+      "num": 800603,
+      "word": "眼泪女王 太癫了",
+      "onboard_time": 1714310360,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 921731,
@@ -9379,14 +9395,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 765526,
-      "num": 765526,
-      "word": "眼泪女王 太癫了",
-      "onboard_time": 1714310360,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 764706,
       "num": 764706,
       "word": "不该 仙品",
@@ -10993,14 +11001,6 @@
       "onboard_time": 1713708381,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 691777,
-      "num": 323647,
-      "word": "长期吃榴莲身体会发生什么变化",
-      "onboard_time": 1714311439,
-      "rank": 21,
-      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 691194,
@@ -13643,6 +13643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 601128,
+      "num": 251000,
+      "word": "问界",
+      "onboard_time": 1711940541,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 601098,
       "num": 601098,
       "word": "花少第一站破碎的是张翰",
@@ -15841,14 +15849,6 @@
       "onboard_time": 1713705081,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 538747,
-      "num": 251000,
-      "word": "问界",
-      "onboard_time": 1711940541,
-      "rank": 32,
-      "category": "汽车"
     },
     {
       "raw_hot": 538706,
@@ -20969,6 +20969,14 @@
       "onboard_time": 1713222916,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437712,
+      "num": 437712,
+      "word": "张雨绮是怎么发现这个赛道的",
+      "onboard_time": 1714312218,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 437574,
@@ -27017,14 +27025,6 @@
       "onboard_time": 1712920218,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 339545,
-      "num": 339545,
-      "word": "张雨绮是怎么发现这个赛道的",
-      "onboard_time": 1714312218,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 339461,
@@ -34627,6 +34627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 257912,
+      "num": 257912,
+      "word": "特斯拉通过国家汽车数据安全4项全部要求",
+      "onboard_time": 1714314499,
+      "rank": 26,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 257834,
       "num": 257834,
       "word": "Zoom爆料Doinb开播日期",
@@ -34785,6 +34793,14 @@
       "onboard_time": 1712723000,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 256314,
+      "num": 305294,
+      "word": "专家谈问界M7碰撞后疑车门无法打开",
+      "onboard_time": 1714313540,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256303,
@@ -35995,6 +36011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248075,
+      "num": 248075,
+      "word": "RIIZE疑似剧透洪承汉复出",
+      "onboard_time": 1714313601,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248051,
       "num": 248051,
       "word": "金靖闷声干大事",
@@ -36979,6 +37003,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 241376,
+      "num": 241376,
+      "word": "黄晓明默默撤回了一口饭",
+      "onboard_time": 1714312639,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241308,
       "num": 241308,
       "word": "白猫因过于淡定被质疑耳聋",
@@ -37345,14 +37377,6 @@
       "onboard_time": 1713424278,
       "rank": 32,
       "category": "电影,时尚"
-    },
-    {
-      "raw_hot": 239352,
-      "num": 239352,
-      "word": "黄晓明默默撤回了一口饭",
-      "onboard_time": 1714312639,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 239349,
@@ -40201,14 +40225,6 @@
       "onboard_time": 1712404698,
       "rank": 19,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 222194,
-      "num": 222194,
-      "word": "RIIZE疑似剧透洪承汉复出",
-      "onboard_time": 1714313601,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 222185,
@@ -45987,6 +46003,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 200006,
+      "num": 200006,
+      "word": "卡琳娜的营业态度",
+      "onboard_time": 1714313418,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199983,
       "num": 230935,
       "word": "詹姆斯三分又爆了",
@@ -47033,6 +47057,14 @@
       "onboard_time": 1712028500,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196944,
+      "num": 299997,
+      "word": "热刺乌龙",
+      "onboard_time": 1714313721,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 196893,
@@ -54987,6 +55019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173527,
+      "num": 173527,
+      "word": "官方通报广州一女子商场跳楼砸中人",
+      "onboard_time": 1714314739,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173468,
       "num": 173468,
       "word": "配得感",
@@ -55817,6 +55857,14 @@
       "onboard_time": 1712924598,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170612,
+      "num": 170612,
+      "word": "眼泪女王收视率破40",
+      "onboard_time": 1714314681,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 170506,
@@ -59443,6 +59491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 157929,
+      "num": 157929,
+      "word": "雷军称小米造车投入了半个家底",
+      "onboard_time": 1714313780,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 157827,
       "num": 157827,
       "word": "闵熙珍出道曲 MiniJean",
@@ -62347,20 +62403,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149342,
-      "num": 149342,
-      "word": "卡琳娜的营业态度",
-      "onboard_time": 1714313418,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 149336,
       "num": 149336,
       "word": "麦承欢眼里没有光了",
       "onboard_time": 1713362839,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149307,
+      "num": 149307,
+      "word": "常吃这3类鸡蛋才真正有害",
+      "onboard_time": 1714313418,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 149294,
@@ -67467,6 +67523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 134033,
+      "num": 134033,
+      "word": "玫瑰的故事 38集",
+      "onboard_time": 1714314799,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133989,
       "num": 133989,
       "word": "为什么西安餐桌上没有餐巾纸",
@@ -69249,14 +69313,6 @@
       "onboard_time": 1713505757,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128012,
-      "num": 128012,
-      "word": "常吃这3类鸡蛋才真正有害",
-      "onboard_time": 1714313418,
-      "rank": 45,
-      "category": "科学科普"
     },
     {
       "raw_hot": 127953,
@@ -72009,14 +72065,6 @@
       "onboard_time": 1712300837,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 116608,
-      "num": 227750,
-      "word": "专家谈问界M7碰撞后疑车门无法打开",
-      "onboard_time": 1714313540,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116596,
@@ -78243,6 +78291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51911,
+      "num": 401791,
+      "word": "不要怀疑戚薇浪姐眼光",
+      "onboard_time": 1714296497,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51456,
       "num": 51456,
       "word": "雷军称SU7零百加速实测2.95秒",
@@ -80121,14 +80177,6 @@
       "onboard_time": 1714304056,
       "rank": 17,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 25059,
-      "num": 401791,
-      "word": "不要怀疑戚薇浪姐眼光",
-      "onboard_time": 1714296497,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 25001,
