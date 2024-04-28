@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/28 17:35:20
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/28 18:18:38
 </p>
 </blockquote>
 <p>
@@ -5391,6 +5391,12 @@ TES零封JDG（热度：901726）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM7%E8%B5%B7%E7%81%AB%E4%BA%8B%E6%95%85%E9%9A%90%E8%97%8F%E5%BC%8F%E9%97%A8%E6%8A%8A%E6%89%8B%E7%96%91%E4%BC%BC%E6%9C%AA%E5%BC%B9%E5%87%BA%23" target="weibo">
+问界M7起火事故隐藏式门把手疑似未弹出（热度：879240）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%B8%A2%E8%AF%BE%E6%9C%AC%E8%A2%AB%E8%80%81%E5%B8%88%E7%94%A8%E6%88%92%E5%B0%BA%E6%89%93%E5%BE%97%E5%A4%B4%E9%83%A8%E5%8F%98%E5%BD%A2%23" target="weibo">
 小学生丢课本被老师用戒尺打得头部变形（热度：877345）
 </a>
@@ -6008,12 +6014,6 @@ papi酱 关于小孩的疑问（热度：829190）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E5%92%8C%E7%88%B7%E7%88%B7%E4%B9%98%E5%9D%90%E9%A3%9E%E6%9C%BA%E7%9A%84%E8%BF%87%E7%A8%8B%23" target="weibo">
-福宝和爷爷乘坐飞机的过程（热度：828005）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6521,6 +6521,12 @@ papi酱 关于小孩的疑问（热度：829190）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%BB%BA%E8%AE%BE%E4%B8%AD%E5%A5%8B%E5%8A%9B%E8%B0%B1%E5%86%99%E8%A5%BF%E9%83%A8%E5%A4%A7%E5%BC%80%E5%8F%91%E6%96%B0%E7%AF%87%E7%AB%A0%23%23" target="weibo">
 #在中国式现代化建设中奋力谱写西部大开发新篇章#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B0%88%E4%B8%AD%E7%BE%8E%23%23" target="weibo">
+#习近平谈中美#
 </a>
 </li>
 

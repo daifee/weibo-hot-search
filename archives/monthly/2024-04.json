@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714296920474,
+  "endTime": 1714299518025,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -756,7 +756,7 @@
     },
     {
       "raw_hot": 2181236,
-      "num": 440964,
+      "num": 561431,
       "word": "居然还有女用避孕套",
       "onboard_time": 1714295658,
       "rank": 10,
@@ -7171,6 +7171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 879240,
+      "num": 665567,
+      "word": "问界M7起火事故隐藏式门把手疑似未弹出",
+      "onboard_time": 1714295477,
+      "rank": 28,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 877345,
       "num": 420198,
       "word": "小学生丢课本被老师用戒尺打得头部变形",
@@ -10483,6 +10491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 710294,
+      "num": 510933,
+      "word": "孙俪爆料邓超的坏习惯",
+      "onboard_time": 1714294458,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 709250,
       "num": 709250,
       "word": "赵小棠 生病了不是你的错",
@@ -11619,14 +11635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 665567,
-      "num": 665567,
-      "word": "问界M7起火事故隐藏式门把手疑似未弹出",
-      "onboard_time": 1714295477,
-      "rank": 28,
-      "category": "社会新闻,汽车"
-    },
-    {
       "raw_hot": 665213,
       "num": 665213,
       "word": "刘昊然回应燃冬评论",
@@ -11875,6 +11883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 655201,
+      "num": 655201,
+      "word": "郑佩佩好像我奶奶",
+      "onboard_time": 1714298779,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 655099,
       "num": 793823,
       "word": "伊朗宣布所有基地处于最高级别战备状态",
@@ -12019,12 +12035,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 649443,
+      "num": 649443,
+      "word": "岂能尽如人意 但求不愧我心",
+      "onboard_time": 1714298057,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 649401,
       "num": 510507,
       "word": "莎头 可口可乐",
       "onboard_time": 1713164117,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 649339,
+      "num": 649339,
+      "word": "雷军短袖",
+      "onboard_time": 1714296439,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 649252,
@@ -13659,6 +13691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594906,
+      "num": 594906,
+      "word": "博世否认问界M7事故中使用其AEB",
+      "onboard_time": 1714298537,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 594678,
       "num": 336219,
       "word": "江西通报小学生在校坠楼身亡",
@@ -15081,14 +15121,6 @@
       "onboard_time": 1712379019,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 554592,
-      "num": 400088,
-      "word": "孙俪爆料邓超的坏习惯",
-      "onboard_time": 1714294458,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 554587,
@@ -17521,6 +17553,14 @@
       "onboard_time": 1713392772,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 499678,
+      "num": 499678,
+      "word": "春色寄情人 死亡教育",
+      "onboard_time": 1714294578,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 499589,
@@ -21603,6 +21643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423386,
+      "num": 423386,
+      "word": "马斯克称乐见中国电车取得进展",
+      "onboard_time": 1714295477,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 423362,
       "num": 423362,
       "word": "禁止学生挂床帘理由缺乏说服力",
@@ -22249,14 +22297,6 @@
       "onboard_time": 1712983398,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 410528,
-      "num": 410528,
-      "word": "春色寄情人 死亡教育",
-      "onboard_time": 1714294578,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 410397,
@@ -25049,6 +25089,14 @@
       "onboard_time": 1713597197,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 363212,
+      "num": 363212,
+      "word": "HYBE回应防弹少年团注水",
+      "onboard_time": 1714296738,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 363211,
@@ -28419,14 +28467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 316234,
-      "num": 316234,
-      "word": "雷军短袖",
-      "onboard_time": 1714296439,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 316196,
       "num": 316196,
       "word": "金星秀国际版要来了",
@@ -31089,14 +31129,6 @@
       "onboard_time": 1714107080,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 287805,
-      "num": 287805,
-      "word": "马斯克称乐见中国电车取得进展",
-      "onboard_time": 1714295477,
-      "rank": 31,
-      "category": "汽车"
     },
     {
       "raw_hot": 287799,
@@ -36443,6 +36475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242649,
+      "num": 234892,
+      "word": "何炅李维嘉30年的友谊",
+      "onboard_time": 1714297758,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242644,
       "num": 614331,
       "word": "爷爷去世前在监控中喊孙女名字",
@@ -36905,6 +36945,14 @@
       "onboard_time": 1712144000,
       "rank": 44,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 239782,
+      "num": 239782,
+      "word": "00后没抢到票打车3000多公里回家",
+      "onboard_time": 1714297758,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239778,
@@ -37481,6 +37529,14 @@
       "onboard_time": 1712635639,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236049,
+      "num": 236049,
+      "word": "雷军希望车企私下别搞小动作",
+      "onboard_time": 1714298118,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 236046,
@@ -41499,6 +41555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213260,
+      "num": 213260,
+      "word": "Gucci再次为肖战制作手绘墙",
+      "onboard_time": 1714299437,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 213211,
       "num": 213211,
       "word": "龚俊又被骗了",
@@ -43411,6 +43475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206063,
+      "num": 206063,
+      "word": "张杰二开",
+      "onboard_time": 1714297038,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206018,
       "num": 206018,
       "word": "暴雪国服招聘",
@@ -45025,14 +45097,6 @@
       "onboard_time": 1713857120,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201552,
-      "num": 201552,
-      "word": "HYBE回应防弹少年团注水",
-      "onboard_time": 1714296738,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 201540,
@@ -52579,6 +52643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179984,
+      "num": 179984,
+      "word": "现男友",
+      "onboard_time": 1714298597,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179965,
       "num": 179965,
       "word": "亚锦赛何冰娇进4强",
@@ -58153,6 +58225,14 @@
       "onboard_time": 1712840359,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160257,
+      "num": 160257,
+      "word": "LGD的命运",
+      "onboard_time": 1714297097,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 160247,
@@ -65571,6 +65651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138194,
+      "num": 138194,
+      "word": "张凌赫的天菜拖鞋",
+      "onboard_time": 1714299197,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 138156,
       "num": 138156,
       "word": "终于等到Cat的庄周cos",
@@ -65697,6 +65785,14 @@
       "onboard_time": 1712297537,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 137770,
+      "num": 137770,
+      "word": "朴彩英收到霉霉新专礼盒",
+      "onboard_time": 1714299497,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 137746,
@@ -66041,6 +66137,14 @@
       "onboard_time": 1713659356,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136822,
+      "num": 136822,
+      "word": "五一出行劝大家真的要冷静",
+      "onboard_time": 1714296139,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 136817,
@@ -69179,6 +69283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125925,
+      "num": 135716,
+      "word": "整顿开麦的RedVelvet",
+      "onboard_time": 1714298359,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125917,
       "num": 125917,
       "word": "欧冠4强出炉",
@@ -69593,6 +69705,14 @@
       "onboard_time": 1712969417,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124492,
+      "num": 529113,
+      "word": "天水表情包大叔靠麻辣烫追星成功",
+      "onboard_time": 1714299258,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124484,
@@ -73265,6 +73385,14 @@
       "onboard_time": 1713799279,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105128,
+      "num": 594716,
+      "word": "大熊猫挂在树上悠闲晃jiojio",
+      "onboard_time": 1714297817,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105104,
@@ -80743,6 +80871,9 @@
     },
     {
       "word": "#在中国式现代化建设中奋力谱写西部大开发新篇章#"
+    },
+    {
+      "word": "#习近平谈中美#"
     }
   ]
 }
