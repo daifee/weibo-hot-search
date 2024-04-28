@@ -1,0 +1,410 @@
+{
+  "runTime": 1714267185160,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2327325,
+        "num": 2327325,
+        "word": "五一放假下雨4天是怎样的体验",
+        "onboard_time": 1714260315,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 860804,
+        "num": 860804,
+        "word": "iPhone充电切勿放枕头下",
+        "onboard_time": 1714264219,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 50424,
+        "num": 582628,
+        "word": "1088人拟获全国五一劳动奖章",
+        "onboard_time": 1714223659,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1409612,
+        "num": 571902,
+        "word": "调休",
+        "onboard_time": 1714260737,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528367,
+        "num": 528367,
+        "word": "哈尔滨一住宅楼楼体突然裂开逐渐倾斜",
+        "onboard_time": 1714262238,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521749,
+        "num": 521749,
+        "word": "日本奢侈品白菜价白菜变奢侈品",
+        "onboard_time": 1714260737,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 505452,
+        "num": 505452,
+        "word": "孟子义片场睡觉被围观",
+        "onboard_time": 1714260135,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489377,
+        "num": 489377,
+        "word": "巴以冲突",
+        "onboard_time": 1714263739,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 435252,
+        "num": 435252,
+        "word": "广州接连发生龙卷风大冰雹原因",
+        "onboard_time": 1714261517,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113476,
+        "num": 434844,
+        "word": "阿姨寄珍藏停产玩偶满足陌生男孩愿望",
+        "onboard_time": 1714266377,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1380116,
+        "num": 411655,
+        "word": "何炅50岁了",
+        "onboard_time": 1714262177,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 957620,
+        "num": 403803,
+        "word": "问界M7起火",
+        "onboard_time": 1714263679,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 794140,
+        "num": 384263,
+        "word": "郑恺幸亏我和苗苗结婚了",
+        "onboard_time": 1714228160,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 734389,
+        "num": 370328,
+        "word": "5000块钱的工资46个工作群",
+        "onboard_time": 1714266018,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 358728,
+        "num": 358728,
+        "word": "眼泪女王是14年前的剧本",
+        "onboard_time": 1714261936,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357523,
+        "num": 357523,
+        "word": "闹钟没响",
+        "onboard_time": 1714264339,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339870,
+        "num": 339870,
+        "word": "何炅张杰看烟花",
+        "onboard_time": 1714264039,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331232,
+        "num": 331232,
+        "word": "牛仔裤正在被抛弃吗",
+        "onboard_time": 1714226239,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 270128,
+        "num": 270128,
+        "word": "杨晓明涉嫌严重违纪违法",
+        "onboard_time": 1714229960,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243151,
+        "num": 243151,
+        "word": "刘亦菲也会内耗吗",
+        "onboard_time": 1714261037,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 757973,
+        "num": 240639,
+        "word": "怀孕九个月去产检被老人要求让座",
+        "onboard_time": 1714259896,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629377,
+        "num": 236936,
+        "word": "台湾一警官长期性侵亲生女儿",
+        "onboard_time": 1714260315,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432463,
+        "num": 235928,
+        "word": "卖淫女接宾馆老板报信上天台躲避坠亡",
+        "onboard_time": 1714227859,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271351,
+        "num": 231098,
+        "word": "每天多睡1小时能有多大好处",
+        "onboard_time": 1714236316,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228721,
+        "num": 228721,
+        "word": "谢娜卡点为何炅庆生",
+        "onboard_time": 1714262658,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227767,
+        "num": 227767,
+        "word": "明日方舟活动",
+        "onboard_time": 1714266200,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215474,
+        "num": 215474,
+        "word": "广州龙卷风已致5死33伤",
+        "onboard_time": 1714233619,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207103,
+        "num": 207103,
+        "word": "掘金vs湖人",
+        "onboard_time": 1714265659,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184943,
+        "num": 184943,
+        "word": "杨九郎演张子枫的同事没见过张子枫",
+        "onboard_time": 1714263679,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183277,
+        "num": 183277,
+        "word": "眼泪女王十五集结尾实时反响",
+        "onboard_time": 1714259954,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176427,
+        "num": 176427,
+        "word": "林奕含逝世七周年",
+        "onboard_time": 1714265839,
+        "rank": 30,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 175171,
+        "num": 175171,
+        "word": "男子把修电路拍成800集悬疑剧",
+        "onboard_time": 1714266980,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173884,
+        "num": 173884,
+        "word": "真正要忌口少吃的蔬菜",
+        "onboard_time": 1714238953,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 169742,
+        "num": 169742,
+        "word": "李现周雨彤cp感",
+        "onboard_time": 1714266741,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169440,
+        "num": 169440,
+        "word": "陈昊宇要碎了",
+        "onboard_time": 1714265779,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167719,
+        "num": 167719,
+        "word": "中医提醒臀部是寒气最重的部位",
+        "onboard_time": 1714230560,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165605,
+        "num": 165605,
+        "word": "抹茶灌蛋",
+        "onboard_time": 1714263319,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162494,
+        "num": 162494,
+        "word": "广东福建大暴雨冰雹齐发",
+        "onboard_time": 1714265839,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154276,
+        "num": 154276,
+        "word": "郝蕾怒批赵晴",
+        "onboard_time": 1714231341,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149183,
+        "num": 149183,
+        "word": "光与夜之恋婚纱",
+        "onboard_time": 1714263979,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130965,
+        "num": 130965,
+        "word": "小时候真的把家长当傻子了",
+        "onboard_time": 1714262418,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130957,
+        "num": 130957,
+        "word": "同龄人中为什么有人显老",
+        "onboard_time": 1714266678,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129550,
+        "num": 129550,
+        "word": "杨晓明",
+        "onboard_time": 1714265179,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129035,
+        "num": 129035,
+        "word": "原来踩着东西吃饭是气血不足",
+        "onboard_time": 1714225819,
+        "rank": 43,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 127544,
+        "num": 127544,
+        "word": "广州龙卷风",
+        "onboard_time": 1714260076,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125487,
+        "num": 125487,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1714265958,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123058,
+        "num": 123058,
+        "word": "第一次见这么肥美的大熊猫",
+        "onboard_time": 1714246692,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119049,
+        "num": 119049,
+        "word": "张馨予何捷路遇被撞猫咪",
+        "onboard_time": 1714217779,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108274,
+        "num": 108274,
+        "word": "吴艳妮新动作",
+        "onboard_time": 1714223419,
+        "rank": 48,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 107428,
+        "num": 107428,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1714265299,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#途通山海阔开放创未来#"
+    }
+  }
+}

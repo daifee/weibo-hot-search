@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714260866771,
+  "endTime": 1714267185160,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -585,6 +585,14 @@
       "onboard_time": 1712889257,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2327325,
+      "num": 2327325,
+      "word": "五一放假下雨4天是怎样的体验",
+      "onboard_time": 1714260315,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 2270273,
@@ -2673,6 +2681,14 @@
       "onboard_time": 1713077417,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1380116,
+      "num": 411655,
+      "word": "何炅50岁了",
+      "onboard_time": 1714262177,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1380022,
@@ -6099,6 +6115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 957620,
+      "num": 403803,
+      "word": "问界M7起火",
+      "onboard_time": 1714263679,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 957601,
       "num": 957601,
       "word": "李闽轩称脱口报姓名是因太紧张",
@@ -7235,6 +7259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 860804,
+      "num": 860804,
+      "word": "iPhone充电切勿放枕头下",
+      "onboard_time": 1714264219,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 860319,
       "num": 860319,
       "word": "高校要求手抄毕业论文引学生不满",
@@ -7956,7 +7988,7 @@
     },
     {
       "raw_hot": 820288,
-      "num": 137600,
+      "num": 240639,
       "word": "怀孕九个月去产检被老人要求让座",
       "onboard_time": 1714259896,
       "rank": 20,
@@ -9635,6 +9667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 734389,
+      "num": 370328,
+      "word": "5000块钱的工资46个工作群",
+      "onboard_time": 1714266018,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 734385,
       "num": 734385,
       "word": "肖战作品",
@@ -10433,14 +10473,6 @@
       "onboard_time": 1713731651,
       "rank": 11,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 699919,
-      "num": 699919,
-      "word": "五一放假下雨4天是怎样的体验",
-      "onboard_time": 1714260315,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 699846,
@@ -12297,6 +12329,14 @@
       "onboard_time": 1712900000,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 629377,
+      "num": 236936,
+      "word": "台湾一警官长期性侵亲生女儿",
+      "onboard_time": 1714260315,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 628835,
@@ -15779,6 +15819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 528367,
+      "num": 528367,
+      "word": "哈尔滨一住宅楼楼体突然裂开逐渐倾斜",
+      "onboard_time": 1714262238,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 528329,
       "num": 528329,
       "word": "苹果客服回应iPhone闹钟不会识别调休",
@@ -16137,6 +16185,14 @@
       "onboard_time": 1712499261,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521749,
+      "num": 521749,
+      "word": "日本奢侈品白菜价白菜变奢侈品",
+      "onboard_time": 1714260737,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 521619,
@@ -16827,6 +16883,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 505452,
+      "num": 505452,
+      "word": "孟子义片场睡觉被围观",
+      "onboard_time": 1714260135,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 505332,
       "num": 505332,
       "word": "马丽获奖感言",
@@ -17196,7 +17260,7 @@
     },
     {
       "raw_hot": 497821,
-      "num": 137001,
+      "num": 231098,
       "word": "每天多睡1小时能有多大好处",
       "onboard_time": 1714236316,
       "rank": 23,
@@ -17513,6 +17577,14 @@
       "onboard_time": 1714005678,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 489377,
+      "num": 489377,
+      "word": "巴以冲突",
+      "onboard_time": 1712045838,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 488928,
@@ -20417,6 +20489,14 @@
       "onboard_time": 1713617778,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 435252,
+      "num": 435252,
+      "word": "广州接连发生龙卷风大冰雹原因",
+      "onboard_time": 1714261517,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435067,
@@ -24715,6 +24795,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 358728,
+      "num": 358728,
+      "word": "眼泪女王是14年前的剧本",
+      "onboard_time": 1714261936,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358567,
       "num": 358567,
       "word": "墨子圣斗士皮肤",
@@ -24761,6 +24849,14 @@
       "onboard_time": 1713542538,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357523,
+      "num": 357523,
+      "word": "闹钟没响",
+      "onboard_time": 1714264339,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 357501,
@@ -26193,6 +26289,14 @@
       "onboard_time": 1712378357,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339870,
+      "num": 339870,
+      "word": "何炅张杰看烟花",
+      "onboard_time": 1714264039,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 339683,
@@ -28801,14 +28905,6 @@
       "onboard_time": 1714175476,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 305070,
-      "num": 103537,
-      "word": "台湾一警官长期性侵亲生女儿",
-      "onboard_time": 1714260315,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304998,
@@ -35611,6 +35707,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 243151,
+      "num": 243151,
+      "word": "刘亦菲也会内耗吗",
+      "onboard_time": 1714261037,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242991,
       "num": 242991,
       "word": "王阳25岁至46岁颜值变化",
@@ -37987,6 +38091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228721,
+      "num": 228721,
+      "word": "谢娜卡点为何炅庆生",
+      "onboard_time": 1714262658,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228666,
       "num": 228666,
       "word": "林依晨郑元畅活动合体",
@@ -38177,6 +38289,14 @@
       "onboard_time": 1712721199,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227767,
+      "num": 227767,
+      "word": "明日方舟活动",
+      "onboard_time": 1714266200,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 227766,
@@ -40691,14 +40811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213023,
-      "num": 213023,
-      "word": "巴以冲突",
-      "onboard_time": 1712045838,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 212954,
       "num": 212954,
       "word": "行止 不负苍生不负她",
@@ -42185,6 +42297,14 @@
       "onboard_time": 1712712619,
       "rank": 37,
       "category": "军事"
+    },
+    {
+      "raw_hot": 207103,
+      "num": 207103,
+      "word": "掘金vs湖人",
+      "onboard_time": 1714098438,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 207089,
@@ -50067,6 +50187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184943,
+      "num": 184943,
+      "word": "杨九郎演张子枫的同事没见过张子枫",
+      "onboard_time": 1714263679,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 184925,
       "num": 184925,
       "word": "河北省考 什么时候出",
@@ -50625,6 +50753,14 @@
       "onboard_time": 1713449537,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 183277,
+      "num": 183277,
+      "word": "眼泪女王十五集结尾实时反响",
+      "onboard_time": 1714259954,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 183247,
@@ -52459,6 +52595,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 176427,
+      "num": 176427,
+      "word": "林奕含逝世七周年",
+      "onboard_time": 1714265839,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 176409,
       "num": 176409,
       "word": "我和霉霉的区别",
@@ -52841,6 +52985,14 @@
       "onboard_time": 1713924557,
       "rank": 32,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 175171,
+      "num": 175171,
+      "word": "男子把修电路拍成800集悬疑剧",
+      "onboard_time": 1714266980,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175163,
@@ -53249,6 +53401,14 @@
       "onboard_time": 1712243240,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173884,
+      "num": 173884,
+      "word": "真正要忌口少吃的蔬菜",
+      "onboard_time": 1714238953,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 173876,
@@ -54355,6 +54515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169742,
+      "num": 169742,
+      "word": "李现周雨彤cp感",
+      "onboard_time": 1714266741,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169738,
       "num": 169738,
       "word": "孙杨正式恢复训练",
@@ -54425,6 +54593,14 @@
       "onboard_time": 1714211720,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169440,
+      "num": 169440,
+      "word": "陈昊宇要碎了",
+      "onboard_time": 1714265779,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 169426,
@@ -55443,6 +55619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165605,
+      "num": 165605,
+      "word": "抹茶灌蛋",
+      "onboard_time": 1714263319,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 165587,
       "num": 176961,
       "word": "林孝埈领衔出镜世锦赛胜利时刻",
@@ -56323,6 +56507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162494,
+      "num": 162494,
+      "word": "广东福建大暴雨冰雹齐发",
+      "onboard_time": 1714265839,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162488,
       "num": 162488,
       "word": "齐达内 拜仁",
@@ -56811,14 +57003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 160990,
-      "num": 160990,
-      "word": "掘金vs湖人",
-      "onboard_time": 1714098438,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 160870,
       "num": 160870,
       "word": "ILLIT新歌成2024年获一位最多的歌曲",
@@ -56865,14 +57049,6 @@
       "onboard_time": 1712313258,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 160713,
-      "num": 160713,
-      "word": "孟子义片场睡觉被围观",
-      "onboard_time": 1714260135,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 160707,
@@ -60619,6 +60795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149183,
+      "num": 149183,
+      "word": "光与夜之恋婚纱",
+      "onboard_time": 1714263979,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149132,
       "num": 149132,
       "word": "原来食堂建议本是会被采纳的",
@@ -63891,14 +64075,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139138,
-      "num": 100143,
-      "word": "日本奢侈品白菜价白菜变奢侈品",
-      "onboard_time": 1714260737,
-      "rank": 31,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 139122,
       "num": 139122,
       "word": "小米汽车回应车内摄像头",
@@ -64249,14 +64425,6 @@
       "onboard_time": 1713757938,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 138128,
-      "num": 138128,
-      "word": "眼泪女王十五集结尾实时反响",
-      "onboard_time": 1714259954,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 138112,
@@ -66515,12 +66683,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130965,
+      "num": 130965,
+      "word": "小时候真的把家长当傻子了",
+      "onboard_time": 1714262418,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130962,
       "num": 130962,
       "word": "王曼昱vs巴特拉",
       "onboard_time": 1713346879,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130957,
+      "num": 130957,
+      "word": "同龄人中为什么有人显老",
+      "onboard_time": 1714266678,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 130951,
@@ -66841,6 +67025,14 @@
       "onboard_time": 1713795560,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129550,
+      "num": 129550,
+      "word": "杨晓明",
+      "onboard_time": 1714265179,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129528,
@@ -68499,6 +68691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123058,
+      "num": 123058,
+      "word": "第一次见这么肥美的大熊猫",
+      "onboard_time": 1714246692,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123042,
       "num": 123042,
       "word": "威姆斯称从未回避药检",
@@ -68801,14 +69001,6 @@
       "onboard_time": 1712973258,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 121938,
-      "num": 121938,
-      "word": "真正要忌口少吃的蔬菜",
-      "onboard_time": 1714238953,
-      "rank": 47,
-      "category": "科学科普"
     },
     {
       "raw_hot": 121934,
@@ -70553,6 +70745,14 @@
       "onboard_time": 1713162977,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113476,
+      "num": 434844,
+      "word": "阿姨寄珍藏停产玩偶满足陌生男孩愿望",
+      "onboard_time": 1714266377,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113425,
@@ -74115,14 +74315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80005,
-      "num": 80005,
-      "word": "第一次见这么肥美的大熊猫",
-      "onboard_time": 1714246692,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 79994,
       "num": 79994,
       "word": "原来你的蝴蝶结束发带一直戴反了",
@@ -76187,6 +76379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 50424,
+      "num": 672147,
+      "word": "1088人拟获全国五一劳动奖章",
+      "onboard_time": 1714223659,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50418,
       "num": 50418,
       "word": "如何早期发现隐匿性乳腺癌",
@@ -76769,14 +76969,6 @@
       "onboard_time": 1712430970,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 41001,
-      "num": 672147,
-      "word": "1088人拟获全国五一劳动奖章",
-      "onboard_time": 1714223659,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40982,
