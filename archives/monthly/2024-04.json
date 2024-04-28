@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714318454912,
+  "endTime": 1714321243337,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -10835,6 +10835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 699676,
+      "num": 217963,
+      "word": "从胃病到胃癌的报警症状",
+      "onboard_time": 1714317079,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 699581,
       "num": 699581,
       "word": "官方回应7千元手机维修费14000元",
@@ -11281,6 +11289,14 @@
       "onboard_time": 1712378658,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 683751,
+      "num": 595570,
+      "word": "男子相亲支付20万即可领证",
+      "onboard_time": 1714316060,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 682708,
@@ -13835,14 +13851,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 595570,
-      "num": 595570,
-      "word": "男子相亲支付20万即可领证",
-      "onboard_time": 1714316060,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 595359,
       "num": 595359,
       "word": "Amber断眉",
@@ -15081,6 +15089,14 @@
       "onboard_time": 1713074358,
       "rank": 14,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 562759,
+      "num": 562759,
+      "word": "宋雨琦 反正他们听不懂",
+      "onboard_time": 1714318997,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 562422,
@@ -18035,6 +18051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 492985,
+      "num": 316963,
+      "word": "海仁活到了84岁",
+      "onboard_time": 1714318578,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 492873,
       "num": 492873,
       "word": "乘风2024",
@@ -18937,14 +18961,6 @@
       "onboard_time": 1713835759,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 475488,
-      "num": 217536,
-      "word": "从胃病到胃癌的报警症状",
-      "onboard_time": 1714317079,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 475185,
@@ -20121,6 +20137,14 @@
       "onboard_time": 1713397998,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 452797,
+      "num": 217155,
+      "word": "五一1500元机票跳水至400",
+      "onboard_time": 1714317978,
+      "rank": 29,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 452365,
@@ -65323,6 +65347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141362,
+      "num": 141362,
+      "word": "华晨宇演唱会6个回家嘱咐",
+      "onboard_time": 1714320137,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141313,
       "num": 141313,
       "word": "银临开票",
@@ -67049,6 +67081,14 @@
       "onboard_time": 1713693438,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135890,
+      "num": 218493,
+      "word": "民宿涨价1500后被退单平台只赔230",
+      "onboard_time": 1714320018,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135885,
@@ -73113,14 +73153,6 @@
       "onboard_time": 1713951498,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 111280,
-      "num": 199257,
-      "word": "五一1500元机票跳水至400",
-      "onboard_time": 1714317978,
-      "rank": 29,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 111272,

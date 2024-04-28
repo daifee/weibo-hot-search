@@ -1,0 +1,411 @@
+{
+  "startTime": 1714321243337,
+  "endTime": 1714321243337,
+  "band_list": [
+    {
+      "raw_hot": 781382,
+      "num": 248468,
+      "word": "居然还有女用避孕套",
+      "onboard_time": 1714295658,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 699676,
+      "num": 217963,
+      "word": "从胃病到胃癌的报警症状",
+      "onboard_time": 1714317079,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 683751,
+      "num": 215327,
+      "word": "男子相亲支付20万即可领证",
+      "onboard_time": 1714316060,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 645447,
+      "num": 400585,
+      "word": "张颂文回应砍价被吐槽穷酸",
+      "onboard_time": 1714315039,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 581799,
+      "num": 381409,
+      "word": "海仁墓碑",
+      "onboard_time": 1714315880,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 581621,
+      "num": 581621,
+      "word": "官方通报广州一女子商场跳楼砸中人",
+      "onboard_time": 1714314739,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562759,
+      "num": 562759,
+      "word": "宋雨琦 反正他们听不懂",
+      "onboard_time": 1714318997,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 492985,
+      "num": 316963,
+      "word": "海仁活到了84岁",
+      "onboard_time": 1714318578,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 452797,
+      "num": 217155,
+      "word": "五一1500元机票跳水至400",
+      "onboard_time": 1714317978,
+      "rank": 21,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 354282,
+      "num": 216530,
+      "word": "长期吃榴莲身体会发生什么变化",
+      "onboard_time": 1714311439,
+      "rank": 22,
+      "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 329435,
+      "num": 329435,
+      "word": "张雨绮是怎么发现这个赛道的",
+      "onboard_time": 1714312218,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 318127,
+      "num": 245840,
+      "word": "贾乃亮谎报年龄被黄景瑜踹",
+      "onboard_time": 1714306888,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 305879,
+      "num": 216050,
+      "word": "郑佩佩 我想她了",
+      "onboard_time": 1714293738,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 298075,
+      "num": 244758,
+      "word": "眼泪女王大结局",
+      "onboard_time": 1714306765,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 286547,
+      "num": 214612,
+      "word": "时代少年团女主 贺美琦",
+      "onboard_time": 1714305138,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 282593,
+      "num": 241945,
+      "word": "白桃星座",
+      "onboard_time": 1714317439,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 258609,
+      "num": 240116,
+      "word": "特斯拉通过国家汽车数据安全4项全部要求",
+      "onboard_time": 1714314499,
+      "rank": 14,
+      "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 254910,
+      "num": 214124,
+      "word": "9.9的风终于还是卷到了星巴克",
+      "onboard_time": 1714308258,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 252704,
+      "num": 252704,
+      "word": "Yaoyao发文道歉",
+      "onboard_time": 1714309279,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 239663,
+      "num": 239663,
+      "word": "抢到了",
+      "onboard_time": 1714306399,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 230449,
+      "num": 230449,
+      "word": "眼泪女王 太癫了",
+      "onboard_time": 1714310360,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 219290,
+      "num": 219290,
+      "word": "马嘉祺 慢冷",
+      "onboard_time": 1714316840,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 214010,
+      "num": 214010,
+      "word": "青环5 朴彩英",
+      "onboard_time": 1714302978,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209863,
+      "num": 209863,
+      "word": "邓超 亚比囧囧囧",
+      "onboard_time": 1714300996,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187791,
+      "num": 187791,
+      "word": "粉圈乱象影响观剧体验",
+      "onboard_time": 1714318158,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186162,
+      "num": 186162,
+      "word": "佩佩姐每条艾特刘涛都回复了",
+      "onboard_time": 1714316118,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 182917,
+      "num": 252192,
+      "word": "雷军拿奖学金时发誓要1万倍奉还",
+      "onboard_time": 1714309038,
+      "rank": 8,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 141362,
+      "num": 141362,
+      "word": "华晨宇演唱会6个回家嘱咐",
+      "onboard_time": 1714320137,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 140219,
+      "num": 219201,
+      "word": "雷军回应给武大捐款13亿",
+      "onboard_time": 1714304356,
+      "rank": 18,
+      "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 136267,
+      "num": 136267,
+      "word": "周杰伦二开",
+      "onboard_time": 1714303818,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 135890,
+      "num": 218493,
+      "word": "民宿涨价1500后被退单平台只赔230",
+      "onboard_time": 1714320018,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129402,
+      "num": 129402,
+      "word": "吃烤苕皮是一件很私密的事",
+      "onboard_time": 1714301296,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 122606,
+      "num": 122606,
+      "word": "四种素菜小心越吃越胖",
+      "onboard_time": 1714303578,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119615,
+      "num": 119615,
+      "word": "问界",
+      "onboard_time": 1714311800,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116274,
+      "num": 116274,
+      "word": "玫瑰的故事 38集",
+      "onboard_time": 1714314799,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114460,
+      "num": 114460,
+      "word": "专家谈问界M7碰撞后疑车门无法打开",
+      "onboard_time": 1714313540,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101904,
+      "num": 101904,
+      "word": "卡琳娜的营业态度",
+      "onboard_time": 1714313418,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 101649,
+      "num": 101649,
+      "word": "眼泪女王收视率",
+      "onboard_time": 1714307838,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 98194,
+      "num": 98194,
+      "word": "蔡依林重庆",
+      "onboard_time": 1714316180,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 97397,
+      "num": 97397,
+      "word": "RIIZE疑似剧透洪承汉复出",
+      "onboard_time": 1714313601,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 94354,
+      "num": 94354,
+      "word": "春色寄情人里的人生态度",
+      "onboard_time": 1714318098,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88797,
+      "num": 88797,
+      "word": "黄晓明默默撤回了一口饭",
+      "onboard_time": 1714312639,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 87570,
+      "num": 87570,
+      "word": "特斯拉",
+      "onboard_time": 1714314919,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 86456,
+      "num": 86456,
+      "word": "柯南剧场版主题曲排名",
+      "onboard_time": 1714318399,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 82883,
+      "num": 82883,
+      "word": "原来以前没有调休",
+      "onboard_time": 1714301958,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 58219,
+      "num": 101716,
+      "word": "32岁男子酒后泡澡脑血管破裂进了ICU",
+      "onboard_time": 1714310058,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50990,
+      "num": 82279,
+      "word": "问界已成立专案小组调查追尾起火事件",
+      "onboard_time": 1714295897,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49994,
+      "num": 249359,
+      "word": "大熊猫挂在树上悠闲晃jiojio",
+      "onboard_time": 1714297817,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36971,
+      "num": 81283,
+      "word": "热刺vs阿森纳",
+      "onboard_time": 1714309581,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 19732,
+      "num": 434404,
+      "word": "中国航天员完成在轨交接",
+      "onboard_time": 1714292178,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#读懂习近平的大食物观#"
+    }
+  ]
+}

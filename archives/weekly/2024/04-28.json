@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714318454912,
+  "endTime": 1714321243337,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -459,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 699676,
+      "num": 217963,
+      "word": "从胃病到胃癌的报警症状",
+      "onboard_time": 1714317079,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 699171,
       "num": 699171,
       "word": "雷军拿奖学金时发誓要1万倍奉还",
@@ -489,6 +497,14 @@
       "onboard_time": 1714298537,
       "rank": 8,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 683751,
+      "num": 595570,
+      "word": "男子相亲支付20万即可领证",
+      "onboard_time": 1714316060,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 655201,
@@ -571,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 595570,
-      "num": 595570,
-      "word": "男子相亲支付20万即可领证",
-      "onboard_time": 1714316060,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 588041,
       "num": 588041,
       "word": "戚薇被陈丽君戏妆吓到",
@@ -633,6 +641,14 @@
       "onboard_time": 1714279759,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 562759,
+      "num": 562759,
+      "word": "宋雨琦 反正他们听不懂",
+      "onboard_time": 1714318997,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 536566,
@@ -771,6 +787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 492985,
+      "num": 316963,
+      "word": "海仁活到了84岁",
+      "onboard_time": 1714318578,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 489377,
       "num": 489377,
       "word": "巴以冲突",
@@ -785,14 +809,6 @@
       "onboard_time": 1714292958,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 475488,
-      "num": 217536,
-      "word": "从胃病到胃癌的报警症状",
-      "onboard_time": 1714317079,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 472407,
@@ -849,6 +865,14 @@
       "onboard_time": 1714295477,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 452797,
+      "num": 217155,
+      "word": "五一1500元机票跳水至400",
+      "onboard_time": 1714317978,
+      "rank": 29,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 449878,
@@ -1211,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282593,
+      "num": 241945,
+      "word": "白桃星座",
+      "onboard_time": 1714317439,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 280824,
       "num": 280824,
       "word": "掘金vs湖人",
@@ -1545,14 +1577,6 @@
       "onboard_time": 1714295599,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222461,
-      "num": 222461,
-      "word": "白桃星座",
-      "onboard_time": 1714317439,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 219889,
@@ -2563,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141362,
+      "num": 141362,
+      "word": "华晨宇演唱会6个回家嘱咐",
+      "onboard_time": 1714320137,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141200,
       "num": 141200,
       "word": "眼泪女王编剧好癫",
@@ -2617,6 +2649,14 @@
       "onboard_time": 1714284797,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135890,
+      "num": 218493,
+      "word": "民宿涨价1500后被退单平台只赔230",
+      "onboard_time": 1714320018,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135550,
@@ -2841,14 +2881,6 @@
       "onboard_time": 1714218618,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111280,
-      "num": 199257,
-      "word": "五一1500元机票跳水至400",
-      "onboard_time": 1714317978,
-      "rank": 29,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 111106,
