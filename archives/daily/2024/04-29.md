@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/29 00:20:43 ~ 2024/04/29 01:15:46
+本榜单时间：2024/04/29 00:20:43 ~ 2024/04/29 01:34:28
 </p>
 </blockquote>
 <p>
@@ -69,6 +69,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%9A%E9%95%BF%E6%98%AF%E5%A5%B3%E4%BB%86%E5%A4%A7%E4%BA%BA%20%E7%A2%93%E5%86%B0%E6%8B%93%E6%B5%B7%23" target="weibo">
+会长是女仆大人 碓冰拓海（热度：384818）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%83%E6%A6%B4%E8%8E%B2%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96%23" target="weibo">
 长期吃榴莲身体会发生什么变化（热度：354282）
 </a>
@@ -83,12 +89,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E6%98%AF%E6%80%8E%E4%B9%88%E5%8F%91%E7%8E%B0%E8%BF%99%E4%B8%AA%E8%B5%9B%E9%81%93%E7%9A%84%23" target="weibo">
 张雨绮是怎么发现这个赛道的（热度：329435）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%9A%E9%95%BF%E6%98%AF%E5%A5%B3%E4%BB%86%E5%A4%A7%E4%BA%BA%20%E7%A2%93%E5%86%B0%E6%8B%93%E6%B5%B7%23" target="weibo">
-会长是女仆大人 碓冰拓海（热度：320003）
 </a>
 </li>
 
@@ -327,6 +327,12 @@ RIIZE疑似剧透洪承汉复出（热度：97397）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B440%23" target="weibo">
+眼泪女王收视率破40（热度：53556）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8C%E5%B7%B2%E6%88%90%E7%AB%8B%E4%B8%93%E6%A1%88%E5%B0%8F%E7%BB%84%E8%B0%83%E6%9F%A5%E8%BF%BD%E5%B0%BE%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6%23" target="weibo">
 问界已成立专案小组调查追尾起火事件（热度：50990）
 </a>
@@ -339,8 +345,14 @@ RIIZE疑似剧透洪承汉复出（热度：97397）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23JYP%E8%AF%B4%E5%A7%9A%E7%90%9B%E6%96%B0%E6%AD%8C%E5%83%8F%E7%81%AB%E5%B1%B1%E4%B8%80%E6%A0%B7%E7%88%86%E5%8F%91%23" target="weibo">
+JYP说姚琛新歌像火山一样爆发（热度：48897）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3%E9%80%A0%E8%BD%A6%E6%8A%95%E5%85%A5%E4%BA%86%E5%8D%8A%E4%B8%AA%E5%AE%B6%E5%BA%95%23" target="weibo">
-雷军称小米造车投入了半个家底（热度：39015）
+雷军称小米造车投入了半个家底（热度：39671）
 </a>
 </li>
 

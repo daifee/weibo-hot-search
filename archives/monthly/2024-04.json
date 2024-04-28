@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714324546594,
+  "endTime": 1714325668768,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -24107,6 +24107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384818,
+      "num": 384818,
+      "word": "会长是女仆大人 碓冰拓海",
+      "onboard_time": 1714321876,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 384808,
       "num": 384808,
       "word": "林更新胡一天撞衫",
@@ -28513,14 +28521,6 @@
       "onboard_time": 1712294897,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 320003,
-      "num": 320003,
-      "word": "会长是女仆大人 碓冰拓海",
-      "onboard_time": 1714321876,
-      "rank": 38,
-      "category": "动漫"
     },
     {
       "raw_hot": 319953,
@@ -78721,6 +78721,14 @@
       "onboard_time": 1714251971,
       "rank": 48,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 48897,
+      "num": 48897,
+      "word": "JYP说姚琛新歌像火山一样爆发",
+      "onboard_time": 1714325292,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 48815,
