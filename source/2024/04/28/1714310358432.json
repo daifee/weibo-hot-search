@@ -1,0 +1,410 @@
+{
+  "runTime": 1714310358432,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1541600,
+        "num": 1541600,
+        "word": "眼泪女王大结局",
+        "onboard_time": 1714306765,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 941489,
+        "num": 941489,
+        "word": "贾乃亮谎报年龄被黄景瑜踹",
+        "onboard_time": 1714306888,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4083,
+        "num": 808417,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802816,
+        "num": 802816,
+        "word": "时代少年团女主 贺美琦",
+        "onboard_time": 1714305138,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 766644,
+        "num": 766644,
+        "word": "抢到了",
+        "onboard_time": 1714306399,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 755428,
+        "num": 755428,
+        "word": "周鸿祎迈巴赫990万拍出",
+        "onboard_time": 1714303279,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 567343,
+        "num": 567343,
+        "word": "青环5 朴彩英",
+        "onboard_time": 1714302978,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514264,
+        "num": 551758,
+        "word": "雷军回应给武大捐款13亿",
+        "onboard_time": 1714304356,
+        "rank": 7,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 547474,
+        "num": 547474,
+        "word": "雷军拿奖学金时发誓要1万倍奉还",
+        "onboard_time": 1714309038,
+        "rank": 8,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 106397,
+        "num": 528187,
+        "word": "大熊猫挂在树上悠闲晃jiojio",
+        "onboard_time": 1714297817,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 992258,
+        "num": 528184,
+        "word": "女子餐前打胰岛素被服务员误会吸毒",
+        "onboard_time": 1714304297,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921306,
+        "num": 528031,
+        "word": "居然还有女用避孕套",
+        "onboard_time": 1714295658,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 527402,
+        "num": 527402,
+        "word": "Yaoyao发文道歉",
+        "onboard_time": 1714309279,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 462890,
+        "num": 462890,
+        "word": "眼泪女王收视率",
+        "onboard_time": 1714307838,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17331,
+        "num": 446954,
+        "word": "蛋仔花式钓鱼",
+        "onboard_time": 1714309218,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 437912,
+        "num": 437912,
+        "word": "四种素菜小心越吃越胖",
+        "onboard_time": 1714303578,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 414962,
+        "num": 414962,
+        "word": "眼泪女王杀青宴好像婚闹现场",
+        "onboard_time": 1714292958,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375938,
+        "num": 375938,
+        "word": "周杰伦二开",
+        "onboard_time": 1714303818,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 408936,
+        "num": 375264,
+        "word": "眼泪女王",
+        "onboard_time": 1714307717,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186571,
+        "num": 373564,
+        "word": "副校长获奖章而孕妻顾家劳累两度流产",
+        "onboard_time": 1714289358,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533240,
+        "num": 372393,
+        "word": "郑佩佩 我想她了",
+        "onboard_time": 1714293738,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 442737,
+        "num": 371555,
+        "word": "吃烤苕皮是一件很私密的事",
+        "onboard_time": 1714301296,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 371149,
+        "num": 371149,
+        "word": "原来以前没有调休",
+        "onboard_time": 1714301958,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 336502,
+        "num": 336502,
+        "word": "9.9的风终于还是卷到了星巴克",
+        "onboard_time": 1714308258,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 313059,
+        "num": 313059,
+        "word": "赴山海 成毅",
+        "onboard_time": 1714306699,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275490,
+        "num": 275490,
+        "word": "张艺凡提前五小时到剧组化妆",
+        "onboard_time": 1714308678,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242815,
+        "num": 242815,
+        "word": "刘亦菲春游plog",
+        "onboard_time": 1714308438,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238463,
+        "num": 238463,
+        "word": "华为小米手机大部分由比亚迪生产",
+        "onboard_time": 1714309518,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 213875,
+        "num": 213875,
+        "word": "叶祖新晒步步惊心十阿哥旧照",
+        "onboard_time": 1714308138,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171299,
+        "num": 213250,
+        "word": "重庆燃气对有问题收费已全面清退",
+        "onboard_time": 1714309819,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212978,
+        "num": 212978,
+        "word": "邓超 亚比囧囧囧",
+        "onboard_time": 1714300996,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208245,
+        "num": 208245,
+        "word": "华晨宇三开",
+        "onboard_time": 1714309878,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205139,
+        "num": 205139,
+        "word": "韩国朋友招待的六菜一汤",
+        "onboard_time": 1714309279,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204237,
+        "num": 204237,
+        "word": "九尾好C",
+        "onboard_time": 1714307537,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128336,
+        "num": 203312,
+        "word": "热刺vs阿森纳",
+        "onboard_time": 1714309581,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125794,
+        "num": 202691,
+        "word": "48元一个的榴莲女子追了一路",
+        "onboard_time": 1714286837,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202426,
+        "num": 202426,
+        "word": "AG逆风翻盘",
+        "onboard_time": 1714309459,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 259561,
+        "num": 198456,
+        "word": "问界M7起火事故隐藏式门把手疑似未弹出",
+        "onboard_time": 1714295477,
+        "rank": 37,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 43769,
+        "num": 190276,
+        "word": "欢迎光临霍格沃茨请随意挑选",
+        "onboard_time": 1714309819,
+        "rank": 38,
+        "category": "时尚,旅游"
+      },
+      {
+        "raw_hot": 187287,
+        "num": 187287,
+        "word": "狼队对战AG",
+        "onboard_time": 1714310058,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182372,
+        "num": 182372,
+        "word": "我未杀伯仁 伯仁却因我而死",
+        "onboard_time": 1714309998,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181476,
+        "num": 181476,
+        "word": "林俊杰官方APP公司被告",
+        "onboard_time": 1714306824,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180594,
+        "num": 180594,
+        "word": "eStar 我要迪士尼",
+        "onboard_time": 1714307960,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178912,
+        "num": 178912,
+        "word": "Gucci再次为肖战制作手绘墙",
+        "onboard_time": 1714299437,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171395,
+        "num": 171395,
+        "word": "无骨的舌头伤人最深",
+        "onboard_time": 1714302318,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163739,
+        "num": 163739,
+        "word": "郑佩佩每条微博都艾特刘涛",
+        "onboard_time": 1714288398,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145371,
+        "num": 145371,
+        "word": "郑佩佩好像我奶奶",
+        "onboard_time": 1714298779,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140166,
+        "num": 140166,
+        "word": "岂能尽如人意 但求不愧我心",
+        "onboard_time": 1714298057,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132849,
+        "num": 132849,
+        "word": "时代少年团MV有女主",
+        "onboard_time": 1714301357,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123050,
+        "num": 132518,
+        "word": "32岁男子酒后泡澡脑血管破裂进了ICU",
+        "onboard_time": 1714310058,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈中美#"
+    }
+  }
+}

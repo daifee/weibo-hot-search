@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714308386678,
+  "endTime": 1714310358432,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2107,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1541600,
+      "num": 1541600,
+      "word": "眼泪女王大结局",
+      "onboard_time": 1714306765,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1540860,
       "num": 1540860,
       "word": "比亚迪卖一辆车净赚9000元",
@@ -2820,7 +2828,7 @@
     },
     {
       "raw_hot": 1366594,
-      "num": 723687,
+      "num": 755428,
       "word": "周鸿祎迈巴赫990万拍出",
       "onboard_time": 1714303279,
       "rank": 5,
@@ -3049,14 +3057,6 @@
       "onboard_time": 1714227859,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1324998,
-      "num": 1324998,
-      "word": "眼泪女王大结局",
-      "onboard_time": 1714306765,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 1323225,
@@ -3404,7 +3404,7 @@
     },
     {
       "raw_hot": 1272062,
-      "num": 487089,
+      "num": 528184,
       "word": "女子餐前打胰岛素被服务员误会吸毒",
       "onboard_time": 1714304297,
       "rank": 10,
@@ -5196,7 +5196,7 @@
     },
     {
       "raw_hot": 1045867,
-      "num": 303217,
+      "num": 371555,
       "word": "吃烤苕皮是一件很私密的事",
       "onboard_time": 1714301296,
       "rank": 20,
@@ -6448,6 +6448,14 @@
       "word": "林更新流量不大就两百多兆",
       "onboard_time": 1712381059,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 941489,
+      "num": 941489,
+      "word": "贾乃亮谎报年龄被黄景瑜踹",
+      "onboard_time": 1714306888,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -9321,6 +9329,14 @@
       "onboard_time": 1712847499,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 766644,
+      "num": 766644,
+      "word": "抢到了",
+      "onboard_time": 1714306399,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 766451,
@@ -15491,6 +15507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547474,
+      "num": 547474,
+      "word": "雷军拿奖学金时发誓要1万倍奉还",
+      "onboard_time": 1714309038,
+      "rank": 8,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 547464,
       "num": 547464,
       "word": "杨紫牛骏峰吻戏被打断",
@@ -15745,14 +15769,6 @@
       "onboard_time": 1712896999,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 539803,
-      "num": 539803,
-      "word": "抢到了",
-      "onboard_time": 1714306399,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 539601,
@@ -16305,6 +16321,14 @@
       "onboard_time": 1712894720,
       "rank": 18,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 527402,
+      "num": 527402,
+      "word": "Yaoyao发文道歉",
+      "onboard_time": 1714309279,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 526956,
@@ -20859,6 +20883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 437912,
+      "num": 437912,
+      "word": "四种素菜小心越吃越胖",
+      "onboard_time": 1714303578,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 437867,
       "num": 437867,
       "word": "PDD斗鱼已停播超5个月",
@@ -21073,14 +21105,6 @@
       "onboard_time": 1711942882,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 434746,
-      "num": 434746,
-      "word": "贾乃亮谎报年龄被黄景瑜踹",
-      "onboard_time": 1714306888,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 434711,
@@ -22203,6 +22227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 414962,
+      "num": 414962,
+      "word": "眼泪女王杀青宴好像婚闹现场",
+      "onboard_time": 1714292958,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 414453,
       "num": 414453,
       "word": "IU演唱会",
@@ -22233,14 +22265,6 @@
       "onboard_time": 1714128858,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 414118,
-      "num": 414118,
-      "word": "眼泪女王杀青宴好像婚闹现场",
-      "onboard_time": 1714292958,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 413441,
@@ -23153,14 +23177,6 @@
       "onboard_time": 1713767477,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 396072,
-      "num": 396072,
-      "word": "四种素菜小心越吃越胖",
-      "onboard_time": 1714303578,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 396062,
@@ -27123,6 +27139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 336502,
+      "num": 336502,
+      "word": "9.9的风终于还是卷到了星巴克",
+      "onboard_time": 1714308258,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 336416,
       "num": 135137,
       "word": "张栋梁拥抱拒绝金莎",
@@ -28912,6 +28936,14 @@
       "word": "沈璃在爱里生出了神性",
       "onboard_time": 1712418077,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 313059,
+      "num": 313059,
+      "word": "赴山海 成毅",
+      "onboard_time": 1714306699,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -30883,14 +30915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 291821,
-      "num": 291821,
-      "word": "赴山海 成毅",
-      "onboard_time": 1714306699,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 291808,
       "num": 291808,
       "word": "研究发现每天3个苹果或会帮助体重减轻",
@@ -32529,6 +32553,14 @@
       "onboard_time": 1713783318,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 275490,
+      "num": 275490,
+      "word": "张艺凡提前五小时到剧组化妆",
+      "onboard_time": 1714308678,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 275439,
@@ -36635,6 +36667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242815,
+      "num": 242815,
+      "word": "刘亦菲春游plog",
+      "onboard_time": 1714308438,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242761,
       "num": 242761,
       "word": "WBG对战iG",
@@ -37393,6 +37433,14 @@
       "onboard_time": 1712628678,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 238463,
+      "num": 238463,
+      "word": "华为小米手机大部分由比亚迪生产",
+      "onboard_time": 1714309518,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 238301,
@@ -41571,6 +41619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213875,
+      "num": 213875,
+      "word": "叶祖新晒步步惊心十阿哥旧照",
+      "onboard_time": 1714308138,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213849,
       "num": 213849,
       "word": "律师谈猫一杯MCN机构责任",
@@ -43003,6 +43059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208245,
+      "num": 208245,
+      "word": "华晨宇三开",
+      "onboard_time": 1714309878,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208244,
       "num": 208244,
       "word": "一诺体验粉丝的一天",
@@ -44035,6 +44099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205139,
+      "num": 205139,
+      "word": "韩国朋友招待的六菜一汤",
+      "onboard_time": 1714309279,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205071,
       "num": 201701,
       "word": "承欢记云合",
@@ -44937,6 +45009,14 @@
       "onboard_time": 1713194120,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202426,
+      "num": 202426,
+      "word": "AG逆风翻盘",
+      "onboard_time": 1714309459,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 202408,
@@ -50571,6 +50651,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 187287,
+      "num": 187287,
+      "word": "狼队对战AG",
+      "onboard_time": 1714310058,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187227,
       "num": 187227,
       "word": "福建省考成绩",
@@ -52345,6 +52433,14 @@
       "onboard_time": 1713366499,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 182372,
+      "num": 182372,
+      "word": "我未杀伯仁 伯仁却因我而死",
+      "onboard_time": 1714309998,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 182369,
@@ -55123,14 +55219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172182,
-      "num": 172182,
-      "word": "9.9的风终于还是卷到了星巴克",
-      "onboard_time": 1714308258,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 172171,
       "num": 172171,
       "word": "成都迪士尼周边卖爆了",
@@ -55465,6 +55553,14 @@
       "onboard_time": 1711963221,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 171299,
+      "num": 213250,
+      "word": "重庆燃气对有问题收费已全面清退",
+      "onboard_time": 1714309819,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171290,
@@ -56697,14 +56793,6 @@
       "onboard_time": 1712445435,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166617,
-      "num": 166617,
-      "word": "叶祖新晒步步惊心十阿哥旧照",
-      "onboard_time": 1714308138,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 166584,
@@ -68995,6 +69083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128336,
+      "num": 203312,
+      "word": "热刺vs阿森纳",
+      "onboard_time": 1714309581,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128289,
       "num": 128289,
       "word": "曼联vs伯恩利",
@@ -70320,6 +70416,14 @@
       "word": "第一次见这么肥美的大熊猫",
       "onboard_time": 1714246692,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123050,
+      "num": 132518,
+      "word": "32岁男子酒后泡澡脑血管破裂进了ICU",
+      "onboard_time": 1714310058,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -78539,6 +78643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 43769,
+      "num": 190276,
+      "word": "欢迎光临霍格沃茨请随意挑选",
+      "onboard_time": 1714309819,
+      "rank": 38,
+      "category": "时尚,旅游"
+    },
+    {
       "raw_hot": 43738,
       "num": 886476,
       "word": "国家安全是头等大事不能袖手旁观",
@@ -80513,6 +80625,14 @@
       "onboard_time": 1713462311,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 17331,
+      "num": 446954,
+      "word": "蛋仔花式钓鱼",
+      "onboard_time": 1714309218,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 17289,

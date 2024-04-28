@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714308386678,
+  "endTime": 1714310358432,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1541600,
+      "num": 1541600,
+      "word": "眼泪女王大结局",
+      "onboard_time": 1714306765,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1500192,
       "num": 1500192,
       "word": "两女子穿和服跳日本舞惹众怒",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1366594,
-      "num": 723687,
+      "num": 755428,
       "word": "周鸿祎迈巴赫990万拍出",
       "onboard_time": 1714303279,
       "rank": 5,
@@ -105,14 +113,6 @@
       "onboard_time": 1714279639,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1324998,
-      "num": 1324998,
-      "word": "眼泪女王大结局",
-      "onboard_time": 1714306765,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 1313043,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1272062,
-      "num": 487089,
+      "num": 528184,
       "word": "女子餐前打胰岛素被服务员误会吸毒",
       "onboard_time": 1714304297,
       "rank": 10,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1045867,
-      "num": 303217,
+      "num": 371555,
       "word": "吃烤苕皮是一件很私密的事",
       "onboard_time": 1714301296,
       "rank": 20,
@@ -240,6 +240,14 @@
       "word": "青环5 朴彩英",
       "onboard_time": 1714302978,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 941489,
+      "num": 941489,
+      "word": "贾乃亮谎报年龄被黄景瑜踹",
+      "onboard_time": 1714306888,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -353,6 +361,14 @@
       "onboard_time": 1714229960,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 766644,
+      "num": 766644,
+      "word": "抢到了",
+      "onboard_time": 1714306399,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 756156,
@@ -531,12 +547,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 539803,
-      "num": 539803,
-      "word": "抢到了",
-      "onboard_time": 1714306399,
-      "rank": 7,
-      "category": "演出"
+      "raw_hot": 547474,
+      "num": 547474,
+      "word": "雷军拿奖学金时发誓要1万倍奉还",
+      "onboard_time": 1714309038,
+      "rank": 8,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 536566,
@@ -561,6 +577,14 @@
       "onboard_time": 1714262238,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 527402,
+      "num": 527402,
+      "word": "Yaoyao发文道歉",
+      "onboard_time": 1714309279,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 526956,
@@ -675,6 +699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 462890,
+      "num": 462890,
+      "word": "眼泪女王收视率",
+      "onboard_time": 1714228641,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 462503,
       "num": 417553,
       "word": "王鹤棣素颜健身",
@@ -739,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 437912,
+      "num": 437912,
+      "word": "四种素菜小心越吃越胖",
+      "onboard_time": 1714303578,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 435498,
       "num": 435498,
       "word": "女子反驳江西高彩礼希望男生睁眼看世界",
@@ -755,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 434746,
-      "num": 434746,
-      "word": "贾乃亮谎报年龄被黄景瑜踹",
-      "onboard_time": 1714306888,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 421503,
       "num": 421503,
       "word": "中国航天员完成在轨交接",
@@ -771,8 +803,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 414118,
-      "num": 414118,
+      "raw_hot": 414962,
+      "num": 414962,
       "word": "眼泪女王杀青宴好像婚闹现场",
       "onboard_time": 1714292958,
       "rank": 34,
@@ -793,14 +825,6 @@
       "onboard_time": 1714298118,
       "rank": 24,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 396072,
-      "num": 396072,
-      "word": "四种素菜小心越吃越胖",
-      "onboard_time": 1714303578,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 389570,
@@ -907,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336502,
+      "num": 336502,
+      "word": "9.9的风终于还是卷到了星巴克",
+      "onboard_time": 1714308258,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 336015,
       "num": 336015,
       "word": "泽泽饭饭分手原因",
@@ -995,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313059,
+      "num": 313059,
+      "word": "赴山海 成毅",
+      "onboard_time": 1714306699,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311094,
       "num": 311094,
       "word": "BTS注水原文裁决书",
@@ -1043,14 +1083,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 291821,
-      "num": 291821,
-      "word": "赴山海 成毅",
-      "onboard_time": 1714306699,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 289395,
       "num": 289395,
       "word": "猫咪称自己一生从未进食只喝水",
@@ -1073,6 +1105,14 @@
       "onboard_time": 1714265659,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275490,
+      "num": 275490,
+      "word": "张艺凡提前五小时到剧组化妆",
+      "onboard_time": 1714308678,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 275163,
@@ -1235,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242815,
+      "num": 242815,
+      "word": "刘亦菲春游plog",
+      "onboard_time": 1714308438,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242649,
       "num": 234892,
       "word": "何炅李维嘉30年的友谊",
@@ -1257,6 +1305,14 @@
       "onboard_time": 1714269139,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238463,
+      "num": 238463,
+      "word": "华为小米手机大部分由比亚迪生产",
+      "onboard_time": 1714309518,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 237695,
@@ -1339,14 +1395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221142,
-      "num": 221142,
-      "word": "眼泪女王收视率",
-      "onboard_time": 1714228641,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 219889,
       "num": 219889,
       "word": "去见时代少年团的路",
@@ -1403,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213875,
+      "num": 213875,
+      "word": "叶祖新晒步步惊心十阿哥旧照",
+      "onboard_time": 1714308138,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213748,
       "num": 213748,
       "word": "HYBE和三大社的根本不同点",
@@ -1449,6 +1505,14 @@
       "onboard_time": 1714291398,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208245,
+      "num": 208245,
+      "word": "华晨宇三开",
+      "onboard_time": 1714309878,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 207384,
@@ -1507,6 +1571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205139,
+      "num": 205139,
+      "word": "韩国朋友招待的六菜一汤",
+      "onboard_time": 1714309279,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204666,
       "num": 204666,
       "word": "林孝埈Wonderland首封",
@@ -1528,6 +1600,14 @@
       "word": "LGD的命运",
       "onboard_time": 1714297097,
       "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 202426,
+      "num": 202426,
+      "word": "AG逆风翻盘",
+      "onboard_time": 1714309459,
+      "rank": 36,
       "category": "电竞"
     },
     {
@@ -1731,6 +1811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187287,
+      "num": 187287,
+      "word": "狼队对战AG",
+      "onboard_time": 1714310058,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185820,
       "num": 185820,
       "word": "不喜欢工作但喜欢找工作",
@@ -1785,6 +1873,14 @@
       "onboard_time": 1714307178,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182372,
+      "num": 182372,
+      "word": "我未杀伯仁 伯仁却因我而死",
+      "onboard_time": 1714309998,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 181889,
@@ -1907,14 +2003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172182,
-      "num": 172182,
-      "word": "9.9的风终于还是卷到了星巴克",
-      "onboard_time": 1714308258,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 171780,
       "num": 171780,
       "word": "宋轶甜妹",
@@ -1929,6 +2017,14 @@
       "onboard_time": 1714265779,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171299,
+      "num": 213250,
+      "word": "重庆燃气对有问题收费已全面清退",
+      "onboard_time": 1714309819,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170317,
@@ -1961,14 +2057,6 @@
       "onboard_time": 1714276638,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166617,
-      "num": 166617,
-      "word": "叶祖新晒步步惊心十阿哥旧照",
-      "onboard_time": 1714308138,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 165605,
@@ -2347,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128336,
+      "num": 203312,
+      "word": "热刺vs阿森纳",
+      "onboard_time": 1714309581,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128289,
       "num": 128289,
       "word": "曼联vs伯恩利",
@@ -2400,6 +2496,14 @@
       "word": "第一次见这么肥美的大熊猫",
       "onboard_time": 1714246692,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123050,
+      "num": 132518,
+      "word": "32岁男子酒后泡澡脑血管破裂进了ICU",
+      "onboard_time": 1714310058,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2723,6 +2827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43769,
+      "num": 190276,
+      "word": "欢迎光临霍格沃茨请随意挑选",
+      "onboard_time": 1714309819,
+      "rank": 38,
+      "category": "时尚,旅游"
+    },
+    {
       "raw_hot": 41879,
       "num": 41879,
       "word": "中岛美嘉 音乐就是救命稻草",
@@ -2779,6 +2891,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 17331,
+      "num": 446954,
+      "word": "蛋仔花式钓鱼",
+      "onboard_time": 1714309218,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 16363,
       "num": 155111,
       "word": "不要怀疑戚薇浪姐眼光",
@@ -2788,7 +2908,7 @@
     },
     {
       "raw_hot": 6669,
-      "num": 792807,
+      "num": 808417,
       "word": "文化中国行",
       "onboard_time": 1713927617,
       "rank": 2,
