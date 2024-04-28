@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714335510529,
+  "endTime": 1714336465046,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -79107,6 +79107,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 42264,
+      "num": 42264,
+      "word": "TT公布调查结果",
+      "onboard_time": 1714330091,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 42255,
       "num": 37186,
       "word": "原来陈昊宇是华人星光大道冠军",
@@ -79793,14 +79801,6 @@
       "onboard_time": 1713464111,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 32743,
-      "num": 32743,
-      "word": "TT公布调查结果",
-      "onboard_time": 1714330091,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 32729,
@@ -80547,20 +80547,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 23506,
+      "num": 23506,
+      "word": "香蕉加一把糯米粉就是一道美食",
+      "onboard_time": 1714331110,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 23427,
       "num": 28301,
       "word": "春日cityhappy计划",
       "onboard_time": 1712686512,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 23281,
-      "num": 23281,
-      "word": "香蕉加一把糯米粉就是一道美食",
-      "onboard_time": 1714331110,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 23213,
@@ -80771,6 +80771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21446,
+      "num": 21446,
+      "word": "朴振英中文",
+      "onboard_time": 1714333390,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 21149,
       "num": 28115,
       "word": "小狗表达歉意的方式",
@@ -80801,14 +80809,6 @@
       "onboard_time": 1712517970,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 20666,
-      "num": 20666,
-      "word": "朴振英中文",
-      "onboard_time": 1714333390,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 20632,
@@ -81425,6 +81425,14 @@
       "onboard_time": 1713206053,
       "rank": 39,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 12586,
+      "num": 19637,
+      "word": "如何三句话跳出自证陷阱",
+      "onboard_time": 1714336390,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 12521,

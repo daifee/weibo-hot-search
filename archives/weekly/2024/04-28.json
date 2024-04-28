@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714335510529,
+  "endTime": 1714336465046,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -3243,6 +3243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42264,
+      "num": 42264,
+      "word": "TT公布调查结果",
+      "onboard_time": 1714330091,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 41879,
       "num": 41879,
       "word": "中岛美嘉 音乐就是救命稻草",
@@ -3265,14 +3273,6 @@
       "onboard_time": 1714240693,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 32743,
-      "num": 32743,
-      "word": "TT公布调查结果",
-      "onboard_time": 1714330091,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 30692,
@@ -3307,8 +3307,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 23281,
-      "num": 23281,
+      "raw_hot": 23506,
+      "num": 23506,
       "word": "香蕉加一把糯米粉就是一道美食",
       "onboard_time": 1714331110,
       "rank": 45,
@@ -3331,8 +3331,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 20666,
-      "num": 20666,
+      "raw_hot": 21446,
+      "num": 21446,
       "word": "朴振英中文",
       "onboard_time": 1714333390,
       "rank": 29,
@@ -3385,6 +3385,14 @@
       "onboard_time": 1714331891,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12586,
+      "num": 19637,
+      "word": "如何三句话跳出自证陷阱",
+      "onboard_time": 1714336390,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 6669,
