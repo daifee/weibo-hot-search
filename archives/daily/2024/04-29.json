@@ -1,6 +1,6 @@
 {
   "startTime": 1714321243337,
-  "endTime": 1714361750865,
+  "endTime": 1714364487576,
   "band_list": [
     {
       "raw_hot": 2599948,
@@ -28,27 +28,35 @@
     },
     {
       "raw_hot": 1547120,
-      "num": 468969,
+      "num": 986611,
       "word": "字节跳动4人涉嫌刑事犯罪被立案",
       "onboard_time": 1714356439,
       "rank": 10,
       "category": "互联网"
     },
     {
-      "raw_hot": 1111278,
-      "num": 1111278,
+      "raw_hot": 1375688,
+      "num": 1050566,
+      "word": "我妻之死",
+      "onboard_time": 1714359677,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1171537,
+      "num": 1171537,
       "word": "袁娅维3次发文怼浪姐",
       "onboard_time": 1714359919,
       "rank": 1,
       "category": "综艺"
     },
     {
-      "raw_hot": 1050566,
-      "num": 1050566,
-      "word": "我妻之死",
-      "onboard_time": 1714359677,
-      "rank": 7,
-      "category": "情感"
+      "raw_hot": 969126,
+      "num": 969126,
+      "word": "付鹏 享受生活",
+      "onboard_time": 1714361600,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 917356,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 668676,
+      "num": 668676,
+      "word": "芍药",
+      "onboard_time": 1714361239,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 646918,
       "num": 646918,
       "word": "眼泪女王结局 临时补拍",
@@ -235,6 +251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 529929,
+      "num": 529929,
+      "word": "凤凰传奇 抢票",
+      "onboard_time": 1714363399,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 524541,
       "num": 254758,
       "word": "史上最忙五一为何机票价格跳水",
@@ -249,6 +273,30 @@
       "onboard_time": 1714318578,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 488951,
+      "num": 488951,
+      "word": "罗翔受聘为山东大学兼职教授",
+      "onboard_time": 1714360218,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 484167,
+      "num": 484167,
+      "word": "马斯克确认特斯拉Model2明年上市",
+      "onboard_time": 1714360400,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 474540,
+      "num": 474540,
+      "word": "提出涨薪1000涨了500",
+      "onboard_time": 1714364299,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 459468,
@@ -297,14 +345,6 @@
       "onboard_time": 1714361419,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 400825,
-      "num": 400825,
-      "word": "罗翔受聘为山东大学兼职教授",
-      "onboard_time": 1714360218,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 398923,
@@ -435,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287044,
+      "num": 287044,
+      "word": "王源二巡还叫客厅狂欢",
+      "onboard_time": 1714362859,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 286547,
       "num": 214612,
       "word": "时代少年团女主 贺美琦",
@@ -449,14 +497,6 @@
       "onboard_time": 1714359017,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 284693,
-      "num": 284693,
-      "word": "马斯克确认特斯拉Model2明年上市",
-      "onboard_time": 1714360400,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 282593,
@@ -627,14 +667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210643,
-      "num": 210643,
-      "word": "芍药",
-      "onboard_time": 1714361239,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 210147,
       "num": 210147,
       "word": "女子在丈夫按摩后长巨大肿块",
@@ -657,6 +689,14 @@
       "onboard_time": 1714356439,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198826,
+      "num": 265722,
+      "word": "明日方舟奈雪联动",
+      "onboard_time": 1714364000,
+      "rank": 19,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 194428,
@@ -691,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184813,
+      "num": 184813,
+      "word": "Jennie和ZICO手势舞",
+      "onboard_time": 1714362140,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184656,
       "num": 184656,
       "word": "林允的老公姐选择了张雨绮",
@@ -713,6 +761,14 @@
       "onboard_time": 1714346295,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183979,
+      "num": 183979,
+      "word": "时代少年团新歌rap作词严浩翔",
+      "onboard_time": 1714363579,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 182917,
@@ -771,12 +827,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166024,
-      "num": 166024,
-      "word": "付鹏 享受生活",
-      "onboard_time": 1714361600,
-      "rank": 33,
-      "category": "网红"
+      "raw_hot": 167042,
+      "num": 167042,
+      "word": "森林狼vs太阳",
+      "onboard_time": 1714364239,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166655,
+      "num": 166655,
+      "word": "五一假期5天小客车高速免费",
+      "onboard_time": 1714361719,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165983,
@@ -803,6 +867,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 157923,
+      "num": 157923,
+      "word": "小鸟给自己盖的新家满是槐花香",
+      "onboard_time": 1714362320,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157089,
       "num": 157089,
       "word": "突然发现自己好孤独",
@@ -825,6 +897,22 @@
       "onboard_time": 1714326432,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 152540,
+      "num": 152540,
+      "word": "极挑 男人在身高上的胜负欲",
+      "onboard_time": 1714363039,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149145,
+      "num": 149145,
+      "word": "中国船舶拿下全球最大造船订单",
+      "onboard_time": 1714363698,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144178,
@@ -883,6 +971,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134702,
+      "num": 134702,
+      "word": "雷军采访",
+      "onboard_time": 1714361899,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 134299,
+      "num": 134299,
+      "word": "NBA年度最强上篮",
+      "onboard_time": 1714364180,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132300,
       "num": 132300,
       "word": "童瑶露腰扯面",
@@ -907,12 +1011,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129604,
+      "num": 164167,
+      "word": "小米SU7第10000辆整车下线",
+      "onboard_time": 1714362320,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 129402,
       "num": 129402,
       "word": "吃烤苕皮是一件很私密的事",
       "onboard_time": 1714301296,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 128836,
+      "num": 128836,
+      "word": "凤凰传奇 难抢",
+      "onboard_time": 1714364419,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 127528,
@@ -1099,14 +1219,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 90984,
-      "num": 108470,
-      "word": "五一假期5天小客车高速免费",
-      "onboard_time": 1714361719,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88797,
       "num": 88797,
       "word": "黄晓明默默撤回了一口饭",
@@ -1129,6 +1241,14 @@
       "onboard_time": 1714318399,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 83590,
+      "num": 265786,
+      "word": "王一博的百变角色",
+      "onboard_time": 1714360819,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 82883,
@@ -1233,14 +1353,6 @@
       "onboard_time": 1714295897,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50275,
-      "num": 265786,
-      "word": "王一博的百变角色",
-      "onboard_time": 1714360819,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 49994,

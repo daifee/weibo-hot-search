@@ -1,0 +1,410 @@
+{
+  "runTime": 1714364487576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2039933,
+        "num": 2039933,
+        "word": "付鹏全网账号注销",
+        "onboard_time": 1714358658,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1171537,
+        "num": 1171537,
+        "word": "袁娅维3次发文怼浪姐",
+        "onboard_time": 1714359919,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12529,
+        "num": 1048925,
+        "word": "中国航天员完成在轨交接",
+        "onboard_time": 1714292178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1375688,
+        "num": 1042716,
+        "word": "我妻之死",
+        "onboard_time": 1714359677,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 986611,
+        "num": 986611,
+        "word": "字节跳动4人涉嫌刑事犯罪被立案",
+        "onboard_time": 1714356439,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 969126,
+        "num": 969126,
+        "word": "付鹏 享受生活",
+        "onboard_time": 1714361600,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 668676,
+        "num": 668676,
+        "word": "芍药",
+        "onboard_time": 1714361239,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 597886,
+        "num": 629679,
+        "word": "夫妻婚后无夫妻之实离婚女方判还32万彩礼",
+        "onboard_time": 1714348937,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603069,
+        "num": 603069,
+        "word": "眼泪女王结局 临时补拍",
+        "onboard_time": 1714357518,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62517,
+        "num": 544488,
+        "word": "男子曾获老师无偿资助回母校捐款50万",
+        "onboard_time": 1714326432,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 529929,
+        "num": 529929,
+        "word": "凤凰传奇 抢票",
+        "onboard_time": 1714363399,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 488951,
+        "num": 488951,
+        "word": "罗翔受聘为山东大学兼职教授",
+        "onboard_time": 1714360218,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 484167,
+        "num": 484167,
+        "word": "马斯克确认特斯拉Model2明年上市",
+        "onboard_time": 1714360400,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 474540,
+        "num": 474540,
+        "word": "提出涨薪1000涨了500",
+        "onboard_time": 1714364299,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 460014,
+        "num": 460014,
+        "word": "贺美琦曾是TFBOYS的MV女主",
+        "onboard_time": 1714360400,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 449514,
+        "num": 449514,
+        "word": "15元1个的菠萝蜜100元5个的榴莲",
+        "onboard_time": 1714356556,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 326559,
+        "num": 326559,
+        "word": "女子照片被烈士紧握网友称是其二姑奶奶",
+        "onboard_time": 1714354398,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287044,
+        "num": 287044,
+        "word": "王源二巡还叫客厅狂欢",
+        "onboard_time": 1714362859,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 265928,
+        "num": 265928,
+        "word": "日元",
+        "onboard_time": 1714356377,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198826,
+        "num": 265722,
+        "word": "明日方舟奈雪联动",
+        "onboard_time": 1714364000,
+        "rank": 19,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 83590,
+        "num": 261783,
+        "word": "王一博的百变角色",
+        "onboard_time": 1714360819,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 741407,
+        "num": 260031,
+        "word": "肚脐里的泥抠完真的会拉肚子吗",
+        "onboard_time": 1714358778,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 271151,
+        "num": 258055,
+        "word": "都敏俊转世",
+        "onboard_time": 1714351279,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256997,
+        "num": 256997,
+        "word": "张小斐晒照祝贾玲生日快乐",
+        "onboard_time": 1714360039,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230891,
+        "num": 230891,
+        "word": "王源2024巡演启动",
+        "onboard_time": 1714361419,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208975,
+        "num": 208975,
+        "word": "古天乐坚持十多年每天只吃一顿饭",
+        "onboard_time": 1714351339,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184813,
+        "num": 184813,
+        "word": "Jennie和ZICO手势舞",
+        "onboard_time": 1714362140,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183979,
+        "num": 183979,
+        "word": "时代少年团新歌rap作词严浩翔",
+        "onboard_time": 1714363579,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167042,
+        "num": 167042,
+        "word": "森林狼vs太阳",
+        "onboard_time": 1714364239,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166655,
+        "num": 166655,
+        "word": "五一假期5天小客车高速免费",
+        "onboard_time": 1714361719,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129604,
+        "num": 164167,
+        "word": "小米SU7第10000辆整车下线",
+        "onboard_time": 1714362320,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164103,
+        "num": 164103,
+        "word": "GUCCI肖战地广",
+        "onboard_time": 1714359017,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163967,
+        "num": 163967,
+        "word": "许嵩 我也坦然接受过许多的不喜欢",
+        "onboard_time": 1714355838,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157923,
+        "num": 157923,
+        "word": "小鸟给自己盖的新家满是槐花香",
+        "onboard_time": 1714362320,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156415,
+        "num": 156415,
+        "word": "歌手2024",
+        "onboard_time": 1714354697,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152540,
+        "num": 152540,
+        "word": "极挑 男人在身高上的胜负欲",
+        "onboard_time": 1714363039,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152513,
+        "num": 152513,
+        "word": "上海公卫中心回应病毒学家实验室被强关",
+        "onboard_time": 1714356439,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152027,
+        "num": 152027,
+        "word": "眼泪女王女主死了",
+        "onboard_time": 1714347676,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151657,
+        "num": 151657,
+        "word": "A股",
+        "onboard_time": 1714357817,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149145,
+        "num": 149145,
+        "word": "中国船舶拿下全球最大造船订单",
+        "onboard_time": 1714363698,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145411,
+        "num": 145411,
+        "word": "大侦探",
+        "onboard_time": 1714359620,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145407,
+        "num": 145407,
+        "word": "睡眠不足的9大表现",
+        "onboard_time": 1714353378,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145396,
+        "num": 145396,
+        "word": "警方通报女孩凌晨被拽进卫生间殴打",
+        "onboard_time": 1714349177,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139912,
+        "num": 139912,
+        "word": "河北下雪",
+        "onboard_time": 1714352839,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134702,
+        "num": 134702,
+        "word": "雷军采访",
+        "onboard_time": 1714361899,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134299,
+        "num": 134299,
+        "word": "NBA年度最强上篮",
+        "onboard_time": 1714364180,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128836,
+        "num": 128836,
+        "word": "凤凰传奇 难抢",
+        "onboard_time": 1714364419,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127039,
+        "num": 127039,
+        "word": "问界M7追尾的养护车当时正浇水作业",
+        "onboard_time": 1714353679,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126718,
+        "num": 126718,
+        "word": "时代少年团MV",
+        "onboard_time": 1714360039,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122153,
+        "num": 122153,
+        "word": "闪耀暖暖绝美婚纱",
+        "onboard_time": 1714359919,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂习近平的大食物观#"
+    }
+  }
+}
