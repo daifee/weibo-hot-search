@@ -1,0 +1,410 @@
+{
+  "runTime": 1714397655358,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 842280,
+        "num": 842280,
+        "word": "陈翔自荐报名歌手2024",
+        "onboard_time": 1714392259,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646124,
+        "num": 646124,
+        "word": "苗苗不愧是北舞严选",
+        "onboard_time": 1714395978,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51273,
+        "num": 538608,
+        "word": "五一公路出行将呈现五大特点",
+        "onboard_time": 1714396999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1848340,
+        "num": 515428,
+        "word": "官方公布李某某北电艺考核查结果",
+        "onboard_time": 1714394058,
+        "rank": 3,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 828467,
+        "num": 513840,
+        "word": "女子直播时被失散32年的父亲认出",
+        "onboard_time": 1714392078,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455748,
+        "num": 455748,
+        "word": "露水情缘 比纸都薄",
+        "onboard_time": 1714395918,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 651232,
+        "num": 455301,
+        "word": "李某某北电艺考属于考试违纪",
+        "onboard_time": 1714394721,
+        "rank": 6,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 449256,
+        "num": 449256,
+        "word": "华为HR",
+        "onboard_time": 1714392259,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 325609,
+        "num": 448992,
+        "word": "40多名护士遭集体解职",
+        "onboard_time": 1714369758,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155019,
+        "num": 448416,
+        "word": "你的五一搭子是谁",
+        "onboard_time": 1714387398,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 655582,
+        "num": 447710,
+        "word": "朱莉回应离婚",
+        "onboard_time": 1714390037,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 586470,
+        "num": 447114,
+        "word": "辛芷蕾工作室关闭后援会账号",
+        "onboard_time": 1714395799,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469368,
+        "num": 446804,
+        "word": "徐艺洋是真不想给黄子韬名分",
+        "onboard_time": 1714377679,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446516,
+        "num": 446516,
+        "word": "初中女生被多人欺负殴打8人被行拘",
+        "onboard_time": 1714394899,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436400,
+        "num": 436400,
+        "word": "游客反映董宇辉博物院直播耽误参观行程",
+        "onboard_time": 1714394079,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 419481,
+        "num": 419481,
+        "word": "南宁三中",
+        "onboard_time": 1714388839,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79009,
+        "num": 389323,
+        "word": "林更新状态",
+        "onboard_time": 1714396098,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367889,
+        "num": 367889,
+        "word": "北京48一位烧烤自助随便吃",
+        "onboard_time": 1714390759,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 320665,
+        "num": 320665,
+        "word": "男子买约800克黄金店员报警",
+        "onboard_time": 1714384097,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318737,
+        "num": 318737,
+        "word": "难听",
+        "onboard_time": 1714386858,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312034,
+        "num": 312034,
+        "word": "Gucci把肖战写入简介",
+        "onboard_time": 1714388898,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 380153,
+        "num": 292572,
+        "word": "林更新苗苗同框",
+        "onboard_time": 1714395918,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270865,
+        "num": 270865,
+        "word": "原来是因为头发少所以油得快",
+        "onboard_time": 1714395318,
+        "rank": 22,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 257497,
+        "num": 257497,
+        "word": "南京胖哥被初诊为PTSD",
+        "onboard_time": 1714397241,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235676,
+        "num": 235676,
+        "word": "不上班真的显年轻",
+        "onboard_time": 1714394079,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267728,
+        "num": 235604,
+        "word": "papi酱问郭采洁哪来这么多破烂儿",
+        "onboard_time": 1714390998,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267705,
+        "num": 235159,
+        "word": "鹿晗现身末路狂花钱首映礼",
+        "onboard_time": 1714396758,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233910,
+        "num": 233910,
+        "word": "不该把中国妹都叫成熊猫妹",
+        "onboard_time": 1714383499,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231293,
+        "num": 231293,
+        "word": "IVE空降",
+        "onboard_time": 1714387698,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203303,
+        "num": 203303,
+        "word": "警方通报初中生联合校外学生欺凌同学",
+        "onboard_time": 1714396398,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229308,
+        "num": 202277,
+        "word": "刘亦菲有在认真养她的小猫咪",
+        "onboard_time": 1714381819,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199322,
+        "num": 199322,
+        "word": "配音沪圈",
+        "onboard_time": 1714389498,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187561,
+        "num": 187561,
+        "word": "歌手报名",
+        "onboard_time": 1714391959,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185486,
+        "num": 185486,
+        "word": "时代少年团练习合照",
+        "onboard_time": 1714396819,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177070,
+        "num": 177070,
+        "word": "为什么头发梳久了梳子上会这样",
+        "onboard_time": 1714379358,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182194,
+        "num": 176325,
+        "word": "王一博 谁是犊子",
+        "onboard_time": 1714391898,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174533,
+        "num": 174533,
+        "word": "医生说肚脐是人体的薄弱之处",
+        "onboard_time": 1714384218,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171849,
+        "num": 171849,
+        "word": "谁说国内没有好恐怖片",
+        "onboard_time": 1714396218,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120161,
+        "num": 171500,
+        "word": "外交部回应布林肯称中方试图干涉美国大选",
+        "onboard_time": 1714392019,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99296,
+        "num": 170471,
+        "word": "原北京站站长王丽娟被查",
+        "onboard_time": 1714390097,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177490,
+        "num": 169141,
+        "word": "Jennie那英",
+        "onboard_time": 1714376238,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175195,
+        "num": 167635,
+        "word": "背着善宰跑",
+        "onboard_time": 1714393759,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167214,
+        "num": 167214,
+        "word": "邓科关注赵露思",
+        "onboard_time": 1714393818,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166965,
+        "num": 166965,
+        "word": "沈景病",
+        "onboard_time": 1714397599,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159290,
+        "num": 159290,
+        "word": "病毒学家张永振和其学生仍围坐门口",
+        "onboard_time": 1714388778,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140456,
+        "num": 140456,
+        "word": "特斯拉FSD中国售价",
+        "onboard_time": 1714396578,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131778,
+        "num": 131778,
+        "word": "高颜值出圈华为HR自曝离职",
+        "onboard_time": 1714388898,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108724,
+        "num": 131765,
+        "word": "不养宠物的原因",
+        "onboard_time": 1714397599,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83048,
+        "num": 131587,
+        "word": "乐乐茶致歉声明",
+        "onboard_time": 1714388419,
+        "rank": 48,
+        "category": "社会新闻,读书作家"
+      },
+      {
+        "raw_hot": 80385,
+        "num": 131355,
+        "word": "福建海警位金门附近海域依法开展常态化执法巡查",
+        "onboard_time": 1714393759,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将访问法国塞尔维亚匈牙利#"
+    }
+  }
+}
