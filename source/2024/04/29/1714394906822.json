@@ -1,0 +1,410 @@
+{
+  "runTime": 1714394906822,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 741453,
+        "num": 741453,
+        "word": "陈翔自荐报名歌手2024",
+        "onboard_time": 1714392259,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622210,
+        "num": 622210,
+        "word": "40多名护士遭集体解职",
+        "onboard_time": 1714369758,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6004,
+        "num": 507623,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1527388,
+        "num": 498786,
+        "word": "官方公布李某某北电艺考核查结果",
+        "onboard_time": 1714394058,
+        "rank": 3,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 758629,
+        "num": 494576,
+        "word": "女子直播时被失散32年的父亲认出",
+        "onboard_time": 1714392078,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487818,
+        "num": 487818,
+        "word": "华为HR",
+        "onboard_time": 1714392259,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 446524,
+        "num": 446524,
+        "word": "papi酱问郭采洁哪来这么多破烂儿",
+        "onboard_time": 1714390998,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421359,
+        "num": 421359,
+        "word": "歌手报名",
+        "onboard_time": 1714391959,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397401,
+        "num": 397401,
+        "word": "配音沪圈",
+        "onboard_time": 1714389498,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168288,
+        "num": 397227,
+        "word": "你的五一搭子是谁",
+        "onboard_time": 1714387398,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 953895,
+        "num": 395690,
+        "word": "朱莉回应离婚",
+        "onboard_time": 1714390037,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 915037,
+        "num": 394875,
+        "word": "南宁三中",
+        "onboard_time": 1714388839,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569888,
+        "num": 393858,
+        "word": "徐艺洋是真不想给黄子韬名分",
+        "onboard_time": 1714377679,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480040,
+        "num": 393775,
+        "word": "难听",
+        "onboard_time": 1714386858,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 414726,
+        "num": 392099,
+        "word": "男子买约800克黄金店员报警",
+        "onboard_time": 1714384097,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392030,
+        "num": 392030,
+        "word": "病毒学家张永振和其学生仍围坐门口",
+        "onboard_time": 1714388778,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368094,
+        "num": 368094,
+        "word": "高颜值出圈华为HR自曝离职",
+        "onboard_time": 1714388898,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 320685,
+        "num": 320685,
+        "word": "北京48一位烧烤自助随便吃",
+        "onboard_time": 1714390759,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 298611,
+        "num": 298611,
+        "word": "原北京站站长王丽娟被查",
+        "onboard_time": 1714390097,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283043,
+        "num": 283043,
+        "word": "IVE空降",
+        "onboard_time": 1714387698,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 518564,
+        "num": 277581,
+        "word": "Gucci把肖战写入简介",
+        "onboard_time": 1714388898,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 249474,
+        "num": 249474,
+        "word": "邓科关注赵露思",
+        "onboard_time": 1714393818,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223832,
+        "num": 223832,
+        "word": "王一博 谁是犊子",
+        "onboard_time": 1714391898,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223161,
+        "num": 223161,
+        "word": "游客反映董宇辉博物院直播耽误参观行程",
+        "onboard_time": 1714394079,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 223001,
+        "num": 223001,
+        "word": "不该把中国妹都叫成熊猫妹",
+        "onboard_time": 1714383499,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214362,
+        "num": 214362,
+        "word": "刘亦菲有在认真养她的小猫咪",
+        "onboard_time": 1714381819,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204205,
+        "num": 204205,
+        "word": "背着善宰跑",
+        "onboard_time": 1714393759,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198361,
+        "num": 198361,
+        "word": "Jennie那英",
+        "onboard_time": 1714376238,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164055,
+        "num": 195505,
+        "word": "外交部回应布林肯称中方试图干涉美国大选",
+        "onboard_time": 1714392019,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141523,
+        "num": 195177,
+        "word": "乐乐茶致歉声明",
+        "onboard_time": 1714388419,
+        "rank": 29,
+        "category": "社会新闻,读书作家"
+      },
+      {
+        "raw_hot": 195070,
+        "num": 195070,
+        "word": "终于喝上冰中式了",
+        "onboard_time": 1714388059,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191682,
+        "num": 191682,
+        "word": "郑恺苗苗又发糖了",
+        "onboard_time": 1714389258,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188395,
+        "num": 188395,
+        "word": "林俊杰深圳抢票",
+        "onboard_time": 1714394419,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188358,
+        "num": 188358,
+        "word": "付鹏与李佳琦仍共同持股公司",
+        "onboard_time": 1714376538,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 169841,
+        "num": 179451,
+        "word": "为什么头发梳久了梳子上会这样",
+        "onboard_time": 1714379358,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178292,
+        "num": 178292,
+        "word": "IVE 烟杆",
+        "onboard_time": 1714389138,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178137,
+        "num": 178137,
+        "word": "李某某北电艺考属于考试违纪",
+        "onboard_time": 1714394721,
+        "rank": 36,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 169122,
+        "num": 169122,
+        "word": "不上班真的显年轻",
+        "onboard_time": 1714394079,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167572,
+        "num": 167572,
+        "word": "医生说肚脐是人体的薄弱之处",
+        "onboard_time": 1714384218,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132926,
+        "num": 166316,
+        "word": "福建海警位金门附近海域依法开展常态化执法巡查",
+        "onboard_time": 1714393759,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165317,
+        "num": 165317,
+        "word": "王一博让主持人不要王吧一起说",
+        "onboard_time": 1714378879,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164238,
+        "num": 164238,
+        "word": "震碎Kpop",
+        "onboard_time": 1714390938,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152363,
+        "num": 152363,
+        "word": "迪丽热巴怼脸纯生图",
+        "onboard_time": 1714394599,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 146938,
+        "num": 146938,
+        "word": "院方回应董宇辉直播让游客在外等50分钟",
+        "onboard_time": 1714391959,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139715,
+        "num": 139715,
+        "word": "明天下班走出办公室的我",
+        "onboard_time": 1714375458,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138526,
+        "num": 138526,
+        "word": "沈磊 AI配音",
+        "onboard_time": 1714386258,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135872,
+        "num": 135872,
+        "word": "IVE回归",
+        "onboard_time": 1714381579,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126675,
+        "num": 135784,
+        "word": "当东北i人遇上小米SU7",
+        "onboard_time": 1714394079,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 124104,
+        "num": 135780,
+        "word": "Uzi说老头杯谁选TheShy谁赢",
+        "onboard_time": 1714391959,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117645,
+        "num": 135777,
+        "word": "海军首批舰载机女飞行学员完成首飞",
+        "onboard_time": 1714392559,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#着力打造具有全球影响力的产业科技创新中心#"
+    }
+  }
+}
