@@ -1,6 +1,6 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714419266224,
+  "endTime": 1714421934805,
   "band_list": [
     {
       "raw_hot": 1269205,
@@ -459,6 +459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41642,
+      "num": 41642,
+      "word": "电影维和防暴队北京首映礼",
+      "onboard_time": 1714421231,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 41127,
       "num": 41127,
       "word": "青山刚昌亲自修正周边图",
@@ -475,20 +483,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15879,
-      "num": 17914,
+      "raw_hot": 18718,
+      "num": 18718,
       "word": "被大章鱼缠满双脚",
       "onboard_time": 1714418651,
       "rank": 44,
       "category": "情感"
     },
     {
-      "raw_hot": 14216,
+      "raw_hot": 17660,
       "num": 17899,
       "word": "尹锡悦与李在明会谈",
       "onboard_time": 1714418771,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 16968,
+      "num": 16968,
+      "word": "感觉是小时候倒霉习惯了",
+      "onboard_time": 1714420870,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 2344,
