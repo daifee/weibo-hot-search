@@ -1,6 +1,6 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714410943557,
+  "endTime": 1714412133765,
   "band_list": [
     {
       "raw_hot": 1269205,
@@ -83,7 +83,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 280542,
+      "raw_hot": 280930,
       "num": 185411,
       "word": "警方回应女子逛夜市裙子上现不明液体",
       "onboard_time": 1714408154,
@@ -115,7 +115,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229223,
+      "raw_hot": 231566,
       "num": 182911,
       "word": "刘涛秦海璐 无趣的内容有趣地聊",
       "onboard_time": 1714408756,
@@ -347,6 +347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 91724,
+      "num": 94372,
+      "word": "四月有七个周一",
+      "onboard_time": 1714408456,
+      "rank": 49,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 88661,
       "num": 121792,
       "word": "游客反映董宇辉博物院直播耽误参观行程",
@@ -361,14 +369,6 @@
       "onboard_time": 1714398198,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 84675,
-      "num": 94372,
-      "word": "四月有七个周一",
-      "onboard_time": 1714408456,
-      "rank": 49,
-      "category": "社会议题"
     },
     {
       "raw_hot": 81898,
@@ -449,6 +449,22 @@
       "onboard_time": 1714396758,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 29986,
+      "num": 38555,
+      "word": "青山刚昌亲自修正周边图",
+      "onboard_time": 1714411991,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 2219,
+      "num": 212639,
+      "word": "文化中国行",
+      "onboard_time": 1713927617,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
