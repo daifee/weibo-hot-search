@@ -1,6 +1,6 @@
 {
   "startTime": 1714321243337,
-  "endTime": 1714371882804,
+  "endTime": 1714372623112,
   "band_list": [
     {
       "raw_hot": 2599948,
@@ -83,8 +83,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1101166,
-      "num": 1101166,
+      "raw_hot": 1146430,
+      "num": 1146430,
       "word": "将门毒后改名为将门独后",
       "onboard_time": 1714369817,
       "rank": 1,
@@ -105,6 +105,14 @@
       "onboard_time": 1714361600,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 940777,
+      "num": 940777,
+      "word": "40多名护士遭集体解职",
+      "onboard_time": 1714369758,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 917356,
@@ -153,14 +161,6 @@
       "onboard_time": 1714351339,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 790571,
-      "num": 790571,
-      "word": "40多名护士遭集体解职",
-      "onboard_time": 1714369758,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 781382,
@@ -323,8 +323,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 552024,
-      "num": 552024,
+      "raw_hot": 552405,
+      "num": 552405,
       "word": "肖战18秒换了6套造型",
       "onboard_time": 1714369279,
       "rank": 6,
@@ -387,7 +387,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 474176,
+      "raw_hot": 475365,
       "num": 302591,
       "word": "30岁你的存款达标了吗",
       "onboard_time": 1714367359,
@@ -401,6 +401,14 @@
       "onboard_time": 1714317978,
       "rank": 21,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 458277,
+      "num": 278602,
+      "word": "癌症可能是省出来的",
+      "onboard_time": 1714370358,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 455174,
@@ -489,14 +497,6 @@
       "onboard_time": 1714357038,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 371751,
-      "num": 278602,
-      "word": "癌症可能是省出来的",
-      "onboard_time": 1714370358,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 358842,
@@ -651,6 +651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 272668,
+      "num": 272668,
+      "word": "虞书欣美式女高",
+      "onboard_time": 1714371739,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272264,
       "num": 272264,
       "word": "蔡磊妻子说天天愁有什么用",
@@ -691,6 +699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 255635,
+      "num": 255635,
+      "word": "B太 青岛",
+      "onboard_time": 1714370297,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 255415,
       "num": 255415,
       "word": "国外一位妻子给老公打包午餐",
@@ -705,14 +721,6 @@
       "onboard_time": 1714308258,
       "rank": 26,
       "category": "美食"
-    },
-    {
-      "raw_hot": 253832,
-      "num": 253832,
-      "word": "B太 青岛",
-      "onboard_time": 1714370297,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 253187,
@@ -827,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219425,
+      "num": 219425,
+      "word": "林允千金美甲",
+      "onboard_time": 1714372038,
+      "rank": 27,
+      "category": "综艺,美妆"
+    },
+    {
       "raw_hot": 219290,
       "num": 219290,
       "word": "马嘉祺 慢冷",
@@ -841,6 +857,14 @@
       "onboard_time": 1714367179,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 218831,
+      "num": 218831,
+      "word": "最好坚持的减肥运动",
+      "onboard_time": 1714371077,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 214010,
@@ -923,8 +947,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 199828,
-      "num": 199828,
+      "raw_hot": 201493,
+      "num": 201493,
       "word": "林更新边江玫瑰故事再合作",
       "onboard_time": 1714371859,
       "rank": 30,
@@ -953,6 +977,14 @@
       "onboard_time": 1714367898,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195476,
+      "num": 195476,
+      "word": "范丞丞超小声diss谢帝",
+      "onboard_time": 1714372159,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 194428,
@@ -1059,14 +1091,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 183060,
-      "num": 183060,
-      "word": "最好坚持的减肥运动",
-      "onboard_time": 1714371077,
-      "rank": 33,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 182917,
       "num": 252192,
       "word": "雷军拿奖学金时发誓要1万倍奉还",
@@ -1105,14 +1129,6 @@
       "onboard_time": 1714347436,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179585,
-      "num": 179585,
-      "word": "虞书欣美式女高",
-      "onboard_time": 1714371739,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 174552,
@@ -1323,6 +1339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134887,
+      "num": 134887,
+      "word": "蔡文静做喉镜检查",
+      "onboard_time": 1714372457,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134702,
       "num": 134702,
       "word": "雷军采访",
@@ -1331,12 +1355,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133975,
+      "num": 133975,
+      "word": "梦之队",
+      "onboard_time": 1714372517,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132300,
       "num": 132300,
       "word": "童瑶露腰扯面",
       "onboard_time": 1714350738,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131504,
+      "num": 131504,
+      "word": "原炀顾青裴 割裂感",
+      "onboard_time": 1714369698,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 131442,
@@ -1401,6 +1441,14 @@
       "onboard_time": 1714357278,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122441,
+      "num": 122441,
+      "word": "种地吧 惊喜直播",
+      "onboard_time": 1714372578,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 121668,
@@ -1843,8 +1891,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 7959,
-      "num": 997290,
+      "raw_hot": 8376,
+      "num": 1039572,
       "word": "文化中国行",
       "onboard_time": 1713927617,
       "rank": 2,

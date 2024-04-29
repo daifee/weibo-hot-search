@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714371882804,
+  "endTime": 1714372623112,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -4395,6 +4395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1146430,
+      "num": 1146430,
+      "word": "将门毒后改名为将门独后",
+      "onboard_time": 1714369817,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1144662,
       "num": 1144662,
       "word": "金莎被所有人拒绝",
@@ -4753,14 +4761,6 @@
       "onboard_time": 1713241099,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1101166,
-      "num": 1101166,
-      "word": "将门毒后改名为将门独后",
-      "onboard_time": 1714369817,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1099991,
@@ -6592,6 +6592,14 @@
       "word": "11岁女孩找同学途中失联1天后遇害",
       "onboard_time": 1712029339,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 940777,
+      "num": 940777,
+      "word": "40多名护士遭集体解职",
+      "onboard_time": 1714369758,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -8992,14 +9000,6 @@
       "word": "炮制秦朗丢作业丢掉了什么",
       "onboard_time": 1712981417,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 790571,
-      "num": 790571,
-      "word": "40多名护士遭集体解职",
-      "onboard_time": 1714369758,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -15675,20 +15675,20 @@
       "category": "运动健身,艺人"
     },
     {
+      "raw_hot": 552405,
+      "num": 552405,
+      "word": "肖战18秒换了6套造型",
+      "onboard_time": 1714369279,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 552172,
       "num": 552172,
       "word": "足协所有中层干部暂时被免职",
       "onboard_time": 1712571320,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 552024,
-      "num": 552024,
-      "word": "肖战18秒换了6套造型",
-      "onboard_time": 1714369279,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 551660,
@@ -19275,6 +19275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 475365,
+      "num": 302591,
+      "word": "30岁你的存款达标了吗",
+      "onboard_time": 1714367359,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 475185,
       "num": 475185,
       "word": "刘宇宁夸迪丽热巴抗住了死亡角度",
@@ -19320,14 +19328,6 @@
       "word": "爸爸安慰30岁失业女儿不要想太多",
       "onboard_time": 1712967976,
       "rank": 23,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 474176,
-      "num": 302591,
-      "word": "30岁你的存款达标了吗",
-      "onboard_time": 1714367359,
-      "rank": 22,
       "category": "情感"
     },
     {
@@ -20137,6 +20137,14 @@
       "onboard_time": 1714013598,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 458277,
+      "num": 278602,
+      "word": "癌症可能是省出来的",
+      "onboard_time": 1714370358,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 458106,
@@ -25209,14 +25217,6 @@
       "onboard_time": 1713258378,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 371751,
-      "num": 278602,
-      "word": "癌症可能是省出来的",
-      "onboard_time": 1714370358,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 371750,
@@ -33483,6 +33483,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 272668,
+      "num": 272668,
+      "word": "虞书欣美式女高",
+      "onboard_time": 1714371739,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272463,
       "num": 272463,
       "word": "鸭头冲进鹿晗怀里",
@@ -35475,6 +35483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255635,
+      "num": 255635,
+      "word": "B太 青岛",
+      "onboard_time": 1714370297,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 255543,
       "num": 205029,
       "word": "奔跑吧提更",
@@ -35641,14 +35657,6 @@
       "onboard_time": 1714193958,
       "rank": 24,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 253832,
-      "num": 253832,
-      "word": "B太 青岛",
-      "onboard_time": 1714370297,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 253725,
@@ -41363,6 +41371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 219425,
+      "num": 219425,
+      "word": "林允千金美甲",
+      "onboard_time": 1714372038,
+      "rank": 27,
+      "category": "综艺,美妆"
+    },
+    {
       "raw_hot": 219366,
       "num": 219366,
       "word": "嬛嬛美甲",
@@ -41465,6 +41481,14 @@
       "onboard_time": 1713105559,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218831,
+      "num": 218831,
+      "word": "最好坚持的减肥运动",
+      "onboard_time": 1714371077,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 218828,
@@ -46259,6 +46283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201493,
+      "num": 201493,
+      "word": "林更新边江玫瑰故事再合作",
+      "onboard_time": 1714371859,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201483,
       "num": 201483,
       "word": "粉丝想和杨幂合影气前男友",
@@ -46801,14 +46833,6 @@
       "onboard_time": 1713673458,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199828,
-      "num": 199828,
-      "word": "林更新边江玫瑰故事再合作",
-      "onboard_time": 1714371859,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 199768,
@@ -48393,6 +48417,14 @@
       "onboard_time": 1712644279,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 195476,
+      "num": 195476,
+      "word": "范丞丞超小声diss谢帝",
+      "onboard_time": 1714372159,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 195453,
@@ -53155,14 +53187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 183060,
-      "num": 183060,
-      "word": "最好坚持的减肥运动",
-      "onboard_time": 1714371077,
-      "rank": 33,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 183055,
       "num": 183055,
       "word": "考研七次是一种什么体验",
@@ -54209,14 +54233,6 @@
       "onboard_time": 1713778397,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179585,
-      "num": 179585,
-      "word": "虞书欣美式女高",
-      "onboard_time": 1714371739,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 179578,
@@ -68403,6 +68419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134887,
+      "num": 134887,
+      "word": "蔡文静做喉镜检查",
+      "onboard_time": 1714372457,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134822,
       "num": 134822,
       "word": "檀健次上海活动",
@@ -68665,6 +68689,14 @@
       "onboard_time": 1714267579,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133975,
+      "num": 133975,
+      "word": "梦之队",
+      "onboard_time": 1714372517,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 133964,
@@ -69465,6 +69497,14 @@
       "onboard_time": 1713429319,
       "rank": 49,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 131504,
+      "num": 131504,
+      "word": "原炀顾青裴 割裂感",
+      "onboard_time": 1714369698,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 131442,
@@ -71969,6 +72009,14 @@
       "onboard_time": 1714213698,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122441,
+      "num": 122441,
+      "word": "种地吧 惊喜直播",
+      "onboard_time": 1714372578,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 122431,
@@ -79572,7 +79620,7 @@
     },
     {
       "raw_hot": 52948,
-      "num": 997290,
+      "num": 1039572,
       "word": "文化中国行",
       "onboard_time": 1713618919,
       "rank": 2,
