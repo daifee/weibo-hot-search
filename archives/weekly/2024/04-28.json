@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714385978810,
+  "endTime": 1714386924974,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1173286,
+      "num": 928512,
+      "word": "男子买约800克黄金店员报警",
+      "onboard_time": 1714384097,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1162512,
       "num": 323647,
       "word": "长期吃榴莲身体会发生什么变化",
@@ -337,6 +345,14 @@
       "onboard_time": 1714269498,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1070907,
+      "num": 749962,
+      "word": "刘亦菲有在认真养她的小猫咪",
+      "onboard_time": 1714381819,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1065790,
@@ -451,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 928512,
-      "num": 928512,
-      "word": "男子买约800克黄金店员报警",
-      "onboard_time": 1714384097,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 921904,
       "num": 800603,
       "word": "眼泪女王 太癫了",
@@ -571,6 +579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 854795,
+      "num": 854795,
+      "word": "黑鸭黑鸭黑鸭",
+      "onboard_time": 1714382480,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 843951,
       "num": 843951,
       "word": "古天乐坚持十多年每天只吃一顿饭",
@@ -593,14 +609,6 @@
       "onboard_time": 1714308258,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 828202,
-      "num": 828202,
-      "word": "黑鸭黑鸭黑鸭",
-      "onboard_time": 1714382480,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 826953,
@@ -665,14 +673,6 @@
       "onboard_time": 1714227859,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 749962,
-      "num": 749962,
-      "word": "刘亦菲有在认真养她的小猫咪",
-      "onboard_time": 1714381819,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 739858,
@@ -819,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 675750,
+      "num": 675750,
+      "word": "男子实名举报公司不让女性加夜班",
+      "onboard_time": 1714385239,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 655201,
       "num": 655201,
       "word": "郑佩佩好像我奶奶",
@@ -897,6 +905,14 @@
       "onboard_time": 1714356556,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 625647,
+      "num": 625647,
+      "word": "不该把中国妹都叫成熊猫妹",
+      "onboard_time": 1714383499,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 624748,
@@ -1243,14 +1259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 489480,
-      "num": 489480,
-      "word": "不该把中国妹都叫成熊猫妹",
-      "onboard_time": 1714383499,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 489377,
       "num": 489377,
       "word": "巴以冲突",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1714360400,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 482143,
+      "num": 482143,
+      "word": "melon曲线",
+      "onboard_time": 1714385239,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 480603,
@@ -1507,6 +1523,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 406406,
+      "num": 406406,
+      "word": "近5年中国国家元首首访欧洲",
+      "onboard_time": 1714385538,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 405481,
       "num": 405481,
       "word": "王源2024巡演启动",
@@ -1715,14 +1739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 335723,
-      "num": 335723,
-      "word": "男子实名举报公司不让女性加夜班",
-      "onboard_time": 1714385239,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 334072,
       "num": 333189,
       "word": "朴彩英收到霉霉新专礼盒",
@@ -1833,14 +1849,6 @@
       "onboard_time": 1714207817,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 315162,
-      "num": 315162,
-      "word": "melon曲线",
-      "onboard_time": 1714385239,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 313059,
@@ -2153,6 +2161,14 @@
       "onboard_time": 1714336750,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 254535,
+      "num": 254535,
+      "word": "庄洁陈麦冬分手",
+      "onboard_time": 1714386080,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 253653,
@@ -2507,14 +2523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 224258,
-      "num": 224258,
-      "word": "近5年中国国家元首首访欧洲",
-      "onboard_time": 1714385538,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 224032,
       "num": 224032,
       "word": "周深认识宋雨琦后才开始听Kpop",
@@ -2523,12 +2531,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223841,
+      "num": 223841,
+      "word": "肖战在日落黄昏时",
+      "onboard_time": 1714385838,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222624,
       "num": 222624,
       "word": "背着善宰跑",
       "onboard_time": 1714354159,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221026,
+      "num": 221026,
+      "word": "沈磊 AI配音",
+      "onboard_time": 1714386258,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 219889,
@@ -2697,6 +2721,14 @@
       "onboard_time": 1714347375,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209378,
+      "num": 207999,
+      "word": "赵露思下一部剧是现代剧",
+      "onboard_time": 1714385778,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 209147,
@@ -2899,6 +2931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201563,
+      "num": 201563,
+      "word": "赵又廷夫妇和高圆圆",
+      "onboard_time": 1714384939,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201493,
       "num": 201493,
       "word": "林更新边江玫瑰故事再合作",
@@ -2937,14 +2977,6 @@
       "onboard_time": 1714316299,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 200301,
-      "num": 200301,
-      "word": "肖战在日落黄昏时",
-      "onboard_time": 1714385838,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 200006,
@@ -3035,6 +3067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196903,
+      "num": 172158,
+      "word": "金秋天没镜头",
+      "onboard_time": 1714386378,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196763,
       "num": 196763,
       "word": "时代少年团重庆站",
@@ -3115,12 +3155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194308,
+      "num": 161275,
+      "word": "全圆佑徐明浩首cha",
+      "onboard_time": 1714386139,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194244,
       "num": 194244,
       "word": "跟唱凤凰传奇 把自己唱生气了",
       "onboard_time": 1714380319,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194195,
+      "num": 115627,
+      "word": "李耕耘一下吃了十个鲜花饼",
+      "onboard_time": 1714386618,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 193998,
@@ -3459,6 +3515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181418,
+      "num": 181418,
+      "word": "医生说肚脐是人体的薄弱之处",
+      "onboard_time": 1714384218,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 181270,
       "num": 181270,
       "word": "孙颖莎爷爷奶奶缘有多好",
@@ -3563,6 +3627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174827,
+      "num": 155657,
+      "word": "吴莫愁报名歌手",
+      "onboard_time": 1714385898,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174552,
       "num": 174552,
       "word": "周雨彤 内娱管培生",
@@ -3659,22 +3731,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 169112,
-      "num": 169112,
-      "word": "赵露思下一部剧是现代剧",
-      "onboard_time": 1714385778,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 168165,
-      "num": 168165,
-      "word": "赵又廷夫妇和高圆圆",
-      "onboard_time": 1714384939,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167831,
       "num": 167831,
       "word": "许嵩演唱会嘉宾是丁世光",
@@ -3731,20 +3787,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 164858,
-      "num": 164858,
-      "word": "医生说肚脐是人体的薄弱之处",
-      "onboard_time": 1714384218,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 163235,
       "num": 526212,
       "word": "阿姨寄珍藏停产玩偶满足陌生男孩愿望",
       "onboard_time": 1714266377,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163188,
+      "num": 113901,
+      "word": "难听",
+      "onboard_time": 1714386858,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 162895,
@@ -3899,12 +3955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155657,
-      "num": 155657,
-      "word": "吴莫愁报名歌手",
-      "onboard_time": 1714385898,
+      "raw_hot": 155967,
+      "num": 113320,
+      "word": "刘耀文空降",
+      "onboard_time": 1714386858,
       "rank": 43,
-      "category": "综艺"
+      "category": "艺人"
     },
     {
       "raw_hot": 155490,
@@ -3929,6 +3985,14 @@
       "onboard_time": 1714229721,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153461,
+      "num": 110663,
+      "word": "IVE 中国元素",
+      "onboard_time": 1714386799,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 152868,
@@ -4443,6 +4507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129335,
+      "num": 482892,
+      "word": "现在浙江的咖啡这么卷了吗",
+      "onboard_time": 1714384759,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 128843,
       "num": 128843,
       "word": "女子误将鸡尾酒当饮料酒驾被抓",
@@ -4545,14 +4617,6 @@
       "onboard_time": 1714265958,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 125125,
-      "num": 409710,
-      "word": "现在浙江的咖啡这么卷了吗",
-      "onboard_time": 1714384759,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 124588,

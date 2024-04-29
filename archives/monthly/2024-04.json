@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714385978810,
+  "endTime": 1714386924974,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -4235,6 +4235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1173286,
+      "num": 928512,
+      "word": "男子买约800克黄金店员报警",
+      "onboard_time": 1714384097,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1172117,
       "num": 1172117,
       "word": "陈丽君 花木兰孙悟空无缝衔接",
@@ -5081,6 +5089,14 @@
       "onboard_time": 1713325039,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1070907,
+      "num": 749962,
+      "word": "刘亦菲有在认真养她的小猫咪",
+      "onboard_time": 1714381819,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1070106,
@@ -6763,14 +6779,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 928512,
-      "num": 928512,
-      "word": "男子买约800克黄金店员报警",
-      "onboard_time": 1714384097,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 927879,
       "num": 768349,
       "word": "林彦俊直播",
@@ -7875,6 +7883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 854795,
+      "num": 854795,
+      "word": "黑鸭黑鸭黑鸭",
+      "onboard_time": 1714382480,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 854537,
       "num": 854537,
       "word": "赵丽颖林更新 粉丝联姻",
@@ -8329,14 +8345,6 @@
       "onboard_time": 1713786138,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 828202,
-      "num": 828202,
-      "word": "黑鸭黑鸭黑鸭",
-      "onboard_time": 1714382480,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 828005,
@@ -9921,14 +9929,6 @@
       "onboard_time": 1712795239,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 749962,
-      "num": 749962,
-      "word": "刘亦菲有在认真养她的小猫咪",
-      "onboard_time": 1714381819,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 749032,
@@ -11787,6 +11787,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 675750,
+      "num": 675750,
+      "word": "男子实名举报公司不让女性加夜班",
+      "onboard_time": 1714385239,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 675509,
       "num": 675509,
       "word": "餐馆老板让暑假工5元随便吃被欠五千餐费",
@@ -13217,6 +13225,14 @@
       "onboard_time": 1714356556,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 625647,
+      "num": 625647,
+      "word": "不该把中国妹都叫成熊猫妹",
+      "onboard_time": 1714383499,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 625389,
@@ -18643,14 +18659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 489480,
-      "num": 489480,
-      "word": "不该把中国妹都叫成熊猫妹",
-      "onboard_time": 1714383499,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 489377,
       "num": 489377,
       "word": "巴以冲突",
@@ -19073,6 +19081,14 @@
       "onboard_time": 1713767417,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482143,
+      "num": 482143,
+      "word": "melon曲线",
+      "onboard_time": 1714385239,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 482111,
@@ -23273,6 +23289,14 @@
       "onboard_time": 1714218618,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406406,
+      "num": 406406,
+      "word": "近5年中国国家元首首访欧洲",
+      "onboard_time": 1714385538,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 406380,
@@ -27947,14 +27971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 335723,
-      "num": 335723,
-      "word": "男子实名举报公司不让女性加夜班",
-      "onboard_time": 1714385239,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 335687,
       "num": 263570,
       "word": "经常熬夜的六个好处",
@@ -29529,14 +29545,6 @@
       "onboard_time": 1711984042,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 315162,
-      "num": 315162,
-      "word": "melon曲线",
-      "onboard_time": 1714385239,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 315082,
@@ -35827,6 +35835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 254535,
+      "num": 254535,
+      "word": "庄洁陈麦冬分手",
+      "onboard_time": 1714386080,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254505,
       "num": 254505,
       "word": "全场为周冠宇欢呼",
@@ -40875,14 +40891,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 224258,
-      "num": 224258,
-      "word": "近5年中国国家元首首访欧洲",
-      "onboard_time": 1714385538,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 224205,
       "num": 224205,
       "word": "NATURE宣布解散",
@@ -40969,6 +40977,14 @@
       "onboard_time": 1712571861,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223841,
+      "num": 223841,
+      "word": "肖战在日落黄昏时",
+      "onboard_time": 1714385838,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 223755,
@@ -41409,6 +41425,14 @@
       "onboard_time": 1712471240,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 221026,
+      "num": 221026,
+      "word": "沈磊 AI配音",
+      "onboard_time": 1714386258,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 221006,
@@ -43857,6 +43881,14 @@
       "onboard_time": 1713157339,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 209378,
+      "num": 207999,
+      "word": "赵露思下一部剧是现代剧",
+      "onboard_time": 1714385778,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 209363,
@@ -46603,6 +46635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201563,
+      "num": 201563,
+      "word": "赵又廷夫妇和高圆圆",
+      "onboard_time": 1714384939,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201540,
       "num": 201540,
       "word": "食物语数据",
@@ -47025,14 +47065,6 @@
       "onboard_time": 1713689958,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 200301,
-      "num": 200301,
-      "word": "肖战在日落黄昏时",
-      "onboard_time": 1714385838,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 200291,
@@ -48251,6 +48283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196903,
+      "num": 172158,
+      "word": "金秋天没镜头",
+      "onboard_time": 1714386378,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196893,
       "num": 196893,
       "word": "关雪抽烟",
@@ -49251,6 +49291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194308,
+      "num": 161275,
+      "word": "全圆佑徐明浩首cha",
+      "onboard_time": 1714386139,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194276,
       "num": 194276,
       "word": "张杰黑色渔夫帽",
@@ -49273,6 +49321,14 @@
       "onboard_time": 1713761599,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194195,
+      "num": 115627,
+      "word": "李耕耘一下吃了十个鲜花饼",
+      "onboard_time": 1714386618,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 194166,
@@ -54131,6 +54187,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 181418,
+      "num": 181418,
+      "word": "医生说肚脐是人体的薄弱之处",
+      "onboard_time": 1714384218,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 181412,
       "num": 181412,
       "word": "宋雨琦solo行程表",
@@ -56051,6 +56115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174827,
+      "num": 155657,
+      "word": "吴莫愁报名歌手",
+      "onboard_time": 1714385898,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174813,
       "num": 174813,
       "word": "德云社新剧定档",
@@ -57675,14 +57747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 169112,
-      "num": 169112,
-      "word": "赵露思下一部剧是现代剧",
-      "onboard_time": 1714385778,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169104,
       "num": 665114,
       "word": "这只大熊猫的糖分超标",
@@ -57913,14 +57977,6 @@
       "onboard_time": 1712719457,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168165,
-      "num": 168165,
-      "word": "赵又廷夫妇和高圆圆",
-      "onboard_time": 1714384939,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 168160,
@@ -58875,14 +58931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164858,
-      "num": 164858,
-      "word": "医生说肚脐是人体的薄弱之处",
-      "onboard_time": 1714384218,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 164802,
       "num": 164802,
       "word": "泽泽饭饭 断崖式分手",
@@ -59409,6 +59457,14 @@
       "onboard_time": 1712036959,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 163188,
+      "num": 159680,
+      "word": "难听",
+      "onboard_time": 1711929138,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 163162,
@@ -60433,14 +60489,6 @@
       "onboard_time": 1712372356,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159680,
-      "num": 159680,
-      "word": "难听",
-      "onboard_time": 1711929138,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 159678,
@@ -61587,6 +61635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 155967,
+      "num": 113320,
+      "word": "刘耀文空降",
+      "onboard_time": 1714386858,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155962,
       "num": 155962,
       "word": "HYBE旗下Label股份占比",
@@ -61712,14 +61768,6 @@
       "word": "辛芷蕾还是那么爱吃秦岚的醋",
       "onboard_time": 1713927977,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 155657,
-      "num": 155657,
-      "word": "吴莫愁报名歌手",
-      "onboard_time": 1714385898,
-      "rank": 43,
       "category": "综艺"
     },
     {
@@ -62465,6 +62513,14 @@
       "onboard_time": 1713188719,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153461,
+      "num": 110663,
+      "word": "IVE 中国元素",
+      "onboard_time": 1714386799,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 153410,
@@ -70707,6 +70763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129335,
+      "num": 482892,
+      "word": "现在浙江的咖啡这么卷了吗",
+      "onboard_time": 1714384759,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129228,
       "num": 129228,
       "word": "文韬小小少年路透",
@@ -71937,14 +72001,6 @@
       "onboard_time": 1712471358,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 125125,
-      "num": 409710,
-      "word": "现在浙江的咖啡这么卷了吗",
-      "onboard_time": 1714384759,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 125097,

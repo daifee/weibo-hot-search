@@ -1,6 +1,6 @@
 {
   "startTime": 1714321243337,
-  "endTime": 1714385978810,
+  "endTime": 1714386924974,
   "band_list": [
     {
       "raw_hot": 2599948,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1173286,
+      "num": 928512,
+      "word": "男子买约800克黄金店员报警",
+      "onboard_time": 1714384097,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1146430,
       "num": 1146430,
       "word": "将门毒后改名为将门独后",
@@ -155,20 +163,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1070907,
+      "num": 749962,
+      "word": "刘亦菲有在认真养她的小猫咪",
+      "onboard_time": 1714381819,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1065790,
       "num": 1065790,
       "word": "IVE回归",
       "onboard_time": 1714381579,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 928512,
-      "num": 928512,
-      "word": "男子买约800克黄金店员报警",
-      "onboard_time": 1714384097,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 917356,
@@ -211,20 +219,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 854795,
+      "num": 854795,
+      "word": "黑鸭黑鸭黑鸭",
+      "onboard_time": 1714382480,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 843951,
       "num": 843951,
       "word": "古天乐坚持十多年每天只吃一顿饭",
       "onboard_time": 1714351339,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 828202,
-      "num": 828202,
-      "word": "黑鸭黑鸭黑鸭",
-      "onboard_time": 1714382480,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 781382,
@@ -249,14 +257,6 @@
       "onboard_time": 1714378278,
       "rank": 18,
       "category": "军事,国内时政"
-    },
-    {
-      "raw_hot": 749962,
-      "num": 749962,
-      "word": "刘亦菲有在认真养她的小猫咪",
-      "onboard_time": 1714381819,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 739858,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 675750,
+      "num": 675750,
+      "word": "男子实名举报公司不让女性加夜班",
+      "onboard_time": 1714385239,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 646918,
       "num": 646918,
       "word": "眼泪女王结局 临时补拍",
@@ -377,6 +385,14 @@
       "onboard_time": 1714356556,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 625647,
+      "num": 625647,
+      "word": "不该把中国妹都叫成熊猫妹",
+      "onboard_time": 1714383499,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 624748,
@@ -515,14 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 489480,
-      "num": 489480,
-      "word": "不该把中国妹都叫成熊猫妹",
-      "onboard_time": 1714383499,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 488951,
       "num": 488951,
       "word": "罗翔受聘为山东大学兼职教授",
@@ -537,6 +545,14 @@
       "onboard_time": 1714360400,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 482143,
+      "num": 482143,
+      "word": "melon曲线",
+      "onboard_time": 1714385239,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 480603,
@@ -625,6 +641,14 @@
       "onboard_time": 1714350799,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406406,
+      "num": 406406,
+      "word": "近5年中国国家元首首访欧洲",
+      "onboard_time": 1714385538,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 405481,
@@ -739,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335723,
-      "num": 335723,
-      "word": "男子实名举报公司不让女性加夜班",
-      "onboard_time": 1714385239,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326470,
       "num": 326470,
       "word": "虞书欣美式女高",
@@ -777,14 +793,6 @@
       "onboard_time": 1714306888,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 315162,
-      "num": 315162,
-      "word": "melon曲线",
-      "onboard_time": 1714385239,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 312611,
@@ -979,6 +987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 254535,
+      "num": 254535,
+      "word": "庄洁陈麦冬分手",
+      "onboard_time": 1714386080,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253187,
       "num": 253187,
       "word": "大侦探",
@@ -1131,12 +1147,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 224258,
-      "num": 224258,
-      "word": "近5年中国国家元首首访欧洲",
-      "onboard_time": 1714385538,
-      "rank": 29,
-      "category": "国内时政"
+      "raw_hot": 223841,
+      "num": 223841,
+      "word": "肖战在日落黄昏时",
+      "onboard_time": 1714385838,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 222624,
@@ -1145,6 +1161,14 @@
       "onboard_time": 1714354159,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221026,
+      "num": 221026,
+      "word": "沈磊 AI配音",
+      "onboard_time": 1714386258,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 219752,
@@ -1227,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209378,
+      "num": 207999,
+      "word": "赵露思下一部剧是现代剧",
+      "onboard_time": 1714385778,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209147,
       "num": 209147,
       "word": "中国船舶拿下全球最大造船订单",
@@ -1299,20 +1331,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201563,
+      "num": 201563,
+      "word": "赵又廷夫妇和高圆圆",
+      "onboard_time": 1714384939,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201493,
       "num": 201493,
       "word": "林更新边江玫瑰故事再合作",
       "onboard_time": 1714371859,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200301,
-      "num": 200301,
-      "word": "肖战在日落黄昏时",
-      "onboard_time": 1714385838,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 199280,
@@ -1355,6 +1387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196903,
+      "num": 172158,
+      "word": "金秋天没镜头",
+      "onboard_time": 1714386378,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194588,
       "num": 531533,
       "word": "林更新改名了",
@@ -1371,12 +1411,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194308,
+      "num": 161275,
+      "word": "全圆佑徐明浩首cha",
+      "onboard_time": 1714386139,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194244,
       "num": 194244,
       "word": "跟唱凤凰传奇 把自己唱生气了",
       "onboard_time": 1714380319,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194195,
+      "num": 115627,
+      "word": "李耕耘一下吃了十个鲜花饼",
+      "onboard_time": 1714386618,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 193998,
@@ -1547,6 +1603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181418,
+      "num": 181418,
+      "word": "医生说肚脐是人体的薄弱之处",
+      "onboard_time": 1714384218,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 181270,
       "num": 181270,
       "word": "孙颖莎爷爷奶奶缘有多好",
@@ -1571,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174827,
+      "num": 155657,
+      "word": "吴莫愁报名歌手",
+      "onboard_time": 1714385898,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174552,
       "num": 174552,
       "word": "周雨彤 内娱管培生",
@@ -1592,22 +1664,6 @@
       "word": "王一博代言真维斯",
       "onboard_time": 1714358958,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 169112,
-      "num": 169112,
-      "word": "赵露思下一部剧是现代剧",
-      "onboard_time": 1714385778,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 168165,
-      "num": 168165,
-      "word": "赵又廷夫妇和高圆圆",
-      "onboard_time": 1714384939,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1643,12 +1699,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 164858,
-      "num": 164858,
-      "word": "医生说肚脐是人体的薄弱之处",
-      "onboard_time": 1714384218,
-      "rank": 38,
-      "category": "健康医疗"
+      "raw_hot": 163188,
+      "num": 113901,
+      "word": "难听",
+      "onboard_time": 1714386858,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 161484,
@@ -1723,12 +1779,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155657,
-      "num": 155657,
-      "word": "吴莫愁报名歌手",
-      "onboard_time": 1714385898,
+      "raw_hot": 155967,
+      "num": 113320,
+      "word": "刘耀文空降",
+      "onboard_time": 1714386858,
       "rank": 43,
-      "category": "综艺"
+      "category": "艺人"
     },
     {
       "raw_hot": 155490,
@@ -1737,6 +1793,14 @@
       "onboard_time": 1714326432,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 153461,
+      "num": 110663,
+      "word": "IVE 中国元素",
+      "onboard_time": 1714386799,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 152540,
@@ -1995,6 +2059,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 129335,
+      "num": 482892,
+      "word": "现在浙江的咖啡这么卷了吗",
+      "onboard_time": 1714384759,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 128843,
       "num": 128843,
       "word": "女子误将鸡尾酒当饮料酒驾被抓",
@@ -2025,14 +2097,6 @@
       "onboard_time": 1714369038,
       "rank": 47,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 125125,
-      "num": 409710,
-      "word": "现在浙江的咖啡这么卷了吗",
-      "onboard_time": 1714384759,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 124588,
