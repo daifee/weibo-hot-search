@@ -1,6 +1,6 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714425404518,
+  "endTime": 1714426455823,
   "band_list": [
     {
       "raw_hot": 1269205,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62736,
+      "num": 28789,
+      "word": "蓝莓会是下一个超级水果吗",
+      "onboard_time": 1714423029,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 60343,
       "num": 60343,
       "word": "双子座潇洒背后的完美主义",
@@ -475,14 +483,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 33219,
-      "num": 25630,
-      "word": "蓝莓会是下一个超级水果吗",
-      "onboard_time": 1714423029,
-      "rank": 20,
-      "category": "美食"
-    },
-    {
       "raw_hot": 25866,
       "num": 35083,
       "word": "背着善宰跑",
@@ -491,12 +491,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19453,
-      "num": 19453,
+      "raw_hot": 23175,
+      "num": 23175,
       "word": "张雨绮全绿开衩裙",
       "onboard_time": 1714423331,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 18726,
+      "num": 18726,
+      "word": "感觉是小时候倒霉习惯了",
+      "onboard_time": 1714420870,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 18718,
@@ -507,14 +515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 18242,
-      "num": 18242,
-      "word": "感觉是小时候倒霉习惯了",
-      "onboard_time": 1714420870,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 18007,
       "num": 19557,
       "word": "尹锡悦与李在明会谈",
@@ -523,8 +523,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 15095,
-      "num": 27699,
+      "raw_hot": 15603,
+      "num": 38761,
       "word": "4名医护出差途中救下一命",
       "onboard_time": 1714415652,
       "rank": 13,
