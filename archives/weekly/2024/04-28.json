@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714357696412,
+  "endTime": 1714358332968,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -73,6 +73,14 @@
       "onboard_time": 1714293738,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1547120,
+      "num": 388134,
+      "word": "字节跳动4人涉嫌刑事犯罪被立案",
+      "onboard_time": 1714356439,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 1500192,
@@ -185,14 +193,6 @@
       "onboard_time": 1714311439,
       "rank": 21,
       "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 1086964,
-      "num": 379873,
-      "word": "字节跳动4人涉嫌刑事犯罪被立案",
-      "onboard_time": 1714356439,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 1078160,
@@ -323,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 917356,
+      "num": 388076,
+      "word": "女子照片被烈士紧握网友称是其二姑奶奶",
+      "onboard_time": 1714354398,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 908895,
       "num": 821851,
       "word": "身上长这种疙瘩是HPV感染",
@@ -409,14 +417,6 @@
       "onboard_time": 1714305138,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 854211,
-      "num": 369463,
-      "word": "女子照片被烈士紧握网友称是其二姑奶奶",
-      "onboard_time": 1714354398,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 843951,
@@ -633,6 +633,14 @@
       "onboard_time": 1714301357,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 636021,
+      "num": 636021,
+      "word": "日元",
+      "onboard_time": 1714356377,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 629623,
@@ -956,7 +964,7 @@
     },
     {
       "raw_hot": 459468,
-      "num": 250120,
+      "num": 254184,
       "word": "五一1500元机票跳水至400",
       "onboard_time": 1714317978,
       "rank": 29,
@@ -993,14 +1001,6 @@
       "onboard_time": 1714345754,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 453872,
-      "num": 453872,
-      "word": "日元",
-      "onboard_time": 1714356377,
-      "rank": 5,
-      "category": "财经"
     },
     {
       "raw_hot": 449878,
@@ -1099,8 +1099,16 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 400703,
+      "num": 400703,
+      "word": "15元1个的菠萝蜜100元5个的榴莲",
+      "onboard_time": 1714356556,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 398923,
-      "num": 360092,
+      "num": 377345,
       "word": "睡眠不足的9大表现",
       "onboard_time": 1714353378,
       "rank": 15,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1714296738,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 389047,
+      "num": 389047,
+      "word": "库迪咖啡 张杰演唱会",
+      "onboard_time": 1714357639,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 388058,
@@ -1139,6 +1155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 386109,
+      "num": 376362,
+      "word": "眼泪女王结局 临时补拍",
+      "onboard_time": 1714357518,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384994,
       "num": 384994,
       "word": "无限超越班翻拍了肖战的戏",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1714302318,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 373167,
+      "num": 373167,
+      "word": "字节回应61人违法违纪被辞退",
+      "onboard_time": 1714357038,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 368303,
@@ -1355,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311527,
+      "num": 311527,
+      "word": "陈丽君上桌了",
+      "onboard_time": 1714354757,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311094,
       "num": 311094,
       "word": "BTS注水原文裁决书",
@@ -1395,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297023,
-      "num": 297023,
-      "word": "陈丽君上桌了",
-      "onboard_time": 1714354757,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 293518,
       "num": 293518,
       "word": "久坐1小时肌肉就开始出现结节",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1714294038,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 287468,
-      "num": 257225,
-      "word": "15元1个的菠萝蜜100元5个的榴莲",
-      "onboard_time": 1714356556,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 286638,
@@ -1561,14 +1585,6 @@
       "onboard_time": 1714349177,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 258699,
-      "num": 258699,
-      "word": "字节回应61人违法违纪被辞退",
-      "onboard_time": 1714357038,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 258060,
@@ -2027,6 +2043,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 206548,
+      "num": 206548,
+      "word": "上海公卫中心回应病毒学家实验室被强关",
+      "onboard_time": 1714356439,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206361,
       "num": 206361,
       "word": "大明湖畔的杨紫",
@@ -2227,14 +2251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196245,
-      "num": 196245,
-      "word": "上海公卫中心回应病毒学家实验室被强关",
-      "onboard_time": 1714356439,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196062,
       "num": 160543,
       "word": "郭碧婷 淡人",
@@ -2289,6 +2305,14 @@
       "onboard_time": 1714278080,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193145,
+      "num": 193145,
+      "word": "A股",
+      "onboard_time": 1714357817,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 193095,
@@ -2465,6 +2489,14 @@
       "onboard_time": 1714310898,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182575,
+      "num": 182575,
+      "word": "张雨绮把自己的礼服剪了",
+      "onboard_time": 1714357577,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 181889,
@@ -2707,14 +2739,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 163498,
-      "num": 163498,
-      "word": "眼泪女王结局 临时补拍",
-      "onboard_time": 1714357518,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163235,
       "num": 526212,
       "word": "阿姨寄珍藏停产玩偶满足陌生男孩愿望",
@@ -2809,6 +2833,14 @@
       "onboard_time": 1714268298,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157089,
+      "num": 157089,
+      "word": "突然发现自己好孤独",
+      "onboard_time": 1714357518,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 156834,
@@ -3091,12 +3123,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135901,
-      "num": 135901,
-      "word": "库迪咖啡 张杰演唱会",
-      "onboard_time": 1714357639,
-      "rank": 37,
-      "category": "演出"
+      "raw_hot": 136340,
+      "num": 136340,
+      "word": "灿烂的花园INFP的天堂",
+      "onboard_time": 1714357518,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 135550,
@@ -3137,6 +3169,14 @@
       "onboard_time": 1714270099,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131982,
+      "num": 131982,
+      "word": "问界M7车祸四大疑问",
+      "onboard_time": 1714358178,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131368,
@@ -3355,28 +3395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115759,
-      "num": 115759,
-      "word": "灿烂的花园INFP的天堂",
-      "onboard_time": 1714357518,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114913,
       "num": 114913,
       "word": "苗苗好甜",
       "onboard_time": 1714218618,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112670,
-      "num": 112670,
-      "word": "突然发现自己好孤独",
-      "onboard_time": 1714357518,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 112308,
@@ -3400,14 +3424,6 @@
       "word": "吴镇宇爱上孙丞潇了",
       "onboard_time": 1714225159,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 110307,
-      "num": 110307,
-      "word": "张雨绮把自己的礼服剪了",
-      "onboard_time": 1714357577,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -3513,6 +3529,14 @@
       "onboard_time": 1714229060,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100235,
+      "num": 100235,
+      "word": "步行者3比1雄鹿",
+      "onboard_time": 1714358118,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 99921,
