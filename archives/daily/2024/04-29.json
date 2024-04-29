@@ -1,6 +1,6 @@
 {
   "startTime": 1714321243337,
-  "endTime": 1714368992472,
+  "endTime": 1714371882804,
   "band_list": [
     {
       "raw_hot": 2599948,
@@ -43,6 +43,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1512025,
+      "num": 1512025,
+      "word": "长沙天黑了",
+      "onboard_time": 1714367779,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1429219,
+      "num": 480388,
+      "word": "金靖曾被舒奕橙三次取关",
+      "onboard_time": 1714371859,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1375688,
       "num": 1050566,
       "word": "我妻之死",
@@ -67,20 +83,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1101166,
+      "num": 1101166,
+      "word": "将门毒后改名为将门独后",
+      "onboard_time": 1714369817,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1081101,
+      "num": 305240,
+      "word": "请病假还走了两万的微信步数",
+      "onboard_time": 1714367179,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1072869,
       "num": 1072869,
       "word": "付鹏 享受生活",
       "onboard_time": 1714361600,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 936504,
-      "num": 305240,
-      "word": "请病假还走了两万的微信步数",
-      "onboard_time": 1714367179,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 917356,
@@ -115,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 857082,
-      "num": 857082,
-      "word": "长沙天黑了",
-      "onboard_time": 1714367779,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 856377,
       "num": 856377,
       "word": "都敏俊转世",
@@ -137,6 +153,14 @@
       "onboard_time": 1714351339,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 790571,
+      "num": 790571,
+      "word": "40多名护士遭集体解职",
+      "onboard_time": 1714369758,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 781382,
@@ -299,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552024,
+      "num": 552024,
+      "word": "肖战18秒换了6套造型",
+      "onboard_time": 1714369279,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 550167,
       "num": 550167,
       "word": "贺美琦曾是TFBOYS的MV女主",
@@ -331,12 +363,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 488055,
+      "num": 479992,
+      "word": "关晓彤想和张一山一起录节目",
+      "onboard_time": 1714371319,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484167,
       "num": 484167,
       "word": "马斯克确认特斯拉Model2明年上市",
       "onboard_time": 1714360400,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 480603,
+      "num": 480603,
+      "word": "教练Gemini回归",
+      "onboard_time": 1714368438,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 474176,
+      "num": 302591,
+      "word": "30岁你的存款达标了吗",
+      "onboard_time": 1714367359,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 459468,
@@ -371,20 +427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423450,
+      "num": 423450,
+      "word": "长沙暴雨",
+      "onboard_time": 1714369218,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416926,
       "num": 416926,
       "word": "客户买房后无法上学中介称我口误",
       "onboard_time": 1714350799,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 415094,
-      "num": 302591,
-      "word": "30岁你的存款达标了吗",
-      "onboard_time": 1714367359,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 405481,
@@ -433,6 +489,14 @@
       "onboard_time": 1714357038,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 371751,
+      "num": 278602,
+      "word": "癌症可能是省出来的",
+      "onboard_time": 1714370358,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 358842,
@@ -579,8 +643,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 277768,
-      "num": 277768,
+      "raw_hot": 278117,
+      "num": 278117,
       "word": "李现换发型了",
       "onboard_time": 1714367359,
       "rank": 33,
@@ -643,12 +707,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 253441,
-      "num": 253441,
-      "word": "教练Gemini回归",
-      "onboard_time": 1714368438,
-      "rank": 24,
-      "category": "电竞"
+      "raw_hot": 253832,
+      "num": 253832,
+      "word": "B太 青岛",
+      "onboard_time": 1714370297,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 253187,
@@ -731,8 +795,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227959,
-      "num": 227959,
+      "raw_hot": 229129,
+      "num": 229129,
       "word": "赵丽颖围炉煮茶随拍",
       "onboard_time": 1714368318,
       "rank": 28,
@@ -785,6 +849,14 @@
       "onboard_time": 1714302978,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212971,
+      "num": 212971,
+      "word": "黄轩被安保押着打卡天水麻辣烫",
+      "onboard_time": 1714368379,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 211847,
@@ -849,6 +921,14 @@
       "onboard_time": 1714366277,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199828,
+      "num": 199828,
+      "word": "林更新边江玫瑰故事再合作",
+      "onboard_time": 1714371859,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 199280,
@@ -923,12 +1003,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185361,
-      "num": 185361,
-      "word": "黄轩被安保押着打卡天水麻辣烫",
-      "onboard_time": 1714368379,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 185947,
+      "num": 185947,
+      "word": "肖战街头风穿搭",
+      "onboard_time": 1714370778,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184813,
@@ -979,6 +1059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183060,
+      "num": 183060,
+      "word": "最好坚持的减肥运动",
+      "onboard_time": 1714371077,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 182917,
       "num": 252192,
       "word": "雷军拿奖学金时发誓要1万倍奉还",
@@ -1019,6 +1107,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179585,
+      "num": 179585,
+      "word": "虞书欣美式女高",
+      "onboard_time": 1714371739,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174552,
+      "num": 174552,
+      "word": "周雨彤 内娱管培生",
+      "onboard_time": 1714369458,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172665,
       "num": 172665,
       "word": "爱德华兹隔扣杜兰特",
@@ -1057,6 +1161,22 @@
       "onboard_time": 1714353979,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 161484,
+      "num": 161484,
+      "word": "维和防暴队直播",
+      "onboard_time": 1714370538,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 159797,
+      "num": 159797,
+      "word": "何小鹏欢迎特斯拉FSD进中国",
+      "onboard_time": 1714371138,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 159692,
@@ -1115,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149326,
+      "num": 149326,
+      "word": "去见王源的路",
+      "onboard_time": 1714371498,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148620,
       "num": 148620,
       "word": "贾乃亮黄景瑜 既生亮何生瑜",
@@ -1153,6 +1281,14 @@
       "onboard_time": 1714304356,
       "rank": 18,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 139692,
+      "num": 139692,
+      "word": "张真源爱买菜还会砍价",
+      "onboard_time": 1714370538,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 139400,
@@ -1241,6 +1377,14 @@
       "onboard_time": 1714352240,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125718,
+      "num": 125718,
+      "word": "晋江崩了",
+      "onboard_time": 1714369038,
+      "rank": 47,
+      "category": "读书作家"
     },
     {
       "raw_hot": 124588,
@@ -1699,7 +1843,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 6693,
+      "raw_hot": 7959,
       "num": 997290,
       "word": "文化中国行",
       "onboard_time": 1713927617,

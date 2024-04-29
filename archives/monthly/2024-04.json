@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714368992472,
+  "endTime": 1714371882804,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2267,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1512025,
+      "num": 1512025,
+      "word": "长沙天黑了",
+      "onboard_time": 1714367779,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1510053,
       "num": 598876,
       "word": "关于女性生殖系统的一些知识",
@@ -2633,6 +2641,14 @@
       "onboard_time": 1714032859,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1429219,
+      "num": 480388,
+      "word": "金靖曾被舒奕橙三次取关",
+      "onboard_time": 1714371859,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1427507,
@@ -4739,6 +4755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1101166,
+      "num": 1101166,
+      "word": "将门毒后改名为将门独后",
+      "onboard_time": 1714369817,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1099991,
       "num": 529491,
       "word": "虐猫考生该懂的不是舆论而是敬畏生命",
@@ -4881,6 +4905,14 @@
       "onboard_time": 1712204359,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1081101,
+      "num": 305240,
+      "word": "请病假还走了两万的微信步数",
+      "onboard_time": 1714367179,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 1080550,
@@ -6659,14 +6691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 936504,
-      "num": 305240,
-      "word": "请病假还走了两万的微信步数",
-      "onboard_time": 1714367179,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 934805,
       "num": 934805,
       "word": "南昌公交事故司机当时心脏不适失去意识",
@@ -7704,14 +7728,6 @@
       "word": "高铁WiFi弹出骂人脏话国铁吉讯致歉",
       "onboard_time": 1714346596,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 857082,
-      "num": 857082,
-      "word": "长沙天黑了",
-      "onboard_time": 1714367779,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -8976,6 +8992,14 @@
       "word": "炮制秦朗丢作业丢掉了什么",
       "onboard_time": 1712981417,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 790571,
+      "num": 790571,
+      "word": "40多名护士遭集体解职",
+      "onboard_time": 1714369758,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -15659,6 +15683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 552024,
+      "num": 552024,
+      "word": "肖战18秒换了6套造型",
+      "onboard_time": 1714369279,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 551660,
       "num": 551660,
       "word": "被特斯拉毁约应届生回应",
@@ -18491,6 +18523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 488055,
+      "num": 479992,
+      "word": "关晓彤想和张一山一起录节目",
+      "onboard_time": 1714371319,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 487841,
       "num": 487841,
       "word": "赵雅芝工作室辟谣去世传言",
@@ -18971,6 +19011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 480603,
+      "num": 480603,
+      "word": "教练Gemini回归",
+      "onboard_time": 1714368438,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 480560,
       "num": 480560,
       "word": "外交部长王毅同伊朗外长通电话",
@@ -19272,6 +19320,14 @@
       "word": "爸爸安慰30岁失业女儿不要想太多",
       "onboard_time": 1712967976,
       "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 474176,
+      "num": 302591,
+      "word": "30岁你的存款达标了吗",
+      "onboard_time": 1714367359,
+      "rank": 22,
       "category": "情感"
     },
     {
@@ -22659,14 +22715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 415094,
-      "num": 302591,
-      "word": "30岁你的存款达标了吗",
-      "onboard_time": 1714367359,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 414453,
       "num": 414453,
       "word": "IU演唱会",
@@ -25161,6 +25209,14 @@
       "onboard_time": 1713258378,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371751,
+      "num": 278602,
+      "word": "癌症可能是省出来的",
+      "onboard_time": 1714370358,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 371750,
@@ -32803,6 +32859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278117,
+      "num": 278117,
+      "word": "李现换发型了",
+      "onboard_time": 1714367359,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 278026,
       "num": 278026,
       "word": "原神烬中歌",
@@ -32825,14 +32889,6 @@
       "onboard_time": 1712653040,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 277768,
-      "num": 277768,
-      "word": "李现换发型了",
-      "onboard_time": 1714367359,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 277757,
@@ -35587,6 +35643,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 253832,
+      "num": 253832,
+      "word": "B太 青岛",
+      "onboard_time": 1714370297,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 253725,
       "num": 253725,
       "word": "你好种地少年第二季",
@@ -35689,14 +35753,6 @@
       "onboard_time": 1713775637,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 253441,
-      "num": 253441,
-      "word": "教练Gemini回归",
-      "onboard_time": 1714368438,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 253432,
@@ -39659,6 +39715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 229129,
+      "num": 229129,
+      "word": "赵丽颖围炉煮茶随拍",
+      "onboard_time": 1714368318,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229122,
       "num": 229122,
       "word": "汕头震感",
@@ -39889,14 +39953,6 @@
       "onboard_time": 1712542997,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 227959,
-      "num": 227959,
-      "word": "赵丽颖围炉煮茶随拍",
-      "onboard_time": 1714368318,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 227834,
@@ -42569,6 +42625,14 @@
       "onboard_time": 1714307960,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 212971,
+      "num": 212971,
+      "word": "黄轩被安保押着打卡天水麻辣烫",
+      "onboard_time": 1714368379,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 212954,
@@ -46737,6 +46801,14 @@
       "onboard_time": 1713673458,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199828,
+      "num": 199828,
+      "word": "林更新边江玫瑰故事再合作",
+      "onboard_time": 1714371859,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 199768,
@@ -52051,6 +52123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185947,
+      "num": 185947,
+      "word": "肖战街头风穿搭",
+      "onboard_time": 1714370778,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185937,
       "num": 185937,
       "word": "Doinb给Tian加油",
@@ -52257,14 +52337,6 @@
       "onboard_time": 1713661098,
       "rank": 29,
       "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 185361,
-      "num": 185361,
-      "word": "黄轩被安保押着打卡天水麻辣烫",
-      "onboard_time": 1714368379,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 185299,
@@ -53081,6 +53153,14 @@
       "onboard_time": 1714051578,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 183060,
+      "num": 183060,
+      "word": "最好坚持的减肥运动",
+      "onboard_time": 1714371077,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 183055,
@@ -54129,6 +54209,14 @@
       "onboard_time": 1713778397,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179585,
+      "num": 179585,
+      "word": "虞书欣美式女高",
+      "onboard_time": 1714371739,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 179578,
@@ -55593,6 +55681,14 @@
       "onboard_time": 1712034561,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174552,
+      "num": 174552,
+      "word": "周雨彤 内娱管培生",
+      "onboard_time": 1714369458,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 174530,
@@ -59403,6 +59499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161484,
+      "num": 161484,
+      "word": "维和防暴队直播",
+      "onboard_time": 1714370538,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161444,
       "num": 161444,
       "word": "李逍遥竟然是拂容君",
@@ -59769,6 +59873,14 @@
       "onboard_time": 1712385676,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159797,
+      "num": 159797,
+      "word": "何小鹏欢迎特斯拉FSD进中国",
+      "onboard_time": 1714371138,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 159796,
@@ -63355,6 +63467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149326,
+      "num": 149326,
+      "word": "去见王源的路",
+      "onboard_time": 1714371498,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149307,
       "num": 149307,
       "word": "常吃这3类鸡蛋才真正有害",
@@ -66697,6 +66817,14 @@
       "onboard_time": 1712848759,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139692,
+      "num": 139692,
+      "word": "张真源爱买菜还会砍价",
+      "onboard_time": 1714370538,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 139680,
@@ -70961,6 +71089,14 @@
       "onboard_time": 1714113438,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 125718,
+      "num": 125718,
+      "word": "晋江崩了",
+      "onboard_time": 1714369038,
+      "rank": 47,
+      "category": "读书作家"
     },
     {
       "raw_hot": 125709,
