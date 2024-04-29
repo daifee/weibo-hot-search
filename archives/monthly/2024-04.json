@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714367968079,
+  "endTime": 1714368992472,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -6659,6 +6659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 936504,
+      "num": 305240,
+      "word": "请病假还走了两万的微信步数",
+      "onboard_time": 1714367179,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 934805,
       "num": 934805,
       "word": "南昌公交事故司机当时心脏不适失去意识",
@@ -7696,6 +7704,14 @@
       "word": "高铁WiFi弹出骂人脏话国铁吉讯致歉",
       "onboard_time": 1714346596,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 857082,
+      "num": 857082,
+      "word": "长沙天黑了",
+      "onboard_time": 1714367779,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -20019,14 +20035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 459822,
-      "num": 305240,
-      "word": "请病假还走了两万的微信步数",
-      "onboard_time": 1714367179,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 459810,
       "num": 458443,
       "word": "卢昱晓单肩黑裙",
@@ -22649,6 +22657,14 @@
       "onboard_time": 1712885540,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 415094,
+      "num": 302591,
+      "word": "30岁你的存款达标了吗",
+      "onboard_time": 1714367359,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 414453,
@@ -27555,14 +27571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 337764,
-      "num": 302591,
-      "word": "30岁你的存款达标了吗",
-      "onboard_time": 1714367359,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 337622,
       "num": 311781,
       "word": "同事房租2800还找我借钱",
@@ -28577,14 +28585,6 @@
       "onboard_time": 1712728759,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 324226,
-      "num": 324226,
-      "word": "长沙天黑了",
-      "onboard_time": 1714367779,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324065,
@@ -32827,6 +32827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277768,
+      "num": 277768,
+      "word": "李现换发型了",
+      "onboard_time": 1714367359,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 277757,
       "num": 227955,
       "word": "赵丽颖360度无死角",
@@ -35683,6 +35691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 253441,
+      "num": 253441,
+      "word": "教练Gemini回归",
+      "onboard_time": 1714368438,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 253432,
       "num": 253432,
       "word": "大连某舞厅发生放火案致1死3伤",
@@ -36339,6 +36355,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 249201,
+      "num": 249201,
+      "word": "马斯克自称是中国的粉丝",
+      "onboard_time": 1714364959,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 249190,
       "num": 249190,
       "word": "南昌冰雹预警",
@@ -36833,6 +36857,14 @@
       "onboard_time": 1713083778,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245894,
+      "num": 245894,
+      "word": "比尔失误",
+      "onboard_time": 1714368138,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 245890,
@@ -37753,14 +37785,6 @@
       "onboard_time": 1712471899,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 239951,
-      "num": 239951,
-      "word": "马斯克自称是中国的粉丝",
-      "onboard_time": 1714364959,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 239898,
@@ -39211,6 +39235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231573,
+      "num": 231573,
+      "word": "说唱歌手SikK吸毒后自首",
+      "onboard_time": 1714367718,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231533,
       "num": 231533,
       "word": "张艺兴韩国打歌Ending",
@@ -39857,6 +39889,14 @@
       "onboard_time": 1712542997,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227959,
+      "num": 227959,
+      "word": "赵丽颖围炉煮茶随拍",
+      "onboard_time": 1714368318,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 227834,
@@ -40947,14 +40987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221336,
-      "num": 221336,
-      "word": "说唱歌手SikK吸毒后自首",
-      "onboard_time": 1714367718,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221320,
       "num": 221320,
       "word": "官方辟谣女生因被造黄谣跳楼",
@@ -41337,6 +41369,14 @@
       "onboard_time": 1711964781,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 218956,
+      "num": 218956,
+      "word": "菊部金渐层",
+      "onboard_time": 1714367179,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 218945,
@@ -42249,14 +42289,6 @@
       "onboard_time": 1713011659,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214070,
-      "num": 194241,
-      "word": "菊部金渐层",
-      "onboard_time": 1714367179,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 213953,
@@ -46915,6 +46947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199280,
+      "num": 199280,
+      "word": "长大后发现不能深交的人",
+      "onboard_time": 1714367779,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199279,
       "num": 199279,
       "word": "化妆品小样里藏了多少猫腻",
@@ -47529,6 +47569,14 @@
       "onboard_time": 1712898020,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197459,
+      "num": 197459,
+      "word": "维和防暴队",
+      "onboard_time": 1714367898,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 197420,
@@ -52211,6 +52259,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 185361,
+      "num": 185361,
+      "word": "黄轩被安保押着打卡天水麻辣烫",
+      "onboard_time": 1714368379,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185299,
       "num": 185299,
       "word": "云南昆明发生森林火灾",
@@ -54209,14 +54265,6 @@
       "onboard_time": 1713534198,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178996,
-      "num": 178996,
-      "word": "李现换发型了",
-      "onboard_time": 1714367359,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 178990,
@@ -68467,14 +68515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134184,
-      "num": 134184,
-      "word": "长大后发现不能深交的人",
-      "onboard_time": 1714367779,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 134108,
       "num": 134108,
       "word": "周冠宇头盔印着上海地铁线路图",
@@ -68817,14 +68857,6 @@
       "onboard_time": 1714195878,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 133180,
-      "num": 133180,
-      "word": "维和防暴队",
-      "onboard_time": 1714367898,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 133160,
@@ -76411,6 +76443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93993,
+      "num": 220360,
+      "word": "日元汇率一度跌破160日元兑1美元",
+      "onboard_time": 1714365140,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 93972,
       "num": 60493,
       "word": "李逍遥 脆皮但能打",
@@ -77329,14 +77369,6 @@
       "onboard_time": 1711941500,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 81352,
-      "num": 173580,
-      "word": "日元汇率一度跌破160日元兑1美元",
-      "onboard_time": 1714365140,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 81334,

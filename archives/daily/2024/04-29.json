@@ -1,6 +1,6 @@
 {
   "startTime": 1714321243337,
-  "endTime": 1714367968079,
+  "endTime": 1714368992472,
   "band_list": [
     {
       "raw_hot": 2599948,
@@ -75,6 +75,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 936504,
+      "num": 305240,
+      "word": "请病假还走了两万的微信步数",
+      "onboard_time": 1714367179,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 917356,
       "num": 638643,
       "word": "女子照片被烈士紧握网友称是其二姑奶奶",
@@ -104,6 +112,14 @@
       "word": "高铁WiFi弹出骂人脏话国铁吉讯致歉",
       "onboard_time": 1714346596,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 857082,
+      "num": 857082,
+      "word": "长沙天黑了",
+      "onboard_time": 1714367779,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -323,14 +339,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 459822,
-      "num": 305240,
-      "word": "请病假还走了两万的微信步数",
-      "onboard_time": 1714367179,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 459468,
       "num": 254184,
       "word": "五一1500元机票跳水至400",
@@ -369,6 +377,14 @@
       "onboard_time": 1714350799,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415094,
+      "num": 302591,
+      "word": "30岁你的存款达标了吗",
+      "onboard_time": 1714367359,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 405481,
@@ -467,22 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 337764,
-      "num": 302591,
-      "word": "30岁你的存款达标了吗",
-      "onboard_time": 1714367359,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 324226,
-      "num": 324226,
-      "word": "长沙天黑了",
-      "onboard_time": 1714367779,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318127,
       "num": 245840,
       "word": "贾乃亮谎报年龄被黄景瑜踹",
@@ -579,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277768,
+      "num": 277768,
+      "word": "李现换发型了",
+      "onboard_time": 1714367359,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272264,
       "num": 272264,
       "word": "蔡磊妻子说天天愁有什么用",
@@ -635,6 +643,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 253441,
+      "num": 253441,
+      "word": "教练Gemini回归",
+      "onboard_time": 1714368438,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 253187,
       "num": 253187,
       "word": "大侦探",
@@ -651,12 +667,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 239951,
-      "num": 239951,
+      "raw_hot": 249201,
+      "num": 249201,
       "word": "马斯克自称是中国的粉丝",
       "onboard_time": 1714364959,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 245894,
+      "num": 245894,
+      "word": "比尔失误",
+      "onboard_time": 1714368138,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 239663,
@@ -683,6 +707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 231573,
+      "num": 231573,
+      "word": "说唱歌手SikK吸毒后自首",
+      "onboard_time": 1714367718,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230449,
       "num": 230449,
       "word": "眼泪女王 太癫了",
@@ -697,6 +729,14 @@
       "onboard_time": 1714309998,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227959,
+      "num": 227959,
+      "word": "赵丽颖围炉煮茶随拍",
+      "onboard_time": 1714368318,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 226804,
@@ -715,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221336,
-      "num": 221336,
-      "word": "说唱歌手SikK吸毒后自首",
-      "onboard_time": 1714367718,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219752,
       "num": 219752,
       "word": "乐乐茶联名鲁迅引争议",
@@ -739,8 +771,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 214070,
-      "num": 194241,
+      "raw_hot": 218956,
+      "num": 218956,
       "word": "菊部金渐层",
       "onboard_time": 1714367179,
       "rank": 30,
@@ -819,12 +851,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199280,
+      "num": 199280,
+      "word": "长大后发现不能深交的人",
+      "onboard_time": 1714367779,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198826,
       "num": 622041,
       "word": "明日方舟奈雪联动",
       "onboard_time": 1714364000,
       "rank": 19,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 197459,
+      "num": 197459,
+      "word": "维和防暴队",
+      "onboard_time": 1714367898,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 194428,
@@ -873,6 +921,14 @@
       "onboard_time": 1714316118,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185361,
+      "num": 185361,
+      "word": "黄轩被安保押着打卡天水麻辣烫",
+      "onboard_time": 1714368379,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 184813,
@@ -961,14 +1017,6 @@
       "onboard_time": 1714347436,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178996,
-      "num": 178996,
-      "word": "李现换发型了",
-      "onboard_time": 1714367359,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 172665,
@@ -1147,22 +1195,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 134184,
-      "num": 134184,
-      "word": "长大后发现不能深交的人",
-      "onboard_time": 1714367779,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 133180,
-      "num": 133180,
-      "word": "维和防暴队",
-      "onboard_time": 1714367898,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 132300,
       "num": 132300,
       "word": "童瑶露腰扯面",
@@ -1248,6 +1280,14 @@
       "word": "郭艾伦回来了",
       "onboard_time": 1714347735,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117067,
+      "num": 117067,
+      "word": "哈登发挥",
+      "onboard_time": 1714368978,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1379,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93993,
+      "num": 220360,
+      "word": "日元汇率一度跌破160日元兑1美元",
+      "onboard_time": 1714365140,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 92679,
       "num": 92679,
       "word": "当洗澡后穿上你给的短裤",
@@ -1433,14 +1481,6 @@
       "onboard_time": 1714301958,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 81352,
-      "num": 173580,
-      "word": "日元汇率一度跌破160日元兑1美元",
-      "onboard_time": 1714365140,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 78802,
@@ -1659,7 +1699,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 6169,
+      "raw_hot": 6693,
       "num": 997290,
       "word": "文化中国行",
       "onboard_time": 1713927617,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1714368992472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2200983,
+        "num": 2200983,
+        "word": "长沙天气",
+        "onboard_time": 1714366760,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934712,
+        "num": 934712,
+        "word": "付鹏 享受生活",
+        "onboard_time": 1714361600,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 6693,
+        "num": 882919,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1234284,
+        "num": 882565,
+        "word": "提出涨薪1000涨了500",
+        "onboard_time": 1714364299,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 857082,
+        "num": 857082,
+        "word": "长沙天黑了",
+        "onboard_time": 1714367779,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779072,
+        "num": 779072,
+        "word": "袁娅维3次发文怼浪姐",
+        "onboard_time": 1714359919,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 710463,
+        "num": 710463,
+        "word": "农村家庭因婚致贫返贫现象增加",
+        "onboard_time": 1714365739,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681740,
+        "num": 681740,
+        "word": "宋雨琦被自己小卡价格吓到",
+        "onboard_time": 1714365140,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 645324,
+        "num": 645324,
+        "word": "字节跳动4人涉嫌刑事犯罪被立案",
+        "onboard_time": 1714356439,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 193804,
+        "num": 553581,
+        "word": "相恋7年夫妻像热恋时一样恩爱",
+        "onboard_time": 1714364539,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119894,
+        "num": 525447,
+        "word": "明日方舟奈雪联动",
+        "onboard_time": 1714364000,
+        "rank": 10,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 1129946,
+        "num": 524402,
+        "word": "付鹏全网账号注销",
+        "onboard_time": 1714358658,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 522216,
+        "num": 522216,
+        "word": "我妻之死",
+        "onboard_time": 1714359677,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 444824,
+        "num": 444824,
+        "word": "眼泪女王结局 临时补拍",
+        "onboard_time": 1714357518,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356602,
+        "num": 356602,
+        "word": "凤凰传奇 抢票",
+        "onboard_time": 1714363399,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 343743,
+        "num": 343743,
+        "word": "贺美琦曾是TFBOYS的MV女主",
+        "onboard_time": 1714360400,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307261,
+        "num": 307261,
+        "word": "芍药",
+        "onboard_time": 1714361239,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277768,
+        "num": 277768,
+        "word": "李现换发型了",
+        "onboard_time": 1714367359,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271291,
+        "num": 271291,
+        "word": "夫妻婚后无夫妻之实离婚女方判还32万彩礼",
+        "onboard_time": 1714348937,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267878,
+        "num": 267878,
+        "word": "不是你太敏感这就是性骚扰",
+        "onboard_time": 1714366340,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 936504,
+        "num": 267853,
+        "word": "请病假还走了两万的微信步数",
+        "onboard_time": 1714367179,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 539952,
+        "num": 267827,
+        "word": "肚脐里的泥抠完真的会拉肚子吗",
+        "onboard_time": 1714358778,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 415094,
+        "num": 267812,
+        "word": "30岁你的存款达标了吗",
+        "onboard_time": 1714367359,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267781,
+        "num": 267781,
+        "word": "15元1个的菠萝蜜100元5个的榴莲",
+        "onboard_time": 1714356556,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 253441,
+        "num": 253441,
+        "word": "教练Gemini回归",
+        "onboard_time": 1714368438,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 249201,
+        "num": 249201,
+        "word": "马斯克自称是中国的粉丝",
+        "onboard_time": 1714364959,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 245894,
+        "num": 245894,
+        "word": "比尔失误",
+        "onboard_time": 1714368138,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231573,
+        "num": 231573,
+        "word": "说唱歌手SikK吸毒后自首",
+        "onboard_time": 1714367718,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227959,
+        "num": 227959,
+        "word": "赵丽颖围炉煮茶随拍",
+        "onboard_time": 1714368318,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93993,
+        "num": 220360,
+        "word": "日元汇率一度跌破160日元兑1美元",
+        "onboard_time": 1714365140,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 218956,
+        "num": 218956,
+        "word": "菊部金渐层",
+        "onboard_time": 1714367179,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218277,
+        "num": 218277,
+        "word": "马斯克确认特斯拉Model2明年上市",
+        "onboard_time": 1714360400,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 199280,
+        "num": 199280,
+        "word": "长大后发现不能深交的人",
+        "onboard_time": 1714367779,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197459,
+        "num": 197459,
+        "word": "维和防暴队",
+        "onboard_time": 1714367898,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190597,
+        "num": 190597,
+        "word": "女子照片被烈士紧握网友称是其二姑奶奶",
+        "onboard_time": 1714354398,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185361,
+        "num": 185361,
+        "word": "黄轩被安保押着打卡天水麻辣烫",
+        "onboard_time": 1714368379,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154268,
+        "num": 154268,
+        "word": "张杰太原 抢票",
+        "onboard_time": 1714366277,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153751,
+        "num": 153751,
+        "word": "朱丹孩子告诉她上浪姐不能哭",
+        "onboard_time": 1714365619,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148462,
+        "num": 148462,
+        "word": "都敏俊转世",
+        "onboard_time": 1714351279,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145326,
+        "num": 145326,
+        "word": "NBA年度最强上篮",
+        "onboard_time": 1714364180,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143557,
+        "num": 143557,
+        "word": "古天乐坚持十多年每天只吃一顿饭",
+        "onboard_time": 1714351339,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139060,
+        "num": 139060,
+        "word": "罗翔受聘为山东大学兼职教授",
+        "onboard_time": 1714360218,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138958,
+        "num": 138958,
+        "word": "日元",
+        "onboard_time": 1714356377,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136139,
+        "num": 136139,
+        "word": "肖战于米兰拍摄",
+        "onboard_time": 1714364778,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119080,
+        "num": 119080,
+        "word": "中国船舶拿下全球最大造船订单",
+        "onboard_time": 1714363698,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118427,
+        "num": 118427,
+        "word": "王源二巡还叫客厅狂欢",
+        "onboard_time": 1714362859,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117067,
+        "num": 117067,
+        "word": "哈登发挥",
+        "onboard_time": 1714368978,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115901,
+        "num": 115901,
+        "word": "时代少年团MV",
+        "onboard_time": 1714360039,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111658,
+        "num": 111658,
+        "word": "森林狼vs太阳",
+        "onboard_time": 1714364239,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110811,
+        "num": 110811,
+        "word": "当代年轻人的带饭文学",
+        "onboard_time": 1714367179,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#着力打造具有全球影响力的产业科技创新中心#"
+    }
+  }
+}
