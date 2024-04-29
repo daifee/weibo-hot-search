@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714429032994,
+  "endTime": 1714430046343,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -2283,6 +2283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 293111,
+      "num": 185411,
+      "word": "警方回应女子逛夜市裙子上现不明液体",
+      "onboard_time": 1714408154,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292690,
       "num": 166496,
       "word": "生理性喜欢和心理喜欢哪个重要",
@@ -2345,14 +2353,6 @@
       "onboard_time": 1714317439,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 280930,
-      "num": 185411,
-      "word": "警方回应女子逛夜市裙子上现不明液体",
-      "onboard_time": 1714408154,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280824,
@@ -4411,6 +4411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160991,
+      "num": 58240,
+      "word": "蓝莓会是下一个超级水果吗",
+      "onboard_time": 1714423029,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 160334,
       "num": 160334,
       "word": "花少1的友情",
@@ -4537,14 +4545,6 @@
       "onboard_time": 1714292358,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156578,
-      "num": 43166,
-      "word": "蓝莓会是下一个超级水果吗",
-      "onboard_time": 1714423029,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 156415,
@@ -6091,6 +6091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 42460,
+      "num": 42460,
+      "word": "张雨绮全绿开衩裙",
+      "onboard_time": 1714423331,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 41879,
       "num": 41879,
       "word": "中岛美嘉 音乐就是救命稻草",
@@ -6123,6 +6131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39383,
+      "num": 89258,
+      "word": "4名医护出差途中救下一命",
+      "onboard_time": 1714415652,
+      "rank": 13,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 38507,
       "num": 48908,
       "word": "天津泡泡岛音乐节",
@@ -6137,14 +6153,6 @@
       "onboard_time": 1714374677,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 35198,
-      "num": 35198,
-      "word": "张雨绮全绿开衩裙",
-      "onboard_time": 1714423331,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 34061,
@@ -6187,20 +6195,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 27753,
-      "num": 59250,
-      "word": "4名医护出差途中救下一命",
-      "onboard_time": 1714415652,
-      "rank": 13,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 25093,
       "num": 326287,
       "word": "日落了暂停工作十分钟",
       "onboard_time": 1714304056,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 23993,
+      "num": 31015,
+      "word": "尹锡悦与李在明会谈",
+      "onboard_time": 1714418771,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 23718,
+      "num": 31004,
+      "word": "被大章鱼缠满双脚",
+      "onboard_time": 1714418651,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 22894,
@@ -6219,14 +6235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20410,
-      "num": 26358,
-      "word": "尹锡悦与李在明会谈",
-      "onboard_time": 1714418771,
-      "rank": 47,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 19389,
       "num": 22527,
       "word": "白贤佑韩剧史上第一情圣",
@@ -6243,16 +6251,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 19240,
-      "num": 26349,
-      "word": "被大章鱼缠满双脚",
-      "onboard_time": 1714418651,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 18726,
-      "num": 26344,
+      "num": 30980,
       "word": "感觉是小时候倒霉习惯了",
       "onboard_time": 1714420870,
       "rank": 37,

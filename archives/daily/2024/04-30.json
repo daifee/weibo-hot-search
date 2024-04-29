@@ -1,6 +1,6 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714429032994,
+  "endTime": 1714430046343,
   "band_list": [
     {
       "raw_hot": 1269205,
@@ -75,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293111,
+      "num": 185411,
+      "word": "警方回应女子逛夜市裙子上现不明液体",
+      "onboard_time": 1714408154,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284026,
       "num": 284026,
       "word": "庄洁妈妈 窒息",
       "onboard_time": 1714398079,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 280930,
-      "num": 185411,
-      "word": "警方回应女子逛夜市裙子上现不明液体",
-      "onboard_time": 1714408154,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271121,
@@ -195,8 +195,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 156578,
-      "num": 43166,
+      "raw_hot": 160991,
+      "num": 58240,
       "word": "蓝莓会是下一个超级水果吗",
       "onboard_time": 1714423029,
       "rank": 20,
@@ -355,20 +355,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 96622,
+      "num": 121792,
+      "word": "游客反映董宇辉博物院直播耽误参观行程",
+      "onboard_time": 1714394079,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 91724,
       "num": 94372,
       "word": "四月有七个周一",
       "onboard_time": 1714408456,
       "rank": 49,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 88661,
-      "num": 121792,
-      "word": "游客反映董宇辉博物院直播耽误参观行程",
-      "onboard_time": 1714394079,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 87448,
@@ -467,6 +467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 42460,
+      "num": 42460,
+      "word": "张雨绮全绿开衩裙",
+      "onboard_time": 1714423331,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 41642,
       "num": 41642,
       "word": "电影维和防暴队北京首映礼",
@@ -483,16 +491,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 35198,
-      "num": 35198,
-      "word": "张雨绮全绿开衩裙",
-      "onboard_time": 1714423331,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 27753,
-      "num": 59250,
+      "raw_hot": 39383,
+      "num": 89258,
       "word": "4名医护出差途中救下一命",
       "onboard_time": 1714415652,
       "rank": 13,
@@ -507,16 +507,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20410,
-      "num": 26358,
+      "raw_hot": 23993,
+      "num": 31015,
       "word": "尹锡悦与李在明会谈",
       "onboard_time": 1714418771,
       "rank": 47,
       "category": "国外时政"
     },
     {
-      "raw_hot": 19240,
-      "num": 26349,
+      "raw_hot": 23718,
+      "num": 31004,
       "word": "被大章鱼缠满双脚",
       "onboard_time": 1714418651,
       "rank": 44,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 18726,
-      "num": 26344,
+      "num": 30980,
       "word": "感觉是小时候倒霉习惯了",
       "onboard_time": 1714420870,
       "rank": 37,
@@ -539,7 +539,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2344,
+      "raw_hot": 2595,
       "num": 212639,
       "word": "文化中国行",
       "onboard_time": 1713927617,
