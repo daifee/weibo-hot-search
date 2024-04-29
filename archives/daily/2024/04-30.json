@@ -1,10 +1,10 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714407740815,
+  "endTime": 1714408617430,
   "band_list": [
     {
       "raw_hot": 1269205,
-      "num": 178460,
+      "num": 202753,
       "word": "徐艺洋是真不想给黄子韬名分",
       "onboard_time": 1714377679,
       "rank": 10,
@@ -19,28 +19,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 675820,
-      "num": 675820,
-      "word": "南京胖哥被初诊为PTSD",
-      "onboard_time": 1714397241,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 649006,
-      "num": 178158,
+      "raw_hot": 704748,
+      "num": 201181,
       "word": "猫肉被整只烧烤售卖",
       "onboard_time": 1714397659,
       "rank": 11,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 534665,
+      "raw_hot": 687112,
       "num": 534665,
       "word": "配娱癫公",
       "onboard_time": 1714406239,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 675820,
+      "num": 675820,
+      "word": "南京胖哥被初诊为PTSD",
+      "onboard_time": 1714397241,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435983,
@@ -75,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271121,
+      "num": 199483,
+      "word": "官方回应广东一外卖员雨中落水身亡",
+      "onboard_time": 1714404859,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264897,
       "num": 177888,
       "word": "南宁三中",
@@ -83,8 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233037,
-      "num": 177654,
+      "raw_hot": 258896,
+      "num": 196581,
       "word": "辛芷蕾工作室关闭后援会账号",
       "onboard_time": 1714395799,
       "rank": 13,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 229126,
-      "num": 177419,
+      "num": 195059,
       "word": "沈景病",
       "onboard_time": 1714397599,
       "rank": 14,
@@ -100,18 +108,18 @@
     },
     {
       "raw_hot": 227654,
-      "num": 177246,
+      "num": 194009,
       "word": "苗苗不愧是北舞严选",
       "onboard_time": 1714395978,
       "rank": 15,
       "category": "综艺"
     },
     {
-      "raw_hot": 217744,
-      "num": 176860,
-      "word": "官方回应广东一外卖员雨中落水身亡",
-      "onboard_time": 1714404859,
-      "rank": 16,
+      "raw_hot": 205799,
+      "num": 205799,
+      "word": "厦门免费宿舍已有1千多人申请",
+      "onboard_time": 1714407018,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -179,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146900,
+      "num": 146900,
+      "word": "中老年人患带状疱疹有多痛苦",
+      "onboard_time": 1714406419,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145517,
       "num": 167154,
       "word": "新疆地震",
@@ -243,14 +259,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 126336,
-      "num": 155314,
-      "word": "厦门免费宿舍已有1千多人申请",
-      "onboard_time": 1714407018,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125483,
       "num": 125483,
       "word": "Jennie那英",
@@ -273,14 +281,6 @@
       "onboard_time": 1714384097,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120595,
-      "num": 144136,
-      "word": "中老年人患带状疱疹有多痛苦",
-      "onboard_time": 1714406419,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 120276,
@@ -356,11 +356,19 @@
     },
     {
       "raw_hot": 77142,
-      "num": 178789,
+      "num": 203846,
       "word": "你的五一搭子是谁",
       "onboard_time": 1714387398,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76954,
+      "num": 101830,
+      "word": "警方回应女子逛夜市裙子上现不明液体",
+      "onboard_time": 1714408154,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73966,
@@ -369,6 +377,14 @@
       "onboard_time": 1714400781,
       "rank": 46,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 72931,
+      "num": 94391,
+      "word": "林更新苗苗同框",
+      "onboard_time": 1714395918,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 69711,
@@ -401,6 +417,14 @@
       "onboard_time": 1714384218,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 52860,
+      "num": 94372,
+      "word": "四月有七个周一",
+      "onboard_time": 1714408456,
+      "rank": 49,
+      "category": "社会议题"
     }
   ],
   "hotgov_list": [

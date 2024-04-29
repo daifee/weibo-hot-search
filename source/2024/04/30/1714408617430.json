@@ -1,0 +1,410 @@
+{
+  "runTime": 1714408617430,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 688531,
+        "num": 688531,
+        "word": "刘宇宁自曝录hi6受伤",
+        "onboard_time": 1714404260,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538640,
+        "num": 538640,
+        "word": "南京胖哥被初诊为PTSD",
+        "onboard_time": 1714397241,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53499,
+        "num": 434298,
+        "word": "五一公路出行将呈现五大特点",
+        "onboard_time": 1714396999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687112,
+        "num": 412718,
+        "word": "配娱癫公",
+        "onboard_time": 1714406239,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353189,
+        "num": 353189,
+        "word": "朴志效租房者预告",
+        "onboard_time": 1714399402,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315633,
+        "num": 315633,
+        "word": "CCTV综艺放了赵丽颖簪花照",
+        "onboard_time": 1714399821,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313034,
+        "num": 313034,
+        "word": "女子直播时被失散32年的父亲认出",
+        "onboard_time": 1714392078,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238172,
+        "num": 238172,
+        "word": "庄洁妈妈 窒息",
+        "onboard_time": 1714398079,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205799,
+        "num": 205799,
+        "word": "厦门免费宿舍已有1千多人申请",
+        "onboard_time": 1714407018,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66180,
+        "num": 203846,
+        "word": "你的五一搭子是谁",
+        "onboard_time": 1714387398,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 961020,
+        "num": 202753,
+        "word": "徐艺洋是真不想给黄子韬名分",
+        "onboard_time": 1714377679,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704748,
+        "num": 201181,
+        "word": "猫肉被整只烧烤售卖",
+        "onboard_time": 1714397659,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271121,
+        "num": 199483,
+        "word": "官方回应广东一外卖员雨中落水身亡",
+        "onboard_time": 1714404859,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258896,
+        "num": 196581,
+        "word": "辛芷蕾工作室关闭后援会账号",
+        "onboard_time": 1714395799,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212200,
+        "num": 195059,
+        "word": "沈景病",
+        "onboard_time": 1714397599,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194009,
+        "num": 194009,
+        "word": "苗苗不愧是北舞严选",
+        "onboard_time": 1714395978,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165994,
+        "num": 165994,
+        "word": "李明德还是没学会人情世故",
+        "onboard_time": 1714402222,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146900,
+        "num": 146900,
+        "word": "中老年人患带状疱疹有多痛苦",
+        "onboard_time": 1714406419,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140354,
+        "num": 140354,
+        "word": "拖米 es",
+        "onboard_time": 1714403542,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124050,
+        "num": 135489,
+        "word": "长期久坐或致男性不育",
+        "onboard_time": 1714397840,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150471,
+        "num": 135427,
+        "word": "存多少钱能用利息生活",
+        "onboard_time": 1714399281,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134622,
+        "num": 134622,
+        "word": "肖战晚宴穿搭",
+        "onboard_time": 1714397719,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 132182,
+        "num": 132182,
+        "word": "露水情缘 比纸都薄",
+        "onboard_time": 1714395918,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118273,
+        "num": 118273,
+        "word": "新疆地震",
+        "onboard_time": 1714398622,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111035,
+        "num": 111035,
+        "word": "为什么肥胖纹有红色和白色两种",
+        "onboard_time": 1714400961,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131209,
+        "num": 110671,
+        "word": "杨幂制服卷发",
+        "onboard_time": 1714402581,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127984,
+        "num": 110419,
+        "word": "陈翔自荐报名歌手2024",
+        "onboard_time": 1714392259,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122534,
+        "num": 110118,
+        "word": "配音沪圈",
+        "onboard_time": 1714389498,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120850,
+        "num": 109728,
+        "word": "王一博让赵华为站C位",
+        "onboard_time": 1714403183,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99282,
+        "num": 109144,
+        "word": "别高估一年别低估十年",
+        "onboard_time": 1714404081,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119867,
+        "num": 108666,
+        "word": "春色寄情人看脸红了",
+        "onboard_time": 1714400002,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119743,
+        "num": 108574,
+        "word": "书卷一梦将官宣",
+        "onboard_time": 1714404859,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98951,
+        "num": 107890,
+        "word": "男子买约800克黄金店员报警",
+        "onboard_time": 1714384097,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233203,
+        "num": 107753,
+        "word": "南宁三中",
+        "onboard_time": 1714388839,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86546,
+        "num": 107176,
+        "word": "原来是因为头发少所以油得快",
+        "onboard_time": 1714395318,
+        "rank": 34,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 112753,
+        "num": 106771,
+        "word": "IVE空降",
+        "onboard_time": 1714387698,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106684,
+        "num": 106684,
+        "word": "朱莉回应离婚",
+        "onboard_time": 1714390037,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82134,
+        "num": 102020,
+        "word": "五一不回家也不旅游还能干什么",
+        "onboard_time": 1714398198,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80133,
+        "num": 101833,
+        "word": "游客反映董宇辉博物院直播耽误参观行程",
+        "onboard_time": 1714394079,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 76954,
+        "num": 101830,
+        "word": "警方回应女子逛夜市裙子上现不明液体",
+        "onboard_time": 1714408154,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101829,
+        "num": 101829,
+        "word": "Jennie那英",
+        "onboard_time": 1714376238,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101400,
+        "num": 101400,
+        "word": "Gucci把肖战写入简介",
+        "onboard_time": 1714388898,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 101209,
+        "num": 101209,
+        "word": "背着善宰跑第七集",
+        "onboard_time": 1714403481,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88746,
+        "num": 97058,
+        "word": "初中女生被多人欺负殴打8人被行拘",
+        "onboard_time": 1714394899,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94396,
+        "num": 94396,
+        "word": "我不善良遇强则强",
+        "onboard_time": 1714407077,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78257,
+        "num": 94395,
+        "word": "田曦薇蓝色花钿",
+        "onboard_time": 1714402761,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72931,
+        "num": 94391,
+        "word": "林更新苗苗同框",
+        "onboard_time": 1714395918,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63189,
+        "num": 94380,
+        "word": "别让旗袍限制了我们的运动",
+        "onboard_time": 1714399281,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58957,
+        "num": 94378,
+        "word": "加一箱92号汽油少花2.5元",
+        "onboard_time": 1714400781,
+        "rank": 48,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 52860,
+        "num": 94372,
+        "word": "四月有七个周一",
+        "onboard_time": 1714408456,
+        "rank": 49,
+        "category": "社会议题"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将访问法国塞尔维亚匈牙利#"
+    }
+  }
+}
