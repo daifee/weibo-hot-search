@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714358332968,
+  "endTime": 1714360803614,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -33,6 +33,14 @@
       "onboard_time": 1714295658,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2090192,
+      "num": 2090192,
+      "word": "付鹏全网账号注销",
+      "onboard_time": 1714358658,
+      "rank": 0,
+      "category": "网红"
     },
     {
       "raw_hot": 2050489,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1547120,
-      "num": 388134,
+      "num": 468969,
       "word": "字节跳动4人涉嫌刑事犯罪被立案",
       "onboard_time": 1714356439,
       "rank": 10,
@@ -235,6 +243,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1036740,
+      "num": 1036740,
+      "word": "袁娅维3次发文怼浪姐",
+      "onboard_time": 1714359919,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1033458,
       "num": 569017,
       "word": "何炅的伞撑了一个又一个人",
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 917356,
-      "num": 388076,
+      "num": 638643,
       "word": "女子照片被烈士紧握网友称是其二姑奶奶",
       "onboard_time": 1714354398,
       "rank": 44,
@@ -499,6 +515,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 733546,
+      "num": 284263,
+      "word": "肚脐里的泥抠完真的会拉肚子吗",
+      "onboard_time": 1714358778,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 731033,
       "num": 731033,
       "word": "布林肯在中国遭BBC女记者连怼",
@@ -627,6 +651,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 646918,
+      "num": 646918,
+      "word": "眼泪女王结局 临时补拍",
+      "onboard_time": 1714357518,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 645805,
       "num": 645805,
       "word": "时代少年团MV有女主",
@@ -659,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 625671,
+      "num": 625671,
+      "word": "15元1个的菠萝蜜100元5个的榴莲",
+      "onboard_time": 1714356556,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 614834,
       "num": 527859,
       "word": "问界M7追尾大货车起火",
@@ -673,6 +713,14 @@
       "onboard_time": 1714299437,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 604140,
+      "num": 604140,
+      "word": "我妻之死",
+      "onboard_time": 1714359677,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 603585,
@@ -760,6 +808,14 @@
       "word": "00后男友为女友定制赶海计划",
       "onboard_time": 1714352539,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 554453,
+      "num": 425774,
+      "word": "问界M7车祸四大疑问",
+      "onboard_time": 1714358178,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1051,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 435099,
+      "num": 435099,
+      "word": "库迪咖啡 张杰演唱会",
+      "onboard_time": 1714357639,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 424233,
       "num": 424233,
       "word": "问界M7追尾的养护车当时正浇水作业",
@@ -1099,12 +1163,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 400703,
-      "num": 400703,
-      "word": "15元1个的菠萝蜜100元5个的榴莲",
-      "onboard_time": 1714356556,
-      "rank": 20,
-      "category": "美食"
+      "raw_hot": 410835,
+      "num": 410835,
+      "word": "贺美琦曾是TFBOYS的MV女主",
+      "onboard_time": 1714360400,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 398923,
@@ -1121,14 +1185,6 @@
       "onboard_time": 1714296738,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 389047,
-      "num": 389047,
-      "word": "库迪咖啡 张杰演唱会",
-      "onboard_time": 1714357639,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 388058,
@@ -1153,14 +1209,6 @@
       "onboard_time": 1714206618,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 386109,
-      "num": 376362,
-      "word": "眼泪女王结局 临时补拍",
-      "onboard_time": 1714357518,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 384994,
@@ -1467,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284946,
+      "num": 284946,
+      "word": "GUCCI肖战地广",
+      "onboard_time": 1714359017,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 283302,
       "num": 283302,
       "word": "我未杀伯仁 伯仁却因我而死",
@@ -1561,6 +1617,14 @@
       "onboard_time": 1714295539,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268444,
+      "num": 268444,
+      "word": "A股",
+      "onboard_time": 1714357817,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 267973,
@@ -1731,6 +1795,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242630,
+      "num": 242630,
+      "word": "大侦探",
+      "onboard_time": 1714359620,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 242425,
+      "num": 242425,
+      "word": "张小斐晒照祝贾玲生日快乐",
+      "onboard_time": 1714360039,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242004,
       "num": 242004,
       "word": "老头杯",
@@ -1835,6 +1915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226939,
+      "num": 226939,
+      "word": "罗翔受聘为山东大学兼职教授",
+      "onboard_time": 1714360218,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 226804,
       "num": 226804,
       "word": "亲人的离世不是一时的暴雨",
@@ -1849,6 +1937,14 @@
       "onboard_time": 1714268659,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 224740,
+      "num": 224740,
+      "word": "闪耀暖暖绝美婚纱",
+      "onboard_time": 1714359919,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 224032,
@@ -2307,14 +2403,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 193145,
-      "num": 193145,
-      "word": "A股",
-      "onboard_time": 1714357817,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 193095,
       "num": 193095,
       "word": "重庆燃气表只有极个别表失准",
@@ -2393,6 +2481,14 @@
       "onboard_time": 1714207338,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187552,
+      "num": 187552,
+      "word": "时代少年团MV",
+      "onboard_time": 1714360039,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 185820,
@@ -2691,6 +2787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169817,
+      "num": 169817,
+      "word": "王一博代言真维斯",
+      "onboard_time": 1714358958,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169430,
       "num": 169430,
       "word": "朱洁静抢票失败",
@@ -2857,6 +2961,14 @@
       "onboard_time": 1714346534,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155981,
+      "num": 155981,
+      "word": "马斯克确认特斯拉Model2明年上市",
+      "onboard_time": 1714360400,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 155490,
@@ -3043,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144070,
+      "num": 144070,
+      "word": "时代少年团抒情新歌",
+      "onboard_time": 1714359258,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143406,
       "num": 143406,
       "word": "周杰伦兰亭序的杀伤力",
@@ -3169,14 +3289,6 @@
       "onboard_time": 1714270099,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131982,
-      "num": 131982,
-      "word": "问界M7车祸四大疑问",
-      "onboard_time": 1714358178,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131368,
@@ -3411,6 +3523,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112017,
+      "num": 112017,
+      "word": "范丞丞cypher好燃",
+      "onboard_time": 1714358838,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111359,
+      "num": 111359,
+      "word": "边牧我的狗生易如反掌",
+      "onboard_time": 1714359258,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111106,
       "num": 111106,
       "word": "AllKpop爆料hybe",
@@ -3609,6 +3737,14 @@
       "onboard_time": 1714291219,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 91132,
+      "num": 292495,
+      "word": "被Pura70的颜值圈粉了",
+      "onboard_time": 1714359919,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 90454,

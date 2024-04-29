@@ -1,7 +1,15 @@
 {
   "startTime": 1714321243337,
-  "endTime": 1714358332968,
+  "endTime": 1714360803614,
   "band_list": [
+    {
+      "raw_hot": 2090192,
+      "num": 2090192,
+      "word": "付鹏全网账号注销",
+      "onboard_time": 1714358658,
+      "rank": 0,
+      "category": "网红"
+    },
     {
       "raw_hot": 1805773,
       "num": 1805773,
@@ -20,15 +28,23 @@
     },
     {
       "raw_hot": 1547120,
-      "num": 388134,
+      "num": 468969,
       "word": "字节跳动4人涉嫌刑事犯罪被立案",
       "onboard_time": 1714356439,
       "rank": 10,
       "category": "互联网"
     },
     {
+      "raw_hot": 1036740,
+      "num": 1036740,
+      "word": "袁娅维3次发文怼浪姐",
+      "onboard_time": 1714359919,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 917356,
-      "num": 388076,
+      "num": 638643,
       "word": "女子照片被烈士紧握网友称是其二姑奶奶",
       "onboard_time": 1714354398,
       "rank": 44,
@@ -72,6 +88,14 @@
       "word": "居然还有女用避孕套",
       "onboard_time": 1714295658,
       "rank": 10,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 733546,
+      "num": 284263,
+      "word": "肚脐里的泥抠完真的会拉肚子吗",
+      "onboard_time": 1714358778,
+      "rank": 20,
       "category": "健康医疗"
     },
     {
@@ -123,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646918,
+      "num": 646918,
+      "word": "眼泪女王结局 临时补拍",
+      "onboard_time": 1714357518,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 645447,
       "num": 476828,
       "word": "张颂文回应砍价被吐槽穷酸",
@@ -137,6 +169,22 @@
       "onboard_time": 1714356377,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 625671,
+      "num": 625671,
+      "word": "15元1个的菠萝蜜100元5个的榴莲",
+      "onboard_time": 1714356556,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 604140,
+      "num": 604140,
+      "word": "我妻之死",
+      "onboard_time": 1714359677,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 594169,
@@ -168,6 +216,14 @@
       "word": "00后男友为女友定制赶海计划",
       "onboard_time": 1714352539,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 554453,
+      "num": 425774,
+      "word": "问界M7车祸四大疑问",
+      "onboard_time": 1714358178,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -203,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 435099,
+      "num": 435099,
+      "word": "库迪咖啡 张杰演唱会",
+      "onboard_time": 1714357639,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 424233,
       "num": 424233,
       "word": "问界M7追尾的养护车当时正浇水作业",
@@ -219,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400703,
-      "num": 400703,
-      "word": "15元1个的菠萝蜜100元5个的榴莲",
-      "onboard_time": 1714356556,
-      "rank": 20,
-      "category": "美食"
+      "raw_hot": 410835,
+      "num": 410835,
+      "word": "贺美琦曾是TFBOYS的MV女主",
+      "onboard_time": 1714360400,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 398923,
@@ -235,28 +299,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 389047,
-      "num": 389047,
-      "word": "库迪咖啡 张杰演唱会",
-      "onboard_time": 1714357639,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 388058,
       "num": 388058,
       "word": "本周狗屎运最旺的星座",
       "onboard_time": 1714347375,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 386109,
-      "num": 376362,
-      "word": "眼泪女王结局 临时补拍",
-      "onboard_time": 1714357518,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 384818,
@@ -371,6 +419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 284946,
+      "num": 284946,
+      "word": "GUCCI肖战地广",
+      "onboard_time": 1714359017,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 282593,
       "num": 241945,
       "word": "白桃星座",
@@ -393,6 +449,14 @@
       "onboard_time": 1714341912,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268444,
+      "num": 268444,
+      "word": "A股",
+      "onboard_time": 1714357817,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 262317,
@@ -435,6 +499,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 242630,
+      "num": 242630,
+      "word": "大侦探",
+      "onboard_time": 1714359620,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 242425,
+      "num": 242425,
+      "word": "张小斐晒照祝贾玲生日快乐",
+      "onboard_time": 1714360039,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239663,
       "num": 239663,
       "word": "抢到了",
@@ -467,12 +547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226939,
+      "num": 226939,
+      "word": "罗翔受聘为山东大学兼职教授",
+      "onboard_time": 1714360218,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 226804,
       "num": 226804,
       "word": "亲人的离世不是一时的暴雨",
       "onboard_time": 1714351339,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224740,
+      "num": 224740,
+      "word": "闪耀暖暖绝美婚纱",
+      "onboard_time": 1714359919,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 222624,
@@ -547,20 +643,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193145,
-      "num": 193145,
-      "word": "A股",
-      "onboard_time": 1714357817,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 188645,
       "num": 188645,
       "word": "一图看懂5月出入境新政",
       "onboard_time": 1714350259,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 187552,
+      "num": 187552,
+      "word": "时代少年团MV",
+      "onboard_time": 1714360039,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 186162,
@@ -635,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169817,
+      "num": 169817,
+      "word": "王一博代言真维斯",
+      "onboard_time": 1714358958,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167624,
       "num": 167624,
       "word": "奶奶们围成人墙保护3岁走失娃",
@@ -683,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155981,
+      "num": 155981,
+      "word": "马斯克确认特斯拉Model2明年上市",
+      "onboard_time": 1714360400,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 155490,
       "num": 587789,
       "word": "男子曾获老师无偿资助回母校捐款50万",
@@ -697,6 +809,14 @@
       "onboard_time": 1714353979,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144070,
+      "num": 144070,
+      "word": "时代少年团抒情新歌",
+      "onboard_time": 1714359258,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 141362,
@@ -745,14 +865,6 @@
       "onboard_time": 1714350738,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131982,
-      "num": 131982,
-      "word": "问界M7车祸四大疑问",
-      "onboard_time": 1714358178,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131442,
@@ -825,6 +937,22 @@
       "onboard_time": 1714355237,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112017,
+      "num": 112017,
+      "word": "范丞丞cypher好燃",
+      "onboard_time": 1714358838,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111359,
+      "num": 111359,
+      "word": "边牧我的狗生易如反掌",
+      "onboard_time": 1714359258,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 108811,
@@ -929,6 +1057,14 @@
       "onboard_time": 1714323255,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 91132,
+      "num": 292495,
+      "word": "被Pura70的颜值圈粉了",
+      "onboard_time": 1714359919,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 88797,
