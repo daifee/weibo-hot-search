@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714354565625,
+  "endTime": 1714357696412,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -185,6 +185,14 @@
       "onboard_time": 1714311439,
       "rank": 21,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 1086964,
+      "num": 379873,
+      "word": "字节跳动4人涉嫌刑事犯罪被立案",
+      "onboard_time": 1714356439,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 1078160,
@@ -387,12 +395,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 856377,
+      "num": 856377,
+      "word": "都敏俊转世",
+      "onboard_time": 1714351279,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 855696,
       "num": 855696,
       "word": "时代少年团女主 贺美琦",
       "onboard_time": 1714305138,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 854211,
+      "num": 369463,
+      "word": "女子照片被烈士紧握网友称是其二姑奶奶",
+      "onboard_time": 1714354398,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 843951,
@@ -433,14 +457,6 @@
       "onboard_time": 1714259896,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 810788,
-      "num": 810788,
-      "word": "都敏俊转世",
-      "onboard_time": 1714351279,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 782120,
@@ -979,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 453872,
+      "num": 453872,
+      "word": "日元",
+      "onboard_time": 1714356377,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 449878,
       "num": 358571,
       "word": "邓超 亚比囧囧囧",
@@ -1027,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424233,
+      "num": 424233,
+      "word": "问界M7追尾的养护车当时正浇水作业",
+      "onboard_time": 1714353679,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421503,
       "num": 1067980,
       "word": "中国航天员完成在轨交接",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1714298118,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 398923,
+      "num": 360092,
+      "word": "睡眠不足的9大表现",
+      "onboard_time": 1714353378,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 389570,
@@ -1163,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358842,
+      "num": 358842,
+      "word": "歌手2024",
+      "onboard_time": 1714354697,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357523,
       "num": 357523,
       "word": "闹钟没响",
@@ -1171,20 +1219,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 356550,
+      "num": 356550,
+      "word": "许嵩 我也坦然接受过许多的不喜欢",
+      "onboard_time": 1714355838,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 354552,
       "num": 354552,
       "word": "谁家he男主给女主扫墓啊",
       "onboard_time": 1714351698,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 344559,
-      "num": 344559,
-      "word": "睡眠不足的9大表现",
-      "onboard_time": 1714353378,
-      "rank": 15,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 343853,
@@ -1347,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297023,
+      "num": 297023,
+      "word": "陈丽君上桌了",
+      "onboard_time": 1714354757,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293518,
       "num": 293518,
       "word": "久坐1小时肌肉就开始出现结节",
@@ -1371,20 +1427,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287468,
+      "num": 257225,
+      "word": "15元1个的菠萝蜜100元5个的榴莲",
+      "onboard_time": 1714356556,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 286638,
       "num": 286638,
       "word": "鹿晗邓超陈赫再唱超级英雄",
       "onboard_time": 1714281199,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284119,
-      "num": 284119,
-      "word": "问界M7追尾的养护车当时正浇水作业",
-      "onboard_time": 1714353679,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283302,
@@ -1505,6 +1561,14 @@
       "onboard_time": 1714349177,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 258699,
+      "num": 258699,
+      "word": "字节回应61人违法违纪被辞退",
+      "onboard_time": 1714357038,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 258060,
@@ -1675,6 +1739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 238747,
+      "num": 238747,
+      "word": "闪耀暖暖",
+      "onboard_time": 1714355777,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237695,
       "num": 237695,
       "word": "赵雷 最后一次巡演",
@@ -1769,6 +1841,14 @@
       "onboard_time": 1714295599,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222624,
+      "num": 222624,
+      "word": "背着善宰跑",
+      "onboard_time": 1714354159,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 219889,
@@ -2145,6 +2225,14 @@
       "onboard_time": 1714279100,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196245,
+      "num": 196245,
+      "word": "上海公卫中心回应病毒学家实验室被强关",
+      "onboard_time": 1714356439,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196062,
@@ -2595,6 +2683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167624,
+      "num": 167624,
+      "word": "奶奶们围成人墙保护3岁走失娃",
+      "onboard_time": 1714354338,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165983,
       "num": 165983,
       "word": "为什么有人运动上脸",
@@ -2609,6 +2705,14 @@
       "onboard_time": 1714263319,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 163498,
+      "num": 163498,
+      "word": "眼泪女王结局 临时补拍",
+      "onboard_time": 1714357518,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 163235,
@@ -2761,14 +2865,6 @@
       "onboard_time": 1714296258,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 152673,
-      "num": 152673,
-      "word": "背着善宰跑",
-      "onboard_time": 1714354159,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 150080,
@@ -2995,6 +3091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135901,
+      "num": 135901,
+      "word": "库迪咖啡 张杰演唱会",
+      "onboard_time": 1714357639,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 135550,
       "num": 135550,
       "word": "广州司机致猫死亡事件疑反转",
@@ -3056,22 +3160,6 @@
       "word": "民警徒步4小时帮女子找回黄金首饰",
       "onboard_time": 1714354097,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130293,
-      "num": 130293,
-      "word": "奶奶们围成人墙保护3岁走失娃",
-      "onboard_time": 1714354338,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130180,
-      "num": 130180,
-      "word": "女子照片被烈士紧握网友称是其二姑奶奶",
-      "onboard_time": 1714354398,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -3187,6 +3275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123333,
+      "num": 123333,
+      "word": "美元兑日元站上160",
+      "onboard_time": 1714357278,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 123058,
       "num": 123058,
       "word": "第一次见这么肥美的大熊猫",
@@ -3259,12 +3355,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115759,
+      "num": 115759,
+      "word": "灿烂的花园INFP的天堂",
+      "onboard_time": 1714357518,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114913,
       "num": 114913,
       "word": "苗苗好甜",
       "onboard_time": 1714218618,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112670,
+      "num": 112670,
+      "word": "突然发现自己好孤独",
+      "onboard_time": 1714357518,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 112308,
+      "num": 112308,
+      "word": "卢昱晓束发古装",
+      "onboard_time": 1714355237,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 111106,
@@ -3280,6 +3400,14 @@
       "word": "吴镇宇爱上孙丞潇了",
       "onboard_time": 1714225159,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110307,
+      "num": 110307,
+      "word": "张雨绮把自己的礼服剪了",
+      "onboard_time": 1714357577,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -3337,6 +3465,14 @@
       "onboard_time": 1714275079,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106833,
+      "num": 104534,
+      "word": "高速快车道一车辆撞上养护车致1死3伤",
+      "onboard_time": 1714354637,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106793,

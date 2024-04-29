@@ -1,6 +1,6 @@
 {
   "startTime": 1714321243337,
-  "endTime": 1714354565625,
+  "endTime": 1714357696412,
   "band_list": [
     {
       "raw_hot": 1805773,
@@ -19,6 +19,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1086964,
+      "num": 379873,
+      "word": "字节跳动4人涉嫌刑事犯罪被立案",
+      "onboard_time": 1714356439,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 866724,
       "num": 642040,
       "word": "民宿涨价1500后被退单平台只赔230",
@@ -35,20 +43,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 856377,
+      "num": 856377,
+      "word": "都敏俊转世",
+      "onboard_time": 1714351279,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 854211,
+      "num": 369463,
+      "word": "女子照片被烈士紧握网友称是其二姑奶奶",
+      "onboard_time": 1714354398,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 843951,
       "num": 843951,
       "word": "古天乐坚持十多年每天只吃一顿饭",
       "onboard_time": 1714351339,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 810788,
-      "num": 810788,
-      "word": "都敏俊转世",
-      "onboard_time": 1714351279,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 781382,
@@ -179,12 +195,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 453872,
+      "num": 453872,
+      "word": "日元",
+      "onboard_time": 1714356377,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 424233,
+      "num": 424233,
+      "word": "问界M7追尾的养护车当时正浇水作业",
+      "onboard_time": 1714353679,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416926,
       "num": 416926,
       "word": "客户买房后无法上学中介称我口误",
       "onboard_time": 1714350799,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398923,
+      "num": 360092,
+      "word": "睡眠不足的9大表现",
+      "onboard_time": 1714353378,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 388058,
@@ -211,6 +251,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 358842,
+      "num": 358842,
+      "word": "歌手2024",
+      "onboard_time": 1714354697,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 356550,
+      "num": 356550,
+      "word": "许嵩 我也坦然接受过许多的不喜欢",
+      "onboard_time": 1714355838,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 354552,
       "num": 354552,
       "word": "谁家he男主给女主扫墓啊",
@@ -225,14 +281,6 @@
       "onboard_time": 1714311439,
       "rank": 22,
       "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 344559,
-      "num": 344559,
-      "word": "睡眠不足的9大表现",
-      "onboard_time": 1714353378,
-      "rank": 15,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 318127,
@@ -275,20 +323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297023,
+      "num": 297023,
+      "word": "陈丽君上桌了",
+      "onboard_time": 1714354757,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 287468,
+      "num": 257225,
+      "word": "15元1个的菠萝蜜100元5个的榴莲",
+      "onboard_time": 1714356556,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 286547,
       "num": 214612,
       "word": "时代少年团女主 贺美琦",
       "onboard_time": 1714305138,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 284119,
-      "num": 284119,
-      "word": "问界M7追尾的养护车当时正浇水作业",
-      "onboard_time": 1714353679,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282593,
@@ -321,6 +377,14 @@
       "onboard_time": 1714349177,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 258699,
+      "num": 258699,
+      "word": "字节回应61人违法违纪被辞退",
+      "onboard_time": 1714357038,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 258609,
@@ -363,6 +427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 238747,
+      "num": 238747,
+      "word": "闪耀暖暖",
+      "onboard_time": 1714355777,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230449,
       "num": 230449,
       "word": "眼泪女王 太癫了",
@@ -385,6 +457,14 @@
       "onboard_time": 1714351339,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 222624,
+      "num": 222624,
+      "word": "背着善宰跑",
+      "onboard_time": 1714354159,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 219752,
@@ -433,6 +513,14 @@
       "onboard_time": 1714300996,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196245,
+      "num": 196245,
+      "word": "上海公卫中心回应病毒学家实验室被强关",
+      "onboard_time": 1714356439,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194428,
@@ -515,12 +603,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167624,
+      "num": 167624,
+      "word": "奶奶们围成人墙保护3岁走失娃",
+      "onboard_time": 1714354338,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165983,
       "num": 165983,
       "word": "为什么有人运动上脸",
       "onboard_time": 1714353979,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 163498,
+      "num": 163498,
+      "word": "眼泪女王结局 临时补拍",
+      "onboard_time": 1714357518,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 159692,
@@ -553,14 +657,6 @@
       "onboard_time": 1714326432,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 152673,
-      "num": 152673,
-      "word": "背着善宰跑",
-      "onboard_time": 1714354159,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 144178,
@@ -603,6 +699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135901,
+      "num": 135901,
+      "word": "库迪咖啡 张杰演唱会",
+      "onboard_time": 1714357639,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132300,
       "num": 132300,
       "word": "童瑶露腰扯面",
@@ -627,22 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130293,
-      "num": 130293,
-      "word": "奶奶们围成人墙保护3岁走失娃",
-      "onboard_time": 1714354338,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130180,
-      "num": 130180,
-      "word": "女子照片被烈士紧握网友称是其二姑奶奶",
-      "onboard_time": 1714354398,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129402,
       "num": 129402,
       "word": "吃烤苕皮是一件很私密的事",
@@ -657,6 +745,14 @@
       "onboard_time": 1714352240,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123333,
+      "num": 123333,
+      "word": "美元兑日元站上160",
+      "onboard_time": 1714357278,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 120818,
@@ -683,6 +779,38 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115759,
+      "num": 115759,
+      "word": "灿烂的花园INFP的天堂",
+      "onboard_time": 1714357518,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112670,
+      "num": 112670,
+      "word": "突然发现自己好孤独",
+      "onboard_time": 1714357518,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 112308,
+      "num": 112308,
+      "word": "卢昱晓束发古装",
+      "onboard_time": 1714355237,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110307,
+      "num": 110307,
+      "word": "张雨绮把自己的礼服剪了",
+      "onboard_time": 1714357577,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108811,
       "num": 108811,
       "word": "TT公布调查结果",
@@ -697,6 +825,14 @@
       "onboard_time": 1714348096,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 106833,
+      "num": 104534,
+      "word": "高速快车道一车辆撞上养护车致1死3伤",
+      "onboard_time": 1714354637,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104644,
