@@ -1,0 +1,410 @@
+{
+  "runTime": 1714375035543,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1383778,
+        "num": 1383778,
+        "word": "40多名护士遭集体解职",
+        "onboard_time": 1714369758,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1201217,
+        "num": 1201217,
+        "word": "鲁迅家属已向乐乐茶发律师函",
+        "onboard_time": 1714372698,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6694,
+        "num": 1081786,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1049210,
+        "num": 1049210,
+        "word": "将门毒后改名为将门独后",
+        "onboard_time": 1714369817,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 677813,
+        "num": 677813,
+        "word": "长沙天黑了",
+        "onboard_time": 1714367779,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496948,
+        "num": 496948,
+        "word": "关晓彤想和张一山一起录节目",
+        "onboard_time": 1714371319,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477798,
+        "num": 477798,
+        "word": "提出涨薪1000涨了500",
+        "onboard_time": 1714364299,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 444718,
+        "num": 444718,
+        "word": "肖战18秒换了6套造型",
+        "onboard_time": 1714369279,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 385879,
+        "num": 385879,
+        "word": "付鹏 享受生活",
+        "onboard_time": 1714361600,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154175,
+        "num": 367588,
+        "word": "相恋7年夫妻像热恋时一样恩爱",
+        "onboard_time": 1714364539,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849607,
+        "num": 366027,
+        "word": "金靖曾被舒奕橙三次取关",
+        "onboard_time": 1714371859,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351163,
+        "num": 351163,
+        "word": "袁娅维3次发文怼浪姐",
+        "onboard_time": 1714359919,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340657,
+        "num": 340657,
+        "word": "付鹏全网账号注销",
+        "onboard_time": 1714358658,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 326771,
+        "num": 326771,
+        "word": "教练Gemini回归",
+        "onboard_time": 1714368438,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 326470,
+        "num": 326470,
+        "word": "虞书欣美式女高",
+        "onboard_time": 1714371739,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 319249,
+        "num": 319249,
+        "word": "B太 青岛",
+        "onboard_time": 1714370297,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 287085,
+        "num": 287085,
+        "word": "眼泪女王结局 临时补拍",
+        "onboard_time": 1714357518,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94241,
+        "num": 276225,
+        "word": "曹德旺红旗",
+        "onboard_time": 1714373058,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 270179,
+        "num": 270179,
+        "word": "长沙暴雨",
+        "onboard_time": 1714369218,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266902,
+        "num": 266902,
+        "word": "字节跳动4人涉嫌刑事犯罪被立案",
+        "onboard_time": 1714356439,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 788941,
+        "num": 266773,
+        "word": "请病假还走了两万的微信步数",
+        "onboard_time": 1714367179,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 624748,
+        "num": 266553,
+        "word": "癌症可能是省出来的",
+        "onboard_time": 1714370358,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 361579,
+        "num": 266281,
+        "word": "肚脐里的泥抠完真的会拉肚子吗",
+        "onboard_time": 1714358778,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 302068,
+        "num": 266134,
+        "word": "30岁你的存款达标了吗",
+        "onboard_time": 1714367359,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269896,
+        "num": 265881,
+        "word": "鹭卓 鲜花饼",
+        "onboard_time": 1714373179,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265855,
+        "num": 265855,
+        "word": "领导重新定义二本",
+        "onboard_time": 1714373357,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 244204,
+        "num": 244204,
+        "word": "范丞丞超小声diss谢帝",
+        "onboard_time": 1714372159,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211186,
+        "num": 211186,
+        "word": "最好坚持的减肥运动",
+        "onboard_time": 1714371077,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 193230,
+        "num": 193230,
+        "word": "宋雨琦被自己小卡价格吓到",
+        "onboard_time": 1714365140,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 82925,
+        "num": 191855,
+        "word": "日元汇率一度跌破160日元兑1美元",
+        "onboard_time": 1714365140,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193622,
+        "num": 191848,
+        "word": "人体不会癌变的器官是什么",
+        "onboard_time": 1714374438,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191812,
+        "num": 191812,
+        "word": "黄景瑜谈王一博最A时刻",
+        "onboard_time": 1714373657,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182202,
+        "num": 182202,
+        "word": "清华网球亡子",
+        "onboard_time": 1714374798,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161789,
+        "num": 161789,
+        "word": "北大教授称年轻人不要老想着眼前",
+        "onboard_time": 1714374077,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159408,
+        "num": 159408,
+        "word": "林允千金美甲",
+        "onboard_time": 1714372038,
+        "rank": 34,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 156745,
+        "num": 156745,
+        "word": "我妻之死",
+        "onboard_time": 1714359677,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154331,
+        "num": 154331,
+        "word": "凤凰传奇 抢票",
+        "onboard_time": 1714363399,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143842,
+        "num": 143842,
+        "word": "黄轩被安保押着打卡天水麻辣烫",
+        "onboard_time": 1714368379,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141262,
+        "num": 141262,
+        "word": "菊部金渐层",
+        "onboard_time": 1714367179,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139213,
+        "num": 139213,
+        "word": "长大后发现不能深交的人",
+        "onboard_time": 1714367779,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136401,
+        "num": 136401,
+        "word": "梦之队",
+        "onboard_time": 1714372517,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135361,
+        "num": 135361,
+        "word": "长沙天气",
+        "onboard_time": 1714366760,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134627,
+        "num": 134627,
+        "word": "赵又廷杀回综艺了",
+        "onboard_time": 1714374918,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35869,
+        "num": 133481,
+        "word": "带红圈小金标的Pura70拍照有多顶",
+        "onboard_time": 1714374677,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 132631,
+        "num": 132631,
+        "word": "眼泪女王收视超过爱的迫降",
+        "onboard_time": 1714374017,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131673,
+        "num": 131673,
+        "word": "种地吧 惊喜直播",
+        "onboard_time": 1714372578,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131392,
+        "num": 131392,
+        "word": "读书越来越像是一种表演",
+        "onboard_time": 1714372818,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 130537,
+        "num": 130537,
+        "word": "温德米尔的快乐之家",
+        "onboard_time": 1714373957,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129199,
+        "num": 129199,
+        "word": "林更新边江玫瑰故事再合作",
+        "onboard_time": 1714371859,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127968,
+        "num": 127968,
+        "word": "贺美琦曾是TFBOYS的MV女主",
+        "onboard_time": 1714360400,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#着力打造具有全球影响力的产业科技创新中心#"
+    }
+  }
+}

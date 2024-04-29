@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714372623112,
+  "endTime": 1714375035543,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1383778,
+      "num": 1383778,
+      "word": "40多名护士遭集体解职",
+      "onboard_time": 1714369758,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1380116,
       "num": 660325,
       "word": "何炅50岁了",
@@ -224,6 +232,14 @@
       "word": "广州龙卷风已致5死33伤",
       "onboard_time": 1714233619,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1201217,
+      "num": 1201217,
+      "word": "鲁迅家属已向乐乐茶发律师函",
+      "onboard_time": 1714372698,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -377,14 +393,6 @@
       "onboard_time": 1714306888,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 940777,
-      "num": 940777,
-      "word": "40多名护士遭集体解职",
-      "onboard_time": 1714369758,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 940158,
@@ -803,6 +811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 624748,
+      "num": 278602,
+      "word": "癌症可能是省出来的",
+      "onboard_time": 1714370358,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 614834,
       "num": 527859,
       "word": "问界M7追尾大货车起火",
@@ -1059,6 +1075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 496948,
+      "num": 496948,
+      "word": "关晓彤想和张一山一起录节目",
+      "onboard_time": 1714371319,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 495405,
       "num": 495405,
       "word": "陶昕然演甄嬛传最遗憾的一场戏",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1714360218,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 488055,
-      "num": 479992,
-      "word": "关晓彤想和张一山一起录节目",
-      "onboard_time": 1714371319,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 484167,
@@ -1177,14 +1193,6 @@
       "onboard_time": 1714317978,
       "rank": 29,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 458277,
-      "num": 278602,
-      "word": "癌症可能是省出来的",
-      "onboard_time": 1714370358,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 457938,
@@ -1555,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326470,
+      "num": 326470,
+      "word": "虞书欣美式女高",
+      "onboard_time": 1714371739,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 322489,
       "num": 322489,
       "word": "张艺凡提前五小时到剧组化妆",
@@ -1577,6 +1593,14 @@
       "onboard_time": 1714301237,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319249,
+      "num": 319249,
+      "word": "B太 青岛",
+      "onboard_time": 1714370297,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 319104,
@@ -1779,14 +1803,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 272668,
-      "num": 272668,
-      "word": "虞书欣美式女高",
-      "onboard_time": 1714371739,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 272264,
       "num": 272264,
       "word": "蔡磊妻子说天天愁有什么用",
@@ -1817,6 +1833,14 @@
       "onboard_time": 1714291818,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269896,
+      "num": 265881,
+      "word": "鹭卓 鲜花饼",
+      "onboard_time": 1714373179,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 268989,
@@ -1851,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265855,
+      "num": 265855,
+      "word": "领导重新定义二本",
+      "onboard_time": 1714373357,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 264020,
       "num": 264020,
       "word": "张新成新剧尺度",
@@ -1881,14 +1913,6 @@
       "onboard_time": 1714313540,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255635,
-      "num": 255635,
-      "word": "B太 青岛",
-      "onboard_time": 1714370297,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 255415,
@@ -2009,6 +2033,14 @@
       "onboard_time": 1714228100,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 244204,
+      "num": 244204,
+      "word": "范丞丞超小声diss谢帝",
+      "onboard_time": 1714372159,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 243708,
@@ -2699,14 +2731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195476,
-      "num": 195476,
-      "word": "范丞丞超小声diss谢帝",
-      "onboard_time": 1714372159,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195378,
       "num": 195378,
       "word": "现男友",
@@ -2755,6 +2779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193622,
+      "num": 191848,
+      "word": "人体不会癌变的器官是什么",
+      "onboard_time": 1714374438,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 193301,
       "num": 193301,
       "word": "NBA年度最强上篮",
@@ -2793,6 +2825,14 @@
       "onboard_time": 1714302077,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191812,
+      "num": 191812,
+      "word": "黄景瑜谈王一博最A时刻",
+      "onboard_time": 1714373657,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 191767,
@@ -2993,6 +3033,14 @@
       "onboard_time": 1714357577,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182202,
+      "num": 182202,
+      "word": "清华网球亡子",
+      "onboard_time": 1714374798,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 181889,
@@ -3288,6 +3336,14 @@
       "word": "广东福建大暴雨冰雹齐发",
       "onboard_time": 1714265839,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161789,
+      "num": 161789,
+      "word": "北大教授称年轻人不要老想着眼前",
+      "onboard_time": 1714374077,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -3723,6 +3779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136401,
+      "num": 136401,
+      "word": "梦之队",
+      "onboard_time": 1714372517,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136340,
       "num": 136340,
       "word": "灿烂的花园INFP的天堂",
@@ -3763,6 +3827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 134627,
+      "num": 134627,
+      "word": "赵又廷杀回综艺了",
+      "onboard_time": 1714374918,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133989,
       "num": 133989,
       "word": "为什么西安餐桌上没有餐巾纸",
@@ -3771,12 +3843,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133975,
-      "num": 133975,
-      "word": "梦之队",
-      "onboard_time": 1714372517,
-      "rank": 42,
-      "category": "电竞"
+      "raw_hot": 132631,
+      "num": 132631,
+      "word": "眼泪女王收视超过爱的迫降",
+      "onboard_time": 1714374017,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 132300,
@@ -3795,12 +3867,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131673,
+      "num": 131673,
+      "word": "种地吧 惊喜直播",
+      "onboard_time": 1714372578,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131504,
       "num": 131504,
       "word": "原炀顾青裴 割裂感",
       "onboard_time": 1714369698,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 131392,
+      "num": 131392,
+      "word": "读书越来越像是一种表演",
+      "onboard_time": 1714372818,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 131368,
@@ -3825,6 +3913,14 @@
       "onboard_time": 1714354097,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130537,
+      "num": 130537,
+      "word": "温德米尔的快乐之家",
+      "onboard_time": 1714373957,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 129723,
@@ -3985,14 +4081,6 @@
       "onboard_time": 1714283779,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122441,
-      "num": 122441,
-      "word": "种地吧 惊喜直播",
-      "onboard_time": 1714372578,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 121668,
@@ -4273,6 +4361,14 @@
       "onboard_time": 1714244051,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94241,
+      "num": 276225,
+      "word": "曹德旺红旗",
+      "onboard_time": 1714373058,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 93993,
@@ -4595,6 +4691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 35869,
+      "num": 133481,
+      "word": "带红圈小金标的Pura70拍照有多顶",
+      "onboard_time": 1714374677,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 32408,
       "num": 992745,
       "word": "中国青年五四奖章",
@@ -4692,7 +4796,7 @@
     },
     {
       "raw_hot": 8376,
-      "num": 1039572,
+      "num": 1081786,
       "word": "文化中国行",
       "onboard_time": 1713927617,
       "rank": 2,
