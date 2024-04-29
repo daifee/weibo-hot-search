@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714360803614,
+  "endTime": 1714361750865,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2599948,
+      "num": 2599948,
+      "word": "付鹏全网账号注销",
+      "onboard_time": 1714358658,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2327325,
       "num": 2327325,
       "word": "五一放假下雨4天是怎样的体验",
@@ -33,14 +41,6 @@
       "onboard_time": 1714295658,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 2090192,
-      "num": 2090192,
-      "word": "付鹏全网账号注销",
-      "onboard_time": 1714358658,
-      "rank": 0,
-      "category": "网红"
     },
     {
       "raw_hot": 2050489,
@@ -203,6 +203,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 1111278,
+      "num": 1111278,
+      "word": "袁娅维3次发文怼浪姐",
+      "onboard_time": 1714359919,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1078160,
       "num": 512487,
       "word": "郑恺幸亏我和苗苗结婚了",
@@ -227,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1050566,
+      "num": 1050566,
+      "word": "我妻之死",
+      "onboard_time": 1714359677,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1047982,
       "num": 1047982,
       "word": "4个何炅",
@@ -241,14 +257,6 @@
       "onboard_time": 1714301296,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1036740,
-      "num": 1036740,
-      "word": "袁娅维3次发文怼浪姐",
-      "onboard_time": 1714359919,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1033458,
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 878363,
+      "num": 284263,
+      "word": "肚脐里的泥抠完真的会拉肚子吗",
+      "onboard_time": 1714358778,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 876820,
       "num": 520338,
       "word": "48元一个的榴莲女子追了一路",
@@ -513,14 +529,6 @@
       "onboard_time": 1714284918,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 733546,
-      "num": 284263,
-      "word": "肚脐里的泥抠完真的会拉肚子吗",
-      "onboard_time": 1714358778,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 731033,
@@ -715,14 +723,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 604140,
-      "num": 604140,
-      "word": "我妻之死",
-      "onboard_time": 1714359677,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 603585,
       "num": 603585,
       "word": "问界将为家属提供一切可能的支持",
@@ -817,6 +817,14 @@
       "onboard_time": 1714358178,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550167,
+      "num": 550167,
+      "word": "贺美琦曾是TFBOYS的MV女主",
+      "onboard_time": 1714360400,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 536566,
@@ -1163,12 +1171,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 410835,
-      "num": 410835,
-      "word": "贺美琦曾是TFBOYS的MV女主",
-      "onboard_time": 1714360400,
-      "rank": 14,
-      "category": "音乐"
+      "raw_hot": 405481,
+      "num": 405481,
+      "word": "王源2024巡演启动",
+      "onboard_time": 1714361419,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 400825,
+      "num": 400825,
+      "word": "罗翔受聘为山东大学兼职教授",
+      "onboard_time": 1714360218,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 398923,
@@ -1328,6 +1344,14 @@
       "word": "何炅张杰看烟花",
       "onboard_time": 1714264039,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 339315,
+      "num": 339315,
+      "word": "张小斐晒照祝贾玲生日快乐",
+      "onboard_time": 1714360039,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -1523,6 +1547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 284693,
+      "num": 284693,
+      "word": "马斯克确认特斯拉Model2明年上市",
+      "onboard_time": 1714360400,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 283302,
       "num": 283302,
       "word": "我未杀伯仁 伯仁却因我而死",
@@ -1691,12 +1723,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253187,
+      "num": 253187,
+      "word": "大侦探",
+      "onboard_time": 1714359620,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251712,
       "num": 251712,
       "word": "吴艳妮新动作",
       "onboard_time": 1714223419,
       "rank": 13,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 249433,
+      "num": 249433,
+      "word": "闪耀暖暖绝美婚纱",
+      "onboard_time": 1714359919,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 248711,
@@ -1793,22 +1841,6 @@
       "onboard_time": 1714297758,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 242630,
-      "num": 242630,
-      "word": "大侦探",
-      "onboard_time": 1714359620,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 242425,
-      "num": 242425,
-      "word": "张小斐晒照祝贾玲生日快乐",
-      "onboard_time": 1714360039,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 242004,
@@ -1915,14 +1947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 226939,
-      "num": 226939,
-      "word": "罗翔受聘为山东大学兼职教授",
-      "onboard_time": 1714360218,
-      "rank": 26,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 226804,
       "num": 226804,
       "word": "亲人的离世不是一时的暴雨",
@@ -1937,14 +1961,6 @@
       "onboard_time": 1714268659,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 224740,
-      "num": 224740,
-      "word": "闪耀暖暖绝美婚纱",
-      "onboard_time": 1714359919,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 224032,
@@ -2089,6 +2105,14 @@
       "onboard_time": 1714345754,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210643,
+      "num": 210643,
+      "word": "芍药",
+      "onboard_time": 1714361239,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 210147,
@@ -2827,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166024,
+      "num": 166024,
+      "word": "付鹏 享受生活",
+      "onboard_time": 1714361600,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 165983,
       "num": 165983,
       "word": "为什么有人运动上脸",
@@ -2961,14 +2993,6 @@
       "onboard_time": 1714346534,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155981,
-      "num": 155981,
-      "word": "马斯克确认特斯拉Model2明年上市",
-      "onboard_time": 1714360400,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 155490,
@@ -3451,6 +3475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121668,
+      "num": 121668,
+      "word": "隐藏式门把手是否阻碍救援",
+      "onboard_time": 1714361357,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121086,
       "num": 121086,
       "word": "苗苗一公舞台",
@@ -3740,11 +3772,19 @@
     },
     {
       "raw_hot": 91132,
-      "num": 292495,
+      "num": 326748,
       "word": "被Pura70的颜值圈粉了",
       "onboard_time": 1714359919,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 90984,
+      "num": 108470,
+      "word": "五一假期5天小客车高速免费",
+      "onboard_time": 1714361719,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90454,
@@ -3929,6 +3969,14 @@
       "onboard_time": 1714223659,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50275,
+      "num": 265786,
+      "word": "王一博的百变角色",
+      "onboard_time": 1714360819,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 48928,

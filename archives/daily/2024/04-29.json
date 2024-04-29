@@ -1,10 +1,10 @@
 {
   "startTime": 1714321243337,
-  "endTime": 1714360803614,
+  "endTime": 1714361750865,
   "band_list": [
     {
-      "raw_hot": 2090192,
-      "num": 2090192,
+      "raw_hot": 2599948,
+      "num": 2599948,
       "word": "付鹏全网账号注销",
       "onboard_time": 1714358658,
       "rank": 0,
@@ -35,12 +35,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1036740,
-      "num": 1036740,
+      "raw_hot": 1111278,
+      "num": 1111278,
       "word": "袁娅维3次发文怼浪姐",
       "onboard_time": 1714359919,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1050566,
+      "num": 1050566,
+      "word": "我妻之死",
+      "onboard_time": 1714359677,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 917356,
@@ -49,6 +57,14 @@
       "onboard_time": 1714354398,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 878363,
+      "num": 284263,
+      "word": "肚脐里的泥抠完真的会拉肚子吗",
+      "onboard_time": 1714358778,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 866724,
@@ -88,14 +104,6 @@
       "word": "居然还有女用避孕套",
       "onboard_time": 1714295658,
       "rank": 10,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 733546,
-      "num": 284263,
-      "word": "肚脐里的泥抠完真的会拉肚子吗",
-      "onboard_time": 1714358778,
-      "rank": 20,
       "category": "健康医疗"
     },
     {
@@ -179,14 +187,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 604140,
-      "num": 604140,
-      "word": "我妻之死",
-      "onboard_time": 1714359677,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 594169,
       "num": 594169,
       "word": "iPhone16系列全新摄像头模组",
@@ -225,6 +225,14 @@
       "onboard_time": 1714358178,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550167,
+      "num": 550167,
+      "word": "贺美琦曾是TFBOYS的MV女主",
+      "onboard_time": 1714360400,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 524541,
@@ -283,12 +291,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 410835,
-      "num": 410835,
-      "word": "贺美琦曾是TFBOYS的MV女主",
-      "onboard_time": 1714360400,
-      "rank": 14,
-      "category": "音乐"
+      "raw_hot": 405481,
+      "num": 405481,
+      "word": "王源2024巡演启动",
+      "onboard_time": 1714361419,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 400825,
+      "num": 400825,
+      "word": "罗翔受聘为山东大学兼职教授",
+      "onboard_time": 1714360218,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 398923,
@@ -363,6 +379,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 339315,
+      "num": 339315,
+      "word": "张小斐晒照祝贾玲生日快乐",
+      "onboard_time": 1714360039,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318127,
       "num": 245840,
       "word": "贾乃亮谎报年龄被黄景瑜踹",
@@ -425,6 +449,14 @@
       "onboard_time": 1714359017,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 284693,
+      "num": 284693,
+      "word": "马斯克确认特斯拉Model2明年上市",
+      "onboard_time": 1714360400,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 282593,
@@ -499,20 +531,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 242630,
-      "num": 242630,
+      "raw_hot": 253187,
+      "num": 253187,
       "word": "大侦探",
       "onboard_time": 1714359620,
       "rank": 23,
       "category": "综艺"
     },
     {
-      "raw_hot": 242425,
-      "num": 242425,
-      "word": "张小斐晒照祝贾玲生日快乐",
-      "onboard_time": 1714360039,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 249433,
+      "num": 249433,
+      "word": "闪耀暖暖绝美婚纱",
+      "onboard_time": 1714359919,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 239663,
@@ -547,28 +579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226939,
-      "num": 226939,
-      "word": "罗翔受聘为山东大学兼职教授",
-      "onboard_time": 1714360218,
-      "rank": 26,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 226804,
       "num": 226804,
       "word": "亲人的离世不是一时的暴雨",
       "onboard_time": 1714351339,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 224740,
-      "num": 224740,
-      "word": "闪耀暖暖绝美婚纱",
-      "onboard_time": 1714359919,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 222624,
@@ -609,6 +625,14 @@
       "onboard_time": 1714345754,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210643,
+      "num": 210643,
+      "word": "芍药",
+      "onboard_time": 1714361239,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 210147,
@@ -747,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166024,
+      "num": 166024,
+      "word": "付鹏 享受生活",
+      "onboard_time": 1714361600,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 165983,
       "num": 165983,
       "word": "为什么有人运动上脸",
@@ -785,14 +817,6 @@
       "onboard_time": 1714346534,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155981,
-      "num": 155981,
-      "word": "马斯克确认特斯拉Model2明年上市",
-      "onboard_time": 1714360400,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 155490,
@@ -905,6 +929,14 @@
       "onboard_time": 1714357278,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 121668,
+      "num": 121668,
+      "word": "隐藏式门把手是否阻碍救援",
+      "onboard_time": 1714361357,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120818,
@@ -1060,11 +1092,19 @@
     },
     {
       "raw_hot": 91132,
-      "num": 292495,
+      "num": 326748,
       "word": "被Pura70的颜值圈粉了",
       "onboard_time": 1714359919,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 90984,
+      "num": 108470,
+      "word": "五一假期5天小客车高速免费",
+      "onboard_time": 1714361719,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88797,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1714295897,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50275,
+      "num": 265786,
+      "word": "王一博的百变角色",
+      "onboard_time": 1714360819,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 49994,
