@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714375035543,
+  "endTime": 1714376065171,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2747,6 +2747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1395003,
+      "num": 1395003,
+      "word": "40多名护士遭集体解职",
+      "onboard_time": 1714369758,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1390826,
       "num": 1390826,
       "word": "韩国国务总理辞职",
@@ -2811,14 +2819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1383778,
-      "num": 1383778,
-      "word": "40多名护士遭集体解职",
-      "onboard_time": 1714369758,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1380116,
       "num": 660325,
       "word": "何炅50岁了",
@@ -2849,6 +2849,14 @@
       "onboard_time": 1714359677,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1375336,
+      "num": 1375336,
+      "word": "鲁迅家属已向乐乐茶发律师函",
+      "onboard_time": 1714372698,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1374447,
@@ -4056,14 +4064,6 @@
       "word": "19岁女生和41岁阿姨处成闺蜜",
       "onboard_time": 1711936938,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1201217,
-      "num": 1201217,
-      "word": "鲁迅家属已向乐乐茶发律师函",
-      "onboard_time": 1714372698,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -16963,6 +16963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522598,
+      "num": 522598,
+      "word": "关晓彤想和张一山一起录节目",
+      "onboard_time": 1714371319,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 522411,
       "num": 522411,
       "word": "85岁退休教师半身不遂儿子移民国外",
@@ -18177,14 +18185,6 @@
       "onboard_time": 1712404818,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 496948,
-      "num": 496948,
-      "word": "关晓彤想和张一山一起录节目",
-      "onboard_time": 1714371319,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 496666,
@@ -28803,6 +28803,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 322129,
+      "num": 322129,
+      "word": "B太 青岛",
+      "onboard_time": 1714370297,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 321724,
       "num": 321724,
       "word": "北京冰雹",
@@ -29033,14 +29041,6 @@
       "onboard_time": 1713321617,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319249,
-      "num": 319249,
-      "word": "B太 青岛",
-      "onboard_time": 1714370297,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 319210,
@@ -31667,6 +31667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 290829,
+      "num": 265881,
+      "word": "鹭卓 鲜花饼",
+      "onboard_time": 1714373179,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290768,
       "num": 290768,
       "word": "伊朗空袭以色列当地华人发声",
@@ -33753,14 +33761,6 @@
       "onboard_time": 1712893399,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 269896,
-      "num": 265881,
-      "word": "鹭卓 鲜花饼",
-      "onboard_time": 1714373179,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 269863,
@@ -40147,6 +40147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 226966,
+      "num": 209880,
+      "word": "赵又廷杀回综艺了",
+      "onboard_time": 1714374918,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226857,
       "num": 226857,
       "word": "詹姆斯不满未拿过最佳防守球员",
@@ -42121,6 +42129,14 @@
       "onboard_time": 1712622198,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 215514,
+      "num": 215514,
+      "word": "北大教授称年轻人不要老想着眼前",
+      "onboard_time": 1714374077,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215377,
@@ -44449,6 +44465,14 @@
       "onboard_time": 1714112478,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206534,
+      "num": 206534,
+      "word": "人体不会癌变的器官是什么",
+      "onboard_time": 1714374438,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 206512,
@@ -49123,14 +49147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193622,
-      "num": 191848,
-      "word": "人体不会癌变的器官是什么",
-      "onboard_time": 1714374438,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 193570,
       "num": 193570,
       "word": "微暗之火",
@@ -52411,6 +52427,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 185334,
+      "num": 185334,
+      "word": "清华网球亡子",
+      "onboard_time": 1714374798,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185299,
       "num": 185299,
       "word": "云南昆明发生森林火灾",
@@ -53539,14 +53563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182202,
-      "num": 182202,
-      "word": "清华网球亡子",
-      "onboard_time": 1714374798,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 182170,
       "num": 182170,
       "word": "鹈鹕季后赛对阵雷霆",
@@ -53785,6 +53801,14 @@
       "onboard_time": 1713517937,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181347,
+      "num": 181347,
+      "word": "明天下班走出办公室的我",
+      "onboard_time": 1714375458,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 181301,
@@ -58003,6 +58027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166338,
+      "num": 166338,
+      "word": "燥候ive回归",
+      "onboard_time": 1714375158,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 166328,
       "num": 166328,
       "word": "杨紫许凯CP感",
@@ -59489,14 +59521,6 @@
       "onboard_time": 1713175218,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 161789,
-      "num": 161789,
-      "word": "北大教授称年轻人不要老想着眼前",
-      "onboard_time": 1714374077,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161786,
@@ -68571,14 +68595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134627,
-      "num": 134627,
-      "word": "赵又廷杀回综艺了",
-      "onboard_time": 1714374918,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134613,
       "num": 134613,
       "word": "王楚钦豪华无人机应援",
@@ -74787,6 +74803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109011,
+      "num": 109011,
+      "word": "王者自选史诗皮肤活动开启",
+      "onboard_time": 1714375997,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108998,
       "num": 108998,
       "word": "金价出现回调",
@@ -75032,6 +75056,14 @@
       "word": "FSD",
       "onboard_time": 1714348096,
       "rank": 46,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 107652,
+      "num": 276225,
+      "word": "曹德旺红旗",
+      "onboard_time": 1714373058,
+      "rank": 17,
       "category": "汽车"
     },
     {
@@ -76705,14 +76737,6 @@
       "onboard_time": 1713873618,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94241,
-      "num": 276225,
-      "word": "曹德旺红旗",
-      "onboard_time": 1714373058,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 94123,
@@ -80924,7 +80948,7 @@
     },
     {
       "raw_hot": 35869,
-      "num": 133481,
+      "num": 206720,
       "word": "带红圈小金标的Pura70拍照有多顶",
       "onboard_time": 1714374677,
       "rank": 43,

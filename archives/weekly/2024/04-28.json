@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714375035543,
+  "endTime": 1714376065171,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -147,8 +147,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1383778,
-      "num": 1383778,
+      "raw_hot": 1395003,
+      "num": 1395003,
       "word": "40多名护士遭集体解职",
       "onboard_time": 1714369758,
       "rank": 3,
@@ -169,6 +169,14 @@
       "onboard_time": 1714359677,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1375336,
+      "num": 1375336,
+      "word": "鲁迅家属已向乐乐茶发律师函",
+      "onboard_time": 1714372698,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1366594,
@@ -232,14 +240,6 @@
       "word": "广州龙卷风已致5死33伤",
       "onboard_time": 1714233619,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1201217,
-      "num": 1201217,
-      "word": "鲁迅家属已向乐乐茶发律师函",
-      "onboard_time": 1714372698,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -995,6 +995,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 522598,
+      "num": 522598,
+      "word": "关晓彤想和张一山一起录节目",
+      "onboard_time": 1714371319,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 521749,
       "num": 521749,
       "word": "日本奢侈品白菜价白菜变奢侈品",
@@ -1073,14 +1081,6 @@
       "onboard_time": 1714236316,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 496948,
-      "num": 496948,
-      "word": "关晓彤想和张一山一起录节目",
-      "onboard_time": 1714371319,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 495405,
@@ -1579,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 322129,
+      "num": 322129,
+      "word": "B太 青岛",
+      "onboard_time": 1714370297,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 320228,
       "num": 320228,
       "word": "翟潇闻难哄出妆",
@@ -1593,14 +1601,6 @@
       "onboard_time": 1714301237,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319249,
-      "num": 319249,
-      "word": "B太 青岛",
-      "onboard_time": 1714370297,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 319104,
@@ -1723,6 +1723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 290829,
+      "num": 265881,
+      "word": "鹭卓 鲜花饼",
+      "onboard_time": 1714373179,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289395,
       "num": 289395,
       "word": "猫咪称自己一生从未进食只喝水",
@@ -1833,14 +1841,6 @@
       "onboard_time": 1714291818,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269896,
-      "num": 265881,
-      "word": "鹭卓 鲜花饼",
-      "onboard_time": 1714373179,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 268989,
@@ -2211,6 +2211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226966,
+      "num": 209880,
+      "word": "赵又廷杀回综艺了",
+      "onboard_time": 1714374918,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226804,
       "num": 226804,
       "word": "亲人的离世不是一时的暴雨",
@@ -2328,6 +2336,14 @@
       "word": "32岁男子酒后泡澡脑血管破裂进了ICU",
       "onboard_time": 1714310058,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215514,
+      "num": 215514,
+      "word": "北大教授称年轻人不要老想着眼前",
+      "onboard_time": 1714374077,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -2481,6 +2497,14 @@
       "onboard_time": 1714356439,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206534,
+      "num": 206534,
+      "word": "人体不会癌变的器官是什么",
+      "onboard_time": 1714374438,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 206361,
@@ -2779,14 +2803,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 193622,
-      "num": 191848,
-      "word": "人体不会癌变的器官是什么",
-      "onboard_time": 1714374438,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 193301,
       "num": 193301,
       "word": "NBA年度最强上篮",
@@ -2915,6 +2931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185334,
+      "num": 185334,
+      "word": "清华网球亡子",
+      "onboard_time": 1714374798,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184943,
       "num": 184943,
       "word": "杨九郎演张子枫的同事没见过张子枫",
@@ -3035,14 +3059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182202,
-      "num": 182202,
-      "word": "清华网球亡子",
-      "onboard_time": 1714374798,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 181889,
       "num": 181889,
       "word": "周鸿祎回应拍卖迈巴赫600",
@@ -3072,6 +3088,14 @@
       "word": "30斤的狗29斤的反骨",
       "onboard_time": 1714350198,
       "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 181347,
+      "num": 181347,
+      "word": "明天下班走出办公室的我",
+      "onboard_time": 1714375458,
+      "rank": 35,
       "category": "幽默"
     },
     {
@@ -3299,6 +3323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166338,
+      "num": 166338,
+      "word": "燥候ive回归",
+      "onboard_time": 1714375158,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165983,
       "num": 165983,
       "word": "为什么有人运动上脸",
@@ -3336,14 +3368,6 @@
       "word": "广东福建大暴雨冰雹齐发",
       "onboard_time": 1714265839,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161789,
-      "num": 161789,
-      "word": "北大教授称年轻人不要老想着眼前",
-      "onboard_time": 1714374077,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -3827,14 +3851,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 134627,
-      "num": 134627,
-      "word": "赵又廷杀回综艺了",
-      "onboard_time": 1714374918,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133989,
       "num": 133989,
       "word": "为什么西安餐桌上没有餐巾纸",
@@ -4211,6 +4227,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 109011,
+      "num": 109011,
+      "word": "王者自选史诗皮肤活动开启",
+      "onboard_time": 1714375997,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108811,
       "num": 108811,
       "word": "TT公布调查结果",
@@ -4232,6 +4256,14 @@
       "word": "FSD",
       "onboard_time": 1714348096,
       "rank": 46,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 107652,
+      "num": 276225,
+      "word": "曹德旺红旗",
+      "onboard_time": 1714373058,
+      "rank": 17,
       "category": "汽车"
     },
     {
@@ -4361,14 +4393,6 @@
       "onboard_time": 1714244051,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94241,
-      "num": 276225,
-      "word": "曹德旺红旗",
-      "onboard_time": 1714373058,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 93993,
@@ -4692,7 +4716,7 @@
     },
     {
       "raw_hot": 35869,
-      "num": 133481,
+      "num": 206720,
       "word": "带红圈小金标的Pura70拍照有多顶",
       "onboard_time": 1714374677,
       "rank": 43,
