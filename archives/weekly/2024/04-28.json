@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714383268477,
+  "endTime": 1714385978810,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -275,6 +275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1175186,
+      "num": 530427,
+      "word": "两岁男孩多次用枕巾捂妹妹脸",
+      "onboard_time": 1714379599,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1162512,
       "num": 323647,
       "word": "长期吃榴莲身体会发生什么变化",
@@ -297,14 +305,6 @@
       "onboard_time": 1714376238,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1112748,
-      "num": 530427,
-      "word": "两岁男孩多次用枕巾捂妹妹脸",
-      "onboard_time": 1714379599,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1081101,
@@ -451,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 928512,
+      "num": 928512,
+      "word": "男子买约800克黄金店员报警",
+      "onboard_time": 1714384097,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 921904,
       "num": 800603,
       "word": "眼泪女王 太癫了",
@@ -587,6 +595,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 828202,
+      "num": 828202,
+      "word": "黑鸭黑鸭黑鸭",
+      "onboard_time": 1714382480,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 826953,
       "num": 826953,
       "word": "问界M7起火事故逝者家属发声",
@@ -649,6 +665,14 @@
       "onboard_time": 1714227859,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 749962,
+      "num": 749962,
+      "word": "刘亦菲有在认真养她的小猫咪",
+      "onboard_time": 1714381819,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 739858,
@@ -1219,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 489480,
+      "num": 489480,
+      "word": "不该把中国妹都叫成熊猫妹",
+      "onboard_time": 1714383499,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 489377,
       "num": 489377,
       "word": "巴以冲突",
@@ -1683,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335723,
+      "num": 335723,
+      "word": "男子实名举报公司不让女性加夜班",
+      "onboard_time": 1714385239,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334072,
       "num": 333189,
       "word": "朴彩英收到霉霉新专礼盒",
@@ -1795,20 +1835,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315162,
+      "num": 315162,
+      "word": "melon曲线",
+      "onboard_time": 1714385239,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 313059,
       "num": 313059,
       "word": "赴山海 成毅",
       "onboard_time": 1714306699,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 312781,
-      "num": 256360,
-      "word": "刘亦菲有在认真养她的小猫咪",
-      "onboard_time": 1714381819,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 312611,
@@ -1953,6 +1993,14 @@
       "onboard_time": 1714265659,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280441,
+      "num": 280441,
+      "word": "iveMV 团扇",
+      "onboard_time": 1714385057,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 279520,
@@ -2443,12 +2491,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225927,
+      "num": 225927,
+      "word": "高铁地铁为什么不在夜间行车",
+      "onboard_time": 1714382538,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 225836,
       "num": 225836,
       "word": "人生容错率比你想象的更大",
       "onboard_time": 1714268659,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 224258,
+      "num": 224258,
+      "word": "近5年中国国家元首首访欧洲",
+      "onboard_time": 1714385538,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 224032,
@@ -2747,14 +2811,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205213,
-      "num": 205213,
-      "word": "黑鸭黑鸭黑鸭",
-      "onboard_time": 1714382480,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 205206,
       "num": 237411,
       "word": "九尾好C",
@@ -2881,6 +2937,14 @@
       "onboard_time": 1714316299,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200301,
+      "num": 200301,
+      "word": "肖战在日落黄昏时",
+      "onboard_time": 1714385838,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 200006,
@@ -3035,6 +3099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194588,
+      "num": 531533,
+      "word": "林更新改名了",
+      "onboard_time": 1714381159,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194428,
       "num": 194428,
       "word": "金智媛值得",
@@ -3049,6 +3121,14 @@
       "onboard_time": 1714380319,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193998,
+      "num": 193998,
+      "word": "老师我家文俊辉part呢",
+      "onboard_time": 1714385119,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 193904,
@@ -3137,6 +3217,14 @@
       "onboard_time": 1714313601,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191385,
+      "num": 191385,
+      "word": "芙曲灵魂",
+      "onboard_time": 1714385179,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 191128,
@@ -3571,6 +3659,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169112,
+      "num": 169112,
+      "word": "赵露思下一部剧是现代剧",
+      "onboard_time": 1714385778,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168165,
+      "num": 168165,
+      "word": "赵又廷夫妇和高圆圆",
+      "onboard_time": 1714384939,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167831,
       "num": 167831,
       "word": "许嵩演唱会嘉宾是丁世光",
@@ -3625,6 +3729,14 @@
       "onboard_time": 1714263319,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 164858,
+      "num": 164858,
+      "word": "医生说肚脐是人体的薄弱之处",
+      "onboard_time": 1714384218,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 163235,
@@ -3755,6 +3867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 157253,
+      "num": 157253,
+      "word": "王一博演无名是刘伟强推荐的",
+      "onboard_time": 1714383679,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157089,
       "num": 157089,
       "word": "突然发现自己好孤独",
@@ -3777,6 +3897,14 @@
       "onboard_time": 1714346534,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155657,
+      "num": 155657,
+      "word": "吴莫愁报名歌手",
+      "onboard_time": 1714385898,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 155490,
@@ -3825,14 +3953,6 @@
       "onboard_time": 1714363039,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152523,
-      "num": 152523,
-      "word": "高铁地铁为什么不在夜间行车",
-      "onboard_time": 1714382538,
-      "rank": 46,
-      "category": "科学科普"
     },
     {
       "raw_hot": 150080,
@@ -3913,6 +4033,14 @@
       "onboard_time": 1714263979,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148662,
+      "num": 129584,
+      "word": "王一博吃手又被逮到了",
+      "onboard_time": 1714385179,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 148620,
@@ -4419,6 +4547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125125,
+      "num": 409710,
+      "word": "现在浙江的咖啡这么卷了吗",
+      "onboard_time": 1714384759,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124588,
       "num": 124588,
       "word": "青岛海市蜃楼",
@@ -4433,6 +4569,14 @@
       "onboard_time": 1714273939,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123492,
+      "num": 123492,
+      "word": "小水獭独有的撒娇技巧",
+      "onboard_time": 1714385898,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 123333,
@@ -4497,14 +4641,6 @@
       "onboard_time": 1714376657,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 119248,
-      "num": 531533,
-      "word": "林更新改名了",
-      "onboard_time": 1714381159,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 119049,
