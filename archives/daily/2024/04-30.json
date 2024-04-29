@@ -1,6 +1,6 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714426455823,
+  "endTime": 1714429032994,
   "band_list": [
     {
       "raw_hot": 1269205,
@@ -193,6 +193,14 @@
       "onboard_time": 1714397719,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 156578,
+      "num": 43166,
+      "word": "蓝莓会是下一个超级水果吗",
+      "onboard_time": 1714423029,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 154421,
@@ -427,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62736,
-      "num": 28789,
-      "word": "蓝莓会是下一个超级水果吗",
-      "onboard_time": 1714423029,
-      "rank": 20,
-      "category": "美食"
-    },
-    {
       "raw_hot": 60343,
       "num": 60343,
       "word": "双子座潇洒背后的完美主义",
@@ -483,6 +483,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 35198,
+      "num": 35198,
+      "word": "张雨绮全绿开衩裙",
+      "onboard_time": 1714423331,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 27753,
+      "num": 59250,
+      "word": "4名医护出差途中救下一命",
+      "onboard_time": 1714415652,
+      "rank": 13,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 25866,
       "num": 35083,
       "word": "背着善宰跑",
@@ -491,44 +507,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23175,
-      "num": 23175,
-      "word": "张雨绮全绿开衩裙",
-      "onboard_time": 1714423331,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 18726,
-      "num": 18726,
-      "word": "感觉是小时候倒霉习惯了",
-      "onboard_time": 1714420870,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 18718,
-      "num": 18718,
-      "word": "被大章鱼缠满双脚",
-      "onboard_time": 1714418651,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 18007,
-      "num": 19557,
+      "raw_hot": 20410,
+      "num": 26358,
       "word": "尹锡悦与李在明会谈",
       "onboard_time": 1714418771,
       "rank": 47,
       "category": "国外时政"
     },
     {
-      "raw_hot": 15603,
-      "num": 38761,
-      "word": "4名医护出差途中救下一命",
-      "onboard_time": 1714415652,
-      "rank": 13,
-      "category": "社会正能量"
+      "raw_hot": 19240,
+      "num": 26349,
+      "word": "被大章鱼缠满双脚",
+      "onboard_time": 1714418651,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 18726,
+      "num": 26344,
+      "word": "感觉是小时候倒霉习惯了",
+      "onboard_time": 1714420870,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 8467,
