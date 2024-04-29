@@ -1,6 +1,6 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714430046343,
+  "endTime": 1714432671360,
   "band_list": [
     {
       "raw_hot": 1269205,
@@ -43,12 +43,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568571,
+      "num": 185411,
+      "word": "警方回应女子逛夜市裙子上现不明液体",
+      "onboard_time": 1714408154,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435983,
       "num": 435983,
       "word": "朴志效租房者预告",
       "onboard_time": 1714399402,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 417494,
+      "num": 417494,
+      "word": "女子直播时被失散32年的父亲认出",
+      "onboard_time": 1714392078,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353584,
@@ -59,27 +75,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 350022,
-      "num": 350022,
-      "word": "女子直播时被失散32年的父亲认出",
-      "onboard_time": 1714392078,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 319975,
       "num": 319975,
       "word": "厦门免费宿舍已有1千多人申请",
       "onboard_time": 1714407018,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293111,
-      "num": 185411,
-      "word": "警方回应女子逛夜市裙子上现不明液体",
-      "onboard_time": 1714408154,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -89,6 +89,14 @@
       "onboard_time": 1714398079,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280583,
+      "num": 120449,
+      "word": "蓝莓会是下一个超级水果吗",
+      "onboard_time": 1714423029,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 271121,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 231566,
-      "num": 182911,
+      "num": 186028,
       "word": "刘涛秦海璐 无趣的内容有趣地聊",
       "onboard_time": 1714408756,
       "rank": 13,
@@ -137,6 +145,14 @@
       "onboard_time": 1714395978,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214354,
+      "num": 214354,
+      "word": "李明德还是没学会人情世故",
+      "onboard_time": 1714402222,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196982,
@@ -171,6 +187,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169101,
+      "num": 169101,
+      "word": "游客反映董宇辉博物院直播耽误参观行程",
+      "onboard_time": 1714394079,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 167743,
       "num": 167743,
       "word": "杨幂制服卷发",
@@ -179,28 +203,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166693,
-      "num": 166693,
-      "word": "李明德还是没学会人情世故",
-      "onboard_time": 1714402222,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 161555,
       "num": 161555,
       "word": "肖战晚宴穿搭",
       "onboard_time": 1714397719,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 160991,
-      "num": 58240,
-      "word": "蓝莓会是下一个超级水果吗",
-      "onboard_time": 1714423029,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 154421,
@@ -275,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130477,
+      "num": 130477,
+      "word": "特斯拉市值一夜涨近6000亿",
+      "onboard_time": 1714432155,
+      "rank": 17,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 127746,
       "num": 127746,
       "word": "朱莉回应离婚",
@@ -331,6 +347,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 105690,
+      "num": 105690,
+      "word": "巧克力价格暴涨",
+      "onboard_time": 1714431855,
+      "rank": 24,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 103321,
       "num": 132188,
       "word": "初中女生被多人欺负殴打8人被行拘",
@@ -355,14 +379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 96622,
-      "num": 121792,
-      "word": "游客反映董宇辉博物院直播耽误参观行程",
-      "onboard_time": 1714394079,
-      "rank": 39,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 91724,
       "num": 94372,
       "word": "四月有七个周一",
@@ -371,12 +387,28 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 87448,
+      "raw_hot": 90882,
       "num": 118600,
       "word": "五一不回家也不旅游还能干什么",
       "onboard_time": 1714398198,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87098,
+      "num": 167594,
+      "word": "4名医护出差途中救下一命",
+      "onboard_time": 1714415652,
+      "rank": 13,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 83495,
+      "num": 83495,
+      "word": "国际不打小孩日",
+      "onboard_time": 1714432395,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81898,
@@ -385,6 +417,22 @@
       "onboard_time": 1714399281,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 80671,
+      "num": 80671,
+      "word": "5种常见食物是优质碳水",
+      "onboard_time": 1714431855,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 77851,
+      "num": 94391,
+      "word": "林更新苗苗同框",
+      "onboard_time": 1714395918,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 77142,
@@ -403,20 +451,20 @@
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 72931,
-      "num": 94391,
-      "word": "林更新苗苗同框",
-      "onboard_time": 1714395918,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 69711,
       "num": 118599,
       "word": "赛力斯一季度营收同比增长421.76%",
       "onboard_time": 1714403661,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 69318,
+      "num": 118599,
+      "word": "医生说肚脐是人体的薄弱之处",
+      "onboard_time": 1714384218,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 64004,
@@ -443,12 +491,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 56567,
-      "num": 118599,
-      "word": "医生说肚脐是人体的薄弱之处",
-      "onboard_time": 1714384218,
-      "rank": 49,
-      "category": "健康医疗"
+      "raw_hot": 54620,
+      "num": 54620,
+      "word": "妻子提前下班回家丈夫飞奔抱起",
+      "onboard_time": 1714432155,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54094,
@@ -457,6 +505,14 @@
       "onboard_time": 1714396758,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 49829,
+      "num": 49829,
+      "word": "85岁正是弯道超车的时候",
+      "onboard_time": 1714432216,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 43183,
@@ -468,7 +524,7 @@
     },
     {
       "raw_hot": 42460,
-      "num": 42460,
+      "num": 46665,
       "word": "张雨绮全绿开衩裙",
       "onboard_time": 1714423331,
       "rank": 30,
@@ -484,19 +540,11 @@
     },
     {
       "raw_hot": 41127,
-      "num": 41127,
+      "num": 46661,
       "word": "青山刚昌亲自修正周边图",
       "onboard_time": 1714411991,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 39383,
-      "num": 89258,
-      "word": "4名医护出差途中救下一命",
-      "onboard_time": 1714415652,
-      "rank": 13,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 25866,
@@ -539,8 +587,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2595,
-      "num": 212639,
+      "raw_hot": 4645,
+      "num": 420223,
       "word": "文化中国行",
       "onboard_time": 1713927617,
       "rank": 2,
