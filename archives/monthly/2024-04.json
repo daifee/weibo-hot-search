@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714404868373,
+  "endTime": 1714407740815,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -8939,6 +8939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 801866,
+      "num": 801866,
+      "word": "刘宇宁自曝录hi6受伤",
+      "onboard_time": 1714404260,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 801326,
       "num": 801326,
       "word": "五一购票难度堪比春运",
@@ -16593,6 +16601,14 @@
       "onboard_time": 1713924138,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 534665,
+      "num": 534665,
+      "word": "配娱癫公",
+      "onboard_time": 1714406239,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 534433,
@@ -25529,14 +25545,6 @@
       "onboard_time": 1713603858,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 374897,
-      "num": 374897,
-      "word": "刘宇宁自曝录hi6受伤",
-      "onboard_time": 1714404260,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 374782,
@@ -42537,6 +42545,14 @@
       "onboard_time": 1713711500,
       "rank": 40,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 217744,
+      "num": 176860,
+      "word": "官方回应广东一外卖员雨中落水身亡",
+      "onboard_time": 1714404859,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217607,
@@ -62635,6 +62651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154421,
+      "num": 154421,
+      "word": "我不善良遇强则强",
+      "onboard_time": 1714407077,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154402,
       "num": 154402,
       "word": "小米提醒不可魔改升级SU7车机硬件",
@@ -67073,6 +67097,14 @@
       "onboard_time": 1714145358,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142788,
+      "num": 142788,
+      "word": "书卷一梦将官宣",
+      "onboard_time": 1714404859,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 142782,
@@ -72203,6 +72235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126336,
+      "num": 155314,
+      "word": "厦门免费宿舍已有1千多人申请",
+      "onboard_time": 1714407018,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126312,
       "num": 126312,
       "word": "原来爱也有正反面",
@@ -75444,7 +75484,7 @@
     },
     {
       "raw_hot": 112485,
-      "num": 116468,
+      "num": 118599,
       "word": "让谁去上夜班",
       "onboard_time": 1714403243,
       "rank": 45,
