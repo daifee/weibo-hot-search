@@ -1,0 +1,410 @@
+{
+  "runTime": 1714379047530,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1235353,
+        "num": 1235353,
+        "word": "鲁迅家属已向乐乐茶发律师函",
+        "onboard_time": 1714372698,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1117891,
+        "num": 1117891,
+        "word": "Jennie那英",
+        "onboard_time": 1714376238,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63724,
+        "num": 981401,
+        "word": "神十七乘组在轨工作总结",
+        "onboard_time": 1714377138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 893516,
+        "num": 893516,
+        "word": "明天下班走出办公室的我",
+        "onboard_time": 1714375458,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 757286,
+        "num": 757286,
+        "word": "40多名护士遭集体解职",
+        "onboard_time": 1714369758,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714420,
+        "num": 714420,
+        "word": "赵露思好红",
+        "onboard_time": 1714377798,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 638987,
+        "num": 638987,
+        "word": "清华网球亡子",
+        "onboard_time": 1714374798,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 569356,
+        "num": 569356,
+        "word": "将门毒后改名为将门独后",
+        "onboard_time": 1714369817,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 524407,
+        "num": 524407,
+        "word": "北大教授称年轻人不要老想着眼前",
+        "onboard_time": 1714374077,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131150,
+        "num": 512650,
+        "word": "相恋7年夫妻像热恋时一样恩爱",
+        "onboard_time": 1714364539,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1154429,
+        "num": 511702,
+        "word": "徐艺洋是真不想给黄子韬名分",
+        "onboard_time": 1714377679,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545940,
+        "num": 511626,
+        "word": "金靖曾被舒奕橙三次取关",
+        "onboard_time": 1714371859,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505834,
+        "num": 505834,
+        "word": "付鹏与李佳琦仍共同持股公司",
+        "onboard_time": 1714376538,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 488728,
+        "num": 488728,
+        "word": "歌手2024请揭榜",
+        "onboard_time": 1714376958,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375421,
+        "num": 375421,
+        "word": "雷军 爽文",
+        "onboard_time": 1714377978,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 362332,
+        "num": 362332,
+        "word": "关晓彤想和张一山一起录节目",
+        "onboard_time": 1714371319,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354215,
+        "num": 354215,
+        "word": "提出涨薪1000涨了500",
+        "onboard_time": 1714364299,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 335682,
+        "num": 335682,
+        "word": "福建舰",
+        "onboard_time": 1714377978,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 300878,
+        "num": 300878,
+        "word": "003",
+        "onboard_time": 1714378278,
+        "rank": 18,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 252328,
+        "num": 252328,
+        "word": "袁娅维3次发文怼浪姐",
+        "onboard_time": 1714359919,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459188,
+        "num": 249863,
+        "word": "紫燕百味鸡被吐槽超薄外卖盒",
+        "onboard_time": 1714376538,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 392246,
+        "num": 248366,
+        "word": "请病假还走了两万的微信步数",
+        "onboard_time": 1714367179,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285186,
+        "num": 247765,
+        "word": "癌症可能是省出来的",
+        "onboard_time": 1714370358,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243129,
+        "num": 243129,
+        "word": "长沙天黑了",
+        "onboard_time": 1714367779,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239999,
+        "num": 239999,
+        "word": "付鹏 享受生活",
+        "onboard_time": 1714361600,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 237618,
+        "num": 237618,
+        "word": "王一博让主持人不要王吧一起说",
+        "onboard_time": 1714378879,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217830,
+        "num": 217830,
+        "word": "付鹏全网账号注销",
+        "onboard_time": 1714358658,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 215719,
+        "num": 215719,
+        "word": "肚脐里的泥抠完真的会拉肚子吗",
+        "onboard_time": 1714358778,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205393,
+        "num": 205393,
+        "word": "SEVENTEEN发布会",
+        "onboard_time": 1714376118,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192588,
+        "num": 201511,
+        "word": "一条plog告别四月",
+        "onboard_time": 1714378879,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201028,
+        "num": 201028,
+        "word": "眼泪女王结局 临时补拍",
+        "onboard_time": 1714357518,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198231,
+        "num": 198231,
+        "word": "屠宰场处理一只活猫仅需几分钟",
+        "onboard_time": 1714377318,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197333,
+        "num": 197333,
+        "word": "肖战18秒换了6套造型",
+        "onboard_time": 1714369279,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186973,
+        "num": 186973,
+        "word": "人体不会癌变的器官是什么",
+        "onboard_time": 1714374438,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180453,
+        "num": 180453,
+        "word": "鹭卓 鲜花饼",
+        "onboard_time": 1714373179,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161382,
+        "num": 161382,
+        "word": "30岁你的存款达标了吗",
+        "onboard_time": 1714367359,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158052,
+        "num": 158052,
+        "word": "虞书欣美式女高",
+        "onboard_time": 1714371739,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156734,
+        "num": 156734,
+        "word": "领导重新定义二本",
+        "onboard_time": 1714373357,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155615,
+        "num": 155615,
+        "word": "心脏好不好看脸就知道",
+        "onboard_time": 1714378939,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147946,
+        "num": 147946,
+        "word": "记者暗访吃猫贩猫黑色产业链",
+        "onboard_time": 1714378398,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143940,
+        "num": 143940,
+        "word": "B太 青岛",
+        "onboard_time": 1714370297,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 139464,
+        "num": 139464,
+        "word": "教练Gemini回归",
+        "onboard_time": 1714368438,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138684,
+        "num": 138684,
+        "word": "赵又廷杀回综艺了",
+        "onboard_time": 1714374918,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136235,
+        "num": 136235,
+        "word": "字节跳动4人涉嫌刑事犯罪被立案",
+        "onboard_time": 1714356439,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127031,
+        "num": 127031,
+        "word": "原来真的有人能记住你随口说的话",
+        "onboard_time": 1714376057,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 76501,
+        "num": 127010,
+        "word": "日元汇率一度跌破160日元兑1美元",
+        "onboard_time": 1714365140,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126995,
+        "num": 126995,
+        "word": "王者自选史诗皮肤活动开启",
+        "onboard_time": 1714375997,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121793,
+        "num": 121793,
+        "word": "最好坚持的减肥运动",
+        "onboard_time": 1714371077,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 119355,
+        "num": 119355,
+        "word": "刘浩存绿色眼影",
+        "onboard_time": 1714376657,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117328,
+        "num": 117328,
+        "word": "宋雨琦被自己小卡价格吓到",
+        "onboard_time": 1714365140,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#着力打造具有全球影响力的产业科技创新中心#"
+    }
+  }
+}

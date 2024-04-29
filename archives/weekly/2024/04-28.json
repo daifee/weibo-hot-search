@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714376065171,
+  "endTime": 1714379047530,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1429219,
-      "num": 480388,
+      "num": 511626,
       "word": "金靖曾被舒奕橙三次取关",
       "onboard_time": 1714371859,
       "rank": 10,
@@ -267,12 +267,28 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 1154429,
+      "num": 511702,
+      "word": "徐艺洋是真不想给黄子韬名分",
+      "onboard_time": 1714377679,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1146430,
       "num": 1146430,
       "word": "将门毒后改名为将门独后",
       "onboard_time": 1714369817,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1117891,
+      "num": 1117891,
+      "word": "Jennie那英",
+      "onboard_time": 1714376238,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1081101,
@@ -441,6 +457,14 @@
       "onboard_time": 1714295477,
       "rank": 28,
       "category": "社会新闻,汽车"
+    },
+    {
+      "raw_hot": 893516,
+      "num": 893516,
+      "word": "明天下班走出办公室的我",
+      "onboard_time": 1714375458,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 888054,
@@ -651,6 +675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 714420,
+      "num": 714420,
+      "word": "赵露思好红",
+      "onboard_time": 1714377798,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 713311,
       "num": 713311,
       "word": "眼泪女王女主死了",
@@ -777,6 +809,14 @@
       "onboard_time": 1714301357,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 638987,
+      "num": 638987,
+      "word": "清华网球亡子",
+      "onboard_time": 1714374798,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 636021,
@@ -995,6 +1035,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 524407,
+      "num": 524407,
+      "word": "北大教授称年轻人不要老想着眼前",
+      "onboard_time": 1714374077,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522598,
       "num": 522598,
       "word": "关晓彤想和张一山一起录节目",
@@ -1059,6 +1107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 505834,
+      "num": 505834,
+      "word": "付鹏与李佳琦仍共同持股公司",
+      "onboard_time": 1714376538,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 505452,
       "num": 505452,
       "word": "孟子义片场睡觉被围观",
@@ -1121,6 +1177,14 @@
       "onboard_time": 1714360218,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 488728,
+      "num": 488728,
+      "word": "歌手2024请揭榜",
+      "onboard_time": 1714376958,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 484167,
@@ -1193,6 +1257,14 @@
       "onboard_time": 1714317978,
       "rank": 29,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 459188,
+      "num": 249863,
+      "word": "紫燕百味鸡被吐槽超薄外卖盒",
+      "onboard_time": 1714376538,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 457938,
@@ -1411,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375421,
+      "num": 375421,
+      "word": "雷军 爽文",
+      "onboard_time": 1714377978,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 373167,
       "num": 373167,
       "word": "字节回应61人违法违纪被辞退",
@@ -1529,6 +1609,14 @@
       "onboard_time": 1714270338,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335682,
+      "num": 335682,
+      "word": "福建舰",
+      "onboard_time": 1714377978,
+      "rank": 17,
+      "category": "军事"
     },
     {
       "raw_hot": 334072,
@@ -1681,6 +1769,14 @@
       "onboard_time": 1714341191,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300878,
+      "num": 300878,
+      "word": "003",
+      "onboard_time": 1714378278,
+      "rank": 18,
+      "category": "军事,国内时政"
     },
     {
       "raw_hot": 299112,
@@ -2123,6 +2219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 237618,
+      "num": 237618,
+      "word": "王一博让主持人不要王吧一起说",
+      "onboard_time": 1714378879,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 234579,
       "num": 165336,
       "word": "原来踩着东西吃饭是气血不足",
@@ -2339,14 +2443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215514,
-      "num": 215514,
-      "word": "北大教授称年轻人不要老想着眼前",
-      "onboard_time": 1714374077,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214150,
       "num": 214150,
       "word": "长相思未婚夫跑去做榜上佳婿了",
@@ -2531,6 +2627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205393,
+      "num": 205393,
+      "word": "SEVENTEEN发布会",
+      "onboard_time": 1714376118,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205206,
       "num": 237411,
       "word": "九尾好C",
@@ -2683,6 +2787,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 198231,
+      "num": 198231,
+      "word": "屠宰场处理一只活猫仅需几分钟",
+      "onboard_time": 1714377318,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197902,
       "num": 197902,
       "word": "不够善良的我们 单身女性",
@@ -2827,6 +2939,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 192588,
+      "num": 201511,
+      "word": "一条plog告别四月",
+      "onboard_time": 1714378879,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192419,
       "num": 192419,
       "word": "2024KPL王者梦之队",
@@ -2929,14 +3049,6 @@
       "onboard_time": 1714290318,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 185334,
-      "num": 185334,
-      "word": "清华网球亡子",
-      "onboard_time": 1714374798,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 184943,
@@ -3088,14 +3200,6 @@
       "word": "30斤的狗29斤的反骨",
       "onboard_time": 1714350198,
       "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 181347,
-      "num": 181347,
-      "word": "明天下班走出办公室的我",
-      "onboard_time": 1714375458,
-      "rank": 35,
       "category": "幽默"
     },
     {
@@ -3491,6 +3595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155615,
+      "num": 155615,
+      "word": "心脏好不好看脸就知道",
+      "onboard_time": 1714378939,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 155490,
       "num": 587789,
       "word": "男子曾获老师无偿资助回母校捐款50万",
@@ -3625,6 +3737,14 @@
       "onboard_time": 1714222578,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147946,
+      "num": 147946,
+      "word": "记者暗访吃猫贩猫黑色产业链",
+      "onboard_time": 1714378398,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147937,
@@ -4011,12 +4131,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127031,
+      "num": 127031,
+      "word": "原来真的有人能记住你随口说的话",
+      "onboard_time": 1714376057,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127028,
       "num": 127028,
       "word": "朴志晟黑框眼镜",
       "onboard_time": 1714316118,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126995,
+      "num": 126995,
+      "word": "王者自选史诗皮肤活动开启",
+      "onboard_time": 1714375997,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 126139,
@@ -4131,6 +4267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119355,
+      "num": 119355,
+      "word": "刘浩存绿色眼影",
+      "onboard_time": 1714376657,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 119049,
       "num": 119049,
       "word": "张馨予何捷路遇被撞猫咪",
@@ -4225,14 +4369,6 @@
       "onboard_time": 1714292479,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 109011,
-      "num": 109011,
-      "word": "王者自选史诗皮肤活动开启",
-      "onboard_time": 1714375997,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 108811,
@@ -4537,6 +4673,14 @@
       "onboard_time": 1714282518,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 63724,
+      "num": 981401,
+      "word": "神十七乘组在轨工作总结",
+      "onboard_time": 1714377138,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63504,
