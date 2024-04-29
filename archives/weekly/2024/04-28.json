@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714408617430,
+  "endTime": 1714410943557,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -2123,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319975,
+      "num": 319975,
+      "word": "厦门免费宿舍已有1千多人申请",
+      "onboard_time": 1714407018,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319368,
       "num": 319368,
       "word": "博世声明",
@@ -2345,6 +2353,14 @@
       "onboard_time": 1714265659,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280542,
+      "num": 185411,
+      "word": "警方回应女子逛夜市裙子上现不明液体",
+      "onboard_time": 1714408154,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280441,
@@ -2867,6 +2883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229223,
+      "num": 182911,
+      "word": "刘涛秦海璐 无趣的内容有趣地聊",
+      "onboard_time": 1714408756,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229129,
       "num": 229129,
       "word": "赵丽颖围炉煮茶随拍",
@@ -3281,14 +3305,6 @@
       "onboard_time": 1714297038,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 205799,
-      "num": 205799,
-      "word": "厦门免费宿舍已有1千多人申请",
-      "onboard_time": 1714407018,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205393,
@@ -4283,6 +4299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169649,
+      "num": 169649,
+      "word": "中老年人患带状疱疹有多痛苦",
+      "onboard_time": 1714406419,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 169430,
       "num": 169430,
       "word": "朱洁静抢票失败",
@@ -4801,14 +4825,6 @@
       "onboard_time": 1714391959,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 146900,
-      "num": 146900,
-      "word": "中老年人患带状疱疹有多痛苦",
-      "onboard_time": 1714406419,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 146090,
@@ -5787,6 +5803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84675,
+      "num": 94372,
+      "word": "四月有七个周一",
+      "onboard_time": 1714408456,
+      "rank": 49,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 83590,
       "num": 298135,
       "word": "王一博的百变角色",
@@ -5825,14 +5849,6 @@
       "onboard_time": 1714322055,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 76954,
-      "num": 101830,
-      "word": "警方回应女子逛夜市裙子上现不明液体",
-      "onboard_time": 1714408154,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76612,
@@ -5915,6 +5931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60343,
+      "num": 60343,
+      "word": "双子座潇洒背后的完美主义",
+      "onboard_time": 1714402101,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 59536,
       "num": 380269,
       "word": "满级人类如何看待未来汽车",
@@ -5961,14 +5985,6 @@
       "onboard_time": 1714390097,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 52860,
-      "num": 94372,
-      "word": "四月有七个周一",
-      "onboard_time": 1714408456,
-      "rank": 49,
-      "category": "社会议题"
     },
     {
       "raw_hot": 51911,

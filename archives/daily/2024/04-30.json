@@ -1,6 +1,6 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714408617430,
+  "endTime": 1714410943557,
   "band_list": [
     {
       "raw_hot": 1269205,
@@ -67,12 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319975,
+      "num": 319975,
+      "word": "厦门免费宿舍已有1千多人申请",
+      "onboard_time": 1714407018,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284026,
       "num": 284026,
       "word": "庄洁妈妈 窒息",
       "onboard_time": 1714398079,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280542,
+      "num": 185411,
+      "word": "警方回应女子逛夜市裙子上现不明液体",
+      "onboard_time": 1714408154,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271121,
@@ -99,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229223,
+      "num": 182911,
+      "word": "刘涛秦海璐 无趣的内容有趣地聊",
+      "onboard_time": 1714408756,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229126,
       "num": 195059,
       "word": "沈景病",
@@ -113,14 +137,6 @@
       "onboard_time": 1714395978,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205799,
-      "num": 205799,
-      "word": "厦门免费宿舍已有1千多人申请",
-      "onboard_time": 1714407018,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196982,
@@ -144,6 +160,14 @@
       "word": "长期久坐或致男性不育",
       "onboard_time": 1714397840,
       "rank": 17,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 169649,
+      "num": 169649,
+      "word": "中老年人患带状疱疹有多痛苦",
+      "onboard_time": 1714406419,
+      "rank": 29,
       "category": "健康医疗"
     },
     {
@@ -185,14 +209,6 @@
       "onboard_time": 1714400002,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146900,
-      "num": 146900,
-      "word": "中老年人患带状疱疹有多痛苦",
-      "onboard_time": 1714406419,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 145517,
@@ -347,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84675,
+      "num": 94372,
+      "word": "四月有七个周一",
+      "onboard_time": 1714408456,
+      "rank": 49,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 81898,
       "num": 118600,
       "word": "别让旗袍限制了我们的运动",
@@ -361,14 +385,6 @@
       "onboard_time": 1714387398,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 76954,
-      "num": 101830,
-      "word": "警方回应女子逛夜市裙子上现不明液体",
-      "onboard_time": 1714408154,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73966,
@@ -411,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60343,
+      "num": 60343,
+      "word": "双子座潇洒背后的完美主义",
+      "onboard_time": 1714402101,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 56567,
       "num": 118599,
       "word": "医生说肚脐是人体的薄弱之处",
@@ -419,17 +443,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 52860,
-      "num": 94372,
-      "word": "四月有七个周一",
-      "onboard_time": 1714408456,
-      "rank": 49,
-      "category": "社会议题"
+      "raw_hot": 54094,
+      "num": 54094,
+      "word": "鹿晗现身末路狂花钱首映礼",
+      "onboard_time": 1714396758,
+      "rank": 42,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平将访问法国塞尔维亚匈牙利#"
+    },
+    {
+      "word": "#着力打造具有全球影响力的产业科技创新中心#"
     }
   ]
 }
