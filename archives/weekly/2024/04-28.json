@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714400281351,
+  "endTime": 1714401277471,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1417978,
+      "num": 1417978,
+      "word": "南京胖哥被初诊为PTSD",
+      "onboard_time": 1714397241,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1409612,
       "num": 1395268,
       "word": "调休",
@@ -177,14 +185,6 @@
       "onboard_time": 1714262177,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1375948,
-      "num": 1375948,
-      "word": "南京胖哥被初诊为PTSD",
-      "onboard_time": 1714397241,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1375688,
@@ -211,6 +211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1360139,
+      "num": 532664,
+      "word": "徐艺洋是真不想给黄子韬名分",
+      "onboard_time": 1714377679,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1353551,
       "num": 1318516,
       "word": "美国多人使用吸血鬼面膜感染HIV",
@@ -233,14 +241,6 @@
       "onboard_time": 1714270338,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1312338,
-      "num": 532664,
-      "word": "徐艺洋是真不想给黄子韬名分",
-      "onboard_time": 1714377679,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1304934,
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789084,
+      "num": 789084,
+      "word": "猫肉被整只烧烤售卖",
+      "onboard_time": 1714397659,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 782120,
       "num": 782120,
       "word": "抢到了",
@@ -1147,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562099,
+      "num": 562099,
+      "word": "沈景病",
+      "onboard_time": 1714397599,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554453,
       "num": 425774,
       "word": "问界M7车祸四大疑问",
@@ -1169,14 +1185,6 @@
       "onboard_time": 1714360400,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 548409,
-      "num": 548409,
-      "word": "猫肉被整只烧烤售卖",
-      "onboard_time": 1714397659,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 547888,
@@ -1219,20 +1227,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 526787,
-      "num": 526787,
-      "word": "沈景病",
-      "onboard_time": 1714397599,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 526241,
       "num": 526241,
       "word": "华为HR",
       "onboard_time": 1714392259,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 526173,
+      "num": 526173,
+      "word": "朴志效租房者预告",
+      "onboard_time": 1714399402,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 525646,
@@ -1299,6 +1307,14 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 515759,
+      "num": 515759,
+      "word": "长期久坐或致男性不育",
+      "onboard_time": 1714397840,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 513296,
       "num": 513296,
       "word": "福建舰",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1714236316,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 495711,
+      "num": 495711,
+      "word": "CCTV综艺放了赵丽颖簪花照",
+      "onboard_time": 1714399821,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 495405,
@@ -1563,14 +1587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 452063,
-      "num": 356275,
-      "word": "朴志效租房者预告",
-      "onboard_time": 1714399402,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 449967,
       "num": 422251,
       "word": "SEVENTEEN回归",
@@ -1715,14 +1731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414354,
-      "num": 414354,
-      "word": "长期久坐或致男性不育",
-      "onboard_time": 1714397840,
-      "rank": 13,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 414080,
       "num": 414080,
       "word": "眼泪女王",
@@ -1737,6 +1745,14 @@
       "onboard_time": 1714298118,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 410412,
+      "num": 304402,
+      "word": "存多少钱能用利息生活",
+      "onboard_time": 1714399281,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 406406,
@@ -1905,6 +1921,14 @@
       "onboard_time": 1714316118,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 359381,
+      "num": 318556,
+      "word": "原来是因为头发少所以油得快",
+      "onboard_time": 1714395318,
+      "rank": 21,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 358842,
@@ -2083,14 +2107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 318556,
-      "num": 318556,
-      "word": "原来是因为头发少所以油得快",
-      "onboard_time": 1714395318,
-      "rank": 21,
-      "category": "科学科普,健康医疗"
-    },
-    {
       "raw_hot": 317595,
       "num": 274533,
       "word": "饭饭发文",
@@ -2179,20 +2195,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 304402,
-      "num": 304402,
-      "word": "存多少钱能用利息生活",
-      "onboard_time": 1714399281,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 303283,
       "num": 303283,
       "word": "IVE 烟杆",
       "onboard_time": 1714389138,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 299778,
+      "num": 409332,
+      "word": "谁说国内没有好恐怖片",
+      "onboard_time": 1714396218,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 299112,
@@ -2339,14 +2355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273927,
-      "num": 273927,
-      "word": "CCTV综艺放了赵丽颖簪花照",
-      "onboard_time": 1714399821,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 273739,
       "num": 273739,
       "word": "华为小米手机大部分由比亚迪生产",
@@ -2419,6 +2427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267942,
+      "num": 238403,
+      "word": "春色寄情人看脸红了",
+      "onboard_time": 1714400002,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267705,
       "num": 235159,
       "word": "鹿晗现身末路狂花钱首映礼",
@@ -2433,6 +2449,14 @@
       "onboard_time": 1714373357,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 265622,
+      "num": 237718,
+      "word": "丁太升爆吉克隽逸真实性格",
+      "onboard_time": 1714399821,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 264020,
@@ -2747,6 +2771,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 234292,
+      "num": 234292,
+      "word": "王鹤棣直播",
+      "onboard_time": 1714400661,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233067,
       "num": 136399,
       "word": "外国游客3个月爆买1.75万亿日元",
@@ -2817,14 +2849,6 @@
       "onboard_time": 1714262658,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228169,
-      "num": 228169,
-      "word": "谁说国内没有好恐怖片",
-      "onboard_time": 1714396218,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 228093,
@@ -3027,6 +3051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213599,
+      "num": 217277,
+      "word": "新疆地震",
+      "onboard_time": 1714398622,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213559,
       "num": 529113,
       "word": "天水表情包大叔靠麻辣烫追星成功",
@@ -3088,14 +3120,6 @@
       "word": "女子在丈夫按摩后长巨大肿块",
       "onboard_time": 1714347375,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209787,
-      "num": 217277,
-      "word": "新疆地震",
-      "onboard_time": 1714398622,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -3787,14 +3811,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 184774,
-      "num": 184774,
-      "word": "春色寄情人看脸红了",
-      "onboard_time": 1714400002,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184674,
       "num": 184674,
       "word": "朱丹孩子告诉她上浪姐不能哭",
@@ -4059,14 +4075,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 175802,
-      "num": 175802,
-      "word": "丁太升爆吉克隽逸真实性格",
-      "onboard_time": 1714399821,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175194,
       "num": 175194,
       "word": "韩信无双",
@@ -4195,6 +4203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168036,
+      "num": 168036,
+      "word": "比亚迪一季度净利润45.7亿元",
+      "onboard_time": 1714400181,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 167831,
       "num": 167831,
       "word": "许嵩演唱会嘉宾是丁世光",
@@ -4305,6 +4321,14 @@
       "onboard_time": 1714284079,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159877,
+      "num": 159877,
+      "word": "为什么肥胖纹有红色和白色两种",
+      "onboard_time": 1714400961,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 159797,
@@ -4704,14 +4728,6 @@
       "word": "特斯拉",
       "onboard_time": 1714314919,
       "rank": 43,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 145251,
-      "num": 145251,
-      "word": "比亚迪一季度净利润45.7亿元",
-      "onboard_time": 1714400181,
-      "rank": 48,
       "category": "汽车"
     },
     {
@@ -5260,7 +5276,7 @@
     },
     {
       "raw_hot": 119590,
-      "num": 724723,
+      "num": 790569,
       "word": "五一公路出行将呈现五大特点",
       "onboard_time": 1714396999,
       "rank": 2,
@@ -5529,6 +5545,14 @@
       "onboard_time": 1714346956,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98626,
+      "num": 121737,
+      "word": "加一箱92号汽油少花2.5元",
+      "onboard_time": 1714400781,
+      "rank": 49,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 95545,
