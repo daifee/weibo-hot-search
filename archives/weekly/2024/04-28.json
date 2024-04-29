@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714412133765,
+  "endTime": 1714414972050,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -6075,12 +6075,28 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 43183,
+      "num": 36284,
+      "word": "胡皓康 超A的脸上露出很O的笑容",
+      "onboard_time": 1714412952,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 41879,
       "num": 41879,
       "word": "中岛美嘉 音乐就是救命稻草",
       "onboard_time": 1714241832,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 41127,
+      "num": 41127,
+      "word": "青山刚昌亲自修正周边图",
+      "onboard_time": 1714411991,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 39842,
@@ -6137,14 +6153,6 @@
       "onboard_time": 1714330631,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 29986,
-      "num": 38555,
-      "word": "青山刚昌亲自修正周边图",
-      "onboard_time": 1714411991,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 27949,
