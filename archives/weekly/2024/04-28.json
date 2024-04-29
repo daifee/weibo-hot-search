@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714418055486,
+  "endTime": 1714419266224,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -6209,6 +6209,22 @@
       "onboard_time": 1714330932,
       "rank": 48,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 15879,
+      "num": 17914,
+      "word": "被大章鱼缠满双脚",
+      "onboard_time": 1714418651,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 14216,
+      "num": 17899,
+      "word": "尹锡悦与李在明会谈",
+      "onboard_time": 1714418771,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 13911,
