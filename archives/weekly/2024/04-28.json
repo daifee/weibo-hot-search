@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714397655358,
+  "endTime": 1714400281351,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1375948,
+      "num": 1375948,
+      "word": "南京胖哥被初诊为PTSD",
+      "onboard_time": 1714397241,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1375688,
       "num": 1050566,
       "word": "我妻之死",
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 1078731,
-      "num": 447710,
+      "num": 470648,
       "word": "朱莉回应离婚",
       "onboard_time": 1714390037,
       "rank": 16,
@@ -659,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 838017,
+      "num": 838017,
+      "word": "庄洁妈妈 窒息",
+      "onboard_time": 1714398079,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 835689,
       "num": 835689,
       "word": "郝蕾怒批赵晴",
@@ -795,6 +811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 716489,
+      "num": 716489,
+      "word": "苗苗不愧是北舞严选",
+      "onboard_time": 1714395978,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 713311,
       "num": 713311,
       "word": "眼泪女王女主死了",
@@ -923,14 +947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 646124,
-      "num": 646124,
-      "word": "苗苗不愧是北舞严选",
-      "onboard_time": 1714395978,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 645805,
       "num": 645805,
       "word": "时代少年团MV有女主",
@@ -1035,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599167,
+      "num": 470831,
+      "word": "辛芷蕾工作室关闭后援会账号",
+      "onboard_time": 1714395799,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 594169,
       "num": 594169,
       "word": "iPhone16系列全新摄像头模组",
@@ -1057,14 +1081,6 @@
       "onboard_time": 1714312218,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 586470,
-      "num": 447114,
-      "word": "辛芷蕾工作室关闭后援会账号",
-      "onboard_time": 1714395799,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 579830,
@@ -1155,6 +1171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 548409,
+      "num": 548409,
+      "word": "猫肉被整只烧烤售卖",
+      "onboard_time": 1714397659,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547888,
       "num": 547888,
       "word": "付鹏与李佳琦仍共同持股公司",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1714277659,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526787,
+      "num": 526787,
+      "word": "沈景病",
+      "onboard_time": 1714397599,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 526241,
@@ -1379,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484911,
+      "num": 484911,
+      "word": "肖战晚宴穿搭",
+      "onboard_time": 1714397719,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 484167,
       "num": 484167,
       "word": "马斯克确认特斯拉Model2明年上市",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1714285698,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471554,
+      "num": 471554,
+      "word": "露水情缘 比纸都薄",
+      "onboard_time": 1714395918,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 464998,
@@ -1507,20 +1555,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 455748,
-      "num": 455748,
-      "word": "露水情缘 比纸都薄",
-      "onboard_time": 1714395918,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 455174,
       "num": 455174,
       "word": "快船2比2独行侠",
       "onboard_time": 1714345754,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 452063,
+      "num": 356275,
+      "word": "朴志效租房者预告",
+      "onboard_time": 1714399402,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 449967,
@@ -1667,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414354,
+      "num": 414354,
+      "word": "长期久坐或致男性不育",
+      "onboard_time": 1714397840,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 414080,
       "num": 414080,
       "word": "眼泪女王",
@@ -1772,7 +1828,7 @@
     },
     {
       "raw_hot": 380153,
-      "num": 292572,
+      "num": 345075,
       "word": "林更新苗苗同框",
       "onboard_time": 1714395918,
       "rank": 22,
@@ -2027,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318556,
+      "num": 318556,
+      "word": "原来是因为头发少所以油得快",
+      "onboard_time": 1714395318,
+      "rank": 21,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 317595,
       "num": 274533,
       "word": "饭饭发文",
@@ -2113,6 +2177,14 @@
       "onboard_time": 1714341191,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304402,
+      "num": 304402,
+      "word": "存多少钱能用利息生活",
+      "onboard_time": 1714399281,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 303283,
@@ -2267,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273927,
+      "num": 273927,
+      "word": "CCTV综艺放了赵丽颖簪花照",
+      "onboard_time": 1714399821,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273739,
       "num": 273739,
       "word": "华为小米手机大部分由比亚迪生产",
@@ -2297,14 +2377,6 @@
       "onboard_time": 1714224318,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 270865,
-      "num": 270865,
-      "word": "原来是因为头发少所以油得快",
-      "onboard_time": 1714395318,
-      "rank": 21,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 270529,
@@ -2393,14 +2465,6 @@
       "onboard_time": 1714295180,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 257497,
-      "num": 257497,
-      "word": "南京胖哥被初诊为PTSD",
-      "onboard_time": 1714397241,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256314,
@@ -2619,6 +2683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242307,
+      "num": 242307,
+      "word": "五一不回家也不旅游还能干什么",
+      "onboard_time": 1714398198,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242004,
       "num": 242004,
       "word": "老头杯",
@@ -2745,6 +2817,14 @@
       "onboard_time": 1714262658,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228169,
+      "num": 228169,
+      "word": "谁说国内没有好恐怖片",
+      "onboard_time": 1714396218,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 228093,
@@ -3008,6 +3088,14 @@
       "word": "女子在丈夫按摩后长巨大肿块",
       "onboard_time": 1714347375,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209787,
+      "num": 217277,
+      "word": "新疆地震",
+      "onboard_time": 1714398622,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -3651,6 +3739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186162,
+      "num": 186162,
+      "word": "下月底中国与格鲁吉亚互免签证",
+      "onboard_time": 1714399221,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 185947,
       "num": 185947,
       "word": "肖战街头风穿搭",
@@ -3689,6 +3785,14 @@
       "onboard_time": 1714362140,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 184774,
+      "num": 184774,
+      "word": "春色寄情人看脸红了",
+      "onboard_time": 1714400002,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 184674,
@@ -3764,7 +3868,7 @@
     },
     {
       "raw_hot": 183929,
-      "num": 448416,
+      "num": 470980,
       "word": "你的五一搭子是谁",
       "onboard_time": 1714387398,
       "rank": 9,
@@ -3955,6 +4059,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 175802,
+      "num": 175802,
+      "word": "丁太升爆吉克隽逸真实性格",
+      "onboard_time": 1714399821,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175194,
       "num": 175194,
       "word": "韩信无双",
@@ -3969,14 +4081,6 @@
       "onboard_time": 1714385898,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174786,
-      "num": 174786,
-      "word": "谁说国内没有好恐怖片",
-      "onboard_time": 1714396218,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 174552,
@@ -4115,14 +4219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166965,
-      "num": 166965,
-      "word": "沈景病",
-      "onboard_time": 1714397599,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166655,
       "num": 695578,
       "word": "五一假期5天小客车高速免费",
@@ -4233,6 +4329,14 @@
       "onboard_time": 1714352240,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158107,
+      "num": 158107,
+      "word": "别让旗袍限制了我们的运动",
+      "onboard_time": 1714399281,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 157929,
@@ -4555,6 +4659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147449,
+      "num": 147449,
+      "word": "小姨养大的宝贝主打一个不差钱",
+      "onboard_time": 1714399821,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147171,
       "num": 482892,
       "word": "现在浙江的咖啡这么卷了吗",
@@ -4579,11 +4691,27 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 146090,
+      "num": 146090,
+      "word": "看个节目怎么感觉自己被看透了",
+      "onboard_time": 1714400181,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145831,
       "num": 145831,
       "word": "特斯拉",
       "onboard_time": 1714314919,
       "rank": 43,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 145251,
+      "num": 145251,
+      "word": "比亚迪一季度净利润45.7亿元",
+      "onboard_time": 1714400181,
+      "rank": 48,
       "category": "汽车"
     },
     {
@@ -5131,6 +5259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119590,
+      "num": 724723,
+      "word": "五一公路出行将呈现五大特点",
+      "onboard_time": 1714396999,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119355,
       "num": 119355,
       "word": "刘浩存绿色眼影",
@@ -5483,6 +5619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84684,
+      "num": 389323,
+      "word": "林更新状态",
+      "onboard_time": 1714396098,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83590,
       "num": 298135,
       "word": "王一博的百变角色",
@@ -5513,14 +5657,6 @@
       "onboard_time": 1714216937,
       "rank": 47,
       "category": "读书作家,作品衍生"
-    },
-    {
-      "raw_hot": 79009,
-      "num": 389323,
-      "word": "林更新状态",
-      "onboard_time": 1714396098,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 78802,
@@ -5665,14 +5801,6 @@
       "onboard_time": 1714296497,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51273,
-      "num": 538608,
-      "word": "五一公路出行将呈现五大特点",
-      "onboard_time": 1714396999,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50596,
