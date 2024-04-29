@@ -1,6 +1,6 @@
 {
   "startTime": 1714321243337,
-  "endTime": 1714365288738,
+  "endTime": 1714367968079,
   "band_list": [
     {
       "raw_hot": 2599948,
@@ -9,6 +9,14 @@
       "onboard_time": 1714358658,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2517273,
+      "num": 2517273,
+      "word": "长沙天气",
+      "onboard_time": 1714366760,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1805773,
@@ -43,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1297276,
+      "num": 991446,
+      "word": "提出涨薪1000涨了500",
+      "onboard_time": 1714364299,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1198876,
       "num": 1198876,
       "word": "袁娅维3次发文怼浪姐",
@@ -51,20 +67,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1054097,
-      "num": 1054097,
+      "raw_hot": 1072869,
+      "num": 1072869,
       "word": "付鹏 享受生活",
       "onboard_time": 1714361600,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 965222,
-      "num": 639395,
-      "word": "提出涨薪1000涨了500",
-      "onboard_time": 1714364299,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 917356,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 878363,
-      "num": 298088,
+      "num": 310767,
       "word": "肚脐里的泥抠完真的会拉肚子吗",
       "onboard_time": 1714358778,
       "rank": 20,
@@ -121,6 +129,14 @@
       "onboard_time": 1714295658,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 770575,
+      "num": 770575,
+      "word": "农村家庭因婚致贫返贫现象增加",
+      "onboard_time": 1714365739,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 734702,
@@ -177,6 +193,14 @@
       "onboard_time": 1714352839,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 684718,
+      "num": 684718,
+      "word": "宋雨琦被自己小卡价格吓到",
+      "onboard_time": 1714365140,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 683751,
@@ -299,6 +323,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 459822,
+      "num": 305240,
+      "word": "请病假还走了两万的微信步数",
+      "onboard_time": 1714367179,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 459468,
       "num": 254184,
       "word": "五一1500元机票跳水至400",
@@ -419,12 +451,36 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 353848,
+      "num": 353848,
+      "word": "不是你太敏感这就是性骚扰",
+      "onboard_time": 1714366340,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339315,
       "num": 339315,
       "word": "张小斐晒照祝贾玲生日快乐",
       "onboard_time": 1714360039,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337764,
+      "num": 302591,
+      "word": "30岁你的存款达标了吗",
+      "onboard_time": 1714367359,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 324226,
+      "num": 324226,
+      "word": "长沙天黑了",
+      "onboard_time": 1714367779,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318127,
@@ -595,6 +651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 239951,
+      "num": 239951,
+      "word": "马斯克自称是中国的粉丝",
+      "onboard_time": 1714364959,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 239663,
       "num": 239663,
       "word": "抢到了",
@@ -609,14 +673,6 @@
       "onboard_time": 1714355777,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 237959,
-      "num": 237959,
-      "word": "宋雨琦被自己小卡价格吓到",
-      "onboard_time": 1714365140,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 232134,
@@ -659,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221336,
+      "num": 221336,
+      "word": "说唱歌手SikK吸毒后自首",
+      "onboard_time": 1714367718,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219752,
       "num": 219752,
       "word": "乐乐茶联名鲁迅引争议",
@@ -673,6 +737,14 @@
       "onboard_time": 1714316840,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214070,
+      "num": 194241,
+      "word": "菊部金渐层",
+      "onboard_time": 1714367179,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 214010,
@@ -715,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208158,
+      "num": 694947,
+      "word": "相恋7年夫妻像热恋时一样恩爱",
+      "onboard_time": 1714364539,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206980,
       "num": 206980,
       "word": "凤凰传奇 难抢",
@@ -729,6 +809,14 @@
       "onboard_time": 1714356439,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202009,
+      "num": 202009,
+      "word": "张杰太原 抢票",
+      "onboard_time": 1714366277,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 198826,
@@ -753,6 +841,14 @@
       "onboard_time": 1714364180,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192419,
+      "num": 192419,
+      "word": "2024KPL王者梦之队",
+      "onboard_time": 1714366699,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 188645,
@@ -785,6 +881,14 @@
       "onboard_time": 1714362140,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 184674,
+      "num": 184674,
+      "word": "朱丹孩子告诉她上浪姐不能哭",
+      "onboard_time": 1714365619,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 184656,
@@ -859,12 +963,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177804,
-      "num": 177804,
-      "word": "马斯克自称是中国的粉丝",
-      "onboard_time": 1714364959,
+      "raw_hot": 178996,
+      "num": 178996,
+      "word": "李现换发型了",
+      "onboard_time": 1714367359,
       "rank": 33,
-      "category": "汽车"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172665,
@@ -963,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148620,
+      "num": 148620,
+      "word": "贾乃亮黄景瑜 既生亮何生瑜",
+      "onboard_time": 1714365919,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144178,
       "num": 144178,
       "word": "女生手捧烧烤花束送大四毕业同学",
@@ -1003,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137267,
+      "num": 137267,
+      "word": "当代年轻人的带饭文学",
+      "onboard_time": 1714367179,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136340,
       "num": 136340,
       "word": "灿烂的花园INFP的天堂",
@@ -1025,6 +1145,22 @@
       "onboard_time": 1714361899,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 134184,
+      "num": 134184,
+      "word": "长大后发现不能深交的人",
+      "onboard_time": 1714367779,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 133180,
+      "num": 133180,
+      "word": "维和防暴队",
+      "onboard_time": 1714367898,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 132300,
@@ -1073,6 +1209,14 @@
       "onboard_time": 1714352240,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124588,
+      "num": 124588,
+      "word": "青岛海市蜃楼",
+      "onboard_time": 1714366340,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123333,
@@ -1145,14 +1289,6 @@
       "onboard_time": 1714330091,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 108786,
-      "num": 694947,
-      "word": "相恋7年夫妻像热恋时一样恩爱",
-      "onboard_time": 1714364539,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107664,
@@ -1521,6 +1657,14 @@
       "onboard_time": 1714336390,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 6169,
+      "num": 997290,
+      "word": "文化中国行",
+      "onboard_time": 1713927617,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
