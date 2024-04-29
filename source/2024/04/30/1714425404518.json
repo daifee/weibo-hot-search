@@ -1,0 +1,410 @@
+{
+  "runTime": 1714425404518,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 62428,
+        "num": 62428,
+        "word": "南京胖哥被初诊为PTSD",
+        "onboard_time": 1714397241,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57612,
+        "num": 57612,
+        "word": "刘宇宁自曝录hi6受伤",
+        "onboard_time": 1714404260,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2225,
+        "num": 47246,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66596,
+        "num": 43798,
+        "word": "配娱癫公",
+        "onboard_time": 1714406239,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57844,
+        "num": 42816,
+        "word": "女子直播时被失散32年的父亲认出",
+        "onboard_time": 1714392078,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40148,
+        "num": 40148,
+        "word": "CCTV综艺放了赵丽颖簪花照",
+        "onboard_time": 1714399821,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39274,
+        "num": 39274,
+        "word": "朴志效租房者预告",
+        "onboard_time": 1714399402,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37255,
+        "num": 37255,
+        "word": "电影维和防暴队北京首映礼",
+        "onboard_time": 1714421231,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27882,
+        "num": 27882,
+        "word": "厦门免费宿舍已有1千多人申请",
+        "onboard_time": 1714407018,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15095,
+        "num": 27699,
+        "word": "4名医护出差途中救下一命",
+        "onboard_time": 1714415652,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 86014,
+        "num": 27586,
+        "word": "徐艺洋是真不想给黄子韬名分",
+        "onboard_time": 1714377679,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81642,
+        "num": 27398,
+        "word": "警方回应女子逛夜市裙子上现不明液体",
+        "onboard_time": 1714408154,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52005,
+        "num": 27192,
+        "word": "猫肉被整只烧烤售卖",
+        "onboard_time": 1714397659,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43310,
+        "num": 27018,
+        "word": "中老年人患带状疱疹有多痛苦",
+        "onboard_time": 1714406419,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43137,
+        "num": 26780,
+        "word": "辛芷蕾工作室关闭后援会账号",
+        "onboard_time": 1714395799,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34355,
+        "num": 26446,
+        "word": "刘涛秦海璐 无趣的内容有趣地聊",
+        "onboard_time": 1714408756,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31017,
+        "num": 26392,
+        "word": "苗苗不愧是北舞严选",
+        "onboard_time": 1714395978,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30026,
+        "num": 26195,
+        "word": "官方回应广东一外卖员雨中落水身亡",
+        "onboard_time": 1714404859,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29272,
+        "num": 25839,
+        "word": "庄洁妈妈 窒息",
+        "onboard_time": 1714398079,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25816,
+        "num": 25816,
+        "word": "游客反映董宇辉博物院直播耽误参观行程",
+        "onboard_time": 1714394079,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 33219,
+        "num": 25630,
+        "word": "蓝莓会是下一个超级水果吗",
+        "onboard_time": 1714423029,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 25993,
+        "num": 25461,
+        "word": "露水情缘 比纸都薄",
+        "onboard_time": 1714395918,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25161,
+        "num": 25161,
+        "word": "李明德还是没学会人情世故",
+        "onboard_time": 1714402222,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22753,
+        "num": 22753,
+        "word": "存多少钱能用利息生活",
+        "onboard_time": 1714399281,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22510,
+        "num": 22510,
+        "word": "新疆地震",
+        "onboard_time": 1714398622,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20629,
+        "num": 20629,
+        "word": "沈景病",
+        "onboard_time": 1714397599,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20560,
+        "num": 20560,
+        "word": "男子买约800克黄金店员报警",
+        "onboard_time": 1714384097,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19946,
+        "num": 19946,
+        "word": "朱莉回应离婚",
+        "onboard_time": 1714390037,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19735,
+        "num": 19735,
+        "word": "肖战晚宴穿搭",
+        "onboard_time": 1714397719,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 18007,
+        "num": 19557,
+        "word": "尹锡悦与李在明会谈",
+        "onboard_time": 1714418771,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 19453,
+        "num": 19453,
+        "word": "张雨绮全绿开衩裙",
+        "onboard_time": 1714423331,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 19028,
+        "num": 19028,
+        "word": "IVE空降",
+        "onboard_time": 1714387698,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17965,
+        "num": 17965,
+        "word": "感觉是小时候倒霉习惯了",
+        "onboard_time": 1714420870,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17841,
+        "num": 17841,
+        "word": "原来是因为头发少所以油得快",
+        "onboard_time": 1714395318,
+        "rank": 33,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 17768,
+        "num": 17768,
+        "word": "春色寄情人看脸红了",
+        "onboard_time": 1714400002,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16971,
+        "num": 16971,
+        "word": "为什么肥胖纹有红色和白色两种",
+        "onboard_time": 1714400961,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16821,
+        "num": 16821,
+        "word": "长期久坐或致男性不育",
+        "onboard_time": 1714397840,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16807,
+        "num": 16807,
+        "word": "配音沪圈",
+        "onboard_time": 1714389498,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16638,
+        "num": 16638,
+        "word": "林更新苗苗同框",
+        "onboard_time": 1714395918,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16388,
+        "num": 16388,
+        "word": "被大章鱼缠满双脚",
+        "onboard_time": 1714418651,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16578,
+        "num": 16335,
+        "word": "陈翔自荐报名歌手2024",
+        "onboard_time": 1714392259,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16184,
+        "num": 16184,
+        "word": "医生说肚脐是人体的薄弱之处",
+        "onboard_time": 1714384218,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 13864,
+        "num": 16184,
+        "word": "背着善宰跑",
+        "onboard_time": 1714393759,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13833,
+        "num": 16163,
+        "word": "Jennie那英",
+        "onboard_time": 1714376238,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13798,
+        "num": 16150,
+        "word": "加一箱92号汽油少花2.5元",
+        "onboard_time": 1714400781,
+        "rank": 44,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 13703,
+        "num": 16146,
+        "word": "五一不回家也不旅游还能干什么",
+        "onboard_time": 1714398198,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13631,
+        "num": 16134,
+        "word": "杨幂制服卷发",
+        "onboard_time": 1714402581,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13445,
+        "num": 16121,
+        "word": "双子座潇洒背后的完美主义",
+        "onboard_time": 1714402101,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12753,
+        "num": 16098,
+        "word": "青山刚昌亲自修正周边图",
+        "onboard_time": 1714411991,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 12525,
+        "num": 16092,
+        "word": "书卷一梦将官宣",
+        "onboard_time": 1714404859,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将访问法国塞尔维亚匈牙利#"
+    }
+  }
+}

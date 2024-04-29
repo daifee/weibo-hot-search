@@ -1,6 +1,6 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714422882022,
+  "endTime": 1714425404518,
   "band_list": [
     {
       "raw_hot": 1269205,
@@ -475,12 +475,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 33219,
+      "num": 25630,
+      "word": "蓝莓会是下一个超级水果吗",
+      "onboard_time": 1714423029,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 25866,
       "num": 35083,
       "word": "背着善宰跑",
       "onboard_time": 1714393759,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19453,
+      "num": 19453,
+      "word": "张雨绮全绿开衩裙",
+      "onboard_time": 1714423331,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 18718,
@@ -499,16 +515,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 17660,
-      "num": 17899,
+      "raw_hot": 18007,
+      "num": 19557,
       "word": "尹锡悦与李在明会谈",
       "onboard_time": 1714418771,
       "rank": 47,
       "category": "国外时政"
     },
     {
-      "raw_hot": 9843,
-      "num": 25494,
+      "raw_hot": 15095,
+      "num": 27699,
       "word": "4名医护出差途中救下一命",
       "onboard_time": 1714415652,
       "rank": 13,
