@@ -1,6 +1,6 @@
 {
   "startTime": 1714321243337,
-  "endTime": 1714401277471,
+  "endTime": 1714404002778,
   "band_list": [
     {
       "raw_hot": 2599948,
@@ -25,6 +25,14 @@
       "onboard_time": 1714394058,
       "rank": 3,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 2018411,
+      "num": 532664,
+      "word": "徐艺洋是真不想给黄子韬名分",
+      "onboard_time": 1714377679,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1805773,
@@ -105,14 +113,6 @@
       "onboard_time": 1714372698,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1360139,
-      "num": 532664,
-      "word": "徐艺洋是真不想给黄子韬名分",
-      "onboard_time": 1714377679,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1329140,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 642220,
+      "num": 642220,
+      "word": "CCTV综艺放了赵丽颖簪花照",
+      "onboard_time": 1714399821,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 638987,
       "num": 638987,
       "word": "清华网球亡子",
@@ -667,14 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 495711,
-      "num": 495711,
-      "word": "CCTV综艺放了赵丽颖簪花照",
-      "onboard_time": 1714399821,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 492985,
       "num": 378566,
       "word": "海仁活到了84岁",
@@ -859,20 +859,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418905,
+      "num": 304402,
+      "word": "存多少钱能用利息生活",
+      "onboard_time": 1714399281,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 416926,
       "num": 416926,
       "word": "客户买房后无法上学中介称我口误",
       "onboard_time": 1714350799,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 410412,
-      "num": 304402,
-      "word": "存多少钱能用利息生活",
-      "onboard_time": 1714399281,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 406406,
@@ -1043,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327883,
+      "num": 327883,
+      "word": "新疆地震",
+      "onboard_time": 1714398622,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326470,
       "num": 326470,
       "word": "虞书欣美式女高",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1714382720,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 322188,
+      "num": 409332,
+      "word": "谁说国内没有好恐怖片",
+      "onboard_time": 1714396218,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 322129,
@@ -1139,14 +1155,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 299778,
-      "num": 409332,
-      "word": "谁说国内没有好恐怖片",
-      "onboard_time": 1714396218,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 298075,
       "num": 244758,
       "word": "眼泪女王大结局",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1714367359,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 276390,
+      "num": 276390,
+      "word": "杨幂制服卷发",
+      "onboard_time": 1714402581,
+      "rank": 18,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 274358,
@@ -1603,14 +1619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213599,
-      "num": 217277,
-      "word": "新疆地震",
-      "onboard_time": 1714398622,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212971,
       "num": 212971,
       "word": "黄轩被安保押着打卡天水麻辣烫",
@@ -1665,6 +1673,14 @@
       "onboard_time": 1714363698,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208816,
+      "num": 200167,
+      "word": "李明德还是没学会人情世故",
+      "onboard_time": 1714402222,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208158,
@@ -1867,6 +1883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193649,
+      "num": 200201,
+      "word": "为什么肥胖纹有红色和白色两种",
+      "onboard_time": 1714400961,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 193301,
       "num": 193301,
       "word": "NBA年度最强上篮",
@@ -2051,6 +2075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181516,
+      "num": 181516,
+      "word": "田曦薇蓝色花钿",
+      "onboard_time": 1714402761,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181270,
       "num": 181270,
       "word": "孙颖莎爷爷奶奶缘有多好",
@@ -2131,6 +2163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172320,
+      "num": 172320,
+      "word": "王一博让赵华为站C位",
+      "onboard_time": 1714403183,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 169817,
       "num": 169817,
       "word": "王一博代言真维斯",
@@ -2145,6 +2185,14 @@
       "onboard_time": 1714400181,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 167627,
+      "num": 167627,
+      "word": "拖米 es",
+      "onboard_time": 1714403542,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 167624,
@@ -2195,14 +2243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159877,
-      "num": 159877,
-      "word": "为什么肥胖纹有红色和白色两种",
-      "onboard_time": 1714400961,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 159797,
       "num": 159797,
       "word": "何小鹏欢迎特斯拉FSD进中国",
@@ -2220,7 +2260,7 @@
     },
     {
       "raw_hot": 158107,
-      "num": 158107,
+      "num": 159286,
       "word": "别让旗袍限制了我们的运动",
       "onboard_time": 1714399281,
       "rank": 42,
@@ -2257,6 +2297,14 @@
       "onboard_time": 1714357518,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156714,
+      "num": 156714,
+      "word": "背着善宰跑第七集",
+      "onboard_time": 1714403481,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 156415,
@@ -2675,12 +2723,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 124636,
+      "num": 158853,
+      "word": "加一箱92号汽油少花2.5元",
+      "onboard_time": 1714400781,
+      "rank": 49,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 124588,
       "num": 124588,
       "word": "青岛海市蜃楼",
       "onboard_time": 1714366340,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124117,
+      "num": 158424,
+      "word": "赛力斯一季度营收同比增长421.76%",
+      "onboard_time": 1714403661,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 123492,
@@ -2769,6 +2833,22 @@
       "onboard_time": 1714314799,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112814,
+      "num": 112814,
+      "word": "遇到这种旅游搭子真的会开心死",
+      "onboard_time": 1714402461,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 112485,
+      "num": 116468,
+      "word": "让谁去上夜班",
+      "onboard_time": 1714403243,
+      "rank": 45,
+      "category": "社会议题"
     },
     {
       "raw_hot": 112308,
@@ -2881,14 +2961,6 @@
       "onboard_time": 1714346956,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98626,
-      "num": 121737,
-      "word": "加一箱92号汽油少花2.5元",
-      "onboard_time": 1714400781,
-      "rank": 49,
-      "category": "财经,汽车"
     },
     {
       "raw_hot": 98194,
