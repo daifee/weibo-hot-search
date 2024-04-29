@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714421934805,
+  "endTime": 1714422882022,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -83755,6 +83755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 18242,
+      "num": 18242,
+      "word": "感觉是小时候倒霉习惯了",
+      "onboard_time": 1714420870,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 18220,
       "num": 133923,
       "word": "2024云拜祖正确打开方式",
@@ -83857,14 +83865,6 @@
       "onboard_time": 1712688971,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 16968,
-      "num": 16968,
-      "word": "感觉是小时候倒霉习惯了",
-      "onboard_time": 1714420870,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 16950,
@@ -84257,6 +84257,22 @@
       "onboard_time": 1713070518,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 9843,
+      "num": 25494,
+      "word": "4名医护出差途中救下一命",
+      "onboard_time": 1714415652,
+      "rank": 13,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 8467,
+      "num": 16114,
+      "word": "这次杭州司机礼让的是鸳鸯",
+      "onboard_time": 1714422251,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8134,
