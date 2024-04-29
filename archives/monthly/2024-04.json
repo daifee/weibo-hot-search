@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714379047530,
+  "endTime": 1714379871922,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3227,6 +3227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1306993,
+      "num": 520137,
+      "word": "徐艺洋是真不想给黄子韬名分",
+      "onboard_time": 1714377679,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1305449,
       "num": 1305449,
       "word": "华为Pura70系列开售",
@@ -4363,14 +4371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1154429,
-      "num": 511702,
-      "word": "徐艺洋是真不想给黄子韬名分",
-      "onboard_time": 1714377679,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1153076,
       "num": 1049415,
       "word": "章若楠原名",
@@ -4940,7 +4940,7 @@
     },
     {
       "raw_hot": 1081101,
-      "num": 305240,
+      "num": 310447,
       "word": "请病假还走了两万的微信步数",
       "onboard_time": 1714367179,
       "rank": 21,
@@ -5361,6 +5361,14 @@
       "onboard_time": 1712477418,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1043857,
+      "num": 1043857,
+      "word": "明天下班走出办公室的我",
+      "onboard_time": 1714375458,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 1043280,
@@ -7241,14 +7249,6 @@
       "onboard_time": 1714175235,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 893516,
-      "num": 893516,
-      "word": "明天下班走出办公室的我",
-      "onboard_time": 1714375458,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 893199,
@@ -10043,6 +10043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 739858,
+      "num": 739858,
+      "word": "赵露思好红",
+      "onboard_time": 1714377798,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 739668,
       "num": 717302,
       "word": "杨幂文替",
@@ -10713,14 +10721,6 @@
       "onboard_time": 1712320398,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 714420,
-      "num": 714420,
-      "word": "赵露思好红",
-      "onboard_time": 1714377798,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 713771,
@@ -12409,6 +12409,14 @@
       "onboard_time": 1712750839,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 652102,
+      "num": 652102,
+      "word": "003",
+      "onboard_time": 1714378278,
+      "rank": 18,
+      "category": "军事,国内时政"
     },
     {
       "raw_hot": 651046,
@@ -15931,6 +15939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547888,
+      "num": 547888,
+      "word": "付鹏与李佳琦仍共同持股公司",
+      "onboard_time": 1714376538,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 547670,
       "num": 579133,
       "word": "丈夫牺牲后警号由妻子重启",
@@ -16504,6 +16520,14 @@
       "word": "王安宇问秦海璐姐夫在吗",
       "onboard_time": 1713592096,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 532361,
+      "num": 532361,
+      "word": "歌手2024请揭榜",
+      "onboard_time": 1714376958,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -17435,6 +17459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 513296,
+      "num": 513296,
+      "word": "福建舰",
+      "onboard_time": 1714377978,
+      "rank": 17,
+      "category": "军事"
+    },
+    {
       "raw_hot": 513262,
       "num": 513262,
       "word": "江西抚州多车相撞事故1死5伤",
@@ -17817,14 +17849,6 @@
       "onboard_time": 1713019820,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 505834,
-      "num": 505834,
-      "word": "付鹏与李佳琦仍共同持股公司",
-      "onboard_time": 1714376538,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 505825,
@@ -18595,14 +18619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 488728,
-      "num": 488728,
-      "word": "歌手2024请揭榜",
-      "onboard_time": 1714376958,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 488368,
       "num": 488368,
       "word": "蒋勤勤谈易烊千玺",
@@ -19369,6 +19385,14 @@
       "onboard_time": 1714018459,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 474754,
+      "num": 311898,
+      "word": "紫燕百味鸡被吐槽超薄外卖盒",
+      "onboard_time": 1714376538,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 474687,
@@ -20201,14 +20225,6 @@
       "onboard_time": 1714317978,
       "rank": 29,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 459188,
-      "num": 249863,
-      "word": "紫燕百味鸡被吐槽超薄外卖盒",
-      "onboard_time": 1714376538,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 458842,
@@ -22001,6 +22017,14 @@
       "onboard_time": 1713831799,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 429021,
+      "num": 429021,
+      "word": "雷军 爽文",
+      "onboard_time": 1714377978,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 428936,
@@ -24051,6 +24075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 392196,
+      "num": 392196,
+      "word": "王一博让主持人不要王吧一起说",
+      "onboard_time": 1714378879,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 392157,
       "num": 392157,
       "word": "刘若英报平安",
@@ -25131,14 +25163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 375421,
-      "num": 375421,
-      "word": "雷军 爽文",
-      "onboard_time": 1714377978,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 375264,
       "num": 375264,
       "word": "官方公布机器人太奶售价80万",
@@ -25705,6 +25729,14 @@
       "onboard_time": 1713970519,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 366193,
+      "num": 310371,
+      "word": "为什么头发梳久了梳子上会这样",
+      "onboard_time": 1714379358,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 366035,
@@ -27859,14 +27891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 335682,
-      "num": 335682,
-      "word": "福建舰",
-      "onboard_time": 1714377978,
-      "rank": 17,
-      "category": "军事"
-    },
-    {
       "raw_hot": 335411,
       "num": 335411,
       "word": "长沙震感",
@@ -29667,6 +29691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 312611,
+      "num": 312611,
+      "word": "赵露思 进组",
+      "onboard_time": 1714379358,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312519,
       "num": 298565,
       "word": "给妈妈买了套房该写谁的名",
@@ -30721,14 +30753,6 @@
       "onboard_time": 1712730139,
       "rank": 21,
       "category": "教育"
-    },
-    {
-      "raw_hot": 300878,
-      "num": 300878,
-      "word": "003",
-      "onboard_time": 1714378278,
-      "rank": 18,
-      "category": "军事,国内时政"
     },
     {
       "raw_hot": 300875,
@@ -36491,6 +36515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 249628,
+      "num": 249628,
+      "word": "屠宰场处理一只活猫仅需几分钟",
+      "onboard_time": 1714377318,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249572,
       "num": 249572,
       "word": "只有师范生知道他讲的有多好",
@@ -36865,6 +36897,14 @@
       "onboard_time": 1713882739,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247322,
+      "num": 247322,
+      "word": "心脏好不好看脸就知道",
+      "onboard_time": 1714378939,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 247174,
@@ -38393,14 +38433,6 @@
       "onboard_time": 1712494999,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237618,
-      "num": 237618,
-      "word": "王一博让主持人不要王吧一起说",
-      "onboard_time": 1714378879,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 237605,
@@ -47579,14 +47611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198231,
-      "num": 198231,
-      "word": "屠宰场处理一只活猫仅需几分钟",
-      "onboard_time": 1714377318,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198214,
       "num": 198214,
       "word": "欧阳娜娜贴头皮马尾",
@@ -48611,6 +48635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195383,
+      "num": 195383,
+      "word": "两岁男孩多次用枕巾捂妹妹脸",
+      "onboard_time": 1714379599,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195378,
       "num": 195378,
       "word": "现男友",
@@ -49628,7 +49660,7 @@
     },
     {
       "raw_hot": 192588,
-      "num": 201511,
+      "num": 204514,
       "word": "一条plog告别四月",
       "onboard_time": 1714378879,
       "rank": 29,
@@ -61427,14 +61459,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 155615,
-      "num": 155615,
-      "word": "心脏好不好看脸就知道",
-      "onboard_time": 1714378939,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 155608,
       "num": 140802,
       "word": "执笔女主李沐宸回应资源降级",
@@ -63777,6 +63801,14 @@
       "onboard_time": 1713409278,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149188,
+      "num": 149188,
+      "word": "我心中的KPL王者梦之队",
+      "onboard_time": 1714379419,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 149183,
@@ -68899,6 +68931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133971,
+      "num": 133971,
+      "word": "王者自选史诗皮肤活动开启",
+      "onboard_time": 1714375997,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133964,
       "num": 133964,
       "word": "00后女生给自己办葬礼",
@@ -68969,6 +69009,14 @@
       "onboard_time": 1712230398,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133820,
+      "num": 133820,
+      "word": "突然意识到自己没有性格",
+      "onboard_time": 1714379778,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 133817,
@@ -71001,14 +71049,6 @@
       "onboard_time": 1714316118,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 126995,
-      "num": 126995,
-      "word": "王者自选史诗皮肤活动开启",
-      "onboard_time": 1714375997,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 126988,

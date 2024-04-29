@@ -1,6 +1,6 @@
 {
   "startTime": 1714321243337,
-  "endTime": 1714379047530,
+  "endTime": 1714379871922,
   "band_list": [
     {
       "raw_hot": 2599948,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1306993,
+      "num": 520137,
+      "word": "徐艺洋是真不想给黄子韬名分",
+      "onboard_time": 1714377679,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1297276,
       "num": 991446,
       "word": "提出涨薪1000涨了500",
@@ -97,14 +105,6 @@
       "onboard_time": 1714359919,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1154429,
-      "num": 511702,
-      "word": "徐艺洋是真不想给黄子韬名分",
-      "onboard_time": 1714377679,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1146430,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1081101,
-      "num": 305240,
+      "num": 310447,
       "word": "请病假还走了两万的微信步数",
       "onboard_time": 1714367179,
       "rank": 21,
@@ -139,20 +139,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1043857,
+      "num": 1043857,
+      "word": "明天下班走出办公室的我",
+      "onboard_time": 1714375458,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 917356,
       "num": 638643,
       "word": "女子照片被烈士紧握网友称是其二姑奶奶",
       "onboard_time": 1714354398,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 893516,
-      "num": 893516,
-      "word": "明天下班走出办公室的我",
-      "onboard_time": 1714375458,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 878363,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 739858,
+      "num": 739858,
+      "word": "赵露思好红",
+      "onboard_time": 1714377798,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 734702,
       "num": 734702,
       "word": "芍药",
@@ -225,14 +233,6 @@
       "onboard_time": 1714349177,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 714420,
-      "num": 714420,
-      "word": "赵露思好红",
-      "onboard_time": 1714377798,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 713311,
@@ -289,6 +289,14 @@
       "onboard_time": 1714316060,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 652102,
+      "num": 652102,
+      "word": "003",
+      "onboard_time": 1714378278,
+      "rank": 18,
+      "category": "军事,国内时政"
     },
     {
       "raw_hot": 646918,
@@ -395,6 +403,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 547888,
+      "num": 547888,
+      "word": "付鹏与李佳琦仍共同持股公司",
+      "onboard_time": 1714376538,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 532361,
+      "num": 532361,
+      "word": "歌手2024请揭榜",
+      "onboard_time": 1714376958,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 524541,
       "num": 254758,
       "word": "史上最忙五一为何机票价格跳水",
@@ -419,12 +443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 505834,
-      "num": 505834,
-      "word": "付鹏与李佳琦仍共同持股公司",
-      "onboard_time": 1714376538,
-      "rank": 12,
-      "category": "网红"
+      "raw_hot": 513296,
+      "num": 513296,
+      "word": "福建舰",
+      "onboard_time": 1714377978,
+      "rank": 17,
+      "category": "军事"
     },
     {
       "raw_hot": 492985,
@@ -441,14 +465,6 @@
       "onboard_time": 1714360218,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 488728,
-      "num": 488728,
-      "word": "歌手2024请揭榜",
-      "onboard_time": 1714376958,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 484167,
@@ -475,20 +491,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 474754,
+      "num": 311898,
+      "word": "紫燕百味鸡被吐槽超薄外卖盒",
+      "onboard_time": 1714376538,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 459468,
       "num": 254184,
       "word": "五一1500元机票跳水至400",
       "onboard_time": 1714317978,
       "rank": 21,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 459188,
-      "num": 249863,
-      "word": "紫燕百味鸡被吐槽超薄外卖盒",
-      "onboard_time": 1714376538,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 455174,
@@ -505,6 +521,14 @@
       "onboard_time": 1714357639,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 429021,
+      "num": 429021,
+      "word": "雷军 爽文",
+      "onboard_time": 1714377978,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 424233,
@@ -547,6 +571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 392196,
+      "num": 392196,
+      "word": "王一博让主持人不要王吧一起说",
+      "onboard_time": 1714378879,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 388058,
       "num": 388058,
       "word": "本周狗屎运最旺的星座",
@@ -571,20 +603,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 375421,
-      "num": 375421,
-      "word": "雷军 爽文",
-      "onboard_time": 1714377978,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 373167,
       "num": 373167,
       "word": "字节回应61人违法违纪被辞退",
       "onboard_time": 1714357038,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 366193,
+      "num": 310371,
+      "word": "为什么头发梳久了梳子上会这样",
+      "onboard_time": 1714379358,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 358842,
@@ -635,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335682,
-      "num": 335682,
-      "word": "福建舰",
-      "onboard_time": 1714377978,
-      "rank": 17,
-      "category": "军事"
-    },
-    {
       "raw_hot": 326470,
       "num": 326470,
       "word": "虞书欣美式女高",
@@ -665,6 +689,14 @@
       "onboard_time": 1714306888,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 312611,
+      "num": 312611,
+      "word": "赵露思 进组",
+      "onboard_time": 1714379358,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 311527,
@@ -705,14 +737,6 @@
       "onboard_time": 1714293738,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 300878,
-      "num": 300878,
-      "word": "003",
-      "onboard_time": 1714378278,
-      "rank": 18,
-      "category": "军事,国内时政"
     },
     {
       "raw_hot": 298075,
@@ -851,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249628,
+      "num": 249628,
+      "word": "屠宰场处理一只活猫仅需几分钟",
+      "onboard_time": 1714377318,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249433,
       "num": 249433,
       "word": "闪耀暖暖绝美婚纱",
@@ -865,6 +897,14 @@
       "onboard_time": 1714364959,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 247322,
+      "num": 247322,
+      "word": "心脏好不好看脸就知道",
+      "onboard_time": 1714378939,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 245894,
@@ -897,14 +937,6 @@
       "onboard_time": 1714355777,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 237618,
-      "num": 237618,
-      "word": "王一博让主持人不要王吧一起说",
-      "onboard_time": 1714378879,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 232134,
@@ -1131,20 +1163,20 @@
       "category": "游戏,美食"
     },
     {
-      "raw_hot": 198231,
-      "num": 198231,
-      "word": "屠宰场处理一只活猫仅需几分钟",
-      "onboard_time": 1714377318,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197459,
       "num": 197459,
       "word": "维和防暴队",
       "onboard_time": 1714367898,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195383,
+      "num": 195383,
+      "word": "两岁男孩多次用枕巾捂妹妹脸",
+      "onboard_time": 1714379599,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194428,
@@ -1164,7 +1196,7 @@
     },
     {
       "raw_hot": 192588,
-      "num": 201511,
+      "num": 204514,
       "word": "一条plog告别四月",
       "onboard_time": 1714378879,
       "rank": 29,
@@ -1419,14 +1451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155615,
-      "num": 155615,
-      "word": "心脏好不好看脸就知道",
-      "onboard_time": 1714378939,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 155490,
       "num": 587789,
       "word": "男子曾获老师无偿资助回母校捐款50万",
@@ -1449,6 +1473,14 @@
       "onboard_time": 1714371498,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149188,
+      "num": 149188,
+      "word": "我心中的KPL王者梦之队",
+      "onboard_time": 1714379419,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 148620,
@@ -1563,6 +1595,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133971,
+      "num": 133971,
+      "word": "王者自选史诗皮肤活动开启",
+      "onboard_time": 1714375997,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 133820,
+      "num": 133820,
+      "word": "突然意识到自己没有性格",
+      "onboard_time": 1714379778,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132631,
       "num": 132631,
       "word": "眼泪女王收视超过爱的迫降",
@@ -1657,14 +1705,6 @@
       "onboard_time": 1714376057,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 126995,
-      "num": 126995,
-      "word": "王者自选史诗皮肤活动开启",
-      "onboard_time": 1714375997,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 125718,

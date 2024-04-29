@@ -1,0 +1,410 @@
+{
+  "runTime": 1714379871922,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1058498,
+        "num": 1058498,
+        "word": "鲁迅家属已向乐乐茶发律师函",
+        "onboard_time": 1714372698,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1043857,
+        "num": 1043857,
+        "word": "明天下班走出办公室的我",
+        "onboard_time": 1714375458,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57935,
+        "num": 889746,
+        "word": "神十七乘组在轨工作总结",
+        "onboard_time": 1714377138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064588,
+        "num": 885406,
+        "word": "Jennie那英",
+        "onboard_time": 1714376238,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 739858,
+        "num": 739858,
+        "word": "赵露思好红",
+        "onboard_time": 1714377798,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 667288,
+        "num": 667288,
+        "word": "40多名护士遭集体解职",
+        "onboard_time": 1714369758,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652102,
+        "num": 652102,
+        "word": "003",
+        "onboard_time": 1714378278,
+        "rank": 6,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 547888,
+        "num": 547888,
+        "word": "付鹏与李佳琦仍共同持股公司",
+        "onboard_time": 1714376538,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 532361,
+        "num": 532361,
+        "word": "歌手2024请揭榜",
+        "onboard_time": 1714376958,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117930,
+        "num": 520407,
+        "word": "相恋7年夫妻像热恋时一样恩爱",
+        "onboard_time": 1714364539,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1306993,
+        "num": 520137,
+        "word": "徐艺洋是真不想给黄子韬名分",
+        "onboard_time": 1714377679,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507639,
+        "num": 516109,
+        "word": "清华网球亡子",
+        "onboard_time": 1714374798,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 513296,
+        "num": 513296,
+        "word": "福建舰",
+        "onboard_time": 1714377978,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 489760,
+        "num": 489760,
+        "word": "将门毒后改名为将门独后",
+        "onboard_time": 1714369817,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467491,
+        "num": 467491,
+        "word": "金靖曾被舒奕橙三次取关",
+        "onboard_time": 1714371859,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455486,
+        "num": 455486,
+        "word": "北大教授称年轻人不要老想着眼前",
+        "onboard_time": 1714374077,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429021,
+        "num": 429021,
+        "word": "雷军 爽文",
+        "onboard_time": 1714377978,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 392196,
+        "num": 392196,
+        "word": "王一博让主持人不要王吧一起说",
+        "onboard_time": 1714378879,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 349778,
+        "num": 349778,
+        "word": "提出涨薪1000涨了500",
+        "onboard_time": 1714364299,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 312611,
+        "num": 312611,
+        "word": "赵露思 进组",
+        "onboard_time": 1714379358,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474754,
+        "num": 311898,
+        "word": "紫燕百味鸡被吐槽超薄外卖盒",
+        "onboard_time": 1714376538,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 370361,
+        "num": 310447,
+        "word": "请病假还走了两万的微信步数",
+        "onboard_time": 1714367179,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366193,
+        "num": 310371,
+        "word": "为什么头发梳久了梳子上会这样",
+        "onboard_time": 1714379358,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307666,
+        "num": 307666,
+        "word": "关晓彤想和张一山一起录节目",
+        "onboard_time": 1714371319,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261199,
+        "num": 261199,
+        "word": "癌症可能是省出来的",
+        "onboard_time": 1714370358,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249628,
+        "num": 249628,
+        "word": "屠宰场处理一只活猫仅需几分钟",
+        "onboard_time": 1714377318,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247322,
+        "num": 247322,
+        "word": "心脏好不好看脸就知道",
+        "onboard_time": 1714378939,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230742,
+        "num": 230742,
+        "word": "袁娅维3次发文怼浪姐",
+        "onboard_time": 1714359919,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206245,
+        "num": 206245,
+        "word": "付鹏 享受生活",
+        "onboard_time": 1714361600,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189590,
+        "num": 204514,
+        "word": "一条plog告别四月",
+        "onboard_time": 1714378879,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204122,
+        "num": 204122,
+        "word": "付鹏全网账号注销",
+        "onboard_time": 1714358658,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 195383,
+        "num": 195383,
+        "word": "两岁男孩多次用枕巾捂妹妹脸",
+        "onboard_time": 1714379599,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192063,
+        "num": 192063,
+        "word": "长沙天黑了",
+        "onboard_time": 1714367779,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190219,
+        "num": 190219,
+        "word": "肚脐里的泥抠完真的会拉肚子吗",
+        "onboard_time": 1714358778,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188644,
+        "num": 188644,
+        "word": "SEVENTEEN发布会",
+        "onboard_time": 1714376118,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168655,
+        "num": 168655,
+        "word": "肖战18秒换了6套造型",
+        "onboard_time": 1714369279,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166670,
+        "num": 166670,
+        "word": "眼泪女王结局 临时补拍",
+        "onboard_time": 1714357518,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161478,
+        "num": 161478,
+        "word": "人体不会癌变的器官是什么",
+        "onboard_time": 1714374438,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156383,
+        "num": 156383,
+        "word": "30岁你的存款达标了吗",
+        "onboard_time": 1714367359,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149188,
+        "num": 149188,
+        "word": "我心中的KPL王者梦之队",
+        "onboard_time": 1714379419,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145297,
+        "num": 145297,
+        "word": "鹭卓 鲜花饼",
+        "onboard_time": 1714373179,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133971,
+        "num": 133971,
+        "word": "王者自选史诗皮肤活动开启",
+        "onboard_time": 1714375997,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133820,
+        "num": 133820,
+        "word": "突然意识到自己没有性格",
+        "onboard_time": 1714379778,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132168,
+        "num": 132168,
+        "word": "教练Gemini回归",
+        "onboard_time": 1714368438,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130061,
+        "num": 130061,
+        "word": "赵又廷杀回综艺了",
+        "onboard_time": 1714374918,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127215,
+        "num": 127215,
+        "word": "虞书欣美式女高",
+        "onboard_time": 1714371739,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124972,
+        "num": 124972,
+        "word": "记者暗访吃猫贩猫黑色产业链",
+        "onboard_time": 1714378398,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120507,
+        "num": 120507,
+        "word": "领导重新定义二本",
+        "onboard_time": 1714373357,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116254,
+        "num": 116254,
+        "word": "宋雨琦被自己小卡价格吓到",
+        "onboard_time": 1714365140,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115190,
+        "num": 115190,
+        "word": "B太 青岛",
+        "onboard_time": 1714370297,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#着力打造具有全球影响力的产业科技创新中心#"
+    }
+  }
+}
