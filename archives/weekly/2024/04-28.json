@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714390456300,
+  "endTime": 1714394032872,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -315,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1129383,
+      "num": 360175,
+      "word": "南宁三中",
+      "onboard_time": 1714388839,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1117891,
       "num": 1117891,
       "word": "Jennie那英",
@@ -329,6 +337,14 @@
       "onboard_time": 1714367179,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1078731,
+      "num": 354792,
+      "word": "朱莉回应离婚",
+      "onboard_time": 1714390037,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 1078160,
@@ -819,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 693952,
+      "num": 693952,
+      "word": "陈翔自荐报名歌手2024",
+      "onboard_time": 1714392259,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 684718,
       "num": 684718,
       "word": "宋雨琦被自己小卡价格吓到",
@@ -833,6 +857,14 @@
       "onboard_time": 1714298537,
       "rank": 8,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 683981,
+      "num": 340213,
+      "word": "女子直播时被失散32年的父亲认出",
+      "onboard_time": 1714392078,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 683751,
@@ -929,6 +961,14 @@
       "onboard_time": 1714370358,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 618122,
+      "num": 313650,
+      "word": "Gucci把肖战写入简介",
+      "onboard_time": 1714388898,
+      "rank": 39,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 614834,
@@ -1123,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 526241,
+      "num": 526241,
+      "word": "华为HR",
+      "onboard_time": 1714392259,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 525646,
       "num": 398851,
       "word": "胡先煦发烧回京去医院",
@@ -1235,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 498688,
+      "num": 498688,
+      "word": "papi酱问郭采洁哪来这么多破烂儿",
+      "onboard_time": 1714390998,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 497821,
       "num": 231098,
       "word": "每天多睡1小时能有多大好处",
@@ -1249,14 +1305,6 @@
       "onboard_time": 1714275258,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 495367,
-      "num": 360175,
-      "word": "南宁三中",
-      "onboard_time": 1714388839,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 493897,
@@ -1289,6 +1337,14 @@
       "onboard_time": 1714360218,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 486396,
+      "num": 427942,
+      "word": "病毒学家张永振和其学生仍围坐门口",
+      "onboard_time": 1714388778,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 484167,
@@ -1371,6 +1427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 460773,
+      "num": 460773,
+      "word": "配音沪圈",
+      "onboard_time": 1714389498,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459468,
       "num": 254184,
       "word": "五一1500元机票跳水至400",
@@ -1411,14 +1475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 453162,
-      "num": 354792,
-      "word": "朱莉回应离婚",
-      "onboard_time": 1714390037,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 449967,
       "num": 422251,
       "word": "SEVENTEEN回归",
@@ -1433,6 +1489,14 @@
       "onboard_time": 1714300996,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 449263,
+      "num": 449263,
+      "word": "歌手报名",
+      "onboard_time": 1714391959,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 448238,
@@ -1505,14 +1569,6 @@
       "onboard_time": 1714377978,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 427942,
-      "num": 427942,
-      "word": "病毒学家张永振和其学生仍围坐门口",
-      "onboard_time": 1714388778,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 424233,
@@ -1595,20 +1651,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400874,
+      "num": 400874,
+      "word": "高颜值出圈华为HR自曝离职",
+      "onboard_time": 1714388898,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 398923,
       "num": 377345,
       "word": "睡眠不足的9大表现",
       "onboard_time": 1714353378,
       "rank": 15,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 397095,
-      "num": 313650,
-      "word": "Gucci把肖战写入简介",
-      "onboard_time": 1714388898,
-      "rank": 39,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 389570,
@@ -1731,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357919,
+      "num": 357919,
+      "word": "原北京站站长王丽娟被查",
+      "onboard_time": 1714390097,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357523,
       "num": 357523,
       "word": "闹钟没响",
@@ -1792,14 +1856,6 @@
       "word": "张小斐晒照祝贾玲生日快乐",
       "onboard_time": 1714360039,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 338402,
-      "num": 338402,
-      "word": "配音沪圈",
-      "onboard_time": 1714389498,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -2027,6 +2083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 292701,
+      "num": 292701,
+      "word": "北京48一位烧烤自助随便吃",
+      "onboard_time": 1714390759,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 292690,
       "num": 166496,
       "word": "生理性喜欢和心理喜欢哪个重要",
@@ -2073,6 +2137,14 @@
       "onboard_time": 1714309998,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282749,
+      "num": 282749,
+      "word": "王一博 谁是犊子",
+      "onboard_time": 1714391898,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 282593,
@@ -2393,14 +2465,6 @@
       "onboard_time": 1714368138,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 245554,
-      "num": 245554,
-      "word": "高颜值出圈华为HR自曝离职",
-      "onboard_time": 1714388898,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 244902,
@@ -2819,12 +2883,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212198,
+      "num": 212198,
+      "word": "邓科关注赵露思",
+      "onboard_time": 1714393818,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211847,
       "num": 211847,
       "word": "哈登33分",
       "onboard_time": 1714345754,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210849,
+      "num": 236718,
+      "word": "终于喝上冰中式了",
+      "onboard_time": 1714388059,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 210147,
@@ -2969,14 +3049,6 @@
       "onboard_time": 1714274598,
       "rank": 32,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 204101,
-      "num": 204101,
-      "word": "终于喝上冰中式了",
-      "onboard_time": 1714388059,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 203453,
@@ -3169,6 +3241,14 @@
       "onboard_time": 1714367898,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197268,
+      "num": 197268,
+      "word": "尹净汉邪魅一笑",
+      "onboard_time": 1714393098,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 197239,
@@ -3699,6 +3779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178550,
+      "num": 203882,
+      "word": "外交部回应布林肯称中方试图干涉美国大选",
+      "onboard_time": 1714392019,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 178153,
       "num": 178153,
       "word": "女子造谣3岁女儿遭猥亵被判赔6万",
@@ -3721,6 +3809,14 @@
       "onboard_time": 1714238953,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 176828,
+      "num": 153243,
+      "word": "震碎Kpop",
+      "onboard_time": 1714390938,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 176476,
@@ -4027,14 +4123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157882,
-      "num": 157882,
-      "word": "原北京站站长王丽娟被查",
-      "onboard_time": 1714390097,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157824,
       "num": 157824,
       "word": "恋与制作人 白起画风",
@@ -4145,6 +4233,14 @@
       "onboard_time": 1714363039,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151015,
+      "num": 151015,
+      "word": "春色寄情人",
+      "onboard_time": 1714391959,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 150080,
@@ -4571,6 +4667,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 131380,
+      "num": 131380,
+      "word": "刘宇宁直播",
+      "onboard_time": 1714391238,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131368,
       "num": 131368,
       "word": "五一出行三件套",
@@ -4659,6 +4763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128793,
+      "num": 128793,
+      "word": "院方回应董宇辉直播让游客在外等50分钟",
+      "onboard_time": 1714391959,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 128336,
       "num": 203312,
       "word": "热刺vs阿森纳",
@@ -4689,6 +4801,14 @@
       "onboard_time": 1714352240,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127198,
+      "num": 127198,
+      "word": "Uzi说老头杯谁选TheShy谁赢",
+      "onboard_time": 1714391959,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 127031,
@@ -4745,6 +4865,14 @@
       "onboard_time": 1714265958,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125486,
+      "num": 148877,
+      "word": "海军首批舰载机女飞行学员完成首飞",
+      "onboard_time": 1714392559,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 124588,
@@ -4867,6 +4995,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 117862,
+      "num": 117862,
+      "word": "这一刻我的尖叫响彻整个广东",
+      "onboard_time": 1714392978,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117152,
       "num": 171985,
       "word": "新疆阿克苏发生4.4级地震",
@@ -4889,6 +5025,14 @@
       "onboard_time": 1714218618,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112432,
+      "num": 114591,
+      "word": "福建海警位金门附近海域依法开展常态化执法巡查",
+      "onboard_time": 1714393759,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112308,
@@ -5324,7 +5468,7 @@
     },
     {
       "raw_hot": 53489,
-      "num": 132594,
+      "num": 154287,
       "word": "透心凉绿队18号归队",
       "onboard_time": 1714390097,
       "rank": 46,
