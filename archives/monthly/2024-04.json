@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714386924974,
+  "endTime": 1714389416769,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1945,6 +1945,14 @@
       "onboard_time": 1713052756,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1596865,
+      "num": 1596865,
+      "word": "男子实名举报公司不让女性加夜班",
+      "onboard_time": 1714385239,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1595682,
@@ -5499,6 +5507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1035593,
+      "num": 327199,
+      "word": "难听",
+      "onboard_time": 1711929138,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1034507,
       "num": 1034507,
       "word": "黄子韬回应被拒绝同台",
@@ -7017,6 +7033,14 @@
       "onboard_time": 1713347598,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 912880,
+      "num": 625647,
+      "word": "不该把中国妹都叫成熊猫妹",
+      "onboard_time": 1714383499,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 912435,
@@ -11787,14 +11811,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 675750,
-      "num": 675750,
-      "word": "男子实名举报公司不让女性加夜班",
-      "onboard_time": 1714385239,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 675509,
       "num": 675509,
       "word": "餐馆老板让暑假工5元随便吃被欠五千餐费",
@@ -13225,14 +13241,6 @@
       "onboard_time": 1714356556,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 625647,
-      "num": 625647,
-      "word": "不该把中国妹都叫成熊猫妹",
-      "onboard_time": 1714383499,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 625389,
@@ -21843,6 +21851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433299,
+      "num": 433299,
+      "word": "IVE空降",
+      "onboard_time": 1714387698,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 433104,
       "num": 433104,
       "word": "与凤行 小情侣换装play",
@@ -26171,6 +26187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 360253,
+      "num": 360253,
+      "word": "乐乐茶致歉声明",
+      "onboard_time": 1714388419,
+      "rank": 6,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 360220,
       "num": 360220,
       "word": "男子要求2女孩陪酒被拒后动手打人",
@@ -27409,6 +27433,14 @@
       "onboard_time": 1712194999,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343925,
+      "num": 319352,
+      "word": "刘耀文空降",
+      "onboard_time": 1714386858,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 343913,
@@ -40411,6 +40443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227041,
+      "num": 227041,
+      "word": "病毒学家张永振和其学生仍围坐门口",
+      "onboard_time": 1714388778,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227005,
       "num": 227005,
       "word": "小乐言评论区",
@@ -41907,6 +41947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 218612,
+      "num": 218612,
+      "word": "郑恺苗苗又发糖了",
+      "onboard_time": 1714389258,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218601,
       "num": 218601,
       "word": "林依轮说太紧张了想要个呼吸机",
@@ -41929,6 +41977,14 @@
       "onboard_time": 1713483916,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 218354,
+      "num": 218354,
+      "word": "医生说肚脐是人体的薄弱之处",
+      "onboard_time": 1714384218,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 218312,
@@ -44939,6 +44995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206077,
+      "num": 206077,
+      "word": "警方介入调查南宁中学校园欺凌事件",
+      "onboard_time": 1714388358,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206073,
       "num": 204062,
       "word": "日出拍成核爆",
@@ -45361,6 +45425,14 @@
       "onboard_time": 1714040300,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204843,
+      "num": 204843,
+      "word": "IVE 烟杆",
+      "onboard_time": 1714389138,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 204810,
@@ -49324,7 +49396,7 @@
     },
     {
       "raw_hot": 194195,
-      "num": 115627,
+      "num": 154567,
       "word": "李耕耘一下吃了十个鲜花饼",
       "onboard_time": 1714386618,
       "rank": 40,
@@ -49867,6 +49939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192756,
+      "num": 192756,
+      "word": "高颜值出圈华为HR自曝离职",
+      "onboard_time": 1714388898,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 192742,
       "num": 192742,
       "word": "人一旦不上班就不想上班了",
@@ -49897,6 +49977,14 @@
       "onboard_time": 1712327241,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192698,
+      "num": 192698,
+      "word": "南宁三中",
+      "onboard_time": 1714388839,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192655,
@@ -54187,14 +54275,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 181418,
-      "num": 181418,
-      "word": "医生说肚脐是人体的薄弱之处",
-      "onboard_time": 1714384218,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 181412,
       "num": 181412,
       "word": "宋雨琦solo行程表",
@@ -55033,6 +55113,14 @@
       "onboard_time": 1713525917,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178531,
+      "num": 332645,
+      "word": "你的五一搭子是谁",
+      "onboard_time": 1714387398,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 178527,
@@ -56675,6 +56763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172776,
+      "num": 172776,
+      "word": "吴恙Yamy不知浪姐初舞台标准",
+      "onboard_time": 1714389018,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172748,
       "num": 255190,
       "word": "70后农民卖瓜子带3000户乡亲致富",
@@ -56793,6 +56889,14 @@
       "onboard_time": 1713786558,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172260,
+      "num": 172260,
+      "word": "终于喝上冰中式了",
+      "onboard_time": 1714388059,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 172198,
@@ -58073,6 +58177,14 @@
       "onboard_time": 1714276638,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167819,
+      "num": 167819,
+      "word": "Gucci把肖战写入简介",
+      "onboard_time": 1714388898,
+      "rank": 39,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 167815,
@@ -59459,14 +59571,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 163188,
-      "num": 159680,
-      "word": "难听",
-      "onboard_time": 1711929138,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 163162,
       "num": 163162,
       "word": "王嘉尔BIBI合作新歌",
@@ -59521,6 +59625,14 @@
       "onboard_time": 1713948017,
       "rank": 31,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 162914,
+      "num": 162914,
+      "word": "迈腾",
+      "onboard_time": 1714387098,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162902,
@@ -61633,14 +61745,6 @@
       "onboard_time": 1713662718,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 155967,
-      "num": 113320,
-      "word": "刘耀文空降",
-      "onboard_time": 1714386858,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 155962,
@@ -64937,6 +65041,14 @@
       "onboard_time": 1713950478,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 147171,
+      "num": 482892,
+      "word": "现在浙江的咖啡这么卷了吗",
+      "onboard_time": 1714384759,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 147158,
@@ -70763,14 +70875,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129335,
-      "num": 482892,
-      "word": "现在浙江的咖啡这么卷了吗",
-      "onboard_time": 1714384759,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 129228,
       "num": 129228,
       "word": "文韬小小少年路透",
@@ -76033,6 +76137,14 @@
       "onboard_time": 1714346354,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 104636,
+      "num": 122300,
+      "word": "特斯拉中国FSD购买页面显示即将推出",
+      "onboard_time": 1714389378,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 104624,
@@ -81640,6 +81752,14 @@
       "word": "最Joker的行为",
       "onboard_time": 1712993177,
       "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 34061,
+      "num": 203132,
+      "word": "蛋仔玩法全家桶",
+      "onboard_time": 1714387038,
+      "rank": 29,
       "category": "游戏"
     },
     {
