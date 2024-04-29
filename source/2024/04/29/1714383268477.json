@@ -1,0 +1,410 @@
+{
+  "runTime": 1714383268477,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1065790,
+        "num": 1065790,
+        "word": "IVE回归",
+        "onboard_time": 1714381579,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 976054,
+        "num": 976054,
+        "word": "明天下班走出办公室的我",
+        "onboard_time": 1714375458,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57216,
+        "num": 761299,
+        "word": "神十七乘组在轨工作总结",
+        "onboard_time": 1714377138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759116,
+        "num": 759116,
+        "word": "003",
+        "onboard_time": 1714378278,
+        "rank": 3,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 605544,
+        "num": 605544,
+        "word": "Jennie那英",
+        "onboard_time": 1714376238,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 566655,
+        "num": 566655,
+        "word": "王一博让主持人不要王吧一起说",
+        "onboard_time": 1714378879,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 544046,
+        "num": 544046,
+        "word": "40多名护士遭集体解职",
+        "onboard_time": 1714369758,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496903,
+        "num": 496903,
+        "word": "歌手2024请揭榜",
+        "onboard_time": 1714376958,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429034,
+        "num": 429034,
+        "word": "鲁迅家属已向乐乐茶发律师函",
+        "onboard_time": 1714372698,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145639,
+        "num": 424967,
+        "word": "人生哪次考试决定了你的命运",
+        "onboard_time": 1714380019,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1231686,
+        "num": 422465,
+        "word": "徐艺洋是真不想给黄子韬名分",
+        "onboard_time": 1714377679,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119248,
+        "num": 415803,
+        "word": "林更新改名了",
+        "onboard_time": 1714381159,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1112748,
+        "num": 415404,
+        "word": "两岁男孩多次用枕巾捂妹妹脸",
+        "onboard_time": 1714379599,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451315,
+        "num": 408975,
+        "word": "付鹏与李佳琦仍共同持股公司",
+        "onboard_time": 1714376538,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 449967,
+        "num": 406185,
+        "word": "SEVENTEEN回归",
+        "onboard_time": 1714381758,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 402057,
+        "num": 402057,
+        "word": "陈牧驰 复出",
+        "onboard_time": 1714381278,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395813,
+        "num": 395813,
+        "word": "提出涨薪1000涨了500",
+        "onboard_time": 1714364299,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 377525,
+        "num": 377525,
+        "word": "广西通报一小学生坠楼身亡",
+        "onboard_time": 1714380499,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364476,
+        "num": 364476,
+        "word": "雷军 爽文",
+        "onboard_time": 1714377978,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 257290,
+        "num": 257290,
+        "word": "福建舰",
+        "onboard_time": 1714377978,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 609377,
+        "num": 257040,
+        "word": "为什么头发梳久了梳子上会这样",
+        "onboard_time": 1714379358,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334437,
+        "num": 255481,
+        "word": "金靖曾被舒奕橙三次取关",
+        "onboard_time": 1714371859,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323109,
+        "num": 254122,
+        "word": "SEVENTEEN主打曲MV",
+        "onboard_time": 1714382720,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312781,
+        "num": 251478,
+        "word": "刘亦菲有在认真养她的小猫咪",
+        "onboard_time": 1714381819,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251406,
+        "num": 251406,
+        "word": "消息称马斯克已离开中国",
+        "onboard_time": 1714380618,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 288981,
+        "num": 247955,
+        "word": "将门毒后改名为将门独后",
+        "onboard_time": 1714369817,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243621,
+        "num": 243621,
+        "word": "紫燕百味鸡被吐槽超薄外卖盒",
+        "onboard_time": 1714376538,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 227890,
+        "num": 227890,
+        "word": "外交部回应中国是否允许特斯拉FSD落地",
+        "onboard_time": 1714380079,
+        "rank": 27,
+        "category": "国内时政,汽车"
+      },
+      {
+        "raw_hot": 223646,
+        "num": 223646,
+        "word": "心脏好不好看脸就知道",
+        "onboard_time": 1714378939,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215151,
+        "num": 215151,
+        "word": "贾玲换新头像",
+        "onboard_time": 1714381459,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205213,
+        "num": 205213,
+        "word": "黑鸭黑鸭黑鸭",
+        "onboard_time": 1714382480,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201887,
+        "num": 201887,
+        "word": "移除她 也是为了保护她",
+        "onboard_time": 1714382119,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200510,
+        "num": 200510,
+        "word": "赵露思饭撒",
+        "onboard_time": 1714381099,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198700,
+        "num": 198700,
+        "word": "屠宰场处理一只活猫仅需几分钟",
+        "onboard_time": 1714377318,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195031,
+        "num": 195031,
+        "word": "癌症可能是省出来的",
+        "onboard_time": 1714370358,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198354,
+        "num": 195003,
+        "word": "全圆佑打戏",
+        "onboard_time": 1714383019,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193904,
+        "num": 193904,
+        "word": "HEYA",
+        "onboard_time": 1714382720,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182813,
+        "num": 182813,
+        "word": "推特崩了",
+        "onboard_time": 1714380799,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181905,
+        "num": 181905,
+        "word": "清华网球亡子",
+        "onboard_time": 1714374798,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181409,
+        "num": 181409,
+        "word": "跟唱凤凰传奇 把自己唱生气了",
+        "onboard_time": 1714380319,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175048,
+        "num": 175048,
+        "word": "请病假还走了两万的微信步数",
+        "onboard_time": 1714367179,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170871,
+        "num": 170871,
+        "word": "长沙南站就候车室漏雨致歉",
+        "onboard_time": 1714380499,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170451,
+        "num": 170451,
+        "word": "跑男 郑恺的编制",
+        "onboard_time": 1714380379,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160370,
+        "num": 160370,
+        "word": "北大教授称年轻人不要老想着眼前",
+        "onboard_time": 1714374077,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160240,
+        "num": 160240,
+        "word": "确实比我去银行取钱快多了",
+        "onboard_time": 1714381459,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158881,
+        "num": 158881,
+        "word": "SEVENTEEN发布会",
+        "onboard_time": 1714376118,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152523,
+        "num": 152523,
+        "word": "高铁地铁为什么不在夜间行车",
+        "onboard_time": 1714382538,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 144367,
+        "num": 144367,
+        "word": "袁娅维3次发文怼浪姐",
+        "onboard_time": 1714359919,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130325,
+        "num": 130325,
+        "word": "消息称特斯拉中国版FSD和百度合作",
+        "onboard_time": 1714383019,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128843,
+        "num": 128843,
+        "word": "女子误将鸡尾酒当饮料酒驾被抓",
+        "onboard_time": 1714383199,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#着力打造具有全球影响力的产业科技创新中心#"
+    }
+  }
+}

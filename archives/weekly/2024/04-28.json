@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714382391518,
+  "endTime": 1714383268477,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -299,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1112748,
+      "num": 530427,
+      "word": "两岁男孩多次用枕巾捂妹妹脸",
+      "onboard_time": 1714379599,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1081101,
       "num": 310447,
       "word": "请病假还走了两万的微信步数",
@@ -329,6 +337,14 @@
       "onboard_time": 1714269498,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1065790,
+      "num": 1065790,
+      "word": "IVE回归",
+      "onboard_time": 1714381579,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1060663,
@@ -393,14 +409,6 @@
       "onboard_time": 1714263679,
       "rank": 11,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 948802,
-      "num": 948802,
-      "word": "IVE回归",
-      "onboard_time": 1714381579,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 948125,
@@ -587,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 824604,
-      "num": 530427,
-      "word": "两岁男孩多次用枕巾捂妹妹脸",
-      "onboard_time": 1714379599,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 820288,
       "num": 397470,
       "word": "怀孕九个月去产检被老人要求让座",
@@ -633,6 +633,14 @@
       "onboard_time": 1714229960,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 759116,
+      "num": 759116,
+      "word": "003",
+      "onboard_time": 1714378278,
+      "rank": 18,
+      "category": "军事,国内时政"
     },
     {
       "raw_hot": 756156,
@@ -681,14 +689,6 @@
       "onboard_time": 1714349177,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 726318,
-      "num": 726318,
-      "word": "003",
-      "onboard_time": 1714378278,
-      "rank": 18,
-      "category": "军事,国内时政"
     },
     {
       "raw_hot": 721781,
@@ -899,7 +899,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 606061,
+      "raw_hot": 609377,
       "num": 349161,
       "word": "为什么头发梳久了梳子上会这样",
       "onboard_time": 1714379358,
@@ -995,6 +995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 566655,
+      "num": 566655,
+      "word": "王一博让主持人不要王吧一起说",
+      "onboard_time": 1714378879,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 565540,
       "num": 565540,
       "word": "00后男友为女友定制赶海计划",
@@ -1041,14 +1049,6 @@
       "onboard_time": 1714222457,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 535529,
-      "num": 535529,
-      "word": "王一博让主持人不要王吧一起说",
-      "onboard_time": 1714378879,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 529059,
@@ -1347,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 449967,
+      "num": 422251,
+      "word": "SEVENTEEN回归",
+      "onboard_time": 1714381758,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 449878,
       "num": 358571,
       "word": "邓超 亚比囧囧囧",
@@ -1427,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 422251,
-      "num": 422251,
-      "word": "SEVENTEEN回归",
-      "onboard_time": 1714381758,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 421503,
       "num": 1067980,
       "word": "中国航天员完成在轨交接",
@@ -1483,8 +1483,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 401067,
-      "num": 401067,
+      "raw_hot": 402057,
+      "num": 402057,
       "word": "陈牧驰 复出",
       "onboard_time": 1714381278,
       "rank": 17,
@@ -1545,6 +1545,14 @@
       "onboard_time": 1714321876,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 377525,
+      "num": 377525,
+      "word": "广西通报一小学生坠楼身亡",
+      "onboard_time": 1714380499,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377461,
@@ -1643,14 +1651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 352916,
-      "num": 352916,
-      "word": "广西通报一小学生坠楼身亡",
-      "onboard_time": 1714380499,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343853,
       "num": 310376,
       "word": "何炅赵丽颖合影旧照",
@@ -1723,6 +1723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 323109,
+      "num": 254122,
+      "word": "SEVENTEEN主打曲MV",
+      "onboard_time": 1714382720,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 322489,
       "num": 322489,
       "word": "张艺凡提前五小时到剧组化妆",
@@ -1793,6 +1801,14 @@
       "onboard_time": 1714306699,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 312781,
+      "num": 256360,
+      "word": "刘亦菲有在认真养她的小猫咪",
+      "onboard_time": 1714381819,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 312611,
@@ -2075,14 +2091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 256360,
-      "num": 256360,
-      "word": "刘亦菲有在认真养她的小猫咪",
-      "onboard_time": 1714381819,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256314,
       "num": 305294,
       "word": "专家谈问界M7碰撞后疑车门无法打开",
@@ -2129,6 +2137,14 @@
       "onboard_time": 1714223419,
       "rank": 13,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 251406,
+      "num": 251406,
+      "word": "消息称马斯克已离开中国",
+      "onboard_time": 1714380618,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 249628,
@@ -2321,14 +2337,6 @@
       "onboard_time": 1714225819,
       "rank": 24,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 233863,
-      "num": 233863,
-      "word": "消息称马斯克已离开中国",
-      "onboard_time": 1714380618,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 233067,
@@ -2739,6 +2747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205213,
+      "num": 205213,
+      "word": "黑鸭黑鸭黑鸭",
+      "onboard_time": 1714382480,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205206,
       "num": 237411,
       "word": "九尾好C",
@@ -2801,6 +2817,14 @@
       "onboard_time": 1714366277,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201887,
+      "num": 201887,
+      "word": "移除她 也是为了保护她",
+      "onboard_time": 1714382119,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 201788,
@@ -2905,6 +2929,14 @@
       "onboard_time": 1714364000,
       "rank": 19,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 198354,
+      "num": 195003,
+      "word": "全圆佑打戏",
+      "onboard_time": 1714383019,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 197902,
@@ -3017,6 +3049,14 @@
       "onboard_time": 1714380319,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193904,
+      "num": 193904,
+      "word": "HEYA",
+      "onboard_time": 1714382720,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 193824,
@@ -3547,14 +3587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167641,
-      "num": 167641,
-      "word": "移除她 也是为了保护她",
-      "onboard_time": 1714382119,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167624,
       "num": 167624,
       "word": "奶奶们围成人墙保护3岁走失娃",
@@ -3633,6 +3665,14 @@
       "onboard_time": 1714295358,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160240,
+      "num": 160240,
+      "word": "确实比我去银行取钱快多了",
+      "onboard_time": 1714381459,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 159987,
@@ -3715,14 +3755,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 157254,
-      "num": 157254,
-      "word": "确实比我去银行取钱快多了",
-      "onboard_time": 1714381459,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 157089,
       "num": 157089,
       "word": "突然发现自己好孤独",
@@ -3793,6 +3825,14 @@
       "onboard_time": 1714363039,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152523,
+      "num": 152523,
+      "word": "高铁地铁为什么不在夜间行车",
+      "onboard_time": 1714382538,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 150080,
@@ -4235,6 +4275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130325,
+      "num": 130325,
+      "word": "消息称特斯拉中国版FSD和百度合作",
+      "onboard_time": 1714383019,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 129723,
       "num": 129723,
       "word": "一些舒服的吃饭姿势",
@@ -4265,6 +4313,14 @@
       "onboard_time": 1714286899,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128843,
+      "num": 128843,
+      "word": "女子误将鸡尾酒当饮料酒驾被抓",
+      "onboard_time": 1714383199,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128799,
@@ -4441,6 +4497,14 @@
       "onboard_time": 1714376657,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 119248,
+      "num": 531533,
+      "word": "林更新改名了",
+      "onboard_time": 1714381159,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 119049,
@@ -4737,14 +4801,6 @@
       "onboard_time": 1714291219,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 91202,
-      "num": 531533,
-      "word": "林更新改名了",
-      "onboard_time": 1714381159,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 91132,
