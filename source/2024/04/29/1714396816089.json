@@ -1,0 +1,410 @@
+{
+  "runTime": 1714396816089,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 879793,
+        "num": 879793,
+        "word": "陈翔自荐报名歌手2024",
+        "onboard_time": 1714392259,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473992,
+        "num": 473992,
+        "word": "华为HR",
+        "onboard_time": 1714392259,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 6464,
+        "num": 405747,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2136636,
+        "num": 402896,
+        "word": "官方公布李某某北电艺考核查结果",
+        "onboard_time": 1714394058,
+        "rank": 3,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 851837,
+        "num": 398077,
+        "word": "女子直播时被失散32年的父亲认出",
+        "onboard_time": 1714392078,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386307,
+        "num": 386307,
+        "word": "游客反映董宇辉博物院直播耽误参观行程",
+        "onboard_time": 1714394079,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 674648,
+        "num": 382274,
+        "word": "李某某北电艺考属于考试违纪",
+        "onboard_time": 1714394721,
+        "rank": 6,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 371375,
+        "num": 371375,
+        "word": "北京48一位烧烤自助随便吃",
+        "onboard_time": 1714390759,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 364712,
+        "num": 364712,
+        "word": "40多名护士遭集体解职",
+        "onboard_time": 1714369758,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161578,
+        "num": 364534,
+        "word": "你的五一搭子是谁",
+        "onboard_time": 1714387398,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 724798,
+        "num": 364312,
+        "word": "朱莉回应离婚",
+        "onboard_time": 1714390037,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 481277,
+        "num": 363908,
+        "word": "徐艺洋是真不想给黄子韬名分",
+        "onboard_time": 1714377679,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472653,
+        "num": 363695,
+        "word": "初中女生被多人欺负殴打8人被行拘",
+        "onboard_time": 1714394899,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446062,
+        "num": 363122,
+        "word": "南宁三中",
+        "onboard_time": 1714388839,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410300,
+        "num": 362827,
+        "word": "辛芷蕾工作室关闭后援会账号",
+        "onboard_time": 1714395799,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362733,
+        "num": 362733,
+        "word": "苗苗不愧是北舞严选",
+        "onboard_time": 1714395978,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358981,
+        "num": 358981,
+        "word": "papi酱问郭采洁哪来这么多破烂儿",
+        "onboard_time": 1714390998,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357433,
+        "num": 357433,
+        "word": "难听",
+        "onboard_time": 1714386858,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 317683,
+        "num": 317683,
+        "word": "男子买约800克黄金店员报警",
+        "onboard_time": 1714384097,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291141,
+        "num": 291141,
+        "word": "露水情缘 比纸都薄",
+        "onboard_time": 1714395918,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326465,
+        "num": 282215,
+        "word": "Gucci把肖战写入简介",
+        "onboard_time": 1714388898,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 268074,
+        "num": 268074,
+        "word": "原来是因为头发少所以油得快",
+        "onboard_time": 1714395318,
+        "rank": 21,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 264968,
+        "num": 264968,
+        "word": "林更新苗苗同框",
+        "onboard_time": 1714395918,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215166,
+        "num": 255959,
+        "word": "不上班真的显年轻",
+        "onboard_time": 1714394079,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208045,
+        "num": 252948,
+        "word": "病毒学家张永振和其学生仍围坐门口",
+        "onboard_time": 1714388778,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252425,
+        "num": 252425,
+        "word": "歌手报名",
+        "onboard_time": 1714391959,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237579,
+        "num": 237579,
+        "word": "IVE空降",
+        "onboard_time": 1714387698,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230798,
+        "num": 230798,
+        "word": "配音沪圈",
+        "onboard_time": 1714389498,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136842,
+        "num": 210120,
+        "word": "原北京站站长王丽娟被查",
+        "onboard_time": 1714390097,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121697,
+        "num": 209817,
+        "word": "外交部回应布林肯称中方试图干涉美国大选",
+        "onboard_time": 1714392019,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209723,
+        "num": 209723,
+        "word": "鹿晗现身末路狂花钱首映礼",
+        "onboard_time": 1714396758,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46429,
+        "num": 197884,
+        "word": "林更新状态",
+        "onboard_time": 1714396098,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190887,
+        "num": 190887,
+        "word": "不该把中国妹都叫成熊猫妹",
+        "onboard_time": 1714383499,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190013,
+        "num": 190013,
+        "word": "高颜值出圈华为HR自曝离职",
+        "onboard_time": 1714388898,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 188757,
+        "num": 188757,
+        "word": "刘亦菲有在认真养她的小猫咪",
+        "onboard_time": 1714381819,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187528,
+        "num": 187528,
+        "word": "王一博 谁是犊子",
+        "onboard_time": 1714391898,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183376,
+        "num": 183376,
+        "word": "邓科关注赵露思",
+        "onboard_time": 1714393818,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181343,
+        "num": 181343,
+        "word": "Jennie那英",
+        "onboard_time": 1714376238,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180735,
+        "num": 180735,
+        "word": "为什么头发梳久了梳子上会这样",
+        "onboard_time": 1714379358,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99957,
+        "num": 179943,
+        "word": "福建海警位金门附近海域依法开展常态化执法巡查",
+        "onboard_time": 1714393759,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179427,
+        "num": 179427,
+        "word": "背着善宰跑",
+        "onboard_time": 1714393759,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174786,
+        "num": 174786,
+        "word": "谁说国内没有好恐怖片",
+        "onboard_time": 1714396218,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174053,
+        "num": 174053,
+        "word": "医生说肚脐是人体的薄弱之处",
+        "onboard_time": 1714384218,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157229,
+        "num": 157229,
+        "word": "警方通报初中生联合校外学生欺凌同学",
+        "onboard_time": 1714396398,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152593,
+        "num": 152593,
+        "word": "震碎Kpop",
+        "onboard_time": 1714390938,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152357,
+        "num": 152357,
+        "word": "王霏霏在韩务工11年",
+        "onboard_time": 1714396758,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137702,
+        "num": 137702,
+        "word": "特斯拉FSD中国售价",
+        "onboard_time": 1714396578,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 134650,
+        "num": 134650,
+        "word": "院方回应董宇辉直播让游客在外等50分钟",
+        "onboard_time": 1714391959,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113798,
+        "num": 113798,
+        "word": "明天下班走出办公室的我",
+        "onboard_time": 1714375458,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82087,
+        "num": 113764,
+        "word": "乐乐茶致歉声明",
+        "onboard_time": 1714388419,
+        "rank": 49,
+        "category": "社会新闻,读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席欧洲之行#"
+    }
+  }
+}
