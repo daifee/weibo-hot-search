@@ -1,6 +1,6 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714444682599,
+  "endTime": 1714447166551,
   "band_list": [
     {
       "raw_hot": 2169074,
@@ -8,6 +8,14 @@
       "word": "凯特王妃",
       "onboard_time": 1714441698,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1676147,
+      "num": 1346195,
+      "word": "老人在自家别墅踩空电梯不幸身亡",
+      "onboard_time": 1714441878,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -24,14 +32,6 @@
       "word": "问界M7事故家属发声",
       "onboard_time": 1714436058,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1288773,
-      "num": 1288773,
-      "word": "老人在自家别墅踩空电梯不幸身亡",
-      "onboard_time": 1714441878,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 728098,
+      "num": 374283,
+      "word": "日元暴跌日本游客赴美时扛大米",
+      "onboard_time": 1714443016,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 704748,
       "num": 304261,
       "word": "猫肉被整只烧烤售卖",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 669945,
-      "num": 260520,
+      "num": 547230,
       "word": "自称刷了30万的榜一大哥和女主播街头冲突",
       "onboard_time": 1714439837,
       "rank": 21,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 662421,
-      "num": 256593,
+      "num": 319478,
       "word": "怀孕以后为什么觉得老公巨臭无比",
       "onboard_time": 1714438758,
       "rank": 20,
@@ -131,12 +139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 590617,
+      "num": 270274,
+      "word": "miumiu3250元发卡卖断货",
+      "onboard_time": 1714442718,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 577889,
       "num": 577889,
       "word": "校方回应学生用完演出服后集体退货",
       "onboard_time": 1714432996,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530465,
+      "num": 270135,
+      "word": "真正厉害的人都很擅长睡觉",
+      "onboard_time": 1714442058,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 475382,
@@ -179,28 +203,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 403892,
-      "num": 403892,
-      "word": "神十七顺利撤离空间站",
-      "onboard_time": 1714439718,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397097,
-      "num": 397097,
+      "raw_hot": 413684,
+      "num": 413684,
       "word": "林更新赵露思或合作新剧",
       "onboard_time": 1714443500,
       "rank": 17,
       "category": "剧集"
     },
     {
-      "raw_hot": 392736,
-      "num": 253475,
-      "word": "真正厉害的人都很擅长睡觉",
-      "onboard_time": 1714442058,
-      "rank": 22,
-      "category": "健康医疗"
+      "raw_hot": 409555,
+      "num": 409555,
+      "word": "华为与苹果同日举办新品发布会",
+      "onboard_time": 1714441757,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 403892,
+      "num": 403892,
+      "word": "神十七顺利撤离空间站",
+      "onboard_time": 1714439718,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386400,
@@ -211,20 +235,28 @@
       "category": "美食"
     },
     {
-      "raw_hot": 378912,
-      "num": 243313,
-      "word": "miumiu3250元发卡卖断货",
-      "onboard_time": 1714442718,
-      "rank": 30,
-      "category": "时尚"
+      "raw_hot": 378792,
+      "num": 378792,
+      "word": "歌手 伯远",
+      "onboard_time": 1714446557,
+      "rank": 8,
+      "category": "综艺"
     },
     {
-      "raw_hot": 365703,
-      "num": 365703,
-      "word": "日元暴跌日本游客赴美时扛大米",
-      "onboard_time": 1714443016,
-      "rank": 23,
-      "category": "国外时政"
+      "raw_hot": 373881,
+      "num": 373881,
+      "word": "中国驱离菲律宾侵闯黄岩岛邻近海域船只",
+      "onboard_time": 1714443737,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 373443,
+      "num": 373443,
+      "word": "警方通报女子骑电瓶车被交警强行拽下",
+      "onboard_time": 1714442116,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355436,
@@ -251,20 +283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340894,
+      "num": 340894,
+      "word": "神十七乘组天外归来",
+      "onboard_time": 1714444338,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336399,
+      "num": 336399,
+      "word": "书卷一梦阵容官宣",
+      "onboard_time": 1714445837,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 319975,
       "num": 319975,
       "word": "厦门免费宿舍已有1千多人申请",
       "onboard_time": 1714407018,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310708,
-      "num": 310708,
-      "word": "华为与苹果同日举办新品发布会",
-      "onboard_time": 1714441757,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 302885,
@@ -299,28 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 275634,
-      "num": 275634,
-      "word": "警方通报女子骑电瓶车被交警强行拽下",
-      "onboard_time": 1714442116,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271121,
       "num": 199483,
       "word": "官方回应广东一外卖员雨中落水身亡",
       "onboard_time": 1714404859,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268245,
-      "num": 268245,
-      "word": "中国驱离菲律宾侵闯黄岩岛邻近海域船只",
-      "onboard_time": 1714443737,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 264897,
@@ -337,6 +361,14 @@
       "onboard_time": 1714434676,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249629,
+      "num": 249629,
+      "word": "女子获300万遗产被已婚男骗走206万",
+      "onboard_time": 1714445357,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241607,
@@ -435,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211015,
+      "num": 211015,
+      "word": "为什么女生不喜欢和公婆同住",
+      "onboard_time": 1714445178,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207497,
       "num": 207497,
       "word": "冬天埋的小猫变成了小草",
@@ -456,6 +496,14 @@
       "word": "杨幂王鹤润尔滨再续扶摇缘",
       "onboard_time": 1714444158,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204420,
+      "num": 204420,
+      "word": "另一种蓝定档",
+      "onboard_time": 1714446378,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -481,6 +529,30 @@
       "onboard_time": 1714441277,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191143,
+      "num": 191143,
+      "word": "艺人五月行程图",
+      "onboard_time": 1714444578,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190167,
+      "num": 190167,
+      "word": "问界M7事故家属向救援者致谢",
+      "onboard_time": 1714445897,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188013,
+      "num": 188013,
+      "word": "福建广东雷暴大风冰雹来袭",
+      "onboard_time": 1714445718,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180644,
@@ -529,6 +601,14 @@
       "onboard_time": 1714431855,
       "rank": 24,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 172712,
+      "num": 172712,
+      "word": "李一桐刘宇宁合作",
+      "onboard_time": 1714446858,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 172343,
@@ -587,12 +667,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163555,
+      "num": 163555,
+      "word": "男凝和欣赏区别",
+      "onboard_time": 1714446137,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161555,
       "num": 161555,
       "word": "肖战晚宴穿搭",
       "onboard_time": 1714397719,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 158914,
+      "num": 374512,
+      "word": "她是北大同专业同级唯一坚持读到毕业",
+      "onboard_time": 1714446438,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154421,
@@ -619,14 +715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148853,
-      "num": 148853,
-      "word": "神十七乘组天外归来",
-      "onboard_time": 1714444338,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148705,
       "num": 148705,
       "word": "春色寄情人看脸红了",
@@ -635,12 +723,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147471,
+      "num": 147471,
+      "word": "早起三不做",
+      "onboard_time": 1714443978,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 146711,
       "num": 146711,
       "word": "第五人格 开门",
       "onboard_time": 1714436659,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145920,
+      "num": 145920,
+      "word": "秦海璐剧透花少旅行地",
+      "onboard_time": 1714444877,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 145517,
@@ -707,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134970,
+      "num": 134970,
+      "word": "再不起床小狗就亲下去了",
+      "onboard_time": 1714444399,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134558,
       "num": 134558,
       "word": "配音沪圈",
@@ -731,14 +843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 132245,
-      "num": 132245,
-      "word": "艺人五月行程图",
-      "onboard_time": 1714444578,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132186,
       "num": 132186,
       "word": "王一博让赵华为站C位",
@@ -753,6 +857,14 @@
       "onboard_time": 1714438218,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130850,
+      "num": 130850,
+      "word": "因为天气取消了五一出游",
+      "onboard_time": 1714447099,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 127746,
@@ -777,14 +889,6 @@
       "onboard_time": 1714398198,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 123678,
-      "num": 123678,
-      "word": "再不起床小狗就亲下去了",
-      "onboard_time": 1714444399,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 121726,
@@ -843,14 +947,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 109937,
-      "num": 109937,
-      "word": "早起三不做",
-      "onboard_time": 1714443978,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 103321,
       "num": 132188,
       "word": "初中女生被多人欺负殴打8人被行拘",
@@ -905,6 +1001,14 @@
       "onboard_time": 1714408456,
       "rank": 49,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 86741,
+      "num": 321623,
+      "word": "放假时总想去别的城市看看",
+      "onboard_time": 1714444637,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81898,
@@ -1003,6 +1107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49110,
+      "num": 204099,
+      "word": "蛋仔派对猫鼠联动正式上线",
+      "onboard_time": 1714445357,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 43183,
       "num": 36284,
       "word": "胡皓康 超A的脸上露出很O的笑容",
@@ -1033,14 +1145,6 @@
       "onboard_time": 1714411991,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 31397,
-      "num": 109764,
-      "word": "放假时总想去别的城市看看",
-      "onboard_time": 1714444637,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25866,
@@ -1075,7 +1179,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 13182,
+      "raw_hot": 13439,
       "num": 1102329,
       "word": "文化中国行",
       "onboard_time": 1713927617,

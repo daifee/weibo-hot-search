@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/30 10:38:02
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/30 11:19:26
 </p>
 </blockquote>
 <p>
@@ -1289,6 +1289,12 @@ Angelababy金像奖红毯（热度：1709940）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E2024%E5%AE%98%E5%AE%A3%23" target="weibo">
 乘风2024官宣（热度：1676864）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%88%AB%E5%A2%85%E8%B8%A9%E7%A9%BA%E7%94%B5%E6%A2%AF%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23" target="weibo">
+老人在自家别墅踩空电梯不幸身亡（热度：1676147）
 </a>
 </li>
 
@@ -2579,12 +2585,6 @@ ZARA回应撤出中国传闻（热度：1355755）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%A4%A7%E7%A6%8F%E8%B6%B3%E9%87%91%E6%88%92%E6%8C%87%E4%B8%8D%E5%88%B02%E4%B8%AA%E6%9C%88%E5%87%BA%E7%8E%B0%E8%A4%AA%E8%89%B2%23" target="weibo">
 周大福足金戒指不到2个月出现褪色（热度：1292882）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%88%AB%E5%A2%85%E8%B8%A9%E7%A9%BA%E7%94%B5%E6%A2%AF%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23" target="weibo">
-老人在自家别墅踩空电梯不幸身亡（热度：1288773）
 </a>
 </li>
 

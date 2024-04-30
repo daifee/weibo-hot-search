@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714444682599,
+  "endTime": 1714447166551,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -105,6 +105,14 @@
       "onboard_time": 1714306765,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1676147,
+      "num": 1346195,
+      "word": "老人在自家别墅踩空电梯不幸身亡",
+      "onboard_time": 1714441878,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1665523,
@@ -289,14 +297,6 @@
       "onboard_time": 1714364299,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1288773,
-      "num": 1288773,
-      "word": "老人在自家别墅踩空电梯不幸身亡",
-      "onboard_time": 1714441878,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1272062,
@@ -867,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 728098,
+      "num": 374283,
+      "word": "日元暴跌日本游客赴美时扛大米",
+      "onboard_time": 1714443016,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 721781,
       "num": 510933,
       "word": "孙俪爆料邓超的坏习惯",
@@ -996,7 +1004,7 @@
     },
     {
       "raw_hot": 669945,
-      "num": 260520,
+      "num": 547230,
       "word": "自称刷了30万的榜一大哥和女主播街头冲突",
       "onboard_time": 1714439837,
       "rank": 21,
@@ -1004,7 +1012,7 @@
     },
     {
       "raw_hot": 662421,
-      "num": 256593,
+      "num": 319478,
       "word": "怀孕以后为什么觉得老公巨臭无比",
       "onboard_time": 1714438758,
       "rank": 20,
@@ -1187,6 +1195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 590617,
+      "num": 270274,
+      "word": "miumiu3250元发卡卖断货",
+      "onboard_time": 1714442718,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 588041,
       "num": 588041,
       "word": "戚薇被陈丽君戏妆吓到",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1714399402,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 530465,
+      "num": 270135,
+      "word": "真正厉害的人都很擅长睡觉",
+      "onboard_time": 1714442058,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 529059,
@@ -1883,12 +1907,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 413684,
+      "num": 413684,
+      "word": "林更新赵露思或合作新剧",
+      "onboard_time": 1714443500,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411560,
       "num": 411560,
       "word": "雷军希望车企私下别搞小动作",
       "onboard_time": 1714298118,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 409555,
+      "num": 409555,
+      "word": "华为与苹果同日举办新品发布会",
+      "onboard_time": 1714441757,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 406406,
@@ -1936,22 +1976,6 @@
       "word": "睡眠不足的9大表现",
       "onboard_time": 1714353378,
       "rank": 15,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 397097,
-      "num": 397097,
-      "word": "林更新赵露思或合作新剧",
-      "onboard_time": 1714443500,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 392736,
-      "num": 253475,
-      "word": "真正厉害的人都很擅长睡觉",
-      "onboard_time": 1714442058,
-      "rank": 22,
       "category": "健康医疗"
     },
     {
@@ -2019,12 +2043,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 378912,
-      "num": 243313,
-      "word": "miumiu3250元发卡卖断货",
-      "onboard_time": 1714442718,
-      "rank": 30,
-      "category": "时尚"
+      "raw_hot": 378792,
+      "num": 378792,
+      "word": "歌手 伯远",
+      "onboard_time": 1714446557,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 377525,
@@ -2041,6 +2065,22 @@
       "onboard_time": 1714302318,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 373881,
+      "num": 373881,
+      "word": "中国驱离菲律宾侵闯黄岩岛邻近海域船只",
+      "onboard_time": 1714443737,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 373443,
+      "num": 373443,
+      "word": "警方通报女子骑电瓶车被交警强行拽下",
+      "onboard_time": 1714442116,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373167,
@@ -2081,14 +2121,6 @@
       "onboard_time": 1714267221,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365703,
-      "num": 365703,
-      "word": "日元暴跌日本游客赴美时扛大米",
-      "onboard_time": 1714443016,
-      "rank": 23,
-      "category": "国外时政"
     },
     {
       "raw_hot": 361578,
@@ -2195,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340894,
+      "num": 340894,
+      "word": "神十七乘组天外归来",
+      "onboard_time": 1714444338,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339870,
       "num": 339870,
       "word": "何炅张杰看烟花",
@@ -2209,6 +2249,14 @@
       "onboard_time": 1714360039,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 336399,
+      "num": 336399,
+      "word": "书卷一梦阵容官宣",
+      "onboard_time": 1714445837,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 336015,
@@ -2403,14 +2451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 310708,
-      "num": 310708,
-      "word": "华为与苹果同日举办新品发布会",
-      "onboard_time": 1714441757,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 308990,
       "num": 308990,
       "word": "湖人赢了",
@@ -2587,14 +2627,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 275634,
-      "num": 275634,
-      "word": "警方通报女子骑电瓶车被交警强行拽下",
-      "onboard_time": 1714442116,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275163,
       "num": 275163,
       "word": "这下谁还敢恋爱脑啊",
@@ -2681,14 +2713,6 @@
       "onboard_time": 1714357817,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 268245,
-      "num": 268245,
-      "word": "中国驱离菲律宾侵闯黄岩岛邻近海域船只",
-      "onboard_time": 1714443737,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 267973,
@@ -2833,6 +2857,14 @@
       "onboard_time": 1714380618,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 249629,
+      "num": 249629,
+      "word": "女子获300万遗产被已婚男骗走206万",
+      "onboard_time": 1714445357,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249628,
@@ -3459,6 +3491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211015,
+      "num": 211015,
+      "word": "为什么女生不喜欢和公婆同住",
+      "onboard_time": 1714445178,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210849,
       "num": 236718,
       "word": "终于喝上冰中式了",
@@ -3633,6 +3673,14 @@
       "onboard_time": 1714274598,
       "rank": 32,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 204420,
+      "num": 204420,
+      "word": "另一种蓝定档",
+      "onboard_time": 1714446378,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 203453,
@@ -4099,6 +4147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 191143,
+      "num": 191143,
+      "word": "艺人五月行程图",
+      "onboard_time": 1714444578,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191128,
       "num": 191128,
       "word": "同龄人中为什么有人显老",
@@ -4113,6 +4169,14 @@
       "onboard_time": 1714296798,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190167,
+      "num": 190167,
+      "word": "问界M7事故家属向救援者致谢",
+      "onboard_time": 1714445897,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189273,
@@ -4145,6 +4209,14 @@
       "onboard_time": 1714394419,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188013,
+      "num": 188013,
+      "word": "福建广东雷暴大风冰雹来袭",
+      "onboard_time": 1714445718,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187851,
@@ -4587,6 +4659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172712,
+      "num": 172712,
+      "word": "李一桐刘宇宁合作",
+      "onboard_time": 1714446858,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172665,
       "num": 172665,
       "word": "爱德华兹隔扣杜兰特",
@@ -4763,6 +4843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163555,
+      "num": 163555,
+      "word": "男凝和欣赏区别",
+      "onboard_time": 1714446137,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163235,
       "num": 526212,
       "word": "阿姨寄珍藏停产玩偶满足陌生男孩愿望",
@@ -4841,6 +4929,14 @@
       "onboard_time": 1714352240,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158914,
+      "num": 374512,
+      "word": "她是北大同专业同级唯一坚持读到毕业",
+      "onboard_time": 1714446438,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158107,
@@ -5115,14 +5211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 148853,
-      "num": 148853,
-      "word": "神十七乘组天外归来",
-      "onboard_time": 1714444338,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148662,
       "num": 129584,
       "word": "王一博吃手又被逮到了",
@@ -5203,6 +5291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147471,
+      "num": 147471,
+      "word": "早起三不做",
+      "onboard_time": 1714443978,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 147449,
       "num": 147449,
       "word": "小姨养大的宝贝主打一个不差钱",
@@ -5248,6 +5344,14 @@
       "word": "看个节目怎么感觉自己被看透了",
       "onboard_time": 1714400181,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145920,
+      "num": 145920,
+      "word": "秦海璐剧透花少旅行地",
+      "onboard_time": 1714444877,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -5443,6 +5547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134970,
+      "num": 134970,
+      "word": "再不起床小狗就亲下去了",
+      "onboard_time": 1714444399,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134887,
       "num": 134887,
       "word": "蔡文静做喉镜检查",
@@ -5539,14 +5651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132245,
-      "num": 132245,
-      "word": "艺人五月行程图",
-      "onboard_time": 1714444578,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131673,
       "num": 131673,
       "word": "种地吧 惊喜直播",
@@ -5601,6 +5705,14 @@
       "onboard_time": 1714273939,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130850,
+      "num": 130850,
+      "word": "因为天气取消了五一出游",
+      "onboard_time": 1714447099,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 130658,
@@ -5809,14 +5921,6 @@
       "onboard_time": 1714403661,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 123678,
-      "num": 123678,
-      "word": "再不起床小狗就亲下去了",
-      "onboard_time": 1714444399,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 123492,
@@ -6041,14 +6145,6 @@
       "onboard_time": 1714225159,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109937,
-      "num": 109937,
-      "word": "早起三不做",
-      "onboard_time": 1714443978,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 109722,
@@ -6315,6 +6411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86741,
+      "num": 321623,
+      "word": "放假时总想去别的城市看看",
+      "onboard_time": 1714444637,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84684,
       "num": 389323,
       "word": "林更新状态",
@@ -6547,6 +6651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49110,
+      "num": 204099,
+      "word": "蛋仔派对猫鼠联动正式上线",
+      "onboard_time": 1714445357,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 48928,
       "num": 48928,
       "word": "小龙虾为什么大降价",
@@ -6691,14 +6803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31397,
-      "num": 109764,
-      "word": "放假时总想去别的城市看看",
-      "onboard_time": 1714444637,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30692,
       "num": 148069,
       "word": "河南景区算是把中国文化玩明白了",
@@ -6803,7 +6907,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13182,
+      "raw_hot": 13439,
       "num": 1102329,
       "word": "文化中国行",
       "onboard_time": 1713927617,
