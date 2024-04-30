@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714473322804,
+  "endTime": 1714475841222,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -531,6 +531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1061527,
+      "num": 1061527,
+      "word": "神十七载人飞行任务圆满成功",
+      "onboard_time": 1714471817,
+      "rank": 8,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 1060883,
       "num": 1060883,
       "word": "直播神舟十七号回地球",
@@ -699,12 +707,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 905148,
-      "num": 905148,
-      "word": "神十七载人飞行任务圆满成功",
-      "onboard_time": 1714471817,
-      "rank": 8,
-      "category": "国内时政,科学科普"
+      "raw_hot": 907598,
+      "num": 907598,
+      "word": "内娱顶级alpha",
+      "onboard_time": 1714468578,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 903939,
@@ -859,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 834242,
+      "num": 834242,
+      "word": "太空归来3人全部安全出舱",
+      "onboard_time": 1714473976,
+      "rank": 4,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 829560,
       "num": 387108,
       "word": "9.9的风终于还是卷到了星巴克",
@@ -880,14 +896,6 @@
       "word": "韩国电视台报道IVE国风争议",
       "onboard_time": 1714460418,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 821769,
-      "num": 821769,
-      "word": "内娱顶级alpha",
-      "onboard_time": 1714468578,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1313,6 +1321,14 @@
       "onboard_time": 1714260315,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628706,
+      "num": 480069,
+      "word": "孟子义首穿高定",
+      "onboard_time": 1714473197,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 625671,
@@ -3083,6 +3099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283156,
+      "num": 283156,
+      "word": "杨幂藏蓝色短裙",
+      "onboard_time": 1714473136,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 282749,
       "num": 282749,
       "word": "王一博 谁是犊子",
@@ -3771,14 +3795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233491,
-      "num": 233491,
-      "word": "孟子义首穿高定",
-      "onboard_time": 1714473197,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 233067,
       "num": 136399,
       "word": "外国游客3个月爆买1.75万亿日元",
@@ -3875,6 +3891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228272,
+      "num": 228272,
+      "word": "曹恩齐 这个妹妹我曾在哪见过",
+      "onboard_time": 1714470856,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 228093,
       "num": 228093,
       "word": "贾玲换新头像",
@@ -3955,14 +3979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221623,
-      "num": 221623,
-      "word": "曹恩齐 这个妹妹我曾在哪见过",
-      "onboard_time": 1714470856,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 221550,
       "num": 221550,
       "word": "辅导员秒批的20个请假理由",
@@ -3977,6 +3993,14 @@
       "onboard_time": 1714386258,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220101,
+      "num": 168038,
+      "word": "大麻合法化后的泰国",
+      "onboard_time": 1714475238,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 219889,
@@ -4049,6 +4073,14 @@
       "onboard_time": 1714384218,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 218099,
+      "num": 218099,
+      "word": "宋雨琦模仿金智媛",
+      "onboard_time": 1714475479,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 217660,
@@ -4899,6 +4931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193158,
+      "num": 193158,
+      "word": "汤洪波成在轨飞行时间最长航天员",
+      "onboard_time": 1714475297,
+      "rank": 23,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 193095,
       "num": 193095,
       "word": "重庆燃气表只有极个别表失准",
@@ -5001,6 +5041,14 @@
       "onboard_time": 1714470318,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 190626,
+      "num": 190626,
+      "word": "回到那一天演唱会退票",
+      "onboard_time": 1714474817,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 190286,
@@ -5225,6 +5273,14 @@
       "onboard_time": 1714380799,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 184394,
+      "num": 208996,
+      "word": "今天坚决不加班",
+      "onboard_time": 1714473256,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 184247,
@@ -5675,6 +5731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169792,
+      "num": 169792,
+      "word": "华为一季度营收1784.5亿元",
+      "onboard_time": 1714473256,
+      "rank": 48,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 169649,
       "num": 169649,
       "word": "中老年人患带状疱疹有多痛苦",
@@ -5851,6 +5915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160530,
+      "num": 160530,
+      "word": "时代少年团MV正确打开方式",
+      "onboard_time": 1714474337,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160334,
       "num": 160334,
       "word": "花少1的友情",
@@ -5897,6 +5969,14 @@
       "onboard_time": 1714352240,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158609,
+      "num": 158609,
+      "word": "一块14斤肉要烤多久",
+      "onboard_time": 1714473616,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 158540,
@@ -6107,6 +6187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153178,
+      "num": 153178,
+      "word": "要成尚雯婕梦女了",
+      "onboard_time": 1714474458,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152918,
       "num": 152918,
       "word": "广东或再现龙卷风",
@@ -6185,6 +6273,14 @@
       "onboard_time": 1714467857,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 151438,
+      "num": 151438,
+      "word": "金秀贤盯金智媛的眼神",
+      "onboard_time": 1714473737,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 151427,
@@ -6843,19 +6939,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133024,
-      "num": 133024,
-      "word": "杨幂藏蓝色短裙",
-      "onboard_time": 1714473136,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 132926,
       "num": 179943,
       "word": "福建海警位金门附近海域依法开展常态化执法巡查",
       "onboard_time": 1714393759,
       "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 132730,
+      "num": 132730,
+      "word": "汤洪波安全顺利出舱",
+      "onboard_time": 1714474097,
+      "rank": 43,
       "category": "国内时政"
     },
     {
@@ -7275,14 +7371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122599,
-      "num": 122599,
-      "word": "华为一季度营收1784.5亿元",
-      "onboard_time": 1714473256,
-      "rank": 48,
-      "category": "互联网,财经"
-    },
-    {
       "raw_hot": 122060,
       "num": 122060,
       "word": "易烊千玺飘雪侧颜",
@@ -7587,6 +7675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105488,
+      "num": 486782,
+      "word": "安全感在这一刻具象化",
+      "onboard_time": 1714475297,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104644,
       "num": 104644,
       "word": "生理期如何瘦双倍",
@@ -7681,14 +7777,6 @@
       "onboard_time": 1714433116,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 97353,
-      "num": 208996,
-      "word": "今天坚决不加班",
-      "onboard_time": 1714473256,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 95545,
@@ -8201,6 +8289,14 @@
       "onboard_time": 1714330631,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 29247,
+      "num": 160807,
+      "word": "蛋仔派对极速追逃",
+      "onboard_time": 1714475058,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 27949,
