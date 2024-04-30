@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714481254194,
+  "endTime": 1714483124679,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -923,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 808255,
+      "num": 219303,
+      "word": "李佳琦开会状态",
+      "onboard_time": 1714480218,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 805647,
       "num": 553149,
       "word": "特斯拉市值一夜涨近6000亿",
@@ -984,6 +992,14 @@
       "word": "杨晓明涉嫌严重违纪违法",
       "onboard_time": 1714229960,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 766048,
+      "num": 766048,
+      "word": "内蒙古一服务区切糕切出1万2称按克卖",
+      "onboard_time": 1714478477,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1459,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 598307,
+      "num": 598307,
+      "word": "堵车",
+      "onboard_time": 1714480578,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594169,
       "num": 594169,
       "word": "iPhone16系列全新摄像头模组",
@@ -1505,6 +1529,14 @@
       "onboard_time": 1714312218,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 586019,
+      "num": 247965,
+      "word": "香港顶流姜涛过生日",
+      "onboard_time": 1714477877,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 579830,
@@ -1857,14 +1889,6 @@
       "onboard_time": 1714282998,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 493443,
-      "num": 493443,
-      "word": "内蒙古一服务区切糕切出1万2称按克卖",
-      "onboard_time": 1714478477,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 492985,
@@ -2235,14 +2259,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 426697,
-      "num": 202153,
-      "word": "香港顶流姜涛过生日",
-      "onboard_time": 1714477877,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 424233,
       "num": 424233,
       "word": "问界M7追尾的养护车当时正浇水作业",
@@ -2412,7 +2428,7 @@
     },
     {
       "raw_hot": 388014,
-      "num": 192038,
+      "num": 242371,
       "word": "室友非要去迪士尼演唐老鸭",
       "onboard_time": 1714477939,
       "rank": 21,
@@ -2553,14 +2569,6 @@
       "onboard_time": 1714390759,
       "rank": 19,
       "category": "美食"
-    },
-    {
-      "raw_hot": 370518,
-      "num": 192166,
-      "word": "李佳琦开会状态",
-      "onboard_time": 1714480218,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 368303,
@@ -2707,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350971,
+      "num": 350971,
+      "word": "春色寄情人点映",
+      "onboard_time": 1714481117,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350000,
       "num": 350000,
       "word": "神十七返回制动开始",
@@ -2737,14 +2753,6 @@
       "onboard_time": 1714264039,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 339868,
-      "num": 339868,
-      "word": "堵车",
-      "onboard_time": 1714480578,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339315,
@@ -2825,6 +2833,14 @@
       "onboard_time": 1714289118,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329412,
+      "num": 329412,
+      "word": "2套房京籍家庭可在五环外新购1套房",
+      "onboard_time": 1714482379,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328862,
@@ -3001,6 +3017,14 @@
       "onboard_time": 1714306699,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313040,
+      "num": 313040,
+      "word": "5月十二星座注意事项",
+      "onboard_time": 1714478237,
+      "rank": 14,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 312611,
@@ -3196,7 +3220,7 @@
     },
     {
       "raw_hot": 287221,
-      "num": 191808,
+      "num": 197262,
       "word": "章若楠花墙拍照",
       "onboard_time": 1714479318,
       "rank": 32,
@@ -3241,14 +3265,6 @@
       "onboard_time": 1714317439,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 280878,
-      "num": 280878,
-      "word": "5月十二星座注意事项",
-      "onboard_time": 1714478237,
-      "rank": 14,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 280824,
@@ -3467,6 +3483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263407,
+      "num": 263407,
+      "word": "时代少年团演唱会个人solo预告",
+      "onboard_time": 1714480279,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 263180,
       "num": 263180,
       "word": "谭松韵去沙漠了",
@@ -3505,6 +3529,14 @@
       "onboard_time": 1714476077,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259153,
+      "num": 259153,
+      "word": "北京优化调整住房限购政策",
+      "onboard_time": 1714480639,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258226,
@@ -3987,6 +4019,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 230735,
+      "num": 230735,
+      "word": "TWICE回归预告",
+      "onboard_time": 1714482199,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230381,
       "num": 230381,
       "word": "不够善良的我们完结",
@@ -4025,6 +4065,14 @@
       "onboard_time": 1714262658,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228484,
+      "num": 228484,
+      "word": "春色寄情人结局",
+      "onboard_time": 1714482558,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 228093,
@@ -4355,6 +4403,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 210745,
+      "num": 210745,
+      "word": "春色寄情人微博开分8.9",
+      "onboard_time": 1714482797,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210147,
       "num": 210147,
       "word": "女子在丈夫按摩后长巨大肿块",
@@ -4377,14 +4433,6 @@
       "onboard_time": 1714456518,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 209357,
-      "num": 209357,
-      "word": "时代少年团演唱会个人solo预告",
-      "onboard_time": 1714480279,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 209147,
@@ -5123,14 +5171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192312,
-      "num": 192312,
-      "word": "北京优化调整住房限购政策",
-      "onboard_time": 1714480639,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192057,
       "num": 192057,
       "word": "林孝埈谈四登长城",
@@ -5217,6 +5257,14 @@
       "onboard_time": 1714461438,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 189399,
+      "num": 189399,
+      "word": "群星闪耀时",
+      "onboard_time": 1714482017,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 189273,
@@ -6635,6 +6683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147941,
+      "num": 147941,
+      "word": "喝水后出现4种异常或是肾脏在求救",
+      "onboard_time": 1714482079,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 147937,
       "num": 147937,
       "word": "泽泽 被分手",
@@ -6995,14 +7051,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 137745,
-      "num": 137745,
-      "word": "春色寄情人点映",
-      "onboard_time": 1714481117,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137267,
       "num": 137267,
       "word": "当代年轻人的带饭文学",
@@ -7056,6 +7104,14 @@
       "word": "广州司机致猫死亡事件疑反转",
       "onboard_time": 1714240033,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135400,
+      "num": 135400,
+      "word": "学生低价在飞猪上订房遭强制退房",
+      "onboard_time": 1714482619,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -7731,6 +7787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117378,
+      "num": 117378,
+      "word": "这辈子听过牙医最大的谎言",
+      "onboard_time": 1714480518,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117152,
       "num": 171985,
       "word": "新疆阿克苏发生4.4级地震",
@@ -7744,6 +7808,22 @@
       "word": "哈登发挥",
       "onboard_time": 1714368978,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115910,
+      "num": 115910,
+      "word": "张婧仪哭到青筋暴起",
+      "onboard_time": 1714483099,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 115255,
+      "num": 115255,
+      "word": "山东与南通赛前球迷发生冲突",
+      "onboard_time": 1714482079,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -7777,14 +7857,6 @@
       "onboard_time": 1714402461,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112781,
-      "num": 112781,
-      "word": "这辈子听过牙医最大的谎言",
-      "onboard_time": 1714480518,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 112485,
@@ -8643,6 +8715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20343,
+      "num": 145602,
+      "word": "被Hanni的甜美硬控住了",
+      "onboard_time": 1714481839,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19389,
       "num": 22527,
       "word": "白贤佑韩剧史上第一情圣",
@@ -8697,6 +8777,14 @@
       "onboard_time": 1714336390,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 9199,
+      "num": 677743,
+      "word": "我的五一游记",
+      "onboard_time": 1714483099,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8467,

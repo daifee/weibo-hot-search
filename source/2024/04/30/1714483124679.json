@@ -1,0 +1,410 @@
+{
+  "runTime": 1714483124679,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1073074,
+        "num": 1073074,
+        "word": "大麻合法化后的泰国",
+        "onboard_time": 1714475238,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 766048,
+        "num": 766048,
+        "word": "内蒙古一服务区切糕切出1万2称按克卖",
+        "onboard_time": 1714478477,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9199,
+        "num": 677743,
+        "word": "我的五一游记",
+        "onboard_time": 1714483099,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598307,
+        "num": 598307,
+        "word": "堵车",
+        "onboard_time": 1714480578,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535315,
+        "num": 535315,
+        "word": "下班",
+        "onboard_time": 1714463119,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 488292,
+        "num": 488292,
+        "word": "庆余年第二季过审下证",
+        "onboard_time": 1714476377,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442888,
+        "num": 442888,
+        "word": "网传一三甲医院招聘博士后月薪两三千",
+        "onboard_time": 1714475836,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35743,
+        "num": 394926,
+        "word": "五一打卡锦绣中国",
+        "onboard_time": 1714447878,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392684,
+        "num": 392684,
+        "word": "韩网评IVE国风争议",
+        "onboard_time": 1714477217,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148888,
+        "num": 379020,
+        "word": "毕业季又被簪花学士帽惊艳到了",
+        "onboard_time": 1714470318,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 682135,
+        "num": 377016,
+        "word": "研究生女孩健身10年练出8块腹肌",
+        "onboard_time": 1714478418,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 370263,
+        "num": 370263,
+        "word": "孟子义首穿高定",
+        "onboard_time": 1714473197,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 350971,
+        "num": 350971,
+        "word": "春色寄情人点映",
+        "onboard_time": 1714481117,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336655,
+        "num": 336655,
+        "word": "内娱顶级alpha",
+        "onboard_time": 1714468578,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329412,
+        "num": 329412,
+        "word": "2套房京籍家庭可在五环外新购1套房",
+        "onboard_time": 1714482379,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313040,
+        "num": 313040,
+        "word": "5月十二星座注意事项",
+        "onboard_time": 1714478237,
+        "rank": 15,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 294196,
+        "num": 294196,
+        "word": "大学生投入3800元开店年入110万",
+        "onboard_time": 1714455498,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263407,
+        "num": 263407,
+        "word": "时代少年团演唱会个人solo预告",
+        "onboard_time": 1714480279,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 259153,
+        "num": 259153,
+        "word": "北京优化调整住房限购政策",
+        "onboard_time": 1714480639,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254560,
+        "num": 254560,
+        "word": "周深演唱会抢票",
+        "onboard_time": 1714479739,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1024986,
+        "num": 253266,
+        "word": "月经乱来16年竟查出癌前病变",
+        "onboard_time": 1714476257,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 586019,
+        "num": 247965,
+        "word": "香港顶流姜涛过生日",
+        "onboard_time": 1714477877,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359827,
+        "num": 244014,
+        "word": "突然发现2杯奶茶可以买一件衣服",
+        "onboard_time": 1714459818,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 358986,
+        "num": 242371,
+        "word": "室友非要去迪士尼演唐老鸭",
+        "onboard_time": 1714477939,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238555,
+        "num": 238555,
+        "word": "成毅 进组",
+        "onboard_time": 1714468698,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230735,
+        "num": 230735,
+        "word": "TWICE回归预告",
+        "onboard_time": 1714482199,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228484,
+        "num": 228484,
+        "word": "春色寄情人结局",
+        "onboard_time": 1714482558,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222498,
+        "num": 222498,
+        "word": "我刘涛一生清清白白",
+        "onboard_time": 1714459217,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 808255,
+        "num": 219303,
+        "word": "李佳琦开会状态",
+        "onboard_time": 1714480218,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 75103,
+        "num": 211940,
+        "word": "太空归来3人全部安全出舱",
+        "onboard_time": 1714473976,
+        "rank": 29,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 210745,
+        "num": 210745,
+        "word": "春色寄情人微博开分8.9",
+        "onboard_time": 1714482797,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197262,
+        "num": 197262,
+        "word": "章若楠花墙拍照",
+        "onboard_time": 1714479318,
+        "rank": 31,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 189399,
+        "num": 189399,
+        "word": "群星闪耀时",
+        "onboard_time": 1714482017,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188555,
+        "num": 188555,
+        "word": "因为天气取消了五一出游",
+        "onboard_time": 1714447099,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181267,
+        "num": 181267,
+        "word": "春色寄情人",
+        "onboard_time": 1714480397,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168325,
+        "num": 168325,
+        "word": "哈尔的移动城堡",
+        "onboard_time": 1714476618,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150078,
+        "num": 150078,
+        "word": "堵车2小时大脑就会受伤",
+        "onboard_time": 1714479917,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147941,
+        "num": 147941,
+        "word": "喝水后出现4种异常或是肾脏在求救",
+        "onboard_time": 1714482079,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20343,
+        "num": 145602,
+        "word": "被Hanni的甜美硬控住了",
+        "onboard_time": 1714481839,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144853,
+        "num": 144853,
+        "word": "赴山海女主",
+        "onboard_time": 1714476977,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135400,
+        "num": 135400,
+        "word": "学生低价在飞猪上订房遭强制退房",
+        "onboard_time": 1714482619,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138726,
+        "num": 135178,
+        "word": "赴山海官宣",
+        "onboard_time": 1714469897,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124379,
+        "num": 124379,
+        "word": "庆余年里谁才是真正的主角",
+        "onboard_time": 1714475897,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133848,
+        "num": 123635,
+        "word": "成毅把剧本藏在桌布下",
+        "onboard_time": 1714479678,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118376,
+        "num": 118376,
+        "word": "Doinb说不打老头杯没热度",
+        "onboard_time": 1714479678,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117378,
+        "num": 117378,
+        "word": "这辈子听过牙医最大的谎言",
+        "onboard_time": 1714480518,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115910,
+        "num": 115910,
+        "word": "张婧仪哭到青筋暴起",
+        "onboard_time": 1714483099,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115255,
+        "num": 115255,
+        "word": "山东与南通赛前球迷发生冲突",
+        "onboard_time": 1714482079,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112273,
+        "num": 112273,
+        "word": "城中之城",
+        "onboard_time": 1714480817,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98933,
+        "num": 98933,
+        "word": "贵州凯里一鼓楼倒塌致1人遇难",
+        "onboard_time": 1714479379,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席访欧将为世界和平发展注入新动能#"
+    }
+  }
+}
