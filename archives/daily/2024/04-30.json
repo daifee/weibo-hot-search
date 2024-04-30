@@ -1,7 +1,15 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714448067649,
+  "endTime": 1714450916357,
   "band_list": [
+    {
+      "raw_hot": 2454908,
+      "num": 2454908,
+      "word": "因为天气取消了五一出游",
+      "onboard_time": 1714447099,
+      "rank": 49,
+      "category": "情感"
+    },
     {
       "raw_hot": 2169074,
       "num": 2169074,
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 676884,
+      "num": 676884,
+      "word": "电视剧人鱼官宣开机",
+      "onboard_time": 1714448357,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 675820,
       "num": 675820,
       "word": "南京胖哥被初诊为PTSD",
@@ -139,12 +155,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 637919,
-      "num": 637919,
-      "word": "因为天气取消了五一出游",
-      "onboard_time": 1714447099,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 655687,
+      "num": 431539,
+      "word": "秦岚早期长发照片",
+      "onboard_time": 1714447397,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 643714,
+      "num": 643714,
+      "word": "机票跳水",
+      "onboard_time": 1714449139,
+      "rank": 6,
+      "category": "旅游"
     },
     {
       "raw_hot": 608277,
@@ -171,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577869,
+      "num": 577869,
+      "word": "女子获300万遗产被已婚男骗走206万",
+      "onboard_time": 1714445357,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530465,
       "num": 302101,
       "word": "真正厉害的人都很擅长睡觉",
@@ -187,12 +219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 470367,
+      "num": 430173,
+      "word": "浓眉左肩",
+      "onboard_time": 1714448538,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 464340,
       "num": 464340,
       "word": "金秀贤金智媛一起切蛋糕",
       "onboard_time": 1714436659,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 439707,
+      "num": 289238,
+      "word": "为什么朋友圈里的东西都好高级",
+      "onboard_time": 1714449259,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 437906,
@@ -219,12 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 422784,
-      "num": 333464,
-      "word": "秦岚早期长发照片",
-      "onboard_time": 1714447397,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 428775,
+      "num": 428775,
+      "word": "大爷称年轻人不允许享受下铺",
+      "onboard_time": 1714448779,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413684,
@@ -259,6 +307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 378478,
+      "num": 378478,
+      "word": "凤凰传奇郑州 抢票",
+      "onboard_time": 1714449439,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 373881,
       "num": 373881,
       "word": "中国驱离菲律宾侵闯黄岩岛邻近海域船只",
@@ -272,14 +328,6 @@
       "word": "警方通报女子骑电瓶车被交警强行拽下",
       "onboard_time": 1714442116,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 361077,
-      "num": 361077,
-      "word": "女子获300万遗产被已婚男骗走206万",
-      "onboard_time": 1714445357,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -315,12 +363,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351463,
+      "num": 433000,
+      "word": "她是北大同专业同级唯一坚持读到毕业",
+      "onboard_time": 1714446438,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337734,
+      "num": 337734,
+      "word": "王俊凯王源工作室logo相似",
+      "onboard_time": 1714450819,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336399,
       "num": 336399,
       "word": "书卷一梦阵容官宣",
       "onboard_time": 1714445837,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334255,
+      "num": 334255,
+      "word": "湖人vs掘金",
+      "onboard_time": 1714440499,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 319975,
@@ -331,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310952,
+      "num": 310952,
+      "word": "颖儿说婚姻不是家暴的遮羞布",
+      "onboard_time": 1714447878,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302885,
       "num": 265731,
       "word": "高颜值出圈华为前HR否认是下一个孟羽童",
       "onboard_time": 1714432695,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291283,
+      "num": 291283,
+      "word": "书卷一梦 番位",
+      "onboard_time": 1714449799,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 290815,
@@ -355,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 281451,
-      "num": 281451,
-      "word": "湖人vs掘金",
-      "onboard_time": 1714440499,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 280214,
       "num": 196581,
       "word": "辛芷蕾工作室关闭后援会账号",
@@ -371,12 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272927,
-      "num": 374512,
-      "word": "她是北大同专业同级唯一坚持读到毕业",
-      "onboard_time": 1714446438,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 276033,
+      "num": 276033,
+      "word": "为什么大家都不愿意请假去旅游",
+      "onboard_time": 1714449259,
+      "rank": 22,
+      "category": "情感,旅游"
     },
     {
       "raw_hot": 271121,
@@ -443,12 +523,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 235164,
+      "num": 235164,
+      "word": "国内首部AI全流程科幻广播剧",
+      "onboard_time": 1714447759,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234007,
       "num": 234007,
       "word": "刘涛秦海璐 无趣的内容有趣地聊",
       "onboard_time": 1714408756,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231676,
+      "num": 231676,
+      "word": "警方介入西安石油大学虐猫事件",
+      "onboard_time": 1714449558,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231111,
@@ -483,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223640,
+      "num": 223640,
+      "word": "十个勤天说王阳是猛男具象化",
+      "onboard_time": 1714450038,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219530,
       "num": 219530,
       "word": "五一抢票以失败告终",
@@ -513,6 +617,14 @@
       "onboard_time": 1714437019,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207332,
+      "num": 207332,
+      "word": "领导看上了我带的饭之后",
+      "onboard_time": 1714450158,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 206854,
@@ -579,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192154,
-      "num": 192154,
-      "word": "国内首部AI全流程科幻广播剧",
-      "onboard_time": 1714447759,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191143,
       "num": 191143,
       "word": "艺人五月行程图",
@@ -601,6 +705,14 @@
       "onboard_time": 1714445718,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182820,
+      "num": 182820,
+      "word": "光遇复刻",
+      "onboard_time": 1714450758,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 180644,
@@ -667,6 +779,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169154,
+      "num": 169154,
+      "word": "蛋仔派对充值328元将强制人脸验证",
+      "onboard_time": 1714450279,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169101,
       "num": 169101,
       "word": "游客反映董宇辉博物院直播耽误参观行程",
@@ -681,6 +801,14 @@
       "onboard_time": 1714402581,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167571,
+      "num": 167571,
+      "word": "汪东城身材",
+      "onboard_time": 1714449920,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 167425,
@@ -723,6 +851,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 157736,
+      "num": 157736,
+      "word": "杨幂红发撑脸海报",
+      "onboard_time": 1714448597,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154421,
       "num": 154421,
       "word": "我不善良遇强则强",
@@ -753,14 +889,6 @@
       "onboard_time": 1714447937,
       "rank": 38,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 150841,
-      "num": 150841,
-      "word": "颖儿说婚姻不是家暴的遮羞布",
-      "onboard_time": 1714447878,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 148705,
@@ -795,6 +923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146599,
+      "num": 146599,
+      "word": "秦岚花少明信片",
+      "onboard_time": 1714449558,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145920,
       "num": 145920,
       "word": "秦海璐剧透花少旅行地",
@@ -825,6 +961,14 @@
       "onboard_time": 1714439479,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 144306,
+      "num": 144306,
+      "word": "小狗一抬头以为天黑了",
+      "onboard_time": 1714449739,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 144104,
@@ -905,6 +1049,14 @@
       "onboard_time": 1714403183,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131761,
+      "num": 131761,
+      "word": "孙颖莎8300分世排第一",
+      "onboard_time": 1714449078,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 130957,
@@ -1155,6 +1307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59048,
+      "num": 1120418,
+      "word": "五一打卡锦绣中国",
+      "onboard_time": 1714447878,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54094,
       "num": 54094,
       "word": "鹿晗现身末路狂花钱首映礼",
@@ -1243,14 +1403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11226,
-      "num": 1120418,
-      "word": "五一打卡锦绣中国",
-      "onboard_time": 1714447878,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 8467,
       "num": 16114,
       "word": "这次杭州司机礼让的是鸳鸯",
@@ -1268,6 +1420,9 @@
     },
     {
       "word": "#习近平主席欧洲之行#"
+    },
+    {
+      "word": "#习主席访欧将为世界和平发展注入新动能#"
     }
   ]
 }
