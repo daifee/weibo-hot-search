@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714494184777,
+  "endTime": 1714495107321,
   "band_list": [
     {
       "raw_hot": 1695633,
@@ -19,6 +19,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 610269,
+      "num": 313081,
+      "word": "李佳琦现身人民日报论坛",
+      "onboard_time": 1714486758,
+      "rank": 5,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 537893,
       "num": 165309,
       "word": "原来跑男早就预言了退出的人",
@@ -27,12 +35,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 445867,
-      "num": 313081,
-      "word": "李佳琦现身人民日报论坛",
-      "onboard_time": 1714486758,
-      "rank": 5,
-      "category": "网红,社会新闻"
+      "raw_hot": 402880,
+      "num": 157284,
+      "word": "突然感觉朋友圈发什么都很幼稚了",
+      "onboard_time": 1714491558,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 379238,
@@ -67,14 +75,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 313082,
-      "num": 157284,
-      "word": "突然感觉朋友圈发什么都很幼稚了",
-      "onboard_time": 1714491558,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 301623,
       "num": 301623,
       "word": "五月天香港",
@@ -89,6 +89,14 @@
       "onboard_time": 1714488259,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285105,
+      "num": 285105,
+      "word": "背着善宰跑 粉丝视角",
+      "onboard_time": 1714491380,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 266363,
@@ -121,14 +129,6 @@
       "onboard_time": 1714489279,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 237235,
-      "num": 237235,
-      "word": "背着善宰跑 粉丝视角",
-      "onboard_time": 1714491380,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 227327,
@@ -195,8 +195,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139278,
-      "num": 139278,
+      "raw_hot": 146401,
+      "num": 146401,
       "word": "编剧大人 我不允许任何人辱骂你",
       "onboard_time": 1714492518,
       "rank": 28,
@@ -211,20 +211,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138189,
+      "num": 138189,
+      "word": "韩网评IVE国风争议",
+      "onboard_time": 1714477217,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 137369,
       "num": 137369,
       "word": "李现下一部剧是国色芳华",
       "onboard_time": 1714489641,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135179,
-      "num": 135179,
-      "word": "韩网评IVE国风争议",
-      "onboard_time": 1714477217,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 132865,
@@ -299,32 +299,40 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 101403,
-      "num": 101403,
-      "word": "5月十二星座注意事项",
-      "onboard_time": 1714478237,
-      "rank": 39,
-      "category": "情感,网红"
-    },
-    {
-      "raw_hot": 88523,
-      "num": 88523,
-      "word": "春色寄情人微博开分8.9",
-      "onboard_time": 1714482797,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 81672,
-      "num": 81672,
+      "raw_hot": 102559,
+      "num": 152118,
       "word": "深圳天气",
       "onboard_time": 1714492759,
       "rank": 41,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101403,
+      "num": 151449,
+      "word": "5月十二星座注意事项",
+      "onboard_time": 1714478237,
+      "rank": 39,
+      "category": "情感,网红"
+    },
+    {
+      "raw_hot": 97201,
+      "num": 97201,
+      "word": "你还在穿鬼冢虎吗",
+      "onboard_time": 1714494437,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 88523,
+      "num": 91337,
+      "word": "春色寄情人微博开分8.9",
+      "onboard_time": 1714482797,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81391,
-      "num": 81391,
+      "num": 87715,
       "word": "拜仁vs皇马",
       "onboard_time": 1714488501,
       "rank": 42,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 79621,
-      "num": 79621,
+      "num": 90040,
       "word": "SEVENTEEN团魂",
       "onboard_time": 1714487179,
       "rank": 43,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 78561,
-      "num": 78561,
+      "num": 86025,
       "word": "李健昆山演唱会",
       "onboard_time": 1714487960,
       "rank": 44,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 71771,
-      "num": 71771,
+      "num": 82636,
       "word": "TWICE回归预告",
       "onboard_time": 1714482199,
       "rank": 46,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 67653,
-      "num": 71761,
+      "num": 86726,
       "word": "堵车",
       "onboard_time": 1714480578,
       "rank": 47,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 63110,
-      "num": 71742,
+      "num": 79888,
       "word": "汤姆斯杯中国3比2韩国",
       "onboard_time": 1714489460,
       "rank": 48,
@@ -388,11 +396,19 @@
     },
     {
       "raw_hot": 58824,
-      "num": 71740,
+      "num": 81517,
       "word": "为什么听到父母的关心会烦躁",
       "onboard_time": 1714485018,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 56428,
+      "num": 80157,
+      "word": "张韶涵昆山演唱会",
+      "onboard_time": 1714489041,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 56292,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#追光的你#"
+    },
+    {
+      "word": "#二十届三中全会#"
     }
   ]
 }
