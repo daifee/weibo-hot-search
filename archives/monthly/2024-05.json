@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714515444664,
+  "endTime": 1714516448897,
   "band_list": [
     {
       "raw_hot": 1695633,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504491,
+      "num": 504491,
+      "word": "低估了五一堵车的程度",
+      "onboard_time": 1714511231,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 419303,
       "num": 419303,
       "word": "你还在穿鬼冢虎吗",
@@ -49,14 +57,6 @@
       "onboard_time": 1714491558,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 390026,
-      "num": 390026,
-      "word": "低估了五一堵车的程度",
-      "onboard_time": 1714511231,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 379238,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66171,
+      "num": 66171,
+      "word": "百万粉丝博主为罐子汤放弃减肥",
+      "onboard_time": 1714499952,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 63110,
       "num": 79888,
       "word": "汤姆斯杯中国3比2韩国",
@@ -451,20 +459,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 58272,
+      "num": 58272,
+      "word": "院士哽咽介绍医生每天一首琵琶曲延长患者生命",
+      "onboard_time": 1714505291,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58156,
       "num": 58156,
       "word": "女性有这7种情况要警惕宫外孕",
       "onboard_time": 1714497316,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 57864,
-      "num": 63054,
-      "word": "百万粉丝博主为罐子汤放弃减肥",
-      "onboard_time": 1714499952,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 56292,
@@ -475,19 +483,35 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38042,
-      "num": 38042,
-      "word": "院士哽咽介绍医生每天一首琵琶曲延长患者生命",
-      "onboard_time": 1714505291,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 38295,
+      "num": 38295,
+      "word": "王骁转身下楼梯细节",
+      "onboard_time": 1714515252,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 32483,
+      "num": 32483,
+      "word": "给小鱼接生",
+      "onboard_time": 1714513271,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 31619,
-      "num": 29672,
+      "num": 31318,
       "word": "中央气象台发强对流天气橙色预警",
       "onboard_time": 1714511952,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31448,
+      "num": 282036,
+      "word": "我的五一游记",
+      "onboard_time": 1714483099,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -499,22 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28599,
-      "num": 28599,
-      "word": "给小鱼接生",
-      "onboard_time": 1714513271,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 26931,
-      "num": 218044,
-      "word": "我的五一游记",
-      "onboard_time": 1714483099,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25663,
       "num": 30768,
       "word": "春色寄情人",
@@ -523,20 +531,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20456,
-      "num": 22933,
-      "word": "王骁转身下楼梯细节",
-      "onboard_time": 1714515252,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 18278,
-      "num": 22916,
+      "raw_hot": 25291,
+      "num": 26013,
       "word": "使用牙线漱口水和刷牙的正确顺序",
       "onboard_time": 1714515132,
       "rank": 49,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 22736,
+      "num": 26838,
+      "word": "五一假期出行健康提示",
+      "onboard_time": 1714515733,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16988,
