@@ -1,6 +1,6 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714468838447,
+  "endTime": 1714469711098,
   "band_list": [
     {
       "raw_hot": 2517358,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1046508,
+      "num": 760603,
+      "word": "成毅 进组",
+      "onboard_time": 1714468698,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 903939,
       "num": 903939,
       "word": "湖人vs掘金",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 868933,
-      "num": 279709,
+      "num": 333314,
       "word": "突然发现2杯奶茶可以买一件衣服",
       "onboard_time": 1714459818,
       "rank": 20,
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599472,
+      "num": 599472,
+      "word": "直播神舟十七号回地球",
+      "onboard_time": 1714461739,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599084,
       "num": 599084,
       "word": "迪丽热巴 民国大小姐",
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 460470,
-      "num": 239055,
+      "num": 333287,
       "word": "中医建议适合身体弱的工作",
       "onboard_time": 1714466838,
       "rank": 21,
@@ -571,12 +587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 371927,
-      "num": 371927,
-      "word": "直播神舟十七号回地球",
-      "onboard_time": 1714461739,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 362964,
+      "num": 362964,
+      "word": "内娱顶级alpha",
+      "onboard_time": 1714468578,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 359654,
@@ -635,11 +651,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343639,
-      "num": 343639,
+      "raw_hot": 350000,
+      "num": 350000,
+      "word": "神十七返回制动开始",
+      "onboard_time": 1714468517,
+      "rank": 28,
+      "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 349429,
+      "num": 349429,
       "word": "刘涛的未修原图",
       "onboard_time": 1714466778,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 337004,
+      "num": 333211,
+      "word": "郑秀晶总裁出街",
+      "onboard_time": 1714468340,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -649,6 +681,22 @@
       "onboard_time": 1714445837,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333363,
+      "num": 333363,
+      "word": "赴山海",
+      "onboard_time": 1714467797,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 331970,
+      "num": 331970,
+      "word": "刘耀文 不换搭档是有原因的",
+      "onboard_time": 1714468398,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 328862,
@@ -737,14 +785,6 @@
       "onboard_time": 1714466719,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 291500,
-      "num": 291500,
-      "word": "赴山海",
-      "onboard_time": 1714467797,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 290815,
@@ -843,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263024,
+      "num": 263024,
+      "word": "神十七",
+      "onboard_time": 1714469238,
+      "rank": 26,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 262709,
       "num": 262709,
       "word": "吴镇宇 金莎退休吧他养你了",
@@ -907,14 +955,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 239504,
-      "num": 239504,
-      "word": "郑秀晶总裁出街",
-      "onboard_time": 1714468340,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237616,
       "num": 237616,
       "word": "以前人的手 现在人的手",
@@ -939,14 +979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235126,
-      "num": 209191,
-      "word": "成毅 进组",
-      "onboard_time": 1714468698,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234310,
       "num": 234310,
       "word": "梁靖崑发博说我们沙特见",
@@ -961,6 +993,14 @@
       "onboard_time": 1714408756,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232270,
+      "num": 232270,
+      "word": "男朋友第一次上门假装和狗子不熟",
+      "onboard_time": 1714468999,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 231111,
@@ -1017,14 +1057,6 @@
       "onboard_time": 1714440138,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 217622,
-      "num": 217622,
-      "word": "神十七返回制动开始",
-      "onboard_time": 1714468517,
-      "rank": 28,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 216053,
@@ -1113,14 +1145,6 @@
       "onboard_time": 1714458019,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205008,
-      "num": 205008,
-      "word": "刘耀文 不换搭档是有原因的",
-      "onboard_time": 1714468398,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 204420,
@@ -1435,14 +1459,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 168969,
-      "num": 168969,
-      "word": "内娱顶级alpha",
-      "onboard_time": 1714468578,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167743,
       "num": 167743,
       "word": "杨幂制服卷发",
@@ -1465,6 +1481,14 @@
       "onboard_time": 1714438879,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 167388,
+      "num": 591270,
+      "word": "神舟十七号3人回地球",
+      "onboard_time": 1714468817,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166982,
@@ -1923,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130475,
+      "num": 130475,
+      "word": "于正晒海报",
+      "onboard_time": 1714469476,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130400,
       "num": 130400,
       "word": "中越海警在北部湾海域联合巡逻",
@@ -1985,6 +2017,14 @@
       "onboard_time": 1714458318,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126066,
+      "num": 126066,
+      "word": "减肥应该吃甜玉米还是糯玉米",
+      "onboard_time": 1714469538,
+      "rank": 46,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 125483,
@@ -2267,14 +2307,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 50661,
-      "num": 573542,
-      "word": "神舟十七号3人回地球",
-      "onboard_time": 1714468817,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 49110,
       "num": 216569,
       "word": "蛋仔派对猫鼠联动正式上线",
@@ -2315,6 +2347,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 34341,
+      "num": 412065,
+      "word": "杨幂的穿搭有点凡尔赛了",
+      "onboard_time": 1714468340,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 31069,
       "num": 151563,
       "word": "向少长沙探班求助",
@@ -2353,14 +2393,6 @@
       "onboard_time": 1714420870,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 18692,
-      "num": 191695,
-      "word": "杨幂的穿搭有点凡尔赛了",
-      "onboard_time": 1714468340,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 13439,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1714469711098,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 776670,
+        "num": 776670,
+        "word": "女子领证前发现男友出轨分手拒退彩礼",
+        "onboard_time": 1714455857,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1339440,
+        "num": 769430,
+        "word": "下班",
+        "onboard_time": 1714463119,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31070,
+        "num": 760765,
+        "word": "五一打卡锦绣中国",
+        "onboard_time": 1714447878,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046508,
+        "num": 760603,
+        "word": "成毅 进组",
+        "onboard_time": 1714468698,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 755175,
+        "num": 755175,
+        "word": "我刘涛一生清清白白",
+        "onboard_time": 1714459217,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 676910,
+        "num": 676910,
+        "word": "大学生投入3800元开店年入110万",
+        "onboard_time": 1714455498,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665946,
+        "num": 665946,
+        "word": "天津取消户籍居民大户型限购",
+        "onboard_time": 1714465939,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599472,
+        "num": 599472,
+        "word": "直播神舟十七号回地球",
+        "onboard_time": 1714461739,
+        "rank": 7,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 103415,
+        "num": 591902,
+        "word": "她是北大同专业同级唯一坚持读到毕业",
+        "onboard_time": 1714446438,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167388,
+        "num": 591270,
+        "word": "神舟十七号3人回地球",
+        "onboard_time": 1714468817,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 590806,
+        "num": 590806,
+        "word": "因为天气取消了五一出游",
+        "onboard_time": 1714447099,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 483329,
+        "num": 483329,
+        "word": "韩国电视台报道IVE国风争议",
+        "onboard_time": 1714460418,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 465326,
+        "num": 465326,
+        "word": "迪丽热巴 民国大小姐",
+        "onboard_time": 1714464198,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34341,
+        "num": 412065,
+        "word": "杨幂的穿搭有点凡尔赛了",
+        "onboard_time": 1714468340,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 407300,
+        "num": 407300,
+        "word": "被关雪骗了",
+        "onboard_time": 1714466179,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385330,
+        "num": 385330,
+        "word": "每天跑20分钟身体的变化",
+        "onboard_time": 1714462277,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 362964,
+        "num": 362964,
+        "word": "内娱顶级alpha",
+        "onboard_time": 1714468578,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350000,
+        "num": 350000,
+        "word": "神十七返回制动开始",
+        "onboard_time": 1714468517,
+        "rank": 17,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 349429,
+        "num": 349429,
+        "word": "刘涛的未修原图",
+        "onboard_time": 1714466778,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333363,
+        "num": 333363,
+        "word": "赴山海",
+        "onboard_time": 1714467797,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 540842,
+        "num": 333314,
+        "word": "突然发现2杯奶茶可以买一件衣服",
+        "onboard_time": 1714459818,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 450308,
+        "num": 333287,
+        "word": "中医建议适合身体弱的工作",
+        "onboard_time": 1714466838,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 337004,
+        "num": 333211,
+        "word": "郑秀晶总裁出街",
+        "onboard_time": 1714468340,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 333096,
+        "num": 333096,
+        "word": "神十七轨道舱与返回舱成功分离",
+        "onboard_time": 1714468159,
+        "rank": 23,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 331970,
+        "num": 331970,
+        "word": "刘耀文 不换搭档是有原因的",
+        "onboard_time": 1714468398,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 295639,
+        "num": 295639,
+        "word": "哈马斯与法塔赫在北京磋商",
+        "onboard_time": 1714465819,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 263024,
+        "num": 263024,
+        "word": "神十七",
+        "onboard_time": 1714469238,
+        "rank": 26,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 253904,
+        "num": 253904,
+        "word": "回到那一天演唱会抢票",
+        "onboard_time": 1714466719,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 249110,
+        "num": 249110,
+        "word": "肖战水晶衣领",
+        "onboard_time": 1714464618,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235594,
+        "num": 235594,
+        "word": "凤凰传奇骂票",
+        "onboard_time": 1714452919,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 232270,
+        "num": 232270,
+        "word": "男朋友第一次上门假装和狗子不熟",
+        "onboard_time": 1714468999,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222825,
+        "num": 222825,
+        "word": "刘惜君身材比例",
+        "onboard_time": 1714462577,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217036,
+        "num": 217036,
+        "word": "梁靖崑开通微博",
+        "onboard_time": 1714456939,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191681,
+        "num": 191681,
+        "word": "前有眼泪女王 现有背着善宰跑",
+        "onboard_time": 1714461617,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181628,
+        "num": 181628,
+        "word": "东航一客机因机组成员矛盾应急滑梯放出",
+        "onboard_time": 1714451781,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180292,
+        "num": 180292,
+        "word": "法拉第未来宣布退市",
+        "onboard_time": 1714459638,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177963,
+        "num": 177963,
+        "word": "泉州文旅认证赵丽颖簪花出圈",
+        "onboard_time": 1714459038,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177548,
+        "num": 177548,
+        "word": "霸州双甜",
+        "onboard_time": 1714457299,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161356,
+        "num": 161356,
+        "word": "常规赛最佳新锐选手候选人",
+        "onboard_time": 1714468578,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151628,
+        "num": 151628,
+        "word": "背着善宰跑吻戏",
+        "onboard_time": 1714463478,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150117,
+        "num": 150117,
+        "word": "梁靖崑先关注王楚钦",
+        "onboard_time": 1714457179,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145425,
+        "num": 145425,
+        "word": "今天高速有多堵",
+        "onboard_time": 1714467857,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 144079,
+        "num": 144079,
+        "word": "R1SE推荐赵磊上歌手",
+        "onboard_time": 1714456699,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142854,
+        "num": 142854,
+        "word": "李一桐一番女主",
+        "onboard_time": 1714463418,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132881,
+        "num": 132881,
+        "word": "当你在朋友圈发旅游照片时",
+        "onboard_time": 1714465277,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130475,
+        "num": 130475,
+        "word": "于正晒海报",
+        "onboard_time": 1714469476,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126066,
+        "num": 126066,
+        "word": "减肥应该吃甜玉米还是糯玉米",
+        "onboard_time": 1714469538,
+        "rank": 46,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 126039,
+        "num": 126039,
+        "word": "中越海警在北部湾海域联合巡逻",
+        "onboard_time": 1714468517,
+        "rank": 47,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 125149,
+        "num": 125149,
+        "word": "王俊凯王源工作室logo相似",
+        "onboard_time": 1714450819,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122254,
+        "num": 122254,
+        "word": "大爷称年轻人不允许享受下铺",
+        "onboard_time": 1714448779,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将访问法国塞尔维亚匈牙利#"
+    }
+  }
+}
