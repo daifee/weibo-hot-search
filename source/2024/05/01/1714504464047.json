@@ -1,0 +1,410 @@
+{
+  "runTime": 1714504464047,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 288572,
+        "num": 288572,
+        "word": "间谍窃取我国杂交水稻亲本种子",
+        "onboard_time": 1714487901,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135862,
+        "num": 135862,
+        "word": "你还在穿鬼冢虎吗",
+        "onboard_time": 1714494437,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 20719,
+        "num": 116559,
+        "word": "我的五一游记",
+        "onboard_time": 1714483099,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100143,
+        "num": 100143,
+        "word": "洁丽雅董事长谈儿子拍短剧出圈",
+        "onboard_time": 1714486219,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90386,
+        "num": 90386,
+        "word": "网传江苏宿迁禁止打印店打印控告材料",
+        "onboard_time": 1714495096,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78784,
+        "num": 78784,
+        "word": "拜仁vs皇马",
+        "onboard_time": 1714488501,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61755,
+        "num": 61755,
+        "word": "韩网评IVE国风争议",
+        "onboard_time": 1714477217,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 57325,
+        "num": 57325,
+        "word": "春色寄情人结局",
+        "onboard_time": 1714482558,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49778,
+        "num": 49778,
+        "word": "编剧大人 我不允许任何人辱骂你",
+        "onboard_time": 1714492518,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17725,
+        "num": 46447,
+        "word": "毕业季又被簪花学士帽惊艳到了",
+        "onboard_time": 1714470318,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 46445,
+        "num": 46445,
+        "word": "为什么叶轻眉的人气那么高",
+        "onboard_time": 1714496355,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44603,
+        "num": 44603,
+        "word": "五月天香港",
+        "onboard_time": 1714490720,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42735,
+        "num": 42735,
+        "word": "比初恋更遗憾的是半生朋友be",
+        "onboard_time": 1714491800,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41756,
+        "num": 41756,
+        "word": "纪凌尘 你别再演了",
+        "onboard_time": 1714488259,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41015,
+        "num": 41015,
+        "word": "女性有这7种情况要警惕宫外孕",
+        "onboard_time": 1714497316,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40405,
+        "num": 40405,
+        "word": "成毅 进组",
+        "onboard_time": 1714468698,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38412,
+        "num": 38412,
+        "word": "大学生投入3800元开店年入110万",
+        "onboard_time": 1714455498,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38346,
+        "num": 38346,
+        "word": "堵车",
+        "onboard_time": 1714480578,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35058,
+        "num": 35058,
+        "word": "百万粉丝博主为罐子汤放弃减肥",
+        "onboard_time": 1714499952,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 34985,
+        "num": 34985,
+        "word": "研究生女孩健身10年练出8块腹肌",
+        "onboard_time": 1714478418,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 83994,
+        "num": 34888,
+        "word": "美国流浪汉当街啃人脸吃眼球和耳朵",
+        "onboard_time": 1714484538,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67435,
+        "num": 34857,
+        "word": "突然感觉朋友圈发什么都很幼稚了",
+        "onboard_time": 1714491558,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50703,
+        "num": 34665,
+        "word": "原来跑男早就预言了退出的人",
+        "onboard_time": 1714489460,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39990,
+        "num": 34526,
+        "word": "月经乱来16年竟查出癌前病变",
+        "onboard_time": 1714476257,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36792,
+        "num": 34458,
+        "word": "喝水后出现4种异常或是肾脏在求救",
+        "onboard_time": 1714482079,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34400,
+        "num": 34400,
+        "word": "背着善宰跑 粉丝视角",
+        "onboard_time": 1714491380,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33933,
+        "num": 33933,
+        "word": "美式前刺",
+        "onboard_time": 1714502832,
+        "rank": 26,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 33913,
+        "num": 33913,
+        "word": "突然发现2杯奶茶可以买一件衣服",
+        "onboard_time": 1714459818,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32753,
+        "num": 32753,
+        "word": "赴山海官宣",
+        "onboard_time": 1714469897,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31946,
+        "num": 31946,
+        "word": "5月十二星座注意事项",
+        "onboard_time": 1714478237,
+        "rank": 29,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 31788,
+        "num": 31788,
+        "word": "李现周雨彤喉结吻",
+        "onboard_time": 1714483938,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30686,
+        "num": 30686,
+        "word": "人鱼",
+        "onboard_time": 1714489641,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29858,
+        "num": 29858,
+        "word": "医生让你查幽门螺旋杆菌是真想救你",
+        "onboard_time": 1714489279,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29647,
+        "num": 29647,
+        "word": "张韶涵昆山演唱会",
+        "onboard_time": 1714489041,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28704,
+        "num": 28704,
+        "word": "春色寄情人微博开分8.9",
+        "onboard_time": 1714482797,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28665,
+        "num": 28665,
+        "word": "背着善宰跑第八集",
+        "onboard_time": 1714485199,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26099,
+        "num": 26099,
+        "word": "庆余年第二季过审下证",
+        "onboard_time": 1714476377,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25462,
+        "num": 25462,
+        "word": "和死对头吵架突然亲我一口",
+        "onboard_time": 1714485740,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25459,
+        "num": 25459,
+        "word": "阿沁称不排斥和詹雯婷合体",
+        "onboard_time": 1714488980,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23981,
+        "num": 23981,
+        "word": "TWICE回归预告",
+        "onboard_time": 1714482199,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23595,
+        "num": 23595,
+        "word": "张萌泳装身材",
+        "onboard_time": 1714490000,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22991,
+        "num": 22991,
+        "word": "疑似情感纠纷女子带人冲进办公室殴打女员工",
+        "onboard_time": 1714491380,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22836,
+        "num": 22836,
+        "word": "深圳天气",
+        "onboard_time": 1714492759,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22317,
+        "num": 22317,
+        "word": "猫 不许拍",
+        "onboard_time": 1714487478,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22141,
+        "num": 22141,
+        "word": "支付宝回应用户网购保险被远程录屏",
+        "onboard_time": 1714483458,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 21584,
+        "num": 21584,
+        "word": "城中之城 赵辉跳楼",
+        "onboard_time": 1714488859,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21240,
+        "num": 21240,
+        "word": "春色寄情人",
+        "onboard_time": 1714480397,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20856,
+        "num": 20856,
+        "word": "孙千腹肌照",
+        "onboard_time": 1714487478,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20536,
+        "num": 20536,
+        "word": "2套房京籍家庭可在五环外新购1套房",
+        "onboard_time": 1714482379,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19241,
+        "num": 20534,
+        "word": "李健昆山演唱会",
+        "onboard_time": 1714487960,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会#"
+    }
+  }
+}

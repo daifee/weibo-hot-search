@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714502228727,
+  "endTime": 1714504464047,
   "band_list": [
     {
       "raw_hot": 1695633,
@@ -449,6 +449,14 @@
       "onboard_time": 1714499952,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 33933,
+      "num": 33933,
+      "word": "美式前刺",
+      "onboard_time": 1714502832,
+      "rank": 26,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 25663,

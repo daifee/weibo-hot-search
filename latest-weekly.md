@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/28 00:20:26 ~ 2024/05/01 02:37:08
+本榜单时间：2024/04/28 00:20:26 ~ 2024/05/01 03:14:24
 </p>
 </blockquote>
 <p>
@@ -6839,6 +6839,12 @@ JYP说姚琛新歌像火山一样爆发（热度：48897）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9B%8B%E4%BB%94%E7%8E%A9%E6%B3%95%E5%85%A8%E5%AE%B6%E6%A1%B6%23" target="weibo">
 蛋仔玩法全家桶（热度：34061）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%BC%8F%E5%89%8D%E5%88%BA%23" target="weibo">
+美式前刺（热度：33933）
 </a>
 </li>
 
