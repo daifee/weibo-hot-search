@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/30 23:15:47
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/30 23:35:23
 </p>
 </blockquote>
 <p>
@@ -3465,6 +3465,12 @@ LV大秀（热度：1247571）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%86%E5%B1%B1%E6%BC%94%E5%94%B1%E4%BC%9A%20%E5%85%A8%E5%9C%BA%E5%96%8A%E9%80%80%E7%A5%A8%23" target="weibo">
+昆山演唱会 全场喊退票（热度：1148123）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E6%8A%8A%E5%90%91%E5%A4%AA%E9%80%81%E7%9A%84%E5%8C%85%E5%8D%96%E4%BA%86%23" target="weibo">
 向佐把向太送的包卖了（热度：1146776）
 </a>
@@ -6005,12 +6011,6 @@ coser以为对方是cos记者（热度：869834）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23ZARA%E5%A4%A7%E9%87%8F%E7%B2%89%E4%B8%9D%E7%B4%A7%E6%80%A5%E6%89%AB%E8%B4%A7%23" target="weibo">
 ZARA大量粉丝紧急扫货（热度：865085）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%8A%E8%82%AF%E5%BE%B7%E5%9F%BA1995%E5%B9%B4%E4%BB%B7%E6%A0%BC%E8%A1%A8%E6%8C%96%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
-把肯德基1995年价格表挖出来了（热度：865071）
 </a>
 </li>
 

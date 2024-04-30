@@ -1,7 +1,15 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714490147348,
+  "endTime": 1714491323179,
   "band_list": [
+    {
+      "raw_hot": 2521087,
+      "num": 2521087,
+      "word": "间谍窃取我国杂交水稻亲本种子",
+      "onboard_time": 1714487901,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2517358,
       "num": 2517358,
@@ -9,14 +17,6 @@
       "onboard_time": 1714447099,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2293749,
-      "num": 2293749,
-      "word": "间谍窃取我国杂交水稻亲本种子",
-      "onboard_time": 1714487901,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2169074,
@@ -161,6 +161,14 @@
       "onboard_time": 1714449139,
       "rank": 6,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1148123,
+      "num": 1148123,
+      "word": "昆山演唱会 全场喊退票",
+      "onboard_time": 1714489219,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 1080790,
@@ -427,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 661066,
+      "num": 212202,
+      "word": "原来跑男早就预言了退出的人",
+      "onboard_time": 1714489460,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 659425,
       "num": 659425,
       "word": "2套房京籍家庭可在五环外新购1套房",
@@ -457,6 +473,14 @@
       "onboard_time": 1714476377,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 635840,
+      "num": 635840,
+      "word": "李佳琦现身人民日报论坛",
+      "onboard_time": 1714486758,
+      "rank": 16,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 617021,
@@ -531,22 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 568058,
-      "num": 568058,
-      "word": "昆山演唱会 全场喊退票",
-      "onboard_time": 1714489219,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 538965,
-      "num": 538965,
-      "word": "李佳琦现身人民日报论坛",
-      "onboard_time": 1714486758,
-      "rank": 16,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 537311,
       "num": 537311,
       "word": "梁靖崑先关注王楚钦",
@@ -593,6 +601,14 @@
       "onboard_time": 1714488259,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 488467,
+      "num": 488467,
+      "word": "人鱼",
+      "onboard_time": 1714489641,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 486749,
@@ -939,14 +955,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 330957,
-      "num": 202359,
-      "word": "原来跑男早就预言了退出的人",
-      "onboard_time": 1714489460,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 328862,
       "num": 328862,
       "word": "R1SE推荐赵磊上歌手",
@@ -969,6 +977,14 @@
       "onboard_time": 1714465819,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 321094,
+      "num": 321094,
+      "word": "阿沁称不排斥和詹雯婷合体",
+      "onboard_time": 1714488980,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 319975,
@@ -1171,14 +1187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273471,
-      "num": 273471,
-      "word": "阿沁称不排斥和詹雯婷合体",
-      "onboard_time": 1714488980,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 272974,
       "num": 272974,
       "word": "二十届三中全会7月召开",
@@ -1216,6 +1224,14 @@
       "word": "这4种尴尬生理反应其实很正常",
       "onboard_time": 1714456277,
       "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 265461,
+      "num": 210593,
+      "word": "医生让你查幽门螺旋杆菌是真想救你",
+      "onboard_time": 1714489279,
+      "rank": 36,
       "category": "健康医疗"
     },
     {
@@ -1443,14 +1459,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 229467,
-      "num": 229467,
-      "word": "人鱼",
-      "onboard_time": 1714489641,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 229126,
       "num": 195059,
       "word": "沈景病",
@@ -1539,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212863,
+      "num": 212863,
+      "word": "五月天香港",
+      "onboard_time": 1714490720,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211845,
       "num": 211845,
       "word": "知情人称打开应急滑梯空姐已飞10年",
@@ -1553,6 +1569,14 @@
       "onboard_time": 1714463898,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 210105,
+      "num": 210105,
+      "word": "李现下一部剧是国色芳华",
+      "onboard_time": 1714489641,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 209375,
@@ -1753,6 +1777,14 @@
       "onboard_time": 1714441277,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194748,
+      "num": 194748,
+      "word": "张萌泳装身材",
+      "onboard_time": 1714490000,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193459,
@@ -1979,14 +2011,6 @@
       "category": "国内时政,科学科普"
     },
     {
-      "raw_hot": 182237,
-      "num": 182237,
-      "word": "李现下一部剧是国色芳华",
-      "onboard_time": 1714489641,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180644,
       "num": 180644,
       "word": "国际不打小孩日",
@@ -2033,14 +2057,6 @@
       "onboard_time": 1714415652,
       "rank": 13,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 173657,
-      "num": 173657,
-      "word": "张萌泳装身材",
-      "onboard_time": 1714490000,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 173626,
@@ -2105,14 +2121,6 @@
       "onboard_time": 1714450279,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 169130,
-      "num": 169130,
-      "word": "医生让你查幽门螺旋杆菌是真想救你",
-      "onboard_time": 1714489279,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 169101,
@@ -2593,6 +2601,14 @@
       "onboard_time": 1714449739,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144226,
+      "num": 144226,
+      "word": "大麦回到那一天演唱会不让退款",
+      "onboard_time": 1714490899,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 144104,
@@ -3153,6 +3169,22 @@
       "onboard_time": 1714402761,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 99024,
+      "num": 99024,
+      "word": "追光的你",
+      "onboard_time": 1714487659,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 98755,
+      "num": 98755,
+      "word": "关闹钟",
+      "onboard_time": 1714491020,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 97366,
