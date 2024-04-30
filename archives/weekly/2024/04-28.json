@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714491323179,
+  "endTime": 1714494184777,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -3131,6 +3131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313082,
+      "num": 157284,
+      "word": "突然感觉朋友圈发什么都很幼稚了",
+      "onboard_time": 1714491558,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 313059,
       "num": 313059,
       "word": "赴山海 成毅",
@@ -3257,6 +3265,14 @@
       "onboard_time": 1714483818,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301623,
+      "num": 301623,
+      "word": "五月天香港",
+      "onboard_time": 1714490720,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 300465,
@@ -3851,6 +3867,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 248939,
+      "num": 248939,
+      "word": "疑似情感纠纷女子带人冲进办公室殴打女员工",
+      "onboard_time": 1714491380,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248779,
       "num": 248779,
       "word": "为什么女生不喜欢和公婆同住",
@@ -4097,6 +4121,14 @@
       "onboard_time": 1714437318,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237235,
+      "num": 237235,
+      "word": "背着善宰跑 粉丝视角",
+      "onboard_time": 1714491380,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 236034,
@@ -4545,14 +4577,6 @@
       "onboard_time": 1714368379,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212863,
-      "num": 212863,
-      "word": "五月天香港",
-      "onboard_time": 1714490720,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 212718,
@@ -6691,6 +6715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154568,
+      "num": 154568,
+      "word": "比初恋更遗憾的是半生朋友be",
+      "onboard_time": 1714491800,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154421,
       "num": 154421,
       "word": "我不善良遇强则强",
@@ -7329,6 +7361,14 @@
       "onboard_time": 1714353498,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139278,
+      "num": 139278,
+      "word": "编剧大人 我不允许任何人辱骂你",
+      "onboard_time": 1714492518,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 138919,
@@ -8641,6 +8681,14 @@
       "onboard_time": 1714431855,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 81672,
+      "num": 81672,
+      "word": "深圳天气",
+      "onboard_time": 1714492759,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81634,
