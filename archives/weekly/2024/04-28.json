@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714512864870,
+  "endTime": 1714515444664,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -2537,6 +2537,14 @@
       "onboard_time": 1714353378,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 390026,
+      "num": 390026,
+      "word": "低估了五一堵车的程度",
+      "onboard_time": 1714511231,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 389570,
@@ -8699,14 +8707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 83448,
-      "num": 83448,
-      "word": "低估了五一堵车的程度",
-      "onboard_time": 1714511231,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 82142,
       "num": 82142,
       "word": "李大钊牺牲97年",
@@ -8899,6 +8899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 57864,
+      "num": 63054,
+      "word": "百万粉丝博主为罐子汤放弃减肥",
+      "onboard_time": 1714499952,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 57521,
       "num": 57521,
       "word": "新郎一家开荒给新娘办向日葵婚礼",
@@ -9059,14 +9067,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 41894,
-      "num": 63054,
-      "word": "百万粉丝博主为罐子汤放弃减肥",
-      "onboard_time": 1714499952,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 41879,
       "num": 41879,
       "word": "中岛美嘉 音乐就是救命稻草",
@@ -9107,6 +9107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 38042,
+      "num": 38042,
+      "word": "院士哽咽介绍医生每天一首琵琶曲延长患者生命",
+      "onboard_time": 1714505291,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35869,
       "num": 206720,
       "word": "带红圈小金标的Pura70拍照有多顶",
@@ -9128,6 +9136,14 @@
       "word": "中国青年五四奖章",
       "onboard_time": 1714364959,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31619,
+      "num": 29672,
+      "word": "中央气象台发强对流天气橙色预警",
+      "onboard_time": 1714511952,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -9179,6 +9195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 28599,
+      "num": 28599,
+      "word": "给小鱼接生",
+      "onboard_time": 1714513271,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 27949,
       "num": 30342,
       "word": "maestro饭拍视频",
@@ -9193,14 +9217,6 @@
       "onboard_time": 1714304056,
       "rank": 17,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 24784,
-      "num": 24784,
-      "word": "中央气象台发强对流天气橙色预警",
-      "onboard_time": 1714511952,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23993,
@@ -9235,12 +9251,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 21128,
-      "num": 28215,
-      "word": "院士哽咽介绍医生每天一首琵琶曲延长患者生命",
-      "onboard_time": 1714505291,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 20456,
+      "num": 22933,
+      "word": "王骁转身下楼梯细节",
+      "onboard_time": 1714515252,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 20343,
@@ -9273,6 +9289,14 @@
       "onboard_time": 1714420870,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 18278,
+      "num": 22916,
+      "word": "使用牙线漱口水和刷牙的正确顺序",
+      "onboard_time": 1714515132,
+      "rank": 49,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 16988,
