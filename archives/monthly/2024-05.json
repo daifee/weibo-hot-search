@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714511896332,
+  "endTime": 1714512864870,
   "band_list": [
     {
       "raw_hot": 1695633,
@@ -131,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243377,
+      "num": 243377,
+      "word": "深圳天气",
+      "onboard_time": 1714492759,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240659,
       "num": 155094,
       "word": "医生让你查幽门螺旋杆菌是真想救你",
       "onboard_time": 1714489279,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 239608,
-      "num": 239608,
-      "word": "深圳天气",
-      "onboard_time": 1714492759,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236351,
@@ -363,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83448,
+      "num": 83448,
+      "word": "低估了五一堵车的程度",
+      "onboard_time": 1714511231,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79621,
       "num": 90040,
       "word": "SEVENTEEN团魂",
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 41894,
-      "num": 41894,
+      "num": 63054,
       "word": "百万粉丝博主为罐子汤放弃减肥",
       "onboard_time": 1714499952,
       "rank": 33,
@@ -473,14 +481,6 @@
       "onboard_time": 1714505411,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27225,
-      "num": 27225,
-      "word": "低估了五一堵车的程度",
-      "onboard_time": 1714511231,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 25663,
@@ -499,7 +499,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18378,
+      "raw_hot": 24784,
+      "num": 24784,
+      "word": "中央气象台发强对流天气橙色预警",
+      "onboard_time": 1714511952,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21128,
       "num": 28215,
       "word": "院士哽咽介绍医生每天一首琵琶曲延长患者生命",
       "onboard_time": 1714505291,
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 16988,
-      "num": 16988,
+      "num": 18233,
       "word": "唐九洲 小卡届的神",
       "onboard_time": 1714508171,
       "rank": 47,
