@@ -1,0 +1,410 @@
+{
+  "runTime": 1714476871712,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 933960,
+        "num": 933960,
+        "word": "太空归来3人全部安全出舱",
+        "onboard_time": 1714473976,
+        "rank": 0,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 878099,
+        "num": 878099,
+        "word": "下班",
+        "onboard_time": 1714463119,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26448,
+        "num": 777292,
+        "word": "五一打卡锦绣中国",
+        "onboard_time": 1714447878,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769594,
+        "num": 769594,
+        "word": "内娱顶级alpha",
+        "onboard_time": 1714468578,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596219,
+        "num": 596219,
+        "word": "大学生投入3800元开店年入110万",
+        "onboard_time": 1714455498,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533535,
+        "num": 533535,
+        "word": "神十七载人飞行任务圆满成功",
+        "onboard_time": 1714471817,
+        "rank": 5,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 519843,
+        "num": 519843,
+        "word": "因为天气取消了五一出游",
+        "onboard_time": 1714447099,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385784,
+        "num": 385784,
+        "word": "成毅 进组",
+        "onboard_time": 1714468698,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132231,
+        "num": 385004,
+        "word": "安全感在这一刻具象化",
+        "onboard_time": 1714475297,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171362,
+        "num": 384973,
+        "word": "毕业季又被簪花学士帽惊艳到了",
+        "onboard_time": 1714470318,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 687683,
+        "num": 384973,
+        "word": "孟子义首穿高定",
+        "onboard_time": 1714473197,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 384972,
+        "num": 384972,
+        "word": "我刘涛一生清清白白",
+        "onboard_time": 1714459217,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352594,
+        "num": 352594,
+        "word": "庆余年第二季过审下证",
+        "onboard_time": 1714476377,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338587,
+        "num": 338587,
+        "word": "天津取消户籍居民大户型限购",
+        "onboard_time": 1714465939,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316247,
+        "num": 316247,
+        "word": "赴山海官宣",
+        "onboard_time": 1714469897,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310050,
+        "num": 310050,
+        "word": "庆余年里谁才是真正的主角",
+        "onboard_time": 1714475897,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298358,
+        "num": 298358,
+        "word": "赴山海番位",
+        "onboard_time": 1714471756,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296755,
+        "num": 296755,
+        "word": "杨幂藏蓝色短裙",
+        "onboard_time": 1714473136,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271840,
+        "num": 271840,
+        "word": "韩国电视台报道IVE国风争议",
+        "onboard_time": 1714460418,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230772,
+        "num": 271562,
+        "word": "网传一三甲医院招聘博士后月薪两三千",
+        "onboard_time": 1714475836,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22176,
+        "num": 268963,
+        "word": "蛋仔派对极速追逃",
+        "onboard_time": 1714475058,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 491359,
+        "num": 264882,
+        "word": "突然发现2杯奶茶可以买一件衣服",
+        "onboard_time": 1714459818,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278567,
+        "num": 261361,
+        "word": "月经乱来16年竟查出癌前病变",
+        "onboard_time": 1714476257,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 260781,
+        "num": 260781,
+        "word": "诺米谢帝beef大和解",
+        "onboard_time": 1714476077,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247652,
+        "num": 247652,
+        "word": "曹恩齐 这个妹妹我曾在哪见过",
+        "onboard_time": 1714470856,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213684,
+        "num": 213684,
+        "word": "神十七成功着陆",
+        "onboard_time": 1714470738,
+        "rank": 25,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 212802,
+        "num": 212802,
+        "word": "直播神舟十七号回地球",
+        "onboard_time": 1714461739,
+        "rank": 26,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 188539,
+        "num": 188539,
+        "word": "回到那一天演唱会退票",
+        "onboard_time": 1714474817,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187545,
+        "num": 187545,
+        "word": "女子领证前发现男友出轨分手拒退彩礼",
+        "onboard_time": 1714455857,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174677,
+        "num": 174677,
+        "word": "迪丽热巴 民国大小姐",
+        "onboard_time": 1714464198,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 607995,
+        "num": 174237,
+        "word": "大麻合法化后的泰国",
+        "onboard_time": 1714475238,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 170736,
+        "num": 170736,
+        "word": "宋雨琦模仿金智媛",
+        "onboard_time": 1714475479,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169692,
+        "num": 169692,
+        "word": "哈尔的移动城堡",
+        "onboard_time": 1714476618,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161243,
+        "num": 161243,
+        "word": "宝马董事长说中国发生的事正领先于世界",
+        "onboard_time": 1714476137,
+        "rank": 33,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 158935,
+        "num": 158935,
+        "word": "中医建议适合身体弱的工作",
+        "onboard_time": 1714466838,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153782,
+        "num": 153782,
+        "word": "刘涛的未修原图",
+        "onboard_time": 1714466778,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139128,
+        "num": 139128,
+        "word": "要成尚雯婕梦女了",
+        "onboard_time": 1714474458,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135454,
+        "num": 135454,
+        "word": "一块14斤肉要烤多久",
+        "onboard_time": 1714473616,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135397,
+        "num": 135397,
+        "word": "肖战街头大片",
+        "onboard_time": 1714476498,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135367,
+        "num": 135367,
+        "word": "华为一季度营收1784.5亿元",
+        "onboard_time": 1714473256,
+        "rank": 39,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 134829,
+        "num": 134829,
+        "word": "秦岚说花少5全阵容吓死你",
+        "onboard_time": 1714469717,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132529,
+        "num": 132529,
+        "word": "汤洪波成在轨飞行时间最长航天员",
+        "onboard_time": 1714475297,
+        "rank": 41,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 126800,
+        "num": 126800,
+        "word": "时代少年团MV正确打开方式",
+        "onboard_time": 1714474337,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125970,
+        "num": 125970,
+        "word": "知情人称打开应急滑梯空姐已飞10年",
+        "onboard_time": 1714471157,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124388,
+        "num": 124388,
+        "word": "部落冲突 哈兰德",
+        "onboard_time": 1714472658,
+        "rank": 44,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 123057,
+        "num": 123057,
+        "word": "金秀贤盯金智媛的眼神",
+        "onboard_time": 1714473737,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121224,
+        "num": 121224,
+        "word": "今天坚决不加班",
+        "onboard_time": 1714473256,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112242,
+        "num": 112242,
+        "word": "刘耀文 不换搭档是有原因的",
+        "onboard_time": 1714468398,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110674,
+        "num": 110674,
+        "word": "男朋友第一次上门假装和狗子不熟",
+        "onboard_time": 1714468999,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107960,
+        "num": 107960,
+        "word": "安徽事业单位排名",
+        "onboard_time": 1714476857,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席访欧将为世界和平发展注入新动能#"
+    }
+  }
+}

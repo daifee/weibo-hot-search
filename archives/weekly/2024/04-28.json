@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714475841222,
+  "endTime": 1714476871712,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -675,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 933960,
+      "num": 933960,
+      "word": "太空归来3人全部安全出舱",
+      "onboard_time": 1714473976,
+      "rank": 4,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 921904,
       "num": 800603,
       "word": "眼泪女王 太癫了",
@@ -865,14 +873,6 @@
       "onboard_time": 1714231341,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 834242,
-      "num": 834242,
-      "word": "太空归来3人全部安全出舱",
-      "onboard_time": 1714473976,
-      "rank": 4,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 829560,
@@ -1155,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687683,
+      "num": 480069,
+      "word": "孟子义首穿高定",
+      "onboard_time": 1714473197,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 687112,
       "num": 534665,
       "word": "配娱癫公",
@@ -1323,14 +1331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 628706,
-      "num": 480069,
-      "word": "孟子义首穿高定",
-      "onboard_time": 1714473197,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 625671,
       "num": 625671,
       "word": "15元1个的菠萝蜜100元5个的榴莲",
@@ -1385,6 +1385,14 @@
       "onboard_time": 1714408154,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 607995,
+      "num": 174237,
+      "word": "大麻合法化后的泰国",
+      "onboard_time": 1714475238,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 603585,
@@ -2611,6 +2619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 352594,
+      "num": 352594,
+      "word": "庆余年第二季过审下证",
+      "onboard_time": 1714476377,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351463,
       "num": 618686,
       "word": "她是北大同专业同级唯一坚持读到毕业",
@@ -2955,6 +2971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 310050,
+      "num": 310050,
+      "word": "庆余年里谁才是真正的主角",
+      "onboard_time": 1714475897,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308990,
       "num": 308990,
       "word": "湖人赢了",
@@ -3019,12 +3043,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298358,
+      "num": 298358,
+      "word": "赴山海番位",
+      "onboard_time": 1714471756,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297433,
       "num": 297433,
       "word": "王源二巡还叫客厅狂欢",
       "onboard_time": 1714362859,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 296755,
+      "num": 296755,
+      "word": "杨幂藏蓝色短裙",
+      "onboard_time": 1714473136,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 296541,
@@ -3099,14 +3139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 283156,
-      "num": 283156,
-      "word": "杨幂藏蓝色短裙",
-      "onboard_time": 1714473136,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 282749,
       "num": 282749,
       "word": "王一博 谁是犊子",
@@ -3145,6 +3177,14 @@
       "onboard_time": 1714318158,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278567,
+      "num": 261361,
+      "word": "月经乱来16年竟查出癌前病变",
+      "onboard_time": 1714476257,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 278117,
@@ -3259,14 +3299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270080,
-      "num": 270080,
-      "word": "赴山海番位",
-      "onboard_time": 1714471756,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 269816,
       "num": 224793,
       "word": "这4种尴尬生理反应其实很正常",
@@ -3377,6 +3409,14 @@
       "onboard_time": 1714349177,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 260781,
+      "num": 260781,
+      "word": "诺米谢帝beef大和解",
+      "onboard_time": 1714476077,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 258226,
@@ -3553,6 +3593,14 @@
       "onboard_time": 1714277899,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 247652,
+      "num": 247652,
+      "word": "曹恩齐 这个妹妹我曾在哪见过",
+      "onboard_time": 1714470856,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 247322,
@@ -3851,6 +3899,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 230772,
+      "num": 271562,
+      "word": "网传一三甲医院招聘博士后月薪两三千",
+      "onboard_time": 1714475836,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230381,
       "num": 230381,
       "word": "不够善良的我们完结",
@@ -3889,14 +3945,6 @@
       "onboard_time": 1714262658,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228272,
-      "num": 228272,
-      "word": "曹恩齐 这个妹妹我曾在哪见过",
-      "onboard_time": 1714470856,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 228093,
@@ -3993,14 +4041,6 @@
       "onboard_time": 1714386258,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220101,
-      "num": 168038,
-      "word": "大麻合法化后的泰国",
-      "onboard_time": 1714475238,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 219889,
@@ -5739,6 +5779,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 169692,
+      "num": 169692,
+      "word": "哈尔的移动城堡",
+      "onboard_time": 1714476618,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 169649,
       "num": 169649,
       "word": "中老年人患带状疱疹有多痛苦",
@@ -5913,6 +5961,14 @@
       "onboard_time": 1714370538,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161243,
+      "num": 161243,
+      "word": "宝马董事长说中国发生的事正领先于世界",
+      "onboard_time": 1714476137,
+      "rank": 33,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 160530,
@@ -6843,6 +6899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135397,
+      "num": 135397,
+      "word": "肖战街头大片",
+      "onboard_time": 1714476498,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 135259,
       "num": 135259,
       "word": "张新成同年拍摄的三个疯批角色",
@@ -6985,6 +7049,14 @@
       "onboard_time": 1714270099,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132231,
+      "num": 486782,
+      "word": "安全感在这一刻具象化",
+      "onboard_time": 1714475297,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131673,
@@ -7611,6 +7683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107960,
+      "num": 107960,
+      "word": "安徽事业单位排名",
+      "onboard_time": 1714476857,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 107909,
       "num": 107909,
       "word": "柯南剧场版主题曲排名",
@@ -7673,14 +7753,6 @@
       "onboard_time": 1714268837,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105488,
-      "num": 486782,
-      "word": "安全感在这一刻具象化",
-      "onboard_time": 1714475297,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104644,
@@ -8292,7 +8364,7 @@
     },
     {
       "raw_hot": 29247,
-      "num": 160807,
+      "num": 268963,
       "word": "蛋仔派对极速追逃",
       "onboard_time": 1714475058,
       "rank": 33,
