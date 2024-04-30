@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714450916357,
+  "endTime": 1714451668469,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2517358,
+      "num": 2517358,
+      "word": "因为天气取消了五一出游",
+      "onboard_time": 1714447099,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2517273,
       "num": 2517273,
       "word": "长沙天气",
@@ -552,14 +560,6 @@
       "word": "注销手机号等于出卖自己",
       "onboard_time": 1712288598,
       "rank": 0,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 2454908,
-      "num": 2454908,
-      "word": "因为天气取消了五一出游",
-      "onboard_time": 1714447099,
-      "rank": 49,
       "category": "情感"
     },
     {
@@ -7275,6 +7275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 903939,
+      "num": 903939,
+      "word": "湖人vs掘金",
+      "onboard_time": 1713660437,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 903921,
       "num": 903921,
       "word": "微信打电话和直接打电话的区别",
@@ -8201,6 +8209,14 @@
       "onboard_time": 1714127958,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 844941,
+      "num": 844941,
+      "word": "机票跳水",
+      "onboard_time": 1714449139,
+      "rank": 6,
+      "category": "旅游"
     },
     {
       "raw_hot": 844234,
@@ -9145,6 +9161,14 @@
       "onboard_time": 1712231298,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 796833,
+      "num": 796833,
+      "word": "王俊凯王源工作室logo相似",
+      "onboard_time": 1714450819,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 796072,
@@ -11547,6 +11571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 690988,
+      "num": 559424,
+      "word": "秦岚早期长发照片",
+      "onboard_time": 1714447397,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 690620,
       "num": 690620,
       "word": "叶童看纪凌尘走路的表情",
@@ -12571,14 +12603,6 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 655687,
-      "num": 431539,
-      "word": "秦岚早期长发照片",
-      "onboard_time": 1714447397,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 655424,
       "num": 655424,
       "word": "上海的群租房能离谱到什么程度",
@@ -12913,14 +12937,6 @@
       "onboard_time": 1713842418,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 643714,
-      "num": 643714,
-      "word": "机票跳水",
-      "onboard_time": 1714449139,
-      "rank": 6,
-      "category": "旅游"
     },
     {
       "raw_hot": 643697,
@@ -16641,6 +16657,14 @@
       "onboard_time": 1712793017,
       "rank": 13,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 538369,
+      "num": 538369,
+      "word": "大爷称年轻人不允许享受下铺",
+      "onboard_time": 1714448779,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 537919,
@@ -22579,14 +22603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 428775,
-      "num": 428775,
-      "word": "大爷称年轻人不允许享受下铺",
-      "onboard_time": 1714448779,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 428690,
       "num": 416979,
       "word": "痔疮自愈 提肛运动",
@@ -26731,6 +26747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359654,
+      "num": 359654,
+      "word": "书卷一梦 番位",
+      "onboard_time": 1714449799,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359532,
       "num": 359532,
       "word": "黄金大涨后白银也被买断货了",
@@ -27436,7 +27460,7 @@
     },
     {
       "raw_hot": 351463,
-      "num": 433000,
+      "num": 566093,
       "word": "她是北大同专业同级唯一坚持读到毕业",
       "onboard_time": 1714446438,
       "rank": 9,
@@ -28435,14 +28459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 337734,
-      "num": 337734,
-      "word": "王俊凯王源工作室logo相似",
-      "onboard_time": 1714450819,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 337622,
       "num": 311781,
       "word": "同事房租2800还找我借钱",
@@ -28673,14 +28689,6 @@
       "onboard_time": 1713329419,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 334255,
-      "num": 334255,
-      "word": "湖人vs掘金",
-      "onboard_time": 1713660437,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 334161,
@@ -32507,14 +32515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 291283,
-      "num": 291283,
-      "word": "书卷一梦 番位",
-      "onboard_time": 1714449799,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 291211,
       "num": 291211,
       "word": "何赛飞评价杨紫",
@@ -35041,6 +35041,14 @@
       "onboard_time": 1713086777,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 267612,
+      "num": 267612,
+      "word": "向太骨折李连杰携女儿看望",
+      "onboard_time": 1714451240,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 267428,
@@ -38123,6 +38131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 245097,
+      "num": 245097,
+      "word": "警方介入西安石油大学虐猫事件",
+      "onboard_time": 1714449558,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245032,
       "num": 246516,
       "word": "国防教育法拟修订",
@@ -38193,6 +38209,14 @@
       "onboard_time": 1712028799,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 244553,
+      "num": 244553,
+      "word": "领导看上了我带的饭之后",
+      "onboard_time": 1714450158,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 244523,
@@ -40417,14 +40441,6 @@
       "onboard_time": 1712323280,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 231676,
-      "num": 231676,
-      "word": "警方介入西安石油大学虐猫事件",
-      "onboard_time": 1714449558,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231655,
@@ -43259,6 +43275,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 215755,
+      "num": 215755,
+      "word": "王源工作室",
+      "onboard_time": 1714451240,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215700,
       "num": 215700,
       "word": "大家都是确定结婚了再求婚吗",
@@ -45369,14 +45393,6 @@
       "onboard_time": 1713965059,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 207332,
-      "num": 207332,
-      "word": "领导看上了我带的饭之后",
-      "onboard_time": 1714450158,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 207322,
@@ -64107,6 +64123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152503,
+      "num": 152503,
+      "word": "孙颖莎8300分世排第一",
+      "onboard_time": 1714449078,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152494,
       "num": 192213,
       "word": "银价涨超20%",
@@ -68227,6 +68251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141413,
+      "num": 141413,
+      "word": "浓眉受伤",
+      "onboard_time": 1714450700,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141389,
       "num": 141389,
       "word": "延时摄影看苹果花开",
@@ -68609,6 +68641,14 @@
       "onboard_time": 1713553811,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140227,
+      "num": 140227,
+      "word": "萨摩耶狗设崩塌现场",
+      "onboard_time": 1714450999,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 140217,
@@ -70091,6 +70131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135787,
+      "num": 135787,
+      "word": "威廉凯特结婚纪念日发黑白照",
+      "onboard_time": 1714451540,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135784,
       "num": 135784,
       "word": "杨紫最害怕烟花声",
@@ -71409,14 +71457,6 @@
       "onboard_time": 1712056460,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131761,
-      "num": 131761,
-      "word": "孙颖莎8300分世排第一",
-      "onboard_time": 1714449078,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 131701,
@@ -81163,6 +81203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61126,
+      "num": 1120418,
+      "word": "五一打卡锦绣中国",
+      "onboard_time": 1714447878,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60904,
       "num": 230407,
       "word": "耳机是现代人的电子buff",
@@ -81369,14 +81417,6 @@
       "onboard_time": 1712272873,
       "rank": 38,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 59048,
-      "num": 1120418,
-      "word": "五一打卡锦绣中国",
-      "onboard_time": 1714447878,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58869,
