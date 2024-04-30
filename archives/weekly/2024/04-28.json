@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714461461416,
+  "endTime": 1714462468878,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1243588,
+      "num": 1062875,
+      "word": "我刘涛一生清清白白",
+      "onboard_time": 1714459217,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1236725,
       "num": 1236725,
       "word": "大学生投入3800元开店年入110万",
@@ -505,14 +513,6 @@
       "onboard_time": 1714381579,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1062875,
-      "num": 1062875,
-      "word": "我刘涛一生清清白白",
-      "onboard_time": 1714459217,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1060663,
@@ -755,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 857147,
+      "num": 231294,
+      "word": "突然发现2杯奶茶可以买一件衣服",
+      "onboard_time": 1714459818,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 856377,
       "num": 856377,
       "word": "都敏俊转世",
@@ -873,14 +881,6 @@
       "onboard_time": 1714285638,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 781663,
-      "num": 228312,
-      "word": "突然发现2杯奶茶可以买一件衣服",
-      "onboard_time": 1714459818,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 770575,
@@ -1088,6 +1088,14 @@
       "word": "配娱癫公",
       "onboard_time": 1714406239,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 685314,
+      "num": 685314,
+      "word": "韩国电视台报道IVE国风争议",
+      "onboard_time": 1714460418,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -1507,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 536890,
+      "num": 536890,
+      "word": "霸州双甜",
+      "onboard_time": 1714457299,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 536566,
       "num": 536566,
       "word": "迪丽热巴未修原图",
@@ -1665,14 +1681,6 @@
       "onboard_time": 1714301958,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 505949,
-      "num": 505949,
-      "word": "霸州双甜",
-      "onboard_time": 1714457299,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 505452,
@@ -2307,20 +2315,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 371927,
+      "num": 371927,
+      "word": "直播神舟十七号回地球",
+      "onboard_time": 1714461739,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371375,
       "num": 371375,
       "word": "北京48一位烧烤自助随便吃",
       "onboard_time": 1714390759,
       "rank": 19,
       "category": "美食"
-    },
-    {
-      "raw_hot": 370115,
-      "num": 370115,
-      "word": "韩国电视台报道IVE国风争议",
-      "onboard_time": 1714460418,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 368303,
@@ -2345,6 +2353,14 @@
       "onboard_time": 1714267221,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365814,
+      "num": 365814,
+      "word": "泉州文旅认证赵丽颖簪花出圈",
+      "onboard_time": 1714459038,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 361578,
@@ -2691,14 +2707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 311584,
-      "num": 311584,
-      "word": "泉州文旅认证赵丽颖簪花出圈",
-      "onboard_time": 1714459038,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 311527,
       "num": 311527,
       "word": "陈丽君上桌了",
@@ -2955,6 +2963,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 272974,
+      "num": 272974,
+      "word": "二十届三中全会7月召开",
+      "onboard_time": 1714461798,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 272264,
       "num": 272264,
       "word": "蔡磊妻子说天天愁有什么用",
@@ -2969,6 +2985,14 @@
       "onboard_time": 1714309279,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 271532,
+      "num": 271532,
+      "word": "秦海璐看上一条项链一年了都没买",
+      "onboard_time": 1714459217,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 271265,
@@ -3169,6 +3193,14 @@
       "onboard_time": 1714359620,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252160,
+      "num": 229262,
+      "word": "娜扎跳伞",
+      "onboard_time": 1714460659,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 251712,
@@ -3467,6 +3499,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 234310,
+      "num": 234310,
+      "word": "梁靖崑发博说我们沙特见",
+      "onboard_time": 1714461919,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234292,
       "num": 234292,
       "word": "王鹤棣直播",
@@ -3547,14 +3587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229571,
-      "num": 229571,
-      "word": "秦海璐看上一条项链一年了都没买",
-      "onboard_time": 1714459217,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 229129,
       "num": 229129,
       "word": "赵丽颖围炉煮茶随拍",
@@ -3601,6 +3633,14 @@
       "onboard_time": 1714266200,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 227471,
+      "num": 227471,
+      "word": "每天跑20分钟身体的变化",
+      "onboard_time": 1714462277,
+      "rank": 23,
+      "category": "运动健身"
     },
     {
       "raw_hot": 226966,
@@ -3659,12 +3699,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222997,
+      "num": 222997,
+      "word": "迪丽热巴再唱主题曲",
+      "onboard_time": 1714462398,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222624,
       "num": 222624,
       "word": "背着善宰跑",
       "onboard_time": 1714354159,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221550,
+      "num": 221550,
+      "word": "辅导员秒批的20个请假理由",
+      "onboard_time": 1714461499,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 221026,
@@ -4587,6 +4643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191509,
+      "num": 196805,
+      "word": "WTT沙特大满贯",
+      "onboard_time": 1714461919,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191385,
       "num": 191385,
       "word": "芙曲灵魂",
@@ -4617,6 +4681,14 @@
       "onboard_time": 1714296798,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190118,
+      "num": 190118,
+      "word": "聚焦二十届三中全会",
+      "onboard_time": 1714461438,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 189273,
@@ -4721,14 +4793,6 @@
       "onboard_time": 1714399221,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 186098,
-      "num": 186098,
-      "word": "娜扎跳伞",
-      "onboard_time": 1714460659,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 186091,
@@ -5147,6 +5211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173741,
+      "num": 173741,
+      "word": "前有眼泪女王 现有背着善宰跑",
+      "onboard_time": 1714461617,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173626,
       "num": 143266,
       "word": "巧克力价格暴涨",
@@ -5193,6 +5265,14 @@
       "onboard_time": 1714403183,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 172252,
+      "num": 172252,
+      "word": "天津市优化房地产调控政策",
+      "onboard_time": 1714462037,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171812,
@@ -5571,6 +5651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155618,
+      "num": 155618,
+      "word": "五一假期去哪玩",
+      "onboard_time": 1714462277,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 155490,
       "num": 587789,
       "word": "男子曾获老师无偿资助回母校捐款50万",
@@ -5600,6 +5688,14 @@
       "word": "我不善良遇强则强",
       "onboard_time": 1714407077,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153928,
+      "num": 153928,
+      "word": "莲花楼书卷一梦同一个导演",
+      "onboard_time": 1714461499,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -6147,20 +6243,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138476,
+      "num": 138476,
+      "word": "无期迷途 开门",
+      "onboard_time": 1714460900,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137267,
       "num": 137267,
       "word": "当代年轻人的带饭文学",
       "onboard_time": 1714367179,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136783,
-      "num": 136783,
-      "word": "无期迷途 开门",
-      "onboard_time": 1714460900,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 136707,
@@ -6739,20 +6835,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 118789,
-      "num": 118789,
-      "word": "聚焦二十届三中全会",
-      "onboard_time": 1714461438,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 118718,
       "num": 118718,
       "word": "郭艾伦回来了",
       "onboard_time": 1714347735,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118633,
+      "num": 118633,
+      "word": "年轻人的相亲需求有多大",
+      "onboard_time": 1714461977,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 118429,

@@ -1,6 +1,6 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714461461416,
+  "endTime": 1714462468878,
   "band_list": [
     {
       "raw_hot": 2517358,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1243588,
+      "num": 1062875,
+      "word": "我刘涛一生清清白白",
+      "onboard_time": 1714459217,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1236725,
       "num": 1236725,
       "word": "大学生投入3800元开店年入110万",
@@ -115,14 +123,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 1062875,
-      "num": 1062875,
-      "word": "我刘涛一生清清白白",
-      "onboard_time": 1714459217,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1047296,
       "num": 1047296,
       "word": "歌手 伯远",
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 857147,
+      "num": 231294,
+      "word": "突然发现2杯奶茶可以买一件衣服",
+      "onboard_time": 1714459818,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 805647,
       "num": 553149,
       "word": "特斯拉市值一夜涨近6000亿",
@@ -153,14 +161,6 @@
       "onboard_time": 1714404260,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 781663,
-      "num": 228312,
-      "word": "突然发现2杯奶茶可以买一件衣服",
-      "onboard_time": 1714459818,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 728098,
@@ -216,6 +216,14 @@
       "word": "配娱癫公",
       "onboard_time": 1714406239,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 685314,
+      "num": 685314,
+      "word": "韩国电视台报道IVE国风争议",
+      "onboard_time": 1714460418,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -331,20 +339,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 536890,
+      "num": 536890,
+      "word": "霸州双甜",
+      "onboard_time": 1714457299,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 530465,
       "num": 302101,
       "word": "真正厉害的人都很擅长睡觉",
       "onboard_time": 1714442058,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 505949,
-      "num": 505949,
-      "word": "霸州双甜",
-      "onboard_time": 1714457299,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 486749,
@@ -483,11 +491,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 370115,
-      "num": 370115,
-      "word": "韩国电视台报道IVE国风争议",
-      "onboard_time": 1714460418,
+      "raw_hot": 371927,
+      "num": 371927,
+      "word": "直播神舟十七号回地球",
+      "onboard_time": 1714461739,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365814,
+      "num": 365814,
+      "word": "泉州文旅认证赵丽颖簪花出圈",
+      "onboard_time": 1714459038,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -579,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311584,
-      "num": 311584,
-      "word": "泉州文旅认证赵丽颖簪花出圈",
-      "onboard_time": 1714459038,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 310952,
       "num": 310952,
       "word": "颖儿说婚姻不是家暴的遮羞布",
@@ -651,6 +659,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272974,
+      "num": 272974,
+      "word": "二十届三中全会7月召开",
+      "onboard_time": 1714461798,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 271532,
+      "num": 271532,
+      "word": "秦海璐看上一条项链一年了都没买",
+      "onboard_time": 1714459217,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271121,
       "num": 199483,
       "word": "官方回应广东一外卖员雨中落水身亡",
@@ -697,6 +721,14 @@
       "onboard_time": 1714454537,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252160,
+      "num": 229262,
+      "word": "娜扎跳伞",
+      "onboard_time": 1714460659,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 251704,
@@ -763,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234310,
+      "num": 234310,
+      "word": "梁靖崑发博说我们沙特见",
+      "onboard_time": 1714461919,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234007,
       "num": 234007,
       "word": "刘涛秦海璐 无趣的内容有趣地聊",
@@ -787,14 +827,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 229571,
-      "num": 229571,
-      "word": "秦海璐看上一条项链一年了都没买",
-      "onboard_time": 1714459217,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 229126,
       "num": 195059,
       "word": "沈景病",
@@ -811,12 +843,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227471,
+      "num": 227471,
+      "word": "每天跑20分钟身体的变化",
+      "onboard_time": 1714462277,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 223640,
       "num": 223640,
       "word": "十个勤天说王阳是猛男具象化",
       "onboard_time": 1714450038,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222997,
+      "num": 222997,
+      "word": "迪丽热巴再唱主题曲",
+      "onboard_time": 1714462398,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221550,
+      "num": 221550,
+      "word": "辅导员秒批的20个请假理由",
+      "onboard_time": 1714461499,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 219530,
@@ -987,12 +1043,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191509,
+      "num": 196805,
+      "word": "WTT沙特大满贯",
+      "onboard_time": 1714461919,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191143,
       "num": 191143,
       "word": "艺人五月行程图",
       "onboard_time": 1714444578,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190118,
+      "num": 190118,
+      "word": "聚焦二十届三中全会",
+      "onboard_time": 1714461438,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 189068,
@@ -1041,14 +1113,6 @@
       "onboard_time": 1714454598,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 186098,
-      "num": 186098,
-      "word": "娜扎跳伞",
-      "onboard_time": 1714460659,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 186091,
@@ -1115,6 +1179,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 173741,
+      "num": 173741,
+      "word": "前有眼泪女王 现有背着善宰跑",
+      "onboard_time": 1714461617,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173626,
       "num": 143266,
       "word": "巧克力价格暴涨",
@@ -1129,6 +1201,14 @@
       "onboard_time": 1714438938,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172252,
+      "num": 172252,
+      "word": "天津市优化房地产调控政策",
+      "onboard_time": 1714462037,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171812,
@@ -1243,11 +1323,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155618,
+      "num": 155618,
+      "word": "五一假期去哪玩",
+      "onboard_time": 1714462277,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 154421,
       "num": 154421,
       "word": "我不善良遇强则强",
       "onboard_time": 1714407077,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153928,
+      "num": 153928,
+      "word": "莲花楼书卷一梦同一个导演",
+      "onboard_time": 1714461499,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1459,20 +1555,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138476,
+      "num": 138476,
+      "word": "无期迷途 开门",
+      "onboard_time": 1714460900,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137410,
       "num": 137410,
       "word": "KPL",
       "onboard_time": 1714452800,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 136783,
-      "num": 136783,
-      "word": "无期迷途 开门",
-      "onboard_time": 1714460900,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 136478,
@@ -1651,12 +1747,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118789,
-      "num": 118789,
-      "word": "聚焦二十届三中全会",
-      "onboard_time": 1714461438,
-      "rank": 44,
-      "category": "国内时政"
+      "raw_hot": 118633,
+      "num": 118633,
+      "word": "年轻人的相亲需求有多大",
+      "onboard_time": 1714461977,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 118600,
