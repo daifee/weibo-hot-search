@@ -1,0 +1,410 @@
+{
+  "runTime": 1714440863013,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1188122,
+        "num": 1188122,
+        "word": "放射科未给受检者穿防护服医疗机构被罚",
+        "onboard_time": 1714433537,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1161216,
+        "num": 1161216,
+        "word": "人鱼 没拍",
+        "onboard_time": 1714435398,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 8881,
+        "num": 890081,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853357,
+        "num": 853357,
+        "word": "日本物价为何突然暴涨",
+        "onboard_time": 1714437499,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 478237,
+        "num": 478237,
+        "word": "校方回应学生用完演出服后集体退货",
+        "onboard_time": 1714432996,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475382,
+        "num": 475382,
+        "word": "侯雯元首次在节目里提钟楚曦",
+        "onboard_time": 1714439657,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403892,
+        "num": 403892,
+        "word": "神十七顺利撤离空间站",
+        "onboard_time": 1714439718,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352366,
+        "num": 352366,
+        "word": "金秀贤金智媛一起切蛋糕",
+        "onboard_time": 1714436659,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328746,
+        "num": 328746,
+        "word": "刘宇宁自曝录hi6受伤",
+        "onboard_time": 1714404260,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133740,
+        "num": 327828,
+        "word": "百元实现榴莲自由的店给你们找到了",
+        "onboard_time": 1714439479,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 884913,
+        "num": 321621,
+        "word": "问界M7事故家属发声",
+        "onboard_time": 1714436058,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687462,
+        "num": 319490,
+        "word": "特斯拉市值一夜涨近6000亿",
+        "onboard_time": 1714432155,
+        "rank": 11,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 656989,
+        "num": 312814,
+        "word": "南宁霸凌",
+        "onboard_time": 1714438578,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431376,
+        "num": 308471,
+        "word": "徐艺洋是真不想给黄子韬名分",
+        "onboard_time": 1714377679,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348593,
+        "num": 304261,
+        "word": "猫肉被整只烧烤售卖",
+        "onboard_time": 1714397659,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303548,
+        "num": 303548,
+        "word": "警方回应女子逛夜市裙子上现不明液体",
+        "onboard_time": 1714408154,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273398,
+        "num": 273398,
+        "word": "病毒学家张永振已受聘广州一研究院",
+        "onboard_time": 1714439657,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261798,
+        "num": 261798,
+        "word": "内塔尼亚胡不停给拜登打电话",
+        "onboard_time": 1714434017,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 234509,
+        "num": 234509,
+        "word": "湖人vs掘金",
+        "onboard_time": 1714440499,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226900,
+        "num": 226900,
+        "word": "南京胖哥被初诊为PTSD",
+        "onboard_time": 1714397241,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662421,
+        "num": 225967,
+        "word": "怀孕以后为什么觉得老公巨臭无比",
+        "onboard_time": 1714438758,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312332,
+        "num": 225461,
+        "word": "自称刷了30万的榜一大哥和女主播街头冲突",
+        "onboard_time": 1714439837,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284461,
+        "num": 225004,
+        "word": "蓝莓会是下一个超级水果吗",
+        "onboard_time": 1714423029,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 222766,
+        "num": 222766,
+        "word": "以前人的手 现在人的手",
+        "onboard_time": 1714437318,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220537,
+        "num": 220537,
+        "word": "谭松韵去沙漠了",
+        "onboard_time": 1714434676,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211491,
+        "num": 211491,
+        "word": "歌手",
+        "onboard_time": 1714433235,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208126,
+        "num": 208126,
+        "word": "肖战晚宴的衣服穿到了机场",
+        "onboard_time": 1714440257,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206854,
+        "num": 206854,
+        "word": "童瑶问什么是亚比囧囧囧",
+        "onboard_time": 1714439359,
+        "rank": 27,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 202759,
+        "num": 202759,
+        "word": "iPhone的冷门实用功能",
+        "onboard_time": 1714437439,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192255,
+        "num": 192255,
+        "word": "朴志效租房者预告",
+        "onboard_time": 1714399402,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188961,
+        "num": 188961,
+        "word": "高颜值出圈华为前HR否认是下一个孟羽童",
+        "onboard_time": 1714432695,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184893,
+        "num": 184893,
+        "word": "配娱癫公",
+        "onboard_time": 1714406239,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166401,
+        "num": 166401,
+        "word": "冬天埋的小猫变成了小草",
+        "onboard_time": 1714437019,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159077,
+        "num": 159077,
+        "word": "女子直播时被失散32年的父亲认出",
+        "onboard_time": 1714392078,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158997,
+        "num": 158997,
+        "word": "刘涛秦海璐 无趣的内容有趣地聊",
+        "onboard_time": 1714408756,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157972,
+        "num": 157972,
+        "word": "五一抢票以失败告终",
+        "onboard_time": 1714440138,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157452,
+        "num": 157452,
+        "word": "为什么说龙系长相是天生演员",
+        "onboard_time": 1714433476,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149084,
+        "num": 149084,
+        "word": "张婧仪浴水照",
+        "onboard_time": 1714438938,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143599,
+        "num": 143599,
+        "word": "苗苗不愧是北舞严选",
+        "onboard_time": 1714395978,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141822,
+        "num": 141822,
+        "word": "这四种菜一定记得先焯水",
+        "onboard_time": 1714435939,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135670,
+        "num": 135670,
+        "word": "四月的最后一天",
+        "onboard_time": 1714440678,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135272,
+        "num": 135272,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1714437499,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134952,
+        "num": 134952,
+        "word": "庄洁妈妈 窒息",
+        "onboard_time": 1714398079,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132554,
+        "num": 132554,
+        "word": "赵乾景 特优声",
+        "onboard_time": 1714440077,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127153,
+        "num": 127153,
+        "word": "Hybe或将撤换闵熙珍",
+        "onboard_time": 1714435340,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122186,
+        "num": 122186,
+        "word": "沈景病",
+        "onboard_time": 1714397599,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112361,
+        "num": 118377,
+        "word": "上海人的春日松弛感是天生的",
+        "onboard_time": 1714438879,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 117091,
+        "num": 117091,
+        "word": "广东或再现龙卷风",
+        "onboard_time": 1714435218,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117081,
+        "num": 117081,
+        "word": "CCTV综艺放了赵丽颖簪花照",
+        "onboard_time": 1714399821,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116998,
+        "num": 116998,
+        "word": "洗脸不知这3个误区越洗皮肤越差",
+        "onboard_time": 1714434617,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#着力打造具有全球影响力的产业科技创新中心#"
+    }
+  }
+}
