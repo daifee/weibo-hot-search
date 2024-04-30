@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714462468878,
+  "endTime": 1714465381334,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2921,6 +2921,14 @@
       "onboard_time": 1712897599,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1379053,
+      "num": 994559,
+      "word": "下班",
+      "onboard_time": 1714463119,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 1378625,
@@ -7803,6 +7811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 868933,
+      "num": 279709,
+      "word": "突然发现2杯奶茶可以买一件衣服",
+      "onboard_time": 1714459818,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 868843,
       "num": 868843,
       "word": "福宝已开始在外场采食",
@@ -7993,14 +8009,6 @@
       "onboard_time": 1714346596,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 857147,
-      "num": 231294,
-      "word": "突然发现2杯奶茶可以买一件衣服",
-      "onboard_time": 1714459818,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 856714,
@@ -8673,6 +8681,14 @@
       "onboard_time": 1712828417,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 821998,
+      "num": 821998,
+      "word": "韩国电视台报道IVE国风争议",
+      "onboard_time": 1714460418,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 821922,
@@ -11849,14 +11865,6 @@
       "onboard_time": 1713941478,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 685314,
-      "num": 685314,
-      "word": "韩国电视台报道IVE国风争议",
-      "onboard_time": 1714460418,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 684718,
@@ -23515,6 +23523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 414799,
+      "num": 414799,
+      "word": "迪丽热巴 民国大小姐",
+      "onboard_time": 1714464198,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414453,
       "num": 414453,
       "word": "IU演唱会",
@@ -23809,6 +23825,14 @@
       "onboard_time": 1712272694,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 407584,
+      "num": 407584,
+      "word": "法拉第未来宣布退市",
+      "onboard_time": 1714459638,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 407491,
@@ -25995,6 +26019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374449,
+      "num": 374449,
+      "word": "泉州文旅认证赵丽颖簪花出圈",
+      "onboard_time": 1714459038,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374268,
       "num": 374268,
       "word": "涵艺爆料Tarzan加入WBG",
@@ -26545,14 +26577,6 @@
       "onboard_time": 1714267221,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365814,
-      "num": 365814,
-      "word": "泉州文旅认证赵丽颖簪花出圈",
-      "onboard_time": 1714459038,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 365735,
@@ -28931,6 +28955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 333204,
+      "num": 274112,
+      "word": "刘惜君身材比例",
+      "onboard_time": 1714462577,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333192,
       "num": 333192,
       "word": "吴镇宇回应费曼上热搜",
@@ -29257,6 +29289,14 @@
       "onboard_time": 1712581340,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 328608,
+      "num": 328608,
+      "word": "迪丽热巴再唱主题曲",
+      "onboard_time": 1714462398,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 328369,
@@ -32043,6 +32083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298165,
+      "num": 268068,
+      "word": "肖战水晶衣领",
+      "onboard_time": 1714464618,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 298159,
       "num": 298159,
       "word": "王者三丽鸥联动第二弹",
@@ -33473,6 +33521,14 @@
       "onboard_time": 1714011738,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 283478,
+      "num": 283478,
+      "word": "前有眼泪女王 现有背着善宰跑",
+      "onboard_time": 1714461617,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 283419,
@@ -36283,6 +36339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258975,
+      "num": 258975,
+      "word": "每天跑20分钟身体的变化",
+      "onboard_time": 1714462277,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 258950,
       "num": 258950,
       "word": "徐正溪或转型导演",
@@ -37236,7 +37300,7 @@
     },
     {
       "raw_hot": 252160,
-      "num": 229262,
+      "num": 235904,
       "word": "娜扎跳伞",
       "onboard_time": 1714460659,
       "rank": 28,
@@ -38417,6 +38481,14 @@
       "onboard_time": 1713689178,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244738,
+      "num": 210510,
+      "word": "梁靖崑说球拍在手信念在心",
+      "onboard_time": 1714463057,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 244579,
@@ -41451,14 +41523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227471,
-      "num": 227471,
-      "word": "每天跑20分钟身体的变化",
-      "onboard_time": 1714462277,
-      "rank": 23,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 227428,
       "num": 227428,
       "word": "守护甜心 审美降级",
@@ -42233,14 +42297,6 @@
       "onboard_time": 1712036180,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 222997,
-      "num": 222997,
-      "word": "迪丽热巴再唱主题曲",
-      "onboard_time": 1714462398,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 222913,
@@ -43491,6 +43547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216053,
+      "num": 216053,
+      "word": "背着善宰跑吻戏",
+      "onboard_time": 1714463478,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216020,
       "num": 208433,
       "word": "李梦23分",
@@ -44467,6 +44531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211247,
+      "num": 211247,
+      "word": "原神4.6版本",
+      "onboard_time": 1714104260,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211199,
       "num": 211199,
       "word": "半熟恋人",
@@ -44955,14 +45027,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 209650,
-      "num": 209650,
-      "word": "法拉第未来宣布退市",
-      "onboard_time": 1714459638,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 209636,
       "num": 209636,
       "word": "哈马斯领导人3个儿子在以方袭击中丧生",
@@ -45377,6 +45441,14 @@
       "onboard_time": 1712572099,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208437,
+      "num": 208437,
+      "word": "湖人 下赛季再见",
+      "onboard_time": 1714464319,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 208423,
@@ -48979,6 +49051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198562,
+      "num": 198562,
+      "word": "王楚钦评论梁靖崑",
+      "onboard_time": 1714464138,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198553,
       "num": 198553,
       "word": "蜜雪斌城cp",
@@ -49017,6 +49097,14 @@
       "onboard_time": 1714006399,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 198454,
+      "num": 198454,
+      "word": "邓为顺毛白衬衫",
+      "onboard_time": 1714464920,
+      "rank": 33,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 198446,
@@ -52915,14 +53003,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 188783,
-      "num": 188783,
-      "word": "原神4.6版本",
-      "onboard_time": 1714104260,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188760,
       "num": 188760,
       "word": "狼队对战AG",
@@ -54448,6 +54528,14 @@
       "word": "惜花芷转场",
       "onboard_time": 1712674879,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184787,
+      "num": 184787,
+      "word": "李一桐一番女主",
+      "onboard_time": 1714463418,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -57945,14 +58033,6 @@
       "onboard_time": 1712071459,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173741,
-      "num": 173741,
-      "word": "前有眼泪女王 现有背着善宰跑",
-      "onboard_time": 1714461617,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 173737,
@@ -62403,6 +62483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158540,
+      "num": 158540,
+      "word": "LPL赛区MSI宣传短片",
+      "onboard_time": 1714463898,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158505,
       "num": 158505,
       "word": "哪吒L价格",
@@ -62521,6 +62609,14 @@
       "onboard_time": 1713599779,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158198,
+      "num": 158198,
+      "word": "陈赫让我在电梯里颜面尽失",
+      "onboard_time": 1714462937,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 158194,
@@ -62841,6 +62937,14 @@
       "onboard_time": 1714216698,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157308,
+      "num": 157308,
+      "word": "原来KSG是这样学英语的",
+      "onboard_time": 1714464558,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 157293,
@@ -71195,6 +71299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133988,
+      "num": 133988,
+      "word": "迪丽热巴录音照",
+      "onboard_time": 1714463237,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133971,
       "num": 133971,
       "word": "王者自选史诗皮肤活动开启",
@@ -72499,6 +72611,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 130216,
+      "num": 130216,
+      "word": "打工人帮助打工人",
+      "onboard_time": 1714465338,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130178,
       "num": 130178,
       "word": "网易蛋仔派对被指诱导未成年人消费",
@@ -72649,6 +72769,14 @@
       "onboard_time": 1714096157,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129527,
+      "num": 129527,
+      "word": "背着善宰跑 纯爱剧",
+      "onboard_time": 1714464378,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 129517,
@@ -73113,6 +73241,14 @@
       "onboard_time": 1713223396,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128046,
+      "num": 128046,
+      "word": "Gumayusi国服ID小吕布",
+      "onboard_time": 1714462998,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 128038,
