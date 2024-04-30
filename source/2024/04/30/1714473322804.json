@@ -1,0 +1,410 @@
+{
+  "runTime": 1714473322804,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1427274,
+        "num": 1427274,
+        "word": "神十七成功着陆",
+        "onboard_time": 1714470738,
+        "rank": 0,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 1311347,
+        "num": 1311347,
+        "word": "下班",
+        "onboard_time": 1714463119,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25300,
+        "num": 1095807,
+        "word": "五一打卡锦绣中国",
+        "onboard_time": 1714447878,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 905148,
+        "num": 905148,
+        "word": "神十七载人飞行任务圆满成功",
+        "onboard_time": 1714471817,
+        "rank": 3,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 821769,
+        "num": 821769,
+        "word": "内娱顶级alpha",
+        "onboard_time": 1714468578,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 802317,
+        "num": 802317,
+        "word": "成毅 进组",
+        "onboard_time": 1714468698,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538942,
+        "num": 538942,
+        "word": "大学生投入3800元开店年入110万",
+        "onboard_time": 1714455498,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190991,
+        "num": 520567,
+        "word": "毕业季又被簪花学士帽惊艳到了",
+        "onboard_time": 1714470318,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 512142,
+        "num": 512142,
+        "word": "我刘涛一生清清白白",
+        "onboard_time": 1714459217,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504979,
+        "num": 504979,
+        "word": "直播神舟十七号回地球",
+        "onboard_time": 1714461739,
+        "rank": 9,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 130162,
+        "num": 469650,
+        "word": "杨幂的穿搭有点凡尔赛了",
+        "onboard_time": 1714468340,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 461586,
+        "num": 461586,
+        "word": "女子领证前发现男友出轨分手拒退彩礼",
+        "onboard_time": 1714455857,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77081,
+        "num": 454078,
+        "word": "她是北大同专业同级唯一坚持读到毕业",
+        "onboard_time": 1714446438,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452677,
+        "num": 452677,
+        "word": "因为天气取消了五一出游",
+        "onboard_time": 1714447099,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376148,
+        "num": 376148,
+        "word": "赴山海官宣",
+        "onboard_time": 1714469897,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343427,
+        "num": 343427,
+        "word": "天津取消户籍居民大户型限购",
+        "onboard_time": 1714465939,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342503,
+        "num": 342503,
+        "word": "刘涛的未修原图",
+        "onboard_time": 1714466778,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332434,
+        "num": 332434,
+        "word": "韩国电视台报道IVE国风争议",
+        "onboard_time": 1714460418,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 319546,
+        "num": 319546,
+        "word": "秦岚说花少5全阵容吓死你",
+        "onboard_time": 1714469717,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270080,
+        "num": 270080,
+        "word": "赴山海番位",
+        "onboard_time": 1714471756,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425156,
+        "num": 263619,
+        "word": "突然发现2杯奶茶可以买一件衣服",
+        "onboard_time": 1714459818,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253706,
+        "num": 253706,
+        "word": "男朋友第一次上门假装和狗子不熟",
+        "onboard_time": 1714468999,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235536,
+        "num": 235536,
+        "word": "刘耀文 不换搭档是有原因的",
+        "onboard_time": 1714468398,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233491,
+        "num": 233491,
+        "word": "孟子义首穿高定",
+        "onboard_time": 1714473197,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229684,
+        "num": 229684,
+        "word": "中医建议适合身体弱的工作",
+        "onboard_time": 1714466838,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223547,
+        "num": 223547,
+        "word": "神十七3名航天员报告感觉良好",
+        "onboard_time": 1714470617,
+        "rank": 25,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 221623,
+        "num": 221623,
+        "word": "曹恩齐 这个妹妹我曾在哪见过",
+        "onboard_time": 1714470856,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214889,
+        "num": 214889,
+        "word": "粽子商家有多卷",
+        "onboard_time": 1714471335,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 210746,
+        "num": 210746,
+        "word": "知情人称打开应急滑梯空姐已飞10年",
+        "onboard_time": 1714471157,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97353,
+        "num": 208996,
+        "word": "今天坚决不加班",
+        "onboard_time": 1714473256,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208462,
+        "num": 208462,
+        "word": "减肥应该吃甜玉米还是糯玉米",
+        "onboard_time": 1714469538,
+        "rank": 30,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 203190,
+        "num": 203190,
+        "word": "迪丽热巴 民国大小姐",
+        "onboard_time": 1714464198,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201735,
+        "num": 201735,
+        "word": "郑秀晶总裁出街",
+        "onboard_time": 1714468340,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 171597,
+        "num": 171597,
+        "word": "被关雪骗了",
+        "onboard_time": 1714466179,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165180,
+        "num": 165180,
+        "word": "内戏",
+        "onboard_time": 1714471458,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156947,
+        "num": 156947,
+        "word": "部落冲突 哈兰德",
+        "onboard_time": 1714472658,
+        "rank": 35,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 150705,
+        "num": 150705,
+        "word": "小楚乔是人鱼女主",
+        "onboard_time": 1714472538,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144956,
+        "num": 144956,
+        "word": "裴秀智朴宝剑wink贴脸",
+        "onboard_time": 1714469777,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133748,
+        "num": 133748,
+        "word": "凤凰传奇骂票",
+        "onboard_time": 1714452919,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133407,
+        "num": 133407,
+        "word": "赴山海",
+        "onboard_time": 1714467797,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133024,
+        "num": 133024,
+        "word": "杨幂藏蓝色短裙",
+        "onboard_time": 1714473136,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132365,
+        "num": 132365,
+        "word": "每天跑20分钟身体的变化",
+        "onboard_time": 1714462277,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 131906,
+        "num": 131906,
+        "word": "薛之谦乌鲁木齐售罄",
+        "onboard_time": 1714471698,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131683,
+        "num": 131683,
+        "word": "梁靖崑开通微博",
+        "onboard_time": 1714456939,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131127,
+        "num": 131127,
+        "word": "泉州文旅认证赵丽颖簪花出圈",
+        "onboard_time": 1714459038,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131030,
+        "num": 131030,
+        "word": "肖战水晶衣领",
+        "onboard_time": 1714464618,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130674,
+        "num": 130674,
+        "word": "只有i人才懂的偷感",
+        "onboard_time": 1714473076,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129616,
+        "num": 129616,
+        "word": "哈马斯与法塔赫在北京磋商",
+        "onboard_time": 1714465819,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122599,
+        "num": 122599,
+        "word": "华为一季度营收1784.5亿元",
+        "onboard_time": 1714473256,
+        "rank": 48,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 120824,
+        "num": 120824,
+        "word": "R1SE推荐赵磊上歌手",
+        "onboard_time": 1714456699,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会#"
+    }
+  }
+}
