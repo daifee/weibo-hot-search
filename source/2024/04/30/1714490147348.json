@@ -1,0 +1,410 @@
+{
+  "runTime": 1714490147348,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2293749,
+        "num": 2293749,
+        "word": "间谍窃取我国杂交水稻亲本种子",
+        "onboard_time": 1714487901,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1068773,
+        "num": 1068773,
+        "word": "税务局人员称家中三代都是税务工作者",
+        "onboard_time": 1714487300,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79964,
+        "num": 717723,
+        "word": "神十七航天员回家",
+        "onboard_time": 1714485139,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693153,
+        "num": 693153,
+        "word": "洁丽雅董事长谈儿子拍短剧出圈",
+        "onboard_time": 1714486219,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598498,
+        "num": 598498,
+        "word": "春色寄情人结局",
+        "onboard_time": 1714482558,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 568058,
+        "num": 568058,
+        "word": "昆山演唱会 全场喊退票",
+        "onboard_time": 1714489219,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 538965,
+        "num": 538965,
+        "word": "李佳琦现身人民日报论坛",
+        "onboard_time": 1714486758,
+        "rank": 6,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 326229,
+        "num": 507345,
+        "word": "李现周雨彤喉结吻",
+        "onboard_time": 1714483938,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294119,
+        "num": 507138,
+        "word": "成毅 进组",
+        "onboard_time": 1714468698,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105921,
+        "num": 507045,
+        "word": "毕业季又被簪花学士帽惊艳到了",
+        "onboard_time": 1714470318,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 506983,
+        "num": 506983,
+        "word": "纪凌尘 你别再演了",
+        "onboard_time": 1714488259,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490163,
+        "num": 490163,
+        "word": "内蒙古一服务区切糕切出1万2称按克卖",
+        "onboard_time": 1714478477,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254298,
+        "num": 463285,
+        "word": "2套房京籍家庭可在五环外新购1套房",
+        "onboard_time": 1714482379,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449392,
+        "num": 449392,
+        "word": "大麻合法化后的泰国",
+        "onboard_time": 1714475238,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 296136,
+        "num": 296136,
+        "word": "研究生女孩健身10年练出8块腹肌",
+        "onboard_time": 1714478418,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 294930,
+        "num": 294930,
+        "word": "猫 不许拍",
+        "onboard_time": 1714487478,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273471,
+        "num": 273471,
+        "word": "阿沁称不排斥和詹雯婷合体",
+        "onboard_time": 1714488980,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234872,
+        "num": 234872,
+        "word": "支付宝回应用户网购保险被远程录屏",
+        "onboard_time": 1714483458,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 229467,
+        "num": 229467,
+        "word": "人鱼",
+        "onboard_time": 1714489641,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203619,
+        "num": 203619,
+        "word": "庆余年第二季过审下证",
+        "onboard_time": 1714476377,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 676055,
+        "num": 203596,
+        "word": "美国流浪汉当街啃人脸吃眼球和耳朵",
+        "onboard_time": 1714484538,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531511,
+        "num": 202739,
+        "word": "月经乱来16年竟查出癌前病变",
+        "onboard_time": 1714476257,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 330957,
+        "num": 202359,
+        "word": "原来跑男早就预言了退出的人",
+        "onboard_time": 1714489460,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244829,
+        "num": 201747,
+        "word": "孙千腹肌照",
+        "onboard_time": 1714487478,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242545,
+        "num": 200806,
+        "word": "城中之城 赵辉跳楼",
+        "onboard_time": 1714488859,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239295,
+        "num": 200720,
+        "word": "突然发现2杯奶茶可以买一件衣服",
+        "onboard_time": 1714459818,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187716,
+        "num": 200116,
+        "word": "汤姆斯杯中国3比2韩国",
+        "onboard_time": 1714489460,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199679,
+        "num": 199679,
+        "word": "赴山海官宣",
+        "onboard_time": 1714469897,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227863,
+        "num": 199230,
+        "word": "和死对头吵架突然亲我一口",
+        "onboard_time": 1714485740,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41125,
+        "num": 191765,
+        "word": "蛋搭子的贴贴日常",
+        "onboard_time": 1714487000,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189430,
+        "num": 189430,
+        "word": "张韶涵昆山演唱会",
+        "onboard_time": 1714489041,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182407,
+        "num": 182407,
+        "word": "苗苗乘风一公幕后vlog",
+        "onboard_time": 1714483818,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182237,
+        "num": 182237,
+        "word": "李现下一部剧是国色芳华",
+        "onboard_time": 1714489641,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176431,
+        "num": 176431,
+        "word": "韩网评IVE国风争议",
+        "onboard_time": 1714477217,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173657,
+        "num": 173657,
+        "word": "张萌泳装身材",
+        "onboard_time": 1714490000,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170980,
+        "num": 170980,
+        "word": "香港顶流姜涛过生日",
+        "onboard_time": 1714477877,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169130,
+        "num": 169130,
+        "word": "医生让你查幽门螺旋杆菌是真想救你",
+        "onboard_time": 1714489279,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168513,
+        "num": 168513,
+        "word": "大学生投入3800元开店年入110万",
+        "onboard_time": 1714455498,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163615,
+        "num": 163615,
+        "word": "背着善宰跑第八集",
+        "onboard_time": 1714485199,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162640,
+        "num": 162640,
+        "word": "那英说张颂文唱歌很难评",
+        "onboard_time": 1714486219,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162559,
+        "num": 162559,
+        "word": "堵车",
+        "onboard_time": 1714480578,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148393,
+        "num": 148393,
+        "word": "SEVENTEEN团魂",
+        "onboard_time": 1714487179,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146913,
+        "num": 146913,
+        "word": "春色寄情人微博开分8.9",
+        "onboard_time": 1714482797,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145134,
+        "num": 145134,
+        "word": "喝水后出现4种异常或是肾脏在求救",
+        "onboard_time": 1714482079,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142612,
+        "num": 142612,
+        "word": "拜仁vs皇马",
+        "onboard_time": 1714488501,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136431,
+        "num": 136431,
+        "word": "李健昆山演唱会",
+        "onboard_time": 1714487960,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135829,
+        "num": 135829,
+        "word": "珠海冰雹",
+        "onboard_time": 1714483218,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125709,
+        "num": 125709,
+        "word": "5月十二星座注意事项",
+        "onboard_time": 1714478237,
+        "rank": 47,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 118172,
+        "num": 118172,
+        "word": "为什么听到父母的关心会烦躁",
+        "onboard_time": 1714485018,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118028,
+        "num": 118028,
+        "word": "学生低价在飞猪上订房遭强制退房",
+        "onboard_time": 1714482619,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会#"
+    }
+  }
+}

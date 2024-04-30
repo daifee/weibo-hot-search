@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714487667178,
+  "endTime": 1714490147348,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -49,6 +49,14 @@
       "onboard_time": 1714260315,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2293749,
+      "num": 2293749,
+      "word": "间谍窃取我国杂交水稻亲本种子",
+      "onboard_time": 1714487901,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2181236,
@@ -545,6 +553,14 @@
       "onboard_time": 1714381819,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1068773,
+      "num": 1068773,
+      "word": "税务局人员称家中三代都是税务工作者",
+      "onboard_time": 1714487300,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1065790,
@@ -1203,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 693153,
+      "num": 693153,
+      "word": "洁丽雅董事长谈儿子拍短剧出圈",
+      "onboard_time": 1714486219,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690988,
       "num": 559424,
       "word": "秦岚早期长发照片",
@@ -1288,14 +1312,6 @@
       "word": "自称刷了30万的榜一大哥和女主播街头冲突",
       "onboard_time": 1714439837,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 666614,
-      "num": 236485,
-      "word": "洁丽雅董事长谈儿子拍短剧出圈",
-      "onboard_time": 1714486219,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1627,6 +1643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 568058,
+      "num": 568058,
+      "word": "昆山演唱会 全场喊退票",
+      "onboard_time": 1714489219,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 566748,
       "num": 566748,
       "word": "性格决定上班劳累程度",
@@ -1689,6 +1713,14 @@
       "onboard_time": 1714376538,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 538965,
+      "num": 538965,
+      "word": "李佳琦现身人民日报论坛",
+      "onboard_time": 1714486758,
+      "rank": 16,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 537311,
@@ -1873,6 +1905,14 @@
       "onboard_time": 1714284498,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 506983,
+      "num": 506983,
+      "word": "纪凌尘 你别再演了",
+      "onboard_time": 1714488259,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 506978,
@@ -2076,7 +2116,7 @@
     },
     {
       "raw_hot": 465977,
-      "num": 465977,
+      "num": 507345,
       "word": "李现周雨彤喉结吻",
       "onboard_time": 1714483938,
       "rank": 42,
@@ -2787,14 +2827,6 @@
       "category": "国内时政,科学科普"
     },
     {
-      "raw_hot": 349332,
-      "num": 233160,
-      "word": "李佳琦现身人民日报论坛",
-      "onboard_time": 1714486758,
-      "rank": 16,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 343925,
       "num": 319352,
       "word": "刘耀文空降",
@@ -2888,6 +2920,14 @@
       "word": "李菲儿抢走了赵奕欢的一个搭档",
       "onboard_time": 1714226900,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 330957,
+      "num": 202359,
+      "word": "原来跑男早就预言了退出的人",
+      "onboard_time": 1714489460,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -3259,6 +3299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 294930,
+      "num": 294930,
+      "word": "猫 不许拍",
+      "onboard_time": 1714487478,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 293518,
       "num": 293518,
       "word": "久坐1小时肌肉就开始出现结节",
@@ -3425,6 +3473,14 @@
       "onboard_time": 1714309518,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 273471,
+      "num": 273471,
+      "word": "阿沁称不排斥和詹雯婷合体",
+      "onboard_time": 1714488980,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 272974,
@@ -3875,6 +3931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244829,
+      "num": 201747,
+      "word": "孙千腹肌照",
+      "onboard_time": 1714487478,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244738,
       "num": 210510,
       "word": "梁靖崑说球拍在手信念在心",
@@ -3937,6 +4001,14 @@
       "onboard_time": 1714297758,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242545,
+      "num": 200806,
+      "word": "城中之城 赵辉跳楼",
+      "onboard_time": 1714488859,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 242307,
@@ -4131,6 +4203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229467,
+      "num": 229467,
+      "word": "人鱼",
+      "onboard_time": 1714489641,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 229129,
       "num": 229129,
       "word": "赵丽颖围炉煮茶随拍",
@@ -4289,14 +4369,6 @@
       "onboard_time": 1714300638,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 219490,
-      "num": 219490,
-      "word": "税务局人员称家中三代都是税务工作者",
-      "onboard_time": 1714487300,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219425,
@@ -5395,6 +5467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 189430,
+      "num": 189430,
+      "word": "张韶涵昆山演唱会",
+      "onboard_time": 1714489041,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189399,
       "num": 189399,
       "word": "群星闪耀时",
@@ -5497,6 +5577,14 @@
       "onboard_time": 1714391959,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187716,
+      "num": 200116,
+      "word": "汤姆斯杯中国3比2韩国",
+      "onboard_time": 1714489460,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 187552,
@@ -5739,6 +5827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182237,
+      "num": 182237,
+      "word": "李现下一部剧是国色芳华",
+      "onboard_time": 1714489641,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181889,
       "num": 181889,
       "word": "周鸿祎回应拍卖迈巴赫600",
@@ -5971,6 +6067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173657,
+      "num": 173657,
+      "word": "张萌泳装身材",
+      "onboard_time": 1714490000,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173626,
       "num": 143266,
       "word": "巧克力价格暴涨",
@@ -6121,6 +6225,14 @@
       "onboard_time": 1714450279,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169130,
+      "num": 169130,
+      "word": "医生让你查幽门螺旋杆菌是真想救你",
+      "onboard_time": 1714489279,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 168036,
@@ -7099,6 +7211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142612,
+      "num": 142612,
+      "word": "拜仁vs皇马",
+      "onboard_time": 1714488501,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141413,
       "num": 141413,
       "word": "浓眉受伤",
@@ -7169,14 +7289,6 @@
       "onboard_time": 1714370538,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139515,
-      "num": 139515,
-      "word": "孙千腹肌照",
-      "onboard_time": 1714487478,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 139455,
@@ -7265,6 +7377,14 @@
       "onboard_time": 1714458797,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 136431,
+      "num": 136431,
+      "word": "李健昆山演唱会",
+      "onboard_time": 1714487960,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 136401,
@@ -7915,14 +8035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 119637,
-      "num": 119637,
-      "word": "猫 不许拍",
-      "onboard_time": 1714487478,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119590,
       "num": 790569,
       "word": "五一公路出行将呈现五大特点",
@@ -8515,20 +8627,20 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 79964,
+      "num": 717723,
+      "word": "神十七航天员回家",
+      "onboard_time": 1714485139,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78802,
       "num": 78802,
       "word": "周雨彤皮衣造型",
       "onboard_time": 1714322055,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 77903,
-      "num": 572128,
-      "word": "神十七航天员回家",
-      "onboard_time": 1714485139,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77101,
