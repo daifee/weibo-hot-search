@@ -1,6 +1,6 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714459022658,
+  "endTime": 1714461461416,
   "band_list": [
     {
       "raw_hot": 2517358,
@@ -32,6 +32,14 @@
       "word": "东航一客机因机组成员矛盾应急滑梯放出",
       "onboard_time": 1714451781,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1469258,
+      "num": 1469258,
+      "word": "女子领证前发现男友出轨分手拒退彩礼",
+      "onboard_time": 1714455857,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -67,20 +75,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1281599,
-      "num": 1281599,
-      "word": "女子领证前发现男友出轨分手拒退彩礼",
-      "onboard_time": 1714455857,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1269205,
       "num": 380436,
       "word": "徐艺洋是真不想给黄子韬名分",
       "onboard_time": 1714377679,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1236725,
+      "num": 1236725,
+      "word": "大学生投入3800元开店年入110万",
+      "onboard_time": 1714455498,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1207222,
@@ -107,20 +115,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1062875,
+      "num": 1062875,
+      "word": "我刘涛一生清清白白",
+      "onboard_time": 1714459217,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1047296,
       "num": 1047296,
       "word": "歌手 伯远",
       "onboard_time": 1714446557,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 928434,
-      "num": 928434,
-      "word": "大学生投入3800元开店年入110万",
-      "onboard_time": 1714455498,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 903939,
@@ -145,6 +153,14 @@
       "onboard_time": 1714404260,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 781663,
+      "num": 228312,
+      "word": "突然发现2杯奶茶可以买一件衣服",
+      "onboard_time": 1714459818,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 728098,
@@ -307,12 +323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537311,
+      "num": 537311,
+      "word": "梁靖崑先关注王楚钦",
+      "onboard_time": 1714457179,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 530465,
       "num": 302101,
       "word": "真正厉害的人都很擅长睡觉",
       "onboard_time": 1714442058,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 505949,
+      "num": 505949,
+      "word": "霸州双甜",
+      "onboard_time": 1714457299,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 486749,
@@ -451,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370115,
+      "num": 370115,
+      "word": "韩国电视台报道IVE国风争议",
+      "onboard_time": 1714460418,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359654,
       "num": 359654,
       "word": "书卷一梦 番位",
@@ -473,14 +513,6 @@
       "onboard_time": 1714434017,
       "rank": 6,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 354223,
-      "num": 354223,
-      "word": "梁靖崑先关注王楚钦",
-      "onboard_time": 1714457179,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 354111,
@@ -539,6 +571,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314467,
+      "num": 314467,
+      "word": "东航就滑梯释放事件致歉",
+      "onboard_time": 1714459457,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311584,
+      "num": 311584,
+      "word": "泉州文旅认证赵丽颖簪花出圈",
+      "onboard_time": 1714459038,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310952,
       "num": 310952,
       "word": "颖儿说婚姻不是家暴的遮羞布",
@@ -561,14 +609,6 @@
       "onboard_time": 1714432695,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293111,
-      "num": 293111,
-      "word": "霸州双甜",
-      "onboard_time": 1714457299,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 290815,
@@ -628,7 +668,7 @@
     },
     {
       "raw_hot": 269816,
-      "num": 222012,
+      "num": 224793,
       "word": "这4种尴尬生理反应其实很正常",
       "onboard_time": 1714456277,
       "rank": 22,
@@ -747,6 +787,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 229571,
+      "num": 229571,
+      "word": "秦海璐看上一条项链一年了都没买",
+      "onboard_time": 1714459217,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229126,
       "num": 195059,
       "word": "沈景病",
@@ -801,6 +849,22 @@
       "onboard_time": 1714442597,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209650,
+      "num": 209650,
+      "word": "法拉第未来宣布退市",
+      "onboard_time": 1714459638,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 209375,
+      "num": 209375,
+      "word": "男孩真的无法共情妈妈吗",
+      "onboard_time": 1714456518,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 207497,
@@ -907,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196377,
+      "num": 196377,
+      "word": "官方回应蔡依林坐轻轨监控流出",
+      "onboard_time": 1714456817,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195019,
       "num": 195019,
       "word": "城市很热闹 但我的麦子熟了",
@@ -921,6 +993,14 @@
       "onboard_time": 1714444578,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189068,
+      "num": 189068,
+      "word": "间谍过家家",
+      "onboard_time": 1714460239,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 188864,
@@ -963,6 +1043,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186098,
+      "num": 186098,
+      "word": "娜扎跳伞",
+      "onboard_time": 1714460659,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186091,
+      "num": 186091,
+      "word": "黄子韬向佐大理跳水",
+      "onboard_time": 1714460357,
+      "rank": 29,
+      "category": "演出,艺人"
+    },
+    {
       "raw_hot": 186002,
       "num": 186002,
       "word": "十二封信",
@@ -979,28 +1075,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 181130,
-      "num": 176265,
-      "word": "官方回应蔡依林坐轻轨监控流出",
-      "onboard_time": 1714456817,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 180644,
       "num": 180644,
       "word": "国际不打小孩日",
       "onboard_time": 1714432395,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180179,
-      "num": 180179,
-      "word": "男孩真的无法共情妈妈吗",
-      "onboard_time": 1714456518,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 179022,
@@ -1155,6 +1235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157453,
+      "num": 157453,
+      "word": "十二封信阵容官宣",
+      "onboard_time": 1714459098,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154421,
       "num": 154421,
       "word": "我不善良遇强则强",
@@ -1193,6 +1281,14 @@
       "onboard_time": 1714437499,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151427,
+      "num": 151427,
+      "word": "一半大学生对宿舍不满意",
+      "onboard_time": 1714459519,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151081,
@@ -1283,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144454,
+      "num": 144454,
+      "word": "王楚钦连续七周世界第一",
+      "onboard_time": 1714456518,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144342,
       "num": 383466,
       "word": "百元实现榴莲自由的店给你们找到了",
@@ -1323,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141067,
+      "num": 141067,
+      "word": "谁能救救五一回家的大学生",
+      "onboard_time": 1714460777,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140870,
       "num": 156456,
       "word": "为什么肥胖纹有红色和白色两种",
@@ -1355,6 +1467,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136783,
+      "num": 136783,
+      "word": "无期迷途 开门",
+      "onboard_time": 1714460900,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 136478,
+      "num": 136478,
+      "word": "特斯拉一夜涨出一个比亚迪",
+      "onboard_time": 1714458797,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 135670,
       "num": 135670,
       "word": "四月的最后一天",
@@ -1377,6 +1505,14 @@
       "onboard_time": 1714444399,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134952,
+      "num": 134952,
+      "word": "五一美甲",
+      "onboard_time": 1714460059,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 134558,
@@ -1515,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118789,
+      "num": 118789,
+      "word": "聚焦二十届三中全会",
+      "onboard_time": 1714461438,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 118600,
       "num": 118600,
       "word": "Gucci把肖战写入简介",
@@ -1547,14 +1691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108582,
-      "num": 108582,
-      "word": "特斯拉一夜涨出一个比亚迪",
-      "onboard_time": 1714458797,
-      "rank": 40,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 103321,
       "num": 132188,
       "word": "初中女生被多人欺负殴打8人被行拘",
@@ -1563,12 +1699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103087,
-      "num": 103087,
-      "word": "王楚钦连续七周世界第一",
-      "onboard_time": 1714456518,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 102108,
+      "num": 102108,
+      "word": "时光代理人 纪念海报公开",
+      "onboard_time": 1714460178,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 101870,

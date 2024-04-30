@@ -1,0 +1,410 @@
+{
+  "runTime": 1714461461416,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1469258,
+        "num": 1469258,
+        "word": "女子领证前发现男友出轨分手拒退彩礼",
+        "onboard_time": 1714455857,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1236725,
+        "num": 1236725,
+        "word": "大学生投入3800元开店年入110万",
+        "onboard_time": 1714455498,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39191,
+        "num": 1125999,
+        "word": "五一打卡锦绣中国",
+        "onboard_time": 1714447878,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1106452,
+        "num": 1106452,
+        "word": "因为天气取消了五一出游",
+        "onboard_time": 1714447099,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1062875,
+        "num": 1062875,
+        "word": "我刘涛一生清清白白",
+        "onboard_time": 1714459217,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 728324,
+        "num": 728324,
+        "word": "凤凰传奇骂票",
+        "onboard_time": 1714452919,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 678175,
+        "num": 678175,
+        "word": "东航一客机因机组成员矛盾应急滑梯放出",
+        "onboard_time": 1714451781,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642312,
+        "num": 642312,
+        "word": "梁靖崑开通微博",
+        "onboard_time": 1714456939,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 537311,
+        "num": 537311,
+        "word": "梁靖崑先关注王楚钦",
+        "onboard_time": 1714457179,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190710,
+        "num": 518340,
+        "word": "她是北大同专业同级唯一坚持读到毕业",
+        "onboard_time": 1714446438,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505949,
+        "num": 505949,
+        "word": "霸州双甜",
+        "onboard_time": 1714457299,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378698,
+        "num": 378698,
+        "word": "大爷称年轻人不允许享受下铺",
+        "onboard_time": 1714448779,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370115,
+        "num": 370115,
+        "word": "韩国电视台报道IVE国风争议",
+        "onboard_time": 1714460418,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314467,
+        "num": 314467,
+        "word": "东航就滑梯释放事件致歉",
+        "onboard_time": 1714459457,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311584,
+        "num": 311584,
+        "word": "泉州文旅认证赵丽颖簪花出圈",
+        "onboard_time": 1714459038,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302044,
+        "num": 302044,
+        "word": "凯特王妃",
+        "onboard_time": 1714441698,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256916,
+        "num": 256916,
+        "word": "NewJeans投入了161亿韩元资本金",
+        "onboard_time": 1714455917,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254701,
+        "num": 254701,
+        "word": "R1SE推荐赵磊上歌手",
+        "onboard_time": 1714456699,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229571,
+        "num": 229571,
+        "word": "秦海璐看上一条项链一年了都没买",
+        "onboard_time": 1714459217,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228780,
+        "num": 228780,
+        "word": "机票跳水",
+        "onboard_time": 1714449139,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 781663,
+        "num": 228312,
+        "word": "突然发现2杯奶茶可以买一件衣服",
+        "onboard_time": 1714459818,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 433480,
+        "num": 226726,
+        "word": "王俊凯王源工作室logo相似",
+        "onboard_time": 1714450819,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224793,
+        "num": 224793,
+        "word": "这4种尴尬生理反应其实很正常",
+        "onboard_time": 1714456277,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209650,
+        "num": 209650,
+        "word": "法拉第未来宣布退市",
+        "onboard_time": 1714459638,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 209375,
+        "num": 209375,
+        "word": "男孩真的无法共情妈妈吗",
+        "onboard_time": 1714456518,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199215,
+        "num": 199215,
+        "word": "秦海璐说想王安宇了",
+        "onboard_time": 1714455739,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196377,
+        "num": 196377,
+        "word": "官方回应蔡依林坐轻轨监控流出",
+        "onboard_time": 1714456817,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189068,
+        "num": 189068,
+        "word": "间谍过家家",
+        "onboard_time": 1714460239,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186098,
+        "num": 186098,
+        "word": "娜扎跳伞",
+        "onboard_time": 1714460659,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186091,
+        "num": 186091,
+        "word": "黄子韬向佐大理跳水",
+        "onboard_time": 1714460357,
+        "rank": 29,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 176855,
+        "num": 176855,
+        "word": "老人在自家别墅踩空电梯不幸身亡",
+        "onboard_time": 1714441878,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163974,
+        "num": 163974,
+        "word": "簪花",
+        "onboard_time": 1714452919,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 158114,
+        "num": 158114,
+        "word": "林高远进入国乒15年了",
+        "onboard_time": 1714458019,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157453,
+        "num": 157453,
+        "word": "十二封信阵容官宣",
+        "onboard_time": 1714459098,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151427,
+        "num": 151427,
+        "word": "一半大学生对宿舍不满意",
+        "onboard_time": 1714459519,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144454,
+        "num": 144454,
+        "word": "王楚钦连续七周世界第一",
+        "onboard_time": 1714456518,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143497,
+        "num": 143497,
+        "word": "歌手 伯远",
+        "onboard_time": 1714446557,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141067,
+        "num": 141067,
+        "word": "谁能救救五一回家的大学生",
+        "onboard_time": 1714460777,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137487,
+        "num": 137487,
+        "word": "张翰贴脸开大秦岚",
+        "onboard_time": 1714457119,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137226,
+        "num": 137226,
+        "word": "吴镇宇 金莎退休吧他养你了",
+        "onboard_time": 1714454537,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136783,
+        "num": 136783,
+        "word": "无期迷途 开门",
+        "onboard_time": 1714460900,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136478,
+        "num": 136478,
+        "word": "特斯拉一夜涨出一个比亚迪",
+        "onboard_time": 1714458797,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 134952,
+        "num": 134952,
+        "word": "五一美甲",
+        "onboard_time": 1714460059,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 127653,
+        "num": 127653,
+        "word": "电视剧人鱼官宣开机",
+        "onboard_time": 1714448357,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118789,
+        "num": 118789,
+        "word": "聚焦二十届三中全会",
+        "onboard_time": 1714461438,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118363,
+        "num": 118363,
+        "word": "颖儿说婚姻不是家暴的遮羞布",
+        "onboard_time": 1714447878,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117844,
+        "num": 117844,
+        "word": "秦岚早期长发照片",
+        "onboard_time": 1714447397,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113686,
+        "num": 113686,
+        "word": "蔡依林坐轻轨彩排监控流出",
+        "onboard_time": 1714456578,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108405,
+        "num": 108405,
+        "word": "向太骨折李连杰携女儿看望",
+        "onboard_time": 1714451240,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102108,
+        "num": 102108,
+        "word": "时光代理人 纪念海报公开",
+        "onboard_time": 1714460178,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席访欧将为世界和平发展注入新动能#"
+    }
+  }
+}
