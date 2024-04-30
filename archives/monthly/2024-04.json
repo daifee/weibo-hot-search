@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714469711098,
+  "endTime": 1714472367491,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2275,6 +2275,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 1520607,
+      "num": 1056502,
+      "word": "下班",
+      "onboard_time": 1714463119,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1519616,
       "num": 1519616,
       "word": "zara包",
@@ -2449,14 +2457,6 @@
       "onboard_time": 1712794939,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1484376,
-      "num": 994559,
-      "word": "下班",
-      "onboard_time": 1714463119,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 1484049,
@@ -5363,6 +5363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1060883,
+      "num": 1060883,
+      "word": "直播神舟十七号回地球",
+      "onboard_time": 1714461739,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1060663,
       "num": 1060663,
       "word": "于正回应郝蕾怒批赵晴",
@@ -5540,7 +5548,7 @@
     },
     {
       "raw_hot": 1046508,
-      "num": 760603,
+      "num": 933577,
       "word": "成毅 进组",
       "onboard_time": 1714468698,
       "rank": 30,
@@ -5617,6 +5625,14 @@
       "onboard_time": 1713839960,
       "rank": 4,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 1040824,
+      "num": 1040824,
+      "word": "神十七成功着陆",
+      "onboard_time": 1714470738,
+      "rank": 3,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 1039636,
@@ -10595,6 +10611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 731415,
+      "num": 731415,
+      "word": "内娱顶级alpha",
+      "onboard_time": 1714468578,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 731259,
       "num": 731259,
       "word": "本周狗屎运最旺的星座TOP4",
@@ -14497,14 +14521,6 @@
       "onboard_time": 1714174876,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 599472,
-      "num": 599472,
-      "word": "直播神舟十七号回地球",
-      "onboard_time": 1714461739,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 599420,
@@ -25171,6 +25187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 387706,
+      "num": 387706,
+      "word": "赴山海官宣",
+      "onboard_time": 1714469897,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387610,
       "num": 387610,
       "word": "每个研究生身上都有导师的影子",
@@ -25713,6 +25737,14 @@
       "onboard_time": 1713684079,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 379931,
+      "num": 351320,
+      "word": "刘涛的未修原图",
+      "onboard_time": 1714466778,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 379783,
@@ -26785,14 +26817,6 @@
       "onboard_time": 1712387058,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 362964,
-      "num": 362964,
-      "word": "内娱顶级alpha",
-      "onboard_time": 1714468578,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 362889,
@@ -27905,14 +27929,6 @@
       "onboard_time": 1712752819,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 349429,
-      "num": 349429,
-      "word": "刘涛的未修原图",
-      "onboard_time": 1714466778,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 349232,
@@ -29145,6 +29161,14 @@
       "onboard_time": 1712400319,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332398,
+      "num": 566398,
+      "word": "神十七载人飞行任务圆满成功",
+      "onboard_time": 1714471817,
+      "rank": 8,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 332244,
@@ -30449,6 +30473,14 @@
       "onboard_time": 1714097478,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 316115,
+      "num": 316115,
+      "word": "神十七3名航天员报告感觉良好",
+      "onboard_time": 1714470617,
+      "rank": 18,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 316061,
@@ -32753,6 +32785,14 @@
       "onboard_time": 1713085758,
       "rank": 19,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 292160,
+      "num": 292160,
+      "word": "秦岚说花少5全阵容吓死你",
+      "onboard_time": 1714469717,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 292054,
@@ -36827,6 +36867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 256070,
+      "num": 256070,
+      "word": "粽子商家有多卷",
+      "onboard_time": 1714471335,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 256053,
       "num": 273564,
       "word": "詹姆斯曾要求湖人交易威少",
@@ -37033,6 +37081,14 @@
       "onboard_time": 1711950681,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254294,
+      "num": 254294,
+      "word": "男朋友第一次上门假装和狗子不熟",
+      "onboard_time": 1714468999,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 254246,
@@ -40705,14 +40761,6 @@
       "onboard_time": 1712657841,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 232270,
-      "num": 232270,
-      "word": "男朋友第一次上门假装和狗子不熟",
-      "onboard_time": 1714468999,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 232261,
@@ -44547,6 +44595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211845,
+      "num": 211845,
+      "word": "知情人称打开应急滑梯空姐已飞10年",
+      "onboard_time": 1714471157,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211835,
       "num": 211835,
       "word": "林更新工作室发了粉丝P的图",
@@ -46123,6 +46179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206665,
+      "num": 206665,
+      "word": "赴山海番位",
+      "onboard_time": 1714471756,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206625,
       "num": 206625,
       "word": "快船打爆太阳",
@@ -46985,6 +47049,14 @@
       "onboard_time": 1712988497,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204197,
+      "num": 204197,
+      "word": "薛之谦乌鲁木齐售罄",
+      "onboard_time": 1714471698,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 204191,
@@ -47897,6 +47969,14 @@
       "onboard_time": 1713669858,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201899,
+      "num": 201899,
+      "word": "减肥应该吃甜玉米还是糯玉米",
+      "onboard_time": 1714469538,
+      "rank": 46,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 201887,
@@ -49625,6 +49705,14 @@
       "onboard_time": 1712375958,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197292,
+      "num": 197292,
+      "word": "曹恩齐 这个妹妹我曾在哪见过",
+      "onboard_time": 1714470856,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197268,
@@ -53579,6 +53667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187547,
+      "num": 577926,
+      "word": "毕业季又被簪花学士帽惊艳到了",
+      "onboard_time": 1714470318,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 187542,
       "num": 187542,
       "word": "咸蛋家",
@@ -55313,6 +55409,14 @@
       "onboard_time": 1712805197,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183189,
+      "num": 183189,
+      "word": "神十七3名航天员状态正常",
+      "onboard_time": 1714470439,
+      "rank": 35,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 183186,
@@ -57561,6 +57665,14 @@
       "onboard_time": 1712456477,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 175578,
+      "num": 175578,
+      "word": "内戏",
+      "onboard_time": 1714471458,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175562,
@@ -63771,6 +63883,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 155398,
+      "num": 155398,
+      "word": "五一洛阳神仙都出来营业了",
+      "onboard_time": 1714471638,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155392,
       "num": 155392,
       "word": "朴综星吉他弹奏ILLIT歌曲",
@@ -64105,6 +64225,14 @@
       "onboard_time": 1712907199,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154153,
+      "num": 154153,
+      "word": "赴山海 播出平台排名不分先后",
+      "onboard_time": 1714470917,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 154139,
@@ -67185,6 +67313,14 @@
       "onboard_time": 1712835498,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 146527,
+      "num": 146527,
+      "word": "裴秀智朴宝剑wink贴脸",
+      "onboard_time": 1714469777,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 146520,
@@ -73987,14 +74123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126066,
-      "num": 126066,
-      "word": "减肥应该吃甜玉米还是糯玉米",
-      "onboard_time": 1714469538,
-      "rank": 46,
-      "category": "美食,健康医疗"
-    },
-    {
       "raw_hot": 126050,
       "num": 159027,
       "word": "清明假期最后一天",
@@ -75897,6 +76025,14 @@
       "onboard_time": 1713936318,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 119143,
+      "num": 501854,
+      "word": "杨幂的穿搭有点凡尔赛了",
+      "onboard_time": 1714468340,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 119126,
@@ -84217,14 +84353,6 @@
       "onboard_time": 1712140880,
       "rank": 38,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 34341,
-      "num": 412065,
-      "word": "杨幂的穿搭有点凡尔赛了",
-      "onboard_time": 1714468340,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 34213,
