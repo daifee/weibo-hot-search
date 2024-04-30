@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714509360307,
+  "endTime": 1714511896332,
   "band_list": [
     {
       "raw_hot": 1695633,
@@ -139,6 +139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 239608,
+      "num": 239608,
+      "word": "深圳天气",
+      "onboard_time": 1714492759,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236351,
       "num": 236351,
       "word": "网传江苏宿迁禁止打印店打印控告材料",
@@ -179,8 +187,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169723,
-      "num": 169723,
+      "raw_hot": 173009,
+      "num": 173009,
       "word": "广州天气",
       "onboard_time": 1714506911,
       "rank": 3,
@@ -275,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122636,
+      "num": 122636,
+      "word": "拜仁vs皇马",
+      "onboard_time": 1714488501,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121202,
       "num": 121202,
       "word": "孙千腹肌照",
@@ -299,14 +315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110787,
-      "num": 152118,
-      "word": "深圳天气",
-      "onboard_time": 1714492759,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109686,
       "num": 109686,
       "word": "庆余年第二季过审下证",
@@ -329,14 +337,6 @@
       "onboard_time": 1714483458,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 103672,
-      "num": 103672,
-      "word": "拜仁vs皇马",
-      "onboard_time": 1714488501,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 101403,
@@ -467,6 +467,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 29540,
+      "num": 29540,
+      "word": "欧洲德比",
+      "onboard_time": 1714505411,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 27225,
+      "num": 27225,
+      "word": "低估了五一堵车的程度",
+      "onboard_time": 1714511231,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 25663,
       "num": 30768,
       "word": "春色寄情人",
@@ -483,28 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20571,
-      "num": 20571,
-      "word": "欧洲德比",
-      "onboard_time": 1714505411,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 15793,
-      "num": 15793,
-      "word": "唐九洲 小卡届的神",
-      "onboard_time": 1714508171,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 15183,
+      "raw_hot": 18378,
       "num": 28215,
       "word": "院士哽咽介绍医生每天一首琵琶曲延长患者生命",
       "onboard_time": 1714505291,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16988,
+      "num": 16988,
+      "word": "唐九洲 小卡届的神",
+      "onboard_time": 1714508171,
+      "rank": 47,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

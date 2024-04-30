@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714509360307,
+  "endTime": 1714511896332,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -4107,6 +4107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 239608,
+      "num": 239608,
+      "word": "深圳天气",
+      "onboard_time": 1714492759,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239549,
       "num": 221828,
       "word": "和死对头吵架突然亲我一口",
@@ -6147,6 +6155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173009,
+      "num": 173009,
+      "word": "广州天气",
+      "onboard_time": 1714230861,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172807,
       "num": 172807,
       "word": "湖人终于赢了",
@@ -6257,14 +6273,6 @@
       "onboard_time": 1714473256,
       "rank": 48,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 169723,
-      "num": 169723,
-      "word": "广州天气",
-      "onboard_time": 1714230861,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169649,
@@ -8315,14 +8323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110787,
-      "num": 152118,
-      "word": "深圳天气",
-      "onboard_time": 1714492759,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110658,
       "num": 331479,
       "word": "放假时总想去别的城市看看",
@@ -9155,6 +9155,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 29540,
+      "num": 29540,
+      "word": "欧洲德比",
+      "onboard_time": 1714505411,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29247,
       "num": 268963,
       "word": "蛋仔派对极速追逃",
@@ -9169,6 +9177,14 @@
       "onboard_time": 1714242732,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27225,
+      "num": 27225,
+      "word": "低估了五一堵车的程度",
+      "onboard_time": 1714511231,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 25093,
@@ -9211,14 +9227,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20571,
-      "num": 20571,
-      "word": "欧洲德比",
-      "onboard_time": 1714505411,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20343,
       "num": 145602,
       "word": "被Hanni的甜美硬控住了",
@@ -9251,28 +9259,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 15921,
-      "num": 22521,
-      "word": "张曼玉林丹组队打混双",
-      "onboard_time": 1714330932,
-      "rank": 48,
-      "category": "艺人,体育"
+      "raw_hot": 18378,
+      "num": 28215,
+      "word": "院士哽咽介绍医生每天一首琵琶曲延长患者生命",
+      "onboard_time": 1714505291,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 15793,
-      "num": 15793,
+      "raw_hot": 16988,
+      "num": 16988,
       "word": "唐九洲 小卡届的神",
       "onboard_time": 1714508171,
       "rank": 47,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 15183,
-      "num": 28215,
-      "word": "院士哽咽介绍医生每天一首琵琶曲延长患者生命",
-      "onboard_time": 1714505291,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 15921,
+      "num": 22521,
+      "word": "张曼玉林丹组队打混双",
+      "onboard_time": 1714330932,
+      "rank": 48,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 13911,
