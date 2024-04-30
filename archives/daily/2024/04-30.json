@@ -1,14 +1,46 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714433683086,
+  "endTime": 1714439686276,
   "band_list": [
     {
+      "raw_hot": 1452190,
+      "num": 1452190,
+      "word": "放射科未给受检者穿防护服医疗机构被罚",
+      "onboard_time": 1714433537,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1307162,
+      "num": 285464,
+      "word": "问界M7事故家属发声",
+      "onboard_time": 1714436058,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1269205,
-      "num": 202753,
+      "num": 277189,
       "word": "徐艺洋是真不想给黄子韬名分",
       "onboard_time": 1714377679,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1207222,
+      "num": 1207222,
+      "word": "人鱼 没拍",
+      "onboard_time": 1714435398,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 805647,
+      "num": 553149,
+      "word": "特斯拉市值一夜涨近6000亿",
+      "onboard_time": 1714432155,
+      "rank": 17,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 801866,
@@ -20,7 +52,7 @@
     },
     {
       "raw_hot": 704748,
-      "num": 201181,
+      "num": 269177,
       "word": "猫肉被整只烧烤售卖",
       "onboard_time": 1714397659,
       "rank": 11,
@@ -43,20 +75,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 659399,
+      "num": 278863,
+      "word": "日本物价为何突然暴涨",
+      "onboard_time": 1714437499,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 615787,
+      "num": 256593,
+      "word": "怀孕以后为什么觉得老公巨臭无比",
+      "onboard_time": 1714438758,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 608277,
-      "num": 191147,
+      "num": 275403,
       "word": "警方回应女子逛夜市裙子上现不明液体",
       "onboard_time": 1714408154,
       "rank": 39,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 553149,
-      "num": 553149,
-      "word": "特斯拉市值一夜涨近6000亿",
-      "onboard_time": 1714432155,
-      "rank": 17,
-      "category": "财经,汽车"
+      "raw_hot": 577889,
+      "num": 577889,
+      "word": "校方回应学生用完演出服后集体退货",
+      "onboard_time": 1714432996,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464340,
+      "num": 464340,
+      "word": "金秀贤金智媛一起切蛋糕",
+      "onboard_time": 1714436659,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 437153,
@@ -75,6 +131,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 405821,
+      "num": 269730,
+      "word": "南宁霸凌",
+      "onboard_time": 1714438578,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386400,
+      "num": 254506,
+      "word": "蓝莓会是下一个超级水果吗",
+      "onboard_time": 1714423029,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 355436,
+      "num": 355436,
+      "word": "内塔尼亚胡不停给拜登打电话",
+      "onboard_time": 1714434017,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 353584,
       "num": 353584,
       "word": "CCTV综艺放了赵丽颖簪花照",
@@ -91,12 +171,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316725,
-      "num": 143633,
-      "word": "蓝莓会是下一个超级水果吗",
-      "onboard_time": 1714423029,
-      "rank": 20,
-      "category": "美食"
+      "raw_hot": 302885,
+      "num": 265731,
+      "word": "高颜值出圈华为前HR否认是下一个孟羽童",
+      "onboard_time": 1714432695,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290815,
+      "num": 290815,
+      "word": "歌手",
+      "onboard_time": 1714433235,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 284026,
@@ -131,6 +219,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263180,
+      "num": 263180,
+      "word": "谭松韵去沙漠了",
+      "onboard_time": 1714434676,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 237616,
+      "num": 237616,
+      "word": "以前人的手 现在人的手",
+      "onboard_time": 1714437318,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236034,
       "num": 236034,
       "word": "李明德还是没学会人情世故",
@@ -163,20 +267,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213410,
+      "num": 213410,
+      "word": "iPhone的冷门实用功能",
+      "onboard_time": 1714437439,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 207497,
+      "num": 207497,
+      "word": "冬天埋的小猫变成了小草",
+      "onboard_time": 1714437019,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 202022,
+      "num": 202022,
+      "word": "童瑶问什么是亚比囧囧囧",
+      "onboard_time": 1714439359,
+      "rank": 28,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 199963,
+      "num": 199963,
+      "word": "为什么说龙系长相是天生演员",
+      "onboard_time": 1714433476,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196982,
       "num": 166925,
       "word": "存多少钱能用利息生活",
       "onboard_time": 1714399281,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 192063,
-      "num": 192063,
-      "word": "歌手",
-      "onboard_time": 1714433235,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 180644,
@@ -195,14 +323,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 178792,
-      "num": 178792,
-      "word": "高颜值出圈华为前HR否认是下一个孟羽童",
-      "onboard_time": 1714432695,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176701,
       "num": 176701,
       "word": "长期久坐或致男性不育",
@@ -211,12 +331,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 174423,
+      "num": 290078,
+      "word": "4名医护出差途中救下一命",
+      "onboard_time": 1714415652,
+      "rank": 13,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 173626,
       "num": 143266,
       "word": "巧克力价格暴涨",
       "onboard_time": 1714431855,
       "rank": 24,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 172343,
+      "num": 172343,
+      "word": "张婧仪浴水照",
+      "onboard_time": 1714438938,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 169649,
@@ -243,6 +379,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167425,
+      "num": 167425,
+      "word": "上海人的春日松弛感是天生的",
+      "onboard_time": 1714438879,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 166982,
+      "num": 166982,
+      "word": "这四种菜一定记得先焯水",
+      "onboard_time": 1714435939,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 163969,
+      "num": 163969,
+      "word": "Hybe或将撤换闵熙珍",
+      "onboard_time": 1714435340,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161555,
       "num": 161555,
       "word": "肖战晚宴穿搭",
@@ -259,6 +419,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152918,
+      "num": 152918,
+      "word": "广东或再现龙卷风",
+      "onboard_time": 1714435218,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152166,
+      "num": 152166,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1714437499,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148705,
       "num": 148705,
       "word": "春色寄情人看脸红了",
@@ -267,12 +443,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148599,
-      "num": 110384,
-      "word": "校方回应学生用完演出服后集体退货",
-      "onboard_time": 1714432996,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 146711,
+      "num": 146711,
+      "word": "第五人格 开门",
+      "onboard_time": 1714436659,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 146523,
+      "num": 146523,
+      "word": "侯雯元首次在节目里提钟楚曦",
+      "onboard_time": 1714439657,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 145517,
@@ -323,12 +507,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133885,
+      "num": 133885,
+      "word": "洗脸不知这3个误区越洗皮肤越差",
+      "onboard_time": 1714434617,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 132186,
       "num": 132186,
       "word": "王一博让赵华为站C位",
       "onboard_time": 1714403183,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 130957,
+      "num": 130957,
+      "word": "NBA",
+      "onboard_time": 1714438218,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 127746,
@@ -347,12 +547,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 123751,
+      "num": 123751,
+      "word": "五一不回家也不旅游还能干什么",
+      "onboard_time": 1714398198,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121726,
       "num": 121726,
       "word": "IVE空降",
       "onboard_time": 1714387698,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 121442,
+      "num": 121442,
+      "word": "百元实现榴莲自由的店给你们找到了",
+      "onboard_time": 1714439479,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 121289,
@@ -387,11 +603,35 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 113701,
+      "num": 113701,
+      "word": "神十七乘组要回地球过五一了",
+      "onboard_time": 1714435699,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112354,
+      "num": 112354,
+      "word": "黄景瑜王一博谈第一次见面",
+      "onboard_time": 1714437920,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 103321,
       "num": 132188,
       "word": "初中女生被多人欺负殴打8人被行拘",
       "onboard_time": 1714394899,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100589,
+      "num": 100589,
+      "word": "病毒学家张永振已受聘广州一研究院",
+      "onboard_time": 1714439657,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -409,22 +649,6 @@
       "onboard_time": 1714432155,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99502,
-      "num": 99502,
-      "word": "为什么说龙系长相是天生演员",
-      "onboard_time": 1714433476,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 99418,
-      "num": 118600,
-      "word": "五一不回家也不旅游还能干什么",
-      "onboard_time": 1714398198,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 99170,
@@ -457,14 +681,6 @@
       "onboard_time": 1714408456,
       "rank": 49,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 89861,
-      "num": 191900,
-      "word": "4名医护出差途中救下一命",
-      "onboard_time": 1714415652,
-      "rank": 13,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 81898,
@@ -513,14 +729,6 @@
       "onboard_time": 1714384218,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 68026,
-      "num": 68026,
-      "word": "放射科未给受检者穿防护服医疗机构被罚",
-      "onboard_time": 1714433537,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67765,
@@ -635,19 +843,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 11861,
+      "num": 716585,
+      "word": "文化中国行",
+      "onboard_time": 1713927617,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8467,
       "num": 16114,
       "word": "这次杭州司机礼让的是鸳鸯",
       "onboard_time": 1714422251,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5551,
-      "num": 499780,
-      "word": "文化中国行",
-      "onboard_time": 1713927617,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],

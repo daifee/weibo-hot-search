@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714433683086,
+  "endTime": 1714439686276,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1452190,
+      "num": 1452190,
+      "word": "放射科未给受检者穿防护服医疗机构被罚",
+      "onboard_time": 1714433537,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1429219,
       "num": 511626,
       "word": "金靖曾被舒奕橙三次取关",
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1307162,
+      "num": 285464,
+      "word": "问界M7事故家属发声",
+      "onboard_time": 1714436058,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1304934,
       "num": 1304934,
       "word": "女主失忆 男主车祸",
@@ -281,6 +297,14 @@
       "onboard_time": 1714233619,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1207222,
+      "num": 1207222,
+      "word": "人鱼 没拍",
+      "onboard_time": 1714435398,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 1198876,
@@ -707,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 805647,
+      "num": 553149,
+      "word": "特斯拉市值一夜涨近6000亿",
+      "onboard_time": 1714432155,
+      "rank": 17,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 801866,
       "num": 801866,
       "word": "刘宇宁自曝录hi6受伤",
@@ -939,6 +971,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 659399,
+      "num": 278863,
+      "word": "日本物价为何突然暴涨",
+      "onboard_time": 1714437499,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 655201,
       "num": 655201,
       "word": "郑佩佩好像我奶奶",
@@ -1043,6 +1083,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 615787,
+      "num": 256593,
+      "word": "怀孕以后为什么觉得老公巨臭无比",
+      "onboard_time": 1714438758,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 614834,
       "num": 527859,
       "word": "问界M7追尾大货车起火",
@@ -1068,7 +1116,7 @@
     },
     {
       "raw_hot": 608277,
-      "num": 191147,
+      "num": 275403,
       "word": "警方回应女子逛夜市裙子上现不明液体",
       "onboard_time": 1714408154,
       "rank": 39,
@@ -1139,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 577889,
+      "num": 577889,
+      "word": "校方回应学生用完演出服后集体退货",
+      "onboard_time": 1714432996,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577358,
       "num": 577358,
       "word": "成都不再审核购房资格",
@@ -1201,14 +1257,6 @@
       "onboard_time": 1714358178,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 553149,
-      "num": 553149,
-      "word": "特斯拉市值一夜涨近6000亿",
-      "onboard_time": 1714432155,
-      "rank": 17,
-      "category": "财经,汽车"
     },
     {
       "raw_hot": 552405,
@@ -1555,6 +1603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 464340,
+      "num": 464340,
+      "word": "金秀贤金智媛一起切蛋糕",
+      "onboard_time": 1714436659,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 462503,
       "num": 417553,
       "word": "王鹤棣素颜健身",
@@ -1795,6 +1851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 405821,
+      "num": 269730,
+      "word": "南宁霸凌",
+      "onboard_time": 1714438578,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405481,
       "num": 405481,
       "word": "王源2024巡演启动",
@@ -1841,6 +1905,14 @@
       "onboard_time": 1714347375,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 386400,
+      "num": 254506,
+      "word": "蓝莓会是下一个超级水果吗",
+      "onboard_time": 1714423029,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 386346,
@@ -1993,6 +2065,14 @@
       "onboard_time": 1714355838,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 355436,
+      "num": 355436,
+      "word": "内塔尼亚胡不停给拜登打电话",
+      "onboard_time": 1714434017,
+      "rank": 6,
+      "category": "国外时政"
     },
     {
       "raw_hot": 354552,
@@ -2171,14 +2251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 316725,
-      "num": 143633,
-      "word": "蓝莓会是下一个超级水果吗",
-      "onboard_time": 1714423029,
-      "rank": 20,
-      "category": "美食"
-    },
-    {
       "raw_hot": 316141,
       "num": 316141,
       "word": "纪凌尘随地乱丢烟头",
@@ -2267,6 +2339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 302885,
+      "num": 265731,
+      "word": "高颜值出圈华为前HR否认是下一个孟羽童",
+      "onboard_time": 1714432695,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300465,
       "num": 300465,
       "word": "杨幂制服卷发",
@@ -2320,6 +2400,14 @@
       "word": "鹭卓 鲜花饼",
       "onboard_time": 1714373179,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 290815,
+      "num": 290815,
+      "word": "歌手",
+      "onboard_time": 1714433235,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -2537,6 +2625,14 @@
       "onboard_time": 1714276459,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263180,
+      "num": 263180,
+      "word": "谭松韵去沙漠了",
+      "onboard_time": 1714434676,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 262317,
@@ -2825,6 +2921,14 @@
       "onboard_time": 1714230440,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 237616,
+      "num": 237616,
+      "word": "以前人的手 现在人的手",
+      "onboard_time": 1714437318,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 236034,
@@ -3155,6 +3259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213410,
+      "num": 213410,
+      "word": "iPhone的冷门实用功能",
+      "onboard_time": 1714437439,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 213123,
       "num": 213123,
       "word": "李想送雷军理想L6",
@@ -3249,6 +3361,14 @@
       "onboard_time": 1714364539,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207497,
+      "num": 207497,
+      "word": "冬天埋的小猫变成了小草",
+      "onboard_time": 1714437019,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 207384,
@@ -3395,6 +3515,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 202022,
+      "num": 202022,
+      "word": "童瑶问什么是亚比囧囧囧",
+      "onboard_time": 1714439359,
+      "rank": 28,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 202009,
       "num": 202009,
       "word": "张杰太原 抢票",
@@ -3481,6 +3609,14 @@
       "onboard_time": 1714313418,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199963,
+      "num": 199963,
+      "word": "为什么说龙系长相是天生演员",
+      "onboard_time": 1714433476,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 199739,
@@ -3761,14 +3897,6 @@
       "onboard_time": 1714366699,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 192063,
-      "num": 192063,
-      "word": "歌手",
-      "onboard_time": 1714433235,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 192057,
@@ -4147,14 +4275,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 178792,
-      "num": 178792,
-      "word": "高颜值出圈华为前HR否认是下一个孟羽童",
-      "onboard_time": 1714432695,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178550,
       "num": 209817,
       "word": "外交部回应布林肯称中方试图干涉美国大选",
@@ -4235,6 +4355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174423,
+      "num": 290078,
+      "word": "4名医护出差途中救下一命",
+      "onboard_time": 1714415652,
+      "rank": 13,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 174231,
       "num": 157224,
       "word": "张栋梁郑合惠子落选",
@@ -4289,6 +4417,14 @@
       "onboard_time": 1714365080,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172343,
+      "num": 172343,
+      "word": "张婧仪浴水照",
+      "onboard_time": 1714438938,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 172320,
@@ -4395,6 +4531,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167425,
+      "num": 167425,
+      "word": "上海人的春日松弛感是天生的",
+      "onboard_time": 1714438879,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 166982,
+      "num": 166982,
+      "word": "这四种菜一定记得先焯水",
+      "onboard_time": 1714435939,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 166655,
       "num": 695578,
       "word": "五一假期5天小客车高速免费",
@@ -4425,6 +4577,14 @@
       "onboard_time": 1714263319,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 163969,
+      "num": 163969,
+      "word": "Hybe或将撤换闵熙珍",
+      "onboard_time": 1714435340,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 163235,
@@ -4635,6 +4795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152918,
+      "num": 152918,
+      "word": "广东或再现龙卷风",
+      "onboard_time": 1714435218,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152868,
       "num": 152868,
       "word": "杨紫专访",
@@ -4673,6 +4841,14 @@
       "onboard_time": 1714396758,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152166,
+      "num": 152166,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1714437499,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 151015,
@@ -4779,14 +4955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148599,
-      "num": 110384,
-      "word": "校方回应学生用完演出服后集体退货",
-      "onboard_time": 1714432996,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148389,
       "num": 148389,
       "word": "不够善良的我们",
@@ -4881,6 +5049,22 @@
       "onboard_time": 1714391959,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 146711,
+      "num": 146711,
+      "word": "第五人格 开门",
+      "onboard_time": 1714436659,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 146523,
+      "num": 146523,
+      "word": "侯雯元首次在节目里提钟楚曦",
+      "onboard_time": 1714439657,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 146090,
@@ -5099,6 +5283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133885,
+      "num": 133885,
+      "word": "洗脸不知这3个误区越洗皮肤越差",
+      "onboard_time": 1714434617,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 133820,
       "num": 133820,
       "word": "突然意识到自己没有性格",
@@ -5185,6 +5377,14 @@
       "onboard_time": 1714262418,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130957,
+      "num": 130957,
+      "word": "NBA",
+      "onboard_time": 1714273939,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 130658,
@@ -5387,14 +5587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124186,
-      "num": 124186,
-      "word": "NBA",
-      "onboard_time": 1714273939,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124117,
       "num": 161562,
       "word": "赛力斯一季度营收同比增长421.76%",
@@ -5449,6 +5641,14 @@
       "onboard_time": 1714361357,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121442,
+      "num": 121442,
+      "word": "百元实现榴莲自由的店给你们找到了",
+      "onboard_time": 1714439479,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 121086,
@@ -5555,6 +5755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113701,
+      "num": 113701,
+      "word": "神十七乘组要回地球过五一了",
+      "onboard_time": 1714435699,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112814,
       "num": 112814,
       "word": "遇到这种旅游搭子真的会开心死",
@@ -5569,6 +5777,14 @@
       "onboard_time": 1714403243,
       "rank": 45,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 112354,
+      "num": 112354,
+      "word": "黄景瑜王一博谈第一次见面",
+      "onboard_time": 1714437920,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 112308,
@@ -5739,6 +5955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100589,
+      "num": 100589,
+      "word": "病毒学家张永振已受聘广州一研究院",
+      "onboard_time": 1714439657,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100235,
       "num": 100235,
       "word": "步行者3比1雄鹿",
@@ -5761,14 +5985,6 @@
       "onboard_time": 1714432155,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99502,
-      "num": 99502,
-      "word": "为什么说龙系长相是天生演员",
-      "onboard_time": 1714433476,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 99295,
@@ -5875,14 +6091,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 89861,
-      "num": 191900,
-      "word": "4名医护出差途中救下一命",
-      "onboard_time": 1714415652,
-      "rank": 13,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 86861,
       "num": 86861,
       "word": "勒沃库森2比2斯图加特",
@@ -5977,14 +6185,6 @@
       "onboard_time": 1714252692,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 68026,
-      "num": 68026,
-      "word": "放射科未给受检者穿防护服医疗机构被罚",
-      "onboard_time": 1714433537,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67765,
@@ -6387,19 +6587,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 11861,
+      "num": 1081786,
+      "word": "文化中国行",
+      "onboard_time": 1713927617,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8467,
       "num": 16114,
       "word": "这次杭州司机礼让的是鸳鸯",
       "onboard_time": 1714422251,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8376,
-      "num": 1081786,
-      "word": "文化中国行",
-      "onboard_time": 1713927617,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],

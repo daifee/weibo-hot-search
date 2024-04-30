@@ -1,0 +1,410 @@
+{
+  "runTime": 1714439686276,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1452190,
+        "num": 1452190,
+        "word": "放射科未给受检者穿防护服医疗机构被罚",
+        "onboard_time": 1714433537,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1207222,
+        "num": 1207222,
+        "word": "人鱼 没拍",
+        "onboard_time": 1714435398,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11861,
+        "num": 716585,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577889,
+        "num": 577889,
+        "word": "校方回应学生用完演出服后集体退货",
+        "onboard_time": 1714432996,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464340,
+        "num": 464340,
+        "word": "金秀贤金智媛一起切蛋糕",
+        "onboard_time": 1714436659,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381871,
+        "num": 381871,
+        "word": "刘宇宁自曝录hi6受伤",
+        "onboard_time": 1714404260,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355436,
+        "num": 355436,
+        "word": "内塔尼亚胡不停给拜登打电话",
+        "onboard_time": 1714434017,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 320703,
+        "num": 320703,
+        "word": "南京胖哥被初诊为PTSD",
+        "onboard_time": 1714397241,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290815,
+        "num": 290815,
+        "word": "歌手",
+        "onboard_time": 1714433235,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174423,
+        "num": 290078,
+        "word": "4名医护出差途中救下一命",
+        "onboard_time": 1714415652,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1307162,
+        "num": 285464,
+        "word": "问界M7事故家属发声",
+        "onboard_time": 1714436058,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805647,
+        "num": 282183,
+        "word": "特斯拉市值一夜涨近6000亿",
+        "onboard_time": 1714432155,
+        "rank": 11,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 659399,
+        "num": 278863,
+        "word": "日本物价为何突然暴涨",
+        "onboard_time": 1714437499,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 520055,
+        "num": 277189,
+        "word": "徐艺洋是真不想给黄子韬名分",
+        "onboard_time": 1714377679,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433607,
+        "num": 275403,
+        "word": "警方回应女子逛夜市裙子上现不明液体",
+        "onboard_time": 1714408154,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405821,
+        "num": 269730,
+        "word": "南宁霸凌",
+        "onboard_time": 1714438578,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394072,
+        "num": 269177,
+        "word": "猫肉被整只烧烤售卖",
+        "onboard_time": 1714397659,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302885,
+        "num": 265731,
+        "word": "高颜值出圈华为前HR否认是下一个孟羽童",
+        "onboard_time": 1714432695,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263180,
+        "num": 263180,
+        "word": "谭松韵去沙漠了",
+        "onboard_time": 1714434676,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260592,
+        "num": 260592,
+        "word": "配娱癫公",
+        "onboard_time": 1714406239,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615787,
+        "num": 256593,
+        "word": "怀孕以后为什么觉得老公巨臭无比",
+        "onboard_time": 1714438758,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 386400,
+        "num": 254506,
+        "word": "蓝莓会是下一个超级水果吗",
+        "onboard_time": 1714423029,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 248938,
+        "num": 248938,
+        "word": "女子直播时被失散32年的父亲认出",
+        "onboard_time": 1714392078,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237616,
+        "num": 237616,
+        "word": "以前人的手 现在人的手",
+        "onboard_time": 1714437318,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213410,
+        "num": 213410,
+        "word": "iPhone的冷门实用功能",
+        "onboard_time": 1714437439,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212699,
+        "num": 212699,
+        "word": "刘涛秦海璐 无趣的内容有趣地聊",
+        "onboard_time": 1714408756,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209928,
+        "num": 209928,
+        "word": "朴志效租房者预告",
+        "onboard_time": 1714399402,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207497,
+        "num": 207497,
+        "word": "冬天埋的小猫变成了小草",
+        "onboard_time": 1714437019,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202022,
+        "num": 202022,
+        "word": "童瑶问什么是亚比囧囧囧",
+        "onboard_time": 1714439359,
+        "rank": 28,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 199963,
+        "num": 199963,
+        "word": "为什么说龙系长相是天生演员",
+        "onboard_time": 1714433476,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175014,
+        "num": 175014,
+        "word": "苗苗不愧是北舞严选",
+        "onboard_time": 1714395978,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172343,
+        "num": 172343,
+        "word": "张婧仪浴水照",
+        "onboard_time": 1714438938,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167425,
+        "num": 167425,
+        "word": "上海人的春日松弛感是天生的",
+        "onboard_time": 1714438879,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 166982,
+        "num": 166982,
+        "word": "这四种菜一定记得先焯水",
+        "onboard_time": 1714435939,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163969,
+        "num": 163969,
+        "word": "Hybe或将撤换闵熙珍",
+        "onboard_time": 1714435340,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159334,
+        "num": 159334,
+        "word": "庄洁妈妈 窒息",
+        "onboard_time": 1714398079,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152918,
+        "num": 152918,
+        "word": "广东或再现龙卷风",
+        "onboard_time": 1714435218,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152166,
+        "num": 152166,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1714437499,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146711,
+        "num": 146711,
+        "word": "第五人格 开门",
+        "onboard_time": 1714436659,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146523,
+        "num": 146523,
+        "word": "侯雯元首次在节目里提钟楚曦",
+        "onboard_time": 1714439657,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134648,
+        "num": 134648,
+        "word": "沈景病",
+        "onboard_time": 1714397599,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133885,
+        "num": 133885,
+        "word": "洗脸不知这3个误区越洗皮肤越差",
+        "onboard_time": 1714434617,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 132666,
+        "num": 132666,
+        "word": "CCTV综艺放了赵丽颖簪花照",
+        "onboard_time": 1714399821,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130957,
+        "num": 130957,
+        "word": "NBA",
+        "onboard_time": 1714438218,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123751,
+        "num": 123751,
+        "word": "五一不回家也不旅游还能干什么",
+        "onboard_time": 1714398198,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121442,
+        "num": 121442,
+        "word": "百元实现榴莲自由的店给你们找到了",
+        "onboard_time": 1714439479,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113701,
+        "num": 113701,
+        "word": "神十七乘组要回地球过五一了",
+        "onboard_time": 1714435699,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112354,
+        "num": 112354,
+        "word": "黄景瑜王一博谈第一次见面",
+        "onboard_time": 1714437920,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108887,
+        "num": 108887,
+        "word": "巧克力价格暴涨",
+        "onboard_time": 1714431855,
+        "rank": 48,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 100589,
+        "num": 100589,
+        "word": "病毒学家张永振已受聘广州一研究院",
+        "onboard_time": 1714439657,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#着力打造具有全球影响力的产业科技创新中心#"
+    }
+  }
+}
