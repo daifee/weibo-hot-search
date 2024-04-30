@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714440863013,
+  "endTime": 1714444002754,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -49,6 +49,14 @@
       "onboard_time": 1714295658,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2169074,
+      "num": 2169074,
+      "word": "凯特王妃",
+      "onboard_time": 1714441698,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2136636,
@@ -307,6 +315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1204882,
+      "num": 1204882,
+      "word": "日本物价为何突然暴涨",
+      "onboard_time": 1714437499,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1198876,
       "num": 1198876,
       "word": "袁娅维3次发文怼浪姐",
@@ -433,6 +449,14 @@
       "onboard_time": 1714280180,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1060251,
+      "num": 1060251,
+      "word": "老人在自家别墅踩空电梯不幸身亡",
+      "onboard_time": 1714441878,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1047982,
@@ -673,14 +697,6 @@
       "onboard_time": 1714382480,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 853357,
-      "num": 853357,
-      "word": "日本物价为何突然暴涨",
-      "onboard_time": 1714437499,
-      "rank": 12,
-      "category": "国外时政"
     },
     {
       "raw_hot": 851837,
@@ -979,6 +995,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 669945,
+      "num": 260520,
+      "word": "自称刷了30万的榜一大哥和女主播街头冲突",
+      "onboard_time": 1714439837,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 662421,
       "num": 256593,
       "word": "怀孕以后为什么觉得老公巨臭无比",
@@ -988,7 +1012,7 @@
     },
     {
       "raw_hot": 656989,
-      "num": 312814,
+      "num": 314575,
       "word": "南宁霸凌",
       "onboard_time": 1714438578,
       "rank": 15,
@@ -1739,6 +1763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 437906,
+      "num": 437906,
+      "word": "肖战晚宴的衣服穿到了机场",
+      "onboard_time": 1714440257,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436400,
       "num": 436400,
       "word": "游客反映董宇辉博物院直播耽误参观行程",
@@ -2043,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360801,
+      "num": 253475,
+      "word": "真正厉害的人都很擅长睡觉",
+      "onboard_time": 1714442058,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 359381,
       "num": 318556,
       "word": "原来是因为头发少所以油得快",
@@ -2097,6 +2137,14 @@
       "onboard_time": 1714351698,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354111,
+      "num": 302549,
+      "word": "病毒学家张永振已受聘广州一研究院",
+      "onboard_time": 1714439657,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353848,
@@ -2307,14 +2355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 312332,
-      "num": 225461,
-      "word": "自称刷了30万的榜一大哥和女主播街头冲突",
-      "onboard_time": 1714439837,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311527,
       "num": 311527,
       "word": "陈丽君上桌了",
@@ -2345,6 +2385,14 @@
       "onboard_time": 1714274719,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 308756,
+      "num": 205028,
+      "word": "miumiu3250元发卡卖断货",
+      "onboard_time": 1714442718,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 306630,
@@ -2523,6 +2571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274449,
+      "num": 274449,
+      "word": "林更新赵露思或合作新剧",
+      "onboard_time": 1714443500,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274358,
       "num": 274358,
       "word": "警方介入调查南宁中学校园欺凌事件",
@@ -2537,14 +2593,6 @@
       "onboard_time": 1714309518,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 273398,
-      "num": 273398,
-      "word": "病毒学家张永振已受聘广州一研究院",
-      "onboard_time": 1714439657,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272264,
@@ -2603,6 +2651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268589,
+      "num": 268589,
+      "word": "华为与苹果同日举办新品发布会",
+      "onboard_time": 1714441757,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 268444,
       "num": 268444,
       "word": "A股",
@@ -2657,6 +2713,14 @@
       "onboard_time": 1714276459,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263855,
+      "num": 263855,
+      "word": "警方通报女子骑电瓶车被交警强行拽下",
+      "onboard_time": 1714442116,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263180,
@@ -2849,6 +2913,14 @@
       "onboard_time": 1714368138,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245292,
+      "num": 245292,
+      "word": "日元暴跌日本游客赴美时扛大米",
+      "onboard_time": 1714443016,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 244902,
@@ -3051,6 +3123,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231111,
+      "num": 231111,
+      "word": "男朋友想让我跟他一起买车",
+      "onboard_time": 1714442178,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 231046,
+      "num": 231046,
+      "word": "iPhone的冷门实用功能",
+      "onboard_time": 1714437439,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 230381,
       "num": 230381,
       "word": "不够善良的我们完结",
@@ -3187,6 +3275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219530,
+      "num": 219530,
+      "word": "五一抢票以失败告终",
+      "onboard_time": 1714440138,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219493,
       "num": 201325,
       "word": "时代少年团直播 三天观看",
@@ -3299,12 +3395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213410,
-      "num": 213410,
-      "word": "iPhone的冷门实用功能",
-      "onboard_time": 1714437439,
-      "rank": 24,
-      "category": "数码"
+      "raw_hot": 213494,
+      "num": 213494,
+      "word": "司法部原副部长刘志强被查",
+      "onboard_time": 1714441578,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213123,
@@ -3401,14 +3497,6 @@
       "onboard_time": 1714364539,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208126,
-      "num": 208126,
-      "word": "肖战晚宴的衣服穿到了机场",
-      "onboard_time": 1714440257,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 207497,
@@ -3675,6 +3763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199476,
+      "num": 199476,
+      "word": "中国驱离菲律宾侵闯黄岩岛邻近海域船只",
+      "onboard_time": 1714443737,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 199280,
       "num": 199280,
       "word": "长大后发现不能深交的人",
@@ -3817,6 +3913,14 @@
       "onboard_time": 1714302018,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195019,
+      "num": 195019,
+      "word": "城市很热闹 但我的麦子熟了",
+      "onboard_time": 1714441277,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 194835,
@@ -4041,6 +4145,14 @@
       "onboard_time": 1714360039,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186911,
+      "num": 186911,
+      "word": "为什么建议买同款上一代手机",
+      "onboard_time": 1714443078,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 186162,
@@ -4723,14 +4835,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 157972,
-      "num": 157972,
-      "word": "五一抢票以失败告终",
-      "onboard_time": 1714440138,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 157929,
       "num": 157929,
       "word": "雷军称小米造车投入了半个家底",
@@ -5139,6 +5243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144342,
+      "num": 327828,
+      "word": "百元实现榴莲自由的店给你们找到了",
+      "onboard_time": 1714439479,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 144178,
       "num": 144178,
       "word": "女生手捧烧烤花束送大四毕业同学",
@@ -5299,12 +5411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135259,
+      "num": 135259,
+      "word": "张新成同年拍摄的三个疯批角色",
+      "onboard_time": 1714443199,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134887,
       "num": 134887,
       "word": "蔡文静做喉镜检查",
       "onboard_time": 1714372457,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134755,
+      "num": 134755,
+      "word": "童瑶终于不是顾佳了",
+      "onboard_time": 1714443916,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 134744,
@@ -5353,14 +5481,6 @@
       "onboard_time": 1714379778,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133740,
-      "num": 327828,
-      "word": "百元实现榴莲自由的店给你们找到了",
-      "onboard_time": 1714439479,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 132926,
@@ -5889,6 +6009,14 @@
       "onboard_time": 1714225159,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109937,
+      "num": 109937,
+      "word": "早起三不做",
+      "onboard_time": 1714443978,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 109722,
@@ -6635,20 +6763,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 13086,
+      "num": 1102329,
+      "word": "文化中国行",
+      "onboard_time": 1713927617,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12586,
       "num": 19637,
       "word": "如何三句话跳出自证陷阱",
       "onboard_time": 1714336390,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 11861,
-      "num": 1081786,
-      "word": "文化中国行",
-      "onboard_time": 1713927617,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8467,

@@ -1,7 +1,15 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714440863013,
+  "endTime": 1714444002754,
   "band_list": [
+    {
+      "raw_hot": 2169074,
+      "num": 2169074,
+      "word": "凯特王妃",
+      "onboard_time": 1714441698,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1452190,
       "num": 1452190,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1269205,
-      "num": 308471,
+      "num": 309442,
       "word": "徐艺洋是真不想给黄子韬名分",
       "onboard_time": 1714377679,
       "rank": 10,
@@ -35,12 +43,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 853357,
-      "num": 853357,
+      "raw_hot": 1204882,
+      "num": 1204882,
       "word": "日本物价为何突然暴涨",
       "onboard_time": 1714437499,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1060251,
+      "num": 1060251,
+      "word": "老人在自家别墅踩空电梯不幸身亡",
+      "onboard_time": 1714441878,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 805647,
@@ -83,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 669945,
+      "num": 260520,
+      "word": "自称刷了30万的榜一大哥和女主播街头冲突",
+      "onboard_time": 1714439837,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 662421,
       "num": 256593,
       "word": "怀孕以后为什么觉得老公巨臭无比",
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 656989,
-      "num": 312814,
+      "num": 314575,
       "word": "南宁霸凌",
       "onboard_time": 1714438578,
       "rank": 15,
@@ -131,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 437906,
+      "num": 437906,
+      "word": "肖战晚宴的衣服穿到了机场",
+      "onboard_time": 1714440257,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 437153,
       "num": 437153,
       "word": "女子直播时被失散32年的父亲认出",
@@ -163,12 +195,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 360801,
+      "num": 253475,
+      "word": "真正厉害的人都很擅长睡觉",
+      "onboard_time": 1714442058,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 355436,
       "num": 355436,
       "word": "内塔尼亚胡不停给拜登打电话",
       "onboard_time": 1714434017,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 354111,
+      "num": 302549,
+      "word": "病毒学家张永振已受聘广州一研究院",
+      "onboard_time": 1714439657,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353584,
@@ -187,12 +235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312332,
-      "num": 225461,
-      "word": "自称刷了30万的榜一大哥和女主播街头冲突",
-      "onboard_time": 1714439837,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 308756,
+      "num": 205028,
+      "word": "miumiu3250元发卡卖断货",
+      "onboard_time": 1714442718,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 302885,
@@ -227,12 +275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 273398,
-      "num": 273398,
-      "word": "病毒学家张永振已受聘广州一研究院",
-      "onboard_time": 1714439657,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 274449,
+      "num": 274449,
+      "word": "林更新赵露思或合作新剧",
+      "onboard_time": 1714443500,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 271121,
@@ -243,11 +291,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268589,
+      "num": 268589,
+      "word": "华为与苹果同日举办新品发布会",
+      "onboard_time": 1714441757,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 264897,
       "num": 177888,
       "word": "南宁三中",
       "onboard_time": 1714388839,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263855,
+      "num": 263855,
+      "word": "警方通报女子骑电瓶车被交警强行拽下",
+      "onboard_time": 1714442116,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -257,6 +321,14 @@
       "onboard_time": 1714434676,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245292,
+      "num": 245292,
+      "word": "日元暴跌日本游客赴美时扛大米",
+      "onboard_time": 1714443016,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 237616,
@@ -291,6 +363,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231111,
+      "num": 231111,
+      "word": "男朋友想让我跟他一起买车",
+      "onboard_time": 1714442178,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 231046,
+      "num": 231046,
+      "word": "iPhone的冷门实用功能",
+      "onboard_time": 1714437439,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 229126,
       "num": 195059,
       "word": "沈景病",
@@ -307,20 +395,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213410,
-      "num": 213410,
-      "word": "iPhone的冷门实用功能",
-      "onboard_time": 1714437439,
-      "rank": 24,
-      "category": "数码"
+      "raw_hot": 219530,
+      "num": 219530,
+      "word": "五一抢票以失败告终",
+      "onboard_time": 1714440138,
+      "rank": 35,
+      "category": "情感"
     },
     {
-      "raw_hot": 208126,
-      "num": 208126,
-      "word": "肖战晚宴的衣服穿到了机场",
-      "onboard_time": 1714440257,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 213494,
+      "num": 213494,
+      "word": "司法部原副部长刘志强被查",
+      "onboard_time": 1714441578,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213168,
+      "num": 197610,
+      "word": "问界",
+      "onboard_time": 1714442597,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207497,
@@ -347,12 +443,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199476,
+      "num": 199476,
+      "word": "中国驱离菲律宾侵闯黄岩岛邻近海域船只",
+      "onboard_time": 1714443737,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 196982,
       "num": 166925,
       "word": "存多少钱能用利息生活",
       "onboard_time": 1714399281,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 195019,
+      "num": 195019,
+      "word": "城市很热闹 但我的麦子熟了",
+      "onboard_time": 1714441277,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186911,
+      "num": 186911,
+      "word": "为什么建议买同款上一代手机",
+      "onboard_time": 1714443078,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 180644,
@@ -459,14 +579,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 157972,
-      "num": 157972,
-      "word": "五一抢票以失败告终",
-      "onboard_time": 1714440138,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 154421,
       "num": 154421,
       "word": "我不善良遇强则强",
@@ -523,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144342,
+      "num": 327828,
+      "word": "百元实现榴莲自由的店给你们找到了",
+      "onboard_time": 1714439479,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 144104,
       "num": 144104,
       "word": "陈翔自荐报名歌手2024",
@@ -555,6 +675,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135259,
+      "num": 135259,
+      "word": "张新成同年拍摄的三个疯批角色",
+      "onboard_time": 1714443199,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134755,
+      "num": 134755,
+      "word": "童瑶终于不是顾佳了",
+      "onboard_time": 1714443916,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134558,
       "num": 134558,
       "word": "配音沪圈",
@@ -569,14 +705,6 @@
       "onboard_time": 1714434617,
       "rank": 41,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 133740,
-      "num": 327828,
-      "word": "百元实现榴莲自由的店给你们找到了",
-      "onboard_time": 1714439479,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 132554,
@@ -681,6 +809,14 @@
       "onboard_time": 1714437920,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109937,
+      "num": 109937,
+      "word": "早起三不做",
+      "onboard_time": 1714443978,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 103321,
@@ -899,8 +1035,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 11861,
-      "num": 890081,
+      "raw_hot": 13086,
+      "num": 1102329,
       "word": "文化中国行",
       "onboard_time": 1713927617,
       "rank": 2,
