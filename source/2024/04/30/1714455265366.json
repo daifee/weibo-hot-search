@@ -1,0 +1,410 @@
+{
+  "runTime": 1714455265366,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1739719,
+        "num": 1739719,
+        "word": "因为天气取消了五一出游",
+        "onboard_time": 1714447099,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1475526,
+        "num": 1475526,
+        "word": "东航一客机因机组成员矛盾应急滑梯放出",
+        "onboard_time": 1714451781,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50156,
+        "num": 1105227,
+        "word": "五一打卡锦绣中国",
+        "onboard_time": 1714447878,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1059155,
+        "num": 1059155,
+        "word": "机票跳水",
+        "onboard_time": 1714449139,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 679525,
+        "num": 679525,
+        "word": "凯特王妃",
+        "onboard_time": 1714441698,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558193,
+        "num": 558193,
+        "word": "大爷称年轻人不允许享受下铺",
+        "onboard_time": 1714448779,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513741,
+        "num": 513741,
+        "word": "东航",
+        "onboard_time": 1714451720,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505736,
+        "num": 505736,
+        "word": "威廉凯特结婚纪念日发黑白照",
+        "onboard_time": 1714451540,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504694,
+        "num": 504694,
+        "word": "掘金淘汰湖人",
+        "onboard_time": 1714452440,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294083,
+        "num": 495250,
+        "word": "她是北大同专业同级唯一坚持读到毕业",
+        "onboard_time": 1714446438,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1297572,
+        "num": 494982,
+        "word": "王俊凯王源工作室logo相似",
+        "onboard_time": 1714450819,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512193,
+        "num": 494712,
+        "word": "向太骨折李连杰携女儿看望",
+        "onboard_time": 1714451240,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493888,
+        "num": 493888,
+        "word": "周杰伦长沙 谁抢到了",
+        "onboard_time": 1714452560,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 458558,
+        "num": 458558,
+        "word": "老人在自家别墅踩空电梯不幸身亡",
+        "onboard_time": 1714441878,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320015,
+        "num": 320015,
+        "word": "电视剧人鱼官宣开机",
+        "onboard_time": 1714448357,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314772,
+        "num": 314772,
+        "word": "秦岚早期长发照片",
+        "onboard_time": 1714447397,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311099,
+        "num": 311099,
+        "word": "穆雷绝杀湖人",
+        "onboard_time": 1714451720,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308412,
+        "num": 308412,
+        "word": "周杰伦二开",
+        "onboard_time": 1714453159,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 304893,
+        "num": 304893,
+        "word": "歌手 伯远",
+        "onboard_time": 1714446557,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284122,
+        "num": 284122,
+        "word": "簪花",
+        "onboard_time": 1714452919,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 625963,
+        "num": 283737,
+        "word": "凤凰传奇骂票",
+        "onboard_time": 1714452919,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 275705,
+        "num": 275705,
+        "word": "想去张颂文家偷狗",
+        "onboard_time": 1714453219,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232439,
+        "num": 232439,
+        "word": "颖儿说婚姻不是家暴的遮羞布",
+        "onboard_time": 1714447878,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215323,
+        "num": 215323,
+        "word": "为什么朋友圈里的东西都好高级",
+        "onboard_time": 1714449259,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196545,
+        "num": 196545,
+        "word": "书卷一梦 番位",
+        "onboard_time": 1714449799,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192957,
+        "num": 192957,
+        "word": "五月天捐900万用于泉州校舍重建",
+        "onboard_time": 1714452800,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186651,
+        "num": 186651,
+        "word": "Suk常规赛MVP",
+        "onboard_time": 1714454598,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170956,
+        "num": 170956,
+        "word": "陈丽君陈昊宇cp",
+        "onboard_time": 1714453100,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166665,
+        "num": 166665,
+        "word": "女子获300万遗产被已婚男骗走206万",
+        "onboard_time": 1714445357,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166599,
+        "num": 166599,
+        "word": "詹姆斯燃尽了自己",
+        "onboard_time": 1714453459,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162022,
+        "num": 162022,
+        "word": "人鱼 没拍",
+        "onboard_time": 1714435398,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149836,
+        "num": 149836,
+        "word": "吴镇宇 金莎退休吧他养你了",
+        "onboard_time": 1714454537,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147474,
+        "num": 147474,
+        "word": "凤凰传奇郑州站抢票我的心情belike",
+        "onboard_time": 1714454418,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146594,
+        "num": 146594,
+        "word": "自称刷了30万的榜一大哥和女主播街头冲突",
+        "onboard_time": 1714439837,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145755,
+        "num": 145755,
+        "word": "十个勤天说王阳是猛男具象化",
+        "onboard_time": 1714450038,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140136,
+        "num": 140136,
+        "word": "李健 抢票",
+        "onboard_time": 1714454777,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138193,
+        "num": 138193,
+        "word": "花儿与少年好友记",
+        "onboard_time": 1714453638,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133981,
+        "num": 133981,
+        "word": "肖战晚宴的衣服穿到了机场",
+        "onboard_time": 1714440257,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127693,
+        "num": 127693,
+        "word": "为什么大家都不愿意请假去旅游",
+        "onboard_time": 1714449259,
+        "rank": 38,
+        "category": "情感,旅游"
+      },
+      {
+        "raw_hot": 31069,
+        "num": 120664,
+        "word": "向少长沙探班求助",
+        "onboard_time": 1714453279,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133351,
+        "num": 120230,
+        "word": "朴志效租房者预告",
+        "onboard_time": 1714399402,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119417,
+        "num": 119417,
+        "word": "詹杜库",
+        "onboard_time": 1714455138,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116080,
+        "num": 116080,
+        "word": "日元暴跌日本游客赴美时扛大米",
+        "onboard_time": 1714443016,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 113863,
+        "num": 113863,
+        "word": "宋亚轩拿到驾照了",
+        "onboard_time": 1714452381,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113035,
+        "num": 113035,
+        "word": "王源工作室",
+        "onboard_time": 1714451240,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112407,
+        "num": 112407,
+        "word": "凤凰传奇郑州 抢票",
+        "onboard_time": 1714449439,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108019,
+        "num": 108019,
+        "word": "问界M7事故家属发声",
+        "onboard_time": 1714436058,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106774,
+        "num": 106774,
+        "word": "湖人vs掘金",
+        "onboard_time": 1714440499,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106458,
+        "num": 106458,
+        "word": "湖人止步首轮",
+        "onboard_time": 1714452560,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104587,
+        "num": 106453,
+        "word": "KPL",
+        "onboard_time": 1714452800,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将访问法国塞尔维亚匈牙利#"
+    }
+  }
+}
