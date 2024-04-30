@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714504464047,
+  "endTime": 1714505653393,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -9035,6 +9035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43149,
+      "num": 43149,
+      "word": "美式前刺",
+      "onboard_time": 1714502832,
+      "rank": 26,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 42460,
       "num": 46665,
       "word": "张雨绮全绿开衩裙",
@@ -9105,14 +9113,6 @@
       "onboard_time": 1714387038,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 33933,
-      "num": 33933,
-      "word": "美式前刺",
-      "onboard_time": 1714502832,
-      "rank": 26,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 32408,
@@ -9211,6 +9211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20571,
+      "num": 20571,
+      "word": "欧洲德比",
+      "onboard_time": 1714505411,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20343,
       "num": 145602,
       "word": "被Hanni的甜美硬控住了",
@@ -9264,6 +9272,14 @@
       "word": "文化中国行",
       "onboard_time": 1713927617,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12797,
+      "num": 28215,
+      "word": "院士哽咽介绍医生每天一首琵琶曲延长患者生命",
+      "onboard_time": 1714505291,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
