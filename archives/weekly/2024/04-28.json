@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714451668469,
+  "endTime": 1714454238503,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1429291,
+      "num": 1429291,
+      "word": "东航一客机因机组成员矛盾应急滑梯放出",
+      "onboard_time": 1714451781,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1429219,
       "num": 511626,
       "word": "金靖曾被舒奕橙三次取关",
@@ -257,6 +265,14 @@
       "onboard_time": 1714279639,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1351461,
+      "num": 796833,
+      "word": "王俊凯王源工作室logo相似",
+      "onboard_time": 1714450819,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1329140,
@@ -377,6 +393,14 @@
       "onboard_time": 1714311439,
       "rank": 21,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 1158854,
+      "num": 1158854,
+      "word": "机票跳水",
+      "onboard_time": 1714449139,
+      "rank": 6,
+      "category": "旅游"
     },
     {
       "raw_hot": 1146430,
@@ -731,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 844941,
-      "num": 844941,
-      "word": "机票跳水",
-      "onboard_time": 1714449139,
-      "rank": 6,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 843951,
       "num": 843951,
       "word": "古天乐坚持十多年每天只吃一顿饭",
@@ -801,14 +817,6 @@
       "onboard_time": 1714404260,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 796833,
-      "num": 796833,
-      "word": "王俊凯王源工作室logo相似",
-      "onboard_time": 1714450819,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 789084,
@@ -947,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 710101,
+      "num": 710101,
+      "word": "威廉凯特结婚纪念日发黑白照",
+      "onboard_time": 1714451540,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 704620,
       "num": 704620,
       "word": "宋雨琦 反正他们听不懂",
@@ -969,6 +985,14 @@
       "onboard_time": 1714309038,
       "rank": 8,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 698097,
+      "num": 698097,
+      "word": "周杰伦长沙 谁抢到了",
+      "onboard_time": 1714452560,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 697277,
@@ -1009,6 +1033,14 @@
       "onboard_time": 1714447397,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 688390,
+      "num": 688390,
+      "word": "东航",
+      "onboard_time": 1714451720,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 687112,
@@ -1139,6 +1171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 638738,
+      "num": 638738,
+      "word": "掘金淘汰湖人",
+      "onboard_time": 1714452440,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 636021,
       "num": 636021,
       "word": "日元",
@@ -1257,6 +1297,22 @@
       "onboard_time": 1714442718,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 590524,
+      "num": 590524,
+      "word": "大爷称年轻人不允许享受下铺",
+      "onboard_time": 1714448779,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589269,
+      "num": 589269,
+      "word": "向太骨折李连杰携女儿看望",
+      "onboard_time": 1714451240,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 588041,
@@ -1393,14 +1449,6 @@
       "onboard_time": 1714376538,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 538369,
-      "num": 538369,
-      "word": "大爷称年轻人不允许享受下铺",
-      "onboard_time": 1714448779,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 536566,
@@ -1633,6 +1681,14 @@
       "onboard_time": 1714360218,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 486749,
+      "num": 486749,
+      "word": "穆雷绝杀湖人",
+      "onboard_time": 1714451720,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 486396,
@@ -2003,6 +2059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411983,
+      "num": 268787,
+      "word": "凤凰传奇骂票",
+      "onboard_time": 1714452919,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 411560,
       "num": 411560,
       "word": "雷军希望车企私下别搞小动作",
@@ -2316,7 +2380,7 @@
     },
     {
       "raw_hot": 351463,
-      "num": 566093,
+      "num": 618686,
       "word": "她是北大同专业同级唯一坚持读到毕业",
       "onboard_time": 1714446438,
       "rank": 9,
@@ -2819,6 +2883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270051,
+      "num": 270051,
+      "word": "想去张颂文家偷狗",
+      "onboard_time": 1714453219,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268989,
       "num": 268989,
       "word": "眼泪女王 狗血",
@@ -2867,14 +2939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 267612,
-      "num": 267612,
-      "word": "向太骨折李连杰携女儿看望",
-      "onboard_time": 1714451240,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 265855,
       "num": 265855,
       "word": "领导重新定义二本",
@@ -2913,6 +2977,14 @@
       "onboard_time": 1714349177,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 258798,
+      "num": 258798,
+      "word": "簪花",
+      "onboard_time": 1714452919,
+      "rank": 22,
+      "category": "旅游"
     },
     {
       "raw_hot": 258226,
@@ -3851,6 +3923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204339,
+      "num": 204339,
+      "word": "花儿与少年好友记",
+      "onboard_time": 1714453638,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203453,
       "num": 203453,
       "word": "警方回应两女子穿和服跳日本舞惹众怒",
@@ -4123,6 +4203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196689,
+      "num": 196689,
+      "word": "湖人止步首轮",
+      "onboard_time": 1714452560,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196473,
       "num": 196473,
       "word": "RW锁定败者组",
@@ -4145,6 +4233,14 @@
       "onboard_time": 1714218378,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195385,
+      "num": 195385,
+      "word": "五月天捐900万用于泉州校舍重建",
+      "onboard_time": 1714452800,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 195378,
@@ -4411,6 +4507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186721,
+      "num": 186721,
+      "word": "陈丽君陈昊宇cp",
+      "onboard_time": 1714453100,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186162,
       "num": 186162,
       "word": "下月底中国与格鲁吉亚互免签证",
@@ -4441,6 +4545,14 @@
       "onboard_time": 1714396819,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185419,
+      "num": 185419,
+      "word": "第十一周最佳选手流浪",
+      "onboard_time": 1714453459,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 184943,
@@ -4859,6 +4971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 171812,
+      "num": 171812,
+      "word": "詹姆斯燃尽了自己",
+      "onboard_time": 1714453459,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171780,
       "num": 171780,
       "word": "宋轶甜妹",
@@ -5057,6 +5177,14 @@
       "onboard_time": 1714265839,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162482,
+      "num": 162482,
+      "word": "穆雷隔扣詹姆斯",
+      "onboard_time": 1714451781,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 161484,
@@ -5507,6 +5635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147383,
+      "num": 147383,
+      "word": "宋亚轩拿到驾照了",
+      "onboard_time": 1714452381,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147380,
       "num": 147380,
       "word": "书卷一梦书写剧情版海报",
@@ -5723,6 +5859,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 138529,
+      "num": 136548,
+      "word": "被赛车服造价惊到了",
+      "onboard_time": 1714453999,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138519,
       "num": 138519,
       "word": "又嫉妒了黄秘书",
@@ -5761,14 +5905,6 @@
       "onboard_time": 1714357518,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135787,
-      "num": 135787,
-      "word": "威廉凯特结婚纪念日发黑白照",
-      "onboard_time": 1714451540,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135670,
@@ -6820,7 +6956,7 @@
     },
     {
       "raw_hot": 61126,
-      "num": 1120418,
+      "num": 1170504,
       "word": "五一打卡锦绣中国",
       "onboard_time": 1714447878,
       "rank": 2,
@@ -7080,6 +7216,14 @@
       "word": "maestro饭拍视频",
       "onboard_time": 1714242732,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 25751,
+      "num": 151563,
+      "word": "向少长沙探班求助",
+      "onboard_time": 1714453279,
+      "rank": 39,
       "category": "艺人"
     },
     {
