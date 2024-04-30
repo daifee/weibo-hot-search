@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714476871712,
+  "endTime": 1714480359061,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3843,6 +3843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1245323,
+      "num": 1245323,
+      "word": "大麻合法化后的泰国",
+      "onboard_time": 1714475238,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1243767,
       "num": 1243767,
       "word": "王珂出道吧",
@@ -4265,6 +4273,14 @@
       "onboard_time": 1713074238,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1190893,
+      "num": 261361,
+      "word": "月经乱来16年竟查出癌前病变",
+      "onboard_time": 1714476257,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1190385,
@@ -9539,6 +9555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 782993,
+      "num": 782993,
+      "word": "网传一三甲医院招聘博士后月薪两三千",
+      "onboard_time": 1714475836,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 782742,
       "num": 782742,
       "word": "金玟庭接受气胸手术",
@@ -13355,6 +13379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 636099,
+      "num": 636099,
+      "word": "庆余年第二季过审下证",
+      "onboard_time": 1714476377,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 636049,
       "num": 636049,
       "word": "张予曦穿了贾静雯去年浪姐的衣服",
@@ -14281,14 +14313,6 @@
       "onboard_time": 1712150901,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 607995,
-      "num": 174237,
-      "word": "大麻合法化后的泰国",
-      "onboard_time": 1714475238,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 607746,
@@ -20443,6 +20467,14 @@
       "category": "汽车,数码"
     },
     {
+      "raw_hot": 468688,
+      "num": 468688,
+      "word": "研究生女孩健身10年练出8块腹肌",
+      "onboard_time": 1714478418,
+      "rank": 6,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 468601,
       "num": 294701,
       "word": "喀秋莎体重已达20公斤",
@@ -22715,6 +22747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431107,
+      "num": 431107,
+      "word": "内蒙古一服务区切糕切出1万2称按克卖",
+      "onboard_time": 1714478477,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430521,
       "num": 430521,
       "word": "于正说白鹿推荐的曾舜晞",
@@ -24363,6 +24403,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 400831,
+      "num": 400831,
+      "word": "韩网评IVE国风争议",
+      "onboard_time": 1714477217,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 400344,
       "num": 400344,
       "word": "刘忻张予曦牵手过马路",
@@ -25177,6 +25225,14 @@
       "onboard_time": 1714347375,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 388014,
+      "num": 184536,
+      "word": "室友非要去迪士尼演唐老鸭",
+      "onboard_time": 1714477939,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 387986,
@@ -27625,14 +27681,6 @@
       "onboard_time": 1713958520,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 352594,
-      "num": 352594,
-      "word": "庆余年第二季过审下证",
-      "onboard_time": 1714476377,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 352571,
@@ -31131,6 +31179,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 309324,
+      "num": 183158,
+      "word": "香港顶流姜涛过生日",
+      "onboard_time": 1714477877,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309267,
       "num": 205967,
       "word": "经常读书和不读书有什么区别",
@@ -34003,6 +34059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280878,
+      "num": 280878,
+      "word": "5月十二星座注意事项",
+      "onboard_time": 1714478237,
+      "rank": 14,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 280824,
       "num": 280824,
       "word": "掘金vs湖人",
@@ -34241,14 +34305,6 @@
       "onboard_time": 1713416839,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278567,
-      "num": 261361,
-      "word": "月经乱来16年竟查出癌前病变",
-      "onboard_time": 1714476257,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 278507,
@@ -40467,6 +40523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 234103,
+      "num": 180039,
+      "word": "李佳琦开会状态",
+      "onboard_time": 1714480218,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 234095,
       "num": 162979,
       "word": "HYBE闵熙珍别打了",
@@ -41184,14 +41248,6 @@
       "word": "虐猫事件 反社会行为",
       "onboard_time": 1712673560,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230772,
-      "num": 271562,
-      "word": "网传一三甲医院招聘博士后月薪两三千",
-      "onboard_time": 1714475836,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -50299,6 +50355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 195942,
+      "num": 174746,
+      "word": "时代少年团演唱会个人solo预告",
+      "onboard_time": 1714480279,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195912,
       "num": 195912,
       "word": "陈丽君陈昊宇双向奔赴",
@@ -52891,6 +52955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189866,
+      "num": 173231,
+      "word": "赴山海女主",
+      "onboard_time": 1714476977,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189852,
       "num": 189852,
       "word": "WVS商店把NewJeans移除推荐位",
@@ -53361,6 +53433,14 @@
       "onboard_time": 1712482278,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188742,
+      "num": 171460,
+      "word": "成毅把剧本藏在桌布下",
+      "onboard_time": 1714479678,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 188685,
@@ -57041,6 +57121,14 @@
       "onboard_time": 1711927036,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 177970,
+      "num": 167834,
+      "word": "章若楠花墙拍照",
+      "onboard_time": 1714479318,
+      "rank": 32,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 177948,
@@ -65979,6 +66067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150278,
+      "num": 160279,
+      "word": "贵州凯里一鼓楼倒塌致1人遇难",
+      "onboard_time": 1714479379,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150203,
       "num": 150203,
       "word": "崔永熙报名NBA选秀",
@@ -68049,6 +68145,14 @@
       "onboard_time": 1712910798,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145210,
+      "num": 145210,
+      "word": "Doinb说不打老头杯没热度",
+      "onboard_time": 1714479678,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 145201,
@@ -71059,6 +71163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136112,
+      "num": 136112,
+      "word": "堵车2小时大脑就会受伤",
+      "onboard_time": 1714479917,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 136096,
       "num": 136096,
       "word": "广厦男篮逆转广东男篮",
@@ -72929,6 +73041,14 @@
       "onboard_time": 1712793318,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130863,
+      "num": 130863,
+      "word": "裘德报名歌手",
+      "onboard_time": 1714479739,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 130855,
@@ -77139,6 +77259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114557,
+      "num": 114557,
+      "word": "普通人有必要做医美吗",
+      "onboard_time": 1714478118,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 114537,
       "num": 114537,
       "word": "广东人喊人起床李清照附体",
@@ -78211,6 +78339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108453,
+      "num": 108453,
+      "word": "克雷桑帽子戏法",
+      "onboard_time": 1714480038,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108429,
       "num": 411727,
       "word": "LV大秀直击",
@@ -78523,6 +78659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106975,
+      "num": 106975,
+      "word": "戚薇欣赏每一位姐姐",
+      "onboard_time": 1714477998,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106916,
       "num": 106916,
       "word": "高考考700分是种什么概念",
@@ -78801,6 +78945,14 @@
       "onboard_time": 1712216236,
       "rank": 48,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 104824,
+      "num": 104824,
+      "word": "AHYEON麻花小辫",
+      "onboard_time": 1714480157,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 104729,
@@ -79931,6 +80083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96802,
+      "num": 96802,
+      "word": "减脂人的饮食日常be like",
+      "onboard_time": 1714479617,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 96797,
       "num": 96797,
       "word": "曼城大胜布莱顿",
@@ -80457,6 +80617,14 @@
       "onboard_time": 1712839217,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90223,
+      "num": 90223,
+      "word": "天津津门虎vs北京国安",
+      "onboard_time": 1714479439,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 90147,

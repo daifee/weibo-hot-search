@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714476871712,
+  "endTime": 1714480359061,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1245323,
+      "num": 1245323,
+      "word": "大麻合法化后的泰国",
+      "onboard_time": 1714475238,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1243588,
       "num": 1062875,
       "word": "我刘涛一生清清白白",
@@ -409,6 +417,14 @@
       "onboard_time": 1714359919,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1190893,
+      "num": 261361,
+      "word": "月经乱来16年竟查出癌前病变",
+      "onboard_time": 1714476257,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1178739,
@@ -931,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 782993,
+      "num": 782993,
+      "word": "网传一三甲医院招聘博士后月薪两三千",
+      "onboard_time": 1714475836,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 782120,
       "num": 782120,
       "word": "抢到了",
@@ -1307,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 636099,
+      "num": 636099,
+      "word": "庆余年第二季过审下证",
+      "onboard_time": 1714476377,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 636021,
       "num": 636021,
       "word": "日元",
@@ -1385,14 +1417,6 @@
       "onboard_time": 1714408154,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 607995,
-      "num": 174237,
-      "word": "大麻合法化后的泰国",
-      "onboard_time": 1714475238,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 603585,
@@ -1963,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 468688,
+      "num": 468688,
+      "word": "研究生女孩健身10年练出8块腹肌",
+      "onboard_time": 1714478418,
+      "rank": 6,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 467496,
       "num": 467496,
       "word": "簪花",
@@ -2179,12 +2211,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 431107,
+      "num": 431107,
+      "word": "内蒙古一服务区切糕切出1万2称按克卖",
+      "onboard_time": 1714478477,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429021,
       "num": 429021,
       "word": "雷军 爽文",
       "onboard_time": 1714377978,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 428672,
+      "num": 428672,
+      "word": "周深演唱会抢票",
+      "onboard_time": 1714479739,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 424233,
@@ -2323,6 +2371,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 400831,
+      "num": 400831,
+      "word": "韩网评IVE国风争议",
+      "onboard_time": 1714477217,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 398923,
       "num": 377345,
       "word": "睡眠不足的9大表现",
@@ -2345,6 +2401,14 @@
       "onboard_time": 1714347375,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 388014,
+      "num": 184536,
+      "word": "室友非要去迪士尼演唐老鸭",
+      "onboard_time": 1714477939,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 387706,
@@ -2617,14 +2681,6 @@
       "onboard_time": 1714462577,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 352594,
-      "num": 352594,
-      "word": "庆余年第二季过审下证",
-      "onboard_time": 1714476377,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 351463,
@@ -2979,6 +3035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309324,
+      "num": 183158,
+      "word": "香港顶流姜涛过生日",
+      "onboard_time": 1714477877,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308990,
       "num": 308990,
       "word": "湖人赢了",
@@ -3155,6 +3219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 280878,
+      "num": 280878,
+      "word": "5月十二星座注意事项",
+      "onboard_time": 1714478237,
+      "rank": 14,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 280824,
       "num": 280824,
       "word": "掘金vs湖人",
@@ -3177,14 +3249,6 @@
       "onboard_time": 1714318158,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 278567,
-      "num": 261361,
-      "word": "月经乱来16年竟查出癌前病变",
-      "onboard_time": 1714476257,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 278117,
@@ -3835,6 +3899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234103,
+      "num": 180039,
+      "word": "李佳琦开会状态",
+      "onboard_time": 1714480218,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 234007,
       "num": 234007,
       "word": "刘涛秦海璐 无趣的内容有趣地聊",
@@ -3897,14 +3969,6 @@
       "onboard_time": 1714437439,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 230772,
-      "num": 271562,
-      "word": "网传一三甲医院招聘博士后月薪两三千",
-      "onboard_time": 1714475836,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230381,
@@ -4443,6 +4507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205589,
+      "num": 178983,
+      "word": "哈尔的移动城堡",
+      "onboard_time": 1714476618,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205393,
       "num": 205393,
       "word": "SEVENTEEN发布会",
@@ -4851,6 +4923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195942,
+      "num": 174746,
+      "word": "时代少年团演唱会个人solo预告",
+      "onboard_time": 1714480279,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195378,
       "num": 195378,
       "word": "现男友",
@@ -5107,6 +5187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 189866,
+      "num": 173231,
+      "word": "赴山海女主",
+      "onboard_time": 1714476977,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189273,
       "num": 189273,
       "word": "榜上佳婿开机",
@@ -5145,6 +5233,14 @@
       "onboard_time": 1714310058,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188742,
+      "num": 171460,
+      "word": "成毅把剧本藏在桌布下",
+      "onboard_time": 1714479678,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 188645,
@@ -5563,6 +5659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177970,
+      "num": 167834,
+      "word": "章若楠花墙拍照",
+      "onboard_time": 1714479318,
+      "rank": 32,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 177617,
       "num": 177617,
       "word": "真正要忌口少吃的蔬菜",
@@ -5715,6 +5819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172093,
+      "num": 172093,
+      "word": "欧冠",
+      "onboard_time": 1714479557,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171812,
       "num": 171812,
       "word": "詹姆斯燃尽了自己",
@@ -5777,14 +5889,6 @@
       "onboard_time": 1714473256,
       "rank": 48,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 169692,
-      "num": 169692,
-      "word": "哈尔的移动城堡",
-      "onboard_time": 1714476618,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 169649,
@@ -6371,6 +6475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150278,
+      "num": 160279,
+      "word": "贵州凯里一鼓楼倒塌致1人遇难",
+      "onboard_time": 1714479379,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150080,
       "num": 150080,
       "word": "陈丽君 实至名归",
@@ -6635,6 +6747,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 145210,
+      "num": 145210,
+      "word": "Doinb说不打老头杯没热度",
+      "onboard_time": 1714479678,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145075,
       "num": 145075,
       "word": "朋友说虞书欣风是我的统治区",
@@ -6883,6 +7003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136112,
+      "num": 136112,
+      "word": "堵车2小时大脑就会受伤",
+      "onboard_time": 1714479917,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 135670,
       "num": 135670,
       "word": "四月的最后一天",
@@ -7113,6 +7241,14 @@
       "onboard_time": 1714273939,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130863,
+      "num": 130863,
+      "word": "裘德报名歌手",
+      "onboard_time": 1714479739,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 130674,
@@ -7579,6 +7715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114557,
+      "num": 114557,
+      "word": "普通人有必要做医美吗",
+      "onboard_time": 1714478118,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 113701,
       "num": 113701,
       "word": "神十七乘组要回地球过五一了",
@@ -7683,6 +7827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108453,
+      "num": 108453,
+      "word": "克雷桑帽子戏法",
+      "onboard_time": 1714480038,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107960,
       "num": 107960,
       "word": "安徽事业单位排名",
@@ -7739,6 +7891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106975,
+      "num": 106975,
+      "word": "戚薇欣赏每一位姐姐",
+      "onboard_time": 1714477998,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106833,
       "num": 104534,
       "word": "高速快车道一车辆撞上养护车致1死3伤",
@@ -7753,6 +7913,14 @@
       "onboard_time": 1714268837,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104824,
+      "num": 104824,
+      "word": "AHYEON麻花小辫",
+      "onboard_time": 1714480157,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 104644,
@@ -7851,6 +8019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96802,
+      "num": 96802,
+      "word": "减脂人的饮食日常be like",
+      "onboard_time": 1714479617,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 95545,
       "num": 95545,
       "word": "现在年轻人久坐问题有多普遍",
@@ -7937,6 +8113,14 @@
       "onboard_time": 1714222760,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 90223,
+      "num": 90223,
+      "word": "天津津门虎vs北京国安",
+      "onboard_time": 1714479439,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 86861,

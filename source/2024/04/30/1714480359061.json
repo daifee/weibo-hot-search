@@ -1,0 +1,410 @@
+{
+  "runTime": 1714480359061,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1245323,
+        "num": 1245323,
+        "word": "大麻合法化后的泰国",
+        "onboard_time": 1714475238,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 782993,
+        "num": 782993,
+        "word": "网传一三甲医院招聘博士后月薪两三千",
+        "onboard_time": 1714475836,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30684,
+        "num": 645786,
+        "word": "五一打卡锦绣中国",
+        "onboard_time": 1714447878,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636099,
+        "num": 636099,
+        "word": "庆余年第二季过审下证",
+        "onboard_time": 1714476377,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 590980,
+        "num": 590980,
+        "word": "下班",
+        "onboard_time": 1714463119,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 541277,
+        "num": 541277,
+        "word": "内娱顶级alpha",
+        "onboard_time": 1714468578,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468688,
+        "num": 468688,
+        "word": "研究生女孩健身10年练出8块腹肌",
+        "onboard_time": 1714478418,
+        "rank": 6,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 431107,
+        "num": 431107,
+        "word": "内蒙古一服务区切糕切出1万2称按克卖",
+        "onboard_time": 1714478477,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428672,
+        "num": 428672,
+        "word": "周深演唱会抢票",
+        "onboard_time": 1714479739,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146480,
+        "num": 402532,
+        "word": "毕业季又被簪花学士帽惊艳到了",
+        "onboard_time": 1714470318,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 469883,
+        "num": 401720,
+        "word": "孟子义首穿高定",
+        "onboard_time": 1714473197,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400831,
+        "num": 400831,
+        "word": "韩网评IVE国风争议",
+        "onboard_time": 1714477217,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 397513,
+        "num": 397513,
+        "word": "大学生投入3800元开店年入110万",
+        "onboard_time": 1714455498,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331236,
+        "num": 331236,
+        "word": "因为天气取消了五一出游",
+        "onboard_time": 1714447099,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280878,
+        "num": 280878,
+        "word": "5月十二星座注意事项",
+        "onboard_time": 1714478237,
+        "rank": 14,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 248350,
+        "num": 248350,
+        "word": "我刘涛一生清清白白",
+        "onboard_time": 1714459217,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239571,
+        "num": 239571,
+        "word": "成毅 进组",
+        "onboard_time": 1714468698,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232640,
+        "num": 232640,
+        "word": "庆余年里谁才是真正的主角",
+        "onboard_time": 1714475897,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225110,
+        "num": 225110,
+        "word": "诺米谢帝beef大和解",
+        "onboard_time": 1714476077,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185500,
+        "num": 185500,
+        "word": "天津取消户籍居民大户型限购",
+        "onboard_time": 1714465939,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1190893,
+        "num": 185417,
+        "word": "月经乱来16年竟查出癌前病变",
+        "onboard_time": 1714476257,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 388014,
+        "num": 184536,
+        "word": "室友非要去迪士尼演唐老鸭",
+        "onboard_time": 1714477939,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325418,
+        "num": 183575,
+        "word": "突然发现2杯奶茶可以买一件衣服",
+        "onboard_time": 1714459818,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 309324,
+        "num": 183158,
+        "word": "香港顶流姜涛过生日",
+        "onboard_time": 1714477877,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182514,
+        "num": 182514,
+        "word": "太空归来3人全部安全出舱",
+        "onboard_time": 1714473976,
+        "rank": 24,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 234103,
+        "num": 180039,
+        "word": "李佳琦开会状态",
+        "onboard_time": 1714480218,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 205589,
+        "num": 178983,
+        "word": "哈尔的移动城堡",
+        "onboard_time": 1714476618,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195942,
+        "num": 174746,
+        "word": "时代少年团演唱会个人solo预告",
+        "onboard_time": 1714480279,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189866,
+        "num": 173231,
+        "word": "赴山海女主",
+        "onboard_time": 1714476977,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172093,
+        "num": 172093,
+        "word": "欧冠",
+        "onboard_time": 1714479557,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188742,
+        "num": 171460,
+        "word": "成毅把剧本藏在桌布下",
+        "onboard_time": 1714479678,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168386,
+        "num": 168386,
+        "word": "韩国电视台报道IVE国风争议",
+        "onboard_time": 1714460418,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177970,
+        "num": 167834,
+        "word": "章若楠花墙拍照",
+        "onboard_time": 1714479318,
+        "rank": 32,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 150278,
+        "num": 160279,
+        "word": "贵州凯里一鼓楼倒塌致1人遇难",
+        "onboard_time": 1714479379,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156561,
+        "num": 156561,
+        "word": "赴山海官宣",
+        "onboard_time": 1714469897,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155572,
+        "num": 155572,
+        "word": "宋雨琦模仿金智媛",
+        "onboard_time": 1714475479,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145210,
+        "num": 145210,
+        "word": "Doinb说不打老头杯没热度",
+        "onboard_time": 1714479678,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144501,
+        "num": 144501,
+        "word": "迪丽热巴 民国大小姐",
+        "onboard_time": 1714464198,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136112,
+        "num": 136112,
+        "word": "堵车2小时大脑就会受伤",
+        "onboard_time": 1714479917,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130863,
+        "num": 130863,
+        "word": "裘德报名歌手",
+        "onboard_time": 1714479739,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114557,
+        "num": 114557,
+        "word": "普通人有必要做医美吗",
+        "onboard_time": 1714478118,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 110755,
+        "num": 110755,
+        "word": "回到那一天演唱会退票",
+        "onboard_time": 1714474817,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108453,
+        "num": 108453,
+        "word": "克雷桑帽子戏法",
+        "onboard_time": 1714480038,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106975,
+        "num": 106975,
+        "word": "戚薇欣赏每一位姐姐",
+        "onboard_time": 1714477998,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105444,
+        "num": 105444,
+        "word": "肖战街头大片",
+        "onboard_time": 1714476498,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104824,
+        "num": 104824,
+        "word": "AHYEON麻花小辫",
+        "onboard_time": 1714480157,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102189,
+        "num": 102189,
+        "word": "女子领证前发现男友出轨分手拒退彩礼",
+        "onboard_time": 1714455857,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100399,
+        "num": 100399,
+        "word": "中医建议适合身体弱的工作",
+        "onboard_time": 1714466838,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96802,
+        "num": 96802,
+        "word": "减脂人的饮食日常be like",
+        "onboard_time": 1714479617,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 90223,
+        "num": 90223,
+        "word": "天津津门虎vs北京国安",
+        "onboard_time": 1714479439,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将访问法国塞尔维亚匈牙利#"
+    }
+  }
+}
