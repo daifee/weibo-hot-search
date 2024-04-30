@@ -1,0 +1,410 @@
+{
+  "runTime": 1714448067649,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1501079,
+        "num": 1501079,
+        "word": "凯特王妃",
+        "onboard_time": 1714441698,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1627585,
+        "num": 1286118,
+        "word": "老人在自家别墅踩空电梯不幸身亡",
+        "onboard_time": 1714441878,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11226,
+        "num": 1120418,
+        "word": "五一打卡锦绣中国",
+        "onboard_time": 1714447878,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1047296,
+        "num": 1047296,
+        "word": "歌手 伯远",
+        "onboard_time": 1714446557,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646082,
+        "num": 646082,
+        "word": "人鱼 没拍",
+        "onboard_time": 1714435398,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 637919,
+        "num": 637919,
+        "word": "因为天气取消了五一出游",
+        "onboard_time": 1714447099,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 474126,
+        "num": 474126,
+        "word": "自称刷了30万的榜一大哥和女主播街头冲突",
+        "onboard_time": 1714439837,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449273,
+        "num": 449273,
+        "word": "日本物价为何突然暴涨",
+        "onboard_time": 1714437499,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 361077,
+        "num": 361077,
+        "word": "女子获300万遗产被已婚男骗走206万",
+        "onboard_time": 1714445357,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272927,
+        "num": 360151,
+        "word": "她是北大同专业同级唯一坚持读到毕业",
+        "onboard_time": 1714446438,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694547,
+        "num": 359930,
+        "word": "日元暴跌日本游客赴美时扛大米",
+        "onboard_time": 1714443016,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 359381,
+        "num": 359381,
+        "word": "神十七乘组天外归来",
+        "onboard_time": 1714444338,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333610,
+        "num": 333610,
+        "word": "警方通报女子骑电瓶车被交警强行拽下",
+        "onboard_time": 1714442116,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422784,
+        "num": 333464,
+        "word": "秦岚早期长发照片",
+        "onboard_time": 1714447397,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9943,
+        "num": 331542,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110658,
+        "num": 331479,
+        "word": "放假时总想去别的城市看看",
+        "onboard_time": 1714444637,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331438,
+        "num": 331438,
+        "word": "书卷一梦阵容官宣",
+        "onboard_time": 1714445837,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327047,
+        "num": 327047,
+        "word": "林更新赵露思或合作新剧",
+        "onboard_time": 1714443500,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326700,
+        "num": 326700,
+        "word": "华为与苹果同日举办新品发布会",
+        "onboard_time": 1714441757,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 303499,
+        "num": 303499,
+        "word": "中国驱离菲律宾侵闯黄岩岛邻近海域船只",
+        "onboard_time": 1714443737,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 535706,
+        "num": 302669,
+        "word": "miumiu3250元发卡卖断货",
+        "onboard_time": 1714442718,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 452683,
+        "num": 302101,
+        "word": "真正厉害的人都很擅长睡觉",
+        "onboard_time": 1714442058,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 301495,
+        "num": 301495,
+        "word": "徐艺洋是真不想给黄子韬名分",
+        "onboard_time": 1714377679,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281738,
+        "num": 281738,
+        "word": "怀孕以后为什么觉得老公巨臭无比",
+        "onboard_time": 1714438758,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281451,
+        "num": 281451,
+        "word": "湖人vs掘金",
+        "onboard_time": 1714440499,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271078,
+        "num": 271078,
+        "word": "李一桐刘宇宁合作",
+        "onboard_time": 1714446858,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267805,
+        "num": 267805,
+        "word": "肖战晚宴的衣服穿到了机场",
+        "onboard_time": 1714440257,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248779,
+        "num": 248779,
+        "word": "为什么女生不喜欢和公婆同住",
+        "onboard_time": 1714445178,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240878,
+        "num": 240878,
+        "word": "朴志效租房者预告",
+        "onboard_time": 1714399402,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43606,
+        "num": 216569,
+        "word": "蛋仔派对猫鼠联动正式上线",
+        "onboard_time": 1714445357,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215834,
+        "num": 215834,
+        "word": "问界M7事故家属发声",
+        "onboard_time": 1714436058,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203202,
+        "num": 203202,
+        "word": "问界M7事故家属向救援者致谢",
+        "onboard_time": 1714445897,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200263,
+        "num": 200263,
+        "word": "Aimer上海 抢票",
+        "onboard_time": 1714447578,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192154,
+        "num": 192154,
+        "word": "国内首部AI全流程科幻广播剧",
+        "onboard_time": 1714447759,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180091,
+        "num": 180091,
+        "word": "为什么建议买同款上一代手机",
+        "onboard_time": 1714443078,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180045,
+        "num": 180045,
+        "word": "南宁霸凌",
+        "onboard_time": 1714438578,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171956,
+        "num": 171956,
+        "word": "福建广东雷暴大风冰雹来袭",
+        "onboard_time": 1714445718,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165055,
+        "num": 165055,
+        "word": "侯雯元首次在节目里提钟楚曦",
+        "onboard_time": 1714439657,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151081,
+        "num": 151081,
+        "word": "五一 下雨",
+        "onboard_time": 1714447937,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 150841,
+        "num": 150841,
+        "word": "颖儿说婚姻不是家暴的遮羞布",
+        "onboard_time": 1714447878,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150081,
+        "num": 150081,
+        "word": "艺人五月行程图",
+        "onboard_time": 1714444578,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147380,
+        "num": 147380,
+        "word": "书卷一梦书写剧情版海报",
+        "onboard_time": 1714447759,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145047,
+        "num": 145047,
+        "word": "杨幂王鹤润尔滨再续扶摇缘",
+        "onboard_time": 1714444158,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144999,
+        "num": 144999,
+        "word": "歌手",
+        "onboard_time": 1714433235,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138691,
+        "num": 138691,
+        "word": "校方回应学生用完演出服后集体退货",
+        "onboard_time": 1714432996,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138490,
+        "num": 138490,
+        "word": "男凝和欣赏区别",
+        "onboard_time": 1714446137,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134891,
+        "num": 134891,
+        "word": "病毒学家张永振已受聘广州一研究院",
+        "onboard_time": 1714439657,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130610,
+        "num": 130610,
+        "word": "早起三不做",
+        "onboard_time": 1714443978,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128849,
+        "num": 128849,
+        "word": "Cityline你以后就嫁给retry",
+        "onboard_time": 1714447279,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125813,
+        "num": 125813,
+        "word": "另一种蓝定档",
+        "onboard_time": 1714446378,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#着力打造具有全球影响力的产业科技创新中心#"
+    }
+  }
+}

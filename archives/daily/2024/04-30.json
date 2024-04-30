@@ -1,6 +1,6 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714447166551,
+  "endTime": 1714448067649,
   "band_list": [
     {
       "raw_hot": 2169074,
@@ -57,6 +57,14 @@
       "onboard_time": 1714437499,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1047296,
+      "num": 1047296,
+      "word": "歌手 伯远",
+      "onboard_time": 1714446557,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 805647,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 637919,
+      "num": 637919,
+      "word": "因为天气取消了五一出游",
+      "onboard_time": 1714447099,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 608277,
       "num": 303548,
       "word": "警方回应女子逛夜市裙子上现不明液体",
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 590617,
-      "num": 270274,
+      "num": 302669,
       "word": "miumiu3250元发卡卖断货",
       "onboard_time": 1714442718,
       "rank": 30,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 530465,
-      "num": 270135,
+      "num": 302101,
       "word": "真正厉害的人都很擅长睡觉",
       "onboard_time": 1714442058,
       "rank": 22,
@@ -203,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422784,
+      "num": 333464,
+      "word": "秦岚早期长发照片",
+      "onboard_time": 1714447397,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413684,
       "num": 413684,
       "word": "林更新赵露思或合作新剧",
@@ -235,14 +259,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 378792,
-      "num": 378792,
-      "word": "歌手 伯远",
-      "onboard_time": 1714446557,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 373881,
       "num": 373881,
       "word": "中国驱离菲律宾侵闯黄岩岛邻近海域船只",
@@ -256,6 +272,22 @@
       "word": "警方通报女子骑电瓶车被交警强行拽下",
       "onboard_time": 1714442116,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361077,
+      "num": 361077,
+      "word": "女子获300万遗产被已婚男骗走206万",
+      "onboard_time": 1714445357,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359381,
+      "num": 359381,
+      "word": "神十七乘组天外归来",
+      "onboard_time": 1714444338,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -281,14 +313,6 @@
       "onboard_time": 1714399821,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 340894,
-      "num": 340894,
-      "word": "神十七乘组天外归来",
-      "onboard_time": 1714444338,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336399,
@@ -331,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281451,
+      "num": 281451,
+      "word": "湖人vs掘金",
+      "onboard_time": 1714440499,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280214,
       "num": 196581,
       "word": "辛芷蕾工作室关闭后援会账号",
@@ -339,12 +371,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272927,
+      "num": 374512,
+      "word": "她是北大同专业同级唯一坚持读到毕业",
+      "onboard_time": 1714446438,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271121,
       "num": 199483,
       "word": "官方回应广东一外卖员雨中落水身亡",
       "onboard_time": 1714404859,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271078,
+      "num": 271078,
+      "word": "李一桐刘宇宁合作",
+      "onboard_time": 1714446858,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 264897,
@@ -363,12 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249629,
-      "num": 249629,
-      "word": "女子获300万遗产被已婚男骗走206万",
-      "onboard_time": 1714445357,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 248779,
+      "num": 248779,
+      "word": "为什么女生不喜欢和公婆同住",
+      "onboard_time": 1714445178,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 241607,
@@ -393,14 +441,6 @@
       "onboard_time": 1714402222,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 234509,
-      "num": 234509,
-      "word": "湖人vs掘金",
-      "onboard_time": 1714440499,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 234007,
@@ -467,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211015,
-      "num": 211015,
-      "word": "为什么女生不喜欢和公婆同住",
-      "onboard_time": 1714445178,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 207497,
       "num": 207497,
       "word": "冬天埋的小猫变成了小草",
@@ -507,6 +539,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203202,
+      "num": 203202,
+      "word": "问界M7事故家属向救援者致谢",
+      "onboard_time": 1714445897,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200263,
+      "num": 200263,
+      "word": "Aimer上海 抢票",
+      "onboard_time": 1714447578,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199963,
       "num": 199963,
       "word": "为什么说龙系长相是天生演员",
@@ -531,20 +579,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192154,
+      "num": 192154,
+      "word": "国内首部AI全流程科幻广播剧",
+      "onboard_time": 1714447759,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191143,
       "num": 191143,
       "word": "艺人五月行程图",
       "onboard_time": 1714444578,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190167,
-      "num": 190167,
-      "word": "问界M7事故家属向救援者致谢",
-      "onboard_time": 1714445897,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188013,
@@ -601,14 +649,6 @@
       "onboard_time": 1714431855,
       "rank": 24,
       "category": "财经,美食"
-    },
-    {
-      "raw_hot": 172712,
-      "num": 172712,
-      "word": "李一桐刘宇宁合作",
-      "onboard_time": 1714446858,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 172343,
@@ -683,14 +723,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 158914,
-      "num": 374512,
-      "word": "她是北大同专业同级唯一坚持读到毕业",
-      "onboard_time": 1714446438,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154421,
       "num": 154421,
       "word": "我不善良遇强则强",
@@ -715,6 +747,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151081,
+      "num": 151081,
+      "word": "五一 下雨",
+      "onboard_time": 1714447937,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 150841,
+      "num": 150841,
+      "word": "颖儿说婚姻不是家暴的遮羞布",
+      "onboard_time": 1714447878,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148705,
       "num": 148705,
       "word": "春色寄情人看脸红了",
@@ -729,6 +777,14 @@
       "onboard_time": 1714443978,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 147380,
+      "num": 147380,
+      "word": "书卷一梦书写剧情版海报",
+      "onboard_time": 1714447759,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 146711,
@@ -859,12 +915,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130850,
-      "num": 130850,
-      "word": "因为天气取消了五一出游",
-      "onboard_time": 1714447099,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 128849,
+      "num": 128849,
+      "word": "Cityline你以后就嫁给retry",
+      "onboard_time": 1714447279,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 127746,
@@ -947,6 +1003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110658,
+      "num": 331479,
+      "word": "放假时总想去别的城市看看",
+      "onboard_time": 1714444637,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103321,
       "num": 132188,
       "word": "初中女生被多人欺负殴打8人被行拘",
@@ -1001,14 +1065,6 @@
       "onboard_time": 1714408456,
       "rank": 49,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 86741,
-      "num": 321623,
-      "word": "放假时总想去别的城市看看",
-      "onboard_time": 1714444637,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81898,
@@ -1108,7 +1164,7 @@
     },
     {
       "raw_hot": 49110,
-      "num": 204099,
+      "num": 216569,
       "word": "蛋仔派对猫鼠联动正式上线",
       "onboard_time": 1714445357,
       "rank": 29,
@@ -1183,6 +1239,14 @@
       "num": 1102329,
       "word": "文化中国行",
       "onboard_time": 1713927617,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11226,
+      "num": 1120418,
+      "word": "五一打卡锦绣中国",
+      "onboard_time": 1714447878,
       "rank": 2,
       "category": "社会新闻"
     },

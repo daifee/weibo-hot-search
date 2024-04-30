@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714447166551,
+  "endTime": 1714448067649,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -464,6 +464,14 @@
       "word": "4个何炅",
       "onboard_time": 1714227140,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1047296,
+      "num": 1047296,
+      "word": "歌手 伯远",
+      "onboard_time": 1714446557,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -1083,6 +1091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 637919,
+      "num": 637919,
+      "word": "因为天气取消了五一出游",
+      "onboard_time": 1714447099,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 636021,
       "num": 636021,
       "word": "日元",
@@ -1196,7 +1212,7 @@
     },
     {
       "raw_hot": 590617,
-      "num": 270274,
+      "num": 302669,
       "word": "miumiu3250元发卡卖断货",
       "onboard_time": 1714442718,
       "rank": 30,
@@ -1348,7 +1364,7 @@
     },
     {
       "raw_hot": 530465,
-      "num": 270135,
+      "num": 302101,
       "word": "真正厉害的人都很擅长睡觉",
       "onboard_time": 1714442058,
       "rank": 22,
@@ -1867,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422784,
+      "num": 333464,
+      "word": "秦岚早期长发照片",
+      "onboard_time": 1714447397,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421503,
       "num": 1067980,
       "word": "中国航天员完成在轨交接",
@@ -2043,14 +2067,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 378792,
-      "num": 378792,
-      "word": "歌手 伯远",
-      "onboard_time": 1714446557,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 377525,
       "num": 377525,
       "word": "广西通报一小学生坠楼身亡",
@@ -2139,12 +2155,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 361077,
+      "num": 361077,
+      "word": "女子获300万遗产被已婚男骗走206万",
+      "onboard_time": 1714445357,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359381,
       "num": 318556,
       "word": "原来是因为头发少所以油得快",
       "onboard_time": 1714395318,
       "rank": 21,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 359381,
+      "num": 359381,
+      "word": "神十七乘组天外归来",
+      "onboard_time": 1714444338,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358842,
@@ -2225,14 +2257,6 @@
       "onboard_time": 1714276338,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 340894,
-      "num": 340894,
-      "word": "神十七乘组天外归来",
-      "onboard_time": 1714444338,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339870,
@@ -2595,6 +2619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281451,
+      "num": 281451,
+      "word": "湖人vs掘金",
+      "onboard_time": 1714440499,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280824,
       "num": 280824,
       "word": "掘金vs湖人",
@@ -2651,6 +2683,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 272927,
+      "num": 374512,
+      "word": "她是北大同专业同级唯一坚持读到毕业",
+      "onboard_time": 1714446438,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272264,
       "num": 272264,
       "word": "蔡磊妻子说天天愁有什么用",
@@ -2681,6 +2721,14 @@
       "onboard_time": 1714404859,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271078,
+      "num": 271078,
+      "word": "李一桐刘宇宁合作",
+      "onboard_time": 1714446858,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 270529,
@@ -2859,14 +2907,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 249629,
-      "num": 249629,
-      "word": "女子获300万遗产被已婚男骗走206万",
-      "onboard_time": 1714445357,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249628,
       "num": 249628,
       "word": "屠宰场处理一只活猫仅需几分钟",
@@ -2897,6 +2937,14 @@
       "onboard_time": 1714364959,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 248779,
+      "num": 248779,
+      "word": "为什么女生不喜欢和公婆同住",
+      "onboard_time": 1714445178,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 248711,
@@ -3105,14 +3153,6 @@
       "onboard_time": 1714225819,
       "rank": 24,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 234509,
-      "num": 234509,
-      "word": "湖人vs掘金",
-      "onboard_time": 1714440499,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 234292,
@@ -3491,14 +3531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211015,
-      "num": 211015,
-      "word": "为什么女生不喜欢和公婆同住",
-      "onboard_time": 1714445178,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 210849,
       "num": 236718,
       "word": "终于喝上冰中式了",
@@ -3715,6 +3747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203202,
+      "num": 203202,
+      "word": "问界M7事故家属向救援者致谢",
+      "onboard_time": 1714445897,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202426,
       "num": 202426,
       "word": "AG逆风翻盘",
@@ -3809,6 +3849,14 @@
       "onboard_time": 1714316299,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200263,
+      "num": 200263,
+      "word": "Aimer上海 抢票",
+      "onboard_time": 1714447578,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 200006,
@@ -4115,6 +4163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192154,
+      "num": 192154,
+      "word": "国内首部AI全流程科幻广播剧",
+      "onboard_time": 1714447759,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192057,
       "num": 192057,
       "word": "林孝埈谈四登长城",
@@ -4169,14 +4225,6 @@
       "onboard_time": 1714296798,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190167,
-      "num": 190167,
-      "word": "问界M7事故家属向救援者致谢",
-      "onboard_time": 1714445897,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189273,
@@ -4659,14 +4707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172712,
-      "num": 172712,
-      "word": "李一桐刘宇宁合作",
-      "onboard_time": 1714446858,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 172665,
       "num": 172665,
       "word": "爱德华兹隔扣杜兰特",
@@ -4931,14 +4971,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 158914,
-      "num": 374512,
-      "word": "她是北大同专业同级唯一坚持读到毕业",
-      "onboard_time": 1714446438,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158107,
       "num": 161534,
       "word": "别让旗袍限制了我们的运动",
@@ -5123,11 +5155,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151081,
+      "num": 151081,
+      "word": "五一 下雨",
+      "onboard_time": 1714447937,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 151015,
       "num": 151015,
       "word": "春色寄情人",
       "onboard_time": 1714391959,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150841,
+      "num": 150841,
+      "word": "颖儿说婚姻不是家暴的遮羞布",
+      "onboard_time": 1714447878,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -5305,6 +5353,14 @@
       "onboard_time": 1714399821,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147380,
+      "num": 147380,
+      "word": "书卷一梦书写剧情版海报",
+      "onboard_time": 1714447759,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 147171,
@@ -5707,14 +5763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130850,
-      "num": 130850,
-      "word": "因为天气取消了五一出游",
-      "onboard_time": 1714447099,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 130658,
       "num": 130658,
       "word": "民警徒步4小时帮女子找回黄金首饰",
@@ -5769,6 +5817,14 @@
       "onboard_time": 1714286899,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128849,
+      "num": 128849,
+      "word": "Cityline你以后就嫁给retry",
+      "onboard_time": 1714447279,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 128843,
@@ -6147,6 +6203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110658,
+      "num": 331479,
+      "word": "放假时总想去别的城市看看",
+      "onboard_time": 1714444637,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109722,
       "num": 109722,
       "word": "炸树叶好歹毒的吃法",
@@ -6411,14 +6475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86741,
-      "num": 321623,
-      "word": "放假时总想去别的城市看看",
-      "onboard_time": 1714444637,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84684,
       "num": 389323,
       "word": "林更新状态",
@@ -6652,7 +6708,7 @@
     },
     {
       "raw_hot": 49110,
-      "num": 204099,
+      "num": 216569,
       "word": "蛋仔派对猫鼠联动正式上线",
       "onboard_time": 1714445357,
       "rank": 29,
@@ -6921,6 +6977,14 @@
       "onboard_time": 1714336390,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 11226,
+      "num": 1120418,
+      "word": "五一打卡锦绣中国",
+      "onboard_time": 1714447878,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8467,
