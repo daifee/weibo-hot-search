@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714484050304,
+  "endTime": 1714486674024,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -499,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1080790,
+      "num": 1014776,
+      "word": "内蒙古一服务区切糕切出1万2称按克卖",
+      "onboard_time": 1714478477,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1078731,
       "num": 470648,
       "word": "朱莉回应离婚",
@@ -595,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1046399,
+      "num": 1046399,
+      "word": "春色寄情人结局",
+      "onboard_time": 1714482558,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1045867,
       "num": 386084,
       "word": "吃烤苕皮是一件很私密的事",
@@ -625,14 +641,6 @@
       "onboard_time": 1714309279,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1014776,
-      "num": 1014776,
-      "word": "内蒙古一服务区切糕切出1万2称按克卖",
-      "onboard_time": 1714478477,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 983077,
@@ -1043,6 +1051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 731773,
+      "num": 236429,
+      "word": "美国流浪汉当街啃人脸吃眼球和耳朵",
+      "onboard_time": 1714484538,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 731033,
       "num": 731033,
       "word": "布林肯在中国遭BBC女记者连怼",
@@ -1283,6 +1299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 659425,
+      "num": 659425,
+      "word": "2套房京籍家庭可在五环外新购1套房",
+      "onboard_time": 1714482379,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 656989,
       "num": 383306,
       "word": "南宁霸凌",
@@ -1464,14 +1488,6 @@
       "word": "问界",
       "onboard_time": 1714311800,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 600562,
-      "num": 600562,
-      "word": "2套房京籍家庭可在五环外新购1套房",
-      "onboard_time": 1714482379,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1832,6 +1848,14 @@
       "word": "眼泪女王收视率",
       "onboard_time": 1714228641,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 508220,
+      "num": 508220,
+      "word": "春色寄情人微博开分8.9",
+      "onboard_time": 1714482797,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -2291,6 +2315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 420786,
+      "num": 332399,
+      "word": "李现周雨彤喉结吻",
+      "onboard_time": 1714483938,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418905,
       "num": 304402,
       "word": "存多少钱能用利息生活",
@@ -2361,6 +2393,14 @@
       "onboard_time": 1714459638,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 407414,
+      "num": 283792,
+      "word": "支付宝回应用户网购保险被远程录屏",
+      "onboard_time": 1714483458,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 406406,
@@ -2755,14 +2795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 340449,
-      "num": 340449,
-      "word": "春色寄情人结局",
-      "onboard_time": 1714482558,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 339870,
       "num": 339870,
       "word": "何炅张杰看烟花",
@@ -3123,6 +3155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304208,
+      "num": 281571,
+      "word": "背着善宰跑第八集",
+      "onboard_time": 1714485199,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303283,
       "num": 303283,
       "word": "IVE 烟杆",
@@ -3195,6 +3235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 296196,
+      "num": 196413,
+      "word": "洁丽雅董事长谈儿子拍短剧出圈",
+      "onboard_time": 1714486219,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293518,
       "num": 293518,
       "word": "久坐1小时肌肉就开始出现结节",
@@ -3209,14 +3257,6 @@
       "onboard_time": 1714220118,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 291981,
-      "num": 291981,
-      "word": "春色寄情人微博开分8.9",
-      "onboard_time": 1714482797,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 290829,
@@ -3241,6 +3281,14 @@
       "onboard_time": 1714294038,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 288202,
+      "num": 288202,
+      "word": "珠海冰雹",
+      "onboard_time": 1714483218,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287221,
@@ -3305,6 +3353,14 @@
       "onboard_time": 1714385057,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 280364,
+      "num": 280364,
+      "word": "苗苗乘风一公幕后vlog",
+      "onboard_time": 1714483818,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 279520,
@@ -3673,6 +3729,14 @@
       "onboard_time": 1714380618,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 250891,
+      "num": 250891,
+      "word": "元梦之星",
+      "onboard_time": 1714485678,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 249628,
@@ -4235,6 +4299,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 218807,
+      "num": 218807,
+      "word": "学生低价在飞猪上订房遭强制退房",
+      "onboard_time": 1714482619,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218793,
       "num": 218793,
       "word": "BABYMONSTER末放",
@@ -4297,14 +4369,6 @@
       "onboard_time": 1714463478,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215964,
-      "num": 215964,
-      "word": "学生低价在飞猪上订房遭强制退房",
-      "onboard_time": 1714482619,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215755,
@@ -4417,14 +4481,6 @@
       "onboard_time": 1714388059,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 210829,
-      "num": 210829,
-      "word": "珠海冰雹",
-      "onboard_time": 1714483218,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210147,
@@ -4667,6 +4723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203873,
+      "num": 203873,
+      "word": "第一次见珠海的冰雹",
+      "onboard_time": 1714485320,
+      "rank": 26,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 203453,
       "num": 203453,
       "word": "警方回应两女子穿和服跳日本舞惹众怒",
@@ -4907,6 +4971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197967,
+      "num": 197967,
+      "word": "和死对头吵架突然亲我一口",
+      "onboard_time": 1714485740,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197902,
       "num": 197902,
       "word": "不够善良的我们 单身女性",
@@ -5001,6 +5073,14 @@
       "onboard_time": 1714456817,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196108,
+      "num": 196108,
+      "word": "没有一顿火锅解决不了的事",
+      "onboard_time": 1714486039,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 196062,
@@ -5145,6 +5225,14 @@
       "onboard_time": 1714475297,
       "rank": 23,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 193133,
+      "num": 193133,
+      "word": "喝水后出现4种异常或是肾脏在求救",
+      "onboard_time": 1714482079,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 193095,
@@ -5947,6 +6035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171297,
+      "num": 171297,
+      "word": "那英说张颂文唱歌很难评",
+      "onboard_time": 1714486219,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170612,
       "num": 170612,
       "word": "眼泪女王收视率破40",
@@ -6035,6 +6131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167667,
+      "num": 167667,
+      "word": "月红篇剧组hi6上班",
+      "onboard_time": 1714485740,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167624,
       "num": 167624,
       "word": "奶奶们围成人墙保护3岁走失娃",
@@ -6121,14 +6225,6 @@
       "onboard_time": 1714435340,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163728,
-      "num": 163728,
-      "word": "喝水后出现4种异常或是肾脏在求救",
-      "onboard_time": 1714482079,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 163555,
@@ -6241,6 +6337,14 @@
       "onboard_time": 1714352240,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158906,
+      "num": 158906,
+      "word": "为什么听到父母的关心会烦躁",
+      "onboard_time": 1714485018,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 158609,
@@ -6385,6 +6489,14 @@
       "onboard_time": 1714346534,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156321,
+      "num": 156321,
+      "word": "汤姆斯杯",
+      "onboard_time": 1714486100,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 156035,
@@ -6633,6 +6745,14 @@
       "onboard_time": 1714380019,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 149381,
+      "num": 149381,
+      "word": "汤姆斯杯中国2比2韩国",
+      "onboard_time": 1714485919,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 149326,
@@ -6899,14 +7019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144445,
-      "num": 144445,
-      "word": "支付宝回应用户网购保险被远程录屏",
-      "onboard_time": 1714483458,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 144369,
       "num": 144369,
       "word": "当你在朋友圈发旅游照片时",
@@ -7043,6 +7155,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 139450,
+      "num": 139450,
+      "word": "天津津门虎0比1北京国安",
+      "onboard_time": 1714486459,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139400,
       "num": 139400,
       "word": "1图了解个税汇算申报更正和作废",
@@ -7129,14 +7249,6 @@
       "onboard_time": 1714357518,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135818,
-      "num": 135818,
-      "word": "苗苗乘风一公幕后vlog",
-      "onboard_time": 1714483818,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 135670,
@@ -7713,14 +7825,6 @@
       "onboard_time": 1714283779,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122573,
-      "num": 122573,
-      "word": "李现周雨彤喉结吻",
-      "onboard_time": 1714483938,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 122060,
@@ -8355,6 +8459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 77101,
+      "num": 196605,
+      "word": "西双版纳萤火虫林间起舞如星河",
+      "onboard_time": 1714484117,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 76612,
       "num": 76612,
       "word": "陈少熙是懂M3的",
@@ -8385,6 +8497,14 @@
       "onboard_time": 1714252692,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 68950,
+      "num": 572128,
+      "word": "神十七航天员回家",
+      "onboard_time": 1714485139,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67765,
@@ -8723,6 +8843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 29899,
+      "num": 285013,
+      "word": "拉夫劳伦大女主怎么穿",
+      "onboard_time": 1714484117,
+      "rank": 11,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 29247,
       "num": 268963,
       "word": "蛋仔派对极速追逃",
@@ -8884,6 +9012,9 @@
     },
     {
       "word": "#二十届三中全会#"
+    },
+    {
+      "word": "#追光的你#"
     }
   ]
 }
