@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714495107321,
+  "endTime": 1714497364593,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -2505,6 +2505,14 @@
       "onboard_time": 1714381278,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 400946,
+      "num": 400946,
+      "word": "你还在穿鬼冢虎吗",
+      "onboard_time": 1714494437,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 400874,
@@ -6259,6 +6267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169233,
+      "num": 169233,
+      "word": "网传江苏宿迁禁止打印店打印控告材料",
+      "onboard_time": 1714495096,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169154,
       "num": 169154,
       "word": "蛋仔派对充值328元将强制人脸验证",
@@ -6377,6 +6393,14 @@
       "onboard_time": 1714263319,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 165595,
+      "num": 165595,
+      "word": "编剧大人 我不允许任何人辱骂你",
+      "onboard_time": 1714492518,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 163969,
@@ -7137,14 +7161,6 @@
       "onboard_time": 1714469777,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 146401,
-      "num": 146401,
-      "word": "编剧大人 我不允许任何人辱骂你",
-      "onboard_time": 1714492518,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 146090,
@@ -8299,6 +8315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110787,
+      "num": 152118,
+      "word": "深圳天气",
+      "onboard_time": 1714492759,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110658,
       "num": 331479,
       "word": "放假时总想去别的城市看看",
@@ -8443,14 +8467,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 102559,
-      "num": 152118,
-      "word": "深圳天气",
-      "onboard_time": 1714492759,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102336,
       "num": 117993,
       "word": "北伦敦德比",
@@ -8537,14 +8553,6 @@
       "onboard_time": 1714433116,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 97201,
-      "num": 97201,
-      "word": "你还在穿鬼冢虎吗",
-      "onboard_time": 1714494437,
-      "rank": 34,
-      "category": "时尚"
     },
     {
       "raw_hot": 96802,
@@ -8681,6 +8689,14 @@
       "onboard_time": 1714360819,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 82421,
+      "num": 82421,
+      "word": "为什么叶轻眉的人气那么高",
+      "onboard_time": 1714496355,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 82142,
@@ -9121,6 +9137,14 @@
       "onboard_time": 1714475058,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 28253,
+      "num": 51880,
+      "word": "女性有这7种情况要警惕宫外孕",
+      "onboard_time": 1714497316,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 27949,
