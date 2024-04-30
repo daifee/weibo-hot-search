@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714455265366,
+  "endTime": 1714458269180,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1344809,
+      "num": 1344809,
+      "word": "凤凰传奇骂票",
+      "onboard_time": 1714452919,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1329140,
       "num": 1329140,
       "word": "明天下班走出办公室的我",
@@ -336,6 +344,14 @@
       "word": "广州龙卷风已致5死33伤",
       "onboard_time": 1714233619,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1254651,
+      "num": 1254651,
+      "word": "女子领证前发现男友出轨分手拒退彩礼",
+      "onboard_time": 1714455857,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -891,6 +907,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 738252,
+      "num": 228161,
+      "word": "大学生投入3800元开店年入110万",
+      "onboard_time": 1714455498,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 734702,
       "num": 734702,
       "word": "芍药",
@@ -1059,6 +1083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 684549,
+      "num": 684549,
+      "word": "梁靖崑开通微博",
+      "onboard_time": 1714456939,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 684504,
       "num": 684504,
       "word": "博世否认问界M7事故中使用其AEB",
@@ -1201,14 +1233,6 @@
       "onboard_time": 1714260315,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 625963,
-      "num": 283737,
-      "word": "凤凰传奇骂票",
-      "onboard_time": 1714452919,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 625671,
@@ -1801,6 +1825,14 @@
       "onboard_time": 1714448538,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 467496,
+      "num": 467496,
+      "word": "簪花",
+      "onboard_time": 1714452919,
+      "rank": 22,
+      "category": "旅游"
     },
     {
       "raw_hot": 464998,
@@ -2611,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311070,
+      "num": 311070,
+      "word": "NewJeans投入了161亿韩元资本金",
+      "onboard_time": 1714455917,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310952,
       "num": 310952,
       "word": "颖儿说婚姻不是家暴的遮羞布",
@@ -2640,6 +2680,14 @@
       "word": "韩雪练舞前后对比",
       "onboard_time": 1714341191,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 304618,
+      "num": 304618,
+      "word": "秦海璐说想王安宇了",
+      "onboard_time": 1714455739,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -2689,6 +2737,14 @@
       "onboard_time": 1714362859,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 293567,
+      "num": 293567,
+      "word": "梁靖崑先关注王楚钦",
+      "onboard_time": 1714457179,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 293518,
@@ -2745,14 +2801,6 @@
       "onboard_time": 1714359017,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 284122,
-      "num": 284122,
-      "word": "簪花",
-      "onboard_time": 1714452919,
-      "rank": 22,
-      "category": "旅游"
     },
     {
       "raw_hot": 283302,
@@ -2899,6 +2947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269816,
+      "num": 222012,
+      "word": "这4种尴尬生理反应其实很正常",
+      "onboard_time": 1714456277,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 268989,
       "num": 268989,
       "word": "眼泪女王 狗血",
@@ -2939,6 +2995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267777,
+      "num": 267777,
+      "word": "R1SE推荐赵磊上歌手",
+      "onboard_time": 1714456699,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267705,
       "num": 235159,
       "word": "鹿晗现身末路狂花钱首映礼",
@@ -2977,6 +3041,14 @@
       "onboard_time": 1714434676,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262709,
+      "num": 262709,
+      "word": "吴镇宇 金莎退休吧他养你了",
+      "onboard_time": 1714454537,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 262317,
@@ -3225,6 +3297,14 @@
       "onboard_time": 1714261037,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242901,
+      "num": 242901,
+      "word": "霸州双甜",
+      "onboard_time": 1714457299,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 242891,
@@ -3971,6 +4051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203034,
+      "num": 203034,
+      "word": "五月天捐900万用于泉州校舍重建",
+      "onboard_time": 1714452800,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202426,
       "num": 202426,
       "word": "AG逆风翻盘",
@@ -4097,6 +4185,14 @@
       "onboard_time": 1714274299,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199362,
+      "num": 199362,
+      "word": "张翰贴脸开大秦岚",
+      "onboard_time": 1714457119,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 199280,
@@ -4233,14 +4329,6 @@
       "onboard_time": 1714218378,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195385,
-      "num": 195385,
-      "word": "五月天捐900万用于泉州校舍重建",
-      "onboard_time": 1714452800,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 195378,
@@ -4459,6 +4547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188864,
+      "num": 188864,
+      "word": "蔡依林坐轻轨彩排监控流出",
+      "onboard_time": 1714456578,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188760,
       "num": 188760,
       "word": "狼队对战AG",
@@ -4593,6 +4689,14 @@
       "onboard_time": 1714351098,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184652,
+      "num": 184652,
+      "word": "RIIZE应援棒",
+      "onboard_time": 1714457837,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 184499,
@@ -4753,6 +4857,14 @@
       "onboard_time": 1714349839,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181130,
+      "num": 157737,
+      "word": "官方回应蔡依林坐轻轨监控流出",
+      "onboard_time": 1714456817,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 180644,
@@ -5251,6 +5363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158200,
+      "num": 158200,
+      "word": "男孩真的无法共情妈妈吗",
+      "onboard_time": 1714456518,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158107,
       "num": 161534,
       "word": "别让旗袍限制了我们的运动",
@@ -5419,6 +5539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152508,
+      "num": 152508,
+      "word": "李健 抢票",
+      "onboard_time": 1714454777,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152503,
       "num": 152503,
       "word": "孙颖莎8300分世排第一",
@@ -5489,14 +5617,6 @@
       "onboard_time": 1714301237,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149836,
-      "num": 149836,
-      "word": "吴镇宇 金莎退休吧他养你了",
-      "onboard_time": 1714454537,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 149667,
@@ -5851,14 +5971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140136,
-      "num": 140136,
-      "word": "李健 抢票",
-      "onboard_time": 1714454777,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 139692,
       "num": 139692,
       "word": "张真源爱买菜还会砍价",
@@ -6179,6 +6291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128874,
+      "num": 128874,
+      "word": "星穹铁道演唱会",
+      "onboard_time": 1714456277,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128849,
       "num": 128849,
       "word": "Cityline你以后就嫁给retry",
@@ -6379,6 +6499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122060,
+      "num": 122060,
+      "word": "易烊千玺飘雪侧颜",
+      "onboard_time": 1714455677,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121668,
       "num": 121668,
       "word": "隐藏式门把手是否阻碍救援",
@@ -6488,6 +6616,14 @@
       "word": "哈登发挥",
       "onboard_time": 1714368978,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115979,
+      "num": 115979,
+      "word": "林高远进入国乒15年了",
+      "onboard_time": 1714458019,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -6683,6 +6819,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 103087,
+      "num": 103087,
+      "word": "王楚钦连续七周世界第一",
+      "onboard_time": 1714456518,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102918,
       "num": 182031,
       "word": "原来空间站钥匙长这样",
@@ -6696,6 +6840,14 @@
       "word": "北伦敦德比",
       "onboard_time": 1714312880,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101870,
+      "num": 101870,
+      "word": "詹姆斯做了能做的一切",
+      "onboard_time": 1714456397,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -6996,7 +7148,7 @@
     },
     {
       "raw_hot": 61126,
-      "num": 1170504,
+      "num": 1282186,
       "word": "五一打卡锦绣中国",
       "onboard_time": 1714447878,
       "rank": 2,
