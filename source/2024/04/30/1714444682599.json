@@ -1,0 +1,410 @@
+{
+  "runTime": 1714444682599,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2136123,
+        "num": 2136123,
+        "word": "凯特王妃",
+        "onboard_time": 1714441698,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1288773,
+        "num": 1288773,
+        "word": "老人在自家别墅踩空电梯不幸身亡",
+        "onboard_time": 1714441878,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13182,
+        "num": 1096898,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1003478,
+        "num": 1003478,
+        "word": "日本物价为何突然暴涨",
+        "onboard_time": 1714437499,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 802794,
+        "num": 802794,
+        "word": "人鱼 没拍",
+        "onboard_time": 1714435398,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 419834,
+        "num": 419834,
+        "word": "肖战晚宴的衣服穿到了机场",
+        "onboard_time": 1714440257,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397690,
+        "num": 397690,
+        "word": "放射科未给受检者穿防护服医疗机构被罚",
+        "onboard_time": 1714433537,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397097,
+        "num": 397097,
+        "word": "林更新赵露思或合作新剧",
+        "onboard_time": 1714443500,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386800,
+        "num": 386800,
+        "word": "侯雯元首次在节目里提钟楚曦",
+        "onboard_time": 1714439657,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136998,
+        "num": 383466,
+        "word": "百元实现榴莲自由的店给你们找到了",
+        "onboard_time": 1714439479,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 389635,
+        "num": 383306,
+        "word": "南宁霸凌",
+        "onboard_time": 1714438578,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380436,
+        "num": 380436,
+        "word": "徐艺洋是真不想给黄子韬名分",
+        "onboard_time": 1714377679,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365703,
+        "num": 365703,
+        "word": "日元暴跌日本游客赴美时扛大米",
+        "onboard_time": 1714443016,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 338407,
+        "num": 338407,
+        "word": "问界M7事故家属发声",
+        "onboard_time": 1714436058,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323285,
+        "num": 323285,
+        "word": "病毒学家张永振已受聘广州一研究院",
+        "onboard_time": 1714439657,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321059,
+        "num": 321059,
+        "word": "特斯拉市值一夜涨近6000亿",
+        "onboard_time": 1714432155,
+        "rank": 15,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 310708,
+        "num": 310708,
+        "word": "华为与苹果同日举办新品发布会",
+        "onboard_time": 1714441757,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 275634,
+        "num": 275634,
+        "word": "警方通报女子骑电瓶车被交警强行拽下",
+        "onboard_time": 1714442116,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268245,
+        "num": 268245,
+        "word": "中国驱离菲律宾侵闯黄岩岛邻近海域船只",
+        "onboard_time": 1714443737,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 247687,
+        "num": 247687,
+        "word": "校方回应学生用完演出服后集体退货",
+        "onboard_time": 1714432996,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612781,
+        "num": 247277,
+        "word": "自称刷了30万的榜一大哥和女主播街头冲突",
+        "onboard_time": 1714439837,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392736,
+        "num": 246163,
+        "word": "真正厉害的人都很擅长睡觉",
+        "onboard_time": 1714442058,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 379686,
+        "num": 245573,
+        "word": "怀孕以后为什么觉得老公巨臭无比",
+        "onboard_time": 1714438758,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239413,
+        "num": 244304,
+        "word": "神十七顺利撤离空间站",
+        "onboard_time": 1714439718,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378912,
+        "num": 243313,
+        "word": "miumiu3250元发卡卖断货",
+        "onboard_time": 1714442718,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 243061,
+        "num": 243061,
+        "word": "猫肉被整只烧烤售卖",
+        "onboard_time": 1714397659,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241607,
+        "num": 241607,
+        "word": "为什么建议买同款上一代手机",
+        "onboard_time": 1714443078,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 211681,
+        "num": 211681,
+        "word": "湖人vs掘金",
+        "onboard_time": 1714440499,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209279,
+        "num": 209279,
+        "word": "司法部原副部长刘志强被查",
+        "onboard_time": 1714441578,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206685,
+        "num": 206685,
+        "word": "杨幂王鹤润尔滨再续扶摇缘",
+        "onboard_time": 1714444158,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199696,
+        "num": 199696,
+        "word": "男朋友想让我跟他一起买车",
+        "onboard_time": 1714442178,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184959,
+        "num": 184959,
+        "word": "城市很热闹 但我的麦子熟了",
+        "onboard_time": 1714441277,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182087,
+        "num": 182087,
+        "word": "五一抢票以失败告终",
+        "onboard_time": 1714440138,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178716,
+        "num": 178716,
+        "word": "童瑶终于不是顾佳了",
+        "onboard_time": 1714443916,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171255,
+        "num": 171255,
+        "word": "iPhone的冷门实用功能",
+        "onboard_time": 1714437439,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168936,
+        "num": 168936,
+        "word": "刘宇宁自曝录hi6受伤",
+        "onboard_time": 1714404260,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155578,
+        "num": 155578,
+        "word": "朴志效租房者预告",
+        "onboard_time": 1714399402,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148853,
+        "num": 148853,
+        "word": "神十七乘组天外归来",
+        "onboard_time": 1714444338,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174609,
+        "num": 147336,
+        "word": "童瑶问什么是亚比囧囧囧",
+        "onboard_time": 1714439359,
+        "rank": 38,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 145622,
+        "num": 145622,
+        "word": "金秀贤金智媛一起切蛋糕",
+        "onboard_time": 1714436659,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132369,
+        "num": 132369,
+        "word": "歌手",
+        "onboard_time": 1714433235,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132245,
+        "num": 132245,
+        "word": "艺人五月行程图",
+        "onboard_time": 1714444578,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131314,
+        "num": 131314,
+        "word": "张新成同年拍摄的三个疯批角色",
+        "onboard_time": 1714443199,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129999,
+        "num": 129999,
+        "word": "以前人的手 现在人的手",
+        "onboard_time": 1714437318,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123678,
+        "num": 123678,
+        "word": "再不起床小狗就亲下去了",
+        "onboard_time": 1714444399,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118086,
+        "num": 118086,
+        "word": "张婧仪浴水照",
+        "onboard_time": 1714438938,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112034,
+        "num": 112034,
+        "word": "为什么说龙系长相是天生演员",
+        "onboard_time": 1714433476,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31397,
+        "num": 109764,
+        "word": "放假时总想去别的城市看看",
+        "onboard_time": 1714444637,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109671,
+        "num": 109671,
+        "word": "早起三不做",
+        "onboard_time": 1714443978,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106380,
+        "num": 106380,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1714437499,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将访问法国塞尔维亚匈牙利#"
+    }
+  }
+}
