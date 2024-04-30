@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714465381334,
+  "endTime": 1714466161821,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1484376,
+      "num": 994559,
+      "word": "下班",
+      "onboard_time": 1714463119,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1484049,
       "num": 659304,
       "word": "疫苗",
@@ -249,14 +257,6 @@
       "onboard_time": 1714262177,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1379053,
-      "num": 994559,
-      "word": "下班",
-      "onboard_time": 1714463119,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 1375688,
@@ -1427,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577475,
+      "num": 577475,
+      "word": "迪丽热巴 民国大小姐",
+      "onboard_time": 1714464198,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 577358,
       "num": 577358,
       "word": "成都不再审核购房资格",
@@ -2131,14 +2139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414799,
-      "num": 414799,
-      "word": "迪丽热巴 民国大小姐",
-      "onboard_time": 1714464198,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 414080,
       "num": 414080,
       "word": "眼泪女王",
@@ -2281,6 +2281,14 @@
       "onboard_time": 1714321876,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 382963,
+      "num": 268068,
+      "word": "肖战水晶衣领",
+      "onboard_time": 1714464618,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 380153,
@@ -2491,6 +2499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353029,
+      "num": 274112,
+      "word": "刘惜君身材比例",
+      "onboard_time": 1714462577,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351463,
       "num": 618686,
       "word": "她是北大同专业同级唯一坚持读到毕业",
@@ -2553,14 +2569,6 @@
       "onboard_time": 1714299497,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 333204,
-      "num": 274112,
-      "word": "刘惜君身材比例",
-      "onboard_time": 1714462577,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 331209,
@@ -2697,6 +2705,14 @@
       "onboard_time": 1714270338,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 316703,
+      "num": 316703,
+      "word": "前有眼泪女王 现有背着善宰跑",
+      "onboard_time": 1714461617,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 316141,
@@ -2843,20 +2859,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298165,
-      "num": 268068,
-      "word": "肖战水晶衣领",
-      "onboard_time": 1714464618,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 297433,
       "num": 297433,
       "word": "王源二巡还叫客厅狂欢",
       "onboard_time": 1714362859,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 296054,
+      "num": 296054,
+      "word": "每天跑20分钟身体的变化",
+      "onboard_time": 1714462277,
+      "rank": 23,
+      "category": "运动健身"
     },
     {
       "raw_hot": 293518,
@@ -2913,14 +2929,6 @@
       "onboard_time": 1714359017,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 283478,
-      "num": 283478,
-      "word": "前有眼泪女王 现有背着善宰跑",
-      "onboard_time": 1714461617,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 283302,
@@ -3185,14 +3193,6 @@
       "onboard_time": 1714349177,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 258975,
-      "num": 258975,
-      "word": "每天跑20分钟身体的变化",
-      "onboard_time": 1714462277,
-      "rank": 23,
-      "category": "运动健身"
     },
     {
       "raw_hot": 258226,
@@ -4363,6 +4363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200055,
+      "num": 200055,
+      "word": "邓为顺毛白衬衫",
+      "onboard_time": 1714464920,
+      "rank": 33,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 200006,
       "num": 200006,
       "word": "卡琳娜的营业态度",
@@ -4433,14 +4441,6 @@
       "onboard_time": 1714464138,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198454,
-      "num": 198454,
-      "word": "邓为顺毛白衬衫",
-      "onboard_time": 1714464920,
-      "rank": 33,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 198354,
@@ -4787,6 +4787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189145,
+      "num": 189145,
+      "word": "李一桐一番女主",
+      "onboard_time": 1714463418,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189068,
       "num": 189068,
       "word": "间谍过家家",
@@ -4947,14 +4955,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 184787,
-      "num": 184787,
-      "word": "李一桐一番女主",
-      "onboard_time": 1714463418,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184674,
       "num": 184674,
       "word": "朱丹孩子告诉她上浪姐不能哭",
@@ -5073,6 +5073,14 @@
       "onboard_time": 1714357577,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182409,
+      "num": 182409,
+      "word": "哈马斯与法塔赫在北京磋商",
+      "onboard_time": 1714465819,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 182387,
@@ -5585,6 +5593,14 @@
       "onboard_time": 1714370538,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 160693,
+      "num": 160693,
+      "word": "天津取消户籍居民大户型限购",
+      "onboard_time": 1714465939,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160334,
@@ -6179,6 +6195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144627,
+      "num": 144627,
+      "word": "外交部回应哈马斯和法塔赫在京磋商",
+      "onboard_time": 1714465819,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 144454,
       "num": 144454,
       "word": "王楚钦连续七周世界第一",
@@ -6233,6 +6257,14 @@
       "onboard_time": 1714404859,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141932,
+      "num": 141932,
+      "word": "当你在朋友圈发旅游照片时",
+      "onboard_time": 1714465277,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 141413,

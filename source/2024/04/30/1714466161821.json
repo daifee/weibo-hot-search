@@ -1,0 +1,410 @@
+{
+  "runTime": 1714466161821,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 966530,
+        "num": 966530,
+        "word": "女子领证前发现男友出轨分手拒退彩礼",
+        "onboard_time": 1714455857,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1484376,
+        "num": 966291,
+        "word": "下班",
+        "onboard_time": 1714463119,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41380,
+        "num": 965008,
+        "word": "五一打卡锦绣中国",
+        "onboard_time": 1714447878,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 963916,
+        "num": 963916,
+        "word": "我刘涛一生清清白白",
+        "onboard_time": 1714459217,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 879850,
+        "num": 879850,
+        "word": "大学生投入3800元开店年入110万",
+        "onboard_time": 1714455498,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758673,
+        "num": 758673,
+        "word": "韩国电视台报道IVE国风争议",
+        "onboard_time": 1714460418,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 744085,
+        "num": 744085,
+        "word": "因为天气取消了五一出游",
+        "onboard_time": 1714447099,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 577475,
+        "num": 577475,
+        "word": "迪丽热巴 民国大小姐",
+        "onboard_time": 1714464198,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395711,
+        "num": 395711,
+        "word": "法拉第未来宣布退市",
+        "onboard_time": 1714459638,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148590,
+        "num": 388334,
+        "word": "她是北大同专业同级唯一坚持读到毕业",
+        "onboard_time": 1714446438,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385109,
+        "num": 385109,
+        "word": "东航一客机因机组成员矛盾应急滑梯放出",
+        "onboard_time": 1714451781,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373365,
+        "num": 373365,
+        "word": "泉州文旅认证赵丽颖簪花出圈",
+        "onboard_time": 1714459038,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353516,
+        "num": 353516,
+        "word": "霸州双甜",
+        "onboard_time": 1714457299,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343849,
+        "num": 343849,
+        "word": "凤凰传奇骂票",
+        "onboard_time": 1714452919,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 341357,
+        "num": 341357,
+        "word": "梁靖崑开通微博",
+        "onboard_time": 1714456939,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316703,
+        "num": 316703,
+        "word": "前有眼泪女王 现有背着善宰跑",
+        "onboard_time": 1714461617,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307356,
+        "num": 307356,
+        "word": "大爷称年轻人不允许享受下铺",
+        "onboard_time": 1714448779,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300059,
+        "num": 300059,
+        "word": "梁靖崑先关注王楚钦",
+        "onboard_time": 1714457179,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296054,
+        "num": 296054,
+        "word": "每天跑20分钟身体的变化",
+        "onboard_time": 1714462277,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 240450,
+        "num": 240450,
+        "word": "直播神舟十七号回地球",
+        "onboard_time": 1714461739,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834026,
+        "num": 240187,
+        "word": "突然发现2杯奶茶可以买一件衣服",
+        "onboard_time": 1714459818,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 382963,
+        "num": 240006,
+        "word": "肖战水晶衣领",
+        "onboard_time": 1714464618,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353029,
+        "num": 239862,
+        "word": "刘惜君身材比例",
+        "onboard_time": 1714462577,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239227,
+        "num": 239227,
+        "word": "迪丽热巴再唱主题曲",
+        "onboard_time": 1714462398,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212414,
+        "num": 212414,
+        "word": "背着善宰跑吻戏",
+        "onboard_time": 1714463478,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206723,
+        "num": 206723,
+        "word": "凯特王妃",
+        "onboard_time": 1714441698,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205599,
+        "num": 205599,
+        "word": "王俊凯王源工作室logo相似",
+        "onboard_time": 1714450819,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201821,
+        "num": 201821,
+        "word": "辅导员秒批的20个请假理由",
+        "onboard_time": 1714461499,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200055,
+        "num": 200055,
+        "word": "邓为顺毛白衬衫",
+        "onboard_time": 1714464920,
+        "rank": 28,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 196995,
+        "num": 196995,
+        "word": "娜扎跳伞",
+        "onboard_time": 1714460659,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189145,
+        "num": 189145,
+        "word": "李一桐一番女主",
+        "onboard_time": 1714463418,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182409,
+        "num": 182409,
+        "word": "哈马斯与法塔赫在北京磋商",
+        "onboard_time": 1714465819,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170567,
+        "num": 170567,
+        "word": "梁靖崑说球拍在手信念在心",
+        "onboard_time": 1714463057,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165554,
+        "num": 165554,
+        "word": "王楚钦评论梁靖崑",
+        "onboard_time": 1714464138,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164669,
+        "num": 164669,
+        "word": "二十届三中全会7月召开",
+        "onboard_time": 1714461798,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160693,
+        "num": 160693,
+        "word": "天津取消户籍居民大户型限购",
+        "onboard_time": 1714465939,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157149,
+        "num": 157149,
+        "word": "官方回应蔡依林坐轻轨监控流出",
+        "onboard_time": 1714456817,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154511,
+        "num": 154511,
+        "word": "陈赫让我在电梯里颜面尽失",
+        "onboard_time": 1714462937,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149264,
+        "num": 149264,
+        "word": "LPL赛区MSI宣传短片",
+        "onboard_time": 1714463898,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144627,
+        "num": 144627,
+        "word": "外交部回应哈马斯和法塔赫在京磋商",
+        "onboard_time": 1714465819,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144617,
+        "num": 144617,
+        "word": "R1SE推荐赵磊上歌手",
+        "onboard_time": 1714456699,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141932,
+        "num": 141932,
+        "word": "当你在朋友圈发旅游照片时",
+        "onboard_time": 1714465277,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141902,
+        "num": 141902,
+        "word": "原神4.6版本",
+        "onboard_time": 1714463898,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141335,
+        "num": 141335,
+        "word": "男孩真的无法共情妈妈吗",
+        "onboard_time": 1714456518,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134202,
+        "num": 134202,
+        "word": "这4种尴尬生理反应其实很正常",
+        "onboard_time": 1714456277,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128999,
+        "num": 128999,
+        "word": "机票跳水",
+        "onboard_time": 1714449139,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 128667,
+        "num": 128667,
+        "word": "打工人帮助打工人",
+        "onboard_time": 1714465338,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124034,
+        "num": 124034,
+        "word": "秦海璐看上一条项链一年了都没买",
+        "onboard_time": 1714459217,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119191,
+        "num": 119191,
+        "word": "Gumayusi国服ID小吕布",
+        "onboard_time": 1714462998,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118007,
+        "num": 118007,
+        "word": "梁靖崑发博说我们沙特见",
+        "onboard_time": 1714461919,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席访欧将为世界和平发展注入新动能#"
+    }
+  }
+}
