@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714497364593,
+  "endTime": 1714498453273,
   "band_list": [
     {
       "raw_hot": 1695633,
@@ -35,20 +35,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 419303,
+      "num": 419303,
+      "word": "你还在穿鬼冢虎吗",
+      "onboard_time": 1714494437,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 402880,
       "num": 157284,
       "word": "突然感觉朋友圈发什么都很幼稚了",
       "onboard_time": 1714491558,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 400946,
-      "num": 400946,
-      "word": "你还在穿鬼冢虎吗",
-      "onboard_time": 1714494437,
-      "rank": 34,
-      "category": "时尚"
     },
     {
       "raw_hot": 379238,
@@ -139,6 +139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 236351,
+      "num": 236351,
+      "word": "网传江苏宿迁禁止打印店打印控告材料",
+      "onboard_time": 1714495096,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227327,
       "num": 227327,
       "word": "内蒙古一服务区切糕切出1万2称按克卖",
@@ -169,14 +177,6 @@
       "onboard_time": 1714468698,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169233,
-      "num": 169233,
-      "word": "网传江苏宿迁禁止打印店打印控告材料",
-      "onboard_time": 1714495096,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168106,
@@ -331,19 +331,19 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 96494,
+      "num": 89842,
+      "word": "为什么叶轻眉的人气那么高",
+      "onboard_time": 1714496355,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88523,
       "num": 91337,
       "word": "春色寄情人微博开分8.9",
       "onboard_time": 1714482797,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 82421,
-      "num": 82421,
-      "word": "为什么叶轻眉的人气那么高",
-      "onboard_time": 1714496355,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -435,7 +435,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28253,
+      "raw_hot": 50938,
       "num": 51880,
       "word": "女性有这7种情况要警惕宫外孕",
       "onboard_time": 1714497316,
