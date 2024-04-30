@@ -1,0 +1,410 @@
+{
+  "runTime": 1714468838447,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 857221,
+        "num": 857221,
+        "word": "女子领证前发现男友出轨分手拒退彩礼",
+        "onboard_time": 1714455857,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1219800,
+        "num": 847985,
+        "word": "下班",
+        "onboard_time": 1714463119,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33282,
+        "num": 832791,
+        "word": "五一打卡锦绣中国",
+        "onboard_time": 1714447878,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829832,
+        "num": 829832,
+        "word": "我刘涛一生清清白白",
+        "onboard_time": 1714459217,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 707570,
+        "num": 707570,
+        "word": "大学生投入3800元开店年入110万",
+        "onboard_time": 1714455498,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700907,
+        "num": 700907,
+        "word": "天津取消户籍居民大户型限购",
+        "onboard_time": 1714465939,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696576,
+        "num": 696576,
+        "word": "因为天气取消了五一出游",
+        "onboard_time": 1714447099,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 599084,
+        "num": 599084,
+        "word": "迪丽热巴 民国大小姐",
+        "onboard_time": 1714464198,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115378,
+        "num": 578662,
+        "word": "她是北大同专业同级唯一坚持读到毕业",
+        "onboard_time": 1714446438,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50661,
+        "num": 573542,
+        "word": "神舟十七号3人回地球",
+        "onboard_time": 1714468817,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 569447,
+        "num": 569447,
+        "word": "韩国电视台报道IVE国风争议",
+        "onboard_time": 1714460418,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 536304,
+        "num": 536304,
+        "word": "每天跑20分钟身体的变化",
+        "onboard_time": 1714462277,
+        "rank": 11,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 435413,
+        "num": 435413,
+        "word": "神十七轨道舱与返回舱成功分离",
+        "onboard_time": 1714468159,
+        "rank": 12,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 415006,
+        "num": 415006,
+        "word": "被关雪骗了",
+        "onboard_time": 1714466179,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343639,
+        "num": 343639,
+        "word": "刘涛的未修原图",
+        "onboard_time": 1714466778,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326765,
+        "num": 326765,
+        "word": "哈马斯与法塔赫在北京磋商",
+        "onboard_time": 1714465819,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 296541,
+        "num": 296541,
+        "word": "回到那一天演唱会抢票",
+        "onboard_time": 1714466719,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 291500,
+        "num": 291500,
+        "word": "赴山海",
+        "onboard_time": 1714467797,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277623,
+        "num": 277623,
+        "word": "凤凰传奇骂票",
+        "onboard_time": 1714452919,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239504,
+        "num": 239504,
+        "word": "郑秀晶总裁出街",
+        "onboard_time": 1714468340,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646423,
+        "num": 239136,
+        "word": "突然发现2杯奶茶可以买一件衣服",
+        "onboard_time": 1714459818,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 460470,
+        "num": 239055,
+        "word": "中医建议适合身体弱的工作",
+        "onboard_time": 1714466838,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238154,
+        "num": 238154,
+        "word": "法拉第未来宣布退市",
+        "onboard_time": 1714459638,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 312898,
+        "num": 237565,
+        "word": "肖战水晶衣领",
+        "onboard_time": 1714464618,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 297439,
+        "num": 237090,
+        "word": "刘惜君身材比例",
+        "onboard_time": 1714462577,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232206,
+        "num": 232206,
+        "word": "东航一客机因机组成员矛盾应急滑梯放出",
+        "onboard_time": 1714451781,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231186,
+        "num": 231186,
+        "word": "前有眼泪女王 现有背着善宰跑",
+        "onboard_time": 1714461617,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225808,
+        "num": 225808,
+        "word": "泉州文旅认证赵丽颖簪花出圈",
+        "onboard_time": 1714459038,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217622,
+        "num": 217622,
+        "word": "神十七返回制动开始",
+        "onboard_time": 1714468517,
+        "rank": 28,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 211153,
+        "num": 211153,
+        "word": "梁靖崑开通微博",
+        "onboard_time": 1714456939,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235126,
+        "num": 209191,
+        "word": "成毅 进组",
+        "onboard_time": 1714468698,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205008,
+        "num": 205008,
+        "word": "刘耀文 不换搭档是有原因的",
+        "onboard_time": 1714468398,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192785,
+        "num": 192785,
+        "word": "常规赛最佳新锐选手候选人",
+        "onboard_time": 1714468578,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18692,
+        "num": 191695,
+        "word": "杨幂的穿搭有点凡尔赛了",
+        "onboard_time": 1714468340,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191461,
+        "num": 191461,
+        "word": "霸州双甜",
+        "onboard_time": 1714457299,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176292,
+        "num": 176292,
+        "word": "背着善宰跑吻戏",
+        "onboard_time": 1714463478,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168969,
+        "num": 168969,
+        "word": "内娱顶级alpha",
+        "onboard_time": 1714468578,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167647,
+        "num": 167647,
+        "word": "李一桐一番女主",
+        "onboard_time": 1714463418,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164813,
+        "num": 164813,
+        "word": "梁靖崑先关注王楚钦",
+        "onboard_time": 1714457179,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160501,
+        "num": 160501,
+        "word": "大爷称年轻人不允许享受下铺",
+        "onboard_time": 1714448779,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151925,
+        "num": 151925,
+        "word": "今天高速有多堵",
+        "onboard_time": 1714467857,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 144369,
+        "num": 144369,
+        "word": "当你在朋友圈发旅游照片时",
+        "onboard_time": 1714465277,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143177,
+        "num": 143177,
+        "word": "王俊凯王源工作室logo相似",
+        "onboard_time": 1714450819,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138597,
+        "num": 138597,
+        "word": "原来旅游最累的不是逛景点",
+        "onboard_time": 1714467857,
+        "rank": 43,
+        "category": "情感,旅游"
+      },
+      {
+        "raw_hot": 134398,
+        "num": 134398,
+        "word": "5月这些新规开始施行",
+        "onboard_time": 1714466419,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133144,
+        "num": 133144,
+        "word": "官方回应蔡依林坐轻轨监控流出",
+        "onboard_time": 1714456817,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130400,
+        "num": 130400,
+        "word": "中越海警在北部湾海域联合巡逻",
+        "onboard_time": 1714468517,
+        "rank": 46,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 125033,
+        "num": 125033,
+        "word": "R1SE推荐赵磊上歌手",
+        "onboard_time": 1714456699,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124508,
+        "num": 124508,
+        "word": "凯特王妃",
+        "onboard_time": 1714441698,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124124,
+        "num": 124124,
+        "word": "辅导员秒批的20个请假理由",
+        "onboard_time": 1714461499,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席访欧将为世界和平发展注入新动能#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714466161821,
+  "endTime": 1714468838447,
   "band_list": [
     {
       "raw_hot": 2517358,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 700907,
+      "num": 700907,
+      "word": "天津取消户籍居民大户型限购",
+      "onboard_time": 1714465939,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 698097,
       "num": 698097,
       "word": "周杰伦长沙 谁抢到了",
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599084,
+      "num": 599084,
+      "word": "迪丽热巴 民国大小姐",
+      "onboard_time": 1714464198,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 590617,
       "num": 302669,
       "word": "miumiu3250元发卡卖断货",
@@ -339,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 577475,
-      "num": 577475,
-      "word": "迪丽热巴 民国大小姐",
-      "onboard_time": 1714464198,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 537311,
       "num": 537311,
       "word": "梁靖崑先关注王楚钦",
@@ -361,6 +369,14 @@
       "onboard_time": 1714457299,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 536304,
+      "num": 536304,
+      "word": "每天跑20分钟身体的变化",
+      "onboard_time": 1714462277,
+      "rank": 23,
+      "category": "运动健身"
     },
     {
       "raw_hot": 530465,
@@ -411,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 460470,
+      "num": 239055,
+      "word": "中医建议适合身体弱的工作",
+      "onboard_time": 1714466838,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 439707,
       "num": 289238,
       "word": "为什么朋友圈里的东西都好高级",
@@ -440,6 +464,22 @@
       "word": "朴志效租房者预告",
       "onboard_time": 1714399402,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 435413,
+      "num": 435413,
+      "word": "神十七轨道舱与返回舱成功分离",
+      "onboard_time": 1714468159,
+      "rank": 12,
+      "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 415006,
+      "num": 415006,
+      "word": "被关雪骗了",
+      "onboard_time": 1714466179,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -595,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343639,
+      "num": 343639,
+      "word": "刘涛的未修原图",
+      "onboard_time": 1714466778,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336399,
       "num": 336399,
       "word": "书卷一梦阵容官宣",
@@ -617,6 +665,14 @@
       "onboard_time": 1714462398,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326765,
+      "num": 326765,
+      "word": "哈马斯与法塔赫在北京磋商",
+      "onboard_time": 1714465819,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 319975,
@@ -675,12 +731,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 296054,
-      "num": 296054,
-      "word": "每天跑20分钟身体的变化",
-      "onboard_time": 1714462277,
-      "rank": 23,
-      "category": "运动健身"
+      "raw_hot": 296541,
+      "num": 296541,
+      "word": "回到那一天演唱会抢票",
+      "onboard_time": 1714466719,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 291500,
+      "num": 291500,
+      "word": "赴山海",
+      "onboard_time": 1714467797,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 290815,
@@ -843,6 +907,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 239504,
+      "num": 239504,
+      "word": "郑秀晶总裁出街",
+      "onboard_time": 1714468340,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237616,
       "num": 237616,
       "word": "以前人的手 现在人的手",
@@ -865,6 +937,14 @@
       "onboard_time": 1714447759,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235126,
+      "num": 209191,
+      "word": "成毅 进组",
+      "onboard_time": 1714468698,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 234310,
@@ -937,6 +1017,14 @@
       "onboard_time": 1714440138,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 217622,
+      "num": 217622,
+      "word": "神十七返回制动开始",
+      "onboard_time": 1714468517,
+      "rank": 28,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 216053,
@@ -1025,6 +1113,14 @@
       "onboard_time": 1714458019,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205008,
+      "num": 205008,
+      "word": "刘耀文 不换搭档是有原因的",
+      "onboard_time": 1714468398,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 204420,
@@ -1131,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192785,
+      "num": 192785,
+      "word": "常规赛最佳新锐选手候选人",
+      "onboard_time": 1714468578,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191509,
       "num": 196805,
       "word": "WTT沙特大满贯",
@@ -1235,14 +1339,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 182409,
-      "num": 182409,
-      "word": "哈马斯与法塔赫在北京磋商",
-      "onboard_time": 1714465819,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 180644,
       "num": 180644,
       "word": "国际不打小孩日",
@@ -1339,6 +1435,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 168969,
+      "num": 168969,
+      "word": "内娱顶级alpha",
+      "onboard_time": 1714468578,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167743,
       "num": 167743,
       "word": "杨幂制服卷发",
@@ -1401,14 +1505,6 @@
       "onboard_time": 1714397719,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 160693,
-      "num": 160693,
-      "word": "天津取消户籍居民大户型限购",
-      "onboard_time": 1714465939,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158540,
@@ -1505,6 +1601,14 @@
       "onboard_time": 1714437499,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151925,
+      "num": 151925,
+      "word": "今天高速有多堵",
+      "onboard_time": 1714467857,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 151427,
@@ -1619,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144369,
+      "num": 144369,
+      "word": "当你在朋友圈发旅游照片时",
+      "onboard_time": 1714465277,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144342,
       "num": 383466,
       "word": "百元实现榴莲自由的店给你们找到了",
@@ -1651,14 +1763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141932,
-      "num": 141932,
-      "word": "当你在朋友圈发旅游照片时",
-      "onboard_time": 1714465277,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141413,
       "num": 141413,
       "word": "浓眉受伤",
@@ -1689,6 +1793,14 @@
       "onboard_time": 1714450999,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138597,
+      "num": 138597,
+      "word": "原来旅游最累的不是逛景点",
+      "onboard_time": 1714467857,
+      "rank": 43,
+      "category": "情感,旅游"
     },
     {
       "raw_hot": 138529,
@@ -1763,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134398,
+      "num": 134398,
+      "word": "5月这些新规开始施行",
+      "onboard_time": 1714466419,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 133988,
       "num": 133988,
       "word": "迪丽热巴录音照",
@@ -1801,6 +1921,14 @@
       "onboard_time": 1714438218,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130400,
+      "num": 130400,
+      "word": "中越海警在北部湾海域联合巡逻",
+      "onboard_time": 1714468517,
+      "rank": 46,
+      "category": "军事,国内时政"
     },
     {
       "raw_hot": 130216,
@@ -2139,6 +2267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 50661,
+      "num": 573542,
+      "word": "神舟十七号3人回地球",
+      "onboard_time": 1714468817,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49110,
       "num": 216569,
       "word": "蛋仔派对猫鼠联动正式上线",
@@ -2217,6 +2353,14 @@
       "onboard_time": 1714420870,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 18692,
+      "num": 191695,
+      "word": "杨幂的穿搭有点凡尔赛了",
+      "onboard_time": 1714468340,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 13439,
