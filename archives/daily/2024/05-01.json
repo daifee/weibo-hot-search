@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714505653393,
+  "endTime": 1714508315184,
   "band_list": [
     {
       "raw_hot": 1695633,
@@ -323,8 +323,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 102291,
-      "num": 102291,
+      "raw_hot": 103672,
+      "num": 103672,
       "word": "拜仁vs皇马",
       "onboard_time": 1714488501,
       "rank": 42,
@@ -353,6 +353,14 @@
       "onboard_time": 1714482797,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86954,
+      "num": 86954,
+      "word": "广州天气",
+      "onboard_time": 1714506911,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79621,
@@ -419,6 +427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 60123,
+      "num": 60123,
+      "word": "美式前刺",
+      "onboard_time": 1714502832,
+      "rank": 26,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 58824,
       "num": 81517,
       "word": "为什么听到父母的关心会烦躁",
@@ -441,14 +457,6 @@
       "onboard_time": 1714485139,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43149,
-      "num": 43149,
-      "word": "美式前刺",
-      "onboard_time": 1714502832,
-      "rank": 26,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 41894,
@@ -497,6 +505,9 @@
     },
     {
       "word": "#二十届三中全会#"
+    },
+    {
+      "word": "#第二十届中央委员会第三次全体会议#"
     }
   ]
 }

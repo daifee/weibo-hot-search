@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714505653393,
+  "endTime": 1714508315184,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -8867,6 +8867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60123,
+      "num": 60123,
+      "word": "美式前刺",
+      "onboard_time": 1714502832,
+      "rank": 26,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 59536,
       "num": 380269,
       "word": "满级人类如何看待未来汽车",
@@ -9033,14 +9041,6 @@
       "onboard_time": 1714412952,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 43149,
-      "num": 43149,
-      "word": "美式前刺",
-      "onboard_time": 1714502832,
-      "rank": 26,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 42460,
