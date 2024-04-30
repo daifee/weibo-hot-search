@@ -1,6 +1,6 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714483124679,
+  "endTime": 1714484050304,
   "band_list": [
     {
       "raw_hot": 2517358,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1014776,
+      "num": 1014776,
+      "word": "内蒙古一服务区切糕切出1万2称按克卖",
+      "onboard_time": 1714478477,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 933960,
       "num": 933960,
       "word": "太空归来3人全部安全出舱",
@@ -256,14 +264,6 @@
       "word": "网传一三甲医院招聘博士后月薪两三千",
       "onboard_time": 1714475836,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 766048,
-      "num": 766048,
-      "word": "内蒙古一服务区切糕切出1万2称按克卖",
-      "onboard_time": 1714478477,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -411,11 +411,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 617021,
+      "num": 247965,
+      "word": "香港顶流姜涛过生日",
+      "onboard_time": 1714477877,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 608277,
       "num": 303548,
       "word": "警方回应女子逛夜市裙子上现不明液体",
       "onboard_time": 1714408154,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 600562,
+      "num": 600562,
+      "word": "2套房京籍家庭可在五环外新购1套房",
+      "onboard_time": 1714482379,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -456,14 +472,6 @@
       "word": "向太骨折李连杰携女儿看望",
       "onboard_time": 1714451240,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 586019,
-      "num": 247965,
-      "word": "香港顶流姜涛过生日",
-      "onboard_time": 1714477877,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -811,6 +819,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 340449,
+      "num": 340449,
+      "word": "春色寄情人结局",
+      "onboard_time": 1714482558,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 337004,
       "num": 333211,
       "word": "郑秀晶总裁出街",
@@ -841,14 +857,6 @@
       "onboard_time": 1714468398,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 329412,
-      "num": 329412,
-      "word": "2套房京籍家庭可在五环外新购1套房",
-      "onboard_time": 1714482379,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 328862,
@@ -913,6 +921,14 @@
       "onboard_time": 1714470617,
       "rank": 18,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 315896,
+      "num": 315896,
+      "word": "TWICE回归预告",
+      "onboard_time": 1714482199,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 314467,
@@ -985,6 +1001,14 @@
       "onboard_time": 1714466719,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 291981,
+      "num": 291981,
+      "word": "春色寄情人微博开分8.9",
+      "onboard_time": 1714482797,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 290815,
@@ -1267,28 +1291,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 230735,
-      "num": 230735,
-      "word": "TWICE回归预告",
-      "onboard_time": 1714482199,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229126,
       "num": 195059,
       "word": "沈景病",
       "onboard_time": 1714397599,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228484,
-      "num": 228484,
-      "word": "春色寄情人结局",
-      "onboard_time": 1714482558,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 227654,
@@ -1339,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215964,
+      "num": 215964,
+      "word": "学生低价在飞猪上订房遭强制退房",
+      "onboard_time": 1714482619,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215755,
       "num": 215755,
       "word": "王源工作室",
@@ -1379,12 +1395,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 210745,
-      "num": 210745,
-      "word": "春色寄情人微博开分8.9",
-      "onboard_time": 1714482797,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 210829,
+      "num": 210829,
+      "word": "珠海冰雹",
+      "onboard_time": 1714483218,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209375,
@@ -1593,6 +1609,14 @@
       "onboard_time": 1714468578,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192263,
+      "num": 192263,
+      "word": "朱正廷五一堵路上了",
+      "onboard_time": 1714483400,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 191509,
@@ -1931,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163728,
+      "num": 163728,
+      "word": "喝水后出现4种异常或是肾脏在求救",
+      "onboard_time": 1714482079,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 163555,
       "num": 163555,
       "word": "男凝和欣赏区别",
@@ -2171,14 +2203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147941,
-      "num": 147941,
-      "word": "喝水后出现4种异常或是肾脏在求救",
-      "onboard_time": 1714482079,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 147474,
       "num": 147474,
       "word": "凤凰传奇郑州站抢票我的心情belike",
@@ -2193,6 +2217,14 @@
       "onboard_time": 1714443978,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 147455,
+      "num": 147455,
+      "word": "昆山演唱会",
+      "onboard_time": 1714483218,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 147383,
@@ -2281,6 +2313,14 @@
       "onboard_time": 1714456518,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144445,
+      "num": 144445,
+      "word": "支付宝回应用户网购保险被远程录屏",
+      "onboard_time": 1714483458,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 144369,
@@ -2395,20 +2435,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 135818,
+      "num": 135818,
+      "word": "苗苗乘风一公幕后vlog",
+      "onboard_time": 1714483818,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135670,
       "num": 135670,
       "word": "四月的最后一天",
       "onboard_time": 1714440678,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 135400,
-      "num": 135400,
-      "word": "学生低价在飞猪上订房遭强制退房",
-      "onboard_time": 1714482619,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135397,
@@ -2635,6 +2675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122573,
+      "num": 122573,
+      "word": "李现周雨彤喉结吻",
+      "onboard_time": 1714483938,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122060,
       "num": 122060,
       "word": "易烊千玺飘雪侧颜",
@@ -2665,6 +2713,14 @@
       "onboard_time": 1714403481,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120034,
+      "num": 120034,
+      "word": "这辈子听过牙医最大的谎言",
+      "onboard_time": 1714480518,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 119714,
@@ -2699,12 +2755,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 117378,
-      "num": 117378,
-      "word": "这辈子听过牙医最大的谎言",
-      "onboard_time": 1714480518,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 117733,
+      "num": 117733,
+      "word": "35岁互联网女HR失业后兼职拔白发",
+      "onboard_time": 1714483698,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115910,
@@ -2971,6 +3027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 52638,
+      "num": 677743,
+      "word": "我的五一游记",
+      "onboard_time": 1714483099,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49110,
       "num": 216569,
       "word": "蛋仔派对猫鼠联动正式上线",
@@ -3071,14 +3135,6 @@
       "num": 1102329,
       "word": "文化中国行",
       "onboard_time": 1713927617,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9199,
-      "num": 677743,
-      "word": "我的五一游记",
-      "onboard_time": 1714483099,
       "rank": 2,
       "category": "社会新闻"
     },
