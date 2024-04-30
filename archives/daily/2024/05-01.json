@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714519062843,
+  "endTime": 1714520082090,
   "band_list": [
     {
       "raw_hot": 1695633,
@@ -19,8 +19,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 745845,
-      "num": 745845,
+      "raw_hot": 829946,
+      "num": 829946,
       "word": "低估了五一堵车的程度",
       "onboard_time": 1714511231,
       "rank": 17,
@@ -131,11 +131,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259795,
+      "num": 259795,
+      "word": "余承东卸任华为终端BGCEO",
+      "onboard_time": 1714518434,
+      "rank": 6,
+      "category": "财经,数码"
+    },
+    {
       "raw_hot": 248939,
       "num": 248939,
       "word": "疑似情感纠纷女子带人冲进办公室殴打女员工",
       "onboard_time": 1714491380,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247083,
+      "num": 247083,
+      "word": "五一劳动节",
+      "onboard_time": 1714518914,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -227,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156212,
+      "num": 156212,
+      "word": "院士哽咽介绍医生每天一首琵琶曲延长患者生命",
+      "onboard_time": 1714505291,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154568,
       "num": 154568,
       "word": "比初恋更遗憾的是半生朋友be",
@@ -243,19 +267,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143750,
-      "num": 143750,
-      "word": "余承东卸任华为终端BGCEO",
-      "onboard_time": 1714518434,
-      "rank": 6,
-      "category": "财经,数码"
+      "raw_hot": 147990,
+      "num": 147990,
+      "word": "5月第一天",
+      "onboard_time": 1714518914,
+      "rank": 11,
+      "category": "情感"
     },
     {
-      "raw_hot": 141953,
-      "num": 141953,
-      "word": "院士哽咽介绍医生每天一首琵琶曲延长患者生命",
-      "onboard_time": 1714505291,
-      "rank": 27,
+      "raw_hot": 144935,
+      "num": 144935,
+      "word": "百万粉丝博主为罐子汤放弃减肥",
+      "onboard_time": 1714499952,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 141260,
+      "num": 70920,
+      "word": "问界M7事故砸窗救援者在现场大哭",
+      "onboard_time": 1714519454,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -299,20 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130213,
-      "num": 130213,
-      "word": "五一劳动节",
-      "onboard_time": 1714518914,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125971,
-      "num": 125971,
-      "word": "百万粉丝博主为罐子汤放弃减肥",
-      "onboard_time": 1714499952,
-      "rank": 33,
-      "category": "网红"
+      "raw_hot": 128433,
+      "num": 128433,
+      "word": "五一文案",
+      "onboard_time": 1714518555,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 123455,
@@ -347,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113191,
+      "num": 113191,
+      "word": "五月对我好一点",
+      "onboard_time": 1714519515,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112103,
       "num": 112103,
       "word": "背着善宰跑第八集",
@@ -379,14 +411,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 106380,
-      "num": 106380,
-      "word": "5月第一天",
-      "onboard_time": 1714518914,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 101403,
       "num": 151449,
       "word": "5月十二星座注意事项",
@@ -395,12 +419,12 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 97752,
-      "num": 97752,
-      "word": "五一文案",
-      "onboard_time": 1714518555,
-      "rank": 14,
-      "category": "情感"
+      "raw_hot": 98413,
+      "num": 98413,
+      "word": "拜仁2比2皇马",
+      "onboard_time": 1714519154,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 96494,
@@ -411,12 +435,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90133,
-      "num": 90133,
+      "raw_hot": 91032,
+      "num": 91032,
       "word": "王骁转身下楼梯细节",
       "onboard_time": 1714515252,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88953,
+      "num": 88953,
+      "word": "元气森林音乐节",
+      "onboard_time": 1714519515,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 88523,
@@ -491,6 +523,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 61799,
+      "num": 61799,
+      "word": "春色寄情人结局HE",
+      "onboard_time": 1714519694,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 61450,
+      "num": 61450,
+      "word": "王心凌 昆山",
+      "onboard_time": 1714519875,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 60123,
       "num": 60123,
       "word": "美式前刺",
@@ -505,6 +553,14 @@
       "onboard_time": 1714485018,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 58413,
+      "num": 461557,
+      "word": "我的五一游记",
+      "onboard_time": 1714483099,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58156,
@@ -523,11 +579,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54984,
-      "num": 461557,
-      "word": "我的五一游记",
-      "onboard_time": 1714483099,
-      "rank": 2,
+      "raw_hot": 54100,
+      "num": 54100,
+      "word": "珠海天气",
+      "onboard_time": 1714519273,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -539,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49144,
+      "num": 49144,
+      "word": "使用牙线漱口水和刷牙的正确顺序",
+      "onboard_time": 1714515132,
+      "rank": 49,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 46105,
       "num": 46105,
       "word": "给小鱼接生",
@@ -547,12 +611,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 42236,
-      "num": 42236,
-      "word": "使用牙线漱口水和刷牙的正确顺序",
-      "onboard_time": 1714515132,
-      "rank": 49,
-      "category": "健康医疗,科学科普"
+      "raw_hot": 43470,
+      "num": 43470,
+      "word": "孟子义早期照片",
+      "onboard_time": 1714519994,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 31619,

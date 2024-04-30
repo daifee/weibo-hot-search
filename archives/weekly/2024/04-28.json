@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714519062843,
+  "endTime": 1714520082090,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -931,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 829946,
+      "num": 829946,
+      "word": "低估了五一堵车的程度",
+      "onboard_time": 1714511231,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 829560,
       "num": 387108,
       "word": "9.9的风终于还是卷到了星巴克",
@@ -1057,14 +1065,6 @@
       "onboard_time": 1714227859,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 745845,
-      "num": 745845,
-      "word": "低估了五一堵车的程度",
-      "onboard_time": 1714511231,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 739858,
@@ -3731,6 +3731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259795,
+      "num": 259795,
+      "word": "余承东卸任华为终端BGCEO",
+      "onboard_time": 1714518434,
+      "rank": 6,
+      "category": "财经,数码"
+    },
+    {
       "raw_hot": 259153,
       "num": 259153,
       "word": "北京优化调整住房限购政策",
@@ -3945,6 +3953,14 @@
       "onboard_time": 1714378939,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 247083,
+      "num": 247083,
+      "word": "五一劳动节",
+      "onboard_time": 1714518914,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246749,
@@ -6715,6 +6731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156212,
+      "num": 156212,
+      "word": "院士哽咽介绍医生每天一首琵琶曲延长患者生命",
+      "onboard_time": 1714505291,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156035,
       "num": 156035,
       "word": "城中之城",
@@ -7051,6 +7075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147990,
+      "num": 147990,
+      "word": "5月第一天",
+      "onboard_time": 1714518914,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147946,
       "num": 147946,
       "word": "记者暗访吃猫贩猫黑色产业链",
@@ -7227,6 +7259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144935,
+      "num": 144935,
+      "word": "百万粉丝博主为罐子汤放弃减肥",
+      "onboard_time": 1714499952,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 144627,
       "num": 144627,
       "word": "外交部回应哈马斯和法塔赫在京磋商",
@@ -7291,14 +7331,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 143750,
-      "num": 143750,
-      "word": "余承东卸任华为终端BGCEO",
-      "onboard_time": 1714518434,
-      "rank": 6,
-      "category": "财经,数码"
-    },
-    {
       "raw_hot": 143406,
       "num": 143406,
       "word": "周杰伦兰亭序的杀伤力",
@@ -7323,14 +7355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141953,
-      "num": 141953,
-      "word": "院士哽咽介绍医生每天一首琵琶曲延长患者生命",
-      "onboard_time": 1714505291,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141413,
       "num": 141413,
       "word": "浓眉受伤",
@@ -7345,6 +7369,14 @@
       "onboard_time": 1714320137,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141260,
+      "num": 70920,
+      "word": "问界M7事故砸窗救援者在现场大哭",
+      "onboard_time": 1714519454,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141200,
@@ -7819,14 +7851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 130213,
-      "num": 130213,
-      "word": "五一劳动节",
-      "onboard_time": 1714518914,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130162,
       "num": 501854,
       "word": "杨幂的穿搭有点凡尔赛了",
@@ -7915,6 +7939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128433,
+      "num": 128433,
+      "word": "五一文案",
+      "onboard_time": 1714518555,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128336,
       "num": 203312,
       "word": "热刺vs阿森纳",
@@ -8001,14 +8033,6 @@
       "onboard_time": 1714297817,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125971,
-      "num": 125971,
-      "word": "百万粉丝博主为罐子汤放弃减肥",
-      "onboard_time": 1714499952,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 125925,
@@ -8299,6 +8323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113191,
+      "num": 113191,
+      "word": "五月对我好一点",
+      "onboard_time": 1714519515,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112814,
       "num": 112814,
       "word": "遇到这种旅游搭子真的会开心死",
@@ -8483,14 +8515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106380,
-      "num": 106380,
-      "word": "5月第一天",
-      "onboard_time": 1714518914,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 104644,
       "num": 104644,
       "word": "生理期如何瘦双倍",
@@ -8595,12 +8619,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 97752,
-      "num": 97752,
-      "word": "五一文案",
-      "onboard_time": 1714518555,
-      "rank": 14,
-      "category": "情感"
+      "raw_hot": 98413,
+      "num": 98413,
+      "word": "拜仁2比2皇马",
+      "onboard_time": 1714519154,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 97366,
@@ -8707,6 +8731,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 91032,
+      "num": 91032,
+      "word": "王骁转身下楼梯细节",
+      "onboard_time": 1714515252,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90454,
       "num": 320833,
       "word": "这届医学生唱跳都这么专业嘛",
@@ -8723,12 +8755,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90133,
-      "num": 90133,
-      "word": "王骁转身下楼梯细节",
-      "onboard_time": 1714515252,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 88953,
+      "num": 88953,
+      "word": "元气森林音乐节",
+      "onboard_time": 1714519515,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 86861,
@@ -8907,6 +8939,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61799,
+      "num": 61799,
+      "word": "春色寄情人结局HE",
+      "onboard_time": 1714519694,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 61450,
+      "num": 61450,
+      "word": "王心凌 昆山",
+      "onboard_time": 1714519875,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 61438,
       "num": 59471,
       "word": "继续前行吧 不够善良的我们",
@@ -8947,6 +8995,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 58413,
+      "num": 677743,
+      "word": "我的五一游记",
+      "onboard_time": 1714483099,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58156,
       "num": 58156,
       "word": "女性有这7种情况要警惕宫外孕",
@@ -8971,20 +9027,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54984,
-      "num": 677743,
-      "word": "我的五一游记",
-      "onboard_time": 1714483099,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54376,
       "num": 221659,
       "word": "蛋仔五一福利",
       "onboard_time": 1714301357,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 54100,
+      "num": 54100,
+      "word": "珠海天气",
+      "onboard_time": 1714519273,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53750,
@@ -9033,6 +9089,14 @@
       "onboard_time": 1714516633,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49144,
+      "num": 49144,
+      "word": "使用牙线漱口水和刷牙的正确顺序",
+      "onboard_time": 1714515132,
+      "rank": 49,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 49110,
@@ -9115,6 +9179,14 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 43470,
+      "num": 43470,
+      "word": "孟子义早期照片",
+      "onboard_time": 1714519994,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43183,
       "num": 36284,
       "word": "胡皓康 超A的脸上露出很O的笑容",
@@ -9129,14 +9201,6 @@
       "onboard_time": 1714423331,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 42236,
-      "num": 42236,
-      "word": "使用牙线漱口水和刷牙的正确顺序",
-      "onboard_time": 1714515132,
-      "rank": 49,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 41879,
