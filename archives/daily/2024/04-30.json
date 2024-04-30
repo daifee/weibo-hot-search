@@ -1,6 +1,6 @@
 {
   "startTime": 1714407740815,
-  "endTime": 1714458269180,
+  "endTime": 1714459022658,
   "band_list": [
     {
       "raw_hot": 2517358,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1420011,
+      "num": 1420011,
+      "word": "凤凰传奇骂票",
+      "onboard_time": 1714452919,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1351461,
       "num": 796833,
       "word": "王俊凯王源工作室logo相似",
       "onboard_time": 1714450819,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1344809,
-      "num": 1344809,
-      "word": "凤凰传奇骂票",
-      "onboard_time": 1714452919,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 1307162,
@@ -67,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1281599,
+      "num": 1281599,
+      "word": "女子领证前发现男友出轨分手拒退彩礼",
+      "onboard_time": 1714455857,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1269205,
       "num": 380436,
       "word": "徐艺洋是真不想给黄子韬名分",
       "onboard_time": 1714377679,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1254651,
-      "num": 1254651,
-      "word": "女子领证前发现男友出轨分手拒退彩礼",
-      "onboard_time": 1714455857,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1207222,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 928434,
+      "num": 928434,
+      "word": "大学生投入3800元开店年入110万",
+      "onboard_time": 1714455498,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 903939,
       "num": 903939,
       "word": "湖人vs掘金",
@@ -137,14 +145,6 @@
       "onboard_time": 1714404260,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 738252,
-      "num": 228161,
-      "word": "大学生投入3800元开店年入110万",
-      "onboard_time": 1714455498,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 728098,
@@ -475,6 +475,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 354223,
+      "num": 354223,
+      "word": "梁靖崑先关注王楚钦",
+      "onboard_time": 1714457179,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354111,
       "num": 323285,
       "word": "病毒学家张永振已受聘广州一研究院",
@@ -507,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328862,
+      "num": 328862,
+      "word": "R1SE推荐赵磊上歌手",
+      "onboard_time": 1714456699,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319975,
       "num": 319975,
       "word": "厦门免费宿舍已有1千多人申请",
@@ -515,8 +531,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311070,
-      "num": 311070,
+      "raw_hot": 319092,
+      "num": 319092,
       "word": "NewJeans投入了161亿韩元资本金",
       "onboard_time": 1714455917,
       "rank": 12,
@@ -547,11 +563,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293567,
-      "num": 293567,
-      "word": "梁靖崑先关注王楚钦",
-      "onboard_time": 1714457179,
-      "rank": 14,
+      "raw_hot": 293111,
+      "num": 293111,
+      "word": "霸州双甜",
+      "onboard_time": 1714457299,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -619,14 +635,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 267777,
-      "num": 267777,
-      "word": "R1SE推荐赵磊上歌手",
-      "onboard_time": 1714456699,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 264897,
       "num": 177888,
       "word": "南宁三中",
@@ -681,14 +689,6 @@
       "onboard_time": 1714450158,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 242901,
-      "num": 242901,
-      "word": "霸州双甜",
-      "onboard_time": 1714457299,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 241607,
@@ -827,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205182,
+      "num": 205182,
+      "word": "林高远进入国乒15年了",
+      "onboard_time": 1714458019,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204420,
       "num": 204420,
       "word": "另一种蓝定档",
@@ -923,6 +931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188017,
+      "num": 188017,
+      "word": "RIIZE应援棒",
+      "onboard_time": 1714457837,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188013,
       "num": 188013,
       "word": "福建广东雷暴大风冰雹来袭",
@@ -947,6 +963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186002,
+      "num": 186002,
+      "word": "十二封信",
+      "onboard_time": 1714458379,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185419,
       "num": 185419,
       "word": "第十一周最佳选手流浪",
@@ -955,16 +979,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 184652,
-      "num": 184652,
-      "word": "RIIZE应援棒",
-      "onboard_time": 1714457837,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181130,
-      "num": 157737,
+      "num": 176265,
       "word": "官方回应蔡依林坐轻轨监控流出",
       "onboard_time": 1714456817,
       "rank": 32,
@@ -977,6 +993,14 @@
       "onboard_time": 1714432395,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180179,
+      "num": 180179,
+      "word": "男孩真的无法共情妈妈吗",
+      "onboard_time": 1714456518,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 179022,
@@ -1121,14 +1145,6 @@
       "onboard_time": 1714397719,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 158200,
-      "num": 158200,
-      "word": "男孩真的无法共情妈妈吗",
-      "onboard_time": 1714456518,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 157736,
@@ -1427,6 +1443,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 126720,
+      "num": 126720,
+      "word": "平均年龄39岁航天员空间站聚会",
+      "onboard_time": 1714458318,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125483,
       "num": 125483,
       "word": "Jennie那英",
@@ -1499,14 +1523,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 115979,
-      "num": 115979,
-      "word": "林高远进入国乒15年了",
-      "onboard_time": 1714458019,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113701,
       "num": 113701,
       "word": "神十七乘组要回地球过五一了",
@@ -1529,6 +1545,14 @@
       "onboard_time": 1714444637,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108582,
+      "num": 108582,
+      "word": "特斯拉一夜涨出一个比亚迪",
+      "onboard_time": 1714458797,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 103321,
@@ -1684,7 +1708,7 @@
     },
     {
       "raw_hot": 61126,
-      "num": 1282186,
+      "num": 1283890,
       "word": "五一打卡锦绣中国",
       "onboard_time": 1714447878,
       "rank": 2,

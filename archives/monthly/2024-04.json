@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1714458269180,
+  "endTime": 1714459022658,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2747,6 +2747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1420011,
+      "num": 1420011,
+      "word": "凤凰传奇骂票",
+      "onboard_time": 1714452919,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1417978,
       "num": 1417978,
       "word": "南京胖哥被初诊为PTSD",
@@ -3097,14 +3105,6 @@
       "onboard_time": 1712325799,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1344809,
-      "num": 1344809,
-      "word": "凤凰传奇骂票",
-      "onboard_time": 1714452919,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 1341992,
@@ -3531,6 +3531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1281599,
+      "num": 1281599,
+      "word": "女子领证前发现男友出轨分手拒退彩礼",
+      "onboard_time": 1714455857,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1281195,
       "num": 1281195,
       "word": "伊朗",
@@ -3737,14 +3745,6 @@
       "onboard_time": 1712115321,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1254651,
-      "num": 1254651,
-      "word": "女子领证前发现男友出轨分手拒退彩礼",
-      "onboard_time": 1714455857,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1253747,
@@ -6929,6 +6929,14 @@
       "onboard_time": 1712883979,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 928434,
+      "num": 928434,
+      "word": "大学生投入3800元开店年入110万",
+      "onboard_time": 1714455498,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 927879,
@@ -10337,14 +10345,6 @@
       "onboard_time": 1713012738,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 738252,
-      "num": 228161,
-      "word": "大学生投入3800元开店年入110万",
-      "onboard_time": 1714455498,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 738179,
@@ -27307,6 +27307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 354223,
+      "num": 354223,
+      "word": "梁靖崑先关注王楚钦",
+      "onboard_time": 1714457179,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354112,
       "num": 354112,
       "word": "华为P70或不举办发布会直接上线销售",
@@ -29179,6 +29187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 328862,
+      "num": 328862,
+      "word": "R1SE推荐赵磊上歌手",
+      "onboard_time": 1714456699,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 328842,
       "num": 328842,
       "word": "猎罪图鉴2剧组声明",
@@ -30011,6 +30027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319092,
+      "num": 319092,
+      "word": "NewJeans投入了161亿韩元资本金",
+      "onboard_time": 1714455917,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319045,
       "num": 319045,
       "word": "赵露思妆容解析",
@@ -30624,14 +30648,6 @@
       "word": "BTS注水原文裁决书",
       "onboard_time": 1714271597,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 311070,
-      "num": 311070,
-      "word": "NewJeans投入了161亿韩元资本金",
-      "onboard_time": 1714455917,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -32323,14 +32339,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 293567,
-      "num": 293567,
-      "word": "梁靖崑先关注王楚钦",
-      "onboard_time": 1714457179,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 293518,
       "num": 293518,
       "word": "久坐1小时肌肉就开始出现结节",
@@ -32401,6 +32409,14 @@
       "onboard_time": 1712211977,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 293111,
+      "num": 293111,
+      "word": "霸州双甜",
+      "onboard_time": 1714457299,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 293055,
@@ -35121,14 +35137,6 @@
       "onboard_time": 1713091517,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 267777,
-      "num": 267777,
-      "word": "R1SE推荐赵磊上歌手",
-      "onboard_time": 1714456699,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 267760,
@@ -38593,14 +38601,6 @@
       "onboard_time": 1713021979,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 242901,
-      "num": 242901,
-      "word": "霸州双甜",
-      "onboard_time": 1714457299,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 242891,
@@ -46379,6 +46379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205182,
+      "num": 205182,
+      "word": "林高远进入国乒15年了",
+      "onboard_time": 1714458019,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205176,
       "num": 205176,
       "word": "5A级颈区",
@@ -53067,6 +53075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188017,
+      "num": 188017,
+      "word": "RIIZE应援棒",
+      "onboard_time": 1714457837,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188013,
       "num": 188013,
       "word": "福建广东雷暴大风冰雹来袭",
@@ -53859,6 +53875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186002,
+      "num": 186002,
+      "word": "十二封信",
+      "onboard_time": 1714458379,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185965,
       "num": 185965,
       "word": "真的很喜欢大方表达爱意的人",
@@ -54329,14 +54353,6 @@
       "onboard_time": 1711975458,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 184652,
-      "num": 184652,
-      "word": "RIIZE应援棒",
-      "onboard_time": 1714457837,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 184604,
@@ -55580,7 +55596,7 @@
     },
     {
       "raw_hot": 181130,
-      "num": 157737,
+      "num": 176265,
       "word": "官方回应蔡依林坐轻轨监控流出",
       "onboard_time": 1714456817,
       "rank": 32,
@@ -55857,6 +55873,14 @@
       "onboard_time": 1712562798,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180179,
+      "num": 180179,
+      "word": "男孩真的无法共情妈妈吗",
+      "onboard_time": 1714456518,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 180126,
@@ -62337,14 +62361,6 @@
       "onboard_time": 1713599779,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158200,
-      "num": 158200,
-      "word": "男孩真的无法共情妈妈吗",
-      "onboard_time": 1714456518,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 158194,
@@ -73179,6 +73195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126720,
+      "num": 126720,
+      "word": "平均年龄39岁航天员空间站聚会",
+      "onboard_time": 1714458318,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126719,
       "num": 126719,
       "word": "什么是躁狂发作",
@@ -75931,14 +75955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115979,
-      "num": 115979,
-      "word": "林高远进入国乒15年了",
-      "onboard_time": 1714458019,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 115966,
       "num": 115966,
       "word": "余承东两指夹笔记本",
@@ -77281,6 +77297,14 @@
       "onboard_time": 1713315739,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108582,
+      "num": 108582,
+      "word": "特斯拉一夜涨出一个比亚迪",
+      "onboard_time": 1714458797,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 108429,
@@ -81516,7 +81540,7 @@
     },
     {
       "raw_hot": 61126,
-      "num": 1282186,
+      "num": 1283890,
       "word": "五一打卡锦绣中国",
       "onboard_time": 1714447878,
       "rank": 2,
