@@ -1,0 +1,410 @@
+{
+  "runTime": 1714548049453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4154158,
+        "num": 4154158,
+        "word": "梅龙高速塌陷已致19死30伤",
+        "onboard_time": 1714533498,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1331464,
+        "num": 1331464,
+        "word": "五一假期是捅了人窝吧",
+        "onboard_time": 1714539017,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40081,
+        "num": 904025,
+        "word": "中国海军福建舰出海开展首次航行试验",
+        "onboard_time": 1714522096,
+        "rank": 2,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 639152,
+        "num": 639152,
+        "word": "梅州回应梅大高速茶阳段发生塌方",
+        "onboard_time": 1714545318,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530593,
+        "num": 530593,
+        "word": "下午三点离职五点整个部门涨薪了",
+        "onboard_time": 1714534398,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 521355,
+        "num": 521355,
+        "word": "南雅被继兄侵犯",
+        "onboard_time": 1714541600,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470256,
+        "num": 470256,
+        "word": "纽约警方逮捕哥大抗议学生",
+        "onboard_time": 1714546158,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 463933,
+        "num": 463933,
+        "word": "26岁了人生第一次吃小龙虾",
+        "onboard_time": 1714542739,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 352009,
+        "num": 461279,
+        "word": "赵磊 歌手",
+        "onboard_time": 1714544600,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157453,
+        "num": 447191,
+        "word": "自律儿子不爱学习但每天6点做饭",
+        "onboard_time": 1714539378,
+        "rank": 9,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 744620,
+        "num": 427872,
+        "word": "秦海璐 番茄小说代言人",
+        "onboard_time": 1714541358,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544857,
+        "num": 403944,
+        "word": "Angelababy为冯德伦打call",
+        "onboard_time": 1714545559,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398443,
+        "num": 398443,
+        "word": "梅州高速塌方目击者发声",
+        "onboard_time": 1714533016,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362239,
+        "num": 362239,
+        "word": "内蒙古1.2万切糕事件反转",
+        "onboard_time": 1714546998,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320036,
+        "num": 320036,
+        "word": "IVE粉丝停止本次回归专辑团体代购",
+        "onboard_time": 1714544539,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307864,
+        "num": 307864,
+        "word": "头上抠下来的黄色小颗粒是什么",
+        "onboard_time": 1714534398,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 301524,
+        "num": 301524,
+        "word": "五一第一天就赶上生理期了",
+        "onboard_time": 1714542199,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294798,
+        "num": 294798,
+        "word": "林俊杰官宣下半年演唱会场次",
+        "onboard_time": 1714546098,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 276826,
+        "num": 276826,
+        "word": "间谍窃取我国杂交水稻亲本种子",
+        "onboard_time": 1714487901,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249828,
+        "num": 249828,
+        "word": "狐妖月红篇对打庆余年2",
+        "onboard_time": 1714539497,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393372,
+        "num": 247207,
+        "word": "女子胎儿畸形引产后分手被要求退15万彩礼",
+        "onboard_time": 1714541179,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383367,
+        "num": 246873,
+        "word": "蔡徐坤染发",
+        "onboard_time": 1714547417,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328238,
+        "num": 246535,
+        "word": "张婧仪素颜",
+        "onboard_time": 1714546579,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244095,
+        "num": 244095,
+        "word": "电影票房",
+        "onboard_time": 1714540518,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228314,
+        "num": 228314,
+        "word": "王珞丹辟谣和朱丹同母异父",
+        "onboard_time": 1714537877,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211880,
+        "num": 211880,
+        "word": "张钧甯 大家都去哪里捅人窝了",
+        "onboard_time": 1714547538,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200619,
+        "num": 200619,
+        "word": "金智媛看过甄嬛传",
+        "onboard_time": 1714538657,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189189,
+        "num": 189189,
+        "word": "杨幂说真的不在意戏份",
+        "onboard_time": 1714547417,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182565,
+        "num": 182565,
+        "word": "吉克隽逸公开200副自制美甲",
+        "onboard_time": 1714547357,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172047,
+        "num": 172047,
+        "word": "大学男生冒充小学生骗取女生骑大马",
+        "onboard_time": 1714530258,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172034,
+        "num": 172034,
+        "word": "IVE新曲插画师 马王堆镇馆之宝",
+        "onboard_time": 1714539079,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162860,
+        "num": 162860,
+        "word": "重庆警方通报17岁少年被刺伤致死",
+        "onboard_time": 1714544059,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158162,
+        "num": 158162,
+        "word": "王一博骑摩托去接受采访",
+        "onboard_time": 1714542020,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157302,
+        "num": 157302,
+        "word": "没有应届生身份死不了的",
+        "onboard_time": 1714532777,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156428,
+        "num": 156428,
+        "word": "徐艺洋上班",
+        "onboard_time": 1714535778,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153364,
+        "num": 153364,
+        "word": "哥大学生占领教学楼",
+        "onboard_time": 1714546698,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 138959,
+        "num": 138959,
+        "word": "电脑C盘最恶心的四大毒瘤",
+        "onboard_time": 1714547958,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136608,
+        "num": 136608,
+        "word": "华晨宇演唱会",
+        "onboard_time": 1714533197,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135575,
+        "num": 135575,
+        "word": "花花和爷爷又谭崩了",
+        "onboard_time": 1714533377,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132213,
+        "num": 132213,
+        "word": "杨蓉当经纪人话术一套一套的",
+        "onboard_time": 1714545079,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131993,
+        "num": 131993,
+        "word": "庆余年2本月播出",
+        "onboard_time": 1714534338,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131620,
+        "num": 131620,
+        "word": "梅州高速塌方事故已救出31人",
+        "onboard_time": 1714540398,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114099,
+        "num": 114099,
+        "word": "五一为什么要出来罚站",
+        "onboard_time": 1714546639,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113629,
+        "num": 113629,
+        "word": "没想到猫咖的猫也要开早会",
+        "onboard_time": 1714546998,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109438,
+        "num": 109438,
+        "word": "FPX.ZQ对战Wolves",
+        "onboard_time": 1714547059,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108849,
+        "num": 108849,
+        "word": "第五人格赛事",
+        "onboard_time": 1714547958,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107215,
+        "num": 107215,
+        "word": "每个宿舍都有自己的空调姐",
+        "onboard_time": 1714547779,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105488,
+        "num": 105488,
+        "word": "韩红cos黄昏",
+        "onboard_time": 1714541358,
+        "rank": 47,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 103723,
+        "num": 103723,
+        "word": "当凌晨四点还不睡时你的猫",
+        "onboard_time": 1714542918,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97756,
+        "num": 97756,
+        "word": "兵马俑开馆2小时游客超1万人",
+        "onboard_time": 1714546758,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
