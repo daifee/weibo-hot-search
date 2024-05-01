@@ -1,0 +1,410 @@
+{
+  "runTime": 1714526402107,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1140471,
+        "num": 1140471,
+        "word": "间谍窃取我国杂交水稻亲本种子",
+        "onboard_time": 1714487901,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060289,
+        "num": 1060289,
+        "word": "梅州高速塌方",
+        "onboard_time": 1714523716,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74837,
+        "num": 994594,
+        "word": "我的五一游记",
+        "onboard_time": 1714483099,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979278,
+        "num": 979278,
+        "word": "沙溢回应退出奔跑吧",
+        "onboard_time": 1714523176,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 758679,
+        "num": 758679,
+        "word": "低估了五一堵车的程度",
+        "onboard_time": 1714511231,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 720493,
+        "num": 720493,
+        "word": "日本或将进入单身税时代",
+        "onboard_time": 1714522457,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671147,
+        "num": 671147,
+        "word": "男子称两年前被上门采集核酸时的照片泄露",
+        "onboard_time": 1714522936,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634467,
+        "num": 634467,
+        "word": "福建舰海试",
+        "onboard_time": 1714522876,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 449484,
+        "num": 449484,
+        "word": "孩子住院家长请假遭开除获赔22万",
+        "onboard_time": 1714520654,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257470,
+        "num": 442658,
+        "word": "第一批游客已冒雨抵达长沙",
+        "onboard_time": 1714520416,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 841804,
+        "num": 433829,
+        "word": "戚薇 我从不掩饰对女生的喜爱",
+        "onboard_time": 1714521916,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507736,
+        "num": 426061,
+        "word": "江南造船厂",
+        "onboard_time": 1714524498,
+        "rank": 11,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 486742,
+        "num": 419988,
+        "word": "肖战对接辟谣包场王一博电影",
+        "onboard_time": 1714521977,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 411349,
+        "num": 411349,
+        "word": "苹果正在修复iPhone闹钟不响问题",
+        "onboard_time": 1714521675,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 298276,
+        "num": 298276,
+        "word": "张韶涵工作室报平安",
+        "onboard_time": 1714525038,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281289,
+        "num": 281289,
+        "word": "小米SU7上市首月交付7058辆",
+        "onboard_time": 1714524856,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 239342,
+        "num": 239342,
+        "word": "洁丽雅董事长谈儿子拍短剧出圈",
+        "onboard_time": 1714486219,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236434,
+        "num": 236434,
+        "word": "你还在穿鬼冢虎吗",
+        "onboard_time": 1714494437,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 233995,
+        "num": 233995,
+        "word": "梅州高速塌方有车辆人员被困",
+        "onboard_time": 1714525457,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213510,
+        "num": 213510,
+        "word": "五一劳动节",
+        "onboard_time": 1714518914,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476714,
+        "num": 212672,
+        "word": "喝完水多久排尿才正常",
+        "onboard_time": 1714520235,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 386462,
+        "num": 211597,
+        "word": "南雅被当众扒衣服",
+        "onboard_time": 1714522577,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366519,
+        "num": 209807,
+        "word": "问界M7事故砸窗救援者在现场大哭",
+        "onboard_time": 1714519454,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244935,
+        "num": 207605,
+        "word": "印尼女子9岁时去过丈夫二婚婚礼",
+        "onboard_time": 1714524737,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206989,
+        "num": 206989,
+        "word": "迪丽热巴工作室包场杨幂新电影",
+        "onboard_time": 1714525038,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205067,
+        "num": 205067,
+        "word": "美国流浪汉当街啃人脸吃眼球和耳朵",
+        "onboard_time": 1714484538,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201056,
+        "num": 201056,
+        "word": "五一到底哪里没人啊",
+        "onboard_time": 1714522637,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190633,
+        "num": 190633,
+        "word": "刚出生四天的小柴犬宝宝",
+        "onboard_time": 1714523537,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184596,
+        "num": 184596,
+        "word": "苹果称5月7日发布会将不同寻常",
+        "onboard_time": 1714525277,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167627,
+        "num": 167627,
+        "word": "原来跑男早就预言了退出的人",
+        "onboard_time": 1714489460,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166923,
+        "num": 166923,
+        "word": "余承东卸任华为终端BGCEO",
+        "onboard_time": 1714518434,
+        "rank": 30,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 160634,
+        "num": 160634,
+        "word": "芍药这么美还是中药换谁不迷糊",
+        "onboard_time": 1714520175,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156224,
+        "num": 156224,
+        "word": "纪凌尘 你别再演了",
+        "onboard_time": 1714488259,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153204,
+        "num": 153204,
+        "word": "突然感觉朋友圈发什么都很幼稚了",
+        "onboard_time": 1714491558,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150281,
+        "num": 150281,
+        "word": "中国海军福建舰出海开展首次航行试验",
+        "onboard_time": 1714522096,
+        "rank": 34,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 142083,
+        "num": 142083,
+        "word": "元气森林音乐节",
+        "onboard_time": 1714519515,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141889,
+        "num": 141889,
+        "word": "五月天在暴雨中演唱倔强",
+        "onboard_time": 1714523055,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136991,
+        "num": 136991,
+        "word": "newjeans飞天小女警MV预告",
+        "onboard_time": 1714524258,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134765,
+        "num": 134765,
+        "word": "王心凌 昆山",
+        "onboard_time": 1714519875,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133488,
+        "num": 133488,
+        "word": "五一文案",
+        "onboard_time": 1714518555,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129034,
+        "num": 129034,
+        "word": "洁丽雅",
+        "onboard_time": 1714524917,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128004,
+        "num": 128004,
+        "word": "背着善宰跑",
+        "onboard_time": 1714524317,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122928,
+        "num": 122928,
+        "word": "孟子义早期照片",
+        "onboard_time": 1714519994,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118610,
+        "num": 118610,
+        "word": "比初恋更遗憾的是半生朋友be",
+        "onboard_time": 1714491800,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112882,
+        "num": 112882,
+        "word": "乌云其木格同志逝世",
+        "onboard_time": 1714521977,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106945,
+        "num": 106945,
+        "word": "让人瞬间理解领养代替购买",
+        "onboard_time": 1714524917,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99114,
+        "num": 99114,
+        "word": "春色寄情人结局HE",
+        "onboard_time": 1714519694,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95105,
+        "num": 95105,
+        "word": "河南博物院",
+        "onboard_time": 1714523476,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 94762,
+        "num": 94762,
+        "word": "福建舰",
+        "onboard_time": 1714522936,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 91195,
+        "num": 91195,
+        "word": "边佑锡好帅",
+        "onboard_time": 1714520894,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#第二十届中央委员会第三次全体会议#"
+    }
+  }
+}

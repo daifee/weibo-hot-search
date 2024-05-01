@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714520082090,
+  "endTime": 1714526402107,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -603,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1060289,
+      "num": 1060289,
+      "word": "梅州高速塌方",
+      "onboard_time": 1714523716,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1047982,
       "num": 1047982,
       "word": "4个何炅",
@@ -673,6 +681,14 @@
       "onboard_time": 1714264219,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 979278,
+      "num": 979278,
+      "word": "沙溢回应退出奔跑吧",
+      "onboard_time": 1714523176,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 960594,
@@ -915,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 841804,
+      "num": 433829,
+      "word": "戚薇 我从不掩饰对女生的喜爱",
+      "onboard_time": 1714521916,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 838017,
       "num": 838017,
       "word": "庄洁妈妈 窒息",
@@ -1123,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 720493,
+      "num": 720493,
+      "word": "日本或将进入单身税时代",
+      "onboard_time": 1714522457,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 719580,
       "num": 719580,
       "word": "偷感很重是什么梗",
@@ -1323,6 +1355,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 671147,
+      "num": 671147,
+      "word": "男子称两年前被上门采集核酸时的照片泄露",
+      "onboard_time": 1714522936,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 669945,
       "num": 547230,
       "word": "自称刷了30万的榜一大哥和女主播街头冲突",
@@ -1449,6 +1489,14 @@
       "onboard_time": 1714486758,
       "rank": 16,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 634467,
+      "num": 634467,
+      "word": "福建舰海试",
+      "onboard_time": 1714522876,
+      "rank": 7,
+      "category": "军事"
     },
     {
       "raw_hot": 629623,
@@ -1923,6 +1971,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 507736,
+      "num": 426061,
+      "word": "江南造船厂",
+      "onboard_time": 1714524498,
+      "rank": 11,
+      "category": "军事,国内时政"
+    },
+    {
       "raw_hot": 506983,
       "num": 506983,
       "word": "纪凌尘 你别再演了",
@@ -2027,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 486742,
+      "num": 419988,
+      "word": "肖战对接辟谣包场王一博电影",
+      "onboard_time": 1714521977,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 486396,
       "num": 427942,
       "word": "病毒学家张永振和其学生仍围坐门口",
@@ -2073,6 +2137,14 @@
       "onboard_time": 1714292958,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 476714,
+      "num": 212672,
+      "word": "喝完水多久排尿才正常",
+      "onboard_time": 1714520235,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 475382,
@@ -2249,6 +2321,14 @@
       "onboard_time": 1714300996,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 449484,
+      "num": 449484,
+      "word": "孩子住院家长请假遭开除获赔22万",
+      "onboard_time": 1714520654,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449263,
@@ -2467,6 +2547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 411349,
+      "num": 411349,
+      "word": "苹果正在修复iPhone闹钟不响问题",
+      "onboard_time": 1714521675,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 409555,
       "num": 409555,
       "word": "华为与苹果同日举办新品发布会",
@@ -2576,6 +2664,14 @@
       "word": "赴山海官宣",
       "onboard_time": 1714469897,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 386462,
+      "num": 211597,
+      "word": "南雅被当众扒衣服",
+      "onboard_time": 1714522577,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -2721,6 +2817,14 @@
       "onboard_time": 1714270998,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 366519,
+      "num": 209807,
+      "word": "问界M7事故砸窗救援者在现场大哭",
+      "onboard_time": 1714519454,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365828,
@@ -3323,6 +3427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298276,
+      "num": 298276,
+      "word": "张韶涵工作室报平安",
+      "onboard_time": 1714525038,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297433,
       "num": 297433,
       "word": "王源二巡还叫客厅狂欢",
@@ -3457,6 +3569,14 @@
       "onboard_time": 1714317439,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 281289,
+      "num": 281289,
+      "word": "小米SU7上市首月交付7058辆",
+      "onboard_time": 1714524856,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 280824,
@@ -3763,6 +3883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257470,
+      "num": 442658,
+      "word": "第一批游客已冒雨抵达长沙",
+      "onboard_time": 1714520416,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 256314,
       "num": 305294,
       "word": "专家谈问界M7碰撞后疑车门无法打开",
@@ -4003,6 +4131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244935,
+      "num": 207605,
+      "word": "印尼女子9岁时去过丈夫二婚婚礼",
+      "onboard_time": 1714524737,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244902,
       "num": 244902,
       "word": "王者荣耀",
@@ -4233,6 +4369,14 @@
       "onboard_time": 1714408756,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233995,
+      "num": 233995,
+      "word": "梅州高速塌方有车辆人员被困",
+      "onboard_time": 1714525457,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233067,
@@ -4763,6 +4907,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 206989,
+      "num": 206989,
+      "word": "迪丽热巴工作室包场杨幂新电影",
+      "onboard_time": 1714525038,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206981,
       "num": 206981,
       "word": "李现周雨彤cp感",
@@ -5057,6 +5209,14 @@
       "onboard_time": 1714303338,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201056,
+      "num": 201056,
+      "word": "五一到底哪里没人啊",
+      "onboard_time": 1714522637,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 200403,
@@ -5547,6 +5707,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 190633,
+      "num": 190633,
+      "word": "刚出生四天的小柴犬宝宝",
+      "onboard_time": 1714523537,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190626,
       "num": 190626,
       "word": "回到那一天演唱会退票",
@@ -5801,6 +5969,14 @@
       "onboard_time": 1714351098,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184596,
+      "num": 184596,
+      "word": "苹果称5月7日发布会将不同寻常",
+      "onboard_time": 1714525277,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 184499,
@@ -6507,6 +6683,14 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 160634,
+      "num": 160634,
+      "word": "芍药这么美还是中药换谁不迷糊",
+      "onboard_time": 1714520175,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 160530,
       "num": 160530,
       "word": "时代少年团MV正确打开方式",
@@ -6955,6 +7139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150281,
+      "num": 150281,
+      "word": "中国海军福建舰出海开展首次航行试验",
+      "onboard_time": 1714522096,
+      "rank": 34,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 150080,
       "num": 150080,
       "word": "陈丽君 实至名归",
@@ -7355,6 +7547,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142083,
+      "num": 142083,
+      "word": "元气森林音乐节",
+      "onboard_time": 1714519515,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 141889,
+      "num": 141889,
+      "word": "五月天在暴雨中演唱倔强",
+      "onboard_time": 1714523055,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141413,
       "num": 141413,
       "word": "浓眉受伤",
@@ -7369,14 +7577,6 @@
       "onboard_time": 1714320137,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 141260,
-      "num": 70920,
-      "word": "问界M7事故砸窗救援者在现场大哭",
-      "onboard_time": 1714519454,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141200,
@@ -7507,6 +7707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136991,
+      "num": 136991,
+      "word": "newjeans飞天小女警MV预告",
+      "onboard_time": 1714524258,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 136707,
       "num": 136707,
       "word": "别人拍照和我拍照的区别",
@@ -7611,6 +7819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134765,
+      "num": 134765,
+      "word": "王心凌 昆山",
+      "onboard_time": 1714519875,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134744,
       "num": 77494,
       "word": "微信撤回能不能别提示",
@@ -7672,6 +7888,14 @@
       "word": "突然意识到自己没有性格",
       "onboard_time": 1714379778,
       "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 133488,
+      "num": 133488,
+      "word": "五一文案",
+      "onboard_time": 1714518555,
+      "rank": 14,
       "category": "情感"
     },
     {
@@ -7899,6 +8123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129034,
+      "num": 129034,
+      "word": "洁丽雅",
+      "onboard_time": 1714524917,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128942,
       "num": 128942,
       "word": "2024年汤尤杯",
@@ -7937,14 +8169,6 @@
       "onboard_time": 1714317320,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128433,
-      "num": 128433,
-      "word": "五一文案",
-      "onboard_time": 1714518555,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 128336,
@@ -8129,6 +8353,14 @@
       "onboard_time": 1714283779,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122928,
+      "num": 122928,
+      "word": "孟子义早期照片",
+      "onboard_time": 1714519994,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 122060,
@@ -8331,6 +8563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112882,
+      "num": 112882,
+      "word": "乌云其木格同志逝世",
+      "onboard_time": 1714521977,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112814,
       "num": 112814,
       "word": "遇到这种旅游搭子真的会开心死",
@@ -8499,6 +8739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106945,
+      "num": 106945,
+      "word": "让人瞬间理解领养代替购买",
+      "onboard_time": 1714524917,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106833,
       "num": 104534,
       "word": "高速快车道一车辆撞上养护车致1死3伤",
@@ -8603,6 +8851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99114,
+      "num": 99114,
+      "word": "春色寄情人结局HE",
+      "onboard_time": 1714519694,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99024,
       "num": 99024,
       "word": "追光的你",
@@ -8667,6 +8923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95105,
+      "num": 95105,
+      "word": "河南博物院",
+      "onboard_time": 1714523476,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 94896,
       "num": 94896,
       "word": "新款iPadPro或搭载M4芯片",
@@ -8723,6 +8987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 91195,
+      "num": 91195,
+      "word": "边佑锡好帅",
+      "onboard_time": 1714520894,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91132,
       "num": 326748,
       "word": "被Pura70的颜值圈粉了",
@@ -8753,14 +9025,6 @@
       "onboard_time": 1714479439,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88953,
-      "num": 88953,
-      "word": "元气森林音乐节",
-      "onboard_time": 1714519515,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 86861,
@@ -8867,6 +9131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 74837,
+      "num": 994594,
+      "word": "我的五一游记",
+      "onboard_time": 1714483099,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74358,
       "num": 74358,
       "word": "邓超陈赫能玩到一起的原因",
@@ -8939,22 +9211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61799,
-      "num": 61799,
-      "word": "春色寄情人结局HE",
-      "onboard_time": 1714519694,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 61450,
-      "num": 61450,
-      "word": "王心凌 昆山",
-      "onboard_time": 1714519875,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 61438,
       "num": 59471,
       "word": "继续前行吧 不够善良的我们",
@@ -8993,14 +9249,6 @@
       "onboard_time": 1714287319,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 58413,
-      "num": 677743,
-      "word": "我的五一游记",
-      "onboard_time": 1714483099,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58156,
@@ -9177,14 +9425,6 @@
       "onboard_time": 1714338851,
       "rank": 49,
       "category": "互联网,汽车"
-    },
-    {
-      "raw_hot": 43470,
-      "num": 43470,
-      "word": "孟子义早期照片",
-      "onboard_time": 1714519994,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 43183,
