@@ -1,0 +1,410 @@
+{
+  "runTime": 1714527643383,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1115076,
+        "num": 1115076,
+        "word": "间谍窃取我国杂交水稻亲本种子",
+        "onboard_time": 1714487901,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1054663,
+        "num": 1054663,
+        "word": "梅州高速塌方",
+        "onboard_time": 1714523716,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68261,
+        "num": 1021304,
+        "word": "我的五一游记",
+        "onboard_time": 1714483099,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018617,
+        "num": 1018617,
+        "word": "沙溢回应退出奔跑吧",
+        "onboard_time": 1714523176,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 870938,
+        "num": 870938,
+        "word": "日本或将进入单身税时代",
+        "onboard_time": 1714522457,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652302,
+        "num": 652302,
+        "word": "福建舰海试",
+        "onboard_time": 1714522876,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 616343,
+        "num": 616343,
+        "word": "低估了五一堵车的程度",
+        "onboard_time": 1714511231,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 540188,
+        "num": 540188,
+        "word": "男子称两年前被上门采集核酸时的照片泄露",
+        "onboard_time": 1714522936,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344867,
+        "num": 344867,
+        "word": "苹果正在修复iPhone闹钟不响问题",
+        "onboard_time": 1714521675,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 235356,
+        "num": 343330,
+        "word": "第一批游客已冒雨抵达长沙",
+        "onboard_time": 1714520416,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 776940,
+        "num": 342040,
+        "word": "戚薇 我从不掩饰对女生的喜爱",
+        "onboard_time": 1714521916,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495795,
+        "num": 339166,
+        "word": "江南造船厂",
+        "onboard_time": 1714524498,
+        "rank": 11,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 467447,
+        "num": 334766,
+        "word": "肖战对接辟谣包场王一博电影",
+        "onboard_time": 1714521977,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 333787,
+        "num": 333787,
+        "word": "孩子住院家长请假遭开除获赔22万",
+        "onboard_time": 1714520654,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301333,
+        "num": 301333,
+        "word": "张韶涵工作室报平安",
+        "onboard_time": 1714525038,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299786,
+        "num": 299786,
+        "word": "小米SU7上市首月交付7058辆",
+        "onboard_time": 1714524856,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 267374,
+        "num": 267374,
+        "word": "梅州高速塌方有车辆人员被困",
+        "onboard_time": 1714525457,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260942,
+        "num": 260942,
+        "word": "五一到底哪里没人啊",
+        "onboard_time": 1714522637,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232763,
+        "num": 232763,
+        "word": "迪丽热巴工作室包场杨幂新电影",
+        "onboard_time": 1714525038,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215524,
+        "num": 215524,
+        "word": "洁丽雅董事长谈儿子拍短剧出圈",
+        "onboard_time": 1714486219,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422792,
+        "num": 209832,
+        "word": "南雅被当众扒衣服",
+        "onboard_time": 1714522577,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334748,
+        "num": 206608,
+        "word": "喝完水多久排尿才正常",
+        "onboard_time": 1714520235,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 270519,
+        "num": 206097,
+        "word": "问界M7事故砸窗救援者在现场大哭",
+        "onboard_time": 1714519454,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201860,
+        "num": 201860,
+        "word": "刚出生四天的小柴犬宝宝",
+        "onboard_time": 1714523537,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201790,
+        "num": 201790,
+        "word": "印尼女子9岁时去过丈夫二婚婚礼",
+        "onboard_time": 1714524737,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200899,
+        "num": 200899,
+        "word": "第一视角看福建舰出海",
+        "onboard_time": 1714527018,
+        "rank": 25,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 192080,
+        "num": 192080,
+        "word": "我国第三艘航母解缆启航",
+        "onboard_time": 1714527018,
+        "rank": 26,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 187854,
+        "num": 191741,
+        "word": "五一旅游",
+        "onboard_time": 1714526657,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 191454,
+        "num": 191454,
+        "word": "美国流浪汉当街啃人脸吃眼球和耳朵",
+        "onboard_time": 1714484538,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188417,
+        "num": 188417,
+        "word": "原来跑男早就预言了退出的人",
+        "onboard_time": 1714489460,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185006,
+        "num": 185006,
+        "word": "五一劳动节",
+        "onboard_time": 1714518914,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184996,
+        "num": 184996,
+        "word": "养猫的和不养猫的都沉默了",
+        "onboard_time": 1714527018,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158395,
+        "num": 158395,
+        "word": "你还在穿鬼冢虎吗",
+        "onboard_time": 1714494437,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 156268,
+        "num": 156268,
+        "word": "耳鸣是身体在发出警告",
+        "onboard_time": 1714527018,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154844,
+        "num": 154844,
+        "word": "突然感觉朋友圈发什么都很幼稚了",
+        "onboard_time": 1714491558,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149033,
+        "num": 149033,
+        "word": "五月天在暴雨中演唱倔强",
+        "onboard_time": 1714523055,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148307,
+        "num": 148307,
+        "word": "苹果称5月7日发布会将不同寻常",
+        "onboard_time": 1714525277,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144693,
+        "num": 144693,
+        "word": "元气森林音乐节",
+        "onboard_time": 1714519515,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142429,
+        "num": 142429,
+        "word": "芍药这么美还是中药换谁不迷糊",
+        "onboard_time": 1714520175,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141825,
+        "num": 141825,
+        "word": "newjeans飞天小女警MV预告",
+        "onboard_time": 1714524258,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135806,
+        "num": 135806,
+        "word": "余承东职位调整为正常管理任命",
+        "onboard_time": 1714526778,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134748,
+        "num": 134748,
+        "word": "iOS18将为Safari浏览器带来大更新",
+        "onboard_time": 1714526537,
+        "rank": 41,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 131038,
+        "num": 131038,
+        "word": "比初恋更遗憾的是半生朋友be",
+        "onboard_time": 1714491800,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129770,
+        "num": 129770,
+        "word": "纪凌尘 你别再演了",
+        "onboard_time": 1714488259,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126225,
+        "num": 126225,
+        "word": "五一文案",
+        "onboard_time": 1714518555,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122056,
+        "num": 122056,
+        "word": "真的别再打孩子了",
+        "onboard_time": 1714525818,
+        "rank": 45,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 118931,
+        "num": 118931,
+        "word": "余承东卸任华为终端BGCEO",
+        "onboard_time": 1714518434,
+        "rank": 46,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 114666,
+        "num": 114666,
+        "word": "五一上班",
+        "onboard_time": 1714527618,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107811,
+        "num": 107811,
+        "word": "背着善宰跑",
+        "onboard_time": 1714524317,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106517,
+        "num": 106517,
+        "word": "王心凌 昆山",
+        "onboard_time": 1714519875,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会#"
+    }
+  }
+}

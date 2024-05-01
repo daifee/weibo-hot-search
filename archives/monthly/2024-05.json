@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714526402107,
+  "endTime": 1714527643383,
   "band_list": [
     {
       "raw_hot": 1695633,
@@ -27,12 +27,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 979278,
-      "num": 979278,
+      "raw_hot": 1018617,
+      "num": 1018617,
       "word": "沙溢回应退出奔跑吧",
       "onboard_time": 1714523176,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 870938,
+      "num": 870938,
+      "word": "日本或将进入单身税时代",
+      "onboard_time": 1714522457,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 841804,
@@ -51,14 +59,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 720493,
-      "num": 720493,
-      "word": "日本或将进入单身税时代",
-      "onboard_time": 1714522457,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 671147,
       "num": 671147,
       "word": "男子称两年前被上门采集核酸时的照片泄露",
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 634467,
-      "num": 634467,
+      "raw_hot": 652302,
+      "num": 652302,
       "word": "福建舰海试",
       "onboard_time": 1714522876,
       "rank": 7,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 537893,
-      "num": 167627,
+      "num": 188417,
       "word": "原来跑男早就预言了退出的人",
       "onboard_time": 1714489460,
       "rank": 20,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422792,
+      "num": 211597,
+      "word": "南雅被当众扒衣服",
+      "onboard_time": 1714522577,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 419303,
       "num": 419303,
       "word": "你还在穿鬼冢虎吗",
@@ -145,14 +153,6 @@
       "onboard_time": 1714491558,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 386462,
-      "num": 211597,
-      "word": "南雅被当众扒衣服",
-      "onboard_time": 1714522577,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 379238,
@@ -203,6 +203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 301333,
+      "num": 301333,
+      "word": "张韶涵工作室报平安",
+      "onboard_time": 1714525038,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299879,
       "num": 264723,
       "word": "纪凌尘 你别再演了",
@@ -211,12 +219,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 298276,
-      "num": 298276,
-      "word": "张韶涵工作室报平安",
-      "onboard_time": 1714525038,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 299786,
+      "num": 299786,
+      "word": "小米SU7上市首月交付7058辆",
+      "onboard_time": 1714524856,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 285105,
@@ -227,12 +235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 281289,
-      "num": 281289,
-      "word": "小米SU7上市首月交付7058辆",
-      "onboard_time": 1714524856,
-      "rank": 15,
-      "category": "汽车"
+      "raw_hot": 267374,
+      "num": 267374,
+      "word": "梅州高速塌方有车辆人员被困",
+      "onboard_time": 1714525457,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266363,
@@ -249,6 +257,14 @@
       "onboard_time": 1714488980,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260942,
+      "num": 260942,
+      "word": "五一到底哪里没人啊",
+      "onboard_time": 1714522637,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 259795,
@@ -315,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233995,
-      "num": 233995,
-      "word": "梅州高速塌方有车辆人员被困",
-      "onboard_time": 1714525457,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 232763,
+      "num": 232763,
+      "word": "迪丽热巴工作室包场杨幂新电影",
+      "onboard_time": 1714525038,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 227327,
@@ -339,20 +355,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206989,
-      "num": 206989,
-      "word": "迪丽热巴工作室包场杨幂新电影",
-      "onboard_time": 1714525038,
-      "rank": 24,
-      "category": "电影"
+      "raw_hot": 201860,
+      "num": 201860,
+      "word": "刚出生四天的小柴犬宝宝",
+      "onboard_time": 1714523537,
+      "rank": 27,
+      "category": "幽默"
     },
     {
-      "raw_hot": 201056,
-      "num": 201056,
-      "word": "五一到底哪里没人啊",
-      "onboard_time": 1714522637,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 200899,
+      "num": 200899,
+      "word": "第一视角看福建舰出海",
+      "onboard_time": 1714527018,
+      "rank": 25,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 195344,
@@ -363,11 +379,27 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 190633,
-      "num": 190633,
-      "word": "刚出生四天的小柴犬宝宝",
-      "onboard_time": 1714523537,
+      "raw_hot": 192080,
+      "num": 192080,
+      "word": "我国第三艘航母解缆启航",
+      "onboard_time": 1714527018,
+      "rank": 26,
+      "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 187854,
+      "num": 191741,
+      "word": "五一旅游",
+      "onboard_time": 1714526657,
       "rank": 27,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 184996,
+      "num": 184996,
+      "word": "养猫的和不养猫的都沉默了",
+      "onboard_time": 1714527018,
+      "rank": 31,
       "category": "幽默"
     },
     {
@@ -427,6 +459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 156268,
+      "num": 156268,
+      "word": "耳鸣是身体在发出警告",
+      "onboard_time": 1714527018,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156212,
       "num": 156212,
       "word": "院士哽咽介绍医生每天一首琵琶曲延长患者生命",
@@ -459,6 +499,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 149033,
+      "num": 149033,
+      "word": "五月天在暴雨中演唱倔强",
+      "onboard_time": 1714523055,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147990,
       "num": 147990,
       "word": "5月第一天",
@@ -475,20 +523,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 142083,
-      "num": 142083,
+      "raw_hot": 144693,
+      "num": 144693,
       "word": "元气森林音乐节",
       "onboard_time": 1714519515,
       "rank": 19,
       "category": "演出"
     },
     {
-      "raw_hot": 141889,
-      "num": 141889,
-      "word": "五月天在暴雨中演唱倔强",
-      "onboard_time": 1714523055,
-      "rank": 36,
-      "category": "演出"
+      "raw_hot": 141825,
+      "num": 141825,
+      "word": "newjeans飞天小女警MV预告",
+      "onboard_time": 1714524258,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 138572,
@@ -515,12 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136991,
-      "num": 136991,
-      "word": "newjeans飞天小女警MV预告",
-      "onboard_time": 1714524258,
-      "rank": 37,
-      "category": "音乐"
+      "raw_hot": 135806,
+      "num": 135806,
+      "word": "余承东职位调整为正常管理任命",
+      "onboard_time": 1714526778,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 134765,
@@ -529,6 +577,14 @@
       "onboard_time": 1714519875,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134748,
+      "num": 134748,
+      "word": "iOS18将为Safari浏览器带来大更新",
+      "onboard_time": 1714526537,
+      "rank": 41,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 133488,
@@ -595,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122056,
+      "num": 122056,
+      "word": "真的别再打孩子了",
+      "onboard_time": 1714525818,
+      "rank": 45,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 121202,
       "num": 121202,
       "word": "孙千腹肌照",
@@ -609,6 +673,14 @@
       "onboard_time": 1714485740,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114666,
+      "num": 114666,
+      "word": "五一上班",
+      "onboard_time": 1714527618,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 113191,
@@ -764,7 +836,7 @@
     },
     {
       "raw_hot": 74837,
-      "num": 994594,
+      "num": 1021304,
       "word": "我的五一游记",
       "onboard_time": 1714483099,
       "rank": 2,
