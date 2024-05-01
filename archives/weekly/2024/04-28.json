@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714548049453,
+  "endTime": 1714548869505,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -1427,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 682788,
+      "num": 403944,
+      "word": "Angelababy为冯德伦打call",
+      "onboard_time": 1714545559,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 676884,
       "num": 676884,
       "word": "电视剧人鱼官宣开机",
@@ -1473,6 +1481,14 @@
       "onboard_time": 1714438758,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 661981,
+      "num": 661981,
+      "word": "内蒙古1.2万切糕事件反转",
+      "onboard_time": 1714546998,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 661066,
@@ -1860,7 +1876,7 @@
     },
     {
       "raw_hot": 556592,
-      "num": 247207,
+      "num": 260066,
       "word": "女子胎儿畸形引产后分手被要求退15万彩礼",
       "onboard_time": 1714541179,
       "rank": 22,
@@ -1907,11 +1923,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 544857,
-      "num": 403944,
-      "word": "Angelababy为冯德伦打call",
-      "onboard_time": 1714545559,
-      "rank": 11,
+      "raw_hot": 544525,
+      "num": 261976,
+      "word": "蔡徐坤染发",
+      "onboard_time": 1714547417,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1956,7 +1972,7 @@
     },
     {
       "raw_hot": 531278,
-      "num": 307864,
+      "num": 321442,
       "word": "头上抠下来的黄色小颗粒是什么",
       "onboard_time": 1714534398,
       "rank": 35,
@@ -2923,14 +2939,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 383367,
-      "num": 246873,
-      "word": "蔡徐坤染发",
-      "onboard_time": 1714547417,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 382963,
       "num": 268068,
       "word": "肖战水晶衣领",
@@ -3065,14 +3073,6 @@
       "onboard_time": 1714528159,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 362239,
-      "num": 362239,
-      "word": "内蒙古1.2万切糕事件反转",
-      "onboard_time": 1714546998,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361578,
@@ -3372,7 +3372,7 @@
     },
     {
       "raw_hot": 328238,
-      "num": 246535,
+      "num": 258456,
       "word": "张婧仪素颜",
       "onboard_time": 1714546579,
       "rank": 22,
@@ -3521,6 +3521,14 @@
       "onboard_time": 1714270338,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317092,
+      "num": 317092,
+      "word": "电脑C盘最恶心的四大毒瘤",
+      "onboard_time": 1714547958,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 316703,
@@ -4171,6 +4179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 265265,
+      "num": 265265,
+      "word": "晕人",
+      "onboard_time": 1714548197,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 264020,
       "num": 264020,
       "word": "张新成新剧尺度",
@@ -4513,6 +4529,14 @@
       "onboard_time": 1714271657,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246550,
+      "num": 246550,
+      "word": "张钧甯 大家都去哪里捅人窝了",
+      "onboard_time": 1714547538,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 246333,
@@ -5123,6 +5147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216029,
+      "num": 216029,
+      "word": "吉克隽逸公开200副自制美甲",
+      "onboard_time": 1714547357,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215755,
       "num": 215755,
       "word": "王源工作室",
@@ -5211,20 +5243,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212427,
+      "num": 212427,
+      "word": "杨幂说真的不在意戏份",
+      "onboard_time": 1714547417,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212336,
       "num": 212336,
       "word": "间谍过家家口碑",
       "onboard_time": 1714540037,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 211880,
-      "num": 211880,
-      "word": "张钧甯 大家都去哪里捅人窝了",
-      "onboard_time": 1714547538,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 211847,
@@ -6043,6 +6075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194287,
+      "num": 194287,
+      "word": "王一博演唱跃动上海",
+      "onboard_time": 1714548319,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194244,
       "num": 194244,
       "word": "跟唱凤凰传奇 把自己唱生气了",
@@ -6337,14 +6377,6 @@
       "onboard_time": 1714537217,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189189,
-      "num": 189189,
-      "word": "杨幂说真的不在意戏份",
-      "onboard_time": 1714547417,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 189145,
@@ -6651,6 +6683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183437,
+      "num": 183437,
+      "word": "奥运会资格系列赛上海站",
+      "onboard_time": 1714548379,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183383,
       "num": 183383,
       "word": "这些蔬菜嘌呤比肉还高",
@@ -6697,14 +6737,6 @@
       "onboard_time": 1714357577,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182565,
-      "num": 182565,
-      "word": "吉克隽逸公开200副自制美甲",
-      "onboard_time": 1714547357,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 182387,
@@ -7643,6 +7675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155160,
+      "num": 155160,
+      "word": "哥大学生占领教学楼",
+      "onboard_time": 1714546698,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 155022,
       "num": 155022,
       "word": "闺蜜的聊天记录是顶级机密",
@@ -7713,14 +7753,6 @@
       "onboard_time": 1714386799,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 153364,
-      "num": 153364,
-      "word": "哥大学生占领教学楼",
-      "onboard_time": 1714546698,
-      "rank": 35,
-      "category": "国外时政"
     },
     {
       "raw_hot": 153178,
@@ -8451,14 +8483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138959,
-      "num": 138959,
-      "word": "电脑C盘最恶心的四大毒瘤",
-      "onboard_time": 1714547958,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 138919,
       "num": 138919,
       "word": "雷军的MBTI",
@@ -8811,6 +8835,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 131252,
+      "num": 131252,
+      "word": "每个宿舍都有自己的空调姐",
+      "onboard_time": 1714547779,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130965,
       "num": 130965,
       "word": "小时候真的把家长当傻子了",
@@ -8953,6 +8985,14 @@
       "onboard_time": 1714538237,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129139,
+      "num": 129139,
+      "word": "第五人格赛事",
+      "onboard_time": 1714547958,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 129034,
@@ -9235,6 +9275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120876,
+      "num": 120876,
+      "word": "没想到猫咖的猫也要开早会",
+      "onboard_time": 1714546998,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120444,
       "num": 120444,
       "word": "春色寄情人里的人生态度",
@@ -9499,14 +9547,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 113629,
-      "num": 113629,
-      "word": "没想到猫咖的猫也要开早会",
-      "onboard_time": 1714546998,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 113191,
       "num": 113191,
       "word": "五月对我好一点",
@@ -9627,14 +9667,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 108849,
-      "num": 108849,
-      "word": "第五人格赛事",
-      "onboard_time": 1714547958,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 108811,
       "num": 108811,
       "word": "TT公布调查结果",
@@ -9715,14 +9747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 107215,
-      "num": 107215,
-      "word": "每个宿舍都有自己的空调姐",
-      "onboard_time": 1714547779,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 107204,
       "num": 107204,
       "word": "浓眉25分23篮板",
@@ -9793,6 +9817,14 @@
       "onboard_time": 1714312880,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102239,
+      "num": 102239,
+      "word": "朱雀第五人格",
+      "onboard_time": 1714548738,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 102108,
