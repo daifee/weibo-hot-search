@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714567707675,
+  "endTime": 1714569563033,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -907,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 896147,
+      "num": 226309,
+      "word": "如家酒店被曝花洒现粪便状异物",
+      "onboard_time": 1714566978,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 894933,
       "num": 665567,
       "word": "问界M7起火事故隐藏式门把手疑似未弹出",
@@ -1548,7 +1556,7 @@
     },
     {
       "raw_hot": 663867,
-      "num": 192919,
+      "num": 224305,
       "word": "孙怡素颜泳装照",
       "onboard_time": 1714565598,
       "rank": 20,
@@ -1795,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 600930,
+      "num": 332671,
+      "word": "陈牧驰 央视五一晚会",
+      "onboard_time": 1714568539,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 599167,
       "num": 470831,
       "word": "辛芷蕾工作室关闭后援会账号",
@@ -2001,6 +2017,14 @@
       "onboard_time": 1714376538,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 544658,
+      "num": 222223,
+      "word": "梅州高速塌方一女子5名亲人失联",
+      "onboard_time": 1714566198,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 544525,
@@ -2595,14 +2619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 453128,
-      "num": 191600,
-      "word": "梅州高速塌方一女子5名亲人失联",
-      "onboard_time": 1714566198,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 449967,
       "num": 422251,
       "word": "SEVENTEEN回归",
@@ -2929,6 +2945,14 @@
       "onboard_time": 1714441757,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 408527,
+      "num": 408527,
+      "word": "央视五一晚会",
+      "onboard_time": 1714566739,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 407584,
@@ -3411,6 +3435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351039,
+      "num": 332319,
+      "word": "梅大高速事故现场记者几度哽咽",
+      "onboard_time": 1714568359,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350971,
       "num": 350971,
       "word": "春色寄情人点映",
@@ -3457,6 +3489,14 @@
       "onboard_time": 1714264039,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339559,
+      "num": 161674,
+      "word": "庆余年2 超前观影",
+      "onboard_time": 1714569199,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 339323,
@@ -3649,6 +3689,14 @@
       "onboard_time": 1714370297,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 321140,
+      "num": 321140,
+      "word": "日本男演员涉华人夫妇焚尸案被捕",
+      "onboard_time": 1714568718,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321094,
@@ -4025,6 +4073,14 @@
       "onboard_time": 1714466719,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 296315,
+      "num": 296315,
+      "word": "星河 第五人格",
+      "onboard_time": 1714567998,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 294930,
@@ -5059,12 +5115,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234020,
+      "num": 234020,
+      "word": "T1战胜EST",
+      "onboard_time": 1714568119,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 234007,
       "num": 234007,
       "word": "刘涛秦海璐 无趣的内容有趣地聊",
       "onboard_time": 1714408756,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233555,
+      "num": 335688,
+      "word": "外卖小哥陪瘫痪女子吃饭多年直到女子离世",
+      "onboard_time": 1714568359,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233522,
@@ -5163,6 +5235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229862,
+      "num": 229862,
+      "word": "张韶涵演唱会淋雨带病演出",
+      "onboard_time": 1714549218,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 229129,
       "num": 229129,
       "word": "赵丽颖围炉煮茶随拍",
@@ -5225,14 +5305,6 @@
       "onboard_time": 1714351339,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 226257,
-      "num": 226257,
-      "word": "张韶涵演唱会淋雨带病演出",
-      "onboard_time": 1714549218,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 225927,
@@ -5411,6 +5483,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 217455,
+      "num": 217455,
+      "word": "多家媒体发了王一博",
+      "onboard_time": 1714567819,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 217293,
       "num": 162910,
       "word": "胡歌喊话金靖要做孩子舅舅",
@@ -5473,14 +5553,6 @@
       "onboard_time": 1714278320,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214020,
-      "num": 138246,
-      "word": "如家酒店被曝花洒现粪便状异物",
-      "onboard_time": 1714566978,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213875,
@@ -5843,14 +5915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205094,
-      "num": 171216,
-      "word": "央视五一晚会",
-      "onboard_time": 1714566739,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204725,
       "num": 204725,
       "word": "我妻之死作者回应质疑",
@@ -5889,6 +5953,14 @@
       "onboard_time": 1714471698,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204079,
+      "num": 204079,
+      "word": "Angelababy明媚",
+      "onboard_time": 1714566259,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 203877,
@@ -6699,14 +6771,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 190048,
-      "num": 183030,
-      "word": "Angelababy明媚",
-      "onboard_time": 1714566259,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189691,
       "num": 189691,
       "word": "邢菲穿古装开车",
@@ -7227,6 +7291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180438,
+      "num": 180438,
+      "word": "星穹铁道演唱会直播",
+      "onboard_time": 1714568600,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180295,
       "num": 180295,
       "word": "涵艺爆料Ale加入AL",
@@ -7377,6 +7449,14 @@
       "onboard_time": 1714471458,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 175301,
+      "num": 175301,
+      "word": "赵昭仪演爽了",
+      "onboard_time": 1714567458,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 175194,
@@ -8251,6 +8331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154297,
+      "num": 154297,
+      "word": "塌方灾害中他第一时间下车救起6人",
+      "onboard_time": 1714568539,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154153,
       "num": 154153,
       "word": "赴山海 播出平台排名不分先后",
@@ -8649,6 +8737,14 @@
       "onboard_time": 1714299197,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147517,
+      "num": 147517,
+      "word": "微暗之火 尺度",
+      "onboard_time": 1714560258,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 147474,
@@ -10083,6 +10179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117472,
+      "num": 117472,
+      "word": "徐明浩maestro个人cha",
+      "onboard_time": 1714567998,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 117221,
       "num": 117221,
       "word": "黄景瑜分享和王一博的剧组日常",
@@ -10160,6 +10264,14 @@
       "word": "山东与南通赛前球迷发生冲突",
       "onboard_time": 1714482079,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115253,
+      "num": 115253,
+      "word": "申花",
+      "onboard_time": 1714569320,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -10257,14 +10369,6 @@
       "onboard_time": 1714521977,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 112879,
-      "num": 112879,
-      "word": "赵昭仪演爽了",
-      "onboard_time": 1714567458,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 112817,
@@ -10496,6 +10600,14 @@
       "word": "浓眉25分23篮板",
       "onboard_time": 1714275079,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107049,
+      "num": 107049,
+      "word": "武磊梅开二度",
+      "onboard_time": 1714569019,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -10915,6 +11027,14 @@
       "category": "时尚,旅游"
     },
     {
+      "raw_hot": 81266,
+      "num": 1133159,
+      "word": "花开种花家",
+      "onboard_time": 1714551378,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80778,
       "num": 80778,
       "word": "我只喜欢你的人设",
@@ -11097,14 +11217,6 @@
       "onboard_time": 1714287319,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 59049,
-      "num": 1133159,
-      "word": "花开种花家",
-      "onboard_time": 1714551378,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58156,
