@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714591001707,
+  "endTime": 1714592122507,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -3355,8 +3355,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24396,
-      "num": 24396,
+      "raw_hot": 25263,
+      "num": 25263,
       "word": "多特蒙德vs巴黎圣日耳曼",
       "onboard_time": 1714590370,
       "rank": 37,
@@ -3377,6 +3377,14 @@
       "onboard_time": 1714515733,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18674,
+      "num": 18674,
+      "word": "郑秀晶看秀G社生图",
+      "onboard_time": 1714591451,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 16988,
