@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714605551652,
+  "endTime": 1714606471315,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -1787,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629006,
+      "num": 629006,
+      "word": "日本小镇拉黑布遮挡富士山远景",
+      "onboard_time": 1714573639,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 625671,
       "num": 625671,
       "word": "15元1个的菠萝蜜100元5个的榴莲",
@@ -2019,14 +2027,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 569877,
-      "num": 569877,
-      "word": "日本小镇拉黑布遮挡富士山远景",
-      "onboard_time": 1714573639,
-      "rank": 41,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 566748,
       "num": 566748,
       "word": "性格决定上班劳累程度",
@@ -2108,7 +2108,7 @@
     },
     {
       "raw_hot": 544658,
-      "num": 451132,
+      "num": 517396,
       "word": "梅州高速塌方一女子5名亲人失联",
       "onboard_time": 1714566198,
       "rank": 24,
@@ -4161,6 +4161,14 @@
       "onboard_time": 1714483818,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301847,
+      "num": 301847,
+      "word": "何炅客串了难哄",
+      "onboard_time": 1714605016,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 301623,
@@ -6588,7 +6596,7 @@
     },
     {
       "raw_hot": 196770,
-      "num": 97687,
+      "num": 111427,
       "word": "月经期间到底有没有忌口",
       "onboard_time": 1714585216,
       "rank": 20,
@@ -7939,6 +7947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169950,
+      "num": 125377,
+      "word": "很难坚持运动不是因为你懒",
+      "onboard_time": 1714604412,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 169817,
       "num": 169817,
       "word": "王一博代言真维斯",
@@ -8009,6 +8025,14 @@
       "onboard_time": 1714533317,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167874,
+      "num": 167874,
+      "word": "大唐不夜城丢刀侍卫演我五一加班",
+      "onboard_time": 1714605134,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 167831,
@@ -8811,6 +8835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150560,
+      "num": 150560,
+      "word": "瑞幸9.9元活动再缩水",
+      "onboard_time": 1714605974,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 150281,
       "num": 904025,
       "word": "中国海军福建舰出海开展首次航行试验",
@@ -8913,6 +8945,14 @@
       "onboard_time": 1714565299,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149206,
+      "num": 149206,
+      "word": "五一假期第二天",
+      "onboard_time": 1714605016,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149196,
@@ -9521,14 +9561,6 @@
       "onboard_time": 1714460900,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 138071,
-      "num": 138071,
-      "word": "何炅客串了难哄",
-      "onboard_time": 1714605016,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 137963,
@@ -11075,14 +11107,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 104413,
-      "num": 98167,
-      "word": "很难坚持运动不是因为你懒",
-      "onboard_time": 1714604412,
-      "rank": 23,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 104065,
       "num": 104065,
       "word": "徳塔文发文认证杨幂市场号召力",
@@ -11091,12 +11115,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103520,
+      "num": 103520,
+      "word": "男演员骗88人到柬埔寨进行电信诈骗",
+      "onboard_time": 1714605614,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102918,
       "num": 182031,
       "word": "原来空间站钥匙长这样",
       "onboard_time": 1714313480,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 102381,
+      "num": 102381,
+      "word": "春色寄情人林奶奶病逝",
+      "onboard_time": 1714605255,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 102336,
@@ -11137,6 +11177,22 @@
       "onboard_time": 1714229060,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100435,
+      "num": 100435,
+      "word": "加快皮肤衰老的5个凶手",
+      "onboard_time": 1714604953,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 100327,
+      "num": 100327,
+      "word": "洗漱才是早睡早起的决定性因素",
+      "onboard_time": 1714604953,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 100235,
@@ -11257,6 +11313,14 @@
       "onboard_time": 1714496355,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95836,
+      "num": 95836,
+      "word": "赣州警方通报特斯拉连撞多车",
+      "onboard_time": 1714605733,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95545,
@@ -11393,14 +11457,6 @@
       "onboard_time": 1714582217,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86883,
-      "num": 86883,
-      "word": "五一假期第二天",
-      "onboard_time": 1714605016,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86861,
@@ -11571,6 +11627,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71053,
+      "num": 71053,
+      "word": "林更新机场被叫林狗",
+      "onboard_time": 1714596370,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 70691,
+      "num": 70691,
+      "word": "4类食物吃着不甜但升糖超快",
+      "onboard_time": 1714598531,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 70554,
+      "num": 70554,
+      "word": "多特蒙德1比0巴黎圣日耳曼",
+      "onboard_time": 1714605075,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67765,
       "num": 67765,
       "word": "85岁正是弯道超车的时候",
@@ -11587,12 +11667,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 67481,
-      "num": 67481,
-      "word": "4类食物吃着不甜但升糖超快",
-      "onboard_time": 1714598531,
-      "rank": 41,
-      "category": "科学科普"
+      "raw_hot": 66888,
+      "num": 66888,
+      "word": "警方回应网传检查站警车撞倒人",
+      "onboard_time": 1714606096,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66763,
@@ -11603,28 +11683,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 66609,
-      "num": 66609,
-      "word": "多特蒙德1比0巴黎圣日耳曼",
-      "onboard_time": 1714605075,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 66442,
-      "num": 66442,
-      "word": "大唐不夜城丢刀侍卫演我五一加班",
-      "onboard_time": 1714605134,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 64978,
-      "num": 64978,
-      "word": "加快皮肤衰老的5个凶手",
-      "onboard_time": 1714604953,
-      "rank": 32,
-      "category": "健康医疗"
+      "raw_hot": 64357,
+      "num": 64357,
+      "word": "路人偶遇郭碧婷",
+      "onboard_time": 1714601231,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 63724,
@@ -11649,22 +11713,6 @@
       "onboard_time": 1714242013,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63274,
-      "num": 63274,
-      "word": "春色寄情人林奶奶病逝",
-      "onboard_time": 1714605255,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 62756,
-      "num": 62756,
-      "word": "洗漱才是早睡早起的决定性因素",
-      "onboard_time": 1714604953,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 62300,
@@ -11737,14 +11785,6 @@
       "onboard_time": 1714497316,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 57993,
-      "num": 57502,
-      "word": "林更新机场被叫林狗",
-      "onboard_time": 1714596370,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 57521,
@@ -11825,14 +11865,6 @@
       "onboard_time": 1714296497,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51245,
-      "num": 51245,
-      "word": "路人偶遇郭碧婷",
-      "onboard_time": 1714601231,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 50596,
@@ -12123,6 +12155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25495,
+      "num": 341329,
+      "word": "用劳动的手写下劳动的诗篇",
+      "onboard_time": 1714571239,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25093,
       "num": 326287,
       "word": "日落了暂停工作十分钟",
@@ -12160,14 +12200,6 @@
       "word": "五一假期出行健康提示",
       "onboard_time": 1714515733,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22200,
-      "num": 295313,
-      "word": "用劳动的手写下劳动的诗篇",
-      "onboard_time": 1714571239,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

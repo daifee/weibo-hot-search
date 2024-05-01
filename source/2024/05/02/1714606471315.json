@@ -1,0 +1,410 @@
+{
+  "runTime": 1714606471315,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 629006,
+        "num": 629006,
+        "word": "日本小镇拉黑布遮挡富士山远景",
+        "onboard_time": 1714573639,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 517396,
+        "num": 517396,
+        "word": "梅州高速塌方一女子5名亲人失联",
+        "onboard_time": 1714566198,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25495,
+        "num": 341329,
+        "word": "用劳动的手写下劳动的诗篇",
+        "onboard_time": 1714571239,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301847,
+        "num": 301847,
+        "word": "何炅客串了难哄",
+        "onboard_time": 1714605016,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288963,
+        "num": 288963,
+        "word": "江西赣州特斯拉",
+        "onboard_time": 1714576579,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305928,
+        "num": 278045,
+        "word": "日本男演员涉华人夫妇焚尸案被捕",
+        "onboard_time": 1714568718,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265705,
+        "num": 265705,
+        "word": "初恋对中年人的杀伤力",
+        "onboard_time": 1714577058,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258962,
+        "num": 258962,
+        "word": "买房千万不要买挨着公园的",
+        "onboard_time": 1714564338,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216252,
+        "num": 216252,
+        "word": "梅大高速塌陷货车司机夫妇喊停后车",
+        "onboard_time": 1714571599,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176861,
+        "num": 200740,
+        "word": "外卖小哥陪瘫痪女子吃饭多年直到女子离世",
+        "onboard_time": 1714568359,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365051,
+        "num": 199772,
+        "word": "高铁三大酷刑",
+        "onboard_time": 1714575499,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229555,
+        "num": 199107,
+        "word": "医院称全县救护车都去了事故现场",
+        "onboard_time": 1714569799,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196343,
+        "num": 196343,
+        "word": "赵昭仪问张翰你是不是爱吃牛肉",
+        "onboard_time": 1714572020,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196133,
+        "num": 196133,
+        "word": "赵小棠妈妈是先婚后爱",
+        "onboard_time": 1714574720,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167874,
+        "num": 167874,
+        "word": "大唐不夜城丢刀侍卫演我五一加班",
+        "onboard_time": 1714605134,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 150560,
+        "num": 150560,
+        "word": "瑞幸9.9元活动再缩水",
+        "onboard_time": 1714605974,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149206,
+        "num": 149206,
+        "word": "五一假期第二天",
+        "onboard_time": 1714605016,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148518,
+        "num": 148518,
+        "word": "年龄六岁 工龄三年",
+        "onboard_time": 1714578678,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131743,
+        "num": 131743,
+        "word": "白鹿曾舜晞吻脖子路透",
+        "onboard_time": 1714574059,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128529,
+        "num": 128529,
+        "word": "庆余年2 超前观影",
+        "onboard_time": 1714569199,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206467,
+        "num": 126377,
+        "word": "为什么男朋友会介意我婚前买房",
+        "onboard_time": 1714573878,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169950,
+        "num": 125377,
+        "word": "很难坚持运动不是因为你懒",
+        "onboard_time": 1714604412,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 134300,
+        "num": 124948,
+        "word": "如家酒店被曝花洒现粪便状异物",
+        "onboard_time": 1714566978,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122266,
+        "num": 122266,
+        "word": "徐艺洋说吵架会被黄子韬拉黑",
+        "onboard_time": 1714562959,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115293,
+        "num": 115293,
+        "word": "孙怡素颜泳装照",
+        "onboard_time": 1714565598,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111427,
+        "num": 111427,
+        "word": "月经期间到底有没有忌口",
+        "onboard_time": 1714585216,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103520,
+        "num": 103520,
+        "word": "男演员骗88人到柬埔寨进行电信诈骗",
+        "onboard_time": 1714605614,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103353,
+        "num": 103353,
+        "word": "周鸿祎 褚会长",
+        "onboard_time": 1714573819,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102381,
+        "num": 102381,
+        "word": "春色寄情人林奶奶病逝",
+        "onboard_time": 1714605255,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100435,
+        "num": 100435,
+        "word": "加快皮肤衰老的5个凶手",
+        "onboard_time": 1714604953,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100327,
+        "num": 100327,
+        "word": "洗漱才是早睡早起的决定性因素",
+        "onboard_time": 1714604953,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95836,
+        "num": 95836,
+        "word": "赣州警方通报特斯拉连撞多车",
+        "onboard_time": 1714605733,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90951,
+        "num": 90951,
+        "word": "为什么现在叫谁都叫老师",
+        "onboard_time": 1714570399,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85638,
+        "num": 85638,
+        "word": "小米SU7全网首次大修",
+        "onboard_time": 1714575979,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 71560,
+        "num": 71560,
+        "word": "冒充小学生骗女生当事人被约谈",
+        "onboard_time": 1714573219,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71053,
+        "num": 71053,
+        "word": "林更新机场被叫林狗",
+        "onboard_time": 1714596370,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70691,
+        "num": 70691,
+        "word": "4类食物吃着不甜但升糖超快",
+        "onboard_time": 1714598531,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 70554,
+        "num": 70554,
+        "word": "多特蒙德1比0巴黎圣日耳曼",
+        "onboard_time": 1714605075,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66888,
+        "num": 66888,
+        "word": "警方回应网传检查站警车撞倒人",
+        "onboard_time": 1714606096,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64357,
+        "num": 64357,
+        "word": "路人偶遇郭碧婷",
+        "onboard_time": 1714601231,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62629,
+        "num": 62629,
+        "word": "五一的杭州西湖边",
+        "onboard_time": 1714599731,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 56855,
+        "num": 56855,
+        "word": "医院已确认梅龙高速塌方伤者身份",
+        "onboard_time": 1714556117,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55387,
+        "num": 55387,
+        "word": "星巴克悄悄打折了",
+        "onboard_time": 1714598171,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55167,
+        "num": 55167,
+        "word": "黄景瑜问谁给邓超下毒了",
+        "onboard_time": 1714576399,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54997,
+        "num": 54997,
+        "word": "庆余年2",
+        "onboard_time": 1714571360,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53386,
+        "num": 53386,
+        "word": "梅大高速事故现场记者几度哽咽",
+        "onboard_time": 1714568359,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53002,
+        "num": 53002,
+        "word": "梅大高速塌陷已致24人死亡",
+        "onboard_time": 1714554258,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51161,
+        "num": 51161,
+        "word": "aespa预告",
+        "onboard_time": 1714576700,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48732,
+        "num": 48732,
+        "word": "福宝翘jiojio啃大苹果超萌",
+        "onboard_time": 1714570939,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48685,
+        "num": 48685,
+        "word": "金秀贤正是藏不住事的年纪",
+        "onboard_time": 1714575079,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向广大劳动群众致以节日祝贺#"
+    }
+  }
+}
