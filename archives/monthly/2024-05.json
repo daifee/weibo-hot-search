@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714580547459,
+  "endTime": 1714581412546,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -323,6 +323,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 652103,
+      "num": 652103,
+      "word": "江西赣州特斯拉",
+      "onboard_time": 1714576579,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 641986,
       "num": 641986,
       "word": "医院称全县救护车都去了事故现场",
@@ -336,14 +344,6 @@
       "word": "梅州回应梅大高速茶阳段发生塌方",
       "onboard_time": 1714545318,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 625645,
-      "num": 625645,
-      "word": "江西赣州特斯拉",
-      "onboard_time": 1714576579,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -843,6 +843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 339979,
+      "num": 339979,
+      "word": "初恋对中年人的杀伤力",
+      "onboard_time": 1714577058,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339323,
       "num": 339323,
       "word": "养猫的和不养猫的都沉默了",
@@ -884,7 +892,7 @@
     },
     {
       "raw_hot": 329851,
-      "num": 306547,
+      "num": 308849,
       "word": "小米SU7全网首次大修",
       "onboard_time": 1714575979,
       "rank": 25,
@@ -947,14 +955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306789,
-      "num": 306789,
-      "word": "初恋对中年人的杀伤力",
-      "onboard_time": 1714577058,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 301623,
       "num": 301623,
       "word": "五月天香港",
@@ -993,6 +993,14 @@
       "onboard_time": 1714524856,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 297118,
+      "num": 262040,
+      "word": "年龄六岁 工龄三年",
+      "onboard_time": 1714578678,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 296315,
@@ -1683,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189026,
+      "num": 189026,
+      "word": "陶昕然是甄嬛传的尺度担当",
+      "onboard_time": 1714578379,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188761,
       "num": 188761,
       "word": "重庆警方通报17岁少年被刺伤致死",
@@ -1833,14 +1849,6 @@
       "onboard_time": 1714560079,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 173878,
-      "num": 173878,
-      "word": "陶昕然是甄嬛传的尺度担当",
-      "onboard_time": 1714578379,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 173405,
@@ -2057,14 +2065,6 @@
       "onboard_time": 1714529718,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155289,
-      "num": 155289,
-      "word": "年龄六岁 工龄三年",
-      "onboard_time": 1714578678,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 155190,
@@ -3107,6 +3107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86307,
+      "num": 86307,
+      "word": "济南偶遇吴倩",
+      "onboard_time": 1714580477,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82586,
       "num": 1179006,
       "word": "今天致敬每一位劳动者",
@@ -3121,6 +3129,14 @@
       "onboard_time": 1714551378,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79723,
+      "num": 79723,
+      "word": "泡泡岛音乐节",
+      "onboard_time": 1714581256,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 79621,
@@ -3145,14 +3161,6 @@
       "onboard_time": 1714487960,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 77205,
-      "num": 77205,
-      "word": "济南偶遇吴倩",
-      "onboard_time": 1714580477,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 76141,

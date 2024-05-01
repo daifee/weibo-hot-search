@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714580547459,
+  "endTime": 1714581412546,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -1667,6 +1667,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 652103,
+      "num": 652103,
+      "word": "江西赣州特斯拉",
+      "onboard_time": 1714576579,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 649443,
       "num": 649443,
       "word": "岂能尽如人意 但求不愧我心",
@@ -1785,14 +1793,6 @@
       "onboard_time": 1714356556,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 625645,
-      "num": 625645,
-      "word": "江西赣州特斯拉",
-      "onboard_time": 1714576579,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 624748,
@@ -3635,6 +3635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 339979,
+      "num": 339979,
+      "word": "初恋对中年人的杀伤力",
+      "onboard_time": 1714577058,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339870,
       "num": 339870,
       "word": "何炅张杰看烟花",
@@ -3764,7 +3772,7 @@
     },
     {
       "raw_hot": 329851,
-      "num": 306547,
+      "num": 308849,
       "word": "小米SU7全网首次大修",
       "onboard_time": 1714575979,
       "rank": 25,
@@ -4091,14 +4099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306789,
-      "num": 306789,
-      "word": "初恋对中年人的杀伤力",
-      "onboard_time": 1714577058,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 306630,
       "num": 306630,
       "word": "韩雪练舞前后对比",
@@ -4217,6 +4217,14 @@
       "onboard_time": 1714362859,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 297118,
+      "num": 262040,
+      "word": "年龄六岁 工龄三年",
+      "onboard_time": 1714578678,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 296755,
@@ -7059,6 +7067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189026,
+      "num": 189026,
+      "word": "陶昕然是甄嬛传的尺度担当",
+      "onboard_time": 1714578379,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188864,
       "num": 188864,
       "word": "蔡依林坐轻轨彩排监控流出",
@@ -7745,14 +7761,6 @@
       "onboard_time": 1714560079,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 173878,
-      "num": 173878,
-      "word": "陶昕然是甄嬛传的尺度担当",
-      "onboard_time": 1714578379,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 173844,
@@ -8545,14 +8553,6 @@
       "onboard_time": 1714471638,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 155289,
-      "num": 155289,
-      "word": "年龄六岁 工龄三年",
-      "onboard_time": 1714578678,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 155190,
@@ -11363,6 +11363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86307,
+      "num": 86307,
+      "word": "济南偶遇吴倩",
+      "onboard_time": 1714580477,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85810,
       "num": 219677,
       "word": "蛋搭子的贴贴日常",
@@ -11443,6 +11451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79723,
+      "num": 79723,
+      "word": "泡泡岛音乐节",
+      "onboard_time": 1714581256,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 79621,
       "num": 94520,
       "word": "五一西安旅游到底有多顶",
@@ -11457,14 +11473,6 @@
       "onboard_time": 1714322055,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 77205,
-      "num": 77205,
-      "word": "济南偶遇吴倩",
-      "onboard_time": 1714580477,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 77101,
