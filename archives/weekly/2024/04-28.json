@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714587808691,
+  "endTime": 1714588564599,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -7203,6 +7203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187110,
+      "num": 59058,
+      "word": "月经期间到底有没有忌口",
+      "onboard_time": 1714585216,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 186721,
       "num": 186721,
       "word": "陈丽君陈昊宇cp",
@@ -9297,14 +9305,6 @@
       "onboard_time": 1714359258,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 143739,
-      "num": 59058,
-      "word": "月经期间到底有没有忌口",
-      "onboard_time": 1714585216,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 143406,
@@ -12099,20 +12099,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12688,
+      "num": 166607,
+      "word": "用劳动的手写下劳动的诗篇",
+      "onboard_time": 1714571239,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12586,
       "num": 19637,
       "word": "如何三句话跳出自证陷阱",
       "onboard_time": 1714336390,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 12292,
-      "num": 166607,
-      "word": "用劳动的手写下劳动的诗篇",
-      "onboard_time": 1714571239,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8467,
