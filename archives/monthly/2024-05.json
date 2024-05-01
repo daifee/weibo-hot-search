@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714603032727,
+  "endTime": 1714605551652,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -379,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 569877,
+      "num": 569877,
+      "word": "日本小镇拉黑布遮挡富士山远景",
+      "onboard_time": 1714573639,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 556592,
       "num": 376231,
       "word": "女子胎儿畸形引产后分手被要求退15万彩礼",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 544658,
-      "num": 247290,
+      "num": 451132,
       "word": "梅州高速塌方一女子5名亲人失联",
       "onboard_time": 1714566198,
       "rank": 24,
@@ -961,14 +969,6 @@
       "onboard_time": 1714553177,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304534,
-      "num": 304534,
-      "word": "日本小镇拉黑布遮挡富士山远景",
-      "onboard_time": 1714573639,
-      "rank": 41,
-      "category": "旅游"
     },
     {
       "raw_hot": 301623,
@@ -1604,7 +1604,7 @@
     },
     {
       "raw_hot": 196770,
-      "num": 59058,
+      "num": 97687,
       "word": "月经期间到底有没有忌口",
       "onboard_time": 1714585216,
       "rank": 20,
@@ -2363,6 +2363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 138071,
+      "num": 138071,
+      "word": "何炅客串了难哄",
+      "onboard_time": 1714605016,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137963,
       "num": 137963,
       "word": "COA7全球总决赛",
@@ -2995,6 +3003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104413,
+      "num": 98167,
+      "word": "很难坚持运动不是因为你懒",
+      "onboard_time": 1714604412,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 104065,
       "num": 104065,
       "word": "徳塔文发文认证杨幂市场号召力",
@@ -3131,6 +3147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86883,
+      "num": 86883,
+      "word": "五一假期第二天",
+      "onboard_time": 1714605016,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86307,
       "num": 86307,
       "word": "济南偶遇吴倩",
@@ -3179,6 +3203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 76525,
+      "num": 76525,
+      "word": "五一的杭州西湖边",
+      "onboard_time": 1714599731,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 76141,
       "num": 264730,
       "word": "毕业季又被簪花学士帽惊艳到了",
@@ -3219,6 +3251,46 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67481,
+      "num": 67481,
+      "word": "4类食物吃着不甜但升糖超快",
+      "onboard_time": 1714598531,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 66609,
+      "num": 66609,
+      "word": "多特蒙德1比0巴黎圣日耳曼",
+      "onboard_time": 1714605075,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66442,
+      "num": 66442,
+      "word": "大唐不夜城丢刀侍卫演我五一加班",
+      "onboard_time": 1714605134,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 64978,
+      "num": 64978,
+      "word": "加快皮肤衰老的5个凶手",
+      "onboard_time": 1714604953,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 63274,
+      "num": 63274,
+      "word": "春色寄情人林奶奶病逝",
+      "onboard_time": 1714605255,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63110,
       "num": 79888,
       "word": "汤姆斯杯中国3比2韩国",
@@ -3233,6 +3305,14 @@
       "onboard_time": 1714489041,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 62756,
+      "num": 62756,
+      "word": "洗漱才是早睡早起的决定性因素",
+      "onboard_time": 1714604953,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 61893,
@@ -3276,7 +3356,7 @@
     },
     {
       "raw_hot": 57993,
-      "num": 49751,
+      "num": 57502,
       "word": "林更新机场被叫林狗",
       "onboard_time": 1714596370,
       "rank": 24,
@@ -3288,6 +3368,14 @@
       "word": "神十七航天员回家",
       "onboard_time": 1714485139,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55806,
+      "num": 55806,
+      "word": "星巴克悄悄打折了",
+      "onboard_time": 1714598171,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -3315,6 +3403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51245,
+      "num": 51245,
+      "word": "路人偶遇郭碧婷",
+      "onboard_time": 1714601231,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49394,
       "num": 49394,
       "word": "杨紫名誉维权案二审维持原判",
@@ -3329,30 +3425,6 @@
       "onboard_time": 1714515132,
       "rank": 49,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 48027,
-      "num": 48027,
-      "word": "五一的杭州西湖边",
-      "onboard_time": 1714599731,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 47964,
-      "num": 47964,
-      "word": "路人偶遇郭碧婷",
-      "onboard_time": 1714601231,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 47538,
-      "num": 47538,
-      "word": "4类食物吃着不甜但升糖超快",
-      "onboard_time": 1714598531,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 46359,
@@ -3371,20 +3443,28 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 44874,
-      "num": 44874,
-      "word": "星巴克悄悄打折了",
-      "onboard_time": 1714598171,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 44954,
+      "num": 44954,
+      "word": "过度节食当心饿出脂肪肝",
+      "onboard_time": 1714593851,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 39994,
-      "num": 39994,
+      "raw_hot": 42100,
+      "num": 42100,
       "word": "央视主持人说到四川狂咽口水",
       "onboard_time": 1714598051,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41818,
+      "num": 41818,
+      "word": "X光下小宝宝的手",
+      "onboard_time": 1714588812,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 31619,
@@ -3403,22 +3483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28370,
-      "num": 28370,
-      "word": "过度节食当心饿出脂肪肝",
-      "onboard_time": 1714593851,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 27285,
-      "num": 27285,
-      "word": "X光下小宝宝的手",
-      "onboard_time": 1714588812,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 25663,
       "num": 30768,
       "word": "春色寄情人",
@@ -3432,6 +3496,14 @@
       "word": "五一假期出行健康提示",
       "onboard_time": 1714515733,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22200,
+      "num": 295313,
+      "word": "用劳动的手写下劳动的诗篇",
+      "onboard_time": 1714571239,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3457,14 +3529,6 @@
       "onboard_time": 1714592531,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13003,
-      "num": 194693,
-      "word": "用劳动的手写下劳动的诗篇",
-      "onboard_time": 1714571239,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9376,
