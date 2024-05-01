@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714531316004,
+  "endTime": 1714533767009,
   "band_list": [
     {
       "raw_hot": 1695633,
@@ -11,11 +11,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1224866,
+      "raw_hot": 1255650,
       "num": 1224866,
       "word": "梅州高速塌方",
       "onboard_time": 1714523716,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1152300,
+      "num": 316605,
+      "word": "大学男生冒充小学生骗取女生骑大马",
+      "onboard_time": 1714530258,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -59,11 +67,35 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 797138,
+      "num": 797138,
+      "word": "元气森林音乐节取消",
+      "onboard_time": 1714531278,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 712269,
+      "num": 272365,
+      "word": "没有应届生身份死不了的",
+      "onboard_time": 1714532777,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 671147,
       "num": 671147,
       "word": "男子称两年前被上门采集核酸时的照片泄露",
       "onboard_time": 1714522936,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 655045,
+      "num": 200967,
+      "word": "花花和爷爷又谭崩了",
+      "onboard_time": 1714533377,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -81,14 +113,6 @@
       "onboard_time": 1714486758,
       "rank": 5,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 569119,
-      "num": 316605,
-      "word": "大学男生冒充小学生骗取女生骑大马",
-      "onboard_time": 1714530258,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 537893,
@@ -137,6 +161,14 @@
       "onboard_time": 1714527018,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 423717,
+      "num": 217689,
+      "word": "54岁快递员手机备注上千收件人奇葩花名",
+      "onboard_time": 1714530018,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422792,
@@ -283,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278536,
-      "num": 217689,
-      "word": "54岁快递员手机备注上千收件人奇葩花名",
-      "onboard_time": 1714530018,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270206,
       "num": 270206,
       "word": "五一到底哪里没人啊",
@@ -305,6 +329,14 @@
       "onboard_time": 1714482558,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264672,
+      "num": 264672,
+      "word": "五一不出去旅游还可以做什么",
+      "onboard_time": 1714531698,
+      "rank": 15,
+      "category": "旅游"
     },
     {
       "raw_hot": 264671,
@@ -387,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233203,
+      "num": 233203,
+      "word": "梅州高速塌方目击者发声",
+      "onboard_time": 1714533016,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232763,
       "num": 232763,
       "word": "迪丽热巴工作室包场杨幂新电影",
@@ -419,12 +459,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209531,
+      "num": 209531,
+      "word": "明日方舟",
+      "onboard_time": 1714531398,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201860,
       "num": 201860,
       "word": "刚出生四天的小柴犬宝宝",
       "onboard_time": 1714523537,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201360,
+      "num": 201360,
+      "word": "元气森林音乐节取消6小时后又照常办了",
+      "onboard_time": 1714533438,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 201188,
@@ -441,6 +497,14 @@
       "onboard_time": 1714527018,
       "rank": 25,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 200169,
+      "num": 200169,
+      "word": "真正的爱情是爬山而不是划船",
+      "onboard_time": 1714530377,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 195344,
@@ -465,6 +529,30 @@
       "onboard_time": 1714527018,
       "rank": 26,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 190713,
+      "num": 190713,
+      "word": "华晨宇演唱会",
+      "onboard_time": 1714533197,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 189311,
+      "num": 189311,
+      "word": "梅州高速塌方已致1死30伤",
+      "onboard_time": 1714533498,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188994,
+      "num": 188994,
+      "word": "阿尼亚emoji",
+      "onboard_time": 1714533498,
+      "rank": 30,
+      "category": "动漫,互联网"
     },
     {
       "raw_hot": 187854,
@@ -539,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162758,
-      "num": 162758,
-      "word": "真正的爱情是爬山而不是划船",
-      "onboard_time": 1714530377,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 160634,
       "num": 160634,
       "word": "芍药这么美还是中药换谁不迷糊",
@@ -571,6 +651,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154917,
+      "num": 154917,
+      "word": "MSI",
+      "onboard_time": 1714533137,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 154844,
+      "num": 154844,
+      "word": "央视boys把我说馋了",
+      "onboard_time": 1714532777,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154568,
       "num": 154568,
       "word": "比初恋更遗憾的是半生朋友be",
@@ -588,7 +684,7 @@
     },
     {
       "raw_hot": 150281,
-      "num": 150281,
+      "num": 676262,
       "word": "中国海军福建舰出海开展首次航行试验",
       "onboard_time": 1714522096,
       "rank": 34,
@@ -699,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132099,
+      "num": 201318,
+      "word": "00后过五一有多拼",
+      "onboard_time": 1714531278,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131001,
       "num": 264792,
       "word": "2套房京籍家庭可在五环外新购1套房",
@@ -721,6 +825,14 @@
       "onboard_time": 1714524317,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123760,
+      "num": 123760,
+      "word": "今天有好多电影上映",
+      "onboard_time": 1714533317,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 123455,
@@ -769,6 +881,14 @@
       "onboard_time": 1714530738,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115265,
+      "num": 115265,
+      "word": "生活在别处的我定档",
+      "onboard_time": 1714532298,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 114666,
@@ -841,14 +961,6 @@
       "onboard_time": 1714483458,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 105845,
-      "num": 105845,
-      "word": "元气森林音乐节取消",
-      "onboard_time": 1714531278,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 101403,
@@ -1059,20 +1171,20 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 46359,
+      "num": 121142,
+      "word": "如果我写家乡",
+      "onboard_time": 1714533197,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46105,
       "num": 46105,
       "word": "给小鱼接生",
       "onboard_time": 1714513271,
       "rank": 31,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 38772,
-      "num": 106384,
-      "word": "00后过五一有多拼",
-      "onboard_time": 1714531278,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31619,
@@ -1124,6 +1236,9 @@
     },
     {
       "word": "#第二十届中央委员会第三次全体会议#"
+    },
+    {
+      "word": "#习近平向广大劳动群众致以节日祝贺#"
     }
   ]
 }
