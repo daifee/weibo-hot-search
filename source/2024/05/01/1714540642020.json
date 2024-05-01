@@ -1,0 +1,410 @@
+{
+  "runTime": 1714540642020,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3548826,
+        "num": 3597652,
+        "word": "梅龙高速塌陷已致19死30伤",
+        "onboard_time": 1714533498,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699402,
+        "num": 699402,
+        "word": "间谍窃取我国杂交水稻亲本种子",
+        "onboard_time": 1714487901,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72982,
+        "num": 659908,
+        "word": "中国海军福建舰出海开展首次航行试验",
+        "onboard_time": 1714522096,
+        "rank": 2,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 1280629,
+        "num": 657851,
+        "word": "下午三点离职五点整个部门涨薪了",
+        "onboard_time": 1714534398,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 647802,
+        "num": 647802,
+        "word": "五一假期是捅了人窝吧",
+        "onboard_time": 1714539017,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 356195,
+        "num": 356195,
+        "word": "金智媛看过甄嬛传",
+        "onboard_time": 1714538657,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352570,
+        "num": 352570,
+        "word": "狐妖月红篇对打庆余年2",
+        "onboard_time": 1714539497,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343748,
+        "num": 343748,
+        "word": "元气森林音乐节取消",
+        "onboard_time": 1714531278,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 324911,
+        "num": 324911,
+        "word": "庆余年2本月播出",
+        "onboard_time": 1714534338,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170372,
+        "num": 314154,
+        "word": "自律儿子不爱学习但每天6点做饭",
+        "onboard_time": 1714539378,
+        "rank": 9,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 779764,
+        "num": 314099,
+        "word": "没有应届生身份死不了的",
+        "onboard_time": 1714532777,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 737497,
+        "num": 313874,
+        "word": "梅州高速塌方目击者发声",
+        "onboard_time": 1714533016,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312628,
+        "num": 312628,
+        "word": "茶百道联名",
+        "onboard_time": 1714535897,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 725987,
+        "num": 306059,
+        "word": "王珞丹辟谣和朱丹同母异父",
+        "onboard_time": 1714537877,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405393,
+        "num": 290060,
+        "word": "梅州高速塌方",
+        "onboard_time": 1714523716,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389753,
+        "num": 276002,
+        "word": "大学男生冒充小学生骗取女生骑大马",
+        "onboard_time": 1714530258,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323800,
+        "num": 268270,
+        "word": "IVE新曲插画师 马王堆镇馆之宝",
+        "onboard_time": 1714539079,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 254100,
+        "num": 254100,
+        "word": "陶昕然辟谣甄嬛传传闻",
+        "onboard_time": 1714539378,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249844,
+        "num": 249844,
+        "word": "美国德国都没做到只有中国干成了",
+        "onboard_time": 1714534276,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232523,
+        "num": 232523,
+        "word": "林俊杰巡演",
+        "onboard_time": 1714537637,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 533131,
+        "num": 232340,
+        "word": "徐艺洋上班",
+        "onboard_time": 1714535778,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431161,
+        "num": 232252,
+        "word": "头上抠下来的黄色小颗粒是什么",
+        "onboard_time": 1714534398,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 286675,
+        "num": 232122,
+        "word": "花花和爷爷又谭崩了",
+        "onboard_time": 1714533377,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231695,
+        "num": 231695,
+        "word": "迪丽热巴王亚飞再合作",
+        "onboard_time": 1714534037,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215910,
+        "num": 215910,
+        "word": "肖战对接辟谣包场王一博电影",
+        "onboard_time": 1714521977,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212336,
+        "num": 212336,
+        "word": "间谍过家家口碑",
+        "onboard_time": 1714540037,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205794,
+        "num": 205794,
+        "word": "美国洛杉矶一地铁与校车相撞",
+        "onboard_time": 1714538057,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205710,
+        "num": 205710,
+        "word": "向佐郭碧婷牵手出席活动",
+        "onboard_time": 1714539197,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202774,
+        "num": 202774,
+        "word": "大侦探",
+        "onboard_time": 1714538597,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199362,
+        "num": 199362,
+        "word": "弟弟充五千进游戏父母竟然无动于衷",
+        "onboard_time": 1714538417,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199066,
+        "num": 199066,
+        "word": "县城文学",
+        "onboard_time": 1714538417,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193731,
+        "num": 193731,
+        "word": "杨幂晒了红发幺鸡",
+        "onboard_time": 1714535417,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189254,
+        "num": 189254,
+        "word": "花儿与少年 群像的神",
+        "onboard_time": 1714537217,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185707,
+        "num": 185707,
+        "word": "戚薇 我从不掩饰对女生的喜爱",
+        "onboard_time": 1714521916,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181130,
+        "num": 181130,
+        "word": "电影票房",
+        "onboard_time": 1714540518,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180873,
+        "num": 180873,
+        "word": "梅州高速塌方事故已救出31人",
+        "onboard_time": 1714540398,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180311,
+        "num": 180311,
+        "word": "沙溢回应退出奔跑吧",
+        "onboard_time": 1714523176,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179631,
+        "num": 179631,
+        "word": "为什么男朋友总跟我追求公平",
+        "onboard_time": 1714533857,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174398,
+        "num": 174398,
+        "word": "顾客退房后留下的东西有多离谱",
+        "onboard_time": 1714534638,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171047,
+        "num": 171047,
+        "word": "吴磊骑有此理",
+        "onboard_time": 1714539137,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165137,
+        "num": 165137,
+        "word": "杨幂唐嫣早期同框照",
+        "onboard_time": 1714538237,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151461,
+        "num": 151461,
+        "word": "五月天发文回应香港演唱会中止",
+        "onboard_time": 1714540398,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133933,
+        "num": 133933,
+        "word": "五一不出去旅游还可以做什么",
+        "onboard_time": 1714531698,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 129254,
+        "num": 129254,
+        "word": "时代少年团到重庆了",
+        "onboard_time": 1714538237,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127844,
+        "num": 127844,
+        "word": "金智媛教的眼泪女王中文台词",
+        "onboard_time": 1714535477,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152219,
+        "num": 127705,
+        "word": "十年前的唐嫣认识了刘亦菲",
+        "onboard_time": 1714539679,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124145,
+        "num": 124145,
+        "word": "因为布置工位被领导约谈了",
+        "onboard_time": 1714539857,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124073,
+        "num": 124073,
+        "word": "梅州",
+        "onboard_time": 1714540578,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114125,
+        "num": 114125,
+        "word": "我有一个帽衫是什么梗",
+        "onboard_time": 1714537998,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111804,
+        "num": 111804,
+        "word": "第一批游客已冒雨抵达长沙",
+        "onboard_time": 1714520416,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

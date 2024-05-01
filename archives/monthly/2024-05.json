@@ -1,7 +1,15 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714538114582,
+  "endTime": 1714540642020,
   "band_list": [
+    {
+      "raw_hot": 3548826,
+      "num": 3597652,
+      "word": "梅龙高速塌陷已致19死30伤",
+      "onboard_time": 1714533498,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1695633,
       "num": 1695633,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1545383,
-      "num": 481807,
+      "num": 657851,
       "word": "下午三点离职五点整个部门涨薪了",
       "onboard_time": 1714534398,
       "rank": 38,
@@ -91,11 +99,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 737497,
+      "num": 416955,
+      "word": "梅州高速塌方目击者发声",
+      "onboard_time": 1714533016,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728072,
       "num": 264959,
       "word": "徐艺洋上班",
       "onboard_time": 1714535778,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 725987,
+      "num": 306059,
+      "word": "王珞丹辟谣和朱丹同母异父",
+      "onboard_time": 1714537877,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -129,6 +153,14 @@
       "onboard_time": 1714522876,
       "rank": 7,
       "category": "军事"
+    },
+    {
+      "raw_hot": 647802,
+      "num": 647802,
+      "word": "五一假期是捅了人窝吧",
+      "onboard_time": 1714539017,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 610269,
@@ -235,14 +267,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 416955,
-      "num": 416955,
-      "word": "梅州高速塌方目击者发声",
-      "onboard_time": 1714533016,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 411349,
       "num": 411349,
       "word": "苹果正在修复iPhone闹钟不响问题",
@@ -299,12 +323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356195,
+      "num": 356195,
+      "word": "金智媛看过甄嬛传",
+      "onboard_time": 1714538657,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353185,
       "num": 353185,
       "word": "五一不出去旅游还可以做什么",
       "onboard_time": 1714531698,
       "rank": 15,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 352570,
+      "num": 352570,
+      "word": "狐妖月红篇对打庆余年2",
+      "onboard_time": 1714539497,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 347026,
@@ -331,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 323800,
+      "num": 268270,
+      "word": "IVE新曲插画师 马王堆镇馆之宝",
+      "onboard_time": 1714539079,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 320254,
       "num": 320254,
       "word": "王者荣耀",
@@ -345,6 +393,14 @@
       "onboard_time": 1714534276,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312628,
+      "num": 312628,
+      "word": "茶百道联名",
+      "onboard_time": 1714535897,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 309509,
@@ -427,14 +483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 267465,
-      "num": 267465,
-      "word": "茶百道联名",
-      "onboard_time": 1714535897,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 266363,
       "num": 266363,
       "word": "春色寄情人结局",
@@ -481,6 +529,14 @@
       "onboard_time": 1714534037,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254100,
+      "num": 254100,
+      "word": "陶昕然辟谣甄嬛传传闻",
+      "onboard_time": 1714539378,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 248939,
@@ -579,6 +635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212336,
+      "num": 212336,
+      "word": "间谍过家家口碑",
+      "onboard_time": 1714540037,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209531,
       "num": 209531,
       "word": "明日方舟",
@@ -593,6 +657,30 @@
       "onboard_time": 1714533498,
       "rank": 30,
       "category": "动漫,互联网"
+    },
+    {
+      "raw_hot": 205794,
+      "num": 267159,
+      "word": "美国洛杉矶一地铁与校车相撞",
+      "onboard_time": 1714538057,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205710,
+      "num": 205710,
+      "word": "向佐郭碧婷牵手出席活动",
+      "onboard_time": 1714539197,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202774,
+      "num": 202774,
+      "word": "大侦探",
+      "onboard_time": 1714538597,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 201860,
@@ -633,6 +721,22 @@
       "onboard_time": 1714533137,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199362,
+      "num": 199362,
+      "word": "弟弟充五千进游戏父母竟然无动于衷",
+      "onboard_time": 1714538417,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199066,
+      "num": 199066,
+      "word": "县城文学",
+      "onboard_time": 1714538417,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 195344,
@@ -683,11 +787,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 188512,
-      "num": 188512,
-      "word": "王珞丹辟谣和朱丹同母异父",
-      "onboard_time": 1714537877,
-      "rank": 28,
+      "raw_hot": 189254,
+      "num": 189254,
+      "word": "花儿与少年 群像的神",
+      "onboard_time": 1714537217,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -707,6 +811,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 181130,
+      "num": 181130,
+      "word": "电影票房",
+      "onboard_time": 1714540518,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 180873,
+      "num": 180873,
+      "word": "梅州高速塌方事故已救出31人",
+      "onboard_time": 1714540398,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178833,
       "num": 178833,
       "word": "成毅两大平台同时官宣",
@@ -723,14 +843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173105,
-      "num": 173105,
-      "word": "花儿与少年 群像的神",
-      "onboard_time": 1714537217,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173009,
       "num": 173009,
       "word": "广州天气",
@@ -745,6 +857,22 @@
       "onboard_time": 1714530377,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 171047,
+      "num": 171047,
+      "word": "吴磊骑有此理",
+      "onboard_time": 1714539137,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 170372,
+      "num": 314154,
+      "word": "自律儿子不爱学习但每天6点做饭",
+      "onboard_time": 1714539378,
+      "rank": 9,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 168106,
@@ -777,6 +905,14 @@
       "onboard_time": 1714492518,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165137,
+      "num": 165137,
+      "word": "杨幂唐嫣早期同框照",
+      "onboard_time": 1714538237,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 164971,
@@ -849,6 +985,22 @@
       "onboard_time": 1714469897,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152219,
+      "num": 127705,
+      "word": "十年前的唐嫣认识了刘亦菲",
+      "onboard_time": 1714539679,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151461,
+      "num": 151461,
+      "word": "五月天发文回应香港演唱会中止",
+      "onboard_time": 1714540398,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 150281,
@@ -1011,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129254,
+      "num": 129254,
+      "word": "时代少年团到重庆了",
+      "onboard_time": 1714538237,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129034,
       "num": 129034,
       "word": "洁丽雅",
@@ -1025,6 +1185,22 @@
       "onboard_time": 1714524317,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124145,
+      "num": 124145,
+      "word": "因为布置工位被领导约谈了",
+      "onboard_time": 1714539857,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 124073,
+      "num": 124073,
+      "word": "梅州",
+      "onboard_time": 1714540578,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123455,
@@ -1115,6 +1291,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 114125,
+      "num": 114125,
+      "word": "我有一个帽衫是什么梗",
+      "onboard_time": 1714537998,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113191,
       "num": 113191,
       "word": "五月对我好一点",
@@ -1185,14 +1369,6 @@
       "onboard_time": 1714483458,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 106065,
-      "num": 106065,
-      "word": "我有一个帽衫是什么梗",
-      "onboard_time": 1714537998,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 101403,
@@ -1465,14 +1641,6 @@
       "onboard_time": 1714508171,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 7253,
-      "num": 267159,
-      "word": "美国洛杉矶一地铁与校车相撞",
-      "onboard_time": 1714538057,
-      "rank": 19,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

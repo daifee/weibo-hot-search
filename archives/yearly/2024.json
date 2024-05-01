@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1714538114582,
+  "endTime": 1714540642020,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1419,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3548826,
+      "num": 3597652,
+      "word": "梅龙高速塌陷已致19死30伤",
+      "onboard_time": 1714533498,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3534733,
       "num": 3534733,
       "word": "杨幂拿到唐嫣的礼物了吗",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1707557796,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2802414,
-      "num": 2802414,
-      "word": "马琳",
-      "onboard_time": 1708782218,
-      "rank": 3,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

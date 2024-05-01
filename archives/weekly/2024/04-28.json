@@ -1,12 +1,20 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714538114582,
+  "endTime": 1714540642020,
   "band_list": [
     {
       "raw_hot": 7624726,
       "num": 7624726,
       "word": "黄海海域4.4级地震",
       "onboard_time": 1714276759,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3548826,
+      "num": 3597652,
+      "word": "梅龙高速塌陷已致19死30伤",
+      "onboard_time": 1714533498,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 1545383,
-      "num": 481807,
+      "num": 657851,
       "word": "下午三点离职五点整个部门涨薪了",
       "onboard_time": 1714534398,
       "rank": 38,
@@ -1147,6 +1155,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 737497,
+      "num": 416955,
+      "word": "梅州高速塌方目击者发声",
+      "onboard_time": 1714533016,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 734702,
       "num": 734702,
       "word": "芍药",
@@ -1184,6 +1200,14 @@
       "word": "徐艺洋上班",
       "onboard_time": 1714535778,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 725987,
+      "num": 306059,
+      "word": "王珞丹辟谣和朱丹同母异父",
+      "onboard_time": 1714537877,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1489,6 +1513,14 @@
       "onboard_time": 1714296439,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 647802,
+      "num": 647802,
+      "word": "五一假期是捅了人窝吧",
+      "onboard_time": 1714539017,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 646918,
@@ -2603,14 +2635,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 416955,
-      "num": 416955,
-      "word": "梅州高速塌方目击者发声",
-      "onboard_time": 1714533016,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 416926,
       "num": 416926,
       "word": "客户买房后无法上学中介称我口误",
@@ -3019,6 +3043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 356195,
+      "num": 356195,
+      "word": "金智媛看过甄嬛传",
+      "onboard_time": 1714538657,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 355436,
       "num": 355436,
       "word": "内塔尼亚胡不停给拜登打电话",
@@ -3065,6 +3097,14 @@
       "onboard_time": 1714462577,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352570,
+      "num": 352570,
+      "word": "狐妖月红篇对打庆余年2",
+      "onboard_time": 1714539497,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 351463,
@@ -3251,6 +3291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 323800,
+      "num": 268270,
+      "word": "IVE新曲插画师 马王堆镇馆之宝",
+      "onboard_time": 1714539079,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 323109,
       "num": 254122,
       "word": "SEVENTEEN主打曲MV",
@@ -3425,6 +3473,14 @@
       "onboard_time": 1714478237,
       "rank": 14,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 312628,
+      "num": 312628,
+      "word": "茶百道联名",
+      "onboard_time": 1714535897,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 312611,
@@ -3963,14 +4019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 267465,
-      "num": 267465,
-      "word": "茶百道联名",
-      "onboard_time": 1714535897,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 265855,
       "num": 265855,
       "word": "领导重新定义二本",
@@ -4145,6 +4193,14 @@
       "onboard_time": 1714534037,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254100,
+      "num": 254100,
+      "word": "陶昕然辟谣甄嬛传传闻",
+      "onboard_time": 1714539378,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 253653,
@@ -5003,6 +5059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212336,
+      "num": 212336,
+      "word": "间谍过家家口碑",
+      "onboard_time": 1714540037,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 211847,
       "num": 211847,
       "word": "哈登33分",
@@ -5233,6 +5297,22 @@
       "onboard_time": 1714297038,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205794,
+      "num": 267159,
+      "word": "美国洛杉矶一地铁与校车相撞",
+      "onboard_time": 1714538057,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205710,
+      "num": 205710,
+      "word": "向佐郭碧婷牵手出席活动",
+      "onboard_time": 1714539197,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 205393,
@@ -5539,6 +5619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199362,
+      "num": 199362,
+      "word": "弟弟充五千进游戏父母竟然无动于衷",
+      "onboard_time": 1714538417,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199280,
       "num": 199280,
       "word": "长大后发现不能深交的人",
@@ -5553,6 +5641,14 @@
       "onboard_time": 1714380379,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199066,
+      "num": 199066,
+      "word": "县城文学",
+      "onboard_time": 1714538417,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 198908,
@@ -6051,6 +6147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189254,
+      "num": 189254,
+      "word": "花儿与少年 群像的神",
+      "onboard_time": 1714537217,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189145,
       "num": 189145,
       "word": "李一桐一番女主",
@@ -6097,14 +6201,6 @@
       "onboard_time": 1714350259,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 188512,
-      "num": 188512,
-      "word": "王珞丹辟谣和朱丹同母异父",
-      "onboard_time": 1714537877,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 188395,
@@ -6459,6 +6555,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181130,
+      "num": 181130,
+      "word": "电影票房",
+      "onboard_time": 1714540518,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 180873,
+      "num": 180873,
+      "word": "梅州高速塌方事故已救出31人",
+      "onboard_time": 1714540398,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180644,
       "num": 180644,
       "word": "国际不打小孩日",
@@ -6659,14 +6771,6 @@
       "category": "财经,美食"
     },
     {
-      "raw_hot": 173105,
-      "num": 173105,
-      "word": "花儿与少年 群像的神",
-      "onboard_time": 1714537217,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173033,
       "num": 173033,
       "word": "迈腾",
@@ -6763,12 +6867,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 171047,
+      "num": 171047,
+      "word": "吴磊骑有此理",
+      "onboard_time": 1714539137,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170612,
       "num": 170612,
       "word": "眼泪女王收视率破40",
       "onboard_time": 1714314681,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170372,
+      "num": 314154,
+      "word": "自律儿子不爱学习但每天6点做饭",
+      "onboard_time": 1714539378,
+      "rank": 9,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 170317,
@@ -6961,6 +7081,14 @@
       "onboard_time": 1714492518,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165137,
+      "num": 165137,
+      "word": "杨幂唐嫣早期同框照",
+      "onboard_time": 1714538237,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 163969,
@@ -7459,6 +7587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152219,
+      "num": 127705,
+      "word": "十年前的唐嫣认识了刘亦菲",
+      "onboard_time": 1714539679,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152166,
       "num": 152166,
       "word": "本周做什么都顺的星座",
@@ -7473,6 +7609,14 @@
       "onboard_time": 1714467857,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 151461,
+      "num": 151461,
+      "word": "五月天发文回应香港演唱会中止",
+      "onboard_time": 1714540398,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 151438,
@@ -8555,6 +8699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129254,
+      "num": 129254,
+      "word": "时代少年团到重庆了",
+      "onboard_time": 1714538237,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129034,
       "num": 129034,
       "word": "洁丽雅",
@@ -8739,12 +8891,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124145,
+      "num": 124145,
+      "word": "因为布置工位被领导约谈了",
+      "onboard_time": 1714539857,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124117,
       "num": 161562,
       "word": "赛力斯一季度营收同比增长421.76%",
       "onboard_time": 1714403661,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 124073,
+      "num": 124073,
+      "word": "梅州",
+      "onboard_time": 1714540578,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123492,
@@ -9027,6 +9195,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 114125,
+      "num": 114125,
+      "word": "我有一个帽衫是什么梗",
+      "onboard_time": 1714537998,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113701,
       "num": 113701,
       "word": "神十七乘组要回地球过五一了",
@@ -9257,14 +9433,6 @@
       "onboard_time": 1714268837,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106065,
-      "num": 106065,
-      "word": "我有一个帽衫是什么梗",
-      "onboard_time": 1714537998,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 104644,
@@ -10224,14 +10392,6 @@
       "word": "这次杭州司机礼让的是鸳鸯",
       "onboard_time": 1714422251,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7253,
-      "num": 267159,
-      "word": "美国洛杉矶一地铁与校车相撞",
-      "onboard_time": 1714538057,
-      "rank": 19,
       "category": "社会新闻"
     }
   ],
