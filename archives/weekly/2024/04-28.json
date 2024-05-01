@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714555216133,
+  "endTime": 1714556066076,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3529579,
-      "num": 3559158,
+      "raw_hot": 4111207,
+      "num": 4722414,
       "word": "梅大高速塌陷已致24人死亡",
       "onboard_time": 1714554258,
       "rank": 0,
@@ -2003,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531939,
+      "num": 203393,
+      "word": "云南偶遇Angelababy",
+      "onboard_time": 1714552578,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531278,
       "num": 321442,
       "word": "头上抠下来的黄色小颗粒是什么",
@@ -2041,14 +2049,6 @@
       "onboard_time": 1714277659,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 526751,
-      "num": 203393,
-      "word": "云南偶遇Angelababy",
-      "onboard_time": 1714552578,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 526241,
@@ -4707,6 +4707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243064,
+      "num": 243064,
+      "word": "华晨宇演唱会入场电影即视感",
+      "onboard_time": 1714553718,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 242891,
       "num": 242891,
       "word": "双休政策制定参与者谈调休矛盾",
@@ -5009,14 +5017,6 @@
       "onboard_time": 1714266200,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 227454,
-      "num": 227454,
-      "word": "华晨宇演唱会入场电影即视感",
-      "onboard_time": 1714553718,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 226966,
@@ -7251,6 +7251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169902,
+      "num": 169902,
+      "word": "福宝将结束隔离",
+      "onboard_time": 1714555878,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169817,
       "num": 169817,
       "word": "王一博代言真维斯",
@@ -7289,6 +7297,14 @@
       "onboard_time": 1714450279,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168638,
+      "num": 168638,
+      "word": "谁懂大侦探收官案的含金量",
+      "onboard_time": 1714553838,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 168036,
@@ -7457,6 +7473,14 @@
       "onboard_time": 1714446137,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163533,
+      "num": 163533,
+      "word": "华晨宇cue花傲天",
+      "onboard_time": 1714555158,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 163235,
@@ -7985,14 +8009,6 @@
       "onboard_time": 1714467857,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 151777,
-      "num": 151777,
-      "word": "谁懂大侦探收官案的含金量",
-      "onboard_time": 1714553838,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 151717,
@@ -8963,6 +8979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131890,
+      "num": 131890,
+      "word": "2024MSI",
+      "onboard_time": 1714555638,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131673,
       "num": 131673,
       "word": "种地吧 惊喜直播",
@@ -9787,6 +9811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111398,
+      "num": 111398,
+      "word": "2024五一档电影口碑",
+      "onboard_time": 1714555458,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111359,
       "num": 111359,
       "word": "边牧我的狗生易如反掌",
@@ -9979,6 +10011,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 104065,
+      "num": 104065,
+      "word": "徳塔文发文认证杨幂市场号召力",
+      "onboard_time": 1714555818,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102918,
       "num": 182031,
       "word": "原来空间站钥匙长这样",
@@ -10161,14 +10201,6 @@
       "onboard_time": 1714244051,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94069,
-      "num": 94069,
-      "word": "华晨宇cue花傲天",
-      "onboard_time": 1714555158,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 93993,

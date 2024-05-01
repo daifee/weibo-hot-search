@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714555216133,
+  "endTime": 1714556066076,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3529579,
-      "num": 3559158,
+      "raw_hot": 4111207,
+      "num": 4722414,
       "word": "梅大高速塌陷已致24人死亡",
       "onboard_time": 1714554258,
       "rank": 0,
@@ -267,20 +267,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531939,
+      "num": 203393,
+      "word": "云南偶遇Angelababy",
+      "onboard_time": 1714552578,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531278,
       "num": 321442,
       "word": "头上抠下来的黄色小颗粒是什么",
       "onboard_time": 1714534398,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 526751,
-      "num": 203393,
-      "word": "云南偶遇Angelababy",
-      "onboard_time": 1714552578,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 507736,
@@ -819,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243064,
+      "num": 243064,
+      "word": "华晨宇演唱会入场电影即视感",
+      "onboard_time": 1714553718,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 242888,
       "num": 242888,
       "word": "杨幂方辟谣参加喜人奇妙夜",
@@ -857,14 +865,6 @@
       "onboard_time": 1714525038,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 227454,
-      "num": 227454,
-      "word": "华晨宇演唱会入场电影即视感",
-      "onboard_time": 1714553718,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 227327,
@@ -1219,6 +1219,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169902,
+      "num": 169902,
+      "word": "福宝将结束隔离",
+      "onboard_time": 1714555878,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168638,
+      "num": 168638,
+      "word": "谁懂大侦探收官案的含金量",
+      "onboard_time": 1714553838,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168106,
       "num": 168106,
       "word": "研究生女孩健身10年练出8块腹肌",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1714541358,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163533,
+      "num": 163533,
+      "word": "华晨宇cue花傲天",
+      "onboard_time": 1714555158,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 160634,
@@ -1369,14 +1393,6 @@
       "onboard_time": 1714539679,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151777,
-      "num": 151777,
-      "word": "谁懂大侦探收官案的含金量",
-      "onboard_time": 1714553838,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 151717,
@@ -1585,6 +1601,14 @@
       "onboard_time": 1714459818,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131890,
+      "num": 131890,
+      "word": "2024MSI",
+      "onboard_time": 1714555638,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 131505,
@@ -1843,6 +1867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111398,
+      "num": 111398,
+      "word": "2024五一档电影口碑",
+      "onboard_time": 1714555458,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 110759,
       "num": 110759,
       "word": "五月天香港演唱会因暴雨中止",
@@ -1897,6 +1929,14 @@
       "onboard_time": 1714483458,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 104065,
+      "num": 104065,
+      "word": "徳塔文发文认证杨幂市场号召力",
+      "onboard_time": 1714555818,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 102239,
@@ -1961,14 +2001,6 @@
       "onboard_time": 1714522936,
       "rank": 48,
       "category": "军事"
-    },
-    {
-      "raw_hot": 94069,
-      "num": 94069,
-      "word": "华晨宇cue花傲天",
-      "onboard_time": 1714555158,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 91195,
