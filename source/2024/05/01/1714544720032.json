@@ -1,0 +1,410 @@
+{
+  "runTime": 1714544720032,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7591896,
+        "num": 7800346,
+        "word": "梅龙高速塌陷已致19死30伤",
+        "onboard_time": 1714533498,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1323026,
+        "num": 1323026,
+        "word": "五一假期是捅了人窝吧",
+        "onboard_time": 1714539017,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53983,
+        "num": 755851,
+        "word": "中国海军福建舰出海开展首次航行试验",
+        "onboard_time": 1714522096,
+        "rank": 2,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 580496,
+        "num": 580496,
+        "word": "下午三点离职五点整个部门涨薪了",
+        "onboard_time": 1714534398,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 510185,
+        "num": 510185,
+        "word": "南雅被继兄侵犯",
+        "onboard_time": 1714541600,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465610,
+        "num": 465610,
+        "word": "梅州高速塌方事故已救出31人",
+        "onboard_time": 1714540398,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397902,
+        "num": 397902,
+        "word": "电影票房",
+        "onboard_time": 1714540518,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 372809,
+        "num": 372809,
+        "word": "间谍窃取我国杂交水稻亲本种子",
+        "onboard_time": 1714487901,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371589,
+        "num": 371589,
+        "word": "26岁了人生第一次吃小龙虾",
+        "onboard_time": 1714542739,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181319,
+        "num": 367156,
+        "word": "自律儿子不爱学习但每天6点做饭",
+        "onboard_time": 1714539378,
+        "rank": 9,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 867157,
+        "num": 365799,
+        "word": "秦海璐 番茄小说代言人",
+        "onboard_time": 1714541358,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 825382,
+        "num": 365092,
+        "word": "梅州高速塌方目击者发声",
+        "onboard_time": 1714533016,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363039,
+        "num": 363039,
+        "word": "王珞丹辟谣和朱丹同母异父",
+        "onboard_time": 1714537877,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344426,
+        "num": 344426,
+        "word": "狐妖月红篇对打庆余年2",
+        "onboard_time": 1714539497,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299608,
+        "num": 299608,
+        "word": "IVE新曲插画师 马王堆镇馆之宝",
+        "onboard_time": 1714539079,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279372,
+        "num": 279372,
+        "word": "金智媛看过甄嬛传",
+        "onboard_time": 1714538657,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268025,
+        "num": 268025,
+        "word": "大学男生冒充小学生骗取女生骑大马",
+        "onboard_time": 1714530258,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267789,
+        "num": 267789,
+        "word": "没有应届生身份死不了的",
+        "onboard_time": 1714532777,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259476,
+        "num": 259476,
+        "word": "韩红cos黄昏",
+        "onboard_time": 1714541358,
+        "rank": 18,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 242888,
+        "num": 242888,
+        "word": "杨幂方辟谣参加喜人奇妙夜",
+        "onboard_time": 1714541840,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556592,
+        "num": 242562,
+        "word": "女子胎儿畸形引产后分手被要求退15万彩礼",
+        "onboard_time": 1714541179,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297992,
+        "num": 242027,
+        "word": "头上抠下来的黄色小颗粒是什么",
+        "onboard_time": 1714534398,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233522,
+        "num": 233522,
+        "word": "王一博骑摩托去接受采访",
+        "onboard_time": 1714542020,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222436,
+        "num": 222436,
+        "word": "五一第一天就赶上生理期了",
+        "onboard_time": 1714542199,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206636,
+        "num": 206636,
+        "word": "徐艺洋上班",
+        "onboard_time": 1714535778,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175320,
+        "num": 175320,
+        "word": "花花和爷爷又谭崩了",
+        "onboard_time": 1714533377,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164112,
+        "num": 164112,
+        "word": "女子称亲属在梅州高速塌方事故失联",
+        "onboard_time": 1714541358,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162341,
+        "num": 162341,
+        "word": "重庆警方通报17岁少年被刺伤致死",
+        "onboard_time": 1714544059,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156096,
+        "num": 156096,
+        "word": "弟弟充五千进游戏父母竟然无动于衷",
+        "onboard_time": 1714538417,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154342,
+        "num": 154342,
+        "word": "张颂文拍综艺被导演送龟背竹地毯",
+        "onboard_time": 1714543820,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193712,
+        "num": 153125,
+        "word": "IVE粉丝停止本次回归专辑团体代购",
+        "onboard_time": 1714544539,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149196,
+        "num": 149196,
+        "word": "田嘉瑞不愧是郭敬明的人",
+        "onboard_time": 1714544359,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146112,
+        "num": 146112,
+        "word": "庆余年2本月播出",
+        "onboard_time": 1714534338,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143628,
+        "num": 143628,
+        "word": "当凌晨四点还不睡时你的猫",
+        "onboard_time": 1714542918,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143018,
+        "num": 143018,
+        "word": "越没本事的人脾气还越大",
+        "onboard_time": 1714542561,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137976,
+        "num": 137976,
+        "word": "五月天发文回应香港演唱会中止",
+        "onboard_time": 1714540398,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135659,
+        "num": 135659,
+        "word": "肖战对接辟谣包场王一博电影",
+        "onboard_time": 1714521977,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133048,
+        "num": 133048,
+        "word": "向佐郭碧婷牵手出席活动",
+        "onboard_time": 1714539197,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131848,
+        "num": 131848,
+        "word": "为什么男朋友总跟我追求公平",
+        "onboard_time": 1714533857,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129542,
+        "num": 129542,
+        "word": "杨幂五月好忙",
+        "onboard_time": 1714543938,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125818,
+        "num": 125818,
+        "word": "赵磊 歌手",
+        "onboard_time": 1714544600,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124827,
+        "num": 124827,
+        "word": "梅州",
+        "onboard_time": 1714540578,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124663,
+        "num": 124663,
+        "word": "戚薇 我从不掩饰对女生的喜爱",
+        "onboard_time": 1714521916,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121938,
+        "num": 121938,
+        "word": "间谍过家家口碑",
+        "onboard_time": 1714540037,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118498,
+        "num": 118498,
+        "word": "心脏如何保健",
+        "onboard_time": 1714544239,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118390,
+        "num": 118390,
+        "word": "广东梅龙高速路面塌陷请绕行",
+        "onboard_time": 1714541479,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115231,
+        "num": 115231,
+        "word": "林俊杰巡演",
+        "onboard_time": 1714537637,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114956,
+        "num": 114956,
+        "word": "给情侣们的约会建议",
+        "onboard_time": 1714543520,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113679,
+        "num": 113679,
+        "word": "五一广州萤火虫",
+        "onboard_time": 1714543639,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 108180,
+        "num": 108180,
+        "word": "什么叫滥用抗生素",
+        "onboard_time": 1714544479,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#第二十届中央委员会第三次全体会议#"
+    }
+  }
+}

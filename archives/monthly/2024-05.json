@@ -1,10 +1,10 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714541661898,
+  "endTime": 1714544720032,
   "band_list": [
     {
-      "raw_hot": 5870784,
-      "num": 7120784,
+      "raw_hot": 7591896,
+      "num": 7800346,
       "word": "梅龙高速塌陷已致19死30伤",
       "onboard_time": 1714533498,
       "rank": 0,
@@ -32,6 +32,14 @@
       "word": "没有应届生身份死不了的",
       "onboard_time": 1714532777,
       "rank": 12,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1323026,
+      "num": 1323026,
+      "word": "五一假期是捅了人窝吧",
+      "onboard_time": 1714539017,
+      "rank": 4,
       "category": "情感"
     },
     {
@@ -83,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 867157,
+      "num": 365799,
+      "word": "秦海璐 番茄小说代言人",
+      "onboard_time": 1714541358,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 841804,
       "num": 433829,
       "word": "戚薇 我从不掩饰对女生的喜爱",
       "onboard_time": 1714521916,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 834146,
-      "num": 834146,
-      "word": "五一假期是捅了人窝吧",
-      "onboard_time": 1714539017,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 829946,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 725987,
-      "num": 341943,
+      "num": 363039,
       "word": "王珞丹辟谣和朱丹同母异父",
       "onboard_time": 1714537877,
       "rank": 28,
@@ -171,6 +179,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 556592,
+      "num": 242562,
+      "word": "女子胎儿畸形引产后分手被要求退15万彩礼",
+      "onboard_time": 1714541179,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537893,
       "num": 188417,
       "word": "原来跑男早就预言了退出的人",
@@ -185,6 +201,14 @@
       "onboard_time": 1714534398,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 510185,
+      "num": 510185,
+      "word": "南雅被继兄侵犯",
+      "onboard_time": 1714541600,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 507736,
@@ -219,19 +243,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 465610,
+      "num": 465610,
+      "word": "梅州高速塌方事故已救出31人",
+      "onboard_time": 1714540398,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449484,
       "num": 449484,
       "word": "孩子住院家长请假遭开除获赔22万",
       "onboard_time": 1714520654,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444162,
-      "num": 444162,
-      "word": "梅州高速塌方事故已救出31人",
-      "onboard_time": 1714540398,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -299,12 +323,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 397902,
+      "num": 397902,
+      "word": "电影票房",
+      "onboard_time": 1714540518,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 379238,
       "num": 379238,
       "word": "洁丽雅董事长谈儿子拍短剧出圈",
       "onboard_time": 1714486219,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371589,
+      "num": 371589,
+      "word": "26岁了人生第一次吃小龙虾",
+      "onboard_time": 1714542739,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 366519,
@@ -384,22 +424,6 @@
       "word": "杨幂晒了红发幺鸡",
       "onboard_time": 1714535417,
       "rank": 14,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 330535,
-      "num": 205158,
-      "word": "女子胎儿畸形引产后分手被要求退15万彩礼",
-      "onboard_time": 1714541179,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 330303,
-      "num": 330303,
-      "word": "电影票房",
-      "onboard_time": 1714540518,
-      "rank": 34,
       "category": "电影"
     },
     {
@@ -531,6 +555,14 @@
       "category": "财经,数码"
     },
     {
+      "raw_hot": 259476,
+      "num": 259476,
+      "word": "韩红cos黄昏",
+      "onboard_time": 1714541358,
+      "rank": 24,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 257470,
       "num": 442658,
       "word": "第一批游客已冒雨抵达长沙",
@@ -603,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242888,
+      "num": 242888,
+      "word": "杨幂方辟谣参加喜人奇妙夜",
+      "onboard_time": 1714541840,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240659,
       "num": 155094,
       "word": "医生让你查幽门螺旋杆菌是真想救你",
@@ -617,6 +657,14 @@
       "onboard_time": 1714495096,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233522,
+      "num": 233522,
+      "word": "王一博骑摩托去接受采访",
+      "onboard_time": 1714542020,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 232763,
@@ -649,6 +697,14 @@
       "onboard_time": 1714529477,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 222436,
+      "num": 222436,
+      "word": "五一第一天就赶上生理期了",
+      "onboard_time": 1714542199,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 215173,
@@ -705,22 +761,6 @@
       "onboard_time": 1714539197,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203340,
-      "num": 183553,
-      "word": "秦海璐 番茄小说代言人",
-      "onboard_time": 1714541358,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 203050,
-      "num": 203050,
-      "word": "韩红cos黄昏",
-      "onboard_time": 1714541358,
-      "rank": 24,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 202774,
@@ -811,6 +851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193712,
+      "num": 153125,
+      "word": "IVE粉丝停止本次回归专辑团体代购",
+      "onboard_time": 1714544539,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192319,
       "num": 192319,
       "word": "真的别再打孩子了",
@@ -867,20 +915,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 181319,
+      "num": 367156,
+      "word": "自律儿子不爱学习但每天6点做饭",
+      "onboard_time": 1714539378,
+      "rank": 9,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 178833,
       "num": 178833,
       "word": "成毅两大平台同时官宣",
       "onboard_time": 1714528336,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178111,
-      "num": 356135,
-      "word": "自律儿子不爱学习但每天6点做饭",
-      "onboard_time": 1714539378,
-      "rank": 9,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 173405,
@@ -963,6 +1011,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164112,
+      "num": 164112,
+      "word": "女子称亲属在梅州高速塌方事故失联",
+      "onboard_time": 1714541358,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162341,
+      "num": 162341,
+      "word": "重庆警方通报17岁少年被刺伤致死",
+      "onboard_time": 1714544059,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160634,
       "num": 160634,
       "word": "芍药这么美还是中药换谁不迷糊",
@@ -1019,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154342,
+      "num": 154342,
+      "word": "张颂文拍综艺被导演送龟背竹地毯",
+      "onboard_time": 1714543820,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152635,
       "num": 152635,
       "word": "赴山海官宣",
@@ -1041,6 +1113,14 @@
       "onboard_time": 1714522096,
       "rank": 34,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 149196,
+      "num": 149196,
+      "word": "田嘉瑞不愧是郭敬明的人",
+      "onboard_time": 1714544359,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 149127,
@@ -1097,6 +1177,22 @@
       "onboard_time": 1714499952,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 143628,
+      "num": 143628,
+      "word": "当凌晨四点还不睡时你的猫",
+      "onboard_time": 1714542918,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 143018,
+      "num": 143018,
+      "word": "越没本事的人脾气还越大",
+      "onboard_time": 1714542561,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 141825,
@@ -1187,20 +1283,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131811,
-      "num": 131811,
-      "word": "女子称亲属在梅州高速塌方事故失联",
-      "onboard_time": 1714541358,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131001,
       "num": 264792,
       "word": "2套房京籍家庭可在五环外新购1套房",
       "onboard_time": 1714482379,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129542,
+      "num": 129542,
+      "word": "杨幂五月好忙",
+      "onboard_time": 1714543938,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 129254,
@@ -1225,6 +1321,14 @@
       "onboard_time": 1714524317,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125818,
+      "num": 125818,
+      "word": "赵磊 歌手",
+      "onboard_time": 1714544600,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 124145,
@@ -1291,12 +1395,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 118439,
-      "num": 118439,
-      "word": "南雅被继兄侵犯",
-      "onboard_time": 1714541600,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 118498,
+      "num": 118498,
+      "word": "心脏如何保健",
+      "onboard_time": 1714544239,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 118074,
@@ -1321,6 +1425,14 @@
       "onboard_time": 1714532298,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114956,
+      "num": 114956,
+      "word": "给情侣们的约会建议",
+      "onboard_time": 1714543520,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 114898,
@@ -1353,6 +1465,14 @@
       "onboard_time": 1714537998,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113679,
+      "num": 113679,
+      "word": "五一广州萤火虫",
+      "onboard_time": 1714543639,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 113191,
@@ -1401,6 +1521,14 @@
       "onboard_time": 1714476377,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108180,
+      "num": 108180,
+      "word": "什么叫滥用抗生素",
+      "onboard_time": 1714544479,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 107494,
