@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714533767009,
+  "endTime": 1714534465315,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -505,6 +505,14 @@
       "onboard_time": 1714369817,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1133449,
+      "num": 1133449,
+      "word": "没有应届生身份死不了的",
+      "onboard_time": 1714532777,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 1129383,
@@ -1203,12 +1211,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 712269,
-      "num": 272365,
-      "word": "没有应届生身份死不了的",
-      "onboard_time": 1714532777,
-      "rank": 12,
-      "category": "情感"
+      "raw_hot": 711704,
+      "num": 243416,
+      "word": "花花和爷爷又谭崩了",
+      "onboard_time": 1714533377,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 710101,
@@ -1433,14 +1441,6 @@
       "onboard_time": 1714298779,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 655045,
-      "num": 200967,
-      "word": "花花和爷爷又谭崩了",
-      "onboard_time": 1714533377,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 652302,
@@ -2339,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 452706,
+      "num": 452706,
+      "word": "梅州高速塌方已致1死30伤",
+      "onboard_time": 1714533498,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449967,
       "num": 422251,
       "word": "SEVENTEEN回归",
@@ -2500,7 +2508,7 @@
     },
     {
       "raw_hot": 423717,
-      "num": 217689,
+      "num": 243410,
       "word": "54岁快递员手机备注上千收件人奇葩花名",
       "onboard_time": 1714530018,
       "rank": 26,
@@ -2995,6 +3003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353185,
+      "num": 353185,
+      "word": "五一不出去旅游还可以做什么",
+      "onboard_time": 1714531698,
+      "rank": 15,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 353029,
       "num": 274112,
       "word": "刘惜君身材比例",
@@ -3363,6 +3379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312138,
+      "num": 264796,
+      "word": "梅州高速塌方目击者发声",
+      "onboard_time": 1714533016,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311527,
       "num": 311527,
       "word": "陈丽君上桌了",
@@ -3401,6 +3425,14 @@
       "onboard_time": 1714475897,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 309509,
+      "num": 309509,
+      "word": "元气森林音乐节取消6小时后又照常办了",
+      "onboard_time": 1714533438,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 308990,
@@ -3601,6 +3633,14 @@
       "onboard_time": 1714479318,
       "rank": 32,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 287111,
+      "num": 287111,
+      "word": "迪丽热巴王亚飞再合作",
+      "onboard_time": 1714534037,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 286638,
@@ -3883,14 +3923,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 264672,
-      "num": 264672,
-      "word": "五一不出去旅游还可以做什么",
-      "onboard_time": 1714531698,
-      "rank": 15,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 264020,
       "num": 264020,
       "word": "张新成新剧尺度",
@@ -4025,6 +4057,14 @@
       "onboard_time": 1714468999,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 254285,
+      "num": 254285,
+      "word": "央八将独播庆余年第一季精编版",
+      "onboard_time": 1714534037,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 253653,
@@ -4459,14 +4499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233203,
-      "num": 233203,
-      "word": "梅州高速塌方目击者发声",
-      "onboard_time": 1714533016,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233067,
       "num": 136399,
       "word": "外国游客3个月爆买1.75万亿日元",
@@ -4811,6 +4843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215173,
+      "num": 215173,
+      "word": "真正的爱情是爬山而不是划船",
+      "onboard_time": 1714530377,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214150,
       "num": 214150,
       "word": "长相思未婚夫跑去做榜上佳婿了",
@@ -4961,6 +5001,14 @@
       "onboard_time": 1714363698,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208742,
+      "num": 208742,
+      "word": "阿尼亚emoji",
+      "onboard_time": 1714533498,
+      "rank": 30,
+      "category": "动漫,互联网"
     },
     {
       "raw_hot": 208462,
@@ -5315,14 +5363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201360,
-      "num": 201360,
-      "word": "元气森林音乐节取消6小时后又照常办了",
-      "onboard_time": 1714533438,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 201301,
       "num": 201301,
       "word": "叶祖新留胡子",
@@ -5363,14 +5403,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 200169,
-      "num": 200169,
-      "word": "真正的爱情是爬山而不是划船",
-      "onboard_time": 1714530377,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 200055,
       "num": 200055,
       "word": "邓为顺毛白衬衫",
@@ -5385,6 +5417,14 @@
       "onboard_time": 1714313418,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199975,
+      "num": 199975,
+      "word": "MSI",
+      "onboard_time": 1714533137,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 199963,
@@ -5593,6 +5633,14 @@
       "onboard_time": 1714274719,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194775,
+      "num": 194775,
+      "word": "蓝羽易烊千玺CHC影迷电影频道宣传片",
+      "onboard_time": 1714533977,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 194748,
@@ -5899,14 +5947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189311,
-      "num": 189311,
-      "word": "梅州高速塌方已致1死30伤",
-      "onboard_time": 1714533498,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189273,
       "num": 189273,
       "word": "榜上佳婿开机",
@@ -5929,14 +5969,6 @@
       "onboard_time": 1714460239,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 188994,
-      "num": 188994,
-      "word": "阿尼亚emoji",
-      "onboard_time": 1714533498,
-      "rank": 30,
-      "category": "动漫,互联网"
     },
     {
       "raw_hot": 188864,
@@ -6691,6 +6723,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 167943,
+      "num": 167943,
+      "word": "今天有好多电影上映",
+      "onboard_time": 1714533317,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167831,
       "num": 167831,
       "word": "许嵩演唱会嘉宾是丁世光",
@@ -6745,6 +6785,14 @@
       "onboard_time": 1714468817,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 167339,
+      "num": 167339,
+      "word": "为什么男朋友总跟我追求公平",
+      "onboard_time": 1714533857,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 167019,
@@ -6872,6 +6920,14 @@
       "word": "芍药这么美还是中药换谁不迷糊",
       "onboard_time": 1714520175,
       "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 160631,
+      "num": 160631,
+      "word": "头上抠下来的黄色小颗粒是什么",
+      "onboard_time": 1714534398,
+      "rank": 35,
       "category": "健康医疗"
     },
     {
@@ -7107,6 +7163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156090,
+      "num": 243425,
+      "word": "00后过五一有多拼",
+      "onboard_time": 1714531278,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156035,
       "num": 156035,
       "word": "城中之城",
@@ -7153,14 +7217,6 @@
       "onboard_time": 1714288638,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 154917,
-      "num": 154917,
-      "word": "MSI",
-      "onboard_time": 1714533137,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 154844,
@@ -7348,7 +7404,7 @@
     },
     {
       "raw_hot": 150281,
-      "num": 676262,
+      "num": 787407,
       "word": "中国海军福建舰出海开展首次航行试验",
       "onboard_time": 1714522096,
       "rank": 34,
@@ -7595,6 +7651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 147156,
+      "num": 147156,
+      "word": "下午三点离职五点整个部门涨薪了",
+      "onboard_time": 1714534398,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147154,
       "num": 147154,
       "word": "蔡磊说全力推进的渐冻症药物救不了自己",
@@ -7760,6 +7824,14 @@
       "word": "书卷一梦将官宣",
       "onboard_time": 1714404859,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142660,
+      "num": 142660,
+      "word": "庆余年2本月播出",
+      "onboard_time": 1714534338,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -8179,14 +8251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132099,
-      "num": 201318,
-      "word": "00后过五一有多拼",
-      "onboard_time": 1714531278,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131673,
       "num": 131673,
       "word": "种地吧 惊喜直播",
@@ -8547,14 +8611,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 123760,
-      "num": 123760,
-      "word": "今天有好多电影上映",
-      "onboard_time": 1714533317,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 123492,
       "num": 123492,
       "word": "小水獭独有的撒娇技巧",
@@ -8619,12 +8675,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121601,
+      "num": 121601,
+      "word": "别人换乘恋爱你俩换乘挨踹",
+      "onboard_time": 1714533916,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121086,
       "num": 121086,
       "word": "苗苗一公舞台",
       "onboard_time": 1714236316,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120847,
+      "num": 120847,
+      "word": "美国德国都没做到只有中国干成了",
+      "onboard_time": 1714534276,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120444,
@@ -8713,6 +8785,14 @@
       "onboard_time": 1714268057,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 118074,
+      "num": 118074,
+      "word": "末路狂花钱",
+      "onboard_time": 1714534338,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 117862,
@@ -9481,6 +9561,14 @@
       "onboard_time": 1714236855,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61893,
+      "num": 169144,
+      "word": "伦敦男子挥舞大剑袭击数人",
+      "onboard_time": 1714530798,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61438,
