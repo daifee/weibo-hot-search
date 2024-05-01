@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714566839030,
+  "endTime": 1714567707675,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1665237,
+      "num": 1592880,
+      "word": "买房千万不要买挨着公园的",
+      "onboard_time": 1714564338,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1595330,
       "num": 1595330,
       "word": "医院已确认梅龙高速塌方伤者身份",
       "onboard_time": 1714556117,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1592880,
-      "num": 1592880,
-      "word": "买房千万不要买挨着公园的",
-      "onboard_time": 1714564338,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 1545383,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 663867,
+      "num": 192919,
+      "word": "孙怡素颜泳装照",
+      "onboard_time": 1714565598,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 652302,
       "num": 652302,
       "word": "福建舰海试",
@@ -257,14 +265,6 @@
       "onboard_time": 1714545318,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 622249,
-      "num": 192919,
-      "word": "孙怡素颜泳装照",
-      "onboard_time": 1714565598,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 610934,
@@ -403,12 +403,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 453128,
+      "num": 191600,
+      "word": "梅州高速塌方一女子5名亲人失联",
+      "onboard_time": 1714566198,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449484,
       "num": 449484,
       "word": "孩子住院家长请假遭开除获赔22万",
       "onboard_time": 1714520654,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432228,
+      "num": 432228,
+      "word": "王一博cos布布",
+      "onboard_time": 1714565959,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 428590,
@@ -539,6 +555,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376833,
+      "num": 376833,
+      "word": "王石放弃万科千万退休金",
+      "onboard_time": 1714564878,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 368477,
+      "num": 368477,
+      "word": "张杰第一场演唱会第一首歌",
+      "onboard_time": 1714566679,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 367740,
       "num": 367740,
       "word": "美国六旬男子烧死妻子后自杀",
@@ -617,14 +649,6 @@
       "onboard_time": 1714489641,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 346954,
-      "num": 346954,
-      "word": "王石放弃万科千万退休金",
-      "onboard_time": 1714564878,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 343676,
@@ -761,14 +785,6 @@
       "onboard_time": 1714524856,
       "rank": 15,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 296137,
-      "num": 296137,
-      "word": "王一博cos布布",
-      "onboard_time": 1714565959,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 294798,
@@ -1019,6 +1035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 233185,
+      "num": 233185,
+      "word": "张杰演唱会",
+      "onboard_time": 1714566139,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 232763,
       "num": 232763,
       "word": "迪丽热巴工作室包场杨幂新电影",
@@ -1067,14 +1091,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 220899,
-      "num": 191600,
-      "word": "梅州高速塌方一女子5名亲人失联",
-      "onboard_time": 1714566198,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218348,
       "num": 218348,
       "word": "维和防暴队剧情",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1714530377,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214020,
+      "num": 138246,
+      "word": "如家酒店被曝花洒现粪便状异物",
+      "onboard_time": 1714566978,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212427,
@@ -1153,6 +1177,14 @@
       "onboard_time": 1714539197,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205094,
+      "num": 171216,
+      "word": "央视五一晚会",
+      "onboard_time": 1714566739,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 204725,
@@ -1251,14 +1283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198595,
-      "num": 198595,
-      "word": "张杰第一场演唱会第一首歌",
-      "onboard_time": 1714566679,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 196061,
       "num": 196061,
       "word": "金道英solo初一位",
@@ -1321,14 +1345,6 @@
       "onboard_time": 1714527018,
       "rank": 26,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 192052,
-      "num": 192052,
-      "word": "张杰演唱会",
-      "onboard_time": 1714566139,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 191108,
@@ -1771,6 +1787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149259,
+      "num": 146806,
+      "word": "五一档首日票房超去年",
+      "onboard_time": 1714565299,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149196,
       "num": 149196,
       "word": "田嘉瑞不愧是郭敬明的人",
@@ -1809,14 +1833,6 @@
       "onboard_time": 1714535477,
       "rank": 33,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 146806,
-      "num": 146806,
-      "word": "五一档首日票房超去年",
-      "onboard_time": 1714565299,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 145868,
@@ -1881,14 +1897,6 @@
       "onboard_time": 1714546998,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140896,
-      "num": 140896,
-      "word": "央视五一晚会",
-      "onboard_time": 1714566739,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 139706,
@@ -2001,6 +2009,14 @@
       "onboard_time": 1714518555,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134078,
+      "num": 134078,
+      "word": "张镇麟隔扣徐昕",
+      "onboard_time": 1714567518,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 132865,
@@ -2235,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116811,
+      "num": 116811,
+      "word": "薛之谦巡演乌鲁木齐站加场",
+      "onboard_time": 1714567578,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 116436,
       "num": 116436,
       "word": "五一档",
@@ -2321,6 +2345,14 @@
       "onboard_time": 1714521977,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 112879,
+      "num": 112879,
+      "word": "赵昭仪演爽了",
+      "onboard_time": 1714567458,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 112817,
@@ -2481,6 +2513,14 @@
       "onboard_time": 1714562840,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98460,
+      "num": 98460,
+      "word": "CBA",
+      "onboard_time": 1714564578,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 98413,
@@ -2659,6 +2699,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 59049,
+      "num": 1133159,
+      "word": "花开种花家",
+      "onboard_time": 1714551378,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58824,
       "num": 81517,
       "word": "为什么听到父母的关心会烦躁",
@@ -2713,14 +2761,6 @@
       "onboard_time": 1714515132,
       "rank": 49,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 48687,
-      "num": 1133159,
-      "word": "花开种花家",
-      "onboard_time": 1714551378,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46359,
