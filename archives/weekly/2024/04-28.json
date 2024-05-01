@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714552756365,
+  "endTime": 1714555216133,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -15,6 +15,14 @@
       "num": 7800346,
       "word": "梅龙高速塌陷已致19死30伤",
       "onboard_time": 1714533498,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3529579,
+      "num": 3559158,
+      "word": "梅大高速塌陷已致24人死亡",
+      "onboard_time": 1714554258,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -812,7 +820,7 @@
     },
     {
       "raw_hot": 929980,
-      "num": 507935,
+      "num": 738801,
       "word": "电脑C盘最恶心的四大毒瘤",
       "onboard_time": 1714547958,
       "rank": 36,
@@ -1443,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 683630,
+      "num": 683630,
+      "word": "薛之谦 你的汗好酸哦",
+      "onboard_time": 1714551679,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 682788,
       "num": 403944,
       "word": "Angelababy为冯德伦打call",
@@ -1884,7 +1900,7 @@
     },
     {
       "raw_hot": 556592,
-      "num": 375395,
+      "num": 376231,
       "word": "女子胎儿畸形引产后分手被要求退15万彩礼",
       "onboard_time": 1714541179,
       "rank": 22,
@@ -2025,6 +2041,14 @@
       "onboard_time": 1714277659,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526751,
+      "num": 203393,
+      "word": "云南偶遇Angelababy",
+      "onboard_time": 1714552578,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 526241,
@@ -2417,14 +2441,6 @@
       "onboard_time": 1714230560,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 464373,
-      "num": 464373,
-      "word": "薛之谦 你的汗好酸哦",
-      "onboard_time": 1714551679,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 464340,
@@ -2891,6 +2907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 399068,
+      "num": 399068,
+      "word": "梅龙高速去年也曾因塌方中断",
+      "onboard_time": 1714549998,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398923,
       "num": 377345,
       "word": "睡眠不足的9大表现",
@@ -3179,14 +3203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 357823,
-      "num": 357823,
-      "word": "梅龙高速去年也曾因塌方中断",
-      "onboard_time": 1714549998,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 357523,
       "num": 357523,
       "word": "闹钟没响",
@@ -3369,6 +3385,14 @@
       "onboard_time": 1714467797,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 332815,
+      "num": 332815,
+      "word": "2024年巴黎奥运会",
+      "onboard_time": 1714551137,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 331970,
@@ -3721,6 +3745,14 @@
       "onboard_time": 1714274719,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 308776,
+      "num": 191277,
+      "word": "堵车时第1辆车在干嘛",
+      "onboard_time": 1714553177,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306630,
@@ -4363,6 +4395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255328,
+      "num": 189883,
+      "word": "iPhone16有新工艺新配色",
+      "onboard_time": 1714553597,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 254630,
       "num": 242975,
       "word": "为什么男朋友总跟我追求公平",
@@ -4763,14 +4803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 238422,
-      "num": 238422,
-      "word": "2024年巴黎奥运会",
-      "onboard_time": 1714551137,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 237695,
       "num": 237695,
       "word": "赵雷 最后一次巡演",
@@ -4785,14 +4817,6 @@
       "onboard_time": 1714437318,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 237319,
-      "num": 203393,
-      "word": "云南偶遇Angelababy",
-      "onboard_time": 1714552578,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 236351,
@@ -4985,6 +5009,14 @@
       "onboard_time": 1714266200,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 227454,
+      "num": 227454,
+      "word": "华晨宇演唱会入场电影即视感",
+      "onboard_time": 1714553718,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 226966,
@@ -5593,6 +5625,14 @@
       "onboard_time": 1714458019,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204725,
+      "num": 204725,
+      "word": "我妻之死作者回应质疑",
+      "onboard_time": 1714552158,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204666,
@@ -6555,6 +6595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187652,
+      "num": 187652,
+      "word": "应急管理部派工作组赴梅大高速塌陷现场",
+      "onboard_time": 1714554617,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187552,
       "num": 187552,
       "word": "时代少年团MV",
@@ -7011,6 +7059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174934,
+      "num": 174934,
+      "word": "鞠婧祎薄荷曼波妆",
+      "onboard_time": 1714553776,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174827,
       "num": 155657,
       "word": "吴莫愁报名歌手",
@@ -7369,14 +7425,6 @@
       "onboard_time": 1714492518,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165233,
-      "num": 165233,
-      "word": "我妻之死作者回应质疑",
-      "onboard_time": 1714552158,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165137,
@@ -7755,6 +7803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155190,
+      "num": 155190,
+      "word": "五一哪都不去",
+      "onboard_time": 1714553658,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155160,
       "num": 155160,
       "word": "哥大学生占领教学楼",
@@ -7929,6 +7985,14 @@
       "onboard_time": 1714467857,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 151777,
+      "num": 151777,
+      "word": "谁懂大侦探收官案的含金量",
+      "onboard_time": 1714553838,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 151717,
@@ -8707,6 +8771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 135296,
+      "num": 135296,
+      "word": "维和防暴队彩蛋",
+      "onboard_time": 1714551018,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135259,
       "num": 135259,
       "word": "张新成同年拍摄的三个疯批角色",
@@ -9291,14 +9363,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 123611,
-      "num": 123611,
-      "word": "维和防暴队彩蛋",
-      "onboard_time": 1714551018,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 123492,
       "num": 123492,
       "word": "小水獭独有的撒娇技巧",
@@ -9321,6 +9385,14 @@
       "onboard_time": 1714357278,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 123274,
+      "num": 123274,
+      "word": "明日方舟logos",
+      "onboard_time": 1714553418,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 123058,
@@ -10091,6 +10163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94069,
+      "num": 94069,
+      "word": "华晨宇cue花傲天",
+      "onboard_time": 1714555158,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 93993,
       "num": 220360,
       "word": "日元汇率一度跌破160日元兑1美元",
@@ -10204,7 +10284,7 @@
     },
     {
       "raw_hot": 82586,
-      "num": 479981,
+      "num": 765812,
       "word": "今天致敬每一位劳动者",
       "onboard_time": 1714552098,
       "rank": 2,

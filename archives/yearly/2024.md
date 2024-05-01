@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/05/01 16:39:16
+本榜单时间：2024/01/01 00:21:05 ~ 2024/05/01 17:20:16
 </p>
 </blockquote>
 <p>
@@ -1089,6 +1089,12 @@ SM承认柳智敏恋情（热度：4051630）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A4%A7%E9%AB%98%E9%80%9F%E5%A1%8C%E9%99%B7%E5%B7%B2%E8%87%B424%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
+梅大高速塌陷已致24人死亡（热度：3529579）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%87%E4%BA%A7%E7%A7%91%E8%BF%8E%E6%9D%A5%E5%85%B3%E5%81%9C%E6%BD%AE%23" target="weibo">
 妇产科迎来关停潮（热度：3505714）
 </a>
@@ -1805,12 +1811,6 @@ Prada玄学（热度：3331937）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A%23" target="weibo">
 湖南卫视春晚（热度：2826219）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E7%98%A6%E4%B8%8B%E6%9D%A5%E5%92%8C%E5%BC%A0%E5%B0%8F%E6%96%90%E5%A5%BD%E5%83%8F%23" target="weibo">
-贾玲瘦下来和张小斐好像（热度：2823506）
 </a>
 </li>
 

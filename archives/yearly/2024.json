@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1714552756365,
+  "endTime": 1714555216133,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1435,6 +1435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 3529579,
+      "num": 3559158,
+      "word": "梅大高速塌陷已致24人死亡",
+      "onboard_time": 1714554258,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3505714,
       "num": 3505714,
       "word": "妇产科迎来关停潮",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1706960130,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2823506,
-      "num": 2823506,
-      "word": "贾玲瘦下来和张小斐好像",
-      "onboard_time": 1707557796,
-      "rank": 5,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

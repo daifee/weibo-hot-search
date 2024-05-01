@@ -1,0 +1,410 @@
+{
+  "runTime": 1714555216133,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3529579,
+        "num": 3559158,
+        "word": "梅大高速塌陷已致24人死亡",
+        "onboard_time": 1714554258,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846833,
+        "num": 846833,
+        "word": "五一假期是捅了人窝吧",
+        "onboard_time": 1714539017,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49750,
+        "num": 765812,
+        "word": "今天致敬每一位劳动者",
+        "onboard_time": 1714552098,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738801,
+        "num": 738801,
+        "word": "电脑C盘最恶心的四大毒瘤",
+        "onboard_time": 1714547958,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 683630,
+        "num": 683630,
+        "word": "薛之谦 你的汗好酸哦",
+        "onboard_time": 1714551679,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 454172,
+        "num": 454172,
+        "word": "内蒙古1.2万切糕事件反转",
+        "onboard_time": 1714546998,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399068,
+        "num": 399068,
+        "word": "梅龙高速去年也曾因塌方中断",
+        "onboard_time": 1714549998,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376231,
+        "num": 376231,
+        "word": "女子胎儿畸形引产后分手被要求退15万彩礼",
+        "onboard_time": 1714541179,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352111,
+        "num": 352111,
+        "word": "下午三点离职五点整个部门涨薪了",
+        "onboard_time": 1714534398,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149948,
+        "num": 338720,
+        "word": "自律儿子不爱学习但每天6点做饭",
+        "onboard_time": 1714539378,
+        "rank": 9,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 338054,
+        "num": 338054,
+        "word": "秦海璐 番茄小说代言人",
+        "onboard_time": 1714541358,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332815,
+        "num": 332815,
+        "word": "2024年巴黎奥运会",
+        "onboard_time": 1714551137,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310959,
+        "num": 310959,
+        "word": "Angelababy为冯德伦打call",
+        "onboard_time": 1714545559,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304197,
+        "num": 304197,
+        "word": "南雅被继兄侵犯",
+        "onboard_time": 1714541600,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302119,
+        "num": 302119,
+        "word": "美国六旬男子烧死妻子后自杀",
+        "onboard_time": 1714549277,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252282,
+        "num": 252282,
+        "word": "梅州回应梅大高速茶阳段发生塌方",
+        "onboard_time": 1714545318,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229446,
+        "num": 229446,
+        "word": "头上抠下来的黄色小颗粒是什么",
+        "onboard_time": 1714534398,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227454,
+        "num": 227454,
+        "word": "华晨宇演唱会入场电影即视感",
+        "onboard_time": 1714553718,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204725,
+        "num": 204725,
+        "word": "我妻之死作者回应质疑",
+        "onboard_time": 1714552158,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193426,
+        "num": 193426,
+        "word": "狐妖月红篇对打庆余年2",
+        "onboard_time": 1714539497,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 526751,
+        "num": 192907,
+        "word": "云南偶遇Angelababy",
+        "onboard_time": 1714552578,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465447,
+        "num": 192361,
+        "word": "李连杰女儿哈佛大学毕业",
+        "onboard_time": 1714549698,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308776,
+        "num": 191277,
+        "word": "堵车时第1辆车在干嘛",
+        "onboard_time": 1714553177,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288787,
+        "num": 190848,
+        "word": "蔡徐坤染发",
+        "onboard_time": 1714547417,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255328,
+        "num": 189883,
+        "word": "iPhone16有新工艺新配色",
+        "onboard_time": 1714553597,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 244376,
+        "num": 188696,
+        "word": "IVE 中国文化",
+        "onboard_time": 1714551318,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188619,
+        "num": 188619,
+        "word": "张钧甯 大家都去哪里捅人窝了",
+        "onboard_time": 1714547538,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187652,
+        "num": 187652,
+        "word": "应急管理部派工作组赴梅大高速塌陷现场",
+        "onboard_time": 1714554617,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186258,
+        "num": 186258,
+        "word": "26岁了人生第一次吃小龙虾",
+        "onboard_time": 1714542739,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 977990,
+        "num": 181033,
+        "word": "梅龙高速塌陷已致19死30伤",
+        "onboard_time": 1714533498,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174934,
+        "num": 174934,
+        "word": "鞠婧祎薄荷曼波妆",
+        "onboard_time": 1714553776,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155190,
+        "num": 155190,
+        "word": "五一哪都不去",
+        "onboard_time": 1714553658,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153598,
+        "num": 153598,
+        "word": "间谍窃取我国杂交水稻亲本种子",
+        "onboard_time": 1714487901,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151777,
+        "num": 151777,
+        "word": "谁懂大侦探收官案的含金量",
+        "onboard_time": 1714553838,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146484,
+        "num": 146484,
+        "word": "赵磊 歌手",
+        "onboard_time": 1714544600,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145185,
+        "num": 145185,
+        "word": "吉克隽逸公开200副自制美甲",
+        "onboard_time": 1714547357,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135296,
+        "num": 135296,
+        "word": "维和防暴队彩蛋",
+        "onboard_time": 1714551018,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131638,
+        "num": 131638,
+        "word": "电影票房",
+        "onboard_time": 1714540518,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128925,
+        "num": 128925,
+        "word": "IVE粉丝停止本次回归专辑团体代购",
+        "onboard_time": 1714544539,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124391,
+        "num": 124391,
+        "word": "每个宿舍都有自己的空调姐",
+        "onboard_time": 1714547779,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123274,
+        "num": 123274,
+        "word": "明日方舟logos",
+        "onboard_time": 1714553418,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114725,
+        "num": 114725,
+        "word": "没想到猫咖的猫也要开早会",
+        "onboard_time": 1714546998,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111671,
+        "num": 111671,
+        "word": "金秀贤金智媛杀青拥抱",
+        "onboard_time": 1714551738,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110948,
+        "num": 110948,
+        "word": "王珞丹辟谣和朱丹同母异父",
+        "onboard_time": 1714537877,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108030,
+        "num": 108030,
+        "word": "张婧仪素颜",
+        "onboard_time": 1714546579,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102856,
+        "num": 102856,
+        "word": "五一第一天就赶上生理期了",
+        "onboard_time": 1714542199,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102029,
+        "num": 102029,
+        "word": "林俊杰官宣下半年演唱会场次",
+        "onboard_time": 1714546098,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100341,
+        "num": 100341,
+        "word": "杨幂说真的不在意戏份",
+        "onboard_time": 1714547417,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94069,
+        "num": 94069,
+        "word": "华晨宇cue花傲天",
+        "onboard_time": 1714555158,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92235,
+        "num": 92235,
+        "word": "张韶涵演唱会淋雨带病演出",
+        "onboard_time": 1714549218,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向广大劳动群众致以节日祝贺#"
+    }
+  }
+}
