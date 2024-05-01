@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714577666924,
+  "endTime": 1714580547459,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1084408,
+      "num": 914742,
+      "word": "高铁三大酷刑",
+      "onboard_time": 1714575499,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1069308,
       "num": 406888,
       "word": "徐艺洋说吵架会被黄子韬拉黑",
@@ -161,14 +169,6 @@
       "onboard_time": 1714547958,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 914742,
-      "num": 914742,
-      "word": "高铁三大酷刑",
-      "onboard_time": 1714575499,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 888455,
@@ -336,6 +336,14 @@
       "word": "梅州回应梅大高速茶阳段发生塌方",
       "onboard_time": 1714545318,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625645,
+      "num": 625645,
+      "word": "江西赣州特斯拉",
+      "onboard_time": 1714576579,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -875,6 +883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 329851,
+      "num": 306547,
+      "word": "小米SU7全网首次大修",
+      "onboard_time": 1714575979,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 328238,
       "num": 258456,
       "word": "张婧仪素颜",
@@ -931,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306789,
+      "num": 306789,
+      "word": "初恋对中年人的杀伤力",
+      "onboard_time": 1714577058,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301623,
       "num": 301623,
       "word": "五月天香港",
@@ -985,14 +1009,6 @@
       "onboard_time": 1714546098,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 287931,
-      "num": 287931,
-      "word": "小米SU7全网首次大修",
-      "onboard_time": 1714575979,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 285775,
@@ -1187,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247044,
+      "num": 247044,
+      "word": "黄景瑜问谁给邓超下毒了",
+      "onboard_time": 1714576399,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 244935,
       "num": 207605,
       "word": "印尼女子9岁时去过丈夫二婚婚礼",
@@ -1259,14 +1283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235722,
-      "num": 235722,
-      "word": "江西赣州特斯拉",
-      "onboard_time": 1714576579,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234020,
       "num": 234020,
       "word": "T1战胜EST",
@@ -1328,14 +1344,6 @@
       "word": "维和防暴队",
       "onboard_time": 1714529477,
       "rank": 19,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 221175,
-      "num": 221175,
-      "word": "黄景瑜问谁给邓超下毒了",
-      "onboard_time": 1714576399,
-      "rank": 33,
       "category": "电影"
     },
     {
@@ -1747,14 +1755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 180538,
-      "num": 180538,
-      "word": "初恋对中年人的杀伤力",
-      "onboard_time": 1714577058,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180438,
       "num": 180438,
       "word": "星穹铁道演唱会直播",
@@ -1833,6 +1833,14 @@
       "onboard_time": 1714560079,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 173878,
+      "num": 173878,
+      "word": "陶昕然是甄嬛传的尺度担当",
+      "onboard_time": 1714578379,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 173405,
@@ -1971,6 +1979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163260,
+      "num": 163260,
+      "word": "aespa正规一辑视频预告",
+      "onboard_time": 1714579636,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160634,
       "num": 160634,
       "word": "芍药这么美还是中药换谁不迷糊",
@@ -2041,6 +2057,14 @@
       "onboard_time": 1714529718,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155289,
+      "num": 155289,
+      "word": "年龄六岁 工龄三年",
+      "onboard_time": 1714578678,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 155190,
@@ -2473,6 +2497,14 @@
       "onboard_time": 1714564038,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129876,
+      "num": 129876,
+      "word": "特斯拉",
+      "onboard_time": 1714577958,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129542,
@@ -3113,6 +3145,14 @@
       "onboard_time": 1714487960,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 77205,
+      "num": 77205,
+      "word": "济南偶遇吴倩",
+      "onboard_time": 1714580477,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 76141,
