@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714583821190,
+  "endTime": 1714584855574,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -11633,6 +11633,14 @@
       "onboard_time": 1714287319,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 59090,
+      "num": 59090,
+      "word": "热心市民龚俊黄景瑜",
+      "onboard_time": 1714583894,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 58156,
