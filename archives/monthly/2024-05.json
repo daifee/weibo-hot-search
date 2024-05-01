@@ -1,10 +1,10 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714540642020,
+  "endTime": 1714541661898,
   "band_list": [
     {
-      "raw_hot": 3548826,
-      "num": 3597652,
+      "raw_hot": 5870784,
+      "num": 7120784,
       "word": "梅龙高速塌陷已致19死30伤",
       "onboard_time": 1714533498,
       "rank": 0,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1015492,
+      "num": 416955,
+      "word": "梅州高速塌方目击者发声",
+      "onboard_time": 1714533016,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 870938,
       "num": 870938,
       "word": "日本或将进入单身税时代",
@@ -81,6 +89,14 @@
       "onboard_time": 1714521916,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 834146,
+      "num": 834146,
+      "word": "五一假期是捅了人窝吧",
+      "onboard_time": 1714539017,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 829946,
@@ -99,14 +115,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 737497,
-      "num": 416955,
-      "word": "梅州高速塌方目击者发声",
-      "onboard_time": 1714533016,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 728072,
       "num": 264959,
       "word": "徐艺洋上班",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 725987,
-      "num": 306059,
+      "num": 341943,
       "word": "王珞丹辟谣和朱丹同母异父",
       "onboard_time": 1714537877,
       "rank": 28,
@@ -153,14 +161,6 @@
       "onboard_time": 1714522876,
       "rank": 7,
       "category": "军事"
-    },
-    {
-      "raw_hot": 647802,
-      "num": 647802,
-      "word": "五一假期是捅了人窝吧",
-      "onboard_time": 1714539017,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 610269,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444162,
+      "num": 444162,
+      "word": "梅州高速塌方事故已救出31人",
+      "onboard_time": 1714540398,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428590,
       "num": 217871,
       "word": "耳鸣是身体在发出警告",
@@ -267,6 +275,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 412205,
+      "num": 412205,
+      "word": "狐妖月红篇对打庆余年2",
+      "onboard_time": 1714539497,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411349,
       "num": 411349,
       "word": "苹果正在修复iPhone闹钟不响问题",
@@ -299,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366410,
+      "num": 366410,
+      "word": "金智媛看过甄嬛传",
+      "onboard_time": 1714538657,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365531,
       "num": 162515,
       "word": "月经乱来16年竟查出癌前病变",
@@ -323,12 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356195,
-      "num": 356195,
-      "word": "金智媛看过甄嬛传",
-      "onboard_time": 1714538657,
-      "rank": 5,
-      "category": "剧集"
+      "raw_hot": 360361,
+      "num": 360361,
+      "word": "IVE新曲插画师 马王堆镇馆之宝",
+      "onboard_time": 1714539079,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 353185,
@@ -337,14 +361,6 @@
       "onboard_time": 1714531698,
       "rank": 15,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 352570,
-      "num": 352570,
-      "word": "狐妖月红篇对打庆余年2",
-      "onboard_time": 1714539497,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 347026,
@@ -371,12 +387,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 323800,
-      "num": 268270,
-      "word": "IVE新曲插画师 马王堆镇馆之宝",
-      "onboard_time": 1714539079,
-      "rank": 16,
-      "category": "音乐"
+      "raw_hot": 330535,
+      "num": 205158,
+      "word": "女子胎儿畸形引产后分手被要求退15万彩礼",
+      "onboard_time": 1714541179,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330303,
+      "num": 330303,
+      "word": "电影票房",
+      "onboard_time": 1714540518,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 320254,
@@ -659,6 +683,14 @@
       "category": "动漫,互联网"
     },
     {
+      "raw_hot": 208374,
+      "num": 208374,
+      "word": "梅州",
+      "onboard_time": 1714540578,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205794,
       "num": 267159,
       "word": "美国洛杉矶一地铁与校车相撞",
@@ -673,6 +705,22 @@
       "onboard_time": 1714539197,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203340,
+      "num": 183553,
+      "word": "秦海璐 番茄小说代言人",
+      "onboard_time": 1714541358,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203050,
+      "num": 203050,
+      "word": "韩红cos黄昏",
+      "onboard_time": 1714541358,
+      "rank": 24,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 202774,
@@ -713,6 +761,14 @@
       "onboard_time": 1714527018,
       "rank": 25,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 200596,
+      "num": 200596,
+      "word": "五月天发文回应香港演唱会中止",
+      "onboard_time": 1714540398,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 199975,
@@ -811,28 +867,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 181130,
-      "num": 181130,
-      "word": "电影票房",
-      "onboard_time": 1714540518,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 180873,
-      "num": 180873,
-      "word": "梅州高速塌方事故已救出31人",
-      "onboard_time": 1714540398,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178833,
       "num": 178833,
       "word": "成毅两大平台同时官宣",
       "onboard_time": 1714528336,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178111,
+      "num": 356135,
+      "word": "自律儿子不爱学习但每天6点做饭",
+      "onboard_time": 1714539378,
+      "rank": 9,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 173405,
@@ -865,14 +913,6 @@
       "onboard_time": 1714539137,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170372,
-      "num": 314154,
-      "word": "自律儿子不爱学习但每天6点做饭",
-      "onboard_time": 1714539378,
-      "rank": 9,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 168106,
@@ -993,14 +1033,6 @@
       "onboard_time": 1714539679,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151461,
-      "num": 151461,
-      "word": "五月天发文回应香港演唱会中止",
-      "onboard_time": 1714540398,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 150281,
@@ -1155,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131811,
+      "num": 131811,
+      "word": "女子称亲属在梅州高速塌方事故失联",
+      "onboard_time": 1714541358,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131001,
       "num": 264792,
       "word": "2套房京籍家庭可在五环外新购1套房",
@@ -1195,14 +1235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 124073,
-      "num": 124073,
-      "word": "梅州",
-      "onboard_time": 1714540578,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123455,
       "num": 123455,
       "word": "城中之城 赵辉跳楼",
@@ -1227,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121388,
+      "num": 121388,
+      "word": "广东梅龙高速路面塌陷请绕行",
+      "onboard_time": 1714541479,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121202,
       "num": 121202,
       "word": "孙千腹肌照",
@@ -1235,12 +1275,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120153,
+      "num": 120153,
+      "word": "假期前一天青岛栈桥已经被挤爆了",
+      "onboard_time": 1714541118,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 120112,
       "num": 120112,
       "word": "和死对头吵架突然亲我一口",
       "onboard_time": 1714485740,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118439,
+      "num": 118439,
+      "word": "南雅被继兄侵犯",
+      "onboard_time": 1714541600,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 118074,

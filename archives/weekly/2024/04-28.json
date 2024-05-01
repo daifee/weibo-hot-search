@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714540642020,
+  "endTime": 1714541661898,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3548826,
-      "num": 3597652,
+      "raw_hot": 5870784,
+      "num": 7120784,
       "word": "梅龙高速塌陷已致19死30伤",
       "onboard_time": 1714533498,
       "rank": 0,
@@ -715,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1015492,
+      "num": 416955,
+      "word": "梅州高速塌方目击者发声",
+      "onboard_time": 1714533016,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 983077,
       "num": 983077,
       "word": "iPhone充电切勿放枕头下",
@@ -995,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 834146,
+      "num": 834146,
+      "word": "五一假期是捅了人窝吧",
+      "onboard_time": 1714539017,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 829946,
       "num": 829946,
       "word": "低估了五一堵车的程度",
@@ -1155,14 +1171,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 737497,
-      "num": 416955,
-      "word": "梅州高速塌方目击者发声",
-      "onboard_time": 1714533016,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 734702,
       "num": 734702,
       "word": "芍药",
@@ -1204,7 +1212,7 @@
     },
     {
       "raw_hot": 725987,
-      "num": 306059,
+      "num": 341943,
       "word": "王珞丹辟谣和朱丹同母异父",
       "onboard_time": 1714537877,
       "rank": 28,
@@ -1513,14 +1521,6 @@
       "onboard_time": 1714296439,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 647802,
-      "num": 647802,
-      "word": "五一假期是捅了人窝吧",
-      "onboard_time": 1714539017,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 646918,
@@ -2451,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444162,
+      "num": 444162,
+      "word": "梅州高速塌方事故已救出31人",
+      "onboard_time": 1714540398,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439707,
       "num": 289238,
       "word": "为什么朋友圈里的东西都好高级",
@@ -2672,6 +2680,14 @@
       "word": "林更新赵露思或合作新剧",
       "onboard_time": 1714443500,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 412205,
+      "num": 412205,
+      "word": "狐妖月红篇对打庆余年2",
+      "onboard_time": 1714539497,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -2955,6 +2971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366410,
+      "num": 366410,
+      "word": "金智媛看过甄嬛传",
+      "onboard_time": 1714538657,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365828,
       "num": 365828,
       "word": "官方通报哈尔滨一小区楼体倾斜",
@@ -2985,6 +3009,14 @@
       "onboard_time": 1714316118,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360361,
+      "num": 360361,
+      "word": "IVE新曲插画师 马王堆镇馆之宝",
+      "onboard_time": 1714539079,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 359654,
@@ -3043,14 +3075,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 356195,
-      "num": 356195,
-      "word": "金智媛看过甄嬛传",
-      "onboard_time": 1714538657,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 355436,
       "num": 355436,
       "word": "内塔尼亚胡不停给拜登打电话",
@@ -3097,14 +3121,6 @@
       "onboard_time": 1714462577,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 352570,
-      "num": 352570,
-      "word": "狐妖月红篇对打庆余年2",
-      "onboard_time": 1714539497,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 351463,
@@ -3243,6 +3259,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330535,
+      "num": 205158,
+      "word": "女子胎儿畸形引产后分手被要求退15万彩礼",
+      "onboard_time": 1714541179,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330303,
+      "num": 330303,
+      "word": "电影票房",
+      "onboard_time": 1714540518,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 329856,
       "num": 329856,
       "word": "郭碧婷 人生不用太累",
@@ -3289,14 +3321,6 @@
       "onboard_time": 1714371739,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 323800,
-      "num": 268270,
-      "word": "IVE新曲插画师 马王堆镇馆之宝",
-      "onboard_time": 1714539079,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 323109,
@@ -5171,6 +5195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208374,
+      "num": 208374,
+      "word": "梅州",
+      "onboard_time": 1714540578,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208251,
       "num": 208251,
       "word": "韩维辰李瑞 CP感",
@@ -5411,6 +5443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203340,
+      "num": 183553,
+      "word": "秦海璐 番茄小说代言人",
+      "onboard_time": 1714541358,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203303,
       "num": 203303,
       "word": "警方通报初中生联合校外学生欺凌同学",
@@ -5425,6 +5465,14 @@
       "onboard_time": 1714445897,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203050,
+      "num": 203050,
+      "word": "韩红cos黄昏",
+      "onboard_time": 1714541358,
+      "rank": 24,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 203034,
@@ -5553,6 +5601,14 @@
       "onboard_time": 1714527018,
       "rank": 25,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 200596,
+      "num": 200596,
+      "word": "五月天发文回应香港演唱会中止",
+      "onboard_time": 1714540398,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 200403,
@@ -6555,22 +6611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181130,
-      "num": 181130,
-      "word": "电影票房",
-      "onboard_time": 1714540518,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 180873,
-      "num": 180873,
-      "word": "梅州高速塌方事故已救出31人",
-      "onboard_time": 1714540398,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180644,
       "num": 180644,
       "word": "国际不打小孩日",
@@ -6657,6 +6697,14 @@
       "onboard_time": 1714223060,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178111,
+      "num": 356135,
+      "word": "自律儿子不爱学习但每天6点做饭",
+      "onboard_time": 1714539378,
+      "rank": 9,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 178063,
@@ -6881,14 +6929,6 @@
       "onboard_time": 1714314681,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170372,
-      "num": 314154,
-      "word": "自律儿子不爱学习但每天6点做饭",
-      "onboard_time": 1714539378,
-      "rank": 9,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 170317,
@@ -7609,14 +7649,6 @@
       "onboard_time": 1714467857,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 151461,
-      "num": 151461,
-      "word": "五月天发文回应香港演唱会中止",
-      "onboard_time": 1714540398,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 151438,
@@ -8531,6 +8563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131811,
+      "num": 131811,
+      "word": "女子称亲属在梅州高速塌方事故失联",
+      "onboard_time": 1714541358,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131673,
       "num": 131673,
       "word": "种地吧 惊喜直播",
@@ -8907,14 +8947,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 124073,
-      "num": 124073,
-      "word": "梅州",
-      "onboard_time": 1714540578,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123492,
       "num": 123492,
       "word": "小水獭独有的撒娇技巧",
@@ -8979,6 +9011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121388,
+      "num": 121388,
+      "word": "广东梅龙高速路面塌陷请绕行",
+      "onboard_time": 1714541479,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121086,
       "num": 121086,
       "word": "苗苗一公舞台",
@@ -9001,6 +9041,14 @@
       "onboard_time": 1714285517,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120153,
+      "num": 120153,
+      "word": "假期前一天青岛栈桥已经被挤爆了",
+      "onboard_time": 1714541118,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 120034,
@@ -9065,6 +9113,14 @@
       "onboard_time": 1714461977,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118439,
+      "num": 118439,
+      "word": "南雅被继兄侵犯",
+      "onboard_time": 1714541600,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 118429,
