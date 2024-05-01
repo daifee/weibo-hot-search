@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714576721647,
+  "endTime": 1714577666924,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 946692,
+      "num": 478787,
+      "word": "赵小棠妈妈是先婚后爱",
+      "onboard_time": 1714574720,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 929980,
       "num": 738801,
       "word": "电脑C盘最恶心的四大毒瘤",
@@ -155,20 +163,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 914742,
+      "num": 914742,
+      "word": "高铁三大酷刑",
+      "onboard_time": 1714575499,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 888455,
-      "num": 339567,
+      "num": 433087,
       "word": "为什么现在叫谁都叫老师",
       "onboard_time": 1714570399,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 885287,
-      "num": 478787,
-      "word": "赵小棠妈妈是先婚后爱",
-      "onboard_time": 1714574720,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 870938,
@@ -179,7 +187,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 862221,
+      "raw_hot": 869916,
       "num": 268629,
       "word": "为什么男朋友会介意我婚前买房",
       "onboard_time": 1714573878,
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 616326,
+      "num": 470071,
+      "word": "aespa预告",
+      "onboard_time": 1714576700,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 610934,
       "num": 610934,
       "word": "五一长假不出游的三种人",
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 527743,
-      "num": 432852,
+      "num": 435053,
       "word": "白鹿曾舜晞吻脖子路透",
       "onboard_time": 1714574059,
       "rank": 25,
@@ -507,16 +523,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 453353,
-      "num": 335712,
-      "word": "高铁三大酷刑",
-      "onboard_time": 1714575499,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 452993,
-      "num": 334374,
+      "num": 337627,
       "word": "梅大高速塌陷货车司机夫妇喊停后车",
       "onboard_time": 1714571599,
       "rank": 18,
@@ -979,6 +987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 287931,
+      "num": 287931,
+      "word": "小米SU7全网首次大修",
+      "onboard_time": 1714575979,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 285775,
       "num": 285775,
       "word": "林俊杰巡演",
@@ -1227,11 +1243,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 239432,
+      "num": 239432,
+      "word": "ENHYPEN试听",
+      "onboard_time": 1714576818,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 236351,
       "num": 236351,
       "word": "网传江苏宿迁禁止打印店打印控告材料",
       "onboard_time": 1714495096,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235722,
+      "num": 235722,
+      "word": "江西赣州特斯拉",
+      "onboard_time": 1714576579,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1299,6 +1331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 221175,
+      "num": 221175,
+      "word": "黄景瑜问谁给邓超下毒了",
+      "onboard_time": 1714576399,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 220271,
       "num": 220271,
       "word": "胡明轩假摔",
@@ -1337,14 +1377,6 @@
       "onboard_time": 1714568539,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215218,
-      "num": 215218,
-      "word": "小米SU7全网首次大修",
-      "onboard_time": 1714575979,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 215173,
@@ -1715,6 +1747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180538,
+      "num": 180538,
+      "word": "初恋对中年人的杀伤力",
+      "onboard_time": 1714577058,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180438,
       "num": 180438,
       "word": "星穹铁道演唱会直播",
@@ -1785,14 +1825,6 @@
       "onboard_time": 1714553776,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174602,
-      "num": 174602,
-      "word": "黄景瑜问谁给邓超下毒了",
-      "onboard_time": 1714576399,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 174179,
@@ -1947,12 +1979,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 160016,
-      "num": 160016,
-      "word": "aespa预告",
-      "onboard_time": 1714576700,
-      "rank": 38,
-      "category": "音乐"
+      "raw_hot": 159532,
+      "num": 159532,
+      "word": "看哈尔滨一九四四拳头硬了",
+      "onboard_time": 1714577180,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 159363,
@@ -2347,14 +2379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135092,
-      "num": 135092,
-      "word": "江西赣州特斯拉",
-      "onboard_time": 1714576579,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134765,
       "num": 134765,
       "word": "王心凌 昆山",
@@ -2473,6 +2497,14 @@
       "onboard_time": 1714547958,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129062,
+      "num": 129062,
+      "word": "你心中的青春之歌",
+      "onboard_time": 1714576880,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129034,
@@ -2771,6 +2803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112682,
+      "num": 108072,
+      "word": "刘伟强说王一博动作戏很拼",
+      "onboard_time": 1714577599,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112592,
       "num": 112592,
       "word": "白羊座的成长史",
@@ -2785,6 +2825,14 @@
       "onboard_time": 1714536977,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112252,
+      "num": 112252,
+      "word": "高铁商务座的小桌板",
+      "onboard_time": 1714577478,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 112103,
@@ -3251,7 +3299,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 7628,
+      "raw_hot": 9376,
       "num": 815399,
       "word": "文化中国行",
       "onboard_time": 1713927617,
@@ -3274,6 +3322,9 @@
     },
     {
       "word": "#习近平复信斯梅戴雷沃钢厂职工#"
+    },
+    {
+      "word": "#一切幸福都需要靠辛勤的劳动来创造#"
     }
   ]
 }
