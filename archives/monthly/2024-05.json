@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714570462706,
+  "endTime": 1714573113439,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -51,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1472837,
+      "num": 249834,
+      "word": "如家酒店被曝花洒现粪便状异物",
+      "onboard_time": 1714566978,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1385148,
       "num": 1133449,
       "word": "没有应届生身份死不了的",
@@ -67,19 +75,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1295011,
+      "num": 1295011,
+      "word": "日本男演员涉华人夫妇焚尸案被捕",
+      "onboard_time": 1714568718,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1255650,
       "num": 1224866,
       "word": "梅州高速塌方",
       "onboard_time": 1714523716,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1235344,
-      "num": 246808,
-      "word": "如家酒店被曝花洒现粪便状异物",
-      "onboard_time": 1714566978,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -171,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 821780,
+      "num": 821780,
+      "word": "庆余年2 超前观影",
+      "onboard_time": 1714569199,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 803158,
       "num": 803158,
       "word": "内蒙古1.2万切糕事件反转",
@@ -193,6 +209,14 @@
       "onboard_time": 1714556178,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 747205,
+      "num": 295561,
+      "word": "为什么现在叫谁都叫老师",
+      "onboard_time": 1714570399,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 737084,
@@ -225,22 +249,6 @@
       "onboard_time": 1714533377,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 707095,
-      "num": 321140,
-      "word": "日本男演员涉华人夫妇焚尸案被捕",
-      "onboard_time": 1714568718,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 691622,
-      "num": 691622,
-      "word": "庆余年2 超前观影",
-      "onboard_time": 1714569199,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 683630,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 663867,
-      "num": 246188,
+      "num": 249127,
       "word": "孙怡素颜泳装照",
       "onboard_time": 1714565598,
       "rank": 20,
@@ -315,6 +323,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 585873,
+      "num": 585873,
+      "word": "医院称全县救护车都去了事故现场",
+      "onboard_time": 1714569799,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556592,
       "num": 376231,
       "word": "女子胎儿畸形引产后分手被要求退15万彩礼",
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 544658,
-      "num": 245427,
+      "num": 247290,
       "word": "梅州高速塌方一女子5名亲人失联",
       "onboard_time": 1714566198,
       "rank": 24,
@@ -377,6 +393,14 @@
       "onboard_time": 1714534398,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 512297,
+      "num": 512297,
+      "word": "庆余年2",
+      "onboard_time": 1714571360,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 507736,
@@ -515,6 +539,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 415608,
+      "num": 332319,
+      "word": "梅大高速事故现场记者几度哽咽",
+      "onboard_time": 1714568359,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413449,
       "num": 413449,
       "word": "这是国产剧能看到的尺度吗",
@@ -584,14 +616,6 @@
       "word": "梅龙高速去年也曾因塌方中断",
       "onboard_time": 1714549998,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 394234,
-      "num": 332319,
-      "word": "梅大高速事故现场记者几度哽咽",
-      "onboard_time": 1714568359,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -675,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361308,
+      "num": 280128,
+      "word": "边伯贤SM新厂牌logo相似",
+      "onboard_time": 1714570819,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360361,
       "num": 360361,
       "word": "IVE新曲插画师 马王堆镇馆之宝",
@@ -715,6 +747,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 341853,
+      "num": 277024,
+      "word": "女伴舞",
+      "onboard_time": 1714569618,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 341229,
+      "num": 341229,
+      "word": "胡明轩踢到赵继伟",
+      "onboard_time": 1714570700,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 339323,
       "num": 339323,
       "word": "养猫的和不养猫的都沉默了",
@@ -753,14 +801,6 @@
       "onboard_time": 1714546579,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323174,
-      "num": 273679,
-      "word": "医院称全县救护车都去了事故现场",
-      "onboard_time": 1714569799,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320254,
@@ -835,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300158,
+      "num": 300158,
+      "word": "赵昭仪问张翰你是不是爱吃牛肉",
+      "onboard_time": 1714572020,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299879,
       "num": 264723,
       "word": "纪凌尘 你别再演了",
@@ -904,6 +952,22 @@
       "word": "福宝将结束隔离",
       "onboard_time": 1714555878,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278892,
+      "num": 248399,
+      "word": "迪丽热巴美式证件照",
+      "onboard_time": 1714572079,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 274949,
+      "num": 274949,
+      "word": "梅大高速塌陷货车司机夫妇喊停后车",
+      "onboard_time": 1714571599,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1091,6 +1155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 240769,
+      "num": 240769,
+      "word": "女儿要喝奶茶我说她爱慕虚荣",
+      "onboard_time": 1714572020,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240659,
       "num": 155094,
       "word": "医生让你查幽门螺旋杆菌是真想救你",
@@ -1171,14 +1243,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 220912,
-      "num": 220912,
-      "word": "女伴舞",
-      "onboard_time": 1714569618,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 218348,
       "num": 218348,
       "word": "维和防暴队剧情",
@@ -1235,6 +1299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210991,
+      "num": 210991,
+      "word": "在大学情商不高的表现",
+      "onboard_time": 1714571599,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 209531,
       "num": 209531,
       "word": "明日方舟",
@@ -1267,8 +1339,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206451,
-      "num": 168669,
+      "raw_hot": 207069,
+      "num": 207069,
       "word": "梅龙高速塌陷现场航拍画面",
       "onboard_time": 1714570399,
       "rank": 30,
@@ -1747,6 +1819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161830,
+      "num": 161830,
+      "word": "大侦探 内娱无代餐",
+      "onboard_time": 1714572800,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160634,
       "num": 160634,
       "word": "芍药这么美还是中药换谁不迷糊",
@@ -1963,6 +2043,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145865,
+      "num": 212009,
+      "word": "福宝翘jiojio啃大苹果超萌",
+      "onboard_time": 1714570939,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145396,
+      "num": 145396,
+      "word": "哈尔滨一九四四 反转",
+      "onboard_time": 1714570220,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145227,
       "num": 145227,
       "word": "腾讯视频5月大剧片单",
@@ -2099,6 +2195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135096,
+      "num": 135096,
+      "word": "成都蓉城2比2武汉三镇",
+      "onboard_time": 1714572980,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134765,
       "num": 134765,
       "word": "王心凌 昆山",
@@ -2131,14 +2235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134333,
-      "num": 134333,
-      "word": "为什么现在叫谁都叫老师",
-      "onboard_time": 1714570399,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 134078,
       "num": 134078,
       "word": "张镇麟隔扣徐昕",
@@ -2153,6 +2249,14 @@
       "onboard_time": 1714459818,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132008,
+      "num": 132008,
+      "word": "辽宁男篮1比0广东男篮",
+      "onboard_time": 1714571540,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 131890,
@@ -2241,14 +2345,6 @@
       "onboard_time": 1714559539,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 127889,
-      "num": 127889,
-      "word": "哈尔滨一九四四 反转",
-      "onboard_time": 1714570220,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 124145,
@@ -2587,6 +2683,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107585,
+      "num": 107585,
+      "word": "京东VG正在连接",
+      "onboard_time": 1714571599,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107494,
       "num": 107494,
       "word": "喝水后出现4种异常或是肾脏在求救",
@@ -2625,6 +2729,14 @@
       "onboard_time": 1714560198,
       "rank": 45,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 105168,
+      "num": 105168,
+      "word": "辽宁男篮犯规",
+      "onboard_time": 1714571961,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 104065,
@@ -2969,6 +3081,14 @@
       "onboard_time": 1714508171,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 5705,
+      "num": 815399,
+      "word": "文化中国行",
+      "onboard_time": 1713927617,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

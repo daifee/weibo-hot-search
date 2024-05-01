@@ -1,0 +1,410 @@
+{
+  "runTime": 1714573113439,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1295011,
+        "num": 1295011,
+        "word": "日本男演员涉华人夫妇焚尸案被捕",
+        "onboard_time": 1714568718,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821780,
+        "num": 821780,
+        "word": "庆余年2 超前观影",
+        "onboard_time": 1714569199,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5705,
+        "num": 815399,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812920,
+        "num": 812920,
+        "word": "买房千万不要买挨着公园的",
+        "onboard_time": 1714564338,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 585873,
+        "num": 585873,
+        "word": "医院称全县救护车都去了事故现场",
+        "onboard_time": 1714569799,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512297,
+        "num": 512297,
+        "word": "庆余年2",
+        "onboard_time": 1714571360,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429392,
+        "num": 429392,
+        "word": "外卖小哥陪瘫痪女子吃饭多年直到女子离世",
+        "onboard_time": 1714568359,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372099,
+        "num": 372099,
+        "word": "电脑C盘最恶心的四大毒瘤",
+        "onboard_time": 1714547958,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 341229,
+        "num": 341229,
+        "word": "胡明轩踢到赵继伟",
+        "onboard_time": 1714570700,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300158,
+        "num": 300158,
+        "word": "赵昭仪问张翰你是不是爱吃牛肉",
+        "onboard_time": 1714572020,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1595213,
+        "num": 299713,
+        "word": "梅大高速塌陷已致24人死亡",
+        "onboard_time": 1714554258,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747205,
+        "num": 295561,
+        "word": "为什么现在叫谁都叫老师",
+        "onboard_time": 1714570399,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 663989,
+        "num": 292854,
+        "word": "医院已确认梅龙高速塌方伤者身份",
+        "onboard_time": 1714556117,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641763,
+        "num": 290327,
+        "word": "徐艺洋说吵架会被黄子韬拉黑",
+        "onboard_time": 1714562959,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 584173,
+        "num": 285034,
+        "word": "陈牧驰 央视五一晚会",
+        "onboard_time": 1714568539,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 415608,
+        "num": 281434,
+        "word": "梅大高速事故现场记者几度哽咽",
+        "onboard_time": 1714568359,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361308,
+        "num": 280128,
+        "word": "边伯贤SM新厂牌logo相似",
+        "onboard_time": 1714570819,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341853,
+        "num": 277024,
+        "word": "女伴舞",
+        "onboard_time": 1714569618,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274949,
+        "num": 274949,
+        "word": "梅大高速塌陷货车司机夫妇喊停后车",
+        "onboard_time": 1714571599,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250232,
+        "num": 250232,
+        "word": "张翰彻底放开了",
+        "onboard_time": 1714559598,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1472837,
+        "num": 249834,
+        "word": "如家酒店被曝花洒现粪便状异物",
+        "onboard_time": 1714566978,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384309,
+        "num": 249127,
+        "word": "孙怡素颜泳装照",
+        "onboard_time": 1714565598,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278892,
+        "num": 248399,
+        "word": "迪丽热巴美式证件照",
+        "onboard_time": 1714572079,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254907,
+        "num": 247290,
+        "word": "梅州高速塌方一女子5名亲人失联",
+        "onboard_time": 1714566198,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247219,
+        "num": 247219,
+        "word": "张杰第一场演唱会第一首歌",
+        "onboard_time": 1714566679,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240769,
+        "num": 240769,
+        "word": "女儿要喝奶茶我说她爱慕虚荣",
+        "onboard_time": 1714572020,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232112,
+        "num": 232112,
+        "word": "王一博cos布布",
+        "onboard_time": 1714565959,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227899,
+        "num": 227899,
+        "word": "五一假期是捅了人窝吧",
+        "onboard_time": 1714539017,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222005,
+        "num": 222005,
+        "word": "张韶涵演唱会淋雨带病演出",
+        "onboard_time": 1714549218,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145865,
+        "num": 212009,
+        "word": "福宝翘jiojio啃大苹果超萌",
+        "onboard_time": 1714570939,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210991,
+        "num": 210991,
+        "word": "在大学情商不高的表现",
+        "onboard_time": 1714571599,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207069,
+        "num": 207069,
+        "word": "梅龙高速塌陷现场航拍画面",
+        "onboard_time": 1714570399,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161830,
+        "num": 161830,
+        "word": "大侦探 内娱无代餐",
+        "onboard_time": 1714572800,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202178,
+        "num": 159880,
+        "word": "张韶涵 敬业",
+        "onboard_time": 1714564519,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156087,
+        "num": 156087,
+        "word": "童瑶张新成裸泳镜头",
+        "onboard_time": 1714559359,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146630,
+        "num": 146630,
+        "word": "塌方灾害中他第一时间下车救起6人",
+        "onboard_time": 1714568539,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145396,
+        "num": 145396,
+        "word": "哈尔滨一九四四 反转",
+        "onboard_time": 1714570220,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144040,
+        "num": 144040,
+        "word": "邓超请100个人看杨幂新电影",
+        "onboard_time": 1714557258,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136732,
+        "num": 136732,
+        "word": "Angelababy明媚",
+        "onboard_time": 1714566259,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135096,
+        "num": 135096,
+        "word": "成都蓉城2比2武汉三镇",
+        "onboard_time": 1714572980,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133615,
+        "num": 133615,
+        "word": "多家媒体发了王一博",
+        "onboard_time": 1714567819,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132008,
+        "num": 132008,
+        "word": "辽宁男篮1比0广东男篮",
+        "onboard_time": 1714571540,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128220,
+        "num": 128220,
+        "word": "王石放弃万科千万退休金",
+        "onboard_time": 1714564878,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131634,
+        "num": 127961,
+        "word": "云南偶遇Angelababy",
+        "onboard_time": 1714552578,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127692,
+        "num": 127692,
+        "word": "福宝",
+        "onboard_time": 1714556178,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123345,
+        "num": 123345,
+        "word": "赵昭仪演爽了",
+        "onboard_time": 1714567458,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120134,
+        "num": 120134,
+        "word": "维和防暴队剧情",
+        "onboard_time": 1714556899,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116382,
+        "num": 116382,
+        "word": "是研究生就会懂这五分钟的含金量",
+        "onboard_time": 1714559898,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107585,
+        "num": 107585,
+        "word": "京东VG正在连接",
+        "onboard_time": 1714571599,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105168,
+        "num": 105168,
+        "word": "辽宁男篮犯规",
+        "onboard_time": 1714571961,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信斯梅戴雷沃钢厂职工#"
+    }
+  }
+}
