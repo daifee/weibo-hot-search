@@ -1,0 +1,410 @@
+{
+  "runTime": 1714559890394,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4848494,
+        "num": 5056411,
+        "word": "梅大高速塌陷已致24人死亡",
+        "onboard_time": 1714554258,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1595330,
+        "num": 1595330,
+        "word": "医院已确认梅龙高速塌方伤者身份",
+        "onboard_time": 1714556117,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51473,
+        "num": 990658,
+        "word": "今天致敬每一位劳动者",
+        "onboard_time": 1714552098,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757551,
+        "num": 757551,
+        "word": "福宝",
+        "onboard_time": 1714556178,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662836,
+        "num": 662836,
+        "word": "电脑C盘最恶心的四大毒瘤",
+        "onboard_time": 1714547958,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 569466,
+        "num": 569466,
+        "word": "五一假期是捅了人窝吧",
+        "onboard_time": 1714539017,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 466630,
+        "num": 466630,
+        "word": "邓超请100个人看杨幂新电影",
+        "onboard_time": 1714557258,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 364063,
+        "num": 364063,
+        "word": "五一长假不出游的三种人",
+        "onboard_time": 1714558401,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 89996,
+        "num": 355800,
+        "word": "自律儿子不爱学习但每天6点做饭",
+        "onboard_time": 1714539378,
+        "rank": 8,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 135529,
+        "num": 355314,
+        "word": "爸爸为女儿在回家路旁种满鲜花",
+        "onboard_time": 1714556478,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355240,
+        "num": 355240,
+        "word": "下午三点离职五点整个部门涨薪了",
+        "onboard_time": 1714534398,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286876,
+        "num": 286876,
+        "word": "薛之谦 你的汗好酸哦",
+        "onboard_time": 1714551679,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 268443,
+        "num": 268443,
+        "word": "沈腾又吃到贾冰做的饭了",
+        "onboard_time": 1714558099,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261689,
+        "num": 261689,
+        "word": "那英说录声生不息哭得乱七八糟",
+        "onboard_time": 1714557979,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245862,
+        "num": 245862,
+        "word": "内蒙古1.2万切糕事件反转",
+        "onboard_time": 1714546998,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242152,
+        "num": 242152,
+        "word": "美73岁儿科医生强奸8岁女童判50年",
+        "onboard_time": 1714558401,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237432,
+        "num": 237432,
+        "word": "秦海璐 番茄小说代言人",
+        "onboard_time": 1714541358,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233533,
+        "num": 233533,
+        "word": "女子胎儿畸形引产后分手被要求退15万彩礼",
+        "onboard_time": 1714541179,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218546,
+        "num": 218546,
+        "word": "张翰彻底放开了",
+        "onboard_time": 1714559598,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210944,
+        "num": 210944,
+        "word": "维和防暴队剧情",
+        "onboard_time": 1714556899,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 448264,
+        "num": 210148,
+        "word": "云南偶遇Angelababy",
+        "onboard_time": 1714552578,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405316,
+        "num": 209448,
+        "word": "吴倩原相机直出",
+        "onboard_time": 1714556720,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227953,
+        "num": 207227,
+        "word": "李连杰女儿哈佛大学毕业",
+        "onboard_time": 1714549698,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227010,
+        "num": 206053,
+        "word": "堵车时第1辆车在干嘛",
+        "onboard_time": 1714553177,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205384,
+        "num": 205384,
+        "word": "iPhone16有新工艺新配色",
+        "onboard_time": 1714553597,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 204726,
+        "num": 204726,
+        "word": "蔡徐坤染发",
+        "onboard_time": 1714547417,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199155,
+        "num": 199155,
+        "word": "梅龙高速去年也曾因塌方中断",
+        "onboard_time": 1714549998,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199090,
+        "num": 199090,
+        "word": "福宝将结束隔离",
+        "onboard_time": 1714555878,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196061,
+        "num": 196061,
+        "word": "金道英solo初一位",
+        "onboard_time": 1714558999,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189691,
+        "num": 189691,
+        "word": "邢菲穿古装开车",
+        "onboard_time": 1714557258,
+        "rank": 29,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 187911,
+        "num": 187911,
+        "word": "景区路边摊的臭豆腐到底有多脏",
+        "onboard_time": 1714556839,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 178123,
+        "num": 178123,
+        "word": "穿过月亮的旅行 生理性喜欢",
+        "onboard_time": 1714558640,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157340,
+        "num": 157340,
+        "word": "嫦娥六号发射定在5月3日",
+        "onboard_time": 1714558999,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155572,
+        "num": 155572,
+        "word": "童瑶张新成裸泳镜头",
+        "onboard_time": 1714559359,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129017,
+        "num": 129017,
+        "word": "相信音乐",
+        "onboard_time": 1714557678,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145965,
+        "num": 128828,
+        "word": "南雅被继兄侵犯",
+        "onboard_time": 1714541600,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128098,
+        "num": 128098,
+        "word": "狐妖月红篇对打庆余年2",
+        "onboard_time": 1714539497,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127928,
+        "num": 127928,
+        "word": "seventeen新歌与青环5好搭",
+        "onboard_time": 1714559539,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126784,
+        "num": 126784,
+        "word": "头上抠下来的黄色小颗粒是什么",
+        "onboard_time": 1714534398,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126483,
+        "num": 126483,
+        "word": "黄景瑜说不敢认领拍军警是统治区",
+        "onboard_time": 1714559719,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124978,
+        "num": 124978,
+        "word": "九龙城寨",
+        "onboard_time": 1714556058,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124487,
+        "num": 124487,
+        "word": "Angelababy为冯德伦打call",
+        "onboard_time": 1714545559,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123747,
+        "num": 123747,
+        "word": "韩信偷塔偷到广州塔",
+        "onboard_time": 1714559239,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117477,
+        "num": 117477,
+        "word": "赵磊 歌手",
+        "onboard_time": 1714544600,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115547,
+        "num": 115547,
+        "word": "2024五一档电影口碑",
+        "onboard_time": 1714555458,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115036,
+        "num": 115036,
+        "word": "梅大高速",
+        "onboard_time": 1714557078,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111234,
+        "num": 111234,
+        "word": "谁懂大侦探收官案的含金量",
+        "onboard_time": 1714553838,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109523,
+        "num": 109523,
+        "word": "丁程鑫空降了时代少年团超话",
+        "onboard_time": 1714559838,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108475,
+        "num": 108475,
+        "word": "王一博一条视频四项运动",
+        "onboard_time": 1714556117,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107411,
+        "num": 107411,
+        "word": "26岁了人生第一次吃小龙虾",
+        "onboard_time": 1714542739,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

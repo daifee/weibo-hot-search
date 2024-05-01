@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714558887008,
+  "endTime": 1714559890394,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1595330,
+      "num": 1595330,
+      "word": "医院已确认梅龙高速塌方伤者身份",
+      "onboard_time": 1714556117,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1561241,
       "num": 1561241,
       "word": "郑佩佩 我想她了",
@@ -280,14 +288,6 @@
       "word": "调休",
       "onboard_time": 1714260737,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1406793,
-      "num": 1406793,
-      "word": "医院已确认梅龙高速塌方伤者身份",
-      "onboard_time": 1714556117,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1187,6 +1187,14 @@
       "category": "军事,国内时政"
     },
     {
+      "raw_hot": 757551,
+      "num": 757551,
+      "word": "福宝",
+      "onboard_time": 1714556178,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 756156,
       "num": 235928,
       "word": "卖淫女接宾馆老板报信上天台躲避坠亡",
@@ -1321,14 +1329,6 @@
       "onboard_time": 1714318997,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 702473,
-      "num": 702473,
-      "word": "福宝",
-      "onboard_time": 1714556178,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 700907,
@@ -2435,6 +2435,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 466630,
+      "num": 466630,
+      "word": "邓超请100个人看杨幂新电影",
+      "onboard_time": 1714557258,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 465977,
       "num": 507345,
       "word": "李现周雨彤喉结吻",
@@ -2883,6 +2891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 405316,
+      "num": 212693,
+      "word": "吴倩原相机直出",
+      "onboard_time": 1714556720,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403892,
       "num": 403892,
       "word": "神十七顺利撤离空间站",
@@ -2947,14 +2963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 389501,
-      "num": 212693,
-      "word": "吴倩原相机直出",
-      "onboard_time": 1714556720,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 388058,
       "num": 388058,
       "word": "本周狗屎运最旺的星座",
@@ -2977,14 +2985,6 @@
       "onboard_time": 1714469897,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 386581,
-      "num": 386581,
-      "word": "邓超请100个人看杨幂新电影",
-      "onboard_time": 1714557258,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 386400,
@@ -3161,6 +3161,14 @@
       "onboard_time": 1714267221,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364063,
+      "num": 364063,
+      "word": "五一长假不出游的三种人",
+      "onboard_time": 1714558401,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 363374,
@@ -4251,6 +4259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 268443,
+      "num": 268443,
+      "word": "沈腾又吃到贾冰做的饭了",
+      "onboard_time": 1714558099,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 267973,
       "num": 267973,
       "word": "林俊杰官方APP公司被告",
@@ -4355,8 +4371,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 261689,
+      "num": 261689,
+      "word": "那英说录声生不息哭得乱七八糟",
+      "onboard_time": 1714557979,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260892,
-      "num": 204743,
+      "num": 205384,
       "word": "iPhone16有新工艺新配色",
       "onboard_time": 1714553597,
       "rank": 24,
@@ -4441,14 +4465,6 @@
       "onboard_time": 1714336750,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 255000,
-      "num": 255000,
-      "word": "五一长假不出游的三种人",
-      "onboard_time": 1714558401,
-      "rank": 14,
-      "category": "旅游"
     },
     {
       "raw_hot": 254630,
@@ -4811,6 +4827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242152,
+      "num": 242152,
+      "word": "美73岁儿科医生强奸8岁女童判50年",
+      "onboard_time": 1714558401,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242004,
       "num": 242004,
       "word": "老头杯",
@@ -5009,14 +5033,6 @@
       "onboard_time": 1714437439,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 230390,
-      "num": 230390,
-      "word": "沈腾又吃到贾冰做的饭了",
-      "onboard_time": 1714558099,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 230381,
@@ -5233,6 +5249,14 @@
       "onboard_time": 1714299798,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 218546,
+      "num": 218546,
+      "word": "张翰彻底放开了",
+      "onboard_time": 1714559598,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 218354,
@@ -6131,14 +6155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196524,
-      "num": 196524,
-      "word": "那英说录声生不息哭得乱七八糟",
-      "onboard_time": 1714557979,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196473,
       "num": 196473,
       "word": "RW锁定败者组",
@@ -6177,6 +6193,14 @@
       "onboard_time": 1714218378,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196061,
+      "num": 196061,
+      "word": "金道英solo初一位",
+      "onboard_time": 1714558999,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 195378,
@@ -6531,6 +6555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 189691,
+      "num": 189691,
+      "word": "邢菲穿古装开车",
+      "onboard_time": 1714557258,
+      "rank": 28,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 189430,
       "num": 189430,
       "word": "张韶涵昆山演唱会",
@@ -6643,6 +6675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187911,
+      "num": 187911,
+      "word": "景区路边摊的臭豆腐到底有多脏",
+      "onboard_time": 1714556839,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 187854,
       "num": 191741,
       "word": "五一旅游",
@@ -6745,14 +6785,6 @@
       "onboard_time": 1714290318,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 185641,
-      "num": 185641,
-      "word": "邢菲穿古装开车",
-      "onboard_time": 1714557258,
-      "rank": 28,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 185486,
@@ -7081,6 +7113,14 @@
       "onboard_time": 1714223060,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178123,
+      "num": 178123,
+      "word": "穿过月亮的旅行 生理性喜欢",
+      "onboard_time": 1714558640,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 178063,
@@ -7683,14 +7723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159308,
-      "num": 159308,
-      "word": "景区路边摊的臭豆腐到底有多脏",
-      "onboard_time": 1714556839,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 158906,
       "num": 158906,
       "word": "为什么听到父母的关心会烦躁",
@@ -7811,6 +7843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 157340,
+      "num": 157340,
+      "word": "嫦娥六号发射定在5月3日",
+      "onboard_time": 1714558999,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157308,
       "num": 157308,
       "word": "原来KSG是这样学英语的",
@@ -7905,6 +7945,14 @@
       "onboard_time": 1714462277,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 155572,
+      "num": 155572,
+      "word": "童瑶张新成裸泳镜头",
+      "onboard_time": 1714559359,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 155490,
@@ -8875,6 +8923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135529,
+      "num": 369942,
+      "word": "爸爸为女儿在回家路旁种满鲜花",
+      "onboard_time": 1714556478,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135397,
       "num": 135397,
       "word": "肖战街头大片",
@@ -9355,20 +9411,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128272,
-      "num": 128272,
-      "word": "穿过月亮的旅行 生理性喜欢",
-      "onboard_time": 1714558640,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 128046,
       "num": 128046,
       "word": "Gumayusi国服ID小吕布",
       "onboard_time": 1714462998,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127928,
+      "num": 127928,
+      "word": "seventeen新歌与青环5好搭",
+      "onboard_time": 1714559539,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 127633,
@@ -9425,6 +9481,14 @@
       "onboard_time": 1714394079,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 126483,
+      "num": 126483,
+      "word": "黄景瑜说不敢认领拍军警是统治区",
+      "onboard_time": 1714559719,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 126139,
@@ -9499,6 +9563,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 123747,
+      "num": 123747,
+      "word": "韩信偷塔偷到广州塔",
+      "onboard_time": 1714559239,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123492,
       "num": 123492,
       "word": "小水獭独有的撒娇技巧",
@@ -9536,14 +9608,6 @@
       "word": "第一次见这么肥美的大熊猫",
       "onboard_time": 1714246692,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123001,
-      "num": 369942,
-      "word": "爸爸为女儿在回家路旁种满鲜花",
-      "onboard_time": 1714556478,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -10003,6 +10067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 109523,
+      "num": 109523,
+      "word": "丁程鑫空降了时代少年团超话",
+      "onboard_time": 1714559838,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109438,
       "num": 109438,
       "word": "FPX.ZQ对战Wolves",
@@ -10427,14 +10499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86440,
-      "num": 216232,
-      "word": "美73岁儿科医生强奸8岁女童判50年",
-      "onboard_time": 1714558401,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85810,
       "num": 219677,
       "word": "蛋搭子的贴贴日常",
@@ -10460,7 +10524,7 @@
     },
     {
       "raw_hot": 82586,
-      "num": 831480,
+      "num": 990658,
       "word": "今天致敬每一位劳动者",
       "onboard_time": 1714552098,
       "rank": 2,

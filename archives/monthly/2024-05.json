@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714558887008,
+  "endTime": 1714559890394,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1595330,
+      "num": 1595330,
+      "word": "医院已确认梅龙高速塌方伤者身份",
+      "onboard_time": 1714556117,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1545383,
       "num": 657851,
       "word": "下午三点离职五点整个部门涨薪了",
       "onboard_time": 1714534398,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1406793,
-      "num": 1406793,
-      "word": "医院已确认梅龙高速塌方伤者身份",
-      "onboard_time": 1714556117,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1385148,
@@ -155,6 +155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 757551,
+      "num": 757551,
+      "word": "福宝",
+      "onboard_time": 1714556178,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728072,
       "num": 264959,
       "word": "徐艺洋上班",
@@ -176,14 +184,6 @@
       "word": "花花和爷爷又谭崩了",
       "onboard_time": 1714533377,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 702473,
-      "num": 702473,
-      "word": "福宝",
-      "onboard_time": 1714556178,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -339,6 +339,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 466630,
+      "num": 466630,
+      "word": "邓超请100个人看杨幂新电影",
+      "onboard_time": 1714557258,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 465610,
       "num": 465610,
       "word": "梅州高速塌方事故已救出31人",
@@ -435,6 +443,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 405316,
+      "num": 212693,
+      "word": "吴倩原相机直出",
+      "onboard_time": 1714556720,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 402880,
       "num": 157284,
       "word": "突然感觉朋友圈发什么都很幼稚了",
@@ -449,22 +465,6 @@
       "onboard_time": 1714549998,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 389501,
-      "num": 212693,
-      "word": "吴倩原相机直出",
-      "onboard_time": 1714556720,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 386581,
-      "num": 386581,
-      "word": "邓超请100个人看杨幂新电影",
-      "onboard_time": 1714557258,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 379238,
@@ -505,6 +505,14 @@
       "onboard_time": 1714476257,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 364063,
+      "num": 364063,
+      "word": "五一长假不出游的三种人",
+      "onboard_time": 1714558401,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 363374,
@@ -739,6 +747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 268443,
+      "num": 268443,
+      "word": "沈腾又吃到贾冰做的饭了",
+      "onboard_time": 1714558099,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 266363,
       "num": 266363,
       "word": "春色寄情人结局",
@@ -763,8 +779,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261689,
+      "num": 261689,
+      "word": "那英说录声生不息哭得乱七八糟",
+      "onboard_time": 1714557979,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260892,
-      "num": 204743,
+      "num": 205384,
       "word": "iPhone16有新工艺新配色",
       "onboard_time": 1714553597,
       "rank": 24,
@@ -792,14 +816,6 @@
       "word": "第一批游客已冒雨抵达长沙",
       "onboard_time": 1714520416,
       "rank": 9,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 255000,
-      "num": 255000,
-      "word": "五一长假不出游的三种人",
-      "onboard_time": 1714558401,
-      "rank": 14,
       "category": "旅游"
     },
     {
@@ -883,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242152,
+      "num": 242152,
+      "word": "美73岁儿科医生强奸8岁女童判50年",
+      "onboard_time": 1714558401,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240659,
       "num": 155094,
       "word": "医生让你查幽门螺旋杆菌是真想救你",
@@ -915,14 +939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 230390,
-      "num": 230390,
-      "word": "沈腾又吃到贾冰做的饭了",
-      "onboard_time": 1714558099,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 227327,
       "num": 227327,
       "word": "内蒙古一服务区切糕切出1万2称按克卖",
@@ -945,6 +961,14 @@
       "onboard_time": 1714529477,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 218546,
+      "num": 218546,
+      "word": "张翰彻底放开了",
+      "onboard_time": 1714559598,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 218348,
@@ -1123,12 +1147,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 196524,
-      "num": 196524,
-      "word": "那英说录声生不息哭得乱七八糟",
-      "onboard_time": 1714557979,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 196061,
+      "num": 196061,
+      "word": "金道英solo初一位",
+      "onboard_time": 1714558999,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 195344,
@@ -1195,6 +1219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189691,
+      "num": 189691,
+      "word": "邢菲穿古装开车",
+      "onboard_time": 1714557258,
+      "rank": 28,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 189254,
       "num": 189254,
       "word": "花儿与少年 群像的神",
@@ -1211,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187911,
+      "num": 187911,
+      "word": "景区路边摊的臭豆腐到底有多脏",
+      "onboard_time": 1714556839,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 187854,
       "num": 191741,
       "word": "五一旅游",
@@ -1225,14 +1265,6 @@
       "onboard_time": 1714554617,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185641,
-      "num": 185641,
-      "word": "邢菲穿古装开车",
-      "onboard_time": 1714557258,
-      "rank": 28,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 184596,
@@ -1257,6 +1289,14 @@
       "onboard_time": 1714528336,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178123,
+      "num": 178123,
+      "word": "穿过月亮的旅行 生理性喜欢",
+      "onboard_time": 1714558640,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 176307,
@@ -1395,20 +1435,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 159308,
-      "num": 159308,
-      "word": "景区路边摊的臭豆腐到底有多脏",
-      "onboard_time": 1714556839,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 158321,
       "num": 158321,
       "word": "开空调 臭味",
       "onboard_time": 1714534878,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 157340,
+      "num": 157340,
+      "word": "嫦娥六号发射定在5月3日",
+      "onboard_time": 1714558999,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156212,
@@ -1433,6 +1473,14 @@
       "onboard_time": 1714529718,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155572,
+      "num": 155572,
+      "word": "童瑶张新成裸泳镜头",
+      "onboard_time": 1714559359,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 155190,
@@ -1659,6 +1707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 135529,
+      "num": 369942,
+      "word": "爸爸为女儿在回家路旁种满鲜花",
+      "onboard_time": 1714556478,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135296,
       "num": 135296,
       "word": "维和防暴队彩蛋",
@@ -1763,14 +1819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128272,
-      "num": 128272,
-      "word": "穿过月亮的旅行 生理性喜欢",
-      "onboard_time": 1714558640,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 128004,
       "num": 128004,
       "word": "背着善宰跑",
@@ -1779,12 +1827,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127928,
+      "num": 127928,
+      "word": "seventeen新歌与青环5好搭",
+      "onboard_time": 1714559539,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 126483,
+      "num": 126483,
+      "word": "黄景瑜说不敢认领拍军警是统治区",
+      "onboard_time": 1714559719,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124145,
       "num": 124145,
       "word": "因为布置工位被领导约谈了",
       "onboard_time": 1714539857,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123747,
+      "num": 123747,
+      "word": "韩信偷塔偷到广州塔",
+      "onboard_time": 1714559239,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 123455,
@@ -1801,14 +1873,6 @@
       "onboard_time": 1714553418,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 123001,
-      "num": 369942,
-      "word": "爸爸为女儿在回家路旁种满鲜花",
-      "onboard_time": 1714556478,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122928,
@@ -2027,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109523,
+      "num": 109523,
+      "word": "丁程鑫空降了时代少年团超话",
+      "onboard_time": 1714559838,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109438,
       "num": 109438,
       "word": "FPX.ZQ对战Wolves",
@@ -2163,16 +2235,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86440,
-      "num": 216232,
-      "word": "美73岁儿科医生强奸8岁女童判50年",
-      "onboard_time": 1714558401,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82586,
-      "num": 831480,
+      "num": 990658,
       "word": "今天致敬每一位劳动者",
       "onboard_time": 1714552098,
       "rank": 2,
