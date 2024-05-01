@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714527643383,
+  "endTime": 1714530725704,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1220806,
+      "num": 1220806,
+      "word": "梅州高速塌方",
+      "onboard_time": 1714523716,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1207222,
       "num": 1207222,
       "word": "人鱼 没拍",
@@ -601,14 +609,6 @@
       "onboard_time": 1714280180,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1060289,
-      "num": 1060289,
-      "word": "梅州高速塌方",
-      "onboard_time": 1714523716,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1047982,
@@ -2891,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357893,
+      "num": 357893,
+      "word": "丁真上岛了",
+      "onboard_time": 1714528159,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357523,
       "num": 357523,
       "word": "闹钟没响",
@@ -2987,12 +2995,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342889,
+      "num": 206397,
+      "word": "耳鸣是身体在发出警告",
+      "onboard_time": 1714527018,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 339870,
       "num": 339870,
       "word": "何炅张杰看烟花",
       "onboard_time": 1714264039,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339323,
+      "num": 339323,
+      "word": "养猫的和不养猫的都沉默了",
+      "onboard_time": 1714527018,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 339315,
@@ -3153,6 +3177,14 @@
       "onboard_time": 1714488980,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320254,
+      "num": 320254,
+      "word": "王者荣耀",
+      "onboard_time": 1714228100,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 320228,
@@ -3555,6 +3587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 284499,
+      "num": 284499,
+      "word": "梅州高速塌方有车辆人员被困",
+      "onboard_time": 1714525457,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283302,
       "num": 283302,
       "word": "我未杀伯仁 伯仁却因我而死",
@@ -3715,6 +3755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270206,
+      "num": 270206,
+      "word": "五一到底哪里没人啊",
+      "onboard_time": 1714522637,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269816,
       "num": 224793,
       "word": "这4种尴尬生理反应其实很正常",
@@ -3769,14 +3817,6 @@
       "onboard_time": 1714396758,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 267374,
-      "num": 267374,
-      "word": "梅州高速塌方有车辆人员被困",
-      "onboard_time": 1714525457,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 265855,
@@ -3849,14 +3889,6 @@
       "onboard_time": 1714349177,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 260942,
-      "num": 260942,
-      "word": "五一到底哪里没人啊",
-      "onboard_time": 1714522637,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 260781,
@@ -4011,6 +4043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 250004,
+      "num": 174598,
+      "word": "大学男生冒充小学生骗取女生骑大马",
+      "onboard_time": 1714530258,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249628,
       "num": 249628,
       "word": "屠宰场处理一只活猫仅需几分钟",
@@ -4153,14 +4193,6 @@
       "onboard_time": 1714524737,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244902,
-      "num": 244902,
-      "word": "王者荣耀",
-      "onboard_time": 1714228100,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 244829,
@@ -4987,6 +5019,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 206524,
+      "num": 206524,
+      "word": "维和防暴队",
+      "onboard_time": 1714367898,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206361,
       "num": 206361,
       "word": "大明湖畔的杨紫",
@@ -5347,14 +5387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197459,
-      "num": 197459,
-      "word": "维和防暴队",
-      "onboard_time": 1714367898,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 197268,
       "num": 197268,
       "word": "尹净汉邪魅一笑",
@@ -5369,6 +5401,14 @@
       "onboard_time": 1714275678,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 197195,
+      "num": 197195,
+      "word": "54岁快递员手机备注上千收件人奇葩花名",
+      "onboard_time": 1714530018,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196944,
@@ -5649,6 +5689,14 @@
       "onboard_time": 1714366699,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192319,
+      "num": 192319,
+      "word": "真的别再打孩子了",
+      "onboard_time": 1714525818,
+      "rank": 45,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 192263,
@@ -5963,14 +6011,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 184996,
-      "num": 184996,
-      "word": "养猫的和不养猫的都沉默了",
-      "onboard_time": 1714527018,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 184943,
       "num": 184943,
       "word": "杨九郎演张子枫的同事没见过张子枫",
@@ -6243,6 +6283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178833,
+      "num": 178833,
+      "word": "成毅两大平台同时官宣",
+      "onboard_time": 1714528336,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178716,
       "num": 178716,
       "word": "童瑶终于不是顾佳了",
@@ -6377,6 +6425,14 @@
       "onboard_time": 1714431855,
       "rank": 24,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 173519,
+      "num": 173519,
+      "word": "元气森林音乐节",
+      "onboard_time": 1714519515,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 173033,
@@ -6947,14 +7003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156268,
-      "num": 156268,
-      "word": "耳鸣是身体在发出警告",
-      "onboard_time": 1714527018,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 156212,
       "num": 156212,
       "word": "院士哽咽介绍医生每天一首琵琶曲延长患者生命",
@@ -6969,6 +7017,14 @@
       "onboard_time": 1714480817,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155839,
+      "num": 155839,
+      "word": "交警回应梅州高速塌方",
+      "onboard_time": 1714529718,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155618,
@@ -7033,6 +7089,14 @@
       "onboard_time": 1714470917,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153968,
+      "num": 153968,
+      "word": "刷牙时要不要刷舌头",
+      "onboard_time": 1714530377,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 153928,
@@ -7137,6 +7201,14 @@
       "onboard_time": 1714467857,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 151709,
+      "num": 151709,
+      "word": "真正的爱情是爬山而不是划船",
+      "onboard_time": 1714530377,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 151438,
@@ -7273,6 +7345,14 @@
       "onboard_time": 1714263979,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149127,
+      "num": 149127,
+      "word": "马克西绝平三分",
+      "onboard_time": 1714528096,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 149033,
@@ -7505,14 +7585,6 @@
       "onboard_time": 1714499952,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 144693,
-      "num": 144693,
-      "word": "元气森林音乐节",
-      "onboard_time": 1714519515,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 144627,
@@ -7899,6 +7971,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 134447,
+      "num": 134447,
+      "word": "五一文案",
+      "onboard_time": 1714518555,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134398,
       "num": 134398,
       "word": "5月这些新规开始施行",
@@ -7944,14 +8024,6 @@
       "word": "突然意识到自己没有性格",
       "onboard_time": 1714379778,
       "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 133488,
-      "num": 133488,
-      "word": "五一文案",
-      "onboard_time": 1714518555,
-      "rank": 14,
       "category": "情感"
     },
     {
@@ -8427,14 +8499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122056,
-      "num": 122056,
-      "word": "真的别再打孩子了",
-      "onboard_time": 1714525818,
-      "rank": 45,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 121668,
       "num": 121668,
       "word": "隐藏式门把手是否阻碍救援",
@@ -8617,6 +8681,14 @@
       "onboard_time": 1714478118,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 114405,
+      "num": 114405,
+      "word": "女生自驾去广东一路暴雨带闪电",
+      "onboard_time": 1714529237,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 113701,
