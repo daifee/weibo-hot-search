@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714559890394,
+  "endTime": 1714562106235,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -97,6 +97,14 @@
       "onboard_time": 1714533016,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 977425,
+      "num": 977425,
+      "word": "张翰彻底放开了",
+      "onboard_time": 1714559598,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 961530,
@@ -257,6 +265,14 @@
       "onboard_time": 1714541600,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 549079,
+      "num": 549079,
+      "word": "五一长假不出游的三种人",
+      "onboard_time": 1714558401,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 544525,
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 405316,
-      "num": 212693,
+      "num": 219473,
       "word": "吴倩原相机直出",
       "onboard_time": 1714556720,
       "rank": 21,
@@ -507,20 +523,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 364063,
-      "num": 364063,
-      "word": "五一长假不出游的三种人",
-      "onboard_time": 1714558401,
-      "rank": 14,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 363374,
       "num": 363374,
       "word": "丁真上岛了",
       "onboard_time": 1714528159,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 362214,
+      "num": 233632,
+      "word": "是研究生就会懂这五分钟的含金量",
+      "onboard_time": 1714559898,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 361639,
@@ -563,6 +579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 343676,
+      "num": 343676,
+      "word": "Ale 离队",
+      "onboard_time": 1714560858,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 339323,
       "num": 339323,
       "word": "养猫的和不养猫的都沉默了",
@@ -601,6 +625,22 @@
       "onboard_time": 1714546579,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327702,
+      "num": 327702,
+      "word": "童瑶张新成裸泳镜头",
+      "onboard_time": 1714559359,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 326301,
+      "num": 326301,
+      "word": "这是国产剧能看到的尺度吗",
+      "onboard_time": 1714560258,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 320254,
@@ -771,6 +811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 264931,
+      "num": 264931,
+      "word": "美73岁儿科医生强奸8岁女童判50年",
+      "onboard_time": 1714558401,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264671,
       "num": 264671,
       "word": "阿沁称不排斥和詹雯婷合体",
@@ -899,14 +947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 242152,
-      "num": 242152,
-      "word": "美73岁儿科医生强奸8岁女童判50年",
-      "onboard_time": 1714558401,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240659,
       "num": 155094,
       "word": "医生让你查幽门螺旋杆菌是真想救你",
@@ -961,14 +1001,6 @@
       "onboard_time": 1714529477,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 218546,
-      "num": 218546,
-      "word": "张翰彻底放开了",
-      "onboard_time": 1714559598,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 218348,
@@ -1267,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186912,
+      "num": 186912,
+      "word": "爷爷身上长猫了",
+      "onboard_time": 1714559598,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184596,
       "num": 184596,
       "word": "苹果称5月7日发布会将不同寻常",
@@ -1299,6 +1339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 177841,
+      "num": 177841,
+      "word": "旅游文案",
+      "onboard_time": 1714561878,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176307,
       "num": 176307,
       "word": "每个宿舍都有自己的空调姐",
@@ -1321,6 +1369,14 @@
       "onboard_time": 1714553776,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174179,
+      "num": 174179,
+      "word": "特斯拉裁撤整个超级充电团队",
+      "onboard_time": 1714560079,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 173405,
@@ -1451,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157286,
+      "num": 157286,
+      "word": "结婚后和原生家庭割席",
+      "onboard_time": 1714560438,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156212,
       "num": 156212,
       "word": "院士哽咽介绍医生每天一首琵琶曲延长患者生命",
@@ -1473,14 +1537,6 @@
       "onboard_time": 1714529718,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155572,
-      "num": 155572,
-      "word": "童瑶张新成裸泳镜头",
-      "onboard_time": 1714559359,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 155190,
@@ -1571,6 +1627,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 149419,
+      "num": 149419,
+      "word": "张真源演唱会彩排路透",
+      "onboard_time": 1714561219,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149196,
       "num": 149196,
       "word": "田嘉瑞不愧是郭敬明的人",
@@ -1635,6 +1699,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 144581,
+      "num": 144581,
+      "word": "黄景瑜说不敢认领拍军警是统治区",
+      "onboard_time": 1714559719,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 143770,
+      "num": 365088,
+      "word": "武汉已进入人海模式",
+      "onboard_time": 1714561458,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143018,
       "num": 143018,
       "word": "越没本事的人脾气还越大",
@@ -1697,6 +1777,14 @@
       "onboard_time": 1714489641,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137366,
+      "num": 186316,
+      "word": "90后靠讲古代文学存了400万",
+      "onboard_time": 1714561697,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135806,
@@ -1833,14 +1921,6 @@
       "onboard_time": 1714559539,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126483,
-      "num": 126483,
-      "word": "黄景瑜说不敢认领拍军警是统治区",
-      "onboard_time": 1714559719,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 124145,
@@ -2059,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112592,
+      "num": 112592,
+      "word": "白羊座的成长史",
+      "onboard_time": 1714561878,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112320,
       "num": 112320,
       "word": "突然发现了五一的快乐",
@@ -2137,6 +2225,22 @@
       "onboard_time": 1714483458,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 106098,
+      "num": 106098,
+      "word": "12岁萌娃准备的家长会零食太炸裂",
+      "onboard_time": 1714560198,
+      "rank": 45,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 105177,
+      "num": 105177,
+      "word": "秦岚 不扫兴的大人",
+      "onboard_time": 1714561998,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 104065,
