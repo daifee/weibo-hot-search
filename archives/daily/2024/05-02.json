@@ -1,6 +1,6 @@
 {
   "startTime": 1714580547459,
-  "endTime": 1714584855574,
+  "endTime": 1714587808691,
   "band_list": [
     {
       "raw_hot": 1084408,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178659,
+      "num": 178659,
+      "word": "梅州高速塌方一女子5名亲人失联",
+      "onboard_time": 1714566198,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178574,
       "num": 178574,
       "word": "大侦探 内娱无代餐",
@@ -211,12 +219,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 156316,
-      "num": 156316,
-      "word": "梅州高速塌方一女子5名亲人失联",
-      "onboard_time": 1714566198,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 163050,
+      "num": 163050,
+      "word": "日本小镇拉黑布遮挡富士山远景",
+      "onboard_time": 1714573639,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 150710,
@@ -225,6 +233,14 @@
       "onboard_time": 1714556117,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143739,
+      "num": 59058,
+      "word": "月经期间到底有没有忌口",
+      "onboard_time": 1714585216,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 140920,
@@ -265,14 +281,6 @@
       "onboard_time": 1714577958,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129789,
-      "num": 129789,
-      "word": "日本小镇拉黑布遮挡富士山远景",
-      "onboard_time": 1714573639,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 125327,
@@ -441,6 +449,14 @@
       "onboard_time": 1714568539,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 12292,
+      "num": 166607,
+      "word": "用劳动的手写下劳动的诗篇",
+      "onboard_time": 1714571239,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6955,
