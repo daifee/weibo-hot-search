@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714599268910,
+  "endTime": 1714601927216,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -5411,6 +5411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231315,
+      "num": 231315,
+      "word": "日本小镇拉黑布遮挡富士山远景",
+      "onboard_time": 1714573639,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 231111,
       "num": 231111,
       "word": "男朋友想让我跟他一起买车",
@@ -7953,14 +7961,6 @@
       "onboard_time": 1714406419,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 169504,
-      "num": 169504,
-      "word": "日本小镇拉黑布遮挡富士山远景",
-      "onboard_time": 1714573639,
-      "rank": 41,
-      "category": "旅游"
     },
     {
       "raw_hot": 169430,
@@ -11827,6 +11827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 45639,
+      "num": 45639,
+      "word": "多特蒙德vs巴黎圣日耳曼",
+      "onboard_time": 1714590370,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44379,
       "num": 44379,
       "word": "你的名字无人知晓 你的功绩与世长存",
@@ -11859,14 +11867,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 42356,
-      "num": 42356,
-      "word": "多特蒙德vs巴黎圣日耳曼",
-      "onboard_time": 1714590370,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 41879,
       "num": 41879,
       "word": "中岛美嘉 音乐就是救命稻草",
@@ -11891,12 +11891,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 40420,
+      "num": 40420,
+      "word": "林更新机场被叫林狗",
+      "onboard_time": 1714596370,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 39994,
+      "num": 39994,
+      "word": "央视主持人说到四川狂咽口水",
+      "onboard_time": 1714598051,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39842,
       "num": 856427,
       "word": "时间轴回顾中国九天揽月之路",
       "onboard_time": 1714294098,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39076,
+      "num": 39076,
+      "word": "4类食物吃着不甜但升糖超快",
+      "onboard_time": 1714598531,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 38507,
@@ -11907,20 +11931,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 36785,
-      "num": 28882,
-      "word": "林更新机场被叫林狗",
-      "onboard_time": 1714596370,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 35869,
       "num": 206720,
       "word": "带红圈小金标的Pura70拍照有多顶",
       "onboard_time": 1714374677,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 35429,
+      "num": 35429,
+      "word": "五一的杭州西湖边",
+      "onboard_time": 1714599731,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 34087,
+      "num": 34087,
+      "word": "星巴克悄悄打折了",
+      "onboard_time": 1714598171,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34061,
@@ -12003,28 +12035,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27429,
+      "num": 27429,
+      "word": "路人偶遇郭碧婷",
+      "onboard_time": 1714601231,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26719,
+      "num": 26719,
+      "word": "过度节食当心饿出脂肪肝",
+      "onboard_time": 1714593851,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 25093,
       "num": 326287,
       "word": "日落了暂停工作十分钟",
       "onboard_time": 1714304056,
       "rank": 17,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 25089,
-      "num": 25089,
-      "word": "央视主持人说到四川狂咽口水",
-      "onboard_time": 1714598051,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24235,
-      "num": 24235,
-      "word": "过度节食当心饿出脂肪肝",
-      "onboard_time": 1714593851,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 23993,
@@ -12075,14 +12107,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20786,
-      "num": 20786,
-      "word": "星巴克悄悄打折了",
-      "onboard_time": 1714598171,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 20343,
       "num": 145602,
       "word": "被Hanni的甜美硬控住了",
@@ -12121,14 +12145,6 @@
       "onboard_time": 1714591451,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 17893,
-      "num": 17893,
-      "word": "4类食物吃着不甜但升糖超快",
-      "onboard_time": 1714598531,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 16988,

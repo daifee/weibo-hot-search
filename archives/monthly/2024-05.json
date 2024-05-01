@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714599268910,
+  "endTime": 1714601927216,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -1331,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231315,
+      "num": 231315,
+      "word": "日本小镇拉黑布遮挡富士山远景",
+      "onboard_time": 1714573639,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 227327,
       "num": 227327,
       "word": "内蒙古一服务区切糕切出1万2称按克卖",
@@ -1897,14 +1905,6 @@
       "onboard_time": 1714539137,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169504,
-      "num": 169504,
-      "word": "日本小镇拉黑布遮挡富士山远景",
-      "onboard_time": 1714573639,
-      "rank": 41,
-      "category": "旅游"
     },
     {
       "raw_hot": 168672,
@@ -3331,20 +3331,52 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 42356,
-      "num": 42356,
+      "raw_hot": 45639,
+      "num": 45639,
       "word": "多特蒙德vs巴黎圣日耳曼",
       "onboard_time": 1714590370,
       "rank": 37,
       "category": "体育"
     },
     {
-      "raw_hot": 36785,
-      "num": 28882,
+      "raw_hot": 40420,
+      "num": 40420,
       "word": "林更新机场被叫林狗",
       "onboard_time": 1714596370,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39994,
+      "num": 39994,
+      "word": "央视主持人说到四川狂咽口水",
+      "onboard_time": 1714598051,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39076,
+      "num": 39076,
+      "word": "4类食物吃着不甜但升糖超快",
+      "onboard_time": 1714598531,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 35429,
+      "num": 35429,
+      "word": "五一的杭州西湖边",
+      "onboard_time": 1714599731,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 34087,
+      "num": 34087,
+      "word": "星巴克悄悄打折了",
+      "onboard_time": 1714598171,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31619,
@@ -3363,28 +3395,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27429,
+      "num": 27429,
+      "word": "路人偶遇郭碧婷",
+      "onboard_time": 1714601231,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26719,
+      "num": 26719,
+      "word": "过度节食当心饿出脂肪肝",
+      "onboard_time": 1714593851,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 25663,
       "num": 30768,
       "word": "春色寄情人",
       "onboard_time": 1714480397,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25089,
-      "num": 25089,
-      "word": "央视主持人说到四川狂咽口水",
-      "onboard_time": 1714598051,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24235,
-      "num": 24235,
-      "word": "过度节食当心饿出脂肪肝",
-      "onboard_time": 1714593851,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 22769,
@@ -3403,28 +3435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20786,
-      "num": 20786,
-      "word": "星巴克悄悄打折了",
-      "onboard_time": 1714598171,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18674,
       "num": 18674,
       "word": "郑秀晶看秀G社生图",
       "onboard_time": 1714591451,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 17893,
-      "num": 17893,
-      "word": "4类食物吃着不甜但升糖超快",
-      "onboard_time": 1714598531,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 16988,
