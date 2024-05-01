@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714563256804,
+  "endTime": 1714566839030,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -33,6 +33,14 @@
       "onboard_time": 1714556117,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1592880,
+      "num": 1592880,
+      "word": "买房千万不要买挨着公园的",
+      "onboard_time": 1714564338,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 1545383,
@@ -80,6 +88,14 @@
       "word": "张翰彻底放开了",
       "onboard_time": 1714559598,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1069308,
+      "num": 406888,
+      "word": "徐艺洋说吵架会被黄子韬拉黑",
+      "onboard_time": 1714562959,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -243,20 +259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 622249,
+      "num": 192919,
+      "word": "孙怡素颜泳装照",
+      "onboard_time": 1714565598,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 610934,
+      "num": 610934,
+      "word": "五一长假不出游的三种人",
+      "onboard_time": 1714558401,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 610269,
       "num": 313081,
       "word": "李佳琦现身人民日报论坛",
       "onboard_time": 1714486758,
       "rank": 5,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 570140,
-      "num": 570140,
-      "word": "五一长假不出游的三种人",
-      "onboard_time": 1714558401,
-      "rank": 14,
-      "category": "旅游"
     },
     {
       "raw_hot": 556592,
@@ -435,6 +459,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 413449,
+      "num": 413449,
+      "word": "这是国产剧能看到的尺度吗",
+      "onboard_time": 1714560258,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 412205,
       "num": 412205,
       "word": "狐妖月红篇对打庆余年2",
@@ -451,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411800,
-      "num": 411800,
-      "word": "这是国产剧能看到的尺度吗",
-      "onboard_time": 1714560258,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 411349,
       "num": 411349,
       "word": "苹果正在修复iPhone闹钟不响问题",
@@ -467,12 +491,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 406888,
-      "num": 406888,
-      "word": "徐艺洋说吵架会被黄子韬拉黑",
-      "onboard_time": 1714562959,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 407410,
+      "num": 332420,
+      "word": "童瑶张新成裸泳镜头",
+      "onboard_time": 1714559359,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 405316,
@@ -595,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 346954,
+      "num": 346954,
+      "word": "王石放弃万科千万退休金",
+      "onboard_time": 1714564878,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 343676,
       "num": 343676,
       "word": "Ale 离队",
@@ -625,14 +657,6 @@
       "onboard_time": 1714551137,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 332420,
-      "num": 332420,
-      "word": "童瑶张新成裸泳镜头",
-      "onboard_time": 1714559359,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 330768,
@@ -739,6 +763,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 296137,
+      "num": 296137,
+      "word": "王一博cos布布",
+      "onboard_time": 1714565959,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 294798,
       "num": 294798,
       "word": "林俊杰官宣下半年演唱会场次",
@@ -843,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261655,
+      "num": 261655,
+      "word": "秦岚 不扫兴的大人",
+      "onboard_time": 1714561998,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260892,
       "num": 205384,
       "word": "iPhone16有新工艺新配色",
@@ -896,14 +936,6 @@
       "word": "陶昕然辟谣甄嬛传传闻",
       "onboard_time": 1714539378,
       "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 251993,
-      "num": 251993,
-      "word": "秦岚 不扫兴的大人",
-      "onboard_time": 1714561998,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1011,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226257,
+      "num": 226257,
+      "word": "张韶涵演唱会淋雨带病演出",
+      "onboard_time": 1714549218,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 225139,
       "num": 225139,
       "word": "李现周雨彤喉结吻",
@@ -1025,6 +1065,14 @@
       "onboard_time": 1714529477,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 220899,
+      "num": 191600,
+      "word": "梅州高速塌方一女子5名亲人失联",
+      "onboard_time": 1714566198,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218348,
@@ -1203,6 +1251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198595,
+      "num": 198595,
+      "word": "张杰第一场演唱会第一首歌",
+      "onboard_time": 1714566679,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196061,
       "num": 196061,
       "word": "金道英solo初一位",
@@ -1267,6 +1323,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 192052,
+      "num": 192052,
+      "word": "张杰演唱会",
+      "onboard_time": 1714566139,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191108,
       "num": 191108,
       "word": "第五人格coa7",
@@ -1281,6 +1345,14 @@
       "onboard_time": 1714533197,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190048,
+      "num": 183030,
+      "word": "Angelababy明媚",
+      "onboard_time": 1714566259,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 189691,
@@ -1307,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188453,
+      "num": 188453,
+      "word": "张韶涵 敬业",
+      "onboard_time": 1714564519,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187911,
       "num": 187911,
       "word": "景区路边摊的臭豆腐到底有多脏",
@@ -1331,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187496,
+      "num": 187496,
+      "word": "王一珩 收虾啦",
+      "onboard_time": 1714565179,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184596,
       "num": 184596,
       "word": "苹果称5月7日发布会将不同寻常",
@@ -1345,6 +1433,14 @@
       "onboard_time": 1714548379,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182835,
+      "num": 182835,
+      "word": "五一档电影",
+      "onboard_time": 1714564099,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 180295,
@@ -1715,6 +1811,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 146806,
+      "num": 146806,
+      "word": "五一档首日票房超去年",
+      "onboard_time": 1714565299,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145868,
       "num": 145868,
       "word": "张杰要得第一篇章预告",
@@ -1779,12 +1883,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140896,
+      "num": 140896,
+      "word": "央视五一晚会",
+      "onboard_time": 1714566739,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139706,
       "num": 139706,
       "word": "别人换乘恋爱你俩换乘挨踹",
       "onboard_time": 1714533916,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139476,
+      "num": 139476,
+      "word": "SEVENTEEN站位过于整齐",
+      "onboard_time": 1714564158,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 138931,
@@ -1883,14 +2003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133613,
-      "num": 133613,
-      "word": "张韶涵演唱会淋雨带病演出",
-      "onboard_time": 1714549218,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 132865,
       "num": 132865,
       "word": "突然发现2杯奶茶可以买一件衣服",
@@ -1915,12 +2027,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131340,
+      "num": 131340,
+      "word": "郭艾伦来看辽粤大战了",
+      "onboard_time": 1714564218,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131001,
       "num": 264792,
       "word": "2套房京籍家庭可在五环外新购1套房",
       "onboard_time": 1714482379,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130213,
+      "num": 130213,
+      "word": "辽粤大战",
+      "onboard_time": 1714564038,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 129542,
@@ -2043,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121075,
+      "num": 121075,
+      "word": "宋亚轩漏勺行为",
+      "onboard_time": 1714564278,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120153,
       "num": 120153,
       "word": "假期前一天青岛栈桥已经被挤爆了",
@@ -2089,6 +2225,14 @@
       "onboard_time": 1714556117,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116914,
+      "num": 116914,
+      "word": "丞磊说宫门四个齐了",
+      "onboard_time": 1714564759,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 116436,
@@ -2209,6 +2353,22 @@
       "onboard_time": 1714485199,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112083,
+      "num": 112083,
+      "word": "红糖糯米还能用来搞装修",
+      "onboard_time": 1714563439,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110959,
+      "num": 110959,
+      "word": "辽宁男篮vs广东男篮",
+      "onboard_time": 1714564278,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 110759,
@@ -2556,7 +2716,7 @@
     },
     {
       "raw_hot": 48687,
-      "num": 537526,
+      "num": 1133159,
       "word": "花开种花家",
       "onboard_time": 1714551378,
       "rank": 2,
