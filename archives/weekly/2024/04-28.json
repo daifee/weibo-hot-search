@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714598194139,
+  "endTime": 1714599268910,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -11859,6 +11859,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 42356,
+      "num": 42356,
+      "word": "多特蒙德vs巴黎圣日耳曼",
+      "onboard_time": 1714590370,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41879,
       "num": 41879,
       "word": "中岛美嘉 音乐就是救命稻草",
@@ -11883,14 +11891,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 41034,
-      "num": 41034,
-      "word": "多特蒙德vs巴黎圣日耳曼",
-      "onboard_time": 1714590370,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39842,
       "num": 856427,
       "word": "时间轴回顾中国九天揽月之路",
@@ -11905,6 +11905,14 @@
       "onboard_time": 1714240693,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 36785,
+      "num": 28882,
+      "word": "林更新机场被叫林狗",
+      "onboard_time": 1714596370,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 35869,
@@ -11987,14 +11995,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 28882,
-      "num": 28882,
-      "word": "林更新机场被叫林狗",
-      "onboard_time": 1714596370,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 27949,
       "num": 30342,
       "word": "maestro饭拍视频",
@@ -12011,8 +12011,16 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 24077,
-      "num": 24077,
+      "raw_hot": 25089,
+      "num": 25089,
+      "word": "央视主持人说到四川狂咽口水",
+      "onboard_time": 1714598051,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24235,
+      "num": 24235,
       "word": "过度节食当心饿出脂肪肝",
       "onboard_time": 1714593851,
       "rank": 41,
@@ -12067,6 +12075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20786,
+      "num": 20786,
+      "word": "星巴克悄悄打折了",
+      "onboard_time": 1714598171,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20343,
       "num": 145602,
       "word": "被Hanni的甜美硬控住了",
@@ -12107,6 +12123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 17893,
+      "num": 17893,
+      "word": "4类食物吃着不甜但升糖超快",
+      "onboard_time": 1714598531,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 16988,
       "num": 18233,
       "word": "唐九洲 小卡届的神",
@@ -12124,7 +12148,7 @@
     },
     {
       "raw_hot": 15503,
-      "num": 15503,
+      "num": 17109,
       "word": "花少好友记热闹起来了",
       "onboard_time": 1714592531,
       "rank": 45,
@@ -12144,22 +12168,6 @@
       "word": "文化中国行",
       "onboard_time": 1713927617,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13268,
-      "num": 14993,
-      "word": "央视主持人说到四川狂咽口水",
-      "onboard_time": 1714598051,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13218,
-      "num": 14985,
-      "word": "星巴克悄悄打折了",
-      "onboard_time": 1714598171,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
