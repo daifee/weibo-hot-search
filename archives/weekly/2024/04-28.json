@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714556066076,
+  "endTime": 1714558887008,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4111207,
-      "num": 4722414,
+      "raw_hot": 5882184,
+      "num": 6797813,
       "word": "梅大高速塌陷已致24人死亡",
       "onboard_time": 1714554258,
       "rank": 0,
@@ -280,6 +280,14 @@
       "word": "调休",
       "onboard_time": 1714260737,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1406793,
+      "num": 1406793,
+      "word": "医院已确认梅龙高速塌方伤者身份",
+      "onboard_time": 1714556117,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1315,6 +1323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 702473,
+      "num": 702473,
+      "word": "福宝",
+      "onboard_time": 1714556178,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700907,
       "num": 700907,
       "word": "天津取消户籍居民大户型限购",
@@ -1996,7 +2012,7 @@
     },
     {
       "raw_hot": 533047,
-      "num": 210113,
+      "num": 210469,
       "word": "李连杰女儿哈佛大学毕业",
       "onboard_time": 1714549698,
       "rank": 20,
@@ -2004,7 +2020,7 @@
     },
     {
       "raw_hot": 531939,
-      "num": 203393,
+      "num": 215151,
       "word": "云南偶遇Angelababy",
       "onboard_time": 1714552578,
       "rank": 23,
@@ -2931,6 +2947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 389501,
+      "num": 212693,
+      "word": "吴倩原相机直出",
+      "onboard_time": 1714556720,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388058,
       "num": 388058,
       "word": "本周狗屎运最旺的星座",
@@ -2953,6 +2977,14 @@
       "onboard_time": 1714469897,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386581,
+      "num": 386581,
+      "word": "邓超请100个人看杨幂新电影",
+      "onboard_time": 1714557258,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 386400,
@@ -3748,7 +3780,7 @@
     },
     {
       "raw_hot": 308776,
-      "num": 191277,
+      "num": 206228,
       "word": "堵车时第1辆车在干嘛",
       "onboard_time": 1714553177,
       "rank": 22,
@@ -4035,6 +4067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281673,
+      "num": 281673,
+      "word": "福宝将结束隔离",
+      "onboard_time": 1714555878,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280824,
       "num": 280824,
       "word": "掘金vs湖人",
@@ -4315,6 +4355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260892,
+      "num": 204743,
+      "word": "iPhone16有新工艺新配色",
+      "onboard_time": 1714553597,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 260781,
       "num": 260781,
       "word": "诺米谢帝beef大和解",
@@ -4395,12 +4443,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 255328,
-      "num": 189883,
-      "word": "iPhone16有新工艺新配色",
-      "onboard_time": 1714553597,
-      "rank": 24,
-      "category": "数码"
+      "raw_hot": 255000,
+      "num": 255000,
+      "word": "五一长假不出游的三种人",
+      "onboard_time": 1714558401,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 254630,
@@ -4963,6 +5011,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 230390,
+      "num": 230390,
+      "word": "沈腾又吃到贾冰做的饭了",
+      "onboard_time": 1714558099,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 230381,
       "num": 230381,
       "word": "不够善良的我们完结",
@@ -5185,6 +5241,14 @@
       "onboard_time": 1714384218,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 218348,
+      "num": 218348,
+      "word": "维和防暴队剧情",
+      "onboard_time": 1714556899,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 218099,
@@ -5723,6 +5787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203108,
+      "num": 203108,
+      "word": "相信音乐",
+      "onboard_time": 1714557678,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203034,
       "num": 203034,
       "word": "五月天捐900万用于泉州校舍重建",
@@ -6057,6 +6129,14 @@
       "onboard_time": 1714452560,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196524,
+      "num": 196524,
+      "word": "那英说录声生不息哭得乱七八糟",
+      "onboard_time": 1714557979,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 196473,
@@ -6667,6 +6747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185641,
+      "num": 185641,
+      "word": "邢菲穿古装开车",
+      "onboard_time": 1714557258,
+      "rank": 28,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 185486,
       "num": 185486,
       "word": "时代少年团练习合照",
@@ -7043,6 +7131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175865,
+      "num": 175865,
+      "word": "九龙城寨",
+      "onboard_time": 1714556058,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175578,
       "num": 175578,
       "word": "内戏",
@@ -7249,14 +7345,6 @@
       "onboard_time": 1714292537,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 169902,
-      "num": 169902,
-      "word": "福宝将结束隔离",
-      "onboard_time": 1714555878,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169817,
@@ -7595,6 +7683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159308,
+      "num": 159308,
+      "word": "景区路边摊的臭豆腐到底有多脏",
+      "onboard_time": 1714556839,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 158906,
       "num": 158906,
       "word": "为什么听到父母的关心会烦躁",
@@ -7864,6 +7960,14 @@
       "word": "广州多处铁皮厂房坍塌有人受伤",
       "onboard_time": 1714229721,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154573,
+      "num": 154573,
+      "word": "梅大高速",
+      "onboard_time": 1714557078,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -9251,6 +9355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128272,
+      "num": 128272,
+      "word": "穿过月亮的旅行 生理性喜欢",
+      "onboard_time": 1714558640,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128046,
       "num": 128046,
       "word": "Gumayusi国服ID小吕布",
@@ -9427,6 +9539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123001,
+      "num": 369942,
+      "word": "爸爸为女儿在回家路旁种满鲜花",
+      "onboard_time": 1714556478,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122992,
       "num": 122992,
       "word": "龙卷风",
@@ -9513,6 +9633,14 @@
       "onboard_time": 1714480518,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119789,
+      "num": 119789,
+      "word": "2024五一档电影口碑",
+      "onboard_time": 1714555458,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 119590,
@@ -9616,6 +9744,14 @@
       "word": "黄景瑜分享和王一博的剧组日常",
       "onboard_time": 1714487599,
       "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 117205,
+      "num": 117205,
+      "word": "王一博一条视频四项运动",
+      "onboard_time": 1714556117,
+      "rank": 43,
       "category": "电影"
     },
     {
@@ -9763,6 +9899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 112817,
+      "num": 112817,
+      "word": "篮协邀请外籍裁判执裁CBA",
+      "onboard_time": 1714558279,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112814,
       "num": 112814,
       "word": "遇到这种旅游搭子真的会开心死",
@@ -9809,14 +9953,6 @@
       "onboard_time": 1714358838,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111398,
-      "num": 111398,
-      "word": "2024五一档电影口碑",
-      "onboard_time": 1714555458,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 111359,
@@ -10291,6 +10427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86440,
+      "num": 216232,
+      "word": "美73岁儿科医生强奸8岁女童判50年",
+      "onboard_time": 1714558401,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85810,
       "num": 219677,
       "word": "蛋搭子的贴贴日常",
@@ -10316,7 +10460,7 @@
     },
     {
       "raw_hot": 82586,
-      "num": 765812,
+      "num": 831480,
       "word": "今天致敬每一位劳动者",
       "onboard_time": 1714552098,
       "rank": 2,
