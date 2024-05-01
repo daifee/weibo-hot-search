@@ -1,6 +1,6 @@
 {
   "startTime": 1714580547459,
-  "endTime": 1714581412546,
+  "endTime": 1714583821190,
   "band_list": [
     {
       "raw_hot": 1084408,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367266,
+      "num": 367266,
+      "word": "年龄六岁 工龄三年",
+      "onboard_time": 1714578678,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 364361,
       "num": 310366,
       "word": "aespa预告",
@@ -121,14 +129,6 @@
       "onboard_time": 1714569799,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 297118,
-      "num": 262040,
-      "word": "年龄六岁 工龄三年",
-      "onboard_time": 1714578678,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 271792,
@@ -267,19 +267,19 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 125401,
+      "num": 125401,
+      "word": "梅州高速塌方一女子5名亲人失联",
+      "onboard_time": 1714566198,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125327,
       "num": 125327,
       "word": "冒充小学生骗女生当事人被约谈",
       "onboard_time": 1714573219,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120108,
-      "num": 120108,
-      "word": "梅州高速塌方一女子5名亲人失联",
-      "onboard_time": 1714566198,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -355,6 +355,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89102,
+      "num": 89102,
+      "word": "泡泡岛音乐节",
+      "onboard_time": 1714581256,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 88956,
+      "num": 88956,
+      "word": "伊能静谈为什么不拍戏",
+      "onboard_time": 1714582217,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88466,
       "num": 88466,
       "word": "女儿要喝奶茶我说她爱慕虚荣",
@@ -387,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 79723,
-      "num": 79723,
-      "word": "泡泡岛音乐节",
-      "onboard_time": 1714581256,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 76933,
       "num": 76933,
       "word": "王一博cos布布",
@@ -411,6 +419,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57994,
+      "num": 57994,
+      "word": "张杰第一场演唱会第一首歌",
+      "onboard_time": 1714566679,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 48088,
+      "num": 48088,
+      "word": "陈牧驰 央视五一晚会",
+      "onboard_time": 1714568539,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 6955,
       "num": 332886,
       "word": "文化中国行",
@@ -425,6 +449,9 @@
     },
     {
       "word": "#习近平复信斯梅戴雷沃钢厂职工#"
+    },
+    {
+      "word": "#一切幸福都需要靠辛勤的劳动来创造#"
     }
   ]
 }

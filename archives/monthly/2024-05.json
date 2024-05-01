@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714581412546,
+  "endTime": 1714583821190,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -739,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367266,
+      "num": 367266,
+      "word": "年龄六岁 工龄三年",
+      "onboard_time": 1714578678,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 366519,
       "num": 209807,
       "word": "问界M7事故砸窗救援者在现场大哭",
@@ -993,14 +1001,6 @@
       "onboard_time": 1714524856,
       "rank": 15,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 297118,
-      "num": 262040,
-      "word": "年龄六岁 工龄三年",
-      "onboard_time": 1714578678,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 296315,
@@ -3099,6 +3099,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89102,
+      "num": 89102,
+      "word": "泡泡岛音乐节",
+      "onboard_time": 1714581256,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 88956,
+      "num": 88956,
+      "word": "伊能静谈为什么不拍戏",
+      "onboard_time": 1714582217,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88523,
       "num": 91337,
       "word": "春色寄情人微博开分8.9",
@@ -3129,14 +3145,6 @@
       "onboard_time": 1714551378,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79723,
-      "num": 79723,
-      "word": "泡泡岛音乐节",
-      "onboard_time": 1714581256,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 79621,

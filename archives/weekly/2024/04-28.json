@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714581412546,
+  "endTime": 1714583821190,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -3395,6 +3395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367266,
+      "num": 367266,
+      "word": "年龄六岁 工龄三年",
+      "onboard_time": 1714578678,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 366519,
       "num": 209807,
       "word": "问界M7事故砸窗救援者在现场大哭",
@@ -4217,14 +4225,6 @@
       "onboard_time": 1714362859,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 297118,
-      "num": 262040,
-      "word": "年龄六岁 工龄三年",
-      "onboard_time": 1714578678,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 296755,
@@ -11355,6 +11355,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89102,
+      "num": 89102,
+      "word": "泡泡岛音乐节",
+      "onboard_time": 1714581256,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 88956,
+      "num": 88956,
+      "word": "伊能静谈为什么不拍戏",
+      "onboard_time": 1714582217,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86861,
       "num": 86861,
       "word": "勒沃库森2比2斯图加特",
@@ -11449,14 +11465,6 @@
       "onboard_time": 1714485139,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79723,
-      "num": 79723,
-      "word": "泡泡岛音乐节",
-      "onboard_time": 1714581256,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 79621,
