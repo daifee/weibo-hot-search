@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714544720032,
+  "endTime": 1714545436426,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -339,20 +339,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1336139,
+      "num": 1336139,
+      "word": "五一假期是捅了人窝吧",
+      "onboard_time": 1714539017,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1329140,
       "num": 1329140,
       "word": "明天下班走出办公室的我",
       "onboard_time": 1714375458,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1323026,
-      "num": 1323026,
-      "word": "五一假期是捅了人窝吧",
-      "onboard_time": 1714539017,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 1313043,
@@ -739,6 +739,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 961530,
+      "num": 365799,
+      "word": "秦海璐 番茄小说代言人",
+      "onboard_time": 1714541358,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 960594,
       "num": 960594,
       "word": "歌手阵容",
@@ -929,14 +937,6 @@
       "onboard_time": 1714282278,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 867157,
-      "num": 365799,
-      "word": "秦海璐 番茄小说代言人",
-      "onboard_time": 1714541358,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 866724,
@@ -1883,6 +1883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 549211,
+      "num": 549211,
+      "word": "南雅被继兄侵犯",
+      "onboard_time": 1714541600,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 547888,
       "num": 547888,
       "word": "付鹏与李佳琦仍共同持股公司",
@@ -2064,14 +2072,6 @@
       "word": "眼泪女王收视率",
       "onboard_time": 1714228641,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 510185,
-      "num": 510185,
-      "word": "南雅被继兄侵犯",
-      "onboard_time": 1714541600,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -2619,6 +2619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423203,
+      "num": 423203,
+      "word": "电影票房",
+      "onboard_time": 1714540518,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 422792,
       "num": 217437,
       "word": "南雅被当众扒衣服",
@@ -2641,6 +2649,14 @@
       "onboard_time": 1714292178,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 419584,
+      "num": 419584,
+      "word": "26岁了人生第一次吃小龙虾",
+      "onboard_time": 1714542739,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 419303,
@@ -2811,14 +2827,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 397902,
-      "num": 397902,
-      "word": "电影票房",
-      "onboard_time": 1714540518,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 389570,
       "num": 389570,
       "word": "HYBE回应防弹少年团注水",
@@ -2969,14 +2977,6 @@
       "onboard_time": 1714357038,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 371589,
-      "num": 371589,
-      "word": "26岁了人生第一次吃小龙虾",
-      "onboard_time": 1714542739,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 371375,
@@ -3633,6 +3633,14 @@
       "onboard_time": 1714389138,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 303043,
+      "num": 303043,
+      "word": "赵磊 歌手",
+      "onboard_time": 1714544600,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 302885,
@@ -4379,6 +4387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 248340,
+      "num": 153125,
+      "word": "IVE粉丝停止本次回归专辑团体代购",
+      "onboard_time": 1714544539,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248075,
       "num": 248075,
       "word": "RIIZE疑似剧透洪承汉复出",
@@ -4651,6 +4667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 235740,
+      "num": 235740,
+      "word": "五一第一天就赶上生理期了",
+      "onboard_time": 1714542199,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235676,
       "num": 255959,
       "word": "不上班真的显年轻",
@@ -4897,14 +4921,6 @@
       "onboard_time": 1714354159,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222436,
-      "num": 222436,
-      "word": "五一第一天就赶上生理期了",
-      "onboard_time": 1714542199,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 221550,
@@ -5907,6 +5923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194923,
+      "num": 367156,
+      "word": "自律儿子不爱学习但每天6点做饭",
+      "onboard_time": 1714539378,
+      "rank": 9,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 194835,
       "num": 194835,
       "word": "湖人避免被横扫",
@@ -6001,14 +6025,6 @@
       "onboard_time": 1714278080,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 193712,
-      "num": 153125,
-      "word": "IVE粉丝停止本次回归专辑团体代购",
-      "onboard_time": 1714544539,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 193649,
@@ -6281,6 +6297,14 @@
       "onboard_time": 1714456578,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188761,
+      "num": 188761,
+      "word": "重庆警方通报17岁少年被刺伤致死",
+      "onboard_time": 1714544059,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188760,
@@ -6649,14 +6673,6 @@
       "onboard_time": 1714402761,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 181319,
-      "num": 367156,
-      "word": "自律儿子不爱学习但每天6点做饭",
-      "onboard_time": 1714539378,
-      "rank": 9,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 181270,
@@ -7235,14 +7251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162341,
-      "num": 162341,
-      "word": "重庆警方通报17岁少年被刺伤致死",
-      "onboard_time": 1714544059,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161484,
       "num": 161484,
       "word": "维和防暴队直播",
@@ -7723,6 +7731,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 151717,
+      "num": 151717,
+      "word": "当凌晨四点还不睡时你的猫",
+      "onboard_time": 1714542918,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151438,
       "num": 151438,
       "word": "金秀贤盯金智媛的眼神",
@@ -7737,6 +7753,14 @@
       "onboard_time": 1714459519,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151392,
+      "num": 147934,
+      "word": "杨蓉当经纪人话术一套一套的",
+      "onboard_time": 1714545079,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 151387,
@@ -8193,14 +8217,6 @@
       "onboard_time": 1714359258,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 143628,
-      "num": 143628,
-      "word": "当凌晨四点还不睡时你的猫",
-      "onboard_time": 1714542918,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 143406,
@@ -8987,14 +9003,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 125818,
-      "num": 125818,
-      "word": "赵磊 歌手",
-      "onboard_time": 1714544600,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125718,
       "num": 125718,
       "word": "晋江崩了",
@@ -9129,6 +9137,14 @@
       "onboard_time": 1714236316,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120832,
+      "num": 120832,
+      "word": "梅州回应梅大高速茶阳段发生塌方",
+      "onboard_time": 1714545318,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120444,
@@ -9953,6 +9969,14 @@
       "onboard_time": 1714485139,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79621,
+      "num": 94520,
+      "word": "五一西安旅游到底有多顶",
+      "onboard_time": 1714545318,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 78802,

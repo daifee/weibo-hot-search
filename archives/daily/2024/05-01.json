@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714544720032,
+  "endTime": 1714545436426,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -35,8 +35,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1323026,
-      "num": 1323026,
+      "raw_hot": 1336139,
+      "num": 1336139,
       "word": "五一假期是捅了人窝吧",
       "onboard_time": 1714539017,
       "rank": 4,
@@ -83,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 961530,
+      "num": 365799,
+      "word": "秦海璐 番茄小说代言人",
+      "onboard_time": 1714541358,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 870938,
       "num": 870938,
       "word": "日本或将进入单身税时代",
       "onboard_time": 1714522457,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 867157,
-      "num": 365799,
-      "word": "秦海璐 番茄小说代言人",
-      "onboard_time": 1714541358,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 841804,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 549211,
+      "num": 549211,
+      "word": "南雅被继兄侵犯",
+      "onboard_time": 1714541600,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 537893,
       "num": 188417,
       "word": "原来跑男早就预言了退出的人",
@@ -201,14 +209,6 @@
       "onboard_time": 1714534398,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 510185,
-      "num": 510185,
-      "word": "南雅被继兄侵犯",
-      "onboard_time": 1714541600,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 507736,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423203,
+      "num": 423203,
+      "word": "电影票房",
+      "onboard_time": 1714540518,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 422792,
       "num": 217437,
       "word": "南雅被当众扒衣服",
@@ -289,6 +297,14 @@
       "onboard_time": 1714534037,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 419584,
+      "num": 419584,
+      "word": "26岁了人生第一次吃小龙虾",
+      "onboard_time": 1714542739,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 419303,
@@ -323,28 +339,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 397902,
-      "num": 397902,
-      "word": "电影票房",
-      "onboard_time": 1714540518,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 379238,
       "num": 379238,
       "word": "洁丽雅董事长谈儿子拍短剧出圈",
       "onboard_time": 1714486219,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371589,
-      "num": 371589,
-      "word": "26岁了人生第一次吃小龙虾",
-      "onboard_time": 1714542739,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 366519,
@@ -457,6 +457,14 @@
       "onboard_time": 1714533438,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 303043,
+      "num": 303043,
+      "word": "赵磊 歌手",
+      "onboard_time": 1714544600,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 301623,
@@ -603,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248340,
+      "num": 153125,
+      "word": "IVE粉丝停止本次回归专辑团体代购",
+      "onboard_time": 1714544539,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247083,
       "num": 247083,
       "word": "五一劳动节",
@@ -659,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235740,
+      "num": 235740,
+      "word": "五一第一天就赶上生理期了",
+      "onboard_time": 1714542199,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233522,
       "num": 233522,
       "word": "王一博骑摩托去接受采访",
@@ -697,14 +721,6 @@
       "onboard_time": 1714529477,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 222436,
-      "num": 222436,
-      "word": "五一第一天就赶上生理期了",
-      "onboard_time": 1714542199,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 215173,
@@ -843,20 +859,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194923,
+      "num": 367156,
+      "word": "自律儿子不爱学习但每天6点做饭",
+      "onboard_time": 1714539378,
+      "rank": 9,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 194775,
       "num": 194775,
       "word": "蓝羽易烊千玺CHC影迷电影频道宣传片",
       "onboard_time": 1714533977,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 193712,
-      "num": 153125,
-      "word": "IVE粉丝停止本次回归专辑团体代购",
-      "onboard_time": 1714544539,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 192319,
@@ -899,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188761,
+      "num": 188761,
+      "word": "重庆警方通报17岁少年被刺伤致死",
+      "onboard_time": 1714544059,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187854,
       "num": 191741,
       "word": "五一旅游",
@@ -913,14 +937,6 @@
       "onboard_time": 1714525277,
       "rank": 28,
       "category": "数码"
-    },
-    {
-      "raw_hot": 181319,
-      "num": 367156,
-      "word": "自律儿子不爱学习但每天6点做饭",
-      "onboard_time": 1714539378,
-      "rank": 9,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 178833,
@@ -1019,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162341,
-      "num": 162341,
-      "word": "重庆警方通报17岁少年被刺伤致死",
-      "onboard_time": 1714544059,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160634,
       "num": 160634,
       "word": "芍药这么美还是中药换谁不迷糊",
@@ -1107,6 +1115,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151717,
+      "num": 151717,
+      "word": "当凌晨四点还不睡时你的猫",
+      "onboard_time": 1714542918,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 151392,
+      "num": 147934,
+      "word": "杨蓉当经纪人话术一套一套的",
+      "onboard_time": 1714545079,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150281,
       "num": 787407,
       "word": "中国海军福建舰出海开展首次航行试验",
@@ -1177,14 +1201,6 @@
       "onboard_time": 1714499952,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 143628,
-      "num": 143628,
-      "word": "当凌晨四点还不睡时你的猫",
-      "onboard_time": 1714542918,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 143018,
@@ -1323,14 +1339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125818,
-      "num": 125818,
-      "word": "赵磊 歌手",
-      "onboard_time": 1714544600,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124145,
       "num": 124145,
       "word": "因为布置工位被领导约谈了",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1714487478,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120832,
+      "num": 120832,
+      "word": "梅州回应梅大高速茶阳段发生塌方",
+      "onboard_time": 1714545318,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120153,
@@ -1633,6 +1649,14 @@
       "onboard_time": 1714487179,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79621,
+      "num": 94520,
+      "word": "五一西安旅游到底有多顶",
+      "onboard_time": 1714545318,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 78561,
