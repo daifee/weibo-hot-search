@@ -1,0 +1,410 @@
+{
+  "runTime": 1714595643853,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 98828,
+        "num": 98828,
+        "word": "日本小镇拉黑布遮挡富士山远景",
+        "onboard_time": 1714573639,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 70638,
+        "num": 70638,
+        "word": "梅州高速塌方一女子5名亲人失联",
+        "onboard_time": 1714566198,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9691,
+        "num": 64607,
+        "word": "用劳动的手写下劳动的诗篇",
+        "onboard_time": 1714571239,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59826,
+        "num": 59826,
+        "word": "年龄六岁 工龄三年",
+        "onboard_time": 1714578678,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52698,
+        "num": 52698,
+        "word": "江西赣州特斯拉",
+        "onboard_time": 1714576579,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70369,
+        "num": 52674,
+        "word": "日本男演员涉华人夫妇焚尸案被捕",
+        "onboard_time": 1714568718,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52627,
+        "num": 52627,
+        "word": "买房千万不要买挨着公园的",
+        "onboard_time": 1714564338,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47005,
+        "num": 47005,
+        "word": "赵小棠妈妈是先婚后爱",
+        "onboard_time": 1714574720,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40706,
+        "num": 40706,
+        "word": "外卖小哥陪瘫痪女子吃饭多年直到女子离世",
+        "onboard_time": 1714568359,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40337,
+        "num": 40337,
+        "word": "赵昭仪问张翰你是不是爱吃牛肉",
+        "onboard_time": 1714572020,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66013,
+        "num": 39928,
+        "word": "高铁三大酷刑",
+        "onboard_time": 1714575499,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54418,
+        "num": 39808,
+        "word": "医院称全县救护车都去了事故现场",
+        "onboard_time": 1714569799,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53581,
+        "num": 39764,
+        "word": "徐艺洋说吵架会被黄子韬拉黑",
+        "onboard_time": 1714562959,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39456,
+        "num": 39456,
+        "word": "初恋对中年人的杀伤力",
+        "onboard_time": 1714577058,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35444,
+        "num": 35444,
+        "word": "多特蒙德vs巴黎圣日耳曼",
+        "onboard_time": 1714590370,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33951,
+        "num": 33951,
+        "word": "陶昕然是甄嬛传的尺度担当",
+        "onboard_time": 1714578379,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32640,
+        "num": 32640,
+        "word": "为什么现在叫谁都叫老师",
+        "onboard_time": 1714570399,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31729,
+        "num": 31729,
+        "word": "白鹿曾舜晞吻脖子路透",
+        "onboard_time": 1714574059,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31710,
+        "num": 31710,
+        "word": "庆余年2 超前观影",
+        "onboard_time": 1714569199,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28371,
+        "num": 28371,
+        "word": "梅大高速塌陷已致24人死亡",
+        "onboard_time": 1714554258,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47810,
+        "num": 28036,
+        "word": "为什么男朋友会介意我婚前买房",
+        "onboard_time": 1714573878,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38117,
+        "num": 27752,
+        "word": "月经期间到底有没有忌口",
+        "onboard_time": 1714585216,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34255,
+        "num": 27633,
+        "word": "孙怡素颜泳装照",
+        "onboard_time": 1714565598,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27344,
+        "num": 27344,
+        "word": "如家酒店被曝花洒现粪便状异物",
+        "onboard_time": 1714566978,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24370,
+        "num": 24370,
+        "word": "周鸿祎 褚会长",
+        "onboard_time": 1714573819,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22630,
+        "num": 22630,
+        "word": "aespa预告",
+        "onboard_time": 1714576700,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22520,
+        "num": 22520,
+        "word": "冒充小学生骗女生当事人被约谈",
+        "onboard_time": 1714573219,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21115,
+        "num": 21115,
+        "word": "小米SU7全网首次大修",
+        "onboard_time": 1714575979,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 20901,
+        "num": 20901,
+        "word": "医院已确认梅龙高速塌方伤者身份",
+        "onboard_time": 1714556117,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14717,
+        "num": 19560,
+        "word": "福宝翘jiojio啃大苹果超萌",
+        "onboard_time": 1714570939,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19397,
+        "num": 19397,
+        "word": "梅大高速事故现场记者几度哽咽",
+        "onboard_time": 1714568359,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19051,
+        "num": 19051,
+        "word": "梅大高速塌陷货车司机夫妇喊停后车",
+        "onboard_time": 1714571599,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18864,
+        "num": 18864,
+        "word": "X光下小宝宝的手",
+        "onboard_time": 1714588812,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18678,
+        "num": 18678,
+        "word": "张韶涵 敬业",
+        "onboard_time": 1714564519,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17989,
+        "num": 17989,
+        "word": "张翰彻底放开了",
+        "onboard_time": 1714559598,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17610,
+        "num": 17610,
+        "word": "庆余年2",
+        "onboard_time": 1714571360,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17554,
+        "num": 17554,
+        "word": "过度节食当心饿出脂肪肝",
+        "onboard_time": 1714593851,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16611,
+        "num": 16611,
+        "word": "陈牧驰 央视五一晚会",
+        "onboard_time": 1714568539,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16286,
+        "num": 16286,
+        "word": "aespa正规一辑视频预告",
+        "onboard_time": 1714579636,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16245,
+        "num": 16245,
+        "word": "黄景瑜问谁给邓超下毒了",
+        "onboard_time": 1714576399,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15967,
+        "num": 15967,
+        "word": "特斯拉",
+        "onboard_time": 1714577958,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15692,
+        "num": 15692,
+        "word": "郑秀晶看秀G社生图",
+        "onboard_time": 1714591451,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15529,
+        "num": 15529,
+        "word": "ENHYPEN试听",
+        "onboard_time": 1714576818,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15416,
+        "num": 15416,
+        "word": "花少好友记热闹起来了",
+        "onboard_time": 1714592531,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15057,
+        "num": 15057,
+        "word": "胡明轩假摔",
+        "onboard_time": 1714574601,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14746,
+        "num": 14746,
+        "word": "迪丽热巴美式证件照",
+        "onboard_time": 1714572079,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14724,
+        "num": 14724,
+        "word": "金秀贤正是藏不住事的年纪",
+        "onboard_time": 1714575079,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14683,
+        "num": 14683,
+        "word": "泡泡岛音乐节",
+        "onboard_time": 1714581256,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14343,
+        "num": 14681,
+        "word": "读研对一个人最大的改变",
+        "onboard_time": 1714573699,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 13566,
+        "num": 14677,
+        "word": "大侦探 内娱无代餐",
+        "onboard_time": 1714572800,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
