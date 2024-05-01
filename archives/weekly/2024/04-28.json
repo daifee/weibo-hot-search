@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714537274652,
+  "endTime": 1714538114582,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -153,6 +153,14 @@
       "onboard_time": 1714356439,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1545383,
+      "num": 481807,
+      "word": "下午三点离职五点整个部门涨薪了",
+      "onboard_time": 1714534398,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 1520607,
@@ -329,14 +337,6 @@
       "onboard_time": 1714375458,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1322515,
-      "num": 481807,
-      "word": "下午三点离职五点整个部门涨薪了",
-      "onboard_time": 1714534398,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 1313043,
@@ -1179,6 +1179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 728072,
+      "num": 264959,
+      "word": "徐艺洋上班",
+      "onboard_time": 1714535778,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 721781,
       "num": 510933,
       "word": "孙俪爆料邓超的坏习惯",
@@ -1220,7 +1228,7 @@
     },
     {
       "raw_hot": 711704,
-      "num": 243416,
+      "num": 262704,
       "word": "花花和爷爷又谭崩了",
       "onboard_time": 1714533377,
       "rank": 21,
@@ -1395,6 +1403,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 671379,
+      "num": 479080,
+      "word": "梅州高速塌方已致1死30伤",
+      "onboard_time": 1714533498,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 671147,
       "num": 671147,
       "word": "男子称两年前被上门采集核酸时的照片泄露",
@@ -1491,14 +1507,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 645207,
-      "num": 234603,
-      "word": "徐艺洋上班",
-      "onboard_time": 1714535778,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 642220,
       "num": 642220,
       "word": "CCTV综艺放了赵丽颖簪花照",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1714370358,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 622973,
-      "num": 479080,
-      "word": "梅州高速塌方已致1死30伤",
-      "onboard_time": 1714533498,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 618122,
@@ -1881,6 +1881,14 @@
       "onboard_time": 1714399402,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 531278,
+      "num": 263367,
+      "word": "头上抠下来的黄色小颗粒是什么",
+      "onboard_time": 1714534398,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 530465,
@@ -2251,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 471410,
+      "num": 471410,
+      "word": "庆余年2本月播出",
+      "onboard_time": 1714534338,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 470367,
       "num": 430173,
       "word": "浓眉左肩",
@@ -2297,14 +2313,6 @@
       "onboard_time": 1714291699,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 461838,
-      "num": 461838,
-      "word": "庆余年2本月播出",
-      "onboard_time": 1714534338,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 461616,
@@ -2369,14 +2377,6 @@
       "onboard_time": 1714345754,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 454707,
-      "num": 233546,
-      "word": "头上抠下来的黄色小颗粒是什么",
-      "onboard_time": 1714534398,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 449967,
@@ -3307,6 +3307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 320173,
+      "num": 320173,
+      "word": "美国德国都没做到只有中国干成了",
+      "onboard_time": 1714534276,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319975,
       "num": 319975,
       "word": "厦门免费宿舍已有1千多人申请",
@@ -3691,6 +3699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285775,
+      "num": 285775,
+      "word": "林俊杰巡演",
+      "onboard_time": 1714537637,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 285105,
       "num": 285105,
       "word": "背着善宰跑 粉丝视角",
@@ -3769,14 +3785,6 @@
       "onboard_time": 1714318158,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 278489,
-      "num": 278489,
-      "word": "美国德国都没做到只有中国干成了",
-      "onboard_time": 1714534276,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278117,
@@ -3955,6 +3963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 267465,
+      "num": 267465,
+      "word": "茶百道联名",
+      "onboard_time": 1714535897,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 265855,
       "num": 265855,
       "word": "领导重新定义二本",
@@ -4100,7 +4116,7 @@
     },
     {
       "raw_hot": 254630,
-      "num": 226723,
+      "num": 242975,
       "word": "为什么男朋友总跟我追求公平",
       "onboard_time": 1714533857,
       "rank": 34,
@@ -4737,14 +4753,6 @@
       "onboard_time": 1714450038,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223636,
-      "num": 223636,
-      "word": "茶百道联名",
-      "onboard_time": 1714535897,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 223543,
@@ -5411,6 +5419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201543,
+      "num": 201543,
+      "word": "顾客退房后留下的东西有多离谱",
+      "onboard_time": 1714534638,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201493,
       "num": 201493,
       "word": "林更新边江玫瑰故事再合作",
@@ -5963,6 +5979,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 191108,
+      "num": 191108,
+      "word": "第五人格coa7",
+      "onboard_time": 1714536917,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190991,
       "num": 577926,
       "word": "毕业季又被簪花学士帽惊艳到了",
@@ -6073,6 +6097,14 @@
       "onboard_time": 1714350259,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 188512,
+      "num": 188512,
+      "word": "王珞丹辟谣和朱丹同母异父",
+      "onboard_time": 1714537877,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 188395,
@@ -6289,14 +6321,6 @@
       "onboard_time": 1714302138,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184214,
-      "num": 184214,
-      "word": "第五人格coa7",
-      "onboard_time": 1714536917,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 184212,
@@ -6571,14 +6595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 175230,
-      "num": 161895,
-      "word": "顾客退房后留下的东西有多离谱",
-      "onboard_time": 1714534638,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 175194,
       "num": 175194,
       "word": "韩信无双",
@@ -6641,6 +6657,14 @@
       "onboard_time": 1714431855,
       "rank": 24,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 173105,
+      "num": 173105,
+      "word": "花儿与少年 群像的神",
+      "onboard_time": 1714537217,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 173033,
@@ -7819,6 +7843,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 145227,
+      "num": 145227,
+      "word": "腾讯视频5月大剧片单",
+      "onboard_time": 1714537699,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145210,
       "num": 145210,
       "word": "Doinb说不打老头杯没热度",
@@ -8081,6 +8113,14 @@
       "onboard_time": 1714460900,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137963,
+      "num": 137963,
+      "word": "COA7全球总决赛",
+      "onboard_time": 1714537998,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 137267,
@@ -9083,6 +9123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110759,
+      "num": 110759,
+      "word": "五月天香港演唱会因暴雨中止",
+      "onboard_time": 1714537877,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110658,
       "num": 331479,
       "word": "放假时总想去别的城市看看",
@@ -9113,14 +9161,6 @@
       "onboard_time": 1714397599,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108592,
-      "num": 108592,
-      "word": "花儿与少年 群像的神",
-      "onboard_time": 1714537217,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 108453,
@@ -9217,6 +9257,14 @@
       "onboard_time": 1714268837,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106065,
+      "num": 106065,
+      "word": "我有一个帽衫是什么梗",
+      "onboard_time": 1714537998,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 104644,
@@ -10176,6 +10224,14 @@
       "word": "这次杭州司机礼让的是鸳鸯",
       "onboard_time": 1714422251,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7253,
+      "num": 267159,
+      "word": "美国洛杉矶一地铁与校车相撞",
+      "onboard_time": 1714538057,
+      "rank": 19,
       "category": "社会新闻"
     }
   ],
