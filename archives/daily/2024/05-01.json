@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714548869505,
+  "endTime": 1714551971699,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 929980,
+      "num": 507935,
+      "word": "电脑C盘最恶心的四大毒瘤",
+      "onboard_time": 1714547958,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 870938,
       "num": 870938,
       "word": "日本或将进入单身税时代",
@@ -113,6 +121,14 @@
       "onboard_time": 1714511231,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 803158,
+      "num": 803158,
+      "word": "内蒙古1.2万切糕事件反转",
+      "onboard_time": 1714546998,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 797138,
@@ -171,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 661981,
-      "num": 661981,
-      "word": "内蒙古1.2万切糕事件反转",
-      "onboard_time": 1714546998,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 652302,
       "num": 652302,
       "word": "福建舰海试",
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 556592,
-      "num": 260066,
+      "num": 365374,
       "word": "女子胎儿畸形引产后分手被要求退15万彩礼",
       "onboard_time": 1714541179,
       "rank": 22,
@@ -241,6 +249,14 @@
       "onboard_time": 1714534398,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 517651,
+      "num": 206605,
+      "word": "李连杰女儿哈佛大学毕业",
+      "onboard_time": 1714549698,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 507736,
@@ -363,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 412094,
+      "num": 246550,
+      "word": "张钧甯 大家都去哪里捅人窝了",
+      "onboard_time": 1714547538,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 411349,
       "num": 411349,
       "word": "苹果正在修复iPhone闹钟不响问题",
@@ -435,6 +459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 357823,
+      "num": 357823,
+      "word": "梅龙高速去年也曾因塌方中断",
+      "onboard_time": 1714549998,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353185,
       "num": 353185,
       "word": "五一不出去旅游还可以做什么",
@@ -457,6 +489,14 @@
       "onboard_time": 1714489641,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 343436,
+      "num": 259185,
+      "word": "美国六旬男子烧死妻子后自杀",
+      "onboard_time": 1714549277,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339323,
@@ -505,14 +545,6 @@
       "onboard_time": 1714544539,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 317092,
-      "num": 317092,
-      "word": "电脑C盘最恶心的四大毒瘤",
-      "onboard_time": 1714547958,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 312628,
@@ -577,6 +609,14 @@
       "onboard_time": 1714546098,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 289948,
+      "num": 204169,
+      "word": "IVE 中国文化",
+      "onboard_time": 1714551318,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 285775,
@@ -705,14 +745,6 @@
       "onboard_time": 1714518914,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246550,
-      "num": 246550,
-      "word": "张钧甯 大家都去哪里捅人窝了",
-      "onboard_time": 1714547538,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 244935,
@@ -875,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203078,
+      "num": 203078,
+      "word": "2024年巴黎奥运会",
+      "onboard_time": 1714551137,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202774,
       "num": 202774,
       "word": "大侦探",
@@ -937,6 +977,14 @@
       "onboard_time": 1714538417,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199295,
+      "num": 199295,
+      "word": "哈尔的移动城堡隐藏细节",
+      "onboard_time": 1714550718,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 199066,
@@ -1057,6 +1105,22 @@
       "onboard_time": 1714528336,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177370,
+      "num": 177370,
+      "word": "薛之谦 你的汗好酸哦",
+      "onboard_time": 1714551679,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 176307,
+      "num": 176307,
+      "word": "每个宿舍都有自己的空调姐",
+      "onboard_time": 1714547779,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 173405,
@@ -1411,6 +1475,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133893,
+      "num": 133893,
+      "word": "没想到猫咖的猫也要开早会",
+      "onboard_time": 1714546998,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 133613,
+      "num": 133613,
+      "word": "张韶涵演唱会淋雨带病演出",
+      "onboard_time": 1714549218,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132865,
       "num": 132865,
       "word": "突然发现2杯奶茶可以买一件衣服",
@@ -1419,12 +1499,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131252,
-      "num": 131252,
-      "word": "每个宿舍都有自己的空调姐",
-      "onboard_time": 1714547779,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 131505,
+      "num": 131505,
+      "word": "金秀贤金智媛杀青拥抱",
+      "onboard_time": 1714551738,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 131001,
@@ -1483,6 +1563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123611,
+      "num": 123611,
+      "word": "维和防暴队彩蛋",
+      "onboard_time": 1714551018,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123455,
       "num": 123455,
       "word": "城中之城 赵辉跳楼",
@@ -1496,6 +1584,14 @@
       "word": "孟子义早期照片",
       "onboard_time": 1714519994,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122790,
+      "num": 122790,
+      "word": "保罗奥斯特去世",
+      "onboard_time": 1714549578,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1521,14 +1617,6 @@
       "onboard_time": 1714487478,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120876,
-      "num": 120876,
-      "word": "没想到猫咖的猫也要开早会",
-      "onboard_time": 1714546998,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 120153,
@@ -1961,6 +2049,14 @@
       "onboard_time": 1714515132,
       "rank": 49,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 48687,
+      "num": 537526,
+      "word": "花开种花家",
+      "onboard_time": 1714551378,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46359,

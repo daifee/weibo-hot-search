@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714548869505,
+  "endTime": 1714551971699,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -811,6 +811,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 929980,
+      "num": 507935,
+      "word": "电脑C盘最恶心的四大毒瘤",
+      "onboard_time": 1714547958,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 921904,
       "num": 800603,
       "word": "眼泪女王 太癫了",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1714432155,
       "rank": 17,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 803158,
+      "num": 803158,
+      "word": "内蒙古1.2万切糕事件反转",
+      "onboard_time": 1714546998,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 801866,
@@ -1483,14 +1499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 661981,
-      "num": 661981,
-      "word": "内蒙古1.2万切糕事件反转",
-      "onboard_time": 1714546998,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 661066,
       "num": 212202,
       "word": "原来跑男早就预言了退出的人",
@@ -1876,7 +1884,7 @@
     },
     {
       "raw_hot": 556592,
-      "num": 260066,
+      "num": 365374,
       "word": "女子胎儿畸形引产后分手被要求退15万彩礼",
       "onboard_time": 1714541179,
       "rank": 22,
@@ -2065,6 +2073,14 @@
       "onboard_time": 1714277960,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 517651,
+      "num": 206605,
+      "word": "李连杰女儿哈佛大学毕业",
+      "onboard_time": 1714549698,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 517253,
@@ -2771,6 +2787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 412094,
+      "num": 246550,
+      "word": "张钧甯 大家都去哪里捅人窝了",
+      "onboard_time": 1714547538,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 411560,
       "num": 411560,
       "word": "雷军希望车企私下别搞小动作",
@@ -3139,6 +3163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357823,
+      "num": 357823,
+      "word": "梅龙高速去年也曾因塌方中断",
+      "onboard_time": 1714549998,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357523,
       "num": 357523,
       "word": "闹钟没响",
@@ -3249,6 +3281,14 @@
       "onboard_time": 1714276338,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343436,
+      "num": 259185,
+      "word": "美国六旬男子烧死妻子后自杀",
+      "onboard_time": 1714549277,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339870,
@@ -3521,14 +3561,6 @@
       "onboard_time": 1714270338,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317092,
-      "num": 317092,
-      "word": "电脑C盘最恶心的四大毒瘤",
-      "onboard_time": 1714547958,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 316703,
@@ -3857,6 +3889,14 @@
       "onboard_time": 1714433235,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289948,
+      "num": 204169,
+      "word": "IVE 中国文化",
+      "onboard_time": 1714551318,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 289395,
@@ -4529,14 +4569,6 @@
       "onboard_time": 1714271657,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246550,
-      "num": 246550,
-      "word": "张钧甯 大家都去哪里捅人窝了",
-      "onboard_time": 1714547538,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 246333,
@@ -5627,6 +5659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203078,
+      "num": 203078,
+      "word": "2024年巴黎奥运会",
+      "onboard_time": 1714551137,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203034,
       "num": 203034,
       "word": "五月天捐900万用于泉州校舍重建",
@@ -5833,6 +5873,14 @@
       "onboard_time": 1714538417,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199295,
+      "num": 199295,
+      "word": "哈尔的移动城堡隐藏细节",
+      "onboard_time": 1714550718,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 199280,
@@ -6899,6 +6947,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 177370,
+      "num": 177370,
+      "word": "薛之谦 你的汗好酸哦",
+      "onboard_time": 1714551679,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 176828,
       "num": 164238,
       "word": "震碎Kpop",
@@ -6921,6 +6977,14 @@
       "onboard_time": 1714265839,
       "rank": 30,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 176307,
+      "num": 176307,
+      "word": "每个宿舍都有自己的空调姐",
+      "onboard_time": 1714547779,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 175578,
@@ -8723,6 +8787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133893,
+      "num": 133893,
+      "word": "没想到猫咖的猫也要开早会",
+      "onboard_time": 1714546998,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133885,
       "num": 133885,
       "word": "洗脸不知这3个误区越洗皮肤越差",
@@ -8737,6 +8809,14 @@
       "onboard_time": 1714379778,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133613,
+      "num": 133613,
+      "word": "张韶涵演唱会淋雨带病演出",
+      "onboard_time": 1714549218,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 132926,
@@ -8803,6 +8883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131505,
+      "num": 131505,
+      "word": "金秀贤金智媛杀青拥抱",
+      "onboard_time": 1714551738,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131504,
       "num": 131504,
       "word": "原炀顾青裴 割裂感",
@@ -8833,14 +8921,6 @@
       "onboard_time": 1714229480,
       "rank": 38,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 131252,
-      "num": 131252,
-      "word": "每个宿舍都有自己的空调姐",
-      "onboard_time": 1714547779,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 130965,
@@ -9195,6 +9275,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 123611,
+      "num": 123611,
+      "word": "维和防暴队彩蛋",
+      "onboard_time": 1714551018,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123492,
       "num": 123492,
       "word": "小水獭独有的撒娇技巧",
@@ -9243,6 +9331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122790,
+      "num": 122790,
+      "word": "保罗奥斯特去世",
+      "onboard_time": 1714549578,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122060,
       "num": 122060,
       "word": "易烊千玺飘雪侧颜",
@@ -9273,14 +9369,6 @@
       "onboard_time": 1714236316,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120876,
-      "num": 120876,
-      "word": "没想到猫咖的猫也要开早会",
-      "onboard_time": 1714546998,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 120444,
@@ -10433,6 +10521,14 @@
       "onboard_time": 1714325292,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 48687,
+      "num": 537526,
+      "word": "花开种花家",
+      "onboard_time": 1714551378,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47627,
