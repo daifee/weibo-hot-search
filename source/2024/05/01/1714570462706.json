@@ -1,0 +1,410 @@
+{
+  "runTime": 1714570462706,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 691622,
+        "num": 691622,
+        "word": "庆余年2 超前观影",
+        "onboard_time": 1714569199,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446345,
+        "num": 446345,
+        "word": "外卖小哥陪瘫痪女子吃饭多年直到女子离世",
+        "onboard_time": 1714568359,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78816,
+        "num": 446016,
+        "word": "花开种花家",
+        "onboard_time": 1714551378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1483326,
+        "num": 440343,
+        "word": "梅大高速塌陷已致24人死亡",
+        "onboard_time": 1714554258,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1113439,
+        "num": 435317,
+        "word": "买房千万不要买挨着公园的",
+        "onboard_time": 1714564338,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 449098,
+        "num": 425739,
+        "word": "电脑C盘最恶心的四大毒瘤",
+        "onboard_time": 1714547958,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 424894,
+        "num": 424894,
+        "word": "张翰彻底放开了",
+        "onboard_time": 1714559598,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354378,
+        "num": 354378,
+        "word": "央视五一晚会",
+        "onboard_time": 1714566739,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348004,
+        "num": 348004,
+        "word": "张杰第一场演唱会第一首歌",
+        "onboard_time": 1714566679,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 307655,
+        "num": 307655,
+        "word": "王石放弃万科千万退休金",
+        "onboard_time": 1714564878,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 887724,
+        "num": 305347,
+        "word": "医院已确认梅龙高速塌方伤者身份",
+        "onboard_time": 1714556117,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825968,
+        "num": 301435,
+        "word": "徐艺洋说吵架会被黄子韬拉黑",
+        "onboard_time": 1714562959,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 737084,
+        "num": 294071,
+        "word": "陈牧驰 央视五一晚会",
+        "onboard_time": 1714568539,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 707095,
+        "num": 291815,
+        "word": "日本男演员涉华人夫妇焚尸案被捕",
+        "onboard_time": 1714568718,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394234,
+        "num": 283701,
+        "word": "梅大高速事故现场记者几度哽咽",
+        "onboard_time": 1714568359,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324016,
+        "num": 277488,
+        "word": "王一博cos布布",
+        "onboard_time": 1714565959,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 323174,
+        "num": 273679,
+        "word": "医院称全县救护车都去了事故现场",
+        "onboard_time": 1714569799,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272134,
+        "num": 272134,
+        "word": "星河 第五人格",
+        "onboard_time": 1714567998,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 256649,
+        "num": 256649,
+        "word": "五一假期是捅了人窝吧",
+        "onboard_time": 1714539017,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249530,
+        "num": 249530,
+        "word": "童瑶张新成裸泳镜头",
+        "onboard_time": 1714559359,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1235344,
+        "num": 246808,
+        "word": "如家酒店被曝花洒现粪便状异物",
+        "onboard_time": 1714566978,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582200,
+        "num": 246188,
+        "word": "孙怡素颜泳装照",
+        "onboard_time": 1714565598,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500556,
+        "num": 245427,
+        "word": "梅州高速塌方一女子5名亲人失联",
+        "onboard_time": 1714566198,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242399,
+        "num": 242399,
+        "word": "张韶涵演唱会淋雨带病演出",
+        "onboard_time": 1714549218,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220912,
+        "num": 220912,
+        "word": "女伴舞",
+        "onboard_time": 1714569618,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215998,
+        "num": 215998,
+        "word": "塌方灾害中他第一时间下车救起6人",
+        "onboard_time": 1714568539,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207822,
+        "num": 207822,
+        "word": "多家媒体发了王一博",
+        "onboard_time": 1714567819,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177806,
+        "num": 177806,
+        "word": "Angelababy明媚",
+        "onboard_time": 1714566259,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208390,
+        "num": 175218,
+        "word": "张韶涵 敬业",
+        "onboard_time": 1714564519,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169562,
+        "num": 169562,
+        "word": "星穹铁道演唱会直播",
+        "onboard_time": 1714568600,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206451,
+        "num": 168669,
+        "word": "梅龙高速塌陷现场航拍画面",
+        "onboard_time": 1714570399,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167589,
+        "num": 167589,
+        "word": "福宝",
+        "onboard_time": 1714556178,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161708,
+        "num": 161708,
+        "word": "T1战胜EST",
+        "onboard_time": 1714568119,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159520,
+        "num": 159520,
+        "word": "赵昭仪演爽了",
+        "onboard_time": 1714567458,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158367,
+        "num": 158367,
+        "word": "邓超请100个人看杨幂新电影",
+        "onboard_time": 1714557258,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143094,
+        "num": 143094,
+        "word": "云南偶遇Angelababy",
+        "onboard_time": 1714552578,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139664,
+        "num": 139664,
+        "word": "维和防暴队剧情",
+        "onboard_time": 1714556899,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134333,
+        "num": 134333,
+        "word": "为什么现在叫谁都叫老师",
+        "onboard_time": 1714570399,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132649,
+        "num": 132649,
+        "word": "是研究生就会懂这五分钟的含金量",
+        "onboard_time": 1714559898,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130235,
+        "num": 130235,
+        "word": "薛之谦 你的汗好酸哦",
+        "onboard_time": 1714551679,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128048,
+        "num": 128048,
+        "word": "90后靠讲古代文学存了400万",
+        "onboard_time": 1714561697,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127889,
+        "num": 127889,
+        "word": "哈尔滨一九四四 反转",
+        "onboard_time": 1714570220,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126977,
+        "num": 126977,
+        "word": "秦岚 不扫兴的大人",
+        "onboard_time": 1714561998,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117360,
+        "num": 117360,
+        "word": "王一珩 收虾啦",
+        "onboard_time": 1714565179,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116880,
+        "num": 116880,
+        "word": "五一档首日票房超去年",
+        "onboard_time": 1714565299,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108158,
+        "num": 108158,
+        "word": "张杰演唱会",
+        "onboard_time": 1714566139,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105329,
+        "num": 105329,
+        "word": "爷爷身上长猫了",
+        "onboard_time": 1714559598,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95855,
+        "num": 95855,
+        "word": "张镇麟隔扣徐昕",
+        "onboard_time": 1714567518,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92896,
+        "num": 92896,
+        "word": "徐明浩maestro个人cha",
+        "onboard_time": 1714567998,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91295,
+        "num": 91295,
+        "word": "武磊梅开二度",
+        "onboard_time": 1714569019,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信斯梅戴雷沃钢厂职工#"
+    }
+  }
+}
