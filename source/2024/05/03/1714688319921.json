@@ -1,0 +1,410 @@
+{
+  "runTime": 1714688319921,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 610568,
+        "num": 610568,
+        "word": "河南大学",
+        "onboard_time": 1714675092,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 225850,
+        "num": 225850,
+        "word": "小众城市突然爆红",
+        "onboard_time": 1714661899,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 30401,
+        "num": 133814,
+        "word": "数据见证五一假期出行热度",
+        "onboard_time": 1714654999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260829,
+        "num": 130987,
+        "word": "华晨宇内娱首个凌晨三点开演唱会",
+        "onboard_time": 1714666387,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105534,
+        "num": 105534,
+        "word": "梅大高速塌方已致48人死亡",
+        "onboard_time": 1714635678,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81022,
+        "num": 81022,
+        "word": "102岁奶奶补办身份证女警手舞足蹈引导",
+        "onboard_time": 1714666875,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73712,
+        "num": 73712,
+        "word": "萌娃走失说自己住11楼小区把警察弄懵",
+        "onboard_time": 1714678690,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70612,
+        "num": 70612,
+        "word": "观音桥网红天桥因人流火爆而限流",
+        "onboard_time": 1714660340,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58734,
+        "num": 58734,
+        "word": "Tiffany被年轻人抛弃了吗",
+        "onboard_time": 1714645937,
+        "rank": 8,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 57502,
+        "num": 57502,
+        "word": "我弟弟就是最好的旅游搭子",
+        "onboard_time": 1714660999,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 451017,
+        "num": 56989,
+        "word": "胖猫 谭竹",
+        "onboard_time": 1714663219,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 157869,
+        "num": 56487,
+        "word": "胖猫",
+        "onboard_time": 1714653859,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 146445,
+        "num": 55913,
+        "word": "郭晋安离婚",
+        "onboard_time": 1714656380,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133797,
+        "num": 55884,
+        "word": "网友晒299元买朱珠价值5千二手包",
+        "onboard_time": 1714653258,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71147,
+        "num": 54847,
+        "word": "成龙回应满头白发",
+        "onboard_time": 1714653558,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54815,
+        "num": 54815,
+        "word": "IVE能不能把中国结摘下来",
+        "onboard_time": 1714655599,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51494,
+        "num": 51494,
+        "word": "发炎时要少吃4类食物",
+        "onboard_time": 1714662139,
+        "rank": 16,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 49497,
+        "num": 49497,
+        "word": "美国又一黑人男子遭警察跪压后身亡",
+        "onboard_time": 1714654759,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122253,
+        "num": 49374,
+        "word": "朱珠方发文谴责倒卖门票商品行为",
+        "onboard_time": 1714673592,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46393,
+        "num": 46393,
+        "word": "张杰在台上轻轻地碎了",
+        "onboard_time": 1714662258,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75346,
+        "num": 46149,
+        "word": "总是突然口干舌燥别以为是缺水",
+        "onboard_time": 1714680250,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72016,
+        "num": 45876,
+        "word": "老公一个月四千多养活我们一家三口",
+        "onboard_time": 1714639518,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50404,
+        "num": 45461,
+        "word": "褚会长称990万已支付完成",
+        "onboard_time": 1714660940,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48875,
+        "num": 45115,
+        "word": "女子家中吊顶坍塌客厅秒变毛坯",
+        "onboard_time": 1714683850,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44696,
+        "num": 44696,
+        "word": "医生多看了一眼30秒救回窒息婴儿",
+        "onboard_time": 1714670354,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44693,
+        "num": 44693,
+        "word": "韩国教授为IVE国风争议发声",
+        "onboard_time": 1714654457,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 38478,
+        "num": 38478,
+        "word": "拜登声称中俄印日经济停滞是因排外",
+        "onboard_time": 1714655538,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38373,
+        "num": 38373,
+        "word": "游客从橘子洲挤到五一广场",
+        "onboard_time": 1714668497,
+        "rank": 27,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 36920,
+        "num": 36920,
+        "word": "张子枫哭出了漫画里才有的泪眼",
+        "onboard_time": 1714641439,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36125,
+        "num": 36125,
+        "word": "女子吐槽夏季女装不适合普通人",
+        "onboard_time": 1714671614,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86731,
+        "num": 36115,
+        "word": "新加坡驻日参赞在澡堂偷拍未成年男孩",
+        "onboard_time": 1714677791,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35969,
+        "num": 35969,
+        "word": "成毅工作室放饭",
+        "onboard_time": 1714664538,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34628,
+        "num": 34628,
+        "word": "昆明蓝莓12元1盒震惊外地游客",
+        "onboard_time": 1714652059,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33096,
+        "num": 33096,
+        "word": "郭晋安欧倩怡 共用微博",
+        "onboard_time": 1714659561,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30417,
+        "num": 30417,
+        "word": "今年五一没人结婚吗",
+        "onboard_time": 1714632616,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26967,
+        "num": 26967,
+        "word": "五一档新片票房破9亿",
+        "onboard_time": 1714660221,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26879,
+        "num": 26879,
+        "word": "射手座容易给人制造恋爱假象",
+        "onboard_time": 1714664119,
+        "rank": 36,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 26785,
+        "num": 26785,
+        "word": "乐山大佛排队4小时才能看到佛脚",
+        "onboard_time": 1714663159,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 26503,
+        "num": 26503,
+        "word": "罗西 临界十缨",
+        "onboard_time": 1714642097,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 26471,
+        "num": 26471,
+        "word": "黄景瑜演技",
+        "onboard_time": 1714663101,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26428,
+        "num": 26428,
+        "word": "汪苏泷如果爱忘了",
+        "onboard_time": 1714663278,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25317,
+        "num": 25317,
+        "word": "室友一年要五个生日礼物",
+        "onboard_time": 1714651757,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24166,
+        "num": 24166,
+        "word": "杨谨华回应与萧亚轩友情",
+        "onboard_time": 1714663399,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23699,
+        "num": 23699,
+        "word": "迪丽热巴旗袍舞台直拍",
+        "onboard_time": 1714663101,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20871,
+        "num": 23693,
+        "word": "公共场所有多脏",
+        "onboard_time": 1714650619,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20559,
+        "num": 23685,
+        "word": "李健枣庄演唱会",
+        "onboard_time": 1714668794,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20263,
+        "num": 23667,
+        "word": "华晨宇日出演唱会",
+        "onboard_time": 1714662079,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20005,
+        "num": 23662,
+        "word": "WTT沙特大满贯2024",
+        "onboard_time": 1714659321,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18796,
+        "num": 23641,
+        "word": "切尔西vs热刺",
+        "onboard_time": 1714676351,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18753,
+        "num": 23641,
+        "word": "时代少年团重庆",
+        "onboard_time": 1714660340,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
