@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714638162978,
+  "endTime": 1714638894089,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6412047,
-      "num": 7662047,
+      "raw_hot": 7156334,
+      "num": 8406334,
       "word": "梅大高速塌方已致48人死亡",
       "onboard_time": 1714635678,
       "rank": 0,
@@ -131,8 +131,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1178983,
-      "num": 1178983,
+      "raw_hot": 1193466,
+      "num": 1193466,
       "word": "广东省委书记省长面向塌方地三鞠躬",
       "onboard_time": 1714636158,
       "rank": 1,
@@ -619,12 +619,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 591813,
+      "num": 330079,
+      "word": "梅龙高速塌方亲历者在路塌前冲了过去",
+      "onboard_time": 1714636278,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 589455,
       "num": 589455,
       "word": "曹骏古装",
       "onboard_time": 1714616839,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 574669,
+      "num": 574669,
+      "word": "刘涛秦岚吵架 破碎的是赵昭仪",
+      "onboard_time": 1714635557,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 566111,
@@ -641,14 +657,6 @@
       "onboard_time": 1714541179,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 553372,
-      "num": 553372,
-      "word": "刘涛秦岚吵架 破碎的是赵昭仪",
-      "onboard_time": 1714635557,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 549211,
@@ -737,14 +745,6 @@
       "onboard_time": 1714524498,
       "rank": 11,
       "category": "军事,国内时政"
-    },
-    {
-      "raw_hot": 498152,
-      "num": 330079,
-      "word": "梅龙高速塌方亲历者在路塌前冲了过去",
-      "onboard_time": 1714636278,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 486742,
@@ -899,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446488,
+      "num": 446488,
+      "word": "专家称梅大高速坍塌前或有征兆",
+      "onboard_time": 1714634838,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446345,
       "num": 471737,
       "word": "外卖小哥陪瘫痪女子吃饭多年直到女子离世",
@@ -995,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415187,
+      "num": 415187,
+      "word": "魏大勋超话今天爆了",
+      "onboard_time": 1714635197,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413449,
       "num": 413449,
       "word": "这是国产剧能看到的尺度吗",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1714549998,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 394505,
-      "num": 394505,
-      "word": "魏大勋超话今天爆了",
-      "onboard_time": 1714635197,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 388118,
@@ -1267,14 +1275,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 346661,
-      "num": 346661,
-      "word": "专家称梅大高速坍塌前或有征兆",
-      "onboard_time": 1714634838,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 345485,
       "num": 345485,
       "word": "原著陈麦冬拉黑了庄洁三次",
@@ -1289,6 +1289,14 @@
       "onboard_time": 1714560858,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 343271,
+      "num": 292800,
+      "word": "被韩国人精致穷的消费观震惊",
+      "onboard_time": 1714638558,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 341853,
@@ -1483,6 +1491,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 298449,
+      "num": 298449,
+      "word": "梅大高速",
+      "onboard_time": 1714557078,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296315,
       "num": 296315,
       "word": "星河 第五人格",
@@ -1497,14 +1513,6 @@
       "onboard_time": 1714546098,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 294171,
-      "num": 294171,
-      "word": "梅大高速",
-      "onboard_time": 1714557078,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285775,
@@ -1633,6 +1641,14 @@
       "onboard_time": 1714488980,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261834,
+      "num": 261834,
+      "word": "黄子韬抓住徐艺洋的手",
+      "onboard_time": 1714638201,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 261655,
@@ -1812,7 +1828,7 @@
     },
     {
       "raw_hot": 240116,
-      "num": 189024,
+      "num": 194106,
       "word": "西安回民街只有人没有街",
       "onboard_time": 1714636997,
       "rank": 23,
@@ -2251,6 +2267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197618,
+      "num": 197618,
+      "word": "哈尔的城堡为什么是移动的",
+      "onboard_time": 1714637960,
+      "rank": 36,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 196770,
       "num": 147091,
       "word": "月经期间到底有没有忌口",
@@ -2329,6 +2353,14 @@
       "onboard_time": 1714631478,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193472,
+      "num": 193472,
+      "word": "下次再也不在节假日出来了",
+      "onboard_time": 1714638558,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 192319,
@@ -2753,6 +2785,14 @@
       "onboard_time": 1714617438,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169438,
+      "num": 169438,
+      "word": "刘忻 摇滚版有你在",
+      "onboard_time": 1714638259,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 168672,
@@ -3227,14 +3267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 148398,
-      "num": 148398,
-      "word": "哈尔的城堡为什么是移动的",
-      "onboard_time": 1714637960,
-      "rank": 36,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 148382,
       "num": 148382,
       "word": "独行侠3比2快船",
@@ -3433,6 +3465,14 @@
       "onboard_time": 1714477217,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 137969,
+      "num": 137969,
+      "word": "为啥女厕所总是排长队",
+      "onboard_time": 1714638439,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 137963,
@@ -3835,8 +3875,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121211,
-      "num": 121211,
+      "raw_hot": 121212,
+      "num": 121212,
       "word": "五一淄博烧烤商战再升级",
       "onboard_time": 1714637298,
       "rank": 47,
@@ -4755,6 +4795,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 48581,
+      "num": 792585,
+      "word": "打开青春的N种方式",
+      "onboard_time": 1714637239,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46359,
       "num": 121142,
       "word": "如果我写家乡",
@@ -4769,14 +4817,6 @@
       "onboard_time": 1714513271,
       "rank": 31,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 44967,
-      "num": 695249,
-      "word": "打开青春的N种方式",
-      "onboard_time": 1714637239,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44954,
