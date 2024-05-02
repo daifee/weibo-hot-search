@@ -1,6 +1,6 @@
 {
   "startTime": 1714666942242,
-  "endTime": 1714688319921,
+  "endTime": 1714689256781,
   "band_list": [
     {
       "raw_hot": 1841073,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 764298,
-      "num": 764298,
+      "raw_hot": 816857,
+      "num": 816857,
       "word": "河南大学",
       "onboard_time": 1714675092,
       "rank": 0,
@@ -113,6 +113,14 @@
       "onboard_time": 1714653258,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356733,
+      "num": 356733,
+      "word": "胖猫谭竹",
+      "onboard_time": 1714663219,
+      "rank": 1,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 346353,
@@ -283,6 +291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111993,
+      "num": 66443,
+      "word": "新加坡驻日参赞在澡堂偷拍未成年男孩",
+      "onboard_time": 1714677791,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111604,
       "num": 111604,
       "word": "杨天真在跑男里最想签下周深",
@@ -347,11 +363,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 86731,
-      "num": 36115,
-      "word": "新加坡驻日参赞在澡堂偷拍未成年男孩",
-      "onboard_time": 1714677791,
-      "rank": 19,
+      "raw_hot": 98186,
+      "num": 98186,
+      "word": "萌娃走失说自己住11楼小区把警察弄懵",
+      "onboard_time": 1714678690,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -361,6 +377,14 @@
       "onboard_time": 1714659020,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83166,
+      "num": 81451,
+      "word": "成龙回应满头白发",
+      "onboard_time": 1714653558,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 82584,
@@ -387,14 +411,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 81451,
-      "num": 81451,
-      "word": "成龙回应满头白发",
-      "onboard_time": 1714653558,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 81352,
       "num": 81352,
       "word": "黄子韬抓住徐艺洋的手",
@@ -403,20 +419,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79413,
+      "num": 55702,
+      "word": "总是突然口干舌燥别以为是缺水",
+      "onboard_time": 1714680250,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 76917,
       "num": 62022,
       "word": "医生多看了一眼30秒救回窒息婴儿",
       "onboard_time": 1714670354,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75346,
-      "num": 46149,
-      "word": "总是突然口干舌燥别以为是缺水",
-      "onboard_time": 1714680250,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 75230,
@@ -441,14 +457,6 @@
       "onboard_time": 1714642336,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 73712,
-      "num": 73712,
-      "word": "萌娃走失说自己住11楼小区把警察弄懵",
-      "onboard_time": 1714678690,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72293,
@@ -483,20 +491,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54679,
+      "num": 54679,
+      "word": "女子家中吊顶坍塌客厅秒变毛坯",
+      "onboard_time": 1714683850,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49733,
       "num": 53448,
       "word": "灿烂的花园",
       "onboard_time": 1714670115,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 48875,
-      "num": 45115,
-      "word": "女子家中吊顶坍塌客厅秒变毛坯",
-      "onboard_time": 1714683850,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45604,
@@ -515,12 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30401,
-      "num": 273724,
+      "raw_hot": 34813,
+      "num": 327180,
       "word": "数据见证五一假期出行热度",
       "onboard_time": 1714654999,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25728,
+      "num": 25728,
+      "word": "WTT沙特大满贯2024",
+      "onboard_time": 1714659321,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 21177,
@@ -531,12 +547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20606,
-      "num": 23662,
-      "word": "WTT沙特大满贯2024",
-      "onboard_time": 1714659321,
+      "raw_hot": 20120,
+      "num": 23906,
+      "word": "你家文旅真拼啊",
+      "onboard_time": 1714688772,
       "rank": 49,
-      "category": "体育"
+      "category": "旅游"
     }
   ],
   "hotgov_list": [
