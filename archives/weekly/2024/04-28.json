@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714660505148,
+  "endTime": 1714663192143,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -1139,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 887625,
+      "num": 434445,
+      "word": "梅大高速塌方",
+      "onboard_time": 1714659859,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 886512,
       "num": 886512,
       "word": "雷军回应给武大捐款13亿",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1714320018,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 861149,
+      "num": 861149,
+      "word": "据说每个城市都来了1亿人",
+      "onboard_time": 1714657519,
+      "rank": 13,
+      "category": "旅游"
     },
     {
       "raw_hot": 861140,
@@ -1851,6 +1867,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 683876,
+      "num": 477026,
+      "word": "网友晒299元买朱珠价值5千二手包",
+      "onboard_time": 1714653258,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 683751,
       "num": 595570,
       "word": "男子相亲支付20万即可领证",
@@ -2419,14 +2443,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 570540,
-      "num": 570540,
-      "word": "据说每个城市都来了1亿人",
-      "onboard_time": 1714657519,
-      "rank": 13,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 566748,
       "num": 566748,
       "word": "性格决定上班劳累程度",
@@ -2473,6 +2489,14 @@
       "onboard_time": 1714541179,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555525,
+      "num": 475957,
+      "word": "郭晋安欧倩怡 共用微博",
+      "onboard_time": 1714659561,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 554453,
@@ -2771,6 +2795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 513645,
+      "num": 513645,
+      "word": "褚会长称990万已支付完成",
+      "onboard_time": 1714660940,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513296,
       "num": 513296,
       "word": "福建舰",
@@ -2843,6 +2875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502626,
+      "num": 479151,
+      "word": "胖猫",
+      "onboard_time": 1714653859,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 499678,
       "num": 499678,
       "word": "春色寄情人 死亡教育",
@@ -2889,14 +2929,6 @@
       "onboard_time": 1714318578,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 492563,
-      "num": 477026,
-      "word": "网友晒299元买朱珠价值5千二手包",
-      "onboard_time": 1714653258,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 489377,
@@ -2995,14 +3027,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 479151,
-      "num": 479151,
-      "word": "胖猫",
-      "onboard_time": 1714653859,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
       "raw_hot": 478677,
       "num": 478677,
       "word": "何炅客串了难哄",
@@ -3033,14 +3057,6 @@
       "onboard_time": 1714520235,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 475957,
-      "num": 475957,
-      "word": "郭晋安欧倩怡 共用微博",
-      "onboard_time": 1714659561,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 475382,
@@ -3297,6 +3313,14 @@
       "onboard_time": 1714345754,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 454832,
+      "num": 454832,
+      "word": "小众城市突然爆红",
+      "onboard_time": 1714661899,
+      "rank": 7,
+      "category": "旅游"
     },
     {
       "raw_hot": 452993,
@@ -4379,14 +4403,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 343314,
-      "num": 272320,
-      "word": "梅大高速塌方",
-      "onboard_time": 1714659859,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341853,
       "num": 277024,
       "word": "女伴舞",
@@ -5195,6 +5211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284331,
+      "num": 284331,
+      "word": "WTT沙特大满贯2024",
+      "onboard_time": 1714659321,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283302,
       "num": 283302,
       "word": "我未杀伯仁 伯仁却因我而死",
@@ -5283,6 +5307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 276552,
+      "num": 276552,
+      "word": "张杰在台上轻轻地碎了",
+      "onboard_time": 1714662258,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 276033,
       "num": 276033,
       "word": "为什么大家都不愿意请假去旅游",
@@ -5329,6 +5361,14 @@
       "onboard_time": 1714650558,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274214,
+      "num": 274214,
+      "word": "观音桥网红天桥因人流火爆而限流",
+      "onboard_time": 1714660340,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273739,
@@ -5497,6 +5537,14 @@
       "onboard_time": 1714396758,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 267106,
+      "num": 267106,
+      "word": "我弟弟就是最好的旅游搭子",
+      "onboard_time": 1714660999,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 265855,
@@ -5841,14 +5889,6 @@
       "onboard_time": 1714491380,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248785,
-      "num": 248785,
-      "word": "WTT沙特大满贯2024",
-      "onboard_time": 1714659321,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 248779,
@@ -6491,6 +6531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 225833,
+      "num": 225833,
+      "word": "WTT沙特大满贯抽签仪式",
+      "onboard_time": 1714661420,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225669,
       "num": 225669,
       "word": "美国涉俄新制裁对中国实体下手",
@@ -6891,6 +6939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211241,
+      "num": 211241,
+      "word": "五一档新片票房破9亿",
+      "onboard_time": 1714660221,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210991,
       "num": 210991,
       "word": "在大学情商不高的表现",
@@ -7279,6 +7335,14 @@
       "num": 204197,
       "word": "薛之谦乌鲁木齐售罄",
       "onboard_time": 1714471698,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 204133,
+      "num": 204133,
+      "word": "华晨宇日出演唱会",
+      "onboard_time": 1714662079,
       "rank": 31,
       "category": "演出"
     },
@@ -7761,6 +7825,14 @@
       "onboard_time": 1714386378,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196890,
+      "num": 196890,
+      "word": "发炎时要少吃4类食物",
+      "onboard_time": 1714662139,
+      "rank": 32,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 196770,
@@ -8393,6 +8465,14 @@
       "onboard_time": 1714394419,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188166,
+      "num": 188166,
+      "word": "爸爸妈妈好像把我当小猫养了",
+      "onboard_time": 1714659919,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 188017,
@@ -9259,6 +9339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 172515,
+      "num": 172515,
+      "word": "张杰古装蒙眼",
+      "onboard_time": 1714662019,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172343,
       "num": 172343,
       "word": "张婧仪浴水照",
@@ -9361,14 +9449,6 @@
       "onboard_time": 1714539137,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170796,
-      "num": 170796,
-      "word": "爸爸妈妈好像把我当小猫养了",
-      "onboard_time": 1714659919,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 170612,
@@ -9875,14 +9955,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159851,
-      "num": 159851,
-      "word": "五一档新片票房破9亿",
-      "onboard_time": 1714660221,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 159797,
       "num": 159797,
       "word": "何小鹏欢迎特斯拉FSD进中国",
@@ -10251,14 +10323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154613,
-      "num": 154613,
-      "word": "观音桥网红天桥因人流火爆而限流",
-      "onboard_time": 1714660340,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154602,
       "num": 154602,
       "word": "广州多处铁皮厂房坍塌有人受伤",
@@ -10273,6 +10337,14 @@
       "onboard_time": 1714491800,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154449,
+      "num": 154449,
+      "word": "迪丽热巴旗袍舞台直拍",
+      "onboard_time": 1714663101,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154421,
@@ -10313,6 +10385,14 @@
       "onboard_time": 1714613358,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 154076,
+      "num": 154076,
+      "word": "黄景瑜演技",
+      "onboard_time": 1714663101,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 153928,
@@ -13489,6 +13569,14 @@
       "onboard_time": 1714496355,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96379,
+      "num": 129410,
+      "word": "乐山大佛排队4小时才能看到佛脚",
+      "onboard_time": 1714663159,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 95836,

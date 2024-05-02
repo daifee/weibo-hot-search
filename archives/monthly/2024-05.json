@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714660505148,
+  "endTime": 1714663192143,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -355,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 887625,
+      "num": 434445,
+      "word": "梅大高速塌方",
+      "onboard_time": 1714659859,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 872908,
       "num": 872908,
       "word": "西湖醋鱼",
@@ -377,6 +385,14 @@
       "onboard_time": 1714573878,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 861149,
+      "num": 861149,
+      "word": "据说每个城市都来了1亿人",
+      "onboard_time": 1714657519,
+      "rank": 13,
+      "category": "旅游"
     },
     {
       "raw_hot": 861140,
@@ -579,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 683876,
+      "num": 477026,
+      "word": "网友晒299元买朱珠价值5千二手包",
+      "onboard_time": 1714653258,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 683630,
       "num": 683630,
       "word": "薛之谦 你的汗好酸哦",
@@ -779,14 +803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 570540,
-      "num": 570540,
-      "word": "据说每个城市都来了1亿人",
-      "onboard_time": 1714657519,
-      "rank": 13,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 566111,
       "num": 566111,
       "word": "济南一对夫妻失联近一个月",
@@ -801,6 +817,14 @@
       "onboard_time": 1714541179,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555525,
+      "num": 475957,
+      "word": "郭晋安欧倩怡 共用微博",
+      "onboard_time": 1714659561,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 554195,
@@ -923,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 513645,
+      "num": 513645,
+      "word": "褚会长称990万已支付完成",
+      "onboard_time": 1714660940,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512297,
       "num": 512297,
       "word": "庆余年2",
@@ -939,12 +971,12 @@
       "category": "军事,国内时政"
     },
     {
-      "raw_hot": 492563,
-      "num": 477026,
-      "word": "网友晒299元买朱珠价值5千二手包",
-      "onboard_time": 1714653258,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 502626,
+      "num": 479151,
+      "word": "胖猫",
+      "onboard_time": 1714653859,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 486742,
@@ -971,14 +1003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 479151,
-      "num": 479151,
-      "word": "胖猫",
-      "onboard_time": 1714653859,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
       "raw_hot": 478677,
       "num": 478677,
       "word": "何炅客串了难哄",
@@ -1001,14 +1025,6 @@
       "onboard_time": 1714520235,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 475957,
-      "num": 475957,
-      "word": "郭晋安欧倩怡 共用微博",
-      "onboard_time": 1714659561,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 471485,
@@ -1105,6 +1121,14 @@
       "onboard_time": 1714621758,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 454832,
+      "num": 454832,
+      "word": "小众城市突然爆红",
+      "onboard_time": 1714661899,
+      "rank": 7,
+      "category": "旅游"
     },
     {
       "raw_hot": 452993,
@@ -1587,14 +1611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 343314,
-      "num": 272320,
-      "word": "梅大高速塌方",
-      "onboard_time": 1714659859,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341853,
       "num": 277024,
       "word": "女伴舞",
@@ -1875,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284331,
+      "num": 284331,
+      "word": "WTT沙特大满贯2024",
+      "onboard_time": 1714659321,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283038,
       "num": 283038,
       "word": "金智媛教的眼泪女王中文台词",
@@ -1907,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276552,
+      "num": 276552,
+      "word": "张杰在台上轻轻地碎了",
+      "onboard_time": 1714662258,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 275634,
       "num": 275634,
       "word": "WTT",
@@ -1921,6 +1953,14 @@
       "onboard_time": 1714650558,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274214,
+      "num": 274214,
+      "word": "观音桥网红天桥因人流火爆而限流",
+      "onboard_time": 1714660340,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271406,
@@ -1961,6 +2001,14 @@
       "onboard_time": 1714626678,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 267106,
+      "num": 267106,
+      "word": "我弟弟就是最好的旅游搭子",
+      "onboard_time": 1714660999,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 266363,
@@ -2081,14 +2129,6 @@
       "onboard_time": 1714491380,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248785,
-      "num": 248785,
-      "word": "WTT沙特大满贯2024",
-      "onboard_time": 1714659321,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 248434,
@@ -2315,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225833,
+      "num": 225833,
+      "word": "WTT沙特大满贯抽签仪式",
+      "onboard_time": 1714661420,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225669,
       "num": 225669,
       "word": "美国涉俄新制裁对中国实体下手",
@@ -2440,6 +2488,14 @@
       "word": "间谍过家家口碑",
       "onboard_time": 1714540037,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 211241,
+      "num": 211241,
+      "word": "五一档新片票房破9亿",
+      "onboard_time": 1714660221,
+      "rank": 46,
       "category": "电影"
     },
     {
@@ -2585,6 +2641,14 @@
       "onboard_time": 1714552158,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204133,
+      "num": 204133,
+      "word": "华晨宇日出演唱会",
+      "onboard_time": 1714662079,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 204079,
@@ -2777,6 +2841,14 @@
       "onboard_time": 1714650799,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196890,
+      "num": 196890,
+      "word": "发炎时要少吃4类食物",
+      "onboard_time": 1714662139,
+      "rank": 32,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 196770,
@@ -2977,6 +3049,14 @@
       "onboard_time": 1714656380,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188166,
+      "num": 188166,
+      "word": "爸爸妈妈好像把我当小猫养了",
+      "onboard_time": 1714659919,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 187911,
@@ -3307,6 +3387,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 172515,
+      "num": 172515,
+      "word": "张杰古装蒙眼",
+      "onboard_time": 1714662019,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172198,
       "num": 172198,
       "word": "美联储",
@@ -3353,14 +3441,6 @@
       "onboard_time": 1714539137,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170796,
-      "num": 170796,
-      "word": "爸爸妈妈好像把我当小猫养了",
-      "onboard_time": 1714659919,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 170490,
@@ -3627,14 +3707,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 159851,
-      "num": 159851,
-      "word": "五一档新片票房破9亿",
-      "onboard_time": 1714660221,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 159532,
       "num": 159532,
       "word": "看哈尔滨一九四四拳头硬了",
@@ -3779,20 +3851,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154613,
-      "num": 154613,
-      "word": "观音桥网红天桥因人流火爆而限流",
-      "onboard_time": 1714660340,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154568,
       "num": 154568,
       "word": "比初恋更遗憾的是半生朋友be",
       "onboard_time": 1714491800,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154449,
+      "num": 154449,
+      "word": "迪丽热巴旗袍舞台直拍",
+      "onboard_time": 1714663101,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154342,
@@ -3817,6 +3889,14 @@
       "onboard_time": 1714613358,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 154076,
+      "num": 154076,
+      "word": "黄景瑜演技",
+      "onboard_time": 1714663101,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 153456,
@@ -5377,6 +5457,14 @@
       "onboard_time": 1714496355,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96379,
+      "num": 129410,
+      "word": "乐山大佛排队4小时才能看到佛脚",
+      "onboard_time": 1714663159,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 95836,
