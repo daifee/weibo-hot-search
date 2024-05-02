@@ -1,6 +1,6 @@
 {
   "startTime": 1714580547459,
-  "endTime": 1714655938419,
+  "endTime": 1714656883156,
   "band_list": [
     {
       "raw_hot": 7156334,
@@ -19,8 +19,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1920016,
+      "num": 751731,
+      "word": "梅大高速塌方一家五口确认遇难",
+      "onboard_time": 1714654759,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1570978,
-      "num": 284503,
+      "num": 289834,
       "word": "老公一个月四千多养活我们一家三口",
       "onboard_time": 1714639518,
       "rank": 20,
@@ -48,14 +56,6 @@
       "word": "5000一晚的酒店薅走35瓶洗发水能回本吗",
       "onboard_time": 1714621997,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1313121,
-      "num": 380718,
-      "word": "梅大高速塌方一家五口确认遇难",
-      "onboard_time": 1714654759,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 800192,
-      "num": 252893,
+      "num": 288080,
       "word": "室友一年要五个生日礼物",
       "onboard_time": 1714651757,
       "rank": 21,
@@ -265,6 +265,22 @@
       "onboard_time": 1714615158,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762441,
+      "num": 288556,
+      "word": "郭晋安离婚",
+      "onboard_time": 1714656380,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 745366,
+      "num": 745366,
+      "word": "韩国教授为IVE国风争议发声",
+      "onboard_time": 1714654457,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 724564,
@@ -355,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 637733,
+      "num": 637733,
+      "word": "美国又一黑人男子遭警察跪压后身亡",
+      "onboard_time": 1714654759,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629006,
       "num": 629006,
       "word": "日本小镇拉黑布遮挡富士山远景",
@@ -427,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 545432,
-      "num": 376755,
-      "word": "韩国教授为IVE国风争议发声",
-      "onboard_time": 1714654457,
-      "rank": 11,
-      "category": "音乐"
+      "raw_hot": 548307,
+      "num": 548307,
+      "word": "山西恒山景区发生落石事件致1死5伤",
+      "onboard_time": 1714655659,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543788,
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 534188,
-      "num": 251574,
+      "num": 286819,
       "word": "昆明蓝莓12元1盒震惊外地游客",
       "onboard_time": 1714652059,
       "rank": 24,
@@ -476,7 +500,7 @@
     },
     {
       "raw_hot": 485059,
-      "num": 372885,
+      "num": 464448,
       "word": "成龙回应满头白发",
       "onboard_time": 1714653558,
       "rank": 24,
@@ -547,6 +571,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 464014,
+      "num": 286119,
+      "word": "网友晒299元买朱珠价值5千二手包",
+      "onboard_time": 1714653258,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 462389,
       "num": 245642,
       "word": "徐艺洋管狗狗叫黄子韬",
@@ -561,14 +593,6 @@
       "onboard_time": 1714621758,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 454903,
-      "num": 248737,
-      "word": "网友晒299元买朱珠价值5千二手包",
-      "onboard_time": 1714653258,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 449861,
@@ -609,6 +633,14 @@
       "onboard_time": 1714644978,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 431242,
+      "num": 431242,
+      "word": "Tiffany玄学",
+      "onboard_time": 1714652417,
+      "rank": 30,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 429471,
@@ -659,14 +691,6 @@
       "category": "艺人,运动健身"
     },
     {
-      "raw_hot": 406217,
-      "num": 406217,
-      "word": "Tiffany玄学",
-      "onboard_time": 1714652417,
-      "rank": 30,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 401775,
       "num": 401775,
       "word": "淄博烧烤",
@@ -697,14 +721,6 @@
       "onboard_time": 1714649656,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 385550,
-      "num": 385550,
-      "word": "美国又一黑人男子遭警察跪压后身亡",
-      "onboard_time": 1714654759,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 385104,
@@ -747,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 365716,
+      "num": 365716,
+      "word": "周深录奔跑吧哭了",
+      "onboard_time": 1714653498,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364495,
       "num": 287158,
       "word": "梅大高速塌陷货车司机夫妇喊停后车",
@@ -769,14 +793,6 @@
       "onboard_time": 1714631357,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 362907,
-      "num": 362907,
-      "word": "周深录奔跑吧哭了",
-      "onboard_time": 1714653498,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 358620,
@@ -867,6 +883,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318609,
+      "num": 318609,
+      "word": "魏晨南京",
+      "onboard_time": 1714656021,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 315541,
+      "num": 315541,
+      "word": "胖猫",
+      "onboard_time": 1714653859,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 315508,
       "num": 315508,
       "word": "淄博八大局500米走半小时",
@@ -937,6 +969,14 @@
       "onboard_time": 1714574059,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270318,
+      "num": 270318,
+      "word": "薛之谦给王俊凯电影点想看",
+      "onboard_time": 1714656619,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 267893,
@@ -1017,14 +1057,6 @@
       "onboard_time": 1714636997,
       "rank": 23,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 239818,
-      "num": 239818,
-      "word": "胖猫",
-      "onboard_time": 1714653859,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 239088,
@@ -1211,6 +1243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 200753,
+      "num": 200753,
+      "word": "北岳恒山景区落石砸伤多人",
+      "onboard_time": 1714652239,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200569,
       "num": 200569,
       "word": "孙怡素颜泳装照",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1714625538,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199225,
+      "num": 199225,
+      "word": "IVE能不能把中国结摘下来",
+      "onboard_time": 1714655599,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 198126,
@@ -1339,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188449,
+      "num": 188449,
+      "word": "恒山",
+      "onboard_time": 1714656380,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187739,
       "num": 187739,
       "word": "金秀贤金智媛幕后牵手",
@@ -1403,14 +1459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 182210,
-      "num": 182210,
-      "word": "北岳恒山景区落石砸伤多人",
-      "onboard_time": 1714652239,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180352,
       "num": 180352,
       "word": "我想我会一直孤单",
@@ -1451,6 +1499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178204,
+      "num": 178204,
+      "word": "反向旅游",
+      "onboard_time": 1714655238,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 177952,
       "num": 157534,
       "word": "哀牢山到底有多可怕",
@@ -1467,6 +1523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175874,
+      "num": 175874,
+      "word": "拜登声称中俄印日经济停滞是因排外",
+      "onboard_time": 1714655538,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 175540,
       "num": 175540,
       "word": "刘宇宁问我和迪丽热巴长得不像吗",
@@ -1476,7 +1540,7 @@
     },
     {
       "raw_hot": 175149,
-      "num": 499250,
+      "num": 502046,
       "word": "女童溺水被救全家上门磕头跪谢恩人",
       "onboard_time": 1714643478,
       "rank": 9,
@@ -1577,14 +1641,6 @@
       "onboard_time": 1714638259,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168697,
-      "num": 168697,
-      "word": "山西恒山景区发生落石事件致1死5伤",
-      "onboard_time": 1714655659,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167137,
@@ -1699,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160781,
+      "num": 160781,
+      "word": "闺蜜男友桌下勾引南雅",
+      "onboard_time": 1714656200,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158180,
       "num": 158180,
       "word": "五月天香港演唱会延期补偿方案",
@@ -1761,6 +1825,14 @@
       "onboard_time": 1714613358,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 153456,
+      "num": 153456,
+      "word": "汤杯中国2比1印度",
+      "onboard_time": 1714655538,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 152702,
@@ -1947,14 +2019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139441,
-      "num": 139441,
-      "word": "反向旅游",
-      "onboard_time": 1714655238,
-      "rank": 40,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 137439,
       "num": 137439,
       "word": "庆余年2",
@@ -2019,6 +2083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134013,
+      "num": 134013,
+      "word": "TTG闪电战",
+      "onboard_time": 1714656380,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133988,
       "num": 133988,
       "word": "梅大高速事故现场记者几度哽咽",
@@ -2033,14 +2105,6 @@
       "onboard_time": 1714622177,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 133927,
-      "num": 133927,
-      "word": "汤杯中国2比1印度",
-      "onboard_time": 1714655538,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 133551,
@@ -2155,14 +2219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125288,
-      "num": 125288,
-      "word": "拜登声称中俄印日经济停滞是因排外",
-      "onboard_time": 1714655538,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 123949,
       "num": 123949,
       "word": "男子闯女厕索要微信发淫秽信息被拘",
@@ -2209,14 +2265,6 @@
       "onboard_time": 1714643059,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 118038,
-      "num": 118038,
-      "word": "IVE能不能把中国结摘下来",
-      "onboard_time": 1714655599,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 117390,
@@ -2643,6 +2691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66190,
+      "num": 903982,
+      "word": "2分钟回顾神十七187天",
+      "onboard_time": 1714655659,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64357,
       "num": 64357,
       "word": "路人偶遇郭碧婷",
@@ -2729,14 +2785,6 @@
       "onboard_time": 1714588812,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 39500,
-      "num": 903982,
-      "word": "2分钟回顾神十七187天",
-      "onboard_time": 1714655659,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25495,
