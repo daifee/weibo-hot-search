@@ -1,6 +1,6 @@
 {
   "startTime": 1714580547459,
-  "endTime": 1714649655273,
+  "endTime": 1714653230182,
   "band_list": [
     {
       "raw_hot": 7156334,
@@ -33,6 +33,14 @@
       "onboard_time": 1714632616,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1474531,
+      "num": 1474531,
+      "word": "马小跳 跳伞",
+      "onboard_time": 1714648577,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 1338559,
@@ -139,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1084405,
+      "num": 1084405,
+      "word": "Tiffany被年轻人抛弃了吗",
+      "onboard_time": 1714645937,
+      "rank": 30,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 1003255,
       "num": 261793,
       "word": "张元英在家除了睡觉不会躺着",
@@ -177,14 +193,6 @@
       "onboard_time": 1714616538,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 807095,
-      "num": 278452,
-      "word": "Tiffany被年轻人抛弃了吗",
-      "onboard_time": 1714645937,
-      "rank": 30,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 802219,
@@ -251,12 +259,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 695785,
+      "num": 695785,
+      "word": "指甲卖钱",
+      "onboard_time": 1714646657,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 693178,
       "num": 693178,
       "word": "山东一公司4人窒息死亡事故调查报告",
       "onboard_time": 1714624997,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691326,
+      "num": 368934,
+      "word": "公共场所有多脏",
+      "onboard_time": 1714650619,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 680872,
@@ -371,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 551273,
+      "num": 470136,
+      "word": "梅大高速塌方救援发布会直播",
+      "onboard_time": 1714635918,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543788,
       "num": 543788,
       "word": "王者荣耀时代少年团",
@@ -395,20 +427,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 524791,
+      "num": 524791,
+      "word": "西湖醋鱼",
+      "onboard_time": 1714651218,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 517396,
       "num": 517396,
       "word": "梅州高速塌方一女子5名亲人失联",
       "onboard_time": 1714566198,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 485054,
-      "num": 485054,
-      "word": "指甲卖钱",
-      "onboard_time": 1714646657,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 480999,
@@ -441,14 +473,6 @@
       "onboard_time": 1714619298,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 470136,
-      "num": 470136,
-      "word": "梅大高速塌方救援发布会直播",
-      "onboard_time": 1714635918,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 469733,
@@ -587,6 +611,14 @@
       "category": "艺人,运动健身"
     },
     {
+      "raw_hot": 406401,
+      "num": 215872,
+      "word": "室友一年要五个生日礼物",
+      "onboard_time": 1714651757,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 401775,
       "num": 401775,
       "word": "淄博烧烤",
@@ -611,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 385631,
+      "num": 385631,
+      "word": "BABYMONSTER打歌初一位",
+      "onboard_time": 1714649656,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 385104,
       "num": 385104,
       "word": "晒被子的最佳方式竟然是套个黑色塑料袋",
@@ -633,14 +673,6 @@
       "onboard_time": 1714647138,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 371768,
-      "num": 371768,
-      "word": "马小跳 跳伞",
-      "onboard_time": 1714648577,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 370228,
@@ -819,6 +851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274221,
+      "num": 212173,
+      "word": "Jennie机场",
+      "onboard_time": 1714650558,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271792,
       "num": 271792,
       "word": "白鹿曾舜晞吻脖子路透",
@@ -923,6 +963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233108,
+      "num": 233108,
+      "word": "做手术时肠炎发作",
+      "onboard_time": 1714650737,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228076,
       "num": 228076,
       "word": "外交部回应美国务卿涉台声明",
@@ -937,6 +985,14 @@
       "onboard_time": 1714623498,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 223472,
+      "num": 209089,
+      "word": "昆明蓝莓12元1盒震惊外地游客",
+      "onboard_time": 1714652059,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216331,
@@ -976,6 +1032,14 @@
       "word": "开始推理吧2开播",
       "onboard_time": 1714621159,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 208860,
+      "num": 208860,
+      "word": "种地吧",
+      "onboard_time": 1714652059,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -1099,6 +1163,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 197553,
+      "num": 197553,
+      "word": "九龙城寨 小妈文学",
+      "onboard_time": 1714650799,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196770,
       "num": 147091,
       "word": "月经期间到底有没有忌口",
@@ -1121,6 +1193,14 @@
       "onboard_time": 1714621518,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194631,
+      "num": 194631,
+      "word": "TES零封LLL",
+      "onboard_time": 1714650078,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 194481,
@@ -1169,6 +1249,14 @@
       "onboard_time": 1714639098,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189269,
+      "num": 189269,
+      "word": "Tiffany玄学",
+      "onboard_time": 1714652417,
+      "rank": 30,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 189026,
@@ -1651,6 +1739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147511,
+      "num": 147511,
+      "word": "山西恒山景区回应落石砸伤游客",
+      "onboard_time": 1714652657,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146119,
       "num": 146119,
       "word": "为啥女厕所总是排长队",
@@ -1739,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137645,
+      "num": 137645,
+      "word": "齐司礼 7推国宴",
+      "onboard_time": 1714652059,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137439,
       "num": 137439,
       "word": "庆余年2",
@@ -1761,6 +1865,14 @@
       "onboard_time": 1714624338,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137023,
+      "num": 137023,
+      "word": "蔚来暴涨超20%",
+      "onboard_time": 1714651148,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 136400,
@@ -1825,6 +1937,14 @@
       "onboard_time": 1714606695,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131830,
+      "num": 131830,
+      "word": "北岳恒山景区落石砸伤多人",
+      "onboard_time": 1714652239,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131735,
@@ -1907,12 +2027,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124931,
+      "num": 124931,
+      "word": "IVE打歌舞台造型",
+      "onboard_time": 1714650799,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 123949,
+      "num": 123949,
+      "word": "男子闯女厕索要微信发淫秽信息被拘",
+      "onboard_time": 1714647499,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121212,
       "num": 121212,
       "word": "五一淄博烧烤商战再升级",
       "onboard_time": 1714637298,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 120902,
+      "num": 120902,
+      "word": "五一假期各地人流量现状",
+      "onboard_time": 1714649717,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 119775,
@@ -1961,6 +2105,14 @@
       "onboard_time": 1714640959,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114909,
+      "num": 114909,
+      "word": "边防官兵的五一是顶风冒雪巡逻",
+      "onboard_time": 1714652718,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114228,
@@ -2105,6 +2257,14 @@
       "onboard_time": 1714577180,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103511,
+      "num": 103511,
+      "word": "文俊辉直播",
+      "onboard_time": 1714651518,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 103088,
@@ -2305,14 +2465,6 @@
       "onboard_time": 1714599731,
       "rank": 30,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 75682,
-      "num": 101268,
-      "word": "男子闯女厕索要微信发淫秽信息被拘",
-      "onboard_time": 1714647499,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72588,
