@@ -1,12 +1,20 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714635253914,
+  "endTime": 1714638162978,
   "band_list": [
     {
       "raw_hot": 7591896,
       "num": 7800346,
       "word": "梅龙高速塌陷已致19死30伤",
       "onboard_time": 1714533498,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6412047,
+      "num": 7662047,
+      "word": "梅大高速塌方已致48人死亡",
+      "onboard_time": 1714635678,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -121,6 +129,14 @@
       "onboard_time": 1714614137,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1178983,
+      "num": 1178983,
+      "word": "广东省委书记省长面向塌方地三鞠躬",
+      "onboard_time": 1714636158,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1172965,
@@ -627,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553372,
+      "num": 553372,
+      "word": "刘涛秦岚吵架 破碎的是赵昭仪",
+      "onboard_time": 1714635557,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 549211,
       "num": 549211,
       "word": "南雅被继兄侵犯",
@@ -715,6 +739,14 @@
       "category": "军事,国内时政"
     },
     {
+      "raw_hot": 498152,
+      "num": 330079,
+      "word": "梅龙高速塌方亲历者在路塌前冲了过去",
+      "onboard_time": 1714636278,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 486742,
       "num": 419988,
       "word": "肖战对接辟谣包场王一博电影",
@@ -777,6 +809,14 @@
       "onboard_time": 1714546158,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 470136,
+      "num": 470136,
+      "word": "梅大高速塌方救援发布会直播",
+      "onboard_time": 1714635918,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469733,
@@ -1051,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394505,
+      "num": 394505,
+      "word": "魏大勋超话今天爆了",
+      "onboard_time": 1714635197,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388118,
       "num": 239813,
       "word": "是研究生就会懂这五分钟的含金量",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1714489641,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 346661,
+      "num": 346661,
+      "word": "专家称梅大高速坍塌前或有征兆",
+      "onboard_time": 1714634838,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345485,
@@ -1441,6 +1497,14 @@
       "onboard_time": 1714546098,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 294171,
+      "num": 294171,
+      "word": "梅大高速",
+      "onboard_time": 1714557078,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285775,
@@ -1745,6 +1809,14 @@
       "onboard_time": 1714489279,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 240116,
+      "num": 189024,
+      "word": "西安回民街只有人没有街",
+      "onboard_time": 1714636997,
+      "rank": 23,
+      "category": "旅游"
     },
     {
       "raw_hot": 239432,
@@ -2555,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174601,
+      "num": 174601,
+      "word": "包包有拉链真的太重要了",
+      "onboard_time": 1714632378,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174179,
       "num": 174179,
       "word": "特斯拉裁撤整个超级充电团队",
@@ -2643,6 +2723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170224,
+      "num": 170224,
+      "word": "关晓彤自己粘的睫毛",
+      "onboard_time": 1714637719,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169950,
       "num": 158927,
       "word": "很难坚持运动不是因为你懒",
@@ -2665,14 +2753,6 @@
       "onboard_time": 1714617438,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168891,
-      "num": 168891,
-      "word": "包包有拉链真的太重要了",
-      "onboard_time": 1714632378,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 168672,
@@ -2971,12 +3051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154573,
-      "num": 154573,
-      "word": "梅大高速",
-      "onboard_time": 1714557078,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 154803,
+      "num": 154803,
+      "word": "薛之谦演唱会drama",
+      "onboard_time": 1714637239,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 154568,
@@ -3083,14 +3163,6 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 150092,
-      "num": 150092,
-      "word": "专家称梅大高速坍塌前或有征兆",
-      "onboard_time": 1714634838,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150010,
       "num": 150010,
       "word": "张杰新歌",
@@ -3153,6 +3225,14 @@
       "onboard_time": 1714523055,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148398,
+      "num": 148398,
+      "word": "哈尔的城堡为什么是移动的",
+      "onboard_time": 1714637960,
+      "rank": 36,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 148382,
@@ -3305,6 +3385,14 @@
       "onboard_time": 1714621096,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140207,
+      "num": 140207,
+      "word": "花少1吃不饱花少5吃太饱",
+      "onboard_time": 1714635678,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 139706,
@@ -3747,12 +3835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121244,
-      "num": 121244,
-      "word": "魏大勋超话今天爆了",
-      "onboard_time": 1714635197,
+      "raw_hot": 121211,
+      "num": 121211,
+      "word": "五一淄博烧烤商战再升级",
+      "onboard_time": 1714637298,
       "rank": 47,
-      "category": "综艺"
+      "category": "美食"
     },
     {
       "raw_hot": 121202,
@@ -4683,6 +4771,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 44967,
+      "num": 695249,
+      "word": "打开青春的N种方式",
+      "onboard_time": 1714637239,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44954,
       "num": 44954,
       "word": "过度节食当心饿出脂肪肝",
@@ -4800,6 +4896,9 @@
     },
     {
       "word": "#你是大国工匠#"
+    },
+    {
+      "word": "#习近平对梅大高速塌方灾害作出重要指示#"
     }
   ]
 }
