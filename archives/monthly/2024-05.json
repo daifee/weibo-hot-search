@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714616856611,
+  "endTime": 1714617497905,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1237151,
+      "num": 1237151,
+      "word": "北大居然偷偷出了这么多神器",
+      "onboard_time": 1714614137,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1155449,
       "num": 1155449,
       "word": "男演员骗88人到柬埔寨进行电信诈骗",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1129432,
-      "num": 724094,
+      "num": 765550,
       "word": "周鸿祎 迈巴赫",
       "onboard_time": 1714614256,
       "rank": 5,
@@ -137,6 +145,14 @@
       "onboard_time": 1714575499,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1082714,
+      "num": 185047,
+      "word": "罗西前女友爆料",
+      "onboard_time": 1714616178,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 1069308,
@@ -169,14 +185,6 @@
       "onboard_time": 1714533016,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 973936,
-      "num": 973936,
-      "word": "北大居然偷偷出了这么多神器",
-      "onboard_time": 1714614137,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 961530,
@@ -275,6 +283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 770560,
+      "num": 770560,
+      "word": "美国一夫妻中奖13亿美元将与朋友平分",
+      "onboard_time": 1714615158,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 757551,
       "num": 757551,
       "word": "福宝",
@@ -320,14 +336,6 @@
       "word": "花花和爷爷又谭崩了",
       "onboard_time": 1714533377,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 687720,
-      "num": 687720,
-      "word": "美国一夫妻中奖13亿美元将与朋友平分",
-      "onboard_time": 1714615158,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -433,14 +441,6 @@
       "onboard_time": 1714486758,
       "rank": 5,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 608818,
-      "num": 185047,
-      "word": "罗西前女友爆料",
-      "onboard_time": 1714616178,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 596192,
@@ -611,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 464450,
+      "num": 464450,
+      "word": "罗西",
+      "onboard_time": 1714613958,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 463933,
       "num": 463933,
       "word": "26岁了人生第一次吃小龙虾",
@@ -649,6 +657,14 @@
       "onboard_time": 1714605134,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 434649,
+      "num": 434649,
+      "word": "1995年5月1日中国人开始双休",
+      "onboard_time": 1714616538,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432228,
@@ -705,14 +721,6 @@
       "onboard_time": 1714494437,
       "rank": 34,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 418908,
-      "num": 418908,
-      "word": "罗西",
-      "onboard_time": 1714613958,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 415608,
@@ -1075,6 +1083,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 315192,
+      "num": 183243,
+      "word": "五一假期的聪明人被气晕了",
+      "onboard_time": 1714616358,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 312628,
       "num": 312628,
       "word": "茶百道联名",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1714524856,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 299685,
+      "num": 299685,
+      "word": "曹骏古装",
+      "onboard_time": 1714616839,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 296315,
@@ -1347,14 +1371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250452,
-      "num": 250452,
-      "word": "1995年5月1日中国人开始双休",
-      "onboard_time": 1714616538,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248939,
       "num": 248939,
       "word": "疑似情感纠纷女子带人冲进办公室殴打女员工",
@@ -1456,14 +1472,6 @@
       "word": "能当上销冠都是有原因的",
       "onboard_time": 1714610837,
       "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 238076,
-      "num": 183243,
-      "word": "五一假期的聪明人被气晕了",
-      "onboard_time": 1714616358,
-      "rank": 22,
       "category": "幽默"
     },
     {
@@ -1907,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188637,
+      "num": 177444,
+      "word": "王楚钦孙颖莎出席抽签仪式",
+      "onboard_time": 1714616898,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187911,
       "num": 187911,
       "word": "景区路边摊的臭豆腐到底有多脏",
@@ -2011,12 +2027,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 177952,
+      "num": 157534,
+      "word": "哀牢山到底有多可怕",
+      "onboard_time": 1714616597,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 177841,
       "num": 177841,
       "word": "旅游文案",
       "onboard_time": 1714561878,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177034,
+      "num": 177034,
+      "word": "好想收养我的研究生朋友",
+      "onboard_time": 1714616417,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 176307,
@@ -2113,6 +2145,14 @@
       "onboard_time": 1714604412,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 169930,
+      "num": 169930,
+      "word": "朱珠和朋友二手集市",
+      "onboard_time": 1714616658,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 168672,
@@ -2283,14 +2323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156223,
-      "num": 143941,
-      "word": "哀牢山到底有多可怕",
-      "onboard_time": 1714616597,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 156212,
       "num": 156212,
       "word": "院士哽咽介绍医生每天一首琵琶曲延长患者生命",
@@ -2425,6 +2457,14 @@
       "onboard_time": 1714522096,
       "rank": 34,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 150010,
+      "num": 150010,
+      "word": "张杰新歌",
+      "onboard_time": 1714617196,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 149506,
@@ -2563,6 +2603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143480,
+      "num": 143480,
+      "word": "杭州西湖边再现最美人墙",
+      "onboard_time": 1714616538,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 143018,
       "num": 143018,
       "word": "越没本事的人脾气还越大",
@@ -2617,14 +2665,6 @@
       "onboard_time": 1714562538,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138727,
-      "num": 138727,
-      "word": "杭州西湖边再现最美人墙",
-      "onboard_time": 1714616538,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 138572,
@@ -2883,14 +2923,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 125300,
-      "num": 125300,
-      "word": "好想收养我的研究生朋友",
-      "onboard_time": 1714616417,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 124145,
       "num": 124145,
       "word": "因为布置工位被领导约谈了",
@@ -2939,6 +2971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122816,
+      "num": 122816,
+      "word": "西湖",
+      "onboard_time": 1714617258,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 122790,
       "num": 122790,
       "word": "保罗奥斯特去世",
@@ -2961,14 +3001,6 @@
       "onboard_time": 1714541479,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121224,
-      "num": 121224,
-      "word": "朱珠和朋友二手集市",
-      "onboard_time": 1714616658,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 121202,
@@ -3025,6 +3057,14 @@
       "onboard_time": 1714534338,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117702,
+      "num": 117702,
+      "word": "独行侠vs快船",
+      "onboard_time": 1714617438,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 117472,
@@ -3243,6 +3283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110682,
+      "num": 110682,
+      "word": "维和防暴队影评",
+      "onboard_time": 1714615698,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 109686,
       "num": 109686,
       "word": "庆余年第二季过审下证",
@@ -3289,14 +3337,6 @@
       "onboard_time": 1714544479,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 108179,
-      "num": 108179,
-      "word": "曹骏古装",
-      "onboard_time": 1714616839,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 107585,
@@ -3417,6 +3457,14 @@
       "onboard_time": 1714478237,
       "rank": 39,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 100984,
+      "num": 100984,
+      "word": "日本最危险的拉面",
+      "onboard_time": 1714617017,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 100435,
@@ -3932,7 +3980,7 @@
     },
     {
       "raw_hot": 9376,
-      "num": 973289,
+      "num": 1003223,
       "word": "文化中国行",
       "onboard_time": 1713927617,
       "rank": 2,
