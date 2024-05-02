@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714674214305,
+  "endTime": 1714674941021,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -4787,6 +4787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123692,
+      "num": 82238,
+      "word": "朱珠方发文谴责倒卖门票商品行为",
+      "onboard_time": 1714673592,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123455,
       "num": 123455,
       "word": "城中之城 赵辉跳楼",
@@ -5609,14 +5617,6 @@
       "onboard_time": 1714515252,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89965,
-      "num": 44394,
-      "word": "朱珠方发文谴责倒卖门票商品行为",
-      "onboard_time": 1714673592,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 89102,
