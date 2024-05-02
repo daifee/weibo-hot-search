@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714617497905,
+  "endTime": 1714619975017,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 1129432,
-      "num": 765550,
+      "num": 771099,
       "word": "周鸿祎 迈巴赫",
       "onboard_time": 1714614256,
       "rank": 5,
@@ -627,6 +627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1110812,
+      "num": 241866,
+      "word": "张馨予何捷 云南",
+      "onboard_time": 1714617797,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1098189,
       "num": 1098189,
       "word": "张翰彻底放开了",
@@ -635,20 +643,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1097970,
+      "num": 240178,
+      "word": "罗西前女友爆料",
+      "onboard_time": 1714616178,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1084408,
       "num": 914742,
       "word": "高铁三大酷刑",
       "onboard_time": 1714575499,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1082714,
-      "num": 185047,
-      "word": "罗西前女友爆料",
-      "onboard_time": 1714616178,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 1081101,
@@ -915,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 934724,
+      "num": 934724,
+      "word": "大唐不夜城已被六国游客攻陷",
+      "onboard_time": 1714617677,
+      "rank": 1,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 933960,
       "num": 933960,
       "word": "太空归来3人全部安全出舱",
@@ -1155,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 832901,
+      "num": 490952,
+      "word": "1995年5月1日中国人开始双休",
+      "onboard_time": 1714616538,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 829946,
       "num": 829946,
       "word": "低估了五一堵车的程度",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1714605974,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 774039,
+      "num": 774039,
+      "word": "梅大高速塌陷已发现23辆车陷落",
+      "onboard_time": 1714618877,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 770575,
@@ -1739,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 650113,
+      "num": 650113,
+      "word": "周鸿祎回应迈巴赫中标者未付清余款",
+      "onboard_time": 1714617918,
+      "rank": 6,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 649443,
       "num": 649443,
       "word": "岂能尽如人意 但求不愧我心",
@@ -2009,6 +2049,14 @@
       "onboard_time": 1714448779,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589455,
+      "num": 589455,
+      "word": "曹骏古装",
+      "onboard_time": 1714616839,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 589269,
@@ -2787,6 +2835,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 458683,
+      "num": 458683,
+      "word": "他可是宝莲灯沉香",
+      "onboard_time": 1714618517,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 457938,
       "num": 457938,
       "word": "华为",
@@ -2961,14 +3017,6 @@
       "onboard_time": 1714388419,
       "rank": 6,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 434649,
-      "num": 434649,
-      "word": "1995年5月1日中国人开始双休",
-      "onboard_time": 1714616538,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 433299,
@@ -3265,6 +3313,14 @@
       "onboard_time": 1714381278,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401775,
+      "num": 401775,
+      "word": "淄博烧烤",
+      "onboard_time": 1714617738,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 400874,
@@ -3811,6 +3867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337072,
+      "num": 237765,
+      "word": "五一假期的聪明人被气晕了",
+      "onboard_time": 1714616358,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 337009,
       "num": 337009,
       "word": "杨幂晒了红发幺鸡",
@@ -4139,14 +4203,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 315192,
-      "num": 183243,
-      "word": "五一假期的聪明人被气晕了",
-      "onboard_time": 1714616358,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 314467,
       "num": 314467,
       "word": "东航就滑梯释放事件致歉",
@@ -4345,14 +4401,6 @@
       "onboard_time": 1714524856,
       "rank": 15,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 299685,
-      "num": 299685,
-      "word": "曹骏古装",
-      "onboard_time": 1714616839,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 299112,
@@ -5059,6 +5107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252642,
+      "num": 252642,
+      "word": "好想收养我的研究生朋友",
+      "onboard_time": 1714616417,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 252160,
       "num": 235904,
       "word": "娜扎跳伞",
@@ -5289,6 +5345,14 @@
       "onboard_time": 1714372159,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243850,
+      "num": 243850,
+      "word": "杨幂业内口碑",
+      "onboard_time": 1714619298,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 243708,
@@ -6073,6 +6137,14 @@
       "onboard_time": 1714388059,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 210384,
+      "num": 210384,
+      "word": "王楚钦孙颖莎出席抽签仪式",
+      "onboard_time": 1714616898,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 210147,
@@ -7323,14 +7395,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 188637,
-      "num": 177444,
-      "word": "王楚钦孙颖莎出席抽签仪式",
-      "onboard_time": 1714616898,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188395,
       "num": 188395,
       "word": "林俊杰深圳抢票",
@@ -7771,6 +7835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180352,
+      "num": 180352,
+      "word": "我想我会一直孤单",
+      "onboard_time": 1714618758,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180295,
       "num": 180295,
       "word": "涵艺爆料Ale加入AL",
@@ -7883,12 +7955,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 177034,
-      "num": 177034,
-      "word": "好想收养我的研究生朋友",
-      "onboard_time": 1714616417,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 176892,
+      "num": 521808,
+      "word": "杭州西湖边再现最美人墙",
+      "onboard_time": 1714616538,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 176828,
@@ -8107,6 +8179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171989,
+      "num": 171989,
+      "word": "武艺Sunnee加好友五年没说过话",
+      "onboard_time": 1714618396,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171812,
       "num": 171812,
       "word": "詹姆斯燃尽了自己",
@@ -8225,6 +8305,14 @@
       "onboard_time": 1714450279,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168730,
+      "num": 168730,
+      "word": "亚比囧囧囧",
+      "onboard_time": 1714619178,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 168672,
@@ -8393,6 +8481,22 @@
       "onboard_time": 1714538237,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164992,
+      "num": 164992,
+      "word": "九龙城寨 港片回来了",
+      "onboard_time": 1714619657,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 164173,
+      "num": 164173,
+      "word": "西湖",
+      "onboard_time": 1714617258,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 164112,
@@ -9547,6 +9651,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 144851,
+      "num": 144851,
+      "word": "高铁踩点",
+      "onboard_time": 1714619477,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 144627,
       "num": 144627,
       "word": "外交部回应哈马斯和法塔赫在京磋商",
@@ -9617,14 +9729,6 @@
       "onboard_time": 1714359258,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 143480,
-      "num": 143480,
-      "word": "杭州西湖边再现最美人墙",
-      "onboard_time": 1714616538,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 143406,
@@ -10105,6 +10209,14 @@
       "onboard_time": 1714379778,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133551,
+      "num": 133551,
+      "word": "张真源谈十岁进公司训练的经历",
+      "onboard_time": 1714617496,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 132926,
@@ -10705,14 +10817,6 @@
       "onboard_time": 1714519994,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122816,
-      "num": 122816,
-      "word": "西湖",
-      "onboard_time": 1714617258,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 122790,
@@ -12024,6 +12128,14 @@
       "word": "我的五一游记",
       "onboard_time": 1714483099,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74405,
+      "num": 242863,
+      "word": "孟加拉国高温临时关闭全国学校",
+      "onboard_time": 1714619417,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
