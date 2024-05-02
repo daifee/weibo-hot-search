@@ -1,6 +1,6 @@
 {
   "startTime": 1714580547459,
-  "endTime": 1714642506312,
+  "endTime": 1714645175675,
   "band_list": [
     {
       "raw_hot": 7156334,
@@ -19,19 +19,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1570978,
+      "num": 255030,
+      "word": "老公一个月四千多养活我们一家三口",
+      "onboard_time": 1714639518,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1515060,
       "num": 1515060,
       "word": "今年五一没人结婚吗",
       "onboard_time": 1714632616,
       "rank": 0,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1417879,
-      "num": 247630,
-      "word": "老公一个月四千多养活我们一家三口",
-      "onboard_time": 1714639518,
-      "rank": 20,
       "category": "情感"
     },
     {
@@ -57,6 +57,14 @@
       "onboard_time": 1714614137,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1200084,
+      "num": 1200084,
+      "word": "国务院安委会办公室印发紧急通知",
+      "onboard_time": 1714642336,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1172965,
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 700761,
+      "num": 498484,
+      "word": "罗西 临界十缨",
+      "onboard_time": 1714642097,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 700535,
       "num": 284363,
       "word": "王鸥工作室",
@@ -300,11 +316,19 @@
     },
     {
       "raw_hot": 602985,
-      "num": 334853,
+      "num": 418442,
       "word": "黄子韬抓住徐艺洋的手",
       "onboard_time": 1714638201,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 598572,
+      "num": 598572,
+      "word": "张子枫哭出了漫画里才有的泪眼",
+      "onboard_time": 1714641439,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 598143,
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 554195,
-      "num": 333166,
+      "num": 493201,
       "word": "被韩国人精致穷的消费观震惊",
       "onboard_time": 1714638558,
       "rank": 12,
@@ -344,6 +368,14 @@
       "word": "王者荣耀时代少年团",
       "onboard_time": 1714625718,
       "rank": 12,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 539248,
+      "num": 539248,
+      "word": "一诺微博粉丝数400万了",
+      "onboard_time": 1714639518,
+      "rank": 14,
       "category": "电竞"
     },
     {
@@ -467,14 +499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 432005,
-      "num": 424731,
-      "word": "一诺微博粉丝数400万了",
-      "onboard_time": 1714639518,
-      "rank": 14,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 429471,
       "num": 322039,
       "word": "买房千万不要买挨着公园的",
@@ -507,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412275,
+      "num": 412275,
+      "word": "秦昊不想再分享减肥法了",
+      "onboard_time": 1714642277,
+      "rank": 40,
+      "category": "艺人,运动健身"
+    },
+    {
       "raw_hot": 401775,
       "num": 401775,
       "word": "淄博烧烤",
@@ -529,6 +561,14 @@
       "onboard_time": 1714638558,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 388856,
+      "num": 388856,
+      "word": "间谍过家家约尔暴打黄昏",
+      "onboard_time": 1714643177,
+      "rank": 16,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 385104,
@@ -633,14 +673,6 @@
       "onboard_time": 1714562959,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 332470,
-      "num": 332470,
-      "word": "张子枫哭出了漫画里才有的泪眼",
-      "onboard_time": 1714641439,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 331060,
@@ -835,6 +867,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 213223,
+      "num": 213223,
+      "word": "成龙20本签名书变2本",
+      "onboard_time": 1714642037,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210384,
       "num": 210384,
       "word": "王楚钦孙颖莎出席抽签仪式",
@@ -849,14 +889,6 @@
       "onboard_time": 1714621159,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209069,
-      "num": 209069,
-      "word": "罗西 临界十缨",
-      "onboard_time": 1714642097,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 207201,
@@ -881,6 +913,14 @@
       "onboard_time": 1714623978,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 205519,
+      "num": 205519,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1714644137,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 205436,
@@ -913,6 +953,14 @@
       "onboard_time": 1714611317,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203794,
+      "num": 203794,
+      "word": "MCD",
+      "onboard_time": 1714644497,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 201627,
@@ -1147,6 +1195,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 172636,
+      "num": 172636,
+      "word": "泫雅 回春",
+      "onboard_time": 1714644978,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172198,
       "num": 172198,
       "word": "美联储",
@@ -1169,14 +1225,6 @@
       "onboard_time": 1714629978,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170877,
-      "num": 170877,
-      "word": "成龙20本签名书变2本",
-      "onboard_time": 1714642037,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 170490,
@@ -1232,6 +1280,14 @@
       "word": "间谍过家家",
       "onboard_time": 1714629738,
       "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 166404,
+      "num": 166404,
+      "word": "王一博真人版地铁跑酷",
+      "onboard_time": 1714642759,
+      "rank": 31,
       "category": "电影"
     },
     {
@@ -1411,14 +1467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 151258,
-      "num": 151258,
-      "word": "秦昊不想再分享减肥法了",
-      "onboard_time": 1714642277,
-      "rank": 40,
-      "category": "艺人,运动健身"
-    },
-    {
       "raw_hot": 150885,
       "num": 150885,
       "word": "薛凯琪吊带黑背心",
@@ -1451,19 +1499,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 149236,
-      "num": 149236,
-      "word": "国务院安委会办公室印发紧急通知",
-      "onboard_time": 1714642336,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 149206,
       "num": 149206,
       "word": "五一假期第二天",
       "onboard_time": 1714605016,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148619,
+      "num": 148619,
+      "word": "广东警方称将尽快完成遇难者身份确认",
+      "onboard_time": 1714642759,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1536,6 +1584,22 @@
       "word": "花少1吃不饱花少5吃太饱",
       "onboard_time": 1714635678,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139933,
+      "num": 139933,
+      "word": "AI忽然叫我全名了",
+      "onboard_time": 1714644019,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 139625,
+      "num": 139625,
+      "word": "尚雯婕刘力扬 超女梗",
+      "onboard_time": 1714644258,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1635,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131068,
+      "num": 499250,
+      "word": "女童溺水被救全家上门磕头跪谢恩人",
+      "onboard_time": 1714643478,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130966,
       "num": 130966,
       "word": "吉赛尔风格",
@@ -1665,6 +1737,14 @@
       "onboard_time": 1714577958,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129441,
+      "num": 122557,
+      "word": "胡先煦 果然年轻人更懂年轻人",
+      "onboard_time": 1714644918,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 128214,
@@ -1713,6 +1793,14 @@
       "onboard_time": 1714624518,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119226,
+      "num": 119226,
+      "word": "张杰杭州演唱会",
+      "onboard_time": 1714643059,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 117390,
