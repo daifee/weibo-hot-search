@@ -1,0 +1,410 @@
+{
+  "runTime": 1714613700124,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3959503,
+        "num": 3959503,
+        "word": "梅大高速路面塌陷事故已致36人死亡",
+        "onboard_time": 1714611196,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1082552,
+        "num": 1082552,
+        "word": "男演员骗88人到柬埔寨进行电信诈骗",
+        "onboard_time": 1714605614,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7863,
+        "num": 786907,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710411,
+        "num": 710411,
+        "word": "瑞幸9.9元活动再缩水",
+        "onboard_time": 1714605974,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 433599,
+        "num": 433599,
+        "word": "何炅客串了难哄",
+        "onboard_time": 1714605016,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385999,
+        "num": 385999,
+        "word": "感觉秦岚要碎掉了",
+        "onboard_time": 1714606515,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375611,
+        "num": 375611,
+        "word": "初恋对中年人的杀伤力",
+        "onboard_time": 1714577058,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369044,
+        "num": 369044,
+        "word": "大唐不夜城丢刀侍卫演我五一加班",
+        "onboard_time": 1714605134,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 289473,
+        "num": 289473,
+        "word": "哥伦比亚总统宣布将和以色列断交",
+        "onboard_time": 1714606755,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 199247,
+        "num": 288838,
+        "word": "外卖小哥陪瘫痪女子吃饭多年直到女子离世",
+        "onboard_time": 1714568359,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407971,
+        "num": 288376,
+        "word": "济南一对夫妻失联近一个月",
+        "onboard_time": 1714612517,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364495,
+        "num": 287158,
+        "word": "梅大高速塌陷货车司机夫妇喊停后车",
+        "onboard_time": 1714571599,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337389,
+        "num": 285865,
+        "word": "上海飞香港一航班2次降落失败剧烈颠簸",
+        "onboard_time": 1714612517,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285241,
+        "num": 285241,
+        "word": "中等生为什么成绩上不去",
+        "onboard_time": 1714609816,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 283180,
+        "num": 283180,
+        "word": "高铁三大酷刑",
+        "onboard_time": 1714575499,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282072,
+        "num": 282072,
+        "word": "赵小棠妈妈是先婚后爱",
+        "onboard_time": 1714574720,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252943,
+        "num": 252943,
+        "word": "日本小镇拉黑布遮挡富士山远景",
+        "onboard_time": 1714573639,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 239088,
+        "num": 239088,
+        "word": "能当上销冠都是有原因的",
+        "onboard_time": 1714610837,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235282,
+        "num": 235282,
+        "word": "李振豪",
+        "onboard_time": 1714610896,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180459,
+        "num": 180459,
+        "word": "淄博八大局500米走半小时",
+        "onboard_time": 1714612698,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 303709,
+        "num": 177027,
+        "word": "为什么男朋友会介意我婚前买房",
+        "onboard_time": 1714573878,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263337,
+        "num": 172537,
+        "word": "男子疯狂减肥却胖70斤还脑梗送医抢救",
+        "onboard_time": 1714607176,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258386,
+        "num": 170876,
+        "word": "迪丽热巴给剧组工作人员发五一红包",
+        "onboard_time": 1714611498,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203819,
+        "num": 165412,
+        "word": "大熊猫是中国特有种的铁证",
+        "onboard_time": 1714611317,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163855,
+        "num": 163855,
+        "word": "驾驶室探出1只狗吓得后车司机报警",
+        "onboard_time": 1714611917,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163472,
+        "num": 163472,
+        "word": "恋爱不是用谈的而是用坠入",
+        "onboard_time": 1714611137,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162784,
+        "num": 162784,
+        "word": "江西赣州特斯拉",
+        "onboard_time": 1714576579,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162459,
+        "num": 162459,
+        "word": "庆余年2 超前观影",
+        "onboard_time": 1714569199,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146428,
+        "num": 146428,
+        "word": "月经期间到底有没有忌口",
+        "onboard_time": 1714585216,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143580,
+        "num": 143580,
+        "word": "很难坚持运动不是因为你懒",
+        "onboard_time": 1714604412,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 140878,
+        "num": 140878,
+        "word": "薛凯琪吊带黑背心",
+        "onboard_time": 1714608736,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136400,
+        "num": 136400,
+        "word": "IVE新歌MV正确打开方式",
+        "onboard_time": 1714609634,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135792,
+        "num": 135792,
+        "word": "美联储",
+        "onboard_time": 1714609036,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131333,
+        "num": 131333,
+        "word": "如家酒店被曝花洒现粪便状异物",
+        "onboard_time": 1714566978,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130966,
+        "num": 130966,
+        "word": "吉赛尔风格",
+        "onboard_time": 1714609277,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130588,
+        "num": 130588,
+        "word": "明星们五一营业照怎么都在海边",
+        "onboard_time": 1714609937,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127244,
+        "num": 127244,
+        "word": "赵昭仪问张翰你是不是爱吃牛肉",
+        "onboard_time": 1714572020,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125867,
+        "num": 125867,
+        "word": "买房千万不要买挨着公园的",
+        "onboard_time": 1714564338,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123161,
+        "num": 123161,
+        "word": "2024款iPadPro将搭载最好面板",
+        "onboard_time": 1714613358,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122341,
+        "num": 122341,
+        "word": "郭潇雨蔡文静聊天记录",
+        "onboard_time": 1714608015,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114996,
+        "num": 114996,
+        "word": "日本男演员涉华人夫妇焚尸案被捕",
+        "onboard_time": 1714568718,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104047,
+        "num": 104047,
+        "word": "周鸿祎 褚会长",
+        "onboard_time": 1714573819,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 101207,
+        "num": 101207,
+        "word": "泡泡岛音乐节 大巴",
+        "onboard_time": 1714606695,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100218,
+        "num": 100218,
+        "word": "医院称全县救护车都去了事故现场",
+        "onboard_time": 1714569799,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98126,
+        "num": 98126,
+        "word": "G2发文求职海底捞",
+        "onboard_time": 1714609997,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97810,
+        "num": 97810,
+        "word": "白鹿曾舜晞吻脖子路透",
+        "onboard_time": 1714574059,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95721,
+        "num": 95721,
+        "word": "林更新机场被叫林狗",
+        "onboard_time": 1714596370,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94953,
+        "num": 94953,
+        "word": "当小狗发现你有点不开心时",
+        "onboard_time": 1714609215,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91083,
+        "num": 91083,
+        "word": "被原生家庭打压很严重的人",
+        "onboard_time": 1714613058,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90566,
+        "num": 90566,
+        "word": "美联储宣布维持基准利率不变",
+        "onboard_time": 1714610296,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

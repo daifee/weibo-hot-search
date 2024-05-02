@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/05/02 09:14:36
+本榜单时间：2024/01/01 00:21:05 ~ 2024/05/02 09:35:00
 </p>
 </blockquote>
 <p>
@@ -903,6 +903,12 @@ SM承认柳智敏恋情（热度：4051630）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A4%A7%E9%AB%98%E9%80%9F%E8%B7%AF%E9%9D%A2%E5%A1%8C%E9%99%B7%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B436%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
+梅大高速路面塌陷事故已致36人死亡（热度：3959503）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E6%9D%8E%E8%B0%B7%E4%B8%80%23" target="weibo">
 没有李谷一（热度：3937219）
 </a>
@@ -1577,12 +1583,6 @@ Prada玄学（热度：3331937）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%A4%A7%E6%B3%A2%E6%B5%AA%E6%99%9A%E7%A4%BC%E6%9C%8D%23" target="weibo">
 贾玲大波浪晚礼服（热度：2989681）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A4%A7%E9%AB%98%E9%80%9F%E8%B7%AF%E9%9D%A2%E5%A1%8C%E9%99%B7%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B436%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
-梅大高速路面塌陷事故已致36人死亡（热度：2984982）
 </a>
 </li>
 

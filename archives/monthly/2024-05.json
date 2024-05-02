@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714612476368,
+  "endTime": 1714613700124,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2984982,
-      "num": 2984982,
+      "raw_hot": 3959503,
+      "num": 3959503,
       "word": "梅大高速路面塌陷事故已致36人死亡",
       "onboard_time": 1714611196,
       "rank": 0,
@@ -715,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 407971,
+      "num": 288376,
+      "word": "济南一对夫妻失联近一个月",
+      "onboard_time": 1714612517,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407410,
       "num": 332420,
       "word": "童瑶张新成裸泳镜头",
@@ -932,10 +940,18 @@
     },
     {
       "raw_hot": 338072,
-      "num": 171054,
+      "num": 172537,
       "word": "男子疯狂减肥却胖70斤还脑梗送医抢救",
       "onboard_time": 1714607176,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337389,
+      "num": 285865,
+      "word": "上海飞香港一航班2次降落失败剧烈颠簸",
+      "onboard_time": 1714612517,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1099,6 +1115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 285241,
+      "num": 285241,
+      "word": "中等生为什么成绩上不去",
+      "onboard_time": 1714609816,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 285105,
       "num": 285105,
       "word": "背着善宰跑 粉丝视角",
@@ -1227,12 +1251,12 @@
       "category": "动漫,艺人"
     },
     {
-      "raw_hot": 258488,
-      "num": 258488,
-      "word": "中等生为什么成绩上不去",
-      "onboard_time": 1714609816,
-      "rank": 13,
-      "category": "教育"
+      "raw_hot": 258386,
+      "num": 170876,
+      "word": "迪丽热巴给剧组工作人员发五一红包",
+      "onboard_time": 1714611498,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 257470,
@@ -1307,14 +1331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 246962,
-      "num": 170140,
-      "word": "迪丽热巴给剧组工作人员发五一红包",
-      "onboard_time": 1714611498,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 244935,
       "num": 207605,
       "word": "印尼女子9岁时去过丈夫二婚婚礼",
@@ -1377,6 +1393,14 @@
       "onboard_time": 1714576818,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 239088,
+      "num": 239088,
+      "word": "能当上销冠都是有原因的",
+      "onboard_time": 1714610837,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 236351,
@@ -1593,6 +1617,14 @@
       "onboard_time": 1714566259,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203819,
+      "num": 168959,
+      "word": "大熊猫是中国特有种的铁证",
+      "onboard_time": 1714611317,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203108,
@@ -1875,6 +1907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180459,
+      "num": 180459,
+      "word": "淄博八大局500米走半小时",
+      "onboard_time": 1714612698,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 180438,
       "num": 180438,
       "word": "星穹铁道演唱会直播",
@@ -1897,14 +1937,6 @@
       "onboard_time": 1714528336,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178733,
-      "num": 141520,
-      "word": "能当上销冠都是有原因的",
-      "onboard_time": 1714610837,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 178123,
@@ -2019,14 +2051,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 168959,
-      "num": 168959,
-      "word": "大熊猫是中国特有种的铁证",
-      "onboard_time": 1714611317,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168672,
       "num": 168672,
       "word": "时代少年团演唱会彩排",
@@ -2107,12 +2131,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163855,
+      "num": 163855,
+      "word": "驾驶室探出1只狗吓得后车司机报警",
+      "onboard_time": 1714611917,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163533,
       "num": 163533,
       "word": "华晨宇cue花傲天",
       "onboard_time": 1714555158,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163472,
+      "num": 163472,
+      "word": "恋爱不是用谈的而是用坠入",
+      "onboard_time": 1714611137,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 163260,
@@ -2523,6 +2563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136400,
+      "num": 136400,
+      "word": "IVE新歌MV正确打开方式",
+      "onboard_time": 1714609634,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 135806,
       "num": 135806,
       "word": "余承东职位调整为正常管理任命",
@@ -2651,6 +2699,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130966,
+      "num": 130966,
+      "word": "吉赛尔风格",
+      "onboard_time": 1714609277,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 130588,
+      "num": 130588,
+      "word": "明星们五一营业照怎么都在海边",
+      "onboard_time": 1714609937,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130213,
       "num": 130213,
       "word": "辽粤大战",
@@ -2665,14 +2729,6 @@
       "onboard_time": 1714577958,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129744,
-      "num": 129744,
-      "word": "吉赛尔风格",
-      "onboard_time": 1714609277,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 129542,
@@ -2731,14 +2787,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 125584,
-      "num": 125584,
-      "word": "明星们五一营业照怎么都在海边",
-      "onboard_time": 1714609937,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124145,
       "num": 124145,
       "word": "因为布置工位被领导约谈了",
@@ -2755,14 +2803,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123531,
-      "num": 123531,
-      "word": "驾驶室探出1只狗吓得后车司机报警",
-      "onboard_time": 1714611917,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123455,
       "num": 123455,
       "word": "城中之城 赵辉跳楼",
@@ -2777,6 +2817,14 @@
       "onboard_time": 1714553418,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123161,
+      "num": 123161,
+      "word": "2024款iPadPro将搭载最好面板",
+      "onboard_time": 1714613358,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 122985,
@@ -2809,14 +2857,6 @@
       "onboard_time": 1714488501,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122269,
-      "num": 122269,
-      "word": "恋爱不是用谈的而是用坠入",
-      "onboard_time": 1714611137,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 121388,
@@ -2921,14 +2961,6 @@
       "onboard_time": 1714530738,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 116388,
-      "num": 116388,
-      "word": "IVE新歌MV正确打开方式",
-      "onboard_time": 1714609634,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 115596,
@@ -3369,6 +3401,14 @@
       "onboard_time": 1714520894,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91083,
+      "num": 91083,
+      "word": "被原生家庭打压很严重的人",
+      "onboard_time": 1714613058,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 91032,

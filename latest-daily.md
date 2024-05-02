@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/02 00:22:27 ~ 2024/05/02 09:14:36
+本榜单时间：2024/05/02 00:22:27 ~ 2024/05/02 09:35:00
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A4%A7%E9%AB%98%E9%80%9F%E8%B7%AF%E9%9D%A2%E5%A1%8C%E9%99%B7%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B436%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
-梅大高速路面塌陷事故已致36人死亡（热度：2984982）
+梅大高速路面塌陷事故已致36人死亡（热度：3959503）
 </a>
 </li>
 
@@ -105,6 +105,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%8D%97%E4%B8%80%E5%AF%B9%E5%A4%AB%E5%A6%BB%E5%A4%B1%E8%81%94%E8%BF%91%E4%B8%80%E4%B8%AA%E6%9C%88%23" target="weibo">
+济南一对夫妻失联近一个月（热度：407971）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%B0%86%E5%92%8C%E4%BB%A5%E8%89%B2%E5%88%97%E6%96%AD%E4%BA%A4%23" target="weibo">
 哥伦比亚总统宣布将和以色列断交（热度：399804）
 </a>
@@ -129,6 +135,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A4%A7%E9%AB%98%E9%80%9F%E5%A1%8C%E9%99%B7%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%A4%AB%E5%A6%87%E5%96%8A%E5%81%9C%E5%90%8E%E8%BD%A6%23" target="weibo">
+梅大高速塌陷货车司机夫妇喊停后车（热度：364495）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23aespa%E9%A2%84%E5%91%8A%23" target="weibo">
 aespa预告（热度：364361）
 </a>
@@ -143,6 +155,12 @@ aespa预告（热度：364361）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%96%AF%E7%8B%82%E5%87%8F%E8%82%A5%E5%8D%B4%E8%83%9670%E6%96%A4%E8%BF%98%E8%84%91%E6%A2%97%E9%80%81%E5%8C%BB%E6%8A%A2%E6%95%91%23" target="weibo">
 男子疯狂减肥却胖70斤还脑梗送医抢救（热度：338072）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%A3%9E%E9%A6%99%E6%B8%AF%E4%B8%80%E8%88%AA%E7%8F%AD2%E6%AC%A1%E9%99%8D%E8%90%BD%E5%A4%B1%E8%B4%A5%E5%89%A7%E7%83%88%E9%A2%A0%E7%B0%B8%23" target="weibo">
+上海飞香港一航班2次降落失败剧烈颠簸（热度：337389）
 </a>
 </li>
 
@@ -171,14 +189,14 @@ aespa预告（热度：364361）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%9B%BE%E8%88%9C%E6%99%9E%E5%90%BB%E8%84%96%E5%AD%90%E8%B7%AF%E9%80%8F%23" target="weibo">
-白鹿曾舜晞吻脖子路透（热度：271792）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%AD%89%E7%94%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%90%E7%BB%A9%E4%B8%8A%E4%B8%8D%E5%8E%BB%23" target="weibo">
+中等生为什么成绩上不去（热度：285241）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A4%A7%E9%AB%98%E9%80%9F%E5%A1%8C%E9%99%B7%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%A4%AB%E5%A6%87%E5%96%8A%E5%81%9C%E5%90%8E%E8%BD%A6%23" target="weibo">
-梅大高速塌陷货车司机夫妇喊停后车（热度：268996）
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%9B%BE%E8%88%9C%E6%99%9E%E5%90%BB%E8%84%96%E5%AD%90%E8%B7%AF%E9%80%8F%23" target="weibo">
+白鹿曾舜晞吻脖子路透（热度：271792）
 </a>
 </li>
 
@@ -189,8 +207,8 @@ aespa预告（热度：364361）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%AD%89%E7%94%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%90%E7%BB%A9%E4%B8%8A%E4%B8%8D%E5%8E%BB%23" target="weibo">
-中等生为什么成绩上不去（热度：258488）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BB%99%E5%89%A7%E7%BB%84%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%8F%91%E4%BA%94%E4%B8%80%E7%BA%A2%E5%8C%85%23" target="weibo">
+迪丽热巴给剧组工作人员发五一红包（热度：258386）
 </a>
 </li>
 
@@ -207,20 +225,26 @@ aespa预告（热度：364361）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BB%99%E5%89%A7%E7%BB%84%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%8F%91%E4%BA%94%E4%B8%80%E7%BA%A2%E5%8C%85%23" target="weibo">
-迪丽热巴给剧组工作人员发五一红包（热度：246962）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%8F%AB%E8%B0%81%E9%83%BD%E5%8F%AB%E8%80%81%E5%B8%88%23" target="weibo">
 为什么现在叫谁都叫老师（热度：241646）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%BD%E5%BD%93%E4%B8%8A%E9%94%80%E5%86%A0%E9%83%BD%E6%98%AF%E6%9C%89%E5%8E%9F%E5%9B%A0%E7%9A%84%23" target="weibo">
+能当上销冠都是有原因的（热度：239088）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%AD%E4%BB%AA%E9%97%AE%E5%BC%A0%E7%BF%B0%E4%BD%A0%E6%98%AF%E4%B8%8D%E6%98%AF%E7%88%B1%E5%90%83%E7%89%9B%E8%82%89%23" target="weibo">
 赵昭仪问张翰你是不是爱吃牛肉（热度：203921）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%89%B9%E6%9C%89%E7%A7%8D%E7%9A%84%E9%93%81%E8%AF%81%23" target="weibo">
+大熊猫是中国特有种的铁证（热度：203819）
 </a>
 </li>
 
@@ -243,8 +267,8 @@ aespa预告（热度：364361）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%BD%E5%BD%93%E4%B8%8A%E9%94%80%E5%86%A0%E9%83%BD%E6%98%AF%E6%9C%89%E5%8E%9F%E5%9B%A0%E7%9A%84%23" target="weibo">
-能当上销冠都是有原因的（热度：178733）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E5%85%AB%E5%A4%A7%E5%B1%80500%E7%B1%B3%E8%B5%B0%E5%8D%8A%E5%B0%8F%E6%97%B6%23" target="weibo">
+淄博八大局500米走半小时（热度：180459）
 </a>
 </li>
 
@@ -267,8 +291,14 @@ aespa预告（热度：364361）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%89%B9%E6%9C%89%E7%A7%8D%E7%9A%84%E9%93%81%E8%AF%81%23" target="weibo">
-大熊猫是中国特有种的铁证（热度：168959）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%BE%E9%A9%B6%E5%AE%A4%E6%8E%A2%E5%87%BA1%E5%8F%AA%E7%8B%97%E5%90%93%E5%BE%97%E5%90%8E%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%8A%A5%E8%AD%A6%23" target="weibo">
+驾驶室探出1只狗吓得后车司机报警（热度：163855）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E7%88%B1%E4%B8%8D%E6%98%AF%E7%94%A8%E8%B0%88%E7%9A%84%E8%80%8C%E6%98%AF%E7%94%A8%E5%9D%A0%E5%85%A5%23" target="weibo">
+恋爱不是用谈的而是用坠入（热度：163472）
 </a>
 </li>
 
@@ -315,6 +345,12 @@ aespa正规一辑视频预告（热度：163260）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23IVE%E6%96%B0%E6%AD%8CMV%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%23" target="weibo">
+IVE新歌MV正确打开方式（热度：136400）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E6%AD%A3%E6%98%AF%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%8B%E7%9A%84%E5%B9%B4%E7%BA%AA%23" target="weibo">
 金秀贤正是藏不住事的年纪（热度：135607）
 </a>
@@ -333,20 +369,20 @@ aespa正规一辑视频预告（热度：163260）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%23" target="weibo">
-特斯拉（热度：129876）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%89%E8%B5%9B%E5%B0%94%E9%A3%8E%E6%A0%BC%23" target="weibo">
-吉赛尔风格（热度：129744）
+吉赛尔风格（热度：130966）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E4%BB%AC%E4%BA%94%E4%B8%80%E8%90%A5%E4%B8%9A%E7%85%A7%E6%80%8E%E4%B9%88%E9%83%BD%E5%9C%A8%E6%B5%B7%E8%BE%B9%23" target="weibo">
-明星们五一营业照怎么都在海边（热度：125584）
+明星们五一营业照怎么都在海边（热度：130588）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%23" target="weibo">
+特斯拉（热度：129876）
 </a>
 </li>
 
@@ -357,20 +393,8 @@ aespa正规一辑视频预告（热度：163260）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%BE%E9%A9%B6%E5%AE%A4%E6%8E%A2%E5%87%BA1%E5%8F%AA%E7%8B%97%E5%90%93%E5%BE%97%E5%90%8E%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%8A%A5%E8%AD%A6%23" target="weibo">
-驾驶室探出1只狗吓得后车司机报警（热度：123531）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E7%88%B1%E4%B8%8D%E6%98%AF%E7%94%A8%E8%B0%88%E7%9A%84%E8%80%8C%E6%98%AF%E7%94%A8%E5%9D%A0%E5%85%A5%23" target="weibo">
-恋爱不是用谈的而是用坠入（热度：122269）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23IVE%E6%96%B0%E6%AD%8CMV%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%23" target="weibo">
-IVE新歌MV正确打开方式（热度：116388）
+<a href="https://s.weibo.com/weibo?q=%232024%E6%AC%BEiPadPro%E5%B0%86%E6%90%AD%E8%BD%BD%E6%9C%80%E5%A5%BD%E9%9D%A2%E6%9D%BF%23" target="weibo">
+2024款iPadPro将搭载最好面板（热度：123161）
 </a>
 </li>
 
@@ -485,6 +509,12 @@ G2发文求职海底捞（热度：102718）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E5%A1%8C%E6%96%B9%E5%90%8E%E6%A2%85%E5%B7%9E%E5%B8%82%E6%B0%91%E8%BF%9E%E5%A4%9C%E6%8E%92%E9%98%9F%E7%8C%AE%E8%A1%80%23" target="weibo">
 高速塌方后梅州市民连夜排队献血（热度：95391）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%E6%89%93%E5%8E%8B%E5%BE%88%E4%B8%A5%E9%87%8D%E7%9A%84%E4%BA%BA%23" target="weibo">
+被原生家庭打压很严重的人（热度：91083）
 </a>
 </li>
 
@@ -634,7 +664,7 @@ X光下小宝宝的手（热度：41818）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%23" target="weibo">
-文化中国行（热度：6955）
+文化中国行（热度：7863）
 </a>
 </li>
 
