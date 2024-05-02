@@ -1,6 +1,6 @@
 {
   "startTime": 1714580547459,
-  "endTime": 1714613700124,
+  "endTime": 1714616856611,
   "band_list": [
     {
       "raw_hot": 3959503,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1129432,
+      "num": 724094,
+      "word": "周鸿祎 迈巴赫",
+      "onboard_time": 1714614256,
+      "rank": 5,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1084408,
       "num": 334289,
       "word": "高铁三大酷刑",
@@ -27,8 +35,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 973936,
+      "num": 973936,
+      "word": "北大居然偷偷出了这么多神器",
+      "onboard_time": 1714614137,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 796666,
-      "num": 325923,
+      "num": 331316,
       "word": "赵小棠妈妈是先婚后爱",
       "onboard_time": 1714574720,
       "rank": 3,
@@ -41,6 +57,22 @@
       "onboard_time": 1714605974,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 724564,
+      "num": 724564,
+      "word": "上海飞香港一航班2次降落失败剧烈颠簸",
+      "onboard_time": 1714612517,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687720,
+      "num": 687720,
+      "word": "美国一夫妻中奖13亿美元将与朋友平分",
+      "onboard_time": 1714615158,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 652103,
@@ -64,6 +96,22 @@
       "word": "如家酒店被曝花洒现粪便状异物",
       "onboard_time": 1714566978,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 608818,
+      "num": 185047,
+      "word": "罗西前女友爆料",
+      "onboard_time": 1714616178,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 566111,
+      "num": 566111,
+      "word": "济南一对夫妻失联近一个月",
+      "onboard_time": 1714612517,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -115,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418908,
+      "num": 418908,
+      "word": "罗西",
+      "onboard_time": 1714613958,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 413098,
       "num": 413098,
       "word": "感觉秦岚要碎掉了",
       "onboard_time": 1714606515,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 407971,
-      "num": 288376,
-      "word": "济南一对夫妻失联近一个月",
-      "onboard_time": 1714612517,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 399804,
@@ -195,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337389,
-      "num": 285865,
-      "word": "上海飞香港一航班2次降落失败剧烈颠簸",
-      "onboard_time": 1714612517,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 332808,
       "num": 306577,
       "word": "徐艺洋说吵架会被黄子韬拉黑",
@@ -225,6 +265,14 @@
       "onboard_time": 1714569199,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 315508,
+      "num": 315508,
+      "word": "淄博八大局500米走半小时",
+      "onboard_time": 1714612698,
+      "rank": 19,
+      "category": "旅游"
     },
     {
       "raw_hot": 306511,
@@ -252,7 +300,7 @@
     },
     {
       "raw_hot": 263437,
-      "num": 358524,
+      "num": 471737,
       "word": "外卖小哥陪瘫痪女子吃饭多年直到女子离世",
       "onboard_time": 1714568359,
       "rank": 9,
@@ -260,11 +308,19 @@
     },
     {
       "raw_hot": 258386,
-      "num": 170876,
+      "num": 182598,
       "word": "迪丽热巴给剧组工作人员发五一红包",
       "onboard_time": 1714611498,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250452,
+      "num": 250452,
+      "word": "1995年5月1日中国人开始双休",
+      "onboard_time": 1714616538,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248135,
@@ -299,6 +355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238076,
+      "num": 183243,
+      "word": "五一假期的聪明人被气晕了",
+      "onboard_time": 1714616358,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203921,
       "num": 203921,
       "word": "赵昭仪问张翰你是不是爱吃牛肉",
@@ -308,7 +372,7 @@
     },
     {
       "raw_hot": 203819,
-      "num": 168959,
+      "num": 181955,
       "word": "大熊猫是中国特有种的铁证",
       "onboard_time": 1714611317,
       "rank": 24,
@@ -339,12 +403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180459,
-      "num": 180459,
-      "word": "淄博八大局500米走半小时",
-      "onboard_time": 1714612698,
+      "raw_hot": 185551,
+      "num": 185551,
+      "word": "CCtalk公众号",
+      "onboard_time": 1714614617,
       "rank": 19,
-      "category": "旅游"
+      "category": "互联网"
     },
     {
       "raw_hot": 178574,
@@ -395,12 +459,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158083,
+      "num": 158083,
+      "word": "偶遇那英黄奕徐艺洋丽江买衣服",
+      "onboard_time": 1714613838,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156223,
+      "num": 143941,
+      "word": "哀牢山到底有多可怕",
+      "onboard_time": 1714616597,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 154206,
       "num": 154206,
       "word": "郭潇雨蔡文静聊天记录",
       "onboard_time": 1714608015,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154090,
+      "num": 154090,
+      "word": "2024款iPadPro将搭载最好面板",
+      "onboard_time": 1714613358,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 150885,
@@ -433,6 +521,14 @@
       "onboard_time": 1714573699,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 138727,
+      "num": 138727,
+      "word": "杭州西湖边再现最美人墙",
+      "onboard_time": 1714616538,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 137439,
@@ -507,12 +603,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123161,
-      "num": 123161,
-      "word": "2024款iPadPro将搭载最好面板",
-      "onboard_time": 1714613358,
-      "rank": 38,
-      "category": "数码"
+      "raw_hot": 125300,
+      "num": 125300,
+      "word": "好想收养我的研究生朋友",
+      "onboard_time": 1714616417,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 121224,
+      "num": 121224,
+      "word": "朱珠和朋友二手集市",
+      "onboard_time": 1714616658,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 114228,
@@ -555,6 +659,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108779,
+      "num": 108779,
+      "word": "维和防爆部队影评",
+      "onboard_time": 1714615698,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 108179,
+      "num": 108179,
+      "word": "曹骏古装",
+      "onboard_time": 1714616839,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106893,
       "num": 106893,
       "word": "时代少年团演唱会彩排",
@@ -593,6 +713,14 @@
       "onboard_time": 1714577180,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103088,
+      "num": 103088,
+      "word": "五一根本走不出四川",
+      "onboard_time": 1714615817,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 102718,
@@ -643,6 +771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 99404,
+      "num": 99404,
+      "word": "GUCCI晒肖战花絮",
+      "onboard_time": 1714615339,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 96357,
       "num": 96357,
       "word": "刘伟强说王一博动作戏很拼",
@@ -664,6 +800,14 @@
       "word": "高速塌方后梅州市民连夜排队献血",
       "onboard_time": 1714612159,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94277,
+      "num": 94277,
+      "word": "自闭症孩子的99岁老师说要尊重孩子",
+      "onboard_time": 1714616538,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -867,8 +1011,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 7863,
-      "num": 900872,
+      "raw_hot": 8066,
+      "num": 973289,
       "word": "文化中国行",
       "onboard_time": 1713927617,
       "rank": 2,
