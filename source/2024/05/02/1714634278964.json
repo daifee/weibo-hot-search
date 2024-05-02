@@ -1,0 +1,410 @@
+{
+  "runTime": 1714634278964,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 999369,
+        "num": 999369,
+        "word": "今年五一没人结婚吗",
+        "onboard_time": 1714632616,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 861140,
+        "num": 861140,
+        "word": "梅大高速塌陷一3岁孩童脑出血还在ICU",
+        "onboard_time": 1714630398,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11385,
+        "num": 802869,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757603,
+        "num": 757603,
+        "word": "梅大高速路面塌陷事故已致36人死亡",
+        "onboard_time": 1714611196,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746370,
+        "num": 746370,
+        "word": "5000一晚的酒店薅走35瓶洗发水能回本吗",
+        "onboard_time": 1714621997,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417624,
+        "num": 417624,
+        "word": "大唐不夜城已被六国游客攻陷",
+        "onboard_time": 1714617677,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 385104,
+        "num": 385104,
+        "word": "晒被子的最佳方式竟然是套个黑色塑料袋",
+        "onboard_time": 1714628959,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 363214,
+        "num": 363214,
+        "word": "本科硕士博士毕业论文的区别",
+        "onboard_time": 1714625599,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 363001,
+        "num": 363001,
+        "word": "王者荣耀",
+        "onboard_time": 1714629498,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112921,
+        "num": 350335,
+        "word": "杭州西湖边再现最美人墙",
+        "onboard_time": 1714616538,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 606234,
+        "num": 350066,
+        "word": "21岁重庆男子跳江",
+        "onboard_time": 1714627398,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515735,
+        "num": 349914,
+        "word": "罗西道歉",
+        "onboard_time": 1714625058,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 345485,
+        "num": 345485,
+        "word": "原著陈麦冬拉黑了庄洁三次",
+        "onboard_time": 1714631838,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278945,
+        "num": 278945,
+        "word": "对韩国的滤镜慢慢破碎了",
+        "onboard_time": 1714622059,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261206,
+        "num": 261206,
+        "word": "他可是宝莲灯沉香",
+        "onboard_time": 1714618517,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259413,
+        "num": 259413,
+        "word": "1995年5月1日中国人开始双休",
+        "onboard_time": 1714616538,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232658,
+        "num": 232658,
+        "word": "IVE打歌将佩戴中国结",
+        "onboard_time": 1714621578,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230309,
+        "num": 230309,
+        "word": "王者荣耀时代少年团",
+        "onboard_time": 1714625718,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216579,
+        "num": 216579,
+        "word": "迪丽热巴夹起来了",
+        "onboard_time": 1714626738,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210672,
+        "num": 210672,
+        "word": "张韶涵",
+        "onboard_time": 1714626678,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 927908,
+        "num": 210566,
+        "word": "张元英在家除了睡觉不会躺着",
+        "onboard_time": 1714629679,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 794854,
+        "num": 208282,
+        "word": "黄子韬让徐艺洋不要指指点点",
+        "onboard_time": 1714627458,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398719,
+        "num": 206996,
+        "word": "赵露思被前员工背刺",
+        "onboard_time": 1714620438,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388445,
+        "num": 205202,
+        "word": "罗西前女友爆料",
+        "onboard_time": 1714616178,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 260586,
+        "num": 204137,
+        "word": "黄轩回天水两天变成了黄干",
+        "onboard_time": 1714632798,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259137,
+        "num": 202731,
+        "word": "一个家庭最可怕的是制造内耗的人",
+        "onboard_time": 1714631357,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 462389,
+        "num": 201087,
+        "word": "徐艺洋管狗狗叫黄子韬",
+        "onboard_time": 1714630698,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200983,
+        "num": 200983,
+        "word": "维和防暴队 删减",
+        "onboard_time": 1714620857,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200967,
+        "num": 200967,
+        "word": "俄罗斯办缴获武器展友情提示亮了",
+        "onboard_time": 1714632677,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 185000,
+        "num": 185000,
+        "word": "日本小学招不到新生招了只山羊",
+        "onboard_time": 1714630038,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183515,
+        "num": 183515,
+        "word": "阿娇 突然就汪了出来",
+        "onboard_time": 1714627758,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181259,
+        "num": 181259,
+        "word": "罗西",
+        "onboard_time": 1714613958,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 228718,
+        "num": 181233,
+        "word": "王鸥工作室",
+        "onboard_time": 1714622897,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170570,
+        "num": 170570,
+        "word": "周鸿祎迈巴赫买家承认遇到了问题",
+        "onboard_time": 1714625118,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 167354,
+        "num": 167354,
+        "word": "保研真的比考研好吗",
+        "onboard_time": 1714632918,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166562,
+        "num": 166562,
+        "word": "刘宇宁给迪丽热巴101品牌撑个场",
+        "onboard_time": 1714633697,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164378,
+        "num": 164378,
+        "word": "5年降价18次3折卖掉燕郊房子",
+        "onboard_time": 1714632257,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161358,
+        "num": 161358,
+        "word": "狼队 八强哥",
+        "onboard_time": 1714632017,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156305,
+        "num": 156305,
+        "word": "张馨予何捷 云南",
+        "onboard_time": 1714617797,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150403,
+        "num": 150403,
+        "word": "自信和不自信的区别到底有多大",
+        "onboard_time": 1714629498,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139197,
+        "num": 139197,
+        "word": "杨幂业内口碑",
+        "onboard_time": 1714619298,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133974,
+        "num": 133974,
+        "word": "山东一公司4人窒息死亡事故调查报告",
+        "onboard_time": 1714624997,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133218,
+        "num": 133218,
+        "word": "包包有拉链真的太重要了",
+        "onboard_time": 1714632378,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131735,
+        "num": 131735,
+        "word": "好六嘉宾为时团演唱会打call",
+        "onboard_time": 1714631897,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130646,
+        "num": 130646,
+        "word": "才发现港片还有这么俊的",
+        "onboard_time": 1714633278,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129177,
+        "num": 129177,
+        "word": "五一火车上的大学生强得可怕",
+        "onboard_time": 1714631357,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127579,
+        "num": 127579,
+        "word": "KPL",
+        "onboard_time": 1714633398,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115780,
+        "num": 115780,
+        "word": "人类的苦吗喽也不吃",
+        "onboard_time": 1714633098,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112055,
+        "num": 112055,
+        "word": "迪丽热巴把刘宇宁的歌念成光束一夜黑",
+        "onboard_time": 1714633758,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109979,
+        "num": 109979,
+        "word": "不久后他身上就没烟味了",
+        "onboard_time": 1714625297,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#你是大国工匠#"
+    }
+  }
+}

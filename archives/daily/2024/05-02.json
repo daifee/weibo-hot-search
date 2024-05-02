@@ -1,6 +1,6 @@
 {
   "startTime": 1714580547459,
-  "endTime": 1714631770483,
+  "endTime": 1714634278964,
   "band_list": [
     {
       "raw_hot": 3959503,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1338559,
-      "num": 698255,
+      "num": 746370,
       "word": "5000一晚的酒店薅走35瓶洗发水能回本吗",
       "onboard_time": 1714621997,
       "rank": 11,
@@ -107,12 +107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 999369,
+      "num": 999369,
+      "word": "今年五一没人结婚吗",
+      "onboard_time": 1714632616,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 989940,
       "num": 471745,
       "word": "罗西道歉",
       "onboard_time": 1714625058,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 861140,
+      "num": 861140,
+      "word": "梅大高速塌陷一3岁孩童脑出血还在ICU",
+      "onboard_time": 1714630398,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 850934,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 802219,
-      "num": 330576,
+      "num": 350066,
       "word": "21岁重庆男子跳江",
       "onboard_time": 1714627398,
       "rank": 26,
@@ -217,14 +233,6 @@
       "onboard_time": 1714573639,
       "rank": 33,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 618679,
-      "num": 618679,
-      "word": "梅大高速塌陷一3岁孩童脑出血还在ICU",
-      "onboard_time": 1714630398,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 612363,
@@ -331,6 +339,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 462389,
+      "num": 245642,
+      "word": "徐艺洋管狗狗叫黄子韬",
+      "onboard_time": 1714630698,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460399,
       "num": 460399,
       "word": "受辱的闺女窝囊的爹",
@@ -411,6 +427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 385104,
+      "num": 385104,
+      "word": "晒被子的最佳方式竟然是套个黑色塑料袋",
+      "onboard_time": 1714628959,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 381407,
       "num": 381407,
       "word": "初恋对中年人的杀伤力",
@@ -457,6 +481,14 @@
       "onboard_time": 1714573819,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 345485,
+      "num": 345485,
+      "word": "原著陈麦冬拉黑了庄洁三次",
+      "onboard_time": 1714631838,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 338072,
@@ -531,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285576,
-      "num": 245642,
-      "word": "徐艺洋管狗狗叫黄子韬",
-      "onboard_time": 1714630698,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 285241,
       "num": 285241,
       "word": "中等生为什么成绩上不去",
@@ -563,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270181,
-      "num": 270181,
-      "word": "晒被子的最佳方式竟然是套个黑色塑料袋",
-      "onboard_time": 1714628959,
-      "rank": 25,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 267893,
       "num": 267893,
       "word": "张韶涵",
@@ -585,6 +601,22 @@
       "onboard_time": 1714568359,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260586,
+      "num": 204137,
+      "word": "黄轩回天水两天变成了黄干",
+      "onboard_time": 1714632798,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 259137,
+      "num": 202731,
+      "word": "一个家庭最可怕的是制造内耗的人",
+      "onboard_time": 1714631357,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 258386,
@@ -723,6 +755,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 200967,
+      "num": 200967,
+      "word": "俄罗斯办缴获武器展友情提示亮了",
+      "onboard_time": 1714632677,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 200569,
       "num": 200569,
       "word": "孙怡素颜泳装照",
@@ -777,14 +817,6 @@
       "onboard_time": 1714631478,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 193357,
-      "num": 193357,
-      "word": "一个家庭最可怕的是制造内耗的人",
-      "onboard_time": 1714631357,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 192242,
@@ -939,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167354,
+      "num": 167354,
+      "word": "保研真的比考研好吗",
+      "onboard_time": 1714632918,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 167137,
       "num": 167137,
       "word": "间谍过家家",
@@ -947,12 +987,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166562,
+      "num": 166562,
+      "word": "刘宇宁给迪丽热巴101品牌撑个场",
+      "onboard_time": 1714633697,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166398,
       "num": 277695,
       "word": "美军一F16战机坠毁",
       "onboard_time": 1714623138,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 164378,
+      "num": 164378,
+      "word": "5年降价18次3折卖掉燕郊房子",
+      "onboard_time": 1714632257,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164173,
@@ -1009,6 +1065,14 @@
       "onboard_time": 1714625778,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161358,
+      "num": 161358,
+      "word": "狼队 八强哥",
+      "onboard_time": 1714632017,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 158180,
@@ -1219,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133218,
+      "num": 133218,
+      "word": "包包有拉链真的太重要了",
+      "onboard_time": 1714632378,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132670,
       "num": 132670,
       "word": "泡泡岛音乐节 大巴",
@@ -1227,12 +1299,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131735,
+      "num": 131735,
+      "word": "好六嘉宾为时团演唱会打call",
+      "onboard_time": 1714631897,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130966,
       "num": 130966,
       "word": "吉赛尔风格",
       "onboard_time": 1714609277,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 130646,
+      "num": 130646,
+      "word": "才发现港片还有这么俊的",
+      "onboard_time": 1714633278,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 130588,
@@ -1259,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127579,
+      "num": 127579,
+      "word": "KPL",
+      "onboard_time": 1714633398,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125327,
       "num": 125327,
       "word": "冒充小学生骗女生当事人被约谈",
@@ -1283,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115780,
+      "num": 115780,
+      "word": "人类的苦吗喽也不吃",
+      "onboard_time": 1714633098,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114228,
       "num": 114228,
       "word": "林更新机场被叫林狗",
@@ -1297,6 +1401,14 @@
       "onboard_time": 1714574601,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112055,
+      "num": 112055,
+      "word": "迪丽热巴把刘宇宁的歌念成光束一夜黑",
+      "onboard_time": 1714633758,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 111326,
