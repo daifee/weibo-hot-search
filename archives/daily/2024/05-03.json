@@ -1,6 +1,6 @@
 {
   "startTime": 1714666942242,
-  "endTime": 1714667841696,
+  "endTime": 1714670246103,
   "band_list": [
     {
       "raw_hot": 1841073,
@@ -19,20 +19,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1246990,
+      "num": 403095,
+      "word": "华晨宇内娱首个凌晨三点开演唱会",
+      "onboard_time": 1714666387,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 841105,
       "num": 342638,
       "word": "郭晋安离婚",
       "onboard_time": 1714656380,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 631611,
-      "num": 403095,
-      "word": "华晨宇内娱首个凌晨三点开演唱会",
-      "onboard_time": 1714666387,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 621744,
@@ -219,6 +219,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 132145,
+      "num": 86097,
+      "word": "游客从橘子洲挤到五一广场",
+      "onboard_time": 1714668497,
+      "rank": 22,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 130443,
       "num": 130443,
       "word": "美国又一黑人男子遭警察跪压后身亡",
@@ -241,6 +249,14 @@
       "onboard_time": 1714632616,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114686,
+      "num": 344647,
+      "word": "102岁奶奶补办身份证女警手舞足蹈引导",
+      "onboard_time": 1714666875,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112639,
@@ -339,12 +355,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 82123,
-      "num": 344647,
-      "word": "102岁奶奶补办身份证女警手舞足蹈引导",
-      "onboard_time": 1714666875,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 82002,
+      "num": 82002,
+      "word": "李健枣庄演唱会",
+      "onboard_time": 1714668794,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 81451,
@@ -395,6 +411,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 62788,
+      "num": 70434,
+      "word": "拜登声称中俄印日经济停滞是因排外",
+      "onboard_time": 1714655538,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 54867,
+      "num": 59464,
+      "word": "甘肃一地连续拍到5只野生大熊猫",
+      "onboard_time": 1714669456,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49733,
+      "num": 52971,
+      "word": "灿烂的花园",
+      "onboard_time": 1714670115,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 45604,
       "num": 264674,
       "word": "女童溺水被救全家上门磕头跪谢恩人",
@@ -407,6 +447,14 @@
       "num": 461797,
       "word": "2分钟回顾神十七187天",
       "onboard_time": 1714655659,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14058,
+      "num": 273724,
+      "word": "数据见证五一假期出行热度",
+      "onboard_time": 1714654999,
       "rank": 2,
       "category": "社会新闻"
     }

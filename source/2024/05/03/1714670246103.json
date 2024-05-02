@@ -1,0 +1,410 @@
+{
+  "runTime": 1714670246103,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 633033,
+        "num": 633033,
+        "word": "小众城市突然爆红",
+        "onboard_time": 1714661899,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 288100,
+        "num": 288100,
+        "word": "我弟弟就是最好的旅游搭子",
+        "onboard_time": 1714660999,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14058,
+        "num": 273724,
+        "word": "数据见证五一假期出行热度",
+        "onboard_time": 1714654999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1246990,
+        "num": 272900,
+        "word": "华晨宇内娱首个凌晨三点开演唱会",
+        "onboard_time": 1714666387,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270263,
+        "num": 270263,
+        "word": "韩国教授为IVE国风争议发声",
+        "onboard_time": 1714654457,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220098,
+        "num": 220098,
+        "word": "观音桥网红天桥因人流火爆而限流",
+        "onboard_time": 1714660340,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250678,
+        "num": 217658,
+        "word": "汪苏泷如果爱忘了",
+        "onboard_time": 1714663278,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212887,
+        "num": 212887,
+        "word": "Tiffany被年轻人抛弃了吗",
+        "onboard_time": 1714645937,
+        "rank": 7,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 192640,
+        "num": 192640,
+        "word": "梅大高速塌方已致48人死亡",
+        "onboard_time": 1714635678,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114686,
+        "num": 191459,
+        "word": "102岁奶奶补办身份证女警手舞足蹈引导",
+        "onboard_time": 1714666875,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1313631,
+        "num": 189250,
+        "word": "胖猫 谭竹",
+        "onboard_time": 1714663219,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 505489,
+        "num": 187767,
+        "word": "胖猫",
+        "onboard_time": 1714653859,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 375849,
+        "num": 185044,
+        "word": "郭晋安离婚",
+        "onboard_time": 1714656380,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276737,
+        "num": 183245,
+        "word": "罗西 临界十缨",
+        "onboard_time": 1714642097,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 211885,
+        "num": 181795,
+        "word": "网友晒299元买朱珠价值5千二手包",
+        "onboard_time": 1714653258,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181097,
+        "num": 181097,
+        "word": "张杰在台上轻轻地碎了",
+        "onboard_time": 1714662258,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155257,
+        "num": 155257,
+        "word": "IVE能不能把中国结摘下来",
+        "onboard_time": 1714655599,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127651,
+        "num": 127651,
+        "word": "射手座容易给人制造恋爱假象",
+        "onboard_time": 1714664119,
+        "rank": 17,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 111676,
+        "num": 111676,
+        "word": "黄景瑜演技",
+        "onboard_time": 1714663101,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88144,
+        "num": 88144,
+        "word": "昆明蓝莓12元1盒震惊外地游客",
+        "onboard_time": 1714652059,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196240,
+        "num": 87752,
+        "word": "老公一个月四千多养活我们一家三口",
+        "onboard_time": 1714639518,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165563,
+        "num": 87450,
+        "word": "褚会长称990万已支付完成",
+        "onboard_time": 1714660940,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132145,
+        "num": 86097,
+        "word": "游客从橘子洲挤到五一广场",
+        "onboard_time": 1714668497,
+        "rank": 22,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 107533,
+        "num": 85994,
+        "word": "成毅工作室放饭",
+        "onboard_time": 1714664538,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85406,
+        "num": 85406,
+        "word": "美国又一黑人男子遭警察跪压后身亡",
+        "onboard_time": 1714654759,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82002,
+        "num": 82002,
+        "word": "李健枣庄演唱会",
+        "onboard_time": 1714668794,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78779,
+        "num": 78779,
+        "word": "郭晋安欧倩怡 共用微博",
+        "onboard_time": 1714659561,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78702,
+        "num": 78702,
+        "word": "发炎时要少吃4类食物",
+        "onboard_time": 1714662139,
+        "rank": 27,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 72428,
+        "num": 72428,
+        "word": "迪丽热巴旗袍舞台直拍",
+        "onboard_time": 1714663101,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62788,
+        "num": 70434,
+        "word": "拜登声称中俄印日经济停滞是因排外",
+        "onboard_time": 1714655538,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 70374,
+        "num": 70374,
+        "word": "泫雅 回春",
+        "onboard_time": 1714644978,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19357,
+        "num": 70229,
+        "word": "2分钟回顾神十七187天",
+        "onboard_time": 1714655659,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70215,
+        "num": 70215,
+        "word": "据说每个城市都来了1亿人",
+        "onboard_time": 1714657519,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 66623,
+        "num": 66623,
+        "word": "乐山大佛排队4小时才能看到佛脚",
+        "onboard_time": 1714663159,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 64826,
+        "num": 64826,
+        "word": "杨谨华回应与萧亚轩友情",
+        "onboard_time": 1714663399,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64744,
+        "num": 64744,
+        "word": "今年五一没人结婚吗",
+        "onboard_time": 1714632616,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61458,
+        "num": 61458,
+        "word": "五一档新片票房破9亿",
+        "onboard_time": 1714660221,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60266,
+        "num": 60266,
+        "word": "公共场所有多脏",
+        "onboard_time": 1714650619,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59624,
+        "num": 59624,
+        "word": "张子枫哭出了漫画里才有的泪眼",
+        "onboard_time": 1714641439,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54867,
+        "num": 59464,
+        "word": "甘肃一地连续拍到5只野生大熊猫",
+        "onboard_time": 1714669456,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59457,
+        "num": 59457,
+        "word": "时代少年团重庆",
+        "onboard_time": 1714660340,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59325,
+        "num": 59325,
+        "word": "成龙回应满头白发",
+        "onboard_time": 1714653558,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58550,
+        "num": 58550,
+        "word": "胡歌台湾腔",
+        "onboard_time": 1714665257,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58245,
+        "num": 58245,
+        "word": "西湖醋鱼",
+        "onboard_time": 1714651218,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 56650,
+        "num": 56650,
+        "word": "爸爸妈妈好像把我当小猫养了",
+        "onboard_time": 1714659919,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53013,
+        "num": 53013,
+        "word": "黄子韬抓住徐艺洋的手",
+        "onboard_time": 1714638201,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52977,
+        "num": 52977,
+        "word": "国务院安委会办公室印发紧急通知",
+        "onboard_time": 1714642336,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49733,
+        "num": 52971,
+        "word": "灿烂的花园",
+        "onboard_time": 1714670115,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46846,
+        "num": 52949,
+        "word": "室友一年要五个生日礼物",
+        "onboard_time": 1714651757,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41838,
+        "num": 52933,
+        "word": "山西恒山景区发生落石事件致1死5伤",
+        "onboard_time": 1714655659,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对梅大高速塌方灾害作出重要指示#"
+    }
+  }
+}
