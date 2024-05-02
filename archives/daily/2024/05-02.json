@@ -1,6 +1,6 @@
 {
   "startTime": 1714580547459,
-  "endTime": 1714638894089,
+  "endTime": 1714641556505,
   "band_list": [
     {
       "raw_hot": 7156334,
@@ -35,20 +35,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1299817,
+      "num": 247630,
+      "word": "老公一个月四千多养活我们一家三口",
+      "onboard_time": 1714639518,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1276632,
+      "num": 1276632,
+      "word": "广东省委书记省长面向塌方地三鞠躬",
+      "onboard_time": 1714636158,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1237151,
       "num": 1237151,
       "word": "北大居然偷偷出了这么多神器",
       "onboard_time": 1714614137,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1193466,
-      "num": 1193466,
-      "word": "广东省委书记省长面向塌方地三鞠躬",
-      "onboard_time": 1714636158,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1172965,
@@ -227,6 +235,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 675988,
+      "num": 675988,
+      "word": "刘涛秦岚吵架 破碎的是赵昭仪",
+      "onboard_time": 1714635557,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 672805,
+      "num": 330079,
+      "word": "梅龙高速塌方亲历者在路塌前冲了过去",
+      "onboard_time": 1714636278,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 652103,
       "num": 652103,
       "word": "江西赣州特斯拉",
@@ -275,14 +299,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 591813,
-      "num": 330079,
-      "word": "梅龙高速塌方亲历者在路塌前冲了过去",
-      "onboard_time": 1714636278,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 589455,
       "num": 589455,
       "word": "曹骏古装",
@@ -291,20 +307,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 574669,
-      "num": 574669,
-      "word": "刘涛秦岚吵架 破碎的是赵昭仪",
-      "onboard_time": 1714635557,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 566111,
       "num": 566111,
       "word": "济南一对夫妻失联近一个月",
       "onboard_time": 1714612517,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553388,
+      "num": 312014,
+      "word": "黄子韬抓住徐艺洋的手",
+      "onboard_time": 1714638201,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 543788,
@@ -323,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 516368,
+      "num": 300412,
+      "word": "被韩国人精致穷的消费观震惊",
+      "onboard_time": 1714638558,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 478677,
       "num": 478677,
       "word": "何炅客串了难哄",
@@ -337,6 +361,14 @@
       "onboard_time": 1714618517,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 473734,
+      "num": 473734,
+      "word": "专家称梅大高速坍塌前或有征兆",
+      "onboard_time": 1714634838,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471485,
@@ -403,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 446488,
-      "num": 446488,
-      "word": "专家称梅大高速坍塌前或有征兆",
-      "onboard_time": 1714634838,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 445750,
       "num": 324070,
       "word": "阿娇 突然就汪了出来",
@@ -433,6 +457,14 @@
       "onboard_time": 1714629498,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 432005,
+      "num": 289934,
+      "word": "一诺微博粉丝数400万了",
+      "onboard_time": 1714639518,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 429471,
@@ -555,12 +587,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 343271,
-      "num": 292800,
-      "word": "被韩国人精致穷的消费观震惊",
+      "raw_hot": 343023,
+      "num": 343023,
+      "word": "下次再也不在节假日出来了",
       "onboard_time": 1714638558,
-      "rank": 12,
-      "category": "幽默"
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 339604,
+      "num": 339604,
+      "word": "十个勤天音乐节",
+      "onboard_time": 1714638979,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 338072,
@@ -651,12 +691,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292178,
+      "num": 242453,
+      "word": "石凯白发",
+      "onboard_time": 1714639038,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 285241,
       "num": 285241,
       "word": "中等生为什么成绩上不去",
       "onboard_time": 1714609816,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 284287,
+      "num": 284287,
+      "word": "泫雅回归",
+      "onboard_time": 1714641199,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 282859,
@@ -689,14 +745,6 @@
       "onboard_time": 1714568359,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261834,
-      "num": 261834,
-      "word": "黄子韬抓住徐艺洋的手",
-      "onboard_time": 1714638201,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 258386,
@@ -737,6 +785,14 @@
       "onboard_time": 1714570399,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 240979,
+      "num": 167411,
+      "word": "张拿铁受不了的amazing教育",
+      "onboard_time": 1714640059,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 240116,
@@ -915,14 +971,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 193472,
-      "num": 193472,
-      "word": "下次再也不在节假日出来了",
-      "onboard_time": 1714638558,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 192242,
       "num": 192242,
       "word": "九龙城寨 港片回来了",
@@ -936,6 +984,14 @@
       "word": "迪丽热巴参加过配音综艺身临其境",
       "onboard_time": 1714634537,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189366,
+      "num": 189366,
+      "word": "孟子义cos妲己",
+      "onboard_time": 1714639098,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -1041,6 +1097,14 @@
       "onboard_time": 1714632378,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173267,
+      "num": 173267,
+      "word": "刘宇宁问我和迪丽热巴长得不像吗",
+      "onboard_time": 1714639278,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 173253,
@@ -1235,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156103,
+      "num": 156103,
+      "word": "终于明白为啥狗的单位是条了",
+      "onboard_time": 1714640299,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154803,
       "num": 154803,
       "word": "薛之谦演唱会drama",
@@ -1265,6 +1337,14 @@
       "onboard_time": 1714622297,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152495,
+      "num": 152495,
+      "word": "没有一顿火锅解决不了的事",
+      "onboard_time": 1714640717,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 152245,
@@ -1331,6 +1411,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146119,
+      "num": 146119,
+      "word": "为啥女厕所总是排长队",
+      "onboard_time": 1714638439,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 145403,
+      "num": 145403,
+      "word": "张碧晨撤回了一条吃瓜情报",
+      "onboard_time": 1714638918,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144244,
       "num": 144244,
       "word": "时代少年团好望角海报是P的",
@@ -1369,14 +1465,6 @@
       "onboard_time": 1714635678,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137969,
-      "num": 137969,
-      "word": "为啥女厕所总是排长队",
-      "onboard_time": 1714638439,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 137439,
@@ -1425,6 +1513,14 @@
       "onboard_time": 1714575079,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134329,
+      "num": 134329,
+      "word": "B太再回淄博",
+      "onboard_time": 1714641199,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134209,
@@ -1571,6 +1667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115237,
+      "num": 115237,
+      "word": "风中有朵小狗做的云",
+      "onboard_time": 1714640959,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114228,
       "num": 114228,
       "word": "林更新机场被叫林狗",
@@ -1635,6 +1739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107041,
+      "num": 107041,
+      "word": "张子枫哭出了漫画里才有的泪眼",
+      "onboard_time": 1714641439,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 106893,
       "num": 106893,
       "word": "时代少年团演唱会彩排",
@@ -1649,6 +1761,14 @@
       "onboard_time": 1714610296,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 106063,
+      "num": 106063,
+      "word": "干捞威尼斯",
+      "onboard_time": 1714641078,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 104846,
@@ -1915,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58548,
+      "num": 792585,
+      "word": "打开青春的N种方式",
+      "onboard_time": 1714637239,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57994,
       "num": 57994,
       "word": "张杰第一场演唱会第一首歌",
@@ -1945,14 +2073,6 @@
       "onboard_time": 1714568539,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 48581,
-      "num": 792585,
-      "word": "打开青春的N种方式",
-      "onboard_time": 1714637239,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44954,

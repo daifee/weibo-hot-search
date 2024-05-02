@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714638894089,
+  "endTime": 1714641556505,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -107,11 +107,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1299817,
+      "num": 247630,
+      "word": "老公一个月四千多养活我们一家三口",
+      "onboard_time": 1714639518,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1295011,
       "num": 1295011,
       "word": "日本男演员涉华人夫妇焚尸案被捕",
       "onboard_time": 1714568718,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1276632,
+      "num": 1276632,
+      "word": "广东省委书记省长面向塌方地三鞠躬",
+      "onboard_time": 1714636158,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -129,14 +145,6 @@
       "onboard_time": 1714614137,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1193466,
-      "num": 1193466,
-      "word": "广东省委书记省长面向塌方地三鞠躬",
-      "onboard_time": 1714636158,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1172965,
@@ -499,6 +507,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 675988,
+      "num": 675988,
+      "word": "刘涛秦岚吵架 破碎的是赵昭仪",
+      "onboard_time": 1714635557,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 672805,
+      "num": 330079,
+      "word": "梅龙高速塌方亲历者在路塌前冲了过去",
+      "onboard_time": 1714636278,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 671379,
       "num": 479080,
       "word": "梅州高速塌方已致1死30伤",
@@ -619,28 +643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 591813,
-      "num": 330079,
-      "word": "梅龙高速塌方亲历者在路塌前冲了过去",
-      "onboard_time": 1714636278,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 589455,
       "num": 589455,
       "word": "曹骏古装",
       "onboard_time": 1714616839,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 574669,
-      "num": 574669,
-      "word": "刘涛秦岚吵架 破碎的是赵昭仪",
-      "onboard_time": 1714635557,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 566111,
@@ -657,6 +665,14 @@
       "onboard_time": 1714541179,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553388,
+      "num": 312014,
+      "word": "黄子韬抓住徐艺洋的手",
+      "onboard_time": 1714638201,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 549211,
@@ -731,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 516368,
+      "num": 300412,
+      "word": "被韩国人精致穷的消费观震惊",
+      "onboard_time": 1714638558,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 512297,
       "num": 512297,
       "word": "庆余年2",
@@ -777,6 +801,14 @@
       "onboard_time": 1714520235,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 473734,
+      "num": 473734,
+      "word": "专家称梅大高速坍塌前或有征兆",
+      "onboard_time": 1714634838,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471485,
@@ -899,14 +931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 446488,
-      "num": 446488,
-      "word": "专家称梅大高速坍塌前或有征兆",
-      "onboard_time": 1714634838,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 446345,
       "num": 471737,
       "word": "外卖小哥陪瘫痪女子吃饭多年直到女子离世",
@@ -945,6 +969,14 @@
       "onboard_time": 1714565959,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 432005,
+      "num": 289934,
+      "word": "一诺微博粉丝数400万了",
+      "onboard_time": 1714639518,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 428590,
@@ -1291,12 +1323,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 343271,
-      "num": 292800,
-      "word": "被韩国人精致穷的消费观震惊",
+      "raw_hot": 343023,
+      "num": 343023,
+      "word": "下次再也不在节假日出来了",
       "onboard_time": 1714638558,
-      "rank": 12,
-      "category": "幽默"
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 341853,
@@ -1305,6 +1337,14 @@
       "onboard_time": 1714569618,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 339604,
+      "num": 339604,
+      "word": "十个勤天音乐节",
+      "onboard_time": 1714638979,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 339323,
@@ -1515,6 +1555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 292178,
+      "num": 242453,
+      "word": "石凯白发",
+      "onboard_time": 1714639038,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 285775,
       "num": 285775,
       "word": "林俊杰巡演",
@@ -1545,6 +1593,14 @@
       "onboard_time": 1714525457,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284287,
+      "num": 284287,
+      "word": "泫雅回归",
+      "onboard_time": 1714641199,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 283038,
@@ -1641,14 +1697,6 @@
       "onboard_time": 1714488980,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 261834,
-      "num": 261834,
-      "word": "黄子韬抓住徐艺洋的手",
-      "onboard_time": 1714638201,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 261655,
@@ -1817,6 +1865,14 @@
       "onboard_time": 1714549218,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 240979,
+      "num": 167411,
+      "word": "张拿铁受不了的amazing教育",
+      "onboard_time": 1714640059,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 240659,
@@ -2355,14 +2411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 193472,
-      "num": 193472,
-      "word": "下次再也不在节假日出来了",
-      "onboard_time": 1714638558,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 192319,
       "num": 192319,
       "word": "真的别再打孩子了",
@@ -2417,6 +2465,14 @@
       "onboard_time": 1714557258,
       "rank": 28,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 189366,
+      "num": 189366,
+      "word": "孟子义cos妲己",
+      "onboard_time": 1714639098,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 189254,
@@ -2681,6 +2737,14 @@
       "onboard_time": 1714468698,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173267,
+      "num": 173267,
+      "word": "刘宇宁问我和迪丽热巴长得不像吗",
+      "onboard_time": 1714639278,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 173253,
@@ -3051,6 +3115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156103,
+      "num": 156103,
+      "word": "终于明白为啥狗的单位是条了",
+      "onboard_time": 1714640299,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156090,
       "num": 243425,
       "word": "00后过五一有多拼",
@@ -3145,6 +3217,14 @@
       "onboard_time": 1714469897,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152495,
+      "num": 152495,
+      "word": "没有一顿火锅解决不了的事",
+      "onboard_time": 1714640717,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 152245,
@@ -3315,6 +3395,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 146119,
+      "num": 146119,
+      "word": "为啥女厕所总是排长队",
+      "onboard_time": 1714638439,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145868,
       "num": 145868,
       "word": "张杰要得第一篇章预告",
@@ -3329,6 +3417,14 @@
       "onboard_time": 1714570939,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145403,
+      "num": 145403,
+      "word": "张碧晨撤回了一条吃瓜情报",
+      "onboard_time": 1714638918,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 145396,
@@ -3467,14 +3563,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 137969,
-      "num": 137969,
-      "word": "为啥女厕所总是排长队",
-      "onboard_time": 1714638439,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137963,
       "num": 137963,
       "word": "COA7全球总决赛",
@@ -3585,6 +3673,14 @@
       "onboard_time": 1714518555,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134329,
+      "num": 134329,
+      "word": "B太再回淄博",
+      "onboard_time": 1714641199,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134209,
@@ -4027,6 +4123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115237,
+      "num": 115237,
+      "word": "风中有朵小狗做的云",
+      "onboard_time": 1714640959,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114956,
       "num": 114956,
       "word": "给情侣们的约会建议",
@@ -4267,6 +4371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107041,
+      "num": 107041,
+      "word": "张子枫哭出了漫画里才有的泪眼",
+      "onboard_time": 1714641439,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 106945,
       "num": 106945,
       "word": "让人瞬间理解领养代替购买",
@@ -4297,6 +4409,14 @@
       "onboard_time": 1714610296,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 106063,
+      "num": 106063,
+      "word": "干捞威尼斯",
+      "onboard_time": 1714641078,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 105168,
@@ -4731,6 +4851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 58548,
+      "num": 792585,
+      "word": "打开青春的N种方式",
+      "onboard_time": 1714637239,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58156,
       "num": 58156,
       "word": "女性有这7种情况要警惕宫外孕",
@@ -4793,14 +4921,6 @@
       "onboard_time": 1714515132,
       "rank": 49,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 48581,
-      "num": 792585,
-      "word": "打开青春的N种方式",
-      "onboard_time": 1714637239,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46359,
