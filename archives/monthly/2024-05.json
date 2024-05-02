@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714654137251,
+  "endTime": 1714655938419,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -121,6 +121,14 @@
       "onboard_time": 1714539017,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1313121,
+      "num": 380718,
+      "word": "梅大高速塌方一家五口确认遇难",
+      "onboard_time": 1714654759,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1295011,
@@ -339,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 872908,
+      "num": 872908,
+      "word": "西湖醋鱼",
+      "onboard_time": 1714651218,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 870938,
       "num": 870938,
       "word": "日本或将进入单身税时代",
@@ -411,14 +427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 805430,
-      "num": 805430,
-      "word": "西湖醋鱼",
-      "onboard_time": 1714651218,
-      "rank": 5,
-      "category": "美食"
-    },
-    {
       "raw_hot": 803158,
       "num": 803158,
       "word": "内蒙古1.2万切糕事件反转",
@@ -433,6 +441,14 @@
       "onboard_time": 1714627398,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 800192,
+      "num": 252893,
+      "word": "室友一年要五个生日礼物",
+      "onboard_time": 1714651757,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 799259,
@@ -659,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 637264,
-      "num": 249459,
-      "word": "室友一年要五个生日礼物",
-      "onboard_time": 1714651757,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 629006,
       "num": 629006,
       "word": "日本小镇拉黑布遮挡富士山远景",
@@ -779,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 545432,
+      "num": 376755,
+      "word": "韩国教授为IVE国风争议发声",
+      "onboard_time": 1714654457,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 544658,
       "num": 517396,
       "word": "梅州高速塌方一女子5名亲人失联",
@@ -825,6 +841,14 @@
       "onboard_time": 1714489460,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 534188,
+      "num": 251574,
+      "word": "昆明蓝莓12元1盒震惊外地游客",
+      "onboard_time": 1714652059,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 533047,
@@ -881,6 +905,14 @@
       "onboard_time": 1714521977,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 485059,
+      "num": 372885,
+      "word": "成龙回应满头白发",
+      "onboard_time": 1714653558,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 480999,
@@ -1009,6 +1041,14 @@
       "onboard_time": 1714621758,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 454903,
+      "num": 248737,
+      "word": "网友晒299元买朱珠价值5千二手包",
+      "onboard_time": 1714653258,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 452993,
@@ -1219,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 406217,
+      "num": 406217,
+      "word": "Tiffany玄学",
+      "onboard_time": 1714652417,
+      "rank": 30,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 405316,
       "num": 219473,
       "word": "吴倩原相机直出",
@@ -1281,6 +1329,14 @@
       "onboard_time": 1714649656,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 385550,
+      "num": 385550,
+      "word": "美国又一黑人男子遭警察跪压后身亡",
+      "onboard_time": 1714654759,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385104,
@@ -1395,6 +1451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 362907,
+      "num": 362907,
+      "word": "周深录奔跑吧哭了",
+      "onboard_time": 1714653498,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361639,
       "num": 205067,
       "word": "美国流浪汉当街啃人脸吃眼球和耳朵",
@@ -1459,14 +1523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 343988,
-      "num": 157233,
-      "word": "网友晒299元买朱珠价值5千二手包",
-      "onboard_time": 1714653258,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 343676,
       "num": 343676,
       "word": "Ale 离队",
@@ -1481,14 +1537,6 @@
       "onboard_time": 1714569618,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 341195,
-      "num": 249190,
-      "word": "昆明蓝莓12元1盒震惊外地游客",
-      "onboard_time": 1714652059,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339604,
@@ -1795,14 +1843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272367,
-      "num": 272367,
-      "word": "周深录奔跑吧哭了",
-      "onboard_time": 1714653498,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 271406,
       "num": 271406,
       "word": "那英说录声生不息哭得乱七八糟",
@@ -1899,14 +1939,6 @@
       "category": "动漫,艺人"
     },
     {
-      "raw_hot": 258612,
-      "num": 258612,
-      "word": "Tiffany玄学",
-      "onboard_time": 1714652417,
-      "rank": 30,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 258386,
       "num": 182598,
       "word": "迪丽热巴给剧组工作人员发五一红包",
@@ -1963,14 +1995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248721,
-      "num": 248721,
-      "word": "成龙回应满头白发",
-      "onboard_time": 1714653558,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248135,
       "num": 248135,
       "word": "李振豪",
@@ -2001,6 +2025,14 @@
       "onboard_time": 1714630038,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245784,
+      "num": 245784,
+      "word": "马嘉祺放了对不起我爱你",
+      "onboard_time": 1714654579,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 244935,
@@ -2073,6 +2105,14 @@
       "onboard_time": 1714636997,
       "rank": 23,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 239818,
+      "num": 239818,
+      "word": "胖猫",
+      "onboard_time": 1714653859,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 239432,
@@ -2193,6 +2233,14 @@
       "onboard_time": 1714529477,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 220695,
+      "num": 220695,
+      "word": "WTT",
+      "onboard_time": 1714654819,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 220271,
@@ -2827,6 +2875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187250,
+      "num": 187250,
+      "word": "山西恒山景区回应落石砸伤游客",
+      "onboard_time": 1714652657,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185833,
       "num": 521808,
       "word": "杭州西湖边再现最美人墙",
@@ -2897,6 +2953,14 @@
       "onboard_time": 1714564099,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182210,
+      "num": 182210,
+      "word": "北岳恒山景区落石砸伤多人",
+      "onboard_time": 1714652239,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182120,
@@ -3139,6 +3203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170288,
+      "num": 170288,
+      "word": "赴山海女主",
+      "onboard_time": 1714653918,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170224,
       "num": 170224,
       "word": "关晓彤自己粘的睫毛",
@@ -3177,6 +3249,14 @@
       "onboard_time": 1714638259,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168697,
+      "num": 168697,
+      "word": "山西恒山景区发生落石事件致1死5伤",
+      "onboard_time": 1714655659,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168672,
@@ -3427,14 +3507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157482,
-      "num": 157482,
-      "word": "山西恒山景区回应落石砸伤游客",
-      "onboard_time": 1714652657,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157340,
       "num": 157340,
       "word": "嫦娥六号发射定在5月3日",
@@ -3480,14 +3552,6 @@
       "word": "00后过五一有多拼",
       "onboard_time": 1714531278,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155909,
-      "num": 155909,
-      "word": "北岳恒山景区落石砸伤多人",
-      "onboard_time": 1714652239,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3955,6 +4019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139441,
+      "num": 139441,
+      "word": "反向旅游",
+      "onboard_time": 1714655238,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 138931,
       "num": 138931,
       "word": "福宝会择机与公众见面",
@@ -4123,6 +4195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133927,
+      "num": 133927,
+      "word": "汤杯中国2比1印度",
+      "onboard_time": 1714655538,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133551,
       "num": 133551,
       "word": "张真源谈十岁进公司训练的经历",
@@ -4217,14 +4297,6 @@
       "onboard_time": 1714609937,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130578,
-      "num": 130578,
-      "word": "胖猫",
-      "onboard_time": 1714653859,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 130213,
@@ -4347,6 +4419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125288,
+      "num": 125288,
+      "word": "拜登声称中俄印日经济停滞是因排外",
+      "onboard_time": 1714655538,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 124145,
       "num": 124145,
       "word": "因为布置工位被领导约谈了",
@@ -4417,14 +4497,6 @@
       "onboard_time": 1714488501,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122633,
-      "num": 122633,
-      "word": "赴山海女主",
-      "onboard_time": 1714653918,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 121388,
@@ -4529,6 +4601,14 @@
       "onboard_time": 1714534338,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 118038,
+      "num": 118038,
+      "word": "IVE能不能把中国结摘下来",
+      "onboard_time": 1714655599,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 117472,
@@ -4865,6 +4945,14 @@
       "onboard_time": 1714544479,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 108001,
+      "num": 201758,
+      "word": "数据见证五一假期出行热度",
+      "onboard_time": 1714654999,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107585,
@@ -5505,6 +5593,14 @@
       "onboard_time": 1714588812,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 39500,
+      "num": 903982,
+      "word": "2分钟回顾神十七187天",
+      "onboard_time": 1714655659,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31619,
