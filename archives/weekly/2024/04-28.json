@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714619975017,
+  "endTime": 1714620874105,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -683,6 +683,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1078169,
+      "num": 1078169,
+      "word": "大唐不夜城已被六国游客攻陷",
+      "onboard_time": 1714617677,
+      "rank": 1,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1078160,
       "num": 512487,
       "word": "郑恺幸亏我和苗苗结婚了",
@@ -923,14 +931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 934724,
-      "num": 934724,
-      "word": "大唐不夜城已被六国游客攻陷",
-      "onboard_time": 1714617677,
-      "rank": 1,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 933960,
       "num": 933960,
       "word": "太空归来3人全部安全出舱",
@@ -1139,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 850934,
+      "num": 850934,
+      "word": "梅大高速塌陷已发现23辆车陷落",
+      "onboard_time": 1714618877,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 843951,
       "num": 843951,
       "word": "古天乐坚持十多年每天只吃一顿饭",
@@ -1313,14 +1321,6 @@
       "onboard_time": 1714605974,
       "rank": 15,
       "category": "美食"
-    },
-    {
-      "raw_hot": 774039,
-      "num": 774039,
-      "word": "梅大高速塌陷已发现23辆车陷落",
-      "onboard_time": 1714618877,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 770575,
@@ -2643,6 +2643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 477256,
+      "num": 477256,
+      "word": "他可是宝莲灯沉香",
+      "onboard_time": 1714618517,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 476714,
       "num": 212672,
       "word": "喝完水多久排尿才正常",
@@ -2835,14 +2843,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 458683,
-      "num": 458683,
-      "word": "他可是宝莲灯沉香",
-      "onboard_time": 1714618517,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 457938,
       "num": 457938,
       "word": "华为",
@@ -2881,6 +2881,14 @@
       "onboard_time": 1714571599,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450168,
+      "num": 450168,
+      "word": "杨幂业内口碑",
+      "onboard_time": 1714619298,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 449967,
@@ -4595,6 +4603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282859,
+      "num": 282859,
+      "word": "好想收养我的研究生朋友",
+      "onboard_time": 1714616417,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 282749,
       "num": 282749,
       "word": "王一博 谁是犊子",
@@ -4883,6 +4899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264778,
+      "num": 233200,
+      "word": "赵露思被前员工背刺",
+      "onboard_time": 1714620438,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264020,
       "num": 264020,
       "word": "张新成新剧尺度",
@@ -5105,14 +5129,6 @@
       "onboard_time": 1714359620,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252642,
-      "num": 252642,
-      "word": "好想收养我的研究生朋友",
-      "onboard_time": 1714616417,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 252160,
@@ -5345,14 +5361,6 @@
       "onboard_time": 1714372159,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 243850,
-      "num": 243850,
-      "word": "杨幂业内口碑",
-      "onboard_time": 1714619298,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 243708,
@@ -6883,6 +6891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196529,
+      "num": 196529,
+      "word": "亚比囧囧囧",
+      "onboard_time": 1714619178,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196473,
       "num": 196473,
       "word": "RW锁定败者组",
@@ -7177,6 +7193,14 @@
       "onboard_time": 1714483400,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192242,
+      "num": 192242,
+      "word": "九龙城寨 港片回来了",
+      "onboard_time": 1714619657,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 192080,
@@ -7531,6 +7555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185833,
+      "num": 521808,
+      "word": "杭州西湖边再现最美人墙",
+      "onboard_time": 1714616538,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 185820,
       "num": 185820,
       "word": "不喜欢工作但喜欢找工作",
@@ -7553,6 +7585,14 @@
       "onboard_time": 1714396819,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185457,
+      "num": 185457,
+      "word": "高铁踩点",
+      "onboard_time": 1714619477,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 185419,
@@ -7955,14 +7995,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 176892,
-      "num": 521808,
-      "word": "杭州西湖边再现最美人墙",
-      "onboard_time": 1714616538,
-      "rank": 33,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 176828,
       "num": 164238,
       "word": "震碎Kpop",
@@ -8307,14 +8339,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 168730,
-      "num": 168730,
-      "word": "亚比囧囧囧",
-      "onboard_time": 1714619178,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 168672,
       "num": 168672,
       "word": "时代少年团演唱会彩排",
@@ -8480,14 +8504,6 @@
       "word": "杨幂唐嫣早期同框照",
       "onboard_time": 1714538237,
       "rank": 40,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 164992,
-      "num": 164992,
-      "word": "九龙城寨 港片回来了",
-      "onboard_time": 1714619657,
-      "rank": 31,
       "category": "电影"
     },
     {
@@ -9651,14 +9667,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 144851,
-      "num": 144851,
-      "word": "高铁踩点",
-      "onboard_time": 1714619477,
-      "rank": 35,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 144627,
       "num": 144627,
       "word": "外交部回应哈马斯和法塔赫在京磋商",
@@ -9729,6 +9737,14 @@
       "onboard_time": 1714359258,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 143764,
+      "num": 143764,
+      "word": "县城旅游",
+      "onboard_time": 1714620737,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 143406,
@@ -11019,6 +11035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 117390,
+      "num": 242863,
+      "word": "孟加拉国高温临时关闭全国学校",
+      "onboard_time": 1714619417,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117221,
       "num": 117221,
       "word": "黄景瑜分享和王一博的剧组日常",
@@ -11883,6 +11907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 92719,
+      "num": 92080,
+      "word": "维和防暴队 删减",
+      "onboard_time": 1714620857,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 92679,
       "num": 92679,
       "word": "当洗澡后穿上你给的短裤",
@@ -12128,14 +12160,6 @@
       "word": "我的五一游记",
       "onboard_time": 1714483099,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74405,
-      "num": 242863,
-      "word": "孟加拉国高温临时关闭全国学校",
-      "onboard_time": 1714619417,
-      "rank": 19,
       "category": "社会新闻"
     },
     {

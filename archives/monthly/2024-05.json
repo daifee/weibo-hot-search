@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714619975017,
+  "endTime": 1714620874105,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -163,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1078169,
+      "num": 1078169,
+      "word": "大唐不夜城已被六国游客攻陷",
+      "onboard_time": 1714617677,
+      "rank": 1,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1069308,
       "num": 406888,
       "word": "徐艺洋说吵架会被黄子韬拉黑",
@@ -211,14 +219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 934724,
-      "num": 934724,
-      "word": "大唐不夜城已被六国游客攻陷",
-      "onboard_time": 1714617677,
-      "rank": 1,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 929980,
       "num": 738801,
       "word": "电脑C盘最恶心的四大毒瘤",
@@ -249,6 +249,14 @@
       "onboard_time": 1714573878,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 850934,
+      "num": 850934,
+      "word": "梅大高速塌陷已发现23辆车陷落",
+      "onboard_time": 1714618877,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 841804,
@@ -305,14 +313,6 @@
       "onboard_time": 1714605974,
       "rank": 15,
       "category": "美食"
-    },
-    {
-      "raw_hot": 774039,
-      "num": 774039,
-      "word": "梅大高速塌陷已发现23辆车陷落",
-      "onboard_time": 1714618877,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 770560,
@@ -611,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 477256,
+      "num": 477256,
+      "word": "他可是宝莲灯沉香",
+      "onboard_time": 1714618517,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 476714,
       "num": 212672,
       "word": "喝完水多久排尿才正常",
@@ -675,20 +683,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 458683,
-      "num": 458683,
-      "word": "他可是宝莲灯沉香",
-      "onboard_time": 1714618517,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 452993,
       "num": 337627,
       "word": "梅大高速塌陷货车司机夫妇喊停后车",
       "onboard_time": 1714571599,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450168,
+      "num": 450168,
+      "word": "杨幂业内口碑",
+      "onboard_time": 1714619298,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 449484,
@@ -1267,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282859,
+      "num": 282859,
+      "word": "好想收养我的研究生朋友",
+      "onboard_time": 1714616417,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 281673,
       "num": 281673,
       "word": "福宝将结束隔离",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1714558401,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264778,
+      "num": 233200,
+      "word": "赵露思被前员工背刺",
+      "onboard_time": 1714620438,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 264671,
@@ -1419,14 +1443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252642,
-      "num": 252642,
-      "word": "好想收养我的研究生朋友",
-      "onboard_time": 1714616417,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 248939,
       "num": 248939,
       "word": "疑似情感纠纷女子带人冲进办公室殴打女员工",
@@ -1465,14 +1481,6 @@
       "onboard_time": 1714524737,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243850,
-      "num": 243850,
-      "word": "杨幂业内口碑",
-      "onboard_time": 1714619298,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 243621,
@@ -1875,6 +1883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 196529,
+      "num": 196529,
+      "word": "亚比囧囧囧",
+      "onboard_time": 1714619178,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196061,
       "num": 196061,
       "word": "金道英solo初一位",
@@ -1929,6 +1945,14 @@
       "onboard_time": 1714525818,
       "rank": 45,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 192242,
+      "num": 192242,
+      "word": "九龙城寨 港片回来了",
+      "onboard_time": 1714619657,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 192080,
@@ -2019,12 +2043,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185833,
+      "num": 521808,
+      "word": "杭州西湖边再现最美人墙",
+      "onboard_time": 1714616538,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 185551,
       "num": 185551,
       "word": "CCtalk公众号",
       "onboard_time": 1714614617,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 185457,
+      "num": 185457,
+      "word": "高铁踩点",
+      "onboard_time": 1714619477,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 184596,
@@ -2113,14 +2153,6 @@
       "onboard_time": 1714561878,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 176892,
-      "num": 521808,
-      "word": "杭州西湖边再现最美人墙",
-      "onboard_time": 1714616538,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 176307,
@@ -2235,14 +2267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168730,
-      "num": 168730,
-      "word": "亚比囧囧囧",
-      "onboard_time": 1714619178,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 168672,
       "num": 168672,
       "word": "时代少年团演唱会彩排",
@@ -2304,14 +2328,6 @@
       "word": "杨幂唐嫣早期同框照",
       "onboard_time": 1714538237,
       "rank": 40,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 164992,
-      "num": 164992,
-      "word": "九龙城寨 港片回来了",
-      "onboard_time": 1714619657,
-      "rank": 31,
       "category": "电影"
     },
     {
@@ -2699,20 +2715,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 144851,
-      "num": 144851,
-      "word": "高铁踩点",
-      "onboard_time": 1714619477,
-      "rank": 35,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 144581,
       "num": 144581,
       "word": "黄景瑜说不敢认领拍军警是统治区",
       "onboard_time": 1714559719,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143764,
+      "num": 143764,
+      "word": "县城旅游",
+      "onboard_time": 1714620737,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 143018,
@@ -3177,6 +3193,14 @@
       "onboard_time": 1714567998,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117390,
+      "num": 242863,
+      "word": "孟加拉国高温临时关闭全国学校",
+      "onboard_time": 1714619417,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117205,
@@ -3691,6 +3715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92719,
+      "num": 92080,
+      "word": "维和防暴队 删减",
+      "onboard_time": 1714620857,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 91195,
       "num": 91195,
       "word": "边佑锡好帅",
@@ -3737,6 +3769,14 @@
       "onboard_time": 1714482797,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87218,
+      "num": 87218,
+      "word": "NBA",
+      "onboard_time": 1714620379,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 86307,
@@ -3808,14 +3848,6 @@
       "word": "我的五一游记",
       "onboard_time": 1714483099,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74405,
-      "num": 242863,
-      "word": "孟加拉国高温临时关闭全国学校",
-      "onboard_time": 1714619417,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -4091,7 +4123,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 9556,
+      "raw_hot": 10720,
       "num": 1003223,
       "word": "文化中国行",
       "onboard_time": 1713927617,

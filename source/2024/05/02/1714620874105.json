@@ -1,0 +1,410 @@
+{
+  "runTime": 1714620874105,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1392650,
+        "num": 1392650,
+        "word": "梅大高速路面塌陷事故已致36人死亡",
+        "onboard_time": 1714611196,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1078169,
+        "num": 1078169,
+        "word": "大唐不夜城已被六国游客攻陷",
+        "onboard_time": 1714617677,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 10720,
+        "num": 922047,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889200,
+        "num": 889200,
+        "word": "北大居然偷偷出了这么多神器",
+        "onboard_time": 1714614137,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 850934,
+        "num": 850934,
+        "word": "梅大高速塌陷已发现23辆车陷落",
+        "onboard_time": 1714618877,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666735,
+        "num": 666735,
+        "word": "周鸿祎 迈巴赫",
+        "onboard_time": 1714614256,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 603260,
+        "num": 603260,
+        "word": "周鸿祎回应迈巴赫中标者未付清余款",
+        "onboard_time": 1714617918,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 570055,
+        "num": 570055,
+        "word": "曹骏古装",
+        "onboard_time": 1714616839,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 527397,
+        "num": 527397,
+        "word": "美国一夫妻中奖13亿美元将与朋友平分",
+        "onboard_time": 1714615158,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185833,
+        "num": 491615,
+        "word": "杭州西湖边再现最美人墙",
+        "onboard_time": 1714616538,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 687501,
+        "num": 487669,
+        "word": "1995年5月1日中国人开始双休",
+        "onboard_time": 1714616538,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477256,
+        "num": 477256,
+        "word": "他可是宝莲灯沉香",
+        "onboard_time": 1714618517,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 450168,
+        "num": 450168,
+        "word": "杨幂业内口碑",
+        "onboard_time": 1714619298,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363410,
+        "num": 363410,
+        "word": "瑞幸9.9元活动再缩水",
+        "onboard_time": 1714605974,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 340556,
+        "num": 340556,
+        "word": "淄博烧烤",
+        "onboard_time": 1714617738,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 317085,
+        "num": 317085,
+        "word": "男演员骗88人到柬埔寨进行电信诈骗",
+        "onboard_time": 1714605614,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299639,
+        "num": 299639,
+        "word": "上海飞香港一航班2次降落失败剧烈颠簸",
+        "onboard_time": 1714612517,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282859,
+        "num": 282859,
+        "word": "好想收养我的研究生朋友",
+        "onboard_time": 1714616417,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233546,
+        "num": 233546,
+        "word": "何炅客串了难哄",
+        "onboard_time": 1714605016,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117390,
+        "num": 233512,
+        "word": "孟加拉国高温临时关闭全国学校",
+        "onboard_time": 1714619417,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1068104,
+        "num": 233432,
+        "word": "张馨予何捷 云南",
+        "onboard_time": 1714617797,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 956039,
+        "num": 233316,
+        "word": "罗西前女友爆料",
+        "onboard_time": 1714616178,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 299596,
+        "num": 233271,
+        "word": "五一假期的聪明人被气晕了",
+        "onboard_time": 1714616358,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264778,
+        "num": 233200,
+        "word": "赵露思被前员工背刺",
+        "onboard_time": 1714620438,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233142,
+        "num": 233142,
+        "word": "赵小棠妈妈是先婚后爱",
+        "onboard_time": 1714574720,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196529,
+        "num": 196529,
+        "word": "亚比囧囧囧",
+        "onboard_time": 1714619178,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192242,
+        "num": 192242,
+        "word": "九龙城寨 港片回来了",
+        "onboard_time": 1714619657,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188937,
+        "num": 188937,
+        "word": "王楚钦孙颖莎出席抽签仪式",
+        "onboard_time": 1714616898,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185457,
+        "num": 185457,
+        "word": "高铁踩点",
+        "onboard_time": 1714619477,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 175714,
+        "num": 175714,
+        "word": "济南一对夫妻失联近一个月",
+        "onboard_time": 1714612517,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166665,
+        "num": 166665,
+        "word": "我想我会一直孤单",
+        "onboard_time": 1714618758,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165217,
+        "num": 165217,
+        "word": "罗西",
+        "onboard_time": 1714613958,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160622,
+        "num": 160622,
+        "word": "西湖",
+        "onboard_time": 1714617258,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 151130,
+        "num": 151130,
+        "word": "武艺Sunnee加好友五年没说过话",
+        "onboard_time": 1714618396,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143764,
+        "num": 143764,
+        "word": "县城旅游",
+        "onboard_time": 1714620737,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 142578,
+        "num": 142578,
+        "word": "初恋对中年人的杀伤力",
+        "onboard_time": 1714577058,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124694,
+        "num": 124694,
+        "word": "淄博八大局500米走半小时",
+        "onboard_time": 1714612698,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 124256,
+        "num": 124256,
+        "word": "迪丽热巴给剧组工作人员发五一红包",
+        "onboard_time": 1714611498,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118754,
+        "num": 118754,
+        "word": "张杰新歌",
+        "onboard_time": 1714617196,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118046,
+        "num": 118046,
+        "word": "感觉秦岚要碎掉了",
+        "onboard_time": 1714606515,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116399,
+        "num": 116399,
+        "word": "为什么男朋友会介意我婚前买房",
+        "onboard_time": 1714573878,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115517,
+        "num": 115517,
+        "word": "张真源谈十岁进公司训练的经历",
+        "onboard_time": 1714617496,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103525,
+        "num": 103525,
+        "word": "独行侠vs快船",
+        "onboard_time": 1714617438,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102509,
+        "num": 102509,
+        "word": "哀牢山到底有多可怕",
+        "onboard_time": 1714616597,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 97878,
+        "num": 97878,
+        "word": "男子疯狂减肥却胖70斤还脑梗送医抢救",
+        "onboard_time": 1714607176,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94885,
+        "num": 94885,
+        "word": "维和防暴队影评",
+        "onboard_time": 1714615698,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92498,
+        "num": 92498,
+        "word": "朱珠和朋友二手集市",
+        "onboard_time": 1714616658,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92719,
+        "num": 92080,
+        "word": "维和防暴队 删减",
+        "onboard_time": 1714620857,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91207,
+        "num": 91207,
+        "word": "大熊猫是中国特有种的铁证",
+        "onboard_time": 1714611317,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87218,
+        "num": 87218,
+        "word": "NBA",
+        "onboard_time": 1714620379,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
