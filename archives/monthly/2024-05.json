@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714653230182,
+  "endTime": 1714654137251,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -243,20 +243,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1091321,
+      "num": 1091321,
+      "word": "Tiffany被年轻人抛弃了吗",
+      "onboard_time": 1714645937,
+      "rank": 30,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 1084408,
       "num": 914742,
       "word": "高铁三大酷刑",
       "onboard_time": 1714575499,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1084405,
-      "num": 1084405,
-      "word": "Tiffany被年轻人抛弃了吗",
-      "onboard_time": 1714645937,
-      "rank": 30,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 1069308,
@@ -403,6 +403,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 808170,
+      "num": 808170,
+      "word": "公共场所有多脏",
+      "onboard_time": 1714650619,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 805430,
+      "num": 805430,
+      "word": "西湖醋鱼",
+      "onboard_time": 1714651218,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 803158,
       "num": 803158,
       "word": "内蒙古1.2万切糕事件反转",
@@ -531,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 691326,
-      "num": 368934,
-      "word": "公共场所有多脏",
-      "onboard_time": 1714650619,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 683630,
       "num": 683630,
       "word": "薛之谦 你的汗好酸哦",
@@ -649,6 +657,14 @@
       "onboard_time": 1714545318,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637264,
+      "num": 249459,
+      "word": "室友一年要五个生日礼物",
+      "onboard_time": 1714651757,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 629006,
@@ -841,14 +857,6 @@
       "onboard_time": 1714574059,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 524791,
-      "num": 524791,
-      "word": "西湖醋鱼",
-      "onboard_time": 1714651218,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 512297,
@@ -1211,14 +1219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 406401,
-      "num": 215872,
-      "word": "室友一年要五个生日礼物",
-      "onboard_time": 1714651757,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 405316,
       "num": 219473,
       "word": "吴倩原相机直出",
@@ -1459,6 +1459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 343988,
+      "num": 157233,
+      "word": "网友晒299元买朱珠价值5千二手包",
+      "onboard_time": 1714653258,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343676,
       "num": 343676,
       "word": "Ale 离队",
@@ -1473,6 +1481,14 @@
       "onboard_time": 1714569618,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 341195,
+      "num": 249190,
+      "word": "昆明蓝莓12元1盒震惊外地游客",
+      "onboard_time": 1714652059,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339604,
@@ -1561,6 +1577,14 @@
       "onboard_time": 1714546579,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322422,
+      "num": 322422,
+      "word": "做手术时肠炎发作",
+      "onboard_time": 1714650737,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 321090,
@@ -1764,11 +1788,19 @@
     },
     {
       "raw_hot": 274221,
-      "num": 212173,
+      "num": 228220,
       "word": "Jennie机场",
       "onboard_time": 1714650558,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272367,
+      "num": 272367,
+      "word": "周深录奔跑吧哭了",
+      "onboard_time": 1714653498,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 271406,
@@ -1867,6 +1899,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 258612,
+      "num": 258612,
+      "word": "Tiffany玄学",
+      "onboard_time": 1714652417,
+      "rank": 30,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 258386,
       "num": 182598,
       "word": "迪丽热巴给剧组工作人员发五一红包",
@@ -1921,6 +1961,14 @@
       "onboard_time": 1714491380,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248721,
+      "num": 248721,
+      "word": "成龙回应满头白发",
+      "onboard_time": 1714653558,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 248135,
@@ -2091,14 +2139,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 233108,
-      "num": 233108,
-      "word": "做手术时肠炎发作",
-      "onboard_time": 1714650737,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 232763,
       "num": 232763,
       "word": "迪丽热巴工作室包场杨幂新电影",
@@ -2155,20 +2195,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 223472,
-      "num": 209089,
-      "word": "昆明蓝莓12元1盒震惊外地游客",
-      "onboard_time": 1714652059,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220271,
       "num": 220271,
       "word": "胡明轩假摔",
       "onboard_time": 1714574601,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219715,
+      "num": 219715,
+      "word": "种地吧",
+      "onboard_time": 1714652059,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 218348,
@@ -2280,14 +2320,6 @@
       "word": "开始推理吧2开播",
       "onboard_time": 1714621159,
       "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 208860,
-      "num": 208860,
-      "word": "种地吧",
-      "onboard_time": 1714652059,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -2729,14 +2761,6 @@
       "onboard_time": 1714639098,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189269,
-      "num": 189269,
-      "word": "Tiffany玄学",
-      "onboard_time": 1714652417,
-      "rank": 30,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 189254,
@@ -3403,6 +3427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157482,
+      "num": 157482,
+      "word": "山西恒山景区回应落石砸伤游客",
+      "onboard_time": 1714652657,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157340,
       "num": 157340,
       "word": "嫦娥六号发射定在5月3日",
@@ -3448,6 +3480,14 @@
       "word": "00后过五一有多拼",
       "onboard_time": 1714531278,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155909,
+      "num": 155909,
+      "word": "北岳恒山景区落石砸伤多人",
+      "onboard_time": 1714652239,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3675,6 +3715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148740,
+      "num": 148740,
+      "word": "齐司礼 7推国宴",
+      "onboard_time": 1714652059,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148382,
       "num": 148382,
       "word": "独行侠3比2快船",
@@ -3715,14 +3763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147511,
-      "num": 147511,
-      "word": "山西恒山景区回应落石砸伤游客",
-      "onboard_time": 1714652657,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146568,
       "num": 146568,
       "word": "shamon抽奖",
@@ -3753,6 +3793,14 @@
       "onboard_time": 1714570939,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145600,
+      "num": 145600,
+      "word": "汤姆斯杯",
+      "onboard_time": 1714653739,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 145421,
@@ -3939,14 +3987,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 137645,
-      "num": 137645,
-      "word": "齐司礼 7推国宴",
-      "onboard_time": 1714652059,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 137369,
       "num": 137369,
       "word": "李现下一部剧是国色芳华",
@@ -4123,14 +4163,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 131830,
-      "num": 131830,
-      "word": "北岳恒山景区落石砸伤多人",
-      "onboard_time": 1714652239,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131735,
       "num": 131735,
       "word": "好六嘉宾为时团演唱会打call",
@@ -4185,6 +4217,14 @@
       "onboard_time": 1714609937,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130578,
+      "num": 130578,
+      "word": "胖猫",
+      "onboard_time": 1714653859,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 130213,
@@ -4291,12 +4331,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124931,
-      "num": 124931,
+      "raw_hot": 127358,
+      "num": 127358,
       "word": "IVE打歌舞台造型",
       "onboard_time": 1714650799,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126444,
+      "num": 126444,
+      "word": "TTG对战BOA",
+      "onboard_time": 1714650860,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 124145,
@@ -4369,6 +4417,14 @@
       "onboard_time": 1714488501,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122633,
+      "num": 122633,
+      "word": "赴山海女主",
+      "onboard_time": 1714653918,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 121388,
