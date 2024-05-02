@@ -1,0 +1,410 @@
+{
+  "runTime": 1714642506312,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3377841,
+        "num": 3377841,
+        "word": "梅大高速塌方已致48人死亡",
+        "onboard_time": 1714635678,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030188,
+        "num": 1030188,
+        "word": "广东省委书记省长面向塌方地三鞠躬",
+        "onboard_time": 1714636158,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56151,
+        "num": 683127,
+        "word": "打开青春的N种方式",
+        "onboard_time": 1714637239,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671009,
+        "num": 671009,
+        "word": "刘涛秦岚吵架 破碎的是赵昭仪",
+        "onboard_time": 1714635557,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 650315,
+        "num": 650315,
+        "word": "泫雅回归",
+        "onboard_time": 1714641199,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 424731,
+        "num": 424731,
+        "word": "一诺微博粉丝数400万了",
+        "onboard_time": 1714639518,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 416356,
+        "num": 416356,
+        "word": "5000一晚的酒店薅走35瓶洗发水能回本吗",
+        "onboard_time": 1714621997,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389270,
+        "num": 389270,
+        "word": "下次再也不在节假日出来了",
+        "onboard_time": 1714638558,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 336221,
+        "num": 336221,
+        "word": "十个勤天音乐节",
+        "onboard_time": 1714638979,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60951,
+        "num": 336046,
+        "word": "杭州西湖边再现最美人墙",
+        "onboard_time": 1714616538,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 657122,
+        "num": 335293,
+        "word": "今年五一没人结婚吗",
+        "onboard_time": 1714632616,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 602985,
+        "num": 334853,
+        "word": "黄子韬抓住徐艺洋的手",
+        "onboard_time": 1714638201,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 583120,
+        "num": 334112,
+        "word": "梅龙高速塌方亲历者在路塌前冲了过去",
+        "onboard_time": 1714636278,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554195,
+        "num": 333166,
+        "word": "被韩国人精致穷的消费观震惊",
+        "onboard_time": 1714638558,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 480999,
+        "num": 332835,
+        "word": "专家称梅大高速坍塌前或有征兆",
+        "onboard_time": 1714634838,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332470,
+        "num": 332470,
+        "word": "张子枫哭出了漫画里才有的泪眼",
+        "onboard_time": 1714641439,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320065,
+        "num": 320065,
+        "word": "罗西道歉",
+        "onboard_time": 1714625058,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 299720,
+        "num": 299720,
+        "word": "魏大勋超话今天爆了",
+        "onboard_time": 1714635197,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271585,
+        "num": 271585,
+        "word": "梅大高速塌方救援发布会直播",
+        "onboard_time": 1714635918,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248345,
+        "num": 248345,
+        "word": "21岁重庆男子跳江",
+        "onboard_time": 1714627398,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1417879,
+        "num": 246006,
+        "word": "老公一个月四千多养活我们一家三口",
+        "onboard_time": 1714639518,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 389656,
+        "num": 245166,
+        "word": "张元英在家除了睡觉不会躺着",
+        "onboard_time": 1714629679,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237451,
+        "num": 237451,
+        "word": "石凯白发",
+        "onboard_time": 1714639038,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218732,
+        "num": 218732,
+        "word": "赵露思被前员工背刺",
+        "onboard_time": 1714620438,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209069,
+        "num": 209069,
+        "word": "罗西 临界十缨",
+        "onboard_time": 1714642097,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 194481,
+        "num": 194481,
+        "word": "时代少年团演唱会好多安保",
+        "onboard_time": 1714641918,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193029,
+        "num": 193029,
+        "word": "泫雅新歌",
+        "onboard_time": 1714641680,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189187,
+        "num": 189187,
+        "word": "原著陈麦冬拉黑了庄洁三次",
+        "onboard_time": 1714631838,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186020,
+        "num": 186020,
+        "word": "黄子韬让徐艺洋不要指指点点",
+        "onboard_time": 1714627458,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170222,
+        "num": 178084,
+        "word": "梅大高速",
+        "onboard_time": 1714636278,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217284,
+        "num": 177286,
+        "word": "张拿铁受不了的amazing教育",
+        "onboard_time": 1714640059,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175540,
+        "num": 175540,
+        "word": "刘宇宁问我和迪丽热巴长得不像吗",
+        "onboard_time": 1714639278,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170877,
+        "num": 170877,
+        "word": "成龙20本签名书变2本",
+        "onboard_time": 1714642037,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165151,
+        "num": 165151,
+        "word": "孟子义cos妲己",
+        "onboard_time": 1714639098,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162931,
+        "num": 162931,
+        "word": "B太再回淄博",
+        "onboard_time": 1714641199,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157161,
+        "num": 157161,
+        "word": "没有一顿火锅解决不了的事",
+        "onboard_time": 1714640717,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156417,
+        "num": 156417,
+        "word": "罗西前女友爆料",
+        "onboard_time": 1714616178,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155944,
+        "num": 155944,
+        "word": "终于明白为啥狗的单位是条了",
+        "onboard_time": 1714640299,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154765,
+        "num": 154765,
+        "word": "王楚钦梁靖崑适应场地训练",
+        "onboard_time": 1714641918,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152285,
+        "num": 152285,
+        "word": "维和防暴队 删减",
+        "onboard_time": 1714620857,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151258,
+        "num": 151258,
+        "word": "秦昊不想再分享减肥法了",
+        "onboard_time": 1714642277,
+        "rank": 40,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 149236,
+        "num": 149236,
+        "word": "国务院安委会办公室印发紧急通知",
+        "onboard_time": 1714642336,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145605,
+        "num": 145605,
+        "word": "张韶涵",
+        "onboard_time": 1714626678,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145589,
+        "num": 145589,
+        "word": "为啥女厕所总是排长队",
+        "onboard_time": 1714638439,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142947,
+        "num": 142947,
+        "word": "王者荣耀时代少年团",
+        "onboard_time": 1714625718,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142838,
+        "num": 142838,
+        "word": "西安回民街只有人没有街",
+        "onboard_time": 1714636997,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 130717,
+        "num": 130717,
+        "word": "张碧晨撤回了一条吃瓜情报",
+        "onboard_time": 1714638918,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125925,
+        "num": 125925,
+        "word": "IVE打歌将佩戴中国结",
+        "onboard_time": 1714621578,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116972,
+        "num": 116972,
+        "word": "本科硕士博士毕业论文的区别",
+        "onboard_time": 1714625599,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112460,
+        "num": 112460,
+        "word": "马龙林高远适应场地训练",
+        "onboard_time": 1714642277,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对梅大高速塌方灾害作出重要指示#"
+    }
+  }
+}

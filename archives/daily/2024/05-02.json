@@ -1,6 +1,6 @@
 {
   "startTime": 1714580547459,
-  "endTime": 1714641556505,
+  "endTime": 1714642506312,
   "band_list": [
     {
       "raw_hot": 7156334,
@@ -27,20 +27,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1417879,
+      "num": 247630,
+      "word": "老公一个月四千多养活我们一家三口",
+      "onboard_time": 1714639518,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1338559,
       "num": 746370,
       "word": "5000一晚的酒店薅走35瓶洗发水能回本吗",
       "onboard_time": 1714621997,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1299817,
-      "num": 247630,
-      "word": "老公一个月四千多养活我们一家三口",
-      "onboard_time": 1714639518,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 1276632,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 672805,
-      "num": 330079,
+      "num": 334112,
       "word": "梅龙高速塌方亲历者在路塌前冲了过去",
       "onboard_time": 1714636278,
       "rank": 11,
@@ -257,6 +257,14 @@
       "onboard_time": 1714576579,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 650315,
+      "num": 650315,
+      "word": "泫雅回归",
+      "onboard_time": 1714641199,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 650113,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 602985,
+      "num": 334853,
+      "word": "黄子韬抓住徐艺洋的手",
+      "onboard_time": 1714638201,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 598143,
       "num": 598143,
       "word": "维和防暴队 删减",
@@ -315,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 553388,
-      "num": 312014,
-      "word": "黄子韬抓住徐艺洋的手",
-      "onboard_time": 1714638201,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 554195,
+      "num": 333166,
+      "word": "被韩国人精致穷的消费观震惊",
+      "onboard_time": 1714638558,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 543788,
@@ -339,12 +355,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 516368,
-      "num": 300412,
-      "word": "被韩国人精致穷的消费观震惊",
-      "onboard_time": 1714638558,
-      "rank": 12,
-      "category": "幽默"
+      "raw_hot": 480999,
+      "num": 473734,
+      "word": "专家称梅大高速坍塌前或有征兆",
+      "onboard_time": 1714634838,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 478677,
@@ -361,14 +377,6 @@
       "onboard_time": 1714618517,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 473734,
-      "num": 473734,
-      "word": "专家称梅大高速坍塌前或有征兆",
-      "onboard_time": 1714634838,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 471485,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 432005,
-      "num": 289934,
+      "num": 424731,
       "word": "一诺微博粉丝数400万了",
       "onboard_time": 1714639518,
       "rank": 14,
@@ -513,6 +521,14 @@
       "onboard_time": 1714606755,
       "rank": 7,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 389270,
+      "num": 389270,
+      "word": "下次再也不在节假日出来了",
+      "onboard_time": 1714638558,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 385104,
@@ -587,14 +603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 343023,
-      "num": 343023,
-      "word": "下次再也不在节假日出来了",
-      "onboard_time": 1714638558,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 339604,
       "num": 339604,
       "word": "十个勤天音乐节",
@@ -625,6 +633,14 @@
       "onboard_time": 1714562959,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 332470,
+      "num": 332470,
+      "word": "张子枫哭出了漫画里才有的泪眼",
+      "onboard_time": 1714641439,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 331060,
@@ -707,14 +723,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 284287,
-      "num": 284287,
-      "word": "泫雅回归",
-      "onboard_time": 1714641199,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 282859,
       "num": 282859,
       "word": "好想收养我的研究生朋友",
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 240979,
-      "num": 167411,
+      "num": 177286,
       "word": "张拿铁受不了的amazing教育",
       "onboard_time": 1714640059,
       "rank": 30,
@@ -841,6 +849,14 @@
       "onboard_time": 1714621159,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209069,
+      "num": 209069,
+      "word": "罗西 临界十缨",
+      "onboard_time": 1714642097,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 207201,
@@ -963,12 +979,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194481,
+      "num": 194481,
+      "word": "时代少年团演唱会好多安保",
+      "onboard_time": 1714641918,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194025,
       "num": 194025,
       "word": "狼队第五人格",
       "onboard_time": 1714631478,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193029,
+      "num": 193029,
+      "word": "泫雅新歌",
+      "onboard_time": 1714641680,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 192242,
@@ -1091,20 +1123,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175540,
+      "num": 175540,
+      "word": "刘宇宁问我和迪丽热巴长得不像吗",
+      "onboard_time": 1714639278,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174601,
       "num": 174601,
       "word": "包包有拉链真的太重要了",
       "onboard_time": 1714632378,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173267,
-      "num": 173267,
-      "word": "刘宇宁问我和迪丽热巴长得不像吗",
-      "onboard_time": 1714639278,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 173253,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1714629978,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170877,
+      "num": 170877,
+      "word": "成龙20本签名书变2本",
+      "onboard_time": 1714642037,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 170490,
@@ -1251,6 +1291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 162931,
+      "num": 162931,
+      "word": "B太再回淄博",
+      "onboard_time": 1714641199,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161845,
       "num": 161845,
       "word": "县城旅游",
@@ -1299,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157161,
+      "num": 157161,
+      "word": "没有一顿火锅解决不了的事",
+      "onboard_time": 1714640717,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156103,
       "num": 156103,
       "word": "终于明白为啥狗的单位是条了",
@@ -1313,6 +1369,14 @@
       "onboard_time": 1714637239,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154765,
+      "num": 154765,
+      "word": "王楚钦梁靖崑适应场地训练",
+      "onboard_time": 1714641918,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 154206,
@@ -1339,20 +1403,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152495,
-      "num": 152495,
-      "word": "没有一顿火锅解决不了的事",
-      "onboard_time": 1714640717,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 152245,
       "num": 152245,
       "word": "五一火车上的大学生强得可怕",
       "onboard_time": 1714631357,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151258,
+      "num": 151258,
+      "word": "秦昊不想再分享减肥法了",
+      "onboard_time": 1714642277,
+      "rank": 40,
+      "category": "艺人,运动健身"
     },
     {
       "raw_hot": 150885,
@@ -1385,6 +1449,14 @@
       "onboard_time": 1714617196,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149236,
+      "num": 149236,
+      "word": "国务院安委会办公室印发紧急通知",
+      "onboard_time": 1714642336,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149206,
@@ -1513,14 +1585,6 @@
       "onboard_time": 1714575079,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134329,
-      "num": 134329,
-      "word": "B太再回淄博",
-      "onboard_time": 1714641199,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134209,
@@ -1691,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112460,
+      "num": 112460,
+      "word": "马龙林高远适应场地训练",
+      "onboard_time": 1714642277,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112055,
       "num": 112055,
       "word": "迪丽热巴把刘宇宁的歌念成光束一夜黑",
@@ -1736,14 +1808,6 @@
       "word": "维和防爆部队影评",
       "onboard_time": 1714615698,
       "rank": 42,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 107041,
-      "num": 107041,
-      "word": "张子枫哭出了漫画里才有的泪眼",
-      "onboard_time": 1714641439,
-      "rank": 48,
       "category": "电影"
     },
     {
