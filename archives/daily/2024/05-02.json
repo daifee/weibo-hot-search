@@ -1,6 +1,6 @@
 {
   "startTime": 1714580547459,
-  "endTime": 1714663192143,
+  "endTime": 1714664071842,
   "band_list": [
     {
       "raw_hot": 7156334,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1570978,
-      "num": 292941,
+      "num": 310646,
       "word": "老公一个月四千多养活我们一家三口",
       "onboard_time": 1714639518,
       "rank": 20,
@@ -97,6 +97,14 @@
       "onboard_time": 1714627458,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1170294,
+      "num": 1170294,
+      "word": "小众城市突然爆红",
+      "onboard_time": 1714661899,
+      "rank": 7,
+      "category": "旅游"
     },
     {
       "raw_hot": 1169371,
@@ -507,6 +515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 540084,
+      "num": 540084,
+      "word": "张杰在台上轻轻地碎了",
+      "onboard_time": 1714662258,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 539248,
       "num": 539248,
       "word": "一诺微博粉丝数400万了",
@@ -531,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531632,
+      "num": 479151,
+      "word": "胖猫",
+      "onboard_time": 1714653859,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 517396,
       "num": 517396,
       "word": "梅州高速塌方一女子5名亲人失联",
@@ -545,14 +569,6 @@
       "onboard_time": 1714660940,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 502626,
-      "num": 479151,
-      "word": "胖猫",
-      "onboard_time": 1714653859,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 485059,
@@ -641,14 +657,6 @@
       "onboard_time": 1714621758,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 454832,
-      "num": 454832,
-      "word": "小众城市突然爆红",
-      "onboard_time": 1714661899,
-      "rank": 7,
-      "category": "旅游"
     },
     {
       "raw_hot": 449861,
@@ -803,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 377141,
+      "num": 377141,
+      "word": "汪苏泷如果爱忘了",
+      "onboard_time": 1714663278,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375518,
       "num": 375518,
       "word": "ILLIT翻跳NewJeans舞蹈",
@@ -865,6 +881,14 @@
       "onboard_time": 1714573819,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 354323,
+      "num": 354323,
+      "word": "观音桥网红天桥因人流火爆而限流",
+      "onboard_time": 1714660340,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345485,
@@ -947,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317727,
+      "num": 304257,
+      "word": "胖猫 谭竹",
+      "onboard_time": 1714663219,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 315508,
       "num": 315508,
       "word": "淄博八大局500米走半小时",
@@ -1019,12 +1051,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 276552,
-      "num": 276552,
-      "word": "张杰在台上轻轻地碎了",
-      "onboard_time": 1714662258,
-      "rank": 21,
-      "category": "演出"
+      "raw_hot": 278937,
+      "num": 278937,
+      "word": "我弟弟就是最好的旅游搭子",
+      "onboard_time": 1714660999,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 275634,
@@ -1041,14 +1073,6 @@
       "onboard_time": 1714650558,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 274214,
-      "num": 274214,
-      "word": "观音桥网红天桥因人流火爆而限流",
-      "onboard_time": 1714660340,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271792,
@@ -1075,14 +1099,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 267106,
-      "num": 267106,
-      "word": "我弟弟就是最好的旅游搭子",
-      "onboard_time": 1714660999,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 263437,
       "num": 471737,
       "word": "外卖小哥陪瘫痪女子吃饭多年直到女子离世",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1714611498,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251406,
+      "num": 251406,
+      "word": "发炎时要少吃4类食物",
+      "onboard_time": 1714662139,
+      "rank": 32,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 248434,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1714610837,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237979,
+      "num": 237979,
+      "word": "迪丽热巴旗袍舞台直拍",
+      "onboard_time": 1714663101,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 233950,
@@ -1347,6 +1379,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 204657,
+      "num": 204657,
+      "word": "黄景瑜演技",
+      "onboard_time": 1714663101,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204133,
       "num": 204133,
       "word": "华晨宇日出演唱会",
@@ -1457,14 +1497,6 @@
       "onboard_time": 1714650799,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 196890,
-      "num": 196890,
-      "word": "发炎时要少吃4类食物",
-      "onboard_time": 1714662139,
-      "rank": 32,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 196770,
@@ -1843,6 +1875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166735,
+      "num": 166735,
+      "word": "杨谨华回应与萧亚轩友情",
+      "onboard_time": 1714663399,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166404,
       "num": 166404,
       "word": "王一博真人版地铁跑酷",
@@ -2003,14 +2043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154449,
-      "num": 154449,
-      "word": "迪丽热巴旗袍舞台直拍",
-      "onboard_time": 1714663101,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 154206,
       "num": 154206,
       "word": "郭潇雨蔡文静聊天记录",
@@ -2025,14 +2057,6 @@
       "onboard_time": 1714613358,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 154076,
-      "num": 154076,
-      "word": "黄景瑜演技",
-      "onboard_time": 1714663101,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 153456,
@@ -2169,6 +2193,14 @@
       "onboard_time": 1714647918,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144509,
+      "num": 144509,
+      "word": "杨天真在跑男里最想签下周深",
+      "onboard_time": 1714663101,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 144244,
@@ -2441,6 +2473,14 @@
       "onboard_time": 1714647499,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122163,
+      "num": 129410,
+      "word": "乐山大佛排队4小时才能看到佛脚",
+      "onboard_time": 1714663159,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 121212,
@@ -2761,14 +2801,6 @@
       "onboard_time": 1714648818,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96379,
-      "num": 129410,
-      "word": "乐山大佛排队4小时才能看到佛脚",
-      "onboard_time": 1714663159,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 96357,
