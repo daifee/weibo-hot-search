@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714628134252,
+  "endTime": 1714631026991,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -561,6 +561,14 @@
       "onboard_time": 1714384097,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1172965,
+      "num": 261907,
+      "word": "黄子韬让徐艺洋不要指指点点",
+      "onboard_time": 1714627458,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1169371,
@@ -1131,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 865949,
+      "num": 261793,
+      "word": "张元英在家除了睡觉不会躺着",
+      "onboard_time": 1714629679,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 857277,
       "num": 857277,
       "word": "高铁WiFi弹出骂人脏话国铁吉讯致歉",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1714531278,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 793514,
+      "num": 328224,
+      "word": "21岁重庆男子跳江",
+      "onboard_time": 1714627398,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 789084,
@@ -2315,14 +2339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 544460,
-      "num": 249467,
-      "word": "黄子韬让徐艺洋不要指指点点",
-      "onboard_time": 1714627458,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 543788,
       "num": 543788,
       "word": "王者荣耀时代少年团",
@@ -3051,6 +3067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445750,
+      "num": 323094,
+      "word": "阿娇 突然就汪了出来",
+      "onboard_time": 1714627758,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441982,
       "num": 441982,
       "word": "大唐不夜城丢刀侍卫演我五一加班",
@@ -3089,6 +3113,14 @@
       "onboard_time": 1714440257,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 436770,
+      "num": 436770,
+      "word": "王者荣耀",
+      "onboard_time": 1714228100,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 436400,
@@ -4211,14 +4243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 320254,
-      "num": 320254,
-      "word": "王者荣耀",
-      "onboard_time": 1714228100,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 320228,
       "num": 320228,
       "word": "翟潇闻难哄出妆",
@@ -4281,6 +4305,14 @@
       "onboard_time": 1714455917,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317803,
+      "num": 317803,
+      "word": "梅大高速塌陷一3岁孩童脑出血还在ICU",
+      "onboard_time": 1714630398,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317595,
@@ -5083,6 +5115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260913,
+      "num": 260913,
+      "word": "晒被子的最佳方式竟然是套个黑色塑料袋",
+      "onboard_time": 1714628959,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 260892,
       "num": 205384,
       "word": "iPhone16有新工艺新配色",
@@ -5371,14 +5411,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 247659,
-      "num": 247659,
-      "word": "21岁重庆男子跳江",
-      "onboard_time": 1714627398,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247652,
       "num": 247652,
       "word": "曹恩齐 这个妹妹我曾在哪见过",
@@ -5433,6 +5465,14 @@
       "onboard_time": 1714291398,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246158,
+      "num": 246158,
+      "word": "日本小学招不到新生招了只山羊",
+      "onboard_time": 1714630038,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245894,
@@ -5673,6 +5713,14 @@
       "onboard_time": 1714402222,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 235817,
+      "num": 235817,
+      "word": "徐艺洋管狗狗叫黄子韬",
+      "onboard_time": 1714630698,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 235676,
@@ -6409,6 +6457,14 @@
       "onboard_time": 1714364539,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207936,
+      "num": 207936,
+      "word": "张韶涵",
+      "onboard_time": 1714626678,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 207497,
@@ -7651,6 +7707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187974,
+      "num": 187974,
+      "word": "自信和不自信的区别到底有多大",
+      "onboard_time": 1714629498,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187911,
       "num": 187911,
       "word": "景区路边摊的臭豆腐到底有多脏",
@@ -8147,14 +8211,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 178861,
-      "num": 178861,
-      "word": "阿娇 突然就汪了出来",
-      "onboard_time": 1714627758,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178833,
       "num": 178833,
       "word": "成毅两大平台同时官宣",
@@ -8235,20 +8291,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 177262,
+      "num": 177262,
+      "word": "RC bp",
+      "onboard_time": 1714629857,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176828,
       "num": 164238,
       "word": "震碎Kpop",
       "onboard_time": 1714390938,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 176806,
-      "num": 176806,
-      "word": "张韶涵",
-      "onboard_time": 1714626678,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 176476,
@@ -8497,6 +8553,14 @@
       "onboard_time": 1714530377,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 171131,
+      "num": 171131,
+      "word": "黄誉博直播",
+      "onboard_time": 1714629978,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 171047,
@@ -13187,6 +13251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 17803,
+      "num": 1102329,
+      "word": "文化中国行",
+      "onboard_time": 1713927617,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16988,
       "num": 18233,
       "word": "唐九洲 小卡届的神",
@@ -13217,14 +13289,6 @@
       "onboard_time": 1714331891,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13439,
-      "num": 1102329,
-      "word": "文化中国行",
-      "onboard_time": 1713927617,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12586,

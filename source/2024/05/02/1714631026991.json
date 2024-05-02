@@ -1,0 +1,410 @@
+{
+  "runTime": 1714631026991,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 787145,
+        "num": 787145,
+        "word": "梅大高速路面塌陷事故已致36人死亡",
+        "onboard_time": 1714611196,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682898,
+        "num": 682898,
+        "word": "本科硕士博士毕业论文的区别",
+        "onboard_time": 1714625599,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17803,
+        "num": 445599,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863200,
+        "num": 442099,
+        "word": "5000一晚的酒店薅走35瓶洗发水能回本吗",
+        "onboard_time": 1714621997,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436770,
+        "num": 436770,
+        "word": "王者荣耀",
+        "onboard_time": 1714629498,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 417562,
+        "num": 417562,
+        "word": "迪丽热巴夹起来了",
+        "onboard_time": 1714626738,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407865,
+        "num": 407865,
+        "word": "王者荣耀时代少年团",
+        "onboard_time": 1714625718,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 366808,
+        "num": 366808,
+        "word": "对韩国的滤镜慢慢破碎了",
+        "onboard_time": 1714622059,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333934,
+        "num": 333934,
+        "word": "山东一公司4人窒息死亡事故调查报告",
+        "onboard_time": 1714624997,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137267,
+        "num": 332869,
+        "word": "杭州西湖边再现最美人墙",
+        "onboard_time": 1714616538,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 793514,
+        "num": 328224,
+        "word": "21岁重庆男子跳江",
+        "onboard_time": 1714627398,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592437,
+        "num": 326001,
+        "word": "罗西道歉",
+        "onboard_time": 1714625058,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 445750,
+        "num": 323094,
+        "word": "阿娇 突然就汪了出来",
+        "onboard_time": 1714627758,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321549,
+        "num": 321549,
+        "word": "大唐不夜城已被六国游客攻陷",
+        "onboard_time": 1714617677,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 317803,
+        "num": 317803,
+        "word": "梅大高速塌陷一3岁孩童脑出血还在ICU",
+        "onboard_time": 1714630398,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298895,
+        "num": 298895,
+        "word": "不久后他身上就没烟味了",
+        "onboard_time": 1714625297,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289353,
+        "num": 289353,
+        "word": "1995年5月1日中国人开始双休",
+        "onboard_time": 1714616538,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287866,
+        "num": 287866,
+        "word": "他可是宝莲灯沉香",
+        "onboard_time": 1714618517,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284694,
+        "num": 284694,
+        "word": "IVE打歌将佩戴中国结",
+        "onboard_time": 1714621578,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 262135,
+        "num": 262135,
+        "word": "北大居然偷偷出了这么多神器",
+        "onboard_time": 1714614137,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1172965,
+        "num": 261907,
+        "word": "黄子韬让徐艺洋不要指指点点",
+        "onboard_time": 1714627458,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 865949,
+        "num": 261793,
+        "word": "张元英在家除了睡觉不会躺着",
+        "onboard_time": 1714629679,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521109,
+        "num": 261570,
+        "word": "赵露思被前员工背刺",
+        "onboard_time": 1714620438,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375376,
+        "num": 261353,
+        "word": "罗西前女友爆料",
+        "onboard_time": 1714616178,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 337808,
+        "num": 260978,
+        "word": "王鸥工作室",
+        "onboard_time": 1714622897,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260913,
+        "num": 260913,
+        "word": "晒被子的最佳方式竟然是套个黑色塑料袋",
+        "onboard_time": 1714628959,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 246158,
+        "num": 246158,
+        "word": "日本小学招不到新生招了只山羊",
+        "onboard_time": 1714630038,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244503,
+        "num": 244503,
+        "word": "受辱的闺女窝囊的爹",
+        "onboard_time": 1714621758,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235817,
+        "num": 235817,
+        "word": "徐艺洋管狗狗叫黄子韬",
+        "onboard_time": 1714630698,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233602,
+        "num": 233602,
+        "word": "张馨予何捷 云南",
+        "onboard_time": 1714617797,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207936,
+        "num": 207936,
+        "word": "张韶涵",
+        "onboard_time": 1714626678,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202472,
+        "num": 202472,
+        "word": "维和防暴队 删减",
+        "onboard_time": 1714620857,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195596,
+        "num": 195596,
+        "word": "周鸿祎 迈巴赫",
+        "onboard_time": 1714614256,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 187974,
+        "num": 187974,
+        "word": "自信和不自信的区别到底有多大",
+        "onboard_time": 1714629498,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186441,
+        "num": 186441,
+        "word": "林更新不敢和张雨绮十指紧扣",
+        "onboard_time": 1714622418,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182794,
+        "num": 182794,
+        "word": "周鸿祎迈巴赫买家承认遇到了问题",
+        "onboard_time": 1714625118,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177262,
+        "num": 177262,
+        "word": "RC bp",
+        "onboard_time": 1714629857,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172562,
+        "num": 172562,
+        "word": "原来比死亡更可怕的是遗憾",
+        "onboard_time": 1714625718,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171131,
+        "num": 171131,
+        "word": "黄誉博直播",
+        "onboard_time": 1714629978,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167137,
+        "num": 167137,
+        "word": "间谍过家家",
+        "onboard_time": 1714629738,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155087,
+        "num": 155087,
+        "word": "杨幂业内口碑",
+        "onboard_time": 1714619298,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145874,
+        "num": 145874,
+        "word": "JDG官宣战马加入",
+        "onboard_time": 1714626559,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145709,
+        "num": 145709,
+        "word": "宫崎骏 谢谢你画了哈尔的移动城堡",
+        "onboard_time": 1714625538,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138351,
+        "num": 138351,
+        "word": "凌晨三点不睡觉的韩国人",
+        "onboard_time": 1714627159,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138098,
+        "num": 138098,
+        "word": "梅大高速塌陷已发现23辆车陷落",
+        "onboard_time": 1714618877,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132196,
+        "num": 132196,
+        "word": "周鸿祎回应迈巴赫中标者未付清余款",
+        "onboard_time": 1714617918,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131394,
+        "num": 131394,
+        "word": "西安三步一个公主五步一个贵妃",
+        "onboard_time": 1714622658,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 127249,
+        "num": 127249,
+        "word": "罗西",
+        "onboard_time": 1714613958,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123786,
+        "num": 123786,
+        "word": "五月天香港演唱会延期补偿方案",
+        "onboard_time": 1714627637,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109714,
+        "num": 109714,
+        "word": "美国一夫妻中奖13亿美元将与朋友平分",
+        "onboard_time": 1714615158,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一切幸福都需要靠辛勤的劳动来创造#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1714580547459,
-  "endTime": 1714628134252,
+  "endTime": 1714631026991,
   "band_list": [
     {
       "raw_hot": 3959503,
@@ -25,6 +25,14 @@
       "onboard_time": 1714614137,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1172965,
+      "num": 261907,
+      "word": "黄子韬让徐艺洋不要指指点点",
+      "onboard_time": 1714627458,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1169371,
@@ -99,6 +107,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 865949,
+      "num": 261793,
+      "word": "张元英在家除了睡觉不会躺着",
+      "onboard_time": 1714629679,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 850934,
       "num": 850934,
       "word": "梅大高速塌陷已发现23辆车陷落",
@@ -129,6 +145,14 @@
       "onboard_time": 1714574720,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 793514,
+      "num": 328224,
+      "word": "21岁重庆男子跳江",
+      "onboard_time": 1714627398,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 780178,
@@ -235,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 544460,
-      "num": 249467,
-      "word": "黄子韬让徐艺洋不要指指点点",
-      "onboard_time": 1714627458,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 543788,
       "num": 543788,
       "word": "王者荣耀时代少年团",
@@ -323,12 +339,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445750,
+      "num": 323094,
+      "word": "阿娇 突然就汪了出来",
+      "onboard_time": 1714627758,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441982,
       "num": 441982,
       "word": "大唐不夜城丢刀侍卫演我五一加班",
       "onboard_time": 1714605134,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 436770,
+      "num": 436770,
+      "word": "王者荣耀",
+      "onboard_time": 1714629498,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 429471,
@@ -475,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317803,
+      "num": 317803,
+      "word": "梅大高速塌陷一3岁孩童脑出血还在ICU",
+      "onboard_time": 1714630398,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315508,
       "num": 315508,
       "word": "淄博八大局500米走半小时",
@@ -523,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260913,
+      "num": 260913,
+      "word": "晒被子的最佳方式竟然是套个黑色塑料袋",
+      "onboard_time": 1714628959,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 258386,
       "num": 182598,
       "word": "迪丽热巴给剧组工作人员发五一红包",
@@ -539,20 +587,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247659,
-      "num": 247659,
-      "word": "21岁重庆男子跳江",
-      "onboard_time": 1714627398,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247044,
       "num": 247044,
       "word": "黄景瑜问谁给邓超下毒了",
       "onboard_time": 1714576399,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 246158,
+      "num": 246158,
+      "word": "日本小学招不到新生招了只山羊",
+      "onboard_time": 1714630038,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241646,
@@ -569,6 +617,14 @@
       "onboard_time": 1714610837,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 235817,
+      "num": 235817,
+      "word": "徐艺洋管狗狗叫黄子韬",
+      "onboard_time": 1714630698,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 225669,
@@ -593,6 +649,14 @@
       "onboard_time": 1714621159,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207936,
+      "num": 207936,
+      "word": "张韶涵",
+      "onboard_time": 1714626678,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 207201,
@@ -715,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187974,
+      "num": 187974,
+      "word": "自信和不自信的区别到底有多大",
+      "onboard_time": 1714629498,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187739,
       "num": 187739,
       "word": "金秀贤金智媛幕后牵手",
@@ -763,14 +835,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178861,
-      "num": 178861,
-      "word": "阿娇 突然就汪了出来",
-      "onboard_time": 1714627758,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178574,
       "num": 178574,
       "word": "大侦探 内娱无代餐",
@@ -795,12 +859,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 176806,
-      "num": 176806,
-      "word": "张韶涵",
-      "onboard_time": 1714626678,
-      "rank": 38,
-      "category": "演出"
+      "raw_hot": 177262,
+      "num": 177262,
+      "word": "RC bp",
+      "onboard_time": 1714629857,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 172198,
@@ -816,6 +880,14 @@
       "word": "武艺Sunnee加好友五年没说过话",
       "onboard_time": 1714618396,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171131,
+      "num": 171131,
+      "word": "黄誉博直播",
+      "onboard_time": 1714629978,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -849,6 +921,14 @@
       "onboard_time": 1714617438,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167137,
+      "num": 167137,
+      "word": "间谍过家家",
+      "onboard_time": 1714629738,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 166398,
@@ -1587,20 +1667,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 17803,
+      "num": 1003223,
+      "word": "文化中国行",
+      "onboard_time": 1713927617,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15503,
       "num": 17109,
       "word": "花少好友记热闹起来了",
       "onboard_time": 1714592531,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13400,
-      "num": 1003223,
-      "word": "文化中国行",
-      "onboard_time": 1713927617,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
