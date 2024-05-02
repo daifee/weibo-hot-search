@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/05/02 07:34:31
+本榜单时间：2024/01/01 00:21:05 ~ 2024/05/02 09:14:36
 </p>
 </blockquote>
 <p>
@@ -1581,6 +1581,12 @@ Prada玄学（热度：3331937）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A4%A7%E9%AB%98%E9%80%9F%E8%B7%AF%E9%9D%A2%E5%A1%8C%E9%99%B7%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B436%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
+梅大高速路面塌陷事故已致36人死亡（热度：2984982）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E9%AB%98%E6%9E%B6%E7%99%BE%E8%BD%A6%E7%9B%B8%E6%92%9E%23" target="weibo">
 苏州交警回应高架百车相撞（热度：2980398）
 </a>
@@ -1805,12 +1811,6 @@ Prada玄学（热度：3331937）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%83%B9%E5%88%B0%E6%B8%AF%E5%AA%92%E7%9C%9F%E6%98%AF%E8%B8%A2%E5%88%B0%E9%93%81%E6%9D%BF%E4%BA%86%23" target="weibo">
 梅西惹到港媒真是踢到铁板了（热度：2836318）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A%23" target="weibo">
-湖南卫视春晚（热度：2826219）
 </a>
 </li>
 
