@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714631026991,
+  "endTime": 1714631770483,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1003255,
+      "num": 261793,
+      "word": "张元英在家除了睡觉不会躺着",
+      "onboard_time": 1714629679,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 989940,
       "num": 471745,
       "word": "罗西道歉",
@@ -291,14 +299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 865949,
-      "num": 261793,
-      "word": "张元英在家除了睡觉不会躺着",
-      "onboard_time": 1714629679,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 850934,
       "num": 850934,
       "word": "梅大高速塌陷已发现23辆车陷落",
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 802219,
+      "num": 330576,
+      "word": "21岁重庆男子跳江",
+      "onboard_time": 1714627398,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 799259,
       "num": 799259,
       "word": "本科硕士博士毕业论文的区别",
@@ -361,14 +369,6 @@
       "onboard_time": 1714531278,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 793514,
-      "num": 328224,
-      "word": "21岁重庆男子跳江",
-      "onboard_time": 1714627398,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 780178,
@@ -537,6 +537,14 @@
       "onboard_time": 1714573639,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 618679,
+      "num": 618679,
+      "word": "梅大高速塌陷一3岁孩童脑出血还在ICU",
+      "onboard_time": 1714630398,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 616326,
@@ -844,7 +852,7 @@
     },
     {
       "raw_hot": 445750,
-      "num": 323094,
+      "num": 324070,
       "word": "阿娇 突然就汪了出来",
       "onboard_time": 1714627758,
       "rank": 32,
@@ -1299,14 +1307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317803,
-      "num": 317803,
-      "word": "梅大高速塌陷一3岁孩童脑出血还在ICU",
-      "onboard_time": 1714630398,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315508,
       "num": 315508,
       "word": "淄博八大局500米走半小时",
@@ -1403,6 +1403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 285576,
+      "num": 245642,
+      "word": "徐艺洋管狗狗叫黄子韬",
+      "onboard_time": 1714630698,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285241,
       "num": 285241,
       "word": "中等生为什么成绩上不去",
@@ -1475,12 +1483,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 270181,
+      "num": 270181,
+      "word": "晒被子的最佳方式竟然是套个黑色塑料袋",
+      "onboard_time": 1714628959,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 268443,
       "num": 268443,
       "word": "沈腾又吃到贾冰做的饭了",
       "onboard_time": 1714558099,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 267893,
+      "num": 267893,
+      "word": "张韶涵",
+      "onboard_time": 1714626678,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 266363,
@@ -1521,14 +1545,6 @@
       "onboard_time": 1714561998,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260913,
-      "num": 260913,
-      "word": "晒被子的最佳方式竟然是套个黑色塑料袋",
-      "onboard_time": 1714628959,
-      "rank": 25,
-      "category": "科学科普"
     },
     {
       "raw_hot": 260892,
@@ -1723,14 +1739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235817,
-      "num": 235817,
-      "word": "徐艺洋管狗狗叫黄子韬",
-      "onboard_time": 1714630698,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 234020,
       "num": 234020,
       "word": "T1战胜EST",
@@ -1921,14 +1929,6 @@
       "onboard_time": 1714540578,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207936,
-      "num": 207936,
-      "word": "张韶涵",
-      "onboard_time": 1714626678,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 207201,
@@ -2131,6 +2131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198126,
+      "num": 198126,
+      "word": "自信和不自信的区别到底有多大",
+      "onboard_time": 1714629498,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196770,
       "num": 147091,
       "word": "月经期间到底有没有忌口",
@@ -2203,6 +2211,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194025,
+      "num": 194025,
+      "word": "狼队第五人格",
+      "onboard_time": 1714631478,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 193357,
+      "num": 193357,
+      "word": "一个家庭最可怕的是制造内耗的人",
+      "onboard_time": 1714631357,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192319,
       "num": 192319,
       "word": "真的别再打孩子了",
@@ -2273,14 +2297,6 @@
       "onboard_time": 1714544059,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187974,
-      "num": 187974,
-      "word": "自信和不自信的区别到底有多大",
-      "onboard_time": 1714629498,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 187911,
@@ -2921,6 +2937,14 @@
       "onboard_time": 1714469897,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152245,
+      "num": 152245,
+      "word": "五一火车上的大学生强得可怕",
+      "onboard_time": 1714631357,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 152219,
