@@ -1,0 +1,410 @@
+{
+  "runTime": 1714692915258,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1448754,
+        "num": 1448754,
+        "word": "河南大学",
+        "onboard_time": 1714675092,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 974584,
+        "num": 974584,
+        "word": "谭竹回应",
+        "onboard_time": 1714691414,
+        "rank": 1,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 84321,
+        "num": 636538,
+        "word": "数据见证五一假期出行热度",
+        "onboard_time": 1714654999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559410,
+        "num": 559410,
+        "word": "小众城市突然爆红",
+        "onboard_time": 1714661899,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 522405,
+        "num": 522405,
+        "word": "华晨宇内娱首个凌晨三点开演唱会",
+        "onboard_time": 1714666387,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 501422,
+        "num": 501422,
+        "word": "河南大学明伦校区一建筑房顶着火",
+        "onboard_time": 1714691953,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316185,
+        "num": 316185,
+        "word": "发炎时要少吃4类食物",
+        "onboard_time": 1714662139,
+        "rank": 6,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 260928,
+        "num": 260928,
+        "word": "胖猫谭竹",
+        "onboard_time": 1714663219,
+        "rank": 7,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 223139,
+        "num": 223139,
+        "word": "萌娃走失说自己住11楼小区把警察弄懵",
+        "onboard_time": 1714678690,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185776,
+        "num": 185776,
+        "word": "梅大高速塌方已致48人死亡",
+        "onboard_time": 1714635678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413875,
+        "num": 184353,
+        "word": "朱珠方发文谴责倒卖门票商品行为",
+        "onboard_time": 1714673592,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350233,
+        "num": 181726,
+        "word": "胖猫",
+        "onboard_time": 1714653859,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 347187,
+        "num": 180437,
+        "word": "郭晋安离婚",
+        "onboard_time": 1714656380,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249335,
+        "num": 177797,
+        "word": "新加坡驻日参赞在澡堂偷拍未成年男孩",
+        "onboard_time": 1714677791,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210541,
+        "num": 173378,
+        "word": "总裁谈间谍过家家不邀请明星配音",
+        "onboard_time": 1714689793,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 317493,
+        "num": 173003,
+        "word": "网友晒299元买朱珠价值5千二手包",
+        "onboard_time": 1714653258,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170638,
+        "num": 170638,
+        "word": "观音桥网红天桥因人流火爆而限流",
+        "onboard_time": 1714660340,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162815,
+        "num": 162815,
+        "word": "成龙回应满头白发",
+        "onboard_time": 1714653558,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136415,
+        "num": 136415,
+        "word": "102岁奶奶补办身份证女警手舞足蹈引导",
+        "onboard_time": 1714666875,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126468,
+        "num": 126468,
+        "word": "张杰在台上轻轻地碎了",
+        "onboard_time": 1714662258,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177574,
+        "num": 124579,
+        "word": "老公一个月四千多养活我们一家三口",
+        "onboard_time": 1714639518,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121607,
+        "num": 121607,
+        "word": "五一假期第三天",
+        "onboard_time": 1714691414,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115427,
+        "num": 115427,
+        "word": "总是突然口干舌燥别以为是缺水",
+        "onboard_time": 1714680250,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114973,
+        "num": 114973,
+        "word": "周鸿祎称已拿到尾款",
+        "onboard_time": 1714691774,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112588,
+        "num": 112588,
+        "word": "我弟弟就是最好的旅游搭子",
+        "onboard_time": 1714660999,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103179,
+        "num": 103179,
+        "word": "IVE能不能把中国结摘下来",
+        "onboard_time": 1714655599,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90338,
+        "num": 90338,
+        "word": "女子吐槽夏季女装不适合普通人",
+        "onboard_time": 1714671614,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89617,
+        "num": 89617,
+        "word": "韩国教授为IVE国风争议发声",
+        "onboard_time": 1714654457,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 81044,
+        "num": 81044,
+        "word": "Tiffany被年轻人抛弃了吗",
+        "onboard_time": 1714645937,
+        "rank": 28,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 80556,
+        "num": 80556,
+        "word": "郭晋安欧倩怡 共用微博",
+        "onboard_time": 1714659561,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132079,
+        "num": 79408,
+        "word": "消防回应河南大学一建筑房顶着火",
+        "onboard_time": 1714692074,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76146,
+        "num": 76146,
+        "word": "陈丽君一公发如雪直拍",
+        "onboard_time": 1714692614,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69210,
+        "num": 69210,
+        "word": "美国又一黑人男子遭警察跪压后身亡",
+        "onboard_time": 1714654759,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67431,
+        "num": 67431,
+        "word": "褚会长称990万已支付完成",
+        "onboard_time": 1714660940,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61617,
+        "num": 61617,
+        "word": "五一档新片票房破9亿",
+        "onboard_time": 1714660221,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61340,
+        "num": 61340,
+        "word": "拜登声称中俄印日经济停滞是因排外",
+        "onboard_time": 1714655538,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 61310,
+        "num": 61310,
+        "word": "乐山大佛排队4小时才能看到佛脚",
+        "onboard_time": 1714663159,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 58698,
+        "num": 58698,
+        "word": "女子家中吊顶坍塌客厅秒变毛坯",
+        "onboard_time": 1714683850,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58505,
+        "num": 58505,
+        "word": "游客从橘子洲挤到五一广场",
+        "onboard_time": 1714668497,
+        "rank": 38,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 57995,
+        "num": 57995,
+        "word": "昆明蓝莓12元1盒震惊外地游客",
+        "onboard_time": 1714652059,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56751,
+        "num": 56751,
+        "word": "医生多看了一眼30秒救回窒息婴儿",
+        "onboard_time": 1714670354,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55754,
+        "num": 55754,
+        "word": "成毅工作室放饭",
+        "onboard_time": 1714664538,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55611,
+        "num": 55611,
+        "word": "张子枫哭出了漫画里才有的泪眼",
+        "onboard_time": 1714641439,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55076,
+        "num": 55076,
+        "word": "射手座容易给人制造恋爱假象",
+        "onboard_time": 1714664119,
+        "rank": 43,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 54836,
+        "num": 54836,
+        "word": "今年五一没人结婚吗",
+        "onboard_time": 1714632616,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52544,
+        "num": 52544,
+        "word": "这个五一重庆依旧旅游届的顶流",
+        "onboard_time": 1714692554,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 52100,
+        "num": 52100,
+        "word": "杨谨华回应与萧亚轩友情",
+        "onboard_time": 1714663399,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51589,
+        "num": 51589,
+        "word": "汪苏泷如果爱忘了",
+        "onboard_time": 1714663278,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51477,
+        "num": 51477,
+        "word": "黄景瑜演技",
+        "onboard_time": 1714663101,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48104,
+        "num": 48104,
+        "word": "苹果2024财年第二季度财报",
+        "onboard_time": 1714691414,
+        "rank": 49,
+        "category": "数码,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对梅大高速塌方灾害作出重要指示#"
+    }
+  }
+}
