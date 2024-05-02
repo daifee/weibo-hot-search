@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714664071842,
+  "endTime": 1714666942242,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -67,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1663047,
+      "num": 304257,
+      "word": "胖猫 谭竹",
+      "onboard_time": 1714663219,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1595330,
       "num": 1595330,
       "word": "医院已确认梅龙高速塌方伤者身份",
@@ -113,6 +121,14 @@
       "onboard_time": 1714566978,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1405824,
+      "num": 1405824,
+      "word": "小众城市突然爆红",
+      "onboard_time": 1714661899,
+      "rank": 7,
+      "category": "旅游"
     },
     {
       "raw_hot": 1385148,
@@ -185,14 +201,6 @@
       "onboard_time": 1714627458,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1170294,
-      "num": 1170294,
-      "word": "小众城市突然爆红",
-      "onboard_time": 1714661899,
-      "rank": 7,
-      "category": "旅游"
     },
     {
       "raw_hot": 1169371,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 887625,
-      "num": 434445,
+      "num": 446157,
       "word": "梅大高速塌方",
       "onboard_time": 1714659859,
       "rank": 21,
@@ -747,6 +755,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 621744,
+      "num": 460470,
+      "word": "汪苏泷如果爱忘了",
+      "onboard_time": 1714663278,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 616326,
       "num": 470071,
       "word": "aespa预告",
@@ -825,6 +841,14 @@
       "onboard_time": 1714541179,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555563,
+      "num": 479151,
+      "word": "胖猫",
+      "onboard_time": 1714653859,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 555525,
@@ -947,14 +971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 531632,
-      "num": 479151,
-      "word": "胖猫",
-      "onboard_time": 1714653859,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
       "raw_hot": 531278,
       "num": 321442,
       "word": "头上抠下来的黄色小颗粒是什么",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1714634838,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 480647,
+      "num": 480647,
+      "word": "我弟弟就是最好的旅游搭子",
+      "onboard_time": 1714660999,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 478677,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1714605134,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 437434,
+      "num": 437434,
+      "word": "观音桥网红天桥因人流火爆而限流",
+      "onboard_time": 1714660340,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436770,
@@ -1451,14 +1483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 377141,
-      "num": 377141,
-      "word": "汪苏泷如果爱忘了",
-      "onboard_time": 1714663278,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 376833,
       "num": 376833,
       "word": "王石放弃万科千万退休金",
@@ -1577,14 +1601,6 @@
       "onboard_time": 1714539079,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 354323,
-      "num": 354323,
-      "word": "观音桥网红天桥因人流火爆而限流",
-      "onboard_time": 1714660340,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353185,
@@ -1763,14 +1779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317727,
-      "num": 304257,
-      "word": "胖猫 谭竹",
-      "onboard_time": 1714663219,
-      "rank": 22,
-      "category": "网红"
-    },
-    {
       "raw_hot": 315508,
       "num": 315508,
       "word": "淄博八大局500米走半小时",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1714632798,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301785,
+      "num": 221111,
+      "word": "华晨宇内娱首个凌晨三点开演唱会",
+      "onboard_time": 1714666387,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 301623,
@@ -1953,14 +1969,6 @@
       "onboard_time": 1714555878,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278937,
-      "num": 278937,
-      "word": "我弟弟就是最好的旅游搭子",
-      "onboard_time": 1714660999,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 278892,
@@ -2307,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235963,
+      "num": 235963,
+      "word": "黄景瑜演技",
+      "onboard_time": 1714663101,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 234020,
       "num": 234020,
       "word": "T1战胜EST",
@@ -2481,6 +2497,14 @@
       "onboard_time": 1714568539,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215661,
+      "num": 215661,
+      "word": "成毅工作室放饭",
+      "onboard_time": 1714664538,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 215173,
@@ -2673,14 +2697,6 @@
       "onboard_time": 1714552158,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204657,
-      "num": 204657,
-      "word": "黄景瑜演技",
-      "onboard_time": 1714663101,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 204133,
@@ -3257,6 +3273,14 @@
       "onboard_time": 1714647618,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 180038,
+      "num": 180038,
+      "word": "射手座容易给人制造恋爱假象",
+      "onboard_time": 1714664119,
+      "rank": 26,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 179337,
@@ -3969,6 +3993,14 @@
       "onboard_time": 1714539679,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151946,
+      "num": 129410,
+      "word": "乐山大佛排队4小时才能看到佛脚",
+      "onboard_time": 1714663159,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 151717,
@@ -4795,14 +4827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122163,
-      "num": 129410,
-      "word": "乐山大佛排队4小时才能看到佛脚",
-      "onboard_time": 1714663159,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 121388,
       "num": 121388,
       "word": "广东梅龙高速路面塌陷请绕行",
@@ -5395,6 +5419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101408,
+      "num": 98681,
+      "word": "胡歌台湾腔",
+      "onboard_time": 1714665257,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 101403,
       "num": 151449,
       "word": "5月十二星座注意事项",
@@ -5865,6 +5897,14 @@
       "onboard_time": 1714515132,
       "rank": 49,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 46994,
+      "num": 127898,
+      "word": "102岁奶奶补办身份证女警手舞足蹈引导",
+      "onboard_time": 1714666875,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46359,
