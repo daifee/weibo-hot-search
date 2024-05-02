@@ -1,6 +1,6 @@
 {
   "startTime": 1714580547459,
-  "endTime": 1714634278964,
+  "endTime": 1714635253914,
   "band_list": [
     {
       "raw_hot": 3959503,
@@ -9,6 +9,14 @@
       "onboard_time": 1714611196,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1515060,
+      "num": 1515060,
+      "word": "今年五一没人结婚吗",
+      "onboard_time": 1714632616,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 1338559,
@@ -105,14 +113,6 @@
       "onboard_time": 1714629679,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 999369,
-      "num": 999369,
-      "word": "今年五一没人结婚吗",
-      "onboard_time": 1714632616,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 989940,
@@ -475,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 363308,
+      "num": 203105,
+      "word": "一个家庭最可怕的是制造内耗的人",
+      "onboard_time": 1714631357,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 358620,
       "num": 307694,
       "word": "周鸿祎 褚会长",
@@ -563,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304148,
+      "num": 204137,
+      "word": "黄轩回天水两天变成了黄干",
+      "onboard_time": 1714632798,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285241,
       "num": 285241,
       "word": "中等生为什么成绩上不去",
@@ -601,22 +617,6 @@
       "onboard_time": 1714568359,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260586,
-      "num": 204137,
-      "word": "黄轩回天水两天变成了黄干",
-      "onboard_time": 1714632798,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 259137,
-      "num": 202731,
-      "word": "一个家庭最可怕的是制造内耗的人",
-      "onboard_time": 1714631357,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 258386,
@@ -673,6 +673,14 @@
       "onboard_time": 1714623498,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 213619,
+      "num": 213619,
+      "word": "俄罗斯办缴获武器展友情提示亮了",
+      "onboard_time": 1714632677,
+      "rank": 28,
+      "category": "军事"
     },
     {
       "raw_hot": 210384,
@@ -755,14 +763,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 200967,
-      "num": 200967,
-      "word": "俄罗斯办缴获武器展友情提示亮了",
-      "onboard_time": 1714632677,
-      "rank": 28,
-      "category": "军事"
-    },
-    {
       "raw_hot": 200569,
       "num": 200569,
       "word": "孙怡素颜泳装照",
@@ -827,6 +827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191154,
+      "num": 191154,
+      "word": "迪丽热巴参加过配音综艺身临其境",
+      "onboard_time": 1714634537,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189026,
       "num": 189026,
       "word": "陶昕然是甄嬛传的尺度担当",
@@ -883,6 +891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179337,
+      "num": 175118,
+      "word": "刘宇宁给迪丽热巴101品牌撑个场",
+      "onboard_time": 1714633697,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178574,
       "num": 178574,
       "word": "大侦探 内娱无代餐",
@@ -913,6 +929,14 @@
       "onboard_time": 1714629857,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173253,
+      "num": 173253,
+      "word": "保研真的比考研好吗",
+      "onboard_time": 1714632918,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 172198,
@@ -971,12 +995,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167354,
-      "num": 167354,
-      "word": "保研真的比考研好吗",
-      "onboard_time": 1714632918,
-      "rank": 34,
-      "category": "教育"
+      "raw_hot": 168891,
+      "num": 168891,
+      "word": "包包有拉链真的太重要了",
+      "onboard_time": 1714632378,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 167137,
@@ -985,14 +1009,6 @@
       "onboard_time": 1714629738,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 166562,
-      "num": 166562,
-      "word": "刘宇宁给迪丽热巴101品牌撑个场",
-      "onboard_time": 1714633697,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 166398,
@@ -1075,6 +1091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161096,
+      "num": 161096,
+      "word": "张艺兴女团将加入新成员",
+      "onboard_time": 1714635019,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158180,
       "num": 158180,
       "word": "五月天香港演唱会延期补偿方案",
@@ -1147,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150092,
+      "num": 150092,
+      "word": "专家称梅大高速坍塌前或有征兆",
+      "onboard_time": 1714634838,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150010,
       "num": 150010,
       "word": "张杰新歌",
@@ -1185,6 +1217,14 @@
       "onboard_time": 1714625058,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141856,
+      "num": 141856,
+      "word": "她在百米高空为航母驾龙门",
+      "onboard_time": 1714634659,
+      "rank": 40,
+      "category": "军事"
     },
     {
       "raw_hot": 140920,
@@ -1283,14 +1323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133218,
-      "num": 133218,
-      "word": "包包有拉链真的太重要了",
-      "onboard_time": 1714632378,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 132670,
       "num": 132670,
       "word": "泡泡岛音乐节 大巴",
@@ -1339,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128214,
+      "num": 128214,
+      "word": "真有人把留学生当免费代购",
+      "onboard_time": 1714634478,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128073,
       "num": 128073,
       "word": "哈登表现",
@@ -1361,6 +1401,14 @@
       "onboard_time": 1714573219,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121244,
+      "num": 121244,
+      "word": "魏大勋超话今天爆了",
+      "onboard_time": 1714635197,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 119775,
