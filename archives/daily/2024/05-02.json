@@ -1,6 +1,6 @@
 {
   "startTime": 1714580547459,
-  "endTime": 1714648518396,
+  "endTime": 1714649655273,
   "band_list": [
     {
       "raw_hot": 7156334,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 807095,
+      "num": 278452,
+      "word": "Tiffany被年轻人抛弃了吗",
+      "onboard_time": 1714645937,
+      "rank": 30,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 802219,
       "num": 350066,
       "word": "21岁重庆男子跳江",
@@ -217,14 +225,6 @@
       "onboard_time": 1714615158,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 728177,
-      "num": 278452,
-      "word": "Tiffany被年轻人抛弃了吗",
-      "onboard_time": 1714645937,
-      "rank": 30,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 724564,
@@ -387,6 +387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 538009,
+      "num": 538009,
+      "word": "肖战乔振宇藏海传路透",
+      "onboard_time": 1714646358,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 517396,
       "num": 517396,
       "word": "梅州高速塌方一女子5名亲人失联",
@@ -395,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 491090,
-      "num": 491090,
-      "word": "肖战乔振宇藏海传路透",
-      "onboard_time": 1714646358,
-      "rank": 4,
-      "category": "剧集"
+      "raw_hot": 485054,
+      "num": 485054,
+      "word": "指甲卖钱",
+      "onboard_time": 1714646657,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 480999,
@@ -619,6 +627,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375518,
+      "num": 375518,
+      "word": "ILLIT翻跳NewJeans舞蹈",
+      "onboard_time": 1714647138,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 371768,
+      "num": 371768,
+      "word": "马小跳 跳伞",
+      "onboard_time": 1714648577,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 370228,
       "num": 306636,
       "word": "梅大高速塌陷已致24人死亡",
@@ -657,14 +681,6 @@
       "onboard_time": 1714631357,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 359232,
-      "num": 359232,
-      "word": "ILLIT翻跳NewJeans舞蹈",
-      "onboard_time": 1714647138,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 358620,
@@ -835,14 +851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249063,
-      "num": 249063,
-      "word": "指甲卖钱",
-      "onboard_time": 1714646657,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 248135,
       "num": 248135,
       "word": "李振豪",
@@ -907,6 +915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 233793,
+      "num": 233793,
+      "word": "明明不开车为啥还被称为副驾驶",
+      "onboard_time": 1714646058,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228076,
       "num": 228076,
       "word": "外交部回应美国务卿涉台声明",
@@ -923,12 +939,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 225383,
-      "num": 225383,
-      "word": "明明不开车为啥还被称为副驾驶",
-      "onboard_time": 1714646058,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 216331,
+      "num": 216331,
+      "word": "张杰给粉丝准备了不同的手幅",
+      "onboard_time": 1714648999,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 213619,
@@ -1209,6 +1225,14 @@
       "onboard_time": 1714626559,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185190,
+      "num": 185190,
+      "word": "卓沅新歌ringringring",
+      "onboard_time": 1714649419,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 180352,
@@ -1635,6 +1659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145421,
+      "num": 145421,
+      "word": "奔跑吧明晚尖叫连连",
+      "onboard_time": 1714648277,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145403,
       "num": 145403,
       "word": "张碧晨撤回了一条吃瓜情报",
@@ -1643,7 +1675,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144355,
+      "raw_hot": 144750,
       "num": 144355,
       "word": "音乐节票价",
       "onboard_time": 1714647918,
@@ -1875,14 +1907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124505,
-      "num": 124505,
-      "word": "奔跑吧明晚尖叫连连",
-      "onboard_time": 1714648277,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121212,
       "num": 121212,
       "word": "五一淄博烧烤商战再升级",
@@ -1945,6 +1969,14 @@
       "onboard_time": 1714596370,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113556,
+      "num": 113556,
+      "word": "厦门音乐节",
+      "onboard_time": 1714649177,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 113081,
@@ -2147,6 +2179,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 98164,
+      "num": 98164,
+      "word": "汤杯中国1比0印度",
+      "onboard_time": 1714648818,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96357,
       "num": 96357,
       "word": "刘伟强说王一博动作戏很拼",
@@ -2241,6 +2281,14 @@
       "onboard_time": 1714570819,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77325,
+      "num": 413186,
+      "word": "五一假期簪花小姐姐齐聚起凤桥",
+      "onboard_time": 1714648037,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76933,
@@ -2385,14 +2433,6 @@
       "onboard_time": 1714588812,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 33538,
-      "num": 413186,
-      "word": "五一假期簪花小姐姐齐聚起凤桥",
-      "onboard_time": 1714648037,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25495,

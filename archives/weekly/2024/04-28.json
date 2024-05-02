@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714648518396,
+  "endTime": 1714649655273,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -1347,6 +1347,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 807095,
+      "num": 278452,
+      "word": "Tiffany被年轻人抛弃了吗",
+      "onboard_time": 1714645937,
+      "rank": 30,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 805647,
       "num": 553149,
       "word": "特斯拉市值一夜涨近6000亿",
@@ -1529,14 +1537,6 @@
       "onboard_time": 1714349177,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 728177,
-      "num": 278452,
-      "word": "Tiffany被年轻人抛弃了吗",
-      "onboard_time": 1714645937,
-      "rank": 30,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 728098,
@@ -2467,6 +2467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 538009,
+      "num": 538009,
+      "word": "肖战乔振宇藏海传路透",
+      "onboard_time": 1714646358,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 537311,
       "num": 537311,
       "word": "梁靖崑先关注王楚钦",
@@ -2771,14 +2779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 491090,
-      "num": 491090,
-      "word": "肖战乔振宇藏海传路透",
-      "onboard_time": 1714646358,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 489377,
       "num": 489377,
       "word": "巴以冲突",
@@ -2825,6 +2825,14 @@
       "onboard_time": 1714388778,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485054,
+      "num": 485054,
+      "word": "指甲卖钱",
+      "onboard_time": 1714646657,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 484911,
@@ -3867,6 +3875,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 375518,
+      "num": 375518,
+      "word": "ILLIT翻跳NewJeans舞蹈",
+      "onboard_time": 1714647138,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 375268,
       "num": 375268,
       "word": "冒充小学生骗女生当事人被约谈",
@@ -3905,6 +3921,14 @@
       "onboard_time": 1714357038,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 371768,
+      "num": 371768,
+      "word": "马小跳 跳伞",
+      "onboard_time": 1714648577,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 371375,
@@ -4049,14 +4073,6 @@
       "onboard_time": 1714444338,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359232,
-      "num": 359232,
-      "word": "ILLIT翻跳NewJeans舞蹈",
-      "onboard_time": 1714647138,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 358842,
@@ -5619,14 +5635,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 249063,
-      "num": 249063,
-      "word": "指甲卖钱",
-      "onboard_time": 1714646657,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 248939,
       "num": 248939,
       "word": "疑似情感纠纷女子带人冲进办公室殴打女员工",
@@ -6059,6 +6067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 233793,
+      "num": 233793,
+      "word": "明明不开车为啥还被称为副驾驶",
+      "onboard_time": 1714646058,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 233522,
       "num": 233522,
       "word": "王一博骑摩托去接受采访",
@@ -6249,14 +6265,6 @@
       "onboard_time": 1714623498,
       "rank": 41,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 225383,
-      "num": 225383,
-      "word": "明明不开车为啥还被称为副驾驶",
-      "onboard_time": 1714646058,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 224032,
@@ -6457,6 +6465,14 @@
       "onboard_time": 1714310058,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216331,
+      "num": 216331,
+      "word": "张杰给粉丝准备了不同的手幅",
+      "onboard_time": 1714648999,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 216053,
@@ -8273,6 +8289,14 @@
       "onboard_time": 1714626559,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185190,
+      "num": 185190,
+      "word": "卓沅新歌ringringring",
+      "onboard_time": 1714649419,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 184943,
@@ -10555,6 +10579,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 145421,
+      "num": 145421,
+      "word": "奔跑吧明晚尖叫连连",
+      "onboard_time": 1714648277,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145403,
       "num": 145403,
       "word": "张碧晨撤回了一条吃瓜情报",
@@ -10603,6 +10635,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 144750,
+      "num": 144355,
+      "word": "音乐节票价",
+      "onboard_time": 1714647918,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144627,
       "num": 144627,
       "word": "外交部回应哈马斯和法塔赫在京磋商",
@@ -10633,14 +10673,6 @@
       "onboard_time": 1714465277,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 144355,
-      "num": 144355,
-      "word": "音乐节票价",
-      "onboard_time": 1714647918,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 144342,
@@ -11811,14 +11843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124505,
-      "num": 124505,
-      "word": "奔跑吧明晚尖叫连连",
-      "onboard_time": 1714648277,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 124145,
       "num": 124145,
       "word": "因为布置工位被领导约谈了",
@@ -12337,6 +12361,14 @@
       "onboard_time": 1714543639,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 113556,
+      "num": 113556,
+      "word": "厦门音乐节",
+      "onboard_time": 1714649177,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 113191,
@@ -12947,6 +12979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98164,
+      "num": 98164,
+      "word": "汤杯中国1比0印度",
+      "onboard_time": 1714648818,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97756,
       "num": 97756,
       "word": "兵马俑开馆2小时游客超1万人",
@@ -13265,6 +13305,14 @@
       "onboard_time": 1714322055,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 77325,
+      "num": 413186,
+      "word": "五一假期簪花小姐姐齐聚起凤桥",
+      "onboard_time": 1714648037,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77101,
@@ -13793,14 +13841,6 @@
       "onboard_time": 1714387038,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 33538,
-      "num": 413186,
-      "word": "五一假期簪花小姐姐齐聚起凤桥",
-      "onboard_time": 1714648037,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32408,
