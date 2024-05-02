@@ -1,6 +1,6 @@
 {
   "startTime": 1714580547459,
-  "endTime": 1714623685940,
+  "endTime": 1714624610847,
   "band_list": [
     {
       "raw_hot": 3959503,
@@ -19,20 +19,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1191460,
+      "num": 698255,
+      "word": "5000一晚的酒店薅走35瓶洗发水能回本吗",
+      "onboard_time": 1714621997,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1169371,
+      "num": 264654,
+      "word": "赵露思被前员工背刺",
+      "onboard_time": 1714620438,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1155449,
       "num": 1155449,
       "word": "男演员骗88人到柬埔寨进行电信诈骗",
       "onboard_time": 1714605614,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1145355,
-      "num": 264654,
-      "word": "赵露思被前员工背刺",
-      "onboard_time": 1714620438,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 1142394,
@@ -83,14 +91,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 908644,
-      "num": 481297,
-      "word": "5000一晚的酒店薅走35瓶洗发水能回本吗",
-      "onboard_time": 1714621997,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 850934,
       "num": 850934,
       "word": "梅大高速塌陷已发现23辆车陷落",
@@ -137,6 +137,14 @@
       "onboard_time": 1714612517,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 685954,
+      "num": 261466,
+      "word": "王鸥工作室",
+      "onboard_time": 1714622897,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 652103,
@@ -187,20 +195,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 587252,
+      "num": 587252,
+      "word": "对韩国的滤镜慢慢破碎了",
+      "onboard_time": 1714622059,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 566111,
       "num": 566111,
       "word": "济南一对夫妻失联近一个月",
       "onboard_time": 1714612517,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 532987,
-      "num": 532987,
-      "word": "对韩国的滤镜慢慢破碎了",
-      "onboard_time": 1714622059,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 517396,
@@ -299,6 +307,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 385719,
+      "num": 385719,
+      "word": "林更新不敢和张雨绮十指紧扣",
+      "onboard_time": 1714622418,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381407,
       "num": 381407,
       "word": "初恋对中年人的杀伤力",
@@ -387,12 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 325222,
-      "num": 261466,
-      "word": "王鸥工作室",
-      "onboard_time": 1714622897,
-      "rank": 24,
-      "category": "电影"
+      "raw_hot": 321090,
+      "num": 321090,
+      "word": "成毅王权富贵杀青",
+      "onboard_time": 1714622418,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 315508,
@@ -409,6 +425,14 @@
       "onboard_time": 1714569799,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293490,
+      "num": 293490,
+      "word": "受辱的闺女窝囊的爹",
+      "onboard_time": 1714621758,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 285241,
@@ -435,22 +459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270297,
-      "num": 270297,
-      "word": "林更新不敢和张雨绮十指紧扣",
-      "onboard_time": 1714622418,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 265984,
-      "num": 265984,
-      "word": "受辱的闺女窝囊的爹",
-      "onboard_time": 1714621758,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 263437,
       "num": 471737,
       "word": "外卖小哥陪瘫痪女子吃饭多年直到女子离世",
@@ -465,14 +473,6 @@
       "onboard_time": 1714611498,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254074,
-      "num": 254074,
-      "word": "成毅王权富贵杀青",
-      "onboard_time": 1714622418,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 248135,
@@ -507,6 +507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225669,
+      "num": 225669,
+      "word": "美国涉俄新制裁对中国实体下手",
+      "onboard_time": 1714623498,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 210384,
       "num": 210384,
       "word": "王楚钦孙颖莎出席抽签仪式",
@@ -523,12 +531,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207201,
+      "num": 207201,
+      "word": "迪丽热巴推镇推时髦的巴丽",
+      "onboard_time": 1714623799,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207126,
       "num": 207126,
       "word": "宋亚轩被赵昭仪吓到摸心脏",
       "onboard_time": 1714621096,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207091,
+      "num": 182141,
+      "word": "帕恰狗怎么擦眼泪的",
+      "onboard_time": 1714623978,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 203921,
@@ -579,6 +603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196101,
+      "num": 207632,
+      "word": "梅大高速塌方救援现场画面",
+      "onboard_time": 1714621518,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192242,
       "num": 192242,
       "word": "九龙城寨 港片回来了",
@@ -627,12 +659,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 180547,
-      "num": 207632,
-      "word": "梅大高速塌方救援现场画面",
-      "onboard_time": 1714621518,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 180610,
+      "num": 180610,
+      "word": "西安三步一个公主五步一个贵妃",
+      "onboard_time": 1714622658,
+      "rank": 37,
+      "category": "旅游"
     },
     {
       "raw_hot": 180352,
@@ -691,6 +723,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169747,
+      "num": 169747,
+      "word": "独行侠vs快船",
+      "onboard_time": 1714617438,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166398,
+      "num": 277695,
+      "word": "美军一F16战机坠毁",
+      "onboard_time": 1714623138,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
       "raw_hot": 164173,
       "num": 164173,
       "word": "西湖",
@@ -731,11 +779,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 158942,
-      "num": 158942,
-      "word": "西安三步一个公主五步一个贵妃",
-      "onboard_time": 1714622658,
-      "rank": 37,
+      "raw_hot": 161845,
+      "num": 161845,
+      "word": "县城旅游",
+      "onboard_time": 1714620737,
+      "rank": 34,
       "category": "旅游"
     },
     {
@@ -787,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150519,
+      "num": 150519,
+      "word": "周杰伦陪昆凌夜游",
+      "onboard_time": 1714624037,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150010,
       "num": 150010,
       "word": "张杰新歌",
@@ -803,22 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146999,
-      "num": 146999,
-      "word": "县城旅游",
-      "onboard_time": 1714620737,
-      "rank": 34,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 146404,
-      "num": 146404,
-      "word": "美国涉俄新制裁对中国实体下手",
-      "onboard_time": 1714623498,
-      "rank": 41,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 140920,
       "num": 140920,
       "word": "读研对一个人最大的改变",
@@ -827,12 +867,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 138394,
-      "num": 138394,
-      "word": "独行侠vs快船",
-      "onboard_time": 1714617438,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 140438,
+      "num": 140438,
+      "word": "瞒着女友和她买了同一趟高铁",
+      "onboard_time": 1714621096,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 137439,
@@ -841,6 +881,14 @@
       "onboard_time": 1714571360,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137075,
+      "num": 137075,
+      "word": "孟子义逗完林更新还得哄",
+      "onboard_time": 1714624338,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 136400,
@@ -859,11 +907,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134064,
-      "num": 134064,
-      "word": "瞒着女友和她买了同一趟高铁",
-      "onboard_time": 1714621096,
-      "rank": 43,
+      "raw_hot": 134209,
+      "num": 134209,
+      "word": "高考倒计时38天独立解出导数第三问",
+      "onboard_time": 1714623617,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -931,12 +979,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123597,
-      "num": 123597,
-      "word": "高考倒计时38天独立解出导数第三问",
-      "onboard_time": 1714623617,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 119775,
+      "num": 119775,
+      "word": "开始推理吧",
+      "onboard_time": 1714624518,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 117390,
@@ -1225,14 +1273,6 @@
       "onboard_time": 1714599731,
       "rank": 30,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 72660,
-      "num": 265194,
-      "word": "美军一F16战机坠毁",
-      "onboard_time": 1714623138,
-      "rank": 19,
-      "category": "军事"
     },
     {
       "raw_hot": 72588,
