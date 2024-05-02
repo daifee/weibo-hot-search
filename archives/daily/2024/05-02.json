@@ -1,6 +1,6 @@
 {
   "startTime": 1714580547459,
-  "endTime": 1714645175675,
+  "endTime": 1714646124179,
   "band_list": [
     {
       "raw_hot": 7156334,
@@ -291,6 +291,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 645317,
+      "num": 645317,
+      "word": "张子枫哭出了漫画里才有的泪眼",
+      "onboard_time": 1714641439,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 629006,
       "num": 629006,
       "word": "日本小镇拉黑布遮挡富士山远景",
@@ -321,14 +329,6 @@
       "onboard_time": 1714638201,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 598572,
-      "num": 598572,
-      "word": "张子枫哭出了漫画里才有的泪眼",
-      "onboard_time": 1714641439,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 598143,
@@ -467,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 457507,
+      "num": 457507,
+      "word": "间谍过家家约尔暴打黄昏",
+      "onboard_time": 1714643177,
+      "rank": 16,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 449861,
       "num": 449861,
       "word": "迪丽热巴夹起来了",
@@ -563,14 +571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 388856,
-      "num": 388856,
-      "word": "间谍过家家约尔暴打黄昏",
-      "onboard_time": 1714643177,
-      "rank": 16,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 385104,
       "num": 385104,
       "word": "晒被子的最佳方式竟然是套个黑色塑料袋",
@@ -585,6 +585,14 @@
       "onboard_time": 1714577058,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 380395,
+      "num": 380395,
+      "word": "泫雅 回春",
+      "onboard_time": 1714644978,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 370228,
@@ -915,6 +923,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 205758,
+      "num": 205758,
+      "word": "张杰从1到100的每一步",
+      "onboard_time": 1714645638,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205519,
       "num": 205519,
       "word": "黄子弘凡直播",
@@ -1091,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186865,
+      "num": 173382,
+      "word": "Tiffany被年轻人抛弃了吗",
+      "onboard_time": 1714645937,
+      "rank": 30,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 185833,
       "num": 521808,
       "word": "杭州西湖边再现最美人墙",
@@ -1187,20 +1211,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174152,
+      "num": 174152,
+      "word": "赵一博妆造",
+      "onboard_time": 1714645877,
+      "rank": 29,
+      "category": "综艺,美妆"
+    },
+    {
       "raw_hot": 173253,
       "num": 173253,
       "word": "保研真的比考研好吗",
       "onboard_time": 1714632918,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 172636,
-      "num": 172636,
-      "word": "泫雅 回春",
-      "onboard_time": 1714644978,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 172198,
@@ -1419,6 +1443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155131,
+      "num": 499250,
+      "word": "女童溺水被救全家上门磕头跪谢恩人",
+      "onboard_time": 1714643478,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154803,
       "num": 154803,
       "word": "薛之谦演唱会drama",
@@ -1457,6 +1489,14 @@
       "onboard_time": 1714622297,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152386,
+      "num": 148619,
+      "word": "广东警方称将尽快完成遇难者身份确认",
+      "onboard_time": 1714642759,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152245,
@@ -1504,14 +1544,6 @@
       "word": "五一假期第二天",
       "onboard_time": 1714605016,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148619,
-      "num": 148619,
-      "word": "广东警方称将尽快完成遇难者身份确认",
-      "onboard_time": 1714642759,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1699,14 +1731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131068,
-      "num": 499250,
-      "word": "女童溺水被救全家上门磕头跪谢恩人",
-      "onboard_time": 1714643478,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130966,
       "num": 130966,
       "word": "吉赛尔风格",
@@ -1793,6 +1817,14 @@
       "onboard_time": 1714624518,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119762,
+      "num": 119762,
+      "word": "汤杯中国vs印度",
+      "onboard_time": 1714645519,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 119226,
@@ -2043,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94877,
+      "num": 112161,
+      "word": "明明不开车为啥还被称为副驾驶",
+      "onboard_time": 1714646058,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94277,
       "num": 94277,
       "word": "自闭症孩子的99岁老师说要尊重孩子",
@@ -2179,20 +2219,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59356,
+      "num": 812915,
+      "word": "打开青春的N种方式",
+      "onboard_time": 1714637239,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59090,
       "num": 59090,
       "word": "热心市民龚俊黄景瑜",
       "onboard_time": 1714583894,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 58548,
-      "num": 792585,
-      "word": "打开青春的N种方式",
-      "onboard_time": 1714637239,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57994,

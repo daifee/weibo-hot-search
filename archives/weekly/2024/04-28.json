@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714645175675,
+  "endTime": 1714646124179,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -1971,6 +1971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 645317,
+      "num": 645317,
+      "word": "张子枫哭出了漫画里才有的泪眼",
+      "onboard_time": 1714641439,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 642220,
       "num": 642220,
       "word": "CCTV综艺放了赵丽颖簪花照",
@@ -2185,14 +2193,6 @@
       "onboard_time": 1714464198,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 598572,
-      "num": 598572,
-      "word": "张子枫哭出了漫画里才有的泪眼",
-      "onboard_time": 1714641439,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 598307,
@@ -3123,6 +3123,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 457507,
+      "num": 457507,
+      "word": "间谍过家家约尔暴打黄昏",
+      "onboard_time": 1714643177,
+      "rank": 16,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 456537,
       "num": 456537,
       "word": "马斯克称乐见中国电车取得进展",
@@ -3683,14 +3691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 388856,
-      "num": 388856,
-      "word": "间谍过家家约尔暴打黄昏",
-      "onboard_time": 1714643177,
-      "rank": 16,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 388118,
       "num": 239813,
       "word": "是研究生就会懂这五分钟的含金量",
@@ -3785,6 +3785,14 @@
       "onboard_time": 1714577058,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 380395,
+      "num": 380395,
+      "word": "泫雅 回春",
+      "onboard_time": 1714644978,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 380153,
@@ -6843,6 +6851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205758,
+      "num": 205758,
+      "word": "张杰从1到100的每一步",
+      "onboard_time": 1714645638,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205710,
       "num": 205710,
       "word": "向佐郭碧婷牵手出席活动",
@@ -8083,6 +8099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186865,
+      "num": 173382,
+      "word": "Tiffany被年轻人抛弃了吗",
+      "onboard_time": 1714645937,
+      "rank": 30,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 186721,
       "num": 186721,
       "word": "陈丽君陈昊宇cp",
@@ -8731,6 +8755,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 174152,
+      "num": 174152,
+      "word": "赵一博妆造",
+      "onboard_time": 1714645877,
+      "rank": 29,
+      "category": "综艺,美妆"
+    },
+    {
       "raw_hot": 173844,
       "num": 173844,
       "word": "刘嘉玲梁朝伟国外度假",
@@ -8793,14 +8825,6 @@
       "onboard_time": 1714365080,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172636,
-      "num": 172636,
-      "word": "泫雅 回春",
-      "onboard_time": 1714644978,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 172569,
@@ -9739,6 +9763,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 155131,
+      "num": 499250,
+      "word": "女童溺水被救全家上门磕头跪谢恩人",
+      "onboard_time": 1714643478,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155022,
       "num": 155022,
       "word": "闺蜜的聊天记录是顶级机密",
@@ -9905,6 +9937,14 @@
       "onboard_time": 1714449078,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152386,
+      "num": 148619,
+      "word": "广东警方称将尽快完成遇难者身份确认",
+      "onboard_time": 1714642759,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152363,
@@ -10201,14 +10241,6 @@
       "onboard_time": 1714365919,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148619,
-      "num": 148619,
-      "word": "广东警方称将尽快完成遇难者身份确认",
-      "onboard_time": 1714642759,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148389,
@@ -11299,14 +11331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131068,
-      "num": 499250,
-      "word": "女童溺水被救全家上门磕头跪谢恩人",
-      "onboard_time": 1714643478,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130966,
       "num": 130966,
       "word": "吉赛尔风格",
@@ -11905,6 +11929,14 @@
       "onboard_time": 1714624518,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119762,
+      "num": 119762,
+      "word": "汤杯中国vs印度",
+      "onboard_time": 1714645519,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 119590,
@@ -12907,6 +12939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 94877,
+      "num": 112161,
+      "word": "明明不开车为啥还被称为副驾驶",
+      "onboard_time": 1714646058,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94433,
       "num": 94433,
       "word": "广东最大的水库开闸泄洪",
@@ -13339,20 +13379,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 59356,
+      "num": 812915,
+      "word": "打开青春的N种方式",
+      "onboard_time": 1714637239,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59090,
       "num": 59090,
       "word": "热心市民龚俊黄景瑜",
       "onboard_time": 1714583894,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 58548,
-      "num": 792585,
-      "word": "打开青春的N种方式",
-      "onboard_time": 1714637239,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58156,
