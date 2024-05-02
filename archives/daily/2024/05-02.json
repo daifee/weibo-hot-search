@@ -1,6 +1,6 @@
 {
   "startTime": 1714580547459,
-  "endTime": 1714656883156,
+  "endTime": 1714659421002,
   "band_list": [
     {
       "raw_hot": 7156334,
@@ -19,7 +19,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1920016,
+      "raw_hot": 2486333,
+      "num": 480424,
+      "word": "郭晋安离婚",
+      "onboard_time": 1714656380,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2069511,
       "num": 751731,
       "word": "梅大高速塌方一家五口确认遇难",
       "onboard_time": 1714654759,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1570978,
-      "num": 289834,
+      "num": 292941,
       "word": "老公一个月四千多养活我们一家三口",
       "onboard_time": 1714639518,
       "rank": 20,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 826906,
+      "num": 745366,
+      "word": "韩国教授为IVE国风争议发声",
+      "onboard_time": 1714654457,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 808170,
       "num": 808170,
       "word": "公共场所有多脏",
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 800192,
-      "num": 288080,
+      "num": 288837,
       "word": "室友一年要五个生日礼物",
       "onboard_time": 1714651757,
       "rank": 21,
@@ -265,22 +281,6 @@
       "onboard_time": 1714615158,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 762441,
-      "num": 288556,
-      "word": "郭晋安离婚",
-      "onboard_time": 1714656380,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 745366,
-      "num": 745366,
-      "word": "韩国教授为IVE国风争议发声",
-      "onboard_time": 1714654457,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 724564,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 534188,
-      "num": 286819,
+      "num": 495836,
       "word": "昆明蓝莓12元1盒震惊外地游客",
       "onboard_time": 1714652059,
       "rank": 24,
@@ -497,6 +497,14 @@
       "onboard_time": 1714566198,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491710,
+      "num": 491710,
+      "word": "IVE能不能把中国结摘下来",
+      "onboard_time": 1714655599,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 485059,
@@ -515,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479151,
+      "num": 479151,
+      "word": "胖猫",
+      "onboard_time": 1714653859,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 478677,
       "num": 478677,
       "word": "何炅客串了难哄",
@@ -529,6 +545,14 @@
       "onboard_time": 1714618517,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 472207,
+      "num": 472207,
+      "word": "据说每个城市都来了1亿人",
+      "onboard_time": 1714657519,
+      "rank": 13,
+      "category": "旅游"
     },
     {
       "raw_hot": 471485,
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 464014,
-      "num": 286119,
+      "num": 292178,
       "word": "网友晒299元买朱珠价值5千二手包",
       "onboard_time": 1714653258,
       "rank": 30,
@@ -689,6 +713,14 @@
       "onboard_time": 1714642277,
       "rank": 40,
       "category": "艺人,运动健身"
+    },
+    {
+      "raw_hot": 403120,
+      "num": 403120,
+      "word": "魏晨南京",
+      "onboard_time": 1714656021,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 401775,
@@ -883,22 +915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 318609,
-      "num": 318609,
-      "word": "魏晨南京",
-      "onboard_time": 1714656021,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 315541,
-      "num": 315541,
-      "word": "胖猫",
-      "onboard_time": 1714653859,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
       "raw_hot": 315508,
       "num": 315508,
       "word": "淄博八大局500米走半小时",
@@ -931,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294497,
+      "num": 291500,
+      "word": "闺蜜男友桌下勾引南雅",
+      "onboard_time": 1714656200,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292178,
       "num": 242453,
       "word": "石凯白发",
@@ -953,6 +977,14 @@
       "onboard_time": 1714616417,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 275634,
+      "num": 275634,
+      "word": "WTT",
+      "onboard_time": 1714654819,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 274221,
@@ -1083,6 +1115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230571,
+      "num": 230571,
+      "word": "郭晋安 欧倩怡",
+      "onboard_time": 1714657941,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228076,
       "num": 228076,
       "word": "外交部回应美国务卿涉台声明",
@@ -1097,14 +1137,6 @@
       "onboard_time": 1714623498,
       "rank": 41,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 220695,
-      "num": 220695,
-      "word": "WTT",
-      "onboard_time": 1714654819,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 219715,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1714642037,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210973,
+      "num": 210973,
+      "word": "拜登声称中俄印日经济停滞是因排外",
+      "onboard_time": 1714655538,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 210384,
@@ -1267,20 +1307,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 199225,
-      "num": 199225,
-      "word": "IVE能不能把中国结摘下来",
-      "onboard_time": 1714655599,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198126,
       "num": 198126,
       "word": "自信和不自信的区别到底有多大",
       "onboard_time": 1714629498,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197709,
+      "num": 197709,
+      "word": "YOASOBI音乐节",
+      "onboard_time": 1714657941,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 197618,
@@ -1411,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186803,
+      "num": 186803,
+      "word": "反向旅游",
+      "onboard_time": 1714655238,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 185833,
       "num": 521808,
       "word": "杭州西湖边再现最美人墙",
@@ -1499,14 +1547,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178204,
-      "num": 178204,
-      "word": "反向旅游",
-      "onboard_time": 1714655238,
-      "rank": 40,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 177952,
       "num": 157534,
       "word": "哀牢山到底有多可怕",
@@ -1521,14 +1561,6 @@
       "onboard_time": 1714629857,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 175874,
-      "num": 175874,
-      "word": "拜登声称中俄印日经济停滞是因排外",
-      "onboard_time": 1714655538,
-      "rank": 44,
-      "category": "国外时政"
     },
     {
       "raw_hot": 175540,
@@ -1691,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163618,
+      "num": 163618,
+      "word": "古灵精探",
+      "onboard_time": 1714659020,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163492,
       "num": 163492,
       "word": "穿开衫衣服好看的方法",
@@ -1755,14 +1795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160781,
-      "num": 160781,
-      "word": "闺蜜男友桌下勾引南雅",
-      "onboard_time": 1714656200,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158180,
       "num": 158180,
       "word": "五月天香港演唱会延期补偿方案",
@@ -1785,6 +1817,14 @@
       "onboard_time": 1714640717,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157044,
+      "num": 157044,
+      "word": "赵睿个人能力",
+      "onboard_time": 1714658900,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 156103,
@@ -1857,6 +1897,14 @@
       "onboard_time": 1714631357,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151476,
+      "num": 151476,
+      "word": "WTT沙特大满贯2024",
+      "onboard_time": 1714659321,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 150885,
@@ -2075,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135154,
+      "num": 135154,
+      "word": "TTG零封BOA",
+      "onboard_time": 1714658119,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134209,
       "num": 134209,
       "word": "高考倒计时38天独立解出导数第三问",
@@ -2257,6 +2313,14 @@
       "onboard_time": 1714645519,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119455,
+      "num": 119455,
+      "word": "TES战胜LLL",
+      "onboard_time": 1714658780,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 119226,
@@ -2635,6 +2699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80560,
+      "num": 903982,
+      "word": "2分钟回顾神十七187天",
+      "onboard_time": 1714655659,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77325,
       "num": 413186,
       "word": "五一假期簪花小姐姐齐聚起凤桥",
@@ -2688,14 +2760,6 @@
       "word": "警方回应网传检查站警车撞倒人",
       "onboard_time": 1714606096,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66190,
-      "num": 903982,
-      "word": "2分钟回顾神十七187天",
-      "onboard_time": 1714655659,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

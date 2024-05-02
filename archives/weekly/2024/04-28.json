@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714656883156,
+  "endTime": 1714659421002,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2486333,
+      "num": 480424,
+      "word": "郭晋安离婚",
+      "onboard_time": 1714656380,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2327325,
       "num": 2327325,
       "word": "五一放假下雨4天是怎样的体验",
@@ -115,6 +123,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 2069511,
+      "num": 751731,
+      "word": "梅大高速塌方一家五口确认遇难",
+      "onboard_time": 1714654759,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2050489,
       "num": 2050489,
       "word": "5000块钱的工资46个工作群",
@@ -129,14 +145,6 @@
       "onboard_time": 1714377679,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1920016,
-      "num": 751731,
-      "word": "梅大高速塌方一家五口确认遇难",
-      "onboard_time": 1714654759,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1805773,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 1570978,
-      "num": 289834,
+      "num": 292941,
       "word": "老公一个月四千多养活我们一家三口",
       "onboard_time": 1714639518,
       "rank": 20,
@@ -1347,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 826906,
+      "num": 745366,
+      "word": "韩国教授为IVE国风争议发声",
+      "onboard_time": 1714654457,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 821998,
       "num": 821998,
       "word": "韩国电视台报道IVE国风争议",
@@ -1420,7 +1436,7 @@
     },
     {
       "raw_hot": 800192,
-      "num": 288080,
+      "num": 288837,
       "word": "室友一年要五个生日礼物",
       "onboard_time": 1714651757,
       "rank": 21,
@@ -1507,14 +1523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 762441,
-      "num": 288556,
-      "word": "郭晋安离婚",
-      "onboard_time": 1714656380,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 759116,
       "num": 759116,
       "word": "003",
@@ -1537,14 +1545,6 @@
       "onboard_time": 1714227859,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 745366,
-      "num": 745366,
-      "word": "韩国教授为IVE国风争议发声",
-      "onboard_time": 1714654457,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 739858,
@@ -2596,7 +2596,7 @@
     },
     {
       "raw_hot": 534188,
-      "num": 286819,
+      "num": 495836,
       "word": "昆明蓝莓12元1盒震惊外地游客",
       "onboard_time": 1714652059,
       "rank": 24,
@@ -2875,6 +2875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 491710,
+      "num": 491710,
+      "word": "IVE能不能把中国结摘下来",
+      "onboard_time": 1714655599,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 489377,
       "num": 489377,
       "word": "巴以冲突",
@@ -2971,6 +2979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 479151,
+      "num": 479151,
+      "word": "胖猫",
+      "onboard_time": 1714653859,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 478677,
       "num": 478677,
       "word": "何炅客串了难哄",
@@ -3041,6 +3057,14 @@
       "onboard_time": 1714285698,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472207,
+      "num": 472207,
+      "word": "据说每个城市都来了1亿人",
+      "onboard_time": 1714657519,
+      "rank": 13,
+      "category": "旅游"
     },
     {
       "raw_hot": 471554,
@@ -3164,7 +3188,7 @@
     },
     {
       "raw_hot": 464014,
-      "num": 286119,
+      "num": 292178,
       "word": "网友晒299元买朱珠价值5千二手包",
       "onboard_time": 1714653258,
       "rank": 30,
@@ -3753,6 +3777,14 @@
       "onboard_time": 1714439718,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403120,
+      "num": 403120,
+      "word": "魏晨南京",
+      "onboard_time": 1714656021,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 402880,
@@ -4683,14 +4715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318609,
-      "num": 318609,
-      "word": "魏晨南京",
-      "onboard_time": 1714656021,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 317595,
       "num": 274533,
       "word": "饭饭发文",
@@ -4737,14 +4761,6 @@
       "onboard_time": 1714207817,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 315541,
-      "num": 315541,
-      "word": "胖猫",
-      "onboard_time": 1714653859,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 315508,
@@ -5043,6 +5059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 294497,
+      "num": 291500,
+      "word": "闺蜜男友桌下勾引南雅",
+      "onboard_time": 1714656200,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293518,
       "num": 293518,
       "word": "久坐1小时肌肉就开始出现结节",
@@ -5257,6 +5281,14 @@
       "onboard_time": 1714453219,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275634,
+      "num": 275634,
+      "word": "WTT",
+      "onboard_time": 1714654819,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 275163,
@@ -6323,6 +6355,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 230571,
+      "num": 230571,
+      "word": "郭晋安 欧倩怡",
+      "onboard_time": 1714657941,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230381,
       "num": 230381,
       "word": "不够善良的我们完结",
@@ -6481,14 +6521,6 @@
       "onboard_time": 1714386258,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220695,
-      "num": 220695,
-      "word": "WTT",
-      "onboard_time": 1714654819,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 220271,
@@ -6825,6 +6857,14 @@
       "onboard_time": 1714571599,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210973,
+      "num": 210973,
+      "word": "拜登声称中俄印日经济停滞是因排外",
+      "onboard_time": 1714655538,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 210849,
@@ -7555,14 +7595,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 199225,
-      "num": 199225,
-      "word": "IVE能不能把中国结摘下来",
-      "onboard_time": 1714655599,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199109,
       "num": 199109,
       "word": "跑男 郑恺的编制",
@@ -7625,6 +7657,14 @@
       "onboard_time": 1714292720,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197709,
+      "num": 197709,
+      "word": "YOASOBI音乐节",
+      "onboard_time": 1714657941,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 197618,
@@ -8403,6 +8443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186803,
+      "num": 186803,
+      "word": "反向旅游",
+      "onboard_time": 1714655238,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 186721,
       "num": 186721,
       "word": "陈丽君陈昊宇cp",
@@ -8891,14 +8939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178204,
-      "num": 178204,
-      "word": "反向旅游",
-      "onboard_time": 1714655238,
-      "rank": 40,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 178153,
       "num": 178153,
       "word": "女子造谣3岁女儿遭猥亵被判赔6万",
@@ -8985,14 +9025,6 @@
       "onboard_time": 1714547779,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 175874,
-      "num": 175874,
-      "word": "拜登声称中俄印日经济停滞是因排外",
-      "onboard_time": 1714655538,
-      "rank": 44,
-      "category": "国外时政"
     },
     {
       "raw_hot": 175865,
@@ -9603,6 +9635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163618,
+      "num": 163618,
+      "word": "古灵精探",
+      "onboard_time": 1714659020,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163555,
       "num": 163555,
       "word": "男凝和欣赏区别",
@@ -9729,14 +9769,6 @@
       "onboard_time": 1714635019,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160781,
-      "num": 160781,
-      "word": "闺蜜男友桌下勾引南雅",
-      "onboard_time": 1714656200,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 160634,
@@ -9993,6 +10025,14 @@
       "onboard_time": 1714357518,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157044,
+      "num": 157044,
+      "word": "赵睿个人能力",
+      "onboard_time": 1714658900,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 156947,
@@ -10345,6 +10385,14 @@
       "onboard_time": 1714542918,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151476,
+      "num": 151476,
+      "word": "WTT沙特大满贯2024",
+      "onboard_time": 1714659321,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 151438,
@@ -11403,6 +11451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135154,
+      "num": 135154,
+      "word": "TTG零封BOA",
+      "onboard_time": 1714658119,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135096,
       "num": 135096,
       "word": "成都蓉城2比2武汉三镇",
@@ -12353,6 +12409,14 @@
       "onboard_time": 1714396999,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119455,
+      "num": 119455,
+      "word": "TES战胜LLL",
+      "onboard_time": 1714658780,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 119417,
@@ -13611,6 +13675,14 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 80560,
+      "num": 903982,
+      "word": "2分钟回顾神十七187天",
+      "onboard_time": 1714655659,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79964,
       "num": 717723,
       "word": "神十七航天员回家",
@@ -13745,14 +13817,6 @@
       "onboard_time": 1714282518,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 66190,
-      "num": 903982,
-      "word": "2分钟回顾神十七187天",
-      "onboard_time": 1714655659,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64357,
