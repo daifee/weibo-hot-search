@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714620874105,
+  "endTime": 1714623685940,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -603,6 +603,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1145355,
+      "num": 264654,
+      "word": "赵露思被前员工背刺",
+      "onboard_time": 1714620438,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1142394,
+      "num": 482416,
+      "word": "IVE打歌将佩戴中国结",
+      "onboard_time": 1714621578,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1129432,
       "num": 771099,
       "word": "周鸿祎 迈巴赫",
@@ -628,11 +644,19 @@
     },
     {
       "raw_hot": 1110812,
-      "num": 241866,
+      "num": 263488,
       "word": "张馨予何捷 云南",
       "onboard_time": 1714617797,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1108571,
+      "num": 1108571,
+      "word": "大唐不夜城已被六国游客攻陷",
+      "onboard_time": 1714617677,
+      "rank": 1,
+      "category": "旅游"
     },
     {
       "raw_hot": 1098189,
@@ -644,7 +668,7 @@
     },
     {
       "raw_hot": 1097970,
-      "num": 240178,
+      "num": 262155,
       "word": "罗西前女友爆料",
       "onboard_time": 1714616178,
       "rank": 20,
@@ -681,14 +705,6 @@
       "onboard_time": 1714390037,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1078169,
-      "num": 1078169,
-      "word": "大唐不夜城已被六国游客攻陷",
-      "onboard_time": 1714617677,
-      "rank": 1,
-      "category": "旅游"
     },
     {
       "raw_hot": 1078160,
@@ -977,6 +993,14 @@
       "onboard_time": 1714276038,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 908644,
+      "num": 481297,
+      "word": "5000一晚的酒店薅走35瓶洗发水能回本吗",
+      "onboard_time": 1714621997,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 907598,
@@ -2019,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598143,
+      "num": 598143,
+      "word": "维和防暴队 删减",
+      "onboard_time": 1714620857,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 596192,
       "num": 552928,
       "word": "赵昭仪问张翰你是不是爱吃牛肉",
@@ -2289,6 +2321,14 @@
       "onboard_time": 1714549698,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 532987,
+      "num": 532987,
+      "word": "对韩国的滤镜慢慢破碎了",
+      "onboard_time": 1714622059,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 531939,
@@ -2707,6 +2747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 471485,
+      "num": 471485,
+      "word": "杨幂业内口碑",
+      "onboard_time": 1714619298,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 471410,
       "num": 471410,
       "word": "庆余年2本月播出",
@@ -2881,14 +2929,6 @@
       "onboard_time": 1714571599,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 450168,
-      "num": 450168,
-      "word": "杨幂业内口碑",
-      "onboard_time": 1714619298,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 449967,
@@ -4043,6 +4083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 325222,
+      "num": 261466,
+      "word": "王鸥工作室",
+      "onboard_time": 1714622897,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 323109,
       "num": 254122,
       "word": "SEVENTEEN主打曲MV",
@@ -4787,6 +4835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270297,
+      "num": 270297,
+      "word": "林更新不敢和张雨绮十指紧扣",
+      "onboard_time": 1714622418,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270206,
       "num": 270206,
       "word": "五一到底哪里没人啊",
@@ -4859,6 +4915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 265984,
+      "num": 265984,
+      "word": "受辱的闺女窝囊的爹",
+      "onboard_time": 1714621758,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265855,
       "num": 265855,
       "word": "领导重新定义二本",
@@ -4897,14 +4961,6 @@
       "onboard_time": 1714558401,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264778,
-      "num": 233200,
-      "word": "赵露思被前员工背刺",
-      "onboard_time": 1714620438,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 264020,
@@ -5105,6 +5161,14 @@
       "onboard_time": 1714539378,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254074,
+      "num": 254074,
+      "word": "成毅王权富贵杀青",
+      "onboard_time": 1714622418,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 253653,
@@ -6203,6 +6267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209131,
+      "num": 209131,
+      "word": "开始推理吧2开播",
+      "onboard_time": 1714621159,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208742,
       "num": 208742,
       "word": "阿尼亚emoji",
@@ -6281,6 +6353,14 @@
       "onboard_time": 1714284978,
       "rank": 32,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 207126,
+      "num": 207126,
+      "word": "宋亚轩被赵昭仪吓到摸心脏",
+      "onboard_time": 1714621096,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 207069,
@@ -6465,6 +6545,14 @@
       "onboard_time": 1714566259,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203882,
+      "num": 203882,
+      "word": "五一电影",
+      "onboard_time": 1714622897,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 203877,
@@ -7475,6 +7563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187739,
+      "num": 187739,
+      "word": "金秀贤金智媛幕后牵手",
+      "onboard_time": 1714621578,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187716,
       "num": 200116,
       "word": "汤姆斯杯中国3比2韩国",
@@ -7863,6 +7959,14 @@
       "num": 389593,
       "word": "重庆燃气对有问题收费已全面清退",
       "onboard_time": 1714309819,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180547,
+      "num": 207632,
+      "word": "梅大高速塌方救援现场画面",
+      "onboard_time": 1714621518,
       "rank": 29,
       "category": "社会新闻"
     },
@@ -8555,6 +8659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163492,
+      "num": 163492,
+      "word": "穿开衫衣服好看的方法",
+      "onboard_time": 1714621458,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 163472,
       "num": 163472,
       "word": "恋爱不是用谈的而是用坠入",
@@ -8697,6 +8809,14 @@
       "onboard_time": 1714573339,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158942,
+      "num": 158942,
+      "word": "西安三步一个公主五步一个贵妃",
+      "onboard_time": 1714622658,
+      "rank": 37,
+      "category": "旅游"
     },
     {
       "raw_hot": 158906,
@@ -9097,6 +9217,14 @@
       "onboard_time": 1714296258,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152702,
+      "num": 152702,
+      "word": "赵露思甜品店",
+      "onboard_time": 1714622297,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 152540,
@@ -9547,6 +9675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146999,
+      "num": 146999,
+      "word": "县城旅游",
+      "onboard_time": 1714620737,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 146938,
       "num": 146938,
       "word": "院方回应董宇辉直播让游客在外等50分钟",
@@ -9585,6 +9721,14 @@
       "onboard_time": 1714469777,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146404,
+      "num": 146404,
+      "word": "美国涉俄新制裁对中国实体下手",
+      "onboard_time": 1714623498,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 146090,
@@ -9737,14 +9881,6 @@
       "onboard_time": 1714359258,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 143764,
-      "num": 143764,
-      "word": "县城旅游",
-      "onboard_time": 1714620737,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 143406,
@@ -9961,6 +10097,14 @@
       "onboard_time": 1714460900,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138394,
+      "num": 138394,
+      "word": "独行侠vs快船",
+      "onboard_time": 1714617438,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 137963,
@@ -10187,6 +10331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134064,
+      "num": 134064,
+      "word": "瞒着女友和她买了同一趟高铁",
+      "onboard_time": 1714621096,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133989,
       "num": 133989,
       "word": "为什么西安餐桌上没有餐巾纸",
@@ -10209,6 +10361,14 @@
       "onboard_time": 1714375997,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133968,
+      "num": 133968,
+      "word": "电影包场",
+      "onboard_time": 1714622177,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 133885,
@@ -10771,6 +10931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123597,
+      "num": 123597,
+      "word": "高考倒计时38天独立解出导数第三问",
+      "onboard_time": 1714623617,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123492,
       "num": 123492,
       "word": "小水獭独有的撒娇技巧",
@@ -11017,14 +11185,6 @@
       "onboard_time": 1714483698,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117702,
-      "num": 117702,
-      "word": "独行侠vs快船",
-      "onboard_time": 1714617438,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 117472,
@@ -11907,14 +12067,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 92719,
-      "num": 92080,
-      "word": "维和防暴队 删减",
-      "onboard_time": 1714620857,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 92679,
       "num": 92679,
       "word": "当洗澡后穿上你给的短裤",
@@ -12179,6 +12331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 72660,
+      "num": 265194,
+      "word": "美军一F16战机坠毁",
+      "onboard_time": 1714623138,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
       "raw_hot": 70691,
       "num": 70691,
       "word": "4类食物吃着不甜但升糖超快",
@@ -12233,6 +12393,14 @@
       "onboard_time": 1714601231,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63847,
+      "num": 537450,
+      "word": "中国高铁发动瞬间太震撼",
+      "onboard_time": 1714617017,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63724,
@@ -12899,6 +13067,9 @@
     },
     {
       "word": "#一切幸福都需要靠辛勤的劳动来创造#"
+    },
+    {
+      "word": "#你是大国工匠#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1714623685940,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1108571,
+        "num": 1108571,
+        "word": "大唐不夜城已被六国游客攻陷",
+        "onboard_time": 1714617677,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 949912,
+        "num": 949912,
+        "word": "梅大高速路面塌陷事故已致36人死亡",
+        "onboard_time": 1714611196,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13381,
+        "num": 774856,
+        "word": "文化中国行",
+        "onboard_time": 1713927617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655015,
+        "num": 655015,
+        "word": "北大居然偷偷出了这么多神器",
+        "onboard_time": 1714614137,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 598143,
+        "num": 598143,
+        "word": "维和防暴队 删减",
+        "onboard_time": 1714620857,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 564988,
+        "num": 564988,
+        "word": "梅大高速塌陷已发现23辆车陷落",
+        "onboard_time": 1714618877,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63847,
+        "num": 537450,
+        "word": "中国高铁发动瞬间太震撼",
+        "onboard_time": 1714617017,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532987,
+        "num": 532987,
+        "word": "对韩国的滤镜慢慢破碎了",
+        "onboard_time": 1714622059,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 530453,
+        "num": 530453,
+        "word": "周鸿祎回应迈巴赫中标者未付清余款",
+        "onboard_time": 1714617918,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 157152,
+        "num": 484027,
+        "word": "杭州西湖边再现最美人墙",
+        "onboard_time": 1714616538,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1142394,
+        "num": 482416,
+        "word": "IVE打歌将佩戴中国结",
+        "onboard_time": 1714621578,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 908644,
+        "num": 481297,
+        "word": "5000一晚的酒店薅走35瓶洗发水能回本吗",
+        "onboard_time": 1714621997,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477089,
+        "num": 477089,
+        "word": "他可是宝莲灯沉香",
+        "onboard_time": 1714618517,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471485,
+        "num": 471485,
+        "word": "杨幂业内口碑",
+        "onboard_time": 1714619298,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 397244,
+        "num": 397244,
+        "word": "1995年5月1日中国人开始双休",
+        "onboard_time": 1714616538,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332565,
+        "num": 332565,
+        "word": "曹骏古装",
+        "onboard_time": 1714616839,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282310,
+        "num": 282310,
+        "word": "美国一夫妻中奖13亿美元将与朋友平分",
+        "onboard_time": 1714615158,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270297,
+        "num": 270297,
+        "word": "林更新不敢和张雨绮十指紧扣",
+        "onboard_time": 1714622418,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265984,
+        "num": 265984,
+        "word": "受辱的闺女窝囊的爹",
+        "onboard_time": 1714621758,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72660,
+        "num": 265194,
+        "word": "美军一F16战机坠毁",
+        "onboard_time": 1714623138,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1145355,
+        "num": 264654,
+        "word": "赵露思被前员工背刺",
+        "onboard_time": 1714620438,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 792673,
+        "num": 263488,
+        "word": "张馨予何捷 云南",
+        "onboard_time": 1714617797,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259412,
+        "num": 262962,
+        "word": "淄博烧烤",
+        "onboard_time": 1714617738,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 590971,
+        "num": 262155,
+        "word": "罗西前女友爆料",
+        "onboard_time": 1714616178,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 325222,
+        "num": 261466,
+        "word": "王鸥工作室",
+        "onboard_time": 1714622897,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260790,
+        "num": 260790,
+        "word": "瑞幸9.9元活动再缩水",
+        "onboard_time": 1714605974,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 254074,
+        "num": 254074,
+        "word": "成毅王权富贵杀青",
+        "onboard_time": 1714622418,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229706,
+        "num": 229706,
+        "word": "上海飞香港一航班2次降落失败剧烈颠簸",
+        "onboard_time": 1714612517,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209131,
+        "num": 209131,
+        "word": "开始推理吧2开播",
+        "onboard_time": 1714621159,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180547,
+        "num": 207632,
+        "word": "梅大高速塌方救援现场画面",
+        "onboard_time": 1714621518,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207126,
+        "num": 207126,
+        "word": "宋亚轩被赵昭仪吓到摸心脏",
+        "onboard_time": 1714621096,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203882,
+        "num": 203882,
+        "word": "五一电影",
+        "onboard_time": 1714622897,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187739,
+        "num": 187739,
+        "word": "金秀贤金智媛幕后牵手",
+        "onboard_time": 1714621578,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181749,
+        "num": 181749,
+        "word": "周鸿祎 迈巴赫",
+        "onboard_time": 1714614256,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 179996,
+        "num": 179996,
+        "word": "男演员骗88人到柬埔寨进行电信诈骗",
+        "onboard_time": 1714605614,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174191,
+        "num": 174191,
+        "word": "五一假期的聪明人被气晕了",
+        "onboard_time": 1714616358,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163492,
+        "num": 163492,
+        "word": "穿开衫衣服好看的方法",
+        "onboard_time": 1714621458,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 158942,
+        "num": 158942,
+        "word": "西安三步一个公主五步一个贵妃",
+        "onboard_time": 1714622658,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 153927,
+        "num": 153927,
+        "word": "亚比囧囧囧",
+        "onboard_time": 1714619178,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152702,
+        "num": 152702,
+        "word": "赵露思甜品店",
+        "onboard_time": 1714622297,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146999,
+        "num": 146999,
+        "word": "县城旅游",
+        "onboard_time": 1714620737,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 146404,
+        "num": 146404,
+        "word": "美国涉俄新制裁对中国实体下手",
+        "onboard_time": 1714623498,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 138394,
+        "num": 138394,
+        "word": "独行侠vs快船",
+        "onboard_time": 1714617438,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134064,
+        "num": 134064,
+        "word": "瞒着女友和她买了同一趟高铁",
+        "onboard_time": 1714621096,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133968,
+        "num": 133968,
+        "word": "电影包场",
+        "onboard_time": 1714622177,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128062,
+        "num": 128062,
+        "word": "九龙城寨 港片回来了",
+        "onboard_time": 1714619657,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126368,
+        "num": 126368,
+        "word": "何炅客串了难哄",
+        "onboard_time": 1714605016,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123597,
+        "num": 123597,
+        "word": "高考倒计时38天独立解出导数第三问",
+        "onboard_time": 1714623617,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122236,
+        "num": 122236,
+        "word": "好想收养我的研究生朋友",
+        "onboard_time": 1714616417,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120061,
+        "num": 120061,
+        "word": "罗西",
+        "onboard_time": 1714613958,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#你是大国工匠#"
+    }
+  }
+}
