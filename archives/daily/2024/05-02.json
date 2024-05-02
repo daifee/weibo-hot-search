@@ -1,6 +1,6 @@
 {
   "startTime": 1714580547459,
-  "endTime": 1714624610847,
+  "endTime": 1714627153437,
   "band_list": [
     {
       "raw_hot": 3959503,
@@ -8,6 +8,14 @@
       "word": "梅大高速路面塌陷事故已致36人死亡",
       "onboard_time": 1714611196,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1338559,
+      "num": 698255,
+      "word": "5000一晚的酒店薅走35瓶洗发水能回本吗",
+      "onboard_time": 1714621997,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -19,16 +27,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1191460,
-      "num": 698255,
-      "word": "5000一晚的酒店薅走35瓶洗发水能回本吗",
-      "onboard_time": 1714621997,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1169371,
-      "num": 264654,
+      "num": 287857,
       "word": "赵露思被前员工背刺",
       "onboard_time": 1714620438,
       "rank": 23,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1110812,
-      "num": 263488,
+      "num": 266493,
       "word": "张馨予何捷 云南",
       "onboard_time": 1714617797,
       "rank": 20,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1097970,
-      "num": 262155,
+      "num": 275439,
       "word": "罗西前女友爆料",
       "onboard_time": 1714616178,
       "rank": 20,
@@ -89,6 +89,14 @@
       "onboard_time": 1714575499,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 989940,
+      "num": 445711,
+      "word": "罗西道歉",
+      "onboard_time": 1714625058,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 850934,
@@ -139,12 +147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 685954,
-      "num": 261466,
+      "raw_hot": 700535,
+      "num": 284363,
       "word": "王鸥工作室",
       "onboard_time": 1714622897,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 693178,
+      "num": 693178,
+      "word": "山东一公司4人窒息死亡事故调查报告",
+      "onboard_time": 1714624997,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 652103,
@@ -163,12 +179,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 630116,
+      "num": 630116,
+      "word": "本科硕士博士毕业论文的区别",
+      "onboard_time": 1714625599,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 629006,
       "num": 629006,
       "word": "日本小镇拉黑布遮挡富士山远景",
       "onboard_time": 1714573639,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 612363,
+      "num": 612363,
+      "word": "对韩国的滤镜慢慢破碎了",
+      "onboard_time": 1714622059,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 609889,
@@ -195,20 +227,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 587252,
-      "num": 587252,
-      "word": "对韩国的滤镜慢慢破碎了",
-      "onboard_time": 1714622059,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 566111,
       "num": 566111,
       "word": "济南一对夫妻失联近一个月",
       "onboard_time": 1714612517,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 538850,
+      "num": 434415,
+      "word": "王者荣耀时代少年团",
+      "onboard_time": 1714625718,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 517396,
@@ -259,12 +291,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 460399,
+      "num": 460399,
+      "word": "受辱的闺女窝囊的爹",
+      "onboard_time": 1714621758,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 441982,
       "num": 441982,
       "word": "大唐不夜城丢刀侍卫演我五一加班",
       "onboard_time": 1714605134,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 429721,
+      "num": 429721,
+      "word": "林更新不敢和张雨绮十指紧扣",
+      "onboard_time": 1714622418,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 429471,
@@ -305,14 +353,6 @@
       "onboard_time": 1714606755,
       "rank": 7,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 385719,
-      "num": 385719,
-      "word": "林更新不敢和张雨绮十指紧扣",
-      "onboard_time": 1714622418,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 381407,
@@ -427,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293490,
-      "num": 293490,
-      "word": "受辱的闺女窝囊的爹",
-      "onboard_time": 1714621758,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 294498,
+      "num": 294498,
+      "word": "不久后他身上就没烟味了",
+      "onboard_time": 1714625297,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 285241,
@@ -465,6 +505,14 @@
       "onboard_time": 1714568359,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259034,
+      "num": 259034,
+      "word": "迪丽热巴夹起来了",
+      "onboard_time": 1714626738,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 258386,
@@ -555,6 +603,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 205436,
+      "num": 205436,
+      "word": "西安三步一个公主五步一个贵妃",
+      "onboard_time": 1714622658,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 203921,
       "num": 203921,
       "word": "赵昭仪问张翰你是不是爱吃牛肉",
@@ -577,6 +633,14 @@
       "onboard_time": 1714611317,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201627,
+      "num": 201627,
+      "word": "周鸿祎迈巴赫买家承认遇到了问题",
+      "onboard_time": 1714625118,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 200569,
@@ -627,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187933,
+      "num": 187933,
+      "word": "宫崎骏 谢谢你画了哈尔的移动城堡",
+      "onboard_time": 1714625538,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187739,
       "num": 187739,
       "word": "金秀贤金智媛幕后牵手",
@@ -659,12 +731,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 180610,
-      "num": 180610,
-      "word": "西安三步一个公主五步一个贵妃",
-      "onboard_time": 1714622658,
-      "rank": 37,
-      "category": "旅游"
+      "raw_hot": 185230,
+      "num": 185230,
+      "word": "JDG官宣战马加入",
+      "onboard_time": 1714626559,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 180352,
@@ -691,6 +763,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 176928,
+      "num": 176928,
+      "word": "原来比死亡更可怕的是遗憾",
+      "onboard_time": 1714625718,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172198,
       "num": 172198,
       "word": "美联储",
@@ -705,6 +785,14 @@
       "onboard_time": 1714618396,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170490,
+      "num": 170490,
+      "word": "田小娟想要给其制作的是ITZY",
+      "onboard_time": 1714625898,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 169950,
@@ -747,6 +835,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 163861,
+      "num": 163861,
+      "word": "张韶涵",
+      "onboard_time": 1714626678,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163855,
       "num": 163855,
       "word": "驾驶室探出1只狗吓得后车司机报警",
@@ -785,6 +881,14 @@
       "onboard_time": 1714620737,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 161680,
+      "num": 161680,
+      "word": "全力做好现场救援伤员救治",
+      "onboard_time": 1714625778,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158083,
@@ -857,6 +961,22 @@
       "onboard_time": 1714605016,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148382,
+      "num": 148382,
+      "word": "独行侠3比2快船",
+      "onboard_time": 1714624818,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144244,
+      "num": 144244,
+      "word": "时代少年团好望角海报是P的",
+      "onboard_time": 1714625058,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 140920,
@@ -969,6 +1089,14 @@
       "onboard_time": 1714577958,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128073,
+      "num": 128073,
+      "word": "哈登表现",
+      "onboard_time": 1714625477,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 125327,
@@ -1411,7 +1539,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13381,
+      "raw_hot": 13400,
       "num": 1003223,
       "word": "文化中国行",
       "onboard_time": 1713927617,

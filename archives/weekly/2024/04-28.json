@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714624610847,
+  "endTime": 1714627153437,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1338559,
+      "num": 698255,
+      "word": "5000一晚的酒店薅走35瓶洗发水能回本吗",
+      "onboard_time": 1714621997,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1336139,
       "num": 1336139,
       "word": "五一假期是捅了人窝吧",
@@ -523,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1191460,
-      "num": 698255,
-      "word": "5000一晚的酒店薅走35瓶洗发水能回本吗",
-      "onboard_time": 1714621997,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1190893,
       "num": 261361,
       "word": "月经乱来16年竟查出癌前病变",
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 1169371,
-      "num": 264654,
+      "num": 287857,
       "word": "赵露思被前员工背刺",
       "onboard_time": 1714620438,
       "rank": 23,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 1110812,
-      "num": 263488,
+      "num": 266493,
       "word": "张馨予何捷 云南",
       "onboard_time": 1714617797,
       "rank": 20,
@@ -676,7 +676,7 @@
     },
     {
       "raw_hot": 1097970,
-      "num": 262155,
+      "num": 275439,
       "word": "罗西前女友爆料",
       "onboard_time": 1714616178,
       "rank": 20,
@@ -873,6 +873,14 @@
       "onboard_time": 1714533016,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 989940,
+      "num": 445711,
+      "word": "罗西道歉",
+      "onboard_time": 1714625058,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 983077,
@@ -1547,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 700535,
+      "num": 284363,
+      "word": "王鸥工作室",
+      "onboard_time": 1714622897,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 699676,
       "num": 252184,
       "word": "从胃病到胃癌的报警症状",
@@ -1603,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 693178,
+      "num": 693178,
+      "word": "山东一公司4人窒息死亡事故调查报告",
+      "onboard_time": 1714624997,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 693153,
       "num": 693153,
       "word": "洁丽雅董事长谈儿子拍短剧出圈",
@@ -1641,14 +1665,6 @@
       "onboard_time": 1714406239,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 685954,
-      "num": 261466,
-      "word": "王鸥工作室",
-      "onboard_time": 1714622897,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 684718,
@@ -1907,6 +1923,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 630116,
+      "num": 630116,
+      "word": "本科硕士博士毕业论文的区别",
+      "onboard_time": 1714625599,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 629623,
       "num": 629623,
       "word": "周鸿祎拍卖迈巴赫",
@@ -1985,6 +2009,14 @@
       "onboard_time": 1714299437,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 612363,
+      "num": 612363,
+      "word": "对韩国的滤镜慢慢破碎了",
+      "onboard_time": 1714622059,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 610934,
@@ -2121,14 +2153,6 @@
       "onboard_time": 1714312218,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 587252,
-      "num": 587252,
-      "word": "对韩国的滤镜慢慢破碎了",
-      "onboard_time": 1714622059,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 579830,
@@ -2289,6 +2313,14 @@
       "onboard_time": 1714547417,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 538850,
+      "num": 434415,
+      "word": "王者荣耀时代少年团",
+      "onboard_time": 1714625718,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 537311,
@@ -2891,6 +2923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 460399,
+      "num": 460399,
+      "word": "受辱的闺女窝囊的爹",
+      "onboard_time": 1714621758,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 459468,
       "num": 254184,
       "word": "五一1500元机票跳水至400",
@@ -3089,6 +3129,14 @@
       "onboard_time": 1714565959,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 429721,
+      "num": 429721,
+      "word": "林更新不敢和张雨绮十指紧扣",
+      "onboard_time": 1714622418,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 429021,
@@ -3481,14 +3529,6 @@
       "onboard_time": 1714206618,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 385719,
-      "num": 385719,
-      "word": "林更新不敢和张雨绮十指紧扣",
-      "onboard_time": 1714622418,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 384994,
@@ -4547,20 +4587,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 294498,
+      "num": 294498,
+      "word": "不久后他身上就没烟味了",
+      "onboard_time": 1714625297,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 293518,
       "num": 293518,
       "word": "久坐1小时肌肉就开始出现结节",
       "onboard_time": 1714270038,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 293490,
-      "num": 293490,
-      "word": "受辱的闺女窝囊的爹",
-      "onboard_time": 1714621758,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 292690,
@@ -5065,6 +5105,14 @@
       "onboard_time": 1714480639,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259034,
+      "num": 259034,
+      "word": "迪丽热巴夹起来了",
+      "onboard_time": 1714626738,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 258386,
@@ -6499,6 +6547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205436,
+      "num": 205436,
+      "word": "西安三步一个公主五步一个贵妃",
+      "onboard_time": 1714622658,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 205393,
       "num": 205393,
       "word": "SEVENTEEN发布会",
@@ -6713,6 +6769,14 @@
       "onboard_time": 1714302497,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201627,
+      "num": 201627,
+      "word": "周鸿祎迈巴赫买家承认遇到了问题",
+      "onboard_time": 1714625118,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 201563,
@@ -7563,6 +7627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187933,
+      "num": 187933,
+      "word": "宫崎骏 谢谢你画了哈尔的移动城堡",
+      "onboard_time": 1714625538,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187911,
       "num": 187911,
       "word": "景区路边摊的臭豆腐到底有多脏",
@@ -7727,6 +7799,14 @@
       "num": 185419,
       "word": "第十一周最佳选手流浪",
       "onboard_time": 1714453459,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 185230,
+      "num": 185230,
+      "word": "JDG官宣战马加入",
+      "onboard_time": 1714626559,
       "rank": 33,
       "category": "电竞"
     },
@@ -7995,14 +8075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180610,
-      "num": 180610,
-      "word": "西安三步一个公主五步一个贵妃",
-      "onboard_time": 1714622658,
-      "rank": 37,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 180438,
       "num": 180438,
       "word": "星穹铁道演唱会直播",
@@ -8129,6 +8201,14 @@
       "onboard_time": 1714238953,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 176928,
+      "num": 176928,
+      "word": "原来比死亡更可怕的是遗憾",
+      "onboard_time": 1714625718,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 176828,
@@ -8401,6 +8481,14 @@
       "onboard_time": 1714314681,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170490,
+      "num": 170490,
+      "word": "田小娟想要给其制作的是ITZY",
+      "onboard_time": 1714625898,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 170317,
@@ -8683,6 +8771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163861,
+      "num": 163861,
+      "word": "张韶涵",
+      "onboard_time": 1714626678,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163855,
       "num": 163855,
       "word": "驾驶室探出1只狗吓得后车司机报警",
@@ -8769,6 +8865,14 @@
       "onboard_time": 1714620737,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 161680,
+      "num": 161680,
+      "word": "全力做好现场救援伤员救治",
+      "onboard_time": 1714625778,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161484,
@@ -9595,6 +9699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148382,
+      "num": 148382,
+      "word": "独行侠3比2快船",
+      "onboard_time": 1714624818,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148260,
       "num": 148260,
       "word": "Jennie去了seventeen演唱会",
@@ -9897,6 +10009,14 @@
       "onboard_time": 1714449739,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144244,
+      "num": 144244,
+      "word": "时代少年团好望角海报是P的",
+      "onboard_time": 1714625058,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 144226,
@@ -10824,6 +10944,14 @@
       "word": "曼联vs伯恩利",
       "onboard_time": 1714233740,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128073,
+      "num": 128073,
+      "word": "哈登表现",
+      "onboard_time": 1714625477,
+      "rank": 46,
       "category": "体育"
     },
     {
