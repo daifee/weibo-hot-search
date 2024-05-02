@@ -1,6 +1,6 @@
 {
   "startTime": 1714666942242,
-  "endTime": 1714674941021,
+  "endTime": 1714677265633,
   "band_list": [
     {
       "raw_hot": 1841073,
@@ -33,6 +33,14 @@
       "onboard_time": 1714656380,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 764298,
+      "num": 764298,
+      "word": "河南大学",
+      "onboard_time": 1714675092,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 621744,
@@ -195,6 +203,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 174277,
+      "num": 82238,
+      "word": "朱珠方发文谴责倒卖门票商品行为",
+      "onboard_time": 1714673592,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162774,
       "num": 198015,
       "word": "昆明蓝莓12元1盒震惊外地游客",
@@ -241,14 +257,6 @@
       "onboard_time": 1714663399,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123692,
-      "num": 82238,
-      "word": "朱珠方发文谴责倒卖门票商品行为",
-      "onboard_time": 1714673592,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 117481,
@@ -481,6 +489,14 @@
       "onboard_time": 1714654999,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20606,
+      "num": 21870,
+      "word": "WTT沙特大满贯2024",
+      "onboard_time": 1714659321,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

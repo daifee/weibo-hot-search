@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714674941021,
+  "endTime": 1714677265633,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -1561,6 +1561,14 @@
       "onboard_time": 1714229960,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 764298,
+      "num": 764298,
+      "word": "河南大学",
+      "onboard_time": 1714675092,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 759116,
@@ -9307,6 +9315,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 174277,
+      "num": 82238,
+      "word": "朱珠方发文谴责倒卖门票商品行为",
+      "onboard_time": 1714673592,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174231,
       "num": 157224,
       "word": "张栋梁郑合惠子落选",
@@ -12441,14 +12457,6 @@
       "onboard_time": 1714559239,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 123692,
-      "num": 82238,
-      "word": "朱珠方发文谴责倒卖门票商品行为",
-      "onboard_time": 1714673592,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 123492,

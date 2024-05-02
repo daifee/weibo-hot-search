@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714674941021,
+  "endTime": 1714677265633,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -537,6 +537,14 @@
       "onboard_time": 1714615158,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 764298,
+      "num": 764298,
+      "word": "河南大学",
+      "onboard_time": 1714675092,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 757551,
@@ -3403,6 +3411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174277,
+      "num": 82238,
+      "word": "朱珠方发文谴责倒卖门票商品行为",
+      "onboard_time": 1714673592,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174179,
       "num": 174179,
       "word": "特斯拉裁撤整个超级充电团队",
@@ -4785,14 +4801,6 @@
       "onboard_time": 1714559239,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 123692,
-      "num": 82238,
-      "word": "朱珠方发文谴责倒卖门票商品行为",
-      "onboard_time": 1714673592,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 123455,
