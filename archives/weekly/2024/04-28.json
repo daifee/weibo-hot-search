@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714646124179,
+  "endTime": 1714648518396,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 1570978,
-      "num": 255030,
+      "num": 284503,
       "word": "老公一个月四千多养活我们一家三口",
       "onboard_time": 1714639518,
       "rank": 20,
@@ -1531,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 728177,
+      "num": 278452,
+      "word": "Tiffany被年轻人抛弃了吗",
+      "onboard_time": 1714645937,
+      "rank": 30,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 728098,
       "num": 374283,
       "word": "日元暴跌日本游客赴美时扛大米",
@@ -1803,20 +1811,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 680872,
+      "num": 675988,
+      "word": "刘涛秦岚吵架 破碎的是赵昭仪",
+      "onboard_time": 1714635557,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 676884,
       "num": 676884,
       "word": "电视剧人鱼官宣开机",
       "onboard_time": 1714448357,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 675988,
-      "num": 675988,
-      "word": "刘涛秦岚吵架 破碎的是赵昭仪",
-      "onboard_time": 1714635557,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 674648,
@@ -2763,6 +2771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 491090,
+      "num": 491090,
+      "word": "肖战乔振宇藏海传路透",
+      "onboard_time": 1714646358,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 489377,
       "num": 489377,
       "word": "巴以冲突",
@@ -3027,6 +3043,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 464535,
+      "num": 464535,
+      "word": "间谍过家家约尔暴打黄昏",
+      "onboard_time": 1714643177,
+      "rank": 16,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 464450,
       "num": 464450,
       "word": "罗西",
@@ -3121,14 +3145,6 @@
       "onboard_time": 1714226239,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 457507,
-      "num": 457507,
-      "word": "间谍过家家约尔暴打黄昏",
-      "onboard_time": 1714643177,
-      "rank": 16,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 456537,
@@ -3315,6 +3331,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 434463,
+      "num": 380395,
+      "word": "泫雅 回春",
+      "onboard_time": 1714644978,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 433299,
       "num": 433299,
       "word": "IVE空降",
@@ -3433,6 +3457,14 @@
       "onboard_time": 1714316840,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 417331,
+      "num": 417331,
+      "word": "赵一博妆造",
+      "onboard_time": 1714645877,
+      "rank": 29,
+      "category": "综艺,美妆"
     },
     {
       "raw_hot": 416926,
@@ -3787,14 +3819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 380395,
-      "num": 380395,
-      "word": "泫雅 回春",
-      "onboard_time": 1714644978,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 380153,
       "num": 345075,
       "word": "林更新苗苗同框",
@@ -4025,6 +4049,14 @@
       "onboard_time": 1714444338,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359232,
+      "num": 359232,
+      "word": "ILLIT翻跳NewJeans舞蹈",
+      "onboard_time": 1714647138,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 358842,
@@ -5587,6 +5619,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 249063,
+      "num": 249063,
+      "word": "指甲卖钱",
+      "onboard_time": 1714646657,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248939,
       "num": 248939,
       "word": "疑似情感纠纷女子带人冲进办公室殴打女员工",
@@ -6011,6 +6051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233950,
+      "num": 233950,
+      "word": "窦靖童 菲里菲气的美",
+      "onboard_time": 1714646478,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 233522,
       "num": 233522,
       "word": "王一博骑摩托去接受采访",
@@ -6147,6 +6195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228076,
+      "num": 228076,
+      "word": "外交部回应美国务卿涉台声明",
+      "onboard_time": 1714646776,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 227767,
       "num": 227767,
       "word": "明日方舟活动",
@@ -6193,6 +6249,14 @@
       "onboard_time": 1714623498,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 225383,
+      "num": 225383,
+      "word": "明明不开车为啥还被称为副驾驶",
+      "onboard_time": 1714646058,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 224032,
@@ -8099,14 +8163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186865,
-      "num": 173382,
-      "word": "Tiffany被年轻人抛弃了吗",
-      "onboard_time": 1714645937,
-      "rank": 30,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 186721,
       "num": 186721,
       "word": "陈丽君陈昊宇cp",
@@ -8200,6 +8256,14 @@
       "word": "第十一周最佳选手流浪",
       "onboard_time": 1714453459,
       "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 185334,
+      "num": 185334,
+      "word": "TE对战MRC",
+      "onboard_time": 1714648218,
+      "rank": 30,
       "category": "电竞"
     },
     {
@@ -8499,6 +8563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 180174,
+      "num": 180174,
+      "word": "TES开启MSI首战",
+      "onboard_time": 1714647618,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180003,
       "num": 180003,
       "word": "光与夜之恋",
@@ -8699,6 +8771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175149,
+      "num": 499250,
+      "word": "女童溺水被救全家上门磕头跪谢恩人",
+      "onboard_time": 1714643478,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174934,
       "num": 174934,
       "word": "鞠婧祎薄荷曼波妆",
@@ -8753,14 +8833,6 @@
       "onboard_time": 1714560079,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 174152,
-      "num": 174152,
-      "word": "赵一博妆造",
-      "onboard_time": 1714645877,
-      "rank": 29,
-      "category": "综艺,美妆"
     },
     {
       "raw_hot": 173844,
@@ -9763,14 +9835,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 155131,
-      "num": 499250,
-      "word": "女童溺水被救全家上门磕头跪谢恩人",
-      "onboard_time": 1714643478,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155022,
       "num": 155022,
       "word": "闺蜜的聊天记录是顶级机密",
@@ -10569,6 +10633,14 @@
       "onboard_time": 1714465277,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144355,
+      "num": 144355,
+      "word": "音乐节票价",
+      "onboard_time": 1714647918,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 144342,
@@ -11739,6 +11811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124505,
+      "num": 124505,
+      "word": "奔跑吧明晚尖叫连连",
+      "onboard_time": 1714648277,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124145,
       "num": 124145,
       "word": "因为布置工位被领导约谈了",
@@ -12267,6 +12347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113067,
+      "num": 113067,
+      "word": "石宇奇铁血逆转",
+      "onboard_time": 1714646178,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112882,
       "num": 112882,
       "word": "乌云其木格同志逝世",
@@ -12611,6 +12699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106551,
+      "num": 106551,
+      "word": "德牧用耳朵撩小奶猫",
+      "onboard_time": 1714646478,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106098,
       "num": 106098,
       "word": "12岁萌娃准备的家长会零食太炸裂",
@@ -12939,14 +13035,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 94877,
-      "num": 112161,
-      "word": "明明不开车为啥还被称为副驾驶",
-      "onboard_time": 1714646058,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 94433,
       "num": 94433,
       "word": "广东最大的水库开闸泄洪",
@@ -13201,6 +13289,14 @@
       "onboard_time": 1714599731,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 75682,
+      "num": 101268,
+      "word": "男子闯女厕索要微信发淫秽信息被拘",
+      "onboard_time": 1714647499,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75451,
@@ -13697,6 +13793,14 @@
       "onboard_time": 1714387038,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 33538,
+      "num": 413186,
+      "word": "五一假期簪花小姐姐齐聚起凤桥",
+      "onboard_time": 1714648037,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32408,

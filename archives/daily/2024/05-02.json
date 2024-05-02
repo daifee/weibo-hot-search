@@ -1,6 +1,6 @@
 {
   "startTime": 1714580547459,
-  "endTime": 1714646124179,
+  "endTime": 1714648518396,
   "band_list": [
     {
       "raw_hot": 7156334,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1570978,
-      "num": 255030,
+      "num": 284503,
       "word": "老公一个月四千多养活我们一家三口",
       "onboard_time": 1714639518,
       "rank": 20,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 728177,
+      "num": 278452,
+      "word": "Tiffany被年轻人抛弃了吗",
+      "onboard_time": 1714645937,
+      "rank": 30,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 724564,
       "num": 724564,
       "word": "上海飞香港一航班2次降落失败剧烈颠簸",
@@ -251,7 +259,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 675988,
+      "raw_hot": 680872,
       "num": 675988,
       "word": "刘涛秦岚吵架 破碎的是赵昭仪",
       "onboard_time": 1714635557,
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491090,
+      "num": 491090,
+      "word": "肖战乔振宇藏海传路透",
+      "onboard_time": 1714646358,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 480999,
       "num": 473734,
       "word": "专家称梅大高速坍塌前或有征兆",
@@ -443,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 464535,
+      "num": 464535,
+      "word": "间谍过家家约尔暴打黄昏",
+      "onboard_time": 1714643177,
+      "rank": 16,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 464450,
       "num": 464450,
       "word": "罗西",
@@ -465,14 +489,6 @@
       "onboard_time": 1714621758,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 457507,
-      "num": 457507,
-      "word": "间谍过家家约尔暴打黄昏",
-      "onboard_time": 1714643177,
-      "rank": 16,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 449861,
@@ -507,6 +523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 434463,
+      "num": 380395,
+      "word": "泫雅 回春",
+      "onboard_time": 1714644978,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 429471,
       "num": 322039,
       "word": "买房千万不要买挨着公园的",
@@ -521,6 +545,14 @@
       "onboard_time": 1714568718,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417331,
+      "num": 417331,
+      "word": "赵一博妆造",
+      "onboard_time": 1714645877,
+      "rank": 29,
+      "category": "综艺,美妆"
     },
     {
       "raw_hot": 415187,
@@ -587,14 +619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 380395,
-      "num": 380395,
-      "word": "泫雅 回春",
-      "onboard_time": 1714644978,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 370228,
       "num": 306636,
       "word": "梅大高速塌陷已致24人死亡",
@@ -633,6 +657,14 @@
       "onboard_time": 1714631357,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 359232,
+      "num": 359232,
+      "word": "ILLIT翻跳NewJeans舞蹈",
+      "onboard_time": 1714647138,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 358620,
@@ -803,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249063,
+      "num": 249063,
+      "word": "指甲卖钱",
+      "onboard_time": 1714646657,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248135,
       "num": 248135,
       "word": "李振豪",
@@ -859,12 +899,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233950,
+      "num": 233950,
+      "word": "窦靖童 菲里菲气的美",
+      "onboard_time": 1714646478,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 228076,
+      "num": 228076,
+      "word": "外交部回应美国务卿涉台声明",
+      "onboard_time": 1714646776,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 225669,
       "num": 225669,
       "word": "美国涉俄新制裁对中国实体下手",
       "onboard_time": 1714623498,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 225383,
+      "num": 225383,
+      "word": "明明不开车为啥还被称为副驾驶",
+      "onboard_time": 1714646058,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 213619,
@@ -1107,14 +1171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186865,
-      "num": 173382,
-      "word": "Tiffany被年轻人抛弃了吗",
-      "onboard_time": 1714645937,
-      "rank": 30,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 185833,
       "num": 521808,
       "word": "杭州西湖边再现最美人墙",
@@ -1139,6 +1195,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 185334,
+      "num": 185334,
+      "word": "TE对战MRC",
+      "onboard_time": 1714648218,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185230,
       "num": 185230,
       "word": "JDG官宣战马加入",
@@ -1153,6 +1217,14 @@
       "onboard_time": 1714618758,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180174,
+      "num": 180174,
+      "word": "TES开启MSI首战",
+      "onboard_time": 1714647618,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 179337,
@@ -1203,20 +1275,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175149,
+      "num": 499250,
+      "word": "女童溺水被救全家上门磕头跪谢恩人",
+      "onboard_time": 1714643478,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174601,
       "num": 174601,
       "word": "包包有拉链真的太重要了",
       "onboard_time": 1714632378,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 174152,
-      "num": 174152,
-      "word": "赵一博妆造",
-      "onboard_time": 1714645877,
-      "rank": 29,
-      "category": "综艺,美妆"
     },
     {
       "raw_hot": 173253,
@@ -1443,14 +1515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155131,
-      "num": 499250,
-      "word": "女童溺水被救全家上门磕头跪谢恩人",
-      "onboard_time": 1714643478,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154803,
       "num": 154803,
       "word": "薛之谦演唱会drama",
@@ -1577,6 +1641,14 @@
       "onboard_time": 1714638918,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144355,
+      "num": 144355,
+      "word": "音乐节票价",
+      "onboard_time": 1714647918,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 144244,
@@ -1803,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124505,
+      "num": 124505,
+      "word": "奔跑吧明晚尖叫连连",
+      "onboard_time": 1714648277,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121212,
       "num": 121212,
       "word": "五一淄博烧烤商战再升级",
@@ -1875,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113067,
+      "num": 113067,
+      "word": "石宇奇铁血逆转",
+      "onboard_time": 1714646178,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112460,
       "num": 112460,
       "word": "马龙林高远适应场地训练",
@@ -1937,6 +2025,14 @@
       "onboard_time": 1714575860,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106551,
+      "num": 106551,
+      "word": "德牧用耳朵撩小奶猫",
+      "onboard_time": 1714646478,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 106082,
@@ -2075,14 +2171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94877,
-      "num": 112161,
-      "word": "明明不开车为啥还被称为副驾驶",
-      "onboard_time": 1714646058,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 94277,
       "num": 94277,
       "word": "自闭症孩子的99岁老师说要尊重孩子",
@@ -2169,6 +2257,14 @@
       "onboard_time": 1714599731,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 75682,
+      "num": 101268,
+      "word": "男子闯女厕索要微信发淫秽信息被拘",
+      "onboard_time": 1714647499,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72588,
@@ -2289,6 +2385,14 @@
       "onboard_time": 1714588812,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 33538,
+      "num": 413186,
+      "word": "五一假期簪花小姐姐齐聚起凤桥",
+      "onboard_time": 1714648037,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25495,
