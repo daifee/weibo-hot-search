@@ -1,6 +1,6 @@
 {
   "startTime": 1714580547459,
-  "endTime": 1714659421002,
+  "endTime": 1714660505148,
   "band_list": [
     {
       "raw_hot": 7156334,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2486333,
-      "num": 480424,
+      "num": 484005,
       "word": "郭晋安离婚",
       "onboard_time": 1714656380,
       "rank": 21,
@@ -371,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 639815,
+      "num": 559962,
+      "word": "IVE能不能把中国结摘下来",
+      "onboard_time": 1714655599,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 637733,
       "num": 637733,
       "word": "美国又一黑人男子遭警察跪压后身亡",
@@ -425,6 +433,14 @@
       "onboard_time": 1714616839,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 570540,
+      "num": 570540,
+      "word": "据说每个城市都来了1亿人",
+      "onboard_time": 1714657519,
+      "rank": 13,
+      "category": "旅游"
     },
     {
       "raw_hot": 566111,
@@ -499,11 +515,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 491710,
-      "num": 491710,
-      "word": "IVE能不能把中国结摘下来",
-      "onboard_time": 1714655599,
-      "rank": 46,
+      "raw_hot": 492563,
+      "num": 477026,
+      "word": "网友晒299元买朱珠价值5千二手包",
+      "onboard_time": 1714653258,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -547,12 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 472207,
-      "num": 472207,
-      "word": "据说每个城市都来了1亿人",
-      "onboard_time": 1714657519,
+      "raw_hot": 475957,
+      "num": 475957,
+      "word": "郭晋安欧倩怡 共用微博",
+      "onboard_time": 1714659561,
       "rank": 13,
-      "category": "旅游"
+      "category": "艺人"
     },
     {
       "raw_hot": 471485,
@@ -595,14 +611,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 464014,
-      "num": 292178,
-      "word": "网友晒299元买朱珠价值5千二手包",
-      "onboard_time": 1714653258,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 462389,
       "num": 245642,
       "word": "徐艺洋管狗狗叫黄子韬",
@@ -625,6 +633,14 @@
       "onboard_time": 1714626738,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 449512,
+      "num": 449512,
+      "word": "魏晨南京",
+      "onboard_time": 1714656021,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 445750,
@@ -713,14 +729,6 @@
       "onboard_time": 1714642277,
       "rank": 40,
       "category": "艺人,运动健身"
-    },
-    {
-      "raw_hot": 403120,
-      "num": 403120,
-      "word": "魏晨南京",
-      "onboard_time": 1714656021,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 401775,
@@ -841,6 +849,14 @@
       "onboard_time": 1714631838,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 343314,
+      "num": 272320,
+      "word": "梅大高速塌方",
+      "onboard_time": 1714659859,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339604,
@@ -1035,6 +1051,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248785,
+      "num": 248785,
+      "word": "WTT沙特大满贯2024",
+      "onboard_time": 1714659321,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 248434,
+      "num": 248434,
+      "word": "古灵精探",
+      "onboard_time": 1714659020,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248135,
       "num": 248135,
       "word": "李振豪",
@@ -1139,12 +1171,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 223865,
+      "num": 223865,
+      "word": "维和防暴队",
+      "onboard_time": 1714659741,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219715,
       "num": 219715,
       "word": "种地吧",
       "onboard_time": 1714652059,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218561,
+      "num": 218561,
+      "word": "拜登声称中俄印日经济停滞是因排外",
+      "onboard_time": 1714655538,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 216331,
@@ -1169,14 +1217,6 @@
       "onboard_time": 1714642037,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210973,
-      "num": 210973,
-      "word": "拜登声称中俄印日经济停滞是因排外",
-      "onboard_time": 1714655538,
-      "rank": 44,
-      "category": "国外时政"
     },
     {
       "raw_hot": 210384,
@@ -1217,6 +1257,14 @@
       "onboard_time": 1714623978,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 207054,
+      "num": 207054,
+      "word": "时代少年团重庆",
+      "onboard_time": 1714660340,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 205758,
@@ -1281,6 +1329,14 @@
       "onboard_time": 1714625118,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 201448,
+      "num": 201448,
+      "word": "刘雨昕 贵阳",
+      "onboard_time": 1714659859,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 200753,
@@ -1579,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175091,
+      "num": 175091,
+      "word": "成毅开个窗吧",
+      "onboard_time": 1714659980,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174601,
       "num": 174601,
       "word": "包包有拉链真的太重要了",
@@ -1611,12 +1675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171299,
+      "num": 171299,
+      "word": "赵露思与好友同游首尔",
+      "onboard_time": 1714659441,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171131,
       "num": 171131,
       "word": "黄誉博直播",
       "onboard_time": 1714629978,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170796,
+      "num": 170796,
+      "word": "爸爸妈妈好像把我当小猫养了",
+      "onboard_time": 1714659919,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 170490,
@@ -1723,14 +1803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163618,
-      "num": 163618,
-      "word": "古灵精探",
-      "onboard_time": 1714659020,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163492,
       "num": 163492,
       "word": "穿开衫衣服好看的方法",
@@ -1795,6 +1867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159851,
+      "num": 159851,
+      "word": "五一档新片票房破9亿",
+      "onboard_time": 1714660221,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158180,
       "num": 158180,
       "word": "五月天香港演唱会延期补偿方案",
@@ -1851,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154613,
+      "num": 154613,
+      "word": "观音桥网红天桥因人流火爆而限流",
+      "onboard_time": 1714660340,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154206,
       "num": 154206,
       "word": "郭潇雨蔡文静聊天记录",
@@ -1897,14 +1985,6 @@
       "onboard_time": 1714631357,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151476,
-      "num": 151476,
-      "word": "WTT沙特大满贯2024",
-      "onboard_time": 1714659321,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 150885,

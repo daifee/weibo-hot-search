@@ -1,0 +1,410 @@
+{
+  "runTime": 1714660505148,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 752092,
+        "num": 752092,
+        "word": "马小跳 跳伞",
+        "onboard_time": 1714648577,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 667571,
+        "num": 667571,
+        "word": "Tiffany被年轻人抛弃了吗",
+        "onboard_time": 1714645937,
+        "rank": 1,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 76347,
+        "num": 592698,
+        "word": "2分钟回顾神十七187天",
+        "onboard_time": 1714655659,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1913557,
+        "num": 583998,
+        "word": "梅大高速塌方一家五口确认遇难",
+        "onboard_time": 1714654759,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782106,
+        "num": 579217,
+        "word": "韩国教授为IVE国风争议发声",
+        "onboard_time": 1714654457,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 570540,
+        "num": 570540,
+        "word": "据说每个城市都来了1亿人",
+        "onboard_time": 1714657519,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 639815,
+        "num": 559962,
+        "word": "IVE能不能把中国结摘下来",
+        "onboard_time": 1714655599,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 507107,
+        "num": 507107,
+        "word": "美国又一黑人男子遭警察跪压后身亡",
+        "onboard_time": 1714654759,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490552,
+        "num": 490552,
+        "word": "山西恒山景区发生落石事件致1死5伤",
+        "onboard_time": 1714655659,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117266,
+        "num": 487330,
+        "word": "女童溺水被救全家上门磕头跪谢恩人",
+        "onboard_time": 1714643478,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2176123,
+        "num": 484005,
+        "word": "郭晋安离婚",
+        "onboard_time": 1714656380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 836904,
+        "num": 482489,
+        "word": "梅大高速塌方已致48人死亡",
+        "onboard_time": 1714635678,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492563,
+        "num": 477026,
+        "word": "网友晒299元买朱珠价值5千二手包",
+        "onboard_time": 1714653258,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475957,
+        "num": 475957,
+        "word": "郭晋安欧倩怡 共用微博",
+        "onboard_time": 1714659561,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449512,
+        "num": 449512,
+        "word": "魏晨南京",
+        "onboard_time": 1714656021,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 434052,
+        "num": 434052,
+        "word": "昆明蓝莓12元1盒震惊外地游客",
+        "onboard_time": 1714652059,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409282,
+        "num": 409282,
+        "word": "胖猫",
+        "onboard_time": 1714653859,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 396053,
+        "num": 396053,
+        "word": "罗西 临界十缨",
+        "onboard_time": 1714642097,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 293820,
+        "num": 293820,
+        "word": "西湖醋鱼",
+        "onboard_time": 1714651218,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 278586,
+        "num": 278586,
+        "word": "公共场所有多脏",
+        "onboard_time": 1714650619,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 747526,
+        "num": 276783,
+        "word": "老公一个月四千多养活我们一家三口",
+        "onboard_time": 1714639518,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343314,
+        "num": 272320,
+        "word": "梅大高速塌方",
+        "onboard_time": 1714659859,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338266,
+        "num": 265990,
+        "word": "张子枫哭出了漫画里才有的泪眼",
+        "onboard_time": 1714641439,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299711,
+        "num": 260148,
+        "word": "成龙回应满头白发",
+        "onboard_time": 1714653558,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259106,
+        "num": 259106,
+        "word": "今年五一没人结婚吗",
+        "onboard_time": 1714632616,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248785,
+        "num": 248785,
+        "word": "WTT沙特大满贯2024",
+        "onboard_time": 1714659321,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248434,
+        "num": 248434,
+        "word": "古灵精探",
+        "onboard_time": 1714659020,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229229,
+        "num": 229229,
+        "word": "WTT",
+        "onboard_time": 1714654819,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223865,
+        "num": 223865,
+        "word": "维和防暴队",
+        "onboard_time": 1714659741,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222685,
+        "num": 222685,
+        "word": "薛之谦给王俊凯电影点想看",
+        "onboard_time": 1714656619,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218561,
+        "num": 218561,
+        "word": "拜登声称中俄印日经济停滞是因排外",
+        "onboard_time": 1714655538,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 207054,
+        "num": 207054,
+        "word": "时代少年团重庆",
+        "onboard_time": 1714660340,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206817,
+        "num": 206817,
+        "word": "郭晋安 欧倩怡",
+        "onboard_time": 1714657941,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206010,
+        "num": 206010,
+        "word": "国务院安委会办公室印发紧急通知",
+        "onboard_time": 1714642336,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204466,
+        "num": 204466,
+        "word": "室友一年要五个生日礼物",
+        "onboard_time": 1714651757,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201448,
+        "num": 201448,
+        "word": "刘雨昕 贵阳",
+        "onboard_time": 1714659859,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187061,
+        "num": 187061,
+        "word": "周深录奔跑吧哭了",
+        "onboard_time": 1714653498,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185195,
+        "num": 185195,
+        "word": "YOASOBI音乐节",
+        "onboard_time": 1714657941,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184974,
+        "num": 184974,
+        "word": "Tiffany玄学",
+        "onboard_time": 1714652417,
+        "rank": 38,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 175091,
+        "num": 175091,
+        "word": "成毅开个窗吧",
+        "onboard_time": 1714659980,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173102,
+        "num": 173102,
+        "word": "黄子韬抓住徐艺洋的手",
+        "onboard_time": 1714638201,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173074,
+        "num": 173074,
+        "word": "肖战乔振宇藏海传路透",
+        "onboard_time": 1714646358,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171734,
+        "num": 171734,
+        "word": "反向旅游",
+        "onboard_time": 1714655238,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 171299,
+        "num": 171299,
+        "word": "赵露思与好友同游首尔",
+        "onboard_time": 1714659441,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170796,
+        "num": 170796,
+        "word": "爸爸妈妈好像把我当小猫养了",
+        "onboard_time": 1714659919,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168073,
+        "num": 168073,
+        "word": "刘涛秦岚吵架 破碎的是赵昭仪",
+        "onboard_time": 1714635557,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159851,
+        "num": 159851,
+        "word": "五一档新片票房破9亿",
+        "onboard_time": 1714660221,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157766,
+        "num": 157766,
+        "word": "指甲卖钱",
+        "onboard_time": 1714646657,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154613,
+        "num": 154613,
+        "word": "观音桥网红天桥因人流火爆而限流",
+        "onboard_time": 1714660340,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143397,
+        "num": 143397,
+        "word": "赵睿个人能力",
+        "onboard_time": 1714658900,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对梅大高速塌方灾害作出重要指示#"
+    }
+  }
+}
