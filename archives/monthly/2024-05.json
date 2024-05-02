@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714627153437,
+  "endTime": 1714628134252,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 989940,
-      "num": 445711,
+      "num": 471745,
       "word": "罗西道歉",
       "onboard_time": 1714625058,
       "rank": 10,
@@ -329,6 +329,14 @@
       "onboard_time": 1714546998,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 799259,
+      "num": 799259,
+      "word": "本科硕士博士毕业论文的区别",
+      "onboard_time": 1714625599,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 797138,
@@ -499,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 630116,
-      "num": 630116,
-      "word": "本科硕士博士毕业论文的区别",
-      "onboard_time": 1714625599,
-      "rank": 5,
-      "category": "教育"
-    },
-    {
       "raw_hot": 629006,
       "num": 629006,
       "word": "日本小镇拉黑布遮挡富士山远景",
@@ -611,8 +611,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 538850,
-      "num": 434415,
+      "raw_hot": 544460,
+      "num": 249467,
+      "word": "黄子韬让徐艺洋不要指指点点",
+      "onboard_time": 1714627458,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 543788,
+      "num": 543788,
       "word": "王者荣耀时代少年团",
       "onboard_time": 1714625718,
       "rank": 12,
@@ -739,6 +747,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 469733,
+      "num": 469733,
+      "word": "林更新不敢和张雨绮十指紧扣",
+      "onboard_time": 1714622418,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 466630,
       "num": 466630,
       "word": "邓超请100个人看杨幂新电影",
@@ -787,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449861,
+      "num": 449861,
+      "word": "迪丽热巴夹起来了",
+      "onboard_time": 1714626738,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 449484,
       "num": 449484,
       "word": "孩子住院家长请假遭开除获赔22万",
@@ -817,14 +841,6 @@
       "onboard_time": 1714565959,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 429721,
-      "num": 429721,
-      "word": "林更新不敢和张雨绮十指紧扣",
-      "onboard_time": 1714622418,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 428590,
@@ -1195,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331060,
+      "num": 331060,
+      "word": "不久后他身上就没烟味了",
+      "onboard_time": 1714625297,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 330768,
       "num": 204169,
       "word": "IVE 中国文化",
@@ -1337,14 +1361,6 @@
       "onboard_time": 1714546098,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 294498,
-      "num": 294498,
-      "word": "不久后他身上就没烟味了",
-      "onboard_time": 1714625297,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 285775,
@@ -1499,14 +1515,6 @@
       "category": "动漫,艺人"
     },
     {
-      "raw_hot": 259034,
-      "num": 259034,
-      "word": "迪丽热巴夹起来了",
-      "onboard_time": 1714626738,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 258386,
       "num": 182598,
       "word": "迪丽热巴给剧组工作人员发五一红包",
@@ -1569,6 +1577,14 @@
       "onboard_time": 1714610896,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247659,
+      "num": 247659,
+      "word": "21岁重庆男子跳江",
+      "onboard_time": 1714627398,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247083,
@@ -2019,6 +2035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200009,
+      "num": 200009,
+      "word": "宫崎骏 谢谢你画了哈尔的移动城堡",
+      "onboard_time": 1714625538,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199975,
       "num": 199975,
       "word": "MSI",
@@ -2195,14 +2219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187933,
-      "num": 187933,
-      "word": "宫崎骏 谢谢你画了哈尔的移动城堡",
-      "onboard_time": 1714625538,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 187911,
       "num": 187911,
       "word": "景区路边摊的臭豆腐到底有多脏",
@@ -2331,12 +2347,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178861,
+      "num": 178861,
+      "word": "阿娇 突然就汪了出来",
+      "onboard_time": 1714627758,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178833,
       "num": 178833,
       "word": "成毅两大平台同时官宣",
       "onboard_time": 1714528336,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178398,
+      "num": 178398,
+      "word": "原来比死亡更可怕的是遗憾",
+      "onboard_time": 1714625718,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 178123,
@@ -2363,12 +2395,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 176928,
-      "num": 176928,
-      "word": "原来比死亡更可怕的是遗憾",
-      "onboard_time": 1714625718,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 176806,
+      "num": 176806,
+      "word": "张韶涵",
+      "onboard_time": 1714626678,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 176307,
@@ -2595,14 +2627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163861,
-      "num": 163861,
-      "word": "张韶涵",
-      "onboard_time": 1714626678,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 163855,
       "num": 163855,
       "word": "驾驶室探出1只狗吓得后车司机报警",
@@ -2689,6 +2713,14 @@
       "onboard_time": 1714534878,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 158180,
+      "num": 158180,
+      "word": "五月天香港演唱会延期补偿方案",
+      "onboard_time": 1714627637,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 158083,
@@ -2939,6 +2971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148319,
+      "num": 148319,
+      "word": "凌晨三点不睡觉的韩国人",
+      "onboard_time": 1714627159,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147990,
       "num": 147990,
       "word": "5月第一天",
@@ -3123,6 +3163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137357,
+      "num": 137357,
+      "word": "这谁认得出黄景瑜王一博啊",
+      "onboard_time": 1714627217,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137075,
       "num": 137075,
       "word": "孟子义逗完林更新还得哄",
@@ -3137,6 +3185,14 @@
       "onboard_time": 1714609634,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 136243,
+      "num": 136243,
+      "word": "奔跑吧海龟汤菜单",
+      "onboard_time": 1714627758,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 135806,
