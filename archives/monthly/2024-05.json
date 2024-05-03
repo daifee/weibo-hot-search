@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714734926114,
+  "endTime": 1714736048522,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -81,6 +81,14 @@
       "onboard_time": 1714708999,
       "rank": 1,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 2713960,
+      "num": 2713960,
+      "word": "胖猫已火化",
+      "onboard_time": 1714734860,
+      "rank": 16,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 2501521,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 1494772,
-      "num": 673663,
+      "num": 753225,
       "word": "牛约堡致歉",
       "onboard_time": 1714731018,
       "rank": 22,
@@ -275,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1300634,
+      "num": 447934,
+      "word": "胖猫跳江事发地摆满鲜花汉堡",
+      "onboard_time": 1714730358,
+      "rank": 31,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 1295011,
       "num": 1295011,
       "word": "日本男演员涉华人夫妇焚尸案被捕",
@@ -289,6 +305,14 @@
       "onboard_time": 1714636158,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1257572,
+      "num": 1257572,
+      "word": "嫦娥六号发射圆满成功",
+      "onboard_time": 1714733660,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1255650,
@@ -329,14 +353,6 @@
       "onboard_time": 1714713559,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1201147,
-      "num": 446575,
-      "word": "胖猫跳江事发地摆满鲜花汉堡",
-      "onboard_time": 1714730358,
-      "rank": 31,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 1200084,
@@ -409,14 +425,6 @@
       "onboard_time": 1714614256,
       "rank": 5,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1127016,
-      "num": 1127016,
-      "word": "嫦娥六号发射圆满成功",
-      "onboard_time": 1714733660,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1110812,
@@ -705,14 +713,6 @@
       "onboard_time": 1714715898,
       "rank": 28,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 838005,
-      "num": 265418,
-      "word": "胖猫已火化",
-      "onboard_time": 1714734860,
-      "rank": 16,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 832901,
@@ -1084,7 +1084,7 @@
     },
     {
       "raw_hot": 634804,
-      "num": 203997,
+      "num": 218307,
       "word": "市监局回应网友给胖猫点外卖为空包",
       "onboard_time": 1714732279,
       "rank": 34,
@@ -1444,7 +1444,7 @@
     },
     {
       "raw_hot": 495262,
-      "num": 238039,
+      "num": 251501,
       "word": "王一博身份证掉了",
       "onboard_time": 1714728080,
       "rank": 22,
@@ -1457,6 +1457,14 @@
       "onboard_time": 1714693875,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 493916,
+      "num": 359909,
+      "word": "TXT演唱会",
+      "onboard_time": 1714734860,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 486742,
@@ -2067,6 +2075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 375356,
+      "num": 172884,
+      "word": "胖猫姐姐",
+      "onboard_time": 1714733480,
+      "rank": 37,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 375268,
       "num": 375268,
       "word": "冒充小学生骗女生当事人被约谈",
@@ -2187,14 +2203,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 356294,
-      "num": 164216,
-      "word": "胖猫姐姐",
-      "onboard_time": 1714733480,
-      "rank": 37,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 353185,
       "num": 353185,
       "word": "五一不出去旅游还可以做什么",
@@ -2313,6 +2321,14 @@
       "onboard_time": 1714535417,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 333905,
+      "num": 333905,
+      "word": "梅大高速男子下跪拦车获救者也向他下跪",
+      "onboard_time": 1714734499,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332815,
@@ -2553,6 +2569,14 @@
       "onboard_time": 1714639038,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 290291,
+      "num": 290291,
+      "word": "我的阿勒泰",
+      "onboard_time": 1714734800,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 289282,
@@ -3123,6 +3147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 233305,
+      "num": 233305,
+      "word": "以色列",
+      "onboard_time": 1714731679,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 233185,
       "num": 233185,
       "word": "张杰演唱会",
@@ -3195,6 +3227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226424,
+      "num": 226424,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1714734380,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 225833,
       "num": 225833,
       "word": "WTT沙特大满贯抽签仪式",
@@ -3217,6 +3257,14 @@
       "onboard_time": 1714623498,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 225210,
+      "num": 225210,
+      "word": "平台认证杨紫最强扛剧90花",
+      "onboard_time": 1714732881,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 225139,
@@ -3251,6 +3299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219870,
+      "num": 219870,
+      "word": "奔跑吧",
+      "onboard_time": 1714735458,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219715,
       "num": 219715,
       "word": "种地吧",
@@ -3273,14 +3329,6 @@
       "onboard_time": 1714556899,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 217494,
-      "num": 217494,
-      "word": "以色列",
-      "onboard_time": 1714731679,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 217455,
@@ -3345,6 +3393,14 @@
       "onboard_time": 1714530377,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214128,
+      "num": 214128,
+      "word": "他哽咽着感谢但该说感谢的是我们",
+      "onboard_time": 1714734259,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 213619,
@@ -3433,14 +3489,6 @@
       "onboard_time": 1714621159,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208964,
-      "num": 208964,
-      "word": "太湖湾音乐节",
-      "onboard_time": 1714734380,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 208840,
@@ -3545,6 +3593,14 @@
       "onboard_time": 1714645638,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205732,
+      "num": 205732,
+      "word": "恋爱兄妹",
+      "onboard_time": 1714735639,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 205710,
@@ -3835,14 +3891,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 197342,
-      "num": 197342,
-      "word": "平台认证杨紫最强扛剧90花",
-      "onboard_time": 1714732881,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197074,
       "num": 197074,
       "word": "济南防空警报",
@@ -3993,14 +4041,6 @@
       "onboard_time": 1714702278,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192352,
-      "num": 192352,
-      "word": "我的阿勒泰",
-      "onboard_time": 1714734800,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 192319,
@@ -4443,28 +4483,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 177237,
-      "num": 177237,
-      "word": "TXT演唱会",
-      "onboard_time": 1714734860,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 176307,
       "num": 176307,
       "word": "每个宿舍都有自己的空调姐",
       "onboard_time": 1714547779,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 175869,
-      "num": 175869,
-      "word": "梅大高速男子下跪拦车获救者也向他下跪",
-      "onboard_time": 1714734499,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175865,
@@ -5091,6 +5115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157217,
+      "num": 157217,
+      "word": "航天大红屏又又又来了",
+      "onboard_time": 1714734860,
+      "rank": 47,
+      "category": "国内时政,社会新闻"
+    },
+    {
       "raw_hot": 157161,
       "num": 157161,
       "word": "没有一顿火锅解决不了的事",
@@ -5137,14 +5169,6 @@
       "onboard_time": 1714531278,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155995,
-      "num": 155995,
-      "word": "他哽咽着感谢但该说感谢的是我们",
-      "onboard_time": 1714734259,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 155989,
@@ -6043,6 +6067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133680,
+      "num": 133680,
+      "word": "甘露寺蜜璃美甲",
+      "onboard_time": 1714733600,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 133623,
       "num": 133623,
       "word": "戚薇听到自己不是队长的反应",
@@ -6097,6 +6129,14 @@
       "onboard_time": 1714606695,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132507,
+      "num": 132507,
+      "word": "小象摔倒也太可爱了",
+      "onboard_time": 1714735279,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 132485,
@@ -6403,12 +6443,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 124932,
-      "num": 124932,
-      "word": "航天大红屏又又又来了",
-      "onboard_time": 1714734860,
-      "rank": 47,
-      "category": "国内时政,社会新闻"
+      "raw_hot": 124831,
+      "num": 124831,
+      "word": "AG对战DRG",
+      "onboard_time": 1714735339,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 124145,
@@ -7036,7 +7076,7 @@
     },
     {
       "raw_hot": 109086,
-      "num": 407933,
+      "num": 418562,
       "word": "青岛人五一期间选择蹲家游",
       "onboard_time": 1714730658,
       "rank": 9,
@@ -7828,7 +7868,7 @@
     },
     {
       "raw_hot": 50419,
-      "num": 680557,
+      "num": 867195,
       "word": "文化中国行感受非遗魅力",
       "onboard_time": 1714724779,
       "rank": 8,
