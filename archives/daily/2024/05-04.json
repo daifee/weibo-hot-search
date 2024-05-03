@@ -1,6 +1,6 @@
 {
   "startTime": 1714753402355,
-  "endTime": 1714761374749,
+  "endTime": 1714763690737,
   "band_list": [
     {
       "raw_hot": 4324589,
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167919,
+      "num": 164852,
+      "word": "胖猫姐姐准备打官司追回被骗钱款",
+      "onboard_time": 1714757234,
+      "rank": 29,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 164642,
       "num": 236140,
       "word": "嘻嘻 不嘻嘻",
@@ -329,14 +337,6 @@
       "onboard_time": 1714746443,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 130965,
-      "num": 164852,
-      "word": "胖猫姐姐准备打官司追回被骗钱款",
-      "onboard_time": 1714757234,
-      "rank": 29,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 128116,
@@ -419,6 +419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 89888,
+      "num": 193924,
+      "word": "华晨宇日出演唱会会有日出吗",
+      "onboard_time": 1714754717,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 88706,
       "num": 236016,
       "word": "十个勤天 音乐节",
@@ -433,14 +441,6 @@
       "onboard_time": 1714750581,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80806,
-      "num": 193924,
-      "word": "华晨宇日出演唱会会有日出吗",
-      "onboard_time": 1714754717,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 64927,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 34012,
-      "num": 72762,
+      "num": 87608,
       "word": "颈椎一遍就舒服了",
       "onboard_time": 1714758973,
       "rank": 47,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 29308,
-      "num": 64169,
+      "num": 87232,
       "word": "小鬼脸红星星妆",
       "onboard_time": 1714761253,
       "rank": 48,
@@ -489,6 +489,22 @@
       "onboard_time": 1714742900,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22495,
+      "num": 87473,
+      "word": "周深范丞丞张真源郑业成越站越低",
+      "onboard_time": 1714762631,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 21153,
+      "num": 87073,
+      "word": "北京草莓音乐节",
+      "onboard_time": 1714763172,
+      "rank": 47,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
