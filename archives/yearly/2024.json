@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1714717445228,
+  "endTime": 1714718179843,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1323,20 +1323,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 3757146,
+      "num": 3323979,
+      "word": "茶百道 白开水",
+      "onboard_time": 1714712779,
+      "rank": 11,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 3754280,
       "num": 3754280,
       "word": "微博之夜好多人啊",
       "onboard_time": 1705128333,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 3732091,
-      "num": 3323979,
-      "word": "茶百道 白开水",
-      "onboard_time": 1714712779,
-      "rank": 11,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 3675775,

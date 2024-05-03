@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714717445228,
+  "endTime": 1714718179843,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -43,7 +43,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3732091,
+      "raw_hot": 3757146,
       "num": 3323979,
       "word": "茶百道 白开水",
       "onboard_time": 1714712779,
@@ -208,6 +208,14 @@
       "word": "小众城市突然爆红",
       "onboard_time": 1714661899,
       "rank": 7,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 1404058,
+      "num": 1404058,
+      "word": "人人人人人你人人人人人",
+      "onboard_time": 1714715898,
+      "rank": 1,
       "category": "旅游"
     },
     {
@@ -435,6 +443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1055659,
+      "num": 1055659,
+      "word": "梅大高速下跪拦车的老人找到了",
+      "onboard_time": 1714714998,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1018617,
       "num": 1018617,
       "word": "沙溢回应退出奔跑吧",
@@ -491,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 957018,
-      "num": 957018,
-      "word": "人人人人人你人人人人人",
-      "onboard_time": 1714715898,
-      "rank": 1,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 946692,
       "num": 478787,
       "word": "赵小棠妈妈是先婚后爱",
@@ -529,14 +537,6 @@
       "onboard_time": 1714704679,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 891495,
-      "num": 429687,
-      "word": "梅大高速下跪拦车的老人找到了",
-      "onboard_time": 1714714998,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 888455,
@@ -681,6 +681,14 @@
       "onboard_time": 1714694296,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 819260,
+      "num": 181367,
+      "word": "茶百道以胖猫之名捐款100万",
+      "onboard_time": 1714717099,
+      "rank": 38,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 808170,
@@ -1347,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 479569,
+      "num": 479569,
+      "word": "酱牛肉切开是彩虹色的千万别立刻吃",
+      "onboard_time": 1714715540,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 478677,
       "num": 478677,
       "word": "何炅客串了难哄",
@@ -1547,28 +1563,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 443881,
-      "num": 156774,
-      "word": "茶百道以胖猫之名捐款100万",
-      "onboard_time": 1714717099,
-      "rank": 38,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 441982,
       "num": 441982,
       "word": "大唐不夜城丢刀侍卫演我五一加班",
       "onboard_time": 1714605134,
       "rank": 31,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 440083,
-      "num": 440083,
-      "word": "酱牛肉切开是彩虹色的千万别立刻吃",
-      "onboard_time": 1714715540,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 437434,
@@ -2515,6 +2515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263023,
+      "num": 263023,
+      "word": "陈丽君一公排名第二",
+      "onboard_time": 1714716739,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261655,
       "num": 261655,
       "word": "秦岚 不扫兴的大人",
@@ -2937,14 +2945,6 @@
       "onboard_time": 1714529477,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 223118,
-      "num": 223118,
-      "word": "陈丽君一公排名第二",
-      "onboard_time": 1714716739,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 220271,
@@ -3827,6 +3827,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 185934,
+      "num": 185934,
+      "word": "新疆烤馕原来能大如轮胎",
+      "onboard_time": 1714716979,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 185833,
       "num": 521808,
       "word": "杭州西湖边再现最美人墙",
@@ -3881,6 +3889,14 @@
       "onboard_time": 1714525277,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 184430,
+      "num": 184430,
+      "word": "过度旅游正在击穿日本旅游业",
+      "onboard_time": 1714717280,
+      "rank": 43,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 183662,
@@ -4171,14 +4187,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172264,
-      "num": 172264,
-      "word": "新疆烤馕原来能大如轮胎",
-      "onboard_time": 1714716979,
-      "rank": 29,
-      "category": "美食"
-    },
-    {
       "raw_hot": 172198,
       "num": 172198,
       "word": "美联储",
@@ -4192,6 +4200,14 @@
       "word": "武艺Sunnee加好友五年没说过话",
       "onboard_time": 1714618396,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171839,
+      "num": 171839,
+      "word": "徐艺洋好了解黄子韬",
+      "onboard_time": 1714718000,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -4529,6 +4545,14 @@
       "onboard_time": 1714641199,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162711,
+      "num": 162711,
+      "word": "宫崎骏治好了我的年龄焦虑",
+      "onboard_time": 1714713978,
+      "rank": 45,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 161845,
@@ -4899,6 +4923,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 150260,
+      "num": 150260,
+      "word": "旅行新蜜蜂常州",
+      "onboard_time": 1714717518,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 150010,
       "num": 150010,
       "word": "张杰新歌",
@@ -4985,14 +5017,6 @@
       "onboard_time": 1714652059,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 148669,
-      "num": 148669,
-      "word": "宫崎骏治好了我的年龄焦虑",
-      "onboard_time": 1714713978,
-      "rank": 45,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 148382,
@@ -5171,14 +5195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143938,
-      "num": 143938,
-      "word": "过度旅游正在击穿日本旅游业",
-      "onboard_time": 1714717280,
-      "rank": 43,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 143018,
       "num": 143018,
       "word": "越没本事的人脾气还越大",
@@ -5313,6 +5329,14 @@
       "onboard_time": 1714490000,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138537,
+      "num": 138537,
+      "word": "老君山奶茶1毛钱1杯",
+      "onboard_time": 1714717639,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138189,
@@ -5883,6 +5907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122293,
+      "num": 122293,
+      "word": "梅大高速塌方男子下跪拦停后方来车",
+      "onboard_time": 1714718000,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121607,
       "num": 121607,
       "word": "五一假期第三天",
@@ -5993,6 +6025,14 @@
       "onboard_time": 1714544239,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 118427,
+      "num": 118427,
+      "word": "郭碧婷小时代南湘主题曲是刘忻唱的",
+      "onboard_time": 1714718119,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 118074,
