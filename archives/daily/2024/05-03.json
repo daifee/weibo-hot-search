@@ -1,6 +1,6 @@
 {
   "startTime": 1714666942242,
-  "endTime": 1714707292477,
+  "endTime": 1714710162039,
   "band_list": [
     {
       "raw_hot": 3222104,
@@ -8,6 +8,14 @@
       "word": "谭竹回应",
       "onboard_time": 1714691414,
       "rank": 13,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 3042749,
+      "num": 1885219,
+      "word": "华莱士 空包",
+      "onboard_time": 1714705640,
+      "rank": 5,
       "category": "游戏,网红"
     },
     {
@@ -25,14 +33,6 @@
       "onboard_time": 1714675092,
       "rank": 0,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1885219,
-      "num": 1885219,
-      "word": "华莱士 空包",
-      "onboard_time": 1714705640,
-      "rank": 5,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 1841073,
@@ -68,11 +68,19 @@
     },
     {
       "raw_hot": 1343281,
-      "num": 273922,
+      "num": 308502,
       "word": "怀了两个孩子才知女方已婚",
       "onboard_time": 1714705459,
       "rank": 20,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1342148,
+      "num": 1342148,
+      "word": "前女友为胖猫发声",
+      "onboard_time": 1714708999,
+      "rank": 1,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1246990,
@@ -83,20 +91,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1147841,
+      "num": 1119694,
+      "word": "胖猫",
+      "onboard_time": 1714653859,
+      "rank": 12,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1139081,
       "num": 1139081,
       "word": "刘梓晨 翻红",
       "onboard_time": 1714696636,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1119694,
-      "num": 1119694,
-      "word": "胖猫",
-      "onboard_time": 1714653859,
-      "rank": 12,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 978057,
@@ -113,6 +121,14 @@
       "onboard_time": 1714699157,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 927346,
+      "num": 413901,
+      "word": "朴彩英赵露思撞衫",
+      "onboard_time": 1714706719,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 891566,
@@ -147,7 +163,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 625825,
+      "raw_hot": 670810,
       "num": 610925,
       "word": "胖猫聊天记录",
       "onboard_time": 1714695196,
@@ -179,20 +195,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 546264,
+      "num": 546264,
+      "word": "河南文物局已去河大礼堂现场",
+      "onboard_time": 1714706357,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521286,
       "num": 521286,
       "word": "土耳其宣布停止与以色列所有贸易",
       "onboard_time": 1714699098,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 519382,
-      "num": 413901,
-      "word": "朴彩英赵露思撞衫",
-      "onboard_time": 1714706719,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 509029,
@@ -283,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 445232,
+      "num": 300466,
+      "word": "原来夫妻分床睡还有这好处",
+      "onboard_time": 1714703298,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 440393,
       "num": 231382,
       "word": "老公一个月四千多养活我们一家三口",
@@ -299,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424987,
+      "num": 366705,
+      "word": "梅州",
+      "onboard_time": 1714706958,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413875,
       "num": 315370,
       "word": "朱珠方发文谴责倒卖门票商品行为",
@@ -308,7 +340,7 @@
     },
     {
       "raw_hot": 410783,
-      "num": 380769,
+      "num": 386411,
       "word": "胖猫姐姐发声",
       "onboard_time": 1714693454,
       "rank": 15,
@@ -339,12 +371,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 369429,
-      "num": 263991,
-      "word": "原来夫妻分床睡还有这好处",
-      "onboard_time": 1714703298,
-      "rank": 39,
-      "category": "科学科普"
+      "raw_hot": 366922,
+      "num": 366922,
+      "word": "丫丫腰又粗了",
+      "onboard_time": 1714706119,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366496,
+      "num": 366496,
+      "word": "导演没想到杨幂会这么痛快接下角色",
+      "onboard_time": 1714709178,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 346526,
+      "num": 346526,
+      "word": "王一博婚礼戏",
+      "onboard_time": 1714708820,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 346353,
@@ -419,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268605,
-      "num": 268605,
-      "word": "丫丫腰又粗了",
-      "onboard_time": 1714706119,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267113,
       "num": 177797,
       "word": "新加坡驻日参赞在澡堂偷拍未成年男孩",
@@ -449,6 +489,14 @@
       "onboard_time": 1714659561,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237805,
+      "num": 237805,
+      "word": "朋友频繁的约饭让人感觉很有压力",
+      "onboard_time": 1714709297,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 235963,
@@ -475,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221313,
+      "num": 221313,
+      "word": "迪丽热巴五一营业照",
+      "onboard_time": 1714709297,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216407,
       "num": 216407,
       "word": "魏晨分身情人",
@@ -483,20 +539,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 216108,
-      "num": 216108,
-      "word": "河南文物局已去河大礼堂现场",
-      "onboard_time": 1714706357,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215661,
       "num": 215661,
       "word": "成毅工作室放饭",
       "onboard_time": 1714664538,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213757,
+      "num": 213757,
+      "word": "蒲熠星告别全员加速中",
+      "onboard_time": 1714709778,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 211999,
+      "num": 211999,
+      "word": "我不要吃菜",
+      "onboard_time": 1714708400,
+      "rank": 32,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 210541,
@@ -515,11 +579,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206843,
+      "num": 223155,
+      "word": "尼克斯淘汰76人",
+      "onboard_time": 1714709239,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206779,
       "num": 206779,
       "word": "林更新美人鱼抱孟子义",
       "onboard_time": 1714703359,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202797,
+      "num": 202797,
+      "word": "武切维奇出任塞尔维亚新总理",
+      "onboard_time": 1714707499,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 200715,
+      "num": 200715,
+      "word": "乘风2024二公分组",
+      "onboard_time": 1714709118,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -635,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177740,
-      "num": 177740,
-      "word": "梅州",
-      "onboard_time": 1714706958,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175459,
       "num": 175459,
       "word": "戚薇李承铉纸屎情侣造型",
@@ -705,6 +785,14 @@
       "onboard_time": 1714652059,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160535,
+      "num": 160535,
+      "word": "以方代表在联大称联合国日子不多了",
+      "onboard_time": 1714708039,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 159936,
@@ -819,6 +907,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138826,
+      "num": 138826,
+      "word": "如果羊感到屁股刺挠怎么办",
+      "onboard_time": 1714709959,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 138688,
+      "num": 138688,
+      "word": "赵昭仪砍大鹅",
+      "onboard_time": 1714709898,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134145,
       "num": 134145,
       "word": "苹果将回购1100亿美元股票",
@@ -881,6 +985,14 @@
       "onboard_time": 1714654759,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126842,
+      "num": 366871,
+      "word": "北京女大学生被青岛外卖小哥暖到了",
+      "onboard_time": 1714707440,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 126688,
@@ -1019,6 +1131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102480,
+      "num": 221350,
+      "word": "海警位金门附近海域常态执法巡查",
+      "onboard_time": 1714708938,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 101408,
       "num": 98681,
       "word": "胡歌台湾腔",
@@ -1057,6 +1177,14 @@
       "onboard_time": 1714694236,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 96026,
+      "num": 1995354,
+      "word": "嫦娥家族奔月路每秒都热血沸腾",
+      "onboard_time": 1714707021,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90338,
@@ -1200,14 +1328,6 @@
       "word": "女童溺水被救全家上门磕头跪谢恩人",
       "onboard_time": 1714643478,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45224,
-      "num": 1995354,
-      "word": "嫦娥家族奔月路每秒都热血沸腾",
-      "onboard_time": 1714707021,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
