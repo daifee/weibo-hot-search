@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714732542446,
+  "endTime": 1714734926114,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -195,6 +195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1494772,
+      "num": 673663,
+      "word": "牛约堡致歉",
+      "onboard_time": 1714731018,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1474531,
       "num": 1474531,
       "word": "马小跳 跳伞",
@@ -323,6 +331,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1201147,
+      "num": 446575,
+      "word": "胖猫跳江事发地摆满鲜花汉堡",
+      "onboard_time": 1714730358,
+      "rank": 31,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 1200084,
       "num": 1200084,
       "word": "国务院安委会办公室印发紧急通知",
@@ -395,6 +411,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1127016,
+      "num": 1127016,
+      "word": "嫦娥六号发射圆满成功",
+      "onboard_time": 1714733660,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1110812,
       "num": 266493,
       "word": "张馨予何捷 云南",
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 1065792,
-      "num": 462082,
+      "num": 639591,
       "word": "为什么韩国身份证有中国名字",
       "onboard_time": 1714727719,
       "rank": 30,
@@ -504,14 +528,6 @@
       "word": "高速塌方",
       "onboard_time": 1714711399,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 994329,
-      "num": 245796,
-      "word": "牛约堡致歉",
-      "onboard_time": 1714731018,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -659,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 853020,
+      "num": 339948,
+      "word": "华莱士开除涉事员工",
+      "onboard_time": 1714732340,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 850934,
       "num": 850934,
       "word": "梅大高速塌陷已发现23辆车陷落",
@@ -681,6 +705,14 @@
       "onboard_time": 1714715898,
       "rank": 28,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 838005,
+      "num": 265418,
+      "word": "胖猫已火化",
+      "onboard_time": 1714734860,
+      "rank": 16,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 832901,
@@ -777,14 +809,6 @@
       "onboard_time": 1714531278,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 787401,
-      "num": 238127,
-      "word": "胖猫跳江事发地摆满鲜花汉堡",
-      "onboard_time": 1714730358,
-      "rank": 31,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 780178,
@@ -897,6 +921,14 @@
       "onboard_time": 1714624997,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 692815,
+      "num": 376054,
+      "word": "张韶涵方律师声明",
+      "onboard_time": 1714733540,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 683876,
@@ -1051,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 634804,
+      "num": 203997,
+      "word": "市监局回应网友给胖猫点外卖为空包",
+      "onboard_time": 1714732279,
+      "rank": 34,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 629006,
       "num": 629006,
       "word": "日本小镇拉黑布遮挡富士山远景",
@@ -1113,6 +1153,14 @@
       "onboard_time": 1714638201,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 601137,
+      "num": 441908,
+      "word": "我是没有结婚不是结不了婚",
+      "onboard_time": 1714731738,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 598444,
@@ -2035,6 +2083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 367944,
+      "num": 367944,
+      "word": "FNC对战TES",
+      "onboard_time": 1714731559,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 367740,
       "num": 367740,
       "word": "美国六旬男子烧死妻子后自杀",
@@ -2129,6 +2185,14 @@
       "onboard_time": 1714539079,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 356294,
+      "num": 164216,
+      "word": "胖猫姐姐",
+      "onboard_time": 1714733480,
+      "rank": 37,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 353185,
@@ -2371,14 +2435,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 313622,
-      "num": 154640,
-      "word": "市监局回应网友给胖猫点外卖为空包",
-      "onboard_time": 1714732279,
-      "rank": 34,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 312628,
       "num": 312628,
       "word": "茶百道联名",
@@ -2433,14 +2489,6 @@
       "onboard_time": 1714525038,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 300260,
-      "num": 300260,
-      "word": "我是没有结婚不是结不了婚",
-      "onboard_time": 1714731738,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 299879,
@@ -2521,14 +2569,6 @@
       "onboard_time": 1714698979,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 288378,
-      "num": 137303,
-      "word": "华莱士开除涉事员工",
-      "onboard_time": 1714732340,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285775,
@@ -2891,6 +2931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245445,
+      "num": 126979,
+      "word": "多品牌致歉外卖空包事件",
+      "onboard_time": 1714734200,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244935,
       "num": 207605,
       "word": "印尼女子9岁时去过丈夫二婚婚礼",
@@ -3179,6 +3227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225052,
+      "num": 225052,
+      "word": "甘露寺蜜玻美甲",
+      "onboard_time": 1714733600,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 223865,
       "num": 223865,
       "word": "维和防暴队",
@@ -3217,6 +3273,14 @@
       "onboard_time": 1714556899,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 217494,
+      "num": 217494,
+      "word": "以色列",
+      "onboard_time": 1714731679,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 217455,
@@ -3371,6 +3435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208964,
+      "num": 208964,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1714734380,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208840,
       "num": 208840,
       "word": "谭爷爷五一小作文花里花气",
@@ -3497,14 +3569,6 @@
       "onboard_time": 1714622658,
       "rank": 37,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 205058,
-      "num": 205058,
-      "word": "FNC对战TES",
-      "onboard_time": 1714731559,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 205032,
@@ -3771,6 +3835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197342,
+      "num": 197342,
+      "word": "平台认证杨紫最强扛剧90花",
+      "onboard_time": 1714732881,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197074,
       "num": 197074,
       "word": "济南防空警报",
@@ -3921,6 +3993,14 @@
       "onboard_time": 1714702278,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192352,
+      "num": 192352,
+      "word": "我的阿勒泰",
+      "onboard_time": 1714734800,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 192319,
@@ -4187,6 +4267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 184519,
+      "num": 184519,
+      "word": "时代峰峻的八百米体测",
+      "onboard_time": 1714734558,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184430,
       "num": 184430,
       "word": "过度旅游正在击穿日本旅游业",
@@ -4355,12 +4443,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177237,
+      "num": 177237,
+      "word": "TXT演唱会",
+      "onboard_time": 1714734860,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 176307,
       "num": 176307,
       "word": "每个宿舍都有自己的空调姐",
       "onboard_time": 1714547779,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175869,
+      "num": 175869,
+      "word": "梅大高速男子下跪拦车获救者也向他下跪",
+      "onboard_time": 1714734499,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175865,
@@ -4601,14 +4705,6 @@
       "onboard_time": 1714617438,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169694,
-      "num": 169694,
-      "word": "以色列",
-      "onboard_time": 1714731679,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 169438,
@@ -5041,6 +5137,14 @@
       "onboard_time": 1714531278,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155995,
+      "num": 155995,
+      "word": "他哽咽着感谢但该说感谢的是我们",
+      "onboard_time": 1714734259,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 155989,
@@ -5779,6 +5883,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 136563,
+      "num": 136563,
+      "word": "梁洁杀回现偶",
+      "onboard_time": 1714732279,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136400,
       "num": 136400,
       "word": "IVE新歌MV正确打开方式",
@@ -5817,14 +5929,6 @@
       "onboard_time": 1714556478,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135460,
-      "num": 135460,
-      "word": "梁洁杀回现偶",
-      "onboard_time": 1714732279,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 135296,
@@ -6267,6 +6371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126997,
+      "num": 126997,
+      "word": "2024MSI入围赛",
+      "onboard_time": 1714734320,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126688,
       "num": 126688,
       "word": "十个勤天常州",
@@ -6289,6 +6401,14 @@
       "onboard_time": 1714680250,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 124932,
+      "num": 124932,
+      "word": "航天大红屏又又又来了",
+      "onboard_time": 1714734860,
+      "rank": 47,
+      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 124145,
@@ -6828,7 +6948,7 @@
     },
     {
       "raw_hot": 111080,
-      "num": 368845,
+      "num": 422481,
       "word": "生活贫困但知识和道德不能贫困",
       "onboard_time": 1714729819,
       "rank": 8,
@@ -6915,6 +7035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109086,
+      "num": 407933,
+      "word": "青岛人五一期间选择蹲家游",
+      "onboard_time": 1714730658,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 109064,
       "num": 109064,
       "word": "T1战胜Fly",
@@ -6969,14 +7097,6 @@
       "onboard_time": 1714700239,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107182,
-      "num": 387981,
-      "word": "青岛人五一期间选择蹲家游",
-      "onboard_time": 1714730658,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 107049,
@@ -7708,7 +7828,7 @@
     },
     {
       "raw_hot": 50419,
-      "num": 679689,
+      "num": 680557,
       "word": "文化中国行感受非遗魅力",
       "onboard_time": 1714724779,
       "rank": 8,

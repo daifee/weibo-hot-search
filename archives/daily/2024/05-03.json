@@ -1,6 +1,6 @@
 {
   "startTime": 1714666942242,
-  "endTime": 1714732542446,
+  "endTime": 1714734926114,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -99,6 +99,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1494772,
+      "num": 673663,
+      "word": "牛约堡致歉",
+      "onboard_time": 1714731018,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1421271,
       "num": 1421271,
       "word": "活鸭要40多为何烤鸭才18元一只",
@@ -155,6 +163,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1201147,
+      "num": 446575,
+      "word": "胖猫跳江事发地摆满鲜花汉堡",
+      "onboard_time": 1714730358,
+      "rank": 31,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 1188392,
       "num": 1119694,
       "word": "胖猫",
@@ -171,6 +187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1127016,
+      "num": 1127016,
+      "word": "嫦娥六号发射圆满成功",
+      "onboard_time": 1714733660,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1102093,
       "num": 1082830,
       "word": "华莱士回应空包",
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 1065792,
-      "num": 462082,
+      "num": 639591,
       "word": "为什么韩国身份证有中国名字",
       "onboard_time": 1714727719,
       "rank": 30,
@@ -192,14 +216,6 @@
       "word": "高速塌方",
       "onboard_time": 1714711399,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 994329,
-      "num": 245796,
-      "word": "牛约堡致歉",
-      "onboard_time": 1714731018,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 853020,
+      "num": 339948,
+      "word": "华莱士开除涉事员工",
+      "onboard_time": 1714732340,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 841105,
       "num": 342638,
       "word": "郭晋安离婚",
@@ -273,6 +297,14 @@
       "onboard_time": 1714715898,
       "rank": 28,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 838005,
+      "num": 265418,
+      "word": "胖猫已火化",
+      "onboard_time": 1714734860,
+      "rank": 16,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 831965,
@@ -291,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 787401,
-      "num": 238127,
-      "word": "胖猫跳江事发地摆满鲜花汉堡",
-      "onboard_time": 1714730358,
-      "rank": 31,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 728200,
       "num": 503402,
       "word": "重庆长江大桥",
@@ -313,6 +337,14 @@
       "onboard_time": 1714712658,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 692815,
+      "num": 376054,
+      "word": "张韶涵方律师声明",
+      "onboard_time": 1714733540,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 674521,
@@ -331,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 634804,
+      "num": 203997,
+      "word": "市监局回应网友给胖猫点外卖为空包",
+      "onboard_time": 1714732279,
+      "rank": 34,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 625329,
       "num": 324591,
       "word": "妈妈告诉我她绝经了我好难过",
@@ -345,6 +385,14 @@
       "onboard_time": 1714663278,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 601137,
+      "num": 441908,
+      "word": "我是没有结婚不是结不了婚",
+      "onboard_time": 1714731738,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 598444,
@@ -627,12 +675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367944,
+      "num": 367944,
+      "word": "FNC对战TES",
+      "onboard_time": 1714731559,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 366922,
       "num": 366922,
       "word": "丫丫腰又粗了",
       "onboard_time": 1714706119,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356294,
+      "num": 164216,
+      "word": "胖猫姐姐",
+      "onboard_time": 1714733480,
+      "rank": 37,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 352099,
@@ -707,22 +771,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 313622,
-      "num": 154640,
-      "word": "市监局回应网友给胖猫点外卖为空包",
-      "onboard_time": 1714732279,
-      "rank": 34,
-      "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 300260,
-      "num": 300260,
-      "word": "我是没有结婚不是结不了婚",
-      "onboard_time": 1714731738,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 298338,
       "num": 298338,
       "word": "IVE能不能把中国结摘下来",
@@ -761,14 +809,6 @@
       "onboard_time": 1714698979,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 288378,
-      "num": 137303,
-      "word": "华莱士开除涉事员工",
-      "onboard_time": 1714732340,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284510,
@@ -851,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245445,
+      "num": 126979,
+      "word": "多品牌致歉外卖空包事件",
+      "onboard_time": 1714734200,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241488,
       "num": 241488,
       "word": "迪丽热巴五一营业照",
@@ -931,6 +979,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225052,
+      "num": 225052,
+      "word": "甘露寺蜜玻美甲",
+      "onboard_time": 1714733600,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 217494,
+      "num": 217494,
+      "word": "以色列",
+      "onboard_time": 1714731679,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 216946,
       "num": 216946,
       "word": "韩国一糖葫芦商家称日销量从500降到80串",
@@ -971,6 +1035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208964,
+      "num": 208964,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1714734380,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208840,
       "num": 208840,
       "word": "谭爷爷五一小作文花里花气",
@@ -1001,14 +1073,6 @@
       "onboard_time": 1714723579,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 205058,
-      "num": 205058,
-      "word": "FNC对战TES",
-      "onboard_time": 1714731559,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 205032,
@@ -1067,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197342,
+      "num": 197342,
+      "word": "平台认证杨紫最强扛剧90花",
+      "onboard_time": 1714732881,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197074,
       "num": 197074,
       "word": "济南防空警报",
@@ -1115,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192352,
+      "num": 192352,
+      "word": "我的阿勒泰",
+      "onboard_time": 1714734800,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191194,
       "num": 191194,
       "word": "连狗都知道吃黄瓜要吐尖",
@@ -1161,6 +1241,14 @@
       "onboard_time": 1714716979,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 184519,
+      "num": 184519,
+      "word": "时代峰峻的八百米体测",
+      "onboard_time": 1714734558,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 184430,
@@ -1219,6 +1307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177237,
+      "num": 177237,
+      "word": "TXT演唱会",
+      "onboard_time": 1714734860,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 175869,
+      "num": 175869,
+      "word": "梅大高速男子下跪拦车获救者也向他下跪",
+      "onboard_time": 1714734499,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175459,
       "num": 175459,
       "word": "戚薇李承铉纸屎情侣造型",
@@ -1257,14 +1361,6 @@
       "onboard_time": 1714695076,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169694,
-      "num": 169694,
-      "word": "以色列",
-      "onboard_time": 1714731679,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 168762,
@@ -1401,6 +1497,14 @@
       "onboard_time": 1714701738,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155995,
+      "num": 155995,
+      "word": "他哽咽着感谢但该说感谢的是我们",
+      "onboard_time": 1714734259,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 155989,
@@ -1595,20 +1699,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136563,
+      "num": 136563,
+      "word": "梁洁杀回现偶",
+      "onboard_time": 1714732279,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135739,
       "num": 135739,
       "word": "鬼灭之刃 最后的温柔",
       "onboard_time": 1714729999,
       "rank": 36,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 135460,
-      "num": 135460,
-      "word": "梁洁杀回现偶",
-      "onboard_time": 1714732279,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 134852,
@@ -1763,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126997,
+      "num": 126997,
+      "word": "2024MSI入围赛",
+      "onboard_time": 1714734320,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126688,
       "num": 126688,
       "word": "十个勤天常州",
@@ -1785,6 +1897,14 @@
       "onboard_time": 1714680250,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 124932,
+      "num": 124932,
+      "word": "航天大红屏又又又来了",
+      "onboard_time": 1714734860,
+      "rank": 47,
+      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 123715,
@@ -1900,7 +2020,7 @@
     },
     {
       "raw_hot": 111080,
-      "num": 368845,
+      "num": 422481,
       "word": "生活贫困但知识和道德不能贫困",
       "onboard_time": 1714729819,
       "rank": 8,
@@ -1937,6 +2057,14 @@
       "onboard_time": 1714650619,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109086,
+      "num": 407933,
+      "word": "青岛人五一期间选择蹲家游",
+      "onboard_time": 1714730658,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 109064,
@@ -1977,14 +2105,6 @@
       "onboard_time": 1714659919,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107182,
-      "num": 387981,
-      "word": "青岛人五一期间选择蹲家游",
-      "onboard_time": 1714730658,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 106869,
@@ -2236,7 +2356,7 @@
     },
     {
       "raw_hot": 50419,
-      "num": 679689,
+      "num": 680557,
       "word": "文化中国行感受非遗魅力",
       "onboard_time": 1714724779,
       "rank": 8,
