@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714728029223,
+  "endTime": 1714728873382,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -859,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687926,
+      "num": 462219,
+      "word": "梦奇",
+      "onboard_time": 1714726518,
+      "rank": 20,
+      "category": "网红,游戏"
+    },
+    {
       "raw_hot": 683876,
       "num": 477026,
       "word": "网友晒299元买朱珠价值5千二手包",
@@ -1027,14 +1035,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 623080,
-      "num": 222378,
-      "word": "梦奇",
-      "onboard_time": 1714726518,
-      "rank": 20,
-      "category": "网红,游戏"
-    },
-    {
       "raw_hot": 621744,
       "num": 460470,
       "word": "汪苏泷如果爱忘了",
@@ -1049,6 +1049,14 @@
       "onboard_time": 1714576700,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 614075,
+      "num": 614075,
+      "word": "直播嫦娥六号发射",
+      "onboard_time": 1714719259,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 612363,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1714616839,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 576224,
+      "num": 372270,
+      "word": "为什么韩国身份证有中国名字",
+      "onboard_time": 1714727719,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 572476,
@@ -1491,6 +1507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 466358,
+      "num": 466358,
+      "word": "亳州王婆说媒劝小伙牵手怀孕女孩",
+      "onboard_time": 1714723700,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465610,
       "num": 465610,
       "word": "梅州高速塌方事故已救出31人",
@@ -1579,14 +1603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448694,
-      "num": 448694,
-      "word": "亳州王婆说媒劝小伙牵手怀孕女孩",
-      "onboard_time": 1714723700,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 446345,
       "num": 471737,
       "word": "外卖小哥陪瘫痪女子吃饭多年直到女子离世",
@@ -1625,6 +1641,14 @@
       "onboard_time": 1714605134,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 441476,
+      "num": 130252,
+      "word": "浪队",
+      "onboard_time": 1714727239,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 441012,
@@ -1891,6 +1915,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397374,
+      "num": 200005,
+      "word": "王一博身份证掉了",
+      "onboard_time": 1714728080,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 392169,
+      "num": 392169,
+      "word": "陈昊宇第22名",
+      "onboard_time": 1714727179,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389270,
       "num": 389270,
       "word": "下次再也不在节假日出来了",
@@ -2067,14 +2107,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 357908,
-      "num": 357908,
-      "word": "直播嫦娥六号发射",
-      "onboard_time": 1714719259,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 353185,
       "num": 353185,
       "word": "五一不出去旅游还可以做什么",
@@ -2209,14 +2241,6 @@
       "onboard_time": 1714625297,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 331049,
-      "num": 151490,
-      "word": "为什么韩国身份证有中国名字",
-      "onboard_time": 1714727719,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 330768,
@@ -2507,14 +2531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 282953,
-      "num": 116374,
-      "word": "浪队",
-      "onboard_time": 1714727239,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 282859,
       "num": 282859,
       "word": "好想收养我的研究生朋友",
@@ -2553,14 +2569,6 @@
       "onboard_time": 1714654819,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 274929,
-      "num": 274929,
-      "word": "陈昊宇第22名",
-      "onboard_time": 1714727179,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 274858,
@@ -3859,6 +3867,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 191194,
+      "num": 191194,
+      "word": "连狗都知道吃黄瓜要吐尖",
+      "onboard_time": 1714726159,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191154,
       "num": 191154,
       "word": "迪丽热巴参加过配音综艺身临其境",
@@ -4449,14 +4465,6 @@
       "onboard_time": 1714625898,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 170342,
-      "num": 170342,
-      "word": "连狗都知道吃黄瓜要吐尖",
-      "onboard_time": 1714726159,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 170288,
@@ -5363,6 +5371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144725,
+      "num": 144725,
+      "word": "丁程鑫你才多大管欧豪叫宝宝",
+      "onboard_time": 1714726099,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144581,
       "num": 144581,
       "word": "黄景瑜说不敢认领拍军警是统治区",
@@ -5480,14 +5496,6 @@
       "word": "花少1吃不饱花少5吃太饱",
       "onboard_time": 1714635678,
       "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 140041,
-      "num": 140041,
-      "word": "丁程鑫你才多大管欧豪叫宝宝",
-      "onboard_time": 1714726099,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -5817,6 +5825,14 @@
       "onboard_time": 1714606695,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132485,
+      "num": 132485,
+      "word": "九龙城寨之围城",
+      "onboard_time": 1714728020,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 132472,
@@ -6771,6 +6787,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 106869,
+      "num": 106869,
+      "word": "我是妈妈永远的旅行青蛙",
+      "onboard_time": 1714727719,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106551,
       "num": 106551,
       "word": "德牧用耳朵撩小奶猫",
@@ -6953,14 +6977,6 @@
       "onboard_time": 1714519694,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99063,
-      "num": 99063,
-      "word": "我是妈妈永远的旅行青蛙",
-      "onboard_time": 1714727719,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 98981,
@@ -7203,6 +7219,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 78656,
+      "num": 78656,
+      "word": "李溪芮Miss淘汰",
+      "onboard_time": 1714728859,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78561,
       "num": 86025,
       "word": "李健昆山演唱会",
@@ -7395,6 +7419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 57402,
+      "num": 385288,
+      "word": "音乐节防晒神穿搭",
+      "onboard_time": 1714723821,
+      "rank": 28,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 56370,
       "num": 725905,
       "word": "中国青年正当时",
@@ -7433,14 +7465,6 @@
       "onboard_time": 1714519273,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53761,
-      "num": 362036,
-      "word": "音乐节防晒神穿搭",
-      "onboard_time": 1714723821,
-      "rank": 28,
-      "category": "美妆"
     },
     {
       "raw_hot": 52710,
@@ -7547,8 +7571,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 33589,
-      "num": 558505,
+      "raw_hot": 33617,
+      "num": 679689,
       "word": "文化中国行感受非遗魅力",
       "onboard_time": 1714724779,
       "rank": 8,
