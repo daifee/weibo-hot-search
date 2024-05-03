@@ -1,6 +1,6 @@
 {
   "startTime": 1714666942242,
-  "endTime": 1714710967520,
+  "endTime": 1714713471426,
   "band_list": [
     {
       "raw_hot": 3222104,
@@ -19,6 +19,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 2819477,
+      "num": 1940999,
+      "word": "前女友为胖猫发声",
+      "onboard_time": 1714708999,
+      "rank": 1,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 2501521,
       "num": 2501521,
       "word": "五三惨案",
@@ -33,14 +41,6 @@
       "onboard_time": 1714675092,
       "rank": 0,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1940999,
-      "num": 1940999,
-      "word": "前女友为胖猫发声",
-      "onboard_time": 1714708999,
-      "rank": 1,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 1841073,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 1343281,
-      "num": 308502,
+      "num": 315039,
       "word": "怀了两个孩子才知女方已婚",
       "onboard_time": 1714705459,
       "rank": 20,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1266309,
+      "num": 373189,
+      "word": "茶百道 白开水",
+      "onboard_time": 1714712779,
+      "rank": 11,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1246990,
@@ -105,6 +113,22 @@
       "onboard_time": 1714696636,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1082830,
+      "num": 1082830,
+      "word": "华莱士回应空包",
+      "onboard_time": 1714711039,
+      "rank": 1,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 998160,
+      "num": 368065,
+      "word": "高速塌方",
+      "onboard_time": 1714711399,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 978057,
@@ -145,6 +169,14 @@
       "onboard_time": 1714699577,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 864288,
+      "num": 864288,
+      "word": "美国网红连吃6个月火鸡面后尿血",
+      "onboard_time": 1714710198,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 841105,
@@ -203,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 525204,
+      "num": 525204,
+      "word": "导演没想到杨幂会这么痛快接下角色",
+      "onboard_time": 1714709178,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 521286,
       "num": 521286,
       "word": "土耳其宣布停止与以色列所有贸易",
@@ -235,12 +275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 486400,
-      "num": 486400,
-      "word": "导演没想到杨幂会这么痛快接下角色",
-      "onboard_time": 1714709178,
+      "raw_hot": 486984,
+      "num": 357017,
+      "word": "郭碧婷被刘忻选中后哭了",
+      "onboard_time": 1714712658,
       "rank": 15,
-      "category": "电影"
+      "category": "综艺"
     },
     {
       "raw_hot": 484843,
@@ -411,12 +451,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 319255,
+      "num": 319255,
+      "word": "林依轮凌晨2点化妆错峰游西湖",
+      "onboard_time": 1714712239,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316185,
       "num": 316185,
       "word": "发炎时要少吃4类食物",
       "onboard_time": 1714662139,
       "rank": 25,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 309838,
+      "num": 309838,
+      "word": "李溪芮淘汰尚雯婕哭崩了",
+      "onboard_time": 1714713139,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 298338,
@@ -475,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264823,
+      "num": 264823,
+      "word": "女子腿绑24个鸭蛋入境被查",
+      "onboard_time": 1714710738,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258851,
       "num": 258851,
       "word": "据说每个城市都来了1亿人",
@@ -497,14 +561,6 @@
       "onboard_time": 1714709297,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238662,
-      "num": 296955,
-      "word": "美国网红连吃6个月火鸡面后尿血",
-      "onboard_time": 1714710198,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237805,
@@ -553,6 +609,14 @@
       "onboard_time": 1714709778,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216946,
+      "num": 216946,
+      "word": "韩国一糖葫芦商家称日销量从500降到80串",
+      "onboard_time": 1714710318,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216407,
@@ -619,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197714,
+      "num": 197714,
+      "word": "河大礼堂着火后房顶基本坍塌",
+      "onboard_time": 1714703178,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197074,
       "num": 197074,
       "word": "济南防空警报",
@@ -635,20 +707,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196729,
+      "num": 196729,
+      "word": "ILLIT翻跳TWICE",
+      "onboard_time": 1714711760,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196093,
       "num": 196093,
       "word": "奔跑吧木偶尘封谜案",
       "onboard_time": 1714706659,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195302,
-      "num": 195302,
-      "word": "河大礼堂着火后房顶基本坍塌",
-      "onboard_time": 1714703178,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194012,
@@ -673,14 +745,6 @@
       "onboard_time": 1714707021,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189443,
-      "num": 189443,
-      "word": "韩国一糖葫芦商家称日销量从500降到80串",
-      "onboard_time": 1714710318,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188411,
@@ -763,6 +827,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169198,
+      "num": 169198,
+      "word": "蔡文静排名",
+      "onboard_time": 1714713260,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168762,
+      "num": 168762,
+      "word": "星穹铁道知更鸟",
+      "onboard_time": 1714712239,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167656,
       "num": 167656,
       "word": "陈丽君一公发如雪直拍",
@@ -801,6 +881,14 @@
       "onboard_time": 1714709959,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163731,
+      "num": 163731,
+      "word": "鸣潮 icepaper",
+      "onboard_time": 1714713019,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 162815,
@@ -856,14 +944,6 @@
       "word": "数据见证五一假期出行热度",
       "onboard_time": 1714654999,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153371,
-      "num": 153371,
-      "word": "女子腿绑24个鸭蛋入境被查",
-      "onboard_time": 1714710738,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -955,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134762,
+      "num": 134762,
+      "word": "孩子往那儿一坐和证件照似的",
+      "onboard_time": 1714711220,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134145,
       "num": 134145,
       "word": "苹果将回购1100亿美元股票",
@@ -1019,7 +1107,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126842,
+      "raw_hot": 129766,
       "num": 428586,
       "word": "北京女大学生被青岛外卖小哥暖到了",
       "onboard_time": 1714707440,

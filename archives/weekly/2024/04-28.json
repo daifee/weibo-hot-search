@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714710967520,
+  "endTime": 1714713471426,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -56,6 +56,14 @@
       "word": "华莱士 空包",
       "onboard_time": 1714705640,
       "rank": 5,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 2819477,
+      "num": 1940999,
+      "word": "前女友为胖猫发声",
+      "onboard_time": 1714708999,
+      "rank": 1,
       "category": "游戏,网红"
     },
     {
@@ -177,14 +185,6 @@
       "onboard_time": 1714377679,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1940999,
-      "num": 1940999,
-      "word": "前女友为胖猫发声",
-      "onboard_time": 1714708999,
-      "rank": 1,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 1841073,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 1343281,
-      "num": 308502,
+      "num": 315039,
       "word": "怀了两个孩子才知女方已婚",
       "onboard_time": 1714705459,
       "rank": 20,
@@ -593,6 +593,14 @@
       "onboard_time": 1714304297,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1266309,
+      "num": 373189,
+      "word": "茶百道 白开水",
+      "onboard_time": 1714712779,
+      "rank": 11,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1259200,
@@ -875,6 +883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1082830,
+      "num": 1082830,
+      "word": "华莱士回应空包",
+      "onboard_time": 1714711039,
+      "rank": 1,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1081101,
       "num": 310447,
       "word": "请病假还走了两万的微信步数",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1714629679,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 998160,
+      "num": 368065,
+      "word": "高速塌方",
+      "onboard_time": 1714711399,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 989940,
@@ -1375,6 +1399,14 @@
       "num": 642040,
       "word": "民宿涨价1500后被退单平台只赔230",
       "onboard_time": 1714320018,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 864288,
+      "num": 864288,
+      "word": "美国网红连吃6个月火鸡面后尿血",
+      "onboard_time": 1714710198,
       "rank": 19,
       "category": "社会新闻"
     },
@@ -2931,6 +2963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 525204,
+      "num": 525204,
+      "word": "导演没想到杨幂会这么痛快接下角色",
+      "onboard_time": 1714709178,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 524541,
       "num": 254758,
       "word": "史上最忙五一为何机票价格跳水",
@@ -3179,6 +3219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 486984,
+      "num": 357017,
+      "word": "郭碧婷被刘忻选中后哭了",
+      "onboard_time": 1714712658,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 486749,
       "num": 486749,
       "word": "穆雷绝杀湖人",
@@ -3192,14 +3240,6 @@
       "word": "肖战对接辟谣包场王一博电影",
       "onboard_time": 1714521977,
       "rank": 12,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 486400,
-      "num": 486400,
-      "word": "导演没想到杨幂会这么痛快接下角色",
-      "onboard_time": 1714709178,
-      "rank": 15,
       "category": "电影"
     },
     {
@@ -5059,6 +5099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319255,
+      "num": 319255,
+      "word": "林依轮凌晨2点化妆错峰游西湖",
+      "onboard_time": 1714712239,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319104,
       "num": 319104,
       "word": "詹姆斯被哈姆气到跳脚",
@@ -5225,6 +5273,14 @@
       "onboard_time": 1714475897,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 309838,
+      "num": 309838,
+      "word": "李溪芮淘汰尚雯婕哭崩了",
+      "onboard_time": 1714713139,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 309509,
@@ -5939,6 +5995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264823,
+      "num": 264823,
+      "word": "女子腿绑24个鸭蛋入境被查",
+      "onboard_time": 1714710738,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264020,
       "num": 264020,
       "word": "张新成新剧尺度",
@@ -6595,14 +6659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 238662,
-      "num": 296955,
-      "word": "美国网红连吃6个月火鸡面后尿血",
-      "onboard_time": 1714710198,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237979,
       "num": 237979,
       "word": "迪丽热巴旗袍舞台直拍",
@@ -7169,6 +7225,14 @@
       "onboard_time": 1714220238,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 216946,
+      "num": 216946,
+      "word": "韩国一糖葫芦商家称日销量从500降到80串",
+      "onboard_time": 1714710318,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216837,
@@ -8251,6 +8315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197714,
+      "num": 197714,
+      "word": "河大礼堂着火后房顶基本坍塌",
+      "onboard_time": 1714703178,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197709,
       "num": 197709,
       "word": "YOASOBI音乐节",
@@ -8337,6 +8409,14 @@
       "onboard_time": 1714288578,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196729,
+      "num": 196729,
+      "word": "ILLIT翻跳TWICE",
+      "onboard_time": 1714711760,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 196718,
@@ -8441,14 +8521,6 @@
       "onboard_time": 1714298597,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 195302,
-      "num": 195302,
-      "word": "河大礼堂着火后房顶基本坍塌",
-      "onboard_time": 1714703178,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195144,
@@ -8873,14 +8945,6 @@
       "onboard_time": 1714557258,
       "rank": 28,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 189443,
-      "num": 189443,
-      "word": "韩国一糖葫芦商家称日销量从500降到80串",
-      "onboard_time": 1714710318,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189430,
@@ -10171,11 +10235,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169198,
+      "num": 169198,
+      "word": "蔡文静排名",
+      "onboard_time": 1714713260,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169154,
       "num": 169154,
       "word": "蛋仔派对充值328元将强制人脸验证",
       "onboard_time": 1714450279,
       "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 168762,
+      "num": 168762,
+      "word": "星穹铁道知更鸟",
+      "onboard_time": 1714712239,
+      "rank": 41,
       "category": "游戏"
     },
     {
@@ -10449,6 +10529,14 @@
       "onboard_time": 1714611917,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163731,
+      "num": 163731,
+      "word": "鸣潮 icepaper",
+      "onboard_time": 1714713019,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 163555,
@@ -11097,14 +11185,6 @@
       "onboard_time": 1714655538,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153371,
-      "num": 153371,
-      "word": "女子腿绑24个鸭蛋入境被查",
-      "onboard_time": 1714710738,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153178,
@@ -12435,6 +12515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134762,
+      "num": 134762,
+      "word": "孩子往那儿一坐和证件照似的",
+      "onboard_time": 1714711220,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134751,
       "num": 134751,
       "word": "杨幂邓超同框旧照",
@@ -12883,6 +12971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129766,
+      "num": 428586,
+      "word": "北京女大学生被青岛外卖小哥暖到了",
+      "onboard_time": 1714707440,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 129723,
       "num": 129723,
       "word": "一些舒服的吃饭姿势",
@@ -13105,14 +13201,6 @@
       "onboard_time": 1714316118,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 126842,
-      "num": 428586,
-      "word": "北京女大学生被青岛外卖小哥暖到了",
-      "onboard_time": 1714707440,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 126720,
