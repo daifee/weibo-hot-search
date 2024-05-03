@@ -1,6 +1,6 @@
 {
   "startTime": 1714753402355,
-  "endTime": 1714778308453,
+  "endTime": 1714779340802,
   "band_list": [
     {
       "raw_hot": 4324589,
@@ -24,6 +24,14 @@
       "word": "妹妹曝胖猫曾说他的老婆不需要上班",
       "onboard_time": 1714743921,
       "rank": 16,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1543958,
+      "num": 156947,
+      "word": "谭竹",
+      "onboard_time": 1714777814,
+      "rank": 13,
       "category": "社会新闻,网红"
     },
     {
@@ -75,14 +83,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 552979,
-      "num": 82017,
-      "word": "谭竹",
-      "onboard_time": 1714777814,
-      "rank": 13,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 520613,
       "num": 236148,
       "word": "胖猫谭竹",
@@ -107,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445007,
-      "num": 445007,
+      "raw_hot": 454976,
+      "num": 454976,
       "word": "取消公摊会导致房价上涨吗",
       "onboard_time": 1714743801,
       "rank": 4,
@@ -137,6 +137,14 @@
       "onboard_time": 1714750999,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 359013,
+      "num": 98222,
+      "word": "胖猫",
+      "onboard_time": 1714778114,
+      "rank": 25,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 346945,
@@ -171,20 +179,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 311799,
-      "num": 63808,
-      "word": "胖猫",
-      "onboard_time": 1714778114,
-      "rank": 25,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 301520,
       "num": 236160,
       "word": "谁能想到白鹿竟然是卧底",
       "onboard_time": 1714751659,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278649,
+      "num": 278649,
+      "word": "小孩打碎博物馆近12万瓷瓶被免赔",
+      "onboard_time": 1714778653,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268677,
@@ -243,6 +251,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 229308,
+      "num": 229308,
+      "word": "五四青年节",
+      "onboard_time": 1714778293,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226835,
       "num": 226835,
       "word": "华晨宇日出演唱会会有日出吗",
@@ -275,12 +291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205584,
+      "num": 205584,
+      "word": "华晨宇演唱会唱到日出",
+      "onboard_time": 1714778774,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204933,
       "num": 236231,
       "word": "人人人人人你人人人人人",
       "onboard_time": 1714715898,
       "rank": 12,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 190325,
+      "num": 141293,
+      "word": "和华晨宇一起去看日出",
+      "onboard_time": 1714778173,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 187326,
@@ -307,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177858,
+      "num": 177858,
+      "word": "美国和沙特将达成历史性协议",
+      "onboard_time": 1714771451,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 172403,
       "num": 236156,
       "word": "刘忻 你心跳得好快",
@@ -316,7 +356,7 @@
     },
     {
       "raw_hot": 169090,
-      "num": 67076,
+      "num": 99389,
       "word": "饭后散步和不散步的人有什么区别",
       "onboard_time": 1714773013,
       "rank": 23,
@@ -347,6 +387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160959,
+      "num": 160959,
+      "word": "马嘉祺哭了",
+      "onboard_time": 1714778474,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160724,
       "num": 236118,
       "word": "龚俊爱豆妆",
@@ -355,20 +403,28 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 160671,
-      "num": 160671,
-      "word": "美国和沙特将达成历史性协议",
-      "onboard_time": 1714771451,
-      "rank": 41,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 152443,
       "num": 236117,
       "word": "广东通报一家五口海边游玩落水致4死",
       "onboard_time": 1714737799,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136177,
+      "num": 136177,
+      "word": "在大量人群中发现少量景色",
+      "onboard_time": 1714775652,
+      "rank": 12,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 134958,
+      "num": 134958,
+      "word": "体脂率是身体最诚实的胖瘦指标",
+      "onboard_time": 1714777993,
+      "rank": 26,
+      "category": "运动健身"
     },
     {
       "raw_hot": 132393,
@@ -427,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113286,
+      "num": 68145,
+      "word": "胖猫姐姐呼吁网友不要再叫外卖",
+      "onboard_time": 1714778894,
+      "rank": 34,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 111860,
       "num": 236051,
       "word": "黄景瑜 怎么连吃带拿上了",
@@ -451,16 +515,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94212,
-      "num": 82215,
-      "word": "和华晨宇一起去看日出",
-      "onboard_time": 1714778173,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 93922,
-      "num": 65618,
+      "num": 77187,
       "word": "发炎其实是人类的超能力",
       "onboard_time": 1714767430,
       "rank": 47,
@@ -475,20 +531,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92067,
+      "num": 92067,
+      "word": "导演踩着李现底线拍春色寄情人",
+      "onboard_time": 1714778954,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88706,
       "num": 236016,
       "word": "十个勤天 音乐节",
       "onboard_time": 1714742720,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 88031,
-      "num": 82094,
-      "word": "在大量人群中发现少量景色",
-      "onboard_time": 1714775652,
-      "rank": 12,
-      "category": "旅游"
     },
     {
       "raw_hot": 87195,
@@ -499,12 +555,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72764,
-      "num": 63538,
-      "word": "体脂率是身体最诚实的胖瘦指标",
-      "onboard_time": 1714777993,
-      "rank": 26,
-      "category": "运动健身"
+      "raw_hot": 76417,
+      "num": 76417,
+      "word": "周鸿祎说马化腾要解决微信好友上限问题",
+      "onboard_time": 1714778054,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 75693,
+      "num": 75693,
+      "word": "别人求婚李健心领了",
+      "onboard_time": 1714777694,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 71526,
@@ -523,12 +587,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55499,
-      "num": 55499,
-      "word": "五四青年节",
-      "onboard_time": 1714778293,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 60368,
+      "num": 60368,
+      "word": "车主称问界新M7行车时大灯突然熄灭",
+      "onboard_time": 1714778653,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 53572,
@@ -539,36 +603,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 52001,
+      "num": 52001,
+      "word": "2024F1迈阿密大奖赛",
+      "onboard_time": 1714778355,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 50601,
+      "num": 52495,
+      "word": "一个不花钱不吃药的补肾小动作",
+      "onboard_time": 1714777934,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 44204,
       "num": 54778,
       "word": "白鹿中式风妆造",
       "onboard_time": 1714774152,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43819,
-      "num": 54695,
-      "word": "别人求婚李健心领了",
-      "onboard_time": 1714777694,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 42284,
-      "num": 53209,
-      "word": "周鸿祎说马化腾要解决微信好友上限问题",
-      "onboard_time": 1714778054,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 38498,
-      "num": 52495,
-      "word": "一个不花钱不吃药的补肾小动作",
-      "onboard_time": 1714777934,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 35966,

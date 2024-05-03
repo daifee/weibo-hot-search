@@ -1,0 +1,410 @@
+{
+  "runTime": 1714779340802,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 454976,
+        "num": 454976,
+        "word": "取消公摊会导致房价上涨吗",
+        "onboard_time": 1714743801,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331538,
+        "num": 331538,
+        "word": "演唱会是一个巨大的乌托邦",
+        "onboard_time": 1714750940,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20689,
+        "num": 306468,
+        "word": "文化中国行我写家乡",
+        "onboard_time": 1714742900,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302992,
+        "num": 302992,
+        "word": "他真的娶到了高中就想娶的女孩",
+        "onboard_time": 1714745302,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278649,
+        "num": 278649,
+        "word": "小孩打碎博物馆近12万瓷瓶被免赔",
+        "onboard_time": 1714778653,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234270,
+        "num": 234270,
+        "word": "正式被确诊为淡淡综合症",
+        "onboard_time": 1714744701,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229308,
+        "num": 229308,
+        "word": "五四青年节",
+        "onboard_time": 1714778293,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205584,
+        "num": 205584,
+        "word": "华晨宇演唱会唱到日出",
+        "onboard_time": 1714778774,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177858,
+        "num": 177858,
+        "word": "美国和沙特将达成历史性协议",
+        "onboard_time": 1714771451,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 160959,
+        "num": 160959,
+        "word": "马嘉祺哭了",
+        "onboard_time": 1714778474,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1543958,
+        "num": 156947,
+        "word": "谭竹",
+        "onboard_time": 1714777814,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 144222,
+        "num": 144222,
+        "word": "梅大高速男子下跪拦车获救者也向他下跪",
+        "onboard_time": 1714734499,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192942,
+        "num": 143153,
+        "word": "华晨宇日出演唱会会有日出吗",
+        "onboard_time": 1714754717,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 746892,
+        "num": 142429,
+        "word": "胖猫事件",
+        "onboard_time": 1714720519,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 190325,
+        "num": 141293,
+        "word": "和华晨宇一起去看日出",
+        "onboard_time": 1714778173,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136177,
+        "num": 136177,
+        "word": "在大量人群中发现少量景色",
+        "onboard_time": 1714775652,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 513938,
+        "num": 135932,
+        "word": "21岁男生跳江后续",
+        "onboard_time": 1714745543,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134958,
+        "num": 134958,
+        "word": "体脂率是身体最诚实的胖瘦指标",
+        "onboard_time": 1714777993,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 117490,
+        "num": 117490,
+        "word": "建议大学生提前培养一个小号",
+        "onboard_time": 1714736299,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 453414,
+        "num": 115812,
+        "word": "妹妹曝胖猫曾说他的老婆不需要上班",
+        "onboard_time": 1714743921,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 313348,
+        "num": 106325,
+        "word": "向太夸郭碧婷是股清流",
+        "onboard_time": 1714754957,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138298,
+        "num": 99389,
+        "word": "饭后散步和不散步的人有什么区别",
+        "onboard_time": 1714773013,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 359013,
+        "num": 98222,
+        "word": "胖猫",
+        "onboard_time": 1714778114,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 93123,
+        "num": 93123,
+        "word": "迪丽热巴同款民族服饰火了",
+        "onboard_time": 1714748422,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92067,
+        "num": 92067,
+        "word": "导演踩着李现底线拍春色寄情人",
+        "onboard_time": 1714778954,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355405,
+        "num": 85296,
+        "word": "殷世航 两米八",
+        "onboard_time": 1714754658,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 77187,
+        "num": 77187,
+        "word": "发炎其实是人类的超能力",
+        "onboard_time": 1714767430,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76731,
+        "num": 76731,
+        "word": "员工一年内因迟到被扣20万元工资",
+        "onboard_time": 1714741641,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153641,
+        "num": 76648,
+        "word": "胖猫已火化",
+        "onboard_time": 1714734860,
+        "rank": 28,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 76417,
+        "num": 76417,
+        "word": "周鸿祎说马化腾要解决微信好友上限问题",
+        "onboard_time": 1714778054,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 75693,
+        "num": 75693,
+        "word": "别人求婚李健心领了",
+        "onboard_time": 1714777694,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128931,
+        "num": 73726,
+        "word": "胖猫跳江事发地摆满鲜花汉堡",
+        "onboard_time": 1714730358,
+        "rank": 31,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 70180,
+        "num": 70180,
+        "word": "为什么韩国身份证有中国名字",
+        "onboard_time": 1714727719,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69037,
+        "num": 69037,
+        "word": "被橘子洲600元的双向奔赴暖到了",
+        "onboard_time": 1714763112,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113286,
+        "num": 68145,
+        "word": "胖猫姐姐呼吁网友不要再叫外卖",
+        "onboard_time": 1714778894,
+        "rank": 34,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 67179,
+        "num": 67179,
+        "word": "为什么鸡爪越来越贵了",
+        "onboard_time": 1714750999,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 65114,
+        "num": 65114,
+        "word": "广东通报一家五口海边游玩落水致4死",
+        "onboard_time": 1714737799,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79946,
+        "num": 65012,
+        "word": "胖猫谭竹",
+        "onboard_time": 1714663219,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 63416,
+        "num": 63416,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1714715898,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 60368,
+        "num": 60368,
+        "word": "车主称问界新M7行车时大灯突然熄灭",
+        "onboard_time": 1714778653,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 67956,
+        "num": 59818,
+        "word": "胖猫姐姐准备打官司追回被骗钱款",
+        "onboard_time": 1714757234,
+        "rank": 40,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 59035,
+        "num": 59035,
+        "word": "谁能想到白鹿竟然是卧底",
+        "onboard_time": 1714751659,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58117,
+        "num": 58117,
+        "word": "龚俊爱豆妆",
+        "onboard_time": 1714745842,
+        "rank": 42,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 56580,
+        "num": 56580,
+        "word": "谭竹回应",
+        "onboard_time": 1714691414,
+        "rank": 43,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 52001,
+        "num": 52001,
+        "word": "2024F1迈阿密大奖赛",
+        "onboard_time": 1714778355,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51252,
+        "num": 51252,
+        "word": "陈楚生徐佳莹唱身骑白马",
+        "onboard_time": 1714752859,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53673,
+        "num": 51184,
+        "word": "各大网红替胖猫发声",
+        "onboard_time": 1714739361,
+        "rank": 46,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 50881,
+        "num": 50881,
+        "word": "河南大学大礼堂火灾相关责任人被控制",
+        "onboard_time": 1714741102,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50601,
+        "num": 50601,
+        "word": "一个不花钱不吃药的补肾小动作",
+        "onboard_time": 1714777934,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50290,
+        "num": 50290,
+        "word": "万妮达一公排名倒数",
+        "onboard_time": 1714753038,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国广大青年致以节日祝贺和诚挚问候#"
+    }
+  }
+}
