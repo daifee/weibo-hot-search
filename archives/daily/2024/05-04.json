@@ -1,6 +1,6 @@
 {
   "startTime": 1714753402355,
-  "endTime": 1714756576707,
+  "endTime": 1714757660375,
   "band_list": [
     {
       "raw_hot": 4324589,
@@ -51,7 +51,7 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 761856,
+      "raw_hot": 781012,
       "num": 193992,
       "word": "殷世航 两米八",
       "onboard_time": 1714754658,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288406,
+      "num": 193978,
+      "word": "向太夸郭碧婷是股清流",
+      "onboard_time": 1714754957,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268677,
       "num": 268677,
       "word": "梅大高速男子下跪拦车获救者也向他下跪",
@@ -201,14 +209,6 @@
       "onboard_time": 1714751480,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 242303,
-      "num": 193978,
-      "word": "向太夸郭碧婷是股清流",
-      "onboard_time": 1714754957,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 236243,
@@ -331,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130965,
+      "num": 164852,
+      "word": "胖猫姐姐准备打官司追回被骗钱款",
+      "onboard_time": 1714757234,
+      "rank": 29,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 128116,
       "num": 236095,
       "word": "信一仙品",
@@ -441,6 +449,14 @@
       "onboard_time": 1714735639,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 53572,
+      "num": 142355,
+      "word": "信一好帅",
+      "onboard_time": 1714757354,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 26346,
