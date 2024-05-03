@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714754239453,
+  "endTime": 1714756576707,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -1945,6 +1945,14 @@
       "onboard_time": 1714229960,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 761856,
+      "num": 193992,
+      "word": "殷世航 两米八",
+      "onboard_time": 1714754658,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 759116,
@@ -4491,6 +4499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411813,
+      "num": 236173,
+      "word": "为什么鸡爪越来越贵了",
+      "onboard_time": 1714750999,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 411560,
       "num": 411560,
       "word": "雷军希望车企私下别搞小动作",
@@ -4665,14 +4681,6 @@
       "onboard_time": 1714727179,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 391911,
-      "num": 236173,
-      "word": "为什么鸡爪越来越贵了",
-      "onboard_time": 1714750999,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 389570,
@@ -5201,6 +5209,14 @@
       "onboard_time": 1714468517,
       "rank": 28,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 346945,
+      "num": 346945,
+      "word": "万妮达一公排名倒数",
+      "onboard_time": 1714753038,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 346526,
@@ -5913,6 +5929,14 @@
       "onboard_time": 1714542199,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 301520,
+      "num": 236160,
+      "word": "谁能想到白鹿竟然是卧底",
+      "onboard_time": 1714751659,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 301333,
@@ -7243,6 +7267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242303,
+      "num": 193978,
+      "word": "向太夸郭碧婷是股清流",
+      "onboard_time": 1714754957,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242004,
       "num": 242004,
       "word": "老头杯",
@@ -7433,14 +7465,6 @@
       "onboard_time": 1714225819,
       "rank": 24,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 234547,
-      "num": 236160,
-      "word": "谁能想到白鹿竟然是卧底",
-      "onboard_time": 1714751659,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 234310,
@@ -7792,14 +7816,6 @@
       "word": "十个勤天说王阳是猛男具象化",
       "onboard_time": 1714450038,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 223443,
-      "num": 236086,
-      "word": "万妮达一公排名倒数",
-      "onboard_time": 1714753038,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -16353,6 +16369,14 @@
       "onboard_time": 1714551378,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80806,
+      "num": 193924,
+      "word": "华晨宇日出演唱会会有日出吗",
+      "onboard_time": 1714754717,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 80778,

@@ -1,6 +1,6 @@
 {
   "startTime": 1714753402355,
-  "endTime": 1714754239453,
+  "endTime": 1714756576707,
   "band_list": [
     {
       "raw_hot": 4324589,
@@ -49,6 +49,14 @@
       "onboard_time": 1714734860,
       "rank": 19,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 761856,
+      "num": 193992,
+      "word": "殷世航 两米八",
+      "onboard_time": 1714754658,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 720745,
@@ -115,12 +123,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 391911,
+      "raw_hot": 411813,
       "num": 236173,
       "word": "为什么鸡爪越来越贵了",
       "onboard_time": 1714750999,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 346945,
+      "num": 346945,
+      "word": "万妮达一公排名倒数",
+      "onboard_time": 1714753038,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 331268,
@@ -137,6 +153,14 @@
       "onboard_time": 1714691414,
       "rank": 32,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 301520,
+      "num": 236160,
+      "word": "谁能想到白鹿竟然是卧底",
+      "onboard_time": 1714751659,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 268677,
@@ -179,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242303,
+      "num": 193978,
+      "word": "向太夸郭碧婷是股清流",
+      "onboard_time": 1714754957,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236243,
       "num": 236243,
       "word": "迪丽热巴同款民族服饰火了",
@@ -187,28 +219,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 234547,
-      "num": 236160,
-      "word": "谁能想到白鹿竟然是卧底",
-      "onboard_time": 1714751659,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230386,
       "num": 236074,
       "word": "茶百道以胖猫之名捐款100万",
       "onboard_time": 1714717099,
       "rank": 38,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 223443,
-      "num": 236086,
-      "word": "万妮达一公排名倒数",
-      "onboard_time": 1714753038,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 222686,
@@ -411,6 +427,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80806,
+      "num": 193924,
+      "word": "华晨宇日出演唱会会有日出吗",
+      "onboard_time": 1714754717,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 64927,
+      "num": 193849,
+      "word": "恋爱兄妹",
+      "onboard_time": 1714735639,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26346,
       "num": 574113,
       "word": "文化中国行我写家乡",
@@ -425,6 +457,9 @@
     },
     {
       "word": "#追光的你#"
+    },
+    {
+      "word": "#习近平向全国广大青年致以节日祝贺和诚挚问候#"
     }
   ]
 }
