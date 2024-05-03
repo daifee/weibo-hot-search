@@ -1,10 +1,10 @@
 {
   "startTime": 1714666942242,
-  "endTime": 1714706546085,
+  "endTime": 1714707292477,
   "band_list": [
     {
-      "raw_hot": 3212892,
-      "num": 3212892,
+      "raw_hot": 3222104,
+      "num": 3222104,
       "word": "谭竹回应",
       "onboard_time": 1714691414,
       "rank": 13,
@@ -25,6 +25,14 @@
       "onboard_time": 1714675092,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1885219,
+      "num": 1885219,
+      "word": "华莱士 空包",
+      "onboard_time": 1714705640,
+      "rank": 5,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1841073,
@@ -99,14 +107,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 972954,
-      "num": 972954,
-      "word": "华莱士 空包",
-      "onboard_time": 1714705640,
-      "rank": 5,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 972744,
       "num": 972744,
       "word": "河南大学通报大礼堂起火",
@@ -115,8 +115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 882746,
-      "num": 882746,
+      "raw_hot": 891566,
+      "num": 891566,
       "word": "朴彩英 看得出她是公主",
       "onboard_time": 1714704679,
       "rank": 6,
@@ -185,6 +185,14 @@
       "onboard_time": 1714699098,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 519382,
+      "num": 413901,
+      "word": "朴彩英赵露思撞衫",
+      "onboard_time": 1714706719,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 509029,
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445839,
+      "num": 445839,
+      "word": "国产剧终于把人的欲望还给主角了",
+      "onboard_time": 1714705579,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 440393,
       "num": 231382,
       "word": "老公一个月四千多养活我们一家三口",
@@ -291,7 +307,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 405410,
+      "raw_hot": 410783,
       "num": 380769,
       "word": "胖猫姐姐发声",
       "onboard_time": 1714693454,
@@ -323,12 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 393362,
-      "num": 393362,
-      "word": "国产剧终于把人的欲望还给主角了",
-      "onboard_time": 1714705579,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 369429,
+      "num": 263991,
+      "word": "原来夫妻分床睡还有这好处",
+      "onboard_time": 1714703298,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 346353,
@@ -361,14 +377,6 @@
       "onboard_time": 1714655599,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 296933,
-      "num": 263991,
-      "word": "原来夫妻分床睡还有这好处",
-      "onboard_time": 1714703298,
-      "rank": 39,
-      "category": "科学科普"
     },
     {
       "raw_hot": 294582,
@@ -409,6 +417,14 @@
       "onboard_time": 1714704679,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268605,
+      "num": 268605,
+      "word": "丫丫腰又粗了",
+      "onboard_time": 1714706119,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267113,
@@ -467,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 216108,
+      "num": 216108,
+      "word": "河南文物局已去河大礼堂现场",
+      "onboard_time": 1714706357,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215661,
       "num": 215661,
       "word": "成毅工作室放饭",
@@ -499,14 +523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200730,
-      "num": 200730,
-      "word": "丫丫腰又粗了",
-      "onboard_time": 1714706119,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197074,
       "num": 197074,
       "word": "济南防空警报",
@@ -521,6 +537,14 @@
       "onboard_time": 1714702758,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196093,
+      "num": 196093,
+      "word": "奔跑吧木偶尘封谜案",
+      "onboard_time": 1714706659,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 195302,
@@ -545,6 +569,14 @@
       "onboard_time": 1714702278,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190163,
+      "num": 190163,
+      "word": "全员加速中全员有奖",
+      "onboard_time": 1714707021,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 188411,
@@ -587,11 +619,27 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 178558,
+      "num": 178558,
+      "word": "余景天翻跳smoothie",
+      "onboard_time": 1714705999,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 178437,
       "num": 178437,
       "word": "三百领养金渐层但要分期七千买猫粮",
       "onboard_time": 1714695377,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177740,
+      "num": 177740,
+      "word": "梅州",
+      "onboard_time": 1714706958,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -601,6 +649,14 @@
       "onboard_time": 1714704019,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172822,
+      "num": 172822,
+      "word": "Faker名人堂皮肤爆料",
+      "onboard_time": 1714706539,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 171295,
@@ -619,12 +675,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167583,
-      "num": 167583,
-      "word": "余景天翻跳smoothie",
-      "onboard_time": 1714705999,
-      "rank": 40,
-      "category": "作品衍生"
+      "raw_hot": 166096,
+      "num": 166096,
+      "word": "张凌赫买了牛牛拖鞋",
+      "onboard_time": 1714706539,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 164818,
@@ -707,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150404,
+      "num": 150404,
+      "word": "猪猪侠皮肤",
+      "onboard_time": 1714706599,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149108,
       "num": 149108,
       "word": "一个位置坐久了真的会有感情",
@@ -755,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137119,
-      "num": 137119,
-      "word": "河南文物局已去河大礼堂现场",
-      "onboard_time": 1714706357,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134145,
       "num": 134145,
       "word": "苹果将回购1100亿美元股票",
@@ -793,6 +849,14 @@
       "onboard_time": 1714698318,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132307,
+      "num": 275488,
+      "word": "墨西哥60年来超过11万人失踪",
+      "onboard_time": 1714705517,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132145,
@@ -865,14 +929,6 @@
       "onboard_time": 1714632616,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 117020,
-      "num": 275488,
-      "word": "墨西哥60年来超过11万人失踪",
-      "onboard_time": 1714705517,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115112,
@@ -1147,8 +1203,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45224,
+      "num": 1995354,
+      "word": "嫦娥家族奔月路每秒都热血沸腾",
+      "onboard_time": 1714707021,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43697,
-      "num": 270941,
+      "num": 425395,
       "word": "时代少年团全员被整蛊",
       "onboard_time": 1714705157,
       "rank": 21,
@@ -1187,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25309,
+      "num": 207857,
+      "word": "要织密安全防范措施之网",
+      "onboard_time": 1714706719,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21177,
       "num": 23641,
       "word": "切尔西vs热刺",
@@ -1201,6 +1273,9 @@
     },
     {
       "word": "#追光的你#"
+    },
+    {
+      "word": "#习主席曾将001号证书颁给这位法国人#"
     }
   ]
 }
