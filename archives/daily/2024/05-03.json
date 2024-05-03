@@ -1,6 +1,6 @@
 {
   "startTime": 1714666942242,
-  "endTime": 1714728873382,
+  "endTime": 1714731568199,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -179,6 +179,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1021483,
+      "num": 462082,
+      "word": "为什么韩国身份证有中国名字",
+      "onboard_time": 1714727719,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 998160,
       "num": 557551,
       "word": "高速塌方",
@@ -209,6 +217,14 @@
       "onboard_time": 1714704679,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 882671,
+      "num": 882671,
+      "word": "直播嫦娥六号发射",
+      "onboard_time": 1714719259,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 874708,
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 780254,
+      "num": 462219,
+      "word": "梦奇",
+      "onboard_time": 1714726518,
+      "rank": 20,
+      "category": "网红,游戏"
+    },
+    {
       "raw_hot": 728200,
       "num": 503402,
       "word": "重庆长江大桥",
@@ -273,14 +297,6 @@
       "onboard_time": 1714712658,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 687926,
-      "num": 462219,
-      "word": "梦奇",
-      "onboard_time": 1714726518,
-      "rank": 20,
-      "category": "网红,游戏"
     },
     {
       "raw_hot": 674521,
@@ -315,28 +331,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 614075,
-      "num": 614075,
-      "word": "直播嫦娥六号发射",
-      "onboard_time": 1714719259,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 598444,
       "num": 598444,
       "word": "外交官在澡堂偷拍男孩新加坡发声",
       "onboard_time": 1714699037,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 576224,
-      "num": 372270,
-      "word": "为什么韩国身份证有中国名字",
-      "onboard_time": 1714727719,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 572476,
@@ -387,6 +387,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 520956,
+      "num": 147786,
+      "word": "胖猫跳江事发地摆满鲜花汉堡",
+      "onboard_time": 1714730358,
+      "rank": 31,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 509029,
       "num": 509029,
       "word": "景区因开封王婆回归游客量过大临时限流",
@@ -409,6 +417,14 @@
       "onboard_time": 1714691953,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495262,
+      "num": 222908,
+      "word": "王一博身份证掉了",
+      "onboard_time": 1714728080,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 494520,
@@ -547,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424526,
+      "num": 360658,
+      "word": "腾讯娱乐 赵丽颖名字即收视保证",
+      "onboard_time": 1714728979,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 413875,
       "num": 315370,
       "word": "朱珠方发文谴责倒卖门票商品行为",
@@ -579,12 +603,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 397374,
-      "num": 200005,
-      "word": "王一博身份证掉了",
-      "onboard_time": 1714728080,
+      "raw_hot": 400569,
+      "num": 210901,
+      "word": "牛约堡致歉",
+      "onboard_time": 1714731018,
       "rank": 22,
-      "category": "艺人"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394590,
@@ -633,6 +657,14 @@
       "onboard_time": 1714660940,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345460,
+      "num": 345460,
+      "word": "嫦娥六号奔月",
+      "onboard_time": 1714728260,
+      "rank": 14,
+      "category": "科学科普"
     },
     {
       "raw_hot": 342870,
@@ -753,6 +785,14 @@
       "onboard_time": 1714716739,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261873,
+      "num": 107658,
+      "word": "贡茶发文谴责外卖空包的行为",
+      "onboard_time": 1714729338,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258851,
@@ -913,6 +953,14 @@
       "onboard_time": 1714702577,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208404,
+      "num": 208404,
+      "word": "李溪芮Miss淘汰",
+      "onboard_time": 1714728859,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 206779,
@@ -1195,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165570,
+      "num": 165570,
+      "word": "陈昊宇翻牌",
+      "onboard_time": 1714730599,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164818,
       "num": 164818,
       "word": "原来生活中的暗示这么明显",
@@ -1251,6 +1307,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 162088,
+      "num": 162088,
+      "word": "于文文 不要随口立flag",
+      "onboard_time": 1714731139,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160535,
       "num": 160535,
       "word": "以方代表在联大称联合国日子不多了",
@@ -1305,6 +1369,14 @@
       "onboard_time": 1714663159,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 151883,
+      "num": 151883,
+      "word": "中国开启人类首次月球背面取样",
+      "onboard_time": 1714729699,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151806,
@@ -1371,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144614,
+      "num": 144614,
+      "word": "九龙城寨 好看",
+      "onboard_time": 1714729879,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144404,
       "num": 144404,
       "word": "7旬老人莫名背负上亿债务",
@@ -1393,6 +1473,14 @@
       "onboard_time": 1714705098,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141552,
+      "num": 141552,
+      "word": "童瑶发量",
+      "onboard_time": 1714730478,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 140942,
@@ -1441,6 +1529,14 @@
       "onboard_time": 1714717639,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135522,
+      "num": 135522,
+      "word": "鬼灭之刃 最后的温柔",
+      "onboard_time": 1714729999,
+      "rank": 36,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 134852,
@@ -1563,12 +1659,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 127908,
+      "num": 127908,
+      "word": "为什么各地都在新建古镇",
+      "onboard_time": 1714731018,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127781,
       "num": 127781,
       "word": "无畏被瑶送锦旗",
       "onboard_time": 1714716739,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127620,
+      "num": 127620,
+      "word": "嫦娥六号发射瞬间",
+      "onboard_time": 1714729638,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127181,
@@ -1691,6 +1803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 113915,
+      "num": 113915,
+      "word": "有事和身体商量真的有用",
+      "onboard_time": 1714729758,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112639,
       "num": 112639,
       "word": "五一档新片票房破9亿",
@@ -1737,6 +1857,14 @@
       "onboard_time": 1714650619,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109064,
+      "num": 109064,
+      "word": "T1战胜Fly",
+      "onboard_time": 1714729219,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 108425,
@@ -1843,6 +1971,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98024,
+      "num": 98024,
+      "word": "嫦娥六号要出差50多天",
+      "onboard_time": 1714729520,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97847,
+      "num": 367258,
+      "word": "青岛人五一期间选择蹲家游",
+      "onboard_time": 1714730658,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 97323,
       "num": 97323,
       "word": "昆山文旅局回应拼盘演出观众喊退票",
@@ -1907,19 +2051,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81884,
+      "num": 368845,
+      "word": "生活贫困但知识和道德不能贫困",
+      "onboard_time": 1714729819,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81352,
       "num": 81352,
       "word": "黄子韬抓住徐艺洋的手",
       "onboard_time": 1714638201,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 78656,
-      "num": 78656,
-      "word": "李溪芮Miss淘汰",
-      "onboard_time": 1714728859,
-      "rank": 49,
       "category": "综艺"
     },
     {
@@ -2019,6 +2163,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 50419,
+      "num": 679689,
+      "word": "文化中国行感受非遗魅力",
+      "onboard_time": 1714724779,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49733,
       "num": 53448,
       "word": "灿烂的花园",
@@ -2067,14 +2219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33617,
-      "num": 679689,
-      "word": "文化中国行感受非遗魅力",
-      "onboard_time": 1714724779,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25728,
       "num": 25728,
       "word": "WTT沙特大满贯2024",
@@ -2116,6 +2260,9 @@
     },
     {
       "word": "#习主席曾将001号证书颁给这位法国人#"
+    },
+    {
+      "word": "#加快构建现代化产业体系#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1714731568199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7574209,
+        "num": 7574209,
+        "word": "胖猫事件",
+        "onboard_time": 1714720519,
+        "rank": 0,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 882671,
+        "num": 882671,
+        "word": "直播嫦娥六号发射",
+        "onboard_time": 1714719259,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50419,
+        "num": 463984,
+        "word": "文化中国行感受非遗魅力",
+        "onboard_time": 1714724779,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021483,
+        "num": 462082,
+        "word": "为什么韩国身份证有中国名字",
+        "onboard_time": 1714727719,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917075,
+        "num": 461737,
+        "word": "茶百道以胖猫之名捐款100万",
+        "onboard_time": 1714717099,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 459439,
+        "num": 459439,
+        "word": "梅大高速下跪拦车的老人找到了",
+        "onboard_time": 1714714998,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372504,
+        "num": 372504,
+        "word": "亳州王婆说媒劝小伙牵手怀孕女孩",
+        "onboard_time": 1714723700,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780254,
+        "num": 371670,
+        "word": "梦奇",
+        "onboard_time": 1714726518,
+        "rank": 7,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 81884,
+        "num": 368845,
+        "word": "生活贫困但知识和道德不能贫困",
+        "onboard_time": 1714729819,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97847,
+        "num": 367258,
+        "word": "青岛人五一期间选择蹲家游",
+        "onboard_time": 1714730658,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1243864,
+        "num": 362949,
+        "word": "前女友为胖猫发声",
+        "onboard_time": 1714708999,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 424526,
+        "num": 360658,
+        "word": "腾讯娱乐 赵丽颖名字即收视保证",
+        "onboard_time": 1714728979,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360060,
+        "num": 360060,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1714715898,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1138369,
+        "num": 355000,
+        "word": "谭竹回应",
+        "onboard_time": 1714691414,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 345460,
+        "num": 345460,
+        "word": "嫦娥六号奔月",
+        "onboard_time": 1714728260,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 296399,
+        "num": 296399,
+        "word": "散步是一件亲密且暧昧的事",
+        "onboard_time": 1714725978,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 665679,
+        "num": 282416,
+        "word": "华莱士回应空包",
+        "onboard_time": 1714711039,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265718,
+        "num": 265718,
+        "word": "陈昊宇第22名",
+        "onboard_time": 1714727179,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233928,
+        "num": 233928,
+        "word": "活鸭要40多为何烤鸭才18元一只",
+        "onboard_time": 1714702399,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 489439,
+        "num": 230595,
+        "word": "胖猫谭竹",
+        "onboard_time": 1714663219,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 495262,
+        "num": 222908,
+        "word": "王一博身份证掉了",
+        "onboard_time": 1714728080,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254924,
+        "num": 219306,
+        "word": "李飞怎么瘦成这样了",
+        "onboard_time": 1714722499,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400569,
+        "num": 210901,
+        "word": "牛约堡致歉",
+        "onboard_time": 1714731018,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208404,
+        "num": 208404,
+        "word": "李溪芮Miss淘汰",
+        "onboard_time": 1714728859,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203035,
+        "num": 203035,
+        "word": "酱牛肉切开是彩虹色的千万别立刻吃",
+        "onboard_time": 1714715540,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 378830,
+        "num": 185711,
+        "word": "重庆长江大桥",
+        "onboard_time": 1714719378,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165570,
+        "num": 165570,
+        "word": "陈昊宇翻牌",
+        "onboard_time": 1714730599,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162088,
+        "num": 162088,
+        "word": "于文文 不要随口立flag",
+        "onboard_time": 1714731139,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375232,
+        "num": 158880,
+        "word": "华莱士 空包",
+        "onboard_time": 1714705640,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151883,
+        "num": 151883,
+        "word": "中国开启人类首次月球背面取样",
+        "onboard_time": 1714729699,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147904,
+        "num": 147904,
+        "word": "朴彩英赵露思撞衫",
+        "onboard_time": 1714706719,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 520956,
+        "num": 147786,
+        "word": "胖猫跳江事发地摆满鲜花汉堡",
+        "onboard_time": 1714730358,
+        "rank": 31,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 146225,
+        "num": 146225,
+        "word": "连狗都知道吃黄瓜要吐尖",
+        "onboard_time": 1714726159,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144614,
+        "num": 144614,
+        "word": "九龙城寨 好看",
+        "onboard_time": 1714729879,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 448770,
+        "num": 143597,
+        "word": "茶百道 白开水",
+        "onboard_time": 1714712779,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141552,
+        "num": 141552,
+        "word": "童瑶发量",
+        "onboard_time": 1714730478,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135522,
+        "num": 135522,
+        "word": "鬼灭之刃 最后的温柔",
+        "onboard_time": 1714729999,
+        "rank": 36,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 305050,
+        "num": 135265,
+        "word": "殷世航为胖猫发声",
+        "onboard_time": 1714699878,
+        "rank": 37,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 132237,
+        "num": 132237,
+        "word": "工资突然爆炸式提升是什么体验",
+        "onboard_time": 1714723038,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127908,
+        "num": 127908,
+        "word": "为什么各地都在新建古镇",
+        "onboard_time": 1714731018,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281292,
+        "num": 127892,
+        "word": "我不要吃菜 我要吃麦当劳",
+        "onboard_time": 1714719918,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127620,
+        "num": 127620,
+        "word": "嫦娥六号发射瞬间",
+        "onboard_time": 1714729638,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117074,
+        "num": 117074,
+        "word": "财务瞒天过海12年炒股亏光公司1350万",
+        "onboard_time": 1714723222,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275735,
+        "num": 116645,
+        "word": "茶百道声明",
+        "onboard_time": 1714715898,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113915,
+        "num": 113915,
+        "word": "有事和身体商量真的有用",
+        "onboard_time": 1714729758,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109064,
+        "num": 109064,
+        "word": "T1战胜Fly",
+        "onboard_time": 1714729219,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 261873,
+        "num": 107658,
+        "word": "贡茶发文谴责外卖空包的行为",
+        "onboard_time": 1714729338,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105414,
+        "num": 105414,
+        "word": "丁程鑫你才多大管欧豪叫宝宝",
+        "onboard_time": 1714726099,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98024,
+        "num": 98024,
+        "word": "嫦娥六号要出差50多天",
+        "onboard_time": 1714729520,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240831,
+        "num": 97919,
+        "word": "浪队",
+        "onboard_time": 1714727239,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快构建现代化产业体系#"
+    }
+  }
+}
