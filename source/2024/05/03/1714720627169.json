@@ -1,0 +1,410 @@
+{
+  "runTime": 1714720627169,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2364982,
+        "num": 2364982,
+        "word": "茶百道以胖猫之名捐款100万",
+        "onboard_time": 1714717099,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1317760,
+        "num": 1317760,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1714715898,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 56006,
+        "num": 1266404,
+        "word": "嫦娥家族奔月路每秒都热血沸腾",
+        "onboard_time": 1714707021,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2977098,
+        "num": 1261461,
+        "word": "茶百道 白开水",
+        "onboard_time": 1714712779,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1250544,
+        "num": 1250544,
+        "word": "梅大高速下跪拦车的老人找到了",
+        "onboard_time": 1714714998,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585173,
+        "num": 585173,
+        "word": "五三惨案",
+        "onboard_time": 1714703539,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1460083,
+        "num": 571927,
+        "word": "茶百道声明",
+        "onboard_time": 1714715898,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548992,
+        "num": 548992,
+        "word": "酱牛肉切开是彩虹色的千万别立刻吃",
+        "onboard_time": 1714715540,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 397383,
+        "num": 397383,
+        "word": "活鸭要40多为何烤鸭才18元一只",
+        "onboard_time": 1714702399,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94433,
+        "num": 375265,
+        "word": "北京女大学生被青岛外卖小哥暖到了",
+        "onboard_time": 1714707440,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 2257284,
+        "num": 374129,
+        "word": "前女友为胖猫发声",
+        "onboard_time": 1714708999,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 431070,
+        "num": 373666,
+        "word": "朴彩英赵露思撞衫",
+        "onboard_time": 1714706719,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372930,
+        "num": 372930,
+        "word": "郭碧婷被刘忻选中后哭了",
+        "onboard_time": 1714712658,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2111019,
+        "num": 363213,
+        "word": "谭竹回应",
+        "onboard_time": 1714691414,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 352099,
+        "num": 352099,
+        "word": "徐艺洋好了解黄子韬",
+        "onboard_time": 1714718000,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296329,
+        "num": 296329,
+        "word": "直播嫦娥六号发射",
+        "onboard_time": 1714719259,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1228804,
+        "num": 285614,
+        "word": "胖猫谭竹",
+        "onboard_time": 1714663219,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 261242,
+        "num": 261242,
+        "word": "陈丽君一公排名第二",
+        "onboard_time": 1714716739,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254952,
+        "num": 254952,
+        "word": "苗苗选了楼外楼",
+        "onboard_time": 1714719620,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1141337,
+        "num": 252752,
+        "word": "华莱士 空包",
+        "onboard_time": 1714705640,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324756,
+        "num": 244944,
+        "word": "童瑶自曝不好意思被张新成看",
+        "onboard_time": 1714719319,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235314,
+        "num": 235314,
+        "word": "梅大高速塌方灾害救援昼夜不停",
+        "onboard_time": 1714711399,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 956987,
+        "num": 233053,
+        "word": "胖猫",
+        "onboard_time": 1714653859,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 218052,
+        "num": 218052,
+        "word": "美国网红连吃6个月火鸡面后尿血",
+        "onboard_time": 1714710198,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205032,
+        "num": 205032,
+        "word": "乐华男团从哇唧唧哇到时代峰峻",
+        "onboard_time": 1714719021,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 750677,
+        "num": 197977,
+        "word": "胖猫聊天记录",
+        "onboard_time": 1714695196,
+        "rank": 25,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 183561,
+        "num": 183561,
+        "word": "乘风2024一公排名",
+        "onboard_time": 1714713918,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169677,
+        "num": 169677,
+        "word": "朴彩英 看得出她是公主",
+        "onboard_time": 1714704679,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 690980,
+        "num": 158795,
+        "word": "华莱士回应空包",
+        "onboard_time": 1714711039,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144654,
+        "num": 144654,
+        "word": "李溪芮淘汰尚雯婕哭崩了",
+        "onboard_time": 1714713139,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190923,
+        "num": 144044,
+        "word": "刘忻选人",
+        "onboard_time": 1714720338,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601357,
+        "num": 143248,
+        "word": "殷世航为胖猫发声",
+        "onboard_time": 1714699878,
+        "rank": 31,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 141754,
+        "num": 141754,
+        "word": "褶皱玫瑰",
+        "onboard_time": 1714697537,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 139116,
+        "num": 139116,
+        "word": "当代年轻人按摩5分钟加班5小时",
+        "onboard_time": 1714719439,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 421820,
+        "num": 136750,
+        "word": "茶百道开除涉事员工",
+        "onboard_time": 1714715898,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133623,
+        "num": 133623,
+        "word": "戚薇听到自己不是队长的反应",
+        "onboard_time": 1714718299,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131009,
+        "num": 131009,
+        "word": "过度旅游正在击穿日本旅游业",
+        "onboard_time": 1714717280,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 375709,
+        "num": 130420,
+        "word": "重庆长江大桥",
+        "onboard_time": 1714719378,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127181,
+        "num": 127181,
+        "word": "李炮儿减肥应聘车模",
+        "onboard_time": 1714718479,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123012,
+        "num": 123012,
+        "word": "郭碧婷小时代南湘主题曲是刘忻唱的",
+        "onboard_time": 1714718119,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287722,
+        "num": 120741,
+        "word": "胖猫姐姐发声",
+        "onboard_time": 1714693454,
+        "rank": 40,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 117721,
+        "num": 117721,
+        "word": "ILLIT实力",
+        "onboard_time": 1714719439,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116884,
+        "num": 116884,
+        "word": "李耕耘新歌",
+        "onboard_time": 1714715419,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229973,
+        "num": 116299,
+        "word": "我不要吃菜 我要吃麦当劳",
+        "onboard_time": 1714719918,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115714,
+        "num": 115714,
+        "word": "狗狗把雕像错认成人类",
+        "onboard_time": 1714718959,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112058,
+        "num": 112058,
+        "word": "怀了两个孩子才知女方已婚",
+        "onboard_time": 1714705459,
+        "rank": 45,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 206635,
+        "num": 111943,
+        "word": "胖猫事件",
+        "onboard_time": 1714720519,
+        "rank": 46,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 111663,
+        "num": 111663,
+        "word": "宫崎骏治好了我的年龄焦虑",
+        "onboard_time": 1714713978,
+        "rank": 47,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 108380,
+        "num": 108380,
+        "word": "半个作家圈都来写家乡",
+        "onboard_time": 1714716498,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 201247,
+        "num": 107965,
+        "word": "茶百道公关",
+        "onboard_time": 1714719740,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席曾将001号证书颁给这位法国人#"
+    }
+  }
+}

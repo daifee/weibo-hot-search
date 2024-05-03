@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714718179843,
+  "endTime": 1714720627169,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -89,6 +89,14 @@
       "onboard_time": 1714656380,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2364982,
+      "num": 2364982,
+      "word": "茶百道以胖猫之名捐款100万",
+      "onboard_time": 1714717099,
+      "rank": 38,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2069511,
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1250544,
+      "num": 1250544,
+      "word": "梅大高速下跪拦车的老人找到了",
+      "onboard_time": 1714714998,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1246990,
       "num": 555061,
       "word": "华晨宇内娱首个凌晨三点开演唱会",
@@ -441,14 +457,6 @@
       "onboard_time": 1714489219,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1055659,
-      "num": 1055659,
-      "word": "梅大高速下跪拦车的老人找到了",
-      "onboard_time": 1714714998,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1018617,
@@ -681,14 +689,6 @@
       "onboard_time": 1714694296,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 819260,
-      "num": 181367,
-      "word": "茶百道以胖猫之名捐款100万",
-      "onboard_time": 1714717099,
-      "rank": 38,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 808170,
@@ -1131,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 548992,
+      "num": 548992,
+      "word": "酱牛肉切开是彩虹色的千万别立刻吃",
+      "onboard_time": 1714715540,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 548307,
       "num": 548307,
       "word": "山西恒山景区发生落石事件致1死5伤",
@@ -1353,14 +1361,6 @@
       "onboard_time": 1714660999,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 479569,
-      "num": 479569,
-      "word": "酱牛肉切开是彩虹色的千万别立刻吃",
-      "onboard_time": 1714715540,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 478677,
@@ -1867,6 +1867,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 375709,
+      "num": 130420,
+      "word": "重庆长江大桥",
+      "onboard_time": 1714719378,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375518,
       "num": 375518,
       "word": "ILLIT翻跳NewJeans舞蹈",
@@ -2001,6 +2009,14 @@
       "onboard_time": 1714570700,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 352099,
+      "num": 352099,
+      "word": "徐艺洋好了解黄子韬",
+      "onboard_time": 1714718000,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 352009,
@@ -2139,6 +2155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324756,
+      "num": 244944,
+      "word": "童瑶自曝不好意思被张新成看",
+      "onboard_time": 1714719319,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322422,
       "num": 322422,
       "word": "做手术时肠炎发作",
@@ -2273,6 +2297,14 @@
       "onboard_time": 1714557078,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296329,
+      "num": 296329,
+      "word": "直播嫦娥六号发射",
+      "onboard_time": 1714719259,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 296315,
@@ -2571,6 +2603,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 254952,
+      "num": 254952,
+      "word": "苗苗选了楼外楼",
+      "onboard_time": 1714719620,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254930,
       "num": 254930,
       "word": "女儿要喝奶茶我说她爱慕虚荣",
@@ -2811,6 +2851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 235314,
+      "num": 235314,
+      "word": "梅大高速塌方灾害救援昼夜不停",
+      "onboard_time": 1714711399,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234020,
       "num": 234020,
       "word": "T1战胜EST",
@@ -2881,6 +2929,14 @@
       "onboard_time": 1714657941,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229973,
+      "num": 116299,
+      "word": "我不要吃菜 我要吃麦当劳",
+      "onboard_time": 1714719918,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228955,
@@ -3203,6 +3259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206635,
+      "num": 111943,
+      "word": "胖猫事件",
+      "onboard_time": 1714720519,
+      "rank": 46,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 205794,
       "num": 267159,
       "word": "美国洛杉矶一地铁与校车相撞",
@@ -3241,6 +3305,14 @@
       "onboard_time": 1714622658,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 205032,
+      "num": 205032,
+      "word": "乐华男团从哇唧唧哇到时代峰峻",
+      "onboard_time": 1714719021,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204725,
@@ -3361,6 +3433,14 @@
       "onboard_time": 1714659859,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201247,
+      "num": 107965,
+      "word": "茶百道公关",
+      "onboard_time": 1714719740,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201188,
@@ -3681,6 +3761,14 @@
       "onboard_time": 1714536917,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190923,
+      "num": 144044,
+      "word": "刘忻选人",
+      "onboard_time": 1714720338,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 190713,
@@ -4200,14 +4288,6 @@
       "word": "武艺Sunnee加好友五年没说过话",
       "onboard_time": 1714618396,
       "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 171839,
-      "num": 171839,
-      "word": "徐艺洋好了解黄子韬",
-      "onboard_time": 1714718000,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -5307,6 +5387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139116,
+      "num": 139116,
+      "word": "当代年轻人按摩5分钟加班5小时",
+      "onboard_time": 1714719439,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138931,
       "num": 138931,
       "word": "福宝会择机与公众见面",
@@ -5529,6 +5617,14 @@
       "onboard_time": 1714622177,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133623,
+      "num": 133623,
+      "word": "戚薇听到自己不是队长的反应",
+      "onboard_time": 1714718299,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 133551,
@@ -5811,6 +5907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127181,
+      "num": 127181,
+      "word": "李炮儿减肥应聘车模",
+      "onboard_time": 1714718479,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126688,
       "num": 126688,
       "word": "十个勤天常州",
@@ -5873,6 +5977,14 @@
       "onboard_time": 1714553418,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123012,
+      "num": 123012,
+      "word": "郭碧婷小时代南湘主题曲是刘忻唱的",
+      "onboard_time": 1714718119,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 122985,
@@ -6027,14 +6139,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 118427,
-      "num": 118427,
-      "word": "郭碧婷小时代南湘主题曲是刘忻唱的",
-      "onboard_time": 1714718119,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 118074,
       "num": 118074,
       "word": "末路狂花钱",
@@ -6049,6 +6153,14 @@
       "onboard_time": 1714698018,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 117721,
+      "num": 117721,
+      "word": "ILLIT实力",
+      "onboard_time": 1714719439,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 117472,
@@ -6105,6 +6217,14 @@
       "onboard_time": 1714633098,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115714,
+      "num": 115714,
+      "word": "狗狗把雕像错认成人类",
+      "onboard_time": 1714718959,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 115596,
