@@ -1,0 +1,410 @@
+{
+  "runTime": 1714706546085,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3078962,
+        "num": 3078962,
+        "word": "谭竹回应",
+        "onboard_time": 1714691414,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 2501521,
+        "num": 2501521,
+        "word": "五三惨案",
+        "onboard_time": 1714703539,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88284,
+        "num": 1648422,
+        "word": "数据见证五一假期出行热度",
+        "onboard_time": 1714654999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1259354,
+        "num": 1259354,
+        "word": "活鸭要40多为何烤鸭才18元一只",
+        "onboard_time": 1714702399,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1119694,
+        "num": 1119694,
+        "word": "胖猫",
+        "onboard_time": 1714653859,
+        "rank": 4,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 972954,
+        "num": 972954,
+        "word": "华莱士 空包",
+        "onboard_time": 1714705640,
+        "rank": 5,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 882746,
+        "num": 882746,
+        "word": "朴彩英 看得出她是公主",
+        "onboard_time": 1714704679,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 887749,
+        "num": 799987,
+        "word": "胖猫谭竹",
+        "onboard_time": 1714663219,
+        "rank": 7,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 489415,
+        "num": 489415,
+        "word": "刘梓晨 翻红",
+        "onboard_time": 1714696636,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127040,
+        "num": 482010,
+        "word": "萌娃走失说自己住11楼小区把警察弄懵",
+        "onboard_time": 1714678690,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1697595,
+        "num": 481853,
+        "word": "殷世航为胖猫发声",
+        "onboard_time": 1714699878,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 481608,
+        "num": 481608,
+        "word": "第一批经济状况比不上父母的年轻人",
+        "onboard_time": 1714702399,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393362,
+        "num": 393362,
+        "word": "国产剧终于把人的欲望还给主角了",
+        "onboard_time": 1714705579,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 571969,
+        "num": 368661,
+        "word": "胖猫聊天记录",
+        "onboard_time": 1714695196,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 328782,
+        "num": 328782,
+        "word": "华晨宇内娱首个凌晨三点开演唱会",
+        "onboard_time": 1714666387,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 328532,
+        "num": 328532,
+        "word": "外交官在澡堂偷拍男孩新加坡发声",
+        "onboard_time": 1714699037,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 363600,
+        "num": 325703,
+        "word": "胖猫姐姐发声",
+        "onboard_time": 1714693454,
+        "rank": 16,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 292617,
+        "num": 292617,
+        "word": "五一新一轮大暴雨又来了",
+        "onboard_time": 1714699637,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275725,
+        "num": 275725,
+        "word": "长相思2排播",
+        "onboard_time": 1714693875,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117020,
+        "num": 275488,
+        "word": "墨西哥60年来超过11万人失踪",
+        "onboard_time": 1714705517,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1343281,
+        "num": 273922,
+        "word": "怀了两个孩子才知女方已婚",
+        "onboard_time": 1714705459,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 43697,
+        "num": 270941,
+        "word": "时代少年团全员被整蛊",
+        "onboard_time": 1714705157,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1278938,
+        "num": 269874,
+        "word": "河南大学",
+        "onboard_time": 1714675092,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 461852,
+        "num": 267086,
+        "word": "内娱终于有艺人懂慢综了",
+        "onboard_time": 1714699577,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440548,
+        "num": 265257,
+        "word": "妈妈告诉我她绝经了我好难过",
+        "onboard_time": 1714701558,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296933,
+        "num": 263991,
+        "word": "原来夫妻分床睡还有这好处",
+        "onboard_time": 1714703298,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 281662,
+        "num": 263113,
+        "word": "张翰想要的vs张翰得到的",
+        "onboard_time": 1714704679,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261684,
+        "num": 261684,
+        "word": "罗西 越心",
+        "onboard_time": 1714693696,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 241065,
+        "num": 241065,
+        "word": "河南大学通报大礼堂起火",
+        "onboard_time": 1714699157,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157482,
+        "num": 237159,
+        "word": "全国团员共7416.7万名",
+        "onboard_time": 1714703238,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233464,
+        "num": 233464,
+        "word": "景区因开封王婆回归游客量过大临时限流",
+        "onboard_time": 1714699637,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 222212,
+        "num": 222212,
+        "word": "土耳其宣布停止与以色列所有贸易",
+        "onboard_time": 1714699098,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 200730,
+        "num": 200730,
+        "word": "丫丫腰又粗了",
+        "onboard_time": 1714706119,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191964,
+        "num": 191964,
+        "word": "河大礼堂着火后房顶基本坍塌",
+        "onboard_time": 1714703178,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191057,
+        "num": 191057,
+        "word": "林更新美人鱼抱孟子义",
+        "onboard_time": 1714703359,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188411,
+        "num": 188411,
+        "word": "音乐节上crush主动来扫我",
+        "onboard_time": 1714705459,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182865,
+        "num": 182865,
+        "word": "库克称中国iPhone销售意外增长",
+        "onboard_time": 1714705038,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 181512,
+        "num": 181512,
+        "word": "我已经过了需要你的年龄",
+        "onboard_time": 1714702278,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178801,
+        "num": 178801,
+        "word": "河大起火礼堂属全国重点文保单位",
+        "onboard_time": 1714703597,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175459,
+        "num": 175459,
+        "word": "戚薇李承铉纸屎情侣造型",
+        "onboard_time": 1714704019,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167583,
+        "num": 167583,
+        "word": "余景天翻跳smoothie",
+        "onboard_time": 1714705999,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147185,
+        "num": 147185,
+        "word": "谭爷爷五一小作文花里花气",
+        "onboard_time": 1714702577,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142536,
+        "num": 142536,
+        "word": "褶皱玫瑰",
+        "onboard_time": 1714697537,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 137119,
+        "num": 137119,
+        "word": "河南文物局已去河大礼堂现场",
+        "onboard_time": 1714706357,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136632,
+        "num": 136632,
+        "word": "美国青年到中国被机场震惊了",
+        "onboard_time": 1714694296,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134773,
+        "num": 134773,
+        "word": "张雅钦演技",
+        "onboard_time": 1714702156,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133069,
+        "num": 133069,
+        "word": "向佐一句话得罪两个团",
+        "onboard_time": 1714704319,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142481,
+        "num": 133069,
+        "word": "天赐的声音",
+        "onboard_time": 1714705098,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133047,
+        "num": 133047,
+        "word": "王源期末演出视频",
+        "onboard_time": 1714704019,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128266,
+        "num": 128266,
+        "word": "iPhone销售额大跌10%",
+        "onboard_time": 1714700478,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对梅大高速塌方灾害作出重要指示#"
+    }
+  }
+}

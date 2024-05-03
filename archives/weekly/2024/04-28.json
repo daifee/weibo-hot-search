@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714704024247,
+  "endTime": 1714706546085,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -89,6 +89,14 @@
       "onboard_time": 1714366760,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2501521,
+      "num": 2501521,
+      "word": "五三惨案",
+      "onboard_time": 1714703539,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2486333,
@@ -475,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1343281,
+      "num": 273922,
+      "word": "怀了两个孩子才知女方已婚",
+      "onboard_time": 1714705459,
+      "rank": 20,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1338559,
       "num": 746370,
       "word": "5000一晚的酒店薅走35瓶洗发水能回本吗",
@@ -779,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1119694,
+      "num": 1119694,
+      "word": "胖猫",
+      "onboard_time": 1714653859,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1117891,
       "num": 1117891,
       "word": "Jennie那英",
@@ -1051,6 +1075,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 972954,
+      "num": 972954,
+      "word": "华莱士 空包",
+      "onboard_time": 1714705640,
+      "rank": 5,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 972744,
       "num": 972744,
       "word": "河南大学通报大礼堂起火",
@@ -1241,6 +1273,14 @@
       "onboard_time": 1714289358,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 882746,
+      "num": 882746,
+      "word": "朴彩英 看得出她是公主",
+      "onboard_time": 1714704679,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 879793,
@@ -1633,14 +1673,6 @@
       "onboard_time": 1714229960,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 765535,
-      "num": 696196,
-      "word": "胖猫",
-      "onboard_time": 1714653859,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 759116,
@@ -3179,6 +3211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 481608,
+      "num": 481608,
+      "word": "第一批经济状况比不上父母的年轻人",
+      "onboard_time": 1714702399,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480999,
       "num": 473734,
       "word": "专家称梅大高速坍塌前或有征兆",
@@ -4099,6 +4139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 393362,
+      "num": 393362,
+      "word": "国产剧终于把人的欲望还给主角了",
+      "onboard_time": 1714705579,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389570,
       "num": 389570,
       "word": "HYBE回应防弹少年团注水",
@@ -4659,14 +4707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 339092,
-      "num": 339092,
-      "word": "第一批经济状况比不上父母的年轻人",
-      "onboard_time": 1714702399,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 338072,
       "num": 172537,
       "word": "男子疯狂减肥却胖70斤还脑梗送医抢救",
@@ -4713,14 +4753,6 @@
       "onboard_time": 1714270338,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 335920,
-      "num": 335920,
-      "word": "五三惨案",
-      "onboard_time": 1714703539,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 334072,
@@ -5291,6 +5323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 296933,
+      "num": 263991,
+      "word": "原来夫妻分床睡还有这好处",
+      "onboard_time": 1714703298,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 296755,
       "num": 296755,
       "word": "杨幂藏蓝色短裙",
@@ -5529,6 +5569,14 @@
       "onboard_time": 1714555878,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281662,
+      "num": 263113,
+      "word": "张翰想要的vs张翰得到的",
+      "onboard_time": 1714704679,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 280824,
@@ -7923,6 +7971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200730,
+      "num": 200730,
+      "word": "丫丫腰又粗了",
+      "onboard_time": 1714706119,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200596,
       "num": 200596,
       "word": "五月天发文回应香港演唱会中止",
@@ -8811,6 +8867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188411,
+      "num": 188411,
+      "word": "音乐节上crush主动来扫我",
+      "onboard_time": 1714705459,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188395,
       "num": 188395,
       "word": "林俊杰深圳抢票",
@@ -9219,6 +9283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182865,
+      "num": 182865,
+      "word": "库克称中国iPhone销售意外增长",
+      "onboard_time": 1714705038,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 182835,
       "num": 182835,
       "word": "五一档电影",
@@ -9560,6 +9632,14 @@
       "word": "刘宇宁问我和迪丽热巴长得不像吗",
       "onboard_time": 1714639278,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175459,
+      "num": 175459,
+      "word": "戚薇李承铉纸屎情侣造型",
+      "onboard_time": 1714704019,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -10027,6 +10107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167583,
+      "num": 167583,
+      "word": "余景天翻跳smoothie",
+      "onboard_time": 1714705999,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 167571,
       "num": 167571,
       "word": "汪东城身材",
@@ -10169,14 +10257,6 @@
       "onboard_time": 1714632257,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164261,
-      "num": 164261,
-      "word": "原来夫妻分床睡还有这好处",
-      "onboard_time": 1714703298,
-      "rank": 39,
-      "category": "科学科普"
     },
     {
       "raw_hot": 164173,
@@ -10380,7 +10460,7 @@
     },
     {
       "raw_hot": 159936,
-      "num": 159936,
+      "num": 237159,
       "word": "全国团员共7416.7万名",
       "onboard_time": 1714703238,
       "rank": 42,
@@ -10684,7 +10764,7 @@
     },
     {
       "raw_hot": 155989,
-      "num": 1448043,
+      "num": 1648422,
       "word": "数据见证五一假期出行热度",
       "onboard_time": 1714654999,
       "rank": 31,
@@ -11715,6 +11795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142481,
+      "num": 133069,
+      "word": "天赐的声音",
+      "onboard_time": 1714705098,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141856,
       "num": 141856,
       "word": "她在百米高空为航母驾龙门",
@@ -11969,6 +12057,14 @@
       "onboard_time": 1714367179,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137119,
+      "num": 137119,
+      "word": "河南文物局已去河大礼堂现场",
+      "onboard_time": 1714706357,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137075,
@@ -12289,6 +12385,22 @@
       "onboard_time": 1714617496,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133069,
+      "num": 133069,
+      "word": "向佐一句话得罪两个团",
+      "onboard_time": 1714704319,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133047,
+      "num": 133047,
+      "word": "王源期末演出视频",
+      "onboard_time": 1714704019,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 132926,
@@ -13281,6 +13393,14 @@
       "onboard_time": 1714368978,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117020,
+      "num": 275488,
+      "word": "墨西哥60年来超过11万人失踪",
+      "onboard_time": 1714705517,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116914,
@@ -14985,6 +15105,14 @@
       "onboard_time": 1714338851,
       "rank": 49,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 43697,
+      "num": 270941,
+      "word": "时代少年团全员被整蛊",
+      "onboard_time": 1714705157,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 43183,
