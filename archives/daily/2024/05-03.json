@@ -1,6 +1,6 @@
 {
   "startTime": 1714666942242,
-  "endTime": 1714710162039,
+  "endTime": 1714710967520,
   "band_list": [
     {
       "raw_hot": 3222104,
@@ -33,6 +33,14 @@
       "onboard_time": 1714675092,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1940999,
+      "num": 1940999,
+      "word": "前女友为胖猫发声",
+      "onboard_time": 1714708999,
+      "rank": 1,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1841073,
@@ -73,14 +81,6 @@
       "onboard_time": 1714705459,
       "rank": 20,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1342148,
-      "num": 1342148,
-      "word": "前女友为胖猫发声",
-      "onboard_time": 1714708999,
-      "rank": 1,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 1246990,
@@ -195,8 +195,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 546264,
-      "num": 546264,
+      "raw_hot": 572476,
+      "num": 572476,
       "word": "河南文物局已去河大礼堂现场",
       "onboard_time": 1714706357,
       "rank": 43,
@@ -233,6 +233,14 @@
       "onboard_time": 1714693875,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 486400,
+      "num": 486400,
+      "word": "导演没想到杨幂会这么痛快接下角色",
+      "onboard_time": 1714709178,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 484843,
@@ -283,6 +291,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 450629,
+      "num": 450629,
+      "word": "胖猫姐姐发声",
+      "onboard_time": 1714693454,
+      "rank": 15,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 446157,
       "num": 446157,
       "word": "梅大高速塌方",
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 424987,
-      "num": 366705,
+      "num": 420716,
       "word": "梅州",
       "onboard_time": 1714706958,
       "rank": 37,
@@ -337,14 +353,6 @@
       "onboard_time": 1714673592,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 410783,
-      "num": 386411,
-      "word": "胖猫姐姐发声",
-      "onboard_time": 1714693454,
-      "rank": 15,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 405346,
@@ -377,14 +385,6 @@
       "onboard_time": 1714706119,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 366496,
-      "num": 366496,
-      "word": "导演没想到杨幂会这么痛快接下角色",
-      "onboard_time": 1714709178,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 346526,
@@ -491,6 +491,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241488,
+      "num": 241488,
+      "word": "迪丽热巴五一营业照",
+      "onboard_time": 1714709297,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 238662,
+      "num": 296955,
+      "word": "美国网红连吃6个月火鸡面后尿血",
+      "onboard_time": 1714710198,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237805,
       "num": 237805,
       "word": "朋友频繁的约饭让人感觉很有压力",
@@ -515,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 232419,
+      "num": 232419,
+      "word": "尼克斯淘汰76人",
+      "onboard_time": 1714709239,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228955,
       "num": 228955,
       "word": "张雅钦演技",
@@ -523,12 +547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221313,
-      "num": 221313,
-      "word": "迪丽热巴五一营业照",
-      "onboard_time": 1714709297,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 227179,
+      "num": 227179,
+      "word": "蒲熠星告别全员加速中",
+      "onboard_time": 1714709778,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 216407,
@@ -545,14 +569,6 @@
       "onboard_time": 1714664538,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213757,
-      "num": 213757,
-      "word": "蒲熠星告别全员加速中",
-      "onboard_time": 1714709778,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 211999,
@@ -577,14 +593,6 @@
       "onboard_time": 1714702577,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206843,
-      "num": 223155,
-      "word": "尼克斯淘汰76人",
-      "onboard_time": 1714709239,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 206779,
@@ -665,6 +673,14 @@
       "onboard_time": 1714707021,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189443,
+      "num": 189443,
+      "word": "韩国一糖葫芦商家称日销量从500降到80串",
+      "onboard_time": 1714710318,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188411,
@@ -755,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166950,
+      "num": 166950,
+      "word": "上网最易受骗人群",
+      "onboard_time": 1714710919,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 166096,
       "num": 166096,
       "word": "张凌赫买了牛牛拖鞋",
@@ -768,6 +792,14 @@
       "word": "原来生活中的暗示这么明显",
       "onboard_time": 1714698018,
       "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 164679,
+      "num": 164679,
+      "word": "如果羊感到屁股刺挠怎么办",
+      "onboard_time": 1714709959,
+      "rank": 43,
       "category": "情感"
     },
     {
@@ -824,6 +856,14 @@
       "word": "数据见证五一假期出行热度",
       "onboard_time": 1714654999,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153371,
+      "num": 153371,
+      "word": "女子腿绑24个鸭蛋入境被查",
+      "onboard_time": 1714710738,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -907,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138826,
-      "num": 138826,
-      "word": "如果羊感到屁股刺挠怎么办",
-      "onboard_time": 1714709959,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138688,
       "num": 138688,
       "word": "赵昭仪砍大鹅",
@@ -988,7 +1020,7 @@
     },
     {
       "raw_hot": 126842,
-      "num": 366871,
+      "num": 428586,
       "word": "北京女大学生被青岛外卖小哥暖到了",
       "onboard_time": 1714707440,
       "rank": 9,
@@ -1132,7 +1164,7 @@
     },
     {
       "raw_hot": 102480,
-      "num": 221350,
+      "num": 225052,
       "word": "海警位金门附近海域常态执法巡查",
       "onboard_time": 1714708938,
       "rank": 29,

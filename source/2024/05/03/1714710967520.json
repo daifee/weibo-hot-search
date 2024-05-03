@@ -1,0 +1,410 @@
+{
+  "runTime": 1714710967520,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1940999,
+        "num": 1940999,
+        "word": "前女友为胖猫发声",
+        "onboard_time": 1714708999,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1817615,
+        "num": 1817615,
+        "word": "五三惨案",
+        "onboard_time": 1714703539,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93146,
+        "num": 1372249,
+        "word": "嫦娥家族奔月路每秒都热血沸腾",
+        "onboard_time": 1714707021,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2784221,
+        "num": 1362186,
+        "word": "谭竹回应",
+        "onboard_time": 1714691414,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 943952,
+        "num": 943952,
+        "word": "活鸭要40多为何烤鸭才18元一只",
+        "onboard_time": 1714702399,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 572476,
+        "num": 572476,
+        "word": "河南文物局已去河大礼堂现场",
+        "onboard_time": 1714706357,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548137,
+        "num": 548137,
+        "word": "朴彩英 看得出她是公主",
+        "onboard_time": 1714704679,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 486400,
+        "num": 486400,
+        "word": "导演没想到杨幂会这么痛快接下角色",
+        "onboard_time": 1714709178,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 450629,
+        "num": 450629,
+        "word": "胖猫姐姐发声",
+        "onboard_time": 1714693454,
+        "rank": 8,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 119704,
+        "num": 428586,
+        "word": "北京女大学生被青岛外卖小哥暖到了",
+        "onboard_time": 1714707440,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 420716,
+        "num": 420716,
+        "word": "梅州",
+        "onboard_time": 1714706958,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2830012,
+        "num": 409752,
+        "word": "华莱士 空包",
+        "onboard_time": 1714705640,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 875473,
+        "num": 407832,
+        "word": "朴彩英赵露思撞衫",
+        "onboard_time": 1714706719,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380292,
+        "num": 380292,
+        "word": "国产剧终于把人的欲望还给主角了",
+        "onboard_time": 1714705579,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1068975,
+        "num": 367524,
+        "word": "胖猫",
+        "onboard_time": 1714653859,
+        "rank": 14,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 346881,
+        "num": 346881,
+        "word": "丫丫腰又粗了",
+        "onboard_time": 1714706119,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332227,
+        "num": 332227,
+        "word": "王一博婚礼戏",
+        "onboard_time": 1714708820,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 827926,
+        "num": 328952,
+        "word": "胖猫谭竹",
+        "onboard_time": 1714663219,
+        "rank": 17,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 305391,
+        "num": 305391,
+        "word": "刘梓晨 翻红",
+        "onboard_time": 1714696636,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 238662,
+        "num": 296955,
+        "word": "美国网红连吃6个月火鸡面后尿血",
+        "onboard_time": 1714710198,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837413,
+        "num": 283453,
+        "word": "怀了两个孩子才知女方已婚",
+        "onboard_time": 1714705459,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 820038,
+        "num": 273300,
+        "word": "殷世航为胖猫发声",
+        "onboard_time": 1714699878,
+        "rank": 21,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 406088,
+        "num": 265185,
+        "word": "原来夫妻分床睡还有这好处",
+        "onboard_time": 1714703298,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 261179,
+        "num": 261179,
+        "word": "河南大学",
+        "onboard_time": 1714675092,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 647699,
+        "num": 259356,
+        "word": "胖猫聊天记录",
+        "onboard_time": 1714695196,
+        "rank": 24,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 248628,
+        "num": 248628,
+        "word": "华晨宇内娱首个凌晨三点开演唱会",
+        "onboard_time": 1714666387,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241488,
+        "num": 241488,
+        "word": "迪丽热巴五一营业照",
+        "onboard_time": 1714709297,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232419,
+        "num": 232419,
+        "word": "尼克斯淘汰76人",
+        "onboard_time": 1714709239,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227179,
+        "num": 227179,
+        "word": "蒲熠星告别全员加速中",
+        "onboard_time": 1714709778,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97521,
+        "num": 225052,
+        "word": "海警位金门附近海域常态执法巡查",
+        "onboard_time": 1714708938,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225034,
+        "num": 225034,
+        "word": "内娱终于有艺人懂慢综了",
+        "onboard_time": 1714699577,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224587,
+        "num": 224587,
+        "word": "朋友频繁的约饭让人感觉很有压力",
+        "onboard_time": 1714709297,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204024,
+        "num": 204024,
+        "word": "妈妈告诉我她绝经了我好难过",
+        "onboard_time": 1714701558,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197320,
+        "num": 197320,
+        "word": "长相思2排播",
+        "onboard_time": 1714693875,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194177,
+        "num": 194177,
+        "word": "乘风2024二公分组",
+        "onboard_time": 1714709118,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193208,
+        "num": 193208,
+        "word": "我不要吃菜",
+        "onboard_time": 1714708400,
+        "rank": 35,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 192763,
+        "num": 192763,
+        "word": "张翰想要的vs张翰得到的",
+        "onboard_time": 1714704679,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189443,
+        "num": 189443,
+        "word": "韩国一糖葫芦商家称日销量从500降到80串",
+        "onboard_time": 1714710318,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179151,
+        "num": 179151,
+        "word": "河南大学通报大礼堂起火",
+        "onboard_time": 1714699157,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166950,
+        "num": 166950,
+        "word": "上网最易受骗人群",
+        "onboard_time": 1714710919,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164679,
+        "num": 164679,
+        "word": "如果羊感到屁股刺挠怎么办",
+        "onboard_time": 1714709959,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159208,
+        "num": 159208,
+        "word": "武切维奇出任塞尔维亚新总理",
+        "onboard_time": 1714707499,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 158386,
+        "num": 158386,
+        "word": "罗西 越心",
+        "onboard_time": 1714693696,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 153371,
+        "num": 153371,
+        "word": "女子腿绑24个鸭蛋入境被查",
+        "onboard_time": 1714710738,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145572,
+        "num": 145572,
+        "word": "以方代表在联大称联合国日子不多了",
+        "onboard_time": 1714708039,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 145470,
+        "num": 145470,
+        "word": "张凌赫买了牛牛拖鞋",
+        "onboard_time": 1714706539,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138128,
+        "num": 138128,
+        "word": "赵昭仪砍大鹅",
+        "onboard_time": 1714709898,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133211,
+        "num": 133211,
+        "word": "库克称中国iPhone销售意外增长",
+        "onboard_time": 1714705038,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133119,
+        "num": 133119,
+        "word": "Faker名人堂皮肤爆料",
+        "onboard_time": 1714706539,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130723,
+        "num": 130723,
+        "word": "河南大学明伦校区一建筑房顶着火",
+        "onboard_time": 1714691953,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
