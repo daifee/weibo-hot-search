@@ -1,0 +1,410 @@
+{
+  "runTime": 1714703401712,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3212892,
+        "num": 3212892,
+        "word": "谭竹回应",
+        "onboard_time": 1714691414,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1156241,
+        "num": 1156241,
+        "word": "活鸭要40多为何烤鸭才18元一只",
+        "onboard_time": 1714702399,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99641,
+        "num": 904554,
+        "word": "数据见证五一假期出行热度",
+        "onboard_time": 1714654999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1878058,
+        "num": 896058,
+        "word": "河南大学",
+        "onboard_time": 1714675092,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1607210,
+        "num": 878102,
+        "word": "殷世航为胖猫发声",
+        "onboard_time": 1714699878,
+        "rank": 4,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 860043,
+        "num": 860043,
+        "word": "河南大学通报大礼堂起火",
+        "onboard_time": 1714699157,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756364,
+        "num": 756364,
+        "word": "刘梓晨 翻红",
+        "onboard_time": 1714696636,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 978057,
+        "num": 706430,
+        "word": "胖猫谭竹",
+        "onboard_time": 1714663219,
+        "rank": 7,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 589601,
+        "num": 589601,
+        "word": "外交官在澡堂偷拍男孩新加坡发声",
+        "onboard_time": 1714699037,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 191778,
+        "num": 527237,
+        "word": "萌娃走失说自己住11楼小区把警察弄懵",
+        "onboard_time": 1714678690,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688136,
+        "num": 526153,
+        "word": "胖猫",
+        "onboard_time": 1714653859,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 521286,
+        "num": 521286,
+        "word": "土耳其宣布停止与以色列所有贸易",
+        "onboard_time": 1714699098,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 502071,
+        "num": 502071,
+        "word": "景区因开封王婆回归游客量过大临时限流",
+        "onboard_time": 1714699637,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 625825,
+        "num": 462950,
+        "word": "胖猫聊天记录",
+        "onboard_time": 1714695196,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 400081,
+        "num": 400081,
+        "word": "华晨宇内娱首个凌晨三点开演唱会",
+        "onboard_time": 1714666387,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 355134,
+        "num": 355134,
+        "word": "长相思2排播",
+        "onboard_time": 1714693875,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405410,
+        "num": 354249,
+        "word": "胖猫姐姐发声",
+        "onboard_time": 1714693454,
+        "rank": 16,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 344557,
+        "num": 344557,
+        "word": "五一新一轮大暴雨又来了",
+        "onboard_time": 1714699637,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339840,
+        "num": 339840,
+        "word": "罗西 越心",
+        "onboard_time": 1714693696,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 321850,
+        "num": 321850,
+        "word": "美国青年到中国被机场震惊了",
+        "onboard_time": 1714694296,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874708,
+        "num": 319580,
+        "word": "内娱终于有艺人懂慢综了",
+        "onboard_time": 1714699577,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 625329,
+        "num": 316231,
+        "word": "妈妈告诉我她绝经了我好难过",
+        "onboard_time": 1714701558,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312261,
+        "num": 312261,
+        "word": "梅大高速塌方已致48人死亡",
+        "onboard_time": 1714635678,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253868,
+        "num": 253868,
+        "word": "第一批经济状况比不上父母的年轻人",
+        "onboard_time": 1714702399,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222922,
+        "num": 222922,
+        "word": "张雅钦演技",
+        "onboard_time": 1714702156,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210839,
+        "num": 210839,
+        "word": "小众城市突然爆红",
+        "onboard_time": 1714661899,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 196838,
+        "num": 196838,
+        "word": "时代少年团新歌好望角",
+        "onboard_time": 1714702758,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192539,
+        "num": 192539,
+        "word": "纪念五三惨案96周年",
+        "onboard_time": 1714702278,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192196,
+        "num": 192196,
+        "word": "魏晨分身情人",
+        "onboard_time": 1714696577,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190154,
+        "num": 190154,
+        "word": "综艺史上第一次把大鹅和帝王蟹同炖",
+        "onboard_time": 1714698979,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199893,
+        "num": 190060,
+        "word": "我已经过了需要你的年龄",
+        "onboard_time": 1714702278,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188111,
+        "num": 188111,
+        "word": "iPhone销售额大跌10%",
+        "onboard_time": 1714700478,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184579,
+        "num": 184579,
+        "word": "河大礼堂起火时疑有施工队在休息",
+        "onboard_time": 1714695436,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177314,
+        "num": 177314,
+        "word": "河大礼堂着火后房顶基本坍塌",
+        "onboard_time": 1714703178,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174479,
+        "num": 174479,
+        "word": "褶皱玫瑰",
+        "onboard_time": 1714697537,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168003,
+        "num": 168003,
+        "word": "谭爷爷五一小作文花里花气",
+        "onboard_time": 1714702577,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156665,
+        "num": 156665,
+        "word": "贝弗利用球砸球迷",
+        "onboard_time": 1714701738,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147001,
+        "num": 147001,
+        "word": "学养老毕业3年成班上唯一没转行的",
+        "onboard_time": 1714703058,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146017,
+        "num": 146017,
+        "word": "朱珠方发文谴责倒卖门票商品行为",
+        "onboard_time": 1714673592,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143577,
+        "num": 143577,
+        "word": "原来生活中的暗示这么明显",
+        "onboard_time": 1714698018,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134434,
+        "num": 134434,
+        "word": "张杰在台上轻轻地碎了",
+        "onboard_time": 1714662258,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134145,
+        "num": 134145,
+        "word": "苹果将回购1100亿美元股票",
+        "onboard_time": 1714698677,
+        "rank": 41,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 133371,
+        "num": 133371,
+        "word": "全国团员共7416.7万名",
+        "onboard_time": 1714703238,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128825,
+        "num": 128825,
+        "word": "郭晋安离婚",
+        "onboard_time": 1714656380,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124015,
+        "num": 124015,
+        "word": "河南大学明伦校区一建筑房顶着火",
+        "onboard_time": 1714691953,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123275,
+        "num": 123275,
+        "word": "我弟弟就是最好的旅游搭子",
+        "onboard_time": 1714660999,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123194,
+        "num": 123194,
+        "word": "林更新美人鱼抱孟子义",
+        "onboard_time": 1714703359,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121900,
+        "num": 121900,
+        "word": "十个勤天常州",
+        "onboard_time": 1714693696,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118759,
+        "num": 118759,
+        "word": "库克称中国是全球最具竞争力的市场",
+        "onboard_time": 1714696457,
+        "rank": 48,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 117679,
+        "num": 117679,
+        "word": "济南防空警报",
+        "onboard_time": 1714703359,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

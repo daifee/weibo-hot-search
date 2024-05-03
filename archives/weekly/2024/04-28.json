@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714700264309,
+  "endTime": 1714703401712,
   "band_list": [
     {
       "raw_hot": 7624726,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2936346,
-      "num": 2936346,
+      "raw_hot": 3212892,
+      "num": 3212892,
       "word": "谭竹回应",
       "onboard_time": 1714691414,
       "rank": 13,
@@ -155,7 +155,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1841274,
+      "raw_hot": 1878058,
       "num": 1841274,
       "word": "河南大学",
       "onboard_time": 1714675092,
@@ -217,6 +217,14 @@
       "onboard_time": 1714564338,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1607210,
+      "num": 878102,
+      "word": "殷世航为胖猫发声",
+      "onboard_time": 1714699878,
+      "rank": 30,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1595330,
@@ -699,6 +707,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1156241,
+      "num": 1156241,
+      "word": "活鸭要40多为何烤鸭才18元一只",
+      "onboard_time": 1714702399,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1155449,
       "num": 1155449,
       "word": "男演员骗88人到柬埔寨进行电信诈骗",
@@ -1027,6 +1043,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 978057,
+      "num": 784881,
+      "word": "胖猫谭竹",
+      "onboard_time": 1714663219,
+      "rank": 1,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 972744,
       "num": 972744,
       "word": "河南大学通报大礼堂起火",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1714286837,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 874708,
+      "num": 319580,
+      "word": "内娱终于有艺人懂慢综了",
+      "onboard_time": 1714699577,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 872908,
@@ -1545,14 +1577,6 @@
       "onboard_time": 1714397659,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 784881,
-      "num": 784881,
-      "word": "胖猫谭竹",
-      "onboard_time": 1714663219,
-      "rank": 1,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 782993,
@@ -1897,6 +1921,14 @@
       "onboard_time": 1714451720,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 688136,
+      "num": 526153,
+      "word": "胖猫",
+      "onboard_time": 1714653859,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 687683,
@@ -2251,12 +2283,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 625825,
+      "num": 610925,
+      "word": "胖猫聊天记录",
+      "onboard_time": 1714695196,
+      "rank": 8,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 625671,
       "num": 625671,
       "word": "15元1个的菠萝蜜100元5个的榴莲",
       "onboard_time": 1714356556,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 625329,
+      "num": 316231,
+      "word": "妈妈告诉我她绝经了我好难过",
+      "onboard_time": 1714701558,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 624748,
@@ -2329,14 +2377,6 @@
       "onboard_time": 1714558401,
       "rank": 14,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 610925,
-      "num": 610925,
-      "word": "胖猫聊天记录",
-      "onboard_time": 1714695196,
-      "rank": 8,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 609377,
@@ -2441,6 +2481,14 @@
       "onboard_time": 1714448779,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589601,
+      "num": 589601,
+      "word": "外交官在澡堂偷拍男孩新加坡发声",
+      "onboard_time": 1714699037,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 589455,
@@ -2577,14 +2625,6 @@
       "onboard_time": 1714541179,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 555563,
-      "num": 480907,
-      "word": "胖猫",
-      "onboard_time": 1714653859,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 555525,
@@ -2867,6 +2907,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 521286,
+      "num": 521286,
+      "word": "土耳其宣布停止与以色列所有贸易",
+      "onboard_time": 1714699098,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 520248,
       "num": 520248,
       "word": "何瑞之 我很爱我老婆",
@@ -2977,6 +3025,14 @@
       "onboard_time": 1714260135,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 502071,
+      "num": 502071,
+      "word": "景区因开封王婆回归游客量过大临时限流",
+      "onboard_time": 1714699637,
+      "rank": 32,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 501422,
@@ -3145,14 +3201,6 @@
       "onboard_time": 1714368438,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 478764,
-      "num": 238122,
-      "word": "内娱终于有艺人懂慢综了",
-      "onboard_time": 1714699577,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 478677,
@@ -3955,6 +4003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 405410,
+      "num": 380769,
+      "word": "胖猫姐姐发声",
+      "onboard_time": 1714693454,
+      "rank": 15,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 405316,
       "num": 219473,
       "word": "吴倩原相机直出",
@@ -4153,14 +4209,6 @@
       "onboard_time": 1714577058,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 380769,
-      "num": 380769,
-      "word": "胖猫姐姐发声",
-      "onboard_time": 1714693454,
-      "rank": 15,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 380153,
@@ -4537,6 +4585,14 @@
       "onboard_time": 1714631838,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 344557,
+      "num": 344557,
+      "word": "五一新一轮大暴雨又来了",
+      "onboard_time": 1714699637,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343925,
@@ -4979,14 +5035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314074,
-      "num": 170902,
-      "word": "殷世航为胖猫发声",
-      "onboard_time": 1714699878,
-      "rank": 30,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 313059,
       "num": 313059,
       "word": "赴山海 成毅",
@@ -5332,7 +5380,7 @@
     },
     {
       "raw_hot": 289282,
-      "num": 496135,
+      "num": 527237,
       "word": "萌娃走失说自己住11楼小区把警察弄懵",
       "onboard_time": 1714678690,
       "rank": 46,
@@ -5505,14 +5553,6 @@
       "onboard_time": 1714367359,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 276513,
-      "num": 276513,
-      "word": "土耳其宣布停止与以色列所有贸易",
-      "onboard_time": 1714699098,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 276033,
@@ -5977,6 +6017,14 @@
       "onboard_time": 1714539378,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253868,
+      "num": 253868,
+      "word": "第一批经济状况比不上父母的年轻人",
+      "onboard_time": 1714702399,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253653,
@@ -6787,6 +6835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222922,
+      "num": 222922,
+      "word": "张雅钦演技",
+      "onboard_time": 1714702156,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222624,
       "num": 222624,
       "word": "背着善宰跑",
@@ -7347,14 +7403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207179,
-      "num": 169453,
-      "word": "外交官在澡堂偷拍男孩新加坡发声",
-      "onboard_time": 1714699037,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 207126,
       "num": 207126,
       "word": "宋亚轩被赵昭仪吓到摸心脏",
@@ -7907,6 +7955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199893,
+      "num": 190060,
+      "word": "我已经过了需要你的年龄",
+      "onboard_time": 1714702278,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199739,
       "num": 199739,
       "word": "张雨绮穿礼服踩缝纫机",
@@ -8064,6 +8120,14 @@
       "word": "金秋天没镜头",
       "onboard_time": 1714386378,
       "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 196838,
+      "num": 196838,
+      "word": "时代少年团新歌好望角",
+      "onboard_time": 1714702758,
+      "rank": 26,
       "category": "音乐"
     },
     {
@@ -8419,6 +8483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192539,
+      "num": 192539,
+      "word": "纪念五三惨案96周年",
+      "onboard_time": 1714702278,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192419,
       "num": 192419,
       "word": "2024KPL王者梦之队",
@@ -8705,6 +8777,14 @@
       "onboard_time": 1714659919,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188111,
+      "num": 188111,
+      "word": "iPhone销售额大跌10%",
+      "onboard_time": 1714700478,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 188017,
@@ -9371,6 +9451,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 177314,
+      "num": 177314,
+      "word": "河大礼堂着火后房顶基本坍塌",
+      "onboard_time": 1714703178,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177262,
       "num": 177262,
       "word": "RC bp",
@@ -9851,20 +9939,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 168003,
+      "num": 168003,
+      "word": "谭爷爷五一小作文花里花气",
+      "onboard_time": 1714702577,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167943,
       "num": 167943,
       "word": "今天有好多电影上映",
       "onboard_time": 1714533317,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 167876,
-      "num": 167876,
-      "word": "景区因开封王婆回归游客量过大临时限流",
-      "onboard_time": 1714699637,
-      "rank": 32,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 167831,
@@ -10489,6 +10577,14 @@
       "onboard_time": 1714292358,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156665,
+      "num": 156665,
+      "word": "贝弗利用球砸球迷",
+      "onboard_time": 1714701738,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 156415,
@@ -11267,6 +11363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147001,
+      "num": 147001,
+      "word": "学养老毕业3年成班上唯一没转行的",
+      "onboard_time": 1714703058,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146938,
       "num": 146938,
       "word": "院方回应董宇辉直播让游客在外等50分钟",
@@ -11321,14 +11425,6 @@
       "onboard_time": 1714400181,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145969,
-      "num": 145969,
-      "word": "五一新一轮大暴雨又来了",
-      "onboard_time": 1714699637,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145920,
@@ -12067,6 +12163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134145,
+      "num": 134145,
+      "word": "苹果将回购1100亿美元股票",
+      "onboard_time": 1714698677,
+      "rank": 43,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 134078,
       "num": 134078,
       "word": "张镇麟隔扣徐昕",
@@ -12137,6 +12241,14 @@
       "onboard_time": 1714617496,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133371,
+      "num": 133371,
+      "word": "全国团员共7416.7万名",
+      "onboard_time": 1714703238,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 132926,
@@ -12337,14 +12449,6 @@
       "onboard_time": 1714479739,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130744,
-      "num": 130744,
-      "word": "苹果将回购1100亿美元股票",
-      "onboard_time": 1714698677,
-      "rank": 43,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 130674,
@@ -12811,6 +12915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123194,
+      "num": 123194,
+      "word": "林更新美人鱼抱孟子义",
+      "onboard_time": 1714703359,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123058,
       "num": 123058,
       "word": "第一次见这么肥美的大熊猫",
@@ -13089,6 +13201,14 @@
       "onboard_time": 1714483698,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117679,
+      "num": 117679,
+      "word": "济南防空警报",
+      "onboard_time": 1714703359,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 117472,
