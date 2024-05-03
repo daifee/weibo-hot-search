@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714764859749,
+  "endTime": 1714767615592,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -8611,6 +8611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25065,
+      "num": 39815,
+      "word": "谁能拒绝一个高颜值的coser呢",
+      "onboard_time": 1714765451,
+      "rank": 24,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 22736,
       "num": 26838,
       "word": "五一假期出行健康提示",
@@ -8627,6 +8635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21522,
+      "num": 79847,
+      "word": "蓝色监狱 帅得很超前",
+      "onboard_time": 1714764312,
+      "rank": 44,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 21177,
       "num": 23641,
       "word": "切尔西vs热刺",
@@ -8641,14 +8657,6 @@
       "onboard_time": 1714763172,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 20872,
-      "num": 79847,
-      "word": "蓝色监狱 帅得很超前",
-      "onboard_time": 1714764312,
-      "rank": 44,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 18674,
@@ -8681,6 +8689,14 @@
       "onboard_time": 1714592531,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14610,
+      "num": 39763,
+      "word": "发炎其实是人类的超能力",
+      "onboard_time": 1714767430,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 4564,
