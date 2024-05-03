@@ -1,0 +1,410 @@
+{
+  "runTime": 1714745860384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1982852,
+        "num": 1982852,
+        "word": "徐杰怒吼",
+        "onboard_time": 1714742122,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1526777,
+        "num": 1526777,
+        "word": "未闻花名哭死",
+        "onboard_time": 1714744822,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52609,
+        "num": 1008340,
+        "word": "文化中国行我写家乡",
+        "onboard_time": 1714742900,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842043,
+        "num": 842043,
+        "word": "嘻嘻 不嘻嘻",
+        "onboard_time": 1714737680,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 613608,
+        "num": 613608,
+        "word": "河南大学大礼堂火灾相关责任人被控制",
+        "onboard_time": 1714741102,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551285,
+        "num": 551285,
+        "word": "为什么韩国身份证有中国名字",
+        "onboard_time": 1714727719,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540130,
+        "num": 540130,
+        "word": "建议大学生提前培养一个小号",
+        "onboard_time": 1714736299,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 505667,
+        "num": 505667,
+        "word": "广东通报一家五口海边游玩落水致4死",
+        "onboard_time": 1714737799,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495952,
+        "num": 495952,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1714715898,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 253719,
+        "num": 431635,
+        "word": "河北婚纱照销毁师一年接400单",
+        "onboard_time": 1714736959,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4475410,
+        "num": 424044,
+        "word": "胖猫事件",
+        "onboard_time": 1714720519,
+        "rank": 10,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 416082,
+        "num": 416082,
+        "word": "梅大高速男子下跪拦车获救者也向他下跪",
+        "onboard_time": 1714734499,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382906,
+        "num": 382906,
+        "word": "诛仙2鬼厉陆雪琪十年再战",
+        "onboard_time": 1714743500,
+        "rank": 12,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 2320725,
+        "num": 382414,
+        "word": "胖猫已火化",
+        "onboard_time": 1714734860,
+        "rank": 13,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 380868,
+        "num": 380868,
+        "word": "我是没有结婚不是结不了婚",
+        "onboard_time": 1714731738,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332648,
+        "num": 332648,
+        "word": "十个勤天 音乐节",
+        "onboard_time": 1714742720,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1711684,
+        "num": 332045,
+        "word": "各大网红替胖猫发声",
+        "onboard_time": 1714739361,
+        "rank": 16,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 298157,
+        "num": 298157,
+        "word": "徐杰悼念梅大高速塌方遇难者",
+        "onboard_time": 1714744341,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283566,
+        "num": 283566,
+        "word": "赵继伟贝尔冲突",
+        "onboard_time": 1714740442,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1324476,
+        "num": 281432,
+        "word": "胖猫跳江事发地摆满鲜花汉堡",
+        "onboard_time": 1714730358,
+        "rank": 19,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 397356,
+        "num": 272809,
+        "word": "取消公摊会导致房价上涨吗",
+        "onboard_time": 1714743801,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331516,
+        "num": 255061,
+        "word": "员工一年内因迟到被扣20万元工资",
+        "onboard_time": 1714741641,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 971601,
+        "num": 252645,
+        "word": "蜜雪冰城就重庆空包致歉",
+        "onboard_time": 1714736838,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318855,
+        "num": 239054,
+        "word": "梁洁不能再瘦了",
+        "onboard_time": 1714743141,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234019,
+        "num": 234019,
+        "word": "全员加速中",
+        "onboard_time": 1714739242,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 843303,
+        "num": 220489,
+        "word": "谭竹回应",
+        "onboard_time": 1714691414,
+        "rank": 25,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 202632,
+        "num": 202632,
+        "word": "河南大学大礼堂火灾开展提级调查",
+        "onboard_time": 1714742060,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198513,
+        "num": 198513,
+        "word": "情歌",
+        "onboard_time": 1714744822,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 692394,
+        "num": 198335,
+        "word": "妹妹曝胖猫曾说他的老婆不需要上班",
+        "onboard_time": 1714743921,
+        "rank": 28,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 197460,
+        "num": 197460,
+        "word": "他真的娶到了高中就想娶的女孩",
+        "onboard_time": 1714745302,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187634,
+        "num": 187634,
+        "word": "戚薇体脂率14",
+        "onboard_time": 1714738882,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 578033,
+        "num": 187584,
+        "word": "胖猫谭竹",
+        "onboard_time": 1714663219,
+        "rank": 31,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 182357,
+        "num": 182357,
+        "word": "恋爱兄妹",
+        "onboard_time": 1714735639,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176015,
+        "num": 176015,
+        "word": "给女友拍照时偷偷换个特效",
+        "onboard_time": 1714743801,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 540229,
+        "num": 170712,
+        "word": "前女友为胖猫发声",
+        "onboard_time": 1714708999,
+        "rank": 34,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 164527,
+        "num": 164527,
+        "word": "王一博身份证掉了",
+        "onboard_time": 1714728080,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143036,
+        "num": 143036,
+        "word": "正式被确诊为淡淡综合症",
+        "onboard_time": 1714744701,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 454553,
+        "num": 142929,
+        "word": "茶百道以胖猫之名捐款100万",
+        "onboard_time": 1714717099,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 142233,
+        "num": 142233,
+        "word": "张真源一次过六块板",
+        "onboard_time": 1714742359,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137872,
+        "num": 137872,
+        "word": "AG逆风翻盘",
+        "onboard_time": 1714740141,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 272702,
+        "num": 137549,
+        "word": "华莱士开除涉事员工",
+        "onboard_time": 1714732340,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136554,
+        "num": 136554,
+        "word": "带97岁的曾祖母试小裙子",
+        "onboard_time": 1714745422,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134352,
+        "num": 134352,
+        "word": "张韶涵方律师声明",
+        "onboard_time": 1714733540,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272100,
+        "num": 133886,
+        "word": "21岁男生跳江后续",
+        "onboard_time": 1714745543,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128942,
+        "num": 128942,
+        "word": "网友锐评李钟硕",
+        "onboard_time": 1714745722,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124546,
+        "num": 124546,
+        "word": "龚俊爱豆妆",
+        "onboard_time": 1714745842,
+        "rank": 45,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 248687,
+        "num": 123803,
+        "word": "律师谈胖猫事件",
+        "onboard_time": 1714744822,
+        "rank": 46,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 120970,
+        "num": 120970,
+        "word": "腾讯娱乐 赵丽颖名字即收视保证",
+        "onboard_time": 1714728979,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111931,
+        "num": 111931,
+        "word": "多特官宣罗伊斯离队",
+        "onboard_time": 1714741041,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244741,
+        "num": 110343,
+        "word": "胖猫姐姐",
+        "onboard_time": 1714733480,
+        "rank": 49,
+        "category": "网红,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

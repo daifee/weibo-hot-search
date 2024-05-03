@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714743258170,
+  "endTime": 1714745860384,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -131,6 +131,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1982852,
+      "num": 1982852,
+      "word": "徐杰怒吼",
+      "onboard_time": 1714742122,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1841073,
       "num": 344132,
       "word": "胖猫 谭竹",
@@ -153,6 +161,14 @@
       "onboard_time": 1714699878,
       "rank": 30,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 1711684,
+      "num": 332045,
+      "word": "各大网红替胖猫发声",
+      "onboard_time": 1714739361,
+      "rank": 43,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 1701498,
@@ -219,6 +235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1526777,
+      "num": 1526777,
+      "word": "未闻花名哭死",
+      "onboard_time": 1714744822,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1515060,
       "num": 1515060,
       "word": "今年五一没人结婚吗",
@@ -249,14 +273,6 @@
       "onboard_time": 1714566978,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1424435,
-      "num": 267920,
-      "word": "各大网红替胖猫发声",
-      "onboard_time": 1714739361,
-      "rank": 43,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 1421271,
@@ -545,14 +561,6 @@
       "onboard_time": 1714533016,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1011509,
-      "num": 1011509,
-      "word": "徐杰怒吼",
-      "onboard_time": 1714742122,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 1003255,
@@ -979,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 692394,
+      "num": 198335,
+      "word": "妹妹曝胖猫曾说他的老婆不需要上班",
+      "onboard_time": 1714743921,
+      "rank": 28,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 687318,
       "num": 687318,
       "word": "河南大学大礼堂火灾相关责任人被控制",
@@ -1355,6 +1371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 540130,
+      "num": 540130,
+      "word": "建议大学生提前培养一个小号",
+      "onboard_time": 1714736299,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 540084,
       "num": 540084,
       "word": "张杰在台上轻轻地碎了",
@@ -1649,14 +1673,6 @@
       "onboard_time": 1714723700,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 465701,
-      "num": 338494,
-      "word": "建议大学生提前培养一个小号",
-      "onboard_time": 1714736299,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 465610,
@@ -2083,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397356,
+      "num": 272809,
+      "word": "取消公摊会导致房价上涨吗",
+      "onboard_time": 1714743801,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392169,
       "num": 392169,
       "word": "陈昊宇第22名",
@@ -2121,6 +2145,14 @@
       "onboard_time": 1714628959,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 382906,
+      "num": 382906,
+      "word": "诛仙2鬼厉陆雪琪十年再战",
+      "onboard_time": 1714743500,
+      "rank": 12,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 381407,
@@ -2411,12 +2443,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332648,
+      "num": 332648,
+      "word": "十个勤天 音乐节",
+      "onboard_time": 1714742720,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 332524,
       "num": 332524,
       "word": "大侦探 内娱无代餐",
       "onboard_time": 1714572800,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 331516,
+      "num": 263129,
+      "word": "员工一年内因迟到被扣20万元工资",
+      "onboard_time": 1714741641,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331060,
@@ -2505,6 +2553,14 @@
       "onboard_time": 1714712239,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318855,
+      "num": 261872,
+      "word": "梁洁不能再瘦了",
+      "onboard_time": 1714743141,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 316383,
@@ -2611,20 +2667,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298157,
+      "num": 298157,
+      "word": "徐杰悼念梅大高速塌方遇难者",
+      "onboard_time": 1714744341,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296315,
       "num": 296315,
       "word": "星河 第五人格",
       "onboard_time": 1714567998,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 295757,
-      "num": 263129,
-      "word": "员工一年内因迟到被扣20万元工资",
-      "onboard_time": 1714741641,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294798,
@@ -2763,14 +2819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278904,
-      "num": 261872,
-      "word": "梁洁不能再瘦了",
-      "onboard_time": 1714743141,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 278892,
       "num": 266616,
       "word": "迪丽热巴美式证件照",
@@ -2801,6 +2849,14 @@
       "onboard_time": 1714650558,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272100,
+      "num": 133886,
+      "word": "21岁男生跳江后续",
+      "onboard_time": 1714745543,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271512,
@@ -3035,6 +3091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248687,
+      "num": 123803,
+      "word": "律师谈胖猫事件",
+      "onboard_time": 1714744822,
+      "rank": 46,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 248434,
       "num": 248434,
       "word": "古灵精探",
@@ -3065,14 +3129,6 @@
       "onboard_time": 1714576399,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 246458,
-      "num": 246458,
-      "word": "十个勤天 音乐节",
-      "onboard_time": 1714742720,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 246158,
@@ -4019,6 +4075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198513,
+      "num": 198513,
+      "word": "情歌",
+      "onboard_time": 1714744822,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198465,
       "num": 198465,
       "word": "半个作家圈都来写家乡",
@@ -4065,6 +4129,14 @@
       "onboard_time": 1714650799,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197460,
+      "num": 197460,
+      "word": "他真的娶到了高中就想娶的女孩",
+      "onboard_time": 1714745302,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197161,
@@ -4680,6 +4752,14 @@
       "word": "每个宿舍都有自己的空调姐",
       "onboard_time": 1714547779,
       "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 176015,
+      "num": 176015,
+      "word": "给女友拍照时偷偷换个特效",
+      "onboard_time": 1714743801,
+      "rank": 33,
       "category": "幽默"
     },
     {
@@ -5923,6 +6003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143036,
+      "num": 143036,
+      "word": "正式被确诊为淡淡综合症",
+      "onboard_time": 1714744701,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143018,
       "num": 143018,
       "word": "越没本事的人脾气还越大",
@@ -6145,6 +6233,14 @@
       "onboard_time": 1714732279,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136554,
+      "num": 136554,
+      "word": "带97岁的曾祖母试小裙子",
+      "onboard_time": 1714745422,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 136400,
@@ -6555,6 +6651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128942,
+      "num": 128942,
+      "word": "网友锐评李钟硕",
+      "onboard_time": 1714745722,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128214,
       "num": 128214,
       "word": "真有人把留学生当免费代购",
@@ -6673,6 +6777,14 @@
       "onboard_time": 1714735339,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124546,
+      "num": 124546,
+      "word": "龚俊爱豆妆",
+      "onboard_time": 1714745842,
+      "rank": 45,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 124145,
@@ -8067,6 +8179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52609,
+      "num": 1008340,
+      "word": "文化中国行我写家乡",
+      "onboard_time": 1714742900,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52544,
       "num": 52544,
       "word": "这个五一重庆依旧旅游届的顶流",
@@ -8208,14 +8328,6 @@
       "word": "要织密安全防范措施之网",
       "onboard_time": 1714706719,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24609,
-      "num": 898342,
-      "word": "文化中国行我写家乡",
-      "onboard_time": 1714742900,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
