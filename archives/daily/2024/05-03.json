@@ -1,6 +1,6 @@
 {
   "startTime": 1714666942242,
-  "endTime": 1714739523373,
+  "endTime": 1714740420285,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -91,20 +91,20 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1788659,
+      "num": 885408,
+      "word": "蜜雪冰城就重庆空包致歉",
+      "onboard_time": 1714736838,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1781373,
       "num": 878102,
       "word": "殷世航为胖猫发声",
       "onboard_time": 1714699878,
       "rank": 30,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 1691389,
-      "num": 595192,
-      "word": "蜜雪冰城就重庆空包致歉",
-      "onboard_time": 1714736838,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1638222,
@@ -193,6 +193,14 @@
       "onboard_time": 1714713559,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1215155,
+      "num": 1215155,
+      "word": "嘻嘻 不嘻嘻",
+      "onboard_time": 1714737680,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1188392,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 871386,
-      "num": 547755,
+      "num": 846845,
       "word": "梅大高速男子下跪拦车获救者也向他下跪",
       "onboard_time": 1714734499,
       "rank": 35,
@@ -347,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 725602,
-      "num": 725602,
-      "word": "嘻嘻 不嘻嘻",
-      "onboard_time": 1714737680,
-      "rank": 1,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 696513,
       "num": 696513,
       "word": "郭碧婷被刘忻选中后哭了",
@@ -411,6 +411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 606884,
+      "num": 347296,
+      "word": "广东通报一家五口海边游玩落水致4死",
+      "onboard_time": 1714737799,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601137,
       "num": 464546,
       "word": "我是没有结婚不是结不了婚",
@@ -449,6 +457,14 @@
       "onboard_time": 1714713139,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 537823,
+      "num": 165390,
+      "word": "各大网红替胖猫发声",
+      "onboard_time": 1714739361,
+      "rank": 43,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 525204,
@@ -571,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465701,
+      "num": 245229,
+      "word": "建议大学生提前培养一个小号",
+      "onboard_time": 1714736299,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 462020,
       "num": 462020,
       "word": "罗西 越心",
@@ -609,14 +633,6 @@
       "onboard_time": 1714703298,
       "rank": 39,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 442386,
-      "num": 217056,
-      "word": "建议大学生提前培养一个小号",
-      "onboard_time": 1714736299,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 441476,
@@ -787,20 +803,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 330210,
-      "num": 330210,
-      "word": "广东通报一家五口海边游玩落水致4死",
-      "onboard_time": 1714737799,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 324756,
       "num": 244944,
       "word": "童瑶自曝不好意思被张新成看",
       "onboard_time": 1714719319,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322796,
+      "num": 322796,
+      "word": "全员加速中",
+      "onboard_time": 1714739242,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 319255,
@@ -899,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268923,
+      "num": 379302,
+      "word": "河北婚纱照销毁师一年接400单",
+      "onboard_time": 1714736959,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267815,
       "num": 267815,
       "word": "穿汉服被外国人围观了",
@@ -939,6 +963,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 254159,
+      "num": 240259,
+      "word": "戚薇体脂率14",
+      "onboard_time": 1714738882,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252067,
       "num": 252067,
       "word": "蔡文静排名",
@@ -947,12 +979,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251818,
-      "num": 375867,
-      "word": "河北婚纱照销毁师一年接400单",
-      "onboard_time": 1714736959,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 251590,
+      "num": 251590,
+      "word": "TES晋级胜败分组赛",
+      "onboard_time": 1714738820,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 248099,
@@ -1139,14 +1171,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 213603,
-      "num": 213603,
-      "word": "全员加速中",
-      "onboard_time": 1714739242,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211999,
       "num": 211999,
       "word": "我不要吃菜",
@@ -1155,20 +1179,20 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 211889,
-      "num": 211889,
-      "word": "戚薇体脂率14",
-      "onboard_time": 1714738882,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 210541,
       "num": 173378,
       "word": "总裁谈间谍过家家不邀请明星配音",
       "onboard_time": 1714689793,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209245,
+      "num": 209245,
+      "word": "AG逆风翻盘",
+      "onboard_time": 1714740141,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 208840,
@@ -1211,14 +1235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 204990,
-      "num": 149132,
-      "word": "各大网红替胖猫发声",
-      "onboard_time": 1714739361,
-      "rank": 43,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 202922,
       "num": 202922,
       "word": "开封王婆疑再遇剧本",
@@ -1251,12 +1267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199417,
-      "num": 199417,
-      "word": "TES晋级胜败分组赛",
-      "onboard_time": 1714738820,
-      "rank": 29,
-      "category": "电竞"
+      "raw_hot": 199825,
+      "num": 199825,
+      "word": "CBA",
+      "onboard_time": 1714738581,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 199134,
@@ -1531,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165410,
+      "num": 165410,
+      "word": "辽宁男篮vs广东男篮",
+      "onboard_time": 1714737321,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164818,
       "num": 164818,
       "word": "原来生活中的暗示这么明显",
@@ -1593,14 +1617,6 @@
       "onboard_time": 1714731139,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161765,
-      "num": 161765,
-      "word": "CBA",
-      "onboard_time": 1714738581,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 160535,
@@ -2603,8 +2619,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7275,
-      "num": 607818,
+      "raw_hot": 16171,
+      "num": 903584,
       "word": "打开青春的N种方式",
       "onboard_time": 1714637239,
       "rank": 2,

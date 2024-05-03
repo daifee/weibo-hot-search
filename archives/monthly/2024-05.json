@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714739523373,
+  "endTime": 1714740420285,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -139,6 +139,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1788659,
+      "num": 885408,
+      "word": "蜜雪冰城就重庆空包致歉",
+      "onboard_time": 1714736838,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1781373,
       "num": 878102,
       "word": "殷世航为胖猫发声",
@@ -152,14 +160,6 @@
       "word": "间谍窃取我国杂交水稻亲本种子",
       "onboard_time": 1714487901,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1691389,
-      "num": 595192,
-      "word": "蜜雪冰城就重庆空包致歉",
-      "onboard_time": 1714736838,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -361,6 +361,14 @@
       "onboard_time": 1714713559,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1215155,
+      "num": 1215155,
+      "word": "嘻嘻 不嘻嘻",
+      "onboard_time": 1714737680,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1200084,
@@ -652,7 +660,7 @@
     },
     {
       "raw_hot": 871386,
-      "num": 547755,
+      "num": 846845,
       "word": "梅大高速男子下跪拦车获救者也向他下跪",
       "onboard_time": 1714734499,
       "rank": 35,
@@ -881,14 +889,6 @@
       "onboard_time": 1714537877,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 725602,
-      "num": 725602,
-      "word": "嘻嘻 不嘻嘻",
-      "onboard_time": 1714737680,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 724564,
@@ -1171,6 +1171,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 606884,
+      "num": 347296,
+      "word": "广东通报一家五口海边游玩落水致4死",
+      "onboard_time": 1714737799,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 602985,
       "num": 418442,
       "word": "黄子韬抓住徐艺洋的手",
@@ -1353,6 +1361,14 @@
       "onboard_time": 1714489460,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 537823,
+      "num": 165390,
+      "word": "各大网红替胖猫发声",
+      "onboard_time": 1714739361,
+      "rank": 43,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 534188,
@@ -1619,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465701,
+      "num": 245229,
+      "word": "建议大学生提前培养一个小号",
+      "onboard_time": 1714736299,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 465610,
       "num": 465610,
       "word": "梅州高速塌方事故已救出31人",
@@ -1745,14 +1769,6 @@
       "onboard_time": 1714703298,
       "rank": 39,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 442386,
-      "num": 217056,
-      "word": "建议大学生提前培养一个小号",
-      "onboard_time": 1714736299,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 441982,
@@ -2395,14 +2411,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 330210,
-      "num": 330210,
-      "word": "广东通报一家五口海边游玩落水致4死",
-      "onboard_time": 1714737799,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 329851,
       "num": 308849,
       "word": "小米SU7全网首次大修",
@@ -2425,6 +2433,14 @@
       "onboard_time": 1714719319,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322796,
+      "num": 322796,
+      "word": "全员加速中",
+      "onboard_time": 1714739242,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 322422,
@@ -2771,6 +2787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 268923,
+      "num": 379302,
+      "word": "河北婚纱照销毁师一年接400单",
+      "onboard_time": 1714736959,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268443,
       "num": 268443,
       "word": "沈腾又吃到贾冰做的饭了",
@@ -2923,6 +2947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254159,
+      "num": 240259,
+      "word": "戚薇体脂率14",
+      "onboard_time": 1714738882,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254100,
       "num": 254100,
       "word": "陶昕然辟谣甄嬛传传闻",
@@ -2939,12 +2971,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251818,
-      "num": 375867,
-      "word": "河北婚纱照销毁师一年接400单",
-      "onboard_time": 1714736959,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 251590,
+      "num": 251590,
+      "word": "TES晋级胜败分组赛",
+      "onboard_time": 1714738820,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 248939,
@@ -3475,14 +3507,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 213603,
-      "num": 213603,
-      "word": "全员加速中",
-      "onboard_time": 1714739242,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213223,
       "num": 213223,
       "word": "成龙20本签名书变2本",
@@ -3513,14 +3537,6 @@
       "onboard_time": 1714708400,
       "rank": 32,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 211889,
-      "num": 211889,
-      "word": "戚薇体脂率14",
-      "onboard_time": 1714738882,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 211241,
@@ -3561,6 +3577,14 @@
       "onboard_time": 1714531398,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209245,
+      "num": 209245,
+      "word": "AG逆风翻盘",
+      "onboard_time": 1714740141,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 209131,
@@ -3705,14 +3729,6 @@
       "onboard_time": 1714719021,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 204990,
-      "num": 149132,
-      "word": "各大网红替胖猫发声",
-      "onboard_time": 1714739361,
-      "rank": 43,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 204725,
@@ -3899,12 +3915,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 199417,
-      "num": 199417,
-      "word": "TES晋级胜败分组赛",
-      "onboard_time": 1714738820,
-      "rank": 29,
-      "category": "电竞"
+      "raw_hot": 199825,
+      "num": 199825,
+      "word": "CBA",
+      "onboard_time": 1714564578,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 199362,
@@ -4971,6 +4987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165410,
+      "num": 165410,
+      "word": "辽宁男篮vs广东男篮",
+      "onboard_time": 1714564278,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165137,
       "num": 165137,
       "word": "杨幂唐嫣早期同框照",
@@ -5113,14 +5137,6 @@
       "onboard_time": 1714620737,
       "rank": 34,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 161765,
-      "num": 161765,
-      "word": "CBA",
-      "onboard_time": 1714564578,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 161680,
@@ -7123,14 +7139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110959,
-      "num": 110959,
-      "word": "辽宁男篮vs广东男篮",
-      "onboard_time": 1714564278,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110759,
       "num": 110759,
       "word": "五月天香港演唱会因暴雨中止",
@@ -7884,7 +7892,7 @@
     },
     {
       "raw_hot": 59356,
-      "num": 812915,
+      "num": 903584,
       "word": "打开青春的N种方式",
       "onboard_time": 1714637239,
       "rank": 2,
