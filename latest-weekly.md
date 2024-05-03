@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/28 00:20:26 ~ 2024/05/04 04:20:15
+本榜单时间：2024/04/28 00:20:26 ~ 2024/05/04 04:34:25
 </p>
 </blockquote>
 <p>
@@ -12915,6 +12915,12 @@ maestro饭拍视频（热度：27949）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%82%8E%E5%85%B6%E5%AE%9E%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%9A%84%E8%B6%85%E8%83%BD%E5%8A%9B%23" target="weibo">
+发炎其实是人类的超能力（热度：23327）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9B%8B%E4%BB%94%E8%8A%B1%E5%BC%8F%E9%92%93%E9%B1%BC%23" target="weibo">
 蛋仔花式钓鱼（热度：22894）
 </a>
@@ -13007,12 +13013,6 @@ maestro饭拍视频（热度：27949）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%A5%BD%E5%8F%8B%E8%AE%B0%E7%83%AD%E9%97%B9%E8%B5%B7%E6%9D%A5%E4%BA%86%23" target="weibo">
 花少好友记热闹起来了（热度：15503）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%82%8E%E5%85%B6%E5%AE%9E%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%9A%84%E8%B6%85%E8%83%BD%E5%8A%9B%23" target="weibo">
-发炎其实是人类的超能力（热度：14610）
 </a>
 </li>
 

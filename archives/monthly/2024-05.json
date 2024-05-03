@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714767615592,
+  "endTime": 1714768465551,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -8619,6 +8619,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 23327,
+      "num": 39763,
+      "word": "发炎其实是人类的超能力",
+      "onboard_time": 1714767430,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 22736,
       "num": 26838,
       "word": "五一假期出行健康提示",
@@ -8689,14 +8697,6 @@
       "onboard_time": 1714592531,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14610,
-      "num": 39763,
-      "word": "发炎其实是人类的超能力",
-      "onboard_time": 1714767430,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 4564,

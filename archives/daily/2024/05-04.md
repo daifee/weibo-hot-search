@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/04 00:23:22 ~ 2024/05/04 04:20:15
+本榜单时间：2024/05/04 00:23:22 ~ 2024/05/04 04:34:25
 </p>
 </blockquote>
 <p>
@@ -387,6 +387,12 @@ ive打歌服真假混穿（热度：164036）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%82%8E%E5%85%B6%E5%AE%9E%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%9A%84%E8%B6%85%E8%83%BD%E5%8A%9B%23" target="weibo">
+发炎其实是人类的超能力（热度：23327）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%BC%A0%E7%9C%9F%E6%BA%90%E9%83%91%E4%B8%9A%E6%88%90%E8%B6%8A%E7%AB%99%E8%B6%8A%E4%BD%8E%23" target="weibo">
 周深范丞丞张真源郑业成越站越低（热度：22495）
 </a>
@@ -401,12 +407,6 @@ ive打歌服真假混穿（热度：164036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E8%8D%89%E8%8E%93%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 北京草莓音乐节（热度：21153）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%82%8E%E5%85%B6%E5%AE%9E%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%9A%84%E8%B6%85%E8%83%BD%E5%8A%9B%23" target="weibo">
-发炎其实是人类的超能力（热度：14610）
 </a>
 </li>
 

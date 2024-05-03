@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714767615592,
+  "endTime": 1714768465551,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -17203,6 +17203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 23327,
+      "num": 39763,
+      "word": "发炎其实是人类的超能力",
+      "onboard_time": 1714767430,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 22894,
       "num": 446954,
       "word": "蛋仔花式钓鱼",
@@ -17329,14 +17337,6 @@
       "onboard_time": 1714592531,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14610,
-      "num": 39763,
-      "word": "发炎其实是人类的超能力",
-      "onboard_time": 1714767430,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 13911,
