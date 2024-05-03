@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714746858153,
+  "endTime": 1714749583580,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -123,6 +123,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 2215749,
+      "num": 1326294,
+      "word": "妹妹曝胖猫曾说他的老婆不需要上班",
+      "onboard_time": 1714743921,
+      "rank": 28,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 2069511,
       "num": 751731,
       "word": "梅大高速塌方一家五口确认遇难",
@@ -153,6 +161,14 @@
       "onboard_time": 1714739361,
       "rank": 43,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 1950291,
+      "num": 928102,
+      "word": "21岁男生跳江后续",
+      "onboard_time": 1714745543,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1841073,
@@ -329,14 +345,6 @@
       "onboard_time": 1714539017,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1326294,
-      "num": 1326294,
-      "word": "妹妹曝胖猫曾说他的老婆不需要上班",
-      "onboard_time": 1714743921,
-      "rank": 28,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 1295011,
@@ -609,6 +617,14 @@
       "onboard_time": 1714541358,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 958102,
+      "num": 958102,
+      "word": "正式被确诊为淡淡综合症",
+      "onboard_time": 1714744701,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 946692,
@@ -947,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 707845,
+      "num": 707845,
+      "word": "取消公摊会导致房价上涨吗",
+      "onboard_time": 1714743801,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700761,
       "num": 498484,
       "word": "罗西 临界十缨",
@@ -1115,6 +1139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 642619,
+      "num": 642619,
+      "word": "跑男剪辑",
+      "onboard_time": 1714747881,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 641986,
       "num": 641986,
       "word": "医院称全县救护车都去了事故现场",
@@ -1185,6 +1217,14 @@
       "onboard_time": 1714663278,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 617150,
+      "num": 617150,
+      "word": "他真的娶到了高中就想娶的女孩",
+      "onboard_time": 1714745302,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 616326,
@@ -1547,14 +1587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 491476,
-      "num": 414439,
-      "word": "取消公摊会导致房价上涨吗",
-      "onboard_time": 1714743801,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 486742,
       "num": 419988,
       "word": "肖战对接辟谣包场王一博电影",
@@ -1624,14 +1656,6 @@
       "word": "河大礼堂起火时疑有施工队在休息",
       "onboard_time": 1714695436,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 471892,
-      "num": 471892,
-      "word": "他真的娶到了高中就想娶的女孩",
-      "onboard_time": 1714745302,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1721,14 +1745,6 @@
       "onboard_time": 1714542739,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 462989,
-      "num": 418005,
-      "word": "21岁男生跳江后续",
-      "onboard_time": 1714745543,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 462389,
@@ -1995,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 414829,
+      "num": 311481,
+      "word": "网友锐评李钟硕",
+      "onboard_time": 1714745722,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413875,
       "num": 315370,
       "word": "朱珠方发文谴责倒卖门票商品行为",
@@ -2121,6 +2145,14 @@
       "onboard_time": 1714549998,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396588,
+      "num": 396588,
+      "word": "龚俊爱豆妆",
+      "onboard_time": 1714745842,
+      "rank": 45,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 392169,
@@ -2459,14 +2491,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 335499,
-      "num": 335499,
-      "word": "龚俊爱豆妆",
-      "onboard_time": 1714745842,
-      "rank": 45,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 332815,
       "num": 332815,
       "word": "2024年巴黎奥运会",
@@ -2625,14 +2649,6 @@
       "onboard_time": 1714535897,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 311481,
-      "num": 311481,
-      "word": "网友锐评李钟硕",
-      "onboard_time": 1714745722,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 309509,
@@ -2867,14 +2883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275867,
-      "num": 275867,
-      "word": "正式被确诊为淡淡综合症",
-      "onboard_time": 1714744701,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 275634,
       "num": 275634,
       "word": "WTT",
@@ -3009,6 +3017,14 @@
       "onboard_time": 1714716739,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262444,
+      "num": 262444,
+      "word": "迪丽热巴同款民族服饰火了",
+      "onboard_time": 1714748422,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 261873,
@@ -4259,6 +4275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194956,
+      "num": 194956,
+      "word": "林忆莲现场首唱归零",
+      "onboard_time": 1714749502,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194923,
       "num": 447191,
       "word": "自律儿子不爱学习但每天6点做饭",
@@ -4289,6 +4313,14 @@
       "onboard_time": 1714641918,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194374,
+      "num": 194374,
+      "word": "辽宁球迷扔水瓶",
+      "onboard_time": 1714749562,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 194287,
@@ -4707,6 +4739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179228,
+      "num": 415554,
+      "word": "红毛猩猩首次被发现用药草处理伤口",
+      "onboard_time": 1714745962,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178833,
       "num": 178833,
       "word": "成毅两大平台同时官宣",
@@ -4881,6 +4921,14 @@
       "onboard_time": 1714560079,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 173914,
+      "num": 173914,
+      "word": "黄景瑜 怎么连吃带拿上了",
+      "onboard_time": 1714748902,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173405,
@@ -5945,6 +5993,14 @@
       "onboard_time": 1714570220,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145284,
+      "num": 145284,
+      "word": "今天是粤三疯",
+      "onboard_time": 1714747762,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 145227,
@@ -7451,6 +7507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107774,
+      "num": 107774,
+      "word": "AG首个晋级胜者组决赛",
+      "onboard_time": 1714747042,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107585,
       "num": 107585,
       "word": "京东VG正在连接",
@@ -7609,14 +7673,6 @@
       "onboard_time": 1714548738,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 102222,
-      "num": 415554,
-      "word": "红毛猩猩首次被发现用药草处理伤口",
-      "onboard_time": 1714745962,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102148,
