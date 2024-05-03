@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1714736048522,
+  "endTime": 1714739523373,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -2083,6 +2083,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 3015765,
+      "num": 3015765,
+      "word": "胖猫已火化",
+      "onboard_time": 1714734860,
+      "rank": 16,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 3014277,
       "num": 1369236,
       "word": "差不多行了啊",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1714095318,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2868681,
-      "num": 2868681,
-      "word": "刘宇 抄袭",
-      "onboard_time": 1710311371,
-      "rank": 17,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

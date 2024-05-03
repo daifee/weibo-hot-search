@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714736048522,
+  "endTime": 1714739523373,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -83,20 +83,20 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 3015765,
+      "num": 3015765,
+      "word": "胖猫已火化",
+      "onboard_time": 1714734860,
+      "rank": 16,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 2819477,
       "num": 1940999,
       "word": "前女友为胖猫发声",
       "onboard_time": 1714708999,
       "rank": 1,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 2713960,
-      "num": 2713960,
-      "word": "胖猫已火化",
-      "onboard_time": 1714734860,
-      "rank": 16,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 2607465,
@@ -265,6 +265,14 @@
       "onboard_time": 1714306765,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1691389,
+      "num": 595192,
+      "word": "蜜雪冰城就重庆空包致歉",
+      "onboard_time": 1714736838,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1676147,
@@ -571,6 +579,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1341610,
+      "num": 471809,
+      "word": "胖猫跳江事发地摆满鲜花汉堡",
+      "onboard_time": 1714730358,
+      "rank": 31,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 1338559,
       "num": 746370,
       "word": "5000一晚的酒店薅走35瓶洗发水能回本吗",
@@ -625,14 +641,6 @@
       "onboard_time": 1714269617,
       "rank": 10,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1300634,
-      "num": 447934,
-      "word": "胖猫跳江事发地摆满鲜花汉堡",
-      "onboard_time": 1714730358,
-      "rank": 31,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 1297276,
@@ -1467,6 +1475,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 871386,
+      "num": 547755,
+      "word": "梅大高速男子下跪拦车获救者也向他下跪",
+      "onboard_time": 1714734499,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 870938,
       "num": 870938,
       "word": "日本或将进入单身税时代",
@@ -1953,6 +1969,14 @@
       "onboard_time": 1714537877,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 725602,
+      "num": 725602,
+      "word": "嘻嘻 不嘻嘻",
+      "onboard_time": 1714737680,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 724564,
@@ -2660,7 +2684,7 @@
     },
     {
       "raw_hot": 601137,
-      "num": 441908,
+      "num": 464546,
       "word": "我是没有结婚不是结不了婚",
       "onboard_time": 1714731738,
       "rank": 14,
@@ -3891,6 +3915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449290,
+      "num": 449290,
+      "word": "恋爱兄妹",
+      "onboard_time": 1714735639,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 449263,
       "num": 449263,
       "word": "歌手报名",
@@ -3937,6 +3969,14 @@
       "onboard_time": 1714703298,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 442386,
+      "num": 217056,
+      "word": "建议大学生提前培养一个小号",
+      "onboard_time": 1714736299,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 441982,
@@ -4676,7 +4716,7 @@
     },
     {
       "raw_hot": 375356,
-      "num": 172884,
+      "num": 197111,
       "word": "胖猫姐姐",
       "onboard_time": 1714733480,
       "rank": 37,
@@ -5163,14 +5203,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 333905,
-      "num": 333905,
-      "word": "梅大高速男子下跪拦车获救者也向他下跪",
-      "onboard_time": 1714734499,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333363,
       "num": 333363,
       "word": "赴山海",
@@ -5233,6 +5265,14 @@
       "onboard_time": 1714551318,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 330210,
+      "num": 330210,
+      "word": "广东通报一家五口海边游玩落水致4死",
+      "onboard_time": 1714737799,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329856,
@@ -6275,6 +6315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 267815,
+      "num": 267815,
+      "word": "穿汉服被外国人围观了",
+      "onboard_time": 1714736539,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 267705,
       "num": 235159,
       "word": "鹿晗现身末路狂花钱首映礼",
@@ -6587,6 +6635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251818,
+      "num": 375867,
+      "word": "河北婚纱照销毁师一年接400单",
+      "onboard_time": 1714736959,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251712,
       "num": 251712,
       "word": "吴艳妮新动作",
@@ -6796,7 +6852,7 @@
     },
     {
       "raw_hot": 245445,
-      "num": 126979,
+      "num": 139245,
       "word": "多品牌致歉外卖空包事件",
       "onboard_time": 1714734200,
       "rank": 46,
@@ -7547,6 +7603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219645,
+      "num": 219645,
+      "word": "朴成训顶着这张帅脸在干什么",
+      "onboard_time": 1714738640,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 219530,
       "num": 219530,
       "word": "五一抢票以失败告终",
@@ -7787,6 +7851,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 213603,
+      "num": 213603,
+      "word": "全员加速中",
+      "onboard_time": 1714739242,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213559,
       "num": 529113,
       "word": "天水表情包大叔靠麻辣烫追星成功",
@@ -7865,6 +7937,14 @@
       "onboard_time": 1714708400,
       "rank": 32,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 211889,
+      "num": 211889,
+      "word": "戚薇体脂率14",
+      "onboard_time": 1714738882,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 211847,
@@ -8235,14 +8315,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 205732,
-      "num": 205732,
-      "word": "恋爱兄妹",
-      "onboard_time": 1714735639,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205710,
       "num": 205710,
       "word": "向佐郭碧婷牵手出席活动",
@@ -8297,6 +8369,14 @@
       "onboard_time": 1714719021,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204990,
+      "num": 149132,
+      "word": "各大网红替胖猫发声",
+      "onboard_time": 1714739361,
+      "rank": 43,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 204725,
@@ -8707,6 +8787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199417,
+      "num": 199417,
+      "word": "TES晋级胜败分组赛",
+      "onboard_time": 1714738820,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199362,
       "num": 199362,
       "word": "张翰贴脸开大秦岚",
@@ -8737,6 +8825,14 @@
       "onboard_time": 1714367779,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199134,
+      "num": 199134,
+      "word": "高速塌方灾害现场老人跪下拦车救人",
+      "onboard_time": 1714739121,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199109,
@@ -10363,6 +10459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175843,
+      "num": 175843,
+      "word": "维和防暴队口碑",
+      "onboard_time": 1714736419,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175578,
       "num": 175578,
       "word": "内戏",
@@ -11211,6 +11315,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 161765,
+      "num": 161765,
+      "word": "CBA",
+      "onboard_time": 1714564578,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161680,
       "num": 161680,
       "word": "全力做好现场救援伤员救治",
@@ -11409,6 +11521,14 @@
       "onboard_time": 1714613838,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157987,
+      "num": 157987,
+      "word": "GG对战TE",
+      "onboard_time": 1714739361,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 157929,
@@ -12065,6 +12185,14 @@
       "onboard_time": 1714301237,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149911,
+      "num": 149911,
+      "word": "甘露寺蜜璃美甲",
+      "onboard_time": 1714733600,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 149667,
@@ -12915,6 +13043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139381,
+      "num": 139381,
+      "word": "一诺敖隐小龙王",
+      "onboard_time": 1714738940,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139311,
       "num": 139311,
       "word": "当旅行前让全家人签保证书",
@@ -13361,14 +13497,6 @@
       "onboard_time": 1714379778,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133680,
-      "num": 133680,
-      "word": "甘露寺蜜璃美甲",
-      "onboard_time": 1714733600,
-      "rank": 41,
-      "category": "美妆"
     },
     {
       "raw_hot": 133623,
@@ -15457,14 +15585,6 @@
       "onboard_time": 1714491020,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 98460,
-      "num": 98460,
-      "word": "CBA",
-      "onboard_time": 1714564578,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 98413,
