@@ -1,6 +1,6 @@
 {
   "startTime": 1714753402355,
-  "endTime": 1714770965406,
+  "endTime": 1714772060649,
   "band_list": [
     {
       "raw_hot": 4324589,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121809,
+      "num": 193924,
+      "word": "华晨宇日出演唱会会有日出吗",
+      "onboard_time": 1714754717,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121579,
       "num": 202299,
       "word": "白鹿宋雨琦一起跳fate",
@@ -419,14 +427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 89888,
-      "num": 193924,
-      "word": "华晨宇日出演唱会会有日出吗",
-      "onboard_time": 1714754717,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 88706,
       "num": 236016,
       "word": "十个勤天 音乐节",
@@ -459,7 +459,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 39847,
+      "raw_hot": 45669,
       "num": 39847,
       "word": "发炎其实是人类的超能力",
       "onboard_time": 1714767430,
@@ -531,20 +531,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16767,
+      "num": 34785,
+      "word": "背书时就能看见骨子里的谦让",
+      "onboard_time": 1714769590,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 16451,
+      "num": 34707,
+      "word": "美国和沙特将达成历史性协议",
+      "onboard_time": 1714771451,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 13659,
       "num": 29486,
       "word": "刘耀文Last Night",
       "onboard_time": 1714761372,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 13486,
-      "num": 29471,
-      "word": "背书时就能看见骨子里的谦让",
-      "onboard_time": 1714769590,
-      "rank": 49,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
