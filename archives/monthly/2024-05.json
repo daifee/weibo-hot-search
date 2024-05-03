@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714731568199,
+  "endTime": 1714732542446,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -459,20 +459,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1065792,
+      "num": 462082,
+      "word": "为什么韩国身份证有中国名字",
+      "onboard_time": 1714727719,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1060280,
       "num": 161329,
       "word": "昆山演唱会 全场喊退票",
       "onboard_time": 1714489219,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1021483,
-      "num": 462082,
-      "word": "为什么韩国身份证有中国名字",
-      "onboard_time": 1714727719,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1018617,
@@ -504,6 +504,14 @@
       "word": "高速塌方",
       "onboard_time": 1714711399,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 994329,
+      "num": 245796,
+      "word": "牛约堡致歉",
+      "onboard_time": 1714731018,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -593,6 +601,14 @@
       "onboard_time": 1714699577,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 874331,
+      "num": 462219,
+      "word": "梦奇",
+      "onboard_time": 1714726518,
+      "rank": 20,
+      "category": "网红,游戏"
     },
     {
       "raw_hot": 872908,
@@ -763,12 +779,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 780254,
-      "num": 462219,
-      "word": "梦奇",
-      "onboard_time": 1714726518,
-      "rank": 20,
-      "category": "网红,游戏"
+      "raw_hot": 787401,
+      "num": 238127,
+      "word": "胖猫跳江事发地摆满鲜花汉堡",
+      "onboard_time": 1714730358,
+      "rank": 31,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 780178,
@@ -1331,14 +1347,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 520956,
-      "num": 147786,
-      "word": "胖猫跳江事发地摆满鲜花汉堡",
-      "onboard_time": 1714730358,
-      "rank": 31,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 513645,
       "num": 513645,
       "word": "褚会长称990万已支付完成",
@@ -1388,7 +1396,7 @@
     },
     {
       "raw_hot": 495262,
-      "num": 222908,
+      "num": 238039,
       "word": "王一博身份证掉了",
       "onboard_time": 1714728080,
       "rank": 22,
@@ -1923,14 +1931,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 400569,
-      "num": 210901,
-      "word": "牛约堡致歉",
-      "onboard_time": 1714731018,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 399804,
       "num": 399804,
       "word": "哥伦比亚总统宣布将和以色列断交",
@@ -2371,6 +2371,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 313622,
+      "num": 154640,
+      "word": "市监局回应网友给胖猫点外卖为空包",
+      "onboard_time": 1714732279,
+      "rank": 34,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 312628,
       "num": 312628,
       "word": "茶百道联名",
@@ -2425,6 +2433,14 @@
       "onboard_time": 1714525038,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300260,
+      "num": 300260,
+      "word": "我是没有结婚不是结不了婚",
+      "onboard_time": 1714731738,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 299879,
@@ -2505,6 +2521,14 @@
       "onboard_time": 1714698979,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288378,
+      "num": 137303,
+      "word": "华莱士开除涉事员工",
+      "onboard_time": 1714732340,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285775,
@@ -3475,6 +3499,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 205058,
+      "num": 205058,
+      "word": "FNC对战TES",
+      "onboard_time": 1714731559,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205032,
       "num": 205032,
       "word": "乐华男团从哇唧唧哇到时代峰峻",
@@ -4203,6 +4235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181037,
+      "num": 181037,
+      "word": "童瑶发量",
+      "onboard_time": 1714730478,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 180438,
       "num": 180438,
       "word": "星穹铁道演唱会直播",
@@ -4379,6 +4419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174752,
+      "num": 174752,
+      "word": "月球背面",
+      "onboard_time": 1714731918,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174601,
       "num": 174601,
       "word": "包包有拉链真的太重要了",
@@ -4553,6 +4601,14 @@
       "onboard_time": 1714617438,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169694,
+      "num": 169694,
+      "word": "以色列",
+      "onboard_time": 1714731679,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 169438,
@@ -5307,6 +5363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148450,
+      "num": 148450,
+      "word": "叔不懂技巧但略有力量",
+      "onboard_time": 1714732220,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148382,
       "num": 148382,
       "word": "独行侠3比2快船",
@@ -5499,6 +5563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143325,
+      "num": 143325,
+      "word": "王一博走过最长的路就是观众的套路",
+      "onboard_time": 1714732099,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143018,
       "num": 143018,
       "word": "越没本事的人脾气还越大",
@@ -5529,14 +5601,6 @@
       "onboard_time": 1714524258,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 141552,
-      "num": 141552,
-      "word": "童瑶发量",
-      "onboard_time": 1714730478,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 141291,
@@ -5739,6 +5803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 135739,
+      "num": 135739,
+      "word": "鬼灭之刃 最后的温柔",
+      "onboard_time": 1714729999,
+      "rank": 36,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 135529,
       "num": 369942,
       "word": "爸爸为女儿在回家路旁种满鲜花",
@@ -5747,12 +5819,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135522,
-      "num": 135522,
-      "word": "鬼灭之刃 最后的温柔",
-      "onboard_time": 1714729999,
-      "rank": 36,
-      "category": "动漫,作品衍生"
+      "raw_hot": 135460,
+      "num": 135460,
+      "word": "梁洁杀回现偶",
+      "onboard_time": 1714732279,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 135296,
@@ -6755,6 +6827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111080,
+      "num": 368845,
+      "word": "生活贫困但知识和道德不能贫困",
+      "onboard_time": 1714729819,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110959,
       "num": 110959,
       "word": "辽宁男篮vs广东男篮",
@@ -6889,6 +6969,14 @@
       "onboard_time": 1714700239,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107182,
+      "num": 387981,
+      "word": "青岛人五一期间选择蹲家游",
+      "onboard_time": 1714730658,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 107049,
@@ -7147,14 +7235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97847,
-      "num": 367258,
-      "word": "青岛人五一期间选择蹲家游",
-      "onboard_time": 1714730658,
-      "rank": 9,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 97756,
       "num": 97756,
       "word": "兵马俑开馆2小时游客超1万人",
@@ -7329,14 +7409,6 @@
       "onboard_time": 1714668794,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 81884,
-      "num": 368845,
-      "word": "生活贫困但知识和道德不能贫困",
-      "onboard_time": 1714729819,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81266,
