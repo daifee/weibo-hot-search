@@ -1,6 +1,6 @@
 {
   "startTime": 1714666942242,
-  "endTime": 1714749583580,
+  "endTime": 1714750459858,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -75,6 +75,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2494931,
+      "num": 928102,
+      "word": "21岁男生跳江后续",
+      "onboard_time": 1714745543,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2364982,
       "num": 2364982,
       "word": "茶百道以胖猫之名捐款100万",
@@ -113,14 +121,6 @@
       "onboard_time": 1714739361,
       "rank": 43,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 1950291,
-      "num": 928102,
-      "word": "21岁男生跳江后续",
-      "onboard_time": 1714745543,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1841073,
@@ -235,6 +235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1242623,
+      "num": 1242623,
+      "word": "正式被确诊为淡淡综合症",
+      "onboard_time": 1714744701,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1227704,
       "num": 508086,
       "word": "张雪峰建议普通家庭不要学医",
@@ -289,14 +297,6 @@
       "onboard_time": 1714699157,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 958102,
-      "num": 958102,
-      "word": "正式被确诊为淡淡综合症",
-      "onboard_time": 1714744701,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 927346,
@@ -403,19 +403,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 743474,
+      "num": 743474,
+      "word": "取消公摊会导致房价上涨吗",
+      "onboard_time": 1714743801,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728200,
       "num": 503402,
       "word": "重庆长江大桥",
       "onboard_time": 1714719378,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 707845,
-      "num": 707845,
-      "word": "取消公摊会导致房价上涨吗",
-      "onboard_time": 1714743801,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -667,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 464955,
+      "num": 327970,
+      "word": "网友锐评李钟硕",
+      "onboard_time": 1714745722,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 462020,
       "num": 462020,
       "word": "罗西 越心",
@@ -769,14 +777,6 @@
       "onboard_time": 1714728979,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 414829,
-      "num": 311481,
-      "word": "网友锐评李钟硕",
-      "onboard_time": 1714745722,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 413875,
@@ -987,6 +987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 300210,
+      "num": 376292,
+      "word": "迪丽热巴同款民族服饰火了",
+      "onboard_time": 1714748422,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 298338,
       "num": 298338,
       "word": "IVE能不能把中国结摘下来",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1714716739,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 262444,
-      "num": 262444,
-      "word": "迪丽热巴同款民族服饰火了",
-      "onboard_time": 1714748422,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 261873,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1714709239,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229650,
+      "num": 229650,
+      "word": "七折",
+      "onboard_time": 1714749982,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 228955,
@@ -1411,6 +1419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204905,
+      "num": 204905,
+      "word": "陆虎好爱十个勤天",
+      "onboard_time": 1714749681,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202922,
       "num": 202922,
       "word": "开封王婆疑再遇剧本",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1714719740,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200811,
+      "num": 200811,
+      "word": "林忆莲现场首唱归零",
+      "onboard_time": 1714749502,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 200715,
@@ -1499,6 +1523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 197064,
+      "num": 197064,
+      "word": "辽宁球迷扔水瓶",
+      "onboard_time": 1714749562,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196838,
       "num": 196838,
       "word": "时代少年团新歌好望角",
@@ -1521,22 +1553,6 @@
       "onboard_time": 1714706659,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194956,
-      "num": 194956,
-      "word": "林忆莲现场首唱归零",
-      "onboard_time": 1714749502,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 194374,
-      "num": 194374,
-      "word": "辽宁球迷扔水瓶",
-      "onboard_time": 1714749562,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 194012,
@@ -1569,6 +1585,14 @@
       "onboard_time": 1714720338,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190428,
+      "num": 190428,
+      "word": "张杰杭州站",
+      "onboard_time": 1714749681,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 190163,
@@ -1643,6 +1667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 180851,
+      "num": 180851,
+      "word": "郭艾伦安慰队友",
+      "onboard_time": 1714749681,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180038,
       "num": 180038,
       "word": "射手座容易给人制造恋爱假象",
@@ -1681,6 +1713,14 @@
       "onboard_time": 1714741041,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176352,
+      "num": 176352,
+      "word": "刘忻 你心跳得好快",
+      "onboard_time": 1714750041,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 176015,
@@ -2267,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129995,
+      "num": 129995,
+      "word": "毛坯旅游vs精装朋友圈",
+      "onboard_time": 1714750400,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129766,
       "num": 604083,
       "word": "北京女大学生被青岛外卖小哥暖到了",
@@ -2377,6 +2425,14 @@
       "onboard_time": 1714691414,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120291,
+      "num": 120291,
+      "word": "周深被粉丝感动哭了",
+      "onboard_time": 1714750161,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 118818,

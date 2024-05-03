@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714749583580,
+  "endTime": 1714750459858,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -107,6 +107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2494931,
+      "num": 928102,
+      "word": "21岁男生跳江后续",
+      "onboard_time": 1714745543,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2486333,
       "num": 484005,
       "word": "郭晋安离婚",
@@ -161,14 +169,6 @@
       "onboard_time": 1714739361,
       "rank": 43,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 1950291,
-      "num": 928102,
-      "word": "21岁男生跳江后续",
-      "onboard_time": 1714745543,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1841073,
@@ -395,6 +395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1242623,
+      "num": 1242623,
+      "word": "正式被确诊为淡淡综合症",
+      "onboard_time": 1714744701,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1237151,
       "num": 1237151,
       "word": "北大居然偷偷出了这么多神器",
@@ -617,14 +625,6 @@
       "onboard_time": 1714541358,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 958102,
-      "num": 958102,
-      "word": "正式被确诊为淡淡综合症",
-      "onboard_time": 1714744701,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 946692,
@@ -915,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 743474,
+      "num": 743474,
+      "word": "取消公摊会导致房价上涨吗",
+      "onboard_time": 1714743801,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 737084,
       "num": 332671,
       "word": "陈牧驰 央视五一晚会",
@@ -960,14 +968,6 @@
       "word": "花花和爷爷又谭崩了",
       "onboard_time": 1714533377,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 707845,
-      "num": 707845,
-      "word": "取消公摊会导致房价上涨吗",
-      "onboard_time": 1714743801,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1723,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 464955,
+      "num": 327970,
+      "word": "网友锐评李钟硕",
+      "onboard_time": 1714745722,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464535,
       "num": 464535,
       "word": "间谍过家家约尔暴打黄昏",
@@ -2009,14 +2017,6 @@
       "onboard_time": 1714635197,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 414829,
-      "num": 311481,
-      "word": "网友锐评李钟硕",
-      "onboard_time": 1714745722,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 413875,
@@ -2707,6 +2707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300210,
+      "num": 376292,
+      "word": "迪丽热巴同款民族服饰火了",
+      "onboard_time": 1714748422,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 299879,
       "num": 264723,
       "word": "纪凌尘 你别再演了",
@@ -3017,14 +3025,6 @@
       "onboard_time": 1714716739,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 262444,
-      "num": 262444,
-      "word": "迪丽热巴同款民族服饰火了",
-      "onboard_time": 1714748422,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 261873,
@@ -3449,6 +3449,14 @@
       "onboard_time": 1714657941,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229650,
+      "num": 229650,
+      "word": "七折",
+      "onboard_time": 1714749982,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 228955,
@@ -3907,6 +3915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204905,
+      "num": 204905,
+      "word": "陆虎好爱十个勤天",
+      "onboard_time": 1714749681,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204725,
       "num": 204725,
       "word": "我妻之死作者回应质疑",
@@ -4049,6 +4065,14 @@
       "onboard_time": 1714527018,
       "rank": 25,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 200811,
+      "num": 200811,
+      "word": "林忆莲现场首唱归零",
+      "onboard_time": 1714749502,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 200753,
@@ -4203,6 +4227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 197064,
+      "num": 197064,
+      "word": "辽宁球迷扔水瓶",
+      "onboard_time": 1714749562,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196838,
       "num": 196838,
       "word": "时代少年团新歌好望角",
@@ -4275,14 +4307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194956,
-      "num": 194956,
-      "word": "林忆莲现场首唱归零",
-      "onboard_time": 1714749502,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 194923,
       "num": 447191,
       "word": "自律儿子不爱学习但每天6点做饭",
@@ -4313,14 +4337,6 @@
       "onboard_time": 1714641918,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 194374,
-      "num": 194374,
-      "word": "辽宁球迷扔水瓶",
-      "onboard_time": 1714749562,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 194287,
@@ -4424,6 +4440,14 @@
       "word": "华晨宇演唱会",
       "onboard_time": 1714533197,
       "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 190428,
+      "num": 190428,
+      "word": "张杰杭州站",
+      "onboard_time": 1714749681,
+      "rank": 33,
       "category": "演出"
     },
     {
@@ -4691,6 +4715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 180851,
+      "num": 180851,
+      "word": "郭艾伦安慰队友",
+      "onboard_time": 1714749681,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180438,
       "num": 180438,
       "word": "星穹铁道演唱会直播",
@@ -4817,6 +4849,14 @@
       "onboard_time": 1714741041,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176352,
+      "num": 176352,
+      "word": "刘忻 你心跳得好快",
+      "onboard_time": 1714750041,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 176307,
@@ -6667,6 +6707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129995,
+      "num": 129995,
+      "word": "毛坯旅游vs精装朋友圈",
+      "onboard_time": 1714750400,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129876,
       "num": 129876,
       "word": "特斯拉",
@@ -6993,6 +7041,14 @@
       "onboard_time": 1714649717,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 120291,
+      "num": 120291,
+      "word": "周深被粉丝感动哭了",
+      "onboard_time": 1714750161,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 120153,
