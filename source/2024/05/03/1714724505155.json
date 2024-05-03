@@ -1,0 +1,410 @@
+{
+  "runTime": 1714724505155,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8327499,
+        "num": 8327499,
+        "word": "胖猫事件",
+        "onboard_time": 1714720519,
+        "rank": 0,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 939765,
+        "num": 939765,
+        "word": "梅大高速下跪拦车的老人找到了",
+        "onboard_time": 1714714998,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22786,
+        "num": 688224,
+        "word": "要织密安全防范措施之网",
+        "onboard_time": 1714706719,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1973919,
+        "num": 683044,
+        "word": "茶百道以胖猫之名捐款100万",
+        "onboard_time": 1714717099,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 632529,
+        "num": 632529,
+        "word": "1家5口被海浪卷走4人不幸遇难",
+        "onboard_time": 1714721178,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547907,
+        "num": 547907,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1714715898,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 728200,
+        "num": 503402,
+        "word": "重庆长江大桥",
+        "onboard_time": 1714719378,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387066,
+        "num": 387066,
+        "word": "酱牛肉切开是彩虹色的千万别立刻吃",
+        "onboard_time": 1714715540,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 326041,
+        "num": 326041,
+        "word": "五三惨案",
+        "onboard_time": 1714703539,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102325,
+        "num": 304467,
+        "word": "北京女大学生被青岛外卖小哥暖到了",
+        "onboard_time": 1714707440,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1765613,
+        "num": 303351,
+        "word": "谭竹回应",
+        "onboard_time": 1714691414,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 372106,
+        "num": 300703,
+        "word": "工资突然爆炸式提升是什么体验",
+        "onboard_time": 1714723038,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297618,
+        "num": 297618,
+        "word": "活鸭要40多为何烤鸭才18元一只",
+        "onboard_time": 1714702399,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1441062,
+        "num": 296794,
+        "word": "前女友为胖猫发声",
+        "onboard_time": 1714708999,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 292204,
+        "num": 292204,
+        "word": "朴彩英赵露思撞衫",
+        "onboard_time": 1714706719,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225695,
+        "num": 225695,
+        "word": "河南大学大礼堂",
+        "onboard_time": 1714722199,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 763864,
+        "num": 225297,
+        "word": "华莱士 空包",
+        "onboard_time": 1714705640,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200041,
+        "num": 200041,
+        "word": "又被韩国人的比喻法笑到了",
+        "onboard_time": 1714723821,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174357,
+        "num": 174357,
+        "word": "徐艺洋好了解黄子韬",
+        "onboard_time": 1714718000,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 703805,
+        "num": 174154,
+        "word": "胖猫谭竹",
+        "onboard_time": 1714663219,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 480033,
+        "num": 173941,
+        "word": "李飞怎么瘦成这样了",
+        "onboard_time": 1714722499,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253212,
+        "num": 173873,
+        "word": "财务瞒天过海12年炒股亏光公司1350万",
+        "onboard_time": 1714723222,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529976,
+        "num": 173538,
+        "word": "我不要吃菜 我要吃麦当劳",
+        "onboard_time": 1714719918,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227366,
+        "num": 173377,
+        "word": "亳州王婆说媒劝小伙牵手怀孕女孩",
+        "onboard_time": 1714723700,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181180,
+        "num": 173132,
+        "word": "童瑶自曝不好意思被张新成看",
+        "onboard_time": 1714719319,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484894,
+        "num": 172932,
+        "word": "殷世航为胖猫发声",
+        "onboard_time": 1714699878,
+        "rank": 25,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 172769,
+        "num": 172769,
+        "word": "苗苗选了楼外楼",
+        "onboard_time": 1714719620,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169180,
+        "num": 169180,
+        "word": "美国网红连吃6个月火鸡面后尿血",
+        "onboard_time": 1714710198,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21735,
+        "num": 168986,
+        "word": "音乐节防晒神穿搭",
+        "onboard_time": 1714723821,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 413842,
+        "num": 168953,
+        "word": "华莱士回应空包",
+        "onboard_time": 1714711039,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168845,
+        "num": 168845,
+        "word": "乐华男团从哇唧唧哇到时代峰峻",
+        "onboard_time": 1714719021,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164339,
+        "num": 164339,
+        "word": "郭碧婷被刘忻选中后哭了",
+        "onboard_time": 1714712658,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1670036,
+        "num": 159717,
+        "word": "茶百道 白开水",
+        "onboard_time": 1714712779,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140942,
+        "num": 140942,
+        "word": "于正和纪凌尘合作了",
+        "onboard_time": 1714722320,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140289,
+        "num": 140289,
+        "word": "直播嫦娥六号发射",
+        "onboard_time": 1714719259,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 393477,
+        "num": 134723,
+        "word": "茶百道声明",
+        "onboard_time": 1714715898,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123715,
+        "num": 123715,
+        "word": "孙颖莎陈梦适应场地训练",
+        "onboard_time": 1714722499,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120483,
+        "num": 120483,
+        "word": "陶晶莹为周子瑜抱不平",
+        "onboard_time": 1714720819,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292744,
+        "num": 119187,
+        "word": "胖猫聊天记录",
+        "onboard_time": 1714695196,
+        "rank": 38,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 109025,
+        "num": 109025,
+        "word": "朴彩英 看得出她是公主",
+        "onboard_time": 1714704679,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108224,
+        "num": 108224,
+        "word": "9个月宝宝超认真爬长城",
+        "onboard_time": 1714722980,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245144,
+        "num": 108218,
+        "word": "茶百道开除涉事员工",
+        "onboard_time": 1714715898,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99660,
+        "num": 99660,
+        "word": "梅大高速塌方灾害救援昼夜不停",
+        "onboard_time": 1714711399,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98871,
+        "num": 98871,
+        "word": "T1对战Fly",
+        "onboard_time": 1714724299,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205912,
+        "num": 98562,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1714723579,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173877,
+        "num": 97905,
+        "word": "茶百道公关",
+        "onboard_time": 1714719740,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96709,
+        "num": 96709,
+        "word": "陈丽君一公排名第二",
+        "onboard_time": 1714716739,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89422,
+        "num": 89422,
+        "word": "奥运会在即塞纳河还是臭的",
+        "onboard_time": 1714722320,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159532,
+        "num": 89047,
+        "word": "胖猫",
+        "onboard_time": 1714653859,
+        "rank": 48,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 88661,
+        "num": 88661,
+        "word": "李耕耘新歌",
+        "onboard_time": 1714715419,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席曾将001号证书颁给这位法国人#"
+    }
+  }
+}

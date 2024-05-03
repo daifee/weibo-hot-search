@@ -1,10 +1,10 @@
 {
   "startTime": 1714666942242,
-  "endTime": 1714721647432,
+  "endTime": 1714724505155,
   "band_list": [
     {
-      "raw_hot": 5962138,
-      "num": 5962138,
+      "raw_hot": 8327499,
+      "num": 8327499,
       "word": "胖猫事件",
       "onboard_time": 1714720519,
       "rank": 46,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 728200,
+      "num": 503402,
+      "word": "重庆长江大桥",
+      "onboard_time": 1714719378,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 696513,
       "num": 696513,
       "word": "郭碧婷被刘忻选中后哭了",
@@ -267,11 +275,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 630423,
-      "num": 148570,
-      "word": "重庆长江大桥",
-      "onboard_time": 1714719378,
-      "rank": 37,
+      "raw_hot": 632529,
+      "num": 632529,
+      "word": "1家5口被海浪卷走4人不幸遇难",
+      "onboard_time": 1714721178,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -321,6 +329,14 @@
       "onboard_time": 1714713139,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 529976,
+      "num": 173538,
+      "word": "我不要吃菜 我要吃麦当劳",
+      "onboard_time": 1714719918,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 525204,
@@ -393,6 +409,14 @@
       "onboard_time": 1714660999,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 480033,
+      "num": 173941,
+      "word": "李飞怎么瘦成这样了",
+      "onboard_time": 1714722499,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 476385,
@@ -499,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372106,
+      "num": 300703,
+      "word": "工资突然爆炸式提升是什么体验",
+      "onboard_time": 1714723038,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 366922,
       "num": 366922,
       "word": "丫丫腰又粗了",
@@ -537,14 +569,6 @@
       "onboard_time": 1714642097,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 342289,
-      "num": 116299,
-      "word": "我不要吃菜 我要吃麦当劳",
-      "onboard_time": 1714719918,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324756,
@@ -667,6 +691,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 253212,
+      "num": 173873,
+      "word": "财务瞒天过海12年炒股亏光公司1350万",
+      "onboard_time": 1714723222,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252067,
       "num": 252067,
       "word": "蔡文静排名",
@@ -747,12 +779,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227366,
+      "num": 173377,
+      "word": "亳州王婆说媒劝小伙牵手怀孕女孩",
+      "onboard_time": 1714723700,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227179,
       "num": 227179,
       "word": "蒲熠星告别全员加速中",
       "onboard_time": 1714709778,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225695,
+      "num": 225695,
+      "word": "河南大学大礼堂",
+      "onboard_time": 1714722199,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216946,
@@ -811,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205912,
+      "num": 98562,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1714723579,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205032,
       "num": 205032,
       "word": "乐华男团从哇唧唧哇到时代峰峻",
@@ -849,6 +905,14 @@
       "onboard_time": 1714709118,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200041,
+      "num": 200041,
+      "word": "又被韩国人的比喻法笑到了",
+      "onboard_time": 1714723821,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 198465,
@@ -929,14 +993,6 @@
       "onboard_time": 1714707021,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189328,
-      "num": 138287,
-      "word": "1家5口被海浪卷走4人不幸遇难",
-      "onboard_time": 1714721178,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188411,
@@ -1259,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140942,
+      "num": 140942,
+      "word": "于正和纪凌尘合作了",
+      "onboard_time": 1714722320,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140304,
       "num": 140304,
       "word": "西安人的城墙下全都不是西安人",
@@ -1451,6 +1515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 123715,
+      "num": 123715,
+      "word": "孙颖莎陈梦适应场地训练",
+      "onboard_time": 1714722499,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123012,
       "num": 123012,
       "word": "郭碧婷小时代南湘主题曲是刘忻唱的",
@@ -1555,6 +1627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108224,
+      "num": 108224,
+      "word": "9个月宝宝超认真爬长城",
+      "onboard_time": 1714722980,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107468,
       "num": 107468,
       "word": "步行者4比2雄鹿",
@@ -1619,6 +1699,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 98871,
+      "num": 98871,
+      "word": "T1对战Fly",
+      "onboard_time": 1714724299,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98685,
       "num": 98685,
       "word": "山西恒山景区发生落石事件致1死5伤",
@@ -1657,6 +1745,14 @@
       "onboard_time": 1714671614,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89422,
+      "num": 89422,
+      "word": "奥运会在即塞纳河还是臭的",
+      "onboard_time": 1714722320,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 86189,
@@ -1841,6 +1937,14 @@
       "onboard_time": 1714706719,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21735,
+      "num": 168986,
+      "word": "音乐节防晒神穿搭",
+      "onboard_time": 1714723821,
+      "rank": 28,
+      "category": "美妆"
     },
     {
       "raw_hot": 21177,
