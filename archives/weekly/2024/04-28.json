@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714742501469,
+  "endTime": 1714743258170,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -267,6 +267,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1701498,
+      "num": 471809,
+      "word": "胖猫跳江事发地摆满鲜花汉堡",
+      "onboard_time": 1714730358,
+      "rank": 31,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 1701049,
       "num": 1701049,
       "word": "眼泪女王大结局",
@@ -297,14 +305,6 @@
       "onboard_time": 1714564338,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1650319,
-      "num": 471809,
-      "word": "胖猫跳江事发地摆满鲜花汉堡",
-      "onboard_time": 1714730358,
-      "rank": 31,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 1638222,
@@ -473,6 +473,14 @@
       "onboard_time": 1714470738,
       "rank": 3,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 1424435,
+      "num": 267920,
+      "word": "各大网红替胖猫发声",
+      "onboard_time": 1714739361,
+      "rank": 43,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 1421271,
@@ -665,14 +673,6 @@
       "onboard_time": 1714568718,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1282269,
-      "num": 253205,
-      "word": "各大网红替胖猫发声",
-      "onboard_time": 1714739361,
-      "rank": 43,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 1276632,
@@ -1195,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1011509,
+      "num": 1011509,
+      "word": "徐杰怒吼",
+      "onboard_time": 1714742122,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1003255,
       "num": 261793,
       "word": "张元英在家除了睡觉不会躺着",
@@ -1619,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 845373,
+      "num": 845373,
+      "word": "广东通报一家五口海边游玩落水致4死",
+      "onboard_time": 1714737799,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 843951,
       "num": 843951,
       "word": "古天乐坚持十多年每天只吃一顿饭",
@@ -1744,14 +1760,6 @@
       "word": "怀孕九个月去产检被老人要求让座",
       "onboard_time": 1714259896,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 812547,
-      "num": 812547,
-      "word": "广东通报一家五口海边游玩落水致4死",
-      "onboard_time": 1714737799,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -2211,6 +2219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 687318,
+      "num": 687318,
+      "word": "河南大学大礼堂火灾相关责任人被控制",
+      "onboard_time": 1714741102,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 687112,
       "num": 534665,
       "word": "配娱癫公",
@@ -2603,14 +2619,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 624348,
-      "num": 624348,
-      "word": "徐杰怒吼",
-      "onboard_time": 1714742122,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 621744,
       "num": 460470,
       "word": "汪苏泷如果爱忘了",
@@ -2825,14 +2833,6 @@
       "onboard_time": 1714312218,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 582936,
-      "num": 582936,
-      "word": "河南大学大礼堂火灾相关责任人被控制",
-      "onboard_time": 1714741102,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 579830,
@@ -3756,7 +3756,7 @@
     },
     {
       "raw_hot": 465701,
-      "num": 252731,
+      "num": 338494,
       "word": "建议大学生提前培养一个小号",
       "onboard_time": 1714736299,
       "rank": 20,
@@ -5859,6 +5859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 295757,
+      "num": 263129,
+      "word": "员工一年内因迟到被扣20万元工资",
+      "onboard_time": 1714741641,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294930,
       "num": 294930,
       "word": "猫 不许拍",
@@ -6123,6 +6131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278904,
+      "num": 261872,
+      "word": "梁洁不能再瘦了",
+      "onboard_time": 1714743141,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278892,
       "num": 266616,
       "word": "迪丽热巴美式证件照",
@@ -6297,6 +6313,14 @@
       "onboard_time": 1714522637,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 270166,
+      "num": 270166,
+      "word": "河南大学大礼堂火灾开展提级调查",
+      "onboard_time": 1714742060,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269816,
@@ -6611,6 +6635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 254629,
+      "num": 254629,
+      "word": "戚薇体脂率14",
+      "onboard_time": 1714738882,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254535,
       "num": 254535,
       "word": "庄洁陈麦冬分手",
@@ -6633,14 +6665,6 @@
       "onboard_time": 1714534037,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 254159,
-      "num": 244285,
-      "word": "戚薇体脂率14",
-      "onboard_time": 1714738882,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 254100,
@@ -6865,6 +6889,14 @@
       "onboard_time": 1714271657,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246458,
+      "num": 246458,
+      "word": "十个勤天 音乐节",
+      "onboard_time": 1714742720,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 246333,
@@ -7411,14 +7443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230261,
-      "num": 230261,
-      "word": "员工一年内因迟到被扣20万元工资",
-      "onboard_time": 1714741641,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229129,
       "num": 229129,
       "word": "赵丽颖围炉煮茶随拍",
@@ -7825,14 +7849,6 @@
       "onboard_time": 1714648999,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 216076,
-      "num": 255946,
-      "word": "河南大学大礼堂火灾开展提级调查",
-      "onboard_time": 1714742060,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216053,
@@ -8321,6 +8337,14 @@
       "onboard_time": 1714356439,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206540,
+      "num": 206540,
+      "word": "张真源一次过六块板",
+      "onboard_time": 1714742359,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 206534,
@@ -9001,6 +9025,14 @@
       "onboard_time": 1714275678,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 197161,
+      "num": 197161,
+      "word": "航拍洪崖洞仿佛穿越动漫世界",
+      "onboard_time": 1714740680,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 197074,
@@ -11345,14 +11377,6 @@
       "onboard_time": 1714713978,
       "rank": 45,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 162588,
-      "num": 162588,
-      "word": "航拍洪崖洞仿佛穿越动漫世界",
-      "onboard_time": 1714740680,
-      "rank": 32,
-      "category": "旅游"
     },
     {
       "raw_hot": 162494,
@@ -13729,14 +13753,6 @@
       "onboard_time": 1714555638,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131793,
-      "num": 131793,
-      "word": "张真源一次过六块板",
-      "onboard_time": 1714742359,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 131735,
@@ -16761,6 +16777,14 @@
       "onboard_time": 1714304056,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 24609,
+      "num": 898342,
+      "word": "文化中国行我写家乡",
+      "onboard_time": 1714742900,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23993,
