@@ -1,0 +1,410 @@
+{
+  "runTime": 1714728029223,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7625937,
+        "num": 7625937,
+        "word": "胖猫事件",
+        "onboard_time": 1714720519,
+        "rank": 0,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 854086,
+        "num": 854086,
+        "word": "梅大高速下跪拦车的老人找到了",
+        "onboard_time": 1714714998,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29046,
+        "num": 558505,
+        "word": "文化中国行感受非遗魅力",
+        "onboard_time": 1714724779,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1846568,
+        "num": 529175,
+        "word": "茶百道以胖猫之名捐款100万",
+        "onboard_time": 1714717099,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 462309,
+        "num": 462309,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1714715898,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 674521,
+        "num": 456854,
+        "word": "1家5口被海浪卷走4人不幸遇难",
+        "onboard_time": 1714721178,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638887,
+        "num": 453281,
+        "word": "我不要吃菜 我要吃麦当劳",
+        "onboard_time": 1714719918,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448694,
+        "num": 448694,
+        "word": "亳州王婆说媒劝小伙牵手怀孕女孩",
+        "onboard_time": 1714723700,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430725,
+        "num": 430725,
+        "word": "散步是一件亲密且暧昧的事",
+        "onboard_time": 1714725978,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63751,
+        "num": 364249,
+        "word": "北京女大学生被青岛外卖小哥暖到了",
+        "onboard_time": 1714707440,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 53761,
+        "num": 362036,
+        "word": "音乐节防晒神穿搭",
+        "onboard_time": 1714723821,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1538324,
+        "num": 361265,
+        "word": "谭竹回应",
+        "onboard_time": 1714691414,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 360482,
+        "num": 360482,
+        "word": "工资突然爆炸式提升是什么体验",
+        "onboard_time": 1714723038,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 357908,
+        "num": 357908,
+        "word": "直播嫦娥六号发射",
+        "onboard_time": 1714719259,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1431938,
+        "num": 342468,
+        "word": "前女友为胖猫发声",
+        "onboard_time": 1714708999,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 316383,
+        "num": 316383,
+        "word": "财务瞒天过海12年炒股亏光公司1350万",
+        "onboard_time": 1714723222,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274929,
+        "num": 274929,
+        "word": "陈昊宇第22名",
+        "onboard_time": 1714727179,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1000117,
+        "num": 271179,
+        "word": "华莱士回应空包",
+        "onboard_time": 1714711039,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258915,
+        "num": 258915,
+        "word": "酱牛肉切开是彩虹色的千万别立刻吃",
+        "onboard_time": 1714715540,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 223631,
+        "num": 223631,
+        "word": "活鸭要40多为何烤鸭才18元一只",
+        "onboard_time": 1714702399,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 623080,
+        "num": 222378,
+        "word": "梦奇",
+        "onboard_time": 1714726518,
+        "rank": 20,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 501024,
+        "num": 220168,
+        "word": "李飞怎么瘦成这样了",
+        "onboard_time": 1714722499,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216393,
+        "num": 216393,
+        "word": "朴彩英赵露思撞衫",
+        "onboard_time": 1714706719,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 574432,
+        "num": 210934,
+        "word": "华莱士 空包",
+        "onboard_time": 1714705640,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189938,
+        "num": 189938,
+        "word": "五三惨案",
+        "onboard_time": 1714703539,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171829,
+        "num": 171829,
+        "word": "又被韩国人的比喻法笑到了",
+        "onboard_time": 1714723821,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 553283,
+        "num": 171195,
+        "word": "胖猫谭竹",
+        "onboard_time": 1714663219,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 170342,
+        "num": 170342,
+        "word": "连狗都知道吃黄瓜要吐尖",
+        "onboard_time": 1714726159,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56370,
+        "num": 152831,
+        "word": "中国青年正当时",
+        "onboard_time": 1714725259,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441012,
+        "num": 151620,
+        "word": "爱人先爱己",
+        "onboard_time": 1714724838,
+        "rank": 29,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 331049,
+        "num": 151490,
+        "word": "为什么韩国身份证有中国名字",
+        "onboard_time": 1714727719,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150293,
+        "num": 150293,
+        "word": "李一桐书卷一梦开机vlog",
+        "onboard_time": 1714727600,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1025822,
+        "num": 146978,
+        "word": "茶百道 白开水",
+        "onboard_time": 1714712779,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140041,
+        "num": 140041,
+        "word": "丁程鑫你才多大管欧豪叫宝宝",
+        "onboard_time": 1714726099,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129925,
+        "num": 129925,
+        "word": "陶晶莹为周子瑜抱不平",
+        "onboard_time": 1714720819,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436482,
+        "num": 128127,
+        "word": "殷世航为胖猫发声",
+        "onboard_time": 1714699878,
+        "rank": 35,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 124076,
+        "num": 124076,
+        "word": "郭碧婷被刘忻选中后哭了",
+        "onboard_time": 1714712658,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120824,
+        "num": 120824,
+        "word": "美国网红连吃6个月火鸡面后尿血",
+        "onboard_time": 1714710198,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298377,
+        "num": 120385,
+        "word": "茶百道声明",
+        "onboard_time": 1714715898,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119929,
+        "num": 119929,
+        "word": "童瑶自曝不好意思被张新成看",
+        "onboard_time": 1714719319,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118818,
+        "num": 118818,
+        "word": "邓超是想了解鹿晗吗",
+        "onboard_time": 1714726880,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282953,
+        "num": 116374,
+        "word": "浪队",
+        "onboard_time": 1714727239,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113920,
+        "num": 113920,
+        "word": "河南大学大礼堂",
+        "onboard_time": 1714722199,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110569,
+        "num": 110569,
+        "word": "俄一男子街头飙轮椅被罚款",
+        "onboard_time": 1714725139,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266034,
+        "num": 109399,
+        "word": "重庆长江大桥",
+        "onboard_time": 1714719378,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102841,
+        "num": 102841,
+        "word": "徐艺洋好了解黄子韬",
+        "onboard_time": 1714718000,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99063,
+        "num": 99063,
+        "word": "我是妈妈永远的旅行青蛙",
+        "onboard_time": 1714727719,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203356,
+        "num": 98009,
+        "word": "茶百道开除涉事员工",
+        "onboard_time": 1714715898,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95519,
+        "num": 95519,
+        "word": "T1对战Fly",
+        "onboard_time": 1714724299,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89136,
+        "num": 89136,
+        "word": "于正和纪凌尘合作了",
+        "onboard_time": 1714722320,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
