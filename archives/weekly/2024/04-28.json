@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714763690737,
+  "endTime": 1714764859749,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -17241,6 +17241,14 @@
       "onboard_time": 1714763172,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20872,
+      "num": 79847,
+      "word": "蓝色监狱 帅得很超前",
+      "onboard_time": 1714764312,
+      "rank": 44,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 20343,
