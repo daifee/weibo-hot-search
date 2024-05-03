@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714768465551,
+  "endTime": 1714770965406,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -17027,6 +17027,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 39847,
+      "num": 39847,
+      "word": "发炎其实是人类的超能力",
+      "onboard_time": 1714767430,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 39842,
       "num": 856427,
       "word": "时间轴回顾中国九天揽月之路",
@@ -17203,14 +17211,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 23327,
-      "num": 39763,
-      "word": "发炎其实是人类的超能力",
-      "onboard_time": 1714767430,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 22894,
       "num": 446954,
       "word": "蛋仔花式钓鱼",
@@ -17345,6 +17345,22 @@
       "onboard_time": 1714331891,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13659,
+      "num": 29486,
+      "word": "刘耀文Last Night",
+      "onboard_time": 1714761372,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 13486,
+      "num": 29471,
+      "word": "背书时就能看见骨子里的谦让",
+      "onboard_time": 1714769590,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 12586,

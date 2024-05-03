@@ -1,6 +1,6 @@
 {
   "startTime": 1714753402355,
-  "endTime": 1714768465551,
+  "endTime": 1714770965406,
   "band_list": [
     {
       "raw_hot": 4324589,
@@ -459,6 +459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39847,
+      "num": 39847,
+      "word": "发炎其实是人类的超能力",
+      "onboard_time": 1714767430,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 35966,
       "num": 72801,
       "word": "惜花芷今日收官",
@@ -499,14 +507,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 23327,
-      "num": 39763,
-      "word": "发炎其实是人类的超能力",
-      "onboard_time": 1714767430,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 22495,
       "num": 87473,
       "word": "周深范丞丞张真源郑业成越站越低",
@@ -529,6 +529,22 @@
       "onboard_time": 1714763172,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13659,
+      "num": 29486,
+      "word": "刘耀文Last Night",
+      "onboard_time": 1714761372,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 13486,
+      "num": 29471,
+      "word": "背书时就能看见骨子里的谦让",
+      "onboard_time": 1714769590,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [

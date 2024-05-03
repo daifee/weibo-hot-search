@@ -1,0 +1,410 @@
+{
+  "runTime": 1714770965406,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 100600,
+        "num": 100600,
+        "word": "正式被确诊为淡淡综合症",
+        "onboard_time": 1714744701,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85548,
+        "num": 85548,
+        "word": "演唱会是一个巨大的乌托邦",
+        "onboard_time": 1714750940,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 9568,
+        "num": 54645,
+        "word": "文化中国行我写家乡",
+        "onboard_time": 1714742900,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88470,
+        "num": 53745,
+        "word": "华晨宇日出演唱会会有日出吗",
+        "onboard_time": 1714754717,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52700,
+        "num": 52700,
+        "word": "取消公摊会导致房价上涨吗",
+        "onboard_time": 1714743801,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46095,
+        "num": 46095,
+        "word": "他真的娶到了高中就想娶的女孩",
+        "onboard_time": 1714745302,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41060,
+        "num": 41060,
+        "word": "梅大高速男子下跪拦车获救者也向他下跪",
+        "onboard_time": 1714734499,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33518,
+        "num": 41053,
+        "word": "万妮达一公排名倒数",
+        "onboard_time": 1714753038,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29810,
+        "num": 40893,
+        "word": "建议大学生提前培养一个小号",
+        "onboard_time": 1714736299,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29146,
+        "num": 40831,
+        "word": "陈楚生徐佳莹唱身骑白马",
+        "onboard_time": 1714752859,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419997,
+        "num": 40793,
+        "word": "胖猫事件",
+        "onboard_time": 1714720519,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 27130,
+        "num": 40687,
+        "word": "为什么韩国身份证有中国名字",
+        "onboard_time": 1714727719,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25101,
+        "num": 40595,
+        "word": "广东通报一家五口海边游玩落水致4死",
+        "onboard_time": 1714737799,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155266,
+        "num": 40494,
+        "word": "妹妹曝胖猫曾说他的老婆不需要上班",
+        "onboard_time": 1714743921,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 24207,
+        "num": 40384,
+        "word": "迪丽热巴同款民族服饰火了",
+        "onboard_time": 1714748422,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22190,
+        "num": 40316,
+        "word": "王力宏音乐节",
+        "onboard_time": 1714750820,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153757,
+        "num": 40205,
+        "word": "21岁男生跳江后续",
+        "onboard_time": 1714745543,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21752,
+        "num": 40183,
+        "word": "龚俊爱豆妆",
+        "onboard_time": 1714745842,
+        "rank": 17,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 20183,
+        "num": 40078,
+        "word": "刘忻 你心跳得好快",
+        "onboard_time": 1714750041,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132695,
+        "num": 39941,
+        "word": "殷世航 两米八",
+        "onboard_time": 1714754658,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 75086,
+        "num": 39869,
+        "word": "向太夸郭碧婷是股清流",
+        "onboard_time": 1714754957,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39847,
+        "num": 39847,
+        "word": "发炎其实是人类的超能力",
+        "onboard_time": 1714767430,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20152,
+        "num": 39672,
+        "word": "李昊 可爱小狗",
+        "onboard_time": 1714751480,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87498,
+        "num": 39551,
+        "word": "胖猫已火化",
+        "onboard_time": 1714734860,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 30534,
+        "num": 39425,
+        "word": "为什么鸡爪越来越贵了",
+        "onboard_time": 1714750999,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 24761,
+        "num": 39282,
+        "word": "网友锐评李钟硕",
+        "onboard_time": 1714745722,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69941,
+        "num": 39023,
+        "word": "胖猫跳江事发地摆满鲜花汉堡",
+        "onboard_time": 1714730358,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 22037,
+        "num": 38807,
+        "word": "谁能拒绝一个高颜值的coser呢",
+        "onboard_time": 1714765451,
+        "rank": 27,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 21729,
+        "num": 38667,
+        "word": "员工一年内因迟到被扣20万元工资",
+        "onboard_time": 1714741641,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60594,
+        "num": 38460,
+        "word": "胖猫谭竹",
+        "onboard_time": 1714663219,
+        "rank": 29,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 19031,
+        "num": 38355,
+        "word": "徐杰怒吼",
+        "onboard_time": 1714742122,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18318,
+        "num": 38100,
+        "word": "河南大学大礼堂火灾相关责任人被控制",
+        "onboard_time": 1714741102,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48417,
+        "num": 37936,
+        "word": "各大网红替胖猫发声",
+        "onboard_time": 1714739361,
+        "rank": 32,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 18311,
+        "num": 37814,
+        "word": "张杰杭州站",
+        "onboard_time": 1714749681,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18158,
+        "num": 37630,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1714715898,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 39917,
+        "num": 37485,
+        "word": "胖猫姐姐准备打官司追回被骗钱款",
+        "onboard_time": 1714757234,
+        "rank": 35,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 18072,
+        "num": 37219,
+        "word": "谁能想到白鹿竟然是卧底",
+        "onboard_time": 1714751659,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17426,
+        "num": 37078,
+        "word": "十个勤天 音乐节",
+        "onboard_time": 1714742720,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37022,
+        "num": 37022,
+        "word": "谭竹回应",
+        "onboard_time": 1714691414,
+        "rank": 38,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 16887,
+        "num": 34647,
+        "word": "蓝色监狱 帅得很超前",
+        "onboard_time": 1714764312,
+        "rank": 39,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 15827,
+        "num": 34001,
+        "word": "ive打歌服真假混穿",
+        "onboard_time": 1714750520,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33748,
+        "num": 33748,
+        "word": "胖猫姐姐",
+        "onboard_time": 1714733480,
+        "rank": 41,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 15487,
+        "num": 31214,
+        "word": "嘻嘻 不嘻嘻",
+        "onboard_time": 1714737680,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15073,
+        "num": 30674,
+        "word": "信一仙品",
+        "onboard_time": 1714751900,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30218,
+        "num": 30218,
+        "word": "华莱士开除涉事员工",
+        "onboard_time": 1714732340,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14357,
+        "num": 29494,
+        "word": "跑男剪辑",
+        "onboard_time": 1714747881,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13863,
+        "num": 29489,
+        "word": "恋爱兄妹",
+        "onboard_time": 1714735639,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29489,
+        "num": 29488,
+        "word": "前女友为胖猫发声",
+        "onboard_time": 1714708999,
+        "rank": 47,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 13659,
+        "num": 29486,
+        "word": "刘耀文Last Night",
+        "onboard_time": 1714761372,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13486,
+        "num": 29471,
+        "word": "背书时就能看见骨子里的谦让",
+        "onboard_time": 1714769590,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
