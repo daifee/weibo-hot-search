@@ -1,9 +1,17 @@
 {
   "startTime": 1714666942242,
-  "endTime": 1714714450250,
+  "endTime": 1714717445228,
   "band_list": [
     {
-      "raw_hot": 3323979,
+      "raw_hot": 4070023,
+      "num": 4070023,
+      "word": "茶百道声明",
+      "onboard_time": 1714715898,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 3732091,
       "num": 3323979,
       "word": "茶百道 白开水",
       "onboard_time": 1714712779,
@@ -67,6 +75,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1638222,
+      "num": 977794,
+      "word": "胖猫谭竹",
+      "onboard_time": 1714663219,
+      "rank": 1,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1421271,
       "num": 1421271,
       "word": "活鸭要40多为何烤鸭才18元一只",
@@ -99,7 +115,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1147841,
+      "raw_hot": 1227704,
+      "num": 508086,
+      "word": "张雪峰建议普通家庭不要学医",
+      "onboard_time": 1714713559,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1188392,
       "num": 1119694,
       "word": "胖猫",
       "onboard_time": 1714653859,
@@ -115,18 +139,10 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1082830,
+      "raw_hot": 1102093,
       "num": 1082830,
       "word": "华莱士回应空包",
       "onboard_time": 1714711039,
-      "rank": 1,
-      "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 1054136,
-      "num": 977794,
-      "word": "胖猫谭竹",
-      "onboard_time": 1714663219,
       "rank": 1,
       "category": "游戏,网红"
     },
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 957018,
+      "num": 957018,
+      "word": "人人人人人你人人人人人",
+      "onboard_time": 1714715898,
+      "rank": 1,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 927346,
       "num": 555769,
       "word": "朴彩英赵露思撞衫",
@@ -161,6 +185,14 @@
       "onboard_time": 1714704679,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 891495,
+      "num": 429687,
+      "word": "梅大高速下跪拦车的老人找到了",
+      "onboard_time": 1714714998,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 874708,
@@ -187,6 +219,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 838147,
+      "num": 172892,
+      "word": "茶百道开除涉事员工",
+      "onboard_time": 1714715898,
+      "rank": 28,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 831965,
+      "num": 610925,
+      "word": "胖猫聊天记录",
+      "onboard_time": 1714695196,
+      "rank": 8,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 820468,
       "num": 820468,
       "word": "美国青年到中国被机场震惊了",
@@ -201,14 +249,6 @@
       "onboard_time": 1714712658,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 670810,
-      "num": 610925,
-      "word": "胖猫聊天记录",
-      "onboard_time": 1714695196,
-      "rank": 8,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 625329,
@@ -275,12 +315,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 508086,
-      "num": 508086,
-      "word": "张雪峰建议普通家庭不要学医",
-      "onboard_time": 1714713559,
-      "rank": 14,
-      "category": "社会新闻,教育"
+      "raw_hot": 508441,
+      "num": 450629,
+      "word": "胖猫姐姐发声",
+      "onboard_time": 1714693454,
+      "rank": 15,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 501422,
@@ -347,14 +387,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 450629,
-      "num": 450629,
-      "word": "胖猫姐姐发声",
-      "onboard_time": 1714693454,
-      "rank": 15,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 446157,
       "num": 446157,
       "word": "梅大高速塌方",
@@ -379,12 +411,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 443881,
+      "num": 156774,
+      "word": "茶百道以胖猫之名捐款100万",
+      "onboard_time": 1714717099,
+      "rank": 38,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 440393,
       "num": 231382,
       "word": "老公一个月四千多养活我们一家三口",
       "onboard_time": 1714639518,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 440083,
+      "num": 440083,
+      "word": "酱牛肉切开是彩虹色的千万别立刻吃",
+      "onboard_time": 1714715540,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 437434,
@@ -579,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239072,
+      "num": 239072,
+      "word": "乘风2024一公排名",
+      "onboard_time": 1714713918,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237805,
       "num": 237805,
       "word": "朋友频繁的约饭让人感觉很有压力",
@@ -619,19 +675,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228189,
-      "num": 228189,
-      "word": "乘风2024一公排名",
-      "onboard_time": 1714713918,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227179,
       "num": 227179,
       "word": "蒲熠星告别全员加速中",
       "onboard_time": 1714709778,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 223118,
+      "num": 223118,
+      "word": "陈丽君一公排名第二",
+      "onboard_time": 1714716739,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -713,6 +769,14 @@
       "onboard_time": 1714709118,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198465,
+      "num": 198465,
+      "word": "半个作家圈都来写家乡",
+      "onboard_time": 1714716498,
+      "rank": 26,
+      "category": "读书作家"
     },
     {
       "raw_hot": 197714,
@@ -843,12 +907,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173194,
+      "num": 173194,
+      "word": "李耕耘新歌",
+      "onboard_time": 1714715419,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 172822,
       "num": 172822,
       "word": "Faker名人堂皮肤爆料",
       "onboard_time": 1714706539,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172264,
+      "num": 172264,
+      "word": "新疆烤馕原来能大如轮胎",
+      "onboard_time": 1714716979,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 171295,
@@ -913,6 +993,14 @@
       "onboard_time": 1714713019,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163268,
+      "num": 163268,
+      "word": "于正说临江仙是自己最美的戏",
+      "onboard_time": 1714716679,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 162815,
@@ -1019,6 +1107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148669,
+      "num": 148669,
+      "word": "宫崎骏治好了我的年龄焦虑",
+      "onboard_time": 1714713978,
+      "rank": 45,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 145004,
       "num": 145004,
       "word": "库克称中国是全球最具竞争力的市场",
@@ -1043,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143938,
+      "num": 143938,
+      "word": "过度旅游正在击穿日本旅游业",
+      "onboard_time": 1714717280,
+      "rank": 43,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 142481,
       "num": 133069,
       "word": "天赐的声音",
@@ -1059,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139311,
+      "num": 139311,
+      "word": "当旅行前让全家人签保证书",
+      "onboard_time": 1714716561,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138688,
       "num": 138688,
       "word": "赵昭仪砍大鹅",
@@ -1067,12 +1179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136337,
-      "num": 136337,
-      "word": "宫崎骏治好了我的年龄焦虑",
-      "onboard_time": 1714713978,
-      "rank": 45,
-      "category": "电影,动漫"
+      "raw_hot": 134852,
+      "num": 134852,
+      "word": "刘忻一公排名第一",
+      "onboard_time": 1714715359,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 134762,
@@ -1089,6 +1201,14 @@
       "onboard_time": 1714698677,
       "rank": 43,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 133501,
+      "num": 133501,
+      "word": "Cat被创飞变成了flycat",
+      "onboard_time": 1714715838,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 133069,
@@ -1153,6 +1273,14 @@
       "onboard_time": 1714707440,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 127781,
+      "num": 127781,
+      "word": "无畏被瑶送锦旗",
+      "onboard_time": 1714716739,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 126688,
@@ -1545,6 +1673,14 @@
       "onboard_time": 1714676351,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4564,
+      "num": 166427,
+      "word": "十个勤天焕新美好生活",
+      "onboard_time": 1714714578,
+      "rank": 31,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

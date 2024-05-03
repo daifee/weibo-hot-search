@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714714450250,
+  "endTime": 1714717445228,
   "band_list": [
     {
       "raw_hot": 7591896,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4070023,
+      "num": 4070023,
+      "word": "茶百道声明",
+      "onboard_time": 1714715898,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 3959503,
       "num": 3959503,
       "word": "梅大高速路面塌陷事故已致36人死亡",
@@ -35,7 +43,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3323979,
+      "raw_hot": 3732091,
       "num": 3323979,
       "word": "茶百道 白开水",
       "onboard_time": 1714712779,
@@ -129,6 +137,14 @@
       "onboard_time": 1714564338,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1638222,
+      "num": 977794,
+      "word": "胖猫谭竹",
+      "onboard_time": 1714663219,
+      "rank": 1,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1595330,
@@ -267,12 +283,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1227704,
+      "num": 508086,
+      "word": "张雪峰建议普通家庭不要学医",
+      "onboard_time": 1714713559,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1200084,
       "num": 1200084,
       "word": "国务院安委会办公室印发紧急通知",
       "onboard_time": 1714642336,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1188392,
+      "num": 1119694,
+      "word": "胖猫",
+      "onboard_time": 1714653859,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 1172965,
@@ -305,14 +337,6 @@
       "onboard_time": 1714530258,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1147841,
-      "num": 1119694,
-      "word": "胖猫",
-      "onboard_time": 1714653859,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 1142394,
@@ -355,6 +379,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1102093,
+      "num": 1082830,
+      "word": "华莱士回应空包",
+      "onboard_time": 1714711039,
+      "rank": 1,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1098189,
       "num": 1098189,
       "word": "张翰彻底放开了",
@@ -387,14 +419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1082830,
-      "num": 1082830,
-      "word": "华莱士回应空包",
-      "onboard_time": 1714711039,
-      "rank": 1,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 1069308,
       "num": 406888,
       "word": "徐艺洋说吵架会被黄子韬拉黑",
@@ -409,14 +433,6 @@
       "onboard_time": 1714489219,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1054136,
-      "num": 977794,
-      "word": "胖猫谭竹",
-      "onboard_time": 1714663219,
-      "rank": 1,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 1018617,
@@ -475,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 957018,
+      "num": 957018,
+      "word": "人人人人人你人人人人人",
+      "onboard_time": 1714715898,
+      "rank": 1,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 946692,
       "num": 478787,
       "word": "赵小棠妈妈是先婚后爱",
@@ -505,6 +529,14 @@
       "onboard_time": 1714704679,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 891495,
+      "num": 429687,
+      "word": "梅大高速下跪拦车的老人找到了",
+      "onboard_time": 1714714998,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 888455,
@@ -595,12 +627,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 838147,
+      "num": 172892,
+      "word": "茶百道开除涉事员工",
+      "onboard_time": 1714715898,
+      "rank": 28,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 832901,
       "num": 490952,
       "word": "1995年5月1日中国人开始双休",
       "onboard_time": 1714616538,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 831965,
+      "num": 610925,
+      "word": "胖猫聊天记录",
+      "onboard_time": 1714695196,
+      "rank": 8,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 829946,
@@ -841,14 +889,6 @@
       "onboard_time": 1714522936,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 670810,
-      "num": 610925,
-      "word": "胖猫聊天记录",
-      "onboard_time": 1714695196,
-      "rank": 8,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 663867,
@@ -1235,12 +1275,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 508086,
-      "num": 508086,
-      "word": "张雪峰建议普通家庭不要学医",
-      "onboard_time": 1714713559,
-      "rank": 14,
-      "category": "社会新闻,教育"
+      "raw_hot": 508441,
+      "num": 450629,
+      "word": "胖猫姐姐发声",
+      "onboard_time": 1714693454,
+      "rank": 15,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 507736,
@@ -1451,14 +1491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 450629,
-      "num": 450629,
-      "word": "胖猫姐姐发声",
-      "onboard_time": 1714693454,
-      "rank": 15,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 449861,
       "num": 449861,
       "word": "迪丽热巴夹起来了",
@@ -1515,12 +1547,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 443881,
+      "num": 156774,
+      "word": "茶百道以胖猫之名捐款100万",
+      "onboard_time": 1714717099,
+      "rank": 38,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 441982,
       "num": 441982,
       "word": "大唐不夜城丢刀侍卫演我五一加班",
       "onboard_time": 1714605134,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 440083,
+      "num": 440083,
+      "word": "酱牛肉切开是彩虹色的千万别立刻吃",
+      "onboard_time": 1714715540,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 437434,
@@ -2707,6 +2755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 239072,
+      "num": 239072,
+      "word": "乘风2024一公排名",
+      "onboard_time": 1714713918,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237979,
       "num": 237979,
       "word": "迪丽热巴旗袍舞台直拍",
@@ -2827,14 +2883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228189,
-      "num": 228189,
-      "word": "乘风2024一公排名",
-      "onboard_time": 1714713918,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228076,
       "num": 228076,
       "word": "外交部回应美国务卿涉台声明",
@@ -2889,6 +2937,14 @@
       "onboard_time": 1714529477,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 223118,
+      "num": 223118,
+      "word": "陈丽君一公排名第二",
+      "onboard_time": 1714716739,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 220271,
@@ -3385,6 +3441,14 @@
       "onboard_time": 1714538417,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198465,
+      "num": 198465,
+      "word": "半个作家圈都来写家乡",
+      "onboard_time": 1714716498,
+      "rank": 26,
+      "category": "读书作家"
     },
     {
       "raw_hot": 198126,
@@ -4067,6 +4131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 173194,
+      "num": 173194,
+      "word": "李耕耘新歌",
+      "onboard_time": 1714715419,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173009,
       "num": 173009,
       "word": "广州天气",
@@ -4097,6 +4169,14 @@
       "onboard_time": 1714662019,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172264,
+      "num": 172264,
+      "word": "新疆烤馕原来能大如轮胎",
+      "onboard_time": 1714716979,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 172198,
@@ -4425,6 +4505,14 @@
       "onboard_time": 1714611137,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163268,
+      "num": 163268,
+      "word": "于正说临江仙是自己最美的戏",
+      "onboard_time": 1714716679,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 163260,
@@ -4899,6 +4987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148669,
+      "num": 148669,
+      "word": "宫崎骏治好了我的年龄焦虑",
+      "onboard_time": 1714713978,
+      "rank": 45,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 148382,
       "num": 148382,
       "word": "独行侠3比2快船",
@@ -5075,6 +5171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143938,
+      "num": 143938,
+      "word": "过度旅游正在击穿日本旅游业",
+      "onboard_time": 1714717280,
+      "rank": 43,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 143018,
       "num": 143018,
       "word": "越没本事的人脾气还越大",
@@ -5179,6 +5283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139311,
+      "num": 139311,
+      "word": "当旅行前让全家人签保证书",
+      "onboard_time": 1714716561,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138931,
       "num": 138931,
       "word": "福宝会择机与公众见面",
@@ -5259,14 +5371,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 136337,
-      "num": 136337,
-      "word": "宫崎骏治好了我的年龄焦虑",
-      "onboard_time": 1714713978,
-      "rank": 45,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 136243,
       "num": 136243,
       "word": "奔跑吧海龟汤菜单",
@@ -5313,6 +5417,14 @@
       "onboard_time": 1714572980,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134852,
+      "num": 134852,
+      "word": "刘忻一公排名第一",
+      "onboard_time": 1714715359,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 134765,
@@ -5401,6 +5513,14 @@
       "onboard_time": 1714617496,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133501,
+      "num": 133501,
+      "word": "Cat被创飞变成了flycat",
+      "onboard_time": 1714715838,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 133069,
@@ -5641,6 +5761,14 @@
       "onboard_time": 1714559539,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127781,
+      "num": 127781,
+      "word": "无畏被瑶送锦旗",
+      "onboard_time": 1714716739,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 127579,
@@ -7112,6 +7240,14 @@
       "word": "花少好友记热闹起来了",
       "onboard_time": 1714592531,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4564,
+      "num": 166427,
+      "word": "十个勤天焕新美好生活",
+      "onboard_time": 1714714578,
+      "rank": 31,
       "category": "综艺"
     }
   ],
