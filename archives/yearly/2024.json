@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1714699068928,
+  "endTime": 1714700264309,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -2187,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2936346,
+      "num": 2936346,
+      "word": "谭竹回应",
+      "onboard_time": 1714691414,
+      "rank": 13,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 2935651,
       "num": 2935651,
       "word": "肯德基爆单",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1709600969,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2838275,
-      "num": 2838275,
-      "word": "胡歌刘诗诗同框",
-      "onboard_time": 1705144723,
-      "rank": 5,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

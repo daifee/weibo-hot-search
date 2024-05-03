@@ -1,0 +1,410 @@
+{
+  "runTime": 1714700264309,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2936346,
+        "num": 2936346,
+        "word": "谭竹回应",
+        "onboard_time": 1714691414,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1841274,
+        "num": 1841274,
+        "word": "河南大学",
+        "onboard_time": 1714675092,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 146367,
+        "num": 1448043,
+        "word": "数据见证五一假期出行热度",
+        "onboard_time": 1714654999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1081057,
+        "num": 1081057,
+        "word": "刘梓晨 翻红",
+        "onboard_time": 1714696636,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 972744,
+        "num": 972744,
+        "word": "河南大学通报大礼堂起火",
+        "onboard_time": 1714699157,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784881,
+        "num": 784881,
+        "word": "胖猫谭竹",
+        "onboard_time": 1714663219,
+        "rank": 5,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 764507,
+        "num": 764507,
+        "word": "美国青年到中国被机场震惊了",
+        "onboard_time": 1714694296,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610925,
+        "num": 610925,
+        "word": "胖猫聊天记录",
+        "onboard_time": 1714695196,
+        "rank": 7,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 514322,
+        "num": 514322,
+        "word": "华晨宇内娱首个凌晨三点开演唱会",
+        "onboard_time": 1714666387,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 246300,
+        "num": 480028,
+        "word": "萌娃走失说自己住11楼小区把警察弄懵",
+        "onboard_time": 1714678690,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476385,
+        "num": 476385,
+        "word": "河大礼堂起火时疑有施工队在休息",
+        "onboard_time": 1714695436,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469779,
+        "num": 469779,
+        "word": "长相思2排播",
+        "onboard_time": 1714693875,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465370,
+        "num": 465370,
+        "word": "小众城市突然爆红",
+        "onboard_time": 1714661899,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 438147,
+        "num": 438147,
+        "word": "胖猫",
+        "onboard_time": 1714653859,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 396202,
+        "num": 396202,
+        "word": "罗西 越心",
+        "onboard_time": 1714693696,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 328774,
+        "num": 328774,
+        "word": "梅大高速塌方已致48人死亡",
+        "onboard_time": 1714635678,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321545,
+        "num": 321545,
+        "word": "胖猫姐姐发声",
+        "onboard_time": 1714693454,
+        "rank": 16,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 294972,
+        "num": 294972,
+        "word": "朱珠方发文谴责倒卖门票商品行为",
+        "onboard_time": 1714673592,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276513,
+        "num": 276513,
+        "word": "土耳其宣布停止与以色列所有贸易",
+        "onboard_time": 1714699098,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 242449,
+        "num": 242449,
+        "word": "郭晋安离婚",
+        "onboard_time": 1714656380,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478764,
+        "num": 238122,
+        "word": "内娱终于有艺人懂慢综了",
+        "onboard_time": 1714699577,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288895,
+        "num": 229160,
+        "word": "综艺史上第一次把大鹅和帝王蟹同炖",
+        "onboard_time": 1714698979,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218250,
+        "num": 218250,
+        "word": "发炎时要少吃4类食物",
+        "onboard_time": 1714662139,
+        "rank": 22,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 216407,
+        "num": 216407,
+        "word": "魏晨分身情人",
+        "onboard_time": 1714696577,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183662,
+        "num": 183662,
+        "word": "褶皱玫瑰",
+        "onboard_time": 1714697537,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 178437,
+        "num": 178437,
+        "word": "三百领养金渐层但要分期七千买猫粮",
+        "onboard_time": 1714695377,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175794,
+        "num": 175794,
+        "word": "我弟弟就是最好的旅游搭子",
+        "onboard_time": 1714660999,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173330,
+        "num": 173330,
+        "word": "网友晒299元买朱珠价值5千二手包",
+        "onboard_time": 1714653258,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172998,
+        "num": 172998,
+        "word": "河南大学明伦校区一建筑房顶着火",
+        "onboard_time": 1714691953,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171295,
+        "num": 171295,
+        "word": "张远抓大鹅",
+        "onboard_time": 1714695076,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314074,
+        "num": 170902,
+        "word": "殷世航为胖猫发声",
+        "onboard_time": 1714699878,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 207179,
+        "num": 169453,
+        "word": "外交官在澡堂偷拍男孩新加坡发声",
+        "onboard_time": 1714699037,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167876,
+        "num": 167876,
+        "word": "景区因开封王婆回归游客量过大临时限流",
+        "onboard_time": 1714699637,
+        "rank": 32,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 164818,
+        "num": 164818,
+        "word": "原来生活中的暗示这么明显",
+        "onboard_time": 1714698018,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145969,
+        "num": 145969,
+        "word": "五一新一轮大暴雨又来了",
+        "onboard_time": 1714699637,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145004,
+        "num": 145004,
+        "word": "库克称中国是全球最具竞争力的市场",
+        "onboard_time": 1714696457,
+        "rank": 35,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 143890,
+        "num": 143890,
+        "word": "一个位置坐久了真的会有感情",
+        "onboard_time": 1714696876,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142650,
+        "num": 142650,
+        "word": "成毅和王权富贵说再见",
+        "onboard_time": 1714693454,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141391,
+        "num": 141391,
+        "word": "嫦娥六号首选瞄准17时27分发射",
+        "onboard_time": 1714695017,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133965,
+        "num": 133965,
+        "word": "陈丽君一公发如雪直拍",
+        "onboard_time": 1714692614,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132424,
+        "num": 132424,
+        "word": "严浩翔张真源丁程鑫争着在武艺面前打脸",
+        "onboard_time": 1714698318,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130744,
+        "num": 130744,
+        "word": "苹果将回购1100亿美元股票",
+        "onboard_time": 1714698677,
+        "rank": 41,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 126688,
+        "num": 126688,
+        "word": "十个勤天常州",
+        "onboard_time": 1714693696,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123820,
+        "num": 123820,
+        "word": "消防回应河南大学一建筑房顶着火",
+        "onboard_time": 1714692074,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117810,
+        "num": 117810,
+        "word": "新加坡驻日参赞在澡堂偷拍未成年男孩",
+        "onboard_time": 1714677791,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116423,
+        "num": 116423,
+        "word": "韩国教授为IVE国风争议发声",
+        "onboard_time": 1714654457,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115112,
+        "num": 115112,
+        "word": "小米澄清大压铸和冲压完全不同",
+        "onboard_time": 1714700119,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114124,
+        "num": 114124,
+        "word": "张杰在台上轻轻地碎了",
+        "onboard_time": 1714662258,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109889,
+        "num": 109889,
+        "word": "出游时要小心这7种常见植物",
+        "onboard_time": 1714700058,
+        "rank": 48,
+        "category": "科学科普,旅游"
+      },
+      {
+        "raw_hot": 107468,
+        "num": 107468,
+        "word": "步行者4比2雄鹿",
+        "onboard_time": 1714700239,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对梅大高速塌方灾害作出重要指示#"
+    }
+  }
+}
