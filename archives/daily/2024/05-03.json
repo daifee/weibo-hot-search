@@ -1,7 +1,15 @@
 {
   "startTime": 1714666942242,
-  "endTime": 1714720627169,
+  "endTime": 1714721647432,
   "band_list": [
+    {
+      "raw_hot": 5962138,
+      "num": 5962138,
+      "word": "胖猫事件",
+      "onboard_time": 1714720519,
+      "rank": 46,
+      "category": "网红,社会新闻"
+    },
     {
       "raw_hot": 4070023,
       "num": 4070023,
@@ -259,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 630423,
+      "num": 148570,
+      "word": "重庆长江大桥",
+      "onboard_time": 1714719378,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625329,
       "num": 324591,
       "word": "妈妈告诉我她绝经了我好难过",
@@ -483,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 375709,
-      "num": 130420,
-      "word": "重庆长江大桥",
-      "onboard_time": 1714719378,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 366922,
       "num": 366922,
       "word": "丫丫腰又粗了",
@@ -529,6 +537,14 @@
       "onboard_time": 1714642097,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 342289,
+      "num": 116299,
+      "word": "我不要吃菜 我要吃麦当劳",
+      "onboard_time": 1714719918,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324756,
@@ -603,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284510,
+      "num": 284510,
+      "word": "苗苗选了楼外楼",
+      "onboard_time": 1714719620,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281662,
       "num": 263113,
       "word": "张翰想要的vs张翰得到的",
@@ -641,14 +665,6 @@
       "onboard_time": 1714657519,
       "rank": 17,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 254952,
-      "num": 254952,
-      "word": "苗苗选了楼外楼",
-      "onboard_time": 1714719620,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 252067,
@@ -723,14 +739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229973,
-      "num": 116299,
-      "word": "我不要吃菜 我要吃麦当劳",
-      "onboard_time": 1714719918,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228955,
       "num": 228955,
       "word": "张雅钦演技",
@@ -801,14 +809,6 @@
       "onboard_time": 1714703359,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206635,
-      "num": 111943,
-      "word": "胖猫事件",
-      "onboard_time": 1714720519,
-      "rank": 46,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 205032,
@@ -916,7 +916,7 @@
     },
     {
       "raw_hot": 190923,
-      "num": 144044,
+      "num": 181640,
       "word": "刘忻选人",
       "onboard_time": 1714720338,
       "rank": 30,
@@ -929,6 +929,14 @@
       "onboard_time": 1714707021,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189328,
+      "num": 138287,
+      "word": "1家5口被海浪卷走4人不幸遇难",
+      "onboard_time": 1714721178,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188411,
@@ -1379,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130491,
+      "num": 130491,
+      "word": "陶晶莹为周子瑜抱不平",
+      "onboard_time": 1714720819,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130443,
       "num": 130443,
       "word": "美国又一黑人男子遭警察跪压后身亡",
@@ -1820,7 +1836,7 @@
     },
     {
       "raw_hot": 25309,
-      "num": 207857,
+      "num": 939310,
       "word": "要织密安全防范措施之网",
       "onboard_time": 1714706719,
       "rank": 32,
