@@ -1,6 +1,6 @@
 {
   "startTime": 1714666942242,
-  "endTime": 1714740420285,
+  "endTime": 1714742501469,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -107,12 +107,28 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1650319,
+      "num": 471809,
+      "word": "胖猫跳江事发地摆满鲜花汉堡",
+      "onboard_time": 1714730358,
+      "rank": 31,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 1638222,
       "num": 977794,
       "word": "胖猫谭竹",
       "onboard_time": 1714663219,
       "rank": 1,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 1590195,
+      "num": 1590195,
+      "word": "嘻嘻 不嘻嘻",
+      "onboard_time": 1714737680,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1494772,
@@ -155,11 +171,11 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1341610,
-      "num": 471809,
-      "word": "胖猫跳江事发地摆满鲜花汉堡",
-      "onboard_time": 1714730358,
-      "rank": 31,
+      "raw_hot": 1282269,
+      "num": 253205,
+      "word": "各大网红替胖猫发声",
+      "onboard_time": 1714739361,
+      "rank": 43,
       "category": "网红,社会新闻"
     },
     {
@@ -193,14 +209,6 @@
       "onboard_time": 1714713559,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1215155,
-      "num": 1215155,
-      "word": "嘻嘻 不嘻嘻",
-      "onboard_time": 1714737680,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1188392,
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 812547,
+      "num": 812547,
+      "word": "广东通报一家五口海边游玩落水致4死",
+      "onboard_time": 1714737799,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728200,
       "num": 503402,
       "word": "重庆长江大桥",
@@ -403,20 +419,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 624348,
+      "num": 624348,
+      "word": "徐杰怒吼",
+      "onboard_time": 1714742122,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 621744,
       "num": 460470,
       "word": "汪苏泷如果爱忘了",
       "onboard_time": 1714663278,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 606884,
-      "num": 347296,
-      "word": "广东通报一家五口海边游玩落水致4死",
-      "onboard_time": 1714737799,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 601137,
@@ -433,6 +449,14 @@
       "onboard_time": 1714699037,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 582936,
+      "num": 582936,
+      "word": "河南大学大礼堂火灾相关责任人被控制",
+      "onboard_time": 1714741102,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 572476,
@@ -457,14 +481,6 @@
       "onboard_time": 1714713139,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 537823,
-      "num": 165390,
-      "word": "各大网红替胖猫发声",
-      "onboard_time": 1714739361,
-      "rank": 43,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 525204,
@@ -588,7 +604,7 @@
     },
     {
       "raw_hot": 465701,
-      "num": 245229,
+      "num": 252731,
       "word": "建议大学生提前培养一个小号",
       "onboard_time": 1714736299,
       "rank": 20,
@@ -673,6 +689,14 @@
       "onboard_time": 1714725978,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 430200,
+      "num": 430200,
+      "word": "赵继伟贝尔冲突",
+      "onboard_time": 1714740442,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 424987,
@@ -915,20 +939,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268923,
-      "num": 379302,
-      "word": "河北婚纱照销毁师一年接400单",
-      "onboard_time": 1714736959,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267815,
-      "num": 267815,
+      "raw_hot": 271512,
+      "num": 271512,
       "word": "穿汉服被外国人围观了",
       "onboard_time": 1714736539,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 268923,
+      "num": 463313,
+      "word": "河北婚纱照销毁师一年接400单",
+      "onboard_time": 1714736959,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267113,
@@ -964,7 +988,7 @@
     },
     {
       "raw_hot": 254159,
-      "num": 240259,
+      "num": 244285,
       "word": "戚薇体脂率14",
       "onboard_time": 1714738882,
       "rank": 24,
@@ -1075,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230261,
+      "num": 230261,
+      "word": "员工一年内因迟到被扣20万元工资",
+      "onboard_time": 1714741641,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228955,
       "num": 228955,
       "word": "张雅钦演技",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1714696577,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 216076,
+      "num": 255946,
+      "word": "河南大学大礼堂火灾开展提级调查",
+      "onboard_time": 1714742060,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215661,
@@ -1459,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176705,
+      "num": 176705,
+      "word": "多特官宣罗伊斯离队",
+      "onboard_time": 1714741041,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175843,
       "num": 175843,
       "word": "维和防暴队口碑",
@@ -1609,6 +1657,14 @@
       "onboard_time": 1714713978,
       "rank": 45,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 162588,
+      "num": 162588,
+      "word": "航拍洪崖洞仿佛穿越动漫世界",
+      "onboard_time": 1714740680,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 162088,
@@ -1995,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131793,
+      "num": 131793,
+      "word": "张真源一次过六块板",
+      "onboard_time": 1714742359,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130491,
       "num": 130491,
       "word": "陶晶莹为周子瑜抱不平",
@@ -2331,6 +2395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100998,
+      "num": 131769,
+      "word": "广东男篮强度上来了",
+      "onboard_time": 1714740560,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100707,
       "num": 100707,
       "word": "T1对战Fly",
@@ -2611,20 +2683,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24197,
+      "num": 1079169,
+      "word": "打开青春的N种方式",
+      "onboard_time": 1714637239,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21177,
       "num": 23641,
       "word": "切尔西vs热刺",
       "onboard_time": 1714676351,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16171,
-      "num": 903584,
-      "word": "打开青春的N种方式",
-      "onboard_time": 1714637239,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4564,
