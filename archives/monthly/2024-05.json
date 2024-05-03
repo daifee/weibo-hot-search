@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714753402355,
+  "endTime": 1714754239453,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -635,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 937835,
+      "num": 937835,
+      "word": "演唱会是一个巨大的乌托邦",
+      "onboard_time": 1714750940,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 929980,
       "num": 738801,
       "word": "电脑C盘最恶心的四大毒瘤",
@@ -969,14 +977,6 @@
       "onboard_time": 1714612517,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 712338,
-      "num": 712338,
-      "word": "演唱会是一个巨大的乌托邦",
-      "onboard_time": 1714750940,
-      "rank": 1,
-      "category": "演出"
     },
     {
       "raw_hot": 711704,
@@ -2179,6 +2179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391911,
+      "num": 236173,
+      "word": "为什么鸡爪越来越贵了",
+      "onboard_time": 1714750999,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 389270,
       "num": 389270,
       "word": "下次再也不在节假日出来了",
@@ -2377,14 +2385,6 @@
       "onboard_time": 1714539079,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 356326,
-      "num": 236173,
-      "word": "为什么鸡爪越来越贵了",
-      "onboard_time": 1714750999,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 353185,
@@ -3019,12 +3019,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265565,
+      "num": 265565,
+      "word": "王力宏音乐节",
+      "onboard_time": 1714750820,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 265265,
       "num": 265265,
       "word": "晕人",
       "onboard_time": 1714548197,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 265218,
+      "num": 265218,
+      "word": "陈楚生徐佳莹唱身骑白马",
+      "onboard_time": 1714752859,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 264931,
@@ -3089,6 +3105,14 @@
       "onboard_time": 1714541358,
       "rank": 24,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 259136,
+      "num": 243589,
+      "word": "李昊 可爱小狗",
+      "onboard_time": 1714751480,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 258386,
@@ -3193,14 +3217,6 @@
       "onboard_time": 1714610896,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247955,
-      "num": 247955,
-      "word": "王力宏音乐节",
-      "onboard_time": 1714750820,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 247083,
@@ -3403,6 +3419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234547,
+      "num": 236160,
+      "word": "谁能想到白鹿竟然是卧底",
+      "onboard_time": 1714751659,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234020,
       "num": 234020,
       "word": "T1战胜EST",
@@ -3577,6 +3601,14 @@
       "onboard_time": 1714529477,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 223443,
+      "num": 236086,
+      "word": "万妮达一公排名倒数",
+      "onboard_time": 1714753038,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 220271,
@@ -4395,14 +4427,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 192800,
-      "num": 236217,
-      "word": "陈楚生徐佳莹唱身骑白马",
-      "onboard_time": 1714752859,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192539,
       "num": 192539,
       "word": "纪念五三惨案96周年",
@@ -4731,14 +4755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 182704,
-      "num": 236199,
-      "word": "李昊 可爱小狗",
-      "onboard_time": 1714751480,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182120,
       "num": 182120,
       "word": "坐高铁碰到硬要和我换座的情侣",
@@ -4849,14 +4865,6 @@
       "onboard_time": 1714625718,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 178176,
-      "num": 236160,
-      "word": "谁能想到白鹿竟然是卧底",
-      "onboard_time": 1714751659,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 178123,
@@ -6947,14 +6955,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126285,
-      "num": 236086,
-      "word": "万妮达一公排名倒数",
-      "onboard_time": 1714753038,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 124948,
       "num": 115427,
       "word": "总是突然口干舌燥别以为是缺水",
@@ -7073,6 +7073,14 @@
       "onboard_time": 1714691414,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121579,
+      "num": 202299,
+      "word": "白鹿宋雨琦一起跳fate",
+      "onboard_time": 1714753698,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 121388,
