@@ -1,0 +1,410 @@
+{
+  "runTime": 1714714450250,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3323979,
+        "num": 3323979,
+        "word": "茶百道 白开水",
+        "onboard_time": 1714712779,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1402144,
+        "num": 1402144,
+        "word": "五三惨案",
+        "onboard_time": 1714703539,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77219,
+        "num": 912236,
+        "word": "嫦娥家族奔月路每秒都热血沸腾",
+        "onboard_time": 1714707021,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2726101,
+        "num": 880169,
+        "word": "前女友为胖猫发声",
+        "onboard_time": 1714708999,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 794765,
+        "num": 794765,
+        "word": "美国网红连吃6个月火鸡面后尿血",
+        "onboard_time": 1714710198,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696513,
+        "num": 696513,
+        "word": "郭碧婷被刘忻选中后哭了",
+        "onboard_time": 1714712658,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1079692,
+        "num": 695843,
+        "word": "华莱士回应空包",
+        "onboard_time": 1714711039,
+        "rank": 6,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 634595,
+        "num": 634595,
+        "word": "活鸭要40多为何烤鸭才18元一只",
+        "onboard_time": 1714702399,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 418224,
+        "num": 626435,
+        "word": "导演没想到杨幂会这么痛快接下角色",
+        "onboard_time": 1714709178,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106942,
+        "num": 604083,
+        "word": "北京女大学生被青岛外卖小哥暖到了",
+        "onboard_time": 1714707440,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 2438361,
+        "num": 581531,
+        "word": "谭竹回应",
+        "onboard_time": 1714691414,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 894436,
+        "num": 557551,
+        "word": "高速塌方",
+        "onboard_time": 1714711399,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555769,
+        "num": 555769,
+        "word": "朴彩英赵露思撞衫",
+        "onboard_time": 1714706719,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1439393,
+        "num": 546048,
+        "word": "华莱士 空包",
+        "onboard_time": 1714705640,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 508086,
+        "num": 508086,
+        "word": "张雪峰建议普通家庭不要学医",
+        "onboard_time": 1714713559,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 302670,
+        "num": 302670,
+        "word": "河南文物局已去河大礼堂现场",
+        "onboard_time": 1714706357,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1054136,
+        "num": 300102,
+        "word": "胖猫谭竹",
+        "onboard_time": 1714663219,
+        "rank": 16,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 297246,
+        "num": 297246,
+        "word": "林依轮凌晨2点化妆错峰游西湖",
+        "onboard_time": 1714712239,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294656,
+        "num": 294656,
+        "word": "朴彩英 看得出她是公主",
+        "onboard_time": 1714704679,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 744785,
+        "num": 294007,
+        "word": "胖猫",
+        "onboard_time": 1714653859,
+        "rank": 19,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 592019,
+        "num": 285986,
+        "word": "怀了两个孩子才知女方已婚",
+        "onboard_time": 1714705459,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 546859,
+        "num": 280613,
+        "word": "李溪芮淘汰尚雯婕哭崩了",
+        "onboard_time": 1714713139,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 692372,
+        "num": 277762,
+        "word": "殷世航为胖猫发声",
+        "onboard_time": 1714699878,
+        "rank": 22,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 274858,
+        "num": 274858,
+        "word": "女子腿绑24个鸭蛋入境被查",
+        "onboard_time": 1714710738,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252067,
+        "num": 252067,
+        "word": "蔡文静排名",
+        "onboard_time": 1714713260,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 612574,
+        "num": 251235,
+        "word": "胖猫聊天记录",
+        "onboard_time": 1714695196,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 228189,
+        "num": 228189,
+        "word": "乘风2024一公排名",
+        "onboard_time": 1714713918,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209722,
+        "num": 209722,
+        "word": "韩国一糖葫芦商家称日销量从500降到80串",
+        "onboard_time": 1714710318,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440072,
+        "num": 209599,
+        "word": "胖猫姐姐发声",
+        "onboard_time": 1714693454,
+        "rank": 28,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 52396,
+        "num": 208847,
+        "word": "海警位金门附近海域常态执法巡查",
+        "onboard_time": 1714708938,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208790,
+        "num": 208790,
+        "word": "原来夫妻分床睡还有这好处",
+        "onboard_time": 1714703298,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 208129,
+        "num": 208129,
+        "word": "梅州",
+        "onboard_time": 1714706958,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205291,
+        "num": 205291,
+        "word": "王一博婚礼戏",
+        "onboard_time": 1714708820,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202922,
+        "num": 202922,
+        "word": "开封王婆疑再遇剧本",
+        "onboard_time": 1714713497,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 185111,
+        "num": 185111,
+        "word": "内娱终于有艺人懂慢综了",
+        "onboard_time": 1714699577,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174770,
+        "num": 174770,
+        "word": "国产剧终于把人的欲望还给主角了",
+        "onboard_time": 1714705579,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172989,
+        "num": 172989,
+        "word": "朋友频繁的约饭让人感觉很有压力",
+        "onboard_time": 1714709297,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169234,
+        "num": 169234,
+        "word": "ILLIT翻跳TWICE",
+        "onboard_time": 1714711760,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166718,
+        "num": 166718,
+        "word": "刘梓晨 翻红",
+        "onboard_time": 1714696636,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165410,
+        "num": 165410,
+        "word": "河大礼堂着火后房顶基本坍塌",
+        "onboard_time": 1714703178,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162445,
+        "num": 162445,
+        "word": "妈妈告诉我她绝经了我好难过",
+        "onboard_time": 1714701558,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152083,
+        "num": 152083,
+        "word": "河南大学",
+        "onboard_time": 1714675092,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 149435,
+        "num": 149435,
+        "word": "张凌赫称做任务最相信迪丽热巴",
+        "onboard_time": 1714714278,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148837,
+        "num": 148837,
+        "word": "丫丫腰又粗了",
+        "onboard_time": 1714706119,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145669,
+        "num": 145669,
+        "word": "蒲熠星告别全员加速中",
+        "onboard_time": 1714709778,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136337,
+        "num": 136337,
+        "word": "宫崎骏治好了我的年龄焦虑",
+        "onboard_time": 1714713978,
+        "rank": 45,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 135418,
+        "num": 135418,
+        "word": "长相思2排播",
+        "onboard_time": 1714693875,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147867,
+        "num": 134802,
+        "word": "迪丽热巴五一营业照",
+        "onboard_time": 1714709297,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134062,
+        "num": 134062,
+        "word": "河南大学通报大礼堂起火",
+        "onboard_time": 1714699157,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127811,
+        "num": 127811,
+        "word": "华晨宇内娱首个凌晨三点开演唱会",
+        "onboard_time": 1714666387,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席曾将001号证书颁给这位法国人#"
+    }
+  }
+}

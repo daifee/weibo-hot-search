@@ -1,7 +1,15 @@
 {
   "startTime": 1714666942242,
-  "endTime": 1714713471426,
+  "endTime": 1714714450250,
   "band_list": [
+    {
+      "raw_hot": 3323979,
+      "num": 3323979,
+      "word": "茶百道 白开水",
+      "onboard_time": 1714712779,
+      "rank": 11,
+      "category": "游戏,网红"
+    },
     {
       "raw_hot": 3222104,
       "num": 3222104,
@@ -83,14 +91,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1266309,
-      "num": 373189,
-      "word": "茶百道 白开水",
-      "onboard_time": 1714712779,
-      "rank": 11,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 1246990,
       "num": 555061,
       "word": "华晨宇内娱首个凌晨三点开演唱会",
@@ -123,20 +123,20 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 998160,
-      "num": 368065,
-      "word": "高速塌方",
-      "onboard_time": 1714711399,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 978057,
+      "raw_hot": 1054136,
       "num": 977794,
       "word": "胖猫谭竹",
       "onboard_time": 1714663219,
       "rank": 1,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 998160,
+      "num": 557551,
+      "word": "高速塌方",
+      "onboard_time": 1714711399,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 972744,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 927346,
-      "num": 413901,
+      "num": 555769,
       "word": "朴彩英赵露思撞衫",
       "onboard_time": 1714706719,
       "rank": 13,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 696513,
+      "num": 696513,
+      "word": "郭碧婷被刘忻选中后哭了",
+      "onboard_time": 1714712658,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 670810,
       "num": 610925,
       "word": "胖猫聊天记录",
@@ -235,8 +243,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546859,
+      "num": 309838,
+      "word": "李溪芮淘汰尚雯婕哭崩了",
+      "onboard_time": 1714713139,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 525204,
-      "num": 525204,
+      "num": 626435,
       "word": "导演没想到杨幂会这么痛快接下角色",
       "onboard_time": 1714709178,
       "rank": 15,
@@ -259,6 +275,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 508086,
+      "num": 508086,
+      "word": "张雪峰建议普通家庭不要学医",
+      "onboard_time": 1714713559,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 501422,
       "num": 501422,
       "word": "河南大学明伦校区一建筑房顶着火",
@@ -273,14 +297,6 @@
       "onboard_time": 1714693875,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 486984,
-      "num": 357017,
-      "word": "郭碧婷被刘忻选中后哭了",
-      "onboard_time": 1714712658,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 484843,
@@ -467,14 +483,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 309838,
-      "num": 309838,
-      "word": "李溪芮淘汰尚雯婕哭崩了",
-      "onboard_time": 1714713139,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 298338,
       "num": 298338,
       "word": "IVE能不能把中国结摘下来",
@@ -523,19 +531,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274858,
+      "num": 274858,
+      "word": "女子腿绑24个鸭蛋入境被查",
+      "onboard_time": 1714710738,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267113,
       "num": 177797,
       "word": "新加坡驻日参赞在澡堂偷拍未成年男孩",
       "onboard_time": 1714677791,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264823,
-      "num": 264823,
-      "word": "女子腿绑24个鸭蛋入境被查",
-      "onboard_time": 1714710738,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -545,6 +553,14 @@
       "onboard_time": 1714657519,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 252067,
+      "num": 252067,
+      "word": "蔡文静排名",
+      "onboard_time": 1714713260,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 248099,
@@ -601,6 +617,14 @@
       "onboard_time": 1714702156,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228189,
+      "num": 228189,
+      "word": "乘风2024一公排名",
+      "onboard_time": 1714713918,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 227179,
@@ -665,6 +689,14 @@
       "onboard_time": 1714703359,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202922,
+      "num": 202922,
+      "word": "开封王婆疑再遇剧本",
+      "onboard_time": 1714713497,
+      "rank": 33,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 202797,
@@ -827,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169198,
-      "num": 169198,
-      "word": "蔡文静排名",
-      "onboard_time": 1714713260,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168762,
       "num": 168762,
       "word": "星穹铁道知更鸟",
@@ -979,6 +1003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149435,
+      "num": 149435,
+      "word": "张凌赫称做任务最相信迪丽热巴",
+      "onboard_time": 1714714278,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149108,
       "num": 149108,
       "word": "一个位置坐久了真的会有感情",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1714709898,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136337,
+      "num": 136337,
+      "word": "宫崎骏治好了我的年龄焦虑",
+      "onboard_time": 1714713978,
+      "rank": 45,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 134762,
@@ -1108,7 +1148,7 @@
     },
     {
       "raw_hot": 129766,
-      "num": 428586,
+      "num": 604083,
       "word": "北京女大学生被青岛外卖小哥暖到了",
       "onboard_time": 1714707440,
       "rank": 9,
