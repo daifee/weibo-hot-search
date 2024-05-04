@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714789521071,
+  "endTime": 1714790167778,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -1091,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1073817,
+      "num": 474854,
+      "word": "为什么人老了身上会有怪味",
+      "onboard_time": 1714786156,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1072869,
       "num": 1072869,
       "word": "付鹏 享受生活",
@@ -1113,14 +1121,6 @@
       "onboard_time": 1714381819,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1069782,
-      "num": 474854,
-      "word": "为什么人老了身上会有怪味",
-      "onboard_time": 1714786156,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1069308,
@@ -3099,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 556534,
+      "num": 394134,
+      "word": "胧月不认亲妈妆",
+      "onboard_time": 1714787958,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 555525,
       "num": 475957,
       "word": "郭晋安欧倩怡 共用微博",
@@ -3483,6 +3491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 511324,
+      "num": 284558,
+      "word": "叶祖新好像玄彬",
+      "onboard_time": 1714788498,
+      "rank": 15,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 510881,
       "num": 510881,
       "word": "眼泪女王收视率",
@@ -3632,14 +3648,6 @@
       "word": "海仁活到了84岁",
       "onboard_time": 1714318578,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 492263,
-      "num": 394134,
-      "word": "胧月不认亲妈妆",
-      "onboard_time": 1714787958,
-      "rank": 7,
       "category": "剧集"
     },
     {
@@ -4691,6 +4699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403110,
+      "num": 388639,
+      "word": "IVE打歌舞台 联通标志",
+      "onboard_time": 1714787416,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403050,
       "num": 360482,
       "word": "工资突然爆炸式提升是什么体验",
@@ -4803,14 +4819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 388639,
-      "num": 388639,
-      "word": "IVE打歌舞台 联通标志",
-      "onboard_time": 1714787416,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 388118,
       "num": 239813,
       "word": "是研究生就会懂这五分钟的含金量",
@@ -4921,6 +4929,14 @@
       "onboard_time": 1714783398,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 381566,
+      "num": 230985,
+      "word": "杨紫琼被授予美国总统自由勋章",
+      "onboard_time": 1714789098,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 381407,
@@ -5331,6 +5347,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 347193,
+      "num": 228810,
+      "word": "波音第2位吹哨人去世肺部发现大量细菌",
+      "onboard_time": 1714788798,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346945,
       "num": 346945,
       "word": "万妮达一公排名倒数",
@@ -5401,14 +5425,6 @@
       "onboard_time": 1714569618,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 341517,
-      "num": 284558,
-      "word": "叶祖新好像玄彬",
-      "onboard_time": 1714788498,
-      "rank": 15,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 339870,
@@ -7899,14 +7915,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 226694,
-      "num": 124055,
-      "word": "波音第2位吹哨人去世肺部发现大量细菌",
-      "onboard_time": 1714788798,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226424,
       "num": 226424,
       "word": "太湖湾音乐节",
@@ -8995,6 +9003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203183,
+      "num": 203183,
+      "word": "拜登杨紫琼同框",
+      "onboard_time": 1714788558,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203108,
       "num": 203108,
       "word": "相信音乐",
@@ -9025,6 +9041,14 @@
       "onboard_time": 1714707499,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 202164,
+      "num": 130093,
+      "word": "张杰看到情侣求婚的反应",
+      "onboard_time": 1714790058,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 202036,
@@ -9680,14 +9704,6 @@
       "word": "林更新改名了",
       "onboard_time": 1714381159,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 194545,
-      "num": 194545,
-      "word": "拜登杨紫琼同框",
-      "onboard_time": 1714788558,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -10761,14 +10777,6 @@
       "onboard_time": 1714307896,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 180627,
-      "num": 145296,
-      "word": "杨紫琼被授予美国总统自由勋章",
-      "onboard_time": 1714789098,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 180620,
@@ -13483,6 +13491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143579,
+      "num": 143579,
+      "word": "奇煜 祁煜",
+      "onboard_time": 1714789697,
+      "rank": 27,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 143406,
       "num": 143406,
       "word": "周杰伦兰亭序的杀伤力",
@@ -15091,6 +15107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121787,
+      "num": 121787,
+      "word": "快船vs独行侠",
+      "onboard_time": 1714787477,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121668,
       "num": 121668,
       "word": "隐藏式门把手是否阻碍救援",
@@ -15443,6 +15467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116034,
+      "num": 116034,
+      "word": "没有辣椒的世界好像没了灵魂",
+      "onboard_time": 1714789998,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 115910,
       "num": 115910,
       "word": "张婧仪哭到青筋暴起",
@@ -15651,14 +15683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 113177,
-      "num": 113177,
-      "word": "快船vs独行侠",
-      "onboard_time": 1714787477,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113067,
       "num": 113067,
       "word": "石宇奇铁血逆转",
@@ -15787,6 +15811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111147,
+      "num": 111147,
+      "word": "徐杰发挥",
+      "onboard_time": 1714789278,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111106,
       "num": 111106,
       "word": "AllKpop爆料hybe",
@@ -15849,6 +15881,14 @@
       "onboard_time": 1714722980,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110101,
+      "num": 110101,
+      "word": "湿气排出的八个表现",
+      "onboard_time": 1714789998,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 109889,
@@ -16275,6 +16315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 101298,
+      "num": 101298,
+      "word": "勇闯你的新世界",
+      "onboard_time": 1714789759,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100998,
       "num": 131769,
       "word": "广东男篮强度上来了",
@@ -16355,6 +16403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99513,
+      "num": 99513,
+      "word": "让脂肪下降的8个小动作",
+      "onboard_time": 1714789998,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 99404,
       "num": 99404,
       "word": "GUCCI晒肖战花絮",
@@ -16419,6 +16475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98083,
+      "num": 98083,
+      "word": "姐弟第1次坐警车兴奋与民警合照",
+      "onboard_time": 1714784958,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98024,
       "num": 98024,
       "word": "嫦娥六号要出差50多天",
@@ -16465,14 +16529,6 @@
       "onboard_time": 1714479617,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 96605,
-      "num": 96605,
-      "word": "徐杰发挥",
-      "onboard_time": 1714789278,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 96494,
@@ -16555,14 +16611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94346,
-      "num": 94346,
-      "word": "姐弟第1次坐警车兴奋与民警合照",
-      "onboard_time": 1714784958,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94277,
       "num": 94277,
       "word": "自闭症孩子的99岁老师说要尊重孩子",
@@ -16585,6 +16633,14 @@
       "onboard_time": 1714767430,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 93218,
+      "num": 93218,
+      "word": "周深说永远不要小瞧自己",
+      "onboard_time": 1714786697,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92679,
@@ -16697,14 +16753,6 @@
       "onboard_time": 1714582217,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88602,
-      "num": 88602,
-      "word": "周深说永远不要小瞧自己",
-      "onboard_time": 1714786697,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87801,

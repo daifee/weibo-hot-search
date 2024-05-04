@@ -1,0 +1,410 @@
+{
+  "runTime": 1714790167778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 847931,
+        "num": 847931,
+        "word": "小孩打碎博物馆近12万瓷瓶被免赔",
+        "onboard_time": 1714778653,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659126,
+        "num": 659126,
+        "word": "奔跑吧强行煽情",
+        "onboard_time": 1714780996,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22949,
+        "num": 443152,
+        "word": "文化中国行我写家乡",
+        "onboard_time": 1714742900,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1073817,
+        "num": 395528,
+        "word": "为什么人老了身上会有怪味",
+        "onboard_time": 1714786156,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 722067,
+        "num": 364734,
+        "word": "欧豪真的是饿了",
+        "onboard_time": 1714786458,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327774,
+        "num": 327774,
+        "word": "韩国游客爱上张家界九寨沟",
+        "onboard_time": 1714783037,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 556534,
+        "num": 318547,
+        "word": "胧月不认亲妈妆",
+        "onboard_time": 1714787958,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554800,
+        "num": 314822,
+        "word": "华晨宇演唱会唱到日出",
+        "onboard_time": 1714778774,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 289140,
+        "num": 289140,
+        "word": "体脂率是身体最诚实的胖瘦指标",
+        "onboard_time": 1714777993,
+        "rank": 8,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 240011,
+        "num": 240011,
+        "word": "他真的娶到了高中就想娶的女孩",
+        "onboard_time": 1714745302,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1204824,
+        "num": 238607,
+        "word": "前职业选手谈胖猫代练2年赚50万",
+        "onboard_time": 1714781536,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 511324,
+        "num": 237461,
+        "word": "叶祖新好像玄彬",
+        "onboard_time": 1714788498,
+        "rank": 11,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 403110,
+        "num": 234355,
+        "word": "IVE打歌舞台 联通标志",
+        "onboard_time": 1714787416,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 597281,
+        "num": 233498,
+        "word": "多家品牌就胖猫事件道歉",
+        "onboard_time": 1714781056,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 381566,
+        "num": 230985,
+        "word": "杨紫琼被授予美国总统自由勋章",
+        "onboard_time": 1714789098,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347193,
+        "num": 228810,
+        "word": "波音第2位吹哨人去世肺部发现大量细菌",
+        "onboard_time": 1714788798,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314580,
+        "num": 226669,
+        "word": "一问都不熟一查全有仇",
+        "onboard_time": 1714783398,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246272,
+        "num": 226182,
+        "word": "演唱会是一个巨大的乌托邦",
+        "onboard_time": 1714750940,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224440,
+        "num": 224440,
+        "word": "熊猫犬",
+        "onboard_time": 1714783458,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219661,
+        "num": 219661,
+        "word": "延缓衰老这些食物要少吃",
+        "onboard_time": 1714783578,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219818,
+        "num": 218807,
+        "word": "张超改名",
+        "onboard_time": 1714780756,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214246,
+        "num": 214246,
+        "word": "在最野猪的年纪吃到最细的糠",
+        "onboard_time": 1714784297,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203183,
+        "num": 203183,
+        "word": "拜登杨紫琼同框",
+        "onboard_time": 1714788558,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184142,
+        "num": 184142,
+        "word": "殷世航 两米八",
+        "onboard_time": 1714754658,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 173455,
+        "num": 173455,
+        "word": "老外五一爬泰山直呼人太多了",
+        "onboard_time": 1714779915,
+        "rank": 24,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 160885,
+        "num": 160885,
+        "word": "工藤新一第30个17岁",
+        "onboard_time": 1714780275,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 149500,
+        "num": 149500,
+        "word": "西安城墙的喷泉你瞒了大家多久",
+        "onboard_time": 1714785558,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 143579,
+        "num": 143579,
+        "word": "奇煜 祁煜",
+        "onboard_time": 1714789697,
+        "rank": 27,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 140249,
+        "num": 140249,
+        "word": "你想好明天要做什么了吗",
+        "onboard_time": 1714787178,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133818,
+        "num": 133818,
+        "word": "白鹿藏了一天没被发现",
+        "onboard_time": 1714783218,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202164,
+        "num": 130093,
+        "word": "张杰看到情侣求婚的反应",
+        "onboard_time": 1714790058,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121787,
+        "num": 121787,
+        "word": "快船vs独行侠",
+        "onboard_time": 1714787477,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118586,
+        "num": 118586,
+        "word": "取消公摊会导致房价上涨吗",
+        "onboard_time": 1714743801,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118408,
+        "num": 118408,
+        "word": "董卿周涛同框合照",
+        "onboard_time": 1714780456,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116886,
+        "num": 116886,
+        "word": "青年怎样中国便怎样",
+        "onboard_time": 1714787118,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116034,
+        "num": 116034,
+        "word": "没有辣椒的世界好像没了灵魂",
+        "onboard_time": 1714789998,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111147,
+        "num": 111147,
+        "word": "徐杰发挥",
+        "onboard_time": 1714789278,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110101,
+        "num": 110101,
+        "word": "湿气排出的八个表现",
+        "onboard_time": 1714789998,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108478,
+        "num": 108478,
+        "word": "正式被确诊为淡淡综合症",
+        "onboard_time": 1714744701,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108402,
+        "num": 108402,
+        "word": "导演踩着李现底线拍春色寄情人",
+        "onboard_time": 1714778954,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106517,
+        "num": 106517,
+        "word": "杨幂情绪张力",
+        "onboard_time": 1714783937,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104536,
+        "num": 104536,
+        "word": "张新成半个指甲没了",
+        "onboard_time": 1714781536,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101324,
+        "num": 101324,
+        "word": "内娱薯片",
+        "onboard_time": 1714784658,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101298,
+        "num": 101298,
+        "word": "勇闯你的新世界",
+        "onboard_time": 1714789759,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99513,
+        "num": 99513,
+        "word": "让脂肪下降的8个小动作",
+        "onboard_time": 1714789998,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 98083,
+        "num": 98083,
+        "word": "姐弟第1次坐警车兴奋与民警合照",
+        "onboard_time": 1714784958,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93218,
+        "num": 93218,
+        "word": "周深说永远不要小瞧自己",
+        "onboard_time": 1714786697,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90822,
+        "num": 90822,
+        "word": "南雅是因为愧疚才嫁给徐毅",
+        "onboard_time": 1714788258,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89348,
+        "num": 89348,
+        "word": "湖人解雇教练组所有成员",
+        "onboard_time": 1714781236,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87889,
+        "num": 87889,
+        "word": "向太夸郭碧婷是股清流",
+        "onboard_time": 1714754957,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
