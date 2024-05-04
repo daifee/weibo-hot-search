@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714860965804,
+  "endTime": 1714862038631,
   "band_list": [
     {
       "raw_hot": 877700,
@@ -507,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28754,
+      "num": 28754,
+      "word": "有商家每天出货四五万只脸基尼",
+      "onboard_time": 1714861032,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 27657,
       "num": 38044,
       "word": "蔡依林泉州演唱会",
@@ -515,7 +523,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23986,
+      "raw_hot": 27345,
       "num": 28426,
       "word": "小时候妈妈教你走路现在再教一次",
       "onboard_time": 1714858151,
@@ -523,12 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22428,
+      "raw_hot": 26902,
       "num": 28418,
       "word": "古天乐好帅",
       "onboard_time": 1714859170,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 15923,
+      "num": 27955,
+      "word": "四川的猫咪自带松弛感",
+      "onboard_time": 1714859111,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 5516,
