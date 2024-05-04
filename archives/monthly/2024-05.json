@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714785274782,
+  "endTime": 1714789521071,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -339,8 +339,8 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1339668,
-      "num": 291573,
+      "raw_hot": 1341705,
+      "num": 389574,
       "word": "前职业选手谈胖猫代练2年赚50万",
       "onboard_time": 1714781536,
       "rank": 14,
@@ -561,6 +561,14 @@
       "onboard_time": 1714575499,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1069782,
+      "num": 474854,
+      "word": "为什么人老了身上会有怪味",
+      "onboard_time": 1714786156,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1069308,
@@ -883,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 815187,
+      "num": 446860,
+      "word": "欧豪真的是饿了",
+      "onboard_time": 1714786458,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 808170,
       "num": 808170,
       "word": "公共场所有多脏",
@@ -963,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 754422,
+      "num": 754422,
+      "word": "奔跑吧强行煽情",
+      "onboard_time": 1714780996,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 743474,
       "num": 743474,
       "word": "取消公摊会导致房价上涨吗",
@@ -977,14 +1001,6 @@
       "onboard_time": 1714568539,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 734548,
-      "num": 734548,
-      "word": "奔跑吧强行煽情",
-      "onboard_time": 1714780996,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 728200,
@@ -1273,6 +1289,14 @@
       "onboard_time": 1714701558,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 624079,
+      "num": 347443,
+      "word": "多家品牌就胖猫事件道歉",
+      "onboard_time": 1714781056,
+      "rank": 17,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 621744,
@@ -1595,14 +1619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 512834,
-      "num": 270651,
-      "word": "多家品牌就胖猫事件道歉",
-      "onboard_time": 1714781056,
-      "rank": 17,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 512297,
       "num": 512297,
       "word": "庆余年2",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1714734860,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 492263,
+      "num": 394134,
+      "word": "胧月不认亲妈妆",
+      "onboard_time": 1714787958,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 486742,
@@ -2259,6 +2283,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 396155,
+      "num": 396155,
+      "word": "韩国游客爱上张家界九寨沟",
+      "onboard_time": 1714783037,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 392169,
       "num": 392169,
       "word": "陈昊宇第22名",
@@ -2273,6 +2305,14 @@
       "onboard_time": 1714638558,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 388639,
+      "num": 388639,
+      "word": "IVE打歌舞台 联通标志",
+      "onboard_time": 1714787416,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 388118,
@@ -2305,6 +2345,14 @@
       "onboard_time": 1714743500,
       "rank": 12,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 381686,
+      "num": 381686,
+      "word": "一问都不熟一查全有仇",
+      "onboard_time": 1714783398,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 381407,
@@ -2483,14 +2531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 352488,
-      "num": 305159,
-      "word": "一问都不熟一查全有仇",
-      "onboard_time": 1714783398,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 352099,
       "num": 352099,
       "word": "徐艺洋好了解黄子韬",
@@ -2569,6 +2609,14 @@
       "onboard_time": 1714569618,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 341517,
+      "num": 284558,
+      "word": "叶祖新好像玄彬",
+      "onboard_time": 1714788498,
+      "rank": 15,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 339604,
@@ -2947,6 +2995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286142,
+      "num": 286142,
+      "word": "熊猫犬",
+      "onboard_time": 1714783458,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285775,
       "num": 285775,
       "word": "林俊杰巡演",
@@ -3048,14 +3104,6 @@
       "word": "女子腿绑24个鸭蛋入境被查",
       "onboard_time": 1714710738,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274428,
-      "num": 274428,
-      "word": "熊猫犬",
-      "onboard_time": 1714783458,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -3371,14 +3419,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 246608,
-      "num": 246608,
-      "word": "韩国游客爱上张家界九寨沟",
-      "onboard_time": 1714783037,
-      "rank": 18,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 246158,
       "num": 246158,
       "word": "日本小学招不到新生招了只山羊",
@@ -3497,6 +3537,14 @@
       "onboard_time": 1714576818,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 239248,
+      "num": 239248,
+      "word": "延缓衰老这些食物要少吃",
+      "onboard_time": 1714783578,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 239088,
@@ -3691,6 +3739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 226694,
+      "num": 124055,
+      "word": "波音第2位吹哨人去世肺部发现大量细菌",
+      "onboard_time": 1714788798,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226424,
       "num": 226424,
       "word": "太湖湾音乐节",
@@ -3793,6 +3849,14 @@
       "onboard_time": 1714655538,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 218482,
+      "num": 218482,
+      "word": "在最野猪的年纪吃到最细的糠",
+      "onboard_time": 1714784297,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 218348,
@@ -4001,14 +4065,6 @@
       "onboard_time": 1714564519,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 207998,
-      "num": 207998,
-      "word": "延缓衰老这些食物要少吃",
-      "onboard_time": 1714783578,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 207201,
@@ -4547,6 +4603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194545,
+      "num": 194545,
+      "word": "拜登杨紫琼同框",
+      "onboard_time": 1714788558,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194481,
       "num": 194481,
       "word": "时代少年团演唱会好多安保",
@@ -4945,6 +5009,14 @@
       "onboard_time": 1714749681,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180627,
+      "num": 145296,
+      "word": "杨紫琼被授予美国总统自由勋章",
+      "onboard_time": 1714789098,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 180438,
@@ -6043,6 +6115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151804,
+      "num": 151804,
+      "word": "西安城墙的喷泉你瞒了大家多久",
+      "onboard_time": 1714785558,
+      "rank": 24,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 151717,
       "num": 151717,
       "word": "当凌晨四点还不睡时你的猫",
@@ -6465,6 +6545,14 @@
       "onboard_time": 1714524258,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141554,
+      "num": 141554,
+      "word": "你想好明天要做什么了吗",
+      "onboard_time": 1714787178,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 141291,
@@ -7379,6 +7467,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 120726,
+      "num": 120726,
+      "word": "青年怎样中国便怎样",
+      "onboard_time": 1714787118,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120291,
       "num": 120291,
       "word": "周深被粉丝感动哭了",
@@ -7707,6 +7803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113177,
+      "num": 113177,
+      "word": "快船vs独行侠",
+      "onboard_time": 1714787477,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113067,
       "num": 113067,
       "word": "石宇奇铁血逆转",
@@ -7848,6 +7952,14 @@
       "word": "庆余年第二季过审下证",
       "onboard_time": 1714476377,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 109660,
+      "num": 109660,
+      "word": "杨幂情绪张力",
+      "onboard_time": 1714783937,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -8043,14 +8155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103720,
-      "num": 103720,
-      "word": "杨幂情绪张力",
-      "onboard_time": 1714783937,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 103511,
       "num": 103511,
       "word": "文俊辉直播",
@@ -8179,6 +8283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 99613,
+      "num": 99613,
+      "word": "南雅是因为愧疚才嫁给徐毅",
+      "onboard_time": 1714788258,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99404,
       "num": 99404,
       "word": "GUCCI晒肖战花絮",
@@ -8251,6 +8363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96605,
+      "num": 96605,
+      "word": "徐杰发挥",
+      "onboard_time": 1714789278,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96494,
       "num": 89842,
       "word": "为什么叶轻眉的人气那么高",
@@ -8305,6 +8425,14 @@
       "onboard_time": 1714522936,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 94346,
+      "num": 94346,
+      "word": "姐弟第1次坐警车兴奋与民警合照",
+      "onboard_time": 1714784958,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94277,
@@ -8379,6 +8507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88602,
+      "num": 88602,
+      "word": "周深说永远不要小瞧自己",
+      "onboard_time": 1714786697,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88523,
       "num": 91337,
       "word": "春色寄情人微博开分8.9",
@@ -8433,14 +8569,6 @@
       "onboard_time": 1714580477,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86232,
-      "num": 86232,
-      "word": "在最野猪的年纪吃到最细的糠",
-      "onboard_time": 1714784297,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 83233,
@@ -8515,14 +8643,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 78127,
-      "num": 78127,
-      "word": "姐弟第1次坐警车兴奋与民警合照",
-      "onboard_time": 1714784958,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77325,
       "num": 413186,
       "word": "五一假期簪花小姐姐齐聚起凤桥",
@@ -8553,6 +8673,14 @@
       "onboard_time": 1714470318,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 75918,
+      "num": 84390,
+      "word": "欧文曾考虑与詹姆斯重聚",
+      "onboard_time": 1714785977,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 75693,
