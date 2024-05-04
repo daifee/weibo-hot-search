@@ -1,0 +1,410 @@
+{
+  "runTime": 1714814318462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1178931,
+        "num": 1178931,
+        "word": "荔枝",
+        "onboard_time": 1714805301,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 877367,
+        "num": 877367,
+        "word": "人均150的高价火锅偷偷降级",
+        "onboard_time": 1714808838,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 61612,
+        "num": 637874,
+        "word": "几代人的青春共同成就了今日中国",
+        "onboard_time": 1714810759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631724,
+        "num": 631724,
+        "word": "金莎孙丞潇婚纱照造型",
+        "onboard_time": 1714807997,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555314,
+        "num": 555314,
+        "word": "韩国人连MBTI都要写在简历里了",
+        "onboard_time": 1714809017,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 366285,
+        "num": 514773,
+        "word": "香飘飘日本超市讽核污水",
+        "onboard_time": 1714800618,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502712,
+        "num": 502712,
+        "word": "iPhone16系列最新机模曝光",
+        "onboard_time": 1714812139,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 377609,
+        "num": 377609,
+        "word": "00四小花合体封面",
+        "onboard_time": 1714810639,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 373733,
+        "num": 373733,
+        "word": "楼外楼",
+        "onboard_time": 1714810279,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215190,
+        "num": 367918,
+        "word": "41度高温下交警女儿暴躁宠爹",
+        "onboard_time": 1714809619,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1118681,
+        "num": 364071,
+        "word": "阿斯利康承认疫苗致命副作用",
+        "onboard_time": 1714806617,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638644,
+        "num": 357672,
+        "word": "半数以上月经紊乱的女性未到医院就诊",
+        "onboard_time": 1714809438,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 394316,
+        "num": 349684,
+        "word": "Hybe将NewJeans油管标记成儿童标",
+        "onboard_time": 1714812319,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347832,
+        "num": 347832,
+        "word": "广东中山4条出逃鳄鱼已找回3条",
+        "onboard_time": 1714808299,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335129,
+        "num": 335129,
+        "word": "贾静雯49岁身材管理",
+        "onboard_time": 1714810759,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329904,
+        "num": 329904,
+        "word": "周扬青最后的动作是脑子一热",
+        "onboard_time": 1714807699,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248965,
+        "num": 248965,
+        "word": "王冰冰送柬埔寨小公主赵露思签名照",
+        "onboard_time": 1714808719,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243766,
+        "num": 243766,
+        "word": "华晨宇 我们真的做到了",
+        "onboard_time": 1714794857,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241739,
+        "num": 241739,
+        "word": "金秀贤安宥真百想人气奖",
+        "onboard_time": 1714814298,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202236,
+        "num": 232265,
+        "word": "香飘飘",
+        "onboard_time": 1714813939,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571723,
+        "num": 231717,
+        "word": "向佐回应刘忻郭碧婷牵手",
+        "onboard_time": 1714810219,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 539709,
+        "num": 231659,
+        "word": "蔡徐坤更博",
+        "onboard_time": 1714806019,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230554,
+        "num": 230554,
+        "word": "戚薇小考又是0分",
+        "onboard_time": 1714802898,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460235,
+        "num": 227765,
+        "word": "邓超被孙俪赶出家门",
+        "onboard_time": 1714803858,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290287,
+        "num": 225532,
+        "word": "亲戚劝我不要读博士要赶紧结婚",
+        "onboard_time": 1714811779,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255910,
+        "num": 222317,
+        "word": "同事之间不要开这种玩笑",
+        "onboard_time": 1714812558,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254240,
+        "num": 218853,
+        "word": "又臭又腥的石楠花为什么满大街都种",
+        "onboard_time": 1714807037,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218729,
+        "num": 218729,
+        "word": "为什么我们无法停止视奸",
+        "onboard_time": 1714808359,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210874,
+        "num": 210874,
+        "word": "iPhone16或改善无线充电功能",
+        "onboard_time": 1714813999,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175551,
+        "num": 207749,
+        "word": "韩最毒美女连环杀人犯真容曝光",
+        "onboard_time": 1714803798,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205498,
+        "num": 205498,
+        "word": "欧洲女性衣服里插棍的秘密",
+        "onboard_time": 1714808299,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 196278,
+        "num": 196278,
+        "word": "2024华晨宇火星演唱会",
+        "onboard_time": 1714813459,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190404,
+        "num": 195955,
+        "word": "张若昀西安人气",
+        "onboard_time": 1714812859,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195642,
+        "num": 195642,
+        "word": "偶遇Angelababy小海绵遛狗",
+        "onboard_time": 1714804880,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186026,
+        "num": 186026,
+        "word": "刘老师 没有一部烂片逼疯不了的人",
+        "onboard_time": 1714800978,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161649,
+        "num": 161649,
+        "word": "第五人格发布会",
+        "onboard_time": 1714814298,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158164,
+        "num": 158164,
+        "word": "常华森恋综",
+        "onboard_time": 1714808359,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145608,
+        "num": 145608,
+        "word": "戚薇吊带黑背心",
+        "onboard_time": 1714811718,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142546,
+        "num": 142546,
+        "word": "在沙滩挖到了一只萨摩耶",
+        "onboard_time": 1714811898,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139679,
+        "num": 139679,
+        "word": "林俊杰深圳",
+        "onboard_time": 1714806079,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126134,
+        "num": 126134,
+        "word": "IVE新歌和咆哮是一个调",
+        "onboard_time": 1714796959,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124751,
+        "num": 124751,
+        "word": "不上班的时候外面的世界",
+        "onboard_time": 1714810040,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123867,
+        "num": 123867,
+        "word": "赵奕欢终于被肯定了",
+        "onboard_time": 1714806738,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122385,
+        "num": 122385,
+        "word": "龙门石窟游客惊叹到下巴脱臼",
+        "onboard_time": 1714802358,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 121322,
+        "num": 121322,
+        "word": "唐文丽",
+        "onboard_time": 1714793898,
+        "rank": 44,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 120374,
+        "num": 120374,
+        "word": "杨幂幺鸡 火锅的关键切口",
+        "onboard_time": 1714814178,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113906,
+        "num": 113906,
+        "word": "新型婆媳关系",
+        "onboard_time": 1714805951,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113536,
+        "num": 113536,
+        "word": "张超改名就相当于",
+        "onboard_time": 1714803138,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105464,
+        "num": 105464,
+        "word": "工藤新一 智性恋天花板",
+        "onboard_time": 1714804458,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 101825,
+        "num": 104502,
+        "word": "苏翊鸣英文讲述上大学的生活",
+        "onboard_time": 1714810098,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄语新时代青年#"
+    }
+  }
+}

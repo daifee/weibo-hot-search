@@ -1,6 +1,6 @@
 {
   "startTime": 1714753402355,
-  "endTime": 1714811655994,
+  "endTime": 1714814318462,
   "band_list": [
     {
       "raw_hot": 4324589,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1118681,
+      "num": 1006545,
+      "word": "阿斯利康承认疫苗致命副作用",
+      "onboard_time": 1714806617,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1073817,
       "num": 535864,
       "word": "为什么人老了身上会有怪味",
@@ -88,14 +96,6 @@
       "word": "小孩打碎博物馆近12万瓷瓶被免赔",
       "onboard_time": 1714778653,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1006545,
-      "num": 1006545,
-      "word": "阿斯利康承认疫苗致命副作用",
-      "onboard_time": 1714806617,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -137,6 +137,14 @@
       "onboard_time": 1714734860,
       "rank": 19,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 877367,
+      "num": 877367,
+      "word": "人均150的高价火锅偷偷降级",
+      "onboard_time": 1714808838,
+      "rank": 10,
+      "category": "美食"
     },
     {
       "raw_hot": 858609,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 638644,
+      "num": 408103,
+      "word": "半数以上月经紊乱的女性未到医院就诊",
+      "onboard_time": 1714809438,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 624079,
       "num": 402250,
       "word": "多家品牌就胖猫事件道歉",
@@ -299,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 555314,
+      "num": 555314,
+      "word": "韩国人连MBTI都要写在简历里了",
+      "onboard_time": 1714809017,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 554852,
       "num": 342680,
       "word": "网传梅大高速茶阳路段塌方现场为异地旧图",
@@ -321,14 +345,6 @@
       "onboard_time": 1714800978,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 529559,
-      "num": 529559,
-      "word": "人均150的高价火锅偷偷降级",
-      "onboard_time": 1714808838,
-      "rank": 10,
-      "category": "美食"
     },
     {
       "raw_hot": 520613,
@@ -355,12 +371,12 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 499304,
-      "num": 408103,
-      "word": "半数以上月经紊乱的女性未到医院就诊",
-      "onboard_time": 1714809438,
-      "rank": 15,
-      "category": "健康医疗"
+      "raw_hot": 502712,
+      "num": 502712,
+      "word": "iPhone16系列最新机模曝光",
+      "onboard_time": 1714812139,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 495100,
@@ -401,14 +417,6 @@
       "onboard_time": 1714745302,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 457657,
-      "num": 457657,
-      "word": "韩国人连MBTI都要写在简历里了",
-      "onboard_time": 1714809017,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 454976,
@@ -499,6 +507,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 394316,
+      "num": 349684,
+      "word": "Hybe将NewJeans油管标记成儿童标",
+      "onboard_time": 1714812319,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388993,
       "num": 388993,
       "word": "龙门石窟游客惊叹到下巴脱臼",
@@ -547,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 377609,
+      "num": 377609,
+      "word": "00四小花合体封面",
+      "onboard_time": 1714810639,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 376336,
       "num": 334549,
       "word": "张超改名就相当于",
@@ -571,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 347832,
+      "num": 347832,
+      "word": "广东中山4条出逃鳄鱼已找回3条",
+      "onboard_time": 1714808299,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346945,
       "num": 346945,
       "word": "万妮达一公排名倒数",
@@ -592,6 +624,14 @@
       "word": "林更新孟子义不想近距离吃饼干",
       "onboard_time": 1714790357,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 335129,
+      "num": 335129,
+      "word": "贾静雯49岁身材管理",
+      "onboard_time": 1714810759,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -667,14 +707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 299633,
-      "num": 299633,
-      "word": "广东中山4条出逃鳄鱼已找回3条",
-      "onboard_time": 1714808299,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298669,
       "num": 298669,
       "word": "让脂肪下降的8个小动作",
@@ -689,6 +721,14 @@
       "onboard_time": 1714802598,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290287,
+      "num": 225532,
+      "word": "亲戚劝我不要读博士要赶紧结婚",
+      "onboard_time": 1714811779,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 286142,
@@ -795,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255910,
+      "num": 222317,
+      "word": "同事之间不要开这种玩笑",
+      "onboard_time": 1714812558,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249387,
       "num": 249387,
       "word": "新型婆媳关系",
@@ -809,6 +857,14 @@
       "onboard_time": 1714790717,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 241739,
+      "num": 241739,
+      "word": "金秀贤安宥真百想人气奖",
+      "onboard_time": 1714814298,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 241260,
@@ -915,6 +971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215190,
+      "num": 408271,
+      "word": "41度高温下交警女儿暴躁宠爹",
+      "onboard_time": 1714809619,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214816,
       "num": 236041,
       "word": "前女友为胖猫发声",
@@ -931,12 +995,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 212493,
-      "num": 212493,
-      "word": "00四小花合体封面",
-      "onboard_time": 1714810639,
-      "rank": 42,
-      "category": "作品衍生,时尚"
+      "raw_hot": 210874,
+      "num": 210874,
+      "word": "iPhone16或改善无线充电功能",
+      "onboard_time": 1714813999,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 207348,
@@ -963,8 +1027,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205158,
-      "num": 205158,
+      "raw_hot": 205498,
+      "num": 205498,
       "word": "欧洲女性衣服里插棍的秘密",
       "onboard_time": 1714808299,
       "rank": 30,
@@ -1001,6 +1065,14 @@
       "onboard_time": 1714805837,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202236,
+      "num": 232265,
+      "word": "香飘飘",
+      "onboard_time": 1714813939,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200946,
@@ -1067,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196278,
+      "num": 196278,
+      "word": "2024华晨宇火星演唱会",
+      "onboard_time": 1714813459,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196190,
       "num": 196190,
       "word": "小鬼金属虎牙",
@@ -1099,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190404,
+      "num": 195955,
+      "word": "张若昀西安人气",
+      "onboard_time": 1714812859,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190325,
       "num": 141293,
       "word": "和华晨宇一起去看日出",
@@ -1121,14 +1209,6 @@
       "onboard_time": 1714798938,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186083,
-      "num": 186083,
-      "word": "贾静雯49岁身材管理",
-      "onboard_time": 1714810759,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 185916,
@@ -1211,14 +1291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170121,
-      "num": 408271,
-      "word": "41度高温下交警女儿暴躁宠爹",
-      "onboard_time": 1714809619,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169090,
       "num": 99389,
       "word": "饭后散步和不散步的人有什么区别",
@@ -1297,6 +1369,14 @@
       "onboard_time": 1714800196,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161649,
+      "num": 161649,
+      "word": "第五人格发布会",
+      "onboard_time": 1714814298,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 160959,
@@ -1411,12 +1491,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 145608,
+      "num": 145608,
+      "word": "戚薇吊带黑背心",
+      "onboard_time": 1714811718,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143834,
       "num": 143834,
       "word": "专家称国潮流行表明年轻人文化自信",
       "onboard_time": 1714793299,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142546,
+      "num": 142546,
+      "word": "在沙滩挖到了一只萨摩耶",
+      "onboard_time": 1714811898,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 141554,
@@ -1635,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120374,
+      "num": 120374,
+      "word": "杨幂幺鸡 火锅的关键切口",
+      "onboard_time": 1714814178,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119836,
       "num": 119836,
       "word": "刘诗雯晒五一假期plog",
@@ -1772,7 +1876,7 @@
     },
     {
       "raw_hot": 104341,
-      "num": 104341,
+      "num": 104502,
       "word": "苏翊鸣英文讲述上大学的生活",
       "onboard_time": 1714810098,
       "rank": 46,
@@ -2019,6 +2123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61612,
+      "num": 725284,
+      "word": "几代人的青春共同成就了今日中国",
+      "onboard_time": 1714810759,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53572,
       "num": 142355,
       "word": "信一好帅",
@@ -2065,14 +2177,6 @@
       "onboard_time": 1714758973,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 30847,
-      "num": 725284,
-      "word": "几代人的青春共同成就了今日中国",
-      "onboard_time": 1714810759,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30479,
@@ -2162,6 +2266,9 @@
     },
     {
       "word": "#五四青年节#"
+    },
+    {
+      "word": "#总书记寄语新时代青年#"
     }
   ]
 }
