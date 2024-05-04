@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/05 00:21:24 ~ 2024/05/05 03:34:14
+本榜单时间：2024/05/05 00:21:24 ~ 2024/05/05 04:19:22
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@ TF家族四代去了时代少年团演唱会（热度：234875）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C139%E4%B8%AA%E6%9A%B4%E9%9B%A8%E9%A2%84%E8%AD%A6%E7%94%9F%E6%95%88%E4%B8%AD%23" target="weibo">
+广东139个暴雨预警生效中（热度：69417）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E7%8E%B0%E8%BA%AB%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A%E7%8E%B0%E5%9C%BA%23" target="weibo">
 库克现身巴菲特股东大会现场（热度：66307）
 </a>
@@ -371,12 +377,6 @@ TF家族四代去了时代少年团演唱会（热度：234875）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B8%9D%E5%8A%AA%E8%84%B1%E4%BA%86%23" target="weibo">
 李帝努脱了（热度：56451）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C139%E4%B8%AA%E6%9A%B4%E9%9B%A8%E9%A2%84%E8%AD%A6%E7%94%9F%E6%95%88%E4%B8%AD%23" target="weibo">
-广东139个暴雨预警生效中（热度：56322）
 </a>
 </li>
 

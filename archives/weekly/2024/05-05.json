@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714851254113,
+  "endTime": 1714853962631,
   "band_list": [
     {
       "raw_hot": 877700,
@@ -443,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 69417,
+      "num": 69417,
+      "word": "广东139个暴雨预警生效中",
+      "onboard_time": 1714847833,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66307,
       "num": 217899,
       "word": "库克现身巴菲特股东大会现场",
@@ -481,14 +489,6 @@
       "onboard_time": 1714825459,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 56322,
-      "num": 56322,
-      "word": "广东139个暴雨预警生效中",
-      "onboard_time": 1714847833,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55090,
