@@ -1,6 +1,6 @@
 {
   "startTime": 1714753402355,
-  "endTime": 1714814318462,
+  "endTime": 1714815253091,
   "band_list": [
     {
       "raw_hot": 4324589,
@@ -292,11 +292,19 @@
     },
     {
       "raw_hot": 593945,
-      "num": 254550,
+      "num": 275484,
       "word": "向佐回应刘忻郭碧婷牵手",
       "onboard_time": 1714810219,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 588439,
+      "num": 588439,
+      "word": "iPhone16系列最新机模曝光",
+      "onboard_time": 1714812139,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 559029,
@@ -369,14 +377,6 @@
       "onboard_time": 1714788498,
       "rank": 15,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 502712,
-      "num": 502712,
-      "word": "iPhone16系列最新机模曝光",
-      "onboard_time": 1714812139,
-      "rank": 6,
-      "category": "数码"
     },
     {
       "raw_hot": 495100,
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384900,
+      "num": 384900,
+      "word": "00四小花合体封面",
+      "onboard_time": 1714810639,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 382293,
       "num": 337388,
       "word": "官方介入调查空包外卖",
@@ -561,14 +569,6 @@
       "onboard_time": 1714783398,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 377609,
-      "num": 377609,
-      "word": "00四小花合体封面",
-      "onboard_time": 1714810639,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 376336,
@@ -683,6 +683,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 309030,
+      "num": 236626,
+      "word": "亲戚劝我不要读博士要赶紧结婚",
+      "onboard_time": 1714811779,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 308663,
       "num": 308663,
       "word": "王冰冰送柬埔寨小公主赵露思签名照",
@@ -723,12 +731,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 290287,
-      "num": 225532,
-      "word": "亲戚劝我不要读博士要赶紧结婚",
-      "onboard_time": 1714811779,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 294145,
+      "num": 294145,
+      "word": "第五人格发布会",
+      "onboard_time": 1714814298,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 286142,
@@ -736,6 +744,14 @@
       "word": "熊猫犬",
       "onboard_time": 1714783458,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285784,
+      "num": 285784,
+      "word": "香飘飘",
+      "onboard_time": 1714813939,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -753,6 +769,22 @@
       "onboard_time": 1714808359,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282820,
+      "num": 282820,
+      "word": "iPhone16或改善无线充电功能",
+      "onboard_time": 1714813999,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 279398,
+      "num": 279398,
+      "word": "金秀贤安宥真百想人气奖",
+      "onboard_time": 1714814298,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 275065,
@@ -836,7 +868,7 @@
     },
     {
       "raw_hot": 255910,
-      "num": 222317,
+      "num": 224203,
       "word": "同事之间不要开这种玩笑",
       "onboard_time": 1714812558,
       "rank": 25,
@@ -857,14 +889,6 @@
       "onboard_time": 1714790717,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 241739,
-      "num": 241739,
-      "word": "金秀贤安宥真百想人气奖",
-      "onboard_time": 1714814298,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 241260,
@@ -995,12 +1019,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 210874,
-      "num": 210874,
-      "word": "iPhone16或改善无线充电功能",
-      "onboard_time": 1714813999,
+      "raw_hot": 211155,
+      "num": 211155,
+      "word": "infp是真正的纯爱战神",
+      "onboard_time": 1714814957,
       "rank": 28,
-      "category": "数码"
+      "category": "情感"
+    },
+    {
+      "raw_hot": 208613,
+      "num": 208613,
+      "word": "时代少年团海报审美",
+      "onboard_time": 1714814898,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 207348,
@@ -1065,14 +1097,6 @@
       "onboard_time": 1714805837,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 202236,
-      "num": 232265,
-      "word": "香飘飘",
-      "onboard_time": 1714813939,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200946,
@@ -1227,6 +1251,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 181997,
+      "num": 181997,
+      "word": "商人拿1000万帮县委书记女儿买房",
+      "onboard_time": 1714814957,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181707,
       "num": 236190,
       "word": "为什么韩国身份证有中国名字",
@@ -1275,6 +1307,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 176981,
+      "num": 176981,
+      "word": "凤凰传奇演唱会",
+      "onboard_time": 1714814359,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173809,
       "num": 173809,
       "word": "感觉有一亿人在衢州干饭",
@@ -1305,6 +1345,14 @@
       "onboard_time": 1714799598,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168072,
+      "num": 168072,
+      "word": "杨幂幺鸡 火锅的关键切口",
+      "onboard_time": 1714814178,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 167919,
@@ -1371,14 +1419,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 161649,
-      "num": 161649,
-      "word": "第五人格发布会",
-      "onboard_time": 1714814298,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 160959,
       "num": 160959,
       "word": "马嘉祺哭了",
@@ -1401,6 +1441,14 @@
       "onboard_time": 1714787477,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155782,
+      "num": 155782,
+      "word": "末路狂花钱 含泪吃汉堡",
+      "onboard_time": 1714814419,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 153258,
@@ -1467,6 +1515,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 147758,
+      "num": 147758,
+      "word": "在沙滩挖到了一只萨摩耶",
+      "onboard_time": 1714811898,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146590,
       "num": 146590,
       "word": "起猛了遇到孙策给扁鹊下毒了",
@@ -1505,14 +1561,6 @@
       "onboard_time": 1714793299,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142546,
-      "num": 142546,
-      "word": "在沙滩挖到了一只萨摩耶",
-      "onboard_time": 1714811898,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 141554,
@@ -1729,14 +1777,6 @@
       "onboard_time": 1714741102,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120374,
-      "num": 120374,
-      "word": "杨幂幺鸡 火锅的关键切口",
-      "onboard_time": 1714814178,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 119836,

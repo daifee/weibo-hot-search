@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714814318462,
+  "endTime": 1714815253091,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -3092,7 +3092,7 @@
     },
     {
       "raw_hot": 593945,
-      "num": 254550,
+      "num": 275484,
       "word": "向佐回应刘忻郭碧婷牵手",
       "onboard_time": 1714810219,
       "rank": 24,
@@ -3129,6 +3129,14 @@
       "onboard_time": 1714451240,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 588439,
+      "num": 588439,
+      "word": "iPhone16系列最新机模曝光",
+      "onboard_time": 1714812139,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 588041,
@@ -3769,14 +3777,6 @@
       "onboard_time": 1714260135,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 502712,
-      "num": 502712,
-      "word": "iPhone16系列最新机模曝光",
-      "onboard_time": 1714812139,
-      "rank": 6,
-      "category": "数码"
     },
     {
       "raw_hot": 501422,
@@ -5187,6 +5187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384900,
+      "num": 384900,
+      "word": "00四小花合体封面",
+      "onboard_time": 1714810639,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 384818,
       "num": 384818,
       "word": "会长是女仆大人 碓冰拓海",
@@ -5265,14 +5273,6 @@
       "onboard_time": 1714449439,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 377609,
-      "num": 377609,
-      "word": "00四小花合体封面",
-      "onboard_time": 1714810639,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 377525,
@@ -6355,6 +6355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 309030,
+      "num": 236626,
+      "word": "亲戚劝我不要读博士要赶紧结婚",
+      "onboard_time": 1714811779,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 308990,
       "num": 308990,
       "word": "湖人赢了",
@@ -6603,6 +6611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294145,
+      "num": 294145,
+      "word": "第五人格发布会",
+      "onboard_time": 1714814298,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 293518,
       "num": 293518,
       "word": "久坐1小时肌肉就开始出现结节",
@@ -6659,14 +6675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290287,
-      "num": 225532,
-      "word": "亲戚劝我不要读博士要赶紧结婚",
-      "onboard_time": 1714811779,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 289395,
       "num": 289395,
       "word": "猫咪称自己一生从未进食只喝水",
@@ -6720,6 +6728,14 @@
       "word": "熊猫犬",
       "onboard_time": 1714783458,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285784,
+      "num": 285784,
+      "word": "香飘飘",
+      "onboard_time": 1714813939,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -6819,6 +6835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 282820,
+      "num": 282820,
+      "word": "iPhone16或改善无线充电功能",
+      "onboard_time": 1714813999,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 282749,
       "num": 282749,
       "word": "王一博 谁是犊子",
@@ -6872,6 +6896,14 @@
       "word": "粉圈乱象影响观剧体验",
       "onboard_time": 1714318158,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 279398,
+      "num": 279398,
+      "word": "金秀贤安宥真百想人气奖",
+      "onboard_time": 1714814298,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -7412,7 +7444,7 @@
     },
     {
       "raw_hot": 255910,
-      "num": 222317,
+      "num": 224203,
       "word": "同事之间不要开这种玩笑",
       "onboard_time": 1714812558,
       "rank": 25,
@@ -7913,14 +7945,6 @@
       "onboard_time": 1714280719,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 241739,
-      "num": 241739,
-      "word": "金秀贤安宥真百想人气奖",
-      "onboard_time": 1714814298,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 241607,
@@ -8979,20 +9003,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211155,
+      "num": 211155,
+      "word": "infp是真正的纯爱战神",
+      "onboard_time": 1714814957,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210991,
       "num": 210991,
       "word": "在大学情商不高的表现",
       "onboard_time": 1714571599,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 210874,
-      "num": 210874,
-      "word": "iPhone16或改善无线充电功能",
-      "onboard_time": 1714813999,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 210849,
@@ -9097,6 +9121,14 @@
       "onboard_time": 1714533498,
       "rank": 30,
       "category": "动漫,互联网"
+    },
+    {
+      "raw_hot": 208613,
+      "num": 208613,
+      "word": "时代少年团海报审美",
+      "onboard_time": 1714814898,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 208462,
@@ -9617,14 +9649,6 @@
       "onboard_time": 1714805837,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 202236,
-      "num": 232265,
-      "word": "香飘飘",
-      "onboard_time": 1714813939,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202036,
@@ -11403,6 +11427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181997,
+      "num": 181997,
+      "word": "商人拿1000万帮县委书记女儿买房",
+      "onboard_time": 1714814957,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181889,
       "num": 181889,
       "word": "周鸿祎回应拍卖迈巴赫600",
@@ -11713,6 +11745,14 @@
       "onboard_time": 1714629857,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176981,
+      "num": 176981,
+      "word": "凤凰传奇演唱会",
+      "onboard_time": 1714814359,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 176828,
@@ -12291,6 +12331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168072,
+      "num": 168072,
+      "word": "杨幂幺鸡 火锅的关键切口",
+      "onboard_time": 1714814178,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168036,
       "num": 168036,
       "word": "比亚迪一季度净利润45.7亿元",
@@ -12747,14 +12795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161649,
-      "num": 161649,
-      "word": "第五人格发布会",
-      "onboard_time": 1714814298,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 161484,
       "num": 161484,
       "word": "维和防暴队直播",
@@ -13185,6 +13225,14 @@
       "onboard_time": 1714529718,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155782,
+      "num": 155782,
+      "word": "末路狂花钱 含泪吃汉堡",
+      "onboard_time": 1714814419,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 155618,
@@ -13939,6 +13987,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 147758,
+      "num": 147758,
+      "word": "在沙滩挖到了一只萨摩耶",
+      "onboard_time": 1714811898,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147656,
       "num": 141739,
       "word": "张凌赫的天菜拖鞋",
@@ -14385,14 +14441,6 @@
       "onboard_time": 1714488501,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142546,
-      "num": 142546,
-      "word": "在沙滩挖到了一只萨摩耶",
-      "onboard_time": 1714811898,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 142481,
@@ -16177,14 +16225,6 @@
       "onboard_time": 1714285517,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120374,
-      "num": 120374,
-      "word": "杨幂幺鸡 火锅的关键切口",
-      "onboard_time": 1714814178,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 120291,
