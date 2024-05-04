@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714797333009,
+  "endTime": 1714799882601,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -2547,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 658321,
+      "num": 476306,
+      "word": "唐文丽",
+      "onboard_time": 1714793898,
+      "rank": 16,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 656989,
       "num": 383306,
       "word": "南宁霸凌",
@@ -2665,6 +2673,14 @@
       "onboard_time": 1714399821,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 642014,
+      "num": 642014,
+      "word": "4条高铁票价将上涨",
+      "onboard_time": 1714795099,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 641986,
@@ -3147,14 +3163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 557916,
-      "num": 557916,
-      "word": "4条高铁票价将上涨",
-      "onboard_time": 1714795099,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 556592,
       "num": 376231,
       "word": "女子胎儿畸形引产后分手被要求退15万彩礼",
@@ -3193,6 +3201,14 @@
       "onboard_time": 1714638558,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 552630,
+      "num": 552630,
+      "word": "IVE新歌和咆哮是一个调",
+      "onboard_time": 1714796959,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 552405,
@@ -3337,14 +3353,6 @@
       "onboard_time": 1714462277,
       "rank": 23,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 534722,
-      "num": 290474,
-      "word": "唐文丽",
-      "onboard_time": 1714793898,
-      "rank": 16,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 534188,
@@ -3691,6 +3699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 495100,
+      "num": 495100,
+      "word": "日军731部队细菌战情报员信息披露",
+      "onboard_time": 1714794738,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494520,
       "num": 494520,
       "word": "长相思2排播",
@@ -3851,14 +3867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 477378,
-      "num": 477378,
-      "word": "日军731部队细菌战情报员信息披露",
-      "onboard_time": 1714794738,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 477256,
       "num": 477256,
       "word": "他可是宝莲灯沉香",
@@ -3897,6 +3905,14 @@
       "onboard_time": 1714367359,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 475359,
+      "num": 475359,
+      "word": "泽连斯基允许传染病和精神病患者入伍",
+      "onboard_time": 1714797678,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 474754,
@@ -5355,6 +5371,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 354994,
+      "num": 354994,
+      "word": "Jennie露背黑裙",
+      "onboard_time": 1714798099,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 354552,
       "num": 354552,
       "word": "谁家he男主给女主扫墓啊",
@@ -5633,6 +5657,14 @@
       "onboard_time": 1714742720,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 332626,
+      "num": 332626,
+      "word": "独行侠4比2快船",
+      "onboard_time": 1714797678,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 332524,
@@ -6105,6 +6137,14 @@
       "onboard_time": 1714553177,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308362,
+      "num": 201250,
+      "word": "林更新关注刘亦菲微博",
+      "onboard_time": 1714798099,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 307933,
@@ -6944,6 +6984,14 @@
       "word": "吴镇宇 金莎退休吧他养你了",
       "onboard_time": 1714454537,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 262421,
+      "num": 262421,
+      "word": "五哈",
+      "onboard_time": 1714796959,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -7987,14 +8035,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 227966,
-      "num": 227966,
-      "word": "IVE新歌和咆哮是一个调",
-      "onboard_time": 1714796959,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 227767,
       "num": 227767,
       "word": "明日方舟活动",
@@ -8129,6 +8169,14 @@
       "onboard_time": 1714450038,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222695,
+      "num": 222695,
+      "word": "欧文赛点的神",
+      "onboard_time": 1714797317,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 222624,
@@ -8681,14 +8729,6 @@
       "onboard_time": 1714533498,
       "rank": 30,
       "category": "动漫,互联网"
-    },
-    {
-      "raw_hot": 208535,
-      "num": 208535,
-      "word": "五哈",
-      "onboard_time": 1714796959,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 208462,
@@ -9499,6 +9539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198905,
+      "num": 198905,
+      "word": "伦纳德状态",
+      "onboard_time": 1714798336,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198826,
       "num": 622041,
       "word": "明日方舟奈雪联动",
@@ -9737,6 +9785,14 @@
       "onboard_time": 1714456817,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196190,
+      "num": 196190,
+      "word": "小鬼金属虎牙",
+      "onboard_time": 1714798998,
+      "rank": 26,
+      "category": "演出,音乐"
     },
     {
       "raw_hot": 196108,
@@ -10491,6 +10547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186963,
+      "num": 477010,
+      "word": "尤伯杯中国队进决赛",
+      "onboard_time": 1714798938,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186803,
       "num": 186803,
       "word": "反向旅游",
@@ -10763,6 +10827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183923,
+      "num": 183923,
+      "word": "开始听反方向的钟",
+      "onboard_time": 1714797979,
+      "rank": 27,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 183662,
       "num": 183662,
       "word": "褶皱玫瑰",
@@ -11017,6 +11089,14 @@
       "onboard_time": 1714633697,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179324,
+      "num": 179324,
+      "word": "心疼哈登",
+      "onboard_time": 1714797678,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 179235,
@@ -11347,6 +11427,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 174084,
+      "num": 174084,
+      "word": "珠海暴雨",
+      "onboard_time": 1714797079,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173914,
       "num": 236051,
       "word": "黄景瑜 怎么连吃带拿上了",
@@ -11361,6 +11449,14 @@
       "onboard_time": 1714256532,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173809,
+      "num": 173809,
+      "word": "感觉有一亿人在衢州干饭",
+      "onboard_time": 1714793959,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 173761,
@@ -11931,14 +12027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165555,
-      "num": 165555,
-      "word": "欧文赛点的神",
-      "onboard_time": 1714797317,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165410,
       "num": 165410,
       "word": "辽宁男篮vs广东男篮",
@@ -12179,12 +12267,12 @@
       "category": "汽车,社会新闻"
     },
     {
-      "raw_hot": 161241,
-      "num": 161241,
-      "word": "感觉有一亿人在衢州干饭",
-      "onboard_time": 1714793959,
-      "rank": 36,
-      "category": "美食"
+      "raw_hot": 161179,
+      "num": 161179,
+      "word": "波比跳 公认的燃脂运动",
+      "onboard_time": 1714795756,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 161096,
@@ -12971,6 +13059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150566,
+      "num": 150566,
+      "word": "陈清晨爆哭庆祝",
+      "onboard_time": 1714798218,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150519,
       "num": 150519,
       "word": "周杰伦陪昆凌夜游",
@@ -13041,6 +13137,14 @@
       "onboard_time": 1714301237,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149950,
+      "num": 149950,
+      "word": "吴镇宇给纪凌尘示范扇向佐巴掌",
+      "onboard_time": 1714799478,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 149911,
@@ -13169,14 +13273,6 @@
       "onboard_time": 1714263979,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149134,
-      "num": 149134,
-      "word": "波比跳 公认的燃脂运动",
-      "onboard_time": 1714795756,
-      "rank": 37,
-      "category": "运动健身"
     },
     {
       "raw_hot": 149127,
@@ -13553,14 +13649,6 @@
       "onboard_time": 1714537699,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145219,
-      "num": 145219,
-      "word": "珠海暴雨",
-      "onboard_time": 1714797079,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145210,
@@ -13947,6 +14035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139519,
+      "num": 139519,
+      "word": "快船淘汰",
+      "onboard_time": 1714797859,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139476,
       "num": 139476,
       "word": "SEVENTEEN站位过于整齐",
@@ -14056,6 +14152,14 @@
       "word": "又嫉妒了黄秘书",
       "onboard_time": 1714296857,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138485,
+      "num": 138485,
+      "word": "酒吧喝酒遇到自己学生有多社死",
+      "onboard_time": 1714799238,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -14251,6 +14355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135292,
+      "num": 135292,
+      "word": "R1SE十一个人十一种香水味",
+      "onboard_time": 1714799598,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135259,
       "num": 135259,
       "word": "张新成同年拍摄的三个疯批角色",
@@ -14273,6 +14385,14 @@
       "onboard_time": 1714572980,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135075,
+      "num": 135075,
+      "word": "澳门气象局发出黑色暴雨警告信号",
+      "onboard_time": 1714799598,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134970,
@@ -16195,6 +16315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110001,
+      "num": 110001,
+      "word": "戚薇跟李承铉科普夏家三千金",
+      "onboard_time": 1714799837,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109889,
       "num": 109889,
       "word": "出游时要小心这7种常见植物",
@@ -17379,6 +17507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68401,
+      "num": 182009,
+      "word": "朵莉亚音乐节前排蹦迪",
+      "onboard_time": 1714797379,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 67765,
       "num": 67765,
       "word": "85岁正是弯道超车的时候",
@@ -18341,6 +18477,9 @@
     },
     {
       "word": "#中国青年正当时#"
+    },
+    {
+      "word": "#五四青年节#"
     }
   ]
 }
