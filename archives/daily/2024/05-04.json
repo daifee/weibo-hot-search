@@ -1,6 +1,6 @@
 {
   "startTime": 1714753402355,
-  "endTime": 1714828746240,
+  "endTime": 1714829648358,
   "band_list": [
     {
       "raw_hot": 4324589,
@@ -33,6 +33,14 @@
       "onboard_time": 1714743921,
       "rank": 16,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1596524,
+      "num": 1596524,
+      "word": "香飘飘回应讽日事件",
+      "onboard_time": 1714827619,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1487534,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1099134,
-      "num": 422768,
+      "num": 750091,
       "word": "用户借胖猫事件煽动性别对立等被处置",
       "onboard_time": 1714823419,
       "rank": 10,
@@ -129,14 +137,6 @@
       "onboard_time": 1714786156,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1042755,
-      "num": 1042755,
-      "word": "香飘飘回应讽日事件",
-      "onboard_time": 1714827619,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1039355,
@@ -233,6 +233,14 @@
       "onboard_time": 1714754658,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 778430,
+      "num": 778430,
+      "word": "金价",
+      "onboard_time": 1714827799,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 775594,
@@ -515,20 +523,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 518607,
+      "num": 518607,
+      "word": "华晨宇唱15分钟把太阳唱出来",
+      "onboard_time": 1714821439,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 511324,
       "num": 346440,
       "word": "叶祖新好像玄彬",
       "onboard_time": 1714788498,
       "rank": 15,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 500106,
-      "num": 500106,
-      "word": "华晨宇唱15分钟把太阳唱出来",
-      "onboard_time": 1714821439,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 495100,
@@ -545,6 +553,14 @@
       "onboard_time": 1714739361,
       "rank": 29,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 478920,
+      "num": 478920,
+      "word": "十个勤天五四晚会舞台",
+      "onboard_time": 1714827500,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 465942,
@@ -611,12 +627,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 423182,
-      "num": 423182,
-      "word": "十个勤天五四晚会舞台",
-      "onboard_time": 1714827500,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 423821,
+      "num": 423821,
+      "word": "情侣因感情纠纷一方自尽另一方是否担责",
+      "onboard_time": 1714828100,
+      "rank": 17,
+      "category": "社会议题"
     },
     {
       "raw_hot": 419563,
@@ -715,12 +731,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 401017,
-      "num": 401017,
-      "word": "金价",
-      "onboard_time": 1714827799,
-      "rank": 13,
-      "category": "财经"
+      "raw_hot": 398120,
+      "num": 398120,
+      "word": "广东60个暴雨预警信号生效中",
+      "onboard_time": 1714826719,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396155,
@@ -819,12 +835,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 361894,
-      "num": 361894,
-      "word": "广东60个暴雨预警信号生效中",
-      "onboard_time": 1714826719,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 366454,
+      "num": 233393,
+      "word": "卵巢过快衰老的几个信号",
+      "onboard_time": 1714828161,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 359013,
@@ -939,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320247,
+      "num": 320247,
+      "word": "林俊杰唱了一生的爱",
+      "onboard_time": 1714828701,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 316272,
       "num": 316272,
       "word": "工藤新一第30个17岁",
@@ -971,12 +995,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305481,
-      "num": 233393,
-      "word": "卵巢过快衰老的几个信号",
-      "onboard_time": 1714828161,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 308072,
+      "num": 308072,
+      "word": "眼泪女王特辑",
+      "onboard_time": 1714827320,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 301520,
@@ -1139,20 +1163,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257805,
-      "num": 257805,
-      "word": "眼泪女王特辑",
-      "onboard_time": 1714827320,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 255910,
       "num": 238107,
       "word": "同事之间不要开这种玩笑",
       "onboard_time": 1714812558,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 254123,
+      "num": 220023,
+      "word": "邓超问孙俪能回家了吗",
+      "onboard_time": 1714829240,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 249674,
@@ -1169,14 +1193,6 @@
       "onboard_time": 1714805951,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 248513,
-      "num": 248513,
-      "word": "情侣因感情纠纷一方自尽另一方是否担责",
-      "onboard_time": 1714828100,
-      "rank": 17,
-      "category": "社会议题"
     },
     {
       "raw_hot": 247241,
@@ -1227,6 +1243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 238983,
+      "num": 218081,
+      "word": "你好星期六",
+      "onboard_time": 1714828819,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238625,
       "num": 235294,
       "word": "奇煜 祁煜",
@@ -1267,6 +1291,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 230300,
+      "num": 224981,
+      "word": "刘耀文墨镜solo",
+      "onboard_time": 1714828161,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 229308,
       "num": 229308,
       "word": "五四青年节",
@@ -1288,14 +1320,6 @@
       "word": "华晨宇日出演唱会会有日出吗",
       "onboard_time": 1714754717,
       "rank": 30,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 224981,
-      "num": 224981,
-      "word": "刘耀文墨镜solo",
-      "onboard_time": 1714828161,
-      "rank": 24,
       "category": "演出"
     },
     {
@@ -1369,6 +1393,14 @@
       "onboard_time": 1714806799,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 211093,
+      "num": 211093,
+      "word": "都是一个坟头的不用鞠躬",
+      "onboard_time": 1714828639,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 208613,
@@ -1595,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189788,
+      "num": 215194,
+      "word": "庄智渊3比0林昀儒",
+      "onboard_time": 1714828759,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189259,
       "num": 189259,
       "word": "张真源高音",
@@ -1641,6 +1681,14 @@
       "onboard_time": 1714825399,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184338,
+      "num": 184338,
+      "word": "张泽禹LikeIDo手势舞",
+      "onboard_time": 1714828880,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 183923,
@@ -1835,12 +1883,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163842,
+      "num": 424456,
+      "word": "95后小伙洗鞋月入4万",
+      "onboard_time": 1714829059,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163649,
       "num": 163649,
       "word": "哈尔的移动城堡后劲",
       "onboard_time": 1714800196,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 163570,
+      "num": 163570,
+      "word": "陕西一男子花62元买彩票中1.48亿元",
+      "onboard_time": 1714829178,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163336,
@@ -1907,20 +1971,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156141,
+      "num": 156141,
+      "word": "花海的澜太帅了",
+      "onboard_time": 1714828941,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155782,
       "num": 155782,
       "word": "末路狂花钱 含泪吃汉堡",
       "onboard_time": 1714814419,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 153743,
-      "num": 153743,
-      "word": "林俊杰唱了一生的爱",
-      "onboard_time": 1714828701,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 153258,
@@ -2097,14 +2161,6 @@
       "onboard_time": 1714802958,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140070,
-      "num": 140070,
-      "word": "都是一个坟头的不用鞠躬",
-      "onboard_time": 1714828639,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 139519,
@@ -2347,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120671,
+      "num": 129172,
+      "word": "阿森纳vs伯恩茅斯",
+      "onboard_time": 1714829539,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120573,
       "num": 120573,
       "word": "女孩更能共情女孩",
@@ -2412,7 +2476,7 @@
     },
     {
       "raw_hot": 115818,
-      "num": 803001,
+      "num": 871347,
       "word": "追光的你",
       "onboard_time": 1714791918,
       "rank": 36,
@@ -2949,6 +3013,9 @@
     },
     {
       "word": "#总书记寄语新时代青年#"
+    },
+    {
+      "word": "#习主席欧洲三国之行这些看点值得关注#"
     }
   ]
 }

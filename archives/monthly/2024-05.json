@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714828746240,
+  "endTime": 1714829648358,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -233,6 +233,14 @@
       "onboard_time": 1714663219,
       "rank": 1,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 1596524,
+      "num": 1596524,
+      "word": "香飘飘回应讽日事件",
+      "onboard_time": 1714827619,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1595330,
@@ -596,7 +604,7 @@
     },
     {
       "raw_hot": 1099134,
-      "num": 422768,
+      "num": 750091,
       "word": "用户借胖猫事件煽动性别对立等被处置",
       "onboard_time": 1714823419,
       "rank": 10,
@@ -673,14 +681,6 @@
       "onboard_time": 1714489219,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1042755,
-      "num": 1042755,
-      "word": "香飘飘回应讽日事件",
-      "onboard_time": 1714827619,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1039355,
@@ -1097,6 +1097,14 @@
       "onboard_time": 1714605974,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 778430,
+      "num": 778430,
+      "word": "金价",
+      "onboard_time": 1714827799,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 775594,
@@ -1971,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 518607,
+      "num": 518607,
+      "word": "华晨宇唱15分钟把太阳唱出来",
+      "onboard_time": 1714821439,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 513645,
       "num": 513645,
       "word": "褚会长称990万已支付完成",
@@ -2025,14 +2041,6 @@
       "onboard_time": 1714691953,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 500106,
-      "num": 500106,
-      "word": "华晨宇唱15分钟把太阳唱出来",
-      "onboard_time": 1714821439,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 495262,
@@ -2105,6 +2113,14 @@
       "onboard_time": 1714660999,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 478920,
+      "num": 478920,
+      "word": "十个勤天五四晚会舞台",
+      "onboard_time": 1714827500,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 478677,
@@ -2483,6 +2499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 423821,
+      "num": 423821,
+      "word": "情侣因感情纠纷一方自尽另一方是否担责",
+      "onboard_time": 1714828100,
+      "rank": 17,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 423717,
       "num": 243410,
       "word": "54岁快递员手机备注上千收件人奇葩花名",
@@ -2497,14 +2521,6 @@
       "onboard_time": 1714540518,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 423182,
-      "num": 423182,
-      "word": "十个勤天五四晚会舞台",
-      "onboard_time": 1714827500,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 422792,
@@ -2747,14 +2763,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 401017,
-      "num": 401017,
-      "word": "金价",
-      "onboard_time": 1714827799,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 399804,
       "num": 399804,
       "word": "哥伦比亚总统宣布将和以色列断交",
@@ -2768,6 +2776,14 @@
       "word": "梅龙高速去年也曾因塌方中断",
       "onboard_time": 1714549998,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398120,
+      "num": 398120,
+      "word": "广东60个暴雨预警信号生效中",
+      "onboard_time": 1714826719,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3019,6 +3035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366454,
+      "num": 233393,
+      "word": "卵巢过快衰老的几个信号",
+      "onboard_time": 1714828161,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 366410,
       "num": 366410,
       "word": "金智媛看过甄嬛传",
@@ -3057,14 +3081,6 @@
       "onboard_time": 1714631357,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 361894,
-      "num": 361894,
-      "word": "广东60个暴雨预警信号生效中",
-      "onboard_time": 1714826719,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361639,
@@ -3411,6 +3427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 320247,
+      "num": 320247,
+      "word": "林俊杰唱了一生的爱",
+      "onboard_time": 1714828701,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 320173,
       "num": 320173,
       "word": "美国德国都没做到只有中国干成了",
@@ -3515,20 +3539,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308072,
+      "num": 308072,
+      "word": "眼泪女王特辑",
+      "onboard_time": 1714827320,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307933,
       "num": 307933,
       "word": "周深音乐节在台上捡垃圾",
       "onboard_time": 1714746443,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 305481,
-      "num": 233393,
-      "word": "卵巢过快衰老的几个信号",
-      "onboard_time": 1714828161,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 304148,
@@ -4067,14 +4091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257805,
-      "num": 257805,
-      "word": "眼泪女王特辑",
-      "onboard_time": 1714827320,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 257470,
       "num": 442658,
       "word": "第一批游客已冒雨抵达长沙",
@@ -4121,6 +4137,14 @@
       "onboard_time": 1714534037,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254123,
+      "num": 220023,
+      "word": "邓超问孙俪能回家了吗",
+      "onboard_time": 1714829240,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 254100,
@@ -4177,14 +4201,6 @@
       "onboard_time": 1714744822,
       "rank": 46,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 248513,
-      "num": 248513,
-      "word": "情侣因感情纠纷一方自尽另一方是否担责",
-      "onboard_time": 1714828100,
-      "rank": 17,
-      "category": "社会议题"
     },
     {
       "raw_hot": 248434,
@@ -4403,6 +4419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238983,
+      "num": 218081,
+      "word": "你好星期六",
+      "onboard_time": 1714828819,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238625,
       "num": 235294,
       "word": "奇煜 祁煜",
@@ -4555,6 +4579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230300,
+      "num": 224981,
+      "word": "刘耀文墨镜solo",
+      "onboard_time": 1714828161,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 229308,
       "num": 229308,
       "word": "五四青年节",
@@ -4665,14 +4697,6 @@
       "onboard_time": 1714733600,
       "rank": 18,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 224981,
-      "num": 224981,
-      "word": "刘耀文墨镜solo",
-      "onboard_time": 1714828161,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 223865,
@@ -4905,6 +4929,14 @@
       "onboard_time": 1714660221,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211093,
+      "num": 211093,
+      "word": "都是一个坟头的不用鞠躬",
+      "onboard_time": 1714828639,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 210991,
@@ -5843,6 +5875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189788,
+      "num": 215194,
+      "word": "庄智渊3比0林昀儒",
+      "onboard_time": 1714828759,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189691,
       "num": 189691,
       "word": "邢菲穿古装开车",
@@ -6089,6 +6129,14 @@
       "onboard_time": 1714717280,
       "rank": 43,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 184338,
+      "num": 184338,
+      "word": "张泽禹LikeIDo手势舞",
+      "onboard_time": 1714828880,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 183923,
@@ -6931,6 +6979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163842,
+      "num": 424456,
+      "word": "95后小伙洗鞋月入4万",
+      "onboard_time": 1714829059,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163731,
       "num": 163731,
       "word": "鸣潮 icepaper",
@@ -6945,6 +7001,14 @@
       "onboard_time": 1714800196,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 163570,
+      "num": 163570,
+      "word": "陕西一男子花62元买彩票中1.48亿元",
+      "onboard_time": 1714829178,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163533,
@@ -7227,6 +7291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156141,
+      "num": 156141,
+      "word": "花海的澜太帅了",
+      "onboard_time": 1714828941,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156103,
       "num": 156103,
       "word": "终于明白为啥狗的单位是条了",
@@ -7337,14 +7409,6 @@
       "onboard_time": 1714613358,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 153743,
-      "num": 153743,
-      "word": "林俊杰唱了一生的爱",
-      "onboard_time": 1714828701,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 153456,
@@ -8041,14 +8105,6 @@
       "onboard_time": 1714635678,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140070,
-      "num": 140070,
-      "word": "都是一个坟头的不用鞠躬",
-      "onboard_time": 1714828639,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 139933,
@@ -9091,6 +9147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120671,
+      "num": 129172,
+      "word": "阿森纳vs伯恩茅斯",
+      "onboard_time": 1714829539,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120573,
       "num": 120573,
       "word": "女孩更能共情女孩",
@@ -9284,7 +9348,7 @@
     },
     {
       "raw_hot": 115818,
-      "num": 803001,
+      "num": 871347,
       "word": "追光的你",
       "onboard_time": 1714791918,
       "rank": 36,
@@ -11101,6 +11165,9 @@
     },
     {
       "word": "#总书记寄语新时代青年#"
+    },
+    {
+      "word": "#习主席欧洲三国之行这些看点值得关注#"
     }
   ]
 }
