@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714835886552,
+  "endTime": 1714836859761,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -779,6 +779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 933765,
+      "num": 256220,
+      "word": "你那坨肉根本就不是副乳",
+      "onboard_time": 1714833079,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 929980,
       "num": 738801,
       "word": "电脑C盘最恶心的四大毒瘤",
@@ -841,14 +849,6 @@
       "onboard_time": 1714719259,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 877645,
-      "num": 256220,
-      "word": "你那坨肉根本就不是副乳",
-      "onboard_time": 1714833079,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 877367,
@@ -1164,7 +1164,7 @@
     },
     {
       "raw_hot": 750806,
-      "num": 545988,
+      "num": 597048,
       "word": "薛之谦一眼认出演果果的小女孩",
       "onboard_time": 1714833079,
       "rank": 32,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1714804880,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 700774,
+      "num": 700774,
+      "word": "雷军回应不建议给年轻人太多建议",
+      "onboard_time": 1714832780,
+      "rank": 31,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 700761,
@@ -1579,14 +1587,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 625361,
-      "num": 625361,
-      "word": "雷军回应不建议给年轻人太多建议",
-      "onboard_time": 1714832780,
-      "rank": 31,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 625329,
       "num": 324591,
       "word": "妈妈告诉我她绝经了我好难过",
@@ -1739,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 589110,
+      "num": 589110,
+      "word": "14岁男孩当伴郎遇班主任伴娘",
+      "onboard_time": 1714834521,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588439,
       "num": 588439,
       "word": "iPhone16系列最新机模曝光",
@@ -1776,6 +1784,14 @@
       "word": "孙丞潇说喜欢郑合惠子",
       "onboard_time": 1714818498,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 567741,
+      "num": 567741,
+      "word": "纪凌尘换发型了",
+      "onboard_time": 1714834642,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -2161,14 +2177,6 @@
       "onboard_time": 1714660999,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 479783,
-      "num": 479783,
-      "word": "纪凌尘换发型了",
-      "onboard_time": 1714834642,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 478920,
@@ -3067,14 +3075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 373765,
-      "num": 373765,
-      "word": "14岁男孩当伴郎遇班主任伴娘",
-      "onboard_time": 1714834521,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 371325,
       "num": 371325,
       "word": "林俊杰唱了一生的爱",
@@ -3651,6 +3651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303406,
+      "num": 368493,
+      "word": "90后自媒体创业2天入账74万",
+      "onboard_time": 1714834821,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301623,
       "num": 301623,
       "word": "五月天香港",
@@ -3921,6 +3929,14 @@
       "onboard_time": 1714572079,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278589,
+      "num": 278589,
+      "word": "酱园弄片长",
+      "onboard_time": 1714836559,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 277012,
@@ -4883,6 +4899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 218788,
+      "num": 201778,
+      "word": "孙俪说邓超恋家",
+      "onboard_time": 1714835900,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218725,
       "num": 218725,
       "word": "你好星期六金曲回忆杀",
@@ -4953,14 +4977,6 @@
       "onboard_time": 1714648999,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 216092,
-      "num": 216092,
-      "word": "90后自媒体创业2天入账74万",
-      "onboard_time": 1714834821,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216029,
@@ -5337,6 +5353,14 @@
       "onboard_time": 1714552158,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204378,
+      "num": 204378,
+      "word": "孙千央视五四晚会造型",
+      "onboard_time": 1714833201,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 204133,
@@ -6107,14 +6131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189001,
-      "num": 189001,
-      "word": "孙千央视五四晚会造型",
-      "onboard_time": 1714833201,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188761,
       "num": 188761,
       "word": "重庆警方通报17岁少年被刺伤致死",
@@ -6385,6 +6401,14 @@
       "onboard_time": 1714564099,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182577,
+      "num": 182577,
+      "word": "苏打绿成都",
+      "onboard_time": 1714835659,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 182120,
@@ -7259,14 +7283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 163336,
-      "num": 163336,
-      "word": "苏打绿成都",
-      "onboard_time": 1714835659,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 163268,
       "num": 163268,
       "word": "于正说临江仙是自己最美的戏",
@@ -7993,6 +8009,14 @@
       "onboard_time": 1714820719,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 147613,
+      "num": 147613,
+      "word": "朴志效俞定延合照",
+      "onboard_time": 1714836140,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 147517,
@@ -8865,6 +8889,14 @@
       "onboard_time": 1714551738,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131398,
+      "num": 131398,
+      "word": "向佐怎么瘦成这样了",
+      "onboard_time": 1714836680,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 131340,
@@ -9905,6 +9937,14 @@
       "onboard_time": 1714642277,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112336,
+      "num": 124083,
+      "word": "eStar战胜RW",
+      "onboard_time": 1714836080,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 112320,
