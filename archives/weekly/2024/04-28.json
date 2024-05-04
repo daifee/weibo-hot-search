@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714815253091,
+  "endTime": 1714817835949,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -2731,6 +2731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 643249,
+      "num": 643249,
+      "word": "商人拿1000万帮县委书记女儿买房",
+      "onboard_time": 1714814957,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642619,
       "num": 642619,
       "word": "跑男剪辑",
@@ -3891,6 +3899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 487295,
+      "num": 316762,
+      "word": "香飘飘",
+      "onboard_time": 1714813939,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 486749,
       "num": 486749,
       "word": "穆雷绝杀湖人",
@@ -3953,6 +3969,14 @@
       "onboard_time": 1714702399,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481282,
+      "num": 245612,
+      "word": "田曦薇在小区徒步",
+      "onboard_time": 1714817000,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 480999,
@@ -4697,6 +4721,14 @@
       "onboard_time": 1714292178,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 419563,
+      "num": 243070,
+      "word": "亲戚劝我不要读博士要赶紧结婚",
+      "onboard_time": 1714811779,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 419303,
@@ -6027,6 +6059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 325361,
+      "num": 325361,
+      "word": "iPhone16或改善无线充电功能",
+      "onboard_time": 1714813999,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 324756,
       "num": 244944,
       "word": "童瑶自曝不好意思被张新成看",
@@ -6129,6 +6169,14 @@
       "onboard_time": 1714407018,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319556,
+      "num": 319556,
+      "word": "第五人格发布会",
+      "onboard_time": 1714814298,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 319546,
@@ -6353,14 +6401,6 @@
       "onboard_time": 1714533438,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 309030,
-      "num": 236626,
-      "word": "亲戚劝我不要读博士要赶紧结婚",
-      "onboard_time": 1714811779,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 308990,
@@ -6611,12 +6651,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 294145,
-      "num": 294145,
-      "word": "第五人格发布会",
-      "onboard_time": 1714814298,
-      "rank": 35,
-      "category": "游戏"
+      "raw_hot": 294296,
+      "num": 239355,
+      "word": "关晓彤牛仔裙",
+      "onboard_time": 1714817419,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 293518,
@@ -6633,6 +6673,14 @@
       "onboard_time": 1714220118,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 292512,
+      "num": 292512,
+      "word": "12315回应外卖空包事件",
+      "onboard_time": 1714816458,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292400,
@@ -6731,14 +6779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285784,
-      "num": 285784,
-      "word": "香飘飘",
-      "onboard_time": 1714813939,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285775,
       "num": 285775,
       "word": "林俊杰巡演",
@@ -6833,14 +6873,6 @@
       "onboard_time": 1714616417,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 282820,
-      "num": 282820,
-      "word": "iPhone16或改善无线充电功能",
-      "onboard_time": 1714813999,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 282749,
@@ -7009,6 +7041,14 @@
       "onboard_time": 1714780456,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272284,
+      "num": 238156,
+      "word": "infp是真正的纯爱战神",
+      "onboard_time": 1714814957,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 272264,
@@ -7427,6 +7467,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 257447,
+      "num": 257447,
+      "word": "根本认不出是黄小蕾",
+      "onboard_time": 1714817119,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 256314,
       "num": 305294,
       "word": "专家谈问界M7碰撞后疑车门无法打开",
@@ -7444,7 +7492,7 @@
     },
     {
       "raw_hot": 255910,
-      "num": 224203,
+      "num": 238107,
       "word": "同事之间不要开这种玩笑",
       "onboard_time": 1714812558,
       "rank": 25,
@@ -9003,14 +9051,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 211155,
-      "num": 211155,
-      "word": "infp是真正的纯爱战神",
-      "onboard_time": 1714814957,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 210991,
       "num": 210991,
       "word": "在大学情商不高的表现",
@@ -9185,6 +9225,14 @@
       "onboard_time": 1714364539,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208092,
+      "num": 208092,
+      "word": "薛之谦新疆抢票",
+      "onboard_time": 1714815978,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 207497,
@@ -11427,14 +11475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 181997,
-      "num": 181997,
-      "word": "商人拿1000万帮县委书记女儿买房",
-      "onboard_time": 1714814957,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181889,
       "num": 181889,
       "word": "周鸿祎回应拍卖迈巴赫600",
@@ -12267,6 +12307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169503,
+      "num": 245935,
+      "word": "租客称房东隔窗验灰扣费240元",
+      "onboard_time": 1714815437,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169438,
       "num": 169438,
       "word": "刘忻 摇滚版有你在",
@@ -12769,6 +12817,14 @@
       "onboard_time": 1714451781,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162205,
+      "num": 162205,
+      "word": "陈昊宇直播",
+      "onboard_time": 1714815559,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 162088,
@@ -13651,6 +13707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150360,
+      "num": 150360,
+      "word": "鹿晗拦我拦我",
+      "onboard_time": 1714816639,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150293,
       "num": 150293,
       "word": "李一桐书卷一梦开机vlog",
@@ -13841,6 +13905,14 @@
       "onboard_time": 1714263979,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149154,
+      "num": 149154,
+      "word": "大连英博0比1广州队",
+      "onboard_time": 1714817659,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 149127,
@@ -15347,6 +15419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131735,
+      "num": 131735,
+      "word": "何浩楠赵一博cp工具人",
+      "onboard_time": 1714816880,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131673,
       "num": 131673,
       "word": "种地吧 惊喜直播",
@@ -16289,6 +16369,14 @@
       "onboard_time": 1714396999,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119532,
+      "num": 119532,
+      "word": "汤杯中国vs马来西亚",
+      "onboard_time": 1714816819,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 119455,
@@ -17249,6 +17337,14 @@
       "onboard_time": 1714641078,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105805,
+      "num": 316076,
+      "word": "17岁短跑少年说想为祖国而战",
+      "onboard_time": 1714816578,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 105168,

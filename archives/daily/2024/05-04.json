@@ -1,6 +1,6 @@
 {
   "startTime": 1714753402355,
-  "endTime": 1714815253091,
+  "endTime": 1714817835949,
   "band_list": [
     {
       "raw_hot": 4324589,
@@ -259,6 +259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 643249,
+      "num": 643249,
+      "word": "商人拿1000万帮县委书记女儿买房",
+      "onboard_time": 1714814957,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642014,
       "num": 642014,
       "word": "4条高铁票价将上涨",
@@ -395,6 +403,22 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 487295,
+      "num": 316762,
+      "word": "香飘飘",
+      "onboard_time": 1714813939,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481282,
+      "num": 245612,
+      "word": "田曦薇在小区徒步",
+      "onboard_time": 1714817000,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465942,
       "num": 465942,
       "word": "老外五一爬泰山直呼人太多了",
@@ -441,6 +465,14 @@
       "onboard_time": 1714810279,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 419563,
+      "num": 243070,
+      "word": "亲戚劝我不要读博士要赶紧结婚",
+      "onboard_time": 1714811779,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 415072,
@@ -667,6 +699,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325361,
+      "num": 325361,
+      "word": "iPhone16或改善无线充电功能",
+      "onboard_time": 1714813999,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 319556,
+      "num": 319556,
+      "word": "第五人格发布会",
+      "onboard_time": 1714814298,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 316272,
       "num": 316272,
       "word": "工藤新一第30个17岁",
@@ -681,14 +729,6 @@
       "onboard_time": 1714691414,
       "rank": 32,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 309030,
-      "num": 236626,
-      "word": "亲戚劝我不要读博士要赶紧结婚",
-      "onboard_time": 1714811779,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 308663,
@@ -731,12 +771,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294145,
-      "num": 294145,
-      "word": "第五人格发布会",
-      "onboard_time": 1714814298,
-      "rank": 35,
-      "category": "游戏"
+      "raw_hot": 294296,
+      "num": 239355,
+      "word": "关晓彤牛仔裙",
+      "onboard_time": 1714817419,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 292512,
+      "num": 292512,
+      "word": "12315回应外卖空包事件",
+      "onboard_time": 1714816458,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286142,
@@ -744,14 +792,6 @@
       "word": "熊猫犬",
       "onboard_time": 1714783458,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285784,
-      "num": 285784,
-      "word": "香飘飘",
-      "onboard_time": 1714813939,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -769,14 +809,6 @@
       "onboard_time": 1714808359,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 282820,
-      "num": 282820,
-      "word": "iPhone16或改善无线充电功能",
-      "onboard_time": 1714813999,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 279398,
@@ -801,6 +833,14 @@
       "onboard_time": 1714780456,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272284,
+      "num": 238156,
+      "word": "infp是真正的纯爱战神",
+      "onboard_time": 1714814957,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 268677,
@@ -867,8 +907,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257447,
+      "num": 257447,
+      "word": "根本认不出是黄小蕾",
+      "onboard_time": 1714817119,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 255910,
-      "num": 224203,
+      "num": 238107,
       "word": "同事之间不要开这种玩笑",
       "onboard_time": 1714812558,
       "rank": 25,
@@ -1019,18 +1067,18 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 211155,
-      "num": 211155,
-      "word": "infp是真正的纯爱战神",
-      "onboard_time": 1714814957,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 208613,
       "num": 208613,
       "word": "时代少年团海报审美",
       "onboard_time": 1714814898,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 208092,
+      "num": 208092,
+      "word": "薛之谦新疆抢票",
+      "onboard_time": 1714815978,
       "rank": 31,
       "category": "演出"
     },
@@ -1251,14 +1299,6 @@
       "category": "音乐,幽默"
     },
     {
-      "raw_hot": 181997,
-      "num": 181997,
-      "word": "商人拿1000万帮县委书记女儿买房",
-      "onboard_time": 1714814957,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181707,
       "num": 236190,
       "word": "为什么韩国身份证有中国名字",
@@ -1329,6 +1369,14 @@
       "onboard_time": 1714750041,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169503,
+      "num": 245935,
+      "word": "租客称房东隔窗验灰扣费240元",
+      "onboard_time": 1714815437,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169090,
@@ -1419,6 +1467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162205,
+      "num": 162205,
+      "word": "陈昊宇直播",
+      "onboard_time": 1714815559,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160959,
       "num": 160959,
       "word": "马嘉祺哭了",
@@ -1491,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150360,
+      "num": 150360,
+      "word": "鹿晗拦我拦我",
+      "onboard_time": 1714816639,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150293,
       "num": 150293,
       "word": "刘忻是想起快女了吧",
@@ -1505,6 +1569,14 @@
       "onboard_time": 1714778954,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149154,
+      "num": 149154,
+      "word": "大连英博0比1广州队",
+      "onboard_time": 1714817659,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 148005,
@@ -1641,6 +1713,14 @@
       "onboard_time": 1714746443,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131735,
+      "num": 131735,
+      "word": "何浩楠赵一博cp工具人",
+      "onboard_time": 1714816880,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 129974,
@@ -1787,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119532,
+      "num": 119532,
+      "word": "汤杯中国vs马来西亚",
+      "onboard_time": 1714816819,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117606,
       "num": 117606,
       "word": "小S怀念父亲",
@@ -1913,6 +2001,14 @@
       "onboard_time": 1714779674,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105805,
+      "num": 316076,
+      "word": "17岁短跑少年说想为祖国而战",
+      "onboard_time": 1714816578,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 104341,

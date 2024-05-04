@@ -1,0 +1,410 @@
+{
+  "runTime": 1714817835949,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1037391,
+        "num": 1037391,
+        "word": "荔枝",
+        "onboard_time": 1714805301,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 643249,
+        "num": 643249,
+        "word": "商人拿1000万帮县委书记女儿买房",
+        "onboard_time": 1714814957,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52366,
+        "num": 551493,
+        "word": "几代人的青春共同成就了今日中国",
+        "onboard_time": 1714810759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541443,
+        "num": 541443,
+        "word": "iPhone16系列最新机模曝光",
+        "onboard_time": 1714812139,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 414924,
+        "num": 414924,
+        "word": "人均150的高价火锅偷偷降级",
+        "onboard_time": 1714808838,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 325361,
+        "num": 325361,
+        "word": "iPhone16或改善无线充电功能",
+        "onboard_time": 1714813999,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 319556,
+        "num": 319556,
+        "word": "第五人格发布会",
+        "onboard_time": 1714814298,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 487295,
+        "num": 316762,
+        "word": "香飘飘",
+        "onboard_time": 1714813939,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105805,
+        "num": 316076,
+        "word": "17岁短跑少年说想为祖国而战",
+        "onboard_time": 1714816578,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179609,
+        "num": 313130,
+        "word": "41度高温下交警女儿暴躁宠爹",
+        "onboard_time": 1714809619,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475690,
+        "num": 309763,
+        "word": "阿斯利康承认疫苗致命副作用",
+        "onboard_time": 1714806617,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307428,
+        "num": 307428,
+        "word": "金莎孙丞潇婚纱照造型",
+        "onboard_time": 1714807997,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383022,
+        "num": 302369,
+        "word": "香飘飘日本超市讽核污水",
+        "onboard_time": 1714800618,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292512,
+        "num": 292512,
+        "word": "12315回应外卖空包事件",
+        "onboard_time": 1714816458,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283158,
+        "num": 283158,
+        "word": "半数以上月经紊乱的女性未到医院就诊",
+        "onboard_time": 1714809438,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 279712,
+        "num": 279712,
+        "word": "Hybe将NewJeans油管标记成儿童标",
+        "onboard_time": 1714812319,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262041,
+        "num": 262041,
+        "word": "00四小花合体封面",
+        "onboard_time": 1714810639,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 257447,
+        "num": 257447,
+        "word": "根本认不出是黄小蕾",
+        "onboard_time": 1714817119,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246788,
+        "num": 246788,
+        "word": "金秀贤安宥真百想人气奖",
+        "onboard_time": 1714814298,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169503,
+        "num": 245935,
+        "word": "租客称房东隔窗验灰扣费240元",
+        "onboard_time": 1714815437,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481282,
+        "num": 245612,
+        "word": "田曦薇在小区徒步",
+        "onboard_time": 1714817000,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432140,
+        "num": 244572,
+        "word": "蔡徐坤更博",
+        "onboard_time": 1714806019,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419563,
+        "num": 243070,
+        "word": "亲戚劝我不要读博士要赶紧结婚",
+        "onboard_time": 1714811779,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362996,
+        "num": 242201,
+        "word": "向佐回应刘忻郭碧婷牵手",
+        "onboard_time": 1714810219,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300649,
+        "num": 240846,
+        "word": "邓超被孙俪赶出家门",
+        "onboard_time": 1714803858,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294296,
+        "num": 239355,
+        "word": "关晓彤牛仔裙",
+        "onboard_time": 1714817419,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272284,
+        "num": 238156,
+        "word": "infp是真正的纯爱战神",
+        "onboard_time": 1714814957,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238107,
+        "num": 238107,
+        "word": "同事之间不要开这种玩笑",
+        "onboard_time": 1714812558,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170886,
+        "num": 218554,
+        "word": "又臭又腥的石楠花为什么满大街都种",
+        "onboard_time": 1714807037,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167136,
+        "num": 217977,
+        "word": "韩最毒美女连环杀人犯真容曝光",
+        "onboard_time": 1714803798,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217723,
+        "num": 217723,
+        "word": "韩国人连MBTI都要写在简历里了",
+        "onboard_time": 1714809017,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208092,
+        "num": 208092,
+        "word": "薛之谦新疆抢票",
+        "onboard_time": 1714815978,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198916,
+        "num": 198916,
+        "word": "贾静雯49岁身材管理",
+        "onboard_time": 1714810759,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186552,
+        "num": 186552,
+        "word": "楼外楼",
+        "onboard_time": 1714810279,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168334,
+        "num": 168334,
+        "word": "为什么我们无法停止视奸",
+        "onboard_time": 1714808359,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163353,
+        "num": 163353,
+        "word": "广东中山4条出逃鳄鱼已找回3条",
+        "onboard_time": 1714808299,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162205,
+        "num": 162205,
+        "word": "陈昊宇直播",
+        "onboard_time": 1714815559,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150360,
+        "num": 150360,
+        "word": "鹿晗拦我拦我",
+        "onboard_time": 1714816639,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149154,
+        "num": 149154,
+        "word": "大连英博0比1广州队",
+        "onboard_time": 1714817659,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143692,
+        "num": 143692,
+        "word": "林俊杰深圳",
+        "onboard_time": 1714806079,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143630,
+        "num": 143630,
+        "word": "时代少年团海报审美",
+        "onboard_time": 1714814898,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143410,
+        "num": 143410,
+        "word": "刘老师 没有一部烂片逼疯不了的人",
+        "onboard_time": 1714800978,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139932,
+        "num": 139932,
+        "word": "凤凰传奇演唱会",
+        "onboard_time": 1714814359,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140687,
+        "num": 137854,
+        "word": "杨幂幺鸡 火锅的关键切口",
+        "onboard_time": 1714814178,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135759,
+        "num": 135759,
+        "word": "末路狂花钱 含泪吃汉堡",
+        "onboard_time": 1714814419,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131735,
+        "num": 131735,
+        "word": "何浩楠赵一博cp工具人",
+        "onboard_time": 1714816880,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131508,
+        "num": 131508,
+        "word": "偶遇Angelababy小海绵遛狗",
+        "onboard_time": 1714804880,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119609,
+        "num": 119609,
+        "word": "周扬青最后的动作是脑子一热",
+        "onboard_time": 1714807699,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119532,
+        "num": 119532,
+        "word": "汤杯中国vs马来西亚",
+        "onboard_time": 1714816819,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113566,
+        "num": 113566,
+        "word": "在沙滩挖到了一只萨摩耶",
+        "onboard_time": 1714811898,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄语新时代青年#"
+    }
+  }
+}
