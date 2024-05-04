@@ -1,0 +1,410 @@
+{
+  "runTime": 1714826719414,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1234468,
+        "num": 1234468,
+        "word": "金价跌至近一个月低点",
+        "onboard_time": 1714822098,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 827210,
+        "num": 827210,
+        "word": "22岁女生5天独自爬完五岳",
+        "onboard_time": 1714818680,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 2609,
+        "num": 700888,
+        "word": "文化中国行我写家乡",
+        "onboard_time": 1714742900,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660616,
+        "num": 660616,
+        "word": "为什么日本人门前爱放整排矿泉水瓶",
+        "onboard_time": 1714822098,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 519830,
+        "num": 519830,
+        "word": "歌手2024",
+        "onboard_time": 1714823239,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447962,
+        "num": 447962,
+        "word": "时代少年团演唱会直播",
+        "onboard_time": 1714821498,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 429008,
+        "num": 429008,
+        "word": "华晨宇唱15分钟把太阳唱出来",
+        "onboard_time": 1714821439,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 426726,
+        "num": 426726,
+        "word": "凤凰传奇 开蹦",
+        "onboard_time": 1714821138,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 362549,
+        "num": 362549,
+        "word": "广东成立梅大高速塌方灾害调查评估组",
+        "onboard_time": 1714823659,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132341,
+        "num": 359627,
+        "word": "41度高温下交警女儿暴躁宠爹",
+        "onboard_time": 1714809619,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1099134,
+        "num": 357286,
+        "word": "用户借胖猫事件煽动性别对立等被处置",
+        "onboard_time": 1714823419,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 680656,
+        "num": 350682,
+        "word": "李帝努脱了",
+        "onboard_time": 1714825459,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 380057,
+        "num": 345731,
+        "word": "李晨去时代少年团演唱会",
+        "onboard_time": 1714823599,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38919,
+        "num": 341565,
+        "word": "几代人的青春共同成就了今日中国",
+        "onboard_time": 1714810759,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362974,
+        "num": 337481,
+        "word": "央视五四晚会",
+        "onboard_time": 1714822578,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336257,
+        "num": 336257,
+        "word": "第五人格发布会",
+        "onboard_time": 1714814298,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 327307,
+        "num": 327307,
+        "word": "杨幂认为红发是一种警告",
+        "onboard_time": 1714820778,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320043,
+        "num": 320043,
+        "word": "张真源绿海",
+        "onboard_time": 1714825820,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230554,
+        "num": 230554,
+        "word": "商人拿1000万帮县委书记女儿买房",
+        "onboard_time": 1714814957,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196568,
+        "num": 196568,
+        "word": "荔枝",
+        "onboard_time": 1714805301,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 428213,
+        "num": 196552,
+        "word": "金希澈韩庚合照",
+        "onboard_time": 1714818320,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316651,
+        "num": 196427,
+        "word": "歌手",
+        "onboard_time": 1714818859,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281216,
+        "num": 196390,
+        "word": "钟楚曦侯雯元去时代少年团演唱会",
+        "onboard_time": 1714822039,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245508,
+        "num": 196297,
+        "word": "范丞丞唱了NINEPERCENT",
+        "onboard_time": 1714824200,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244309,
+        "num": 196253,
+        "word": "深圳的天是漏了吗",
+        "onboard_time": 1714823599,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231345,
+        "num": 196151,
+        "word": "蔡徐坤更博",
+        "onboard_time": 1714806019,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223136,
+        "num": 196074,
+        "word": "00后辞职的人都在做什么",
+        "onboard_time": 1714822280,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217719,
+        "num": 195979,
+        "word": "傅菁身材比例",
+        "onboard_time": 1714820840,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195966,
+        "num": 195966,
+        "word": "12315回应外卖空包事件",
+        "onboard_time": 1714816458,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174659,
+        "num": 174659,
+        "word": "第五人格骑士",
+        "onboard_time": 1714819579,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240975,
+        "num": 174642,
+        "word": "eStar 下饭",
+        "onboard_time": 1714825880,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217601,
+        "num": 174583,
+        "word": "孙丞潇说喜欢郑合惠子",
+        "onboard_time": 1714818498,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212272,
+        "num": 174569,
+        "word": "根本认不出是黄小蕾",
+        "onboard_time": 1714817119,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200723,
+        "num": 174478,
+        "word": "严浩翔饭撒",
+        "onboard_time": 1714823239,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184806,
+        "num": 174437,
+        "word": "关雪下跪卓文崩溃",
+        "onboard_time": 1714825399,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182270,
+        "num": 174410,
+        "word": "黄子弘凡蓝发",
+        "onboard_time": 1714823359,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150994,
+        "num": 174388,
+        "word": "突然不在乎保研了",
+        "onboard_time": 1714818798,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137208,
+        "num": 174334,
+        "word": "汤杯中国2比1马来西亚",
+        "onboard_time": 1714824800,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129235,
+        "num": 174254,
+        "word": "林高远赛点示意对手擦边",
+        "onboard_time": 1714825760,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125966,
+        "num": 174248,
+        "word": "RC对战成都GG",
+        "onboard_time": 1714825760,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174207,
+        "num": 174207,
+        "word": "向佐回应刘忻郭碧婷牵手",
+        "onboard_time": 1714810219,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159850,
+        "num": 159850,
+        "word": "邓超被孙俪赶出家门",
+        "onboard_time": 1714803858,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155418,
+        "num": 155418,
+        "word": "五四晚会节目单",
+        "onboard_time": 1714826479,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144717,
+        "num": 144717,
+        "word": "田曦薇在小区徒步",
+        "onboard_time": 1714817000,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138862,
+        "num": 138862,
+        "word": "关系是假的纯爱是真的",
+        "onboard_time": 1714826600,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124075,
+        "num": 128348,
+        "word": "iPhone16系列最新机模曝光",
+        "onboard_time": 1714812139,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128145,
+        "num": 128145,
+        "word": "周雨彤又上央视了",
+        "onboard_time": 1714819158,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125315,
+        "num": 125315,
+        "word": "15岁就懂得了当妈妈的不容易",
+        "onboard_time": 1714824498,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122282,
+        "num": 122282,
+        "word": "粘土滤镜",
+        "onboard_time": 1714826419,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114138,
+        "num": 114138,
+        "word": "梅州全力做好梅大高速塌方相关调查",
+        "onboard_time": 1714819818,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国青年正当时#"
+    }
+  }
+}
