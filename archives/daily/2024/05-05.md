@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/05 00:21:24 ~ 2024/05/05 04:34:29
+本榜单时间：2024/05/05 00:21:24 ~ 2024/05/05 05:16:43
 </p>
 </blockquote>
 <p>
@@ -388,7 +388,7 @@ TF家族四代去了时代少年团演唱会（热度：234875）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%BC%94%E6%88%91%E4%B8%8D%E6%84%BF%E6%84%8F%E6%97%A9%E8%B5%B7%23" target="weibo">
-张碧晨演我不愿意早起（热度：38089）
+张碧晨演我不愿意早起（热度：39793）
 </a>
 </li>
 
@@ -419,6 +419,12 @@ TF家族四代去了时代少年团演唱会（热度：234875）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%AD%A3%E5%BD%93%E6%97%B6%23%23" target="weibo">
 #中国青年正当时#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%84%E8%AF%AD%E6%96%B0%E6%97%B6%E4%BB%A3%E9%9D%92%E5%B9%B4%23%23" target="weibo">
+#总书记寄语新时代青年#
 </a>
 </li>
 
