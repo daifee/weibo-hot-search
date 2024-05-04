@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714847676325,
+  "endTime": 1714850129791,
   "band_list": [
     {
       "raw_hot": 877700,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80216,
+      "num": 79265,
+      "word": "乃万橘发",
+      "onboard_time": 1714845913,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 75293,
       "num": 142648,
       "word": "张真源绿海",
@@ -433,14 +441,6 @@
       "onboard_time": 1714819579,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 69183,
-      "num": 79265,
-      "word": "乃万橘发",
-      "onboard_time": 1714845913,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 66307,
@@ -491,12 +491,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 30824,
+      "raw_hot": 38089,
       "num": 61357,
       "word": "张碧晨演我不愿意早起",
       "onboard_time": 1714847352,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29769,
+      "num": 38084,
+      "word": "广东139个暴雨预警生效中",
+      "onboard_time": 1714847833,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27657,
+      "num": 38044,
+      "word": "蔡依林泉州演唱会",
+      "onboard_time": 1714848433,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 5516,
