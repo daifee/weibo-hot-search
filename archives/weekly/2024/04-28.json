@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714817835949,
+  "endTime": 1714818836378,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -2051,6 +2051,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 777571,
+      "num": 777571,
+      "word": "第五人格发布会",
+      "onboard_time": 1714814298,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 775594,
+      "num": 775594,
+      "word": "商人拿1000万帮县委书记女儿买房",
+      "onboard_time": 1714814957,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 770575,
       "num": 770575,
       "word": "农村家庭因婚致贫返贫现象增加",
@@ -2072,6 +2088,14 @@
       "word": "杨晓明涉嫌严重违纪违法",
       "onboard_time": 1714229960,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 765313,
+      "num": 325026,
+      "word": "香飘飘",
+      "onboard_time": 1714813939,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2731,14 +2755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 643249,
-      "num": 643249,
-      "word": "商人拿1000万帮县委书记女儿买房",
-      "onboard_time": 1714814957,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 642619,
       "num": 642619,
       "word": "跑男剪辑",
@@ -3219,12 +3235,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 576224,
+      "num": 576224,
+      "word": "根本认不出是黄小蕾",
+      "onboard_time": 1714817119,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 574693,
       "num": 574693,
       "word": "周杰伦二开",
       "onboard_time": 1714303818,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 574017,
+      "num": 245612,
+      "word": "田曦薇在小区徒步",
+      "onboard_time": 1714817000,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 572476,
@@ -3843,6 +3875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494568,
+      "num": 322057,
+      "word": "12315回应外卖空包事件",
+      "onboard_time": 1714816458,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494520,
       "num": 494520,
       "word": "长相思2排播",
@@ -3897,14 +3937,6 @@
       "onboard_time": 1714489641,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 487295,
-      "num": 316762,
-      "word": "香飘飘",
-      "onboard_time": 1714813939,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 486749,
@@ -3969,14 +4001,6 @@
       "onboard_time": 1714702399,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 481282,
-      "num": 245612,
-      "word": "田曦薇在小区徒步",
-      "onboard_time": 1714817000,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 480999,
@@ -4337,6 +4361,14 @@
       "onboard_time": 1714345754,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 454141,
+      "num": 212762,
+      "word": "金希澈韩庚合照",
+      "onboard_time": 1714818320,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 452993,
@@ -5675,6 +5707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351464,
+      "num": 351464,
+      "word": "iPhone16或改善无线充电功能",
+      "onboard_time": 1714813999,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 351463,
       "num": 618686,
       "word": "她是北大同专业同级唯一坚持读到毕业",
@@ -6059,14 +6099,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 325361,
-      "num": 325361,
-      "word": "iPhone16或改善无线充电功能",
-      "onboard_time": 1714813999,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 324756,
       "num": 244944,
       "word": "童瑶自曝不好意思被张新成看",
@@ -6169,14 +6201,6 @@
       "onboard_time": 1714407018,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319556,
-      "num": 319556,
-      "word": "第五人格发布会",
-      "onboard_time": 1714814298,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 319546,
@@ -6673,14 +6697,6 @@
       "onboard_time": 1714220118,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 292512,
-      "num": 292512,
-      "word": "12315回应外卖空包事件",
-      "onboard_time": 1714816458,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292400,
@@ -7467,14 +7483,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 257447,
-      "num": 257447,
-      "word": "根本认不出是黄小蕾",
-      "onboard_time": 1714817119,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 256314,
       "num": 305294,
       "word": "专家谈问界M7碰撞后疑车门无法打开",
@@ -7641,6 +7649,14 @@
       "onboard_time": 1714485678,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 249897,
+      "num": 249897,
+      "word": "孙丞潇说喜欢郑合惠子",
+      "onboard_time": 1714818498,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 249628,
@@ -8593,6 +8609,14 @@
       "onboard_time": 1714354159,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221969,
+      "num": 245935,
+      "word": "租客称房东隔窗验灰扣费240元",
+      "onboard_time": 1714815437,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221550,
@@ -11379,6 +11403,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 183680,
+      "num": 183680,
+      "word": "大连英博0比1广州队",
+      "onboard_time": 1714817659,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183662,
       "num": 183662,
       "word": "褶皱玫瑰",
@@ -12305,14 +12337,6 @@
       "onboard_time": 1714406419,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 169503,
-      "num": 245935,
-      "word": "租客称房东隔窗验灰扣费240元",
-      "onboard_time": 1714815437,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169438,
@@ -13755,6 +13779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150058,
+      "num": 150058,
+      "word": "22岁女生5天独自爬完五岳",
+      "onboard_time": 1714818680,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 150010,
       "num": 150010,
       "word": "张杰新歌",
@@ -13905,14 +13937,6 @@
       "onboard_time": 1714263979,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149154,
-      "num": 149154,
-      "word": "大连英博0比1广州队",
-      "onboard_time": 1714817659,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 149127,
@@ -14265,6 +14289,14 @@
       "onboard_time": 1714811718,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145510,
+      "num": 145510,
+      "word": "何浩楠赵一博cp工具人",
+      "onboard_time": 1714816880,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 145421,
@@ -14851,6 +14883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137482,
+      "num": 146783,
+      "word": "汤杯石宇奇横扫李梓嘉",
+      "onboard_time": 1714818021,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137357,
       "num": 137357,
       "word": "这谁认得出黄景瑜王一博啊",
@@ -14921,6 +14961,14 @@
       "onboard_time": 1714487960,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136414,
+      "num": 136414,
+      "word": "汤杯中国1比0马来西亚",
+      "onboard_time": 1714818258,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 136401,
@@ -15009,6 +15057,14 @@
       "onboard_time": 1714476498,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135382,
+      "num": 135382,
+      "word": "突然不在乎保研了",
+      "onboard_time": 1714818798,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 135364,
@@ -15416,14 +15472,6 @@
       "word": "好六嘉宾为时团演唱会打call",
       "onboard_time": 1714631897,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 131735,
-      "num": 131735,
-      "word": "何浩楠赵一博cp工具人",
-      "onboard_time": 1714816880,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -17340,7 +17388,7 @@
     },
     {
       "raw_hot": 105805,
-      "num": 316076,
+      "num": 328250,
       "word": "17岁短跑少年说想为祖国而战",
       "onboard_time": 1714816578,
       "rank": 8,
@@ -18388,7 +18436,7 @@
     },
     {
       "raw_hot": 61612,
-      "num": 725284,
+      "num": 775878,
       "word": "几代人的青春共同成就了今日中国",
       "onboard_time": 1714810759,
       "rank": 2,

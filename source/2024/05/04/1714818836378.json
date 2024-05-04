@@ -1,0 +1,410 @@
+{
+  "runTime": 1714818836378,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1004040,
+        "num": 1004040,
+        "word": "荔枝",
+        "onboard_time": 1714805301,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 777571,
+        "num": 777571,
+        "word": "第五人格发布会",
+        "onboard_time": 1714814298,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 50222,
+        "num": 775878,
+        "word": "几代人的青春共同成就了今日中国",
+        "onboard_time": 1714810759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775594,
+        "num": 775594,
+        "word": "商人拿1000万帮县委书记女儿买房",
+        "onboard_time": 1714814957,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576224,
+        "num": 576224,
+        "word": "根本认不出是黄小蕾",
+        "onboard_time": 1714817119,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 406353,
+        "num": 406353,
+        "word": "iPhone16系列最新机模曝光",
+        "onboard_time": 1714812139,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 351464,
+        "num": 351464,
+        "word": "iPhone16或改善无线充电功能",
+        "onboard_time": 1714813999,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 329606,
+        "num": 329606,
+        "word": "人均150的高价火锅偷偷降级",
+        "onboard_time": 1714808838,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94366,
+        "num": 328250,
+        "word": "17岁短跑少年说想为祖国而战",
+        "onboard_time": 1714816578,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188254,
+        "num": 327932,
+        "word": "41度高温下交警女儿暴躁宠爹",
+        "onboard_time": 1714809619,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765313,
+        "num": 325026,
+        "word": "香飘飘",
+        "onboard_time": 1714813939,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530286,
+        "num": 323293,
+        "word": "香飘飘日本超市讽核污水",
+        "onboard_time": 1714800618,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494568,
+        "num": 322057,
+        "word": "12315回应外卖空包事件",
+        "onboard_time": 1714816458,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333489,
+        "num": 321103,
+        "word": "阿斯利康承认疫苗致命副作用",
+        "onboard_time": 1714806617,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319873,
+        "num": 319873,
+        "word": "半数以上月经紊乱的女性未到医院就诊",
+        "onboard_time": 1714809438,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 259550,
+        "num": 259550,
+        "word": "金莎孙丞潇婚纱照造型",
+        "onboard_time": 1714807997,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249897,
+        "num": 249897,
+        "word": "孙丞潇说喜欢郑合惠子",
+        "onboard_time": 1714818498,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246892,
+        "num": 246892,
+        "word": "金秀贤安宥真百想人气奖",
+        "onboard_time": 1714814298,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225956,
+        "num": 225956,
+        "word": "Hybe将NewJeans油管标记成儿童标",
+        "onboard_time": 1714812319,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221969,
+        "num": 221969,
+        "word": "租客称房东隔窗验灰扣费240元",
+        "onboard_time": 1714815437,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574017,
+        "num": 218250,
+        "word": "田曦薇在小区徒步",
+        "onboard_time": 1714817000,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454141,
+        "num": 212762,
+        "word": "金希澈韩庚合照",
+        "onboard_time": 1714818320,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412726,
+        "num": 209821,
+        "word": "蔡徐坤更博",
+        "onboard_time": 1714806019,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405849,
+        "num": 203477,
+        "word": "亲戚劝我不要读博士要赶紧结婚",
+        "onboard_time": 1714811779,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328476,
+        "num": 202474,
+        "word": "邓超被孙俪赶出家门",
+        "onboard_time": 1714803858,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296842,
+        "num": 194673,
+        "word": "向佐回应刘忻郭碧婷牵手",
+        "onboard_time": 1714810219,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267395,
+        "num": 190635,
+        "word": "infp是真正的纯爱战神",
+        "onboard_time": 1714814957,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242938,
+        "num": 186822,
+        "word": "关晓彤牛仔裙",
+        "onboard_time": 1714817419,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183680,
+        "num": 183680,
+        "word": "大连英博0比1广州队",
+        "onboard_time": 1714817659,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153376,
+        "num": 181676,
+        "word": "又臭又腥的石楠花为什么满大街都种",
+        "onboard_time": 1714807037,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216312,
+        "num": 181583,
+        "word": "00四小花合体封面",
+        "onboard_time": 1714810639,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 180336,
+        "num": 180336,
+        "word": "同事之间不要开这种玩笑",
+        "onboard_time": 1714812558,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178602,
+        "num": 178602,
+        "word": "薛之谦新疆抢票",
+        "onboard_time": 1714815978,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160362,
+        "num": 160362,
+        "word": "偶遇Angelababy小海绵遛狗",
+        "onboard_time": 1714804880,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159850,
+        "num": 159850,
+        "word": "韩国人连MBTI都要写在简历里了",
+        "onboard_time": 1714809017,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158211,
+        "num": 158211,
+        "word": "为什么我们无法停止视奸",
+        "onboard_time": 1714808359,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150058,
+        "num": 150058,
+        "word": "22岁女生5天独自爬完五岳",
+        "onboard_time": 1714818680,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 149736,
+        "num": 149736,
+        "word": "林俊杰深圳",
+        "onboard_time": 1714806079,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149085,
+        "num": 149085,
+        "word": "时代少年团海报审美",
+        "onboard_time": 1714814898,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137482,
+        "num": 146783,
+        "word": "汤杯石宇奇横扫李梓嘉",
+        "onboard_time": 1714818021,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145972,
+        "num": 145972,
+        "word": "贾静雯49岁身材管理",
+        "onboard_time": 1714810759,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145510,
+        "num": 145510,
+        "word": "何浩楠赵一博cp工具人",
+        "onboard_time": 1714816880,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140705,
+        "num": 140705,
+        "word": "鹿晗拦我拦我",
+        "onboard_time": 1714816639,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136414,
+        "num": 136414,
+        "word": "汤杯中国1比0马来西亚",
+        "onboard_time": 1714818258,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135382,
+        "num": 135382,
+        "word": "突然不在乎保研了",
+        "onboard_time": 1714818798,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133681,
+        "num": 133681,
+        "word": "韩最毒美女连环杀人犯真容曝光",
+        "onboard_time": 1714803798,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134272,
+        "num": 132363,
+        "word": "楼外楼",
+        "onboard_time": 1714810279,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128735,
+        "num": 128735,
+        "word": "凤凰传奇演唱会",
+        "onboard_time": 1714814359,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122697,
+        "num": 122697,
+        "word": "广东中山4条出逃鳄鱼已找回3条",
+        "onboard_time": 1714808299,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116958,
+        "num": 116958,
+        "word": "杨幂幺鸡 火锅的关键切口",
+        "onboard_time": 1714814178,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄语新时代青年#"
+    }
+  }
+}
