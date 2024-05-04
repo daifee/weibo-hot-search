@@ -1,0 +1,410 @@
+{
+  "runTime": 1714804486612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1475707,
+        "num": 1475707,
+        "word": "香飘飘日本超市讽核污水",
+        "onboard_time": 1714800618,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521657,
+        "num": 521657,
+        "word": "泽连斯基允许传染病和精神病患者入伍",
+        "onboard_time": 1714797678,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 8065,
+        "num": 395939,
+        "word": "文化中国行我写家乡",
+        "onboard_time": 1714742900,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612869,
+        "num": 392204,
+        "word": "戚薇小考又是0分",
+        "onboard_time": 1714802898,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 577540,
+        "num": 390009,
+        "word": "华晨宇 我们真的做到了",
+        "onboard_time": 1714794857,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 373989,
+        "num": 373989,
+        "word": "为什么人老了身上会有怪味",
+        "onboard_time": 1714786156,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 437596,
+        "num": 363725,
+        "word": "刘老师 没有一部烂片逼疯不了的人",
+        "onboard_time": 1714800978,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 337166,
+        "num": 337166,
+        "word": "731部队最新罪证",
+        "onboard_time": 1714790477,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374757,
+        "num": 331494,
+        "word": "戚薇跟李承铉科普夏家三千金",
+        "onboard_time": 1714799837,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129195,
+        "num": 328100,
+        "word": "尤伯杯中国队进决赛",
+        "onboard_time": 1714798938,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386724,
+        "num": 315550,
+        "word": "龙门石窟游客惊叹到下巴脱臼",
+        "onboard_time": 1714802358,
+        "rank": 10,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 27289,
+        "num": 304253,
+        "word": "没班味的工作",
+        "onboard_time": 1714800858,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302161,
+        "num": 302161,
+        "word": "IVE新歌和咆哮是一个调",
+        "onboard_time": 1714796959,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 296983,
+        "num": 296983,
+        "word": "韩雪vocal",
+        "onboard_time": 1714802598,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284005,
+        "num": 284005,
+        "word": "网传梅大高速茶阳路段塌方现场为异地旧图",
+        "onboard_time": 1714803258,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274572,
+        "num": 274572,
+        "word": "男子在新疆滑雪摔伤抢救无效死亡",
+        "onboard_time": 1714802717,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256368,
+        "num": 256368,
+        "word": "4条高铁票价将上涨",
+        "onboard_time": 1714795099,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229306,
+        "num": 229306,
+        "word": "吴镇宇给纪凌尘示范扇向佐巴掌",
+        "onboard_time": 1714799478,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211934,
+        "num": 211934,
+        "word": "Jennie露背黑裙",
+        "onboard_time": 1714798099,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211920,
+        "num": 211920,
+        "word": "正式被确诊为荒野女巫",
+        "onboard_time": 1714803681,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 519266,
+        "num": 210082,
+        "word": "邓超被孙俪赶出家门",
+        "onboard_time": 1714803858,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299956,
+        "num": 208634,
+        "word": "唐文丽",
+        "onboard_time": 1714793898,
+        "rank": 21,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 222746,
+        "num": 208168,
+        "word": "前职业选手谈胖猫代练2年赚50万",
+        "onboard_time": 1714781536,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 207136,
+        "num": 207136,
+        "word": "奔跑吧强行煽情",
+        "onboard_time": 1714780996,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270434,
+        "num": 206969,
+        "word": "小冰冷",
+        "onboard_time": 1714793299,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 206294,
+        "num": 206294,
+        "word": "张超改名就相当于",
+        "onboard_time": 1714803138,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197051,
+        "num": 197051,
+        "word": "刘忻 小哭包",
+        "onboard_time": 1714803319,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250152,
+        "num": 196748,
+        "word": "殷世航为小冰冷发声",
+        "onboard_time": 1714793299,
+        "rank": 27,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 193503,
+        "num": 193503,
+        "word": "李现cos孙悟空",
+        "onboard_time": 1714802898,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190177,
+        "num": 190177,
+        "word": "没有一顿火锅解决不了的事票房",
+        "onboard_time": 1714801696,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187401,
+        "num": 187401,
+        "word": "波比跳 公认的燃脂运动",
+        "onboard_time": 1714795756,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 185572,
+        "num": 185572,
+        "word": "R1SE十一个人十一种香水味",
+        "onboard_time": 1714799598,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185471,
+        "num": 185471,
+        "word": "韩最毒美女连环杀人犯真容曝光",
+        "onboard_time": 1714803798,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172565,
+        "num": 172565,
+        "word": "张杰看到情侣求婚的反应",
+        "onboard_time": 1714790058,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165211,
+        "num": 165211,
+        "word": "再也不敢不涂防晒出门了",
+        "onboard_time": 1714801818,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 153258,
+        "num": 153258,
+        "word": "周深五四演讲",
+        "onboard_time": 1714803438,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145604,
+        "num": 145604,
+        "word": "林更新关注刘亦菲微博",
+        "onboard_time": 1714798099,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143413,
+        "num": 143413,
+        "word": "多家品牌就胖猫事件道歉",
+        "onboard_time": 1714781056,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 142479,
+        "num": 142479,
+        "word": "梅大高速横停货车拦车司机获奖一万元",
+        "onboard_time": 1714792218,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141205,
+        "num": 141205,
+        "word": "珠海暴雨",
+        "onboard_time": 1714797079,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136664,
+        "num": 136664,
+        "word": "国羽第20次打入尤伯杯决赛",
+        "onboard_time": 1714802779,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130191,
+        "num": 130191,
+        "word": "梅大高速",
+        "onboard_time": 1714794138,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126955,
+        "num": 126955,
+        "word": "胧月不认亲妈妆",
+        "onboard_time": 1714787958,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126875,
+        "num": 126875,
+        "word": "伦纳德状态",
+        "onboard_time": 1714798336,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123774,
+        "num": 123774,
+        "word": "刘忻是想起快女了吧",
+        "onboard_time": 1714800978,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116411,
+        "num": 116411,
+        "word": "种地吧",
+        "onboard_time": 1714799357,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115534,
+        "num": 115534,
+        "word": "澳门气象局发出黑色暴雨警告信号",
+        "onboard_time": 1714799598,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108601,
+        "num": 108601,
+        "word": "当妈妈交代化冻肉馅我忘了",
+        "onboard_time": 1714803858,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100143,
+        "num": 100143,
+        "word": "工藤新一 智性恋天花板",
+        "onboard_time": 1714804458,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 98974,
+        "num": 98974,
+        "word": "Tablo表演眼鼻嘴",
+        "onboard_time": 1714802958,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#五四青年节#"
+    }
+  }
+}

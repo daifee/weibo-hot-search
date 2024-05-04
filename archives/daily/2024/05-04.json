@@ -1,6 +1,6 @@
 {
   "startTime": 1714753402355,
-  "endTime": 1714803772479,
+  "endTime": 1714804486612,
   "band_list": [
     {
       "raw_hot": 4324589,
@@ -35,19 +35,19 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1475707,
+      "num": 1475707,
+      "word": "香飘飘日本超市讽核污水",
+      "onboard_time": 1714800618,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1417040,
       "num": 1417040,
       "word": "731部队最新罪证",
       "onboard_time": 1714790477,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1357027,
-      "num": 1357027,
-      "word": "香飘飘日本超市讽核污水",
-      "onboard_time": 1714800618,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -219,6 +219,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 612869,
+      "num": 392204,
+      "word": "戚薇小考又是0分",
+      "onboard_time": 1714802898,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 559029,
       "num": 236172,
       "word": "胖猫跳江事发地摆满鲜花汉堡",
@@ -256,6 +264,14 @@
       "word": "张超改名",
       "onboard_time": 1714780756,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 519266,
+      "num": 210082,
+      "word": "邓超被孙俪赶出家门",
+      "onboard_time": 1714803858,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -315,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437596,
+      "num": 392325,
+      "word": "刘老师 没有一部烂片逼疯不了的人",
+      "onboard_time": 1714800978,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 432794,
       "num": 432794,
       "word": "戚薇跟李承铉科普夏家三千金",
@@ -371,20 +395,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 392325,
-      "num": 392325,
-      "word": "刘老师 没有一部烂片逼疯不了的人",
-      "onboard_time": 1714800978,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 387002,
       "num": 387002,
       "word": "波音第2位吹哨人去世肺部发现大量细菌",
       "onboard_time": 1714788798,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386724,
+      "num": 328457,
+      "word": "龙门石窟游客惊叹到下巴脱臼",
+      "onboard_time": 1714802358,
+      "rank": 12,
+      "category": "旅游"
     },
     {
       "raw_hot": 386634,
@@ -427,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345891,
-      "num": 331228,
-      "word": "戚薇小考又是0分",
-      "onboard_time": 1714802898,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 335627,
       "num": 335627,
       "word": "林更新孟子义不想近距离吃饼干",
@@ -465,14 +481,6 @@
       "onboard_time": 1714754957,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 328457,
-      "num": 328457,
-      "word": "龙门石窟游客惊叹到下巴脱臼",
-      "onboard_time": 1714802358,
-      "rank": 12,
-      "category": "旅游"
     },
     {
       "raw_hot": 316272,
@@ -515,6 +523,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 296983,
+      "num": 296983,
+      "word": "韩雪vocal",
+      "onboard_time": 1714802598,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286142,
       "num": 286142,
       "word": "熊猫犬",
@@ -531,12 +547,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278376,
-      "num": 278376,
-      "word": "韩雪vocal",
-      "onboard_time": 1714802598,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 284005,
+      "num": 284005,
+      "word": "网传梅大高速茶阳路段塌方现场为异地旧图",
+      "onboard_time": 1714803258,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274572,
+      "num": 274572,
+      "word": "男子在新疆滑雪摔伤抢救无效死亡",
+      "onboard_time": 1714802717,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272968,
@@ -699,6 +723,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 211920,
+      "num": 211920,
+      "word": "正式被确诊为荒野女巫",
+      "onboard_time": 1714803681,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 207348,
       "num": 189357,
       "word": "国羽第20次打入尤伯杯决赛",
@@ -721,6 +753,14 @@
       "onboard_time": 1714742122,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206294,
+      "num": 206294,
+      "word": "张超改名就相当于",
+      "onboard_time": 1714803138,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 204933,
@@ -779,20 +819,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198068,
-      "num": 215746,
-      "word": "男子在新疆滑雪摔伤抢救无效死亡",
-      "onboard_time": 1714802717,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197377,
       "num": 197377,
       "word": "湿气排出的八个表现",
       "onboard_time": 1714789998,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 197051,
+      "num": 197051,
+      "word": "刘忻 小哭包",
+      "onboard_time": 1714803319,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 196703,
@@ -819,20 +859,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193215,
-      "num": 193215,
-      "word": "正式被确诊为荒野女巫",
-      "onboard_time": 1714803681,
-      "rank": 26,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 191402,
-      "num": 191402,
-      "word": "刘忻 小哭包",
-      "onboard_time": 1714803319,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 193503,
+      "num": 193503,
+      "word": "李现cos孙悟空",
+      "onboard_time": 1714802898,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 190325,
@@ -865,6 +897,14 @@
       "onboard_time": 1714795038,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185471,
+      "num": 185471,
+      "word": "韩最毒美女连环杀人犯真容曝光",
+      "onboard_time": 1714803798,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183923,
@@ -923,14 +963,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 174813,
-      "num": 174813,
-      "word": "张超改名就相当于",
-      "onboard_time": 1714803138,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173809,
       "num": 173809,
       "word": "感觉有一亿人在衢州干饭",
@@ -945,14 +977,6 @@
       "onboard_time": 1714750041,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170199,
-      "num": 170199,
-      "word": "网传梅大高速茶阳路段塌方现场为异地旧图",
-      "onboard_time": 1714803258,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169090,
@@ -985,6 +1009,14 @@
       "onboard_time": 1714783218,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165211,
+      "num": 165211,
+      "word": "再也不敢不涂防晒出门了",
+      "onboard_time": 1714801818,
+      "rank": 36,
+      "category": "美妆"
     },
     {
       "raw_hot": 164642,
@@ -1043,20 +1075,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153258,
+      "num": 153258,
+      "word": "周深五四演讲",
+      "onboard_time": 1714803438,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152443,
       "num": 236117,
       "word": "广东通报一家五口海边游玩落水致4死",
       "onboard_time": 1714737799,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152384,
-      "num": 152384,
-      "word": "再也不敢不涂防晒出门了",
-      "onboard_time": 1714801818,
-      "rank": 36,
-      "category": "美妆"
     },
     {
       "raw_hot": 151804,
@@ -1097,14 +1129,6 @@
       "onboard_time": 1714794320,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 146617,
-      "num": 146617,
-      "word": "李现cos孙悟空",
-      "onboard_time": 1714802898,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 146590,
@@ -1153,14 +1177,6 @@
       "onboard_time": 1714802958,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140915,
-      "num": 140915,
-      "word": "周深五四演讲",
-      "onboard_time": 1714803438,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 139519,
@@ -1427,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108601,
+      "num": 108601,
+      "word": "当妈妈交代化冻肉馅我忘了",
+      "onboard_time": 1714803858,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106324,
       "num": 106324,
       "word": "结婚当天一对燕子在婚房比翼双飞",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1714790177,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100143,
+      "num": 100143,
+      "word": "工藤新一 智性恋天花板",
+      "onboard_time": 1714804458,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 99613,

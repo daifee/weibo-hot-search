@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714803772479,
+  "endTime": 1714804486612,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1475707,
+      "num": 1475707,
+      "word": "香飘飘日本超市讽核污水",
+      "onboard_time": 1714800618,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1474531,
       "num": 1474531,
       "word": "马小跳 跳伞",
@@ -337,14 +345,6 @@
       "onboard_time": 1714532777,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1357027,
-      "num": 1357027,
-      "word": "香飘飘日本超市讽核污水",
-      "onboard_time": 1714800618,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1343281,
@@ -1411,6 +1411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 612869,
+      "num": 392204,
+      "word": "戚薇小考又是0分",
+      "onboard_time": 1714802898,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 612363,
       "num": 612363,
       "word": "对韩国的滤镜慢慢破碎了",
@@ -1712,6 +1720,14 @@
       "word": "张超改名",
       "onboard_time": 1714780756,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 519266,
+      "num": 210082,
+      "word": "邓超被孙俪赶出家门",
+      "onboard_time": 1714803858,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -2107,6 +2123,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 437596,
+      "num": 392325,
+      "word": "刘老师 没有一部烂片逼疯不了的人",
+      "onboard_time": 1714800978,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 437434,
       "num": 437434,
       "word": "观音桥网红天桥因人流火爆而限流",
@@ -2427,14 +2451,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 392325,
-      "num": 392325,
-      "word": "刘老师 没有一部烂片逼疯不了的人",
-      "onboard_time": 1714800978,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 392169,
       "num": 392169,
       "word": "陈昊宇第22名",
@@ -2465,6 +2481,14 @@
       "onboard_time": 1714788798,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386724,
+      "num": 328457,
+      "word": "龙门石窟游客惊叹到下巴脱臼",
+      "onboard_time": 1714802358,
+      "rank": 12,
+      "category": "旅游"
     },
     {
       "raw_hot": 386634,
@@ -2731,14 +2755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 345891,
-      "num": 331228,
-      "word": "戚薇小考又是0分",
-      "onboard_time": 1714802898,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 345485,
       "num": 345485,
       "word": "原著陈麦冬拉黑了庄洁三次",
@@ -2897,14 +2913,6 @@
       "onboard_time": 1714575979,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 328457,
-      "num": 328457,
-      "word": "龙门石窟游客惊叹到下巴脱臼",
-      "onboard_time": 1714802358,
-      "rank": 12,
-      "category": "旅游"
     },
     {
       "raw_hot": 328238,
@@ -3123,6 +3131,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 296983,
+      "num": 296983,
+      "word": "韩雪vocal",
+      "onboard_time": 1714802598,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296315,
       "num": 296315,
       "word": "星河 第五人格",
@@ -3251,6 +3267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284005,
+      "num": 284005,
+      "word": "网传梅大高速茶阳路段塌方现场为异地旧图",
+      "onboard_time": 1714803258,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283038,
       "num": 283038,
       "word": "金智媛教的眼泪女王中文台词",
@@ -3291,14 +3315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278376,
-      "num": 278376,
-      "word": "韩雪vocal",
-      "onboard_time": 1714802598,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 275634,
       "num": 275634,
       "word": "WTT",
@@ -3312,6 +3328,14 @@
       "word": "女子腿绑24个鸭蛋入境被查",
       "onboard_time": 1714710738,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274572,
+      "num": 274572,
+      "word": "男子在新疆滑雪摔伤抢救无效死亡",
+      "onboard_time": 1714802717,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -4227,6 +4251,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 211920,
+      "num": 211920,
+      "word": "正式被确诊为荒野女巫",
+      "onboard_time": 1714803681,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 211241,
       "num": 211241,
       "word": "五一档新片票房破9亿",
@@ -4385,6 +4417,14 @@
       "onboard_time": 1714742359,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206294,
+      "num": 206294,
+      "word": "张超改名就相当于",
+      "onboard_time": 1714803138,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 205912,
@@ -4755,14 +4795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198068,
-      "num": 215746,
-      "word": "男子在新疆滑雪摔伤抢救无效死亡",
-      "onboard_time": 1714802717,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197714,
       "num": 197714,
       "word": "河大礼堂着火后房顶基本坍塌",
@@ -4825,6 +4857,14 @@
       "onboard_time": 1714749562,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197051,
+      "num": 197051,
+      "word": "刘忻 小哭包",
+      "onboard_time": 1714803319,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 196838,
@@ -4971,12 +5011,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193215,
-      "num": 193215,
-      "word": "正式被确诊为荒野女巫",
-      "onboard_time": 1714803681,
-      "rank": 26,
-      "category": "动漫"
+      "raw_hot": 193503,
+      "num": 193503,
+      "word": "李现cos孙悟空",
+      "onboard_time": 1714802898,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 193029,
@@ -5017,14 +5057,6 @@
       "onboard_time": 1714527018,
       "rank": 26,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 191402,
-      "num": 191402,
-      "word": "刘忻 小哭包",
-      "onboard_time": 1714803319,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 191194,
@@ -5257,6 +5289,14 @@
       "onboard_time": 1714614617,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 185471,
+      "num": 185471,
+      "word": "韩最毒美女连环杀人犯真容曝光",
+      "onboard_time": 1714803798,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185457,
@@ -5627,14 +5667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174813,
-      "num": 174813,
-      "word": "张超改名就相当于",
-      "onboard_time": 1714803138,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174752,
       "num": 174752,
       "word": "月球背面",
@@ -5809,14 +5841,6 @@
       "onboard_time": 1714637719,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 170199,
-      "num": 170199,
-      "word": "网传梅大高速茶阳路段塌方现场为异地旧图",
-      "onboard_time": 1714803258,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169960,
@@ -6025,6 +6049,14 @@
       "onboard_time": 1714564278,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165211,
+      "num": 165211,
+      "word": "再也不敢不涂防晒出门了",
+      "onboard_time": 1714801818,
+      "rank": 36,
+      "category": "美妆"
     },
     {
       "raw_hot": 165137,
@@ -6475,6 +6507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153258,
+      "num": 153258,
+      "word": "周深五四演讲",
+      "onboard_time": 1714803438,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152974,
       "num": 152974,
       "word": "学养老毕业3年成班上唯一没转行的",
@@ -6505,14 +6545,6 @@
       "onboard_time": 1714642759,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152384,
-      "num": 152384,
-      "word": "再也不敢不涂防晒出门了",
-      "onboard_time": 1714801818,
-      "rank": 36,
-      "category": "美妆"
     },
     {
       "raw_hot": 152245,
@@ -6803,14 +6835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146617,
-      "num": 146617,
-      "word": "李现cos孙悟空",
-      "onboard_time": 1714802898,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146590,
       "num": 146590,
       "word": "起猛了遇到孙策给扁鹊下毒了",
@@ -7073,14 +7097,6 @@
       "onboard_time": 1714722320,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140915,
-      "num": 140915,
-      "word": "周深五四演讲",
-      "onboard_time": 1714803438,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 140906,
@@ -8651,6 +8667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108601,
+      "num": 108601,
+      "word": "当妈妈交代化冻肉馅我忘了",
+      "onboard_time": 1714803858,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108425,
       "num": 108425,
       "word": "外酥里嫩的房子",
@@ -8945,6 +8969,14 @@
       "onboard_time": 1714604953,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 100143,
+      "num": 100143,
+      "word": "工藤新一 智性恋天花板",
+      "onboard_time": 1714804458,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 99613,
