@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714844077059,
+  "endTime": 1714846885900,
   "band_list": [
     {
       "raw_hot": 877700,
@@ -179,6 +179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 184981,
+      "num": 142705,
+      "word": "晚上比早晨重3斤是减重失败了吗",
+      "onboard_time": 1714842076,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 181754,
       "num": 217955,
       "word": "张杰青年节唱少年中国说",
@@ -201,14 +209,6 @@
       "onboard_time": 1714821138,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 155675,
-      "num": 142705,
-      "word": "晚上比早晨重3斤是减重失败了吗",
-      "onboard_time": 1714842076,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 155224,
@@ -241,6 +241,14 @@
       "onboard_time": 1714835900,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137415,
+      "num": 142738,
+      "word": "国铁集团回应高铁票价将上涨",
+      "onboard_time": 1714841595,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132360,
@@ -313,14 +321,6 @@
       "onboard_time": 1714814298,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 103514,
-      "num": 142738,
-      "word": "国铁集团回应高铁票价将上涨",
-      "onboard_time": 1714841595,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98539,
@@ -451,6 +451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 63544,
+      "num": 142557,
+      "word": "布拉德皮特60岁状态",
+      "onboard_time": 1714843935,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61740,
       "num": 142629,
       "word": "五月天香港",
@@ -475,12 +483,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 48122,
-      "num": 142557,
-      "word": "布拉德皮特60岁状态",
-      "onboard_time": 1714843935,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 40631,
+      "num": 79265,
+      "word": "乃万橘发",
+      "onboard_time": 1714845913,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 5516,
