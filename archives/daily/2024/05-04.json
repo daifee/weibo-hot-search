@@ -1,6 +1,6 @@
 {
   "startTime": 1714753402355,
-  "endTime": 1714822441065,
+  "endTime": 1714825823529,
   "band_list": [
     {
       "raw_hot": 4324589,
@@ -75,6 +75,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1262189,
+      "num": 1262189,
+      "word": "金价跌至近一个月低点",
+      "onboard_time": 1714822098,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1245549,
       "num": 298348,
       "word": "蔡徐坤更博",
@@ -136,6 +144,14 @@
       "word": "殷世航为小冰冷发声",
       "onboard_time": 1714793299,
       "rank": 8,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 964066,
+      "num": 422768,
+      "word": "用户借胖猫事件煽动性别对立等被处置",
+      "onboard_time": 1714823419,
+      "rank": 10,
       "category": "社会新闻,网红"
     },
     {
@@ -403,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 564346,
+      "num": 564346,
+      "word": "为什么日本人门前爱放整排矿泉水瓶",
+      "onboard_time": 1714822098,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 559029,
       "num": 236172,
       "word": "胖猫跳江事发地摆满鲜花汉堡",
@@ -475,6 +499,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 500106,
+      "num": 500106,
+      "word": "华晨宇唱15分钟把太阳唱出来",
+      "onboard_time": 1714821439,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 495100,
       "num": 495100,
       "word": "日军731部队细菌战情报员信息披露",
@@ -523,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447503,
+      "num": 420635,
+      "word": "歌手2024",
+      "onboard_time": 1714823239,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 447052,
       "num": 447052,
       "word": "第五人格骑士",
@@ -539,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432281,
+      "num": 432281,
+      "word": "广东成立梅大高速塌方灾害调查评估组",
+      "onboard_time": 1714823659,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424802,
       "num": 424802,
       "word": "楼外楼",
@@ -553,6 +601,22 @@
       "onboard_time": 1714811779,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 418125,
+      "num": 418125,
+      "word": "李帝努脱了",
+      "onboard_time": 1714825459,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 416676,
+      "num": 416676,
+      "word": "杨幂认为红发是一种警告",
+      "onboard_time": 1714820778,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 415072,
@@ -603,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403401,
+      "num": 403401,
+      "word": "李晨去时代少年团演唱会",
+      "onboard_time": 1714823599,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 403273,
       "num": 298367,
       "word": "突然不在乎保研了",
@@ -625,6 +697,14 @@
       "onboard_time": 1714783037,
       "rank": 18,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 395551,
+      "num": 395551,
+      "word": "央视五四晚会",
+      "onboard_time": 1714822578,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 394316,
@@ -723,14 +803,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 353928,
-      "num": 353928,
-      "word": "杨幂认为红发是一种警告",
-      "onboard_time": 1714820778,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 351464,
       "num": 351464,
       "word": "iPhone16或改善无线充电功能",
@@ -771,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341919,
+      "num": 244399,
+      "word": "钟楚曦侯雯元去时代少年团演唱会",
+      "onboard_time": 1714822039,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 335627,
       "num": 335627,
       "word": "林更新孟子义不想近距离吃饼干",
@@ -809,14 +889,6 @@
       "onboard_time": 1714754957,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329183,
-      "num": 329183,
-      "word": "华晨宇唱15分钟把太阳唱出来",
-      "onboard_time": 1714821439,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 328706,
@@ -889,14 +961,6 @@
       "onboard_time": 1714817419,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 288876,
-      "num": 288876,
-      "word": "金价跌至近一个月低点",
-      "onboard_time": 1714822098,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 286142,
@@ -1035,6 +1099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249674,
+      "num": 242709,
+      "word": "00后辞职的人都在做什么",
+      "onboard_time": 1714822280,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249387,
       "num": 249387,
       "word": "新型婆媳关系",
@@ -1051,20 +1123,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 244399,
-      "num": 244399,
-      "word": "钟楚曦侯雯元去时代少年团演唱会",
-      "onboard_time": 1714822039,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 244087,
-      "num": 244087,
-      "word": "为什么日本人门前爱放整排矿泉水瓶",
-      "onboard_time": 1714822098,
-      "rank": 27,
-      "category": "科学科普"
+      "raw_hot": 243543,
+      "num": 242651,
+      "word": "深圳的天是漏了吗",
+      "onboard_time": 1714823599,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241260,
@@ -1081,6 +1145,14 @@
       "onboard_time": 1714783578,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 238873,
+      "num": 238873,
+      "word": "范丞丞唱了NINEPERCENT",
+      "onboard_time": 1714824200,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 238625,
@@ -1105,6 +1177,14 @@
       "onboard_time": 1714795756,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 232606,
+      "num": 232606,
+      "word": "严浩翔饭撒",
+      "onboard_time": 1714823239,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 230386,
@@ -1273,6 +1353,14 @@
       "onboard_time": 1714800079,
       "rank": 26,
       "category": "综艺,演出"
+    },
+    {
+      "raw_hot": 202516,
+      "num": 202516,
+      "word": "黄子弘凡蓝发",
+      "onboard_time": 1714823359,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 202476,
@@ -1507,6 +1595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175343,
+      "num": 162532,
+      "word": "鹿晗熬夜接老舅",
+      "onboard_time": 1714822399,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173809,
       "num": 173809,
       "word": "感觉有一亿人在衢州干饭",
@@ -1619,6 +1715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162892,
+      "num": 162892,
+      "word": "汤杯中国2比1马来西亚",
+      "onboard_time": 1714824800,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162205,
       "num": 162205,
       "word": "陈昊宇直播",
@@ -1657,6 +1761,14 @@
       "onboard_time": 1714819158,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 157756,
+      "num": 157756,
+      "word": "RC对战成都GG",
+      "onboard_time": 1714825760,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 155782,
@@ -1721,6 +1833,14 @@
       "onboard_time": 1714800978,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149986,
+      "num": 149986,
+      "word": "WTT",
+      "onboard_time": 1714823959,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 149910,
@@ -1811,12 +1931,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143716,
-      "num": 143716,
-      "word": "00后辞职的人都在做什么",
-      "onboard_time": 1714822280,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 142659,
+      "num": 142659,
+      "word": "关雪下跪卓文崩溃",
+      "onboard_time": 1714825399,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 142460,
@@ -1865,6 +1985,14 @@
       "onboard_time": 1714792399,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138072,
+      "num": 124466,
+      "word": "华晨宇去KTV唱凤凰传奇",
+      "onboard_time": 1714822638,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 137482,
@@ -1931,14 +2059,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 131135,
-      "num": 131135,
-      "word": "鹿晗熬夜接老舅",
-      "onboard_time": 1714822399,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129974,
       "num": 129974,
       "word": "尤伯杯中国1比0日本",
@@ -1961,6 +2081,14 @@
       "onboard_time": 1714794979,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126990,
+      "num": 123713,
+      "word": "15岁就懂得了当妈妈的不容易",
+      "onboard_time": 1714824498,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 126572,
@@ -2083,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119830,
+      "num": 119830,
+      "word": "林高远赛点示意对手擦边",
+      "onboard_time": 1714825760,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119532,
       "num": 119532,
       "word": "汤杯中国vs马来西亚",
@@ -2131,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115326,
+      "num": 115326,
+      "word": "林高远3比0舒莱比",
+      "onboard_time": 1714823057,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114527,
       "num": 114527,
       "word": "房东的猫 沙漠种树vlog",
@@ -2161,6 +2305,14 @@
       "onboard_time": 1714778894,
       "rank": 34,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 113217,
+      "num": 113217,
+      "word": "摩羯座的成长史",
+      "onboard_time": 1714824919,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 112853,

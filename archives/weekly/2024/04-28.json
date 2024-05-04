@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714822441065,
+  "endTime": 1714825823529,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -771,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1262189,
+      "num": 1262189,
+      "word": "金价跌至近一个月低点",
+      "onboard_time": 1714822098,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1259200,
       "num": 1259200,
       "word": "广州龙卷风已致5死33伤",
@@ -1384,6 +1392,14 @@
       "word": "殷世航为小冰冷发声",
       "onboard_time": 1714793299,
       "rank": 8,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 964066,
+      "num": 422768,
+      "word": "用户借胖猫事件煽动性别对立等被处置",
+      "onboard_time": 1714823419,
+      "rank": 10,
       "category": "社会新闻,网红"
     },
     {
@@ -3355,6 +3371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 564346,
+      "num": 564346,
+      "word": "为什么日本人门前爱放整排矿泉水瓶",
+      "onboard_time": 1714822098,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 562099,
       "num": 562099,
       "word": "沈景病",
@@ -3881,6 +3905,14 @@
       "onboard_time": 1714691953,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500106,
+      "num": 500106,
+      "word": "华晨宇唱15分钟把太阳唱出来",
+      "onboard_time": 1714821439,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 499678,
@@ -4483,6 +4515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447503,
+      "num": 420635,
+      "word": "歌手2024",
+      "onboard_time": 1714354697,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 447052,
       "num": 447052,
       "word": "第五人格骑士",
@@ -4667,6 +4707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432281,
+      "num": 432281,
+      "word": "广东成立梅大高速塌方灾害调查评估组",
+      "onboard_time": 1714823659,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432228,
       "num": 432228,
       "word": "王一博cos布布",
@@ -4835,6 +4883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 418125,
+      "num": 418125,
+      "word": "李帝努脱了",
+      "onboard_time": 1714825459,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 417331,
       "num": 417331,
       "word": "赵一博妆造",
@@ -4849,6 +4905,14 @@
       "onboard_time": 1714350799,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416676,
+      "num": 416676,
+      "word": "杨幂认为红发是一种警告",
+      "onboard_time": 1714820778,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 415608,
@@ -5067,6 +5131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403401,
+      "num": 403401,
+      "word": "李晨去时代少年团演唱会",
+      "onboard_time": 1714823599,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 403273,
       "num": 298367,
       "word": "突然不在乎保研了",
@@ -5169,6 +5241,14 @@
       "onboard_time": 1714783037,
       "rank": 18,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 395551,
+      "num": 395551,
+      "word": "央视五四晚会",
+      "onboard_time": 1714822578,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 394316,
@@ -5659,14 +5739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358842,
-      "num": 358842,
-      "word": "歌手2024",
-      "onboard_time": 1714354697,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 357919,
       "num": 357919,
       "word": "原北京站站长王丽娟被查",
@@ -5721,14 +5793,6 @@
       "onboard_time": 1714439657,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353928,
-      "num": 353928,
-      "word": "杨幂认为红发是一种警告",
-      "onboard_time": 1714820778,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 353848,
@@ -5897,6 +5961,14 @@
       "onboard_time": 1714744341,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 341919,
+      "num": 244399,
+      "word": "钟楚曦侯雯元去时代少年团演唱会",
+      "onboard_time": 1714822039,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 341853,
@@ -6121,14 +6193,6 @@
       "onboard_time": 1714575979,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 329183,
-      "num": 329183,
-      "word": "华晨宇唱15分钟把太阳唱出来",
-      "onboard_time": 1714821439,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 328862,
@@ -6841,14 +6905,6 @@
       "onboard_time": 1714698979,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 288876,
-      "num": 288876,
-      "word": "金价跌至近一个月低点",
-      "onboard_time": 1714822098,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 288202,
@@ -7747,6 +7803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 249674,
+      "num": 242709,
+      "word": "00后辞职的人都在做什么",
+      "onboard_time": 1714822280,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249628,
       "num": 249628,
       "word": "屠宰场处理一只活猫仅需几分钟",
@@ -7995,14 +8059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 244399,
-      "num": 244399,
-      "word": "钟楚曦侯雯元去时代少年团演唱会",
-      "onboard_time": 1714822039,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 244204,
       "num": 244204,
       "word": "范丞丞超小声diss谢帝",
@@ -8011,18 +8067,18 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244087,
-      "num": 244087,
-      "word": "为什么日本人门前爱放整排矿泉水瓶",
-      "onboard_time": 1714822098,
-      "rank": 27,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 243708,
       "num": 243708,
       "word": "00后没抢到票打车3000多公里回家",
       "onboard_time": 1714297758,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243543,
+      "num": 242651,
+      "word": "深圳的天是漏了吗",
+      "onboard_time": 1714823599,
       "rank": 23,
       "category": "社会新闻"
     },
@@ -8208,6 +8264,14 @@
       "word": "乘风2024一公排名",
       "onboard_time": 1714713918,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238873,
+      "num": 238873,
+      "word": "范丞丞唱了NINEPERCENT",
+      "onboard_time": 1714824200,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -8425,6 +8489,14 @@
       "onboard_time": 1714310659,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232606,
+      "num": 232606,
+      "word": "严浩翔饭撒",
+      "onboard_time": 1714823239,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 232570,
@@ -9817,6 +9889,14 @@
       "onboard_time": 1714707499,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 202516,
+      "num": 202516,
+      "word": "黄子弘凡蓝发",
+      "onboard_time": 1714823359,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 202476,
@@ -12035,6 +12115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175343,
+      "num": 162532,
+      "word": "鹿晗熬夜接老舅",
+      "onboard_time": 1714822399,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175301,
       "num": 175301,
       "word": "赵昭仪演爽了",
@@ -12939,6 +13027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162892,
+      "num": 162892,
+      "word": "汤杯中国2比1马来西亚",
+      "onboard_time": 1714824800,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162711,
       "num": 162711,
       "word": "宫崎骏治好了我的年龄焦虑",
@@ -13256,6 +13352,14 @@
       "word": "Doinb预测Uzi老头杯夺冠",
       "onboard_time": 1714279519,
       "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 157756,
+      "num": 157756,
+      "word": "RC对战成都GG",
+      "onboard_time": 1714825760,
+      "rank": 39,
       "category": "电竞"
     },
     {
@@ -14643,14 +14747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143716,
-      "num": 143716,
-      "word": "00后辞职的人都在做什么",
-      "onboard_time": 1714822280,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 143406,
       "num": 143406,
       "word": "周杰伦兰亭序的杀伤力",
@@ -14680,6 +14776,14 @@
       "word": "书卷一梦将官宣",
       "onboard_time": 1714404859,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142659,
+      "num": 142659,
+      "word": "关雪下跪卓文崩溃",
+      "onboard_time": 1714825399,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -15025,6 +15129,14 @@
       "onboard_time": 1714792399,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138072,
+      "num": 124466,
+      "word": "华晨宇去KTV唱凤凰传奇",
+      "onboard_time": 1714822638,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 137963,
@@ -15683,14 +15795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131135,
-      "num": 131135,
-      "word": "鹿晗熬夜接老舅",
-      "onboard_time": 1714822399,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130966,
       "num": 130966,
       "word": "吉赛尔风格",
@@ -16123,6 +16227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126990,
+      "num": 123713,
+      "word": "15岁就懂得了当妈妈的不容易",
+      "onboard_time": 1714824498,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126720,
       "num": 126720,
       "word": "平均年龄39岁航天员空间站聚会",
@@ -16547,6 +16659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119830,
+      "num": 119830,
+      "word": "林高远赛点示意对手擦边",
+      "onboard_time": 1714825760,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119789,
       "num": 119789,
       "word": "2024五一档电影口碑",
@@ -16851,6 +16971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115326,
+      "num": 115326,
+      "word": "林高远3比0舒莱比",
+      "onboard_time": 1714823057,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115265,
       "num": 115265,
       "word": "生活在别处的我定档",
@@ -17041,6 +17169,14 @@
       "onboard_time": 1714778894,
       "rank": 34,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 113217,
+      "num": 113217,
+      "word": "摩羯座的成长史",
+      "onboard_time": 1714824919,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 113191,
