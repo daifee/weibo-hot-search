@@ -1,6 +1,6 @@
 {
   "startTime": 1714753402355,
-  "endTime": 1714833252028,
+  "endTime": 1714835886552,
   "band_list": [
     {
       "raw_hot": 4324589,
@@ -195,6 +195,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 877645,
+      "num": 256220,
+      "word": "你那坨肉根本就不是副乳",
+      "onboard_time": 1714833079,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 877367,
       "num": 877367,
       "word": "人均150的高价火锅偷偷降级",
@@ -209,6 +217,14 @@
       "onboard_time": 1714793299,
       "rank": 26,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 815964,
+      "num": 815964,
+      "word": "陕西一男子花62元买彩票中1.48亿元",
+      "onboard_time": 1714829178,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 815187,
@@ -265,6 +281,14 @@
       "onboard_time": 1714780996,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 750806,
+      "num": 545988,
+      "word": "薛之谦一眼认出演果果的小女孩",
+      "onboard_time": 1714833079,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 741907,
@@ -339,14 +363,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 663340,
-      "num": 663340,
-      "word": "陕西一男子花62元买彩票中1.48亿元",
-      "onboard_time": 1714829178,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 660616,
       "num": 660616,
       "word": "为什么日本人门前爱放整排矿泉水瓶",
@@ -401,6 +417,14 @@
       "onboard_time": 1714809438,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 625361,
+      "num": 625361,
+      "word": "雷军回应不建议给年轻人太多建议",
+      "onboard_time": 1714832780,
+      "rank": 31,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 624079,
@@ -579,6 +603,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 479783,
+      "num": 479783,
+      "word": "纪凌尘换发型了",
+      "onboard_time": 1714834642,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478920,
       "num": 478920,
       "word": "十个勤天五四晚会舞台",
@@ -628,7 +660,7 @@
     },
     {
       "raw_hot": 454274,
-      "num": 354078,
+      "num": 438219,
       "word": "卵巢过快衰老的几个信号",
       "onboard_time": 1714828161,
       "rank": 21,
@@ -883,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373765,
+      "num": 373765,
+      "word": "14岁男孩当伴郎遇班主任伴娘",
+      "onboard_time": 1714834521,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371325,
       "num": 371325,
       "word": "林俊杰唱了一生的爱",
@@ -1003,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328449,
+      "num": 328449,
+      "word": "TF家族四代去了时代少年团演唱会",
+      "onboard_time": 1714835299,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 316272,
       "num": 316272,
       "word": "工藤新一第30个17岁",
@@ -1073,6 +1121,14 @@
       "onboard_time": 1714817419,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288725,
+      "num": 288725,
+      "word": "无尽的冒险",
+      "onboard_time": 1714833501,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 286142,
@@ -1323,14 +1379,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 232756,
-      "num": 210800,
-      "word": "你那坨肉根本就不是副乳",
-      "onboard_time": 1714833079,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 232606,
       "num": 232606,
       "word": "严浩翔饭撒",
@@ -1451,6 +1499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216092,
+      "num": 216092,
+      "word": "90后自媒体创业2天入账74万",
+      "onboard_time": 1714834821,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215190,
       "num": 571697,
       "word": "41度高温下交警女儿暴躁宠爹",
@@ -1499,14 +1555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 208394,
-      "num": 208394,
-      "word": "雷军回应不建议给年轻人太多建议",
-      "onboard_time": 1714832780,
-      "rank": 31,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 208092,
       "num": 208092,
       "word": "薛之谦新疆抢票",
@@ -1537,6 +1585,14 @@
       "onboard_time": 1714742122,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205867,
+      "num": 205867,
+      "word": "薛之谦太原",
+      "onboard_time": 1714835421,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 205498,
@@ -1585,14 +1641,6 @@
       "onboard_time": 1714805837,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 201019,
-      "num": 201019,
-      "word": "薛之谦一眼认出演果果的小女孩",
-      "onboard_time": 1714833079,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 200946,
@@ -1649,6 +1697,14 @@
       "onboard_time": 1714798336,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197816,
+      "num": 197816,
+      "word": "eStar让二追四",
+      "onboard_time": 1714835061,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 197377,
@@ -1747,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189845,
+      "num": 189845,
+      "word": "珉佑直播",
+      "onboard_time": 1714835241,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189788,
       "num": 215194,
       "word": "庄智渊3比0林昀儒",
@@ -1761,6 +1825,14 @@
       "onboard_time": 1714820480,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189001,
+      "num": 189001,
+      "word": "孙千央视五四晚会造型",
+      "onboard_time": 1714833201,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 187717,
@@ -1891,6 +1963,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 177691,
+      "num": 177691,
+      "word": "汪苏泷 泰安音乐节",
+      "onboard_time": 1714834580,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 176981,
       "num": 176981,
       "word": "凤凰传奇演唱会",
@@ -1953,6 +2033,14 @@
       "onboard_time": 1714799598,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168719,
+      "num": 168719,
+      "word": "刘耀文的表情管理",
+      "onboard_time": 1714833920,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 168072,
@@ -2041,6 +2129,14 @@
       "onboard_time": 1714821558,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163336,
+      "num": 163336,
+      "word": "苏打绿成都",
+      "onboard_time": 1714835659,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 162892,
@@ -2251,6 +2347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144942,
+      "num": 144942,
+      "word": "成都GG深渊总冠军",
+      "onboard_time": 1714833980,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143973,
       "num": 143973,
       "word": "任贤齐 香港",
@@ -2265,6 +2369,14 @@
       "onboard_time": 1714793299,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142797,
+      "num": 142797,
+      "word": "库克现身巴菲特股东大会现场",
+      "onboard_time": 1714835599,
+      "rank": 42,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 142460,
@@ -2411,12 +2523,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129902,
+      "num": 129902,
+      "word": "凤凰传奇军训",
+      "onboard_time": 1714835001,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128116,
       "num": 236095,
       "word": "信一仙品",
       "onboard_time": 1714751900,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127918,
+      "num": 127918,
+      "word": "中国队晋级汤姆斯杯决赛",
+      "onboard_time": 1714835061,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 127463,
@@ -2465,14 +2593,6 @@
       "onboard_time": 1714810040,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 125139,
-      "num": 125139,
-      "word": "孙千央视五四晚会造型",
-      "onboard_time": 1714833201,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 124056,
@@ -2577,6 +2697,14 @@
       "onboard_time": 1714741102,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120224,
+      "num": 120224,
+      "word": "KPL",
+      "onboard_time": 1714833381,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 120193,
@@ -3060,7 +3188,7 @@
     },
     {
       "raw_hot": 44961,
-      "num": 313831,
+      "num": 375385,
       "word": "雷军五四青年节寄语",
       "onboard_time": 1714832000,
       "rank": 43,
