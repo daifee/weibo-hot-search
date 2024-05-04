@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714800836441,
+  "endTime": 1714803772479,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -625,6 +625,14 @@
       "onboard_time": 1714303279,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1357027,
+      "num": 1357027,
+      "word": "香飘飘日本超市讽核污水",
+      "onboard_time": 1714800618,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1353551,
@@ -2572,7 +2580,7 @@
     },
     {
       "raw_hot": 654771,
-      "num": 475359,
+      "num": 633735,
       "word": "泽连斯基允许传染病和精神病患者入伍",
       "onboard_time": 1714797678,
       "rank": 11,
@@ -4435,6 +4443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 432794,
+      "num": 432794,
+      "word": "戚薇跟李承铉科普夏家三千金",
+      "onboard_time": 1714799837,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432228,
       "num": 432228,
       "word": "王一博cos布布",
@@ -4897,6 +4913,14 @@
       "onboard_time": 1714783037,
       "rank": 18,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 392325,
+      "num": 392325,
+      "word": "刘老师 没有一部烂片逼疯不了的人",
+      "onboard_time": 1714800978,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 392169,
@@ -5483,6 +5507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 345891,
+      "num": 331228,
+      "word": "戚薇小考又是0分",
+      "onboard_time": 1714802898,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345485,
       "num": 345485,
       "word": "原著陈麦冬拉黑了庄洁三次",
@@ -5761,6 +5793,14 @@
       "onboard_time": 1714462398,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328457,
+      "num": 328457,
+      "word": "龙门石窟游客惊叹到下巴脱臼",
+      "onboard_time": 1714802358,
+      "rank": 12,
+      "category": "旅游"
     },
     {
       "raw_hot": 328238,
@@ -6049,14 +6089,6 @@
       "onboard_time": 1714478237,
       "rank": 14,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 312641,
-      "num": 312641,
-      "word": "戚薇跟李承铉科普夏家三千金",
-      "onboard_time": 1714799837,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 312628,
@@ -6483,6 +6515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 285375,
+      "num": 285375,
+      "word": "吴镇宇给纪凌尘示范扇向佐巴掌",
+      "onboard_time": 1714799478,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285241,
       "num": 285241,
       "word": "中等生为什么成绩上不去",
@@ -6616,6 +6656,14 @@
       "word": "迪丽热巴美式证件照",
       "onboard_time": 1714572079,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 278376,
+      "num": 278376,
+      "word": "韩雪vocal",
+      "onboard_time": 1714802598,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -8091,14 +8139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 226529,
-      "num": 226529,
-      "word": "吴镇宇给纪凌尘示范扇向佐巴掌",
-      "onboard_time": 1714799478,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 226424,
       "num": 226424,
       "word": "太湖湾音乐节",
@@ -8827,6 +8867,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 207348,
+      "num": 189357,
+      "word": "国羽第20次打入尤伯杯决赛",
+      "onboard_time": 1714802779,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207201,
       "num": 207201,
       "word": "迪丽热巴推镇推时髦的巴丽",
@@ -9459,6 +9507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200186,
+      "num": 200186,
+      "word": "没有一顿火锅解决不了的事票房",
+      "onboard_time": 1714801696,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200055,
       "num": 200055,
       "word": "邓为顺毛白衬衫",
@@ -9633,6 +9689,14 @@
       "onboard_time": 1714629498,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198068,
+      "num": 215746,
+      "word": "男子在新疆滑雪摔伤抢救无效死亡",
+      "onboard_time": 1714802717,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197902,
@@ -10083,6 +10147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193215,
+      "num": 193215,
+      "word": "正式被确诊为荒野女巫",
+      "onboard_time": 1714803681,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 193158,
       "num": 193158,
       "word": "汤洪波成在轨飞行时间最长航天员",
@@ -10217,6 +10289,14 @@
       "onboard_time": 1714461919,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191402,
+      "num": 191402,
+      "word": "刘忻 小哭包",
+      "onboard_time": 1714803319,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 191385,
@@ -11171,14 +11251,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 179075,
-      "num": 179075,
-      "word": "香飘飘日本超市讽核污水",
-      "onboard_time": 1714800618,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178833,
       "num": 178833,
       "word": "成毅两大平台同时官宣",
@@ -11433,6 +11505,14 @@
       "onboard_time": 1714385898,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174813,
+      "num": 174813,
+      "word": "张超改名就相当于",
+      "onboard_time": 1714803138,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 174752,
@@ -11737,6 +11817,14 @@
       "onboard_time": 1714637719,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170199,
+      "num": 170199,
+      "word": "网传梅大高速茶阳路段塌方现场为异地旧图",
+      "onboard_time": 1714803258,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170102,
@@ -12971,6 +13059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152384,
+      "num": 152384,
+      "word": "再也不敢不涂防晒出门了",
+      "onboard_time": 1714801818,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 152363,
       "num": 152363,
       "word": "迪丽热巴怼脸纯生图",
@@ -13145,6 +13241,14 @@
       "onboard_time": 1714727600,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150293,
+      "num": 150293,
+      "word": "刘忻是想起快女了吧",
+      "onboard_time": 1714800978,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 150281,
@@ -13563,6 +13667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146617,
+      "num": 146617,
+      "word": "李现cos孙悟空",
+      "onboard_time": 1714802898,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146599,
       "num": 146599,
       "word": "秦岚花少明信片",
@@ -13955,6 +14067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141351,
+      "num": 141351,
+      "word": "Tablo表演眼鼻嘴",
+      "onboard_time": 1714802958,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141291,
       "num": 141291,
       "word": "MRC对战HHDG",
@@ -13985,6 +14105,14 @@
       "onboard_time": 1714722320,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140915,
+      "num": 140915,
+      "word": "周深五四演讲",
+      "onboard_time": 1714803438,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 140906,
@@ -16739,6 +16867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102367,
+      "num": 102367,
+      "word": "到哪里感觉都有一亿人",
+      "onboard_time": 1714803016,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102336,
       "num": 117993,
       "word": "北伦敦德比",
@@ -18201,6 +18337,14 @@
       "onboard_time": 1714505411,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29533,
+      "num": 329588,
+      "word": "没班味的工作",
+      "onboard_time": 1714800858,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 29308,

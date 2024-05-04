@@ -1,6 +1,6 @@
 {
   "startTime": 1714753402355,
-  "endTime": 1714800836441,
+  "endTime": 1714803772479,
   "band_list": [
     {
       "raw_hot": 4324589,
@@ -40,6 +40,14 @@
       "word": "731部队最新罪证",
       "onboard_time": 1714790477,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1357027,
+      "num": 1357027,
+      "word": "香飘飘日本超市讽核污水",
+      "onboard_time": 1714800618,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 654771,
-      "num": 475359,
+      "num": 633735,
       "word": "泽连斯基允许传染病和精神病患者入伍",
       "onboard_time": 1714797678,
       "rank": 11,
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432794,
+      "num": 432794,
+      "word": "戚薇跟李承铉科普夏家三千金",
+      "onboard_time": 1714799837,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415072,
       "num": 448932,
       "word": "体脂率是身体最诚实的胖瘦指标",
@@ -353,6 +369,14 @@
       "onboard_time": 1714783037,
       "rank": 18,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 392325,
+      "num": 392325,
+      "word": "刘老师 没有一部烂片逼疯不了的人",
+      "onboard_time": 1714800978,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 387002,
@@ -403,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345891,
+      "num": 331228,
+      "word": "戚薇小考又是0分",
+      "onboard_time": 1714802898,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335627,
       "num": 335627,
       "word": "林更新孟子义不想近距离吃饼干",
@@ -435,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328457,
+      "num": 328457,
+      "word": "龙门石窟游客惊叹到下巴脱臼",
+      "onboard_time": 1714802358,
+      "rank": 12,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 316272,
       "num": 316272,
       "word": "工藤新一第30个17岁",
@@ -449,14 +489,6 @@
       "onboard_time": 1714691414,
       "rank": 32,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 312641,
-      "num": 312641,
-      "word": "戚薇跟李承铉科普夏家三千金",
-      "onboard_time": 1714799837,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 308362,
@@ -489,6 +521,22 @@
       "onboard_time": 1714783458,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285375,
+      "num": 285375,
+      "word": "吴镇宇给纪凌尘示范扇向佐巴掌",
+      "onboard_time": 1714799478,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 278376,
+      "num": 278376,
+      "word": "韩雪vocal",
+      "onboard_time": 1714802598,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 272968,
@@ -611,14 +659,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 226529,
-      "num": 226529,
-      "word": "吴镇宇给纪凌尘示范扇向佐巴掌",
-      "onboard_time": 1714799478,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222695,
       "num": 222695,
       "word": "欧文赛点的神",
@@ -657,6 +697,14 @@
       "onboard_time": 1714708999,
       "rank": 44,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 207348,
+      "num": 189357,
+      "word": "国羽第20次打入尤伯杯决赛",
+      "onboard_time": 1714802779,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 206715,
@@ -715,12 +763,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200186,
+      "num": 200186,
+      "word": "没有一顿火锅解决不了的事票房",
+      "onboard_time": 1714801696,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198905,
       "num": 198905,
       "word": "伦纳德状态",
       "onboard_time": 1714798336,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198068,
+      "num": 215746,
+      "word": "男子在新疆滑雪摔伤抢救无效死亡",
+      "onboard_time": 1714802717,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197377,
@@ -751,6 +815,22 @@
       "num": 195813,
       "word": "种地吧",
       "onboard_time": 1714799357,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193215,
+      "num": 193215,
+      "word": "正式被确诊为荒野女巫",
+      "onboard_time": 1714803681,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 191402,
+      "num": 191402,
+      "word": "刘忻 小哭包",
+      "onboard_time": 1714803319,
       "rank": 29,
       "category": "综艺"
     },
@@ -835,20 +915,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179075,
-      "num": 179075,
-      "word": "香飘飘日本超市讽核污水",
-      "onboard_time": 1714800618,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177858,
       "num": 177858,
       "word": "美国和沙特将达成历史性协议",
       "onboard_time": 1714771451,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 174813,
+      "num": 174813,
+      "word": "张超改名就相当于",
+      "onboard_time": 1714803138,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 173809,
@@ -865,6 +945,14 @@
       "onboard_time": 1714750041,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170199,
+      "num": 170199,
+      "word": "网传梅大高速茶阳路段塌方现场为异地旧图",
+      "onboard_time": 1714803258,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169090,
@@ -963,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152384,
+      "num": 152384,
+      "word": "再也不敢不涂防晒出门了",
+      "onboard_time": 1714801818,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 151804,
       "num": 151804,
       "word": "西安城墙的喷泉你瞒了大家多久",
@@ -979,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150293,
+      "num": 150293,
+      "word": "刘忻是想起快女了吧",
+      "onboard_time": 1714800978,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149910,
       "num": 149910,
       "word": "导演踩着李现底线拍春色寄情人",
@@ -993,6 +1097,14 @@
       "onboard_time": 1714794320,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 146617,
+      "num": 146617,
+      "word": "李现cos孙悟空",
+      "onboard_time": 1714802898,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 146590,
@@ -1033,6 +1145,22 @@
       "onboard_time": 1714787178,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141351,
+      "num": 141351,
+      "word": "Tablo表演眼鼻嘴",
+      "onboard_time": 1714802958,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140915,
+      "num": 140915,
+      "word": "周深五四演讲",
+      "onboard_time": 1714803438,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 139519,
@@ -1323,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102367,
+      "num": 102367,
+      "word": "到哪里感觉都有一亿人",
+      "onboard_time": 1714803016,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101298,
       "num": 101298,
       "word": "勇闯你的新世界",
@@ -1585,6 +1721,14 @@
       "onboard_time": 1714742900,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29533,
+      "num": 329588,
+      "word": "没班味的工作",
+      "onboard_time": 1714800858,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 29308,
