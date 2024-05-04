@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714857403490,
+  "endTime": 1714858440882,
   "band_list": [
     {
       "raw_hot": 877700,
@@ -499,7 +499,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 39793,
+      "raw_hot": 42255,
       "num": 61357,
       "word": "张碧晨演我不愿意早起",
       "onboard_time": 1714847352,
@@ -513,6 +513,14 @@
       "onboard_time": 1714848433,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12926,
+      "num": 28011,
+      "word": "小时候妈妈教你走路现在再教一次",
+      "onboard_time": 1714858151,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5516,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1714858440882,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 81356,
+        "num": 81356,
+        "word": "14岁男孩当伴郎遇班主任伴娘",
+        "onboard_time": 1714834521,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61312,
+        "num": 61312,
+        "word": "90后自媒体创业2天入账74万",
+        "onboard_time": 1714834821,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2028,
+        "num": 56909,
+        "word": "文化中国行我写家乡",
+        "onboard_time": 1714742900,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56773,
+        "num": 56773,
+        "word": "为什么日本人门前爱放整排矿泉水瓶",
+        "onboard_time": 1714822098,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 49834,
+        "num": 49834,
+        "word": "用户借胖猫事件煽动性别对立等被处置",
+        "onboard_time": 1714823419,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 41359,
+        "num": 41359,
+        "word": "广东139个暴雨预警生效中",
+        "onboard_time": 1714847833,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39626,
+        "num": 39626,
+        "word": "华晨宇唱15分钟把太阳唱出来",
+        "onboard_time": 1714821439,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37685,
+        "num": 37685,
+        "word": "雷军回应不建议给年轻人太多建议",
+        "onboard_time": 1714832780,
+        "rank": 7,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 33802,
+        "num": 33802,
+        "word": "卵巢过快衰老的几个信号",
+        "onboard_time": 1714828161,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33726,
+        "num": 33726,
+        "word": "国铁集团回应高铁票价将上涨",
+        "onboard_time": 1714841595,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81651,
+        "num": 33555,
+        "word": "香飘飘回应讽日事件",
+        "onboard_time": 1714827619,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46405,
+        "num": 33537,
+        "word": "香飘飘",
+        "onboard_time": 1714837399,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43459,
+        "num": 33389,
+        "word": "网友曾在泰妍家住宿",
+        "onboard_time": 1714840816,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33213,
+        "num": 33213,
+        "word": "陕西一男子花62元买彩票中1.48亿元",
+        "onboard_time": 1714829178,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31966,
+        "num": 31966,
+        "word": "潘玮柏演唱会大屏上的一家三口",
+        "onboard_time": 1714842255,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28678,
+        "num": 28678,
+        "word": "纪凌尘换发型了",
+        "onboard_time": 1714834642,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28248,
+        "num": 28248,
+        "word": "俄媒称俄内务部决定通缉泽连斯基",
+        "onboard_time": 1714830980,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 27323,
+        "num": 28240,
+        "word": "薛之谦一眼认出演果果的小女孩",
+        "onboard_time": 1714833079,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25742,
+        "num": 28236,
+        "word": "金价",
+        "onboard_time": 1714827799,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25248,
+        "num": 28226,
+        "word": "乃万橘发",
+        "onboard_time": 1714845913,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93555,
+        "num": 28219,
+        "word": "加拿大一家3男捐精捐出超600个娃",
+        "onboard_time": 1714838898,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51332,
+        "num": 28212,
+        "word": "晚上比早晨重3斤是减重失败了吗",
+        "onboard_time": 1714842076,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 42255,
+        "num": 28207,
+        "word": "张碧晨演我不愿意早起",
+        "onboard_time": 1714847352,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33974,
+        "num": 28199,
+        "word": "你那坨肉根本就不是副乳",
+        "onboard_time": 1714833079,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25114,
+        "num": 28194,
+        "word": "歌手2024",
+        "onboard_time": 1714823239,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24580,
+        "num": 28181,
+        "word": "8岁女孩从300度近视变成400度远视",
+        "onboard_time": 1714827920,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21753,
+        "num": 28179,
+        "word": "金价跌至近一个月低点",
+        "onboard_time": 1714822098,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21234,
+        "num": 28168,
+        "word": "向佐怎么瘦成这样了",
+        "onboard_time": 1714836680,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20424,
+        "num": 28159,
+        "word": "邓超问孙俪能回家了吗",
+        "onboard_time": 1714829240,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18812,
+        "num": 28154,
+        "word": "施一公谈大学生用ChatGPT",
+        "onboard_time": 1714831581,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20189,
+        "num": 28148,
+        "word": "男朋友开车来接我说要我平摊油费",
+        "onboard_time": 1714830380,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19849,
+        "num": 28140,
+        "word": "林俊杰唱了一生的爱",
+        "onboard_time": 1714828701,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19844,
+        "num": 28130,
+        "word": "张杰青年节唱少年中国说",
+        "onboard_time": 1714838719,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19566,
+        "num": 28120,
+        "word": "布拉德皮特60岁状态",
+        "onboard_time": 1714843935,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19523,
+        "num": 28110,
+        "word": "从鹈鹕嘴里掏出被吞的鸭子同事",
+        "onboard_time": 1714832059,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19111,
+        "num": 28109,
+        "word": "男朋友想一个人去旅游该阻止吗",
+        "onboard_time": 1714831581,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17897,
+        "num": 28101,
+        "word": "95后小伙洗鞋月入4万",
+        "onboard_time": 1714829059,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17298,
+        "num": 28093,
+        "word": "第五人格发布会",
+        "onboard_time": 1714814298,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16862,
+        "num": 28082,
+        "word": "眼泪女王特辑",
+        "onboard_time": 1714827320,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16818,
+        "num": 28074,
+        "word": "孙千央视五四晚会造型",
+        "onboard_time": 1714833201,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15496,
+        "num": 28068,
+        "word": "张真源绿海",
+        "onboard_time": 1714825820,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14410,
+        "num": 28063,
+        "word": "吴彤李晨钟楚曦侯雯元自拍",
+        "onboard_time": 1714837698,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13855,
+        "num": 28053,
+        "word": "李帝努脱了",
+        "onboard_time": 1714825459,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13721,
+        "num": 28043,
+        "word": "金希澈韩庚合照",
+        "onboard_time": 1714818320,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13645,
+        "num": 28041,
+        "word": "逐花归海首秀首胜",
+        "onboard_time": 1714840457,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13520,
+        "num": 28028,
+        "word": "时代少年团演唱会直播",
+        "onboard_time": 1714821498,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13499,
+        "num": 28020,
+        "word": "十个勤天五四晚会舞台",
+        "onboard_time": 1714827500,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13455,
+        "num": 28011,
+        "word": "凤凰传奇 开蹦",
+        "onboard_time": 1714821138,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12926,
+        "num": 28011,
+        "word": "小时候妈妈教你走路现在再教一次",
+        "onboard_time": 1714858151,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12304,
+        "num": 27996,
+        "word": "五月天香港",
+        "onboard_time": 1714841836,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国青年正当时#"
+    }
+  }
+}
