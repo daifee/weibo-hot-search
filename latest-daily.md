@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/05 00:21:24 ~ 2024/05/05 03:15:29
+本榜单时间：2024/05/05 00:21:24 ~ 2024/05/05 03:34:14
 </p>
 </blockquote>
 <p>
@@ -375,6 +375,12 @@ TF家族四代去了时代少年团演唱会（热度：234875）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C139%E4%B8%AA%E6%9A%B4%E9%9B%A8%E9%A2%84%E8%AD%A6%E7%94%9F%E6%95%88%E4%B8%AD%23" target="weibo">
+广东139个暴雨预警生效中（热度：56322）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%90%E8%8A%B1%E5%BD%92%E6%B5%B7%E9%A6%96%E7%A7%80%E9%A6%96%E8%83%9C%23" target="weibo">
 逐花归海首秀首胜（热度：55090）
 </a>
@@ -383,12 +389,6 @@ TF家族四代去了时代少年团演唱会（热度：234875）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%BC%94%E6%88%91%E4%B8%8D%E6%84%BF%E6%84%8F%E6%97%A9%E8%B5%B7%23" target="weibo">
 张碧晨演我不愿意早起（热度：38089）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C139%E4%B8%AA%E6%9A%B4%E9%9B%A8%E9%A2%84%E8%AD%A6%E7%94%9F%E6%95%88%E4%B8%AD%23" target="weibo">
-广东139个暴雨预警生效中（热度：29769）
 </a>
 </li>
 
