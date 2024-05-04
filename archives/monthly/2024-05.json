@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714818836378,
+  "endTime": 1714821238910,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -289,6 +289,14 @@
       "onboard_time": 1714805301,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1479307,
+      "num": 1479307,
+      "word": "第五人格发布会",
+      "onboard_time": 1714814298,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 1475707,
@@ -587,6 +595,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1097258,
+      "num": 219818,
+      "word": "金希澈韩庚合照",
+      "onboard_time": 1714818320,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1091321,
       "num": 1091321,
       "word": "Tiffany被年轻人抛弃了吗",
@@ -664,6 +680,14 @@
       "word": "张元英在家除了睡觉不会躺着",
       "onboard_time": 1714629679,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 998290,
+      "num": 998290,
+      "word": "歌手",
+      "onboard_time": 1714818859,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -849,6 +873,14 @@
       "onboard_time": 1714710198,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 861512,
+      "num": 861512,
+      "word": "22岁女生5天独自爬完五岳",
+      "onboard_time": 1714818680,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 861149,
@@ -1043,14 +1075,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 777571,
-      "num": 777571,
-      "word": "第五人格发布会",
-      "onboard_time": 1714814298,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 775594,
       "num": 775594,
       "word": "商人拿1000万帮县委书记女儿买房",
@@ -1068,7 +1092,7 @@
     },
     {
       "raw_hot": 765313,
-      "num": 325026,
+      "num": 434926,
       "word": "香飘飘",
       "onboard_time": 1714813939,
       "rank": 19,
@@ -1483,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 620467,
+      "num": 430599,
+      "word": "12315回应外卖空包事件",
+      "onboard_time": 1714816458,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 617150,
       "num": 617150,
       "word": "他真的娶到了高中就想娶的女孩",
@@ -1625,6 +1657,14 @@
       "onboard_time": 1714706357,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571449,
+      "num": 505520,
+      "word": "孙丞潇说喜欢郑合惠子",
+      "onboard_time": 1714818498,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 566111,
@@ -1939,14 +1979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 494568,
-      "num": 322057,
-      "word": "12315回应外卖空包事件",
-      "onboard_time": 1714816458,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 494520,
       "num": 494520,
       "word": "长相思2排播",
@@ -2171,14 +2203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 454141,
-      "num": 212762,
-      "word": "金希澈韩庚合照",
-      "onboard_time": 1714818320,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 452993,
       "num": 337627,
       "word": "梅大高速塌陷货车司机夫妇喊停后车",
@@ -2217,6 +2241,14 @@
       "onboard_time": 1714735639,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 447052,
+      "num": 447052,
+      "word": "第五人格骑士",
+      "onboard_time": 1714819579,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 446345,
@@ -2635,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394250,
+      "num": 394250,
+      "word": "梅州全力做好梅大高速塌方相关调查",
+      "onboard_time": 1714819818,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392169,
       "num": 392169,
       "word": "陈昊宇第22名",
@@ -3011,6 +3051,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 343681,
+      "num": 343681,
+      "word": "周雨彤又上央视了",
+      "onboard_time": 1714819158,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343676,
       "num": 343676,
       "word": "Ale 离队",
@@ -3121,6 +3169,14 @@
       "onboard_time": 1714572800,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 332072,
+      "num": 217205,
+      "word": "突然不在乎保研了",
+      "onboard_time": 1714818798,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 331516,
@@ -3923,14 +3979,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 249897,
-      "num": 249897,
-      "word": "孙丞潇说喜欢郑合惠子",
-      "onboard_time": 1714818498,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 249387,
       "num": 249387,
       "word": "新型婆媳关系",
@@ -4403,20 +4451,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223146,
+      "num": 245935,
+      "word": "租客称房东隔窗验灰扣费240元",
+      "onboard_time": 1714815437,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222695,
       "num": 222695,
       "word": "欧文赛点的神",
       "onboard_time": 1714797317,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221969,
-      "num": 245935,
-      "word": "租客称房东隔窗验灰扣费240元",
-      "onboard_time": 1714815437,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220835,
@@ -4548,7 +4596,7 @@
     },
     {
       "raw_hot": 215190,
-      "num": 408271,
+      "num": 439300,
       "word": "41度高温下交警女儿暴躁宠爹",
       "onboard_time": 1714809619,
       "rank": 9,
@@ -4568,6 +4616,14 @@
       "word": "他哽咽着感谢但该说感谢的是我们",
       "onboard_time": 1714734259,
       "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 213814,
+      "num": 213814,
+      "word": "杨幂认为红发是一种警告",
+      "onboard_time": 1714820778,
+      "rank": 26,
       "category": "电影"
     },
     {
@@ -4849,6 +4905,14 @@
       "onboard_time": 1714622658,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 205399,
+      "num": 178473,
+      "word": "凤凰传奇 开蹦",
+      "onboard_time": 1714821138,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 205032,
@@ -5555,6 +5619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189259,
+      "num": 189259,
+      "word": "张真源高音",
+      "onboard_time": 1714820480,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189254,
       "num": 189254,
       "word": "花儿与少年 群像的神",
@@ -6129,6 +6201,14 @@
       "onboard_time": 1714793959,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 173567,
+      "num": 173567,
+      "word": "傅菁身材比例",
+      "onboard_time": 1714820840,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 173405,
@@ -6771,6 +6851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158138,
+      "num": 158138,
+      "word": "IVE把祥云带上舞台",
+      "onboard_time": 1714819158,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 158083,
       "num": 158083,
       "word": "偶遇那英黄奕徐艺洋丽江买衣服",
@@ -7144,14 +7232,6 @@
       "word": "旅行新蜜蜂常州",
       "onboard_time": 1714717518,
       "rank": 37,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 150058,
-      "num": 150058,
-      "word": "22岁女生5天独自爬完五岳",
-      "onboard_time": 1714818680,
-      "rank": 36,
       "category": "旅游"
     },
     {
@@ -7555,6 +7635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142460,
+      "num": 142460,
+      "word": "日出演唱会",
+      "onboard_time": 1714820960,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141856,
       "num": 141856,
       "word": "她在百米高空为航母驾龙门",
@@ -7811,6 +7899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 136604,
+      "num": 136604,
+      "word": "问界回应新M7夜间行车时大灯突然熄灭",
+      "onboard_time": 1714820719,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 136563,
       "num": 136563,
       "word": "梁洁杀回现偶",
@@ -7873,14 +7969,6 @@
       "onboard_time": 1714556478,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135382,
-      "num": 135382,
-      "word": "突然不在乎保研了",
-      "onboard_time": 1714818798,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 135296,
@@ -8963,6 +9051,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 114405,
+      "num": 114405,
+      "word": "当小金毛见到了自己的偶像",
+      "onboard_time": 1714819518,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114228,
       "num": 114228,
       "word": "林更新机场被叫林狗",
@@ -9049,6 +9145,14 @@
       "onboard_time": 1714521977,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 112853,
+      "num": 112853,
+      "word": "周雨彤金线蛋糕裙",
+      "onboard_time": 1714821138,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 112817,
@@ -9388,7 +9492,7 @@
     },
     {
       "raw_hot": 105805,
-      "num": 328250,
+      "num": 445642,
       "word": "17岁短跑少年说想为祖国而战",
       "onboard_time": 1714816578,
       "rank": 8,
@@ -10156,7 +10260,7 @@
     },
     {
       "raw_hot": 61612,
-      "num": 775878,
+      "num": 920207,
       "word": "几代人的青春共同成就了今日中国",
       "onboard_time": 1714810759,
       "rank": 2,
