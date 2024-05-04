@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714826719414,
+  "endTime": 1714828746240,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -1297,6 +1297,14 @@
       "onboard_time": 1714301296,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1042755,
+      "num": 1042755,
+      "word": "香飘飘回应讽日事件",
+      "onboard_time": 1714827619,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1039355,
@@ -2651,6 +2659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 665086,
+      "num": 665086,
+      "word": "歌手2024",
+      "onboard_time": 1714354697,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 663885,
       "num": 663885,
       "word": "金莎孙丞潇婚纱照造型",
@@ -3771,14 +3787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 519830,
-      "num": 519830,
-      "word": "歌手2024",
-      "onboard_time": 1714354697,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 519828,
       "num": 305355,
       "word": "张超改名",
@@ -4835,6 +4843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 423182,
+      "num": 423182,
+      "word": "十个勤天五四晚会舞台",
+      "onboard_time": 1714827500,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 422792,
       "num": 217437,
       "word": "南雅被当众扒衣服",
@@ -4921,6 +4937,14 @@
       "onboard_time": 1714568359,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415394,
+      "num": 415394,
+      "word": "张真源绿海",
+      "onboard_time": 1714825820,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 415187,
@@ -5185,6 +5209,14 @@
       "onboard_time": 1714617738,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 401017,
+      "num": 401017,
+      "word": "金价",
+      "onboard_time": 1714827799,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 400874,
@@ -5681,6 +5713,14 @@
       "onboard_time": 1714631357,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 361894,
+      "num": 361894,
+      "word": "广东60个暴雨预警信号生效中",
+      "onboard_time": 1714826719,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 361578,
@@ -6339,14 +6379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320043,
-      "num": 320043,
-      "word": "张真源绿海",
-      "onboard_time": 1714825820,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 320036,
       "num": 320036,
       "word": "IVE粉丝停止本次回归专辑团体代购",
@@ -6633,6 +6665,14 @@
       "onboard_time": 1714341191,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305481,
+      "num": 233393,
+      "word": "卵巢过快衰老的几个信号",
+      "onboard_time": 1714828161,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 304618,
@@ -7635,6 +7675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257805,
+      "num": 257805,
+      "word": "眼泪女王特辑",
+      "onboard_time": 1714827320,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257470,
       "num": 442658,
       "word": "第一批游客已冒雨抵达长沙",
@@ -7889,6 +7937,14 @@
       "onboard_time": 1714744822,
       "rank": 46,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 248513,
+      "num": 248513,
+      "word": "情侣因感情纠纷一方自尽另一方是否担责",
+      "onboard_time": 1714828100,
+      "rank": 17,
+      "category": "社会议题"
     },
     {
       "raw_hot": 248434,
@@ -8228,7 +8284,7 @@
     },
     {
       "raw_hot": 240975,
-      "num": 174642,
+      "num": 239648,
       "word": "eStar 下饭",
       "onboard_time": 1714825880,
       "rank": 30,
@@ -8635,6 +8691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228563,
+      "num": 228563,
+      "word": "五四晚会节目单",
+      "onboard_time": 1714826479,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228093,
       "num": 228093,
       "word": "贾玲换新头像",
@@ -8753,6 +8817,14 @@
       "onboard_time": 1714733600,
       "rank": 18,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 224981,
+      "num": 224981,
+      "word": "刘耀文墨镜solo",
+      "onboard_time": 1714828161,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 224032,
@@ -10131,6 +10203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200216,
+      "num": 200216,
+      "word": "贺峻霖 你们愿意吗",
+      "onboard_time": 1714826780,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200186,
       "num": 200186,
       "word": "没有一顿火锅解决不了的事票房",
@@ -11051,6 +11131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190177,
+      "num": 190177,
+      "word": "关系是假的纯爱是真的",
+      "onboard_time": 1714826600,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190163,
       "num": 190163,
       "word": "全员加速中全员有奖",
@@ -11281,6 +11369,14 @@
       "onboard_time": 1714621578,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187717,
+      "num": 187717,
+      "word": "张杰杭州演唱会",
+      "onboard_time": 1714643059,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 187716,
@@ -12211,6 +12307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174578,
+      "num": 174578,
+      "word": "8岁女孩从300度近视变成400度远视",
+      "onboard_time": 1714827920,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174552,
       "num": 174552,
       "word": "周雨彤 内娱管培生",
@@ -12529,6 +12633,14 @@
       "onboard_time": 1714616658,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169866,
+      "num": 190627,
+      "word": "王曼昱3比0帕拉南",
+      "onboard_time": 1714827320,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 169817,
@@ -13587,14 +13699,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 155418,
-      "num": 155418,
-      "word": "五四晚会节目单",
-      "onboard_time": 1714826479,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155398,
       "num": 155398,
       "word": "五一洛阳神仙都出来营业了",
@@ -13713,6 +13817,14 @@
       "onboard_time": 1714461499,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153743,
+      "num": 153743,
+      "word": "林俊杰唱了一生的爱",
+      "onboard_time": 1714828701,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 153461,
@@ -14979,6 +15091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140070,
+      "num": 140070,
+      "word": "都是一个坟头的不用鞠躬",
+      "onboard_time": 1714828639,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139933,
       "num": 139933,
       "word": "AI忽然叫我全名了",
@@ -15089,14 +15209,6 @@
       "onboard_time": 1714296738,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 138862,
-      "num": 138862,
-      "word": "关系是假的纯爱是真的",
-      "onboard_time": 1714826600,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 138688,
@@ -15931,6 +16043,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 130279,
+      "num": 174254,
+      "word": "林高远赛点示意对手擦边",
+      "onboard_time": 1714825760,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130216,
       "num": 130216,
       "word": "打工人帮助打工人",
@@ -16041,14 +16161,6 @@
       "onboard_time": 1714538237,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129235,
-      "num": 174254,
-      "word": "林高远赛点示意对手擦边",
-      "onboard_time": 1714825760,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 129139,
@@ -16771,14 +16883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 119226,
-      "num": 119226,
-      "word": "张杰杭州演唱会",
-      "onboard_time": 1714643059,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 119049,
       "num": 119049,
       "word": "张馨予何捷路遇被撞猫咪",
@@ -16980,7 +17084,7 @@
     },
     {
       "raw_hot": 115818,
-      "num": 115818,
+      "num": 803001,
       "word": "追光的你",
       "onboard_time": 1714487659,
       "rank": 48,

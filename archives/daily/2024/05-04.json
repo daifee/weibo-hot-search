@@ -1,6 +1,6 @@
 {
   "startTime": 1714753402355,
-  "endTime": 1714826719414,
+  "endTime": 1714828746240,
   "band_list": [
     {
       "raw_hot": 4324589,
@@ -129,6 +129,14 @@
       "onboard_time": 1714786156,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1042755,
+      "num": 1042755,
+      "word": "香飘飘回应讽日事件",
+      "onboard_time": 1714827619,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1039355,
@@ -297,6 +305,14 @@
       "onboard_time": 1714790058,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 665086,
+      "num": 665086,
+      "word": "歌手2024",
+      "onboard_time": 1714823239,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 663885,
@@ -491,14 +507,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 519830,
-      "num": 519830,
-      "word": "歌手2024",
-      "onboard_time": 1714823239,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 519828,
       "num": 305355,
       "word": "张超改名",
@@ -603,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423182,
+      "num": 423182,
+      "word": "十个勤天五四晚会舞台",
+      "onboard_time": 1714827500,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419563,
       "num": 243070,
       "word": "亲戚劝我不要读博士要赶紧结婚",
@@ -617,6 +633,14 @@
       "onboard_time": 1714820778,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 415394,
+      "num": 415394,
+      "word": "张真源绿海",
+      "onboard_time": 1714825820,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 415072,
@@ -689,6 +713,14 @@
       "onboard_time": 1714787416,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401017,
+      "num": 401017,
+      "word": "金价",
+      "onboard_time": 1714827799,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 396155,
@@ -785,6 +817,14 @@
       "onboard_time": 1714803138,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361894,
+      "num": 361894,
+      "word": "广东60个暴雨预警信号生效中",
+      "onboard_time": 1714826719,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359013,
@@ -899,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320043,
-      "num": 320043,
-      "word": "张真源绿海",
-      "onboard_time": 1714825820,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 316272,
       "num": 316272,
       "word": "工藤新一第30个17岁",
@@ -937,6 +969,14 @@
       "onboard_time": 1714798099,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305481,
+      "num": 233393,
+      "word": "卵巢过快衰老的几个信号",
+      "onboard_time": 1714828161,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 301520,
@@ -1099,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257805,
+      "num": 257805,
+      "word": "眼泪女王特辑",
+      "onboard_time": 1714827320,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255910,
       "num": 238107,
       "word": "同事之间不要开这种玩笑",
@@ -1121,6 +1169,14 @@
       "onboard_time": 1714805951,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 248513,
+      "num": 248513,
+      "word": "情侣因感情纠纷一方自尽另一方是否担责",
+      "onboard_time": 1714828100,
+      "rank": 17,
+      "category": "社会议题"
     },
     {
       "raw_hot": 247241,
@@ -1156,7 +1212,7 @@
     },
     {
       "raw_hot": 240975,
-      "num": 174642,
+      "num": 239648,
       "word": "eStar 下饭",
       "onboard_time": 1714825880,
       "rank": 30,
@@ -1219,11 +1275,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228563,
+      "num": 228563,
+      "word": "五四晚会节目单",
+      "onboard_time": 1714826479,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226835,
       "num": 226835,
       "word": "华晨宇日出演唱会会有日出吗",
       "onboard_time": 1714754717,
       "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 224981,
+      "num": 224981,
+      "word": "刘耀文墨镜solo",
+      "onboard_time": 1714828161,
+      "rank": 24,
       "category": "演出"
     },
     {
@@ -1403,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200216,
+      "num": 200216,
+      "word": "贺峻霖 你们愿意吗",
+      "onboard_time": 1714826780,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200186,
       "num": 200186,
       "word": "没有一顿火锅解决不了的事票房",
@@ -1507,11 +1587,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190177,
+      "num": 190177,
+      "word": "关系是假的纯爱是真的",
+      "onboard_time": 1714826600,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189259,
       "num": 189259,
       "word": "张真源高音",
       "onboard_time": 1714820480,
       "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 187717,
+      "num": 187717,
+      "word": "张杰杭州演唱会",
+      "onboard_time": 1714827558,
+      "rank": 35,
       "category": "演出"
     },
     {
@@ -1627,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174578,
+      "num": 174578,
+      "word": "8岁女孩从300度近视变成400度远视",
+      "onboard_time": 1714827920,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173809,
       "num": 173809,
       "word": "感觉有一亿人在衢州干饭",
@@ -1641,6 +1745,14 @@
       "onboard_time": 1714750041,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169866,
+      "num": 190627,
+      "word": "王曼昱3比0帕拉南",
+      "onboard_time": 1714827320,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 169090,
@@ -1803,12 +1915,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 155418,
-      "num": 155418,
-      "word": "五四晚会节目单",
-      "onboard_time": 1714826479,
+      "raw_hot": 153743,
+      "num": 153743,
+      "word": "林俊杰唱了一生的爱",
+      "onboard_time": 1714828701,
       "rank": 42,
-      "category": "综艺"
+      "category": "演出"
     },
     {
       "raw_hot": 153258,
@@ -1987,20 +2099,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140070,
+      "num": 140070,
+      "word": "都是一个坟头的不用鞠躬",
+      "onboard_time": 1714828639,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139519,
       "num": 139519,
       "word": "快船淘汰",
       "onboard_time": 1714797859,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138862,
-      "num": 138862,
-      "word": "关系是假的纯爱是真的",
-      "onboard_time": 1714826600,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 138485,
@@ -2091,18 +2203,18 @@
       "category": "演出"
     },
     {
-      "raw_hot": 129974,
-      "num": 129974,
-      "word": "尤伯杯中国1比0日本",
-      "onboard_time": 1714793237,
+      "raw_hot": 130279,
+      "num": 174254,
+      "word": "林高远赛点示意对手擦边",
+      "onboard_time": 1714825760,
       "rank": 47,
       "category": "体育"
     },
     {
-      "raw_hot": 129235,
-      "num": 174254,
-      "word": "林高远赛点示意对手擦边",
-      "onboard_time": 1714825760,
+      "raw_hot": 129974,
+      "num": 129974,
+      "word": "尤伯杯中国1比0日本",
+      "onboard_time": 1714793237,
       "rank": 47,
       "category": "体育"
     },
@@ -2300,7 +2412,7 @@
     },
     {
       "raw_hot": 115818,
-      "num": 115818,
+      "num": 803001,
       "word": "追光的你",
       "onboard_time": 1714791918,
       "rank": 36,

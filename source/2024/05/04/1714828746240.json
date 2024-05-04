@@ -1,0 +1,410 @@
+{
+  "runTime": 1714828746240,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1058860,
+        "num": 1058860,
+        "word": "金价跌至近一个月低点",
+        "onboard_time": 1714822098,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1042755,
+        "num": 1042755,
+        "word": "香飘飘回应讽日事件",
+        "onboard_time": 1714827619,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19685,
+        "num": 803001,
+        "word": "追光的你",
+        "onboard_time": 1714791918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665086,
+        "num": 665086,
+        "word": "歌手2024",
+        "onboard_time": 1714823239,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622294,
+        "num": 622294,
+        "word": "22岁女生5天独自爬完五岳",
+        "onboard_time": 1714818680,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 490032,
+        "num": 490032,
+        "word": "为什么日本人门前爱放整排矿泉水瓶",
+        "onboard_time": 1714822098,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 438984,
+        "num": 438984,
+        "word": "华晨宇唱15分钟把太阳唱出来",
+        "onboard_time": 1714821439,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 423182,
+        "num": 423182,
+        "word": "十个勤天五四晚会舞台",
+        "onboard_time": 1714827500,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415394,
+        "num": 415394,
+        "word": "张真源绿海",
+        "onboard_time": 1714825820,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113911,
+        "num": 410608,
+        "word": "41度高温下交警女儿暴躁宠爹",
+        "onboard_time": 1714809619,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931426,
+        "num": 409638,
+        "word": "用户借胖猫事件煽动性别对立等被处置",
+        "onboard_time": 1714823419,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 431987,
+        "num": 408043,
+        "word": "李帝努脱了",
+        "onboard_time": 1714825459,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 406386,
+        "num": 406386,
+        "word": "凤凰传奇 开蹦",
+        "onboard_time": 1714821138,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 401017,
+        "num": 401017,
+        "word": "金价",
+        "onboard_time": 1714827799,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 361894,
+        "num": 361894,
+        "word": "广东60个暴雨预警信号生效中",
+        "onboard_time": 1714826719,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308140,
+        "num": 308140,
+        "word": "时代少年团演唱会直播",
+        "onboard_time": 1714821498,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 257805,
+        "num": 257805,
+        "word": "眼泪女王特辑",
+        "onboard_time": 1714827320,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248513,
+        "num": 248513,
+        "word": "情侣因感情纠纷一方自尽另一方是否担责",
+        "onboard_time": 1714828100,
+        "rank": 17,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 241969,
+        "num": 241969,
+        "word": "第五人格发布会",
+        "onboard_time": 1714814298,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190869,
+        "num": 239648,
+        "word": "eStar 下饭",
+        "onboard_time": 1714825880,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 326565,
+        "num": 236478,
+        "word": "金希澈韩庚合照",
+        "onboard_time": 1714818320,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305481,
+        "num": 233393,
+        "word": "卵巢过快衰老的几个信号",
+        "onboard_time": 1714828161,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258321,
+        "num": 230610,
+        "word": "李晨去时代少年团演唱会",
+        "onboard_time": 1714823599,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228563,
+        "num": 228563,
+        "word": "五四晚会节目单",
+        "onboard_time": 1714826479,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224981,
+        "num": 224981,
+        "word": "刘耀文墨镜solo",
+        "onboard_time": 1714828161,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190843,
+        "num": 214020,
+        "word": "广东成立梅大高速塌方灾害调查评估组",
+        "onboard_time": 1714823659,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210039,
+        "num": 210039,
+        "word": "杨幂认为红发是一种警告",
+        "onboard_time": 1714820778,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201717,
+        "num": 201717,
+        "word": "蔡徐坤更博",
+        "onboard_time": 1714806019,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200216,
+        "num": 200216,
+        "word": "贺峻霖 你们愿意吗",
+        "onboard_time": 1714826780,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186433,
+        "num": 199199,
+        "word": "深圳的天是漏了吗",
+        "onboard_time": 1714823599,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199149,
+        "num": 199149,
+        "word": "央视五四晚会",
+        "onboard_time": 1714822578,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195726,
+        "num": 195726,
+        "word": "范丞丞唱了NINEPERCENT",
+        "onboard_time": 1714824200,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194491,
+        "num": 194491,
+        "word": "钟楚曦侯雯元去时代少年团演唱会",
+        "onboard_time": 1714822039,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169866,
+        "num": 190627,
+        "word": "王曼昱3比0帕拉南",
+        "onboard_time": 1714827320,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190177,
+        "num": 190177,
+        "word": "关系是假的纯爱是真的",
+        "onboard_time": 1714826600,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187717,
+        "num": 187717,
+        "word": "张杰杭州演唱会",
+        "onboard_time": 1714827558,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184669,
+        "num": 184669,
+        "word": "00后辞职的人都在做什么",
+        "onboard_time": 1714822280,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174578,
+        "num": 174578,
+        "word": "8岁女孩从300度近视变成400度远视",
+        "onboard_time": 1714827920,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171706,
+        "num": 171706,
+        "word": "商人拿1000万帮县委书记女儿买房",
+        "onboard_time": 1714814957,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141760,
+        "num": 154431,
+        "word": "12315回应外卖空包事件",
+        "onboard_time": 1714816458,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180785,
+        "num": 154293,
+        "word": "关雪下跪卓文崩溃",
+        "onboard_time": 1714825399,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180467,
+        "num": 154116,
+        "word": "孙丞潇说喜欢郑合惠子",
+        "onboard_time": 1714818498,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153743,
+        "num": 153743,
+        "word": "林俊杰唱了一生的爱",
+        "onboard_time": 1714828701,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152230,
+        "num": 152230,
+        "word": "向佐回应刘忻郭碧婷牵手",
+        "onboard_time": 1714810219,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148180,
+        "num": 148180,
+        "word": "严浩翔饭撒",
+        "onboard_time": 1714823239,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140070,
+        "num": 140070,
+        "word": "都是一个坟头的不用鞠躬",
+        "onboard_time": 1714828639,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133889,
+        "num": 133889,
+        "word": "荔枝",
+        "onboard_time": 1714805301,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132822,
+        "num": 132822,
+        "word": "第五人格骑士",
+        "onboard_time": 1714819579,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130279,
+        "num": 130279,
+        "word": "林高远赛点示意对手擦边",
+        "onboard_time": 1714825760,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126258,
+        "num": 126258,
+        "word": "RC对战成都GG",
+        "onboard_time": 1714825760,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国青年正当时#"
+    }
+  }
+}
