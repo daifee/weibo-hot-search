@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714807017370,
+  "endTime": 1714808067275,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -795,6 +795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1245549,
+      "num": 250309,
+      "word": "蔡徐坤更博",
+      "onboard_time": 1714806019,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1245323,
       "num": 1245323,
       "word": "大麻合法化后的泰国",
@@ -1483,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 905177,
+      "num": 249974,
+      "word": "邓超被孙俪赶出家门",
+      "onboard_time": 1714803858,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 903939,
       "num": 903939,
       "word": "湖人vs掘金",
@@ -1649,14 +1665,6 @@
       "onboard_time": 1714320018,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 865195,
-      "num": 228909,
-      "word": "邓超被孙俪赶出家门",
-      "onboard_time": 1714803858,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 864288,
@@ -2043,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 762186,
+      "num": 762186,
+      "word": "荔枝",
+      "onboard_time": 1714805301,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 759116,
       "num": 759116,
       "word": "003",
@@ -2228,7 +2244,7 @@
     },
     {
       "raw_hot": 707740,
-      "num": 228612,
+      "num": 249852,
       "word": "偶遇Angelababy小海绵遛狗",
       "onboard_time": 1714804880,
       "rank": 21,
@@ -2723,14 +2739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 640475,
-      "num": 228250,
-      "word": "蔡徐坤更博",
-      "onboard_time": 1714806019,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 639815,
       "num": 559962,
       "word": "IVE能不能把中国结摘下来",
@@ -2924,7 +2932,7 @@
     },
     {
       "raw_hot": 612869,
-      "num": 448263,
+      "num": 457406,
       "word": "戚薇小考又是0分",
       "onboard_time": 1714802898,
       "rank": 10,
@@ -2977,6 +2985,14 @@
       "onboard_time": 1714638201,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 602828,
+      "num": 602828,
+      "word": "阿斯利康承认疫苗致命副作用",
+      "onboard_time": 1714806617,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601137,
@@ -3235,6 +3251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 554852,
+      "num": 342680,
+      "word": "网传梅大高速茶阳路段塌方现场为异地旧图",
+      "onboard_time": 1714803258,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554453,
       "num": 425774,
       "word": "问界M7车祸四大疑问",
@@ -3281,14 +3305,6 @@
       "onboard_time": 1714360400,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 549800,
-      "num": 335533,
-      "word": "网传梅大高速茶阳路段塌方现场为异地旧图",
-      "onboard_time": 1714803258,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 549211,
@@ -4667,14 +4683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 416764,
-      "num": 416764,
-      "word": "荔枝",
-      "onboard_time": 1714805301,
-      "rank": 4,
-      "category": "美食"
-    },
-    {
       "raw_hot": 415608,
       "num": 332319,
       "word": "梅大高速事故现场记者几度哽咽",
@@ -5003,6 +5011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 388993,
+      "num": 388993,
+      "word": "龙门石窟游客惊叹到下巴脱臼",
+      "onboard_time": 1714802358,
+      "rank": 12,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 388118,
       "num": 239813,
       "word": "是研究生就会懂这五分钟的含金量",
@@ -5033,14 +5049,6 @@
       "onboard_time": 1714469897,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 387574,
-      "num": 387574,
-      "word": "龙门石窟游客惊叹到下巴脱臼",
-      "onboard_time": 1714802358,
-      "rank": 12,
-      "category": "旅游"
     },
     {
       "raw_hot": 387002,
@@ -5131,6 +5139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 382293,
+      "num": 337388,
+      "word": "官方介入调查空包外卖",
+      "onboard_time": 1714806019,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381686,
       "num": 381686,
       "word": "一问都不熟一查全有仇",
@@ -5193,6 +5209,14 @@
       "onboard_time": 1714564878,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 376336,
+      "num": 334549,
+      "word": "张超改名就相当于",
+      "onboard_time": 1714803138,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 375518,
@@ -5571,6 +5595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 346494,
+      "num": 346494,
+      "word": "工藤新一 智性恋天花板",
+      "onboard_time": 1714804458,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 345485,
       "num": 345485,
       "word": "原著陈麦冬拉黑了庄洁三次",
@@ -5713,14 +5745,6 @@
       "onboard_time": 1714790357,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 334549,
-      "num": 334549,
-      "word": "张超改名就相当于",
-      "onboard_time": 1714803138,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 334072,
@@ -6731,14 +6755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278522,
-      "num": 278522,
-      "word": "工藤新一 智性恋天花板",
-      "onboard_time": 1714804458,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 278117,
       "num": 278117,
       "word": "李现换发型了",
@@ -6792,14 +6808,6 @@
       "word": "女子腿绑24个鸭蛋入境被查",
       "onboard_time": 1714710738,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274669,
-      "num": 274669,
-      "word": "官方介入调查空包外卖",
-      "onboard_time": 1714806019,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -7180,7 +7188,7 @@
     },
     {
       "raw_hot": 260356,
-      "num": 224265,
+      "num": 237232,
       "word": "韩最毒美女连环杀人犯真容曝光",
       "onboard_time": 1714803798,
       "rank": 32,
@@ -7323,6 +7331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254236,
+      "num": 249528,
+      "word": "又臭又腥的石楠花为什么满大街都种",
+      "onboard_time": 1714807037,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254100,
       "num": 254100,
       "word": "陶昕然辟谣甄嬛传传闻",
@@ -7433,6 +7449,14 @@
       "onboard_time": 1714359919,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 249387,
+      "num": 249387,
+      "word": "新型婆媳关系",
+      "onboard_time": 1714805951,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 249201,
@@ -7955,14 +7979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234823,
-      "num": 234823,
-      "word": "阿斯利康承认疫苗致命副作用",
-      "onboard_time": 1714806617,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234579,
       "num": 165336,
       "word": "原来踩着东西吃饭是气血不足",
@@ -8377,6 +8393,14 @@
       "onboard_time": 1714386258,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220835,
+      "num": 250529,
+      "word": "林俊杰深圳",
+      "onboard_time": 1714806079,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 220271,
@@ -9419,14 +9443,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 202676,
-      "num": 202676,
-      "word": "林俊杰深圳",
-      "onboard_time": 1714806079,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 202476,
       "num": 202476,
       "word": "王一博男粉应援方式",
@@ -9889,6 +9905,14 @@
       "onboard_time": 1714275678,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 197210,
+      "num": 197210,
+      "word": "赵奕欢终于被肯定了",
+      "onboard_time": 1714806738,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 197161,
@@ -10361,14 +10385,6 @@
       "onboard_time": 1714702278,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192511,
-      "num": 192511,
-      "word": "新型婆媳关系",
-      "onboard_time": 1714805951,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 192419,
@@ -12987,14 +13003,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 155489,
-      "num": 155489,
-      "word": "赵奕欢终于被肯定了",
-      "onboard_time": 1714806738,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155398,
       "num": 155398,
       "word": "五一洛阳神仙都出来营业了",
@@ -13129,6 +13137,14 @@
       "onboard_time": 1714655538,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153343,
+      "num": 153343,
+      "word": "周扬青最后的动作是脑子一热",
+      "onboard_time": 1714807699,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 153258,
@@ -15619,6 +15635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125614,
+      "num": 125614,
+      "word": "TWICE人鱼公主",
+      "onboard_time": 1714807699,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 125487,
       "num": 125487,
       "word": "蔡依林演唱会",
@@ -17121,6 +17145,14 @@
       "onboard_time": 1714617017,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 100739,
+      "num": 100739,
+      "word": "金莎孙丞潇婚纱照造型",
+      "onboard_time": 1714807997,
+      "rank": 48,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 100707,
