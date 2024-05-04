@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714864665350,
+  "endTime": 1714865668546,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -4587,6 +4587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 236767,
+      "num": 236767,
+      "word": "立夏",
+      "onboard_time": 1714864094,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236351,
       "num": 236351,
       "word": "网传江苏宿迁禁止打印店打印控告材料",
@@ -5217,14 +5225,6 @@
       "onboard_time": 1714815978,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 207841,
-      "num": 207841,
-      "word": "立夏",
-      "onboard_time": 1714864094,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207348,
@@ -7083,6 +7083,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 167847,
+      "num": 124612,
+      "word": "肖战伍嘉成微博互动",
+      "onboard_time": 1714864154,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 167656,
       "num": 167656,
       "word": "陈丽君一公发如雪直拍",
@@ -7211,6 +7219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165020,
+      "num": 165020,
+      "word": "国铁集团回应高铁票价将上涨",
+      "onboard_time": 1714841595,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164971,
       "num": 321157,
       "word": "大学生投入3800元开店年入110万",
@@ -7289,6 +7305,14 @@
       "onboard_time": 1714825760,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163740,
+      "num": 123075,
+      "word": "有商家每天出货四五万只脸基尼",
+      "onboard_time": 1714861032,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 163731,
@@ -8123,14 +8147,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145886,
-      "num": 108675,
-      "word": "肖战伍嘉成微博互动",
-      "onboard_time": 1714864154,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 145868,
       "num": 145868,
       "word": "张杰要得第一篇章预告",
@@ -8409,14 +8425,6 @@
       "onboard_time": 1714546998,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140644,
-      "num": 142738,
-      "word": "国铁集团回应高铁票价将上涨",
-      "onboard_time": 1714841595,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140438,
@@ -8881,6 +8889,14 @@
       "onboard_time": 1714606695,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132525,
+      "num": 75506,
+      "word": "体检照X光别穿有刺绣的衣服",
+      "onboard_time": 1714864935,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 132507,
@@ -10195,6 +10211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108440,
+      "num": 108440,
+      "word": "北方人能有多抵触吃挂面",
+      "onboard_time": 1714864094,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108425,
       "num": 108425,
       "word": "外酥里嫩的房子",
@@ -10273,14 +10297,6 @@
       "onboard_time": 1714727719,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106641,
-      "num": 106641,
-      "word": "有商家每天出货四五万只脸基尼",
-      "onboard_time": 1714861032,
-      "rank": 33,
-      "category": "美妆"
     },
     {
       "raw_hot": 106551,
@@ -10385,6 +10401,14 @@
       "onboard_time": 1714615817,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 103009,
+      "num": 103009,
+      "word": "向佐因暴雨错过时代少年团演唱会",
+      "onboard_time": 1714864874,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 102718,
@@ -10843,6 +10867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82336,
+      "num": 82336,
+      "word": "随便吃同事真的很不礼貌",
+      "onboard_time": 1714864574,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82002,
       "num": 82002,
       "word": "李健枣庄演唱会",
@@ -10873,6 +10905,14 @@
       "onboard_time": 1714790177,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 80598,
+      "num": 80598,
+      "word": "5天说没就没",
+      "onboard_time": 1714865295,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 80560,
@@ -10912,6 +10952,14 @@
       "word": "李健昆山演唱会",
       "onboard_time": 1714487960,
       "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 78500,
+      "num": 78500,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1714865353,
+      "rank": 27,
       "category": "演出"
     },
     {
@@ -10961,6 +11009,22 @@
       "onboard_time": 1714777694,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 75328,
+      "num": 75328,
+      "word": "原来上班真的能跨越阶级",
+      "onboard_time": 1714864994,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 74872,
+      "num": 74872,
+      "word": "张碧晨演我不愿意早起",
+      "onboard_time": 1714847352,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 74837,
@@ -11019,6 +11083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70071,
+      "num": 70071,
+      "word": "邓超别哭了",
+      "onboard_time": 1714865173,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69417,
       "num": 69417,
       "word": "广东139个暴雨预警生效中",
@@ -11033,6 +11105,14 @@
       "onboard_time": 1714797379,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 67821,
+      "num": 67821,
+      "word": "张本美和19比17",
+      "onboard_time": 1714864874,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 67653,
@@ -11059,11 +11139,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66476,
-      "num": 66476,
-      "word": "张碧晨演我不愿意早起",
-      "onboard_time": 1714847352,
-      "rank": 47,
+      "raw_hot": 65756,
+      "num": 142557,
+      "word": "布拉德皮特60岁状态",
+      "onboard_time": 1714843935,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -11081,14 +11161,6 @@
       "onboard_time": 1714617017,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63544,
-      "num": 142557,
-      "word": "布拉德皮特60岁状态",
-      "onboard_time": 1714843935,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 63110,
@@ -11129,6 +11201,14 @@
       "onboard_time": 1714810759,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60195,
+      "num": 60195,
+      "word": "开始期待端午了",
+      "onboard_time": 1714864574,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 60123,
@@ -11211,20 +11291,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55823,
+      "num": 55823,
+      "word": "专家称高铁涨价是必要的",
+      "onboard_time": 1714864935,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55806,
       "num": 55806,
       "word": "星巴克悄悄打折了",
       "onboard_time": 1714598171,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55350,
-      "num": 55350,
-      "word": "北方人能有多抵触吃挂面",
-      "onboard_time": 1714864094,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 55090,
@@ -11265,6 +11345,14 @@
       "onboard_time": 1714590370,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52670,
+      "num": 52670,
+      "word": "帝释天 仙品",
+      "onboard_time": 1714865414,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 52544,
@@ -11347,6 +11435,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 46029,
+      "num": 46029,
+      "word": "C罗帽子戏法",
+      "onboard_time": 1714865295,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45587,
+      "num": 45587,
+      "word": "脸基尼",
+      "onboard_time": 1714863733,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 44961,
       "num": 375385,
       "word": "雷军五四青年节寄语",
@@ -11411,28 +11515,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 36545,
-      "num": 36545,
-      "word": "随便吃同事真的很不礼貌",
-      "onboard_time": 1714864574,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 35966,
       "num": 72801,
       "word": "惜花芷今日收官",
       "onboard_time": 1714759993,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 35760,
-      "num": 35760,
-      "word": "脸基尼",
-      "onboard_time": 1714863733,
-      "rank": 40,
-      "category": "时尚"
     },
     {
       "raw_hot": 34426,
@@ -11449,14 +11537,6 @@
       "onboard_time": 1714758973,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 31823,
-      "num": 31823,
-      "word": "开始期待端午了",
-      "onboard_time": 1714864574,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 31619,
