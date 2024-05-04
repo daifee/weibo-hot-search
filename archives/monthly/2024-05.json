@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714808067275,
+  "endTime": 1714810850974,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -315,6 +315,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1419212,
+      "num": 1419212,
+      "word": "荔枝",
+      "onboard_time": 1714805301,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1417040,
       "num": 1417040,
       "word": "731部队最新罪证",
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 1245549,
-      "num": 250309,
+      "num": 261898,
       "word": "蔡徐坤更博",
       "onboard_time": 1714806019,
       "rank": 22,
@@ -723,6 +731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 919112,
+      "num": 919112,
+      "word": "阿斯利康承认疫苗致命副作用",
+      "onboard_time": 1714806617,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 908858,
       "num": 236149,
       "word": "七折",
@@ -732,7 +748,7 @@
     },
     {
       "raw_hot": 905177,
-      "num": 249974,
+      "num": 260285,
       "word": "邓超被孙俪赶出家门",
       "onboard_time": 1714803858,
       "rank": 20,
@@ -1027,14 +1043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 762186,
-      "num": 762186,
-      "word": "荔枝",
-      "onboard_time": 1714805301,
-      "rank": 4,
-      "category": "美食"
-    },
-    {
       "raw_hot": 757551,
       "num": 757551,
       "word": "福宝",
@@ -1108,7 +1116,7 @@
     },
     {
       "raw_hot": 707740,
-      "num": 249852,
+      "num": 258237,
       "word": "偶遇Angelababy小海绵遛狗",
       "onboard_time": 1714804880,
       "rank": 21,
@@ -1249,6 +1257,14 @@
       "onboard_time": 1714790058,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 663885,
+      "num": 663885,
+      "word": "金莎孙丞潇婚纱照造型",
+      "onboard_time": 1714807997,
+      "rank": 48,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 663867,
@@ -1481,14 +1497,6 @@
       "onboard_time": 1714638201,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 602828,
-      "num": 602828,
-      "word": "阿斯利康承认疫苗致命副作用",
-      "onboard_time": 1714806617,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 601137,
@@ -2595,6 +2603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380389,
+      "num": 297150,
+      "word": "人均150的高价火锅偷偷降级",
+      "onboard_time": 1714808838,
+      "rank": 10,
+      "category": "美食"
+    },
+    {
       "raw_hot": 379238,
       "num": 379238,
       "word": "洁丽雅董事长谈儿子拍短剧出圈",
@@ -2665,6 +2681,14 @@
       "onboard_time": 1714549277,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367641,
+      "num": 296476,
+      "word": "周扬青最后的动作是脑子一热",
+      "onboard_time": 1714807699,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 367266,
@@ -2755,6 +2779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 355049,
+      "num": 295894,
+      "word": "韩国人连MBTI都要写在简历里了",
+      "onboard_time": 1714809017,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 354994,
       "num": 354994,
       "word": "Jennie露背黑裙",
@@ -2793,6 +2825,14 @@
       "onboard_time": 1714544600,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351192,
+      "num": 256296,
+      "word": "又臭又腥的石楠花为什么满大街都种",
+      "onboard_time": 1714807037,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347026,
@@ -3067,6 +3107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316719,
+      "num": 294015,
+      "word": "半数以上月经紊乱的女性未到医院就诊",
+      "onboard_time": 1714809438,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 316383,
       "num": 316383,
       "word": "财务瞒天过海12年炒股亏光公司1350万",
@@ -3179,6 +3227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300822,
+      "num": 254550,
+      "word": "向佐回应刘忻郭碧婷牵手",
+      "onboard_time": 1714810219,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300210,
       "num": 376292,
       "word": "迪丽热巴同款民族服饰火了",
@@ -3211,6 +3267,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 297984,
+      "num": 297984,
+      "word": "广东中山4条出逃鳄鱼已找回3条",
+      "onboard_time": 1714808299,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296983,
       "num": 296983,
       "word": "韩雪vocal",
@@ -3241,6 +3305,14 @@
       "onboard_time": 1714656200,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293994,
+      "num": 293994,
+      "word": "王冰冰送柬埔寨小公主赵露思签名照",
+      "onboard_time": 1714808719,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 292400,
@@ -3353,6 +3425,14 @@
       "onboard_time": 1714535477,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283021,
+      "num": 283021,
+      "word": "常华森恋综",
+      "onboard_time": 1714808359,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 282859,
@@ -3563,6 +3643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262052,
+      "num": 262052,
+      "word": "楼外楼",
+      "onboard_time": 1714810279,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261873,
       "num": 107658,
       "word": "贡茶发文谴责外卖空包的行为",
@@ -3659,20 +3747,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254382,
+      "num": 254382,
+      "word": "为什么我们无法停止视奸",
+      "onboard_time": 1714808359,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254285,
       "num": 254285,
       "word": "央八将独播庆余年第一季精编版",
       "onboard_time": 1714534037,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 254236,
-      "num": 249528,
-      "word": "又臭又腥的石楠花为什么满大街都种",
-      "onboard_time": 1714807037,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254100,
@@ -4577,6 +4665,14 @@
       "onboard_time": 1714622658,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 205158,
+      "num": 205158,
+      "word": "欧洲女性衣服里插棍的秘密",
+      "onboard_time": 1714808299,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 205032,
@@ -6635,14 +6731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153343,
-      "num": 153343,
-      "word": "周扬青最后的动作是脑子一热",
-      "onboard_time": 1714807699,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153258,
       "num": 153258,
       "word": "周深五四演讲",
@@ -7129,6 +7217,14 @@
       "onboard_time": 1714559719,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144533,
+      "num": 297433,
+      "word": "41度高温下交警女儿暴躁宠爹",
+      "onboard_time": 1714809619,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144509,
@@ -8011,12 +8107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126572,
+      "num": 126572,
+      "word": "TWICE人鱼公主",
+      "onboard_time": 1714807699,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126444,
       "num": 126444,
       "word": "TTG对战BOA",
       "onboard_time": 1714650860,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126104,
+      "num": 126104,
+      "word": "00四小花合体封面",
+      "onboard_time": 1714810639,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 125661,
@@ -8027,12 +8139,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125614,
-      "num": 125614,
-      "word": "TWICE人鱼公主",
-      "onboard_time": 1714807699,
-      "rank": 40,
-      "category": "作品衍生"
+      "raw_hot": 125363,
+      "num": 125363,
+      "word": "不上班的时候外面的世界",
+      "onboard_time": 1714810040,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 124948,
@@ -8947,6 +9059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106133,
+      "num": 106133,
+      "word": "贾静雯49岁身材管理",
+      "onboard_time": 1714810759,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106098,
       "num": 106098,
       "word": "12岁萌娃准备的家长会零食太炸裂",
@@ -9091,6 +9211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101069,
+      "num": 101069,
+      "word": "给我家布偶找了个三花女朋友",
+      "onboard_time": 1714808299,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100998,
       "num": 131769,
       "word": "广东男篮强度上来了",
@@ -9105,14 +9233,6 @@
       "onboard_time": 1714617017,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 100739,
-      "num": 100739,
-      "word": "金莎孙丞潇婚纱照造型",
-      "onboard_time": 1714807997,
-      "rank": 48,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 100707,
@@ -10121,6 +10241,14 @@
       "onboard_time": 1714592531,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14675,
+      "num": 725284,
+      "word": "几代人的青春共同成就了今日中国",
+      "onboard_time": 1714810759,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13659,

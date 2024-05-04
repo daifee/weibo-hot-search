@@ -1,0 +1,410 @@
+{
+  "runTime": 1714810850974,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1419212,
+        "num": 1419212,
+        "word": "荔枝",
+        "onboard_time": 1714805301,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 919112,
+        "num": 919112,
+        "word": "阿斯利康承认疫苗致命副作用",
+        "onboard_time": 1714806617,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14675,
+        "num": 725284,
+        "word": "几代人的青春共同成就了今日中国",
+        "onboard_time": 1714810759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663885,
+        "num": 663885,
+        "word": "金莎孙丞潇婚纱照造型",
+        "onboard_time": 1714807997,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 649767,
+        "num": 649767,
+        "word": "香飘飘日本超市讽核污水",
+        "onboard_time": 1714800618,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370925,
+        "num": 370925,
+        "word": "华晨宇 我们真的做到了",
+        "onboard_time": 1714794857,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 340211,
+        "num": 340211,
+        "word": "工藤新一 智性恋天花板",
+        "onboard_time": 1714804458,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 302569,
+        "num": 302569,
+        "word": "戚薇小考又是0分",
+        "onboard_time": 1714802898,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297984,
+        "num": 297984,
+        "word": "广东中山4条出逃鳄鱼已找回3条",
+        "onboard_time": 1714808299,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144533,
+        "num": 297433,
+        "word": "41度高温下交警女儿暴躁宠爹",
+        "onboard_time": 1714809619,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380389,
+        "num": 297150,
+        "word": "人均150的高价火锅偷偷降级",
+        "onboard_time": 1714808838,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 367641,
+        "num": 296476,
+        "word": "周扬青最后的动作是脑子一热",
+        "onboard_time": 1714807699,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355049,
+        "num": 295894,
+        "word": "韩国人连MBTI都要写在简历里了",
+        "onboard_time": 1714809017,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 7369,
+        "num": 295638,
+        "word": "文化中国行我写家乡",
+        "onboard_time": 1714742900,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342843,
+        "num": 295128,
+        "word": "官方介入调查空包外卖",
+        "onboard_time": 1714806019,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316719,
+        "num": 294015,
+        "word": "半数以上月经紊乱的女性未到医院就诊",
+        "onboard_time": 1714809438,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 293994,
+        "num": 293994,
+        "word": "王冰冰送柬埔寨小公主赵露思签名照",
+        "onboard_time": 1714808719,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283021,
+        "num": 283021,
+        "word": "常华森恋综",
+        "onboard_time": 1714808359,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281227,
+        "num": 281227,
+        "word": "网传梅大高速茶阳路段塌方现场为异地旧图",
+        "onboard_time": 1714803258,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262052,
+        "num": 262052,
+        "word": "楼外楼",
+        "onboard_time": 1714810279,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1123652,
+        "num": 261898,
+        "word": "蔡徐坤更博",
+        "onboard_time": 1714806019,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 674496,
+        "num": 260285,
+        "word": "邓超被孙俪赶出家门",
+        "onboard_time": 1714803858,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415626,
+        "num": 258237,
+        "word": "偶遇Angelababy小海绵遛狗",
+        "onboard_time": 1714804880,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351192,
+        "num": 256296,
+        "word": "又臭又腥的石楠花为什么满大街都种",
+        "onboard_time": 1714807037,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300822,
+        "num": 254550,
+        "word": "向佐回应刘忻郭碧婷牵手",
+        "onboard_time": 1714810219,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254382,
+        "num": 254382,
+        "word": "为什么我们无法停止视奸",
+        "onboard_time": 1714808359,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239552,
+        "num": 239552,
+        "word": "新型婆媳关系",
+        "onboard_time": 1714805951,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232388,
+        "num": 232388,
+        "word": "龙门石窟游客惊叹到下巴脱臼",
+        "onboard_time": 1714802358,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 223445,
+        "num": 223445,
+        "word": "刘老师 没有一部烂片逼疯不了的人",
+        "onboard_time": 1714800978,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206687,
+        "num": 206687,
+        "word": "张超改名就相当于",
+        "onboard_time": 1714803138,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205158,
+        "num": 205158,
+        "word": "欧洲女性衣服里插棍的秘密",
+        "onboard_time": 1714808299,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 186513,
+        "num": 186513,
+        "word": "唐文丽",
+        "onboard_time": 1714793898,
+        "rank": 31,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 184806,
+        "num": 184806,
+        "word": "陈赫录五哈每次都得付出点什么",
+        "onboard_time": 1714804880,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176160,
+        "num": 176160,
+        "word": "林俊杰深圳",
+        "onboard_time": 1714806079,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171510,
+        "num": 171510,
+        "word": "韩最毒美女连环杀人犯真容曝光",
+        "onboard_time": 1714803798,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161734,
+        "num": 161734,
+        "word": "泽连斯基允许传染病和精神病患者入伍",
+        "onboard_time": 1714797678,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 161648,
+        "num": 161648,
+        "word": "IVE新歌和咆哮是一个调",
+        "onboard_time": 1714796959,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159636,
+        "num": 159636,
+        "word": "小冰冷",
+        "onboard_time": 1714793299,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 154484,
+        "num": 154484,
+        "word": "为什么人老了身上会有怪味",
+        "onboard_time": 1714786156,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149494,
+        "num": 149494,
+        "word": "赵奕欢终于被肯定了",
+        "onboard_time": 1714806738,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135628,
+        "num": 135628,
+        "word": "男子在新疆滑雪摔伤抢救无效死亡",
+        "onboard_time": 1714802717,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126572,
+        "num": 126572,
+        "word": "TWICE人鱼公主",
+        "onboard_time": 1714807699,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126104,
+        "num": 126104,
+        "word": "00四小花合体封面",
+        "onboard_time": 1714810639,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125363,
+        "num": 125363,
+        "word": "不上班的时候外面的世界",
+        "onboard_time": 1714810040,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125190,
+        "num": 125190,
+        "word": "731部队最新罪证",
+        "onboard_time": 1714790477,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123132,
+        "num": 123132,
+        "word": "广东中山暴雨积水齐腰深车辆被淹",
+        "onboard_time": 1714805777,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118293,
+        "num": 118293,
+        "word": "王一博男粉应援方式",
+        "onboard_time": 1714805837,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107772,
+        "num": 107772,
+        "word": "正式确诊为钱性恋",
+        "onboard_time": 1714804577,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106133,
+        "num": 106133,
+        "word": "贾静雯49岁身材管理",
+        "onboard_time": 1714810759,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101069,
+        "num": 101069,
+        "word": "给我家布偶找了个三花女朋友",
+        "onboard_time": 1714808299,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国青年正当时#"
+    }
+  }
+}
