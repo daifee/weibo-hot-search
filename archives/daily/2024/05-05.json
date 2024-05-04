@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714842913648,
+  "endTime": 1714844077059,
   "band_list": [
     {
       "raw_hot": 877700,
@@ -203,6 +203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155675,
+      "num": 142705,
+      "word": "晚上比早晨重3斤是减重失败了吗",
+      "onboard_time": 1714842076,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 155224,
       "num": 217942,
       "word": "男朋友想一个人去旅游该阻止吗",
@@ -283,6 +291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110012,
+      "num": 142749,
+      "word": "潘玮柏演唱会大屏上的一家三口",
+      "onboard_time": 1714842255,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108871,
       "num": 217928,
       "word": "8岁女孩从300度近视变成400度远视",
@@ -291,20 +307,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106161,
-      "num": 89437,
-      "word": "晚上比早晨重3斤是减重失败了吗",
-      "onboard_time": 1714842076,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 104146,
       "num": 217920,
       "word": "第五人格发布会",
       "onboard_time": 1714814298,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103514,
+      "num": 142738,
+      "word": "国铁集团回应高铁票价将上涨",
+      "onboard_time": 1714841595,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98539,
@@ -395,24 +411,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81954,
-      "num": 89273,
-      "word": "潘玮柏演唱会大屏上的一家三口",
-      "onboard_time": 1714842255,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 80827,
-      "num": 90450,
-      "word": "国铁集团回应高铁票价将上涨",
-      "onboard_time": 1714841595,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75293,
-      "num": 89259,
+      "num": 142648,
       "word": "张真源绿海",
       "onboard_time": 1714825820,
       "rank": 34,
@@ -444,15 +444,15 @@
     },
     {
       "raw_hot": 65407,
-      "num": 89218,
+      "num": 142609,
       "word": "宋亚轩蝴蝶元素",
       "onboard_time": 1714832541,
       "rank": 39,
       "category": "演出"
     },
     {
-      "raw_hot": 57759,
-      "num": 89156,
+      "raw_hot": 61740,
+      "num": 142629,
       "word": "五月天香港",
       "onboard_time": 1714841836,
       "rank": 46,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 56451,
-      "num": 89139,
+      "num": 142571,
       "word": "李帝努脱了",
       "onboard_time": 1714825459,
       "rank": 48,
@@ -473,6 +473,14 @@
       "onboard_time": 1714840457,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 48122,
+      "num": 142557,
+      "word": "布拉德皮特60岁状态",
+      "onboard_time": 1714843935,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 5516,
