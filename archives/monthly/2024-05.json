@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714836859761,
+  "endTime": 1714839684781,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -849,6 +849,14 @@
       "onboard_time": 1714719259,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 877700,
+      "num": 877700,
+      "word": "14岁男孩当伴郎遇班主任伴娘",
+      "onboard_time": 1714834521,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 877367,
@@ -1737,14 +1745,6 @@
       "onboard_time": 1714616839,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 589110,
-      "num": 589110,
-      "word": "14岁男孩当伴郎遇班主任伴娘",
-      "onboard_time": 1714834521,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 588439,
@@ -3011,6 +3011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381720,
+      "num": 381720,
+      "word": "90后自媒体创业2天入账74万",
+      "onboard_time": 1714834821,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381686,
       "num": 381686,
       "word": "一问都不熟一查全有仇",
@@ -3649,14 +3657,6 @@
       "onboard_time": 1714632798,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 303406,
-      "num": 368493,
-      "word": "90后自媒体创业2天入账74万",
-      "onboard_time": 1714834821,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 301623,
@@ -5739,6 +5739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197437,
+      "num": 159783,
+      "word": "吴彤李晨钟楚曦侯雯元自拍",
+      "onboard_time": 1714837698,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197377,
       "num": 197377,
       "word": "湿气排出的八个表现",
@@ -5873,6 +5881,14 @@
       "onboard_time": 1714559598,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195451,
+      "num": 157926,
+      "word": "向佐怎么瘦成这样了",
+      "onboard_time": 1714836680,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 195344,
@@ -6419,6 +6435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181754,
+      "num": 181754,
+      "word": "张杰青年节唱少年中国说",
+      "onboard_time": 1714838719,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181677,
       "num": 181677,
       "word": "珠海暴雨",
@@ -6817,6 +6841,14 @@
       "onboard_time": 1714662019,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172244,
+      "num": 132225,
+      "word": "加拿大一家3男捐精捐出超600个娃",
+      "onboard_time": 1714838898,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172198,
@@ -8889,14 +8921,6 @@
       "onboard_time": 1714551738,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131398,
-      "num": 131398,
-      "word": "向佐怎么瘦成这样了",
-      "onboard_time": 1714836680,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 131340,
