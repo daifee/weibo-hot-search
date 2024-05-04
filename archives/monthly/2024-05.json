@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714804486612,
+  "endTime": 1714807017370,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -803,6 +803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 865195,
+      "num": 228909,
+      "word": "邓超被孙俪赶出家门",
+      "onboard_time": 1714803858,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 864288,
       "num": 864288,
       "word": "美国网红连吃6个月火鸡面后尿血",
@@ -1083,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 707740,
+      "num": 228612,
+      "word": "偶遇Angelababy小海绵遛狗",
+      "onboard_time": 1714804880,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 700761,
       "num": 498484,
       "word": "罗西 临界十缨",
@@ -1323,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 640475,
+      "num": 228250,
+      "word": "蔡徐坤更博",
+      "onboard_time": 1714806019,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 639815,
       "num": 559962,
       "word": "IVE能不能把中国结摘下来",
@@ -1412,7 +1436,7 @@
     },
     {
       "raw_hot": 612869,
-      "num": 392204,
+      "num": 448263,
       "word": "戚薇小考又是0分",
       "onboard_time": 1714802898,
       "rank": 10,
@@ -1563,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 549800,
+      "num": 335533,
+      "word": "网传梅大高速茶阳路段塌方现场为异地旧图",
+      "onboard_time": 1714803258,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 549211,
       "num": 549211,
       "word": "南雅被继兄侵犯",
@@ -1683,6 +1715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 530526,
+      "num": 530526,
+      "word": "刘老师 没有一部烂片逼疯不了的人",
+      "onboard_time": 1714800978,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 527743,
       "num": 435053,
       "word": "白鹿曾舜晞吻脖子路透",
@@ -1720,14 +1760,6 @@
       "word": "张超改名",
       "onboard_time": 1714780756,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 519266,
-      "num": 210082,
-      "word": "邓超被孙俪赶出家门",
-      "onboard_time": 1714803858,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -2123,14 +2155,6 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 437596,
-      "num": 392325,
-      "word": "刘老师 没有一部烂片逼疯不了的人",
-      "onboard_time": 1714800978,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 437434,
       "num": 437434,
       "word": "观音桥网红天桥因人流火爆而限流",
@@ -2267,6 +2291,14 @@
       "category": "综艺,美妆"
     },
     {
+      "raw_hot": 416764,
+      "num": 416764,
+      "word": "荔枝",
+      "onboard_time": 1714805301,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 415608,
       "num": 332319,
       "word": "梅大高速事故现场记者几度哽咽",
@@ -2353,6 +2385,14 @@
       "onboard_time": 1714521675,
       "rank": 13,
       "category": "数码"
+    },
+    {
+      "raw_hot": 408592,
+      "num": 408592,
+      "word": "正式被确诊为荒野女巫",
+      "onboard_time": 1714803681,
+      "rank": 26,
+      "category": "动漫"
     },
     {
       "raw_hot": 408527,
@@ -2475,20 +2515,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 387574,
+      "num": 387574,
+      "word": "龙门石窟游客惊叹到下巴脱臼",
+      "onboard_time": 1714802358,
+      "rank": 12,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 387002,
       "num": 387002,
       "word": "波音第2位吹哨人去世肺部发现大量细菌",
       "onboard_time": 1714788798,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 386724,
-      "num": 328457,
-      "word": "龙门石窟游客惊叹到下巴脱臼",
-      "onboard_time": 1714802358,
-      "rank": 12,
-      "category": "旅游"
     },
     {
       "raw_hot": 386634,
@@ -2843,6 +2883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334549,
+      "num": 334549,
+      "word": "张超改名就相当于",
+      "onboard_time": 1714803138,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332815,
       "num": 332815,
       "word": "2024年巴黎奥运会",
@@ -2913,6 +2961,14 @@
       "onboard_time": 1714575979,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 328706,
+      "num": 328706,
+      "word": "男子在新疆滑雪摔伤抢救无效死亡",
+      "onboard_time": 1714802717,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328238,
@@ -3267,14 +3323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 284005,
-      "num": 284005,
-      "word": "网传梅大高速茶阳路段塌方现场为异地旧图",
-      "onboard_time": 1714803258,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283038,
       "num": 283038,
       "word": "金智媛教的眼泪女王中文台词",
@@ -3315,12 +3363,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278522,
+      "num": 278522,
+      "word": "工藤新一 智性恋天花板",
+      "onboard_time": 1714804458,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 275634,
       "num": 275634,
       "word": "WTT",
       "onboard_time": 1714654819,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275065,
+      "num": 275065,
+      "word": "陈赫录五哈每次都得付出点什么",
+      "onboard_time": 1714804880,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 274858,
@@ -3331,11 +3395,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274572,
-      "num": 274572,
-      "word": "男子在新疆滑雪摔伤抢救无效死亡",
-      "onboard_time": 1714802717,
-      "rank": 19,
+      "raw_hot": 274669,
+      "num": 274669,
+      "word": "官方介入调查空包外卖",
+      "onboard_time": 1714806019,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -3513,6 +3577,14 @@
       "onboard_time": 1714553597,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 260356,
+      "num": 224265,
+      "word": "韩最毒美女连环杀人犯真容曝光",
+      "onboard_time": 1714803798,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259795,
@@ -3755,6 +3827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241260,
+      "num": 224145,
+      "word": "正式确诊为钱性恋",
+      "onboard_time": 1714804577,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240979,
       "num": 177286,
       "word": "张拿铁受不了的amazing教育",
@@ -3864,6 +3944,14 @@
       "word": "梅大高速塌方灾害救援昼夜不停",
       "onboard_time": 1714711399,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234823,
+      "num": 234823,
+      "word": "阿斯利康承认疫苗致命副作用",
+      "onboard_time": 1714806617,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -4211,6 +4299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213759,
+      "num": 213759,
+      "word": "比樱狼更好嗑的是次瓜",
+      "onboard_time": 1714806799,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 213619,
       "num": 213619,
       "word": "俄罗斯办缴获武器展友情提示亮了",
@@ -4249,14 +4345,6 @@
       "onboard_time": 1714708400,
       "rank": 32,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 211920,
-      "num": 211920,
-      "word": "正式被确诊为荒野女巫",
-      "onboard_time": 1714803681,
-      "rank": 26,
-      "category": "动漫"
     },
     {
       "raw_hot": 211241,
@@ -4419,14 +4507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206294,
-      "num": 206294,
-      "word": "张超改名就相当于",
-      "onboard_time": 1714803138,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205912,
       "num": 98562,
       "word": "时代少年团演唱会",
@@ -4585,6 +4665,22 @@
       "onboard_time": 1714538597,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202676,
+      "num": 202676,
+      "word": "林俊杰深圳",
+      "onboard_time": 1714806079,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 202476,
+      "num": 202476,
+      "word": "王一博男粉应援方式",
+      "onboard_time": 1714805837,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 201860,
@@ -4963,6 +5059,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 194886,
+      "num": 194886,
+      "word": "邓超从嘻嘻到不嘻嘻",
+      "onboard_time": 1714806138,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194775,
       "num": 194775,
       "word": "蓝羽易烊千玺CHC影迷电影频道宣传片",
@@ -5033,6 +5137,14 @@
       "onboard_time": 1714702278,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192511,
+      "num": 192511,
+      "word": "新型婆媳关系",
+      "onboard_time": 1714805951,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 192319,
@@ -5289,14 +5401,6 @@
       "onboard_time": 1714614617,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 185471,
-      "num": 185471,
-      "word": "韩最毒美女连环杀人犯真容曝光",
-      "onboard_time": 1714803798,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185457,
@@ -6067,6 +6171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165051,
+      "num": 165051,
+      "word": "广东中山暴雨积水齐腰深车辆被淹",
+      "onboard_time": 1714805777,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164971,
       "num": 321157,
       "word": "大学生投入3800元开店年入110万",
@@ -6427,6 +6539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155489,
+      "num": 155489,
+      "word": "赵奕欢终于被肯定了",
+      "onboard_time": 1714806738,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155190,
       "num": 155190,
       "word": "五一哪都不去",
@@ -6537,6 +6657,14 @@
       "onboard_time": 1714469897,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152493,
+      "num": 152493,
+      "word": "张予曦rap把自己唱笑了",
+      "onboard_time": 1714805597,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 152386,
@@ -7987,6 +8115,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122905,
+      "num": 122905,
+      "word": "欧盟外长演讲中回应双标指责",
+      "onboard_time": 1714804517,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 122867,
+      "num": 122867,
+      "word": "尤伯杯印尼3比2韩国",
+      "onboard_time": 1714805657,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122790,
       "num": 122790,
       "word": "保罗奥斯特去世",
@@ -8473,6 +8617,14 @@
       "onboard_time": 1714558279,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112747,
+      "num": 112747,
+      "word": "被TTG英文硬控了",
+      "onboard_time": 1714805657,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 112682,
@@ -8969,14 +9121,6 @@
       "onboard_time": 1714604953,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 100143,
-      "num": 100143,
-      "word": "工藤新一 智性恋天花板",
-      "onboard_time": 1714804458,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 99613,
