@@ -1,0 +1,410 @@
+{
+  "runTime": 1714796586628,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 889449,
+        "num": 889449,
+        "word": "731部队最新罪证",
+        "onboard_time": 1714790477,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807035,
+        "num": 807035,
+        "word": "梅大高速横停货车拦车司机获奖一万元",
+        "onboard_time": 1714792218,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14443,
+        "num": 645008,
+        "word": "文化中国行我写家乡",
+        "onboard_time": 1714742900,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625949,
+        "num": 625949,
+        "word": "梅大高速",
+        "onboard_time": 1714794138,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507722,
+        "num": 507722,
+        "word": "为什么人老了身上会有怪味",
+        "onboard_time": 1714786156,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 453372,
+        "num": 453372,
+        "word": "4条高铁票价将上涨",
+        "onboard_time": 1714795099,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423582,
+        "num": 423582,
+        "word": "华晨宇 我们真的做到了",
+        "onboard_time": 1714794857,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 400846,
+        "num": 400846,
+        "word": "张杰看到情侣求婚的反应",
+        "onboard_time": 1714790058,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 385056,
+        "num": 385056,
+        "word": "警方通报奔驰车主撞人后还打人",
+        "onboard_time": 1714792579,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150834,
+        "num": 375996,
+        "word": "他真的娶到了高中就想娶的女孩",
+        "onboard_time": 1714745302,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889139,
+        "num": 375676,
+        "word": "殷世航为小冰冷发声",
+        "onboard_time": 1714793299,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 372414,
+        "num": 372414,
+        "word": "奔跑吧强行煽情",
+        "onboard_time": 1714780996,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333374,
+        "num": 333374,
+        "word": "日军731部队细菌战情报员信息披露",
+        "onboard_time": 1714794738,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533222,
+        "num": 320391,
+        "word": "小冰冷",
+        "onboard_time": 1714793299,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 298669,
+        "num": 298669,
+        "word": "让脂肪下降的8个小动作",
+        "onboard_time": 1714789998,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 292147,
+        "num": 292147,
+        "word": "小孩打碎博物馆近12万瓷瓶被免赔",
+        "onboard_time": 1714778653,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388585,
+        "num": 290474,
+        "word": "唐文丽",
+        "onboard_time": 1714793898,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 286247,
+        "num": 286247,
+        "word": "杨紫琼被授予美国总统自由勋章",
+        "onboard_time": 1714789098,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258022,
+        "num": 258022,
+        "word": "胧月不认亲妈妆",
+        "onboard_time": 1714787958,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255084,
+        "num": 255084,
+        "word": "波音第2位吹哨人去世肺部发现大量细菌",
+        "onboard_time": 1714788798,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808234,
+        "num": 240062,
+        "word": "前职业选手谈胖猫代练2年赚50万",
+        "onboard_time": 1714781536,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 218071,
+        "num": 218071,
+        "word": "华晨宇演唱会唱到日出",
+        "onboard_time": 1714778774,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214156,
+        "num": 214156,
+        "word": "欧豪真的是饿了",
+        "onboard_time": 1714786458,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 581820,
+        "num": 208645,
+        "word": "多家品牌就胖猫事件道歉",
+        "onboard_time": 1714781056,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 200946,
+        "num": 200946,
+        "word": "王一博渐变色冲锋衣",
+        "onboard_time": 1714795458,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185916,
+        "num": 185916,
+        "word": "小狗打扮成这样送去迪士尼上班",
+        "onboard_time": 1714795038,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183308,
+        "num": 183308,
+        "word": "体脂率是身体最诚实的胖瘦指标",
+        "onboard_time": 1714777993,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 181047,
+        "num": 181047,
+        "word": "林更新孟子义不想近距离吃饼干",
+        "onboard_time": 1714790357,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180645,
+        "num": 180645,
+        "word": "广东新一轮暴雨又要来了",
+        "onboard_time": 1714792039,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174654,
+        "num": 174654,
+        "word": "IVE打歌舞台 联通标志",
+        "onboard_time": 1714787416,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173308,
+        "num": 173308,
+        "word": "叶祖新好像玄彬",
+        "onboard_time": 1714788498,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159013,
+        "num": 159013,
+        "word": "新人订婚双方狗狗差点打一架",
+        "onboard_time": 1714790717,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150379,
+        "num": 150379,
+        "word": "奇煜 祁煜",
+        "onboard_time": 1714789697,
+        "rank": 32,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 149808,
+        "num": 149808,
+        "word": "你好星期六金曲回忆杀",
+        "onboard_time": 1714792819,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148005,
+        "num": 148005,
+        "word": "鸿蒙与苹果安卓比肩的底气在哪里",
+        "onboard_time": 1714794320,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146547,
+        "num": 146547,
+        "word": "金赛纶晒自拍",
+        "onboard_time": 1714795339,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145981,
+        "num": 145981,
+        "word": "感觉有一亿人在衢州干饭",
+        "onboard_time": 1714793959,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131406,
+        "num": 131406,
+        "word": "波比跳 公认的燃脂运动",
+        "onboard_time": 1714795756,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 129974,
+        "num": 129974,
+        "word": "尤伯杯中国1比0日本",
+        "onboard_time": 1714793237,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127463,
+        "num": 127463,
+        "word": "张雨绮被陈丽君帅呆了",
+        "onboard_time": 1714794979,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126029,
+        "num": 126029,
+        "word": "张超改名",
+        "onboard_time": 1714780756,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125661,
+        "num": 125661,
+        "word": "看了哈尔滨一九四四才知道的事",
+        "onboard_time": 1714795756,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123994,
+        "num": 123994,
+        "word": "养猫的都知道这有多难",
+        "onboard_time": 1714794320,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122144,
+        "num": 122144,
+        "word": "快船vs独行侠",
+        "onboard_time": 1714787477,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120903,
+        "num": 120903,
+        "word": "尤伯杯",
+        "onboard_time": 1714792700,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120626,
+        "num": 120626,
+        "word": "工藤新一第30个17岁",
+        "onboard_time": 1714780275,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 114527,
+        "num": 114527,
+        "word": "房东的猫 沙漠种树vlog",
+        "onboard_time": 1714793599,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113863,
+        "num": 113863,
+        "word": "一问都不熟一查全有仇",
+        "onboard_time": 1714783398,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109149,
+        "num": 109149,
+        "word": "孙颖莎穿白色帽衫参加晚宴",
+        "onboard_time": 1714794857,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108697,
+        "num": 108697,
+        "word": "湿气排出的八个表现",
+        "onboard_time": 1714789998,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快构建现代化产业体系#"
+    }
+  }
+}

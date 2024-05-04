@@ -1,6 +1,6 @@
 {
   "startTime": 1714234826477,
-  "endTime": 1714793670298,
+  "endTime": 1714796586628,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -1491,6 +1491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 889139,
+      "num": 417432,
+      "word": "殷世航为小冰冷发声",
+      "onboard_time": 1714793299,
+      "rank": 8,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 888455,
       "num": 433087,
       "word": "为什么现在叫谁都叫老师",
@@ -1873,6 +1881,14 @@
       "onboard_time": 1714650619,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 807035,
+      "num": 807035,
+      "word": "梅大高速横停货车拦车司机获奖一万元",
+      "onboard_time": 1714792218,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 805647,
@@ -2739,6 +2755,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 625949,
+      "num": 625949,
+      "word": "梅大高速",
+      "onboard_time": 1714557078,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625671,
       "num": 625671,
       "word": "15元1个的菠萝蜜100元5个的榴莲",
@@ -3305,6 +3329,14 @@
       "onboard_time": 1714399402,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 533222,
+      "num": 320391,
+      "word": "小冰冷",
+      "onboard_time": 1714793299,
+      "rank": 26,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 533047,
@@ -4115,6 +4147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 453372,
+      "num": 453372,
+      "word": "4条高铁票价将上涨",
+      "onboard_time": 1714795099,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452993,
       "num": 337627,
       "word": "梅大高速塌陷货车司机夫妇喊停后车",
@@ -4443,6 +4483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423582,
+      "num": 423582,
+      "word": "华晨宇 我们真的做到了",
+      "onboard_time": 1714794857,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 423450,
       "num": 423450,
       "word": "长沙暴雨",
@@ -4505,14 +4553,6 @@
       "onboard_time": 1714316840,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 417432,
-      "num": 417432,
-      "word": "殷世航为小冰冷发声",
-      "onboard_time": 1714793299,
-      "rank": 8,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 417331,
@@ -4851,6 +4891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 388585,
+      "num": 290474,
+      "word": "唐文丽",
+      "onboard_time": 1714793898,
+      "rank": 16,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 388118,
       "num": 239813,
       "word": "是研究生就会懂这五分钟的含金量",
@@ -4929,6 +4977,14 @@
       "onboard_time": 1714628959,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 385056,
+      "num": 385056,
+      "word": "警方通报奔驰车主撞人后还打人",
+      "onboard_time": 1714792579,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384994,
@@ -5025,14 +5081,6 @@
       "onboard_time": 1714564878,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 375757,
-      "num": 375757,
-      "word": "梅大高速横停货车拦车司机获奖一万元",
-      "onboard_time": 1714792218,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 375518,
@@ -5553,6 +5601,14 @@
       "onboard_time": 1714299497,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 333374,
+      "num": 333374,
+      "word": "日军731部队细菌战情报员信息披露",
+      "onboard_time": 1714794738,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333363,
@@ -6179,19 +6235,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 298669,
+      "num": 298669,
+      "word": "让脂肪下降的8个小动作",
+      "onboard_time": 1714789998,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 298480,
       "num": 298480,
       "word": "武汉暴雨",
       "onboard_time": 1714279038,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298449,
-      "num": 298449,
-      "word": "梅大高速",
-      "onboard_time": 1714557078,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -7971,14 +8027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 226438,
-      "num": 226438,
-      "word": "让脂肪下降的8个小动作",
-      "onboard_time": 1714789998,
-      "rank": 44,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 226424,
       "num": 226424,
       "word": "太湖湾音乐节",
@@ -8081,14 +8129,6 @@
       "onboard_time": 1714354159,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222117,
-      "num": 222117,
-      "word": "警方通报奔驰车主撞人后还打人",
-      "onboard_time": 1714792579,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221550,
@@ -9257,6 +9297,14 @@
       "onboard_time": 1714519515,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200946,
+      "num": 200946,
+      "word": "王一博渐变色冲锋衣",
+      "onboard_time": 1714795458,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 200899,
@@ -10483,6 +10531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 185916,
+      "num": 185916,
+      "word": "小狗打扮成这样送去迪士尼上班",
+      "onboard_time": 1714795038,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185833,
       "num": 521808,
       "word": "杭州西湖边再现最美人墙",
@@ -10843,6 +10899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180645,
+      "num": 180645,
+      "word": "广东新一轮暴雨又要来了",
+      "onboard_time": 1714792039,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180644,
       "num": 180644,
       "word": "国际不打小孩日",
@@ -10985,14 +11049,6 @@
       "onboard_time": 1714392019,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 178530,
-      "num": 178530,
-      "word": "小冰冷",
-      "onboard_time": 1714793299,
-      "rank": 26,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 178437,
@@ -12347,14 +12403,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 157357,
-      "num": 157357,
-      "word": "广东新一轮暴雨又要来了",
-      "onboard_time": 1714792039,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157340,
       "num": 157340,
       "word": "嫦娥六号发射定在5月3日",
@@ -13163,6 +13211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148005,
+      "num": 148005,
+      "word": "鸿蒙与苹果安卓比肩的底气在哪里",
+      "onboard_time": 1714794320,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 147990,
       "num": 147990,
       "word": "5月第一天",
@@ -13323,6 +13379,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 146547,
+      "num": 146547,
+      "word": "金赛纶晒自拍",
+      "onboard_time": 1714795339,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146531,
       "num": 146531,
       "word": "张新成半个指甲没了",
@@ -13353,6 +13417,14 @@
       "onboard_time": 1714400181,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145981,
+      "num": 145981,
+      "word": "感觉有一亿人在衢州干饭",
+      "onboard_time": 1714793959,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 145920,
@@ -14531,6 +14603,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 131406,
+      "num": 131406,
+      "word": "波比跳 公认的燃脂运动",
+      "onboard_time": 1714795756,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 131392,
       "num": 131392,
       "word": "读书越来越像是一种表演",
@@ -14697,6 +14777,14 @@
       "onboard_time": 1714750400,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129974,
+      "num": 129974,
+      "word": "尤伯杯中国1比0日本",
+      "onboard_time": 1714793237,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 129766,
@@ -14931,6 +15019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127463,
+      "num": 127463,
+      "word": "张雨绮被陈丽君帅呆了",
+      "onboard_time": 1714794979,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127358,
       "num": 127358,
       "word": "IVE打歌舞台造型",
@@ -15027,6 +15123,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 125661,
+      "num": 125661,
+      "word": "看了哈尔滨一九四四才知道的事",
+      "onboard_time": 1714795756,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125487,
       "num": 125487,
       "word": "蔡依林演唱会",
@@ -15096,6 +15200,14 @@
       "word": "挂面塞进去没有猴会做",
       "onboard_time": 1714783517,
       "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 123994,
+      "num": 123994,
+      "word": "养猫的都知道这有多难",
+      "onboard_time": 1714794320,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -15211,20 +15323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122144,
+      "num": 122144,
+      "word": "快船vs独行侠",
+      "onboard_time": 1714787477,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122060,
       "num": 122060,
       "word": "易烊千玺飘雪侧颜",
       "onboard_time": 1714455677,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121787,
-      "num": 121787,
-      "word": "快船vs独行侠",
-      "onboard_time": 1714787477,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 121668,
@@ -15281,6 +15393,14 @@
       "onboard_time": 1714564278,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120903,
+      "num": 120903,
+      "word": "尤伯杯",
+      "onboard_time": 1714792700,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 120902,
@@ -15739,6 +15859,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 114527,
+      "num": 114527,
+      "word": "房东的猫 沙漠种树vlog",
+      "onboard_time": 1714793599,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114405,
       "num": 114405,
       "word": "女生自驾去广东一路暴雨带闪电",
@@ -16067,6 +16195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109149,
+      "num": 109149,
+      "word": "孙颖莎穿白色帽衫参加晚宴",
+      "onboard_time": 1714794857,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109086,
       "num": 418562,
       "word": "青岛人五一期间选择蹲家游",
@@ -16265,14 +16401,6 @@
       "onboard_time": 1714646478,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 106355,
-      "num": 106355,
-      "word": "尤伯杯",
-      "onboard_time": 1714792700,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 106324,
@@ -16875,14 +17003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89753,
-      "num": 89753,
-      "word": "尤伯杯中国1比0日本",
-      "onboard_time": 1714793237,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89422,
       "num": 89422,
       "word": "奥运会在即塞纳河还是臭的",
@@ -16953,14 +17073,6 @@
       "onboard_time": 1714580477,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86250,
-      "num": 86250,
-      "word": "房东的猫 沙漠种树vlog",
-      "onboard_time": 1714793599,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 85810,
