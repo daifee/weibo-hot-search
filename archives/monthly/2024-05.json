@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714846885900,
+  "endTime": 1714847676325,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -6307,6 +6307,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 185740,
+      "num": 142705,
+      "word": "晚上比早晨重3斤是减重失败了吗",
+      "onboard_time": 1714842076,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 185551,
       "num": 185551,
       "word": "CCtalk公众号",
@@ -6345,14 +6353,6 @@
       "onboard_time": 1714649419,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 184981,
-      "num": 142705,
-      "word": "晚上比早晨重3斤是减重失败了吗",
-      "onboard_time": 1714842076,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 184806,
@@ -10987,6 +10987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69183,
+      "num": 79265,
+      "word": "乃万橘发",
+      "onboard_time": 1714845913,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 68401,
       "num": 205499,
       "word": "朵莉亚音乐节前排蹦迪",
@@ -11347,14 +11355,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 40631,
-      "num": 79265,
-      "word": "乃万橘发",
-      "onboard_time": 1714845913,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 35966,
       "num": 72801,
       "word": "惜花芷今日收官",
@@ -11377,6 +11377,14 @@
       "onboard_time": 1714511952,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30824,
+      "num": 61357,
+      "word": "张碧晨演我不愿意早起",
+      "onboard_time": 1714847352,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 30479,

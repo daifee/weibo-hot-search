@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714846885900,
+  "endTime": 1714847676325,
   "band_list": [
     {
       "raw_hot": 877700,
@@ -179,7 +179,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 184981,
+      "raw_hot": 185740,
       "num": 142705,
       "word": "晚上比早晨重3斤是减重失败了吗",
       "onboard_time": 1714842076,
@@ -435,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 69183,
+      "num": 79265,
+      "word": "乃万橘发",
+      "onboard_time": 1714845913,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 66307,
       "num": 217899,
       "word": "库克现身巴菲特股东大会现场",
@@ -483,12 +491,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 40631,
-      "num": 79265,
-      "word": "乃万橘发",
-      "onboard_time": 1714845913,
-      "rank": 37,
-      "category": "演出"
+      "raw_hot": 30824,
+      "num": 61357,
+      "word": "张碧晨演我不愿意早起",
+      "onboard_time": 1714847352,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 5516,
