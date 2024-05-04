@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714796586628,
+  "endTime": 1714797333009,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -659,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 968451,
+      "num": 417432,
+      "word": "殷世航为小冰冷发声",
+      "onboard_time": 1714793299,
+      "rank": 8,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 961530,
       "num": 427872,
       "word": "秦海璐 番茄小说代言人",
@@ -713,14 +721,6 @@
       "onboard_time": 1714704679,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 889139,
-      "num": 417432,
-      "word": "殷世航为小冰冷发声",
-      "onboard_time": 1714793299,
-      "rank": 8,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 888455,
@@ -817,6 +817,14 @@
       "onboard_time": 1714630398,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 858609,
+      "num": 324596,
+      "word": "小冰冷",
+      "onboard_time": 1714793299,
+      "rank": 26,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 853020,
@@ -1187,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 669815,
+      "num": 669815,
+      "word": "梅大高速",
+      "onboard_time": 1714557078,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 665759,
       "num": 531048,
       "word": "张杰看到情侣求婚的反应",
@@ -1240,6 +1256,14 @@
       "word": "华晨宇演唱会唱到日出",
       "onboard_time": 1714778774,
       "rank": 7,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 645475,
+      "num": 645475,
+      "word": "华晨宇 我们真的做到了",
+      "onboard_time": 1714794857,
+      "rank": 6,
       "category": "演出"
     },
     {
@@ -1313,14 +1337,6 @@
       "onboard_time": 1714573639,
       "rank": 41,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 625949,
-      "num": 625949,
-      "word": "梅大高速",
-      "onboard_time": 1714557078,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 625329,
@@ -1459,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557916,
+      "num": 557916,
+      "word": "4条高铁票价将上涨",
+      "onboard_time": 1714795099,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556592,
       "num": 376231,
       "word": "女子胎儿畸形引产后分手被要求退15万彩礼",
@@ -1587,20 +1611,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 534722,
+      "num": 290474,
+      "word": "唐文丽",
+      "onboard_time": 1714793898,
+      "rank": 16,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 534188,
       "num": 495836,
       "word": "昆明蓝莓12元1盒震惊外地游客",
       "onboard_time": 1714652059,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 533222,
-      "num": 320391,
-      "word": "小冰冷",
-      "onboard_time": 1714793299,
-      "rank": 26,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 533047,
@@ -1795,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 477378,
+      "num": 477378,
+      "word": "日军731部队细菌战情报员信息披露",
+      "onboard_time": 1714794738,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477256,
       "num": 477256,
       "word": "他可是宝莲灯沉香",
@@ -1953,14 +1985,6 @@
       "onboard_time": 1714621758,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 453372,
-      "num": 453372,
-      "word": "4条高铁票价将上涨",
-      "onboard_time": 1714795099,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 452993,
@@ -2145,14 +2169,6 @@
       "onboard_time": 1714530018,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 423582,
-      "num": 423582,
-      "word": "华晨宇 我们真的做到了",
-      "onboard_time": 1714794857,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 423203,
@@ -2395,14 +2411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 388585,
-      "num": 290474,
-      "word": "唐文丽",
-      "onboard_time": 1714793898,
-      "rank": 16,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 388118,
       "num": 239813,
       "word": "是研究生就会懂这五分钟的含金量",
@@ -2416,6 +2424,14 @@
       "word": "波音第2位吹哨人去世肺部发现大量细菌",
       "onboard_time": 1714788798,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386634,
+      "num": 386634,
+      "word": "警方通报奔驰车主撞人后还打人",
+      "onboard_time": 1714792579,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -2433,14 +2449,6 @@
       "onboard_time": 1714628959,
       "rank": 25,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 385056,
-      "num": 385056,
-      "word": "警方通报奔驰车主撞人后还打人",
-      "onboard_time": 1714792579,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384032,
@@ -2761,14 +2769,6 @@
       "onboard_time": 1714790357,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 333374,
-      "num": 333374,
-      "word": "日军731部队细菌战情报员信息披露",
-      "onboard_time": 1714794738,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332815,
@@ -3843,6 +3843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 227966,
+      "num": 227966,
+      "word": "IVE新歌和咆哮是一个调",
+      "onboard_time": 1714796959,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 227327,
       "num": 227327,
       "word": "内蒙古一服务区切糕切出1万2称按克卖",
@@ -4177,6 +4185,14 @@
       "onboard_time": 1714533498,
       "rank": 30,
       "category": "动漫,互联网"
+    },
+    {
+      "raw_hot": 208535,
+      "num": 208535,
+      "word": "五哈",
+      "onboard_time": 1714796959,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 208404,
@@ -4681,6 +4697,14 @@
       "onboard_time": 1714711760,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196703,
+      "num": 196703,
+      "word": "尤伯杯凡晨组合大逆转",
+      "onboard_time": 1714796600,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 196529,
@@ -5755,6 +5779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165555,
+      "num": 165555,
+      "word": "欧文赛点的神",
+      "onboard_time": 1714797317,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165410,
       "num": 165410,
       "word": "辽宁男篮vs广东男篮",
@@ -5939,6 +5971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161241,
+      "num": 161241,
+      "word": "感觉有一亿人在衢州干饭",
+      "onboard_time": 1714793959,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161096,
       "num": 161096,
       "word": "张艺兴女团将加入新成员",
@@ -5969,6 +6009,14 @@
       "onboard_time": 1714708039,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 160097,
+      "num": 160097,
+      "word": "快船vs独行侠",
+      "onboard_time": 1714787477,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 159936,
@@ -6411,6 +6459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149134,
+      "num": 149134,
+      "word": "波比跳 公认的燃脂运动",
+      "onboard_time": 1714795756,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 149127,
       "num": 149127,
       "word": "马克西绝平三分",
@@ -6499,6 +6555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146590,
+      "num": 146590,
+      "word": "起猛了遇到孙策给扁鹊下毒了",
+      "onboard_time": 1714796600,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146568,
       "num": 146568,
       "word": "shamon抽奖",
@@ -6529,14 +6593,6 @@
       "onboard_time": 1714638439,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145981,
-      "num": 145981,
-      "word": "感觉有一亿人在衢州干饭",
-      "onboard_time": 1714793959,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 145868,
@@ -6601,6 +6657,14 @@
       "onboard_time": 1714537699,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145219,
+      "num": 145219,
+      "word": "珠海暴雨",
+      "onboard_time": 1714797079,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145004,
@@ -7251,14 +7315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131406,
-      "num": 131406,
-      "word": "波比跳 公认的燃脂运动",
-      "onboard_time": 1714795756,
-      "rank": 37,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 131340,
       "num": 131340,
       "word": "郭艾伦来看辽粤大战了",
@@ -7649,14 +7705,6 @@
       "onboard_time": 1714718000,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122144,
-      "num": 122144,
-      "word": "快船vs独行侠",
-      "onboard_time": 1714787477,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 121607,
