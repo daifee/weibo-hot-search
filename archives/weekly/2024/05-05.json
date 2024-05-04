@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714862038631,
+  "endTime": 1714864665350,
   "band_list": [
     {
       "raw_hot": 877700,
@@ -139,6 +139,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 226245,
+      "num": 142705,
+      "word": "晚上比早晨重3斤是减重失败了吗",
+      "onboard_time": 1714842076,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 223033,
       "num": 223033,
       "word": "歌手2024",
@@ -153,6 +161,22 @@
       "onboard_time": 1714829240,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211382,
+      "num": 217933,
+      "word": "为什么日本人门前爱放整排矿泉水瓶",
+      "onboard_time": 1714822098,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 207841,
+      "num": 207841,
+      "word": "立夏",
+      "onboard_time": 1714864094,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197437,
@@ -177,14 +201,6 @@
       "onboard_time": 1714830980,
       "rank": 16,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 185740,
-      "num": 142705,
-      "word": "晚上比早晨重3斤是减重失败了吗",
-      "onboard_time": 1714842076,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 181754,
@@ -219,12 +235,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145886,
+      "num": 108675,
+      "word": "肖战伍嘉成微博互动",
+      "onboard_time": 1714864154,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141540,
       "num": 217937,
       "word": "金价",
       "onboard_time": 1714827799,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 140644,
+      "num": 142738,
+      "word": "国铁集团回应高铁票价将上涨",
+      "onboard_time": 1714841595,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138864,
@@ -243,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137415,
-      "num": 142738,
-      "word": "国铁集团回应高铁票价将上涨",
-      "onboard_time": 1714841595,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132360,
       "num": 217938,
       "word": "林俊杰唱了一生的爱",
@@ -265,14 +289,6 @@
       "onboard_time": 1714818680,
       "rank": 31,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 127805,
-      "num": 217933,
-      "word": "为什么日本人门前爱放整排矿泉水瓶",
-      "onboard_time": 1714822098,
-      "rank": 32,
-      "category": "科学科普"
     },
     {
       "raw_hot": 124481,
@@ -291,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117311,
+      "num": 217928,
+      "word": "8岁女孩从300度近视变成400度远视",
+      "onboard_time": 1714827920,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111621,
       "num": 217916,
       "word": "时代少年团演唱会直播",
@@ -307,12 +331,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 108871,
-      "num": 217928,
-      "word": "8岁女孩从300度近视变成400度远视",
-      "onboard_time": 1714827920,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 106641,
+      "num": 106641,
+      "word": "有商家每天出货四五万只脸基尼",
+      "onboard_time": 1714861032,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 104146,
@@ -451,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66476,
+      "num": 66476,
+      "word": "张碧晨演我不愿意早起",
+      "onboard_time": 1714847352,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66307,
       "num": 217899,
       "word": "库克现身巴菲特股东大会现场",
@@ -491,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55350,
+      "num": 55350,
+      "word": "北方人能有多抵触吃挂面",
+      "onboard_time": 1714864094,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 55090,
       "num": 217901,
       "word": "逐花归海首秀首胜",
@@ -499,20 +539,52 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 42255,
-      "num": 61357,
-      "word": "张碧晨演我不愿意早起",
-      "onboard_time": 1714847352,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 43271,
+      "num": 43271,
+      "word": "小时候妈妈教你走路现在再教一次",
+      "onboard_time": 1714858151,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 28754,
-      "num": 28754,
-      "word": "有商家每天出货四五万只脸基尼",
-      "onboard_time": 1714861032,
-      "rank": 33,
-      "category": "美妆"
+      "raw_hot": 36545,
+      "num": 36545,
+      "word": "随便吃同事真的很不礼貌",
+      "onboard_time": 1714864574,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 35760,
+      "num": 35760,
+      "word": "脸基尼",
+      "onboard_time": 1714863733,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 34426,
+      "num": 34426,
+      "word": "古天乐好帅",
+      "onboard_time": 1714859170,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 31823,
+      "num": 31823,
+      "word": "开始期待端午了",
+      "onboard_time": 1714864574,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 28957,
+      "num": 28957,
+      "word": "四川的猫咪自带松弛感",
+      "onboard_time": 1714859111,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 27657,
@@ -521,30 +593,6 @@
       "onboard_time": 1714848433,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 27345,
-      "num": 28426,
-      "word": "小时候妈妈教你走路现在再教一次",
-      "onboard_time": 1714858151,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26902,
-      "num": 28418,
-      "word": "古天乐好帅",
-      "onboard_time": 1714859170,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 15923,
-      "num": 27955,
-      "word": "四川的猫咪自带松弛感",
-      "onboard_time": 1714859111,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 5516,
