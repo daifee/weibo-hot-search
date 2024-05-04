@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714840514917,
+  "endTime": 1714842913648,
   "band_list": [
     {
       "raw_hot": 877700,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 424254,
+      "num": 217951,
+      "word": "加拿大一家3男捐精捐出超600个娃",
+      "onboard_time": 1714838898,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402148,
       "num": 402148,
       "word": "卵巢过快衰老的几个信号",
@@ -73,6 +81,14 @@
       "onboard_time": 1714834821,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359307,
+      "num": 170886,
+      "word": "网友曾在泰妍家住宿",
+      "onboard_time": 1714840816,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 337134,
@@ -105,14 +121,6 @@
       "onboard_time": 1714836559,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 251725,
-      "num": 217951,
-      "word": "加拿大一家3男捐精捐出超600个娃",
-      "onboard_time": 1714838898,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234875,
@@ -267,12 +275,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111621,
+      "num": 217916,
+      "word": "时代少年团演唱会直播",
+      "onboard_time": 1714821498,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108871,
       "num": 217928,
       "word": "8岁女孩从300度近视变成400度远视",
       "onboard_time": 1714827920,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106161,
+      "num": 89437,
+      "word": "晚上比早晨重3斤是减重失败了吗",
+      "onboard_time": 1714842076,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 104146,
@@ -289,14 +313,6 @@
       "onboard_time": 1714835241,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98270,
-      "num": 217916,
-      "word": "时代少年团演唱会直播",
-      "onboard_time": 1714821498,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 97961,
@@ -379,6 +395,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81954,
+      "num": 89273,
+      "word": "潘玮柏演唱会大屏上的一家三口",
+      "onboard_time": 1714842255,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 80827,
+      "num": 90450,
+      "word": "国铁集团回应高铁票价将上涨",
+      "onboard_time": 1714841595,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75293,
+      "num": 89259,
+      "word": "张真源绿海",
+      "onboard_time": 1714825820,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 75034,
       "num": 217907,
       "word": "眼泪女王特辑",
@@ -401,6 +441,30 @@
       "onboard_time": 1714835599,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 65407,
+      "num": 89218,
+      "word": "宋亚轩蝴蝶元素",
+      "onboard_time": 1714832541,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 57759,
+      "num": 89156,
+      "word": "五月天香港",
+      "onboard_time": 1714841836,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 56451,
+      "num": 89139,
+      "word": "李帝努脱了",
+      "onboard_time": 1714825459,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 55090,
