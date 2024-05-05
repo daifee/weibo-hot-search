@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714930460749,
+  "endTime": 1714933295211,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -14139,6 +14139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40734,
+      "num": 40734,
+      "word": "教育回报率越来越低了吗",
+      "onboard_time": 1714932133,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 40731,
       "num": 46018,
       "word": "你家文旅真拼啊",
@@ -14187,12 +14195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31009,
+      "num": 31009,
+      "word": "眼泪女王",
+      "onboard_time": 1714931592,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30479,
       "num": 38487,
       "word": "背书时就能看见骨子里的谦让",
       "onboard_time": 1714769590,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 29835,
+      "num": 30953,
+      "word": "一晚两场演唱会民警人海硬控忙不停",
+      "onboard_time": 1714930573,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 29540,
