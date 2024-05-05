@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714929359095,
+  "endTime": 1714930460749,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -3115,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81386,
+      "num": 75794,
+      "word": "中法关系始终走在中国同西方国家关系前列",
+      "onboard_time": 1714928535,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 80216,
       "num": 79265,
       "word": "乃万橘发",
@@ -3129,14 +3137,6 @@
       "onboard_time": 1714865353,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 75794,
-      "num": 75794,
-      "word": "中法关系始终走在中国同西方国家关系前列",
-      "onboard_time": 1714928535,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 75293,
@@ -3305,6 +3305,14 @@
       "onboard_time": 1714858151,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38128,
+      "num": 45839,
+      "word": "切尔西vs西汉姆联",
+      "onboard_time": 1714929853,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 34426,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1714930460749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 446612,
+        "num": 446612,
+        "word": "未来三天有可能爆发M级甚至X级以上耀斑",
+        "onboard_time": 1714897518,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305095,
+        "num": 305095,
+        "word": "看腿就知道你血糖高了",
+        "onboard_time": 1714914680,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 9904,
+        "num": 252496,
+        "word": "文化中国行发现节气之美",
+        "onboard_time": 1714896140,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211091,
+        "num": 211091,
+        "word": "网购7700元迪士尼套餐最终民警护送入园",
+        "onboard_time": 1714910658,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86611,
+        "num": 199508,
+        "word": "白桃星座",
+        "onboard_time": 1714920741,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 378066,
+        "num": 162197,
+        "word": "凤凰传奇观众被质疑假唱",
+        "onboard_time": 1714919121,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 325163,
+        "num": 135308,
+        "word": "特斯拉坠崖致夫妻身亡记录仪数据却没了",
+        "onboard_time": 1714917921,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232560,
+        "num": 129224,
+        "word": "第一次看到张元英表情管理失败",
+        "onboard_time": 1714915460,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109326,
+        "num": 109326,
+        "word": "室友讨厌甄嬛的理由",
+        "onboard_time": 1714913599,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57257,
+        "num": 108491,
+        "word": "新疆2元一个的烤包子火了",
+        "onboard_time": 1714909519,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 278170,
+        "num": 108378,
+        "word": "小胖的梦奇",
+        "onboard_time": 1714919301,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191330,
+        "num": 108232,
+        "word": "泫雅一个月晕倒12次",
+        "onboard_time": 1714914321,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107991,
+        "num": 107991,
+        "word": "陈奕迅 安可",
+        "onboard_time": 1714917861,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137634,
+        "num": 107685,
+        "word": "林俊杰肌肉比脸大",
+        "onboard_time": 1714917921,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104956,
+        "num": 104956,
+        "word": "IVE新歌疑似抄袭EXO咆哮",
+        "onboard_time": 1714916118,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91796,
+        "num": 104767,
+        "word": "眼泪女王未公开kiss场面",
+        "onboard_time": 1714918101,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86665,
+        "num": 102917,
+        "word": "五一档电影为什么没有很多人看",
+        "onboard_time": 1714907838,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77333,
+        "num": 101038,
+        "word": "官方通报叫花鸡里没有鸡",
+        "onboard_time": 1714918581,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75135,
+        "num": 99704,
+        "word": "花少是一场盛大的be美学",
+        "onboard_time": 1714916060,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66803,
+        "num": 98466,
+        "word": "中国队时隔6年重夺汤杯",
+        "onboard_time": 1714920021,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207211,
+        "num": 98277,
+        "word": "为什么恋爱让人觉得累",
+        "onboard_time": 1714923740,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115966,
+        "num": 95937,
+        "word": "为什么月薪五千每天这么多事",
+        "onboard_time": 1714908198,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95696,
+        "num": 95696,
+        "word": "为什么年轻人流行偷偷领证",
+        "onboard_time": 1714926737,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92330,
+        "num": 92330,
+        "word": "黄明昊提跑车通知全世界",
+        "onboard_time": 1714924938,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89076,
+        "num": 89076,
+        "word": "白鹿纯白花嫁",
+        "onboard_time": 1714927275,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86362,
+        "num": 86362,
+        "word": "林允好精致的五官",
+        "onboard_time": 1714925178,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80985,
+        "num": 80985,
+        "word": "这8个表现说明你已经瘦了",
+        "onboard_time": 1714914680,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78697,
+        "num": 78697,
+        "word": "原来跳绳是先瘦肚子再瘦腿",
+        "onboard_time": 1714907778,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73609,
+        "num": 73609,
+        "word": "老外在五星级酒店脱了裤子当众小便",
+        "onboard_time": 1714918220,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47596,
+        "num": 72061,
+        "word": "减肥要做到3个一",
+        "onboard_time": 1714914619,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 81386,
+        "num": 71980,
+        "word": "中法关系始终走在中国同西方国家关系前列",
+        "onboard_time": 1714928535,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71221,
+        "num": 71221,
+        "word": "张一山卡点回复杨紫",
+        "onboard_time": 1714908259,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66816,
+        "num": 66816,
+        "word": "父亲因没钱给女儿买手机自责跪地",
+        "onboard_time": 1714908499,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66292,
+        "num": 66292,
+        "word": "塞尔维亚街头现巨幅中国国旗",
+        "onboard_time": 1714923079,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 64604,
+        "num": 64604,
+        "word": "章子怡酱园弄剧照",
+        "onboard_time": 1714916902,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55015,
+        "num": 55015,
+        "word": "贾冰 爱豆级表情管理",
+        "onboard_time": 1714924698,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53625,
+        "num": 53625,
+        "word": "喻言在KTV直播",
+        "onboard_time": 1714919659,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 52134,
+        "num": 52134,
+        "word": "金智媛婚纱剧照",
+        "onboard_time": 1714915760,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49881,
+        "num": 49881,
+        "word": "杨幂回应首次把真发染红",
+        "onboard_time": 1714895118,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48405,
+        "num": 48405,
+        "word": "BLG上上签",
+        "onboard_time": 1714915099,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46889,
+        "num": 46889,
+        "word": "医院被举报代孕1小时后产妇出院被疑通风报信",
+        "onboard_time": 1714897279,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46139,
+        "num": 46139,
+        "word": "凤凰传奇太嗨了",
+        "onboard_time": 1714918941,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45923,
+        "num": 45923,
+        "word": "黄子韬徐艺洋吵架受伤的是姜潮",
+        "onboard_time": 1714895539,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45866,
+        "num": 45866,
+        "word": "苏打绿巡演",
+        "onboard_time": 1714927575,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43343,
+        "num": 45862,
+        "word": "曾毅 老来俏",
+        "onboard_time": 1714922480,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41361,
+        "num": 45853,
+        "word": "王力宏 山东省文旅厅",
+        "onboard_time": 1714894159,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38401,
+        "num": 45848,
+        "word": "田小江死在了漫长的季节里",
+        "onboard_time": 1714914859,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38142,
+        "num": 45845,
+        "word": "迪丽热巴郭晓婷胡意旋录开推",
+        "onboard_time": 1714917621,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38128,
+        "num": 45839,
+        "word": "切尔西vs西汉姆联",
+        "onboard_time": 1714929853,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36358,
+        "num": 45830,
+        "word": "MSI赛程",
+        "onboard_time": 1714921880,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席访问法国#"
+    }
+  }
+}
