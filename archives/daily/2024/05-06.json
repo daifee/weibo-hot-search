@@ -1,10 +1,10 @@
 {
   "startTime": 1714926165838,
-  "endTime": 1714926165838,
+  "endTime": 1714926992604,
   "band_list": [
     {
       "raw_hot": 1035239,
-      "num": 262945,
+      "num": 287433,
       "word": "凤凰传奇观众被质疑假唱",
       "onboard_time": 1714919121,
       "rank": 5,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 611149,
-      "num": 260087,
+      "num": 270317,
       "word": "特斯拉坠崖致夫妻身亡记录仪数据却没了",
       "onboard_time": 1714917921,
       "rank": 6,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554365,
+      "num": 249162,
+      "word": "小胖的梦奇",
+      "onboard_time": 1714919301,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 531579,
       "num": 258775,
       "word": "第一次看到张元英表情管理失败",
@@ -51,12 +59,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 508295,
-      "num": 249162,
-      "word": "小胖的梦奇",
-      "onboard_time": 1714919301,
-      "rank": 10,
-      "category": "电竞"
+      "raw_hot": 423568,
+      "num": 173478,
+      "word": "为什么恋爱让人觉得累",
+      "onboard_time": 1714923740,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 411733,
@@ -81,14 +89,6 @@
       "onboard_time": 1714923079,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 303438,
-      "num": 173478,
-      "word": "为什么恋爱让人觉得累",
-      "onboard_time": 1714923740,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 293632,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 266450,
-      "num": 266450,
+      "num": 304185,
       "word": "白桃星座",
       "onboard_time": 1714920741,
       "rank": 4,
@@ -139,8 +139,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219495,
-      "num": 219495,
+      "raw_hot": 221191,
+      "num": 221191,
       "word": "IVE新歌疑似抄袭EXO咆哮",
       "onboard_time": 1714916118,
       "rank": 14,
@@ -163,6 +163,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180141,
+      "num": 156000,
+      "word": "林允好精致的五官",
+      "onboard_time": 1714925178,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174673,
+      "num": 158686,
+      "word": "黄明昊提跑车通知全世界",
+      "onboard_time": 1714924938,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163463,
       "num": 163463,
       "word": "老外在五星级酒店脱了裤子当众小便",
@@ -171,28 +187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158686,
-      "num": 158686,
-      "word": "黄明昊提跑车通知全世界",
-      "onboard_time": 1714924938,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158351,
       "num": 183400,
       "word": "章子怡酱园弄剧照",
       "onboard_time": 1714916902,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 156000,
-      "num": 156000,
-      "word": "林允好精致的五官",
-      "onboard_time": 1714925178,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 153578,
@@ -267,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116442,
+      "num": 175367,
+      "word": "中国队时隔6年重夺汤杯",
+      "onboard_time": 1714920021,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115985,
       "num": 115985,
       "word": "王力宏 山东省文旅厅",
@@ -283,16 +291,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 111021,
-      "num": 175367,
-      "word": "中国队时隔6年重夺汤杯",
-      "onboard_time": 1714920021,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110203,
-      "num": 110203,
+      "num": 120983,
       "word": "减肥要做到3个一",
       "onboard_time": 1714914619,
       "rank": 37,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 104851,
-      "num": 104851,
+      "num": 137334,
       "word": "官方通报叫花鸡里没有鸡",
       "onboard_time": 1714918581,
       "rank": 39,
@@ -395,8 +395,24 @@
       "category": "情感"
     },
     {
+      "raw_hot": 68731,
+      "num": 68731,
+      "word": "为什么年轻人流行偷偷领证",
+      "onboard_time": 1714926737,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 63507,
+      "num": 63507,
+      "word": "金秀贤金智媛ins更新照",
+      "onboard_time": 1714911859,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29264,
-      "num": 411458,
+      "num": 451645,
       "word": "数说中法合作亮眼成绩单",
       "onboard_time": 1714914019,
       "rank": 2,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#习近平抵达巴黎奥利国际机场的书面讲话#"
+    },
+    {
+      "word": "#习主席访问法国#"
     }
   ]
 }

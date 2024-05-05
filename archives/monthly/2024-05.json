@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714926165838,
+  "endTime": 1714926992604,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -2283,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554365,
+      "num": 498433,
+      "word": "小胖的梦奇",
+      "onboard_time": 1714919301,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 554195,
       "num": 493201,
       "word": "被韩国人精致穷的消费观震惊",
@@ -2601,14 +2609,6 @@
       "onboard_time": 1714693454,
       "rank": 15,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 508295,
-      "num": 498433,
-      "word": "小胖的梦奇",
-      "onboard_time": 1714919301,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 507736,
@@ -3297,6 +3297,14 @@
       "onboard_time": 1714530018,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423568,
+      "num": 173478,
+      "word": "为什么恋爱让人觉得累",
+      "onboard_time": 1714923740,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 423203,
@@ -4641,14 +4649,6 @@
       "onboard_time": 1714897639,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 303438,
-      "num": 173478,
-      "word": "为什么恋爱让人觉得累",
-      "onboard_time": 1714923740,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 301623,
@@ -8259,6 +8259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 180141,
+      "num": 156000,
+      "word": "林允好精致的五官",
+      "onboard_time": 1714925178,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 180047,
       "num": 217935,
       "word": "施一公谈大学生用ChatGPT",
@@ -8585,6 +8593,14 @@
       "onboard_time": 1714901480,
       "rank": 31,
       "category": "军事,国外时政"
+    },
+    {
+      "raw_hot": 174673,
+      "num": 158686,
+      "word": "黄明昊提跑车通知全世界",
+      "onboard_time": 1714924938,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 174601,
@@ -9539,14 +9555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158686,
-      "num": 158686,
-      "word": "黄明昊提跑车通知全世界",
-      "onboard_time": 1714924938,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158598,
       "num": 158598,
       "word": "戚薇说李承铉飘了",
@@ -9705,14 +9713,6 @@
       "onboard_time": 1714919482,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 156000,
-      "num": 156000,
-      "word": "林允好精致的五官",
-      "onboard_time": 1714925178,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 155989,
@@ -13681,6 +13681,14 @@
       "onboard_time": 1714847833,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68731,
+      "num": 68731,
+      "word": "为什么年轻人流行偷偷领证",
+      "onboard_time": 1714926737,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 68401,
