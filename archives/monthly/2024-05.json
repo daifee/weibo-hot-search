@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714887255147,
+  "endTime": 1714890246901,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -299,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1514880,
+      "num": 1514880,
+      "word": "考上北大却发现读的成本好高",
+      "onboard_time": 1714885638,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1494772,
       "num": 753225,
       "word": "牛约堡致歉",
@@ -449,14 +457,6 @@
       "onboard_time": 1714879938,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1280143,
-      "num": 1280143,
-      "word": "考上北大却发现读的成本好高",
-      "onboard_time": 1714885638,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 1276632,
@@ -892,7 +892,7 @@
     },
     {
       "raw_hot": 922439,
-      "num": 586150,
+      "num": 687610,
       "word": "电影圈 七天无理由退货",
       "onboard_time": 1714885520,
       "rank": 7,
@@ -944,6 +944,14 @@
       "word": "梅大高速塌方",
       "onboard_time": 1714659859,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 884481,
+      "num": 444879,
+      "word": "女子称住酒店裸睡被人强行刷开房门",
+      "onboard_time": 1714889118,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1499,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 673741,
+      "num": 464151,
+      "word": "眉庄去世为什么太后不闻不问",
+      "onboard_time": 1714888458,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 672805,
       "num": 334112,
       "word": "梅龙高速塌方亲历者在路塌前冲了过去",
@@ -1905,6 +1921,14 @@
       "onboard_time": 1714812139,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 587309,
+      "num": 587309,
+      "word": "游泳教练憋气练习时意外溺亡",
+      "onboard_time": 1714886418,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 585149,
@@ -2451,6 +2475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473821,
+      "num": 473821,
+      "word": "对河南大学大礼堂火灾事故挂牌督办",
+      "onboard_time": 1714889118,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471485,
       "num": 471485,
       "word": "杨幂业内口碑",
@@ -2705,6 +2737,14 @@
       "onboard_time": 1714703298,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 442004,
+      "num": 442004,
+      "word": "没有一次撤档解决不了的事",
+      "onboard_time": 1714887258,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 441982,
@@ -3083,6 +3123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 407347,
+      "num": 407347,
+      "word": "陈赫妈妈是来录陈赫吐槽大会吗",
+      "onboard_time": 1714889239,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406990,
       "num": 406990,
       "word": "周扬青最后的动作是脑子一热",
@@ -3259,6 +3307,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 388230,
+      "num": 388230,
+      "word": "刘亦菲活动",
+      "onboard_time": 1714889477,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388118,
       "num": 239813,
       "word": "是研究生就会懂这五分钟的含金量",
@@ -3305,6 +3361,14 @@
       "onboard_time": 1714628959,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 384970,
+      "num": 384970,
+      "word": "猴子抢了游客防晒衣出不来了",
+      "onboard_time": 1714885398,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 384900,
@@ -3625,6 +3689,14 @@
       "onboard_time": 1714753038,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 346732,
+      "num": 346732,
+      "word": "国务院安委会派督导组赴河南",
+      "onboard_time": 1714889539,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346526,
@@ -4723,20 +4795,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252703,
-      "num": 252703,
-      "word": "猴子抢了游客防晒衣出不来了",
-      "onboard_time": 1714885398,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 252067,
       "num": 252067,
       "word": "蔡文静排名",
       "onboard_time": 1714713260,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251929,
+      "num": 251929,
+      "word": "IU捐赠1亿韩元",
+      "onboard_time": 1714889419,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 251590,
@@ -4969,14 +5041,6 @@
       "onboard_time": 1714489279,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 240610,
-      "num": 240610,
-      "word": "游泳教练憋气练习时意外溺亡",
-      "onboard_time": 1714886418,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240116,
@@ -6187,6 +6251,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 200270,
+      "num": 200270,
+      "word": "卡西法演我不想上班",
+      "onboard_time": 1714890019,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 200216,
       "num": 200216,
       "word": "贺峻霖 你们愿意吗",
@@ -6345,6 +6417,14 @@
       "onboard_time": 1714650799,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197497,
+      "num": 197497,
+      "word": "关雪被求婚",
+      "onboard_time": 1714889658,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 197437,
@@ -6643,6 +6723,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 192251,
+      "num": 192251,
+      "word": "鹿晗也去吃淄博烧烤了",
+      "onboard_time": 1714889118,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192242,
       "num": 192242,
       "word": "九龙城寨 港片回来了",
@@ -6657,6 +6745,14 @@
       "onboard_time": 1714527018,
       "rank": 26,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 191552,
+      "num": 191552,
+      "word": "华晨宇浪漫",
+      "onboard_time": 1714889719,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 191194,
@@ -6681,6 +6777,14 @@
       "onboard_time": 1714536917,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191030,
+      "num": 191030,
+      "word": "刘畊宏美依礼芽跳本草纲目",
+      "onboard_time": 1714887318,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 190923,
@@ -6923,6 +7027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186890,
+      "num": 186890,
+      "word": "何浩楠 捞虾时刻",
+      "onboard_time": 1714889419,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186803,
       "num": 186803,
       "word": "反向旅游",
@@ -7009,6 +7121,14 @@
       "onboard_time": 1714649419,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185119,
+      "num": 185119,
+      "word": "田嘉瑞说杨幂程潇打游戏很厉害",
+      "onboard_time": 1714889239,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 184806,
@@ -7219,6 +7339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179477,
+      "num": 179477,
+      "word": "刘畊宏妻子和女儿为刘畊宏加油",
+      "onboard_time": 1714889898,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179337,
       "num": 175118,
       "word": "刘宇宁给迪丽热巴101品牌撑个场",
@@ -7345,6 +7473,14 @@
       "onboard_time": 1714741041,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176387,
+      "num": 179871,
+      "word": "我真的吃不了上班的苦",
+      "onboard_time": 1714889177,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 176352,
@@ -7547,6 +7683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172818,
+      "num": 172818,
+      "word": "突然理解了朋友跟好朋友的区别",
+      "onboard_time": 1714888397,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172569,
       "num": 172569,
       "word": "读研对一个人最大的改变",
@@ -7649,6 +7793,14 @@
       "onboard_time": 1714637719,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170189,
+      "num": 445835,
+      "word": "五一感受到了绝对安全感",
+      "onboard_time": 1714889177,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 169960,
@@ -8451,12 +8603,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 154875,
+      "num": 154875,
+      "word": "为什么刚学电脑时没人告诉我",
+      "onboard_time": 1714886898,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 154844,
       "num": 154844,
       "word": "央视boys把我说馋了",
       "onboard_time": 1714532777,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154817,
+      "num": 154817,
+      "word": "原来朋友真的可以在路上遇到",
+      "onboard_time": 1714886838,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 154803,
@@ -8640,6 +8808,14 @@
       "word": "杨蓉当经纪人话术一套一套的",
       "onboard_time": 1714545079,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151310,
+      "num": 151310,
+      "word": "被魏大勋的腿硬控了",
+      "onboard_time": 1714887859,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -9169,6 +9345,14 @@
       "onboard_time": 1714877238,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143559,
+      "num": 143559,
+      "word": "卫健委回应重庆一医院代孕事件",
+      "onboard_time": 1714889959,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143325,
@@ -9859,14 +10043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131245,
-      "num": 131245,
-      "word": "原来朋友真的可以在路上遇到",
-      "onboard_time": 1714886838,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 131001,
       "num": 264792,
       "word": "2套房京籍家庭可在五环外新购1套房",
@@ -10123,14 +10299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127436,
-      "num": 127436,
-      "word": "为什么刚学电脑时没人告诉我",
-      "onboard_time": 1714886898,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 127358,
       "num": 127358,
       "word": "IVE打歌舞台造型",
@@ -10211,6 +10379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125323,
+      "num": 125323,
+      "word": "从春节档到五一档",
+      "onboard_time": 1714888698,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124948,
       "num": 115427,
       "word": "总是突然口干舌燥别以为是缺水",
@@ -10225,6 +10401,14 @@
       "onboard_time": 1714735339,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124796,
+      "num": 124796,
+      "word": "时代少年团你们走错了",
+      "onboard_time": 1714888278,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 124323,
@@ -10409,6 +10593,14 @@
       "onboard_time": 1714541479,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121267,
+      "num": 121267,
+      "word": "孟佳当选手被张雨绮秒淘汰",
+      "onboard_time": 1714890197,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 121212,
