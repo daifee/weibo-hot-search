@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714940269634,
+  "endTime": 1714941263195,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -14187,6 +14187,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 32304,
+      "num": 32304,
+      "word": "F1",
+      "onboard_time": 1714938191,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 31619,
       "num": 31318,
       "word": "中央气象台发强对流天气橙色预警",
@@ -14259,28 +14267,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26908,
-      "num": 26908,
-      "word": "毕业后唯一没还给老师的品质",
-      "onboard_time": 1714935192,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 26437,
-      "num": 26437,
+      "raw_hot": 27413,
+      "num": 27413,
       "word": "麦当娜160万人演唱会",
       "onboard_time": 1714936691,
       "rank": 45,
       "category": "演出"
     },
     {
-      "raw_hot": 26060,
-      "num": 26060,
-      "word": "F1",
-      "onboard_time": 1714938191,
-      "rank": 17,
-      "category": "汽车"
+      "raw_hot": 26908,
+      "num": 26908,
+      "word": "毕业后唯一没还给老师的品质",
+      "onboard_time": 1714935192,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 25663,
@@ -14377,6 +14377,14 @@
       "onboard_time": 1713927617,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17521,
+      "num": 17521,
+      "word": "重生之我在爽文短剧里当演员",
+      "onboard_time": 1714940292,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 16988,
