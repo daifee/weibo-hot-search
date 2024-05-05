@@ -1,0 +1,410 @@
+{
+  "runTime": 1714922349055,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1419139,
+        "num": 1419139,
+        "word": "看腿就知道你血糖高了",
+        "onboard_time": 1714914680,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1285809,
+        "num": 1285809,
+        "word": "凤凰传奇观众被质疑假唱",
+        "onboard_time": 1714919121,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43897,
+        "num": 1168831,
+        "word": "数说中法合作亮眼成绩单",
+        "onboard_time": 1714914019,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1127574,
+        "num": 1127574,
+        "word": "特斯拉坠崖致夫妻身亡记录仪数据却没了",
+        "onboard_time": 1714917921,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791865,
+        "num": 791865,
+        "word": "国羽男队第11次汤姆斯杯夺冠",
+        "onboard_time": 1714919659,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1952948,
+        "num": 767517,
+        "word": "发烧",
+        "onboard_time": 1714910719,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 922723,
+        "num": 755978,
+        "word": "第一次看到张元英表情管理失败",
+        "onboard_time": 1714915460,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 736894,
+        "num": 736894,
+        "word": "未来三天有可能爆发M级甚至X级以上耀斑",
+        "onboard_time": 1714897518,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724599,
+        "num": 724599,
+        "word": "女老师遭网课爆破后死亡案进展",
+        "onboard_time": 1714920142,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206924,
+        "num": 704614,
+        "word": "新疆2元一个的烤包子火了",
+        "onboard_time": 1714909519,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 687153,
+        "num": 687153,
+        "word": "泫雅一个月晕倒12次",
+        "onboard_time": 1714914321,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547971,
+        "num": 547971,
+        "word": "陈奕迅 安可",
+        "onboard_time": 1714917861,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 481754,
+        "num": 481754,
+        "word": "眼泪女王未公开kiss场面",
+        "onboard_time": 1714918101,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425450,
+        "num": 425450,
+        "word": "小胖的梦奇",
+        "onboard_time": 1714919301,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 387438,
+        "num": 387438,
+        "word": "白桃星座",
+        "onboard_time": 1714920741,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 375780,
+        "num": 375780,
+        "word": "章子怡酱园弄剧照",
+        "onboard_time": 1714916902,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 364532,
+        "num": 364532,
+        "word": "IVE新歌疑似抄袭EXO咆哮",
+        "onboard_time": 1714916118,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 353632,
+        "num": 353632,
+        "word": "室友讨厌甄嬛的理由",
+        "onboard_time": 1714913599,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349249,
+        "num": 349249,
+        "word": "网购7700元迪士尼套餐最终民警护送入园",
+        "onboard_time": 1714910658,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286403,
+        "num": 286403,
+        "word": "花少是一场盛大的be美学",
+        "onboard_time": 1714916060,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459584,
+        "num": 278809,
+        "word": "原来跳绳是先瘦肚子再瘦腿",
+        "onboard_time": 1714907778,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 368052,
+        "num": 273142,
+        "word": "为什么月薪五千每天这么多事",
+        "onboard_time": 1714908198,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267200,
+        "num": 267200,
+        "word": "林俊杰肌肉比脸大",
+        "onboard_time": 1714917921,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 264960,
+        "num": 264960,
+        "word": "老外在五星级酒店脱了裤子当众小便",
+        "onboard_time": 1714918220,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245539,
+        "num": 245539,
+        "word": "田小江死在了漫长的季节里",
+        "onboard_time": 1714914859,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240323,
+        "num": 240323,
+        "word": "医院被举报代孕1小时后产妇出院被疑通风报信",
+        "onboard_time": 1714897279,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238835,
+        "num": 238835,
+        "word": "迪丽热巴郭晓婷胡意旋录开推",
+        "onboard_time": 1714917621,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231254,
+        "num": 231254,
+        "word": "父亲因没钱给女儿买手机自责跪地",
+        "onboard_time": 1714908499,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221610,
+        "num": 221610,
+        "word": "酱园弄",
+        "onboard_time": 1714919960,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197969,
+        "num": 197969,
+        "word": "张一山卡点回复杨紫",
+        "onboard_time": 1714908259,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197256,
+        "num": 197256,
+        "word": "王力宏 山东省文旅厅",
+        "onboard_time": 1714894159,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196145,
+        "num": 196145,
+        "word": "官方通报叫花鸡里没有鸡",
+        "onboard_time": 1714918581,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193383,
+        "num": 193383,
+        "word": "急得黄景瑜差点打消费者热线",
+        "onboard_time": 1714918041,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180570,
+        "num": 180570,
+        "word": "这8个表现说明你已经瘦了",
+        "onboard_time": 1714914680,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178550,
+        "num": 178550,
+        "word": "减肥要做到3个一",
+        "onboard_time": 1714914619,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 176182,
+        "num": 176182,
+        "word": "国羽包揽汤尤杯冠军",
+        "onboard_time": 1714921041,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173994,
+        "num": 173994,
+        "word": "喻言在KTV直播",
+        "onboard_time": 1714919659,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172402,
+        "num": 172402,
+        "word": "金智媛婚纱剧照",
+        "onboard_time": 1714915760,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169873,
+        "num": 169873,
+        "word": "一夫妻驾驶特斯拉冲下山路不幸身亡",
+        "onboard_time": 1714918101,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166310,
+        "num": 166310,
+        "word": "凤凰传奇太嗨了",
+        "onboard_time": 1714918941,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147590,
+        "num": 147590,
+        "word": "杨幂回应首次把真发染红",
+        "onboard_time": 1714895118,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141151,
+        "num": 141151,
+        "word": "迪丽热巴旗袍",
+        "onboard_time": 1714893139,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137054,
+        "num": 137054,
+        "word": "戴眼镜的吃饭可以拿来当支架",
+        "onboard_time": 1714909759,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134786,
+        "num": 134786,
+        "word": "怎么刚放假又要上班了",
+        "onboard_time": 1714919482,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134092,
+        "num": 134092,
+        "word": "中国队时隔6年重夺汤杯",
+        "onboard_time": 1714920021,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134766,
+        "num": 130609,
+        "word": "五一档电影为什么没有很多人看",
+        "onboard_time": 1714907838,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127044,
+        "num": 127044,
+        "word": "音律联觉",
+        "onboard_time": 1714920920,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124470,
+        "num": 124470,
+        "word": "螺蛳粉的六种吃法",
+        "onboard_time": 1714922060,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119001,
+        "num": 119001,
+        "word": "BLG上上签",
+        "onboard_time": 1714915099,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118406,
+        "num": 118406,
+        "word": "MSI赛程",
+        "onboard_time": 1714921880,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席访问法国#"
+    }
+  }
+}
