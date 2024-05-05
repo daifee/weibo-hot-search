@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714915136278,
+  "endTime": 1714916063604,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1449247,
+      "num": 1449247,
+      "word": "看腿就知道你血糖高了",
+      "onboard_time": 1714914680,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1421271,
       "num": 1421271,
       "word": "活鸭要40多为何烤鸭才18元一只",
@@ -648,6 +656,14 @@
       "word": "赵露思被前员工背刺",
       "onboard_time": 1714620438,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1163780,
+      "num": 350665,
+      "word": "泫雅一个月晕倒12次",
+      "onboard_time": 1714914321,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1043,14 +1059,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 881663,
-      "num": 355508,
-      "word": "看腿就知道你血糖高了",
-      "onboard_time": 1714914680,
-      "rank": 10,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 877700,
       "num": 877700,
       "word": "14岁男孩当伴郎遇班主任伴娘",
@@ -1289,14 +1297,6 @@
       "onboard_time": 1714786458,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 810091,
-      "num": 350665,
-      "word": "泫雅一个月晕倒12次",
-      "onboard_time": 1714914321,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 809974,
@@ -1763,6 +1763,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 656371,
+      "num": 656371,
+      "word": "第一次看到张元英表情管理失败",
+      "onboard_time": 1714915460,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 654771,
       "num": 633735,
       "word": "泽连斯基允许传染病和精神病患者入伍",
@@ -2169,6 +2177,14 @@
       "onboard_time": 1714889477,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 561766,
+      "num": 561766,
+      "word": "室友讨厌甄嬛的理由",
+      "onboard_time": 1714913599,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 556592,
@@ -2604,7 +2620,7 @@
     },
     {
       "raw_hot": 487585,
-      "num": 206124,
+      "num": 237984,
       "word": "父亲因没钱给女儿买手机自责跪地",
       "onboard_time": 1714908499,
       "rank": 33,
@@ -3323,14 +3339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413558,
-      "num": 413558,
-      "word": "室友讨厌甄嬛的理由",
-      "onboard_time": 1714913599,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 413449,
       "num": 413449,
       "word": "这是国产剧能看到的尺度吗",
@@ -3348,7 +3356,7 @@
     },
     {
       "raw_hot": 412887,
-      "num": 206764,
+      "num": 242291,
       "word": "马思纯长发回归",
       "onboard_time": 1714911259,
       "rank": 25,
@@ -3404,7 +3412,7 @@
     },
     {
       "raw_hot": 409895,
-      "num": 206377,
+      "num": 240577,
       "word": "金秀贤金智媛ins更新照",
       "onboard_time": 1714911859,
       "rank": 27,
@@ -3996,7 +4004,7 @@
     },
     {
       "raw_hot": 351932,
-      "num": 205808,
+      "num": 235409,
       "word": "张一山卡点回复杨紫",
       "onboard_time": 1714908259,
       "rank": 32,
@@ -4571,6 +4579,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 297173,
+      "num": 297173,
+      "word": "BLG上上签",
+      "onboard_time": 1714915099,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 296983,
       "num": 296983,
       "word": "韩雪vocal",
@@ -4728,6 +4744,14 @@
       "word": "WTT沙特大满贯2024",
       "onboard_time": 1714659321,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 283863,
+      "num": 207353,
+      "word": "李诗沣状态",
+      "onboard_time": 1714915099,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -5251,6 +5275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249468,
+      "num": 249468,
+      "word": "KSG 教练",
+      "onboard_time": 1714914321,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 249387,
       "num": 249387,
       "word": "新型婆媳关系",
@@ -5305,14 +5337,6 @@
       "onboard_time": 1714610896,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247921,
-      "num": 204378,
-      "word": "李诗沣状态",
-      "onboard_time": 1714915099,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 247241,
@@ -5643,6 +5667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 233926,
+      "num": 357169,
+      "word": "新疆2元一个的烤包子火了",
+      "onboard_time": 1714909519,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 233802,
       "num": 233802,
       "word": "波比跳 公认的燃脂运动",
@@ -5819,6 +5851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 226766,
+      "num": 226766,
+      "word": "这8个表现说明你已经瘦了",
+      "onboard_time": 1714914680,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226424,
       "num": 226424,
       "word": "太湖湾音乐节",
@@ -5921,14 +5961,6 @@
       "onboard_time": 1714797317,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222029,
-      "num": 205005,
-      "word": "这8个表现说明你已经瘦了",
-      "onboard_time": 1714914680,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 221261,
@@ -6139,14 +6171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214537,
-      "num": 357169,
-      "word": "新疆2元一个的烤包子火了",
-      "onboard_time": 1714909519,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 214399,
       "num": 214399,
       "word": "童瑶听到八离世家的反应",
@@ -6217,6 +6241,14 @@
       "onboard_time": 1714540037,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 212126,
+      "num": 212126,
+      "word": "极限挑战",
+      "onboard_time": 1714915460,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 211999,
@@ -6393,14 +6425,6 @@
       "onboard_time": 1714904299,
       "rank": 30,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 207523,
-      "num": 207523,
-      "word": "KSG 教练",
-      "onboard_time": 1714914321,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 207348,
@@ -7011,6 +7035,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 197611,
+      "num": 197611,
+      "word": "黄明昊跑过去保护粉丝",
+      "onboard_time": 1714915099,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197553,
       "num": 197553,
       "word": "九龙城寨 小妈文学",
@@ -7227,6 +7259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194685,
+      "num": 194685,
+      "word": "金智媛婚纱剧照",
+      "onboard_time": 1714915760,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194631,
       "num": 194631,
       "word": "TES零封LLL",
@@ -7331,6 +7371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192626,
+      "num": 187120,
+      "word": "田小江死在了漫长的季节里",
+      "onboard_time": 1714914859,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192539,
       "num": 192539,
       "word": "纪念五三惨案96周年",
@@ -7425,6 +7473,14 @@
       "onboard_time": 1714720338,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190728,
+      "num": 190728,
+      "word": "李诗沣vs乔纳坦",
+      "onboard_time": 1714915219,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 190713,
@@ -8195,6 +8251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177187,
+      "num": 177187,
+      "word": "减肥要做到3个一",
+      "onboard_time": 1714914619,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 176981,
       "num": 176981,
       "word": "凤凰传奇演唱会",
@@ -8627,6 +8691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169131,
+      "num": 169131,
+      "word": "严浩翔向大爷求助小灵通怎么用",
+      "onboard_time": 1714915400,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169090,
       "num": 99389,
       "word": "饭后散步和不散步的人有什么区别",
@@ -8721,14 +8793,6 @@
       "onboard_time": 1714692614,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167383,
-      "num": 167383,
-      "word": "BLG上上签",
-      "onboard_time": 1714915099,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 167137,
@@ -9243,6 +9307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158990,
+      "num": 158990,
+      "word": "汪东城你小子是真热假热",
+      "onboard_time": 1714913839,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158918,
       "num": 158918,
       "word": "马斯克讽刺加州高铁",
@@ -9537,14 +9609,6 @@
       "onboard_time": 1714655538,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153336,
-      "num": 153336,
-      "word": "减肥要做到3个一",
-      "onboard_time": 1714914619,
-      "rank": 40,
-      "category": "运动健身"
     },
     {
       "raw_hot": 153258,
@@ -9889,14 +9953,6 @@
       "onboard_time": 1714652059,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 148724,
-      "num": 148724,
-      "word": "汪东城你小子是真热假热",
-      "onboard_time": 1714913839,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 148704,
@@ -10697,14 +10753,6 @@
       "onboard_time": 1714572980,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134872,
-      "num": 134872,
-      "word": "田小江死在了漫长的季节里",
-      "onboard_time": 1714914859,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 134852,
@@ -11545,14 +11593,6 @@
       "onboard_time": 1714488501,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122570,
-      "num": 122570,
-      "word": "黄明昊跑过去保护粉丝",
-      "onboard_time": 1714915099,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 122529,
@@ -13403,20 +13443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65341,
+      "num": 1051197,
+      "word": "数说中法合作亮眼成绩单",
+      "onboard_time": 1714914019,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 64357,
       "num": 64357,
       "word": "路人偶遇郭碧婷",
       "onboard_time": 1714601231,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 64283,
-      "num": 599496,
-      "word": "数说中法合作亮眼成绩单",
-      "onboard_time": 1714914019,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 63847,

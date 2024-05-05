@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714915136278,
+  "endTime": 1714916063604,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1449247,
+      "num": 1449247,
+      "word": "看腿就知道你血糖高了",
+      "onboard_time": 1714914680,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1416658,
       "num": 1416658,
       "word": "香飘飘董事长现身机场接赴日回国员工",
@@ -129,6 +137,14 @@
       "onboard_time": 1714883899,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1163780,
+      "num": 350665,
+      "word": "泫雅一个月晕倒12次",
+      "onboard_time": 1714914321,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1147271,
@@ -195,14 +211,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 881663,
-      "num": 355508,
-      "word": "看腿就知道你血糖高了",
-      "onboard_time": 1714914680,
-      "rank": 10,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 877700,
       "num": 877700,
       "word": "14岁男孩当伴郎遇班主任伴娘",
@@ -249,14 +257,6 @@
       "onboard_time": 1714889239,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 810091,
-      "num": 350665,
-      "word": "泫雅一个月晕倒12次",
-      "onboard_time": 1714914321,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 809974,
@@ -339,6 +339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 656371,
+      "num": 656371,
+      "word": "第一次看到张元英表情管理失败",
+      "onboard_time": 1714915460,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 646054,
       "num": 646054,
       "word": "游泳教练憋气练习时意外溺亡",
@@ -409,6 +417,14 @@
       "onboard_time": 1714889477,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 561766,
+      "num": 561766,
+      "word": "室友讨厌甄嬛的理由",
+      "onboard_time": 1714913599,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 554952,
@@ -508,7 +524,7 @@
     },
     {
       "raw_hot": 487585,
-      "num": 206124,
+      "num": 237984,
       "word": "父亲因没钱给女儿买手机自责跪地",
       "onboard_time": 1714908499,
       "rank": 33,
@@ -699,16 +715,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 413558,
-      "num": 413558,
-      "word": "室友讨厌甄嬛的理由",
-      "onboard_time": 1714913599,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 412887,
-      "num": 206764,
+      "num": 242291,
       "word": "马思纯长发回归",
       "onboard_time": 1714911259,
       "rank": 25,
@@ -724,7 +732,7 @@
     },
     {
       "raw_hot": 409895,
-      "num": 206377,
+      "num": 240577,
       "word": "金秀贤金智媛ins更新照",
       "onboard_time": 1714911859,
       "rank": 27,
@@ -836,7 +844,7 @@
     },
     {
       "raw_hot": 351932,
-      "num": 205808,
+      "num": 235409,
       "word": "张一山卡点回复杨紫",
       "onboard_time": 1714908259,
       "rank": 32,
@@ -939,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297173,
+      "num": 297173,
+      "word": "BLG上上签",
+      "onboard_time": 1714915099,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 297074,
       "num": 297074,
       "word": "金价跌至近一个月低点",
@@ -961,6 +977,14 @@
       "onboard_time": 1714821439,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 283863,
+      "num": 207353,
+      "word": "李诗沣状态",
+      "onboard_time": 1714915099,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 280439,
@@ -1067,6 +1091,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 249468,
+      "num": 249468,
+      "word": "KSG 教练",
+      "onboard_time": 1714914321,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 248723,
       "num": 248723,
       "word": "凤凰传奇荧光棒",
@@ -1081,14 +1113,6 @@
       "onboard_time": 1714882160,
       "rank": 31,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 247921,
-      "num": 204378,
-      "word": "李诗沣状态",
-      "onboard_time": 1714915099,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 247043,
@@ -1155,6 +1179,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 233926,
+      "num": 357169,
+      "word": "新疆2元一个的烤包子火了",
+      "onboard_time": 1714909519,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 233438,
       "num": 233438,
       "word": "孙千费启鸣早期校服照",
@@ -1193,6 +1225,14 @@
       "onboard_time": 1714889658,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226766,
+      "num": 226766,
+      "word": "这8个表现说明你已经瘦了",
+      "onboard_time": 1714914680,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 226672,
@@ -1243,14 +1283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222029,
-      "num": 205005,
-      "word": "这8个表现说明你已经瘦了",
-      "onboard_time": 1714914680,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 221261,
       "num": 221261,
       "word": "森林狼vs掘金",
@@ -1283,14 +1315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 214537,
-      "num": 357169,
-      "word": "新疆2元一个的烤包子火了",
-      "onboard_time": 1714909519,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 214399,
       "num": 214399,
       "word": "童瑶听到八离世家的反应",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1714880179,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212126,
+      "num": 212126,
+      "word": "极限挑战",
+      "onboard_time": 1714915460,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 211434,
@@ -1361,14 +1393,6 @@
       "onboard_time": 1714904299,
       "rank": 30,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 207523,
-      "num": 207523,
-      "word": "KSG 教练",
-      "onboard_time": 1714914321,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 207323,
@@ -1443,6 +1467,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 197611,
+      "num": 197611,
+      "word": "黄明昊跑过去保护粉丝",
+      "onboard_time": 1714915099,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197437,
       "num": 217946,
       "word": "吴彤李晨钟楚曦侯雯元自拍",
@@ -1481,6 +1513,14 @@
       "onboard_time": 1714907958,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194685,
+      "num": 194685,
+      "word": "金智媛婚纱剧照",
+      "onboard_time": 1714915760,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 194490,
@@ -1531,6 +1571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192626,
+      "num": 187120,
+      "word": "田小江死在了漫长的季节里",
+      "onboard_time": 1714914859,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192251,
       "num": 192251,
       "word": "鹿晗也去吃淄博烧烤了",
@@ -1569,6 +1617,14 @@
       "onboard_time": 1714899320,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190728,
+      "num": 190728,
+      "word": "李诗沣vs乔纳坦",
+      "onboard_time": 1714915219,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 188877,
@@ -1763,6 +1819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177187,
+      "num": 177187,
+      "word": "减肥要做到3个一",
+      "onboard_time": 1714914619,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 176240,
       "num": 176240,
       "word": "求回到五一教程",
@@ -1859,20 +1923,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169131,
+      "num": 169131,
+      "word": "严浩翔向大爷求助小灵通怎么用",
+      "onboard_time": 1714915400,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167691,
       "num": 167691,
       "word": "一张照片欢迎夏天",
       "onboard_time": 1714891037,
       "rank": 31,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 167383,
-      "num": 167383,
-      "word": "BLG上上签",
-      "onboard_time": 1714915099,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 167015,
@@ -1995,6 +2059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158990,
+      "num": 158990,
+      "word": "汪东城你小子是真热假热",
+      "onboard_time": 1714913839,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158918,
       "num": 158918,
       "word": "马斯克讽刺加州高铁",
@@ -2075,14 +2147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 153336,
-      "num": 153336,
-      "word": "减肥要做到3个一",
-      "onboard_time": 1714914619,
-      "rank": 40,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 153155,
       "num": 153155,
       "word": "送给父母的养老别墅",
@@ -2137,14 +2201,6 @@
       "onboard_time": 1714892060,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 148724,
-      "num": 148724,
-      "word": "汪东城你小子是真热假热",
-      "onboard_time": 1714913839,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 148704,
@@ -2265,14 +2321,6 @@
       "onboard_time": 1714873939,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134872,
-      "num": 134872,
-      "word": "田小江死在了漫长的季节里",
-      "onboard_time": 1714914859,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 133151,
@@ -2441,14 +2489,6 @@
       "onboard_time": 1714867576,
       "rank": 40,
       "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 122570,
-      "num": 122570,
-      "word": "黄明昊跑过去保护粉丝",
-      "onboard_time": 1714915099,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 122529,
@@ -2859,8 +2899,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 64283,
-      "num": 599496,
+      "raw_hot": 65341,
+      "num": 1051197,
       "word": "数说中法合作亮眼成绩单",
       "onboard_time": 1714914019,
       "rank": 2,
