@@ -1,14 +1,22 @@
 {
   "startTime": 1714926165838,
-  "endTime": 1714948438978,
+  "endTime": 1714951049282,
   "band_list": [
     {
       "raw_hot": 1035239,
-      "num": 287433,
+      "num": 375857,
       "word": "凤凰传奇观众被质疑假唱",
       "onboard_time": 1714919121,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 853096,
+      "num": 853096,
+      "word": "未来三天有可能爆发M级甚至X级以上耀斑",
+      "onboard_time": 1714897518,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 810694,
@@ -16,6 +24,14 @@
       "word": "女老师遭网课爆破后死亡案进展",
       "onboard_time": 1714920142,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 731495,
+      "num": 408861,
+      "word": "特斯拉坠崖致夫妻身亡记录仪数据却没了",
+      "onboard_time": 1714917921,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -27,20 +43,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 611149,
-      "num": 270317,
-      "word": "特斯拉坠崖致夫妻身亡记录仪数据却没了",
-      "onboard_time": 1714917921,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 589654,
-      "num": 589654,
-      "word": "未来三天有可能爆发M级甚至X级以上耀斑",
-      "onboard_time": 1714897518,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 690243,
+      "num": 690243,
+      "word": "教育回报率越来越低了吗",
+      "onboard_time": 1714932133,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 554365,
@@ -57,6 +65,14 @@
       "onboard_time": 1714915460,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 428032,
+      "num": 428032,
+      "word": "有人弃我如杂草 有人视我如珍宝",
+      "onboard_time": 1714942331,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 423568,
@@ -89,6 +105,14 @@
       "onboard_time": 1714923079,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 298472,
+      "num": 298472,
+      "word": "官方通报叫花鸡里没有鸡",
+      "onboard_time": 1714918581,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293632,
@@ -139,14 +163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238306,
-      "num": 238306,
-      "word": "教育回报率越来越低了吗",
-      "onboard_time": 1714932133,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 221191,
       "num": 221191,
       "word": "IVE新歌疑似抄袭EXO咆哮",
@@ -155,12 +171,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 214668,
-      "num": 214668,
-      "word": "有人弃我如杂草 有人视我如珍宝",
-      "onboard_time": 1714942331,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 214082,
+      "num": 214082,
+      "word": "医院被举报代孕1小时后产妇出院被疑通风报信",
+      "onboard_time": 1714897279,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212494,
+      "num": 141457,
+      "word": "张一山卡点回复杨紫",
+      "onboard_time": 1714908259,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191009,
+      "num": 191009,
+      "word": "五一档电影为什么没有很多人看",
+      "onboard_time": 1714907838,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 189675,
@@ -203,20 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158701,
+      "num": 153578,
+      "word": "这8个表现说明你已经瘦了",
+      "onboard_time": 1714914680,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158351,
       "num": 183400,
       "word": "章子怡酱园弄剧照",
       "onboard_time": 1714916902,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 153578,
-      "num": 153578,
-      "word": "这8个表现说明你已经瘦了",
-      "onboard_time": 1714914680,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 147716,
@@ -235,20 +267,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 142456,
-      "num": 142456,
-      "word": "五一档电影为什么没有很多人看",
-      "onboard_time": 1714907838,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 141457,
-      "num": 141457,
-      "word": "张一山卡点回复杨紫",
-      "onboard_time": 1714908259,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 135721,
+      "num": 252890,
+      "word": "一晚两场演唱会民警人海硬控忙不停",
+      "onboard_time": 1714930573,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 135364,
@@ -259,12 +283,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 130822,
-      "num": 137334,
-      "word": "官方通报叫花鸡里没有鸡",
-      "onboard_time": 1714918581,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 129809,
+      "num": 129809,
+      "word": "民宿老板拍的叶祖新",
+      "onboard_time": 1714949895,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128672,
+      "num": 128672,
+      "word": "今年五一档票房破15亿",
+      "onboard_time": 1714941071,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 126624,
@@ -307,6 +339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112750,
+      "num": 107776,
+      "word": "为什么年轻人流行偷偷领证",
+      "onboard_time": 1714926737,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112342,
       "num": 112342,
       "word": "喻言在KTV直播",
@@ -315,20 +355,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 111066,
+      "num": 111066,
+      "word": "上班",
+      "onboard_time": 1714950916,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110203,
       "num": 120983,
       "word": "减肥要做到3个一",
       "onboard_time": 1714914619,
       "rank": 37,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 107776,
-      "num": 107776,
-      "word": "为什么年轻人流行偷偷领证",
-      "onboard_time": 1714926737,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 105643,
@@ -353,14 +393,6 @@
       "onboard_time": 1714914859,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99488,
-      "num": 99488,
-      "word": "医院被举报代孕1小时后产妇出院被疑通风报信",
-      "onboard_time": 1714897279,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98720,
@@ -393,6 +425,14 @@
       "onboard_time": 1714917621,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86215,
+      "num": 86215,
+      "word": "马思纯孙千撞衫",
+      "onboard_time": 1714948213,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 86103,
@@ -435,20 +475,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 72952,
+      "num": 72952,
+      "word": "F1",
+      "onboard_time": 1714938191,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 66247,
       "num": 66247,
       "word": "黄景瑜被青梅精咬了",
       "onboard_time": 1714945991,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 64069,
-      "num": 113064,
-      "word": "一晚两场演唱会民警人海硬控忙不停",
-      "onboard_time": 1714930573,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 63507,
@@ -475,20 +515,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 47909,
-      "num": 47909,
-      "word": "F1",
-      "onboard_time": 1714938191,
-      "rank": 17,
-      "category": "汽车"
+      "raw_hot": 43304,
+      "num": 45568,
+      "word": "麦当娜160万人演唱会",
+      "onboard_time": 1714936691,
+      "rank": 45,
+      "category": "演出"
     },
     {
-      "raw_hot": 38947,
-      "num": 47570,
-      "word": "今年五一档票房破15亿",
-      "onboard_time": 1714941071,
-      "rank": 47,
-      "category": "电影"
+      "raw_hot": 42198,
+      "num": 45610,
+      "word": "毕业后唯一没还给老师的品质",
+      "onboard_time": 1714935192,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 38128,
@@ -499,20 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38119,
-      "num": 45610,
-      "word": "毕业后唯一没还给老师的品质",
-      "onboard_time": 1714935192,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 35195,
-      "num": 45568,
-      "word": "麦当娜160万人演唱会",
-      "onboard_time": 1714936691,
-      "rank": 45,
-      "category": "演出"
+      "raw_hot": 36019,
+      "num": 45541,
+      "word": "高息存款正在消失吗",
+      "onboard_time": 1714942991,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 31009,
@@ -531,14 +563,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 29059,
-      "num": 45541,
-      "word": "高息存款正在消失吗",
-      "onboard_time": 1714942991,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 24592,
       "num": 24592,
       "word": "林俊杰深圳演唱会",
@@ -547,20 +571,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24386,
-      "num": 45439,
-      "word": "马思纯孙千撞衫",
-      "onboard_time": 1714948213,
-      "rank": 44,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 22967,
       "num": 45394,
       "word": "重生之我在爽文短剧里当演员",
       "onboard_time": 1714940292,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16368,
+      "num": 546933,
+      "word": "文化中国行发现节气之美",
+      "onboard_time": 1714896140,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14087,
@@ -577,14 +601,6 @@
       "onboard_time": 1714940110,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 11434,
-      "num": 288105,
-      "word": "文化中国行发现节气之美",
-      "onboard_time": 1714896140,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

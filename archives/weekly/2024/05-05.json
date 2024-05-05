@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714948438978,
+  "endTime": 1714951049282,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -361,6 +361,14 @@
       "onboard_time": 1714916902,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 690243,
+      "num": 690243,
+      "word": "教育回报率越来越低了吗",
+      "onboard_time": 1714932133,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 683735,
@@ -731,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428032,
+      "num": 428032,
+      "word": "有人弃我如杂草 有人视我如珍宝",
+      "onboard_time": 1714942331,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 427983,
       "num": 427983,
       "word": "IU捐赠1亿韩元",
@@ -1083,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298472,
+      "num": 298472,
+      "word": "官方通报叫花鸡里没有鸡",
+      "onboard_time": 1714918581,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297173,
       "num": 297173,
       "word": "BLG上上签",
@@ -1323,14 +1347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238306,
-      "num": 238306,
-      "word": "教育回报率越来越低了吗",
-      "onboard_time": 1714932133,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 236898,
       "num": 236898,
       "word": "陈赫从五哈团单飞了",
@@ -1505,14 +1521,6 @@
       "onboard_time": 1714884079,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 214668,
-      "num": 214668,
-      "word": "有人弃我如杂草 有人视我如珍宝",
-      "onboard_time": 1714942331,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 214399,
@@ -1707,14 +1715,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 196145,
-      "num": 196145,
-      "word": "官方通报叫花鸡里没有鸡",
-      "onboard_time": 1714918581,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195451,
       "num": 217946,
       "word": "向佐怎么瘦成这样了",
@@ -1817,6 +1817,14 @@
       "onboard_time": 1714899320,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191009,
+      "num": 191009,
+      "word": "五一档电影为什么没有很多人看",
+      "onboard_time": 1714907838,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 190728,
@@ -1969,14 +1977,6 @@
       "onboard_time": 1714925178,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 179863,
-      "num": 179863,
-      "word": "五一档电影为什么没有很多人看",
-      "onboard_time": 1714907838,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 179755,
@@ -2563,6 +2563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135721,
+      "num": 252890,
+      "word": "一晚两场演唱会民警人海硬控忙不停",
+      "onboard_time": 1714930573,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 135599,
       "num": 135599,
       "word": "甲状腺结节",
@@ -2651,12 +2659,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 129809,
+      "num": 129809,
+      "word": "民宿老板拍的叶祖新",
+      "onboard_time": 1714949895,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129642,
       "num": 129642,
       "word": "刘耀文饭撒忘记了跳舞",
       "onboard_time": 1714886060,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128672,
+      "num": 128672,
+      "word": "今年五一档票房破15亿",
+      "onboard_time": 1714941071,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 128030,
@@ -2963,6 +2987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112750,
+      "num": 107776,
+      "word": "为什么年轻人流行偷偷领证",
+      "onboard_time": 1714926737,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111621,
       "num": 217916,
       "word": "时代少年团演唱会直播",
@@ -2979,6 +3011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111066,
+      "num": 111066,
+      "word": "上班",
+      "onboard_time": 1714950916,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110189,
       "num": 110189,
       "word": "出淤泥而挑染的萨摩耶",
@@ -2993,14 +3033,6 @@
       "onboard_time": 1714842255,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 107776,
-      "num": 107776,
-      "word": "为什么年轻人流行偷偷领证",
-      "onboard_time": 1714926737,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 106084,
@@ -3123,6 +3155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86215,
+      "num": 86215,
+      "word": "马思纯孙千撞衫",
+      "onboard_time": 1714948213,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 83934,
       "num": 89615,
       "word": "蔡徐坤更博",
@@ -3187,6 +3227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72952,
+      "num": 72952,
+      "word": "F1",
+      "onboard_time": 1714938191,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 69417,
       "num": 69417,
       "word": "广东139个暴雨预警生效中",
@@ -3241,14 +3289,6 @@
       "onboard_time": 1714914019,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 64069,
-      "num": 113064,
-      "word": "一晚两场演唱会民警人海硬控忙不停",
-      "onboard_time": 1714930573,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 61740,
@@ -3307,14 +3347,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 47909,
-      "num": 47909,
-      "word": "F1",
-      "onboard_time": 1714938191,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 46263,
       "num": 1152695,
       "word": "文化中国行发现节气之美",
@@ -3339,6 +3371,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 43304,
+      "num": 45568,
+      "word": "麦当娜160万人演唱会",
+      "onboard_time": 1714936691,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 43271,
       "num": 43271,
       "word": "小时候妈妈教你走路现在再教一次",
@@ -3347,12 +3387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38947,
-      "num": 47570,
-      "word": "今年五一档票房破15亿",
-      "onboard_time": 1714941071,
-      "rank": 47,
-      "category": "电影"
+      "raw_hot": 42198,
+      "num": 45610,
+      "word": "毕业后唯一没还给老师的品质",
+      "onboard_time": 1714935192,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 38128,
@@ -3363,20 +3403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38119,
-      "num": 45610,
-      "word": "毕业后唯一没还给老师的品质",
-      "onboard_time": 1714935192,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 35195,
-      "num": 45568,
-      "word": "麦当娜160万人演唱会",
-      "onboard_time": 1714936691,
-      "rank": 45,
-      "category": "演出"
+      "raw_hot": 36019,
+      "num": 45541,
+      "word": "高息存款正在消失吗",
+      "onboard_time": 1714942991,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 34426,
@@ -3393,14 +3425,6 @@
       "onboard_time": 1714931592,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 29059,
-      "num": 45541,
-      "word": "高息存款正在消失吗",
-      "onboard_time": 1714942991,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 28957,
@@ -3425,14 +3449,6 @@
       "onboard_time": 1714930873,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24386,
-      "num": 45439,
-      "word": "马思纯孙千撞衫",
-      "onboard_time": 1714948213,
-      "rank": 44,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 22967,
