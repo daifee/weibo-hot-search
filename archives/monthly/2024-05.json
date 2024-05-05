@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714916063604,
+  "endTime": 1714918573546,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -107,6 +107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 2637625,
+      "num": 2255591,
+      "word": "发烧",
+      "onboard_time": 1714910719,
+      "rank": 0,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 2637114,
       "num": 2637114,
       "word": "未来三天有可能爆发M级甚至X级以上耀斑",
@@ -129,14 +137,6 @@
       "onboard_time": 1714777814,
       "rank": 13,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 2553956,
-      "num": 2255591,
-      "word": "发烧",
-      "onboard_time": 1714910719,
-      "rank": 0,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 2501521,
@@ -177,6 +177,14 @@
       "onboard_time": 1714743921,
       "rank": 28,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 2081978,
+      "num": 2081978,
+      "word": "看腿就知道你血糖高了",
+      "onboard_time": 1714914680,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2069511,
@@ -393,14 +401,6 @@
       "onboard_time": 1714866374,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1449247,
-      "num": 1449247,
-      "word": "看腿就知道你血糖高了",
-      "onboard_time": 1714914680,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1421271,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 1163780,
-      "num": 350665,
+      "num": 486322,
       "word": "泫雅一个月晕倒12次",
       "onboard_time": 1714914321,
       "rank": 11,
@@ -841,6 +841,14 @@
       "onboard_time": 1714489219,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1055628,
+      "num": 789285,
+      "word": "第一次看到张元英表情管理失败",
+      "onboard_time": 1714915460,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1047270,
@@ -1523,12 +1531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 717435,
+      "num": 717435,
+      "word": "室友讨厌甄嬛的理由",
+      "onboard_time": 1714913599,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 711704,
       "num": 262704,
       "word": "花花和爷爷又谭崩了",
       "onboard_time": 1714533377,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 710032,
+      "num": 710032,
+      "word": "章子怡酱园弄剧照",
+      "onboard_time": 1714916902,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 707740,
@@ -1761,14 +1785,6 @@
       "onboard_time": 1714793898,
       "rank": 16,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 656371,
-      "num": 656371,
-      "word": "第一次看到张元英表情管理失败",
-      "onboard_time": 1714915460,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 654771,
@@ -2163,6 +2179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 567486,
+      "num": 567486,
+      "word": "特斯拉坠崖致夫妻身亡记录仪数据却没了",
+      "onboard_time": 1714917921,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 566111,
       "num": 566111,
       "word": "济南一对夫妻失联近一个月",
@@ -2177,14 +2201,6 @@
       "onboard_time": 1714889477,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 561766,
-      "num": 561766,
-      "word": "室友讨厌甄嬛的理由",
-      "onboard_time": 1714913599,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 556592,
@@ -2620,7 +2636,7 @@
     },
     {
       "raw_hot": 487585,
-      "num": 237984,
+      "num": 244391,
       "word": "父亲因没钱给女儿买手机自责跪地",
       "onboard_time": 1714908499,
       "rank": 33,
@@ -2705,6 +2721,14 @@
       "onboard_time": 1714605016,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 477624,
+      "num": 477624,
+      "word": "IVE新歌疑似抄袭EXO咆哮",
+      "onboard_time": 1714916118,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 477420,
@@ -3331,12 +3355,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 414525,
+      "num": 414525,
+      "word": "花少是一场盛大的be美学",
+      "onboard_time": 1714916060,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413875,
       "num": 315370,
       "word": "朱珠方发文谴责倒卖门票商品行为",
       "onboard_time": 1714673592,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413691,
+      "num": 413691,
+      "word": "金智媛婚纱剧照",
+      "onboard_time": 1714915760,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 413449,
@@ -3356,7 +3396,7 @@
     },
     {
       "raw_hot": 412887,
-      "num": 242291,
+      "num": 245375,
       "word": "马思纯长发回归",
       "onboard_time": 1714911259,
       "rank": 25,
@@ -3412,7 +3452,7 @@
     },
     {
       "raw_hot": 409895,
-      "num": 240577,
+      "num": 244377,
       "word": "金秀贤金智媛ins更新照",
       "onboard_time": 1714911859,
       "rank": 27,
@@ -4004,7 +4044,7 @@
     },
     {
       "raw_hot": 351932,
-      "num": 235409,
+      "num": 240163,
       "word": "张一山卡点回复杨紫",
       "onboard_time": 1714908259,
       "rank": 32,
@@ -4233,6 +4273,14 @@
       "onboard_time": 1714741641,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331232,
+      "num": 331232,
+      "word": "迪丽热巴郭晓婷胡意旋录开推",
+      "onboard_time": 1714917621,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 331227,
@@ -4748,7 +4796,7 @@
     },
     {
       "raw_hot": 283863,
-      "num": 207353,
+      "num": 230450,
       "word": "李诗沣状态",
       "onboard_time": 1714915099,
       "rank": 30,
@@ -5147,6 +5195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260026,
+      "num": 260026,
+      "word": "陈奕迅 安可",
+      "onboard_time": 1714917861,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 259795,
       "num": 259795,
       "word": "余承东卸任华为终端BGCEO",
@@ -5201,6 +5257,14 @@
       "onboard_time": 1714882340,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 256220,
+      "num": 245083,
+      "word": "眼泪女王未公开kiss场面",
+      "onboard_time": 1714918101,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 255910,
@@ -5451,6 +5515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243127,
+      "num": 243127,
+      "word": "田小江死在了漫长的季节里",
+      "onboard_time": 1714914859,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243064,
       "num": 243064,
       "word": "华晨宇演唱会入场电影即视感",
@@ -5579,6 +5651,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 238011,
+      "num": 486531,
+      "word": "新疆2元一个的烤包子火了",
+      "onboard_time": 1714909519,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 237979,
       "num": 237979,
       "word": "迪丽热巴旗袍舞台直拍",
@@ -5667,14 +5747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 233926,
-      "num": 357169,
-      "word": "新疆2元一个的烤包子火了",
-      "onboard_time": 1714909519,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 233802,
       "num": 233802,
       "word": "波比跳 公认的燃脂运动",
@@ -5755,6 +5827,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231776,
+      "num": 231776,
+      "word": "减肥要做到3个一",
+      "onboard_time": 1714914619,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 231711,
+      "num": 230265,
+      "word": "林俊杰肌肉比脸大",
+      "onboard_time": 1714917921,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 230571,
       "num": 230571,
       "word": "郭晋安 欧倩怡",
@@ -5777,6 +5865,14 @@
       "onboard_time": 1714882399,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229546,
+      "num": 229546,
+      "word": "这8个表现说明你已经瘦了",
+      "onboard_time": 1714914680,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 229471,
@@ -5849,14 +5945,6 @@
       "onboard_time": 1714754717,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 226766,
-      "num": 226766,
-      "word": "这8个表现说明你已经瘦了",
-      "onboard_time": 1714914680,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 226424,
@@ -6135,6 +6223,14 @@
       "num": 215998,
       "word": "塌方灾害中他第一时间下车救起6人",
       "onboard_time": 1714568539,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215916,
+      "num": 215916,
+      "word": "一夫妻驾驶特斯拉冲下山路不幸身亡",
+      "onboard_time": 1714918101,
       "rank": 33,
       "category": "社会新闻"
     },
@@ -6481,6 +6577,14 @@
       "onboard_time": 1714660340,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 206869,
+      "num": 206869,
+      "word": "老外在五星级酒店脱了裤子当众小便",
+      "onboard_time": 1714918220,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206779,
@@ -7259,14 +7363,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194685,
-      "num": 194685,
-      "word": "金智媛婚纱剧照",
-      "onboard_time": 1714915760,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194631,
       "num": 194631,
       "word": "TES零封LLL",
@@ -7369,14 +7465,6 @@
       "onboard_time": 1714641680,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 192626,
-      "num": 187120,
-      "word": "田小江死在了漫长的季节里",
-      "onboard_time": 1714914859,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 192539,
@@ -7753,6 +7841,14 @@
       "onboard_time": 1714655238,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 186685,
+      "num": 186685,
+      "word": "急得黄景瑜差点打消费者热线",
+      "onboard_time": 1714918041,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 186506,
@@ -8249,14 +8345,6 @@
       "onboard_time": 1714629857,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 177187,
-      "num": 177187,
-      "word": "减肥要做到3个一",
-      "onboard_time": 1714914619,
-      "rank": 40,
-      "category": "运动健身"
     },
     {
       "raw_hot": 176981,
@@ -9067,6 +9155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163428,
+      "num": 163428,
+      "word": "初夏的昆明是紫色的",
+      "onboard_time": 1714917319,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 163336,
       "num": 163336,
       "word": "第五人格六周年",
@@ -9241,6 +9337,14 @@
       "onboard_time": 1714892479,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160758,
+      "num": 160758,
+      "word": "KSG out",
+      "onboard_time": 1714916600,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 160634,
@@ -11504,6 +11608,14 @@
       "word": "孙颖莎陈梦适应场地训练",
       "onboard_time": 1714722499,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123546,
+      "num": 134277,
+      "word": "北京国安2比1成都蓉城",
+      "onboard_time": 1714917800,
+      "rank": 49,
       "category": "体育"
     },
     {
