@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714880052770,
+  "endTime": 1714882951657,
   "band_list": [
     {
       "raw_hot": 2576403,
@@ -17,6 +17,14 @@
       "onboard_time": 1714866374,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1294787,
+      "num": 1294787,
+      "word": "边伯贤微博",
+      "onboard_time": 1714879938,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 1259532,
@@ -41,6 +49,14 @@
       "onboard_time": 1714866374,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 932334,
+      "num": 932334,
+      "word": "莫里斯遗体在洛杉矶地区被发现",
+      "onboard_time": 1714880598,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 922392,
@@ -73,6 +89,14 @@
       "onboard_time": 1714866495,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 770022,
+      "num": 770022,
+      "word": "这就是双休和单休的工作环境",
+      "onboard_time": 1714879938,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 712165,
@@ -123,12 +147,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570018,
+      "num": 570018,
+      "word": "原来爱莲说描写的是真的",
+      "onboard_time": 1714877778,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 569143,
+      "num": 569143,
+      "word": "香飘飘董事长现身机场接赴日回国员工",
+      "onboard_time": 1714882879,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534794,
+      "num": 534794,
+      "word": "入职信息已婚填未婚遭公司解约",
+      "onboard_time": 1714880417,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509807,
       "num": 509807,
       "word": "宝宝 你是一头情绪稳定的小懒猪",
       "onboard_time": 1714869857,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 508628,
+      "num": 508628,
+      "word": "吴镇宇 金莎没有能力带他的",
+      "onboard_time": 1714879457,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 503874,
@@ -171,14 +227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 460236,
-      "num": 396594,
-      "word": "原来爱莲说描写的是真的",
-      "onboard_time": 1714877778,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 454004,
       "num": 454004,
       "word": "薛之谦一眼认出演果果的小女孩",
@@ -203,12 +251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441217,
+      "num": 441217,
+      "word": "金珉锡微博",
+      "onboard_time": 1714881620,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426642,
       "num": 426642,
       "word": "香飘飘绕地球几圈了",
       "onboard_time": 1714871237,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 425043,
+      "num": 346495,
+      "word": "庄达菲谈与肖战合作感受",
+      "onboard_time": 1714879518,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 424254,
@@ -235,6 +299,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 402832,
+      "num": 402832,
+      "word": "你用了很久的微信置顶文案是什么",
+      "onboard_time": 1714879938,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 402148,
       "num": 402148,
       "word": "卵巢过快衰老的几个信号",
@@ -244,7 +316,7 @@
     },
     {
       "raw_hot": 387068,
-      "num": 417200,
+      "num": 537693,
       "word": "90后自媒体创业2天入账74万",
       "onboard_time": 1714834821,
       "rank": 6,
@@ -267,12 +339,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355166,
+      "num": 355166,
+      "word": "为什么现在的煎鸡蛋都长这样",
+      "onboard_time": 1714881258,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 354793,
       "num": 354793,
       "word": "张杰陈楚生撞衫",
       "onboard_time": 1714871720,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 339390,
+      "num": 339390,
+      "word": "37岁养羊男子娶19岁越南新娘",
+      "onboard_time": 1714881799,
+      "rank": 21,
+      "category": "国外时政"
     },
     {
       "raw_hot": 337134,
@@ -297,6 +385,14 @@
       "onboard_time": 1714864574,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 322440,
+      "num": 322440,
+      "word": "INB100",
+      "onboard_time": 1714881258,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 321259,
@@ -371,6 +467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 260289,
+      "num": 260289,
+      "word": "宋轶不敢坐何超莲开的越野车",
+      "onboard_time": 1714882520,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248723,
       "num": 248723,
       "word": "凤凰传奇荧光棒",
@@ -435,6 +539,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 225131,
+      "num": 225131,
+      "word": "B站回应短片被举报涉嫌洗稿",
+      "onboard_time": 1714882340,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 223671,
+      "num": 217102,
+      "word": "老舅说故意把山河图写绕口",
+      "onboard_time": 1714881679,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223033,
       "num": 223033,
       "word": "歌手2024",
@@ -459,11 +579,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217441,
-      "num": 153510,
-      "word": "这就是双休和单休的工作环境",
-      "onboard_time": 1714879938,
-      "rank": 30,
+      "raw_hot": 218204,
+      "num": 218204,
+      "word": "你喝咖啡会感到不舒服吗",
+      "onboard_time": 1714878917,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 215963,
+      "num": 215963,
+      "word": "古巴旅游",
+      "onboard_time": 1714882160,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 213520,
+      "num": 213520,
+      "word": "真的有养不熟的猫",
+      "onboard_time": 1714880179,
+      "rank": 33,
       "category": "幽默"
     },
     {
@@ -481,6 +617,14 @@
       "onboard_time": 1714865173,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207202,
+      "num": 207202,
+      "word": "一顿火锅撤档",
+      "onboard_time": 1714882879,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 197437,
@@ -531,12 +675,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 191333,
-      "num": 191333,
-      "word": "庄达菲谈与肖战合作感受",
-      "onboard_time": 1714879518,
-      "rank": 24,
-      "category": "电影"
+      "raw_hot": 188877,
+      "num": 188877,
+      "word": "讨厌不发信息直接弹语音电话的人",
+      "onboard_time": 1714882217,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 188172,
@@ -547,19 +691,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188004,
+      "num": 188004,
+      "word": "因为没有秒回信息被开除了",
+      "onboard_time": 1714882640,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187035,
       "num": 187035,
       "word": "李斯丹妮秒答杨幂白浅",
       "onboard_time": 1714877477,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 184880,
-      "num": 184880,
-      "word": "吴镇宇 金莎没有能力带他的",
-      "onboard_time": 1714879457,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -579,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176313,
+      "num": 176313,
+      "word": "坡子街",
+      "onboard_time": 1714882698,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 175746,
       "num": 175746,
       "word": "马斯克称特斯拉ModelY可付费提升续航",
@@ -592,6 +744,14 @@
       "word": "肖战伍嘉成微博互动",
       "onboard_time": 1714864154,
       "rank": 12,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 172435,
+      "num": 172435,
+      "word": "时代少年团的退场方式",
+      "onboard_time": 1714881199,
+      "rank": 41,
       "category": "演出"
     },
     {
@@ -627,12 +787,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 162116,
+      "num": 162116,
+      "word": "严浩翔演唱会跟粉丝唠了五块钱的",
+      "onboard_time": 1714880657,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161602,
       "num": 161602,
       "word": "你是如何变得不浮躁的",
       "onboard_time": 1714874058,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161276,
+      "num": 161276,
+      "word": "B站五四青年节短片",
+      "onboard_time": 1714882879,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 161229,
@@ -659,6 +835,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 158918,
+      "num": 158918,
+      "word": "马斯克讽刺加州高铁",
+      "onboard_time": 1714879338,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158598,
       "num": 158598,
       "word": "戚薇说李承铉飘了",
@@ -672,6 +856,22 @@
       "word": "乍一看以为戚薇裤子当上衣穿",
       "onboard_time": 1714875137,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 155692,
+      "num": 155692,
+      "word": "蓝眼泪",
+      "onboard_time": 1714882640,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 155669,
+      "num": 155669,
+      "word": "邓超也会尴尬吗",
+      "onboard_time": 1714882879,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -755,14 +955,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 139858,
-      "num": 139858,
-      "word": "马斯克讽刺加州高铁",
-      "onboard_time": 1714879338,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138864,
       "num": 217942,
       "word": "金希澈韩庚合照",
@@ -793,14 +985,6 @@
       "onboard_time": 1714873939,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134729,
-      "num": 134729,
-      "word": "边伯贤微博",
-      "onboard_time": 1714879938,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 132525,
@@ -835,20 +1019,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 131894,
-      "num": 131894,
-      "word": "你用了很久的微信置顶文案是什么",
-      "onboard_time": 1714879938,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 127160,
-      "num": 127160,
-      "word": "你喝咖啡会感到不舒服吗",
-      "onboard_time": 1714878917,
-      "rank": 46,
-      "category": "美食"
+      "raw_hot": 130878,
+      "num": 143155,
+      "word": "第五人格宁芙奖",
+      "onboard_time": 1714880179,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 126092,
@@ -1009,6 +1185,14 @@
       "onboard_time": 1714830380,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93853,
+      "num": 347214,
+      "word": "日本儿童人口创最低纪录",
+      "onboard_time": 1714882399,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92776,
