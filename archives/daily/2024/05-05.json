@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714886238020,
+  "endTime": 1714887255147,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1280143,
+      "num": 1280143,
+      "word": "考上北大却发现读的成本好高",
+      "onboard_time": 1714885638,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1259532,
       "num": 1259532,
       "word": "舅妈家想霸占我的婚房",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1179112,
-      "num": 705797,
+      "num": 930233,
       "word": "五一 撤档",
       "onboard_time": 1714883899,
       "rank": 3,
@@ -81,6 +89,14 @@
       "onboard_time": 1714880598,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 922439,
+      "num": 586150,
+      "word": "电影圈 七天无理由退货",
+      "onboard_time": 1714885520,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 922392,
@@ -171,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 586150,
-      "num": 586150,
-      "word": "电影圈 七天无理由退货",
-      "onboard_time": 1714885520,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 585149,
       "num": 332946,
       "word": "原来上班真的能跨越阶级",
@@ -257,14 +265,6 @@
       "onboard_time": 1714874778,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 496375,
-      "num": 496375,
-      "word": "考上北大却发现读的成本好高",
-      "onboard_time": 1714885638,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 481646,
@@ -507,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 278999,
+      "num": 278999,
+      "word": "老舅说故意把山河图写绕口",
+      "onboard_time": 1714881679,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 278084,
       "num": 278084,
       "word": "爱德华兹吸粉",
@@ -547,12 +555,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 249372,
-      "num": 249372,
-      "word": "老舅说故意把山河图写绕口",
-      "onboard_time": 1714881679,
+      "raw_hot": 252703,
+      "num": 252703,
+      "word": "猴子抢了游客防晒衣出不来了",
+      "onboard_time": 1714885398,
       "rank": 30,
-      "category": "作品衍生"
+      "category": "幽默"
     },
     {
       "raw_hot": 248723,
@@ -579,12 +587,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 240610,
+      "num": 240610,
+      "word": "游泳教练憋气练习时意外溺亡",
+      "onboard_time": 1714886418,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238965,
       "num": 238965,
       "word": "立夏",
       "onboard_time": 1714864094,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236898,
+      "num": 236898,
+      "word": "陈赫从五哈团单飞了",
+      "onboard_time": 1714886958,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 234875,
@@ -819,12 +843,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186163,
-      "num": 186163,
-      "word": "猴子抢了游客防晒衣出不来了",
-      "onboard_time": 1714885398,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 186506,
+      "num": 186506,
+      "word": "时代少年团男儿歌贴纸是China",
+      "onboard_time": 1714886239,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 184541,
@@ -841,6 +865,14 @@
       "onboard_time": 1714838719,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179599,
+      "num": 179599,
+      "word": "黑粉向杨洋致歉",
+      "onboard_time": 1714886658,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 178991,
@@ -1147,6 +1179,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 131245,
+      "num": 131245,
+      "word": "原来朋友真的可以在路上遇到",
+      "onboard_time": 1714886838,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130878,
       "num": 143155,
       "word": "第五人格宁芙奖",
@@ -1161,6 +1201,14 @@
       "onboard_time": 1714886060,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127436,
+      "num": 127436,
+      "word": "为什么刚学电脑时没人告诉我",
+      "onboard_time": 1714886898,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 126092,
@@ -1259,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115355,
+      "num": 115355,
+      "word": "郑合惠子面试",
+      "onboard_time": 1714884140,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111621,
       "num": 217916,
       "word": "时代少年团演唱会直播",
@@ -1281,6 +1337,14 @@
       "onboard_time": 1714842255,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106084,
+      "num": 373651,
+      "word": "青岛啤酒登上央视三分钟",
+      "onboard_time": 1714883660,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104874,
@@ -1321,14 +1385,6 @@
       "onboard_time": 1714831581,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 95490,
-      "num": 373651,
-      "word": "青岛啤酒登上央视三分钟",
-      "onboard_time": 1714883660,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94341,
@@ -1596,6 +1652,9 @@
     },
     {
       "word": "#总书记寄语新时代青年#"
+    },
+    {
+      "word": "#青年引路人#"
     }
   ]
 }
