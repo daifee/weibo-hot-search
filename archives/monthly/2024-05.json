@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714943739445,
+  "endTime": 1714944864945,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -14171,6 +14171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35273,
+      "num": 44125,
+      "word": "一晚两场演唱会民警人海硬控忙不停",
+      "onboard_time": 1714930573,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 34426,
       "num": 34426,
       "word": "古天乐好帅",
@@ -14185,6 +14193,14 @@
       "onboard_time": 1714758973,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 33965,
+      "num": 33965,
+      "word": "有人弃我如杂草 有人视我如珍宝",
+      "onboard_time": 1714942331,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 32304,
@@ -14217,14 +14233,6 @@
       "onboard_time": 1714769590,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 29835,
-      "num": 44125,
-      "word": "一晚两场演唱会民警人海硬控忙不停",
-      "onboard_time": 1714930573,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 29540,
@@ -14363,8 +14371,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 19478,
-      "num": 17521,
+      "raw_hot": 20770,
+      "num": 19886,
       "word": "重生之我在爽文短剧里当演员",
       "onboard_time": 1714940292,
       "rank": 35,
@@ -14395,20 +14403,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 16404,
-      "num": 16404,
-      "word": "有人弃我如杂草 有人视我如珍宝",
-      "onboard_time": 1714942331,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 15503,
       "num": 17109,
       "word": "花少好友记热闹起来了",
       "onboard_time": 1714592531,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15107,
+      "num": 19873,
+      "word": "今年五一档票房破15亿",
+      "onboard_time": 1714941071,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 14087,
@@ -14433,14 +14441,6 @@
       "onboard_time": 1714940110,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 12588,
-      "num": 16228,
-      "word": "今年五一档票房破15亿",
-      "onboard_time": 1714941071,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 11623,
