@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714891060101,
+  "endTime": 1714893363022,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -243,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1638996,
+      "num": 509499,
+      "word": "女子称住酒店裸睡被人强行刷开房门",
+      "onboard_time": 1714889118,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1638222,
       "num": 977794,
       "word": "胖猫谭竹",
@@ -321,14 +329,6 @@
       "onboard_time": 1714805301,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1483724,
-      "num": 509499,
-      "word": "女子称住酒店裸睡被人强行刷开房门",
-      "onboard_time": 1714889118,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1479307,
@@ -1147,6 +1147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 825153,
+      "num": 825153,
+      "word": "陈赫妈妈是来录陈赫吐槽大会吗",
+      "onboard_time": 1714889239,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 821780,
       "num": 821780,
       "word": "庆余年2 超前观影",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1714546998,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 802806,
+      "num": 445752,
+      "word": "刘亦菲金色高定",
+      "onboard_time": 1714890499,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 802219,
@@ -1809,14 +1825,6 @@
       "onboard_time": 1714576700,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 614439,
-      "num": 608229,
-      "word": "陈赫妈妈是来录陈赫吐槽大会吗",
-      "onboard_time": 1714889239,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 612869,
@@ -2699,6 +2707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449664,
+      "num": 449664,
+      "word": "金价重回5时代",
+      "onboard_time": 1714891339,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 449512,
       "num": 449512,
       "word": "魏晨南京",
@@ -2819,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436919,
+      "num": 436919,
+      "word": "我也退出五一档了",
+      "onboard_time": 1714892358,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 436770,
       "num": 436770,
       "word": "王者荣耀",
@@ -2867,6 +2891,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 431240,
+      "num": 431240,
+      "word": "37岁养羊男子娶19岁越南新娘",
+      "onboard_time": 1714881799,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 430725,
       "num": 430725,
       "word": "散步是一件亲密且暧昧的事",
@@ -2889,6 +2921,14 @@
       "onboard_time": 1714527018,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 427983,
+      "num": 427983,
+      "word": "IU捐赠1亿韩元",
+      "onboard_time": 1714889419,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 427498,
@@ -3611,14 +3651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 356048,
-      "num": 339390,
-      "word": "37岁养羊男子娶19岁越南新娘",
-      "onboard_time": 1714881799,
-      "rank": 21,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 354994,
       "num": 354994,
       "word": "Jennie露背黑裙",
@@ -3811,14 +3843,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 336413,
-      "num": 336413,
-      "word": "IU捐赠1亿韩元",
-      "onboard_time": 1714889419,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 335627,
       "num": 335627,
       "word": "林更新孟子义不想近距离吃饼干",
@@ -3987,14 +4011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321207,
-      "num": 276347,
-      "word": "刘亦菲金色高定",
-      "onboard_time": 1714890499,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 321090,
       "num": 321090,
       "word": "成毅王权富贵杀青",
@@ -4145,6 +4161,14 @@
       "onboard_time": 1714490720,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 301613,
+      "num": 235511,
+      "word": "很烧钱却小众的爱好",
+      "onboard_time": 1714892780,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 301524,
@@ -4827,6 +4851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 250300,
+      "num": 233048,
+      "word": "这种酸奶千万别喝",
+      "onboard_time": 1714892060,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 249674,
       "num": 242709,
       "word": "00后辞职的人都在做什么",
@@ -5017,6 +5049,14 @@
       "onboard_time": 1714709297,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241408,
+      "num": 231899,
+      "word": "孟佳当选手被张雨绮秒淘汰",
+      "onboard_time": 1714890197,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 241260,
@@ -5651,6 +5691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214969,
+      "num": 214969,
+      "word": "迪丽热巴旗袍",
+      "onboard_time": 1714893139,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214128,
       "num": 214128,
       "word": "他哽咽着感谢但该说感谢的是我们",
@@ -5785,6 +5833,14 @@
       "onboard_time": 1714616898,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209648,
+      "num": 192784,
+      "word": "爸爸才四十多岁就不工作了",
+      "onboard_time": 1714892780,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 209531,
@@ -5953,6 +6009,14 @@
       "onboard_time": 1714723579,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205898,
+      "num": 205898,
+      "word": "价格大降榴莲自由要来了吗",
+      "onboard_time": 1714890318,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 205867,
@@ -7259,6 +7323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182377,
+      "num": 182377,
+      "word": "为什么刚学电脑时没人告诉我",
+      "onboard_time": 1714886898,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 182120,
       "num": 182120,
       "word": "坐高铁碰到硬要和我换座的情侣",
@@ -7779,6 +7851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171224,
+      "num": 171224,
+      "word": "陈昊宇 我觉得我70岁还能拍戏",
+      "onboard_time": 1714892599,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171131,
       "num": 171131,
       "word": "黄誉博直播",
@@ -8051,14 +8131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165468,
-      "num": 165468,
-      "word": "孟佳当选手被张雨绮秒淘汰",
-      "onboard_time": 1714890197,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165410,
       "num": 165410,
       "word": "辽宁男篮vs广东男篮",
@@ -8275,6 +8347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162799,
+      "num": 162799,
+      "word": "林俊杰济南",
+      "onboard_time": 1714891578,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162711,
       "num": 162711,
       "word": "宫崎骏治好了我的年龄焦虑",
@@ -8339,6 +8419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161270,
+      "num": 161270,
+      "word": "为什么父母这么执着于提前到",
+      "onboard_time": 1714891698,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161229,
       "num": 161229,
       "word": "沈月加入内娱薯片了",
@@ -8377,6 +8465,14 @@
       "onboard_time": 1714831581,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160852,
+      "num": 160852,
+      "word": "李耕耘赵小童公主抱何浩楠赵一博",
+      "onboard_time": 1714892479,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 160634,
@@ -8633,14 +8729,6 @@
       "onboard_time": 1714546698,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 155144,
-      "num": 155144,
-      "word": "为什么刚学电脑时没人告诉我",
-      "onboard_time": 1714886898,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 154844,
@@ -9035,6 +9123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148826,
+      "num": 148826,
+      "word": "三星调侃iPhone闹钟不响",
+      "onboard_time": 1714892060,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 148740,
       "num": 148740,
       "word": "齐司礼 7推国宴",
@@ -9193,14 +9289,6 @@
       "onboard_time": 1714570939,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145748,
-      "num": 145748,
-      "word": "价格大降榴莲自由要来了吗",
-      "onboard_time": 1714890318,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 145608,
@@ -10347,6 +10435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127198,
+      "num": 127198,
+      "word": "和ChatGPT谈恋爱是什么体验",
+      "onboard_time": 1714890619,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 127181,
       "num": 127181,
       "word": "李炮儿减肥应聘车模",
@@ -10603,6 +10699,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 122198,
+      "num": 122198,
+      "word": "第一次见这么不负责的宠物店",
+      "onboard_time": 1714893320,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121889,
       "num": 121889,
       "word": "宝宝 你是一只香菇",
@@ -10681,14 +10785,6 @@
       "onboard_time": 1714829539,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120619,
-      "num": 120619,
-      "word": "和ChatGPT谈恋爱是什么体验",
-      "onboard_time": 1714890619,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 120573,
