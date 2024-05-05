@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714951049282,
+  "endTime": 1714952077453,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -2403,6 +2403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 539170,
+      "num": 539170,
+      "word": "有人弃我如杂草 有人视我如珍宝",
+      "onboard_time": 1714942331,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 538101,
       "num": 538101,
       "word": "金价重回5时代",
@@ -3235,14 +3243,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 428032,
-      "num": 428032,
-      "word": "有人弃我如杂草 有人视我如珍宝",
-      "onboard_time": 1714942331,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 427983,
       "num": 427983,
       "word": "IU捐赠1亿韩元",
@@ -3899,6 +3899,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 375344,
+      "num": 375344,
+      "word": "上班",
+      "onboard_time": 1714950916,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 375268,
       "num": 375268,
       "word": "冒充小学生骗女生当事人被约谈",
@@ -4153,6 +4161,14 @@
       "onboard_time": 1714813999,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 351226,
+      "num": 351226,
+      "word": "官方通报叫花鸡里没有鸡",
+      "onboard_time": 1714918581,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348136,
@@ -4729,14 +4745,6 @@
       "onboard_time": 1714789998,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 298472,
-      "num": 298472,
-      "word": "官方通报叫花鸡里没有鸡",
-      "onboard_time": 1714918581,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297173,
@@ -5440,6 +5448,14 @@
       "word": "央八将独播庆余年第一季精编版",
       "onboard_time": 1714534037,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 254257,
+      "num": 254257,
+      "word": "民宿老板拍的叶祖新",
+      "onboard_time": 1714949895,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -6321,6 +6337,14 @@
       "onboard_time": 1714696577,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 216406,
+      "num": 216406,
+      "word": "五一档电影为什么没有很多人看",
+      "onboard_time": 1714907838,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 216331,
@@ -7275,6 +7299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197402,
+      "num": 101956,
+      "word": "赵丽颖出道十八周年",
+      "onboard_time": 1714951335,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197377,
       "num": 197377,
       "word": "湿气排出的八个表现",
@@ -7369,6 +7401,14 @@
       "onboard_time": 1714619178,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196527,
+      "num": 196527,
+      "word": "节后上班第1天",
+      "onboard_time": 1714951455,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196408,
@@ -7665,14 +7705,6 @@
       "onboard_time": 1714899320,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191009,
-      "num": 191009,
-      "word": "五一档电影为什么没有很多人看",
-      "onboard_time": 1714907838,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 190923,
@@ -8553,6 +8585,14 @@
       "onboard_time": 1714704019,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175399,
+      "num": 276932,
+      "word": "一晚两场演唱会民警人海硬控忙不停",
+      "onboard_time": 1714930573,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 175343,
@@ -9569,6 +9609,14 @@
       "onboard_time": 1714879338,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158775,
+      "num": 158775,
+      "word": "今年五一档票房破15亿",
+      "onboard_time": 1714941071,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 158598,
@@ -10963,14 +11011,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 135721,
-      "num": 252890,
-      "word": "一晚两场演唱会民警人海硬控忙不停",
-      "onboard_time": 1714930573,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 135599,
       "num": 135599,
       "word": "甲状腺结节",
@@ -11331,6 +11371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130837,
+      "num": 107776,
+      "word": "为什么年轻人流行偷偷领证",
+      "onboard_time": 1714926737,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130768,
       "num": 130768,
       "word": "辽宁男篮被核减联赛经费5万",
@@ -11419,14 +11467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129809,
-      "num": 129809,
-      "word": "民宿老板拍的叶祖新",
-      "onboard_time": 1714949895,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129766,
       "num": 604083,
       "word": "北京女大学生被青岛外卖小哥暖到了",
@@ -11489,14 +11529,6 @@
       "onboard_time": 1714524917,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128672,
-      "num": 128672,
-      "word": "今年五一档票房破15亿",
-      "onboard_time": 1714941071,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 128214,
@@ -12619,14 +12651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112750,
-      "num": 107776,
-      "word": "为什么年轻人流行偷偷领证",
-      "onboard_time": 1714926737,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112747,
       "num": 112747,
       "word": "被TTG英文硬控了",
@@ -12729,14 +12753,6 @@
       "onboard_time": 1714729819,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111066,
-      "num": 111066,
-      "word": "上班",
-      "onboard_time": 1714950916,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 110759,
@@ -13139,6 +13155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102093,
+      "num": 102093,
+      "word": "2024F1迈阿密大奖赛",
+      "onboard_time": 1714778355,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101408,
       "num": 98681,
       "word": "胡歌台湾腔",
@@ -13451,6 +13475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89923,
+      "num": 89923,
+      "word": "延长五一的方法",
+      "onboard_time": 1714951275,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 89422,
       "num": 89422,
       "word": "奥运会在即塞纳河还是臭的",
@@ -13481,6 +13513,14 @@
       "onboard_time": 1714482797,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87942,
+      "num": 87942,
+      "word": "伯纳德希尔去世",
+      "onboard_time": 1714951516,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 87801,
@@ -13867,6 +13907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 62742,
+      "num": 62742,
+      "word": "诺里斯F1生涯首冠",
+      "onboard_time": 1714951455,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61893,
       "num": 169144,
       "word": "伦敦男子挥舞大剑袭击数人",
@@ -14059,14 +14107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52001,
-      "num": 52001,
-      "word": "2024F1迈阿密大奖赛",
-      "onboard_time": 1714778355,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 50601,
       "num": 52495,
       "word": "一个不花钱不吃药的补肾小动作",
@@ -14081,6 +14121,14 @@
       "onboard_time": 1714724779,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50088,
+      "num": 50088,
+      "word": "毕业后唯一没还给老师的品质",
+      "onboard_time": 1714935192,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 49733,
@@ -14113,6 +14161,14 @@
       "onboard_time": 1714515132,
       "rank": 49,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 48588,
+      "num": 48588,
+      "word": "利物浦4比2热刺",
+      "onboard_time": 1714951755,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 46359,
@@ -14188,7 +14244,7 @@
     },
     {
       "raw_hot": 43304,
-      "num": 45568,
+      "num": 47620,
       "word": "麦当娜160万人演唱会",
       "onboard_time": 1714936691,
       "rank": 45,
@@ -14201,14 +14257,6 @@
       "onboard_time": 1714858151,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42198,
-      "num": 45610,
-      "word": "毕业后唯一没还给老师的品质",
-      "onboard_time": 1714935192,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 42100,

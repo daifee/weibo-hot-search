@@ -1,18 +1,18 @@
 {
   "startTime": 1714926165838,
-  "endTime": 1714951049282,
+  "endTime": 1714952077453,
   "band_list": [
     {
       "raw_hot": 1035239,
-      "num": 375857,
+      "num": 394584,
       "word": "凤凰传奇观众被质疑假唱",
       "onboard_time": 1714919121,
       "rank": 5,
       "category": "演出"
     },
     {
-      "raw_hot": 853096,
-      "num": 853096,
+      "raw_hot": 970851,
+      "num": 970851,
       "word": "未来三天有可能爆发M级甚至X级以上耀斑",
       "onboard_time": 1714897518,
       "rank": 1,
@@ -27,7 +27,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 731495,
+      "raw_hot": 777469,
       "num": 408861,
       "word": "特斯拉坠崖致夫妻身亡记录仪数据却没了",
       "onboard_time": 1714917921,
@@ -59,20 +59,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 539170,
+      "num": 539170,
+      "word": "有人弃我如杂草 有人视我如珍宝",
+      "onboard_time": 1714942331,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 531579,
       "num": 258775,
       "word": "第一次看到张元英表情管理失败",
       "onboard_time": 1714915460,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 428032,
-      "num": 428032,
-      "word": "有人弃我如杂草 有人视我如珍宝",
-      "onboard_time": 1714942331,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 423568,
@@ -84,18 +84,34 @@
     },
     {
       "raw_hot": 411733,
-      "num": 246498,
+      "num": 263833,
       "word": "泫雅一个月晕倒12次",
       "onboard_time": 1714914321,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 359351,
-      "num": 359351,
+      "raw_hot": 404099,
+      "num": 404099,
       "word": "网购7700元迪士尼套餐最终民警护送入园",
       "onboard_time": 1714910658,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375344,
+      "num": 375344,
+      "word": "上班",
+      "onboard_time": 1714950916,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 351226,
+      "num": 351226,
+      "word": "官方通报叫花鸡里没有鸡",
+      "onboard_time": 1714918581,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -105,14 +121,6 @@
       "onboard_time": 1714923079,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 298472,
-      "num": 298472,
-      "word": "官方通报叫花鸡里没有鸡",
-      "onboard_time": 1714918581,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293632,
@@ -147,12 +155,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 256492,
+      "num": 256492,
+      "word": "医院被举报代孕1小时后产妇出院被疑通风报信",
+      "onboard_time": 1714897279,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256307,
       "num": 256307,
       "word": "陈奕迅 安可",
       "onboard_time": 1714917861,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 254257,
+      "num": 254257,
+      "word": "民宿老板拍的叶祖新",
+      "onboard_time": 1714949895,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 239542,
@@ -171,15 +195,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 214082,
-      "num": 214082,
-      "word": "医院被举报代孕1小时后产妇出院被疑通风报信",
-      "onboard_time": 1714897279,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212494,
+      "raw_hot": 219351,
       "num": 141457,
       "word": "张一山卡点回复杨紫",
       "onboard_time": 1714908259,
@@ -187,12 +203,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191009,
-      "num": 191009,
+      "raw_hot": 216406,
+      "num": 216406,
       "word": "五一档电影为什么没有很多人看",
       "onboard_time": 1714907838,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197402,
+      "num": 101956,
+      "word": "赵丽颖出道十八周年",
+      "onboard_time": 1714951335,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196527,
+      "num": 196527,
+      "word": "节后上班第1天",
+      "onboard_time": 1714951455,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189675,
@@ -219,12 +251,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175399,
+      "num": 276932,
+      "word": "一晚两场演唱会民警人海硬控忙不停",
+      "onboard_time": 1714930573,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174673,
       "num": 158686,
       "word": "黄明昊提跑车通知全世界",
       "onboard_time": 1714924938,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169446,
+      "num": 153578,
+      "word": "这8个表现说明你已经瘦了",
+      "onboard_time": 1714914680,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 163463,
@@ -235,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158701,
-      "num": 153578,
-      "word": "这8个表现说明你已经瘦了",
-      "onboard_time": 1714914680,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 158775,
+      "num": 158775,
+      "word": "今年五一档票房破15亿",
+      "onboard_time": 1714941071,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 158351,
@@ -267,14 +315,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 135721,
-      "num": 252890,
-      "word": "一晚两场演唱会民警人海硬控忙不停",
-      "onboard_time": 1714930573,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 135364,
       "num": 254350,
       "word": "新疆2元一个的烤包子火了",
@@ -283,20 +323,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 129809,
-      "num": 129809,
-      "word": "民宿老板拍的叶祖新",
-      "onboard_time": 1714949895,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 128672,
-      "num": 128672,
-      "word": "今年五一档票房破15亿",
-      "onboard_time": 1714941071,
-      "rank": 47,
-      "category": "电影"
+      "raw_hot": 130837,
+      "num": 107776,
+      "word": "为什么年轻人流行偷偷领证",
+      "onboard_time": 1714926737,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 126624,
@@ -339,28 +371,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 112750,
-      "num": 107776,
-      "word": "为什么年轻人流行偷偷领证",
-      "onboard_time": 1714926737,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112342,
       "num": 112342,
       "word": "喻言在KTV直播",
       "onboard_time": 1714919659,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 111066,
-      "num": 111066,
-      "word": "上班",
-      "onboard_time": 1714950916,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 110203,
@@ -395,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102093,
+      "num": 102093,
+      "word": "2024F1迈阿密大奖赛",
+      "onboard_time": 1714951516,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98720,
       "num": 98720,
       "word": "急得黄景瑜差点打消费者热线",
@@ -419,12 +443,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89923,
+      "num": 89923,
+      "word": "延长五一的方法",
+      "onboard_time": 1714951275,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88301,
       "num": 88301,
       "word": "迪丽热巴郭晓婷胡意旋录开推",
       "onboard_time": 1714917621,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87942,
+      "num": 87942,
+      "word": "伯纳德希尔去世",
+      "onboard_time": 1714951516,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 86215,
@@ -499,12 +539,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62742,
+      "num": 62742,
+      "word": "诺里斯F1生涯首冠",
+      "onboard_time": 1714951455,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53494,
       "num": 53494,
       "word": "BLG上上签",
       "onboard_time": 1714915099,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 50088,
+      "num": 50088,
+      "word": "毕业后唯一没还给老师的品质",
+      "onboard_time": 1714935192,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 49174,
@@ -515,20 +571,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 48588,
+      "num": 48588,
+      "word": "利物浦4比2热刺",
+      "onboard_time": 1714951755,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43304,
-      "num": 45568,
+      "num": 47620,
       "word": "麦当娜160万人演唱会",
       "onboard_time": 1714936691,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 42198,
-      "num": 45610,
-      "word": "毕业后唯一没还给老师的品质",
-      "onboard_time": 1714935192,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 38128,
@@ -579,8 +635,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 16368,
-      "num": 546933,
+      "raw_hot": 16676,
+      "num": 568084,
       "word": "文化中国行发现节气之美",
       "onboard_time": 1714896140,
       "rank": 2,

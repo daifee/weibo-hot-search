@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714951049282,
+  "endTime": 1714952077453,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -507,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 539170,
+      "num": 539170,
+      "word": "有人弃我如杂草 有人视我如珍宝",
+      "onboard_time": 1714942331,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 538101,
       "num": 538101,
       "word": "金价重回5时代",
@@ -739,14 +747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 428032,
-      "num": 428032,
-      "word": "有人弃我如杂草 有人视我如珍宝",
-      "onboard_time": 1714942331,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 427983,
       "num": 427983,
       "word": "IU捐赠1亿韩元",
@@ -899,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375344,
+      "num": 375344,
+      "word": "上班",
+      "onboard_time": 1714950916,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 373393,
       "num": 373393,
       "word": "苗苗自己给自己化妆",
@@ -985,6 +993,14 @@
       "onboard_time": 1714908259,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351226,
+      "num": 351226,
+      "word": "官方通报叫花鸡里没有鸡",
+      "onboard_time": 1714918581,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348136,
@@ -1097,14 +1113,6 @@
       "onboard_time": 1714897639,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 298472,
-      "num": 298472,
-      "word": "官方通报叫花鸡里没有鸡",
-      "onboard_time": 1714918581,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297173,
@@ -1289,6 +1297,14 @@
       "onboard_time": 1714882340,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 254257,
+      "num": 254257,
+      "word": "民宿老板拍的叶祖新",
+      "onboard_time": 1714949895,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 249468,
@@ -1515,6 +1531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 216406,
+      "num": 216406,
+      "word": "五一档电影为什么没有很多人看",
+      "onboard_time": 1714907838,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 215460,
       "num": 215460,
       "word": "光与夜之恋",
@@ -1699,12 +1723,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197402,
+      "num": 101956,
+      "word": "赵丽颖出道十八周年",
+      "onboard_time": 1714951335,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196746,
       "num": 196746,
       "word": "梅西1球5助攻",
       "onboard_time": 1714875378,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196527,
+      "num": 196527,
+      "word": "节后上班第1天",
+      "onboard_time": 1714951455,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196408,
@@ -1817,14 +1857,6 @@
       "onboard_time": 1714899320,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191009,
-      "num": 191009,
-      "word": "五一档电影为什么没有很多人看",
-      "onboard_time": 1714907838,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 190728,
@@ -2049,6 +2081,14 @@
       "onboard_time": 1714877598,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 175399,
+      "num": 276932,
+      "word": "一晚两场演唱会民警人海硬控忙不停",
+      "onboard_time": 1714930573,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 174707,
@@ -2323,6 +2363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158775,
+      "num": 158775,
+      "word": "今年五一档票房破15亿",
+      "onboard_time": 1714941071,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158598,
       "num": 158598,
       "word": "戚薇说李承铉飘了",
@@ -2563,14 +2611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135721,
-      "num": 252890,
-      "word": "一晚两场演唱会民警人海硬控忙不停",
-      "onboard_time": 1714930573,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 135599,
       "num": 135599,
       "word": "甲状腺结节",
@@ -2651,6 +2691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130837,
+      "num": 107776,
+      "word": "为什么年轻人流行偷偷领证",
+      "onboard_time": 1714926737,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130204,
       "num": 130204,
       "word": "淄博炒锅饼因人太多转线上销售了",
@@ -2659,28 +2707,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 129809,
-      "num": 129809,
-      "word": "民宿老板拍的叶祖新",
-      "onboard_time": 1714949895,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129642,
       "num": 129642,
       "word": "刘耀文饭撒忘记了跳舞",
       "onboard_time": 1714886060,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 128672,
-      "num": 128672,
-      "word": "今年五一档票房破15亿",
-      "onboard_time": 1714941071,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 128030,
@@ -2987,14 +3019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112750,
-      "num": 107776,
-      "word": "为什么年轻人流行偷偷领证",
-      "onboard_time": 1714926737,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 111621,
       "num": 217916,
       "word": "时代少年团演唱会直播",
@@ -3009,14 +3033,6 @@
       "onboard_time": 1714872499,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 111066,
-      "num": 111066,
-      "word": "上班",
-      "onboard_time": 1714950916,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 110189,
@@ -3073,6 +3089,14 @@
       "onboard_time": 1714814298,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102093,
+      "num": 102093,
+      "word": "2024F1迈阿密大奖赛",
+      "onboard_time": 1714951516,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 98539,
@@ -3139,12 +3163,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 89923,
+      "num": 89923,
+      "word": "延长五一的方法",
+      "onboard_time": 1714951275,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 89635,
       "num": 217914,
       "word": "苏打绿成都",
       "onboard_time": 1714835659,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87942,
+      "num": 87942,
+      "word": "伯纳德希尔去世",
+      "onboard_time": 1714951516,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 86411,
@@ -3291,6 +3331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62742,
+      "num": 62742,
+      "word": "诺里斯F1生涯首冠",
+      "onboard_time": 1714951455,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61740,
       "num": 142629,
       "word": "五月天香港",
@@ -3339,12 +3387,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 50088,
+      "num": 50088,
+      "word": "毕业后唯一没还给老师的品质",
+      "onboard_time": 1714935192,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 49174,
       "num": 49174,
       "word": "苏打绿巡演",
       "onboard_time": 1714927575,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 48588,
+      "num": 48588,
+      "word": "利物浦4比2热刺",
+      "onboard_time": 1714951755,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 46263,
@@ -3372,7 +3436,7 @@
     },
     {
       "raw_hot": 43304,
-      "num": 45568,
+      "num": 47620,
       "word": "麦当娜160万人演唱会",
       "onboard_time": 1714936691,
       "rank": 45,
@@ -3385,14 +3449,6 @@
       "onboard_time": 1714858151,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42198,
-      "num": 45610,
-      "word": "毕业后唯一没还给老师的品质",
-      "onboard_time": 1714935192,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 38128,
