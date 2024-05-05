@@ -1,22 +1,30 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714872001299,
+  "endTime": 1714873190590,
   "band_list": [
     {
-      "raw_hot": 1084582,
-      "num": 1084582,
+      "raw_hot": 1362273,
+      "num": 1362273,
       "word": "5月5日8时10分迎来立夏",
       "onboard_time": 1714866374,
       "rank": 0,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 959201,
-      "num": 959201,
+      "raw_hot": 1064099,
+      "num": 1064099,
       "word": "莫里斯去世",
       "onboard_time": 1714866374,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 922392,
+      "num": 922392,
+      "word": "感觉他女朋友快要碎掉了",
+      "onboard_time": 1714867216,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 877700,
@@ -43,12 +51,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 720265,
-      "num": 320104,
-      "word": "感觉他女朋友快要碎掉了",
-      "onboard_time": 1714867216,
-      "rank": 11,
-      "category": "幽默"
+      "raw_hot": 819770,
+      "num": 306573,
+      "word": "舅妈家想霸占我的婚房",
+      "onboard_time": 1714871057,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 712165,
@@ -75,6 +83,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 585149,
+      "num": 317389,
+      "word": "原来上班真的能跨越阶级",
+      "onboard_time": 1714864994,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 573550,
       "num": 282303,
       "word": "香飘飘",
@@ -83,12 +99,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 554259,
-      "num": 317389,
-      "word": "原来上班真的能跨越阶级",
-      "onboard_time": 1714864994,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 509807,
+      "num": 509807,
+      "word": "宝宝 你是一头情绪稳定的小懒猪",
+      "onboard_time": 1714869857,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 481646,
+      "num": 481646,
+      "word": "爆炸撕裂下坠 夜下摘星踏月",
+      "onboard_time": 1714868658,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 454004,
@@ -123,20 +147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 422160,
-      "num": 306573,
-      "word": "舅妈家想霸占我的婚房",
-      "onboard_time": 1714871057,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 409821,
-      "num": 409821,
-      "word": "爆炸撕裂下坠 夜下摘星踏月",
-      "onboard_time": 1714868658,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 412833,
+      "num": 303821,
+      "word": "香飘飘绕地球几圈了",
+      "onboard_time": 1714871237,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 402148,
@@ -147,8 +163,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 381720,
-      "num": 381720,
+      "raw_hot": 387068,
+      "num": 387068,
       "word": "90后自媒体创业2天入账74万",
       "onboard_time": 1714834821,
       "rank": 6,
@@ -195,12 +211,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 303821,
-      "num": 303821,
-      "word": "香飘飘绕地球几圈了",
-      "onboard_time": 1714871237,
-      "rank": 15,
-      "category": "美食"
+      "raw_hot": 321643,
+      "num": 321643,
+      "word": "张杰陈楚生撞衫",
+      "onboard_time": 1714871720,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 297074,
@@ -227,14 +243,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 272930,
-      "num": 272930,
-      "word": "宝宝 你是一头情绪稳定的小懒猪",
-      "onboard_time": 1714869857,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 264383,
       "num": 264383,
       "word": "酱园弄片长",
@@ -249,6 +257,22 @@
       "onboard_time": 1714866495,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 262570,
+      "num": 262570,
+      "word": "金莎看自己演风吹半夏哭了",
+      "onboard_time": 1714872979,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 255024,
+      "num": 196654,
+      "word": "爱德华兹吸粉",
+      "onboard_time": 1714873038,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 250599,
@@ -331,6 +355,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221261,
+      "num": 221261,
+      "word": "森林狼vs掘金",
+      "onboard_time": 1714872257,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 210945,
+      "num": 210945,
+      "word": "原来奶奶才是真正的神明",
+      "onboard_time": 1714869977,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207323,
       "num": 207323,
       "word": "邓超别哭了",
@@ -411,14 +451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 170488,
-      "num": 170488,
-      "word": "原来奶奶才是真正的神明",
-      "onboard_time": 1714869977,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 166168,
       "num": 217956,
       "word": "凤凰传奇 开蹦",
@@ -451,6 +483,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153155,
+      "num": 153155,
+      "word": "送给父母的养老别墅",
+      "onboard_time": 1714871478,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 145411,
+      "num": 145411,
+      "word": "迈阿密国际vs纽约红牛",
+      "onboard_time": 1714871958,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143370,
+      "num": 143370,
+      "word": "孙千费启鸣早期校服照",
+      "onboard_time": 1714872739,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143312,
       "num": 143312,
       "word": "香飘飘果汁茶",
@@ -465,14 +521,6 @@
       "onboard_time": 1714827799,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 140935,
-      "num": 140935,
-      "word": "张杰陈楚生撞衫",
-      "onboard_time": 1714871720,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 138864,
@@ -531,14 +579,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 128085,
-      "num": 128085,
-      "word": "送给父母的养老别墅",
-      "onboard_time": 1714871478,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 126092,
       "num": 217928,
       "word": "8岁女孩从300度近视变成400度远视",
@@ -587,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118343,
+      "num": 118343,
+      "word": "五一最后一天",
+      "onboard_time": 1714869558,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115786,
       "num": 115786,
       "word": "魏大勋浮潜",
@@ -603,20 +651,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111503,
+      "num": 111503,
+      "word": "时代少年团玛丽苏短剧",
+      "onboard_time": 1714872499,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110012,
       "num": 142749,
       "word": "潘玮柏演唱会大屏上的一家三口",
       "onboard_time": 1714842255,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 108890,
-      "num": 108890,
-      "word": "迈阿密国际vs纽约红牛",
-      "onboard_time": 1714871958,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 104874,
@@ -899,8 +947,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 5583,
-      "num": 847354,
+      "raw_hot": 7382,
+      "num": 978047,
       "word": "文化中国行我写家乡",
       "onboard_time": 1714742900,
       "rank": 2,
