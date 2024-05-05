@@ -1,0 +1,410 @@
+{
+  "runTime": 1714879141199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2576403,
+        "num": 2576403,
+        "word": "端午节假期不调休",
+        "onboard_time": 1714873818,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 974979,
+        "num": 974979,
+        "word": "5月5日8时10分迎来立夏",
+        "onboard_time": 1714866374,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7279,
+        "num": 957929,
+        "word": "文化中国行我写家乡",
+        "onboard_time": 1714742900,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 956671,
+        "num": 956671,
+        "word": "韩国第一夫人被专案调查",
+        "onboard_time": 1714877778,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 567020,
+        "num": 567020,
+        "word": "为什么吃面比吃米更胖人",
+        "onboard_time": 1714876279,
+        "rank": 4,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 503874,
+        "num": 503874,
+        "word": "日本专家提议外国人交游客税",
+        "onboard_time": 1714874838,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420783,
+        "num": 420783,
+        "word": "丁程鑫出发新加坡录花少",
+        "onboard_time": 1714877898,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403152,
+        "num": 403152,
+        "word": "香飘飘绕地球几圈了",
+        "onboard_time": 1714871237,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 400561,
+        "num": 400561,
+        "word": "莫里斯去世",
+        "onboard_time": 1714866374,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211806,
+        "num": 380705,
+        "word": "90后自媒体创业2天入账74万",
+        "onboard_time": 1714834821,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421665,
+        "num": 380648,
+        "word": "谢娜接张杰下班",
+        "onboard_time": 1714874778,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 380526,
+        "num": 380526,
+        "word": "宝宝 你是一头情绪稳定的小懒猪",
+        "onboard_time": 1714869857,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 364856,
+        "num": 364856,
+        "word": "贺军翔还在还房贷",
+        "onboard_time": 1714868958,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336885,
+        "num": 336885,
+        "word": "原来奶奶才是真正的神明",
+        "onboard_time": 1714869977,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295525,
+        "num": 295525,
+        "word": "iPhone16全系电池壳供应商是中国公司",
+        "onboard_time": 1714877537,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 290685,
+        "num": 290685,
+        "word": "专家称高铁涨价是必要的",
+        "onboard_time": 1714864935,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273803,
+        "num": 273803,
+        "word": "香飘飘回应讽日事件",
+        "onboard_time": 1714827619,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258566,
+        "num": 258566,
+        "word": "爆炸撕裂下坠 夜下摘星踏月",
+        "onboard_time": 1714868658,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255582,
+        "num": 255582,
+        "word": "张杰陈楚生撞衫",
+        "onboard_time": 1714871720,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212707,
+        "num": 212707,
+        "word": "香飘飘",
+        "onboard_time": 1714837399,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255123,
+        "num": 212166,
+        "word": "宋亚轩cos关晓彤",
+        "onboard_time": 1714868837,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208502,
+        "num": 208502,
+        "word": "喝咖啡会导致贫血吗",
+        "onboard_time": 1714874359,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189363,
+        "num": 189363,
+        "word": "原来上班真的能跨越阶级",
+        "onboard_time": 1714864994,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187035,
+        "num": 187035,
+        "word": "李斯丹妮秒答杨幂白浅",
+        "onboard_time": 1714877477,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180338,
+        "num": 180338,
+        "word": "孙千费启鸣早期校服照",
+        "onboard_time": 1714872739,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175746,
+        "num": 175746,
+        "word": "马斯克称特斯拉ModelY可付费提升续航",
+        "onboard_time": 1714877598,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 173832,
+        "num": 173832,
+        "word": "金莎看自己演风吹半夏哭了",
+        "onboard_time": 1714872979,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161229,
+        "num": 161229,
+        "word": "沈月加入内娱薯片了",
+        "onboard_time": 1714878137,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161149,
+        "num": 161149,
+        "word": "巴菲特存钱法让我养成易富体质",
+        "onboard_time": 1714875978,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155999,
+        "num": 155999,
+        "word": "爱德华兹吸粉",
+        "onboard_time": 1714873038,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333012,
+        "num": 155630,
+        "word": "原来爱莲说描写的是真的",
+        "onboard_time": 1714877778,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154837,
+        "num": 154837,
+        "word": "凤凰传奇荧光棒",
+        "onboard_time": 1714868116,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150780,
+        "num": 150780,
+        "word": "乍一看以为戚薇裤子当上衣穿",
+        "onboard_time": 1714875137,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150480,
+        "num": 150480,
+        "word": "假期过得快其实是有原因的",
+        "onboard_time": 1714875557,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 148970,
+        "num": 148970,
+        "word": "王俊凯马嘉祺相似造型",
+        "onboard_time": 1714866615,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148156,
+        "num": 148156,
+        "word": "立夏",
+        "onboard_time": 1714864094,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143658,
+        "num": 143658,
+        "word": "成都汤尤杯陈雨菲全胜",
+        "onboard_time": 1714877238,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146723,
+        "num": 143499,
+        "word": "戚薇说李承铉飘了",
+        "onboard_time": 1714876038,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138876,
+        "num": 138876,
+        "word": "加拿大一家3男捐精捐出超600个娃",
+        "onboard_time": 1714838898,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132773,
+        "num": 132773,
+        "word": "女儿看演唱会父母冒雨场外陪伴",
+        "onboard_time": 1714868538,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128716,
+        "num": 128716,
+        "word": "你那坨肉根本就不是副乳",
+        "onboard_time": 1714833079,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118308,
+        "num": 118308,
+        "word": "害怕接到家里的电话",
+        "onboard_time": 1714877718,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118168,
+        "num": 118168,
+        "word": "章鱼的智商能有多可怕",
+        "onboard_time": 1714876758,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 115224,
+        "num": 115224,
+        "word": "森林狼战胜掘金",
+        "onboard_time": 1714875859,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111079,
+        "num": 111079,
+        "word": "维和防暴队开分5.6分",
+        "onboard_time": 1714866495,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110680,
+        "num": 110680,
+        "word": "梅西1球5助攻",
+        "onboard_time": 1714875378,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107512,
+        "num": 107512,
+        "word": "你喝咖啡会感到不舒服吗",
+        "onboard_time": 1714878917,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105245,
+        "num": 105245,
+        "word": "上海等级考",
+        "onboard_time": 1714875917,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 101312,
+        "num": 101312,
+        "word": "肖战伍嘉成微博互动",
+        "onboard_time": 1714864154,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99623,
+        "num": 99623,
+        "word": "王力宏实力",
+        "onboard_time": 1714868958,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄语新时代青年#"
+    }
+  }
+}
