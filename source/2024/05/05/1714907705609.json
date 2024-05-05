@@ -1,0 +1,410 @@
+{
+  "runTime": 1714907705609,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1779651,
+        "num": 1779651,
+        "word": "未来三天有可能爆发M级甚至X级以上耀斑",
+        "onboard_time": 1714897518,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765516,
+        "num": 765516,
+        "word": "五一很短但六天很长",
+        "onboard_time": 1714904898,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43675,
+        "num": 748580,
+        "word": "文化中国行发现节气之美",
+        "onboard_time": 1714896140,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747072,
+        "num": 747072,
+        "word": "太疲惫身体会变臭",
+        "onboard_time": 1714902199,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 481195,
+        "num": 481195,
+        "word": "女子买3叫花鸡回家发现2只仅有泥巴",
+        "onboard_time": 1714902019,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404456,
+        "num": 404456,
+        "word": "丈夫病危妻子请假照顾被开除",
+        "onboard_time": 1714902139,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403228,
+        "num": 403228,
+        "word": "石宇奇强得可怕",
+        "onboard_time": 1714906640,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336175,
+        "num": 336175,
+        "word": "我也退出五一档了",
+        "onboard_time": 1714892358,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182667,
+        "num": 335345,
+        "word": "榴莲是典型的高糖高脂水果",
+        "onboard_time": 1714904299,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 190587,
+        "num": 324084,
+        "word": "为什么女性一定要养好气血",
+        "onboard_time": 1714904719,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1234184,
+        "num": 321905,
+        "word": "开封王婆怒怼亳州王婆",
+        "onboard_time": 1714902619,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804855,
+        "num": 316681,
+        "word": "医院被举报代孕1小时后产妇出院被疑通风报信",
+        "onboard_time": 1714897279,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310932,
+        "num": 310932,
+        "word": "夏威夷职业技术学院",
+        "onboard_time": 1714905798,
+        "rank": 12,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 486084,
+        "num": 307859,
+        "word": "河大一研究生论文曾指出礼堂消防隐患",
+        "onboard_time": 1714902260,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321757,
+        "num": 303300,
+        "word": "泰国男子性侵邻居遭反杀家属不追究",
+        "onboard_time": 1714895657,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282937,
+        "num": 282937,
+        "word": "王耀庆连续煎了21天鸡蛋",
+        "onboard_time": 1714901659,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 279949,
+        "num": 279949,
+        "word": "极限挑战看得我都酸了",
+        "onboard_time": 1714905377,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276798,
+        "num": 276798,
+        "word": "周扬青 带经纪人录节目的一天",
+        "onboard_time": 1714906640,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276049,
+        "num": 276049,
+        "word": "王力宏 山东省文旅厅",
+        "onboard_time": 1714894159,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 259231,
+        "num": 259231,
+        "word": "女子称住酒店裸睡被人强行刷开房门",
+        "onboard_time": 1714889118,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613831,
+        "num": 256554,
+        "word": "黄子韬徐艺洋吵架受伤的是姜潮",
+        "onboard_time": 1714895539,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501054,
+        "num": 252306,
+        "word": "杨幂回应首次把真发染红",
+        "onboard_time": 1714895118,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 387797,
+        "num": 251230,
+        "word": "张一山也是紫米",
+        "onboard_time": 1714906339,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366221,
+        "num": 246460,
+        "word": "爸爸才四十多岁就不工作了",
+        "onboard_time": 1714892780,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259408,
+        "num": 242294,
+        "word": "迪丽热巴旗袍",
+        "onboard_time": 1714893139,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240955,
+        "num": 240955,
+        "word": "买榴莲要买像荔枝的",
+        "onboard_time": 1714905318,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 240233,
+        "num": 240233,
+        "word": "叶祖新怎么越老越帅",
+        "onboard_time": 1714897639,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212691,
+        "num": 212691,
+        "word": "魏大勋脚上的红绳被P掉了",
+        "onboard_time": 1714902559,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210177,
+        "num": 210177,
+        "word": "苗苗自己给自己化妆",
+        "onboard_time": 1714906578,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188637,
+        "num": 207334,
+        "word": "山东10个馄饨250克吃懵南方人",
+        "onboard_time": 1714896439,
+        "rank": 29,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 206788,
+        "num": 206788,
+        "word": "杨紫发文祝张一山生日快乐",
+        "onboard_time": 1714895419,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193527,
+        "num": 193527,
+        "word": "丁程鑫 monster直拍",
+        "onboard_time": 1714906999,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183628,
+        "num": 183628,
+        "word": "王一博看一眼再看一眼",
+        "onboard_time": 1714904958,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177972,
+        "num": 177972,
+        "word": "金秀贤泡泡ins的差异",
+        "onboard_time": 1714906819,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176240,
+        "num": 176240,
+        "word": "求回到五一教程",
+        "onboard_time": 1714907477,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173518,
+        "num": 173518,
+        "word": "五一 out",
+        "onboard_time": 1714906159,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166922,
+        "num": 166922,
+        "word": "新娘出嫁小狗用身体挡婚车不让走",
+        "onboard_time": 1714902619,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158364,
+        "num": 158364,
+        "word": "女性生完孩子后子宫修复需要6周",
+        "onboard_time": 1714906759,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 155026,
+        "num": 155026,
+        "word": "性格内向是职场的隐形天花板吗",
+        "onboard_time": 1714901779,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145840,
+        "num": 145840,
+        "word": "肖战地广有了新的打开方式",
+        "onboard_time": 1714900880,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137482,
+        "num": 137482,
+        "word": "童瑶听到八离世家的反应",
+        "onboard_time": 1714902019,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131502,
+        "num": 131502,
+        "word": "很烧钱却小众的爱好",
+        "onboard_time": 1714892780,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125577,
+        "num": 125577,
+        "word": "马来西亚女子称被生父强奸8年",
+        "onboard_time": 1714898539,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123762,
+        "num": 123762,
+        "word": "沈腾马丽炫彩小卡",
+        "onboard_time": 1714900519,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119335,
+        "num": 119335,
+        "word": "迪丽热巴露背灰裙",
+        "onboard_time": 1714903878,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117466,
+        "num": 117466,
+        "word": "信一太帅了",
+        "onboard_time": 1714906039,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114641,
+        "num": 114641,
+        "word": "陈赫妈妈是来录陈赫吐槽大会吗",
+        "onboard_time": 1714889239,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110189,
+        "num": 110189,
+        "word": "出淤泥而挑染的萨摩耶",
+        "onboard_time": 1714907419,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108866,
+        "num": 108866,
+        "word": "鹿晗五哈镜头",
+        "onboard_time": 1714898000,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108001,
+        "num": 108001,
+        "word": "亳州王婆说媒劝小伙牵手怀孕女孩",
+        "onboard_time": 1714904658,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席欧洲三国之行这些看点值得关注#"
+    }
+  }
+}

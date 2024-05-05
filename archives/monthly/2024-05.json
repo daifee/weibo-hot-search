@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714905249100,
+  "endTime": 1714907705609,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -571,6 +571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1234184,
+      "num": 321905,
+      "word": "开封王婆怒怼亳州王婆",
+      "onboard_time": 1714902619,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1227704,
       "num": 508086,
       "word": "张雪峰建议普通家庭不要学医",
@@ -617,14 +625,6 @@
       "onboard_time": 1714620438,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1161189,
-      "num": 296260,
-      "word": "开封王婆怒怼亳州王婆",
-      "onboard_time": 1714902619,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1155449,
@@ -1377,6 +1377,14 @@
       "onboard_time": 1714615158,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 765516,
+      "num": 765516,
+      "word": "五一很短但六天很长",
+      "onboard_time": 1714904898,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 765313,
@@ -2547,6 +2555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 486084,
+      "num": 307859,
+      "word": "河大一研究生论文曾指出礼堂消防隐患",
+      "onboard_time": 1714902260,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485059,
       "num": 464448,
       "word": "成龙回应满头白发",
@@ -2568,6 +2584,14 @@
       "word": "第一批经济状况比不上父母的年轻人",
       "onboard_time": 1714702399,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481195,
+      "num": 481195,
+      "word": "女子买3叫花鸡回家发现2只仅有泥巴",
+      "onboard_time": 1714902019,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -2793,14 +2817,6 @@
       "onboard_time": 1714621758,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 459518,
-      "num": 459518,
-      "word": "女子买3叫花鸡回家发现2只仅有泥巴",
-      "onboard_time": 1714902019,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 454793,
@@ -3331,6 +3347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404456,
+      "num": 404456,
+      "word": "丈夫病危妻子请假照顾被开除",
+      "onboard_time": 1714902139,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403401,
       "num": 403401,
       "word": "李晨去时代少年团演唱会",
@@ -3345,6 +3369,14 @@
       "onboard_time": 1714818798,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 403228,
+      "num": 403228,
+      "word": "石宇奇强得可怕",
+      "onboard_time": 1714906640,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 403110,
@@ -3497,6 +3529,14 @@
       "onboard_time": 1714559898,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 387797,
+      "num": 251230,
+      "word": "张一山也是紫米",
+      "onboard_time": 1714906339,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 387068,
@@ -3848,14 +3888,6 @@
       "word": "广东中山4条出逃鳄鱼已找回3条",
       "onboard_time": 1714808299,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347220,
-      "num": 294778,
-      "word": "河大一研究生论文曾指出礼堂消防隐患",
-      "onboard_time": 1714902260,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -4243,6 +4275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 310932,
+      "num": 310932,
+      "word": "夏威夷职业技术学院",
+      "onboard_time": 1714905798,
+      "rank": 12,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 309509,
       "num": 309509,
       "word": "元气森林音乐节取消6小时后又照常办了",
@@ -4579,6 +4619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279949,
+      "num": 279949,
+      "word": "极限挑战看得我都酸了",
+      "onboard_time": 1714905377,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279398,
       "num": 279398,
       "word": "金秀贤安宥真百想人气奖",
@@ -4633,6 +4681,14 @@
       "onboard_time": 1714831581,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 276798,
+      "num": 276798,
+      "word": "周扬青 带经纪人录节目的一天",
+      "onboard_time": 1714906640,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 275634,
@@ -5257,6 +5313,14 @@
       "onboard_time": 1714825880,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 240955,
+      "num": 240955,
+      "word": "买榴莲要买像荔枝的",
+      "onboard_time": 1714905318,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 240659,
@@ -6041,6 +6105,14 @@
       "onboard_time": 1714616898,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210177,
+      "num": 210177,
+      "word": "苗苗自己给自己化妆",
+      "onboard_time": 1714906578,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 209531,
@@ -7003,6 +7075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193527,
+      "num": 193527,
+      "word": "丁程鑫 monster直拍",
+      "onboard_time": 1714906999,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193503,
       "num": 193503,
       "word": "李现cos孙悟空",
@@ -7123,6 +7203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190587,
+      "num": 324084,
+      "word": "为什么女性一定要养好气血",
+      "onboard_time": 1714904719,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 190428,
       "num": 236028,
       "word": "张杰杭州站",
@@ -7161,14 +7249,6 @@
       "onboard_time": 1714707021,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189915,
-      "num": 189915,
-      "word": "丈夫病危妻子请假照顾被开除",
-      "onboard_time": 1714902139,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189845,
@@ -7256,14 +7336,6 @@
       "word": "音乐节上crush主动来扫我",
       "onboard_time": 1714705459,
       "rank": 35,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 188229,
-      "num": 188229,
-      "word": "五一很短但六天很长",
-      "onboard_time": 1714904898,
-      "rank": 32,
       "category": "情感"
     },
     {
@@ -7555,6 +7627,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 183628,
+      "num": 183628,
+      "word": "王一博看一眼再看一眼",
+      "onboard_time": 1714904958,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183437,
       "num": 183437,
       "word": "奥运会资格系列赛上海站",
@@ -7577,6 +7657,14 @@
       "onboard_time": 1714564099,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182667,
+      "num": 335345,
+      "word": "榴莲是典型的高糖高脂水果",
+      "onboard_time": 1714904299,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 182577,
@@ -7795,6 +7883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 177972,
+      "num": 177972,
+      "word": "金秀贤泡泡ins的差异",
+      "onboard_time": 1714906819,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177952,
       "num": 157534,
       "word": "哀牢山到底有多可怕",
@@ -7873,6 +7969,14 @@
       "onboard_time": 1714547779,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176240,
+      "num": 176240,
+      "word": "求回到五一教程",
+      "onboard_time": 1714907477,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 176015,
@@ -8032,6 +8136,14 @@
       "word": "性格内向是职场的隐形天花板吗",
       "onboard_time": 1714901779,
       "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 173518,
+      "num": 173518,
+      "word": "五一 out",
+      "onboard_time": 1714906159,
+      "rank": 35,
       "category": "情感"
     },
     {
@@ -8859,20 +8971,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158623,
-      "num": 158623,
-      "word": "王一博看一眼再看一眼",
-      "onboard_time": 1714904958,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 158598,
       "num": 158598,
       "word": "戚薇说李承铉飘了",
       "onboard_time": 1714876038,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158364,
+      "num": 158364,
+      "word": "女性生完孩子后子宫修复需要6周",
+      "onboard_time": 1714906759,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 158321,
@@ -9241,14 +9353,6 @@
       "onboard_time": 1714729699,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151863,
-      "num": 296554,
-      "word": "为什么女性一定要养好气血",
-      "onboard_time": 1714904719,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 151806,
@@ -10337,14 +10441,6 @@
       "onboard_time": 1714518555,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134246,
-      "num": 297151,
-      "word": "榴莲是典型的高糖高脂水果",
-      "onboard_time": 1714904299,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 134209,
@@ -11443,6 +11539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 117466,
+      "num": 117466,
+      "word": "信一太帅了",
+      "onboard_time": 1714906039,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117390,
       "num": 242863,
       "word": "孟加拉国高温临时关闭全国学校",
@@ -11921,6 +12025,14 @@
       "onboard_time": 1714722980,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110189,
+      "num": 110189,
+      "word": "出淤泥而挑染的萨摩耶",
+      "onboard_time": 1714907419,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 110012,
