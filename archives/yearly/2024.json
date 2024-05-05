@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1714883742573,
+  "endTime": 1714886238020,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -2003,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3073690,
+      "num": 3073690,
+      "word": "一顿火锅撤档",
+      "onboard_time": 1714882879,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 3066066,
       "num": 3066066,
       "word": "国足4比1新加坡",
@@ -2392,14 +2400,6 @@
       "word": "清明节要调休",
       "onboard_time": 1710071372,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2869467,
-      "num": 1330849,
-      "word": "林生斌",
-      "onboard_time": 1714095318,
-      "rank": 1,
       "category": "社会新闻"
     }
   ],

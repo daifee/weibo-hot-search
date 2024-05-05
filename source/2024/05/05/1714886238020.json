@@ -1,0 +1,410 @@
+{
+  "runTime": 1714886238020,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3073690,
+        "num": 3073690,
+        "word": "一顿火锅撤档",
+        "onboard_time": 1714882879,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 809974,
+        "num": 809974,
+        "word": "国羽女队第16次夺得尤伯杯冠军",
+        "onboard_time": 1714883780,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4540,
+        "num": 714719,
+        "word": "文化中国行我写家乡",
+        "onboard_time": 1714742900,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1179112,
+        "num": 705797,
+        "word": "五一 撤档",
+        "onboard_time": 1714883899,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 685524,
+        "num": 685524,
+        "word": "莫里斯遗体在洛杉矶地区被发现",
+        "onboard_time": 1714880598,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 651414,
+        "num": 651414,
+        "word": "端午节假期不调休",
+        "onboard_time": 1714873818,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646294,
+        "num": 646294,
+        "word": "边伯贤微博",
+        "onboard_time": 1714879938,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586150,
+        "num": 586150,
+        "word": "电影圈 七天无理由退货",
+        "onboard_time": 1714885520,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 551672,
+        "num": 551672,
+        "word": "你用了很久的微信置顶文案是什么",
+        "onboard_time": 1714879938,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113892,
+        "num": 526522,
+        "word": "90后自媒体创业2天入账74万",
+        "onboard_time": 1714834821,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526107,
+        "num": 526107,
+        "word": "化妆是陈丽君的性转键",
+        "onboard_time": 1714884380,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496375,
+        "num": 496375,
+        "word": "考上北大却发现读的成本好高",
+        "onboard_time": 1714885638,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 452047,
+        "num": 452047,
+        "word": "坡子街",
+        "onboard_time": 1714882698,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 429860,
+        "num": 429860,
+        "word": "这就是双休和单休的工作环境",
+        "onboard_time": 1714879938,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 427498,
+        "num": 427498,
+        "word": "为什么现在的煎鸡蛋都长这样",
+        "onboard_time": 1714881258,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 423582,
+        "num": 423582,
+        "word": "韩国第一夫人被专案调查",
+        "onboard_time": 1714877778,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 391513,
+        "num": 391513,
+        "word": "入职信息已婚填未婚遭公司解约",
+        "onboard_time": 1714880417,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95490,
+        "num": 373651,
+        "word": "青岛啤酒登上央视三分钟",
+        "onboard_time": 1714883660,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359529,
+        "num": 359529,
+        "word": "吴镇宇 金莎没有能力带他的",
+        "onboard_time": 1714879457,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344848,
+        "num": 344848,
+        "word": "5月5日8时10分迎来立夏",
+        "onboard_time": 1714866374,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605182,
+        "num": 334568,
+        "word": "短裙杨幂",
+        "onboard_time": 1714884019,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356048,
+        "num": 318377,
+        "word": "37岁养羊男子娶19岁越南新娘",
+        "onboard_time": 1714881799,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 276649,
+        "num": 276649,
+        "word": "原来爱莲说描写的是真的",
+        "onboard_time": 1714877778,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253098,
+        "num": 253098,
+        "word": "庄达菲谈与肖战合作感受",
+        "onboard_time": 1714879518,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249372,
+        "num": 249372,
+        "word": "老舅说故意把山河图写绕口",
+        "onboard_time": 1714881679,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229566,
+        "num": 229566,
+        "word": "金珉锡微博",
+        "onboard_time": 1714881620,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215460,
+        "num": 215460,
+        "word": "光与夜之恋",
+        "onboard_time": 1714884079,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210553,
+        "num": 210553,
+        "word": "易烊千玺还有库存",
+        "onboard_time": 1714883178,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196989,
+        "num": 196989,
+        "word": "宋轶不敢坐何超莲开的越野车",
+        "onboard_time": 1714882520,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194081,
+        "num": 194081,
+        "word": "火锅排片",
+        "onboard_time": 1714885038,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186163,
+        "num": 186163,
+        "word": "猴子抢了游客防晒衣出不来了",
+        "onboard_time": 1714885398,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184490,
+        "num": 184490,
+        "word": "莫里斯去世",
+        "onboard_time": 1714866374,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180730,
+        "num": 180730,
+        "word": "古巴旅游",
+        "onboard_time": 1714882160,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 178991,
+        "num": 178991,
+        "word": "羽毛球",
+        "onboard_time": 1714885879,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178849,
+        "num": 178849,
+        "word": "B站回应短片被举报涉嫌洗稿",
+        "onboard_time": 1714882340,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 177239,
+        "num": 177239,
+        "word": "因为没有秒回信息被开除了",
+        "onboard_time": 1714882640,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164078,
+        "num": 164078,
+        "word": "张予曦遇A则A",
+        "onboard_time": 1714883899,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163619,
+        "num": 163619,
+        "word": "为什么吃面比吃米更胖人",
+        "onboard_time": 1714876279,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 157167,
+        "num": 157167,
+        "word": "演唱会提供的情绪价值谁懂啊",
+        "onboard_time": 1714885699,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156205,
+        "num": 156205,
+        "word": "INB100",
+        "onboard_time": 1714881258,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148181,
+        "num": 148181,
+        "word": "张杰陈楚生撞衫",
+        "onboard_time": 1714871720,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146380,
+        "num": 146380,
+        "word": "丁程鑫出发新加坡录花少",
+        "onboard_time": 1714877898,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146328,
+        "num": 146328,
+        "word": "日本儿童人口创最低纪录",
+        "onboard_time": 1714882399,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146171,
+        "num": 146171,
+        "word": "金钟大开通微博",
+        "onboard_time": 1714879518,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129642,
+        "num": 129642,
+        "word": "刘耀文饭撒忘记了跳舞",
+        "onboard_time": 1714886060,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139898,
+        "num": 128995,
+        "word": "谢娜接张杰下班",
+        "onboard_time": 1714874778,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128217,
+        "num": 128217,
+        "word": "大馋丫头最好别谈恋爱",
+        "onboard_time": 1714882999,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126668,
+        "num": 126668,
+        "word": "宋亚轩cos关晓彤",
+        "onboard_time": 1714868837,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124323,
+        "num": 124323,
+        "word": "尤伯杯",
+        "onboard_time": 1714884620,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123915,
+        "num": 123915,
+        "word": "讨厌不发信息直接弹语音电话的人",
+        "onboard_time": 1714882217,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄语新时代青年#"
+    }
+  }
+}

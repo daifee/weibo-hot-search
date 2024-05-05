@@ -1,7 +1,15 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714883742573,
+  "endTime": 1714886238020,
   "band_list": [
+    {
+      "raw_hot": 3073690,
+      "num": 3073690,
+      "word": "一顿火锅撤档",
+      "onboard_time": 1714882879,
+      "rank": 34,
+      "category": "电影"
+    },
     {
       "raw_hot": 2576403,
       "num": 2576403,
@@ -9,14 +17,6 @@
       "onboard_time": 1714873818,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1814521,
-      "num": 1814521,
-      "word": "一顿火锅撤档",
-      "onboard_time": 1714882879,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 1453852,
@@ -57,6 +57,14 @@
       "onboard_time": 1714877778,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1179112,
+      "num": 705797,
+      "word": "五一 撤档",
+      "onboard_time": 1714883899,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1064099,
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 809974,
+      "num": 809974,
+      "word": "国羽女队第16次夺得尤伯杯冠军",
+      "onboard_time": 1714883780,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 781739,
       "num": 781739,
       "word": "这就是双休和单休的工作环境",
@@ -147,6 +163,22 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 605182,
+      "num": 334568,
+      "word": "短裙杨幂",
+      "onboard_time": 1714884019,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 586150,
+      "num": 586150,
+      "word": "电影圈 七天无理由退货",
+      "onboard_time": 1714885520,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 585149,
       "num": 332946,
       "word": "原来上班真的能跨越阶级",
@@ -171,12 +203,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 551672,
+      "num": 551672,
+      "word": "你用了很久的微信置顶文案是什么",
+      "onboard_time": 1714879938,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 534794,
       "num": 534794,
       "word": "入职信息已婚填未婚遭公司解约",
       "onboard_time": 1714880417,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526107,
+      "num": 526107,
+      "word": "化妆是陈丽君的性转键",
+      "onboard_time": 1714884380,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 509807,
@@ -211,20 +259,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 496375,
+      "num": 496375,
+      "word": "考上北大却发现读的成本好高",
+      "onboard_time": 1714885638,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 481646,
       "num": 481646,
       "word": "爆炸撕裂下坠 夜下摘星踏月",
       "onboard_time": 1714868658,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 472135,
-      "num": 472135,
-      "word": "你用了很久的微信置顶文案是什么",
-      "onboard_time": 1714879938,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 461487,
@@ -251,6 +299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 452047,
+      "num": 452047,
+      "word": "坡子街",
+      "onboard_time": 1714882698,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 442510,
       "num": 442510,
       "word": "纪凌尘换发型了",
@@ -273,6 +329,14 @@
       "onboard_time": 1714881620,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427498,
+      "num": 427498,
+      "word": "为什么现在的煎鸡蛋都长这样",
+      "onboard_time": 1714881258,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 426642,
@@ -347,12 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355166,
-      "num": 355166,
-      "word": "为什么现在的煎鸡蛋都长这样",
-      "onboard_time": 1714881258,
-      "rank": 18,
-      "category": "美食"
+      "raw_hot": 356048,
+      "num": 339390,
+      "word": "37岁养羊男子娶19岁越南新娘",
+      "onboard_time": 1714881799,
+      "rank": 21,
+      "category": "国外时政"
     },
     {
       "raw_hot": 354793,
@@ -361,14 +425,6 @@
       "onboard_time": 1714871720,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 348227,
-      "num": 339390,
-      "word": "37岁养羊男子娶19岁越南新娘",
-      "onboard_time": 1714881799,
-      "rank": 21,
-      "category": "国外时政"
     },
     {
       "raw_hot": 337134,
@@ -451,14 +507,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 278453,
-      "num": 278453,
-      "word": "坡子街",
-      "onboard_time": 1714882698,
-      "rank": 40,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 278084,
       "num": 278084,
       "word": "爱德华兹吸粉",
@@ -497,6 +545,14 @@
       "onboard_time": 1714882340,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 249372,
+      "num": 249372,
+      "word": "老舅说故意把山河图写绕口",
+      "onboard_time": 1714881679,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 248723,
@@ -579,14 +635,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 223671,
-      "num": 217751,
-      "word": "老舅说故意把山河图写绕口",
-      "onboard_time": 1714881679,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 223033,
       "num": 223033,
       "word": "歌手2024",
@@ -619,6 +667,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 215460,
+      "num": 215460,
+      "word": "光与夜之恋",
+      "onboard_time": 1714884079,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213520,
       "num": 213520,
       "word": "真的有养不熟的猫",
@@ -635,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210553,
+      "num": 210553,
+      "word": "易烊千玺还有库存",
+      "onboard_time": 1714883178,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208502,
       "num": 208502,
       "word": "喝咖啡会导致贫血吗",
@@ -649,14 +713,6 @@
       "onboard_time": 1714865173,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206095,
-      "num": 206095,
-      "word": "易烊千玺还有库存",
-      "onboard_time": 1714883178,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 201153,
@@ -723,6 +779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194081,
+      "num": 194081,
+      "word": "火锅排片",
+      "onboard_time": 1714885038,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191409,
       "num": 217958,
       "word": "俄媒称俄内务部决定通缉泽连斯基",
@@ -755,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186163,
+      "num": 186163,
+      "word": "猴子抢了游客防晒衣出不来了",
+      "onboard_time": 1714885398,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184541,
       "num": 184541,
       "word": "5天说没就没",
@@ -769,6 +841,14 @@
       "onboard_time": 1714838719,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178991,
+      "num": 178991,
+      "word": "羽毛球",
+      "onboard_time": 1714885879,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 175746,
@@ -817,6 +897,14 @@
       "onboard_time": 1714841595,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164078,
+      "num": 164078,
+      "word": "张予曦遇A则A",
+      "onboard_time": 1714883899,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 163740,
@@ -881,6 +969,14 @@
       "onboard_time": 1714876038,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157167,
+      "num": 157167,
+      "word": "演唱会提供的情绪价值谁懂啊",
+      "onboard_time": 1714885699,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 156880,
@@ -1059,6 +1155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129642,
+      "num": 129642,
+      "word": "刘耀文饭撒忘记了跳舞",
+      "onboard_time": 1714886060,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126092,
       "num": 217928,
       "word": "8岁女孩从300度近视变成400度远视",
@@ -1073,6 +1177,14 @@
       "onboard_time": 1714836140,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124323,
+      "num": 124323,
+      "word": "尤伯杯",
+      "onboard_time": 1714884620,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 122676,
@@ -1209,6 +1321,14 @@
       "onboard_time": 1714831581,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 95490,
+      "num": 373651,
+      "word": "青岛啤酒登上央视三分钟",
+      "onboard_time": 1714883660,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94341,
@@ -1449,14 +1569,6 @@
       "onboard_time": 1714848433,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 12157,
-      "num": 131679,
-      "word": "青岛啤酒登上央视三分钟",
-      "onboard_time": 1714883660,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7382,

@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714883742573,
+  "endTime": 1714886238020,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -65,6 +65,14 @@
       "onboard_time": 1714691414,
       "rank": 13,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 3073690,
+      "num": 3073690,
+      "word": "一顿火锅撤档",
+      "onboard_time": 1714882879,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 3042749,
@@ -193,14 +201,6 @@
       "onboard_time": 1714663219,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1814521,
-      "num": 1814521,
-      "word": "一顿火锅撤档",
-      "onboard_time": 1714882879,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 1788659,
@@ -561,6 +561,14 @@
       "onboard_time": 1714653859,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1179112,
+      "num": 705797,
+      "word": "五一 撤档",
+      "onboard_time": 1714883899,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1172965,
@@ -1145,6 +1153,14 @@
       "onboard_time": 1714786458,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 809974,
+      "num": 809974,
+      "word": "国羽女队第16次夺得尤伯杯冠军",
+      "onboard_time": 1714883780,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 808170,
@@ -1803,6 +1819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 605182,
+      "num": 334568,
+      "word": "短裙杨幂",
+      "onboard_time": 1714884019,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 602985,
       "num": 418442,
       "word": "黄子韬抓住徐艺洋的手",
@@ -1865,6 +1889,14 @@
       "onboard_time": 1714812139,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 586150,
+      "num": 586150,
+      "word": "电影圈 七天无理由退货",
+      "onboard_time": 1714885520,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 585149,
@@ -1985,6 +2017,14 @@
       "onboard_time": 1714796959,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 551672,
+      "num": 551672,
+      "word": "你用了很久的微信置顶文案是什么",
+      "onboard_time": 1714879938,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 551273,
@@ -2139,6 +2179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 526107,
+      "num": 526107,
+      "word": "化妆是陈丽君的性转键",
+      "onboard_time": 1714884380,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 525204,
       "num": 626435,
       "word": "导演没想到杨幂会这么痛快接下角色",
@@ -2275,6 +2323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 496375,
+      "num": 496375,
+      "word": "考上北大却发现读的成本好高",
+      "onboard_time": 1714885638,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 495262,
       "num": 251501,
       "word": "王一博身份证掉了",
@@ -2393,14 +2449,6 @@
       "onboard_time": 1714695436,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 472135,
-      "num": 472135,
-      "word": "你用了很久的微信置顶文案是什么",
-      "onboard_time": 1714879938,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 471485,
@@ -2577,6 +2625,14 @@
       "onboard_time": 1714571599,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452047,
+      "num": 452047,
+      "word": "坡子街",
+      "onboard_time": 1714882698,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 449861,
@@ -2769,6 +2825,14 @@
       "onboard_time": 1714527018,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 427498,
+      "num": 427498,
+      "word": "为什么现在的煎鸡蛋都长这样",
+      "onboard_time": 1714881258,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 426642,
@@ -3475,12 +3539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355166,
-      "num": 355166,
-      "word": "为什么现在的煎鸡蛋都长这样",
-      "onboard_time": 1714881258,
-      "rank": 18,
-      "category": "美食"
+      "raw_hot": 356048,
+      "num": 339390,
+      "word": "37岁养羊男子娶19岁越南新娘",
+      "onboard_time": 1714881799,
+      "rank": 21,
+      "category": "国外时政"
     },
     {
       "raw_hot": 354994,
@@ -3537,14 +3601,6 @@
       "onboard_time": 1714813999,
       "rank": 28,
       "category": "数码"
-    },
-    {
-      "raw_hot": 348227,
-      "num": 339390,
-      "word": "37岁养羊男子娶19岁越南新娘",
-      "onboard_time": 1714881799,
-      "rank": 21,
-      "category": "国外时政"
     },
     {
       "raw_hot": 347832,
@@ -4291,14 +4347,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 278453,
-      "num": 278453,
-      "word": "坡子街",
-      "onboard_time": 1714882698,
-      "rank": 40,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 278084,
       "num": 278084,
       "word": "爱德华兹吸粉",
@@ -4697,6 +4745,14 @@
       "onboard_time": 1714805951,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249372,
+      "num": 249372,
+      "word": "老舅说故意把山河图写绕口",
+      "onboard_time": 1714881679,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 248939,
@@ -5275,14 +5331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 223671,
-      "num": 217751,
-      "word": "老舅说故意把山河图写绕口",
-      "onboard_time": 1714881679,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 223146,
       "num": 245935,
       "word": "租客称房东隔窗验灰扣费240元",
@@ -5475,6 +5523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215460,
+      "num": 215460,
+      "word": "光与夜之恋",
+      "onboard_time": 1714884079,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 215190,
       "num": 571697,
       "word": "41度高温下交警女儿暴躁宠爹",
@@ -5593,6 +5649,14 @@
       "onboard_time": 1714883359,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210553,
+      "num": 210553,
+      "word": "易烊千玺还有库存",
+      "onboard_time": 1714883178,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 210541,
@@ -5769,14 +5833,6 @@
       "onboard_time": 1714742359,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206095,
-      "num": 206095,
-      "word": "易烊千玺还有库存",
-      "onboard_time": 1714883178,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 205912,
@@ -6507,6 +6563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194081,
+      "num": 194081,
+      "word": "火锅排片",
+      "onboard_time": 1714885038,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194025,
       "num": 194025,
       "word": "狼队第五人格",
@@ -6851,6 +6915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186163,
+      "num": 186163,
+      "word": "猴子抢了游客防晒衣出不来了",
+      "onboard_time": 1714885398,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185934,
       "num": 185934,
       "word": "新疆烤馕原来能大如轮胎",
@@ -7137,6 +7209,14 @@
       "onboard_time": 1714745962,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178991,
+      "num": 178991,
+      "word": "羽毛球",
+      "onboard_time": 1714885879,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 178833,
@@ -7851,6 +7931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164078,
+      "num": 164078,
+      "word": "张予曦遇A则A",
+      "onboard_time": 1714883899,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164036,
       "num": 236133,
       "word": "ive打歌服真假混穿",
@@ -8209,6 +8297,14 @@
       "onboard_time": 1714734860,
       "rank": 47,
       "category": "国内时政,社会新闻"
+    },
+    {
+      "raw_hot": 157167,
+      "num": 157167,
+      "word": "演唱会提供的情绪价值谁懂啊",
+      "onboard_time": 1714885699,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 157161,
@@ -9843,6 +9939,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 129642,
+      "num": 129642,
+      "word": "刘耀文饭撒忘记了跳舞",
+      "onboard_time": 1714886060,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129542,
       "num": 129542,
       "word": "杨幂五月好忙",
@@ -10075,6 +10179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124323,
+      "num": 124323,
+      "word": "尤伯杯",
+      "onboard_time": 1714792700,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124145,
       "num": 124145,
       "word": "因为布置工位被领导约谈了",
@@ -10273,14 +10385,6 @@
       "onboard_time": 1714564278,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 120903,
-      "num": 120903,
-      "word": "尤伯杯",
-      "onboard_time": 1714792700,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 120902,
@@ -11499,6 +11603,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 95490,
+      "num": 373651,
+      "word": "青岛啤酒登上央视三分钟",
+      "onboard_time": 1714883660,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95391,
       "num": 95391,
       "word": "高速塌方后梅州市民连夜排队献血",
@@ -12481,14 +12593,6 @@
       "onboard_time": 1714761372,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 12157,
-      "num": 131679,
-      "word": "青岛啤酒登上央视三分钟",
-      "onboard_time": 1714883660,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4564,
