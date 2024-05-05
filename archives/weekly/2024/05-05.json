@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714934061716,
+  "endTime": 1714936539000,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -2827,6 +2827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118864,
+      "num": 118864,
+      "word": "教育回报率越来越低了吗",
+      "onboard_time": 1714932133,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 118843,
       "num": 118843,
       "word": "星穹铁道2.2",
@@ -3219,14 +3227,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 63769,
-      "num": 63769,
-      "word": "教育回报率越来越低了吗",
-      "onboard_time": 1714932133,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 61740,
       "num": 142629,
       "word": "五月天香港",
@@ -3369,6 +3369,14 @@
       "onboard_time": 1714930873,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21949,
+      "num": 21949,
+      "word": "毕业后唯一没还给老师的品质",
+      "onboard_time": 1714935192,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 7443,

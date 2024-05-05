@@ -1,6 +1,6 @@
 {
   "startTime": 1714926165838,
-  "endTime": 1714934061716,
+  "endTime": 1714936539000,
   "band_list": [
     {
       "raw_hot": 1035239,
@@ -251,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118864,
+      "num": 118864,
+      "word": "教育回报率越来越低了吗",
+      "onboard_time": 1714932133,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 118330,
       "num": 118330,
       "word": "金智媛婚纱剧照",
@@ -419,14 +427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 63769,
-      "num": 63769,
-      "word": "教育回报率越来越低了吗",
-      "onboard_time": 1714932133,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 63507,
       "num": 63507,
       "word": "金秀贤金智媛ins更新照",
@@ -489,6 +489,14 @@
       "onboard_time": 1714930873,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21949,
+      "num": 21949,
+      "word": "毕业后唯一没还给老师的品质",
+      "onboard_time": 1714935192,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 11434,
