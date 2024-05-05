@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714904306720,
+  "endTime": 1714905249100,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -99,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1161189,
+      "num": 296260,
+      "word": "开封王婆怒怼亳州王婆",
+      "onboard_time": 1714902619,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1147271,
       "num": 839434,
       "word": "黄子韬徐艺洋吵架受伤的是姜潮",
@@ -113,14 +121,6 @@
       "onboard_time": 1714866374,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1038845,
-      "num": 240348,
-      "word": "开封王婆怒怼亳州王婆",
-      "onboard_time": 1714902619,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1036386,
@@ -235,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 773887,
+      "num": 773887,
+      "word": "太疲惫身体会变臭",
+      "onboard_time": 1714902199,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 758246,
       "num": 484582,
       "word": "泰国男子性侵邻居遭反杀家属不追究",
@@ -257,14 +265,6 @@
       "onboard_time": 1714895118,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 675061,
-      "num": 675061,
-      "word": "太疲惫身体会变臭",
-      "onboard_time": 1714902199,
-      "rank": 1,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 673741,
@@ -475,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 459518,
+      "num": 459518,
+      "word": "女子买3叫花鸡回家发现2只仅有泥巴",
+      "onboard_time": 1714902019,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454793,
       "num": 454793,
       "word": "还我五一",
@@ -537,14 +545,6 @@
       "onboard_time": 1714881620,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 437358,
-      "num": 239021,
-      "word": "女子买3叫花鸡回家发现2只仅有泥巴",
-      "onboard_time": 1714902019,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 427983,
@@ -627,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367848,
+      "num": 295151,
+      "word": "王耀庆连续煎了21天鸡蛋",
+      "onboard_time": 1714901659,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 366119,
       "num": 366119,
       "word": "王俊凯马嘉祺相似造型",
@@ -665,6 +673,14 @@
       "onboard_time": 1714871720,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 347220,
+      "num": 294778,
+      "word": "河大一研究生论文曾指出礼堂消防隐患",
+      "onboard_time": 1714902260,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337134,
@@ -713,14 +729,6 @@
       "onboard_time": 1714872979,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 315571,
-      "num": 233432,
-      "word": "王耀庆连续煎了21天鸡蛋",
-      "onboard_time": 1714901659,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 304014,
@@ -809,14 +817,6 @@
       "onboard_time": 1714898479,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 266361,
-      "num": 228656,
-      "word": "河大一研究生论文曾指出礼堂消防隐患",
-      "onboard_time": 1714902260,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264383,
@@ -971,6 +971,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228429,
+      "num": 228429,
+      "word": "魏大勋脚上的红绳被P掉了",
+      "onboard_time": 1714902559,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 226672,
+      "num": 226672,
+      "word": "亳州王婆说媒劝小伙牵手怀孕女孩",
+      "onboard_time": 1714904658,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226245,
       "num": 152623,
       "word": "晚上比早晨重3斤是减重失败了吗",
@@ -1003,12 +1019,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220188,
-      "num": 220188,
-      "word": "魏大勋脚上的红绳被P掉了",
-      "onboard_time": 1714902559,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 221199,
+      "num": 230359,
+      "word": "黄昏跟柯南学废了",
+      "onboard_time": 1714902799,
+      "rank": 18,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 218204,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1714884079,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214399,
+      "num": 214399,
+      "word": "童瑶听到八离世家的反应",
+      "onboard_time": 1714902019,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 213520,
@@ -1067,12 +1091,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 208267,
-      "num": 208267,
-      "word": "童瑶听到八离世家的反应",
-      "onboard_time": 1714902019,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 207917,
+      "num": 194216,
+      "word": "荆棘公主靠自己反杀",
+      "onboard_time": 1714904299,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 207323,
@@ -1163,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194296,
+      "num": 243403,
+      "word": "新娘出嫁小狗用身体挡婚车不让走",
+      "onboard_time": 1714902619,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194249,
       "num": 194249,
       "word": "王力宏实力",
@@ -1227,11 +1259,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189915,
+      "num": 189915,
+      "word": "丈夫病危妻子请假照顾被开除",
+      "onboard_time": 1714902139,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188877,
       "num": 188877,
       "word": "讨厌不发信息直接弹语音电话的人",
       "onboard_time": 1714882217,
       "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 188229,
+      "num": 188229,
+      "word": "五一很短但六天很长",
+      "onboard_time": 1714904898,
+      "rank": 32,
       "category": "情感"
     },
     {
@@ -1387,6 +1435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 173611,
+      "num": 173611,
+      "word": "性格内向是职场的隐形天花板吗",
+      "onboard_time": 1714901779,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172818,
       "num": 172818,
       "word": "突然理解了朋友跟好朋友的区别",
@@ -1427,14 +1483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168785,
-      "num": 230359,
-      "word": "黄昏跟柯南学废了",
-      "onboard_time": 1714902799,
-      "rank": 18,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 167691,
       "num": 167691,
       "word": "一张照片欢迎夏天",
@@ -1449,14 +1497,6 @@
       "onboard_time": 1714821138,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 166044,
-      "num": 166044,
-      "word": "性格内向是职场的隐形天花板吗",
-      "onboard_time": 1714901779,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 165020,
@@ -1539,14 +1579,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 160859,
-      "num": 243403,
-      "word": "新娘出嫁小狗用身体挡婚车不让走",
-      "onboard_time": 1714902619,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160852,
       "num": 160852,
       "word": "李耕耘赵小童公主抱何浩楠赵一博",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1714879338,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158623,
+      "num": 158623,
+      "word": "王一博看一眼再看一眼",
+      "onboard_time": 1714904958,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 158598,
@@ -1659,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151863,
+      "num": 296554,
+      "word": "为什么女性一定要养好气血",
+      "onboard_time": 1714904719,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 151310,
       "num": 151310,
       "word": "被魏大勋的腿硬控了",
@@ -1705,14 +1753,6 @@
       "onboard_time": 1714890619,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147855,
-      "num": 147855,
-      "word": "丈夫病危妻子请假照顾被开除",
-      "onboard_time": 1714902139,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147652,
@@ -1817,6 +1857,14 @@
       "onboard_time": 1714873939,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134246,
+      "num": 297151,
+      "word": "榴莲是典型的高糖高脂水果",
+      "onboard_time": 1714904299,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 133151,
