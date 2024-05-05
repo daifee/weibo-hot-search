@@ -1,0 +1,410 @@
+{
+  "runTime": 1714894445149,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1177978,
+        "num": 1177978,
+        "word": "考上北大却发现读的成本好高",
+        "onboard_time": 1714885638,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1036386,
+        "num": 1036386,
+        "word": "我也退出五一档了",
+        "onboard_time": 1714892358,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 6004,
+        "num": 849202,
+        "word": "文化中国行我写家乡",
+        "onboard_time": 1714742900,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752866,
+        "num": 752866,
+        "word": "一顿火锅撤档",
+        "onboard_time": 1714882879,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 538101,
+        "num": 538101,
+        "word": "金价重回5时代",
+        "onboard_time": 1714891339,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 472092,
+        "num": 472092,
+        "word": "游泳教练憋气练习时意外溺亡",
+        "onboard_time": 1714886418,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634397,
+        "num": 462742,
+        "word": "陈赫妈妈是来录陈赫吐槽大会吗",
+        "onboard_time": 1714889239,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 527466,
+        "num": 433309,
+        "word": "迪丽热巴旗袍",
+        "onboard_time": 1714893139,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364286,
+        "num": 364286,
+        "word": "河南大学",
+        "onboard_time": 1714893198,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148803,
+        "num": 364197,
+        "word": "五一感受到了绝对安全感",
+        "onboard_time": 1714889177,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1465251,
+        "num": 364099,
+        "word": "女子称住酒店裸睡被人强行刷开房门",
+        "onboard_time": 1714889118,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663024,
+        "num": 364029,
+        "word": "刘亦菲金色高定",
+        "onboard_time": 1714890499,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 478505,
+        "num": 363949,
+        "word": "眉庄去世为什么太后不闻不问",
+        "onboard_time": 1714888458,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442487,
+        "num": 363823,
+        "word": "37岁养羊男子娶19岁越南新娘",
+        "onboard_time": 1714881799,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 380440,
+        "num": 363728,
+        "word": "IU捐赠1亿韩元",
+        "onboard_time": 1714889419,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363726,
+        "num": 363726,
+        "word": "五一 撤档",
+        "onboard_time": 1714883899,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 348610,
+        "num": 348610,
+        "word": "国务院安委会派督导组赴河南",
+        "onboard_time": 1714889539,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331881,
+        "num": 331881,
+        "word": "猴子抢了游客防晒衣出不来了",
+        "onboard_time": 1714885398,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314135,
+        "num": 314135,
+        "word": "电影圈 七天无理由退货",
+        "onboard_time": 1714885520,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253733,
+        "num": 253733,
+        "word": "对河南大学大礼堂火灾事故挂牌督办",
+        "onboard_time": 1714889118,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529313,
+        "num": 250256,
+        "word": "爸爸才四十多岁就不工作了",
+        "onboard_time": 1714892780,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350656,
+        "num": 247411,
+        "word": "很烧钱却小众的爱好",
+        "onboard_time": 1714892780,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258140,
+        "num": 235770,
+        "word": "孟佳当选手被张雨绮秒淘汰",
+        "onboard_time": 1714890197,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257505,
+        "num": 232536,
+        "word": "这种酸奶千万别喝",
+        "onboard_time": 1714892060,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228869,
+        "num": 228869,
+        "word": "莫里斯遗体在洛杉矶地区被发现",
+        "onboard_time": 1714880598,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 221919,
+        "num": 221919,
+        "word": "价格大降榴莲自由要来了吗",
+        "onboard_time": 1714890318,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 202188,
+        "num": 202188,
+        "word": "没有一次撤档解决不了的事",
+        "onboard_time": 1714887258,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197682,
+        "num": 197682,
+        "word": "刘亦菲公主提裙",
+        "onboard_time": 1714893798,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190979,
+        "num": 190979,
+        "word": "关雪被求婚",
+        "onboard_time": 1714889658,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174995,
+        "num": 174995,
+        "word": "韩国第一夫人被专案调查",
+        "onboard_time": 1714877778,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 170278,
+        "num": 170278,
+        "word": "王力宏 山东省文旅厅",
+        "onboard_time": 1714894159,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170192,
+        "num": 170192,
+        "word": "边伯贤微博",
+        "onboard_time": 1714879938,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196509,
+        "num": 169906,
+        "word": "刘亦菲活动",
+        "onboard_time": 1714889477,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169295,
+        "num": 169295,
+        "word": "为什么刚学电脑时没人告诉我",
+        "onboard_time": 1714886898,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166732,
+        "num": 166732,
+        "word": "短裙杨幂",
+        "onboard_time": 1714884019,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157574,
+        "num": 157574,
+        "word": "星卡里 杭州",
+        "onboard_time": 1714894038,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154812,
+        "num": 154812,
+        "word": "我真的吃不了上班的苦",
+        "onboard_time": 1714889177,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154605,
+        "num": 154605,
+        "word": "陈昊宇 我觉得我70岁还能拍戏",
+        "onboard_time": 1714892599,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153923,
+        "num": 153923,
+        "word": "卫健委回应重庆一医院代孕事件",
+        "onboard_time": 1714889959,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152313,
+        "num": 152313,
+        "word": "你用了很久的微信置顶文案是什么",
+        "onboard_time": 1714879938,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140219,
+        "num": 140219,
+        "word": "端午节假期不调休",
+        "onboard_time": 1714873818,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137785,
+        "num": 137785,
+        "word": "鹿晗也去吃淄博烧烤了",
+        "onboard_time": 1714889118,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135196,
+        "num": 135196,
+        "word": "三星调侃iPhone闹钟不响",
+        "onboard_time": 1714892060,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133756,
+        "num": 133756,
+        "word": "刘畊宏妻子和女儿为刘畊宏加油",
+        "onboard_time": 1714889898,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130680,
+        "num": 130680,
+        "word": "田嘉瑞说杨幂程潇打游戏很厉害",
+        "onboard_time": 1714889239,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129230,
+        "num": 129230,
+        "word": "为什么父母这么执着于提前到",
+        "onboard_time": 1714891698,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124414,
+        "num": 124414,
+        "word": "为什么现在的煎鸡蛋都长这样",
+        "onboard_time": 1714881258,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123975,
+        "num": 123975,
+        "word": "林俊杰济南",
+        "onboard_time": 1714891578,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120440,
+        "num": 120440,
+        "word": "李耕耘赵小童公主抱何浩楠赵一博",
+        "onboard_time": 1714892479,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118644,
+        "num": 118644,
+        "word": "第一次见这么不负责的宠物店",
+        "onboard_time": 1714893320,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年引路人#"
+    }
+  }
+}

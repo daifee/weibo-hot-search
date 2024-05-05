@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714893363022,
+  "endTime": 1714894445149,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -777,6 +777,14 @@
       "onboard_time": 1714778653,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1036386,
+      "num": 1036386,
+      "word": "我也退出五一档了",
+      "onboard_time": 1714892358,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 1018617,
@@ -2179,6 +2187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 538101,
+      "num": 538101,
+      "word": "金价重回5时代",
+      "onboard_time": 1714891339,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 538009,
       "num": 538009,
       "word": "肖战乔振宇藏海传路透",
@@ -2243,12 +2259,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 529313,
+      "num": 250256,
+      "word": "爸爸才四十多岁就不工作了",
+      "onboard_time": 1714892780,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 527743,
       "num": 435053,
       "word": "白鹿曾舜晞吻脖子路透",
       "onboard_time": 1714574059,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 527466,
+      "num": 433309,
+      "word": "迪丽热巴旗袍",
+      "onboard_time": 1714893139,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 526107,
@@ -2707,14 +2739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 449664,
-      "num": 449664,
-      "word": "金价重回5时代",
-      "onboard_time": 1714891339,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 449512,
       "num": 449512,
       "word": "魏晨南京",
@@ -2779,6 +2803,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 442487,
+      "num": 431240,
+      "word": "37岁养羊男子娶19岁越南新娘",
+      "onboard_time": 1714881799,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 442004,
       "num": 442004,
       "word": "没有一次撤档解决不了的事",
@@ -2835,14 +2867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 436919,
-      "num": 436919,
-      "word": "我也退出五一档了",
-      "onboard_time": 1714892358,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 436770,
       "num": 436770,
       "word": "王者荣耀",
@@ -2889,14 +2913,6 @@
       "onboard_time": 1714652417,
       "rank": 30,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 431240,
-      "num": 431240,
-      "word": "37岁养羊男子娶19岁越南新娘",
-      "onboard_time": 1714881799,
-      "rank": 21,
-      "category": "国外时政"
     },
     {
       "raw_hot": 430725,
@@ -3707,6 +3723,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 350656,
+      "num": 247411,
+      "word": "很烧钱却小众的爱好",
+      "onboard_time": 1714892780,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 347832,
       "num": 347832,
       "word": "广东中山4条出逃鳄鱼已找回3条",
@@ -4161,14 +4185,6 @@
       "onboard_time": 1714490720,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 301613,
-      "num": 235511,
-      "word": "很烧钱却小众的爱好",
-      "onboard_time": 1714892780,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 301524,
@@ -4771,6 +4787,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258140,
+      "num": 235770,
+      "word": "孟佳当选手被张雨绮秒淘汰",
+      "onboard_time": 1714890197,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 257505,
+      "num": 233048,
+      "word": "这种酸奶千万别喝",
+      "onboard_time": 1714892060,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 257470,
       "num": 442658,
       "word": "第一批游客已冒雨抵达长沙",
@@ -4849,14 +4881,6 @@
       "onboard_time": 1714738820,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 250300,
-      "num": 233048,
-      "word": "这种酸奶千万别喝",
-      "onboard_time": 1714892060,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 249674,
@@ -5049,14 +5073,6 @@
       "onboard_time": 1714709297,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 241408,
-      "num": 231899,
-      "word": "孟佳当选手被张雨绮秒淘汰",
-      "onboard_time": 1714890197,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 241260,
@@ -5491,6 +5507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221919,
+      "num": 221919,
+      "word": "价格大降榴莲自由要来了吗",
+      "onboard_time": 1714890318,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 221261,
       "num": 221261,
       "word": "森林狼vs掘金",
@@ -5691,14 +5715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214969,
-      "num": 214969,
-      "word": "迪丽热巴旗袍",
-      "onboard_time": 1714893139,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214128,
       "num": 214128,
       "word": "他哽咽着感谢但该说感谢的是我们",
@@ -5833,14 +5849,6 @@
       "onboard_time": 1714616898,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209648,
-      "num": 192784,
-      "word": "爸爸才四十多岁就不工作了",
-      "onboard_time": 1714892780,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 209531,
@@ -6009,14 +6017,6 @@
       "onboard_time": 1714723579,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 205898,
-      "num": 205898,
-      "word": "价格大降榴莲自由要来了吗",
-      "onboard_time": 1714890318,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 205867,
@@ -6497,6 +6497,14 @@
       "onboard_time": 1714657941,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197682,
+      "num": 197682,
+      "word": "刘亦菲公主提裙",
+      "onboard_time": 1714893798,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 197618,
@@ -7891,6 +7899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170278,
+      "num": 170278,
+      "word": "王力宏 山东省文旅厅",
+      "onboard_time": 1714894159,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170224,
       "num": 170224,
       "word": "关晓彤自己粘的睫毛",
@@ -8585,6 +8601,14 @@
       "onboard_time": 1714739361,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157574,
+      "num": 157574,
+      "word": "星卡里 杭州",
+      "onboard_time": 1714894038,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 157340,
