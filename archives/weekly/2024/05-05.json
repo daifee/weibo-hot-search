@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714947482683,
+  "endTime": 1714948438978,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -1323,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238306,
+      "num": 238306,
+      "word": "教育回报率越来越低了吗",
+      "onboard_time": 1714932133,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 236898,
       "num": 236898,
       "word": "陈赫从五哈团单飞了",
@@ -1497,6 +1505,14 @@
       "onboard_time": 1714884079,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214668,
+      "num": 214668,
+      "word": "有人弃我如杂草 有人视我如珍宝",
+      "onboard_time": 1714942331,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 214399,
@@ -2315,14 +2331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157650,
-      "num": 157650,
-      "word": "教育回报率越来越低了吗",
-      "onboard_time": 1714932133,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 157574,
       "num": 157574,
       "word": "星卡里 杭州",
@@ -2689,14 +2697,6 @@
       "onboard_time": 1714827920,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125408,
-      "num": 125408,
-      "word": "有人弃我如杂草 有人视我如珍宝",
-      "onboard_time": 1714942331,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 125323,
@@ -3211,6 +3211,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 66247,
+      "num": 66247,
+      "word": "黄景瑜被青梅精咬了",
+      "onboard_time": 1714945991,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 65756,
       "num": 142557,
       "word": "布拉德皮特60岁状态",
@@ -3233,6 +3241,14 @@
       "onboard_time": 1714914019,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64069,
+      "num": 113064,
+      "word": "一晚两场演唱会民警人海硬控忙不停",
+      "onboard_time": 1714930573,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 61740,
@@ -3291,8 +3307,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 46733,
-      "num": 46733,
+      "raw_hot": 47909,
+      "num": 47909,
       "word": "F1",
       "onboard_time": 1714938191,
       "rank": 17,
@@ -3331,12 +3347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39213,
-      "num": 83434,
-      "word": "一晚两场演唱会民警人海硬控忙不停",
-      "onboard_time": 1714930573,
-      "rank": 45,
-      "category": "演出"
+      "raw_hot": 38947,
+      "num": 47570,
+      "word": "今年五一档票房破15亿",
+      "onboard_time": 1714941071,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 38128,
@@ -3347,12 +3363,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35316,
-      "num": 38156,
-      "word": "黄景瑜被青梅精咬了",
-      "onboard_time": 1714945991,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 38119,
+      "num": 45610,
+      "word": "毕业后唯一没还给老师的品质",
+      "onboard_time": 1714935192,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 35195,
+      "num": 45568,
+      "word": "麦当娜160万人演唱会",
+      "onboard_time": 1714936691,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 34426,
@@ -3371,12 +3395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29483,
-      "num": 37865,
-      "word": "麦当娜160万人演唱会",
-      "onboard_time": 1714936691,
-      "rank": 45,
-      "category": "演出"
+      "raw_hot": 29059,
+      "num": 45541,
+      "word": "高息存款正在消失吗",
+      "onboard_time": 1714942991,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 28957,
@@ -3387,28 +3411,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 28171,
-      "num": 34782,
-      "word": "今年五一档票房破15亿",
-      "onboard_time": 1714941071,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 27657,
       "num": 38044,
       "word": "蔡依林泉州演唱会",
       "onboard_time": 1714848433,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26940,
-      "num": 34609,
-      "word": "毕业后唯一没还给老师的品质",
-      "onboard_time": 1714935192,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 24592,
@@ -3419,20 +3427,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24386,
+      "num": 45439,
+      "word": "马思纯孙千撞衫",
+      "onboard_time": 1714948213,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 22967,
-      "num": 34588,
+      "num": 45394,
       "word": "重生之我在爽文短剧里当演员",
       "onboard_time": 1714940292,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 22092,
-      "num": 34580,
-      "word": "高息存款正在消失吗",
-      "onboard_time": 1714942991,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 14087,

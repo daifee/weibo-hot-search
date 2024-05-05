@@ -1,6 +1,6 @@
 {
   "startTime": 1714926165838,
-  "endTime": 1714947482683,
+  "endTime": 1714948438978,
   "band_list": [
     {
       "raw_hot": 1035239,
@@ -139,12 +139,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238306,
+      "num": 238306,
+      "word": "教育回报率越来越低了吗",
+      "onboard_time": 1714932133,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 221191,
       "num": 221191,
       "word": "IVE新歌疑似抄袭EXO咆哮",
       "onboard_time": 1714916118,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214668,
+      "num": 214668,
+      "word": "有人弃我如杂草 有人视我如珍宝",
+      "onboard_time": 1714942331,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 189675,
@@ -195,14 +211,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 157650,
-      "num": 157650,
-      "word": "教育回报率越来越低了吗",
-      "onboard_time": 1714932133,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 153578,
       "num": 153578,
       "word": "这8个表现说明你已经瘦了",
@@ -251,20 +259,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 130822,
+      "num": 137334,
+      "word": "官方通报叫花鸡里没有鸡",
+      "onboard_time": 1714918581,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126624,
       "num": 182571,
       "word": "国羽男队第11次汤姆斯杯夺冠",
       "onboard_time": 1714919659,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125408,
-      "num": 125408,
-      "word": "有人弃我如杂草 有人视我如珍宝",
-      "onboard_time": 1714942331,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 118330,
@@ -331,14 +339,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 104851,
-      "num": 137334,
-      "word": "官方通报叫花鸡里没有鸡",
-      "onboard_time": 1714918581,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104409,
       "num": 104409,
       "word": "白鹿纯白花嫁",
@@ -355,20 +355,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99488,
+      "num": 99488,
+      "word": "医院被举报代孕1小时后产妇出院被疑通风报信",
+      "onboard_time": 1714897279,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98720,
       "num": 98720,
       "word": "急得黄景瑜差点打消费者热线",
       "onboard_time": 1714918041,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93471,
-      "num": 93471,
-      "word": "医院被举报代孕1小时后产妇出院被疑通风报信",
-      "onboard_time": 1714897279,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90704,
@@ -435,6 +435,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66247,
+      "num": 66247,
+      "word": "黄景瑜被青梅精咬了",
+      "onboard_time": 1714945991,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 64069,
+      "num": 113064,
+      "word": "一晚两场演唱会民警人海硬控忙不停",
+      "onboard_time": 1714930573,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 63507,
       "num": 63507,
       "word": "金秀贤金智媛ins更新照",
@@ -459,20 +475,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 46733,
-      "num": 46733,
+      "raw_hot": 47909,
+      "num": 47909,
       "word": "F1",
       "onboard_time": 1714938191,
       "rank": 17,
       "category": "汽车"
     },
     {
-      "raw_hot": 39213,
-      "num": 83434,
-      "word": "一晚两场演唱会民警人海硬控忙不停",
-      "onboard_time": 1714930573,
-      "rank": 45,
-      "category": "演出"
+      "raw_hot": 38947,
+      "num": 47570,
+      "word": "今年五一档票房破15亿",
+      "onboard_time": 1714941071,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 38128,
@@ -483,12 +499,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35316,
-      "num": 38156,
-      "word": "黄景瑜被青梅精咬了",
-      "onboard_time": 1714945991,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 38119,
+      "num": 45610,
+      "word": "毕业后唯一没还给老师的品质",
+      "onboard_time": 1714935192,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 35195,
+      "num": 45568,
+      "word": "麦当娜160万人演唱会",
+      "onboard_time": 1714936691,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 31009,
@@ -499,14 +523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29483,
-      "num": 37865,
-      "word": "麦当娜160万人演唱会",
-      "onboard_time": 1714936691,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 29264,
       "num": 451645,
       "word": "数说中法合作亮眼成绩单",
@@ -515,20 +531,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28171,
-      "num": 34782,
-      "word": "今年五一档票房破15亿",
-      "onboard_time": 1714941071,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 26940,
-      "num": 34609,
-      "word": "毕业后唯一没还给老师的品质",
-      "onboard_time": 1714935192,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 29059,
+      "num": 45541,
+      "word": "高息存款正在消失吗",
+      "onboard_time": 1714942991,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 24592,
@@ -539,20 +547,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24386,
+      "num": 45439,
+      "word": "马思纯孙千撞衫",
+      "onboard_time": 1714948213,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 22967,
-      "num": 34588,
+      "num": 45394,
       "word": "重生之我在爽文短剧里当演员",
       "onboard_time": 1714940292,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 22092,
-      "num": 34580,
-      "word": "高息存款正在消失吗",
-      "onboard_time": 1714942991,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 14087,

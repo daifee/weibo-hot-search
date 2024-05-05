@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/01 00:23:04 ~ 2024/05/06 06:18:02
+本榜单时间：2024/05/01 00:23:04 ~ 2024/05/06 06:33:58
 </p>
 </blockquote>
 <p>
@@ -4329,6 +4329,12 @@ ENHYPEN试听（热度：239432）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%9B%9E%E6%8A%A5%E7%8E%87%E8%B6%8A%E6%9D%A5%E8%B6%8A%E4%BD%8E%E4%BA%86%E5%90%97%23" target="weibo">
+教育回报率越来越低了吗（热度：238306）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%97%97%E8%A2%8D%E8%88%9E%E5%8F%B0%E7%9B%B4%E6%8B%8D%23" target="weibo">
 迪丽热巴旗袍舞台直拍（热度：237979）
 </a>
@@ -4775,6 +4781,12 @@ G2精神状态（热度：225787）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%88%B1%E6%83%85%E6%98%AF%E7%88%AC%E5%B1%B1%E8%80%8C%E4%B8%8D%E6%98%AF%E5%88%92%E8%88%B9%23" target="weibo">
 真正的爱情是爬山而不是划船（热度：215173）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E5%BC%83%E6%88%91%E5%A6%82%E6%9D%82%E8%8D%89%20%E6%9C%89%E4%BA%BA%E8%A7%86%E6%88%91%E5%A6%82%E7%8F%8D%E5%AE%9D%23" target="weibo">
+有人弃我如杂草 有人视我如珍宝（热度：214668）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ MSI抽签（热度：187710）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%A5%BF%E6%B9%96%E8%BE%B9%E5%86%8D%E7%8E%B0%E6%9C%80%E7%BE%8E%E4%BA%BA%E5%A2%99%23" target="weibo">
 杭州西湖边再现最美人墙（热度：185833）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23CCtalk%E5%85%AC%E4%BC%97%E5%8F%B7%23" target="weibo">
-CCtalk公众号（热度：185551）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E8%B8%A9%E7%82%B9%23" target="weibo">
-高铁踩点（热度：185457）
 </a>
 </li>
 
