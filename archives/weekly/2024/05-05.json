@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714941263195,
+  "endTime": 1714943739445,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -3348,7 +3348,7 @@
     },
     {
       "raw_hot": 29835,
-      "num": 30953,
+      "num": 44125,
       "word": "一晚两场演唱会民警人海硬控忙不停",
       "onboard_time": 1714930573,
       "rank": 45,
@@ -3372,7 +3372,7 @@
     },
     {
       "raw_hot": 27413,
-      "num": 27413,
+      "num": 28718,
       "word": "麦当娜160万人演唱会",
       "onboard_time": 1714936691,
       "rank": 45,
@@ -3395,12 +3395,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 17521,
+      "raw_hot": 19478,
       "num": 17521,
       "word": "重生之我在爽文短剧里当演员",
       "onboard_time": 1714940292,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16404,
+      "num": 16404,
+      "word": "有人弃我如杂草 有人视我如珍宝",
+      "onboard_time": 1714942331,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 14087,
@@ -3417,6 +3425,22 @@
       "onboard_time": 1714940110,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 12588,
+      "num": 16228,
+      "word": "今年五一档票房破15亿",
+      "onboard_time": 1714941071,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 11623,
+      "num": 16220,
+      "word": "高息存款正在消失吗",
+      "onboard_time": 1714942991,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 7443,
