@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714879141199,
+  "endTime": 1714880052770,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -499,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1239675,
+      "num": 1239675,
+      "word": "韩国第一夫人被专案调查",
+      "onboard_time": 1714877778,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1237151,
       "num": 1237151,
       "word": "北大居然偷偷出了这么多神器",
@@ -793,14 +801,6 @@
       "onboard_time": 1714541358,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 956671,
-      "num": 956671,
-      "word": "韩国第一夫人被专案调查",
-      "onboard_time": 1714877778,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 946692,
@@ -1747,6 +1747,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 607475,
+      "num": 607475,
+      "word": "为什么吃面比吃米更胖人",
+      "onboard_time": 1714876279,
+      "rank": 33,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 606656,
       "num": 606656,
       "word": "凤凰传奇 开蹦",
@@ -1865,14 +1873,6 @@
       "onboard_time": 1714834642,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 567020,
-      "num": 567020,
-      "word": "为什么吃面比吃米更胖人",
-      "onboard_time": 1714876279,
-      "rank": 33,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 566111,
@@ -2203,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499339,
+      "num": 399878,
+      "word": "谢娜接张杰下班",
+      "onboard_time": 1714874778,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 495262,
       "num": 251501,
       "word": "王一博身份证掉了",
@@ -2459,12 +2467,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 461487,
+      "num": 398668,
+      "word": "金钟大开通微博",
+      "onboard_time": 1714879518,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 460978,
+      "num": 460978,
+      "word": "丁程鑫出发新加坡录花少",
+      "onboard_time": 1714877898,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460399,
       "num": 460399,
       "word": "受辱的闺女窝囊的爹",
       "onboard_time": 1714621758,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 460236,
+      "num": 396594,
+      "word": "原来爱莲说描写的是真的",
+      "onboard_time": 1714877778,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 454274,
@@ -2747,22 +2779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 421665,
-      "num": 380648,
-      "word": "谢娜接张杰下班",
-      "onboard_time": 1714874778,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 420783,
-      "num": 420783,
-      "word": "丁程鑫出发新加坡录花少",
-      "onboard_time": 1714877898,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 419563,
       "num": 243070,
       "word": "亲戚劝我不要读博士要赶紧结婚",
@@ -2857,6 +2873,14 @@
       "onboard_time": 1714642277,
       "rank": 40,
       "category": "艺人,运动健身"
+    },
+    {
+      "raw_hot": 412242,
+      "num": 412242,
+      "word": "iPhone16全系电池壳供应商是中国公司",
+      "onboard_time": 1714877537,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 412205,
@@ -3579,14 +3603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 333012,
-      "num": 155630,
-      "word": "原来爱莲说描写的是真的",
-      "onboard_time": 1714877778,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 332815,
       "num": 332815,
       "word": "2024年巴黎奥运会",
@@ -3721,6 +3737,14 @@
       "onboard_time": 1714650737,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 321259,
+      "num": 321259,
+      "word": "古巴对中国公民免签",
+      "onboard_time": 1714879157,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321090,
@@ -3945,14 +3969,6 @@
       "onboard_time": 1714567998,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 295525,
-      "num": 295525,
-      "word": "iPhone16全系电池壳供应商是中国公司",
-      "onboard_time": 1714877537,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 294798,
@@ -5251,6 +5267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217441,
+      "num": 153510,
+      "word": "这就是双休和单休的工作环境",
+      "onboard_time": 1714879938,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216946,
       "num": 216946,
       "word": "韩国一糖葫芦商家称日销量从500降到80串",
@@ -6347,6 +6371,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 191333,
+      "num": 191333,
+      "word": "庄达菲谈与肖战合作感受",
+      "onboard_time": 1714879518,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191194,
       "num": 191194,
       "word": "连狗都知道吃黄瓜要吐尖",
@@ -6681,6 +6713,14 @@
       "onboard_time": 1714649419,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 184880,
+      "num": 184880,
+      "word": "吴镇宇 金莎没有能力带他的",
+      "onboard_time": 1714879457,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 184806,
@@ -8203,6 +8243,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 151901,
+      "num": 151901,
+      "word": "尤杯决赛中国2比0印尼",
+      "onboard_time": 1714879397,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151883,
       "num": 151883,
       "word": "中国开启人类首次月球背面取样",
@@ -8899,6 +8947,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 139858,
+      "num": 139858,
+      "word": "马斯克讽刺加州高铁",
+      "onboard_time": 1714879338,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139706,
       "num": 139706,
       "word": "别人换乘恋爱你俩换乘挨踹",
@@ -9227,6 +9283,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 134729,
+      "num": 134729,
+      "word": "边伯贤微博",
+      "onboard_time": 1714879938,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134447,
       "num": 134447,
       "word": "五一文案",
@@ -9417,6 +9481,14 @@
       "onboard_time": 1714571540,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131894,
+      "num": 131894,
+      "word": "你用了很久的微信置顶文案是什么",
+      "onboard_time": 1714879938,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 131890,
@@ -9705,6 +9777,14 @@
       "onboard_time": 1714718479,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127160,
+      "num": 127160,
+      "word": "你喝咖啡会感到不舒服吗",
+      "onboard_time": 1714878917,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 126997,
@@ -10777,14 +10857,6 @@
       "onboard_time": 1714571599,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 107512,
-      "num": 107512,
-      "word": "你喝咖啡会感到不舒服吗",
-      "onboard_time": 1714878917,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 107494,

@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714879141199,
+  "endTime": 1714880052770,
   "band_list": [
     {
       "raw_hot": 2576403,
@@ -27,20 +27,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1239675,
+      "num": 1239675,
+      "word": "韩国第一夫人被专案调查",
+      "onboard_time": 1714877778,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1064099,
       "num": 1064099,
       "word": "莫里斯去世",
       "onboard_time": 1714866374,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 956671,
-      "num": 956671,
-      "word": "韩国第一夫人被专案调查",
-      "onboard_time": 1714877778,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 922392,
@@ -99,6 +99,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 607475,
+      "num": 607475,
+      "word": "为什么吃面比吃米更胖人",
+      "onboard_time": 1714876279,
+      "rank": 33,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 585149,
       "num": 332946,
       "word": "原来上班真的能跨越阶级",
@@ -113,14 +121,6 @@
       "onboard_time": 1714837399,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 567020,
-      "num": 567020,
-      "word": "为什么吃面比吃米更胖人",
-      "onboard_time": 1714876279,
-      "rank": 33,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 509807,
@@ -139,12 +139,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499339,
+      "num": 399878,
+      "word": "谢娜接张杰下班",
+      "onboard_time": 1714874778,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481646,
       "num": 481646,
       "word": "爆炸撕裂下坠 夜下摘星踏月",
       "onboard_time": 1714868658,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 461487,
+      "num": 398668,
+      "word": "金钟大开通微博",
+      "onboard_time": 1714879518,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 460978,
+      "num": 460978,
+      "word": "丁程鑫出发新加坡录花少",
+      "onboard_time": 1714877898,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 460236,
+      "num": 396594,
+      "word": "原来爱莲说描写的是真的",
+      "onboard_time": 1714877778,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 454004,
@@ -195,20 +227,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 421665,
-      "num": 380648,
-      "word": "谢娜接张杰下班",
-      "onboard_time": 1714874778,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 420783,
-      "num": 420783,
-      "word": "丁程鑫出发新加坡录花少",
-      "onboard_time": 1714877898,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 412242,
+      "num": 412242,
+      "word": "iPhone16全系电池壳供应商是中国公司",
+      "onboard_time": 1714877537,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 402148,
@@ -259,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 333012,
-      "num": 155630,
-      "word": "原来爱莲说描写的是真的",
-      "onboard_time": 1714877778,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 332539,
       "num": 332539,
       "word": "广东暴雨249名中山消防员共营救462人",
@@ -283,6 +299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 321259,
+      "num": 321259,
+      "word": "古巴对中国公民免签",
+      "onboard_time": 1714879157,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317050,
       "num": 317050,
       "word": "金莎看自己演风吹半夏哭了",
@@ -297,14 +321,6 @@
       "onboard_time": 1714822098,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 295525,
-      "num": 295525,
-      "word": "iPhone16全系电池壳供应商是中国公司",
-      "onboard_time": 1714877537,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 290685,
@@ -443,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217441,
+      "num": 153510,
+      "word": "这就是双休和单休的工作环境",
+      "onboard_time": 1714879938,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208502,
       "num": 208502,
       "word": "喝咖啡会导致贫血吗",
@@ -507,6 +531,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 191333,
+      "num": 191333,
+      "word": "庄达菲谈与肖战合作感受",
+      "onboard_time": 1714879518,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188172,
       "num": 188172,
       "word": "女儿看演唱会父母冒雨场外陪伴",
@@ -520,6 +552,14 @@
       "word": "李斯丹妮秒答杨幂白浅",
       "onboard_time": 1714877477,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184880,
+      "num": 184880,
+      "word": "吴镇宇 金莎没有能力带他的",
+      "onboard_time": 1714879457,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -651,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151901,
+      "num": 151901,
+      "word": "尤杯决赛中国2比0印尼",
+      "onboard_time": 1714879397,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150480,
       "num": 150480,
       "word": "假期过得快其实是有原因的",
@@ -707,6 +755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139858,
+      "num": 139858,
+      "word": "马斯克讽刺加州高铁",
+      "onboard_time": 1714879338,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138864,
       "num": 217942,
       "word": "金希澈韩庚合照",
@@ -739,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134729,
+      "num": 134729,
+      "word": "边伯贤微博",
+      "onboard_time": 1714879938,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132525,
       "num": 75506,
       "word": "体检照X光别穿有刺绣的衣服",
@@ -769,6 +833,22 @@
       "onboard_time": 1714871658,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 131894,
+      "num": 131894,
+      "word": "你用了很久的微信置顶文案是什么",
+      "onboard_time": 1714879938,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 127160,
+      "num": 127160,
+      "word": "你喝咖啡会感到不舒服吗",
+      "onboard_time": 1714878917,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 126092,
@@ -881,14 +961,6 @@
       "onboard_time": 1714842255,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 107512,
-      "num": 107512,
-      "word": "你喝咖啡会感到不舒服吗",
-      "onboard_time": 1714878917,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 104874,
