@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714897261680,
+  "endTime": 1714898066688,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -83,6 +83,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1147271,
+      "num": 578321,
+      "word": "黄子韬徐艺洋吵架受伤的是姜潮",
+      "onboard_time": 1714895539,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1064099,
       "num": 1064099,
       "word": "莫里斯去世",
@@ -97,14 +105,6 @@
       "onboard_time": 1714892358,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1005828,
-      "num": 417567,
-      "word": "黄子韬徐艺洋吵架受伤的是姜潮",
-      "onboard_time": 1714895539,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 932334,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 873846,
-      "num": 227242,
+      "num": 237216,
       "word": "杨紫发文祝张一山生日快乐",
       "onboard_time": 1714895419,
       "rank": 21,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 831679,
+      "num": 317741,
+      "word": "王力宏 山东省文旅厅",
+      "onboard_time": 1714894159,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 825153,
       "num": 825153,
       "word": "陈赫妈妈是来录陈赫吐槽大会吗",
@@ -185,14 +193,6 @@
       "onboard_time": 1714883780,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 806977,
-      "num": 310307,
-      "word": "王力宏 山东省文旅厅",
-      "onboard_time": 1714894159,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 802806,
@@ -211,8 +211,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 747544,
-      "num": 303721,
+      "raw_hot": 758246,
+      "num": 314719,
       "word": "泰国男子性侵邻居遭反杀家属不追究",
       "onboard_time": 1714895657,
       "rank": 12,
@@ -225,6 +225,14 @@
       "onboard_time": 1714827619,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 683735,
+      "num": 345925,
+      "word": "杨幂回应首次把真发染红",
+      "onboard_time": 1714895118,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 673741,
@@ -249,14 +257,6 @@
       "onboard_time": 1714886418,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 628102,
-      "num": 337366,
-      "word": "杨幂回应首次把真发染红",
-      "onboard_time": 1714895118,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 610679,
@@ -321,6 +321,14 @@
       "onboard_time": 1714889477,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 557784,
+      "num": 557784,
+      "word": "医院被举报代孕1小时后产妇出院被疑通风报信",
+      "onboard_time": 1714897279,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 554952,
@@ -409,6 +417,14 @@
       "onboard_time": 1714868658,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 472878,
+      "num": 247411,
+      "word": "很烧钱却小众的爱好",
+      "onboard_time": 1714892780,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 461487,
@@ -537,14 +553,6 @@
       "onboard_time": 1714877537,
       "rank": 14,
       "category": "数码"
-    },
-    {
-      "raw_hot": 406530,
-      "num": 247411,
-      "word": "很烧钱却小众的爱好",
-      "onboard_time": 1714892780,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 402148,
@@ -779,12 +787,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 243813,
+      "num": 243813,
+      "word": "未来三天有可能爆发M级甚至X级以上耀斑",
+      "onboard_time": 1714897518,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238965,
       "num": 238965,
       "word": "立夏",
       "onboard_time": 1714864094,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238194,
+      "num": 238194,
+      "word": "山东10个馄饨250克吃懵南方人",
+      "onboard_time": 1714896439,
+      "rank": 24,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 236898,
@@ -881,14 +905,6 @@
       "onboard_time": 1714878917,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 217950,
-      "num": 217950,
-      "word": "山东10个馄饨250克吃懵南方人",
-      "onboard_time": 1714896439,
-      "rank": 24,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 215460,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1714886239,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186015,
+      "num": 177164,
+      "word": "导演回应一顿火锅撤档",
+      "onboard_time": 1714897098,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 185119,
@@ -1515,6 +1539,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 143130,
+      "num": 143130,
+      "word": "叶祖新怎么越老越帅",
+      "onboard_time": 1714897639,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142764,
+      "num": 142764,
+      "word": "金店店长称从业20年这个五一生意最淡",
+      "onboard_time": 1714896318,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 141540,
       "num": 217937,
       "word": "金价",
@@ -1539,14 +1579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136528,
-      "num": 136528,
-      "word": "金店店长称从业20年这个五一生意最淡",
-      "onboard_time": 1714896318,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 135599,
       "num": 135599,
       "word": "甲状腺结节",
@@ -1561,6 +1593,14 @@
       "onboard_time": 1714873939,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133151,
+      "num": 133151,
+      "word": "林俊杰交换余生天降宿命感",
+      "onboard_time": 1714896981,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 132525,
@@ -1643,6 +1683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124971,
+      "num": 124971,
+      "word": "五哈特效亚比囧囧囧",
+      "onboard_time": 1714894940,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124796,
       "num": 124796,
       "word": "时代少年团你们走错了",
@@ -1656,14 +1704,6 @@
       "word": "没台本的歌手们整段垮掉",
       "onboard_time": 1714895539,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 124576,
-      "num": 124576,
-      "word": "五哈特效亚比囧囧囧",
-      "onboard_time": 1714894940,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1681,6 +1721,14 @@
       "onboard_time": 1714884620,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123224,
+      "num": 123224,
+      "word": "孟子义准备投资影视行业",
+      "onboard_time": 1714897458,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 122676,
@@ -1715,14 +1763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120616,
-      "num": 120616,
-      "word": "导演回应一顿火锅撤档",
-      "onboard_time": 1714897098,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 120150,
       "num": 120150,
       "word": "我的人生指南是巴菲特给的",
@@ -1737,14 +1777,6 @@
       "onboard_time": 1714870520,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119066,
-      "num": 119066,
-      "word": "林俊杰交换余生天降宿命感",
-      "onboard_time": 1714896981,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 118843,
@@ -1803,6 +1835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113845,
+      "num": 113845,
+      "word": "向佐终于被认可了",
+      "onboard_time": 1714897698,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111621,
       "num": 217916,
       "word": "时代少年团演唱会直播",
@@ -1827,6 +1867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107068,
+      "num": 107068,
+      "word": "鹿晗五哈镜头",
+      "onboard_time": 1714898000,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106084,
       "num": 373651,
       "word": "青岛啤酒登上央视三分钟",
@@ -1841,6 +1889,14 @@
       "onboard_time": 1714869616,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104605,
+      "num": 104605,
+      "word": "贺峻霖看到富贵灯牌的表情",
+      "onboard_time": 1714897879,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 104146,
@@ -2099,6 +2155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 29120,
+      "num": 578941,
+      "word": "文化中国行发现节气之美",
+      "onboard_time": 1714896140,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28957,
       "num": 28957,
       "word": "四川的猫咪自带松弛感",
@@ -2113,14 +2177,6 @@
       "onboard_time": 1714848433,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26852,
-      "num": 428520,
-      "word": "文化中国行发现节气之美",
-      "onboard_time": 1714896140,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7443,
@@ -2151,6 +2207,9 @@
     },
     {
       "word": "#青年引路人#"
+    },
+    {
+      "word": "#习近平离京对三国进行国事访问#"
     }
   ]
 }
