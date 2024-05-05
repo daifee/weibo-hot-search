@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714900786538,
+  "endTime": 1714901649403,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -11,19 +11,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2637114,
+      "num": 2637114,
+      "word": "未来三天有可能爆发M级甚至X级以上耀斑",
+      "onboard_time": 1714897518,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2576403,
       "num": 2576403,
       "word": "端午节假期不调休",
       "onboard_time": 1714873818,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2308077,
-      "num": 2308077,
-      "word": "未来三天有可能爆发M级甚至X级以上耀斑",
-      "onboard_time": 1714897518,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 831679,
-      "num": 332460,
+      "num": 441450,
       "word": "王力宏 山东省文旅厅",
       "onboard_time": 1714894159,
       "rank": 30,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 758246,
-      "num": 336476,
+      "num": 484582,
       "word": "泰国男子性侵邻居遭反杀家属不追究",
       "onboard_time": 1714895657,
       "rank": 12,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 683735,
-      "num": 421577,
+      "num": 512342,
       "word": "杨幂回应首次把真发染红",
       "onboard_time": 1714895118,
       "rank": 6,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 527466,
-      "num": 433309,
+      "num": 509244,
       "word": "迪丽热巴旗袍",
       "onboard_time": 1714893139,
       "rank": 26,
@@ -385,6 +385,14 @@
       "onboard_time": 1714884380,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 516041,
+      "num": 516041,
+      "word": "山东10个馄饨250克吃懵南方人",
+      "onboard_time": 1714896439,
+      "rank": 24,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 509807,
@@ -409,14 +417,6 @@
       "onboard_time": 1714874838,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 499992,
-      "num": 499992,
-      "word": "山东10个馄饨250克吃懵南方人",
-      "onboard_time": 1714896439,
-      "rank": 24,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 499339,
@@ -611,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361731,
+      "num": 361731,
+      "word": "马来西亚女子称被生父强奸8年",
+      "onboard_time": 1714898539,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359307,
       "num": 170886,
       "word": "网友曾在泰妍家住宿",
@@ -675,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303528,
+      "num": 303528,
+      "word": "叶祖新怎么越老越帅",
+      "onboard_time": 1714897639,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297074,
       "num": 297074,
       "word": "金价跌至近一个月低点",
@@ -697,6 +713,14 @@
       "onboard_time": 1714821439,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 280439,
+      "num": 280439,
+      "word": "沈腾马丽炫彩小卡",
+      "onboard_time": 1714900519,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 279200,
@@ -739,6 +763,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 268833,
+      "num": 215595,
+      "word": "好像和结了婚的朋友慢慢变淡了",
+      "onboard_time": 1714898479,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 264383,
       "num": 264383,
       "word": "酱园弄片长",
@@ -771,36 +803,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257163,
-      "num": 257163,
-      "word": "叶祖新怎么越老越帅",
-      "onboard_time": 1714897639,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 256797,
       "num": 256797,
       "word": "B站回应短片被举报涉嫌洗稿",
       "onboard_time": 1714882340,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 256178,
-      "num": 191552,
-      "word": "好像和结了婚的朋友慢慢变淡了",
-      "onboard_time": 1714898479,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 255161,
-      "num": 255161,
-      "word": "马来西亚女子称被生父强奸8年",
-      "onboard_time": 1714898539,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248723,
@@ -849,6 +857,22 @@
       "onboard_time": 1714835299,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 234791,
+      "num": 213255,
+      "word": "肖战地广有了新的打开方式",
+      "onboard_time": 1714900880,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 234047,
+      "num": 234047,
+      "word": "6G手机比5G手机快500倍",
+      "onboard_time": 1714896378,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 233438,
@@ -987,14 +1011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202557,
-      "num": 202557,
-      "word": "6G手机比5G手机快500倍",
-      "onboard_time": 1714896378,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 201153,
       "num": 201153,
       "word": "邓超也会尴尬吗",
@@ -1131,8 +1147,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189721,
-      "num": 189721,
+      "raw_hot": 191029,
+      "num": 191029,
       "word": "威海5岁男童疑被打死事件最新进展",
       "onboard_time": 1714899320,
       "rank": 25,
@@ -1227,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180370,
+      "num": 180370,
+      "word": "李承铉被Lucky激到徒手拿蜘蛛",
+      "onboard_time": 1714899559,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179755,
       "num": 179755,
       "word": "赵丽颖与凤行有效播剧",
@@ -1273,6 +1297,14 @@
       "onboard_time": 1714877598,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 174707,
+      "num": 174707,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1714901480,
+      "rank": 31,
+      "category": "军事,国外时政"
     },
     {
       "raw_hot": 173692,
@@ -1491,20 +1523,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154836,
+      "num": 154836,
+      "word": "孙夏铃 我的浪姐脸替",
+      "onboard_time": 1714899980,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154817,
       "num": 154817,
       "word": "原来朋友真的可以在路上遇到",
       "onboard_time": 1714886838,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 154105,
-      "num": 154105,
-      "word": "沈腾马丽炫彩小卡",
-      "onboard_time": 1714900519,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 153155,
@@ -1571,28 +1603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147698,
-      "num": 147698,
-      "word": "李承铉被Lucky激到徒手拿蜘蛛",
-      "onboard_time": 1714899559,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147652,
       "num": 147652,
       "word": "大馋丫头最好别谈恋爱",
       "onboard_time": 1714882999,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146075,
-      "num": 146075,
-      "word": "孙夏铃 我的浪姐脸替",
-      "onboard_time": 1714899980,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 145411,
@@ -1641,6 +1657,14 @@
       "onboard_time": 1714827799,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 140325,
+      "num": 140325,
+      "word": "爱上港男是我的宿命",
+      "onboard_time": 1714900760,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 138864,
@@ -1859,6 +1883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119859,
+      "num": 119859,
+      "word": "平潭文旅回应游客买石头丢海里看蓝眼泪",
+      "onboard_time": 1714900160,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119667,
       "num": 119667,
       "word": "这30平小家就是独居梦中情房",
@@ -1955,14 +1987,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 106207,
-      "num": 106207,
-      "word": "爱上港男是我的宿命",
-      "onboard_time": 1714900760,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 106084,
       "num": 373651,
       "word": "青岛啤酒登上央视三分钟",
@@ -1993,14 +2017,6 @@
       "onboard_time": 1714814298,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 103140,
-      "num": 103140,
-      "word": "平潭文旅回应游客买石头丢海里看蓝眼泪",
-      "onboard_time": 1714900160,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98539,
@@ -2227,20 +2243,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45694,
+      "num": 1152695,
+      "word": "文化中国行发现节气之美",
+      "onboard_time": 1714896140,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45587,
       "num": 45587,
       "word": "脸基尼",
       "onboard_time": 1714863733,
       "rank": 40,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 45180,
-      "num": 1152695,
-      "word": "文化中国行发现节气之美",
-      "onboard_time": 1714896140,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43271,

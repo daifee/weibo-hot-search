@@ -1,0 +1,410 @@
+{
+  "runTime": 1714901649403,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2637114,
+        "num": 2637114,
+        "word": "未来三天有可能爆发M级甚至X级以上耀斑",
+        "onboard_time": 1714897518,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1461686,
+        "num": 1461686,
+        "word": "医院被举报代孕1小时后产妇出院被疑通风报信",
+        "onboard_time": 1714897279,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45694,
+        "num": 1119202,
+        "word": "文化中国行发现节气之美",
+        "onboard_time": 1714896140,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782510,
+        "num": 782510,
+        "word": "黄子韬徐艺洋吵架受伤的是姜潮",
+        "onboard_time": 1714895539,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 603633,
+        "num": 603633,
+        "word": "我也退出五一档了",
+        "onboard_time": 1714892358,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 516041,
+        "num": 516041,
+        "word": "山东10个馄饨250克吃懵南方人",
+        "onboard_time": 1714896439,
+        "rank": 5,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 549668,
+        "num": 512342,
+        "word": "杨幂回应首次把真发染红",
+        "onboard_time": 1714895118,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 312737,
+        "num": 509244,
+        "word": "迪丽热巴旗袍",
+        "onboard_time": 1714893139,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216458,
+        "num": 497654,
+        "word": "金价重回5时代",
+        "onboard_time": 1714891339,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128684,
+        "num": 492666,
+        "word": "五一感受到了绝对安全感",
+        "onboard_time": 1714889177,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 588893,
+        "num": 487026,
+        "word": "女子称住酒店裸睡被人强行刷开房门",
+        "onboard_time": 1714889118,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484582,
+        "num": 484582,
+        "word": "泰国男子性侵邻居遭反杀家属不追究",
+        "onboard_time": 1714895657,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441450,
+        "num": 441450,
+        "word": "王力宏 山东省文旅厅",
+        "onboard_time": 1714894159,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 361731,
+        "num": 361731,
+        "word": "马来西亚女子称被生父强奸8年",
+        "onboard_time": 1714898539,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305642,
+        "num": 305642,
+        "word": "游泳教练憋气练习时意外溺亡",
+        "onboard_time": 1714886418,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303528,
+        "num": 303528,
+        "word": "叶祖新怎么越老越帅",
+        "onboard_time": 1714897639,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280439,
+        "num": 280439,
+        "word": "沈腾马丽炫彩小卡",
+        "onboard_time": 1714900519,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258167,
+        "num": 258167,
+        "word": "一顿火锅撤档",
+        "onboard_time": 1714882879,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234047,
+        "num": 234047,
+        "word": "6G手机比5G手机快500倍",
+        "onboard_time": 1714896378,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217515,
+        "num": 217515,
+        "word": "陈赫妈妈是来录陈赫吐槽大会吗",
+        "onboard_time": 1714889239,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516041,
+        "num": 216945,
+        "word": "爸爸才四十多岁就不工作了",
+        "onboard_time": 1714892780,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 442917,
+        "num": 215760,
+        "word": "杨紫发文祝张一山生日快乐",
+        "onboard_time": 1714895419,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268833,
+        "num": 215595,
+        "word": "好像和结了婚的朋友慢慢变淡了",
+        "onboard_time": 1714898479,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243281,
+        "num": 214138,
+        "word": "很烧钱却小众的爱好",
+        "onboard_time": 1714892780,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234791,
+        "num": 213255,
+        "word": "肖战地广有了新的打开方式",
+        "onboard_time": 1714900880,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212921,
+        "num": 212921,
+        "word": "眉庄去世为什么太后不闻不问",
+        "onboard_time": 1714888458,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191029,
+        "num": 191029,
+        "word": "威海5岁男童疑被打死事件最新进展",
+        "onboard_time": 1714899320,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180370,
+        "num": 180370,
+        "word": "李承铉被Lucky激到徒手拿蜘蛛",
+        "onboard_time": 1714899559,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178125,
+        "num": 178125,
+        "word": "杨紫张一山认识20年了",
+        "onboard_time": 1714899260,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94376,
+        "num": 177244,
+        "word": "国务院安委会派督导组赴河南",
+        "onboard_time": 1714889539,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176804,
+        "num": 176804,
+        "word": "鹿晗五哈镜头",
+        "onboard_time": 1714898000,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174707,
+        "num": 174707,
+        "word": "俄乌局势新进展",
+        "onboard_time": 1714901480,
+        "rank": 31,
+        "category": "军事,国外时政"
+      },
+      {
+        "raw_hot": 161739,
+        "num": 161739,
+        "word": "河南大学",
+        "onboard_time": 1714893198,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165693,
+        "num": 161521,
+        "word": "这种酸奶千万别喝",
+        "onboard_time": 1714892060,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160587,
+        "num": 160587,
+        "word": "五一 撤档",
+        "onboard_time": 1714883899,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154836,
+        "num": 154836,
+        "word": "孙夏铃 我的浪姐脸替",
+        "onboard_time": 1714899980,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147166,
+        "num": 147166,
+        "word": "郑合惠子飞奔去见郝蕾",
+        "onboard_time": 1714898299,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143126,
+        "num": 143126,
+        "word": "导演回应一顿火锅撤档",
+        "onboard_time": 1714897098,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141400,
+        "num": 141400,
+        "word": "价格大降榴莲自由要来了吗",
+        "onboard_time": 1714890318,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143038,
+        "num": 141239,
+        "word": "一顿火锅出品方多达16家",
+        "onboard_time": 1714899079,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140325,
+        "num": 140325,
+        "word": "爱上港男是我的宿命",
+        "onboard_time": 1714900760,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135082,
+        "num": 135082,
+        "word": "金店店长称从业20年这个五一生意最淡",
+        "onboard_time": 1714896318,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120876,
+        "num": 120876,
+        "word": "王耀庆千字长文",
+        "onboard_time": 1714900099,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120516,
+        "num": 120516,
+        "word": "林俊杰交换余生天降宿命感",
+        "onboard_time": 1714896981,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119859,
+        "num": 119859,
+        "word": "平潭文旅回应游客买石头丢海里看蓝眼泪",
+        "onboard_time": 1714900160,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113180,
+        "num": 113180,
+        "word": "IU捐赠1亿韩元",
+        "onboard_time": 1714889419,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282938,
+        "num": 112139,
+        "word": "37岁养羊男子娶19岁越南新娘",
+        "onboard_time": 1714881799,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 106724,
+        "num": 106724,
+        "word": "赵丽颖与凤行有效播剧",
+        "onboard_time": 1714895179,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90936,
+        "num": 104250,
+        "word": "为什么刚学电脑时没人告诉我",
+        "onboard_time": 1714886898,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83897,
+        "num": 102851,
+        "word": "猴子抢了游客防晒衣出不来了",
+        "onboard_time": 1714885398,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平离京对三国进行国事访问#"
+    }
+  }
+}
