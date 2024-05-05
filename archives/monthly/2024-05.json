@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714913182795,
+  "endTime": 1714915136278,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -131,6 +131,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 2553956,
+      "num": 2255591,
+      "word": "发烧",
+      "onboard_time": 1714910719,
+      "rank": 0,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 2501521,
       "num": 2501521,
       "word": "五三惨案",
@@ -161,14 +169,6 @@
       "onboard_time": 1714717099,
       "rank": 38,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 2255591,
-      "num": 2255591,
-      "word": "发烧",
-      "onboard_time": 1714910719,
-      "rank": 0,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 2215749,
@@ -416,6 +416,14 @@
       "word": "香飘飘董事长现身机场接赴日回国员工",
       "onboard_time": 1714882879,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1413831,
+      "num": 1413831,
+      "word": "网购7700元迪士尼套餐最终民警护送入园",
+      "onboard_time": 1714910658,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1035,6 +1043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 881663,
+      "num": 355508,
+      "word": "看腿就知道你血糖高了",
+      "onboard_time": 1714914680,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 877700,
       "num": 877700,
       "word": "14岁男孩当伴郎遇班主任伴娘",
@@ -1275,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 810091,
+      "num": 350665,
+      "word": "泫雅一个月晕倒12次",
+      "onboard_time": 1714914321,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 809974,
       "num": 809974,
       "word": "国羽女队第16次夺得尤伯杯冠军",
@@ -1337,14 +1361,6 @@
       "onboard_time": 1714625599,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 798400,
-      "num": 290848,
-      "word": "网购7700元迪士尼套餐最终民警护送入园",
-      "onboard_time": 1714910658,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 797138,
@@ -2588,7 +2604,7 @@
     },
     {
       "raw_hot": 487585,
-      "num": 199339,
+      "num": 206124,
       "word": "父亲因没钱给女儿买手机自责跪地",
       "onboard_time": 1714908499,
       "rank": 33,
@@ -3307,6 +3323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 413558,
+      "num": 413558,
+      "word": "室友讨厌甄嬛的理由",
+      "onboard_time": 1714913599,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 413449,
       "num": 413449,
       "word": "这是国产剧能看到的尺度吗",
@@ -3321,6 +3345,14 @@
       "onboard_time": 1714606515,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 412887,
+      "num": 206764,
+      "word": "马思纯长发回归",
+      "onboard_time": 1714911259,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 412275,
@@ -3369,6 +3401,14 @@
       "onboard_time": 1714521675,
       "rank": 13,
       "category": "数码"
+    },
+    {
+      "raw_hot": 409895,
+      "num": 206377,
+      "word": "金秀贤金智媛ins更新照",
+      "onboard_time": 1714911859,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 408592,
@@ -3659,14 +3699,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 383397,
-      "num": 196328,
-      "word": "马思纯长发回归",
-      "onboard_time": 1714911259,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 382293,
       "num": 337388,
       "word": "官方介入调查空包外卖",
@@ -3899,6 +3931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 360127,
+      "num": 360127,
+      "word": "戴眼镜的吃饭可以拿来当支架",
+      "onboard_time": 1714909759,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 359307,
       "num": 170886,
       "word": "网友曾在泰妍家住宿",
@@ -3955,6 +3995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351932,
+      "num": 205808,
+      "word": "张一山卡点回复杨紫",
+      "onboard_time": 1714908259,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351464,
       "num": 351464,
       "word": "iPhone16或改善无线充电功能",
@@ -3968,6 +4016,14 @@
       "word": "广东中山4条出逃鳄鱼已找回3条",
       "onboard_time": 1714808299,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347109,
+      "num": 347109,
+      "word": "警方通报男子服装市场跳楼身亡",
+      "onboard_time": 1714910119,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4331,14 +4387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 317502,
-      "num": 261192,
-      "word": "警方通报男子服装市场跳楼身亡",
-      "onboard_time": 1714910119,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317050,
       "num": 317050,
       "word": "金莎看自己演风吹半夏哭了",
@@ -4371,6 +4419,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 316097,
+      "num": 316097,
+      "word": "买榴莲要买像荔枝的",
+      "onboard_time": 1714905318,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 315508,
       "num": 315508,
       "word": "淄博八大局500米走半小时",
@@ -4385,22 +4441,6 @@
       "onboard_time": 1714535897,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 310691,
-      "num": 198647,
-      "word": "张一山卡点回复杨紫",
-      "onboard_time": 1714908259,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 310183,
-      "num": 194346,
-      "word": "金秀贤金智媛ins更新照",
-      "onboard_time": 1714911859,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 309509,
@@ -5075,14 +5115,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 260459,
-      "num": 260459,
-      "word": "买榴莲要买像荔枝的",
-      "onboard_time": 1714905318,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 260356,
       "num": 237232,
       "word": "韩最毒美女连环杀人犯真容曝光",
@@ -5273,6 +5305,14 @@
       "onboard_time": 1714610896,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247921,
+      "num": 204378,
+      "word": "李诗沣状态",
+      "onboard_time": 1714915099,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 247241,
@@ -5803,6 +5843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225787,
+      "num": 204174,
+      "word": "G2精神状态",
+      "onboard_time": 1714913900,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225695,
       "num": 225695,
       "word": "河南大学大礼堂",
@@ -5817,6 +5865,14 @@
       "onboard_time": 1714623498,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 225264,
+      "num": 225264,
+      "word": "汤杯",
+      "onboard_time": 1714912940,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 225210,
@@ -5865,6 +5921,14 @@
       "onboard_time": 1714797317,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222029,
+      "num": 205005,
+      "word": "这8个表现说明你已经瘦了",
+      "onboard_time": 1714914680,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 221261,
@@ -6073,6 +6137,14 @@
       "onboard_time": 1714530377,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214537,
+      "num": 357169,
+      "word": "新疆2元一个的烤包子火了",
+      "onboard_time": 1714909519,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 214399,
@@ -6323,6 +6395,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 207523,
+      "num": 207523,
+      "word": "KSG 教练",
+      "onboard_time": 1714914321,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207348,
       "num": 189357,
       "word": "国羽第20次打入尤伯杯决赛",
@@ -6513,6 +6593,14 @@
       "onboard_time": 1714566259,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203905,
+      "num": 203905,
+      "word": "马龙大满贯开门红",
+      "onboard_time": 1714914321,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 203882,
@@ -7035,20 +7123,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196408,
+      "num": 196408,
+      "word": "王一博前一秒不会后一秒拿下",
+      "onboard_time": 1714914500,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196278,
       "num": 196278,
       "word": "2024华晨宇火星演唱会",
       "onboard_time": 1714813459,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 196272,
-      "num": 196272,
-      "word": "汤杯",
-      "onboard_time": 1714912940,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 196190,
@@ -7571,6 +7659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187089,
+      "num": 179242,
+      "word": "谈恋爱主要谈什么",
+      "onboard_time": 1714913658,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187035,
       "num": 187035,
       "word": "李斯丹妮秒答杨幂白浅",
@@ -7747,14 +7843,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 184094,
-      "num": 184094,
-      "word": "戴眼镜的吃饭可以拿来当支架",
-      "onboard_time": 1714909759,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 183923,
       "num": 183923,
       "word": "开始听反方向的钟",
@@ -7857,14 +7945,6 @@
       "onboard_time": 1714797079,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181099,
-      "num": 260431,
-      "word": "新疆2元一个的烤包子火了",
-      "onboard_time": 1714909519,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 181037,
@@ -8355,6 +8435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172871,
+      "num": 172871,
+      "word": "孙颖莎3比0刘馨尹",
+      "onboard_time": 1714913599,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172822,
       "num": 172822,
       "word": "Faker名人堂皮肤爆料",
@@ -8635,12 +8723,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167383,
+      "num": 167383,
+      "word": "BLG上上签",
+      "onboard_time": 1714915099,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167137,
       "num": 167137,
       "word": "间谍过家家",
       "onboard_time": 1714629738,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167015,
+      "num": 167015,
+      "word": "和之前喜欢的人重新联系了",
+      "onboard_time": 1714913599,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 166963,
@@ -9435,6 +9539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153336,
+      "num": 153336,
+      "word": "减肥要做到3个一",
+      "onboard_time": 1714914619,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 153258,
       "num": 153258,
       "word": "周深五四演讲",
@@ -9777,6 +9889,14 @@
       "onboard_time": 1714652059,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148724,
+      "num": 148724,
+      "word": "汪东城你小子是真热假热",
+      "onboard_time": 1714913839,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 148704,
@@ -10577,6 +10697,14 @@
       "onboard_time": 1714572980,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134872,
+      "num": 134872,
+      "word": "田小江死在了漫长的季节里",
+      "onboard_time": 1714914859,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 134852,
@@ -11417,6 +11545,22 @@
       "onboard_time": 1714488501,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122570,
+      "num": 122570,
+      "word": "黄明昊跑过去保护粉丝",
+      "onboard_time": 1714915099,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122529,
+      "num": 122529,
+      "word": "有些人真的不适合吃榴莲",
+      "onboard_time": 1714914859,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 122293,
@@ -13267,6 +13411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64283,
+      "num": 599496,
+      "word": "数说中法合作亮眼成绩单",
+      "onboard_time": 1714914019,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63847,
       "num": 537450,
       "word": "中国高铁发动瞬间太震撼",
@@ -13889,6 +14041,9 @@
     },
     {
       "word": "#习近平主席欧洲之行#"
+    },
+    {
+      "word": "#习主席2024首次出访#"
     }
   ]
 }

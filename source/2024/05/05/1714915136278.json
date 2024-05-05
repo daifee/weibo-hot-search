@@ -1,0 +1,410 @@
+{
+  "runTime": 1714915136278,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1413831,
+        "num": 1413831,
+        "word": "网购7700元迪士尼套餐最终民警护送入园",
+        "onboard_time": 1714910658,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1075995,
+        "num": 1075995,
+        "word": "未来三天有可能爆发M级甚至X级以上耀斑",
+        "onboard_time": 1714897518,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64283,
+        "num": 599496,
+        "word": "数说中法合作亮眼成绩单",
+        "onboard_time": 1714914019,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 426296,
+        "num": 426296,
+        "word": "王昶好帅",
+        "onboard_time": 1714910057,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 413558,
+        "num": 413558,
+        "word": "室友讨厌甄嬛的理由",
+        "onboard_time": 1714913599,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2553956,
+        "num": 410708,
+        "word": "发烧",
+        "onboard_time": 1714910719,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 403767,
+        "num": 403767,
+        "word": "卡塔尔准备接受美国要求将哈马斯领导人驱逐",
+        "onboard_time": 1714908499,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 366165,
+        "num": 366165,
+        "word": "太疲惫身体会变臭",
+        "onboard_time": 1714902199,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 360127,
+        "num": 360127,
+        "word": "戴眼镜的吃饭可以拿来当支架",
+        "onboard_time": 1714909759,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214537,
+        "num": 357169,
+        "word": "新疆2元一个的烤包子火了",
+        "onboard_time": 1714909519,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 881663,
+        "num": 355508,
+        "word": "看腿就知道你血糖高了",
+        "onboard_time": 1714914680,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 810091,
+        "num": 350665,
+        "word": "泫雅一个月晕倒12次",
+        "onboard_time": 1714914321,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389591,
+        "num": 350158,
+        "word": "医院被举报代孕1小时后产妇出院被疑通风报信",
+        "onboard_time": 1714897279,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347109,
+        "num": 347109,
+        "word": "警方通报男子服装市场跳楼身亡",
+        "onboard_time": 1714910119,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322003,
+        "num": 322003,
+        "word": "开封王婆怒怼亳州王婆",
+        "onboard_time": 1714902619,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316097,
+        "num": 316097,
+        "word": "买榴莲要买像荔枝的",
+        "onboard_time": 1714905318,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 282452,
+        "num": 282452,
+        "word": "王力宏 山东省文旅厅",
+        "onboard_time": 1714894159,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250961,
+        "num": 250961,
+        "word": "魏大勋脚上的红绳被P掉了",
+        "onboard_time": 1714902559,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225264,
+        "num": 225264,
+        "word": "汤杯",
+        "onboard_time": 1714912940,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207523,
+        "num": 207523,
+        "word": "KSG 教练",
+        "onboard_time": 1714914321,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 748253,
+        "num": 207405,
+        "word": "为什么月薪五千每天这么多事",
+        "onboard_time": 1714908198,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 473045,
+        "num": 207110,
+        "word": "原来跳绳是先瘦肚子再瘦腿",
+        "onboard_time": 1714907778,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 412887,
+        "num": 206764,
+        "word": "马思纯长发回归",
+        "onboard_time": 1714911259,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409895,
+        "num": 206377,
+        "word": "金秀贤金智媛ins更新照",
+        "onboard_time": 1714911859,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405266,
+        "num": 206124,
+        "word": "父亲因没钱给女儿买手机自责跪地",
+        "onboard_time": 1714908499,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351932,
+        "num": 205808,
+        "word": "张一山卡点回复杨紫",
+        "onboard_time": 1714908259,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312255,
+        "num": 205547,
+        "word": "周扬青 带经纪人录节目的一天",
+        "onboard_time": 1714906640,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250649,
+        "num": 205111,
+        "word": "黄子韬徐艺洋吵架受伤的是姜潮",
+        "onboard_time": 1714895539,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222029,
+        "num": 205005,
+        "word": "这8个表现说明你已经瘦了",
+        "onboard_time": 1714914680,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220719,
+        "num": 204805,
+        "word": "迪丽热巴旗袍",
+        "onboard_time": 1714893139,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247921,
+        "num": 204378,
+        "word": "李诗沣状态",
+        "onboard_time": 1714915099,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225787,
+        "num": 204174,
+        "word": "G2精神状态",
+        "onboard_time": 1714913900,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203905,
+        "num": 203905,
+        "word": "马龙大满贯开门红",
+        "onboard_time": 1714914321,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196408,
+        "num": 196408,
+        "word": "王一博前一秒不会后一秒拿下",
+        "onboard_time": 1714914500,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182442,
+        "num": 182442,
+        "word": "MSI胜败分组赛抽签",
+        "onboard_time": 1714910239,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187089,
+        "num": 179242,
+        "word": "谈恋爱主要谈什么",
+        "onboard_time": 1714913658,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172871,
+        "num": 172871,
+        "word": "孙颖莎3比0刘馨尹",
+        "onboard_time": 1714913599,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167383,
+        "num": 167383,
+        "word": "BLG上上签",
+        "onboard_time": 1714915099,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167015,
+        "num": 167015,
+        "word": "和之前喜欢的人重新联系了",
+        "onboard_time": 1714913599,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164938,
+        "num": 164938,
+        "word": "杨幂回应首次把真发染红",
+        "onboard_time": 1714895118,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153336,
+        "num": 153336,
+        "word": "减肥要做到3个一",
+        "onboard_time": 1714914619,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 149247,
+        "num": 149247,
+        "word": "为什么女性一定要养好气血",
+        "onboard_time": 1714904719,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 148724,
+        "num": 148724,
+        "word": "汪东城你小子是真热假热",
+        "onboard_time": 1714913839,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146004,
+        "num": 146004,
+        "word": "苗苗自己给自己化妆",
+        "onboard_time": 1714906578,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164865,
+        "num": 145157,
+        "word": "五一档电影为什么没有很多人看",
+        "onboard_time": 1714907838,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144208,
+        "num": 144208,
+        "word": "爸爸才四十多岁就不工作了",
+        "onboard_time": 1714892780,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134872,
+        "num": 134872,
+        "word": "田小江死在了漫长的季节里",
+        "onboard_time": 1714914859,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122570,
+        "num": 122570,
+        "word": "黄明昊跑过去保护粉丝",
+        "onboard_time": 1714915099,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122529,
+        "num": 122529,
+        "word": "有些人真的不适合吃榴莲",
+        "onboard_time": 1714914859,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122149,
+        "num": 122149,
+        "word": "我也退出五一档了",
+        "onboard_time": 1714892358,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席2024首次出访#"
+    }
+  }
+}
