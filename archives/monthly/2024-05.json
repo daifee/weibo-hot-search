@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714873190590,
+  "endTime": 1714876190724,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -235,6 +235,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1604245,
+      "num": 1604245,
+      "word": "端午节假期不调休",
+      "onboard_time": 1714873818,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1596524,
       "num": 1596524,
       "word": "香飘飘回应讽日事件",
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1453852,
+      "num": 1453852,
+      "word": "5月5日8时10分迎来立夏",
+      "onboard_time": 1714866374,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1421271,
       "num": 1421271,
       "word": "活鸭要40多为何烤鸭才18元一只",
@@ -369,14 +385,6 @@
       "onboard_time": 1714532777,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1362273,
-      "num": 1362273,
-      "word": "5月5日8时10分迎来立夏",
-      "onboard_time": 1714866374,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1343281,
@@ -433,6 +441,14 @@
       "onboard_time": 1714822098,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1259532,
+      "num": 1259532,
+      "word": "舅妈家想霸占我的婚房",
+      "onboard_time": 1714871057,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 1257572,
@@ -948,7 +964,7 @@
     },
     {
       "raw_hot": 863812,
-      "num": 324673,
+      "num": 371886,
       "word": "贺军翔还在还房贷",
       "onboard_time": 1714868958,
       "rank": 10,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1714694296,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 819770,
-      "num": 306573,
-      "word": "舅妈家想霸占我的婚房",
-      "onboard_time": 1714871057,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 815964,
@@ -1804,7 +1812,7 @@
     },
     {
       "raw_hot": 585149,
-      "num": 317389,
+      "num": 332946,
       "word": "原来上班真的能跨越阶级",
       "onboard_time": 1714864994,
       "rank": 31,
@@ -2635,6 +2643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 426642,
+      "num": 426642,
+      "word": "香飘飘绕地球几圈了",
+      "onboard_time": 1714871237,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 424987,
       "num": 420716,
       "word": "梅州",
@@ -2785,14 +2801,6 @@
       "onboard_time": 1714606515,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 412833,
-      "num": 303821,
-      "word": "香飘飘绕地球几圈了",
-      "onboard_time": 1714871237,
-      "rank": 15,
-      "category": "美食"
     },
     {
       "raw_hot": 412275,
@@ -3017,6 +3025,14 @@
       "onboard_time": 1714727179,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 391725,
+      "num": 391725,
+      "word": "原来奶奶才是真正的神明",
+      "onboard_time": 1714869977,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 389270,
@@ -3323,6 +3339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 354793,
+      "num": 354793,
+      "word": "张杰陈楚生撞衫",
+      "onboard_time": 1714871720,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 353185,
       "num": 353185,
       "word": "五一不出去旅游还可以做什么",
@@ -3361,6 +3385,14 @@
       "onboard_time": 1714813999,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 349381,
+      "num": 349381,
+      "word": "日本专家提议外国人交游客税",
+      "onboard_time": 1714874838,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347832,
@@ -3651,14 +3683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 321643,
-      "num": 321643,
-      "word": "张杰陈楚生撞衫",
-      "onboard_time": 1714871720,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 321090,
       "num": 321090,
       "word": "成毅王权富贵杀青",
@@ -3696,6 +3720,14 @@
       "word": "梁洁不能再瘦了",
       "onboard_time": 1714743141,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 317050,
+      "num": 317050,
+      "word": "金莎看自己演风吹半夏哭了",
+      "onboard_time": 1714872979,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -4083,6 +4115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 278084,
+      "num": 278084,
+      "word": "爱德华兹吸粉",
+      "onboard_time": 1714873038,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277012,
       "num": 277012,
       "word": "男朋友想一个人去旅游该阻止吗",
@@ -4291,14 +4331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 262570,
-      "num": 262570,
-      "word": "金莎看自己演风吹半夏哭了",
-      "onboard_time": 1714872979,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 262421,
       "num": 262421,
       "word": "五哈",
@@ -4395,14 +4427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 255024,
-      "num": 196654,
-      "word": "爱德华兹吸粉",
-      "onboard_time": 1714873038,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 254930,
       "num": 254930,
       "word": "女儿要喝奶茶我说她爱慕虚荣",
@@ -4441,6 +4465,14 @@
       "onboard_time": 1714539378,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252324,
+      "num": 232156,
+      "word": "谢娜接张杰下班",
+      "onboard_time": 1714874778,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 252067,
@@ -4833,6 +4865,14 @@
       "onboard_time": 1714542020,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 233438,
+      "num": 233438,
+      "word": "孙千费启鸣早期校服照",
+      "onboard_time": 1714872739,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 233305,
@@ -5320,14 +5360,6 @@
       "word": "在大学情商不高的表现",
       "onboard_time": 1714571599,
       "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 210945,
-      "num": 210945,
-      "word": "原来奶奶才是真正的神明",
-      "onboard_time": 1714869977,
-      "rank": 32,
       "category": "情感"
     },
     {
@@ -6041,6 +6073,14 @@
       "onboard_time": 1714585216,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 196746,
+      "num": 196746,
+      "word": "梅西1球5助攻",
+      "onboard_time": 1714875378,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 196729,
@@ -7283,6 +7323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168196,
+      "num": 168196,
+      "word": "森林狼战胜掘金",
+      "onboard_time": 1714875859,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168106,
       "num": 168106,
       "word": "研究生女孩健身10年练出8块腹肌",
@@ -7523,6 +7571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163747,
+      "num": 163747,
+      "word": "喝咖啡会导致贫血吗",
+      "onboard_time": 1714874359,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 163744,
       "num": 174248,
       "word": "RC对战成都GG",
@@ -7657,6 +7713,14 @@
       "onboard_time": 1714625778,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161602,
+      "num": 161602,
+      "word": "你是如何变得不浮躁的",
+      "onboard_time": 1714874058,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 161358,
@@ -7817,6 +7881,14 @@
       "onboard_time": 1714658900,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156880,
+      "num": 156880,
+      "word": "乍一看以为戚薇裤子当上衣穿",
+      "onboard_time": 1714875137,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 156665,
@@ -8227,6 +8299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149128,
+      "num": 149128,
+      "word": "森林狼1比0掘金",
+      "onboard_time": 1714873578,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149127,
       "num": 149127,
       "word": "马克西绝平三分",
@@ -8569,14 +8649,6 @@
       "onboard_time": 1714793299,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143370,
-      "num": 143370,
-      "word": "孙千费启鸣早期校服照",
-      "onboard_time": 1714872739,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 143325,
@@ -8971,6 +9043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135417,
+      "num": 135417,
+      "word": "爱德华兹太像乔丹了",
+      "onboard_time": 1714873939,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135296,
       "num": 135296,
       "word": "维和防暴队彩蛋",
@@ -9113,6 +9193,14 @@
       "onboard_time": 1714715838,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133285,
+      "num": 133285,
+      "word": "上海等级考",
+      "onboard_time": 1714875917,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 133125,
@@ -9515,6 +9603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127078,
+      "num": 127078,
+      "word": "假期过得快其实是有原因的",
+      "onboard_time": 1714875557,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126997,
       "num": 126997,
       "word": "2024MSI入围赛",
@@ -9859,6 +9955,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 120150,
+      "num": 120150,
+      "word": "我的人生指南是巴菲特给的",
+      "onboard_time": 1714875378,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120112,
       "num": 120112,
       "word": "和死对头吵架突然亲我一口",
@@ -9985,6 +10089,14 @@
       "onboard_time": 1714567998,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117444,
+      "num": 117444,
+      "word": "巴菲特存钱法让我养成易富体质",
+      "onboard_time": 1714875978,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 117390,
@@ -10473,6 +10585,14 @@
       "onboard_time": 1714559838,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109469,
+      "num": 109469,
+      "word": "戚薇说李承铉飘了",
+      "onboard_time": 1714876038,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 109465,
@@ -11548,7 +11668,7 @@
     },
     {
       "raw_hot": 56830,
-      "num": 1008340,
+      "num": 1274462,
       "word": "文化中国行我写家乡",
       "onboard_time": 1714742900,
       "rank": 2,
