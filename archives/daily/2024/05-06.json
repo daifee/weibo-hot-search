@@ -1,6 +1,6 @@
 {
   "startTime": 1714926165838,
-  "endTime": 1714933295211,
+  "endTime": 1714934061716,
   "band_list": [
     {
       "raw_hot": 1035239,
@@ -419,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63769,
+      "num": 63769,
+      "word": "教育回报率越来越低了吗",
+      "onboard_time": 1714932133,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 63507,
       "num": 63507,
       "word": "金秀贤金智媛ins更新照",
@@ -441,14 +449,6 @@
       "onboard_time": 1714927575,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 40734,
-      "num": 40734,
-      "word": "教育回报率越来越低了吗",
-      "onboard_time": 1714932133,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 38128,
@@ -481,6 +481,14 @@
       "onboard_time": 1714914019,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24592,
+      "num": 24592,
+      "word": "林俊杰深圳演唱会",
+      "onboard_time": 1714930873,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 11434,

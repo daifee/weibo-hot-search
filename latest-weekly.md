@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/05 00:21:24 ~ 2024/05/06 02:21:35
+本榜单时间：2024/05/05 00:21:24 ~ 2024/05/06 02:34:21
 </p>
 </blockquote>
 <p>
@@ -2427,6 +2427,12 @@ MSI赛程（热度：118406）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%9B%9E%E6%8A%A5%E7%8E%87%E8%B6%8A%E6%9D%A5%E8%B6%8A%E4%BD%8E%E4%BA%86%E5%90%97%23" target="weibo">
+教育回报率越来越低了吗（热度：63769）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E9%A6%99%E6%B8%AF%23" target="weibo">
 五月天香港（热度：61740）
 </a>
@@ -2493,12 +2499,6 @@ C罗帽子戏法（热度：46029）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%9B%9E%E6%8A%A5%E7%8E%87%E8%B6%8A%E6%9D%A5%E8%B6%8A%E4%BD%8E%E4%BA%86%E5%90%97%23" target="weibo">
-教育回报率越来越低了吗（热度：40734）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%A5%BFvs%E8%A5%BF%E6%B1%89%E5%A7%86%E8%81%94%23" target="weibo">
 切尔西vs西汉姆联（热度：38128）
 </a>
@@ -2531,6 +2531,12 @@ C罗帽子戏法（热度：46029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%B3%89%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 蔡依林泉州演唱会（热度：27657）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%B7%B1%E5%9C%B3%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+林俊杰深圳演唱会（热度：24592）
 </a>
 </li>
 
