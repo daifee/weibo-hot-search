@@ -1,6 +1,6 @@
 {
   "startTime": 1714926165838,
-  "endTime": 1714926992604,
+  "endTime": 1714929359095,
   "band_list": [
     {
       "raw_hot": 1035239,
@@ -299,6 +299,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 107776,
+      "num": 107776,
+      "word": "为什么年轻人流行偷偷领证",
+      "onboard_time": 1714926737,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105643,
       "num": 105643,
       "word": "杨幂回应首次把真发染红",
@@ -313,6 +321,14 @@
       "onboard_time": 1714918581,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104409,
+      "num": 104409,
+      "word": "白鹿纯白花嫁",
+      "onboard_time": 1714927275,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 102582,
@@ -387,19 +403,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75794,
+      "num": 75794,
+      "word": "中法关系始终走在中国同西方国家关系前列",
+      "onboard_time": 1714928535,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74827,
       "num": 85080,
       "word": "怎么刚放假又要上班了",
       "onboard_time": 1714919482,
       "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 68731,
-      "num": 68731,
-      "word": "为什么年轻人流行偷偷领证",
-      "onboard_time": 1714926737,
-      "rank": 46,
       "category": "情感"
     },
     {
@@ -411,12 +427,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53494,
+      "num": 53494,
+      "word": "BLG上上签",
+      "onboard_time": 1714915099,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 49174,
+      "num": 49174,
+      "word": "苏打绿巡演",
+      "onboard_time": 1714927575,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 29264,
       "num": 451645,
       "word": "数说中法合作亮眼成绩单",
       "onboard_time": 1714914019,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11434,
+      "num": 288105,
+      "word": "文化中国行发现节气之美",
+      "onboard_time": 1714896140,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

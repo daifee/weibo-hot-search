@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714926992604,
+  "endTime": 1714929359095,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -12835,6 +12835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107776,
+      "num": 107776,
+      "word": "为什么年轻人流行偷偷领证",
+      "onboard_time": 1714926737,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107774,
       "num": 107774,
       "word": "AG首个晋级胜者组决赛",
@@ -12977,6 +12985,14 @@
       "onboard_time": 1714897879,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104409,
+      "num": 104409,
+      "word": "白鹿纯白花嫁",
+      "onboard_time": 1714927275,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 104341,
@@ -13603,6 +13619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75794,
+      "num": 75794,
+      "word": "中法关系始终走在中国同西方国家关系前列",
+      "onboard_time": 1714928535,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 75693,
       "num": 75693,
       "word": "别人求婚李健心领了",
@@ -13681,14 +13705,6 @@
       "onboard_time": 1714847833,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68731,
-      "num": 68731,
-      "word": "为什么年轻人流行偷偷领证",
-      "onboard_time": 1714926737,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 68401,
@@ -14009,6 +14025,14 @@
       "onboard_time": 1714516633,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49174,
+      "num": 49174,
+      "word": "苏打绿巡演",
+      "onboard_time": 1714927575,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 49144,
