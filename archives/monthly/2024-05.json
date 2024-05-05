@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714882951657,
+  "endTime": 1714883742573,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -195,6 +195,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1814521,
+      "num": 1814521,
+      "word": "一顿火锅撤档",
+      "onboard_time": 1714882879,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1788659,
       "num": 885408,
       "word": "蜜雪冰城就重庆空包致歉",
@@ -360,6 +368,14 @@
       "word": "731部队最新罪证",
       "onboard_time": 1714790477,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1416658,
+      "num": 1416658,
+      "word": "香飘飘董事长现身机场接赴日回国员工",
+      "onboard_time": 1714882879,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1187,6 +1203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 781739,
+      "num": 781739,
+      "word": "这就是双休和单休的工作环境",
+      "onboard_time": 1714879938,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 781012,
       "num": 207541,
       "word": "殷世航 两米八",
@@ -1225,14 +1249,6 @@
       "onboard_time": 1714615158,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 770022,
-      "num": 770022,
-      "word": "这就是双休和单休的工作环境",
-      "onboard_time": 1714879938,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 765313,
@@ -1899,14 +1915,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 569143,
-      "num": 569143,
-      "word": "香飘飘董事长现身机场接赴日回国员工",
-      "onboard_time": 1714882879,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 567741,
       "num": 567741,
       "word": "纪凌尘换发型了",
@@ -2385,6 +2393,14 @@
       "onboard_time": 1714695436,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472135,
+      "num": 472135,
+      "word": "你用了很久的微信置顶文案是什么",
+      "onboard_time": 1714879938,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 471485,
@@ -3067,14 +3083,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 402832,
-      "num": 402832,
-      "word": "你用了很久的微信置顶文案是什么",
-      "onboard_time": 1714879938,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 401775,
       "num": 401775,
       "word": "淄博烧烤",
@@ -3531,6 +3539,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 348227,
+      "num": 339390,
+      "word": "37岁养羊男子娶19岁越南新娘",
+      "onboard_time": 1714881799,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 347832,
       "num": 347832,
       "word": "广东中山4条出逃鳄鱼已找回3条",
@@ -3633,14 +3649,6 @@
       "onboard_time": 1714638979,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 339390,
-      "num": 339390,
-      "word": "37岁养羊男子娶19岁越南新娘",
-      "onboard_time": 1714881799,
-      "rank": 21,
-      "category": "国外时政"
     },
     {
       "raw_hot": 339323,
@@ -4283,6 +4291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 278453,
+      "num": 278453,
+      "word": "坡子街",
+      "onboard_time": 1714882698,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 278084,
       "num": 278084,
       "word": "爱德华兹吸粉",
@@ -4368,6 +4384,14 @@
       "word": "那英说录声生不息哭得乱七八糟",
       "onboard_time": 1714557979,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 271063,
+      "num": 271063,
+      "word": "宋轶不敢坐何超莲开的越野车",
+      "onboard_time": 1714882520,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -4547,14 +4571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260289,
-      "num": 260289,
-      "word": "宋轶不敢坐何超莲开的越野车",
-      "onboard_time": 1714882520,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 259795,
       "num": 259795,
       "word": "余承东卸任华为终端BGCEO",
@@ -4593,6 +4609,14 @@
       "onboard_time": 1714520416,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 256797,
+      "num": 256797,
+      "word": "B站回应短片被举报涉嫌洗稿",
+      "onboard_time": 1714882340,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 255910,
@@ -4705,6 +4729,14 @@
       "onboard_time": 1714659020,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248273,
+      "num": 248273,
+      "word": "古巴旅游",
+      "onboard_time": 1714882160,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 248135,
@@ -5099,6 +5131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 230069,
+      "num": 347214,
+      "word": "日本儿童人口创最低纪录",
+      "onboard_time": 1714882399,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229471,
       "num": 229471,
       "word": "北方人能有多抵触吃挂面",
@@ -5219,14 +5259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225131,
-      "num": 225131,
-      "word": "B站回应短片被举报涉嫌洗稿",
-      "onboard_time": 1714882340,
-      "rank": 28,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 225052,
       "num": 225052,
       "word": "甘露寺蜜玻美甲",
@@ -5244,7 +5276,7 @@
     },
     {
       "raw_hot": 223671,
-      "num": 217102,
+      "num": 217751,
       "word": "老舅说故意把山河图写绕口",
       "onboard_time": 1714881679,
       "rank": 30,
@@ -5435,14 +5467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215963,
-      "num": 215963,
-      "word": "古巴旅游",
-      "onboard_time": 1714882160,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 215661,
       "num": 215661,
       "word": "成毅工作室放饭",
@@ -5563,6 +5587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210720,
+      "num": 210720,
+      "word": "何冰娇 埃斯特",
+      "onboard_time": 1714883359,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210541,
       "num": 173378,
       "word": "总裁谈间谍过家家不邀请明星配音",
@@ -5675,14 +5707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207202,
-      "num": 207202,
-      "word": "一顿火锅撤档",
-      "onboard_time": 1714882879,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 207201,
       "num": 207201,
       "word": "迪丽热巴推镇推时髦的巴丽",
@@ -5745,6 +5769,14 @@
       "onboard_time": 1714742359,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206095,
+      "num": 206095,
+      "word": "易烊千玺还有库存",
+      "onboard_time": 1714883178,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 205912,
@@ -6003,6 +6035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201153,
+      "num": 201153,
+      "word": "邓超也会尴尬吗",
+      "onboard_time": 1714882879,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200946,
       "num": 200946,
       "word": "王一博渐变色冲锋衣",
@@ -6057,6 +6097,14 @@
       "onboard_time": 1714799598,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200580,
+      "num": 200580,
+      "word": "B站五四青年节短片",
+      "onboard_time": 1714882879,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 200216,
@@ -6451,6 +6499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194218,
+      "num": 194218,
+      "word": "因为没有秒回信息被开除了",
+      "onboard_time": 1714882640,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194025,
       "num": 194025,
       "word": "狼队第五人格",
@@ -6705,14 +6761,6 @@
       "onboard_time": 1714700478,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 188004,
-      "num": 188004,
-      "word": "因为没有秒回信息被开除了",
-      "onboard_time": 1714882640,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 187911,
@@ -7193,14 +7241,6 @@
       "onboard_time": 1714750041,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176313,
-      "num": 176313,
-      "word": "坡子街",
-      "onboard_time": 1714882698,
-      "rank": 40,
-      "category": "旅游"
     },
     {
       "raw_hot": 176307,
@@ -7995,14 +8035,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 161276,
-      "num": 161276,
-      "word": "B站五四青年节短片",
-      "onboard_time": 1714882879,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 161229,
       "num": 161229,
       "word": "沈月加入内娱薯片了",
@@ -8273,14 +8305,6 @@
       "onboard_time": 1714882640,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 155669,
-      "num": 155669,
-      "word": "邓超也会尴尬吗",
-      "onboard_time": 1714882879,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 155190,
@@ -8745,6 +8769,14 @@
       "onboard_time": 1714820719,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 147652,
+      "num": 147652,
+      "word": "大馋丫头最好别谈恋爱",
+      "onboard_time": 1714882999,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 147613,
@@ -10516,7 +10548,7 @@
     },
     {
       "raw_hot": 115818,
-      "num": 871347,
+      "num": 1289659,
       "word": "追光的你",
       "onboard_time": 1714791918,
       "rank": 36,
@@ -11507,14 +11539,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 93853,
-      "num": 347214,
-      "word": "日本儿童人口创最低纪录",
-      "onboard_time": 1714882399,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93218,
       "num": 93218,
       "word": "周深说永远不要小瞧自己",
@@ -12457,6 +12481,14 @@
       "onboard_time": 1714761372,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 12157,
+      "num": 131679,
+      "word": "青岛啤酒登上央视三分钟",
+      "onboard_time": 1714883660,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4564,

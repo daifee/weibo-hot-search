@@ -1,0 +1,410 @@
+{
+  "runTime": 1714883742573,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1814521,
+        "num": 1814521,
+        "word": "一顿火锅撤档",
+        "onboard_time": 1714882879,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1416658,
+        "num": 1416658,
+        "word": "香飘飘董事长现身机场接赴日回国员工",
+        "onboard_time": 1714882879,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4837,
+        "num": 1289659,
+        "word": "追光的你",
+        "onboard_time": 1714791918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1188773,
+        "num": 1188773,
+        "word": "端午节假期不调休",
+        "onboard_time": 1714873818,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 974155,
+        "num": 974155,
+        "word": "边伯贤微博",
+        "onboard_time": 1714879938,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 825016,
+        "num": 825016,
+        "word": "莫里斯遗体在洛杉矶地区被发现",
+        "onboard_time": 1714880598,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 781739,
+        "num": 781739,
+        "word": "这就是双休和单休的工作环境",
+        "onboard_time": 1714879938,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 731698,
+        "num": 731698,
+        "word": "韩国第一夫人被专案调查",
+        "onboard_time": 1714877778,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 517602,
+        "num": 517602,
+        "word": "5月5日8时10分迎来立夏",
+        "onboard_time": 1714866374,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149778,
+        "num": 511258,
+        "word": "90后自媒体创业2天入账74万",
+        "onboard_time": 1714834821,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509508,
+        "num": 509508,
+        "word": "入职信息已婚填未婚遭公司解约",
+        "onboard_time": 1714880417,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500835,
+        "num": 500835,
+        "word": "原来爱莲说描写的是真的",
+        "onboard_time": 1714877778,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 472135,
+        "num": 472135,
+        "word": "你用了很久的微信置顶文案是什么",
+        "onboard_time": 1714879938,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 468240,
+        "num": 468240,
+        "word": "吴镇宇 金莎没有能力带他的",
+        "onboard_time": 1714879457,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415423,
+        "num": 415423,
+        "word": "金珉锡微博",
+        "onboard_time": 1714881620,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365811,
+        "num": 365811,
+        "word": "莫里斯去世",
+        "onboard_time": 1714866374,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354427,
+        "num": 354427,
+        "word": "为什么现在的煎鸡蛋都长这样",
+        "onboard_time": 1714881258,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 353465,
+        "num": 353465,
+        "word": "为什么吃面比吃米更胖人",
+        "onboard_time": 1714876279,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 283902,
+        "num": 283902,
+        "word": "iPhone16全系电池壳供应商是中国公司",
+        "onboard_time": 1714877537,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 282154,
+        "num": 282154,
+        "word": "INB100",
+        "onboard_time": 1714881258,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398775,
+        "num": 281864,
+        "word": "庄达菲谈与肖战合作感受",
+        "onboard_time": 1714879518,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 348227,
+        "num": 280553,
+        "word": "37岁养羊男子娶19岁越南新娘",
+        "onboard_time": 1714881799,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 278453,
+        "num": 278453,
+        "word": "坡子街",
+        "onboard_time": 1714882698,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 271063,
+        "num": 271063,
+        "word": "宋轶不敢坐何超莲开的越野车",
+        "onboard_time": 1714882520,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230069,
+        "num": 262135,
+        "word": "日本儿童人口创最低纪录",
+        "onboard_time": 1714882399,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260818,
+        "num": 260818,
+        "word": "金钟大开通微博",
+        "onboard_time": 1714879518,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256797,
+        "num": 256797,
+        "word": "B站回应短片被举报涉嫌洗稿",
+        "onboard_time": 1714882340,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 251211,
+        "num": 251211,
+        "word": "丁程鑫出发新加坡录花少",
+        "onboard_time": 1714877898,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248273,
+        "num": 248273,
+        "word": "古巴旅游",
+        "onboard_time": 1714882160,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 217751,
+        "num": 217751,
+        "word": "老舅说故意把山河图写绕口",
+        "onboard_time": 1714881679,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212308,
+        "num": 212308,
+        "word": "张杰陈楚生撞衫",
+        "onboard_time": 1714871720,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210720,
+        "num": 210720,
+        "word": "何冰娇 埃斯特",
+        "onboard_time": 1714883359,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206095,
+        "num": 206095,
+        "word": "易烊千玺还有库存",
+        "onboard_time": 1714883178,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201153,
+        "num": 201153,
+        "word": "邓超也会尴尬吗",
+        "onboard_time": 1714882879,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200580,
+        "num": 200580,
+        "word": "B站五四青年节短片",
+        "onboard_time": 1714882879,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 208386,
+        "num": 198330,
+        "word": "谢娜接张杰下班",
+        "onboard_time": 1714874778,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194218,
+        "num": 194218,
+        "word": "因为没有秒回信息被开除了",
+        "onboard_time": 1714882640,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185547,
+        "num": 185547,
+        "word": "古巴对中国公民免签",
+        "onboard_time": 1714879157,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180847,
+        "num": 180847,
+        "word": "讨厌不发信息直接弹语音电话的人",
+        "onboard_time": 1714882217,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177568,
+        "num": 177568,
+        "word": "你喝咖啡会感到不舒服吗",
+        "onboard_time": 1714878917,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176822,
+        "num": 176822,
+        "word": "宋亚轩cos关晓彤",
+        "onboard_time": 1714868837,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176353,
+        "num": 176353,
+        "word": "贺军翔还在还房贷",
+        "onboard_time": 1714868958,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5660,
+        "num": 175106,
+        "word": "文化中国行我写家乡",
+        "onboard_time": 1714742900,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174178,
+        "num": 174178,
+        "word": "日本专家提议外国人交游客税",
+        "onboard_time": 1714874838,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147872,
+        "num": 147872,
+        "word": "爆炸撕裂下坠 夜下摘星踏月",
+        "onboard_time": 1714868658,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147652,
+        "num": 147652,
+        "word": "大馋丫头最好别谈恋爱",
+        "onboard_time": 1714882999,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139109,
+        "num": 139109,
+        "word": "真的有养不熟的猫",
+        "onboard_time": 1714880179,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132842,
+        "num": 132842,
+        "word": "时代少年团的退场方式",
+        "onboard_time": 1714881199,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132072,
+        "num": 132072,
+        "word": "严浩翔演唱会跟粉丝唠了五块钱的",
+        "onboard_time": 1714880657,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12157,
+        "num": 131679,
+        "word": "青岛啤酒登上央视三分钟",
+        "onboard_time": 1714883660,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄语新时代青年#"
+    }
+  }
+}

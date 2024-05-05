@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714882951657,
+  "endTime": 1714883742573,
   "band_list": [
     {
       "raw_hot": 2576403,
@@ -11,11 +11,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1814521,
+      "num": 1814521,
+      "word": "一顿火锅撤档",
+      "onboard_time": 1714882879,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1453852,
       "num": 1453852,
       "word": "5月5日8时10分迎来立夏",
       "onboard_time": 1714866374,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1416658,
+      "num": 1416658,
+      "word": "香飘飘董事长现身机场接赴日回国员工",
+      "onboard_time": 1714882879,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -91,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 770022,
-      "num": 770022,
+      "raw_hot": 781739,
+      "num": 781739,
       "word": "这就是双休和单休的工作环境",
       "onboard_time": 1714879938,
       "rank": 30,
@@ -155,14 +171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 569143,
-      "num": 569143,
-      "word": "香飘飘董事长现身机场接赴日回国员工",
-      "onboard_time": 1714882879,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 534794,
       "num": 534794,
       "word": "入职信息已婚填未婚遭公司解约",
@@ -209,6 +217,14 @@
       "onboard_time": 1714868658,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 472135,
+      "num": 472135,
+      "word": "你用了很久的微信置顶文案是什么",
+      "onboard_time": 1714879938,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 461487,
@@ -299,14 +315,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 402832,
-      "num": 402832,
-      "word": "你用了很久的微信置顶文案是什么",
-      "onboard_time": 1714879938,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 402148,
       "num": 402148,
       "word": "卵巢过快衰老的几个信号",
@@ -355,7 +363,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 339390,
+      "raw_hot": 348227,
       "num": 339390,
       "word": "37岁养羊男子娶19岁越南新娘",
       "onboard_time": 1714881799,
@@ -443,12 +451,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 278453,
+      "num": 278453,
+      "word": "坡子街",
+      "onboard_time": 1714882698,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 278084,
       "num": 278084,
       "word": "爱德华兹吸粉",
       "onboard_time": 1714873038,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271063,
+      "num": 271063,
+      "word": "宋轶不敢坐何超莲开的越野车",
+      "onboard_time": 1714882520,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 264383,
@@ -467,12 +491,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 260289,
-      "num": 260289,
-      "word": "宋轶不敢坐何超莲开的越野车",
-      "onboard_time": 1714882520,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 256797,
+      "num": 256797,
+      "word": "B站回应短片被举报涉嫌洗稿",
+      "onboard_time": 1714882340,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 248723,
@@ -481,6 +505,14 @@
       "onboard_time": 1714868116,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 248273,
+      "num": 248273,
+      "word": "古巴旅游",
+      "onboard_time": 1714882160,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 247043,
@@ -515,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230069,
+      "num": 347214,
+      "word": "日本儿童人口创最低纪录",
+      "onboard_time": 1714882399,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229913,
       "num": 229913,
       "word": "用户借胖猫事件煽动性别对立等被处置",
@@ -539,16 +579,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 225131,
-      "num": 225131,
-      "word": "B站回应短片被举报涉嫌洗稿",
-      "onboard_time": 1714882340,
-      "rank": 28,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 223671,
-      "num": 217102,
+      "num": 217751,
       "word": "老舅说故意把山河图写绕口",
       "onboard_time": 1714881679,
       "rank": 30,
@@ -587,20 +619,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 215963,
-      "num": 215963,
-      "word": "古巴旅游",
-      "onboard_time": 1714882160,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 213520,
       "num": 213520,
       "word": "真的有养不熟的猫",
       "onboard_time": 1714880179,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210720,
+      "num": 210720,
+      "word": "何冰娇 埃斯特",
+      "onboard_time": 1714883359,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 208502,
@@ -619,12 +651,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207202,
-      "num": 207202,
-      "word": "一顿火锅撤档",
+      "raw_hot": 206095,
+      "num": 206095,
+      "word": "易烊千玺还有库存",
+      "onboard_time": 1714883178,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201153,
+      "num": 201153,
+      "word": "邓超也会尴尬吗",
       "onboard_time": 1714882879,
-      "rank": 34,
-      "category": "电影"
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 200580,
+      "num": 200580,
+      "word": "B站五四青年节短片",
+      "onboard_time": 1714882879,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 197437,
@@ -667,6 +715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194218,
+      "num": 194218,
+      "word": "因为没有秒回信息被开除了",
+      "onboard_time": 1714882640,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191409,
       "num": 217958,
       "word": "俄媒称俄内务部决定通缉泽连斯基",
@@ -691,14 +747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 188004,
-      "num": 188004,
-      "word": "因为没有秒回信息被开除了",
-      "onboard_time": 1714882640,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 187035,
       "num": 187035,
       "word": "李斯丹妮秒答杨幂白浅",
@@ -721,14 +769,6 @@
       "onboard_time": 1714838719,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176313,
-      "num": 176313,
-      "word": "坡子街",
-      "onboard_time": 1714882698,
-      "rank": 40,
-      "category": "旅游"
     },
     {
       "raw_hot": 175746,
@@ -803,14 +843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 161276,
-      "num": 161276,
-      "word": "B站五四青年节短片",
-      "onboard_time": 1714882879,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 161229,
       "num": 161229,
       "word": "沈月加入内娱薯片了",
@@ -867,14 +899,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 155669,
-      "num": 155669,
-      "word": "邓超也会尴尬吗",
-      "onboard_time": 1714882879,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155224,
       "num": 217942,
       "word": "男朋友想一个人去旅游该阻止吗",
@@ -913,6 +937,14 @@
       "onboard_time": 1714873578,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147652,
+      "num": 147652,
+      "word": "大馋丫头最好别谈恋爱",
+      "onboard_time": 1714882999,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 145411,
@@ -1187,14 +1219,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 93853,
-      "num": 347214,
-      "word": "日本儿童人口创最低纪录",
-      "onboard_time": 1714882399,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92776,
       "num": 217904,
       "word": "王鹤润演技",
@@ -1427,10 +1451,26 @@
       "category": "演出"
     },
     {
+      "raw_hot": 12157,
+      "num": 131679,
+      "word": "青岛啤酒登上央视三分钟",
+      "onboard_time": 1714883660,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7382,
       "num": 1274462,
       "word": "文化中国行我写家乡",
       "onboard_time": 1714742900,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4837,
+      "num": 1289659,
+      "word": "追光的你",
+      "onboard_time": 1714791918,
       "rank": 2,
       "category": "社会新闻"
     }
