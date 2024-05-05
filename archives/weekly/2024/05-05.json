@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714922349055,
+  "endTime": 1714923264198,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -59,6 +59,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1507382,
+      "num": 1507382,
+      "word": "凤凰传奇观众被质疑假唱",
+      "onboard_time": 1714919121,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1503179,
       "num": 1503179,
       "word": "医院被举报代孕1小时后产妇出院被疑通风报信",
@@ -97,14 +105,6 @@
       "onboard_time": 1714879938,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1285809,
-      "num": 1285809,
-      "word": "凤凰传奇观众被质疑假唱",
-      "onboard_time": 1714919121,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 1280606,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 817992,
+      "num": 817992,
+      "word": "女老师遭网课爆破后死亡案进展",
+      "onboard_time": 1714920142,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809974,
       "num": 809974,
       "word": "国羽女队第16次夺得尤伯杯冠军",
@@ -337,14 +345,6 @@
       "onboard_time": 1714913599,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 724599,
-      "num": 724599,
-      "word": "女老师遭网课爆破后死亡案进展",
-      "onboard_time": 1714920142,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 712165,
@@ -571,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498433,
+      "num": 498433,
+      "word": "小胖的梦奇",
+      "onboard_time": 1714919301,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 487585,
       "num": 244391,
       "word": "父亲因没钱给女儿买手机自责跪地",
@@ -745,14 +753,6 @@
       "onboard_time": 1714871237,
       "rank": 15,
       "category": "美食"
-    },
-    {
-      "raw_hot": 425450,
-      "num": 425450,
-      "word": "小胖的梦奇",
-      "onboard_time": 1714919301,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 425043,
@@ -2075,6 +2075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172306,
+      "num": 172306,
+      "word": "曾毅 老来俏",
+      "onboard_time": 1714922480,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172285,
       "num": 172285,
       "word": "刘亦菲一个活动两套高定",
@@ -2833,6 +2841,14 @@
       "onboard_time": 1714877718,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118276,
+      "num": 118276,
+      "word": "塞尔维亚街头现巨幅中国国旗",
+      "onboard_time": 1714923079,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 118168,
