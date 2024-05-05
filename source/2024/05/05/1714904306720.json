@@ -1,0 +1,410 @@
+{
+  "runTime": 1714904306720,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2227183,
+        "num": 2227183,
+        "word": "未来三天有可能爆发M级甚至X级以上耀斑",
+        "onboard_time": 1714897518,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675061,
+        "num": 675061,
+        "word": "太疲惫身体会变臭",
+        "onboard_time": 1714902199,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46263,
+        "num": 562807,
+        "word": "文化中国行发现节气之美",
+        "onboard_time": 1714896140,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557965,
+        "num": 557965,
+        "word": "我也退出五一档了",
+        "onboard_time": 1714892358,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 454793,
+        "num": 454793,
+        "word": "还我五一",
+        "onboard_time": 1714901959,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 353119,
+        "num": 353119,
+        "word": "山东10个馄饨250克吃懵南方人",
+        "onboard_time": 1714896439,
+        "rank": 5,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 304014,
+        "num": 304014,
+        "word": "叶祖新怎么越老越帅",
+        "onboard_time": 1714897639,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244959,
+        "num": 244959,
+        "word": "返校",
+        "onboard_time": 1714903100,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126381,
+        "num": 243767,
+        "word": "五一感受到了绝对安全感",
+        "onboard_time": 1714889177,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160859,
+        "num": 243403,
+        "word": "新娘出嫁小狗用身体挡婚车不让走",
+        "onboard_time": 1714902619,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1216674,
+        "num": 241799,
+        "word": "医院被举报代孕1小时后产妇出院被疑通风报信",
+        "onboard_time": 1714897279,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1038845,
+        "num": 240348,
+        "word": "开封王婆怒怼亳州王婆",
+        "onboard_time": 1714902619,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437358,
+        "num": 239021,
+        "word": "女子买3叫花鸡回家发现2只仅有泥巴",
+        "onboard_time": 1714902019,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427814,
+        "num": 237307,
+        "word": "女子称住酒店裸睡被人强行刷开房门",
+        "onboard_time": 1714889118,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361869,
+        "num": 235964,
+        "word": "马来西亚女子称被生父强奸8年",
+        "onboard_time": 1714898539,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340125,
+        "num": 235245,
+        "word": "王力宏 山东省文旅厅",
+        "onboard_time": 1714894159,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 315571,
+        "num": 233432,
+        "word": "王耀庆连续煎了21天鸡蛋",
+        "onboard_time": 1714901659,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292524,
+        "num": 232569,
+        "word": "泰国男子性侵邻居遭反杀家属不追究",
+        "onboard_time": 1714895657,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168785,
+        "num": 230359,
+        "word": "黄昏跟柯南学废了",
+        "onboard_time": 1714902799,
+        "rank": 18,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 266361,
+        "num": 228656,
+        "word": "河大一研究生论文曾指出礼堂消防隐患",
+        "onboard_time": 1714902260,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660574,
+        "num": 227222,
+        "word": "黄子韬徐艺洋吵架受伤的是姜潮",
+        "onboard_time": 1714895539,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523300,
+        "num": 226512,
+        "word": "杨幂回应首次把真发染红",
+        "onboard_time": 1714895118,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 453022,
+        "num": 225690,
+        "word": "爸爸才四十多岁就不工作了",
+        "onboard_time": 1714892780,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 348207,
+        "num": 223120,
+        "word": "迪丽热巴旗袍",
+        "onboard_time": 1714893139,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323873,
+        "num": 221608,
+        "word": "杨紫发文祝张一山生日快乐",
+        "onboard_time": 1714895419,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262915,
+        "num": 220997,
+        "word": "沈腾马丽炫彩小卡",
+        "onboard_time": 1714900519,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220188,
+        "num": 220188,
+        "word": "魏大勋脚上的红绳被P掉了",
+        "onboard_time": 1714902559,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208267,
+        "num": 208267,
+        "word": "童瑶听到八离世家的反应",
+        "onboard_time": 1714902019,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203139,
+        "num": 203139,
+        "word": "肖战地广有了新的打开方式",
+        "onboard_time": 1714900880,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186751,
+        "num": 186751,
+        "word": "好像和结了婚的朋友慢慢变淡了",
+        "onboard_time": 1714898479,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176262,
+        "num": 176262,
+        "word": "游泳教练憋气练习时意外溺亡",
+        "onboard_time": 1714886418,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166044,
+        "num": 166044,
+        "word": "性格内向是职场的隐形天花板吗",
+        "onboard_time": 1714901779,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162728,
+        "num": 162728,
+        "word": "迪丽热巴露背灰裙",
+        "onboard_time": 1714903878,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156190,
+        "num": 156190,
+        "word": "金价重回5时代",
+        "onboard_time": 1714891339,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155899,
+        "num": 155899,
+        "word": "一顿火锅撤档",
+        "onboard_time": 1714882879,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149804,
+        "num": 149804,
+        "word": "很烧钱却小众的爱好",
+        "onboard_time": 1714892780,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147855,
+        "num": 147855,
+        "word": "丈夫病危妻子请假照顾被开除",
+        "onboard_time": 1714902139,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142169,
+        "num": 142169,
+        "word": "鞠婧祎露腰穿搭",
+        "onboard_time": 1714901719,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140581,
+        "num": 140581,
+        "word": "五一 撤档",
+        "onboard_time": 1714883899,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139535,
+        "num": 139535,
+        "word": "6G手机比5G手机快500倍",
+        "onboard_time": 1714896378,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138662,
+        "num": 138662,
+        "word": "鹿晗五哈镜头",
+        "onboard_time": 1714898000,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137164,
+        "num": 137164,
+        "word": "杨紫张一山认识20年了",
+        "onboard_time": 1714899260,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136905,
+        "num": 136905,
+        "word": "眉庄去世为什么太后不闻不问",
+        "onboard_time": 1714888458,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136509,
+        "num": 136509,
+        "word": "这种酸奶千万别喝",
+        "onboard_time": 1714892060,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130714,
+        "num": 130714,
+        "word": "陈赫妈妈是来录陈赫吐槽大会吗",
+        "onboard_time": 1714889239,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130149,
+        "num": 130149,
+        "word": "威海5岁男童疑被打死事件最新进展",
+        "onboard_time": 1714899320,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129149,
+        "num": 129149,
+        "word": "一顿火锅出品方多达16家",
+        "onboard_time": 1714899079,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119619,
+        "num": 119619,
+        "word": "李现张杰互关",
+        "onboard_time": 1714903999,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118793,
+        "num": 118793,
+        "word": "上海等级考物理",
+        "onboard_time": 1714903519,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114732,
+        "num": 114732,
+        "word": "云南怎么什么节日都有",
+        "onboard_time": 1714904058,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平离京对三国进行国事访问#"
+    }
+  }
+}
