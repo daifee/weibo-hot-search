@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714912283854,
+  "endTime": 1714913182795,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1910543,
-      "num": 1910543,
+      "raw_hot": 2255591,
+      "num": 2255591,
       "word": "发烧",
       "onboard_time": 1714910719,
       "rank": 0,
@@ -251,6 +251,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 798400,
+      "num": 290848,
+      "word": "网购7700元迪士尼套餐最终民警护送入园",
+      "onboard_time": 1714910658,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 781739,
       "num": 781739,
       "word": "这就是双休和单休的工作环境",
@@ -272,14 +280,6 @@
       "word": "泰国男子性侵邻居遭反杀家属不追究",
       "onboard_time": 1714895657,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 743336,
-      "num": 290848,
-      "word": "网购7700元迪士尼套餐最终民警护送入园",
-      "onboard_time": 1714910658,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534255,
+      "num": 534255,
+      "word": "卡塔尔准备接受美国要求将哈马斯领导人驱逐",
+      "onboard_time": 1714908499,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 527466,
       "num": 509244,
       "word": "迪丽热巴旗袍",
@@ -483,12 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 495577,
-      "num": 495577,
-      "word": "卡塔尔准备接受美国要求将哈马斯领导人驱逐",
+      "raw_hot": 487585,
+      "num": 199339,
+      "word": "父亲因没钱给女儿买手机自责跪地",
       "onboard_time": 1714908499,
-      "rank": 36,
-      "category": "国外时政"
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486084,
@@ -523,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 473870,
-      "num": 199339,
-      "word": "父亲因没钱给女儿买手机自责跪地",
-      "onboard_time": 1714908499,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 473482,
+      "num": 473482,
+      "word": "王昶好帅",
+      "onboard_time": 1714910057,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 472878,
@@ -723,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383397,
+      "num": 196328,
+      "word": "马思纯长发回归",
+      "onboard_time": 1714911259,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 373393,
       "num": 373393,
       "word": "苗苗自己给自己化妆",
@@ -827,20 +843,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322084,
+      "num": 322084,
+      "word": "魏大勋脚上的红绳被P掉了",
+      "onboard_time": 1714902559,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321259,
       "num": 321259,
       "word": "古巴对中国公民免签",
       "onboard_time": 1714879157,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320297,
-      "num": 196328,
-      "word": "马思纯长发回归",
-      "onboard_time": 1714911259,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 317502,
@@ -859,6 +875,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310691,
+      "num": 198647,
+      "word": "张一山卡点回复杨紫",
+      "onboard_time": 1714908259,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 310183,
+      "num": 194346,
+      "word": "金秀贤金智媛ins更新照",
+      "onboard_time": 1714911859,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304014,
       "num": 304014,
       "word": "叶祖新怎么越老越帅",
@@ -867,36 +899,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302910,
-      "num": 198647,
-      "word": "张一山卡点回复杨紫",
-      "onboard_time": 1714908259,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 301756,
-      "num": 301756,
-      "word": "魏大勋脚上的红绳被P掉了",
-      "onboard_time": 1714902559,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 297074,
       "num": 297074,
       "word": "金价跌至近一个月低点",
       "onboard_time": 1714822098,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 296148,
-      "num": 296148,
-      "word": "王昶好帅",
-      "onboard_time": 1714910057,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 290685,
@@ -1003,6 +1011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 260459,
+      "num": 260459,
+      "word": "买榴莲要买像荔枝的",
+      "onboard_time": 1714905318,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 258140,
       "num": 235770,
       "word": "孟佳当选手被张雨绮秒淘汰",
@@ -1043,6 +1059,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 246905,
+      "num": 246905,
+      "word": "梁王关键分",
+      "onboard_time": 1714911259,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244959,
       "num": 244959,
       "word": "返校",
@@ -1051,28 +1075,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 240955,
-      "num": 240955,
-      "word": "买榴莲要买像荔枝的",
-      "onboard_time": 1714905318,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 238965,
       "num": 238965,
       "word": "立夏",
       "onboard_time": 1714864094,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237759,
-      "num": 194346,
-      "word": "金秀贤金智媛ins更新照",
-      "onboard_time": 1714911859,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 236898,
@@ -1291,14 +1299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205339,
-      "num": 205339,
-      "word": "梁王关键分",
-      "onboard_time": 1714911259,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201542,
       "num": 364752,
       "word": "为什么女性一定要养好气血",
@@ -1368,6 +1368,14 @@
       "word": "梅西1球5助攻",
       "onboard_time": 1714875378,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196272,
+      "num": 196272,
+      "word": "汤杯",
+      "onboard_time": 1714912940,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -1499,6 +1507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187710,
+      "num": 187710,
+      "word": "MSI抽签",
+      "onboard_time": 1714912219,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187035,
       "num": 187035,
       "word": "李斯丹妮秒答杨幂白浅",
@@ -1547,6 +1563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184094,
+      "num": 184094,
+      "word": "戴眼镜的吃饭可以拿来当支架",
+      "onboard_time": 1714909759,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183628,
       "num": 183628,
       "word": "王一博看一眼再看一眼",
@@ -1577,6 +1601,14 @@
       "onboard_time": 1714838719,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181099,
+      "num": 260431,
+      "word": "新疆2元一个的烤包子火了",
+      "onboard_time": 1714909519,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 180666,
@@ -1753,14 +1785,6 @@
       "onboard_time": 1714821138,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 165983,
-      "num": 165983,
-      "word": "戴眼镜的吃饭可以拿来当支架",
-      "onboard_time": 1714909759,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 165020,
@@ -2019,6 +2043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146729,
+      "num": 146729,
+      "word": "张真源solo舞台合唱",
+      "onboard_time": 1714912158,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145411,
       "num": 145411,
       "word": "迈阿密国际vs纽约红牛",
@@ -2097,14 +2129,6 @@
       "onboard_time": 1714835900,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136414,
-      "num": 136414,
-      "word": "MSI抽签",
-      "onboard_time": 1714912219,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 135599,
@@ -2201,14 +2225,6 @@
       "onboard_time": 1714896679,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 127873,
-      "num": 196908,
-      "word": "新疆2元一个的烤包子火了",
-      "onboard_time": 1714909519,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 127198,
@@ -2411,6 +2427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117185,
+      "num": 117185,
+      "word": "一只章鱼的生死20秒",
+      "onboard_time": 1714912639,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 115786,
       "num": 115786,
       "word": "魏大勋浮潜",
@@ -2489,14 +2513,6 @@
       "onboard_time": 1714883660,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105777,
-      "num": 105777,
-      "word": "张真源solo舞台合唱",
-      "onboard_time": 1714912158,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 104874,
@@ -2715,6 +2731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 58883,
+      "num": 860461,
+      "word": "国羽女队捧杯瞬间",
+      "onboard_time": 1714895899,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56451,
       "num": 142571,
       "word": "李帝努脱了",
@@ -2745,14 +2769,6 @@
       "onboard_time": 1714896140,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46112,
-      "num": 860461,
-      "word": "国羽女队捧杯瞬间",
-      "onboard_time": 1714895899,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 46029,

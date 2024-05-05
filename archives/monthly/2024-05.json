@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714912283854,
+  "endTime": 1714913182795,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -163,6 +163,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 2255591,
+      "num": 2255591,
+      "word": "发烧",
+      "onboard_time": 1714910719,
+      "rank": 0,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 2215749,
       "num": 1326294,
       "word": "妹妹曝胖猫曾说他的老婆不需要上班",
@@ -201,14 +209,6 @@
       "onboard_time": 1714739361,
       "rank": 43,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 1910543,
-      "num": 1910543,
-      "word": "发烧",
-      "onboard_time": 1714910719,
-      "rank": 0,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1841073,
@@ -1339,6 +1339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 798400,
+      "num": 290848,
+      "word": "网购7700元迪士尼套餐最终民警护送入园",
+      "onboard_time": 1714910658,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 797138,
       "num": 797138,
       "word": "元气森林音乐节取消",
@@ -1448,14 +1456,6 @@
       "word": "取消公摊会导致房价上涨吗",
       "onboard_time": 1714743801,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 743336,
-      "num": 290848,
-      "word": "网购7700元迪士尼套餐最终民警护送入园",
-      "onboard_time": 1714910658,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -2339,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534255,
+      "num": 534255,
+      "word": "卡塔尔准备接受美国要求将哈马斯领导人驱逐",
+      "onboard_time": 1714908499,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 534188,
       "num": 495836,
       "word": "昆明蓝莓12元1盒震惊外地游客",
@@ -2547,14 +2555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 495577,
-      "num": 495577,
-      "word": "卡塔尔准备接受美国要求将哈马斯领导人驱逐",
-      "onboard_time": 1714908499,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 495262,
       "num": 251501,
       "word": "王一博身份证掉了",
@@ -2585,6 +2585,14 @@
       "onboard_time": 1714734860,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 487585,
+      "num": 199339,
+      "word": "父亲因没钱给女儿买手机自责跪地",
+      "onboard_time": 1714908499,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486742,
@@ -2699,12 +2707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 473870,
-      "num": 199339,
-      "word": "父亲因没钱给女儿买手机自责跪地",
-      "onboard_time": 1714908499,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 473482,
+      "num": 473482,
+      "word": "王昶好帅",
+      "onboard_time": 1714910057,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 472878,
@@ -3651,6 +3659,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 383397,
+      "num": 196328,
+      "word": "马思纯长发回归",
+      "onboard_time": 1714911259,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 382293,
       "num": 337388,
       "word": "官方介入调查空包外卖",
@@ -4259,6 +4275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 322084,
+      "num": 322084,
+      "word": "魏大勋脚上的红绳被P掉了",
+      "onboard_time": 1714902559,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321259,
       "num": 321259,
       "word": "古巴对中国公民免签",
@@ -4273,14 +4297,6 @@
       "onboard_time": 1714622418,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 320297,
-      "num": 196328,
-      "word": "马思纯长发回归",
-      "onboard_time": 1714911259,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 320173,
@@ -4371,6 +4387,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 310691,
+      "num": 198647,
+      "word": "张一山卡点回复杨紫",
+      "onboard_time": 1714908259,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 310183,
+      "num": 194346,
+      "word": "金秀贤金智媛ins更新照",
+      "onboard_time": 1714911859,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 309509,
       "num": 309509,
       "word": "元气森林音乐节取消6小时后又照常办了",
@@ -4433,22 +4465,6 @@
       "onboard_time": 1714897639,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 302910,
-      "num": 198647,
-      "word": "张一山卡点回复杨紫",
-      "onboard_time": 1714908259,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 301756,
-      "num": 301756,
-      "word": "魏大勋脚上的红绳被P掉了",
-      "onboard_time": 1714902559,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 301623,
@@ -4529,14 +4545,6 @@
       "onboard_time": 1714567998,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 296148,
-      "num": 296148,
-      "word": "王昶好帅",
-      "onboard_time": 1714910057,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 294798,
@@ -5067,6 +5075,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 260459,
+      "num": 260459,
+      "word": "买榴莲要买像荔枝的",
+      "onboard_time": 1714905318,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 260356,
       "num": 237232,
       "word": "韩最毒美女连环杀人犯真容曝光",
@@ -5283,6 +5299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 246905,
+      "num": 246905,
+      "word": "梁王关键分",
+      "onboard_time": 1714911259,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246158,
       "num": 246158,
       "word": "日本小学招不到新生招了只山羊",
@@ -5419,14 +5443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 240955,
-      "num": 240955,
-      "word": "买榴莲要买像荔枝的",
-      "onboard_time": 1714905318,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 240659,
       "num": 155094,
       "word": "医生让你查幽门螺旋杆菌是真想救你",
@@ -5513,14 +5529,6 @@
       "onboard_time": 1714709297,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 237759,
-      "num": 194346,
-      "word": "金秀贤金智媛ins更新照",
-      "onboard_time": 1714911859,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 236898,
@@ -6459,14 +6467,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 205339,
-      "num": 205339,
-      "word": "梁王关键分",
-      "onboard_time": 1714911259,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205032,
       "num": 205032,
       "word": "乐华男团从哇唧唧哇到时代峰峻",
@@ -7043,6 +7043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196272,
+      "num": 196272,
+      "word": "汤杯",
+      "onboard_time": 1714912940,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196190,
       "num": 196190,
       "word": "小鬼金属虎牙",
@@ -7531,6 +7539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187710,
+      "num": 187710,
+      "word": "MSI抽签",
+      "onboard_time": 1714912219,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187652,
       "num": 187652,
       "word": "应急管理部派工作组赴梅大高速塌陷现场",
@@ -7731,6 +7747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184094,
+      "num": 184094,
+      "word": "戴眼镜的吃饭可以拿来当支架",
+      "onboard_time": 1714909759,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183923,
       "num": 183923,
       "word": "开始听反方向的钟",
@@ -7833,6 +7857,14 @@
       "onboard_time": 1714797079,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181099,
+      "num": 260431,
+      "word": "新疆2元一个的烤包子火了",
+      "onboard_time": 1714909519,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 181037,
@@ -8673,14 +8705,6 @@
       "onboard_time": 1714706539,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165983,
-      "num": 165983,
-      "word": "戴眼镜的吃饭可以拿来当支架",
-      "onboard_time": 1714909759,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 165595,
@@ -9851,6 +9875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146729,
+      "num": 146729,
+      "word": "张真源solo舞台合唱",
+      "onboard_time": 1714912158,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146590,
       "num": 146590,
       "word": "起猛了遇到孙策给扁鹊下毒了",
@@ -10459,14 +10491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136414,
-      "num": 136414,
-      "word": "MSI抽签",
-      "onboard_time": 1714912219,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 136400,
       "num": 136400,
       "word": "IVE新歌MV正确打开方式",
@@ -11073,14 +11097,6 @@
       "onboard_time": 1714731018,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127873,
-      "num": 196908,
-      "word": "新疆2元一个的烤包子火了",
-      "onboard_time": 1714909519,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 127781,
@@ -11753,6 +11769,14 @@
       "onboard_time": 1714556117,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117185,
+      "num": 117185,
+      "word": "一只章鱼的生死20秒",
+      "onboard_time": 1714912639,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 116914,
@@ -12457,14 +12481,6 @@
       "onboard_time": 1714816578,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105777,
-      "num": 105777,
-      "word": "张真源solo舞台合唱",
-      "onboard_time": 1714912158,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 105168,
@@ -13339,6 +13355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58883,
+      "num": 860461,
+      "word": "国羽女队捧杯瞬间",
+      "onboard_time": 1714895899,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58824,
       "num": 81517,
       "word": "为什么听到父母的关心会烦躁",
@@ -13521,14 +13545,6 @@
       "onboard_time": 1714896140,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46112,
-      "num": 860461,
-      "word": "国羽女队捧杯瞬间",
-      "onboard_time": 1714895899,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 46105,
