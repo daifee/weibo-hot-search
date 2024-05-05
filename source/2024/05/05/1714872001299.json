@@ -1,0 +1,410 @@
+{
+  "runTime": 1714872001299,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1084582,
+        "num": 1084582,
+        "word": "5月5日8时10分迎来立夏",
+        "onboard_time": 1714866374,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959201,
+        "num": 959201,
+        "word": "莫里斯去世",
+        "onboard_time": 1714866374,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5583,
+        "num": 847354,
+        "word": "文化中国行我写家乡",
+        "onboard_time": 1714742900,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843998,
+        "num": 843998,
+        "word": "香飘飘 我们的员工是好样的",
+        "onboard_time": 1714866495,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409821,
+        "num": 409821,
+        "word": "爆炸撕裂下坠 夜下摘星踏月",
+        "onboard_time": 1714868658,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402698,
+        "num": 402698,
+        "word": "14岁男孩当伴郎遇班主任伴娘",
+        "onboard_time": 1714834521,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374730,
+        "num": 374730,
+        "word": "90后自媒体创业2天入账74万",
+        "onboard_time": 1714834821,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366119,
+        "num": 366119,
+        "word": "王俊凯马嘉祺相似造型",
+        "onboard_time": 1714866615,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 332539,
+        "num": 332539,
+        "word": "广东暴雨249名中山消防员共营救462人",
+        "onboard_time": 1714866134,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327763,
+        "num": 327763,
+        "word": "随便吃同事真的很不礼貌",
+        "onboard_time": 1714864574,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 863812,
+        "num": 324673,
+        "word": "贺军翔还在还房贷",
+        "onboard_time": 1714868958,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720265,
+        "num": 320104,
+        "word": "感觉他女朋友快要碎掉了",
+        "onboard_time": 1714867216,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 554259,
+        "num": 317389,
+        "word": "原来上班真的能跨越阶级",
+        "onboard_time": 1714864994,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 454228,
+        "num": 312300,
+        "word": "香飘飘回应讽日事件",
+        "onboard_time": 1714827619,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422160,
+        "num": 306573,
+        "word": "舅妈家想霸占我的婚房",
+        "onboard_time": 1714871057,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303821,
+        "num": 303821,
+        "word": "香飘飘绕地球几圈了",
+        "onboard_time": 1714871237,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 279200,
+        "num": 279200,
+        "word": "向佐因暴雨错过时代少年团演唱会",
+        "onboard_time": 1714864874,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 272930,
+        "num": 272930,
+        "word": "宝宝 你是一头情绪稳定的小懒猪",
+        "onboard_time": 1714869857,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262895,
+        "num": 262895,
+        "word": "维和防暴队开分5.6分",
+        "onboard_time": 1714866495,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248723,
+        "num": 248723,
+        "word": "凤凰传奇荧光棒",
+        "onboard_time": 1714868116,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 441370,
+        "num": 247552,
+        "word": "宋亚轩cos关晓彤",
+        "onboard_time": 1714868837,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402578,
+        "num": 246601,
+        "word": "加拿大一家3男捐精捐出超600个娃",
+        "onboard_time": 1714838898,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250599,
+        "num": 243723,
+        "word": "专家称高铁涨价是必要的",
+        "onboard_time": 1714864935,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238965,
+        "num": 238965,
+        "word": "立夏",
+        "onboard_time": 1714864094,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240652,
+        "num": 235838,
+        "word": "你那坨肉根本就不是副乳",
+        "onboard_time": 1714833079,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 229471,
+        "num": 229471,
+        "word": "北方人能有多抵触吃挂面",
+        "onboard_time": 1714864094,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207323,
+        "num": 207323,
+        "word": "邓超别哭了",
+        "onboard_time": 1714865173,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194249,
+        "num": 194249,
+        "word": "王力宏实力",
+        "onboard_time": 1714868958,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193085,
+        "num": 193085,
+        "word": "香飘飘",
+        "onboard_time": 1714837399,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188172,
+        "num": 188172,
+        "word": "女儿看演唱会父母冒雨场外陪伴",
+        "onboard_time": 1714868538,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184541,
+        "num": 184541,
+        "word": "5天说没就没",
+        "onboard_time": 1714865295,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173692,
+        "num": 173692,
+        "word": "肖战伍嘉成微博互动",
+        "onboard_time": 1714864154,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170488,
+        "num": 170488,
+        "word": "原来奶奶才是真正的神明",
+        "onboard_time": 1714869977,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154509,
+        "num": 154509,
+        "word": "薛之谦一眼认出演果果的小女孩",
+        "onboard_time": 1714833079,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152623,
+        "num": 152623,
+        "word": "晚上比早晨重3斤是减重失败了吗",
+        "onboard_time": 1714842076,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 143312,
+        "num": 143312,
+        "word": "香飘飘果汁茶",
+        "onboard_time": 1714867815,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140935,
+        "num": 140935,
+        "word": "张杰陈楚生撞衫",
+        "onboard_time": 1714871720,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135599,
+        "num": 135599,
+        "word": "甲状腺结节",
+        "onboard_time": 1714865956,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132180,
+        "num": 132180,
+        "word": "巴菲特称每天关注股票反而赚不了钱",
+        "onboard_time": 1714871658,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128085,
+        "num": 128085,
+        "word": "送给父母的养老别墅",
+        "onboard_time": 1714871478,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122676,
+        "num": 122676,
+        "word": "巴菲特称芒格拍桌子让他买比亚迪",
+        "onboard_time": 1714867576,
+        "rank": 40,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 122625,
+        "num": 122625,
+        "word": "雷军回应不建议给年轻人太多建议",
+        "onboard_time": 1714832780,
+        "rank": 41,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 121889,
+        "num": 121889,
+        "word": "宝宝 你是一只香菇",
+        "onboard_time": 1714868958,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119667,
+        "num": 119667,
+        "word": "这30平小家就是独居梦中情房",
+        "onboard_time": 1714870520,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115786,
+        "num": 115786,
+        "word": "魏大勋浮潜",
+        "onboard_time": 1714867937,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110214,
+        "num": 110214,
+        "word": "国铁集团回应高铁票价将上涨",
+        "onboard_time": 1714841595,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108890,
+        "num": 108890,
+        "word": "迈阿密国际vs纽约红牛",
+        "onboard_time": 1714871958,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106585,
+        "num": 106585,
+        "word": "网友曾在泰妍家住宿",
+        "onboard_time": 1714840816,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104874,
+        "num": 104874,
+        "word": "难怪反派听到熟悉的声音要被硬控",
+        "onboard_time": 1714869616,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102958,
+        "num": 102958,
+        "word": "纪凌尘换发型了",
+        "onboard_time": 1714834642,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席欧洲三国之行这些看点值得关注#"
+    }
+  }
+}

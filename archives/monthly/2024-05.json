@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714865668546,
+  "endTime": 1714872001299,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -643,6 +643,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 1084582,
+      "num": 1084582,
+      "word": "5月5日8时10分迎来立夏",
+      "onboard_time": 1714866374,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1084408,
       "num": 914742,
       "word": "高铁三大酷刑",
@@ -761,6 +769,14 @@
       "onboard_time": 1714541358,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 959201,
+      "num": 959201,
+      "word": "莫里斯去世",
+      "onboard_time": 1714866374,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 946692,
@@ -923,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 863812,
+      "num": 324673,
+      "word": "贺军翔还在还房贷",
+      "onboard_time": 1714868958,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 861149,
       "num": 861149,
       "word": "据说每个城市都来了1亿人",
@@ -968,6 +992,14 @@
       "word": "广东通报一家五口海边游玩落水致4死",
       "onboard_time": 1714737799,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 843998,
+      "num": 843998,
+      "word": "香飘飘 我们的员工是好样的",
+      "onboard_time": 1714866495,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1233,6 +1265,14 @@
       "onboard_time": 1714612517,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 720265,
+      "num": 320104,
+      "word": "感觉他女朋友快要碎掉了",
+      "onboard_time": 1714867216,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 711704,
@@ -1841,6 +1881,14 @@
       "onboard_time": 1714803258,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 554259,
+      "num": 317389,
+      "word": "原来上班真的能跨越阶级",
+      "onboard_time": 1714864994,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 554195,
@@ -2467,6 +2515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 441370,
+      "num": 247552,
+      "word": "宋亚轩cos关晓彤",
+      "onboard_time": 1714868837,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441012,
       "num": 202035,
       "word": "爱人先爱己",
@@ -2580,7 +2636,7 @@
     },
     {
       "raw_hot": 424254,
-      "num": 217951,
+      "num": 246601,
       "word": "加拿大一家3男捐精捐出超600个娃",
       "onboard_time": 1714838898,
       "rank": 30,
@@ -2609,6 +2665,14 @@
       "onboard_time": 1714522577,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 422160,
+      "num": 306573,
+      "word": "舅妈家想霸占我的婚房",
+      "onboard_time": 1714871057,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 421911,
@@ -2745,6 +2809,14 @@
       "onboard_time": 1714521675,
       "rank": 13,
       "category": "数码"
+    },
+    {
+      "raw_hot": 409821,
+      "num": 409821,
+      "word": "爆炸撕裂下坠 夜下摘星踏月",
+      "onboard_time": 1714868658,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 408592,
@@ -3155,6 +3227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366119,
+      "num": 366119,
+      "word": "王俊凯马嘉祺相似造型",
+      "onboard_time": 1714866615,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 365716,
       "num": 365716,
       "word": "周深录奔跑吧哭了",
@@ -3443,6 +3523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332539,
+      "num": 332539,
+      "word": "广东暴雨249名中山消防员共营救462人",
+      "onboard_time": 1714866134,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332524,
       "num": 332524,
       "word": "大侦探 内娱无代餐",
@@ -3513,6 +3601,14 @@
       "onboard_time": 1714546579,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327763,
+      "num": 327763,
+      "word": "随便吃同事真的很不礼貌",
+      "onboard_time": 1714864574,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 324756,
@@ -3673,6 +3769,14 @@
       "onboard_time": 1714632798,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303821,
+      "num": 303821,
+      "word": "香飘飘绕地球几圈了",
+      "onboard_time": 1714871237,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 301623,
@@ -3939,6 +4043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 279200,
+      "num": 279200,
+      "word": "向佐因暴雨错过时代少年团演唱会",
+      "onboard_time": 1714864874,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 278892,
       "num": 266616,
       "word": "迪丽热巴美式证件照",
@@ -4009,6 +4121,14 @@
       "onboard_time": 1714780456,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272930,
+      "num": 272930,
+      "word": "宝宝 你是一头情绪稳定的小懒猪",
+      "onboard_time": 1714869857,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 272284,
@@ -4153,6 +4273,14 @@
       "onboard_time": 1714716739,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262895,
+      "num": 262895,
+      "word": "维和防暴队开分5.6分",
+      "onboard_time": 1714866495,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 262421,
@@ -4307,6 +4435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 250599,
+      "num": 243723,
+      "word": "专家称高铁涨价是必要的",
+      "onboard_time": 1714864935,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249674,
       "num": 242709,
       "word": "00后辞职的人都在做什么",
@@ -4329,6 +4465,14 @@
       "onboard_time": 1714491380,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248723,
+      "num": 248723,
+      "word": "凤凰传奇荧光棒",
+      "onboard_time": 1714868116,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 248687,
@@ -4563,6 +4707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238965,
+      "num": 238965,
+      "word": "立夏",
+      "onboard_time": 1714864094,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238625,
       "num": 235294,
       "word": "奇煜 祁煜",
@@ -4585,14 +4737,6 @@
       "onboard_time": 1714709297,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 236767,
-      "num": 236767,
-      "word": "立夏",
-      "onboard_time": 1714864094,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236351,
@@ -4731,6 +4875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 229471,
+      "num": 229471,
+      "word": "北方人能有多抵触吃挂面",
+      "onboard_time": 1714864094,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229308,
       "num": 229308,
       "word": "五四青年节",
@@ -4796,7 +4948,7 @@
     },
     {
       "raw_hot": 226245,
-      "num": 142705,
+      "num": 152623,
       "word": "晚上比早晨重3斤是减重失败了吗",
       "onboard_time": 1714842076,
       "rank": 30,
@@ -5233,6 +5385,14 @@
       "onboard_time": 1714802779,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207323,
+      "num": 207323,
+      "word": "邓超别哭了",
+      "onboard_time": 1714865173,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 207201,
@@ -5979,6 +6139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194249,
+      "num": 194249,
+      "word": "王力宏实力",
+      "onboard_time": 1714868958,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194025,
       "num": 194025,
       "word": "狼队第五人格",
@@ -6203,6 +6371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188172,
+      "num": 188172,
+      "word": "女儿看演唱会父母冒雨场外陪伴",
+      "onboard_time": 1714868538,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188166,
       "num": 188166,
       "word": "爸爸妈妈好像把我当小猫养了",
@@ -6377,6 +6553,14 @@
       "onboard_time": 1714525277,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 184541,
+      "num": 184541,
+      "word": "5天说没就没",
+      "onboard_time": 1714865295,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 184519,
@@ -6819,6 +7003,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 173692,
+      "num": 173692,
+      "word": "肖战伍嘉成微博互动",
+      "onboard_time": 1714864154,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173405,
       "num": 173405,
       "word": "成毅 进组",
@@ -6937,6 +7129,14 @@
       "onboard_time": 1714625898,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 170488,
+      "num": 170488,
+      "word": "原来奶奶才是真正的神明",
+      "onboard_time": 1714869977,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 170288,
@@ -7081,14 +7281,6 @@
       "onboard_time": 1714757234,
       "rank": 29,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 167847,
-      "num": 124612,
-      "word": "肖战伍嘉成微博互动",
-      "onboard_time": 1714864154,
-      "rank": 12,
-      "category": "演出"
     },
     {
       "raw_hot": 167656,
@@ -8339,6 +8531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143312,
+      "num": 143312,
+      "word": "香飘飘果汁茶",
+      "onboard_time": 1714867815,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 143018,
       "num": 143018,
       "word": "越没本事的人脾气还越大",
@@ -8417,6 +8617,14 @@
       "onboard_time": 1714722320,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140935,
+      "num": 140935,
+      "word": "张杰陈楚生撞衫",
+      "onboard_time": 1714871720,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 140906,
@@ -8699,6 +8907,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 135599,
+      "num": 135599,
+      "word": "甲状腺结节",
+      "onboard_time": 1714865956,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 135529,
       "num": 369942,
       "word": "爸爸为女儿在回家路旁种满鲜花",
@@ -8931,6 +9147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132180,
+      "num": 132180,
+      "word": "巴菲特称每天关注股票反而赚不了钱",
+      "onboard_time": 1714871658,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132145,
       "num": 86097,
       "word": "游客从橘子洲挤到五一广场",
@@ -9153,6 +9377,14 @@
       "onboard_time": 1714751900,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128085,
+      "num": 128085,
+      "word": "送给父母的养老别墅",
+      "onboard_time": 1714871478,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 128073,
@@ -9435,6 +9667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122676,
+      "num": 122676,
+      "word": "巴菲特称芒格拍桌子让他买比亚迪",
+      "onboard_time": 1714867576,
+      "rank": 40,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 122636,
       "num": 122636,
       "word": "拜仁vs皇马",
@@ -9457,6 +9697,14 @@
       "onboard_time": 1714826419,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 121889,
+      "num": 121889,
+      "word": "宝宝 你是一只香菇",
+      "onboard_time": 1714868958,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 121607,
@@ -9611,6 +9859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119667,
+      "num": 119667,
+      "word": "这30平小家就是独居梦中情房",
+      "onboard_time": 1714870520,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119532,
       "num": 119532,
       "word": "汤杯中国vs马来西亚",
@@ -9745,6 +10001,14 @@
       "onboard_time": 1714791918,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115786,
+      "num": 115786,
+      "word": "魏大勋浮潜",
+      "onboard_time": 1714867937,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 115780,
@@ -10195,6 +10459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108890,
+      "num": 108890,
+      "word": "迈阿密国际vs纽约红牛",
+      "onboard_time": 1714871958,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108779,
       "num": 108779,
       "word": "维和防爆部队影评",
@@ -10209,14 +10481,6 @@
       "onboard_time": 1714803858,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108440,
-      "num": 108440,
-      "word": "北方人能有多抵触吃挂面",
-      "onboard_time": 1714864094,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 108425,
@@ -10355,6 +10619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104874,
+      "num": 104874,
+      "word": "难怪反派听到熟悉的声音要被硬控",
+      "onboard_time": 1714869616,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104341,
       "num": 104502,
       "word": "苏翊鸣英文讲述上大学的生活",
@@ -10401,14 +10673,6 @@
       "onboard_time": 1714615817,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 103009,
-      "num": 103009,
-      "word": "向佐因暴雨错过时代少年团演唱会",
-      "onboard_time": 1714864874,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 102718,
@@ -10867,14 +11131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82336,
-      "num": 82336,
-      "word": "随便吃同事真的很不礼貌",
-      "onboard_time": 1714864574,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 82002,
       "num": 82002,
       "word": "李健枣庄演唱会",
@@ -10905,14 +11161,6 @@
       "onboard_time": 1714790177,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 80598,
-      "num": 80598,
-      "word": "5天说没就没",
-      "onboard_time": 1714865295,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 80560,
@@ -11011,14 +11259,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 75328,
-      "num": 75328,
-      "word": "原来上班真的能跨越阶级",
-      "onboard_time": 1714864994,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 74872,
       "num": 74872,
       "word": "张碧晨演我不愿意早起",
@@ -11081,14 +11321,6 @@
       "onboard_time": 1714605075,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70071,
-      "num": 70071,
-      "word": "邓超别哭了",
-      "onboard_time": 1714865173,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 69417,
@@ -11288,14 +11520,6 @@
       "word": "神十七航天员回家",
       "onboard_time": 1714485139,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55823,
-      "num": 55823,
-      "word": "专家称高铁涨价是必要的",
-      "onboard_time": 1714864935,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
