@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714908858425,
+  "endTime": 1714912283854,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -201,6 +201,14 @@
       "onboard_time": 1714739361,
       "rank": 43,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 1910543,
+      "num": 1910543,
+      "word": "发烧",
+      "onboard_time": 1714910719,
+      "rank": 0,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1841073,
@@ -809,6 +817,14 @@
       "onboard_time": 1714489219,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1047270,
+      "num": 259294,
+      "word": "为什么月薪五千每天这么多事",
+      "onboard_time": 1714908198,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 1039355,
@@ -1435,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 743336,
+      "num": 290848,
+      "word": "网购7700元迪士尼套餐最终民警护送入园",
+      "onboard_time": 1714910658,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 741907,
       "num": 741907,
       "word": "时代少年团演唱会直播",
@@ -1625,6 +1649,14 @@
       "onboard_time": 1714888458,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 673580,
+      "num": 252629,
+      "word": "原来跳绳是先瘦肚子再瘦腿",
+      "onboard_time": 1714907778,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 672805,
@@ -2515,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 495577,
+      "num": 495577,
+      "word": "卡塔尔准备接受美国要求将哈马斯领导人驱逐",
+      "onboard_time": 1714908499,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 495262,
       "num": 251501,
       "word": "王一博身份证掉了",
@@ -2611,14 +2651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 479550,
-      "num": 259294,
-      "word": "为什么月薪五千每天这么多事",
-      "onboard_time": 1714908198,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 478920,
       "num": 478920,
       "word": "十个勤天五四晚会舞台",
@@ -2664,6 +2696,14 @@
       "word": "河大礼堂起火时疑有施工队在休息",
       "onboard_time": 1714695436,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473870,
+      "num": 199339,
+      "word": "父亲因没钱给女儿买手机自责跪地",
+      "onboard_time": 1714908499,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -3691,6 +3731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373393,
+      "num": 373393,
+      "word": "苗苗自己给自己化妆",
+      "onboard_time": 1714906578,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371325,
       "num": 371325,
       "word": "林俊杰唱了一生的爱",
@@ -3995,14 +4043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 340759,
-      "num": 340759,
-      "word": "苗苗自己给自己化妆",
-      "onboard_time": 1714906578,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 339604,
       "num": 339604,
       "word": "十个勤天音乐节",
@@ -4097,6 +4137,14 @@
       "onboard_time": 1714572800,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 332404,
+      "num": 332404,
+      "word": "MSI胜败分组赛抽签",
+      "onboard_time": 1714910239,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 331516,
@@ -4227,6 +4275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 320297,
+      "num": 196328,
+      "word": "马思纯长发回归",
+      "onboard_time": 1714911259,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 320173,
       "num": 320173,
       "word": "美国德国都没做到只有中国干成了",
@@ -4257,6 +4313,14 @@
       "onboard_time": 1714743141,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 317502,
+      "num": 261192,
+      "word": "警方通报男子服装市场跳楼身亡",
+      "onboard_time": 1714910119,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317050,
@@ -4297,14 +4361,6 @@
       "onboard_time": 1714612698,
       "rank": 19,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 315211,
-      "num": 252629,
-      "word": "原来跳绳是先瘦肚子再瘦腿",
-      "onboard_time": 1714907778,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 312628,
@@ -4377,6 +4433,22 @@
       "onboard_time": 1714897639,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302910,
+      "num": 198647,
+      "word": "张一山卡点回复杨紫",
+      "onboard_time": 1714908259,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 301756,
+      "num": 301756,
+      "word": "魏大勋脚上的红绳被P掉了",
+      "onboard_time": 1714902559,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 301623,
@@ -4457,6 +4529,14 @@
       "onboard_time": 1714567998,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 296148,
+      "num": 296148,
+      "word": "王昶好帅",
+      "onboard_time": 1714910057,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 294798,
@@ -5435,6 +5515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237759,
+      "num": 194346,
+      "word": "金秀贤金智媛ins更新照",
+      "onboard_time": 1714911859,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236898,
       "num": 236898,
       "word": "陈赫从五哈团单飞了",
@@ -5648,14 +5736,6 @@
       "word": "五四晚会节目单",
       "onboard_time": 1714826479,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 228429,
-      "num": 228429,
-      "word": "魏大勋脚上的红绳被P掉了",
-      "onboard_time": 1714902559,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -6075,6 +6155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211251,
+      "num": 211251,
+      "word": "樊振东vs博格斯",
+      "onboard_time": 1714909698,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211241,
       "num": 211241,
       "word": "五一档新片票房破9亿",
@@ -6369,6 +6457,14 @@
       "onboard_time": 1714622658,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 205339,
+      "num": 205339,
+      "word": "梁王关键分",
+      "onboard_time": 1714911259,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 205032,
@@ -6761,14 +6857,6 @@
       "onboard_time": 1714798336,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198647,
-      "num": 198647,
-      "word": "张一山卡点回复杨紫",
-      "onboard_time": 1714908259,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 198513,
@@ -7651,14 +7739,6 @@
       "category": "音乐,幽默"
     },
     {
-      "raw_hot": 183909,
-      "num": 183909,
-      "word": "父亲因没钱给女儿买手机自责跪地",
-      "onboard_time": 1714908499,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183680,
       "num": 183680,
       "word": "大连英博0比1广州队",
@@ -7768,6 +7848,14 @@
       "word": "郭艾伦安慰队友",
       "onboard_time": 1714749681,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 180666,
+      "num": 180666,
+      "word": "樊振东3比0博格斯",
+      "onboard_time": 1714911019,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -8587,6 +8675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165983,
+      "num": 165983,
+      "word": "戴眼镜的吃饭可以拿来当支架",
+      "onboard_time": 1714909759,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165595,
       "num": 165595,
       "word": "编剧大人 我不允许任何人辱骂你",
@@ -9185,6 +9281,14 @@
       "onboard_time": 1714654999,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155946,
+      "num": 155946,
+      "word": "KSG对战狼队",
+      "onboard_time": 1714909818,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 155839,
@@ -9819,14 +9923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145562,
-      "num": 145562,
-      "word": "卡塔尔准备接受美国要求将哈马斯领导人驱逐",
-      "onboard_time": 1714908499,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 145510,
       "num": 145510,
       "word": "何浩楠赵一博cp工具人",
@@ -10361,6 +10457,14 @@
       "onboard_time": 1714818258,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136414,
+      "num": 136414,
+      "word": "MSI抽签",
+      "onboard_time": 1714912219,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 136400,
@@ -10969,6 +11073,14 @@
       "onboard_time": 1714731018,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127873,
+      "num": 196908,
+      "word": "新疆2元一个的烤包子火了",
+      "onboard_time": 1714909519,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 127781,
@@ -12347,6 +12459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105777,
+      "num": 105777,
+      "word": "张真源solo舞台合唱",
+      "onboard_time": 1714912158,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 105168,
       "num": 105168,
       "word": "辽宁男篮犯规",
@@ -13401,6 +13521,14 @@
       "onboard_time": 1714896140,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46112,
+      "num": 860461,
+      "word": "国羽女队捧杯瞬间",
+      "onboard_time": 1714895899,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 46105,
