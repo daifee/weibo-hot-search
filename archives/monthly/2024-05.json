@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714937641624,
+  "endTime": 1714940269634,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -14267,6 +14267,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 26437,
+      "num": 26437,
+      "word": "麦当娜160万人演唱会",
+      "onboard_time": 1714936691,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 26060,
+      "num": 26060,
+      "word": "F1",
+      "onboard_time": 1714938191,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 25663,
       "num": 30768,
       "word": "春色寄情人",
@@ -14363,14 +14379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17608,
-      "num": 17608,
-      "word": "麦当娜160万人演唱会",
-      "onboard_time": 1714936691,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 16988,
       "num": 18233,
       "word": "唐九洲 小卡届的神",
@@ -14401,6 +14409,14 @@
       "onboard_time": 1714761372,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 13435,
+      "num": 19332,
+      "word": "重庆上榜全国最热门旅游目的地前五",
+      "onboard_time": 1714940110,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 4564,
