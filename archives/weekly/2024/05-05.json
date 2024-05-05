@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714936539000,
+  "endTime": 1714937641624,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -3363,6 +3363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26908,
+      "num": 26908,
+      "word": "毕业后唯一没还给老师的品质",
+      "onboard_time": 1714935192,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 24592,
       "num": 24592,
       "word": "林俊杰深圳演唱会",
@@ -3371,12 +3379,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 21949,
-      "num": 21949,
-      "word": "毕业后唯一没还给老师的品质",
-      "onboard_time": 1714935192,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 17608,
+      "num": 17608,
+      "word": "麦当娜160万人演唱会",
+      "onboard_time": 1714936691,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 14087,
+      "num": 17311,
+      "word": "轿车爆胎翻车16辆过路车紧急救援",
+      "onboard_time": 1714937591,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 7443,
