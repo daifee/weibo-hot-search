@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714890246901,
+  "endTime": 1714891060101,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -25,6 +25,14 @@
       "onboard_time": 1714885638,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1483724,
+      "num": 509499,
+      "word": "女子称住酒店裸睡被人强行刷开房门",
+      "onboard_time": 1714889118,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1453852,
@@ -107,14 +115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 884481,
-      "num": 444879,
-      "word": "女子称住酒店裸睡被人强行刷开房门",
-      "onboard_time": 1714889118,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 877700,
       "num": 877700,
       "word": "14岁男孩当伴郎遇班主任伴娘",
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 673741,
-      "num": 464151,
+      "num": 487326,
       "word": "眉庄去世为什么太后不闻不问",
       "onboard_time": 1714888458,
       "rank": 6,
@@ -179,12 +179,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 646054,
+      "num": 646054,
+      "word": "游泳教练憋气练习时意外溺亡",
+      "onboard_time": 1714886418,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 614439,
+      "num": 608229,
+      "word": "陈赫妈妈是来录陈赫吐槽大会吗",
+      "onboard_time": 1714889239,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 610679,
       "num": 610679,
       "word": "雷军回应不建议给年轻人太多建议",
       "onboard_time": 1714832780,
       "rank": 1,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 609408,
+      "num": 609408,
+      "word": "对河南大学大礼堂火灾事故挂牌督办",
+      "onboard_time": 1714889118,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 607475,
@@ -201,14 +225,6 @@
       "onboard_time": 1714884019,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 587309,
-      "num": 587309,
-      "word": "游泳教练憋气练习时意外溺亡",
-      "onboard_time": 1714886418,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 585149,
@@ -233,6 +249,22 @@
       "onboard_time": 1714877778,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 566000,
+      "num": 443246,
+      "word": "刘亦菲活动",
+      "onboard_time": 1714889477,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 554952,
+      "num": 554952,
+      "word": "国务院安委会派督导组赴河南",
+      "onboard_time": 1714889539,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 551672,
@@ -297,14 +329,6 @@
       "onboard_time": 1714868658,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 473821,
-      "num": 473821,
-      "word": "对河南大学大礼堂火灾事故挂牌督办",
-      "onboard_time": 1714889118,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 461487,
@@ -419,14 +443,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 407347,
-      "num": 407347,
-      "word": "陈赫妈妈是来录陈赫吐槽大会吗",
-      "onboard_time": 1714889239,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 402148,
       "num": 402148,
       "word": "卵巢过快衰老的几个信号",
@@ -435,12 +451,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 388230,
-      "num": 388230,
-      "word": "刘亦菲活动",
-      "onboard_time": 1714889477,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 401349,
+      "num": 401349,
+      "word": "猴子抢了游客防晒衣出不来了",
+      "onboard_time": 1714885398,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 387068,
@@ -449,14 +465,6 @@
       "onboard_time": 1714834821,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384970,
-      "num": 384970,
-      "word": "猴子抢了游客防晒衣出不来了",
-      "onboard_time": 1714885398,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 366119,
@@ -491,20 +499,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 346732,
-      "num": 346732,
-      "word": "国务院安委会派督导组赴河南",
-      "onboard_time": 1714889539,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 337134,
       "num": 337134,
       "word": "陕西一男子花62元买彩票中1.48亿元",
       "onboard_time": 1714829178,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336413,
+      "num": 336413,
+      "word": "IU捐赠1亿韩元",
+      "onboard_time": 1714889419,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 332539,
@@ -537,6 +545,14 @@
       "onboard_time": 1714879157,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321207,
+      "num": 276347,
+      "word": "刘亦菲金色高定",
+      "onboard_time": 1714890499,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 317050,
@@ -627,14 +643,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 251929,
-      "num": 251929,
-      "word": "IU捐赠1亿韩元",
-      "onboard_time": 1714889419,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248723,
       "num": 248723,
       "word": "凤凰传奇荧光棒",
@@ -715,6 +723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229407,
+      "num": 229407,
+      "word": "关雪被求婚",
+      "onboard_time": 1714889658,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226245,
       "num": 152623,
       "word": "晚上比早晨重3斤是减重失败了吗",
@@ -769,6 +785,14 @@
       "onboard_time": 1714880179,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211434,
+      "num": 211434,
+      "word": "卫健委回应重庆一医院代孕事件",
+      "onboard_time": 1714889959,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210720,
@@ -827,12 +851,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 197497,
-      "num": 197497,
-      "word": "关雪被求婚",
-      "onboard_time": 1714889658,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 199131,
+      "num": 540752,
+      "word": "五一感受到了绝对安全感",
+      "onboard_time": 1714889177,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 197437,
@@ -1011,7 +1035,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176387,
+      "raw_hot": 177926,
       "num": 179871,
       "word": "我真的吃不了上班的苦",
       "onboard_time": 1714889177,
@@ -1059,12 +1083,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 170189,
-      "num": 445835,
-      "word": "五一感受到了绝对安全感",
-      "onboard_time": 1714889177,
-      "rank": 9,
-      "category": "情感"
+      "raw_hot": 167691,
+      "num": 167691,
+      "word": "一张照片欢迎夏天",
+      "onboard_time": 1714891037,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 166168,
@@ -1073,6 +1097,14 @@
       "onboard_time": 1714821138,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165468,
+      "num": 165468,
+      "word": "孟佳当选手被张雨绮秒淘汰",
+      "onboard_time": 1714890197,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 165020,
@@ -1187,8 +1219,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154875,
-      "num": 154875,
+      "raw_hot": 155144,
+      "num": 155144,
       "word": "为什么刚学电脑时没人告诉我",
       "onboard_time": 1714886898,
       "rank": 46,
@@ -1243,12 +1275,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148704,
+      "num": 148704,
+      "word": "那英自曝更年期脾气大",
+      "onboard_time": 1714890619,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147652,
       "num": 147652,
       "word": "大馋丫头最好别谈恋爱",
       "onboard_time": 1714882999,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145748,
+      "num": 145748,
+      "word": "价格大降榴莲自由要来了吗",
+      "onboard_time": 1714890318,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 145411,
@@ -1273,14 +1321,6 @@
       "onboard_time": 1714877238,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143559,
-      "num": 143559,
-      "word": "卫健委回应重庆一医院代孕事件",
-      "onboard_time": 1714889959,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143312,
@@ -1443,12 +1483,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121267,
-      "num": 121267,
-      "word": "孟佳当选手被张雨绮秒淘汰",
-      "onboard_time": 1714890197,
+      "raw_hot": 120619,
+      "num": 120619,
+      "word": "和ChatGPT谈恋爱是什么体验",
+      "onboard_time": 1714890619,
       "rank": 47,
-      "category": "综艺"
+      "category": "互联网"
     },
     {
       "raw_hot": 120150,
@@ -1465,6 +1505,14 @@
       "onboard_time": 1714870520,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118843,
+      "num": 118843,
+      "word": "星穹铁道2.2",
+      "onboard_time": 1714890918,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 118343,
