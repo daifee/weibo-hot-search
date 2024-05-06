@@ -1,6 +1,6 @@
 {
   "startTime": 1714926165838,
-  "endTime": 1714988064527,
+  "endTime": 1714990774080,
   "band_list": [
     {
       "raw_hot": 2835678,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1616078,
-      "num": 413003,
+      "num": 455484,
       "word": "淘宝免单",
       "onboard_time": 1714977378,
       "rank": 49,
@@ -57,6 +57,14 @@
       "onboard_time": 1714963099,
       "rank": 20,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 1465317,
+      "num": 1465317,
+      "word": "台湾附近5.3级左右地震",
+      "onboard_time": 1714989141,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1446993,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 881165,
-      "num": 285270,
+      "num": 327114,
       "word": "月薪4000小伙三年攒下13万",
       "onboard_time": 1714979718,
       "rank": 33,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 880275,
-      "num": 401633,
+      "num": 446860,
       "word": "小伙恋爱1年转账60万女友竟是好兄弟",
       "onboard_time": 1714982178,
       "rank": 17,
@@ -275,6 +283,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 761384,
+      "num": 761384,
+      "word": "关雪 晴川",
+      "onboard_time": 1714985839,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 756363,
       "num": 334267,
       "word": "金靖官宣怀孕后首现身机场",
@@ -331,6 +347,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 698706,
+      "num": 698706,
+      "word": "爸爸辅导作业崩溃用石榴砸破孩子脾脏",
+      "onboard_time": 1714985657,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690243,
       "num": 690243,
       "word": "教育回报率越来越低了吗",
@@ -344,14 +368,6 @@
       "word": "清水镇的水是脏水的水",
       "onboard_time": 1714956741,
       "rank": 12,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 642752,
-      "num": 642752,
-      "word": "关雪 晴川",
-      "onboard_time": 1714985839,
-      "rank": 5,
       "category": "剧集"
     },
     {
@@ -475,12 +491,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 501110,
+      "num": 501110,
+      "word": "庆余年2拍了范闲林婉儿大婚",
+      "onboard_time": 1714986379,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 500145,
       "num": 500145,
       "word": "美国暂停向以色列运送美制弹药",
       "onboard_time": 1714967420,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 491595,
+      "num": 491595,
+      "word": "阿信说让我一场一场把路人唱回来",
+      "onboard_time": 1714987338,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 488089,
@@ -532,7 +564,7 @@
     },
     {
       "raw_hot": 454487,
-      "num": 285212,
+      "num": 285855,
       "word": "感觉长辈被时代红利保护得太好了",
       "onboard_time": 1714980979,
       "rank": 21,
@@ -553,6 +585,14 @@
       "onboard_time": 1714964720,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 444492,
+      "num": 444492,
+      "word": "叫花鸡没有鸡涉事店铺已关门",
+      "onboard_time": 1714986438,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436288,
@@ -577,6 +617,14 @@
       "onboard_time": 1714923740,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 416940,
+      "num": 416940,
+      "word": "哑舍",
+      "onboard_time": 1714986020,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 416540,
@@ -739,6 +787,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 330956,
+      "num": 330956,
+      "word": "老头杯",
+      "onboard_time": 1714989377,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 316466,
       "num": 316466,
       "word": "对秦皇岛游船侧翻12死事故挂牌督办",
@@ -779,12 +835,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 314356,
-      "num": 314356,
-      "word": "哑舍",
-      "onboard_time": 1714986020,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 314570,
+      "num": 314570,
+      "word": "国家预警发布太阳耀斑提示",
+      "onboard_time": 1714988598,
+      "rank": 21,
+      "category": "科学科普,自然"
     },
     {
       "raw_hot": 312733,
@@ -801,14 +857,6 @@
       "onboard_time": 1714952117,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 309594,
-      "num": 284820,
-      "word": "爸爸辅导作业崩溃用石榴砸破孩子脾脏",
-      "onboard_time": 1714985657,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298489,
@@ -851,6 +899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 285690,
+      "num": 285690,
+      "word": "李维嘉为谢娜庆生",
+      "onboard_time": 1714989919,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284665,
       "num": 284665,
       "word": "我爸每个月给我四千五的相亲费",
@@ -867,20 +923,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 280583,
-      "num": 280583,
-      "word": "庆余年2拍了范闲林婉儿大婚",
-      "onboard_time": 1714986379,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 274585,
       "num": 274585,
       "word": "时代峰峻在广西成立新公司",
       "onboard_time": 1714967540,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274212,
+      "num": 274212,
+      "word": "吃火锅意外吃出甄嬛传片头",
+      "onboard_time": 1714987998,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 274142,
@@ -937,6 +993,14 @@
       "onboard_time": 1714955359,
       "rank": 25,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 257078,
+      "num": 257078,
+      "word": "Ning老头杯一选TheShy",
+      "onboard_time": 1714989919,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 256492,
@@ -1027,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235839,
-      "num": 193688,
-      "word": "阿信说让我一场一场把路人唱回来",
-      "onboard_time": 1714987338,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 234004,
       "num": 234004,
       "word": "杨紫纯白新中式",
@@ -1075,12 +1131,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221532,
+      "num": 221532,
+      "word": "太阳爆发X级耀斑",
+      "onboard_time": 1714988419,
+      "rank": 31,
+      "category": "科学科普,自然"
+    },
+    {
       "raw_hot": 221191,
       "num": 221191,
       "word": "IVE新歌疑似抄袭EXO咆哮",
       "onboard_time": 1714916118,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 220363,
+      "num": 220363,
+      "word": "梅大高速下跪拦车老人受家乡百姓热情迎接",
+      "onboard_time": 1714989559,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219351,
@@ -1163,14 +1235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 209457,
-      "num": 209457,
-      "word": "叫花鸡没有鸡涉事店铺已关门",
-      "onboard_time": 1714986438,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208919,
       "num": 208919,
       "word": "背着善宰跑 接吻的人会结婚",
@@ -1212,10 +1276,18 @@
     },
     {
       "raw_hot": 203733,
-      "num": 422724,
+      "num": 462513,
       "word": "小鸟努力把自己美成了花鸟图",
       "onboard_time": 1714980258,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203317,
+      "num": 203317,
+      "word": "厦门震感",
+      "onboard_time": 1714990219,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1339,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193336,
+      "num": 193336,
+      "word": "在全家人面前叫丈夫的全名",
+      "onboard_time": 1714989679,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192706,
       "num": 192706,
       "word": "王栎鑫问俞灏明腿有多长",
@@ -1444,7 +1524,7 @@
     },
     {
       "raw_hot": 183224,
-      "num": 344782,
+      "num": 452628,
       "word": "香飘飘总裁说国货要对国人好",
       "onboard_time": 1714986138,
       "rank": 13,
@@ -1465,6 +1545,14 @@
       "onboard_time": 1714925178,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178620,
+      "num": 178620,
+      "word": "家里人不同意一次性相亲两个男生",
+      "onboard_time": 1714990518,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 177515,
@@ -1595,6 +1683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 167464,
+      "num": 167464,
+      "word": "温州一条夹缝房卖了238万元",
+      "onboard_time": 1714988058,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167126,
       "num": 167126,
       "word": "聚是一团伙散是满天疯",
@@ -1625,6 +1721,14 @@
       "onboard_time": 1714955060,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161807,
+      "num": 161807,
+      "word": "老头杯选人",
+      "onboard_time": 1714989859,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 161560,
@@ -1681,6 +1785,14 @@
       "onboard_time": 1714974618,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 155445,
+      "num": 155445,
+      "word": "新生开播",
+      "onboard_time": 1714988299,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 154995,
@@ -1795,6 +1907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140346,
+      "num": 140346,
+      "word": "太阳耀斑",
+      "onboard_time": 1714988778,
+      "rank": 46,
+      "category": "自然"
+    },
+    {
       "raw_hot": 140188,
       "num": 132807,
       "word": "张杰杭州",
@@ -1864,14 +1984,6 @@
       "word": "六姊妹杀青",
       "onboard_time": 1714963279,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 133546,
-      "num": 133546,
-      "word": "吃火锅意外吃出甄嬛传片头",
-      "onboard_time": 1714987998,
-      "rank": 46,
       "category": "剧集"
     },
     {
@@ -2059,6 +2171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98644,
+      "num": 707557,
+      "word": "巴黎欢迎人群敲锣打鼓舞龙舞狮",
+      "onboard_time": 1714987639,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91649,
       "num": 337649,
       "word": "灭霸vivoX100Ultra来了",
@@ -2137,6 +2257,14 @@
       "onboard_time": 1714918101,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84765,
+      "num": 467227,
+      "word": "女子突发晕厥14岁少年挺身而出",
+      "onboard_time": 1714982058,
+      "rank": 8,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 81386,
@@ -2289,14 +2417,6 @@
       "onboard_time": 1714940292,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 17196,
-      "num": 691647,
-      "word": "巴黎欢迎人群敲锣打鼓舞龙舞狮",
-      "onboard_time": 1714987639,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16676,

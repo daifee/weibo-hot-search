@@ -1,0 +1,410 @@
+{
+  "runTime": 1714990774080,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1465317,
+        "num": 1465317,
+        "word": "台湾附近5.3级左右地震",
+        "onboard_time": 1714989141,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761384,
+        "num": 761384,
+        "word": "关雪 晴川",
+        "onboard_time": 1714985839,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98644,
+        "num": 707557,
+        "word": "巴黎欢迎人群敲锣打鼓舞龙舞狮",
+        "onboard_time": 1714987639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1425135,
+        "num": 703456,
+        "word": "高校发讣告悼念梅大高速遇难学子",
+        "onboard_time": 1714984339,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698706,
+        "num": 698706,
+        "word": "爸爸辅导作业崩溃用石榴砸破孩子脾脏",
+        "onboard_time": 1714985657,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501110,
+        "num": 501110,
+        "word": "庆余年2拍了范闲林婉儿大婚",
+        "onboard_time": 1714986379,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 491595,
+        "num": 491595,
+        "word": "阿信说让我一场一场把路人唱回来",
+        "onboard_time": 1714987338,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 470559,
+        "num": 470559,
+        "word": "一觉醒来朋友圈安静了",
+        "onboard_time": 1714969881,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84765,
+        "num": 467227,
+        "word": "女子突发晕厥14岁少年挺身而出",
+        "onboard_time": 1714982058,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 142233,
+        "num": 462513,
+        "word": "小鸟努力把自己美成了花鸟图",
+        "onboard_time": 1714980258,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1441513,
+        "num": 457666,
+        "word": "女子为被性侵的母亲奔波后丢了工作",
+        "onboard_time": 1714980078,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842508,
+        "num": 455484,
+        "word": "淘宝免单",
+        "onboard_time": 1714977378,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163759,
+        "num": 452628,
+        "word": "香飘飘总裁说国货要对国人好",
+        "onboard_time": 1714986138,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 532779,
+        "num": 446860,
+        "word": "小伙恋爱1年转账60万女友竟是好兄弟",
+        "onboard_time": 1714982178,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444492,
+        "num": 444492,
+        "word": "叫花鸡没有鸡涉事店铺已关门",
+        "onboard_time": 1714986438,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416940,
+        "num": 416940,
+        "word": "哑舍",
+        "onboard_time": 1714986020,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404993,
+        "num": 404993,
+        "word": "张煜东求婚张凯毅",
+        "onboard_time": 1714976659,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 403535,
+        "num": 403535,
+        "word": "歌手 首发阵容",
+        "onboard_time": 1714968200,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344772,
+        "num": 344772,
+        "word": "赛力斯报案",
+        "onboard_time": 1714984458,
+        "rank": 18,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 330956,
+        "num": 330956,
+        "word": "老头杯",
+        "onboard_time": 1714989377,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 491080,
+        "num": 327114,
+        "word": "月薪4000小伙三年攒下13万",
+        "onboard_time": 1714979718,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314570,
+        "num": 314570,
+        "word": "国家预警发布太阳耀斑提示",
+        "onboard_time": 1714988598,
+        "rank": 21,
+        "category": "科学科普,自然"
+      },
+      {
+        "raw_hot": 287908,
+        "num": 287908,
+        "word": "句句不提爱字字都是爱",
+        "onboard_time": 1714984818,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286905,
+        "num": 286905,
+        "word": "歌手合伙人 李晋晔",
+        "onboard_time": 1714981040,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285855,
+        "num": 285855,
+        "word": "感觉长辈被时代红利保护得太好了",
+        "onboard_time": 1714980979,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285690,
+        "num": 285690,
+        "word": "李维嘉为谢娜庆生",
+        "onboard_time": 1714989919,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274212,
+        "num": 274212,
+        "word": "吃火锅意外吃出甄嬛传片头",
+        "onboard_time": 1714987998,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267076,
+        "num": 267076,
+        "word": "迪丽热巴唇环",
+        "onboard_time": 1714976599,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257078,
+        "num": 257078,
+        "word": "Ning老头杯一选TheShy",
+        "onboard_time": 1714989919,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 225901,
+        "num": 225901,
+        "word": "庆余年3在写了",
+        "onboard_time": 1714983259,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222322,
+        "num": 222322,
+        "word": "庆余年2演员变更",
+        "onboard_time": 1714968861,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221532,
+        "num": 221532,
+        "word": "太阳爆发X级耀斑",
+        "onboard_time": 1714988419,
+        "rank": 31,
+        "category": "科学科普,自然"
+      },
+      {
+        "raw_hot": 220363,
+        "num": 220363,
+        "word": "梅大高速下跪拦车老人受家乡百姓热情迎接",
+        "onboard_time": 1714989559,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203317,
+        "num": 203317,
+        "word": "厦门震感",
+        "onboard_time": 1714990219,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201702,
+        "num": 201702,
+        "word": "观众假唱 好小众的文字",
+        "onboard_time": 1714972699,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193336,
+        "num": 193336,
+        "word": "在全家人面前叫丈夫的全名",
+        "onboard_time": 1714989679,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185907,
+        "num": 185907,
+        "word": "捡到了迪丽热巴的假发",
+        "onboard_time": 1714987039,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178620,
+        "num": 178620,
+        "word": "家里人不同意一次性相亲两个男生",
+        "onboard_time": 1714990518,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168191,
+        "num": 168191,
+        "word": "我爸每个月给我四千五的相亲费",
+        "onboard_time": 1714984219,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167464,
+        "num": 167464,
+        "word": "温州一条夹缝房卖了238万元",
+        "onboard_time": 1714988058,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161807,
+        "num": 161807,
+        "word": "老头杯选人",
+        "onboard_time": 1714989859,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161612,
+        "num": 161612,
+        "word": "20分钟的面试把我剖干净了",
+        "onboard_time": 1714986859,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155445,
+        "num": 155445,
+        "word": "新生开播",
+        "onboard_time": 1714988299,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154062,
+        "num": 154062,
+        "word": "梁靖崑2比3阿拉米扬",
+        "onboard_time": 1714984760,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152442,
+        "num": 152442,
+        "word": "中法欧领导人三方会晤举行",
+        "onboard_time": 1714986920,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149377,
+        "num": 149377,
+        "word": "白日提灯",
+        "onboard_time": 1714979957,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140346,
+        "num": 140346,
+        "word": "太阳耀斑",
+        "onboard_time": 1714988778,
+        "rank": 46,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 137484,
+        "num": 137484,
+        "word": "林俊杰唱了一千年后记得我",
+        "onboard_time": 1714985959,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135440,
+        "num": 135440,
+        "word": "BLACKPINK合约到期后首次回归",
+        "onboard_time": 1714975099,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125593,
+        "num": 125593,
+        "word": "才知道冷冻番茄能让鲜味倍增",
+        "onboard_time": 1714984518,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的欧洲之行#"
+    }
+  }
+}
