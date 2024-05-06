@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715006118220,
+  "endTime": 1715008753036,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2303240,
-      "num": 642184,
+      "num": 687244,
       "word": "人民文娱评华晨宇日出演唱会",
       "onboard_time": 1714999998,
       "rank": 4,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1867017,
-      "num": 646267,
+      "num": 657957,
       "word": "徐园男友称其系自杀",
       "onboard_time": 1714997538,
       "rank": 10,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1301184,
+      "num": 779531,
+      "word": "考上研究生是对混子的最大惩罚",
+      "onboard_time": 1715003719,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1294787,
       "num": 1294787,
       "word": "边伯贤微博",
@@ -249,6 +257,14 @@
       "onboard_time": 1714871057,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1253807,
+      "num": 258137,
+      "word": "经常口臭的人一般都逃不过这几个原因",
+      "onboard_time": 1715007080,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1239675,
@@ -555,12 +571,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 846635,
+      "num": 257247,
+      "word": "缅甸",
+      "onboard_time": 1715006420,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 843998,
       "num": 843998,
       "word": "香飘飘 我们的员工是好样的",
       "onboard_time": 1714866495,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 836460,
+      "num": 836460,
+      "word": "抑郁女儿叫朋友来家里吃饭了",
+      "onboard_time": 1715005941,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 831679,
@@ -683,12 +715,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 755033,
+      "num": 318305,
+      "word": "日本商店否认出售香飘飘讽日杯套奶茶",
+      "onboard_time": 1715002879,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751270,
       "num": 697422,
       "word": "差点认不出来马伊琍",
       "onboard_time": 1714965379,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 750375,
+      "num": 255815,
+      "word": "取消公办中小学教师编制可不可行",
+      "onboard_time": 1715007201,
+      "rank": 22,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 743108,
@@ -875,14 +923,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 624049,
-      "num": 624049,
-      "word": "考上研究生是对混子的最大惩罚",
-      "onboard_time": 1715003719,
-      "rank": 18,
-      "category": "教育"
-    },
-    {
       "raw_hot": 620236,
       "num": 400897,
       "word": "迪丽热巴唇环",
@@ -963,14 +1003,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 587066,
-      "num": 318305,
-      "word": "日本商店否认出售香飘飘讽日杯套奶茶",
-      "onboard_time": 1715002879,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 585149,
       "num": 332946,
       "word": "原来上班真的能跨越阶级",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1714919301,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 554208,
+      "num": 554208,
+      "word": "男子确诊胃癌提前一年为自己安排身后事",
+      "onboard_time": 1715007320,
+      "rank": 5,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 551672,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1714874838,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503551,
+      "num": 380802,
+      "word": "杨幂曾问邓超亚比是什么",
+      "onboard_time": 1715005520,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 501713,
@@ -1563,6 +1611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 419315,
+      "num": 419315,
+      "word": "WB 折磨",
+      "onboard_time": 1715001800,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 416940,
       "num": 416940,
       "word": "哑舍",
@@ -1875,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358398,
+      "num": 358398,
+      "word": "邓超你关注下陶白白吧",
+      "onboard_time": 1715003960,
+      "rank": 21,
+      "category": "艺人,情感"
+    },
+    {
       "raw_hot": 357299,
       "num": 357299,
       "word": "赛力斯报案",
@@ -2019,14 +2083,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 331054,
-      "num": 324798,
-      "word": "邓超你关注下陶白白吧",
-      "onboard_time": 1715003960,
-      "rank": 21,
-      "category": "艺人,情感"
-    },
-    {
       "raw_hot": 330219,
       "num": 256084,
       "word": "邓超 水瓶座",
@@ -2163,28 +2219,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 307054,
-      "num": 307054,
-      "word": "WB 折磨",
-      "onboard_time": 1715001800,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 304014,
       "num": 304014,
       "word": "叶祖新怎么越老越帅",
       "onboard_time": 1714897639,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 301523,
-      "num": 301523,
-      "word": "杨幂曾问邓超亚比是什么",
-      "onboard_time": 1715005520,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 298489,
@@ -2315,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279380,
+      "num": 253851,
+      "word": "有一种惨叫广东荔枝不挂果",
+      "onboard_time": 1715007080,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 279200,
       "num": 279200,
       "word": "向佐因暴雨错过时代少年团演唱会",
@@ -2419,6 +2467,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 264424,
+      "num": 264424,
+      "word": "想念郭艾伦",
+      "onboard_time": 1715004982,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264383,
       "num": 264383,
       "word": "酱园弄片长",
@@ -2500,7 +2556,7 @@
     },
     {
       "raw_hot": 257790,
-      "num": 646980,
+      "num": 688727,
       "word": "五一假期文旅消费成绩单",
       "onboard_time": 1715001138,
       "rank": 2,
@@ -2627,14 +2683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 242354,
-      "num": 229891,
-      "word": "抑郁女儿叫朋友来家里吃饭了",
-      "onboard_time": 1715005941,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 238965,
       "num": 238965,
       "word": "立夏",
@@ -2673,6 +2721,14 @@
       "onboard_time": 1714900880,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 234649,
+      "num": 234649,
+      "word": "徐园男友有3次暴力前科",
+      "onboard_time": 1715007981,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234457,
@@ -2771,6 +2827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228852,
+      "num": 228852,
+      "word": "张杰谢娜认识18年了",
+      "onboard_time": 1715007260,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228288,
       "num": 254989,
       "word": "原来香飘飘曾拒绝外资收购",
@@ -2833,14 +2897,6 @@
       "onboard_time": 1715003900,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224535,
-      "num": 224535,
-      "word": "想念郭艾伦",
-      "onboard_time": 1715004982,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 223033,
@@ -3123,6 +3179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205857,
+      "num": 205857,
+      "word": "黄金狂飙后钻石崩了",
+      "onboard_time": 1715004139,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 205532,
       "num": 205532,
       "word": "男生五一帮父亲砍了1800斤柴",
@@ -3163,12 +3227,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202258,
-      "num": 202258,
-      "word": "黄金狂飙后钻石崩了",
-      "onboard_time": 1715004139,
-      "rank": 39,
-      "category": "财经"
+      "raw_hot": 202742,
+      "num": 202742,
+      "word": "TTG晋级败者组第三轮",
+      "onboard_time": 1715007559,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 202190,
+      "num": 202190,
+      "word": "发型选对颜值翻倍",
+      "onboard_time": 1715008100,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 201763,
@@ -3185,6 +3257,14 @@
       "onboard_time": 1714904719,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 201252,
+      "num": 201252,
+      "word": "郭艾伦说很想和大家一起上",
+      "onboard_time": 1715007801,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 201153,
@@ -3241,6 +3321,14 @@
       "onboard_time": 1714957102,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199258,
+      "num": 199258,
+      "word": "林诗栋3比2菲鲁斯",
+      "onboard_time": 1715008041,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 199131,
@@ -3659,6 +3747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186287,
+      "num": 186287,
+      "word": "赴山海",
+      "onboard_time": 1715005941,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186015,
       "num": 180133,
       "word": "导演回应一顿火锅撤档",
@@ -3819,14 +3915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179249,
-      "num": 179249,
-      "word": "赴山海",
-      "onboard_time": 1715005941,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 178991,
       "num": 178991,
       "word": "羽毛球",
@@ -3931,6 +4019,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 175578,
+      "num": 175578,
+      "word": "张杰卡点2134",
+      "onboard_time": 1715006900,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175399,
       "num": 276932,
       "word": "一晚两场演唱会民警人海硬控忙不停",
@@ -3971,6 +4067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174167,
+      "num": 174167,
+      "word": "黄景瑜把黄明昊弄懵了",
+      "onboard_time": 1715008520,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173994,
       "num": 173994,
       "word": "喻言在KTV直播",
@@ -3985,6 +4089,14 @@
       "onboard_time": 1714864154,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173676,
+      "num": 173676,
+      "word": "朱丹说周一围的颜值是意外之喜",
+      "onboard_time": 1715006541,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 173611,
@@ -4083,6 +4195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170608,
+      "num": 170608,
+      "word": "KPL",
+      "onboard_time": 1715007080,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169989,
       "num": 169989,
       "word": "WTT沙特大满贯",
@@ -4177,6 +4297,14 @@
       "onboard_time": 1714983858,
       "rank": 35,
       "category": "社会新闻,汽车"
+    },
+    {
+      "raw_hot": 166507,
+      "num": 166507,
+      "word": "杜锋说羡慕杨鸣",
+      "onboard_time": 1715008460,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 166168,
@@ -4411,6 +4539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158351,
+      "num": 158351,
+      "word": "原来这些行为是良性自虐",
+      "onboard_time": 1715007201,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157574,
       "num": 157574,
       "word": "星卡里 杭州",
@@ -4505,6 +4641,14 @@
       "onboard_time": 1714886838,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153888,
+      "num": 153888,
+      "word": "赵继伟7分",
+      "onboard_time": 1715008403,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 153823,
@@ -4737,6 +4881,14 @@
       "onboard_time": 1714867815,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 143171,
+      "num": 143171,
+      "word": "背着善宰跑第九集",
+      "onboard_time": 1715008640,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 142764,
