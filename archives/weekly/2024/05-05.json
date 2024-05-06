@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714976698255,
+  "endTime": 1714977432873,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -299,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1028548,
+      "num": 1028548,
+      "word": "高铁涨价",
+      "onboard_time": 1714975339,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1003253,
       "num": 1003253,
       "word": "娜子官宣",
@@ -347,6 +355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 888366,
+      "num": 281531,
+      "word": "高铁上2女子因遮光帘来回拉扯40分",
+      "onboard_time": 1714973420,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 877700,
       "num": 877700,
       "word": "14岁男孩当伴郎遇班主任伴娘",
@@ -392,14 +408,6 @@
       "word": "香飘飘 我们的员工是好样的",
       "onboard_time": 1714866495,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 843464,
-      "num": 278222,
-      "word": "高铁上2女子因遮光帘来回拉扯40分",
-      "onboard_time": 1714973420,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -643,12 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 621782,
-      "num": 621782,
-      "word": "高铁涨价",
-      "onboard_time": 1714975339,
-      "rank": 4,
-      "category": "财经"
+      "raw_hot": 625906,
+      "num": 527165,
+      "word": "BLACKPINK合约到期后首次回归",
+      "onboard_time": 1714975099,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 617143,
@@ -673,14 +681,6 @@
       "onboard_time": 1714889118,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 608050,
-      "num": 527165,
-      "word": "BLACKPINK合约到期后首次回归",
-      "onboard_time": 1714975099,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 607475,
@@ -1171,6 +1171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 418997,
+      "num": 317186,
+      "word": "张煜东求婚张凯毅",
+      "onboard_time": 1714976659,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 416540,
       "num": 339277,
       "word": "凤凰传奇玲花回应观众被质疑假唱",
@@ -1291,12 +1299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386509,
+      "num": 319112,
+      "word": "叶灵儿",
+      "onboard_time": 1714973900,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380079,
       "num": 380079,
       "word": "薛之谦退票梗刷新纪录",
       "onboard_time": 1714954279,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 377500,
+      "num": 308150,
+      "word": "内塔尼亚胡称二战时没有国家援助犹太人",
+      "onboard_time": 1714974318,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 375344,
@@ -1353,14 +1377,6 @@
       "onboard_time": 1714893198,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 362681,
-      "num": 319112,
-      "word": "叶灵儿",
-      "onboard_time": 1714973900,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 361869,
@@ -1595,14 +1611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 301970,
-      "num": 301970,
-      "word": "内塔尼亚胡称二战时没有国家援助犹太人",
-      "onboard_time": 1714974318,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 297173,
       "num": 297173,
       "word": "BLG上上签",
@@ -1683,12 +1691,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 281342,
+      "num": 281342,
+      "word": "淘宝免单bug",
+      "onboard_time": 1714974379,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 280439,
       "num": 280439,
       "word": "沈腾马丽炫彩小卡",
       "onboard_time": 1714900519,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280403,
+      "num": 280403,
+      "word": "迪丽热巴唇环",
+      "onboard_time": 1714976599,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 279949,
@@ -1772,7 +1796,7 @@
     },
     {
       "raw_hot": 267047,
-      "num": 248002,
+      "num": 266033,
       "word": "周渝民16年后杀回现偶",
       "onboard_time": 1714975998,
       "rank": 25,
@@ -2155,6 +2179,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 218867,
+      "num": 218867,
+      "word": "抑郁症是攻击性指向自身",
+      "onboard_time": 1714974978,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 218204,
       "num": 218204,
       "word": "你喝咖啡会感到不舒服吗",
@@ -2363,14 +2395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201905,
-      "num": 201905,
-      "word": "抑郁症是攻击性指向自身",
-      "onboard_time": 1714974978,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 201763,
       "num": 201763,
       "word": "厦门为求职实习大学生开放两千多张免费床位",
@@ -2457,14 +2481,6 @@
       "onboard_time": 1714976120,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197873,
-      "num": 254203,
-      "word": "淘宝免单bug",
-      "onboard_time": 1714974379,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 197682,
@@ -2611,6 +2627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192488,
+      "num": 192488,
+      "word": "男生五一帮父亲砍了1800斤柴",
+      "onboard_time": 1714976719,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192251,
       "num": 192251,
       "word": "鹿晗也去吃淄博烧烤了",
@@ -2667,20 +2691,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190836,
+      "num": 190836,
+      "word": "为何拖鞋怎么换都滂臭",
+      "onboard_time": 1714973119,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 190728,
       "num": 190728,
       "word": "李诗沣vs乔纳坦",
       "onboard_time": 1714915219,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190687,
-      "num": 190687,
-      "word": "为何拖鞋怎么换都滂臭",
-      "onboard_time": 1714973119,
-      "rank": 33,
-      "category": "科学科普"
     },
     {
       "raw_hot": 188877,
@@ -2779,6 +2803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185063,
+      "num": 185063,
+      "word": "庄达菲 静止",
+      "onboard_time": 1714975639,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184541,
       "num": 184541,
       "word": "5天说没就没",
@@ -2793,14 +2825,6 @@
       "onboard_time": 1714904958,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 183456,
-      "num": 183456,
-      "word": "庄达菲 静止",
-      "onboard_time": 1714975639,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 182667,
@@ -3363,6 +3387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155712,
+      "num": 155712,
+      "word": "东方甄选未取得经营许可被罚1.3万",
+      "onboard_time": 1714974618,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 155692,
       "num": 155692,
       "word": "蓝眼泪",
@@ -3409,14 +3441,6 @@
       "onboard_time": 1714871478,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152059,
-      "num": 152059,
-      "word": "迪丽热巴唇环",
-      "onboard_time": 1714976599,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 151901,
@@ -3507,12 +3531,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 147634,
-      "num": 147634,
-      "word": "东方甄选未取得经营许可被罚1.3万",
-      "onboard_time": 1714974618,
-      "rank": 42,
-      "category": "互联网"
+      "raw_hot": 147269,
+      "num": 184115,
+      "word": "梅大高速救人司机拟被认定见义勇为",
+      "onboard_time": 1714976778,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146772,
+      "num": 146772,
+      "word": "景德镇有一座蛋形博物馆",
+      "onboard_time": 1714977019,
+      "rank": 44,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 146729,
@@ -3683,6 +3715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132591,
+      "num": 132591,
+      "word": "毛不易震惊脸",
+      "onboard_time": 1714976960,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132525,
       "num": 75506,
       "word": "体检照X光别穿有刺绣的衣服",
@@ -3769,14 +3809,6 @@
       "onboard_time": 1714896679,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 127965,
-      "num": 127965,
-      "word": "张煜东求婚张凯毅",
-      "onboard_time": 1714976659,
-      "rank": 43,
-      "category": "网红"
     },
     {
       "raw_hot": 127198,
@@ -4027,6 +4059,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 117641,
+      "num": 117641,
+      "word": "孙颖莎沙特遥祝陈清晨夺冠",
+      "onboard_time": 1714976898,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117466,
       "num": 117466,
       "word": "信一太帅了",
@@ -4057,6 +4097,14 @@
       "onboard_time": 1714867937,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115594,
+      "num": 115594,
+      "word": "淘宝免单",
+      "onboard_time": 1714977378,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 115355,
