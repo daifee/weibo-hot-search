@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/05 00:21:24 ~ 2024/05/07 00:25:28
+本榜单时间：2024/05/05 00:21:24 ~ 2024/05/07 00:39:19
 </p>
 </blockquote>
 <p>
@@ -993,6 +993,12 @@ BLACKPINK合约到期后首次回归（热度：625906）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%8F%82%E4%B8%8E%E4%B8%BE%E5%8A%9E%E7%94%B5%E9%9F%B3%E8%8A%82%E8%A2%AB%E6%8C%87%E5%AE%B0%E5%AE%A2%23" target="weibo">
+三只羊参与举办电音节被指宰客（热度：483866）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%E6%9C%AA%E5%85%AC%E5%BC%80kiss%E5%9C%BA%E9%9D%A2%23" target="weibo">
 眼泪女王未公开kiss场面（热度：481754）
 </a>
@@ -1535,12 +1541,6 @@ ILLIT听众超过BLACKPINK（热度：364053）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3%E7%AC%AC3%E6%AC%A1%E7%88%86%E5%8F%91%E6%9C%80%E5%BC%BAX%E7%BA%A7%E8%80%80%E6%96%91%23" target="weibo">
 太阳第3次爆发最强X级耀斑（热度：345296）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%8F%82%E4%B8%8E%E4%B8%BE%E5%8A%9E%E7%94%B5%E9%9F%B3%E8%8A%82%E8%A2%AB%E6%8C%87%E5%AE%B0%E5%AE%A2%23" target="weibo">
-三只羊参与举办电音节被指宰客（热度：339850）
 </a>
 </li>
 
