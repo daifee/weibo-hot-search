@@ -1,0 +1,410 @@
+{
+  "runTime": 1714959434052,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1331423,
+        "num": 1331423,
+        "word": "很快就知道6天有多长了",
+        "onboard_time": 1714953438,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 670939,
+        "num": 670939,
+        "word": "清水镇的水是脏水的水",
+        "onboard_time": 1714956741,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12346,
+        "num": 668066,
+        "word": "文化中国行发现节气之美",
+        "onboard_time": 1714896140,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666007,
+        "num": 666007,
+        "word": "节后上班第1天",
+        "onboard_time": 1714951455,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549830,
+        "num": 549830,
+        "word": "官方通报摊贩6两蓝莓当1斤卖称都这样",
+        "onboard_time": 1714953917,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535242,
+        "num": 535242,
+        "word": "未来三天有可能爆发M级甚至X级以上耀斑",
+        "onboard_time": 1714897518,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523367,
+        "num": 523367,
+        "word": "特斯拉坠崖致夫妻身亡记录仪数据却没了",
+        "onboard_time": 1714917921,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504793,
+        "num": 504793,
+        "word": "凤凰传奇观众被质疑假唱",
+        "onboard_time": 1714919121,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 459290,
+        "num": 459290,
+        "word": "叫花鸡里没有鸡涉事商家被查",
+        "onboard_time": 1714957759,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367083,
+        "num": 457811,
+        "word": "高铁上大学生帮了11岁时的自己",
+        "onboard_time": 1714953018,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1156957,
+        "num": 451609,
+        "word": "司马光 对不起让大家失望了",
+        "onboard_time": 1714955780,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 843808,
+        "num": 448964,
+        "word": "黄子韬撩徐艺洋",
+        "onboard_time": 1714955298,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 827980,
+        "num": 443055,
+        "word": "睡前大量饮水影响前列腺健康",
+        "onboard_time": 1714952117,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 439521,
+        "num": 439521,
+        "word": "看腿就知道你血糖高了",
+        "onboard_time": 1714914680,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 323640,
+        "num": 323640,
+        "word": "薛之谦退票梗刷新纪录",
+        "onboard_time": 1714954279,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 305228,
+        "num": 305228,
+        "word": "有人弃我如杂草 有人视我如珍宝",
+        "onboard_time": 1714942331,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297476,
+        "num": 297476,
+        "word": "官方通报重庆一医院被举报冒名产子",
+        "onboard_time": 1714959020,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281921,
+        "num": 281921,
+        "word": "30岁了依然觉得自己有很多可能",
+        "onboard_time": 1714957338,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277064,
+        "num": 277064,
+        "word": "本周狗屎运最旺的星座TOP4",
+        "onboard_time": 1714953018,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91633,
+        "num": 273548,
+        "word": "博主分享日本美食意外拍到小偷3秒行窃",
+        "onboard_time": 1714957699,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604761,
+        "num": 267954,
+        "word": "结肠癌明显的早期信号有哪些",
+        "onboard_time": 1714953680,
+        "rank": 20,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 405893,
+        "num": 264743,
+        "word": "听说中国人到了20岁都会血脉觉醒",
+        "onboard_time": 1714953018,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324312,
+        "num": 256206,
+        "word": "刘亦菲37岁状态",
+        "onboard_time": 1714953978,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255321,
+        "num": 255321,
+        "word": "学历大幅贬值了吗",
+        "onboard_time": 1714955359,
+        "rank": 23,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 237248,
+        "num": 237248,
+        "word": "空包叫花鸡店主称临时工错拿样品",
+        "onboard_time": 1714957878,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213831,
+        "num": 213831,
+        "word": "回想封神第一部开局票房惨状",
+        "onboard_time": 1714952117,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210789,
+        "num": 210789,
+        "word": "泫雅一个月晕倒12次",
+        "onboard_time": 1714914321,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199313,
+        "num": 199313,
+        "word": "背着善宰跑",
+        "onboard_time": 1714957158,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198337,
+        "num": 198337,
+        "word": "2024年还有三个假期",
+        "onboard_time": 1714958297,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193434,
+        "num": 193434,
+        "word": "凤凰传奇演唱会",
+        "onboard_time": 1714958777,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192521,
+        "num": 192521,
+        "word": "封神第一部真现象级电影",
+        "onboard_time": 1714957459,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186531,
+        "num": 186531,
+        "word": "孙俪早六运动",
+        "onboard_time": 1714955720,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176153,
+        "num": 176153,
+        "word": "谢娜杨迪八年前旧照",
+        "onboard_time": 1714956499,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175684,
+        "num": 175684,
+        "word": "3个睡姿一觉到天亮",
+        "onboard_time": 1714957039,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 164413,
+        "num": 164413,
+        "word": "时代少年团 天津",
+        "onboard_time": 1714955240,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154841,
+        "num": 154841,
+        "word": "为什么年轻人流行偷偷领证",
+        "onboard_time": 1714926737,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152929,
+        "num": 152929,
+        "word": "官方通报叫花鸡里没有鸡",
+        "onboard_time": 1714918581,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149720,
+        "num": 149720,
+        "word": "赵丽颖出道十八周年",
+        "onboard_time": 1714951335,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236201,
+        "num": 149699,
+        "word": "香飘飘",
+        "onboard_time": 1714958597,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149439,
+        "num": 149439,
+        "word": "狗狗被前主人抛弃患上抑郁症",
+        "onboard_time": 1714954760,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143780,
+        "num": 143780,
+        "word": "塞尔维亚街头现巨幅中国国旗",
+        "onboard_time": 1714923079,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136987,
+        "num": 136987,
+        "word": "网购7700元迪士尼套餐最终民警护送入园",
+        "onboard_time": 1714910658,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136709,
+        "num": 136709,
+        "word": "第一次看到张元英表情管理失败",
+        "onboard_time": 1714915460,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135232,
+        "num": 135232,
+        "word": "华山金色晚霞配云海浪漫又震撼",
+        "onboard_time": 1714958539,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 132807,
+        "num": 132807,
+        "word": "张杰杭州",
+        "onboard_time": 1714957878,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132744,
+        "num": 132744,
+        "word": "伯纳德希尔去世",
+        "onboard_time": 1714951516,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126227,
+        "num": 126227,
+        "word": "陈奕迅武汉安可7首",
+        "onboard_time": 1714955060,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125020,
+        "num": 125020,
+        "word": "医院被举报代孕1小时后产妇出院被疑通风报信",
+        "onboard_time": 1714897279,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113795,
+        "num": 113795,
+        "word": "五一档电影为什么没有很多人看",
+        "onboard_time": 1714907838,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112911,
+        "num": 112911,
+        "word": "如何面对男性的目光凝视",
+        "onboard_time": 1714956499,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席访问法国#"
+    }
+  }
+}

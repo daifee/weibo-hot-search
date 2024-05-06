@@ -1,7 +1,23 @@
 {
   "startTime": 1714926165838,
-  "endTime": 1714958208607,
+  "endTime": 1714959434052,
   "band_list": [
+    {
+      "raw_hot": 1331423,
+      "num": 1331423,
+      "word": "很快就知道6天有多长了",
+      "onboard_time": 1714953438,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1156957,
+      "num": 691364,
+      "word": "司马光 对不起让大家失望了",
+      "onboard_time": 1714955780,
+      "rank": 4,
+      "category": "电竞"
+    },
     {
       "raw_hot": 1088996,
       "num": 1088996,
@@ -27,14 +43,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 917772,
-      "num": 917772,
-      "word": "很快就知道6天有多长了",
-      "onboard_time": 1714953442,
-      "rank": 1,
-      "category": "情感"
-    },
-    {
       "raw_hot": 914694,
       "num": 532745,
       "word": "睡前大量饮水影响前列腺健康",
@@ -46,7 +54,7 @@
       "raw_hot": 860372,
       "num": 532165,
       "word": "黄子韬撩徐艺洋",
-      "onboard_time": 1714955483,
+      "onboard_time": 1714955298,
       "rank": 11,
       "category": "综艺"
     },
@@ -78,17 +86,9 @@
       "raw_hot": 706311,
       "num": 272970,
       "word": "结肠癌明显的早期信号有哪些",
-      "onboard_time": 1714953741,
+      "onboard_time": 1714953680,
       "rank": 20,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 691364,
-      "num": 691364,
-      "word": "司马光 对不起让大家失望了",
-      "onboard_time": 1714955903,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 690243,
@@ -99,10 +99,18 @@
       "category": "教育"
     },
     {
+      "raw_hot": 670939,
+      "num": 670939,
+      "word": "清水镇的水是脏水的水",
+      "onboard_time": 1714956741,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 599179,
       "num": 599179,
       "word": "官方通报摊贩6两蓝莓当1斤卖称都这样",
-      "onboard_time": 1714953922,
+      "onboard_time": 1714953917,
       "rank": 7,
       "category": "社会新闻"
     },
@@ -134,17 +142,17 @@
       "raw_hot": 488089,
       "num": 270556,
       "word": "听说中国人到了20岁都会血脉觉醒",
-      "onboard_time": 1714953022,
+      "onboard_time": 1714953018,
       "rank": 21,
       "category": "情感"
     },
     {
-      "raw_hot": 426175,
-      "num": 426175,
-      "word": "清水镇的水是脏水的水",
-      "onboard_time": 1714956862,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 459290,
+      "num": 459290,
+      "word": "叫花鸡里没有鸡涉事商家被查",
+      "onboard_time": 1714957759,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423568,
@@ -172,9 +180,9 @@
     },
     {
       "raw_hot": 398086,
-      "num": 398086,
+      "num": 457811,
       "word": "高铁上大学生帮了11岁时的自己",
-      "onboard_time": 1714953022,
+      "onboard_time": 1714953018,
       "rank": 13,
       "category": "社会新闻"
     },
@@ -182,7 +190,7 @@
       "raw_hot": 389307,
       "num": 267592,
       "word": "刘亦菲37岁状态",
-      "onboard_time": 1714953981,
+      "onboard_time": 1714953978,
       "rank": 23,
       "category": "艺人"
     },
@@ -190,7 +198,7 @@
       "raw_hot": 380079,
       "num": 380079,
       "word": "薛之谦退票梗刷新纪录",
-      "onboard_time": 1714954343,
+      "onboard_time": 1714954279,
       "rank": 14,
       "category": "演出"
     },
@@ -206,7 +214,7 @@
       "raw_hot": 369771,
       "num": 369771,
       "word": "本周狗屎运最旺的星座TOP4",
-      "onboard_time": 1714953022,
+      "onboard_time": 1714953018,
       "rank": 15,
       "category": "情感"
     },
@@ -230,9 +238,17 @@
       "raw_hot": 312389,
       "num": 312389,
       "word": "回想封神第一部开局票房惨状",
-      "onboard_time": 1714952121,
+      "onboard_time": 1714952117,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 297476,
+      "num": 297476,
+      "word": "官方通报重庆一医院被举报冒名产子",
+      "onboard_time": 1714959020,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293632,
@@ -240,6 +256,14 @@
       "word": "为什么月薪五千每天这么多事",
       "onboard_time": 1714908198,
       "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 281921,
+      "num": 281921,
+      "word": "30岁了依然觉得自己有很多可能",
+      "onboard_time": 1714957338,
+      "rank": 30,
       "category": "情感"
     },
     {
@@ -259,14 +283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 267386,
-      "num": 267386,
-      "word": "叫花鸡里没有鸡涉事商家被查",
-      "onboard_time": 1714958183,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266450,
       "num": 304185,
       "word": "白桃星座",
@@ -278,7 +294,7 @@
       "raw_hot": 261313,
       "num": 261313,
       "word": "学历大幅贬值了吗",
-      "onboard_time": 1714955422,
+      "onboard_time": 1714955359,
       "rank": 25,
       "category": "社会议题"
     },
@@ -315,10 +331,26 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237248,
+      "num": 237248,
+      "word": "空包叫花鸡店主称临时工错拿样品",
+      "onboard_time": 1714957878,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236201,
+      "num": 149699,
+      "word": "香飘飘",
+      "onboard_time": 1714958597,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227775,
       "num": 227775,
       "word": "孙俪早六运动",
-      "onboard_time": 1714955780,
+      "onboard_time": 1714955720,
       "rank": 26,
       "category": "艺人"
     },
@@ -350,7 +382,7 @@
       "raw_hot": 215995,
       "num": 215995,
       "word": "谢娜杨迪八年前旧照",
-      "onboard_time": 1714956745,
+      "onboard_time": 1714956499,
       "rank": 27,
       "category": "艺人"
     },
@@ -363,12 +395,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208002,
-      "num": 208002,
-      "word": "30岁了依然觉得自己有很多可能",
-      "onboard_time": 1714957342,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 199313,
+      "num": 199313,
+      "word": "背着善宰跑",
+      "onboard_time": 1714957102,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198337,
+      "num": 198337,
+      "word": "2024年还有三个假期",
+      "onboard_time": 1714958297,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197402,
@@ -379,20 +419,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193434,
+      "num": 193434,
+      "word": "凤凰传奇演唱会",
+      "onboard_time": 1714958777,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 192521,
+      "num": 192521,
+      "word": "封神第一部真现象级电影",
+      "onboard_time": 1714957459,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191709,
       "num": 191709,
       "word": "为什么年轻人流行偷偷领证",
       "onboard_time": 1714926680,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 190910,
-      "num": 190910,
-      "word": "背着善宰跑",
-      "onboard_time": 1714957102,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 189675,
@@ -430,9 +478,17 @@
       "raw_hot": 177515,
       "num": 177515,
       "word": "狗狗被前主人抛弃患上抑郁症",
-      "onboard_time": 1714954763,
+      "onboard_time": 1714954760,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175684,
+      "num": 175684,
+      "word": "3个睡姿一觉到天亮",
+      "onboard_time": 1714957039,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 175399,
@@ -459,14 +515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164398,
-      "num": 164398,
-      "word": "封神第一部真现象级电影",
-      "onboard_time": 1714957522,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 163463,
       "num": 163463,
       "word": "老外在五星级酒店脱了裤子当众小便",
@@ -478,17 +526,9 @@
       "raw_hot": 163066,
       "num": 163066,
       "word": "陈奕迅武汉安可7首",
-      "onboard_time": 1714955124,
+      "onboard_time": 1714955060,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 162835,
-      "num": 162835,
-      "word": "3个睡姿一觉到天亮",
-      "onboard_time": 1714957102,
-      "rank": 40,
-      "category": "科学科普"
     },
     {
       "raw_hot": 158775,
@@ -505,14 +545,6 @@
       "onboard_time": 1714916902,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 152825,
-      "num": 131153,
-      "word": "空包叫花鸡店主称临时工错拿样品",
-      "onboard_time": 1714958183,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147716,
@@ -540,9 +572,9 @@
     },
     {
       "raw_hot": 140188,
-      "num": 120479,
+      "num": 132807,
       "word": "张杰杭州",
-      "onboard_time": 1714958183,
+      "onboard_time": 1714957878,
       "rank": 47,
       "category": "演出"
     },
@@ -555,10 +587,18 @@
       "category": "美食"
     },
     {
+      "raw_hot": 135232,
+      "num": 135232,
+      "word": "华山金色晚霞配云海浪漫又震撼",
+      "onboard_time": 1714958539,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 129717,
       "num": 124563,
       "word": "如何面对男性的目光凝视",
-      "onboard_time": 1714956745,
+      "onboard_time": 1714956499,
       "rank": 46,
       "category": "情感"
     },
@@ -665,6 +705,14 @@
       "onboard_time": 1714918041,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91633,
+      "num": 273620,
+      "word": "博主分享日本美食意外拍到小偷3秒行窃",
+      "onboard_time": 1714957687,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90704,
@@ -865,14 +913,6 @@
       "onboard_time": 1714940292,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 18452,
-      "num": 273620,
-      "word": "博主分享日本美食意外拍到小偷3秒行窃",
-      "onboard_time": 1714957687,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16676,
