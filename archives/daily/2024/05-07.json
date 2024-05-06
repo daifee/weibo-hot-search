@@ -1,6 +1,6 @@
 {
   "startTime": 1715012728684,
-  "endTime": 1715024048033,
+  "endTime": 1715026776549,
   "band_list": [
     {
       "raw_hot": 1178293,
@@ -475,7 +475,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31230,
+      "raw_hot": 32411,
       "num": 31230,
       "word": "纪凌尘回复宋威龙",
       "onboard_time": 1715019132,
@@ -507,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 21028,
+      "num": 21028,
+      "word": "范闲暴揍范思辙",
+      "onboard_time": 1715024350,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19259,
       "num": 21138,
       "word": "TTG晋级败者组第三轮",
@@ -523,11 +531,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17009,
+      "num": 17009,
+      "word": "医学生有自己杀菠萝方式",
+      "onboard_time": 1715026030,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16369,
       "num": 21059,
       "word": "男子打球被球友看出面相不对救了一命",
       "onboard_time": 1715020752,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12230,
+      "num": 15711,
+      "word": "老人倒地医生情侣15分钟抢回一条命",
+      "onboard_time": 1715026750,
+      "rank": 49,
       "category": "社会新闻"
     }
   ],
