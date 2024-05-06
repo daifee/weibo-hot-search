@@ -1,0 +1,410 @@
+{
+  "runTime": 1714995253885,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1067350,
+        "num": 1067350,
+        "word": "爸爸辅导作业崩溃用石榴砸破孩子脾脏",
+        "onboard_time": 1714985657,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1059422,
+        "num": 1059422,
+        "word": "老头杯",
+        "onboard_time": 1714989377,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 67466,
+        "num": 857021,
+        "word": "巴黎欢迎人群敲锣打鼓舞龙舞狮",
+        "onboard_time": 1714987639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855115,
+        "num": 855115,
+        "word": "内娱直播考研上岸第一人",
+        "onboard_time": 1714991359,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476222,
+        "num": 476222,
+        "word": "原来高铁上是有15元的盒饭的",
+        "onboard_time": 1714991058,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 392982,
+        "num": 392982,
+        "word": "吃火锅意外吃出甄嬛传片头",
+        "onboard_time": 1714987998,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376301,
+        "num": 376301,
+        "word": "关雪 晴川",
+        "onboard_time": 1714985839,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321908,
+        "num": 321908,
+        "word": "Ning老头杯一选TheShy",
+        "onboard_time": 1714989919,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125543,
+        "num": 321870,
+        "word": "女子突发晕厥14岁少年挺身而出",
+        "onboard_time": 1714982058,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 141806,
+        "num": 320730,
+        "word": "小鸟努力把自己美成了花鸟图",
+        "onboard_time": 1714980258,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979987,
+        "num": 320229,
+        "word": "高校发讣告悼念梅大高速遇难学子",
+        "onboard_time": 1714984339,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888049,
+        "num": 319773,
+        "word": "女子为被性侵的母亲奔波后丢了工作",
+        "onboard_time": 1714980078,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744657,
+        "num": 319404,
+        "word": "淘宝免单",
+        "onboard_time": 1714977378,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 318947,
+        "num": 318947,
+        "word": "小伙恋爱1年转账60万女友竟是好兄弟",
+        "onboard_time": 1714982178,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300637,
+        "num": 300637,
+        "word": "庆余年2拍了范闲林婉儿大婚",
+        "onboard_time": 1714986379,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285636,
+        "num": 285636,
+        "word": "肖战藏海传扶人下马车路透",
+        "onboard_time": 1714990818,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268820,
+        "num": 268820,
+        "word": "歌手 首发阵容",
+        "onboard_time": 1714968200,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262850,
+        "num": 262850,
+        "word": "阿信说让我一场一场把路人唱回来",
+        "onboard_time": 1714987338,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237955,
+        "num": 237955,
+        "word": "一觉醒来朋友圈安静了",
+        "onboard_time": 1714969881,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221732,
+        "num": 221732,
+        "word": "梅大高速下跪拦车老人受家乡百姓热情迎接",
+        "onboard_time": 1714989559,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831547,
+        "num": 221687,
+        "word": "存款十几万在小县城什么水平",
+        "onboard_time": 1714991359,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 613108,
+        "num": 221623,
+        "word": "家里人不同意一次性相亲两个男生",
+        "onboard_time": 1714990518,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330219,
+        "num": 221496,
+        "word": "邓超 水瓶座",
+        "onboard_time": 1714992019,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280890,
+        "num": 221446,
+        "word": "李维嘉为谢娜庆生",
+        "onboard_time": 1714989919,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194584,
+        "num": 221364,
+        "word": "原来香飘飘曾拒绝外资收购",
+        "onboard_time": 1714993340,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233134,
+        "num": 221337,
+        "word": "感觉长辈被时代红利保护得太好了",
+        "onboard_time": 1714980979,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221259,
+        "num": 221259,
+        "word": "台湾附近5.3级左右地震",
+        "onboard_time": 1714989141,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218296,
+        "num": 218296,
+        "word": "月薪4000小伙三年攒下13万",
+        "onboard_time": 1714979718,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202737,
+        "num": 202737,
+        "word": "那英抵达长沙录制歌手",
+        "onboard_time": 1714994359,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196375,
+        "num": 196375,
+        "word": "Uzi谈老头杯选人的策略",
+        "onboard_time": 1714994478,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194840,
+        "num": 194840,
+        "word": "王楚钦3比0约内斯库",
+        "onboard_time": 1714994297,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186559,
+        "num": 186559,
+        "word": "怎么写快乐家族最刀呢",
+        "onboard_time": 1714994177,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173749,
+        "num": 173749,
+        "word": "张煜东求婚张凯毅",
+        "onboard_time": 1714976659,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168353,
+        "num": 168353,
+        "word": "汪苏泷达成万人点头成就",
+        "onboard_time": 1714993758,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167383,
+        "num": 167383,
+        "word": "CBA",
+        "onboard_time": 1714994896,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167067,
+        "num": 167067,
+        "word": "无座9个小时可以在车上干什么",
+        "onboard_time": 1714993340,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164402,
+        "num": 164402,
+        "word": "虞书欣直播",
+        "onboard_time": 1714995078,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154795,
+        "num": 154795,
+        "word": "迪丽热巴唇环",
+        "onboard_time": 1714976599,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149358,
+        "num": 149358,
+        "word": "歌手合伙人 李晋晔",
+        "onboard_time": 1714981040,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145817,
+        "num": 145817,
+        "word": "广东男篮vs辽宁男篮",
+        "onboard_time": 1714994599,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141843,
+        "num": 141843,
+        "word": "哑舍",
+        "onboard_time": 1714986020,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138490,
+        "num": 138490,
+        "word": "观众假唱 好小众的文字",
+        "onboard_time": 1714972699,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138061,
+        "num": 138061,
+        "word": "叫花鸡没有鸡涉事店铺已关门",
+        "onboard_time": 1714986438,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131430,
+        "num": 131430,
+        "word": "庆余年2演员变更",
+        "onboard_time": 1714968861,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129867,
+        "num": 129867,
+        "word": "老头杯阵容",
+        "onboard_time": 1714995018,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129795,
+        "num": 129795,
+        "word": "庆余年3在写了",
+        "onboard_time": 1714983259,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129470,
+        "num": 129470,
+        "word": "金智媛仿妆",
+        "onboard_time": 1714993158,
+        "rank": 46,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 126700,
+        "num": 126700,
+        "word": "句句不提爱字字都是爱",
+        "onboard_time": 1714984818,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125992,
+        "num": 125992,
+        "word": "温州一条夹缝房卖了238万元",
+        "onboard_time": 1714988058,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122239,
+        "num": 122239,
+        "word": "男子用菜刀砍伤妻子辩称管教不犯法",
+        "onboard_time": 1714995197,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在法国媒体发表署名文章#"
+    }
+  }
+}

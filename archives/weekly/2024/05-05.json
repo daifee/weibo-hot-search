@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714994132518,
+  "endTime": 1714995253885,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -331,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1059422,
+      "num": 1059422,
+      "word": "老头杯",
+      "onboard_time": 1714989377,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1056927,
       "num": 1056927,
       "word": "泰男子欲性侵遭反杀家属回应",
@@ -377,14 +385,6 @@
       "onboard_time": 1714965138,
       "rank": 31,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 1000521,
-      "num": 1000521,
-      "word": "老头杯",
-      "onboard_time": 1714989377,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 932334,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 855115,
+      "num": 855115,
+      "word": "内娱直播考研上岸第一人",
+      "onboard_time": 1714991359,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 843998,
       "num": 843998,
       "word": "香飘飘 我们的员工是好样的",
@@ -505,6 +513,14 @@
       "onboard_time": 1714894159,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 831547,
+      "num": 262753,
+      "word": "存款十几万在小县城什么水平",
+      "onboard_time": 1714991359,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 825153,
@@ -611,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 757433,
-      "num": 262753,
-      "word": "存款十几万在小县城什么水平",
-      "onboard_time": 1714991359,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 756363,
       "num": 334267,
       "word": "金靖官宣怀孕后首现身机场",
@@ -633,14 +641,6 @@
       "onboard_time": 1714965379,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 744484,
-      "num": 744484,
-      "word": "内娱直播考研上岸第一人",
-      "onboard_time": 1714991359,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 743108,
@@ -803,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 613108,
+      "num": 278363,
+      "word": "家里人不同意一次性相亲两个男生",
+      "onboard_time": 1714990518,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 610679,
       "num": 610679,
       "word": "雷军回应不建议给年轻人太多建议",
@@ -889,14 +897,6 @@
       "onboard_time": 1714889477,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 565939,
-      "num": 278363,
-      "word": "家里人不同意一次性相亲两个男生",
-      "onboard_time": 1714990518,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 554952,
@@ -1145,6 +1145,14 @@
       "onboard_time": 1714906640,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 476222,
+      "num": 476222,
+      "word": "原来高铁上是有15元的盒饭的",
+      "onboard_time": 1714991058,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 475259,
@@ -1483,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392982,
+      "num": 392982,
+      "word": "吃火锅意外吃出甄嬛传片头",
+      "onboard_time": 1714987998,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389307,
       "num": 267592,
       "word": "刘亦菲37岁状态",
@@ -1635,14 +1651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 360400,
-      "num": 360400,
-      "word": "吃火锅意外吃出甄嬛传片头",
-      "onboard_time": 1714987998,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 360127,
       "num": 360127,
       "word": "戴眼镜的吃饭可以拿来当支架",
@@ -1769,6 +1777,14 @@
       "onboard_time": 1714910239,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 330219,
+      "num": 256084,
+      "word": "邓超 水瓶座",
+      "onboard_time": 1714992019,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 330043,
@@ -1995,14 +2011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 282856,
-      "num": 282856,
-      "word": "原来高铁上是有15元的盒饭的",
-      "onboard_time": 1714991058,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 282138,
       "num": 277438,
       "word": "林俊杰肌肉比脸大",
@@ -2017,14 +2025,6 @@
       "onboard_time": 1714974379,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 281303,
-      "num": 256084,
-      "word": "邓超 水瓶座",
-      "onboard_time": 1714992019,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 280439,
@@ -2795,6 +2795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202737,
+      "num": 202737,
+      "word": "那英抵达长沙录制歌手",
+      "onboard_time": 1714994359,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201763,
       "num": 201763,
       "word": "厦门为求职实习大学生开放两千多张免费床位",
@@ -2955,6 +2963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196375,
+      "num": 196375,
+      "word": "Uzi谈老头杯选人的策略",
+      "onboard_time": 1714994478,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195817,
       "num": 195817,
       "word": "镜头下的笑容",
@@ -2976,6 +2992,14 @@
       "word": "汤杯石宇奇横扫金廷",
       "onboard_time": 1714907958,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194840,
+      "num": 194840,
+      "word": "王楚钦3比0约内斯库",
+      "onboard_time": 1714994297,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -3239,6 +3263,14 @@
       "num": 186874,
       "word": "不如让袁咏琳首发",
       "onboard_time": 1714978579,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186559,
+      "num": 186559,
+      "word": "怎么写快乐家族最刀呢",
+      "onboard_time": 1714994177,
       "rank": 31,
       "category": "综艺"
     },
@@ -3691,6 +3723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167383,
+      "num": 167383,
+      "word": "CBA",
+      "onboard_time": 1714994896,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167126,
       "num": 167126,
       "word": "聚是一团伙散是满天疯",
@@ -3729,6 +3769,14 @@
       "onboard_time": 1714841595,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164402,
+      "num": 164402,
+      "word": "虞书欣直播",
+      "onboard_time": 1714995078,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 164078,
@@ -4171,6 +4219,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 145817,
+      "num": 145817,
+      "word": "广东男篮vs辽宁男篮",
+      "onboard_time": 1714994599,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145411,
       "num": 145411,
       "word": "迈阿密国际vs纽约红牛",
@@ -4491,6 +4547,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 129867,
+      "num": 129867,
+      "word": "老头杯阵容",
+      "onboard_time": 1714995018,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129717,
       "num": 124563,
       "word": "如何面对男性的目光凝视",
@@ -4649,6 +4713,14 @@
       "onboard_time": 1714914859,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 122239,
+      "num": 122239,
+      "word": "男子用菜刀砍伤妻子辩称管教不犯法",
+      "onboard_time": 1714995197,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122198,
@@ -4956,7 +5028,7 @@
     },
     {
       "raw_hot": 98644,
-      "num": 748807,
+      "num": 857021,
       "word": "巴黎欢迎人群敲锣打鼓舞龙舞狮",
       "onboard_time": 1714987639,
       "rank": 2,
