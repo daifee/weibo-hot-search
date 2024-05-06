@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714987210055,
+  "endTime": 1714988064527,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -315,6 +315,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1608870,
+      "num": 1608870,
+      "word": "高校发讣告悼念梅大高速遇难学子",
+      "onboard_time": 1714984339,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1596524,
       "num": 1596524,
       "word": "香飘飘回应讽日事件",
@@ -425,14 +433,6 @@
       "onboard_time": 1714814298,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1478042,
-      "num": 1478042,
-      "word": "高校发讣告悼念梅大高速遇难学子",
-      "onboard_time": 1714984339,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1475707,
@@ -2203,6 +2203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 642752,
+      "num": 642752,
+      "word": "关雪 晴川",
+      "onboard_time": 1714985839,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 642619,
       "num": 642619,
       "word": "跑男剪辑",
@@ -2993,14 +3001,6 @@
       "onboard_time": 1714869857,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 509063,
-      "num": 509063,
-      "word": "关雪 晴川",
-      "onboard_time": 1714985839,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 509029,
@@ -4467,6 +4467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374325,
+      "num": 322567,
+      "word": "句句不提爱字字都是爱",
+      "onboard_time": 1714984818,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373393,
       "num": 373393,
       "word": "苗苗自己给自己化妆",
@@ -4673,6 +4681,14 @@
       "onboard_time": 1714840816,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 357299,
+      "num": 357299,
+      "word": "赛力斯报案",
+      "onboard_time": 1714984458,
+      "rank": 47,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 355693,
@@ -5251,6 +5267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 314356,
+      "num": 314356,
+      "word": "哑舍",
+      "onboard_time": 1714986020,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312733,
       "num": 312733,
       "word": "空包叫花鸡店主称临时工错拿样品",
@@ -5273,6 +5297,14 @@
       "onboard_time": 1714952117,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 309594,
+      "num": 284820,
+      "word": "爸爸辅导作业崩溃用石榴砸破孩子脾脏",
+      "onboard_time": 1714985657,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309509,
@@ -5411,14 +5443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297556,
-      "num": 297556,
-      "word": "句句不提爱字字都是爱",
-      "onboard_time": 1714984818,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 297173,
       "num": 297173,
       "word": "BLG上上签",
@@ -5441,14 +5465,6 @@
       "onboard_time": 1714567998,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 295616,
-      "num": 295616,
-      "word": "赛力斯报案",
-      "onboard_time": 1714984458,
-      "rank": 47,
-      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 294798,
@@ -5489,14 +5505,6 @@
       "onboard_time": 1714639038,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 292162,
-      "num": 284820,
-      "word": "爸爸辅导作业崩溃用石榴砸破孩子脾脏",
-      "onboard_time": 1714985657,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290685,
@@ -5697,6 +5705,14 @@
       "onboard_time": 1714974379,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 280583,
+      "num": 280583,
+      "word": "庆余年2拍了范闲林婉儿大婚",
+      "onboard_time": 1714986379,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 280439,
@@ -5939,14 +5955,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 268196,
-      "num": 268196,
-      "word": "庆余年2拍了范闲林婉儿大婚",
-      "onboard_time": 1714986379,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 267893,
       "num": 267893,
       "word": "张韶涵",
@@ -6161,14 +6169,6 @@
       "onboard_time": 1714890197,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257752,
-      "num": 257752,
-      "word": "哑舍",
-      "onboard_time": 1714986020,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 257470,
@@ -6657,6 +6657,14 @@
       "onboard_time": 1714663101,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 235839,
+      "num": 193688,
+      "word": "阿信说让我一场一场把路人唱回来",
+      "onboard_time": 1714987338,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 235545,
@@ -7283,6 +7291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215531,
+      "num": 190293,
+      "word": "捡到了迪丽热巴的假发",
+      "onboard_time": 1714987039,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215460,
       "num": 215460,
       "word": "光与夜之恋",
@@ -7497,6 +7513,14 @@
       "onboard_time": 1714531398,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209457,
+      "num": 209457,
+      "word": "叫花鸡没有鸡涉事店铺已关门",
+      "onboard_time": 1714986438,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209245,
@@ -8427,6 +8451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196480,
+      "num": 188451,
+      "word": "20分钟的面试把我剖干净了",
+      "onboard_time": 1714986859,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196408,
       "num": 196408,
       "word": "王一博前一秒不会后一秒拿下",
@@ -9267,6 +9299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183956,
+      "num": 183956,
+      "word": "蒋奇明演于适老丈人",
+      "onboard_time": 1714987520,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183923,
       "num": 183923,
       "word": "开始听反方向的钟",
@@ -9305,6 +9345,14 @@
       "onboard_time": 1714548379,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183224,
+      "num": 344782,
+      "word": "香飘飘总裁说国货要对国人好",
+      "onboard_time": 1714986138,
+      "rank": 13,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 182865,
@@ -9683,6 +9731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176118,
+      "num": 176118,
+      "word": "马嘉祺 淡淡的情绪密集的笑点",
+      "onboard_time": 1714987400,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176015,
       "num": 176015,
       "word": "给女友拍照时偷偷换个特效",
@@ -9753,6 +9809,14 @@
       "onboard_time": 1714822399,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175329,
+      "num": 175329,
+      "word": "郭晋安好多牙",
+      "onboard_time": 1714986499,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 175301,
@@ -9889,6 +9953,14 @@
       "onboard_time": 1714906159,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173470,
+      "num": 173470,
+      "word": "中法欧领导人三方会晤举行",
+      "onboard_time": 1714986920,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 173405,
@@ -10041,14 +10113,6 @@
       "onboard_time": 1714695076,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171252,
-      "num": 171252,
-      "word": "叫花鸡没有鸡涉事店铺已关门",
-      "onboard_time": 1714986438,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171224,
@@ -10441,14 +10505,6 @@
       "onboard_time": 1714455498,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164889,
-      "num": 164889,
-      "word": "郭晋安好多牙",
-      "onboard_time": 1714986499,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 164818,
@@ -11643,14 +11699,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 147960,
-      "num": 147960,
-      "word": "20分钟的面试把我剖干净了",
-      "onboard_time": 1714986859,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 147758,
       "num": 147758,
       "word": "在沙滩挖到了一只萨摩耶",
@@ -11713,14 +11761,6 @@
       "onboard_time": 1714977019,
       "rank": 44,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 146758,
-      "num": 146758,
-      "word": "中法欧领导人三方会晤举行",
-      "onboard_time": 1714986920,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 146729,
@@ -12203,14 +12243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139545,
-      "num": 139545,
-      "word": "捡到了迪丽热巴的假发",
-      "onboard_time": 1714987039,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139519,
       "num": 139519,
       "word": "快船淘汰",
@@ -12641,6 +12673,14 @@
       "onboard_time": 1714617496,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133546,
+      "num": 133546,
+      "word": "吃火锅意外吃出甄嬛传片头",
+      "onboard_time": 1714987998,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 133501,
@@ -13969,14 +14009,6 @@
       "onboard_time": 1714700119,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 115073,
-      "num": 344782,
-      "word": "香飘飘总裁说国货要对国人好",
-      "onboard_time": 1714986138,
-      "rank": 13,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 114973,
@@ -16055,6 +16087,14 @@
       "num": 1003223,
       "word": "文化中国行",
       "onboard_time": 1713927617,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17196,
+      "num": 691647,
+      "word": "巴黎欢迎人群敲锣打鼓舞龙舞狮",
+      "onboard_time": 1714987639,
       "rank": 2,
       "category": "社会新闻"
     },
