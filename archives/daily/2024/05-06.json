@@ -1,6 +1,6 @@
 {
   "startTime": 1714926165838,
-  "endTime": 1714973677823,
+  "endTime": 1714976698255,
   "band_list": [
     {
       "raw_hot": 2835678,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 843464,
+      "num": 278222,
+      "word": "高铁上2女子因遮光帘来回拉扯40分",
+      "onboard_time": 1714973420,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 810694,
       "num": 116402,
       "word": "女老师遭网课爆破后死亡案进展",
@@ -169,6 +177,14 @@
       "onboard_time": 1714917921,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 772931,
+      "num": 556728,
+      "word": "观众假唱 好小众的文字",
+      "onboard_time": 1714972699,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 771684,
@@ -259,12 +275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 621782,
+      "num": 621782,
+      "word": "高铁涨价",
+      "onboard_time": 1714975339,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 617143,
       "num": 617143,
       "word": "我的阿勒泰定档",
       "onboard_time": 1714961417,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 608050,
+      "num": 527165,
+      "word": "BLACKPINK合约到期后首次回归",
+      "onboard_time": 1714975099,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 599179,
@@ -379,12 +411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 458860,
-      "num": 556728,
-      "word": "观众假唱 好小众的文字",
-      "onboard_time": 1714972699,
-      "rank": 31,
-      "category": "演出"
+      "raw_hot": 449143,
+      "num": 338437,
+      "word": "田曦薇好薄的背",
+      "onboard_time": 1714973239,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 447439,
@@ -409,6 +441,14 @@
       "onboard_time": 1714923740,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 416540,
+      "num": 339277,
+      "word": "凤凰传奇玲花回应观众被质疑假唱",
+      "onboard_time": 1714972400,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 411733,
@@ -483,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 362681,
+      "num": 319112,
+      "word": "叶灵儿",
+      "onboard_time": 1714973900,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351226,
       "num": 351226,
       "word": "官方通报叫花鸡里没有鸡",
@@ -507,20 +555,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 339277,
-      "num": 339277,
-      "word": "凤凰传奇玲花回应观众被质疑假唱",
-      "onboard_time": 1714972400,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 334372,
       "num": 178740,
       "word": "塞尔维亚街头现巨幅中国国旗",
       "onboard_time": 1714922963,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 316413,
+      "num": 316413,
+      "word": "日本LV门口排长龙",
+      "onboard_time": 1714973119,
+      "rank": 32,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 316149,
@@ -555,12 +603,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 307088,
-      "num": 307088,
-      "word": "田曦薇好薄的背",
-      "onboard_time": 1714973239,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 301970,
+      "num": 301970,
+      "word": "内塔尼亚胡称二战时没有国家援助犹太人",
+      "onboard_time": 1714974318,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 295565,
@@ -595,14 +643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 278222,
-      "num": 278222,
-      "word": "高铁上2女子因遮光帘来回拉扯40分",
-      "onboard_time": 1714973420,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274585,
       "num": 274585,
       "word": "时代峰峻在广西成立新公司",
@@ -633,6 +673,14 @@
       "onboard_time": 1714959499,
       "rank": 26,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 267047,
+      "num": 248002,
+      "word": "周渝民16年后杀回现偶",
+      "onboard_time": 1714975998,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 266450,
@@ -787,6 +835,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219274,
+      "num": 219274,
+      "word": "五一日本成出境游最大赢家",
+      "onboard_time": 1714971080,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 217479,
+      "num": 217479,
+      "word": "撕漫女迪丽热巴",
+      "onboard_time": 1714975579,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 216406,
       "num": 216406,
       "word": "五一档电影为什么没有很多人看",
@@ -801,6 +865,14 @@
       "onboard_time": 1714956499,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215665,
+      "num": 215665,
+      "word": "酱园弄章子怡 姨出山",
+      "onboard_time": 1714974618,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 215434,
@@ -859,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201905,
+      "num": 201905,
+      "word": "抑郁症是攻击性指向自身",
+      "onboard_time": 1714974978,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 201763,
       "num": 201763,
       "word": "厦门为求职实习大学生开放两千多张免费床位",
@@ -891,6 +971,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198316,
+      "num": 198316,
+      "word": "历届歌手未曝光珍藏照",
+      "onboard_time": 1714976120,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197873,
+      "num": 254203,
+      "word": "淘宝免单bug",
+      "onboard_time": 1714974379,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 197402,
       "num": 179514,
       "word": "赵丽颖出道十八周年",
@@ -907,20 +1003,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194243,
+      "num": 194243,
+      "word": "73岁张纪中为42岁妻子庆生",
+      "onboard_time": 1714973540,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193651,
       "num": 193651,
       "word": "开推造型师",
       "onboard_time": 1714968983,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193517,
-      "num": 193517,
-      "word": "日本LV门口排长龙",
-      "onboard_time": 1714973119,
-      "rank": 32,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 193434,
@@ -963,6 +1059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187343,
+      "num": 199449,
+      "word": "休五天上六天划算吗",
+      "onboard_time": 1714971201,
+      "rank": 29,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 187092,
       "num": 185846,
       "word": "时代少年团 天津",
@@ -977,6 +1081,14 @@
       "onboard_time": 1714916060,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183456,
+      "num": 183456,
+      "word": "庄达菲 静止",
+      "onboard_time": 1714975639,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180141,
@@ -1083,14 +1195,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 165856,
-      "num": 199449,
-      "word": "休五天上六天划算吗",
-      "onboard_time": 1714971201,
-      "rank": 29,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 163463,
       "num": 163463,
       "word": "老外在五星级酒店脱了裤子当众小便",
@@ -1113,14 +1217,6 @@
       "onboard_time": 1714965678,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160794,
-      "num": 160794,
-      "word": "五一日本成出境游最大赢家",
-      "onboard_time": 1714971080,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 160582,
@@ -1155,20 +1251,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 155740,
-      "num": 155740,
-      "word": "73岁张纪中为42岁妻子庆生",
-      "onboard_time": 1714973540,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154995,
       "num": 154995,
       "word": "明日方舟 伊内丝Mantra",
       "onboard_time": 1714969162,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152059,
+      "num": 152059,
+      "word": "迪丽热巴唇环",
+      "onboard_time": 1714976599,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 149152,
@@ -1201,6 +1297,14 @@
       "onboard_time": 1714908499,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147634,
+      "num": 147634,
+      "word": "东方甄选未取得经营许可被罚1.3万",
+      "onboard_time": 1714974618,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 145027,
@@ -1268,7 +1372,7 @@
     },
     {
       "raw_hot": 132293,
-      "num": 132293,
+      "num": 178902,
       "word": "蓝月亮回应母亲节广告词争议",
       "onboard_time": 1714973060,
       "rank": 48,
@@ -1283,12 +1387,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127965,
+      "num": 127965,
+      "word": "张煜东求婚张凯毅",
+      "onboard_time": 1714976659,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 126624,
       "num": 182571,
       "word": "国羽男队第11次汤姆斯杯夺冠",
       "onboard_time": 1714919659,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126613,
+      "num": 126613,
+      "word": "鸟巢 收音",
+      "onboard_time": 1714975218,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 125844,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1714976698255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1431280,
+        "num": 1431280,
+        "word": "一觉醒来朋友圈安静了",
+        "onboard_time": 1714969881,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1195624,
+        "num": 1195624,
+        "word": "歌手 首发阵容",
+        "onboard_time": 1714968200,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101801,
+        "num": 976709,
+        "word": "五一假期2575场大型活动顺利举办",
+        "onboard_time": 1714966819,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 806402,
+        "num": 806402,
+        "word": "庆余年2演员变更",
+        "onboard_time": 1714968861,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 621782,
+        "num": 621782,
+        "word": "高铁涨价",
+        "onboard_time": 1714975339,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 547009,
+        "num": 547009,
+        "word": "六月份上班好划算",
+        "onboard_time": 1714970541,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 772931,
+        "num": 534174,
+        "word": "观众假唱 好小众的文字",
+        "onboard_time": 1714972699,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 608050,
+        "num": 527165,
+        "word": "BLACKPINK合约到期后首次回归",
+        "onboard_time": 1714975099,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 359908,
+        "num": 359908,
+        "word": "泰男子欲性侵遭反杀家属回应",
+        "onboard_time": 1714961958,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74309,
+        "num": 358306,
+        "word": "高铁上大学生帮了11岁时的自己",
+        "onboard_time": 1714953018,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598544,
+        "num": 351051,
+        "word": "女老师遭网课爆破后死亡9名嫌疑人未成年",
+        "onboard_time": 1714970481,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518425,
+        "num": 344952,
+        "word": "澳洲玫瑰变二手玫瑰",
+        "onboard_time": 1714971141,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449143,
+        "num": 338437,
+        "word": "田曦薇好薄的背",
+        "onboard_time": 1714973239,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416540,
+        "num": 329342,
+        "word": "凤凰传奇玲花回应观众被质疑假唱",
+        "onboard_time": 1714972400,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 388554,
+        "num": 324313,
+        "word": "迪丽热巴蓝发",
+        "onboard_time": 1714964537,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362681,
+        "num": 319112,
+        "word": "叶灵儿",
+        "onboard_time": 1714973900,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316413,
+        "num": 316413,
+        "word": "日本LV门口排长龙",
+        "onboard_time": 1714973119,
+        "rank": 16,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 310680,
+        "num": 310680,
+        "word": "曝iPhone17将推Slim机型",
+        "onboard_time": 1714960398,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 301970,
+        "num": 301970,
+        "word": "内塔尼亚胡称二战时没有国家援助犹太人",
+        "onboard_time": 1714974318,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 264227,
+        "num": 264227,
+        "word": "香飘飘涨停",
+        "onboard_time": 1714969221,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 843464,
+        "num": 263266,
+        "word": "高铁上2女子因遮光帘来回拉扯40分",
+        "onboard_time": 1714973420,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571126,
+        "num": 260406,
+        "word": "长期喝白开水和长期喝茶的人身体有什么变化",
+        "onboard_time": 1714963099,
+        "rank": 21,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 509120,
+        "num": 258004,
+        "word": "金靖官宣怀孕后首现身机场",
+        "onboard_time": 1714968681,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197873,
+        "num": 254203,
+        "word": "淘宝免单bug",
+        "onboard_time": 1714974379,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 397511,
+        "num": 253007,
+        "word": "爸爸将5个月宝宝举过头顶当伞",
+        "onboard_time": 1714968442,
+        "rank": 24,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 267047,
+        "num": 248002,
+        "word": "周渝民16年后杀回现偶",
+        "onboard_time": 1714975998,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247666,
+        "num": 247666,
+        "word": "差点认不出来马伊琍",
+        "onboard_time": 1714965379,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232485,
+        "num": 232485,
+        "word": "五一票房冠军",
+        "onboard_time": 1714966578,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219274,
+        "num": 219274,
+        "word": "五一日本成出境游最大赢家",
+        "onboard_time": 1714971080,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 134980,
+        "num": 218135,
+        "word": "失联中国夫妻已从曼谷回国",
+        "onboard_time": 1714963879,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217479,
+        "num": 217479,
+        "word": "撕漫女迪丽热巴",
+        "onboard_time": 1714975579,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215665,
+        "num": 215665,
+        "word": "酱园弄章子怡 姨出山",
+        "onboard_time": 1714974618,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214519,
+        "num": 214519,
+        "word": "海来阿木 歌手2024",
+        "onboard_time": 1714969642,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201905,
+        "num": 201905,
+        "word": "抑郁症是攻击性指向自身",
+        "onboard_time": 1714974978,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198316,
+        "num": 198316,
+        "word": "历届歌手未曝光珍藏照",
+        "onboard_time": 1714976120,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194243,
+        "num": 194243,
+        "word": "73岁张纪中为42岁妻子庆生",
+        "onboard_time": 1714973540,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191885,
+        "num": 191885,
+        "word": "庆余年2将登央八黄金档",
+        "onboard_time": 1714963698,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183456,
+        "num": 183456,
+        "word": "庄达菲 静止",
+        "onboard_time": 1714975639,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183226,
+        "num": 183226,
+        "word": "为何拖鞋怎么换都滂臭",
+        "onboard_time": 1714973119,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 116393,
+        "num": 178902,
+        "word": "蓝月亮回应母亲节广告词争议",
+        "onboard_time": 1714973060,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177104,
+        "num": 177104,
+        "word": "歌手2024音乐合伙人官宣",
+        "onboard_time": 1714966100,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152059,
+        "num": 152059,
+        "word": "迪丽热巴唇环",
+        "onboard_time": 1714976599,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147634,
+        "num": 147634,
+        "word": "东方甄选未取得经营许可被罚1.3万",
+        "onboard_time": 1714974618,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127965,
+        "num": 127965,
+        "word": "张煜东求婚张凯毅",
+        "onboard_time": 1714976659,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 126613,
+        "num": 126613,
+        "word": "鸟巢 收音",
+        "onboard_time": 1714975218,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116635,
+        "num": 116635,
+        "word": "背着善宰跑 接吻的人会结婚",
+        "onboard_time": 1714971322,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187343,
+        "num": 116485,
+        "word": "休五天上六天划算吗",
+        "onboard_time": 1714971201,
+        "rank": 46,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 176329,
+        "num": 116052,
+        "word": "娜子官宣",
+        "onboard_time": 1714965138,
+        "rank": 47,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 113276,
+        "num": 113276,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1714970782,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 107928,
+        "num": 112948,
+        "word": "美国暂停向以色列运送美制弹药",
+        "onboard_time": 1714967420,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在法国媒体发表署名文章#"
+    }
+  }
+}

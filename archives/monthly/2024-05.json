@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714973677823,
+  "endTime": 1714976698255,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -1355,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 843464,
+      "num": 278222,
+      "word": "高铁上2女子因遮光帘来回拉扯40分",
+      "onboard_time": 1714973420,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 841804,
       "num": 433829,
       "word": "戚薇 我从不掩饰对女生的喜爱",
@@ -1593,6 +1601,14 @@
       "onboard_time": 1714902199,
       "rank": 1,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 772931,
+      "num": 556728,
+      "word": "观众假唱 好小众的文字",
+      "onboard_time": 1714972699,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 771684,
@@ -2211,6 +2227,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 621782,
+      "num": 621782,
+      "word": "高铁涨价",
+      "onboard_time": 1714975339,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 621744,
       "num": 460470,
       "word": "汪苏泷如果爱忘了",
@@ -2297,6 +2321,14 @@
       "onboard_time": 1714889118,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 608050,
+      "num": 527165,
+      "word": "BLACKPINK合约到期后首次回归",
+      "onboard_time": 1714975099,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 607475,
@@ -3307,14 +3339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 458860,
-      "num": 556728,
-      "word": "观众假唱 好小众的文字",
-      "onboard_time": 1714972699,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 454793,
       "num": 454793,
       "word": "还我五一",
@@ -3377,6 +3401,14 @@
       "onboard_time": 1714735639,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 449143,
+      "num": 338437,
+      "word": "田曦薇好薄的背",
+      "onboard_time": 1714973239,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 447439,
@@ -3721,6 +3753,14 @@
       "onboard_time": 1714820778,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 416540,
+      "num": 339277,
+      "word": "凤凰传奇玲花回应观众被质疑假唱",
+      "onboard_time": 1714972400,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 415608,
@@ -4411,6 +4451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 362681,
+      "num": 319112,
+      "word": "叶灵儿",
+      "onboard_time": 1714973900,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361869,
       "num": 361731,
       "word": "马来西亚女子称被生父强奸8年",
@@ -4691,14 +4739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 339277,
-      "num": 339277,
-      "word": "凤凰传奇玲花回应观众被质疑假唱",
-      "onboard_time": 1714972400,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 338072,
       "num": 172537,
       "word": "男子疯狂减肥却胖70斤还脑梗送医抢救",
@@ -4971,6 +5011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316413,
+      "num": 316413,
+      "word": "日本LV门口排长龙",
+      "onboard_time": 1714973119,
+      "rank": 32,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 316383,
       "num": 316383,
       "word": "财务瞒天过海12年炒股亏光公司1350万",
@@ -5099,14 +5147,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 307088,
-      "num": 307088,
-      "word": "田曦薇好薄的背",
-      "onboard_time": 1714973239,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 304148,
       "num": 204137,
       "word": "黄轩回天水两天变成了黄干",
@@ -5121,6 +5161,14 @@
       "onboard_time": 1714897639,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 301970,
+      "num": 301970,
+      "word": "内塔尼亚胡称二战时没有国家援助犹太人",
+      "onboard_time": 1714974318,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 301623,
@@ -5491,14 +5539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 278222,
-      "num": 278222,
-      "word": "高铁上2女子因遮光帘来回拉扯40分",
-      "onboard_time": 1714973420,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278084,
       "num": 278084,
       "word": "爱德华兹吸粉",
@@ -5689,6 +5729,14 @@
       "onboard_time": 1714677791,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267047,
+      "num": 248002,
+      "word": "周渝民16年后杀回现偶",
+      "onboard_time": 1714975998,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 266363,
@@ -6819,6 +6867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 219274,
+      "num": 219274,
+      "word": "五一日本成出境游最大赢家",
+      "onboard_time": 1714971080,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 218993,
       "num": 218993,
       "word": "宋亚轩蝴蝶元素",
@@ -6883,6 +6939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217479,
+      "num": 217479,
+      "word": "撕漫女迪丽热巴",
+      "onboard_time": 1714975579,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 217455,
       "num": 217455,
       "word": "多家媒体发了王一博",
@@ -6945,6 +7009,14 @@
       "onboard_time": 1714956499,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215665,
+      "num": 215665,
+      "word": "酱园弄章子怡 姨出山",
+      "onboard_time": 1714974618,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 215661,
@@ -7579,6 +7651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201905,
+      "num": 201905,
+      "word": "抑郁症是攻击性指向自身",
+      "onboard_time": 1714974978,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 201860,
       "num": 201860,
       "word": "刚出生四天的小柴犬宝宝",
@@ -7883,12 +7963,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198316,
+      "num": 198316,
+      "word": "历届歌手未曝光珍藏照",
+      "onboard_time": 1714976120,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198126,
       "num": 198126,
       "word": "自信和不自信的区别到底有多大",
       "onboard_time": 1714629498,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197873,
+      "num": 254203,
+      "word": "淘宝免单bug",
+      "onboard_time": 1714974379,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 197816,
@@ -8219,6 +8315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194243,
+      "num": 194243,
+      "word": "73岁张纪中为42岁妻子庆生",
+      "onboard_time": 1714973540,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194218,
       "num": 194218,
       "word": "因为没有秒回信息被开除了",
@@ -8265,14 +8369,6 @@
       "onboard_time": 1714906999,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 193517,
-      "num": 193517,
-      "word": "日本LV门口排长龙",
-      "onboard_time": 1714973119,
-      "rank": 32,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 193503,
@@ -8651,6 +8747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187343,
+      "num": 199449,
+      "word": "休五天上六天划算吗",
+      "onboard_time": 1714971201,
+      "rank": 29,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 187250,
       "num": 187250,
       "word": "山西恒山景区回应落石砸伤游客",
@@ -8881,6 +8985,14 @@
       "onboard_time": 1714904958,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 183456,
+      "num": 183456,
+      "word": "庄达菲 静止",
+      "onboard_time": 1714975639,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183437,
@@ -9923,14 +10035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165856,
-      "num": 199449,
-      "word": "休五天上六天划算吗",
-      "onboard_time": 1714971201,
-      "rank": 29,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 165595,
       "num": 165595,
       "word": "编剧大人 我不允许任何人辱骂你",
@@ -10323,14 +10427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160794,
-      "num": 160794,
-      "word": "五一日本成出境游最大赢家",
-      "onboard_time": 1714971080,
-      "rank": 45,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 160758,
       "num": 160758,
       "word": "KSG out",
@@ -10635,14 +10731,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 155740,
-      "num": 155740,
-      "word": "73岁张纪中为42岁妻子庆生",
-      "onboard_time": 1714973540,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155692,
       "num": 155692,
       "word": "蓝眼泪",
@@ -10825,6 +10913,14 @@
       "onboard_time": 1714539679,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152059,
+      "num": 152059,
+      "word": "迪丽热巴唇环",
+      "onboard_time": 1714976599,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 151946,
@@ -11201,6 +11297,14 @@
       "onboard_time": 1714882999,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147634,
+      "num": 147634,
+      "word": "东方甄选未取得经营许可被罚1.3万",
+      "onboard_time": 1714974618,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 147613,
@@ -12188,7 +12292,7 @@
     },
     {
       "raw_hot": 132293,
-      "num": 132293,
+      "num": 178902,
       "word": "蓝月亮回应母亲节广告词争议",
       "onboard_time": 1714973060,
       "rank": 48,
@@ -12483,6 +12587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127965,
+      "num": 127965,
+      "word": "张煜东求婚张凯毅",
+      "onboard_time": 1714976659,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 127928,
       "num": 127928,
       "word": "seventeen新歌与青环5好搭",
@@ -12593,6 +12705,14 @@
       "onboard_time": 1714693696,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126613,
+      "num": 126613,
+      "word": "鸟巢 收音",
+      "onboard_time": 1714975218,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 126572,
