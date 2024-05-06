@@ -1,0 +1,410 @@
+{
+  "runTime": 1714984554303,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2003728,
+        "num": 2003728,
+        "word": "女子为被性侵的母亲奔波后丢了工作",
+        "onboard_time": 1714980078,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782397,
+        "num": 782397,
+        "word": "梅大高速塌方中没有抵达家乡的打工者",
+        "onboard_time": 1714981278,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93956,
+        "num": 670305,
+        "word": "从五一假期看流动的中国",
+        "onboard_time": 1714965079,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 667331,
+        "num": 667331,
+        "word": "问界回应M7事故四大疑问",
+        "onboard_time": 1714980440,
+        "rank": 3,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 638098,
+        "num": 638098,
+        "word": "歌手合伙人 李晋晔",
+        "onboard_time": 1714981040,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 568471,
+        "num": 568471,
+        "word": "一觉醒来朋友圈安静了",
+        "onboard_time": 1714969881,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 476972,
+        "num": 476972,
+        "word": "白日提灯",
+        "onboard_time": 1714979957,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461243,
+        "num": 461243,
+        "word": "庆余年3在写了",
+        "onboard_time": 1714983259,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426293,
+        "num": 426293,
+        "word": "歌手 首发阵容",
+        "onboard_time": 1714968200,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169284,
+        "num": 422724,
+        "word": "小鸟努力把自己美成了花鸟图",
+        "onboard_time": 1714980258,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1069905,
+        "num": 413003,
+        "word": "淘宝免单",
+        "onboard_time": 1714977378,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 695086,
+        "num": 408961,
+        "word": "张煜东求婚张凯毅",
+        "onboard_time": 1714976659,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 630584,
+        "num": 401633,
+        "word": "小伙恋爱1年转账60万女友竟是好兄弟",
+        "onboard_time": 1714982178,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398541,
+        "num": 398541,
+        "word": "迪丽热巴唇环",
+        "onboard_time": 1714976599,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353922,
+        "num": 353922,
+        "word": "AITO汽车发布山西问界M7事故说明",
+        "onboard_time": 1714979659,
+        "rank": 14,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 77085,
+        "num": 337649,
+        "word": "灭霸vivoX100Ultra来了",
+        "onboard_time": 1714979540,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 327284,
+        "num": 327284,
+        "word": "观众假唱 好小众的文字",
+        "onboard_time": 1714972699,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 316466,
+        "num": 316466,
+        "word": "对秦皇岛游船侧翻12死事故挂牌督办",
+        "onboard_time": 1714983379,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251825,
+        "num": 251825,
+        "word": "BLACKPINK合约到期后首次回归",
+        "onboard_time": 1714975099,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206232,
+        "num": 206232,
+        "word": "iPhone在华市场份额跌出前5",
+        "onboard_time": 1714978819,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 822960,
+        "num": 206072,
+        "word": "月薪4000小伙三年攒下13万",
+        "onboard_time": 1714979718,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664131,
+        "num": 205976,
+        "word": "庆余年2演员变更",
+        "onboard_time": 1714968861,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454487,
+        "num": 205817,
+        "word": "感觉长辈被时代红利保护得太好了",
+        "onboard_time": 1714980979,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242692,
+        "num": 205544,
+        "word": "长期喝白开水和长期喝茶的人身体有什么变化",
+        "onboard_time": 1714963099,
+        "rank": 23,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 226826,
+        "num": 205430,
+        "word": "李沁林婉儿已至",
+        "onboard_time": 1714982718,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205257,
+        "num": 205257,
+        "word": "女老师遭网课爆破后死亡9名嫌疑人未成年",
+        "onboard_time": 1714970481,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182612,
+        "num": 182612,
+        "word": "没错是在等下班的我了",
+        "onboard_time": 1714982899,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178420,
+        "num": 178420,
+        "word": "高校发讣告悼念梅大高速遇难学子",
+        "onboard_time": 1714984339,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175970,
+        "num": 175970,
+        "word": "澳洲玫瑰变二手玫瑰",
+        "onboard_time": 1714971141,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187429,
+        "num": 175427,
+        "word": "李沁新中式妆造",
+        "onboard_time": 1714982358,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245870,
+        "num": 174599,
+        "word": "我爸每个月给我四千五的相亲费",
+        "onboard_time": 1714984219,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170893,
+        "num": 170893,
+        "word": "井柏然要杀入渣男赛道了",
+        "onboard_time": 1714980377,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170719,
+        "num": 170719,
+        "word": "6月开始涨价的高铁线涉广州",
+        "onboard_time": 1714975339,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 52158,
+        "num": 170590,
+        "word": "中国车手马青骅世界赛强势夺冠",
+        "onboard_time": 1714983259,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170506,
+        "num": 170506,
+        "word": "沈眉庄侍寝多次为何没孩子",
+        "onboard_time": 1714978998,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166682,
+        "num": 166682,
+        "word": "赛力斯汽车法务部回应问界事故",
+        "onboard_time": 1714983858,
+        "rank": 35,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 164198,
+        "num": 164198,
+        "word": "五一票房冠军",
+        "onboard_time": 1714966578,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162643,
+        "num": 162643,
+        "word": "王栎鑫问俞灏明腿有多长",
+        "onboard_time": 1714980619,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155550,
+        "num": 155550,
+        "word": "聚是一团伙散是满天疯",
+        "onboard_time": 1714981938,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154633,
+        "num": 154633,
+        "word": "金靖官宣怀孕后首现身机场",
+        "onboard_time": 1714968681,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152708,
+        "num": 152708,
+        "word": "高铁上2女子因遮光帘来回拉扯40分",
+        "onboard_time": 1714973420,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143835,
+        "num": 143835,
+        "word": "死装男鼻祖杀回来了",
+        "onboard_time": 1714979119,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143740,
+        "num": 143740,
+        "word": "爸爸将5个月宝宝举过头顶当伞",
+        "onboard_time": 1714968442,
+        "rank": 42,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 143737,
+        "num": 143737,
+        "word": "ILLIT听众超过BLACKPINK",
+        "onboard_time": 1714977499,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136293,
+        "num": 136293,
+        "word": "六月份上班好划算",
+        "onboard_time": 1714970541,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121791,
+        "num": 121791,
+        "word": "内塔尼亚胡称二战时没有国家援助犹太人",
+        "onboard_time": 1714974318,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 120512,
+        "num": 120512,
+        "word": "凤凰传奇演唱会 嗓子哑了",
+        "onboard_time": 1714981278,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118621,
+        "num": 118621,
+        "word": "赛力斯报案",
+        "onboard_time": 1714984458,
+        "rank": 47,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 117685,
+        "num": 117685,
+        "word": "庆余年2将登央八黄金档",
+        "onboard_time": 1714963698,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111086,
+        "num": 111086,
+        "word": "才知道冷冻番茄能让鲜味倍增",
+        "onboard_time": 1714984518,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在法国媒体发表署名文章#"
+    }
+  }
+}
