@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715030249244,
+  "endTime": 1715031274713,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -16987,6 +16987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 29795,
+      "num": 29795,
+      "word": "抗抑郁食物清单",
+      "onboard_time": 1715028190,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 29540,
       "num": 29540,
       "word": "欧洲德比",
@@ -17001,6 +17009,14 @@
       "onboard_time": 1714800858,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 29377,
+      "num": 21495,
+      "word": "医学生有自己杀菠萝方式",
+      "onboard_time": 1715026030,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 29308,
@@ -17033,14 +17049,6 @@
       "onboard_time": 1714848433,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26304,
-      "num": 21495,
-      "word": "医学生有自己杀菠萝方式",
-      "onboard_time": 1715026030,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 25773,
@@ -17123,20 +17131,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22445,
-      "num": 22445,
-      "word": "抗抑郁食物清单",
-      "onboard_time": 1715028190,
-      "rank": 15,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 21559,
       "num": 21559,
       "word": "范闲暴揍范思辙",
       "onboard_time": 1715024350,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21525,
+      "num": 21525,
+      "word": "男子打球被球友看出面相不对救了一命",
+      "onboard_time": 1715020752,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21522,
@@ -17179,14 +17187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17811,
-      "num": 21059,
-      "word": "男子打球被球友看出面相不对救了一命",
-      "onboard_time": 1715020752,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17803,
       "num": 1003223,
       "word": "文化中国行",
@@ -17219,6 +17219,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 13856,
+      "num": 17860,
+      "word": "广东人你别耍我了",
+      "onboard_time": 1715028190,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 13659,
       "num": 29486,
       "word": "刘耀文Last Night",
@@ -17233,14 +17241,6 @@
       "onboard_time": 1714940110,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 13301,
-      "num": 15275,
-      "word": "广东人你别耍我了",
-      "onboard_time": 1715028190,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 12230,
