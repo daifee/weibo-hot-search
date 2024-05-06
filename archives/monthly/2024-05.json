@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715009671011,
+  "endTime": 1715012728684,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -1155,6 +1155,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1000338,
+      "num": 255815,
+      "word": "取消公办中小学教师编制可不可行",
+      "onboard_time": 1715007201,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 998290,
       "num": 998290,
       "word": "歌手",
@@ -1177,14 +1185,6 @@
       "onboard_time": 1714625058,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 976627,
-      "num": 255815,
-      "word": "取消公办中小学教师编制可不可行",
-      "onboard_time": 1715007201,
-      "rank": 22,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 972744,
@@ -4411,6 +4411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404762,
+      "num": 404762,
+      "word": "张翰一次开朗换来终生内向",
+      "onboard_time": 1715009239,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404456,
       "num": 404456,
       "word": "丈夫病危妻子请假照顾被开除",
@@ -5291,6 +5299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 339850,
+      "num": 339850,
+      "word": "三只羊参与举办电音节被指宰客",
+      "onboard_time": 1715011696,
+      "rank": 6,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 339805,
       "num": 339805,
       "word": "王曼昱1比3巴特拉",
@@ -5369,6 +5385,14 @@
       "onboard_time": 1714922963,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 333662,
+      "num": 333662,
+      "word": "张若昀切范闲大号上线了",
+      "onboard_time": 1715009779,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 333573,
@@ -5585,6 +5609,14 @@
       "onboard_time": 1714544539,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319912,
+      "num": 263239,
+      "word": "句句说分开 句句都是爱",
+      "onboard_time": 1715009059,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 319255,
@@ -8619,14 +8651,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 201170,
-      "num": 201170,
-      "word": "句句说分开 句句都是爱",
-      "onboard_time": 1715009059,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201153,
       "num": 201153,
       "word": "邓超也会尴尬吗",
@@ -9441,14 +9465,6 @@
       "onboard_time": 1714889719,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 191223,
-      "num": 191223,
-      "word": "张翰一次开朗换来终生内向",
-      "onboard_time": 1715009239,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 191194,
@@ -10625,6 +10641,14 @@
       "onboard_time": 1714924938,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174656,
+      "num": 154071,
+      "word": "南部战区海军海空立体联合搜救演练",
+      "onboard_time": 1715009420,
+      "rank": 42,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 174601,
@@ -12097,14 +12121,6 @@
       "onboard_time": 1714613358,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 154071,
-      "num": 154071,
-      "word": "南部战区海军海空立体联合搜救演练",
-      "onboard_time": 1715009420,
-      "rank": 42,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 153888,
@@ -14427,6 +14443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121819,
+      "num": 121819,
+      "word": "邓紫棋上海五天连开将破纪录",
+      "onboard_time": 1715010139,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121607,
       "num": 121607,
       "word": "五一假期第三天",
@@ -15753,6 +15777,14 @@
       "onboard_time": 1714604953,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 100055,
+      "num": 100055,
+      "word": "胡明轩巨星球",
+      "onboard_time": 1715011336,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 99613,
