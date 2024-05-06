@@ -1,7 +1,15 @@
 {
   "startTime": 1714926165838,
-  "endTime": 1714959434052,
+  "endTime": 1714962695865,
   "band_list": [
+    {
+      "raw_hot": 1362993,
+      "num": 1362993,
+      "word": "曝iPhone17将推Slim机型",
+      "onboard_time": 1714960398,
+      "rank": 0,
+      "category": "数码"
+    },
     {
       "raw_hot": 1331423,
       "num": 1331423,
@@ -107,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 629736,
+      "num": 629736,
+      "word": "官方通报重庆一医院被举报冒名产子",
+      "onboard_time": 1714959020,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599179,
       "num": 599179,
       "word": "官方通报摊贩6两蓝莓当1斤卖称都这样",
@@ -139,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 503102,
+      "num": 503102,
+      "word": "我的阿勒泰定档",
+      "onboard_time": 1714961417,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 488089,
       "num": 270556,
       "word": "听说中国人到了20岁都会血脉觉醒",
@@ -163,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 423058,
+      "num": 329496,
+      "word": "泰男子欲性侵遭反杀家属回应",
+      "onboard_time": 1714961958,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411733,
       "num": 274903,
       "word": "泫雅一个月晕倒12次",
@@ -177,6 +209,14 @@
       "onboard_time": 1714910658,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399365,
+      "num": 399365,
+      "word": "A股",
+      "onboard_time": 1714960037,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 398086,
@@ -211,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 372121,
+      "num": 372121,
+      "word": "30岁了依然觉得自己有很多可能",
+      "onboard_time": 1714957338,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 369771,
       "num": 369771,
       "word": "本周狗屎运最旺的星座TOP4",
@@ -235,6 +283,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 329043,
+      "num": 329043,
+      "word": "庆余年第二季预约",
+      "onboard_time": 1714962258,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 312733,
+      "num": 312733,
+      "word": "空包叫花鸡店主称临时工错拿样品",
+      "onboard_time": 1714957878,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312389,
       "num": 312389,
       "word": "回想封神第一部开局票房惨状",
@@ -243,12 +307,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 297476,
-      "num": 297476,
-      "word": "官方通报重庆一医院被举报冒名产子",
-      "onboard_time": 1714959020,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 297541,
+      "num": 297541,
+      "word": "这周日是母亲节",
+      "onboard_time": 1714962077,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 293632,
@@ -256,14 +320,6 @@
       "word": "为什么月薪五千每天这么多事",
       "onboard_time": 1714908198,
       "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 281921,
-      "num": 281921,
-      "word": "30岁了依然觉得自己有很多可能",
-      "onboard_time": 1714957338,
-      "rank": 30,
       "category": "情感"
     },
     {
@@ -315,11 +371,35 @@
       "category": "演出"
     },
     {
+      "raw_hot": 254416,
+      "num": 254416,
+      "word": "封神第一部真现象级电影",
+      "onboard_time": 1714957459,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 254257,
       "num": 254257,
       "word": "民宿老板拍的叶祖新",
       "onboard_time": 1714949895,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 252429,
+      "num": 252429,
+      "word": "张新成去埃及了",
+      "onboard_time": 1714959978,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 249734,
+      "num": 249734,
+      "word": "赵丽颖18年56个角色",
+      "onboard_time": 1714961058,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -331,20 +411,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237248,
-      "num": 237248,
-      "word": "空包叫花鸡店主称临时工错拿样品",
-      "onboard_time": 1714957878,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236201,
       "num": 149699,
       "word": "香飘飘",
       "onboard_time": 1714958597,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231513,
+      "num": 231513,
+      "word": "继女对后妈是种什么样的情感",
+      "onboard_time": 1714959617,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 227775,
@@ -369,6 +449,14 @@
       "onboard_time": 1714908259,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219215,
+      "num": 219215,
+      "word": "青山刚昌 试着用孩童的眼睛看世界",
+      "onboard_time": 1714959499,
+      "rank": 26,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 216406,
@@ -427,14 +515,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 192521,
-      "num": 192521,
-      "word": "封神第一部真现象级电影",
-      "onboard_time": 1714957459,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 191709,
       "num": 191709,
       "word": "为什么年轻人流行偷偷领证",
@@ -449,6 +529,14 @@
       "onboard_time": 1714913599,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188906,
+      "num": 188906,
+      "word": "特斯拉回应金华事故",
+      "onboard_time": 1714962019,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 187092,
@@ -507,12 +595,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173351,
+      "num": 173351,
+      "word": "节后综合症",
+      "onboard_time": 1714961778,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 171563,
+      "num": 171563,
+      "word": "男子殴打辅警涉嫌袭警被刑拘",
+      "onboard_time": 1714960338,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169446,
       "num": 153578,
       "word": "这8个表现说明你已经瘦了",
       "onboard_time": 1714914680,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168815,
+      "num": 168815,
+      "word": "WTT沙特大满贯",
+      "onboard_time": 1714962198,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 163463,
@@ -545,6 +657,14 @@
       "onboard_time": 1714916902,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147718,
+      "num": 147718,
+      "word": "有这一相同特征更容易成为情侣",
+      "onboard_time": 1714961837,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 147716,
@@ -603,12 +723,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128555,
+      "num": 128555,
+      "word": "碧昂丝妹妹电梯暴打Jayz十周年",
+      "onboard_time": 1714962558,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126624,
       "num": 182571,
       "word": "国羽男队第11次汤姆斯杯夺冠",
       "onboard_time": 1714919659,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124148,
+      "num": 124148,
+      "word": "五一假期多地旅游收入",
+      "onboard_time": 1714959798,
+      "rank": 43,
+      "category": "旅游,财经"
     },
     {
       "raw_hot": 118330,
