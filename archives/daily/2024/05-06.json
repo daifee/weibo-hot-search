@@ -1,6 +1,6 @@
 {
   "startTime": 1714926165838,
-  "endTime": 1714963311493,
+  "endTime": 1714965658327,
   "band_list": [
     {
       "raw_hot": 1362993,
@@ -19,6 +19,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1253562,
+      "num": 234544,
+      "word": "长期喝白开水和长期喝茶的人身体有什么变化",
+      "onboard_time": 1714963099,
+      "rank": 20,
+      "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 1222593,
+      "num": 389628,
+      "word": "迪丽热巴蓝发",
+      "onboard_time": 1714964537,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1156957,
       "num": 691364,
       "word": "司马光 对不起让大家失望了",
@@ -27,11 +43,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1118749,
+      "num": 1118749,
+      "word": "庆余年2将登央八黄金档",
+      "onboard_time": 1714963698,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1088996,
       "num": 1088996,
       "word": "节后上班第1天",
       "onboard_time": 1714951455,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1056927,
+      "num": 1056927,
+      "word": "泰男子欲性侵遭反杀家属回应",
+      "onboard_time": 1714961958,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -75,19 +107,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789517,
+      "num": 789517,
+      "word": "失联中国夫妻已从曼谷回国",
+      "onboard_time": 1714963879,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 786540,
       "num": 661168,
       "word": "特斯拉坠崖致夫妻身亡记录仪数据却没了",
       "onboard_time": 1714917921,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 742990,
-      "num": 329496,
-      "word": "泰男子欲性侵遭反杀家属回应",
-      "onboard_time": 1714961958,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -171,6 +203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 540779,
+      "num": 389465,
+      "word": "赵奕欢张睿吻戏",
+      "onboard_time": 1714963998,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 531579,
       "num": 258775,
       "word": "第一次看到张元英表情管理失败",
@@ -185,6 +225,14 @@
       "onboard_time": 1714953018,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 478217,
+      "num": 478217,
+      "word": "电视剧高兴官宣",
+      "onboard_time": 1714964058,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 459290,
@@ -283,12 +331,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 352001,
-      "num": 233248,
-      "word": "长期喝白开水和长期喝茶的人身体有什么变化",
-      "onboard_time": 1714963099,
-      "rank": 20,
-      "category": "健康医疗,科学科普"
+      "raw_hot": 357913,
+      "num": 233919,
+      "word": "Jennie朴彩英同框",
+      "onboard_time": 1714964720,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 351226,
@@ -331,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 286233,
+      "num": 286233,
+      "word": "剑网3",
+      "onboard_time": 1714963938,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 273224,
       "num": 242605,
       "word": "林俊杰肌肉比脸大",
@@ -345,6 +401,14 @@
       "onboard_time": 1714907778,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 271706,
+      "num": 271706,
+      "word": "青山刚昌 试着用孩童的眼睛看世界",
+      "onboard_time": 1714959499,
+      "rank": 26,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 266450,
@@ -419,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236439,
+      "num": 236439,
+      "word": "6万御林军没干过3万常州铁骑",
+      "onboard_time": 1714965079,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 236201,
       "num": 149699,
       "word": "香飘飘",
@@ -451,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226803,
-      "num": 226803,
-      "word": "青山刚昌 试着用孩童的眼睛看世界",
-      "onboard_time": 1714959499,
-      "rank": 26,
-      "category": "动漫,作品衍生"
+      "raw_hot": 221372,
+      "num": 221372,
+      "word": "上班吃同事我觉得不太礼貌",
+      "onboard_time": 1714962798,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 221191,
@@ -499,6 +571,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208180,
+      "num": 208180,
+      "word": "差点认不出来马伊琍",
+      "onboard_time": 1714965379,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204544,
+      "num": 204544,
+      "word": "于适工作室审美",
+      "onboard_time": 1714965199,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199313,
       "num": 199313,
       "word": "背着善宰跑",
@@ -539,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191242,
+      "num": 191242,
+      "word": "疑理想汽车无人驾驶副驾坐着孩子",
+      "onboard_time": 1714964899,
+      "rank": 28,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 189675,
       "num": 189675,
       "word": "室友讨厌甄嬛的理由",
@@ -561,6 +657,14 @@
       "onboard_time": 1714916060,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180325,
+      "num": 180325,
+      "word": "娜子官宣",
+      "onboard_time": 1714965138,
+      "rank": 31,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 180141,
@@ -619,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171538,
+      "num": 171538,
+      "word": "恋与深空",
+      "onboard_time": 1714964959,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169989,
       "num": 169989,
       "word": "WTT沙特大满贯",
@@ -657,14 +769,6 @@
       "onboard_time": 1714955060,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 160028,
-      "num": 160028,
-      "word": "上班吃同事我觉得不太礼貌",
-      "onboard_time": 1714962798,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 158775,
@@ -723,6 +827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138339,
+      "num": 138339,
+      "word": "五一假期多地旅游收入",
+      "onboard_time": 1714959798,
+      "rank": 43,
+      "category": "旅游,财经"
+    },
+    {
       "raw_hot": 135364,
       "num": 254350,
       "word": "新疆2元一个的烤包子火了",
@@ -739,20 +851,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 134442,
+      "num": 134442,
+      "word": "夫妻驾驶特斯拉坠崖身亡家属发声",
+      "onboard_time": 1714964959,
+      "rank": 41,
+      "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 133902,
+      "num": 133902,
+      "word": "六姊妹杀青",
+      "onboard_time": 1714963279,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129717,
       "num": 124563,
       "word": "如何面对男性的目光凝视",
       "onboard_time": 1714956499,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 127534,
-      "num": 127534,
-      "word": "五一假期多地旅游收入",
-      "onboard_time": 1714959798,
-      "rank": 43,
-      "category": "旅游,财经"
     },
     {
       "raw_hot": 126624,
@@ -843,20 +963,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102439,
-      "num": 102439,
-      "word": "六姊妹杀青",
-      "onboard_time": 1714963279,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102093,
       "num": 102093,
       "word": "2024F1迈阿密大奖赛",
       "onboard_time": 1714951516,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101984,
+      "num": 106012,
+      "word": "鸡精和味精到底有啥区别",
+      "onboard_time": 1714963818,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 98720,
@@ -905,6 +1025,14 @@
       "onboard_time": 1714917621,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87881,
+      "num": 1085085,
+      "word": "从五一假期看流动的中国",
+      "onboard_time": 1714965079,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86215,
@@ -1105,6 +1233,9 @@
     },
     {
       "word": "#习主席访问法国#"
+    },
+    {
+      "word": "#习近平主席出访欧洲三国#"
     }
   ]
 }

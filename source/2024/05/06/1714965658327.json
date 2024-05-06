@@ -1,0 +1,410 @@
+{
+  "runTime": 1714965658327,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1161246,
+        "num": 1161246,
+        "word": "曝iPhone17将推Slim机型",
+        "onboard_time": 1714960398,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1118749,
+        "num": 1118749,
+        "word": "庆余年2将登央八黄金档",
+        "onboard_time": 1714963698,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87881,
+        "num": 1085085,
+        "word": "从五一假期看流动的中国",
+        "onboard_time": 1714965079,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1056927,
+        "num": 1056927,
+        "word": "泰男子欲性侵遭反杀家属回应",
+        "onboard_time": 1714961958,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914721,
+        "num": 914721,
+        "word": "很快就知道6天有多长了",
+        "onboard_time": 1714953438,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 789517,
+        "num": 789517,
+        "word": "失联中国夫妻已从曼谷回国",
+        "onboard_time": 1714963879,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490434,
+        "num": 490434,
+        "word": "我的阿勒泰定档",
+        "onboard_time": 1714961417,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 485654,
+        "num": 485654,
+        "word": "庆余年第二季预约",
+        "onboard_time": 1714962258,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 478217,
+        "num": 478217,
+        "word": "电视剧高兴官宣",
+        "onboard_time": 1714964058,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241864,
+        "num": 390580,
+        "word": "高铁上大学生帮了11岁时的自己",
+        "onboard_time": 1714953018,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1222593,
+        "num": 389628,
+        "word": "迪丽热巴蓝发",
+        "onboard_time": 1714964537,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540779,
+        "num": 389465,
+        "word": "赵奕欢张睿吻戏",
+        "onboard_time": 1714963998,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385216,
+        "num": 385216,
+        "word": "睡前大量饮水影响前列腺健康",
+        "onboard_time": 1714952117,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 357650,
+        "num": 357650,
+        "word": "这周日是母亲节",
+        "onboard_time": 1714962077,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299759,
+        "num": 299759,
+        "word": "黄子韬撩徐艺洋",
+        "onboard_time": 1714955298,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286233,
+        "num": 286233,
+        "word": "剑网3",
+        "onboard_time": 1714963938,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274176,
+        "num": 274176,
+        "word": "凤凰传奇观众被质疑假唱",
+        "onboard_time": 1714919121,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 271706,
+        "num": 271706,
+        "word": "青山刚昌 试着用孩童的眼睛看世界",
+        "onboard_time": 1714959499,
+        "rank": 17,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 249251,
+        "num": 249251,
+        "word": "官方通报重庆一医院被举报冒名产子",
+        "onboard_time": 1714959020,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236439,
+        "num": 236439,
+        "word": "6万御林军没干过3万常州铁骑",
+        "onboard_time": 1714965079,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1253562,
+        "num": 234544,
+        "word": "长期喝白开水和长期喝茶的人身体有什么变化",
+        "onboard_time": 1714963099,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 357913,
+        "num": 233919,
+        "word": "Jennie朴彩英同框",
+        "onboard_time": 1714964720,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243221,
+        "num": 233693,
+        "word": "赵丽颖18年56个角色",
+        "onboard_time": 1714961058,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232295,
+        "num": 232295,
+        "word": "A股",
+        "onboard_time": 1714960037,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 221372,
+        "num": 221372,
+        "word": "上班吃同事我觉得不太礼貌",
+        "onboard_time": 1714962798,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208180,
+        "num": 208180,
+        "word": "差点认不出来马伊琍",
+        "onboard_time": 1714965379,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204544,
+        "num": 204544,
+        "word": "于适工作室审美",
+        "onboard_time": 1714965199,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199918,
+        "num": 199918,
+        "word": "结肠癌明显的早期信号有哪些",
+        "onboard_time": 1714953680,
+        "rank": 27,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 191242,
+        "num": 191242,
+        "word": "疑理想汽车无人驾驶副驾坐着孩子",
+        "onboard_time": 1714964899,
+        "rank": 28,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 161634,
+        "num": 190629,
+        "word": "空包叫花鸡店主称临时工错拿样品",
+        "onboard_time": 1714957878,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190373,
+        "num": 190373,
+        "word": "特斯拉回应金华事故",
+        "onboard_time": 1714962019,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 180325,
+        "num": 180325,
+        "word": "娜子官宣",
+        "onboard_time": 1714965138,
+        "rank": 31,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 178332,
+        "num": 178332,
+        "word": "司马光 对不起让大家失望了",
+        "onboard_time": 1714955780,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171538,
+        "num": 171538,
+        "word": "恋与深空",
+        "onboard_time": 1714964959,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169784,
+        "num": 169784,
+        "word": "张新成去埃及了",
+        "onboard_time": 1714959978,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169092,
+        "num": 169092,
+        "word": "清水镇的水是脏水的水",
+        "onboard_time": 1714956741,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153083,
+        "num": 153083,
+        "word": "封神第一部真现象级电影",
+        "onboard_time": 1714957459,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149513,
+        "num": 149513,
+        "word": "碧昂丝妹妹电梯暴打Jayz十周年",
+        "onboard_time": 1714962558,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138339,
+        "num": 138339,
+        "word": "五一假期多地旅游收入",
+        "onboard_time": 1714959798,
+        "rank": 38,
+        "category": "旅游,财经"
+      },
+      {
+        "raw_hot": 122156,
+        "num": 138215,
+        "word": "特斯拉坠崖致夫妻身亡记录仪数据却没了",
+        "onboard_time": 1714917921,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138111,
+        "num": 138111,
+        "word": "继女对后妈是种什么样的情感",
+        "onboard_time": 1714959617,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134442,
+        "num": 134442,
+        "word": "夫妻驾驶特斯拉坠崖身亡家属发声",
+        "onboard_time": 1714964959,
+        "rank": 41,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 133902,
+        "num": 133902,
+        "word": "六姊妹杀青",
+        "onboard_time": 1714963279,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131473,
+        "num": 131473,
+        "word": "本周狗屎运最旺的星座TOP4",
+        "onboard_time": 1714953018,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129704,
+        "num": 129704,
+        "word": "听说中国人到了20岁都会血脉觉醒",
+        "onboard_time": 1714953018,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114356,
+        "num": 114356,
+        "word": "看腿就知道你血糖高了",
+        "onboard_time": 1714914680,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112612,
+        "num": 112612,
+        "word": "刘亦菲37岁状态",
+        "onboard_time": 1714953978,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106012,
+        "num": 106012,
+        "word": "男子殴打辅警涉嫌袭警被刑拘",
+        "onboard_time": 1714960338,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101984,
+        "num": 106012,
+        "word": "鸡精和味精到底有啥区别",
+        "onboard_time": 1714963818,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 96547,
+        "num": 105950,
+        "word": "WTT沙特大满贯",
+        "onboard_time": 1714962198,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席出访欧洲三国#"
+    }
+  }
+}
