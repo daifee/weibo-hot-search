@@ -1,0 +1,410 @@
+{
+  "runTime": 1714969351515,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1708764,
+        "num": 1708764,
+        "word": "歌手 首发阵容",
+        "onboard_time": 1714968200,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 984536,
+        "num": 984536,
+        "word": "娜子官宣",
+        "onboard_time": 1714965138,
+        "rank": 1,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 126306,
+        "num": 780378,
+        "word": "五一假期2575场大型活动顺利举办",
+        "onboard_time": 1714966819,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1232488,
+        "num": 767725,
+        "word": "歌手2024音乐合伙人官宣",
+        "onboard_time": 1714966100,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 721744,
+        "num": 721744,
+        "word": "泰男子欲性侵遭反杀家属回应",
+        "onboard_time": 1714961958,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698421,
+        "num": 698421,
+        "word": "失联中国夫妻已从曼谷回国",
+        "onboard_time": 1714963879,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868577,
+        "num": 697926,
+        "word": "庆余年2将登央八黄金档",
+        "onboard_time": 1714963698,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 751270,
+        "num": 697422,
+        "word": "差点认不出来马伊琍",
+        "onboard_time": 1714965379,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 691166,
+        "num": 691166,
+        "word": "曝iPhone17将推Slim机型",
+        "onboard_time": 1714960398,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 250155,
+        "num": 607223,
+        "word": "高铁上大学生帮了11岁时的自己",
+        "onboard_time": 1714953018,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1038888,
+        "num": 599723,
+        "word": "迪丽热巴蓝发",
+        "onboard_time": 1714964537,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 743108,
+        "num": 598587,
+        "word": "五一票房冠军",
+        "onboard_time": 1714966578,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 585945,
+        "num": 585945,
+        "word": "庆余年2演员变更",
+        "onboard_time": 1714968861,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 522843,
+        "num": 522843,
+        "word": "许嵩抢票",
+        "onboard_time": 1714966880,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 500145,
+        "num": 500145,
+        "word": "美国暂停向以色列运送美制弹药",
+        "onboard_time": 1714967420,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 468729,
+        "num": 468729,
+        "word": "疑理想汽车无人驾驶副驾坐着孩子",
+        "onboard_time": 1714964899,
+        "rank": 15,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 335770,
+        "num": 335770,
+        "word": "母亲节礼物",
+        "onboard_time": 1714968260,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315217,
+        "num": 315217,
+        "word": "张艺凡人长得美画画就算了",
+        "onboard_time": 1714966760,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299246,
+        "num": 314239,
+        "word": "睡前大量饮水影响前列腺健康",
+        "onboard_time": 1714952117,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240614,
+        "num": 313644,
+        "word": "香飘飘涨停",
+        "onboard_time": 1714969221,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1523007,
+        "num": 312189,
+        "word": "长期喝白开水和长期喝茶的人身体有什么变化",
+        "onboard_time": 1714963099,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 406336,
+        "num": 310688,
+        "word": "金靖官宣怀孕后首现身机场",
+        "onboard_time": 1714968681,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316149,
+        "num": 309113,
+        "word": "喜欢吃螺蛳粉的人有福了",
+        "onboard_time": 1714965799,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 308704,
+        "num": 308704,
+        "word": "恭候范闲归京",
+        "onboard_time": 1714967601,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306440,
+        "num": 306440,
+        "word": "赵奕欢张睿吻戏",
+        "onboard_time": 1714963998,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239125,
+        "num": 296940,
+        "word": "长期贪嘴你的肝会有何变化",
+        "onboard_time": 1714968080,
+        "rank": 25,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 295565,
+        "num": 295565,
+        "word": "歌手",
+        "onboard_time": 1714966399,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276502,
+        "num": 276502,
+        "word": "Jennie朴彩英同框",
+        "onboard_time": 1714964720,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166650,
+        "num": 274696,
+        "word": "A股",
+        "onboard_time": 1714960037,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138956,
+        "num": 274603,
+        "word": "从五一假期看流动的中国",
+        "onboard_time": 1714965079,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221107,
+        "num": 274586,
+        "word": "这周日是母亲节",
+        "onboard_time": 1714962077,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274585,
+        "num": 274585,
+        "word": "时代峰峻在广西成立新公司",
+        "onboard_time": 1714967540,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272505,
+        "num": 272505,
+        "word": "爸爸将5个月宝宝举过头顶当伞",
+        "onboard_time": 1714968442,
+        "rank": 32,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 249061,
+        "num": 249061,
+        "word": "谢娜43岁生日照",
+        "onboard_time": 1714966880,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233373,
+        "num": 233373,
+        "word": "上班吃同事我觉得不太礼貌",
+        "onboard_time": 1714962798,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226119,
+        "num": 226119,
+        "word": "6万御林军没干过3万常州铁骑",
+        "onboard_time": 1714965079,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201763,
+        "num": 201763,
+        "word": "厦门为求职实习大学生开放两千多张免费床位",
+        "onboard_time": 1714967360,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199724,
+        "num": 199724,
+        "word": "明日方舟 光一直与你同在",
+        "onboard_time": 1714969101,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196972,
+        "num": 196972,
+        "word": "时代少年团方否认天津演唱会",
+        "onboard_time": 1714966220,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191836,
+        "num": 191836,
+        "word": "开推造型师",
+        "onboard_time": 1714968983,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186522,
+        "num": 186522,
+        "word": "黄子韬撩徐艺洋",
+        "onboard_time": 1714955298,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183698,
+        "num": 183698,
+        "word": "我的阿勒泰定档",
+        "onboard_time": 1714961417,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181844,
+        "num": 181844,
+        "word": "电视剧高兴官宣",
+        "onboard_time": 1714964058,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173474,
+        "num": 173474,
+        "word": "于适工作室审美",
+        "onboard_time": 1714965199,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169586,
+        "num": 169586,
+        "word": "有些水果放冰箱坏的更快",
+        "onboard_time": 1714967239,
+        "rank": 44,
+        "category": "美食,科学科普"
+      },
+      {
+        "raw_hot": 161811,
+        "num": 161811,
+        "word": "庆余年第二季预约",
+        "onboard_time": 1714962258,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159293,
+        "num": 159293,
+        "word": "王一珩 多总去谈生意啦",
+        "onboard_time": 1714968561,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151816,
+        "num": 151816,
+        "word": "结肠癌明显的早期信号有哪些",
+        "onboard_time": 1714953680,
+        "rank": 47,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 121621,
+        "num": 151524,
+        "word": "官方通报重庆一医院被举报冒名产子",
+        "onboard_time": 1714959020,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100924,
+        "num": 151021,
+        "word": "空包叫花鸡店主称临时工错拿样品",
+        "onboard_time": 1714957878,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在法国媒体发表署名文章#"
+    }
+  }
+}
