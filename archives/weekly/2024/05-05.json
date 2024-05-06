@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715016848851,
+  "endTime": 1715019994528,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -3043,6 +3043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 215621,
+      "num": 35669,
+      "word": "熬夜疲劳可能会让你变臭",
+      "onboard_time": 1715017212,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 215531,
       "num": 190293,
       "word": "捡到了迪丽热巴的假发",
@@ -6051,7 +6059,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 50096,
+      "raw_hot": 52295,
       "num": 50096,
       "word": "二十多岁已经厌烦上班到极致",
       "onboard_time": 1715016074,
@@ -6123,6 +6131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40153,
+      "num": 35629,
+      "word": "庆余年3还能集齐原班人马吗",
+      "onboard_time": 1715017153,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38128,
       "num": 45839,
       "word": "切尔西vs西汉姆联",
@@ -6179,12 +6195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27726,
+      "num": 27726,
+      "word": "纪凌尘回复宋威龙",
+      "onboard_time": 1715019132,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27657,
       "num": 38044,
       "word": "蔡依林泉州演唱会",
       "onboard_time": 1714848433,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25367,
+      "num": 27708,
+      "word": "李沁拿鸡腿",
+      "onboard_time": 1715019252,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 24592,
@@ -6201,6 +6233,14 @@
       "onboard_time": 1714940292,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 22501,
+      "num": 27691,
+      "word": "章鱼的智慧",
+      "onboard_time": 1715018832,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 18048,
