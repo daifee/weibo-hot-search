@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715027667764,
+  "endTime": 1715030249244,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -6211,6 +6211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26304,
+      "num": 21495,
+      "word": "医学生有自己杀菠萝方式",
+      "onboard_time": 1715026030,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 25773,
       "num": 27708,
       "word": "李沁拿鸡腿",
@@ -6243,20 +6251,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 22445,
+      "num": 22445,
+      "word": "抗抑郁食物清单",
+      "onboard_time": 1715028190,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 21559,
       "num": 21559,
       "word": "范闲暴揍范思辙",
       "onboard_time": 1715024350,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21495,
-      "num": 21495,
-      "word": "医学生有自己杀菠萝方式",
-      "onboard_time": 1715026030,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 18048,
@@ -6267,7 +6275,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16369,
+      "raw_hot": 17811,
       "num": 21059,
       "word": "男子打球被球友看出面相不对救了一命",
       "onboard_time": 1715020752,
@@ -6289,6 +6297,14 @@
       "onboard_time": 1714940110,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 13301,
+      "num": 15275,
+      "word": "广东人你别耍我了",
+      "onboard_time": 1715028190,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 12230,

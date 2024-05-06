@@ -1,0 +1,410 @@
+{
+  "runTime": 1715030249244,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 86197,
+        "num": 86197,
+        "word": "三只羊参与举办电音节被指宰客",
+        "onboard_time": 1715011696,
+        "rank": 0,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 55153,
+        "num": 55153,
+        "word": "上海现付费马桶圈充1000可用13.8万次",
+        "onboard_time": 1715001678,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10867,
+        "num": 52381,
+        "word": "数据盘点五一假期",
+        "onboard_time": 1715000958,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59254,
+        "num": 52286,
+        "word": "人民文娱评华晨宇日出演唱会",
+        "onboard_time": 1714999998,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55949,
+        "num": 52046,
+        "word": "男子确诊胃癌提前一年为自己安排身后事",
+        "onboard_time": 1715007320,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50334,
+        "num": 50334,
+        "word": "抑郁女儿叫朋友来家里吃饭了",
+        "onboard_time": 1715005941,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49065,
+        "num": 49065,
+        "word": "张翰一次开朗换来终生内向",
+        "onboard_time": 1715009239,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34955,
+        "num": 34955,
+        "word": "句句说分开 句句都是爱",
+        "onboard_time": 1715009059,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28729,
+        "num": 28729,
+        "word": "92名在缅北跨境电诈嫌犯被移交我方",
+        "onboard_time": 1715000358,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28638,
+        "num": 28638,
+        "word": "WB 折磨",
+        "onboard_time": 1715001800,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40552,
+        "num": 28166,
+        "word": "女子为被性侵的母亲奔波后丢了工作",
+        "onboard_time": 1714980078,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34660,
+        "num": 27356,
+        "word": "邓超你关注下陶白白吧",
+        "onboard_time": 1715003960,
+        "rank": 11,
+        "category": "艺人,情感"
+      },
+      {
+        "raw_hot": 25619,
+        "num": 25619,
+        "word": "黄金狂飙后钻石崩了",
+        "onboard_time": 1715004139,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25022,
+        "num": 25022,
+        "word": "张若昀切范闲大号上线了",
+        "onboard_time": 1715009779,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22588,
+        "num": 22588,
+        "word": "淘宝免单",
+        "onboard_time": 1714977378,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22445,
+        "num": 22445,
+        "word": "抗抑郁食物清单",
+        "onboard_time": 1715028190,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22220,
+        "num": 22220,
+        "word": "纪凌尘回复宋威龙",
+        "onboard_time": 1715019132,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21147,
+        "num": 21147,
+        "word": "腰臀比小的人更长寿",
+        "onboard_time": 1715002518,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21029,
+        "num": 21029,
+        "word": "张杰谢娜拍立得",
+        "onboard_time": 1715003120,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19923,
+        "num": 19923,
+        "word": "陈梦压力",
+        "onboard_time": 1714999278,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109392,
+        "num": 19919,
+        "word": "经常口臭的人一般都逃不过这几个原因",
+        "onboard_time": 1715007080,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94633,
+        "num": 19854,
+        "word": "取消公办中小学教师编制可不可行",
+        "onboard_time": 1715007201,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 42304,
+        "num": 19841,
+        "word": "熬夜疲劳可能会让你变臭",
+        "onboard_time": 1715017212,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40057,
+        "num": 19782,
+        "word": "豪宅小区被外卖员吐槽赔钱也不送",
+        "onboard_time": 1715014995,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35211,
+        "num": 19736,
+        "word": "缅甸",
+        "onboard_time": 1715006420,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26652,
+        "num": 19721,
+        "word": "徐园男友称其系自杀",
+        "onboard_time": 1714997538,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26304,
+        "num": 19663,
+        "word": "医学生有自己杀菠萝方式",
+        "onboard_time": 1715026030,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21825,
+        "num": 19642,
+        "word": "原来减肥更重要的是塑型",
+        "onboard_time": 1715013615,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 21026,
+        "num": 19609,
+        "word": "范闲暴揍范思辙",
+        "onboard_time": 1715024350,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19581,
+        "num": 19581,
+        "word": "有一种惨叫广东荔枝不挂果",
+        "onboard_time": 1715007080,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 47610,
+        "num": 19557,
+        "word": "南部战区海军海空立体联合搜救演练",
+        "onboard_time": 1715009420,
+        "rank": 30,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 19318,
+        "num": 19318,
+        "word": "无名痒是身体发出的信号",
+        "onboard_time": 1715014154,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17870,
+        "num": 17870,
+        "word": "他新婚盛装她真刀真枪",
+        "onboard_time": 1715002098,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17811,
+        "num": 17811,
+        "word": "男子打球被球友看出面相不对救了一命",
+        "onboard_time": 1715020752,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17034,
+        "num": 17034,
+        "word": "想念郭艾伦",
+        "onboard_time": 1715004982,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16690,
+        "num": 16690,
+        "word": "杨幂曾问邓超亚比是什么",
+        "onboard_time": 1715005520,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16200,
+        "num": 16200,
+        "word": "存款十几万在小县城什么水平",
+        "onboard_time": 1714991359,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15363,
+        "num": 15363,
+        "word": "内娱直播考研上岸第一人",
+        "onboard_time": 1714991359,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15014,
+        "num": 15362,
+        "word": "杨鸣贴脸暴怒",
+        "onboard_time": 1715003479,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14960,
+        "num": 15353,
+        "word": "刘亦菲海南plog",
+        "onboard_time": 1715001138,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14663,
+        "num": 15346,
+        "word": "二十多岁已经厌烦上班到极致",
+        "onboard_time": 1715016074,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14504,
+        "num": 15337,
+        "word": "徐园男友有3次暴力前科",
+        "onboard_time": 1715007981,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14324,
+        "num": 15322,
+        "word": "原来高铁上是有15元的盒饭的",
+        "onboard_time": 1714991058,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 14212,
+        "num": 15318,
+        "word": "和动画简直一模一样",
+        "onboard_time": 1715016732,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13972,
+        "num": 15305,
+        "word": "TTG晋级败者组第三轮",
+        "onboard_time": 1715007559,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13875,
+        "num": 15301,
+        "word": "吴磊 你好不好",
+        "onboard_time": 1714999759,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13587,
+        "num": 15296,
+        "word": "庆余年3还能集齐原班人马吗",
+        "onboard_time": 1715017153,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13443,
+        "num": 15287,
+        "word": "原来这些行为是良性自虐",
+        "onboard_time": 1715007201,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13301,
+        "num": 15275,
+        "word": "广东人你别耍我了",
+        "onboard_time": 1715028190,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13212,
+        "num": 15269,
+        "word": "广州暴雨",
+        "onboard_time": 1714999398,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席欧洲之行#"
+    }
+  }
+}
