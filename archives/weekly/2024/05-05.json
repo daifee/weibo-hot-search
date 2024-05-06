@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714962695865,
+  "endTime": 1714963311493,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 742990,
+      "num": 329496,
+      "word": "泰男子欲性侵遭反杀家属回应",
+      "onboard_time": 1714961958,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 724932,
       "num": 717435,
       "word": "室友讨厌甄嬛的理由",
@@ -491,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 617143,
+      "num": 617143,
+      "word": "我的阿勒泰定档",
+      "onboard_time": 1714961417,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 610679,
       "num": 610679,
       "word": "雷军回应不建议给年轻人太多建议",
@@ -553,6 +569,14 @@
       "onboard_time": 1714877778,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 567647,
+      "num": 567647,
+      "word": "庆余年第二季预约",
+      "onboard_time": 1714962258,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 566000,
@@ -665,14 +689,6 @@
       "onboard_time": 1714874838,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503102,
-      "num": 503102,
-      "word": "我的阿勒泰定档",
-      "onboard_time": 1714961417,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 499339,
@@ -851,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434131,
+      "num": 434131,
+      "word": "这周日是母亲节",
+      "onboard_time": 1714962077,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 427983,
       "num": 427983,
       "word": "IU捐赠1亿韩元",
@@ -905,14 +929,6 @@
       "onboard_time": 1714906640,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 423058,
-      "num": 329496,
-      "word": "泰男子欲性侵遭反杀家属回应",
-      "onboard_time": 1714961958,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 421794,
@@ -1147,6 +1163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 352001,
+      "num": 233248,
+      "word": "长期喝白开水和长期喝茶的人身体有什么变化",
+      "onboard_time": 1714963099,
+      "rank": 20,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 351932,
       "num": 240163,
       "word": "张一山卡点回复杨紫",
@@ -1219,14 +1243,6 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 329043,
-      "num": 329043,
-      "word": "庆余年第二季预约",
-      "onboard_time": 1714962258,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 327763,
       "num": 327763,
       "word": "随便吃同事真的很不礼貌",
@@ -1297,14 +1313,6 @@
       "onboard_time": 1714897639,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 297541,
-      "num": 297541,
-      "word": "这周日是母亲节",
-      "onboard_time": 1714962077,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 297173,
@@ -1459,6 +1467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 263215,
+      "num": 249734,
+      "word": "赵丽颖18年56个角色",
+      "onboard_time": 1714961058,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262895,
       "num": 262895,
       "word": "维和防暴队开分5.6分",
@@ -1521,14 +1537,6 @@
       "onboard_time": 1714959978,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249734,
-      "num": 249734,
-      "word": "赵丽颖18年56个角色",
-      "onboard_time": 1714961058,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 249468,
@@ -1619,6 +1627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 233648,
+      "num": 233648,
+      "word": "特斯拉回应金华事故",
+      "onboard_time": 1714962019,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 233438,
       "num": 233438,
       "word": "孙千费启鸣早期校服照",
@@ -1691,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226803,
+      "num": 226803,
+      "word": "青山刚昌 试着用孩童的眼睛看世界",
+      "onboard_time": 1714959499,
+      "rank": 26,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 226672,
       "num": 226672,
       "word": "亳州王婆说媒劝小伙牵手怀孕女孩",
@@ -1761,14 +1785,6 @@
       "onboard_time": 1714902799,
       "rank": 18,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 219215,
-      "num": 219215,
-      "word": "青山刚昌 试着用孩童的眼睛看世界",
-      "onboard_time": 1714959499,
-      "rank": 26,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 218204,
@@ -2155,14 +2171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188906,
-      "num": 188906,
-      "word": "特斯拉回应金华事故",
-      "onboard_time": 1714962019,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 188877,
       "num": 188877,
       "word": "讨厌不发信息直接弹语音电话的人",
@@ -2531,6 +2539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169989,
+      "num": 169989,
+      "word": "WTT沙特大满贯",
+      "onboard_time": 1714962198,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169131,
       "num": 169131,
       "word": "严浩翔向大爷求助小灵通怎么用",
@@ -2539,12 +2555,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168815,
-      "num": 168815,
-      "word": "WTT沙特大满贯",
-      "onboard_time": 1714962198,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 168808,
+      "num": 168808,
+      "word": "碧昂丝妹妹电梯暴打Jayz十周年",
+      "onboard_time": 1714962558,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 167691,
@@ -2681,6 +2697,14 @@
       "onboard_time": 1714916600,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160028,
+      "num": 160028,
+      "word": "上班吃同事我觉得不太礼貌",
+      "onboard_time": 1714962798,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 159805,
@@ -3099,20 +3123,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 128555,
-      "num": 128555,
-      "word": "碧昂丝妹妹电梯暴打Jayz十周年",
-      "onboard_time": 1714962558,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128030,
       "num": 128030,
       "word": "周家轩 因为淋过雨所以想撑把伞",
       "onboard_time": 1714896679,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127534,
+      "num": 127534,
+      "word": "五一假期多地旅游收入",
+      "onboard_time": 1714959798,
+      "rank": 43,
+      "category": "旅游,财经"
     },
     {
       "raw_hot": 127198,
@@ -3201,14 +3225,6 @@
       "onboard_time": 1714884620,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124148,
-      "num": 124148,
-      "word": "五一假期多地旅游收入",
-      "onboard_time": 1714959798,
-      "rank": 43,
-      "category": "旅游,财经"
     },
     {
       "raw_hot": 123546,
@@ -3497,6 +3513,14 @@
       "onboard_time": 1714814298,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102439,
+      "num": 102439,
+      "word": "六姊妹杀青",
+      "onboard_time": 1714963279,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 102093,
