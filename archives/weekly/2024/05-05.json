@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714995253885,
+  "endTime": 1714998850776,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 885383,
+      "num": 354385,
+      "word": "徐园男友称其系自杀",
+      "onboard_time": 1714997538,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 881165,
       "num": 327114,
       "word": "月薪4000小伙三年攒下13万",
@@ -467,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 870592,
+      "num": 870592,
+      "word": "王曼昱止步大满贯32强",
+      "onboard_time": 1714996636,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 867606,
       "num": 556411,
       "word": "女老师遭网课爆破后死亡9名嫌疑人未成年",
@@ -491,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 857385,
+      "num": 315954,
+      "word": "存款十几万在小县城什么水平",
+      "onboard_time": 1714991359,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 855115,
       "num": 855115,
       "word": "内娱直播考研上岸第一人",
@@ -513,14 +537,6 @@
       "onboard_time": 1714894159,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 831547,
-      "num": 262753,
-      "word": "存款十几万在小县城什么水平",
-      "onboard_time": 1714991359,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 825153,
@@ -804,7 +820,7 @@
     },
     {
       "raw_hot": 613108,
-      "num": 278363,
+      "num": 309615,
       "word": "家里人不同意一次性相亲两个男生",
       "onboard_time": 1714990518,
       "rank": 37,
@@ -851,12 +867,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597751,
+      "num": 597751,
+      "word": "原来高铁上是有15元的盒饭的",
+      "onboard_time": 1714991058,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 593557,
       "num": 494137,
       "word": "香飘飘涨停",
       "onboard_time": 1714969221,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 585784,
+      "num": 346417,
+      "word": "张静初考研",
+      "onboard_time": 1714997478,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 585149,
@@ -923,6 +955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 550251,
+      "num": 550251,
+      "word": "男子用菜刀砍伤妻子辩称管教不犯法",
+      "onboard_time": 1714995197,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546074,
       "num": 546074,
       "word": "有人弃我如杂草 有人视我如珍宝",
@@ -953,6 +993,14 @@
       "onboard_time": 1714963998,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 540682,
+      "num": 314760,
+      "word": "王鸥41岁状态",
+      "onboard_time": 1714997119,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 538101,
@@ -1147,14 +1195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 476222,
-      "num": 476222,
-      "word": "原来高铁上是有15元的盒饭的",
-      "onboard_time": 1714991058,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 475259,
       "num": 475259,
       "word": "AITO汽车发布山西问界M7事故说明",
@@ -1251,6 +1291,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 450647,
+      "num": 314704,
+      "word": "郑秀妍晒与郑秀晶的合照",
+      "onboard_time": 1714996038,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 449143,
       "num": 338437,
       "word": "田曦薇好薄的背",
@@ -1313,6 +1361,14 @@
       "onboard_time": 1714974318,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 434755,
+      "num": 434755,
+      "word": "林俊杰南昌开票",
+      "onboard_time": 1714997657,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 434131,
@@ -1489,6 +1545,14 @@
       "onboard_time": 1714953018,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397422,
+      "num": 397422,
+      "word": "怎么写快乐家族最刀呢",
+      "onboard_time": 1714994177,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 392982,
@@ -1683,6 +1747,14 @@
       "category": "社会新闻,汽车"
     },
     {
+      "raw_hot": 356993,
+      "num": 356993,
+      "word": "王曼昱vs巴特拉",
+      "onboard_time": 1714995377,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355693,
       "num": 355693,
       "word": "汤杯决赛中国2比1印尼",
@@ -1747,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339805,
+      "num": 339805,
+      "word": "王曼昱1比3巴特拉",
+      "onboard_time": 1714996459,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337134,
       "num": 337134,
       "word": "陕西一男子花62元买彩票中1.48亿元",
@@ -1761,6 +1841,14 @@
       "onboard_time": 1714922963,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 333573,
+      "num": 333573,
+      "word": "虞书欣直播",
+      "onboard_time": 1714995078,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 332539,
@@ -1833,6 +1921,14 @@
       "onboard_time": 1714872979,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 316496,
+      "num": 316496,
+      "word": "女子与男友争执中刀死亡男友一审无罪",
+      "onboard_time": 1714998379,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316466,
@@ -1913,6 +2009,14 @@
       "onboard_time": 1714897639,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300179,
+      "num": 300179,
+      "word": "陶喆南京 抢票",
+      "onboard_time": 1714998258,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 298489,
@@ -2147,6 +2251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 263612,
+      "num": 263612,
+      "word": "那英抵达长沙录制歌手",
+      "onboard_time": 1714994359,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263215,
       "num": 249734,
       "word": "赵丽颖18年56个角色",
@@ -2233,6 +2345,14 @@
       "onboard_time": 1714959978,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251315,
+      "num": 251315,
+      "word": "徐园姐姐发声",
+      "onboard_time": 1714998379,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249468,
@@ -2795,14 +2915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202737,
-      "num": 202737,
-      "word": "那英抵达长沙录制歌手",
-      "onboard_time": 1714994359,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201763,
       "num": 201763,
       "word": "厦门为求职实习大学生开放两千多张免费床位",
@@ -2897,6 +3009,14 @@
       "onboard_time": 1714976120,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198115,
+      "num": 198115,
+      "word": "马琳",
+      "onboard_time": 1714998439,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 197682,
@@ -3267,14 +3387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186559,
-      "num": 186559,
-      "word": "怎么写快乐家族最刀呢",
-      "onboard_time": 1714994177,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186506,
       "num": 186506,
       "word": "时代少年团男儿歌贴纸是China",
@@ -3331,6 +3443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183587,
+      "num": 183587,
+      "word": "于适控马",
+      "onboard_time": 1714997718,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183224,
       "num": 452628,
       "word": "香飘飘总裁说国货要对国人好",
@@ -3377,6 +3497,14 @@
       "onboard_time": 1714911019,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180635,
+      "num": 180635,
+      "word": "当两天伴娘给了18块钱红包",
+      "onboard_time": 1714995497,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 180370,
@@ -3497,6 +3625,14 @@
       "onboard_time": 1714877598,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 175744,
+      "num": 175744,
+      "word": "新闻女王2新角推荐名单",
+      "onboard_time": 1714998318,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 175684,
@@ -3771,12 +3907,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164402,
-      "num": 164402,
-      "word": "虞书欣直播",
-      "onboard_time": 1714995078,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 164119,
+      "num": 164119,
+      "word": "辽粤大战",
+      "onboard_time": 1714997119,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 164078,
@@ -4347,6 +4483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139862,
+      "num": 139862,
+      "word": "严浩翔进地铁要弯腰",
+      "onboard_time": 1714995377,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139714,
       "num": 139714,
       "word": "严浩翔ScaryMovie练习室版",
@@ -4715,14 +4859,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 122239,
-      "num": 122239,
-      "word": "男子用菜刀砍伤妻子辩称管教不犯法",
-      "onboard_time": 1714995197,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122198,
       "num": 122198,
       "word": "第一次见这么不负责的宠物店",
@@ -4745,6 +4881,14 @@
       "onboard_time": 1714868958,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120916,
+      "num": 120916,
+      "word": "妈妈切好的皮蛋室友不太爱吃",
+      "onboard_time": 1714997238,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 120150,
@@ -5227,6 +5371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68244,
+      "num": 342372,
+      "word": "淘宝确认免单不是bug",
+      "onboard_time": 1714997418,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 67821,
       "num": 67821,
       "word": "张本美和19比17",
@@ -5289,6 +5441,14 @@
       "onboard_time": 1714951455,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62401,
+      "num": 340676,
+      "word": "奇瑞把车从32米高空垂直扔下",
+      "onboard_time": 1714997600,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 61740,
