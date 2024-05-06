@@ -1,0 +1,410 @@
+{
+  "runTime": 1715001640319,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1027272,
+        "num": 1027272,
+        "word": "林高远止步大满贯32强",
+        "onboard_time": 1715000179,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 649640,
+        "num": 649640,
+        "word": "王曼昱止步大满贯32强",
+        "onboard_time": 1714996636,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59070,
+        "num": 646980,
+        "word": "五一假期文旅消费成绩单",
+        "onboard_time": 1715001138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1867017,
+        "num": 646267,
+        "word": "徐园男友称其系自杀",
+        "onboard_time": 1714997538,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1386642,
+        "num": 642184,
+        "word": "人民文娱评华晨宇日出演唱会",
+        "onboard_time": 1714999998,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 664219,
+        "num": 640051,
+        "word": "爸爸辅导作业崩溃用石榴砸破孩子脾脏",
+        "onboard_time": 1714985657,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638779,
+        "num": 638779,
+        "word": "原来高铁上是有15元的盒饭的",
+        "onboard_time": 1714991058,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 603642,
+        "num": 603642,
+        "word": "广州暴雨",
+        "onboard_time": 1714999398,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567634,
+        "num": 567634,
+        "word": "陈梦压力",
+        "onboard_time": 1714999278,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85807,
+        "num": 567028,
+        "word": "女子突发晕厥14岁少年挺身而出",
+        "onboard_time": 1714982058,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 853391,
+        "num": 562120,
+        "word": "淘宝免单",
+        "onboard_time": 1714977378,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 703144,
+        "num": 557786,
+        "word": "张静初考研",
+        "onboard_time": 1714997478,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267000,
+        "num": 549154,
+        "word": "淘宝确认免单不是bug",
+        "onboard_time": 1714997418,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 690986,
+        "num": 545630,
+        "word": "吴磊 你好不好",
+        "onboard_time": 1714999759,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543735,
+        "num": 543735,
+        "word": "女子为被性侵的母亲奔波后丢了工作",
+        "onboard_time": 1714980078,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95016,
+        "num": 475435,
+        "word": "奇瑞把车从32米高空垂直扔下",
+        "onboard_time": 1714997600,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 450237,
+        "num": 450237,
+        "word": "内娱直播考研上岸第一人",
+        "onboard_time": 1714991359,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435236,
+        "num": 435236,
+        "word": "92名在缅北跨境电诈嫌犯被移交我方",
+        "onboard_time": 1715000358,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400986,
+        "num": 400986,
+        "word": "马琳",
+        "onboard_time": 1714998439,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377587,
+        "num": 377587,
+        "word": "女子与男友争执中刀死亡男友一审无罪",
+        "onboard_time": 1714998379,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889938,
+        "num": 372477,
+        "word": "存款十几万在小县城什么水平",
+        "onboard_time": 1714991359,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 491532,
+        "num": 370971,
+        "word": "王鸥41岁状态",
+        "onboard_time": 1714997119,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362518,
+        "num": 362518,
+        "word": "邓超不进组的原因",
+        "onboard_time": 1714999878,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350426,
+        "num": 350426,
+        "word": "男子用菜刀砍伤妻子辩称管教不犯法",
+        "onboard_time": 1714995197,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345296,
+        "num": 345296,
+        "word": "太阳第3次爆发最强X级耀斑",
+        "onboard_time": 1714999938,
+        "rank": 24,
+        "category": "科学科普,自然"
+      },
+      {
+        "raw_hot": 325090,
+        "num": 325090,
+        "word": "高校发讣告悼念梅大高速遇难学子",
+        "onboard_time": 1714984339,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295400,
+        "num": 295400,
+        "word": "郑秀妍晒与郑秀晶的合照",
+        "onboard_time": 1714996038,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294563,
+        "num": 294563,
+        "word": "怎么写快乐家族最刀呢",
+        "onboard_time": 1714994177,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278441,
+        "num": 278441,
+        "word": "关雪 晴川",
+        "onboard_time": 1714985839,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238597,
+        "num": 238597,
+        "word": "家里人不同意一次性相亲两个男生",
+        "onboard_time": 1714990518,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213013,
+        "num": 213013,
+        "word": "徐园姐姐发声",
+        "onboard_time": 1714998379,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209520,
+        "num": 209520,
+        "word": "刘亦菲海南plog",
+        "onboard_time": 1715001138,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196583,
+        "num": 196583,
+        "word": "辽宁男篮",
+        "onboard_time": 1715001079,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188400,
+        "num": 188400,
+        "word": "林俊杰南昌开票",
+        "onboard_time": 1714997657,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186294,
+        "num": 186294,
+        "word": "林高远1比3格罗特",
+        "onboard_time": 1715000538,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183523,
+        "num": 183523,
+        "word": "林高远vs格罗特",
+        "onboard_time": 1714998918,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175833,
+        "num": 175833,
+        "word": "新闻女王2新角推荐名单",
+        "onboard_time": 1714998318,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164390,
+        "num": 164390,
+        "word": "邓超 水瓶座",
+        "onboard_time": 1714992019,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155413,
+        "num": 155413,
+        "word": "吴磊翻牌",
+        "onboard_time": 1714999579,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154361,
+        "num": 154361,
+        "word": "小龙虾每斤8元",
+        "onboard_time": 1715000778,
+        "rank": 39,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 151868,
+        "num": 151868,
+        "word": "虞书欣直播",
+        "onboard_time": 1714995078,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151647,
+        "num": 151647,
+        "word": "善宰小率 亲一个",
+        "onboard_time": 1714999219,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150916,
+        "num": 150916,
+        "word": "易建联回应王栎鑫",
+        "onboard_time": 1714999817,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148974,
+        "num": 148974,
+        "word": "当两天伴娘给了18块钱红包",
+        "onboard_time": 1714995497,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146497,
+        "num": 146497,
+        "word": "妈妈切好的皮蛋室友不太爱吃",
+        "onboard_time": 1714997238,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144371,
+        "num": 144371,
+        "word": "陶喆南京 抢票",
+        "onboard_time": 1714998258,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142518,
+        "num": 142518,
+        "word": "歌手 首发阵容",
+        "onboard_time": 1714968200,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138891,
+        "num": 138891,
+        "word": "吃火锅意外吃出甄嬛传片头",
+        "onboard_time": 1714987998,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123078,
+        "num": 123078,
+        "word": "庆余年2拍了范闲林婉儿大婚",
+        "onboard_time": 1714986379,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122775,
+        "num": 122775,
+        "word": "老头杯",
+        "onboard_time": 1714989377,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法欧领导人三方会晤举行#"
+    }
+  }
+}
