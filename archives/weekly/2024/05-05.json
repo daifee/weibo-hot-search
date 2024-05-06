@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714991793044,
+  "endTime": 1714994132518,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -211,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1260655,
+      "num": 1260655,
+      "word": "爸爸辅导作业崩溃用石榴砸破孩子脾脏",
+      "onboard_time": 1714985657,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1259532,
       "num": 1259532,
       "word": "舅妈家想霸占我的婚房",
@@ -371,12 +379,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 1003000,
-      "num": 1003000,
-      "word": "爸爸辅导作业崩溃用石榴砸破孩子脾脏",
-      "onboard_time": 1714985657,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 1000521,
+      "num": 1000521,
+      "word": "老头杯",
+      "onboard_time": 1714989377,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 932334,
@@ -603,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 757433,
+      "num": 262753,
+      "word": "存款十几万在小县城什么水平",
+      "onboard_time": 1714991359,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 756363,
       "num": 334267,
       "word": "金靖官宣怀孕后首现身机场",
@@ -617,6 +633,14 @@
       "onboard_time": 1714965379,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 744484,
+      "num": 744484,
+      "word": "内娱直播考研上岸第一人",
+      "onboard_time": 1714991359,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 743108,
@@ -867,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 565939,
+      "num": 278363,
+      "word": "家里人不同意一次性相亲两个男生",
+      "onboard_time": 1714990518,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 554952,
       "num": 554952,
       "word": "国务院安委会派督导组赴河南",
@@ -1033,14 +1065,6 @@
       "onboard_time": 1714874778,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 493206,
-      "num": 493206,
-      "word": "老头杯",
-      "onboard_time": 1714989377,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 491595,
@@ -1427,6 +1451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 401563,
+      "num": 401563,
+      "word": "Ning老头杯一选TheShy",
+      "onboard_time": 1714989919,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 401349,
       "num": 401349,
       "word": "猴子抢了游客防晒衣出不来了",
@@ -1601,6 +1633,14 @@
       "onboard_time": 1714898539,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360400,
+      "num": 360400,
+      "word": "吃火锅意外吃出甄嬛传片头",
+      "onboard_time": 1714987998,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 360127,
@@ -1851,14 +1891,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 308427,
-      "num": 278363,
-      "word": "家里人不同意一次性相亲两个男生",
-      "onboard_time": 1714990518,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 304014,
       "num": 304014,
       "word": "叶祖新怎么越老越帅",
@@ -1872,6 +1904,14 @@
       "word": "沈眉庄侍寝多次为何没孩子",
       "onboard_time": 1714978998,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 297274,
+      "num": 297274,
+      "word": "肖战藏海传扶人下马车路透",
+      "onboard_time": 1714990818,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -1899,14 +1939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 295559,
-      "num": 295559,
-      "word": "Ning老头杯一选TheShy",
-      "onboard_time": 1714989919,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 290685,
       "num": 290685,
       "word": "专家称高铁涨价是必要的",
@@ -1920,14 +1952,6 @@
       "word": "田小江死在了漫长的季节里",
       "onboard_time": 1714914859,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 289172,
-      "num": 289172,
-      "word": "肖战藏海传扶人下马车路透",
-      "onboard_time": 1714990818,
-      "rank": 19,
       "category": "剧集"
     },
     {
@@ -1971,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282856,
+      "num": 282856,
+      "word": "原来高铁上是有15元的盒饭的",
+      "onboard_time": 1714991058,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 282138,
       "num": 277438,
       "word": "林俊杰肌肉比脸大",
@@ -1985,6 +2017,14 @@
       "onboard_time": 1714974379,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 281303,
+      "num": 256084,
+      "word": "邓超 水瓶座",
+      "onboard_time": 1714992019,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 280439,
@@ -2041,14 +2081,6 @@
       "onboard_time": 1714967540,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 274212,
-      "num": 274212,
-      "word": "吃火锅意外吃出甄嬛传片头",
-      "onboard_time": 1714987998,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 274142,
@@ -2395,6 +2427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228288,
+      "num": 254989,
+      "word": "原来香飘飘曾拒绝外资收购",
+      "onboard_time": 1714993340,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227775,
       "num": 227775,
       "word": "孙俪早六运动",
@@ -2457,14 +2497,6 @@
       "onboard_time": 1714829240,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222435,
-      "num": 222435,
-      "word": "内娱直播考研上岸第一人",
-      "onboard_time": 1714991359,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 221610,
@@ -2923,6 +2955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195817,
+      "num": 195817,
+      "word": "镜头下的笑容",
+      "onboard_time": 1714993578,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195451,
       "num": 217946,
       "word": "向佐怎么瘦成这样了",
@@ -3113,14 +3153,6 @@
       "onboard_time": 1714915219,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189157,
-      "num": 189157,
-      "word": "存款十几万在小县城什么水平",
-      "onboard_time": 1714991359,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 188877,
@@ -3331,6 +3363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179958,
+      "num": 179958,
+      "word": "汪苏泷达成万人点头成就",
+      "onboard_time": 1714993758,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179755,
       "num": 179755,
       "word": "赵丽颖与凤行有效播剧",
@@ -3393,14 +3433,6 @@
       "onboard_time": 1714972999,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 176415,
-      "num": 176415,
-      "word": "原来高铁上是有15元的盒饭的",
-      "onboard_time": 1714991058,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 176240,
@@ -3617,6 +3649,14 @@
       "onboard_time": 1714915400,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168989,
+      "num": 168989,
+      "word": "无座9个小时可以在车上干什么",
+      "onboard_time": 1714993340,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 168808,
@@ -3995,6 +4035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152940,
+      "num": 152940,
+      "word": "徐明浩宋雨琦cha",
+      "onboard_time": 1714994119,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 151901,
       "num": 151901,
       "word": "尤杯决赛中国2比0印尼",
@@ -4113,6 +4161,14 @@
       "onboard_time": 1714912158,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146718,
+      "num": 146718,
+      "word": "金智媛仿妆",
+      "onboard_time": 1714993158,
+      "rank": 39,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 145411,
@@ -4283,6 +4339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136429,
+      "num": 488967,
+      "word": "女子突发晕厥14岁少年挺身而出",
+      "onboard_time": 1714982058,
+      "rank": 8,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 135599,
       "num": 135599,
       "word": "甲状腺结节",
@@ -4321,6 +4385,22 @@
       "onboard_time": 1714963279,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133730,
+      "num": 133730,
+      "word": "儿子的猫被家里的老人丢掉了",
+      "onboard_time": 1714993340,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 133431,
+      "num": 133431,
+      "word": "未来三天可能耀上斑",
+      "onboard_time": 1714993039,
+      "rank": 45,
+      "category": "科学科普,情感"
     },
     {
       "raw_hot": 133168,
@@ -4787,12 +4867,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 111029,
-      "num": 488967,
-      "word": "女子突发晕厥14岁少年挺身而出",
-      "onboard_time": 1714982058,
-      "rank": 8,
-      "category": "社会正能量"
+      "raw_hot": 110774,
+      "num": 110774,
+      "word": "为什么旅行是检验情侣的标准",
+      "onboard_time": 1714993340,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 110189,
@@ -4876,7 +4956,7 @@
     },
     {
       "raw_hot": 98644,
-      "num": 707557,
+      "num": 748807,
       "word": "巴黎欢迎人群敲锣打鼓舞龙舞狮",
       "onboard_time": 1714987639,
       "rank": 2,
@@ -5394,6 +5474,9 @@
     },
     {
       "word": "#习主席的欧洲之行#"
+    },
+    {
+      "word": "#习近平主席这样阐释中塞友谊#"
     }
   ]
 }
