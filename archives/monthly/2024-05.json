@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715026776549,
+  "endTime": 1715027667764,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -17115,12 +17115,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21559,
+      "num": 21559,
+      "word": "范闲暴揍范思辙",
+      "onboard_time": 1715024350,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21522,
       "num": 79847,
       "word": "蓝色监狱 帅得很超前",
       "onboard_time": 1714764312,
       "rank": 44,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 21495,
+      "num": 21495,
+      "word": "医学生有自己杀菠萝方式",
+      "onboard_time": 1715026030,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 21177,
@@ -17137,14 +17153,6 @@
       "onboard_time": 1714763172,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 21028,
-      "num": 21028,
-      "word": "范闲暴揍范思辙",
-      "onboard_time": 1715024350,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 18674,
@@ -17169,14 +17177,6 @@
       "onboard_time": 1713927617,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17009,
-      "num": 17009,
-      "word": "医学生有自己杀菠萝方式",
-      "onboard_time": 1715026030,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 16988,
@@ -17231,6 +17231,14 @@
       "num": 15711,
       "word": "老人倒地医生情侣15分钟抢回一条命",
       "onboard_time": 1715026750,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11930,
+      "num": 15025,
+      "word": "老人沉迷直播间买买买民警破门而入",
+      "onboard_time": 1715027650,
       "rank": 49,
       "category": "社会新闻"
     },

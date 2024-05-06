@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715026776549,
+  "endTime": 1715027667764,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -6243,12 +6243,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 21028,
-      "num": 21028,
+      "raw_hot": 21559,
+      "num": 21559,
       "word": "范闲暴揍范思辙",
       "onboard_time": 1715024350,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21495,
+      "num": 21495,
+      "word": "医学生有自己杀菠萝方式",
+      "onboard_time": 1715026030,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 18048,
@@ -6257,14 +6265,6 @@
       "onboard_time": 1715000958,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17009,
-      "num": 17009,
-      "word": "医学生有自己杀菠萝方式",
-      "onboard_time": 1715026030,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 16369,
@@ -6295,6 +6295,14 @@
       "num": 15711,
       "word": "老人倒地医生情侣15分钟抢回一条命",
       "onboard_time": 1715026750,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11930,
+      "num": 15025,
+      "word": "老人沉迷直播间买买买民警破门而入",
+      "onboard_time": 1715027650,
       "rank": 49,
       "category": "社会新闻"
     },
