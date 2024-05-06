@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714965658327,
+  "endTime": 1714966457571,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -315,6 +315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1554354,
+      "num": 394985,
+      "word": "迪丽热巴蓝发",
+      "onboard_time": 1714964537,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1545383,
       "num": 657851,
       "word": "下午三点离职五点整个部门涨薪了",
@@ -409,6 +417,14 @@
       "onboard_time": 1714866374,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1426764,
+      "num": 253567,
+      "word": "长期喝白开水和长期喝茶的人身体有什么变化",
+      "onboard_time": 1714963099,
+      "rank": 20,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 1421271,
@@ -579,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1253562,
-      "num": 234544,
-      "word": "长期喝白开水和长期喝茶的人身体有什么变化",
-      "onboard_time": 1714963099,
-      "rank": 20,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 1250544,
       "num": 1250544,
       "word": "梅大高速下跪拦车的老人找到了",
@@ -649,14 +657,6 @@
       "onboard_time": 1714713559,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1222593,
-      "num": 389628,
-      "word": "迪丽热巴蓝发",
-      "onboard_time": 1714964537,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1200084,
@@ -2532,7 +2532,7 @@
     },
     {
       "raw_hot": 540779,
-      "num": 389465,
+      "num": 478097,
       "word": "赵奕欢张睿吻戏",
       "onboard_time": 1714963998,
       "rank": 11,
@@ -2873,6 +2873,14 @@
       "onboard_time": 1714653558,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 483303,
+      "num": 392476,
+      "word": "差点认不出来马伊琍",
+      "onboard_time": 1714965379,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 481754,
@@ -3233,6 +3241,14 @@
       "onboard_time": 1714735639,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 447439,
+      "num": 253563,
+      "word": "Jennie朴彩英同框",
+      "onboard_time": 1714964720,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 447052,
@@ -4315,14 +4331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 357913,
-      "num": 233919,
-      "word": "Jennie朴彩英同框",
-      "onboard_time": 1714964720,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 355693,
       "num": 355693,
       "word": "汤杯决赛中国2比1印尼",
@@ -4673,6 +4681,14 @@
       "onboard_time": 1714575979,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 328777,
+      "num": 328777,
+      "word": "娜子官宣",
+      "onboard_time": 1714965138,
+      "rank": 31,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 328706,
@@ -5387,6 +5403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 271435,
+      "num": 271435,
+      "word": "歌手2024音乐合伙人官宣",
+      "onboard_time": 1714966100,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271406,
       "num": 271406,
       "word": "那英说录声生不息哭得乱七八糟",
@@ -5667,6 +5691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258154,
+      "num": 258154,
+      "word": "疑理想汽车无人驾驶副驾坐着孩子",
+      "onboard_time": 1714964899,
+      "rank": 28,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 258140,
       "num": 235770,
       "word": "孟佳当选手被张雨绮秒淘汰",
@@ -5689,6 +5721,14 @@
       "onboard_time": 1714882340,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 256254,
+      "num": 248867,
+      "word": "6万御林军没干过3万常州铁骑",
+      "onboard_time": 1714965079,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 255910,
@@ -5907,6 +5947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245697,
+      "num": 245697,
+      "word": "上班吃同事我觉得不太礼貌",
+      "onboard_time": 1714962798,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245508,
       "num": 238873,
       "word": "范丞丞唱了NINEPERCENT",
@@ -6113,14 +6161,6 @@
       "onboard_time": 1714886958,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236439,
-      "num": 236439,
-      "word": "6万御林军没干过3万常州铁骑",
-      "onboard_time": 1714965079,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 236351,
@@ -6363,6 +6403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228493,
+      "num": 228493,
+      "word": "喜欢吃螺蛳粉的人有福了",
+      "onboard_time": 1714965799,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228076,
       "num": 228076,
       "word": "外交部回应美国务卿涉台声明",
@@ -6513,14 +6561,6 @@
       "onboard_time": 1714919960,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 221372,
-      "num": 221372,
-      "word": "上班吃同事我觉得不太礼貌",
-      "onboard_time": 1714962798,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 221261,
@@ -6731,6 +6771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215434,
+      "num": 215434,
+      "word": "于适工作室审美",
+      "onboard_time": 1714965199,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215190,
       "num": 571697,
       "word": "41度高温下交警女儿暴躁宠爹",
@@ -6793,6 +6841,14 @@
       "onboard_time": 1714880179,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213288,
+      "num": 213288,
+      "word": "恋与深空",
+      "onboard_time": 1714964959,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 213223,
@@ -7003,14 +7059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208180,
-      "num": 208180,
-      "word": "差点认不出来马伊琍",
-      "onboard_time": 1714965379,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208092,
       "num": 208092,
       "word": "薛之谦新疆抢票",
@@ -7193,14 +7241,6 @@
       "onboard_time": 1714552158,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204544,
-      "num": 204544,
-      "word": "于适工作室审美",
-      "onboard_time": 1714965199,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 204378,
@@ -8059,14 +8099,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 191242,
-      "num": 191242,
-      "word": "疑理想汽车无人驾驶副驾坐着孩子",
-      "onboard_time": 1714964899,
-      "rank": 28,
-      "category": "汽车,社会新闻"
-    },
-    {
       "raw_hot": 191194,
       "num": 191194,
       "word": "连狗都知道吃黄瓜要吐尖",
@@ -8707,14 +8739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 180325,
-      "num": 180325,
-      "word": "娜子官宣",
-      "onboard_time": 1714965138,
-      "rank": 31,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 180295,
       "num": 180295,
       "word": "涵艺爆料Ale加入AL",
@@ -9283,14 +9307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171538,
-      "num": 171538,
-      "word": "恋与深空",
-      "onboard_time": 1714964959,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 171382,
       "num": 171382,
       "word": "刷牙时要不要刷舌头",
@@ -9481,6 +9497,14 @@
       "onboard_time": 1714553838,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168338,
+      "num": 1085085,
+      "word": "从五一假期看流动的中国",
+      "onboard_time": 1714965079,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 168106,
@@ -9931,6 +9955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161560,
+      "num": 161560,
+      "word": "庆余年几号播",
+      "onboard_time": 1714965678,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161358,
       "num": 161358,
       "word": "狼队 八强哥",
@@ -10289,6 +10321,14 @@
       "onboard_time": 1714882640,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 155191,
+      "num": 155191,
+      "word": "时代少年团方否认天津演唱会",
+      "onboard_time": 1714966220,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 155190,
@@ -10753,6 +10793,14 @@
       "onboard_time": 1714624818,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148342,
+      "num": 148342,
+      "word": "夫妻驾驶特斯拉坠崖身亡家属发声",
+      "onboard_time": 1714964959,
+      "rank": 41,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 148319,
@@ -11617,14 +11665,6 @@
       "onboard_time": 1714518555,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134442,
-      "num": 134442,
-      "word": "夫妻驾驶特斯拉坠崖身亡家属发声",
-      "onboard_time": 1714964959,
-      "rank": 41,
-      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 134209,
@@ -13435,6 +13475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107790,
+      "num": 145896,
+      "word": "上海等级考历史",
+      "onboard_time": 1714965739,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 107774,
       "num": 107774,
       "word": "AG首个晋级胜者组决赛",
@@ -14057,14 +14105,6 @@
       "onboard_time": 1714482797,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87881,
-      "num": 1085085,
-      "word": "从五一假期看流动的中国",
-      "onboard_time": 1714965079,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 87801,
