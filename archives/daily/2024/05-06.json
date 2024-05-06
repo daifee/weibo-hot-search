@@ -1,6 +1,6 @@
 {
   "startTime": 1714926165838,
-  "endTime": 1714977432873,
+  "endTime": 1714979865225,
   "band_list": [
     {
       "raw_hot": 2835678,
@@ -9,6 +9,22 @@
       "onboard_time": 1714968200,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1753531,
+      "num": 1753531,
+      "word": "6月开始涨价的高铁线涉广州",
+      "onboard_time": 1714975339,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1557128,
+      "num": 315540,
+      "word": "淘宝免单",
+      "onboard_time": 1714977378,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 1554354,
@@ -49,6 +65,14 @@
       "onboard_time": 1714953438,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1239979,
+      "num": 317186,
+      "word": "张煜东求婚张凯毅",
+      "onboard_time": 1714976659,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 1232488,
@@ -315,6 +339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 575433,
+      "num": 400897,
+      "word": "迪丽热巴唇环",
+      "onboard_time": 1714976599,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567647,
       "num": 567647,
       "word": "庆余年第二季预约",
@@ -427,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436288,
+      "num": 436288,
+      "word": "内塔尼亚胡称二战时没有国家援助犹太人",
+      "onboard_time": 1714974318,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 434131,
       "num": 434131,
       "word": "这周日是母亲节",
@@ -441,14 +481,6 @@
       "onboard_time": 1714923740,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 418997,
-      "num": 317186,
-      "word": "张煜东求婚张凯毅",
-      "onboard_time": 1714976659,
-      "rank": 43,
-      "category": "网红"
     },
     {
       "raw_hot": 416540,
@@ -515,14 +547,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 377500,
-      "num": 308150,
-      "word": "内塔尼亚胡称二战时没有国家援助犹太人",
-      "onboard_time": 1714974318,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 375344,
       "num": 375344,
       "word": "上班",
@@ -545,6 +569,14 @@
       "onboard_time": 1714953018,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 364053,
+      "num": 220208,
+      "word": "ILLIT听众超过BLACKPINK",
+      "onboard_time": 1714977499,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 351226,
@@ -619,6 +651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 297929,
+      "num": 297929,
+      "word": "周渝民16年后杀回现偶",
+      "onboard_time": 1714975998,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295565,
       "num": 295565,
       "word": "歌手",
@@ -633,6 +673,14 @@
       "onboard_time": 1714908198,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 293593,
+      "num": 207138,
+      "word": "沈眉庄侍寝多次为何没孩子",
+      "onboard_time": 1714978998,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 286257,
@@ -657,14 +705,6 @@
       "onboard_time": 1714974379,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 280403,
-      "num": 280403,
-      "word": "迪丽热巴唇环",
-      "onboard_time": 1714976599,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 274585,
@@ -697,14 +737,6 @@
       "onboard_time": 1714959499,
       "rank": 26,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 267047,
-      "num": 266033,
-      "word": "周渝民16年后杀回现偶",
-      "onboard_time": 1714975998,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 266450,
@@ -843,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222108,
+      "num": 206158,
+      "word": "死装男鼻祖杀回来了",
+      "onboard_time": 1714979119,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221191,
       "num": 221191,
       "word": "IVE新歌疑似抄袭EXO咆哮",
@@ -931,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208350,
+      "num": 208350,
+      "word": "iPhone在华市场份额跌出前5",
+      "onboard_time": 1714978819,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 208226,
       "num": 208226,
       "word": "伯纳德希尔去世",
@@ -953,6 +1001,14 @@
       "onboard_time": 1714973298,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205532,
+      "num": 205532,
+      "word": "男生五一帮父亲砍了1800斤柴",
+      "onboard_time": 1714976719,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202948,
@@ -1043,14 +1099,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 192488,
-      "num": 192488,
-      "word": "男生五一帮父亲砍了1800斤柴",
-      "onboard_time": 1714976719,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191709,
       "num": 191709,
       "word": "为什么年轻人流行偷偷领证",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1714970603,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190978,
+      "num": 190978,
+      "word": "AITO汽车发布山西问界M7事故说明",
+      "onboard_time": 1714979659,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 190836,
@@ -1099,6 +1155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186874,
+      "num": 186874,
+      "word": "不如让袁咏琳首发",
+      "onboard_time": 1714978579,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186770,
       "num": 186770,
       "word": "花少是一场盛大的be美学",
@@ -1113,6 +1177,14 @@
       "onboard_time": 1714975639,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184074,
+      "num": 184074,
+      "word": "月薪4000小伙三年攒下13万",
+      "onboard_time": 1714979718,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180141,
@@ -1153,6 +1225,14 @@
       "onboard_time": 1714930573,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175197,
+      "num": 175197,
+      "word": "越来越多美国人被小费文化逼疯",
+      "onboard_time": 1714977679,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 174673,
@@ -1291,6 +1371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153449,
+      "num": 153449,
+      "word": "河南一出租车坠河5人落水",
+      "onboard_time": 1714978758,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149152,
       "num": 149152,
       "word": "通过猜口型告诉父亲自己癌症痊愈",
@@ -1328,6 +1416,14 @@
       "word": "梅大高速救人司机拟被认定见义勇为",
       "onboard_time": 1714976778,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147004,
+      "num": 147004,
+      "word": "蓝月亮母亲节广告被指刻板印象",
+      "onboard_time": 1714979119,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1491,14 +1587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 115594,
-      "num": 115594,
-      "word": "淘宝免单",
-      "onboard_time": 1714977378,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 112342,
       "num": 112342,
       "word": "喻言在KTV直播",
@@ -1657,6 +1745,14 @@
       "onboard_time": 1714928535,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 76914,
+      "num": 147881,
+      "word": "灭霸vivoX100Ultra来了",
+      "onboard_time": 1714979540,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 74827,
