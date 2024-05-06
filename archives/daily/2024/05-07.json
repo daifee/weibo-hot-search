@@ -1,6 +1,6 @@
 {
   "startTime": 1715012728684,
-  "endTime": 1715020561551,
+  "endTime": 1715022952913,
   "band_list": [
     {
       "raw_hot": 1178293,
@@ -435,7 +435,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60718,
+      "raw_hot": 61556,
       "num": 72493,
       "word": "上海现付费马桶圈充1000可用13.8万次",
       "onboard_time": 1715001678,
@@ -475,20 +475,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31117,
+      "num": 30205,
+      "word": "纪凌尘回复宋威龙",
+      "onboard_time": 1715019132,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31105,
       "num": 40906,
       "word": "和动画简直一模一样",
       "onboard_time": 1715016732,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 30205,
-      "num": 30205,
-      "word": "纪凌尘回复宋威龙",
-      "onboard_time": 1715019132,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 25773,
@@ -507,11 +507,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 19259,
+      "num": 21138,
+      "word": "TTG晋级败者组第三轮",
+      "onboard_time": 1715007559,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 18048,
       "num": 250690,
       "word": "数据盘点五一假期",
       "onboard_time": 1715000958,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15719,
+      "num": 21059,
+      "word": "男子打球被球友看出面相不对救了一命",
+      "onboard_time": 1715020752,
+      "rank": 48,
       "category": "社会新闻"
     }
   ],

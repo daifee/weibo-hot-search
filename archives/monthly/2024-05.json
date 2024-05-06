@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715020561551,
+  "endTime": 1715022952913,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -16955,6 +16955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31117,
+      "num": 30205,
+      "word": "纪凌尘回复宋威龙",
+      "onboard_time": 1715019132,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31105,
       "num": 40906,
       "word": "和动画简直一模一样",
@@ -16977,14 +16985,6 @@
       "onboard_time": 1714769590,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 30205,
-      "num": 30205,
-      "word": "纪凌尘回复宋威龙",
-      "onboard_time": 1715019132,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 29540,
@@ -17169,6 +17169,14 @@
       "onboard_time": 1714508171,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 15719,
+      "num": 21059,
+      "word": "男子打球被球友看出面相不对救了一命",
+      "onboard_time": 1715020752,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15503,
