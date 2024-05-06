@@ -1,10 +1,10 @@
 {
   "startTime": 1714926165838,
-  "endTime": 1714969351515,
+  "endTime": 1714970139201,
   "band_list": [
     {
-      "raw_hot": 1708764,
-      "num": 1708764,
+      "raw_hot": 2835678,
+      "num": 2835678,
       "word": "歌手 首发阵容",
       "onboard_time": 1714968200,
       "rank": 0,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1061746,
+      "num": 752728,
+      "word": "庆余年2演员变更",
+      "onboard_time": 1714968861,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1056927,
       "num": 1056927,
       "word": "泰男子欲性侵遭反杀家属回应",
@@ -91,8 +99,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 984536,
-      "num": 984536,
+      "raw_hot": 1003253,
+      "num": 1003253,
       "word": "娜子官宣",
       "onboard_time": 1714965138,
       "rank": 31,
@@ -219,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 585945,
-      "num": 585945,
-      "word": "庆余年2演员变更",
-      "onboard_time": 1714968861,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 596021,
+      "num": 310688,
+      "word": "金靖官宣怀孕后首现身机场",
+      "onboard_time": 1714968681,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 567647,
@@ -248,6 +256,14 @@
       "word": "有人弃我如杂草 有人视我如珍宝",
       "onboard_time": 1714942331,
       "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 540971,
+      "num": 540971,
+      "word": "母亲节礼物",
+      "onboard_time": 1714968260,
+      "rank": 16,
       "category": "情感"
     },
     {
@@ -339,19 +355,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 416289,
+      "num": 289758,
+      "word": "爸爸将5个月宝宝举过头顶当伞",
+      "onboard_time": 1714968442,
+      "rank": 32,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 411733,
       "num": 274903,
       "word": "泫雅一个月晕倒12次",
       "onboard_time": 1714914321,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 406336,
-      "num": 310688,
-      "word": "金靖官宣怀孕后首现身机场",
-      "onboard_time": 1714968681,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -427,12 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335770,
-      "num": 335770,
-      "word": "母亲节礼物",
-      "onboard_time": 1714968260,
-      "rank": 16,
-      "category": "情感"
+      "raw_hot": 348488,
+      "num": 348488,
+      "word": "恭候范闲归京",
+      "onboard_time": 1714967601,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 348408,
+      "num": 348408,
+      "word": "香飘飘涨停",
+      "onboard_time": 1714969221,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 334372,
@@ -441,6 +465,14 @@
       "onboard_time": 1714922963,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 326421,
+      "num": 289263,
+      "word": "海来阿木 歌手2024",
+      "onboard_time": 1714969642,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 316149,
@@ -475,14 +507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 308704,
-      "num": 308704,
-      "word": "恭候范闲归京",
-      "onboard_time": 1714967601,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 295565,
       "num": 295565,
       "word": "歌手",
@@ -497,6 +521,14 @@
       "onboard_time": 1714908198,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 286257,
+      "num": 296940,
+      "word": "长期贪嘴你的肝会有何变化",
+      "onboard_time": 1714968080,
+      "rank": 25,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 286233,
@@ -529,14 +561,6 @@
       "onboard_time": 1714907778,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 272505,
-      "num": 272505,
-      "word": "爸爸将5个月宝宝举过头顶当伞",
-      "onboard_time": 1714968442,
-      "rank": 32,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 271706,
@@ -635,28 +659,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 240614,
-      "num": 313644,
-      "word": "香飘飘涨停",
-      "onboard_time": 1714969221,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 239542,
       "num": 239542,
       "word": "眼泪女王未公开kiss场面",
       "onboard_time": 1714918101,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 239125,
-      "num": 296940,
-      "word": "长期贪嘴你的肝会有何变化",
-      "onboard_time": 1714968080,
-      "rank": 25,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 236201,
@@ -689,6 +697,14 @@
       "onboard_time": 1714955720,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227226,
+      "num": 227226,
+      "word": "一觉醒来朋友圈安静了",
+      "onboard_time": 1714969881,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 221191,
@@ -747,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202948,
+      "num": 202948,
+      "word": "庆余年2",
+      "onboard_time": 1714970001,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201763,
       "num": 201763,
       "word": "厦门为求职实习大学生开放两千多张免费床位",
@@ -795,20 +819,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193651,
+      "num": 193651,
+      "word": "开推造型师",
+      "onboard_time": 1714968983,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193434,
       "num": 193434,
       "word": "凤凰传奇演唱会",
       "onboard_time": 1714958777,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 191836,
-      "num": 191836,
-      "word": "开推造型师",
-      "onboard_time": 1714968983,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 191709,
@@ -987,6 +1011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154995,
+      "num": 154995,
+      "word": "明日方舟 伊内丝Mantra",
+      "onboard_time": 1714969162,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148342,
       "num": 148342,
       "word": "夫妻驾驶特斯拉坠崖身亡家属发声",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1714922480,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144601,
+      "num": 780378,
+      "word": "五一假期2575场大型活动顺利举办",
+      "onboard_time": 1714966819,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144093,
@@ -1083,12 +1123,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126306,
-      "num": 780378,
-      "word": "五一假期2575场大型活动顺利举办",
-      "onboard_time": 1714966819,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 125844,
+      "num": 207664,
+      "word": "爱德华兹G1技术犯规被撤销",
+      "onboard_time": 1714970001,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 118330,
@@ -1447,6 +1487,9 @@
     },
     {
       "word": "#习近平在法国媒体发表署名文章#"
+    },
+    {
+      "word": "#中法关系始终走在中国同西方国家关系前列#"
     }
   ]
 }
