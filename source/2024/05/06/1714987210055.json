@@ -1,0 +1,410 @@
+{
+  "runTime": 1714987210055,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1627486,
+        "num": 1627486,
+        "word": "女子为被性侵的母亲奔波后丢了工作",
+        "onboard_time": 1714980078,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1478042,
+        "num": 1478042,
+        "word": "高校发讣告悼念梅大高速遇难学子",
+        "onboard_time": 1714984339,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92938,
+        "num": 821758,
+        "word": "从五一假期看流动的中国",
+        "onboard_time": 1714965079,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 594269,
+        "num": 594269,
+        "word": "一觉醒来朋友圈安静了",
+        "onboard_time": 1714969881,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 557537,
+        "num": 557537,
+        "word": "歌手合伙人 李晋晔",
+        "onboard_time": 1714981040,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509063,
+        "num": 509063,
+        "word": "关雪 晴川",
+        "onboard_time": 1714985839,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 475870,
+        "num": 475870,
+        "word": "歌手 首发阵容",
+        "onboard_time": 1714968200,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465152,
+        "num": 465152,
+        "word": "庆余年3在写了",
+        "onboard_time": 1714983259,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364012,
+        "num": 364012,
+        "word": "梁靖崑2比3阿拉米扬",
+        "onboard_time": 1714984760,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173646,
+        "num": 360428,
+        "word": "小鸟努力把自己美成了花鸟图",
+        "onboard_time": 1714980258,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 923300,
+        "num": 359201,
+        "word": "淘宝免单",
+        "onboard_time": 1714977378,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 880275,
+        "num": 355198,
+        "word": "小伙恋爱1年转账60万女友竟是好兄弟",
+        "onboard_time": 1714982178,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451651,
+        "num": 352357,
+        "word": "张煜东求婚张凯毅",
+        "onboard_time": 1714976659,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115073,
+        "num": 344782,
+        "word": "香飘飘总裁说国货要对国人好",
+        "onboard_time": 1714986138,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 344607,
+        "num": 344607,
+        "word": "迪丽热巴唇环",
+        "onboard_time": 1714976599,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306189,
+        "num": 306189,
+        "word": "白日提灯",
+        "onboard_time": 1714979957,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297556,
+        "num": 297556,
+        "word": "句句不提爱字字都是爱",
+        "onboard_time": 1714984818,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295616,
+        "num": 295616,
+        "word": "赛力斯报案",
+        "onboard_time": 1714984458,
+        "rank": 17,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 294629,
+        "num": 294629,
+        "word": "观众假唱 好小众的文字",
+        "onboard_time": 1714972699,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 285460,
+        "num": 285460,
+        "word": "对秦皇岛游船侧翻12死事故挂牌督办",
+        "onboard_time": 1714983379,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603758,
+        "num": 285270,
+        "word": "月薪4000小伙三年攒下13万",
+        "onboard_time": 1714979718,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442082,
+        "num": 285212,
+        "word": "感觉长辈被时代红利保护得太好了",
+        "onboard_time": 1714980979,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426352,
+        "num": 284979,
+        "word": "庆余年2演员变更",
+        "onboard_time": 1714968861,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292162,
+        "num": 284820,
+        "word": "爸爸辅导作业崩溃用石榴砸破孩子脾脏",
+        "onboard_time": 1714985657,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284665,
+        "num": 284665,
+        "word": "我爸每个月给我四千五的相亲费",
+        "onboard_time": 1714984219,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274142,
+        "num": 274142,
+        "word": "陈楚生官宣新综艺",
+        "onboard_time": 1714984640,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268196,
+        "num": 268196,
+        "word": "庆余年2拍了范闲林婉儿大婚",
+        "onboard_time": 1714986379,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257752,
+        "num": 257752,
+        "word": "哑舍",
+        "onboard_time": 1714986020,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234554,
+        "num": 234554,
+        "word": "问界回应M7事故四大疑问",
+        "onboard_time": 1714980440,
+        "rank": 28,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 224127,
+        "num": 224127,
+        "word": "长期喝白开水和长期喝茶的人身体有什么变化",
+        "onboard_time": 1714963099,
+        "rank": 29,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 214033,
+        "num": 214033,
+        "word": "BLACKPINK合约到期后首次回归",
+        "onboard_time": 1714975099,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 67060,
+        "num": 205443,
+        "word": "中国车手马青骅世界赛强势夺冠",
+        "onboard_time": 1714983259,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200344,
+        "num": 200344,
+        "word": "林俊杰唱了一千年后记得我",
+        "onboard_time": 1714985959,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194359,
+        "num": 194359,
+        "word": "才知道冷冻番茄能让鲜味倍增",
+        "onboard_time": 1714984518,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 187234,
+        "num": 187234,
+        "word": "歌手2024",
+        "onboard_time": 1714986198,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174143,
+        "num": 174143,
+        "word": "没错是在等下班的我了",
+        "onboard_time": 1714982899,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171252,
+        "num": 171252,
+        "word": "叫花鸡没有鸡涉事店铺已关门",
+        "onboard_time": 1714986438,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164889,
+        "num": 164889,
+        "word": "郭晋安好多牙",
+        "onboard_time": 1714986499,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154257,
+        "num": 154257,
+        "word": "澳洲玫瑰变二手玫瑰",
+        "onboard_time": 1714971141,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152536,
+        "num": 152536,
+        "word": "五一票房冠军",
+        "onboard_time": 1714966578,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150585,
+        "num": 150585,
+        "word": "宋雨琦文俊辉Challenge",
+        "onboard_time": 1714984999,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147960,
+        "num": 147960,
+        "word": "20分钟的面试把我剖干净了",
+        "onboard_time": 1714986859,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146758,
+        "num": 146758,
+        "word": "中法欧领导人三方会晤举行",
+        "onboard_time": 1714986920,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143730,
+        "num": 143730,
+        "word": "WTT",
+        "onboard_time": 1714985599,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143714,
+        "num": 143714,
+        "word": "大学生上课坐前排就像追韩娱",
+        "onboard_time": 1714986859,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139714,
+        "num": 139714,
+        "word": "严浩翔ScaryMovie练习室版",
+        "onboard_time": 1714986079,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139616,
+        "num": 139616,
+        "word": "AITO汽车发布山西问界M7事故说明",
+        "onboard_time": 1714979659,
+        "rank": 46,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 139545,
+        "num": 139545,
+        "word": "捡到了迪丽热巴的假发",
+        "onboard_time": 1714987039,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136948,
+        "num": 136948,
+        "word": "庆余年",
+        "onboard_time": 1714984939,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134014,
+        "num": 134014,
+        "word": "李沁林婉儿已至",
+        "onboard_time": 1714982718,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的欧洲之行#"
+    }
+  }
+}

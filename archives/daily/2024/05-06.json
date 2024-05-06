@@ -1,6 +1,6 @@
 {
   "startTime": 1714926165838,
-  "endTime": 1714984554303,
+  "endTime": 1714987210055,
   "band_list": [
     {
       "raw_hot": 2835678,
@@ -49,6 +49,14 @@
       "onboard_time": 1714963099,
       "rank": 20,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 1478042,
+      "num": 1478042,
+      "word": "高校发讣告悼念梅大高速遇难学子",
+      "onboard_time": 1714984339,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1446993,
@@ -188,10 +196,18 @@
     },
     {
       "raw_hot": 881165,
-      "num": 281058,
+      "num": 285270,
       "word": "月薪4000小伙三年攒下13万",
       "onboard_time": 1714979718,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 880275,
+      "num": 401633,
+      "word": "小伙恋爱1年转账60万女友竟是好兄弟",
+      "onboard_time": 1714982178,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -339,14 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 630584,
-      "num": 401633,
-      "word": "小伙恋爱1年转账60万女友竟是好兄弟",
-      "onboard_time": 1714982178,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 629736,
       "num": 629736,
       "word": "官方通报重庆一医院被举报冒名产子",
@@ -459,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 509063,
+      "num": 509063,
+      "word": "关雪 晴川",
+      "onboard_time": 1714985839,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 500145,
       "num": 500145,
       "word": "美国暂停向以色列运送美制弹药",
@@ -499,8 +515,8 @@
       "category": "汽车,社会新闻"
     },
     {
-      "raw_hot": 461243,
-      "num": 461243,
+      "raw_hot": 465152,
+      "num": 465152,
       "word": "庆余年3在写了",
       "onboard_time": 1714983259,
       "rank": 18,
@@ -516,7 +532,7 @@
     },
     {
       "raw_hot": 454487,
-      "num": 242440,
+      "num": 285212,
       "word": "感觉长辈被时代红利保护得太好了",
       "onboard_time": 1714980979,
       "rank": 21,
@@ -667,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364012,
+      "num": 364012,
+      "word": "梁靖崑2比3阿拉米扬",
+      "onboard_time": 1714984760,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351226,
       "num": 351226,
       "word": "官方通报叫花鸡里没有鸡",
@@ -763,6 +787,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297556,
+      "num": 297556,
+      "word": "句句不提爱字字都是爱",
+      "onboard_time": 1714984818,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 295616,
+      "num": 295616,
+      "word": "赛力斯报案",
+      "onboard_time": 1714984458,
+      "rank": 47,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 295565,
       "num": 295565,
       "word": "歌手",
@@ -777,6 +817,14 @@
       "onboard_time": 1714908198,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 292162,
+      "num": 284820,
+      "word": "爸爸辅导作业崩溃用石榴砸破孩子脾脏",
+      "onboard_time": 1714985657,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286257,
@@ -795,6 +843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 284665,
+      "num": 284665,
+      "word": "我爸每个月给我四千五的相亲费",
+      "onboard_time": 1714984219,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281342,
       "num": 281342,
       "word": "淘宝免单bug",
@@ -809,6 +865,14 @@
       "onboard_time": 1714967540,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274142,
+      "num": 274142,
+      "word": "陈楚生官宣新综艺",
+      "onboard_time": 1714984640,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 273224,
@@ -835,6 +899,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 268196,
+      "num": 268196,
+      "word": "庆余年2拍了范闲林婉儿大婚",
+      "onboard_time": 1714986379,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266450,
       "num": 304185,
       "word": "白桃星座",
@@ -857,6 +929,14 @@
       "onboard_time": 1714955359,
       "rank": 25,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 257752,
+      "num": 257752,
+      "word": "哑舍",
+      "onboard_time": 1714986020,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 256492,
@@ -921,14 +1001,6 @@
       "onboard_time": 1714979119,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245870,
-      "num": 174599,
-      "word": "我爸每个月给我四千五的相亲费",
-      "onboard_time": 1714984219,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 245697,
@@ -1139,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200344,
+      "num": 200344,
+      "word": "林俊杰唱了一千年后记得我",
+      "onboard_time": 1714985959,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199724,
       "num": 199724,
       "word": "明日方舟 光一直与你同在",
@@ -1185,6 +1265,14 @@
       "onboard_time": 1714966220,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194359,
+      "num": 194359,
+      "word": "才知道冷冻番茄能让鲜味倍增",
+      "onboard_time": 1714984518,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 194243,
@@ -1275,6 +1363,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 187234,
+      "num": 187234,
+      "word": "歌手2024",
+      "onboard_time": 1714986198,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187092,
       "num": 185846,
       "word": "时代少年团 天津",
@@ -1321,14 +1417,6 @@
       "onboard_time": 1714925178,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 178420,
-      "num": 178420,
-      "word": "高校发讣告悼念梅大高速遇难学子",
-      "onboard_time": 1714984339,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177515,
@@ -1395,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171252,
+      "num": 171252,
+      "word": "叫花鸡没有鸡涉事店铺已关门",
+      "onboard_time": 1714986438,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169989,
       "num": 169989,
       "word": "WTT沙特大满贯",
@@ -1449,6 +1545,14 @@
       "onboard_time": 1714983858,
       "rank": 35,
       "category": "社会新闻,汽车"
+    },
+    {
+      "raw_hot": 164889,
+      "num": 164889,
+      "word": "郭晋安好多牙",
+      "onboard_time": 1714986499,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 163463,
@@ -1539,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150585,
+      "num": 150585,
+      "word": "宋雨琦文俊辉Challenge",
+      "onboard_time": 1714984999,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 149152,
       "num": 149152,
       "word": "通过猜口型告诉父亲自己癌症痊愈",
@@ -1553,6 +1665,14 @@
       "onboard_time": 1714964959,
       "rank": 41,
       "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 147960,
+      "num": 147960,
+      "word": "20分钟的面试把我剖干净了",
+      "onboard_time": 1714986859,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 147718,
@@ -1587,6 +1707,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 146758,
+      "num": 146758,
+      "word": "中法欧领导人三方会晤举行",
+      "onboard_time": 1714986920,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 145027,
       "num": 145027,
       "word": "曾毅 老来俏",
@@ -1611,6 +1739,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143730,
+      "num": 143730,
+      "word": "WTT",
+      "onboard_time": 1714985599,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143714,
+      "num": 143714,
+      "word": "大学生上课坐前排就像追韩娱",
+      "onboard_time": 1714986859,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140188,
       "num": 132807,
       "word": "张杰杭州",
@@ -1627,6 +1771,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139714,
+      "num": 139714,
+      "word": "严浩翔ScaryMovie练习室版",
+      "onboard_time": 1714986079,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 139545,
+      "num": 139545,
+      "word": "捡到了迪丽热巴的假发",
+      "onboard_time": 1714987039,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139121,
       "num": 139121,
       "word": "凤凰传奇演唱会 嗓子哑了",
@@ -1641,6 +1801,14 @@
       "onboard_time": 1714959798,
       "rank": 43,
       "category": "旅游,财经"
+    },
+    {
+      "raw_hot": 136948,
+      "num": 136948,
+      "word": "庆余年",
+      "onboard_time": 1714984939,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 135364,
@@ -1723,14 +1891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118621,
-      "num": 118621,
-      "word": "赛力斯报案",
-      "onboard_time": 1714984458,
-      "rank": 47,
-      "category": "社会新闻,汽车"
-    },
-    {
       "raw_hot": 118330,
       "num": 118330,
       "word": "金智媛婚纱剧照",
@@ -1779,6 +1939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115073,
+      "num": 344782,
+      "word": "香飘飘总裁说国货要对国人好",
+      "onboard_time": 1714986138,
+      "rank": 13,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 112342,
       "num": 112342,
       "word": "喻言在KTV直播",
@@ -1793,14 +1961,6 @@
       "onboard_time": 1714954162,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 111086,
-      "num": 111086,
-      "word": "才知道冷冻番茄能让鲜味倍增",
-      "onboard_time": 1714984518,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 110203,
@@ -1971,6 +2131,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 67060,
+      "num": 205443,
+      "word": "中国车手马青骅世界赛强势夺冠",
+      "onboard_time": 1714983259,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66247,
       "num": 66247,
       "word": "黄景瑜被青梅精咬了",
@@ -2001,14 +2169,6 @@
       "onboard_time": 1714915099,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 52158,
-      "num": 170590,
-      "word": "中国车手马青骅世界赛强势夺冠",
-      "onboard_time": 1714983259,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 50088,
@@ -2138,6 +2298,9 @@
     },
     {
       "word": "#中法关系始终走在中国同西方国家关系前列#"
+    },
+    {
+      "word": "#习主席的欧洲之行#"
     }
   ]
 }
