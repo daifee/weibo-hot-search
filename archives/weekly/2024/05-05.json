@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715008753036,
+  "endTime": 1715009671011,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -105,6 +105,14 @@
       "onboard_time": 1714984339,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1555692,
+      "num": 258137,
+      "word": "经常口臭的人一般都逃不过这几个原因",
+      "onboard_time": 1715007080,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1554354,
@@ -257,14 +265,6 @@
       "onboard_time": 1714871057,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1253807,
-      "num": 258137,
-      "word": "经常口臭的人一般都逃不过这几个原因",
-      "onboard_time": 1715007080,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1239675,
@@ -443,6 +443,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 976627,
+      "num": 255815,
+      "word": "取消公办中小学教师编制可不可行",
+      "onboard_time": 1715007201,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 932334,
       "num": 932334,
       "word": "莫里斯遗体在洛杉矶地区被发现",
@@ -483,6 +491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 893040,
+      "num": 257247,
+      "word": "缅甸",
+      "onboard_time": 1715006420,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 889938,
       "num": 372477,
       "word": "存款十几万在小县城什么水平",
@@ -505,6 +521,14 @@
       "onboard_time": 1714979718,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 880692,
+      "num": 880692,
+      "word": "抑郁女儿叫朋友来家里吃饭了",
+      "onboard_time": 1715005941,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 880275,
@@ -571,28 +595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 846635,
-      "num": 257247,
-      "word": "缅甸",
-      "onboard_time": 1715006420,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 843998,
       "num": 843998,
       "word": "香飘飘 我们的员工是好样的",
       "onboard_time": 1714866495,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 836460,
-      "num": 836460,
-      "word": "抑郁女儿叫朋友来家里吃饭了",
-      "onboard_time": 1715005941,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 831679,
@@ -729,14 +737,6 @@
       "onboard_time": 1714965379,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 750375,
-      "num": 255815,
-      "word": "取消公办中小学教师编制可不可行",
-      "onboard_time": 1715007201,
-      "rank": 22,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 743108,
@@ -939,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 616221,
+      "num": 616221,
+      "word": "男子确诊胃癌提前一年为自己安排身后事",
+      "onboard_time": 1715007320,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 613898,
       "num": 613898,
       "word": "林高远vs格罗特",
@@ -1065,14 +1073,6 @@
       "onboard_time": 1714919301,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 554208,
-      "num": 554208,
-      "word": "男子确诊胃癌提前一年为自己安排身后事",
-      "onboard_time": 1715007320,
-      "rank": 5,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 551672,
@@ -1739,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394369,
+      "num": 358398,
+      "word": "邓超你关注下陶白白吧",
+      "onboard_time": 1715003960,
+      "rank": 21,
+      "category": "艺人,情感"
+    },
+    {
       "raw_hot": 392982,
       "num": 392982,
       "word": "吃火锅意外吃出甄嬛传片头",
@@ -1929,14 +1937,6 @@
       "onboard_time": 1714840816,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 358398,
-      "num": 358398,
-      "word": "邓超你关注下陶白白吧",
-      "onboard_time": 1715003960,
-      "rank": 21,
-      "category": "艺人,情感"
     },
     {
       "raw_hot": 357299,
@@ -2321,6 +2321,14 @@
       "onboard_time": 1714915099,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283726,
+      "num": 283726,
+      "word": "徐园男友有3次暴力前科",
+      "onboard_time": 1715007981,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282138,
@@ -2723,14 +2731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 234649,
-      "num": 234649,
-      "word": "徐园男友有3次暴力前科",
-      "onboard_time": 1715007981,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234457,
       "num": 234457,
       "word": "广东男篮2比1辽宁男篮",
@@ -2769,6 +2769,14 @@
       "onboard_time": 1714872739,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232676,
+      "num": 232676,
+      "word": "发型选对颜值翻倍",
+      "onboard_time": 1715008100,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 232525,
@@ -3107,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209521,
+      "num": 209521,
+      "word": "黄金狂飙后钻石崩了",
+      "onboard_time": 1715004139,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 208919,
       "num": 208919,
       "word": "背着善宰跑 接吻的人会结婚",
@@ -3179,20 +3195,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 205857,
-      "num": 205857,
-      "word": "黄金狂飙后钻石崩了",
-      "onboard_time": 1715004139,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 205532,
       "num": 205532,
       "word": "男生五一帮父亲砍了1800斤柴",
       "onboard_time": 1714976719,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204391,
+      "num": 204391,
+      "word": "朱丹说周一围的颜值是意外之喜",
+      "onboard_time": 1715006541,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 203905,
@@ -3235,14 +3251,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 202190,
-      "num": 202190,
-      "word": "发型选对颜值翻倍",
-      "onboard_time": 1715008100,
-      "rank": 33,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 201763,
       "num": 201763,
       "word": "厦门为求职实习大学生开放两千多张免费床位",
@@ -3265,6 +3273,14 @@
       "onboard_time": 1715007801,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201170,
+      "num": 201170,
+      "word": "句句说分开 句句都是爱",
+      "onboard_time": 1715009059,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 201153,
@@ -3563,6 +3579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192971,
+      "num": 192971,
+      "word": "杨紫或客串赴山海",
+      "onboard_time": 1715009299,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192706,
       "num": 192706,
       "word": "王栎鑫问俞灏明腿有多长",
@@ -3609,6 +3633,14 @@
       "onboard_time": 1714830980,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 191223,
+      "num": 191223,
+      "word": "张翰一次开朗换来终生内向",
+      "onboard_time": 1715009239,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 191030,
@@ -4091,14 +4123,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 173676,
-      "num": 173676,
-      "word": "朱丹说周一围的颜值是意外之喜",
-      "onboard_time": 1715006541,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173611,
       "num": 173611,
       "word": "性格内向是职场的隐形天花板吗",
@@ -4313,6 +4337,14 @@
       "onboard_time": 1714821138,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166097,
+      "num": 166097,
+      "word": "背着善宰跑第九集",
+      "onboard_time": 1715008640,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 165020,
@@ -4643,6 +4675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154071,
+      "num": 154071,
+      "word": "南部战区海军海空立体联合搜救演练",
+      "onboard_time": 1715009420,
+      "rank": 42,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 153888,
       "num": 153888,
       "word": "赵继伟7分",
@@ -4881,14 +4921,6 @@
       "onboard_time": 1714867815,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 143171,
-      "num": 143171,
-      "word": "背着善宰跑第九集",
-      "onboard_time": 1715008640,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 142764,

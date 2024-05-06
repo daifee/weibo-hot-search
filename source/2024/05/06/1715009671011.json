@@ -1,0 +1,410 @@
+{
+  "runTime": 1715009671011,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 880692,
+        "num": 880692,
+        "word": "抑郁女儿叫朋友来家里吃饭了",
+        "onboard_time": 1715005941,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1104825,
+        "num": 767655,
+        "word": "考上研究生是对混子的最大惩罚",
+        "onboard_time": 1715003719,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191718,
+        "num": 654528,
+        "word": "五一假期文旅消费成绩单",
+        "onboard_time": 1715001138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1452991,
+        "num": 653014,
+        "word": "人民文娱评华晨宇日出演唱会",
+        "onboard_time": 1714999998,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 616221,
+        "num": 616221,
+        "word": "男子确诊胃癌提前一年为自己安排身后事",
+        "onboard_time": 1715007320,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 370261,
+        "num": 370261,
+        "word": "腰臀比小的人更长寿",
+        "onboard_time": 1715002518,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 335782,
+        "num": 335782,
+        "word": "WB 折磨",
+        "onboard_time": 1715001800,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 315887,
+        "num": 315887,
+        "word": "杨鸣贴脸暴怒",
+        "onboard_time": 1715003479,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283726,
+        "num": 283726,
+        "word": "徐园男友有3次暴力前科",
+        "onboard_time": 1715007981,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261013,
+        "num": 261013,
+        "word": "李晓旭受伤",
+        "onboard_time": 1715003539,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507217,
+        "num": 259778,
+        "word": "张杰谢娜拍立得",
+        "onboard_time": 1715003120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 768901,
+        "num": 258162,
+        "word": "徐园男友称其系自杀",
+        "onboard_time": 1714997538,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433948,
+        "num": 255926,
+        "word": "杨幂曾问邓超亚比是什么",
+        "onboard_time": 1715005520,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394369,
+        "num": 254484,
+        "word": "邓超你关注下陶白白吧",
+        "onboard_time": 1715003960,
+        "rank": 13,
+        "category": "艺人,情感"
+      },
+      {
+        "raw_hot": 394022,
+        "num": 253639,
+        "word": "淘宝免单",
+        "onboard_time": 1714977378,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 380205,
+        "num": 252116,
+        "word": "女子为被性侵的母亲奔波后丢了工作",
+        "onboard_time": 1714980078,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269990,
+        "num": 248884,
+        "word": "爸爸辅导作业崩溃用石榴砸破孩子脾脏",
+        "onboard_time": 1714985657,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267193,
+        "num": 248279,
+        "word": "吴磊 你好不好",
+        "onboard_time": 1714999759,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246842,
+        "num": 246842,
+        "word": "他新婚盛装她真刀真枪",
+        "onboard_time": 1715002098,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245819,
+        "num": 245819,
+        "word": "原来高铁上是有15元的盒饭的",
+        "onboard_time": 1714991058,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1555692,
+        "num": 243465,
+        "word": "经常口臭的人一般都逃不过这几个原因",
+        "onboard_time": 1715007080,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 976627,
+        "num": 243021,
+        "word": "取消公办中小学教师编制可不可行",
+        "onboard_time": 1715007201,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 893040,
+        "num": 239748,
+        "word": "缅甸",
+        "onboard_time": 1715006420,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349097,
+        "num": 237244,
+        "word": "存款十几万在小县城什么水平",
+        "onboard_time": 1714991359,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265343,
+        "num": 233837,
+        "word": "有一种惨叫广东荔枝不挂果",
+        "onboard_time": 1715007080,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 232676,
+        "num": 232676,
+        "word": "发型选对颜值翻倍",
+        "onboard_time": 1715008100,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 224277,
+        "num": 224277,
+        "word": "内娱直播考研上岸第一人",
+        "onboard_time": 1714991359,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209521,
+        "num": 209521,
+        "word": "黄金狂飙后钻石崩了",
+        "onboard_time": 1715004139,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 207048,
+        "num": 207048,
+        "word": "广州暴雨",
+        "onboard_time": 1714999398,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197996,
+        "num": 205192,
+        "word": "92名在缅北跨境电诈嫌犯被移交我方",
+        "onboard_time": 1715000358,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204391,
+        "num": 204391,
+        "word": "朱丹说周一围的颜值是意外之喜",
+        "onboard_time": 1715006541,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202413,
+        "num": 202413,
+        "word": "想念郭艾伦",
+        "onboard_time": 1715004982,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201170,
+        "num": 201170,
+        "word": "句句说分开 句句都是爱",
+        "onboard_time": 1715009059,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192971,
+        "num": 192971,
+        "word": "杨紫或客串赴山海",
+        "onboard_time": 1715009299,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191223,
+        "num": 191223,
+        "word": "张翰一次开朗换来终生内向",
+        "onboard_time": 1715009239,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184964,
+        "num": 184964,
+        "word": "张杰谢娜认识18年了",
+        "onboard_time": 1715007260,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174609,
+        "num": 174609,
+        "word": "郭艾伦说很想和大家一起上",
+        "onboard_time": 1715007801,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173681,
+        "num": 173681,
+        "word": "邓超不进组的原因",
+        "onboard_time": 1714999878,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501331,
+        "num": 173425,
+        "word": "日本商店否认出售香飘飘讽日杯套奶茶",
+        "onboard_time": 1715002879,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171008,
+        "num": 171008,
+        "word": "黄景瑜把黄明昊弄懵了",
+        "onboard_time": 1715008520,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166097,
+        "num": 166097,
+        "word": "背着善宰跑第九集",
+        "onboard_time": 1715008640,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154231,
+        "num": 154231,
+        "word": "刘亦菲海南plog",
+        "onboard_time": 1715001138,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154071,
+        "num": 154071,
+        "word": "南部战区海军海空立体联合搜救演练",
+        "onboard_time": 1715009420,
+        "rank": 42,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 151701,
+        "num": 151701,
+        "word": "赴山海",
+        "onboard_time": 1715005941,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146560,
+        "num": 146560,
+        "word": "赵继伟7分",
+        "onboard_time": 1715008403,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142844,
+        "num": 142844,
+        "word": "原来这些行为是良性自虐",
+        "onboard_time": 1715007201,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142251,
+        "num": 142251,
+        "word": "张杰卡点2134",
+        "onboard_time": 1715006900,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140751,
+        "num": 140751,
+        "word": "杜锋说羡慕杨鸣",
+        "onboard_time": 1715008460,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135908,
+        "num": 135908,
+        "word": "潘玮柏胖了",
+        "onboard_time": 1715003900,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129856,
+        "num": 129856,
+        "word": "TTG晋级败者组第三轮",
+        "onboard_time": 1715007559,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法欧领导人三方会晤举行#"
+    }
+  }
+}
