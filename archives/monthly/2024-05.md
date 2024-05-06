@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/01 00:23:04 ~ 2024/05/07 00:39:19
+本榜单时间：2024/05/01 00:23:04 ~ 2024/05/07 01:18:03
 </p>
 </blockquote>
 <p>
@@ -1773,6 +1773,12 @@ Angelababy为冯德伦打call（热度：682788）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%8F%82%E4%B8%8E%E4%B8%BE%E5%8A%9E%E7%94%B5%E9%9F%B3%E8%8A%82%E8%A2%AB%E6%8C%87%E5%AE%B0%E5%AE%A2%23" target="weibo">
+三只羊参与举办电音节被指宰客（热度：648741）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%94%B1%E5%88%B0%E6%97%A5%E5%87%BA%23" target="weibo">
 华晨宇演唱会唱到日出（热度：647158）
 </a>
@@ -2573,12 +2579,6 @@ TXT演唱会（热度：493916）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%BE%99%E5%9B%9E%E5%BA%94%E6%BB%A1%E5%A4%B4%E7%99%BD%E5%8F%91%23" target="weibo">
 成龙回应满头白发（热度：485059）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%8F%82%E4%B8%8E%E4%B8%BE%E5%8A%9E%E7%94%B5%E9%9F%B3%E8%8A%82%E8%A2%AB%E6%8C%87%E5%AE%B0%E5%AE%A2%23" target="weibo">
-三只羊参与举办电音节被指宰客（热度：483866）
 </a>
 </li>
 

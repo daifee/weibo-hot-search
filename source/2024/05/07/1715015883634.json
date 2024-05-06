@@ -1,0 +1,410 @@
+{
+  "runTime": 1715015883634,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 648741,
+        "num": 648741,
+        "word": "三只羊参与举办电音节被指宰客",
+        "onboard_time": 1715011696,
+        "rank": 0,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 255120,
+        "num": 255120,
+        "word": "抑郁女儿叫朋友来家里吃饭了",
+        "onboard_time": 1715005941,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13264,
+        "num": 250690,
+        "word": "数据盘点五一假期",
+        "onboard_time": 1715000958,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374506,
+        "num": 249300,
+        "word": "人民文娱评华晨宇日出演唱会",
+        "onboard_time": 1714999998,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 246622,
+        "num": 246622,
+        "word": "男子确诊胃癌提前一年为自己安排身后事",
+        "onboard_time": 1715007320,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162291,
+        "num": 162291,
+        "word": "陈梦压力",
+        "onboard_time": 1714999278,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247754,
+        "num": 162078,
+        "word": "张翰一次开朗换来终生内向",
+        "onboard_time": 1715009239,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211706,
+        "num": 161973,
+        "word": "句句说分开 句句都是爱",
+        "onboard_time": 1715009059,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125558,
+        "num": 161513,
+        "word": "92名在缅北跨境电诈嫌犯被移交我方",
+        "onboard_time": 1715000358,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161104,
+        "num": 161104,
+        "word": "腰臀比小的人更长寿",
+        "onboard_time": 1715002518,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 251045,
+        "num": 160019,
+        "word": "邓超你关注下陶白白吧",
+        "onboard_time": 1715003960,
+        "rank": 10,
+        "category": "艺人,情感"
+      },
+      {
+        "raw_hot": 189915,
+        "num": 159972,
+        "word": "女子为被性侵的母亲奔波后丢了工作",
+        "onboard_time": 1714980078,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169454,
+        "num": 159589,
+        "word": "张若昀切范闲大号上线了",
+        "onboard_time": 1715009779,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158599,
+        "num": 158599,
+        "word": "杨幂曾问邓超亚比是什么",
+        "onboard_time": 1715005520,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142687,
+        "num": 142687,
+        "word": "淘宝免单",
+        "onboard_time": 1714977378,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141917,
+        "num": 141917,
+        "word": "原来高铁上是有15元的盒饭的",
+        "onboard_time": 1714991058,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134684,
+        "num": 134684,
+        "word": "张杰谢娜拍立得",
+        "onboard_time": 1715003120,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93664,
+        "num": 134678,
+        "word": "爸爸辅导作业崩溃用石榴砸破孩子脾脏",
+        "onboard_time": 1714985657,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74201,
+        "num": 128368,
+        "word": "胡明轩巨星球",
+        "onboard_time": 1715011336,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71695,
+        "num": 126727,
+        "word": "想念郭艾伦",
+        "onboard_time": 1715004982,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 601066,
+        "num": 122742,
+        "word": "经常口臭的人一般都逃不过这几个原因",
+        "onboard_time": 1715007080,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 518403,
+        "num": 118080,
+        "word": "取消公办中小学教师编制可不可行",
+        "onboard_time": 1715007201,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 245792,
+        "num": 113486,
+        "word": "徐园男友称其系自杀",
+        "onboard_time": 1714997538,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177338,
+        "num": 111016,
+        "word": "缅甸",
+        "onboard_time": 1715006420,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109903,
+        "num": 109903,
+        "word": "无名痒是身体发出的信号",
+        "onboard_time": 1715014154,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109777,
+        "num": 109777,
+        "word": "内娱直播考研上岸第一人",
+        "onboard_time": 1714991359,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82834,
+        "num": 82834,
+        "word": "吴磊 你好不好",
+        "onboard_time": 1714999759,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82658,
+        "num": 82658,
+        "word": "发型选对颜值翻倍",
+        "onboard_time": 1715008100,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 80941,
+        "num": 80941,
+        "word": "徐园男友有3次暴力前科",
+        "onboard_time": 1715007981,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75086,
+        "num": 75086,
+        "word": "有一种惨叫广东荔枝不挂果",
+        "onboard_time": 1715007080,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145221,
+        "num": 74909,
+        "word": "原来减肥更重要的是塑型",
+        "onboard_time": 1715013615,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 74374,
+        "num": 74374,
+        "word": "豪宅小区被外卖员吐槽赔钱也不送",
+        "onboard_time": 1715014995,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66901,
+        "num": 66901,
+        "word": "邓紫棋上海五天连开将破纪录",
+        "onboard_time": 1715010139,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 66209,
+        "num": 66209,
+        "word": "他新婚盛装她真刀真枪",
+        "onboard_time": 1715002098,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65784,
+        "num": 65784,
+        "word": "刘亦菲海南plog",
+        "onboard_time": 1715001138,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63263,
+        "num": 63263,
+        "word": "WB 折磨",
+        "onboard_time": 1715001800,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62267,
+        "num": 62267,
+        "word": "存款十几万在小县城什么水平",
+        "onboard_time": 1714991359,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62234,
+        "num": 62234,
+        "word": "广州暴雨",
+        "onboard_time": 1714999398,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60501,
+        "num": 60501,
+        "word": "五一假期文旅消费成绩单",
+        "onboard_time": 1715001138,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59976,
+        "num": 59976,
+        "word": "杨鸣贴脸暴怒",
+        "onboard_time": 1715003479,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58235,
+        "num": 58235,
+        "word": "上海现付费马桶圈充1000可用13.8万次",
+        "onboard_time": 1715001678,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56918,
+        "num": 56918,
+        "word": "原来这些行为是良性自虐",
+        "onboard_time": 1715007201,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55685,
+        "num": 55685,
+        "word": "Jennie和zicoMV花絮",
+        "onboard_time": 1715014275,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53439,
+        "num": 53439,
+        "word": "黄金狂飙后钻石崩了",
+        "onboard_time": 1715004139,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 45844,
+        "num": 53430,
+        "word": "朱丹说周一围的颜值是意外之喜",
+        "onboard_time": 1715006541,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45371,
+        "num": 53412,
+        "word": "南部战区海军海空立体联合搜救演练",
+        "onboard_time": 1715009420,
+        "rank": 45,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 40333,
+        "num": 53397,
+        "word": "想和吴磊谈",
+        "onboard_time": 1715015775,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39078,
+        "num": 53383,
+        "word": "张杰谢娜认识18年了",
+        "onboard_time": 1715007260,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37955,
+        "num": 53373,
+        "word": "背着善宰跑第九集",
+        "onboard_time": 1715008640,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37560,
+        "num": 53354,
+        "word": "郭艾伦说很想和大家一起上",
+        "onboard_time": 1715007801,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席欧洲之行#"
+    }
+  }
+}
