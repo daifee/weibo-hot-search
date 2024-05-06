@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715002531723,
+  "endTime": 1715005109048,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -179,6 +179,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 2303240,
+      "num": 642184,
+      "word": "人民文娱评华晨宇日出演唱会",
+      "onboard_time": 1714999998,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2215749,
       "num": 1326294,
       "word": "妹妹曝胖猫曾说他的老婆不需要上班",
@@ -233,14 +241,6 @@
       "onboard_time": 1714739361,
       "rank": 43,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 1880782,
-      "num": 642184,
-      "word": "人民文娱评华晨宇日出演唱会",
-      "onboard_time": 1714999998,
-      "rank": 4,
-      "category": "演出"
     },
     {
       "raw_hot": 1867017,
@@ -609,6 +609,14 @@
       "onboard_time": 1714953438,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1320901,
+      "num": 428088,
+      "word": "张杰谢娜拍立得",
+      "onboard_time": 1715003120,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1295011,
@@ -1057,6 +1065,14 @@
       "onboard_time": 1714908198,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1042097,
+      "num": 1042097,
+      "word": "李晓旭受伤",
+      "onboard_time": 1715003539,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1039355,
@@ -1899,6 +1915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 726053,
+      "num": 726053,
+      "word": "广州暴雨",
+      "onboard_time": 1714999398,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 725987,
       "num": 363039,
       "word": "王珞丹辟谣和朱丹同母异父",
@@ -2225,14 +2249,6 @@
       "onboard_time": 1714797678,
       "rank": 11,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 654540,
-      "num": 654540,
-      "word": "广州暴雨",
-      "onboard_time": 1714999398,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 652302,
@@ -2873,6 +2889,14 @@
       "onboard_time": 1714942331,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 545945,
+      "num": 417721,
+      "word": "杨鸣贴脸暴怒",
+      "onboard_time": 1715003479,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 544843,
@@ -3747,6 +3771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 446835,
+      "num": 446835,
+      "word": "他新婚盛装她真刀真枪",
+      "onboard_time": 1715002098,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 446345,
       "num": 471737,
       "word": "外卖小哥陪瘫痪女子吃饭多年直到女子离世",
@@ -4185,6 +4217,14 @@
       "onboard_time": 1714911259,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 412417,
+      "num": 412417,
+      "word": "腰臀比小的人更长寿",
+      "onboard_time": 1715002518,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 412275,
@@ -5203,12 +5243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338588,
+      "num": 318305,
+      "word": "日本商店否认出售香飘飘讽日杯套奶茶",
+      "onboard_time": 1715002879,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338072,
       "num": 172537,
       "word": "男子疯狂减肥却胖70斤还脑梗送医抢救",
       "onboard_time": 1714607176,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337664,
+      "num": 337664,
+      "word": "考上研究生是对混子的最大惩罚",
+      "onboard_time": 1715003719,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 337072,
@@ -5329,6 +5385,14 @@
       "onboard_time": 1714625297,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 331054,
+      "num": 324798,
+      "word": "邓超你关注下陶白白吧",
+      "onboard_time": 1715003960,
+      "rank": 21,
+      "category": "艺人,情感"
     },
     {
       "raw_hot": 330768,
@@ -6283,6 +6347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 266364,
+      "num": 266364,
+      "word": "上海现付费马桶圈充1000可用13.8万次",
+      "onboard_time": 1715001678,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266363,
       "num": 266363,
       "word": "春色寄情人结局",
@@ -6499,6 +6571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257790,
+      "num": 646980,
+      "word": "五一假期文旅消费成绩单",
+      "onboard_time": 1715001138,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257470,
       "num": 442658,
       "word": "第一批游客已冒雨抵达长沙",
@@ -6585,6 +6665,14 @@
       "onboard_time": 1714539378,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252747,
+      "num": 252747,
+      "word": "小龙虾每斤8元",
+      "onboard_time": 1715000778,
+      "rank": 39,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 252429,
@@ -6953,6 +7041,14 @@
       "onboard_time": 1714789697,
       "rank": 27,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 238584,
+      "num": 238584,
+      "word": "辽宁男篮",
+      "onboard_time": 1715001079,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 237979,
@@ -7689,6 +7785,14 @@
       "onboard_time": 1714734259,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213871,
+      "num": 213871,
+      "word": "潘玮柏胖了",
+      "onboard_time": 1715003900,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 213761,
@@ -8595,14 +8699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198893,
-      "num": 198893,
-      "word": "上海现付费马桶圈充1000可用13.8万次",
-      "onboard_time": 1715001678,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198513,
       "num": 198513,
       "word": "情歌",
@@ -8808,14 +8904,6 @@
       "word": "尤伯杯凡晨组合大逆转",
       "onboard_time": 1714796600,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 196583,
-      "num": 196583,
-      "word": "辽宁男篮",
-      "onboard_time": 1715001079,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -9091,14 +9179,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 193346,
-      "num": 193346,
-      "word": "他新婚盛装她真刀真枪",
-      "onboard_time": 1715002098,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193337,
       "num": 193337,
       "word": "井柏然要杀入渣男赛道了",
@@ -9115,12 +9195,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 193095,
-      "num": 193095,
-      "word": "小龙虾每斤8元",
-      "onboard_time": 1715000778,
-      "rank": 39,
-      "category": "美食,财经"
+      "raw_hot": 193324,
+      "num": 193324,
+      "word": "徐园",
+      "onboard_time": 1715004321,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193029,
@@ -9971,6 +10051,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 180008,
+      "num": 180008,
+      "word": "黄金狂飙后钻石崩了",
+      "onboard_time": 1715004139,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 179958,
       "num": 179958,
       "word": "汪苏泷达成万人点头成就",
@@ -10667,6 +10755,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 169940,
+      "num": 169940,
+      "word": "张镇麟11分",
+      "onboard_time": 1715004982,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169930,
       "num": 169930,
       "word": "朱珠和朋友二手集市",
@@ -11017,6 +11113,14 @@
       "onboard_time": 1714709959,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164444,
+      "num": 164444,
+      "word": "易建联回应王栎鑫",
+      "onboard_time": 1714999817,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 164378,
@@ -11643,6 +11747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155907,
+      "num": 155907,
+      "word": "想念郭艾伦",
+      "onboard_time": 1715004982,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155839,
       "num": 155839,
       "word": "交警回应梅州高速塌方",
@@ -11945,14 +12057,6 @@
       "onboard_time": 1714887859,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150916,
-      "num": 150916,
-      "word": "易建联回应王栎鑫",
-      "onboard_time": 1714999817,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 150885,
@@ -12459,14 +12563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145141,
-      "num": 646980,
-      "word": "五一假期文旅消费成绩单",
-      "onboard_time": 1715001138,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145004,
       "num": 145004,
       "word": "库克称中国是全球最具竞争力的市场",
@@ -12931,6 +13027,14 @@
       "category": "旅游,财经"
     },
     {
+      "raw_hot": 138297,
+      "num": 138297,
+      "word": "郭艾伦回复刘畊宏",
+      "onboard_time": 1715005041,
+      "rank": 49,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 138189,
       "num": 138189,
       "word": "韩网评IVE国风争议",
@@ -13017,14 +13121,6 @@
       "onboard_time": 1714984939,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136586,
-      "num": 136586,
-      "word": "腰臀比小的人更长寿",
-      "onboard_time": 1715002518,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 136563,

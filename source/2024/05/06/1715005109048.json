@@ -1,0 +1,410 @@
+{
+  "runTime": 1715005109048,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1042097,
+        "num": 1042097,
+        "word": "李晓旭受伤",
+        "onboard_time": 1715003539,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 726053,
+        "num": 726053,
+        "word": "广州暴雨",
+        "onboard_time": 1714999398,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257790,
+        "num": 566252,
+        "word": "五一假期文旅消费成绩单",
+        "onboard_time": 1715001138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2303240,
+        "num": 559376,
+        "word": "人民文娱评华晨宇日出演唱会",
+        "onboard_time": 1714999998,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1114402,
+        "num": 553631,
+        "word": "徐园男友称其系自杀",
+        "onboard_time": 1714997538,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469376,
+        "num": 469376,
+        "word": "原来高铁上是有15元的盒饭的",
+        "onboard_time": 1714991058,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 463125,
+        "num": 463125,
+        "word": "爸爸辅导作业崩溃用石榴砸破孩子脾脏",
+        "onboard_time": 1714985657,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446835,
+        "num": 446835,
+        "word": "他新婚盛装她真刀真枪",
+        "onboard_time": 1715002098,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433416,
+        "num": 433416,
+        "word": "林高远止步大满贯32强",
+        "onboard_time": 1715000179,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75354,
+        "num": 431809,
+        "word": "女子突发晕厥14岁少年挺身而出",
+        "onboard_time": 1714982058,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1320901,
+        "num": 428088,
+        "word": "张杰谢娜拍立得",
+        "onboard_time": 1715003120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 879371,
+        "num": 424862,
+        "word": "淘宝免单",
+        "onboard_time": 1714977378,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 651726,
+        "num": 423905,
+        "word": "女子为被性侵的母亲奔波后丢了工作",
+        "onboard_time": 1714980078,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615251,
+        "num": 419359,
+        "word": "吴磊 你好不好",
+        "onboard_time": 1714999759,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545945,
+        "num": 417721,
+        "word": "杨鸣贴脸暴怒",
+        "onboard_time": 1715003479,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 464048,
+        "num": 414902,
+        "word": "张静初考研",
+        "onboard_time": 1714997478,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412417,
+        "num": 412417,
+        "word": "腰臀比小的人更长寿",
+        "onboard_time": 1715002518,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 395294,
+        "num": 395294,
+        "word": "92名在缅北跨境电诈嫌犯被移交我方",
+        "onboard_time": 1715000358,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337664,
+        "num": 337664,
+        "word": "考上研究生是对混子的最大惩罚",
+        "onboard_time": 1715003719,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 330477,
+        "num": 330477,
+        "word": "邓超不进组的原因",
+        "onboard_time": 1714999878,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 825684,
+        "num": 326472,
+        "word": "存款十几万在小县城什么水平",
+        "onboard_time": 1714991359,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331054,
+        "num": 324798,
+        "word": "邓超你关注下陶白白吧",
+        "onboard_time": 1715003960,
+        "rank": 21,
+        "category": "艺人,情感"
+      },
+      {
+        "raw_hot": 320536,
+        "num": 320536,
+        "word": "女子与男友争执中刀死亡男友一审无罪",
+        "onboard_time": 1714998379,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338588,
+        "num": 318305,
+        "word": "日本商店否认出售香飘飘讽日杯套奶茶",
+        "onboard_time": 1715002879,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310540,
+        "num": 310540,
+        "word": "陈梦压力",
+        "onboard_time": 1714999278,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285473,
+        "num": 285473,
+        "word": "内娱直播考研上岸第一人",
+        "onboard_time": 1714991359,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279252,
+        "num": 279252,
+        "word": "关雪 晴川",
+        "onboard_time": 1714985839,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266364,
+        "num": 266364,
+        "word": "上海现付费马桶圈充1000可用13.8万次",
+        "onboard_time": 1715001678,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255418,
+        "num": 255418,
+        "word": "家里人不同意一次性相亲两个男生",
+        "onboard_time": 1714990518,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252747,
+        "num": 252747,
+        "word": "小龙虾每斤8元",
+        "onboard_time": 1715000778,
+        "rank": 29,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 241723,
+        "num": 241723,
+        "word": "王鸥41岁状态",
+        "onboard_time": 1714997119,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238584,
+        "num": 238584,
+        "word": "辽宁男篮",
+        "onboard_time": 1715001079,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238030,
+        "num": 238030,
+        "word": "刘亦菲海南plog",
+        "onboard_time": 1715001138,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219368,
+        "num": 219368,
+        "word": "王曼昱止步大满贯32强",
+        "onboard_time": 1714996636,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213871,
+        "num": 213871,
+        "word": "潘玮柏胖了",
+        "onboard_time": 1715003900,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198012,
+        "num": 198012,
+        "word": "马琳",
+        "onboard_time": 1714998439,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193324,
+        "num": 193324,
+        "word": "徐园",
+        "onboard_time": 1715004321,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181946,
+        "num": 181946,
+        "word": "WB 折磨",
+        "onboard_time": 1715001800,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181219,
+        "num": 181219,
+        "word": "怎么写快乐家族最刀呢",
+        "onboard_time": 1714994177,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180008,
+        "num": 180008,
+        "word": "黄金狂飙后钻石崩了",
+        "onboard_time": 1715004139,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176024,
+        "num": 176024,
+        "word": "太阳第3次爆发最强X级耀斑",
+        "onboard_time": 1714999938,
+        "rank": 40,
+        "category": "科学科普,自然"
+      },
+      {
+        "raw_hot": 169940,
+        "num": 169940,
+        "word": "张镇麟11分",
+        "onboard_time": 1715004982,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164925,
+        "num": 164925,
+        "word": "CBA",
+        "onboard_time": 1714994896,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164444,
+        "num": 164444,
+        "word": "易建联回应王栎鑫",
+        "onboard_time": 1714999817,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155907,
+        "num": 155907,
+        "word": "想念郭艾伦",
+        "onboard_time": 1715004982,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153047,
+        "num": 153047,
+        "word": "庆余年2拍了范闲林婉儿大婚",
+        "onboard_time": 1714986379,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151252,
+        "num": 151252,
+        "word": "新闻女王2新角推荐名单",
+        "onboard_time": 1714998318,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147549,
+        "num": 147549,
+        "word": "高校发讣告悼念梅大高速遇难学子",
+        "onboard_time": 1714984339,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145546,
+        "num": 145546,
+        "word": "妈妈切好的皮蛋室友不太爱吃",
+        "onboard_time": 1714997238,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138297,
+        "num": 138297,
+        "word": "郭艾伦回复刘畊宏",
+        "onboard_time": 1715005041,
+        "rank": 49,
+        "category": "体育,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法欧领导人三方会晤举行#"
+    }
+  }
+}
