@@ -1,6 +1,6 @@
 {
   "startTime": 1715012728684,
-  "endTime": 1715033879208,
+  "endTime": 1715034848634,
   "band_list": [
     {
       "raw_hot": 1178293,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1000338,
-      "num": 174540,
+      "num": 442573,
       "word": "取消公办中小学教师编制可不可行",
       "onboard_time": 1715007201,
       "rank": 21,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 520875,
-      "num": 230818,
+      "num": 369822,
       "word": "缅甸",
       "onboard_time": 1715006420,
       "rank": 22,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 272003,
-      "num": 35669,
+      "num": 47034,
       "word": "熬夜疲劳可能会让你变臭",
       "onboard_time": 1715017212,
       "rank": 21,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159947,
+      "num": 159947,
+      "word": "上海现付费马桶圈充1000可用13.8万次",
+      "onboard_time": 1715001678,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159817,
       "num": 185643,
       "word": "92名在缅北跨境电诈嫌犯被移交我方",
@@ -249,6 +257,14 @@
       "onboard_time": 1714999759,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143025,
+      "num": 143025,
+      "word": "黄金狂飙后钻石崩了",
+      "onboard_time": 1715004139,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 142530,
@@ -299,19 +315,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124304,
-      "num": 124304,
-      "word": "上海现付费马桶圈充1000可用13.8万次",
-      "onboard_time": 1715001678,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123798,
       "num": 476310,
       "word": "五一假期文旅消费成绩单",
       "onboard_time": 1715001138,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122425,
+      "num": 74374,
+      "word": "豪宅小区被外卖员吐槽赔钱也不送",
+      "onboard_time": 1715014995,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -321,14 +337,6 @@
       "onboard_time": 1715010139,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 111760,
-      "num": 111760,
-      "word": "黄金狂飙后钻石崩了",
-      "onboard_time": 1715004139,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 109903,
@@ -379,11 +387,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92707,
-      "num": 74374,
-      "word": "豪宅小区被外卖员吐槽赔钱也不送",
-      "onboard_time": 1715014995,
-      "rank": 31,
+      "raw_hot": 92321,
+      "num": 92321,
+      "word": "男子打球被球友看出面相不对救了一命",
+      "onboard_time": 1715020752,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -435,20 +443,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70281,
+      "num": 70281,
+      "word": "蔡少芬陶昕然体型差",
+      "onboard_time": 1715033953,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67417,
       "num": 89220,
       "word": "赴山海",
       "onboard_time": 1715005941,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59001,
-      "num": 59001,
-      "word": "男子打球被球友看出面相不对救了一命",
-      "onboard_time": 1715020752,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56495,
@@ -491,20 +499,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38849,
+      "num": 38849,
+      "word": "范闲暴揍范思辙",
+      "onboard_time": 1715024350,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 37934,
+      "num": 37934,
+      "word": "医学生有自己杀菠萝方式",
+      "onboard_time": 1715026030,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 32411,
       "num": 31230,
       "word": "纪凌尘回复宋威龙",
       "onboard_time": 1715019132,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31486,
-      "num": 31486,
-      "word": "医学生有自己杀菠萝方式",
-      "onboard_time": 1715026030,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 31105,
@@ -515,12 +531,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 29346,
-      "num": 29346,
-      "word": "范闲暴揍范思辙",
-      "onboard_time": 1715024350,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 27111,
+      "num": 338397,
+      "word": "数据盘点五一假期",
+      "onboard_time": 1715000958,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26447,
+      "num": 26447,
+      "word": "找份工作养活自己为什么这么难",
+      "onboard_time": 1715033832,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 25773,
@@ -539,28 +563,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 20672,
-      "num": 250690,
-      "word": "数据盘点五一假期",
-      "onboard_time": 1715000958,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19259,
       "num": 22055,
       "word": "TTG晋级败者组第三轮",
       "onboard_time": 1715007559,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 15703,
-      "num": 26010,
-      "word": "找份工作养活自己为什么这么难",
-      "onboard_time": 1715033832,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 13856,
