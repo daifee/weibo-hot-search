@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715031274713,
+  "endTime": 1715033879208,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -16571,6 +16571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 59001,
+      "num": 59001,
+      "word": "男子打球被球友看出面相不对救了一命",
+      "onboard_time": 1715020752,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58883,
       "num": 860461,
       "word": "国羽女队捧杯瞬间",
@@ -16851,6 +16859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44120,
+      "num": 44120,
+      "word": "抗抑郁食物清单",
+      "onboard_time": 1715028190,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 43697,
       "num": 425395,
       "word": "时代少年团全员被整蛊",
@@ -16963,6 +16979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31486,
+      "num": 31486,
+      "word": "医学生有自己杀菠萝方式",
+      "onboard_time": 1715026030,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 31105,
       "num": 40906,
       "word": "和动画简直一模一样",
@@ -16987,14 +17011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 29795,
-      "num": 29795,
-      "word": "抗抑郁食物清单",
-      "onboard_time": 1715028190,
-      "rank": 15,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 29540,
       "num": 29540,
       "word": "欧洲德比",
@@ -17011,12 +17027,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 29377,
-      "num": 21495,
-      "word": "医学生有自己杀菠萝方式",
-      "onboard_time": 1715026030,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 29346,
+      "num": 29346,
+      "word": "范闲暴揍范思辙",
+      "onboard_time": 1715024350,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 29308,
@@ -17131,22 +17147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21559,
-      "num": 21559,
-      "word": "范闲暴揍范思辙",
-      "onboard_time": 1715024350,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 21525,
-      "num": 21525,
-      "word": "男子打球被球友看出面相不对救了一命",
-      "onboard_time": 1715020752,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21522,
       "num": 79847,
       "word": "蓝色监狱 帅得很超前",
@@ -17171,20 +17171,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20672,
+      "num": 250690,
+      "word": "数据盘点五一假期",
+      "onboard_time": 1715000958,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18674,
       "num": 18674,
       "word": "郑秀晶看秀G社生图",
       "onboard_time": 1714591451,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 18048,
-      "num": 250690,
-      "word": "数据盘点五一假期",
-      "onboard_time": 1715000958,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17803,
@@ -17201,6 +17201,14 @@
       "onboard_time": 1714508171,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 15703,
+      "num": 26010,
+      "word": "找份工作养活自己为什么这么难",
+      "onboard_time": 1715033832,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 15503,
