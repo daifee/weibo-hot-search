@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714952077453,
+  "endTime": 1714958208607,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1088996,
+      "num": 1088996,
+      "word": "节后上班第1天",
+      "onboard_time": 1714951455,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1073256,
       "num": 789285,
       "word": "第一次看到张元英表情管理失败",
@@ -227,12 +235,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 917772,
+      "num": 917772,
+      "word": "很快就知道6天有多长了",
+      "onboard_time": 1714953442,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 916718,
       "num": 254901,
       "word": "爸爸才四十多岁就不工作了",
       "onboard_time": 1714892780,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 914694,
+      "num": 532745,
+      "word": "睡前大量饮水影响前列腺健康",
+      "onboard_time": 1714952061,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 877700,
@@ -257,6 +281,14 @@
       "onboard_time": 1714868958,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 860372,
+      "num": 532165,
+      "word": "黄子韬撩徐艺洋",
+      "onboard_time": 1714955483,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 843998,
@@ -363,6 +395,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 706311,
+      "num": 272970,
+      "word": "结肠癌明显的早期信号有哪些",
+      "onboard_time": 1714953741,
+      "rank": 20,
+      "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 691364,
+      "num": 691364,
+      "word": "司马光 对不起让大家失望了",
+      "onboard_time": 1714955903,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 690243,
       "num": 690243,
       "word": "教育回报率越来越低了吗",
@@ -451,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 599179,
+      "num": 599179,
+      "word": "官方通报摊贩6两蓝莓当1斤卖称都这样",
+      "onboard_time": 1714953922,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585149,
       "num": 332946,
       "word": "原来上班真的能跨越阶级",
@@ -507,8 +563,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 539170,
-      "num": 539170,
+      "raw_hot": 546074,
+      "num": 546074,
       "word": "有人弃我如杂草 有人视我如珍宝",
       "onboard_time": 1714942331,
       "rank": 35,
@@ -593,6 +649,14 @@
       "onboard_time": 1714874778,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 488089,
+      "num": 270556,
+      "word": "听说中国人到了20岁都会血脉觉醒",
+      "onboard_time": 1714953022,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 487585,
@@ -771,6 +835,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 426175,
+      "num": 426175,
+      "word": "清水镇的水是脏水的水",
+      "onboard_time": 1714956862,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 425043,
       "num": 346495,
       "word": "庄达菲谈与肖战合作感受",
@@ -875,6 +947,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 398086,
+      "num": 398086,
+      "word": "高铁上大学生帮了11岁时的自己",
+      "onboard_time": 1714953022,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389307,
+      "num": 267592,
+      "word": "刘亦菲37岁状态",
+      "onboard_time": 1714953981,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387797,
       "num": 256422,
       "word": "张一山也是紫米",
@@ -899,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380079,
+      "num": 380079,
+      "word": "薛之谦退票梗刷新纪录",
+      "onboard_time": 1714954343,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 375344,
       "num": 375344,
       "word": "上班",
@@ -913,6 +1009,14 @@
       "onboard_time": 1714906578,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369771,
+      "num": 369771,
+      "word": "本周狗屎运最旺的星座TOP4",
+      "onboard_time": 1714953022,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 367848,
@@ -1028,9 +1132,9 @@
     },
     {
       "raw_hot": 334372,
-      "num": 141974,
+      "num": 178740,
       "word": "塞尔维亚街头现巨幅中国国旗",
-      "onboard_time": 1714923079,
+      "onboard_time": 1714922963,
       "rank": 44,
       "category": "国外时政"
     },
@@ -1105,6 +1209,14 @@
       "onboard_time": 1714905318,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 312389,
+      "num": 312389,
+      "word": "回想封神第一部开局票房惨状",
+      "onboard_time": 1714952121,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 304014,
@@ -1243,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 267386,
+      "num": 267386,
+      "word": "叫花鸡里没有鸡涉事商家被查",
+      "onboard_time": 1714958183,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265145,
       "num": 265145,
       "word": "减肥要做到3个一",
@@ -1273,6 +1393,14 @@
       "onboard_time": 1714866495,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 261313,
+      "num": 261313,
+      "word": "学历大幅贬值了吗",
+      "onboard_time": 1714955422,
+      "rank": 25,
+      "category": "社会议题"
     },
     {
       "raw_hot": 259188,
@@ -1451,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227775,
+      "num": 227775,
+      "word": "孙俪早六运动",
+      "onboard_time": 1714955780,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226672,
       "num": 226672,
       "word": "亳州王婆说媒劝小伙牵手怀孕女孩",
@@ -1539,6 +1675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 215995,
+      "num": 215995,
+      "word": "谢娜杨迪八年前旧照",
+      "onboard_time": 1714956745,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215460,
       "num": 215460,
       "word": "光与夜之恋",
@@ -1625,6 +1769,22 @@
       "onboard_time": 1714874359,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 208226,
+      "num": 208226,
+      "word": "伯纳德希尔去世",
+      "onboard_time": 1714951516,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208002,
+      "num": 208002,
+      "word": "30岁了依然觉得自己有很多可能",
+      "onboard_time": 1714957342,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 207917,
@@ -1724,7 +1884,7 @@
     },
     {
       "raw_hot": 197402,
-      "num": 101956,
+      "num": 179514,
       "word": "赵丽颖出道十八周年",
       "onboard_time": 1714951335,
       "rank": 21,
@@ -1737,14 +1897,6 @@
       "onboard_time": 1714875378,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196527,
-      "num": 196527,
-      "word": "节后上班第1天",
-      "onboard_time": 1714951455,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196408,
@@ -1827,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191709,
+      "num": 191709,
+      "word": "为什么年轻人流行偷偷领证",
+      "onboard_time": 1714926680,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191552,
       "num": 191552,
       "word": "华晨宇浪漫",
@@ -1857,6 +2017,14 @@
       "onboard_time": 1714899320,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190910,
+      "num": 190910,
+      "word": "背着善宰跑",
+      "onboard_time": 1714957102,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 190728,
@@ -1897,6 +2065,14 @@
       "onboard_time": 1714912219,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 187092,
+      "num": 185846,
+      "word": "时代少年团 天津",
+      "onboard_time": 1714955194,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 187089,
@@ -2057,6 +2233,14 @@
       "onboard_time": 1714889177,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177515,
+      "num": 177515,
+      "word": "狗狗被前主人抛弃患上抑郁症",
+      "onboard_time": 1714954763,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 176240,
@@ -2235,6 +2419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164398,
+      "num": 164398,
+      "word": "封神第一部真现象级电影",
+      "onboard_time": 1714957522,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164078,
       "num": 164078,
       "word": "张予曦遇A则A",
@@ -2257,6 +2449,22 @@
       "onboard_time": 1714917319,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 163066,
+      "num": 163066,
+      "word": "陈奕迅武汉安可7首",
+      "onboard_time": 1714955124,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 162835,
+      "num": 162835,
+      "word": "3个睡姿一觉到天亮",
+      "onboard_time": 1714957102,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 162799,
@@ -2459,6 +2667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152825,
+      "num": 131153,
+      "word": "空包叫花鸡店主称临时工错拿样品",
+      "onboard_time": 1714958183,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151901,
       "num": 151901,
       "word": "尤杯决赛中国2比0印尼",
@@ -2547,6 +2763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144093,
+      "num": 144093,
+      "word": "米切尔太硬了",
+      "onboard_time": 1714954702,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143658,
       "num": 143658,
       "word": "成都汤尤杯陈雨菲全胜",
@@ -2593,6 +2817,14 @@
       "onboard_time": 1714900760,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140188,
+      "num": 120479,
+      "word": "张杰杭州",
+      "onboard_time": 1714958183,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 138864,
@@ -2691,20 +2923,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 130837,
-      "num": 107776,
-      "word": "为什么年轻人流行偷偷领证",
-      "onboard_time": 1714926737,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 130204,
       "num": 130204,
       "word": "淄博炒锅饼因人太多转线上销售了",
       "onboard_time": 1714908259,
       "rank": 44,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 129717,
+      "num": 124563,
+      "word": "如何面对男性的目光凝视",
+      "onboard_time": 1714956745,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 129642,
@@ -3019,6 +3251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111782,
+      "num": 111782,
+      "word": "AG淘汰",
+      "onboard_time": 1714954162,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111621,
       "num": 217916,
       "word": "时代少年团演唱会直播",
@@ -3177,14 +3417,6 @@
       "onboard_time": 1714835659,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 87942,
-      "num": 87942,
-      "word": "伯纳德希尔去世",
-      "onboard_time": 1714951516,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 86411,
@@ -3513,6 +3745,14 @@
       "onboard_time": 1714940292,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 18452,
+      "num": 273620,
+      "word": "博主分享日本美食意外拍到小偷3秒行窃",
+      "onboard_time": 1714957687,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14087,
