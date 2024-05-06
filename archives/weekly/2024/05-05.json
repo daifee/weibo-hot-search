@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1714990774080,
+  "endTime": 1714991793044,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1616078,
-      "num": 455484,
+      "num": 457597,
       "word": "淘宝免单",
       "onboard_time": 1714977378,
       "rank": 49,
@@ -371,6 +371,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1003000,
+      "num": 1003000,
+      "word": "爸爸辅导作业崩溃用石榴砸破孩子脾脏",
+      "onboard_time": 1714985657,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 932334,
       "num": 932334,
       "word": "莫里斯遗体在洛杉矶地区被发现",
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 880275,
-      "num": 446860,
+      "num": 447590,
       "word": "小伙恋爱1年转账60万女友竟是好兄弟",
       "onboard_time": 1714982178,
       "rank": 17,
@@ -665,14 +673,6 @@
       "onboard_time": 1714953680,
       "rank": 20,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 698706,
-      "num": 698706,
-      "word": "爸爸辅导作业崩溃用石榴砸破孩子脾脏",
-      "onboard_time": 1714985657,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 690243,
@@ -963,12 +963,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 523167,
+      "num": 523167,
+      "word": "庆余年2拍了范闲林婉儿大婚",
+      "onboard_time": 1714986379,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 522843,
       "num": 522843,
       "word": "许嵩抢票",
       "onboard_time": 1714966880,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 521670,
+      "num": 521670,
+      "word": "叫花鸡没有鸡涉事店铺已关门",
+      "onboard_time": 1714986438,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 516041,
@@ -1003,14 +1019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 501110,
-      "num": 501110,
-      "word": "庆余年2拍了范闲林婉儿大婚",
-      "onboard_time": 1714986379,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 500145,
       "num": 500145,
       "word": "美国暂停向以色列运送美制弹药",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1714874778,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493206,
+      "num": 493206,
+      "word": "老头杯",
+      "onboard_time": 1714989377,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 491595,
@@ -1217,14 +1233,6 @@
       "onboard_time": 1714964720,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 444492,
-      "num": 444492,
-      "word": "叫花鸡没有鸡涉事店铺已关门",
-      "onboard_time": 1714986438,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 442510,
@@ -1475,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386670,
+      "num": 285690,
+      "word": "李维嘉为谢娜庆生",
+      "onboard_time": 1714989919,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386509,
       "num": 319112,
       "word": "叶灵儿",
@@ -1715,14 +1731,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 330956,
-      "num": 330956,
-      "word": "老头杯",
-      "onboard_time": 1714989377,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 330043,
       "num": 330043,
       "word": "夏威夷职业技术学院",
@@ -1843,6 +1851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 308427,
+      "num": 278363,
+      "word": "家里人不同意一次性相亲两个男生",
+      "onboard_time": 1714990518,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304014,
       "num": 304014,
       "word": "叶祖新怎么越老越帅",
@@ -1883,6 +1899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295559,
+      "num": 295559,
+      "word": "Ning老头杯一选TheShy",
+      "onboard_time": 1714989919,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 290685,
       "num": 290685,
       "word": "专家称高铁涨价是必要的",
@@ -1896,6 +1920,14 @@
       "word": "田小江死在了漫长的季节里",
       "onboard_time": 1714914859,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 289172,
+      "num": 289172,
+      "word": "肖战藏海传扶人下马车路透",
+      "onboard_time": 1714990818,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -1921,14 +1953,6 @@
       "onboard_time": 1714963938,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 285690,
-      "num": 285690,
-      "word": "李维嘉为谢娜庆生",
-      "onboard_time": 1714989919,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 284665,
@@ -2123,20 +2147,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 258330,
+      "num": 258330,
+      "word": "梅大高速下跪拦车老人受家乡百姓热情迎接",
+      "onboard_time": 1714989559,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258140,
       "num": 235770,
       "word": "孟佳当选手被张雨绮秒淘汰",
       "onboard_time": 1714890197,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257078,
-      "num": 257078,
-      "word": "Ning老头杯一选TheShy",
-      "onboard_time": 1714989919,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 256797,
@@ -2435,6 +2459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222435,
+      "num": 222435,
+      "word": "内娱直播考研上岸第一人",
+      "onboard_time": 1714991359,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221610,
       "num": 221610,
       "word": "酱园弄",
@@ -2465,14 +2497,6 @@
       "onboard_time": 1714902799,
       "rank": 18,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 220363,
-      "num": 220363,
-      "word": "梅大高速下跪拦车老人受家乡百姓热情迎接",
-      "onboard_time": 1714989559,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219274,
@@ -2585,6 +2609,14 @@
       "onboard_time": 1714964959,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212564,
+      "num": 212564,
+      "word": "淘宝客服回应免单bug",
+      "onboard_time": 1714991238,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 212126,
@@ -2708,7 +2740,7 @@
     },
     {
       "raw_hot": 203733,
-      "num": 462513,
+      "num": 483045,
       "word": "小鸟努力把自己美成了花鸟图",
       "onboard_time": 1714980258,
       "rank": 9,
@@ -3083,6 +3115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189157,
+      "num": 189157,
+      "word": "存款十几万在小县城什么水平",
+      "onboard_time": 1714991359,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188877,
       "num": 188877,
       "word": "讨厌不发信息直接弹语音电话的人",
@@ -3323,14 +3363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178620,
-      "num": 178620,
-      "word": "家里人不同意一次性相亲两个男生",
-      "onboard_time": 1714990518,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 177972,
       "num": 177972,
       "word": "金秀贤泡泡ins的差异",
@@ -3361,6 +3393,14 @@
       "onboard_time": 1714972999,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176415,
+      "num": 176415,
+      "word": "原来高铁上是有15元的盒饭的",
+      "onboard_time": 1714991058,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 176240,
@@ -4747,6 +4787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111029,
+      "num": 488967,
+      "word": "女子突发晕厥14岁少年挺身而出",
+      "onboard_time": 1714982058,
+      "rank": 8,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 110189,
       "num": 110189,
       "word": "出淤泥而挑染的萨摩耶",
@@ -4945,14 +4993,6 @@
       "onboard_time": 1714948213,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 84765,
-      "num": 467227,
-      "word": "女子突发晕厥14岁少年挺身而出",
-      "onboard_time": 1714982058,
-      "rank": 8,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 83934,
