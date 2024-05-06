@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715005109048,
+  "endTime": 1715006118220,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -2251,6 +2251,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 654534,
+      "num": 654534,
+      "word": "杨鸣贴脸暴怒",
+      "onboard_time": 1715003479,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 652302,
       "num": 652302,
       "word": "福建舰海试",
@@ -2449,6 +2457,14 @@
       "onboard_time": 1714781056,
       "rank": 17,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 624049,
+      "num": 624049,
+      "word": "考上研究生是对混子的最大惩罚",
+      "onboard_time": 1715003719,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 621744,
@@ -2665,6 +2681,14 @@
       "onboard_time": 1714812139,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 587066,
+      "num": 318305,
+      "word": "日本商店否认出售香飘飘讽日杯套奶茶",
+      "onboard_time": 1715002879,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 585149,
@@ -2889,14 +2913,6 @@
       "onboard_time": 1714942331,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 545945,
-      "num": 417721,
-      "word": "杨鸣贴脸暴怒",
-      "onboard_time": 1715003479,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 544843,
@@ -3233,6 +3249,14 @@
       "onboard_time": 1714874838,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 501713,
+      "num": 501713,
+      "word": "腰臀比小的人更长寿",
+      "onboard_time": 1715002518,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 501422,
@@ -4217,14 +4241,6 @@
       "onboard_time": 1714911259,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 412417,
-      "num": 412417,
-      "word": "腰臀比小的人更长寿",
-      "onboard_time": 1715002518,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 412275,
@@ -5243,28 +5259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 338588,
-      "num": 318305,
-      "word": "日本商店否认出售香飘飘讽日杯套奶茶",
-      "onboard_time": 1715002879,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 338072,
       "num": 172537,
       "word": "男子疯狂减肥却胖70斤还脑梗送医抢救",
       "onboard_time": 1714607176,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337664,
-      "num": 337664,
-      "word": "考上研究生是对混子的最大惩罚",
-      "onboard_time": 1715003719,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 337072,
@@ -5723,6 +5723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 307054,
+      "num": 307054,
+      "word": "WB 折磨",
+      "onboard_time": 1715001800,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 304148,
       "num": 204137,
       "word": "黄轩回天水两天变成了黄干",
@@ -5753,6 +5761,14 @@
       "onboard_time": 1714542199,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 301523,
+      "num": 301523,
+      "word": "杨幂曾问邓超亚比是什么",
+      "onboard_time": 1715005520,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 301520,
@@ -6507,6 +6523,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 260456,
+      "num": 260456,
+      "word": "小龙虾每斤8元",
+      "onboard_time": 1715000778,
+      "rank": 39,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 260356,
       "num": 237232,
       "word": "韩最毒美女连环杀人犯真容曝光",
@@ -6665,14 +6689,6 @@
       "onboard_time": 1714539378,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252747,
-      "num": 252747,
-      "word": "小龙虾每斤8元",
-      "onboard_time": 1715000778,
-      "rank": 39,
-      "category": "美食,财经"
     },
     {
       "raw_hot": 252429,
@@ -6939,6 +6955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 242354,
+      "num": 229891,
+      "word": "抑郁女儿叫朋友来家里吃饭了",
+      "onboard_time": 1715005941,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241488,
       "num": 241488,
       "word": "迪丽热巴五一营业照",
@@ -7113,6 +7137,14 @@
       "onboard_time": 1714900880,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 234457,
+      "num": 234457,
+      "word": "广东男篮2比1辽宁男篮",
+      "onboard_time": 1715005160,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 234047,
@@ -7459,6 +7491,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 224688,
+      "num": 224688,
+      "word": "潘玮柏胖了",
+      "onboard_time": 1715003900,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224535,
+      "num": 224535,
+      "word": "想念郭艾伦",
+      "onboard_time": 1715004982,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223865,
       "num": 223865,
       "word": "维和防暴队",
@@ -7787,14 +7835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 213871,
-      "num": 213871,
-      "word": "潘玮柏胖了",
-      "onboard_time": 1715003900,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213761,
       "num": 213761,
       "word": "急得黄景瑜差点打消费者热线",
@@ -8049,6 +8089,14 @@
       "onboard_time": 1714564519,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208234,
+      "num": 208234,
+      "word": "张镇麟11分",
+      "onboard_time": 1715004982,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 208226,
@@ -8403,12 +8451,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 202167,
-      "num": 202167,
-      "word": "WB 折磨",
-      "onboard_time": 1715001800,
-      "rank": 30,
-      "category": "电竞"
+      "raw_hot": 202258,
+      "num": 202258,
+      "word": "黄金狂飙后钻石崩了",
+      "onboard_time": 1715004139,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 201860,
@@ -10051,14 +10099,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 180008,
-      "num": 180008,
-      "word": "黄金狂飙后钻石崩了",
-      "onboard_time": 1715004139,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 179958,
       "num": 179958,
       "word": "汪苏泷达成万人点头成就",
@@ -10105,6 +10145,14 @@
       "onboard_time": 1714797678,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179249,
+      "num": 179249,
+      "word": "赴山海",
+      "onboard_time": 1715005941,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 179228,
@@ -10755,14 +10803,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 169940,
-      "num": 169940,
-      "word": "张镇麟11分",
-      "onboard_time": 1715004982,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169930,
       "num": 169930,
       "word": "朱珠和朋友二手集市",
@@ -11113,6 +11153,14 @@
       "onboard_time": 1714709959,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164531,
+      "num": 164531,
+      "word": "郭艾伦回复刘畊宏",
+      "onboard_time": 1715005041,
+      "rank": 49,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 164444,
@@ -11745,14 +11793,6 @@
       "onboard_time": 1714909818,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 155907,
-      "num": 155907,
-      "word": "想念郭艾伦",
-      "onboard_time": 1715004982,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 155839,
@@ -13025,14 +13065,6 @@
       "onboard_time": 1714959798,
       "rank": 43,
       "category": "旅游,财经"
-    },
-    {
-      "raw_hot": 138297,
-      "num": 138297,
-      "word": "郭艾伦回复刘畊宏",
-      "onboard_time": 1715005041,
-      "rank": 49,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 138189,
