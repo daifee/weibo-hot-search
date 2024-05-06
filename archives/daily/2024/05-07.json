@@ -1,7 +1,15 @@
 {
   "startTime": 1715012728684,
-  "endTime": 1715034848634,
+  "endTime": 1715037475102,
   "band_list": [
+    {
+      "raw_hot": 1291935,
+      "num": 1291935,
+      "word": "取消公办中小学教师编制可不可行",
+      "onboard_time": 1715007201,
+      "rank": 21,
+      "category": "教育,社会新闻"
+    },
     {
       "raw_hot": 1178293,
       "num": 181757,
@@ -11,20 +19,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1000338,
-      "num": 442573,
-      "word": "取消公办中小学教师编制可不可行",
-      "onboard_time": 1715007201,
-      "rank": 21,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 770441,
       "num": 475902,
       "word": "人民文娱评华晨宇日出演唱会",
       "onboard_time": 1714999998,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 680468,
+      "num": 680468,
+      "word": "缅甸",
+      "onboard_time": 1715006420,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 648741,
@@ -59,14 +67,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 520875,
-      "num": 369822,
-      "word": "缅甸",
-      "onboard_time": 1715006420,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 449625,
       "num": 449625,
       "word": "男子确诊胃癌提前一年为自己安排身后事",
@@ -81,6 +81,14 @@
       "onboard_time": 1715009239,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 362651,
+      "num": 362651,
+      "word": "上海现付费马桶圈充1000可用13.8万次",
+      "onboard_time": 1715001678,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333662,
@@ -107,12 +115,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307256,
+      "num": 307256,
+      "word": "豪宅小区被外卖员吐槽赔钱也不送",
+      "onboard_time": 1715014995,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288841,
       "num": 261450,
       "word": "杨幂曾问邓超亚比是什么",
       "onboard_time": 1715005520,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283840,
+      "num": 283840,
+      "word": "黄金狂飙后钻石崩了",
+      "onboard_time": 1715004139,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 283294,
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 272003,
-      "num": 47034,
+      "num": 109593,
       "word": "熬夜疲劳可能会让你变臭",
       "onboard_time": 1715017212,
       "rank": 21,
@@ -155,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234835,
+      "num": 234835,
+      "word": "蔡少芬陶昕然体型差",
+      "onboard_time": 1715033953,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222797,
       "num": 222797,
       "word": "淘宝免单",
@@ -169,6 +201,22 @@
       "onboard_time": 1714991058,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 212150,
+      "num": 212150,
+      "word": "马龙止步大满贯32强",
+      "onboard_time": 1715036955,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201433,
+      "num": 201433,
+      "word": "男子打球被球友看出面相不对救了一命",
+      "onboard_time": 1715020752,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189259,
@@ -211,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159947,
-      "num": 159947,
-      "word": "上海现付费马桶圈充1000可用13.8万次",
-      "onboard_time": 1715001678,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159817,
       "num": 185643,
       "word": "92名在缅北跨境电诈嫌犯被移交我方",
@@ -251,20 +291,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 148922,
+      "num": 148922,
+      "word": "MetGala红毯",
+      "onboard_time": 1715037075,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 146665,
       "num": 146665,
       "word": "吴磊 你好不好",
       "onboard_time": 1714999759,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143025,
-      "num": 143025,
-      "word": "黄金狂飙后钻石崩了",
-      "onboard_time": 1715004139,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 142530,
@@ -323,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122425,
-      "num": 74374,
-      "word": "豪宅小区被外卖员吐槽赔钱也不送",
-      "onboard_time": 1715014995,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121819,
       "num": 121819,
       "word": "邓紫棋上海五天连开将破纪录",
@@ -345,6 +377,14 @@
       "onboard_time": 1715014154,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108645,
+      "num": 108645,
+      "word": "二十多岁已经厌烦上班到极致",
+      "onboard_time": 1715016074,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 102405,
@@ -379,19 +419,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95025,
+      "num": 95025,
+      "word": "水晶宫4比0曼联",
+      "onboard_time": 1715037375,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93662,
       "num": 93662,
       "word": "广州暴雨",
       "onboard_time": 1714999398,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92321,
-      "num": 92321,
-      "word": "男子打球被球友看出面相不对救了一命",
-      "onboard_time": 1715020752,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -435,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77181,
+      "num": 77181,
+      "word": "找份工作养活自己为什么这么难",
+      "onboard_time": 1715033832,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 70289,
       "num": 89226,
       "word": "潘玮柏胖了",
@@ -443,12 +491,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 70281,
-      "num": 70281,
-      "word": "蔡少芬陶昕然体型差",
-      "onboard_time": 1715033953,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 68580,
+      "num": 68580,
+      "word": "范闲暴揍范思辙",
+      "onboard_time": 1715024350,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 68242,
+      "num": 68242,
+      "word": "法国总统收到中文图书礼物",
+      "onboard_time": 1715037375,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 67702,
+      "num": 67702,
+      "word": "庆余年3还能集齐原班人马吗",
+      "onboard_time": 1715017153,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 67417,
@@ -457,6 +521,14 @@
       "onboard_time": 1715005941,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65236,
+      "num": 65236,
+      "word": "医学生有自己杀菠萝方式",
+      "onboard_time": 1715026030,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 56495,
@@ -475,12 +547,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52295,
-      "num": 50096,
-      "word": "二十多岁已经厌烦上班到极致",
-      "onboard_time": 1715016074,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 53570,
+      "num": 620182,
+      "word": "数据盘点五一假期",
+      "onboard_time": 1715000958,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47822,
+      "num": 47822,
+      "word": "马龙",
+      "onboard_time": 1715037375,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46225,
+      "num": 46225,
+      "word": "陈梦晋级大满贯16强",
+      "onboard_time": 1715037375,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 44120,
@@ -489,30 +577,6 @@
       "onboard_time": 1715028190,
       "rank": 15,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 40153,
-      "num": 35629,
-      "word": "庆余年3还能集齐原班人马吗",
-      "onboard_time": 1715017153,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 38849,
-      "num": 38849,
-      "word": "范闲暴揍范思辙",
-      "onboard_time": 1715024350,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 37934,
-      "num": 37934,
-      "word": "医学生有自己杀菠萝方式",
-      "onboard_time": 1715026030,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 32411,
@@ -527,22 +591,6 @@
       "num": 40906,
       "word": "和动画简直一模一样",
       "onboard_time": 1715016732,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 27111,
-      "num": 338397,
-      "word": "数据盘点五一假期",
-      "onboard_time": 1715000958,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26447,
-      "num": 26447,
-      "word": "找份工作养活自己为什么这么难",
-      "onboard_time": 1715033832,
       "rank": 49,
       "category": "情感"
     },
