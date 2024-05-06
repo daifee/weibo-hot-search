@@ -1,6 +1,6 @@
 {
   "startTime": 1715012728684,
-  "endTime": 1715019994528,
+  "endTime": 1715020561551,
   "band_list": [
     {
       "raw_hot": 1178293,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272003,
+      "num": 35669,
+      "word": "熬夜疲劳可能会让你变臭",
+      "onboard_time": 1715017212,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 268463,
       "num": 268463,
       "word": "腰臀比小的人更长寿",
@@ -161,14 +169,6 @@
       "onboard_time": 1714991058,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 215621,
-      "num": 35669,
-      "word": "熬夜疲劳可能会让你变臭",
-      "onboard_time": 1715017212,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 189259,
@@ -483,15 +483,15 @@
       "category": "情感"
     },
     {
-      "raw_hot": 27726,
-      "num": 27726,
+      "raw_hot": 30205,
+      "num": 30205,
       "word": "纪凌尘回复宋威龙",
       "onboard_time": 1715019132,
       "rank": 43,
       "category": "艺人"
     },
     {
-      "raw_hot": 25367,
+      "raw_hot": 25773,
       "num": 27708,
       "word": "李沁拿鸡腿",
       "onboard_time": 1715019252,
