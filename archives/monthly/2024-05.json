@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715037475102,
+  "endTime": 1715038502865,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -1211,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 947999,
+      "num": 616221,
+      "word": "男子确诊胃癌提前一年为自己安排身后事",
+      "onboard_time": 1715007320,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 946692,
       "num": 478787,
       "word": "赵小棠妈妈是先婚后爱",
@@ -1308,7 +1316,7 @@
     },
     {
       "raw_hot": 893040,
-      "num": 680468,
+      "num": 866391,
       "word": "缅甸",
       "onboard_time": 1715006420,
       "rank": 21,
@@ -2571,14 +2579,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 616221,
-      "num": 616221,
-      "word": "男子确诊胃癌提前一年为自己安排身后事",
-      "onboard_time": 1715007320,
-      "rank": 5,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 613898,
       "num": 613898,
       "word": "林高远vs格罗特",
@@ -2697,6 +2697,14 @@
       "onboard_time": 1714620857,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 598100,
+      "num": 598100,
+      "word": "马龙止步大满贯32强",
+      "onboard_time": 1715036955,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 596192,
@@ -3313,6 +3321,14 @@
       "onboard_time": 1715002518,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 501688,
+      "num": 501688,
+      "word": "豪宅小区被外卖员吐槽赔钱也不送",
+      "onboard_time": 1715014995,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 501422,
@@ -4003,6 +4019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432353,
+      "num": 432353,
+      "word": "张翰一次开朗换来终生内向",
+      "onboard_time": 1715009239,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432281,
       "num": 432281,
       "word": "广东成立梅大高速塌方灾害调查评估组",
@@ -4417,14 +4441,6 @@
       "onboard_time": 1714556720,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 404762,
-      "num": 404762,
-      "word": "张翰一次开朗换来终生内向",
-      "onboard_time": 1715009239,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 404456,
@@ -5819,12 +5835,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 307256,
-      "num": 307256,
-      "word": "豪宅小区被外卖员吐槽赔钱也不送",
-      "onboard_time": 1715014995,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 304321,
+      "num": 304321,
+      "word": "MetGala红毯",
+      "onboard_time": 1715037075,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 304148,
@@ -6364,7 +6380,7 @@
     },
     {
       "raw_hot": 272003,
-      "num": 109593,
+      "num": 177826,
       "word": "熬夜疲劳可能会让你变臭",
       "onboard_time": 1715017212,
       "rank": 21,
@@ -6899,6 +6915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248308,
+      "num": 248308,
+      "word": "蔡少芬陶昕然体型差",
+      "onboard_time": 1715033953,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248273,
       "num": 248273,
       "word": "古巴旅游",
@@ -7227,6 +7251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 235956,
+      "num": 357489,
+      "word": "男子打球被球友看出面相不对救了一命",
+      "onboard_time": 1715020752,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235545,
       "num": 235545,
       "word": "我已经过了需要你的年龄",
@@ -7241,14 +7273,6 @@
       "onboard_time": 1714711399,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234835,
-      "num": 234835,
-      "word": "蔡少芬陶昕然体型差",
-      "onboard_time": 1715033953,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 234791,
@@ -8043,14 +8067,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 212150,
-      "num": 212150,
-      "word": "马龙止步大满贯32强",
-      "onboard_time": 1715036955,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 212126,
       "num": 212126,
       "word": "极限挑战",
@@ -8065,6 +8081,14 @@
       "onboard_time": 1714708400,
       "rank": 32,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 211756,
+      "num": 211756,
+      "word": "莎头",
+      "onboard_time": 1715037976,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 211434,
@@ -8657,14 +8681,6 @@
       "onboard_time": 1714659859,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201433,
-      "num": 201433,
-      "word": "男子打球被球友看出面相不对救了一命",
-      "onboard_time": 1715020752,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201252,
@@ -9491,6 +9507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191618,
+      "num": 191618,
+      "word": "MetGala主题",
+      "onboard_time": 1715037677,
+      "rank": 16,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 191591,
       "num": 191591,
       "word": "你的脖子是我的绝味",
@@ -9763,6 +9787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187722,
+      "num": 187722,
+      "word": "曼联球迷的命也是命",
+      "onboard_time": 1715037916,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187717,
       "num": 187717,
       "word": "张杰杭州演唱会",
@@ -9873,6 +9905,14 @@
       "onboard_time": 1714655238,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 186705,
+      "num": 186705,
+      "word": "法国总统收到中文图书礼物",
+      "onboard_time": 1715037375,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 186506,
@@ -12323,6 +12363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151558,
+      "num": 151558,
+      "word": "马龙",
+      "onboard_time": 1715037375,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151392,
       "num": 147934,
       "word": "杨蓉当经纪人话术一套一套的",
@@ -12476,7 +12524,7 @@
     },
     {
       "raw_hot": 149270,
-      "num": 74909,
+      "num": 85202,
       "word": "原来减肥更重要的是塑型",
       "onboard_time": 1715013615,
       "rank": 30,
@@ -12553,14 +12601,6 @@
       "onboard_time": 1714523055,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 148922,
-      "num": 148922,
-      "word": "MetGala红毯",
-      "onboard_time": 1715037075,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 148826,
@@ -12761,6 +12801,14 @@
       "onboard_time": 1714638439,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146094,
+      "num": 146094,
+      "word": "济南巨响",
+      "onboard_time": 1715037615,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145868,
@@ -13347,6 +13395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137761,
+      "num": 137761,
+      "word": "二十多岁已经厌烦上班到极致",
+      "onboard_time": 1715016074,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137482,
       "num": 146783,
       "word": "汤杯石宇奇横扫李梓嘉",
@@ -13449,6 +13505,14 @@
       "onboard_time": 1714627758,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136218,
+      "num": 136218,
+      "word": "水晶宫4比0曼联",
+      "onboard_time": 1715037375,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 136177,
@@ -15451,14 +15515,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 108645,
-      "num": 108645,
-      "word": "二十多岁已经厌烦上班到极致",
-      "onboard_time": 1715016074,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 108601,
       "num": 108601,
       "word": "当妈妈交代化冻肉馅我忘了",
@@ -15611,6 +15667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105676,
+      "num": 105676,
+      "word": "马龙0比3张禹珍",
+      "onboard_time": 1715037615,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105168,
       "num": 105168,
       "word": "辽宁男篮犯规",
@@ -15699,6 +15763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102702,
+      "num": 102702,
+      "word": "王楚钦孙颖莎晋级大满贯8强",
+      "onboard_time": 1715037976,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102480,
       "num": 225052,
       "word": "海警位金门附近海域常态执法巡查",
@@ -15744,6 +15816,14 @@
       "word": "2024F1迈阿密大奖赛",
       "onboard_time": 1714778355,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102009,
+      "num": 102009,
+      "word": "陈梦晋级大满贯16强",
+      "onboard_time": 1715037375,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -16011,14 +16091,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 95025,
-      "num": 95025,
-      "word": "水晶宫4比0曼联",
-      "onboard_time": 1715037375,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95016,
       "num": 475435,
       "word": "奇瑞把车从32米高空垂直扔下",
@@ -16057,6 +16129,14 @@
       "onboard_time": 1714786697,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91796,
+      "num": 88746,
+      "word": "找份工作养活自己为什么这么难",
+      "onboard_time": 1715033832,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 91649,
@@ -16299,6 +16379,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 78778,
+      "num": 78778,
+      "word": "庆余年3还能集齐原班人马吗",
+      "onboard_time": 1715017153,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78561,
       "num": 86025,
       "word": "李健昆山演唱会",
@@ -16321,14 +16409,6 @@
       "onboard_time": 1714648037,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77181,
-      "num": 77181,
-      "word": "找份工作养活自己为什么这么难",
-      "onboard_time": 1715033832,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 76917,
@@ -16371,6 +16451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75584,
+      "num": 75584,
+      "word": "携手前行共担风雨共创未来",
+      "onboard_time": 1715038156,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74872,
       "num": 74872,
       "word": "张碧晨演我不愿意早起",
@@ -16393,6 +16481,14 @@
       "onboard_time": 1714486219,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73430,
+      "num": 73430,
+      "word": "范闲暴揍范思辙",
+      "onboard_time": 1715024350,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 73316,
@@ -16443,20 +16539,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69494,
+      "num": 69494,
+      "word": "中法企业家委员会第六次会议闭幕式",
+      "onboard_time": 1715038277,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69417,
       "num": 69417,
       "word": "广东139个暴雨预警生效中",
       "onboard_time": 1714847833,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68580,
-      "num": 68580,
-      "word": "范闲暴揍范思辙",
-      "onboard_time": 1715024350,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 68401,
@@ -16467,12 +16563,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 68242,
-      "num": 68242,
-      "word": "法国总统收到中文图书礼物",
-      "onboard_time": 1715037375,
-      "rank": 35,
-      "category": "国外时政"
+      "raw_hot": 68158,
+      "num": 68158,
+      "word": "谢帝在新说唱向诺米道歉",
+      "onboard_time": 1715038456,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 67821,
@@ -16481,14 +16577,6 @@
       "onboard_time": 1714864874,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67702,
-      "num": 67702,
-      "word": "庆余年3还能集齐原班人马吗",
-      "onboard_time": 1715017153,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 67653,
@@ -16593,6 +16681,14 @@
       "onboard_time": 1714951455,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62622,
+      "num": 620182,
+      "word": "数据盘点五一假期",
+      "onboard_time": 1715000958,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61893,
@@ -16771,14 +16867,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 53570,
-      "num": 620182,
-      "word": "数据盘点五一假期",
-      "onboard_time": 1715000958,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52710,
       "num": 52710,
       "word": "多特蒙德vs巴黎圣日耳曼",
@@ -16875,14 +16963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47822,
-      "num": 47822,
-      "word": "马龙",
-      "onboard_time": 1715037375,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 46359,
       "num": 121142,
       "word": "如果我写家乡",
@@ -16897,14 +16977,6 @@
       "onboard_time": 1714896140,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46225,
-      "num": 46225,
-      "word": "陈梦晋级大满贯16强",
-      "onboard_time": 1715037375,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 46105,
