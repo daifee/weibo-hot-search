@@ -1,6 +1,6 @@
 {
   "startTime": 1714926165838,
-  "endTime": 1714979865225,
+  "endTime": 1714980861589,
   "band_list": [
     {
       "raw_hot": 2835678,
@@ -19,8 +19,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1557128,
-      "num": 315540,
+      "raw_hot": 1616078,
+      "num": 386930,
       "word": "淘宝免单",
       "onboard_time": 1714977378,
       "rank": 49,
@@ -59,20 +59,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1354946,
+      "num": 386898,
+      "word": "张煜东求婚张凯毅",
+      "onboard_time": 1714976659,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1331423,
       "num": 1331423,
       "word": "很快就知道6天有多长了",
       "onboard_time": 1714953438,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1239979,
-      "num": 317186,
-      "word": "张煜东求婚张凯毅",
-      "onboard_time": 1714976659,
-      "rank": 43,
-      "category": "网红"
     },
     {
       "raw_hot": 1232488,
@@ -315,6 +315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 620236,
+      "num": 400897,
+      "word": "迪丽热巴唇环",
+      "onboard_time": 1714976599,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 617143,
       "num": 617143,
       "word": "我的阿勒泰定档",
@@ -339,12 +347,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 575433,
-      "num": 400897,
-      "word": "迪丽热巴唇环",
-      "onboard_time": 1714976599,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 576693,
+      "num": 281058,
+      "word": "月薪4000小伙三年攒下13万",
+      "onboard_time": 1714979718,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 567647,
@@ -427,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 475259,
+      "num": 475259,
+      "word": "AITO汽车发布山西问界M7事故说明",
+      "onboard_time": 1714979659,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 468729,
       "num": 468729,
       "word": "疑理想汽车无人驾驶副驾坐着孩子",
@@ -457,6 +473,14 @@
       "onboard_time": 1714964720,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 438156,
+      "num": 265927,
+      "word": "女子为被性侵的母亲奔波后丢了工作",
+      "onboard_time": 1714980078,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436288,
@@ -531,11 +555,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387703,
+      "num": 387703,
+      "word": "问界回应M7事故四大疑问",
+      "onboard_time": 1714980440,
+      "rank": 8,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 386509,
       "num": 319112,
       "word": "叶灵儿",
       "onboard_time": 1714973900,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 380213,
+      "num": 380213,
+      "word": "周渝民16年后杀回现偶",
+      "onboard_time": 1714975998,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -572,7 +612,7 @@
     },
     {
       "raw_hot": 364053,
-      "num": 220208,
+      "num": 325689,
       "word": "ILLIT听众超过BLACKPINK",
       "onboard_time": 1714977499,
       "rank": 17,
@@ -611,6 +651,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 327335,
+      "num": 327335,
+      "word": "白日提灯",
+      "onboard_time": 1714979957,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316413,
       "num": 316413,
       "word": "日本LV门口排长龙",
@@ -635,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 314706,
+      "num": 314706,
+      "word": "iPhone在华市场份额跌出前5",
+      "onboard_time": 1714978819,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 312733,
       "num": 312733,
       "word": "空包叫花鸡店主称临时工错拿样品",
@@ -651,11 +707,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 297929,
-      "num": 297929,
-      "word": "周渝民16年后杀回现偶",
-      "onboard_time": 1714975998,
-      "rank": 25,
+      "raw_hot": 298489,
+      "num": 251939,
+      "word": "沈眉庄侍寝多次为何没孩子",
+      "onboard_time": 1714978998,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -673,14 +729,6 @@
       "onboard_time": 1714908198,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 293593,
-      "num": 207138,
-      "word": "沈眉庄侍寝多次为何没孩子",
-      "onboard_time": 1714978998,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 286257,
@@ -819,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246328,
+      "num": 246328,
+      "word": "死装男鼻祖杀回来了",
+      "onboard_time": 1714979119,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245697,
       "num": 245697,
       "word": "上班吃同事我觉得不太礼貌",
@@ -873,14 +929,6 @@
       "onboard_time": 1714955720,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222108,
-      "num": 206158,
-      "word": "死装男鼻祖杀回来了",
-      "onboard_time": 1714979119,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 221191,
@@ -969,14 +1017,6 @@
       "onboard_time": 1714971322,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208350,
-      "num": 208350,
-      "word": "iPhone在华市场份额跌出前5",
-      "onboard_time": 1714978819,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 208226,
@@ -1099,6 +1139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193337,
+      "num": 193337,
+      "word": "井柏然要杀入渣男赛道了",
+      "onboard_time": 1714980377,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191709,
       "num": 191709,
       "word": "为什么年轻人流行偷偷领证",
@@ -1113,14 +1161,6 @@
       "onboard_time": 1714970603,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190978,
-      "num": 190978,
-      "word": "AITO汽车发布山西问界M7事故说明",
-      "onboard_time": 1714979659,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 190836,
@@ -1177,14 +1217,6 @@
       "onboard_time": 1714975639,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 184074,
-      "num": 184074,
-      "word": "月薪4000小伙三年攒下13万",
-      "onboard_time": 1714979718,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180141,
@@ -1331,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159396,
+      "num": 159396,
+      "word": "蓝月亮母亲节广告被指刻板印象",
+      "onboard_time": 1714979119,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159293,
       "num": 159293,
       "word": "王一珩 多总去谈生意啦",
@@ -1353,6 +1393,14 @@
       "onboard_time": 1714916902,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 156987,
+      "num": 156987,
+      "word": "王栎鑫问俞灏明腿有多长",
+      "onboard_time": 1714980619,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155712,
@@ -1416,14 +1464,6 @@
       "word": "梅大高速救人司机拟被认定见义勇为",
       "onboard_time": 1714976778,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147004,
-      "num": 147004,
-      "word": "蓝月亮母亲节广告被指刻板印象",
-      "onboard_time": 1714979119,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1499,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133168,
+      "num": 133168,
+      "word": "问界",
+      "onboard_time": 1714980738,
+      "rank": 48,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 132591,
       "num": 132591,
       "word": "毛不易震惊脸",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1714915760,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117743,
+      "num": 117743,
+      "word": "今天的想法都是三个字的",
+      "onboard_time": 1714980738,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 117641,
@@ -1747,8 +1803,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 78492,
+      "num": 387011,
+      "word": "小鸟努力把自己美成了花鸟图",
+      "onboard_time": 1714980258,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76914,
-      "num": 147881,
+      "num": 272785,
       "word": "灭霸vivoX100Ultra来了",
       "onboard_time": 1714979540,
       "rank": 41,

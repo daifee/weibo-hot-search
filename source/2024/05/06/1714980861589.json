@@ -1,0 +1,410 @@
+{
+  "runTime": 1714980861589,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1193300,
+        "num": 1193300,
+        "word": "6月开始涨价的高铁线涉广州",
+        "onboard_time": 1714975339,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 843711,
+        "num": 843711,
+        "word": "一觉醒来朋友圈安静了",
+        "onboard_time": 1714969881,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89707,
+        "num": 719794,
+        "word": "五一假期2575场大型活动顺利举办",
+        "onboard_time": 1714966819,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 631175,
+        "num": 631175,
+        "word": "庆余年2演员变更",
+        "onboard_time": 1714968861,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 564891,
+        "num": 564891,
+        "word": "歌手 首发阵容",
+        "onboard_time": 1714968200,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475259,
+        "num": 475259,
+        "word": "AITO汽车发布山西问界M7事故说明",
+        "onboard_time": 1714979659,
+        "rank": 5,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 485544,
+        "num": 468798,
+        "word": "观众假唱 好小众的文字",
+        "onboard_time": 1714972699,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 453449,
+        "num": 453449,
+        "word": "BLACKPINK合约到期后首次回归",
+        "onboard_time": 1714975099,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 387703,
+        "num": 387703,
+        "word": "问界回应M7事故四大疑问",
+        "onboard_time": 1714980440,
+        "rank": 8,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 78492,
+        "num": 387011,
+        "word": "小鸟努力把自己美成了花鸟图",
+        "onboard_time": 1714980258,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1616078,
+        "num": 386930,
+        "word": "淘宝免单",
+        "onboard_time": 1714977378,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1354946,
+        "num": 386898,
+        "word": "张煜东求婚张凯毅",
+        "onboard_time": 1714976659,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 386810,
+        "num": 386810,
+        "word": "内塔尼亚胡称二战时没有国家援助犹太人",
+        "onboard_time": 1714974318,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 620236,
+        "num": 385787,
+        "word": "迪丽热巴唇环",
+        "onboard_time": 1714976599,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380213,
+        "num": 380213,
+        "word": "周渝民16年后杀回现偶",
+        "onboard_time": 1714975998,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327335,
+        "num": 327335,
+        "word": "白日提灯",
+        "onboard_time": 1714979957,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325689,
+        "num": 325689,
+        "word": "ILLIT听众超过BLACKPINK",
+        "onboard_time": 1714977499,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314706,
+        "num": 314706,
+        "word": "iPhone在华市场份额跌出前5",
+        "onboard_time": 1714978819,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 294702,
+        "num": 294702,
+        "word": "女老师遭网课爆破后死亡9名嫌疑人未成年",
+        "onboard_time": 1714970481,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282895,
+        "num": 282895,
+        "word": "六月份上班好划算",
+        "onboard_time": 1714970541,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 576693,
+        "num": 281058,
+        "word": "月薪4000小伙三年攒下13万",
+        "onboard_time": 1714979718,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68836,
+        "num": 272785,
+        "word": "灭霸vivoX100Ultra来了",
+        "onboard_time": 1714979540,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 464970,
+        "num": 266733,
+        "word": "高铁上2女子因遮光帘来回拉扯40分",
+        "onboard_time": 1714973420,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438156,
+        "num": 265927,
+        "word": "女子为被性侵的母亲奔波后丢了工作",
+        "onboard_time": 1714980078,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358559,
+        "num": 259452,
+        "word": "长期喝白开水和长期喝茶的人身体有什么变化",
+        "onboard_time": 1714963099,
+        "rank": 24,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 298489,
+        "num": 251939,
+        "word": "沈眉庄侍寝多次为何没孩子",
+        "onboard_time": 1714978998,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250538,
+        "num": 250538,
+        "word": "金靖官宣怀孕后首现身机场",
+        "onboard_time": 1714968681,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207676,
+        "num": 248167,
+        "word": "曝iPhone17将推Slim机型",
+        "onboard_time": 1714960398,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 247057,
+        "num": 247057,
+        "word": "叶灵儿",
+        "onboard_time": 1714973900,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246328,
+        "num": 246328,
+        "word": "死装男鼻祖杀回来了",
+        "onboard_time": 1714979119,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230341,
+        "num": 230341,
+        "word": "澳洲玫瑰变二手玫瑰",
+        "onboard_time": 1714971141,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207378,
+        "num": 207378,
+        "word": "爸爸将5个月宝宝举过头顶当伞",
+        "onboard_time": 1714968442,
+        "rank": 31,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 196885,
+        "num": 196885,
+        "word": "抑郁症是攻击性指向自身",
+        "onboard_time": 1714974978,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193337,
+        "num": 193337,
+        "word": "井柏然要杀入渣男赛道了",
+        "onboard_time": 1714980377,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181489,
+        "num": 181489,
+        "word": "男生五一帮父亲砍了1800斤柴",
+        "onboard_time": 1714976719,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174923,
+        "num": 174923,
+        "word": "田曦薇好薄的背",
+        "onboard_time": 1714973239,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160994,
+        "num": 160994,
+        "word": "海来阿木 歌手2024",
+        "onboard_time": 1714969642,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159396,
+        "num": 159396,
+        "word": "蓝月亮母亲节广告被指刻板印象",
+        "onboard_time": 1714979119,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159153,
+        "num": 159153,
+        "word": "泰男子欲性侵遭反杀家属回应",
+        "onboard_time": 1714961958,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158515,
+        "num": 158515,
+        "word": "不如让袁咏琳首发",
+        "onboard_time": 1714978579,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156987,
+        "num": 156987,
+        "word": "王栎鑫问俞灏明腿有多长",
+        "onboard_time": 1714980619,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158325,
+        "num": 156785,
+        "word": "歌手2024音乐合伙人官宣",
+        "onboard_time": 1714966100,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156527,
+        "num": 156527,
+        "word": "越来越多美国人被小费文化逼疯",
+        "onboard_time": 1714977679,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151944,
+        "num": 151944,
+        "word": "河南一出租车坠河5人落水",
+        "onboard_time": 1714978758,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151801,
+        "num": 151801,
+        "word": "五一票房冠军",
+        "onboard_time": 1714966578,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146845,
+        "num": 146845,
+        "word": "凤凰传奇玲花回应观众被质疑假唱",
+        "onboard_time": 1714972400,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144698,
+        "num": 144698,
+        "word": "庆余年2将登央八黄金档",
+        "onboard_time": 1714963698,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133594,
+        "num": 133594,
+        "word": "香飘飘涨停",
+        "onboard_time": 1714969221,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133168,
+        "num": 133168,
+        "word": "问界",
+        "onboard_time": 1714980738,
+        "rank": 48,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 117743,
+        "num": 117743,
+        "word": "今天的想法都是三个字的",
+        "onboard_time": 1714980738,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在法国媒体发表署名文章#"
+    }
+  }
+}

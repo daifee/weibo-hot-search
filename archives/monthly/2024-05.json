@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1714979865225,
+  "endTime": 1714980861589,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -299,6 +299,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1616078,
+      "num": 386930,
+      "word": "淘宝免单",
+      "onboard_time": 1714977378,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1596524,
       "num": 1596524,
       "word": "香飘飘回应讽日事件",
@@ -329,14 +337,6 @@
       "onboard_time": 1714639518,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1557128,
-      "num": 315540,
-      "word": "淘宝免单",
-      "onboard_time": 1714977378,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 1554354,
@@ -523,6 +523,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1354946,
+      "num": 386898,
+      "word": "张煜东求婚张凯毅",
+      "onboard_time": 1714976659,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1343281,
       "num": 315039,
       "word": "怀了两个孩子才知女方已婚",
@@ -657,14 +665,6 @@
       "onboard_time": 1714744701,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1239979,
-      "num": 317186,
-      "word": "张煜东求婚张凯毅",
-      "onboard_time": 1714976659,
-      "rank": 43,
-      "category": "网红"
     },
     {
       "raw_hot": 1239675,
@@ -2283,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 620236,
+      "num": 400897,
+      "word": "迪丽热巴唇环",
+      "onboard_time": 1714976599,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 619742,
       "num": 619742,
       "word": "根本认不出是黄小蕾",
@@ -2467,20 +2475,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 576693,
+      "num": 281058,
+      "word": "月薪4000小伙三年攒下13万",
+      "onboard_time": 1714979718,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 576314,
       "num": 576314,
       "word": "建议大学生提前培养一个小号",
       "onboard_time": 1714736299,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 575433,
-      "num": 400897,
-      "word": "迪丽热巴唇环",
-      "onboard_time": 1714976599,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 574017,
@@ -3179,6 +3187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475259,
+      "num": 475259,
+      "word": "AITO汽车发布山西问界M7事故说明",
+      "onboard_time": 1714979659,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 473482,
       "num": 473482,
       "word": "王昶好帅",
@@ -3545,6 +3561,14 @@
       "onboard_time": 1714724838,
       "rank": 29,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 438156,
+      "num": 265927,
+      "word": "女子为被性侵的母亲奔波后丢了工作",
+      "onboard_time": 1714980078,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437434,
@@ -4195,6 +4219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387703,
+      "num": 387703,
+      "word": "问界回应M7事故四大疑问",
+      "onboard_time": 1714980440,
+      "rank": 8,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 387438,
       "num": 387438,
       "word": "白桃星座",
@@ -4296,6 +4328,14 @@
       "word": "初恋对中年人的杀伤力",
       "onboard_time": 1714577058,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 380213,
+      "num": 380213,
+      "word": "周渝民16年后杀回现偶",
+      "onboard_time": 1714975998,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -4484,7 +4524,7 @@
     },
     {
       "raw_hot": 364053,
-      "num": 220208,
+      "num": 325689,
       "word": "ILLIT听众超过BLACKPINK",
       "onboard_time": 1714977499,
       "rank": 17,
@@ -4963,6 +5003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 327335,
+      "num": 327335,
+      "word": "白日提灯",
+      "onboard_time": 1714979957,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 324756,
       "num": 244944,
       "word": "童瑶自曝不好意思被张新成看",
@@ -5123,6 +5171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 314706,
+      "num": 314706,
+      "word": "iPhone在华市场份额跌出前5",
+      "onboard_time": 1714978819,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 312733,
       "num": 312733,
       "word": "空包叫花鸡店主称临时工错拿样品",
@@ -5275,11 +5331,11 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 297929,
-      "num": 297929,
-      "word": "周渝民16年后杀回现偶",
-      "onboard_time": 1714975998,
-      "rank": 25,
+      "raw_hot": 298489,
+      "num": 251939,
+      "word": "沈眉庄侍寝多次为何没孩子",
+      "onboard_time": 1714978998,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -5329,14 +5385,6 @@
       "onboard_time": 1714817419,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293593,
-      "num": 207138,
-      "word": "沈眉庄侍寝多次为何没孩子",
-      "onboard_time": 1714978998,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 292400,
@@ -6219,6 +6267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246328,
+      "num": 246328,
+      "word": "死装男鼻祖杀回来了",
+      "onboard_time": 1714979119,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246158,
       "num": 246158,
       "word": "日本小学招不到新生招了只山羊",
@@ -6851,14 +6907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222108,
-      "num": 206158,
-      "word": "死装男鼻祖杀回来了",
-      "onboard_time": 1714979119,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 221610,
       "num": 221610,
       "word": "酱园弄",
@@ -7393,14 +7441,6 @@
       "onboard_time": 1714564519,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 208350,
-      "num": 208350,
-      "word": "iPhone在华市场份额跌出前5",
-      "onboard_time": 1714978819,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 208226,
@@ -8459,6 +8499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193337,
+      "num": 193337,
+      "word": "井柏然要杀入渣男赛道了",
+      "onboard_time": 1714980377,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193029,
       "num": 193029,
       "word": "泫雅新歌",
@@ -8569,14 +8617,6 @@
       "onboard_time": 1714899320,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190978,
-      "num": 190978,
-      "word": "AITO汽车发布山西问界M7事故说明",
-      "onboard_time": 1714979659,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 190923,
@@ -9049,14 +9089,6 @@
       "onboard_time": 1714828880,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 184074,
-      "num": 184074,
-      "word": "月薪4000小伙三年攒下13万",
-      "onboard_time": 1714979718,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183923,
@@ -10603,6 +10635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159396,
+      "num": 159396,
+      "word": "蓝月亮母亲节广告被指刻板印象",
+      "onboard_time": 1714979119,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159363,
       "num": 159363,
       "word": "骑大马",
@@ -10745,6 +10785,14 @@
       "onboard_time": 1714658900,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156987,
+      "num": 156987,
+      "word": "王栎鑫问俞灏明腿有多长",
+      "onboard_time": 1714980619,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156880,
@@ -11432,14 +11480,6 @@
       "word": "梅大高速救人司机拟被认定见义勇为",
       "onboard_time": 1714976778,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147004,
-      "num": 147004,
-      "word": "蓝月亮母亲节广告被指刻板印象",
-      "onboard_time": 1714979119,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -12329,6 +12369,14 @@
       "onboard_time": 1714715838,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133168,
+      "num": 133168,
+      "word": "问界",
+      "onboard_time": 1714980738,
+      "rank": 48,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 133151,
@@ -13425,6 +13473,14 @@
       "onboard_time": 1714698018,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 117743,
+      "num": 117743,
+      "word": "今天的想法都是三个字的",
+      "onboard_time": 1714980738,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 117721,
@@ -14883,6 +14939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 78492,
+      "num": 387011,
+      "word": "小鸟努力把自己美成了花鸟图",
+      "onboard_time": 1714980258,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77325,
       "num": 413186,
       "word": "五一假期簪花小姐姐齐聚起凤桥",
@@ -14900,7 +14964,7 @@
     },
     {
       "raw_hot": 76914,
-      "num": 147881,
+      "num": 272785,
       "word": "灭霸vivoX100Ultra来了",
       "onboard_time": 1714979540,
       "rank": 41,
