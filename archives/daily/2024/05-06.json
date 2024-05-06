@@ -1,6 +1,6 @@
 {
   "startTime": 1714926165838,
-  "endTime": 1714970139201,
+  "endTime": 1714972762118,
   "band_list": [
     {
       "raw_hot": 2835678,
@@ -51,6 +51,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1219968,
+      "num": 1219968,
+      "word": "一觉醒来朋友圈安静了",
+      "onboard_time": 1714969881,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1178685,
+      "num": 1178685,
+      "word": "庆余年2演员变更",
+      "onboard_time": 1714968861,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1156957,
       "num": 691364,
       "word": "司马光 对不起让大家失望了",
@@ -73,14 +89,6 @@
       "onboard_time": 1714951455,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1061746,
-      "num": 752728,
-      "word": "庆余年2演员变更",
-      "onboard_time": 1714968861,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 1056927,
@@ -123,6 +131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 867606,
+      "num": 481385,
+      "word": "女老师遭网课爆破后死亡9名嫌疑人未成年",
+      "onboard_time": 1714970481,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 860372,
       "num": 532165,
       "word": "黄子韬撩徐艺洋",
@@ -153,6 +169,22 @@
       "onboard_time": 1714917921,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771684,
+      "num": 289758,
+      "word": "爸爸将5个月宝宝举过头顶当伞",
+      "onboard_time": 1714968442,
+      "rank": 32,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 756363,
+      "num": 310688,
+      "word": "金靖官宣怀孕后首现身机场",
+      "onboard_time": 1714968681,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 751270,
@@ -195,6 +227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 675577,
+      "num": 675577,
+      "word": "六月份上班好划算",
+      "onboard_time": 1714970541,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 670939,
       "num": 670939,
       "word": "清水镇的水是脏水的水",
@@ -227,12 +267,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 596021,
-      "num": 310688,
-      "word": "金靖官宣怀孕后首现身机场",
-      "onboard_time": 1714968681,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 593557,
+      "num": 478682,
+      "word": "香飘飘涨停",
+      "onboard_time": 1714969221,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 592086,
+      "num": 551310,
+      "word": "澳洲玫瑰变二手玫瑰",
+      "onboard_time": 1714971141,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 567647,
@@ -355,14 +403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 416289,
-      "num": 289758,
-      "word": "爸爸将5个月宝宝举过头顶当伞",
-      "onboard_time": 1714968442,
-      "rank": 32,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 411733,
       "num": 274903,
       "word": "泫雅一个月晕倒12次",
@@ -451,12 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 348408,
-      "num": 348408,
-      "word": "香飘飘涨停",
-      "onboard_time": 1714969221,
-      "rank": 19,
-      "category": "财经"
+      "raw_hot": 345488,
+      "num": 300453,
+      "word": "海来阿木 歌手2024",
+      "onboard_time": 1714969642,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 334372,
@@ -465,14 +505,6 @@
       "onboard_time": 1714922963,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 326421,
-      "num": 289263,
-      "word": "海来阿木 歌手2024",
-      "onboard_time": 1714969642,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 316149,
@@ -675,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234004,
+      "num": 234004,
+      "word": "杨紫纯白新中式",
+      "onboard_time": 1714970722,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 233648,
       "num": 233648,
       "word": "特斯拉回应金华事故",
@@ -697,14 +737,6 @@
       "onboard_time": 1714955720,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227226,
-      "num": 227226,
-      "word": "一觉醒来朋友圈安静了",
-      "onboard_time": 1714969881,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 221191,
@@ -755,12 +787,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208919,
+      "num": 208919,
+      "word": "背着善宰跑 接吻的人会结婚",
+      "onboard_time": 1714971322,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208226,
       "num": 208226,
       "word": "伯纳德希尔去世",
       "onboard_time": 1714951516,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207238,
+      "num": 207238,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1714970782,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 202948,
@@ -819,6 +867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194799,
+      "num": 194799,
+      "word": "观众假唱 好小众的文字",
+      "onboard_time": 1714972699,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193651,
       "num": 193651,
       "word": "开推造型师",
@@ -843,12 +899,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191591,
+      "num": 191591,
+      "word": "你的脖子是我的绝味",
+      "onboard_time": 1714970603,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189675,
       "num": 189675,
       "word": "室友讨厌甄嬛的理由",
       "onboard_time": 1714913599,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189507,
+      "num": 189507,
+      "word": "凤凰传奇玲花回应观众被质疑假唱",
+      "onboard_time": 1714972400,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 187092,
@@ -987,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160582,
+      "num": 160582,
+      "word": "沈月高至霆孙宁再合作",
+      "onboard_time": 1714970242,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159293,
       "num": 159293,
       "word": "王一珩 多总去谈生意啦",
@@ -1011,12 +1091,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157073,
+      "num": 199449,
+      "word": "休五天上六天划算吗",
+      "onboard_time": 1714971201,
+      "rank": 29,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 154995,
       "num": 154995,
       "word": "明日方舟 伊内丝Mantra",
       "onboard_time": 1714969162,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152783,
+      "num": 152783,
+      "word": "五一日本成出境游最大赢家",
+      "onboard_time": 1714971080,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 149152,
+      "num": 149152,
+      "word": "通过猜口型告诉父亲自己癌症痊愈",
+      "onboard_time": 1714970661,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 148342,
@@ -1052,7 +1156,7 @@
     },
     {
       "raw_hot": 144601,
-      "num": 780378,
+      "num": 1185241,
       "word": "五一假期2575场大型活动顺利举办",
       "onboard_time": 1714966819,
       "rank": 2,
@@ -1433,6 +1537,14 @@
       "onboard_time": 1714914019,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27961,
+      "num": 208927,
+      "word": "杨紫节后开工妆",
+      "onboard_time": 1714970901,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 24592,
