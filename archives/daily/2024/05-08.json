@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715098889558,
+  "endTime": 1715099866976,
   "band_list": [
     {
       "raw_hot": 1143072,
@@ -11,11 +11,19 @@
       "category": "数码"
     },
     {
-      "raw_hot": 761128,
+      "raw_hot": 790458,
       "num": 475926,
       "word": "我iPad也要低人一等了",
       "onboard_time": 1715094021,
       "rank": 3,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 751947,
+      "num": 461289,
+      "word": "新款iPad价格",
+      "onboard_time": 1715093599,
+      "rank": 4,
       "category": "数码"
     },
     {
@@ -25,14 +33,6 @@
       "onboard_time": 1715094980,
       "rank": 11,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 644680,
-      "num": 461289,
-      "word": "新款iPad价格",
-      "onboard_time": 1715093599,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 618844,
@@ -59,20 +59,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 513912,
+      "num": 490550,
+      "word": "长效避孕药不能突然停药",
+      "onboard_time": 1715096599,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 509512,
       "num": 509512,
       "word": "这个宝宝一出生就15岁了",
       "onboard_time": 1715087539,
       "rank": 1,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 439405,
-      "num": 354132,
-      "word": "长效避孕药不能突然停药",
-      "onboard_time": 1715096599,
-      "rank": 12,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 413203,
@@ -131,6 +131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 279462,
+      "num": 279462,
+      "word": "女子租房9个多月发现对面是墓地",
+      "onboard_time": 1715097557,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252924,
       "num": 218664,
       "word": "金秀贤泡泡",
@@ -179,14 +187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185118,
-      "num": 239856,
-      "word": "女子租房9个多月发现对面是墓地",
-      "onboard_time": 1715097557,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181232,
       "num": 181232,
       "word": "刘涛说郑佩佩身体已经不太好了",
@@ -195,12 +195,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167424,
-      "num": 167424,
+      "raw_hot": 179893,
+      "num": 179893,
       "word": "M4",
       "onboard_time": 1715095702,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 171768,
+      "num": 204865,
+      "word": "马来西亚女童弄坏橡皮擦遭同学性侵",
+      "onboard_time": 1715098875,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165524,
@@ -249,6 +257,14 @@
       "onboard_time": 1715082739,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 126500,
+      "num": 126500,
+      "word": "学车竟然被一只狗安慰到了",
+      "onboard_time": 1715098458,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 126435,
@@ -347,20 +363,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92781,
-      "num": 92781,
-      "word": "学车竟然被一只狗安慰到了",
-      "onboard_time": 1715098458,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 76683,
       "num": 76683,
       "word": "TES巅峰对决eStar",
       "onboard_time": 1715094741,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75646,
+      "num": 86136,
+      "word": "晚睡会影响女性卵巢功能",
+      "onboard_time": 1715099656,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 75411,
+      "num": 85633,
+      "word": "陶昕然妈妈年轻时撞脸虞书欣",
+      "onboard_time": 1715084960,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 73953,
@@ -377,14 +401,6 @@
       "onboard_time": 1715093361,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 71482,
-      "num": 71482,
-      "word": "马来西亚女童弄坏橡皮擦遭同学性侵",
-      "onboard_time": 1715098875,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43122,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#习近平抵达塔布#"
+    },
+    {
+      "word": "#马克龙总统夫妇机场迎接习主席#"
     }
   ]
 }
