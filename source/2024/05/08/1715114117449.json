@@ -1,0 +1,410 @@
+{
+  "runTime": 1715114117449,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 57828,
+        "num": 57828,
+        "word": "这个宝宝一出生就15岁了",
+        "onboard_time": 1715087539,
+        "rank": 0,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 25964,
+        "num": 53642,
+        "word": "建议一次食用小龙虾不超10只",
+        "onboard_time": 1715079138,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 10408,
+        "num": 51489,
+        "word": "为中法建交精神赋予新的时代内涵",
+        "onboard_time": 1715088260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92864,
+        "num": 51052,
+        "word": "马来西亚女童弄坏橡皮擦遭同学性侵",
+        "onboard_time": 1715098875,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50387,
+        "num": 50387,
+        "word": "山航客机事故发生前跑道曾被要求整改",
+        "onboard_time": 1715100975,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43105,
+        "num": 43105,
+        "word": "小杨哥称在发现高价水之后就要求降价",
+        "onboard_time": 1715088199,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35428,
+        "num": 35428,
+        "word": "这种毒碗你家可能天天都在用",
+        "onboard_time": 1715088020,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 29461,
+        "num": 35384,
+        "word": "韩国民众吐槽五花肉太肥",
+        "onboard_time": 1715081540,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27897,
+        "num": 35357,
+        "word": "迪丽热巴美得摄人心魄",
+        "onboard_time": 1715111290,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10605,
+        "num": 35283,
+        "word": "小朋友用特种兵式旅游爆改儿歌",
+        "onboard_time": 1715091802,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141039,
+        "num": 35237,
+        "word": "百度副总裁被曝安排工作言辞激烈",
+        "onboard_time": 1715109252,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 68738,
+        "num": 35140,
+        "word": "新款iPad价格",
+        "onboard_time": 1715093599,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 47287,
+        "num": 35103,
+        "word": "我iPad也要低人一等了",
+        "onboard_time": 1715094021,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 39143,
+        "num": 35041,
+        "word": "于正关注Zzr",
+        "onboard_time": 1715108171,
+        "rank": 13,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 34988,
+        "num": 34988,
+        "word": "研究称胖男人生育力更差",
+        "onboard_time": 1715094980,
+        "rank": 14,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 34898,
+        "num": 34898,
+        "word": "苹果发布会",
+        "onboard_time": 1715090720,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 33634,
+        "num": 33634,
+        "word": "女子租房9个多月发现对面是墓地",
+        "onboard_time": 1715097557,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29651,
+        "num": 29651,
+        "word": "iPhone 散热",
+        "onboard_time": 1715093302,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26198,
+        "num": 26198,
+        "word": "刘涛说郑佩佩身体已经不太好了",
+        "onboard_time": 1715068938,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23128,
+        "num": 23128,
+        "word": "新iPadPro从M2直接跃升至M4",
+        "onboard_time": 1715092641,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 48590,
+        "num": 22898,
+        "word": "37岁从确诊肺癌到去世仅2周",
+        "onboard_time": 1715092281,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38542,
+        "num": 22870,
+        "word": "晚睡会影响女性卵巢功能",
+        "onboard_time": 1715099656,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22604,
+        "num": 22604,
+        "word": "这6种异常表现或是恶性肿瘤上身了",
+        "onboard_time": 1715093000,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22453,
+        "num": 22453,
+        "word": "iPad Pro",
+        "onboard_time": 1715093361,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 21413,
+        "num": 21413,
+        "word": "警方通报太原一男子发表辱华言论",
+        "onboard_time": 1715093181,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21072,
+        "num": 21072,
+        "word": "难怪校长爱看小孩跑操",
+        "onboard_time": 1715092401,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20687,
+        "num": 20687,
+        "word": "苹果发布新款iPad",
+        "onboard_time": 1715091861,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 20652,
+        "num": 20652,
+        "word": "周鸿祎直播发飙",
+        "onboard_time": 1715082739,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20643,
+        "num": 20643,
+        "word": "宋仲基宋慧乔将出席百想",
+        "onboard_time": 1715063959,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19462,
+        "num": 19462,
+        "word": "M4",
+        "onboard_time": 1715095702,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 19446,
+        "num": 19446,
+        "word": "汤唯为金高银颁奖",
+        "onboard_time": 1715082919,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19281,
+        "num": 19281,
+        "word": "长效避孕药不能突然停药",
+        "onboard_time": 1715096599,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18855,
+        "num": 18855,
+        "word": "新款iPadAir11英寸起售价599美元",
+        "onboard_time": 1715091981,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18770,
+        "num": 18770,
+        "word": "金秀贤泡泡",
+        "onboard_time": 1715092340,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18573,
+        "num": 18573,
+        "word": "背着善宰跑",
+        "onboard_time": 1715087720,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18468,
+        "num": 18468,
+        "word": "秦岚45岁身材管理",
+        "onboard_time": 1715084659,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18181,
+        "num": 18181,
+        "word": "陶昕然妈妈年轻时撞脸虞书欣",
+        "onboard_time": 1715084960,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18095,
+        "num": 18095,
+        "word": "新款iPadAir新增13英寸机型",
+        "onboard_time": 1715092281,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17637,
+        "num": 17637,
+        "word": "警方再通报镇雄恶性伤人事件",
+        "onboard_time": 1715089159,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15883,
+        "num": 17282,
+        "word": "1999年5月7日 中国人不忘记",
+        "onboard_time": 1715062879,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17074,
+        "num": 17074,
+        "word": "真的讨厌HR问我空窗期干嘛了",
+        "onboard_time": 1715105471,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16349,
+        "num": 16349,
+        "word": "马思纯蕾丝德训鞋",
+        "onboard_time": 1715094561,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15798,
+        "num": 15798,
+        "word": "娜扎脚腕纹身",
+        "onboard_time": 1715078539,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15602,
+        "num": 15602,
+        "word": "Alielie发文澄清",
+        "onboard_time": 1715108591,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15560,
+        "num": 15560,
+        "word": "新款iPadPro搭载M4芯片",
+        "onboard_time": 1715092881,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 15482,
+        "num": 15482,
+        "word": "中法元首夫妇观看法国民间舞蹈表演",
+        "onboard_time": 1715101633,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15167,
+        "num": 15167,
+        "word": "iPad 泡面盖",
+        "onboard_time": 1715094561,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 15082,
+        "num": 15082,
+        "word": "李到晛 智妍呐谢谢你",
+        "onboard_time": 1715090299,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15040,
+        "num": 15040,
+        "word": "金智媛和她的男主角们",
+        "onboard_time": 1715087780,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14360,
+        "num": 14360,
+        "word": "情侣同居要检测HPV",
+        "onboard_time": 1715072239,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#马克龙总统夫妇机场迎接习主席#"
+    }
+  }
+}
