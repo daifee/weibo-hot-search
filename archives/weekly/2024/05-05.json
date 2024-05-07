@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715056533485,
+  "endTime": 1715059188173,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -193,6 +193,14 @@
       "onboard_time": 1714969881,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1439772,
+      "num": 842452,
+      "word": "一个单位三个癌症患者",
+      "onboard_time": 1715053999,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1416658,
@@ -515,6 +523,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 995924,
+      "num": 995924,
+      "word": "蝴蝶停在新郎胸口那一刻心震了",
+      "onboard_time": 1715052258,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 950056,
       "num": 950056,
       "word": "中国游客日本人均消费近30万日元",
@@ -576,14 +592,6 @@
       "word": "女子租房2年多意外发现暗藏摄像头",
       "onboard_time": 1715053640,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 892886,
-      "num": 892886,
-      "word": "蝴蝶停在新郎胸口那一刻心震了",
-      "onboard_time": 1715052258,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -859,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 728358,
+      "num": 465372,
+      "word": "马龙贴脸怒吼裁判",
+      "onboard_time": 1715058200,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 726790,
       "num": 726790,
       "word": "迪丽热巴编发红玫瑰",
@@ -939,14 +955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 701766,
-      "num": 460119,
-      "word": "一个单位三个癌症患者",
-      "onboard_time": 1715053999,
-      "rank": 15,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 699320,
       "num": 432353,
       "word": "张翰一次开朗换来终生内向",
@@ -1011,6 +1019,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 658402,
+      "num": 658402,
+      "word": "歌手2024主持人阵容",
+      "onboard_time": 1715056521,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 654534,
       "num": 654534,
       "word": "杨鸣贴脸暴怒",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1715043440,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 648859,
+      "num": 648859,
+      "word": "歌手 杨丞琳",
+      "onboard_time": 1715054660,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 648741,
@@ -1145,14 +1169,6 @@
       "onboard_time": 1714990518,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 611579,
-      "num": 611579,
-      "word": "歌手 杨丞琳",
-      "onboard_time": 1715054660,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 610679,
@@ -1579,6 +1595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 477572,
+      "num": 477572,
+      "word": "朱婷无缘中国女排世联赛首站",
+      "onboard_time": 1715055080,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 477420,
       "num": 477420,
       "word": "周扬青 带经纪人录节目的一天",
@@ -1827,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 432062,
+      "num": 432062,
+      "word": "iPhone16ProMax或有这些变化",
+      "onboard_time": 1715055439,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 427983,
       "num": 427983,
       "word": "IU捐赠1亿韩元",
@@ -1985,6 +2017,14 @@
       "onboard_time": 1714902139,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402278,
+      "num": 402278,
+      "word": "百度副总裁5天涨粉百万账号系购买",
+      "onboard_time": 1715057120,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 402148,
@@ -2539,14 +2579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 318703,
-      "num": 318703,
-      "word": "朱婷无缘中国女排世联赛首站",
-      "onboard_time": 1715055080,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 317050,
       "num": 317050,
       "word": "金莎看自己演风吹半夏哭了",
@@ -2635,11 +2667,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 310703,
-      "num": 310703,
-      "word": "iPhone16ProMax或有这些变化",
-      "onboard_time": 1715055439,
-      "rank": 35,
+      "raw_hot": 311373,
+      "num": 311373,
+      "word": "曝iPhone17Pro迈入12GB内存时代",
+      "onboard_time": 1715057842,
+      "rank": 23,
       "category": "数码"
     },
     {
@@ -3043,6 +3075,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 260803,
+      "num": 260803,
+      "word": "谢娜白色吊带",
+      "onboard_time": 1715058620,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 260456,
       "num": 260456,
       "word": "小龙虾每斤8元",
@@ -3081,6 +3121,14 @@
       "onboard_time": 1715001138,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257315,
+      "num": 257315,
+      "word": "朱丹看Lucky和妈妈对暗号哭了",
+      "onboard_time": 1715056041,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 256797,
@@ -3395,6 +3443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227953,
+      "num": 227953,
+      "word": "北方的面包不给切片吗",
+      "onboard_time": 1715058382,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 227775,
       "num": 227775,
       "word": "孙俪早六运动",
@@ -3441,14 +3497,6 @@
       "onboard_time": 1714913900,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 225275,
-      "num": 225275,
-      "word": "朱丹看Lucky和妈妈对暗号哭了",
-      "onboard_time": 1715056041,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 225264,
@@ -3579,6 +3627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216219,
+      "num": 216219,
+      "word": "2024国考补录人数涨幅超20%",
+      "onboard_time": 1715055801,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 216120,
       "num": 216120,
       "word": "婴儿在公共场所哭闹",
@@ -3659,6 +3715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213480,
+      "num": 213480,
+      "word": "范丞丞 绝味鸭脖",
+      "onboard_time": 1715058740,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213288,
       "num": 213288,
       "word": "恋与深空",
@@ -3673,14 +3737,6 @@
       "onboard_time": 1714991238,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 212467,
-      "num": 212467,
-      "word": "2024国考补录人数涨幅超20%",
-      "onboard_time": 1715055801,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 212126,
@@ -3801,6 +3857,14 @@
       "onboard_time": 1714970782,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 207150,
+      "num": 207150,
+      "word": "穆雷可能被禁赛",
+      "onboard_time": 1715058499,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 206674,
@@ -3929,6 +3993,14 @@
       "onboard_time": 1714899260,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200604,
+      "num": 200604,
+      "word": "Jennie和StrayKids合照",
+      "onboard_time": 1715059099,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200580,
@@ -4131,6 +4203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194849,
+      "num": 194849,
+      "word": "宁波一保时捷发生严重车祸",
+      "onboard_time": 1715058918,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194840,
       "num": 194840,
       "word": "王楚钦3比0约内斯库",
@@ -4275,6 +4355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192179,
+      "num": 192179,
+      "word": "极挑男团给黄晓明选的睡衣",
+      "onboard_time": 1715057660,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191709,
       "num": 191709,
       "word": "为什么年轻人流行偷偷领证",
@@ -4353,6 +4441,14 @@
       "onboard_time": 1715046976,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189487,
+      "num": 189487,
+      "word": "森林狼2比0掘金",
+      "onboard_time": 1715058141,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 188877,
@@ -4521,6 +4617,14 @@
       "onboard_time": 1714865295,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184279,
+      "num": 184279,
+      "word": "Doinb说老头杯mlxg先红温",
+      "onboard_time": 1715058980,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 184025,
@@ -4947,14 +5051,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 172089,
-      "num": 172089,
-      "word": "歌手2024主持人阵容",
-      "onboard_time": 1715056521,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171814,
       "num": 217956,
       "word": "从鹈鹕嘴里掏出被吞的鸭子同事",
@@ -4993,6 +5089,14 @@
       "onboard_time": 1715007080,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 170581,
+      "num": 170581,
+      "word": "小龙虾血是什么颜色的",
+      "onboard_time": 1715056941,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 169989,
@@ -6459,6 +6563,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 113887,
+      "num": 318411,
+      "word": "法国面包师烤出140米长法棍",
+      "onboard_time": 1715058382,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113845,
       "num": 113845,
       "word": "向佐终于被认可了",
@@ -6787,6 +6899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79735,
+      "num": 1117280,
+      "word": "中法重量级高规格活动上的企业家",
+      "onboard_time": 1715054899,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78778,
       "num": 78778,
       "word": "庆余年3还能集齐原班人马吗",
@@ -6841,14 +6961,6 @@
       "onboard_time": 1714819579,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 73691,
-      "num": 1117280,
-      "word": "中法重量级高规格活动上的企业家",
-      "onboard_time": 1715054899,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73430,
@@ -7305,6 +7417,9 @@
     },
     {
       "word": "#中法元首互赠奥运火炬#"
+    },
+    {
+      "word": "#携手开创中法合作新时代#"
     }
   ]
 }
