@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715110447491,
+  "endTime": 1715112945313,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -7507,6 +7507,14 @@
       "category": "旅游,财经"
     },
     {
+      "raw_hot": 138251,
+      "num": 42290,
+      "word": "百度副总裁被曝安排工作言辞激烈",
+      "onboard_time": 1715109252,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 137735,
       "num": 137735,
       "word": "新生",
@@ -8875,6 +8883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40940,
+      "num": 40940,
+      "word": "于正关注Zzr",
+      "onboard_time": 1715108171,
+      "rank": 28,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 39244,
       "num": 39244,
       "word": "真的讨厌HR问我空窗期干嘛了",
@@ -8889,14 +8905,6 @@
       "onboard_time": 1714929853,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36202,
-      "num": 36202,
-      "word": "百度副总裁被曝安排工作言辞激烈",
-      "onboard_time": 1715109252,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 36019,
@@ -8955,14 +8963,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 28091,
-      "num": 28091,
-      "word": "于正关注Zzr",
-      "onboard_time": 1715108171,
-      "rank": 28,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 27961,
       "num": 334939,
       "word": "杨紫节后开工妆",
@@ -8985,6 +8985,14 @@
       "onboard_time": 1715019252,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24852,
+      "num": 24852,
+      "word": "迪丽热巴美得摄人心魄",
+      "onboard_time": 1715111290,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 24592,
