@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715077197312,
+  "endTime": 1715078182898,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -2971,6 +2971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 311909,
+      "num": 311909,
+      "word": "Mayumi背叛了JackeyLove",
+      "onboard_time": 1715075659,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 308717,
       "num": 308717,
       "word": "森林狼打爆掘金",
@@ -3091,6 +3099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293880,
+      "num": 293880,
+      "word": "南方连面包都给切了",
+      "onboard_time": 1715072239,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 290685,
       "num": 290685,
       "word": "专家称高铁涨价是必要的",
@@ -3137,14 +3153,6 @@
       "onboard_time": 1714984219,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 284400,
-      "num": 284400,
-      "word": "Mayumi背叛了JackeyLove",
-      "onboard_time": 1715075659,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 283863,
@@ -3323,6 +3331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 271852,
+      "num": 271852,
+      "word": "Switch2",
+      "onboard_time": 1715074759,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 271706,
       "num": 271706,
       "word": "青山刚昌 试着用孩童的眼睛看世界",
@@ -3459,6 +3475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 262865,
+      "num": 262865,
+      "word": "卢昱晓 惜花芷真的好看",
+      "onboard_time": 1715076019,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261313,
       "num": 261313,
       "word": "学历大幅贬值了吗",
@@ -3481,14 +3505,6 @@
       "onboard_time": 1714909519,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 258884,
-      "num": 258884,
-      "word": "南方连面包都给切了",
-      "onboard_time": 1715072239,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 258330,
@@ -3555,14 +3571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 254088,
-      "num": 254088,
-      "word": "Switch2",
-      "onboard_time": 1715074759,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 253548,
       "num": 253548,
       "word": "给李明德一个机会",
@@ -3585,14 +3593,6 @@
       "onboard_time": 1714959978,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251715,
-      "num": 251715,
-      "word": "卢昱晓 惜花芷真的好看",
-      "onboard_time": 1715076019,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 250386,
@@ -3937,6 +3937,14 @@
       "onboard_time": 1714913900,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 225541,
+      "num": 225541,
+      "word": "秦岚说娜扎太容易被骗了",
+      "onboard_time": 1715076918,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 225264,
@@ -4491,6 +4499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200854,
+      "num": 200854,
+      "word": "张踩铃 大胖媳妇的感人瞬间",
+      "onboard_time": 1715077339,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 200628,
       "num": 189270,
       "word": "杨紫张一山认识20年了",
@@ -4833,6 +4849,14 @@
       "onboard_time": 1715070200,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193091,
+      "num": 193091,
+      "word": "TES对战TL",
+      "onboard_time": 1715077098,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 192971,
@@ -5859,6 +5883,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164940,
+      "num": 164940,
+      "word": "第60届百想艺术大赏",
+      "onboard_time": 1715067200,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 164771,
+      "num": 164771,
+      "word": "百想 切镜头",
+      "onboard_time": 1715077699,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164531,
       "num": 164531,
       "word": "郭艾伦回复刘畊宏",
@@ -6035,14 +6075,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159409,
-      "num": 159409,
-      "word": "秦岚说娜扎太容易被骗了",
-      "onboard_time": 1715076918,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159396,
       "num": 159396,
       "word": "蓝月亮母亲节广告被指刻板印象",
@@ -6105,14 +6137,6 @@
       "onboard_time": 1715007201,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 158102,
-      "num": 158102,
-      "word": "第60届百想艺术大赏",
-      "onboard_time": 1715067200,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 157643,
@@ -6651,6 +6675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139697,
+      "num": 139697,
+      "word": "Jennie网格鞋",
+      "onboard_time": 1715077878,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 139121,
       "num": 139121,
       "word": "凤凰传奇演唱会 嗓子哑了",
@@ -6779,14 +6811,6 @@
       "category": "科学科普,情感"
     },
     {
-      "raw_hot": 133403,
-      "num": 133403,
-      "word": "TES对战TL",
-      "onboard_time": 1715077098,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 133168,
       "num": 133168,
       "word": "问界",
@@ -6849,6 +6873,14 @@
       "onboard_time": 1714871658,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 131741,
+      "num": 665594,
+      "word": "青岛有家只有7平米4把椅子的咖啡屋",
+      "onboard_time": 1715075418,
+      "rank": 7,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 131578,
@@ -7283,6 +7315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114800,
+      "num": 114800,
+      "word": "上海医院治愈一25年糖尿病病史患者",
+      "onboard_time": 1715078118,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114732,
       "num": 114732,
       "word": "云南怎么什么节日都有",
@@ -7385,14 +7425,6 @@
       "onboard_time": 1715037615,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104877,
-      "num": 622776,
-      "word": "青岛有家只有7平米4把椅子的咖啡屋",
-      "onboard_time": 1715075418,
-      "rank": 7,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 104874,

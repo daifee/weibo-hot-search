@@ -1,6 +1,6 @@
 {
   "startTime": 1715012728684,
-  "endTime": 1715077197312,
+  "endTime": 1715078182898,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -843,6 +843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 311909,
+      "num": 311909,
+      "word": "Mayumi背叛了JackeyLove",
+      "onboard_time": 1715075659,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 308717,
       "num": 308717,
       "word": "森林狼打爆掘金",
@@ -907,20 +915,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293880,
+      "num": 293880,
+      "word": "南方连面包都给切了",
+      "onboard_time": 1715072239,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 288841,
       "num": 261450,
       "word": "杨幂曾问邓超亚比是什么",
       "onboard_time": 1715005520,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284400,
-      "num": 284400,
-      "word": "Mayumi背叛了JackeyLove",
-      "onboard_time": 1715075659,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 283840,
@@ -1011,6 +1019,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 271852,
+      "num": 271852,
+      "word": "Switch2",
+      "onboard_time": 1715074759,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 269047,
       "num": 269047,
       "word": "经常吃腰子的人身体会有什么变化",
@@ -1059,20 +1075,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 262865,
+      "num": 262865,
+      "word": "卢昱晓 惜花芷真的好看",
+      "onboard_time": 1715076019,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262275,
       "num": 274815,
       "word": "徐园男友有3次暴力前科",
       "onboard_time": 1715007981,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258884,
-      "num": 258884,
-      "word": "南方连面包都给切了",
-      "onboard_time": 1715072239,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 257315,
@@ -1091,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254088,
-      "num": 254088,
-      "word": "Switch2",
-      "onboard_time": 1715074759,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 253548,
       "num": 253548,
       "word": "给李明德一个机会",
@@ -1113,14 +1121,6 @@
       "onboard_time": 1715065339,
       "rank": 24,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 251715,
-      "num": 251715,
-      "word": "卢昱晓 惜花芷真的好看",
-      "onboard_time": 1715076019,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 250386,
@@ -1185,6 +1185,14 @@
       "onboard_time": 1715016074,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225541,
+      "num": 225541,
+      "word": "秦岚说娜扎太容易被骗了",
+      "onboard_time": 1715076918,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 224395,
@@ -1363,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200854,
+      "num": 200854,
+      "word": "张踩铃 大胖媳妇的感人瞬间",
+      "onboard_time": 1715077339,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 200160,
       "num": 200160,
       "word": "电影美国内战确认引进",
@@ -1417,6 +1433,14 @@
       "onboard_time": 1715070200,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193091,
+      "num": 193091,
+      "word": "TES对战TL",
+      "onboard_time": 1715077098,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 192535,
@@ -1683,12 +1707,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164940,
+      "num": 164940,
+      "word": "第60届百想艺术大赏",
+      "onboard_time": 1715067200,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164820,
       "num": 164820,
       "word": "内娱直播考研上岸第一人",
       "onboard_time": 1714991359,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164771,
+      "num": 164771,
+      "word": "百想 切镜头",
+      "onboard_time": 1715077699,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 163527,
@@ -1737,22 +1777,6 @@
       "onboard_time": 1715000358,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159409,
-      "num": 159409,
-      "word": "秦岚说娜扎太容易被骗了",
-      "onboard_time": 1715076918,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 158102,
-      "num": 158102,
-      "word": "第60届百想艺术大赏",
-      "onboard_time": 1715067200,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 157643,
@@ -1923,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139697,
+      "num": 139697,
+      "word": "Jennie网格鞋",
+      "onboard_time": 1715077878,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 139578,
       "num": 139578,
       "word": "俄乌局势新进展",
@@ -1971,12 +2003,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133403,
-      "num": 133403,
-      "word": "TES对战TL",
-      "onboard_time": 1715077098,
-      "rank": 46,
-      "category": "电竞"
+      "raw_hot": 131741,
+      "num": 665594,
+      "word": "青岛有家只有7平米4把椅子的咖啡屋",
+      "onboard_time": 1715075418,
+      "rank": 7,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 130965,
@@ -2067,6 +2099,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 114800,
+      "num": 114800,
+      "word": "上海医院治愈一25年糖尿病病史患者",
+      "onboard_time": 1715078118,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112461,
       "num": 1351440,
       "word": "数据盘点五一假期",
@@ -2089,14 +2129,6 @@
       "onboard_time": 1715037615,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104877,
-      "num": 622776,
-      "word": "青岛有家只有7平米4把椅子的咖啡屋",
-      "onboard_time": 1715075418,
-      "rank": 7,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 102702,
