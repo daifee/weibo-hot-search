@@ -1,0 +1,410 @@
+{
+  "runTime": 1715049894282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1840279,
+        "num": 1840279,
+        "word": "马龙无缘巴黎奥运会单打",
+        "onboard_time": 1715047939,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 540554,
+        "num": 540554,
+        "word": "王楚钦樊振东奥运男单",
+        "onboard_time": 1715046679,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57073,
+        "num": 397024,
+        "word": "数据盘点五一假期",
+        "onboard_time": 1715000958,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655065,
+        "num": 396157,
+        "word": "国乒一晚上损失三位主力",
+        "onboard_time": 1715046077,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393458,
+        "num": 393458,
+        "word": "肉放冷冻层保质期就是一辈子吗",
+        "onboard_time": 1715044401,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 331209,
+        "num": 331209,
+        "word": "金价",
+        "onboard_time": 1715049258,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 323768,
+        "num": 323768,
+        "word": "迪丽热巴编发红玫瑰",
+        "onboard_time": 1715049739,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271208,
+        "num": 323434,
+        "word": "人民文娱评华晨宇日出演唱会",
+        "onboard_time": 1714999998,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 260620,
+        "num": 319668,
+        "word": "抑郁女儿叫朋友来家里吃饭了",
+        "onboard_time": 1715005941,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182768,
+        "num": 318024,
+        "word": "男子打球被球友看出面相不对救了一命",
+        "onboard_time": 1715020752,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046726,
+        "num": 314594,
+        "word": "李楷灿 逃税",
+        "onboard_time": 1715047339,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519469,
+        "num": 312593,
+        "word": "中国游客日本人均消费近30万日元",
+        "onboard_time": 1715048239,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 502922,
+        "num": 309577,
+        "word": "苹果发布会新品曝光",
+        "onboard_time": 1715045478,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 389380,
+        "num": 305810,
+        "word": "31岁跨国恋网红娜娜去世",
+        "onboard_time": 1715043260,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 254339,
+        "num": 304119,
+        "word": "王楚钦孙颖莎获奥运混双资格",
+        "onboard_time": 1715042601,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381808,
+        "num": 299065,
+        "word": "缅甸",
+        "onboard_time": 1715006420,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355351,
+        "num": 297990,
+        "word": "拜登呼吁不再重演犹太人大屠杀遭网友痛批",
+        "onboard_time": 1715045778,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 296220,
+        "num": 296220,
+        "word": "刘雯MetGala",
+        "onboard_time": 1715045358,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275368,
+        "num": 275368,
+        "word": "赞达亚MetGala的神",
+        "onboard_time": 1715044639,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 292449,
+        "num": 273320,
+        "word": "Jennie珍珠腰链",
+        "onboard_time": 1715043380,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1042385,
+        "num": 271654,
+        "word": "多名男演员拒演背着善宰跑",
+        "onboard_time": 1715041279,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 691468,
+        "num": 269284,
+        "word": "男子确诊胃癌提前一年为自己安排身后事",
+        "onboard_time": 1715007320,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 603377,
+        "num": 267481,
+        "word": "百度副总裁称员工闹分手提离职我秒批",
+        "onboard_time": 1715038516,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 495235,
+        "num": 266301,
+        "word": "张翰一次开朗换来终生内向",
+        "onboard_time": 1715009239,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468867,
+        "num": 262995,
+        "word": "胃癌来敲门身体会发出5大警报",
+        "onboard_time": 1715043440,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 262104,
+        "num": 262104,
+        "word": "StrayKids疑似被歧视",
+        "onboard_time": 1715048778,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257094,
+        "num": 257094,
+        "word": "iPhone折叠屏或将可向内外折叠",
+        "onboard_time": 1715041580,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 244748,
+        "num": 244748,
+        "word": "孙颖莎自动获得女子团体参赛资格",
+        "onboard_time": 1715048660,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210048,
+        "num": 210048,
+        "word": "孙丞潇新综艺没有金莎",
+        "onboard_time": 1715041279,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206112,
+        "num": 206112,
+        "word": "马龙止步大满贯32强",
+        "onboard_time": 1715036955,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197457,
+        "num": 197457,
+        "word": "乐华男团去当NPC了",
+        "onboard_time": 1715045058,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187781,
+        "num": 187781,
+        "word": "MetGala mvp",
+        "onboard_time": 1715047639,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186875,
+        "num": 186875,
+        "word": "广州暴雨地铁一处接触网被雷击",
+        "onboard_time": 1715046976,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180284,
+        "num": 180284,
+        "word": "熬夜疲劳可能会让你变臭",
+        "onboard_time": 1715017212,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177860,
+        "num": 177860,
+        "word": "东京P卡少年走到了巴黎",
+        "onboard_time": 1715049619,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177387,
+        "num": 177387,
+        "word": "保安看刘亦菲时的眼神",
+        "onboard_time": 1715049619,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172892,
+        "num": 172892,
+        "word": "MetGala最惊艳的一身",
+        "onboard_time": 1715048718,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155607,
+        "num": 155607,
+        "word": "云南事业单位成绩",
+        "onboard_time": 1715048239,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161527,
+        "num": 154816,
+        "word": "MetGala 无聊",
+        "onboard_time": 1715048179,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152106,
+        "num": 152106,
+        "word": "水贝金饰加工费大跳水",
+        "onboard_time": 1715048477,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 151584,
+        "num": 151584,
+        "word": "赞达亚第二套",
+        "onboard_time": 1715047279,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151163,
+        "num": 151163,
+        "word": "二十多岁已经厌烦上班到极致",
+        "onboard_time": 1715016074,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148243,
+        "num": 148243,
+        "word": "婴儿在公共场所哭闹",
+        "onboard_time": 1715039357,
+        "rank": 42,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 135329,
+        "num": 135329,
+        "word": "江苏推行一次挂号管三天",
+        "onboard_time": 1715049078,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133372,
+        "num": 133372,
+        "word": "井柏然演技",
+        "onboard_time": 1715049857,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130387,
+        "num": 130387,
+        "word": "三只羊参与举办电音节被指宰客",
+        "onboard_time": 1715011696,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126290,
+        "num": 126290,
+        "word": "高考后的那个晚上你在干嘛",
+        "onboard_time": 1715049019,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126110,
+        "num": 126110,
+        "word": "NBA",
+        "onboard_time": 1715049798,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125754,
+        "num": 125754,
+        "word": "汤家凤评免单数学题难倒众人",
+        "onboard_time": 1715043739,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120758,
+        "num": 120758,
+        "word": "92名在缅北跨境电诈嫌犯被移交我方",
+        "onboard_time": 1715000358,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#倡议运动会期间全球停火止战#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715049249154,
+  "endTime": 1715049894282,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1840279,
+      "num": 1840279,
+      "word": "马龙无缘巴黎奥运会单打",
+      "onboard_time": 1715047939,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1753531,
       "num": 1753531,
       "word": "6月开始涨价的高铁线涉广州",
@@ -105,14 +113,6 @@
       "onboard_time": 1714977378,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1609842,
-      "num": 1609842,
-      "word": "马龙无缘巴黎奥运会单打",
-      "onboard_time": 1715047939,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1608870,
@@ -1315,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 519469,
+      "num": 312593,
+      "word": "中国游客日本人均消费近30万日元",
+      "onboard_time": 1715048239,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 517666,
       "num": 517666,
       "word": "92名在缅北跨境电诈嫌犯被移交我方",
@@ -2155,6 +2163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355351,
+      "num": 325880,
+      "word": "拜登呼吁不再重演犹太人大屠杀遭网友痛批",
+      "onboard_time": 1715045778,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 354793,
       "num": 354793,
       "word": "张杰陈楚生撞衫",
@@ -2283,6 +2299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 331209,
+      "num": 331209,
+      "word": "金价",
+      "onboard_time": 1714827799,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 330219,
       "num": 256084,
       "word": "邓超 水瓶座",
@@ -2315,12 +2339,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 325880,
-      "num": 325880,
-      "word": "拜登呼吁不再重演犹太人大屠杀遭网友痛批",
-      "onboard_time": 1715045778,
-      "rank": 49,
-      "category": "国外时政"
+      "raw_hot": 323768,
+      "num": 323768,
+      "word": "迪丽热巴编发红玫瑰",
+      "onboard_time": 1715049739,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 322440,
@@ -2579,14 +2603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 284614,
-      "num": 284614,
-      "word": "中国游客日本人均消费近30万日元",
-      "onboard_time": 1715048239,
-      "rank": 25,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 283863,
       "num": 230450,
       "word": "李诗沣状态",
@@ -2803,6 +2819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 262104,
+      "num": 262104,
+      "word": "StrayKids疑似被歧视",
+      "onboard_time": 1715048778,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261313,
       "num": 261313,
       "word": "学历大幅贬值了吗",
@@ -2969,6 +2993,14 @@
       "onboard_time": 1714903100,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 244748,
+      "num": 343630,
+      "word": "孙颖莎自动获得女子团体参赛资格",
+      "onboard_time": 1715048660,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 244507,
@@ -3707,14 +3739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197884,
-      "num": 343630,
-      "word": "孙颖莎自动获得女子团体参赛资格",
-      "onboard_time": 1715048660,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197682,
       "num": 197682,
       "word": "刘亦菲公主提裙",
@@ -4033,14 +4057,6 @@
       "onboard_time": 1715046976,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189808,
-      "num": 189808,
-      "word": "StrayKids疑似被歧视",
-      "onboard_time": 1715048778,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 188877,
@@ -4363,12 +4379,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177860,
+      "num": 177860,
+      "word": "东京P卡少年走到了巴黎",
+      "onboard_time": 1715049619,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177515,
       "num": 177515,
       "word": "狗狗被前主人抛弃患上抑郁症",
       "onboard_time": 1714954760,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177387,
+      "num": 177387,
+      "word": "保安看刘亦菲时的眼神",
+      "onboard_time": 1715049619,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 177051,
@@ -4553,6 +4585,14 @@
       "onboard_time": 1714961778,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172892,
+      "num": 172892,
+      "word": "MetGala最惊艳的一身",
+      "onboard_time": 1715048718,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172871,
@@ -4867,6 +4907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161527,
+      "num": 154816,
+      "word": "MetGala 无聊",
+      "onboard_time": 1715048179,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161270,
       "num": 161270,
       "word": "为什么父母这么执着于提前到",
@@ -5147,6 +5195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152106,
+      "num": 152106,
+      "word": "水贝金饰加工费大跳水",
+      "onboard_time": 1715048477,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 151901,
       "num": 151901,
       "word": "尤杯决赛中国2比0印尼",
@@ -5161,14 +5217,6 @@
       "onboard_time": 1715037375,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151320,
-      "num": 151320,
-      "word": "水贝金饰加工费大跳水",
-      "onboard_time": 1715048477,
-      "rank": 35,
-      "category": "时尚"
     },
     {
       "raw_hot": 151310,
@@ -5249,14 +5297,6 @@
       "onboard_time": 1714964959,
       "rank": 41,
       "category": "汽车,社会新闻"
-    },
-    {
-      "raw_hot": 148329,
-      "num": 148329,
-      "word": "MetGala 无聊",
-      "onboard_time": 1715048179,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 147718,
@@ -5403,14 +5443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141540,
-      "num": 217937,
-      "word": "金价",
-      "onboard_time": 1714827799,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 140346,
       "num": 140346,
       "word": "太阳耀斑",
@@ -5539,6 +5571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135329,
+      "num": 135329,
+      "word": "江苏推行一次挂号管三天",
+      "onboard_time": 1715049078,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135232,
       "num": 135232,
       "word": "华山金色晚霞配云海浪漫又震撼",
@@ -5579,6 +5619,14 @@
       "category": "科学科普,情感"
     },
     {
+      "raw_hot": 133372,
+      "num": 133372,
+      "word": "井柏然演技",
+      "onboard_time": 1715049857,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133168,
       "num": 133168,
       "word": "问界",
@@ -5601,14 +5649,6 @@
       "onboard_time": 1714976960,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132552,
-      "num": 132552,
-      "word": "MetGala最惊艳的一身",
-      "onboard_time": 1715048718,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 132525,
@@ -5737,6 +5777,22 @@
       "onboard_time": 1714900099,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126290,
+      "num": 126290,
+      "word": "高考后的那个晚上你在干嘛",
+      "onboard_time": 1715049019,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 126110,
+      "num": 126110,
+      "word": "NBA",
+      "onboard_time": 1715049798,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 126092,
@@ -6043,14 +6099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115302,
-      "num": 115302,
-      "word": "高考后的那个晚上你在干嘛",
-      "onboard_time": 1715049019,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 115169,
       "num": 115169,
       "word": "联合国警察看维和防暴队",
@@ -6145,14 +6193,6 @@
       "onboard_time": 1714965739,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 106995,
-      "num": 106995,
-      "word": "江苏推行一次挂号管三天",
-      "onboard_time": 1715049078,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106084,
