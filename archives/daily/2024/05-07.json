@@ -1,6 +1,6 @@
 {
   "startTime": 1715012728684,
-  "endTime": 1715066645860,
+  "endTime": 1715067247791,
   "band_list": [
     {
       "raw_hot": 3292604,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1914727,
+      "raw_hot": 1954955,
       "num": 650469,
       "word": "联通 阴阳怪气的神",
       "onboard_time": 1715065159,
@@ -107,6 +107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1108010,
+      "num": 626704,
+      "word": "宋仲基宋慧乔将出席百想",
+      "onboard_time": 1715063959,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1102586,
       "num": 328795,
       "word": "百度副总裁称员工闹分手提离职我秒批",
@@ -129,14 +137,6 @@
       "onboard_time": 1715006420,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1004767,
-      "num": 626704,
-      "word": "宋仲基宋慧乔将出席百想",
-      "onboard_time": 1715063959,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 995924,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 906238,
-      "num": 457691,
+      "num": 484491,
       "word": "镇雄城南医院",
       "onboard_time": 1715063238,
       "rank": 10,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 811447,
-      "num": 447561,
+      "num": 496956,
       "word": "宋仲基宋慧乔将同框",
       "onboard_time": 1715064019,
       "rank": 11,
@@ -355,6 +355,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 604625,
+      "num": 604625,
+      "word": "金价跌到5字头消费者不买了",
+      "onboard_time": 1715063838,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 604262,
       "num": 265547,
       "word": "徐园男友称其系自杀",
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480241,
+      "num": 480241,
+      "word": "女性排卵期这4种身体变化容易被误解",
+      "onboard_time": 1715063838,
+      "rank": 45,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 477572,
       "num": 477572,
       "word": "朱婷无缘中国女排世联赛首站",
@@ -441,14 +457,6 @@
       "onboard_time": 1715050878,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 457096,
-      "num": 457096,
-      "word": "金价跌到5字头消费者不买了",
-      "onboard_time": 1715063838,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 455528,
@@ -529,14 +537,6 @@
       "onboard_time": 1715050338,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 380393,
-      "num": 380393,
-      "word": "女性排卵期这4种身体变化容易被误解",
-      "onboard_time": 1715063838,
-      "rank": 45,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 375736,
@@ -723,6 +723,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289710,
+      "num": 289710,
+      "word": "官方回应僧人开宾利后座有女人小孩",
+      "onboard_time": 1715065637,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289447,
+      "num": 289447,
+      "word": "官方回应留日学生辱骂国人",
+      "onboard_time": 1715066539,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288841,
       "num": 261450,
       "word": "杨幂曾问邓超亚比是什么",
@@ -827,6 +843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 267066,
+      "num": 267066,
+      "word": "刘忻 我觉得季军不属于我",
+      "onboard_time": 1715064918,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265457,
       "num": 265457,
       "word": "陶勇受伤后变得害怕黑暗",
@@ -849,14 +873,6 @@
       "onboard_time": 1715007981,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257776,
-      "num": 257776,
-      "word": "刘忻 我觉得季军不属于我",
-      "onboard_time": 1715064918,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 257315,
@@ -920,14 +936,6 @@
       "word": "法国面包师烤出140米长法棍",
       "onboard_time": 1715058382,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227460,
-      "num": 227460,
-      "word": "官方回应僧人开宾利后座有女人小孩",
-      "onboard_time": 1715065637,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1043,6 +1051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207392,
+      "num": 201842,
+      "word": "云南昭通一小区通知不要给陌生人开门",
+      "onboard_time": 1715066898,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206452,
       "num": 206452,
       "word": "我的阿勒泰",
@@ -1089,6 +1105,14 @@
       "onboard_time": 1715053879,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198943,
+      "num": 198943,
+      "word": "国家烟草专卖局原局长被逮捕",
+      "onboard_time": 1715066958,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198268,
@@ -1235,6 +1259,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 175475,
+      "num": 175475,
+      "word": "江疏影看了花少5",
+      "onboard_time": 1715066478,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174656,
       "num": 141302,
       "word": "南部战区海军海空立体联合搜救演练",
@@ -1249,6 +1281,14 @@
       "onboard_time": 1715048718,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171280,
+      "num": 171280,
+      "word": "中法是特殊的朋友",
+      "onboard_time": 1715066838,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 171066,
@@ -1289,6 +1329,14 @@
       "onboard_time": 1715048239,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 165778,
+      "num": 165778,
+      "word": "英雄联盟手游",
+      "onboard_time": 1715066718,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 164820,
@@ -1379,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153235,
+      "num": 153235,
+      "word": "春色寄情人 优点大于缺点",
+      "onboard_time": 1715067019,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152106,
       "num": 152106,
       "word": "水贝金饰加工费大跳水",
@@ -1417,6 +1473,14 @@
       "onboard_time": 1715063179,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 149675,
+      "num": 149675,
+      "word": "王一博片场花絮",
+      "onboard_time": 1715066359,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 149270,
@@ -1459,14 +1523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143816,
-      "num": 143816,
-      "word": "王一博片场花絮",
-      "onboard_time": 1715066359,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 142899,
       "num": 142899,
       "word": "刘涛摸秦岚的背",
@@ -1483,20 +1539,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142470,
+      "num": 142470,
+      "word": "赵菊英到底是谁",
+      "onboard_time": 1715066478,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 141336,
       "num": 141336,
       "word": "存款十几万在小县城什么水平",
       "onboard_time": 1714991359,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 138351,
-      "num": 138351,
-      "word": "江疏影看了花少5",
-      "onboard_time": 1715066478,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 138220,
@@ -1515,28 +1571,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136916,
-      "num": 136916,
-      "word": "赵菊英到底是谁",
-      "onboard_time": 1715066478,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 136218,
       "num": 136218,
       "word": "水晶宫4比0曼联",
       "onboard_time": 1715037375,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136149,
-      "num": 136149,
-      "word": "官方回应留日学生辱骂国人",
-      "onboard_time": 1715066539,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135759,
@@ -1553,6 +1593,14 @@
       "onboard_time": 1715049078,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129187,
+      "num": 129187,
+      "word": "第60届百想艺术大赏",
+      "onboard_time": 1715067200,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 128022,
