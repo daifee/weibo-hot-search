@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715063093006,
+  "endTime": 1715063879962,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -387,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1558611,
+      "num": 740463,
+      "word": "宁波一保时捷发生严重车祸",
+      "onboard_time": 1715058918,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1555692,
       "num": 317550,
       "word": "经常口臭的人一般都逃不过这几个原因",
@@ -595,14 +603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1366650,
-      "num": 740463,
-      "word": "宁波一保时捷发生严重车祸",
-      "onboard_time": 1715058918,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1362993,
       "num": 1362993,
       "word": "曝iPhone17将推Slim机型",
@@ -648,6 +648,14 @@
       "word": "5000一晚的酒店薅走35瓶洗发水能回本吗",
       "onboard_time": 1714621997,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1337646,
+      "num": 654738,
+      "word": "云南镇雄发生恶性伤人事件逾10人伤亡",
+      "onboard_time": 1715063357,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1411,6 +1419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 906238,
+      "num": 457691,
+      "word": "镇雄城南医院",
+      "onboard_time": 1715063238,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 905177,
       "num": 260285,
       "word": "邓超被孙俪赶出家门",
@@ -2019,6 +2035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 746271,
+      "num": 702310,
+      "word": "店主介绍邓超是孙俪的老公",
+      "onboard_time": 1715060119,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 743474,
       "num": 743474,
       "word": "取消公摊会导致房价上涨吗",
@@ -2193,14 +2217,6 @@
       "onboard_time": 1714997478,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 702310,
-      "num": 702310,
-      "word": "店主介绍邓超是孙俪的老公",
-      "onboard_time": 1715060119,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 700774,
@@ -2715,8 +2731,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 624364,
-      "num": 440578,
+      "raw_hot": 624436,
+      "num": 442186,
       "word": "秦岚护照丢了",
       "onboard_time": 1715060719,
       "rank": 12,
@@ -2961,6 +2977,14 @@
       "onboard_time": 1714616839,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 588443,
+      "num": 588443,
+      "word": "东莞一00后干部拟任副局长",
+      "onboard_time": 1715061138,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 588439,
@@ -4267,14 +4291,6 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 439801,
-      "num": 439801,
-      "word": "东莞一00后干部拟任副局长",
-      "onboard_time": 1715061138,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 437434,
       "num": 437434,
       "word": "观音桥网红天桥因人流火爆而限流",
@@ -5163,6 +5179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378087,
+      "num": 378087,
+      "word": "杨迪 无痛医美",
+      "onboard_time": 1715060958,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 376833,
       "num": 376833,
       "word": "王石放弃万科千万退休金",
@@ -5484,7 +5508,7 @@
     },
     {
       "raw_hot": 359537,
-      "num": 327358,
+      "num": 331284,
       "word": "谢娜白色吊带",
       "onboard_time": 1715058620,
       "rank": 28,
@@ -5851,6 +5875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333328,
+      "num": 211965,
+      "word": "1999年5月7日 中国人不忘记",
+      "onboard_time": 1715062879,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 332815,
       "num": 332815,
       "word": "2024年巴黎奥运会",
@@ -6057,6 +6089,14 @@
       "onboard_time": 1714622418,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 320632,
+      "num": 320632,
+      "word": "秦岚 人很难看到自己的影子",
+      "onboard_time": 1715061798,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 320173,
@@ -6435,14 +6475,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 295591,
-      "num": 295591,
-      "word": "杨迪 无痛医美",
-      "onboard_time": 1715060958,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 295011,
       "num": 295011,
       "word": "穆雷可能被禁赛",
@@ -6785,6 +6817,14 @@
       "onboard_time": 1714572079,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278692,
+      "num": 278692,
+      "word": "中国联通IVE互动",
+      "onboard_time": 1715063659,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 278589,
@@ -7256,14 +7296,6 @@
       "word": "李昊 可爱小狗",
       "onboard_time": 1714751480,
       "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 258979,
-      "num": 258979,
-      "word": "秦岚 人很难看到自己的影子",
-      "onboard_time": 1715061798,
-      "rank": 24,
       "category": "综艺"
     },
     {
@@ -7993,6 +8025,14 @@
       "onboard_time": 1714709239,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232245,
+      "num": 232245,
+      "word": "金价跌到5字头消费者不买了",
+      "onboard_time": 1715063838,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 232060,
@@ -8843,6 +8883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209438,
+      "num": 209438,
+      "word": "庆余年第一季名场面回顾",
+      "onboard_time": 1715062998,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209245,
       "num": 209245,
       "word": "AG逆风翻盘",
@@ -9121,6 +9169,14 @@
       "onboard_time": 1714622658,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 205286,
+      "num": 205286,
+      "word": "淘宝重启网页版",
+      "onboard_time": 1715062038,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 205032,
@@ -9849,14 +9905,6 @@
       "onboard_time": 1714796600,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196644,
-      "num": 196644,
-      "word": "淘宝重启网页版",
-      "onboard_time": 1715062038,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 196529,
@@ -12683,14 +12731,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 159842,
-      "num": 159842,
-      "word": "1999年5月7日 中国人不忘记",
-      "onboard_time": 1715062879,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 159805,
       "num": 159805,
       "word": "上海等级考",
@@ -13433,6 +13473,14 @@
       "onboard_time": 1714778954,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149859,
+      "num": 149859,
+      "word": "原来真有易容术",
+      "onboard_time": 1715063179,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 149506,
@@ -14353,6 +14401,14 @@
       "onboard_time": 1715044159,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137638,
+      "num": 137638,
+      "word": "女性排卵期这4种身体变化容易被误解",
+      "onboard_time": 1715063838,
+      "rank": 45,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 137482,
@@ -15545,14 +15601,6 @@
       "onboard_time": 1714868958,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121829,
-      "num": 121829,
-      "word": "庆余年第一季名场面回顾",
-      "onboard_time": 1715062998,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 121819,
@@ -18283,6 +18331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21727,
+      "num": 212205,
+      "word": "陶昕然邀甄学家们答题免单",
+      "onboard_time": 1715059938,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21522,
       "num": 79847,
       "word": "蓝色监狱 帅得很超前",
@@ -18305,14 +18361,6 @@
       "onboard_time": 1714763172,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 19843,
-      "num": 196107,
-      "word": "陶昕然邀甄学家们答题免单",
-      "onboard_time": 1715059938,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 18674,
