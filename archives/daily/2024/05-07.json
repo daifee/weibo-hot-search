@@ -1,6 +1,6 @@
 {
   "startTime": 1715012728684,
-  "endTime": 1715081734939,
+  "endTime": 1715085181824,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -123,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1227506,
+      "num": 945787,
+      "word": "周鸿祎直播发飙",
+      "onboard_time": 1715082739,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1178293,
       "num": 317550,
       "word": "经常口臭的人一般都逃不过这几个原因",
@@ -137,6 +145,14 @@
       "onboard_time": 1715063959,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1118374,
+      "num": 849122,
+      "word": "韩国民众吐槽五花肉太肥",
+      "onboard_time": 1715081540,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1102586,
@@ -161,6 +177,14 @@
       "onboard_time": 1715006420,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 996318,
+      "num": 996318,
+      "word": "建议一次食用小龙虾不超10只",
+      "onboard_time": 1715079138,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 995924,
@@ -217,6 +241,14 @@
       "onboard_time": 1715058200,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 814947,
+      "num": 814947,
+      "word": "金高银百想影后",
+      "onboard_time": 1715082678,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 811447,
@@ -305,6 +337,14 @@
       "onboard_time": 1715009239,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 698428,
+      "num": 698428,
+      "word": "汤唯为金高银颁奖",
+      "onboard_time": 1715082919,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 690294,
@@ -409,14 +449,6 @@
       "onboard_time": 1715041580,
       "rank": 3,
       "category": "数码"
-    },
-    {
-      "raw_hot": 616505,
-      "num": 226673,
-      "word": "建议一次食用小龙虾不超10只",
-      "onboard_time": 1715079138,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 604625,
@@ -579,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 468291,
+      "num": 468291,
+      "word": "杨怡",
+      "onboard_time": 1715081658,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 458271,
       "num": 458271,
       "word": "越来越频繁的电影撤档伤害了谁",
@@ -699,12 +739,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401567,
+      "num": 401567,
+      "word": "南宫珉百想视帝",
+      "onboard_time": 1715082618,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 397599,
       "num": 310761,
       "word": "手机空间不足无法使用微信了",
       "onboard_time": 1715070620,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 388283,
+      "num": 388283,
+      "word": "镇雄持刀行凶案嫌犯被抓画面曝光",
+      "onboard_time": 1715082799,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375736,
@@ -771,6 +827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 358970,
+      "num": 358970,
+      "word": "周雨彤上桌了",
+      "onboard_time": 1715083219,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358454,
       "num": 358454,
       "word": "StrayKids疑似被歧视",
@@ -793,6 +857,14 @@
       "onboard_time": 1715079918,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345456,
+      "num": 345456,
+      "word": "樊振东vs安宰贤",
+      "onboard_time": 1715083098,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 343447,
@@ -841,6 +913,14 @@
       "onboard_time": 1715038456,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 320814,
+      "num": 320814,
+      "word": "宋慧乔百想状态",
+      "onboard_time": 1715084059,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 320632,
@@ -1195,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245773,
+      "num": 245773,
+      "word": "金高银中分刘海",
+      "onboard_time": 1715082439,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 244748,
       "num": 343630,
       "word": "孙颖莎自动获得女子团体参赛资格",
@@ -1203,12 +1291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243095,
+      "num": 243095,
+      "word": "庆余年",
+      "onboard_time": 1715081358,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239262,
       "num": 239262,
       "word": "世界首例自体再生胰岛移植成功",
       "onboard_time": 1715069900,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 233504,
+      "num": 233504,
+      "word": "陶昕然妈妈年轻时撞脸虞书欣",
+      "onboard_time": 1715084960,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 229147,
@@ -1379,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209074,
+      "num": 209074,
+      "word": "阿水走错了",
+      "onboard_time": 1715084539,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 208864,
       "num": 208864,
       "word": "赵丽颖原生素妆",
@@ -1411,6 +1523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 204141,
+      "num": 204141,
+      "word": "突然发现P人真是不缺松弛感",
+      "onboard_time": 1715084420,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203925,
       "num": 203925,
       "word": "中国人民不会忘记北约的野蛮罪行",
@@ -1441,6 +1561,14 @@
       "onboard_time": 1715079258,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201362,
+      "num": 201362,
+      "word": "歌手2024直播12场",
+      "onboard_time": 1715084178,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 200160,
@@ -1619,6 +1747,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 185067,
+      "num": 185067,
+      "word": "香港汇丰银行回应区别对待客户",
+      "onboard_time": 1715083098,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184279,
       "num": 184279,
       "word": "Doinb说老头杯mlxg先红温",
@@ -1675,6 +1811,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 177639,
+      "num": 177639,
+      "word": "越级沟通领导发疯",
+      "onboard_time": 1715083938,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177133,
       "num": 177133,
       "word": "肖战地广打卡",
@@ -1713,6 +1857,14 @@
       "onboard_time": 1715048718,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172874,
+      "num": 172874,
+      "word": "金秀贤张杰张靓颖十年前同台演唱",
+      "onboard_time": 1715084898,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 172828,
@@ -1795,14 +1947,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 165888,
-      "num": 165888,
-      "word": "韩国民众吐槽五花肉太肥",
-      "onboard_time": 1715081540,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165778,
       "num": 165778,
       "word": "英雄联盟手游",
@@ -1825,6 +1969,14 @@
       "onboard_time": 1715052498,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163069,
+      "num": 163069,
+      "word": "周深翻牌",
+      "onboard_time": 1715085079,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 162291,
@@ -1891,19 +2043,19 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 157795,
-      "num": 157795,
-      "word": "庆余年",
-      "onboard_time": 1715081358,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157643,
       "num": 157643,
       "word": "周柯宇晚安大小姐",
       "onboard_time": 1715044819,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155437,
+      "num": 155437,
+      "word": "秦岚45岁身材管理",
+      "onboard_time": 1715084659,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -2043,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144453,
+      "num": 150068,
+      "word": "跟天蝎座相处的秘诀",
+      "onboard_time": 1715084539,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142899,
       "num": 142899,
       "word": "刘涛摸秦岚的背",
@@ -2155,6 +2315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130004,
+      "num": 130004,
+      "word": "养过猫的都知道这是在炫耀",
+      "onboard_time": 1715083398,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129404,
       "num": 129404,
       "word": "许光汉道枝骏佑花束般的相逢",
@@ -2187,14 +2355,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 125251,
-      "num": 125251,
-      "word": "杨怡",
-      "onboard_time": 1715081658,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 125161,
       "num": 125161,
       "word": "周鸿祎试驾飞行汽车无法起飞",
@@ -2217,6 +2377,14 @@
       "onboard_time": 1715062699,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 124247,
+      "num": 124247,
+      "word": "当地回应小杨哥电音节被指宰客",
+      "onboard_time": 1715081840,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123798,
@@ -2243,6 +2411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 121788,
+      "num": 121788,
+      "word": "樊振东 训练场纯粹的快乐",
+      "onboard_time": 1715083580,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121021,
       "num": 121021,
       "word": "百度副总裁隐藏争议视频",
@@ -2257,6 +2433,14 @@
       "onboard_time": 1715039597,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 118415,
+      "num": 118415,
+      "word": "樊振东3比0安宰贤",
+      "onboard_time": 1715083519,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 112461,
