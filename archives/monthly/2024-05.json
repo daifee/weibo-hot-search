@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715044581213,
+  "endTime": 1715045808533,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -2363,6 +2363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 651482,
+      "num": 316038,
+      "word": "胃癌来敲门身体会发出5大警报",
+      "onboard_time": 1715043440,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 650315,
       "num": 650315,
       "word": "泫雅回归",
@@ -2595,6 +2603,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 617210,
+      "num": 617210,
+      "word": "iPhone折叠屏或将可向内外折叠",
+      "onboard_time": 1715041580,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 617150,
       "num": 617150,
       "word": "他真的娶到了高中就想娶的女孩",
@@ -2795,20 +2811,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 582453,
-      "num": 582453,
-      "word": "iPhone折叠屏或将可向内外折叠",
-      "onboard_time": 1715041580,
-      "rank": 3,
-      "category": "数码"
-    },
-    {
       "raw_hot": 576314,
       "num": 576314,
       "word": "建议大学生提前培养一个小号",
       "onboard_time": 1714736299,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 575921,
+      "num": 318218,
+      "word": "哈尔滨多人疑霸凌殴打小孩",
+      "onboard_time": 1715041821,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 574017,
@@ -3907,14 +3923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 448363,
-      "num": 316038,
-      "word": "胃癌来敲门身体会发出5大警报",
-      "onboard_time": 1715043440,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 447439,
       "num": 276502,
       "word": "Jennie朴彩英同框",
@@ -3969,6 +3977,14 @@
       "onboard_time": 1714703298,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 445074,
+      "num": 445074,
+      "word": "专家称年轻人租房不影响结婚生娃",
+      "onboard_time": 1715044401,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 442487,
@@ -5755,14 +5771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 318218,
-      "num": 318218,
-      "word": "哈尔滨多人疑霸凌殴打小孩",
-      "onboard_time": 1715041821,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317050,
       "num": 317050,
       "word": "金莎看自己演风吹半夏哭了",
@@ -7027,6 +7035,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 248565,
+      "num": 248565,
+      "word": "赞达亚MetGala的神",
+      "onboard_time": 1715044639,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 248434,
       "num": 248434,
       "word": "古灵精探",
@@ -8187,6 +8203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212824,
+      "num": 212824,
+      "word": "刘雯MetGala",
+      "onboard_time": 1715045358,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212564,
       "num": 212564,
       "word": "淘宝客服回应免单bug",
@@ -8737,6 +8761,14 @@
       "onboard_time": 1714713497,
       "rank": 33,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 202862,
+      "num": 202862,
+      "word": "乐华男团去当NPC了",
+      "onboard_time": 1715045058,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 202797,
@@ -9601,6 +9633,14 @@
       "onboard_time": 1715009299,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192908,
+      "num": 207296,
+      "word": "肉放冷冻层保质期就是一辈子吗",
+      "onboard_time": 1715044401,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 192706,
@@ -10955,6 +10995,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 173778,
+      "num": 173778,
+      "word": "苹果发布会新品曝光",
+      "onboard_time": 1715045478,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 173692,
       "num": 173692,
       "word": "肖战伍嘉成微博互动",
@@ -12105,6 +12153,14 @@
       "onboard_time": 1714739361,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157643,
+      "num": 157643,
+      "word": "周柯宇晚安大小姐",
+      "onboard_time": 1715044819,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 157574,
@@ -14083,14 +14139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131725,
-      "num": 131725,
-      "word": "专家称年轻人租房不影响结婚生娃",
-      "onboard_time": 1715044401,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131578,
       "num": 131578,
       "word": "张杰跳Perfume忘动作的反应",
@@ -14209,14 +14257,6 @@
       "onboard_time": 1714835001,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 129896,
-      "num": 129896,
-      "word": "肉放冷冻层保质期就是一辈子吗",
-      "onboard_time": 1715044401,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 129876,
@@ -14537,6 +14577,14 @@
       "onboard_time": 1714735339,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124802,
+      "num": 124802,
+      "word": "给老外亿点中国茶震撼",
+      "onboard_time": 1715045657,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 124796,
@@ -15313,6 +15361,14 @@
       "onboard_time": 1714527618,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114607,
+      "num": 114607,
+      "word": "拜登呼吁不再重演犹太人大屠杀遭网友痛批",
+      "onboard_time": 1715045778,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 114527,
