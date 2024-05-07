@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715095133570,
+  "endTime": 1715096043183,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -331,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1338510,
+      "num": 727146,
+      "word": "iPad Air",
+      "onboard_time": 1715091981,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1331423,
       "num": 1331423,
       "word": "很快就知道6天有多长了",
@@ -571,14 +579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1060884,
-      "num": 727146,
-      "word": "iPad Air",
-      "onboard_time": 1715091981,
-      "rank": 21,
-      "category": "数码"
-    },
-    {
       "raw_hot": 1059422,
       "num": 1059422,
       "word": "老头杯",
@@ -724,7 +724,7 @@
     },
     {
       "raw_hot": 906871,
-      "num": 540041,
+      "num": 611436,
       "word": "iPad Pro M4",
       "onboard_time": 1715092641,
       "rank": 10,
@@ -1283,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 654897,
+      "num": 610001,
+      "word": "苹果发布新款iPad",
+      "onboard_time": 1715091861,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 654534,
       "num": 654534,
       "word": "杨鸣贴脸暴怒",
@@ -1481,6 +1489,14 @@
       "onboard_time": 1714884019,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 604839,
+      "num": 604839,
+      "word": "新款iPad价格",
+      "onboard_time": 1715093599,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 604625,
@@ -1963,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483300,
+      "num": 483300,
+      "word": "我iPad也要低人一等了",
+      "onboard_time": 1715094021,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 481754,
       "num": 481754,
       "word": "眼泪女王未公开kiss场面",
@@ -2307,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 430652,
+      "num": 220914,
+      "word": "警方通报太原一男子发表辱华言论",
+      "onboard_time": 1715093181,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427983,
       "num": 427983,
       "word": "IU捐赠1亿韩元",
@@ -2456,14 +2488,6 @@
       "word": "iPhone16全系电池壳供应商是中国公司",
       "onboard_time": 1714877537,
       "rank": 14,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 412183,
-      "num": 355353,
-      "word": "新款iPad价格",
-      "onboard_time": 1715093599,
-      "rank": 16,
       "category": "数码"
     },
     {
@@ -2651,14 +2675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 383399,
-      "num": 329578,
-      "word": "我iPad也要低人一等了",
-      "onboard_time": 1715094021,
-      "rank": 22,
-      "category": "数码"
-    },
-    {
       "raw_hot": 383224,
       "num": 383224,
       "word": "周雨彤上桌了",
@@ -2689,14 +2705,6 @@
       "onboard_time": 1715051900,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 375708,
-      "num": 202797,
-      "word": "警方通报太原一男子发表辱华言论",
-      "onboard_time": 1715093181,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 375344,
@@ -3145,6 +3153,14 @@
       "onboard_time": 1714879157,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320795,
+      "num": 320795,
+      "word": "研究称胖男人生育力更差",
+      "onboard_time": 1715094980,
+      "rank": 41,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 320632,
@@ -4491,6 +4507,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 217905,
+      "num": 217905,
+      "word": "这6种异常表现或是恶性肿瘤上身了",
+      "onboard_time": 1715093000,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 217479,
       "num": 217479,
       "word": "撕漫女迪丽热巴",
@@ -4803,6 +4827,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206027,
+      "num": 206027,
+      "word": "难怪校长爱看小孩跑操",
+      "onboard_time": 1715092401,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 205857,
+      "num": 205857,
+      "word": "宋亚轩腹肌",
+      "onboard_time": 1715095040,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205532,
       "num": 205532,
       "word": "男生五一帮父亲砍了1800斤柴",
@@ -4867,14 +4907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203535,
-      "num": 203535,
-      "word": "这6种异常表现或是恶性肿瘤上身了",
-      "onboard_time": 1715093000,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 203317,
       "num": 203317,
       "word": "厦门震感",
@@ -4915,12 +4947,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202158,
+      "num": 202158,
+      "word": "iPad 泡面盖",
+      "onboard_time": 1715094561,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 202144,
       "num": 202144,
       "word": "歌手2024直播12场",
       "onboard_time": 1715084178,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201972,
+      "num": 201972,
+      "word": "马思纯蕾丝德训鞋",
+      "onboard_time": 1715094561,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201763,
@@ -4961,6 +5009,14 @@
       "onboard_time": 1714882879,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201042,
+      "num": 201042,
+      "word": "M4",
+      "onboard_time": 1715095702,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 200657,
@@ -5073,14 +5129,6 @@
       "onboard_time": 1715052498,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198198,
-      "num": 198198,
-      "word": "马思纯蕾丝德训鞋",
-      "onboard_time": 1715094561,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198084,
@@ -5683,14 +5731,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 185619,
-      "num": 180627,
-      "word": "iPad 泡面盖",
-      "onboard_time": 1715094561,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 185119,
       "num": 185119,
       "word": "田嘉瑞说杨幂程潇打游戏很厉害",
@@ -5825,14 +5865,6 @@
       "onboard_time": 1714886898,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 182113,
-      "num": 167261,
-      "word": "研究称胖男人生育力更差",
-      "onboard_time": 1715094980,
-      "rank": 41,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 181754,
@@ -6251,6 +6283,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 172242,
+      "num": 172242,
+      "word": "ApplePencilPro发布",
+      "onboard_time": 1715094381,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 172151,
       "num": 172151,
       "word": "TES零封TL",
@@ -6449,14 +6489,6 @@
       "onboard_time": 1715008460,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166487,
-      "num": 166487,
-      "word": "ApplePencilPro发布",
-      "onboard_time": 1715094381,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 166470,
@@ -6681,14 +6713,6 @@
       "onboard_time": 1714899079,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 159419,
-      "num": 159419,
-      "word": "难怪校长爱看小孩跑操",
-      "onboard_time": 1715092401,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 159396,
@@ -7017,14 +7041,6 @@
       "onboard_time": 1715059278,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150800,
-      "num": 150800,
-      "word": "宋亚轩腹肌",
-      "onboard_time": 1715095040,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 150585,
@@ -8196,7 +8212,7 @@
     },
     {
       "raw_hot": 105256,
-      "num": 563952,
+      "num": 607529,
       "word": "小朋友用特种兵式旅游爆改儿歌",
       "onboard_time": 1715091802,
       "rank": 9,
