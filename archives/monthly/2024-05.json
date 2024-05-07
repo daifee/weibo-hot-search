@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715045808533,
+  "endTime": 1715049249154,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -337,6 +337,14 @@
       "onboard_time": 1714977378,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1609842,
+      "num": 1609842,
+      "word": "马龙无缘巴黎奥运会单打",
+      "onboard_time": 1715047939,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1608870,
@@ -1025,6 +1033,14 @@
       "onboard_time": 1714951455,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1087556,
+      "num": 337271,
+      "word": "李楷灿 逃税",
+      "onboard_time": 1715047339,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1084408,
@@ -1979,6 +1995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 735912,
+      "num": 735912,
+      "word": "王楚钦樊振东奥运男单",
+      "onboard_time": 1715046679,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 728200,
       "num": 503402,
       "word": "重庆长江大桥",
@@ -2049,6 +2073,14 @@
       "onboard_time": 1714916902,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 708894,
+      "num": 708894,
+      "word": "国乒一晚上损失三位主力",
+      "onboard_time": 1715046077,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 707740,
@@ -3131,6 +3163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 536995,
+      "num": 335482,
+      "word": "苹果发布会新品曝光",
+      "onboard_time": 1715045478,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 534794,
       "num": 534794,
       "word": "入职信息已婚填未婚遭公司解约",
@@ -4049,6 +4089,14 @@
       "onboard_time": 1714660340,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437147,
+      "num": 437147,
+      "word": "肉放冷冻层保质期就是一辈子吗",
+      "onboard_time": 1715044401,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 436770,
@@ -5667,6 +5715,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 327139,
+      "num": 327139,
+      "word": "刘雯MetGala",
+      "onboard_time": 1715045358,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 325880,
+      "num": 325880,
+      "word": "拜登呼吁不再重演犹太人大屠杀遭网友痛批",
+      "onboard_time": 1715045778,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 324756,
       "num": 244944,
       "word": "童瑶自曝不好意思被张新成看",
@@ -5929,6 +5993,14 @@
       "onboard_time": 1714798099,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308331,
+      "num": 308331,
+      "word": "赞达亚MetGala的神",
+      "onboard_time": 1715044639,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 308072,
@@ -6241,6 +6313,14 @@
       "onboard_time": 1714984219,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 284614,
+      "num": 284614,
+      "word": "中国游客日本人均消费近30万日元",
+      "onboard_time": 1715048239,
+      "rank": 25,
+      "category": "旅游"
     },
     {
       "raw_hot": 284510,
@@ -7033,14 +7113,6 @@
       "onboard_time": 1714744822,
       "rank": 46,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 248565,
-      "num": 248565,
-      "word": "赞达亚MetGala的神",
-      "onboard_time": 1715044639,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 248434,
@@ -8203,14 +8275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212824,
-      "num": 212824,
-      "word": "刘雯MetGala",
-      "onboard_time": 1715045358,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 212564,
       "num": 212564,
       "word": "淘宝客服回应免单bug",
@@ -8811,6 +8875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202338,
+      "num": 202338,
+      "word": "MetGala mvp",
+      "onboard_time": 1715047639,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 201860,
       "num": 201860,
       "word": "刚出生四天的小柴犬宝宝",
@@ -9153,6 +9225,14 @@
       "onboard_time": 1714629498,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197884,
+      "num": 343630,
+      "word": "孙颖莎自动获得女子团体参赛资格",
+      "onboard_time": 1715048660,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 197816,
@@ -9635,14 +9715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192908,
-      "num": 207296,
-      "word": "肉放冷冻层保质期就是一辈子吗",
-      "onboard_time": 1715044401,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 192706,
       "num": 192706,
       "word": "王栎鑫问俞灏明腿有多长",
@@ -9803,6 +9875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190584,
+      "num": 190584,
+      "word": "广州暴雨地铁一处接触网被雷击",
+      "onboard_time": 1715046976,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190428,
       "num": 236028,
       "word": "张杰杭州站",
@@ -9848,6 +9928,14 @@
       "word": "珉佑直播",
       "onboard_time": 1714835241,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189808,
+      "num": 189808,
+      "word": "StrayKids疑似被歧视",
+      "onboard_time": 1715048778,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -10995,14 +11083,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 173778,
-      "num": 173778,
-      "word": "苹果发布会新品曝光",
-      "onboard_time": 1715045478,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 173692,
       "num": 173692,
       "word": "肖战伍嘉成微博互动",
@@ -11201,6 +11281,14 @@
       "onboard_time": 1714629978,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171066,
+      "num": 171066,
+      "word": "赞达亚第二套",
+      "onboard_time": 1715047279,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171047,
@@ -11441,6 +11529,14 @@
       "onboard_time": 1714988058,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167309,
+      "num": 167309,
+      "word": "云南事业单位成绩",
+      "onboard_time": 1715048239,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 167137,
@@ -12611,6 +12707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151320,
+      "num": 151320,
+      "word": "水贝金饰加工费大跳水",
+      "onboard_time": 1715048477,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 151310,
       "num": 151310,
       "word": "被魏大勋的腿硬控了",
@@ -12881,6 +12985,14 @@
       "onboard_time": 1714964959,
       "rank": 41,
       "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 148329,
+      "num": 148329,
+      "word": "MetGala 无聊",
+      "onboard_time": 1715048179,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148319,
@@ -14043,6 +14155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132552,
+      "num": 132552,
+      "word": "MetGala最惊艳的一身",
+      "onboard_time": 1715048718,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 132525,
       "num": 75506,
       "word": "体检照X光别穿有刺绣的衣服",
@@ -14859,6 +14979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 121021,
+      "num": 121021,
+      "word": "百度副总裁隐藏争议视频",
+      "onboard_time": 1715046437,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 120902,
       "num": 120902,
       "word": "五一假期各地人流量现状",
@@ -15275,6 +15403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115302,
+      "num": 115302,
+      "word": "高考后的那个晚上你在干嘛",
+      "onboard_time": 1715049019,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 115265,
       "num": 115265,
       "word": "生活在别处的我定档",
@@ -15361,14 +15497,6 @@
       "onboard_time": 1714527618,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 114607,
-      "num": 114607,
-      "word": "拜登呼吁不再重演犹太人大屠杀遭网友痛批",
-      "onboard_time": 1715045778,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 114527,
@@ -15849,6 +15977,14 @@
       "onboard_time": 1714569019,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106995,
+      "num": 106995,
+      "word": "江苏推行一次挂号管三天",
+      "onboard_time": 1715049078,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106945,
