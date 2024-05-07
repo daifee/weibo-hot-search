@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715085181824,
+  "endTime": 1715086089629,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1537870,
+      "num": 1233137,
+      "word": "周鸿祎直播发飙",
+      "onboard_time": 1715082739,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1523007,
       "num": 336232,
       "word": "长期喝白开水和长期喝茶的人身体有什么变化",
@@ -835,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1244941,
+      "num": 1244941,
+      "word": "建议一次食用小龙虾不超10只",
+      "onboard_time": 1715079138,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1242623,
       "num": 1242623,
       "word": "正式被确诊为淡淡综合症",
@@ -889,14 +905,6 @@
       "onboard_time": 1714713559,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1227506,
-      "num": 945787,
-      "word": "周鸿祎直播发飙",
-      "onboard_time": 1715082739,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1200084,
@@ -1003,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1149423,
+      "num": 1149423,
+      "word": "韩国民众吐槽五花肉太肥",
+      "onboard_time": 1715081540,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1147271,
       "num": 839434,
       "word": "黄子韬徐艺洋吵架受伤的是姜潮",
@@ -1048,14 +1064,6 @@
       "word": "阿斯利康承认疫苗致命副作用",
       "onboard_time": 1714806617,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1118374,
-      "num": 849122,
-      "word": "韩国民众吐槽五花肉太肥",
-      "onboard_time": 1715081540,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1329,14 +1337,6 @@
       "onboard_time": 1714711399,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 996318,
-      "num": 996318,
-      "word": "建议一次食用小龙虾不超10只",
-      "onboard_time": 1715079138,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 995924,
@@ -3851,6 +3851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 495127,
+      "num": 433589,
+      "word": "镇雄持刀行凶案嫌犯被抓画面曝光",
+      "onboard_time": 1715082799,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495100,
       "num": 495100,
       "word": "日军731部队细菌战情报员信息披露",
@@ -4771,6 +4779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 421607,
+      "num": 421607,
+      "word": "宋慧乔百想状态",
+      "onboard_time": 1715084059,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 421216,
       "num": 421216,
       "word": "普京新任期首访国家是中国",
@@ -5305,14 +5321,6 @@
       "onboard_time": 1714802358,
       "rank": 12,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 388283,
-      "num": 388283,
-      "word": "镇雄持刀行凶案嫌犯被抓画面曝光",
-      "onboard_time": 1715082799,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 388118,
@@ -6339,6 +6347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323481,
+      "num": 323481,
+      "word": "周深翻牌",
+      "onboard_time": 1715085079,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322796,
       "num": 322796,
       "word": "全员加速中",
@@ -6393,14 +6409,6 @@
       "onboard_time": 1714622418,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 320814,
-      "num": 320814,
-      "word": "宋慧乔百想状态",
-      "onboard_time": 1715084059,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 320632,
@@ -7323,6 +7331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272625,
+      "num": 272625,
+      "word": "金秀贤张杰张靓颖十年前同台演唱",
+      "onboard_time": 1715084898,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 272284,
       "num": 238156,
       "word": "infp是真正的纯爱战神",
@@ -7795,6 +7811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 255460,
+      "num": 255460,
+      "word": "阿水走错了",
+      "onboard_time": 1715084539,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 254930,
       "num": 254930,
       "word": "女儿要喝奶茶我说她爱慕虚荣",
@@ -8019,6 +8043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246365,
+      "num": 246365,
+      "word": "突然发现P人真是不缺松弛感",
+      "onboard_time": 1715084420,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246328,
       "num": 246328,
       "word": "死装男鼻祖杀回来了",
@@ -8169,6 +8201,14 @@
       "onboard_time": 1714549218,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 241606,
+      "num": 241606,
+      "word": "陶昕然妈妈年轻时撞脸虞书欣",
+      "onboard_time": 1715084960,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 241488,
@@ -8425,14 +8465,6 @@
       "onboard_time": 1714542020,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 233504,
-      "num": 233504,
-      "word": "陶昕然妈妈年轻时撞脸虞书欣",
-      "onboard_time": 1715084960,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 233438,
@@ -9419,20 +9451,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209074,
-      "num": 209074,
-      "word": "阿水走错了",
-      "onboard_time": 1715084539,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 208919,
       "num": 208919,
       "word": "背着善宰跑 接吻的人会结婚",
       "onboard_time": 1714971322,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208916,
+      "num": 208916,
+      "word": "秦岚45岁身材管理",
+      "onboard_time": 1715084659,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 208864,
@@ -9473,6 +9505,14 @@
       "onboard_time": 1714814898,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208602,
+      "num": 208602,
+      "word": "香港汇丰银行回应区别对待客户",
+      "onboard_time": 1715083098,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208502,
@@ -9755,14 +9795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204141,
-      "num": 204141,
-      "word": "突然发现P人真是不缺松弛感",
-      "onboard_time": 1715084420,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 204133,
       "num": 204133,
       "word": "华晨宇日出演唱会",
@@ -9923,6 +9955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202144,
+      "num": 202144,
+      "word": "歌手2024直播12场",
+      "onboard_time": 1715084178,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201860,
       "num": 201860,
       "word": "刚出生四天的小柴犬宝宝",
@@ -9985,14 +10025,6 @@
       "onboard_time": 1714659859,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201362,
-      "num": 201362,
-      "word": "歌手2024直播12场",
-      "onboard_time": 1715084178,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 201252,
@@ -10065,6 +10097,14 @@
       "onboard_time": 1714709118,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200657,
+      "num": 200657,
+      "word": "新闻女王",
+      "onboard_time": 1715085439,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 200628,
@@ -11483,14 +11523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185067,
-      "num": 185067,
-      "word": "香港汇丰银行回应区别对待客户",
-      "onboard_time": 1715083098,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185063,
       "num": 185063,
       "word": "庄达菲 静止",
@@ -11761,6 +11793,14 @@
       "onboard_time": 1714792039,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180606,
+      "num": 180606,
+      "word": "金牛座新月许愿",
+      "onboard_time": 1715085619,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 180438,
@@ -12417,14 +12457,6 @@
       "onboard_time": 1715048718,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 172874,
-      "num": 172874,
-      "word": "金秀贤张杰张靓颖十年前同台演唱",
-      "onboard_time": 1715084898,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 172871,
@@ -13243,14 +13275,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 163069,
-      "num": 163069,
-      "word": "周深翻牌",
-      "onboard_time": 1715085079,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 163066,
       "num": 163066,
       "word": "陈奕迅武汉安可7首",
@@ -13817,14 +13841,6 @@
       "onboard_time": 1714988299,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155437,
-      "num": 155437,
-      "word": "秦岚45岁身材管理",
-      "onboard_time": 1715084659,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 155324,
@@ -15555,6 +15571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133906,
+      "num": 133906,
+      "word": "当地回应小杨哥电音节被指宰客",
+      "onboard_time": 1715081840,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133902,
       "num": 133902,
       "word": "六姊妹杀青",
@@ -16123,6 +16147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126775,
+      "num": 126775,
+      "word": "赵昭仪花少每一期都在虎口脱险",
+      "onboard_time": 1715085860,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126688,
       "num": 126688,
       "word": "十个勤天常州",
@@ -16289,14 +16321,6 @@
       "onboard_time": 1714792700,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124247,
-      "num": 124247,
-      "word": "当地回应小杨哥电音节被指宰客",
-      "onboard_time": 1715081840,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124145,
@@ -16505,6 +16529,14 @@
       "onboard_time": 1715083580,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121702,
+      "num": 121702,
+      "word": "秦岚说王安宇有点内耗",
+      "onboard_time": 1715085919,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 121607,
@@ -17551,6 +17583,14 @@
       "num": 107049,
       "word": "武磊梅开二度",
       "onboard_time": 1714569019,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107045,
+      "num": 107045,
+      "word": "浙江男篮vs新疆男篮",
+      "onboard_time": 1715085860,
       "rank": 49,
       "category": "体育"
     },
