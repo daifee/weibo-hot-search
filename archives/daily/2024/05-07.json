@@ -1,7 +1,15 @@
 {
   "startTime": 1715012728684,
-  "endTime": 1715070929904,
+  "endTime": 1715073631529,
   "band_list": [
+    {
+      "raw_hot": 3648349,
+      "num": 3648349,
+      "word": "淘宝免单 甄嬛传",
+      "onboard_time": 1715070020,
+      "rank": 1,
+      "category": "互联网"
+    },
     {
       "raw_hot": 3292604,
       "num": 678919,
@@ -11,11 +19,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2787452,
-      "num": 2787452,
-      "word": "淘宝免单 甄嬛传",
-      "onboard_time": 1715070020,
-      "rank": 1,
+      "raw_hot": 2179793,
+      "num": 2179793,
+      "word": "淘宝免单",
+      "onboard_time": 1714977378,
+      "rank": 16,
       "category": "互联网"
     },
     {
@@ -49,14 +57,6 @@
       "onboard_time": 1715058918,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1541541,
-      "num": 1509380,
-      "word": "淘宝免单",
-      "onboard_time": 1714977378,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 1540061,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1325805,
+      "num": 607020,
+      "word": "情侣同居要检测HPV",
+      "onboard_time": 1715072239,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1291935,
       "num": 1291935,
       "word": "取消公办中小学教师编制可不可行",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1152188,
-      "num": 1035120,
+      "num": 1069111,
       "word": "宋仲基宋慧乔将出席百想",
       "onboard_time": 1715063959,
       "rank": 5,
@@ -217,6 +225,14 @@
       "onboard_time": 1715051779,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 798035,
+      "num": 406427,
+      "word": "突然羡慕妈妈月薪4K的工作了",
+      "onboard_time": 1715069418,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 770441,
@@ -363,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 642649,
+      "num": 634167,
+      "word": "新闻女王2 赵晴",
+      "onboard_time": 1715069720,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 624436,
       "num": 442186,
       "word": "秦岚护照丢了",
@@ -419,20 +443,20 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 576103,
+      "num": 576103,
+      "word": "Jennie名媛转圈",
+      "onboard_time": 1715071040,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 575921,
       "num": 318218,
       "word": "哈尔滨多人疑霸凌殴打小孩",
       "onboard_time": 1715041821,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 561231,
-      "num": 561231,
-      "word": "新闻女王2 赵晴",
-      "onboard_time": 1715069720,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 556100,
@@ -619,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406427,
-      "num": 406427,
-      "word": "突然羡慕妈妈月薪4K的工作了",
-      "onboard_time": 1715069418,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 375736,
       "num": 375736,
       "word": "赵丽颖白裙背影",
@@ -795,6 +811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 311260,
+      "num": 311260,
+      "word": "华人夫妇被杀害焚尸主谋系女儿未婚夫",
+      "onboard_time": 1715072179,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308717,
       "num": 308717,
       "word": "森林狼打爆掘金",
@@ -825,6 +849,14 @@
       "onboard_time": 1715037075,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 301279,
+      "num": 301279,
+      "word": "万能的淘宝",
+      "onboard_time": 1715073379,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 298121,
@@ -883,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283119,
+      "num": 283119,
+      "word": "镇雄警方通报医院持刀伤人事件",
+      "onboard_time": 1715071820,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282465,
       "num": 282465,
       "word": "新闻女王2",
@@ -897,6 +937,14 @@
       "onboard_time": 1715063659,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279699,
+      "num": 279699,
+      "word": "手机空间不足无法使用微信了",
+      "onboard_time": 1715070620,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 279331,
@@ -1227,6 +1275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 203925,
+      "num": 203925,
+      "word": "中国人民不会忘记北约的野蛮罪行",
+      "onboard_time": 1715071099,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 202862,
       "num": 202862,
       "word": "乐华男团去当NPC了",
@@ -1283,6 +1339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192535,
+      "num": 192535,
+      "word": "剧组的菜被王一博挖光了",
+      "onboard_time": 1715071040,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192420,
       "num": 192420,
       "word": "孙颖莎积分8300世界第一",
@@ -1323,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189665,
+      "num": 189665,
+      "word": "给李明德一个机会",
+      "onboard_time": 1715073319,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189487,
       "num": 189487,
       "word": "森林狼2比0掘金",
@@ -1360,6 +1432,14 @@
       "word": "不可告人定档",
       "onboard_time": 1715061919,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186984,
+      "num": 186984,
+      "word": "庆余年2爹爹抢闲",
+      "onboard_time": 1715071759,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1435,6 +1515,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 174441,
+      "num": 174441,
+      "word": "TF三代高校制服",
+      "onboard_time": 1715073439,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172892,
       "num": 172892,
       "word": "MetGala最惊艳的一身",
@@ -1481,6 +1569,14 @@
       "onboard_time": 1715053578,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 167651,
+      "num": 619926,
+      "word": "塞尔维亚首都街头飘扬中国红",
+      "onboard_time": 1715072538,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 167309,
@@ -1555,6 +1651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160116,
+      "num": 160116,
+      "word": "新闻女王2 狠过man姐的女人",
+      "onboard_time": 1715073200,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159817,
       "num": 185643,
       "word": "92名在缅北跨境电诈嫌犯被移交我方",
@@ -1611,6 +1715,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 152053,
+      "num": 152053,
+      "word": "南方连面包都给切了",
+      "onboard_time": 1715072239,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151558,
       "num": 151558,
       "word": "马龙",
@@ -1625,14 +1737,6 @@
       "onboard_time": 1715008100,
       "rank": 26,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 151241,
-      "num": 151241,
-      "word": "手机空间不足无法使用微信了",
-      "onboard_time": 1715070620,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 151191,
@@ -2057,6 +2161,14 @@
       "onboard_time": 1715014275,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47510,
+      "num": 1578313,
+      "word": "中法关于农业交流与合作的联合声明",
+      "onboard_time": 1715073080,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 44120,
