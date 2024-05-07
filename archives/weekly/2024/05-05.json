@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715086089629,
+  "endTime": 1715087932013,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -131,6 +131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1713738,
+      "num": 1510928,
+      "word": "周鸿祎直播发飙",
+      "onboard_time": 1715082739,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1649935,
       "num": 1649935,
       "word": "多名男演员拒演背着善宰跑",
@@ -153,6 +161,14 @@
       "onboard_time": 1714984339,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1576216,
+      "num": 1576216,
+      "word": "建议一次食用小龙虾不超10只",
+      "onboard_time": 1715079138,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 1558611,
@@ -185,14 +201,6 @@
       "onboard_time": 1715064739,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1537870,
-      "num": 1233137,
-      "word": "周鸿祎直播发飙",
-      "onboard_time": 1715082739,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1523007,
@@ -377,14 +385,6 @@
       "onboard_time": 1714871057,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1244941,
-      "num": 1244941,
-      "word": "建议一次食用小龙虾不超10只",
-      "onboard_time": 1715079138,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 1239675,
@@ -1299,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629200,
+      "num": 433589,
+      "word": "镇雄持刀行凶案嫌犯被抓画面曝光",
+      "onboard_time": 1715082799,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625906,
       "num": 527165,
       "word": "BLACKPINK合约到期后首次回归",
@@ -1787,14 +1795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 495127,
-      "num": 433589,
-      "word": "镇雄持刀行凶案嫌犯被抓画面曝光",
-      "onboard_time": 1715082799,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 491595,
       "num": 491595,
       "word": "阿信说让我一场一场把路人唱回来",
@@ -1833,6 +1833,14 @@
       "onboard_time": 1714908499,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487559,
+      "num": 428786,
+      "word": "宋慧乔百想状态",
+      "onboard_time": 1715084059,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 486084,
@@ -2163,6 +2171,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 432886,
+      "num": 432886,
+      "word": "金秀贤张杰张靓颖十年前同台演唱",
+      "onboard_time": 1715084898,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 427992,
+      "num": 427992,
+      "word": "阿水走错了",
+      "onboard_time": 1715084539,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 427983,
       "num": 427983,
       "word": "IU捐赠1亿韩元",
@@ -2233,14 +2257,6 @@
       "onboard_time": 1714869977,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 421607,
-      "num": 421607,
-      "word": "宋慧乔百想状态",
-      "onboard_time": 1715084059,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 421216,
@@ -2499,6 +2515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383224,
+      "num": 383224,
+      "word": "周雨彤上桌了",
+      "onboard_time": 1715083219,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380213,
       "num": 380213,
       "word": "周渝民16年后杀回现偶",
@@ -2697,14 +2721,6 @@
       "onboard_time": 1714840816,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 358970,
-      "num": 358970,
-      "word": "周雨彤上桌了",
-      "onboard_time": 1715083219,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 358454,
@@ -3459,14 +3475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272625,
-      "num": 272625,
-      "word": "金秀贤张杰张靓颖十年前同台演唱",
-      "onboard_time": 1715084898,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 272226,
       "num": 272226,
       "word": "华晨宇演唱会散场粉丝集体致谢消防员",
@@ -3707,14 +3715,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 255460,
-      "num": 255460,
-      "word": "阿水走错了",
-      "onboard_time": 1715084539,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 254416,
       "num": 254416,
       "word": "封神第一部真现象级电影",
@@ -3753,6 +3753,14 @@
       "onboard_time": 1714959978,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250664,
+      "num": 250664,
+      "word": "突然发现P人真是不缺松弛感",
+      "onboard_time": 1715084420,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 250386,
@@ -3803,6 +3811,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 247733,
+      "num": 247733,
+      "word": "宋慧乔颁奖",
+      "onboard_time": 1715086759,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 247043,
       "num": 247043,
       "word": "为什么日本人门前爱放整排矿泉水瓶",
@@ -3817,14 +3833,6 @@
       "onboard_time": 1714911259,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 246365,
-      "num": 246365,
-      "word": "突然发现P人真是不缺松弛感",
-      "onboard_time": 1715084420,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 246328,
@@ -3875,20 +3883,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244121,
+      "num": 244121,
+      "word": "陶昕然妈妈年轻时撞脸虞书欣",
+      "onboard_time": 1715084960,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243095,
       "num": 243095,
       "word": "庆余年",
       "onboard_time": 1714984939,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241606,
-      "num": 241606,
-      "word": "陶昕然妈妈年轻时撞脸虞书欣",
-      "onboard_time": 1715084960,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 239262,
@@ -4251,6 +4259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219147,
+      "num": 219147,
+      "word": "秦岚45岁身材管理",
+      "onboard_time": 1715084659,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218867,
       "num": 218867,
       "word": "抑郁症是攻击性指向自身",
@@ -4305,6 +4321,14 @@
       "onboard_time": 1715039357,
       "rank": 31,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 216085,
+      "num": 216085,
+      "word": "背着善宰跑",
+      "onboard_time": 1714957102,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 215995,
@@ -4403,6 +4427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212688,
+      "num": 212688,
+      "word": "香港汇丰银行回应区别对待客户",
+      "onboard_time": 1715083098,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212564,
       "num": 212564,
       "word": "淘宝客服回应免单bug",
@@ -4491,14 +4523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208916,
-      "num": 208916,
-      "word": "秦岚45岁身材管理",
-      "onboard_time": 1715084659,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208864,
       "num": 208864,
       "word": "赵丽颖原生素妆",
@@ -4513,14 +4537,6 @@
       "onboard_time": 1714906759,
       "rank": 37,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 208602,
-      "num": 208602,
-      "word": "香港汇丰银行回应区别对待客户",
-      "onboard_time": 1715083098,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208502,
@@ -4593,6 +4609,14 @@
       "onboard_time": 1714976719,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205390,
+      "num": 205390,
+      "word": "Tian让apa闭嘴",
+      "onboard_time": 1715087000,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 205286,
@@ -4795,14 +4819,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 199313,
-      "num": 199313,
-      "word": "背着善宰跑",
-      "onboard_time": 1714957102,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199258,
       "num": 199258,
       "word": "林诗栋3比2菲鲁斯",
@@ -4849,6 +4865,22 @@
       "onboard_time": 1715052498,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198084,
+      "num": 198084,
+      "word": "以为是告发结果是告白",
+      "onboard_time": 1715086819,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197837,
+      "num": 197837,
+      "word": "背着善宰跑直播",
+      "onboard_time": 1715086278,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 197682,
@@ -5033,6 +5065,22 @@
       "onboard_time": 1714968983,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193633,
+      "num": 191888,
+      "word": "秦岚说王安宇有点内耗",
+      "onboard_time": 1715085919,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193528,
+      "num": 193528,
+      "word": "这个宝宝一出生就15岁了",
+      "onboard_time": 1715087539,
+      "rank": 34,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 193527,
@@ -5531,6 +5579,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 181759,
+      "num": 176938,
+      "word": "金智媛和她的男主角们",
+      "onboard_time": 1715087780,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181754,
       "num": 217955,
       "word": "张杰青年节唱少年中国说",
@@ -5675,12 +5731,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177042,
+      "num": 177042,
+      "word": "张雪峰6天5晚研学营售价高达9999元",
+      "onboard_time": 1715087420,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 177022,
       "num": 177022,
       "word": "吴磊翻牌",
       "onboard_time": 1714999579,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176768,
+      "num": 176768,
+      "word": "赵昭仪花少每一期都在虎口脱险",
+      "onboard_time": 1715085860,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 176240,
@@ -6243,6 +6315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161968,
+      "num": 161968,
+      "word": "跟天蝎座相处的秘诀",
+      "onboard_time": 1715084539,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161953,
       "num": 161953,
       "word": "外交部回应美菲军演击沉中国制造船只",
@@ -6425,6 +6505,14 @@
       "onboard_time": 1715007201,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157940,
+      "num": 157940,
+      "word": "李荷妮百想视后",
+      "onboard_time": 1715087420,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 157643,
@@ -6715,6 +6803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148999,
+      "num": 148999,
+      "word": "养过猫的都知道这是在炫耀",
+      "onboard_time": 1715083398,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148938,
       "num": 153744,
       "word": "戈贝尔今天不打",
@@ -6841,14 +6937,6 @@
       "onboard_time": 1714966819,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 144453,
-      "num": 150068,
-      "word": "跟天蝎座相处的秘诀",
-      "onboard_time": 1715084539,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 144098,
@@ -7227,14 +7315,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 130004,
-      "num": 130004,
-      "word": "养过猫的都知道这是在炫耀",
-      "onboard_time": 1715083398,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 129867,
       "num": 129867,
       "word": "老头杯阵容",
@@ -7289,14 +7369,6 @@
       "onboard_time": 1714920920,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 126775,
-      "num": 126775,
-      "word": "赵昭仪花少每一期都在虎口脱险",
-      "onboard_time": 1715085860,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 126613,
@@ -7497,14 +7569,6 @@
       "onboard_time": 1715083580,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121702,
-      "num": 121702,
-      "word": "秦岚说王安宇有点内耗",
-      "onboard_time": 1715085919,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 121021,
@@ -8331,6 +8395,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 45249,
+      "num": 1133793,
+      "word": "塔布街头各界人士挥舞中法国旗",
+      "onboard_time": 1715087660,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44120,
       "num": 44120,
       "word": "抗抑郁食物清单",
@@ -8369,6 +8441,14 @@
       "onboard_time": 1714942991,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 35954,
+      "num": 429192,
+      "word": "一枚以钢厂轮廓雕刻出图的纪念牌",
+      "onboard_time": 1715087179,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34426,
@@ -8594,6 +8674,9 @@
     },
     {
       "word": "#中法元首就中东局势深入交换意见#"
+    },
+    {
+      "word": "#习近平抵达塔布#"
     }
   ]
 }

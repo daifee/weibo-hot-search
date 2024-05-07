@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715086089629,
+  "endTime": 1715087932013,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -331,6 +331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1713738,
+      "num": 1510928,
+      "word": "周鸿祎直播发飙",
+      "onboard_time": 1715082739,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1701498,
       "num": 471809,
       "word": "胖猫跳江事发地摆满鲜花汉堡",
@@ -411,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1576216,
+      "num": 1576216,
+      "word": "建议一次食用小龙虾不超10只",
+      "onboard_time": 1715079138,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1570978,
       "num": 310646,
       "word": "老公一个月四千多养活我们一家三口",
@@ -457,14 +473,6 @@
       "onboard_time": 1715064739,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1537870,
-      "num": 1233137,
-      "word": "周鸿祎直播发飙",
-      "onboard_time": 1715082739,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1523007,
@@ -841,14 +849,6 @@
       "onboard_time": 1714806019,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1244941,
-      "num": 1244941,
-      "word": "建议一次食用小龙虾不超10只",
-      "onboard_time": 1715079138,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 1242623,
@@ -2851,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629200,
+      "num": 433589,
+      "word": "镇雄持刀行凶案嫌犯被抓画面曝光",
+      "onboard_time": 1715082799,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629006,
       "num": 629006,
       "word": "日本小镇拉黑布遮挡富士山远景",
@@ -3851,14 +3859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 495127,
-      "num": 433589,
-      "word": "镇雄持刀行凶案嫌犯被抓画面曝光",
-      "onboard_time": 1715082799,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 495100,
       "num": 495100,
       "word": "日军731部队细菌战情报员信息披露",
@@ -3921,6 +3921,14 @@
       "onboard_time": 1714908499,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487559,
+      "num": 428786,
+      "word": "宋慧乔百想状态",
+      "onboard_time": 1715084059,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 486742,
@@ -4595,6 +4603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 432886,
+      "num": 432886,
+      "word": "金秀贤张杰张靓颖十年前同台演唱",
+      "onboard_time": 1715084898,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 432794,
       "num": 432794,
       "word": "戚薇跟李承铉科普夏家三千金",
@@ -4649,6 +4665,14 @@
       "onboard_time": 1714527018,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 427992,
+      "num": 427992,
+      "word": "阿水走错了",
+      "onboard_time": 1715084539,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 427983,
@@ -4777,14 +4801,6 @@
       "onboard_time": 1714869977,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 421607,
-      "num": 421607,
-      "word": "宋慧乔百想状态",
-      "onboard_time": 1715084059,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 421216,
@@ -5419,6 +5435,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 383224,
+      "num": 383224,
+      "word": "周雨彤上桌了",
+      "onboard_time": 1715083219,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 382293,
       "num": 337388,
       "word": "官方介入调查空包外卖",
@@ -5809,14 +5833,6 @@
       "onboard_time": 1714840816,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 358970,
-      "num": 358970,
-      "word": "周雨彤上桌了",
-      "onboard_time": 1715083219,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 358454,
@@ -7331,14 +7347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272625,
-      "num": 272625,
-      "word": "金秀贤张杰张靓颖十年前同台演唱",
-      "onboard_time": 1715084898,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 272284,
       "num": 238156,
       "word": "infp是真正的纯爱战神",
@@ -7811,14 +7819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 255460,
-      "num": 255460,
-      "word": "阿水走错了",
-      "onboard_time": 1715084539,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 254930,
       "num": 254930,
       "word": "女儿要喝奶茶我说她爱慕虚荣",
@@ -7913,6 +7913,14 @@
       "onboard_time": 1714738820,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 250664,
+      "num": 250664,
+      "word": "突然发现P人真是不缺松弛感",
+      "onboard_time": 1715084420,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 250386,
@@ -8011,6 +8019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247733,
+      "num": 247733,
+      "word": "宋慧乔颁奖",
+      "onboard_time": 1715086759,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 247241,
       "num": 247241,
       "word": "新人订婚双方狗狗差点打一架",
@@ -8041,14 +8057,6 @@
       "onboard_time": 1714911259,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 246365,
-      "num": 246365,
-      "word": "突然发现P人真是不缺松弛感",
-      "onboard_time": 1715084420,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 246328,
@@ -8155,6 +8163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244121,
+      "num": 244121,
+      "word": "陶昕然妈妈年轻时撞脸虞书欣",
+      "onboard_time": 1715084960,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243621,
       "num": 217448,
       "word": "长期吃榴莲身体会发生什么变化",
@@ -8201,14 +8217,6 @@
       "onboard_time": 1714549218,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 241606,
-      "num": 241606,
-      "word": "陶昕然妈妈年轻时撞脸虞书欣",
-      "onboard_time": 1715084960,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 241488,
@@ -8963,6 +8971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219147,
+      "num": 219147,
+      "word": "秦岚45岁身材管理",
+      "onboard_time": 1715084659,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218993,
       "num": 218993,
       "word": "宋亚轩蝴蝶元素",
@@ -9105,6 +9121,14 @@
       "onboard_time": 1715039357,
       "rank": 31,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 216085,
+      "num": 216085,
+      "word": "背着善宰跑",
+      "onboard_time": 1714524317,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 216029,
@@ -9280,6 +9304,14 @@
       "word": "8岁女孩从300度近视变成400度远视",
       "onboard_time": 1714827920,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212688,
+      "num": 212688,
+      "word": "香港汇丰银行回应区别对待客户",
+      "onboard_time": 1715083098,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -9459,14 +9491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208916,
-      "num": 208916,
-      "word": "秦岚45岁身材管理",
-      "onboard_time": 1715084659,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208864,
       "num": 208864,
       "word": "赵丽颖原生素妆",
@@ -9505,14 +9529,6 @@
       "onboard_time": 1714814898,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 208602,
-      "num": 208602,
-      "word": "香港汇丰银行回应区别对待客户",
-      "onboard_time": 1715083098,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208502,
@@ -9737,6 +9753,14 @@
       "onboard_time": 1714622658,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 205390,
+      "num": 205390,
+      "word": "Tian让apa闭嘴",
+      "onboard_time": 1715087000,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 205286,
@@ -10243,14 +10267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199313,
-      "num": 199313,
-      "word": "背着善宰跑",
-      "onboard_time": 1714524317,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199295,
       "num": 199295,
       "word": "哈尔的移动城堡隐藏细节",
@@ -10353,6 +10369,22 @@
       "onboard_time": 1714629498,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198084,
+      "num": 198084,
+      "word": "以为是告发结果是告白",
+      "onboard_time": 1715086819,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197837,
+      "num": 197837,
+      "word": "背着善宰跑直播",
+      "onboard_time": 1715086278,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 197816,
@@ -10785,6 +10817,22 @@
       "onboard_time": 1714968983,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193633,
+      "num": 191888,
+      "word": "秦岚说王安宇有点内耗",
+      "onboard_time": 1715085919,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193528,
+      "num": 193528,
+      "word": "这个宝宝一出生就15岁了",
+      "onboard_time": 1715087539,
+      "rank": 34,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 193527,
@@ -11747,6 +11795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181759,
+      "num": 176938,
+      "word": "金智媛和她的男主角们",
+      "onboard_time": 1715087780,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181754,
       "num": 217955,
       "word": "张杰青年节唱少年中国说",
@@ -12075,12 +12131,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177042,
+      "num": 177042,
+      "word": "张雪峰6天5晚研学营售价高达9999元",
+      "onboard_time": 1715087420,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 177022,
       "num": 177022,
       "word": "吴磊翻牌",
       "onboard_time": 1714999579,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176768,
+      "num": 176768,
+      "word": "赵昭仪花少每一期都在虎口脱险",
+      "onboard_time": 1715085860,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 176705,
@@ -13347,6 +13419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161968,
+      "num": 161968,
+      "word": "跟天蝎座相处的秘诀",
+      "onboard_time": 1715084539,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161953,
       "num": 161953,
       "word": "外交部回应美菲军演击沉中国制造船只",
@@ -13665,6 +13745,14 @@
       "onboard_time": 1714739361,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157940,
+      "num": 157940,
+      "word": "李荷妮百想视后",
+      "onboard_time": 1715087420,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 157643,
@@ -14411,6 +14499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148999,
+      "num": 148999,
+      "word": "养过猫的都知道这是在炫耀",
+      "onboard_time": 1715083398,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148938,
       "num": 153744,
       "word": "戈贝尔今天不打",
@@ -14809,14 +14905,6 @@
       "onboard_time": 1714663101,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144453,
-      "num": 150068,
-      "word": "跟天蝎座相处的秘诀",
-      "onboard_time": 1715084539,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 144404,
@@ -15891,14 +15979,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 130004,
-      "num": 130004,
-      "word": "养过猫的都知道这是在炫耀",
-      "onboard_time": 1715083398,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 129995,
       "num": 129995,
       "word": "毛坯旅游vs精装朋友圈",
@@ -16145,14 +16225,6 @@
       "onboard_time": 1714824498,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 126775,
-      "num": 126775,
-      "word": "赵昭仪花少每一期都在虎口脱险",
-      "onboard_time": 1715085860,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 126688,
@@ -16529,14 +16601,6 @@
       "onboard_time": 1715083580,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121702,
-      "num": 121702,
-      "word": "秦岚说王安宇有点内耗",
-      "onboard_time": 1715085919,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 121607,
@@ -19011,6 +19075,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 45249,
+      "num": 1133793,
+      "word": "塔布街头各界人士挥舞中法国旗",
+      "onboard_time": 1715087660,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44961,
       "num": 375385,
       "word": "雷军五四青年节寄语",
@@ -19113,6 +19185,14 @@
       "onboard_time": 1714759993,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35954,
+      "num": 429192,
+      "word": "一枚以钢厂轮廓雕刻出图的纪念牌",
+      "onboard_time": 1715087179,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34426,
@@ -19526,6 +19606,9 @@
     },
     {
       "word": "#中法元首就中东局势深入交换意见#"
+    },
+    {
+      "word": "#习近平抵达塔布#"
     }
   ]
 }

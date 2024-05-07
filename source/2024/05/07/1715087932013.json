@@ -1,0 +1,410 @@
+{
+  "runTime": 1715087932013,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1576216,
+        "num": 1576216,
+        "word": "建议一次食用小龙虾不超10只",
+        "onboard_time": 1715079138,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1713738,
+        "num": 1510928,
+        "word": "周鸿祎直播发飙",
+        "onboard_time": 1715082739,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 45249,
+        "num": 1133793,
+        "word": "塔布街头各界人士挥舞中法国旗",
+        "onboard_time": 1715087660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 981623,
+        "num": 981623,
+        "word": "韩国民众吐槽五花肉太肥",
+        "onboard_time": 1715081540,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783158,
+        "num": 783158,
+        "word": "宋仲基宋慧乔将出席百想",
+        "onboard_time": 1715063959,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 661708,
+        "num": 661708,
+        "word": "汤唯为金高银颁奖",
+        "onboard_time": 1715082919,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 523916,
+        "num": 523916,
+        "word": "情侣同居要检测HPV",
+        "onboard_time": 1715072239,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 432886,
+        "num": 432886,
+        "word": "金秀贤张杰张靓颖十年前同台演唱",
+        "onboard_time": 1715084898,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35954,
+        "num": 429192,
+        "word": "一枚以钢厂轮廓雕刻出图的纪念牌",
+        "onboard_time": 1715087179,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487559,
+        "num": 428786,
+        "word": "宋慧乔百想状态",
+        "onboard_time": 1715084059,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 629200,
+        "num": 428770,
+        "word": "镇雄持刀行凶案嫌犯被抓画面曝光",
+        "onboard_time": 1715082799,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427992,
+        "num": 427992,
+        "word": "阿水走错了",
+        "onboard_time": 1715084539,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 413428,
+        "num": 413428,
+        "word": "刘涛说郑佩佩身体已经不太好了",
+        "onboard_time": 1715068938,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408432,
+        "num": 408432,
+        "word": "淘宝免单",
+        "onboard_time": 1715051238,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 383224,
+        "num": 383224,
+        "word": "周雨彤上桌了",
+        "onboard_time": 1715083219,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357276,
+        "num": 357276,
+        "word": "金高银百想影后",
+        "onboard_time": 1715082678,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 348861,
+        "num": 348861,
+        "word": "杨怡",
+        "onboard_time": 1715081658,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347361,
+        "num": 347361,
+        "word": "上海医院治愈一25年糖尿病病史患者",
+        "onboard_time": 1715078118,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330464,
+        "num": 330464,
+        "word": "1999年5月7日 中国人不忘记",
+        "onboard_time": 1715062879,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 273764,
+        "num": 273764,
+        "word": "樊振东vs安宰贤",
+        "onboard_time": 1715083098,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278152,
+        "num": 266944,
+        "word": "突然羡慕妈妈月薪4K的工作了",
+        "onboard_time": 1715069418,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250664,
+        "num": 250664,
+        "word": "突然发现P人真是不缺松弛感",
+        "onboard_time": 1715084420,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247733,
+        "num": 247733,
+        "word": "宋慧乔颁奖",
+        "onboard_time": 1715086759,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244121,
+        "num": 244121,
+        "word": "陶昕然妈妈年轻时撞脸虞书欣",
+        "onboard_time": 1715084960,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241423,
+        "num": 241423,
+        "word": "南宫珉百想视帝",
+        "onboard_time": 1715082618,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221694,
+        "num": 221694,
+        "word": "庆余年",
+        "onboard_time": 1715081358,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219147,
+        "num": 219147,
+        "word": "秦岚45岁身材管理",
+        "onboard_time": 1715084659,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216085,
+        "num": 216085,
+        "word": "背着善宰跑",
+        "onboard_time": 1715087720,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212688,
+        "num": 212688,
+        "word": "香港汇丰银行回应区别对待客户",
+        "onboard_time": 1715083098,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205390,
+        "num": 205390,
+        "word": "Tian让apa闭嘴",
+        "onboard_time": 1715087000,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203378,
+        "num": 203378,
+        "word": "娜扎脚腕纹身",
+        "onboard_time": 1715078539,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198084,
+        "num": 198084,
+        "word": "以为是告发结果是告白",
+        "onboard_time": 1715086819,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197837,
+        "num": 197837,
+        "word": "背着善宰跑直播",
+        "onboard_time": 1715086278,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194502,
+        "num": 194502,
+        "word": "周深翻牌",
+        "onboard_time": 1715085079,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193528,
+        "num": 193528,
+        "word": "这个宝宝一出生就15岁了",
+        "onboard_time": 1715087539,
+        "rank": 34,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 193633,
+        "num": 191888,
+        "word": "秦岚说王安宇有点内耗",
+        "onboard_time": 1715085919,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187967,
+        "num": 187967,
+        "word": "歌手2024直播12场",
+        "onboard_time": 1715084178,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181823,
+        "num": 181823,
+        "word": "金高银中分刘海",
+        "onboard_time": 1715082439,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 180608,
+        "num": 180608,
+        "word": "普京新任期首访国家是中国",
+        "onboard_time": 1715080218,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 177042,
+        "num": 177042,
+        "word": "张雪峰6天5晚研学营售价高达9999元",
+        "onboard_time": 1715087420,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181759,
+        "num": 176938,
+        "word": "金智媛和她的男主角们",
+        "onboard_time": 1715087780,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176768,
+        "num": 176768,
+        "word": "赵昭仪花少每一期都在虎口脱险",
+        "onboard_time": 1715085860,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161968,
+        "num": 161968,
+        "word": "跟天蝎座相处的秘诀",
+        "onboard_time": 1715084539,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31034,
+        "num": 159139,
+        "word": "中法关于农业交流与合作的联合声明",
+        "onboard_time": 1715073080,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157940,
+        "num": 157940,
+        "word": "李荷妮百想视后",
+        "onboard_time": 1715087420,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148999,
+        "num": 148999,
+        "word": "养过猫的都知道这是在炫耀",
+        "onboard_time": 1715083398,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148276,
+        "num": 148276,
+        "word": "联通 阴阳怪气的神",
+        "onboard_time": 1715065159,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131254,
+        "num": 131254,
+        "word": "手机空间不足无法使用微信了",
+        "onboard_time": 1715070620,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108085,
+        "num": 108085,
+        "word": "当地回应小杨哥电音节被指宰客",
+        "onboard_time": 1715081840,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96176,
+        "num": 96176,
+        "word": "TES零封TL",
+        "onboard_time": 1715081599,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平抵达塔布#"
+    }
+  }
+}
