@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715102186886,
+  "endTime": 1715103259042,
   "band_list": [
     {
       "raw_hot": 1143072,
@@ -83,6 +83,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 425646,
+      "num": 117616,
+      "word": "晚睡会影响女性卵巢功能",
+      "onboard_time": 1715099656,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 413203,
       "num": 413203,
       "word": "新款iPadAir11英寸起售价599美元",
@@ -137,14 +145,6 @@
       "onboard_time": 1715093302,
       "rank": 16,
       "category": "数码"
-    },
-    {
-      "raw_hot": 286674,
-      "num": 117616,
-      "word": "晚睡会影响女性卵巢功能",
-      "onboard_time": 1715099656,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 279462,
@@ -233,6 +233,14 @@
       "onboard_time": 1715094561,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157729,
+      "num": 157729,
+      "word": "山航客机事故发生前跑道曾被要求整改",
+      "onboard_time": 1715100975,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147178,
@@ -371,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92772,
-      "num": 92772,
-      "word": "山航客机事故发生前跑道曾被要求整改",
-      "onboard_time": 1715100975,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76683,
       "num": 76683,
       "word": "TES巅峰对决eStar",
@@ -411,20 +411,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 47019,
+      "num": 54447,
+      "word": "中法元首夫妇观看法国民间舞蹈表演",
+      "onboard_time": 1715101633,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43122,
       "num": 369270,
       "word": "小朋友用特种兵式旅游爆改儿歌",
       "onboard_time": 1715091802,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39491,
-      "num": 54447,
-      "word": "中法元首夫妇观看法国民间舞蹈表演",
-      "onboard_time": 1715101633,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18749,
