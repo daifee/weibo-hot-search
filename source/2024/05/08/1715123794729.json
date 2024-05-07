@@ -1,0 +1,410 @@
+{
+  "runTime": 1715123794729,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 230608,
+        "num": 393913,
+        "word": "多特蒙德晋级欧冠决赛",
+        "onboard_time": 1715123354,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 758232,
+        "num": 384167,
+        "word": "这个宝宝一出生就15岁了",
+        "onboard_time": 1715087539,
+        "rank": 1,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 20830,
+        "num": 372893,
+        "word": "为中法建交精神赋予新的时代内涵",
+        "onboard_time": 1715088260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 699650,
+        "num": 356795,
+        "word": "马来西亚女童弄坏橡皮擦遭同学性侵",
+        "onboard_time": 1715098875,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405352,
+        "num": 350796,
+        "word": "山航客机事故发生前跑道曾被要求整改",
+        "onboard_time": 1715100975,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342561,
+        "num": 342561,
+        "word": "小杨哥称在发现高价水之后就要求降价",
+        "onboard_time": 1715088199,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 291399,
+        "num": 291399,
+        "word": "这种毒碗你家可能天天都在用",
+        "onboard_time": 1715088020,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 287820,
+        "num": 287820,
+        "word": "4人含碎玻璃渣吃火锅敲诈被刑拘",
+        "onboard_time": 1715114831,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207868,
+        "num": 207868,
+        "word": "建议一次食用小龙虾不超10只",
+        "onboard_time": 1715079138,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 38287,
+        "num": 204801,
+        "word": "小朋友用特种兵式旅游爆改儿歌",
+        "onboard_time": 1715091802,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681154,
+        "num": 203397,
+        "word": "百度副总裁被曝安排工作言辞激烈",
+        "onboard_time": 1715109252,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 369128,
+        "num": 198296,
+        "word": "新款iPad价格",
+        "onboard_time": 1715093599,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 260596,
+        "num": 195420,
+        "word": "研究称胖男人生育力更差",
+        "onboard_time": 1715094980,
+        "rank": 12,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 192064,
+        "num": 192064,
+        "word": "韩国民众吐槽五花肉太肥",
+        "onboard_time": 1715081540,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189676,
+        "num": 189676,
+        "word": "娜扎在前面跳 保镖在后面笑",
+        "onboard_time": 1715119572,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176511,
+        "num": 176511,
+        "word": "女子租房9个多月发现对面是墓地",
+        "onboard_time": 1715097557,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173116,
+        "num": 173116,
+        "word": "欧冠半决赛",
+        "onboard_time": 1715123657,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171595,
+        "num": 171595,
+        "word": "大巴黎淘汰",
+        "onboard_time": 1715123657,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165768,
+        "num": 165768,
+        "word": "苹果发布会",
+        "onboard_time": 1715090720,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 165703,
+        "num": 165703,
+        "word": "新iPadPro从M2直接跃升至M4",
+        "onboard_time": 1715092641,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 361933,
+        "num": 163520,
+        "word": "37岁从确诊肺癌到去世仅2周",
+        "onboard_time": 1715092281,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208946,
+        "num": 160951,
+        "word": "马思纯蕾丝德训鞋",
+        "onboard_time": 1715094561,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153898,
+        "num": 153898,
+        "word": "宋慧乔颁奖",
+        "onboard_time": 1715086759,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145873,
+        "num": 145873,
+        "word": "我iPad也要低人一等了",
+        "onboard_time": 1715094021,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143010,
+        "num": 143010,
+        "word": "班上的双胞胎好像不太熟",
+        "onboard_time": 1715120292,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135483,
+        "num": 135483,
+        "word": "逃离直播带货小杨哥转行",
+        "onboard_time": 1715118431,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131300,
+        "num": 131300,
+        "word": "孙颖莎3比0伊莎贝拉",
+        "onboard_time": 1715123296,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123615,
+        "num": 123615,
+        "word": "南雅出狱气后妈这段看爽了",
+        "onboard_time": 1715090960,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120623,
+        "num": 120623,
+        "word": "警方通报太原一男子发表辱华言论",
+        "onboard_time": 1715093181,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116377,
+        "num": 116377,
+        "word": "汤唯为金高银颁奖",
+        "onboard_time": 1715082919,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119232,
+        "num": 115329,
+        "word": "长效避孕药不能突然停药",
+        "onboard_time": 1715096599,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104921,
+        "num": 104921,
+        "word": "陶昕然妈妈年轻时撞脸虞书欣",
+        "onboard_time": 1715084960,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100208,
+        "num": 100208,
+        "word": "这6种异常表现或是恶性肿瘤上身了",
+        "onboard_time": 1715093000,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97041,
+        "num": 97041,
+        "word": "糖尿病就像将器官泡在糖水里",
+        "onboard_time": 1715122815,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96636,
+        "num": 96636,
+        "word": "秦岚45岁身材管理",
+        "onboard_time": 1715084659,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74715,
+        "num": 74715,
+        "word": "警方再通报镇雄恶性伤人事件",
+        "onboard_time": 1715089159,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74396,
+        "num": 74396,
+        "word": "晚睡会影响女性卵巢功能",
+        "onboard_time": 1715099656,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 73827,
+        "num": 73827,
+        "word": "刘涛说郑佩佩身体已经不太好了",
+        "onboard_time": 1715068938,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73723,
+        "num": 73723,
+        "word": "迪丽热巴美得摄人心魄",
+        "onboard_time": 1715111290,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72839,
+        "num": 72839,
+        "word": "周鸿祎直播发飙",
+        "onboard_time": 1715082739,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 71587,
+        "num": 71587,
+        "word": "金秀贤泡泡",
+        "onboard_time": 1715092340,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67633,
+        "num": 67633,
+        "word": "苹果发布新款iPad",
+        "onboard_time": 1715091861,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 63452,
+        "num": 63452,
+        "word": "宋仲基宋慧乔将出席百想",
+        "onboard_time": 1715063959,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61587,
+        "num": 61587,
+        "word": "李到晛 智妍呐谢谢你",
+        "onboard_time": 1715090299,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54341,
+        "num": 54341,
+        "word": "难怪校长爱看小孩跑操",
+        "onboard_time": 1715092401,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52093,
+        "num": 52093,
+        "word": "郑恺朱丹哭了",
+        "onboard_time": 1715089159,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51872,
+        "num": 51872,
+        "word": "新款iPadAir11英寸起售价599美元",
+        "onboard_time": 1715091981,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 49526,
+        "num": 49526,
+        "word": "金智媛和她的男主角们",
+        "onboard_time": 1715087780,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48008,
+        "num": 48008,
+        "word": "iPhone 散热",
+        "onboard_time": 1715093302,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43843,
+        "num": 43843,
+        "word": "张露文",
+        "onboard_time": 1715123775,
+        "rank": 49,
+        "category": "社会新闻,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平抵达塔布#"
+    }
+  }
+}
