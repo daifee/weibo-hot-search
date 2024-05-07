@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715120268557,
+  "endTime": 1715121313261,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -2803,6 +2803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 368594,
+      "num": 87482,
+      "word": "百度副总裁被曝安排工作言辞激烈",
+      "onboard_time": 1715109252,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 367848,
       "num": 295151,
       "word": "王耀庆连续煎了21天鸡蛋",
@@ -3608,14 +3616,6 @@
       "word": "淘宝免单bug",
       "onboard_time": 1714974379,
       "rank": 23,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 281086,
-      "num": 56747,
-      "word": "百度副总裁被曝安排工作言辞激烈",
-      "onboard_time": 1715109252,
-      "rank": 45,
       "category": "互联网"
     },
     {
@@ -4851,6 +4851,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 207689,
+      "num": 157729,
+      "word": "山航客机事故发生前跑道曾被要求整改",
+      "onboard_time": 1715100975,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207323,
       "num": 207323,
       "word": "邓超别哭了",
@@ -5609,14 +5617,6 @@
       "onboard_time": 1715069000,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190018,
-      "num": 157729,
-      "word": "山航客机事故发生前跑道曾被要求整改",
-      "onboard_time": 1715100975,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189487,
@@ -7499,6 +7499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138891,
+      "num": 88213,
+      "word": "4人含碎玻璃渣吃火锅敲诈被刑拘",
+      "onboard_time": 1715114831,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138864,
       "num": 217942,
       "word": "金希澈韩庚合照",
@@ -8411,14 +8419,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 97504,
-      "num": 59701,
-      "word": "4人含碎玻璃渣吃火锅敲诈被刑拘",
-      "onboard_time": 1715114831,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95016,
       "num": 475435,
       "word": "奇瑞把车从32米高空垂直扔下",
@@ -8611,6 +8611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 73649,
+      "num": 43277,
+      "word": "逃离直播带货小杨哥转行",
+      "onboard_time": 1715118431,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 73430,
       "num": 73430,
       "word": "范闲暴揍范思辙",
@@ -8715,12 +8723,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64448,
+      "num": 64448,
+      "word": "娜扎在前面跳 保镖在后面笑",
+      "onboard_time": 1715119572,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63892,
       "num": 1915828,
       "word": "中法关于农业交流与合作的联合声明",
       "onboard_time": 1715073080,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 62878,
+      "num": 62878,
+      "word": "迪丽热巴美得摄人心魄",
+      "onboard_time": 1715111290,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 62742,
@@ -8753,6 +8777,14 @@
       "onboard_time": 1714895899,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58436,
+      "num": 58436,
+      "word": "班上的双胞胎好像不太熟",
+      "onboard_time": 1715120292,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 56495,
@@ -8795,14 +8827,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 51316,
-      "num": 51316,
-      "word": "迪丽热巴美得摄人心魄",
-      "onboard_time": 1715111290,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 50674,
       "num": 761459,
       "word": "一枚以钢厂轮廓雕刻出图的纪念牌",
@@ -8817,14 +8841,6 @@
       "onboard_time": 1714935192,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 49545,
-      "num": 33150,
-      "word": "逃离直播带货小杨哥转行",
-      "onboard_time": 1715118431,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 49174,
@@ -8979,12 +8995,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29790,
-      "num": 29790,
-      "word": "娜扎在前面跳 保镖在后面笑",
-      "onboard_time": 1715119572,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 29473,
+      "num": 29473,
+      "word": "刘宇宁拔剑海报",
+      "onboard_time": 1715116390,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 28957,
@@ -9016,14 +9032,6 @@
       "word": "李沁拿鸡腿",
       "onboard_time": 1715019252,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 25154,
-      "num": 25154,
-      "word": "刘宇宁拔剑海报",
-      "onboard_time": 1715116390,
-      "rank": 47,
       "category": "剧集"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715120268557,
+  "endTime": 1715121313261,
   "band_list": [
     {
       "raw_hot": 1143072,
@@ -107,6 +107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 368594,
+      "num": 87482,
+      "word": "百度副总裁被曝安排工作言辞激烈",
+      "onboard_time": 1715109252,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 352994,
       "num": 352994,
       "word": "警方通报太原一男子发表辱华言论",
@@ -145,14 +153,6 @@
       "onboard_time": 1715093302,
       "rank": 16,
       "category": "数码"
-    },
-    {
-      "raw_hot": 281086,
-      "num": 56747,
-      "word": "百度副总裁被曝安排工作言辞激烈",
-      "onboard_time": 1715109252,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 279462,
@@ -203,20 +203,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207689,
+      "num": 157729,
+      "word": "山航客机事故发生前跑道曾被要求整改",
+      "onboard_time": 1715100975,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203446,
       "num": 203446,
       "word": "我的阿勒泰 新疆宣传片",
       "onboard_time": 1715091080,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190018,
-      "num": 157729,
-      "word": "山航客机事故发生前跑道曾被要求整改",
-      "onboard_time": 1715100975,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181232,
@@ -265,6 +265,14 @@
       "onboard_time": 1715062879,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138891,
+      "num": 88213,
+      "word": "4人含碎玻璃渣吃火锅敲诈被刑拘",
+      "onboard_time": 1715114831,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133744,
@@ -379,14 +387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97504,
-      "num": 59701,
-      "word": "4人含碎玻璃渣吃火锅敲诈被刑拘",
-      "onboard_time": 1715114831,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94577,
       "num": 94577,
       "word": "娜扎脚腕纹身",
@@ -419,6 +419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 73649,
+      "num": 43277,
+      "word": "逃离直播带货小杨哥转行",
+      "onboard_time": 1715118431,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 72378,
       "num": 72378,
       "word": "iPad Pro",
@@ -427,20 +435,28 @@
       "category": "数码"
     },
     {
-      "raw_hot": 51316,
-      "num": 51316,
+      "raw_hot": 64448,
+      "num": 64448,
+      "word": "娜扎在前面跳 保镖在后面笑",
+      "onboard_time": 1715119572,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 62878,
+      "num": 62878,
       "word": "迪丽热巴美得摄人心魄",
       "onboard_time": 1715111290,
       "rank": 19,
       "category": "综艺"
     },
     {
-      "raw_hot": 49545,
-      "num": 33150,
-      "word": "逃离直播带货小杨哥转行",
-      "onboard_time": 1715118431,
-      "rank": 31,
-      "category": "互联网"
+      "raw_hot": 58436,
+      "num": 58436,
+      "word": "班上的双胞胎好像不太熟",
+      "onboard_time": 1715120292,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 47019,
@@ -467,6 +483,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 39870,
+      "num": 39870,
+      "word": "南雅出狱气后妈这段看爽了",
+      "onboard_time": 1715090960,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39244,
       "num": 39244,
       "word": "真的讨厌HR问我空窗期干嘛了",
@@ -475,40 +499,24 @@
       "category": "情感"
     },
     {
-      "raw_hot": 29790,
-      "num": 29790,
-      "word": "娜扎在前面跳 保镖在后面笑",
-      "onboard_time": 1715119572,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 25247,
-      "num": 25247,
-      "word": "云南镇雄持刀行凶案嫌犯已被捕",
-      "onboard_time": 1715082799,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25216,
-      "num": 25216,
-      "word": "南雅出狱气后妈这段看爽了",
-      "onboard_time": 1715090960,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 25154,
-      "num": 25154,
+      "raw_hot": 29473,
+      "num": 29473,
       "word": "刘宇宁拔剑海报",
       "onboard_time": 1715116390,
       "rank": 47,
       "category": "剧集"
     },
     {
-      "raw_hot": 21402,
-      "num": 21402,
+      "raw_hot": 26436,
+      "num": 26436,
+      "word": "云南镇雄持刀行凶案嫌犯已被捕",
+      "onboard_time": 1715082799,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23924,
+      "num": 23924,
       "word": "新款iPadAir新增13英寸机型",
       "onboard_time": 1715092281,
       "rank": 44,
