@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715059188173,
+  "endTime": 1715060083260,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1458799,
+      "num": 842452,
+      "word": "一个单位三个癌症患者",
+      "onboard_time": 1715053999,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1453852,
       "num": 1453852,
       "word": "5月5日8时10分迎来立夏",
@@ -193,14 +201,6 @@
       "onboard_time": 1714969881,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1439772,
-      "num": 842452,
-      "word": "一个单位三个癌症患者",
-      "onboard_time": 1715053999,
-      "rank": 15,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1416658,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 1087556,
-      "num": 482797,
+      "num": 505874,
       "word": "李楷灿 逃税",
       "onboard_time": 1715047339,
       "rank": 10,
@@ -715,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 819518,
+      "num": 544923,
+      "word": "马龙贴脸怒吼裁判",
+      "onboard_time": 1715058200,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 817992,
       "num": 817992,
       "word": "女老师遭网课爆破后死亡案进展",
@@ -867,14 +875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 728358,
-      "num": 465372,
-      "word": "马龙贴脸怒吼裁判",
-      "onboard_time": 1715058200,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 726790,
       "num": 726790,
       "word": "迪丽热巴编发红玫瑰",
@@ -987,6 +987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 678210,
+      "num": 678210,
+      "word": "歌手2024主持人阵容",
+      "onboard_time": 1715056521,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 673741,
       "num": 487326,
       "word": "眉庄去世为什么太后不闻不问",
@@ -1011,20 +1019,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 667723,
+      "num": 544365,
+      "word": "百度副总裁5天涨粉百万账号系购买",
+      "onboard_time": 1715057120,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 661264,
       "num": 235838,
       "word": "你那坨肉根本就不是副乳",
       "onboard_time": 1714833079,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 658402,
-      "num": 658402,
-      "word": "歌手2024主持人阵容",
-      "onboard_time": 1715056521,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 654534,
@@ -1329,6 +1337,14 @@
       "onboard_time": 1714979957,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 543472,
+      "num": 543472,
+      "word": "iPhone16ProMax或有这些变化",
+      "onboard_time": 1715055439,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 540971,
@@ -1851,14 +1867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 432062,
-      "num": 432062,
-      "word": "iPhone16ProMax或有这些变化",
-      "onboard_time": 1715055439,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 427983,
       "num": 427983,
       "word": "IU捐赠1亿韩元",
@@ -2019,14 +2027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 402278,
-      "num": 402278,
-      "word": "百度副总裁5天涨粉百万账号系购买",
-      "onboard_time": 1715057120,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 402148,
       "num": 402148,
       "word": "卵巢过快衰老的几个信号",
@@ -2137,6 +2137,14 @@
       "onboard_time": 1714973900,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386249,
+      "num": 386249,
+      "word": "Jennie和StrayKids合照",
+      "onboard_time": 1715059099,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 380213,
@@ -2379,6 +2387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 351968,
+      "num": 351968,
+      "word": "宁波一保时捷发生严重车祸",
+      "onboard_time": 1715058918,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351932,
       "num": 240163,
       "word": "张一山卡点回复杨紫",
@@ -2489,6 +2505,14 @@
       "onboard_time": 1714995078,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332670,
+      "num": 327358,
+      "word": "谢娜白色吊带",
+      "onboard_time": 1715058620,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 332539,
@@ -2763,6 +2787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295011,
+      "num": 295011,
+      "word": "穆雷可能被禁赛",
+      "onboard_time": 1715058499,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290685,
       "num": 290685,
       "word": "专家称高铁涨价是必要的",
@@ -2923,6 +2955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274643,
+      "num": 274643,
+      "word": "范丞丞 绝味鸭脖",
+      "onboard_time": 1715058740,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274585,
       "num": 274585,
       "word": "时代峰峻在广西成立新公司",
@@ -3073,14 +3113,6 @@
       "onboard_time": 1714955359,
       "rank": 25,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 260803,
-      "num": 260803,
-      "word": "谢娜白色吊带",
-      "onboard_time": 1715058620,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 260456,
@@ -3275,6 +3307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241417,
+      "num": 241417,
+      "word": "北方的面包不给切片吗",
+      "onboard_time": 1715058382,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 238965,
       "num": 238965,
       "word": "立夏",
@@ -3443,12 +3483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227953,
-      "num": 227953,
-      "word": "北方的面包不给切片吗",
+      "raw_hot": 227982,
+      "num": 318411,
+      "word": "法国面包师烤出140米长法棍",
       "onboard_time": 1715058382,
-      "rank": 32,
-      "category": "美食"
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227775,
@@ -3715,14 +3755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213480,
-      "num": 213480,
-      "word": "范丞丞 绝味鸭脖",
-      "onboard_time": 1715058740,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213288,
       "num": 213288,
       "word": "恋与深空",
@@ -3753,6 +3785,14 @@
       "onboard_time": 1715037976,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211728,
+      "num": 211728,
+      "word": "MetGala",
+      "onboard_time": 1715059879,
+      "rank": 35,
+      "category": "时尚"
     },
     {
       "raw_hot": 211434,
@@ -3857,14 +3897,6 @@
       "onboard_time": 1714970782,
       "rank": 28,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 207150,
-      "num": 207150,
-      "word": "穆雷可能被禁赛",
-      "onboard_time": 1715058499,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 206674,
@@ -3993,14 +4025,6 @@
       "onboard_time": 1714899260,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200604,
-      "num": 200604,
-      "word": "Jennie和StrayKids合照",
-      "onboard_time": 1715059099,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200580,
@@ -4203,14 +4227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194849,
-      "num": 194849,
-      "word": "宁波一保时捷发生严重车祸",
-      "onboard_time": 1715058918,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194840,
       "num": 194840,
       "word": "王楚钦3比0约内斯库",
@@ -4265,6 +4281,14 @@
       "onboard_time": 1714882640,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 194192,
+      "num": 191876,
+      "word": "迪丽热巴莫名其妙的综艺效果",
+      "onboard_time": 1715059759,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 194081,
@@ -6563,14 +6587,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 113887,
-      "num": 318411,
-      "word": "法国面包师烤出140米长法棍",
-      "onboard_time": 1715058382,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113845,
       "num": 113845,
       "word": "向佐终于被认可了",
@@ -6955,6 +6971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74697,
+      "num": 545132,
+      "word": "五一档票房和观影人次均超去年同期",
+      "onboard_time": 1715059278,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73767,
       "num": 89604,
       "word": "第五人格骑士",
@@ -7305,6 +7329,14 @@
       "onboard_time": 1715018832,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 19843,
+      "num": 171412,
+      "word": "陶昕然邀甄学家们答题免单",
+      "onboard_time": 1715059938,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 14087,

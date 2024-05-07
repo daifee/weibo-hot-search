@@ -1,6 +1,6 @@
 {
   "startTime": 1715012728684,
-  "endTime": 1715059188173,
+  "endTime": 1715060083260,
   "band_list": [
     {
       "raw_hot": 1840279,
@@ -20,14 +20,14 @@
     },
     {
       "raw_hot": 1541541,
-      "num": 488731,
+      "num": 543756,
       "word": "淘宝免单",
       "onboard_time": 1714977378,
       "rank": 16,
       "category": "互联网"
     },
     {
-      "raw_hot": 1439772,
+      "raw_hot": 1458799,
       "num": 842452,
       "word": "一个单位三个癌症患者",
       "onboard_time": 1715053999,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1087556,
-      "num": 482797,
+      "num": 505874,
       "word": "李楷灿 逃税",
       "onboard_time": 1715047339,
       "rank": 10,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 819518,
+      "num": 544923,
+      "word": "马龙贴脸怒吼裁判",
+      "onboard_time": 1715058200,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 806397,
       "num": 372589,
       "word": "买房五年没住手头五六十个车位被出租",
@@ -152,14 +160,6 @@
       "word": "王楚钦樊振东奥运男单",
       "onboard_time": 1715046679,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 728358,
-      "num": 465372,
-      "word": "马龙贴脸怒吼裁判",
-      "onboard_time": 1715058200,
-      "rank": 11,
       "category": "体育"
     },
     {
@@ -195,12 +195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 658402,
-      "num": 658402,
+      "raw_hot": 678210,
+      "num": 678210,
       "word": "歌手2024主持人阵容",
       "onboard_time": 1715056521,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 667723,
+      "num": 544365,
+      "word": "百度副总裁5天涨粉百万账号系购买",
+      "onboard_time": 1715057120,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 651482,
@@ -299,6 +307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 543472,
+      "num": 543472,
+      "word": "iPhone16ProMax或有这些变化",
+      "onboard_time": 1715055439,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 536995,
       "num": 356928,
       "word": "苹果发布会新品曝光",
@@ -379,14 +395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 432062,
-      "num": 432062,
-      "word": "iPhone16ProMax或有这些变化",
-      "onboard_time": 1715055439,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 423157,
       "num": 423157,
       "word": "孙丞潇新综艺没有金莎",
@@ -403,12 +411,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 402278,
-      "num": 402278,
-      "word": "百度副总裁5天涨粉百万账号系购买",
-      "onboard_time": 1715057120,
-      "rank": 16,
-      "category": "互联网"
+      "raw_hot": 386249,
+      "num": 386249,
+      "word": "Jennie和StrayKids合照",
+      "onboard_time": 1715059099,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 375736,
@@ -483,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351968,
+      "num": 351968,
+      "word": "宁波一保时捷发生严重车祸",
+      "onboard_time": 1715058918,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334025,
       "num": 334025,
       "word": "王楚钦左手不是枷锁",
@@ -497,6 +513,14 @@
       "onboard_time": 1715009779,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 332670,
+      "num": 327358,
+      "word": "谢娜白色吊带",
+      "onboard_time": 1715058620,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 327139,
@@ -579,6 +603,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 295011,
+      "num": 295011,
+      "word": "穆雷可能被禁赛",
+      "onboard_time": 1715058499,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288841,
       "num": 261450,
       "word": "杨幂曾问邓超亚比是什么",
@@ -625,6 +657,14 @@
       "onboard_time": 1715056521,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274643,
+      "num": 274643,
+      "word": "范丞丞 绝味鸭脖",
+      "onboard_time": 1715058740,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 272226,
@@ -675,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260803,
-      "num": 260803,
-      "word": "谢娜白色吊带",
-      "onboard_time": 1715058620,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 257315,
       "num": 257315,
       "word": "朱丹看Lucky和妈妈对暗号哭了",
@@ -723,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241417,
+      "num": 241417,
+      "word": "北方的面包不给切片吗",
+      "onboard_time": 1715058382,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 229147,
       "num": 229147,
       "word": "百度公关要求团队成员都下场做自媒体",
@@ -731,12 +771,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 227953,
-      "num": 227953,
-      "word": "北方的面包不给切片吗",
+      "raw_hot": 227982,
+      "num": 318411,
+      "word": "法国面包师烤出140米长法棍",
       "onboard_time": 1715058382,
-      "rank": 32,
-      "category": "美食"
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226740,
@@ -803,14 +843,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 213480,
-      "num": 213480,
-      "word": "范丞丞 绝味鸭脖",
-      "onboard_time": 1715058740,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211756,
       "num": 211756,
       "word": "莎头",
@@ -819,20 +851,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211728,
+      "num": 211728,
+      "word": "MetGala",
+      "onboard_time": 1715059879,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 211202,
       "num": 211202,
       "word": "外资爆买茅台",
       "onboard_time": 1715041639,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 207150,
-      "num": 207150,
-      "word": "穆雷可能被禁赛",
-      "onboard_time": 1715058499,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 206452,
@@ -857,14 +889,6 @@
       "onboard_time": 1715045058,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200604,
-      "num": 200604,
-      "word": "Jennie和StrayKids合照",
-      "onboard_time": 1715059099,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200160,
@@ -899,12 +923,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194849,
-      "num": 194849,
-      "word": "宁波一保时捷发生严重车祸",
-      "onboard_time": 1715058918,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 194192,
+      "num": 191876,
+      "word": "迪丽热巴莫名其妙的综艺效果",
+      "onboard_time": 1715059759,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 192420,
@@ -1331,14 +1355,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 113887,
-      "num": 318411,
-      "word": "法国面包师烤出140米长法棍",
-      "onboard_time": 1715058382,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112461,
       "num": 1351440,
       "word": "数据盘点五一假期",
@@ -1491,6 +1507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 74697,
+      "num": 545132,
+      "word": "五一档票房和观影人次均超去年同期",
+      "onboard_time": 1715059278,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73430,
       "num": 73430,
       "word": "范闲暴揍范思辙",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1715018832,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 19843,
+      "num": 171412,
+      "word": "陶昕然邀甄学家们答题免单",
+      "onboard_time": 1715059938,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 19259,
