@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715096043183,
+  "endTime": 1715098889558,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -995,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 761128,
+      "num": 483300,
+      "word": "我iPad也要低人一等了",
+      "onboard_time": 1715094021,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 758246,
       "num": 484582,
       "word": "泰国男子性侵邻居遭反杀家属不追究",
@@ -1161,6 +1169,14 @@
       "onboard_time": 1714953680,
       "rank": 20,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 703730,
+      "num": 359902,
+      "word": "研究称胖男人生育力更差",
+      "onboard_time": 1715094980,
+      "rank": 41,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 703144,
@@ -1347,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644680,
+      "num": 604839,
+      "word": "新款iPad价格",
+      "onboard_time": 1715093599,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 644023,
       "num": 458472,
       "word": "保安看刘亦菲时的眼神",
@@ -1489,14 +1513,6 @@
       "onboard_time": 1714884019,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 604839,
-      "num": 604839,
-      "word": "新款iPad价格",
-      "onboard_time": 1715093599,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 604625,
@@ -1979,14 +1995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 483300,
-      "num": 483300,
-      "word": "我iPad也要低人一等了",
-      "onboard_time": 1715094021,
-      "rank": 22,
-      "category": "数码"
-    },
-    {
       "raw_hot": 481754,
       "num": 481754,
       "word": "眼泪女王未公开kiss场面",
@@ -2291,6 +2299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 439405,
+      "num": 354132,
+      "word": "长效避孕药不能突然停药",
+      "onboard_time": 1715096599,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 437147,
       "num": 437147,
       "word": "肉放冷冻层保质期就是一辈子吗",
@@ -2332,7 +2348,7 @@
     },
     {
       "raw_hot": 430652,
-      "num": 220914,
+      "num": 352994,
       "word": "警方通报太原一男子发表辱华言论",
       "onboard_time": 1715093181,
       "rank": 30,
@@ -2473,6 +2489,14 @@
       "onboard_time": 1714915760,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 413203,
+      "num": 413203,
+      "word": "新款iPadAir11英寸起售价599美元",
+      "onboard_time": 1715091981,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 412887,
@@ -3155,20 +3179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320795,
-      "num": 320795,
-      "word": "研究称胖男人生育力更差",
-      "onboard_time": 1715094980,
-      "rank": 41,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 320632,
       "num": 320632,
       "word": "秦岚 人很难看到自己的影子",
       "onboard_time": 1715061798,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 320012,
+      "num": 320012,
+      "word": "新iPadPro从M2直接跃升至M4",
+      "onboard_time": 1715092641,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 319912,
@@ -5739,6 +5763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185118,
+      "num": 239856,
+      "word": "女子租房9个多月发现对面是墓地",
+      "onboard_time": 1715097557,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185063,
       "num": 185063,
       "word": "庄达菲 静止",
@@ -8195,6 +8227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106646,
+      "num": 106646,
+      "word": "王源征集大家的骄傲瞬间",
+      "onboard_time": 1715098518,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106084,
       "num": 373651,
       "word": "青岛啤酒登上央视三分钟",
@@ -8345,6 +8385,14 @@
       "onboard_time": 1714830380,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92781,
+      "num": 92781,
+      "word": "学车竟然被一只狗安慰到了",
+      "onboard_time": 1715098458,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 92776,
@@ -8537,6 +8585,14 @@
       "onboard_time": 1714938191,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 71482,
+      "num": 71482,
+      "word": "马来西亚女童弄坏橡皮擦遭同学性侵",
+      "onboard_time": 1715098875,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69494,
