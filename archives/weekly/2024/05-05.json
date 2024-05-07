@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715091370563,
+  "endTime": 1715092478135,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -73,6 +73,14 @@
       "onboard_time": 1714999998,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2100742,
+      "num": 2100742,
+      "word": "苹果发布会",
+      "onboard_time": 1715090720,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 2081978,
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 1100118,
-      "num": 760043,
+      "num": 1087013,
       "word": "小杨哥称在发现高价水之后就要求降价",
       "onboard_time": 1715088199,
       "rank": 20,
@@ -1067,6 +1075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 714906,
+      "num": 714906,
+      "word": "iPad",
+      "onboard_time": 1715091861,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 712529,
       "num": 712529,
       "word": "六月份上班好划算",
@@ -1259,14 +1275,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 650698,
-      "num": 650698,
-      "word": "苹果发布会",
-      "onboard_time": 1715090720,
-      "rank": 8,
-      "category": "数码"
-    },
-    {
       "raw_hot": 648859,
       "num": 648859,
       "word": "歌手 杨丞琳",
@@ -1329,6 +1337,14 @@
       "onboard_time": 1714981040,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 632183,
+      "num": 359857,
+      "word": "河南一地公职人员下午上班时间延迟至3时",
+      "onboard_time": 1715089521,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 629736,
@@ -2147,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442521,
+      "num": 442521,
+      "word": "李到晛 智妍呐谢谢你",
+      "onboard_time": 1715090299,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 442510,
       "num": 442510,
       "word": "纪凌尘换发型了",
@@ -2225,14 +2249,6 @@
       "onboard_time": 1714962077,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 433880,
-      "num": 289701,
-      "word": "河南一地公职人员下午上班时间延迟至3时",
-      "onboard_time": 1715089521,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432978,
@@ -2579,6 +2595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382345,
+      "num": 382345,
+      "word": "这种毒碗你家可能天天都在用",
+      "onboard_time": 1715088020,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 380213,
       "num": 380213,
       "word": "周渝民16年后杀回现偶",
@@ -2747,6 +2771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361673,
+      "num": 361673,
+      "word": "我的阿勒泰 新疆宣传片",
+      "onboard_time": 1715091080,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 360127,
       "num": 360127,
       "word": "戴眼镜的吃饭可以拿来当支架",
@@ -2841,6 +2873,14 @@
       "onboard_time": 1714918581,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350693,
+      "num": 350693,
+      "word": "iPad Air",
+      "onboard_time": 1715091981,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 348488,
@@ -3017,14 +3057,6 @@
       "onboard_time": 1715085079,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323072,
-      "num": 323072,
-      "word": "李到晛 智妍呐谢谢你",
-      "onboard_time": 1715090299,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 322440,
@@ -3219,6 +3251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 307004,
+      "num": 307004,
+      "word": "王楚钦孙颖莎3比0德赛戈尔帕德",
+      "onboard_time": 1715091020,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304466,
       "num": 304466,
       "word": "尼古拉斯凯奇儿子殴打亲妈",
@@ -3305,6 +3345,14 @@
       "onboard_time": 1714966399,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295179,
+      "num": 295179,
+      "word": "iPad Air尺寸",
+      "onboard_time": 1715091920,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 295011,
@@ -3409,14 +3457,6 @@
       "onboard_time": 1715007981,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283520,
-      "num": 283520,
-      "word": "这种毒碗你家可能天天都在用",
-      "onboard_time": 1715088020,
-      "rank": 49,
-      "category": "科学科普"
     },
     {
       "raw_hot": 283119,
@@ -4387,6 +4427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 217798,
+      "num": 217798,
+      "word": "aespa正规一专辑配置",
+      "onboard_time": 1715092461,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 217479,
       "num": 217479,
       "word": "撕漫女迪丽热巴",
@@ -4971,14 +5019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197920,
-      "num": 197920,
-      "word": "王楚钦孙颖莎3比0德赛戈尔帕德",
-      "onboard_time": 1715091020,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197837,
       "num": 197837,
       "word": "背着善宰跑直播",
@@ -5491,6 +5531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186896,
+      "num": 186896,
+      "word": "新款iPadAir新增13英寸机型",
+      "onboard_time": 1715092281,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 186890,
       "num": 186890,
       "word": "何浩楠 捞虾时刻",
@@ -5537,6 +5585,14 @@
       "onboard_time": 1715005941,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186221,
+      "num": 186221,
+      "word": "37岁从确诊肺癌到去世仅2周",
+      "onboard_time": 1715092281,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186015,
@@ -5683,14 +5739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181538,
-      "num": 181538,
-      "word": "我的阿勒泰 新疆宣传片",
-      "onboard_time": 1715091080,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180743,
       "num": 180743,
       "word": "跟天蝎座相处的秘诀",
@@ -5769,6 +5817,14 @@
       "onboard_time": 1714885879,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178766,
+      "num": 178766,
+      "word": "金秀贤泡泡",
+      "onboard_time": 1715092340,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 178672,
@@ -6169,6 +6225,14 @@
       "onboard_time": 1714967239,
       "rank": 44,
       "category": "美食,科学科普"
+    },
+    {
+      "raw_hot": 169533,
+      "num": 169533,
+      "word": "南雅出狱气后妈这段看爽了",
+      "onboard_time": 1715090960,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 169131,
@@ -6811,6 +6875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151727,
+      "num": 151727,
+      "word": "苹果发布会直播",
+      "onboard_time": 1715092401,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 151558,
       "num": 151558,
       "word": "马龙",
@@ -7091,14 +7163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143425,
-      "num": 143425,
-      "word": "南雅出狱气后妈这段看爽了",
-      "onboard_time": 1715090960,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143331,
       "num": 143331,
       "word": "李一桐短发",
@@ -7145,6 +7209,14 @@
       "onboard_time": 1714901719,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141508,
+      "num": 141508,
+      "word": "这下卓沅要更喜欢他的手了",
+      "onboard_time": 1715091322,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 140576,
@@ -7489,14 +7561,6 @@
       "onboard_time": 1714890619,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 127059,
-      "num": 127059,
-      "word": "这下卓沅要更喜欢他的手了",
-      "onboard_time": 1715091322,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 127044,
@@ -8507,6 +8571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 50080,
+      "num": 551276,
+      "word": "小朋友用特种兵式旅游爆改儿歌",
+      "onboard_time": 1715091802,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49174,
       "num": 49174,
       "word": "苏打绿巡演",
@@ -8604,7 +8676,7 @@
     },
     {
       "raw_hot": 34193,
-      "num": 1079903,
+      "num": 1137074,
       "word": "为中法建交精神赋予新的时代内涵",
       "onboard_time": 1715088260,
       "rank": 2,
@@ -8829,6 +8901,9 @@
     },
     {
       "word": "#习近平抵达塔布#"
+    },
+    {
+      "word": "#马克龙总统夫妇机场迎接习主席#"
     }
   ]
 }

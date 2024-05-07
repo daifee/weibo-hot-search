@@ -1,0 +1,410 @@
+{
+  "runTime": 1715092478135,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2100742,
+        "num": 2100742,
+        "word": "苹果发布会",
+        "onboard_time": 1715090720,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1345180,
+        "num": 1345180,
+        "word": "建议一次食用小龙虾不超10只",
+        "onboard_time": 1715079138,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 32655,
+        "num": 1137074,
+        "word": "为中法建交精神赋予新的时代内涵",
+        "onboard_time": 1715088260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1087013,
+        "num": 1087013,
+        "word": "小杨哥称在发现高价水之后就要求降价",
+        "onboard_time": 1715088199,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 745633,
+        "num": 745633,
+        "word": "宋仲基宋慧乔将出席百想",
+        "onboard_time": 1715063959,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 603915,
+        "num": 739076,
+        "word": "张雪峰6天5晚研学营售价高达9999元",
+        "onboard_time": 1715087420,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 736233,
+        "num": 736233,
+        "word": "这个宝宝一出生就15岁了",
+        "onboard_time": 1715087539,
+        "rank": 6,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 714906,
+        "num": 714906,
+        "word": "iPad",
+        "onboard_time": 1715091861,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 652403,
+        "num": 652403,
+        "word": "周鸿祎直播发飙",
+        "onboard_time": 1715082739,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 50080,
+        "num": 551276,
+        "word": "小朋友用特种兵式旅游爆改儿歌",
+        "onboard_time": 1715091802,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704566,
+        "num": 551239,
+        "word": "警方再通报镇雄恶性伤人事件",
+        "onboard_time": 1715089159,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550951,
+        "num": 550951,
+        "word": "韩国民众吐槽五花肉太肥",
+        "onboard_time": 1715081540,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481508,
+        "num": 481508,
+        "word": "金智媛和她的男主角们",
+        "onboard_time": 1715087780,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 446161,
+        "num": 446161,
+        "word": "情侣同居要检测HPV",
+        "onboard_time": 1715072239,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 444218,
+        "num": 444218,
+        "word": "汤唯为金高银颁奖",
+        "onboard_time": 1715082919,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 442521,
+        "num": 442521,
+        "word": "李到晛 智妍呐谢谢你",
+        "onboard_time": 1715090299,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 382345,
+        "num": 382345,
+        "word": "这种毒碗你家可能天天都在用",
+        "onboard_time": 1715088020,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 378753,
+        "num": 378753,
+        "word": "1999年5月7日 中国人不忘记",
+        "onboard_time": 1715062879,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 373818,
+        "num": 373818,
+        "word": "淘宝免单",
+        "onboard_time": 1715051238,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 361673,
+        "num": 361673,
+        "word": "我的阿勒泰 新疆宣传片",
+        "onboard_time": 1715091080,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 632183,
+        "num": 359857,
+        "word": "河南一地公职人员下午上班时间延迟至3时",
+        "onboard_time": 1715089521,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350693,
+        "num": 350693,
+        "word": "iPad Air",
+        "onboard_time": 1715091981,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 334790,
+        "num": 334790,
+        "word": "刘涛说郑佩佩身体已经不太好了",
+        "onboard_time": 1715068938,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307004,
+        "num": 307004,
+        "word": "王楚钦孙颖莎3比0德赛戈尔帕德",
+        "onboard_time": 1715091020,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295179,
+        "num": 295179,
+        "word": "iPad Air尺寸",
+        "onboard_time": 1715091920,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 228092,
+        "num": 228092,
+        "word": "金秀贤张杰张靓颖十年前同台演唱",
+        "onboard_time": 1715084898,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218543,
+        "num": 218543,
+        "word": "宋慧乔百想状态",
+        "onboard_time": 1715084059,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217798,
+        "num": 217798,
+        "word": "aespa正规一专辑配置",
+        "onboard_time": 1715092461,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200789,
+        "num": 200789,
+        "word": "阿水走错了",
+        "onboard_time": 1715084539,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194788,
+        "num": 194788,
+        "word": "秦岚说王安宇有点内耗",
+        "onboard_time": 1715085919,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187148,
+        "num": 187148,
+        "word": "郑恺朱丹哭了",
+        "onboard_time": 1715089159,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188180,
+        "num": 187043,
+        "word": "宋慧乔颁奖",
+        "onboard_time": 1715086759,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186896,
+        "num": 186896,
+        "word": "新款iPadAir新增13英寸机型",
+        "onboard_time": 1715092281,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 186221,
+        "num": 186221,
+        "word": "37岁从确诊肺癌到去世仅2周",
+        "onboard_time": 1715092281,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178766,
+        "num": 178766,
+        "word": "金秀贤泡泡",
+        "onboard_time": 1715092340,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172219,
+        "num": 172219,
+        "word": "背着善宰跑",
+        "onboard_time": 1715087720,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169533,
+        "num": 169533,
+        "word": "南雅出狱气后妈这段看爽了",
+        "onboard_time": 1715090960,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168604,
+        "num": 168604,
+        "word": "秦岚45岁身材管理",
+        "onboard_time": 1715084659,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162686,
+        "num": 162686,
+        "word": "赵睿大腿不适",
+        "onboard_time": 1715088379,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158683,
+        "num": 158683,
+        "word": "庆余年",
+        "onboard_time": 1715081358,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151727,
+        "num": 151727,
+        "word": "苹果发布会直播",
+        "onboard_time": 1715092401,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149974,
+        "num": 149974,
+        "word": "陶昕然妈妈年轻时撞脸虞书欣",
+        "onboard_time": 1715084960,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149687,
+        "num": 149687,
+        "word": "娜扎脚腕纹身",
+        "onboard_time": 1715078539,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143822,
+        "num": 143822,
+        "word": "跟天蝎座相处的秘诀",
+        "onboard_time": 1715084539,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141508,
+        "num": 141508,
+        "word": "这下卓沅要更喜欢他的手了",
+        "onboard_time": 1715091322,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136148,
+        "num": 136148,
+        "word": "周雨彤上桌了",
+        "onboard_time": 1715083219,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133416,
+        "num": 133416,
+        "word": "周深演唱会",
+        "onboard_time": 1715088859,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129623,
+        "num": 129623,
+        "word": "上海医院治愈一25年糖尿病病史患者",
+        "onboard_time": 1715078118,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129359,
+        "num": 129359,
+        "word": "突然发现P人真是不缺松弛感",
+        "onboard_time": 1715084420,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128628,
+        "num": 128628,
+        "word": "普京新任期首访国家是中国",
+        "onboard_time": 1715080218,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#马克龙总统夫妇机场迎接习主席#"
+    }
+  }
+}
