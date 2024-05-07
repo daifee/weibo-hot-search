@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715114117449,
+  "endTime": 1715116593759,
   "band_list": [
     {
       "raw_hot": 1143072,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 141039,
-      "num": 42290,
+      "num": 45541,
       "word": "百度副总裁被曝安排工作言辞激烈",
       "onboard_time": 1715109252,
       "rank": 45,
@@ -451,12 +451,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 27897,
-      "num": 35357,
+      "raw_hot": 32587,
+      "num": 46513,
       "word": "迪丽热巴美得摄人心魄",
       "onboard_time": 1715111290,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21754,
+      "num": 21754,
+      "word": "4人含碎玻璃渣吃火锅敲诈被刑拘",
+      "onboard_time": 1715114831,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20473,
@@ -505,6 +513,14 @@
       "onboard_time": 1715080338,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14001,
+      "num": 14001,
+      "word": "刘宇宁拔剑海报",
+      "onboard_time": 1715116390,
+      "rank": 47,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
