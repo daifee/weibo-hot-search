@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715092478135,
+  "endTime": 1715095133570,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -491,12 +491,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1129942,
+      "num": 867170,
+      "word": "iPad",
+      "onboard_time": 1715091861,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1118749,
       "num": 1118749,
       "word": "庆余年2将登央八黄金档",
       "onboard_time": 1714963698,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1104595,
+      "num": 338949,
+      "word": "37岁从确诊肺癌到去世仅2周",
+      "onboard_time": 1715092281,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1102586,
@@ -553,6 +569,14 @@
       "onboard_time": 1714866374,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1060884,
+      "num": 727146,
+      "word": "iPad Air",
+      "onboard_time": 1715091981,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 1059422,
@@ -697,6 +721,14 @@
       "onboard_time": 1715053640,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 906871,
+      "num": 540041,
+      "word": "iPad Pro M4",
+      "onboard_time": 1715092641,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 906238,
@@ -1073,14 +1105,6 @@
       "onboard_time": 1714913599,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 714906,
-      "num": 714906,
-      "word": "iPad",
-      "onboard_time": 1715091861,
-      "rank": 7,
-      "category": "数码"
     },
     {
       "raw_hot": 712529,
@@ -1803,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 507375,
+      "num": 507375,
+      "word": "金秀贤泡泡",
+      "onboard_time": 1715092340,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 506611,
       "num": 506611,
       "word": "普京今日宣誓就职",
@@ -1865,6 +1897,14 @@
       "onboard_time": 1714998379,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 492801,
+      "num": 492801,
+      "word": "我的阿勒泰 新疆宣传片",
+      "onboard_time": 1715091080,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 491595,
@@ -2001,6 +2041,14 @@
       "onboard_time": 1714892780,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 472784,
+      "num": 472784,
+      "word": "iPhone 散热",
+      "onboard_time": 1715093302,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 468729,
@@ -2411,6 +2459,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 412183,
+      "num": 355353,
+      "word": "新款iPad价格",
+      "onboard_time": 1715093599,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 411782,
       "num": 411782,
       "word": "普京宣誓就任",
@@ -2523,6 +2579,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 394476,
+      "num": 394476,
+      "word": "这种毒碗你家可能天天都在用",
+      "onboard_time": 1715088020,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 394369,
       "num": 358398,
       "word": "邓超你关注下陶白白吧",
@@ -2587,20 +2651,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383399,
+      "num": 329578,
+      "word": "我iPad也要低人一等了",
+      "onboard_time": 1715094021,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 383224,
       "num": 383224,
       "word": "周雨彤上桌了",
       "onboard_time": 1715083219,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 382345,
-      "num": 382345,
-      "word": "这种毒碗你家可能天天都在用",
-      "onboard_time": 1715088020,
-      "rank": 49,
-      "category": "科学科普"
     },
     {
       "raw_hot": 380213,
@@ -2625,6 +2689,14 @@
       "onboard_time": 1715051900,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 375708,
+      "num": 202797,
+      "word": "警方通报太原一男子发表辱华言论",
+      "onboard_time": 1715093181,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375344,
@@ -2771,14 +2843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361673,
-      "num": 361673,
-      "word": "我的阿勒泰 新疆宣传片",
-      "onboard_time": 1715091080,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 360127,
       "num": 360127,
       "word": "戴眼镜的吃饭可以拿来当支架",
@@ -2873,14 +2937,6 @@
       "onboard_time": 1714918581,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 350693,
-      "num": 350693,
-      "word": "iPad Air",
-      "onboard_time": 1715091981,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 348488,
@@ -4099,6 +4155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 233950,
+      "num": 233950,
+      "word": "aespa正规一专辑配置",
+      "onboard_time": 1715092461,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 233648,
       "num": 233648,
       "word": "特斯拉回应金华事故",
@@ -4425,14 +4489,6 @@
       "onboard_time": 1714878917,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 217798,
-      "num": 217798,
-      "word": "aespa正规一专辑配置",
-      "onboard_time": 1715092461,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 217479,
@@ -4811,6 +4867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203535,
+      "num": 203535,
+      "word": "这6种异常表现或是恶性肿瘤上身了",
+      "onboard_time": 1715093000,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 203317,
       "num": 203317,
       "word": "厦门震感",
@@ -5011,6 +5075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198198,
+      "num": 198198,
+      "word": "马思纯蕾丝德训鞋",
+      "onboard_time": 1715094561,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198084,
       "num": 198084,
       "word": "以为是告发结果是告白",
@@ -5065,6 +5137,14 @@
       "onboard_time": 1714966220,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196965,
+      "num": 196965,
+      "word": "iPad Pro",
+      "onboard_time": 1715093361,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 196746,
@@ -5272,6 +5352,14 @@
       "word": "TES对战TL",
       "onboard_time": 1715077098,
       "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 193084,
+      "num": 193084,
+      "word": "TES巅峰对决eStar",
+      "onboard_time": 1715094741,
+      "rank": 33,
       "category": "电竞"
     },
     {
@@ -5483,6 +5571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187706,
+      "num": 186896,
+      "word": "新款iPadAir新增13英寸机型",
+      "onboard_time": 1715092281,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 187594,
       "num": 187594,
       "word": "不可告人定档",
@@ -5529,14 +5625,6 @@
       "onboard_time": 1714877477,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186896,
-      "num": 186896,
-      "word": "新款iPadAir新增13英寸机型",
-      "onboard_time": 1715092281,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 186890,
@@ -5587,20 +5675,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186221,
-      "num": 186221,
-      "word": "37岁从确诊肺癌到去世仅2周",
-      "onboard_time": 1715092281,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186015,
       "num": 180133,
       "word": "导演回应一顿火锅撤档",
       "onboard_time": 1714897098,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 185619,
+      "num": 180627,
+      "word": "iPad 泡面盖",
+      "onboard_time": 1715094561,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 185119,
@@ -5699,6 +5787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182810,
+      "num": 182810,
+      "word": "利剑玫瑰 暑期档",
+      "onboard_time": 1715092881,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182667,
       "num": 372135,
       "word": "榴莲是典型的高糖高脂水果",
@@ -5729,6 +5825,14 @@
       "onboard_time": 1714886898,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 182113,
+      "num": 167261,
+      "word": "研究称胖男人生育力更差",
+      "onboard_time": 1715094980,
+      "rank": 41,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 181754,
@@ -5769,6 +5873,14 @@
       "onboard_time": 1714899559,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180201,
+      "num": 169533,
+      "word": "南雅出狱气后妈这段看爽了",
+      "onboard_time": 1715090960,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 180141,
@@ -5817,14 +5929,6 @@
       "onboard_time": 1714885879,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178766,
-      "num": 178766,
-      "word": "金秀贤泡泡",
-      "onboard_time": 1715092340,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 178672,
@@ -6227,14 +6331,6 @@
       "category": "美食,科学科普"
     },
     {
-      "raw_hot": 169533,
-      "num": 169533,
-      "word": "南雅出狱气后妈这段看爽了",
-      "onboard_time": 1715090960,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169131,
       "num": 169131,
       "word": "严浩翔向大爷求助小灵通怎么用",
@@ -6353,6 +6449,14 @@
       "onboard_time": 1715008460,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166487,
+      "num": 166487,
+      "word": "ApplePencilPro发布",
+      "onboard_time": 1715094381,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 166470,
@@ -6577,6 +6681,14 @@
       "onboard_time": 1714899079,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159419,
+      "num": 159419,
+      "word": "难怪校长爱看小孩跑操",
+      "onboard_time": 1715092401,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 159396,
@@ -6907,6 +7019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150800,
+      "num": 150800,
+      "word": "宋亚轩腹肌",
+      "onboard_time": 1715095040,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 150585,
       "num": 150585,
       "word": "宋雨琦文俊辉Challenge",
@@ -7065,6 +7185,14 @@
       "onboard_time": 1715088859,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146799,
+      "num": 146799,
+      "word": "一诺给粉丝唱分手快乐",
+      "onboard_time": 1715093900,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 146772,
@@ -8067,6 +8195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105256,
+      "num": 563952,
+      "word": "小朋友用特种兵式旅游爆改儿歌",
+      "onboard_time": 1715091802,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104874,
       "num": 104874,
       "word": "难怪反派听到熟悉的声音要被硬控",
@@ -8569,14 +8705,6 @@
       "onboard_time": 1714935192,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 50080,
-      "num": 551276,
-      "word": "小朋友用特种兵式旅游爆改儿歌",
-      "onboard_time": 1715091802,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49174,
