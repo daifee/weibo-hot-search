@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715049894282,
+  "endTime": 1715052062475,
   "band_list": [
     {
       "raw_hot": 3073690,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1343233,
+      "num": 1343233,
+      "word": "金价",
+      "onboard_time": 1714827799,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1331423,
       "num": 1331423,
       "word": "很快就知道6天有多长了",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 1087556,
-      "num": 337271,
+      "num": 365390,
       "word": "李楷灿 逃税",
       "onboard_time": 1715047339,
       "rank": 10,
@@ -545,6 +553,14 @@
       "onboard_time": 1714952061,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 899553,
+      "num": 899553,
+      "word": "中国游客日本人均消费近30万日元",
+      "onboard_time": 1715048239,
+      "rank": 25,
+      "category": "旅游"
     },
     {
       "raw_hot": 889938,
@@ -809,6 +825,14 @@
       "onboard_time": 1715046679,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 726790,
+      "num": 726790,
+      "word": "迪丽热巴编发红玫瑰",
+      "onboard_time": 1715049739,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 726053,
@@ -1123,6 +1147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 579337,
+      "num": 359368,
+      "word": "保安看刘亦菲时的眼神",
+      "onboard_time": 1715049619,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 575921,
       "num": 318218,
       "word": "哈尔滨多人疑霸凌殴打小孩",
@@ -1252,7 +1284,7 @@
     },
     {
       "raw_hot": 536995,
-      "num": 335482,
+      "num": 356928,
       "word": "苹果发布会新品曝光",
       "onboard_time": 1715045478,
       "rank": 34,
@@ -1315,14 +1347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 519469,
-      "num": 312593,
-      "word": "中国游客日本人均消费近30万日元",
-      "onboard_time": 1715048239,
-      "rank": 25,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 517666,
       "num": 517666,
       "word": "92名在缅北跨境电诈嫌犯被移交我方",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1714879457,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 506611,
+      "num": 506611,
+      "word": "普京今日宣誓就职",
+      "onboard_time": 1715049919,
+      "rank": 6,
+      "category": "国外时政"
     },
     {
       "raw_hot": 503874,
@@ -2011,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373052,
+      "num": 373052,
+      "word": "井柏然演技",
+      "onboard_time": 1715049857,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372121,
       "num": 372121,
       "word": "30岁了依然觉得自己有很多可能",
@@ -2057,6 +2097,14 @@
       "onboard_time": 1715038516,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 364548,
+      "num": 364548,
+      "word": "拜登呼吁不再重演犹太人大屠杀遭网友痛批",
+      "onboard_time": 1715045778,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 364286,
@@ -2148,7 +2196,7 @@
     },
     {
       "raw_hot": 356414,
-      "num": 357489,
+      "num": 365518,
       "word": "男子打球被球友看出面相不对救了一命",
       "onboard_time": 1715020752,
       "rank": 48,
@@ -2161,14 +2209,6 @@
       "onboard_time": 1714918702,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 355351,
-      "num": 325880,
-      "word": "拜登呼吁不再重演犹太人大屠杀遭网友痛批",
-      "onboard_time": 1715045778,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 354793,
@@ -2235,6 +2275,22 @@
       "category": "科学科普,自然"
     },
     {
+      "raw_hot": 343455,
+      "num": 343455,
+      "word": "我才不要和你做朋友呢海报",
+      "onboard_time": 1715050639,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 342225,
+      "num": 342225,
+      "word": "StrayKids疑似被歧视",
+      "onboard_time": 1715048778,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339805,
       "num": 339805,
       "word": "王曼昱1比3巴特拉",
@@ -2257,6 +2313,14 @@
       "onboard_time": 1714829178,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336281,
+      "num": 336281,
+      "word": "穿婚纱的王珞丹",
+      "onboard_time": 1715050699,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 334372,
@@ -2299,14 +2363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 331209,
-      "num": 331209,
-      "word": "金价",
-      "onboard_time": 1714827799,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 330219,
       "num": 256084,
       "word": "邓超 水瓶座",
@@ -2339,12 +2395,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 323768,
-      "num": 323768,
-      "word": "迪丽热巴编发红玫瑰",
-      "onboard_time": 1715049739,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 326936,
+      "num": 229600,
+      "word": "第一次看掘金如此狼狈",
+      "onboard_time": 1715051597,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 322440,
@@ -2627,6 +2683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282465,
+      "num": 282465,
+      "word": "新闻女王2",
+      "onboard_time": 1715051119,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282138,
       "num": 277438,
       "word": "林俊杰肌肉比脸大",
@@ -2819,14 +2883,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 262104,
-      "num": 262104,
-      "word": "StrayKids疑似被歧视",
-      "onboard_time": 1715048778,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 261313,
       "num": 261313,
       "word": "学历大幅贬值了吗",
@@ -3011,6 +3067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242986,
+      "num": 242986,
+      "word": "越来越频繁的电影撤档伤害了谁",
+      "onboard_time": 1715050878,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 238965,
       "num": 238965,
       "word": "立夏",
@@ -3131,6 +3195,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 229833,
+      "num": 229833,
+      "word": "赵丽颖白裙背影",
+      "onboard_time": 1715051900,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 229546,
       "num": 229546,
       "word": "这8个表现说明你已经瘦了",
@@ -3153,6 +3225,14 @@
       "onboard_time": 1714889658,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229147,
+      "num": 229147,
+      "word": "百度公关要求团队成员都下场做自媒体",
+      "onboard_time": 1715050338,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 228852,
@@ -3315,6 +3395,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 218840,
+      "num": 218840,
+      "word": "东京P卡少年走到了巴黎",
+      "onboard_time": 1715049619,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218204,
       "num": 218204,
       "word": "你喝咖啡会感到不舒服吗",
@@ -3393,6 +3481,14 @@
       "onboard_time": 1714902019,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213999,
+      "num": 213999,
+      "word": "癌症正在年轻化",
+      "onboard_time": 1715050279,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 213761,
@@ -3523,6 +3619,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208104,
+      "num": 208104,
+      "word": "年轻人流行辞职去种地",
+      "onboard_time": 1715050338,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 207972,
+      "num": 207972,
+      "word": "买房五年没住手头五六十个车位被出租",
+      "onboard_time": 1715051779,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207917,
       "num": 194216,
       "word": "荆棘公主靠自己反杀",
@@ -3561,6 +3673,14 @@
       "onboard_time": 1714976719,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204643,
+      "num": 204643,
+      "word": "MetGala mvp",
+      "onboard_time": 1715047639,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 204391,
@@ -3617,14 +3737,6 @@
       "onboard_time": 1715007559,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 202338,
-      "num": 202338,
-      "word": "MetGala mvp",
-      "onboard_time": 1715047639,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201763,
@@ -4267,6 +4379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182844,
+      "num": 182844,
+      "word": "张翰借袜子给秦岚",
+      "onboard_time": 1715050217,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182667,
       "num": 372135,
       "word": "榴莲是典型的高糖高脂水果",
@@ -4379,28 +4499,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 177860,
-      "num": 177860,
-      "word": "东京P卡少年走到了巴黎",
-      "onboard_time": 1715049619,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177515,
       "num": 177515,
       "word": "狗狗被前主人抛弃患上抑郁症",
       "onboard_time": 1714954760,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 177387,
-      "num": 177387,
-      "word": "保安看刘亦菲时的眼神",
-      "onboard_time": 1715049619,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 177051,
@@ -4507,6 +4611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174749,
+      "num": 174749,
+      "word": "官方回应4条高铁票价调整",
+      "onboard_time": 1715051179,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174707,
       "num": 174707,
       "word": "俄乌局势新进展",
@@ -4585,6 +4697,14 @@
       "onboard_time": 1714961778,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173210,
+      "num": 173210,
+      "word": "森林狼打爆掘金",
+      "onboard_time": 1715051900,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 172892,
@@ -5067,6 +5187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157145,
+      "num": 157145,
+      "word": "华晨宇演唱会散场粉丝集体致谢消防员",
+      "onboard_time": 1715051900,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156880,
       "num": 156880,
       "word": "乍一看以为戚薇裤子当上衣穿",
@@ -5113,6 +5241,14 @@
       "onboard_time": 1714988299,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155324,
+      "num": 155324,
+      "word": "NBA",
+      "onboard_time": 1715049798,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 155224,
@@ -5273,6 +5409,14 @@
       "onboard_time": 1714898299,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148938,
+      "num": 153744,
+      "word": "戈贝尔今天不打",
+      "onboard_time": 1715050039,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 148826,
@@ -5619,14 +5763,6 @@
       "category": "科学科普,情感"
     },
     {
-      "raw_hot": 133372,
-      "num": 133372,
-      "word": "井柏然演技",
-      "onboard_time": 1715049857,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133168,
       "num": 133168,
       "word": "问界",
@@ -5785,14 +5921,6 @@
       "onboard_time": 1715049019,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 126110,
-      "num": 126110,
-      "word": "NBA",
-      "onboard_time": 1715049798,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 126092,
@@ -6124,7 +6252,7 @@
     },
     {
       "raw_hot": 112461,
-      "num": 843662,
+      "num": 1351440,
       "word": "数据盘点五一假期",
       "onboard_time": 1715000958,
       "rank": 2,
@@ -6888,6 +7016,14 @@
       "word": "文化中国行我写家乡",
       "onboard_time": 1714742900,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6999,
+      "num": 1431040,
+      "word": "法国人第一次喝中国茶喝出夹子音",
+      "onboard_time": 1715052018,
+      "rank": 1,
       "category": "社会新闻"
     },
     {

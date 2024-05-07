@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715049894282,
+  "endTime": 1715052062475,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -611,6 +611,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1343233,
+      "num": 1343233,
+      "word": "金价",
+      "onboard_time": 1714827799,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1341705,
       "num": 443422,
       "word": "前职业选手谈胖猫代练2年赚50万",
@@ -1036,7 +1044,7 @@
     },
     {
       "raw_hot": 1087556,
-      "num": 337271,
+      "num": 365390,
       "word": "李楷灿 逃税",
       "onboard_time": 1715047339,
       "rank": 10,
@@ -1361,6 +1369,14 @@
       "onboard_time": 1714803858,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 899553,
+      "num": 899553,
+      "word": "中国游客日本人均消费近30万日元",
+      "onboard_time": 1715048239,
+      "rank": 25,
+      "category": "旅游"
     },
     {
       "raw_hot": 891566,
@@ -1835,14 +1851,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 778430,
-      "num": 778430,
-      "word": "金价",
-      "onboard_time": 1714827799,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 775594,
       "num": 775594,
       "word": "商人拿1000万帮县委书记女儿买房",
@@ -2016,6 +2024,14 @@
       "word": "徐艺洋上班",
       "onboard_time": 1714535778,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 726790,
+      "num": 726790,
+      "word": "迪丽热巴编发红玫瑰",
+      "onboard_time": 1715049739,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -2843,6 +2859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 579337,
+      "num": 359368,
+      "word": "保安看刘亦菲时的眼神",
+      "onboard_time": 1715049619,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 576314,
       "num": 576314,
       "word": "建议大学生提前培养一个小号",
@@ -3164,7 +3188,7 @@
     },
     {
       "raw_hot": 536995,
-      "num": 335482,
+      "num": 356928,
       "word": "苹果发布会新品曝光",
       "onboard_time": 1715045478,
       "rank": 34,
@@ -3307,14 +3331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 519469,
-      "num": 312593,
-      "word": "中国游客日本人均消费近30万日元",
-      "onboard_time": 1715048239,
-      "rank": 25,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 518607,
       "num": 518607,
       "word": "华晨宇唱15分钟把太阳唱出来",
@@ -3409,6 +3425,14 @@
       "onboard_time": 1714524498,
       "rank": 11,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 506611,
+      "num": 506611,
+      "word": "普京今日宣誓就职",
+      "onboard_time": 1715049919,
+      "rank": 6,
+      "category": "国外时政"
     },
     {
       "raw_hot": 503874,
@@ -5019,6 +5043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373052,
+      "num": 373052,
+      "word": "井柏然演技",
+      "onboard_time": 1715049857,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372121,
       "num": 372121,
       "word": "30岁了依然觉得自己有很多可能",
@@ -5147,6 +5179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 364548,
+      "num": 364548,
+      "word": "拜登呼吁不再重演犹太人大屠杀遭网友痛批",
+      "onboard_time": 1715045778,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 364053,
       "num": 325689,
       "word": "ILLIT听众超过BLACKPINK",
@@ -5268,7 +5308,7 @@
     },
     {
       "raw_hot": 356414,
-      "num": 357489,
+      "num": 365518,
       "word": "男子打球被球友看出面相不对救了一命",
       "onboard_time": 1715020752,
       "rank": 48,
@@ -5281,14 +5321,6 @@
       "onboard_time": 1714918702,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 355351,
-      "num": 325880,
-      "word": "拜登呼吁不再重演犹太人大屠杀遭网友痛批",
-      "onboard_time": 1715045778,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 354994,
@@ -5483,6 +5515,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 343455,
+      "num": 343455,
+      "word": "我才不要和你做朋友呢海报",
+      "onboard_time": 1715050639,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 342225,
+      "num": 342225,
+      "word": "StrayKids疑似被歧视",
+      "onboard_time": 1715048778,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341919,
       "num": 244399,
       "word": "钟楚曦侯雯元去时代少年团演唱会",
@@ -5553,6 +5601,14 @@
       "onboard_time": 1714535417,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 336281,
+      "num": 336281,
+      "word": "穿婚纱的王珞丹",
+      "onboard_time": 1715050699,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 335627,
@@ -5739,20 +5795,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 326936,
+      "num": 229600,
+      "word": "第一次看掘金如此狼狈",
+      "onboard_time": 1715051597,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324756,
       "num": 244944,
       "word": "童瑶自曝不好意思被张新成看",
       "onboard_time": 1714719319,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 323768,
-      "num": 323768,
-      "word": "迪丽热巴编发红玫瑰",
-      "onboard_time": 1715049739,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 322796,
@@ -6403,6 +6459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 282465,
+      "num": 282465,
+      "word": "新闻女王2",
+      "onboard_time": 1715051119,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282138,
       "num": 277438,
       "word": "林俊杰肌肉比脸大",
@@ -6841,14 +6905,6 @@
       "onboard_time": 1714808359,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 262104,
-      "num": 262104,
-      "word": "StrayKids疑似被歧视",
-      "onboard_time": 1715048778,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 261873,
@@ -7315,6 +7371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 242986,
+      "num": 242986,
+      "word": "越来越频繁的电影撤档伤害了谁",
+      "onboard_time": 1715050878,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 242888,
       "num": 242888,
       "word": "杨幂方辟谣参加喜人奇妙夜",
@@ -7683,6 +7747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229833,
+      "num": 229833,
+      "word": "赵丽颖白裙背影",
+      "onboard_time": 1715051900,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 229546,
       "num": 229546,
       "word": "这8个表现说明你已经瘦了",
@@ -7713,6 +7785,14 @@
       "onboard_time": 1714778293,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229147,
+      "num": 229147,
+      "word": "百度公关要求团队成员都下场做自媒体",
+      "onboard_time": 1715050338,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 228955,
@@ -8035,6 +8115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 218840,
+      "num": 218840,
+      "word": "东京P卡少年走到了巴黎",
+      "onboard_time": 1715049619,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218788,
       "num": 217929,
       "word": "孙俪说邓超恋家",
@@ -8241,6 +8329,14 @@
       "onboard_time": 1714734259,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213999,
+      "num": 213999,
+      "word": "癌症正在年轻化",
+      "onboard_time": 1715050279,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 213761,
@@ -8531,12 +8627,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208104,
+      "num": 208104,
+      "word": "年轻人流行辞职去种地",
+      "onboard_time": 1715050338,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208092,
       "num": 208092,
       "word": "薛之谦新疆抢票",
       "onboard_time": 1714815978,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 207972,
+      "num": 207972,
+      "word": "买房五年没住手头五六十个车位被出租",
+      "onboard_time": 1715051779,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207917,
@@ -8739,6 +8851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204643,
+      "num": 204643,
+      "word": "MetGala mvp",
+      "onboard_time": 1715047639,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 204391,
       "num": 204391,
       "word": "朱丹说周一围的颜值是意外之喜",
@@ -8897,14 +9017,6 @@
       "onboard_time": 1714805837,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 202338,
-      "num": 202338,
-      "word": "MetGala mvp",
-      "onboard_time": 1715047639,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201860,
@@ -10467,6 +10579,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 182844,
+      "num": 182844,
+      "word": "张翰借袜子给秦岚",
+      "onboard_time": 1715050217,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182835,
       "num": 182835,
       "word": "五一档电影",
@@ -10755,14 +10875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 177860,
-      "num": 177860,
-      "word": "东京P卡少年走到了巴黎",
-      "onboard_time": 1715049619,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177858,
       "num": 177858,
       "word": "美国和沙特将达成历史性协议",
@@ -10793,14 +10905,6 @@
       "onboard_time": 1714954760,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 177387,
-      "num": 177387,
-      "word": "保安看刘亦菲时的眼神",
-      "onboard_time": 1715049619,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 177262,
@@ -11027,6 +11131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174749,
+      "num": 174749,
+      "word": "官方回应4条高铁票价调整",
+      "onboard_time": 1715051179,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174707,
       "num": 174707,
       "word": "俄乌局势新进展",
@@ -11161,6 +11273,14 @@
       "onboard_time": 1714632918,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 173210,
+      "num": 173210,
+      "word": "森林狼打爆掘金",
+      "onboard_time": 1715051900,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 173194,
@@ -12347,6 +12467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157145,
+      "num": 157145,
+      "word": "华晨宇演唱会散场粉丝集体致谢消防员",
+      "onboard_time": 1715051900,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157044,
       "num": 157044,
       "word": "赵睿个人能力",
@@ -12465,6 +12593,14 @@
       "onboard_time": 1714988299,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155324,
+      "num": 155324,
+      "word": "NBA",
+      "onboard_time": 1714620379,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 155190,
@@ -12977,6 +13113,14 @@
       "onboard_time": 1714523055,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148938,
+      "num": 153744,
+      "word": "戈贝尔今天不打",
+      "onboard_time": 1715050039,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 148826,
@@ -14131,14 +14275,6 @@
       "category": "科学科普,情感"
     },
     {
-      "raw_hot": 133372,
-      "num": 133372,
-      "word": "井柏然演技",
-      "onboard_time": 1715049857,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133168,
       "num": 133168,
       "word": "问界",
@@ -14689,14 +14825,6 @@
       "onboard_time": 1715049019,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 126110,
-      "num": 126110,
-      "word": "NBA",
-      "onboard_time": 1714620379,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 125844,
@@ -15716,7 +15844,7 @@
     },
     {
       "raw_hot": 112461,
-      "num": 843662,
+      "num": 1351440,
       "word": "数据盘点五一假期",
       "onboard_time": 1715000958,
       "rank": 2,
@@ -17808,6 +17936,14 @@
       "word": "老人沉迷直播间买买买民警破门而入",
       "onboard_time": 1715027650,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6999,
+      "num": 1431040,
+      "word": "法国人第一次喝中国茶喝出夹子音",
+      "onboard_time": 1715052018,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
