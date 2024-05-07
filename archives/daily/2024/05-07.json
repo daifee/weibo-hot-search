@@ -1,7 +1,23 @@
 {
   "startTime": 1715012728684,
-  "endTime": 1715038502865,
+  "endTime": 1715044581213,
   "band_list": [
+    {
+      "raw_hot": 1649935,
+      "num": 1649935,
+      "word": "多名男演员拒演背着善宰跑",
+      "onboard_time": 1715041279,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1351442,
+      "num": 1351442,
+      "word": "王楚钦孙颖莎获奥运混双资格",
+      "onboard_time": 1715042601,
+      "rank": 1,
+      "category": "体育"
+    },
     {
       "raw_hot": 1291935,
       "num": 1291935,
@@ -12,11 +28,27 @@
     },
     {
       "raw_hot": 1178293,
-      "num": 181757,
+      "num": 317550,
       "word": "经常口臭的人一般都逃不过这几个原因",
       "onboard_time": 1715007080,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1102586,
+      "num": 328795,
+      "word": "百度副总裁称员工闹分手提离职我秒批",
+      "onboard_time": 1715038516,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1075663,
+      "num": 866391,
+      "word": "缅甸",
+      "onboard_time": 1715006420,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 947999,
@@ -27,20 +59,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 866391,
-      "num": 866391,
-      "word": "缅甸",
-      "onboard_time": 1715006420,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 770441,
-      "num": 475902,
+      "num": 501650,
       "word": "人民文娱评华晨宇日出演唱会",
       "onboard_time": 1714999998,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 699320,
+      "num": 432353,
+      "word": "张翰一次开朗换来终生内向",
+      "onboard_time": 1715009239,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 648741,
@@ -49,6 +81,14 @@
       "onboard_time": 1715011696,
       "rank": 6,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 619566,
+      "num": 338714,
+      "word": "31岁跨国恋网红娜娜去世",
+      "onboard_time": 1715043260,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 604262,
@@ -65,6 +105,14 @@
       "onboard_time": 1715036955,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 582453,
+      "num": 582453,
+      "word": "iPhone折叠屏或将可向内外折叠",
+      "onboard_time": 1715041580,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 556100,
@@ -91,18 +139,58 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 432353,
-      "num": 432353,
-      "word": "张翰一次开朗换来终生内向",
-      "onboard_time": 1715009239,
-      "rank": 5,
+      "raw_hot": 449912,
+      "num": 333443,
+      "word": "Jennie珍珠腰链",
+      "onboard_time": 1715043380,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 448363,
+      "num": 316038,
+      "word": "胃癌来敲门身体会发出5大警报",
+      "onboard_time": 1715043440,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 423157,
+      "num": 423157,
+      "word": "孙丞潇新综艺没有金莎",
+      "onboard_time": 1715041279,
+      "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 366595,
+      "num": 366595,
+      "word": "哈马斯同意停火方案",
+      "onboard_time": 1715038516,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 364830,
+      "num": 340090,
+      "word": "WTT沙特 爆冷",
+      "onboard_time": 1715038516,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 362651,
       "num": 362651,
       "word": "上海现付费马桶圈充1000可用13.8万次",
       "onboard_time": 1715001678,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356414,
+      "num": 357489,
+      "word": "男子打球被球友看出面相不对救了一命",
+      "onboard_time": 1715020752,
       "rank": 48,
       "category": "社会新闻"
     },
@@ -116,11 +204,19 @@
     },
     {
       "raw_hot": 326799,
-      "num": 271493,
+      "num": 314788,
       "word": "邓超你关注下陶白白吧",
       "onboard_time": 1715003960,
       "rank": 10,
       "category": "艺人,情感"
+    },
+    {
+      "raw_hot": 321267,
+      "num": 321267,
+      "word": "谢帝在新说唱向诺米道歉",
+      "onboard_time": 1715038456,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 319912,
@@ -129,6 +225,30 @@
       "onboard_time": 1715009059,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 318218,
+      "num": 318218,
+      "word": "哈尔滨多人疑霸凌殴打小孩",
+      "onboard_time": 1715041821,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313418,
+      "num": 313418,
+      "word": "什么环境下吃泡面最有感觉",
+      "onboard_time": 1715039958,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 304466,
+      "num": 304466,
+      "word": "尼古拉斯凯奇儿子殴打亲妈",
+      "onboard_time": 1715042601,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 304321,
@@ -164,7 +284,7 @@
     },
     {
       "raw_hot": 272003,
-      "num": 177826,
+      "num": 259886,
       "word": "熬夜疲劳可能会让你变臭",
       "onboard_time": 1715017212,
       "rank": 21,
@@ -203,12 +323,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235956,
-      "num": 357489,
-      "word": "男子打球被球友看出面相不对救了一命",
-      "onboard_time": 1715020752,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 226740,
+      "num": 226740,
+      "word": "二十多岁已经厌烦上班到极致",
+      "onboard_time": 1715016074,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 224395,
+      "num": 219832,
+      "word": "阿里巴巴杭州全球总部5月10日启用",
+      "onboard_time": 1715042120,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 222797,
@@ -219,6 +347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 221885,
+      "num": 221885,
+      "word": "汤家凤评免单数学题难倒众人",
+      "onboard_time": 1715043739,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 219384,
       "num": 219384,
       "word": "原来高铁上是有15元的盒饭的",
@@ -227,11 +363,35 @@
       "category": "美食"
     },
     {
+      "raw_hot": 216120,
+      "num": 216120,
+      "word": "婴儿在公共场所哭闹",
+      "onboard_time": 1715039357,
+      "rank": 31,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 211756,
       "num": 211756,
       "word": "莎头",
       "onboard_time": 1715037976,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 211202,
+      "num": 211202,
+      "word": "外资爆买茅台",
+      "onboard_time": 1715041639,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 192420,
+      "num": 192420,
+      "word": "孙颖莎积分8300世界第一",
+      "onboard_time": 1715042001,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -267,6 +427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 184025,
+      "num": 184025,
+      "word": "aespa回归预告",
+      "onboard_time": 1715042059,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 174656,
       "num": 141302,
       "word": "南部战区海军海空立体联合搜救演练",
@@ -299,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160913,
+      "num": 160913,
+      "word": "有一种惨叫广东荔枝不挂果",
+      "onboard_time": 1715007080,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159817,
       "num": 185643,
       "word": "92名在缅北跨境电诈嫌犯被移交我方",
@@ -307,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153964,
-      "num": 153964,
-      "word": "有一种惨叫广东荔枝不挂果",
-      "onboard_time": 1715007080,
-      "rank": 25,
-      "category": "美食"
+      "raw_hot": 153958,
+      "num": 140086,
+      "word": "谢娜等待我们下一次的盲盒",
+      "onboard_time": 1715043140,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 151558,
@@ -379,12 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137761,
-      "num": 137761,
-      "word": "二十多岁已经厌烦上班到极致",
-      "onboard_time": 1715016074,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 137735,
+      "num": 137735,
+      "word": "新生",
+      "onboard_time": 1715044159,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 136218,
@@ -401,6 +577,22 @@
       "onboard_time": 1715007201,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131725,
+      "num": 131725,
+      "word": "专家称年轻人租房不影响结婚生娃",
+      "onboard_time": 1715044401,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129896,
+      "num": 129896,
+      "word": "肉放冷冻层保质期就是一辈子吗",
+      "onboard_time": 1715044401,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 128022,
@@ -433,6 +625,22 @@
       "onboard_time": 1715010139,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119445,
+      "num": 119445,
+      "word": "2024一季度全球最畅销手机",
+      "onboard_time": 1715039597,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 112461,
+      "num": 843662,
+      "word": "数据盘点五一假期",
+      "onboard_time": 1715000958,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109903,
@@ -595,14 +803,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 68158,
-      "num": 68158,
-      "word": "谢帝在新说唱向诺米道歉",
-      "onboard_time": 1715038456,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 67417,
       "num": 89220,
       "word": "赴山海",
@@ -617,14 +817,6 @@
       "onboard_time": 1715026030,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 62622,
-      "num": 620182,
-      "word": "数据盘点五一假期",
-      "onboard_time": 1715000958,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56495,
@@ -721,6 +913,9 @@
     },
     {
       "word": "#中法欧领导人三方会晤举行#"
+    },
+    {
+      "word": "#倡议运动会期间全球停火止战#"
     }
   ]
 }

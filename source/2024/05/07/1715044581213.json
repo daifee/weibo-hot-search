@@ -1,0 +1,410 @@
+{
+  "runTime": 1715044581213,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1649935,
+        "num": 1649935,
+        "word": "多名男演员拒演背着善宰跑",
+        "onboard_time": 1715041279,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1351442,
+        "num": 1351442,
+        "word": "王楚钦孙颖莎获奥运混双资格",
+        "onboard_time": 1715042601,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112461,
+        "num": 843662,
+        "word": "数据盘点五一假期",
+        "onboard_time": 1715000958,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582453,
+        "num": 582453,
+        "word": "iPhone折叠屏或将可向内外折叠",
+        "onboard_time": 1715041580,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 510393,
+        "num": 510393,
+        "word": "抑郁女儿叫朋友来家里吃饭了",
+        "onboard_time": 1715005941,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 501650,
+        "num": 501650,
+        "word": "人民文娱评华晨宇日出演唱会",
+        "onboard_time": 1714999998,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 457872,
+        "num": 457872,
+        "word": "马龙止步大满贯32强",
+        "onboard_time": 1715036955,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423157,
+        "num": 423157,
+        "word": "孙丞潇新综艺没有金莎",
+        "onboard_time": 1715041279,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366595,
+        "num": 366595,
+        "word": "哈马斯同意停火方案",
+        "onboard_time": 1715038516,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 356414,
+        "num": 356414,
+        "word": "男子打球被球友看出面相不对救了一命",
+        "onboard_time": 1715020752,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1075663,
+        "num": 355241,
+        "word": "缅甸",
+        "onboard_time": 1715006420,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736734,
+        "num": 350125,
+        "word": "男子确诊胃癌提前一年为自己安排身后事",
+        "onboard_time": 1715007320,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 699320,
+        "num": 346136,
+        "word": "张翰一次开朗换来终生内向",
+        "onboard_time": 1715009239,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364830,
+        "num": 340090,
+        "word": "WTT沙特 爆冷",
+        "onboard_time": 1715038516,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 619566,
+        "num": 338714,
+        "word": "31岁跨国恋网红娜娜去世",
+        "onboard_time": 1715043260,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 449912,
+        "num": 333443,
+        "word": "Jennie珍珠腰链",
+        "onboard_time": 1715043380,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1102586,
+        "num": 328795,
+        "word": "百度副总裁称员工闹分手提离职我秒批",
+        "onboard_time": 1715038516,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 365286,
+        "num": 323769,
+        "word": "三只羊参与举办电音节被指宰客",
+        "onboard_time": 1715011696,
+        "rank": 17,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 321267,
+        "num": 321267,
+        "word": "谢帝在新说唱向诺米道歉",
+        "onboard_time": 1715038456,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318218,
+        "num": 318218,
+        "word": "哈尔滨多人疑霸凌殴打小孩",
+        "onboard_time": 1715041821,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936035,
+        "num": 317550,
+        "word": "经常口臭的人一般都逃不过这几个原因",
+        "onboard_time": 1715007080,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 448363,
+        "num": 316038,
+        "word": "胃癌来敲门身体会发出5大警报",
+        "onboard_time": 1715043440,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 319371,
+        "num": 314788,
+        "word": "邓超你关注下陶白白吧",
+        "onboard_time": 1715003960,
+        "rank": 22,
+        "category": "艺人,情感"
+      },
+      {
+        "raw_hot": 313418,
+        "num": 313418,
+        "word": "什么环境下吃泡面最有感觉",
+        "onboard_time": 1715039958,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304466,
+        "num": 304466,
+        "word": "尼古拉斯凯奇儿子殴打亲妈",
+        "onboard_time": 1715042601,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259886,
+        "num": 259886,
+        "word": "熬夜疲劳可能会让你变臭",
+        "onboard_time": 1715017212,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241919,
+        "num": 241919,
+        "word": "豪宅小区被外卖员吐槽赔钱也不送",
+        "onboard_time": 1715014995,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237251,
+        "num": 237251,
+        "word": "黄金狂飙后钻石崩了",
+        "onboard_time": 1715004139,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 226740,
+        "num": 226740,
+        "word": "二十多岁已经厌烦上班到极致",
+        "onboard_time": 1715016074,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221885,
+        "num": 221885,
+        "word": "汤家凤评免单数学题难倒众人",
+        "onboard_time": 1715043739,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 224395,
+        "num": 219832,
+        "word": "阿里巴巴杭州全球总部5月10日启用",
+        "onboard_time": 1715042120,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 216120,
+        "num": 216120,
+        "word": "婴儿在公共场所哭闹",
+        "onboard_time": 1715039357,
+        "rank": 31,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 215902,
+        "num": 215902,
+        "word": "MetGala红毯",
+        "onboard_time": 1715037075,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 211202,
+        "num": 211202,
+        "word": "外资爆买茅台",
+        "onboard_time": 1715041639,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192420,
+        "num": 192420,
+        "word": "孙颖莎积分8300世界第一",
+        "onboard_time": 1715042001,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184025,
+        "num": 184025,
+        "word": "aespa回归预告",
+        "onboard_time": 1715042059,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171842,
+        "num": 171842,
+        "word": "张杰谢娜拍立得",
+        "onboard_time": 1715003120,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168018,
+        "num": 168018,
+        "word": "莎头",
+        "onboard_time": 1715037976,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160913,
+        "num": 160913,
+        "word": "有一种惨叫广东荔枝不挂果",
+        "onboard_time": 1715007080,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142307,
+        "num": 142307,
+        "word": "92名在缅北跨境电诈嫌犯被移交我方",
+        "onboard_time": 1715000358,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140362,
+        "num": 140362,
+        "word": "句句说分开 句句都是爱",
+        "onboard_time": 1715009059,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153958,
+        "num": 140086,
+        "word": "谢娜等待我们下一次的盲盒",
+        "onboard_time": 1715043140,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137735,
+        "num": 137735,
+        "word": "新生",
+        "onboard_time": 1715044159,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137058,
+        "num": 137058,
+        "word": "张若昀切范闲大号上线了",
+        "onboard_time": 1715009779,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134766,
+        "num": 134766,
+        "word": "MetGala主题",
+        "onboard_time": 1715037677,
+        "rank": 44,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 131725,
+        "num": 131725,
+        "word": "专家称年轻人租房不影响结婚生娃",
+        "onboard_time": 1715044401,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129896,
+        "num": 129896,
+        "word": "肉放冷冻层保质期就是一辈子吗",
+        "onboard_time": 1715044401,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125146,
+        "num": 125146,
+        "word": "杨幂曾问邓超亚比是什么",
+        "onboard_time": 1715005520,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121716,
+        "num": 121716,
+        "word": "蔡少芬陶昕然体型差",
+        "onboard_time": 1715033953,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119445,
+        "num": 119445,
+        "word": "2024一季度全球最畅销手机",
+        "onboard_time": 1715039597,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#倡议运动会期间全球停火止战#"
+    }
+  }
+}
