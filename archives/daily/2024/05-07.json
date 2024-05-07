@@ -1,6 +1,6 @@
 {
   "startTime": 1715012728684,
-  "endTime": 1715087932013,
+  "endTime": 1715088912791,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -59,20 +59,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1658499,
+      "num": 1658499,
+      "word": "建议一次食用小龙虾不超10只",
+      "onboard_time": 1715079138,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1649935,
       "num": 1649935,
       "word": "多名男演员拒演背着善宰跑",
       "onboard_time": 1715041279,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1576216,
-      "num": 1576216,
-      "word": "建议一次食用小龙虾不超10只",
-      "onboard_time": 1715079138,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 1558611,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 629200,
-      "num": 433589,
+      "num": 477159,
       "word": "镇雄持刀行凶案嫌犯被抓画面曝光",
       "onboard_time": 1715082799,
       "rank": 14,
@@ -579,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 513762,
+      "num": 513762,
+      "word": "阿水走错了",
+      "onboard_time": 1715084539,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 506611,
       "num": 506611,
       "word": "普京今日宣誓就职",
@@ -611,8 +619,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 487559,
-      "num": 428786,
+      "raw_hot": 487660,
+      "num": 487660,
       "word": "宋慧乔百想状态",
       "onboard_time": 1715084059,
       "rank": 20,
@@ -635,12 +643,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 458527,
+      "num": 458527,
+      "word": "金秀贤张杰张靓颖十年前同台演唱",
+      "onboard_time": 1715084898,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 458271,
       "num": 458271,
       "word": "越来越频繁的电影撤档伤害了谁",
       "onboard_time": 1715050878,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 456696,
+      "num": 456696,
+      "word": "金智媛和她的男主角们",
+      "onboard_time": 1715087780,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 455528,
@@ -697,22 +721,6 @@
       "onboard_time": 1715051597,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 432886,
-      "num": 432886,
-      "word": "金秀贤张杰张靓颖十年前同台演唱",
-      "onboard_time": 1715084898,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 427992,
-      "num": 427992,
-      "word": "阿水走错了",
-      "onboard_time": 1715084539,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 423157,
@@ -785,6 +793,14 @@
       "onboard_time": 1715070620,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 394931,
+      "num": 394931,
+      "word": "这个宝宝一出生就15岁了",
+      "onboard_time": 1715087539,
+      "rank": 34,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 383224,
@@ -955,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320192,
+      "num": 300930,
+      "word": "小杨哥称在发现高价水之后就要求降价",
+      "onboard_time": 1715088199,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319912,
       "num": 310815,
       "word": "句句说分开 句句都是爱",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1715037075,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 304151,
+      "num": 304151,
+      "word": "张雪峰6天5晚研学营售价高达9999元",
+      "onboard_time": 1715087420,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 301279,
@@ -1155,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276760,
+      "num": 276760,
+      "word": "背着善宰跑",
+      "onboard_time": 1715087720,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274643,
       "num": 274643,
       "word": "范丞丞 绝味鸭脖",
@@ -1201,6 +1241,14 @@
       "onboard_time": 1715002518,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 268202,
+      "num": 213039,
+      "word": "赵睿大腿不适",
+      "onboard_time": 1715088379,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 267066,
@@ -1251,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261338,
+      "num": 261338,
+      "word": "突然发现P人真是不缺松弛感",
+      "onboard_time": 1715084420,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 257315,
       "num": 257315,
       "word": "朱丹看Lucky和妈妈对暗号哭了",
@@ -1283,12 +1339,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 250664,
-      "num": 250664,
-      "word": "突然发现P人真是不缺松弛感",
-      "onboard_time": 1715084420,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 251858,
+      "num": 251858,
+      "word": "宋慧乔颁奖",
+      "onboard_time": 1715086759,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 250386,
@@ -1305,14 +1361,6 @@
       "onboard_time": 1715033953,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247733,
-      "num": 247733,
-      "word": "宋慧乔颁奖",
-      "onboard_time": 1715086759,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 245773,
@@ -1459,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217839,
+      "num": 217839,
+      "word": "秦岚说王安宇有点内耗",
+      "onboard_time": 1715085919,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216219,
       "num": 216219,
       "word": "2024国考补录人数涨幅超20%",
@@ -1473,14 +1529,6 @@
       "onboard_time": 1715039357,
       "rank": 31,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 216085,
-      "num": 216085,
-      "word": "背着善宰跑",
-      "onboard_time": 1715087720,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 215034,
@@ -1699,22 +1747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193633,
-      "num": 191888,
-      "word": "秦岚说王安宇有点内耗",
-      "onboard_time": 1715085919,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 193528,
-      "num": 193528,
-      "word": "这个宝宝一出生就15岁了",
-      "onboard_time": 1715087539,
-      "rank": 34,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 193224,
       "num": 193224,
       "word": "Twins巡演",
@@ -1883,12 +1915,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 181759,
-      "num": 176938,
-      "word": "金智媛和她的男主角们",
-      "onboard_time": 1715087780,
-      "rank": 40,
-      "category": "作品衍生"
+      "raw_hot": 180743,
+      "num": 180743,
+      "word": "跟天蝎座相处的秘诀",
+      "onboard_time": 1715084539,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 180606,
@@ -1929,14 +1961,6 @@
       "onboard_time": 1715062220,
       "rank": 34,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 177042,
-      "num": 177042,
-      "word": "张雪峰6天5晚研学营售价高达9999元",
-      "onboard_time": 1715087420,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 176768,
@@ -2091,14 +2115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161968,
-      "num": 161968,
-      "word": "跟天蝎座相处的秘诀",
-      "onboard_time": 1715084539,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 161953,
       "num": 161953,
       "word": "外交部回应美菲军演击沉中国制造船只",
@@ -2163,12 +2179,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157768,
+      "num": 157768,
+      "word": "周深演唱会",
+      "onboard_time": 1715088859,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157643,
       "num": 157643,
       "word": "周柯宇晚安大小姐",
       "onboard_time": 1715044819,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156638,
+      "num": 156638,
+      "word": "养过猫的都知道这是在炫耀",
+      "onboard_time": 1715083398,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 155324,
@@ -2235,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150192,
+      "num": 150192,
+      "word": "郑秀晶露腰黑裙",
+      "onboard_time": 1715088559,
+      "rank": 45,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 149859,
       "num": 149859,
       "word": "原来真有易容术",
@@ -2267,14 +2307,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 148999,
-      "num": 148999,
-      "word": "养过猫的都知道这是在炫耀",
-      "onboard_time": 1715083398,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148938,
       "num": 153744,
       "word": "戈贝尔今天不打",
@@ -2297,6 +2329,14 @@
       "onboard_time": 1715076077,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146887,
+      "num": 146887,
+      "word": "林高远梁靖崑3比0松岛辉空吴晙诚",
+      "onboard_time": 1715088859,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 146665,
@@ -2369,6 +2409,14 @@
       "onboard_time": 1715076498,
       "rank": 44,
       "category": "军事,国外时政"
+    },
+    {
+      "raw_hot": 139105,
+      "num": 139105,
+      "word": "这种毒碗你家可能天天都在用",
+      "onboard_time": 1715088020,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 138220,
@@ -2787,6 +2835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50674,
+      "num": 495155,
+      "word": "一枚以钢厂轮廓雕刻出图的纪念牌",
+      "onboard_time": 1715087179,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45249,
       "num": 1133793,
       "word": "塔布街头各界人士挥舞中法国旗",
@@ -2803,12 +2859,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 35954,
-      "num": 429192,
-      "word": "一枚以钢厂轮廓雕刻出图的纪念牌",
-      "onboard_time": 1715087179,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 34193,
+      "num": 1079903,
+      "word": "为中法建交精神赋予新的时代内涵",
+      "onboard_time": 1715088260,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32411,

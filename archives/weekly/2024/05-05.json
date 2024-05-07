@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715087932013,
+  "endTime": 1715088912791,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -139,6 +139,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1658499,
+      "num": 1658499,
+      "word": "建议一次食用小龙虾不超10只",
+      "onboard_time": 1715079138,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1649935,
       "num": 1649935,
       "word": "多名男演员拒演背着善宰跑",
@@ -161,14 +169,6 @@
       "onboard_time": 1714984339,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1576216,
-      "num": 1576216,
-      "word": "建议一次食用小龙虾不超10只",
-      "onboard_time": 1715079138,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 1558611,
@@ -1300,7 +1300,7 @@
     },
     {
       "raw_hot": 629200,
-      "num": 433589,
+      "num": 477159,
       "word": "镇雄持刀行凶案嫌犯被抓画面曝光",
       "onboard_time": 1715082799,
       "rank": 14,
@@ -1715,6 +1715,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 513762,
+      "num": 513762,
+      "word": "阿水走错了",
+      "onboard_time": 1715084539,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 509807,
       "num": 509807,
       "word": "宝宝 你是一头情绪稳定的小懒猪",
@@ -1827,20 +1835,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487660,
+      "num": 487660,
+      "word": "宋慧乔百想状态",
+      "onboard_time": 1715084059,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 487585,
       "num": 244391,
       "word": "父亲因没钱给女儿买手机自责跪地",
       "onboard_time": 1714908499,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 487559,
-      "num": 428786,
-      "word": "宋慧乔百想状态",
-      "onboard_time": 1715084059,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 486084,
@@ -1979,12 +1987,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458527,
+      "num": 458527,
+      "word": "金秀贤张杰张靓颖十年前同台演唱",
+      "onboard_time": 1715084898,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 458271,
       "num": 458271,
       "word": "越来越频繁的电影撤档伤害了谁",
       "onboard_time": 1715050878,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 456696,
+      "num": 456696,
+      "word": "金智媛和她的男主角们",
+      "onboard_time": 1715087780,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 455528,
@@ -2169,22 +2193,6 @@
       "onboard_time": 1715051597,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 432886,
-      "num": 432886,
-      "word": "金秀贤张杰张靓颖十年前同台演唱",
-      "onboard_time": 1715084898,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 427992,
-      "num": 427992,
-      "word": "阿水走错了",
-      "onboard_time": 1715084539,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 427983,
@@ -2449,6 +2457,14 @@
       "onboard_time": 1715070620,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 394931,
+      "num": 394931,
+      "word": "这个宝宝一出生就15岁了",
+      "onboard_time": 1715087539,
+      "rank": 34,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 394369,
@@ -3003,6 +3019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320192,
+      "num": 300930,
+      "word": "小杨哥称在发现高价水之后就要求降价",
+      "onboard_time": 1715088199,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319912,
       "num": 310815,
       "word": "句句说分开 句句都是爱",
@@ -3169,6 +3193,14 @@
       "onboard_time": 1715037075,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 304151,
+      "num": 304151,
+      "word": "张雪峰6天5晚研学营售价高达9999元",
+      "onboard_time": 1715087420,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 304014,
@@ -3451,6 +3483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276760,
+      "num": 276760,
+      "word": "背着善宰跑",
+      "onboard_time": 1714957102,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274643,
       "num": 274643,
       "word": "范丞丞 绝味鸭脖",
@@ -3537,6 +3577,14 @@
       "onboard_time": 1714898479,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 268202,
+      "num": 213039,
+      "word": "赵睿大腿不适",
+      "onboard_time": 1715088379,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 267066,
@@ -3641,6 +3689,14 @@
       "onboard_time": 1715076019,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261338,
+      "num": 261338,
+      "word": "突然发现P人真是不缺松弛感",
+      "onboard_time": 1715084420,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 261313,
@@ -3755,12 +3811,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250664,
-      "num": 250664,
-      "word": "突然发现P人真是不缺松弛感",
-      "onboard_time": 1715084420,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 251858,
+      "num": 251858,
+      "word": "宋慧乔颁奖",
+      "onboard_time": 1715086759,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 250386,
@@ -3809,14 +3865,6 @@
       "onboard_time": 1714882160,
       "rank": 31,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 247733,
-      "num": 247733,
-      "word": "宋慧乔颁奖",
-      "onboard_time": 1715086759,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 247043,
@@ -4291,6 +4339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 217839,
+      "num": 217839,
+      "word": "秦岚说王安宇有点内耗",
+      "onboard_time": 1715085919,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217479,
       "num": 217479,
       "word": "撕漫女迪丽热巴",
@@ -4321,14 +4377,6 @@
       "onboard_time": 1715039357,
       "rank": 31,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 216085,
-      "num": 216085,
-      "word": "背着善宰跑",
-      "onboard_time": 1714957102,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 215995,
@@ -5067,22 +5115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193633,
-      "num": 191888,
-      "word": "秦岚说王安宇有点内耗",
-      "onboard_time": 1715085919,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 193528,
-      "num": 193528,
-      "word": "这个宝宝一出生就15岁了",
-      "onboard_time": 1715087539,
-      "rank": 34,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 193527,
       "num": 193527,
       "word": "丁程鑫 monster直拍",
@@ -5579,20 +5611,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 181759,
-      "num": 176938,
-      "word": "金智媛和她的男主角们",
-      "onboard_time": 1715087780,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 181754,
       "num": 217955,
       "word": "张杰青年节唱少年中国说",
       "onboard_time": 1714838719,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180743,
+      "num": 180743,
+      "word": "跟天蝎座相处的秘诀",
+      "onboard_time": 1715084539,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 180666,
@@ -5729,14 +5761,6 @@
       "onboard_time": 1714972999,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 177042,
-      "num": 177042,
-      "word": "张雪峰6天5晚研学营售价高达9999元",
-      "onboard_time": 1715087420,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 177022,
@@ -6315,14 +6339,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 161968,
-      "num": 161968,
-      "word": "跟天蝎座相处的秘诀",
-      "onboard_time": 1715084539,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 161953,
       "num": 161953,
       "word": "外交部回应美菲军演击沉中国制造船只",
@@ -6515,6 +6531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157768,
+      "num": 157768,
+      "word": "周深演唱会",
+      "onboard_time": 1715088859,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157643,
       "num": 157643,
       "word": "周柯宇晚安大小姐",
@@ -6545,6 +6569,14 @@
       "onboard_time": 1714875137,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156638,
+      "num": 156638,
+      "word": "养过猫的都知道这是在炫耀",
+      "onboard_time": 1715083398,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 156041,
@@ -6747,6 +6779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150192,
+      "num": 150192,
+      "word": "郑秀晶露腰黑裙",
+      "onboard_time": 1715088559,
+      "rank": 45,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 149859,
       "num": 149859,
       "word": "原来真有易容术",
@@ -6801,14 +6841,6 @@
       "onboard_time": 1715064257,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 148999,
-      "num": 148999,
-      "word": "养过猫的都知道这是在炫耀",
-      "onboard_time": 1715083398,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 148938,
@@ -6881,6 +6913,14 @@
       "onboard_time": 1715076077,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146887,
+      "num": 146887,
+      "word": "林高远梁靖崑3比0松岛辉空吴晙诚",
+      "onboard_time": 1715088859,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 146772,
@@ -7089,6 +7129,14 @@
       "onboard_time": 1714981278,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139105,
+      "num": 139105,
+      "word": "这种毒碗你家可能天天都在用",
+      "onboard_time": 1715088020,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 138864,
@@ -8347,6 +8395,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 50674,
+      "num": 495155,
+      "word": "一枚以钢厂轮廓雕刻出图的纪念牌",
+      "onboard_time": 1715087179,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50088,
       "num": 50088,
       "word": "毕业后唯一没还给老师的品质",
@@ -8443,20 +8499,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 35954,
-      "num": 429192,
-      "word": "一枚以钢厂轮廓雕刻出图的纪念牌",
-      "onboard_time": 1715087179,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34426,
       "num": 34426,
       "word": "古天乐好帅",
       "onboard_time": 1714859170,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 34193,
+      "num": 1079903,
+      "word": "为中法建交精神赋予新的时代内涵",
+      "onboard_time": 1715088260,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32411,
