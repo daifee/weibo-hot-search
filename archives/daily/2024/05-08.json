@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715116593759,
+  "endTime": 1715117647830,
   "band_list": [
     {
       "raw_hot": 1143072,
@@ -243,20 +243,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152205,
+      "num": 45541,
+      "word": "百度副总裁被曝安排工作言辞激烈",
+      "onboard_time": 1715109252,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 147178,
       "num": 147178,
       "word": "宋亚轩腹肌",
       "onboard_time": 1715095040,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 141039,
-      "num": 45541,
-      "word": "百度副总裁被曝安排工作言辞激烈",
-      "onboard_time": 1715109252,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 140714,
@@ -459,8 +459,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21754,
-      "num": 21754,
+      "raw_hot": 30924,
+      "num": 30924,
       "word": "4人含碎玻璃渣吃火锅敲诈被刑拘",
       "onboard_time": 1715114831,
       "rank": 27,
@@ -499,12 +499,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 16505,
-      "num": 16505,
+      "raw_hot": 17145,
+      "num": 17145,
       "word": "云南镇雄持刀行凶案嫌犯已被捕",
       "onboard_time": 1715082799,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16836,
+      "num": 16836,
+      "word": "刘宇宁拔剑海报",
+      "onboard_time": 1715116390,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 15462,
@@ -513,14 +521,6 @@
       "onboard_time": 1715080338,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14001,
-      "num": 14001,
-      "word": "刘宇宁拔剑海报",
-      "onboard_time": 1715116390,
-      "rank": 47,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
