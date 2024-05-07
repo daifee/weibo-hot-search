@@ -1,0 +1,410 @@
+{
+  "runTime": 1715091370563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1526284,
+        "num": 1526284,
+        "word": "建议一次食用小龙虾不超10只",
+        "onboard_time": 1715079138,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 913440,
+        "num": 913440,
+        "word": "周鸿祎直播发飙",
+        "onboard_time": 1715082739,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32613,
+        "num": 772323,
+        "word": "为中法建交精神赋予新的时代内涵",
+        "onboard_time": 1715088260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31489,
+        "num": 761459,
+        "word": "一枚以钢厂轮廓雕刻出图的纪念牌",
+        "onboard_time": 1715087179,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1100118,
+        "num": 760043,
+        "word": "小杨哥称在发现高价水之后就要求降价",
+        "onboard_time": 1715088199,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 755251,
+        "num": 755251,
+        "word": "张雪峰6天5晚研学营售价高达9999元",
+        "onboard_time": 1715087420,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 745057,
+        "num": 745057,
+        "word": "这个宝宝一出生就15岁了",
+        "onboard_time": 1715087539,
+        "rank": 6,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 684992,
+        "num": 684992,
+        "word": "韩国民众吐槽五花肉太肥",
+        "onboard_time": 1715081540,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650698,
+        "num": 650698,
+        "word": "苹果发布会",
+        "onboard_time": 1715090720,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 641431,
+        "num": 641431,
+        "word": "宋仲基宋慧乔将出席百想",
+        "onboard_time": 1715063959,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 851731,
+        "num": 608370,
+        "word": "警方再通报镇雄恶性伤人事件",
+        "onboard_time": 1715089159,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543988,
+        "num": 543988,
+        "word": "汤唯为金高银颁奖",
+        "onboard_time": 1715082919,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 541514,
+        "num": 541514,
+        "word": "金智媛和她的男主角们",
+        "onboard_time": 1715087780,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 529058,
+        "num": 529058,
+        "word": "情侣同居要检测HPV",
+        "onboard_time": 1715072239,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 392317,
+        "num": 392317,
+        "word": "刘涛说郑佩佩身体已经不太好了",
+        "onboard_time": 1715068938,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357612,
+        "num": 357612,
+        "word": "1999年5月7日 中国人不忘记",
+        "onboard_time": 1715062879,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 323072,
+        "num": 323072,
+        "word": "李到晛 智妍呐谢谢你",
+        "onboard_time": 1715090299,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 316512,
+        "num": 316512,
+        "word": "阿水走错了",
+        "onboard_time": 1715084539,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 307038,
+        "num": 307038,
+        "word": "金秀贤张杰张靓颖十年前同台演唱",
+        "onboard_time": 1715084898,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 251432,
+        "num": 290219,
+        "word": "赵睿大腿不适",
+        "onboard_time": 1715088379,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433880,
+        "num": 289701,
+        "word": "河南一地公职人员下午上班时间延迟至3时",
+        "onboard_time": 1715089521,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283733,
+        "num": 283733,
+        "word": "淘宝免单",
+        "onboard_time": 1715051238,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 283520,
+        "num": 283520,
+        "word": "这种毒碗你家可能天天都在用",
+        "onboard_time": 1715088020,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 280790,
+        "num": 280790,
+        "word": "宋慧乔百想状态",
+        "onboard_time": 1715084059,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 220766,
+        "num": 220766,
+        "word": "秦岚说王安宇有点内耗",
+        "onboard_time": 1715085919,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210846,
+        "num": 210846,
+        "word": "郑恺朱丹哭了",
+        "onboard_time": 1715089159,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197920,
+        "num": 197920,
+        "word": "王楚钦孙颖莎3比0德赛戈尔帕德",
+        "onboard_time": 1715091020,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196900,
+        "num": 196900,
+        "word": "背着善宰跑",
+        "onboard_time": 1715087720,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204997,
+        "num": 196745,
+        "word": "宋慧乔颁奖",
+        "onboard_time": 1715086759,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132605,
+        "num": 195694,
+        "word": "普京新任期首访国家是中国",
+        "onboard_time": 1715080218,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195485,
+        "num": 195485,
+        "word": "云南镇雄持刀行凶案嫌犯已被捕",
+        "onboard_time": 1715082799,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191330,
+        "num": 191330,
+        "word": "庆余年",
+        "onboard_time": 1715081358,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181538,
+        "num": 181538,
+        "word": "我的阿勒泰 新疆宣传片",
+        "onboard_time": 1715091080,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180377,
+        "num": 180377,
+        "word": "秦岚45岁身材管理",
+        "onboard_time": 1715084659,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174935,
+        "num": 174935,
+        "word": "陶昕然妈妈年轻时撞脸虞书欣",
+        "onboard_time": 1715084960,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211234,
+        "num": 174921,
+        "word": "突然羡慕妈妈月薪4K的工作了",
+        "onboard_time": 1715069418,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174851,
+        "num": 174851,
+        "word": "周雨彤上桌了",
+        "onboard_time": 1715083219,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167190,
+        "num": 167190,
+        "word": "娜扎脚腕纹身",
+        "onboard_time": 1715078539,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162439,
+        "num": 162439,
+        "word": "跟天蝎座相处的秘诀",
+        "onboard_time": 1715084539,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158280,
+        "num": 158280,
+        "word": "上海医院治愈一25年糖尿病病史患者",
+        "onboard_time": 1715078118,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154321,
+        "num": 154321,
+        "word": "突然发现P人真是不缺松弛感",
+        "onboard_time": 1715084420,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153422,
+        "num": 153422,
+        "word": "周深演唱会",
+        "onboard_time": 1715088859,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143425,
+        "num": 143425,
+        "word": "南雅出狱气后妈这段看爽了",
+        "onboard_time": 1715090960,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143331,
+        "num": 143331,
+        "word": "李一桐短发",
+        "onboard_time": 1715090239,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136974,
+        "num": 136974,
+        "word": "赵昭仪花少每一期都在虎口脱险",
+        "onboard_time": 1715085860,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134273,
+        "num": 134273,
+        "word": "以为是告发结果是告白",
+        "onboard_time": 1715086819,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127059,
+        "num": 127059,
+        "word": "这下卓沅要更喜欢他的手了",
+        "onboard_time": 1715091322,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127037,
+        "num": 127037,
+        "word": "不是坠入情网而是自投罗网",
+        "onboard_time": 1715089819,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125799,
+        "num": 125799,
+        "word": "樊振东vs安宰贤",
+        "onboard_time": 1715083098,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124578,
+        "num": 124578,
+        "word": "Tian让apa闭嘴",
+        "onboard_time": 1715087000,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平抵达塔布#"
+    }
+  }
+}

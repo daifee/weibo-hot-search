@@ -1,6 +1,6 @@
 {
   "startTime": 1715012728684,
-  "endTime": 1715088912791,
+  "endTime": 1715091370563,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -171,6 +171,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1100118,
+      "num": 760043,
+      "word": "小杨哥称在发现高价水之后就要求降价",
+      "onboard_time": 1715088199,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1087556,
       "num": 505874,
       "word": "李楷灿 逃税",
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 851731,
+      "num": 608370,
+      "word": "警方再通报镇雄恶性伤人事件",
+      "onboard_time": 1715089159,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 848368,
       "num": 406427,
       "word": "突然羡慕妈妈月薪4K的工作了",
@@ -275,12 +291,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 755251,
+      "num": 755251,
+      "word": "张雪峰6天5晚研学营售价高达9999元",
+      "onboard_time": 1715087420,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 746271,
       "num": 702310,
       "word": "店主介绍邓超是孙俪的老公",
       "onboard_time": 1715060119,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 745057,
+      "num": 745057,
+      "word": "这个宝宝一出生就15岁了",
+      "onboard_time": 1715087539,
+      "rank": 34,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 741410,
@@ -393,6 +425,14 @@
       "onboard_time": 1715043440,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 650698,
+      "num": 650698,
+      "word": "苹果发布会",
+      "onboard_time": 1715090720,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 648859,
@@ -555,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 541514,
+      "num": 541514,
+      "word": "金智媛和她的男主角们",
+      "onboard_time": 1715087780,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 536995,
       "num": 356928,
       "word": "苹果发布会新品曝光",
@@ -659,14 +707,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 456696,
-      "num": 456696,
-      "word": "金智媛和她的男主角们",
-      "onboard_time": 1715087780,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 455528,
       "num": 455528,
       "word": "曝iPhone17Pro迈入12GB内存时代",
@@ -713,6 +753,14 @@
       "onboard_time": 1715044401,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 433880,
+      "num": 289701,
+      "word": "河南一地公职人员下午上班时间延迟至3时",
+      "onboard_time": 1715089521,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432978,
@@ -793,14 +841,6 @@
       "onboard_time": 1715070620,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 394931,
-      "num": 394931,
-      "word": "这个宝宝一出生就15岁了",
-      "onboard_time": 1715087539,
-      "rank": 34,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 383224,
@@ -955,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323072,
+      "num": 323072,
+      "word": "李到晛 智妍呐谢谢你",
+      "onboard_time": 1715090299,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 321267,
       "num": 321267,
       "word": "谢帝在新说唱向诺米道歉",
@@ -969,14 +1017,6 @@
       "onboard_time": 1715061798,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 320192,
-      "num": 300930,
-      "word": "小杨哥称在发现高价水之后就要求降价",
-      "onboard_time": 1715088199,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319912,
@@ -1059,14 +1099,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 304151,
-      "num": 304151,
-      "word": "张雪峰6天5晚研学营售价高达9999元",
-      "onboard_time": 1715087420,
-      "rank": 39,
-      "category": "教育"
-    },
-    {
       "raw_hot": 301279,
       "num": 301279,
       "word": "万能的淘宝",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1715058382,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 283520,
+      "num": 283520,
+      "word": "这种毒碗你家可能天天都在用",
+      "onboard_time": 1715088020,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 283294,
@@ -1244,7 +1284,7 @@
     },
     {
       "raw_hot": 268202,
-      "num": 213039,
+      "num": 290219,
       "word": "赵睿大腿不适",
       "onboard_time": 1715088379,
       "rank": 30,
@@ -1475,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220766,
+      "num": 220766,
+      "word": "秦岚说王安宇有点内耗",
+      "onboard_time": 1715085919,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219384,
       "num": 219384,
       "word": "原来高铁上是有15元的盒饭的",
@@ -1505,14 +1553,6 @@
       "onboard_time": 1715049619,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217839,
-      "num": 217839,
-      "word": "秦岚说王安宇有点内耗",
-      "onboard_time": 1715085919,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 216219,
@@ -1585,6 +1625,14 @@
       "onboard_time": 1715041639,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 210846,
+      "num": 210846,
+      "word": "郑恺朱丹哭了",
+      "onboard_time": 1715089159,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 209438,
@@ -1723,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197920,
+      "num": 197920,
+      "word": "王楚钦孙颖莎3比0德赛戈尔帕德",
+      "onboard_time": 1715091020,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197837,
       "num": 197837,
       "word": "背着善宰跑直播",
@@ -1737,6 +1793,14 @@
       "onboard_time": 1715052560,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195485,
+      "num": 195485,
+      "word": "云南镇雄持刀行凶案嫌犯已被捕",
+      "onboard_time": 1715082799,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194202,
@@ -1913,6 +1977,14 @@
       "onboard_time": 1715054539,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 181538,
+      "num": 181538,
+      "word": "我的阿勒泰 新疆宣传片",
+      "onboard_time": 1715091080,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 180743,
@@ -2355,6 +2427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143425,
+      "num": 143425,
+      "word": "南雅出狱气后妈这段看爽了",
+      "onboard_time": 1715090960,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143331,
+      "num": 143331,
+      "word": "李一桐短发",
+      "onboard_time": 1715090239,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142899,
       "num": 142899,
       "word": "刘涛摸秦岚的背",
@@ -2409,14 +2497,6 @@
       "onboard_time": 1715076498,
       "rank": 44,
       "category": "军事,国外时政"
-    },
-    {
-      "raw_hot": 139105,
-      "num": 139105,
-      "word": "这种毒碗你家可能天天都在用",
-      "onboard_time": 1715088020,
-      "rank": 49,
-      "category": "科学科普"
     },
     {
       "raw_hot": 138220,
@@ -2505,6 +2585,22 @@
       "onboard_time": 1715006541,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127059,
+      "num": 127059,
+      "word": "这下卓沅要更喜欢他的手了",
+      "onboard_time": 1715091322,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127037,
+      "num": 127037,
+      "word": "不是坠入情网而是自投罗网",
+      "onboard_time": 1715089819,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 126290,
@@ -2836,7 +2932,7 @@
     },
     {
       "raw_hot": 50674,
-      "num": 495155,
+      "num": 761459,
       "word": "一枚以钢厂轮廓雕刻出图的纪念牌",
       "onboard_time": 1715087179,
       "rank": 8,
