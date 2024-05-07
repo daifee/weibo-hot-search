@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715117647830,
+  "endTime": 1715120268557,
   "band_list": [
     {
       "raw_hot": 1143072,
@@ -147,6 +147,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 281086,
+      "num": 56747,
+      "word": "百度副总裁被曝安排工作言辞激烈",
+      "onboard_time": 1715109252,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 279462,
       "num": 279462,
       "word": "女子租房9个多月发现对面是墓地",
@@ -241,14 +249,6 @@
       "onboard_time": 1715094561,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 152205,
-      "num": 45541,
-      "word": "百度副总裁被曝安排工作言辞激烈",
-      "onboard_time": 1715109252,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 147178,
@@ -379,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97504,
+      "num": 59701,
+      "word": "4人含碎玻璃渣吃火锅敲诈被刑拘",
+      "onboard_time": 1715114831,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94577,
       "num": 94577,
       "word": "娜扎脚腕纹身",
@@ -419,6 +427,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 51316,
+      "num": 51316,
+      "word": "迪丽热巴美得摄人心魄",
+      "onboard_time": 1715111290,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 49545,
+      "num": 33150,
+      "word": "逃离直播带货小杨哥转行",
+      "onboard_time": 1715118431,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 47019,
       "num": 54447,
       "word": "中法元首夫妇观看法国民间舞蹈表演",
@@ -451,20 +475,44 @@
       "category": "情感"
     },
     {
-      "raw_hot": 32587,
-      "num": 46513,
-      "word": "迪丽热巴美得摄人心魄",
-      "onboard_time": 1715111290,
-      "rank": 19,
+      "raw_hot": 29790,
+      "num": 29790,
+      "word": "娜扎在前面跳 保镖在后面笑",
+      "onboard_time": 1715119572,
+      "rank": 35,
       "category": "综艺"
     },
     {
-      "raw_hot": 30924,
-      "num": 30924,
-      "word": "4人含碎玻璃渣吃火锅敲诈被刑拘",
-      "onboard_time": 1715114831,
-      "rank": 27,
+      "raw_hot": 25247,
+      "num": 25247,
+      "word": "云南镇雄持刀行凶案嫌犯已被捕",
+      "onboard_time": 1715082799,
+      "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25216,
+      "num": 25216,
+      "word": "南雅出狱气后妈这段看爽了",
+      "onboard_time": 1715090960,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25154,
+      "num": 25154,
+      "word": "刘宇宁拔剑海报",
+      "onboard_time": 1715116390,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 21402,
+      "num": 21402,
+      "word": "新款iPadAir新增13英寸机型",
+      "onboard_time": 1715092281,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 20473,
@@ -473,14 +521,6 @@
       "onboard_time": 1715108591,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 18877,
-      "num": 18877,
-      "word": "新款iPadAir新增13英寸机型",
-      "onboard_time": 1715092281,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 18749,
@@ -497,22 +537,6 @@
       "onboard_time": 1715092881,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 17145,
-      "num": 17145,
-      "word": "云南镇雄持刀行凶案嫌犯已被捕",
-      "onboard_time": 1715082799,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16836,
-      "num": 16836,
-      "word": "刘宇宁拔剑海报",
-      "onboard_time": 1715116390,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 15462,
