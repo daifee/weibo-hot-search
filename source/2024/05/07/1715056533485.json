@@ -1,0 +1,410 @@
+{
+  "runTime": 1715056533485,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1251633,
+        "num": 1251633,
+        "word": "马龙无缘巴黎奥运会单打",
+        "onboard_time": 1715047939,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1231494,
+        "num": 1231494,
+        "word": "我才不要和你做朋友呢海报",
+        "onboard_time": 1715050639,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73691,
+        "num": 1087454,
+        "word": "中法重量级高规格活动上的企业家",
+        "onboard_time": 1715054899,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1083833,
+        "num": 1083833,
+        "word": "金价",
+        "onboard_time": 1715049258,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 913555,
+        "num": 913555,
+        "word": "女子租房2年多意外发现暗藏摄像头",
+        "onboard_time": 1715053640,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892886,
+        "num": 892886,
+        "word": "蝴蝶停在新郎胸口那一刻心震了",
+        "onboard_time": 1715052258,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611579,
+        "num": 611579,
+        "word": "歌手 杨丞琳",
+        "onboard_time": 1715054660,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594543,
+        "num": 594543,
+        "word": "法国人第一次喝中国茶喝出夹子音",
+        "onboard_time": 1715052018,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496130,
+        "num": 496130,
+        "word": "官方回应4条高铁票价调整",
+        "onboard_time": 1715051179,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462667,
+        "num": 462667,
+        "word": "迪丽热巴编发红玫瑰",
+        "onboard_time": 1715049739,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1541541,
+        "num": 461817,
+        "word": "淘宝免单",
+        "onboard_time": 1715051238,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 820911,
+        "num": 461224,
+        "word": "李楷灿 逃税",
+        "onboard_time": 1715047339,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 701766,
+        "num": 460119,
+        "word": "一个单位三个癌症患者",
+        "onboard_time": 1715053999,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 600100,
+        "num": 459688,
+        "word": "中国游客日本人均消费近30万日元",
+        "onboard_time": 1715048239,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 530038,
+        "num": 458472,
+        "word": "保安看刘亦菲时的眼神",
+        "onboard_time": 1715049619,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 458271,
+        "num": 458271,
+        "word": "越来越频繁的电影撤档伤害了谁",
+        "onboard_time": 1715050878,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 447493,
+        "num": 447493,
+        "word": "最适合速溶咖啡的代言人出现了",
+        "onboard_time": 1715055080,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432978,
+        "num": 432978,
+        "word": "第一次看掘金如此狼狈",
+        "onboard_time": 1715051597,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414984,
+        "num": 414984,
+        "word": "年轻人流行辞职去种地",
+        "onboard_time": 1715050338,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 375736,
+        "num": 375736,
+        "word": "赵丽颖白裙背影",
+        "onboard_time": 1715051900,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 739352,
+        "num": 372589,
+        "word": "买房五年没住手头五六十个车位被出租",
+        "onboard_time": 1715051779,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657921,
+        "num": 361850,
+        "word": "男子确诊胃癌提前一年为自己安排身后事",
+        "onboard_time": 1715007320,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 341573,
+        "num": 341573,
+        "word": "井柏然演技",
+        "onboard_time": 1715049857,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338541,
+        "num": 338541,
+        "word": "多名男演员拒演背着善宰跑",
+        "onboard_time": 1715041279,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334025,
+        "num": 334025,
+        "word": "王楚钦左手不是枷锁",
+        "onboard_time": 1715055080,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325641,
+        "num": 325641,
+        "word": "百度副总裁称员工闹分手提离职我秒批",
+        "onboard_time": 1715038516,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 318703,
+        "num": 318703,
+        "word": "朱婷无缘中国女排世联赛首站",
+        "onboard_time": 1715055080,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310703,
+        "num": 310703,
+        "word": "iPhone16ProMax或有这些变化",
+        "onboard_time": 1715055439,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 278326,
+        "num": 278326,
+        "word": "森林狼打爆掘金",
+        "onboard_time": 1715051900,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276474,
+        "num": 276474,
+        "word": "长征六号丙运载火箭首飞成功",
+        "onboard_time": 1715054780,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 269047,
+        "num": 269047,
+        "word": "经常吃腰子的人身体会有什么变化",
+        "onboard_time": 1715053279,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 265457,
+        "num": 265457,
+        "word": "陶勇受伤后变得害怕黑暗",
+        "onboard_time": 1715054420,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264447,
+        "num": 264447,
+        "word": "普京今日宣誓就职",
+        "onboard_time": 1715049919,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 260240,
+        "num": 260240,
+        "word": "华晨宇演唱会散场粉丝集体致谢消防员",
+        "onboard_time": 1715051900,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250386,
+        "num": 250386,
+        "word": "中法关于中东局势的联合声明",
+        "onboard_time": 1715056099,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 247285,
+        "num": 247285,
+        "word": "穿婚纱的王珞丹",
+        "onboard_time": 1715050699,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231210,
+        "num": 231210,
+        "word": "31岁跨国恋网红娜娜去世",
+        "onboard_time": 1715043260,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 225275,
+        "num": 225275,
+        "word": "朱丹看Lucky和妈妈对暗号哭了",
+        "onboard_time": 1715056041,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219080,
+        "num": 219080,
+        "word": "缅甸",
+        "onboard_time": 1715006420,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212467,
+        "num": 212467,
+        "word": "2024国考补录人数涨幅超20%",
+        "onboard_time": 1715055801,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206452,
+        "num": 206452,
+        "word": "我的阿勒泰",
+        "onboard_time": 1715055680,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205107,
+        "num": 205107,
+        "word": "StrayKids疑似被歧视",
+        "onboard_time": 1715048778,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204706,
+        "num": 204706,
+        "word": "胃癌来敲门身体会发出5大警报",
+        "onboard_time": 1715043440,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198554,
+        "num": 198554,
+        "word": "歌手",
+        "onboard_time": 1715056521,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196229,
+        "num": 196229,
+        "word": "狼王爱德华兹",
+        "onboard_time": 1715052560,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186265,
+        "num": 186265,
+        "word": "黄景瑜读梦女评论",
+        "onboard_time": 1715053879,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179476,
+        "num": 179476,
+        "word": "新闻女王2",
+        "onboard_time": 1715051119,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177278,
+        "num": 177278,
+        "word": "电影美国内战确认引进",
+        "onboard_time": 1715054539,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172089,
+        "num": 172089,
+        "word": "歌手2024主持人阵容",
+        "onboard_time": 1715056521,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168132,
+        "num": 168132,
+        "word": "出现这5种面相可能是疾病征兆",
+        "onboard_time": 1715053578,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首互赠奥运火炬#"
+    }
+  }
+}

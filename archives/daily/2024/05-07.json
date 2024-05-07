@@ -1,6 +1,6 @@
 {
   "startTime": 1715012728684,
-  "endTime": 1715055753215,
+  "endTime": 1715056533485,
   "band_list": [
     {
       "raw_hot": 1840279,
@@ -19,20 +19,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1541541,
+      "num": 488731,
+      "word": "淘宝免单",
+      "onboard_time": 1714977378,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1411302,
       "num": 1411302,
       "word": "金价",
       "onboard_time": 1715049258,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1389495,
-      "num": 488731,
-      "word": "淘宝免单",
-      "onboard_time": 1714977378,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 1351442,
@@ -51,20 +51,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1231494,
+      "num": 1231494,
+      "word": "我才不要和你做朋友呢海报",
+      "onboard_time": 1715050639,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1178293,
       "num": 317550,
       "word": "经常口臭的人一般都逃不过这几个原因",
       "onboard_time": 1715007080,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1117417,
-      "num": 1117417,
-      "word": "我才不要和你做朋友呢海报",
-      "onboard_time": 1715050639,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 1102586,
@@ -107,27 +107,27 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 825156,
-      "num": 825156,
+      "raw_hot": 913555,
+      "num": 913555,
       "word": "女子租房2年多意外发现暗藏摄像头",
       "onboard_time": 1715053640,
       "rank": 4,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 806397,
-      "num": 315629,
-      "word": "买房五年没住手头五六十个车位被出租",
-      "onboard_time": 1715051779,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 801289,
-      "num": 801289,
+      "raw_hot": 892886,
+      "num": 892886,
       "word": "蝴蝶停在新郎胸口那一刻心震了",
       "onboard_time": 1715052258,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 806397,
+      "num": 372589,
+      "word": "买房五年没住手头五六十个车位被出租",
+      "onboard_time": 1715051779,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -161,6 +161,14 @@
       "onboard_time": 1715046077,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 701766,
+      "num": 460119,
+      "word": "一个单位三个癌症患者",
+      "onboard_time": 1715053999,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 699320,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 644023,
-      "num": 455494,
+      "num": 458472,
       "word": "保安看刘亦菲时的眼神",
       "onboard_time": 1715049619,
       "rank": 35,
@@ -225,6 +233,14 @@
       "onboard_time": 1715041580,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 611579,
+      "num": 611579,
+      "word": "歌手 杨丞琳",
+      "onboard_time": 1715054660,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 604262,
@@ -283,20 +299,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 502587,
-      "num": 502587,
-      "word": "歌手 杨丞琳",
-      "onboard_time": 1715054660,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 501688,
       "num": 501688,
       "word": "豪宅小区被外卖员吐槽赔钱也不送",
       "onboard_time": 1715014995,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458271,
+      "num": 458271,
+      "word": "越来越频繁的电影撤档伤害了谁",
+      "onboard_time": 1715050878,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 449912,
@@ -307,12 +323,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 448567,
-      "num": 448567,
-      "word": "越来越频繁的电影撤档伤害了谁",
-      "onboard_time": 1715050878,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 447493,
+      "num": 447493,
+      "word": "最适合速溶咖啡的代言人出现了",
+      "onboard_time": 1715055080,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 445074,
@@ -331,6 +347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 432978,
+      "num": 432978,
+      "word": "第一次看掘金如此狼狈",
+      "onboard_time": 1715051597,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 423157,
       "num": 423157,
       "word": "孙丞潇新综艺没有金莎",
@@ -339,28 +363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 419274,
-      "num": 419274,
-      "word": "一个单位三个癌症患者",
-      "onboard_time": 1715053999,
-      "rank": 15,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 406164,
-      "num": 406164,
+      "raw_hot": 414984,
+      "num": 414984,
       "word": "年轻人流行辞职去种地",
       "onboard_time": 1715050338,
       "rank": 34,
       "category": "情感"
     },
     {
-      "raw_hot": 389596,
-      "num": 358813,
-      "word": "第一次看掘金如此狼狈",
-      "onboard_time": 1715051597,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 375736,
+      "num": 375736,
+      "word": "赵丽颖白裙背影",
+      "onboard_time": 1715051900,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 373052,
@@ -427,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348980,
-      "num": 348980,
-      "word": "赵丽颖白裙背影",
-      "onboard_time": 1715051900,
-      "rank": 29,
-      "category": "作品衍生"
+      "raw_hot": 334025,
+      "num": 334025,
+      "word": "王楚钦左手不是枷锁",
+      "onboard_time": 1715055080,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 333662,
@@ -475,12 +491,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318703,
+      "num": 318703,
+      "word": "朱婷无缘中国女排世联赛首站",
+      "onboard_time": 1715055080,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313418,
       "num": 313418,
       "word": "什么环境下吃泡面最有感觉",
       "onboard_time": 1715039958,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 310703,
+      "num": 310703,
+      "word": "iPhone16ProMax或有这些变化",
+      "onboard_time": 1715055439,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 308717,
@@ -513,14 +545,6 @@
       "onboard_time": 1715037075,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 303015,
-      "num": 303015,
-      "word": "王楚钦左手不是枷锁",
-      "onboard_time": 1715055080,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 288841,
@@ -579,6 +603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 269047,
+      "num": 269047,
+      "word": "经常吃腰子的人身体会有什么变化",
+      "onboard_time": 1715053279,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 268463,
       "num": 268463,
       "word": "腰臀比小的人更长寿",
@@ -587,12 +619,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 267333,
-      "num": 267333,
-      "word": "最适合速溶咖啡的代言人出现了",
-      "onboard_time": 1715055080,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 265457,
+      "num": 265457,
+      "word": "陶勇受伤后变得害怕黑暗",
+      "onboard_time": 1715054420,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262275,
@@ -600,14 +632,6 @@
       "word": "徐园男友有3次暴力前科",
       "onboard_time": 1715007981,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257599,
-      "num": 257599,
-      "word": "陶勇受伤后变得害怕黑暗",
-      "onboard_time": 1715054420,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -619,20 +643,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250386,
+      "num": 250386,
+      "word": "中法关于中东局势的联合声明",
+      "onboard_time": 1715056099,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 248308,
       "num": 248308,
       "word": "蔡少芬陶昕然体型差",
       "onboard_time": 1715033953,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246500,
-      "num": 246500,
-      "word": "经常吃腰子的人身体会有什么变化",
-      "onboard_time": 1715053279,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 244748,
@@ -657,6 +681,14 @@
       "onboard_time": 1715016074,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225275,
+      "num": 225275,
+      "word": "朱丹看Lucky和妈妈对暗号哭了",
+      "onboard_time": 1715056041,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 224395,
@@ -707,12 +739,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 213437,
-      "num": 213437,
-      "word": "iPhone16ProMax或有这些变化",
-      "onboard_time": 1715055439,
-      "rank": 35,
-      "category": "数码"
+      "raw_hot": 212467,
+      "num": 212467,
+      "word": "2024国考补录人数涨幅超20%",
+      "onboard_time": 1715055801,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 211756,
@@ -729,6 +761,14 @@
       "onboard_time": 1715041639,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 206452,
+      "num": 206452,
+      "word": "我的阿勒泰",
+      "onboard_time": 1715055680,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 204643,
@@ -763,11 +803,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198554,
+      "num": 198554,
+      "word": "歌手",
+      "onboard_time": 1715056521,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198268,
       "num": 198268,
       "word": "森林狼防守",
       "onboard_time": 1715052498,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196229,
+      "num": 196229,
+      "word": "狼王爱德华兹",
+      "onboard_time": 1715052560,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -851,14 +907,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 181187,
-      "num": 181187,
-      "word": "狼王爱德华兹",
-      "onboard_time": 1715052560,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178666,
       "num": 178666,
       "word": "来自萨尔贡的明信片",
@@ -883,6 +931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 172089,
+      "num": 172089,
+      "word": "歌手2024主持人阵容",
+      "onboard_time": 1715056521,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171066,
       "num": 171066,
       "word": "赞达亚第二套",
@@ -891,20 +947,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168132,
+      "num": 168132,
+      "word": "出现这5种面相可能是疾病征兆",
+      "onboard_time": 1715053578,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 167309,
       "num": 167309,
       "word": "云南事业单位成绩",
       "onboard_time": 1715048239,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 166313,
-      "num": 166313,
-      "word": "出现这5种面相可能是疾病征兆",
-      "onboard_time": 1715053578,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 164820,
@@ -929,14 +985,6 @@
       "onboard_time": 1714999278,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161710,
-      "num": 161710,
-      "word": "我的阿勒泰",
-      "onboard_time": 1715055680,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 161527,
@@ -977,14 +1025,6 @@
       "onboard_time": 1715044819,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156359,
-      "num": 156359,
-      "word": "朱婷无缘中国女排世联赛首站",
-      "onboard_time": 1715055080,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 155324,
@@ -1331,6 +1371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 73691,
+      "num": 1117280,
+      "word": "中法重量级高规格活动上的企业家",
+      "onboard_time": 1715054899,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73430,
       "num": 73430,
       "word": "范闲暴揍范思辙",
@@ -1385,14 +1433,6 @@
       "onboard_time": 1715014275,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55649,
-      "num": 1117280,
-      "word": "中法重量级高规格活动上的企业家",
-      "onboard_time": 1715054899,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44120,
