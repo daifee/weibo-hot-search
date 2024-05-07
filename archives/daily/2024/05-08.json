@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715109336345,
+  "endTime": 1715110447491,
   "band_list": [
     {
       "raw_hot": 1143072,
@@ -435,12 +435,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 26834,
-      "num": 26834,
+      "raw_hot": 36202,
+      "num": 36202,
+      "word": "百度副总裁被曝安排工作言辞激烈",
+      "onboard_time": 1715109252,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 28091,
+      "num": 28091,
       "word": "于正关注Zzr",
       "onboard_time": 1715108171,
       "rank": 28,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 20473,
+      "num": 20473,
+      "word": "Alielie发文澄清",
+      "onboard_time": 1715108591,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 18877,
@@ -451,14 +467,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 18869,
-      "num": 18869,
-      "word": "百度副总裁被曝安排工作言辞激烈",
-      "onboard_time": 1715109252,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 18749,
       "num": 499370,
       "word": "为中法建交精神赋予新的时代内涵",
@@ -467,12 +475,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18628,
-      "num": 18628,
-      "word": "Alielie发文澄清",
-      "onboard_time": 1715108591,
-      "rank": 47,
-      "category": "电竞"
+      "raw_hot": 17451,
+      "num": 17451,
+      "word": "新款iPadPro搭载M4芯片",
+      "onboard_time": 1715092881,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 16505,
+      "num": 16505,
+      "word": "云南镇雄持刀行凶案嫌犯已被捕",
+      "onboard_time": 1715082799,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
