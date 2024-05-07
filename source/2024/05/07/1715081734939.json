@@ -1,0 +1,410 @@
+{
+  "runTime": 1715081734939,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1007588,
+        "num": 1007588,
+        "word": "淘宝免单 甄嬛传",
+        "onboard_time": 1715070020,
+        "rank": 0,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 580670,
+        "num": 580670,
+        "word": "1999年5月7日 中国人不忘记",
+        "onboard_time": 1715062879,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42223,
+        "num": 579239,
+        "word": "中法关于农业交流与合作的联合声明",
+        "onboard_time": 1715073080,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1025501,
+        "num": 577850,
+        "word": "情侣同居要检测HPV",
+        "onboard_time": 1715072239,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 871482,
+        "num": 574031,
+        "word": "宋仲基宋慧乔将出席百想",
+        "onboard_time": 1715063959,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 698469,
+        "num": 573224,
+        "word": "刘涛说郑佩佩身体已经不太好了",
+        "onboard_time": 1715068938,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 570996,
+        "num": 570996,
+        "word": "上海医院治愈一25年糖尿病病史患者",
+        "onboard_time": 1715078118,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138902,
+        "num": 524997,
+        "word": "青岛有家只有7平米4把椅子的咖啡屋",
+        "onboard_time": 1715075418,
+        "rank": 7,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 100977,
+        "num": 521552,
+        "word": "塞尔维亚街头的茶餐厅串串香麻辣烫",
+        "onboard_time": 1715080338,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138848,
+        "num": 519214,
+        "word": "蝴蝶停在新郎胸口那一刻心震了",
+        "onboard_time": 1715052258,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518534,
+        "num": 518534,
+        "word": "娜扎脚腕纹身",
+        "onboard_time": 1715078539,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490390,
+        "num": 490390,
+        "word": "张踩铃 大胖媳妇的感人瞬间",
+        "onboard_time": 1715077339,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 421216,
+        "num": 421216,
+        "word": "普京新任期首访国家是中国",
+        "onboard_time": 1715080218,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 373129,
+        "num": 373129,
+        "word": "淘宝免单",
+        "onboard_time": 1715051238,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 346906,
+        "num": 346906,
+        "word": "安宥真 校庆",
+        "onboard_time": 1715079918,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286148,
+        "num": 286148,
+        "word": "新闻女王2 赵晴",
+        "onboard_time": 1715069720,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282639,
+        "num": 282639,
+        "word": "Mayumi背叛了JackeyLove",
+        "onboard_time": 1715075659,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 243618,
+        "num": 243618,
+        "word": "南方连面包都给切了",
+        "onboard_time": 1715072239,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219246,
+        "num": 219246,
+        "word": "第60届百想艺术大赏",
+        "onboard_time": 1715067200,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68750,
+        "num": 218800,
+        "word": "今夏的第一双豆豆鞋",
+        "onboard_time": 1715080158,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 616505,
+        "num": 217129,
+        "word": "建议一次食用小龙虾不超10只",
+        "onboard_time": 1715079138,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 451453,
+        "num": 216936,
+        "word": "突然羡慕妈妈月薪4K的工作了",
+        "onboard_time": 1715069418,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315977,
+        "num": 215283,
+        "word": "手机空间不足无法使用微信了",
+        "onboard_time": 1715070620,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214749,
+        "num": 214749,
+        "word": "联通 阴阳怪气的神",
+        "onboard_time": 1715065159,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218327,
+        "num": 210319,
+        "word": "宋仲基宋慧乔将同框",
+        "onboard_time": 1715064019,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203688,
+        "num": 203688,
+        "word": "金秀贤压轴",
+        "onboard_time": 1715069480,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200861,
+        "num": 200861,
+        "word": "新疆知名景点尼格买提",
+        "onboard_time": 1715079258,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195398,
+        "num": 195398,
+        "word": "卢昱晓 惜花芷真的好看",
+        "onboard_time": 1715076019,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189452,
+        "num": 189452,
+        "word": "百想 切镜头",
+        "onboard_time": 1715077699,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178983,
+        "num": 178983,
+        "word": "女性排卵期这4种身体变化容易被误解",
+        "onboard_time": 1715063838,
+        "rank": 29,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 176795,
+        "num": 176795,
+        "word": "Switch2",
+        "onboard_time": 1715074759,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172828,
+        "num": 172828,
+        "word": "金秀贤安宥真人气奖",
+        "onboard_time": 1715080098,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172151,
+        "num": 172151,
+        "word": "TES零封TL",
+        "onboard_time": 1715081599,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171617,
+        "num": 171617,
+        "word": "秦岚说娜扎太容易被骗了",
+        "onboard_time": 1715076918,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166470,
+        "num": 166470,
+        "word": "秀智穿粉",
+        "onboard_time": 1715080697,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 165888,
+        "num": 165888,
+        "word": "韩国民众吐槽五花肉太肥",
+        "onboard_time": 1715081540,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160522,
+        "num": 160522,
+        "word": "阴阳师SP",
+        "onboard_time": 1715078598,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158597,
+        "num": 158597,
+        "word": "陈哲远的衣服正反穿了两年",
+        "onboard_time": 1715080939,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157795,
+        "num": 157795,
+        "word": "庆余年",
+        "onboard_time": 1715081358,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155022,
+        "num": 155022,
+        "word": "外交部回应美菲军演击沉中国制造船只",
+        "onboard_time": 1715078958,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148437,
+        "num": 148437,
+        "word": "华人夫妇被杀害焚尸主谋系女儿未婚夫",
+        "onboard_time": 1715072179,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141909,
+        "num": 141909,
+        "word": "微信占用的内存是可以清理的",
+        "onboard_time": 1715079078,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129371,
+        "num": 129371,
+        "word": "许光汉道枝骏佑花束般的相逢",
+        "onboard_time": 1715078179,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128336,
+        "num": 128336,
+        "word": "TES对战TL",
+        "onboard_time": 1715077098,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125776,
+        "num": 125776,
+        "word": "Jennie名媛转圈",
+        "onboard_time": 1715071040,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125543,
+        "num": 125543,
+        "word": "金价跌到5字头消费者不买了",
+        "onboard_time": 1715063838,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125251,
+        "num": 125251,
+        "word": "杨怡",
+        "onboard_time": 1715081658,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124348,
+        "num": 124348,
+        "word": "王源郑州演唱会过审",
+        "onboard_time": 1715078299,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123080,
+        "num": 123080,
+        "word": "清水镇有自己的runningman",
+        "onboard_time": 1715081719,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125242,
+        "num": 122002,
+        "word": "Jennie网格鞋",
+        "onboard_time": 1715077878,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在塞尔维亚媒体发表署名文章#"
+    }
+  }
+}
