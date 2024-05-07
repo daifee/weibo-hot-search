@@ -1,0 +1,410 @@
+{
+  "runTime": 1715077197312,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2902865,
+        "num": 2902865,
+        "word": "淘宝免单 甄嬛传",
+        "onboard_time": 1715070020,
+        "rank": 0,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 1203584,
+        "num": 1203584,
+        "word": "淘宝免单",
+        "onboard_time": 1715051238,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 62212,
+        "num": 808485,
+        "word": "中法关于农业交流与合作的联合声明",
+        "onboard_time": 1715073080,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1455452,
+        "num": 767526,
+        "word": "情侣同居要检测HPV",
+        "onboard_time": 1715072239,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 723166,
+        "num": 723166,
+        "word": "刘涛说郑佩佩身体已经不太好了",
+        "onboard_time": 1715068938,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450624,
+        "num": 673156,
+        "word": "1999年5月7日 中国人不忘记",
+        "onboard_time": 1715062879,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 639216,
+        "num": 639216,
+        "word": "宋仲基宋慧乔将出席百想",
+        "onboard_time": 1715063959,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104877,
+        "num": 622776,
+        "word": "青岛有家只有7平米4把椅子的咖啡屋",
+        "onboard_time": 1715075418,
+        "rank": 7,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 203883,
+        "num": 613087,
+        "word": "塞尔维亚首都街头飘扬中国红",
+        "onboard_time": 1715072538,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233493,
+        "num": 581948,
+        "word": "蝴蝶停在新郎胸口那一刻心震了",
+        "onboard_time": 1715052258,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 981571,
+        "num": 554149,
+        "word": "云南镇雄发生恶性伤人事件逾10人伤亡",
+        "onboard_time": 1715063357,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552911,
+        "num": 552911,
+        "word": "新闻女王2 赵晴",
+        "onboard_time": 1715069720,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 519917,
+        "num": 519917,
+        "word": "华人夫妇被杀害焚尸主谋系女儿未婚夫",
+        "onboard_time": 1715072179,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411782,
+        "num": 411782,
+        "word": "普京宣誓就任",
+        "onboard_time": 1715074938,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 362669,
+        "num": 362669,
+        "word": "联通 阴阳怪气的神",
+        "onboard_time": 1715065159,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 305367,
+        "num": 305367,
+        "word": "Jennie名媛转圈",
+        "onboard_time": 1715071040,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 284400,
+        "num": 284400,
+        "word": "Mayumi背叛了JackeyLove",
+        "onboard_time": 1715075659,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 276850,
+        "num": 276850,
+        "word": "金秀贤压轴",
+        "onboard_time": 1715069480,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258884,
+        "num": 258884,
+        "word": "南方连面包都给切了",
+        "onboard_time": 1715072239,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254088,
+        "num": 254088,
+        "word": "Switch2",
+        "onboard_time": 1715074759,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 437615,
+        "num": 252963,
+        "word": "突然羡慕妈妈月薪4K的工作了",
+        "onboard_time": 1715069418,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354357,
+        "num": 252886,
+        "word": "手机空间不足无法使用微信了",
+        "onboard_time": 1715070620,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 251715,
+        "num": 251715,
+        "word": "卢昱晓 惜花芷真的好看",
+        "onboard_time": 1715076019,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245617,
+        "num": 245617,
+        "word": "云南镇雄持刀伤人案致21伤2死",
+        "onboard_time": 1715064739,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228946,
+        "num": 228946,
+        "word": "官方回应僧人开宾利后座有女人小孩",
+        "onboard_time": 1715065637,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220776,
+        "num": 220776,
+        "word": "李一桐发际线",
+        "onboard_time": 1715074759,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209781,
+        "num": 209781,
+        "word": "给李明德一个机会",
+        "onboard_time": 1715073319,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198583,
+        "num": 198583,
+        "word": "2024MSI",
+        "onboard_time": 1715076739,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198545,
+        "num": 198545,
+        "word": "金价跌到5字头消费者不买了",
+        "onboard_time": 1715063838,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193597,
+        "num": 193597,
+        "word": "唐艺昕李沁合照",
+        "onboard_time": 1715073919,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193155,
+        "num": 193155,
+        "word": "云南恶性伤人事件亲历者发声",
+        "onboard_time": 1715068099,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188064,
+        "num": 188064,
+        "word": "国家烟草专卖局原局长被逮捕",
+        "onboard_time": 1715066958,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186833,
+        "num": 186833,
+        "word": "女性排卵期这4种身体变化容易被误解",
+        "onboard_time": 1715063838,
+        "rank": 32,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 177387,
+        "num": 177387,
+        "word": "镇雄警方通报医院持刀伤人事件",
+        "onboard_time": 1715071820,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176677,
+        "num": 176677,
+        "word": "庆余年2爹爹抢闲",
+        "onboard_time": 1715071759,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168151,
+        "num": 168151,
+        "word": "新闻女王2 狠过man姐的女人",
+        "onboard_time": 1715073200,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168056,
+        "num": 168056,
+        "word": "宋仲基宋慧乔将同框",
+        "onboard_time": 1715064019,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159409,
+        "num": 159409,
+        "word": "秦岚说娜扎太容易被骗了",
+        "onboard_time": 1715076918,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157658,
+        "num": 157658,
+        "word": "第60届百想艺术大赏",
+        "onboard_time": 1715067200,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152700,
+        "num": 152700,
+        "word": "歌手2024主持人阵容",
+        "onboard_time": 1715056521,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148723,
+        "num": 148723,
+        "word": "镇雄城南医院",
+        "onboard_time": 1715063238,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147092,
+        "num": 147092,
+        "word": "和平精英",
+        "onboard_time": 1715076077,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142329,
+        "num": 142329,
+        "word": "井柏然好帅",
+        "onboard_time": 1715074219,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140576,
+        "num": 140576,
+        "word": "谢娜吴昕卧龙凤雏",
+        "onboard_time": 1715075359,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139578,
+        "num": 139578,
+        "word": "俄乌局势新进展",
+        "onboard_time": 1715076498,
+        "rank": 44,
+        "category": "军事,国外时政"
+      },
+      {
+        "raw_hot": 134595,
+        "num": 134595,
+        "word": "剧组的菜被王一博挖光了",
+        "onboard_time": 1715071040,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133403,
+        "num": 133403,
+        "word": "TES对战TL",
+        "onboard_time": 1715077098,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132692,
+        "num": 132692,
+        "word": "世界首例自体再生胰岛移植成功",
+        "onboard_time": 1715069900,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130965,
+        "num": 130965,
+        "word": "Twins巡演官宣14城",
+        "onboard_time": 1715076439,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130508,
+        "num": 130508,
+        "word": "蒲熠星演唱会",
+        "onboard_time": 1715069180,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在塞尔维亚媒体发表署名文章#"
+    }
+  }
+}

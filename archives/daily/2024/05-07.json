@@ -1,6 +1,6 @@
 {
   "startTime": 1715012728684,
-  "endTime": 1715074468594,
+  "endTime": 1715077197312,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -507,6 +507,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 519917,
+      "num": 519917,
+      "word": "华人夫妇被杀害焚尸主谋系女儿未婚夫",
+      "onboard_time": 1715072179,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506611,
       "num": 506611,
       "word": "普京今日宣誓就职",
@@ -587,14 +595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 439647,
-      "num": 439647,
-      "word": "华人夫妇被杀害焚尸主谋系女儿未婚夫",
-      "onboard_time": 1715072179,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 437147,
       "num": 437147,
       "word": "肉放冷冻层保质期就是一辈子吗",
@@ -633,6 +633,14 @@
       "onboard_time": 1715050338,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 411782,
+      "num": 411782,
+      "word": "普京宣誓就任",
+      "onboard_time": 1715074938,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 408003,
@@ -731,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354357,
+      "num": 310761,
+      "word": "手机空间不足无法使用微信了",
+      "onboard_time": 1715070620,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 343447,
       "num": 343447,
       "word": "云南镇雄一医院有人持刀行凶公安布控",
@@ -827,14 +843,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 310761,
-      "num": 310761,
-      "word": "手机空间不足无法使用微信了",
-      "onboard_time": 1715070620,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 308717,
       "num": 308717,
       "word": "森林狼打爆掘金",
@@ -905,6 +913,14 @@
       "onboard_time": 1715005520,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284400,
+      "num": 284400,
+      "word": "Mayumi背叛了JackeyLove",
+      "onboard_time": 1715075659,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 283840,
@@ -1051,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258884,
+      "num": 258884,
+      "word": "南方连面包都给切了",
+      "onboard_time": 1715072239,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 257315,
       "num": 257315,
       "word": "朱丹看Lucky和妈妈对暗号哭了",
@@ -1067,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254088,
+      "num": 254088,
+      "word": "Switch2",
+      "onboard_time": 1715074759,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 253548,
       "num": 253548,
       "word": "给李明德一个机会",
@@ -1081,6 +1113,14 @@
       "onboard_time": 1715065339,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 251715,
+      "num": 251715,
+      "word": "卢昱晓 惜花芷真的好看",
+      "onboard_time": 1715076019,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 250386,
@@ -1169,6 +1209,14 @@
       "onboard_time": 1715043739,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 220776,
+      "num": 220776,
+      "word": "李一桐发际线",
+      "onboard_time": 1715074759,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 219384,
@@ -1329,6 +1377,14 @@
       "onboard_time": 1715053879,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198583,
+      "num": 198583,
+      "word": "2024MSI",
+      "onboard_time": 1715076739,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 198268,
@@ -1683,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159409,
+      "num": 159409,
+      "word": "秦岚说娜扎太容易被骗了",
+      "onboard_time": 1715076918,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158102,
       "num": 158102,
       "word": "第60届百想艺术大赏",
@@ -1729,14 +1793,6 @@
       "onboard_time": 1715048477,
       "rank": 35,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 152053,
-      "num": 152053,
-      "word": "南方连面包都给切了",
-      "onboard_time": 1715072239,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 151558,
@@ -1803,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147092,
+      "num": 147092,
+      "word": "和平精英",
+      "onboard_time": 1715076077,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146665,
       "num": 146665,
       "word": "吴磊 你好不好",
@@ -1851,6 +1915,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140576,
+      "num": 140576,
+      "word": "谢娜吴昕卧龙凤雏",
+      "onboard_time": 1715075359,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139578,
+      "num": 139578,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1715076498,
+      "rank": 44,
+      "category": "军事,国外时政"
+    },
+    {
       "raw_hot": 138220,
       "num": 138220,
       "word": "他新婚盛装她真刀真枪",
@@ -1889,6 +1969,22 @@
       "onboard_time": 1715049078,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133403,
+      "num": 133403,
+      "word": "TES对战TL",
+      "onboard_time": 1715077098,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 130965,
+      "num": 130965,
+      "word": "Twins巡演官宣14城",
+      "onboard_time": 1715076439,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 128022,
@@ -1993,6 +2089,14 @@
       "onboard_time": 1715037615,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104877,
+      "num": 622776,
+      "word": "青岛有家只有7平米4把椅子的咖啡屋",
+      "onboard_time": 1715075418,
+      "rank": 7,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 102702,
@@ -2293,6 +2397,9 @@
     },
     {
       "word": "#携手开创中法合作新时代#"
+    },
+    {
+      "word": "#习近平在塞尔维亚媒体发表署名文章#"
     }
   ]
 }
