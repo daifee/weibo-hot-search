@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1715063879962,
+  "endTime": 1715066645860,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1707,6 +1707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 3292604,
+      "num": 654738,
+      "word": "云南镇雄发生恶性伤人事件逾10人伤亡",
+      "onboard_time": 1715063357,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3276531,
       "num": 3276531,
       "word": "胡歌杨幂唐嫣开场同台",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1710497980,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2869929,
-      "num": 2869929,
-      "word": "清明节要调休",
-      "onboard_time": 1710071372,
-      "rank": 0,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

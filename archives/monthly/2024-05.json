@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715063879962,
+  "endTime": 1715066645860,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -57,6 +57,14 @@
       "onboard_time": 1714712779,
       "rank": 11,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 3292604,
+      "num": 654738,
+      "word": "云南镇雄发生恶性伤人事件逾10人伤亡",
+      "onboard_time": 1715063357,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3222104,
@@ -243,6 +251,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 1914727,
+      "num": 650469,
+      "word": "联通 阴阳怪气的神",
+      "onboard_time": 1715065159,
+      "rank": 3,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 1867017,
       "num": 657957,
       "word": "徐园男友称其系自杀",
@@ -417,6 +433,14 @@
       "onboard_time": 1714534398,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1540061,
+      "num": 637494,
+      "word": "云南镇雄持刀伤人案致21伤2死",
+      "onboard_time": 1715064739,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1523007,
@@ -648,14 +672,6 @@
       "word": "5000一晚的酒店薅走35瓶洗发水能回本吗",
       "onboard_time": 1714621997,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1337646,
-      "num": 654738,
-      "word": "云南镇雄发生恶性伤人事件逾10人伤亡",
-      "onboard_time": 1715063357,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1235,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1004767,
+      "num": 626704,
+      "word": "宋仲基宋慧乔将出席百想",
+      "onboard_time": 1715063959,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1003255,
       "num": 261793,
       "word": "张元英在家除了睡觉不会躺着",
@@ -1793,6 +1817,14 @@
       "onboard_time": 1714786458,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 811447,
+      "num": 447561,
+      "word": "宋仲基宋慧乔将同框",
+      "onboard_time": 1715064019,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 809974,
@@ -2363,6 +2395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 678162,
+      "num": 678162,
+      "word": "东莞一00后干部拟任副局长",
+      "onboard_time": 1715061138,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 674521,
       "num": 663704,
       "word": "1家5口被海浪卷走4人不幸遇难",
@@ -2417,6 +2457,14 @@
       "onboard_time": 1714956741,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 670189,
+      "num": 318480,
+      "word": "1999年5月7日 中国人不忘记",
+      "onboard_time": 1715062879,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 669815,
@@ -2977,14 +3025,6 @@
       "onboard_time": 1714616839,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 588443,
-      "num": 588443,
-      "word": "东莞一00后干部拟任副局长",
-      "onboard_time": 1715061138,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 588439,
@@ -4059,6 +4099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 457096,
+      "num": 457096,
+      "word": "金价跌到5字头消费者不买了",
+      "onboard_time": 1715063838,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 455528,
       "num": 455528,
       "word": "曝iPhone17Pro迈入12GB内存时代",
@@ -4289,6 +4337,14 @@
       "onboard_time": 1714724838,
       "rank": 29,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 440613,
+      "num": 440613,
+      "word": "杨迪 无痛医美",
+      "onboard_time": 1715060958,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 437434,
@@ -5155,6 +5211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380393,
+      "num": 380393,
+      "word": "女性排卵期这4种身体变化容易被误解",
+      "onboard_time": 1715063838,
+      "rank": 45,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 380213,
       "num": 380213,
       "word": "周渝民16年后杀回现偶",
@@ -5177,14 +5241,6 @@
       "onboard_time": 1714486219,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378087,
-      "num": 378087,
-      "word": "杨迪 无痛医美",
-      "onboard_time": 1715060958,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 376833,
@@ -5873,14 +5929,6 @@
       "onboard_time": 1714995078,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 333328,
-      "num": 211965,
-      "word": "1999年5月7日 中国人不忘记",
-      "onboard_time": 1715062879,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 332815,
@@ -6747,6 +6795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281528,
+      "num": 281528,
+      "word": "中国联通IVE互动",
+      "onboard_time": 1715063659,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281342,
       "num": 281342,
       "word": "淘宝免单bug",
@@ -6817,14 +6873,6 @@
       "onboard_time": 1714572079,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278692,
-      "num": 278692,
-      "word": "中国联通IVE互动",
-      "onboard_time": 1715063659,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 278589,
@@ -7331,6 +7379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257776,
+      "num": 257776,
+      "word": "刘忻 我觉得季军不属于我",
+      "onboard_time": 1715064918,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257470,
       "num": 442658,
       "word": "第一批游客已冒雨抵达长沙",
@@ -7425,6 +7481,14 @@
       "onboard_time": 1714539378,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252938,
+      "num": 252938,
+      "word": "2千买的迪士尼门票被用过平台补偿30",
+      "onboard_time": 1715065339,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 252429,
@@ -8027,14 +8091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 232245,
-      "num": 232245,
-      "word": "金价跌到5字头消费者不买了",
-      "onboard_time": 1715063838,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 232060,
       "num": 411894,
       "word": "90后靠讲古代文学存了400万",
@@ -8169,6 +8225,14 @@
       "onboard_time": 1714955720,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227460,
+      "num": 227460,
+      "word": "官方回应僧人开宾利后座有女人小孩",
+      "onboard_time": 1715065637,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227327,
@@ -8913,6 +8977,14 @@
       "onboard_time": 1714971322,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208864,
+      "num": 208864,
+      "word": "赵丽颖原生素妆",
+      "onboard_time": 1715065519,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208840,
@@ -12051,6 +12123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168653,
+      "num": 168653,
+      "word": "官方通报宁波保时捷撞车事故",
+      "onboard_time": 1715064619,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168638,
       "num": 168638,
       "word": "谁懂大侦探收官案的含金量",
@@ -13579,6 +13659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149047,
+      "num": 149047,
+      "word": "九尾说想去电竞世界杯",
+      "onboard_time": 1715064257,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149033,
       "num": 149033,
       "word": "五月天在暴雨中演唱倔强",
@@ -14027,6 +14115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143816,
+      "num": 143816,
+      "word": "王一博片场花絮",
+      "onboard_time": 1715066359,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143714,
       "num": 143714,
       "word": "大学生上课坐前排就像追韩娱",
@@ -14363,6 +14459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138351,
+      "num": 138351,
+      "word": "江疏影看了花少5",
+      "onboard_time": 1715066478,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138339,
       "num": 138339,
       "word": "五一假期多地旅游收入",
@@ -14401,14 +14505,6 @@
       "onboard_time": 1715044159,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137638,
-      "num": 137638,
-      "word": "女性排卵期这4种身体变化容易被误解",
-      "onboard_time": 1715063838,
-      "rank": 45,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 137482,
@@ -14475,6 +14571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136916,
+      "num": 136916,
+      "word": "赵菊英到底是谁",
+      "onboard_time": 1715066478,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 136563,
       "num": 136563,
       "word": "梁洁杀回现偶",
@@ -14529,6 +14633,14 @@
       "onboard_time": 1714775652,
       "rank": 12,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 136149,
+      "num": 136149,
+      "word": "官方回应留日学生辱骂国人",
+      "onboard_time": 1715066539,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135806,
@@ -15345,6 +15457,14 @@
       "onboard_time": 1714888698,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125161,
+      "num": 125161,
+      "word": "周鸿祎试驾飞行汽车无法起飞",
+      "onboard_time": 1715064317,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 124971,
@@ -18441,6 +18561,14 @@
       "onboard_time": 1715027650,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10167,
+      "num": 125254,
+      "word": "一场跨越千里的纯爱之旅",
+      "onboard_time": 1715064978,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 4564,
