@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715123794729,
+  "endTime": 1715124836589,
   "band_list": [
     {
       "raw_hot": 1143072,
@@ -11,6 +11,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1104125,
+      "num": 509512,
+      "word": "这个宝宝一出生就15岁了",
+      "onboard_time": 1715087539,
+      "rank": 1,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 790458,
       "num": 475926,
       "word": "我iPad也要低人一等了",
@@ -19,12 +27,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 758232,
-      "num": 509512,
-      "word": "这个宝宝一出生就15岁了",
-      "onboard_time": 1715087539,
-      "rank": 1,
-      "category": "母婴育儿"
+      "raw_hot": 773996,
+      "num": 216080,
+      "word": "百度副总裁被曝安排工作言辞激烈",
+      "onboard_time": 1715109252,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 751947,
@@ -51,14 +59,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 681154,
-      "num": 203397,
-      "word": "百度副总裁被曝安排工作言辞激烈",
-      "onboard_time": 1715109252,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 618844,
       "num": 618844,
       "word": "建议一次食用小龙虾不超10只",
@@ -73,6 +73,14 @@
       "onboard_time": 1715092281,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592629,
+      "num": 592629,
+      "word": "大巴黎淘汰",
+      "onboard_time": 1715123657,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 548890,
@@ -91,6 +99,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 447641,
+      "num": 350796,
+      "word": "山航客机事故发生前跑道曾被要求整改",
+      "onboard_time": 1715100975,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425646,
       "num": 117616,
       "word": "晚睡会影响女性卵巢功能",
@@ -107,20 +123,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 405352,
-      "num": 350796,
-      "word": "山航客机事故发生前跑道曾被要求整改",
-      "onboard_time": 1715100975,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 369823,
+      "raw_hot": 395917,
       "num": 369823,
       "word": "小杨哥称在发现高价水之后就要求降价",
       "onboard_time": 1715088199,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 360172,
+      "num": 287820,
+      "word": "4人含碎玻璃渣吃火锅敲诈被刑拘",
+      "onboard_time": 1715114831,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352994,
@@ -137,6 +153,14 @@
       "onboard_time": 1715081540,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321852,
+      "num": 291399,
+      "word": "这种毒碗你家可能天天都在用",
+      "onboard_time": 1715088020,
+      "rank": 17,
+      "category": "科学科普"
     },
     {
       "raw_hot": 320012,
@@ -163,22 +187,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 291399,
-      "num": 291399,
-      "word": "这种毒碗你家可能天天都在用",
-      "onboard_time": 1715088020,
-      "rank": 17,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 287820,
-      "num": 287820,
-      "word": "4人含碎玻璃渣吃火锅敲诈被刑拘",
-      "onboard_time": 1715114831,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279462,
       "num": 279462,
       "word": "女子租房9个多月发现对面是墓地",
@@ -195,12 +203,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230608,
+      "raw_hot": 235125,
+      "num": 186684,
+      "word": "马思纯蕾丝德训鞋",
+      "onboard_time": 1715094561,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 234760,
       "num": 393913,
       "word": "多特蒙德晋级欧冠决赛",
       "onboard_time": 1715123354,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211558,
+      "num": 211558,
+      "word": "娜扎在前面跳 保镖在后面笑",
+      "onboard_time": 1715119572,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 211063,
@@ -219,12 +243,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 208946,
-      "num": 160951,
-      "word": "马思纯蕾丝德训鞋",
-      "onboard_time": 1715094561,
-      "rank": 29,
-      "category": "作品衍生"
+      "raw_hot": 208887,
+      "num": 208887,
+      "word": "华为发布会",
+      "onboard_time": 1715124016,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 208541,
@@ -243,12 +267,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189676,
-      "num": 189676,
-      "word": "娜扎在前面跳 保镖在后面笑",
-      "onboard_time": 1715119572,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 202516,
+      "num": 202516,
+      "word": "iPad",
+      "onboard_time": 1715124497,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 187432,
+      "num": 187432,
+      "word": "欧冠半决赛",
+      "onboard_time": 1715123657,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 181232,
@@ -267,22 +299,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 173116,
-      "num": 173116,
-      "word": "欧冠半决赛",
-      "onboard_time": 1715123657,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 171595,
-      "num": 171595,
-      "word": "大巴黎淘汰",
-      "onboard_time": 1715123657,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165524,
       "num": 165524,
       "word": "背着善宰跑",
@@ -291,8 +307,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153898,
-      "num": 153898,
+      "raw_hot": 162216,
+      "num": 162216,
+      "word": "孙颖莎3比0伊莎贝拉",
+      "onboard_time": 1715123296,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161379,
+      "num": 161379,
       "word": "宋慧乔颁奖",
       "onboard_time": 1715086759,
       "rank": 42,
@@ -323,6 +347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137374,
+      "num": 137374,
+      "word": "张露文",
+      "onboard_time": 1715123775,
+      "rank": 49,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 135483,
       "num": 135483,
       "word": "逃离直播带货小杨哥转行",
@@ -347,14 +379,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 131300,
-      "num": 131300,
-      "word": "孙颖莎3比0伊莎贝拉",
-      "onboard_time": 1715123296,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126500,
       "num": 126500,
       "word": "学车竟然被一只狗安慰到了",
@@ -371,12 +395,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 126069,
+      "num": 126069,
+      "word": "南雅出狱气后妈这段看爽了",
+      "onboard_time": 1715090960,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125854,
       "num": 125854,
       "word": "情侣同居要检测HPV",
       "onboard_time": 1715072239,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 123978,
+      "num": 123978,
+      "word": "Apple pencil",
+      "onboard_time": 1715124435,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 123928,
@@ -387,12 +427,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 123615,
-      "num": 123615,
-      "word": "南雅出狱气后妈这段看爽了",
-      "onboard_time": 1715090960,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 121868,
+      "num": 121868,
+      "word": "汪汪乐园",
+      "onboard_time": 1715124497,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 120974,
@@ -419,6 +459,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116058,
+      "num": 116058,
+      "word": "陶昕然妈妈年轻时撞脸虞书欣",
+      "onboard_time": 1715084960,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 114689,
+      "num": 114689,
+      "word": "糖尿病就像将器官泡在糖水里",
+      "onboard_time": 1715122815,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 113055,
       "num": 113055,
       "word": "跟天蝎座相处的秘诀",
@@ -443,12 +499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104921,
-      "num": 104921,
-      "word": "陶昕然妈妈年轻时撞脸虞书欣",
-      "onboard_time": 1715084960,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 104502,
+      "num": 104502,
+      "word": "新款iPadPro和Air仍为10小时续航",
+      "onboard_time": 1715123895,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 101219,
@@ -459,20 +515,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97041,
-      "num": 97041,
-      "word": "糖尿病就像将器官泡在糖水里",
-      "onboard_time": 1715122815,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 94577,
       "num": 94577,
       "word": "娜扎脚腕纹身",
       "onboard_time": 1715078539,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93628,
+      "num": 93628,
+      "word": "TikTok告美联邦政府",
+      "onboard_time": 1715124677,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 82221,
+      "num": 82221,
+      "word": "姆巴佩赛后采访",
+      "onboard_time": 1715124616,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 76683,
@@ -483,6 +547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74938,
+      "num": 74938,
+      "word": "迪丽热巴美得摄人心魄",
+      "onboard_time": 1715111290,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73953,
       "num": 115321,
       "word": "普京新任期首访国家是中国",
@@ -491,20 +563,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 73723,
-      "num": 73723,
-      "word": "迪丽热巴美得摄人心魄",
-      "onboard_time": 1715111290,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 72378,
       "num": 72378,
       "word": "iPad Pro",
       "onboard_time": 1715093361,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 70102,
+      "num": 70102,
+      "word": "大黄蜂飞向温布利大球场",
+      "onboard_time": 1715124798,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 52093,
@@ -521,14 +593,6 @@
       "onboard_time": 1715101633,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 43843,
-      "num": 43843,
-      "word": "张露文",
-      "onboard_time": 1715123775,
-      "rank": 49,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 43122,
@@ -579,7 +643,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 20830,
+      "raw_hot": 23604,
       "num": 499370,
       "word": "为中法建交精神赋予新的时代内涵",
       "onboard_time": 1715088260,
