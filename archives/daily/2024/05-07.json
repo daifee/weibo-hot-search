@@ -1,6 +1,6 @@
 {
   "startTime": 1715012728684,
-  "endTime": 1715052062475,
+  "endTime": 1715052853775,
   "band_list": [
     {
       "raw_hot": 1840279,
@@ -19,20 +19,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1411302,
+      "num": 1411302,
+      "word": "金价",
+      "onboard_time": 1715049258,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1389495,
+      "num": 368006,
+      "word": "淘宝免单",
+      "onboard_time": 1714977378,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1351442,
       "num": 1351442,
       "word": "王楚钦孙颖莎获奥运混双资格",
       "onboard_time": 1715042601,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1343233,
-      "num": 1343233,
-      "word": "金价",
-      "onboard_time": 1715049258,
-      "rank": 5,
-      "category": "财经"
     },
     {
       "raw_hot": 1291935,
@@ -49,14 +57,6 @@
       "onboard_time": 1715007080,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1143903,
-      "num": 365437,
-      "word": "淘宝免单",
-      "onboard_time": 1714977378,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 1102586,
@@ -83,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 950056,
+      "num": 950056,
+      "word": "中国游客日本人均消费近30万日元",
+      "onboard_time": 1715048239,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 947999,
       "num": 604491,
       "word": "男子确诊胃癌提前一年为自己安排身后事",
       "onboard_time": 1715007320,
       "rank": 4,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 899553,
-      "num": 899553,
-      "word": "中国游客日本人均消费近30万日元",
-      "onboard_time": 1715048239,
-      "rank": 25,
-      "category": "旅游"
     },
     {
       "raw_hot": 770441,
@@ -155,6 +155,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 644023,
+      "num": 363318,
+      "word": "保安看刘亦菲时的眼神",
+      "onboard_time": 1715049619,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 619566,
       "num": 338714,
       "word": "31岁跨国恋网红娜娜去世",
@@ -187,12 +195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 579337,
-      "num": 359368,
-      "word": "保安看刘亦菲时的眼神",
-      "onboard_time": 1715049619,
-      "rank": 35,
-      "category": "作品衍生"
+      "raw_hot": 597091,
+      "num": 597091,
+      "word": "我才不要和你做朋友呢海报",
+      "onboard_time": 1715050639,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 575921,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443138,
+      "num": 1431040,
+      "word": "法国人第一次喝中国茶喝出夹子音",
+      "onboard_time": 1715052018,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437147,
       "num": 437147,
       "word": "肉放冷冻层保质期就是一辈子吗",
@@ -275,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389596,
+      "num": 358813,
+      "word": "第一次看掘金如此狼狈",
+      "onboard_time": 1715051597,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373052,
       "num": 373052,
       "word": "井柏然演技",
@@ -283,12 +307,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371931,
+      "num": 371931,
+      "word": "穿婚纱的王珞丹",
+      "onboard_time": 1715050699,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 366595,
       "num": 366595,
       "word": "哈马斯同意停火方案",
       "onboard_time": 1715038516,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 365566,
+      "num": 297467,
+      "word": "买房五年没住手头五六十个车位被出租",
+      "onboard_time": 1715051779,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364830,
@@ -315,36 +355,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356414,
-      "num": 365518,
-      "word": "男子打球被球友看出面相不对救了一命",
-      "onboard_time": 1715020752,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343455,
-      "num": 343455,
-      "word": "我才不要和你做朋友呢海报",
-      "onboard_time": 1715050639,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 342225,
-      "num": 342225,
+      "raw_hot": 358454,
+      "num": 358454,
       "word": "StrayKids疑似被歧视",
       "onboard_time": 1715048778,
       "rank": 30,
       "category": "艺人"
     },
     {
-      "raw_hot": 336281,
-      "num": 336281,
-      "word": "穿婚纱的王珞丹",
-      "onboard_time": 1715050699,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 356414,
+      "num": 365518,
+      "word": "男子打球被球友看出面相不对救了一命",
+      "onboard_time": 1715020752,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333662,
@@ -363,20 +387,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 326936,
-      "num": 229600,
-      "word": "第一次看掘金如此狼狈",
-      "onboard_time": 1715051597,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 326799,
       "num": 314788,
       "word": "邓超你关注下陶白白吧",
       "onboard_time": 1715003960,
       "rank": 10,
       "category": "艺人,情感"
+    },
+    {
+      "raw_hot": 326154,
+      "num": 326154,
+      "word": "赵丽颖白裙背影",
+      "onboard_time": 1715051900,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 321267,
@@ -395,12 +419,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319225,
+      "num": 319225,
+      "word": "官方回应4条高铁票价调整",
+      "onboard_time": 1715051179,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313418,
       "num": 313418,
       "word": "什么环境下吃泡面最有感觉",
       "onboard_time": 1715039958,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 308717,
+      "num": 308717,
+      "word": "森林狼打爆掘金",
+      "onboard_time": 1715051900,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 308331,
@@ -491,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253904,
+      "num": 253904,
+      "word": "越来越频繁的电影撤档伤害了谁",
+      "onboard_time": 1715050878,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 248308,
       "num": 248308,
       "word": "蔡少芬陶昕然体型差",
@@ -499,28 +547,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246478,
+      "num": 246478,
+      "word": "华晨宇演唱会散场粉丝集体致谢消防员",
+      "onboard_time": 1715051900,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 244748,
       "num": 343630,
       "word": "孙颖莎自动获得女子团体参赛资格",
       "onboard_time": 1715048660,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242986,
-      "num": 242986,
-      "word": "越来越频繁的电影撤档伤害了谁",
-      "onboard_time": 1715050878,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 229833,
-      "num": 229833,
-      "word": "赵丽颖白裙背影",
-      "onboard_time": 1715051900,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 229147,
@@ -571,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216224,
+      "num": 216224,
+      "word": "年轻人流行辞职去种地",
+      "onboard_time": 1715050338,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216120,
       "num": 216120,
       "word": "婴儿在公共场所哭闹",
@@ -603,22 +651,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 208104,
-      "num": 208104,
-      "word": "年轻人流行辞职去种地",
-      "onboard_time": 1715050338,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 207972,
-      "num": 207972,
-      "word": "买房五年没住手头五六十个车位被出租",
-      "onboard_time": 1715051779,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204643,
       "num": 204643,
       "word": "MetGala mvp",
@@ -633,6 +665,14 @@
       "onboard_time": 1715045058,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198268,
+      "num": 198268,
+      "word": "森林狼防守",
+      "onboard_time": 1715052498,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 192420,
@@ -659,12 +699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190074,
+      "num": 304113,
+      "word": "蝴蝶停在新郎胸口那一刻心震了",
+      "onboard_time": 1715052258,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189259,
       "num": 189259,
       "word": "爸爸辅导作业崩溃用石榴砸破孩子脾脏",
       "onboard_time": 1714985657,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188267,
+      "num": 188267,
+      "word": "谢娜李承铉合作过小甜剧",
+      "onboard_time": 1715052137,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 187722,
@@ -699,12 +755,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174749,
-      "num": 174749,
-      "word": "官方回应4条高铁票价调整",
-      "onboard_time": 1715051179,
+      "raw_hot": 181187,
+      "num": 181187,
+      "word": "狼王爱德华兹",
+      "onboard_time": 1715052560,
       "rank": 40,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 174656,
@@ -713,14 +769,6 @@
       "onboard_time": 1715009420,
       "rank": 30,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 173210,
-      "num": 173210,
-      "word": "森林狼打爆掘金",
-      "onboard_time": 1715051900,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 172892,
@@ -753,6 +801,14 @@
       "onboard_time": 1714991359,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163527,
+      "num": 163527,
+      "word": "NBA季后赛",
+      "onboard_time": 1715052498,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 162291,
@@ -801,14 +857,6 @@
       "onboard_time": 1715044819,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157145,
-      "num": 157145,
-      "word": "华晨宇演唱会散场粉丝集体致谢消防员",
-      "onboard_time": 1715051900,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 155324,
@@ -1273,14 +1321,6 @@
       "onboard_time": 1715027650,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6999,
-      "num": 1431040,
-      "word": "法国人第一次喝中国茶喝出夹子音",
-      "onboard_time": 1715052018,
-      "rank": 1,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1292,6 +1332,9 @@
     },
     {
       "word": "#倡议运动会期间全球停火止战#"
+    },
+    {
+      "word": "#习近平同马克龙举行会谈#"
     }
   ]
 }

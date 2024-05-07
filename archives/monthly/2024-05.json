@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715052062475,
+  "endTime": 1715052853775,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -555,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1411302,
+      "num": 1411302,
+      "word": "金价",
+      "onboard_time": 1714827799,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1405824,
       "num": 1405824,
       "word": "小众城市突然爆红",
@@ -609,14 +617,6 @@
       "onboard_time": 1714705459,
       "rank": 20,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1343233,
-      "num": 1343233,
-      "word": "金价",
-      "onboard_time": 1714827799,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 1341705,
@@ -1267,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 950056,
+      "num": 950056,
+      "word": "中国游客日本人均消费近30万日元",
+      "onboard_time": 1715048239,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 947999,
       "num": 616221,
       "word": "男子确诊胃癌提前一年为自己安排身后事",
@@ -1369,14 +1377,6 @@
       "onboard_time": 1714803858,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 899553,
-      "num": 899553,
-      "word": "中国游客日本人均消费近30万日元",
-      "onboard_time": 1715048239,
-      "rank": 25,
-      "category": "旅游"
     },
     {
       "raw_hot": 891566,
@@ -2483,6 +2483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 644023,
+      "num": 363318,
+      "word": "保安看刘亦菲时的眼神",
+      "onboard_time": 1715049619,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 642619,
       "num": 642619,
       "word": "跑男剪辑",
@@ -2811,6 +2819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 597091,
+      "num": 597091,
+      "word": "我才不要和你做朋友呢海报",
+      "onboard_time": 1715050639,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 596192,
       "num": 552928,
       "word": "赵昭仪问张翰你是不是爱吃牛肉",
@@ -2857,14 +2873,6 @@
       "onboard_time": 1714864994,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 579337,
-      "num": 359368,
-      "word": "保安看刘亦菲时的眼神",
-      "onboard_time": 1715049619,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 576314,
@@ -4059,6 +4067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443138,
+      "num": 1431040,
+      "word": "法国人第一次喝中国茶喝出夹子音",
+      "onboard_time": 1715052018,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442487,
       "num": 431240,
       "word": "37岁养羊男子娶19岁越南新娘",
@@ -4803,6 +4819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389596,
+      "num": 358813,
+      "word": "第一次看掘金如此狼狈",
+      "onboard_time": 1715051597,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 389307,
       "num": 267592,
       "word": "刘亦菲37岁状态",
@@ -5059,6 +5083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 371931,
+      "num": 371931,
+      "word": "穿婚纱的王珞丹",
+      "onboard_time": 1715050699,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371325,
       "num": 371325,
       "word": "林俊杰唱了一生的爱",
@@ -5161,6 +5193,14 @@
       "onboard_time": 1714653498,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365566,
+      "num": 297467,
+      "word": "买房五年没住手头五六十个车位被出租",
+      "onboard_time": 1715051779,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365531,
@@ -5288,6 +5328,14 @@
       "word": "网友曾在泰妍家住宿",
       "onboard_time": 1714840816,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 358454,
+      "num": 358454,
+      "word": "StrayKids疑似被歧视",
+      "onboard_time": 1715048778,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -5515,22 +5563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 343455,
-      "num": 343455,
-      "word": "我才不要和你做朋友呢海报",
-      "onboard_time": 1715050639,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 342225,
-      "num": 342225,
-      "word": "StrayKids疑似被歧视",
-      "onboard_time": 1715048778,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 341919,
       "num": 244399,
       "word": "钟楚曦侯雯元去时代少年团演唱会",
@@ -5601,14 +5633,6 @@
       "onboard_time": 1714535417,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 336281,
-      "num": 336281,
-      "word": "穿婚纱的王珞丹",
-      "onboard_time": 1715050699,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 335627,
@@ -5795,12 +5819,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 326936,
-      "num": 229600,
-      "word": "第一次看掘金如此狼狈",
-      "onboard_time": 1715051597,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 326154,
+      "num": 326154,
+      "word": "赵丽颖白裙背影",
+      "onboard_time": 1715051900,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 324756,
@@ -5897,6 +5921,14 @@
       "onboard_time": 1714712239,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319225,
+      "num": 319225,
+      "word": "官方回应4条高铁票价调整",
+      "onboard_time": 1715051179,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318855,
@@ -6049,6 +6081,14 @@
       "onboard_time": 1714553177,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308717,
+      "num": 308717,
+      "word": "森林狼打爆掘金",
+      "onboard_time": 1715051900,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 308663,
@@ -7107,6 +7147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253904,
+      "num": 253904,
+      "word": "越来越频繁的电影撤档伤害了谁",
+      "onboard_time": 1715050878,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 252429,
       "num": 252429,
       "word": "张新成去埃及了",
@@ -7251,6 +7299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246478,
+      "num": 246478,
+      "word": "华晨宇演唱会散场粉丝集体致谢消防员",
+      "onboard_time": 1715051900,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 246328,
       "num": 246328,
       "word": "死装男鼻祖杀回来了",
@@ -7369,14 +7425,6 @@
       "onboard_time": 1714553718,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 242986,
-      "num": 242986,
-      "word": "越来越频繁的电影撤档伤害了谁",
-      "onboard_time": 1715050878,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 242888,
@@ -7745,14 +7793,6 @@
       "onboard_time": 1714882399,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229833,
-      "num": 229833,
-      "word": "赵丽颖白裙背影",
-      "onboard_time": 1715051900,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 229546,
@@ -8227,6 +8267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 216224,
+      "num": 216224,
+      "word": "年轻人流行辞职去种地",
+      "onboard_time": 1715050338,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216120,
       "num": 216120,
       "word": "婴儿在公共场所哭闹",
@@ -8627,28 +8675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208104,
-      "num": 208104,
-      "word": "年轻人流行辞职去种地",
-      "onboard_time": 1715050338,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 208092,
       "num": 208092,
       "word": "薛之谦新疆抢票",
       "onboard_time": 1714815978,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 207972,
-      "num": 207972,
-      "word": "买房五年没住手头五六十个车位被出租",
-      "onboard_time": 1715051779,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207917,
@@ -9355,6 +9387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198268,
+      "num": 198268,
+      "word": "森林狼防守",
+      "onboard_time": 1715052498,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198126,
       "num": 198126,
       "word": "自信和不自信的区别到底有多大",
@@ -10051,6 +10091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190074,
+      "num": 304113,
+      "word": "蝴蝶停在新郎胸口那一刻心震了",
+      "onboard_time": 1715052258,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189845,
       "num": 217909,
       "word": "珉佑直播",
@@ -10137,6 +10185,14 @@
       "onboard_time": 1714705459,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188267,
+      "num": 188267,
+      "word": "谢娜李承铉合作过小甜剧",
+      "onboard_time": 1715052137,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 188219,
@@ -10651,6 +10707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181187,
+      "num": 181187,
+      "word": "狼王爱德华兹",
+      "onboard_time": 1715052560,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181037,
       "num": 181037,
       "word": "童瑶发量",
@@ -11131,14 +11195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174749,
-      "num": 174749,
-      "word": "官方回应4条高铁票价调整",
-      "onboard_time": 1715051179,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174707,
       "num": 174707,
       "word": "俄乌局势新进展",
@@ -11273,14 +11329,6 @@
       "onboard_time": 1714632918,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 173210,
-      "num": 173210,
-      "word": "森林狼打爆掘金",
-      "onboard_time": 1715051900,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 173194,
@@ -11995,6 +12043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163527,
+      "num": 163527,
+      "word": "NBA季后赛",
+      "onboard_time": 1714793599,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163492,
       "num": 163492,
       "word": "穿开衫衣服好看的方法",
@@ -12465,14 +12521,6 @@
       "onboard_time": 1714640717,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 157145,
-      "num": 157145,
-      "word": "华晨宇演唱会散场粉丝集体致谢消防员",
-      "onboard_time": 1715051900,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 157044,
@@ -16515,14 +16563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99566,
-      "num": 99566,
-      "word": "NBA季后赛",
-      "onboard_time": 1714793599,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99404,
       "num": 99404,
       "word": "GUCCI晒肖战花絮",
@@ -17939,14 +17979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6999,
-      "num": 1431040,
-      "word": "法国人第一次喝中国茶喝出夹子音",
-      "onboard_time": 1715052018,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 4564,
       "num": 166427,
       "word": "十个勤天焕新美好生活",
@@ -18039,6 +18071,9 @@
     },
     {
       "word": "#倡议运动会期间全球停火止战#"
+    },
+    {
+      "word": "#习近平同马克龙举行会谈#"
     }
   ]
 }
