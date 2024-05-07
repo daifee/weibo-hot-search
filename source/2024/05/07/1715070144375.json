@@ -1,0 +1,410 @@
+{
+  "runTime": 1715070144375,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1430053,
+        "num": 1430053,
+        "word": "淘宝免单",
+        "onboard_time": 1715051238,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 771291,
+        "num": 771291,
+        "word": "淘宝免单 甄嬛传",
+        "onboard_time": 1715070020,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 39145,
+        "num": 765717,
+        "word": "中法重量级高规格活动上的企业家",
+        "onboard_time": 1715054899,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1184580,
+        "num": 761322,
+        "word": "云南镇雄持刀伤人案致21伤2死",
+        "onboard_time": 1715064739,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1181665,
+        "num": 755331,
+        "word": "刘涛说郑佩佩身体已经不太好了",
+        "onboard_time": 1715068938,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1152188,
+        "num": 753312,
+        "word": "宋仲基宋慧乔将出席百想",
+        "onboard_time": 1715063959,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 953007,
+        "num": 744315,
+        "word": "联通 阴阳怪气的神",
+        "onboard_time": 1715065159,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 741410,
+        "num": 741410,
+        "word": "国家烟草专卖局原局长被逮捕",
+        "onboard_time": 1715066958,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606147,
+        "num": 606147,
+        "word": "蝴蝶停在新郎胸口那一刻心震了",
+        "onboard_time": 1715052258,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70745,
+        "num": 602742,
+        "word": "五一档票房和观影人次均超去年同期",
+        "onboard_time": 1715059278,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2414190,
+        "num": 602556,
+        "word": "云南镇雄发生恶性伤人事件逾10人伤亡",
+        "onboard_time": 1715063357,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701190,
+        "num": 602333,
+        "word": "云南昭通一小区通知不要给陌生人开门",
+        "onboard_time": 1715066898,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602064,
+        "num": 602064,
+        "word": "1999年5月7日 中国人不忘记",
+        "onboard_time": 1715062879,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 583784,
+        "num": 583784,
+        "word": "女性排卵期这4种身体变化容易被误解",
+        "onboard_time": 1715063838,
+        "rank": 13,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 541627,
+        "num": 541627,
+        "word": "康辉担任巴黎奥运会火炬手",
+        "onboard_time": 1715067258,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 535024,
+        "num": 535024,
+        "word": "金价跌到5字头消费者不买了",
+        "onboard_time": 1715063838,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 487762,
+        "num": 487762,
+        "word": "官方回应僧人开宾利后座有女人小孩",
+        "onboard_time": 1715065637,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462319,
+        "num": 462319,
+        "word": "宋仲基宋慧乔将同框",
+        "onboard_time": 1715064019,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 407948,
+        "num": 407948,
+        "word": "官方回应留日学生辱骂国人",
+        "onboard_time": 1715066539,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398841,
+        "num": 398841,
+        "word": "云南恶性伤人事件亲历者发声",
+        "onboard_time": 1715068099,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393806,
+        "num": 393806,
+        "word": "东莞一00后干部拟任副局长",
+        "onboard_time": 1715061138,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373173,
+        "num": 373173,
+        "word": "宁波一保时捷发生严重车祸",
+        "onboard_time": 1715058918,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356435,
+        "num": 356435,
+        "word": "金秀贤压轴",
+        "onboard_time": 1715069480,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343611,
+        "num": 343611,
+        "word": "杨迪 无痛医美",
+        "onboard_time": 1715060958,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343447,
+        "num": 343447,
+        "word": "云南镇雄一医院有人持刀行凶公安布控",
+        "onboard_time": 1715067858,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316190,
+        "num": 316190,
+        "word": "江疏影说和娜扎是竞品",
+        "onboard_time": 1715067319,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316099,
+        "num": 316099,
+        "word": "退休教师上门家访砸手办体罚学生",
+        "onboard_time": 1715067438,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314343,
+        "num": 314343,
+        "word": "镇雄城南医院",
+        "onboard_time": 1715063238,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294853,
+        "num": 294853,
+        "word": "春色寄情人 优点大于缺点",
+        "onboard_time": 1715067019,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291999,
+        "num": 291999,
+        "word": "任天堂新机",
+        "onboard_time": 1715069060,
+        "rank": 29,
+        "category": "游戏,数码"
+      },
+      {
+        "raw_hot": 291131,
+        "num": 291131,
+        "word": "突然羡慕妈妈月薪4K的工作了",
+        "onboard_time": 1715069418,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256165,
+        "num": 256165,
+        "word": "刘忻 我觉得季军不属于我",
+        "onboard_time": 1715064918,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253962,
+        "num": 253962,
+        "word": "新闻女王2 赵晴",
+        "onboard_time": 1715069720,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246957,
+        "num": 246957,
+        "word": "金价",
+        "onboard_time": 1715049258,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 244775,
+        "num": 244775,
+        "word": "店主介绍邓超是孙俪的老公",
+        "onboard_time": 1715060119,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230152,
+        "num": 230152,
+        "word": "歌手2024主持人阵容",
+        "onboard_time": 1715056521,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217487,
+        "num": 217487,
+        "word": "李一桐新剧孕妇一秒变刑警",
+        "onboard_time": 1715067739,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214440,
+        "num": 214440,
+        "word": "刘涛谈郑佩佩",
+        "onboard_time": 1715068579,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208434,
+        "num": 208434,
+        "word": "蒲熠星演唱会",
+        "onboard_time": 1715069180,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198830,
+        "num": 198830,
+        "word": "世界首例自体再生胰岛移植成功",
+        "onboard_time": 1715069900,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194586,
+        "num": 194586,
+        "word": "第一见猫累成狗了",
+        "onboard_time": 1715069778,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194202,
+        "num": 194202,
+        "word": "人确实留不住任何关系",
+        "onboard_time": 1715069119,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190216,
+        "num": 190216,
+        "word": "新闻女王2微博选角",
+        "onboard_time": 1715069000,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182796,
+        "num": 182796,
+        "word": "赵丽颖原生素妆",
+        "onboard_time": 1715065519,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179195,
+        "num": 179195,
+        "word": "2千买的迪士尼门票被用过平台补偿30",
+        "onboard_time": 1715065339,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 172856,
+        "num": 172856,
+        "word": "马龙无缘巴黎奥运会单打",
+        "onboard_time": 1715047939,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161456,
+        "num": 161456,
+        "word": "周鸿祎回应不换车改换飞机",
+        "onboard_time": 1715069598,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 157448,
+        "num": 157448,
+        "word": "第60届百想艺术大赏",
+        "onboard_time": 1715067200,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148817,
+        "num": 148817,
+        "word": "百度副总裁5天涨粉百万账号系购买",
+        "onboard_time": 1715057120,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148776,
+        "num": 148776,
+        "word": "女子租房2年多意外发现暗藏摄像头",
+        "onboard_time": 1715053640,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首互赠奥运火炬#"
+    }
+  }
+}
