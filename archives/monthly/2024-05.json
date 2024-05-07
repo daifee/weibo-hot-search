@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715060083260,
+  "endTime": 1715063093006,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -593,6 +593,14 @@
       "onboard_time": 1714532777,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1366650,
+      "num": 740463,
+      "word": "宁波一保时捷发生严重车祸",
+      "onboard_time": 1715058918,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1362993,
@@ -2131,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 711185,
+      "num": 544365,
+      "word": "百度副总裁5天涨粉百万账号系购买",
+      "onboard_time": 1715057120,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 710032,
       "num": 710032,
       "word": "章子怡酱园弄剧照",
@@ -2177,6 +2193,14 @@
       "onboard_time": 1714997478,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 702310,
+      "num": 702310,
+      "word": "店主介绍邓超是孙俪的老公",
+      "onboard_time": 1715060119,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 700774,
@@ -2385,14 +2409,6 @@
       "onboard_time": 1714557078,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 667723,
-      "num": 544365,
-      "word": "百度副总裁5天涨粉百万账号系购买",
-      "onboard_time": 1715057120,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 666690,
@@ -2697,6 +2713,14 @@
       "onboard_time": 1714701558,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 624364,
+      "num": 440578,
+      "word": "秦岚护照丢了",
+      "onboard_time": 1715060719,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 624079,
@@ -4011,6 +4035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 455528,
+      "num": 455528,
+      "word": "曝iPhone17Pro迈入12GB内存时代",
+      "onboard_time": 1715057842,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 454793,
       "num": 454793,
       "word": "还我五一",
@@ -4233,6 +4265,14 @@
       "onboard_time": 1714724838,
       "rank": 29,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 439801,
+      "num": 439801,
+      "word": "东莞一00后干部拟任副局长",
+      "onboard_time": 1715061138,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437434,
@@ -4481,6 +4521,14 @@
       "onboard_time": 1714869977,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 420143,
+      "num": 420143,
+      "word": "Jennie和StrayKids合照",
+      "onboard_time": 1715059099,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 419563,
@@ -5027,14 +5075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 386249,
-      "num": 386249,
-      "word": "Jennie和StrayKids合照",
-      "onboard_time": 1715059099,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 385631,
       "num": 385631,
       "word": "BABYMONSTER打歌初一位",
@@ -5443,6 +5483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359537,
+      "num": 327358,
+      "word": "谢娜白色吊带",
+      "onboard_time": 1715058620,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 359307,
       "num": 170886,
       "word": "网友曾在泰妍家住宿",
@@ -5537,14 +5585,6 @@
       "onboard_time": 1714544600,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 351968,
-      "num": 351968,
-      "word": "宁波一保时捷发生严重车祸",
-      "onboard_time": 1715058918,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351932,
@@ -5817,14 +5857,6 @@
       "onboard_time": 1714551137,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 332670,
-      "num": 327358,
-      "word": "谢娜白色吊带",
-      "onboard_time": 1715058620,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 332648,
@@ -6195,14 +6227,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 311373,
-      "num": 311373,
-      "word": "曝iPhone17Pro迈入12GB内存时代",
-      "onboard_time": 1715057842,
-      "rank": 23,
-      "category": "数码"
-    },
-    {
       "raw_hot": 309509,
       "num": 309509,
       "word": "元气森林音乐节取消6小时后又照常办了",
@@ -6411,6 +6435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 295591,
+      "num": 295591,
+      "word": "杨迪 无痛医美",
+      "onboard_time": 1715060958,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 295011,
       "num": 295011,
       "word": "穆雷可能被禁赛",
@@ -6609,6 +6641,14 @@
       "onboard_time": 1715004139,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 283822,
+      "num": 280643,
+      "word": "北方的面包不给切片吗",
+      "onboard_time": 1715058382,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 283726,
@@ -7019,6 +7059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265351,
+      "num": 265351,
+      "word": "郑容和朴信惠合照",
+      "onboard_time": 1715061198,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265265,
       "num": 265265,
       "word": "晕人",
@@ -7208,6 +7256,14 @@
       "word": "李昊 可爱小狗",
       "onboard_time": 1714751480,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 258979,
+      "num": 258979,
+      "word": "秦岚 人很难看到自己的影子",
+      "onboard_time": 1715061798,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -7633,14 +7689,6 @@
       "onboard_time": 1714709297,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 241417,
-      "num": 241417,
-      "word": "北方的面包不给切片吗",
-      "onboard_time": 1715058382,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 241260,
@@ -8561,6 +8609,14 @@
       "onboard_time": 1714530377,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215034,
+      "num": 215034,
+      "word": "迪丽热巴莫名其妙的综艺效果",
+      "onboard_time": 1715059759,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 214399,
@@ -9795,6 +9851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196644,
+      "num": 196644,
+      "word": "淘宝重启网页版",
+      "onboard_time": 1715062038,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 196529,
       "num": 196529,
       "word": "亚比囧囧囧",
@@ -10017,14 +10081,6 @@
       "onboard_time": 1714882640,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 194192,
-      "num": 191876,
-      "word": "迪丽热巴莫名其妙的综艺效果",
-      "onboard_time": 1715059759,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 194081,
@@ -10529,6 +10585,14 @@
       "onboard_time": 1714554617,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187594,
+      "num": 187594,
+      "word": "不可告人定档",
+      "onboard_time": 1715061919,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 187496,
@@ -11241,6 +11305,14 @@
       "onboard_time": 1714629857,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 177133,
+      "num": 177133,
+      "word": "肖战地广打卡",
+      "onboard_time": 1715062220,
+      "rank": 34,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 177051,
@@ -12611,6 +12683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 159842,
+      "num": 159842,
+      "word": "1999年5月7日 中国人不忘记",
+      "onboard_time": 1715062879,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 159805,
       "num": 159805,
       "word": "上海等级考",
@@ -13233,6 +13313,14 @@
       "onboard_time": 1714887859,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151191,
+      "num": 545132,
+      "word": "五一档票房和观影人次均超去年同期",
+      "onboard_time": 1715059278,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150885,
@@ -13929,6 +14017,14 @@
       "onboard_time": 1714542561,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142899,
+      "num": 142899,
+      "word": "刘涛摸秦岚的背",
+      "onboard_time": 1715060240,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 142797,
@@ -15243,6 +15339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124735,
+      "num": 124735,
+      "word": "黄昏 完美人夫",
+      "onboard_time": 1715062699,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 124470,
       "num": 124470,
       "word": "螺蛳粉的六种吃法",
@@ -15441,6 +15545,14 @@
       "onboard_time": 1714868958,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121829,
+      "num": 121829,
+      "word": "庆余年第一季名场面回顾",
+      "onboard_time": 1715062998,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 121819,
@@ -17371,14 +17483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74697,
-      "num": 545132,
-      "word": "五一档票房和观影人次均超去年同期",
-      "onboard_time": 1715059278,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73769,
       "num": 73769,
       "word": "那英说张颂文唱歌很难评",
@@ -18204,7 +18308,7 @@
     },
     {
       "raw_hot": 19843,
-      "num": 171412,
+      "num": 196107,
       "word": "陶昕然邀甄学家们答题免单",
       "onboard_time": 1715059938,
       "rank": 43,

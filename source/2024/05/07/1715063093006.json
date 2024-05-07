@@ -1,0 +1,410 @@
+{
+  "runTime": 1715063093006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 886090,
+        "num": 886090,
+        "word": "蝴蝶停在新郎胸口那一刻心震了",
+        "onboard_time": 1715052258,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816458,
+        "num": 816458,
+        "word": "马龙无缘巴黎奥运会单打",
+        "onboard_time": 1715047939,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51489,
+        "num": 753690,
+        "word": "中法重量级高规格活动上的企业家",
+        "onboard_time": 1715054899,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1366650,
+        "num": 740463,
+        "word": "宁波一保时捷发生严重车祸",
+        "onboard_time": 1715058918,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702310,
+        "num": 702310,
+        "word": "店主介绍邓超是孙俪的老公",
+        "onboard_time": 1715060119,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580359,
+        "num": 580359,
+        "word": "歌手2024主持人阵容",
+        "onboard_time": 1715056521,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486112,
+        "num": 486112,
+        "word": "iPhone16ProMax或有这些变化",
+        "onboard_time": 1715055439,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 477373,
+        "num": 477373,
+        "word": "金价",
+        "onboard_time": 1715049258,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 455528,
+        "num": 455528,
+        "word": "曝iPhone17Pro迈入12GB内存时代",
+        "onboard_time": 1715057842,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151191,
+        "num": 451892,
+        "word": "五一档票房和观影人次均超去年同期",
+        "onboard_time": 1715059278,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711185,
+        "num": 450829,
+        "word": "百度副总裁5天涨粉百万账号系购买",
+        "onboard_time": 1715057120,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 681211,
+        "num": 443838,
+        "word": "马龙贴脸怒吼裁判",
+        "onboard_time": 1715058200,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 624364,
+        "num": 440578,
+        "word": "秦岚护照丢了",
+        "onboard_time": 1715060719,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439801,
+        "num": 439801,
+        "word": "东莞一00后干部拟任副局长",
+        "onboard_time": 1715061138,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420143,
+        "num": 420143,
+        "word": "Jennie和StrayKids合照",
+        "onboard_time": 1715059099,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 414775,
+        "num": 414775,
+        "word": "淘宝免单",
+        "onboard_time": 1715051238,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 363364,
+        "num": 363364,
+        "word": "女子租房2年多意外发现暗藏摄像头",
+        "onboard_time": 1715053640,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296703,
+        "num": 296703,
+        "word": "李楷灿 逃税",
+        "onboard_time": 1715047339,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295591,
+        "num": 295591,
+        "word": "杨迪 无痛医美",
+        "onboard_time": 1715060958,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282796,
+        "num": 282796,
+        "word": "我才不要和你做朋友呢海报",
+        "onboard_time": 1715050639,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 359537,
+        "num": 282508,
+        "word": "谢娜白色吊带",
+        "onboard_time": 1715058620,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283822,
+        "num": 280643,
+        "word": "北方的面包不给切片吗",
+        "onboard_time": 1715058382,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 278103,
+        "num": 278103,
+        "word": "越来越频繁的电影撤档伤害了谁",
+        "onboard_time": 1715050878,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265351,
+        "num": 265351,
+        "word": "郑容和朴信惠合照",
+        "onboard_time": 1715061198,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258979,
+        "num": 258979,
+        "word": "秦岚 人很难看到自己的影子",
+        "onboard_time": 1715061798,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215034,
+        "num": 215034,
+        "word": "迪丽热巴莫名其妙的综艺效果",
+        "onboard_time": 1715059759,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202394,
+        "num": 202394,
+        "word": "穆雷可能被禁赛",
+        "onboard_time": 1715058499,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198966,
+        "num": 198966,
+        "word": "歌手 杨丞琳",
+        "onboard_time": 1715054660,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196644,
+        "num": 196644,
+        "word": "淘宝重启网页版",
+        "onboard_time": 1715062038,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 19776,
+        "num": 196107,
+        "word": "陶昕然邀甄学家们答题免单",
+        "onboard_time": 1715059938,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195972,
+        "num": 195972,
+        "word": "朱丹看Lucky和妈妈对暗号哭了",
+        "onboard_time": 1715056041,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187594,
+        "num": 187594,
+        "word": "不可告人定档",
+        "onboard_time": 1715061919,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187082,
+        "num": 187082,
+        "word": "MetGala",
+        "onboard_time": 1715059879,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 181091,
+        "num": 181091,
+        "word": "保安看刘亦菲时的眼神",
+        "onboard_time": 1715049619,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177133,
+        "num": 177133,
+        "word": "肖战地广打卡",
+        "onboard_time": 1715062220,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 177617,
+        "num": 174155,
+        "word": "范丞丞 绝味鸭脖",
+        "onboard_time": 1715058740,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170848,
+        "num": 170848,
+        "word": "朱婷无缘中国女排世联赛首站",
+        "onboard_time": 1715055080,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161311,
+        "num": 161311,
+        "word": "小龙虾血是什么颜色的",
+        "onboard_time": 1715056941,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 159842,
+        "num": 159842,
+        "word": "1999年5月7日 中国人不忘记",
+        "onboard_time": 1715062879,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155318,
+        "num": 155318,
+        "word": "井柏然演技",
+        "onboard_time": 1715049857,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151888,
+        "num": 151888,
+        "word": "中国游客日本人均消费近30万日元",
+        "onboard_time": 1715048239,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 142899,
+        "num": 142899,
+        "word": "刘涛摸秦岚的背",
+        "onboard_time": 1715060240,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137051,
+        "num": 137051,
+        "word": "2024国考补录人数涨幅超20%",
+        "onboard_time": 1715055801,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136472,
+        "num": 136472,
+        "word": "华晨宇演唱会散场粉丝集体致谢消防员",
+        "onboard_time": 1715051900,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127791,
+        "num": 127791,
+        "word": "法国面包师烤出140米长法棍",
+        "onboard_time": 1715058382,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126695,
+        "num": 126695,
+        "word": "法国人第一次喝中国茶喝出夹子音",
+        "onboard_time": 1715052018,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124735,
+        "num": 124735,
+        "word": "黄昏 完美人夫",
+        "onboard_time": 1715062699,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 121829,
+        "num": 121829,
+        "word": "庆余年第一季名场面回顾",
+        "onboard_time": 1715062998,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117626,
+        "num": 117626,
+        "word": "买房五年没住手头五六十个车位被出租",
+        "onboard_time": 1715051779,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117068,
+        "num": 117068,
+        "word": "多名男演员拒演背着善宰跑",
+        "onboard_time": 1715041279,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首互赠奥运火炬#"
+    }
+  }
+}
