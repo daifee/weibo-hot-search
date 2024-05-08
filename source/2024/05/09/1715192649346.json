@@ -1,0 +1,410 @@
+{
+  "runTime": 1715192649346,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 322184,
+        "num": 322184,
+        "word": "第一批00后已经开始做家政了",
+        "onboard_time": 1715188394,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221705,
+        "num": 221705,
+        "word": "榴莲一斤跌破10元",
+        "onboard_time": 1715183899,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 12857,
+        "num": 159813,
+        "word": "150秒了解中塞铁杆友谊",
+        "onboard_time": 1715173159,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149840,
+        "num": 149840,
+        "word": "黄好厉害",
+        "onboard_time": 1715182640,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 140102,
+        "num": 140102,
+        "word": "第一批去日本扫货的人已经被税了",
+        "onboard_time": 1715170039,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112782,
+        "num": 112782,
+        "word": "白月光诺澜杀回来了",
+        "onboard_time": 1715174181,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104619,
+        "num": 104619,
+        "word": "学校拟统一购买600元防攀比鞋",
+        "onboard_time": 1715159720,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82764,
+        "num": 82764,
+        "word": "杨幂说再来一次会把关雪演的更好",
+        "onboard_time": 1715173398,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60954,
+        "num": 81936,
+        "word": "爱马适",
+        "onboard_time": 1715184498,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21188,
+        "num": 81398,
+        "word": "塞尔维亚老铁练太极超过十年",
+        "onboard_time": 1715184019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125910,
+        "num": 81325,
+        "word": "以色列威胁联合国",
+        "onboard_time": 1715179820,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 81231,
+        "num": 81231,
+        "word": "假球",
+        "onboard_time": 1715175681,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62801,
+        "num": 62801,
+        "word": "谁来救救张翰",
+        "onboard_time": 1715185998,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55352,
+        "num": 55352,
+        "word": "郑恺说苗苗化妆后孩子就不认识了",
+        "onboard_time": 1715153060,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55152,
+        "num": 55152,
+        "word": "樊振东2比3弗朗西斯卡",
+        "onboard_time": 1715172740,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53097,
+        "num": 53097,
+        "word": "张雨绮皮蛋项链",
+        "onboard_time": 1715186775,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50320,
+        "num": 50320,
+        "word": "辽粤决战现场失控",
+        "onboard_time": 1715180361,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47594,
+        "num": 47594,
+        "word": "新生",
+        "onboard_time": 1715172740,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46989,
+        "num": 46989,
+        "word": "中国游客被塞尔维亚司机夸得害羞又自豪",
+        "onboard_time": 1715180901,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40054,
+        "num": 40054,
+        "word": "张新成去清华了",
+        "onboard_time": 1715170039,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383982,
+        "num": 40037,
+        "word": "花少北恋爱",
+        "onboard_time": 1715180361,
+        "rank": 20,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 58775,
+        "num": 39373,
+        "word": "为什么建议减肥人群喝黑咖啡",
+        "onboard_time": 1715190072,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46990,
+        "num": 39113,
+        "word": "商场里试衣服一定要留点心",
+        "onboard_time": 1715173580,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169601,
+        "num": 38758,
+        "word": "花少北手机壳",
+        "onboard_time": 1715181080,
+        "rank": 23,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 45743,
+        "num": 38160,
+        "word": "有人倒放了iPad Pro的广告",
+        "onboard_time": 1715180540,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 38098,
+        "num": 38098,
+        "word": "淘宝免单",
+        "onboard_time": 1715174120,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36968,
+        "num": 36968,
+        "word": "陈少熙 狗叫之夜",
+        "onboard_time": 1715177541,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36013,
+        "num": 36013,
+        "word": "王鹤棣工作室出图了",
+        "onboard_time": 1715182579,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34841,
+        "num": 34841,
+        "word": "海底捞回应4人含玻璃渣吃火锅敲诈",
+        "onboard_time": 1715164580,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34150,
+        "num": 34150,
+        "word": "我的阿勒泰赛博吸氧剧",
+        "onboard_time": 1715173280,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91358,
+        "num": 34102,
+        "word": "元气森林就肖战海报事件致歉",
+        "onboard_time": 1715172560,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37501,
+        "num": 34032,
+        "word": "杨幂曾4个月拍了5部戏",
+        "onboard_time": 1715167159,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33959,
+        "num": 33959,
+        "word": "黎明回应",
+        "onboard_time": 1715167698,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33629,
+        "num": 33629,
+        "word": "优酷代言人",
+        "onboard_time": 1715170098,
+        "rank": 33,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 33419,
+        "num": 33419,
+        "word": "19岁女孩马桶上产子后将其杀害",
+        "onboard_time": 1715144124,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33122,
+        "num": 33122,
+        "word": "安宥真 舞台上尽情绽放的红玫瑰",
+        "onboard_time": 1715182640,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33122,
+        "num": 33122,
+        "word": "这4种菜被列入致癌名单",
+        "onboard_time": 1715191212,
+        "rank": 36,
+        "category": "科学科普,社会新闻"
+      },
+      {
+        "raw_hot": 31785,
+        "num": 31785,
+        "word": "欧豪听到有李一桐就来了",
+        "onboard_time": 1715180061,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28891,
+        "num": 31778,
+        "word": "内脏脂肪有多难减",
+        "onboard_time": 1715178501,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 27829,
+        "num": 31774,
+        "word": "体制内可以干的兼职",
+        "onboard_time": 1715175561,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27378,
+        "num": 31766,
+        "word": "SM开通淘宝旗舰店",
+        "onboard_time": 1715166319,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26431,
+        "num": 31754,
+        "word": "南京德基一男子坠亡警方正调查",
+        "onboard_time": 1715166199,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25777,
+        "num": 31746,
+        "word": "周琦离场",
+        "onboard_time": 1715176580,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25675,
+        "num": 31733,
+        "word": "赵丽颖杨幂 戛纳",
+        "onboard_time": 1715148500,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25356,
+        "num": 31725,
+        "word": "柯南新剧场版 cp党的天堂",
+        "onboard_time": 1715178080,
+        "rank": 44,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 23585,
+        "num": 31719,
+        "word": "宋茜演技",
+        "onboard_time": 1715173880,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22952,
+        "num": 31714,
+        "word": "被一只怀孕的流浪猫求助了",
+        "onboard_time": 1715180421,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22099,
+        "num": 31703,
+        "word": "刘宇宁傅菁演情侣",
+        "onboard_time": 1715177902,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21771,
+        "num": 31696,
+        "word": "河南说唱之神 工厂",
+        "onboard_time": 1715185817,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21371,
+        "num": 31683,
+        "word": "杨鸣采访",
+        "onboard_time": 1715177061,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同武契奇共见记者#"
+    }
+  }
+}
