@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715160859026,
+  "endTime": 1715163615216,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -64,6 +64,14 @@
       "word": "端午节假期不调休",
       "onboard_time": 1714873818,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2536073,
+      "num": 2536073,
+      "word": "学校拟统一购买600元防攀比鞋",
+      "onboard_time": 1715159720,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -427,19 +435,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1257779,
+      "num": 390434,
+      "word": "德基",
+      "onboard_time": 1715159660,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1251613,
       "num": 257593,
       "word": "19岁女孩马桶上产子后将其杀害",
       "onboard_time": 1715144124,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1249648,
-      "num": 1249648,
-      "word": "学校拟统一购买600元防攀比鞋",
-      "onboard_time": 1715159720,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -489,14 +497,6 @@
       "onboard_time": 1715148500,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1180759,
-      "num": 390434,
-      "word": "德基",
-      "onboard_time": 1715159660,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1179112,
@@ -1275,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 751171,
+      "num": 337305,
+      "word": "香飘飘直播间销售额暴跌",
+      "onboard_time": 1715161461,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 746271,
       "num": 702310,
       "word": "店主介绍邓超是孙俪的老公",
@@ -1801,6 +1809,14 @@
       "onboard_time": 1715063838,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 602536,
+      "num": 602536,
+      "word": "多次被罚后椰树去年狂卖50亿",
+      "onboard_time": 1715160321,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 599179,
@@ -2723,6 +2739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441027,
+      "num": 333124,
+      "word": "李惠利离开前经纪公司",
+      "onboard_time": 1715160261,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 440613,
       "num": 440613,
       "word": "杨迪 无痛医美",
@@ -2776,6 +2800,14 @@
       "word": "警方通报太原一男子发表辱华言论",
       "onboard_time": 1715093181,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429488,
+      "num": 329781,
+      "word": "女生被当街性骚扰后当场开打",
+      "onboard_time": 1715161400,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2889,6 +2921,14 @@
       "onboard_time": 1715001800,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 418571,
+      "num": 418571,
+      "word": "小米SU7新车刚开39公里出故障",
+      "onboard_time": 1715158520,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 416940,
@@ -3123,6 +3163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 391454,
+      "num": 327895,
+      "word": "香飘飘下架讽日杯套",
+      "onboard_time": 1715163199,
+      "rank": 15,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 389307,
       "num": 267592,
       "word": "刘亦菲37岁状态",
@@ -3217,14 +3265,6 @@
       "onboard_time": 1714954279,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 379602,
-      "num": 379602,
-      "word": "小米SU7新车刚开39公里出故障",
-      "onboard_time": 1715158520,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 375864,
@@ -3643,6 +3683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343668,
+      "num": 343668,
+      "word": "官方回应男子串串店门口被刺身亡",
+      "onboard_time": 1715162179,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343447,
       "num": 343447,
       "word": "云南镇雄一医院有人持刀行凶公安布控",
@@ -3801,6 +3849,14 @@
       "onboard_time": 1715045358,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 326085,
+      "num": 326085,
+      "word": "梁靖崑林高远男双止步8强",
+      "onboard_time": 1715161400,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 323481,
@@ -4233,6 +4289,14 @@
       "onboard_time": 1714821439,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 287787,
+      "num": 234841,
+      "word": "疾控在高烧老人家中找出近200只蜱虫",
+      "onboard_time": 1715160381,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287698,
@@ -4875,14 +4939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 249185,
-      "num": 249185,
-      "word": "多次被罚后椰树去年狂卖50亿",
-      "onboard_time": 1715160321,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249061,
       "num": 249061,
       "word": "谢娜43岁生日照",
@@ -4897,14 +4953,6 @@
       "onboard_time": 1715130680,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 248956,
-      "num": 248956,
-      "word": "李惠利离开前经纪公司",
-      "onboard_time": 1715160261,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 248723,
@@ -5499,6 +5547,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 218138,
+      "num": 218138,
+      "word": "塞尔维亚人把热情藏在酒里了",
+      "onboard_time": 1715161819,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 217905,
       "num": 217905,
       "word": "这6种异常表现或是恶性肿瘤上身了",
@@ -5529,6 +5585,14 @@
       "onboard_time": 1715154921,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216549,
+      "num": 216549,
+      "word": "喻言演唱会",
+      "onboard_time": 1715161520,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 216406,
@@ -5915,6 +5979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204647,
+      "num": 204647,
+      "word": "奶茶店的牛乳茶为啥不叫牛奶茶",
+      "onboard_time": 1715159839,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 204643,
       "num": 204643,
       "word": "MetGala mvp",
@@ -6065,6 +6137,14 @@
       "onboard_time": 1715007801,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201248,
+      "num": 201248,
+      "word": "椰树去年缴税近7个亿",
+      "onboard_time": 1715160980,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 201153,
@@ -6835,6 +6915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187513,
+      "num": 187513,
+      "word": "SM新女团第四季度将出道",
+      "onboard_time": 1715161761,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187432,
       "num": 187432,
       "word": "欧冠半决赛",
@@ -7219,6 +7307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179447,
+      "num": 179447,
+      "word": "张翰两句话得罪三个人",
+      "onboard_time": 1715163139,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179041,
       "num": 179041,
       "word": "喀拉峻草原花海美成了壁纸",
@@ -7257,6 +7353,14 @@
       "onboard_time": 1715054839,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 178170,
+      "num": 178170,
+      "word": "mlxg回应Doinb说容易红温",
+      "onboard_time": 1715160923,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 177972,
@@ -7603,6 +7707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171889,
+      "num": 171889,
+      "word": "金玟庭爸爸模仿方时赫发言",
+      "onboard_time": 1715160859,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171814,
       "num": 217956,
       "word": "从鹈鹕嘴里掏出被吞的鸭子同事",
@@ -7729,6 +7841,14 @@
       "onboard_time": 1714962558,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168757,
+      "num": 168757,
+      "word": "新生 杀猪盘",
+      "onboard_time": 1715162961,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 168653,
@@ -7875,6 +7995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165757,
+      "num": 162789,
+      "word": "井柏然提醒大家网恋奔现要谨慎",
+      "onboard_time": 1715160499,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165423,
       "num": 165423,
       "word": "男朋友在KTV练起了教资面试",
@@ -7889,6 +8017,14 @@
       "onboard_time": 1714841595,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164923,
+      "num": 164923,
+      "word": "酱园弄戛纳阵容",
+      "onboard_time": 1715161941,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 164913,
@@ -7993,14 +8129,6 @@
       "onboard_time": 1714891578,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 162789,
-      "num": 162789,
-      "word": "井柏然提醒大家网恋奔现要谨慎",
-      "onboard_time": 1715160499,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 162728,
@@ -8131,20 +8259,20 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 160685,
+      "num": 160685,
+      "word": "浙江专升本 能不能查",
+      "onboard_time": 1715160562,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 160582,
       "num": 160582,
       "word": "沈月高至霆孙宁再合作",
       "onboard_time": 1714970242,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160144,
-      "num": 160144,
-      "word": "浙江专升本 能不能查",
-      "onboard_time": 1715160562,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 159805,
@@ -8395,6 +8523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154133,
+      "num": 154133,
+      "word": "福建舰首航无标4K高清视频",
+      "onboard_time": 1715161642,
+      "rank": 42,
+      "category": "军事"
+    },
+    {
       "raw_hot": 154007,
       "num": 154007,
       "word": "世界微笑日",
@@ -8433,14 +8569,6 @@
       "onboard_time": 1714999219,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153479,
-      "num": 153479,
-      "word": "疾控在高烧老人家中找出近200只蜱虫",
-      "onboard_time": 1715160381,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153449,
@@ -8963,14 +9091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142016,
-      "num": 142016,
-      "word": "奶茶店的牛乳茶为啥不叫牛奶茶",
-      "onboard_time": 1715159839,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 141836,
       "num": 141836,
       "word": "胖东来确认帮扶郑州一家超市",
@@ -9180,7 +9300,7 @@
     },
     {
       "raw_hot": 134813,
-      "num": 199389,
+      "num": 201578,
       "word": "马斯克妈妈晒母亲节礼物",
       "onboard_time": 1715158402,
       "rank": 29,
@@ -9907,6 +10027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113093,
+      "num": 113093,
+      "word": "吕成林离开Hero",
+      "onboard_time": 1715161580,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112977,
       "num": 324000,
       "word": "妈妈是第一个挺你的人",
@@ -10625,6 +10753,14 @@
       "onboard_time": 1714927575,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 48711,
+      "num": 342012,
+      "word": "中国高铁技术如何改变塞尔维亚人的生活",
+      "onboard_time": 1715163080,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48588,
