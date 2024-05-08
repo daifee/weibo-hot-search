@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715207663728,
+  "endTime": 1715210367436,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -971,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 895304,
+      "num": 895304,
+      "word": "医保卡里的钱可以给亲人买药吗",
+      "onboard_time": 1715201710,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 889938,
       "num": 372477,
       "word": "存款十几万在小县城什么水平",
@@ -1636,7 +1644,7 @@
     },
     {
       "raw_hot": 696903,
-      "num": 425909,
+      "num": 476134,
       "word": "第一批去日本扫货的人已经被税了",
       "onboard_time": 1715170039,
       "rank": 21,
@@ -2224,6 +2232,14 @@
       "word": "男子用菜刀砍伤妻子辩称管教不犯法",
       "onboard_time": 1714995197,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 549421,
+      "num": 549421,
+      "word": "第一批00后已经开始做家政了",
+      "onboard_time": 1715188394,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -3105,14 +3121,6 @@
       "onboard_time": 1714871237,
       "rank": 15,
       "category": "美食"
-    },
-    {
-      "raw_hot": 425708,
-      "num": 425708,
-      "word": "医保卡里的钱可以给亲人买药吗",
-      "onboard_time": 1715201710,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 425646,
@@ -4235,14 +4243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 322184,
-      "num": 322184,
-      "word": "第一批00后已经开始做家政了",
-      "onboard_time": 1715188394,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322084,
       "num": 322084,
       "word": "魏大勋脚上的红绳被P掉了",
@@ -4521,6 +4521,14 @@
       "onboard_time": 1715175561,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 305126,
+      "num": 305126,
+      "word": "皇马2比1拜仁",
+      "onboard_time": 1715209695,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 304466,
@@ -5505,6 +5513,14 @@
       "onboard_time": 1714962798,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 245412,
+      "num": 195993,
+      "word": "郑恺说看儿子哭像在看动画片",
+      "onboard_time": 1715198290,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 244959,
@@ -6499,6 +6515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205767,
+      "num": 205767,
+      "word": "皇马",
+      "onboard_time": 1715209516,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205532,
       "num": 205532,
       "word": "男生五一帮父亲砍了1800斤柴",
@@ -7043,6 +7067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195784,
+      "num": 195784,
+      "word": "欧冠",
+      "onboard_time": 1715146281,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195581,
       "num": 190483,
       "word": "这3处长白头发要注意",
@@ -7289,6 +7321,14 @@
       "onboard_time": 1714980619,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192563,
+      "num": 98990,
+      "word": "水果店开了二十几年只卖香蕉",
+      "onboard_time": 1715202670,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192535,
@@ -8875,14 +8915,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 161052,
-      "num": 161052,
-      "word": "欧冠",
-      "onboard_time": 1715146281,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 160852,
       "num": 160852,
       "word": "李耕耘赵小童公主抱何浩楠赵一博",
@@ -9091,12 +9123,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 156282,
-      "num": 71338,
-      "word": "郑恺说看儿子哭像在看动画片",
-      "onboard_time": 1715198290,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 156346,
+      "num": 156346,
+      "word": "港娱有自己的继承者",
+      "onboard_time": 1715207592,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 156041,
@@ -9811,6 +9843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141546,
+      "num": 141546,
+      "word": "漫长的季节央视定档",
+      "onboard_time": 1715203991,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141508,
       "num": 141508,
       "word": "这下卓沅要更喜欢他的手了",
@@ -10179,6 +10219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131508,
+      "num": 98162,
+      "word": "为什么建议减肥人群喝黑咖啡",
+      "onboard_time": 1715190072,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 130965,
       "num": 130965,
       "word": "Twins巡演官宣14城",
@@ -10281,6 +10329,14 @@
       "onboard_time": 1715089819,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126932,
+      "num": 126932,
+      "word": "皇马晋级欧冠决赛",
+      "onboard_time": 1715209455,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 126613,
@@ -11011,14 +11067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 102833,
-      "num": 46925,
-      "word": "水果店开了二十几年只卖香蕉",
-      "onboard_time": 1715202670,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102723,
       "num": 126079,
       "word": "陈哲远娜扎cp感",
@@ -11131,6 +11179,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94148,
+      "num": 94148,
+      "word": "拜仁vs皇马",
+      "onboard_time": 1715209576,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93886,
+      "num": 93886,
+      "word": "这4种菜被列入致癌名单",
+      "onboard_time": 1715191212,
+      "rank": 36,
+      "category": "科学科普,社会新闻"
+    },
+    {
       "raw_hot": 93628,
       "num": 93628,
       "word": "TikTok告美联邦政府",
@@ -11209,6 +11273,22 @@
       "onboard_time": 1714835659,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89088,
+      "num": 89088,
+      "word": "晚上十点女寝楼下的流水线",
+      "onboard_time": 1715197331,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 87367,
+      "num": 87367,
+      "word": "5种食物是寄生虫重灾区",
+      "onboard_time": 1715210235,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 86411,
@@ -11323,6 +11403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76910,
+      "num": 76910,
+      "word": "欧冠联赛",
+      "onboard_time": 1715209635,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75584,
       "num": 75584,
       "word": "携手前行共担风雨共创未来",
@@ -11395,6 +11483,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 70988,
+      "num": 70988,
+      "word": "东部战区回应美导弹驱逐舰过台湾海峡",
+      "onboard_time": 1715210235,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 70980,
       "num": 364222,
       "word": "来一场古风国潮旅游",
@@ -11443,6 +11539,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 68676,
+      "num": 68676,
+      "word": "樊振东与波尔一起看欧冠",
+      "onboard_time": 1715209935,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67821,
       "num": 67821,
       "word": "张本美和19比17",
@@ -11483,14 +11587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65560,
-      "num": 46805,
-      "word": "为什么建议减肥人群喝黑咖啡",
-      "onboard_time": 1715190072,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 65407,
       "num": 142609,
       "word": "宋亚轩蝴蝶元素",
@@ -11505,6 +11601,14 @@
       "onboard_time": 1714914019,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 65292,
+      "num": 65292,
+      "word": "医保局回应医保卡的钱能不能给亲人买药",
+      "onboard_time": 1715202490,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65236,
@@ -11547,20 +11651,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59757,
+      "num": 59757,
+      "word": "杨紫请国色芳华吃承欢记定制雪糕",
+      "onboard_time": 1715203391,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58883,
       "num": 860461,
       "word": "国羽女队捧杯瞬间",
       "onboard_time": 1714895899,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58506,
-      "num": 46640,
-      "word": "医保局回应医保卡的钱能不能给亲人买药",
-      "onboard_time": 1715202490,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56495,
@@ -11643,28 +11747,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47155,
-      "num": 47155,
-      "word": "漫长的季节央视定档",
-      "onboard_time": 1715203991,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 47019,
       "num": 54447,
       "word": "中法元首夫妇观看法国民间舞蹈表演",
       "onboard_time": 1715101633,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 46627,
-      "num": 46627,
-      "word": "这4种菜被列入致癌名单",
-      "onboard_time": 1715191212,
-      "rank": 36,
-      "category": "科学科普,社会新闻"
     },
     {
       "raw_hot": 46263,
@@ -11747,12 +11835,12 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 40426,
-      "num": 40426,
-      "word": "晚上十点女寝楼下的流水线",
-      "onboard_time": 1715197331,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 40651,
+      "num": 307020,
+      "word": "塞尔维亚老铁练太极超过十年",
+      "onboard_time": 1715184019,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39244,
@@ -11795,14 +11883,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 34860,
-      "num": 307020,
-      "word": "塞尔维亚老铁练太极超过十年",
-      "onboard_time": 1715184019,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34426,
       "num": 34426,
       "word": "古天乐好帅",
@@ -11817,14 +11897,6 @@
       "onboard_time": 1715019132,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 32229,
-      "num": 32229,
-      "word": "杨紫请国色芳华吃承欢记定制雪糕",
-      "onboard_time": 1715203391,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 31105,
@@ -11899,6 +11971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23460,
+      "num": 553940,
+      "word": "150秒了解中塞铁杆友谊",
+      "onboard_time": 1715173159,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22967,
       "num": 45394,
       "word": "重生之我在爽文短剧里当演员",
@@ -11939,28 +12019,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18435,
-      "num": 29952,
-      "word": "港娱有自己的继承者",
-      "onboard_time": 1715207592,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 17451,
       "num": 17451,
       "word": "新款iPadPro搭载M4芯片",
       "onboard_time": 1715092881,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 15918,
-      "num": 320318,
-      "word": "150秒了解中塞铁杆友谊",
-      "onboard_time": 1715173159,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 15717,
