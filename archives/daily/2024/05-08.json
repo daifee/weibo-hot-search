@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715146525637,
+  "endTime": 1715149252513,
   "band_list": [
     {
       "raw_hot": 1818309,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1251613,
-      "num": 224650,
+      "num": 247811,
       "word": "19岁女孩马桶上产子后将其杀害",
       "onboard_time": 1715144124,
       "rank": 20,
@@ -57,6 +57,14 @@
       "onboard_time": 1715136079,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1091481,
+      "num": 242937,
+      "word": "关晓彤徐梓钧是同学",
+      "onboard_time": 1715148142,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1066412,
@@ -139,6 +147,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 783482,
+      "num": 598962,
+      "word": "泰国11名现前任警察绑架勒索5名中国游客",
+      "onboard_time": 1715145683,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 781939,
       "num": 781939,
       "word": "榴莲自由要实现了",
@@ -155,6 +171,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 772156,
+      "num": 308183,
+      "word": "男子以接放学为由多次强奸11岁侄女",
+      "onboard_time": 1715146281,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751947,
       "num": 461289,
       "word": "新款iPad价格",
@@ -169,6 +193,14 @@
       "onboard_time": 1715132840,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 723365,
+      "num": 306997,
+      "word": "赵丽颖杨幂 戛纳",
+      "onboard_time": 1715148500,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 705403,
@@ -201,6 +233,14 @@
       "onboard_time": 1715129121,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 660338,
+      "num": 234791,
+      "word": "每天0.5到3杯才是咖啡续命最佳剂量",
+      "onboard_time": 1715145324,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 643667,
@@ -241,6 +281,14 @@
       "onboard_time": 1715138781,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 579071,
+      "num": 579071,
+      "word": "杨蓉暂别大侦探",
+      "onboard_time": 1715147961,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 551386,
@@ -419,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 371906,
-      "num": 219500,
-      "word": "每天0.5到3杯才是咖啡续命最佳剂量",
-      "onboard_time": 1715145324,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 370722,
       "num": 370722,
       "word": "隐忍一天的宝宝终于爆发了",
@@ -459,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350966,
+      "num": 350966,
+      "word": "塞尔维亚人请客吃饭很山东",
+      "onboard_time": 1715147121,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 350447,
       "num": 350447,
       "word": "孟子义cue黄子韬是初代男团",
@@ -489,6 +537,14 @@
       "onboard_time": 1715140583,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 340688,
+      "num": 304376,
+      "word": "甄嬛传中太监名字都带海的原因",
+      "onboard_time": 1715147301,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 338084,
@@ -587,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303052,
+      "num": 303052,
+      "word": "秦岚 那你恢复挺好的",
+      "onboard_time": 1715148379,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301178,
       "num": 301178,
       "word": "iPhone 散热",
@@ -635,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283678,
+      "num": 283678,
+      "word": "陶昕然否认是单亲家庭",
+      "onboard_time": 1715147842,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282979,
       "num": 282979,
       "word": "A股",
@@ -643,20 +715,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 280628,
-      "num": 280628,
-      "word": "泰国11名现前任警察绑架勒索5名中国游客",
-      "onboard_time": 1715145683,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279462,
       "num": 279462,
       "word": "女子租房9个多月发现对面是墓地",
       "onboard_time": 1715097557,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279362,
+      "num": 309735,
+      "word": "Tims涨价",
+      "onboard_time": 1715142323,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 278359,
@@ -715,12 +787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251921,
-      "num": 251921,
-      "word": "Tims涨价",
-      "onboard_time": 1715142323,
-      "rank": 43,
-      "category": "美食"
+      "raw_hot": 249473,
+      "num": 249473,
+      "word": "张杰官宣重庆武汉巡演",
+      "onboard_time": 1715146582,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 249024,
@@ -771,14 +843,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 228492,
-      "num": 203090,
-      "word": "男子以接放学为由多次强奸11岁侄女",
-      "onboard_time": 1715146281,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224945,
       "num": 224945,
       "word": "加勒比共同体全部承认巴勒斯坦国",
@@ -793,6 +857,22 @@
       "onboard_time": 1715129183,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219527,
+      "num": 219527,
+      "word": "赵小棠下辈子想当妈妈的爸爸",
+      "onboard_time": 1715148020,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 219297,
+      "num": 219297,
+      "word": "940多岁古树一年产2000多斤荔枝",
+      "onboard_time": 1715148442,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217497,
@@ -939,6 +1019,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 195042,
+      "num": 195042,
+      "word": "何浩楠 比早八更难受的是早五捞鱼",
+      "onboard_time": 1715148620,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193760,
       "num": 193760,
       "word": "费可人设",
@@ -977,6 +1065,14 @@
       "onboard_time": 1715133982,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185538,
+      "num": 185538,
+      "word": "马伊琍演技",
+      "onboard_time": 1715148200,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 184271,
@@ -1019,12 +1115,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 179522,
+      "num": 179522,
+      "word": "香飘飘股价大跌",
+      "onboard_time": 1715149221,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 179041,
       "num": 179041,
       "word": "喀拉峻草原花海美成了壁纸",
       "onboard_time": 1715130502,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 178842,
+      "num": 178842,
+      "word": "一张妈妈看了会快乐的照片",
+      "onboard_time": 1715147481,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 175818,
@@ -1057,6 +1169,14 @@
       "onboard_time": 1715137940,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169432,
+      "num": 169432,
+      "word": "宋茜演现偶",
+      "onboard_time": 1715146762,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 169276,
@@ -1179,12 +1299,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 149871,
+      "num": 149871,
+      "word": "歌手2024全球发布会",
+      "onboard_time": 1715147420,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149788,
       "num": 149788,
       "word": "糖尿病就像将器官泡在糖水里",
       "onboard_time": 1715122815,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 149342,
+      "num": 149342,
+      "word": "明日方舟 博普",
+      "onboard_time": 1715148442,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 147501,
@@ -1225,6 +1361,14 @@
       "onboard_time": 1715144425,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 143099,
+      "num": 143099,
+      "word": "编制是另一种围城",
+      "onboard_time": 1715147481,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 143069,
@@ -1353,6 +1497,14 @@
       "onboard_time": 1715094381,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 123535,
+      "num": 123535,
+      "word": "英语一91分经验帖",
+      "onboard_time": 1715147001,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 122421,
@@ -1491,6 +1643,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 86163,
+      "num": 293484,
+      "word": "今年618从5月31日开始",
+      "onboard_time": 1715144663,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 82221,
       "num": 82221,
       "word": "姆巴佩赛后采访",
@@ -1569,14 +1729,6 @@
       "onboard_time": 1715124798,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62294,
-      "num": 253567,
-      "word": "今年618从5月31日开始",
-      "onboard_time": 1715144663,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 52093,

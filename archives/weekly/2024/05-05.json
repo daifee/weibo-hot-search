@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715146525637,
+  "endTime": 1715149252513,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 1251613,
-      "num": 224650,
+      "num": 247811,
       "word": "19岁女孩马桶上产子后将其杀害",
       "onboard_time": 1715144124,
       "rank": 20,
@@ -577,6 +577,14 @@
       "onboard_time": 1715088199,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1091481,
+      "num": 242937,
+      "word": "关晓彤徐梓钧是同学",
+      "onboard_time": 1715148142,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1088996,
@@ -1067,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 783482,
+      "num": 598962,
+      "word": "泰国11名现前任警察绑架勒索5名中国游客",
+      "onboard_time": 1715145683,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 782397,
       "num": 782397,
       "word": "梅大高速塌方中没有抵达家乡的打工者",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1714972699,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 772156,
+      "num": 308183,
+      "word": "男子以接放学为由多次强奸11岁侄女",
+      "onboard_time": 1715146281,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 771684,
@@ -1249,6 +1273,14 @@
       "onboard_time": 1714913599,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 723365,
+      "num": 306997,
+      "word": "赵丽颖杨幂 戛纳",
+      "onboard_time": 1715148500,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 712529,
@@ -1448,6 +1480,14 @@
       "word": "你那坨肉根本就不是副乳",
       "onboard_time": 1714833079,
       "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 660338,
+      "num": 234791,
+      "word": "每天0.5到3杯才是咖啡续命最佳剂量",
+      "onboard_time": 1715145324,
+      "rank": 47,
       "category": "健康医疗"
     },
     {
@@ -1737,6 +1777,14 @@
       "onboard_time": 1715138781,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 579071,
+      "num": 579071,
+      "word": "杨蓉暂别大侦探",
+      "onboard_time": 1715147961,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 576103,
@@ -3091,14 +3139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 371906,
-      "num": 219500,
-      "word": "每天0.5到3杯才是咖啡续命最佳剂量",
-      "onboard_time": 1715145324,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 370722,
       "num": 370722,
       "word": "隐忍一天的宝宝终于爆发了",
@@ -3315,6 +3355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350966,
+      "num": 350966,
+      "word": "塞尔维亚人请客吃饭很山东",
+      "onboard_time": 1715147121,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 350447,
       "num": 350447,
       "word": "孟子义cue黄子韬是初代男团",
@@ -3409,6 +3457,14 @@
       "onboard_time": 1715140583,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 340688,
+      "num": 304376,
+      "word": "甄嬛传中太监名字都带海的原因",
+      "onboard_time": 1715147301,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 339805,
@@ -3827,6 +3883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303052,
+      "num": 303052,
+      "word": "秦岚 那你恢复挺好的",
+      "onboard_time": 1715148379,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301279,
       "num": 301279,
       "word": "万能的淘宝",
@@ -4043,6 +4107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283678,
+      "num": 283678,
+      "word": "陶昕然否认是单亲家庭",
+      "onboard_time": 1715147842,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283119,
       "num": 283119,
       "word": "镇雄警方通报医院持刀伤人事件",
@@ -4083,14 +4155,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 280628,
-      "num": 280628,
-      "word": "泰国11名现前任警察绑架勒索5名中国游客",
-      "onboard_time": 1715145683,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280439,
       "num": 280439,
       "word": "沈腾马丽炫彩小卡",
@@ -4120,6 +4184,14 @@
       "word": "有一种惨叫广东荔枝不挂果",
       "onboard_time": 1715007080,
       "rank": 24,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 279362,
+      "num": 309735,
+      "word": "Tims涨价",
+      "onboard_time": 1715142323,
+      "rank": 43,
       "category": "美食"
     },
     {
@@ -4539,14 +4611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251921,
-      "num": 251921,
-      "word": "Tims涨价",
-      "onboard_time": 1715142323,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 251858,
       "num": 251858,
       "word": "宋慧乔颁奖",
@@ -4561,6 +4625,14 @@
       "onboard_time": 1715056099,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 249473,
+      "num": 249473,
+      "word": "张杰官宣重庆武汉巡演",
+      "onboard_time": 1715146582,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 249468,
@@ -4907,14 +4979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228492,
-      "num": 203090,
-      "word": "男子以接放学为由多次强奸11岁侄女",
-      "onboard_time": 1715146281,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228288,
       "num": 254989,
       "word": "原来香飘飘曾拒绝外资收购",
@@ -5113,6 +5177,22 @@
       "onboard_time": 1715129183,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219527,
+      "num": 219527,
+      "word": "赵小棠下辈子想当妈妈的爸爸",
+      "onboard_time": 1715148020,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 219297,
+      "num": 219297,
+      "word": "940多岁古树一年产2000多斤荔枝",
+      "onboard_time": 1715148442,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219274,
@@ -6011,6 +6091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195042,
+      "num": 195042,
+      "word": "何浩楠 比早八更难受的是早五捞鱼",
+      "onboard_time": 1715148620,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194840,
       "num": 194840,
       "word": "王楚钦3比0约内斯库",
@@ -6515,6 +6603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185538,
+      "num": 185538,
+      "word": "马伊琍演技",
+      "onboard_time": 1715148200,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185119,
       "num": 185119,
       "word": "田嘉瑞说杨幂程潇打游戏很厉害",
@@ -6755,6 +6851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179522,
+      "num": 179522,
+      "word": "香飘飘股价大跌",
+      "onboard_time": 1715149221,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 179477,
       "num": 179477,
       "word": "刘畊宏妻子和女儿为刘畊宏加油",
@@ -6777,6 +6881,14 @@
       "onboard_time": 1714885879,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178842,
+      "num": 178842,
+      "word": "一张妈妈看了会快乐的照片",
+      "onboard_time": 1715147481,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 178672,
@@ -7217,6 +7329,14 @@
       "onboard_time": 1714967239,
       "rank": 44,
       "category": "美食,科学科普"
+    },
+    {
+      "raw_hot": 169432,
+      "num": 169432,
+      "word": "宋茜演现偶",
+      "onboard_time": 1715146762,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 169276,
@@ -8019,6 +8139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 149871,
+      "num": 149871,
+      "word": "歌手2024全球发布会",
+      "onboard_time": 1715147420,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149859,
       "num": 149859,
       "word": "原来真有易容术",
@@ -8041,6 +8169,14 @@
       "onboard_time": 1715066359,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149342,
+      "num": 149342,
+      "word": "明日方舟 博普",
+      "onboard_time": 1715148442,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 149270,
@@ -8313,6 +8449,14 @@
       "onboard_time": 1714867815,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 143099,
+      "num": 143099,
+      "word": "编制是另一种围城",
+      "onboard_time": 1715147481,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 143069,
@@ -8913,6 +9057,14 @@
       "onboard_time": 1714917800,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123535,
+      "num": 123535,
+      "word": "英语一91分经验帖",
+      "onboard_time": 1715147001,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 123224,
@@ -9563,6 +9715,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 86163,
+      "num": 293484,
+      "word": "今年618从5月31日开始",
+      "onboard_time": 1715144663,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 83934,
       "num": 89615,
       "word": "蔡徐坤更博",
@@ -9825,14 +9985,6 @@
       "onboard_time": 1714951455,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62294,
-      "num": 253567,
-      "word": "今年618从5月31日开始",
-      "onboard_time": 1715144663,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 61740,
