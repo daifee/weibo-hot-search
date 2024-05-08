@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715200474569,
+  "endTime": 1715203131816,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -11507,6 +11507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 60978,
+      "num": 30398,
+      "word": "郑恺说看儿子哭像在看动画片",
+      "onboard_time": 1715198290,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60195,
       "num": 60195,
       "word": "开始期待端午了",
@@ -11772,7 +11780,7 @@
     },
     {
       "raw_hot": 31713,
-      "num": 22044,
+      "num": 22865,
       "word": "晚上十点女寝楼下的流水线",
       "onboard_time": 1715197331,
       "rank": 21,
@@ -11793,14 +11801,6 @@
       "onboard_time": 1714931592,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 29964,
-      "num": 29964,
-      "word": "郑恺说看儿子哭像在看动画片",
-      "onboard_time": 1715198290,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 29825,
@@ -11825,6 +11825,14 @@
       "onboard_time": 1714859111,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 28619,
+      "num": 28619,
+      "word": "医保卡里的钱可以给亲人买药吗",
+      "onboard_time": 1715201710,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27961,
@@ -11907,12 +11915,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 16901,
+      "num": 19851,
+      "word": "医保局回应医保卡的钱能不能给亲人买药",
+      "onboard_time": 1715202490,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15717,
       "num": 19363,
       "word": "狼队第五人格",
       "onboard_time": 1715195652,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 15166,
+      "num": 18665,
+      "word": "水果店开了二十几年只卖香蕉",
+      "onboard_time": 1715202670,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14087,
