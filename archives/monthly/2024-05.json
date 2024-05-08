@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715130198668,
+  "endTime": 1715130958631,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -1108,7 +1108,7 @@
     },
     {
       "raw_hot": 1104595,
-      "num": 524108,
+      "num": 638765,
       "word": "37岁从确诊肺癌到去世仅2周",
       "onboard_time": 1715092281,
       "rank": 33,
@@ -1537,6 +1537,14 @@
       "onboard_time": 1715053640,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 910093,
+      "num": 400843,
+      "word": "赵梓婷 张露文",
+      "onboard_time": 1715127559,
+      "rank": 12,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 908858,
@@ -2035,6 +2043,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 797895,
+      "num": 402949,
+      "word": "百度内部人士曝光公关全员做短视频内幕",
+      "onboard_time": 1715128099,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 797138,
       "num": 797138,
       "word": "元气森林音乐节取消",
@@ -2065,14 +2081,6 @@
       "onboard_time": 1714963879,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 783829,
-      "num": 402949,
-      "word": "百度内部人士曝光公关全员做短视频内幕",
-      "onboard_time": 1715128099,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 782397,
@@ -2555,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 685410,
+      "num": 685410,
+      "word": "眼泪女王没获奖的原因",
+      "onboard_time": 1715129121,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 683876,
       "num": 477026,
       "word": "网友晒299元买朱珠价值5千二手包",
@@ -2601,14 +2617,6 @@
       "onboard_time": 1714825459,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 680379,
-      "num": 400843,
-      "word": "赵梓婷 张露文",
-      "onboard_time": 1715127559,
-      "rank": 12,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 678210,
@@ -3089,14 +3097,6 @@
       "onboard_time": 1715043260,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 618700,
-      "num": 618700,
-      "word": "眼泪女王没获奖的原因",
-      "onboard_time": 1715129121,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 617210,
@@ -4019,6 +4019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 501573,
+      "num": 400097,
+      "word": "武契奇夫妇在机场热情迎接",
+      "onboard_time": 1715128099,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 501422,
       "num": 501422,
       "word": "河南大学明伦校区一建筑房顶着火",
@@ -4507,6 +4515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 459657,
+      "num": 281170,
+      "word": "有些水果不甜但巨长胖",
+      "onboard_time": 1715126780,
+      "rank": 21,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 459290,
       "num": 459290,
       "word": "叫花鸡里没有鸡涉事商家被查",
@@ -4705,14 +4721,6 @@
       "onboard_time": 1714703298,
       "rank": 39,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 445229,
-      "num": 400097,
-      "word": "武契奇夫妇在机场热情迎接",
-      "onboard_time": 1715128099,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 445074,
@@ -5619,14 +5627,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 388283,
-      "num": 275924,
-      "word": "有些水果不甜但巨长胖",
-      "onboard_time": 1715126780,
-      "rank": 21,
-      "category": "科学科普,健康医疗"
-    },
-    {
       "raw_hot": 388118,
       "num": 239813,
       "word": "是研究生就会懂这五分钟的含金量",
@@ -5681,6 +5681,14 @@
       "onboard_time": 1714792579,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386514,
+      "num": 386514,
+      "word": "酱园弄角色简介",
+      "onboard_time": 1715125698,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 386509,
@@ -6348,7 +6356,7 @@
     },
     {
       "raw_hot": 345390,
-      "num": 275858,
+      "num": 277450,
       "word": "马思纯蕾丝德训鞋",
       "onboard_time": 1715094561,
       "rank": 31,
@@ -6409,14 +6417,6 @@
       "onboard_time": 1714569618,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 341505,
-      "num": 341505,
-      "word": "酱园弄角色简介",
-      "onboard_time": 1715125698,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 339805,
@@ -6513,6 +6513,14 @@
       "onboard_time": 1715055080,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 333742,
+      "num": 301869,
+      "word": "半夜醒了一定别看时间",
+      "onboard_time": 1715128703,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 333662,
@@ -7131,6 +7139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 299926,
+      "num": 299926,
+      "word": "隐忍一天的宝宝终于爆发了",
+      "onboard_time": 1715129183,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299879,
       "num": 264723,
       "word": "纪凌尘 你别再演了",
@@ -7329,6 +7345,14 @@
       "onboard_time": 1714833501,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 287698,
+      "num": 287698,
+      "word": "张艺凡跳舞了",
+      "onboard_time": 1715129422,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 286257,
@@ -7603,14 +7627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278613,
-      "num": 278613,
-      "word": "半夜醒了一定别看时间",
-      "onboard_time": 1715128703,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 278589,
       "num": 278589,
       "word": "酱园弄片长",
@@ -7721,14 +7737,6 @@
       "onboard_time": 1714780456,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 272515,
-      "num": 272515,
-      "word": "隐忍一天的宝宝终于爆发了",
-      "onboard_time": 1715129183,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 272284,
@@ -7873,6 +7881,14 @@
       "onboard_time": 1714626678,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 267516,
+      "num": 267516,
+      "word": "张萱为男友整容",
+      "onboard_time": 1715130502,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 267113,
@@ -8363,6 +8379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249024,
+      "num": 249024,
+      "word": "文心一言如何看待百度副总裁事件",
+      "onboard_time": 1715130680,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 248939,
       "num": 248939,
       "word": "疑似情感纠纷女子带人冲进办公室殴打女员工",
@@ -8667,6 +8691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 239299,
+      "num": 239299,
+      "word": "iPad mini",
+      "onboard_time": 1715129662,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 239262,
       "num": 239262,
       "word": "世界首例自体再生胰岛移植成功",
@@ -8745,14 +8777,6 @@
       "onboard_time": 1714709297,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 237589,
-      "num": 237589,
-      "word": "张艺凡跳舞了",
-      "onboard_time": 1715129422,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 236898,
@@ -9267,14 +9291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223010,
-      "num": 223010,
-      "word": "iPad mini",
-      "onboard_time": 1715129662,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 222695,
       "num": 222695,
       "word": "欧文赛点的神",
@@ -9392,6 +9408,14 @@
       "word": "朴成训顶着这张帅脸在干什么",
       "onboard_time": 1714738640,
       "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219559,
+      "num": 219559,
+      "word": "肖战一人多角权谋向混剪",
+      "onboard_time": 1715129183,
+      "rank": 34,
       "category": "作品衍生"
     },
     {
@@ -9521,6 +9545,14 @@
       "onboard_time": 1714567819,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 217073,
+      "num": 217073,
+      "word": "有人打着罗翔的名义谈恋爱",
+      "onboard_time": 1715130263,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216946,
@@ -10009,6 +10041,14 @@
       "onboard_time": 1714564519,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208336,
+      "num": 208336,
+      "word": "为什么碗有了裂纹要尽快换掉",
+      "onboard_time": 1715129183,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 208234,
@@ -11051,6 +11091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196562,
+      "num": 196562,
+      "word": "第一次见这么干净的厨艺",
+      "onboard_time": 1715127861,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196529,
       "num": 196529,
       "word": "亚比囧囧囧",
@@ -11289,14 +11337,6 @@
       "onboard_time": 1715069119,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 194180,
-      "num": 194180,
-      "word": "肖战一人多角权谋向混剪",
-      "onboard_time": 1715129183,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 194081,
@@ -11947,6 +11987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186968,
+      "num": 405122,
+      "word": "法国人把法棍配方写进了法律",
+      "onboard_time": 1715130023,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186963,
       "num": 477010,
       "word": "尤伯杯中国队进决赛",
@@ -12521,6 +12569,14 @@
       "onboard_time": 1714745962,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179041,
+      "num": 179041,
+      "word": "喀拉峻草原花海美成了壁纸",
+      "onboard_time": 1715130502,
+      "rank": 37,
+      "category": "旅游"
     },
     {
       "raw_hot": 178991,
@@ -14099,14 +14155,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 160664,
-      "num": 160664,
-      "word": "为什么碗有了裂纹要尽快换掉",
-      "onboard_time": 1715129183,
-      "rank": 37,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 160634,
       "num": 160634,
       "word": "芍药这么美还是中药换谁不迷糊",
@@ -14713,6 +14761,14 @@
       "onboard_time": 1714469897,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152594,
+      "num": 152594,
+      "word": "工作群为什么越来越多",
+      "onboard_time": 1715130561,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 152493,
@@ -15851,14 +15907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139832,
-      "num": 139832,
-      "word": "第一次见这么干净的厨艺",
-      "onboard_time": 1715127861,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 139714,
       "num": 139714,
       "word": "严浩翔ScaryMovie练习室版",
@@ -16329,6 +16377,14 @@
       "onboard_time": 1714656380,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133983,
+      "num": 133983,
+      "word": "百想眼泪女王颗粒无收",
+      "onboard_time": 1715130861,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 133968,
@@ -17073,6 +17129,14 @@
       "onboard_time": 1715062699,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 124702,
+      "num": 124702,
+      "word": "这3处长白头发要注意",
+      "onboard_time": 1715130861,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 124470,
@@ -19331,14 +19395,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 72675,
-      "num": 405122,
-      "word": "法国人把法棍配方写进了法律",
-      "onboard_time": 1715130023,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71771,
       "num": 82636,
       "word": "TWICE回归预告",
@@ -20439,6 +20495,9 @@
     },
     {
       "word": "#习近平抵达塞尔维亚发表书面讲话#"
+    },
+    {
+      "word": "#中法元首举行小范围会晤#"
     }
   ]
 }
