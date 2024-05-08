@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715149252513,
+  "endTime": 1715150045318,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -963,6 +963,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1182644,
+      "num": 242937,
+      "word": "关晓彤徐梓钧是同学",
+      "onboard_time": 1715148142,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1181972,
+      "num": 306997,
+      "word": "赵丽颖杨幂 戛纳",
+      "onboard_time": 1715148500,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1179112,
       "num": 930233,
       "word": "五一 撤档",
@@ -1207,14 +1223,6 @@
       "num": 298386,
       "word": "金希澈韩庚合照",
       "onboard_time": 1714818320,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1091481,
-      "num": 242937,
-      "word": "关晓彤徐梓钧是同学",
-      "onboard_time": 1715148142,
       "rank": 21,
       "category": "艺人"
     },
@@ -1963,6 +1971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 829295,
+      "num": 598962,
+      "word": "泰国11名现前任警察绑架勒索5名中国游客",
+      "onboard_time": 1715145683,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 826906,
       "num": 745366,
       "word": "韩国教授为IVE国风争议发声",
@@ -2016,6 +2032,14 @@
       "word": "陕西一男子花62元买彩票中1.48亿元",
       "onboard_time": 1714829178,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 815920,
+      "num": 308183,
+      "word": "男子以接放学为由多次强奸11岁侄女",
+      "onboard_time": 1715146281,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2171,14 +2195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 783482,
-      "num": 598962,
-      "word": "泰国11名现前任警察绑架勒索5名中国游客",
-      "onboard_time": 1715145683,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 782397,
       "num": 782397,
       "word": "梅大高速塌方中没有抵达家乡的打工者",
@@ -2249,14 +2265,6 @@
       "onboard_time": 1714972699,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 772156,
-      "num": 308183,
-      "word": "男子以接放学为由多次强奸11岁侄女",
-      "onboard_time": 1715146281,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 771684,
@@ -2491,14 +2499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 723365,
-      "num": 306997,
-      "word": "赵丽颖杨幂 戛纳",
-      "onboard_time": 1715148500,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 712529,
       "num": 712529,
       "word": "六月份上班好划算",
@@ -2689,6 +2689,14 @@
       "onboard_time": 1714932133,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 688354,
+      "num": 234791,
+      "word": "每天0.5到3杯才是咖啡续命最佳剂量",
+      "onboard_time": 1715145324,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 687318,
@@ -2889,14 +2897,6 @@
       "onboard_time": 1714822098,
       "rank": 27,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 660338,
-      "num": 234791,
-      "word": "每天0.5到3杯才是咖啡续命最佳剂量",
-      "onboard_time": 1715145324,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 659292,
@@ -4723,6 +4723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 460186,
+      "num": 303052,
+      "word": "秦岚 那你恢复挺好的",
+      "onboard_time": 1715148379,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 459290,
       "num": 459290,
       "word": "叫花鸡里没有鸡涉事商家被查",
@@ -6475,6 +6483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 352262,
+      "num": 352262,
+      "word": "甄嬛传中太监名字都带海的原因",
+      "onboard_time": 1715147301,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 352099,
       "num": 352099,
       "word": "徐艺洋好了解黄子韬",
@@ -6537,6 +6553,14 @@
       "onboard_time": 1715134881,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 349275,
+      "num": 283678,
+      "word": "陶昕然否认是单亲家庭",
+      "onboard_time": 1715147842,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 348488,
@@ -6713,14 +6737,6 @@
       "onboard_time": 1714569618,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 340688,
-      "num": 304376,
-      "word": "甄嬛传中太监名字都带海的原因",
-      "onboard_time": 1715147301,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 339805,
@@ -7427,6 +7443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304050,
+      "num": 270156,
+      "word": "香飘飘股价大跌",
+      "onboard_time": 1715149221,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 304023,
       "num": 304023,
       "word": "汤唯金秀贤合影",
@@ -7443,12 +7467,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303052,
-      "num": 303052,
-      "word": "秦岚 那你恢复挺好的",
-      "onboard_time": 1715148379,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 301685,
+      "num": 225684,
+      "word": "男子自称龙人强奸诈骗多人被判无期",
+      "onboard_time": 1715149399,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301623,
@@ -7521,6 +7545,14 @@
       "onboard_time": 1714524856,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 299061,
+      "num": 299061,
+      "word": "黄觉井柏然 好嗑",
+      "onboard_time": 1715149341,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 298669,
@@ -7857,14 +7889,6 @@
       "onboard_time": 1715007981,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283678,
-      "num": 283678,
-      "word": "陶昕然否认是单亲家庭",
-      "onboard_time": 1715147842,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 283119,
@@ -8368,6 +8392,14 @@
       "word": "陶勇受伤后变得害怕黑暗",
       "onboard_time": 1715054420,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265375,
+      "num": 265375,
+      "word": "940多岁古树一年产2000多斤荔枝",
+      "onboard_time": 1715148442,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -9897,14 +9929,6 @@
       "onboard_time": 1715148020,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219297,
-      "num": 219297,
-      "word": "940多岁古树一年产2000多斤荔枝",
-      "onboard_time": 1715148442,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219274,
@@ -12995,6 +13019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181226,
+      "num": 181226,
+      "word": "我的阿勒泰 女导",
+      "onboard_time": 1715149162,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181037,
       "num": 181037,
       "word": "童瑶发量",
@@ -13145,14 +13177,6 @@
       "onboard_time": 1714886658,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179522,
-      "num": 179522,
-      "word": "香飘飘股价大跌",
-      "onboard_time": 1715149221,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 179477,
@@ -13801,6 +13825,14 @@
       "onboard_time": 1714573699,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 172553,
+      "num": 172553,
+      "word": "于适 金雕猎人",
+      "onboard_time": 1715149581,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 172515,
@@ -14737,6 +14769,14 @@
       "onboard_time": 1714620737,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 161841,
+      "num": 161841,
+      "word": "警惕身边的伥鬼NPD",
+      "onboard_time": 1715149581,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 161807,
@@ -17217,6 +17257,14 @@
       "onboard_time": 1714993340,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133642,
+      "num": 133642,
+      "word": "降体脂捷径是空腹燃脂走",
+      "onboard_time": 1715149699,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 133623,
