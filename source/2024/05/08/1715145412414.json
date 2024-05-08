@@ -1,0 +1,410 @@
+{
+  "runTime": 1715145412414,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1818309,
+        "num": 1818309,
+        "word": "专家建议让年轻人缴费为家乡父母养老",
+        "onboard_time": 1715141122,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727372,
+        "num": 727372,
+        "word": "榴莲自由要实现了",
+        "onboard_time": 1715141422,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 52712,
+        "num": 624662,
+        "word": "一座百年钢厂见证中塞铁杆友谊",
+        "onboard_time": 1715140040,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1034417,
+        "num": 624594,
+        "word": "椰树涉擦边广告被罚40万",
+        "onboard_time": 1715136979,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887283,
+        "num": 624360,
+        "word": "被妻子举报婚内出轨干部回应",
+        "onboard_time": 1715137701,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621009,
+        "num": 621009,
+        "word": "演唱会允许部分歌手闭麦让观众先唱",
+        "onboard_time": 1715140283,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 385884,
+        "num": 385884,
+        "word": "史上最薄iPad",
+        "onboard_time": 1715135959,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 385881,
+        "num": 385881,
+        "word": "杨幂酱园弄人设",
+        "onboard_time": 1715138360,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 291094,
+        "num": 291094,
+        "word": "广东300吨冻眠10个月荔枝解冻上市",
+        "onboard_time": 1715131699,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63253,
+        "num": 284434,
+        "word": "五一假期多项数据创新高",
+        "onboard_time": 1715139500,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872111,
+        "num": 281497,
+        "word": "淘宝 156",
+        "onboard_time": 1715142504,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 539377,
+        "num": 271015,
+        "word": "淘宝免单",
+        "onboard_time": 1715136079,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 356615,
+        "num": 261313,
+        "word": "李惠仁脚背骨折",
+        "onboard_time": 1715143464,
+        "rank": 12,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 261280,
+        "num": 261280,
+        "word": "美国撤销高通和英特尔对华为出口许可",
+        "onboard_time": 1715141843,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254045,
+        "num": 254045,
+        "word": "十个勤天吃饭都要整整齐齐",
+        "onboard_time": 1715143882,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249582,
+        "num": 249582,
+        "word": "孟子义cue黄子韬是初代男团",
+        "onboard_time": 1715140040,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239354,
+        "num": 239354,
+        "word": "柯南 小兰票选第一",
+        "onboard_time": 1715136500,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 230901,
+        "num": 230901,
+        "word": "庆余年范闲一家",
+        "onboard_time": 1715140942,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221538,
+        "num": 221538,
+        "word": "干部被妻子举报婚内出轨前妻",
+        "onboard_time": 1715144604,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220018,
+        "num": 220018,
+        "word": "沈星回 我的光猎大人",
+        "onboard_time": 1715140583,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1237159,
+        "num": 219453,
+        "word": "19岁女孩马桶上产子后将其杀害",
+        "onboard_time": 1715144124,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800993,
+        "num": 219194,
+        "word": "刘亦菲毕业论文答辩全班最高分",
+        "onboard_time": 1715142142,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 614331,
+        "num": 217850,
+        "word": "原来真有yue这个字",
+        "onboard_time": 1715138541,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 574548,
+        "num": 217332,
+        "word": "婚检后我被断崖式分手",
+        "onboard_time": 1715136261,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296656,
+        "num": 216045,
+        "word": "杨幂ip在美国",
+        "onboard_time": 1715138781,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271013,
+        "num": 215901,
+        "word": "儿子吸食上头电子烟父亲大义灭亲",
+        "onboard_time": 1715132840,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270269,
+        "num": 214994,
+        "word": "真的喜欢被夹子夹的感觉",
+        "onboard_time": 1715143464,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214371,
+        "num": 214371,
+        "word": "电动牙刷真比普通牙刷好用吗",
+        "onboard_time": 1715145324,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78364,
+        "num": 210955,
+        "word": "塞尔维亚首都多处点亮中国红",
+        "onboard_time": 1715136979,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81799,
+        "num": 210390,
+        "word": "发量自由是一种什么体验",
+        "onboard_time": 1715141724,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 49634,
+        "num": 210136,
+        "word": "今年618从5月31日开始",
+        "onboard_time": 1715144663,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 209965,
+        "num": 209965,
+        "word": "能叫醒十个勤天董事的已经不多了",
+        "onboard_time": 1715144726,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207907,
+        "num": 207907,
+        "word": "你并不需要读完本科立即读硕士",
+        "onboard_time": 1715140522,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206052,
+        "num": 206052,
+        "word": "苹果华为同日对决平板电脑",
+        "onboard_time": 1715144784,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 203175,
+        "num": 203175,
+        "word": "有些水果不甜但巨长胖",
+        "onboard_time": 1715126780,
+        "rank": 34,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 198241,
+        "num": 198241,
+        "word": "小龙虾很脏完全是误解",
+        "onboard_time": 1715131640,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197397,
+        "num": 197397,
+        "word": "这个宝宝一出生就15岁了",
+        "onboard_time": 1715087539,
+        "rank": 36,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 195429,
+        "num": 195429,
+        "word": "Tims涨价",
+        "onboard_time": 1715142323,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191277,
+        "num": 191277,
+        "word": "杨幂ELLE封面",
+        "onboard_time": 1715142683,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 184460,
+        "num": 184460,
+        "word": "A股",
+        "onboard_time": 1715141362,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176557,
+        "num": 176557,
+        "word": "酱园弄中的易烊千玺",
+        "onboard_time": 1715135900,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167454,
+        "num": 167454,
+        "word": "女子担心被扣费手抖输错密码躲过电诈",
+        "onboard_time": 1715139983,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165676,
+        "num": 165676,
+        "word": "星期三放假非常科学的理由",
+        "onboard_time": 1715134881,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160749,
+        "num": 160749,
+        "word": "金庸把最好的师傅都给了郭靖",
+        "onboard_time": 1715142744,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 155049,
+        "num": 155049,
+        "word": "隐忍一天的宝宝终于爆发了",
+        "onboard_time": 1715129183,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152159,
+        "num": 152159,
+        "word": "一种很新的上班头像",
+        "onboard_time": 1715142623,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151705,
+        "num": 151705,
+        "word": "华为新平板预置自研绘画软件",
+        "onboard_time": 1715143763,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145011,
+        "num": 145011,
+        "word": "每天0.5到3杯才是咖啡续命最佳剂量",
+        "onboard_time": 1715145324,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144030,
+        "num": 144030,
+        "word": "雷霆罚球",
+        "onboard_time": 1715143464,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143759,
+        "num": 143759,
+        "word": "知更鸟全民制作人",
+        "onboard_time": 1715144425,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席访问塞尔维亚#"
+    }
+  }
+}

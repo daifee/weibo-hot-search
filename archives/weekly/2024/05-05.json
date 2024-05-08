@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715142847123,
+  "endTime": 1715145412414,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -121,6 +121,14 @@
       "onboard_time": 1715047939,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1818309,
+      "num": 1818309,
+      "word": "专家建议让年轻人缴费为家乡父母养老",
+      "onboard_time": 1715141122,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1767440,
@@ -419,6 +427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1237159,
+      "num": 219453,
+      "word": "19岁女孩马桶上产子后将其杀害",
+      "onboard_time": 1715144124,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1234184,
       "num": 353918,
       "word": "开封王婆怒怼亳州王婆",
@@ -601,14 +617,6 @@
       "onboard_time": 1715125518,
       "rank": 0,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1064455,
-      "num": 1064455,
-      "word": "专家建议让年轻人缴费为家乡父母养老",
-      "onboard_time": 1715141122,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1064099,
@@ -867,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 872111,
+      "num": 323284,
+      "word": "淘宝 156",
+      "onboard_time": 1715142504,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 870592,
       "num": 870592,
       "word": "王曼昱止步大满贯32强",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1714890499,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 800993,
+      "num": 274402,
+      "word": "刘亦菲毕业论文答辩全班最高分",
+      "onboard_time": 1715142142,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 797895,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1715046679,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 727372,
+      "num": 727372,
+      "word": "榴莲自由要实现了",
+      "onboard_time": 1715141422,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 726790,
@@ -1721,14 +1753,6 @@
       "onboard_time": 1715041821,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 574249,
-      "num": 274402,
-      "word": "刘亦菲毕业论文答辩全班最高分",
-      "onboard_time": 1715142142,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 573550,
@@ -3211,14 +3235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 359263,
-      "num": 359263,
-      "word": "榴莲自由要实现了",
-      "onboard_time": 1715141422,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 358454,
       "num": 358454,
       "word": "StrayKids疑似被歧视",
@@ -3241,6 +3257,14 @@
       "onboard_time": 1714995377,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 356615,
+      "num": 261313,
+      "word": "李惠仁脚背骨折",
+      "onboard_time": 1715143464,
+      "rank": 12,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 356414,
@@ -3521,14 +3545,6 @@
       "onboard_time": 1715085079,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323284,
-      "num": 323284,
-      "word": "淘宝 156",
-      "onboard_time": 1715142504,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 322440,
@@ -4203,6 +4219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 270269,
+      "num": 214994,
+      "word": "真的喜欢被夹子夹的感觉",
+      "onboard_time": 1715143464,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269550,
       "num": 269550,
       "word": "价格大降榴莲自由要来了吗",
@@ -4363,6 +4387,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 261280,
+      "num": 261280,
+      "word": "美国撤销高通和英特尔对华为出口许可",
+      "onboard_time": 1715141843,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260456,
       "num": 260456,
       "word": "小龙虾每斤8元",
@@ -4441,6 +4473,14 @@
       "onboard_time": 1714949895,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254045,
+      "num": 254045,
+      "word": "十个勤天吃饭都要整整齐齐",
+      "onboard_time": 1715143882,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 253548,
@@ -4979,6 +5019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 221538,
+      "num": 221538,
+      "word": "干部被妻子举报婚内出轨前妻",
+      "onboard_time": 1715144604,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221532,
       "num": 221532,
       "word": "太阳爆发X级耀斑",
@@ -5187,6 +5235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214371,
+      "num": 214371,
+      "word": "电动牙刷真比普通牙刷好用吗",
+      "onboard_time": 1715145324,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213999,
       "num": 213999,
       "word": "癌症正在年轻化",
@@ -5307,6 +5363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209965,
+      "num": 209965,
+      "word": "能叫醒十个勤天董事的已经不多了",
+      "onboard_time": 1715144726,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209438,
       "num": 209438,
       "word": "庆余年第一季名场面回顾",
@@ -5401,6 +5465,14 @@
       "onboard_time": 1715055680,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206052,
+      "num": 206052,
+      "word": "苹果华为同日对决平板电脑",
+      "onboard_time": 1715144784,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 206027,
@@ -5513,14 +5585,6 @@
       "onboard_time": 1714970001,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202867,
-      "num": 202867,
-      "word": "美国撤销高通和英特尔对华为出口许可",
-      "onboard_time": 1715141843,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202862,
@@ -5891,6 +5955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195429,
+      "num": 195429,
+      "word": "Tims涨价",
+      "onboard_time": 1715142323,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 195094,
       "num": 209949,
       "word": "汤杯石宇奇横扫金廷",
@@ -6147,6 +6219,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 191277,
+      "num": 191277,
+      "word": "杨幂ELLE封面",
+      "onboard_time": 1715142683,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 191233,
       "num": 191233,
       "word": "庆余年2爹爹抢闲",
@@ -6193,14 +6273,6 @@
       "onboard_time": 1715046976,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190576,
-      "num": 190576,
-      "word": "杨幂ELLE封面",
-      "onboard_time": 1715142683,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 190216,
@@ -6851,14 +6923,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174740,
-      "num": 174740,
-      "word": "Tims涨价",
-      "onboard_time": 1715142323,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 174707,
       "num": 174707,
       "word": "俄乌局势新进展",
@@ -7475,6 +7539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160749,
+      "num": 160749,
+      "word": "金庸把最好的师傅都给了郭靖",
+      "onboard_time": 1715142744,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 160582,
       "num": 160582,
       "word": "沈月高至霆孙宁再合作",
@@ -7827,6 +7899,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 151705,
+      "num": 151705,
+      "word": "华为新平板预置自研绘画软件",
+      "onboard_time": 1715143763,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 151558,
       "num": 151558,
       "word": "马龙",
@@ -8107,6 +8187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145011,
+      "num": 145011,
+      "word": "每天0.5到3杯才是咖啡续命最佳剂量",
+      "onboard_time": 1715145324,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 144601,
       "num": 1185241,
       "word": "五一假期2575场大型活动顺利举办",
@@ -8129,6 +8217,22 @@
       "onboard_time": 1714954702,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144030,
+      "num": 144030,
+      "word": "雷霆罚球",
+      "onboard_time": 1715143464,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143759,
+      "num": 143759,
+      "word": "知更鸟全民制作人",
+      "onboard_time": 1715144425,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 143730,
@@ -9435,6 +9539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81799,
+      "num": 253686,
+      "word": "发量自由是一种什么体验",
+      "onboard_time": 1715141724,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 81386,
       "num": 75794,
       "word": "中法关系始终走在中国同西方国家关系前列",
@@ -9659,6 +9771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 63253,
+      "num": 284434,
+      "word": "五一假期多项数据创新高",
+      "onboard_time": 1715139500,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62742,
       "num": 62742,
       "word": "诺里斯F1生涯首冠",
@@ -9747,6 +9867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 49634,
+      "num": 210136,
+      "word": "今年618从5月31日开始",
+      "onboard_time": 1715144663,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 49174,
       "num": 49174,
       "word": "苏打绿巡演",
@@ -9825,14 +9953,6 @@
       "onboard_time": 1714858151,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42425,
-      "num": 253686,
-      "word": "发量自由是一种什么体验",
-      "onboard_time": 1715141724,
-      "rank": 39,
-      "category": "美妆"
     },
     {
       "raw_hot": 40940,
@@ -10140,6 +10260,9 @@
     },
     {
       "word": "#习近平对塞尔维亚进行国事访问#"
+    },
+    {
+      "word": "#习近平主席访问塞尔维亚#"
     }
   ]
 }
