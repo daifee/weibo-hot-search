@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715168076199,
+  "endTime": 1715171652896,
   "band_list": [
     {
       "raw_hot": 2536073,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1510002,
-      "num": 757778,
+      "num": 908845,
       "word": "南京德基广场一男子坠楼身亡",
       "onboard_time": 1715166199,
       "rank": 4,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1271229,
+      "num": 449686,
+      "word": "百度公关副总裁办公室抽打小人泄愤",
+      "onboard_time": 1715166199,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1261704,
       "num": 329075,
       "word": "香飘飘下架讽日杯套",
@@ -59,11 +67,27 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1257709,
+      "num": 1257709,
+      "word": "黎明回应",
+      "onboard_time": 1715167698,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1251613,
       "num": 275016,
       "word": "19岁女孩马桶上产子后将其杀害",
       "onboard_time": 1715144124,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1203159,
+      "num": 1203159,
+      "word": "海底捞回应4人含玻璃渣吃火锅敲诈",
+      "onboard_time": 1715164580,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -81,14 +105,6 @@
       "onboard_time": 1715148500,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1149271,
-      "num": 1149271,
-      "word": "海底捞回应4人含玻璃渣吃火锅敲诈",
-      "onboard_time": 1715164580,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1143072,
@@ -193,6 +209,14 @@
       "onboard_time": 1715142504,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 858275,
+      "num": 858275,
+      "word": "杨幂曾4个月拍了5部戏",
+      "onboard_time": 1715167159,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 829295,
@@ -355,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 675356,
-      "num": 449686,
-      "word": "百度公关副总裁办公室抽打小人泄愤",
-      "onboard_time": 1715166199,
-      "rank": 13,
-      "category": "互联网"
+      "raw_hot": 681672,
+      "num": 681672,
+      "word": "优酷代言人",
+      "onboard_time": 1715170098,
+      "rank": 6,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 643667,
@@ -409,6 +433,14 @@
       "onboard_time": 1715123657,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 586114,
+      "num": 586114,
+      "word": "张新成去清华了",
+      "onboard_time": 1715170039,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 579975,
@@ -464,14 +496,6 @@
       "word": "黄觉穿了肖战定制的衣服",
       "onboard_time": 1715166859,
       "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 529649,
-      "num": 529649,
-      "word": "杨幂曾4个月拍了5部戏",
-      "onboard_time": 1715167159,
-      "rank": 8,
       "category": "剧集"
     },
     {
@@ -627,6 +651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 425285,
+      "num": 213516,
+      "word": "王楚然笑容消失术",
+      "onboard_time": 1715169560,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422899,
       "num": 422899,
       "word": "华为发布会",
@@ -691,6 +723,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 402290,
+      "num": 213425,
+      "word": "第一批去日本扫货的人已经被税了",
+      "onboard_time": 1715170039,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388904,
       "num": 388904,
       "word": "费可 fake",
@@ -713,6 +753,14 @@
       "onboard_time": 1715131159,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 380263,
+      "num": 380263,
+      "word": "摩羯座都是情绪管理大师",
+      "onboard_time": 1715165959,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 375864,
@@ -955,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312926,
+      "num": 312926,
+      "word": "福宝",
+      "onboard_time": 1715170820,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310217,
       "num": 310217,
       "word": "王者明世隐新皮肤",
@@ -1019,6 +1075,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 296485,
+      "num": 296485,
+      "word": "陈梦3比0平野美宇",
+      "onboard_time": 1715169980,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292938,
       "num": 265541,
       "word": "你并不需要读完本科立即读硕士",
@@ -1073,6 +1137,14 @@
       "onboard_time": 1715141362,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 282656,
+      "num": 282656,
+      "word": "赵露思素颜近照",
+      "onboard_time": 1715169920,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 279462,
@@ -1187,12 +1259,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 245529,
-      "num": 157611,
-      "word": "黎明回应",
-      "onboard_time": 1715167698,
-      "rank": 30,
-      "category": "电竞"
+      "raw_hot": 246552,
+      "num": 246552,
+      "word": "邀请300名塞尔维亚青少年赴华学习",
+      "onboard_time": 1715169259,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 239299,
@@ -1235,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232711,
+      "num": 212084,
+      "word": "天行健",
+      "onboard_time": 1715170820,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232262,
       "num": 232262,
       "word": "李现酱园弄角色",
@@ -1249,6 +1329,14 @@
       "onboard_time": 1715149699,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 227934,
+      "num": 211663,
+      "word": "一问都不熟 一搜全有仇",
+      "onboard_time": 1715168779,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 224945,
@@ -1329,6 +1417,14 @@
       "onboard_time": 1715151440,
       "rank": 30,
       "category": "幽默,作品衍生"
+    },
+    {
+      "raw_hot": 211287,
+      "num": 211287,
+      "word": "CBA",
+      "onboard_time": 1715167759,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 211063,
@@ -1441,6 +1537,14 @@
       "onboard_time": 1715152579,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200551,
+      "num": 200551,
+      "word": "相关部门辟谣韩国飞往青岛飞机坠机",
+      "onboard_time": 1715171240,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199531,
@@ -1731,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170998,
+      "num": 156499,
+      "word": "新生里怎么老有人吐",
+      "onboard_time": 1715168959,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170448,
       "num": 170448,
       "word": "新款iPadPro仅1枚广角主摄",
@@ -1907,11 +2019,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 157937,
-      "num": 157937,
-      "word": "摩羯座都是情绪管理大师",
-      "onboard_time": 1715165959,
-      "rank": 32,
+      "raw_hot": 156857,
+      "num": 156857,
+      "word": "原来大家的生活都不尽如人意",
+      "onboard_time": 1715169859,
+      "rank": 34,
       "category": "情感"
     },
     {
@@ -1961,14 +2073,6 @@
       "onboard_time": 1715130561,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152366,
-      "num": 152366,
-      "word": "CBA",
-      "onboard_time": 1715167759,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 151824,
@@ -2139,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141265,
+      "num": 141265,
+      "word": "佐藤健说很喜欢中文外号砂糖",
+      "onboard_time": 1715167099,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140714,
       "num": 232801,
       "word": "1999年5月7日 中国人不忘记",
@@ -2283,14 +2395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126174,
-      "num": 126174,
-      "word": "佐藤健说很喜欢中文外号砂糖",
-      "onboard_time": 1715167099,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 126069,
       "num": 126069,
       "word": "南雅出狱气后妈这段看爽了",
@@ -2308,7 +2412,7 @@
     },
     {
       "raw_hot": 125186,
-      "num": 716859,
+      "num": 1030713,
       "word": "塞尔维亚在河流中建房子惊艳了",
       "onboard_time": 1715147541,
       "rank": 9,
@@ -2337,6 +2441,14 @@
       "onboard_time": 1715147001,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 122582,
+      "num": 122582,
+      "word": "这些水果堪比热量炸弹",
+      "onboard_time": 1715170460,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 122421,
@@ -2427,6 +2539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116512,
+      "num": 116512,
+      "word": "偷感很重的年轻人如何学会大大方方",
+      "onboard_time": 1715170520,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116058,
       "num": 116058,
       "word": "陶昕然妈妈年轻时撞脸虞书欣",
@@ -2475,6 +2595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109050,
+      "num": 109050,
+      "word": "赵露思发了卷发教程",
+      "onboard_time": 1715168599,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108341,
       "num": 108341,
       "word": "当i人妈妈有个e人宝宝",
@@ -2489,6 +2617,22 @@
       "onboard_time": 1715156899,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107618,
+      "num": 107618,
+      "word": "王楚钦3比1吉村真晴",
+      "onboard_time": 1715168480,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107568,
+      "num": 107568,
+      "word": "不同尺寸鲨鱼夹发型",
+      "onboard_time": 1715171540,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 106646,
@@ -2758,6 +2902,9 @@
     },
     {
       "word": "#习近平出席武契奇举行的欢迎仪式#"
+    },
+    {
+      "word": "#习近平同武契奇举行会谈#"
     }
   ]
 }

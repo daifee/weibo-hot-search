@@ -1,0 +1,410 @@
+{
+  "runTime": 1715171652896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1257709,
+        "num": 1257709,
+        "word": "黎明回应",
+        "onboard_time": 1715167698,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1203159,
+        "num": 1203159,
+        "word": "海底捞回应4人含玻璃渣吃火锅敲诈",
+        "onboard_time": 1715164580,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108912,
+        "num": 1030713,
+        "word": "塞尔维亚在河流中建房子惊艳了",
+        "onboard_time": 1715147541,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908845,
+        "num": 908845,
+        "word": "南京德基广场一男子坠楼身亡",
+        "onboard_time": 1715166199,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858275,
+        "num": 858275,
+        "word": "杨幂曾4个月拍了5部戏",
+        "onboard_time": 1715167159,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 796195,
+        "num": 796195,
+        "word": "学校拟统一购买600元防攀比鞋",
+        "onboard_time": 1715159720,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681672,
+        "num": 681672,
+        "word": "优酷代言人",
+        "onboard_time": 1715170098,
+        "rank": 6,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 586114,
+        "num": 586114,
+        "word": "张新成去清华了",
+        "onboard_time": 1715170039,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 524147,
+        "num": 524147,
+        "word": "郑恺说苗苗化妆后孩子就不认识了",
+        "onboard_time": 1715153060,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380263,
+        "num": 380263,
+        "word": "摩羯座都是情绪管理大师",
+        "onboard_time": 1715165959,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 507221,
+        "num": 377716,
+        "word": "SM开通淘宝旗舰店",
+        "onboard_time": 1715166319,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357308,
+        "num": 357308,
+        "word": "黄觉穿了肖战定制的衣服",
+        "onboard_time": 1715166859,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341011,
+        "num": 341011,
+        "word": "赵丽颖杨幂 戛纳",
+        "onboard_time": 1715148500,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 312926,
+        "num": 312926,
+        "word": "福宝",
+        "onboard_time": 1715170820,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307873,
+        "num": 307873,
+        "word": "女生被当街性骚扰后当场开打",
+        "onboard_time": 1715161400,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296485,
+        "num": 296485,
+        "word": "陈梦3比0平野美宇",
+        "onboard_time": 1715169980,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282656,
+        "num": 282656,
+        "word": "赵露思素颜近照",
+        "onboard_time": 1715169920,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246552,
+        "num": 246552,
+        "word": "邀请300名塞尔维亚青少年赴华学习",
+        "onboard_time": 1715169259,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218377,
+        "num": 218377,
+        "word": "王者明世隐新皮肤",
+        "onboard_time": 1715165180,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213896,
+        "num": 213896,
+        "word": "王楚钦vs吉村真晴",
+        "onboard_time": 1715167159,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425285,
+        "num": 213516,
+        "word": "王楚然笑容消失术",
+        "onboard_time": 1715169560,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402290,
+        "num": 213425,
+        "word": "第一批去日本扫货的人已经被税了",
+        "onboard_time": 1715170039,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289141,
+        "num": 212973,
+        "word": "19岁女孩马桶上产子后将其杀害",
+        "onboard_time": 1715144124,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264389,
+        "num": 212329,
+        "word": "宝鸡一男子串串店门口被刺身亡",
+        "onboard_time": 1715157320,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232711,
+        "num": 212084,
+        "word": "天行健",
+        "onboard_time": 1715170820,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227934,
+        "num": 211663,
+        "word": "一问都不熟 一搜全有仇",
+        "onboard_time": 1715168779,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211287,
+        "num": 211287,
+        "word": "CBA",
+        "onboard_time": 1715167759,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217963,
+        "num": 207528,
+        "word": "黄觉井柏然 好嗑",
+        "onboard_time": 1715149341,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200551,
+        "num": 200551,
+        "word": "相关部门辟谣韩国飞往青岛飞机坠机",
+        "onboard_time": 1715171240,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197349,
+        "num": 197349,
+        "word": "如懿传是因蔡少芬而写的",
+        "onboard_time": 1715156000,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1271229,
+        "num": 194035,
+        "word": "百度公关副总裁办公室抽打小人泄愤",
+        "onboard_time": 1715166199,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 185103,
+        "num": 185103,
+        "word": "疾控在高烧老人家中找出近200只蜱虫",
+        "onboard_time": 1715160381,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183365,
+        "num": 183365,
+        "word": "德基",
+        "onboard_time": 1715159660,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174106,
+        "num": 174106,
+        "word": "新生 杀猪盘",
+        "onboard_time": 1715162961,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156857,
+        "num": 156857,
+        "word": "原来大家的生活都不尽如人意",
+        "onboard_time": 1715169859,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170998,
+        "num": 156499,
+        "word": "新生里怎么老有人吐",
+        "onboard_time": 1715168959,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153070,
+        "num": 153070,
+        "word": "张翰两句话得罪三个人",
+        "onboard_time": 1715163139,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146233,
+        "num": 146233,
+        "word": "为什么很多近视的人都有散光",
+        "onboard_time": 1715154799,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144178,
+        "num": 144178,
+        "word": "当情侣其中一方失业意味着什么",
+        "onboard_time": 1715163621,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143462,
+        "num": 143462,
+        "word": "关晓彤徐梓钧是同学",
+        "onboard_time": 1715148142,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141265,
+        "num": 141265,
+        "word": "佐藤健说很喜欢中文外号砂糖",
+        "onboard_time": 1715167099,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134433,
+        "num": 134433,
+        "word": "女子被虫咬后从发病到死亡仅7天",
+        "onboard_time": 1715157503,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133048,
+        "num": 133048,
+        "word": "多次被罚后椰树去年狂卖50亿",
+        "onboard_time": 1715160321,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122582,
+        "num": 122582,
+        "word": "这些水果堪比热量炸弹",
+        "onboard_time": 1715170460,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121054,
+        "num": 121054,
+        "word": "塞尔维亚人把热情藏在酒里了",
+        "onboard_time": 1715161819,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116512,
+        "num": 116512,
+        "word": "偷感很重的年轻人如何学会大大方方",
+        "onboard_time": 1715170520,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115008,
+        "num": 115008,
+        "word": "小米晋升两位高管",
+        "onboard_time": 1715163621,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 109050,
+        "num": 109050,
+        "word": "赵露思发了卷发教程",
+        "onboard_time": 1715168599,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107618,
+        "num": 107618,
+        "word": "王楚钦3比1吉村真晴",
+        "onboard_time": 1715168480,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107568,
+        "num": 107568,
+        "word": "不同尺寸鲨鱼夹发型",
+        "onboard_time": 1715171540,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同武契奇举行会谈#"
+    }
+  }
+}
