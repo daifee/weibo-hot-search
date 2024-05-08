@@ -1,0 +1,410 @@
+{
+  "runTime": 1715172653362,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1563229,
+        "num": 1563229,
+        "word": "黎明回应",
+        "onboard_time": 1715167698,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1064815,
+        "num": 1064815,
+        "word": "海底捞回应4人含玻璃渣吃火锅敲诈",
+        "onboard_time": 1715164580,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107304,
+        "num": 908788,
+        "word": "塞尔维亚在河流中建房子惊艳了",
+        "onboard_time": 1715147541,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816117,
+        "num": 816117,
+        "word": "杨幂曾4个月拍了5部戏",
+        "onboard_time": 1715167159,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 769314,
+        "num": 769314,
+        "word": "优酷代言人",
+        "onboard_time": 1715170098,
+        "rank": 4,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 871812,
+        "num": 744203,
+        "word": "学校拟统一购买600元防攀比鞋",
+        "onboard_time": 1715159720,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696547,
+        "num": 696547,
+        "word": "福宝",
+        "onboard_time": 1715170820,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654413,
+        "num": 654413,
+        "word": "张新成去清华了",
+        "onboard_time": 1715170039,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 630914,
+        "num": 630914,
+        "word": "南京德基一男子坠亡警方正调查",
+        "onboard_time": 1715166199,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461398,
+        "num": 461398,
+        "word": "郑恺说苗苗化妆后孩子就不认识了",
+        "onboard_time": 1715153060,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447763,
+        "num": 447763,
+        "word": "第一次去见家长就分手了",
+        "onboard_time": 1715171660,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387988,
+        "num": 387988,
+        "word": "CBA",
+        "onboard_time": 1715167759,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385645,
+        "num": 385645,
+        "word": "SM开通淘宝旗舰店",
+        "onboard_time": 1715166319,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379480,
+        "num": 379480,
+        "word": "相关部门辟谣韩国飞往青岛飞机坠机",
+        "onboard_time": 1715171240,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349605,
+        "num": 349605,
+        "word": "摩羯座都是情绪管理大师",
+        "onboard_time": 1715165959,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330473,
+        "num": 330473,
+        "word": "赵丽颖杨幂 戛纳",
+        "onboard_time": 1715148500,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 302825,
+        "num": 302825,
+        "word": "黄觉穿了肖战定制的衣服",
+        "onboard_time": 1715166859,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292527,
+        "num": 292527,
+        "word": "赵露思素颜近照",
+        "onboard_time": 1715169920,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284263,
+        "num": 284263,
+        "word": "女生被当街性骚扰后当场开打",
+        "onboard_time": 1715161400,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235242,
+        "num": 235242,
+        "word": "陈梦3比0平野美宇",
+        "onboard_time": 1715169980,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 632680,
+        "num": 235048,
+        "word": "第一批去日本扫货的人已经被税了",
+        "onboard_time": 1715170039,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458679,
+        "num": 233929,
+        "word": "王楚然笑容消失术",
+        "onboard_time": 1715169560,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302808,
+        "num": 233302,
+        "word": "19岁女孩马桶上产子后将其杀害",
+        "onboard_time": 1715144124,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240868,
+        "num": 231737,
+        "word": "一问都不熟 一搜全有仇",
+        "onboard_time": 1715168779,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231422,
+        "num": 231422,
+        "word": "邀请300名塞尔维亚青少年赴华学习",
+        "onboard_time": 1715169259,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 235446,
+        "num": 226799,
+        "word": "宝鸡一男子串串店门口被刺身亡",
+        "onboard_time": 1715157320,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209163,
+        "num": 209163,
+        "word": "天行健",
+        "onboard_time": 1715170820,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197603,
+        "num": 197603,
+        "word": "黄觉井柏然 好嗑",
+        "onboard_time": 1715149341,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185205,
+        "num": 185205,
+        "word": "疾控在高烧老人家中找出近200只蜱虫",
+        "onboard_time": 1715160381,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178767,
+        "num": 178767,
+        "word": "王楚钦vs吉村真晴",
+        "onboard_time": 1715167159,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1120293,
+        "num": 178646,
+        "word": "百度公关副总裁办公室抽打小人泄愤",
+        "onboard_time": 1715166199,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171605,
+        "num": 171605,
+        "word": "焦俊艳我病了我装的",
+        "onboard_time": 1715172200,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166514,
+        "num": 166514,
+        "word": "王者明世隐新皮肤",
+        "onboard_time": 1715165180,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162158,
+        "num": 162158,
+        "word": "佐藤健说很喜欢中文外号砂糖",
+        "onboard_time": 1715167099,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161320,
+        "num": 161320,
+        "word": "05女大学生兼职化妆",
+        "onboard_time": 1715172141,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 155895,
+        "num": 155895,
+        "word": "原来大家的生活都不尽如人意",
+        "onboard_time": 1715169859,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148082,
+        "num": 148082,
+        "word": "新生 杀猪盘",
+        "onboard_time": 1715162961,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147193,
+        "num": 147193,
+        "word": "如懿传是因蔡少芬而写的",
+        "onboard_time": 1715156000,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140059,
+        "num": 140059,
+        "word": "塞尔维亚人把热情藏在酒里了",
+        "onboard_time": 1715161819,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139905,
+        "num": 139905,
+        "word": "新生里怎么老有人吐",
+        "onboard_time": 1715168959,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135728,
+        "num": 135728,
+        "word": "元气森林就肖战海报事件致歉",
+        "onboard_time": 1715172560,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130936,
+        "num": 130936,
+        "word": "当情侣其中一方失业意味着什么",
+        "onboard_time": 1715163621,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129530,
+        "num": 129530,
+        "word": "多次被罚后椰树去年狂卖50亿",
+        "onboard_time": 1715160321,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127382,
+        "num": 127382,
+        "word": "为什么很多近视的人都有散光",
+        "onboard_time": 1715154799,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121330,
+        "num": 121330,
+        "word": "偷感很重的年轻人如何学会大大方方",
+        "onboard_time": 1715170520,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105744,
+        "num": 119446,
+        "word": "这些水果堪比热量炸弹",
+        "onboard_time": 1715170460,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119327,
+        "num": 119327,
+        "word": "女子被虫咬后从发病到死亡仅7天",
+        "onboard_time": 1715157503,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118952,
+        "num": 118952,
+        "word": "不同尺寸鲨鱼夹发型",
+        "onboard_time": 1715171540,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 117213,
+        "num": 117213,
+        "word": "关晓彤徐梓钧是同学",
+        "onboard_time": 1715148142,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104886,
+        "num": 104886,
+        "word": "DRG对战TTG",
+        "onboard_time": 1715172500,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中塞关系更加美好的未来正在徐徐展现#"
+    }
+  }
+}
