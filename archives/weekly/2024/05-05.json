@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715138441288,
+  "endTime": 1715139260731,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -547,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1098115,
+      "num": 493885,
+      "word": "椰树涉擦边广告被罚40万",
+      "onboard_time": 1715136979,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1088996,
       "num": 1088996,
       "word": "节后上班第1天",
@@ -683,6 +691,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 956041,
+      "num": 255759,
+      "word": "婚检后我被断崖式分手",
+      "onboard_time": 1715136261,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 950056,
       "num": 950056,
       "word": "中国游客日本人均消费近30万日元",
@@ -744,14 +760,6 @@
       "word": "女子租房2年多意外发现暗藏摄像头",
       "onboard_time": 1715053640,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 911487,
-      "num": 463499,
-      "word": "椰树涉擦边广告被罚40万",
-      "onboard_time": 1715136979,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -833,14 +841,6 @@
       "onboard_time": 1714895419,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 873832,
-      "num": 234525,
-      "word": "婚检后我被断崖式分手",
-      "onboard_time": 1715136261,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 870592,
@@ -961,6 +961,14 @@
       "onboard_time": 1714883780,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 808446,
+      "num": 250196,
+      "word": "原来真有yue这个字",
+      "onboard_time": 1715138541,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 806397,
@@ -1132,7 +1140,7 @@
     },
     {
       "raw_hot": 742185,
-      "num": 230406,
+      "num": 249561,
       "word": "儿子吸食上头电子烟父亲大义灭亲",
       "onboard_time": 1715132840,
       "rank": 21,
@@ -1595,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 604841,
+      "num": 604841,
+      "word": "广东300吨冻眠10个月荔枝解冻上市",
+      "onboard_time": 1715131699,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 604625,
       "num": 604625,
       "word": "金价跌到5字头消费者不买了",
@@ -1625,14 +1641,6 @@
       "onboard_time": 1714969221,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 593160,
-      "num": 593160,
-      "word": "广东300吨冻眠10个月荔枝解冻上市",
-      "onboard_time": 1715131699,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 592629,
@@ -1697,6 +1705,14 @@
       "onboard_time": 1714877778,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 569385,
+      "num": 569385,
+      "word": "史上最薄iPad",
+      "onboard_time": 1715135959,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 567647,
@@ -2020,7 +2036,7 @@
     },
     {
       "raw_hot": 500194,
-      "num": 290349,
+      "num": 303365,
       "word": "动画还原云南镇雄医院持刀伤人事件",
       "onboard_time": 1715134640,
       "rank": 39,
@@ -2073,14 +2089,6 @@
       "onboard_time": 1715077339,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 488630,
-      "num": 488630,
-      "word": "史上最薄iPad",
-      "onboard_time": 1715135959,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 488089,
@@ -2155,6 +2163,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 478607,
+      "num": 478607,
+      "word": "酱园弄中的易烊千玺",
+      "onboard_time": 1715135900,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 478217,
       "num": 478217,
       "word": "电视剧高兴官宣",
@@ -2227,6 +2243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 470416,
+      "num": 379237,
+      "word": "杨幂酱园弄人设",
+      "onboard_time": 1715138360,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 468729,
       "num": 468729,
       "word": "疑理想汽车无人驾驶副驾坐着孩子",
@@ -2251,14 +2275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 462940,
-      "num": 462940,
-      "word": "酱园弄中的易烊千玺",
-      "onboard_time": 1715135900,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
       "raw_hot": 461487,
       "num": 398668,
       "word": "金钟大开通微博",
@@ -2280,6 +2296,14 @@
       "word": "叫花鸡里没有鸡涉事商家被查",
       "onboard_time": 1714957759,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458779,
+      "num": 327296,
+      "word": "被妻子举报婚内出轨干部回应",
+      "onboard_time": 1715137701,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2843,6 +2867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 391780,
+      "num": 243543,
+      "word": "杨幂ip在美国",
+      "onboard_time": 1715138781,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389307,
       "num": 267592,
       "word": "刘亦菲37岁状态",
@@ -3203,6 +3235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350068,
+      "num": 240196,
+      "word": "星期三放假非常科学的理由",
+      "onboard_time": 1715134881,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 348488,
       "num": 348488,
       "word": "恭候范闲归京",
@@ -3371,6 +3411,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 332229,
+      "num": 332229,
+      "word": "塞尔维亚首都多处点亮中国红",
+      "onboard_time": 1715136979,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 332126,
+      "num": 332126,
+      "word": "柯南 小兰票选第一",
+      "onboard_time": 1715136500,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 330219,
       "num": 256084,
       "word": "邓超 水瓶座",
@@ -3465,6 +3521,14 @@
       "onboard_time": 1715009059,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 317703,
+      "num": 236115,
+      "word": "24应届生工作现状",
+      "onboard_time": 1715138123,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 317050,
@@ -3619,6 +3683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 307032,
+      "num": 307032,
+      "word": "恋与深空",
+      "onboard_time": 1714964959,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307004,
       "num": 307004,
       "word": "王楚钦孙颖莎3比0德赛戈尔帕德",
@@ -3673,22 +3745,6 @@
       "onboard_time": 1715133621,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 300333,
-      "num": 181045,
-      "word": "被妻子举报婚内出轨干部回应",
-      "onboard_time": 1715137701,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299983,
-      "num": 299983,
-      "word": "柯南 小兰票选第一",
-      "onboard_time": 1715136500,
-      "rank": 8,
-      "category": "动漫"
     },
     {
       "raw_hot": 298489,
@@ -3835,14 +3891,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 284003,
-      "num": 297383,
-      "word": "塞尔维亚首都多处点亮中国红",
-      "onboard_time": 1715136979,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 283863,
       "num": 230450,
       "word": "李诗沣状态",
@@ -3971,6 +4019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278359,
+      "num": 278359,
+      "word": "于适演技",
+      "onboard_time": 1715136861,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278084,
       "num": 278084,
       "word": "爱德华兹吸粉",
@@ -4065,14 +4121,6 @@
       "onboard_time": 1715134340,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 270654,
-      "num": 270654,
-      "word": "于适演技",
-      "onboard_time": 1715136861,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 269550,
@@ -4297,14 +4345,6 @@
       "onboard_time": 1714965079,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 256168,
-      "num": 209059,
-      "word": "星期三放假非常科学的理由",
-      "onboard_time": 1715134881,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 254416,
@@ -5083,14 +5123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213288,
-      "num": 213288,
-      "word": "恋与深空",
-      "onboard_time": 1714964959,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 212688,
       "num": 212688,
       "word": "香港汇丰银行回应区别对待客户",
@@ -5635,20 +5667,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197495,
-      "num": 197495,
-      "word": "24应届生工作现状",
-      "onboard_time": 1715138123,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 197437,
       "num": 217946,
       "word": "吴彤李晨钟楚曦侯雯元自拍",
       "onboard_time": 1714837698,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197404,
+      "num": 197404,
+      "word": "阴阳师嘉年华免费70抽",
+      "onboard_time": 1715138541,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 197402,
@@ -6915,6 +6947,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 170031,
+      "num": 170031,
+      "word": "知更鸟不歪",
+      "onboard_time": 1715137940,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169989,
       "num": 169989,
       "word": "WTT沙特大满贯",
@@ -6929,6 +6969,14 @@
       "onboard_time": 1714967239,
       "rank": 44,
       "category": "美食,科学科普"
+    },
+    {
+      "raw_hot": 169276,
+      "num": 255541,
+      "word": "胡一天自驾出游vlog",
+      "onboard_time": 1715138241,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 169131,
@@ -7563,6 +7611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153370,
+      "num": 153370,
+      "word": "狼队经理 职场霸凌",
+      "onboard_time": 1715139082,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153155,
       "num": 153155,
       "word": "送给父母的养老别墅",
@@ -7899,14 +7955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145289,
-      "num": 145289,
-      "word": "知更鸟不歪",
-      "onboard_time": 1715137940,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 144601,
       "num": 1185241,
       "word": "五一假期2575场大型活动顺利举办",
@@ -8019,12 +8067,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142029,
-      "num": 142029,
-      "word": "杨幂酱园弄人设",
-      "onboard_time": 1715138360,
-      "rank": 41,
-      "category": "电影"
+      "raw_hot": 141836,
+      "num": 141836,
+      "word": "胖东来确认帮扶郑州一家超市",
+      "onboard_time": 1715134761,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141508,
@@ -8113,14 +8161,6 @@
       "onboard_time": 1714818320,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138588,
-      "num": 138588,
-      "word": "胖东来确认帮扶郑州一家超市",
-      "onboard_time": 1715134761,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138339,
@@ -9073,14 +9113,6 @@
       "onboard_time": 1715011336,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99069,
-      "num": 156903,
-      "word": "胡一天自驾出游vlog",
-      "onboard_time": 1715138241,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 98644,
