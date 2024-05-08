@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715172653362,
+  "endTime": 1715174493497,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -81,6 +81,14 @@
       "onboard_time": 1714999998,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2256786,
+      "num": 2256786,
+      "word": "樊振东2比3弗朗西斯卡",
+      "onboard_time": 1715172740,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2100742,
@@ -355,6 +363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1401033,
+      "num": 884000,
+      "word": "元气森林就肖战海报事件致歉",
+      "onboard_time": 1715172560,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1362993,
       "num": 1362993,
       "word": "曝iPhone17将推Slim机型",
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 1251613,
-      "num": 275016,
+      "num": 292364,
       "word": "19岁女孩马桶上产子后将其杀害",
       "onboard_time": 1715144124,
       "rank": 20,
@@ -1187,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 790520,
+      "num": 790520,
+      "word": "第一次去见家长就分手了",
+      "onboard_time": 1715171660,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 790458,
       "num": 483300,
       "word": "我iPad也要低人一等了",
@@ -1531,6 +1555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 696903,
+      "num": 397112,
+      "word": "第一批去日本扫货的人已经被税了",
+      "onboard_time": 1715170039,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 696547,
       "num": 696547,
       "word": "福宝",
@@ -1675,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 652114,
+      "num": 652114,
+      "word": "相关部门辟谣韩国飞往青岛飞机坠机",
+      "onboard_time": 1715171240,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 651482,
       "num": 316038,
       "word": "胃癌来敲门身体会发出5大警报",
@@ -1753,14 +1793,6 @@
       "onboard_time": 1714981040,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 632680,
-      "num": 235048,
-      "word": "第一批去日本扫货的人已经被税了",
-      "onboard_time": 1715170039,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 632183,
@@ -2097,6 +2129,14 @@
       "onboard_time": 1714995197,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548902,
+      "num": 548902,
+      "word": "明日方舟bug",
+      "onboard_time": 1715172978,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 546074,
@@ -2684,7 +2724,7 @@
     },
     {
       "raw_hot": 458679,
-      "num": 233929,
+      "num": 276916,
       "word": "王楚然笑容消失术",
       "onboard_time": 1715169560,
       "rank": 20,
@@ -2785,14 +2825,6 @@
       "onboard_time": 1714973239,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 447763,
-      "num": 447763,
-      "word": "第一次去见家长就分手了",
-      "onboard_time": 1715171660,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 447641,
@@ -3347,6 +3379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386687,
+      "num": 386687,
+      "word": "宋茜演技",
+      "onboard_time": 1715173880,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 386670,
       "num": 285690,
       "word": "李维嘉为谢娜庆生",
@@ -3409,14 +3449,6 @@
       "onboard_time": 1714954279,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 379480,
-      "num": 379480,
-      "word": "相关部门辟谣韩国飞往青岛飞机坠机",
-      "onboard_time": 1715171240,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 375864,
@@ -3697,6 +3729,14 @@
       "onboard_time": 1714871720,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 354619,
+      "num": 354619,
+      "word": "新生",
+      "onboard_time": 1715044159,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 352773,
@@ -4227,6 +4267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 312180,
+      "num": 312180,
+      "word": "焦俊艳我病了我装的",
+      "onboard_time": 1715172200,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311909,
       "num": 311909,
       "word": "Mayumi背叛了JackeyLove",
@@ -4467,12 +4515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289729,
+      "num": 277047,
+      "word": "杨幂说再来一次会把关雪演的更好",
+      "onboard_time": 1715173398,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289655,
       "num": 277698,
       "word": "田小江死在了漫长的季节里",
       "onboard_time": 1714914859,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 289176,
+      "num": 289176,
+      "word": "樊振东大满贯止步16强",
+      "onboard_time": 1715173820,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 289112,
@@ -4705,6 +4769,14 @@
       "onboard_time": 1714918101,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277093,
+      "num": 277093,
+      "word": "CBA裁判",
+      "onboard_time": 1715173280,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 276760,
@@ -5065,6 +5137,14 @@
       "onboard_time": 1715073319,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253288,
+      "num": 253288,
+      "word": "商场里试衣服一定要留点心",
+      "onboard_time": 1715173580,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 253140,
@@ -6035,6 +6115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210171,
+      "num": 210171,
+      "word": "辽宁男篮vs广东男篮",
+      "onboard_time": 1715173642,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209965,
       "num": 209965,
       "word": "能叫醒十个勤天董事的已经不多了",
@@ -6859,6 +6947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193367,
+      "num": 193367,
+      "word": "05女大学生兼职化妆",
+      "onboard_time": 1715172141,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 193337,
       "num": 193337,
       "word": "井柏然要杀入渣男赛道了",
@@ -6913,6 +7009,14 @@
       "onboard_time": 1715009299,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192861,
+      "num": 192861,
+      "word": "樊振东波尔为多特蒙德加油",
+      "onboard_time": 1715173520,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 192706,
@@ -7193,6 +7297,14 @@
       "onboard_time": 1714877477,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186922,
+      "num": 186922,
+      "word": "白月光诺澜杀回来了",
+      "onboard_time": 1715174181,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 186890,
@@ -7947,14 +8059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 171605,
-      "num": 171605,
-      "word": "焦俊艳我病了我装的",
-      "onboard_time": 1715172200,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171563,
       "num": 171563,
       "word": "男子殴打辅警涉嫌袭警被刑拘",
@@ -8441,14 +8545,6 @@
       "onboard_time": 1715048179,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 161320,
-      "num": 161320,
-      "word": "05女大学生兼职化妆",
-      "onboard_time": 1715172141,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 161270,
@@ -9499,14 +9595,6 @@
       "category": "旅游,财经"
     },
     {
-      "raw_hot": 137735,
-      "num": 137735,
-      "word": "新生",
-      "onboard_time": 1715044159,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137721,
       "num": 217929,
       "word": "孙俪说邓超恋家",
@@ -9545,14 +9633,6 @@
       "onboard_time": 1715037375,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135728,
-      "num": 135728,
-      "word": "元气森林就肖战海报事件致歉",
-      "onboard_time": 1715172560,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 135599,
@@ -10635,6 +10715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98810,
+      "num": 571522,
+      "word": "我的阿勒泰赛博吸氧剧",
+      "onboard_time": 1715173280,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98644,
       "num": 857021,
       "word": "巴黎欢迎人群敲锣打鼓舞龙舞狮",
@@ -10673,6 +10761,14 @@
       "onboard_time": 1714831581,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 97265,
+      "num": 906815,
+      "word": "塞尔维亚的中国桥",
+      "onboard_time": 1715173339,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95016,
@@ -11267,12 +11363,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 34451,
+      "num": 754924,
+      "word": "超5万公里的中国隧道发展有多快",
+      "onboard_time": 1715173159,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34426,
       "num": 34426,
       "word": "古天乐好帅",
       "onboard_time": 1714859170,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 32489,
+      "num": 701814,
+      "word": "多元化消费激活经济新动能",
+      "onboard_time": 1715173459,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32411,
@@ -11321,6 +11433,14 @@
       "onboard_time": 1714859111,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 28917,
+      "num": 425572,
+      "word": "来抄林允的美白作业",
+      "onboard_time": 1715173339,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 27961,
@@ -11555,6 +11675,9 @@
     },
     {
       "word": "#中塞关系更加美好的未来正在徐徐展现#"
+    },
+    {
+      "word": "#携手推进新时代中塞命运共同体建设#"
     }
   ]
 }
