@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715157319207,
+  "endTime": 1715159939416,
   "band_list": [
     {
       "raw_hot": 1818309,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1181972,
-      "num": 432850,
+      "num": 434186,
       "word": "赵丽颖杨幂 戛纳",
       "onboard_time": 1715148500,
       "rank": 11,
@@ -123,6 +123,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 880315,
+      "num": 491049,
+      "word": "宝鸡一男子串串店门口被刺身亡",
+      "onboard_time": 1715157320,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 878111,
       "num": 878111,
       "word": "史上最薄iPad",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 815920,
-      "num": 403506,
+      "num": 421026,
       "word": "男子以接放学为由多次强奸11岁侄女",
       "onboard_time": 1715146281,
       "rank": 30,
@@ -209,6 +217,22 @@
       "onboard_time": 1715109252,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 764526,
+      "num": 764526,
+      "word": "为什么很多近视的人都有散光",
+      "onboard_time": 1715154799,
+      "rank": 7,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 752376,
+      "num": 658225,
+      "word": "婚后仅见面两次女方拒不退还25万彩礼",
+      "onboard_time": 1715154259,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 751947,
@@ -283,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 658225,
-      "num": 658225,
-      "word": "婚后仅见面两次女方拒不退还25万彩礼",
-      "onboard_time": 1715154259,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 643667,
       "num": 638765,
       "word": "37岁从确诊肺癌到去世仅2周",
@@ -337,14 +353,6 @@
       "onboard_time": 1715147961,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 569171,
-      "num": 569171,
-      "word": "为什么很多近视的人都有散光",
-      "onboard_time": 1715154799,
-      "rank": 7,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 551386,
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484935,
+      "num": 484935,
+      "word": "戛纳 阵容",
+      "onboard_time": 1715157741,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 480798,
       "num": 281170,
       "word": "有些水果不甜但巨长胖",
@@ -441,6 +457,14 @@
       "onboard_time": 1715088020,
       "rank": 17,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 466390,
+      "num": 466390,
+      "word": "王楚钦孙颖莎3比0张本智和早田希娜",
+      "onboard_time": 1715157503,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 460186,
@@ -537,6 +561,14 @@
       "onboard_time": 1715136500,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 388904,
+      "num": 388904,
+      "word": "费可 fake",
+      "onboard_time": 1715157799,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 386514,
@@ -667,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 344426,
+      "num": 344426,
+      "word": "小米SU7新车刚开39公里出故障",
+      "onboard_time": 1715158520,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 342026,
       "num": 342026,
       "word": "沈星回 我的光猎大人",
@@ -739,6 +779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 316905,
+      "num": 207145,
+      "word": "GUCCI品牌大使宋威龙",
+      "onboard_time": 1715158641,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 314002,
       "num": 314002,
       "word": "美国撤销高通和英特尔对华为出口许可",
@@ -803,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 295001,
+      "num": 295001,
+      "word": "德基",
+      "onboard_time": 1715159660,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292938,
       "num": 265541,
       "word": "你并不需要读完本科立即读硕士",
@@ -835,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283561,
+      "num": 283561,
+      "word": "盗墓笔记 四美",
+      "onboard_time": 1715157380,
+      "rank": 17,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 282979,
       "num": 282979,
       "word": "A股",
@@ -864,6 +928,14 @@
       "word": "于适演技",
       "onboard_time": 1715136861,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 272925,
+      "num": 207032,
+      "word": "全家的关系比乱葬岗还乱",
+      "onboard_time": 1715157680,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -899,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262383,
+      "num": 206874,
+      "word": "女子被虫咬后从发病到死亡仅7天",
+      "onboard_time": 1715157503,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254045,
       "num": 254045,
       "word": "十个勤天吃饭都要整整齐齐",
@@ -921,6 +1001,14 @@
       "onboard_time": 1715092340,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250891,
+      "num": 207853,
+      "word": "璩静",
+      "onboard_time": 1715159180,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 249473,
@@ -1155,12 +1243,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199851,
+      "num": 199851,
+      "word": "学校拟统一购买600元防攀比鞋",
+      "onboard_time": 1715159720,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199531,
       "num": 199531,
       "word": "王一博赛道赛车",
       "onboard_time": 1715151740,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199295,
+      "num": 199295,
+      "word": "德国人煮花菜煮一整颗",
+      "onboard_time": 1715158041,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 198588,
@@ -1547,6 +1651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151824,
+      "num": 151824,
+      "word": "近距离航拍福建舰有多帅",
+      "onboard_time": 1715158580,
+      "rank": 39,
+      "category": "军事"
+    },
+    {
       "raw_hot": 151705,
       "num": 151705,
       "word": "华为新平板预置自研绘画软件",
@@ -1691,6 +1803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140209,
+      "num": 140209,
+      "word": "朴灿烈将solo出道",
+      "onboard_time": 1715159480,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137581,
       "num": 137581,
       "word": "女厕需要更多的坑位",
@@ -1721,6 +1841,14 @@
       "onboard_time": 1715133262,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134813,
+      "num": 199389,
+      "word": "马斯克妈妈晒母亲节礼物",
+      "onboard_time": 1715158402,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 134624,
@@ -1761,6 +1889,14 @@
       "onboard_time": 1715156600,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130780,
+      "num": 130780,
+      "word": "王楚钦孙颖莎进大满贯决赛",
+      "onboard_time": 1715157560,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 126500,
@@ -1809,6 +1945,14 @@
       "onboard_time": 1715147541,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124804,
+      "num": 124804,
+      "word": "奶茶店的牛乳茶为啥不叫牛奶茶",
+      "onboard_time": 1715159839,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 123928,
@@ -1891,6 +2035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117676,
+      "num": 117676,
+      "word": "蔡依林南昌",
+      "onboard_time": 1715157920,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 116058,
       "num": 116058,
       "word": "陶昕然妈妈年轻时撞脸虞书欣",
@@ -1928,6 +2080,14 @@
       "word": "警方再通报镇雄恶性伤人事件",
       "onboard_time": 1715089159,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107932,
+      "num": 658786,
+      "word": "塞尔维亚小女孩展示中国功夫",
+      "onboard_time": 1715156899,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2107,11 +2267,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33495,
-      "num": 658786,
-      "word": "塞尔维亚小女孩展示中国功夫",
+      "raw_hot": 29825,
+      "num": 454347,
+      "word": "2024年中国品牌日",
       "onboard_time": 1715156899,
-      "rank": 2,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2121,14 +2281,6 @@
       "onboard_time": 1715116390,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28393,
-      "num": 454347,
-      "word": "2024年中国品牌日",
-      "onboard_time": 1715156899,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26436,

@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715157319207,
+  "endTime": 1715159939416,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 1181972,
-      "num": 432850,
+      "num": 434186,
       "word": "赵丽颖杨幂 戛纳",
       "onboard_time": 1715148500,
       "rank": 11,
@@ -875,6 +875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 880315,
+      "num": 491049,
+      "word": "宝鸡一男子串串店门口被刺身亡",
+      "onboard_time": 1715157320,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 880275,
       "num": 447590,
       "word": "小伙恋爱1年转账60万女友竟是好兄弟",
@@ -1020,7 +1028,7 @@
     },
     {
       "raw_hot": 815920,
-      "num": 403506,
+      "num": 421026,
       "word": "男子以接放学为由多次强奸11岁侄女",
       "onboard_time": 1715146281,
       "rank": 30,
@@ -1179,6 +1187,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 764526,
+      "num": 764526,
+      "word": "为什么很多近视的人都有散光",
+      "onboard_time": 1715154799,
+      "rank": 7,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 761384,
       "num": 761384,
       "word": "关雪 晴川",
@@ -1216,6 +1232,14 @@
       "word": "日本商店否认出售香飘飘讽日杯套奶茶",
       "onboard_time": 1715002879,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 752376,
+      "num": 658225,
+      "word": "婚后仅见面两次女方拒不退还25万彩礼",
+      "onboard_time": 1715154259,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1537,14 +1561,6 @@
       "onboard_time": 1715069720,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 658225,
-      "num": 658225,
-      "word": "婚后仅见面两次女方拒不退还25万彩礼",
-      "onboard_time": 1715154259,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 654897,
@@ -1873,14 +1889,6 @@
       "onboard_time": 1714877778,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 569171,
-      "num": 569171,
-      "word": "为什么很多近视的人都有散光",
-      "onboard_time": 1715154799,
-      "rank": 7,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 567647,
@@ -2331,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484935,
+      "num": 484935,
+      "word": "戛纳 阵容",
+      "onboard_time": 1715157741,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 481754,
       "num": 481754,
       "word": "眼泪女王未公开kiss场面",
@@ -2465,6 +2481,14 @@
       "onboard_time": 1715081658,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 466390,
+      "num": 466390,
+      "word": "王楚钦孙颖莎3比0张本智和早田希娜",
+      "onboard_time": 1715157503,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 465152,
@@ -3091,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388904,
+      "num": 388904,
+      "word": "费可 fake",
+      "onboard_time": 1715157799,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387797,
       "num": 256422,
       "word": "张一山也是紫米",
@@ -3579,6 +3611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 344426,
+      "num": 344426,
+      "word": "小米SU7新车刚开39公里出故障",
+      "onboard_time": 1715158520,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 343447,
       "num": 343447,
       "word": "云南镇雄一医院有人持刀行凶公安布控",
@@ -3817,6 +3857,14 @@
       "onboard_time": 1714872979,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 316905,
+      "num": 207145,
+      "word": "GUCCI品牌大使宋威龙",
+      "onboard_time": 1715158641,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 316466,
@@ -4115,6 +4163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295001,
+      "num": 295001,
+      "word": "德基",
+      "onboard_time": 1715159660,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294853,
       "num": 294853,
       "word": "春色寄情人 优点大于缺点",
@@ -4241,6 +4297,14 @@
       "onboard_time": 1715007981,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283561,
+      "num": 283561,
+      "word": "盗墓笔记 四美",
+      "onboard_time": 1715157380,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 283119,
@@ -4401,6 +4465,14 @@
       "onboard_time": 1714984640,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272925,
+      "num": 207032,
+      "word": "全家的关系比乱葬岗还乱",
+      "onboard_time": 1715157680,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 272226,
@@ -4611,6 +4683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262383,
+      "num": 206874,
+      "word": "女子被虫咬后从发病到死亡仅7天",
+      "onboard_time": 1715157503,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261338,
       "num": 261338,
       "word": "突然发现P人真是不缺松弛感",
@@ -4753,6 +4833,14 @@
       "onboard_time": 1715086759,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250891,
+      "num": 207853,
+      "word": "璩静",
+      "onboard_time": 1715159180,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 250386,
@@ -6027,6 +6115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199851,
+      "num": 199851,
+      "word": "学校拟统一购买600元防攀比鞋",
+      "onboard_time": 1715159720,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199727,
       "num": 199727,
       "word": "黄景瑜读梦女评论",
@@ -6049,6 +6145,14 @@
       "onboard_time": 1715151740,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199295,
+      "num": 199295,
+      "word": "德国人煮花菜煮一整颗",
+      "onboard_time": 1715158041,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 199258,
@@ -8331,6 +8435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151824,
+      "num": 151824,
+      "word": "近距离航拍福建舰有多帅",
+      "onboard_time": 1715158580,
+      "rank": 39,
+      "category": "军事"
+    },
+    {
       "raw_hot": 151727,
       "num": 151727,
       "word": "苹果发布会直播",
@@ -8827,6 +8939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140209,
+      "num": 140209,
+      "word": "朴灿烈将solo出道",
+      "onboard_time": 1715159480,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140188,
       "num": 132807,
       "word": "张杰杭州",
@@ -8987,6 +9107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134813,
+      "num": 199389,
+      "word": "马斯克妈妈晒母亲节礼物",
+      "onboard_time": 1715158402,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 134624,
       "num": 134624,
       "word": "守护花蕾计划称张露文未参与项目管理",
@@ -9137,6 +9265,14 @@
       "onboard_time": 1714880179,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130780,
+      "num": 130780,
+      "word": "王楚钦孙颖莎进大满贯决赛",
+      "onboard_time": 1715157560,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 130204,
@@ -9305,6 +9441,14 @@
       "onboard_time": 1714894940,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124804,
+      "num": 124804,
+      "word": "奶茶店的牛乳茶为啥不叫牛奶茶",
+      "onboard_time": 1715159839,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 124802,
@@ -9611,6 +9755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117676,
+      "num": 117676,
+      "word": "蔡依林南昌",
+      "onboard_time": 1715157920,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117641,
       "num": 117641,
       "word": "孙颖莎沙特遥祝陈清晨夺冠",
@@ -9761,6 +9913,14 @@
       "onboard_time": 1715014154,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107932,
+      "num": 658786,
+      "word": "塞尔维亚小女孩展示中国功夫",
+      "onboard_time": 1715156899,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107790,
@@ -10523,14 +10683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 33495,
-      "num": 658786,
-      "word": "塞尔维亚小女孩展示中国功夫",
-      "onboard_time": 1715156899,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32411,
       "num": 31230,
       "word": "纪凌尘回复宋威龙",
@@ -10555,6 +10707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29825,
+      "num": 454347,
+      "word": "2024年中国品牌日",
+      "onboard_time": 1715156899,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29473,
       "num": 29473,
       "word": "刘宇宁拔剑海报",
@@ -10569,14 +10729,6 @@
       "onboard_time": 1714859111,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 28393,
-      "num": 454347,
-      "word": "2024年中国品牌日",
-      "onboard_time": 1715156899,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27961,

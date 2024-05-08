@@ -1,0 +1,410 @@
+{
+  "runTime": 1715159939416,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 764526,
+        "num": 764526,
+        "word": "为什么很多近视的人都有散光",
+        "onboard_time": 1715154799,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 499115,
+        "num": 499115,
+        "word": "榴莲自由要实现了",
+        "onboard_time": 1715141422,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107932,
+        "num": 496587,
+        "word": "塞尔维亚小女孩展示中国功夫",
+        "onboard_time": 1715156899,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1126093,
+        "num": 493471,
+        "word": "郑恺说苗苗化妆后孩子就不认识了",
+        "onboard_time": 1715153060,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 880315,
+        "num": 491049,
+        "word": "宝鸡一男子串串店门口被刺身亡",
+        "onboard_time": 1715157320,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752376,
+        "num": 490035,
+        "word": "婚后仅见面两次女方拒不退还25万彩礼",
+        "onboard_time": 1715154259,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662777,
+        "num": 485009,
+        "word": "如懿传是因蔡少芬而写的",
+        "onboard_time": 1715156000,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484935,
+        "num": 484935,
+        "word": "戛纳 阵容",
+        "onboard_time": 1715157741,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 466390,
+        "num": 466390,
+        "word": "王楚钦孙颖莎3比0张本智和早田希娜",
+        "onboard_time": 1715157503,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29825,
+        "num": 437707,
+        "word": "2024年中国品牌日",
+        "onboard_time": 1715156899,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528027,
+        "num": 434186,
+        "word": "赵丽颖杨幂 戛纳",
+        "onboard_time": 1715148500,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 421026,
+        "num": 421026,
+        "word": "男子以接放学为由多次强奸11岁侄女",
+        "onboard_time": 1715146281,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388904,
+        "num": 388904,
+        "word": "费可 fake",
+        "onboard_time": 1715157799,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344426,
+        "num": 344426,
+        "word": "小米SU7新车刚开39公里出故障",
+        "onboard_time": 1715158520,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 306518,
+        "num": 306518,
+        "word": "淘宝免单",
+        "onboard_time": 1715136079,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 297681,
+        "num": 297681,
+        "word": "仅有6条高铁线路盈利",
+        "onboard_time": 1715151981,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295001,
+        "num": 295001,
+        "word": "德基",
+        "onboard_time": 1715159660,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283561,
+        "num": 283561,
+        "word": "盗墓笔记 四美",
+        "onboard_time": 1715157380,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 259056,
+        "num": 259056,
+        "word": "新款iPad上架2小时预约人数过万",
+        "onboard_time": 1715152881,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 207907,
+        "num": 207907,
+        "word": "广西榴莲100元5个是噱头",
+        "onboard_time": 1715152099,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 250891,
+        "num": 207853,
+        "word": "璩静",
+        "onboard_time": 1715159180,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 590868,
+        "num": 207653,
+        "word": "19岁女孩马桶上产子后将其杀害",
+        "onboard_time": 1715144124,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426679,
+        "num": 207494,
+        "word": "关晓彤徐梓钧是同学",
+        "onboard_time": 1715148142,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316905,
+        "num": 207145,
+        "word": "GUCCI品牌大使宋威龙",
+        "onboard_time": 1715158641,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 272925,
+        "num": 207032,
+        "word": "全家的关系比乱葬岗还乱",
+        "onboard_time": 1715157680,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262383,
+        "num": 206874,
+        "word": "女子被虫咬后从发病到死亡仅7天",
+        "onboard_time": 1715157503,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206723,
+        "num": 206723,
+        "word": "椰树涉擦边广告被罚40万",
+        "onboard_time": 1715136979,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200113,
+        "num": 200113,
+        "word": "金秀贤快碎了",
+        "onboard_time": 1715153180,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199851,
+        "num": 199851,
+        "word": "学校拟统一购买600元防攀比鞋",
+        "onboard_time": 1715159720,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134813,
+        "num": 199389,
+        "word": "马斯克妈妈晒母亲节礼物",
+        "onboard_time": 1715158402,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 199295,
+        "num": 199295,
+        "word": "德国人煮花菜煮一整颗",
+        "onboard_time": 1715158041,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196537,
+        "num": 196537,
+        "word": "黄觉井柏然 好嗑",
+        "onboard_time": 1715149341,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175649,
+        "num": 175649,
+        "word": "每天0.5到3杯才是咖啡续命最佳剂量",
+        "onboard_time": 1715145324,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166012,
+        "num": 166012,
+        "word": "原来真有yue这个字",
+        "onboard_time": 1715138541,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161309,
+        "num": 161309,
+        "word": "泰国11名现前任警察绑架勒索5名中国游客",
+        "onboard_time": 1715145683,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161106,
+        "num": 161106,
+        "word": "减肥党千万别吃的水果",
+        "onboard_time": 1715151981,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 159754,
+        "num": 159754,
+        "word": "专家建议让年轻人缴费为家乡父母养老",
+        "onboard_time": 1715141122,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153172,
+        "num": 153172,
+        "word": "Uzi说TheShy老头杯没有对手",
+        "onboard_time": 1715155220,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152329,
+        "num": 152329,
+        "word": "男子自称龙人强奸诈骗多人被判无期",
+        "onboard_time": 1715149399,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151824,
+        "num": 151824,
+        "word": "近距离航拍福建舰有多帅",
+        "onboard_time": 1715158580,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 203504,
+        "num": 149974,
+        "word": "淘宝 156",
+        "onboard_time": 1715142504,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 140392,
+        "num": 140392,
+        "word": "张艺兴林允儿将出席戛纳",
+        "onboard_time": 1715150601,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140209,
+        "num": 140209,
+        "word": "朴灿烈将solo出道",
+        "onboard_time": 1715159480,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132731,
+        "num": 132731,
+        "word": "裴珠泫今年solo出道",
+        "onboard_time": 1715155280,
+        "rank": 43,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 130780,
+        "num": 130780,
+        "word": "王楚钦孙颖莎进大满贯决赛",
+        "onboard_time": 1715157560,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124804,
+        "num": 124804,
+        "word": "奶茶店的牛乳茶为啥不叫牛奶茶",
+        "onboard_time": 1715159839,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118096,
+        "num": 118096,
+        "word": "婚检后我被断崖式分手",
+        "onboard_time": 1715136261,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117676,
+        "num": 117676,
+        "word": "蔡依林南昌",
+        "onboard_time": 1715157920,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111768,
+        "num": 111768,
+        "word": "WTT",
+        "onboard_time": 1715157019,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109274,
+        "num": 111763,
+        "word": "把房东的柜子刷毁了",
+        "onboard_time": 1715154921,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席访问塞尔维亚#"
+    }
+  }
+}
