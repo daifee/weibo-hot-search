@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715152767462,
+  "endTime": 1715153684397,
   "band_list": [
     {
       "raw_hot": 1818309,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1182644,
-      "num": 248640,
+      "num": 252154,
       "word": "关晓彤徐梓钧是同学",
       "onboard_time": 1715148142,
       "rank": 21,
@@ -83,8 +83,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 975362,
-      "num": 975362,
+      "raw_hot": 981672,
+      "num": 981672,
       "word": "榴莲自由要实现了",
       "onboard_time": 1715141422,
       "rank": 35,
@@ -131,6 +131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 861673,
+      "num": 337880,
+      "word": "郑恺说苗苗化妆后孩子就不认识了",
+      "onboard_time": 1715153060,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 829295,
       "num": 598962,
       "word": "泰国11名现前任警察绑架勒索5名中国游客",
@@ -171,8 +179,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 791488,
-      "num": 791488,
+      "raw_hot": 792159,
+      "num": 792159,
       "word": "福建舰完成首次航行试验",
       "onboard_time": 1715151020,
       "rank": 1,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 688354,
-      "num": 241553,
+      "num": 251323,
       "word": "每天0.5到3杯才是咖啡续命最佳剂量",
       "onboard_time": 1715145324,
       "rank": 47,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 460186,
-      "num": 452793,
+      "num": 456434,
       "word": "秦岚 那你恢复挺好的",
       "onboard_time": 1715148379,
       "rank": 14,
@@ -401,6 +409,14 @@
       "onboard_time": 1715130502,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 456131,
+      "num": 456131,
+      "word": "仅有6条高铁线路盈利",
+      "onboard_time": 1715151981,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 447641,
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 367670,
-      "num": 236654,
+      "num": 250433,
       "word": "男子自称龙人强奸诈骗多人被判无期",
       "onboard_time": 1715149399,
       "rank": 26,
@@ -827,20 +843,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254131,
-      "num": 254131,
-      "word": "仅有6条高铁线路盈利",
-      "onboard_time": 1715151981,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254045,
       "num": 254045,
       "word": "十个勤天吃饭都要整整齐齐",
       "onboard_time": 1715143882,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253221,
+      "num": 253221,
+      "word": "广西榴莲100元5个是噱头",
+      "onboard_time": 1715152099,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 252924,
@@ -883,12 +899,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238335,
+      "num": 238335,
+      "word": "新款iPad上架2小时预约人数过万",
+      "onboard_time": 1715152881,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 235701,
       "num": 235701,
       "word": "女子担心被扣费手抖输错密码躲过电诈",
       "onboard_time": 1715139983,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235339,
+      "num": 235339,
+      "word": "新款iPad不支持ApplePencil二代",
+      "onboard_time": 1715152159,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 234760,
@@ -907,8 +939,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 227434,
-      "num": 227434,
+      "raw_hot": 230468,
+      "num": 230468,
       "word": "降体脂捷径是空腹燃脂走",
       "onboard_time": 1715149699,
       "rank": 44,
@@ -953,6 +985,14 @@
       "onboard_time": 1715119572,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211381,
+      "num": 211381,
+      "word": "五一假期雪姨的手快拍烂了",
+      "onboard_time": 1715151440,
+      "rank": 30,
+      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 211063,
@@ -1035,14 +1075,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 201775,
-      "num": 201775,
-      "word": "新款iPad不支持ApplePencil二代",
-      "onboard_time": 1715152159,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 201758,
       "num": 201758,
       "word": "繁花报名白玉兰奖",
@@ -1051,12 +1083,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199911,
-      "num": 199911,
-      "word": "五一假期雪姨的手快拍烂了",
-      "onboard_time": 1715151440,
-      "rank": 30,
-      "category": "幽默,作品衍生"
+      "raw_hot": 201151,
+      "num": 201151,
+      "word": "赵睿宣布赛季可能提前报销",
+      "onboard_time": 1715152579,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 199531,
@@ -1081,14 +1113,6 @@
       "onboard_time": 1715138541,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 197164,
-      "num": 197164,
-      "word": "广西榴莲100元5个是噱头",
-      "onboard_time": 1715152099,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 197012,
@@ -1129,6 +1153,14 @@
       "onboard_time": 1715148620,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194077,
+      "num": 194077,
+      "word": "王楚钦孙颖莎对阵张本智和早田希娜",
+      "onboard_time": 1715151800,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 193760,
@@ -1179,12 +1211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184296,
+      "num": 184296,
+      "word": "金秀贤快碎了",
+      "onboard_time": 1715153180,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184271,
       "num": 184271,
       "word": "一种很新的上班头像",
       "onboard_time": 1715142623,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183534,
+      "num": 183534,
+      "word": "有的人真的得了mbti病",
+      "onboard_time": 1715152519,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 182891,
@@ -1251,6 +1299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175586,
+      "num": 175586,
+      "word": "减肥党千万别吃的水果",
+      "onboard_time": 1715151981,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 174494,
       "num": 174494,
       "word": "魏哲鸣花神造型",
@@ -1297,6 +1353,14 @@
       "onboard_time": 1715138241,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168063,
+      "num": 168063,
+      "word": "金融大佬和骗子小跟班",
+      "onboard_time": 1715153060,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 165524,
@@ -1379,14 +1443,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 154497,
-      "num": 154497,
-      "word": "减肥党千万别吃的水果",
-      "onboard_time": 1715151981,
-      "rank": 38,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 154007,
       "num": 154007,
       "word": "世界微笑日",
@@ -1401,14 +1457,6 @@
       "onboard_time": 1715129542,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 153565,
-      "num": 153565,
-      "word": "王楚钦孙颖莎对阵张本智和早田希娜",
-      "onboard_time": 1715151800,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 152594,
@@ -1483,6 +1531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146292,
+      "num": 146292,
+      "word": "80岁爷爷cos 间谍过家家",
+      "onboard_time": 1715150359,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 145417,
       "num": 145417,
       "word": "中国或支持特斯拉测试无人驾驶出租",
@@ -1553,14 +1609,6 @@
       "onboard_time": 1715062879,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 139310,
-      "num": 139310,
-      "word": "80岁爷爷cos 间谍过家家",
-      "onboard_time": 1715150359,
-      "rank": 42,
-      "category": "动漫"
     },
     {
       "raw_hot": 137581,
@@ -1737,14 +1785,6 @@
       "onboard_time": 1715092401,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 118457,
-      "num": 118457,
-      "word": "赵睿宣布赛季可能提前报销",
-      "onboard_time": 1715152579,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 116058,
@@ -1931,6 +1971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46051,
+      "num": 249946,
+      "word": "赵小棠好宠妈妈",
+      "onboard_time": 1715151081,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40940,
       "num": 40940,
       "word": "于正关注Zzr",
@@ -1953,14 +2001,6 @@
       "onboard_time": 1715088260,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 36187,
-      "num": 230451,
-      "word": "赵小棠好宠妈妈",
-      "onboard_time": 1715151081,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 29473,

@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715152767462,
+  "endTime": 1715153684397,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -964,7 +964,7 @@
     },
     {
       "raw_hot": 1182644,
-      "num": 248640,
+      "num": 252154,
       "word": "关晓彤徐梓钧是同学",
       "onboard_time": 1715148142,
       "rank": 21,
@@ -1459,8 +1459,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 975362,
-      "num": 975362,
+      "raw_hot": 981672,
+      "num": 981672,
       "word": "榴莲自由要实现了",
       "onboard_time": 1715141422,
       "rank": 35,
@@ -1843,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 861673,
+      "num": 337880,
+      "word": "郑恺说苗苗化妆后孩子就不认识了",
+      "onboard_time": 1715153060,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 861149,
       "num": 861149,
       "word": "据说每个城市都来了1亿人",
@@ -2179,20 +2187,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 792159,
+      "num": 792159,
+      "word": "福建舰完成首次航行试验",
+      "onboard_time": 1715151020,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 791865,
       "num": 791865,
       "word": "国羽男队第11次汤姆斯杯夺冠",
       "onboard_time": 1714919659,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 791488,
-      "num": 791488,
-      "word": "福建舰完成首次航行试验",
-      "onboard_time": 1715151020,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 790458,
@@ -2708,7 +2716,7 @@
     },
     {
       "raw_hot": 688354,
-      "num": 241553,
+      "num": 251323,
       "word": "每天0.5到3杯才是咖啡续命最佳剂量",
       "onboard_time": 1715145324,
       "rank": 47,
@@ -4748,7 +4756,7 @@
     },
     {
       "raw_hot": 460186,
-      "num": 452793,
+      "num": 456434,
       "word": "秦岚 那你恢复挺好的",
       "onboard_time": 1715148379,
       "rank": 14,
@@ -4785,6 +4793,14 @@
       "onboard_time": 1715050878,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 456131,
+      "num": 456131,
+      "word": "仅有6条高铁线路盈利",
+      "onboard_time": 1715151981,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455528,
@@ -6244,7 +6260,7 @@
     },
     {
       "raw_hot": 367670,
-      "num": 236654,
+      "num": 250433,
       "word": "男子自称龙人强奸诈骗多人被判无期",
       "onboard_time": 1715149399,
       "rank": 26,
@@ -8771,14 +8787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 254131,
-      "num": 254131,
-      "word": "仅有6条高铁线路盈利",
-      "onboard_time": 1715151981,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254100,
       "num": 254100,
       "word": "陶昕然辟谣甄嬛传传闻",
@@ -8801,6 +8809,14 @@
       "onboard_time": 1715073319,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253221,
+      "num": 253221,
+      "word": "广西榴莲100元5个是噱头",
+      "onboard_time": 1715152099,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 252938,
@@ -9283,6 +9299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238335,
+      "num": 238335,
+      "word": "新款iPad上架2小时预约人数过万",
+      "onboard_time": 1715152881,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 237979,
       "num": 237979,
       "word": "迪丽热巴旗袍舞台直拍",
@@ -9337,6 +9361,14 @@
       "onboard_time": 1714702278,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 235339,
+      "num": 235339,
+      "word": "新款iPad不支持ApplePencil二代",
+      "onboard_time": 1715152159,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 235314,
@@ -9539,6 +9571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230468,
+      "num": 230468,
+      "word": "降体脂捷径是空腹燃脂走",
+      "onboard_time": 1715149699,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 230300,
       "num": 224981,
       "word": "刘耀文墨镜solo",
@@ -9649,14 +9689,6 @@
       "onboard_time": 1714955720,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227434,
-      "num": 227434,
-      "word": "降体脂捷径是空腹燃脂走",
-      "onboard_time": 1715149699,
-      "rank": 44,
-      "category": "运动健身"
     },
     {
       "raw_hot": 227327,
@@ -10403,6 +10435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211381,
+      "num": 211381,
+      "word": "五一假期雪姨的手快拍烂了",
+      "onboard_time": 1715151440,
+      "rank": 30,
+      "category": "幽默,作品衍生"
+    },
+    {
       "raw_hot": 211251,
       "num": 211251,
       "word": "樊振东vs博格斯",
@@ -11091,14 +11131,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 201775,
-      "num": 201775,
-      "word": "新款iPad不支持ApplePencil二代",
-      "onboard_time": 1715152159,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 201763,
       "num": 201763,
       "word": "厦门为求职实习大学生开放两千多张免费床位",
@@ -11193,6 +11225,14 @@
       "onboard_time": 1714882879,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201151,
+      "num": 201151,
+      "word": "赵睿宣布赛季可能提前报销",
+      "onboard_time": 1715152579,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 201042,
@@ -11345,14 +11385,6 @@
       "onboard_time": 1714533137,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 199911,
-      "num": 199911,
-      "word": "五一假期雪姨的手快拍烂了",
-      "onboard_time": 1715151440,
-      "rank": 30,
-      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 199825,
@@ -11625,14 +11657,6 @@
       "onboard_time": 1714806738,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197164,
-      "num": 197164,
-      "word": "广西榴莲100元5个是噱头",
-      "onboard_time": 1715152099,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 197161,
@@ -12009,6 +12033,14 @@
       "onboard_time": 1714885038,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194077,
+      "num": 194077,
+      "word": "王楚钦孙颖莎对阵张本智和早田希娜",
+      "onboard_time": 1715151800,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 194025,
@@ -12891,6 +12923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184296,
+      "num": 184296,
+      "word": "金秀贤快碎了",
+      "onboard_time": 1715153180,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184279,
       "num": 184279,
       "word": "Doinb说老头杯mlxg先红温",
@@ -12961,6 +13001,14 @@
       "onboard_time": 1714997718,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183534,
+      "num": 183534,
+      "word": "有的人真的得了mbti病",
+      "onboard_time": 1715152519,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 183437,
@@ -13584,6 +13632,14 @@
       "word": "3个睡姿一觉到天亮",
       "onboard_time": 1714957039,
       "rank": 40,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 175586,
+      "num": 175586,
+      "word": "减肥党千万别吃的水果",
+      "onboard_time": 1715151981,
+      "rank": 38,
       "category": "科学科普"
     },
     {
@@ -14297,6 +14353,14 @@
       "onboard_time": 1714814178,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168063,
+      "num": 168063,
+      "word": "金融大佬和骗子小跟班",
+      "onboard_time": 1715153060,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 167943,
@@ -15475,14 +15539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154497,
-      "num": 154497,
-      "word": "减肥党千万别吃的水果",
-      "onboard_time": 1715151981,
-      "rank": 38,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 154342,
       "num": 154342,
       "word": "张颂文拍综艺被导演送龟背竹地毯",
@@ -15545,14 +15601,6 @@
       "onboard_time": 1714999219,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153565,
-      "num": 153565,
-      "word": "王楚钦孙颖莎对阵张本智和早田希娜",
-      "onboard_time": 1715151800,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 153456,
@@ -16299,6 +16347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146292,
+      "num": 146292,
+      "word": "80岁爷爷cos 间谍过家家",
+      "onboard_time": 1715150359,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 146119,
       "num": 146119,
       "word": "为啥女厕所总是排长队",
@@ -16913,14 +16969,6 @@
       "onboard_time": 1714716561,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 139310,
-      "num": 139310,
-      "word": "80岁爷爷cos 间谍过家家",
-      "onboard_time": 1715150359,
-      "rank": 42,
-      "category": "动漫"
     },
     {
       "raw_hot": 139121,
@@ -18625,14 +18673,6 @@
       "onboard_time": 1714544239,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 118457,
-      "num": 118457,
-      "word": "赵睿宣布赛季可能提前报销",
-      "onboard_time": 1715152579,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 118415,
@@ -20955,6 +20995,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 46051,
+      "num": 249946,
+      "word": "赵小棠好宠妈妈",
+      "onboard_time": 1715151081,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 46029,
       "num": 46029,
       "word": "C罗帽子戏法",
@@ -21089,14 +21137,6 @@
       "onboard_time": 1714929853,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36187,
-      "num": 230451,
-      "word": "赵小棠好宠妈妈",
-      "onboard_time": 1715151081,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 36019,
