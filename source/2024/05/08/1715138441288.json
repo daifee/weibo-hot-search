@@ -1,0 +1,410 @@
+{
+  "runTime": 1715138441288,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 593160,
+        "num": 593160,
+        "word": "广东300吨冻眠10个月荔枝解冻上市",
+        "onboard_time": 1715131699,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488630,
+        "num": 488630,
+        "word": "史上最薄iPad",
+        "onboard_time": 1715135959,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 11010,
+        "num": 463646,
+        "word": "为中法建交精神赋予新的时代内涵",
+        "onboard_time": 1715088260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 911487,
+        "num": 463499,
+        "word": "椰树涉擦边广告被罚40万",
+        "onboard_time": 1715136979,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462940,
+        "num": 462940,
+        "word": "酱园弄中的易烊千玺",
+        "onboard_time": 1715135900,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 415422,
+        "num": 415422,
+        "word": "嫦娥六号成功实施近月制动",
+        "onboard_time": 1715135481,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375864,
+        "num": 375864,
+        "word": "松原地震",
+        "onboard_time": 1715136559,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374486,
+        "num": 374486,
+        "word": "苹果实体Home键平板下架",
+        "onboard_time": 1715125518,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 299983,
+        "num": 299983,
+        "word": "柯南 小兰票选第一",
+        "onboard_time": 1715136500,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 284003,
+        "num": 297383,
+        "word": "塞尔维亚首都多处点亮中国红",
+        "onboard_time": 1715136979,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1095305,
+        "num": 296267,
+        "word": "淘宝免单",
+        "onboard_time": 1715136079,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 515499,
+        "num": 293568,
+        "word": "小龙虾很脏完全是误解",
+        "onboard_time": 1715131640,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 439460,
+        "num": 290349,
+        "word": "动画还原云南镇雄医院持刀伤人事件",
+        "onboard_time": 1715134640,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288010,
+        "num": 288010,
+        "word": "iPad10降价",
+        "onboard_time": 1715131159,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 287133,
+        "num": 287133,
+        "word": "网友称买的林俊杰演唱会门票变潘玮柏",
+        "onboard_time": 1715131880,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270654,
+        "num": 270654,
+        "word": "于适演技",
+        "onboard_time": 1715136861,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265620,
+        "num": 265620,
+        "word": "隐忍一天的宝宝终于爆发了",
+        "onboard_time": 1715129183,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256207,
+        "num": 256207,
+        "word": "眼泪女王没获奖的原因",
+        "onboard_time": 1715129121,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238843,
+        "num": 238843,
+        "word": "医院行凶者发朋友圈透露动机不实",
+        "onboard_time": 1715135660,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238205,
+        "num": 238205,
+        "word": "马来西亚女童弄坏橡皮擦遭同学性侵",
+        "onboard_time": 1715098875,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873832,
+        "num": 234525,
+        "word": "婚检后我被断崖式分手",
+        "onboard_time": 1715136261,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 693825,
+        "num": 226206,
+        "word": "儿子吸食上头电子烟父亲大义灭亲",
+        "onboard_time": 1715132840,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415891,
+        "num": 221169,
+        "word": "赵梓婷 张露文",
+        "onboard_time": 1715127559,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 266995,
+        "num": 211260,
+        "word": "有些水果不甜但巨长胖",
+        "onboard_time": 1715126780,
+        "rank": 23,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 256168,
+        "num": 209059,
+        "word": "星期三放假非常科学的理由",
+        "onboard_time": 1715134881,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203999,
+        "num": 203999,
+        "word": "杨幂表演无实物吃饭",
+        "onboard_time": 1715136440,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202218,
+        "num": 202218,
+        "word": "恋与深空",
+        "onboard_time": 1715138123,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197495,
+        "num": 197495,
+        "word": "24应届生工作现状",
+        "onboard_time": 1715138123,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196300,
+        "num": 196300,
+        "word": "张萱为男友整容",
+        "onboard_time": 1715130502,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184246,
+        "num": 184246,
+        "word": "往胡子里插入最多烧烤签子的人",
+        "onboard_time": 1715133799,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300333,
+        "num": 181045,
+        "word": "被妻子举报婚内出轨干部回应",
+        "onboard_time": 1715137701,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168880,
+        "num": 168880,
+        "word": "这种月经不调是卵巢癌信号",
+        "onboard_time": 1715133621,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165282,
+        "num": 165282,
+        "word": "武契奇夫妇在机场热情迎接",
+        "onboard_time": 1715128099,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163396,
+        "num": 163396,
+        "word": "李现酱园弄角色",
+        "onboard_time": 1715131221,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162746,
+        "num": 162746,
+        "word": "半夜醒了一定别看时间",
+        "onboard_time": 1715128703,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159524,
+        "num": 159524,
+        "word": "百想眼泪女王颗粒无收",
+        "onboard_time": 1715130861,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99069,
+        "num": 156903,
+        "word": "胡一天自驾出游vlog",
+        "onboard_time": 1715138241,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156766,
+        "num": 156766,
+        "word": "这个宝宝一出生就15岁了",
+        "onboard_time": 1715087539,
+        "rank": 37,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 150125,
+        "num": 150125,
+        "word": "计算机二级成绩",
+        "onboard_time": 1715136261,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145289,
+        "num": 145289,
+        "word": "知更鸟不歪",
+        "onboard_time": 1715137940,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143193,
+        "num": 143193,
+        "word": "肖战一人多角权谋向混剪",
+        "onboard_time": 1715129183,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142029,
+        "num": 142029,
+        "word": "杨幂酱园弄人设",
+        "onboard_time": 1715138360,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141426,
+        "num": 141426,
+        "word": "女子剖腹产后被家人用吊车送上7楼",
+        "onboard_time": 1715132181,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138588,
+        "num": 138588,
+        "word": "胖东来确认帮扶郑州一家超市",
+        "onboard_time": 1715134761,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137581,
+        "num": 137581,
+        "word": "女厕需要更多的坑位",
+        "onboard_time": 1715138001,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136529,
+        "num": 136529,
+        "word": "这3处长白头发要注意",
+        "onboard_time": 1715130861,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136387,
+        "num": 136387,
+        "word": "张露文",
+        "onboard_time": 1715123775,
+        "rank": 46,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 130059,
+        "num": 130059,
+        "word": "眼球突出真的是因为戴眼镜吗",
+        "onboard_time": 1715134340,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128431,
+        "num": 128431,
+        "word": "费可人设",
+        "onboard_time": 1715129362,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120433,
+        "num": 120433,
+        "word": "中国海警舰艇编队在我钓鱼岛领海巡航",
+        "onboard_time": 1715135900,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平抵达塞尔维亚发表书面讲话#"
+    }
+  }
+}
