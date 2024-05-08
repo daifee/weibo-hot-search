@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715177794793,
+  "endTime": 1715178924184,
   "band_list": [
     {
       "raw_hot": 2536073,
@@ -19,6 +19,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1896808,
+      "num": 1896808,
+      "word": "假球",
+      "onboard_time": 1715175681,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1818309,
       "num": 1818309,
       "word": "专家建议让年轻人缴费为家乡父母养老",
@@ -27,16 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1800895,
-      "num": 1800895,
-      "word": "假球",
-      "onboard_time": 1715175681,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1675942,
-      "num": 1675942,
+      "raw_hot": 1683461,
+      "num": 1683461,
       "word": "白月光诺澜杀回来了",
       "onboard_time": 1715174181,
       "rank": 41,
@@ -235,6 +235,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 883660,
+      "num": 883660,
+      "word": "杨鸣采访",
+      "onboard_time": 1715177061,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 878111,
       "num": 878111,
       "word": "史上最薄iPad",
@@ -387,14 +395,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 708470,
-      "num": 708470,
-      "word": "杨鸣采访",
-      "onboard_time": 1715177061,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 705403,
       "num": 705403,
       "word": "演唱会允许部分歌手闭麦让观众先唱",
@@ -539,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 561967,
+      "num": 515628,
+      "word": "周琦离场",
+      "onboard_time": 1715176580,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 551565,
       "num": 551565,
       "word": "SM开通淘宝旗舰店",
@@ -585,14 +593,6 @@
       "onboard_time": 1715166859,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 528623,
-      "num": 515628,
-      "word": "周琦离场",
-      "onboard_time": 1715176580,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 528049,
@@ -907,12 +907,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365360,
-      "num": 365360,
+      "raw_hot": 367112,
+      "num": 367112,
       "word": "皇后剪秋搂腰直拍",
       "onboard_time": 1715176162,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 366402,
+      "num": 341702,
+      "word": "商场里试衣服一定要留点心",
+      "onboard_time": 1715173580,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 360172,
@@ -1033,14 +1041,6 @@
       "onboard_time": 1715163621,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 341702,
-      "num": 341702,
-      "word": "商场里试衣服一定要留点心",
-      "onboard_time": 1715173580,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 338084,
@@ -1195,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305588,
+      "num": 305588,
+      "word": "体制内可以干的兼职",
+      "onboard_time": 1715175561,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304329,
       "num": 304329,
       "word": "汤唯为金高银颁奖",
@@ -1315,6 +1323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 279981,
+      "num": 279981,
+      "word": "陈少熙 狗叫之夜",
+      "onboard_time": 1715177541,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279462,
       "num": 279462,
       "word": "女子租房9个多月发现对面是墓地",
@@ -1339,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278229,
+      "num": 278229,
+      "word": "张镇麟 短片",
+      "onboard_time": 1715177363,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277093,
       "num": 277093,
       "word": "CBA裁判",
@@ -1355,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272290,
+      "num": 272290,
+      "word": "刘宇宁傅菁演情侣",
+      "onboard_time": 1715177902,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270870,
       "num": 196871,
       "word": "眼球突出真的是因为戴眼镜吗",
@@ -1368,14 +1400,6 @@
       "word": "真的喜欢被夹子夹的感觉",
       "onboard_time": 1715143464,
       "rank": 26,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 268489,
-      "num": 268489,
-      "word": "体制内可以干的兼职",
-      "onboard_time": 1715175561,
-      "rank": 33,
       "category": "情感"
     },
     {
@@ -1451,6 +1475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 241712,
+      "num": 241712,
+      "word": "杨鸣羡慕杜锋",
+      "onboard_time": 1715177421,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240868,
       "num": 231737,
       "word": "一问都不熟 一搜全有仇",
@@ -1504,14 +1536,6 @@
       "word": "赵继伟 辽宁精神",
       "onboard_time": 1715176521,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 233638,
-      "num": 233638,
-      "word": "杨鸣羡慕杜锋",
-      "onboard_time": 1715177421,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -1617,14 +1641,6 @@
       "onboard_time": 1715119572,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211404,
-      "num": 211404,
-      "word": "张镇麟 短片",
-      "onboard_time": 1715177363,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 211381,
@@ -1891,14 +1907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191801,
-      "num": 191801,
-      "word": "陈少熙 狗叫之夜",
-      "onboard_time": 1715177541,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191277,
       "num": 191277,
       "word": "杨幂ELLE封面",
@@ -1995,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179908,
+      "num": 179908,
+      "word": "小果冻",
+      "onboard_time": 1715178501,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179893,
       "num": 179893,
       "word": "M4",
@@ -2051,12 +2067,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 175431,
+      "num": 175431,
+      "word": "柯南新剧场版 cp党的天堂",
+      "onboard_time": 1715178080,
+      "rank": 43,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 174494,
       "num": 174494,
       "word": "魏哲鸣花神造型",
       "onboard_time": 1715142265,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172950,
+      "num": 571522,
+      "word": "我的阿勒泰赛博吸氧剧",
+      "onboard_time": 1715173280,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172553,
@@ -2219,14 +2251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162191,
-      "num": 571522,
-      "word": "我的阿勒泰赛博吸氧剧",
-      "onboard_time": 1715173280,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162158,
       "num": 162158,
       "word": "佐藤健说很喜欢中文外号砂糖",
@@ -2273,6 +2297,14 @@
       "onboard_time": 1715160562,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 158669,
+      "num": 158669,
+      "word": "内脏脂肪有多难减",
+      "onboard_time": 1715178501,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 156857,
@@ -2412,7 +2444,7 @@
     },
     {
       "raw_hot": 146728,
-      "num": 1275263,
+      "num": 1313341,
       "word": "塞尔维亚的中国桥",
       "onboard_time": 1715173339,
       "rank": 2,
@@ -3099,7 +3131,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34108,
+      "raw_hot": 36955,
       "num": 701814,
       "word": "多元化消费激活经济新动能",
       "onboard_time": 1715173459,
@@ -3199,6 +3231,9 @@
     },
     {
       "word": "#携手推进新时代中塞命运共同体建设#"
+    },
+    {
+      "word": "#习近平同武契奇共见记者#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1715178924184,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1896808,
+        "num": 1896808,
+        "word": "假球",
+        "onboard_time": 1715175681,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1683461,
+        "num": 1683461,
+        "word": "白月光诺澜杀回来了",
+        "onboard_time": 1715174181,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141884,
+        "num": 1313341,
+        "word": "塞尔维亚的中国桥",
+        "onboard_time": 1715173339,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1081023,
+        "num": 1081023,
+        "word": "元气森林就肖战海报事件致歉",
+        "onboard_time": 1715172560,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 883660,
+        "num": 883660,
+        "word": "杨鸣采访",
+        "onboard_time": 1715177061,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 854550,
+        "num": 854550,
+        "word": "第一次去见家长就分手了",
+        "onboard_time": 1715171660,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 675074,
+        "num": 675074,
+        "word": "学校拟统一购买600元防攀比鞋",
+        "onboard_time": 1715159720,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555591,
+        "num": 555591,
+        "word": "樊振东2比3弗朗西斯卡",
+        "onboard_time": 1715172740,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403406,
+        "num": 403406,
+        "word": "郑恺说苗苗化妆后孩子就不认识了",
+        "onboard_time": 1715153060,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36955,
+        "num": 401157,
+        "word": "多元化消费激活经济新动能",
+        "onboard_time": 1715173459,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634827,
+        "num": 401140,
+        "word": "淘宝免单",
+        "onboard_time": 1715174120,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 561967,
+        "num": 401123,
+        "word": "周琦离场",
+        "onboard_time": 1715176580,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401082,
+        "num": 401082,
+        "word": "宋茜演技",
+        "onboard_time": 1715173880,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395429,
+        "num": 395429,
+        "word": "相关部门辟谣韩国飞往青岛飞机坠机",
+        "onboard_time": 1715171240,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368619,
+        "num": 368619,
+        "word": "黎明回应",
+        "onboard_time": 1715167698,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 367112,
+        "num": 367112,
+        "word": "皇后剪秋搂腰直拍",
+        "onboard_time": 1715176162,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 521018,
+        "num": 361688,
+        "word": "杨幂曾4个月拍了5部戏",
+        "onboard_time": 1715167159,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355066,
+        "num": 355066,
+        "word": "海底捞回应4人含玻璃渣吃火锅敲诈",
+        "onboard_time": 1715164580,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318091,
+        "num": 318091,
+        "word": "张新成去清华了",
+        "onboard_time": 1715170039,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310565,
+        "num": 310565,
+        "word": "优酷代言人",
+        "onboard_time": 1715170098,
+        "rank": 19,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 366402,
+        "num": 309914,
+        "word": "商场里试衣服一定要留点心",
+        "onboard_time": 1715173580,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313234,
+        "num": 307821,
+        "word": "第一批去日本扫货的人已经被税了",
+        "onboard_time": 1715170039,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305588,
+        "num": 305588,
+        "word": "体制内可以干的兼职",
+        "onboard_time": 1715175561,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297143,
+        "num": 297143,
+        "word": "19岁女孩马桶上产子后将其杀害",
+        "onboard_time": 1715144124,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287583,
+        "num": 287583,
+        "word": "马龙王楚钦男双晋级4强",
+        "onboard_time": 1715176521,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287284,
+        "num": 287284,
+        "word": "杨幂说再来一次会把关雪演的更好",
+        "onboard_time": 1715173398,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283106,
+        "num": 283106,
+        "word": "南京德基一男子坠亡警方正调查",
+        "onboard_time": 1715166199,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279981,
+        "num": 279981,
+        "word": "陈少熙 狗叫之夜",
+        "onboard_time": 1715177541,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278229,
+        "num": 278229,
+        "word": "张镇麟 短片",
+        "onboard_time": 1715177363,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105116,
+        "num": 277812,
+        "word": "邀请300名塞尔维亚青少年赴华学习",
+        "onboard_time": 1715169259,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 277669,
+        "num": 277669,
+        "word": "赵丽颖杨幂 戛纳",
+        "onboard_time": 1715148500,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272290,
+        "num": 272290,
+        "word": "刘宇宁傅菁演情侣",
+        "onboard_time": 1715177902,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247133,
+        "num": 247133,
+        "word": "焦俊艳我病了我装的",
+        "onboard_time": 1715172200,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241712,
+        "num": 241712,
+        "word": "杨鸣羡慕杜锋",
+        "onboard_time": 1715177421,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221986,
+        "num": 221986,
+        "word": "樊振东大满贯止步16强",
+        "onboard_time": 1715173820,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219809,
+        "num": 219809,
+        "word": "辽宁男篮vs广东男篮",
+        "onboard_time": 1715173642,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208196,
+        "num": 208196,
+        "word": "付豪太帅了",
+        "onboard_time": 1715176341,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204319,
+        "num": 204319,
+        "word": "沙特大满贯",
+        "onboard_time": 1715176042,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202868,
+        "num": 202868,
+        "word": "赵继伟 辽宁精神",
+        "onboard_time": 1715176521,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200136,
+        "num": 200136,
+        "word": "新生",
+        "onboard_time": 1715172740,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189724,
+        "num": 189724,
+        "word": "SM开通淘宝旗舰店",
+        "onboard_time": 1715166319,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188356,
+        "num": 188356,
+        "word": "福宝",
+        "onboard_time": 1715170820,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179908,
+        "num": 179908,
+        "word": "小果冻",
+        "onboard_time": 1715178501,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175431,
+        "num": 175431,
+        "word": "柯南新剧场版 cp党的天堂",
+        "onboard_time": 1715178080,
+        "rank": 43,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 172950,
+        "num": 172950,
+        "word": "我的阿勒泰赛博吸氧剧",
+        "onboard_time": 1715173280,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158669,
+        "num": 158669,
+        "word": "内脏脂肪有多难减",
+        "onboard_time": 1715178501,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 157130,
+        "num": 157130,
+        "word": "付豪31分",
+        "onboard_time": 1715177481,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152836,
+        "num": 152836,
+        "word": "宝鸡一男子串串店门口被刺身亡",
+        "onboard_time": 1715157320,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145944,
+        "num": 145944,
+        "word": "疾控在高烧老人家中找出近200只蜱虫",
+        "onboard_time": 1715160381,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144868,
+        "num": 144868,
+        "word": "赵露思素颜近照",
+        "onboard_time": 1715169920,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同武契奇共见记者#"
+    }
+  }
+}
