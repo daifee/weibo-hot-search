@@ -1,0 +1,410 @@
+{
+  "runTime": 1715134810523,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 575287,
+        "num": 575287,
+        "word": "苹果实体Home键平板下架",
+        "onboard_time": 1715125518,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 490977,
+        "num": 490977,
+        "word": "广东300吨冻眠10个月荔枝解冻上市",
+        "onboard_time": 1715131699,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20058,
+        "num": 482630,
+        "word": "为中法建交精神赋予新的时代内涵",
+        "onboard_time": 1715088260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 482555,
+        "num": 482555,
+        "word": "眼泪女王没获奖的原因",
+        "onboard_time": 1715129121,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380037,
+        "num": 380037,
+        "word": "37岁从确诊肺癌到去世仅2周",
+        "onboard_time": 1715092281,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373136,
+        "num": 373136,
+        "word": "iPad10降价",
+        "onboard_time": 1715131159,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 366928,
+        "num": 366928,
+        "word": "张萱为男友整容",
+        "onboard_time": 1715130502,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348821,
+        "num": 348821,
+        "word": "隐忍一天的宝宝终于爆发了",
+        "onboard_time": 1715129183,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328463,
+        "num": 328463,
+        "word": "百度内部人士曝光公关全员做短视频内幕",
+        "onboard_time": 1715128099,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 251991,
+        "num": 327789,
+        "word": "法国人把法棍配方写进了法律",
+        "onboard_time": 1715130023,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960798,
+        "num": 319039,
+        "word": "小龙虾很脏完全是误解",
+        "onboard_time": 1715131640,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 449934,
+        "num": 309689,
+        "word": "赵梓婷 张露文",
+        "onboard_time": 1715127559,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 413302,
+        "num": 302837,
+        "word": "网友称买的林俊杰演唱会门票变潘玮柏",
+        "onboard_time": 1715131880,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 300831,
+        "num": 300831,
+        "word": "马来西亚女童弄坏橡皮擦遭同学性侵",
+        "onboard_time": 1715098875,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292067,
+        "num": 292067,
+        "word": "武契奇夫妇在机场热情迎接",
+        "onboard_time": 1715128099,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 268123,
+        "num": 268123,
+        "word": "有人打着罗翔的名义谈恋爱",
+        "onboard_time": 1715130263,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247706,
+        "num": 247706,
+        "word": "半夜醒了一定别看时间",
+        "onboard_time": 1715128703,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201574,
+        "num": 201574,
+        "word": "女子剖腹产后被家人用吊车送上7楼",
+        "onboard_time": 1715132181,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197012,
+        "num": 197012,
+        "word": "华为官宣夏季发布会",
+        "onboard_time": 1715133142,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 195197,
+        "num": 195197,
+        "word": "李现酱园弄角色",
+        "onboard_time": 1715131221,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 742185,
+        "num": 194927,
+        "word": "儿子吸食上头电子烟父亲大义灭亲",
+        "onboard_time": 1715132840,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381919,
+        "num": 194071,
+        "word": "有些水果不甜但巨长胖",
+        "onboard_time": 1715126780,
+        "rank": 21,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 286439,
+        "num": 192846,
+        "word": "这种月经不调是卵巢癌信号",
+        "onboard_time": 1715133621,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200973,
+        "num": 191873,
+        "word": "为什么碗有了裂纹要尽快换掉",
+        "onboard_time": 1715129183,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 191694,
+        "num": 191694,
+        "word": "我iPad也要低人一等了",
+        "onboard_time": 1715094021,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 195581,
+        "num": 190483,
+        "word": "这3处长白头发要注意",
+        "onboard_time": 1715130861,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185641,
+        "num": 185641,
+        "word": "生田斗真迷惑发言激怒日本女性",
+        "onboard_time": 1715133982,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183771,
+        "num": 183771,
+        "word": "酱园弄角色简介",
+        "onboard_time": 1715125698,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182162,
+        "num": 182162,
+        "word": "Home键取消你觉得遗憾吗",
+        "onboard_time": 1715132060,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 178945,
+        "num": 178945,
+        "word": "肖战一人多角权谋向混剪",
+        "onboard_time": 1715129183,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270870,
+        "num": 178905,
+        "word": "眼球突出真的是因为戴眼镜吗",
+        "onboard_time": 1715134340,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 267985,
+        "num": 178863,
+        "word": "往胡子里插入最多烧烤签子的人",
+        "onboard_time": 1715133799,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178786,
+        "num": 178786,
+        "word": "百想眼泪女王颗粒无收",
+        "onboard_time": 1715130861,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165352,
+        "num": 165352,
+        "word": "张艺凡跳舞了",
+        "onboard_time": 1715129422,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164734,
+        "num": 164734,
+        "word": "新款iPad被吐槽涨价降配",
+        "onboard_time": 1715131640,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163631,
+        "num": 163631,
+        "word": "这个宝宝一出生就15岁了",
+        "onboard_time": 1715087539,
+        "rank": 35,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 160119,
+        "num": 160119,
+        "word": "第一次见这么干净的厨艺",
+        "onboard_time": 1715127861,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159050,
+        "num": 159050,
+        "word": "张露文",
+        "onboard_time": 1715123775,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 149387,
+        "num": 149387,
+        "word": "新款iPadPro仅1枚广角主摄",
+        "onboard_time": 1715132601,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145122,
+        "num": 145122,
+        "word": "动画还原云南镇雄医院持刀伤人事件",
+        "onboard_time": 1715134640,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144776,
+        "num": 144776,
+        "word": "孙颖莎用英语和对手交流",
+        "onboard_time": 1715132481,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138321,
+        "num": 138321,
+        "word": "新款iPad价格",
+        "onboard_time": 1715093599,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135200,
+        "num": 135200,
+        "word": "看到熊猫为什么自动嘴角上扬",
+        "onboard_time": 1715133262,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132262,
+        "num": 132262,
+        "word": "百度副总裁被曝安排工作言辞激烈",
+        "onboard_time": 1715109252,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 126368,
+        "num": 126368,
+        "word": "长效避孕药不能突然停药",
+        "onboard_time": 1715096599,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125478,
+        "num": 125478,
+        "word": "4人含碎玻璃渣吃火锅敲诈被刑拘",
+        "onboard_time": 1715114831,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125105,
+        "num": 125105,
+        "word": "这种毒碗你家可能天天都在用",
+        "onboard_time": 1715088020,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 122421,
+        "num": 122421,
+        "word": "小狗也有起床气",
+        "onboard_time": 1715133561,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122085,
+        "num": 122085,
+        "word": "胖东来确认帮扶郑州一家超市",
+        "onboard_time": 1715134761,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120775,
+        "num": 120775,
+        "word": "狼队瓜瓜",
+        "onboard_time": 1715133681,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#谱写中塞关系发展新篇章#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715133197488,
+  "endTime": 1715134810523,
   "band_list": [
     {
       "raw_hot": 1143072,
@@ -25,6 +25,14 @@
       "onboard_time": 1715125518,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 960798,
+      "num": 364981,
+      "word": "小龙虾很脏完全是误解",
+      "onboard_time": 1715131640,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 910093,
@@ -67,6 +75,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 742185,
+      "num": 230406,
+      "word": "儿子吸食上头电子烟父亲大义灭亲",
+      "onboard_time": 1715132840,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 703730,
       "num": 359902,
       "word": "研究称胖男人生育力更差",
@@ -89,14 +105,6 @@
       "onboard_time": 1715129121,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 675181,
-      "num": 364981,
-      "word": "小龙虾很脏完全是误解",
-      "onboard_time": 1715131640,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 643667,
@@ -145,6 +153,14 @@
       "onboard_time": 1715128099,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 490977,
+      "num": 490977,
+      "word": "广东300吨冻眠10个月荔枝解冻上市",
+      "onboard_time": 1715131699,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 480798,
@@ -203,20 +219,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 413302,
+      "num": 302837,
+      "word": "网友称买的林俊杰演唱会门票变潘玮柏",
+      "onboard_time": 1715131880,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 413203,
       "num": 413203,
       "word": "新款iPadAir11英寸起售价599美元",
       "onboard_time": 1715091981,
       "rank": 7,
       "category": "数码"
-    },
-    {
-      "raw_hot": 405744,
-      "num": 361499,
-      "word": "广东300吨冻眠10个月荔枝解冻上市",
-      "onboard_time": 1715131699,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 405522,
@@ -233,6 +249,14 @@
       "onboard_time": 1715125698,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 373136,
+      "num": 373136,
+      "word": "iPad10降价",
+      "onboard_time": 1715131159,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 370722,
@@ -315,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309810,
-      "num": 309810,
-      "word": "iPad10降价",
-      "onboard_time": 1715131159,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 304329,
       "num": 304329,
       "word": "汤唯为金高银颁奖",
@@ -347,22 +363,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 298131,
-      "num": 230406,
-      "word": "儿子吸食上头电子烟父亲大义灭亲",
-      "onboard_time": 1715132840,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290407,
-      "num": 290407,
-      "word": "网友称买的林俊杰演唱会门票变潘玮柏",
-      "onboard_time": 1715131880,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 287698,
       "num": 287698,
       "word": "张艺凡跳舞了",
@@ -371,12 +371,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286439,
+      "num": 192846,
+      "word": "这种月经不调是卵巢癌信号",
+      "onboard_time": 1715133621,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 279462,
       "num": 279462,
       "word": "女子租房9个多月发现对面是墓地",
       "onboard_time": 1715097557,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270870,
+      "num": 178905,
+      "word": "眼球突出真的是因为戴眼镜吗",
+      "onboard_time": 1715134340,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 267985,
+      "num": 178863,
+      "word": "往胡子里插入最多烧烤签子的人",
+      "onboard_time": 1715133799,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 252924,
@@ -507,12 +531,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 197012,
+      "num": 197012,
+      "word": "华为官宣夏季发布会",
+      "onboard_time": 1715133142,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 196562,
       "num": 196562,
       "word": "第一次见这么干净的厨艺",
       "onboard_time": 1715127861,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195581,
+      "num": 190483,
+      "word": "这3处长白头发要注意",
+      "onboard_time": 1715130861,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 193760,
@@ -539,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185641,
+      "num": 185641,
+      "word": "生田斗真迷惑发言激怒日本女性",
+      "onboard_time": 1715133982,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182891,
       "num": 182891,
       "word": "孙颖莎用英语和对手交流",
@@ -561,14 +609,6 @@
       "onboard_time": 1715095702,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 179357,
-      "num": 179357,
-      "word": "这3处长白头发要注意",
-      "onboard_time": 1715130861,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 179041,
@@ -595,8 +635,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164266,
-      "num": 164266,
+      "raw_hot": 164734,
+      "num": 164734,
       "word": "新款iPad被吐槽涨价降配",
       "onboard_time": 1715131640,
       "rank": 40,
@@ -675,6 +715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145122,
+      "num": 145122,
+      "word": "动画还原云南镇雄医院持刀伤人事件",
+      "onboard_time": 1715134640,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143069,
       "num": 143069,
       "word": "橘子 无聊的人类",
@@ -715,6 +763,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 135200,
+      "num": 135200,
+      "word": "看到熊猫为什么自动嘴角上扬",
+      "onboard_time": 1715133262,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133744,
       "num": 133744,
       "word": "秦岚45岁身材管理",
@@ -737,14 +793,6 @@
       "onboard_time": 1715082739,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 128286,
-      "num": 128286,
-      "word": "华为官宣夏季发布会",
-      "onboard_time": 1715133142,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 126500,
@@ -787,6 +835,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 122421,
+      "num": 122421,
+      "word": "小狗也有起床气",
+      "onboard_time": 1715133561,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 122085,
+      "num": 122085,
+      "word": "胖东来确认帮扶郑州一家超市",
+      "onboard_time": 1715134761,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121868,
       "num": 121868,
       "word": "汪汪乐园",
@@ -801,6 +865,14 @@
       "onboard_time": 1715092461,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 120775,
+      "num": 120775,
+      "word": "狼队瓜瓜",
+      "onboard_time": 1715133681,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 119468,
@@ -1039,6 +1111,9 @@
     },
     {
       "word": "#中法元首举行小范围会晤#"
+    },
+    {
+      "word": "#谱写中塞关系发展新篇章#"
     }
   ]
 }
