@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715159939416,
+  "endTime": 1715160859026,
   "band_list": [
     {
       "raw_hot": 1818309,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1590466,
-      "num": 658736,
+      "num": 659888,
       "word": "郑恺说苗苗化妆后孩子就不认识了",
       "onboard_time": 1715153060,
       "rank": 11,
@@ -32,6 +32,14 @@
       "word": "19岁女孩马桶上产子后将其杀害",
       "onboard_time": 1715144124,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1249648,
+      "num": 1249648,
+      "word": "学校拟统一购买600元防攀比鞋",
+      "onboard_time": 1715159720,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -49,6 +57,14 @@
       "onboard_time": 1715148500,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1180759,
+      "num": 390434,
+      "word": "德基",
+      "onboard_time": 1715159660,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1143072,
@@ -107,6 +123,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 958162,
+      "num": 643523,
+      "word": "宝鸡一男子串串店门口被刺身亡",
+      "onboard_time": 1715157320,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 956041,
       "num": 280941,
       "word": "婚检后我被断崖式分手",
@@ -121,14 +145,6 @@
       "onboard_time": 1715127559,
       "rank": 12,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 880315,
-      "num": 491049,
-      "word": "宝鸡一男子串串店门口被刺身亡",
-      "onboard_time": 1715157320,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 878111,
@@ -587,6 +603,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 379602,
+      "num": 379602,
+      "word": "小米SU7新车刚开39公里出故障",
+      "onboard_time": 1715158520,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 375864,
       "num": 375864,
       "word": "松原地震",
@@ -643,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352773,
+      "num": 352773,
+      "word": "GUCCI品牌大使宋威龙",
+      "onboard_time": 1715158641,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 352262,
       "num": 352262,
       "word": "甄嬛传中太监名字都带海的原因",
@@ -697,14 +729,6 @@
       "onboard_time": 1715149341,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 344426,
-      "num": 344426,
-      "word": "小米SU7新车刚开39公里出故障",
-      "onboard_time": 1715158520,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 342026,
@@ -779,14 +803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 316905,
-      "num": 207145,
-      "word": "GUCCI品牌大使宋威龙",
-      "onboard_time": 1715158641,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 314002,
       "num": 314002,
       "word": "美国撤销高通和英特尔对华为出口许可",
@@ -851,12 +867,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 295001,
-      "num": 295001,
-      "word": "德基",
-      "onboard_time": 1715159660,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 297684,
+      "num": 297684,
+      "word": "盗墓笔记 四美",
+      "onboard_time": 1715157380,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 292938,
@@ -883,20 +899,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284433,
+      "num": 249076,
+      "word": "女子被虫咬后从发病到死亡仅7天",
+      "onboard_time": 1715157503,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284002,
       "num": 284002,
       "word": "干部被妻子举报婚内出轨前妻",
       "onboard_time": 1715144604,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283561,
-      "num": 283561,
-      "word": "盗墓笔记 四美",
-      "onboard_time": 1715157380,
-      "rank": 17,
-      "category": "动漫"
     },
     {
       "raw_hot": 282979,
@@ -932,7 +948,7 @@
     },
     {
       "raw_hot": 272925,
-      "num": 207032,
+      "num": 238411,
       "word": "全家的关系比乱葬岗还乱",
       "onboard_time": 1715157680,
       "rank": 24,
@@ -968,14 +984,6 @@
       "word": "电动牙刷真比普通牙刷好用吗",
       "onboard_time": 1715145324,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262383,
-      "num": 206874,
-      "word": "女子被虫咬后从发病到死亡仅7天",
-      "onboard_time": 1715157503,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1019,12 +1027,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 249185,
+      "num": 249185,
+      "word": "多次被罚后椰树去年狂卖50亿",
+      "onboard_time": 1715160321,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249024,
       "num": 249024,
       "word": "文心一言如何看待百度副总裁事件",
       "onboard_time": 1715130680,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 248956,
+      "num": 248956,
+      "word": "李惠利离开前经纪公司",
+      "onboard_time": 1715160261,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 239299,
@@ -1243,14 +1267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199851,
-      "num": 199851,
-      "word": "学校拟统一购买600元防攀比鞋",
-      "onboard_time": 1715159720,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199531,
       "num": 199531,
       "word": "王一博赛道赛车",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1715133142,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 196728,
+      "num": 196728,
+      "word": "福建舰",
+      "onboard_time": 1715160562,
+      "rank": 27,
+      "category": "军事"
     },
     {
       "raw_hot": 196574,
@@ -1579,6 +1603,30 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 163164,
+      "num": 162811,
+      "word": "黄觉 芳心灭火器",
+      "onboard_time": 1715160381,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162815,
+      "num": 162815,
+      "word": "陈梦王曼昱vs王艺迪陈幸同",
+      "onboard_time": 1715160741,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162789,
+      "num": 162789,
+      "word": "井柏然提醒大家网恋奔现要谨慎",
+      "onboard_time": 1715160499,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162216,
       "num": 162216,
       "word": "孙颖莎3比0伊莎贝拉",
@@ -1619,6 +1667,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 160144,
+      "num": 160144,
+      "word": "浙江专升本 能不能查",
+      "onboard_time": 1715160562,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 154638,
       "num": 154638,
       "word": "化完妆以后最灾难的事",
@@ -1641,6 +1697,14 @@
       "onboard_time": 1715129542,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153479,
+      "num": 153479,
+      "word": "疾控在高烧老人家中找出近200只蜱虫",
+      "onboard_time": 1715160381,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152594,
@@ -1785,6 +1849,14 @@
       "onboard_time": 1715120292,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142016,
+      "num": 142016,
+      "word": "奶茶店的牛乳茶为啥不叫牛奶茶",
+      "onboard_time": 1715159839,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 141836,
@@ -1947,14 +2019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124804,
-      "num": 124804,
-      "word": "奶茶店的牛乳茶为啥不叫牛奶茶",
-      "onboard_time": 1715159839,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 123928,
       "num": 123928,
       "word": "ApplePencilPro发布",
@@ -2017,6 +2081,14 @@
       "onboard_time": 1715135900,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 120010,
+      "num": 120010,
+      "word": "陈梦王曼昱晋级女双4强",
+      "onboard_time": 1715160799,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 119468,
@@ -2084,7 +2156,7 @@
     },
     {
       "raw_hot": 107932,
-      "num": 658786,
+      "num": 681032,
       "word": "塞尔维亚小女孩展示中国功夫",
       "onboard_time": 1715156899,
       "rank": 2,
@@ -2156,7 +2228,7 @@
     },
     {
       "raw_hot": 79566,
-      "num": 309329,
+      "num": 395269,
       "word": "五一假期多项数据创新高",
       "onboard_time": 1715139500,
       "rank": 9,
