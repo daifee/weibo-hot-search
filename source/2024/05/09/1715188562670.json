@@ -1,0 +1,410 @@
+{
+  "runTime": 1715188562670,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 656016,
+        "num": 656016,
+        "word": "榴莲一斤跌破10元",
+        "onboard_time": 1715183899,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 388353,
+        "num": 388353,
+        "word": "黄好厉害",
+        "onboard_time": 1715182640,
+        "rank": 1,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 13888,
+        "num": 320318,
+        "word": "150秒了解中塞铁杆友谊",
+        "onboard_time": 1715173159,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 302250,
+        "num": 302250,
+        "word": "第一批去日本扫货的人已经被税了",
+        "onboard_time": 1715170039,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233469,
+        "num": 233469,
+        "word": "白月光诺澜杀回来了",
+        "onboard_time": 1715174181,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201874,
+        "num": 201874,
+        "word": "学校拟统一购买600元防攀比鞋",
+        "onboard_time": 1715159720,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199768,
+        "num": 199768,
+        "word": "爱马适",
+        "onboard_time": 1715184498,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180745,
+        "num": 180745,
+        "word": "安宥真 舞台上尽情绽放的红玫瑰",
+        "onboard_time": 1715182640,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153788,
+        "num": 153788,
+        "word": "中国游客被塞尔维亚司机夸得害羞又自豪",
+        "onboard_time": 1715180901,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27583,
+        "num": 152260,
+        "word": "塞尔维亚老铁练太极超过十年",
+        "onboard_time": 1715184019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458455,
+        "num": 152181,
+        "word": "以色列威胁联合国",
+        "onboard_time": 1715179820,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 191831,
+        "num": 152130,
+        "word": "谁来救救张翰",
+        "onboard_time": 1715185998,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151628,
+        "num": 151628,
+        "word": "辽粤决战现场失控",
+        "onboard_time": 1715180361,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170427,
+        "num": 149127,
+        "word": "假球",
+        "onboard_time": 1715175681,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128117,
+        "num": 128117,
+        "word": "被一只怀孕的流浪猫求助了",
+        "onboard_time": 1715180421,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110976,
+        "num": 110976,
+        "word": "王鹤棣工作室出图了",
+        "onboard_time": 1715182579,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104147,
+        "num": 104147,
+        "word": "郑恺说苗苗化妆后孩子就不认识了",
+        "onboard_time": 1715153060,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101243,
+        "num": 101243,
+        "word": "杨幂说再来一次会把关雪演的更好",
+        "onboard_time": 1715173398,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98200,
+        "num": 98200,
+        "word": "樊振东2比3弗朗西斯卡",
+        "onboard_time": 1715172740,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90734,
+        "num": 90734,
+        "word": "张新成去清华了",
+        "onboard_time": 1715170039,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 999864,
+        "num": 90245,
+        "word": "花少北恋爱",
+        "onboard_time": 1715180361,
+        "rank": 20,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 238087,
+        "num": 87455,
+        "word": "有人倒放了iPad Pro的广告",
+        "onboard_time": 1715180540,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 99638,
+        "num": 86850,
+        "word": "商场里试衣服一定要留点心",
+        "onboard_time": 1715173580,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 430114,
+        "num": 85228,
+        "word": "花少北手机壳",
+        "onboard_time": 1715181080,
+        "rank": 23,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 83415,
+        "num": 83415,
+        "word": "新生",
+        "onboard_time": 1715172740,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78789,
+        "num": 78789,
+        "word": "优酷代言人",
+        "onboard_time": 1715170098,
+        "rank": 25,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 75377,
+        "num": 75377,
+        "word": "张雨绮皮蛋项链",
+        "onboard_time": 1715186775,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74553,
+        "num": 74553,
+        "word": "内脏脂肪有多难减",
+        "onboard_time": 1715178501,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 73469,
+        "num": 73469,
+        "word": "海底捞回应4人含玻璃渣吃火锅敲诈",
+        "onboard_time": 1715164580,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69943,
+        "num": 69943,
+        "word": "淘宝免单",
+        "onboard_time": 1715174120,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 243209,
+        "num": 69768,
+        "word": "元气森林就肖战海报事件致歉",
+        "onboard_time": 1715172560,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86793,
+        "num": 69719,
+        "word": "杨幂曾4个月拍了5部戏",
+        "onboard_time": 1715167159,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69471,
+        "num": 69471,
+        "word": "陈少熙 狗叫之夜",
+        "onboard_time": 1715177541,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67837,
+        "num": 67837,
+        "word": "19岁女孩马桶上产子后将其杀害",
+        "onboard_time": 1715144124,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65335,
+        "num": 65335,
+        "word": "我的阿勒泰赛博吸氧剧",
+        "onboard_time": 1715173280,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62701,
+        "num": 62701,
+        "word": "体制内可以干的兼职",
+        "onboard_time": 1715175561,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57814,
+        "num": 57814,
+        "word": "宋茜演技",
+        "onboard_time": 1715173880,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57807,
+        "num": 57807,
+        "word": "欧豪听到有李一桐就来了",
+        "onboard_time": 1715180061,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54523,
+        "num": 57806,
+        "word": "河南说唱之神 工厂",
+        "onboard_time": 1715185817,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54400,
+        "num": 57801,
+        "word": "SM开通淘宝旗舰店",
+        "onboard_time": 1715166319,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51542,
+        "num": 57800,
+        "word": "黎明回应",
+        "onboard_time": 1715167698,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51532,
+        "num": 57795,
+        "word": "南京德基一男子坠亡警方正调查",
+        "onboard_time": 1715166199,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50390,
+        "num": 57792,
+        "word": "赵丽颖杨幂 戛纳",
+        "onboard_time": 1715148500,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49533,
+        "num": 57790,
+        "word": "柯南新剧场版 cp党的天堂",
+        "onboard_time": 1715178080,
+        "rank": 43,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 47453,
+        "num": 57789,
+        "word": "刘宇宁傅菁演情侣",
+        "onboard_time": 1715177902,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46016,
+        "num": 57784,
+        "word": "第一批00后已经开始做家政了",
+        "onboard_time": 1715188394,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43746,
+        "num": 57781,
+        "word": "周琦离场",
+        "onboard_time": 1715176580,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43682,
+        "num": 57780,
+        "word": "杜峰采访",
+        "onboard_time": 1715182522,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42265,
+        "num": 57776,
+        "word": "陈哲远娜扎cp感",
+        "onboard_time": 1715182339,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40729,
+        "num": 57772,
+        "word": "第一次见到羊噘嘴",
+        "onboard_time": 1715180540,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中塞关系更加美好的未来正在徐徐展现#"
+    }
+  }
+}
