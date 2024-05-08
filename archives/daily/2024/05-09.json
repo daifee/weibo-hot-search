@@ -1,6 +1,6 @@
 {
   "startTime": 1715185399055,
-  "endTime": 1715210367436,
+  "endTime": 1715211338915,
   "band_list": [
     {
       "raw_hot": 2063500,
@@ -11,8 +11,8 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 895304,
-      "num": 895304,
+      "raw_hot": 1090556,
+      "num": 1090556,
       "word": "医保卡里的钱可以给亲人买药吗",
       "onboard_time": 1715201710,
       "rank": 16,
@@ -41,6 +41,14 @@
       "onboard_time": 1715184558,
       "rank": 0,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 686081,
+      "num": 686081,
+      "word": "第一批00后已经开始做家政了",
+      "onboard_time": 1715188394,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 635373,
@@ -83,11 +91,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 549421,
-      "num": 549421,
-      "word": "第一批00后已经开始做家政了",
-      "onboard_time": 1715188394,
-      "rank": 45,
+      "raw_hot": 535462,
+      "num": 535462,
+      "word": "第一批去日本扫货的人已经被税了",
+      "onboard_time": 1715170039,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -99,20 +107,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 476134,
-      "num": 476134,
-      "word": "第一批去日本扫货的人已经被税了",
-      "onboard_time": 1715170039,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 397826,
       "num": 397826,
       "word": "被一只怀孕的流浪猫求助了",
       "onboard_time": 1715180421,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 396673,
+      "num": 320092,
+      "word": "学校拟统一购买600元防攀比鞋",
+      "onboard_time": 1715159720,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385459,
+      "num": 385459,
+      "word": "东部战区回应美导弹驱逐舰过台湾海峡",
+      "onboard_time": 1715210235,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 364175,
@@ -123,16 +139,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 320092,
-      "num": 320092,
-      "word": "学校拟统一购买600元防攀比鞋",
-      "onboard_time": 1715159720,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 305126,
-      "num": 305126,
+      "raw_hot": 350900,
+      "num": 350900,
       "word": "皇马2比1拜仁",
       "onboard_time": 1715209695,
       "rank": 6,
@@ -161,6 +169,14 @@
       "onboard_time": 1715182579,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 223628,
+      "num": 121076,
+      "word": "水果店开了二十几年只卖香蕉",
+      "onboard_time": 1715202670,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220921,
@@ -211,20 +227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196157,
+      "num": 196157,
+      "word": "港娱有自己的继承者",
+      "onboard_time": 1715207592,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195784,
       "num": 195784,
       "word": "欧冠",
       "onboard_time": 1715209695,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192563,
-      "num": 98990,
-      "word": "水果店开了二十几年只卖香蕉",
-      "onboard_time": 1715202670,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191831,
@@ -243,12 +259,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180405,
+      "num": 180405,
+      "word": "杨幂说再来一次会把关雪演的更好",
+      "onboard_time": 1715173398,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178585,
       "num": 168111,
       "word": "内脏脂肪有多难减",
       "onboard_time": 1715178501,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 172677,
+      "num": 172677,
+      "word": "妙可蓝多反式脂肪酸",
+      "onboard_time": 1715210536,
+      "rank": 13,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 172648,
@@ -275,12 +307,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156346,
-      "num": 156346,
-      "word": "港娱有自己的继承者",
-      "onboard_time": 1715207592,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 161152,
+      "num": 120903,
+      "word": "5种食物是寄生虫重灾区",
+      "onboard_time": 1715210235,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 152869,
@@ -291,12 +323,20 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 146159,
-      "num": 146159,
-      "word": "杨幂说再来一次会把关雪演的更好",
-      "onboard_time": 1715173398,
-      "rank": 32,
+      "raw_hot": 151391,
+      "num": 151391,
+      "word": "漫长的季节央视定档",
+      "onboard_time": 1715203991,
+      "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142959,
+      "num": 120708,
+      "word": "为什么建议减肥人群喝黑咖啡",
+      "onboard_time": 1715190072,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 142629,
@@ -305,14 +345,6 @@
       "onboard_time": 1715177541,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141546,
-      "num": 141546,
-      "word": "漫长的季节央视定档",
-      "onboard_time": 1715203991,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 140200,
@@ -331,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136104,
+      "num": 136104,
+      "word": "灵隐寺的七叶古树开花了",
+      "onboard_time": 1715210776,
+      "rank": 15,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 132335,
       "num": 132335,
       "word": "淘宝免单",
@@ -339,12 +379,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 131508,
-      "num": 98162,
-      "word": "为什么建议减肥人群喝黑咖啡",
-      "onboard_time": 1715190072,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 128319,
+      "num": 128319,
+      "word": "中国和塞尔维亚发布联合声明",
+      "onboard_time": 1715210656,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 126932,
@@ -403,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97263,
+      "num": 97263,
+      "word": "晚上十点女寝楼下的流水线",
+      "onboard_time": 1715197331,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96474,
       "num": 122799,
       "word": "SM开通淘宝旗舰店",
@@ -451,20 +499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 89088,
-      "num": 89088,
-      "word": "晚上十点女寝楼下的流水线",
-      "onboard_time": 1715197331,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 87367,
-      "num": 87367,
-      "word": "5种食物是寄生虫重灾区",
-      "onboard_time": 1715210235,
-      "rank": 28,
-      "category": "科学科普"
+      "raw_hot": 90089,
+      "num": 90089,
+      "word": "张雨绮皮蛋项链",
+      "onboard_time": 1715186775,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 86784,
@@ -488,6 +528,14 @@
       "word": "杜峰采访",
       "onboard_time": 1715182522,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83282,
+      "num": 83282,
+      "word": "樊振东与波尔一起看欧冠",
+      "onboard_time": 1715209935,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -515,6 +563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78703,
+      "num": 78703,
+      "word": "龚俊我真服了2.0版",
+      "onboard_time": 1715210955,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77593,
       "num": 77593,
       "word": "河南说唱之神 工厂",
@@ -531,14 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75377,
-      "num": 75377,
-      "word": "张雨绮皮蛋项链",
-      "onboard_time": 1715186775,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 72941,
       "num": 122768,
       "word": "皇后剪秋搂腰直拍",
@@ -547,32 +595,24 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 70988,
-      "num": 70988,
-      "word": "东部战区回应美导弹驱逐舰过台湾海峡",
-      "onboard_time": 1715210235,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 68676,
-      "num": 68676,
-      "word": "樊振东与波尔一起看欧冠",
-      "onboard_time": 1715209935,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 72820,
+      "num": 72820,
+      "word": "官方通报兰州恒大山水城铺面下塌",
+      "onboard_time": 1715211136,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65292,
-      "num": 65292,
+      "num": 72606,
       "word": "医保局回应医保卡的钱能不能给亲人买药",
       "onboard_time": 1715202490,
       "rank": 31,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59757,
-      "num": 59757,
+      "raw_hot": 64793,
+      "num": 72655,
       "word": "杨紫请国色芳华吃承欢记定制雪糕",
       "onboard_time": 1715203391,
       "rank": 45,
@@ -595,8 +635,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23460,
-      "num": 553940,
+      "raw_hot": 25111,
+      "num": 583421,
       "word": "150秒了解中塞铁杆友谊",
       "onboard_time": 1715173159,
       "rank": 2,
