@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715130958631,
+  "endTime": 1715133197488,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -2635,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 675181,
+      "num": 364981,
+      "word": "小龙虾很脏完全是误解",
+      "onboard_time": 1715131640,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 674521,
       "num": 663704,
       "word": "1家5口被海浪卷走4人不幸遇难",
@@ -4020,7 +4028,7 @@
     },
     {
       "raw_hot": 501573,
-      "num": 400097,
+      "num": 468578,
       "word": "武契奇夫妇在机场热情迎接",
       "onboard_time": 1715128099,
       "rank": 13,
@@ -4209,6 +4217,14 @@
       "onboard_time": 1714634838,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 480798,
+      "num": 281170,
+      "word": "有些水果不甜但巨长胖",
+      "onboard_time": 1715126780,
+      "rank": 21,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 480647,
@@ -4515,14 +4531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 459657,
-      "num": 281170,
-      "word": "有些水果不甜但巨长胖",
-      "onboard_time": 1715126780,
-      "rank": 21,
-      "category": "科学科普,健康医疗"
-    },
-    {
       "raw_hot": 459290,
       "num": 459290,
       "word": "叫花鸡里没有鸡涉事商家被查",
@@ -4537,6 +4545,14 @@
       "onboard_time": 1715084898,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 458336,
+      "num": 458336,
+      "word": "张萱为男友整容",
+      "onboard_time": 1715130502,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 458271,
@@ -5363,6 +5379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405744,
+      "num": 361499,
+      "word": "广东300吨冻眠10个月荔枝解冻上市",
+      "onboard_time": 1715131699,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405522,
       "num": 405522,
       "word": "Apple pencil",
@@ -5897,6 +5921,14 @@
       "onboard_time": 1714828701,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 370722,
+      "num": 370722,
+      "word": "隐忍一天的宝宝终于爆发了",
+      "onboard_time": 1715129183,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 369771,
@@ -6499,6 +6531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334658,
+      "num": 334658,
+      "word": "半夜醒了一定别看时间",
+      "onboard_time": 1715128703,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 334372,
       "num": 178740,
       "word": "塞尔维亚街头现巨幅中国国旗",
@@ -6515,14 +6555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 333742,
-      "num": 301869,
-      "word": "半夜醒了一定别看时间",
-      "onboard_time": 1715128703,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 333662,
       "num": 333662,
       "word": "张若昀切范闲大号上线了",
@@ -6537,6 +6569,14 @@
       "onboard_time": 1714995078,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333267,
+      "num": 405122,
+      "word": "法国人把法棍配方写进了法律",
+      "onboard_time": 1715130023,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332815,
@@ -6931,6 +6971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 313224,
+      "num": 313224,
+      "word": "有人打着罗翔的名义谈恋爱",
+      "onboard_time": 1715130263,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313016,
       "num": 887411,
       "word": "塞尔维亚首都街头飘扬中国红",
@@ -6969,6 +7017,14 @@
       "onboard_time": 1715075659,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 309810,
+      "num": 309810,
+      "word": "iPad10降价",
+      "onboard_time": 1715131159,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 309509,
@@ -7139,14 +7195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 299926,
-      "num": 299926,
-      "word": "隐忍一天的宝宝终于爆发了",
-      "onboard_time": 1715129183,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 299879,
       "num": 264723,
       "word": "纪凌尘 你别再演了",
@@ -7177,6 +7225,14 @@
       "onboard_time": 1714978998,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298131,
+      "num": 230406,
+      "word": "儿子吸食上头电子烟父亲大义灭亲",
+      "onboard_time": 1715132840,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298121,
@@ -7305,6 +7361,14 @@
       "onboard_time": 1714864935,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290407,
+      "num": 290407,
+      "word": "网友称买的林俊杰演唱会门票变潘玮柏",
+      "onboard_time": 1715131880,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 290291,
@@ -7881,14 +7945,6 @@
       "onboard_time": 1714626678,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 267516,
-      "num": 267516,
-      "word": "张萱为男友整容",
-      "onboard_time": 1715130502,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 267113,
@@ -8979,6 +9035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232262,
+      "num": 232262,
+      "word": "李现酱园弄角色",
+      "onboard_time": 1715131221,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 232060,
       "num": 411894,
       "word": "90后靠讲古代文学存了400万",
@@ -9531,6 +9595,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 217497,
+      "num": 217497,
+      "word": "为什么碗有了裂纹要尽快换掉",
+      "onboard_time": 1715129183,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 217479,
       "num": 217479,
       "word": "撕漫女迪丽热巴",
@@ -9545,14 +9617,6 @@
       "onboard_time": 1714567819,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 217073,
-      "num": 217073,
-      "word": "有人打着罗翔的名义谈恋爱",
-      "onboard_time": 1715130263,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216946,
@@ -10043,14 +10107,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 208336,
-      "num": 208336,
-      "word": "为什么碗有了裂纹要尽快换掉",
-      "onboard_time": 1715129183,
-      "rank": 37,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 208234,
       "num": 208234,
       "word": "张镇麟11分",
@@ -10291,6 +10347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204907,
+      "num": 204907,
+      "word": "女子剖腹产后被家人用吊车送上7楼",
+      "onboard_time": 1715132181,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204905,
       "num": 236062,
       "word": "陆虎好爱十个勤天",
@@ -10473,6 +10537,14 @@
       "onboard_time": 1715007559,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 202613,
+      "num": 197094,
+      "word": "Home键取消你觉得遗憾吗",
+      "onboard_time": 1715132060,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 202516,
@@ -11379,6 +11451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193534,
+      "num": 193534,
+      "word": "百想眼泪女王颗粒无收",
+      "onboard_time": 1715130861,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193527,
       "num": 193527,
       "word": "丁程鑫 monster直拍",
@@ -11987,14 +12067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186968,
-      "num": 405122,
-      "word": "法国人把法棍配方写进了法律",
-      "onboard_time": 1715130023,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186963,
       "num": 477010,
       "word": "尤伯杯中国队进决赛",
@@ -12299,6 +12371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182891,
+      "num": 182891,
+      "word": "孙颖莎用英语和对手交流",
+      "onboard_time": 1715132481,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182865,
       "num": 182865,
       "word": "库克称中国iPhone销售意外增长",
@@ -12545,6 +12625,14 @@
       "onboard_time": 1714889898,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179357,
+      "num": 179357,
+      "word": "这3处长白头发要注意",
+      "onboard_time": 1715130861,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 179337,
@@ -13323,6 +13411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170448,
+      "num": 170448,
+      "word": "新款iPadPro仅1枚广角主摄",
+      "onboard_time": 1715132601,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 170288,
       "num": 170288,
       "word": "赴山海女主",
@@ -13801,6 +13897,14 @@
       "onboard_time": 1714632257,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164266,
+      "num": 164266,
+      "word": "新款iPad被吐槽涨价降配",
+      "onboard_time": 1715131640,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 164173,
@@ -15001,6 +15105,14 @@
       "onboard_time": 1715088559,
       "rank": 45,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 150178,
+      "num": 150178,
+      "word": "井柏然演渣男",
+      "onboard_time": 1715131580,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 150010,
@@ -16379,14 +16491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 133983,
-      "num": 133983,
-      "word": "百想眼泪女王颗粒无收",
-      "onboard_time": 1715130861,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133968,
       "num": 133968,
       "word": "电影包场",
@@ -16449,6 +16553,14 @@
       "onboard_time": 1714993039,
       "rank": 45,
       "category": "科学科普,情感"
+    },
+    {
+      "raw_hot": 133239,
+      "num": 133239,
+      "word": "新款iPadPro仍不支持息屏常显",
+      "onboard_time": 1715131281,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 133168,
@@ -16835,6 +16947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128286,
+      "num": 128286,
+      "word": "华为官宣夏季发布会",
+      "onboard_time": 1715133142,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 128214,
       "num": 128214,
       "word": "真有人把留学生当免费代购",
@@ -17129,14 +17249,6 @@
       "onboard_time": 1715062699,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 124702,
-      "num": 124702,
-      "word": "这3处长白头发要注意",
-      "onboard_time": 1715130861,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 124470,
