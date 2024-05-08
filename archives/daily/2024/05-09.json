@@ -1,6 +1,6 @@
 {
   "startTime": 1715185399055,
-  "endTime": 1715193401927,
+  "endTime": 1715195699137,
   "band_list": [
     {
       "raw_hot": 2063500,
@@ -457,6 +457,22 @@
       "onboard_time": 1715177061,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18557,
+      "num": 19376,
+      "word": "黄宗泽晒刚入行照",
+      "onboard_time": 1715194391,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 15717,
+      "num": 19363,
+      "word": "狼队第五人格",
+      "onboard_time": 1715195652,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 13987,

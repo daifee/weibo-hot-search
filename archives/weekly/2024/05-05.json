@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715193401927,
+  "endTime": 1715195699137,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -11875,12 +11875,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 18557,
+      "num": 19376,
+      "word": "黄宗泽晒刚入行照",
+      "onboard_time": 1715194391,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17451,
       "num": 17451,
       "word": "新款iPadPro搭载M4芯片",
       "onboard_time": 1715092881,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 15717,
+      "num": 19363,
+      "word": "狼队第五人格",
+      "onboard_time": 1715195652,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 14087,
