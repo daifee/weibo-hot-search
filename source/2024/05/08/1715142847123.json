@@ -1,0 +1,410 @@
+{
+  "runTime": 1715142847123,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1064455,
+        "num": 1064455,
+        "word": "专家建议让年轻人缴费为家乡父母养老",
+        "onboard_time": 1715141122,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794893,
+        "num": 794893,
+        "word": "史上最薄iPad",
+        "onboard_time": 1715135959,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 70777,
+        "num": 745493,
+        "word": "一座百年钢厂见证中塞铁杆友谊",
+        "onboard_time": 1715140040,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1633392,
+        "num": 732477,
+        "word": "椰树涉擦边广告被罚40万",
+        "onboard_time": 1715136979,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1136012,
+        "num": 729082,
+        "word": "被妻子举报婚内出轨干部回应",
+        "onboard_time": 1715137701,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705403,
+        "num": 705403,
+        "word": "演唱会允许部分歌手闭麦让观众先唱",
+        "onboard_time": 1715140283,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 540791,
+        "num": 540791,
+        "word": "杨幂酱园弄人设",
+        "onboard_time": 1715138360,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 433298,
+        "num": 433298,
+        "word": "广东300吨冻眠10个月荔枝解冻上市",
+        "onboard_time": 1715131699,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99283,
+        "num": 377498,
+        "word": "嫦娥六号成功实施近月制动",
+        "onboard_time": 1715135481,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70980,
+        "num": 364222,
+        "word": "来一场古风国潮旅游",
+        "onboard_time": 1715139983,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 840107,
+        "num": 364202,
+        "word": "淘宝免单",
+        "onboard_time": 1715136079,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 364039,
+        "num": 364039,
+        "word": "柯南 小兰票选第一",
+        "onboard_time": 1715136500,
+        "rank": 11,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 359263,
+        "num": 359263,
+        "word": "榴莲自由要实现了",
+        "onboard_time": 1715141422,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 350447,
+        "num": 350447,
+        "word": "孟子义cue黄子韬是初代男团",
+        "onboard_time": 1715140040,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337492,
+        "num": 337492,
+        "word": "沈星回 我的光猎大人",
+        "onboard_time": 1715140583,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 327477,
+        "num": 327477,
+        "word": "小龙虾很脏完全是误解",
+        "onboard_time": 1715131640,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107478,
+        "num": 324000,
+        "word": "妈妈是第一个挺你的人",
+        "onboard_time": 1715139622,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323284,
+        "num": 323284,
+        "word": "淘宝 156",
+        "onboard_time": 1715142504,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 284906,
+        "num": 284906,
+        "word": "庆余年范闲一家",
+        "onboard_time": 1715140942,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282979,
+        "num": 282979,
+        "word": "A股",
+        "onboard_time": 1715141362,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 809516,
+        "num": 280941,
+        "word": "婚检后我被断崖式分手",
+        "onboard_time": 1715136261,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 714614,
+        "num": 277414,
+        "word": "原来真有yue这个字",
+        "onboard_time": 1715138541,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 574249,
+        "num": 274402,
+        "word": "刘亦菲毕业论文答辩全班最高分",
+        "onboard_time": 1715142142,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528514,
+        "num": 273299,
+        "word": "杨幂ip在美国",
+        "onboard_time": 1715138781,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383139,
+        "num": 268673,
+        "word": "儿子吸食上头电子烟父亲大义灭亲",
+        "onboard_time": 1715132840,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283139,
+        "num": 265541,
+        "word": "你并不需要读完本科立即读硕士",
+        "onboard_time": 1715140522,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 263972,
+        "num": 263972,
+        "word": "酱园弄中的易烊千玺",
+        "onboard_time": 1715135900,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258634,
+        "num": 258634,
+        "word": "有些水果不甜但巨长胖",
+        "onboard_time": 1715126780,
+        "rank": 27,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 125614,
+        "num": 254948,
+        "word": "塞尔维亚首都多处点亮中国红",
+        "onboard_time": 1715136979,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42425,
+        "num": 253686,
+        "word": "发量自由是一种什么体验",
+        "onboard_time": 1715141724,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 252471,
+        "num": 252471,
+        "word": "星期三放假非常科学的理由",
+        "onboard_time": 1715134881,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235701,
+        "num": 235701,
+        "word": "女子担心被扣费手抖输错密码躲过电诈",
+        "onboard_time": 1715139983,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230420,
+        "num": 230420,
+        "word": "这个宝宝一出生就15岁了",
+        "onboard_time": 1715087539,
+        "rank": 32,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 208862,
+        "num": 208862,
+        "word": "网友称买的林俊杰演唱会门票变潘玮柏",
+        "onboard_time": 1715131880,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202867,
+        "num": 202867,
+        "word": "美国撤销高通和英特尔对华为出口许可",
+        "onboard_time": 1715141843,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200163,
+        "num": 200163,
+        "word": "苹果实体Home键平板下架",
+        "onboard_time": 1715125518,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 200115,
+        "num": 200115,
+        "word": "隐忍一天的宝宝终于爆发了",
+        "onboard_time": 1715129183,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190576,
+        "num": 190576,
+        "word": "杨幂ELLE封面",
+        "onboard_time": 1715142683,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185701,
+        "num": 185701,
+        "word": "于适演技",
+        "onboard_time": 1715136861,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184271,
+        "num": 184271,
+        "word": "一种很新的上班头像",
+        "onboard_time": 1715142623,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180263,
+        "num": 180263,
+        "word": "戚薇说最有热度是夏友善时期",
+        "onboard_time": 1715140643,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178235,
+        "num": 178235,
+        "word": "恋与深空",
+        "onboard_time": 1715138123,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175818,
+        "num": 175818,
+        "word": "章子怡王传君酱园弄演夫妻",
+        "onboard_time": 1715139500,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174740,
+        "num": 174740,
+        "word": "Tims涨价",
+        "onboard_time": 1715142323,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174494,
+        "num": 174494,
+        "word": "魏哲鸣花神造型",
+        "onboard_time": 1715142265,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171345,
+        "num": 171345,
+        "word": "眼泪女王没获奖的原因",
+        "onboard_time": 1715129121,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170550,
+        "num": 170550,
+        "word": "赵梓婷 张露文",
+        "onboard_time": 1715127559,
+        "rank": 46,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 169858,
+        "num": 169858,
+        "word": "费可人设",
+        "onboard_time": 1715129362,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164913,
+        "num": 164913,
+        "word": "狼队经理 职场霸凌",
+        "onboard_time": 1715139082,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163907,
+        "num": 163907,
+        "word": "男朋友在KTV练起了教资面试",
+        "onboard_time": 1715141242,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对塞尔维亚进行国事访问#"
+    }
+  }
+}

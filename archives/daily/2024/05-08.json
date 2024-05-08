@@ -1,10 +1,10 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715141967595,
+  "endTime": 1715142847123,
   "band_list": [
     {
-      "raw_hot": 1592439,
-      "num": 493885,
+      "raw_hot": 1633392,
+      "num": 732477,
       "word": "椰树涉擦边广告被罚40万",
       "onboard_time": 1715136979,
       "rank": 3,
@@ -19,6 +19,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1136012,
+      "num": 729082,
+      "word": "被妻子举报婚内出轨干部回应",
+      "onboard_time": 1715137701,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1104125,
       "num": 509512,
       "word": "这个宝宝一出生就15岁了",
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1095305,
-      "num": 337698,
+      "num": 364202,
       "word": "淘宝免单",
       "onboard_time": 1715136079,
       "rank": 10,
@@ -43,6 +51,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1064455,
+      "num": 1064455,
+      "word": "专家建议让年轻人缴费为家乡父母养老",
+      "onboard_time": 1715141122,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 968245,
       "num": 364981,
       "word": "小龙虾很脏完全是误解",
@@ -52,19 +68,11 @@
     },
     {
       "raw_hot": 956041,
-      "num": 255759,
+      "num": 280941,
       "word": "婚检后我被断崖式分手",
       "onboard_time": 1715136261,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 954494,
-      "num": 429779,
-      "word": "被妻子举报婚内出轨干部回应",
-      "onboard_time": 1715137701,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 910093,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 808446,
-      "num": 250196,
+      "num": 277414,
       "word": "原来真有yue这个字",
       "onboard_time": 1715138541,
       "rank": 22,
@@ -124,11 +132,19 @@
     },
     {
       "raw_hot": 742185,
-      "num": 249561,
+      "num": 268673,
       "word": "儿子吸食上头电子烟父亲大义灭亲",
       "onboard_time": 1715132840,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 705403,
+      "num": 705403,
+      "word": "演唱会允许部分歌手闭麦让观众先唱",
+      "onboard_time": 1715140283,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 703730,
@@ -171,14 +187,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 611440,
-      "num": 335220,
-      "word": "演唱会允许部分歌手闭麦让观众先唱",
-      "onboard_time": 1715140283,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 604841,
       "num": 604841,
       "word": "广东300吨冻眠10个月荔枝解冻上市",
@@ -196,15 +204,23 @@
     },
     {
       "raw_hot": 579975,
-      "num": 243543,
+      "num": 273299,
       "word": "杨幂ip在美国",
       "onboard_time": 1715138781,
       "rank": 25,
       "category": "艺人"
     },
     {
+      "raw_hot": 574249,
+      "num": 274402,
+      "word": "刘亦菲毕业论文答辩全班最高分",
+      "onboard_time": 1715142142,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 551386,
-      "num": 404547,
+      "num": 540791,
       "word": "杨幂酱园弄人设",
       "onboard_time": 1715138360,
       "rank": 41,
@@ -371,14 +387,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 382276,
-      "num": 332782,
-      "word": "专家建议让年轻人缴费为家乡父母养老",
-      "onboard_time": 1715141122,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 375864,
       "num": 375864,
       "word": "松原地震",
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359263,
+      "num": 359263,
+      "word": "榴莲自由要实现了",
+      "onboard_time": 1715141422,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 352994,
       "num": 352994,
       "word": "警方通报太原一男子发表辱华言论",
@@ -411,8 +427,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350447,
+      "num": 350447,
+      "word": "孟子义cue黄子韬是初代男团",
+      "onboard_time": 1715140040,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350068,
-      "num": 240196,
+      "num": 252471,
       "word": "星期三放假非常科学的理由",
       "onboard_time": 1715134881,
       "rank": 39,
@@ -475,12 +499,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 329336,
-      "num": 329336,
-      "word": "孟子义cue黄子韬是初代男团",
-      "onboard_time": 1715140040,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 323284,
+      "num": 323284,
+      "word": "淘宝 156",
+      "onboard_time": 1715142504,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 320012,
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 292938,
-      "num": 225580,
+      "num": 265541,
       "word": "你并不需要读完本科立即读硕士",
       "onboard_time": 1715140522,
       "rank": 26,
@@ -561,6 +585,22 @@
       "onboard_time": 1715129422,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 284906,
+      "num": 284906,
+      "word": "庆余年范闲一家",
+      "onboard_time": 1715140942,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 282979,
+      "num": 282979,
+      "word": "A股",
+      "onboard_time": 1715141362,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 279462,
@@ -595,14 +635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 261511,
-      "num": 261511,
-      "word": "庆余年范闲一家",
-      "onboard_time": 1715140942,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252924,
       "num": 218664,
       "word": "金秀贤泡泡",
@@ -635,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235701,
+      "num": 235701,
+      "word": "女子担心被扣费手抖输错密码躲过电诈",
+      "onboard_time": 1715139983,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234760,
       "num": 393913,
       "word": "多特蒙德晋级欧冠决赛",
@@ -657,14 +697,6 @@
       "onboard_time": 1715128342,
       "rank": 28,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 221173,
-      "num": 221173,
-      "word": "女子担心被扣费手抖输错密码躲过电诈",
-      "onboard_time": 1715139983,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219559,
@@ -739,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202867,
+      "num": 202867,
+      "word": "美国撤销高通和英特尔对华为出口许可",
+      "onboard_time": 1715141843,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202613,
       "num": 197094,
       "word": "Home键取消你觉得遗憾吗",
@@ -753,14 +793,6 @@
       "onboard_time": 1715124497,
       "rank": 16,
       "category": "数码"
-    },
-    {
-      "raw_hot": 198711,
-      "num": 198711,
-      "word": "榴莲自由要实现了",
-      "onboard_time": 1715141422,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 197404,
@@ -811,12 +843,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192561,
-      "num": 192561,
-      "word": "A股",
-      "onboard_time": 1715141362,
+      "raw_hot": 190576,
+      "num": 190576,
+      "word": "杨幂ELLE封面",
+      "onboard_time": 1715142683,
       "rank": 37,
-      "category": "财经"
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 187432,
@@ -835,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184271,
+      "num": 184271,
+      "word": "一种很新的上班头像",
+      "onboard_time": 1715142623,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182891,
       "num": 182891,
       "word": "孙颖莎用英语和对手交流",
@@ -848,6 +888,14 @@
       "word": "刘涛说郑佩佩身体已经不太好了",
       "onboard_time": 1715068938,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180263,
+      "num": 180263,
+      "word": "戚薇说最有热度是夏友善时期",
+      "onboard_time": 1715140643,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -867,12 +915,28 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 172176,
-      "num": 172176,
-      "word": "戚薇说最有热度是夏友善时期",
-      "onboard_time": 1715140643,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 175818,
+      "num": 175818,
+      "word": "章子怡王传君酱园弄演夫妻",
+      "onboard_time": 1715139500,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 174740,
+      "num": 174740,
+      "word": "Tims涨价",
+      "onboard_time": 1715142323,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 174494,
+      "num": 174494,
+      "word": "魏哲鸣花神造型",
+      "onboard_time": 1715142265,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 170448,
@@ -899,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167328,
-      "num": 167328,
-      "word": "章子怡王传君酱园弄演夫妻",
-      "onboard_time": 1715139500,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 165524,
       "num": 165524,
       "word": "背着善宰跑",
@@ -923,20 +979,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164913,
+      "num": 164913,
+      "word": "狼队经理 职场霸凌",
+      "onboard_time": 1715139082,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164734,
       "num": 164734,
       "word": "新款iPad被吐槽涨价降配",
       "onboard_time": 1715131640,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 163767,
-      "num": 163767,
-      "word": "狼队经理 职场霸凌",
-      "onboard_time": 1715139082,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 162216,
@@ -1155,14 +1211,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 123768,
-      "num": 123768,
-      "word": "美国撤销高通和英特尔对华为出口许可",
-      "onboard_time": 1715141843,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122421,
       "num": 122421,
       "word": "小狗也有起床气",
@@ -1236,7 +1284,7 @@
     },
     {
       "raw_hot": 112977,
-      "num": 233468,
+      "num": 324000,
       "word": "妈妈是第一个挺你的人",
       "onboard_time": 1715139622,
       "rank": 19,
@@ -1339,28 +1387,28 @@
       "category": "数码"
     },
     {
-      "raw_hot": 70102,
-      "num": 70102,
-      "word": "大黄蜂飞向温布利大球场",
-      "onboard_time": 1715124798,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 70980,
+      "num": 364222,
+      "word": "来一场古风国潮旅游",
+      "onboard_time": 1715139983,
+      "rank": 9,
+      "category": "旅游"
     },
     {
-      "raw_hot": 62598,
-      "num": 484543,
+      "raw_hot": 70777,
+      "num": 745493,
       "word": "一座百年钢厂见证中塞铁杆友谊",
       "onboard_time": 1715140040,
       "rank": 2,
       "category": "国内时政"
     },
     {
-      "raw_hot": 61431,
-      "num": 338765,
-      "word": "来一场古风国潮旅游",
-      "onboard_time": 1715139983,
-      "rank": 9,
-      "category": "旅游"
+      "raw_hot": 70102,
+      "num": 70102,
+      "word": "大黄蜂飞向温布利大球场",
+      "onboard_time": 1715124798,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 52093,
@@ -1377,6 +1425,14 @@
       "onboard_time": 1715101633,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42425,
+      "num": 253686,
+      "word": "发量自由是一种什么体验",
+      "onboard_time": 1715141724,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 40940,
@@ -1427,14 +1483,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 23712,
-      "num": 172607,
-      "word": "发量自由是一种什么体验",
-      "onboard_time": 1715141724,
-      "rank": 39,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 20473,
       "num": 20473,
       "word": "Alielie发文澄清",
@@ -1474,6 +1522,9 @@
     },
     {
       "word": "#谱写中塞关系发展新篇章#"
+    },
+    {
+      "word": "#习近平对塞尔维亚进行国事访问#"
     }
   ]
 }
