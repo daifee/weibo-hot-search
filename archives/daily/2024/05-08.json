@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715167047284,
+  "endTime": 1715168076199,
   "band_list": [
     {
       "raw_hot": 2536073,
@@ -35,8 +35,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1510002,
+      "num": 757778,
+      "word": "南京德基广场一男子坠楼身亡",
+      "onboard_time": 1715166199,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1297768,
-      "num": 390434,
+      "num": 452926,
       "word": "德基",
       "onboard_time": 1715159660,
       "rank": 16,
@@ -75,11 +83,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1153911,
-      "num": 757778,
-      "word": "南京德基广场一男子坠楼身亡",
-      "onboard_time": 1715166199,
-      "rank": 4,
+      "raw_hot": 1149271,
+      "num": 1149271,
+      "word": "海底捞回应4人含玻璃渣吃火锅敲诈",
+      "onboard_time": 1715164580,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -113,14 +121,6 @@
       "onboard_time": 1715136079,
       "rank": 10,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1088630,
-      "num": 1088630,
-      "word": "海底捞回应4人含玻璃渣吃火锅敲诈",
-      "onboard_time": 1715164580,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1066412,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 675356,
+      "num": 449686,
+      "word": "百度公关副总裁办公室抽打小人泄愤",
+      "onboard_time": 1715166199,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 643667,
       "num": 638765,
       "word": "37岁从确诊肺癌到去世仅2周",
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 594511,
-      "num": 375068,
+      "num": 428360,
       "word": "女生被当街性骚扰后当场开打",
       "onboard_time": 1715161400,
       "rank": 14,
@@ -419,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 551565,
+      "num": 551565,
+      "word": "SM开通淘宝旗舰店",
+      "onboard_time": 1715166319,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 551386,
       "num": 540791,
       "word": "杨幂酱园弄人设",
@@ -441,6 +457,22 @@
       "onboard_time": 1715152881,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 539934,
+      "num": 539934,
+      "word": "黄觉穿了肖战定制的衣服",
+      "onboard_time": 1715166859,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 529649,
+      "num": 529649,
+      "word": "杨幂曾4个月拍了5部戏",
+      "onboard_time": 1715167159,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 528049,
@@ -555,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 454931,
+      "num": 454931,
+      "word": "王楚钦vs吉村真晴",
+      "onboard_time": 1715167159,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 447641,
       "num": 350796,
       "word": "山航客机事故发生前跑道曾被要求整改",
@@ -593,14 +633,6 @@
       "onboard_time": 1715124016,
       "rank": 14,
       "category": "数码"
-    },
-    {
-      "raw_hot": 422284,
-      "num": 422284,
-      "word": "SM开通淘宝旗舰店",
-      "onboard_time": 1715166319,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 418571,
@@ -697,14 +729,6 @@
       "onboard_time": 1715148442,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 374465,
-      "num": 374465,
-      "word": "百度公关副总裁办公室抽打小人泄愤",
-      "onboard_time": 1715166199,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 370722,
@@ -915,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313681,
+      "num": 313681,
+      "word": "新生 杀猪盘",
+      "onboard_time": 1715162961,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313224,
       "num": 313224,
       "word": "有人打着罗翔的名义谈恋爱",
@@ -923,12 +955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311607,
-      "num": 311607,
-      "word": "黄觉穿了肖战定制的衣服",
-      "onboard_time": 1715166859,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 310217,
+      "num": 310217,
+      "word": "王者明世隐新皮肤",
+      "onboard_time": 1715165180,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 307032,
@@ -993,14 +1025,6 @@
       "onboard_time": 1715140522,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 291668,
-      "num": 291668,
-      "word": "新生 杀猪盘",
-      "onboard_time": 1715162961,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 289112,
@@ -1083,14 +1107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271437,
-      "num": 271437,
-      "word": "王者明世隐新皮肤",
-      "onboard_time": 1715165180,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 270870,
       "num": 196871,
       "word": "眼球突出真的是因为戴眼镜吗",
@@ -1169,6 +1185,14 @@
       "onboard_time": 1715130680,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 245529,
+      "num": 157611,
+      "word": "黎明回应",
+      "onboard_time": 1715167698,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 239299,
@@ -1883,6 +1907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 157937,
+      "num": 157937,
+      "word": "摩羯座都是情绪管理大师",
+      "onboard_time": 1715165959,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154638,
       "num": 154638,
       "word": "化完妆以后最灾难的事",
@@ -1915,12 +1947,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153173,
+      "num": 153173,
+      "word": "不可告人",
+      "onboard_time": 1715167159,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152594,
       "num": 152594,
       "word": "工作群为什么越来越多",
       "onboard_time": 1715130561,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152366,
+      "num": 152366,
+      "word": "CBA",
+      "onboard_time": 1715167759,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 151824,
@@ -1979,12 +2027,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 149093,
-      "num": 149093,
-      "word": "摩羯座都是情绪管理大师",
-      "onboard_time": 1715165959,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 147635,
+      "num": 147635,
+      "word": "相爱的灵魂十年的时差",
+      "onboard_time": 1715167339,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 147501,
@@ -2043,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143820,
+      "num": 143820,
+      "word": "田曦薇帽衫",
+      "onboard_time": 1715167159,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143759,
       "num": 143759,
       "word": "知更鸟全民制作人",
@@ -2097,6 +2153,14 @@
       "onboard_time": 1715159480,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138507,
+      "num": 138507,
+      "word": "去韩国旅游不如以前火了",
+      "onboard_time": 1715164580,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 137581,
@@ -2187,14 +2251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131690,
-      "num": 131690,
-      "word": "去韩国旅游不如以前火了",
-      "onboard_time": 1715164580,
-      "rank": 38,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 130780,
       "num": 130780,
       "word": "王楚钦孙颖莎进大满贯决赛",
@@ -2227,6 +2283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126174,
+      "num": 126174,
+      "word": "佐藤健说很喜欢中文外号砂糖",
+      "onboard_time": 1715167099,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126069,
       "num": 126069,
       "word": "南雅出狱气后妈这段看爽了",
@@ -2244,7 +2308,7 @@
     },
     {
       "raw_hot": 125186,
-      "num": 371190,
+      "num": 716859,
       "word": "塞尔维亚在河流中建房子惊艳了",
       "onboard_time": 1715147541,
       "rank": 9,
@@ -2449,6 +2513,14 @@
       "onboard_time": 1715092881,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98382,
+      "num": 98382,
+      "word": "张本美和晋级大满贯8强",
+      "onboard_time": 1715167940,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 94577,
@@ -2683,6 +2755,9 @@
     },
     {
       "word": "#习近平在匈牙利媒体发表署名文章#"
+    },
+    {
+      "word": "#习近平出席武契奇举行的欢迎仪式#"
     }
   ]
 }
