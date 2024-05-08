@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715124836589,
+  "endTime": 1715130198668,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -1108,7 +1108,7 @@
     },
     {
       "raw_hot": 1104595,
-      "num": 338949,
+      "num": 524108,
       "word": "37岁从确诊肺癌到去世仅2周",
       "onboard_time": 1715092281,
       "rank": 33,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1714562959,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1066412,
+      "num": 1066412,
+      "word": "苹果实体Home键平板下架",
+      "onboard_time": 1715125518,
+      "rank": 0,
+      "category": "数码"
     },
     {
       "raw_hot": 1065792,
@@ -2059,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 783829,
+      "num": 402949,
+      "word": "百度内部人士曝光公关全员做短视频内幕",
+      "onboard_time": 1715128099,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 782397,
       "num": 782397,
       "word": "梅大高速塌方中没有抵达家乡的打工者",
@@ -2100,7 +2116,7 @@
     },
     {
       "raw_hot": 773996,
-      "num": 216080,
+      "num": 401689,
       "word": "百度副总裁被曝安排工作言辞激烈",
       "onboard_time": 1715109252,
       "rank": 45,
@@ -2460,7 +2476,7 @@
     },
     {
       "raw_hot": 699650,
-      "num": 356795,
+      "num": 398889,
       "word": "马来西亚女童弄坏橡皮擦遭同学性侵",
       "onboard_time": 1715098875,
       "rank": 49,
@@ -2585,6 +2601,14 @@
       "onboard_time": 1714825459,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 680379,
+      "num": 400843,
+      "word": "赵梓婷 张露文",
+      "onboard_time": 1715127559,
+      "rank": 12,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 678210,
@@ -3065,6 +3089,14 @@
       "onboard_time": 1715043260,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 618700,
+      "num": 618700,
+      "word": "眼泪女王没获奖的原因",
+      "onboard_time": 1715129121,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 617210,
@@ -4259,6 +4291,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 474393,
+      "num": 474393,
+      "word": "这种毒碗你家可能天天都在用",
+      "onboard_time": 1715088020,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 473482,
       "num": 473482,
       "word": "王昶好帅",
@@ -4667,6 +4707,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 445229,
+      "num": 400097,
+      "word": "武契奇夫妇在机场热情迎接",
+      "onboard_time": 1715128099,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 445074,
       "num": 445074,
       "word": "专家称年轻人租房不影响结婚生娃",
@@ -4987,6 +5035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 422899,
+      "num": 422899,
+      "word": "华为发布会",
+      "onboard_time": 1715124016,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 422792,
       "num": 217437,
       "word": "南雅被当众扒衣服",
@@ -5299,6 +5355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405522,
+      "num": 405522,
+      "word": "Apple pencil",
+      "onboard_time": 1715124435,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 405346,
       "num": 405346,
       "word": "五一新一轮大暴雨又来了",
@@ -5491,14 +5555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 394476,
-      "num": 394476,
-      "word": "这种毒碗你家可能天天都在用",
-      "onboard_time": 1715088020,
-      "rank": 49,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 394369,
       "num": 358398,
       "word": "邓超你关注下陶白白吧",
@@ -5561,6 +5617,14 @@
       "onboard_time": 1714802358,
       "rank": 12,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 388283,
+      "num": 275924,
+      "word": "有些水果不甜但巨长胖",
+      "onboard_time": 1715126780,
+      "rank": 21,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 388118,
@@ -6283,6 +6347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 345390,
+      "num": 275858,
+      "word": "马思纯蕾丝德训鞋",
+      "onboard_time": 1715094561,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 345296,
       "num": 345296,
       "word": "太阳第3次爆发最强X级耀斑",
@@ -6339,6 +6411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 341505,
+      "num": 341505,
+      "word": "酱园弄角色简介",
+      "onboard_time": 1715125698,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 339805,
       "num": 339805,
       "word": "王曼昱1比3巴特拉",
@@ -6369,6 +6449,14 @@
       "onboard_time": 1714998379,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338084,
+      "num": 338084,
+      "word": "张露文",
+      "onboard_time": 1715123775,
+      "rank": 49,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 338072,
@@ -6979,6 +7067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304023,
+      "num": 304023,
+      "word": "汤唯金秀贤合影",
+      "onboard_time": 1715127081,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304014,
       "num": 304014,
       "word": "叶祖新怎么越老越帅",
@@ -7507,6 +7603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278613,
+      "num": 278613,
+      "word": "半夜醒了一定别看时间",
+      "onboard_time": 1715128703,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 278589,
       "num": 278589,
       "word": "酱园弄片长",
@@ -7617,6 +7721,14 @@
       "onboard_time": 1714780456,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272515,
+      "num": 272515,
+      "word": "隐忍一天的宝宝终于爆发了",
+      "onboard_time": 1715129183,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 272284,
@@ -8635,6 +8747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237589,
+      "num": 237589,
+      "word": "张艺凡跳舞了",
+      "onboard_time": 1715129422,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236898,
       "num": 236898,
       "word": "陈赫从五哈团单飞了",
@@ -8673,14 +8793,6 @@
       "onboard_time": 1714711399,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235125,
-      "num": 201972,
-      "word": "马思纯蕾丝德训鞋",
-      "onboard_time": 1715094561,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 234791,
@@ -9115,6 +9227,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 224945,
+      "num": 224945,
+      "word": "加勒比共同体全部承认巴勒斯坦国",
+      "onboard_time": 1715128342,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 224688,
       "num": 224688,
       "word": "潘玮柏胖了",
@@ -9145,6 +9265,14 @@
       "onboard_time": 1714815437,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223010,
+      "num": 223010,
+      "word": "iPad mini",
+      "onboard_time": 1715129662,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 222695,
@@ -9817,14 +9945,6 @@
       "onboard_time": 1714971322,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208887,
-      "num": 208887,
-      "word": "华为发布会",
-      "onboard_time": 1715124016,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 208864,
@@ -11171,6 +11291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194180,
+      "num": 194180,
+      "word": "肖战一人多角权谋向混剪",
+      "onboard_time": 1715129183,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194081,
       "num": 194081,
       "word": "火锅排片",
@@ -11193,6 +11321,14 @@
       "onboard_time": 1714703597,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193760,
+      "num": 193760,
+      "word": "费可人设",
+      "onboard_time": 1715129362,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 193651,
@@ -13963,6 +14099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160664,
+      "num": 160664,
+      "word": "为什么碗有了裂纹要尽快换掉",
+      "onboard_time": 1715129183,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 160634,
       "num": 160634,
       "word": "芍药这么美还是中药换谁不迷糊",
@@ -14467,12 +14611,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 154007,
+      "num": 154007,
+      "word": "世界微笑日",
+      "onboard_time": 1715127139,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153958,
       "num": 140086,
       "word": "谢娜等待我们下一次的盲盒",
       "onboard_time": 1715043140,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153924,
+      "num": 153924,
+      "word": "柳智敏宁艺卓预告",
+      "onboard_time": 1715129542,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 153888,
@@ -14819,6 +14979,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 149788,
+      "num": 149788,
+      "word": "糖尿病就像将器官泡在糖水里",
+      "onboard_time": 1715122815,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 149675,
       "num": 149675,
       "word": "王一博片场花絮",
@@ -15081,6 +15249,14 @@
       "onboard_time": 1714560258,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147501,
+      "num": 147501,
+      "word": "酱园弄西林",
+      "onboard_time": 1715129121,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 147269,
@@ -15451,6 +15627,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 143069,
+      "num": 143069,
+      "word": "橘子 无聊的人类",
+      "onboard_time": 1715129001,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143018,
       "num": 143018,
       "word": "越没本事的人脾气还越大",
@@ -15667,6 +15851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139832,
+      "num": 139832,
+      "word": "第一次见这么干净的厨艺",
+      "onboard_time": 1715127861,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139714,
       "num": 139714,
       "word": "严浩翔ScaryMovie练习室版",
@@ -15851,14 +16043,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 137374,
-      "num": 137374,
-      "word": "张露文",
-      "onboard_time": 1715123775,
-      "rank": 49,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 137369,
       "num": 137369,
       "word": "李现下一部剧是国色芳华",
@@ -15929,6 +16113,14 @@
       "onboard_time": 1714609634,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 136323,
+      "num": 136323,
+      "word": "eStar从B组杀回来了",
+      "onboard_time": 1715127319,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 136243,
@@ -16923,14 +17115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123978,
-      "num": 123978,
-      "word": "Apple pencil",
-      "onboard_time": 1715124435,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 123949,
       "num": 123949,
       "word": "男子闯女厕索要微信发淫秽信息被拘",
@@ -17683,14 +17867,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 114689,
-      "num": 114689,
-      "word": "糖尿病就像将器官泡在糖水里",
-      "onboard_time": 1715122815,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 114666,
       "num": 114666,
       "word": "五一上班",
@@ -17857,6 +18033,14 @@
       "onboard_time": 1714577599,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112670,
+      "num": 607529,
+      "word": "小朋友用特种兵式旅游爆改儿歌",
+      "onboard_time": 1715091802,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112592,
@@ -18281,14 +18465,6 @@
       "onboard_time": 1715037615,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105256,
-      "num": 607529,
-      "word": "小朋友用特种兵式旅游爆改儿歌",
-      "onboard_time": 1715091802,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105168,
@@ -19155,6 +19331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 72675,
+      "num": 405122,
+      "word": "法国人把法棍配方写进了法律",
+      "onboard_time": 1715130023,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71771,
       "num": 82636,
       "word": "TWICE回归预告",
@@ -19779,6 +19963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 38795,
+      "num": 1137074,
+      "word": "为中法建交精神赋予新的时代内涵",
+      "onboard_time": 1715088260,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38128,
       "num": 45839,
       "word": "切尔西vs西汉姆联",
@@ -19809,14 +20001,6 @@
       "onboard_time": 1714859170,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 34193,
-      "num": 1137074,
-      "word": "为中法建交精神赋予新的时代内涵",
-      "onboard_time": 1715088260,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 34012,
@@ -20252,6 +20436,9 @@
     },
     {
       "word": "#马克龙总统夫妇机场迎接习主席#"
+    },
+    {
+      "word": "#习近平抵达塞尔维亚发表书面讲话#"
     }
   ]
 }

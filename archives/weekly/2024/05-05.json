@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715124836589,
+  "endTime": 1715130198668,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 1104595,
-      "num": 338949,
+      "num": 524108,
       "word": "37岁从确诊肺癌到去世仅2周",
       "onboard_time": 1715092281,
       "rank": 33,
@@ -577,6 +577,14 @@
       "onboard_time": 1714915460,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1066412,
+      "num": 1066412,
+      "word": "苹果实体Home键平板下架",
+      "onboard_time": 1715125518,
+      "rank": 0,
+      "category": "数码"
     },
     {
       "raw_hot": 1064099,
@@ -963,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 783829,
+      "num": 402949,
+      "word": "百度内部人士曝光公关全员做短视频内幕",
+      "onboard_time": 1715128099,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 782397,
       "num": 782397,
       "word": "梅大高速塌方中没有抵达家乡的打工者",
@@ -980,7 +996,7 @@
     },
     {
       "raw_hot": 773996,
-      "num": 216080,
+      "num": 401689,
       "word": "百度副总裁被曝安排工作言辞激烈",
       "onboard_time": 1715109252,
       "rank": 45,
@@ -1212,7 +1228,7 @@
     },
     {
       "raw_hot": 699650,
-      "num": 356795,
+      "num": 398889,
       "word": "马来西亚女童弄坏橡皮擦遭同学性侵",
       "onboard_time": 1715098875,
       "rank": 49,
@@ -1257,6 +1273,14 @@
       "onboard_time": 1714895118,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 680379,
+      "num": 400843,
+      "word": "赵梓婷 张露文",
+      "onboard_time": 1715127559,
+      "rank": 12,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 678210,
@@ -1465,6 +1489,14 @@
       "onboard_time": 1715043260,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 618700,
+      "num": 618700,
+      "word": "眼泪女王没获奖的原因",
+      "onboard_time": 1715129121,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 617210,
@@ -2091,6 +2123,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 474393,
+      "num": 474393,
+      "word": "这种毒碗你家可能天天都在用",
+      "onboard_time": 1715088020,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 473482,
       "num": 473482,
       "word": "王昶好帅",
@@ -2273,6 +2313,14 @@
       "onboard_time": 1715002098,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 445229,
+      "num": 400097,
+      "word": "武契奇夫妇在机场热情迎接",
+      "onboard_time": 1715128099,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 445074,
@@ -2459,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 422899,
+      "num": 422899,
+      "word": "华为发布会",
+      "onboard_time": 1715124016,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 421794,
       "num": 421794,
       "word": "原来奶奶才是真正的神明",
@@ -2595,6 +2651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405522,
+      "num": 405522,
+      "word": "Apple pencil",
+      "onboard_time": 1715124435,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 404456,
       "num": 404456,
       "word": "丈夫病危妻子请假照顾被开除",
@@ -2667,14 +2731,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 394476,
-      "num": 394476,
-      "word": "这种毒碗你家可能天天都在用",
-      "onboard_time": 1715088020,
-      "rank": 49,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 394369,
       "num": 358398,
       "word": "邓超你关注下陶白白吧",
@@ -2697,6 +2753,14 @@
       "onboard_time": 1714953978,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 388283,
+      "num": 275924,
+      "word": "有些水果不甜但巨长胖",
+      "onboard_time": 1715126780,
+      "rank": 21,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 387797,
@@ -3067,6 +3131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 345390,
+      "num": 275858,
+      "word": "马思纯蕾丝德训鞋",
+      "onboard_time": 1715094561,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 345296,
       "num": 345296,
       "word": "太阳第3次爆发最强X级耀斑",
@@ -3083,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341505,
+      "num": 341505,
+      "word": "酱园弄角色简介",
+      "onboard_time": 1715125698,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 339805,
       "num": 339805,
       "word": "王曼昱1比3巴特拉",
@@ -3097,6 +3177,14 @@
       "onboard_time": 1714998379,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338084,
+      "num": 338084,
+      "word": "张露文",
+      "onboard_time": 1715123775,
+      "rank": 49,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 337134,
@@ -3419,6 +3507,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 304023,
+      "num": 304023,
+      "word": "汤唯金秀贤合影",
+      "onboard_time": 1715127081,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304014,
       "num": 304014,
       "word": "叶祖新怎么越老越帅",
@@ -3699,6 +3795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278613,
+      "num": 278613,
+      "word": "半夜醒了一定别看时间",
+      "onboard_time": 1715128703,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 278084,
       "num": 278084,
       "word": "爱德华兹吸粉",
@@ -3745,6 +3849,14 @@
       "onboard_time": 1714984640,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272515,
+      "num": 272515,
+      "word": "隐忍一天的宝宝终于爆发了",
+      "onboard_time": 1715129183,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 272226,
@@ -4203,20 +4315,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237589,
+      "num": 237589,
+      "word": "张艺凡跳舞了",
+      "onboard_time": 1715129422,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236898,
       "num": 236898,
       "word": "陈赫从五哈团单飞了",
       "onboard_time": 1714886958,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235125,
-      "num": 201972,
-      "word": "马思纯蕾丝德训鞋",
-      "onboard_time": 1715094561,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 234875,
@@ -4459,6 +4571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224945,
+      "num": 224945,
+      "word": "加勒比共同体全部承认巴勒斯坦国",
+      "onboard_time": 1715128342,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 224688,
       "num": 224688,
       "word": "潘玮柏胖了",
@@ -4481,6 +4601,14 @@
       "onboard_time": 1714823239,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223010,
+      "num": 223010,
+      "word": "iPad mini",
+      "onboard_time": 1715129662,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 222687,
@@ -4849,14 +4977,6 @@
       "onboard_time": 1714971322,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208887,
-      "num": 208887,
-      "word": "华为发布会",
-      "onboard_time": 1715124016,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 208864,
@@ -5435,12 +5555,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194180,
+      "num": 194180,
+      "word": "肖战一人多角权谋向混剪",
+      "onboard_time": 1715129183,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194081,
       "num": 194081,
       "word": "火锅排片",
       "onboard_time": 1714885038,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193760,
+      "num": 193760,
+      "word": "费可人设",
+      "onboard_time": 1715129362,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 193651,
@@ -6811,6 +6947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160664,
+      "num": 160664,
+      "word": "为什么碗有了裂纹要尽快换掉",
+      "onboard_time": 1715129183,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 160582,
       "num": 160582,
       "word": "沈月高至霆孙宁再合作",
@@ -7059,12 +7203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154007,
+      "num": 154007,
+      "word": "世界微笑日",
+      "onboard_time": 1715127139,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153958,
       "num": 140086,
       "word": "谢娜等待我们下一次的盲盒",
       "onboard_time": 1715043140,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153924,
+      "num": 153924,
+      "word": "柳智敏宁艺卓预告",
+      "onboard_time": 1715129542,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 153888,
@@ -7195,6 +7355,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 149788,
+      "num": 149788,
+      "word": "糖尿病就像将器官泡在糖水里",
+      "onboard_time": 1715122815,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 149675,
       "num": 149675,
       "word": "王一博片场花絮",
@@ -7297,6 +7465,14 @@
       "onboard_time": 1715079078,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 147501,
+      "num": 147501,
+      "word": "酱园弄西林",
+      "onboard_time": 1715129121,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 147269,
@@ -7443,6 +7619,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 143069,
+      "num": 143069,
+      "word": "橘子 无聊的人类",
+      "onboard_time": 1715129001,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143010,
       "num": 143010,
       "word": "班上的双胞胎好像不太熟",
@@ -7539,6 +7723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139832,
+      "num": 139832,
+      "word": "第一次见这么干净的厨艺",
+      "onboard_time": 1715127861,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139714,
       "num": 139714,
       "word": "严浩翔ScaryMovie练习室版",
@@ -7595,20 +7787,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137374,
-      "num": 137374,
-      "word": "张露文",
-      "onboard_time": 1715123775,
-      "rank": 49,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 136429,
       "num": 567028,
       "word": "女子突发晕厥14岁少年挺身而出",
       "onboard_time": 1714982058,
       "rank": 8,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 136323,
+      "num": 136323,
+      "word": "eStar从B组杀回来了",
+      "onboard_time": 1715127319,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 136218,
@@ -7995,14 +8187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123978,
-      "num": 123978,
-      "word": "Apple pencil",
-      "onboard_time": 1715124435,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 123546,
       "num": 134277,
       "word": "北京国安2比1成都蓉城",
@@ -8275,20 +8459,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 114689,
-      "num": 114689,
-      "word": "糖尿病就像将器官泡在糖水里",
-      "onboard_time": 1715122815,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 113845,
       "num": 113845,
       "word": "向佐终于被认可了",
       "onboard_time": 1714897698,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112670,
+      "num": 607529,
+      "word": "小朋友用特种兵式旅游爆改儿歌",
+      "onboard_time": 1715091802,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112461,
@@ -8393,14 +8577,6 @@
       "onboard_time": 1715037615,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105256,
-      "num": 607529,
-      "word": "小朋友用特种兵式旅游爆改儿歌",
-      "onboard_time": 1715091802,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104874,
@@ -8755,6 +8931,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 72675,
+      "num": 405122,
+      "word": "法国人把法棍配方写进了法律",
+      "onboard_time": 1715130023,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70102,
       "num": 70102,
       "word": "大黄蜂飞向温布利大球场",
@@ -9043,6 +9227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 38795,
+      "num": 1137074,
+      "word": "为中法建交精神赋予新的时代内涵",
+      "onboard_time": 1715088260,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38128,
       "num": 45839,
       "word": "切尔西vs西汉姆联",
@@ -9065,14 +9257,6 @@
       "onboard_time": 1714859170,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 34193,
-      "num": 1137074,
-      "word": "为中法建交精神赋予新的时代内涵",
-      "onboard_time": 1715088260,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32411,
@@ -9320,6 +9504,9 @@
     },
     {
       "word": "#马克龙总统夫妇机场迎接习主席#"
+    },
+    {
+      "word": "#习近平抵达塞尔维亚发表书面讲话#"
     }
   ]
 }

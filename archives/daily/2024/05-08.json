@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715124836589,
+  "endTime": 1715130198668,
   "band_list": [
     {
       "raw_hot": 1143072,
@@ -19,6 +19,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 1066412,
+      "num": 1066412,
+      "word": "苹果实体Home键平板下架",
+      "onboard_time": 1715125518,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 790458,
       "num": 475926,
       "word": "我iPad也要低人一等了",
@@ -27,8 +35,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 783829,
+      "num": 402949,
+      "word": "百度内部人士曝光公关全员做短视频内幕",
+      "onboard_time": 1715128099,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 773996,
-      "num": 216080,
+      "num": 401689,
       "word": "百度副总裁被曝安排工作言辞激烈",
       "onboard_time": 1715109252,
       "rank": 45,
@@ -52,10 +68,26 @@
     },
     {
       "raw_hot": 699650,
-      "num": 356795,
+      "num": 398889,
       "word": "马来西亚女童弄坏橡皮擦遭同学性侵",
       "onboard_time": 1715098875,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 680379,
+      "num": 400843,
+      "word": "赵梓婷 张露文",
+      "onboard_time": 1715127559,
+      "rank": 12,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 643667,
+      "num": 524108,
+      "word": "37岁从确诊肺癌到去世仅2周",
+      "onboard_time": 1715092281,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -67,12 +99,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 595890,
-      "num": 226511,
-      "word": "37岁从确诊肺癌到去世仅2周",
-      "onboard_time": 1715092281,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 618700,
+      "num": 618700,
+      "word": "眼泪女王没获奖的原因",
+      "onboard_time": 1715129121,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 592629,
@@ -99,12 +131,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 474393,
+      "num": 474393,
+      "word": "这种毒碗你家可能天天都在用",
+      "onboard_time": 1715088020,
+      "rank": 17,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 447641,
       "num": 350796,
       "word": "山航客机事故发生前跑道曾被要求整改",
       "onboard_time": 1715100975,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445229,
+      "num": 400097,
+      "word": "武契奇夫妇在机场热情迎接",
+      "onboard_time": 1715128099,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 434835,
+      "num": 434835,
+      "word": "小杨哥称在发现高价水之后就要求降价",
+      "onboard_time": 1715088199,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 425646,
@@ -115,6 +171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 422899,
+      "num": 422899,
+      "word": "华为发布会",
+      "onboard_time": 1715124016,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 413203,
       "num": 413203,
       "word": "新款iPadAir11英寸起售价599美元",
@@ -123,12 +187,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 395917,
-      "num": 369823,
-      "word": "小杨哥称在发现高价水之后就要求降价",
-      "onboard_time": 1715088199,
-      "rank": 8,
-      "category": "演出"
+      "raw_hot": 405522,
+      "num": 405522,
+      "word": "Apple pencil",
+      "onboard_time": 1715124435,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 388283,
+      "num": 275924,
+      "word": "有些水果不甜但巨长胖",
+      "onboard_time": 1715126780,
+      "rank": 21,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 360172,
@@ -147,20 +219,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345390,
+      "num": 275858,
+      "word": "马思纯蕾丝德训鞋",
+      "onboard_time": 1715094561,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 341505,
+      "num": 341505,
+      "word": "酱园弄角色简介",
+      "onboard_time": 1715125698,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 338084,
+      "num": 338084,
+      "word": "张露文",
+      "onboard_time": 1715123775,
+      "rank": 49,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 337614,
       "num": 447597,
       "word": "韩国民众吐槽五花肉太肥",
       "onboard_time": 1715081540,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321852,
-      "num": 291399,
-      "word": "这种毒碗你家可能天天都在用",
-      "onboard_time": 1715088020,
-      "rank": 17,
-      "category": "科学科普"
     },
     {
       "raw_hot": 320012,
@@ -179,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 304023,
+      "num": 304023,
+      "word": "汤唯金秀贤合影",
+      "onboard_time": 1715127081,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301178,
       "num": 301178,
       "word": "iPhone 散热",
@@ -195,6 +291,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278613,
+      "num": 278613,
+      "word": "半夜醒了一定别看时间",
+      "onboard_time": 1715128703,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 272515,
+      "num": 272515,
+      "word": "隐忍一天的宝宝终于爆发了",
+      "onboard_time": 1715129183,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 252924,
       "num": 218664,
       "word": "金秀贤泡泡",
@@ -203,12 +315,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 235125,
-      "num": 186684,
-      "word": "马思纯蕾丝德训鞋",
-      "onboard_time": 1715094561,
-      "rank": 29,
-      "category": "作品衍生"
+      "raw_hot": 237589,
+      "num": 237589,
+      "word": "张艺凡跳舞了",
+      "onboard_time": 1715129422,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 234760,
@@ -217,6 +329,22 @@
       "onboard_time": 1715123354,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224945,
+      "num": 224945,
+      "word": "加勒比共同体全部承认巴勒斯坦国",
+      "onboard_time": 1715128342,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 223010,
+      "num": 223010,
+      "word": "iPad mini",
+      "onboard_time": 1715129662,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 211558,
@@ -243,14 +371,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 208887,
-      "num": 208887,
-      "word": "华为发布会",
-      "onboard_time": 1715124016,
-      "rank": 14,
-      "category": "数码"
-    },
-    {
       "raw_hot": 208541,
       "num": 208541,
       "word": "金智媛和她的男主角们",
@@ -273,6 +393,22 @@
       "onboard_time": 1715124497,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 194180,
+      "num": 194180,
+      "word": "肖战一人多角权谋向混剪",
+      "onboard_time": 1715129183,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193760,
+      "num": 193760,
+      "word": "费可人设",
+      "onboard_time": 1715129362,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 187432,
@@ -323,12 +459,60 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 160664,
+      "num": 160664,
+      "word": "为什么碗有了裂纹要尽快换掉",
+      "onboard_time": 1715129183,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 154007,
+      "num": 154007,
+      "word": "世界微笑日",
+      "onboard_time": 1715127139,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153924,
+      "num": 153924,
+      "word": "柳智敏宁艺卓预告",
+      "onboard_time": 1715129542,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 149788,
+      "num": 149788,
+      "word": "糖尿病就像将器官泡在糖水里",
+      "onboard_time": 1715122815,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 147501,
+      "num": 147501,
+      "word": "酱园弄西林",
+      "onboard_time": 1715129121,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147178,
       "num": 147178,
       "word": "宋亚轩腹肌",
       "onboard_time": 1715095040,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143069,
+      "num": 143069,
+      "word": "橘子 无聊的人类",
+      "onboard_time": 1715129001,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 143010,
@@ -347,12 +531,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 137374,
-      "num": 137374,
-      "word": "张露文",
-      "onboard_time": 1715123775,
+      "raw_hot": 139832,
+      "num": 139832,
+      "word": "第一次见这么干净的厨艺",
+      "onboard_time": 1715127861,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 136323,
+      "num": 136323,
+      "word": "eStar从B组杀回来了",
+      "onboard_time": 1715127319,
       "rank": 49,
-      "category": "社会新闻,网红"
+      "category": "电竞"
     },
     {
       "raw_hot": 135483,
@@ -411,14 +603,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 123978,
-      "num": 123978,
-      "word": "Apple pencil",
-      "onboard_time": 1715124435,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 123928,
       "num": 123928,
       "word": "ApplePencilPro发布",
@@ -467,20 +651,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114689,
-      "num": 114689,
-      "word": "糖尿病就像将器官泡在糖水里",
-      "onboard_time": 1715122815,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 113055,
       "num": 113055,
       "word": "跟天蝎座相处的秘诀",
       "onboard_time": 1715084539,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112670,
+      "num": 369270,
+      "word": "小朋友用特种兵式旅游爆改儿歌",
+      "onboard_time": 1715091802,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110720,
@@ -563,6 +747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 72675,
+      "num": 405122,
+      "word": "法国人把法棍配方写进了法律",
+      "onboard_time": 1715130023,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72378,
       "num": 72378,
       "word": "iPad Pro",
@@ -595,14 +787,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 43122,
-      "num": 369270,
-      "word": "小朋友用特种兵式旅游爆改儿歌",
-      "onboard_time": 1715091802,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40940,
       "num": 40940,
       "word": "于正关注Zzr",
@@ -617,6 +801,14 @@
       "onboard_time": 1715105471,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 38795,
+      "num": 543193,
+      "word": "为中法建交精神赋予新的时代内涵",
+      "onboard_time": 1715088260,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29473,
@@ -641,14 +833,6 @@
       "onboard_time": 1715092281,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 23604,
-      "num": 499370,
-      "word": "为中法建交精神赋予新的时代内涵",
-      "onboard_time": 1715088260,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 20473,
@@ -681,6 +865,9 @@
     },
     {
       "word": "#马克龙总统夫妇机场迎接习主席#"
+    },
+    {
+      "word": "#习近平抵达塞尔维亚发表书面讲话#"
     }
   ]
 }
