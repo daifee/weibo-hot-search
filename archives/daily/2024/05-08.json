@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715174493497,
+  "endTime": 1715175244401,
   "band_list": [
     {
       "raw_hot": 2536073,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1401033,
-      "num": 884000,
+      "num": 931826,
       "word": "元气森林就肖战海报事件致歉",
       "onboard_time": 1715172560,
       "rank": 40,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1095305,
-      "num": 576017,
+      "num": 648929,
       "word": "淘宝免单",
       "onboard_time": 1715136079,
       "rank": 10,
@@ -200,6 +200,14 @@
       "word": "婚检后我被断崖式分手",
       "onboard_time": 1715136261,
       "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 920141,
+      "num": 920141,
+      "word": "第一次去见家长就分手了",
+      "onboard_time": 1715171660,
+      "rank": 10,
       "category": "情感"
     },
     {
@@ -283,14 +291,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 790520,
-      "num": 790520,
-      "word": "第一次去见家长就分手了",
-      "onboard_time": 1715171660,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 790458,
       "num": 475926,
       "word": "我iPad也要低人一等了",
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 740503,
+      "num": 740503,
+      "word": "相关部门辟谣韩国飞往青岛飞机坠机",
+      "onboard_time": 1715171240,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738626,
       "num": 386513,
       "word": "香飘飘股价大跌",
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 696903,
-      "num": 397112,
+      "num": 425909,
       "word": "第一批去日本扫货的人已经被税了",
       "onboard_time": 1715170039,
       "rank": 21,
@@ -433,14 +441,6 @@
       "onboard_time": 1715170039,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 652114,
-      "num": 652114,
-      "word": "相关部门辟谣韩国飞往青岛飞机坠机",
-      "onboard_time": 1715171240,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 643667,
@@ -515,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 559299,
+      "num": 559299,
+      "word": "白月光诺澜杀回来了",
+      "onboard_time": 1715174181,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 551565,
       "num": 551565,
       "word": "SM开通淘宝旗舰店",
@@ -577,6 +585,14 @@
       "onboard_time": 1715096599,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 510769,
+      "num": 510769,
+      "word": "宋茜演技",
+      "onboard_time": 1715173880,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 505672,
@@ -803,14 +819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 386687,
-      "num": 386687,
-      "word": "宋茜演技",
-      "onboard_time": 1715173880,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 386514,
       "num": 386514,
       "word": "酱园弄角色简介",
@@ -849,6 +857,14 @@
       "onboard_time": 1715148442,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374498,
+      "num": 374498,
+      "word": "樊振东大满贯止步16强",
+      "onboard_time": 1715173820,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 370722,
@@ -1003,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335967,
+      "num": 335967,
+      "word": "焦俊艳我病了我装的",
+      "onboard_time": 1715172200,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334824,
       "num": 253822,
       "word": "减肥党千万别吃的水果",
@@ -1075,20 +1099,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 313673,
+      "num": 313673,
+      "word": "商场里试衣服一定要留点心",
+      "onboard_time": 1715173580,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 313224,
       "num": 313224,
       "word": "有人打着罗翔的名义谈恋爱",
       "onboard_time": 1715130263,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312180,
-      "num": 312180,
-      "word": "焦俊艳我病了我装的",
-      "onboard_time": 1715172200,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 310217,
@@ -1185,14 +1209,6 @@
       "onboard_time": 1715173398,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 289176,
-      "num": 289176,
-      "word": "樊振东大满贯止步16强",
-      "onboard_time": 1715173820,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 289112,
@@ -1323,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253288,
-      "num": 253288,
-      "word": "商场里试衣服一定要留点心",
-      "onboard_time": 1715173580,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 253140,
       "num": 253140,
       "word": "王楚钦孙颖莎对阵张本智和早田希娜",
@@ -1345,6 +1353,14 @@
       "onboard_time": 1715092340,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252355,
+      "num": 252355,
+      "word": "辽宁男篮vs广东男篮",
+      "onboard_time": 1715173642,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 250891,
@@ -1545,14 +1561,6 @@
       "onboard_time": 1715093000,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 210171,
-      "num": 210171,
-      "word": "辽宁男篮vs广东男篮",
-      "onboard_time": 1715173642,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 209965,
@@ -1819,14 +1827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186922,
-      "num": 186922,
-      "word": "白月光诺澜杀回来了",
-      "onboard_time": 1715174181,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185641,
       "num": 185641,
       "word": "生田斗真迷惑发言激怒日本女性",
@@ -1921,6 +1921,14 @@
       "onboard_time": 1715160923,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176110,
+      "num": 176110,
+      "word": "辽宁男篮醒了",
+      "onboard_time": 1715174658,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 175818,
@@ -2451,6 +2459,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 134591,
+      "num": 571522,
+      "word": "我的阿勒泰赛博吸氧剧",
+      "onboard_time": 1715173280,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133744,
       "num": 133744,
       "word": "秦岚45岁身材管理",
@@ -2683,6 +2699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116969,
+      "num": 934257,
+      "word": "塞尔维亚的中国桥",
+      "onboard_time": 1715173339,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 116058,
       "num": 116058,
       "word": "陶昕然妈妈年轻时撞脸虞书欣",
@@ -2795,28 +2819,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98810,
-      "num": 571522,
-      "word": "我的阿勒泰赛博吸氧剧",
-      "onboard_time": 1715173280,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98382,
       "num": 98382,
       "word": "张本美和晋级大满贯8强",
       "onboard_time": 1715167940,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97265,
-      "num": 906815,
-      "word": "塞尔维亚的中国桥",
-      "onboard_time": 1715173339,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 94577,
@@ -2979,7 +2987,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32489,
+      "raw_hot": 34398,
+      "num": 428873,
+      "word": "来抄林允的美白作业",
+      "onboard_time": 1715173339,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 34108,
       "num": 701814,
       "word": "多元化消费激活经济新动能",
       "onboard_time": 1715173459,
@@ -3001,14 +3017,6 @@
       "onboard_time": 1715116390,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28917,
-      "num": 425572,
-      "word": "来抄林允的美白作业",
-      "onboard_time": 1715173339,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 26436,
