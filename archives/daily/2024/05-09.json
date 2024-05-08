@@ -1,6 +1,6 @@
 {
   "startTime": 1715185399055,
-  "endTime": 1715203131816,
+  "endTime": 1715204065400,
   "band_list": [
     {
       "raw_hot": 2063500,
@@ -363,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84470,
+      "num": 84470,
+      "word": "医保卡里的钱可以给亲人买药吗",
+      "onboard_time": 1715201710,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84042,
       "num": 122780,
       "word": "小果冻",
@@ -427,8 +435,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60978,
-      "num": 30398,
+      "raw_hot": 66137,
+      "num": 33902,
       "word": "郑恺说看儿子哭像在看动画片",
       "onboard_time": 1715198290,
       "rank": 26,
@@ -460,18 +468,26 @@
     },
     {
       "raw_hot": 31713,
-      "num": 22865,
+      "num": 26160,
       "word": "晚上十点女寝楼下的流水线",
       "onboard_time": 1715197331,
       "rank": 21,
       "category": "情感"
     },
     {
-      "raw_hot": 28619,
-      "num": 28619,
-      "word": "医保卡里的钱可以给亲人买药吗",
-      "onboard_time": 1715201710,
-      "rank": 16,
+      "raw_hot": 25877,
+      "num": 25877,
+      "word": "医保局回应医保卡的钱能不能给亲人买药",
+      "onboard_time": 1715202490,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24840,
+      "num": 24840,
+      "word": "水果店开了二十几年只卖香蕉",
+      "onboard_time": 1715202670,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -491,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16901,
-      "num": 19851,
-      "word": "医保局回应医保卡的钱能不能给亲人买药",
-      "onboard_time": 1715202490,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15717,
       "num": 19363,
       "word": "狼队第五人格",
@@ -507,12 +515,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 15166,
-      "num": 18665,
-      "word": "水果店开了二十几年只卖香蕉",
-      "onboard_time": 1715202670,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 14739,
+      "num": 19278,
+      "word": "杨紫请国色芳华吃承欢记定制雪糕",
+      "onboard_time": 1715203391,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 13987,
@@ -521,6 +529,14 @@
       "onboard_time": 1715173159,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12113,
+      "num": 19263,
+      "word": "漫长的季节央视定档",
+      "onboard_time": 1715203991,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 11559,
