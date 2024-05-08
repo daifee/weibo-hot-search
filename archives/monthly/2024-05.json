@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715153684397,
+  "endTime": 1715156462121,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1590466,
+      "num": 595887,
+      "word": "郑恺说苗苗化妆后孩子就不认识了",
+      "onboard_time": 1715153060,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1590195,
       "num": 1590195,
       "word": "嘻嘻 不嘻嘻",
@@ -860,7 +868,7 @@
     },
     {
       "raw_hot": 1251613,
-      "num": 252810,
+      "num": 257593,
       "word": "19岁女孩马桶上产子后将其杀害",
       "onboard_time": 1715144124,
       "rank": 20,
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 1182644,
-      "num": 252154,
+      "num": 256850,
       "word": "关晓彤徐梓钧是同学",
       "onboard_time": 1715148142,
       "rank": 21,
@@ -972,7 +980,7 @@
     },
     {
       "raw_hot": 1181972,
-      "num": 351725,
+      "num": 363543,
       "word": "赵丽颖杨幂 戛纳",
       "onboard_time": 1715148500,
       "rank": 11,
@@ -1843,14 +1851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 861673,
-      "num": 337880,
-      "word": "郑恺说苗苗化妆后孩子就不认识了",
-      "onboard_time": 1715153060,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 861149,
       "num": 861149,
       "word": "据说每个城市都来了1亿人",
@@ -2716,7 +2716,7 @@
     },
     {
       "raw_hot": 688354,
-      "num": 251323,
+      "num": 256348,
       "word": "每天0.5到3杯才是咖啡续命最佳剂量",
       "onboard_time": 1715145324,
       "rank": 47,
@@ -2761,6 +2761,14 @@
       "onboard_time": 1714551679,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 683342,
+      "num": 683342,
+      "word": "仅有6条高铁线路盈利",
+      "onboard_time": 1715151981,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 682788,
@@ -3763,6 +3771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 548218,
+      "num": 548218,
+      "word": "婚后仅见面两次女方拒不退还25万彩礼",
+      "onboard_time": 1715154259,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546859,
       "num": 309838,
       "word": "李溪芮淘汰尚雯婕哭崩了",
@@ -3857,6 +3873,14 @@
       "onboard_time": 1714997119,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 540351,
+      "num": 540351,
+      "word": "新款iPad上架2小时预约人数过万",
+      "onboard_time": 1715152881,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 540084,
@@ -4387,6 +4411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485082,
+      "num": 327627,
+      "word": "如懿传是因蔡少芬而写的",
+      "onboard_time": 1715156000,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 485059,
       "num": 464448,
       "word": "成龙回应满头白发",
@@ -4795,14 +4827,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 456131,
-      "num": 456131,
-      "word": "仅有6条高铁线路盈利",
-      "onboard_time": 1715151981,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 455528,
       "num": 455528,
       "word": "曝iPhone17Pro迈入12GB内存时代",
@@ -5017,6 +5041,14 @@
       "onboard_time": 1714605134,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 441647,
+      "num": 441647,
+      "word": "广西榴莲100元5个是噱头",
+      "onboard_time": 1715152099,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 441476,
@@ -5721,6 +5753,14 @@
       "onboard_time": 1715136500,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 401965,
+      "num": 401965,
+      "word": "为什么很多近视的人都有散光",
+      "onboard_time": 1715154799,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 401775,
@@ -8267,6 +8307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 271452,
+      "num": 253822,
+      "word": "减肥党千万别吃的水果",
+      "onboard_time": 1715151981,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 271406,
       "num": 271406,
       "word": "那英说录声生不息哭得乱七八糟",
@@ -8811,12 +8859,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253221,
-      "num": 253221,
-      "word": "广西榴莲100元5个是噱头",
-      "onboard_time": 1715152099,
-      "rank": 33,
-      "category": "美食"
+      "raw_hot": 253140,
+      "num": 253140,
+      "word": "王楚钦孙颖莎对阵张本智和早田希娜",
+      "onboard_time": 1715151800,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 252938,
@@ -9297,14 +9345,6 @@
       "onboard_time": 1715001079,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 238335,
-      "num": 238335,
-      "word": "新款iPad上架2小时预约人数过万",
-      "onboard_time": 1715152881,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 237979,
@@ -10147,6 +10187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216800,
+      "num": 198765,
+      "word": "把房东的柜子刷毁了",
+      "onboard_time": 1715154921,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216407,
       "num": 216407,
       "word": "魏晨分身情人",
@@ -10161,6 +10209,14 @@
       "onboard_time": 1714907838,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 216394,
+      "num": 216394,
+      "word": "金秀贤快碎了",
+      "onboard_time": 1715153180,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 216331,
@@ -11555,6 +11611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197984,
+      "num": 197984,
+      "word": "Uzi说TheShy老头杯没有对手",
+      "onboard_time": 1715155220,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197837,
       "num": 197837,
       "word": "背着善宰跑直播",
@@ -12035,14 +12099,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194077,
-      "num": 194077,
-      "word": "王楚钦孙颖莎对阵张本智和早田希娜",
-      "onboard_time": 1715151800,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194025,
       "num": 194025,
       "word": "狼队第五人格",
@@ -12097,6 +12153,14 @@
       "onboard_time": 1714802898,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193480,
+      "num": 193480,
+      "word": "裴珠泫今年solo出道",
+      "onboard_time": 1715155280,
+      "rank": 32,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 193434,
@@ -12923,14 +12987,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 184296,
-      "num": 184296,
-      "word": "金秀贤快碎了",
-      "onboard_time": 1715153180,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184279,
       "num": 184279,
       "word": "Doinb说老头杯mlxg先红温",
@@ -13632,14 +13688,6 @@
       "word": "3个睡姿一觉到天亮",
       "onboard_time": 1714957039,
       "rank": 40,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 175586,
-      "num": 175586,
-      "word": "减肥党千万别吃的水果",
-      "onboard_time": 1715151981,
-      "rank": 38,
       "category": "科学科普"
     },
     {
@@ -14379,6 +14427,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 167895,
+      "num": 167895,
+      "word": "Drake豪宅发生枪击案",
+      "onboard_time": 1715154560,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167691,
       "num": 167691,
       "word": "一张照片欢迎夏天",
@@ -14721,6 +14777,14 @@
       "onboard_time": 1714611917,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163796,
+      "num": 163796,
+      "word": "璩静辟谣被开除",
+      "onboard_time": 1715155880,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 163744,
@@ -18363,6 +18427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122286,
+      "num": 122286,
+      "word": "上海迪士尼偶遇鞠婧祎",
+      "onboard_time": 1715155760,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122282,
       "num": 122282,
       "word": "粘土滤镜",
@@ -19249,6 +19321,14 @@
       "onboard_time": 1714954162,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111623,
+      "num": 371190,
+      "word": "塞尔维亚在河流中建房子惊艳了",
+      "onboard_time": 1715147541,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111503,

@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715153684397,
+  "endTime": 1715156462121,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -193,6 +193,14 @@
       "onboard_time": 1714984339,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1590466,
+      "num": 595887,
+      "word": "郑恺说苗苗化妆后孩子就不认识了",
+      "onboard_time": 1715153060,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1558611,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 1251613,
-      "num": 252810,
+      "num": 257593,
       "word": "19岁女孩马桶上产子后将其杀害",
       "onboard_time": 1715144124,
       "rank": 20,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 1182644,
-      "num": 252154,
+      "num": 256850,
       "word": "关晓彤徐梓钧是同学",
       "onboard_time": 1715148142,
       "rank": 21,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 1181972,
-      "num": 351725,
+      "num": 363543,
       "word": "赵丽颖杨幂 戛纳",
       "onboard_time": 1715148500,
       "rank": 11,
@@ -929,14 +937,6 @@
       "onboard_time": 1714868958,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 861673,
-      "num": 337880,
-      "word": "郑恺说苗苗化妆后孩子就不认识了",
-      "onboard_time": 1715153060,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 860372,
@@ -1436,7 +1436,7 @@
     },
     {
       "raw_hot": 688354,
-      "num": 251323,
+      "num": 256348,
       "word": "每天0.5到3杯才是咖啡续命最佳剂量",
       "onboard_time": 1715145324,
       "rank": 47,
@@ -1457,6 +1457,14 @@
       "onboard_time": 1714895118,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 683342,
+      "num": 683342,
+      "word": "仅有6条高铁线路盈利",
+      "onboard_time": 1715151981,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 678210,
@@ -1923,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 548218,
+      "num": 548218,
+      "word": "婚后仅见面两次女方拒不退还25万彩礼",
+      "onboard_time": 1715154259,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546074,
       "num": 546074,
       "word": "有人弃我如杂草 有人视我如珍宝",
@@ -1985,6 +2001,14 @@
       "onboard_time": 1714997119,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 540351,
+      "num": 540351,
+      "word": "新款iPad上架2小时预约人数过万",
+      "onboard_time": 1715152881,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 538101,
@@ -2291,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485082,
+      "num": 327627,
+      "word": "如懿传是因蔡少芬而写的",
+      "onboard_time": 1715156000,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 481754,
       "num": 481754,
       "word": "眼泪女王未公开kiss场面",
@@ -2483,14 +2515,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 456131,
-      "num": 456131,
-      "word": "仅有6条高铁线路盈利",
-      "onboard_time": 1715151981,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 455528,
       "num": 455528,
       "word": "曝iPhone17Pro迈入12GB内存时代",
@@ -2625,6 +2649,14 @@
       "onboard_time": 1714887258,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 441647,
+      "num": 441647,
+      "word": "广西榴莲100元5个是噱头",
+      "onboard_time": 1715152099,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 441370,
@@ -2968,6 +3000,14 @@
       "word": "卵巢过快衰老的几个信号",
       "onboard_time": 1714828161,
       "rank": 5,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 401965,
+      "num": 401965,
+      "word": "为什么很多近视的人都有散光",
+      "onboard_time": 1715154799,
+      "rank": 7,
       "category": "健康医疗"
     },
     {
@@ -4379,6 +4419,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 271452,
+      "num": 253822,
+      "word": "减肥党千万别吃的水果",
+      "onboard_time": 1715151981,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 271063,
       "num": 271063,
       "word": "宋轶不敢坐何超莲开的越野车",
@@ -4667,12 +4715,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253221,
-      "num": 253221,
-      "word": "广西榴莲100元5个是噱头",
-      "onboard_time": 1715152099,
-      "rank": 33,
-      "category": "美食"
+      "raw_hot": 253140,
+      "num": 253140,
+      "word": "王楚钦孙颖莎对阵张本智和早田希娜",
+      "onboard_time": 1715151800,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 252938,
@@ -4881,14 +4929,6 @@
       "onboard_time": 1715001079,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 238335,
-      "num": 238335,
-      "word": "新款iPad上架2小时预约人数过万",
-      "onboard_time": 1715152881,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 236898,
@@ -5363,12 +5403,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 216800,
+      "num": 198765,
+      "word": "把房东的柜子刷毁了",
+      "onboard_time": 1715154921,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216406,
       "num": 216406,
       "word": "五一档电影为什么没有很多人看",
       "onboard_time": 1714907838,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 216394,
+      "num": 216394,
+      "word": "金秀贤快碎了",
+      "onboard_time": 1715153180,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 216219,
@@ -6051,6 +6107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197984,
+      "num": 197984,
+      "word": "Uzi说TheShy老头杯没有对手",
+      "onboard_time": 1715155220,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197837,
       "num": 197837,
       "word": "背着善宰跑直播",
@@ -6299,14 +6363,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194077,
-      "num": 194077,
-      "word": "王楚钦孙颖莎对阵张本智和早田希娜",
-      "onboard_time": 1715151800,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193760,
       "num": 193760,
       "word": "费可人设",
@@ -6337,6 +6393,14 @@
       "onboard_time": 1714906999,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193480,
+      "num": 193480,
+      "word": "裴珠泫今年solo出道",
+      "onboard_time": 1715155280,
+      "rank": 32,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 193434,
@@ -6771,14 +6835,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184296,
-      "num": 184296,
-      "word": "金秀贤快碎了",
-      "onboard_time": 1715153180,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184279,
       "num": 184279,
       "word": "Doinb说老头杯mlxg先红温",
@@ -7187,14 +7243,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 175586,
-      "num": 175586,
-      "word": "减肥党千万别吃的水果",
-      "onboard_time": 1715151981,
-      "rank": 38,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 175578,
       "num": 175578,
       "word": "张杰卡点2134",
@@ -7571,6 +7619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167895,
+      "num": 167895,
+      "word": "Drake豪宅发生枪击案",
+      "onboard_time": 1715154560,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167691,
       "num": 167691,
       "word": "一张照片欢迎夏天",
@@ -7729,6 +7785,14 @@
       "onboard_time": 1714883899,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163796,
+      "num": 163796,
+      "word": "璩静辟谣被开除",
+      "onboard_time": 1715155880,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 163740,
@@ -9331,6 +9395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122286,
+      "num": 122286,
+      "word": "上海迪士尼偶遇鞠婧祎",
+      "onboard_time": 1715155760,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122198,
       "num": 122198,
       "word": "第一次见这么不负责的宠物店",
@@ -9617,6 +9689,14 @@
       "onboard_time": 1714954162,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111623,
+      "num": 371190,
+      "word": "塞尔维亚在河流中建房子惊艳了",
+      "onboard_time": 1715147541,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111621,
