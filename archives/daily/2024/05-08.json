@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715164556161,
+  "endTime": 1715167047284,
   "band_list": [
     {
       "raw_hot": 2536073,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1590466,
-      "num": 659888,
+      "num": 754713,
       "word": "郑恺说苗苗化妆后孩子就不认识了",
       "onboard_time": 1715153060,
       "rank": 11,
@@ -41,6 +41,14 @@
       "onboard_time": 1715159660,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1261704,
+      "num": 329075,
+      "word": "香飘飘下架讽日杯套",
+      "onboard_time": 1715163199,
+      "rank": 15,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1251613,
@@ -65,6 +73,14 @@
       "onboard_time": 1715148500,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1153911,
+      "num": 757778,
+      "word": "南京德基广场一男子坠楼身亡",
+      "onboard_time": 1715166199,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1143072,
@@ -99,20 +115,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1088630,
+      "num": 1088630,
+      "word": "海底捞回应4人含玻璃渣吃火锅敲诈",
+      "onboard_time": 1715164580,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1066412,
       "num": 1066412,
       "word": "苹果实体Home键平板下架",
       "onboard_time": 1715125518,
       "rank": 0,
       "category": "数码"
-    },
-    {
-      "raw_hot": 984509,
-      "num": 329075,
-      "word": "香飘飘下架讽日杯套",
-      "onboard_time": 1715163199,
-      "rank": 15,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 981672,
@@ -371,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594511,
+      "num": 375068,
+      "word": "女生被当街性骚扰后当场开打",
+      "onboard_time": 1715161400,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 592629,
       "num": 592629,
       "word": "大巴黎淘汰",
@@ -393,14 +417,6 @@
       "onboard_time": 1715147961,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 565456,
-      "num": 329781,
-      "word": "女生被当街性骚扰后当场开打",
-      "onboard_time": 1715161400,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 551386,
@@ -491,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 475630,
+      "num": 475630,
+      "word": "张翰两句话得罪三个人",
+      "onboard_time": 1715163139,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475560,
       "num": 475560,
       "word": "广西榴莲100元5个是噱头",
@@ -569,6 +593,14 @@
       "onboard_time": 1715124016,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 422284,
+      "num": 422284,
+      "word": "SM开通淘宝旗舰店",
+      "onboard_time": 1715166319,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 418571,
@@ -665,6 +697,14 @@
       "onboard_time": 1715148442,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374465,
+      "num": 374465,
+      "word": "百度公关副总裁办公室抽打小人泄愤",
+      "onboard_time": 1715166199,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 370722,
@@ -772,7 +812,7 @@
     },
     {
       "raw_hot": 343668,
-      "num": 343668,
+      "num": 375520,
       "word": "官方回应男子串串店门口被刺身亡",
       "onboard_time": 1715162179,
       "rank": 8,
@@ -785,6 +825,14 @@
       "onboard_time": 1715140583,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 341826,
+      "num": 341826,
+      "word": "小米晋升两位高管",
+      "onboard_time": 1715163621,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 338084,
@@ -875,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311607,
+      "num": 311607,
+      "word": "黄觉穿了肖战定制的衣服",
+      "onboard_time": 1715166859,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307032,
       "num": 307032,
       "word": "恋与深空",
@@ -931,20 +987,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 294841,
-      "num": 294841,
-      "word": "张翰两句话得罪三个人",
-      "onboard_time": 1715163139,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 292938,
       "num": 265541,
       "word": "你并不需要读完本科立即读硕士",
       "onboard_time": 1715140522,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 291668,
+      "num": 291668,
+      "word": "新生 杀猪盘",
+      "onboard_time": 1715162961,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 289112,
@@ -1019,20 +1075,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 274589,
-      "num": 274589,
-      "word": "小米晋升两位高管",
-      "onboard_time": 1715163621,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 272925,
       "num": 238411,
       "word": "全家的关系比乱葬岗还乱",
       "onboard_time": 1715157680,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271437,
+      "num": 271437,
+      "word": "王者明世隐新皮肤",
+      "onboard_time": 1715165180,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 270870,
@@ -1169,14 +1225,6 @@
       "onboard_time": 1715149699,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 228261,
-      "num": 228261,
-      "word": "新生 杀猪盘",
-      "onboard_time": 1715162961,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 224945,
@@ -1385,6 +1433,14 @@
       "onboard_time": 1715158041,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 199188,
+      "num": 199188,
+      "word": "当情侣其中一方失业意味着什么",
+      "onboard_time": 1715163621,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 198588,
@@ -1617,6 +1673,14 @@
       "onboard_time": 1715139500,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175659,
+      "num": 175659,
+      "word": "百度总机回应公关副总裁璩静被开除",
+      "onboard_time": 1715166020,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 174494,
@@ -1915,6 +1979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149093,
+      "num": 149093,
+      "word": "摩羯座都是情绪管理大师",
+      "onboard_time": 1715165959,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147501,
       "num": 147501,
       "word": "酱园弄西林",
@@ -1955,6 +2027,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 144245,
+      "num": 144245,
+      "word": "迪丽热巴开推2内场路透",
+      "onboard_time": 1715165839,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144030,
       "num": 144030,
       "word": "雷霆罚球",
@@ -1993,14 +2073,6 @@
       "onboard_time": 1715120292,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142604,
-      "num": 142604,
-      "word": "当情侣其中一方失业意味着什么",
-      "onboard_time": 1715163621,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 141836,
@@ -2083,6 +2155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133488,
+      "num": 758366,
+      "word": "中国高铁技术如何改变塞尔维亚人的生活",
+      "onboard_time": 1715163080,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133239,
       "num": 133239,
       "word": "新款iPadPro仍不支持息屏常显",
@@ -2105,6 +2185,14 @@
       "onboard_time": 1715156600,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131690,
+      "num": 131690,
+      "word": "去韩国旅游不如以前火了",
+      "onboard_time": 1715164580,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 130780,
@@ -2259,6 +2347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118051,
+      "num": 118051,
+      "word": "你住蚊子家了啊",
+      "onboard_time": 1715166079,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117676,
       "num": 117676,
       "word": "蔡依林南昌",
@@ -2315,8 +2411,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108341,
+      "num": 108341,
+      "word": "当i人妈妈有个e人宝宝",
+      "onboard_time": 1715165300,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107932,
-      "num": 681032,
+      "num": 831329,
       "word": "塞尔维亚小女孩展示中国功夫",
       "onboard_time": 1715156899,
       "rank": 2,
@@ -2361,14 +2465,6 @@
       "onboard_time": 1715124677,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 91891,
-      "num": 342012,
-      "word": "中国高铁技术如何改变塞尔维亚人的生活",
-      "onboard_time": 1715163080,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86163,
