@@ -1,0 +1,410 @@
+{
+  "runTime": 1715141967595,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 878111,
+        "num": 878111,
+        "word": "史上最薄iPad",
+        "onboard_time": 1715135959,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 509079,
+        "num": 509079,
+        "word": "广东300吨冻眠10个月荔枝解冻上市",
+        "onboard_time": 1715131699,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62598,
+        "num": 484543,
+        "word": "一座百年钢厂见证中塞铁杆友谊",
+        "onboard_time": 1715140040,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1592439,
+        "num": 476496,
+        "word": "椰树涉擦边广告被罚40万",
+        "onboard_time": 1715136979,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 954494,
+        "num": 429779,
+        "word": "被妻子举报婚内出轨干部回应",
+        "onboard_time": 1715137701,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551386,
+        "num": 404547,
+        "word": "杨幂酱园弄人设",
+        "onboard_time": 1715138360,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 402699,
+        "num": 402699,
+        "word": "柯南 小兰票选第一",
+        "onboard_time": 1715136500,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 342026,
+        "num": 342026,
+        "word": "沈星回 我的光猎大人",
+        "onboard_time": 1715140583,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99430,
+        "num": 340966,
+        "word": "嫦娥六号成功实施近月制动",
+        "onboard_time": 1715135481,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61431,
+        "num": 338765,
+        "word": "来一场古风国潮旅游",
+        "onboard_time": 1715139983,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 667666,
+        "num": 337698,
+        "word": "淘宝免单",
+        "onboard_time": 1715136079,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 611440,
+        "num": 335220,
+        "word": "演唱会允许部分歌手闭麦让观众先唱",
+        "onboard_time": 1715140283,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 382276,
+        "num": 332782,
+        "word": "专家建议让年轻人缴费为家乡父母养老",
+        "onboard_time": 1715141122,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350796,
+        "num": 331383,
+        "word": "小龙虾很脏完全是误解",
+        "onboard_time": 1715131640,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 329336,
+        "num": 329336,
+        "word": "孟子义cue黄子韬是初代男团",
+        "onboard_time": 1715140040,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297929,
+        "num": 297929,
+        "word": "酱园弄中的易烊千玺",
+        "onboard_time": 1715135900,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261511,
+        "num": 261511,
+        "word": "庆余年范闲一家",
+        "onboard_time": 1715140942,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238338,
+        "num": 238338,
+        "word": "苹果实体Home键平板下架",
+        "onboard_time": 1715125518,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 233970,
+        "num": 233970,
+        "word": "网友称买的林俊杰演唱会门票变潘玮柏",
+        "onboard_time": 1715131880,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112977,
+        "num": 233468,
+        "word": "妈妈是第一个挺你的人",
+        "onboard_time": 1715139622,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 925106,
+        "num": 232163,
+        "word": "婚检后我被断崖式分手",
+        "onboard_time": 1715136261,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 750527,
+        "num": 231401,
+        "word": "原来真有yue这个字",
+        "onboard_time": 1715138541,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 505672,
+        "num": 230243,
+        "word": "喜茶免单",
+        "onboard_time": 1715141302,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 579975,
+        "num": 228768,
+        "word": "杨幂ip在美国",
+        "onboard_time": 1715138781,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444962,
+        "num": 227872,
+        "word": "儿子吸食上头电子烟父亲大义灭亲",
+        "onboard_time": 1715132840,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313711,
+        "num": 226579,
+        "word": "星期三放假非常科学的理由",
+        "onboard_time": 1715134881,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292938,
+        "num": 225580,
+        "word": "你并不需要读完本科立即读硕士",
+        "onboard_time": 1715140522,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 254531,
+        "num": 224533,
+        "word": "有些水果不甜但巨长胖",
+        "onboard_time": 1715126780,
+        "rank": 27,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 224407,
+        "num": 224407,
+        "word": "这个宝宝一出生就15岁了",
+        "onboard_time": 1715087539,
+        "rank": 28,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 164532,
+        "num": 222271,
+        "word": "塞尔维亚首都多处点亮中国红",
+        "onboard_time": 1715136979,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221173,
+        "num": 221173,
+        "word": "女子担心被扣费手抖输错密码躲过电诈",
+        "onboard_time": 1715139983,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209659,
+        "num": 209659,
+        "word": "赵梓婷 张露文",
+        "onboard_time": 1715127559,
+        "rank": 31,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 209041,
+        "num": 209041,
+        "word": "于适演技",
+        "onboard_time": 1715136861,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206247,
+        "num": 206247,
+        "word": "恋与深空",
+        "onboard_time": 1715138123,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203872,
+        "num": 203872,
+        "word": "隐忍一天的宝宝终于爆发了",
+        "onboard_time": 1715129183,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198711,
+        "num": 198711,
+        "word": "榴莲自由要实现了",
+        "onboard_time": 1715141422,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 193769,
+        "num": 193769,
+        "word": "松原地震",
+        "onboard_time": 1715136559,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192561,
+        "num": 192561,
+        "word": "A股",
+        "onboard_time": 1715141362,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177157,
+        "num": 177157,
+        "word": "眼泪女王没获奖的原因",
+        "onboard_time": 1715129121,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23712,
+        "num": 172607,
+        "word": "发量自由是一种什么体验",
+        "onboard_time": 1715141724,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 172176,
+        "num": 172176,
+        "word": "戚薇说最有热度是夏友善时期",
+        "onboard_time": 1715140643,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167328,
+        "num": 167328,
+        "word": "章子怡王传君酱园弄演夫妻",
+        "onboard_time": 1715139500,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165423,
+        "num": 165423,
+        "word": "男朋友在KTV练起了教资面试",
+        "onboard_time": 1715141242,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163767,
+        "num": 163767,
+        "word": "狼队经理 职场霸凌",
+        "onboard_time": 1715139082,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144621,
+        "num": 144621,
+        "word": "马来西亚女童弄坏橡皮擦遭同学性侵",
+        "onboard_time": 1715098875,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144544,
+        "num": 144544,
+        "word": "女子剖腹产后被家人用吊车送上7楼",
+        "onboard_time": 1715132181,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144181,
+        "num": 144181,
+        "word": "费可人设",
+        "onboard_time": 1715129362,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131137,
+        "num": 131137,
+        "word": "眼球突出真的是因为戴眼镜吗",
+        "onboard_time": 1715134340,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124757,
+        "num": 124757,
+        "word": "医院行凶者发朋友圈透露动机不实",
+        "onboard_time": 1715135660,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123768,
+        "num": 123768,
+        "word": "美国撤销高通和英特尔对华为出口许可",
+        "onboard_time": 1715141843,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首举行小范围会晤#"
+    }
+  }
+}

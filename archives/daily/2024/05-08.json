@@ -1,7 +1,15 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715139260731,
+  "endTime": 1715141967595,
   "band_list": [
+    {
+      "raw_hot": 1592439,
+      "num": 493885,
+      "word": "椰树涉擦边广告被罚40万",
+      "onboard_time": 1715136979,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1143072,
       "num": 365479,
@@ -19,16 +27,8 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 1098115,
-      "num": 493885,
-      "word": "椰树涉擦边广告被罚40万",
-      "onboard_time": 1715136979,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1095305,
-      "num": 331333,
+      "num": 337698,
       "word": "淘宝免单",
       "onboard_time": 1715136079,
       "rank": 10,
@@ -59,12 +59,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 954494,
+      "num": 429779,
+      "word": "被妻子举报婚内出轨干部回应",
+      "onboard_time": 1715137701,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 910093,
       "num": 400843,
       "word": "赵梓婷 张露文",
       "onboard_time": 1715127559,
       "rank": 12,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 878111,
+      "num": 878111,
+      "word": "史上最薄iPad",
+      "onboard_time": 1715135959,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 808446,
@@ -155,6 +171,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 611440,
+      "num": 335220,
+      "word": "演唱会允许部分歌手闭麦让观众先唱",
+      "onboard_time": 1715140283,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 604841,
       "num": 604841,
       "word": "广东300吨冻眠10个月荔枝解冻上市",
@@ -171,12 +195,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 569385,
-      "num": 569385,
-      "word": "史上最薄iPad",
-      "onboard_time": 1715135959,
-      "rank": 1,
-      "category": "数码"
+      "raw_hot": 579975,
+      "num": 243543,
+      "word": "杨幂ip在美国",
+      "onboard_time": 1715138781,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 551386,
+      "num": 404547,
+      "word": "杨幂酱园弄人设",
+      "onboard_time": 1715138360,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 548890,
@@ -193,6 +225,14 @@
       "onboard_time": 1715096599,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 505672,
+      "num": 230243,
+      "word": "喜茶免单",
+      "onboard_time": 1715141302,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 501573,
@@ -233,22 +273,6 @@
       "onboard_time": 1715088020,
       "rank": 17,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 470416,
-      "num": 379237,
-      "word": "杨幂酱园弄人设",
-      "onboard_time": 1715138360,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 458779,
-      "num": 327296,
-      "word": "被妻子举报婚内出轨干部回应",
-      "onboard_time": 1715137701,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 458336,
@@ -323,12 +347,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 391780,
-      "num": 243543,
-      "word": "杨幂ip在美国",
-      "onboard_time": 1715138781,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 402699,
+      "num": 402699,
+      "word": "柯南 小兰票选第一",
+      "onboard_time": 1715136500,
+      "rank": 8,
+      "category": "动漫"
     },
     {
       "raw_hot": 386514,
@@ -345,6 +369,14 @@
       "onboard_time": 1715131159,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 382276,
+      "num": 332782,
+      "word": "专家建议让年轻人缴费为家乡父母养老",
+      "onboard_time": 1715141122,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375864,
@@ -395,6 +427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 342026,
+      "num": 342026,
+      "word": "沈星回 我的光猎大人",
+      "onboard_time": 1715140583,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 338084,
       "num": 338084,
       "word": "张露文",
@@ -435,12 +475,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 332126,
-      "num": 332126,
-      "word": "柯南 小兰票选第一",
-      "onboard_time": 1715136500,
-      "rank": 8,
-      "category": "动漫"
+      "raw_hot": 329336,
+      "num": 329336,
+      "word": "孟子义cue黄子韬是初代男团",
+      "onboard_time": 1715140040,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 320012,
@@ -507,6 +547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 292938,
+      "num": 225580,
+      "word": "你并不需要读完本科立即读硕士",
+      "onboard_time": 1715140522,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 287698,
       "num": 287698,
       "word": "张艺凡跳舞了",
@@ -545,6 +593,14 @@
       "onboard_time": 1715133799,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 261511,
+      "num": 261511,
+      "word": "庆余年范闲一家",
+      "onboard_time": 1715140942,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 252924,
@@ -601,6 +657,14 @@
       "onboard_time": 1715128342,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 221173,
+      "num": 221173,
+      "word": "女子担心被扣费手抖输错密码躲过电诈",
+      "onboard_time": 1715139983,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219559,
@@ -691,6 +755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 198711,
+      "num": 198711,
+      "word": "榴莲自由要实现了",
+      "onboard_time": 1715141422,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 197404,
       "num": 197404,
       "word": "阴阳师嘉年华免费70抽",
@@ -737,6 +809,14 @@
       "onboard_time": 1715130861,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192561,
+      "num": 192561,
+      "word": "A股",
+      "onboard_time": 1715141362,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 187432,
@@ -787,6 +867,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 172176,
+      "num": 172176,
+      "word": "戚薇说最有热度是夏友善时期",
+      "onboard_time": 1715140643,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170448,
       "num": 170448,
       "word": "新款iPadPro仅1枚广角主摄",
@@ -811,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167328,
+      "num": 167328,
+      "word": "章子怡王传君酱园弄演夫妻",
+      "onboard_time": 1715139500,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165524,
       "num": 165524,
       "word": "背着善宰跑",
@@ -819,12 +915,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165423,
+      "num": 165423,
+      "word": "男朋友在KTV练起了教资面试",
+      "onboard_time": 1715141242,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164734,
       "num": 164734,
       "word": "新款iPad被吐槽涨价降配",
       "onboard_time": 1715131640,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 163767,
+      "num": 163767,
+      "word": "狼队经理 职场霸凌",
+      "onboard_time": 1715139082,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 162216,
@@ -857,14 +969,6 @@
       "onboard_time": 1715129542,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 153370,
-      "num": 153370,
-      "word": "狼队经理 职场霸凌",
-      "onboard_time": 1715139082,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 152594,
@@ -1051,6 +1155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 123768,
+      "num": 123768,
+      "word": "美国撤销高通和英特尔对华为出口许可",
+      "onboard_time": 1715141843,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122421,
       "num": 122421,
       "word": "小狗也有起床气",
@@ -1120,6 +1232,14 @@
       "word": "跟天蝎座相处的秘诀",
       "onboard_time": 1715084539,
       "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 112977,
+      "num": 233468,
+      "word": "妈妈是第一个挺你的人",
+      "onboard_time": 1715139622,
+      "rank": 19,
       "category": "情感"
     },
     {
@@ -1227,6 +1347,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62598,
+      "num": 484543,
+      "word": "一座百年钢厂见证中塞铁杆友谊",
+      "onboard_time": 1715140040,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 61431,
+      "num": 338765,
+      "word": "来一场古风国潮旅游",
+      "onboard_time": 1715139983,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 52093,
       "num": 52093,
       "word": "郑恺朱丹哭了",
@@ -1289,6 +1425,14 @@
       "onboard_time": 1715092281,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 23712,
+      "num": 172607,
+      "word": "发量自由是一种什么体验",
+      "onboard_time": 1715141724,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 20473,
