@@ -1,6 +1,6 @@
 {
   "startTime": 1715098889558,
-  "endTime": 1715150045318,
+  "endTime": 1715152767462,
   "band_list": [
     {
       "raw_hot": 1818309,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1251613,
-      "num": 247811,
+      "num": 252810,
       "word": "19岁女孩马桶上产子后将其杀害",
       "onboard_time": 1715144124,
       "rank": 20,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1182644,
-      "num": 242937,
+      "num": 248640,
       "word": "关晓彤徐梓钧是同学",
       "onboard_time": 1715148142,
       "rank": 21,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1181972,
-      "num": 306997,
+      "num": 351725,
       "word": "赵丽颖杨幂 戛纳",
       "onboard_time": 1715148500,
       "rank": 11,
@@ -81,6 +81,14 @@
       "onboard_time": 1715125518,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 975362,
+      "num": 975362,
+      "word": "榴莲自由要实现了",
+      "onboard_time": 1715141422,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 968245,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 815920,
-      "num": 308183,
+      "num": 347656,
       "word": "男子以接放学为由多次强奸11岁侄女",
       "onboard_time": 1715146281,
       "rank": 30,
@@ -163,20 +171,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 791488,
+      "num": 791488,
+      "word": "福建舰完成首次航行试验",
+      "onboard_time": 1715151020,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 790458,
       "num": 475926,
       "word": "我iPad也要低人一等了",
       "onboard_time": 1715094021,
       "rank": 3,
       "category": "数码"
-    },
-    {
-      "raw_hot": 781939,
-      "num": 781939,
-      "word": "榴莲自由要实现了",
-      "onboard_time": 1715141422,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 773996,
@@ -201,6 +209,14 @@
       "onboard_time": 1715132840,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 738626,
+      "num": 348981,
+      "word": "香飘飘股价大跌",
+      "onboard_time": 1715149221,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 705403,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 688354,
-      "num": 234791,
+      "num": 241553,
       "word": "每天0.5到3杯才是咖啡续命最佳剂量",
       "onboard_time": 1715145324,
       "rank": 47,
@@ -307,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 528049,
+      "num": 345484,
+      "word": "张艺兴林允儿将出席戛纳",
+      "onboard_time": 1715150601,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 513912,
       "num": 490550,
       "word": "长效避孕药不能突然停药",
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 460186,
-      "num": 303052,
+      "num": 452793,
       "word": "秦岚 那你恢复挺好的",
       "onboard_time": 1715148379,
       "rank": 14,
@@ -435,6 +459,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 409155,
+      "num": 409155,
+      "word": "魏大勋对着魏晨疯狂输出",
+      "onboard_time": 1715150060,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 405522,
       "num": 405522,
       "word": "Apple pencil",
@@ -475,12 +507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374651,
+      "num": 374651,
+      "word": "940多岁古树一年产2000多斤荔枝",
+      "onboard_time": 1715148442,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370722,
       "num": 370722,
       "word": "隐忍一天的宝宝终于爆发了",
       "onboard_time": 1715129183,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 367670,
+      "num": 236654,
+      "word": "男子自称龙人强奸诈骗多人被判无期",
+      "onboard_time": 1715149399,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360172,
@@ -516,7 +564,7 @@
     },
     {
       "raw_hot": 350966,
-      "num": 350966,
+      "num": 353060,
       "word": "塞尔维亚人请客吃饭很山东",
       "onboard_time": 1715147121,
       "rank": 6,
@@ -540,7 +588,7 @@
     },
     {
       "raw_hot": 349275,
-      "num": 283678,
+      "num": 291245,
       "word": "陶昕然否认是单亲家庭",
       "onboard_time": 1715147842,
       "rank": 17,
@@ -553,6 +601,14 @@
       "onboard_time": 1715094561,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 345124,
+      "num": 345124,
+      "word": "黄觉井柏然 好嗑",
+      "onboard_time": 1715149341,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 342026,
@@ -651,28 +707,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 304050,
-      "num": 270156,
-      "word": "香飘飘股价大跌",
-      "onboard_time": 1715149221,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 304023,
       "num": 304023,
       "word": "汤唯金秀贤合影",
       "onboard_time": 1715127081,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301685,
-      "num": 225684,
-      "word": "男子自称龙人强奸诈骗多人被判无期",
-      "onboard_time": 1715149399,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 301178,
@@ -689,14 +729,6 @@
       "onboard_time": 1715133621,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 299061,
-      "num": 299061,
-      "word": "黄觉井柏然 好嗑",
-      "onboard_time": 1715149341,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 292938,
@@ -795,11 +827,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265375,
-      "num": 265375,
-      "word": "940多岁古树一年产2000多斤荔枝",
-      "onboard_time": 1715148442,
-      "rank": 27,
+      "raw_hot": 254131,
+      "num": 254131,
+      "word": "仅有6条高铁线路盈利",
+      "onboard_time": 1715151981,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -873,6 +905,14 @@
       "onboard_time": 1715131221,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 227434,
+      "num": 227434,
+      "word": "降体脂捷径是空腹燃脂走",
+      "onboard_time": 1715149699,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 224945,
@@ -995,6 +1035,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 201775,
+      "num": 201775,
+      "word": "新款iPad不支持ApplePencil二代",
+      "onboard_time": 1715152159,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 201758,
       "num": 201758,
       "word": "繁花报名白玉兰奖",
@@ -1003,12 +1051,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199911,
+      "num": 199911,
+      "word": "五一假期雪姨的手快拍烂了",
+      "onboard_time": 1715151440,
+      "rank": 30,
+      "category": "幽默,作品衍生"
+    },
+    {
+      "raw_hot": 199531,
+      "num": 199531,
+      "word": "王一博赛道赛车",
+      "onboard_time": 1715151740,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198588,
+      "num": 198588,
+      "word": "空腹吃荔枝易导致血糖下降",
+      "onboard_time": 1715151981,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 197404,
       "num": 197404,
       "word": "阴阳师嘉年华免费70抽",
       "onboard_time": 1715138541,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197164,
+      "num": 197164,
+      "word": "广西榴莲100元5个是噱头",
+      "onboard_time": 1715152099,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 197012,
@@ -1291,6 +1371,22 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 154638,
+      "num": 154638,
+      "word": "化完妆以后最灾难的事",
+      "onboard_time": 1715151620,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 154497,
+      "num": 154497,
+      "word": "减肥党千万别吃的水果",
+      "onboard_time": 1715151981,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 154007,
       "num": 154007,
       "word": "世界微笑日",
@@ -1305,6 +1401,14 @@
       "onboard_time": 1715129542,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153565,
+      "num": 153565,
+      "word": "王楚钦孙颖莎对阵张本智和早田希娜",
+      "onboard_time": 1715151800,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 152594,
@@ -1387,6 +1491,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 145385,
+      "num": 145385,
+      "word": "卡琳娜晚安大小姐",
+      "onboard_time": 1715150601,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 144030,
       "num": 144030,
       "word": "雷霆罚球",
@@ -1443,6 +1555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139310,
+      "num": 139310,
+      "word": "80岁爷爷cos 间谍过家家",
+      "onboard_time": 1715150359,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 137581,
       "num": 137581,
       "word": "女厕需要更多的坑位",
@@ -1475,20 +1595,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134624,
+      "num": 134624,
+      "word": "守护花蕾计划称张露文未参与项目管理",
+      "onboard_time": 1715150961,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 133744,
       "num": 133744,
       "word": "秦岚45岁身材管理",
       "onboard_time": 1715084659,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133642,
-      "num": 133642,
-      "word": "降体脂捷径是空腹燃脂走",
-      "onboard_time": 1715149699,
-      "rank": 44,
-      "category": "运动健身"
     },
     {
       "raw_hot": 133239,
@@ -1521,6 +1641,14 @@
       "onboard_time": 1715091861,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 126186,
+      "num": 126186,
+      "word": "能这样养猫姐妹你配享太庙",
+      "onboard_time": 1715152279,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 126069,
@@ -1609,6 +1737,14 @@
       "onboard_time": 1715092401,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118457,
+      "num": 118457,
+      "word": "赵睿宣布赛季可能提前报销",
+      "onboard_time": 1715152579,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 116058,
@@ -1817,6 +1953,14 @@
       "onboard_time": 1715088260,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36187,
+      "num": 230451,
+      "word": "赵小棠好宠妈妈",
+      "onboard_time": 1715151081,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 29473,
