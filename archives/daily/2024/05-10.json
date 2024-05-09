@@ -1,6 +1,6 @@
 {
   "startTime": 1715271798898,
-  "endTime": 1715274984099,
+  "endTime": 1715276065340,
   "band_list": [
     {
       "raw_hot": 1325136,
@@ -88,6 +88,14 @@
       "word": "全国仅剩6地未全面取消住房限购",
       "onboard_time": 1715241799,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298845,
+      "num": 139002,
+      "word": "南充16岁高中女生已失联5天",
+      "onboard_time": 1715273536,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -217,14 +225,6 @@
       "onboard_time": 1715271916,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 165072,
-      "num": 139002,
-      "word": "南充16岁高中女生已失联5天",
-      "onboard_time": 1715273536,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161407,
@@ -457,6 +457,22 @@
       "onboard_time": 1715266700,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 56736,
+      "num": 56736,
+      "word": "金牛座的精神支柱",
+      "onboard_time": 1715275334,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 55536,
+      "num": 55536,
+      "word": "奶茶过了这个时间点就别喝了",
+      "onboard_time": 1715275093,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 47903,
