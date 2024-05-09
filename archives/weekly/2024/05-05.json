@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715224836495,
+  "endTime": 1715225680651,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -99,8 +99,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2126870,
-      "num": 2126870,
+      "raw_hot": 2248368,
+      "num": 2248368,
       "word": "庆余年2首播4集不断更",
       "onboard_time": 1715222478,
       "rank": 39,
@@ -771,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1076906,
+      "num": 370336,
+      "word": "宁夏发生一起交通事故致9死2伤",
+      "onboard_time": 1715223860,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1075663,
       "num": 866391,
       "word": "缅甸",
@@ -1043,14 +1051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 896331,
-      "num": 332332,
-      "word": "宁夏发生一起交通事故致9死2伤",
-      "onboard_time": 1715223860,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 889938,
       "num": 372477,
       "word": "存款十几万在小县城什么水平",
@@ -1209,6 +1209,14 @@
       "onboard_time": 1714866495,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 842130,
+      "num": 364025,
+      "word": "鸭嘴钳",
+      "onboard_time": 1715222598,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 833538,
@@ -1811,14 +1819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 681366,
-      "num": 328931,
-      "word": "鸭嘴钳",
-      "onboard_time": 1715222598,
-      "rank": 11,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 678210,
       "num": 678210,
       "word": "歌手2024主持人阵容",
@@ -1881,6 +1881,14 @@
       "onboard_time": 1715069720,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 656113,
+      "num": 360288,
+      "word": "男子称订婚给34万彩礼后女方退婚不退钱",
+      "onboard_time": 1715221937,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 654897,
@@ -2499,14 +2507,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 532289,
-      "num": 317936,
-      "word": "男子称订婚给34万彩礼后女方退婚不退钱",
-      "onboard_time": 1715221937,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 531543,
       "num": 308028,
       "word": "易烊千玺机场",
@@ -3089,6 +3089,14 @@
       "onboard_time": 1714833079,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 453494,
+      "num": 453494,
+      "word": "蓝盈莹晒甄嬛传大合影",
+      "onboard_time": 1715224338,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 452047,
@@ -4475,6 +4483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321279,
+      "num": 321279,
+      "word": "智慧天网一号01星发射成功",
+      "onboard_time": 1715224399,
+      "rank": 32,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 321267,
       "num": 321267,
       "word": "谢帝在新说唱向诺米道歉",
@@ -5339,6 +5355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 268958,
+      "num": 262500,
+      "word": "为什么恋爱变得越来越难了",
+      "onboard_time": 1715224279,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 268833,
       "num": 215595,
       "word": "好像和结了婚的朋友慢慢变淡了",
@@ -5497,6 +5521,14 @@
       "onboard_time": 1715000778,
       "rank": 39,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 259306,
+      "num": 259306,
+      "word": "新款iPad也不附赠充电器了",
+      "onboard_time": 1715223738,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 259188,
@@ -5665,14 +5697,6 @@
       "onboard_time": 1715130680,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 248860,
-      "num": 248860,
-      "word": "蓝盈莹晒甄嬛传大合影",
-      "onboard_time": 1715224338,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 248723,
@@ -6571,28 +6595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213615,
-      "num": 213615,
-      "word": "新款iPad也不附赠充电器了",
-      "onboard_time": 1715223738,
-      "rank": 27,
-      "category": "数码"
-    },
-    {
       "raw_hot": 213520,
       "num": 213520,
       "word": "真的有养不熟的猫",
       "onboard_time": 1714880179,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 212861,
-      "num": 212861,
-      "word": "为什么恋爱变得越来越难了",
-      "onboard_time": 1715224279,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 212688,
@@ -6745,6 +6753,14 @@
       "onboard_time": 1714906759,
       "rank": 37,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 208635,
+      "num": 203552,
+      "word": "长期往两边吹发根有记忆了",
+      "onboard_time": 1715225120,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 208575,
@@ -6923,20 +6939,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 204429,
+      "num": 204429,
+      "word": "王鹤棣自转",
+      "onboard_time": 1715224759,
+      "rank": 43,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 204391,
       "num": 204391,
       "word": "朱丹说周一围的颜值是意外之喜",
       "onboard_time": 1715006541,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204358,
-      "num": 204358,
-      "word": "智慧天网一号01星发射成功",
-      "onboard_time": 1715224399,
-      "rank": 32,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 203999,
@@ -7033,6 +7049,14 @@
       "onboard_time": 1715084178,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201884,
+      "num": 201884,
+      "word": "7部影片定档端午档",
+      "onboard_time": 1715224938,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 201763,
@@ -7185,6 +7209,14 @@
       "onboard_time": 1715151740,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199364,
+      "num": 199364,
+      "word": "寻找于适阿勒泰足迹",
+      "onboard_time": 1715225058,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 199295,
@@ -8003,6 +8035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186779,
+      "num": 186779,
+      "word": "庆余年2的排面",
+      "onboard_time": 1715224997,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186705,
       "num": 186705,
       "word": "法国总统收到中文图书礼物",
@@ -8113,6 +8153,14 @@
       "onboard_time": 1715042059,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 183994,
+      "num": 183994,
+      "word": "专家建议学校增设春秋假",
+      "onboard_time": 1715225417,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 183956,
@@ -9259,6 +9307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162933,
+      "num": 162933,
+      "word": "一起来看巴黎奥运会",
+      "onboard_time": 1715224818,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162815,
       "num": 162815,
       "word": "陈梦王曼昱vs王艺迪陈幸同",
@@ -9585,6 +9641,14 @@
       "onboard_time": 1715169859,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156753,
+      "num": 156753,
+      "word": "没一个幼崽挨打是无辜的",
+      "onboard_time": 1715224938,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 156638,
@@ -10443,14 +10507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139843,
-      "num": 139843,
-      "word": "王鹤棣自转",
-      "onboard_time": 1715224759,
-      "rank": 43,
-      "category": "艺人,剧集"
-    },
-    {
       "raw_hot": 139714,
       "num": 139714,
       "word": "严浩翔ScaryMovie练习室版",
@@ -10561,6 +10617,14 @@
       "onboard_time": 1714865956,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135515,
+      "num": 135515,
+      "word": "峨眉山景区回应骡子驮重物上山",
+      "onboard_time": 1715225600,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135483,
@@ -10801,14 +10865,6 @@
       "onboard_time": 1714908259,
       "rank": 44,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 130184,
-      "num": 130184,
-      "word": "一起来看巴黎奥运会",
-      "onboard_time": 1715224818,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 130094,
@@ -11739,6 +11795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95258,
+      "num": 372654,
+      "word": "塞尔维亚蓝莓要来中国了",
+      "onboard_time": 1715224938,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95016,
       "num": 475435,
       "word": "奇瑞把车从32米高空垂直扔下",
@@ -12555,6 +12619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20730,
+      "num": 691697,
+      "word": "匈牙利为何被称为最西边的东方国家",
+      "onboard_time": 1715225358,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20473,
       "num": 20473,
       "word": "Alielie发文澄清",
@@ -12772,6 +12844,9 @@
     },
     {
       "word": "#习近平同武契奇举行大范围会谈#"
+    },
+    {
+      "word": "#匈牙利总理欢迎习近平夫妇来家里#"
     }
   ]
 }
