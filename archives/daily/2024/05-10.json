@@ -1,6 +1,6 @@
 {
   "startTime": 1715271798898,
-  "endTime": 1715289582929,
+  "endTime": 1715290465767,
   "band_list": [
     {
       "raw_hot": 1325136,
@@ -467,6 +467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 59773,
+      "num": 59773,
+      "word": "以前的跑男和现在的跑男",
+      "onboard_time": 1715281511,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56736,
       "num": 56736,
       "word": "金牛座的精神支柱",
@@ -481,14 +489,6 @@
       "onboard_time": 1715275093,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 54512,
-      "num": 54512,
-      "word": "以前的跑男和现在的跑男",
-      "onboard_time": 1715281511,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 47903,
@@ -523,12 +523,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22555,
-      "num": 22555,
+      "raw_hot": 26972,
+      "num": 26972,
       "word": "免签144小时外国人成国内旅游特种兵",
       "onboard_time": 1715288110,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 22981,
+      "num": 22981,
+      "word": "江疏影叫杨祐宁脱光衣服去游泳",
+      "onboard_time": 1715289611,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 22484,
@@ -539,20 +547,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 19905,
+      "num": 19905,
+      "word": "璩静修改账号简介",
+      "onboard_time": 1715287030,
+      "rank": 32,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 18022,
       "num": 20026,
       "word": "Faker评价Knight",
       "onboard_time": 1715282470,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 17752,
-      "num": 17752,
-      "word": "璩静修改账号简介",
-      "onboard_time": 1715287030,
-      "rank": 32,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 16291,
@@ -579,7 +587,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11838,
+      "raw_hot": 11906,
       "num": 102356,
       "word": "中匈乐器合奏茉莉花太绝了",
       "onboard_time": 1715266399,
