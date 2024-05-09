@@ -1,0 +1,410 @@
+{
+  "runTime": 1715293017937,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 243961,
+        "num": 243961,
+        "word": "南充16岁高中女生已失联5天",
+        "onboard_time": 1715273536,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206829,
+        "num": 206829,
+        "word": "那些长期不上班的人最后都怎么样了",
+        "onboard_time": 1715255057,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19480,
+        "num": 156077,
+        "word": "中匈乐器合奏茉莉花太绝了",
+        "onboard_time": 1715266399,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 280672,
+        "num": 154531,
+        "word": "人死后聊天记录会被怎样处理",
+        "onboard_time": 1715263821,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146576,
+        "num": 146576,
+        "word": "迄今为止最恐怖的太空照片之一",
+        "onboard_time": 1715262200,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 130556,
+        "num": 130556,
+        "word": "以前的跑男和现在的跑男",
+        "onboard_time": 1715281511,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123616,
+        "num": 123616,
+        "word": "王楚钦孙颖莎冠军",
+        "onboard_time": 1715272036,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77259,
+        "num": 77259,
+        "word": "璩静",
+        "onboard_time": 1715271017,
+        "rank": 7,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 67599,
+        "num": 67599,
+        "word": "旅客飞机突发疾病抢救无效去世",
+        "onboard_time": 1715262860,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21230,
+        "num": 65230,
+        "word": "匈牙利学生说中文绕口令有多溜",
+        "onboard_time": 1715269877,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173685,
+        "num": 65172,
+        "word": "璩静称百度内部有人花2000元发文黑自己",
+        "onboard_time": 1715270956,
+        "rank": 10,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 110435,
+        "num": 65090,
+        "word": "江疏影叫杨祐宁脱光衣服去游泳",
+        "onboard_time": 1715289611,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63142,
+        "num": 63142,
+        "word": "狐妖小红娘月红篇",
+        "onboard_time": 1715265979,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57212,
+        "num": 57212,
+        "word": "王楚钦加油",
+        "onboard_time": 1715274074,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52390,
+        "num": 52390,
+        "word": "王一博车被拖走了",
+        "onboard_time": 1715262560,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48533,
+        "num": 48533,
+        "word": "璩静本人暂未回应离职传闻",
+        "onboard_time": 1715271077,
+        "rank": 15,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 47305,
+        "num": 47305,
+        "word": "王楚钦 一天三赛习惯了",
+        "onboard_time": 1715259619,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42496,
+        "num": 42496,
+        "word": "莫文蔚别让我跪下求你官宣",
+        "onboard_time": 1715281690,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38794,
+        "num": 38794,
+        "word": "张若昀说五年里尽力在保养",
+        "onboard_time": 1715255178,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37569,
+        "num": 37569,
+        "word": "前有王传君拜佛现有胡先煦烧香",
+        "onboard_time": 1715281092,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126619,
+        "num": 37458,
+        "word": "药店门口为什么总写着万艾可到货",
+        "onboard_time": 1715252538,
+        "rank": 20,
+        "category": "科学科普,科学科普"
+      },
+      {
+        "raw_hot": 41872,
+        "num": 37401,
+        "word": "娜扎 就担心我艳压你",
+        "onboard_time": 1715251159,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38923,
+        "num": 37285,
+        "word": "免签144小时外国人成国内旅游特种兵",
+        "onboard_time": 1715288110,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 37062,
+        "num": 37062,
+        "word": "全国仅剩6地未全面取消住房限购",
+        "onboard_time": 1715241799,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36596,
+        "num": 36596,
+        "word": "王楚钦孙颖莎3比0黄镇廷杜凯琹",
+        "onboard_time": 1715273295,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36137,
+        "num": 36137,
+        "word": "胡歌为拍这部戏观察我三年",
+        "onboard_time": 1715259558,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35948,
+        "num": 35948,
+        "word": "最适合离职的头像出现了",
+        "onboard_time": 1715267239,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35341,
+        "num": 35341,
+        "word": "于正回应与庆余年2狐妖撞档",
+        "onboard_time": 1715262980,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32467,
+        "num": 32467,
+        "word": "陈思建宵夜婚礼",
+        "onboard_time": 1715262980,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 31774,
+        "num": 31774,
+        "word": "孙颖莎11比1",
+        "onboard_time": 1715281331,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41924,
+        "num": 31774,
+        "word": "金高银百想影后30秒内全票通过",
+        "onboard_time": 1715291831,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31761,
+        "num": 31761,
+        "word": "郭碧婷高马尾女团风",
+        "onboard_time": 1715266040,
+        "rank": 31,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 31691,
+        "num": 31691,
+        "word": "奶茶过了这个时间点就别喝了",
+        "onboard_time": 1715275093,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 29845,
+        "num": 29845,
+        "word": "诺基亚回归",
+        "onboard_time": 1715259018,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29072,
+        "num": 29072,
+        "word": "赵丽颖的精神内核好稳",
+        "onboard_time": 1715268020,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28222,
+        "num": 28222,
+        "word": "原来晒被子不能晒一整天",
+        "onboard_time": 1715263999,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 28166,
+        "num": 28166,
+        "word": "璩静修改账号简介",
+        "onboard_time": 1715287030,
+        "rank": 36,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 25549,
+        "num": 25549,
+        "word": "莎头是冠军",
+        "onboard_time": 1715272875,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25006,
+        "num": 25006,
+        "word": "金牛座的精神支柱",
+        "onboard_time": 1715275334,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24391,
+        "num": 24391,
+        "word": "时代峰峻",
+        "onboard_time": 1715267119,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24274,
+        "num": 24274,
+        "word": "怡宝回应新包装",
+        "onboard_time": 1715261779,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23432,
+        "num": 23432,
+        "word": "张元英被威胁",
+        "onboard_time": 1715243779,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23234,
+        "num": 23234,
+        "word": "新生",
+        "onboard_time": 1715252177,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22967,
+        "num": 22967,
+        "word": "心疼花海",
+        "onboard_time": 1715267119,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21083,
+        "num": 22961,
+        "word": "关雪杀死了宋卓武",
+        "onboard_time": 1715269398,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20594,
+        "num": 22952,
+        "word": "范若若回归",
+        "onboard_time": 1715283191,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20539,
+        "num": 22940,
+        "word": "莎头组合混双决赛",
+        "onboard_time": 1715273295,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18394,
+        "num": 22931,
+        "word": "aespa正规一辑试听",
+        "onboard_time": 1715271916,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17349,
+        "num": 22930,
+        "word": "张露文",
+        "onboard_time": 1715270597,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17197,
+        "num": 22913,
+        "word": "淘宝免单",
+        "onboard_time": 1715242098,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#引领中匈关系不断迈向更高水平#"
+    }
+  }
+}

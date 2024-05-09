@@ -1,6 +1,6 @@
 {
   "startTime": 1715271798898,
-  "endTime": 1715290465767,
+  "endTime": 1715293017937,
   "band_list": [
     {
       "raw_hot": 1325136,
@@ -259,6 +259,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 130556,
+      "num": 130556,
+      "word": "以前的跑男和现在的跑男",
+      "onboard_time": 1715281511,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130119,
       "num": 130119,
       "word": "周洛对南雅被侵犯道歉",
@@ -297,6 +305,14 @@
       "onboard_time": 1715261779,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110435,
+      "num": 65090,
+      "word": "江疏影叫杨祐宁脱光衣服去游泳",
+      "onboard_time": 1715289611,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 108930,
@@ -467,14 +483,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 59773,
-      "num": 59773,
-      "word": "以前的跑男和现在的跑男",
-      "onboard_time": 1715281511,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 56736,
       "num": 56736,
       "word": "金牛座的精神支柱",
@@ -507,36 +515,44 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 40273,
-      "num": 39160,
+      "raw_hot": 42496,
+      "num": 42496,
       "word": "莫文蔚别让我跪下求你官宣",
       "onboard_time": 1715281690,
       "rank": 33,
       "category": "演出"
     },
     {
-      "raw_hot": 27464,
-      "num": 27464,
-      "word": "前有王传君拜佛现有胡先煦烧香",
-      "onboard_time": 1715281092,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 41924,
+      "num": 31774,
+      "word": "金高银百想影后30秒内全票通过",
+      "onboard_time": 1715291831,
+      "rank": 30,
+      "category": "电影"
     },
     {
-      "raw_hot": 26972,
-      "num": 26972,
+      "raw_hot": 38923,
+      "num": 37285,
       "word": "免签144小时外国人成国内旅游特种兵",
       "onboard_time": 1715288110,
       "rank": 24,
       "category": "旅游"
     },
     {
-      "raw_hot": 22981,
-      "num": 22981,
-      "word": "江疏影叫杨祐宁脱光衣服去游泳",
-      "onboard_time": 1715289611,
-      "rank": 26,
+      "raw_hot": 37569,
+      "num": 37569,
+      "word": "前有王传君拜佛现有胡先煦烧香",
+      "onboard_time": 1715281092,
+      "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28166,
+      "num": 28166,
+      "word": "璩静修改账号简介",
+      "onboard_time": 1715287030,
+      "rank": 32,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 22484,
@@ -547,12 +563,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 19905,
-      "num": 19905,
-      "word": "璩静修改账号简介",
-      "onboard_time": 1715287030,
-      "rank": 32,
-      "category": "互联网,网红"
+      "raw_hot": 20594,
+      "num": 22952,
+      "word": "范若若回归",
+      "onboard_time": 1715283191,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19480,
+      "num": 156077,
+      "word": "中匈乐器合奏茉莉花太绝了",
+      "onboard_time": 1715266399,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18022,
@@ -561,14 +585,6 @@
       "onboard_time": 1715282470,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 16291,
-      "num": 19816,
-      "word": "范若若回归",
-      "onboard_time": 1715283191,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 14999,
@@ -585,14 +601,6 @@
       "onboard_time": 1715286851,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11906,
-      "num": 102356,
-      "word": "中匈乐器合奏茉莉花太绝了",
-      "onboard_time": 1715266399,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

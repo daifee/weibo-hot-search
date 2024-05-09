@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715290465767,
+  "endTime": 1715293017937,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -12571,6 +12571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130556,
+      "num": 130556,
+      "word": "以前的跑男和现在的跑男",
+      "onboard_time": 1715281511,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130204,
       "num": 130204,
       "word": "淄博炒锅饼因人太多转线上销售了",
@@ -13401,6 +13409,14 @@
       "onboard_time": 1714993340,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110435,
+      "num": 65090,
+      "word": "江疏影叫杨祐宁脱光衣服去游泳",
+      "onboard_time": 1715289611,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 110189,
@@ -14323,14 +14339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 59773,
-      "num": 59773,
-      "word": "以前的跑男和现在的跑男",
-      "onboard_time": 1715281511,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 58883,
       "num": 860461,
       "word": "国羽女队捧杯瞬间",
@@ -14539,12 +14547,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42496,
+      "num": 42496,
+      "word": "莫文蔚别让我跪下求你官宣",
+      "onboard_time": 1715281690,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 41924,
       "num": 1219207,
       "word": "150秒了解中塞铁杆友谊",
       "onboard_time": 1715173159,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41924,
+      "num": 31774,
+      "word": "金高银百想影后30秒内全票通过",
+      "onboard_time": 1715291831,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 41774,
@@ -14571,20 +14595,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40273,
-      "num": 39160,
-      "word": "莫文蔚别让我跪下求你官宣",
-      "onboard_time": 1715281690,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 39244,
       "num": 39244,
       "word": "真的讨厌HR问我空窗期干嘛了",
       "onboard_time": 1715105471,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 38923,
+      "num": 37285,
+      "word": "免签144小时外国人成国内旅游特种兵",
+      "onboard_time": 1715288110,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 38795,
@@ -14601,6 +14625,14 @@
       "onboard_time": 1714929853,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37569,
+      "num": 37569,
+      "word": "前有王传君拜佛现有胡先煦烧香",
+      "onboard_time": 1715281092,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 37460,
@@ -14683,6 +14715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28166,
+      "num": 28166,
+      "word": "璩静修改账号简介",
+      "onboard_time": 1715287030,
+      "rank": 32,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 27961,
       "num": 334939,
       "word": "杨紫节后开工妆",
@@ -14699,22 +14739,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 27464,
-      "num": 27464,
-      "word": "前有王传君拜佛现有胡先煦烧香",
-      "onboard_time": 1715281092,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 26972,
-      "num": 26972,
-      "word": "免签144小时外国人成国内旅游特种兵",
-      "onboard_time": 1715288110,
-      "rank": 24,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 25773,
       "num": 27708,
       "word": "李沁拿鸡腿",
@@ -14729,14 +14753,6 @@
       "onboard_time": 1714930873,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 22981,
-      "num": 22981,
-      "word": "江疏影叫杨祐宁脱光衣服去游泳",
-      "onboard_time": 1715289611,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 22967,
@@ -14771,6 +14787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20594,
+      "num": 22952,
+      "word": "范若若回归",
+      "onboard_time": 1715283191,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20473,
       "num": 20473,
       "word": "Alielie发文澄清",
@@ -14779,12 +14803,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 19905,
-      "num": 19905,
-      "word": "璩静修改账号简介",
-      "onboard_time": 1715287030,
-      "rank": 32,
-      "category": "互联网,网红"
+      "raw_hot": 19480,
+      "num": 156077,
+      "word": "中匈乐器合奏茉莉花太绝了",
+      "onboard_time": 1715266399,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18557,
@@ -14809,14 +14833,6 @@
       "onboard_time": 1715092881,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 16291,
-      "num": 19816,
-      "word": "范若若回归",
-      "onboard_time": 1715283191,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 15717,
@@ -14881,14 +14897,6 @@
       "onboard_time": 1715027650,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11906,
-      "num": 102356,
-      "word": "中匈乐器合奏茉莉花太绝了",
-      "onboard_time": 1715266399,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11559,
