@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715211338915,
+  "endTime": 1715217358312,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -395,6 +395,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1394125,
+      "num": 1394125,
+      "word": "杭州全面取消住房限购",
+      "onboard_time": 1715215760,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1383418,
+      "num": 1383418,
+      "word": "老外被中国人的约饭节奏震惊了",
+      "onboard_time": 1715213900,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1362993,
       "num": 1362993,
       "word": "曝iPhone17将推Slim机型",
@@ -513,6 +529,14 @@
       "onboard_time": 1714871057,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1251951,
+      "num": 490447,
+      "word": "百度副总裁深夜致歉",
+      "onboard_time": 1715212278,
+      "rank": 10,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1251613,
@@ -651,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1135694,
+      "num": 1135694,
+      "word": "2到3天后或发生地磁暴",
+      "onboard_time": 1715211677,
+      "rank": 3,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 1129942,
       "num": 867170,
       "word": "iPad",
@@ -665,6 +697,14 @@
       "onboard_time": 1714963698,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1110116,
+      "num": 1110116,
+      "word": "医保卡里的钱可以给亲人买药吗",
+      "onboard_time": 1715201710,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1104595,
@@ -696,14 +736,6 @@
       "word": "小杨哥称在发现高价水之后就要求降价",
       "onboard_time": 1715088199,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1090556,
-      "num": 1090556,
-      "word": "医保卡里的钱可以给亲人买药吗",
-      "onboard_time": 1715201710,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -1475,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 739511,
+      "num": 489484,
+      "word": "瘦肚子最快的运动是跳跃",
+      "onboard_time": 1715213179,
+      "rank": 11,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 738816,
       "num": 684985,
       "word": "男子冒充胖猫事件女主被行政处罚",
@@ -1867,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641228,
+      "num": 641228,
+      "word": "男子离婚要求分割女方父母所赠房产",
+      "onboard_time": 1715215160,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638779,
       "num": 638779,
       "word": "原来高铁上是有15元的盒饭的",
@@ -2243,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 549985,
+      "num": 549985,
+      "word": "妙可蓝多反式脂肪酸",
+      "onboard_time": 1715210536,
+      "rank": 13,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 548902,
       "num": 548902,
       "word": "明日方舟bug",
@@ -2579,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493509,
+      "num": 493509,
+      "word": "灵隐寺的七叶古树开花了",
+      "onboard_time": 1715210776,
+      "rank": 15,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 492801,
       "num": 492801,
       "word": "我的阿勒泰 新疆宣传片",
@@ -2649,6 +2713,14 @@
       "onboard_time": 1715157741,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 484608,
+      "num": 484608,
+      "word": "90后医生下班摆摊日入1500元",
+      "onboard_time": 1715213778,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 481754,
@@ -3635,6 +3707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373337,
+      "num": 373337,
+      "word": "妙可蓝多市值三年蒸发365亿",
+      "onboard_time": 1715216898,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 373052,
       "num": 373052,
       "word": "井柏然演技",
@@ -3657,6 +3737,14 @@
       "onboard_time": 1715050699,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371433,
+      "num": 205272,
+      "word": "黑人小姐姐觉得自己是全家最难看的",
+      "onboard_time": 1715216959,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 370722,
@@ -3785,6 +3873,14 @@
       "onboard_time": 1714898539,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360855,
+      "num": 360855,
+      "word": "NINEPERCENT专辑",
+      "onboard_time": 1715213599,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 360172,
@@ -4091,6 +4187,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 337949,
+      "num": 308028,
+      "word": "易烊千玺机场",
+      "onboard_time": 1715216778,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337410,
       "num": 337410,
       "word": "辽宁男篮vs广东男篮",
@@ -4201,6 +4305,22 @@
       "onboard_time": 1715136979,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 331479,
+      "num": 331479,
+      "word": "益禾堂联名",
+      "onboard_time": 1715212398,
+      "rank": 17,
+      "category": "美食,动漫"
+    },
+    {
+      "raw_hot": 330327,
+      "num": 330327,
+      "word": "边裁向拜仁道歉",
+      "onboard_time": 1715212098,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 330219,
@@ -4568,6 +4688,14 @@
       "word": "叶祖新怎么越老越帅",
       "onboard_time": 1714897639,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 302884,
+      "num": 302884,
+      "word": "杨幂下一部剧是狐妖月红篇",
+      "onboard_time": 1715215521,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -5995,6 +6123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222562,
+      "num": 507606,
+      "word": "中文在匈牙利已成为高考外语科目之一",
+      "onboard_time": 1715214438,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 221933,
       "num": 221933,
       "word": "李一桐新剧孕妇一秒变刑警",
@@ -6225,6 +6361,14 @@
       "onboard_time": 1714974618,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 215649,
+      "num": 215649,
+      "word": "5种食物是寄生虫重灾区",
+      "onboard_time": 1715210235,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 215531,
@@ -6521,6 +6665,14 @@
       "onboard_time": 1715092401,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 206011,
+      "num": 206011,
+      "word": "云南白药多位高管被带走调查",
+      "onboard_time": 1715215939,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205857,
@@ -7235,6 +7387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193594,
+      "num": 193594,
+      "word": "为什么建议减肥人群喝黑咖啡",
+      "onboard_time": 1715190072,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 193534,
       "num": 193534,
       "word": "百想眼泪女王颗粒无收",
@@ -7521,6 +7681,14 @@
       "onboard_time": 1714882217,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188614,
+      "num": 188614,
+      "word": "黄俊捷 韩娱爱豆味",
+      "onboard_time": 1715216600,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188267,
@@ -7947,6 +8115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 180047,
+      "num": 180047,
+      "word": "中国和塞尔维亚发布联合声明",
+      "onboard_time": 1715210656,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 179958,
       "num": 179958,
       "word": "汪苏泷达成万人点头成就",
@@ -8059,6 +8235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177389,
+      "num": 177389,
+      "word": "LWX 老头杯",
+      "onboard_time": 1715216121,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177133,
       "num": 177133,
       "word": "肖战地广打卡",
@@ -8089,6 +8273,14 @@
       "onboard_time": 1715085860,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176467,
+      "num": 176467,
+      "word": "胡一天动作指导朴烔植",
+      "onboard_time": 1715212937,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 176240,
@@ -8275,6 +8467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173940,
+      "num": 173940,
+      "word": "成年人低成本的快乐",
+      "onboard_time": 1715213659,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173692,
       "num": 173692,
       "word": "肖战伍嘉成微博互动",
@@ -8353,14 +8553,6 @@
       "onboard_time": 1714888397,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 172677,
-      "num": 172677,
-      "word": "妙可蓝多反式脂肪酸",
-      "onboard_time": 1715210536,
-      "rank": 13,
-      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 172553,
@@ -8491,6 +8683,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 170050,
+      "num": 170050,
+      "word": "睡前2个动作让肝脏变干净",
+      "onboard_time": 1715214499,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 170031,
       "num": 170031,
       "word": "知更鸟不歪",
@@ -8545,6 +8745,14 @@
       "onboard_time": 1714993340,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168938,
+      "num": 168938,
+      "word": "腹型肥胖的风险",
+      "onboard_time": 1715215460,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 168808,
@@ -8931,14 +9139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161152,
-      "num": 120903,
-      "word": "5种食物是寄生虫重灾区",
-      "onboard_time": 1715210235,
-      "rank": 28,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 161149,
       "num": 161149,
       "word": "巴菲特存钱法让我养成易富体质",
@@ -9169,6 +9369,22 @@
       "onboard_time": 1714909818,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155876,
+      "num": 155876,
+      "word": "张真源去园博园了",
+      "onboard_time": 1715216359,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 155830,
+      "num": 155830,
+      "word": "龚俊我真服了2.0版",
+      "onboard_time": 1715210955,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 155712,
@@ -9417,6 +9633,14 @@
       "onboard_time": 1715059278,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150707,
+      "num": 150707,
+      "word": "TES下一轮将对战TES",
+      "onboard_time": 1715215340,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 150585,
@@ -9779,6 +10003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143738,
+      "num": 143738,
+      "word": "约基奇第三次当选MVP",
+      "onboard_time": 1715213659,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143714,
       "num": 143714,
       "word": "大学生上课坐前排就像追韩娱",
@@ -9811,6 +10043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 143262,
+      "num": 143262,
+      "word": "官方通报兰州恒大山水城铺面下塌",
+      "onboard_time": 1715211136,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143099,
       "num": 143099,
       "word": "编制是另一种围城",
@@ -9833,14 +10073,6 @@
       "onboard_time": 1715120292,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142959,
-      "num": 120708,
-      "word": "为什么建议减肥人群喝黑咖啡",
-      "onboard_time": 1715190072,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 142899,
@@ -10041,14 +10273,6 @@
       "onboard_time": 1715037375,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136104,
-      "num": 136104,
-      "word": "灵隐寺的七叶古树开花了",
-      "onboard_time": 1715210776,
-      "rank": 15,
-      "category": "旅游"
     },
     {
       "raw_hot": 135599,
@@ -10329,14 +10553,6 @@
       "onboard_time": 1715078179,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 128319,
-      "num": 128319,
-      "word": "中国和塞尔维亚发布联合声明",
-      "onboard_time": 1715210656,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 128030,
@@ -11435,14 +11651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78703,
-      "num": 78703,
-      "word": "龚俊我真服了2.0版",
-      "onboard_time": 1715210955,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 78500,
       "num": 78500,
       "word": "薛之谦演唱会",
@@ -11529,14 +11737,6 @@
       "onboard_time": 1714938191,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 72820,
-      "num": 72820,
-      "word": "官方通报兰州恒大山水城铺面下塌",
-      "onboard_time": 1715211136,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70980,
@@ -11923,6 +12123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 35768,
+      "num": 1219207,
+      "word": "150秒了解中塞铁杆友谊",
+      "onboard_time": 1715173159,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34426,
       "num": 34426,
       "word": "古天乐好帅",
@@ -12001,14 +12209,6 @@
       "onboard_time": 1715019252,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25111,
-      "num": 583421,
-      "word": "150秒了解中塞铁杆友谊",
-      "onboard_time": 1715173159,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24592,
