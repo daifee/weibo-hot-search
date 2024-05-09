@@ -1,6 +1,6 @@
 {
   "startTime": 1715185399055,
-  "endTime": 1715246378649,
+  "endTime": 1715247270707,
   "band_list": [
     {
       "raw_hot": 2295218,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1437228,
+      "num": 1437228,
+      "word": "全国仅剩6地未全面取消住房限购",
+      "onboard_time": 1715241799,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1430686,
       "num": 466396,
       "word": "淘宝免单",
@@ -83,14 +91,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1265556,
-      "num": 1265556,
-      "word": "全国仅剩6地未全面取消住房限购",
-      "onboard_time": 1715241799,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1251951,
       "num": 490447,
       "word": "百度副总裁深夜致歉",
@@ -107,7 +107,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1220613,
+      "raw_hot": 1232061,
       "num": 422329,
       "word": "张元英被威胁",
       "onboard_time": 1715243779,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 609364,
+      "num": 357118,
+      "word": "要长相有长相 要谈吐有痰吐",
+      "onboard_time": 1715244499,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 604828,
       "num": 387885,
       "word": "花少北女友 大粉",
@@ -417,6 +425,14 @@
       "onboard_time": 1715224938,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560605,
+      "num": 383498,
+      "word": "李莎旻子撕杨丞琳标签",
+      "onboard_time": 1715244920,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 549985,
@@ -467,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 508206,
+      "num": 343652,
+      "word": "53岁爸爸第一次吃榴莲以为是面包",
+      "onboard_time": 1715245519,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 495494,
       "num": 264211,
       "word": "假球",
@@ -505,14 +529,6 @@
       "onboard_time": 1715231479,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 475774,
-      "num": 383498,
-      "word": "李莎旻子撕杨丞琳标签",
-      "onboard_time": 1715244920,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 469572,
@@ -659,14 +675,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 357118,
-      "num": 357118,
-      "word": "要长相有长相 要谈吐有痰吐",
-      "onboard_time": 1715244499,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 350900,
       "num": 350900,
       "word": "皇马2比1拜仁",
@@ -681,14 +689,6 @@
       "onboard_time": 1715226919,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 343652,
-      "num": 343652,
-      "word": "53岁爸爸第一次吃榴莲以为是面包",
-      "onboard_time": 1715245519,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 343472,
@@ -867,6 +867,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 248184,
+      "num": 201350,
+      "word": "喷射出血止血的办法",
+      "onboard_time": 1715246058,
+      "rank": 31,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 246126,
       "num": 246126,
       "word": "安宥真 舞台上尽情绽放的红玫瑰",
@@ -969,6 +977,14 @@
       "onboard_time": 1715202670,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222778,
+      "num": 222778,
+      "word": "阿水与gumayusi交换队服",
+      "onboard_time": 1715246299,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 222407,
@@ -1163,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205910,
+      "num": 205910,
+      "word": "三丽鸥明星人气评选",
+      "onboard_time": 1715246480,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 205767,
       "num": 205767,
       "word": "皇马",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1715224759,
       "rank": 43,
       "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 203201,
+      "num": 203201,
+      "word": "唐嫣活动造型",
+      "onboard_time": 1715246480,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 201870,
@@ -1339,14 +1371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188918,
-      "num": 188918,
-      "word": "喷射出血止血的办法",
-      "onboard_time": 1715246058,
-      "rank": 31,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 188900,
       "num": 188900,
       "word": "联合国官网报道王一博",
@@ -1369,6 +1393,14 @@
       "onboard_time": 1715239399,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 187249,
+      "num": 187249,
+      "word": "2024MSI",
+      "onboard_time": 1715246299,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 186381,
@@ -1465,6 +1497,14 @@
       "onboard_time": 1715212937,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175671,
+      "num": 175671,
+      "word": "玉桂狗中报排名第一",
+      "onboard_time": 1715246239,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 173992,
@@ -1643,14 +1683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 153425,
-      "num": 153425,
-      "word": "2024MSI",
-      "onboard_time": 1715246299,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 152869,
       "num": 152869,
       "word": "优酷代言人",
@@ -1673,6 +1705,14 @@
       "onboard_time": 1715221817,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 151640,
+      "num": 151640,
+      "word": "原来这些歌词我们从小就听错了",
+      "onboard_time": 1715246359,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 151391,
@@ -1769,14 +1809,6 @@
       "onboard_time": 1715177541,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142005,
-      "num": 142005,
-      "word": "阿水与gumayusi交换队服",
-      "onboard_time": 1715246299,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 141437,
@@ -1923,14 +1955,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 118149,
-      "num": 118149,
-      "word": "玉桂狗中报排名第一",
-      "onboard_time": 1715246239,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 117677,
       "num": 117677,
       "word": "王楚钦孙颖莎对阵黄镇廷杜凯琹",
@@ -1955,20 +1979,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112625,
+      "num": 492794,
+      "word": "匈牙利也有奶茶biangbiang面",
+      "onboard_time": 1715244198,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 111587,
       "num": 122806,
       "word": "赵丽颖杨幂 戛纳",
       "onboard_time": 1715148500,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 109466,
-      "num": 109466,
-      "word": "原来这些歌词我们从小就听错了",
-      "onboard_time": 1715246359,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 108091,
@@ -2065,14 +2089,6 @@
       "onboard_time": 1715186775,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 89969,
-      "num": 492794,
-      "word": "匈牙利也有奶茶biangbiang面",
-      "onboard_time": 1715244198,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 86784,
@@ -2227,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26516,
+      "num": 198218,
+      "word": "令人骄傲的中国制造",
+      "onboard_time": 1715246718,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25412,
       "num": 31683,
       "word": "杨鸣采访",
@@ -2285,6 +2309,9 @@
     },
     {
       "word": "#中匈两国是相互信赖的好朋友好伙伴#"
+    },
+    {
+      "word": "#中匈两国传统友谊源远流长#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1715247270707,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1437228,
+        "num": 1437228,
+        "word": "全国仅剩6地未全面取消住房限购",
+        "onboard_time": 1715241799,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595984,
+        "num": 595984,
+        "word": "赵露思将担任奥运火炬手",
+        "onboard_time": 1715228721,
+        "rank": 1,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 65418,
+        "num": 567559,
+        "word": "布达佩斯餐馆奏响中国乐曲",
+        "onboard_time": 1715240719,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 998839,
+        "num": 539467,
+        "word": "汪苏泷回应凭什么参加歌手",
+        "onboard_time": 1715242521,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 952255,
+        "num": 498707,
+        "word": "美国男子故意传播艾滋至少30名男性受害",
+        "onboard_time": 1715240659,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112625,
+        "num": 476997,
+        "word": "匈牙利也有奶茶biangbiang面",
+        "onboard_time": 1715244198,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 600556,
+        "num": 445113,
+        "word": "瑞幸咖啡被曝冰块霉变",
+        "onboard_time": 1715235557,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432667,
+        "num": 432667,
+        "word": "歌手2024第一期歌单",
+        "onboard_time": 1715233697,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366570,
+        "num": 366570,
+        "word": "国产榴莲几乎没臭味儿",
+        "onboard_time": 1715227219,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 314550,
+        "num": 314550,
+        "word": "庆余年2首播4集不断更",
+        "onboard_time": 1715222478,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1232061,
+        "num": 305839,
+        "word": "张元英被威胁",
+        "onboard_time": 1715243779,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 810266,
+        "num": 295547,
+        "word": "淘宝免单",
+        "onboard_time": 1715242098,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 609364,
+        "num": 283355,
+        "word": "要长相有长相 要谈吐有痰吐",
+        "onboard_time": 1715244499,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 560605,
+        "num": 275497,
+        "word": "李莎旻子撕杨丞琳标签",
+        "onboard_time": 1715244920,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508206,
+        "num": 264802,
+        "word": "53岁爸爸第一次吃榴莲以为是面包",
+        "onboard_time": 1715245519,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 449948,
+        "num": 250408,
+        "word": "侯雯元想了一夜钟楚曦",
+        "onboard_time": 1715239579,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240050,
+        "num": 240050,
+        "word": "恋爱兄妹 男一",
+        "onboard_time": 1715241079,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237375,
+        "num": 237375,
+        "word": "西安全面取消住房限购",
+        "onboard_time": 1715240659,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222778,
+        "num": 222778,
+        "word": "阿水与gumayusi交换队服",
+        "onboard_time": 1715246299,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 412526,
+        "num": 222398,
+        "word": "四天工作制离我们还有多远",
+        "onboard_time": 1715236937,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315568,
+        "num": 221229,
+        "word": "44岁女子生二胎当妈又当奶",
+        "onboard_time": 1715239817,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270770,
+        "num": 219668,
+        "word": "不饿但馋可能是身体在求救",
+        "onboard_time": 1715242938,
+        "rank": 21,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 266971,
+        "num": 219346,
+        "word": "发朋友圈就必须回消息吗",
+        "onboard_time": 1715243959,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260634,
+        "num": 217760,
+        "word": "窦骁何超莲最近合照",
+        "onboard_time": 1715244559,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217058,
+        "num": 217058,
+        "word": "上个央视恨不得全世界知道",
+        "onboard_time": 1715243419,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217317,
+        "num": 216691,
+        "word": "谢飞 我不会再看一顿火锅",
+        "onboard_time": 1715245279,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215551,
+        "num": 215551,
+        "word": "涵艺爆料iG将解散",
+        "onboard_time": 1715241919,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205910,
+        "num": 205910,
+        "word": "三丽鸥明星人气评选",
+        "onboard_time": 1715246480,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 205073,
+        "num": 205073,
+        "word": "范闲林婉儿婚服吻",
+        "onboard_time": 1715231122,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203201,
+        "num": 203201,
+        "word": "唐嫣活动造型",
+        "onboard_time": 1715246480,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248184,
+        "num": 201350,
+        "word": "喷射出血止血的办法",
+        "onboard_time": 1715246058,
+        "rank": 30,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 26516,
+        "num": 198218,
+        "word": "令人骄傲的中国制造",
+        "onboard_time": 1715246718,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198162,
+        "num": 198162,
+        "word": "李娟",
+        "onboard_time": 1715237060,
+        "rank": 32,
+        "category": "剧集,读书作家"
+      },
+      {
+        "raw_hot": 194791,
+        "num": 194791,
+        "word": "福建舰也太太太太太太大了",
+        "onboard_time": 1715230038,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 187249,
+        "num": 187249,
+        "word": "2024MSI",
+        "onboard_time": 1715246299,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175671,
+        "num": 175671,
+        "word": "玉桂狗中报排名第一",
+        "onboard_time": 1715246239,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 174554,
+        "num": 174554,
+        "word": "井柏然赛道",
+        "onboard_time": 1715233399,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165526,
+        "num": 165526,
+        "word": "苗苗说自己平时不化妆",
+        "onboard_time": 1715242699,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164495,
+        "num": 164495,
+        "word": "老人说腿卷起来的才是好猫",
+        "onboard_time": 1715245338,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160725,
+        "num": 160725,
+        "word": "住房公积金的这些用途你get了吗",
+        "onboard_time": 1715233219,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151640,
+        "num": 151640,
+        "word": "原来这些歌词我们从小就听错了",
+        "onboard_time": 1715246359,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151194,
+        "num": 151194,
+        "word": "歌手2024首期阵容",
+        "onboard_time": 1715233697,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137527,
+        "num": 137527,
+        "word": "男子被索30万彩礼要求女方也陪嫁30万",
+        "onboard_time": 1715234358,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133433,
+        "num": 133433,
+        "word": "张杰演唱会百场幕后采访预告",
+        "onboard_time": 1715244738,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129084,
+        "num": 129084,
+        "word": "一番大奶主",
+        "onboard_time": 1715242400,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128691,
+        "num": 128691,
+        "word": "王源谈歌手与歌迷的理想关系",
+        "onboard_time": 1715235438,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127996,
+        "num": 127996,
+        "word": "第一次吃席吃到汉堡",
+        "onboard_time": 1715245939,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126948,
+        "num": 126948,
+        "word": "卷了一晚上的头发拆开",
+        "onboard_time": 1715241319,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 123754,
+        "num": 123754,
+        "word": "歌手2024全球直播发布会",
+        "onboard_time": 1715231720,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118687,
+        "num": 118687,
+        "word": "田雨说被张若昀喂胖了",
+        "onboard_time": 1715244198,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中匈两国传统友谊源远流长#"
+    }
+  }
+}

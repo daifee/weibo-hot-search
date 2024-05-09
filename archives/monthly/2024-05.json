@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715246378649,
+  "endTime": 1715247270707,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -731,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1437228,
+      "num": 1437228,
+      "word": "全国仅剩6地未全面取消住房限购",
+      "onboard_time": 1715241799,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1421271,
       "num": 1421271,
       "word": "活鸭要40多为何烤鸭才18元一只",
@@ -971,14 +979,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1265556,
-      "num": 1265556,
-      "word": "全国仅剩6地未全面取消住房限购",
-      "onboard_time": 1715241799,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1262189,
       "num": 1262189,
       "word": "金价跌至近一个月低点",
@@ -1115,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1232061,
+      "num": 422329,
+      "word": "张元英被威胁",
+      "onboard_time": 1715243779,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1231494,
       "num": 1231494,
       "word": "我才不要和你做朋友呢海报",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1714713559,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1220613,
-      "num": 422329,
-      "word": "张元英被威胁",
-      "onboard_time": 1715243779,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 1203159,
@@ -3931,6 +3931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609364,
+      "num": 357118,
+      "word": "要长相有长相 要谈吐有痰吐",
+      "onboard_time": 1715244499,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 607475,
       "num": 607475,
       "word": "为什么吃面比吃米更胖人",
@@ -4249,6 +4257,14 @@
       "onboard_time": 1715176580,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 560605,
+      "num": 383498,
+      "word": "李莎旻子撕杨丞琳标签",
+      "onboard_time": 1715244920,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 556592,
@@ -4875,6 +4891,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 508206,
+      "num": 343652,
+      "word": "53岁爸爸第一次吃榴莲以为是面包",
+      "onboard_time": 1715245519,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 507736,
       "num": 426061,
       "word": "江南造船厂",
@@ -5273,14 +5297,6 @@
       "onboard_time": 1714695436,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 475774,
-      "num": 383498,
-      "word": "李莎旻子撕杨丞琳标签",
-      "onboard_time": 1715244920,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 475630,
@@ -7459,14 +7475,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 357118,
-      "num": 357118,
-      "word": "要长相有长相 要谈吐有痰吐",
-      "onboard_time": 1715244499,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 356993,
       "num": 356993,
       "word": "王曼昱vs巴特拉",
@@ -7793,14 +7801,6 @@
       "onboard_time": 1715162179,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343652,
-      "num": 343652,
-      "word": "53岁爸爸第一次吃榴莲以为是面包",
-      "onboard_time": 1715245519,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 343587,
@@ -10371,6 +10371,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 248184,
+      "num": 201350,
+      "word": "喷射出血止血的办法",
+      "onboard_time": 1715246058,
+      "rank": 31,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 248135,
       "num": 248135,
       "word": "李振豪",
@@ -11425,6 +11433,14 @@
       "onboard_time": 1714815437,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222778,
+      "num": 222778,
+      "word": "阿水与gumayusi交换队服",
+      "onboard_time": 1715246299,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 222695,
@@ -12539,6 +12555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205910,
+      "num": 205910,
+      "word": "三丽鸥明星人气评选",
+      "onboard_time": 1715246480,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 205867,
       "num": 205867,
       "word": "薛之谦太原",
@@ -12809,6 +12833,14 @@
       "onboard_time": 1714990219,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203201,
+      "num": 203201,
+      "word": "唐嫣活动造型",
+      "onboard_time": 1715246480,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 203183,
@@ -14475,14 +14507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188918,
-      "num": 188918,
-      "word": "喷射出血止血的办法",
-      "onboard_time": 1715246058,
-      "rank": 31,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 188900,
       "num": 188900,
       "word": "联合国官网报道王一博",
@@ -15737,6 +15761,14 @@
       "onboard_time": 1714957039,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 175671,
+      "num": 175671,
+      "word": "玉桂狗中报排名第一",
+      "onboard_time": 1715246239,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 175659,
@@ -18187,6 +18219,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 151640,
+      "num": 151640,
+      "word": "原来这些歌词我们从小就听错了",
+      "onboard_time": 1715246359,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151558,
       "num": 151558,
       "word": "马龙",
@@ -19257,14 +19297,6 @@
       "onboard_time": 1714901719,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142005,
-      "num": 142005,
-      "word": "阿水与gumayusi交换队服",
-      "onboard_time": 1715246299,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 141856,
@@ -21459,14 +21491,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 118149,
-      "num": 118149,
-      "word": "玉桂狗中报排名第一",
-      "onboard_time": 1715246239,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 118074,
       "num": 118074,
       "word": "末路狂花钱",
@@ -21971,6 +21995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112625,
+      "num": 492794,
+      "word": "匈牙利也有奶茶biangbiang面",
+      "onboard_time": 1715244198,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112592,
       "num": 112592,
       "word": "白羊座的成长史",
@@ -22169,14 +22201,6 @@
       "onboard_time": 1714559838,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109466,
-      "num": 109466,
-      "word": "原来这些歌词我们从小就听错了",
-      "onboard_time": 1715246359,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 109465,
@@ -23001,14 +23025,6 @@
       "onboard_time": 1715186775,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 89969,
-      "num": 492794,
-      "word": "匈牙利也有奶茶biangbiang面",
-      "onboard_time": 1715244198,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 89923,
@@ -24291,6 +24307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26516,
+      "num": 198218,
+      "word": "令人骄傲的中国制造",
+      "onboard_time": 1715246718,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25773,
       "num": 27708,
       "word": "李沁拿鸡腿",
@@ -24686,6 +24710,9 @@
     },
     {
       "word": "#中匈两国是相互信赖的好朋友好伙伴#"
+    },
+    {
+      "word": "#中匈两国传统友谊源远流长#"
     }
   ]
 }
