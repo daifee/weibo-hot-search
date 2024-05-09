@@ -1,6 +1,6 @@
 {
   "startTime": 1715185399055,
-  "endTime": 1715228683885,
+  "endTime": 1715229458736,
   "band_list": [
     {
       "raw_hot": 2248368,
@@ -33,6 +33,14 @@
       "onboard_time": 1715221637,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1401592,
+      "num": 338114,
+      "word": "赵露思将担任奥运火炬手",
+      "onboard_time": 1715228721,
+      "rank": 10,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1383418,
@@ -89,6 +97,14 @@
       "onboard_time": 1715218637,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 918263,
+      "num": 649986,
+      "word": "国产榴莲几乎没臭味儿",
+      "onboard_time": 1715227219,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 914238,
@@ -243,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 562003,
+      "num": 613781,
+      "word": "塞尔维亚蓝莓要来中国了",
+      "onboard_time": 1715224938,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 549985,
       "num": 549985,
       "word": "妙可蓝多反式脂肪酸",
@@ -265,14 +289,6 @@
       "onboard_time": 1715216778,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 508817,
-      "num": 613781,
-      "word": "塞尔维亚蓝莓要来中国了",
-      "onboard_time": 1715224938,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 495494,
@@ -307,12 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463825,
-      "num": 367686,
-      "word": "国产榴莲几乎没臭味儿",
-      "onboard_time": 1715227219,
-      "rank": 13,
-      "category": "美食"
+      "raw_hot": 454410,
+      "num": 454410,
+      "word": "7部影片定档端午档",
+      "onboard_time": 1715224938,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 453494,
@@ -321,14 +337,6 @@
       "onboard_time": 1715224338,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 450611,
-      "num": 450611,
-      "word": "7部影片定档端午档",
-      "onboard_time": 1715224938,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 431799,
@@ -387,6 +395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 352589,
+      "num": 220469,
+      "word": "周扬青 收到了人生中第一个BJD娃娃",
+      "onboard_time": 1715228660,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350900,
       "num": 350900,
       "word": "皇马2比1拜仁",
@@ -401,6 +417,14 @@
       "onboard_time": 1715226919,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334952,
+      "num": 334952,
+      "word": "早期的周雨彤",
+      "onboard_time": 1715228420,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 331479,
@@ -419,20 +443,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 329291,
+      "num": 329291,
+      "word": "汤唯秀智同框",
+      "onboard_time": 1715228420,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 321279,
       "num": 321279,
       "word": "智慧天网一号01星发射成功",
       "onboard_time": 1715224399,
       "rank": 32,
       "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 306037,
-      "num": 306037,
-      "word": "早期的周雨彤",
-      "onboard_time": 1715228420,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 302884,
@@ -451,8 +475,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279420,
-      "num": 279420,
+      "raw_hot": 294684,
+      "num": 294684,
       "word": "长期往两边吹发根有记忆了",
       "onboard_time": 1715225120,
       "rank": 30,
@@ -467,12 +491,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 266995,
-      "num": 266995,
-      "word": "汤唯秀智同框",
-      "onboard_time": 1715228420,
-      "rank": 24,
-      "category": "电影"
+      "raw_hot": 248865,
+      "num": 248865,
+      "word": "金价波动AI都快劝冒烟了",
+      "onboard_time": 1715228540,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 246126,
@@ -507,12 +531,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 236086,
-      "num": 236086,
+      "raw_hot": 237023,
+      "num": 237023,
       "word": "达利园回应请山寨杰伦代言",
       "onboard_time": 1715225898,
       "rank": 26,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 235528,
+      "num": 235528,
+      "word": "你支持取消实体SIM卡吗",
+      "onboard_time": 1715228599,
+      "rank": 46,
+      "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 234168,
+      "num": 220291,
+      "word": "123罗德岛",
+      "onboard_time": 1715228899,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 230011,
@@ -563,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220248,
+      "num": 220248,
+      "word": "官方回应宁夏交通事故致9死",
+      "onboard_time": 1715228299,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219602,
       "num": 219602,
       "word": "养猫后发现自己会成为糟糕的父母",
@@ -601,6 +649,14 @@
       "onboard_time": 1715210235,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 211916,
+      "num": 211916,
+      "word": "咒术回战259",
+      "onboard_time": 1715229020,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 211205,
@@ -659,20 +715,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204738,
+      "num": 204738,
+      "word": "庆余年2的排面",
+      "onboard_time": 1715224997,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204429,
       "num": 204429,
       "word": "王鹤棣自转",
       "onboard_time": 1715224759,
       "rank": 43,
       "category": "艺人,剧集"
-    },
-    {
-      "raw_hot": 200975,
-      "num": 200975,
-      "word": "官方回应宁夏交通事故致9死",
-      "onboard_time": 1715228299,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199768,
@@ -705,14 +761,6 @@
       "onboard_time": 1715164580,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197070,
-      "num": 197070,
-      "word": "庆余年2的排面",
-      "onboard_time": 1715224997,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 196157,
@@ -859,14 +907,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 173483,
-      "num": 173483,
-      "word": "金价波动AI都快劝冒烟了",
-      "onboard_time": 1715228540,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 172954,
       "num": 172954,
       "word": "坂本龙一杰作定档",
@@ -947,20 +987,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157291,
+      "num": 157291,
+      "word": "5家单位招聘要求女性已婚已育被查",
+      "onboard_time": 1715229380,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156753,
       "num": 156753,
       "word": "没一个幼崽挨打是无辜的",
       "onboard_time": 1715224938,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 156661,
-      "num": 156661,
-      "word": "你支持取消实体SIM卡吗",
-      "onboard_time": 1715228599,
-      "rank": 46,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 155876,
@@ -977,14 +1017,6 @@
       "onboard_time": 1715210955,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153810,
-      "num": 153810,
-      "word": "周扬青 收到了人生中第一个BJD娃娃",
-      "onboard_time": 1715228660,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 152869,
@@ -1267,6 +1299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83948,
+      "num": 691697,
+      "word": "匈牙利为何被称为最西边的东方国家",
+      "onboard_time": 1715225358,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83620,
       "num": 122779,
       "word": "杜峰采访",
@@ -1291,12 +1331,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82095,
-      "num": 691697,
-      "word": "匈牙利为何被称为最西边的东方国家",
-      "onboard_time": 1715225358,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 82098,
+      "num": 220794,
+      "word": "建议重估极氪智驾实力",
+      "onboard_time": 1715225898,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 80513,
@@ -1337,14 +1377,6 @@
       "onboard_time": 1715176162,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 67577,
-      "num": 198418,
-      "word": "建议重估极氪智驾实力",
-      "onboard_time": 1715225898,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 65292,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1715229458736,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2073670,
+        "num": 2073670,
+        "word": "庆余年2首播4集不断更",
+        "onboard_time": 1715222478,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 817373,
+        "num": 817373,
+        "word": "杭州全面取消住房限购",
+        "onboard_time": 1715215760,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83948,
+        "num": 652639,
+        "word": "匈牙利为何被称为最西边的东方国家",
+        "onboard_time": 1715225358,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 918263,
+        "num": 649986,
+        "word": "国产榴莲几乎没臭味儿",
+        "onboard_time": 1715227219,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 595724,
+        "num": 595724,
+        "word": "老外被中国人的约饭节奏震惊了",
+        "onboard_time": 1715213900,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492277,
+        "num": 492277,
+        "word": "家有儿女小演员今昔对比",
+        "onboard_time": 1715218637,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454410,
+        "num": 454410,
+        "word": "7部影片定档端午档",
+        "onboard_time": 1715224938,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 443507,
+        "num": 443507,
+        "word": "榴莲一斤跌破10元",
+        "onboard_time": 1715183899,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 432945,
+        "num": 432945,
+        "word": "蓝盈莹晒甄嬛传大合影",
+        "onboard_time": 1715224338,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338536,
+        "num": 338536,
+        "word": "妈妈支持21岁女儿拿全家积蓄创业",
+        "onboard_time": 1715218819,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1401592,
+        "num": 338114,
+        "word": "赵露思将担任奥运火炬手",
+        "onboard_time": 1715228721,
+        "rank": 10,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 833630,
+        "num": 337647,
+        "word": "鸭嘴钳",
+        "onboard_time": 1715222598,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 629841,
+        "num": 337582,
+        "word": "新款iPad也不附赠充电器了",
+        "onboard_time": 1715223738,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 590325,
+        "num": 336847,
+        "word": "宁夏发生一起交通事故致9死2伤",
+        "onboard_time": 1715223860,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562003,
+        "num": 336356,
+        "word": "塞尔维亚蓝莓要来中国了",
+        "onboard_time": 1715224938,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 418166,
+        "num": 336282,
+        "word": "井柏然张子枫同款笑容",
+        "onboard_time": 1715226198,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408650,
+        "num": 335473,
+        "word": "花少北女友 大粉",
+        "onboard_time": 1715221698,
+        "rank": 16,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 363562,
+        "num": 335361,
+        "word": "男子称订婚给34万彩礼后女方退婚不退钱",
+        "onboard_time": 1715221937,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334952,
+        "num": 334952,
+        "word": "早期的周雨彤",
+        "onboard_time": 1715228420,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310026,
+        "num": 332780,
+        "word": "百度副总裁深夜致歉",
+        "onboard_time": 1715212278,
+        "rank": 19,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 331074,
+        "num": 331074,
+        "word": "定风波今日开机",
+        "onboard_time": 1715226919,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329291,
+        "num": 329291,
+        "word": "汤唯秀智同框",
+        "onboard_time": 1715228420,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 294684,
+        "num": 294684,
+        "word": "长期往两边吹发根有记忆了",
+        "onboard_time": 1715225120,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 276477,
+        "num": 276477,
+        "word": "花少北恋爱",
+        "onboard_time": 1715180361,
+        "rank": 23,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 258636,
+        "num": 258636,
+        "word": "庆余年2定档",
+        "onboard_time": 1715221637,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248865,
+        "num": 248865,
+        "word": "金价波动AI都快劝冒烟了",
+        "onboard_time": 1715228540,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 240482,
+        "num": 240482,
+        "word": "气血不足最怕的运动",
+        "onboard_time": 1715218039,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 237023,
+        "num": 237023,
+        "word": "达利园回应请山寨杰伦代言",
+        "onboard_time": 1715225898,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 235528,
+        "num": 235528,
+        "word": "你支持取消实体SIM卡吗",
+        "onboard_time": 1715228599,
+        "rank": 28,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 220860,
+        "num": 220860,
+        "word": "范若若学会临床手术",
+        "onboard_time": 1715227158,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82098,
+        "num": 220794,
+        "word": "建议重估极氪智驾实力",
+        "onboard_time": 1715225898,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 438843,
+        "num": 220649,
+        "word": "妙可蓝多市值三年蒸发365亿",
+        "onboard_time": 1715216898,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 352589,
+        "num": 220469,
+        "word": "周扬青 收到了人生中第一个BJD娃娃",
+        "onboard_time": 1715228660,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234168,
+        "num": 220291,
+        "word": "123罗德岛",
+        "onboard_time": 1715228899,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220248,
+        "num": 220248,
+        "word": "官方回应宁夏交通事故致9死",
+        "onboard_time": 1715228299,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211916,
+        "num": 211916,
+        "word": "咒术回战259",
+        "onboard_time": 1715229020,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 210687,
+        "num": 210687,
+        "word": "养猫后发现自己会成为糟糕的父母",
+        "onboard_time": 1715224399,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204738,
+        "num": 204738,
+        "word": "庆余年2的排面",
+        "onboard_time": 1715224997,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201968,
+        "num": 201968,
+        "word": "为什么恋爱变得越来越难了",
+        "onboard_time": 1715224279,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188250,
+        "num": 188250,
+        "word": "瘦肚子最快的运动是跳跃",
+        "onboard_time": 1715213179,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 178556,
+        "num": 178556,
+        "word": "宇野昌磨宣布退役",
+        "onboard_time": 1715225778,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177685,
+        "num": 177685,
+        "word": "孙颖莎说和大头的配合越来越默契",
+        "onboard_time": 1715225838,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161334,
+        "num": 161334,
+        "word": "专家建议学校增设春秋假",
+        "onboard_time": 1715225417,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159575,
+        "num": 159575,
+        "word": "黑人小姐姐觉得自己是全家最难看的",
+        "onboard_time": 1715216959,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158511,
+        "num": 158511,
+        "word": "男子离婚要求分割女方父母所赠房产",
+        "onboard_time": 1715215160,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157291,
+        "num": 157291,
+        "word": "5家单位招聘要求女性已婚已育被查",
+        "onboard_time": 1715229380,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156554,
+        "num": 156554,
+        "word": "淘宝免单",
+        "onboard_time": 1715174120,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 152113,
+        "num": 152113,
+        "word": "易烊千玺机场",
+        "onboard_time": 1715216778,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150661,
+        "num": 150661,
+        "word": "河南高考少数民族加分取消",
+        "onboard_time": 1715219597,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 144535,
+        "num": 144535,
+        "word": "媒体评00后拟任副局长引争议",
+        "onboard_time": 1715227520,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中匈两国是相互信赖的好朋友好伙伴#"
+    }
+  }
+}
