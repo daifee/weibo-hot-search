@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715232877614,
+  "endTime": 1715235876659,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 2295218,
-      "num": 349310,
+      "num": 1998417,
       "word": "赵露思将担任奥运火炬手",
       "onboard_time": 1715228721,
       "rank": 10,
@@ -1012,7 +1012,7 @@
     },
     {
       "raw_hot": 1250753,
-      "num": 769761,
+      "num": 786844,
       "word": "国产榴莲几乎没臭味儿",
       "onboard_time": 1715227219,
       "rank": 13,
@@ -2243,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 830385,
+      "num": 830385,
+      "word": "福建舰也太太太太太太大了",
+      "onboard_time": 1715230038,
+      "rank": 4,
+      "category": "军事"
+    },
+    {
       "raw_hot": 829946,
       "num": 829946,
       "word": "低估了五一堵车的程度",
@@ -2657,6 +2665,14 @@
       "onboard_time": 1714895657,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757810,
+      "num": 757810,
+      "word": "歌手2024首期阵容",
+      "onboard_time": 1715233697,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 757551,
@@ -3339,20 +3355,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 659215,
-      "num": 659215,
-      "word": "福建舰也太太太太太太大了",
-      "onboard_time": 1715230038,
-      "rank": 4,
-      "category": "军事"
-    },
-    {
       "raw_hot": 658321,
       "num": 476306,
       "word": "唐文丽",
       "onboard_time": 1714793898,
       "rank": 16,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 657850,
+      "num": 528611,
+      "word": "歌手2024第一期歌单",
+      "onboard_time": 1715233697,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 656113,
@@ -3697,6 +3713,14 @@
       "onboard_time": 1714663278,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 621001,
+      "num": 522938,
+      "word": "Makiyo暴瘦",
+      "onboard_time": 1715233399,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 620467,
@@ -4707,6 +4731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 510322,
+      "num": 510322,
+      "word": "井柏然赛道",
+      "onboard_time": 1715233399,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 509807,
       "num": 509807,
       "word": "宝宝 你是一头情绪稳定的小懒猪",
@@ -5193,6 +5225,14 @@
       "onboard_time": 1715093302,
       "rank": 13,
       "category": "数码"
+    },
+    {
+      "raw_hot": 472368,
+      "num": 472368,
+      "word": "住房公积金的这些用途你get了吗",
+      "onboard_time": 1715233219,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471485,
@@ -6787,6 +6827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381246,
+      "num": 381246,
+      "word": "戚薇打卡夏家三千金拍摄地",
+      "onboard_time": 1715233039,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380263,
       "num": 380263,
       "word": "摩羯座都是情绪管理大师",
@@ -7115,6 +7163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 363525,
+      "num": 359014,
+      "word": "歌手2024全球直播发布会",
+      "onboard_time": 1715231720,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363374,
       "num": 363374,
       "word": "丁真上岛了",
@@ -7225,14 +7281,6 @@
       "onboard_time": 1714840816,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 359014,
-      "num": 359014,
-      "word": "歌手2024全球直播发布会",
-      "onboard_time": 1715231720,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 358454,
@@ -7449,6 +7497,14 @@
       "onboard_time": 1714808299,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347252,
+      "num": 347252,
+      "word": "长期往两边吹发根有记忆了",
+      "onboard_time": 1715225120,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 347109,
@@ -8691,14 +8747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 294684,
-      "num": 294684,
-      "word": "长期往两边吹发根有记忆了",
-      "onboard_time": 1715225120,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 294497,
       "num": 291500,
       "word": "闺蜜男友桌下勾引南雅",
@@ -8811,6 +8859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288735,
+      "num": 525141,
+      "word": "瑞幸咖啡被曝冰块霉变",
+      "onboard_time": 1715235557,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288725,
       "num": 288725,
       "word": "无尽的冒险",
@@ -8825,6 +8881,14 @@
       "onboard_time": 1715129422,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286415,
+      "num": 514742,
+      "word": "榴莲",
+      "onboard_time": 1715234958,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 286257,
@@ -9795,6 +9859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257107,
+      "num": 217319,
+      "word": "男子被索30万彩礼要求女方也陪嫁30万",
+      "onboard_time": 1715234358,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256797,
       "num": 256797,
       "word": "B站回应短片被举报涉嫌洗稿",
@@ -9825,6 +9897,14 @@
       "onboard_time": 1714812558,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 255638,
+      "num": 216163,
+      "word": "井柏然扫楼偶遇宋茜",
+      "onboard_time": 1715234119,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 254930,
@@ -10473,6 +10553,14 @@
       "onboard_time": 1714709297,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 237176,
+      "num": 237176,
+      "word": "王楚钦说和莎莎关键球处理更好",
+      "onboard_time": 1715232618,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 237023,
@@ -11579,6 +11667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214781,
+      "num": 214781,
+      "word": "向佐鼻孔漏水",
+      "onboard_time": 1715233757,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214440,
       "num": 214440,
       "word": "刘涛谈郑佩佩",
@@ -11731,6 +11827,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 211672,
+      "num": 211672,
+      "word": "三丽鸥投票",
+      "onboard_time": 1715235079,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 211558,
       "num": 211558,
       "word": "娜扎在前面跳 保镖在后面笑",
@@ -11873,6 +11977,14 @@
       "onboard_time": 1714740141,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 209179,
+      "num": 209179,
+      "word": "王一博黄西装",
+      "onboard_time": 1715235318,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209131,
@@ -12523,6 +12635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201870,
+      "num": 201870,
+      "word": "任嘉伦青岛",
+      "onboard_time": 1715235318,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201860,
       "num": 201860,
       "word": "刚出生四天的小柴犬宝宝",
@@ -12545,6 +12665,14 @@
       "onboard_time": 1715145503,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201745,
+      "num": 201745,
+      "word": "莲花楼 关于风",
+      "onboard_time": 1715235257,
+      "rank": 29,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 201627,
@@ -12689,6 +12817,14 @@
       "onboard_time": 1714709118,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200677,
+      "num": 200677,
+      "word": "尹锡悦称妻子处事方式不够明智",
+      "onboard_time": 1715235378,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 200657,
@@ -15731,6 +15867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171417,
+      "num": 171417,
+      "word": "樱花树下的刘浩存",
+      "onboard_time": 1715234178,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171382,
       "num": 171382,
       "word": "刷牙时要不要刷舌头",
@@ -15792,6 +15936,14 @@
       "word": "吴磊骑有此理",
       "onboard_time": 1714539137,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171020,
+      "num": 171020,
+      "word": "赵露思十年前是奥林匹克中国少年形象大使",
+      "onboard_time": 1715235557,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -16033,6 +16185,14 @@
       "onboard_time": 1714965079,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 168247,
+      "num": 168247,
+      "word": "胡歌高圆圆对手戏",
+      "onboard_time": 1715234417,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 168189,
@@ -16915,14 +17075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159400,
-      "num": 159400,
-      "word": "王楚钦说和莎莎关键球处理更好",
-      "onboard_time": 1715232618,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 159396,
       "num": 159396,
       "word": "蓝月亮母亲节广告被指刻板印象",
@@ -17713,6 +17865,14 @@
       "onboard_time": 1715059278,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150917,
+      "num": 150917,
+      "word": "王源谈歌手与歌迷的理想关系",
+      "onboard_time": 1715235438,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 150885,
@@ -19163,6 +19323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136301,
+      "num": 136301,
+      "word": "那英拆台黄子韬",
+      "onboard_time": 1715234958,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136243,
       "num": 136243,
       "word": "奔跑吧海龟汤菜单",
@@ -19297,6 +19465,14 @@
       "onboard_time": 1714572980,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135037,
+      "num": 135037,
+      "word": "马云20年前淘宝论坛旧贴谈用户",
+      "onboard_time": 1715235496,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 134852,
@@ -19745,6 +19921,14 @@
       "onboard_time": 1714633278,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 130625,
+      "num": 130625,
+      "word": "杭州取消住房限购后咨询买房的电话已打爆",
+      "onboard_time": 1715235017,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130588,
@@ -20289,6 +20473,14 @@
       "onboard_time": 1714647499,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123780,
+      "num": 123780,
+      "word": "小猫耳朵消失术",
+      "onboard_time": 1715235438,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 123747,
@@ -22363,6 +22555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89217,
+      "num": 523743,
+      "word": "魔方一开始是一种教学工具",
+      "onboard_time": 1715234058,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 89102,
       "num": 89102,
       "word": "泡泡岛音乐节",
@@ -22444,7 +22644,7 @@
     },
     {
       "raw_hot": 83948,
-      "num": 771149,
+      "num": 801879,
       "word": "匈牙利为何被称为最西边的东方国家",
       "onboard_time": 1715225358,
       "rank": 2,

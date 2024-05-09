@@ -1,10 +1,10 @@
 {
   "startTime": 1715185399055,
-  "endTime": 1715232877614,
+  "endTime": 1715235876659,
   "band_list": [
     {
       "raw_hot": 2295218,
-      "num": 349310,
+      "num": 1998417,
       "word": "赵露思将担任奥运火炬手",
       "onboard_time": 1715228721,
       "rank": 10,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1250753,
-      "num": 769761,
+      "num": 786844,
       "word": "国产榴莲几乎没臭味儿",
       "onboard_time": 1715227219,
       "rank": 13,
@@ -123,6 +123,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 830385,
+      "num": 830385,
+      "word": "福建舰也太太太太太太大了",
+      "onboard_time": 1715230038,
+      "rank": 4,
+      "category": "军事"
+    },
+    {
       "raw_hot": 822314,
       "num": 290357,
       "word": "以色列威胁联合国",
@@ -171,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 757810,
+      "num": 757810,
+      "word": "歌手2024首期阵容",
+      "onboard_time": 1715233697,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 738816,
       "num": 684985,
       "word": "男子冒充胖猫事件女主被行政处罚",
@@ -211,12 +227,12 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 659215,
-      "num": 659215,
-      "word": "福建舰也太太太太太太大了",
-      "onboard_time": 1715230038,
-      "rank": 4,
-      "category": "军事"
+      "raw_hot": 657850,
+      "num": 528611,
+      "word": "歌手2024第一期歌单",
+      "onboard_time": 1715233697,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 656113,
@@ -257,6 +273,14 @@
       "onboard_time": 1715181080,
       "rank": 13,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 621001,
+      "num": 522938,
+      "word": "Makiyo暴瘦",
+      "onboard_time": 1715233399,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 604828,
@@ -331,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510322,
+      "num": 510322,
+      "word": "井柏然赛道",
+      "onboard_time": 1715233399,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 495494,
       "num": 264211,
       "word": "假球",
@@ -369,6 +401,14 @@
       "onboard_time": 1715231479,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 472368,
+      "num": 472368,
+      "word": "住房公积金的这些用途你get了吗",
+      "onboard_time": 1715233219,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 454410,
@@ -427,6 +467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 381246,
+      "num": 381246,
+      "word": "戚薇打卡夏家三千金拍摄地",
+      "onboard_time": 1715233039,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364175,
       "num": 364175,
       "word": "辽粤决战现场失控",
@@ -435,20 +483,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 363525,
+      "num": 359014,
+      "word": "歌手2024全球直播发布会",
+      "onboard_time": 1715231720,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360855,
       "num": 360855,
       "word": "NINEPERCENT专辑",
       "onboard_time": 1715213599,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 359014,
-      "num": 359014,
-      "word": "歌手2024全球直播发布会",
-      "onboard_time": 1715231720,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 350900,
@@ -465,6 +513,14 @@
       "onboard_time": 1715226919,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 347252,
+      "num": 347252,
+      "word": "长期往两边吹发根有记忆了",
+      "onboard_time": 1715225120,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 334952,
@@ -531,12 +587,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294684,
-      "num": 294684,
-      "word": "长期往两边吹发根有记忆了",
-      "onboard_time": 1715225120,
-      "rank": 30,
-      "category": "美妆"
+      "raw_hot": 288735,
+      "num": 525141,
+      "word": "瑞幸咖啡被曝冰块霉变",
+      "onboard_time": 1715235557,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286415,
+      "num": 514742,
+      "word": "榴莲",
+      "onboard_time": 1715234958,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 268958,
@@ -547,11 +611,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 257107,
+      "num": 217319,
+      "word": "男子被索30万彩礼要求女方也陪嫁30万",
+      "onboard_time": 1715234358,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256015,
       "num": 256015,
       "word": "王楚然客串庆余年2",
       "onboard_time": 1715230400,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 255638,
+      "num": 216163,
+      "word": "井柏然扫楼偶遇宋茜",
+      "onboard_time": 1715234119,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -593,6 +673,14 @@
       "onboard_time": 1715182579,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 237176,
+      "num": 237176,
+      "word": "王楚钦说和莎莎关键球处理更好",
+      "onboard_time": 1715232618,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 237023,
@@ -707,11 +795,27 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 214781,
+      "num": 214781,
+      "word": "向佐鼻孔漏水",
+      "onboard_time": 1715233757,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211916,
       "num": 211916,
       "word": "咒术回战259",
       "onboard_time": 1715229020,
       "rank": 35,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 211672,
+      "num": 211672,
+      "word": "三丽鸥投票",
+      "onboard_time": 1715235079,
+      "rank": 26,
       "category": "动漫"
     },
     {
@@ -729,6 +833,14 @@
       "onboard_time": 1715214921,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209179,
+      "num": 209179,
+      "word": "王一博黄西装",
+      "onboard_time": 1715235318,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209118,
@@ -793,6 +905,30 @@
       "onboard_time": 1715224759,
       "rank": 43,
       "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 201870,
+      "num": 201870,
+      "word": "任嘉伦青岛",
+      "onboard_time": 1715235318,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201745,
+      "num": 201745,
+      "word": "莲花楼 关于风",
+      "onboard_time": 1715235257,
+      "rank": 29,
+      "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 200677,
+      "num": 200677,
+      "word": "尹锡悦称妻子处事方式不够明智",
+      "onboard_time": 1715235378,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 200493,
@@ -1035,12 +1171,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171417,
+      "num": 171417,
+      "word": "樱花树下的刘浩存",
+      "onboard_time": 1715234178,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171020,
+      "num": 171020,
+      "word": "赵露思十年前是奥林匹克中国少年形象大使",
+      "onboard_time": 1715235557,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168938,
       "num": 168938,
       "word": "腹型肥胖的风险",
       "onboard_time": 1715215460,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168247,
+      "num": 168247,
+      "word": "胡歌高圆圆对手戏",
+      "onboard_time": 1715234417,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 168189,
@@ -1088,14 +1248,6 @@
       "word": "一起来看巴黎奥运会",
       "onboard_time": 1715224818,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 159400,
-      "num": 159400,
-      "word": "王楚钦说和莎莎关键球处理更好",
-      "onboard_time": 1715232618,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -1161,6 +1313,14 @@
       "onboard_time": 1715203991,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150917,
+      "num": 150917,
+      "word": "王源谈歌手与歌迷的理想关系",
+      "onboard_time": 1715235438,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 150707,
@@ -1235,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136301,
+      "num": 136301,
+      "word": "那英拆台黄子韬",
+      "onboard_time": 1715234958,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135825,
       "num": 135825,
       "word": "徐冬冬海边素颜照",
@@ -1251,12 +1419,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135037,
+      "num": 135037,
+      "word": "马云20年前淘宝论坛旧贴谈用户",
+      "onboard_time": 1715235496,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 132663,
       "num": 132663,
       "word": "蔚来第50万辆量产车下线",
       "onboard_time": 1715223679,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 130625,
+      "num": 130625,
+      "word": "杭州取消住房限购后咨询买房的电话已打爆",
+      "onboard_time": 1715235017,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127795,
@@ -1273,6 +1457,14 @@
       "onboard_time": 1715209455,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123780,
+      "num": 123780,
+      "word": "小猫耳朵消失术",
+      "onboard_time": 1715235438,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 122815,
@@ -1395,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89217,
+      "num": 523743,
+      "word": "魔方一开始是一种教学工具",
+      "onboard_time": 1715234058,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 86784,
       "num": 122783,
       "word": "i人不露脸的拍照姿势",
@@ -1412,7 +1612,7 @@
     },
     {
       "raw_hot": 83948,
-      "num": 771149,
+      "num": 801879,
       "word": "匈牙利为何被称为最西边的东方国家",
       "onboard_time": 1715225358,
       "rank": 2,
