@@ -1,0 +1,410 @@
+{
+  "runTime": 1715268879644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 923369,
+        "num": 923369,
+        "word": "诺基亚回归",
+        "onboard_time": 1715259018,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 571314,
+        "num": 571314,
+        "word": "全国仅剩6地未全面取消住房限购",
+        "onboard_time": 1715241799,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59971,
+        "num": 568077,
+        "word": "匈牙利街头中式推拿",
+        "onboard_time": 1715266700,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117732,
+        "num": 550122,
+        "word": "匈牙利名菜跟中国菜很像",
+        "onboard_time": 1715266399,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1596944,
+        "num": 519517,
+        "word": "人死后聊天记录会被怎样处理",
+        "onboard_time": 1715263821,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1109278,
+        "num": 501277,
+        "word": "迄今为止最恐怖的太空照片之一",
+        "onboard_time": 1715262200,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 487703,
+        "num": 487703,
+        "word": "心疼花海",
+        "onboard_time": 1715267119,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 446676,
+        "num": 446676,
+        "word": "于正回应与庆余年2狐妖撞档",
+        "onboard_time": 1715262980,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428705,
+        "num": 428705,
+        "word": "狐妖小红娘红月篇",
+        "onboard_time": 1715265979,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350289,
+        "num": 350289,
+        "word": "怡宝回应新包装",
+        "onboard_time": 1715261779,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747839,
+        "num": 345055,
+        "word": "王一博车被拖走了",
+        "onboard_time": 1715262560,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470615,
+        "num": 339638,
+        "word": "陈思建宵夜婚礼",
+        "onboard_time": 1715262980,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 453567,
+        "num": 337133,
+        "word": "那些长期不上班的人最后都怎么样了",
+        "onboard_time": 1715255057,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327119,
+        "num": 327119,
+        "word": "旅客飞机突发疾病抢救无效去世",
+        "onboard_time": 1715262860,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293445,
+        "num": 293445,
+        "word": "张若昀说五年里尽力在保养",
+        "onboard_time": 1715255178,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285684,
+        "num": 285684,
+        "word": "张元英被威胁",
+        "onboard_time": 1715243779,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263525,
+        "num": 263525,
+        "word": "迪丽热巴不考虑演反派吗",
+        "onboard_time": 1715255896,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254603,
+        "num": 254603,
+        "word": "王艺迪vs伊藤美诚",
+        "onboard_time": 1715264300,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236567,
+        "num": 236567,
+        "word": "杨幂关雪狱中哭戏感染力",
+        "onboard_time": 1715268080,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168185,
+        "num": 231105,
+        "word": "女儿被人说长得不好看",
+        "onboard_time": 1715259859,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 570761,
+        "num": 230491,
+        "word": "时代峰峻",
+        "onboard_time": 1715267119,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321723,
+        "num": 230410,
+        "word": "娜扎 就担心我艳压你",
+        "onboard_time": 1715251159,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229378,
+        "num": 229378,
+        "word": "药店门口为什么总写着万艾可到货",
+        "onboard_time": 1715252538,
+        "rank": 22,
+        "category": "科学科普,科学科普"
+      },
+      {
+        "raw_hot": 216305,
+        "num": 216305,
+        "word": "我的阿勒泰 令人难忘的细节",
+        "onboard_time": 1715266940,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206365,
+        "num": 206365,
+        "word": "最适合离职的头像出现了",
+        "onboard_time": 1715267239,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203970,
+        "num": 203970,
+        "word": "赵丽颖的精神内核好稳",
+        "onboard_time": 1715268020,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199491,
+        "num": 199491,
+        "word": "原来晒被子不能晒一整天",
+        "onboard_time": 1715263999,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 197281,
+        "num": 197281,
+        "word": "胡歌为拍这部戏观察我三年",
+        "onboard_time": 1715259558,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153592,
+        "num": 193385,
+        "word": "王艺迪大满贯晋级4强",
+        "onboard_time": 1715265560,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129236,
+        "num": 192796,
+        "word": "全国人均每年喝16杯咖啡",
+        "onboard_time": 1715254997,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192391,
+        "num": 192391,
+        "word": "我的阿勒泰 让我演两集",
+        "onboard_time": 1715258358,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189352,
+        "num": 189352,
+        "word": "郭碧婷高马尾女团风",
+        "onboard_time": 1715266040,
+        "rank": 31,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 171487,
+        "num": 171487,
+        "word": "我的阿勒泰壁纸",
+        "onboard_time": 1715267719,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165973,
+        "num": 165973,
+        "word": "新生",
+        "onboard_time": 1715252177,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159484,
+        "num": 159484,
+        "word": "因为缺门牙十一年没有大笑过",
+        "onboard_time": 1715265620,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148804,
+        "num": 148804,
+        "word": "林俊杰深圳演唱会我继续官摄",
+        "onboard_time": 1715265380,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148589,
+        "num": 148589,
+        "word": "杨紫时隔八年再登ELLE",
+        "onboard_time": 1715265500,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147721,
+        "num": 147721,
+        "word": "周洛对南雅被侵犯道歉",
+        "onboard_time": 1715267599,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116181,
+        "num": 147073,
+        "word": "eStar止步六强",
+        "onboard_time": 1715266158,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112031,
+        "num": 147054,
+        "word": "新疆男篮晋级总决赛",
+        "onboard_time": 1715265140,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147049,
+        "num": 147049,
+        "word": "马嘉祺回忆发小父亲去世细节哽咽",
+        "onboard_time": 1715268080,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144052,
+        "num": 144052,
+        "word": "叫我关小姐",
+        "onboard_time": 1715262200,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135847,
+        "num": 135847,
+        "word": "费曼是意外 青云是真爱",
+        "onboard_time": 1715261599,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123505,
+        "num": 123505,
+        "word": "在机场全中文对话的AHYEON",
+        "onboard_time": 1715265260,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120785,
+        "num": 120785,
+        "word": "宋茜把假睫毛搓掉了",
+        "onboard_time": 1715264898,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107951,
+        "num": 120680,
+        "word": "螺蛳粉有官方英文名了",
+        "onboard_time": 1715255418,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105248,
+        "num": 120405,
+        "word": "王楚钦 一天三赛习惯了",
+        "onboard_time": 1715259619,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103247,
+        "num": 119708,
+        "word": "王一珩是抢了小丰收的车吗",
+        "onboard_time": 1715264060,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100419,
+        "num": 119526,
+        "word": "BLG晋级胜败下一轮",
+        "onboard_time": 1715268259,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81262,
+        "num": 119157,
+        "word": "淘宝免单",
+        "onboard_time": 1715242098,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#引领中匈关系不断迈向更高水平#"
+    }
+  }
+}
