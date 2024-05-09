@@ -1,7 +1,15 @@
 {
   "startTime": 1715185399055,
-  "endTime": 1715229458736,
+  "endTime": 1715231936767,
   "band_list": [
+    {
+      "raw_hot": 2295218,
+      "num": 347380,
+      "word": "赵露思将担任奥运火炬手",
+      "onboard_time": 1715228721,
+      "rank": 10,
+      "category": "艺人,体育"
+    },
     {
       "raw_hot": 2248368,
       "num": 2248368,
@@ -35,14 +43,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1401592,
-      "num": 338114,
-      "word": "赵露思将担任奥运火炬手",
-      "onboard_time": 1715228721,
-      "rank": 10,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 1383418,
       "num": 1383418,
       "word": "老外被中国人的约饭节奏震惊了",
@@ -57,6 +57,14 @@
       "onboard_time": 1715212278,
       "rank": 10,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 1250753,
+      "num": 649986,
+      "word": "国产榴莲几乎没臭味儿",
+      "onboard_time": 1715227219,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 1135694,
@@ -99,14 +107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 918263,
-      "num": 649986,
-      "word": "国产榴莲几乎没臭味儿",
-      "onboard_time": 1715227219,
-      "rank": 13,
-      "category": "美食"
-    },
-    {
       "raw_hot": 914238,
       "num": 489484,
       "word": "瘦肚子最快的运动是跳跃",
@@ -139,12 +139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 810300,
+      "num": 263764,
+      "word": "周扬青 收到了人生中第一个BJD娃娃",
+      "onboard_time": 1715228660,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 806999,
       "num": 806999,
       "word": "妙可蓝多市值三年蒸发365亿",
       "onboard_time": 1715216898,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 763972,
+      "num": 763972,
+      "word": "5家单位招聘要求女性已婚已育被查",
+      "onboard_time": 1715229380,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 738816,
@@ -219,6 +235,22 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 610977,
+      "num": 263733,
+      "word": "你支持取消实体SIM卡吗",
+      "onboard_time": 1715228599,
+      "rank": 46,
+      "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 606251,
+      "num": 606251,
+      "word": "福建舰也太太太太太太大了",
+      "onboard_time": 1715230038,
+      "rank": 4,
+      "category": "军事"
+    },
+    {
       "raw_hot": 604828,
       "num": 387885,
       "word": "花少北女友 大粉",
@@ -265,6 +297,14 @@
       "onboard_time": 1715224938,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557644,
+      "num": 344869,
+      "word": "范闲林婉儿婚服吻",
+      "onboard_time": 1715231122,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 549985,
@@ -395,14 +435,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 352589,
-      "num": 220469,
-      "word": "周扬青 收到了人生中第一个BJD娃娃",
-      "onboard_time": 1715228660,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 350900,
       "num": 350900,
       "word": "皇马2比1拜仁",
@@ -491,6 +523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 256015,
+      "num": 256015,
+      "word": "王楚然客串庆余年2",
+      "onboard_time": 1715230400,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248865,
       "num": 248865,
       "word": "金价波动AI都快劝冒烟了",
@@ -537,14 +577,6 @@
       "onboard_time": 1715225898,
       "rank": 26,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 235528,
-      "num": 235528,
-      "word": "你支持取消实体SIM卡吗",
-      "onboard_time": 1715228599,
-      "rank": 46,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 234168,
@@ -731,6 +763,30 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 203410,
+      "num": 203410,
+      "word": "德芙反式脂肪酸",
+      "onboard_time": 1715231479,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 200493,
+      "num": 200493,
+      "word": "花少北 录屏组组长",
+      "onboard_time": 1715229501,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 199804,
+      "num": 199804,
+      "word": "苏打绿深圳抢票",
+      "onboard_time": 1715231538,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199768,
       "num": 199768,
       "word": "爱马适",
@@ -785,6 +841,14 @@
       "onboard_time": 1715227520,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195221,
+      "num": 195221,
+      "word": "阿勒泰 夏牧场",
+      "onboard_time": 1715231361,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 193594,
@@ -843,12 +907,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 183820,
+      "num": 183820,
+      "word": "一周七天发型不重样",
+      "onboard_time": 1715230280,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 183510,
       "num": 183510,
       "word": "种地吧",
       "onboard_time": 1715223138,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182474,
+      "num": 182474,
+      "word": "在网上说爱豆丑",
+      "onboard_time": 1715230761,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 180047,
@@ -889,6 +969,14 @@
       "onboard_time": 1715212937,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174545,
+      "num": 174545,
+      "word": "发现自己过上了小时候想要的生活",
+      "onboard_time": 1715231059,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 173940,
@@ -979,20 +1067,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161325,
+      "num": 161325,
+      "word": "歌手2024全球直播发布会",
+      "onboard_time": 1715231720,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159094,
       "num": 159094,
       "word": "ENHYPEN预告",
       "onboard_time": 1715217859,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157291,
-      "num": 157291,
-      "word": "5家单位招聘要求女性已婚已育被查",
-      "onboard_time": 1715229380,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156753,

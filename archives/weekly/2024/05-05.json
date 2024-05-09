@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715229458736,
+  "endTime": 1715231936767,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -89,6 +89,14 @@
       "onboard_time": 1714999998,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2295218,
+      "num": 347380,
+      "word": "赵露思将担任奥运火炬手",
+      "onboard_time": 1715228721,
+      "rank": 10,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 2256786,
@@ -411,14 +419,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1401592,
-      "num": 338114,
-      "word": "赵露思将担任奥运火炬手",
-      "onboard_time": 1715228721,
-      "rank": 10,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 1401033,
       "num": 1126159,
       "word": "元气森林就肖战海报事件致歉",
@@ -569,6 +569,14 @@
       "onboard_time": 1715144124,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1250753,
+      "num": 649986,
+      "word": "国产榴莲几乎没臭味儿",
+      "onboard_time": 1715227219,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 1239675,
@@ -1011,14 +1019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 918263,
-      "num": 649986,
-      "word": "国产榴莲几乎没臭味儿",
-      "onboard_time": 1715227219,
-      "rank": 13,
-      "category": "美食"
-    },
-    {
       "raw_hot": 916718,
       "num": 254901,
       "word": "爸爸才四十多岁就不工作了",
@@ -1315,6 +1315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 810300,
+      "num": 263764,
+      "word": "周扬青 收到了人生中第一个BJD娃娃",
+      "onboard_time": 1715228660,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 809974,
       "num": 809974,
       "word": "国羽女队第16次夺得尤伯杯冠军",
@@ -1481,6 +1489,14 @@
       "onboard_time": 1715154799,
       "rank": 7,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 763972,
+      "num": 763972,
+      "word": "5家单位招聘要求女性已婚已育被查",
+      "onboard_time": 1715229380,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 761384,
@@ -2131,6 +2147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 610977,
+      "num": 263733,
+      "word": "你支持取消实体SIM卡吗",
+      "onboard_time": 1715228599,
+      "rank": 46,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 610679,
       "num": 610679,
       "word": "雷军回应不建议给年轻人太多建议",
@@ -2153,6 +2177,14 @@
       "onboard_time": 1714876279,
       "rank": 33,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 606251,
+      "num": 606251,
+      "word": "福建舰也太太太太太太大了",
+      "onboard_time": 1715230038,
+      "rank": 4,
+      "category": "军事"
     },
     {
       "raw_hot": 605182,
@@ -2353,6 +2385,14 @@
       "onboard_time": 1715176580,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 557644,
+      "num": 344869,
+      "word": "范闲林婉儿婚服吻",
+      "onboard_time": 1715231122,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 554952,
@@ -4147,14 +4187,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 352589,
-      "num": 220469,
-      "word": "周扬青 收到了人生中第一个BJD娃娃",
-      "onboard_time": 1715228660,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 352262,
       "num": 352262,
       "word": "甄嬛传中太监名字都带海的原因",
@@ -5667,6 +5699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 256015,
+      "num": 256015,
+      "word": "王楚然客串庆余年2",
+      "onboard_time": 1715230400,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254416,
       "num": 254416,
       "word": "封神第一部真现象级电影",
@@ -6009,14 +6049,6 @@
       "onboard_time": 1715139983,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235528,
-      "num": 235528,
-      "word": "你支持取消实体SIM卡吗",
-      "onboard_time": 1715228599,
-      "rank": 46,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 235339,
@@ -7131,6 +7163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203410,
+      "num": 203410,
+      "word": "德芙反式脂肪酸",
+      "onboard_time": 1715231479,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 203317,
       "num": 203317,
       "word": "厦门震感",
@@ -7291,6 +7331,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 200493,
+      "num": 200493,
+      "word": "花少北 录屏组组长",
+      "onboard_time": 1715229501,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 200344,
       "num": 200344,
       "word": "林俊杰唱了一千年后记得我",
@@ -7313,6 +7361,14 @@
       "onboard_time": 1715054539,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199804,
+      "num": 199804,
+      "word": "苏打绿深圳抢票",
+      "onboard_time": 1715231538,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 199768,
@@ -7641,6 +7697,14 @@
       "onboard_time": 1715227520,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195221,
+      "num": 195221,
+      "word": "阿勒泰 夏牧场",
+      "onboard_time": 1715231361,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 195094,
@@ -8315,6 +8379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183820,
+      "num": 183820,
+      "word": "一周七天发型不重样",
+      "onboard_time": 1715230280,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 183742,
       "num": 183742,
       "word": "小果冻",
@@ -8425,6 +8497,14 @@
       "onboard_time": 1715054539,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 182474,
+      "num": 182474,
+      "word": "在网上说爱豆丑",
+      "onboard_time": 1715230761,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 182377,
@@ -8825,6 +8905,14 @@
       "onboard_time": 1715009420,
       "rank": 42,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 174545,
+      "num": 174545,
+      "word": "发现自己过上了小时候想要的生活",
+      "onboard_time": 1715231059,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 174494,
@@ -9555,6 +9643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161325,
+      "num": 161325,
+      "word": "歌手2024全球直播发布会",
+      "onboard_time": 1715231720,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161270,
       "num": 161270,
       "word": "为什么父母这么执着于提前到",
@@ -9761,14 +9857,6 @@
       "onboard_time": 1714894038,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157291,
-      "num": 157291,
-      "word": "5家单位招聘要求女性已婚已育被查",
-      "onboard_time": 1715229380,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157167,
