@@ -1,0 +1,410 @@
+{
+  "runTime": 1715253359558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 993646,
+        "num": 993646,
+        "word": "全国仅剩6地未全面取消住房限购",
+        "onboard_time": 1715241799,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382786,
+        "num": 382786,
+        "word": "赵露思将担任奥运火炬手",
+        "onboard_time": 1715228721,
+        "rank": 1,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 60483,
+        "num": 369165,
+        "word": "布达佩斯餐馆奏响中国乐曲",
+        "onboard_time": 1715240719,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 923670,
+        "num": 366586,
+        "word": "消保委点名林俊杰演唱会退票政策",
+        "onboard_time": 1715248578,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 364005,
+        "num": 364005,
+        "word": "玉桂狗中报排名第一",
+        "onboard_time": 1715246239,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 325483,
+        "num": 325483,
+        "word": "日食记生煎馒头",
+        "onboard_time": 1715251458,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 872095,
+        "num": 324012,
+        "word": "娜扎 就担心我艳压你",
+        "onboard_time": 1715251159,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383488,
+        "num": 322632,
+        "word": "汪苏泷回应凭什么参加歌手",
+        "onboard_time": 1715242521,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318418,
+        "num": 318418,
+        "word": "喷射出血止血的办法",
+        "onboard_time": 1715246058,
+        "rank": 8,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 58168,
+        "num": 316952,
+        "word": "布达佩斯Citywalk攻略",
+        "onboard_time": 1715252238,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 713637,
+        "num": 306625,
+        "word": "张元英被威胁",
+        "onboard_time": 1715243779,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602019,
+        "num": 304501,
+        "word": "要长相有长相 要谈吐有痰吐",
+        "onboard_time": 1715244499,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 378428,
+        "num": 293768,
+        "word": "上个央视恨不得全世界知道",
+        "onboard_time": 1715243419,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323152,
+        "num": 290490,
+        "word": "李昊自荐上歌手",
+        "onboard_time": 1715251937,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287191,
+        "num": 287191,
+        "word": "青铜峡9死2伤车祸事发陵园旁",
+        "onboard_time": 1715248998,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314075,
+        "num": 286791,
+        "word": "歌手2024第一期歌单",
+        "onboard_time": 1715233697,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283427,
+        "num": 283427,
+        "word": "佟梦实还演五竹",
+        "onboard_time": 1715250739,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277418,
+        "num": 277418,
+        "word": "瑞幸咖啡被曝冰块霉变",
+        "onboard_time": 1715235557,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252449,
+        "num": 252449,
+        "word": "53岁爸爸第一次吃榴莲以为是面包",
+        "onboard_time": 1715245519,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 210917,
+        "num": 245956,
+        "word": "淘宝免单",
+        "onboard_time": 1715242098,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 415846,
+        "num": 235712,
+        "word": "迪丽热巴黑色阔腿裤",
+        "onboard_time": 1715249537,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332224,
+        "num": 226302,
+        "word": "李胜利再唱BangBangBang",
+        "onboard_time": 1715248340,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257121,
+        "num": 223880,
+        "word": "新生",
+        "onboard_time": 1715252177,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214966,
+        "num": 214966,
+        "word": "黄子弘凡 爸爸你听我解释",
+        "onboard_time": 1715247378,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203621,
+        "num": 212300,
+        "word": "药店门口为什么总写着万艾可到货",
+        "onboard_time": 1715252538,
+        "rank": 24,
+        "category": "科学科普,科学科普"
+      },
+      {
+        "raw_hot": 211135,
+        "num": 211135,
+        "word": "肖战巨型墙绘是怎么画出来的",
+        "onboard_time": 1715252298,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208048,
+        "num": 208048,
+        "word": "庆余年2首播4集不断更",
+        "onboard_time": 1715222478,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203498,
+        "num": 203498,
+        "word": "南京晚霞",
+        "onboard_time": 1715253077,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197685,
+        "num": 197685,
+        "word": "美国男子故意传播艾滋至少30名男性受害",
+        "onboard_time": 1715240659,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140587,
+        "num": 189295,
+        "word": "44岁女子生二胎当妈又当奶",
+        "onboard_time": 1715239817,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187887,
+        "num": 187887,
+        "word": "于适 人高马大的具象化",
+        "onboard_time": 1715252059,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176193,
+        "num": 176193,
+        "word": "张若昀说庆余年2好多大场面都是一条过",
+        "onboard_time": 1715249599,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174183,
+        "num": 174183,
+        "word": "BLG对战PSG",
+        "onboard_time": 1715248939,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163075,
+        "num": 163075,
+        "word": "不饿但馋可能是身体在求救",
+        "onboard_time": 1715242938,
+        "rank": 33,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 163054,
+        "num": 163054,
+        "word": "井柏然赛道",
+        "onboard_time": 1715233399,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140752,
+        "num": 140752,
+        "word": "侯雯元想了一夜钟楚曦",
+        "onboard_time": 1715239579,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133034,
+        "num": 133034,
+        "word": "成毅代言优酷",
+        "onboard_time": 1715250739,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128901,
+        "num": 128901,
+        "word": "李莎旻子撕杨丞琳标签",
+        "onboard_time": 1715244920,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128758,
+        "num": 128758,
+        "word": "第一次吃席吃到汉堡",
+        "onboard_time": 1715245939,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119355,
+        "num": 126624,
+        "word": "诺奖得主研发最新抗衰技术",
+        "onboard_time": 1715252777,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126224,
+        "num": 126224,
+        "word": "迪丽热巴细闪眼妆",
+        "onboard_time": 1715252658,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124262,
+        "num": 124262,
+        "word": "蝴蝶停新郎胸口胸花并非鲜花",
+        "onboard_time": 1715250019,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122807,
+        "num": 122807,
+        "word": "郑恺不忍心看苗苗努力的样子",
+        "onboard_time": 1715247318,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121345,
+        "num": 121345,
+        "word": "发朋友圈就必须回消息吗",
+        "onboard_time": 1715243959,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118829,
+        "num": 118829,
+        "word": "晚霞",
+        "onboard_time": 1715253258,
+        "rank": 44,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 113412,
+        "num": 113412,
+        "word": "阿水与gumayusi交换队服",
+        "onboard_time": 1715246299,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108143,
+        "num": 108143,
+        "word": "歌手2024首期阵容",
+        "onboard_time": 1715233697,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107944,
+        "num": 107944,
+        "word": "窦骁何超莲最近合照",
+        "onboard_time": 1715244559,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104332,
+        "num": 104332,
+        "word": "男子被索30万彩礼要求女方也陪嫁30万",
+        "onboard_time": 1715234358,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100980,
+        "num": 100980,
+        "word": "四天工作制离我们还有多远",
+        "onboard_time": 1715236937,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#匈牙利总理欢迎习近平夫妇来家里#"
+    }
+  }
+}
