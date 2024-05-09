@@ -1,6 +1,6 @@
 {
   "startTime": 1715271798898,
-  "endTime": 1715276065340,
+  "endTime": 1715278987662,
   "band_list": [
     {
       "raw_hot": 1325136,
@@ -83,19 +83,19 @@
       "category": "网红"
     },
     {
+      "raw_hot": 320140,
+      "num": 320140,
+      "word": "南充16岁高中女生已失联5天",
+      "onboard_time": 1715273536,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306688,
       "num": 306688,
       "word": "全国仅剩6地未全面取消住房限购",
       "onboard_time": 1715241799,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298845,
-      "num": 139002,
-      "word": "南充16岁高中女生已失联5天",
-      "onboard_time": 1715273536,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

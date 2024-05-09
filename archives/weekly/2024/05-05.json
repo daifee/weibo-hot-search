@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715276065340,
+  "endTime": 1715278987662,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -5235,6 +5235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320140,
+      "num": 320140,
+      "word": "南充16岁高中女生已失联5天",
+      "onboard_time": 1715273536,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320012,
       "num": 320012,
       "word": "新iPadPro从M2直接跃升至M4",
@@ -5577,14 +5585,6 @@
       "onboard_time": 1715156661,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 298845,
-      "num": 139002,
-      "word": "南充16岁高中女生已失联5天",
-      "onboard_time": 1715273536,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298489,
