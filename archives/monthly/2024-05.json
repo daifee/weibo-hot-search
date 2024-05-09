@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715240075117,
+  "endTime": 1715242971630,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 1960558,
-      "num": 686922,
+      "num": 788119,
       "word": "瑞幸咖啡被曝冰块霉变",
       "onboard_time": 1715235557,
       "rank": 8,
@@ -808,6 +808,14 @@
       "word": "老外被中国人的约饭节奏震惊了",
       "onboard_time": 1715213900,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1372523,
+      "num": 1372523,
+      "word": "西安全面取消住房限购",
+      "onboard_time": 1715240659,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1728,6 +1736,14 @@
       "word": "宝鸡一男子串串店门口被刺身亡",
       "onboard_time": 1715157320,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 957815,
+      "num": 388199,
+      "word": "美国男子故意传播艾滋至少30名男性受害",
+      "onboard_time": 1715240659,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -2723,6 +2739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 754439,
+      "num": 272067,
+      "word": "44岁女子生二胎当妈又当奶",
+      "onboard_time": 1715239817,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 754422,
       "num": 754422,
       "word": "奔跑吧强行煽情",
@@ -2761,6 +2785,14 @@
       "onboard_time": 1714833079,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 747924,
+      "num": 436621,
+      "word": "四天工作制离我们还有多远",
+      "onboard_time": 1715236937,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 746271,
@@ -2865,6 +2897,14 @@
       "onboard_time": 1715046679,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 733783,
+      "num": 362001,
+      "word": "侯雯元想了一夜钟楚曦",
+      "onboard_time": 1715239579,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 728200,
@@ -4403,6 +4443,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 541975,
+      "num": 502123,
+      "word": "歌手汪苏泷",
+      "onboard_time": 1715239817,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 541627,
       "num": 541627,
       "word": "康辉担任巴黎奥运会火炬手",
@@ -5707,14 +5755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 444659,
-      "num": 436621,
-      "word": "四天工作制离我们还有多远",
-      "onboard_time": 1715236937,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 442521,
       "num": 442521,
       "word": "李到晛 智妍呐谢谢你",
@@ -5883,6 +5923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432775,
+      "num": 342692,
+      "word": "恋爱兄妹 男一",
+      "onboard_time": 1715241079,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432281,
       "num": 432281,
       "word": "广东成立梅大高速塌方灾害调查评估组",
@@ -5937,6 +5985,14 @@
       "onboard_time": 1714740442,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 429946,
+      "num": 334816,
+      "word": "汪苏泷回应凭什么参加歌手",
+      "onboard_time": 1715242521,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 428590,
@@ -6409,6 +6465,14 @@
       "onboard_time": 1714559359,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 406996,
+      "num": 406996,
+      "word": "涵艺爆料iG将解散",
+      "onboard_time": 1715241919,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 406990,
@@ -8107,6 +8171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 325355,
+      "num": 325355,
+      "word": "微笑 爱萝莉",
+      "onboard_time": 1715237959,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 324756,
       "num": 244944,
       "word": "童瑶自曝不好意思被张新成看",
@@ -8827,6 +8899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294334,
+      "num": 250640,
+      "word": "苗苗说自己平时不化妆",
+      "onboard_time": 1715242699,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294296,
       "num": 239355,
       "word": "关晓彤牛仔裙",
@@ -9435,14 +9515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272067,
-      "num": 272067,
-      "word": "44岁女子生二胎当妈又当奶",
-      "onboard_time": 1715239817,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272003,
       "num": 259886,
       "word": "熬夜疲劳可能会让你变臭",
@@ -9849,14 +9921,6 @@
       "onboard_time": 1714803798,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259947,
-      "num": 259947,
-      "word": "侯雯元想了一夜钟楚曦",
-      "onboard_time": 1715239579,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 259795,
@@ -10643,14 +10707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237112,
-      "num": 237112,
-      "word": "微笑 爱萝莉",
-      "onboard_time": 1715237959,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 237023,
       "num": 237023,
       "word": "达利园回应请山寨杰伦代言",
@@ -10713,6 +10769,14 @@
       "onboard_time": 1714711399,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235030,
+      "num": 235030,
+      "word": "卷了一晚上的头发拆开",
+      "onboard_time": 1715241319,
+      "rank": 24,
+      "category": "美妆"
     },
     {
       "raw_hot": 234791,
@@ -10921,6 +10985,14 @@
       "onboard_time": 1714959617,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 230936,
+      "num": 230936,
+      "word": "全国仅7地未全面取消住房限购",
+      "onboard_time": 1715241799,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230571,
@@ -12073,6 +12145,14 @@
       "onboard_time": 1715062998,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209414,
+      "num": 209414,
+      "word": "不饿但馋可能是身体在求救",
+      "onboard_time": 1715242938,
+      "rank": 28,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 209245,
@@ -14899,6 +14979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183280,
+      "num": 183280,
+      "word": "俄罗斯举行红场阅兵式",
+      "onboard_time": 1715240838,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 183224,
       "num": 452628,
       "word": "香飘飘总裁说国货要对国人好",
@@ -15025,14 +15113,6 @@
       "onboard_time": 1714797079,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181569,
-      "num": 172217,
-      "word": "歌手汪苏泷",
-      "onboard_time": 1715239817,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 181226,
@@ -15593,6 +15673,14 @@
       "onboard_time": 1715066478,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175465,
+      "num": 175465,
+      "word": "一番大奶主",
+      "onboard_time": 1715242400,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 175459,
@@ -18723,6 +18811,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 145363,
+      "num": 145363,
+      "word": "张艺兴说自己年纪大了",
+      "onboard_time": 1715240357,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145284,
       "num": 145284,
       "word": "今天是粤三疯",
@@ -19089,6 +19185,14 @@
       "onboard_time": 1715091322,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141437,
+      "num": 141437,
+      "word": "HYBE将召开罢免闵熙珍股东大会",
+      "onboard_time": 1715242098,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 141433,
@@ -21259,6 +21363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 117677,
+      "num": 117677,
+      "word": "王楚钦孙颖莎对阵黄镇廷杜凯琹",
+      "onboard_time": 1715242338,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117676,
       "num": 117676,
       "word": "蔡依林南昌",
@@ -21345,6 +21457,14 @@
       "onboard_time": 1714784058,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116776,
+      "num": 116776,
+      "word": "西安不再审核购房资格",
+      "onboard_time": 1715241018,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116743,
@@ -23043,6 +23163,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 76240,
+      "num": 794727,
+      "word": "布达佩斯餐馆奏响中国乐曲",
+      "onboard_time": 1715240719,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76141,
       "num": 264730,
       "word": "毕业季又被簪花学士帽惊艳到了",
@@ -23129,6 +23257,14 @@
       "onboard_time": 1714938191,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 72733,
+      "num": 500327,
+      "word": "上万塞铁欢呼声经久不息震撼场面",
+      "onboard_time": 1715240899,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 71771,
