@@ -1,6 +1,6 @@
 {
   "startTime": 1715185399055,
-  "endTime": 1715236632465,
+  "endTime": 1715239148380,
   "band_list": [
     {
       "raw_hot": 2295218,
@@ -33,6 +33,14 @@
       "onboard_time": 1715180361,
       "rank": 10,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 1960558,
+      "num": 686922,
+      "word": "瑞幸咖啡被曝冰块霉变",
+      "onboard_time": 1715235557,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1642827,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 810300,
-      "num": 263764,
+      "num": 275876,
       "word": "周扬青 收到了人生中第一个BJD娃娃",
       "onboard_time": 1715228660,
       "rank": 47,
@@ -211,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 686922,
-      "num": 686922,
-      "word": "瑞幸咖啡被曝冰块霉变",
-      "onboard_time": 1715235557,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 686081,
       "num": 686081,
       "word": "第一批00后已经开始做家政了",
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 685849,
-      "num": 263733,
+      "num": 274409,
       "word": "你支持取消实体SIM卡吗",
       "onboard_time": 1715228599,
       "rank": 46,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 657850,
-      "num": 528611,
+      "num": 603822,
       "word": "歌手2024第一期歌单",
       "onboard_time": 1715233697,
       "rank": 7,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 519522,
+      "num": 519522,
+      "word": "李娟",
+      "onboard_time": 1715237060,
+      "rank": 8,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 510322,
       "num": 510322,
       "word": "井柏然赛道",
@@ -419,6 +427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 469572,
+      "num": 469572,
+      "word": "马云20年前淘宝论坛旧贴谈用户",
+      "onboard_time": 1715235496,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 454410,
       "num": 454410,
       "word": "7部影片定档端午档",
@@ -433,6 +449,22 @@
       "onboard_time": 1715224338,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 441608,
+      "num": 277471,
+      "word": "男子被索30万彩礼要求女方也陪嫁30万",
+      "onboard_time": 1715234358,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433744,
+      "num": 433744,
+      "word": "尹锡悦称妻子处事方式不够明智",
+      "onboard_time": 1715235378,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 431799,
@@ -475,20 +507,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 384721,
+      "num": 384721,
+      "word": "长期往两边吹发根有记忆了",
+      "onboard_time": 1715225120,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 381246,
       "num": 381246,
       "word": "戚薇打卡夏家三千金拍摄地",
       "onboard_time": 1715233039,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 371167,
-      "num": 371167,
-      "word": "长期往两边吹发根有记忆了",
-      "onboard_time": 1715225120,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 364175,
@@ -515,6 +547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 357158,
+      "num": 357158,
+      "word": "莲花楼 关于风",
+      "onboard_time": 1715235257,
+      "rank": 29,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 350900,
       "num": 350900,
       "word": "皇马2比1拜仁",
@@ -529,6 +569,14 @@
       "onboard_time": 1715226919,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 338342,
+      "num": 338342,
+      "word": "赵露思十年前是奥林匹克中国少年形象大使",
+      "onboard_time": 1715235557,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 334952,
@@ -603,20 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293088,
-      "num": 255052,
-      "word": "男子被索30万彩礼要求女方也陪嫁30万",
-      "onboard_time": 1715234358,
-      "rank": 23,
+      "raw_hot": 272151,
+      "num": 272151,
+      "word": "杭州取消住房限购后咨询买房的电话已打爆",
+      "onboard_time": 1715235017,
+      "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272022,
-      "num": 272022,
-      "word": "莲花楼 关于风",
-      "onboard_time": 1715235257,
-      "rank": 29,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 268958,
@@ -625,6 +665,14 @@
       "onboard_time": 1715224279,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 267896,
+      "num": 267896,
+      "word": "四天工作制离我们还有多远",
+      "onboard_time": 1715236937,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 256114,
@@ -649,22 +697,6 @@
       "onboard_time": 1715234119,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 254962,
-      "num": 254962,
-      "word": "赵露思十年前是奥林匹克中国少年形象大使",
-      "onboard_time": 1715235557,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 251777,
-      "num": 251777,
-      "word": "马云20年前淘宝论坛旧贴谈用户",
-      "onboard_time": 1715235496,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 248865,
@@ -705,6 +737,14 @@
       "onboard_time": 1715182579,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 237248,
+      "num": 237248,
+      "word": "何超莲晒生日合照",
+      "onboard_time": 1715237536,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 237023,
@@ -835,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212050,
+      "num": 212050,
+      "word": "微笑 爱萝莉",
+      "onboard_time": 1715237959,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 211916,
       "num": 211916,
       "word": "咒术回战259",
@@ -947,6 +995,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 203282,
+      "num": 203282,
+      "word": "黄宣 揭榜歌手",
+      "onboard_time": 1715238258,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201870,
       "num": 201870,
       "word": "任嘉伦青岛",
@@ -955,12 +1011,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200677,
-      "num": 200677,
-      "word": "尹锡悦称妻子处事方式不够明智",
-      "onboard_time": 1715235378,
-      "rank": 30,
-      "category": "国外时政"
+      "raw_hot": 201675,
+      "num": 201675,
+      "word": "妙可蓝多CEO反思股价大跌",
+      "onboard_time": 1715238739,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 200493,
@@ -1001,6 +1057,14 @@
       "onboard_time": 1715221037,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 199057,
+      "num": 199057,
+      "word": "杨丞琳 歌手",
+      "onboard_time": 1715238378,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 199049,
@@ -1075,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189753,
+      "num": 189753,
+      "word": "我国首批适老化药品说明书上市",
+      "onboard_time": 1715238077,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 189255,
       "num": 189255,
       "word": "在网上说爱豆丑",
@@ -1113,6 +1185,14 @@
       "onboard_time": 1715173580,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185319,
+      "num": 185319,
+      "word": "何浩楠 陪大家吃立夏饭啦",
+      "onboard_time": 1715238139,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 183994,
@@ -1363,6 +1443,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149568,
+      "num": 149568,
+      "word": "江苏高考实行3加1加2模式",
+      "onboard_time": 1715236338,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 148971,
+      "num": 148971,
+      "word": "迪丽热巴模仿刘宇宁口音",
+      "onboard_time": 1715238618,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148497,
       "num": 148497,
       "word": "尼克斯2比0步行者",
@@ -1377,6 +1473,14 @@
       "onboard_time": 1715213659,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143301,
+      "num": 143301,
+      "word": "毛晓彤出演庆余年2",
+      "onboard_time": 1715237536,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 143262,
@@ -1395,20 +1499,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141363,
-      "num": 141363,
-      "word": "杭州取消住房限购后咨询买房的电话已打爆",
-      "onboard_time": 1715235017,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140200,
       "num": 140200,
       "word": "19岁女孩马桶上产子后将其杀害",
       "onboard_time": 1715144124,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140063,
+      "num": 140063,
+      "word": "广场舞的风还是吹到了国外",
+      "onboard_time": 1715238077,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 136888,
@@ -1451,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134540,
+      "num": 606569,
+      "word": "魔方一开始是一种教学工具",
+      "onboard_time": 1715234058,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 134118,
       "num": 134118,
       "word": "耙耙柑的耙字怎么读",
@@ -1483,14 +1595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124396,
-      "num": 124396,
-      "word": "江苏高考实行3加1加2模式",
-      "onboard_time": 1715236338,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 123780,
       "num": 123780,
       "word": "小猫耳朵消失术",
@@ -1513,14 +1617,6 @@
       "onboard_time": 1715218879,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113951,
-      "num": 523743,
-      "word": "魔方一开始是一种教学工具",
-      "onboard_time": 1715234058,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 111587,
@@ -1737,6 +1833,14 @@
       "onboard_time": 1715203391,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 44603,
+      "num": 164605,
+      "word": "揭秘胶原抗老真相",
+      "onboard_time": 1715238258,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 41924,
