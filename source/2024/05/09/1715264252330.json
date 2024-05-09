@@ -1,0 +1,410 @@
+{
+  "runTime": 1715264252330,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1430037,
+        "num": 1430037,
+        "word": "诺基亚回归",
+        "onboard_time": 1715259018,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 853212,
+        "num": 853212,
+        "word": "怡宝回应新包装",
+        "onboard_time": 1715261779,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32969,
+        "num": 536089,
+        "word": "布达佩斯餐馆奏响中国乐曲",
+        "onboard_time": 1715240719,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 924536,
+        "num": 532067,
+        "word": "因担心被霸凌日本中小学生开始脱毛",
+        "onboard_time": 1715255958,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525017,
+        "num": 525017,
+        "word": "于正回应与庆余年2狐妖撞档",
+        "onboard_time": 1715262980,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 502285,
+        "num": 502285,
+        "word": "全国仅剩6地未全面取消住房限购",
+        "onboard_time": 1715241799,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476863,
+        "num": 476863,
+        "word": "王楚钦 一天三赛习惯了",
+        "onboard_time": 1715259619,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 451564,
+        "num": 451564,
+        "word": "张若昀说五年里尽力在保养",
+        "onboard_time": 1715255178,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396830,
+        "num": 396830,
+        "word": "我的阿勒泰 让我演两集",
+        "onboard_time": 1715258358,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54995,
+        "num": 394066,
+        "word": "匈牙利姑娘说爱看中国爱情剧",
+        "onboard_time": 1715263158,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 972805,
+        "num": 393616,
+        "word": "王一博车被拖走了",
+        "onboard_time": 1715262560,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 698993,
+        "num": 389971,
+        "word": "迄今为止最恐怖的太空照片之一",
+        "onboard_time": 1715262200,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 649131,
+        "num": 384783,
+        "word": "迪丽热巴不考虑演反派吗",
+        "onboard_time": 1715255896,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 574894,
+        "num": 382662,
+        "word": "陈思建宵夜婚礼",
+        "onboard_time": 1715262980,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 484494,
+        "num": 378511,
+        "word": "女儿被人说长得不好看",
+        "onboard_time": 1715259859,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 454949,
+        "num": 375165,
+        "word": "淘宝免单",
+        "onboard_time": 1715242098,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 374782,
+        "num": 374782,
+        "word": "胡歌为拍这部戏观察我三年",
+        "onboard_time": 1715259558,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71626,
+        "num": 345044,
+        "word": "奇瑞把豪华SUV价格打到了20万内",
+        "onboard_time": 1715261719,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 321403,
+        "num": 321403,
+        "word": "张元英被威胁",
+        "onboard_time": 1715243779,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285551,
+        "num": 285551,
+        "word": "全国人均每年喝16杯咖啡",
+        "onboard_time": 1715254997,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495994,
+        "num": 285243,
+        "word": "那些长期不上班的人最后都怎么样了",
+        "onboard_time": 1715255057,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 437530,
+        "num": 283727,
+        "word": "娜扎 就担心我艳压你",
+        "onboard_time": 1715251159,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282193,
+        "num": 282193,
+        "word": "费曼是意外 青云是真爱",
+        "onboard_time": 1715261599,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271873,
+        "num": 271873,
+        "word": "旅客飞机突发疾病抢救无效去世",
+        "onboard_time": 1715262860,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268503,
+        "num": 268503,
+        "word": "药店门口为什么总写着万艾可到货",
+        "onboard_time": 1715252538,
+        "rank": 24,
+        "category": "科学科普,科学科普"
+      },
+      {
+        "raw_hot": 242177,
+        "num": 242177,
+        "word": "叫我关小姐",
+        "onboard_time": 1715262200,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1552260,
+        "num": 236349,
+        "word": "怡宝 包装",
+        "onboard_time": 1715257278,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 226103,
+        "num": 226103,
+        "word": "BLG战胜PSG",
+        "onboard_time": 1715263400,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 210284,
+        "num": 210284,
+        "word": "上个央视恨不得全世界知道",
+        "onboard_time": 1715243419,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199492,
+        "num": 199492,
+        "word": "螺蛳粉有官方英文名了",
+        "onboard_time": 1715255418,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192639,
+        "num": 192639,
+        "word": "哈尔滨一九四四大结局",
+        "onboard_time": 1715263821,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184655,
+        "num": 184655,
+        "word": "什么是刮刮乐代码",
+        "onboard_time": 1715262200,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 182498,
+        "num": 182498,
+        "word": "浙江男篮vs新疆男篮",
+        "onboard_time": 1715262918,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180230,
+        "num": 180230,
+        "word": "新生",
+        "onboard_time": 1715252177,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175199,
+        "num": 175199,
+        "word": "王一珩是抢了小丰收的车吗",
+        "onboard_time": 1715264060,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170112,
+        "num": 170112,
+        "word": "离职是最好的医美吧",
+        "onboard_time": 1715259978,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164069,
+        "num": 164069,
+        "word": "2000年前墓葬中发现进口产品",
+        "onboard_time": 1715261119,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162585,
+        "num": 162585,
+        "word": "南京史诗级晚霞",
+        "onboard_time": 1715258957,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161094,
+        "num": 161094,
+        "word": "爱豆亲自说明的必须去打歌的理由",
+        "onboard_time": 1715263460,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157591,
+        "num": 157591,
+        "word": "黄觉说杀青才看清张艺凡长相",
+        "onboard_time": 1715260880,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156230,
+        "num": 156230,
+        "word": "奔跑吧撕名牌回归",
+        "onboard_time": 1715256077,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145627,
+        "num": 145627,
+        "word": "原来晒被子不能晒一整天",
+        "onboard_time": 1715263999,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 143554,
+        "num": 143554,
+        "word": "人死后聊天记录会被怎样处理",
+        "onboard_time": 1715263821,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140132,
+        "num": 140132,
+        "word": "庆余年2首播4集不断更",
+        "onboard_time": 1715222478,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137726,
+        "num": 137726,
+        "word": "李耕耘 兔子有在好好长大",
+        "onboard_time": 1715259678,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130135,
+        "num": 130135,
+        "word": "林诗栋晋级大满贯4强",
+        "onboard_time": 1715261719,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129203,
+        "num": 129203,
+        "word": "狗坏猫好",
+        "onboard_time": 1715258058,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128619,
+        "num": 128619,
+        "word": "消保委点名林俊杰演唱会退票政策",
+        "onboard_time": 1715248578,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126122,
+        "num": 126122,
+        "word": "佟梦实还演五竹",
+        "onboard_time": 1715250739,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119355,
+        "num": 119355,
+        "word": "李昊自荐上歌手",
+        "onboard_time": 1715251937,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中匈两国传统友谊源远流长#"
+    }
+  }
+}

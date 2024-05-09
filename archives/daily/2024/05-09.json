@@ -1,6 +1,6 @@
 {
   "startTime": 1715185399055,
-  "endTime": 1715261689437,
+  "endTime": 1715264252330,
   "band_list": [
     {
       "raw_hot": 2295218,
@@ -73,6 +73,14 @@
       "onboard_time": 1715174120,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1430037,
+      "num": 1430037,
+      "word": "诺基亚回归",
+      "onboard_time": 1715259018,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 1383418,
@@ -195,6 +203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 972805,
+      "num": 393616,
+      "word": "王一博车被拖走了",
+      "onboard_time": 1715262560,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 952870,
       "num": 952870,
       "word": "家有儿女小演员今昔对比",
@@ -225,6 +241,14 @@
       "onboard_time": 1715213179,
       "rank": 11,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 853212,
+      "num": 853212,
+      "word": "怡宝回应新包装",
+      "onboard_time": 1715261779,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 843921,
@@ -363,8 +387,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 698993,
+      "num": 389971,
+      "word": "迄今为止最恐怖的太空照片之一",
+      "onboard_time": 1715262200,
+      "rank": 11,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 695972,
-      "num": 235235,
+      "num": 268503,
       "word": "药店门口为什么总写着万艾可到货",
       "onboard_time": 1715252538,
       "rank": 24,
@@ -419,8 +451,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 649131,
+      "num": 388289,
+      "word": "迪丽热巴不考虑演反派吗",
+      "onboard_time": 1715255896,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 636583,
-      "num": 227229,
+      "num": 285243,
       "word": "那些长期不上班的人最后都怎么样了",
       "onboard_time": 1715255057,
       "rank": 22,
@@ -475,14 +515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 602263,
-      "num": 388289,
-      "word": "迪丽热巴不考虑演反派吗",
-      "onboard_time": 1715255896,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 595106,
       "num": 595106,
       "word": "黄好厉害",
@@ -513,6 +545,14 @@
       "onboard_time": 1715172560,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 574894,
+      "num": 382662,
+      "word": "陈思建宵夜婚礼",
+      "onboard_time": 1715262980,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 573389,
@@ -579,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 525017,
+      "num": 525017,
+      "word": "于正回应与庆余年2狐妖撞档",
+      "onboard_time": 1715262980,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 524936,
       "num": 524936,
       "word": "涵艺爆料iG将解散",
@@ -635,12 +683,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484494,
+      "num": 378511,
+      "word": "女儿被人说长得不好看",
+      "onboard_time": 1715259859,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 482431,
       "num": 482431,
       "word": "德芙反式脂肪酸",
       "onboard_time": 1715231479,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 476863,
+      "num": 476863,
+      "word": "王楚钦 一天三赛习惯了",
+      "onboard_time": 1715259619,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 473510,
@@ -753,6 +817,14 @@
       "onboard_time": 1715180421,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 396830,
+      "num": 396830,
+      "word": "我的阿勒泰 让我演两集",
+      "onboard_time": 1715258358,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 396673,
@@ -872,14 +944,6 @@
       "word": "皇马2比1拜仁",
       "onboard_time": 1715209695,
       "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 348993,
-      "num": 348993,
-      "word": "王楚钦 一天三赛习惯了",
-      "onboard_time": 1715259619,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -1035,6 +1099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282193,
+      "num": 282193,
+      "word": "费曼是意外 青云是真爱",
+      "onboard_time": 1715261599,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 280687,
       "num": 280687,
       "word": "马龙王楚钦男双半决赛",
@@ -1048,6 +1120,14 @@
       "word": "杭州取消住房限购后咨询买房的电话已打爆",
       "onboard_time": 1715235017,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271873,
+      "num": 271873,
+      "word": "旅客飞机突发疾病抢救无效去世",
+      "onboard_time": 1715262860,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1155,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242177,
+      "num": 242177,
+      "word": "叫我关小姐",
+      "onboard_time": 1715262200,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238368,
       "num": 238368,
       "word": "王鹤棣工作室出图了",
@@ -1219,6 +1307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 226103,
+      "num": 226103,
+      "word": "BLG战胜PSG",
+      "onboard_time": 1715263400,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224540,
       "num": 224540,
       "word": "一番大奶主",
@@ -1241,14 +1337,6 @@
       "onboard_time": 1715246299,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 222773,
-      "num": 222773,
-      "word": "诺基亚回归",
-      "onboard_time": 1715259018,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 222407,
@@ -1643,14 +1731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194999,
-      "num": 194999,
-      "word": "我的阿勒泰 让我演两集",
-      "onboard_time": 1715258358,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193853,
       "num": 193853,
       "word": "赵一博 细节都做到极致",
@@ -1665,6 +1745,14 @@
       "onboard_time": 1715190072,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 192639,
+      "num": 192639,
+      "word": "哈尔滨一九四四大结局",
+      "onboard_time": 1715263821,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 191831,
@@ -1779,6 +1867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184655,
+      "num": 184655,
+      "word": "什么是刮刮乐代码",
+      "onboard_time": 1715262200,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 183994,
       "num": 183994,
       "word": "专家建议学校增设春秋假",
@@ -1817,6 +1913,14 @@
       "onboard_time": 1715247920,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182498,
+      "num": 182498,
+      "word": "浙江男篮vs新疆男篮",
+      "onboard_time": 1715262918,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 180871,
@@ -1872,6 +1976,14 @@
       "word": "李耕耘 兔子有在好好长大",
       "onboard_time": 1715259678,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175199,
+      "num": 175199,
+      "word": "王一珩是抢了小丰收的车吗",
+      "onboard_time": 1715264060,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1987,6 +2099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164069,
+      "num": 164069,
+      "word": "2000年前墓葬中发现进口产品",
+      "onboard_time": 1715261119,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162933,
       "num": 162933,
       "word": "一起来看巴黎奥运会",
@@ -1995,20 +2115,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162604,
-      "num": 162604,
-      "word": "2000年前墓葬中发现进口产品",
-      "onboard_time": 1715261119,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162240,
       "num": 162240,
       "word": "瑞幸回应咖啡被曝冰块霉变",
       "onboard_time": 1715239158,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161094,
+      "num": 161094,
+      "word": "爱豆亲自说明的必须去打歌的理由",
+      "onboard_time": 1715263460,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 159094,
@@ -2171,6 +2291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145627,
+      "num": 145627,
+      "word": "原来晒被子不能晒一整天",
+      "onboard_time": 1715263999,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 145371,
       "num": 145371,
       "word": "庆余年",
@@ -2201,6 +2329,14 @@
       "onboard_time": 1715213659,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143554,
+      "num": 143554,
+      "word": "人死后聊天记录会被怎样处理",
+      "onboard_time": 1715263821,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 143301,
@@ -2363,6 +2499,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 130135,
+      "num": 130135,
+      "word": "林诗栋晋级大满贯4强",
+      "onboard_time": 1715261719,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128340,
       "num": 128340,
       "word": "蝴蝶停新郎胸口胸花并非鲜花",
@@ -2385,14 +2529,6 @@
       "onboard_time": 1715221098,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 127288,
-      "num": 127288,
-      "word": "女儿被人说长得不好看",
-      "onboard_time": 1715259859,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 126932,
@@ -2528,14 +2664,6 @@
       "word": "赵丽颖杨幂 戛纳",
       "onboard_time": 1715148500,
       "rank": 37,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 109006,
-      "num": 109006,
-      "word": "费曼是意外 青云是真爱",
-      "onboard_time": 1715261599,
-      "rank": 48,
       "category": "电影"
     },
     {
@@ -2819,6 +2947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71626,
+      "num": 345044,
+      "word": "奇瑞把豪华SUV价格打到了20万内",
+      "onboard_time": 1715261719,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 70640,
       "num": 486114,
       "word": "布达佩斯Citywalk攻略",
@@ -2847,6 +2983,14 @@
       "num": 370665,
       "word": "中国扬琴和匈牙利辛巴龙合奏茉莉花",
       "onboard_time": 1715259317,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 54995,
+      "num": 394066,
+      "word": "匈牙利姑娘说爱看中国爱情剧",
+      "onboard_time": 1715263158,
       "rank": 9,
       "category": "国内时政"
     },

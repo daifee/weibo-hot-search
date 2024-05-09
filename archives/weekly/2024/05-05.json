@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715261689437,
+  "endTime": 1715264252330,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -417,6 +417,14 @@
       "onboard_time": 1715241799,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1430037,
+      "num": 1430037,
+      "word": "诺基亚回归",
+      "onboard_time": 1715259018,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 1416658,
@@ -1011,6 +1019,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 972805,
+      "num": 393616,
+      "word": "王一博车被拖走了",
+      "onboard_time": 1715262560,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 971055,
       "num": 971055,
       "word": "花少北手机壳",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1714991359,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 853212,
+      "num": 853212,
+      "word": "怡宝回应新包装",
+      "onboard_time": 1715261779,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 851731,
@@ -1947,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 698993,
+      "num": 389971,
+      "word": "迄今为止最恐怖的太空照片之一",
+      "onboard_time": 1715262200,
+      "rank": 11,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 698428,
       "num": 698428,
       "word": "汤唯为金高银颁奖",
@@ -1972,7 +2004,7 @@
     },
     {
       "raw_hot": 695972,
-      "num": 235235,
+      "num": 268503,
       "word": "药店门口为什么总写着万艾可到货",
       "onboard_time": 1715252538,
       "rank": 24,
@@ -2171,6 +2203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 649131,
+      "num": 388289,
+      "word": "迪丽热巴不考虑演反派吗",
+      "onboard_time": 1715255896,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 648859,
       "num": 648859,
       "word": "歌手 杨丞琳",
@@ -2244,7 +2284,7 @@
     },
     {
       "raw_hot": 636583,
-      "num": 227229,
+      "num": 285243,
       "word": "那些长期不上班的人最后都怎么样了",
       "onboard_time": 1715255057,
       "rank": 22,
@@ -2435,14 +2475,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 602263,
-      "num": 388289,
-      "word": "迪丽热巴不考虑演反派吗",
-      "onboard_time": 1715255896,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 599179,
       "num": 599179,
       "word": "官方通报摊贩6两蓝莓当1斤卖称都这样",
@@ -2553,6 +2585,14 @@
       "onboard_time": 1715041821,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 574894,
+      "num": 382662,
+      "word": "陈思建宵夜婚礼",
+      "onboard_time": 1715262980,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 573550,
@@ -2857,6 +2897,14 @@
       "onboard_time": 1714884380,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 525017,
+      "num": 525017,
+      "word": "于正回应与庆余年2狐妖撞档",
+      "onboard_time": 1715262980,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 524936,
@@ -3171,6 +3219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484494,
+      "num": 378511,
+      "word": "女儿被人说长得不好看",
+      "onboard_time": 1715259859,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 482431,
       "num": 482431,
       "word": "德芙反式脂肪酸",
@@ -3249,6 +3305,14 @@
       "onboard_time": 1714906640,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 476863,
+      "num": 476863,
+      "word": "王楚钦 一天三赛习惯了",
+      "onboard_time": 1715259619,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 475630,
@@ -4075,6 +4139,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 396830,
+      "num": 396830,
+      "word": "我的阿勒泰 让我演两集",
+      "onboard_time": 1715258358,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394369,
       "num": 358398,
       "word": "邓超你关注下陶白白吧",
@@ -4681,14 +4753,6 @@
       "onboard_time": 1715147842,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 348993,
-      "num": 348993,
-      "word": "王楚钦 一天三赛习惯了",
-      "onboard_time": 1715259619,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 348488,
@@ -5739,6 +5803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282193,
+      "num": 282193,
+      "word": "费曼是意外 青云是真爱",
+      "onboard_time": 1715261599,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 282138,
       "num": 277438,
       "word": "林俊杰肌肉比脸大",
@@ -5953,6 +6025,14 @@
       "onboard_time": 1715017212,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 271873,
+      "num": 271873,
+      "word": "旅客飞机突发疾病抢救无效去世",
+      "onboard_time": 1715262860,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271852,
@@ -6547,6 +6627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242177,
+      "num": 242177,
+      "word": "叫我关小姐",
+      "onboard_time": 1715262200,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241712,
       "num": 241712,
       "word": "杨鸣羡慕杜锋",
@@ -6947,6 +7035,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 226103,
+      "num": 226103,
+      "word": "BLG战胜PSG",
+      "onboard_time": 1715263400,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225787,
       "num": 204174,
       "word": "G2精神状态",
@@ -7033,14 +7129,6 @@
       "onboard_time": 1715246299,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 222773,
-      "num": 222773,
-      "word": "诺基亚回归",
-      "onboard_time": 1715259018,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 222687,
@@ -8507,14 +8595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194999,
-      "num": 194999,
-      "word": "我的阿勒泰 让我演两集",
-      "onboard_time": 1715258358,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194840,
       "num": 194840,
       "word": "王楚钦3比0约内斯库",
@@ -8737,6 +8817,14 @@
       "onboard_time": 1714980619,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192639,
+      "num": 192639,
+      "word": "哈尔滨一九四四大结局",
+      "onboard_time": 1715263821,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 192535,
@@ -9195,6 +9283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184655,
+      "num": 184655,
+      "word": "什么是刮刮乐代码",
+      "onboard_time": 1715262200,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 184541,
       "num": 184541,
       "word": "5天说没就没",
@@ -9377,6 +9473,14 @@
       "onboard_time": 1715054539,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 182498,
+      "num": 182498,
+      "word": "浙江男篮vs新疆男篮",
+      "onboard_time": 1715085860,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 182377,
@@ -9761,6 +9865,14 @@
       "onboard_time": 1714986499,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175199,
+      "num": 175199,
+      "word": "王一珩是抢了小丰收的车吗",
+      "onboard_time": 1715264060,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 175197,
@@ -10395,6 +10507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164069,
+      "num": 164069,
+      "word": "2000年前墓葬中发现进口产品",
+      "onboard_time": 1715261119,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163796,
       "num": 163796,
       "word": "璩静辟谣被开除",
@@ -10481,14 +10601,6 @@
       "onboard_time": 1714903878,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162604,
-      "num": 162604,
-      "word": "2000年前墓葬中发现进口产品",
-      "onboard_time": 1715261119,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162240,
@@ -10593,6 +10705,14 @@
       "onboard_time": 1714875978,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 161094,
+      "num": 161094,
+      "word": "爱豆亲自说明的必须去打歌的理由",
+      "onboard_time": 1715263460,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 160852,
@@ -11483,6 +11603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145627,
+      "num": 145627,
+      "word": "原来晒被子不能晒一整天",
+      "onboard_time": 1715263999,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 145417,
       "num": 145417,
       "word": "中国或支持特斯拉测试无人驾驶出租",
@@ -11601,6 +11729,14 @@
       "onboard_time": 1714877238,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143554,
+      "num": 143554,
+      "word": "人死后聊天记录会被怎样处理",
+      "onboard_time": 1715263821,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 143331,
@@ -12227,6 +12363,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 130135,
+      "num": 130135,
+      "word": "林诗栋晋级大满贯4强",
+      "onboard_time": 1715261719,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130094,
       "num": 130094,
       "word": "王源郑州演唱会过审",
@@ -12297,14 +12441,6 @@
       "onboard_time": 1715221098,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 127288,
-      "num": 127288,
-      "word": "女儿被人说长得不好看",
-      "onboard_time": 1715259859,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 127198,
@@ -13067,14 +13203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109006,
-      "num": 109006,
-      "word": "费曼是意外 青云是真爱",
-      "onboard_time": 1715261599,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 108356,
       "num": 108356,
       "word": "在小公司上班什么体验",
@@ -13120,14 +13248,6 @@
       "word": "王楚钦3比1吉村真晴",
       "onboard_time": 1715168480,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 107045,
-      "num": 107045,
-      "word": "浙江男篮vs新疆男篮",
-      "onboard_time": 1715085860,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -13707,6 +13827,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 71626,
+      "num": 345044,
+      "word": "奇瑞把豪华SUV价格打到了20万内",
+      "onboard_time": 1715261719,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 70980,
       "num": 364222,
       "word": "来一场古风国潮旅游",
@@ -13921,6 +14049,14 @@
       "onboard_time": 1714840457,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 54995,
+      "num": 394066,
+      "word": "匈牙利姑娘说爱看中国爱情剧",
+      "onboard_time": 1715263158,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 52670,
